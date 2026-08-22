@@ -1,8 +1,14 @@
 # binder
 
-Sven Benson's books, in one GitHub binder.
+Sven Benson's **private workshop** in a
+[Bookself](https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md)
+setup. This repository is not the public library. Unpublished manuscripts
+stay here. When a book is meant to be read, copy its folder to
+[Svyable/shelf](https://github.com/Svyable/shelf), set Status to
+`Published`, and add a row under **The books** there.
 
-This is the author working copy of [openbookbinder](https://github.com/Svyable/openbookbinder): plain Markdown, one folder per book, no build step. The framework repo stays empty on purpose. The writing lives here.
+The software is [Open Book Binder](https://github.com/Svyable/openbookbinder).
+The public reader is [svyable.github.io/shelf/reader](https://svyable.github.io/shelf/reader/).
 
 ## The books
 
@@ -16,8 +22,9 @@ This is the author working copy of [openbookbinder](https://github.com/Svyable/o
 
 | If you are… | Start here |
 |---|---|
-| New to GitHub | [Author guide](docs/author-guide.md) — write in the browser |
-| Comfortable with pull requests | [Editor guide](docs/editor-guide.md) and [Contributing](CONTRIBUTING.md) |
+| New to GitHub | [Author guide](docs/author-guide.md) |
+| Running workshop + library | [Bookself](https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md) |
+| Comfortable with pull requests | [Editor guide](docs/editor-guide.md) |
 | Starting a new book | [Book anatomy](docs/book-anatomy.md) |
 | An AI agent | [AGENTS.md](AGENTS.md) |
 

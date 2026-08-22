@@ -42,3 +42,26 @@ Rules for AI agents working in this repository.
   unless a human asked for that by name.
 - Do not commit secrets, credentials, or unpublished manuscripts copied from
   outside this repository.
+- Do not enable GitHub Pages on this workshop unless a human asked.
+- Do not copy unpublished books into the public library unless a human
+  asked to **promote** that title.
+
+## Verbs (author and agent)
+
+**Start a book.** Copy `books/_TEMPLATE/` to `books/<slug>/`. Fill title,
+authors, `Status: Drafting`. Add the slug to the chapter-feedback dropdown.
+
+**Write / edit.** One chapter file per change. If you add, rename, or remove
+a chapter, update that book's README TOC and Chapters count in the same
+change.
+
+**Promote (Bookself).** Copy `books/<slug>/` to the public library
+(`scripts/promote-book.sh <slug> ../shelf`), then Publish **on the
+library** — Status `Published` plus a portal README row. Leave the
+workshop copy in place. Do not edit `reader/` to add a book. See
+https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md
+
+**Publish.** Not on this workshop. Promote first.
+
+**Unpublish.** Reverse Publish on the library. Deleting the workshop folder
+is optional and separate.

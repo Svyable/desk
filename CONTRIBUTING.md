@@ -14,6 +14,11 @@ branch → edit → PR walkthrough.
 If you have never used GitHub, you can still propose an edit from the
 browser. See [the author guide](docs/author-guide.md).
 
+This repository is the private workshop in a
+[Bookself](https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md)
+setup. Publishing to the street happens on
+[Svyable/shelf](https://github.com/Svyable/shelf), not here.
+
 ### 2. File an issue
 
 If you spotted something and do not want to touch the text yourself, open an

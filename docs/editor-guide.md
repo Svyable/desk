@@ -36,6 +36,14 @@ When you add a book:
 When you retire a book, remove its option in the same PR that removes the
 folder.
 
+## Publishing happens on the library
+
+This is the private workshop. Do not treat Status `Published` here as a
+public catalog. Promote by copying the book folder to
+[Svyable/shelf](https://github.com/Svyable/shelf), then set Status and the
+README row **on the library**. See
+[Bookself](https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md).
+
 ## Line-comment reviews
 
 Review the manuscript, not the idea of the book, unless the PR is a new-book
