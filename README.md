@@ -27,9 +27,39 @@ The public reader is [svyable.github.io/shelf/reader](https://svyable.github.io/
 
 **Write → Preview → Release.**
 
-Write and revise under `books/<slug>/` in this private Binder. Preview locally
-with the Reader and Publishing Desk. Keep the public Shelf copy unchanged while
-a new edition is in progress.
+Write and revise under `books/<slug>/` in this private Binder. Keep the public
+Shelf copy unchanged while a new edition is in progress.
+
+### Preview locally — no Actions required
+
+Bookself preview is local static software. It does not need GitHub Actions,
+Pages on this private repository, a hosted runner, or a build artifact.
+
+This particular Svyable Binder predates the rule that stamped Binder instances
+include `reader/` and `desk/` automatically. Bootstrap those shared directories
+once from a sibling Bookself checkout:
+
+```bash
+scripts/bootstrap-ui.sh ../bookself
+```
+
+That command delegates to Bookself's `scripts/sync-ui.sh`, copies only
+`reader/` and `desk/`, and leaves manuscripts and Binder identity alone. Review
+and commit the copied UI here. New binders created with current
+`stamp-instance.sh` already include the shared UI and do not need this migration.
+
+Then preview entirely on the local machine:
+
+```bash
+python3 -m http.server
+```
+
+Open:
+
+- `http://127.0.0.1:8000/reader/`
+- `http://127.0.0.1:8000/desk/`
+
+### Release locally
 
 When a revision is ready, commit it here first, then prepare the public release:
 
@@ -37,11 +67,15 @@ When a revision is ready, commit it here first, then prepare the public release:
 scripts/release-book.sh <slug> ../shelf
 ```
 
-The release command refuses uncommitted book changes and dirty Shelf release
-paths. It prepares the Shelf copy with `Status: Published`, adds or updates the
-Shelf catalog row, verifies the copied publication files against this committed
-Binder snapshot, and stops before commit or push so the public diff can be
-reviewed.
+The release command runs locally with Git and Python's standard library. It
+refuses uncommitted book changes and dirty Shelf release paths. It prepares the
+Shelf copy with `Status: Published`, adds or updates the Shelf catalog row,
+verifies the copied publication files against this committed Binder snapshot,
+and stops before commit or push so the public diff can be reviewed.
+
+No private-repository GitHub Actions run is part of this path. A pull request or
+CI check can be used for review when useful, but Bookself does not require one
+to release a book.
 
 `scripts/promote-book.sh` is the lower-level copy-only command. It does not
 publish and does not create a live Binder ↔ Shelf link.
