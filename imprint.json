@@ -1,0 +1,17 @@
+{
+  "role": "binder",
+  "name": "Svyable Binder",
+  "shortName": "Binder",
+  "description": "Private writing workspace for Svyable Bookself publications.",
+  "kicker": "Private Binder · Draft here · Release deliberately",
+  "lede": "Drafts and next revisions live here. Released editions live separately on the public Shelf.",
+  "writeHref": "../desk/",
+  "writeLabel": "Publishing desk",
+  "homeLabel": "Binder",
+  "storagePrefix": "svb",
+  "steps": [],
+  "github": {
+    "owner": "Svyable",
+    "repo": "binder"
+  }
+}
