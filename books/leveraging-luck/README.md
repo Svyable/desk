@@ -26,4 +26,5 @@ An Optimistic Guide to Life.
 - [x] [Reading Lineage](manuscript/reading-lineage.md)
 - [x] [Narrative Spine & Chapter Weave](manuscript/chapter-weave.md)
 - [x] [Sven Hardy Benson Quote Registry](manuscript/quote-registry.md)
+- [x] [Extended Sven Hardy Benson Quote Bank](manuscript/quote-bank-extended.md)
 - [x] [Back Matter](manuscript/back-matter.md)
