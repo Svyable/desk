@@ -13,6 +13,20 @@ Rules for AI agents working in this repository.
 - When you add a book, add its slug to the Book dropdown in
   `.github/ISSUE_TEMPLATE/chapter-feedback.yml` in the same change.
 
+## Binder / Shelf boundary
+
+This repository is the **private Binder**. It contains drafts and the next
+working edition of books that may already have an older edition on the public
+Shelf.
+
+Binder and Shelf are separate Git repositories. The Shelf does not reference or
+read this repository at runtime. Releasing a book copies a committed snapshot
+from Binder into Shelf; after release the copies are independent until the next
+release.
+
+Normal direction of manuscript flow is **Binder → Shelf**, never a two-way sync.
+Shared `reader/` and `desk/` UI is copied separately from the Bookself platform.
+
 ## Voice
 
 - For book, essay, narrative, or other voice-sensitive prose tasks, read and apply
@@ -42,11 +56,11 @@ Rules for AI agents working in this repository.
   style) as a drive-by.
 - Do not add a build step, GitHub Pages, CODEOWNERS, or branch protection
   unless a human asked for that by name.
-- Do not commit secrets, credentials, or unpublished manuscripts copied from
-  outside this repository.
+- Do not commit secrets or credentials.
 - Do not enable GitHub Pages on this binder unless a human asked.
-- Do not copy unpublished books into the public shelf unless a human
-  asked to **promote** that title.
+- Do not copy unpublished books into the public shelf unless a human asked to
+  **release** that title.
+- Do not mark the Binder copy `Published`; `Published` is a Shelf state.
 
 ## Verbs (author and agent)
 
@@ -57,13 +71,28 @@ authors, `Status: Drafting`. Add the slug to the chapter-feedback dropdown.
 a chapter, update that book's README TOC and Chapters count in the same
 change.
 
-**Promote (Bookself).** Copy `books/<slug>/` to the public shelf
-(`scripts/promote-book.sh <slug> ../shelf`), then Publish **on the
-shelf** — Status `Published` plus a portal README row. Leave the
-binder copy in place. Do not edit `reader/` to add a book. See
-https://github.com/Svyable/bookself/blob/main/docs/bookself.md
+**Preview.** Serve this Binder locally and use `reader/#/b/<slug>/` and
+`desk/`. Do not make the Binder public just to obtain a preview URL.
 
-**Publish.** Not on this binder. Promote first.
+**Release (Bookself).** Commit the publication in Binder first, then run
+`scripts/release-book.sh <slug> ../shelf`. The command refuses uncommitted
+publication changes and dirty Shelf release paths, verifies Binder/Shelf roles,
+prepares an exact replacement Shelf snapshot, sets the Shelf copy to
+`Published`, updates the Shelf catalog row, verifies copied publication files
+against the committed Binder snapshot, and stops before commit or push. Review
+and land the resulting change in the Shelf repository.
 
-**Unpublish.** Reverse Publish on the shelf. Deleting the binder folder
+**Promote / copy only.** `scripts/promote-book.sh <slug> ../shelf` is the
+lower-level file-copy operation. It does not publish, verify the release, or
+create a live Binder ↔ Shelf relationship. Prefer **Release** normally.
+
+**Publish.** Not on this Binder. Release to Shelf first.
+
+**Revise a published book.** Revise this Binder copy while the current Shelf
+edition stays unchanged. Commit the Binder revision and Release it when ready.
+
+**Unpublish.** Reverse the publication state on Shelf. Deleting the Binder copy
 is optional and separate.
+
+See https://github.com/Svyable/bookself/blob/main/docs/revisions.md for the
+canonical revision and release model.
