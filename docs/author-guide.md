@@ -5,9 +5,9 @@ each chapter is a page, and GitHub keeps every version.
 
 This walkthrough uses the GitHub website on a computer.
 
-This repository is the **private workshop** in a
-[Bookself](https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md)
-setup. The public library is [Svyable/shelf](https://github.com/Svyable/shelf).
+This repository is the **private binder** in a
+[Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
+setup. The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf).
 There is no public reader here.
 
 ## In one minute
@@ -15,7 +15,7 @@ There is no public reader here.
 1. Copy `books/_TEMPLATE/` to `books/your-title/` (lowercase, hyphens).
 2. Open a chapter, click the pencil, write, and **Commit changes**.
 3. When the book is meant to be read, copy its folder to the public
-   library, set Status to `Published` **there**, and add a README row
+   shelf, set Status to `Published` **there**, and add a README row
    **there**.
 
 The rest of this guide is the same path, slower.
@@ -112,11 +112,11 @@ If you would rather not touch the text:
 Use **New book proposal** only when you are pitching a title that does not
 exist yet.
 
-## 8. Promoting to the public library
+## 8. Promoting to the public shelf
 
 Do not set Status to `Published` expecting a public shelf on this
 repository. Copy the book folder to
 [Svyable/shelf](https://github.com/Svyable/shelf) (or run
-`scripts/promote-book.sh your-title ../shelf` from this workshop), then
-publish on the library. Details:
-[Bookself](https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md).
+`scripts/promote-book.sh your-title ../shelf` from this binder), then
+publish on the shelf. Details:
+[Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md).

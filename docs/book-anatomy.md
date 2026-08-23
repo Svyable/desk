@@ -56,10 +56,10 @@ list:
 Tick boxes by editing `[ ]` to `[x]` (see the author guide). Update the
 Chapters count when it drifts.
 
-**Status** on this workshop does not put a book on the public shelf.
-Promote the folder to the public library, then set Status to `Published`
+**Status** on this binder does not put a book on the public shelf.
+Promote the folder to the public shelf, then set Status to `Published`
 there. See
-[Bookself](https://github.com/Svyable/openbookbinder/blob/main/docs/bookself.md).
+[Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md).
 
 ## Manuscript
 
