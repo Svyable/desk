@@ -22,6 +22,7 @@ The public reader is [svyable.github.io/shelf/reader](https://svyable.github.io/
 | [Leveraging Luck](books/leveraging-luck/) | @svyable | Drafting |
 | [The Exponentiality](books/the-exponentiality/) | @svyable | Not yet drafted |
 | [The Unbounding](books/the-unbounding/) | @svyable | Complete draft |
+| [The Convergence](books/the-convergence/) | @svyable | Drafting |
 
 ## The simple workflow
 
