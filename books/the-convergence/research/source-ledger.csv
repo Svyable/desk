@@ -1,0 +1,21 @@
+id,year,author_or_institution,title,source_type,book_use,url
+1,1922,Alfred J. Lotka,Contribution to the Energetics of Evolution,Original journal article,Energy and evolution lineage,https://doi.org/10.1073/pnas.8.6.147
+2,1943,Leslie A. White,Energy and the Evolution of Culture,Original journal article,Direct intellectual antecedent,https://doi.org/10.1525/aa.1943.45.3.02a00010
+3,1964,Nikolai S. Kardashev,Transmission of Information by Extraterrestrial Civilizations,Original journal article,Power-based civilization scale,https://adsabs.harvard.edu/pdf/1964SvA.....8..217K
+4,2011,Eric J. Chaisson,Energy Rate Density as a Complexity Metric and Evolutionary Driver,Original journal article,Energy flow and complexity,https://doi.org/10.1002/cplx.20323
+5,2005,Robert U. Ayres and Benjamin Warr,Accounting for growth: the role of physical work,Original journal article,Useful work and economic growth,https://doi.org/10.1016/j.strueco.2003.10.003
+6,1998,Roger Fouquet and Peter J. G. Pearson,A Thousand Years of Energy Use in the United Kingdom,Original journal article,Deep energy history,https://doi.org/10.5547/ISSN0195-6574-EJ-Vol19-No4-1
+7,2006,Roger Fouquet and Peter J. G. Pearson,Seven Centuries of Energy Services,Original journal article,Energy service prices and welfare,https://doi.org/10.5547/ISSN0195-6574-EJ-Vol27-No1-8
+8,2026,U.S. Energy Information Administration,250-year history of U.S. energy consumption,Official statistical series,U.S. energy transition,https://www.eia.gov/todayinenergy/detail.php?id=67824
+9,2024,Maddison Project,Maddison Project Database 2023,Academic dataset,Long-run GDP and population,https://doi.org/10.34894/INZBF2
+10,2024,United Nations,World Population Prospects 2024,Official demographic dataset,Per-capita denominators and scenarios,https://www.un.org/development/desa/pd/content/world-population-prospects-2024-dataset
+11,2026,Energy Institute,Statistical Review of World Energy 2026,Global statistical dataset,Modern global energy system,https://www.energyinst.org/statistical-review/resources-and-data-downloads
+12,2026,International Energy Agency,Global Energy Review 2026,Official assessment and dataset,Observed 2025 global transition,https://www.iea.org/reports/global-energy-review-2026
+13,2026,International Energy Agency,Electricity 2026,Official assessment and forecast,Age of Electricity,https://www.iea.org/reports/electricity-2026
+14,2026,International Energy Agency,World Energy Investment 2026,Official assessment and datafile,Capital allocation across energy system,https://www.iea.org/reports/world-energy-investment-2026
+15,2026,International Renewable Energy Agency,Renewable Capacity Statistics 2026,Official capacity statistics,Renewable buildout,https://www.irena.org/Publications/2026/Mar/Renewable-capacity-statistics-2026
+16,2025,International Energy Agency,Energy and AI,Official modelling and dataset,AI and electricity demand,https://www.iea.org/reports/energy-and-ai
+17,2024,Lawrence Berkeley National Laboratory,United States Data Center Energy Usage Report,National laboratory report,U.S. data-center electricity demand,https://doi.org/10.71468/P1WC7Q
+18,2026,Lawrence Berkeley National Laboratory,Queued Up 2026,National laboratory database,Grid interconnection constraint,https://emp.lbl.gov/queues
+19,2026,International Atomic Energy Agency,Power Reactor Information System,Authoritative reactor database,Nuclear fleet and construction,https://pris.iaea.org/PRIS/Home.aspx
+20,2026,Lawrence Livermore National Laboratory,Achieving Fusion Ignition,Primary laboratory record,Fusion frontier evidence,https://lasers.llnl.gov/science/achieving-fusion-ignition
