@@ -18,6 +18,7 @@ body:
         - leveraging-luck
         - the-exponentiality
         - the-unbounding
+        - the-convergence
         - _TEMPLATE
     validations:
       required: true
