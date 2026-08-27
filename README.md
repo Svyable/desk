@@ -57,6 +57,19 @@ the preview does **not** turn a Binder manuscript into a released Shelf edition.
 This preview is branch-served static Pages. It does not require a GitHub Actions
 workflow, build artifact, or hosted deployment job.
 
+### Agent discovery
+
+The public Pages surface deliberately includes low-noise entry points for search
+crawlers and AI agents:
+
+- [`/llms.txt`](https://svyable.github.io/binder/llms.txt) — curated map of Binder, books, and important manuscript pages.
+- [`/robots.txt`](https://svyable.github.io/binder/robots.txt) — crawl policy; the public working-draft surface is intentionally crawlable.
+- [`/sitemap.xml`](https://svyable.github.io/binder/sitemap.xml) — machine-readable inventory of key public pages.
+- [`/AGENTS.md`](https://svyable.github.io/binder/AGENTS.md) — instructions for agents that are actually modifying Binder content.
+
+These are discovery aids, not publication markers. A Binder manuscript remains a
+working draft until it is explicitly released to Shelf.
+
 ### Preview locally
 
 You can also serve the repository locally:
@@ -89,7 +102,7 @@ and stops before commit or push so the public diff can be reviewed.
 
 The public Binder Reader is only the live working preview; it is not part of the
 release transaction. `scripts/promote-book.sh` remains the lower-level copy-only
-command and does not publish or create a live Binder ↔ Shelf link.
+command and does not publish or create a live Binder ↔ Shelf relationship.
 
 For the full revision model, see
 [Revising a published book](https://github.com/Svyable/bookself/blob/main/docs/revisions.md).
