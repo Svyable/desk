@@ -4,10 +4,10 @@
 
 | | |
 |---|---|
-| **Status** | Drafting |
+| **Status** | Complete draft |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 1 of 12 drafted |
+| **Chapters** | 12 of 12 drafted |
 | **Method** | Sensory narrative + primary-source research + falsification notes |
 
 Most of the forces that organize modern life are easiest to ignore when they are working.
@@ -18,7 +18,7 @@ This book is about bringing that background forward.
 
 The central wager is simple: ordinary perception is full of compressed information. A metallic taste in tap water, the low hum beside a transformer, the sting of dry winter air, the smell after rain, a grocery-store tomato in January, the delay between lightning and thunder, the chill of an air-conditioned lobby, the vibration through a subway platform—each can be read as evidence of a larger physical or social system.
 
-The book will teach readers to notice those systems with all five senses, then connect sensation to the hidden machinery behind it. It should remain approachable enough to read like a walk through an ordinary day, but rigorous enough that a claim can be traced to measurements, standards, filings, technical papers, or original research.
+The book teaches readers to notice those systems with all five senses, then connect sensation to the hidden machinery behind it. It remains approachable enough to read like a walk through an ordinary day, but rigorous enough that major claims have a source trail in the research notes.
 
 ## Editorial principles
 
@@ -28,29 +28,29 @@ The book will teach readers to notice those systems with all five senses, then c
 4. **Separate fact from metaphor.** Vivid writing may clarify a mechanism but must not smuggle in claims.
 5. **Keep scale honest.** Distinguish a household example from a citywide, national, or global claim.
 6. **Look for what would make the story false.** Each chapter should contain counterexamples, boundary conditions, or evidence that complicates the neat version.
-7. **Edit the whole book, not just the new page.** Each drafting pass should remove repetition, preserve motifs, maintain definitions, and keep later discoveries from contradicting earlier chapters.
+7. **Edit the whole book, not just the new page.** Revisions should remove repetition, preserve motifs, maintain definitions, and keep later discoveries from contradicting earlier chapters.
 8. **Make the invisible actionable.** Readers should finish with small experiments, observations, or questions they can use to notice the system themselves.
 
 ## Contents
 
-- [ ] Front Matter — *Learning to Notice*
+- [x] [Front Matter — Learning to Notice](manuscript/front-matter.md)
 - [x] [Chapter 1 — Air Is Not Empty](manuscript/ch01-air-is-not-empty.md)
-- [ ] Chapter 2 — *The Weight of Weather* — pressure, altitude, humidity, wind, and the body as instrument
-- [ ] Chapter 3 — *The Tyranny of Temperature* — refrigeration, HVAC, cold chains, heat pumps, and why “room temperature” is engineered
-- [ ] Chapter 4 — *The Clock Inside Everything* — atomic time, GPS, networks, finance, power grids, and the manufactured simultaneity of modern life
-- [ ] Chapter 5 — *The Grid Has a Voice* — frequency, transformers, harmonics, motors, inverters, and the soundscape of electricity
-- [ ] Chapter 6 — *Friction Writes the Rules* — shoes, tires, bearings, lubrication, braking, pipes, and the force noticed mainly when it changes
-- [ ] Chapter 7 — *The Taste of Pipes* — water chemistry, minerals, treatment, plumbing, corrosion, temperature, and why “pure” water is not what most people drink
-- [ ] Chapter 8 — *The Microbial City* — soil, fermentation, decay, wastewater, food, surfaces, and the organisms whose chemistry reaches our senses first
-- [ ] Chapter 9 — *The Box That Conquered the World* — pallets, containers, thread standards, paper sizes, barcodes, and the quiet power of compatibility
-- [ ] Chapter 10 — *The Night Shift* — warehouses, freight, cleaning, patching, inspection, replenishment, and the work that makes morning look effortless
-- [ ] Chapter 11 — *Where Everything Goes* — storm drains, sewers, landfills, recycling, treatment plants, waste heat, and the geography of disappearance
-- [ ] Chapter 12 — *How to Notice the World Again* — a field guide for reading ordinary environments as layered systems
-- [ ] Back Matter — notes, sources, acknowledgments, glossary, sensory field exercises
+- [x] [Chapter 2 — The Weight of Weather](manuscript/ch02-the-weight-of-weather.md)
+- [x] [Chapter 3 — The Tyranny of Temperature](manuscript/ch03-the-tyranny-of-temperature.md)
+- [x] [Chapter 4 — The Clock Inside Everything](manuscript/ch04-the-clock-inside-everything.md)
+- [x] [Chapter 5 — The Grid Has a Voice](manuscript/ch05-the-grid-has-a-voice.md)
+- [x] [Chapter 6 — Friction Writes the Rules](manuscript/ch06-friction-writes-the-rules.md)
+- [x] [Chapter 7 — The Taste of Pipes](manuscript/ch07-the-taste-of-pipes.md)
+- [x] [Chapter 8 — The Microbial City](manuscript/ch08-the-microbial-city.md)
+- [x] [Chapter 9 — The Box That Conquered the World](manuscript/ch09-the-box-that-conquered-the-world.md)
+- [x] [Chapter 10 — The Night Shift](manuscript/ch10-the-night-shift.md)
+- [x] [Chapter 11 — Where Everything Goes](manuscript/ch11-where-everything-goes.md)
+- [x] [Chapter 12 — How to Notice the World Again](manuscript/ch12-how-to-notice-the-world-again.md)
+- [x] [Back Matter — evidence note, glossary, field exercises](manuscript/back-matter.md)
 
 ## Continuity motifs
 
-The manuscript should repeatedly return to a few ideas without repeating the same explanation:
+The manuscript repeatedly returns to a few ideas without requiring the same explanation each time:
 
 - **Background becomes visible through failure.** A system is often noticed first when it stops working.
 - **The senses are instruments, but badly calibrated ones.** They are exquisitely sensitive to some signals and almost blind to others.
@@ -62,4 +62,4 @@ The manuscript should repeatedly return to a few ideas without repeating the sam
 
 ## Research discipline
 
-See [research/README.md](research/README.md). Each chapter should maintain a source trail and a short “what would make this false or incomplete?” note so future hourly revisions have something firmer than memory to work from.
+See [research/README.md](research/README.md). Every technical chapter has a source trail and a “what would make this false or incomplete?” note. The continuity log records only decisions that future revisions need to preserve.
