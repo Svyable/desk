@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 6 of 11 drafted |
+| **Chapters**  | 7 of 11 drafted |
 
 Why the World's Most Liquid Markets Keep Disappearing When You Need Them Most.
 
@@ -20,7 +20,7 @@ The book traces that pattern from the portfolio-insurance spiral of Black Monday
 - [x] [Ch 1 — The Day the Bids Disappeared](manuscript/ch01-the-day-the-bids-disappeared.md)
 - [x] [Ch 2 — A Promise, Not a Thing](manuscript/ch02-a-promise-not-a-thing.md)
 - [x] [Ch 3 — The Machines Take the Book](manuscript/ch03-the-machines-take-the-book.md)
-- [ ] [Ch 4 — When Everyone Runs the Same Model](manuscript/ch04-when-everyone-runs-the-same-model.md)
+- [x] [Ch 4 — When Everyone Runs the Same Model](manuscript/ch04-when-everyone-runs-the-same-model.md)
 - [ ] [Ch 5 — The ETF That Promised More Than Its Parts](manuscript/ch05-the-etf-that-promised-more.md)
 - [ ] [Ch 6 — The World's Safest Market Breaks](manuscript/ch06-the-worlds-safest-market-breaks.md)
 - [x] [Ch 7 — The Pension Doom Loop](manuscript/ch07-the-pension-doom-loop.md)
