@@ -22,6 +22,7 @@ body:
         - predictable
         - the-world-beneath-the-world
         - proof-of-human
+        - single-points-of-failure
         - _TEMPLATE
     validations:
       required: true
