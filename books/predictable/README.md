@@ -36,3 +36,6 @@ The aim is not to predict the date of an AI crash. It is to investigate the recu
 ## Research
 
 - [Research brief](research/README.md)
+- [Chapter briefs](research/chapter-briefs.md)
+- [Automation runbook](research/automation-runbook.md)
+- [Source ledger](research/source-ledger.csv)
