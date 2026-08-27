@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 3 of 11 drafted |
+| **Chapters**  | 4 of 11 drafted |
 
 Why the World's Most Liquid Markets Keep Disappearing When You Need Them Most.
 
@@ -24,7 +24,7 @@ The book traces that pattern from the portfolio-insurance spiral of Black Monday
 - [ ] [Ch 5 — The ETF That Promised More Than Its Parts](manuscript/ch05-the-etf-that-promised-more.md)
 - [ ] [Ch 6 — The World's Safest Market Breaks](manuscript/ch06-the-worlds-safest-market-breaks.md)
 - [x] [Ch 7 — The Pension Doom Loop](manuscript/ch07-the-pension-doom-loop.md)
-- [ ] [Ch 8 — The Squeeze Heard on Reddit](manuscript/ch08-the-squeeze-heard-on-reddit.md)
+- [x] [Ch 8 — The Squeeze Heard on Reddit](manuscript/ch08-the-squeeze-heard-on-reddit.md)
 - [x] [Ch 9 — Liquidity Theater](manuscript/ch09-liquidity-theater.md)
 - [ ] [Ch 10 — When the Traders Are Agents](manuscript/ch10-when-the-traders-are-agents.md)
 - [ ] [Ch 11 — The Tuesday That Isn't Ordinary](manuscript/ch11-the-tuesday-that-isnt-ordinary.md)
