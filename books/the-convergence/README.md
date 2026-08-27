@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 0 of 12 drafted |
+| **Chapters**  | 1 of 12 drafted |
 
 Energy and the Advance of the Human Race.
 
@@ -15,7 +15,7 @@ The working thesis is that the advance of human civilization can be read through
 ## Contents
 
 - [ ] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — Fire Before History](manuscript/ch01-fire-before-history.md)
+- [x] [Ch 1 — Fire Before History](manuscript/ch01-fire-before-history.md)
 - [ ] [Ch 2 — The First Surplus](manuscript/ch02-the-first-surplus.md)
 - [ ] [Ch 3 — Coal and the Compression of Time](manuscript/ch03-coal-and-the-compression-of-time.md)
 - [ ] [Ch 4 — The Grid](manuscript/ch04-the-grid.md)
