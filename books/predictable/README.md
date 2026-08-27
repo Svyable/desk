@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 5 of 12 drafted |
+| **Chapters**  | 6 of 12 drafted |
 
 AI, Prediction Markets, and the Next Great Bubble.
 
@@ -24,7 +24,7 @@ The aim is not to predict the date of an AI crash. It is to investigate the recu
 - [x] [Ch 3 — Railroads, Radios, Routers](manuscript/ch03-railroads-radios-routers.md)
 - [x] [Ch 4 — The Capital Cycle](manuscript/ch04-the-capital-cycle.md)
 - [x] [Ch 5 — The Compute Gold Rush](manuscript/ch05-the-compute-gold-rush.md)
-- [ ] [Ch 6 — The Physical AI Trade](manuscript/ch06-the-physical-ai-trade.md)
+- [x] [Ch 6 — The Physical AI Trade](manuscript/ch06-the-physical-ai-trade.md)
 - [ ] [Ch 7 — The Trillion-Dollar Spreadsheet](manuscript/ch07-the-trillion-dollar-spreadsheet.md)
 - [ ] [Ch 8 — The Market for Tomorrow](manuscript/ch08-the-market-for-tomorrow.md)
 - [ ] [Ch 9 — A Number Is Not Knowledge](manuscript/ch09-a-number-is-not-knowledge.md)
