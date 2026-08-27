@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Svyable Binder Reader</title>
+</head>
+<body>
+  <p id="boot">Opening Binder Reader…</p>
+  <script>
+    (async () => {
+      const upstream = 'https://svyable.github.io/shelf/reader/';
+      try {
+        const response = await fetch(upstream, { cache: 'no-cache' });
+        if (!response.ok) throw new Error(`Shared Reader returned ${response.status}`);
+        let html = await response.text();
+
+        html = html.replace(/(href|src)="(?!https?:|data:|#|\/)([^"]+)"/g, (_match, attr, value) => {
+          if (attr === 'src' && /^js\/app\.js(?:\?|$)/.test(value)) {
+            return 'src="js/app-loader.js"';
+          }
+          return `${attr}="${new URL(value, upstream).href}"`;
+        });
+
+        html = html.replace(
+          /src="https:\/\/svyable\.github\.io\/shelf\/reader\/js\/app\.js[^"]*"/,
+          'src="js/app-loader.js"'
+        );
+
+        document.open();
+        document.write(html);
+        document.close();
+      } catch (error) {
+        document.getElementById('boot').textContent =
+          `Could not load the shared Reader: ${error.message}`;
+      }
+    })();
+  </script>
+</body>
+</html>
