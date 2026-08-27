@@ -13,16 +13,24 @@ snapshot into Shelf, verifies the copy, and then the two copies are independent
 until the next release.
 
 The software is [Bookself](https://github.com/Svyable/bookself).
-The public reader is [svyable.github.io/shelf/reader](https://svyable.github.io/shelf/reader/).
+
+**Binder Reader — working drafts:** [svyable.github.io/binder/reader](https://svyable.github.io/binder/reader/)  
+**Shelf Reader — released editions:** [svyable.github.io/shelf/reader](https://svyable.github.io/shelf/reader/)  
+
+The Binder repository stays private, but its Reader is intentionally public.
+The Pages deployment exposes only reader-facing publication files: each book's
+README, `reader.json`, `manuscript/`, and `media/`, plus the Binder catalog and
+identity. Research folders, scripts, agent instructions, release tooling, and
+other repository internals are not included in the public Pages artifact.
 
 ## The books
 
-| Book | Authors | Status |
-|---|---|---|
-| [Leveraging Luck](books/leveraging-luck/) | @svyable | Drafting |
-| [The Exponentiality](books/the-exponentiality/) | @svyable | Not yet drafted |
-| [The Unbounding](books/the-unbounding/) | @svyable | Complete draft |
-| [The Convergence](books/the-convergence/) | @svyable | Drafting |
+| Book | Authors | Status | Binder preview | Shelf edition |
+|---|---|---|---|---|
+| [Leveraging Luck](books/leveraging-luck/) | @svyable | Revision in progress | [Read working draft](https://svyable.github.io/binder/reader/#/b/leveraging-luck/) | [Read released edition](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
+| [The Exponentiality](books/the-exponentiality/) | @svyable | Not yet drafted | [Open Binder preview](https://svyable.github.io/binder/reader/#/b/the-exponentiality/) | Not released |
+| [The Unbounding](books/the-unbounding/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-unbounding/) | Not released |
+| [The Convergence](books/the-convergence/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-convergence/) | Not released |
 
 ## The simple workflow
 
@@ -31,10 +39,27 @@ The public reader is [svyable.github.io/shelf/reader](https://svyable.github.io/
 Write and revise under `books/<slug>/` in this private Binder. Keep the public
 Shelf copy unchanged while a new edition is in progress.
 
+### Public Binder preview
+
+Every push to `main` that changes a book, the Binder catalog, or Binder identity
+builds the public Reader at:
+
+- `https://svyable.github.io/binder/reader/`
+
+This preview is deliberately a **working-draft surface**, not a Shelf release.
+Draft and revision statuses remain draft statuses in the Binder. The Reader
+catalog includes Binder drafts so you can move between working books without
+marking them `Published`.
+
+The public preview uses the shared Reader from the Bookself platform and creates
+a narrow Pages artifact containing only reader-facing files. The private Git
+repository remains the source of truth.
+
 ### Preview locally — no Actions required
 
-Bookself preview is local static software. It does not need GitHub Actions,
-Pages on this private repository, a hosted runner, or a build artifact.
+Bookself remains local-first. Writing, previewing, release preparation, and
+recovery do not depend on GitHub Actions, Pages, a hosted runner, or a build
+artifact.
 
 This particular Svyable Binder predates the rule that stamped Binder instances
 include `reader/` and `desk/` automatically. Bootstrap those shared directories
@@ -74,9 +99,9 @@ Shelf copy with `Status: Published`, adds or updates the Shelf catalog row,
 verifies the copied publication files against this committed Binder snapshot,
 and stops before commit or push so the public diff can be reviewed.
 
-No private-repository GitHub Actions run is part of this path. A pull request or
-CI check can be used for review when useful, but Bookself does not require one
-to release a book.
+The Binder Reader Pages job is only a convenience preview; it is not part of the
+release path. A pull request or CI check can be used for review when useful, but
+Bookself does not require one to release a book.
 
 `scripts/promote-book.sh` is the lower-level copy-only command. It does not
 publish and does not create a live Binder ↔ Shelf link.
