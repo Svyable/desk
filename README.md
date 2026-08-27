@@ -15,10 +15,34 @@ The software is [Bookself](https://github.com/Svyable/bookself).
 **Binder Reader — working drafts:** [svyable.github.io/binder/reader](https://svyable.github.io/binder/reader/)  
 **Shelf Reader — released editions:** [svyable.github.io/shelf/reader](https://svyable.github.io/shelf/reader/)  
 
-The repository itself remains private on GitHub, but the Pages site is public.
-This is deliberate: when Pages is served from `main` / root, files committed to
-the Pages source can also be reachable by their Pages URLs. Do not put secrets,
-credentials, or anything that must remain confidential in this Binder.
+## GitHub plan requirement
+
+This Binder demonstrates Bookself's optional **private repository + public
+working-proof Reader** mode.
+
+| Surface | Repository visibility | GitHub plan |
+|---|---|---|
+| Local Binder Reader / Desk | Private | GitHub Free is enough |
+| Public Shelf Reader | Public | GitHub Free is enough |
+| Public Binder Reader from this private repository | Private source, public website | GitHub Pro for a personal repository, or another eligible paid GitHub plan |
+
+Bookself itself does not require GitHub Pro. The normal free path is to keep the
+Binder private, preview it locally, and publish released editions from a public
+Shelf repository. GitHub Pro is only needed for this extra convenience: keeping
+the Binder Git repository private while also serving its working Reader through
+GitHub Pages.
+
+If the account does not have private-repository Pages eligibility, this Binder
+continues to work normally as a private writing repository and local Reader, but
+`https://svyable.github.io/binder/reader/` will not be served from the private
+repository.
+
+The repository itself remains private on GitHub, but when the Binder Pages site
+is enabled the website is **public**. This is deliberate working in public, not
+a privacy feature. Files in the Pages source can be reachable by their Pages
+URLs. Do not put secrets, credentials, or anything that must remain confidential
+in this Binder. A client-side password would not make a public static Pages site
+confidential.
 
 ## The books
 
@@ -36,8 +60,9 @@ credentials, or anything that must remain confidential in this Binder.
 **Write → Preview → Release.**
 
 Write and revise under `books/<slug>/` in Binder. The public Binder Reader shows
-the current working version. The Shelf keeps the deliberately released edition
-unchanged until the next release.
+the current working version when the optional private-repository Pages feature
+is enabled. The Shelf keeps the deliberately released edition unchanged until
+the next release.
 
 ### Public Binder preview
 
@@ -55,7 +80,8 @@ Binder status remains `Drafting`, `Complete draft`, or `Revision in progress`;
 the preview does **not** turn a Binder manuscript into a released Shelf edition.
 
 This preview is branch-served static Pages. It does not require a GitHub Actions
-workflow, build artifact, or hosted deployment job.
+workflow, build artifact, or hosted deployment job. It does require GitHub's
+private-repository Pages entitlement because the source repository is private.
 
 ### Agent discovery
 
@@ -72,7 +98,7 @@ working draft until it is explicitly released to Shelf.
 
 ### Preview locally
 
-You can also serve the repository locally:
+You can always serve the repository locally, including on GitHub Free:
 
 ```bash
 python3 -m http.server
