@@ -6,6 +6,7 @@ Use this file as a low-noise map of the Binder. Working drafts may change. Do no
 
 ## Primary entry points
 
+- [Svyable Binder home](https://svyable.github.io/binder/): crawlable catalog with semantic links and book metadata.
 - [Binder Reader](https://svyable.github.io/binder/reader/): human-facing reader for current working drafts.
 - [Repository overview](https://svyable.github.io/binder/README.md): Binder/Shelf model, book catalog, preview and release workflow.
 - [Agent guidance](https://svyable.github.io/binder/AGENTS.md): rules for AI agents working with Binder content and repository structure.
