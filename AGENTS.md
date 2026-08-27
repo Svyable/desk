@@ -7,7 +7,10 @@ Rules for AI agents working in this repository.
 - Do only what was asked. Do not rewrite neighboring chapters, "clean up"
   prose, or reformat files you were not told to touch.
 - One chapter per pull request. If a task spans books or chapters, stop and
-  split the work.
+  split the work. This does not apply to a task that explicitly asks for an
+  entire new book in one pass (a scheduled or automated full-book drop); that
+  case is scoped instead by `docs/book-brief-standard.md`, which sets the
+  minimum length and chapter count such a run should hit.
 - When you add, rename, or remove a chapter, update that book's README
   table of contents and the Chapters count in the same change.
 - When you add a book, add its slug to the Book dropdown in
