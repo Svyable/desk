@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 0 of 12 drafted |
+| **Chapters**  | 1 of 12 drafted |
 
 AI, Prediction Markets, and the Next Great Bubble.
 
@@ -19,7 +19,7 @@ The aim is not to predict the date of an AI crash. It is to investigate the recu
 ## Contents
 
 - [ ] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — The Price of Tomorrow](manuscript/ch01-the-price-of-tomorrow.md)
+- [x] [Ch 1 — The Price of Tomorrow](manuscript/ch01-the-price-of-tomorrow.md)
 - [ ] [Ch 2 — The Revolution Is Real](manuscript/ch02-the-revolution-is-real.md)
 - [ ] [Ch 3 — Railroads, Radios, Routers](manuscript/ch03-railroads-radios-routers.md)
 - [ ] [Ch 4 — The Capital Cycle](manuscript/ch04-the-capital-cycle.md)
