@@ -21,6 +21,7 @@ Use this file as a low-noise map of the Binder. Working drafts may change. Do no
 - [The Convergence](https://svyable.github.io/binder/books/the-convergence/README.md): drafting.
 - [Predictable](https://svyable.github.io/binder/books/predictable/README.md): drafting; AI, prediction markets, capital cycles, and the gap between technological truth and financial value.
 - [The World Beneath the World](https://svyable.github.io/binder/books/the-world-beneath-the-world/README.md): complete draft; a sensory guide to the invisible physical, biological, infrastructural, and standards-based systems that run ordinary life.
+- [Proof of Human](https://svyable.github.io/binder/books/proof-of-human/README.md): complete draft; trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource.
 
 ## The World Beneath the World
 
@@ -39,6 +40,22 @@ Use this file as a low-noise map of the Binder. Working drafts may change. Do no
 - [Chapter 12 — How to Notice the World Again](https://svyable.github.io/binder/books/the-world-beneath-the-world/manuscript/ch12-how-to-notice-the-world-again.md)
 - [Back Matter](https://svyable.github.io/binder/books/the-world-beneath-the-world/manuscript/back-matter.md)
 - [Research and source trail](https://svyable.github.io/binder/books/the-world-beneath-the-world/research/README.md)
+
+## Proof of Human
+
+- [Front Matter](https://svyable.github.io/binder/books/proof-of-human/manuscript/front-matter.md)
+- [Chapter 1 — The Liar's Dividend](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch01-the-liars-dividend.md)
+- [Chapter 2 — The Seal and the Signature](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch02-the-seal-and-the-signature.md)
+- [Chapter 3 — When Machines Learned to Lie Well](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch03-when-machines-learned-to-lie-well.md)
+- [Chapter 4 — The Institutions That Already Broke](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch04-the-institutions-that-already-broke.md)
+- [Chapter 5 — The Economics of the Unfakeable](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch05-the-economics-of-the-unfakeable.md)
+- [Chapter 6 — Proof of Work for Reality](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch06-proof-of-work-for-reality.md)
+- [Chapter 7 — Proof of Personhood](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch07-proof-of-personhood.md)
+- [Chapter 8 — The Verification Economy](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch08-the-verification-economy.md)
+- [Chapter 9 — When Verification Gets Weaponized](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch09-when-verification-gets-weaponized.md)
+- [Chapter 10 — Living as a Verifiable Species](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch10-living-as-a-verifiable-species.md)
+- [Back Matter](https://svyable.github.io/binder/books/proof-of-human/manuscript/back-matter.md)
+- [Research and source trail](https://svyable.github.io/binder/books/proof-of-human/research/README.md)
 
 ## Interpretation notes for agents
 
