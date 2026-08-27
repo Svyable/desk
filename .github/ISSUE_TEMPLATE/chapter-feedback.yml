@@ -19,6 +19,7 @@ body:
         - the-exponentiality
         - the-unbounding
         - the-convergence
+        - predictable
         - _TEMPLATE
     validations:
       required: true
