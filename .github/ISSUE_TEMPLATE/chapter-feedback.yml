@@ -21,6 +21,7 @@ body:
         - the-convergence
         - predictable
         - the-world-beneath-the-world
+        - proof-of-human
         - _TEMPLATE
     validations:
       required: true

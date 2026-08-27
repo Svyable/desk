@@ -54,6 +54,7 @@ confidential.
 | [The Convergence](books/the-convergence/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-convergence/) | Not released |
 | [Predictable](books/predictable/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/predictable/) | Not released |
 | [The World Beneath the World](books/the-world-beneath-the-world/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-world-beneath-the-world/) | Not released |
+| [Proof of Human](books/proof-of-human/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/proof-of-human/) | Not released |
 
 ## The simple workflow
 
