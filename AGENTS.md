@@ -19,29 +19,29 @@ This repository is the **private Binder**. It contains drafts and the next
 working edition of books that may already have an older edition on the public
 Shelf.
 
-Binder and Shelf are separate Git repositories. The Shelf does not reference or
-read this repository at runtime. Releasing a book copies a committed snapshot
-from Binder into Shelf; after release the copies are independent until the next
-release.
+The Git repository stays private, but this Svyable instance has a
+**human-approved public Binder Reader** served with GitHub Pages. The Pages
+preview is intentionally a working-in-public surface. Do not assume committed
+Binder material is confidential merely because the GitHub repository is private.
+Never commit secrets, credentials, or material that must remain private.
+
+Binder and Shelf are separate Git repositories. Releasing a book copies a
+committed snapshot from Binder into Shelf; after release the copies are
+independent until the next release.
 
 Normal direction of manuscript flow is **Binder → Shelf**, never a two-way sync.
-Shared `reader/` and `desk/` UI is copied separately from the Bookself platform.
+Shared Reader UI may be synchronized from the Bookself platform; the lightweight
+Binder Reader bootstrap may also reuse the public Shelf Reader UI at runtime.
 
 ## Local-first invariant
 
-This private Binder must remain fully usable with **zero GitHub Actions
-minutes**. Writing, previewing, release preparation, and recovery must not
-depend on hosted CI/CD, Actions runners, build artifacts, or deployment jobs.
+This Binder must remain fully usable with **zero GitHub Actions minutes**.
+Writing, local preview, release preparation, and recovery must not depend on
+hosted CI/CD, Actions runners, build artifacts, or deployment jobs.
 
-The normal release helper runs locally with Git and Python's standard library.
-CI and pull requests may be useful optional review surfaces, but they are not a
-prerequisite for publishing.
-
-This Svyable Binder is an older instance that predates committed shared UI. If
-`reader/` or `desk/` is missing, run `scripts/bootstrap-ui.sh ../bookself` from
-a local checkout to copy the exact shared UI from the sibling Bookself platform,
-then review and commit those directories. New stamped Binder instances already
-include them.
+The public Binder Reader is branch-served static Pages and is an optional
+convenience surface, not a prerequisite for writing or releasing. The normal
+release helper runs locally with Git and Python's standard library.
 
 ## Voice
 
@@ -70,13 +70,14 @@ include them.
   explicit approval.
 - Do not reformat a file wholesale (line wrapping, heading levels, quote
   style) as a drive-by.
-- Do not add a build step, GitHub Pages, CODEOWNERS, or branch protection
-  unless a human asked for that by name.
+- Do not add a build step, CODEOWNERS, branch protection, or an Actions-based
+  preview workflow unless a human asks for it by name.
 - Do not make writing, preview, or release depend on GitHub Actions, hosted CI,
   or paid automation minutes.
 - Do not commit secrets or credentials.
-- Do not enable GitHub Pages on this binder unless a human asked.
-- Do not copy unpublished books into the public shelf unless a human asked to
+- Do not remove, privatize, broaden, or otherwise change the human-approved
+  Binder Pages exposure model unless a human asks.
+- Do not copy unpublished books into the public Shelf unless a human asked to
   **release** that title.
 - Do not mark the Binder copy `Published`; `Published` is a Shelf state.
 
@@ -89,20 +90,22 @@ authors, `Status: Drafting`. Add the slug to the chapter-feedback dropdown.
 a chapter, update that book's README TOC and Chapters count in the same
 change.
 
-**Preview.** Ensure the shared UI is present. On this legacy Binder, run
-`scripts/bootstrap-ui.sh ../bookself` once if `reader/` and `desk/` are missing.
-Then serve this Binder locally and use `reader/#/b/<slug>/` and `desk/`. Do not
-make the Binder public just to obtain a preview URL, and do not add an Actions
-preview workflow.
+**Preview.** The public working preview is
+`https://svyable.github.io/binder/reader/`; a direct book route is
+`reader/#/b/<slug>/`. Binder drafts remain drafts in this Reader. Local preview
+is also supported with `python3 -m http.server` from the repository root. The
+committed lightweight Reader bootstrap reuses shared public Reader assets; if a
+fully copied local UI is needed, `scripts/bootstrap-ui.sh ../bookself` can
+replace/synchronize `reader/` and `desk/` from a sibling Bookself checkout.
 
 **Release (Bookself).** Commit the publication in Binder first, then run
 `scripts/release-book.sh <slug> ../shelf`. The command runs locally; it does not
-require GitHub Actions. It refuses uncommitted publication changes and dirty
-Shelf release paths, verifies Binder/Shelf roles, prepares an exact replacement
-Shelf snapshot, sets the Shelf copy to `Published`, updates the Shelf catalog
-row, verifies copied publication files against the committed Binder snapshot,
-and stops before commit or push. Review and land the resulting change in the
-Shelf repository with normal Git; a PR is optional to Bookself itself.
+require GitHub Actions. It refuses uncommitted book changes and dirty Shelf
+release paths, verifies Binder/Shelf roles, prepares an exact replacement Shelf
+snapshot, sets the Shelf copy to `Published`, updates the Shelf catalog row,
+verifies copied publication files against the committed Binder snapshot, and
+stops before commit or push. Review and land the resulting change in the Shelf
+repository with normal Git; a PR is optional to Bookself itself.
 
 **Promote / copy only.** `scripts/promote-book.sh <slug> ../shelf` is the
 lower-level file-copy operation. It does not publish, verify the release, or
