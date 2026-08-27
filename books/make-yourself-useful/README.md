@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 0 of 12 drafted |
+| **Chapters**  | 1 of 12 drafted |
 
 How Ordinary People Build Trust, Opportunity, and a Life of Their Own.
 
@@ -18,7 +18,7 @@ The book follows ordinary people who notice the unclaimed problem, carry more th
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [ ] [Prologue — The Person Who Stayed](manuscript/prologue-the-person-who-stayed.md)
-- [ ] [Ch 1 — Find the Uncarried Bag](manuscript/ch01-find-the-uncarried-bag.md)
+- [x] [Ch 1 — Find the Uncarried Bag](manuscript/ch01-find-the-uncarried-bag.md)
 - [ ] [Ch 2 — Be Early, Not Loud](manuscript/ch02-be-early-not-loud.md)
 - [ ] [Ch 3 — The Two-Minute Favor](manuscript/ch03-the-two-minute-favor.md)
 - [ ] [Ch 4 — Learn the Whole Machine](manuscript/ch04-learn-the-whole-machine.md)

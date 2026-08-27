@@ -57,6 +57,10 @@ Choose five to seven real people and revisit them rather than assembling twelve 
 
 Do not invent dialogue, interior thoughts, sensory detail, job titles, biographical facts, or outcomes to make these people more vivid. Do not use a composite while presenting the character as a single real person.
 
+The current working slate is tracked separately so candidates can be promoted, rejected, or revised without turning this brief into a biography file:
+
+- [Recurring character slate](recurring-characters.md)
+
 ## Chapter map
 
 ### Prologue — The Person Who Stayed
@@ -70,6 +74,10 @@ Guardrail: usefulness is meaningful progress on a real problem while preserving 
 ### Chapter 1 — Find the Uncarried Bag
 
 Look for recurring confusion, repeated apologies, work handed from person to person, and necessary tasks that belong to everyone in theory and no one in practice. Solve the smallest version before proposing reform.
+
+Research packet:
+
+- [Chapter 1 — Find the Uncarried Bag](ch01-find-the-uncarried-bag.md)
 
 ### Chapter 2 — Be Early, Not Loud
 
@@ -169,4 +177,4 @@ For every recurring character, build a source packet before drafting the full sc
 
 ## Sources
 
-No external sources have been approved for the manuscript yet. Research should begin by identifying five to seven recurring people with strong evidence rather than by searching for anecdotes that merely fit a predetermined moral.
+External sources are now being approved chapter by chapter rather than as a book-wide anecdote bank. The first approved manuscript source packet is the Chapter 1 packet above. The recurring-character slate records candidates and source quality before later chapters promote them into manuscript scenes.
