@@ -2,26 +2,23 @@
 
 Sven Benson's **private binder** in a
 [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
-setup. This repository is the private writing room. Drafts, experiments, and
-the next revision of a published book stay here until they are deliberately
-released.
+setup. This repository is the private Git working room; its Binder Reader is an
+intentionally public preview of the manuscripts being written here.
 
 The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf). Binder
-and Shelf are separate Git repositories with separate histories. Shelf does
-**not** point into this private repository. A release copies a committed book
-snapshot into Shelf, verifies the copy, and then the two copies are independent
-until the next release.
+and Shelf are separate Git repositories with separate histories. A release
+copies a committed book snapshot from Binder into Shelf; after release the two
+copies are independent until the next release.
 
 The software is [Bookself](https://github.com/Svyable/bookself).
 
 **Binder Reader — working drafts:** [svyable.github.io/binder/reader](https://svyable.github.io/binder/reader/)  
 **Shelf Reader — released editions:** [svyable.github.io/shelf/reader](https://svyable.github.io/shelf/reader/)  
 
-The Binder repository stays private, but its Reader is intentionally public.
-The Pages deployment exposes only reader-facing publication files: each book's
-README, `reader.json`, `manuscript/`, and `media/`, plus the Binder catalog and
-identity. Research folders, scripts, agent instructions, release tooling, and
-other repository internals are not included in the public Pages artifact.
+The repository itself remains private on GitHub, but the Pages site is public.
+This is deliberate: when Pages is served from `main` / root, files committed to
+the Pages source can also be reachable by their Pages URLs. Do not put secrets,
+credentials, or anything that must remain confidential in this Binder.
 
 ## The books
 
@@ -36,45 +33,31 @@ other repository internals are not included in the public Pages artifact.
 
 **Write → Preview → Release.**
 
-Write and revise under `books/<slug>/` in this private Binder. Keep the public
-Shelf copy unchanged while a new edition is in progress.
+Write and revise under `books/<slug>/` in Binder. The public Binder Reader shows
+the current working version. The Shelf keeps the deliberately released edition
+unchanged until the next release.
 
 ### Public Binder preview
 
-Every push to `main` that changes a book, the Binder catalog, or Binder identity
-builds the public Reader at:
+The public working-draft Reader is:
 
 - `https://svyable.github.io/binder/reader/`
 
-This preview is deliberately a **working-draft surface**, not a Shelf release.
-Draft and revision statuses remain draft statuses in the Binder. The Reader
-catalog includes Binder drafts so you can move between working books without
-marking them `Published`.
+Direct book links use:
 
-The public preview uses the shared Reader from the Bookself platform and creates
-a narrow Pages artifact containing only reader-facing files. The private Git
-repository remains the source of truth.
+- `https://svyable.github.io/binder/reader/#/b/<slug>/`
 
-### Preview locally — no Actions required
+The small `reader/` bootstrap reuses the shared Reader UI already served by the
+public Svyable Shelf, while content paths resolve against this Binder Pages site.
+Binder status remains `Drafting`, `Complete draft`, or `Revision in progress`;
+the preview does **not** turn a Binder manuscript into a released Shelf edition.
 
-Bookself remains local-first. Writing, previewing, release preparation, and
-recovery do not depend on GitHub Actions, Pages, a hosted runner, or a build
-artifact.
+This preview is branch-served static Pages. It does not require a GitHub Actions
+workflow, build artifact, or hosted deployment job.
 
-This particular Svyable Binder predates the rule that stamped Binder instances
-include `reader/` and `desk/` automatically. Bootstrap those shared directories
-once from a sibling Bookself checkout:
+### Preview locally
 
-```bash
-scripts/bootstrap-ui.sh ../bookself
-```
-
-That command delegates to Bookself's `scripts/sync-ui.sh`, copies only
-`reader/` and `desk/`, and leaves manuscripts and Binder identity alone. Review
-and commit the copied UI here. New binders created with current
-`stamp-instance.sh` already include the shared UI and do not need this migration.
-
-Then preview entirely on the local machine:
+You can also serve the repository locally:
 
 ```bash
 python3 -m http.server
@@ -83,7 +66,10 @@ python3 -m http.server
 Open:
 
 - `http://127.0.0.1:8000/reader/`
-- `http://127.0.0.1:8000/desk/`
+
+For a fully copied local Bookself UI, `scripts/bootstrap-ui.sh ../bookself` can
+synchronize `reader/` and `desk/` from a sibling Bookself checkout. Review that
+change before committing because it replaces the lightweight Reader bootstrap.
 
 ### Release locally
 
@@ -99,12 +85,9 @@ Shelf copy with `Status: Published`, adds or updates the Shelf catalog row,
 verifies the copied publication files against this committed Binder snapshot,
 and stops before commit or push so the public diff can be reviewed.
 
-The Binder Reader Pages job is only a convenience preview; it is not part of the
-release path. A pull request or CI check can be used for review when useful, but
-Bookself does not require one to release a book.
-
-`scripts/promote-book.sh` is the lower-level copy-only command. It does not
-publish and does not create a live Binder ↔ Shelf link.
+The public Binder Reader is only the live working preview; it is not part of the
+release transaction. `scripts/promote-book.sh` remains the lower-level copy-only
+command and does not publish or create a live Binder ↔ Shelf link.
 
 For the full revision model, see
 [Revising a published book](https://github.com/Svyable/bookself/blob/main/docs/revisions.md).
