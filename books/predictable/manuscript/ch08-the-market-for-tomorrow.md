@@ -32,7 +32,7 @@ This was a conspicuous victory for prediction markets.
 
 It was not proof that they are better than polls.
 
-The distinction is worth making early because prediction markets attract two opposite kinds of mythology. One treats them as casinos with charts. The other treatss them as mechanical truth engines that wash bias out of human judgment by attaching money to it.
+The distinction is worth making early because prediction markets attract two opposite kinds of mythology. One treats them as casinos with charts. The other treats them as mechanical truth engines that wash bias out of human judgment by attaching money to it.
 
 Neither description survives much contact with the evidence.
 
