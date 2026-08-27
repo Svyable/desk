@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Svyable Binder Reader</title>
+  <link rel="describedby" href="../llms.txt">
 </head>
 <body>
   <p id="boot">Opening Binder Reader…</p>
@@ -25,6 +26,11 @@
         html = html.replace(
           /src="https:\/\/svyable\.github\.io\/shelf\/reader\/js\/app\.js[^"]*"/,
           'src="js/app-loader.js"'
+        );
+
+        html = html.replace(
+          '</head>',
+          '  <link rel="describedby" href="../llms.txt">\n</head>'
         );
 
         document.open();
