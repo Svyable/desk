@@ -28,6 +28,7 @@ credentials, or anything that must remain confidential in this Binder.
 | [The Exponentiality](books/the-exponentiality/) | @svyable | Not yet drafted | [Open Binder preview](https://svyable.github.io/binder/reader/#/b/the-exponentiality/) | Not released |
 | [The Unbounding](books/the-unbounding/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-unbounding/) | Not released |
 | [The Convergence](books/the-convergence/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-convergence/) | Not released |
+| [Predictable](books/predictable/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/predictable/) | Not released |
 
 ## The simple workflow
 
