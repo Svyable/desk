@@ -10,6 +10,14 @@ But the device is not allowed to use a later rescue field during normal operatio
 
 The charges have to travel through the actual film under the actual operating field, through whatever mobility imbalance, percolation bottlenecks, traps, recombination, and contact resistance the morphology has provided.
 
+Transport is easy to caricature as a problem of carrier mobility. Higher mobility sounds better. Real devices care about a richer set of relationships.
+
+Electrons and holes can have different mobilities. The slower carrier can accumulate and create space charge. Mobility can depend on carrier density and electric field. Transport may be dispersive because energetic disorder creates a broad distribution of hopping times. Pathways can be tortuous. A locally high mobility means little if the domain does not connect to the correct electrode. Contacts can impose extraction barriers even when the bulk film transports well.
+
+A useful carrier therefore needs both kinetics and topology.
+
+This is why the phrase charge collection is not simply charge generation delayed by a few nanoseconds. It is a different problem with different failure modes.
+
 A 2026 Advanced Materials study made this separation unusually vivid.
 
 The researchers studied PM6:Y12 organic solar cells with donor fractions ranging from extremely dilute to conventional blend ratios. The system was interesting because charge generation could remain surprisingly strong even when the amount of polymer donor became very small. One might expect the device to fail immediately as the donor network disappeared. Instead, structural and electrical analysis indicated that a continuous donor network could persist at low fractions, while transport became increasingly constrained.
@@ -40,17 +48,39 @@ The lesson is deeply physical: charge generation and charge collection live on d
 
 An exciton needs access to an interface. A separated hole needs a continuous donor pathway to its electrode. An electron needs an acceptor pathway to the opposite electrode. A morphology that is excellent at creating interfaces can be terrible at providing low-resistance transport. A material can therefore look strong in a spectroscopy or pulsed-extraction experiment and weak in the current–voltage curve.
 
+Percolation gives a useful first approximation. Imagine sites on a lattice becoming conducting with some probability. Below a critical fraction, conducting clusters remain isolated. Above it, a cluster spans the system. Near the threshold, that spanning cluster can be tenuous: long detours, narrow bottlenecks, dead ends. Being connected is not the same as being well connected.
+
+A real organic film is more structured than a random lattice. Polymer chains can bridge long distances. Aggregates align. Domains elongate. Vertical segregation can connect one component preferentially to one electrode. The relevant percolation threshold can therefore be surprisingly low or highly process dependent.
+
+This is why composition alone cannot tell you collection.
+
+Two percent of a long polymer that forms a connected fibrillar network can behave differently from two percent of disconnected globules. A morphology measurement that reports only average domain size can miss the topology. Charge transport is sensitive to the network’s graph, not only its histogram.
+
 The quantum-energy project encountered this paper while designing the D18 field-robustness program. Its response was immediate and appropriately unromantic: add a transport and collection companion measurement.
 
 The project chose a Suns-Voc or pseudo-JV approach as one prospective route.
 
 The idea behind Suns-Voc is elegant. Instead of measuring the normal current–voltage curve while current flows through the device and transport resistance contributes to losses, vary illumination intensity and measure the open-circuit voltage. Under appropriate conditions, the resulting relationship can be used to reconstruct a pseudo current–voltage curve representing how the device might behave with some transport-resistance penalties removed.
 
+At open circuit there is no net external current, so series transport drops that require current are reduced. By varying light intensity, one changes the generation and carrier-density conditions while recording the voltage the device can sustain. With an estimate of the generation current, the open-circuit data can be mapped into a pseudo-JV relationship.
+
+The pseudo curve is not an alternate universe where transport has vanished completely. It is an analytical construct designed to reduce particular transport-associated losses enough that their contribution to fill factor can be inferred by comparison.
+
 Compare the pseudo fill factor with the measured fill factor and the gap provides a measure of transport-associated loss.
+
+This difference has become increasingly important in high-performance organic photovoltaics. As recombination losses fall and energetic offsets shrink, transport resistance can dominate part of the remaining fill-factor deficit. A device can possess good intrinsic recombination behavior and still deliver a rounded current–voltage curve because charges encounter resistance while flowing under load.
+
+That distinction is especially important for mechanistic claims about interfaces. A treatment can reduce nonradiative recombination and simultaneously create a morphology with poorer transport. Suns-Voc gives the experimenter a way to ask whether the measured fill factor is below the recombination-limited pseudo fill factor.
 
 Again, the measurement is not mechanism-pure.
 
 Capacitive or transient behavior can corrupt Suns-Voc in organic devices. Low-light leakage can distort the reconstruction. External series resistance can contribute. The estimate of generation current matters. Illumination calibration matters. The device can drift between measurements. A pseudo-FF deficit is not a microscopic diagnosis that says “hole mobility is the problem.”
+
+The 2014 methodological work on applying Suns-Voc to organic solar cells is useful precisely because it does not pretend silicon methods transfer without caveats. Organic devices can have significant capacitance and slow transients. Illumination changes can create dynamic currents. If the measurement changes light intensity faster than the device equilibrates, the reconstructed relationship can reflect history instead of steady behavior.
+
+A good protocol therefore has to test the method on the target device rather than merely run the software.
+
+This is why the quantum-energy transport companion leaves its numerical acceptance margin deferred until real B0 baseline data exist. The team first needs to know the repeatability of measured and pseudo fill factor, sensitivity to illumination procedure, leakage, reconstruction assumptions, and device drift.
 
 But it closes a dangerous interpretive gap.
 
@@ -81,6 +111,12 @@ A film with two percent donor is not equivalent to one in which two percent of t
 But a barely connected network is not a highway.
 
 Connectivity is binary only in the crudest model. Real transport depends on tortuosity, energetic disorder, mobility, bottlenecks, contact with electrodes, and the spatial distribution of recombination partners. A network can technically span the device while imposing a large resistance.
+
+One can imagine the difference between a national highway grid and a single winding mountain road. Both connect two cities. Only one supports enormous traffic without congestion. Near a percolation threshold, the carrier network can resemble the mountain road: one critical link carries disproportionate flow. A small structural change can dramatically alter resistance.
+
+That sensitivity is a manufacturing problem. A process that creates high performance by sitting barely above a connectivity threshold may be difficult to reproduce. A process that produces a thicker margin of redundant pathways can sacrifice some microscopic ideal and gain robustness.
+
+Again, the optimum can favor a basin rather than a peak.
 
 The paper’s lesson is therefore not “percolation saves low donor fractions.” It is that charge generation and collection can decouple in ways that simplistic morphology intuition misses.
 
@@ -119,6 +155,8 @@ A hero device is seductive because the current–voltage curve makes success vis
 But a mechanistic platform needs population-level evidence.
 
 If the effect is tied to a microscopic interface state, device-to-device variance is part of the story. The project has to include all functional devices except those failing predeclared quality-control criteria. It has to retain the fabrication hierarchy. A device that fails in an inconvenient way cannot simply be called an outlier after the result is known.
+
+There is a practical reason for this beyond statistical virtue. Production yield is an economic variable. If a treatment creates one exceptional device and five failures, the champion may reveal interesting physics while the process has become worse. A manufacturing technology must account for the distribution, not only the maximum.
 
 This creates a tension between discovery and demonstration.
 
