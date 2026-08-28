@@ -162,7 +162,7 @@ It extends into specialist cloud companies, data-center developers, utilities, e
 
 CoreWeave offers a useful window into this layer.
 
-At the end of June 2026, the company reported more than $25 billion of debt. Several delayed-draw term facilities carried effective interest rates between roughly 9 and 15 percent. Operating lease liabilities were $16.3 billion. In the first quarter alone, contractual interest expense was $483 million.
+At the end of June 2026, the company reported more than $25 billion of debt. Several delayed-draw term facilities carried effective interest rates between roughly 9 and 15 percent. Operating lease liabilities were $16.3 billion.
 
 The same company also reported extraordinary demand.
 
@@ -266,7 +266,7 @@ NVIDIA's current 75 percent gross margin is evidence of extraordinary economics 
 
 The same is true of cloud profitability.
 
-AWS produced nearly a 39 percent operating margin in the June quarter. Microsoft Cloud produced a 66 percent gross margin for fiscal 2026. Google Cloud reached a 30.1 percent operating margin in the fourth quarter of 2025 while backlog surged.
+AWS produced nearly a 39 percent operating margin in the June quarter. Microsoft finished fiscal 2026 with exceptionally strong company-wide operating income while its cloud businesses continued growing rapidly. Google Cloud reached a 30.1 percent operating margin in the fourth quarter of 2025 while backlog surged.
 
 These are not signs of an industry already collapsing under excess capacity.
 
