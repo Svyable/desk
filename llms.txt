@@ -23,6 +23,7 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [The World Beneath the World](https://svyable.github.io/binder/books/the-world-beneath-the-world/README.md): complete draft; a sensory guide to the invisible physical, biological, infrastructural, and standards-based systems that run ordinary life.
 - [Proof of Human](https://svyable.github.io/binder/books/proof-of-human/README.md): complete draft; trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource.
 - [Built to Be Alone](https://svyable.github.io/binder/books/the-loneliness-dividend/README.md): complete draft; how the twentieth century's unpaid social infrastructure thinned across the wealthy world, and the markets, technologies, and governments now responding to the resulting gap in ordinary human connection.
+- [Asleep at the Switch](https://svyable.github.io/binder/books/asleep-at-the-switch/README.md): drafting; how industrial time compressed a historically flexible sleep pattern into one standardized block, the disasters and institutions that trace back to that compression, and the market now selling the lost hours back.
 
 ## The World Beneath the World
 

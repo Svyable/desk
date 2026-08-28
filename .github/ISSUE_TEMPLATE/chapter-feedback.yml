@@ -25,6 +25,7 @@ body:
         - single-points-of-failure
         - make-yourself-useful
         - the-loneliness-dividend
+        - asleep-at-the-switch
         - _TEMPLATE
     validations:
       required: true

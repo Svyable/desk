@@ -61,6 +61,7 @@ confidential.
 | [Proof of Human](books/proof-of-human/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/proof-of-human/) | Not released |
 | [Single Points of Failure](books/single-points-of-failure/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/single-points-of-failure/) | Not released |
 | [Built to Be Alone](books/the-loneliness-dividend/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-loneliness-dividend/) | Not released |
+| [Asleep at the Switch](books/asleep-at-the-switch/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/asleep-at-the-switch/) | Not released |
 
 ## The simple workflow
 
