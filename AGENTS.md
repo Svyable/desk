@@ -22,9 +22,9 @@ This repository is the **private Desk**. It contains drafts and the next
 working edition of books that may already have an older edition on the public
 Shelf.
 
-The GitHub repository slug is still `binder`. Until that repository is renamed,
-its GitHub and GitHub Pages URLs therefore continue to contain `/binder/`.
-That legacy path is an address, not a Bookself role.
+The GitHub repository is `Svyable/desk`, and its GitHub Pages project path is
+`/desk/`. The repository name and public Pages path now match this instance's
+Bookself role.
 
 The Git repository stays private, but this Svyable instance has a
 **human-approved public Desk Reader** served with GitHub Pages. The Pages
@@ -97,8 +97,8 @@ authors, `Status: Drafting`. Add the slug to the chapter-feedback dropdown.
 a chapter, update that book's README TOC and Chapters count in the same
 change.
 
-**Preview.** The public working preview currently remains at the legacy Pages
-path `https://svyable.github.io/binder/reader/`; a direct book route is
+**Preview.** The public working preview is
+`https://svyable.github.io/desk/reader/`; a direct book route is
 `reader/#/b/<slug>/`. Desk drafts remain drafts in this Reader. Local preview
 is also supported with `python3 -m http.server` from the repository root. The
 committed lightweight Reader bootstrap reuses shared public Reader assets; if a
