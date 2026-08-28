@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Complete draft |
-| **Chapters** | 18 of 18 drafted |
+| **Chapters** | 25 of 25 drafted |
 
 ## Contents
 
@@ -29,10 +29,18 @@
 - [x] [Ch 16 — What Would Falsify This?](manuscript/ch16-what-would-falsify-this.md)
 - [x] [Ch 17 — The Open Lab as a Machine](manuscript/ch17-the-open-lab-as-a-machine.md)
 - [x] [Ch 18 — Useful Noise](manuscript/ch18-useful-noise.md)
+- [x] [Ch 19 — The Ambient Quantum Stack](manuscript/ch19-the-ambient-quantum-stack.md)
+- [x] [Ch 20 — When Quantum Becomes Boring](manuscript/ch20-when-quantum-becomes-boring.md)
+- [x] [Ch 21 — The Material Has a Biography](manuscript/ch21-the-material-has-a-biography.md)
+- [x] [Ch 22 — A Measurement Has a Supply Chain](manuscript/ch22-a-measurement-has-a-supply-chain.md)
+- [x] [Ch 23 — The First Product May Be a Recipe](manuscript/ch23-the-first-product-may-be-a-recipe.md)
+- [x] [Ch 24 — What We Are Actually Betting On](manuscript/ch24-what-we-are-actually-betting-on.md)
+- [x] [Ch 25 — The Hard Part Is Transfer](manuscript/ch25-the-hard-part-is-transfer.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
 - [Research trail, source map, and falsification notes](research/README.md)
+- [Evidence notes for Chapters 21–25](research/chapters-21-25.md)
 
 This book grows out of the public research program in [`Svyable/quantum-energy`](https://github.com/Svyable/quantum-energy). The repository is a source and subject of the book, not evidence that every mechanism discussed here has been experimentally demonstrated. The manuscript preserves the project’s own distinction between established external evidence, model or synthetic results, engineering assumptions, prospective protocols, experimental results, and invention concepts.
