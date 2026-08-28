@@ -24,6 +24,7 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Proof of Human](https://svyable.github.io/binder/books/proof-of-human/README.md): complete draft; trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource.
 - [Built to Be Alone](https://svyable.github.io/binder/books/the-loneliness-dividend/README.md): complete draft; how the twentieth century's unpaid social infrastructure thinned across the wealthy world, and the markets, technologies, and governments now responding to the resulting gap in ordinary human connection.
 - [Silent Cartel](https://svyable.github.io/binder/books/silent-cartel/README.md): complete draft; how pricing algorithms learned to produce cartel-like outcomes without any seller ever communicating with another, and the litigation, laboratory research, and regulation now responding to it.
+- [Useful Noise](https://svyable.github.io/binder/books/useful-noise/README.md): complete draft by Sven Hardy Benson; engaging science and futurism about open quantum systems, organic photovoltaics, polaritons, metrology, manufacturing, and the public `Svyable/quantum-energy` research program.
 
 ## The World Beneath the World
 
@@ -129,6 +130,39 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Chapter 21 — The Price of Everything, Once More](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch21-the-price-of-everything-once-more.md)
 - [Back Matter](https://svyable.github.io/binder/books/silent-cartel/manuscript/back-matter.md)
 - [Research and source trail](https://svyable.github.io/binder/books/silent-cartel/research/README.md)
+
+## Useful Noise
+
+- [Book hub — Useful Noise](https://svyable.github.io/binder/books/useful-noise/README.md)
+- [Front Matter — A Machine That Likes Noise](https://svyable.github.io/binder/books/useful-noise/manuscript/front-matter.md)
+- [Chapter 1 — The Refrigerator Problem](https://svyable.github.io/binder/books/useful-noise/manuscript/ch01-the-refrigerator-problem.md)
+- [Chapter 2 — The Leaf That Started an Argument](https://svyable.github.io/binder/books/useful-noise/manuscript/ch02-the-leaf-that-started-an-argument.md)
+- [Chapter 3 — The Goldilocks Machine](https://svyable.github.io/binder/books/useful-noise/manuscript/ch03-the-goldilocks-machine.md)
+- [Chapter 4 — Open Means Alive](https://svyable.github.io/binder/books/useful-noise/manuscript/ch04-open-means-alive.md)
+- [Chapter 5 — When Light Learns to Carry Matter](https://svyable.github.io/binder/books/useful-noise/manuscript/ch05-when-light-learns-to-carry-matter.md)
+- [Chapter 6 — The Fastest Thing in a Dirty Room](https://svyable.github.io/binder/books/useful-noise/manuscript/ch06-the-fastest-thing-in-a-dirty-room.md)
+- [Chapter 7 — A Solar Cell Is a Loss Machine](https://svyable.github.io/binder/books/useful-noise/manuscript/ch07-a-solar-cell-is-a-loss-machine.md)
+- [Chapter 8 — The Interface Where Energy Disappears](https://svyable.github.io/binder/books/useful-noise/manuscript/ch08-the-interface-where-energy-disappears.md)
+- [Chapter 9 — Phonons: The Enemy That Isn’t](https://svyable.github.io/binder/books/useful-noise/manuscript/ch09-phonons-the-enemy-that-isnt.md)
+- [Chapter 10 — The Penetrated Interface](https://svyable.github.io/binder/books/useful-noise/manuscript/ch10-the-penetrated-interface.md)
+- [Chapter 11 — The Trap of Better Voltage](https://svyable.github.io/binder/books/useful-noise/manuscript/ch11-the-trap-of-better-voltage.md)
+- [Chapter 12 — Good Generation, Bad Collection](https://svyable.github.io/binder/books/useful-noise/manuscript/ch12-good-generation-bad-collection.md)
+- [Chapter 13 — The Metrology Before the Miracle](https://svyable.github.io/binder/books/useful-noise/manuscript/ch13-the-metrology-before-the-miracle.md)
+- [Chapter 14 — The Five-Millivolt World](https://svyable.github.io/binder/books/useful-noise/manuscript/ch14-the-five-millivolt-world.md)
+- [Chapter 15 — The Factory as an Experiment](https://svyable.github.io/binder/books/useful-noise/manuscript/ch15-the-factory-as-an-experiment.md)
+- [Chapter 16 — What Would Falsify This?](https://svyable.github.io/binder/books/useful-noise/manuscript/ch16-what-would-falsify-this.md)
+- [Chapter 17 — The Open Lab as a Machine](https://svyable.github.io/binder/books/useful-noise/manuscript/ch17-the-open-lab-as-a-machine.md)
+- [Chapter 18 — Useful Noise](https://svyable.github.io/binder/books/useful-noise/manuscript/ch18-useful-noise.md)
+- [Chapter 19 — The Ambient Quantum Stack](https://svyable.github.io/binder/books/useful-noise/manuscript/ch19-the-ambient-quantum-stack.md)
+- [Chapter 20 — When Quantum Becomes Boring](https://svyable.github.io/binder/books/useful-noise/manuscript/ch20-when-quantum-becomes-boring.md)
+- [Chapter 21 — The Material Has a Biography](https://svyable.github.io/binder/books/useful-noise/manuscript/ch21-the-material-has-a-biography.md)
+- [Chapter 22 — A Measurement Has a Supply Chain](https://svyable.github.io/binder/books/useful-noise/manuscript/ch22-a-measurement-has-a-supply-chain.md)
+- [Chapter 23 — The First Product May Be a Recipe](https://svyable.github.io/binder/books/useful-noise/manuscript/ch23-the-first-product-may-be-a-recipe.md)
+- [Chapter 24 — What We Are Actually Betting On](https://svyable.github.io/binder/books/useful-noise/manuscript/ch24-what-we-are-actually-betting-on.md)
+- [Chapter 25 — The Hard Part Is Transfer](https://svyable.github.io/binder/books/useful-noise/manuscript/ch25-the-hard-part-is-transfer.md)
+- [Back Matter](https://svyable.github.io/binder/books/useful-noise/manuscript/back-matter.md)
+- [Research trail and falsification map](https://svyable.github.io/binder/books/useful-noise/research/README.md)
+- [Research notes for Chapters 21–25](https://svyable.github.io/binder/books/useful-noise/research/chapters-21-25.md)
 
 ## Interpretation notes for agents
 
