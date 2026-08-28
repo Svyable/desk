@@ -23,6 +23,7 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [The World Beneath the World](https://svyable.github.io/binder/books/the-world-beneath-the-world/README.md): complete draft; a sensory guide to the invisible physical, biological, infrastructural, and standards-based systems that run ordinary life.
 - [Proof of Human](https://svyable.github.io/binder/books/proof-of-human/README.md): complete draft; trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource.
 - [Built to Be Alone](https://svyable.github.io/binder/books/the-loneliness-dividend/README.md): complete draft; how the twentieth century's unpaid social infrastructure thinned across the wealthy world, and the markets, technologies, and governments now responding to the resulting gap in ordinary human connection.
+- [Silent Cartel](https://svyable.github.io/binder/books/silent-cartel/README.md): complete draft; how pricing algorithms learned to produce cartel-like outcomes without any seller ever communicating with another, and the litigation, laboratory research, and regulation now responding to it.
 
 ## The World Beneath the World
 
@@ -101,6 +102,33 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Chapter 19 — The Paradigm at the Door](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch19-the-paradigm-at-the-door.md)
 - [Back Matter](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/back-matter.md)
 - [Research and source trail](https://svyable.github.io/binder/books/the-loneliness-dividend/research/README.md)
+
+## Silent Cartel
+
+- [Front Matter](https://svyable.github.io/binder/books/silent-cartel/manuscript/front-matter.md)
+- [Chapter 1 — The Phone Call and the Machine That Replaced It](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch01-the-phone-call-and-the-machine.md)
+- [Chapter 2 — A Theory of Oligopoly](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch02-a-theory-of-oligopoly.md)
+- [Chapter 3 — Trial Balloons on a Screen](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch03-trial-balloons-on-a-screen.md)
+- [Chapter 4 — The Posters on Amazon](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch04-the-posters-on-amazon.md)
+- [Chapter 5 — Machines That Learn to Cheat](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch05-machines-that-learn-to-cheat.md)
+- [Chapter 6 — Pumps in Germany](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch06-pumps-in-germany.md)
+- [Chapter 7 — The Yield Whisperer](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch07-the-yield-whisperer.md)
+- [Chapter 8 — Rent Going Up?](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch08-rent-going-up.md)
+- [Chapter 9 — United States v. RealPage](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch09-united-states-v-realpage.md)
+- [Chapter 10 — The Strip and the Boardwalk](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch10-the-strip-and-the-boardwalk.md)
+- [Chapter 11 — Ghosts in the Machine](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch11-ghosts-in-the-machine.md)
+- [Chapter 12 — Everyone Gets Their Own Price](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch12-everyone-gets-their-own-price.md)
+- [Chapter 13 — The DVD That Cost $22.74 or $26.24](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch13-the-dvd-that-cost-22-74-or-26-24.md)
+- [Chapter 14 — Your Health, Priced by Algorithm](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch14-your-health-priced-by-algorithm.md)
+- [Chapter 15 — Legislators Catch Up](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch15-legislators-catch-up.md)
+- [Chapter 16 — The Copycat Cities](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch16-the-copycat-cities.md)
+- [Chapter 17 — Brussels Writes It Down](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch17-brussels-writes-it-down.md)
+- [Chapter 18 — The Skeptics' Case](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch18-the-skeptics-case.md)
+- [Chapter 19 — What a Price Is For](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch19-what-a-price-is-for.md)
+- [Chapter 20 — The Next Vendor](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch20-the-next-vendor.md)
+- [Chapter 21 — The Price of Everything, Once More](https://svyable.github.io/binder/books/silent-cartel/manuscript/ch21-the-price-of-everything-once-more.md)
+- [Back Matter](https://svyable.github.io/binder/books/silent-cartel/manuscript/back-matter.md)
+- [Research and source trail](https://svyable.github.io/binder/books/silent-cartel/research/README.md)
 
 ## Interpretation notes for agents
 
