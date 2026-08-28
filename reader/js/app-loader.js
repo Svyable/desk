@@ -15,11 +15,11 @@ source = source.replace(
 
 const catalogGate = 'if (meta.published) entries.push(meta);';
 if (!source.includes(catalogGate)) {
-  throw new Error('Shared Reader catalog hook changed; update Binder loader.');
+  throw new Error('Shared Reader catalog hook changed; update Desk loader.');
 }
 source = source.replace(
   catalogGate,
-  "if (meta.published || window.__IMPRINT?.role === 'binder') entries.push(meta);"
+  "if (meta.published || window.__IMPRINT?.role === 'desk') entries.push(meta);"
 );
 
 source = source.replace(
