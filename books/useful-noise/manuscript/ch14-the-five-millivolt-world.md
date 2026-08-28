@@ -14,6 +14,18 @@ The detector has uncertainty. The calibration has uncertainty. The active-area d
 
 At five millivolts, experimental design is not the frame around the picture. It is part of the picture.
 
+There is a useful distinction between uncertainty in a measurement and variation in the thing being measured.
+
+If one device is measured repeatedly and the result wanders by two millivolts, that says something about repeatability. If nominally identical devices differ by six millivolts, that says something about fabrication or sample variation. If the average shifts by eight millivolts after recalibration, that says something about a systematic scale. If two model families convert the same spectrum into values differing by ten millivolts, that is model uncertainty.
+
+All four can exist at once.
+
+Collapsing them into a single standard deviation hides which problem needs to be solved.
+
+A metrologist attacks calibration. A process engineer attacks fabrication variation. A statistician designs the hierarchy. A theorist asks whether the inference is identifiable. A product engineer asks which source dominates the decision.
+
+The five-millivolt world requires all of them.
+
 The quantum-energy project’s R2 transfer-standard work is useful because it turns this abstraction into a hierarchy.
 
 Material lot. Fabrication lot. Substrate. Device or pixel. Session. Measurement.
@@ -63,6 +75,14 @@ The simulation did not prove that nine real substrates will be sufficient. Its a
 This is a useful distinction between numerical confidence and scientific confidence.
 
 A computer can calculate a probability under a model exactly enough. The model may still be a guess.
+
+There is also a distinction between confidence about an average and confidence about a future unit.
+
+A treatment can have a statistically well-estimated mean improvement and still be a poor manufacturing process if the distribution is wide. A factory wants to know not only whether the average device is better but how often a new lot will land inside specification. Prediction intervals can therefore matter more commercially than narrow confidence intervals around a mean.
+
+This is why upper bounds on variance are useful in early process qualification. If the goal is to detect ten-millivolt treatment effects, a process whose true fabrication variation might plausibly be eight millivolts is not ready simply because the observed point estimate in one small pilot happened to be three.
+
+The uncertainty around the uncertainty matters.
 
 That is why the quantum-energy open-science charter requires assumptions to be visible as assumptions. A synthetic effect size does not become a measured effect size because it generated a clean power curve. A detector specification does not become measured system performance because a vendor printed it. A published value from another material does not become a target-stack constant because it is convenient.
 
@@ -114,6 +134,12 @@ Suppose a spectroscopy model returns a reorganization energy of 147.3 millielect
 
 Optimization algorithms are very good at finding minima. They are not automatically good at telling you whether the minimum is unique.
 
+One can visualize the problem as a valley in parameter space. If the objective function has a sharp isolated bottom, the data constrain the parameter combination well. If it has a long shallow ravine, many combinations fit almost equally. A numerical optimizer will still choose one point in the ravine and print it with several decimals.
+
+The decimal places describe the computer’s location in the valley, not the width of the valley.
+
+This is why profile likelihoods, posterior distributions, bootstrap analyses, sensitivity sweeps, or other uncertainty methods can be more informative than the optimizer’s covariance matrix alone. The particular method depends on the model and data. The principle is the same: explore what else could fit.
+
 The project’s model-family comparisons are designed to expose this. If classical Marcus, one-mode MLJ, MLJ plus static disorder, and a more complex model all fit the available data similarly, the microscopic parameter should not be treated as uniquely identified. Add temperature dependence, held-out spectra, or orthogonal measurements until the models make different predictions.
 
 Identifiability is the statistical version of falsifiability.
@@ -149,6 +175,10 @@ If the mechanism is real but too variable to manufacture, a large market cannot 
 If the measurement system cannot tell those cases apart, the company can spend years learning the wrong lesson from every prototype.
 
 A disciplined uncertainty budget is therefore a capital-allocation tool.
+
+The budget can even be translated into experimental spending. If detector calibration contributes one millivolt and sample-to-sample fabrication contributes six, buying a detector twice as accurate may have almost no decision value. If temperature uncertainty dominates the model inference, the next dollar belongs in thermal control rather than more samples. If lot variation dominates, process characterization may be more valuable than a new spectrometer.
+
+Uncertainty decomposition tells you which expensive thing not to buy.
 
 This is visible in the quantum-energy program’s choice to delay major proprietary fabrication and metrology capital expenditure until reference qualification passes. The project can use external facilities or a hybrid setup to learn whether the required uncertainty is achievable before building its own complete station.
 
