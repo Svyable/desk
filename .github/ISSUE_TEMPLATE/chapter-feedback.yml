@@ -23,6 +23,7 @@ body:
         - the-world-beneath-the-world
         - proof-of-human
         - single-points-of-failure
+        - the-loneliness-dividend
         - _TEMPLATE
     validations:
       required: true

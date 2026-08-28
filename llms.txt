@@ -22,6 +22,7 @@ Use this file as a low-noise map of the Binder. Working drafts may change. Do no
 - [Predictable](https://svyable.github.io/binder/books/predictable/README.md): drafting; AI, prediction markets, capital cycles, and the gap between technological truth and financial value.
 - [The World Beneath the World](https://svyable.github.io/binder/books/the-world-beneath-the-world/README.md): complete draft; a sensory guide to the invisible physical, biological, infrastructural, and standards-based systems that run ordinary life.
 - [Proof of Human](https://svyable.github.io/binder/books/proof-of-human/README.md): complete draft; trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource.
+- [Built to Be Alone](https://svyable.github.io/binder/books/the-loneliness-dividend/README.md): complete draft; how the twentieth century's unpaid social infrastructure thinned across the wealthy world, and the markets, technologies, and governments now responding to the resulting gap in ordinary human connection.
 
 ## The World Beneath the World
 
@@ -75,6 +76,31 @@ Use this file as a low-noise map of the Binder. Working drafts may change. Do no
 - [Chapter 29 — Living as a Verifiable Species](https://svyable.github.io/binder/books/proof-of-human/manuscript/ch29-living-as-a-verifiable-species.md)
 - [Back Matter](https://svyable.github.io/binder/books/proof-of-human/manuscript/back-matter.md)
 - [Research and source trail](https://svyable.github.io/binder/books/proof-of-human/research/README.md)
+
+## Built to Be Alone
+
+- [Front Matter](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/front-matter.md)
+- [Chapter 1 — The Man Nobody Missed](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch01-the-man-nobody-missed.md)
+- [Chapter 2 — Bowling Alone, Twenty-Five Years Later](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch02-bowling-alone-twenty-five-years-later.md)
+- [Chapter 3 — The Advisory](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch03-the-advisory.md)
+- [Chapter 4 — Going Solo](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch04-going-solo.md)
+- [Chapter 5 — The Third Place Died and No One Sent Flowers](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch05-the-third-place-died-and-no-one-sent-flowers.md)
+- [Chapter 6 — The Loneliest Job Is Remote](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch06-the-loneliest-job-is-remote.md)
+- [Chapter 7 — Swipe Fatigue](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch07-swipe-fatigue.md)
+- [Chapter 8 — Her, For Real This Time](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch08-her-for-real-this-time.md)
+- [Chapter 9 — The Herbivores and the Shut-Ins](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch09-the-herbivores-and-the-shut-ins.md)
+- [Chapter 10 — The Cost of Being Alone](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch10-the-cost-of-being-alone.md)
+- [Chapter 11 — The Rebuild Economy](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch11-the-rebuild-economy.md)
+- [Chapter 12 — The Ministry of Loneliness](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch12-the-ministry-of-loneliness.md)
+- [Chapter 13 — Pews Emptying](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch13-pews-emptying.md)
+- [Chapter 14 — The Anxious Generation](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch14-the-anxious-generation.md)
+- [Chapter 15 — The Architecture of Isolation](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch15-the-architecture-of-isolation.md)
+- [Chapter 16 — The Skeptics' Case](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch16-the-skeptics-case.md)
+- [Chapter 17 — The Companionship Market](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch17-the-companionship-market.md)
+- [Chapter 18 — What Actually Works](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch18-what-actually-works.md)
+- [Chapter 19 — The Paradigm at the Door](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/ch19-the-paradigm-at-the-door.md)
+- [Back Matter](https://svyable.github.io/binder/books/the-loneliness-dividend/manuscript/back-matter.md)
+- [Research and source trail](https://svyable.github.io/binder/books/the-loneliness-dividend/research/README.md)
 
 ## Interpretation notes for agents
 
