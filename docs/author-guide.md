@@ -1,22 +1,24 @@
 # Author guide
 
-You do not need to know git. This place is a binder: each book is a folder,
+You do not need to know git. This place is a Desk: each book is a folder,
 each chapter is a page, and GitHub keeps every version.
 
 This walkthrough uses the GitHub website on a computer.
 
-This repository is the **private binder** in a
+This repository is the **private Desk** in a
 [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
 setup. The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf).
-There is no public reader here.
+This Svyable Desk also has an intentionally public working-draft Reader at the
+legacy repository path `https://svyable.github.io/binder/reader/`. That preview
+is public even though the Git repository is private.
 
 ## In one minute
 
 1. Copy `books/_TEMPLATE/` to `books/your-title/` (lowercase, hyphens).
 2. Open a chapter, click the pencil, write, and **Commit changes**.
-3. When the book is meant to be read, copy its folder to the public
-   shelf, set Status to `Published` **there**, and add a README row
-   **there**.
+3. When the book is meant to be published, prepare a release with
+   `scripts/release-book.sh your-title ../shelf`, review the Shelf diff, and
+   commit the release there.
 
 The rest of this guide is the same path, slower.
 
@@ -41,6 +43,11 @@ Inside a book:
 
 The file list inside `manuscript/` is alphabetical, so `back-matter.md` will
 not sit at the end. Trust the README, not the file list.
+
+For the Reader view, use the public working preview at the legacy Pages path
+`https://svyable.github.io/binder/reader/`. A direct book route is
+`reader/#/b/<slug>/`. The repository path still says `binder`; the Bookself role
+is Desk.
 
 ## 3. Making your first edit
 
@@ -67,14 +74,14 @@ Scroll to the bottom of the edit page, to **Commit changes**.
      this otherwise. It is the "propose changes" path.
 3. Click **Commit changes** (or **Propose changes**).
 
-A commit is a saved version with a note. It is not publishing to a printer.
-It is putting a dated page in the binder.
+A commit is a saved version with a note. It is not publication. It is a dated
+save point on the Desk.
 
 ## 5. Ticking checkboxes in the table of contents
 
 The book's README has a contents list like this:
 
-    - [ ] [Ch 1 — Opening the Binder](manuscript/ch01-example.md)
+    - [ ] [Ch 1 — Opening the Desk](manuscript/ch01-example.md)
 
 The boxes do not toggle by clicking them on the page. To mark a chapter
 done:
@@ -112,11 +119,19 @@ If you would rather not touch the text:
 Use **New book proposal** only when you are pitching a title that does not
 exist yet.
 
-## 8. Promoting to the public shelf
+## 8. Releasing to the public Shelf
 
-Do not set Status to `Published` expecting a public shelf on this
-repository. Copy the book folder to
-[Svyable/shelf](https://github.com/Svyable/shelf) (or run
-`scripts/promote-book.sh your-title ../shelf` from this binder), then
-publish on the shelf. Details:
-[Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md).
+Do not set Status to `Published` expecting this private Desk to become the
+public Shelf. Commit the Desk version first, then run:
+
+```bash
+scripts/release-book.sh your-title ../shelf
+```
+
+The release helper verifies the Desk/Shelf roles, prepares the exact Shelf
+snapshot, sets the Shelf copy to `Published`, updates the public catalog, and
+stops before commit or push so you can review the public diff. The lower-level
+`scripts/promote-book.sh` remains available for copy-only work, but it does not
+publish or verify a release.
+
+Details: [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md).

@@ -1,15 +1,15 @@
-# Svyable Binder
+# Svyable Desk
 
-> A public working-draft reader for books being written in the private Svyable Binder repository. The site exposes manuscripts intentionally through GitHub Pages while keeping Binder and the released Svyable Shelf as separate publication states.
+> A public working-draft Reader for books being written on the private Svyable Desk. The GitHub repository and Pages project path are still named `binder`, so current public URLs retain `/binder/`; that legacy address is not a Bookself role. The site exposes manuscripts intentionally through GitHub Pages while keeping Desk and the released Svyable Shelf as separate publication states.
 
-Use this file as a low-noise map of the Binder. Working drafts may change. Do not treat Binder status as publication; released editions live on Svyable Shelf.
+Use this file as a low-noise map of the Desk. Working drafts may change. Do not treat Desk status as publication; released editions live on Svyable Shelf.
 
 ## Primary entry points
 
-- [Svyable Binder home](https://svyable.github.io/binder/): crawlable catalog with semantic links and book metadata.
-- [Binder Reader](https://svyable.github.io/binder/reader/): human-facing reader for current working drafts.
-- [Repository overview](https://svyable.github.io/binder/README.md): Binder/Shelf model, book catalog, preview and release workflow.
-- [Agent guidance](https://svyable.github.io/binder/AGENTS.md): rules for AI agents working with Binder content and repository structure.
+- [Svyable Desk home](https://svyable.github.io/binder/): crawlable catalog with semantic links and book metadata at the legacy repository path.
+- [Desk Reader](https://svyable.github.io/binder/reader/): human-facing Reader for current working drafts.
+- [Repository overview](https://svyable.github.io/binder/README.md): Desk/Shelf model, book catalog, preview and release workflow.
+- [Agent guidance](https://svyable.github.io/binder/AGENTS.md): rules for AI agents working with Desk content and repository structure.
 - [Crawler policy](https://svyable.github.io/binder/robots.txt): public crawl permissions.
 - [Sitemap](https://svyable.github.io/binder/sitemap.xml): machine-readable inventory of key public content.
 
@@ -104,8 +104,9 @@ Use this file as a low-noise map of the Binder. Working drafts may change. Do no
 
 ## Interpretation notes for agents
 
-- Binder content is a working draft unless explicitly released to Shelf.
+- Desk content is a working draft unless explicitly released to Shelf.
 - The Git repository may be private even when its GitHub Pages manuscript content is intentionally public.
+- The current `/binder/` URLs are legacy repository addresses; do not infer a supported `binder` Bookself role from them.
 - Cite the specific manuscript or research page used, not this index, when answering substantive questions.
 - Respect source uncertainty, falsification notes, and distinctions between sensation, measurement, metaphor, and technical claim.
 - For repository-changing work, read AGENTS.md before editing.

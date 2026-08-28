@@ -56,9 +56,9 @@ list:
 Tick boxes by editing `[ ]` to `[x]` (see the author guide). Update the
 Chapters count when it drifts.
 
-**Status** on this binder does not put a book on the public shelf.
-Promote the folder to the public shelf, then set Status to `Published`
-there. See
+**Status** on this Desk does not put a book on the public Shelf. Commit the
+Desk version and release the publication to Shelf; the release helper prepares
+the Shelf copy with Status `Published` there. See
 [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md).
 
 ## Manuscript

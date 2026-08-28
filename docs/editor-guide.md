@@ -36,12 +36,13 @@ When you add a book:
 When you retire a book, remove its option in the same PR that removes the
 folder.
 
-## Publishing happens on the shelf
+## Publishing happens on the Shelf
 
-This is the private binder. Do not treat Status `Published` here as a
-public catalog. Promote by copying the book folder to
-[Svyable/shelf](https://github.com/Svyable/shelf), then set Status and the
-README row **on the shelf**. See
+This is the private Desk. Do not treat Status `Published` here as a public
+catalog. Commit the Desk publication and prepare the release with
+`scripts/release-book.sh <slug> ../shelf`. The helper verifies the Desk/Shelf
+roles, prepares the public snapshot and catalog update, and stops before commit
+or push so the Shelf diff can be reviewed. See
 [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md).
 
 ## Line-comment reviews

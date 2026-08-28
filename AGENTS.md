@@ -16,33 +16,37 @@ Rules for AI agents working in this repository.
 - When you add a book, add its slug to the Book dropdown in
   `.github/ISSUE_TEMPLATE/chapter-feedback.yml` in the same change.
 
-## Binder / Shelf boundary
+## Desk / Shelf boundary
 
-This repository is the **private Binder**. It contains drafts and the next
+This repository is the **private Desk**. It contains drafts and the next
 working edition of books that may already have an older edition on the public
 Shelf.
 
+The GitHub repository slug is still `binder`. Until that repository is renamed,
+its GitHub and GitHub Pages URLs therefore continue to contain `/binder/`.
+That legacy path is an address, not a Bookself role.
+
 The Git repository stays private, but this Svyable instance has a
-**human-approved public Binder Reader** served with GitHub Pages. The Pages
+**human-approved public Desk Reader** served with GitHub Pages. The Pages
 preview is intentionally a working-in-public surface. Do not assume committed
-Binder material is confidential merely because the GitHub repository is private.
+Desk material is confidential merely because the GitHub repository is private.
 Never commit secrets, credentials, or material that must remain private.
 
-Binder and Shelf are separate Git repositories. Releasing a book copies a
-committed snapshot from Binder into Shelf; after release the copies are
+Desk and Shelf are separate Git repositories. Releasing a book copies a
+committed snapshot from Desk into Shelf; after release the copies are
 independent until the next release.
 
-Normal direction of manuscript flow is **Binder → Shelf**, never a two-way sync.
+Normal direction of manuscript flow is **Desk → Shelf**, never a two-way sync.
 Shared Reader UI may be synchronized from the Bookself platform; the lightweight
-Binder Reader bootstrap may also reuse the public Shelf Reader UI at runtime.
+Desk Reader bootstrap may also reuse the public Shelf Reader UI at runtime.
 
 ## Local-first invariant
 
-This Binder must remain fully usable with **zero GitHub Actions minutes**.
+This Desk must remain fully usable with **zero GitHub Actions minutes**.
 Writing, local preview, release preparation, and recovery must not depend on
 hosted CI/CD, Actions runners, build artifacts, or deployment jobs.
 
-The public Binder Reader is branch-served static Pages and is an optional
+The public Desk Reader is branch-served static Pages and is an optional
 convenience surface, not a prerequisite for writing or releasing. The normal
 release helper runs locally with Git and Python's standard library.
 
@@ -79,10 +83,10 @@ release helper runs locally with Git and Python's standard library.
   or paid automation minutes.
 - Do not commit secrets or credentials.
 - Do not remove, privatize, broaden, or otherwise change the human-approved
-  Binder Pages exposure model unless a human asks.
+  Desk Pages exposure model unless a human asks.
 - Do not copy unpublished books into the public Shelf unless a human asked to
   **release** that title.
-- Do not mark the Binder copy `Published`; `Published` is a Shelf state.
+- Do not mark the Desk copy `Published`; `Published` is a Shelf state.
 
 ## Verbs (author and agent)
 
@@ -93,33 +97,33 @@ authors, `Status: Drafting`. Add the slug to the chapter-feedback dropdown.
 a chapter, update that book's README TOC and Chapters count in the same
 change.
 
-**Preview.** The public working preview is
-`https://svyable.github.io/binder/reader/`; a direct book route is
-`reader/#/b/<slug>/`. Binder drafts remain drafts in this Reader. Local preview
+**Preview.** The public working preview currently remains at the legacy Pages
+path `https://svyable.github.io/binder/reader/`; a direct book route is
+`reader/#/b/<slug>/`. Desk drafts remain drafts in this Reader. Local preview
 is also supported with `python3 -m http.server` from the repository root. The
 committed lightweight Reader bootstrap reuses shared public Reader assets; if a
 fully copied local UI is needed, `scripts/bootstrap-ui.sh ../bookself` can
 replace/synchronize `reader/` and `desk/` from a sibling Bookself checkout.
 
-**Release (Bookself).** Commit the publication in Binder first, then run
+**Release (Bookself).** Commit the publication on Desk first, then run
 `scripts/release-book.sh <slug> ../shelf`. The command runs locally; it does not
 require GitHub Actions. It refuses uncommitted book changes and dirty Shelf
-release paths, verifies Binder/Shelf roles, prepares an exact replacement Shelf
+release paths, verifies Desk/Shelf roles, prepares an exact replacement Shelf
 snapshot, sets the Shelf copy to `Published`, updates the Shelf catalog row,
-verifies copied publication files against the committed Binder snapshot, and
+verifies copied publication files against the committed Desk snapshot, and
 stops before commit or push. Review and land the resulting change in the Shelf
 repository with normal Git; a PR is optional to Bookself itself.
 
 **Promote / copy only.** `scripts/promote-book.sh <slug> ../shelf` is the
 lower-level file-copy operation. It does not publish, verify the release, or
-create a live Binder ↔ Shelf relationship. Prefer **Release** normally.
+create a live Desk ↔ Shelf relationship. Prefer **Release** normally.
 
-**Publish.** Not on this Binder. Release to Shelf first.
+**Publish.** Not on this Desk. Release to Shelf first.
 
-**Revise a published book.** Revise this Binder copy while the current Shelf
-edition stays unchanged. Commit the Binder revision and Release it when ready.
+**Revise a published book.** Revise this Desk copy while the current Shelf
+edition stays unchanged. Commit the Desk revision and Release it when ready.
 
-**Unpublish.** Reverse the publication state on Shelf. Deleting the Binder copy
+**Unpublish.** Reverse the publication state on Shelf. Deleting the Desk copy
 is optional and separate.
 
 See https://github.com/Svyable/bookself/blob/main/docs/revisions.md for the
