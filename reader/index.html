@@ -3,11 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Svyable Binder Reader</title>
+  <title>Bookself — Books by Sven Benson</title>
+  <meta name="description" content="Bookself is a living collection of books by Sven Benson — complete drafts, works in progress, and ideas becoming books.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Bookself">
+  <meta property="og:title" content="Bookself">
+  <meta property="og:description" content="Books in the act of becoming books. Read complete drafts and works in progress by Sven Benson.">
+  <meta property="og:url" content="https://svyable.github.io/binder/reader/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Bookself">
+  <meta name="twitter:description" content="Books in the act of becoming books. Read complete drafts and works in progress by Sven Benson.">
   <link rel="describedby" href="../llms.txt">
 </head>
 <body>
-  <p id="boot">Opening Binder Reader…</p>
+  <p id="boot">Opening Bookself…</p>
   <script>
     (async () => {
       const upstream = 'https://svyable.github.io/shelf/reader/';
@@ -38,7 +47,7 @@
         document.close();
       } catch (error) {
         document.getElementById('boot').textContent =
-          `Could not load the shared Reader: ${error.message}`;
+          `Could not load Bookself: ${error.message}`;
       }
     })();
   </script>
