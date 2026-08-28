@@ -1,7 +1,9 @@
 #!/bin/sh
-# Bootstrap this legacy Binder with Bookself's shared Reader and Publishing Desk.
-# New Binder instances created with Bookself's stamp-instance.sh already include
-# these directories; this helper is for an older Binder that predates that rule.
+# Bootstrap this older Desk instance with Bookself's shared Reader and Publishing Desk.
+# New Desk instances created with Bookself's stamp-instance.sh already include
+# these directories; this helper is for an older instance that predates that rule.
+#
+# The GitHub repository slug is still `binder`, but its Bookself role is Desk.
 #
 # Usage: scripts/bootstrap-ui.sh [path-to-bookself]
 set -eu
@@ -19,6 +21,6 @@ fi
 sh "$SYNC" "$ROOT"
 
 echo
-echo "Binder shared UI is now copied locally from: $PLATFORM"
-echo "Review the new reader/ and desk/ files, then commit them in this Binder."
+echo "Desk shared UI is now copied locally from: $PLATFORM"
+echo "Review the new reader/ and desk/ files, then commit them in this Desk."
 echo "No GitHub Actions or hosted build is involved."
