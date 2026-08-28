@@ -24,6 +24,7 @@ body:
         - proof-of-human
         - single-points-of-failure
         - make-yourself-useful
+        - the-loneliness-dividend
         - _TEMPLATE
     validations:
       required: true
