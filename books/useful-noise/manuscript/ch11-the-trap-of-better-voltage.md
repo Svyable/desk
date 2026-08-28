@@ -24,9 +24,25 @@ The 2026 study used time-delayed collection-field measurements, bias-dependent p
 
 A field can move the energy landscape.
 
+The Stark effect is the shift of energy levels in an electric field. In a charge-transfer state, the electron and hole are spatially separated enough to create a dipole. Place that dipole in an electric field and the state’s energy changes depending on orientation and field strength. If the energetic margin between exciton and CT states is already small, a shift of only a few tens of millielectronvolts can materially alter the rate of forming free charge.
+
+This is a microscopic effect with a macroscopic fingerprint.
+
+A solar cell’s internal field is not constant while the external circuit sweeps from short circuit to open circuit. At short circuit, the applied voltage is near zero and the built-in field can assist charge separation and collection. As the external voltage rises toward open circuit, the net internal field changes. A transition that looked effortless at short circuit may become less favorable near the operating region where maximum power requires substantial voltage.
+
+The current–voltage curve therefore contains a hidden experiment in field dependence.
+
 This matters because a solar cell does not operate at one voltage. The internal field changes across the current–voltage curve. At short circuit, the field can help extraction and generation. Near open circuit, the field is weaker. If free-charge generation depends strongly on that field, the device may generate charges efficiently at one point and lose them near the region where maximum power requires high voltage and current simultaneously.
 
 Fill factor suffers.
+
+Fill factor itself can feel like a geometric afterthought because its definition is simple: compare the maximum-power rectangle under the current–voltage curve with the rectangle formed by short-circuit current and open-circuit voltage. A perfectly square curve would have an idealized fill factor near one. Real curves round away from that rectangle.
+
+The shape can round for many reasons.
+
+Series resistance reduces voltage under current. Shunt leakage steals current. Recombination rises with carrier density. Transport can become space-charge-limited. Contacts can be nonselective. Charge generation can depend on field. Slow transients can distort a voltage sweep. Different mechanisms can produce similar-looking fill-factor losses.
+
+This makes fill factor both useful and frustrating. It tells you the integrated device is losing power between its two easy endpoints. It does not tell you why.
 
 The result complicates a seductive story about electron–phonon coupling.
 
@@ -43,6 +59,14 @@ That is no longer sufficient.
 Short-circuit generation can look excellent even when generation near operating voltage is fragile. The relevant question is whether charges are generated across the field range that shapes the maximum-power point.
 
 The project’s current plan therefore calls for bias-dependent photoluminescence and preferably TDCF or an independently justified equivalent measurement under prospectively frozen conditions. The physical acceptance threshold is not copied from another material system. It must be established using the D18:eC9 baseline and the actual measurement capability before the guest-containing arms are unblinded.
+
+TDCF is useful here because it separates, imperfectly but powerfully, two moments that a steady current–voltage curve blends together. A light pulse creates excitations under a chosen prebias. After a delay, a strong collection field extracts surviving charges. Vary the prebias and delay and one can ask how efficiently charges were generated and how they recombined under different internal-field conditions.
+
+The method has its own assumptions. The collection field must be strong enough to extract without creating new ambiguity. Capacitive currents and injection can complicate interpretation. The pulse intensity matters. Delays and device history matter. A TDCF curve is not direct footage of an exciton becoming a free carrier.
+
+But paired with bias-dependent photoluminescence, it offers a way to ask whether the field changes population at the excited-state side of the process and whether that change appears in extracted charge.
+
+Two imperfect witnesses can constrain one another.
 
 This refusal to borrow a threshold is important.
 
@@ -63,6 +87,12 @@ The model considers how an electric-field-induced shift in charge-transfer energ
 The calculation is not a material prediction. It is an intellectual stop sign.
 
 Do not optimize one microscopic variable without measuring the neighboring failure mode.
+
+The model also gives the field problem a simple physical scale. A charge-transfer state with electron and hole separated by a few nanometers has a dipole moment. Multiply that separation by a device-scale electric field and the associated energetic shift can reach tens of millielectronvolts. That is not enormous compared with visible-photon energies. It is enormous compared with the small offsets high-performance organic solar cells are now deliberately trying to preserve.
+
+The closer the design moves toward energetic reversibility, the more a modest field can rearrange the ranking of competing states.
+
+This is the hidden cost of operating near a thermodynamic edge.
 
 This rule has wider relevance than organic photovoltaics.
 
@@ -118,6 +148,10 @@ This creates another design trade-off.
 
 A long exciton lifetime can be useful for charge generation, but an exciton that lives longer is not automatically better. It may diffuse farther and encounter productive interfaces. It may also encounter quenchers, defects, or bimolecular interactions. The optimal lifetime depends on diffusion, morphology, interface density, absorption rate, and competing channels.
 
+One can make this concrete with a race. An exciton is created somewhere in a donor-rich region. It can diffuse to an interface, decay radiatively, decay nonradiatively, encounter a quencher, or participate in density-dependent interactions if excitation is high. Increase its lifetime and the finish line moves outward—it can search a larger volume. But if the morphology already places an interface nearby, a longer lifetime may provide little benefit. If traps dominate, it may give the excitation more time to find the wrong sink too.
+
+Lifetime is valuable only relative to the landscape.
+
 Again, the right variable is not a maximum but a relationship.
 
 The project’s recent multi-objective work reflects this emerging complexity. It is no longer enough to ask whether electron–phonon coupling decreases. One must consider voltage loss, exciton lifetime, field-dependent generation, transport loss, and stabilized power together.
@@ -143,6 +177,10 @@ That is a more defensible technological moat than a story about quantum mechanic
 The fill-factor trap also reveals why useful work must remain the final arbiter.
 
 Open-circuit voltage is measured when no net current flows. It is an important thermodynamic and electronic quantity, but a power-producing device spends its working life away from open circuit. The maximum-power point sits where voltage and current coexist. Fill factor captures how well the device preserves both.
+
+This distinction has an operational consequence for testing. A voltage sweep may pass quickly through the maximum-power region while the device is still relaxing. Maximum-power-point tracking instead holds the device near its operating optimum and follows the output over time. For devices with slow transients, the stabilized value can differ from the best instantaneous sweep.
+
+A technology claim should prefer the value the device can sustain.
 
 A research program that optimizes only open-circuit quantities risks building a beautiful non-working battery of chemical potential.
 
