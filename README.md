@@ -62,6 +62,7 @@ confidential.
 | [Single Points of Failure](books/single-points-of-failure/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/single-points-of-failure/) | Not released |
 | [Built to Be Alone](books/the-loneliness-dividend/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-loneliness-dividend/) | Not released |
 | [Silent Cartel](books/silent-cartel/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/silent-cartel/) | Not released |
+| [Useful Noise](books/useful-noise/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/useful-noise/) | Not released |
 
 ## The simple workflow
 

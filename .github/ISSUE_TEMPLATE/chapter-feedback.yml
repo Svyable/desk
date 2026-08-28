@@ -26,6 +26,7 @@ body:
         - make-yourself-useful
         - the-loneliness-dividend
         - silent-cartel
+        - useful-noise
         - _TEMPLATE
     validations:
       required: true
