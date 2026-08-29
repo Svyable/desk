@@ -57,6 +57,7 @@ confidential.
 | [The Unbounding](books/the-unbounding/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/self/reader/#/b/the-unbounding/) | Not released |
 | [The Convergence](books/the-convergence/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/the-convergence/) | Not released |
 | [Predictable](books/predictable/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/predictable/) | Not released |
+| [The Reliability Tax](books/the-reliability-tax/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/the-reliability-tax/) | Not released |
 | [The World Beneath the World](books/the-world-beneath-the-world/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/self/reader/#/b/the-world-beneath-the-world/) | Not released |
 | [Proof of Human](books/proof-of-human/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/self/reader/#/b/proof-of-human/) | Not released |
 | [Single Points of Failure](books/single-points-of-failure/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/self/reader/#/b/single-points-of-failure/) | Not released |
