@@ -22,8 +22,8 @@ This repository is the **private Desk**. It contains drafts and the next
 working edition of books that may already have an older edition on the public
 Shelf.
 
-The GitHub repository is `Svyable/self`, and its GitHub Pages project path is
-`/self/`. `self` is the instance name; its Bookself role remains **Desk**.
+The GitHub repository is `Svyable/desk`, and its GitHub Pages project path is
+`/desk/`. `desk` is the instance name and its Bookself role is **Desk**.
 
 The Git repository stays private, but this Svyable instance has a
 **human-approved public Desk Reader** served with GitHub Pages. The Pages
@@ -97,7 +97,7 @@ a chapter, update that book's README TOC and Chapters count in the same
 change.
 
 **Preview.** The public working preview is
-`https://svyable.github.io/self/reader/`; a direct book route is
+`https://svyable.github.io/desk/reader/`; a direct book route is
 `reader/#/b/<slug>/`. Desk drafts remain drafts in this Reader. Local preview
 is also supported with `python3 -m http.server` from the repository root. The
 committed lightweight Reader bootstrap reuses shared public Reader assets; if a
