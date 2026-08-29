@@ -1,150 +1,158 @@
 # The Revolution Is Real
 
-One of the clearest demonstrations that generative AI was already economically useful did not come from a benchmark, a product launch, or a prediction about artificial general intelligence. It came from a customer-service queue.
+One of the cleanest demonstrations that generative AI was already economically useful came from a customer-service queue.
 
-A Fortune 500 software company introduced an AI assistant to thousands of support agents. The system watched customer conversations and suggested responses in real time. Agents could use the suggestions, edit them, or ignore them. The researchers studying the rollout were therefore not asking whether a model could pass an exam under laboratory conditions. They were asking whether ordinary employees could resolve more ordinary problems during an ordinary workday.
+A Fortune 500 software company gave thousands of support agents an AI assistant that watched customer conversations and suggested responses in real time. Agents could accept the suggestions, rewrite them, or ignore them. The test was not whether a model could ace an exam or charm a benchmark. It was whether Tuesday went faster.
 
-They could.
+It did.
 
-In the published study, covering 5,172 customer-support agents, access to the assistant increased the number of issues resolved per hour by about 15 percent on average. The gains were not evenly distributed. Less experienced and lower-skilled workers improved much more than the strongest agents. The most experienced workers saw much smaller speed gains, and in some cases small declines in measured conversation quality.
+In the published study, which covered 5,172 agents, access to the assistant increased issues resolved per hour by about 15 percent on average. The gains were concentrated among less experienced and lower-performing workers. The strongest agents improved much less, and some measures of conversation quality slipped slightly for the most experienced group.
 
-That unevenness is part of what makes the result useful.
+That unevenness is what makes the result interesting.
 
-A technology does not have to improve every worker, every task, or every firm to be real. It has to do something that people value, under conditions that matter outside the demonstration. Here, an AI system changed measurable output in a workplace whose managers cared about how quickly customer problems were solved. The effect survived the messiness that often disappears from a benchmark: different workers, different customers, different problems, and the possibility that a human being simply ignores the machine.
+Real technologies do not improve every worker and every task at the same rate. They enter through pockets where the fit is unusually good. Here, an AI system changed measurable output in a workplace where managers cared about how quickly customer problems were solved. The result survived the ordinary mess of production: different workers, different customers, different problems, and humans who were free to ignore the machine.
 
-This is a more consequential fact than whether a chatbot occasionally writes a clever paragraph.
+That matters more than whether a chatbot can produce a clever paragraph on command.
 
-It is also a fact that should make anyone arguing about an AI bubble more careful.
+It also makes the bubble argument harder.
 
-The easiest bearish argument about a technology boom is that the technology itself is exaggerated. Sometimes that is true. A product can be mostly theater. A market can be built on fraudulent claims, fabricated demand, or scientific results that do not replicate. When that happens, the financial and technological stories collapse together.
+The easiest bearish story about a technology boom is that the technology is mostly theater. Sometimes it is. Markets have financed fraudulent science, imaginary demand, promotional inventions, and businesses whose economics disappeared as soon as somebody looked closely.
 
-Artificial intelligence presents a harder problem because the evidence increasingly refuses to cooperate with that simple story.
+Artificial intelligence is more troublesome for skeptics because the evidence keeps refusing to become that simple.
 
-The systems are being used. They perform tasks that previously required human cognitive labor. In some settings they measurably raise productivity. People are willing to give something up rather than lose access to them. Businesses are adopting them, though at very different rates. Technical capabilities continue to advance fast enough that some benchmarks designed to distinguish frontier models are becoming less informative soon after they are introduced.
+The systems are being used. In some settings they raise measured productivity. Businesses are adopting them, though unevenly. Consumers appear to value access well beyond what many currently pay. Technical capabilities continue to improve quickly enough that some benchmarks lose discriminatory power not long after they are introduced.
 
-None of those observations tells us what an AI company should be worth.
+None of that tells us what an AI company should be worth.
 
-That distinction is the foundation of this book.
+A useful technology creates value. An investment earns a return only if a particular owner captures enough of that value, for long enough, relative to the price paid to create or acquire the asset. Early in a boom those statements are often treated as synonyms.
 
-A useful technology creates value. An investment earns a return only if some particular owner can capture enough of that value, for long enough, relative to what was paid to create or acquire the asset. Those two statements sound close to each other when a boom is young. They are not close at all.
+They are not.
 
-The customer-support experiment helps show why. Imagine that an AI assistant allows a company to resolve the same number of customer problems with fewer labor hours. That efficiency can appear in several places. The company might keep the savings as profit. It might lower prices to win customers. It might improve service without changing prices. Workers might become more productive and eventually bargain for higher pay. Competitors might adopt the same tool, eliminating any temporary advantage. The AI vendor might raise its price and capture part of the gain. Or another vendor might offer an equivalent system more cheaply and force the first vendor's margin down.
+The customer-support experiment shows why. Suppose the assistant lets a company handle the same number of customer problems with fewer labor hours. The gain can travel in several directions. The company might keep it as profit. It might improve service without raising prices. It might cut prices to win customers. Workers might capture some of the benefit through higher wages. The AI vendor might charge for the productivity gain. A competing vendor might offer similar capability for less and force the first vendor's price down.
 
-The productivity improvement can remain completely real through every one of those outcomes.
+The productivity improvement can remain completely real while the financial winner changes.
 
-What changes is who gets paid.
+That is not a philosophical distinction between social good and finance. It is the economic question underneath every technology boom. Investors do not receive a pro rata share of the usefulness a technology creates. They receive whatever cash flow remains after competition, imitation, bargaining, regulation, falling prices, capital costs, and time have taken their share.
 
-This is not a semantic distinction between social good and finance. It is the central economic question underneath a technology boom. Investors do not receive a pro rata share of every benefit a technology creates for society. They receive the cash flows that survive competition, imitation, bargaining, regulation, falling prices, capital costs, and the passage of time.
+Artificial intelligence makes the distinction easy to miss because much of it arrives as software.
 
-The difference is easy to forget with artificial intelligence because the technology often arrives as software. Software encourages the intuition that value should be unusually easy to capture. Once a model exists, the next user does not require another steel mill or railway line. Distribution can happen through an API or a browser. A successful product can reach millions of people quickly.
+Software encourages the intuition that value should be unusually easy to capture. Once a model exists, the next customer does not require a new steel mill. Distribution can happen through an API or a browser. A good product can reach millions of users before a factory could finish pouring concrete.
 
-But low distribution friction cuts both ways. It can help a winner scale. It can also make substitution easier, accelerate competition, and push the price of capability downward. A customer who receives more value from AI every year does not necessarily pay more for it every year.
+But low distribution friction cuts both ways. It helps a winner scale and it helps competitors appear. It lowers the cost of trying a product and often the cost of leaving it. A customer may receive more intelligence each year while paying less for each unit of it.
 
-Sometimes the opposite is true.
+That is not a contradiction. It is a familiar pattern in technology.
 
-This is where consumer value becomes useful evidence.
+The gap between value and price showed up clearly in a 2026 study from the Stanford Digital Economy Lab. Researchers used choice experiments to estimate what American users would have to be paid to give up generative AI tools for a month. By March 2026 they estimated roughly 115 million adult users in the United States and about $172 billion in annual consumer surplus.
 
-In 2026, researchers at the Stanford Digital Economy Lab estimated what American users would have to be paid to give up access to generative AI tools for a month. Their method used choice experiments rather than market spending, which matters because many of the most widely used tools are free or inexpensive. The researchers estimated that the U.S. adult user base had grown to roughly 115 million by March 2026. Their estimate of aggregate annual consumer surplus reached about $172 billion.
+That figure is not revenue.
 
-The number should not be treated as a cash register receipt. Willingness-to-accept experiments measure stated choices under a particular research design, and the distribution of value was highly uneven. The median monthly value per user was far below the mean. That gap alone is a warning against turning a welfare estimate into a clean forecast of revenue.
+The study measured willingness to give up access under a particular experimental design. The value was also distributed unevenly; the median user valuation sat well below the mean. It would be a mistake to paste $172 billion into a revenue forecast and call the market measured.
 
-But the exercise reveals something important that revenue figures can miss.
+The useful point is simpler. A product can create a great deal of value while charging relatively little for access.
 
-A product can create enormous value while charging very little for access.
+Consumers love that arrangement. Investors still have to ask who gets paid.
 
-From the consumer's perspective, that is wonderful. From the perspective of an investor trying to determine who will earn the returns from the AI revolution, it is incomplete information.
+William Nordhaus made the same problem visible from a much wider historical angle. Studying innovation across the U.S. nonfarm business economy from 1948 through 2001, he estimated that producers captured only a small fraction of the social surplus generated by technological change. His central estimate was about 2.2 percent.
 
-The same separation appears in a much older literature on innovation. William Nordhaus examined how much of the social value created by technological advances in the American economy was ultimately captured by the innovators responsible for them. Looking across the nonfarm business economy from 1948 through 2001, he concluded that producers captured only a small fraction of the total surplus generated by innovation. His central estimate was about 2.2 percent.
+That number should not be treated as an AI parameter. It describes a broad historical period containing technologies with very different patent protection, capital intensity, competitive structure, and market power.
 
-That figure is not an AI forecast. It comes from a broad historical period, a particular model, and an economy containing technologies with very different patent protection, competitive structures, and capital requirements. It would be careless to take 2.2 percent and paste it into a valuation model for an AI company.
+The mechanism travels better than the percentage.
 
-The useful part is the mechanism.
+Innovation leaks.
 
-Innovation can be socially enormous and privately difficult to appropriate.
+A better machine lowers costs. Competitors copy features. Suppliers raise prices. Workers bargain for some of the gains. Customers receive better products for less money. Patents expire. Knowledge spreads. New entrants improve on the original invention. The wider a technology diffuses, the more difficult it can become for its first owner to keep all the economics for itself.
 
-A better machine can lower costs. Competitors can copy features. Employees can capture some gains through wages. Suppliers can extract rents. Customers can receive better products at lower prices. Patents expire. Technical knowledge spreads. A new entrant can improve on the original invention. The more widely a technology diffuses, the more of its value can escape the company that first made it valuable.
+Artificial intelligence may resist that pattern in important ways.
 
-This is one of the great paradoxes of technological progress. The things that make an innovation transformative can also make it difficult for any single owner to monopolize its benefits.
+Frontier model development requires scarce engineering talent, enormous compute budgets, specialized chips, data-center capacity, distribution, and access to capital. Scale can matter. Proprietary data can matter. A model embedded deeply inside a cloud platform, operating system, enterprise workflow, or consumer network can enjoy switching costs that a technically similar competitor cannot easily reproduce.
 
-Artificial intelligence may turn out to be an exception in important ways. Frontier model development requires scarce engineering talent, enormous compute resources, specialized chips, data-center capacity, distribution, and access to capital. Scale may confer advantages that are difficult to reproduce. Proprietary data can matter. A model embedded deeply inside an operating system, cloud platform, enterprise workflow, or consumer network may benefit from switching costs and distribution that a technically comparable competitor cannot easily overcome.
+Those are serious advantages, not footnotes.
 
-These are not minor qualifications. They are the strongest case for why some AI companies could capture a very large share of the value they create.
+They are the best case for why some AI companies could capture an unusually large share of the value they create.
 
-The mistake would be to assume the conclusion before observing the competitive process.
+The mistake is treating that conclusion as settled before the competitive process has had time to work.
 
-The evidence on adoption already suggests that the process will be uneven.
+Adoption data already show how uneven that process is.
 
-The U.S. Census Bureau's Business Trends and Outlook Survey provides a useful corrective to broad claims that every company has already become an AI company. In data collected from late 2025 into 2026, roughly one in five U.S. employer businesses reported using AI in a business function. On an employment-weighted basis, the share was higher, because large companies were more likely to be users. Very large firms in information, professional services, and finance reported much higher adoption rates than small firms and many less knowledge-intensive industries.
+The U.S. Census Bureau's Business Trends and Outlook Survey is a useful antidote to claims that every company has already become an AI company. In data collected from late 2025 into early 2026, about 18 percent of firms reported using AI in at least one business function. The employment-weighted share was much higher, around 32 percent, because large companies were far more likely to be users.
 
-By May 2026, Census data still showed national business use around 20 percent, while 37 percent of firms with at least 250 employees reported using AI. In information and finance, adoption was substantially above the national rate. In retail it was lower.
+By May 2026, national use still sat around one in five firms, while 37 percent of businesses with at least 250 employees reported using AI. Adoption was especially strong in information, professional services, and finance and much weaker in many smaller or less knowledge-intensive businesses.
 
-This is what diffusion looks like before it becomes invisible.
+That is what diffusion looks like before a technology becomes ordinary.
 
-A technology can be economically important long before every firm uses it. Electricity mattered before every factory rewired. The internet mattered before every business sold online. Smartphones mattered before every industry redesigned itself around mobile software. Diffusion happens through uneven pockets of high value, falling costs, imitation, complementary investment, organizational learning, and eventually changes in what people consider normal.
+Electricity mattered before every factory rewired. The internet mattered before every merchant sold online. Smartphones mattered before every industry rebuilt its customer experience around a small sheet of glass.
 
-The AI data also warn against using adoption itself as a synonym for transformation.
+AI does not need universal adoption to be economically important.
 
-The Census researchers found that even among firms using AI, deployment was often narrow. A majority of adopting firms used it in three or fewer business functions during the survey period. The most common uses clustered in areas such as sales and marketing, strategy, business development, and information technology. That is meaningful penetration. It is not yet evidence that the entire production system of the economy has been rebuilt.
+Nor does adoption, by itself, prove transformation.
 
-Both facts can be true at once: AI can be spreading rapidly and its economic impact can still be early.
+Census researchers found that even among firms using AI, deployment was often narrow. A majority of adopters used it in three or fewer business functions during the survey period. That is meaningful penetration. It is not yet an economy rebuilt around machine intelligence.
 
-The tension is visible in productivity research as well.
+Both things can be true at once: AI can be spreading quickly and still be early.
 
-The customer-support study showed a large and credible gain in a setting where the task fit the tool. Other studies have found improvements in software development, writing, and certain creative or analytical tasks. But the emerging literature also includes settings where the gains are smaller, disappear, or reverse. The 2026 Stanford AI Index summarized the pattern cautiously: the clearest productivity improvements tend to occur in work that is structured, measurable, and supported by feedback. More open-ended work requiring deeper judgment has produced more mixed outcomes.
+The same caution belongs in the productivity literature.
 
-That should not be surprising.
+The support-agent result is compelling because the task fit the tool and the output could be measured. Other work has found gains in coding, writing, and some analytical tasks, but the emerging evidence is not uniform. Results depend on the worker, the task, the model, the workflow, and what counts as quality.
 
-A spreadsheet is transformative for some tasks and irrelevant to others. A forklift is extraordinarily productive in a warehouse and useless in a courtroom. General-purpose technologies eventually affect many industries, but they do not enter every process with equal force or at the same time.
+That should not surprise us.
 
-Artificial intelligence is unusual because its target is cognition, which appears almost everywhere in an economy. That breadth makes the potential market enormous. It also makes measurement difficult. A system that helps write an email may save time without changing output. A system that generates code may accelerate one developer and create review work for another. A faster research process may produce a better decision, or merely more documents. A company can announce that thousands of employees have access to AI while only a small fraction reorganize their work around it.
+A forklift is transformative in a warehouse and useless in a courtroom. A spreadsheet is indispensable to one job and irrelevant to another. General-purpose technologies spread widely, but they do not enter every process with equal force.
+
+Artificial intelligence is unusual because its target is cognition, and cognition appears almost everywhere. That gives the technology an enormous potential market. It also makes measurement slippery.
+
+An AI system may help somebody write an email faster without changing the firm's output. It may generate code quickly and create more review work downstream. It may make a research process faster but not the final decision better. A company can give thousands of employees access to a tool and still have only a small minority reorganize their work around it.
 
 Access is not use. Use is not productivity. Productivity is not revenue. Revenue is not profit. Profit is not return on invested capital.
 
-The boom tends to collapse those steps into one another.
+Booms have a habit of compressing that chain.
 
-A compelling model demonstration becomes evidence of inevitable adoption. Adoption becomes evidence of vast willingness to pay. Vast willingness to pay becomes evidence of durable margins. Durable margins justify enormous capital spending. The spending itself then becomes evidence that the opportunity must be as large as expected, because serious companies would not commit so much money otherwise.
+A striking model demonstration becomes evidence of inevitable adoption. Adoption becomes evidence of vast willingness to pay. Willingness to pay becomes evidence of durable margins. Durable margins justify enormous capital spending. The spending itself then becomes proof that the opportunity must be enormous, because serious companies would not commit so much money otherwise.
 
-Each link can be plausible. The full chain can still fail.
+Each link can be reasonable.
 
-That does not require anyone to be foolish.
+The whole chain can still break.
 
-Executives can face incentives that make aggressive investment individually rational even when the industry collectively overbuilds. A cloud provider that fears being left behind may spend heavily because the cost of missing the platform shift appears greater than the cost of excess capacity. A software company may integrate AI because competitors are doing the same. A venture capitalist may fund the fifth company in a category because the market is expanding quickly enough that one winner could justify many losses.
+No villain is required.
 
-Under uncertainty, duplication is not automatically waste. It is often how markets discover what works.
+Executives can make individually rational decisions that collectively produce excess capacity. A cloud provider may spend aggressively because the cost of missing the platform shift looks worse than the cost of overbuilding. A software company may integrate AI because competitors are doing it. A venture capitalist may fund the fifth company in a category because one winner could cover a great many losses.
 
-The question for investors is what happens after discovery.
+Duplication under uncertainty is often how markets discover what works.
 
-Suppose AI continues to improve rapidly. Suppose it becomes embedded in office work, software development, medicine, science, logistics, education, finance, media, and industrial systems. Suppose the technology is every bit as consequential as its strongest advocates expect.
+The bill arrives after discovery.
 
-Those assumptions do not answer whether today's model providers earn extraordinary returns.
+Suppose AI keeps improving rapidly. Suppose it becomes embedded in software development, medicine, science, logistics, finance, media, education, and ordinary office work. Suppose the technology is every bit as consequential as its strongest advocates expect.
 
-They do not answer whether the durable profits sit with semiconductor companies, cloud operators, software distributors, electricity suppliers, data-center owners, application companies, or businesses that simply use AI to lower their own costs. They do not answer whether competition drives model prices toward commodity levels. They do not answer how quickly expensive hardware becomes obsolete, whether customers can switch providers, or whether open models narrow the gap with proprietary ones.
+Those assumptions still do not tell us which assets earn extraordinary returns.
 
-They certainly do not answer what price an investor should pay today for cash flows that may arrive years from now.
+The durable profits might sit with semiconductor companies, cloud platforms, power producers, software distributors, application businesses, or companies that simply use AI to lower their own costs. Competition may push model prices down. Open models may narrow the gap with proprietary systems. Hardware may become obsolete faster than expected. Customers may switch easily. Or scale, distribution, and capital intensity may create a small number of powerful winners.
 
-This is why arguments over whether AI is "real" often miss the interesting question.
+The technology can be real in every version of that story.
 
-The evidence can become overwhelmingly favorable to the technology while remaining ambiguous for the securities built around it.
+What changes is the distribution of the cash.
 
-Consider again the support agent. The worker resolves more problems in an hour. The customer waits less. The employer may spend less per resolved issue. The AI vendor supplies the capability. There is genuine economic value in the system.
+Return to the support agent.
 
-Now ask who owns that fifteen percent.
+The worker resolves more problems in an hour. The customer waits less. The employer may spend less per resolved issue. The AI vendor supplies the capability. Economic value has been created.
+
+Now ask who owns the fifteen percent.
 
 No one owns it automatically.
 
-The worker might keep part of it. The employer might keep part of it. Customers may capture it through better service or lower prices. The vendor may charge for part of it. A competing vendor may erase the first vendor's pricing power. The gains can be distributed across a network of contracts and competitive responses until the original technological improvement remains obvious but its financial beneficiary is hard to identify.
+The worker may keep part of it. The employer may keep part of it. Customers may capture it through better service or lower prices. The vendor may charge for part of it. A rival may erase the vendor's pricing power. The gain can spread through a web of contracts and competition until the technological improvement is obvious and its financial beneficiary is not.
 
-This is what a bubble built around a real technology looks like from the inside.
+That is the harder version of an AI bubble.
 
-The central argument is not that investors have mistaken a toy for a revolution. The more interesting possibility is that they have recognized the revolution correctly and then made a second, less visible assumption: that the value created by the revolution will accrue to the assets they already own, on the timetable embedded in today's prices.
+The central argument is not that investors have mistaken a toy for a revolution. The more interesting possibility is that they have recognized the revolution correctly and then smuggled in a second assumption: that the value created by the revolution will accrue to the assets they already own, on the timetable embedded in today's prices.
 
-That assumption deserves much more scrutiny than the technology's ability to answer questions or generate code.
+That assumption deserves more scrutiny than the technology's ability to answer questions or generate code.
 
-There is a reason the distinction feels unsatisfying. Markets prefer a clean argument. Either AI is transformative or it is hype. Either the bulls understand the future or the skeptics do. A two-sided proposition is harder to trade emotionally: the technology can succeed spectacularly while many investments financing it disappoint.
+Markets prefer cleaner stories. Either AI is transformative or it is hype. Either the bulls see the future or the skeptics do. The two-sided proposition is emotionally less satisfying: the technology can succeed spectacularly while many investments financing it disappoint.
 
-Yet that combination is not exotic. It may be one of the most common patterns in the history of technological change.
+History makes that combination look less exotic.
 
-The internet did not become less important because thousands of internet companies disappeared. Fiber did not stop carrying data because telecom investors lost money. Railroads did not cease shrinking distance when railroad securities failed. A technology can survive the capital structure that first carried it into the world.
+The internet did not become less important because thousands of internet companies disappeared. Fiber did not stop carrying data because telecom investors lost money. Railroads did not stop shrinking distance when railroad securities failed.
+
+A technology can survive the capital structure that first carries it into the world.
 
 That history is where we go next.
 
