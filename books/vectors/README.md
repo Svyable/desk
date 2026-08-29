@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 25 drafted |
+| **Chapters** | 2 of 25 drafted |
 
 How Direction Became the Language of Intelligence.
 
@@ -18,7 +18,7 @@ The argument is deliberately practical and political as well as technical. A vec
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Arrow That Learned Meaning](manuscript/ch01-the-arrow-that-learned-meaning.md)
-- [ ] Ch 2 — More Than a Number
+- [x] [Ch 2 — More Than a Number](manuscript/ch02-more-than-a-number.md)
 - [ ] Ch 3 — Coordinates Are a Choice
 - [ ] Ch 4 — Change the Basis, Change the View
 - [ ] Ch 5 — The Dot Product of Agreement
@@ -43,3 +43,8 @@ The argument is deliberately practical and political as well as technical. A vec
 - [ ] Ch 24 — When the Map Becomes the Territory
 - [ ] Ch 25 — Choose a Direction
 - [ ] Back Matter
+
+## Research
+
+- [Research brief](research/README.md)
+- [Source ledger](research/source-ledger.md)
