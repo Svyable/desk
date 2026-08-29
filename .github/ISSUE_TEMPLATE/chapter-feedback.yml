@@ -30,6 +30,7 @@ body:
         - synthetic-intelligence
         - the-reliability-tax
         - keep-cooking
+        - to-state-the-obvious
         - _TEMPLATE
     validations:
       required: true
