@@ -288,22 +288,24 @@ The protocol should therefore be treated as **governance plumbing**, not a truth
 
 ---
 
-## 8. A real Desk exchange
+## 8. Two Desk examples, with provenance intact
 
-The repository contains two examples that can be read together.
+The repository contains two examples that illuminate different parts of the protocol.
 
-[`examples/desk-book-review.mandate.json`](examples/desk-book-review.mandate.json) shows a bounded mandate for preparing a Desk book review.
+[`examples/desk-book-review.mandate.json`](examples/desk-book-review.mandate.json) is an **illustrative prospective mandate**. It shows what bounded authority could look like before a Desk book-review task begins.
 
-[`examples/pr-103.schema-companion.receipt.json`](examples/pr-103.schema-companion.receipt.json) records a real repository transaction: PR #103, which added the first Delegation Mandate schema companion and was squash-merged as commit `a9ed89ed0ea196544da36a0e23de08a6f85f5339`.
+[`examples/pr-103.schema-companion.receipt.json`](examples/pr-103.schema-companion.receipt.json) records a **real repository transaction**: PR #103, which added the first Delegation Mandate schema companion and was squash-merged as commit `a9ed89ed0ea196544da36a0e23de08a6f85f5339`.
 
-The example receipt includes both:
+PR #103 did not have a machine-readable mandate issued before execution. The receipt says so. Its `mandate_id` is explicitly retrospective and points back to the human instruction and repository-policy context rather than inventing a control artifact after the fact.
+
+That gap is useful evidence too.
+
+The receipt also separates:
 
 - independent GitHub evidence of the PR/merge; and
 - a local schema-validation result that is useful evidence but explicitly **not** independent of the delegate.
 
-That distinction is intentional.
-
-Not all evidence has the same provenance.
+Not all evidence has the same provenance, and not every historical action will already have every protocol artifact. A migration path should expose missing provenance rather than fabricate it.
 
 ---
 
