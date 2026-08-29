@@ -33,6 +33,7 @@ body:
         - to-state-the-obvious
         - the-value-stack
         - the-delegation-machine
+        - the-abstraction-trap
         - _TEMPLATE
     validations:
       required: true

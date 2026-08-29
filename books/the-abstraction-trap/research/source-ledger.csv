@@ -1,0 +1,39 @@
+chapter,claim_area,source_type,source,title,url,date_or_version,notes
+1,cartography,primary collection,Library of Congress,Mercator cartographic material,https://www.loc.gov/item/2021668435/,historical,Projection used as bounded representation example
+1,map projection,government technical,USGS,Map projections,https://www.usgs.gov/programs/core-science-systems/national-geospatial-program/map-projections,current background,Projection distortion and purpose
+2,information theory,original research,Claude E. Shannon,A Mathematical Theory of Communication,https://doi.org/10.1002/j.1538-7305.1948.tb01338.x,1948,Bounded abstraction deliberately excluding semantics
+2,bounded rationality,authoritative biography,Nobel Prize,Herbert A. Simon facts,https://www.nobelprize.org/prizes/economic-sciences/1978/simon/facts/,1978 award,Administrative decision-making context
+3,consumer meaning,original research,Russell W. Belk,Possessions and the Extended Self,https://doi.org/10.1086/209154,1988,Material goods and identity
+4,national accounting,government methodology,BEA,Methodologies,https://www.bea.gov/resources/methodologies,current,Scope of GDP and national accounts
+4,financial accounting,standards body,FASB,Accounting standards resources,https://www.fasb.org/,current,Accounting conventions and reporting
+5,LTCM,official history,Federal Reserve History,Long-Term Capital Management 1998,https://www.federalreservehistory.org/essays/ltcm-near-failure,1998 event,Private recapitalization and Fed facilitation
+5,LTCM leverage,government testimony,U.S. Treasury,LTCM testimony,https://home.treasury.gov/news/press-releases/rr3137,1998,End-1997 assets and capital
+6,innovation capture,original research,David J. Teece,Profiting from technological innovation,https://doi.org/10.1016/0048-7333(86)90027-2,1986,Complementary assets and capture
+7,metric corruption,original policy research,Donald T. Campbell,Assessing the Impact of Planned Social Change,https://doi.org/10.56645/jmde.v7i15.297,1976 original,High-stakes indicators and corruption pressure
+7,Goodhart principle,authoritative biography,Bank of England,Charles Goodhart biography,https://www.bankofengland.co.uk/about/people/charles-goodhart/biography,current background,Context for Goodhart-associated principle
+8,consumer psychology,original research,Russell W. Belk,Possessions and the Extended Self,https://doi.org/10.1086/209154,1988,Identity and consumption
+8,data practices,regulator,FTC,Privacy and Security,https://www.ftc.gov/business-guidance/privacy-security,current,Consumer data governance context
+9,credentials,original research,Michael Spence,Job Market Signaling,https://doi.org/10.2307/1882010,1973,Education and signaling theory
+9,motivation,research program,Self-Determination Theory,Research and bibliography,https://selfdeterminationtheory.org/,current bibliography,Intrinsic/extrinsic motivation nuance
+10,model risk,current regulator,Federal Reserve,SR 26-2 Model Risk Management,https://www.federalreserve.gov/supervisionreg/srletters/SR2602.htm,2026-04-17,Current dated model-risk guidance
+10,LTCM,official history,Federal Reserve History,Long-Term Capital Management 1998,https://www.federalreservehistory.org/essays/ltcm-near-failure,1998 event,Leverage liquidity and correlated response case
+11,Challenger,primary investigation,Presidential Commission/NASA,Rogers Commission Report,https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19870002391.pdf,1986 accident report,O-ring and launch decision evidence
+12,Vietnam decision history,primary archive,National Archives,Pentagon Papers,https://www.archives.gov/research/pentagon-papers,study commissioned 1967,U.S. decision-making record
+12,Tet,official declassified analysis,U.S. Intelligence Community,Tet at Fifty,https://www.intelligence.gov/tet-declassified/tet-at-fifty,1968 event retrospective,Tactical and strategic interpretation plus intelligence record
+13,platform governance,regulator,FTC,Federal Trade Commission,https://www.ftc.gov/,current,Competition and digital-platform context
+14,AI risk,current technical framework,NIST,AI Risk Management Framework 1.0,https://doi.org/10.6028/NIST.AI.100-1,2023-01-26,Govern map measure manage framework
+15,corporate disclosure,regulator,SEC,EDGAR,https://www.sec.gov/edgar,current,Formal legal and financial representation of companies
+16,index funds,regulator education,SEC Investor.gov,Index Fund,https://www.investor.gov/introduction-investing/investing-basics/glossary/index-fund,current,Index tracking mechanism
+16,index methodology,index provider,S&P Dow Jones Indices,Methodology Library,https://www.spglobal.com/spdji/en/documents/methodologies/,current,Rule-based index construction
+16,ratings,regulator,SEC,Office of Credit Ratings,https://www.sec.gov/about/divisions-offices/office-credit-ratings,current,Rating-agency oversight
+17,Brasilia,international heritage authority,UNESCO,Brasilia World Heritage,https://whc.unesco.org/en/list/445/,current record,Planning and architectural context
+18,work and occupational health,government research,NIOSH,Worker health resources,https://www.cdc.gov/niosh/,current,Work organization and well-being context
+19,labor definitions,government methodology,BLS,CPS Definitions,https://www.bls.gov/cps/definitions.htm,current,Unemployment and labor-force categories
+19,inflation,government methodology,BLS,CPI Questions and Answers,https://www.bls.gov/cpi/questions-and-answers.htm,current,Population index versus household experience
+20,reproducibility,original research,Open Science Collaboration,Estimating the reproducibility of psychological science,https://doi.org/10.1126/science.aac4716,2015,Replication evidence
+20,reproducibility,authoritative synthesis,National Academies,Reproducibility and Replicability in Science,https://nap.nationalacademies.org/catalog/25303/reproducibility-and-replicability-in-science,2019,Field-sensitive replication and reproducibility distinctions
+21,innovation capture,original research,David J. Teece,Profiting from technological innovation,https://doi.org/10.1016/0048-7333(86)90027-2,1986,Complementary assets and strategic capture
+21,firm dynamics,government data,Census Bureau,Business Dynamics Statistics,https://www.census.gov/programs-surveys/bds.html,current,Firm entry and exit context
+22,accident investigation,independent federal agency,NTSB,Investigations,https://www.ntsb.gov/investigations/Pages/default.aspx,current,Independent reality contact and investigation methods
+23,synthesis,technical framework,NIST,AI Risk Management Framework 1.0,https://doi.org/10.6028/NIST.AI.100-1,2023-01-26,Bounded representation and governance example
+23,synthesis,primary investigation,NASA/Rogers Commission,Challenger Report,https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19870002391.pdf,1986,Independent challenge and physical mechanism example

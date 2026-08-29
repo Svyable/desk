@@ -27,6 +27,7 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Useful Noise](https://svyable.github.io/self/books/useful-noise/README.md): complete draft by Sven Hardy Benson; engaging science and futurism about open quantum systems, organic photovoltaics, polaritons, metrology, manufacturing, and the public `Svyable/quantum-energy` research program.
 - [Keep Cooking](https://svyable.github.io/self/books/keep-cooking/README.md): complete draft by Sven Hardy Benson; token maxing, cheap machine cognition, agent loops, labor, firms, households, energy, markets, global distribution, and who wins when AI keeps thinking.
 - [The Delegation Machine](https://svyable.github.io/desk/books/the-delegation-machine/README.md): complete draft by Sven Hardy Benson; delegation from ancient stewards and bureaucracies through daemons, APIs, automation, and AI agents, plus a practical Delegation Stack field guide.
+- [The Abstraction Trap](https://svyable.github.io/self/books/the-abstraction-trap/README.md): drafting by Sven Hard Benson; how maps, money, metrics, models, categories, markets, and algorithms become causal when people begin steering by them.
 
 ## The World Beneath the World
 
@@ -228,6 +229,37 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Chapter 21 — A Civilization of Deputies](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch21-a-civilization-of-deputies.md)
 - [Back Matter](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/back-matter.md)
 - [Research and falsification trail](https://svyable.github.io/desk/books/the-delegation-machine/research/README.md)
+
+## The Abstraction Trap
+
+- [Book hub — The Abstraction Trap](https://svyable.github.io/self/books/the-abstraction-trap/README.md)
+- [Front Matter](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/front-matter.md)
+- [Chapter 1 — The Map That Moves the Territory](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch01-the-map-that-moves-the-territory.md)
+- [Chapter 2 — The Miracle of Leaving Things Out](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch02-the-miracle-of-leaving-things-out.md)
+- [Chapter 3 — The Score Is Not the Music](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch03-the-score-is-not-the-music.md)
+- [Chapter 4 — The Number Called Money](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch04-the-number-called-money.md)
+- [Chapter 5 — The Price That Watches You Back](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch05-the-price-that-watches-you-back.md)
+- [Chapter 6 — The Company in the Spreadsheet](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch06-the-company-in-the-spreadsheet.md)
+- [Chapter 7 — The Target Eats the Measure](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch07-the-target-eats-the-measure.md)
+- [Chapter 8 — The Factory of Categories](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch08-the-factory-of-categories.md)
+- [Chapter 9 — The Credential and the Person](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch09-the-credential-and-the-person.md)
+- [Chapter 10 — The Model of Risk](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch10-the-model-of-risk.md)
+- [Chapter 11 — Seventy-Three Seconds](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch11-seventy-three-seconds.md)
+- [Chapter 12 — The War on the Dashboard](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch12-the-war-on-the-dashboard.md)
+- [Chapter 13 — The Platform's Eye](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch13-the-platforms-eye.md)
+- [Chapter 14 — The Model as Product](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch14-the-model-as-product.md)
+- [Chapter 15 — The Organization That Exists on Paper](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch15-the-organization-that-exists-on-paper.md)
+- [Chapter 16 — The Index Owns the Market](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch16-the-index-owns-the-market.md)
+- [Chapter 17 — The City on Paper](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch17-the-city-on-paper.md)
+- [Chapter 18 — The Worker in the Algorithm](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch18-the-worker-in-the-algorithm.md)
+- [Chapter 19 — The State's Simplified Citizen](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch19-the-states-simplified-citizen.md)
+- [Chapter 20 — The Scientist's Escape Hatch](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch20-the-scientists-escape-hatch.md)
+- [Chapter 21 — The Counterexample Economy](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch21-the-counterexample-economy.md)
+- [Chapter 22 — Recontact With Reality](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch22-recontact-with-reality.md)
+- [Chapter 23 — The Art of Useful Abstraction](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/ch23-the-art-of-useful-abstraction.md)
+- [Back Matter](https://svyable.github.io/self/books/the-abstraction-trap/manuscript/back-matter.md)
+- [Research brief and falsification notes](https://svyable.github.io/self/books/the-abstraction-trap/research/README.md)
+- [Source ledger](https://svyable.github.io/self/books/the-abstraction-trap/research/source-ledger.csv)
 
 ## Interpretation notes for agents
 
