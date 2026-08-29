@@ -1,14 +1,12 @@
 # A Number Is Not Knowledge
 
-In March 2025, a prediction market worth more than seven million dollars ended with an answer that looked wonderfully precise.
+In March 2025, a prediction market with more than seven million dollars of volume ended with the most precise answer possible.
 
 Yes.
 
-The question on Polymarket was whether Ukraine would agree to a minerals deal with the United States before April. The market had opened in early February. Its rules said it would resolve yes if the two countries agreed to any deal during the window that explicitly involved Ukrainian rare-earth elements. An announcement could qualify even if the agreement had not yet been enacted. Official information from the two governments would determine the result.
+The Polymarket question asked whether Ukraine would agree to a minerals deal with the United States before April. The rules were broader than the headline. A qualifying announcement could count even if a formal agreement had not yet been signed. Official information from the two governments would determine the result.
 
-By the time the market finished, the answer was not merely close to certain. It was settled.
-
-The outcome was proposed as yes.
+When the deadline arrived, the proposed outcome was yes.
 
 It was disputed.
 
@@ -16,235 +14,175 @@ Yes was proposed again.
 
 It was disputed again.
 
-The final outcome was yes.
+The market ultimately resolved yes.
 
-A month later, on April 30, the U.S. Treasury announced that the United States and Ukraine had signed the agreement establishing their Reconstruction Investment Fund.
+A month later, on April 30, the U.S. Treasury announced that the two countries had signed the agreement establishing their Reconstruction Investment Fund.
 
-That later signature did not retroactively tell us whether Polymarket's March resolution was right or wrong.
+That later signature did not settle the earlier argument retroactively.
 
-The contract did not require a signed agreement. It allowed an announcement of a deal to count. The question was therefore not simply, Did the countries sign a minerals agreement before April? It was whether the evidence available by the deadline satisfied a broader contractual definition of agreement.
+The March contract had not asked whether a formal agreement would be signed before April. It allowed an announcement of a deal to qualify. The dispute was therefore about when negotiations had crossed a line defined by the market's rules.
 
-The market had a number.
+The market had a binary outcome.
 
 The world had language.
 
-Between them sat interpretation.
+Interpretation sat between them.
 
-This is where probabilistic precision becomes most interesting.
+That is where numerical forecasting becomes most interesting.
 
-A price such as 73 percent looks more disciplined than the sentence, "I think it will probably happen." Often it is. A numerical forecast forces the speaker to choose a level of confidence. It can be recorded. It can be scored. It can be compared with other forecasts. It can be revised when new evidence arrives.
+A probability such as 73 percent is usually better than “I think it will probably happen.” The number forces a forecaster to state a degree of confidence. It can be recorded, compared, scored, revised, and audited later.
 
-The previous chapter made the strongest case for those advantages in prediction markets. A functioning market can collect different judgments, reward correction, and update faster than many institutions can revise a memo.
+Those are substantial advantages.
 
-But a number acquires authority faster than the assumptions underneath it become visible.
+They do not make every percentage comparable.
 
-That problem is larger than prediction markets.
+A consultant may assign a project a 70 percent chance of success. An intelligence analyst may estimate a 30 percent chance of a coup. A statistical model may give a candidate 62 percent. A prediction market may trade a contract at sixty-two cents.
 
-It appears whenever uncertainty is translated into a percentage.
+The percent sign gives the statements a common grammar.
 
-A consultant says a project has a 70 percent probability of success. An intelligence analyst assigns a 30 percent chance to a coup. An investor gives a startup a 10 percent chance of becoming a hundred-billion-dollar company. A model reports a 62 percent probability that a candidate will win. A market trades a contract at sixty-two cents.
+It does not give them a common source of knowledge.
 
-The numbers seem comparable.
+One number may come from thousands of historical observations. Another may come from expert judgment. Another may emerge from a market with trading constraints and correlated participants. Another may be the output of a spreadsheet whose assumptions have not been revisited since the first version was built.
 
-They may not be.
+The first discipline for making sense of those numbers is calibration.
 
-One probability may come from a statistical model with decades of comparable observations. Another may be an expert's judgment. Another may be a market price shaped by trading constraints. Another may be the midpoint of a distribution generated from assumptions nobody has inspected since the spreadsheet was built.
+Calibration asks a modest question.
 
-Writing them all with a percent sign gives them a common grammar.
+When a forecaster repeatedly says 70 percent, do roughly seven out of ten comparable events occur? Do 20 percent forecasts happen about one time in five? Do 90 percent forecasts fail occasionally?
 
-It does not give them a common epistemology.
+That last part is harder to accept than it sounds.
 
-The most useful way to begin is with calibration.
+When a 90 percent event fails, the instinct is to say the forecast was wrong.
 
-Calibration is a beautifully modest idea.
+One failure does not establish that.
 
-If a forecaster repeatedly assigns 70 percent probability to events, about 70 percent of those events should eventually occur. Forecasts made at 20 percent should occur about one time in five. Forecasts made at 90 percent should fail occasionally, because a nine-in-ten event is not a certainty.
+A perfectly calibrated forecaster should lose roughly one in ten times at 90 percent. If the forecast never fails, the forecaster may have been too cautious.
 
-This is easy to understand and surprisingly hard to feel.
+Probability describes uncertainty before the outcome.
 
-When a 90 percent event fails, people are tempted to say that the forecast was wrong.
+Reality arrives afterward as zero or one.
 
-Perhaps it was.
+The difference is why probabilistic forecasts have to be judged in sets rather than by one dramatic miss.
 
-But one outcome cannot establish that.
+Sarah Lichtenstein, Baruch Fischhoff, and Lawrence Phillips made calibration central to the study of probability judgment. Glenn Brier's earlier work on weather forecasting gave forecasters a scoring method that rewarded both accuracy and appropriate confidence.
 
-A forecaster who is perfectly calibrated at 90 percent should still experience one failure in every ten comparable forecasts. If those failures never occur, the forecaster may actually be underconfident.
+The important achievement was not mathematical elegance.
 
-Probability describes uncertainty before the fact. Reality arrives afterward as zero or one.
+It was accountability.
 
-Confusing the two creates one of the most common errors in evaluating forecasts.
+“The economy may weaken” can survive almost anything. “There is a 70 percent chance of a recession within twelve months,” paired with a definition and a deadline, leaves a record.
 
-The idea has a long history. Sarah Lichtenstein, Baruch Fischhoff, and Lawrence Phillips reviewed decades of work on probability judgment and framed calibration as the relationship between stated confidence and observed frequency. Glenn Brier's earlier work on weather forecasting supplied a scoring approach that made probabilistic forecasts accountable without pretending that a single uncertain event should have been known in advance.
+Once enough forecasts accumulate, habits become visible.
 
-That accountability is one reason numerical forecasting can improve judgment.
+Perhaps the forecaster's 80 percent calls happen only 62 percent of the time. Perhaps 30 percent calls happen 45 percent of the time. Perhaps accuracy is excellent in elections and poor in wars. Perhaps confidence deteriorates whenever the question touches something the forecaster wants to happen.
 
-A vague prediction can escape.
-
-"The economy may weaken" can remain defensible through almost anything short of a boom. "There is a 70 percent chance of recession within twelve months," paired with a precise definition of recession and a date, has fewer places to hide.
-
-The forecast can be stored.
-
-After enough forecasts, patterns emerge.
-
-Maybe the forecaster's 80 percent judgments happen only 62 percent of the time. Maybe the 30 percent calls occur 45 percent of the time. Maybe the forecaster is excellent on elections and poor on wars. Maybe confidence becomes less reliable when the question touches something the forecaster wants to happen.
-
-The numbers create the possibility of feedback.
+Numbers create feedback.
 
 And feedback can work.
 
-The strongest evidence against an overly pessimistic view of human probabilistic judgment comes from the geopolitical forecasting tournaments run in the 2010s.
+The geopolitical forecasting tournaments of the 2010s are strong evidence against the idea that probabilities merely decorate human ignorance.
 
-Thousands of people forecast hundreds of international events over several years. The questions required probabilities, not slogans. Forecasters received feedback. Some received training. Some worked in teams. The best performers were identified and grouped together.
+Thousands of participants made hundreds of forecasts about international events. They had to give numerical probabilities. They received feedback. Some were trained. Some worked in teams. The strongest performers were identified and grouped together.
 
-In a study of three years of tournament data, Don Moore, Samuel Swift, Barbara Mellers, Philip Tetlock, and their colleagues found that forecasters' confidence roughly tracked their accuracy. Overconfidence was small overall. Training reduced it. Team collaboration improved accuracy. Together, training and teams reduced measured overconfidence to about one percentage point.
+Across three years of tournament data, Don Moore, Samuel Swift, Barbara Mellers, Philip Tetlock, and their colleagues found that confidence tracked accuracy reasonably well. Overall overconfidence was small, and training plus team collaboration reduced it to about one percentage point.
 
-That result deserves to slow down any argument that numbers merely decorate ignorance.
+Mellers and colleagues also found that unusually strong forecasters maintained high performance across many questions and domains.
 
-People can learn to use probabilities well.
+People can learn this.
 
-They can become better calibrated.
+They can become better calibrated by decomposing questions, checking base rates, looking for disconfirming evidence, updating, and keeping score rather than relying on memory.
 
-They can improve through practice, comparison, decomposing questions, seeking contrary evidence, and updating instead of defending an old forecast.
+That evidence is essential because the danger in this chapter is not numerical forecasting.
 
-Barbara Mellers and her colleagues found that unusually strong forecasters maintained high performance across hundreds of questions and different domains. They were not simply lucky on one election or one crisis. The forecasting environment helped identify and cultivate people whose probabilities were meaningfully informative.
+It is numerical authority without numerical discipline.
 
-Numerical discipline can therefore make uncertainty more honest.
+The difference often appears before the number is produced.
 
-It can also make weak reasoning look more scientific than it is.
+Kahneman and Tversky's work on the psychology of prediction showed how vivid descriptions can pull judgment away from base rates and from the reliability of the evidence. A case that feels representative can become more persuasive than the frequency with which similar cases actually occur.
 
-The difference lies in what happened before the number appeared.
+Technology investing is fertile ground for that error.
 
-Consider the base rate.
+A compelling founder story says little by itself about the base rate at which companies convert new technology into durable profits. A spectacular model demonstration does not tell us how often benchmark gains become near-term labor substitution. A giant data-center announcement can be sincere and still provide weak evidence about what proportion of today's planned capacity will earn its cost of capital a decade from now.
 
-In 1973, Daniel Kahneman and Amos Tversky published experiments on intuitive prediction. Their subjects were given descriptions and asked to predict outcomes. The descriptions often made one outcome feel representative or plausible. Yet the predictions were strikingly insensitive to how common the outcomes were to begin with and to how reliable the evidence actually was.
+The details can all be true.
 
-The result became part of the broader literature on base-rate neglect.
+The predictive weight can still be wrong.
 
-The lesson was not that people never use base rates.
+Putting 78 percent beside the story does not repair it.
 
-It was that a vivid description can pull judgment away from them.
+Sometimes it makes the reasoning harder to inspect because the number looks like the conclusion of a process that may never have occurred.
 
-That matters enormously in technological forecasting.
+A disciplined probability begins with questions such as: what usually happens in cases like this? What is genuinely different here? How reliable is the evidence for those differences? How much should that evidence move the prior?
 
-A compelling company story can contain almost no information about the base rate of companies that successfully turn a new technology into durable profits.
-
-A dramatic model demonstration can tell us little about the historical frequency with which benchmark improvements become near-term labor substitution.
-
-An executive announcing a giant data-center plan can be sincere and well informed about the company's intentions while providing weak evidence about the proportion of today's announced capacity that will earn its cost of capital ten years later.
-
-The story can be true in every detail and still be assigned too much predictive weight.
-
-Attaching 78 percent to the story does not repair that problem.
-
-It may conceal it.
-
-This is the central danger of false precision.
-
-The forecast becomes numerically explicit while its information structure remains implicit.
-
-A good probabilistic forecast asks what usually happens in cases like this, what is different this time, how reliable those differences are, and how much they should move the prior probability.
-
-A decorative probability jumps to the last step.
-
-It gives the update without showing the prior.
+False precision skips the middle and presents the update.
 
 Prediction markets can inherit the same weakness.
 
-A market price reflects the trades that occurred. It does not display each trader's base rate.
+The price tells us what trades cleared. It does not show each trader's base rate or reasoning.
 
-One participant may begin with historical frequencies. Another may extrapolate the latest news. Another may be hedging. Another may follow a social-media account. Another may simply believe the market itself must know something.
+One participant may use historical frequencies. Another may be following a poll. Another may be hedging. Another may be reacting to social media. Another may simply assume the market itself knows something.
 
-The final price compresses these motives into one number.
+Those motives become one number.
 
-Compression is useful when the ingredients are good.
+That compression is useful when the underlying information is diverse.
 
-It can be misleading when the ingredients are correlated.
+It can be deceptive when the information is shared.
 
-The Google prediction markets discussed in the previous chapter showed why. Employees did not enter as independent sensors. They shared workplaces, social networks, incentives, and moods. Nearby colleagues traded in related ways. New employees tended to be more optimistic. Market optimism moved with Google's stock price.
+Google's internal prediction markets showed the problem. Employees did not enter as independent sensors. They shared offices, social networks, incentives, and moods. Nearby employees traded in correlated ways. New hires tended to be more optimistic. Market optimism moved with Google's stock price.
 
-A hundred judgments can therefore contain fewer than a hundred independent pieces of evidence.
+A hundred traders can therefore represent far fewer than a hundred independent pieces of evidence.
 
-This problem becomes more severe in public markets built around breaking news.
+The same problem appears in public markets around breaking news.
 
-A thousand traders may all be responding to the same poll.
+A thousand traders may all be responding to the same poll. A thousand investors may all be parsing the same earnings call. A thousand AI forecasts may descend from the same assumption about scaling.
 
-A thousand investors may all have read the same earnings call.
+The crowd can be large while the information tree has one trunk.
 
-A thousand AI forecasts may all descend from the same scaling assumption.
+Aggregation cannot create independence that does not exist.
 
-The crowd looks large.
+Nor does a numerical model remove motive.
 
-The information tree may have one trunk.
-
-Numerical aggregation cannot manufacture independence that is not there.
-
-Nor does it eliminate motive.
-
-Ziva Kunda's review of motivated reasoning distinguished between reasoning directed toward accuracy and reasoning directed toward a preferred conclusion. People who want to be accurate can search more carefully and use better strategies. People who want a particular conclusion can also reason energetically, but the search becomes tilted toward beliefs and arguments that support the desired destination.
-
-This is subtler than simply lying to oneself.
-
-A motivated person still needs a plausible justification.
-
-That is precisely why numbers can become useful tools for motivated reasoning.
+Ziva Kunda's work on motivated reasoning helps explain why a spreadsheet can be fully sourced and still point where its builder wanted it to point.
 
 Suppose an investor badly wants to own an AI company.
 
-The investor can build a model.
+The growth assumption is not fabricated; recent results support it. The market-size estimate comes from a respectable report. The margin assumption resembles a successful comparable. The discount rate is defensible. The useful-life estimate can be found in a filing.
 
-The growth rate is not invented. It comes from recent results.
+Every cell can survive a narrow challenge.
 
-The market size is not invented. It comes from an industry estimate.
+The model can still be built from the favorable edge of every plausible range.
 
-The margin assumption is not invented. A comparable company once achieved it.
+The weakness appears only when the assumptions are considered together.
 
-The discount rate is defensible. The terminal growth rate is defensible. The useful life is defensible.
+Each one may be defensible.
 
-Every individual input can have a source.
+All of them arriving at once may not be.
 
-The model can still be constructed from the favorable edge of every defensible range.
+This is one reason an elegant valuation can feel more certain than the underlying economics deserve. Sources do not prevent motivated selection. They merely constrain how it is expressed.
 
-The resulting valuation may appear rigorous precisely because each assumption can survive a narrow challenge.
+The prediction market has a parallel problem. A trader can cite a poll, a speech, an official statement, a historical analogy, and a model. The evidence is real. The relevant question is how much the combined evidence should move the probability.
 
-What disappears is the joint improbability of all the favorable assumptions arriving together.
+That cannot be answered by staring at the final percentage.
 
-Prediction markets can produce a parallel effect.
+The percentage is what needs explaining.
 
-A trader can point to a poll, a speech, a weather model, an official statement, and a historical analogy. Each may be real. The question is whether the combined evidence warrants the displayed probability.
+The Ukraine minerals market exposes another source of false confidence: settlement.
 
-That question cannot be answered by staring harder at the percentage.
+Polymarket's current documentation makes an important distinction. The title describes the question. The rules define how the market resolves.
 
-The percentage is the thing that needs explaining.
+That difference can determine who gets paid.
 
-The minerals market is useful because it exposes another layer of uncertainty: resolution.
+The platform uses predefined rules, bonded outcome proposals, a challenge period, and escalation through UMA when proposals are disputed. Its clarification policy also recognizes that wording can materially change the object being priced; when rules are clarified, resting orders can be cancelled and the order book cleared.
 
-Polymarket's current documentation makes an important distinction that many casual readers overlook. The market title describes the question. The rules define how it resolves.
+The settlement process is not outside the forecast.
 
-Those are not always the same thing.
+It is part of the contract.
 
-The platform's rules specify the resolution source, the end date, and how edge cases should be treated. Anyone can propose an outcome by posting a bond. Others can dispute it. A disputed outcome can eventually be decided through the UMA oracle system.
+Kalshi reaches the same conceptual destination through a different mechanism. Its market rules define the outcome criteria, information sources, and verification sources that determine settlement.
 
-In other words, the resolution process is itself a mechanism with incentives and rules.
+This is obvious in weather markets. Your phone can tell you that Chicago reached ninety degrees. A contract can still settle according to a specified official station and report. The market is not measuring your experience of the weather. It is measuring a defined observation.
 
-The market does not merely forecast the world.
-
-It forecasts the world as translated through a contract and then translated again through a settlement process.
-
-Polymarket's 2026 clarification policy makes this even more explicit. If a market needs clarification, the platform may clarify the rules, and the order book is cleared with resting orders cancelled when the clarification takes effect.
-
-That is a sensible safeguard.
-
-It is also an admission that language can change the object being priced enough that existing orders should not simply remain in place.
-
-Kalshi handles the problem differently but reaches the same conceptual destination. Its current help materials tell traders to read each market's rules, which define the outcome, the information used, and the verification source. Settlement can wait for an official source even when everyone watching believes they already know what happened.
-
-The authoritative source can therefore matter more than the apparent event.
-
-Weather markets make this obvious.
-
-Your phone can tell you that Chicago reached ninety degrees. A contract can still settle according to a specific National Weather Service report from a specific station. The contract is not measuring your experience of Chicago weather. It is measuring a defined observation.
-
-Politics and technology are worse because the nouns themselves move.
+Politics and technology are harder because the nouns themselves can be disputed.
 
 What counts as a recession?
 
@@ -260,172 +198,100 @@ A market cannot settle a philosophical category.
 
 It has to choose an observable rule.
 
-The moment it does, the probability becomes conditional on that rule.
+The instant it does, the probability becomes conditional on that rule.
 
-This is not a defect that can be eliminated by better mathematics.
+That is not a mathematical flaw.
 
-It is a property of forecasting events described in human language.
+It is a consequence of forecasting a world described in human language.
 
-The minerals market had more than seven million dollars of volume. Its final outcome was yes. The proposal was disputed twice. Those facts can all be true without establishing that the world itself contained one uncontested yes-or-no answer at the deadline.
+The minerals market had more than seven million dollars of volume. It resolved yes. The proposed outcome was disputed twice. A formal agreement was signed after the deadline.
 
-The formal agreement signed on April 30 tells us that a deal eventually existed.
+All of those facts can coexist.
 
-It does not tell us exactly when the earlier negotiations crossed from progress toward a deal into an agreement that satisfied the March contract.
+They tell us that the financial outcome was binary and the epistemic history was not.
 
-A settlement mechanism had to make that judgment.
+That distinction matters when settled markets are later used to score forecasters.
 
-Once it did, the market became history: yes contracts paid, no contracts did not.
+A probability can only be evaluated against an outcome after somebody has decided what the outcome was.
 
-The economic result was binary.
+For a temperature reading or a certified election result, this may be straightforward. For concepts such as political stability, recession, military victory, ceasefire, model release, or technological achievement, the label can contain judgment.
 
-The epistemic history was not.
+Good question design therefore comes before good calibration.
 
-This distinction matters because settled markets are often used later as training data for evaluating forecasters.
+A beautiful scoring system applied to ambiguous questions can partly measure how the ambiguity was resolved.
 
-A prediction can only be scored against an outcome after someone defines what the outcome was.
+This problem exists outside prediction markets as well.
 
-For weather, that may be straightforward.
-
-For elections, usually straightforward.
-
-For concepts such as political stability, recession, military victory, model release, ceasefire, or technological achievement, the label can contain judgment.
-
-Calibration therefore depends on question design before it depends on arithmetic.
-
-If the questions are ambiguous, a beautiful calibration curve can be partly a measurement of how the ambiguity was resolved.
-
-The same problem exists outside markets.
-
-Corporate forecasts are often judged against metrics whose definitions change.
-
-A revenue target can be affected by acquisitions. A user metric can be redefined. A productivity measure can count tasks that later turn out not to matter. A model benchmark can saturate and be replaced.
+Corporate targets are judged against metrics whose definitions can change. User counts can be redefined. Acquisitions can change the meaning of revenue growth. Productivity measures can count work that later proves unimportant. Model benchmarks can saturate and be replaced.
 
 Numbers do not float above institutions.
 
 Institutions decide what gets counted.
 
-This is why good forecasting practice pays so much attention to operationalizing the question.
+This is why useful forecasting questions can sound annoyingly specific.
 
-A useful forecast is not merely "Will AI transform work?"
+“Will AI transform work?” is not yet a question that can be scored.
 
-Transform which work?
+Which work? By what date? Measured how? Relative to what baseline? What result would count as transformation?
 
-Measured how?
+That specificity is not pedantry.
 
-By what date?
+It is the price of interpretability.
 
-Relative to what baseline?
+There is a second trap, though.
 
-What observation would count as transformation?
+A question can become so operationally precise that it no longer captures the thing people think they are discussing.
 
-The extra specificity can feel pedantic.
+The AGI market from the first chapter is the clean example. A contract that resolves on an OpenAI announcement can be written and settled precisely. It does not become a direct measurement of whether artificial general intelligence exists under every reasonable definition.
 
-It is the opposite.
+Operational precision narrows ambiguity by narrowing meaning.
 
-It is what makes the number interpretable.
+That tradeoff cannot be eliminated.
 
-There is, however, another trap.
+Vague questions preserve breadth and lose settleability. Narrow questions become settleable and may answer less than their headline suggests.
 
-A question can become so precisely defined that it stops answering what people think it answers.
+A careful reader has to know which compromise was made.
 
-The AGI contract from the first chapter is the clearest example. A market tied to whether OpenAI announces AGI can be settled cleanly. That does not make it a direct measurement of whether artificial general intelligence exists under every reasonable definition.
+Interfaces make that harder because the number travels better than its provenance.
 
-Operational precision can reduce ambiguity while narrowing meaning.
+A market displays 64 percent in large type. The rules require another click.
 
-This is one of the tradeoffs numerical forecasting cannot escape.
+An analyst's target price becomes a headline. The scenario assumptions sit pages later.
 
-Vague questions preserve meaning and lose settleability.
+A dashboard shows a confidence interval. The data-generating process lives in documentation almost nobody reads.
 
-Narrow questions improve settleability and may lose meaning.
+Conditional judgments become facts as they move.
 
-A careful forecaster has to know which compromise was made.
+A manager hears that a product has a 75 percent probability of shipping in the fourth quarter. The board deck later says “Q4 launch.” An investor model includes fourth-quarter revenue. A journalist writes that the company plans to launch by year-end.
 
-The current popularity of probabilities makes this harder because the number is usually the most visible object.
+No one has to falsify the original forecast.
 
-A market interface shows 64 percent in large type.
+The uncertainty simply evaporates in transit.
 
-The rules require another click.
+That is different from false precision.
 
-A model dashboard shows a confidence interval.
+False precision gives weak reasoning an exact number.
 
-The assumptions live in documentation.
+False certainty takes a careful probabilistic statement and strips away its conditions.
 
-An analyst's target price appears in a headline.
+Both produce numbers that look more solid than the knowledge underneath them.
 
-The scenario weights sit fourteen pages into the report.
+The answer is not to retreat to vagueness.
 
-The number travels more easily than its provenance.
+The superforecasting evidence makes that clear. Numerical probabilities, proper scoring, feedback, and explicit definitions can make people better thinkers. Markets can make disagreement testable. Forecast records can reveal biases that memory would hide.
 
-That portability is part of its power.
+Probability is one of the best languages we have for uncertainty.
 
-It is also how conditional judgments become facts in conversation.
+It is still a language.
 
-A manager hears that a project has a 75 percent probability of shipping on time. The board deck later says, "Launch expected in Q4." A journalist writes that the company "plans to launch in Q4." An investor model treats Q4 revenue as the base case.
+A probability is a statement of belief conditional on information, assumptions, definitions, incentives, and time. Calibration tells us how a forecasting process performs across repeated questions. It does not tell us that the next 80 percent event must occur. A scoring rule can compare forecasters. It cannot guarantee that the question captured the concept people cared about.
 
-At no point does anyone have to falsify the original forecast.
+The number is useful because it compresses uncertainty.
 
-The uncertainty can simply evaporate as the statement moves.
+The number becomes dangerous when we forget what was compressed.
 
-By the time it reaches a valuation, the old 75 percent may have become a cell containing revenue.
+The next chapter follows that compression as it moves through research papers, executive language, media, capital budgets, and finally asset prices.
 
-This process will matter even more in the next chapter, where narratives move through institutions until they become prices.
+A narrative does not become less powerful when it acquires decimals.
 
-For now, the important point is that probabilistic precision can be lost in two directions.
-
-A vague claim can be dressed up with a number that its evidence does not support.
-
-A careful numerical claim can also be stripped of its conditions as it travels.
-
-The first problem is false precision.
-
-The second is false certainty.
-
-They are related but different.
-
-The cure is not to stop using numbers.
-
-That would throw away one of the best tools we have for making uncertainty accountable.
-
-The forecasting tournaments show that people can learn to produce remarkably well-calibrated probabilities. Proper scoring creates incentives to state uncertainty rather than hide it. Markets force participants to take positions that can be tested. Precise rules can turn endless semantic arguments into settleable contracts.
-
-The counterevidence against an anti-quantification argument is strong.
-
-Numbers can make us better thinkers.
-
-But only when we remember what they are doing.
-
-A probability is not a small piece of future truth.
-
-It is a statement of belief conditional on information, assumptions, definitions, incentives, and time.
-
-Calibration tells us whether a forecasting process has historically matched outcomes at stated confidence levels. It does not tell us that the next 80 percent event will occur.
-
-A Brier score can compare forecasters. It does not tell us whether the question captured the concept people cared about.
-
-A liquid market can discipline unsupported opinion. It does not guarantee informational independence among traders.
-
-A detailed resolution rule can make a contract settle cleanly. It does not make the underlying language philosophically uncontested.
-
-These are not reasons to distrust probabilities.
-
-They are reasons to read them properly.
-
-The most dangerous number is often not the obviously fabricated one.
-
-It is the number produced by a respectable process, displayed with enough precision that nobody remembers to ask what had to be assumed before it could exist.
-
-That is the bridge between forecasting and finance.
-
-A market probability can compress uncertainty into a price.
-
-A valuation can do the same thing to a story.
-
-Both become easier to trade, repeat, and defend once the assumptions disappear from view.
-
-The next question is therefore social rather than mathematical.
-
-Where do those assumptions come from before they become numbers?
-
-They come from stories told in laboratories, companies, investment committees, newsrooms, and markets.
-
-And once enough people tell the same story, the story begins to look like data.
+Sometimes it becomes easier to finance.
