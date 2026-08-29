@@ -67,6 +67,7 @@ confidential.
 | [To State the Obvious:](books/to-state-the-obvious/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/to-state-the-obvious/) | Not released |
 | [Keep Cooking](books/keep-cooking/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/self/reader/#/b/keep-cooking/) | Not released |
 | [Synthetic Intelligence](books/synthetic-intelligence/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/synthetic-intelligence/) | Not released |
+| [The Value Stack](books/the-value-stack/) | Sven Hard Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/the-value-stack/) | Not released |
 
 ## The simple workflow
 
