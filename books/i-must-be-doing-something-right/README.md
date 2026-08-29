@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Complete draft |
-| **Chapters** | 20 of 20 drafted |
+| **Chapters** | 21 of 21 drafted |
 
 ## Contents
 
@@ -30,7 +30,8 @@
 - [x] [Ch 17 — The Danger of Believing Your Own Press](manuscript/ch17-the-danger-of-believing-your-own-press.md)
 - [x] [Ch 18 — Enough Without Stopping](manuscript/ch18-enough-without-stopping.md)
 - [x] [Ch 19 — The Good You Are Bad at Remembering](manuscript/ch19-the-good-you-are-bad-at-remembering.md)
-- [x] [Ch 20 — I Must Be Doing Something Right](manuscript/ch20-i-must-be-doing-something-right.md)
+- [x] [Ch 20 — When Nobody Is Watching](manuscript/ch20-when-nobody-is-watching.md)
+- [x] [Ch 21 — I Must Be Doing Something Right](manuscript/ch21-i-must-be-doing-something-right.md)
 - [x] [Back Matter — Keep the Receipts](manuscript/back-matter.md)
 
 ## Research
