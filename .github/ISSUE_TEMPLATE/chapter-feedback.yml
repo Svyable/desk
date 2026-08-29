@@ -35,6 +35,7 @@ body:
         - the-delegation-machine
         - the-abstraction-trap
         - gatekeepers
+        - aggregate-consolidate-innovate
         - _TEMPLATE
     validations:
       required: true
