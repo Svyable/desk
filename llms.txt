@@ -1,174 +1,174 @@
 # Svyable Desk
 
-> A public working-draft Reader for books being written on the private Svyable Desk. The GitHub repository is `Svyable/desk` and the Pages project path is `/desk/`. The site exposes manuscripts intentionally through GitHub Pages while keeping Desk and the released Svyable Shelf as separate publication states.
+> A public working-draft Reader for books being written on the private Svyable Desk. The GitHub repository is `Svyable/self` and the Pages project path is `/self/`. The site exposes manuscripts intentionally through GitHub Pages while keeping Desk and the released Svyable Shelf as separate publication states.
 
 Use this file as a low-noise map of the Desk. Working drafts may change. Do not treat Desk status as publication; released editions live on Svyable Shelf.
 
 ## Primary entry points
 
-- [Svyable Desk home](https://svyable.github.io/desk/): crawlable catalog with semantic links and book metadata.
-- [Desk Reader](https://svyable.github.io/desk/reader/): human-facing Reader for current working drafts.
-- [Repository overview](https://svyable.github.io/desk/README.md): Desk/Shelf model, book catalog, preview and release workflow.
-- [Agent guidance](https://svyable.github.io/desk/AGENTS.md): rules for AI agents working with Desk content and repository structure.
-- [Crawler policy](https://svyable.github.io/desk/robots.txt): public crawl permissions.
-- [Sitemap](https://svyable.github.io/desk/sitemap.xml): machine-readable inventory of key public content.
+- [Svyable Desk home](https://svyable.github.io/self/): crawlable catalog with semantic links and book metadata.
+- [Desk Reader](https://svyable.github.io/self/reader/): human-facing Reader for current working drafts.
+- [Repository overview](https://svyable.github.io/self/README.md): Desk/Shelf model, book catalog, preview and release workflow.
+- [Agent guidance](https://svyable.github.io/self/AGENTS.md): rules for AI agents working with Desk content and repository structure.
+- [Crawler policy](https://svyable.github.io/self/robots.txt): public crawl permissions.
+- [Sitemap](https://svyable.github.io/self/sitemap.xml): machine-readable inventory of key public content.
 
 ## Books
 
-- [Leveraging Luck](https://svyable.github.io/desk/books/leveraging-luck/README.md): revision in progress.
-- [The Exponentiality](https://svyable.github.io/desk/books/the-exponentiality/README.md): not yet drafted.
-- [The Unbounding](https://svyable.github.io/desk/books/the-unbounding/README.md): complete draft.
-- [The Convergence](https://svyable.github.io/desk/books/the-convergence/README.md): drafting.
-- [Predictable](https://svyable.github.io/desk/books/predictable/README.md): drafting; AI, prediction markets, capital cycles, and the gap between technological truth and financial value.
-- [The World Beneath the World](https://svyable.github.io/desk/books/the-world-beneath-the-world/README.md): complete draft; a sensory guide to the invisible physical, biological, infrastructural, and standards-based systems that run ordinary life.
-- [Proof of Human](https://svyable.github.io/desk/books/proof-of-human/README.md): complete draft; trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource.
-- [Built to Be Alone](https://svyable.github.io/desk/books/the-loneliness-dividend/README.md): complete draft; how the twentieth century's unpaid social infrastructure thinned across the wealthy world, and the markets, technologies, and governments now responding to the resulting gap in ordinary human connection.
-- [Silent Cartel](https://svyable.github.io/desk/books/silent-cartel/README.md): complete draft; how pricing algorithms learned to produce cartel-like outcomes without any seller ever communicating with another, and the litigation, laboratory research, and regulation now responding to it.
-- [Useful Noise](https://svyable.github.io/desk/books/useful-noise/README.md): complete draft by Sven Hardy Benson; engaging science and futurism about open quantum systems, organic photovoltaics, polaritons, metrology, manufacturing, and the public `Svyable/quantum-energy` research program.
+- [Leveraging Luck](https://svyable.github.io/self/books/leveraging-luck/README.md): revision in progress.
+- [The Exponentiality](https://svyable.github.io/self/books/the-exponentiality/README.md): not yet drafted.
+- [The Unbounding](https://svyable.github.io/self/books/the-unbounding/README.md): complete draft.
+- [The Convergence](https://svyable.github.io/self/books/the-convergence/README.md): drafting.
+- [Predictable](https://svyable.github.io/self/books/predictable/README.md): drafting; AI, prediction markets, capital cycles, and the gap between technological truth and financial value.
+- [The World Beneath the World](https://svyable.github.io/self/books/the-world-beneath-the-world/README.md): complete draft; a sensory guide to the invisible physical, biological, infrastructural, and standards-based systems that run ordinary life.
+- [Proof of Human](https://svyable.github.io/self/books/proof-of-human/README.md): complete draft; trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource.
+- [Built to Be Alone](https://svyable.github.io/self/books/the-loneliness-dividend/README.md): complete draft; how the twentieth century's unpaid social infrastructure thinned across the wealthy world, and the markets, technologies, and governments now responding to the resulting gap in ordinary human connection.
+- [Silent Cartel](https://svyable.github.io/self/books/silent-cartel/README.md): complete draft; how pricing algorithms learned to produce cartel-like outcomes without any seller ever communicating with another, and the litigation, laboratory research, and regulation now responding to it.
+- [Useful Noise](https://svyable.github.io/self/books/useful-noise/README.md): complete draft by Sven Hardy Benson; engaging science and futurism about open quantum systems, organic photovoltaics, polaritons, metrology, manufacturing, and the public `Svyable/quantum-energy` research program.
 
 ## The World Beneath the World
 
-- [Front Matter — Learning to Notice](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/front-matter.md)
-- [Chapter 1 — Air Is Not Empty](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch01-air-is-not-empty.md)
-- [Chapter 2 — The Weight of Weather](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch02-the-weight-of-weather.md)
-- [Chapter 3 — The Tyranny of Temperature](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch03-the-tyranny-of-temperature.md)
-- [Chapter 4 — The Clock Inside Everything](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch04-the-clock-inside-everything.md)
-- [Chapter 5 — The Grid Has a Voice](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch05-the-grid-has-a-voice.md)
-- [Chapter 6 — Friction Writes the Rules](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch06-friction-writes-the-rules.md)
-- [Chapter 7 — The Taste of Pipes](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch07-the-taste-of-pipes.md)
-- [Chapter 8 — The Microbial City](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch08-the-microbial-city.md)
-- [Chapter 9 — The Box That Conquered the World](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch09-the-box-that-conquered-the-world.md)
-- [Chapter 10 — The Night Shift](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch10-the-night-shift.md)
-- [Chapter 11 — Where Everything Goes](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch11-where-everything-goes.md)
-- [Chapter 12 — How to Notice the World Again](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/ch12-how-to-notice-the-world-again.md)
-- [Back Matter](https://svyable.github.io/desk/books/the-world-beneath-the-world/manuscript/back-matter.md)
-- [Research and source trail](https://svyable.github.io/desk/books/the-world-beneath-the-world/research/README.md)
+- [Front Matter — Learning to Notice](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/front-matter.md)
+- [Chapter 1 — Air Is Not Empty](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch01-air-is-not-empty.md)
+- [Chapter 2 — The Weight of Weather](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch02-the-weight-of-weather.md)
+- [Chapter 3 — The Tyranny of Temperature](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch03-the-tyranny-of-temperature.md)
+- [Chapter 4 — The Clock Inside Everything](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch04-the-clock-inside-everything.md)
+- [Chapter 5 — The Grid Has a Voice](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch05-the-grid-has-a-voice.md)
+- [Chapter 6 — Friction Writes the Rules](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch06-friction-writes-the-rules.md)
+- [Chapter 7 — The Taste of Pipes](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch07-the-taste-of-pipes.md)
+- [Chapter 8 — The Microbial City](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch08-the-microbial-city.md)
+- [Chapter 9 — The Box That Conquered the World](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch09-the-box-that-conquered-the-world.md)
+- [Chapter 10 — The Night Shift](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch10-the-night-shift.md)
+- [Chapter 11 — Where Everything Goes](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch11-where-everything-goes.md)
+- [Chapter 12 — How to Notice the World Again](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/ch12-how-to-notice-the-world-again.md)
+- [Back Matter](https://svyable.github.io/self/books/the-world-beneath-the-world/manuscript/back-matter.md)
+- [Research and source trail](https://svyable.github.io/self/books/the-world-beneath-the-world/research/README.md)
 
 ## Proof of Human
 
-- [Front Matter](https://svyable.github.io/desk/books/proof-of-human/manuscript/front-matter.md)
-- [Chapter 1 — The Liar's Dividend](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch01-the-liars-dividend.md)
-- [Chapter 2 — The Body Double](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch02-the-body-double.md)
-- [Chapter 3 — The Weaponized Ordinary](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch03-the-weaponized-ordinary.md)
-- [Chapter 4 — The Robocall Election](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch04-the-robocall-election.md)
-- [Chapter 5 — Skin in the Game](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch05-skin-in-the-game.md)
-- [Chapter 6 — When Machines Learned to Lie Well](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch06-when-machines-learned-to-lie-well.md)
-- [Chapter 7 — The Seal and the Signature](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch07-the-seal-and-the-signature.md)
-- [Chapter 8 — The Signature That Isn't](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch08-the-signature-that-isnt.md)
-- [Chapter 9 — The Institutions That Already Broke](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch09-the-institutions-that-already-broke.md)
-- [Chapter 10 — The Paper Mill](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch10-the-paper-mill.md)
-- [Chapter 11 — Pink Slime](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch11-pink-slime.md)
-- [Chapter 12 — The Anchor Who Isn't](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch12-the-anchor-who-isnt.md)
-- [Chapter 13 — The Economics of the Unfakeable](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch13-the-economics-of-the-unfakeable.md)
-- [Chapter 14 — Proof of Work for Reality](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch14-proof-of-work-for-reality.md)
-- [Chapter 15 — The Watermark's Limits](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch15-the-watermarks-limits.md)
-- [Chapter 16 — Proof of Personhood](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch16-proof-of-personhood.md)
-- [Chapter 17 — Cracking the Lock](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch17-cracking-the-lock.md)
-- [Chapter 18 — The Verification Economy](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch18-the-verification-economy.md)
-- [Chapter 19 — The Underwriters of Risk](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch19-the-underwriters-of-risk.md)
-- [Chapter 20 — Manufacturing Consensus](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch20-manufacturing-consensus.md)
-- [Chapter 21 — When Verification Gets Weaponized](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch21-when-verification-gets-weaponized.md)
-- [Chapter 22 — The Deepfake Defense](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch22-the-deepfake-defense.md)
-- [Chapter 23 — The Remote Worker Who Wasn't](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch23-the-remote-worker-who-wasnt.md)
-- [Chapter 24 — The Digital Replica](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch24-the-digital-replica.md)
-- [Chapter 25 — The Two-Tier Internet](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch25-the-two-tier-internet.md)
-- [Chapter 26 — The Homework Machine](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch26-the-homework-machine.md)
-- [Chapter 27 — The Companion Problem](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch27-the-companion-problem.md)
-- [Chapter 28 — Eating Itself](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch28-eating-itself.md)
-- [Chapter 29 — Living as a Verifiable Species](https://svyable.github.io/desk/books/proof-of-human/manuscript/ch29-living-as-a-verifiable-species.md)
-- [Back Matter](https://svyable.github.io/desk/books/proof-of-human/manuscript/back-matter.md)
-- [Research and source trail](https://svyable.github.io/desk/books/proof-of-human/research/README.md)
+- [Front Matter](https://svyable.github.io/self/books/proof-of-human/manuscript/front-matter.md)
+- [Chapter 1 — The Liar's Dividend](https://svyable.github.io/self/books/proof-of-human/manuscript/ch01-the-liars-dividend.md)
+- [Chapter 2 — The Body Double](https://svyable.github.io/self/books/proof-of-human/manuscript/ch02-the-body-double.md)
+- [Chapter 3 — The Weaponized Ordinary](https://svyable.github.io/self/books/proof-of-human/manuscript/ch03-the-weaponized-ordinary.md)
+- [Chapter 4 — The Robocall Election](https://svyable.github.io/self/books/proof-of-human/manuscript/ch04-the-robocall-election.md)
+- [Chapter 5 — Skin in the Game](https://svyable.github.io/self/books/proof-of-human/manuscript/ch05-skin-in-the-game.md)
+- [Chapter 6 — When Machines Learned to Lie Well](https://svyable.github.io/self/books/proof-of-human/manuscript/ch06-when-machines-learned-to-lie-well.md)
+- [Chapter 7 — The Seal and the Signature](https://svyable.github.io/self/books/proof-of-human/manuscript/ch07-the-seal-and-the-signature.md)
+- [Chapter 8 — The Signature That Isn't](https://svyable.github.io/self/books/proof-of-human/manuscript/ch08-the-signature-that-isnt.md)
+- [Chapter 9 — The Institutions That Already Broke](https://svyable.github.io/self/books/proof-of-human/manuscript/ch09-the-institutions-that-already-broke.md)
+- [Chapter 10 — The Paper Mill](https://svyable.github.io/self/books/proof-of-human/manuscript/ch10-the-paper-mill.md)
+- [Chapter 11 — Pink Slime](https://svyable.github.io/self/books/proof-of-human/manuscript/ch11-pink-slime.md)
+- [Chapter 12 — The Anchor Who Isn't](https://svyable.github.io/self/books/proof-of-human/manuscript/ch12-the-anchor-who-isnt.md)
+- [Chapter 13 — The Economics of the Unfakeable](https://svyable.github.io/self/books/proof-of-human/manuscript/ch13-the-economics-of-the-unfakeable.md)
+- [Chapter 14 — Proof of Work for Reality](https://svyable.github.io/self/books/proof-of-human/manuscript/ch14-proof-of-work-for-reality.md)
+- [Chapter 15 — The Watermark's Limits](https://svyable.github.io/self/books/proof-of-human/manuscript/ch15-the-watermarks-limits.md)
+- [Chapter 16 — Proof of Personhood](https://svyable.github.io/self/books/proof-of-human/manuscript/ch16-proof-of-personhood.md)
+- [Chapter 17 — Cracking the Lock](https://svyable.github.io/self/books/proof-of-human/manuscript/ch17-cracking-the-lock.md)
+- [Chapter 18 — The Verification Economy](https://svyable.github.io/self/books/proof-of-human/manuscript/ch18-the-verification-economy.md)
+- [Chapter 19 — The Underwriters of Risk](https://svyable.github.io/self/books/proof-of-human/manuscript/ch19-the-underwriters-of-risk.md)
+- [Chapter 20 — Manufacturing Consensus](https://svyable.github.io/self/books/proof-of-human/manuscript/ch20-manufacturing-consensus.md)
+- [Chapter 21 — When Verification Gets Weaponized](https://svyable.github.io/self/books/proof-of-human/manuscript/ch21-when-verification-gets-weaponized.md)
+- [Chapter 22 — The Deepfake Defense](https://svyable.github.io/self/books/proof-of-human/manuscript/ch22-the-deepfake-defense.md)
+- [Chapter 23 — The Remote Worker Who Wasn't](https://svyable.github.io/self/books/proof-of-human/manuscript/ch23-the-remote-worker-who-wasnt.md)
+- [Chapter 24 — The Digital Replica](https://svyable.github.io/self/books/proof-of-human/manuscript/ch24-the-digital-replica.md)
+- [Chapter 25 — The Two-Tier Internet](https://svyable.github.io/self/books/proof-of-human/manuscript/ch25-the-two-tier-internet.md)
+- [Chapter 26 — The Homework Machine](https://svyable.github.io/self/books/proof-of-human/manuscript/ch26-the-homework-machine.md)
+- [Chapter 27 — The Companion Problem](https://svyable.github.io/self/books/proof-of-human/manuscript/ch27-the-companion-problem.md)
+- [Chapter 28 — Eating Itself](https://svyable.github.io/self/books/proof-of-human/manuscript/ch28-eating-itself.md)
+- [Chapter 29 — Living as a Verifiable Species](https://svyable.github.io/self/books/proof-of-human/manuscript/ch29-living-as-a-verifiable-species.md)
+- [Back Matter](https://svyable.github.io/self/books/proof-of-human/manuscript/back-matter.md)
+- [Research and source trail](https://svyable.github.io/self/books/proof-of-human/research/README.md)
 
 ## Built to Be Alone
 
-- [Front Matter](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/front-matter.md)
-- [Chapter 1 — The Man Nobody Missed](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch01-the-man-nobody-missed.md)
-- [Chapter 2 — Bowling Alone, Twenty-Five Years Later](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch02-bowling-alone-twenty-five-years-later.md)
-- [Chapter 3 — The Advisory](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch03-the-advisory.md)
-- [Chapter 4 — Going Solo](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch04-going-solo.md)
-- [Chapter 5 — The Third Place Died and No One Sent Flowers](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch05-the-third-place-died-and-no-one-sent-flowers.md)
-- [Chapter 6 — The Loneliest Job Is Remote](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch06-the-loneliest-job-is-remote.md)
-- [Chapter 7 — Swipe Fatigue](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch07-swipe-fatigue.md)
-- [Chapter 8 — Her, For Real This Time](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch08-her-for-real-this-time.md)
-- [Chapter 9 — The Herbivores and the Shut-Ins](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch09-the-herbivores-and-the-shut-ins.md)
-- [Chapter 10 — The Cost of Being Alone](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch10-the-cost-of-being-alone.md)
-- [Chapter 11 — The Rebuild Economy](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch11-the-rebuild-economy.md)
-- [Chapter 12 — The Ministry of Loneliness](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch12-the-ministry-of-loneliness.md)
-- [Chapter 13 — Pews Emptying](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch13-pews-emptying.md)
-- [Chapter 14 — The Anxious Generation](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch14-the-anxious-generation.md)
-- [Chapter 15 — The Architecture of Isolation](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch15-the-architecture-of-isolation.md)
-- [Chapter 16 — The Skeptics' Case](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch16-the-skeptics-case.md)
-- [Chapter 17 — The Companionship Market](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch17-the-companionship-market.md)
-- [Chapter 18 — What Actually Works](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch18-what-actually-works.md)
-- [Chapter 19 — The Paradigm at the Door](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/ch19-the-paradigm-at-the-door.md)
-- [Back Matter](https://svyable.github.io/desk/books/the-loneliness-dividend/manuscript/back-matter.md)
-- [Research and source trail](https://svyable.github.io/desk/books/the-loneliness-dividend/research/README.md)
+- [Front Matter](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/front-matter.md)
+- [Chapter 1 — The Man Nobody Missed](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch01-the-man-nobody-missed.md)
+- [Chapter 2 — Bowling Alone, Twenty-Five Years Later](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch02-bowling-alone-twenty-five-years-later.md)
+- [Chapter 3 — The Advisory](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch03-the-advisory.md)
+- [Chapter 4 — Going Solo](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch04-going-solo.md)
+- [Chapter 5 — The Third Place Died and No One Sent Flowers](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch05-the-third-place-died-and-no-one-sent-flowers.md)
+- [Chapter 6 — The Loneliest Job Is Remote](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch06-the-loneliest-job-is-remote.md)
+- [Chapter 7 — Swipe Fatigue](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch07-swipe-fatigue.md)
+- [Chapter 8 — Her, For Real This Time](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch08-her-for-real-this-time.md)
+- [Chapter 9 — The Herbivores and the Shut-Ins](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch09-the-herbivores-and-the-shut-ins.md)
+- [Chapter 10 — The Cost of Being Alone](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch10-the-cost-of-being-alone.md)
+- [Chapter 11 — The Rebuild Economy](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch11-the-rebuild-economy.md)
+- [Chapter 12 — The Ministry of Loneliness](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch12-the-ministry-of-loneliness.md)
+- [Chapter 13 — Pews Emptying](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch13-pews-emptying.md)
+- [Chapter 14 — The Anxious Generation](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch14-the-anxious-generation.md)
+- [Chapter 15 — The Architecture of Isolation](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch15-the-architecture-of-isolation.md)
+- [Chapter 16 — The Skeptics' Case](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch16-the-skeptics-case.md)
+- [Chapter 17 — The Companionship Market](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch17-the-companionship-market.md)
+- [Chapter 18 — What Actually Works](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch18-what-actually-works.md)
+- [Chapter 19 — The Paradigm at the Door](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/ch19-the-paradigm-at-the-door.md)
+- [Back Matter](https://svyable.github.io/self/books/the-loneliness-dividend/manuscript/back-matter.md)
+- [Research and source trail](https://svyable.github.io/self/books/the-loneliness-dividend/research/README.md)
 
 ## Silent Cartel
 
-- [Front Matter](https://svyable.github.io/desk/books/silent-cartel/manuscript/front-matter.md)
-- [Chapter 1 — The Phone Call and the Machine That Replaced It](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch01-the-phone-call-and-the-machine.md)
-- [Chapter 2 — A Theory of Oligopoly](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch02-a-theory-of-oligopoly.md)
-- [Chapter 3 — Trial Balloons on a Screen](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch03-trial-balloons-on-a-screen.md)
-- [Chapter 4 — The Posters on Amazon](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch04-the-posters-on-amazon.md)
-- [Chapter 5 — Machines That Learn to Cheat](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch05-machines-that-learn-to-cheat.md)
-- [Chapter 6 — Pumps in Germany](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch06-pumps-in-germany.md)
-- [Chapter 7 — The Yield Whisperer](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch07-the-yield-whisperer.md)
-- [Chapter 8 — Rent Going Up?](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch08-rent-going-up.md)
-- [Chapter 9 — United States v. RealPage](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch09-united-states-v-realpage.md)
-- [Chapter 10 — The Strip and the Boardwalk](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch10-the-strip-and-the-boardwalk.md)
-- [Chapter 11 — Ghosts in the Machine](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch11-ghosts-in-the-machine.md)
-- [Chapter 12 — Everyone Gets Their Own Price](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch12-everyone-gets-their-own-price.md)
-- [Chapter 13 — The DVD That Cost $22.74 or $26.24](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch13-the-dvd-that-cost-22-74-or-26-24.md)
-- [Chapter 14 — Your Health, Priced by Algorithm](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch14-your-health-priced-by-algorithm.md)
-- [Chapter 15 — Legislators Catch Up](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch15-legislators-catch-up.md)
-- [Chapter 16 — The Copycat Cities](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch16-the-copycat-cities.md)
-- [Chapter 17 — Brussels Writes It Down](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch17-brussels-writes-it-down.md)
-- [Chapter 18 — The Skeptics' Case](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch18-the-skeptics-case.md)
-- [Chapter 19 — What a Price Is For](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch19-what-a-price-is-for.md)
-- [Chapter 20 — The Next Vendor](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch20-the-next-vendor.md)
-- [Chapter 21 — The Price of Everything, Once More](https://svyable.github.io/desk/books/silent-cartel/manuscript/ch21-the-price-of-everything-once-more.md)
-- [Back Matter](https://svyable.github.io/desk/books/silent-cartel/manuscript/back-matter.md)
-- [Research and source trail](https://svyable.github.io/desk/books/silent-cartel/research/README.md)
+- [Front Matter](https://svyable.github.io/self/books/silent-cartel/manuscript/front-matter.md)
+- [Chapter 1 — The Phone Call and the Machine That Replaced It](https://svyable.github.io/self/books/silent-cartel/manuscript/ch01-the-phone-call-and-the-machine.md)
+- [Chapter 2 — A Theory of Oligopoly](https://svyable.github.io/self/books/silent-cartel/manuscript/ch02-a-theory-of-oligopoly.md)
+- [Chapter 3 — Trial Balloons on a Screen](https://svyable.github.io/self/books/silent-cartel/manuscript/ch03-trial-balloons-on-a-screen.md)
+- [Chapter 4 — The Posters on Amazon](https://svyable.github.io/self/books/silent-cartel/manuscript/ch04-the-posters-on-amazon.md)
+- [Chapter 5 — Machines That Learn to Cheat](https://svyable.github.io/self/books/silent-cartel/manuscript/ch05-machines-that-learn-to-cheat.md)
+- [Chapter 6 — Pumps in Germany](https://svyable.github.io/self/books/silent-cartel/manuscript/ch06-pumps-in-germany.md)
+- [Chapter 7 — The Yield Whisperer](https://svyable.github.io/self/books/silent-cartel/manuscript/ch07-the-yield-whisperer.md)
+- [Chapter 8 — Rent Going Up?](https://svyable.github.io/self/books/silent-cartel/manuscript/ch08-rent-going-up.md)
+- [Chapter 9 — United States v. RealPage](https://svyable.github.io/self/books/silent-cartel/manuscript/ch09-united-states-v-realpage.md)
+- [Chapter 10 — The Strip and the Boardwalk](https://svyable.github.io/self/books/silent-cartel/manuscript/ch10-the-strip-and-the-boardwalk.md)
+- [Chapter 11 — Ghosts in the Machine](https://svyable.github.io/self/books/silent-cartel/manuscript/ch11-ghosts-in-the-machine.md)
+- [Chapter 12 — Everyone Gets Their Own Price](https://svyable.github.io/self/books/silent-cartel/manuscript/ch12-everyone-gets-their-own-price.md)
+- [Chapter 13 — The DVD That Cost $22.74 or $26.24](https://svyable.github.io/self/books/silent-cartel/manuscript/ch13-the-dvd-that-cost-22-74-or-26-24.md)
+- [Chapter 14 — Your Health, Priced by Algorithm](https://svyable.github.io/self/books/silent-cartel/manuscript/ch14-your-health-priced-by-algorithm.md)
+- [Chapter 15 — Legislators Catch Up](https://svyable.github.io/self/books/silent-cartel/manuscript/ch15-legislators-catch-up.md)
+- [Chapter 16 — The Copycat Cities](https://svyable.github.io/self/books/silent-cartel/manuscript/ch16-the-copycat-cities.md)
+- [Chapter 17 — Brussels Writes It Down](https://svyable.github.io/self/books/silent-cartel/manuscript/ch17-brussels-writes-it-down.md)
+- [Chapter 18 — The Skeptics' Case](https://svyable.github.io/self/books/silent-cartel/manuscript/ch18-the-skeptics-case.md)
+- [Chapter 19 — What a Price Is For](https://svyable.github.io/self/books/silent-cartel/manuscript/ch19-what-a-price-is-for.md)
+- [Chapter 20 — The Next Vendor](https://svyable.github.io/self/books/silent-cartel/manuscript/ch20-the-next-vendor.md)
+- [Chapter 21 — The Price of Everything, Once More](https://svyable.github.io/self/books/silent-cartel/manuscript/ch21-the-price-of-everything-once-more.md)
+- [Back Matter](https://svyable.github.io/self/books/silent-cartel/manuscript/back-matter.md)
+- [Research and source trail](https://svyable.github.io/self/books/silent-cartel/research/README.md)
 
 ## Useful Noise
 
-- [Book hub — Useful Noise](https://svyable.github.io/desk/books/useful-noise/README.md)
-- [Front Matter — A Machine That Likes Noise](https://svyable.github.io/desk/books/useful-noise/manuscript/front-matter.md)
-- [Chapter 1 — The Refrigerator Problem](https://svyable.github.io/desk/books/useful-noise/manuscript/ch01-the-refrigerator-problem.md)
-- [Chapter 2 — The Leaf That Started an Argument](https://svyable.github.io/desk/books/useful-noise/manuscript/ch02-the-leaf-that-started-an-argument.md)
-- [Chapter 3 — The Goldilocks Machine](https://svyable.github.io/desk/books/useful-noise/manuscript/ch03-the-goldilocks-machine.md)
-- [Chapter 4 — Open Means Alive](https://svyable.github.io/desk/books/useful-noise/manuscript/ch04-open-means-alive.md)
-- [Chapter 5 — When Light Learns to Carry Matter](https://svyable.github.io/desk/books/useful-noise/manuscript/ch05-when-light-learns-to-carry-matter.md)
-- [Chapter 6 — The Fastest Thing in a Dirty Room](https://svyable.github.io/desk/books/useful-noise/manuscript/ch06-the-fastest-thing-in-a-dirty-room.md)
-- [Chapter 7 — A Solar Cell Is a Loss Machine](https://svyable.github.io/desk/books/useful-noise/manuscript/ch07-a-solar-cell-is-a-loss-machine.md)
-- [Chapter 8 — The Interface Where Energy Disappears](https://svyable.github.io/desk/books/useful-noise/manuscript/ch08-the-interface-where-energy-disappears.md)
-- [Chapter 9 — Phonons: The Enemy That Isn’t](https://svyable.github.io/desk/books/useful-noise/manuscript/ch09-phonons-the-enemy-that-isnt.md)
-- [Chapter 10 — The Penetrated Interface](https://svyable.github.io/desk/books/useful-noise/manuscript/ch10-the-penetrated-interface.md)
-- [Chapter 11 — The Trap of Better Voltage](https://svyable.github.io/desk/books/useful-noise/manuscript/ch11-the-trap-of-better-voltage.md)
-- [Chapter 12 — Good Generation, Bad Collection](https://svyable.github.io/desk/books/useful-noise/manuscript/ch12-good-generation-bad-collection.md)
-- [Chapter 13 — The Metrology Before the Miracle](https://svyable.github.io/desk/books/useful-noise/manuscript/ch13-the-metrology-before-the-miracle.md)
-- [Chapter 14 — The Five-Millivolt World](https://svyable.github.io/desk/books/useful-noise/manuscript/ch14-the-five-millivolt-world.md)
-- [Chapter 15 — The Factory as an Experiment](https://svyable.github.io/desk/books/useful-noise/manuscript/ch15-the-factory-as-an-experiment.md)
-- [Chapter 16 — What Would Falsify This?](https://svyable.github.io/desk/books/useful-noise/manuscript/ch16-what-would-falsify-this.md)
-- [Chapter 17 — The Open Lab as a Machine](https://svyable.github.io/desk/books/useful-noise/manuscript/ch17-the-open-lab-as-a-machine.md)
-- [Chapter 18 — Useful Noise](https://svyable.github.io/desk/books/useful-noise/manuscript/ch18-useful-noise.md)
-- [Chapter 19 — The Ambient Quantum Stack](https://svyable.github.io/desk/books/useful-noise/manuscript/ch19-the-ambient-quantum-stack.md)
-- [Chapter 20 — When Quantum Becomes Boring](https://svyable.github.io/desk/books/useful-noise/manuscript/ch20-when-quantum-becomes-boring.md)
-- [Chapter 21 — The Material Has a Biography](https://svyable.github.io/desk/books/useful-noise/manuscript/ch21-the-material-has-a-biography.md)
-- [Chapter 22 — A Measurement Has a Supply Chain](https://svyable.github.io/desk/books/useful-noise/manuscript/ch22-a-measurement-has-a-supply-chain.md)
-- [Chapter 23 — The First Product May Be a Recipe](https://svyable.github.io/desk/books/useful-noise/manuscript/ch23-the-first-product-may-be-a-recipe.md)
-- [Chapter 24 — What We Are Actually Betting On](https://svyable.github.io/desk/books/useful-noise/manuscript/ch24-what-we-are-actually-betting-on.md)
-- [Chapter 25 — The Hard Part Is Transfer](https://svyable.github.io/desk/books/useful-noise/manuscript/ch25-the-hard-part-is-transfer.md)
-- [Back Matter](https://svyable.github.io/desk/books/useful-noise/manuscript/back-matter.md)
-- [Research trail and falsification map](https://svyable.github.io/desk/books/useful-noise/research/README.md)
-- [Research notes for Chapters 21–25](https://svyable.github.io/desk/books/useful-noise/research/chapters-21-25.md)
+- [Book hub — Useful Noise](https://svyable.github.io/self/books/useful-noise/README.md)
+- [Front Matter — A Machine That Likes Noise](https://svyable.github.io/self/books/useful-noise/manuscript/front-matter.md)
+- [Chapter 1 — The Refrigerator Problem](https://svyable.github.io/self/books/useful-noise/manuscript/ch01-the-refrigerator-problem.md)
+- [Chapter 2 — The Leaf That Started an Argument](https://svyable.github.io/self/books/useful-noise/manuscript/ch02-the-leaf-that-started-an-argument.md)
+- [Chapter 3 — The Goldilocks Machine](https://svyable.github.io/self/books/useful-noise/manuscript/ch03-the-goldilocks-machine.md)
+- [Chapter 4 — Open Means Alive](https://svyable.github.io/self/books/useful-noise/manuscript/ch04-open-means-alive.md)
+- [Chapter 5 — When Light Learns to Carry Matter](https://svyable.github.io/self/books/useful-noise/manuscript/ch05-when-light-learns-to-carry-matter.md)
+- [Chapter 6 — The Fastest Thing in a Dirty Room](https://svyable.github.io/self/books/useful-noise/manuscript/ch06-the-fastest-thing-in-a-dirty-room.md)
+- [Chapter 7 — A Solar Cell Is a Loss Machine](https://svyable.github.io/self/books/useful-noise/manuscript/ch07-a-solar-cell-is-a-loss-machine.md)
+- [Chapter 8 — The Interface Where Energy Disappears](https://svyable.github.io/self/books/useful-noise/manuscript/ch08-the-interface-where-energy-disappears.md)
+- [Chapter 9 — Phonons: The Enemy That Isn’t](https://svyable.github.io/self/books/useful-noise/manuscript/ch09-phonons-the-enemy-that-isnt.md)
+- [Chapter 10 — The Penetrated Interface](https://svyable.github.io/self/books/useful-noise/manuscript/ch10-the-penetrated-interface.md)
+- [Chapter 11 — The Trap of Better Voltage](https://svyable.github.io/self/books/useful-noise/manuscript/ch11-the-trap-of-better-voltage.md)
+- [Chapter 12 — Good Generation, Bad Collection](https://svyable.github.io/self/books/useful-noise/manuscript/ch12-good-generation-bad-collection.md)
+- [Chapter 13 — The Metrology Before the Miracle](https://svyable.github.io/self/books/useful-noise/manuscript/ch13-the-metrology-before-the-miracle.md)
+- [Chapter 14 — The Five-Millivolt World](https://svyable.github.io/self/books/useful-noise/manuscript/ch14-the-five-millivolt-world.md)
+- [Chapter 15 — The Factory as an Experiment](https://svyable.github.io/self/books/useful-noise/manuscript/ch15-the-factory-as-an-experiment.md)
+- [Chapter 16 — What Would Falsify This?](https://svyable.github.io/self/books/useful-noise/manuscript/ch16-what-would-falsify-this.md)
+- [Chapter 17 — The Open Lab as a Machine](https://svyable.github.io/self/books/useful-noise/manuscript/ch17-the-open-lab-as-a-machine.md)
+- [Chapter 18 — Useful Noise](https://svyable.github.io/self/books/useful-noise/manuscript/ch18-useful-noise.md)
+- [Chapter 19 — The Ambient Quantum Stack](https://svyable.github.io/self/books/useful-noise/manuscript/ch19-the-ambient-quantum-stack.md)
+- [Chapter 20 — When Quantum Becomes Boring](https://svyable.github.io/self/books/useful-noise/manuscript/ch20-when-quantum-becomes-boring.md)
+- [Chapter 21 — The Material Has a Biography](https://svyable.github.io/self/books/useful-noise/manuscript/ch21-the-material-has-a-biography.md)
+- [Chapter 22 — A Measurement Has a Supply Chain](https://svyable.github.io/self/books/useful-noise/manuscript/ch22-a-measurement-has-a-supply-chain.md)
+- [Chapter 23 — The First Product May Be a Recipe](https://svyable.github.io/self/books/useful-noise/manuscript/ch23-the-first-product-may-be-a-recipe.md)
+- [Chapter 24 — What We Are Actually Betting On](https://svyable.github.io/self/books/useful-noise/manuscript/ch24-what-we-are-actually-betting-on.md)
+- [Chapter 25 — The Hard Part Is Transfer](https://svyable.github.io/self/books/useful-noise/manuscript/ch25-the-hard-part-is-transfer.md)
+- [Back Matter](https://svyable.github.io/self/books/useful-noise/manuscript/back-matter.md)
+- [Research trail and falsification map](https://svyable.github.io/self/books/useful-noise/research/README.md)
+- [Research notes for Chapters 21–25](https://svyable.github.io/self/books/useful-noise/research/chapters-21-25.md)
 
 ## Interpretation notes for agents
 
 - Desk content is a working draft unless explicitly released to Shelf.
 - The Git repository may be private even when its GitHub Pages manuscript content is intentionally public.
-- The `/desk/` path is the public address of this Bookself Desk.
+- The `/self/` path is the public address of this Bookself Desk.
 - Cite the specific manuscript or research page used, not this index, when answering substantive questions.
 - Respect source uncertainty, falsification notes, and distinctions between sensation, measurement, metaphor, and technical claim.
 - For repository-changing work, read AGENTS.md before editing.
