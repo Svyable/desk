@@ -37,6 +37,7 @@ body:
         - gatekeepers
         - aggregate-consolidate-innovate
         - the-compatibility-dividend
+        - scaling-laws
         - _TEMPLATE
     validations:
       required: true
