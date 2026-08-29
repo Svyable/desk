@@ -9,7 +9,7 @@ This repository is the **private Desk** in a
 [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
 setup. The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf).
 This Svyable Desk also has an intentionally public working-draft Reader at
-`https://svyable.github.io/desk/reader/`. That preview is public even though
+`https://svyable.github.io/self/reader/`. That preview is public even though
 the Git repository is private.
 
 ## In one minute
@@ -45,7 +45,7 @@ The file list inside `manuscript/` is alphabetical, so `back-matter.md` will
 not sit at the end. Trust the README, not the file list.
 
 For the Reader view, use the public working preview at
-`https://svyable.github.io/desk/reader/`. A direct book route is
+`https://svyable.github.io/self/reader/`. A direct book route is
 `reader/#/b/<slug>/`.
 
 ## 3. Making your first edit
