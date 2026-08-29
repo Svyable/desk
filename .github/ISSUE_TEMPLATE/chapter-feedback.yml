@@ -28,6 +28,8 @@ body:
         - silent-cartel
         - useful-noise
         - synthetic-intelligence
+        - the-reliability-tax
+        - keep-cooking
         - _TEMPLATE
     validations:
       required: true
