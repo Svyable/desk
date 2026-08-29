@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 9 of 12 drafted |
+| **Chapters**  | 10 of 12 drafted |
 
 Energy and the Advance of the Human Race.
 
@@ -24,7 +24,7 @@ The working thesis is that the advance of human civilization can be read through
 - [x] [Ch 7 — The Age of Electricity](manuscript/ch07-the-age-of-electricity.md)
 - [x] [Ch 8 — Intelligence Has a Power Bill](manuscript/ch08-intelligence-has-a-power-bill.md)
 - [x] [Ch 9 — The Constraint Is the Network](manuscript/ch09-the-constraint-is-the-network.md)
-- [ ] [Ch 10 — The Return of the Atom](manuscript/ch10-the-return-of-the-atom.md)
+- [x] [Ch 10 — The Return of the Atom](manuscript/ch10-the-return-of-the-atom.md)
 - [ ] [Ch 11 — Abundance and the New Frontier](manuscript/ch11-abundance-and-the-new-frontier.md)
 - [ ] [Ch 12 — The Convergence](manuscript/ch12-the-convergence.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
