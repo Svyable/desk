@@ -31,6 +31,7 @@ body:
         - the-reliability-tax
         - keep-cooking
         - to-state-the-obvious
+        - the-value-stack
         - _TEMPLATE
     validations:
       required: true
