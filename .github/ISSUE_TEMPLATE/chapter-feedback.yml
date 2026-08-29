@@ -27,6 +27,7 @@ body:
         - the-loneliness-dividend
         - silent-cartel
         - useful-noise
+        - i-must-be-doing-something-right
         - _TEMPLATE
     validations:
       required: true
