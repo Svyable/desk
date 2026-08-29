@@ -32,6 +32,7 @@ body:
         - keep-cooking
         - to-state-the-obvious
         - the-value-stack
+        - the-delegation-machine
         - _TEMPLATE
     validations:
       required: true
