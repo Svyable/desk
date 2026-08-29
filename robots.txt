@@ -1,4 +1,4 @@
-# Public Binder Reader and working-draft content are intentionally crawlable.
+# Public Desk Reader and working-draft content are intentionally crawlable.
 # This file governs the public GitHub Pages surface, not the private Git repository.
 
 User-agent: OAI-SearchBot
@@ -7,4 +7,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://svyable.github.io/binder/sitemap.xml
+Sitemap: https://svyable.github.io/desk/sitemap.xml

@@ -5,9 +5,8 @@ Sven Benson's **private Desk** in a
 setup. This repository is the private Git working room; its Desk Reader is an
 intentionally public preview of the manuscripts being written here.
 
-The GitHub repository is still named `Svyable/binder`. Until that repository is
-renamed, the GitHub Pages project path also remains `/binder/`. Those legacy
-addresses do not change this instance's Bookself role: it is a Desk.
+The GitHub repository is `Svyable/desk`, and its GitHub Pages project path is
+`/desk/`. This instance's Bookself role is Desk.
 
 The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf). Desk
 and Shelf are separate Git repositories with separate histories. A release
@@ -16,7 +15,7 @@ copies are independent until the next release.
 
 The software is [Bookself](https://github.com/Svyable/bookself).
 
-**Desk Reader — working drafts:** [svyable.github.io/binder/reader](https://svyable.github.io/binder/reader/)  
+**Desk Reader — working drafts:** [svyable.github.io/desk/reader](https://svyable.github.io/desk/reader/)  
 **Shelf Reader — released editions:** [svyable.github.io/shelf/reader](https://svyable.github.io/shelf/reader/)  
 
 ## GitHub plan requirement
@@ -38,8 +37,8 @@ GitHub Pages.
 
 If the account does not have private-repository Pages eligibility, this Desk
 continues to work normally as a private writing repository and local Reader, but
-the current legacy Pages URL `https://svyable.github.io/binder/reader/` will not
-be served from the private repository.
+the public Pages URL `https://svyable.github.io/desk/reader/` will not be served
+from the private repository.
 
 The repository itself remains private on GitHub, but when the Desk Pages site
 is enabled the website is **public**. This is deliberate working in public, not
@@ -52,17 +51,17 @@ confidential.
 
 | Book | Authors | Status | Desk preview | Shelf edition |
 |---|---|---|---|---|
-| [Leveraging Luck](books/leveraging-luck/) | @svyable | Revision in progress | [Read working draft](https://svyable.github.io/binder/reader/#/b/leveraging-luck/) | [Read released edition](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
-| [The Exponentiality](books/the-exponentiality/) | @svyable | Not yet drafted | [Open Desk preview](https://svyable.github.io/binder/reader/#/b/the-exponentiality/) | Not released |
-| [The Unbounding](books/the-unbounding/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-unbounding/) | Not released |
-| [The Convergence](books/the-convergence/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-convergence/) | Not released |
-| [Predictable](books/predictable/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/binder/reader/#/b/predictable/) | Not released |
-| [The World Beneath the World](books/the-world-beneath-the-world/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-world-beneath-the-world/) | Not released |
-| [Proof of Human](books/proof-of-human/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/proof-of-human/) | Not released |
-| [Single Points of Failure](books/single-points-of-failure/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/single-points-of-failure/) | Not released |
-| [Built to Be Alone](books/the-loneliness-dividend/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/the-loneliness-dividend/) | Not released |
-| [Silent Cartel](books/silent-cartel/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/silent-cartel/) | Not released |
-| [Useful Noise](books/useful-noise/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/binder/reader/#/b/useful-noise/) | Not released |
+| [Leveraging Luck](books/leveraging-luck/) | @svyable | Revision in progress | [Read working draft](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) | [Read released edition](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
+| [The Exponentiality](books/the-exponentiality/) | @svyable | Not yet drafted | [Open Desk preview](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) | Not released |
+| [The Unbounding](books/the-unbounding/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-unbounding/) | Not released |
+| [The Convergence](books/the-convergence/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-convergence/) | Not released |
+| [Predictable](books/predictable/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/predictable/) | Not released |
+| [The World Beneath the World](books/the-world-beneath-the-world/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) | Not released |
+| [Proof of Human](books/proof-of-human/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/proof-of-human/) | Not released |
+| [Single Points of Failure](books/single-points-of-failure/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) | Not released |
+| [Built to Be Alone](books/the-loneliness-dividend/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) | Not released |
+| [Silent Cartel](books/silent-cartel/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/silent-cartel/) | Not released |
+| [Useful Noise](books/useful-noise/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/useful-noise/) | Not released |
 
 ## The simple workflow
 
@@ -75,13 +74,13 @@ the next release.
 
 ### Public Desk preview
 
-The public working-draft Reader currently remains at the legacy repository path:
+The public working-draft Reader is:
 
-- `https://svyable.github.io/binder/reader/`
+- `https://svyable.github.io/desk/reader/`
 
 Direct book links use:
 
-- `https://svyable.github.io/binder/reader/#/b/<slug>/`
+- `https://svyable.github.io/desk/reader/#/b/<slug>/`
 
 The small `reader/` bootstrap reuses the shared Reader UI already served by the
 public Svyable Shelf, while content paths resolve against this Desk's Pages
@@ -96,12 +95,12 @@ private-repository Pages entitlement because the source repository is private.
 ### Agent discovery
 
 The public Pages surface deliberately includes low-noise entry points for search
-crawlers and AI agents. Their URLs still contain the legacy repository slug:
+crawlers and AI agents:
 
-- [`/llms.txt`](https://svyable.github.io/binder/llms.txt) — curated map of Desk, books, and important manuscript pages.
-- [`/robots.txt`](https://svyable.github.io/binder/robots.txt) — crawl policy; the public working-draft surface is intentionally crawlable.
-- [`/sitemap.xml`](https://svyable.github.io/binder/sitemap.xml) — machine-readable inventory of key public pages.
-- [`/AGENTS.md`](https://svyable.github.io/binder/AGENTS.md) — instructions for agents that are actually modifying Desk content.
+- [`/llms.txt`](https://svyable.github.io/desk/llms.txt) — curated map of Desk, books, and important manuscript pages.
+- [`/robots.txt`](https://svyable.github.io/desk/robots.txt) — crawl policy; the public working-draft surface is intentionally crawlable.
+- [`/sitemap.xml`](https://svyable.github.io/desk/sitemap.xml) — machine-readable inventory of key public pages.
+- [`/AGENTS.md`](https://svyable.github.io/desk/AGENTS.md) — instructions for agents that are actually modifying Desk content.
 
 These are discovery aids, not publication markers. A Desk manuscript remains a
 working draft until it is explicitly released to Shelf.
