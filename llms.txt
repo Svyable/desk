@@ -25,6 +25,7 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Built to Be Alone](https://svyable.github.io/self/books/the-loneliness-dividend/README.md): complete draft; how the twentieth century's unpaid social infrastructure thinned across the wealthy world, and the markets, technologies, and governments now responding to the resulting gap in ordinary human connection.
 - [Silent Cartel](https://svyable.github.io/self/books/silent-cartel/README.md): complete draft; how pricing algorithms learned to produce cartel-like outcomes without any seller ever communicating with another, and the litigation, laboratory research, and regulation now responding to it.
 - [Useful Noise](https://svyable.github.io/self/books/useful-noise/README.md): complete draft by Sven Hardy Benson; engaging science and futurism about open quantum systems, organic photovoltaics, polaritons, metrology, manufacturing, and the public `Svyable/quantum-energy` research program.
+- [Keep Cooking](https://svyable.github.io/self/books/keep-cooking/README.md): complete draft by Sven Hardy Benson; token maxing, cheap machine cognition, agent loops, labor, firms, households, energy, markets, global distribution, and who wins when AI keeps thinking.
 
 ## The World Beneath the World
 
@@ -163,6 +164,40 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Back Matter](https://svyable.github.io/self/books/useful-noise/manuscript/back-matter.md)
 - [Research trail and falsification map](https://svyable.github.io/self/books/useful-noise/research/README.md)
 - [Research notes for Chapters 21–25](https://svyable.github.io/self/books/useful-noise/research/chapters-21-25.md)
+
+## Keep Cooking
+
+- [Book hub — Keep Cooking](https://svyable.github.io/self/books/keep-cooking/README.md)
+- [Front Matter](https://svyable.github.io/self/books/keep-cooking/manuscript/front-matter.md)
+- [Chapter 1 — The Meter Starts Running](https://svyable.github.io/self/books/keep-cooking/manuscript/ch01-the-meter-starts-running.md)
+- [Chapter 2 — Thinking Longer](https://svyable.github.io/self/books/keep-cooking/manuscript/ch02-thinking-longer.md)
+- [Chapter 3 — The Price Collapse](https://svyable.github.io/self/books/keep-cooking/manuscript/ch03-the-price-collapse.md)
+- [Chapter 4 — Context Is Capital](https://svyable.github.io/self/books/keep-cooking/manuscript/ch04-context-is-capital.md)
+- [Chapter 5 — The Agent Factory](https://svyable.github.io/self/books/keep-cooking/manuscript/ch05-the-agent-factory.md)
+- [Chapter 6 — The Compressed Apprentice](https://svyable.github.io/self/books/keep-cooking/manuscript/ch06-the-compressed-apprentice.md)
+- [Chapter 7 — The Centaur and the Cyborg](https://svyable.github.io/self/books/keep-cooking/manuscript/ch07-the-centaur-and-the-cyborg.md)
+- [Chapter 8 — The Infinite Colleague](https://svyable.github.io/self/books/keep-cooking/manuscript/ch08-the-infinite-colleague.md)
+- [Chapter 9 — The Verification Tax](https://svyable.github.io/self/books/keep-cooking/manuscript/ch09-the-verification-tax.md)
+- [Chapter 10 — The New Status Game](https://svyable.github.io/self/books/keep-cooking/manuscript/ch10-the-new-status-game.md)
+- [Chapter 11 — The Company That Thinks Too Much](https://svyable.github.io/self/books/keep-cooking/manuscript/ch11-the-company-that-thinks-too-much.md)
+- [Chapter 12 — Software Eats Headcount](https://svyable.github.io/self/books/keep-cooking/manuscript/ch12-software-eats-headcount.md)
+- [Chapter 13 — Small Firms, Big Context](https://svyable.github.io/self/books/keep-cooking/manuscript/ch13-small-firms-big-context.md)
+- [Chapter 14 — The Moat Moves Downstack](https://svyable.github.io/self/books/keep-cooking/manuscript/ch14-the-moat-moves-downstack.md)
+- [Chapter 15 — The Capital Furnace](https://svyable.github.io/self/books/keep-cooking/manuscript/ch15-the-capital-furnace.md)
+- [Chapter 16 — The Grid Behind the Mind](https://svyable.github.io/self/books/keep-cooking/manuscript/ch16-the-grid-behind-the-mind.md)
+- [Chapter 17 — Nations at the Context Window](https://svyable.github.io/self/books/keep-cooking/manuscript/ch17-nations-at-the-context-window.md)
+- [Chapter 18 — Labor Without Ladders](https://svyable.github.io/self/books/keep-cooking/manuscript/ch18-labor-without-ladders.md)
+- [Chapter 19 — Cheap Expertise, Expensive Judgment](https://svyable.github.io/self/books/keep-cooking/manuscript/ch19-cheap-expertise-expensive-judgment.md)
+- [Chapter 20 — The Abundance Trap](https://svyable.github.io/self/books/keep-cooking/manuscript/ch20-the-abundance-trap.md)
+- [Chapter 21 — Who Wins, Who Loses](https://svyable.github.io/self/books/keep-cooking/manuscript/ch21-who-wins-who-loses.md)
+- [Chapter 22 — The Household Balance Sheet](https://svyable.github.io/self/books/keep-cooking/manuscript/ch22-the-household-balance-sheet.md)
+- [Chapter 23 — Markets Full of Minds](https://svyable.github.io/self/books/keep-cooking/manuscript/ch23-markets-full-of-minds.md)
+- [Chapter 24 — Three Futures for Cheap Thought](https://svyable.github.io/self/books/keep-cooking/manuscript/ch24-three-futures-for-cheap-thought.md)
+- [Chapter 25 — When to Stop Cooking](https://svyable.github.io/self/books/keep-cooking/manuscript/ch25-when-to-stop-cooking.md)
+- [Back Matter](https://svyable.github.io/self/books/keep-cooking/manuscript/back-matter.md)
+- [Research brief](https://svyable.github.io/self/books/keep-cooking/research/README.md)
+- [Chapter briefs and falsification notes](https://svyable.github.io/self/books/keep-cooking/research/chapter-briefs.md)
+- [Source ledger](https://svyable.github.io/self/books/keep-cooking/research/source-ledger.csv)
 
 ## Interpretation notes for agents
 
