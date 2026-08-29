@@ -36,6 +36,7 @@
 
 - [The Delegation Machine — Field Guide](FIELD-GUIDE.md) — the **Delegation Stack** (Intent → Mandate → Authority → Action → Evidence → Review → Revocation), authority budgets, proof-carrying actions, delegation provenance, autonomy half-life, meaningful refusal, incident review, and worked agent mandates.
 - [The Delegation Protocol](DELEGATION-PROTOCOL.md) — an experimental lifecycle connecting mandate, authority, action receipts, independent review, and revocation.
+- [Delegation Protocol Threat Model](THREAT-MODEL.md) — an adversarial map of authority injection, confused-deputy attacks, stale mandates, subdelegation amplification, evidence laundering, review capture, revocation lag, replay, semantic composition, and other ways delegation boundaries can fail.
 - [Delegation Mandate JSON Schema](delegation-mandate.schema.json) — a versioned machine-readable contract shape for all seven layers of the Delegation Stack.
 - [Validated Desk book-review mandate](examples/desk-book-review.mandate.json) — an illustrative prospective example with bounded authority, external receipts, review triggers, and explicit revocation.
 - [Proof-Carrying Action Receipt JSON Schema](proof-carrying-action.schema.json) — a versioned receipt format where `completed` requires at least one independent evidence source.
@@ -48,4 +49,4 @@ Civilization advances by learning how to let one person, office, market, machine
 
 ## Working status
 
-This is a complete Desk draft, not a Shelf publication. The research trail lives in `research/README.md` and records the evidence boundaries and falsification notes behind the narrative chapters. The Field Guide, Delegation Protocol, machine-readable schemas, and conformance corpus are original syntheses of the book's recurring design patterns; they are practical frameworks and implementation artifacts, not claims that the seven-layer stack is an empirically established law, security certification, legal instrument, or external standard.
+This is a complete Desk draft, not a Shelf publication. The research trail lives in `research/README.md` and records the evidence boundaries and falsification notes behind the narrative chapters. The Field Guide, Delegation Protocol, threat model, machine-readable schemas, and conformance corpus are original syntheses of the book's recurring design patterns; they are practical frameworks and implementation artifacts, not claims that the seven-layer stack is an empirically established law, security certification, legal instrument, or external standard.
