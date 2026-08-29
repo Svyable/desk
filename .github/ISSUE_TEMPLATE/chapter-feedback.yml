@@ -27,6 +27,7 @@ body:
         - the-loneliness-dividend
         - silent-cartel
         - useful-noise
+        - keep-cooking
         - _TEMPLATE
     validations:
       required: true
