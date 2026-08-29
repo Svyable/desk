@@ -2,73 +2,39 @@
 
 For decades, we waited for the Singularity.
 
-We imagined it as a point on the horizon.
+We imagined it as a point on the horizon: a moment when machines would become more intelligent than humans, a threshold beyond which prediction would become impossible, a before and an after.
 
-A moment when machines would become more intelligent than humans. A threshold beyond which prediction would become impossible. A before and an after.
+We wrote books about it. We built companies around it. We feared it, dismissed it, dramatized it and argued over its arrival date.
 
-We wrote books about it.
-We built companies around it.
-We feared it.
-We dismissed it.
-We made films about it.
+All the while, something stranger was happening.
 
-And all the while, something much stranger was happening.
+We were already inside the transformation.
 
-We were already inside it.
-
-Not the Singularity.
+Not necessarily the Singularity.
 
 The Exponentiality.
 
-There was no flash in the sky. No announcement from a laboratory. No morning when humanity woke to discover that the old world had ended.
+There was no flash in the sky. No announcement from a laboratory. No morning when humanity woke to discover that the old world had ended. The change arrived as a sequence of things that had recently seemed implausible and then, almost without ceremony, became ordinary.
 
-Instead, the impossible began arriving quietly.
+A machine writes useful software from a sentence. Another proposes a protein structure. Another generates an image that did not exist seconds earlier. Systems translate, summarize, diagnose, search, plan, prove, simulate and converse across domains that were once separate professions. Researchers increasingly use machines not only to process the results of experiments but to help decide which experiments should be run next.
 
-Then weekly.
+At first, each achievement looked like an event.
 
-Then daily.
+Then there were too many events.
 
-Then faster than we could absorb it.
+That was the clue.
 
-An artificial intelligence solved a mathematical problem that had resisted generations of human effort.
+The important change was not any single breakthrough. It was the shrinking distance between breakthroughs, and the growing number of fields in which that shrinking distance could be observed at once.
 
-Another found a flaw in an argument associated with one of the greatest minds in its field.
+Human beings are accustomed to living in a world of events. We remember the first flight, the first transistor, the first human in space, the first website, the first sequenced genome. History is easier to tell as a row of dates.
 
-Machines began producing proofs, designing proteins, discovering materials, writing software, interpreting images, generating worlds, proposing experiments and conversing across nearly the entire accumulated landscape of human knowledge.
+Acceleration is harder to see because nothing about an individual Tuesday necessarily looks historic.
 
-At first, each achievement was treated as news.
+The curve becomes visible only in retrospect, when the intervals between Tuesdays begin to matter more than the Tuesdays themselves.
 
-Then there were too many achievements for the news to contain.
+For most of history, intelligence was scarce in a very literal sense. A brilliant mathematician could spend a lifetime attacking one problem. A scientist might devote decades to one mechanism. A composer could create only so many works. A physician could examine only so many patients. A teacher could teach only so many students. A programmer could write only so much code.
 
-That was the moment we should have understood.
-
-The great transformation was not any individual breakthrough.
-
-It was the shrinking distance between breakthroughs.
-
-Human beings are accustomed to living in a world of events.
-
-Exponentiality is a world of acceleration.
-
-And those are not the same thing.
-
----
-
-## The Day the Curve Became Visible
-
-For most of history, intelligence was scarce.
-
-A brilliant mathematician might spend a lifetime attacking one problem.
-
-A scientist might devote decades to understanding one mechanism.
-
-A composer might produce a handful of masterpieces.
-
-A programmer might write a few million lines of useful code across an entire career.
-
-Civilization advanced because billions of finite human minds accumulated their discoveries across generations.
-
-Knowledge compounded slowly because the people producing it could not.
+Civilization advanced because finite human minds accumulated discoveries across generations. Knowledge compounded, but the people producing it could not.
 
 Every Einstein slept.
 
@@ -76,107 +42,61 @@ Every Ramanujan died.
 
 Every researcher had twenty-four hours in a day.
 
-Every civilization was ultimately constrained by the biological bandwidth of the human beings within it.
+Every institution, however large, was ultimately constrained by the biological bandwidth of the people inside it.
 
 Then intelligence became computational.
 
-And something fundamental changed.
+At first this meant arithmetic performed at impossible speed. Then bookkeeping. Simulation. Search. Pattern recognition. Translation. Prediction. Generation. Reasoning. The boundary kept moving, often after we had declared the previous boundary meaningful.
 
-A machine did not merely become capable of answering questions.
+The consequential step is not that a machine can answer a question. It is that machines are increasingly useful in the process by which we build better machines, conduct better experiments, write better software and search larger spaces of possibility.
 
-It became capable of helping create the next generation of machines capable of answering harder questions.
+That is a different kind of tool.
 
-That distinction may become one of the most important in human history.
+A hammer does not participate in designing the next hammer. A steam engine did not read the engineering literature. A printing press could reproduce Newton but could not challenge his equations. Computers began to cross that boundary long before modern artificial intelligence, but AI makes the feedback loop easier to see: tools are becoming participants in the improvement of tools.
 
-We crossed from an age in which humans built tools into an age in which our tools increasingly participate in building better tools.
+The loop is still imperfect. It still depends heavily on human judgment, infrastructure, energy, capital, data, laboratories, institutions and physical supply chains. But the direction matters.
 
-From invention to recursive invention.
+We are moving from invention toward recursive invention.
 
-From progress to compounding progress.
+That is where the distinction between the Singularity and Exponentiality becomes useful.
 
-From acceleration to Exponentiality.
+The Singularity is usually framed as a destination. It asks when a decisive threshold will be crossed.
 
----
+Exponentiality is an environment. It asks what happens to people, institutions and civilization when many important capabilities are improving at once, and when progress in one domain begins to accelerate progress in another.
 
-## The Singularity Was a Destination. Exponentiality Is an Environment.
+Artificial intelligence improves software. Software improves robotics. Robotics can automate laboratories. Automated laboratories can increase the number of experiments that biology and materials science can perform. Better materials can improve batteries, sensors and chips. Better chips increase available computation. More computation supports more capable models. Better models improve the software used to design the next systems.
 
-The distinction matters.
+None of these loops is frictionless, and none is guaranteed to remain exponential forever. Physical constraints intervene. Economics intervenes. Regulation intervenes. Some curves flatten. Some technologies disappoint. Some breakthroughs take decades to diffuse through society.
 
-A Singularity asks:
+But the presence of friction does not erase the underlying phenomenon. What matters is that the major technological systems of our time are no longer independent stories. Increasingly, they are inputs into one another.
 
-When will it happen?
+This is the part that earlier technological revolutions help us see.
 
-Exponentiality asks:
+Language allowed one mind to transfer abstractions to another. It was the beginning of cumulative thought at scale. A discovery no longer had to remain trapped inside the discoverer.
 
-What happens to us while it is happening?
+Writing separated memory from biology. A law, theorem, recipe or warning could survive the person who wrote it. Civilization acquired an external memory.
 
-The Singularity is a prediction about machines.
+Printing attacked the cost of copying that memory. Ideas that had moved at the speed of scribes could circulate through populations. The consequence was not merely more books. It was denser intellectual contact: more readers able to inspect, dispute and extend the same claims.
 
-Exponentiality is a condition of civilization.
+The scientific method changed the reliability of accumulation. Observation could be made public. Experiments could be repeated. Claims could fail. Knowledge became more than inheritance; it became corrigible.
 
-It is what happens when intelligence, computation, robotics, biology, energy and networks begin advancing simultaneously—and increasingly begin accelerating one another.
+Engines multiplied physical power. They detached productive capacity from muscle and from the moods of wind and water. Industrial machinery allowed a person to command quantities of work no body could perform alone.
 
-AI improves software.
+Electricity made energy more transportable, divisible and controllable. It entered factories, homes, communication systems and eventually the machines that would compute.
 
-Software improves robotics.
+Telegraphy, telephony, radio and satellites progressively separated communication from physical movement. Distance remained geographically real while becoming informationally less important.
 
-Robotics accelerates laboratories.
+Computing industrialized calculation and logic. The transistor allowed operations that once belonged to specialists, clerks and rooms of human computers to be performed at enormous scale and falling cost.
 
-Automated laboratories accelerate biology.
+The internet connected those computers, their users and their stores of information into a planetary network. Mobile and cloud computing then made that network less a destination than an environment: always present, increasingly invisible, woven into ordinary life.
 
-AI improves materials discovery.
+Genomics and biotechnology began changing our relationship with biology. Sequencing made life more readable. Synthesis and gene editing made parts of it more writable. Computational biology made biological possibility more searchable.
 
-Better materials improve energy systems and computation.
+Solar power, batteries and other energy technologies demonstrated another important pattern: learning curves. Production experience, manufacturing scale and technical improvement can lower costs; lower costs can drive wider deployment; wider deployment creates more opportunities to learn.
 
-Cheaper computation produces more intelligence.
+Robotics gives computation a physical presence. A software system can perceive, decide and then act through machines in warehouses, factories, laboratories, fields, hospitals and eventually homes.
 
-More intelligence improves AI.
-
-The technologies cease behaving like separate industries.
-
-They become a system of interlocking exponential curves.
-
-And humanity finds itself standing in the middle.
-
-This is where we are now.
-
----
-
-## The Technologies That Bent the Curve
-
-An exponential technology is a technology whose capabilities improve, costs decline, or reach expands at a compounding rate—and which increasingly accelerates the development of other technologies.
-
-That final property matters most. A technology becomes civilization-changing not merely because its own curve is steep, but because it bends other curves upward.
-
-Human history can be read as a succession of technologies that gave us new forms of leverage.
-
-**Language was the exponentiality of thought.** It allowed one mind to transfer abstractions to another. Knowledge no longer had to be rediscovered independently.
-
-**Writing was the exponentiality of memory.** Knowledge escaped the lifespan of the person who discovered it. Civilization acquired an external memory.
-
-**Printing was the exponentiality of knowledge.** The printing press collapsed the cost of reproducing ideas and allowed knowledge to spread through populations rather than remain concentrated among elites.
-
-**The scientific method was the exponentiality of discovery.** Science created a systematic process through which knowledge could test, correct and build upon itself. Discovery became cumulative rather than merely episodic.
-
-**Engines and industrial machinery were the exponentiality of physical power.** Humans learned to substitute machines for muscle. A single person could command quantities of mechanical work impossible for a biological body alone.
-
-**Electricity was the exponentiality of usable energy.** Energy became transferable, controllable and available to machines ranging from industrial motors to telecommunications and eventually computers.
-
-**Telecommunications were the exponentiality of distance.** Telegraph, telephone, radio and satellites progressively separated communication from physical transportation.
-
-**Computing was the exponentiality of calculation.** Transistors turned logical operations into something that could be manufactured and scaled. As computation became cheaper, increasingly complex intellectual processes became computational.
-
-**The internet was the exponentiality of connection.** Billions of people, machines and repositories of knowledge became components of a planetary network. Information could propagate globally at almost no marginal cost.
-
-**Mobile and cloud computing were the exponentiality of access.** Computation escaped the computer room and the desktop. Billions of people gained continuous access to global information and computational infrastructure.
-
-**Genomics and biotechnology are the exponentiality of biology.** Sequencing, synthesis, gene editing and computational biology are transforming life from something we primarily observe into something we can increasingly read, model and modify.
-
-**Renewable energy and storage are part of the exponentiality of energy production.** Solar photovoltaics, batteries and related technologies can follow powerful learning curves in which deployment creates manufacturing experience and scale, falling costs encourage more deployment, and the cycle repeats.
-
-**Robotics is the exponentiality of action.** Computation gains bodies. Robots allow digital systems to perceive and manipulate the physical world, extending automation from information into production and physical work.
-
-**Artificial intelligence is the exponentiality of intelligence.** And this may be different in kind. Previous technologies amplified particular human capabilities. AI increasingly amplifies the capability responsible for creating technologies in the first place: intelligence.
+Artificial intelligence sits unusually close to the center of these systems because intelligence is not merely another output of civilization. It is one of the inputs to nearly every other form of progress.
 
 Fire amplified muscle.
 
@@ -190,441 +110,175 @@ Networks amplified connection.
 
 AI amplifies intelligence.
 
-And intelligence amplifies everything else.
+And intelligence amplifies almost everything else.
 
-The technologies are therefore becoming something more than a list. They are becoming a system.
+This does not mean every technology in history was literally exponential, nor that every modern curve will continue rising at the same rate. The language of exponential growth is often abused. Biological populations can grow exponentially for a time and then hit limits. Semiconductor progress has changed character as physical scaling became harder. Adoption curves saturate. Energy systems encounter grids, mines, permitting, financing and politics. Laboratories still contain glassware, contamination, waiting periods and stubborn reality.
 
-The printing press accelerated knowledge. The steam engine accelerated physical production. Electricity accelerated machines. Computers accelerated calculation. The internet accelerated information.
+Exponentiality does not require infinite exponential growth.
 
-Those transformations largely arrived as successive layers of leverage.
+It requires something more practical and, for people living through it, more consequential: compounding improvement across multiple connected systems, occurring quickly enough that the feedback among them begins to alter the tempo of civilization.
 
-What is unusual about the present period is the density of powerful technological curves operating simultaneously—and the increasing degree to which they feed one another.
+That tempo is the subject of this book.
 
-AI improves software. Better software improves AI.
+The most important question is no longer whether machines can think. That question belongs to an earlier argument about categories.
 
-AI accelerates scientific discovery. Better materials can improve chips. Better chips create more computation. More computation supports more capable AI.
+A more useful question is what happens when useful forms of thinking become abundant.
 
-AI and robotics can automate laboratories. Automated laboratories can accelerate biology and materials science. New discoveries can improve medicine, manufacturing, energy and computation.
+Our institutions were designed under the assumption that intelligence was expensive.
 
-Robotics combined with AI can automate production. Greater production can reduce the cost of robots. Cheaper robots can produce more automation.
+Education exists for many reasons, but one of them is that expertise takes years to acquire. Corporations exist for many reasons, but one of them is that specialized knowledge is difficult to coordinate. Professional status partly reflects the scarcity of abilities that took long training to develop. Universities, laboratories, consultancies, hospitals, governments and law firms are all, in different ways, arrangements for concentrating and coordinating human cognition.
 
-This is more consequential than exponential improvement inside any one technology.
+What happens when parts of that cognition can be summoned on demand?
 
-It is exponentials acting upon exponentials.
+The answer will not be that expertise becomes irrelevant. A model that can discuss cardiology is not a cardiologist; a system that can produce a proof is not automatically a mathematician; fluent output is not identical to judgment. The world remains full of tacit knowledge, accountability, context, uncertainty and consequences.
 
-Humanity first learned to amplify the individual mind through language, writing and mathematics.
+But the cost structure changes even before machines become substitutes for entire professions.
 
-Then we amplified physical and informational civilization through engines, electricity, telecommunications, computers and networks.
+A teenager can already ask for an explanation pitched at the exact level they need, then ask again in another form. A programmer can move between unfamiliar languages without beginning from a blank page. A scientist can use computational systems to search literature, generate hypotheses and analyze results. A small company can access capabilities that once required separate departments.
 
-Now we are entering a third stage: recursive amplification, in which AI, robotics, biotechnology and automated science increasingly participate in improving the systems that produced them.
+The shift is not from humans to machines in one clean step.
 
-Human civilization has experienced exponential technologies before.
+It is from unaided humans to humans surrounded by increasingly capable cognitive machinery.
 
-What may be historically unusual now is their density, convergence and recursive interaction.
+That distinction matters because it changes the unit of comparison. The future may not be best understood as a contest between a person and an artificial intelligence. It may be a contest between people and institutions that learn to combine human judgment with machine capability, and those that do not.
 
-**Exponentiality is the condition that emerges when multiple compounding technologies become interconnected and begin accelerating one another—compressing the time between discovery, capability and transformation.**
+Mathematics made this transition psychologically harder to ignore.
 
----
+Language could be dismissed as imitation. Images could be dismissed as recombination. Even code could be described as sophisticated pattern matching. Mathematics occupied a different place in our imagination because its standards are unusually unforgiving. A proof works or it does not. A counterexample can destroy a beautiful conjecture in a few lines.
 
-## The Most Important Question Is No Longer Whether Machines Can Think
+For centuries, mathematics represented one of humanity's strongest claims about pure reason. Euclid, Newton, Euler, Gauss, Riemann, Hilbert, Gödel, Ramanujan and generations after them became symbols not merely of knowledge but of the limits of disciplined thought.
 
-That question belonged to the twentieth century.
+Now machines are entering that territory as collaborators and search systems. They can help explore enormous combinatorial spaces, suggest lemmas, formalize arguments, check proofs and search for counterexamples. Their successes remain uneven, and much of the deepest work still depends on human mathematical taste: knowing which problem matters, which abstraction is promising, which proof is illuminating rather than merely valid.
 
-The twenty-first century has a more uncomfortable question:
+But the psychological boundary has moved.
 
-What happens when thinking itself becomes abundant?
+For centuries we used intelligence to explain why humans were exceptional. We now live in a world in which intelligence, or at least increasingly powerful components of what we call intelligence, can be engineered, copied and deployed.
 
-Our institutions were designed around the assumption that intelligence was expensive.
+The economic consequences begin before the philosophical argument is settled.
 
-Education existed partly because expertise required years to acquire.
+If a useful cognitive capability can be replicated in software, it can behave differently from a human skill. It can be copied. It can operate at machine speed. It can sometimes serve millions of people through shared infrastructure. It can be embedded in products and workflows. It can improve without every user returning to school.
 
-Corporations existed partly because coordinating specialized human knowledge was difficult.
+That does not make intelligence free. Computation costs money. Chips require factories. Data centers require land, cooling and electricity. Models require training, maintenance and oversight. Access is uneven. Power can concentrate rather than diffuse.
 
-Professional status existed because certain cognitive abilities were rare.
+But scarcity can change by orders of magnitude without disappearing.
 
-Universities, consultancies, laboratories, governments and entire professions were built around bottlenecks in human cognition.
+That is enough to reprice a civilization.
 
-But what happens when some forms of expertise become available everywhere, instantly and almost without marginal cost?
+Every civilization assigns value partly according to scarcity. When productive land was scarce, land conferred power. When industrial machinery was scarce, factories conferred power. When capital was difficult to mobilize, control of capital conferred power. When information was difficult to obtain and distribute, access to information created advantage.
 
-What happens when a teenager can command intellectual resources that once required a university department?
+If useful intelligence becomes dramatically more abundant, some things that were valuable because they were cognitively difficult may become cheaper.
 
-When a scientist can explore ten thousand hypotheses before lunch?
+Other things may become more valuable precisely because they remain scarce.
 
-When one entrepreneur can orchestrate hundreds of artificial agents?
+Judgment when the evidence is ambiguous. Trust when synthetic persuasion is easy. Taste when production is abundant. Reputation when identity can be imitated. Courage when no model can absorb the consequences of your decision. Responsibility when a system can recommend an action but cannot morally own it. Relationships that are valuable not because they are efficient but because another human being is there.
 
-When a child can have a mathematician, programmer, historian, scientist, philosopher and tutor beside them from the moment they can speak?
+And meaning.
 
-When eight billion people gain access not simply to information—
+Machines may become extraordinarily capable at answering questions. That does not determine which questions deserve our lives.
 
-but to intelligence?
+This is why the transition is not merely technological. It is personal.
 
-We do not yet know.
+You are alive during it.
 
-Because no civilization has ever experienced it.
-
----
-
-## And Then Mathematics Changed
-
-There was something psychologically important about the moment AI began reaching into mathematics.
-
-Language could be dismissed.
-
-Images could be called imitation.
-
-Music could be described as recombination.
-
-Code could be explained as pattern matching.
-
-But mathematics occupied a different place in our imagination.
-
-Mathematics was where humanity stored some of its strongest claims about pure reason.
-
-Its great conjectures survived generations.
-
-Its proofs represented chains of logic that could not be negotiated with.
-
-Its giants—Euclid, Newton, Euler, Gauss, Riemann, Hilbert, Gödel, Ramanujan and thousands after them—represented the furthest reaches of disciplined human thought.
-
-Then machines began entering that territory too.
-
-Not merely calculating.
-
-Reasoning.
-
-Searching.
-
-Conjecturing.
-
-Proving.
-
-Finding counterexamples.
-
-Exposing assumptions.
-
-Helping humans explore mathematical spaces too vast for a biological mind to traverse alone.
-
-And something changed in our understanding of ourselves.
-
-For centuries, we had used intelligence to explain why humans were exceptional.
-
-Now intelligence itself was becoming something we could manufacture.
-
-That realization may prove more consequential than any particular theorem a machine ever proves.
-
-Because when humanity discovers that intelligence can be engineered, scaled and replicated, the economics of civilization begin to change.
-
-And eventually, so does civilization.
-
----
-
-## You Are Here
-
-This book is not about the distant future.
-
-It is about the extraordinary historical position of the person reading these words.
-
-You are alive during the transition.
-
-You remember—or are surrounded by people who remember—the world before artificial intelligence became an everyday collaborator.
-
-And you may live long enough to see a world in which machine intelligence exceeds the combined cognitive output of humanity in domains we once considered uniquely ours.
+You remember, or are surrounded by people who remember, a world before artificial intelligence became an everyday collaborator. You may also live long enough to see machine systems exceed the combined output of large groups of humans in domains we once treated as distinctly ours.
 
 That makes this generation unusual.
 
-We are the bridge generation.
+We are a bridge generation.
 
-One foot stands in a civilization built by biological intelligence.
+One foot stands in a civilization built almost entirely by biological intelligence. The other is stepping into a civilization increasingly shaped by synthetic intelligence.
 
-The other is stepping into a civilization increasingly shaped by synthetic intelligence.
+Behind us are thousands of years in which most institutional change moved at approximately human speed. Schools could revise curricula over years. Professional norms could evolve over decades. Governments could study a technology, form committees, pass rules and assume the object being regulated would still look roughly familiar when the process ended.
 
-Behind us lie thousands of years in which progress moved at approximately human speed.
+That assumption is becoming less comfortable.
 
-Ahead of us lies something we have never experienced:
+Exponentiality compresses historical time.
 
-progress increasingly moving at machine speed.
+Imagine that a century's worth of scientific progress, measured not by calendar years but by accumulated capability, could occur in twenty years. Then ten. Then five. The exact numbers are unknowable and the metaphor should not be mistaken for a forecast. What matters is the direction of pressure.
 
-This produces an uncomfortable sensation.
+When change accelerates, the important social unit of time shrinks.
 
-The future no longer feels far away.
+An industry can be created and destabilized within a career. A skill can move from scarce to common faster than an education system can redesign a degree around it. A company can discover that a task it expected to automate in ten years has become automatable in two, while another task expected to disappear proves stubbornly human.
 
-It feels as though it is approaching us.
-
----
-
-## The Compression of Time
-
-Exponentiality does something strange to time.
-
-Imagine that a century of scientific progress could occur in twenty years.
-
-Then ten.
-
-Then five.
-
-Then one.
-
-Eventually the important unit is no longer the century.
-
-It is the month.
-
-Then the week.
-
-Then perhaps the day.
-
-This is not simply technological acceleration.
-
-It is historical compression.
-
-Events that once would have defined generations begin occurring within the same lifetime.
-
-Entire industries can rise and fall before institutions understand what happened.
-
-Skills can move from scarce to abundant faster than education systems can redesign curricula around them.
-
-Scientific assumptions can be overturned faster than textbooks can be printed.
-
-And individuals encounter a new psychological problem:
+This creates a psychological problem that is easy to underestimate.
 
 How do you build a life when the world may change faster than your plans?
 
-This may be the defining human challenge of Exponentiality.
+The answer cannot be to predict every breakthrough. No one will.
 
-Not competing with artificial intelligence.
+Nor can it be permanent panic. A nervous system in continuous emergency mode is not adaptive; it is exhausted.
 
-Not predicting every technological breakthrough.
+The harder task is to build lives, institutions and identities that can survive revision.
 
-But learning how to remain human, purposeful and adaptive inside accelerating change.
+That means the human challenge of Exponentiality may be less about competing with artificial intelligence than about remaining purposeful inside accelerating change: keeping the ability to learn, to choose, to trust, to care and to revise one's assumptions without surrendering one's values every time a new system appears.
 
----
+There is a more optimistic possibility as well.
 
-## The Great Repricing
+Perhaps the largest consequence of artificial intelligence will not be machines surpassing humanity in some abstract ranking. Perhaps it will be humans gaining access to capabilities that previous humans could not afford.
 
-Every civilization assigns value according to scarcity.
+A farmer can ask an agronomic question in the field. A child far from a great school can receive patient, individualized instruction. A physician can be supported by patterns drawn from more medical literature than any one person can read. A scientist can work with computational collaborators that do not tire of searching parameter spaces. A small company can perform work once reserved for institutions with hundreds of employees.
 
-When land was scarce, land created power.
+None of this guarantees equality. Access to technology has never erased differences in wealth, infrastructure, education, political power or geography. A tool can be broadly available while the ability to use it well remains uneven. The same systems that democratize capability can also increase the returns to capital, data, distribution and scale.
 
-When machinery was scarce, factories created power.
+Still, the possibility is historically significant.
 
-When capital was scarce, capital created power.
+Eight billion people have never stood at the same starting line. They do not now. But billions of people may gain access to forms of cognitive leverage that, within living memory, belonged only to governments, universities and large corporations.
 
-When information was scarce, information created power.
+What follows from that will depend less on the existence of the tools than on the institutions and choices around them.
 
-The Exponential Age introduces a new question:
+This is where technological optimism becomes insufficient.
 
-What remains valuable when intelligence is no longer scarce?
+Exponential technologies are often described as inevitable. Their consequences are not.
 
-Answers may surprise us.
+Intelligence can help discover medicines and help design weapons. Robotics can remove humans from dangerous labor and concentrate productive power. Synthetic biology can cure disease and create new categories of risk. Abundant energy can support prosperity and increase the scale at which we alter the physical world.
 
-Judgment.
+Technology increases capability. It does not automatically increase wisdom.
 
-Trust.
-
-Taste.
-
-Courage.
-
-Curiosity.
-
-Relationships.
-
-Reputation.
-
-Responsibility.
-
-The ability to choose worthwhile problems.
-
-The ability to distinguish what can be done from what should be done.
-
-And perhaps most importantly:
-
-meaning.
-
-Machines may become extraordinarily capable at answering questions.
-
-That does not mean they determine which questions deserve our lives.
-
----
-
-## Eight Billion People at the Starting Line
-
-There is another possibility.
-
-Perhaps the greatest consequence of artificial intelligence will not be machines surpassing humanity.
-
-Perhaps it will be humans becoming capable of far more than previous humans could imagine.
-
-A farmer with an agronomist in their pocket.
-
-A child in a remote village with access to the world’s greatest tutor.
-
-A physician supported by the accumulated patterns of global medicine.
-
-A scientist with a virtual laboratory of tireless collaborators.
-
-A small company operating with capabilities once available only to multinational corporations.
-
-A single person creating something that previously required hundreds.
-
-For the first time, humanity may be approaching an era in which extraordinary cognitive leverage becomes broadly available.
-
-If that happens, the story of Exponentiality will not simply be about artificial intelligence.
-
-It will be about amplified humanity.
-
-Eight billion people have never possessed equal opportunity.
-
-They still do not.
-
-But billions may soon possess something historically unprecedented:
-
-access to capabilities once reserved for the most powerful institutions on Earth.
-
-What they do with them will matter.
-
----
-
-## The Choice Hidden Inside the Curve
-
-Exponential technologies are often described as inevitable.
-
-Their consequences are not.
-
-Intelligence can discover medicines.
-
-It can also discover weapons.
-
-Robotics can liberate humans from dangerous labor.
-
-It can also concentrate economic power.
-
-Synthetic biology can cure disease.
-
-It can also create risks civilization has never confronted.
-
-Abundant energy could transform prosperity.
-
-It could also accelerate consumption on a planetary scale.
-
-Technology increases capability.
-
-It does not automatically increase wisdom.
-
-And so Exponentiality presents humanity with an asymmetry that may define our century:
+That creates the asymmetry at the center of this book:
 
 Our power is beginning to compound faster than our wisdom.
 
-Closing that gap may become the central project of civilization.
+Civilization has faced versions of this problem before. Fire warmed homes and burned cities. Chemistry produced fertilizers and explosives. Nuclear physics illuminated matter and produced weapons capable of destroying millions of people. The pattern is not new.
 
----
+What may be new is the speed, breadth and interconnection of the capabilities arriving at once.
 
-## This Is Not a Book About AI
+Closing the gap between power and wisdom may therefore become one of the central projects of this century.
 
-AI is the catalyst.
+This is why this is not, finally, a book about AI.
 
-But this book is about something larger.
+AI is the catalyst and perhaps the most important accelerator. But Exponentiality is larger than any one technology. It emerges from the interaction of artificial intelligence, robotics, biotechnology, computation, energy, networks, materials science, manufacturing and space systems, along with technologies that have not yet acquired familiar names.
 
-It is about what happens when multiple exponential systems collide.
+It is what happens when economies built around scarcity encounter pockets of abundance; when institutions built for stability encounter acceleration; when education systems built around memorization encounter ubiquitous assistance; when careers built around expertise encounter artificial experts; when governments that operate in years confront technologies that can change materially within months.
 
-Artificial intelligence.
+And it is what happens to us: ancient biological creatures, carrying nervous systems shaped for a much slower world, trying to decide what deserves attention when the rate of novelty itself becomes a source of pressure.
 
-Robotics.
+There is no spectator section.
 
-Biotechnology.
+Every company is inside this environment. Every government is inside it. Every school and family is inside it. Every child born now will take for granted capabilities that older generations still experience as astonishing.
 
-Energy.
+The future no longer feels as though it is waiting at a safe distance.
 
-Computation.
+It keeps arriving in pieces.
 
-Networks.
+Some pieces will disappoint us. Some will be overhyped. Some will create damage we failed to anticipate. Some will solve problems we had quietly accepted as permanent. Diseases may become treatable. Materials may be discovered that change energy or manufacturing. Scientific questions that survived generations may yield to collaborations between human intuition and machine search. Individuals may create things that once required institutions.
 
-Materials.
+There should be fear in the pages ahead because transformative power deserves seriousness.
 
-Space.
+There should also be wonder.
 
-And eventually technologies that have not yet acquired names.
+We spent decades asking when the Singularity would arrive. Perhaps the question trained us to look for the wrong kind of evidence. We looked for a date, a threshold, a machine that would make the old world obviously over.
 
-It is about economies built for scarcity encountering abundance.
+There may never be such a clean moment.
 
-Institutions built for stability encountering acceleration.
+There may only be a curve.
 
-Education built around memorization encountering ubiquitous intelligence.
+Then curves interacting with curves.
 
-Careers built around expertise encountering artificial experts.
-
-Governments built around years encountering technologies evolving in weeks.
-
-And human beings—ancient biological creatures carrying nervous systems shaped on the African savannah—trying to comprehend a civilization whose rate of change may itself continue accelerating.
-
-This is the Age of Exponentiality.
-
-And there is no spectator section.
-
-You are already participating.
-
-Every company is inside it.
-
-Every government is inside it.
-
-Every school is inside it.
-
-Every family is inside it.
-
-Every child born today is inside it.
-
-The question is no longer whether the future is coming.
-
-The question is whether we can learn to live when the future keeps arriving faster.
-
----
-
-## The Invitation
-
-There will be fear in the pages ahead.
-
-There should be.
-
-Civilizations should take transformative power seriously.
-
-But fear is not the only rational response.
-
-There is wonder here too.
-
-We may be living at the beginning of the greatest expansion of human possibility in history.
-
-Problems that seemed permanent may become solvable.
-
-Diseases we accepted may become curable.
-
-Scientific questions that survived centuries may yield.
-
-Scarcity that shaped civilizations may diminish.
-
-One person may wield creative capabilities previously requiring entire institutions.
-
-And humanity may discover things about the universe—and about itself—that no unaided human mind could ever have reached.
-
-We spent decades asking when the Singularity would arrive.
-
-Perhaps that question distracted us from noticing something more profound.
-
-There was never going to be one moment.
-
-There was going to be a curve.
-
-And then curves interacting with curves.
-
-And then those curves accelerating one another until the distance between impossible and ordinary began collapsing.
+Then those curves altering the rate at which other curves can move, until the distance between impossible and ordinary begins to collapse.
 
 That is where we are.
 
-Not at the end of history.
-
-Not yet at the Singularity.
-
-But at the beginning of something arguably more important to those of us alive today:
-
-the moment humanity became conscious of the exponential.
+Not at the end of history. Not necessarily at the Singularity. At the beginning of something more immediate to those of us alive now: the moment humanity became conscious of the exponential.
 
 Welcome to the Age of Exponentiality.
 
