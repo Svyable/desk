@@ -1,141 +1,171 @@
 # Railroads, Radios, Routers
 
-In 1893, the United States had 176,461 miles of railway.
+Between 1892 and 1897, 60,012 miles of American railroad passed into receivership.
 
-The number is easier to admire from a map than from a balance sheet. Lines crossed the country in a density that would have been difficult to imagine a generation earlier. Towns that had once been days from a major market could move freight by rail. Manufacturers gained access to customers and suppliers farther away. A network built by thousands of local decisions had become national infrastructure.
+The figure came from a later contemporary accounting of the crisis. It represented 2,510 railway companies and something close to a third of the national network. The United States had spent decades laying track across the continent, tying farms to cities, factories to distant customers, and towns to markets that had once been days away.
 
-Then the financing broke.
+Then a remarkable thing happened.
 
-The depression that began in 1893 pushed railroad companies into receivership on a scale large enough to make the distinction between useful infrastructure and successful investment impossible to ignore. A later contemporary accounting, looking back at the years from 1892 through 1897, counted 2,510 railway companies with 60,012 miles of track passing into receivers' hands. Total U.S. railway mileage was 171,563 miles in 1892 and 183,984 in 1897. By that measure, the failed companies represented roughly a third of the country's railway mileage.
+The securities failed and much of the railroad kept working.
 
-The rails did not disappear when the securities failed.
+Track did not vanish when a bond defaulted. Freight still moved. Towns did not decide that distance had returned. The financial claims were reorganized, written down, consolidated, or replaced while the physical network underneath them continued becoming more useful to the economy.
 
-Trains kept moving over much of the same roadbed. The network was reorganized, consolidated, refinanced, and used by an economy that increasingly depended on it. The financial claims could be impaired while the physical system beneath them became more valuable to everyone else.
+That separation is the historical problem at the center of this book.
 
-This is the historical pattern that makes technology booms difficult to reason about in real time. The useful asset and the profitable security occupy the same story until suddenly they do not.
+A technology can succeed in the world and disappoint the people who financed a particular version of it.
 
-Railroads are almost too convenient as an example. They were capital intensive, visibly transformative, and prone to cycles of construction and financial distress. They also warn against a lazy version of the bubble argument. The nineteenth-century railroad was not simply a speculative hallucination that left behind some accidental track. Modern economic research finds large productivity gains from the network itself. Richard Hornbeck and Martin Rotemberg, using county and manufacturing data, estimate that expanding railroad market access substantially increased manufacturing productivity and economic activity. The infrastructure was doing real economic work.
+Railroads make the point almost too neatly because they were both visibly transformative and ferociously capital intensive. It would be easy, though, to turn the nineteenth-century building spree into a morality play about speculative fools. The evidence does not support that story either.
 
-That was why people kept financing more of it.
+The network created real productivity.
 
-The mileage figures show the pace. A 1918 account submitted to the Interstate Commerce Commission noted that U.S. railway mileage grew from 52,922 miles in 1870 to 192,940 in 1900. Four decades after the Civil War, the railroad had become one of the principal destinations for American savings and European capital.
+Richard Hornbeck and Martin Rotemberg, studying the expansion of railroad market access and American manufacturing, found substantial gains in manufacturing productivity and economic activity. A rail connection could widen the market for a factory, lower the cost of inputs, make farm output saleable farther from home, and raise the value of being connected to other places already on the network.
 
-There were good reasons for this enthusiasm. A rail connection could change the economics of a place. It could widen the market for a factory, lower the cost of receiving inputs, raise land values, and make agricultural output saleable farther from home. Network effects mattered in a literal sense: a line became more useful when it connected to other lines.
+There was a reason investors kept writing checks.
 
-In 1886, railroads in the American South demonstrated how much value compatibility alone could create. Much of the southern network used a different track gauge from the North. Over two days, workers converted roughly 13,000 miles of track to the standard gauge. Economic historian Daniel Gross later found that the change shifted substantial freight traffic from steamships to railroads on affected routes. A technical standard altered the usefulness of infrastructure already in the ground.
+U.S. railway mileage grew from 52,922 miles in 1870 to 192,940 miles in 1900. That expansion did not merely duplicate what already existed. The usefulness of the network changed as it became denser and more compatible.
 
-The episode matters because it complicates the picture of railroad capital as mere overbuilding. Some investments became more valuable as the network became more coherent. The same track could support more commerce once incompatibility was removed. Coordination, not only construction, created value.
+One of the best examples occurred in the South in 1886.
 
-And some railroad investments did earn attractive returns. A history that remembers only receiverships selects on the ruins. Railroads were not a single trade entered at one price. They were companies with different routes, costs, competitive positions, financing structures, and moments of entry. Some lines enjoyed durable traffic and pricing power. Some investors bought before the network's value was widely understood. Others financed duplicative routes after the easy opportunities had already attracted competitors.
+Much of the southern rail system used a different track gauge from the North. Over two days, workers converted roughly 13,000 miles of track to standard gauge. Economic historian Daniel Gross later found that the change shifted substantial freight traffic from steamships to rail on affected routes.
 
-The question is therefore not whether railroad investment was good or bad. The question is why a socially productive network could repeatedly produce financial excess.
+No new continent had been discovered. Much of the steel was already in the ground. A common standard simply made the existing system more useful.
 
-Part of the answer was visible on the ground. A railroad required large commitments before demand was known. Track, bridges, terminals, rolling stock, rights of way, and land could not be added one passenger at a time. Once built, much of the capital was sunk. If two companies expected a growing region to support one profitable line, each had an incentive to build before the other secured the route. If both built, the town received more capacity than either company's original calculation assumed.
+That is an important corrective to the idea that every mile of railroad built during the period was irrational overcapacity. Networks can become more valuable as coordination improves. The same asset can earn more because the rest of the system around it changes.
 
-A recent study of the North Dakota Railroad War of 1905 makes this mechanism unusually concrete. Chad Syverson reconstructed the strategic choices of the Great Northern Railway and the entering Soo Line. His estimates suggest the incumbent could likely have deterred entry profitably but waited until construction by the entrant had begun. The resulting simultaneous expansion appears to have produced too much capacity for the market and may have been unprofitable for both firms.
+Some railroad investors also did very well.
 
-No mania is required for that outcome.
+Railroads were never one trade entered at one price. They were companies with different routes, debt loads, traffic, costs, competitive positions, and moments of entry. A strong line serving durable traffic was not economically equivalent to a duplicative route financed late in a boom because everybody could see where the population was going.
 
-Each company can make a defensible decision given what it knows and still help create an industry structure that destroys returns. The error lives at the level of the system.
+The interesting question is not whether railroad investment was good or bad.
 
-That feature appears again in later technology booms.
+It is how an infrastructure system that created so much social value could repeatedly produce bad private returns.
 
-Radio in the 1920s did not require laying steel across a continent, but it joined technical novelty, rapid adoption, new business models, and a stock market eager to price the future. The number of broadcasting stations multiplied. Radio sets moved from enthusiast equipment into American homes. Manufacturers, patent holders, networks, advertisers, and retailers all tried to determine where the profits of a new mass medium would settle.
+Part of the answer lay in the shape of the investment.
 
-The technology was not a false promise. It became one of the defining media of the twentieth century.
+A railroad requires a great deal of money before the customer arrives. Track, bridges, terminals, rolling stock, land, and rights of way cannot be added one passenger at a time. Once the line is built, much of the cost is sunk. If two companies believe a growing region can support one profitable route, both may have a reason to build before the other secures the market.
 
-Nor was investor enthusiasm wholly detached from innovation. Tom Nicholas studied patent data and stock-market valuations from 1910 through 1939 and found that investors placed increasing value on corporate knowledge capital during the 1920s. Innovation was an important contributor to the late-decade market runup. Investors were responding, at least in part, to something real.
+The town can end up with more capacity than either company expected.
 
-That is precisely what makes the episode useful.
+Chad Syverson's study of the North Dakota Railroad War of 1905 reconstructed just such a case. The Great Northern Railway faced entry by the Soo Line. Syverson's estimates suggest the incumbent could probably have deterred the entrant profitably but waited until construction was under way. The simultaneous expansion appears to have produced excess capacity and may have been unprofitable for both firms.
 
-A bubble does not need investors to be wrong about technological progress. It can form when real progress makes the range of plausible future profits unusually wide.
+No mass delusion is required.
 
-Radio Corporation of America sat near the center of that uncertainty. RCA controlled important patents, sold radio equipment, and helped build national broadcasting through NBC. It had assets that a rational investor could regard as unusually well placed for the emerging medium. It also became a symbol onto which the market could project expectations about the entire future of radio.
+Each company can make a defensible decision under uncertainty and still help create an industry structure that destroys returns. The mistake, if that is the right word, can emerge from competition rather than from stupidity.
 
-The distinction between those two things became painful after 1929.
+That mechanism matters because it reappears whenever a new technology demands large commitments before its mature market structure is known.
 
-The broader stock market peaked in September. On October 28, the Dow Jones Industrial Average fell nearly 13 percent; the next day it fell almost another 12 percent. The crash was not caused by radio, and the subsequent Depression cannot be reduced to the valuation of technology companies. It would be bad history to use RCA as though it were a self-contained replay of a modern software stock.
+Radio in the 1920s looked very different from a railroad on the ground. Financially, it introduced a familiar problem.
 
-But the radio episode demonstrates something narrower. A company can be attached to a technology that continues spreading after the market has dramatically repriced the claims on its future earnings. Radio ownership kept growing through the 1930s. Broadcasting became more important, not less. The crash did not reverse the technical fact of wireless mass communication.
+Broadcast stations multiplied. Radio sets moved from enthusiast equipment into ordinary homes. Manufacturers, patent holders, networks, advertisers, and retailers all tried to discover where the profits of a new mass medium would settle.
 
-The same separation appeared in a form closer to today's digital economy seventy years later.
+The excitement was not detached from genuine innovation.
 
-In the late 1990s, telecommunications companies looked at the growth of the internet and saw a network that would require vastly more bandwidth. On the direction of demand, they were right. Internet traffic would grow for decades. Video, cloud computing, mobile devices, software distribution, streaming, and services not yet invented would consume quantities of data that made the dial-up era look primitive.
+Tom Nicholas studied patent data and stock-market valuations from 1910 through 1939 and found that investors placed increasing value on corporate knowledge capital during the 1920s. Innovation contributed to the late-decade market runup. Investors were responding, at least in part, to something real.
 
-The financial problem was the route between those two facts.
+That makes the episode more useful than a story about gullibility.
 
-Fiber-optic networks are expensive to build and astonishingly cheap to use once capacity exists. The economics encourage scale. A carrier that expects traffic to rise can justify a large network on the assumption that future customers will fill it. Its competitors can make the same calculation. Technological improvements can then increase the amount of data carried by each strand of fiber, expanding effective capacity even after the cable is buried.
+Radio Corporation of America sat near the center of the uncertainty. RCA controlled important patents, sold equipment, and helped build national broadcasting through NBC. A rational investor could look at the emerging medium and conclude that the company occupied valuable territory.
 
-By 2000, the telecommunications boom had begun to turn.
+The market could then make a second leap: from “RCA is well positioned” to “almost any price can be justified by the future of radio.”
 
-A Federal Reserve Bank of Richmond review published in 2003 reconstructed the sequence. Telecommunications investment had surged during the second half of the 1990s. Equity valuations climbed with it. By the end of 2000, the market value of the sector had fallen sharply, and reports of massive excess capacity in long-haul fiber were becoming common. One industry report cited in the review described nearly 600,000 miles of new inter-city fiber on the way even as capacity prices were falling and important customers were failing.
+Those are not the same proposition.
 
-The imbalance lasted longer than the stock-market excitement. In 2004, TeleGeography data reported by Wired showed long-haul bandwidth prices continuing to collapse even while internet traffic more than doubled worldwide over the preceding year. Average prices on major U.S. routes had fallen 55 percent in a year. Over four years, long-distance bandwidth prices had fallen by more than 90 percent. Only a fraction of the fiber connecting major cities was lit.
+The broader stock market peaked in September 1929. On October 28 the Dow Jones Industrial Average fell nearly 13 percent; the next day it lost almost another 12 percent. Radio did not cause the crash, and the Depression cannot be reduced to the valuation of technology companies. Using RCA as a tidy historical replay of a modern software stock would be bad history.
 
-Demand was exploding. Prices were collapsing.
+The narrower lesson survives.
 
-There is no contradiction there once capacity enters the story.
+Radio kept spreading after the market repriced the securities attached to its growth. Broadcasting became more important through the 1930s. The crash did not reverse the technical fact that wireless mass communication had become useful.
 
-A network can carry more traffic every year while the owners of that network earn less per unit. If supply expands faster than demand, if technical progress multiplies the capacity of installed assets, or if competition prevents providers from holding price, social usefulness can rise alongside financial pain.
+The same separation appeared in a form much closer to the modern digital economy at the end of the twentieth century.
 
-WorldCom supplied the period with a spectacular bankruptcy, although it is a dangerous example if used carelessly. Its collapse involved accounting fraud, not merely an innocent error in forecasting bandwidth demand. The company's own later SEC filing states that WorldCom and substantially all of its U.S. subsidiaries entered Chapter 11 in July 2002 and that previously issued financial statements had not been prepared in accordance with GAAP.
+Telecommunications companies looked at the internet and saw a network that would require vastly more bandwidth.
 
-Fraud belongs in the history because it happened. It should not be allowed to do explanatory work it cannot support.
+On the direction of demand, they were spectacularly right.
 
-The telecommunications bust was broader than WorldCom. Excess capacity, falling prices, heavy debt, weak demand from failed customers, and irreversible capital combined across the sector. An industry can contain fraud and still have a genuine capital-cycle problem.
+Internet traffic would grow for decades. Video, cloud computing, mobile devices, software distribution, streaming, and services that had not yet been invented would consume quantities of data that made the dial-up era look quaint.
 
-The fiber itself is the more interesting artifact.
+The financial trouble came from how many companies financed that same future and how quickly the technology itself increased available capacity.
 
-Much of the network survived its financiers. Cheap bandwidth became an input into the next generation of internet companies. Applications that would have been expensive or impossible on scarce networks became ordinary. The builders had helped create abundance, and abundance was excellent for the businesses and consumers buying connectivity.
+Fiber networks are expensive to build and cheap to use once they exist. A carrier expecting traffic growth can justify a large network on the assumption that future customers will fill it. Rival carriers can perform the same calculation. Improvements in optical equipment can then increase the amount of data carried by fiber already in the ground.
 
-It was less excellent for anyone whose investment case depended on bandwidth remaining scarce.
+The shortage can disappear from two directions at once: more cable and more capacity per cable.
 
-This is where the railroad, radio, and fiber stories begin to rhyme without becoming identical.
+A Federal Reserve Bank of Richmond review published in 2003 reconstructed what followed. Telecommunications investment surged during the second half of the 1990s. Equity valuations rose with it. By the end of 2000 the sector's market value had fallen sharply, while reports of excess long-haul capacity were becoming common. One industry estimate cited in the review described nearly 600,000 miles of new inter-city fiber on the way even as capacity prices were falling and important customers were failing.
 
-Railroads overbuilt routes whose economics depended on local traffic, competition, debt, and a network that took decades to mature. Radio mixed a rapidly diffusing consumer technology with patents, manufacturing, broadcasting, advertising, and an equity market willing to capitalize distant growth. Fiber combined enormous sunk costs with a technology whose capacity improved quickly enough to make yesterday's shortage tomorrow's glut.
+The imbalance outlived the stock-market excitement.
 
-The common element is not simply speculation. It is a mismatch in timing between the arrival of a technology and the maturation of its economics.
+In 2004, TeleGeography data reported by Wired showed long-haul bandwidth prices still collapsing even while worldwide internet traffic had more than doubled over the preceding year. Average prices on major U.S. routes were down 55 percent in a year and more than 90 percent over four years. Only a fraction of the fiber connecting major cities was lit.
 
-A useful new technology creates an invitation to invest. Early scarcity produces high prices or the expectation of them. High expected returns attract capital. Capital builds capacity. Competitors arrive. Technical knowledge spreads. Standards improve. Bottlenecks loosen. Customers gain alternatives. The thing investors were betting on becomes more abundant.
+Usage was exploding. Prices were falling through the floor.
 
-Sometimes that abundance is the victory.
+That was not a paradox. It was supply.
 
-The railroad network becomes dense enough to reorganize manufacturing. Radio receivers become cheap enough to enter ordinary homes. Bandwidth becomes inexpensive enough to support businesses built on moving enormous quantities of data.
+A network can carry more traffic every year while its owners earn less per unit. If capacity expands faster than demand, if technical progress makes installed assets more productive, or if competition prevents providers from holding price, the social value of the network can rise while the economics of owning it deteriorate.
 
-The society gets the revolution.
+WorldCom gave the period its most spectacular bankruptcy, but it is a poor example if treated as a simple victim of overbuilding. Its collapse involved accounting fraud. The company's own later SEC filing acknowledged that previously issued financial statements had not been prepared in accordance with GAAP and recorded its July 2002 Chapter 11 filing.
 
-The original capital does not necessarily get the rents.
+Fraud belongs in the story because it happened. It should not be asked to explain the whole sector.
 
-There is an important counterexample hiding inside that statement. Not every buildout ends in ruin, and not every early investor is diluted away by competition. Network position can persist. Standards can entrench incumbents. Scarce rights of way, patents, brands, distribution, regulation, and scale can protect returns. RCA remained an important company for decades after the crash. Strong railroads survived waves of weaker competitors. Telecommunications networks that emerged from the bust continued to generate cash.
+The telecommunications bust also contained excess capacity, falling bandwidth prices, heavy debt, failed customers, and capital that could not easily be unbuilt. An industry can contain criminal accounting and still have an ordinary capital-cycle problem underneath it.
 
-A boom can therefore be both overbuilt in aggregate and rational in particular places. The difficulty is knowing which is which before the capacity arrives.
+The fiber is the more revealing artifact.
 
-That is the problem confronting artificial intelligence now.
+Much of it survived the companies that financed it. Cheap bandwidth became an input into the next generation of internet businesses. Applications that would have been uneconomic on scarce networks became ordinary once connectivity was abundant.
 
-The analogy should not be pushed too far. GPUs are not railroad track. Models are not radio networks. Data centers are not long-haul fiber. AI demand may grow fast enough to absorb extraordinary investment. Hardware may remain scarce. A small number of firms may hold durable advantages. The capital cycle can be interrupted by demand that keeps surprising to the upside.
+The builders had helped create the abundance.
 
-History offers no timetable for a crash and no law saying that large capital expenditure must be excessive.
+That was wonderful for customers who bought bandwidth and less wonderful for investors whose returns depended on bandwidth remaining scarce.
 
-What it does offer is a recurring mechanism.
+Railroads, radio, and fiber do not tell the same story. The differences matter.
 
-When a technology becomes obviously important, the price of being late rises. Companies invest not only because today's demand justifies capacity but because failing to prepare for tomorrow could threaten the franchise. Competitors see the same future. Financing follows the expected scarcity. Construction begins before the eventual market structure is known.
+Railroads involved local routes, large debt loads, rights of way, and a network that matured over decades. Radio combined patents, manufacturing, broadcasting, advertising, and a fast-moving consumer market. Fiber combined enormous sunk costs with a technology whose carrying capacity improved quickly enough to make yesterday's shortage tomorrow's glut.
+
+What rhymes is the timing.
+
+A useful technology creates an invitation to invest. Early scarcity produces high prices or the expectation of them. High expected returns attract capital. Competitors arrive. Standards improve. Technical knowledge spreads. Capacity expands. Customers gain alternatives. The object of investment becomes less scarce partly because everybody invested in it.
+
+Sometimes that abundance is the whole social victory.
+
+The railroad network becomes dense enough to reorganize manufacturing. Radio receivers become cheap enough to sit in ordinary homes. Bandwidth becomes inexpensive enough to support businesses built on moving absurd amounts of data.
+
+Society gets the revolution.
+
+The original capital does not necessarily keep the rents.
+
+That is not a law. Strong firms can defend attractive economics. Scarce rights of way, patents, brands, regulation, scale, distribution, or network position can protect returns for decades. RCA remained important long after 1929. Strong railroads outlived waves of weaker competitors. Telecommunications networks that emerged from the bust continued generating cash.
+
+A buildout can be excessive in aggregate and rational in particular places.
+
+The difficulty is knowing which places before the capacity arrives.
+
+That is the useful historical question for artificial intelligence.
+
+The analogy should be handled with care. GPUs are not railroad track. Models are not radio networks. Data centers are not long-haul fiber. AI demand may grow quickly enough to absorb extraordinary investment. Hardware may remain scarce. A small number of companies may hold durable advantages. The capital cycle can be postponed or even defeated by demand that keeps surprising to the upside.
+
+History gives us no date for a crash and no rule saying that large capital expenditure must be excessive.
+
+It gives us a mechanism.
+
+When a technology becomes obviously important, the cost of being late rises. Companies invest not only because today's demand justifies capacity but because failing to prepare for tomorrow could threaten the franchise. Competitors see the same future. Financing follows the expected scarcity. Construction begins before anyone knows the final market structure.
 
 Then the investments change the conditions that justified them.
 
-Railroad builders created competing routes. Radio manufacturers and networks created a mass market in which technical novelty became ordinary. Fiber carriers created so much communications capacity that bandwidth prices collapsed while usage soared. The act of investing against scarcity helped destroy the scarcity.
+Railroad builders created competing routes. Radio companies helped turn technical novelty into a mass market. Fiber carriers created so much communications capacity that bandwidth prices collapsed while usage soared.
 
-This is the part of a technology boom that a forecast of adoption cannot answer.
+The act of investing against scarcity helped destroy the scarcity.
 
-You can correctly predict that millions of people will use the technology. You can correctly predict that traffic will rise, that productivity will improve, that a new network will become essential. None of those forecasts tells you how many competitors will finance the same future, what capacity they will create, how quickly unit prices will fall, or which layer of the system will keep the margin.
+A forecast of adoption cannot answer that problem.
 
-The historical record is therefore less comforting to either side of the AI argument than it first appears.
+You can correctly predict that millions of people will use a technology. You can correctly predict that traffic will rise, productivity will improve, and a new network will become essential. None of those forecasts tells you how many competitors will finance the same future, how much capacity they will create, how quickly unit prices will fall, or which layer of the system will keep the margin.
 
-It does not tell skeptics that every technological boom is fraudulent. The railroads raised productivity. Radio transformed communication. Fiber became the circulatory system of the internet.
+That is why the historical record is inconvenient for both sides of the AI argument.
 
-It does not tell optimists that being right about adoption is enough. Investors financed assets whose social usefulness outlived the financial claims that built them.
+The skeptics do not get to dismiss every boom as fraud. Railroads raised productivity. Radio transformed communication. Fiber became part of the circulatory system of the internet.
 
-The harder question is what turns an obvious shortage into an eventual surplus.
+The optimists do not get to stop at adoption. Investors financed assets whose social usefulness outlived the financial claims that built them.
 
-For that, history needs a mechanism rather than another anecdote.
+The next question is not whether AI demand is real.
 
-The mechanism begins with a signal every investor likes to see: high returns.
+It is what happens to returns when high returns call forth more capital.
+
+That is the capital cycle.
