@@ -28,9 +28,9 @@ The oldest stages of fire use were probably less dramatic than any myth. There n
 
 The European record warns against telling the story too smoothly. Hominins occupied parts of Europe long before convincing signs of habitual fire use become common. Wil Roebroeks and Paola Villa, reviewing the evidence, argued that regular fire use becomes clearly visible only around 300,000 to 400,000 years ago despite much earlier occupation at northern latitudes.
 
-That absence is inconvenient if fire is treated as an instant evolutionary revolution. It is also useful. Early fire may have left poor traces. Some groups may have used it intermittently. Natural sources may have been enough in some places. Archaeologists may simply be missing the right sites. Whatever the explanation, a technological capability can be real without being universal, and useful without immediately reorganizing everyone’s life.
+That absence is inconvenient if fire is treated as an instant evolutionary revolution. Early fire may have left poor traces. Some groups may have used it intermittently. Natural sources may have been enough in some places. Archaeologists may simply be missing the right sites. Whatever the explanation, a technological capability can be real without being universal, and useful without immediately reorganizing everyone’s life.
 
-The distinction will recur throughout this book. Invention gives history a moment; diffusion gives it a system. Steam engines, electrical grids, nuclear reactors, batteries, and machine intelligence matter at civilizational scale only after people learn to maintain them, reproduce them, connect them to complementary infrastructure, and make them ordinary enough that other activities begin to depend on them.
+This distinction will recur throughout the book. Invention gives history a moment; diffusion gives it a system. Steam engines, electrical grids, nuclear reactors, batteries, and machine intelligence matter at civilizational scale only after people learn to maintain them, reproduce them, connect them to complementary infrastructure, and make them ordinary enough that other activities begin to depend on them.
 
 Fire may be the oldest example.
 
@@ -62,33 +62,27 @@ This is a subtler use of fire than warmth, but technologically it is revealing. 
 
 That logic eventually becomes familiar in kilns, furnaces, forges, refineries, chemical plants, and semiconductor fabs. It is already present, in a much simpler form, when heat is used to alter stone before the stone is shaped.
 
-The same chemistry that destroys structure can help manufacture it when temperature, duration, material, and location are controlled well enough. That is why fire is not progress by itself. Wildfire, accidental house fire, scorched crops, smoke injury, and warfare belong to the same physical family as the hearth and furnace. The ability to release more energy enlarges the scale of possible damage as surely as it enlarges useful work.
-
-A settlement burning to the ground may consume more fuel than the hearths that previously warmed it. Fuel quantity alone cannot tell us which event represents an advance.
+The same chemistry that destroys structure can help manufacture it when temperature, duration, material, and location are controlled well enough. Wildfire, accidental house fire, scorched crops, smoke injury, and warfare belong to the same physical family as the hearth and furnace. More released energy enlarges the scale of possible damage as surely as it enlarges useful work. A settlement burning to the ground may consume more fuel than the hearths that warmed it.
 
 This is where power meets information. Wood contains chemical energy, but wood does not decide whether it becomes warmth, cooked food, a hardened material, smoke, or catastrophe. The arrangement of the hearth, the choice of fuel, the timing of feeding, the knowledge of ignition, and the decision to heat one object rather than another are instructions imposed on a physical process.
 
-Much later, Alfred Lotka would describe evolution partly through the capture and use of available energy. Anthropologist Leslie White would put energy near the center of a theory of cultural development. Nikolai Kardashev would classify hypothetical extraterrestrial civilizations by the scale of power they could command. Their arguments are too different to merge into one doctrine, and none can be read backward as proof of what happened at Wonderwerk. They persist for a related reason: a system’s capabilities are constrained by the power it can access, but access is never just the presence of fuel.
+Much later, Alfred Lotka would describe evolution partly through the capture and use of available energy. Anthropologist Leslie White would put energy near the center of a theory of cultural development. Nikolai Kardashev would classify hypothetical extraterrestrial civilizations by the scale of power they could command. Their arguments are too different to merge into one doctrine, but they point toward the same constraint: a system’s capabilities depend partly on the power it can access, while access itself depends on knowledge and organization.
 
-Wood can surround a group that has lost the knowledge of fire and remain useless as a source of controlled heat. A technique can survive in memory while the available landscape is stripped of fuel. Capability lives in the fit between material, energy, knowledge, and organization.
+The archaeology makes that dependence difficult to romanticize. A group can live among wood and still lack reliable fire. A useful technique can disappear. Knowledge can survive while fuel becomes scarce. Capability lives in the fit between material, energy, knowledge, and organization.
 
-That fit can be fragile. We look backward and say humanity had fire, as if a species acquires a technology once and permanently. The archaeology suggests something rougher. Some groups may have had fire intermittently. Some may have known how to preserve it but not ignite it reliably. Useful techniques can disappear. Technologies persist because people keep carrying them.
+That is the part hidden by phrases like “the discovery of fire.” They compress a long, uneven process into a possession. The evidence suggests something rougher: some groups may have used fire intermittently, some may have known how to preserve it without being able to ignite it reliably, and techniques that worked in one place or generation could fail to persist in another.
 
-The Prometheus story, accidentally or not, understands this better than the phrase “discovery of fire.” Its flame matters because it survives a journey. Every major energy system since has faced a more elaborate version of the same problem.
+Prometheus, accidentally or not, understands the problem better. His flame matters because it survives a journey.
 
-Coal is useless to a factory if it cannot be mined and transported. Falling water is useless to a distant machine until mechanical or electrical systems bridge the distance. A power station without a grid is an isolated source. A battery without a way to charge it is a container waiting for a system. A nuclear reactor without trained operators, maintenance, fuel services, transmission, and institutions is not a civilization-scale power source. Abundant energy can remain stranded.
+The same problem becomes more elaborate later. Coal has to be mined and transported. Electricity requires a network, not merely a generator. Reactors require operators, maintenance, fuel services, transmission, and institutions. A resource can be abundant and still remain stranded.
 
 Fire is the small, ancient version: fuel, ignition, containment, transport, practice.
 
-This is also why invention dates can mislead. James Watt’s improvements did not cause an industrial economy to materialize the day a better steam engine worked. Thomas Edison’s lamps did not electrify a continent the moment they glowed. Later chapters will spend more time on those delays because they reveal what a breakthrough requires before ordinary life can safely assume it will be there.
-
 Once people build routines around a capability, losing it becomes costly. A flame that must survive the night is already beginning to resemble infrastructure.
 
-None of this means a hearth created civilization. Fire did not create language, cooperation, symbolic thought, family structures, trade, or institutions by itself. Those claims outrun the evidence and underestimate everything else humans were doing. Energy is not a substitute for intelligence or culture. It is one of the physical media through which intelligence and culture acquire consequences beyond the body.
+None of this means a hearth created civilization. Fire did not create language, cooperation, symbolic thought, family structures, trade, or institutions by itself. Energy is not a substitute for intelligence or culture. It is one of the physical media through which intelligence and culture acquire consequences beyond the body.
 
 A thought can choose to heat stone. It still needs a process capable of delivering heat.
-
-That relationship between intention and power is more useful than the claim that energy alone drives history. Knowledge can redirect the same fuel toward radically different ends. Organization can maintain a capability across generations. Institutions can spread it, restrict it, tax it, weaponize it, or widen access to it. Energy sets some physical possibilities; human systems decide what to do with them, often badly.
 
 At Wonderwerk Cave, none of those later systems are visible. That is part of the site’s value. The evidence is too sparse to support grandeur. There is no city to dazzle us and no machine complex enough to hide the basic relationship. There are tiny remains in sediment, altered by heat, deep enough inside a cave that their location matters.
 
