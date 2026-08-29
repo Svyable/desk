@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 of 21 drafted |
+| **Chapters** | 5 of 21 drafted |
 
 ## Contents
 
@@ -15,7 +15,7 @@
 - [x] [Ch 2 — Why Gates Exist](manuscript/ch02-why-gates-exist.md)
 - [x] [Ch 3 — Permission Is a Form of Power](manuscript/ch03-permission-is-a-form-of-power.md)
 - [x] [Ch 4 — The Queue](manuscript/ch04-the-queue.md)
-- [ ] [Ch 5 — The Credential](manuscript/ch05-the-credential.md)
+- [x] [Ch 5 — The Credential](manuscript/ch05-the-credential.md)
 - [ ] [Ch 6 — The Credit Decision](manuscript/ch06-the-credit-decision.md)
 - [ ] [Ch 7 — Prior Authorization](manuscript/ch07-prior-authorization.md)
 - [ ] [Ch 8 — The Border](manuscript/ch08-the-border.md)
@@ -38,6 +38,7 @@
 
 - [Research brief, counterevidence, and chapter-to-evidence map](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
+- [Chapter evidence notes](research/chapters/)
 
 ## Review status
 
