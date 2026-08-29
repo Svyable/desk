@@ -8,7 +8,7 @@
   "writeHref": "../desk/",
   "writeLabel": "Publishing Desk",
   "homeLabel": "Desk",
-  "storagePrefix": "svb",
+  "storagePrefix": "svyable-desk",
   "steps": [],
   "github": {
     "owner": "Svyable",
