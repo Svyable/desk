@@ -3,8 +3,6 @@
 # New Desk instances created with Bookself's stamp-instance.sh already include
 # these directories; this helper is for an older instance that predates that rule.
 #
-# The GitHub repository slug is still `binder`, but its Bookself role is Desk.
-#
 # Usage: scripts/bootstrap-ui.sh [path-to-bookself]
 set -eu
 
