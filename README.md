@@ -70,6 +70,7 @@ confidential.
 | [The Value Stack](books/the-value-stack/) | Sven Hard Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/the-value-stack/) | Not released |
 | [The Delegation Machine](books/the-delegation-machine/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) | Not released |
 | [The Abstraction Trap](books/the-abstraction-trap/) | Sven Hard Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/the-abstraction-trap/) | Not released |
+| [Gatekeepers](books/gatekeepers/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/gatekeepers/) | Not released |
 
 ## The simple workflow
 
