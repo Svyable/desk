@@ -26,6 +26,7 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Silent Cartel](https://svyable.github.io/self/books/silent-cartel/README.md): complete draft; how pricing algorithms learned to produce cartel-like outcomes without any seller ever communicating with another, and the litigation, laboratory research, and regulation now responding to it.
 - [Useful Noise](https://svyable.github.io/self/books/useful-noise/README.md): complete draft by Sven Hardy Benson; engaging science and futurism about open quantum systems, organic photovoltaics, polaritons, metrology, manufacturing, and the public `Svyable/quantum-energy` research program.
 - [Keep Cooking](https://svyable.github.io/self/books/keep-cooking/README.md): complete draft by Sven Hardy Benson; token maxing, cheap machine cognition, agent loops, labor, firms, households, energy, markets, global distribution, and who wins when AI keeps thinking.
+- [The Delegation Machine](https://svyable.github.io/desk/books/the-delegation-machine/README.md): complete draft by Sven Hardy Benson; delegation from ancient stewards and bureaucracies through daemons, APIs, automation, and AI agents, plus a practical Delegation Stack field guide.
 
 ## The World Beneath the World
 
@@ -198,6 +199,35 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Research brief](https://svyable.github.io/self/books/keep-cooking/research/README.md)
 - [Chapter briefs and falsification notes](https://svyable.github.io/self/books/keep-cooking/research/chapter-briefs.md)
 - [Source ledger](https://svyable.github.io/self/books/keep-cooking/research/source-ledger.csv)
+
+## The Delegation Machine
+
+- [Book hub — The Delegation Machine](https://svyable.github.io/desk/books/the-delegation-machine/README.md)
+- [Practical companion — The Delegation Machine Field Guide](https://svyable.github.io/desk/books/the-delegation-machine/FIELD-GUIDE.md)
+- [Front Matter — A Note From the Principal](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/front-matter.md)
+- [Chapter 1 — The Errand](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch01-the-errand.md)
+- [Chapter 2 — Write It Down](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch02-write-it-down.md)
+- [Chapter 3 — The Steward](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch03-the-steward.md)
+- [Chapter 4 — The Seal and the Signature](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch04-the-seal-and-the-signature.md)
+- [Chapter 5 — A Chain of Command](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch05-a-chain-of-command.md)
+- [Chapter 6 — The Clerk Republic](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch06-the-clerk-republic.md)
+- [Chapter 7 — The Firm](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch07-the-firm.md)
+- [Chapter 8 — The Proxy Problem](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch08-the-proxy-problem.md)
+- [Chapter 9 — The Checklist](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch09-the-checklist.md)
+- [Chapter 10 — The Automatic Pilot](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch10-the-automatic-pilot.md)
+- [Chapter 11 — The Daemon](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch11-the-daemon.md)
+- [Chapter 12 — The API](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch12-the-api.md)
+- [Chapter 13 — The Warehouse That Comes to You](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch13-the-warehouse-that-comes-to-you.md)
+- [Chapter 14 — The Model in the Loop](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch14-the-model-in-the-loop.md)
+- [Chapter 15 — The Agent Gets a Key](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch15-the-agent-gets-a-key.md)
+- [Chapter 16 — The Permission Problem](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch16-the-permission-problem.md)
+- [Chapter 17 — The Receipt](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch17-the-receipt.md)
+- [Chapter 18 — The Metric Eats the Mission](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch18-the-metric-eats-the-mission.md)
+- [Chapter 19 — The Human Override](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch19-the-human-override.md)
+- [Chapter 20 — The Institution Without an Office](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch20-the-institution-without-an-office.md)
+- [Chapter 21 — A Civilization of Deputies](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/ch21-a-civilization-of-deputies.md)
+- [Back Matter](https://svyable.github.io/desk/books/the-delegation-machine/manuscript/back-matter.md)
+- [Research and falsification trail](https://svyable.github.io/desk/books/the-delegation-machine/research/README.md)
 
 ## Interpretation notes for agents
 
