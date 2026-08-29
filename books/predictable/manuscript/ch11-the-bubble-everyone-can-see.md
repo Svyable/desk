@@ -2,382 +2,240 @@
 
 On August 26, 2026, NVIDIA reported $96.2 billion of quarterly revenue.
 
-The number was so large that it made one kind of argument about artificial intelligence increasingly difficult to sustain. This was not an industry living only on venture decks and promises. Data-center revenue reached $89.0 billion in the quarter, up 117 percent from a year earlier. Gross margin was 75 percent. For the next quarter, NVIDIA expected $108 billion of revenue, plus or minus 2 percent.
+Data-center revenue reached $89.0 billion, up 117 percent from a year earlier. Gross margin was 75 percent. Management expected $108 billion of revenue in the following quarter, plus or minus 2 percent.
 
-A supplier at the center of the boom was not waiting for demand to arrive.
+A supplier at the center of the AI boom was not waiting for demand to appear.
 
 Demand had arrived.
 
-That is the awkward place to begin a chapter about bubbles.
+That is an inconvenient place to begin a chapter about bubbles.
 
-The easiest bubble stories are told after the fact. Prices were absurd. Capital was reckless. Everyone should have known. The winners are obvious because the losers have already been sorted. A chart bends upward, then downward, and the human mind supplies inevitability to both halves.
+The easy bubble story is told after the collapse. The chart has already bent downward. The weakest companies have failed. Projects that once looked visionary now look absurd. Hindsight arranges the evidence into a morality play in which the warning signs were obvious and only greed prevented anyone from seeing them.
 
-The harder task is to stand inside the boom while the evidence is still mixed.
+The harder task is to stand inside a boom while the evidence still points in both directions.
 
-In August 2026, artificial intelligence offered unusually strong evidence on both sides.
+In August 2026, the bullish evidence was unusually strong.
 
-The bullish case was not theoretical. NVIDIA's data-center business was doubling at enormous scale. Microsoft had just finished a fiscal year with $331.8 billion of revenue and $155.2 billion of operating income. Azure and other cloud services grew 43 percent in the June quarter. A few months earlier, Microsoft said customer demand continued to exceed available cloud capacity even after it had added another gigawatt during the quarter. AWS revenue grew 37 percent in the June quarter and generated $16.6 billion of operating income. Meta's revenue rose 28 percent year over year.
+Microsoft had just completed a fiscal year with $331.8 billion of revenue and $155.2 billion of operating income. Azure and other cloud services grew 43 percent in the June quarter. Earlier in the year, Microsoft said demand was still exceeding available capacity even after the company had added another gigawatt during a single quarter.
 
-The infrastructure was expensive because customers were using it.
+AWS revenue rose 37 percent to $42.2 billion in the June quarter and produced $16.6 billion of operating income.
 
-At the same time, the capital required to supply that demand was changing the financial character of the industry.
+Google Cloud entered 2026 with a $240 billion backlog and a 30.1 percent operating margin. Alphabet said large customers were consuming commitments faster than initially expected.
 
-Amazon reported that trailing twelve-month free cash flow had fallen to an outflow of $7.6 billion. The main reason was a $66.1 billion year-over-year increase in purchases of property and equipment, which Amazon said primarily reflected investment in artificial intelligence. Meta spent $31.1 billion on capital expenditures and finance-lease principal in one quarter and narrowed its 2026 capital-expenditure outlook to $130 billion to $145 billion. Its quarterly free cash flow fell to $784 million even as revenue reached $60.8 billion.
+These are not the numbers of an infrastructure system already choking on obvious excess capacity.
 
-Neither fact proves excess.
+At the same time, the cost of supplying that demand was changing the financial profile of the builders.
 
-That is precisely the point.
+Amazon's trailing twelve-month free cash flow had fallen to negative $7.6 billion, largely because property-and-equipment purchases had risen sharply with AI investment. Meta spent $31.1 billion on capital expenditures and finance-lease principal in the second quarter and guided to $130 billion to $145 billion of full-year capex. Microsoft was adding property and equipment at a pace unprecedented in its history.
 
-A company can have excellent demand and still invest too much. It can also have terrible-looking near-term cash flow because it is building capacity that will earn exceptional returns later. The difference does not appear in the capital-expenditure line by itself.
+Strong demand and uncomfortable capital intensity can coexist.
 
-It appears in what happens next.
+That is the point.
 
-This is why the search for a single bubble indicator is so tempting and so unreliable.
+A company can spend too much into a real market. It can also produce ugly near-term cash flow while building assets that later earn extraordinary returns.
 
-A high valuation is not enough. A high capital budget is not enough. Fast revenue growth is not enough. Falling prices are not enough. Expensive financing is not enough. Project cancellations are not enough.
+The capex line cannot tell us which future we are in.
 
-Each can be evidence.
+We need to know what happens after the shortage starts to ease.
 
-None is a verdict.
+That is the diagnostic that matters most.
 
-The more useful approach is to ask what a healthy industrial buildout should look like as new capacity arrives, then watch for the ways reality begins to depart from that path.
+During a shortage, almost everything looks healthy. New capacity arrives and is absorbed quickly. Customers complain that they cannot get enough. Suppliers hold price. Backlogs grow. Management raises spending plans because the latest spending appears vindicated.
 
-The first test is utilization.
+Microsoft's 2026 disclosures describe exactly that environment. Azure was growing around forty percent, the company added a gigawatt of capacity in one quarter, and management still expected constraints through the end of the calendar year.
 
-During the early stage of a shortage, utilization is easy to misunderstand because the bottleneck hides it. If customers want more GPUs than a cloud provider can deliver, the provider may run available capacity at very high levels. The shortage validates past investment and encourages more.
+That is strong evidence against a mature overcapacity thesis.
 
-Microsoft's disclosures in early 2026 described exactly this environment. In its fiscal third quarter, Azure grew 40 percent, and management said strong demand across workloads, customer segments, and regions continued to exceed available capacity. The company had delivered a gigawatt of additional capacity during the quarter and still expected constraints to persist through the end of the calendar year.
+A capacity bubble does not have to reveal itself while customers are still waiting in line.
 
-This is powerful evidence against a simple overcapacity thesis.
+It reveals itself when the line gets shorter and the assets keep arriving.
 
-If the new machines are arriving and immediately being monetized, the capital cycle has not yet reached the stage in which capacity visibly outruns demand.
+If that point comes, the first thing to watch is utilization—not in the abstract, but across generations of hardware and newly opened sites.
 
-But the relevant question is not whether utilization is high during the shortage.
+Are current-generation accelerators still immediately occupied? Do older GPUs remain productive after newer systems arrive? Are recently opened campuses filling on schedule? Are providers moving lower-value workloads onto older hardware because the fleet still has useful economics, or because premium demand is softer than planned?
 
-It is what happens after the shortage eases.
+Companies rarely publish a clean answer.
 
-A bubble in physical capacity does not have to reveal itself while customers are waiting in line. It becomes visible when the line disappears and the assets keep arriving.
+We have to infer it from revenue growth, contract conversion, pricing, margins, depreciation, impairments, capacity commentary, and occasionally the secondhand market for equipment.
 
-The most useful future disclosure would therefore be something companies rarely provide in a clean form: utilization by generation of hardware, region, and workload after accounting for reserved capacity and internal use.
+Backlog helps, provided we remember what it is.
 
-That number would answer several questions at once.
+Microsoft finished fiscal 2026 with commercial remaining performance obligations of $678 billion, up sharply from the prior year. Google Cloud had reported $240 billion of backlog. CoreWeave reported $99.4 billion of revenue backlog at the end of March 2026.
 
-Are older accelerators still busy after a new generation arrives? Are recently opened data centers filling as fast as planned? Is capacity being shifted from internal model training into customer-facing workloads because external demand is stronger, or because internal demand has disappointed? Are lower-cost workloads moving onto older hardware and keeping the fleet productive?
+Those numbers are meaningful counterevidence to the idea that the entire buildout rests on speculative hope.
 
-Public filings usually reveal these answers indirectly.
+They are not cash in the bank.
 
-Cloud revenue growth is one proxy. Backlog is another. Capacity constraints are another. Gross margin can help. So can depreciation, impairment, and commentary about idle or underused assets.
+A contract that covers most of an accelerator's useful life is different from a cancellable forecast. A diversified backlog is different from one dominated by a few customers. A commitment from a strong counterparty is different from an expression of interest. A contract that earns its return before the equipment becomes obsolete is different from one that depends on optimistic resale assumptions.
 
-But none of them is identical to utilization.
+The headline backlog does not tell us all of that.
 
-That distinction matters because the current evidence remains strong.
+Cash conversion tells us something else.
 
-Google Cloud ended 2025 with $240 billion of backlog, more than double the level a year earlier, and Alphabet said its largest customers were using commitments more quickly than originally expected. Microsoft finished fiscal 2026 with commercial remaining performance obligations up 84 percent year over year and Azure growth at 43 percent. CoreWeave reported $99.4 billion of revenue backlog at the end of March 2026.
+For years, the largest American technology companies trained investors to expect high margins, strong free cash flow, and relatively modest capital intensity. AI is changing the combination.
 
-Backlog is not revenue.
+Amazon offers the cleanest current example.
 
-It is still one of the better counterarguments to the claim that infrastructure providers are building entirely on speculation.
+AWS is highly profitable. The consolidated company is simultaneously spending enough on infrastructure to push trailing free cash flow below zero.
 
-The contracts matter.
+Both facts can be healthy.
 
-Their quality matters more.
+The question is what the incremental capital produces.
 
-A long-term commitment from a customer with strong credit is different from a letter of intent. A contract that covers most of an accelerator's useful life is different from a cancellable forecast. A backlog dominated by a few customers is different from diversified demand. A contract whose profitability depends on equipment resale value is different from one that earns an adequate return before the hardware becomes obsolete.
+If another $50 billion of property and equipment generates enough additional gross profit and strategic value to earn an attractive return, today's cash outflow is simply the price of future capacity. If capital keeps accelerating while revenue growth and margins begin to slow, the same outflow becomes more ominous.
 
-The headline number cannot tell us which kind we are looking at.
+The relationship matters more than either number by itself.
 
-This brings the second test: cash conversion.
+Depreciation will make the relationship harder to ignore over time. Buildings, servers, network gear, and accelerators eventually move from construction sites into the expense base. If depreciation rises faster than the gross profit created by the assets, the accounting will begin to expose weaker economics even while revenue still grows.
 
-For years, the largest American technology companies trained investors to expect a particular combination: high margins, strong free cash flow, modest balance-sheet stress, and large capital returns to shareholders.
+If margins recover as capacity fills, the opposite case strengthens.
 
-Artificial intelligence is changing that combination.
+Pricing is the next test because usage alone can mislead.
 
-Amazon is the clearest current example. AWS had an excellent June quarter. Revenue reached $42.2 billion and operating income reached $16.6 billion. The segment was not behaving like an unprofitable experiment.
+OpenAI cut the API price of GPT-5.6 Luna by 80 percent and Terra by 20 percent in July 2026. In August it also reduced promotional API pricing for GPT-5.6 Sol by more than 20 percent for a limited period.
 
-Yet Amazon's consolidated trailing free cash flow turned negative because property-and-equipment purchases surged.
+Those price declines are not automatically bearish.
 
-The two facts coexist without contradiction.
+They may be one of the main reasons usage keeps growing.
 
-AWS can be highly profitable while the marginal dollar of new infrastructure eventually earns less than the existing fleet. Or the new infrastructure can earn returns high enough to make today's negative free cash flow look trivial in retrospect.
+A task that makes no sense at twenty dollars can become routine at two. A developer who invokes a model occasionally may call it continuously once the cost falls. Video, agents, scientific workloads, and robotics can consume far more computation than ordinary chat.
 
-The diagnostic is not the current free-cash-flow number.
+The issue is elasticity.
 
-It is the relationship between incremental capital and incremental cash earnings over time.
+If unit prices fall by half and paid usage triples, revenue rises. If usage grows only twenty percent, revenue falls. If serving costs decline faster than price, margins can strengthen even as customers pay less. If competitive price cuts run ahead of efficiency gains, margins compress.
 
-If capital expenditure keeps rising by tens of billions of dollars while attributable revenue growth decelerates, that would be evidence that the buildout is moving ahead of monetization. If depreciation rises faster than gross profit for several years, that would be another warning. If operating margins recover as new capacity fills, the same data would support the opposite conclusion.
+The healthy version of abundance is falling cost per useful task, rapidly expanding consumption, high infrastructure utilization, and stable or rising aggregate gross profit.
 
-Meta illustrates why this cannot be read in one quarter.
+The unhealthy version is falling prices, slowing volume growth, weakening margins, and a construction pipeline that keeps delivering assets because the commitments were made years earlier.
 
-Its June 2026 operating margin fell to 31 percent from 43 percent a year earlier. Costs and expenses rose 55 percent. Capital expenditures were $31.1 billion. Free cash flow was only $784 million.
+Cheaper AI is compatible with both.
 
-Those numbers look like the opening paragraph of a bearish report.
+Financing tells us how much error the system can tolerate.
 
-They are incomplete.
+The biggest hyperscalers are unusually resilient because they can fund infrastructure from enormous operating cash flows. That makes the current boom less fragile than a classic debt-dependent mania.
 
-The quarter also contained $2.4 billion of legal charges and $1.18 billion of severance expense. Revenue grew 28 percent. Meta still expected full-year operating income to exceed 2025. Its advertising system, which increasingly uses AI in ranking and targeting, continued to produce both higher ad impressions and higher average ad prices.
+But the buildout extends beyond their balance sheets.
 
-A margin decline caused by investment is not automatically evidence that the investment is failing.
+Specialist cloud companies, data-center developers, utilities, equipment makers, and infrastructure vehicles finance parts of the chain differently.
 
-The signal becomes more interesting if the margin does not recover after the infrastructure begins producing revenue or measurable cost savings.
+CoreWeave shows why this matters.
 
-That is the third test: pricing.
+At the end of June 2026, the company carried more than $25 billion of debt and $16.3 billion of operating lease liabilities. Some delayed-draw facilities had effective interest rates in the high single digits to mid-teens.
 
-The most persistent mistake in technology investing is to assume that more usage necessarily means more supplier profit.
+It also had extraordinary demand.
 
-It does not.
+First-quarter revenue had reached about $2.1 billion and backlog $99.4 billion.
 
-The internet taught this lesson repeatedly. Traffic could explode while bandwidth prices collapsed. Computing could become indispensable while the cost of a unit of compute fell. Consumers could receive enormous value while competition moved much of the surplus away from the companies that financed the first wave.
+The correct conclusion is not that debt proves the capacity is unwanted.
 
-AI is already producing the same ambiguity.
+It is that expensive financing leaves less room for the forecast to be wrong.
 
-On July 30, 2026, OpenAI cut the API price of GPT-5.6 Luna by 80 percent and Terra by 20 percent after serving-efficiency improvements. On August 21, it cut promotional pricing for GPT-5.6 Sol by more than 20 percent for three months.
+A project financed at 12 percent has less tolerance for delays, price compression, customer concentration, and rapid hardware obsolescence than a campus financed from retained earnings.
 
-Falling prices are not, by themselves, bearish.
+The asset can be useful and the equity return can still disappoint.
 
-They may be one of the strongest forces increasing demand.
+This is why the movement of risk matters.
 
-A task that is uneconomic at twenty dollars can be attractive at two. A model that is too expensive to run continuously may become cheap enough to embed inside a workflow. Lower inference prices can increase total token consumption faster than prices decline.
+If hyperscalers increasingly use outside vehicles to own campuses, power infrastructure, or other long-lived assets, the capital supporting AI does not disappear from the system. It changes owners.
 
-This is the familiar elasticity problem.
+That can be sensible. Pension funds and infrastructure investors may be better matched to long-duration assets than software companies.
 
-If a 50 percent reduction in unit price produces a tripling of usage, revenue rises. If it produces only a 20 percent increase in usage, revenue falls. The technology can become more important in either case.
+The important question is who now bears utilization and residual-value risk.
 
-That is why price and volume have to be watched together.
+Cancellations are useful only when interpreted as a pattern.
 
-The most reassuring version of the AI buildout would show falling cost per unit of useful work, rapidly rising consumption, stable or expanding aggregate gross profit, and high utilization of installed infrastructure.
+One data-center project can be cancelled because demand weakened. It can also be cancelled because power is cheaper elsewhere, a utility queue moved faster in another region, a customer changed hardware plans, or the same capacity can be delivered more efficiently at a different site.
 
-The concerning version would show falling unit prices, slowing consumption growth, declining margins, and new capacity still arriving because the investments were committed years earlier.
+Healthy operators cancel projects.
 
-Both futures are consistent with cheaper AI.
+The warning comes when cancellations begin clustering with softer bookings, lower prices, weaker margins, rising financing costs, and pressure in equipment resale values.
 
-Only one supports today's capital budgets.
+Then the projects stop looking like portfolio optimization and start looking like attempts to escape commitments made under an older demand forecast.
 
-The fourth test is financing discipline.
+Secondhand hardware could become one of the clearest future signals.
 
-The largest hyperscalers can finance infrastructure from enormous internal cash flows. That reduces one classic source of bubble fragility. Microsoft, Alphabet, Amazon, and Meta are not nineteenth-century railroads dependent on rolling over weak balance sheets every few months.
+Rapid improvement creates a tiered market. Frontier training wants the newest systems. Older accelerators can migrate to inference, batch workloads, smaller models, development, or lower-priced cloud services.
 
-But the buildout does not stop at the hyperscalers.
+If that secondary market remains healthy, short product cycles do not necessarily destroy asset economics. Old equipment can keep earning after it loses the frontier.
 
-It extends into specialist cloud companies, data-center developers, utilities, equipment vendors, and financing vehicles whose capital structures look very different.
+If rental rates and resale values for earlier generations collapse while depreciation schedules and financing assumptions still imply long economic lives, the capital cycle becomes visible in the asset itself.
 
-CoreWeave offers a useful window into this layer.
+Ship investors once watched secondhand vessel prices for the same reason. They revealed what existing capacity was worth after new capacity entered the market.
 
-At the end of June 2026, the company reported more than $25 billion of debt. Several delayed-draw term facilities carried effective interest rates between roughly 9 and 15 percent. Operating lease liabilities were $16.3 billion.
+The data for GPUs are not yet as transparent.
 
-The same company also reported extraordinary demand.
+That is normal in a young market. The best indicators often become measurable only after the industry becomes large enough to produce them.
 
-Revenue more than doubled year over year in the first quarter of 2026 to about $2.1 billion, and revenue backlog reached $99.4 billion.
+Adoption is the demand-side counterpart.
 
-This is not a story of lenders financing an empty building.
+The infrastructure buildout will ultimately need customers outside the handful of model laboratories and giant technology companies to use AI much more broadly than they do today.
 
-It is a story of lenders charging high rates to finance exceptionally fast growth in a capital-intensive business whose customers are committing large sums.
+Census evidence suggests real diffusion and substantial remaining headroom.
 
-That distinction is crucial.
+About 18 percent of firms reported using AI in at least one business function during the late-2025 to early-2026 survey period. Weighted by employment, the figure was about 32 percent because large companies adopted much more heavily. Among adopting firms, 57 percent still used AI in three or fewer business functions.
 
-High-cost debt is not proof of a bubble. It is evidence that the margin for forecasting error is smaller.
+That is not a verdict.
 
-A project financed at 12 percent has less tolerance for delay, price compression, customer concentration, or technological obsolescence than a project funded from a company's retained earnings. The capacity can be fully useful and still produce poor equity returns if the financing structure absorbs too much of the economics.
+It is a gap between current practice and some of the demand implied by the capital plans.
 
-The most revealing shift would therefore be a change in who bears the risk.
+If smaller firms adopt, more industries find economical uses, and existing users spread AI through more functions, today's infrastructure may look conservative.
 
-If hyperscalers increasingly push data-center ownership, power contracts, and equipment financing onto outside vehicles, the headline capital budget may understate the amount of capital being mobilized around them. That is not necessarily financial engineering in a pejorative sense. Infrastructure investors may be better suited to own long-lived assets.
+If organizational adoption stalls because the products fail to produce enough value after integration, the same infrastructure can become excessive while frontier models keep improving.
 
-But risk does not disappear when it moves off one balance sheet.
+The customer has its own implementation lag.
 
-It changes owners.
+Enterprises have to connect data, redesign workflows, train people, change controls, manage security, and decide who is accountable when an AI system is wrong. Data centers can be built faster than organizations can learn how to use them well.
 
-The fifth test is cancellation.
+That lag may be temporary.
 
-Cancellations attract attention because they are legible. A project was announced. Then it was stopped. The before-and-after shape feels like proof that expectations have changed.
+It may also be the gap into which overcapacity arrives.
 
-Sometimes it is.
+The last and most important test is what happens to margins after scarcity fades.
 
-More often, the interpretation requires detail.
+Scarcity makes businesses look excellent.
 
-A data center can be canceled because demand weakened. It can also be canceled because another site has cheaper power, a utility connection arrived sooner elsewhere, a customer changed hardware architecture, or the same capacity can be delivered more efficiently in a different building.
+When customers are fighting for accelerators, suppliers have leverage. When powered land is scarce, developers have leverage. When transformers take years to procure, manufacturers have leverage. When cloud capacity is constrained, customers accept terms they might reject in an abundant market.
 
-One cancellation is therefore anecdote.
+Durable economics appear only after competitors respond.
 
-A pattern is information.
+NVIDIA's 75 percent gross margin is evidence of extraordinary current economics.
 
-The pattern to watch is not simply the number of abandoned projects. It is whether cancellations begin to cluster alongside slower bookings, weaker pricing, lower utilization, tighter financing, and equipment resale pressure.
+It is not a law of nature.
 
-The order matters.
+AWS's roughly 39 percent operating margin, Google Cloud's 30.1 percent margin, and Microsoft's strong cloud economics are equally important. They show that this is not yet an industry in which infrastructure abundance has obviously destroyed returns.
 
-During a healthy buildout, companies should cancel some projects. Plans made under uncertainty are supposed to change when better information arrives. A management team that never cancels anything may be less disciplined than one that does.
+Those margins are also why the supply response is so large.
 
-The warning sign is when cancellations stop looking like optimization and start looking like an attempt to outrun commitments made during a different demand regime.
+High returns recruit capital.
 
-The sixth test is resale value.
+If demand compounds fast enough, switching costs remain strong, software ecosystems deepen, and leaders lower their own costs faster than customer prices fall, attractive margins may survive the buildout.
 
-A new accelerator is valuable partly because it can do more work than the hardware it replaces. That same progress makes the previous generation less valuable.
-
-This creates a peculiar capital cycle.
-
-In railroads or power plants, technological improvement can make an asset more efficient without necessarily destroying the usefulness of the old one. In frontier compute, a new generation can materially alter tokens per dollar, memory capacity, networking requirements, and power efficiency within a few years.
-
-An owner may still keep older hardware busy on cheaper workloads.
-
-That secondary market is important.
-
-If previous-generation accelerators retain useful workloads and rental rates above their operating costs, rapid hardware improvement does not imply a write-off. The fleet becomes tiered. Frontier training takes the newest machines; less demanding inference and batch work migrate downward.
-
-If instead older GPUs begin selling or renting at steep discounts while debt and depreciation schedules assume longer economic lives, the capital cycle becomes visible in the asset itself.
-
-Resale prices would then perform the same role that secondhand ship prices performed in earlier cycles: they would reveal what investors believe the existing capacity can earn after the newest capacity arrives.
-
-Public data on this market are still uneven.
-
-That is itself worth remembering.
-
-The most important bubble indicators often become obvious only after the market develops enough transparency to measure them.
-
-The seventh test is adoption outside the frontier.
-
-The AI buildout can be financially rational only if the economic uses of the technology expand beyond a relatively small group of model labs and giant technology companies.
-
-U.S. Census data from late 2025 through early 2026 show meaningful progress and substantial room to go.
-
-About 18 percent of firms reported using AI in at least one business function during the initial supplement period. Weighted by employment, the figure was 32 percent. Adoption was much higher among large companies and in knowledge-intensive industries.
-
-Among adopting firms, however, 57 percent used AI in three or fewer business functions.
-
-This is neither a bearish nor bullish statistic.
-
-It is a map of the distance between current use and the demand embedded in some infrastructure forecasts.
-
-If adoption broadens across smaller firms, more industries, and more functions inside each firm, today's capacity may look conservative. If adoption stalls because products fail to produce adequate returns for customers, the same capacity can become excessive even while frontier models keep improving.
-
-The customer has a capital cycle too.
-
-Enterprises buy software, redesign workflows, train employees, connect data, and accept new risks before AI becomes an ordinary operating input. Infrastructure can arrive faster than organizations change.
-
-That lag is one of the most important uncertainties in the entire investment case.
-
-The eighth test is margins after abundance.
-
-Scarcity makes many businesses look structurally excellent.
-
-When customers are fighting for GPUs, suppliers can charge more. When power is constrained, energized land earns a premium. When transformers have long lead times, manufacturers gain leverage. When cloud capacity is scarce, customers accept fewer alternatives.
-
-The durable economics appear after competitors respond.
-
-NVIDIA's current 75 percent gross margin is evidence of extraordinary economics today. It is not a law of nature.
-
-The same is true of cloud profitability.
-
-AWS produced nearly a 39 percent operating margin in the June quarter. Microsoft finished fiscal 2026 with exceptionally strong company-wide operating income while its cloud businesses continued growing rapidly. Google Cloud reached a 30.1 percent operating margin in the fourth quarter of 2025 while backlog surged.
-
-These are not signs of an industry already collapsing under excess capacity.
-
-They are the opposite.
-
-They also explain why so much capital is entering.
-
-High returns are the signal that recruits competition.
-
-The capital-cycle question is whether the returns remain high after the response arrives.
-
-A healthy outcome can preserve strong margins if the market is concentrated, demand compounds rapidly, software and platform differentiation create switching costs, and the leading companies continue lowering their own costs faster than prices fall.
-
-That outcome would weaken the central argument of this book.
+That outcome would weaken the central bubble thesis.
 
 It should.
 
-A thesis that cannot be weakened by good results is not a thesis. It is a mood.
+A thesis that cannot be weakened by good results is not analysis.
 
-So what, as of August 2026, would make the bubble case weaker?
+As of August 2026, the most useful conclusion is therefore unsatisfying: the evidence for a completed AI overcapacity cycle is not yet there.
 
-Not one quarter of higher revenue.
+Supplier demand is too strong. Cloud backlogs are too large. Capacity constraints are still being reported. Major AI-linked businesses are already monetizing at scale.
 
-A sustained pattern would.
+The risk sits in what the current strength is causing everyone to build.
 
-Capacity additions would continue to be absorbed quickly. Backlogs would convert into revenue without widespread renegotiation. Cloud and AI gross margins would remain healthy after shortages ease. Older accelerators would retain productive workloads. Free cash flow would recover as the first large wave of infrastructure entered service. Enterprise adoption would broaden. Price declines would be matched or exceeded by volume growth. Specialist infrastructure companies would refinance at lower costs as contracts seasoned and risks declined.
+A bearish thesis becomes more persuasive if several things begin happening together: new capacity takes longer to fill; older accelerators lose value faster than assumed; backlog conversion slows; unit prices fall without enough volume response; depreciation and financing costs rise faster than gross profit; enterprise adoption broadens more slowly than infrastructure supply; and margins fail to recover after bottlenecks ease.
 
-That world is entirely plausible.
+The bullish thesis becomes more persuasive if the opposite occurs: capacity fills quickly, contracts convert, older hardware remains economically useful, lower prices create much more demand, cash flow recovers as new assets mature, and margins remain healthy despite abundance.
 
-Several current observations point toward it.
+Neither future requires a change in the laws of AI.
 
-Microsoft still describes demand as exceeding supply. NVIDIA's data-center revenue is accelerating. AWS is growing faster than it has in years. Google Cloud entered 2026 with enormous backlog and improving margins. Large enterprises are adopting AI faster than small ones, exactly where one might expect a complex technology to diffuse first.
+Both are financial outcomes of a technology that keeps improving.
 
-A book about a bubble has to take those facts seriously enough to survive them.
+That is why everyone being aware of the “AI bubble” tells us surprisingly little.
 
-The opposite pattern would matter too.
+A bubble does not require ignorance of the word bubble.
 
-Capacity would come online and the language of shortage would disappear. Bookings growth would slow. Customers would shorten commitments or seek price concessions. API and cloud prices would fall faster than usage rises. Depreciation and interest expense would keep climbing while incremental gross profit flattened. Data-center projects would be canceled in clusters. Financiers would demand more collateral and higher spreads. Older hardware would flood resale markets. Companies would begin talking more about utilization, efficiency, and capital discipline because growth had stopped doing the explanatory work for them.
+It requires a price and a capital structure that assume more favorable economics than reality eventually delivers.
 
-No one signal would be decisive.
+People can discuss that possibility every day and still disagree rationally about whether the current price crosses the line.
 
-Together, they would describe a capital cycle moving from scarcity into excess.
-
-This is why calling the current moment an obvious bubble is unsatisfying.
-
-Many of the things that should be weak in a mature bubble are still strong.
-
-Demand is strong.
-
-Revenue is strong.
-
-Margins at important suppliers are strong.
-
-Backlogs are large.
-
-Capacity remains constrained in parts of the system.
-
-The word bubble can make these facts sound like inconveniences when they are actually the test.
-
-At the same time, many of the conditions that make future excess possible are already present.
-
-Capital expenditure is enormous and still rising. The assets have different economic lives. Unit prices are falling quickly. Outside financing is entering at expensive rates. Infrastructure commitments stretch years beyond the product cycles that motivated them. The same scarcity that validates today's spending is recruiting the supply that can destroy tomorrow's scarcity.
-
-The bubble everyone can see is therefore not a dot on a chart.
-
-It is a set of observable relationships that can change direction.
-
-Capex versus attributable revenue.
-
-Capacity versus utilization.
-
-Price versus volume.
-
-Depreciation versus gross profit.
-
-Backlog versus realized revenue.
-
-Debt service versus operating cash flow.
-
-Announced projects versus energized projects.
-
-The relationships matter more than the level of any one number.
-
-That is a less satisfying answer than a countdown clock.
-
-It is also more useful.
-
-A prediction that the AI boom will crash in 2027 can make someone look prescient if it happens and foolish if it does not. A diagnostic framework has a different job. It should tell us what evidence to notice while the outcome remains uncertain.
-
-The current evidence does not say that the buildout must fail.
-
-It says that the scale of investment has made the consequences of being wrong much larger.
-
-The technology can continue improving through all of it.
-
-Demand can continue growing.
-
-Prices can continue falling.
-
-Those facts can coexist with strong investor returns, mediocre returns, or enormous capital destruction depending on how quickly capacity arrives and who captures the savings.
-
-That is the uncomfortable feature of every genuine technological revolution.
-
-The future can arrive and still disappoint the people who financed it.
-
-If the next chapter has a conclusion, it cannot be a victory lap after a crash that has not happened.
-
-The more durable question is what survives after the price of capital changes.
-
-Railroads still carried freight after receivership. Fiber kept carrying more traffic after telecom bankruptcies. Useful infrastructure often outlives the financial story that paid for it.
-
-If the AI boom eventually breaks, the interesting part will not be proving that someone once overpaid.
-
-It will be discovering what remains valuable after the assumptions are repriced.
+The final chapter is about what remains after reality chooses.
