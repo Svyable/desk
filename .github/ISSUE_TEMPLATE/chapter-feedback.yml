@@ -27,6 +27,7 @@ body:
         - the-loneliness-dividend
         - silent-cartel
         - useful-noise
+        - synthetic-intelligence
         - _TEMPLATE
     validations:
       required: true
