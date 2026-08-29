@@ -38,6 +38,7 @@ body:
         - aggregate-consolidate-innovate
         - the-compatibility-dividend
         - scaling-laws
+        - vectors
         - _TEMPLATE
     validations:
       required: true
