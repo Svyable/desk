@@ -71,6 +71,7 @@ confidential.
 | [The Delegation Machine](books/the-delegation-machine/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) | Not released |
 | [The Abstraction Trap](books/the-abstraction-trap/) | Sven Hard Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) | Not released |
 | [Gatekeepers](books/gatekeepers/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/gatekeepers/) | Not released |
+| [The Compatibility Dividend](books/the-compatibility-dividend/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) | Not released |
 
 ## The simple workflow
 

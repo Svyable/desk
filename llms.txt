@@ -28,6 +28,7 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Keep Cooking](https://svyable.github.io/desk/books/keep-cooking/README.md): complete draft by Sven Hardy Benson; token maxing, cheap machine cognition, agent loops, labor, firms, households, energy, markets, global distribution, and who wins when AI keeps thinking.
 - [The Delegation Machine](https://svyable.github.io/desk/books/the-delegation-machine/README.md): complete draft by Sven Hardy Benson; delegation from ancient stewards and bureaucracies through daemons, APIs, automation, and AI agents, plus a practical Delegation Stack field guide.
 - [The Abstraction Trap](https://svyable.github.io/desk/books/the-abstraction-trap/README.md): drafting by Sven Hard Benson; how maps, money, metrics, models, categories, markets, and algorithms become causal when people begin steering by them.
+- [The Compatibility Dividend](https://svyable.github.io/desk/books/the-compatibility-dividend/README.md): drafting by Sven Hardy Benson; how standards compress coordination, create compatibility dividends, distribute power, and may become the constitutional infrastructure of an autonomous machine economy.
 
 ## The World Beneath the World
 
@@ -260,6 +261,32 @@ Use this file as a low-noise map of the Desk. Working drafts may change. Do not 
 - [Back Matter](https://svyable.github.io/desk/books/the-abstraction-trap/manuscript/back-matter.md)
 - [Research brief and falsification notes](https://svyable.github.io/desk/books/the-abstraction-trap/research/README.md)
 - [Source ledger](https://svyable.github.io/desk/books/the-abstraction-trap/research/source-ledger.csv)
+
+## The Compatibility Dividend
+
+- [Book hub — The Compatibility Dividend](https://svyable.github.io/desk/books/the-compatibility-dividend/README.md)
+- [Front Matter](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/front-matter.md)
+- [Chapter 1 — The Fire Hose That Wouldn't Fit](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch01-the-fire-hose-that-wouldnt-fit.md)
+- [Chapter 2 — The Weight of a Pound](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch02-the-weight-of-a-pound.md)
+- [Chapter 3 — The Thread That Made the Machine](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch03-the-thread-that-made-the-machine.md)
+- [Chapter 4 — Noon Had to Agree](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch04-noon-had-to-agree.md)
+- [Chapter 5 — The Gauge War](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch05-the-gauge-war.md)
+- [Chapter 6 — The Box That Became a Network](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch06-the-box-that-became-a-network.md)
+- [Chapter 7 — The Barcode at Checkout](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch07-the-barcode-at-checkout.md)
+- [Chapter 8 — The Plug Problem](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch08-the-plug-problem.md)
+- [Chapter 9 — The Protocol That Refused to Own the Network](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch09-the-protocol-that-refused-to-own-the-network.md)
+- [Chapter 10 — The Web's Small Vocabulary](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch10-the-webs-small-vocabulary.md)
+- [Chapter 11 — Writing Every Language](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch11-writing-every-language.md)
+- [Chapter 12 — The Dictator Hiding in the Specification](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch12-the-dictator-hiding-in-the-specification.md)
+- [Chapter 13 — Rough Consensus, Running Code](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch13-rough-consensus-running-code.md)
+- [Chapter 14 — When Standards Freeze](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch14-when-standards-freeze.md)
+- [Chapter 15 — Compatibility as Competition Policy](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch15-compatibility-as-competition-policy.md)
+- [Chapter 16 — The Machine Customer](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch16-the-machine-customer.md)
+- [Chapter 17 — Standardizing Agency](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch17-standardizing-agency.md)
+- [Chapter 18 — The Constitution of the Machine Economy](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/ch18-the-constitution-of-the-machine-economy.md)
+- [Back Matter](https://svyable.github.io/desk/books/the-compatibility-dividend/manuscript/back-matter.md)
+- [Research brief](https://svyable.github.io/desk/books/the-compatibility-dividend/research/README.md)
+- [Source ledger](https://svyable.github.io/desk/books/the-compatibility-dividend/research/source-ledger.md)
 
 ## Interpretation notes for agents
 
