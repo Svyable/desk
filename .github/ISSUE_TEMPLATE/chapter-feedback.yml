@@ -34,6 +34,7 @@ body:
         - the-value-stack
         - the-delegation-machine
         - the-abstraction-trap
+        - gatekeepers
         - _TEMPLATE
     validations:
       required: true
