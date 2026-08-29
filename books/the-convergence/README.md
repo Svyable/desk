@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 5 of 12 drafted |
+| **Chapters**  | 6 of 12 drafted |
 
 Energy and the Advance of the Human Race.
 
@@ -20,7 +20,7 @@ The working thesis is that the advance of human civilization can be read through
 - [x] [Ch 3 — Coal and the Compression of Time](manuscript/ch03-coal-and-the-compression-of-time.md)
 - [x] [Ch 4 — The Grid](manuscript/ch04-the-grid.md)
 - [x] [Ch 5 — Energy Becomes Invisible](manuscript/ch05-energy-becomes-invisible.md)
-- [ ] [Ch 6 — The Efficiency Paradox](manuscript/ch06-the-efficiency-paradox.md)
+- [x] [Ch 6 — The Efficiency Paradox](manuscript/ch06-the-efficiency-paradox.md)
 - [ ] [Ch 7 — The Age of Electricity](manuscript/ch07-the-age-of-electricity.md)
 - [ ] [Ch 8 — Intelligence Has a Power Bill](manuscript/ch08-intelligence-has-a-power-bill.md)
 - [ ] [Ch 9 — The Constraint Is the Network](manuscript/ch09-the-constraint-is-the-network.md)
