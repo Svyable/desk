@@ -40,6 +40,7 @@
 - [Validated Desk book-review mandate](examples/desk-book-review.mandate.json) — an illustrative prospective example with bounded authority, external receipts, review triggers, and explicit revocation.
 - [Proof-Carrying Action Receipt JSON Schema](proof-carrying-action.schema.json) — a versioned receipt format where `completed` requires at least one independent evidence source.
 - [Real PR #103 action receipt](examples/pr-103.schema-companion.receipt.json) — a retrospective receipt for an actual Desk merge that explicitly records the absence of a pre-issued machine-readable mandate.
+- [Conformance corpus](conformance/README.md) — paired valid and intentionally invalid cases for agents, implementers, and Draft 2020-12 validators, including correct blocking, forbidden self-approval, scope-expanding subdelegation, unsupported completion, and incomplete rollback.
 
 ## Premise
 
@@ -47,4 +48,4 @@ Civilization advances by learning how to let one person, office, market, machine
 
 ## Working status
 
-This is a complete Desk draft, not a Shelf publication. The research trail lives in `research/README.md` and records the evidence boundaries and falsification notes behind the narrative chapters. The Field Guide, Delegation Protocol, and machine-readable schemas are original syntheses of the book's recurring design patterns; they are practical frameworks and implementation artifacts, not claims that the seven-layer stack is an empirically established law, security certification, legal instrument, or external standard.
+This is a complete Desk draft, not a Shelf publication. The research trail lives in `research/README.md` and records the evidence boundaries and falsification notes behind the narrative chapters. The Field Guide, Delegation Protocol, machine-readable schemas, and conformance corpus are original syntheses of the book's recurring design patterns; they are practical frameworks and implementation artifacts, not claims that the seven-layer stack is an empirically established law, security certification, legal instrument, or external standard.
