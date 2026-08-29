@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 4 of 12 drafted |
+| **Chapters**  | 5 of 12 drafted |
 
 How Ordinary People Build Trust, Opportunity, and a Life of Their Own.
 
@@ -22,7 +22,7 @@ The book follows ordinary people who notice the unclaimed problem, carry more th
 - [x] [Ch 2 — Be Early, Not Loud](manuscript/ch02-be-early-not-loud.md)
 - [x] [Ch 3 — The Two-Minute Favor](manuscript/ch03-the-two-minute-favor.md)
 - [x] [Ch 4 — Learn the Whole Machine](manuscript/ch04-learn-the-whole-machine.md)
-- [ ] [Ch 5 — Keep Your Word Small](manuscript/ch05-keep-your-word-small.md)
+- [x] [Ch 5 — Keep Your Word Small](manuscript/ch05-keep-your-word-small.md)
 - [ ] [Ch 6 — Become Fluent in Other People's Problems](manuscript/ch06-become-fluent-in-other-peoples-problems.md)
 - [ ] [Ch 7 — Do the Work Nobody Claps For](manuscript/ch07-do-the-work-nobody-claps-for.md)
 - [ ] [Ch 8 — Ask for the Hard Job](manuscript/ch08-ask-for-the-hard-job.md)
@@ -39,3 +39,4 @@ The book follows ordinary people who notice the unclaimed problem, carry more th
 - [Chapter 2 research and falsification notes](research/ch02-be-early-not-loud.md)
 - [Chapter 3 research and falsification notes](research/ch03-the-two-minute-favor.md)
 - [Chapter 4 research and falsification notes](research/ch04-learn-the-whole-machine.md)
+- [Chapter 5 research and falsification notes](research/ch05-keep-your-word-small.md)
