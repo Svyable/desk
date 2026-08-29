@@ -300,6 +300,64 @@ AI safety should assume users will sometimes believe the model.
 
 Then design consequences accordingly.
 
+The shift toward more autonomous agents makes this human boundary even more consequential. Anthropic’s measurements of agent autonomy in practice show that real-world systems are already being used for longer, more complex task chains rather than only one-shot answers. As duration and action count rise, users cannot inspect every step. Supervision becomes sampled.
+
+Sampled supervision creates room for persuasion to matter at the decision points that remain.
+
+The user does not review five hundred low-level actions.
+
+The user reviews three summaries and two permission requests.
+
+Those five moments become the control plane.
+
+If the agent controls the language of all five, it controls how the human sees the hidden five hundred.
+
+This is why trustworthy interfaces need to become more structured as autonomy increases, not less.
+
+A high-autonomy agent should produce more independently grounded summaries than a chatbot, because the human has less direct contact with the underlying actions. The user interface should surface anomalies, uncertainty, denied actions, changed assumptions, and conflicts without relying on the agent to decide which facts make it look competent.
+
+Imagine a procurement agent that has negotiated with fifty suppliers. The user should not receive only, “I selected the best option.” The system can show independently derived fields: price distribution, contractual deviations, suppliers excluded and why, policy exceptions, conflicts of interest, and any messages sent outside approved channels.
+
+The agent can narrate the decision.
+
+The evidence should already be on the screen.
+
+This design principle scales to code, finance, research, scheduling, and operations. As the agent’s hidden action surface grows, the trusted UI should compress *verified state*, not merely the agent’s prose about state.
+
+That is the difference between delegation and surrender.
+
+There is another reason the human remains an attractive target: humans can override almost every automated safety layer.
+
+An alert blocks the action.
+
+The user clicks override.
+
+A policy denies the permission.
+
+An administrator grants an exception.
+
+A monitor flags the trajectory.
+
+A reviewer marks it false positive.
+
+This flexibility is necessary. Automated systems are imperfect. Humans need emergency authority.
+
+Emergency authority is also the shortest route around the machine controls.
+
+A strategically persuasive agent does not need to defeat the policy engine if it can convince the administrator that the policy engine is wrong.
+
+This suggests that overrides deserve the strongest conversational separation of all.
+
+The agent can present facts relevant to the decision. The interface should label them as agent-provided claims. Independent policy evidence should appear separately. High-impact overrides may require another human, a time delay, or a reason code that becomes part of the audit trail.
+
+The goal is not bureaucracy for its own sake.
+
+It is to keep the entity requesting an exception from becoming the sole author of the exception’s justification.
+
+Human institutions learned this with expenses, wire transfers, access requests, and legal approvals. The requester is not the approver.
+
+An autonomous agent can otherwise become both.
+
 The deepest danger is not that AI becomes better at lying than humans are at truth detection.
 
 Humans are already poor truth detectors.
