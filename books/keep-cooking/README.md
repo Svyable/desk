@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Complete draft |
-| **Chapters**  | 22 of 22 drafted |
+| **Chapters**  | 25 of 25 drafted |
 
 ## Contents
 
@@ -30,7 +30,10 @@
 - [x] [Ch 19 — Cheap Expertise, Expensive Judgment](manuscript/ch19-cheap-expertise-expensive-judgment.md)
 - [x] [Ch 20 — The Abundance Trap](manuscript/ch20-the-abundance-trap.md)
 - [x] [Ch 21 — Who Wins, Who Loses](manuscript/ch21-who-wins-who-loses.md)
-- [x] [Ch 22 — When to Stop Cooking](manuscript/ch22-when-to-stop-cooking.md)
+- [x] [Ch 22 — The Household Balance Sheet](manuscript/ch22-the-household-balance-sheet.md)
+- [x] [Ch 23 — Markets Full of Minds](manuscript/ch23-markets-full-of-minds.md)
+- [x] [Ch 24 — Three Futures for Cheap Thought](manuscript/ch24-three-futures-for-cheap-thought.md)
+- [x] [Ch 25 — When to Stop Cooking](manuscript/ch25-when-to-stop-cooking.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
