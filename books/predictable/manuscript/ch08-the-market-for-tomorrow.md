@@ -1,451 +1,275 @@
 # The Market for Tomorrow
 
-On October 4, 2024, Americans were suddenly allowed to trade a presidential election on a federally regulated exchange.
+In October 2024, Americans were suddenly able to trade a presidential election on a federally regulated exchange.
 
-The opening came late.
+The market arrived late.
 
-Election Day was barely a month away. Pollsters had been interviewing voters for more than a year. Campaigns had spent hundreds of millions of dollars. Models had been estimating paths through Pennsylvania, Michigan, Wisconsin, Arizona, Georgia, Nevada, and North Carolina. Every cable network had a map. Every newspaper had an average.
+Election Day was barely a month away. Pollsters had spent more than a year calling voters. Campaigns had spent fortunes. Every newspaper had an average and every television network had a map.
 
-Then a new number appeared with a bid and an ask.
+Then one more number appeared.
 
-Kalshi had won a court fight that allowed it to list election contracts. A trader could buy a contract tied to Donald Trump winning the presidency or buy the other side. The exchange did not need to publish a house view. It needed an order book.
+It had a bid and an ask.
 
-Within days, the market had found a disagreement.
+Kalshi had prevailed in a court fight that allowed its election contracts to trade while the government's challenge continued. Participants could buy one side of an outcome and somebody else could take the other.
 
-Kamala Harris began with a narrow lead. On October 10, Trump moved ahead.
+The exchange did not need to publish an editorial view of the race.
 
-That crossover was interesting for a reason that had little to do with whether one preferred the candidate who crossed the line.
+It needed an order book.
 
-Most public polling still described a race close enough to support almost any nervous interpretation. A one-point lead in one state sat next to a tie in another. Sampling error, likely-voter screens, turnout assumptions, weighting choices, and house effects all had to be translated into a judgment about who would actually win an Electoral College majority.
+Within days, the market found a disagreement. Kamala Harris began with a narrow advantage. On October 10, Donald Trump moved ahead.
+
+The crossover was interesting because public polling still described a race close enough to sustain several plausible stories. A polling average does not directly answer who will win an Electoral College majority. Someone still has to think about turnout, polling error, state correlations, likely-voter models, late movement, and the relationship between national and state results.
 
 The market performed that translation continuously.
 
-By November 1, Kalshi's presidential market favored Trump. Its state markets favored him in several of the places that would decide the election. The market was not unanimous, and its prices moved sharply as new information arrived. But it had turned thousands of separate judgments into one thing that ordinary people could observe without reading a polling memo.
+Trump won.
 
-A price.
+He also won the popular vote. A separate Kalshi popular-vote market, which now shows more than $80 million of historical volume, settled yes on that outcome.
 
-Trump won the election.
+This was a visible success for commercial prediction markets.
 
-He also won the popular vote, an outcome that a separate Kalshi market eventually recorded as yes. That market shows more than eighty million dollars of historical volume today.
+It was not proof that markets are simply better than polls.
 
-This was a conspicuous victory for prediction markets.
+Prediction markets attract two opposing myths. One treats them as casinos with charts. The other treats them as truth machines that remove bias by attaching money to opinion.
 
-It was not proof that they are better than polls.
+The evidence supports a more interesting claim.
 
-The distinction is worth making early because prediction markets attract two opposite kinds of mythology. One treats them as casinos with charts. The other treats them as mechanical truth engines that wash bias out of human judgment by attaching money to it.
+Under the right conditions, a market can be an unusually effective machine for gathering scattered information. Those conditions include a clear contract, people with genuinely different information or models, incentives strong enough to make disagreement actionable, transaction costs low enough that errors are worth correcting, and enough liquidity for informed traders to move the price.
 
-Neither description survives much contact with the evidence.
+When those conditions weaken, the number weakens with them.
 
-The serious case for prediction markets is more modest and, for that reason, more interesting.
+That is not an embarrassing exception.
 
-A market can be a remarkably effective machine for gathering scattered information when several conditions line up: the contract is clear, participation is broad enough, traders have something to gain by correcting errors, transaction costs do not overwhelm the opportunity, and there is enough liquidity for informed disagreement to become price rather than remain private opinion.
+It is what makes the subject worth studying.
 
-When those conditions fail, the number can fail with them.
+A poll asks what a person currently believes or intends to do. A market asks something harsher: at this price, will you take the other side?
 
-That is not a weakness unique to prediction markets.
+Suppose a contract pays one dollar if a candidate wins and trades at forty cents. A trader who believes the chance is closer to sixty percent has a reason to buy. If enough participants see the same gap, the price moves. Someone who thinks the optimism has gone too far can trade against them.
 
-It is what makes them markets.
+The disagreement does not have to be settled by persuasion.
 
-The attraction begins with incentives.
+It can be settled, provisionally, by price.
 
-A poll asks what a person believes or intends to do. An expert forecast asks a person to state a judgment. A market offers a different question: at this price, are you willing to take the other side?
+That is the attraction.
 
-That change matters.
+Confidence becomes costly.
 
-Suppose a contract pays one dollar if a candidate wins. The market is offered at forty cents. A trader who thinks the candidate has a sixty percent chance has a reason to buy. If enough traders see the same mistake, their orders should push the price upward. A trader who thinks the market has become too enthusiastic can sell or buy the opposite side.
+A television pundit can announce a ninety-percent conviction and suffer very little when the forecast fails. A trader buying heavily at ninety cents has attached capital to the claim. If the market is deep enough, somebody who disagrees can challenge the price immediately.
 
-The disagreement does not have to be resolved in conversation.
+Money does not make the forecast correct.
 
-It is resolved through willingness to trade.
+It changes the incentives around being wrong.
 
-This is the intellectual seduction of prediction markets in their strongest form.
+That mechanism has been useful far beyond elections.
 
-They make confidence costly.
+At Hewlett-Packard, Charles Plott and Kay-Yut Chen designed internal markets to forecast printer sales. Employees with different pieces of information could trade contracts tied to future outcomes. The company already had conventional forecasting systems; the market offered a second route for information that might not travel cleanly through the hierarchy.
 
-A television pundit can announce a ninety percent belief and be forgotten by the next news cycle. A market participant who buys aggressively at ninety cents has attached capital to the claim. If the contract is liquid, someone with the opposite view can challenge it immediately.
+In the reported deployments, the market forecasts outperformed the traditional company methods.
 
-The mechanism rewards not certainty but profitable correction.
+A corporation is a good place to see why this can work.
 
-That difference is why prediction markets have been useful in places far removed from elections.
+A salesperson hears that an order may slip. A production manager sees a supply constraint. A regional executive knows that a forecast has been padded for political reasons. A product manager learns that a feature is not landing well.
 
-At Hewlett-Packard, researchers Charles Plott and Kay-Yut Chen built internal information markets to forecast printer sales. Employees who held different pieces of information could trade contracts tied to future sales outcomes. The company already had conventional forecasting processes. The market was an additional mechanism for collecting knowledge that did not sit neatly inside the formal reporting chain.
+The information exists.
 
-The market forecasts performed better than the traditional methods used inside the company in the tests the researchers reported.
+It does not necessarily survive the trip upward.
 
-That result matters because a company is an unusually difficult information environment.
+Organizations compress uncertainty as messages move through them. Meetings reward status, rhetoric, and the ability to make a case. An internal market can give scattered knowledge another route into a common number without requiring every informed employee to win an argument with a manager.
 
-Knowledge is distributed.
-
-A salesperson hears that a customer may delay an order. A production manager sees a supply problem. A regional executive knows that one forecast was padded because missing a target carries political costs. A product manager has learned that a new feature is not landing well. None of those facts automatically travels upward with its uncertainty intact.
-
-Organizations compress information as it moves.
-
-The market offers one way to let the fragments meet without requiring the people who hold them to win an argument in a meeting.
-
-This is not mystical crowd wisdom.
+That is not mystical crowd wisdom.
 
 It is institutional design.
 
-The person with better information needs a reason to use it. The mechanism needs to let that information affect a common price. Other participants need the ability to disagree. The contract needs a settlement rule that prevents the argument from continuing forever.
+The Iowa Electronic Markets provide the best-known long-running public example. Since 1988, the University of Iowa has operated small real-money election markets. Some contracts pay according to vote share; others according to the winner.
 
-Those requirements sound obvious because financial markets have spent centuries building around them.
+Joyce Berg, Forrest Nelson, and Thomas Rietz compared Iowa market forecasts with 964 national polls across U.S. presidential elections from 1988 through 2004. The market forecast was closer to the eventual two-party vote split 74 percent of the time, with a larger advantage at longer horizons.
 
-Prediction markets apply the same logic to events that do not ordinarily have securities attached to them.
+That result is often quoted as evidence that markets beat polls.
 
-Will a product ship on time?
+It needs a sentence of translation.
 
-Will quarterly sales exceed a threshold?
+A poll usually estimates current voter preference. A market tries to forecast the eventual outcome.
 
-Will a drug trial meet its endpoint?
+Months before Election Day, those are different tasks.
 
-Will a candidate win?
+A trader can believe a candidate currently behind will recover because of the economy, incumbency, campaign structure, expected events, or a model of how early polling normally changes. The market can fold those beliefs into one price.
 
-Will inflation come in above a number?
+That is a strength.
 
-Will the Federal Reserve cut rates?
+It also complicates the comparison.
 
-Once the event is made tradable, information can be expressed through orders rather than reports.
+Robert Erikson and Christopher Wlezien argued that comparing a prediction market with a raw current poll gives the market an easy benchmark. When poll results were transformed into forecasts of the eventual election, their poll-based models outperformed Iowa market prices in their analysis.
 
-The evidence from the Iowa Electronic Markets is the best-known public example.
+The lesson is not that the original market evidence was worthless.
 
-Since 1988, the University of Iowa has operated small real-money markets tied to elections. Some contracts pay according to vote share. Others pay according to who wins. The markets are tiny compared with modern commercial exchanges, but their history is long enough to test whether the mechanism does anything more than produce entertaining numbers.
+It is that the benchmark matters.
 
-Across presidential elections from 1988 through 2004, Joyce Berg, Forrest Nelson, and Thomas Rietz compared Iowa market forecasts with 964 national polls.
+A market can outperform a poll and still fail to outperform a good forecasting model built from polls.
 
-The market forecast was closer to the eventual two-party vote split 74 percent of the time.
+The same point appeared in 2024.
 
-The advantage was stronger farther from Election Day.
+The Iowa market reacted sharply to the June presidential debate. Its probability of a Democratic popular-vote victory dropped to 59 percent on the day of the debate after spending much of the preceding period between seventy and eighty percent.
 
-That last point helps explain what a prediction market is actually forecasting.
+That was useful updating.
 
-A poll is usually an estimate of current voter preference.
+Traders did not have to wait for a new polling average. They could respond to the debate, media reaction, party behavior, fundraising, and their expectations about whether Joe Biden would remain the nominee.
 
-A market is trying to price the eventual outcome.
+Later, after Biden left the race and Harris consolidated support, the market changed again.
 
-Months before an election, those are different objects. A trader can believe the candidate currently trailing in polls will recover because of economic conditions, incumbency, expected campaign events, historical reversion, or information the trader thinks the polls have not captured.
+Then it missed the popular vote.
 
-The market is allowed to combine all of those beliefs.
-
-That flexibility is an advantage.
-
-It is also where comparisons become tricky.
-
-Robert Erikson and Christopher Wlezien challenged the claim that election markets simply dominate polls. They argued that a naive market-versus-current-poll comparison gives the market an unfair advantage because the market is forecasting Election Day while the poll measures today. When polling leads are adjusted for the predictable way campaigns evolve, their poll-based forecasts outperformed Iowa's vote-share market prices in their analysis.
-
-This is important counterevidence.
-
-It does not show that prediction markets are useless.
-
-It shows that the benchmark matters.
-
-A market can outperform a raw poll while failing to outperform a good model built from polls.
-
-That distinction should sound familiar by now.
-
-A number is only impressive relative to the problem it is solving.
-
-The 2024 election made the same point with unusual clarity.
-
-The Iowa market reacted sharply to the June presidential debate. Before the debate, its probability of a Democratic popular-vote win had hovered mostly between seventy and eighty percent. On the day of the debate, it fell to 59 percent.
-
-That was useful information.
-
-The market did not need to wait for a new national polling average. Traders could react to the debate, to what they thought party officials would do, to fundraising signals, to media coverage, and to whatever private beliefs they held about Joe Biden's ability to remain the nominee.
-
-When Biden later left the race and Harris consolidated support, the distribution changed again.
-
-The market was doing exactly what advocates say it should do.
-
-It was updating.
-
-Then it got the popular vote wrong.
-
-By September 29, 2024, the Iowa winner-takes-all market gave the Democrat an 85.7 percent chance of winning the popular vote. Its associated forecast distribution implied a Democratic margin of roughly six to seven percentage points.
+By September 29, the Iowa winner-takes-all market assigned an 85.7 percent probability to a Democratic popular-vote victory. Its associated distribution implied a Democratic margin of roughly six to seven points.
 
 Trump won the popular vote.
 
-A mechanism can process information efficiently and still produce the wrong answer.
+There is no contradiction between rapid updating and a bad forecast.
 
-This should not be surprising.
+An 85 percent event should fail sometimes if the forecasting process is well calibrated. But the direction and size of the miss make one fact impossible to ignore: there was no single “prediction-market view” of the 2024 election.
 
-An eighty-five percent forecast is not a guarantee. Even a well-calibrated forecaster should sometimes lose at eighty-five percent. But the size and direction of the miss also prevent a convenient retrospective story in which prediction markets simply saw what everyone else failed to see in 2024.
+Different markets produced different forecasts.
 
-Some did.
+They had different participants, limits, liquidity, contracts, and information environments.
 
-Some did not.
+The variation is not noise around some ideal market price.
 
-Different contracts, participant pools, market structures, and information sets produced different forecasts.
+It is part of the explanation.
 
-That variation is not noise around one true prediction market.
+Commercial election markets such as Kalshi were not the Iowa market. Kalshi's legal victory arrived only weeks before the election and opened a much larger, regulated commercial venue. Substantial capital could be deployed in state and national contracts.
 
-It is part of the subject.
-
-The commercial markets that favored Trump late in the campaign were not the Iowa market. They had different traders, different limits, different liquidity, different technology, and different contracts.
-
-Kalshi's federal court victory brought U.S. election contracts to a regulated commercial exchange only in October 2024. The timing created an extraordinary natural demonstration of what liquidity can do.
-
-Within weeks, large amounts of capital entered.
-
-The Pennsylvania market alone eventually recorded substantial trading. Michigan and Nevada did the same. Prices could move when traders saw a state differently from the consensus, and the national market could incorporate the joint implications.
-
-This is one reason liquidity matters so much.
+That matters because information needs depth if it is going to become price.
 
 An informed trader can be right and still fail to move a thin market.
 
-Suppose a contract last traded at sixty cents, but only a few contracts are available near that price. A knowledgeable trader arrives and buys them. The visible last price may jump, yet there may be little depth behind the new number. Another participant can reverse it with a small order.
+Imagine a contract last traded at sixty cents but only a small quantity is available near that level. One order can push the displayed price sharply higher. Another small order can reverse it. The last price looks precise; the market underneath it is shallow.
 
-A deep market behaves differently.
+In a deeper market, traders can deploy more money against a perceived error. Competing orders meet at many prices. Related contracts can be compared for inconsistencies. A price becomes harder to move without either information or capital.
 
-More capital can be deployed against a perceived error. Competing traders can meet one another at many prices. Arbitrageurs can compare related contracts and exploit inconsistencies.
+That is one reason liquidity improves market quality.
 
-The price becomes harder to move without information or money.
+It can also make manipulation expensive.
 
-This does not make manipulation impossible.
+The familiar objection goes like this: what if a rich partisan spends millions to make a candidate appear more likely to win?
 
-It can make manipulation expensive.
+The attempt is possible.
 
-The distinction is important because prediction markets are often criticized with a simple thought experiment: what if a rich partisan spends millions to push the odds toward a preferred candidate?
+The useful question is what happens if the new price becomes attractive to everyone who disagrees.
 
-That can happen.
+A manipulator pushing a contract away from other traders' beliefs creates a subsidy for the other side. In a sufficiently deep market, maintaining the distortion can require continuing to lose money to participants who care more about profit than politics.
 
-The more interesting question is what happens next.
+The mechanism does not remove bad motives.
 
-If the price is pushed away from what other traders believe, the attempted manipulation creates a profit opportunity. Participants willing to take the opposite side can buy the mispriced contract. In a sufficiently liquid market, manipulating the displayed probability for long periods can require continuously subsidizing everyone who disagrees.
+It can turn them into trading opportunities.
 
-Markets do not eliminate bad motives.
+That corrective force has limits.
 
-They can recruit bad motives into the correction mechanism.
+Position limits matter. Fees matter. Spreads matter. Account access matters. Capital constraints matter. If correcting a small mispricing costs more than the expected gain, the error can remain.
 
-A partisan who wants to make a candidate look stronger may supply the very profit opportunity that attracts traders who do not care about the candidate at all.
+Kalshi's current fee structure makes the point concrete. Transaction fees and, in some markets, maker fees enter the calculation. A one-cent discrepancy is not automatically free money once the cost of getting in and out is included.
 
-That is a powerful property.
+The displayed probability therefore represents more than beliefs.
 
-It also depends on the ability of those traders to participate.
+It represents beliefs strong enough, and capitalized enough, to survive the frictions of trading.
 
-If position limits are tight, accounts are restricted, capital is expensive, fees are high, or the market is too small to support meaningful arbitrage, the corrective force weakens.
+That can improve quality by filtering weak conviction.
 
-Current Kalshi mechanics make these frictions visible.
+It can also exclude useful information from people who cannot or will not trade.
 
-The exchange charges transaction fees based on expected contract earnings, with different schedules for some products. Maker fees can apply to resting orders in certain markets. A trader deciding whether a one- or two-cent discrepancy is worth correcting has to include those costs.
+Prediction markets aggregate information from participants who can express it through the mechanism.
 
-The bid-ask spread matters too.
+They do not aggregate all information in existence.
 
-So does the size available at each level.
+Google's internal prediction markets make the limitation vivid.
 
-A displayed probability is therefore not just a collection of beliefs.
+Bo Cowgill, Justin Wolfers, and Eric Zitzewitz studied markets in which Google employees traded on launches, user numbers, and other company outcomes. The markets contained useful information.
 
-It is a collection of beliefs that survived the cost of trading.
+They also contained optimism and social correlation.
 
-That can improve quality by filtering out weak convictions.
+New employees tended to be more optimistic. Optimism rose on days when Google's stock price rose. Employees connected socially or geographically tended to trade in correlated ways.
 
-It can also exclude useful information held by people for whom trading is too costly or unavailable.
+A market does not float above the institution that creates it.
 
-The strongest version of the market case accepts this tradeoff rather than pretending it does not exist.
+Participants still sit in the same offices, read the same messages, share the same incentives, and catch the same moods.
 
-Prediction markets are good at aggregating information from people who can and will trade.
+The number of traders is therefore less important than the diversity of the information they bring.
 
-That is not the same as aggregating all information.
+Ten thousand participants reacting to one source do not create ten thousand independent observations.
 
-The corporate experiments at Google make the point sharply.
+This helps explain why internal corporate markets can work especially well on operational questions. The information really is dispersed: engineering knows one thing, sales another, finance another, legal another.
 
-Google ran one of the largest internal prediction-market programs of its era. Employees traded on questions involving launches, user counts, and other company outcomes. Bo Cowgill, Justin Wolfers, and Eric Zitzewitz studied the resulting data.
+The market has something to combine.
 
-The markets contained real information.
+On a nationally televised political event, millions of people can watch the same debate and read the same poll within minutes. The informational edge lies more in interpretation, modeling, local knowledge, and incentives than in exclusive access to a fact.
 
-They also contained bias.
+Contract design adds another layer.
 
-Newly hired employees tended to be more optimistic. Market optimism was stronger on days when Google's stock price was rising. Employees who sat near one another or shared social and work relationships tended to trade in correlated ways.
+A useful market specifies what counts, when the event ends, which source determines the outcome, and what happens if the normal resolution path becomes ambiguous.
 
-These findings are not an indictment of markets.
+This is not administrative housekeeping.
 
-They are a reminder that a market does not stand outside the institution that created it.
+It changes what the trader is forecasting.
 
-Traders bring their social networks with them.
+Weather contracts make the point with almost comic clarity. Two people can agree that yesterday was hot and still disagree about which official reading settles a bet. A well-designed contract names the station and the authoritative data source because preliminary readings, private services, rounding, and later revisions can differ.
 
-They read the same news.
+Political and technology contracts are harder.
 
-They sit in the same buildings.
+Words such as “wins,” “launches,” “recession,” “ceasefire,” and “AGI” carry more ambiguity than a thermometer.
 
-They are promoted by the same managers.
+Clear rules concentrate disagreement on the future rather than on how the exchange will interpret the future after it happens.
 
-They share the same excitement.
+That is one of prediction markets' underappreciated benefits.
 
-A price can aggregate dispersed information and correlated error at the same time.
+They force a group to define the proposition before assigning it a probability.
 
-That is why diversity of information matters more than the raw number of participants.
+They also update without embarrassment.
 
-Ten thousand traders who all learned the same thing from the same source do not create ten thousand independent signals.
+Organizations are sticky about forecasts. An analyst publishes a target. A campaign announces a path. A company issues guidance. A newspaper prints a model. Revising the number can look like admitting failure, so revisions often arrive with explanations and delays.
 
-A smaller market in which different participants truly hold different information can sometimes be more valuable.
-
-This helps explain why company prediction markets can work well on operational questions.
-
-The knowledge really is distributed.
-
-One team knows the software schedule. Another knows the hardware dependency. Sales hears the customer hesitation. Finance knows the purchasing process. Legal sees the unresolved contract language.
-
-The market has something to aggregate.
-
-On a nationally televised election, by contrast, millions of participants can be reacting to the same poll release within seconds.
-
-The informational advantage becomes more subtle.
-
-Traders may still differ in how they interpret the poll, how they model turnout, or what other information they possess. But adding participants does not guarantee adding independent evidence.
-
-The contract itself can help.
-
-Clear settlement rules reduce one of the largest unnecessary sources of uncertainty.
-
-A good event contract tells traders what counts, which source decides the outcome, when the market closes, and what happens if the ordinary path to resolution fails.
-
-Kalshi's election contracts specify the outcome and an official source. Its 2024 Pennsylvania presidential contract, for example, resolved yes if the Republican candidate won Pennsylvania and named the Library of Congress as the verification source. It also specified when the market would close and who was prohibited from trading.
-
-This precision matters before the outcome, not merely after it.
-
-A trader can focus on forecasting Pennsylvania rather than forecasting how an exchange moderator will interpret an ambiguous headline.
-
-The best prediction market contracts remove as much resolution risk as the real world allows.
-
-That is harder than it sounds.
-
-Weather provides a simple example.
-
-Two people can agree on what happened outside and still disagree about which temperature reading settles a contract. Kalshi's current weather markets specify the station and the official data source, because preliminary values, alternative services, and rounding can disagree.
-
-The rule is part of the forecast.
-
-This becomes even more important for political and technological events, where words such as "wins," "announces," "launches," "ceasefire," "recession," and "AGI" can contain enormous ambiguity.
-
-A market with a vague rule is not just harder to settle.
-
-It is harder to price.
-
-Participants may be trading different interpretations of the event.
-
-Clear rules allow disagreement to concentrate on the future rather than on the contract.
-
-That is a major reason prediction markets can outperform ordinary argument.
-
-They force a group to define the proposition before fighting about its probability.
-
-The mechanism also updates without institutional embarrassment.
-
-This feature deserves more respect than it usually gets.
-
-Organizations are sticky.
-
-An analyst publishes a target. A campaign announces a path. A company gives guidance. A newspaper prints a forecast. Revisions can feel like admissions of error, so they may arrive slowly or be surrounded by explanation.
-
-A market has no reputation to defend.
+A market has no column to defend.
 
 The price changes.
 
 Yesterday's sixty-two becomes today's fifty-four.
 
-No committee has to approve an apology.
+That is a real advantage when information arrives continuously.
 
-This is especially useful when evidence arrives continuously.
+Court decisions, economic releases, storms, injuries, votes, product launches, and executive comments can enter a price as soon as somebody is willing to trade on them.
 
-Economic releases, court decisions, injuries, storms, votes, regulatory actions, and product announcements can all be incorporated as soon as participants are willing to trade on them.
+But responsiveness is not accuracy.
 
-A living price can therefore be a better representation of changing belief than a forecast published on a schedule.
+A market can update quickly to a rumor that turns out to be false. It can overreact. It can underreact. It can be right for a reason that does not survive the next event.
 
-But responsiveness and accuracy remain different qualities.
+The speed makes the updating process visible.
 
-A market can update rapidly to a rumor that later proves false.
+It does not turn the output into knowledge.
 
-It can overreact.
+That is where prediction markets rejoin the larger argument of this book.
 
-It can underreact because traders distrust the first report.
+The previous chapter ended with a financial model full of uncertain assumptions. A prediction market seems to offer an escape. Instead of debating the assumptions, let people trade and observe the price.
 
-It can be right for the wrong reason.
+Sometimes that is a genuine improvement.
 
-The speed is valuable because it exposes the update process.
+A market can compress polls, models, private information, base rates, and judgment into one continuously tested number.
 
-It does not absolve the result from judgment.
+Compression is useful because no reader has time to inspect every input.
 
-This is where prediction markets fit into the larger argument of this book.
+Compression is dangerous for the same reason.
 
-The previous chapter ended with a spreadsheet full of uncertain assumptions.
+One trader may be using a poll. Another may be hedging. Another may be following a statistical model. Another may have local information. Another may simply be copying the price because everybody else appears confident.
 
-A prediction market seems to offer an escape from that problem.
+The market price does not tell you which ingredients dominate.
 
-Instead of debating every assumption, let people trade and observe the resulting price.
+So the right response is neither worship nor dismissal.
 
-In some settings, this is a genuine improvement.
+Use the price as evidence.
 
-A market can compress models, polls, private information, historical base rates, and judgment into a number that is continuously tested by people with money at risk.
+Then ask what market produced it.
 
-That compression can be astonishingly useful.
+How much money can informed traders deploy? What does it cost to trade? Are the participants actually diverse? Is the contract clear? Is the settlement source credible? Is the market deep enough for disagreement to move the number? Are related markets consistent? Is there reason to believe traders share the same blind spot?
 
-It can also hide the ingredients.
+A probability without those questions can acquire more authority than it deserves.
 
-A trader may buy a presidential contract because of polling.
+A probability with those questions can be an extraordinarily efficient summary of uncertainty.
 
-Another may be hedging business exposure.
+The next chapter is about what happens when the contract itself becomes part of the uncertainty.
 
-Another may be following a model.
-
-Another may have local information.
-
-Another may simply believe the crowd has gone too far.
-
-The market price combines them without preserving an audit trail of the reasoning.
-
-That is both the feature and the limitation.
-
-The number can be better than any one explanation.
-
-It can also be difficult to diagnose when it is wrong.
-
-A model exposes assumptions and can fail because one is wrong.
-
-A market hides many assumptions inside price and can fail because the participant pool was biased, liquidity was weak, information was correlated, fees blocked arbitrage, or the underlying event simply took the less likely branch.
-
-The observer sees the miss.
-
-The cause is harder to separate.
-
-This is why the right question is not whether prediction markets work.
-
-They clearly can.
-
-Hewlett-Packard found useful sales forecasts in them. The Iowa markets built a long record of competitive election forecasting. Modern commercial exchanges have demonstrated that large amounts of capital will gather around political, economic, weather, and technological questions when trading is available.
-
-The better question is when they work.
-
-The evidence points toward a recognizable set of conditions.
-
-There must be something worth aggregating.
-
-People must hold different information or interpretations.
-
-They must be able to trade on those differences.
-
-The cost of correcting a mistake must be smaller than the expected profit from correcting it.
-
-The contract must resolve clearly enough that traders are mostly forecasting the event rather than the referee.
-
-The market needs enough depth that one participant cannot cheaply dictate the headline price.
-
-And the crowd needs enough informational diversity that agreement is earned rather than socially inherited.
-
-None of these conditions is exotic.
-
-They are ordinary market conditions applied to extraordinary questions.
-
-When they hold, a prediction market can do something that polls, committees, and pundits often struggle to do.
-
-It can let disagreement become information.
-
-That is the strongest case.
-
-It is strong enough that the next chapter can afford to be more skeptical.
-
-Because once a functioning market has done all of this—collected the information, rewarded correction, clarified the contract, and produced a liquid price—one problem still remains.
-
-The screen may show 63 percent.
-
-The number is precise.
-
-What, exactly, do we know?
+A price can be perfectly faithful to a market and still mislead the person who thinks the market was answering a different question.
