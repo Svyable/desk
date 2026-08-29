@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 25 drafted |
+| **Chapters** | 2 of 25 drafted |
 
 How Size Changes the Rules.
 
@@ -18,7 +18,7 @@ The argument is also a warning. Scaling laws describe regularities; they do not 
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Curve Under the Curve](manuscript/ch01-the-curve-under-the-curve.md)
-- [ ] Ch 2 — Doubling Is Not Adding
+- [x] [Ch 2 — Doubling Is Not Adding](manuscript/ch02-doubling-is-not-adding.md)
 - [ ] Ch 3 — The Logarithmic Eye
 - [ ] Ch 4 — The Mouse, the Elephant, and the Quarter Power
 - [ ] Ch 5 — Cities That Accelerate
@@ -43,3 +43,8 @@ The argument is also a warning. Scaling laws describe regularities; they do not 
 - [ ] Ch 24 — Designing for Regime Change
 - [ ] Ch 25 — The Smallest Useful Law
 - [ ] Back Matter
+
+## Research
+
+- [Research brief](research/README.md)
+- [Source ledger](research/source-ledger.md)
