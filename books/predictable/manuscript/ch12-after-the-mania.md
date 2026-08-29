@@ -1,461 +1,323 @@
 # After the Mania
 
-In December 2003, a company called Global Crossing emerged from bankruptcy.
+In December 2003, Global Crossing emerged from bankruptcy.
 
-The name had survived. The balance sheet had not.
+The name survived.
 
-Less than two years earlier, Global Crossing had filed for Chapter 11 protection after one of the most aggressive network buildouts of the telecommunications boom. The company had helped lay fiber across oceans and continents during a period when investors were willing to finance astonishing quantities of communications capacity on the assumption that internet traffic would keep expanding and that scarce bandwidth would remain valuable.
+The old capital structure did not.
 
-The traffic did expand.
+Less than two years earlier, the company had filed for Chapter 11 after helping finance one of the most aggressive network buildouts of the telecommunications boom. It had laid fiber across oceans and continents during a period when investors could look at explosive internet growth and draw a reasonable conclusion: the world was going to need vastly more bandwidth.
 
-The scarcity did not last.
+They were right about the traffic.
 
-By the time Global Crossing reorganized, the old shareholders had been largely erased, creditors had accepted a restructuring, and substantially all of the old company's assets had been transferred into a new corporate entity. The network itself did not disappear with the equity.
+They were wrong about what scarcity would be worth after everybody built for the same future.
+
+By the time Global Crossing reorganized, old shareholders had been largely wiped out, creditors had accepted a restructuring, and substantially all the old company's assets had moved into a new corporate entity.
+
+The network did not disappear.
 
 Light still traveled through the glass.
 
-That is the part of a technology bust that a stock chart leaves out.
+A stock chart is bad at showing this part of a technology bust.
 
-Financial claims can be extinguished in a courthouse while physical assets keep doing exactly what they were built to do. A railroad can keep carrying freight after its bonds default. Fiber can keep carrying packets after its owner goes bankrupt. A data center can keep running after the company that financed it restructures. The usefulness of an asset and the fate of the security that paid for it are related, but they are not the same event.
+Financial claims can be extinguished in a courthouse while the asset underneath them keeps doing useful work. A railroad can carry freight after its bonds default. Fiber can carry packets after its owner restructures. A data center can keep serving workloads after the company that financed it loses the equity.
 
-This distinction has followed us through the entire book.
+The technology and the security are related.
 
-It matters most at the end.
+They are not the same object.
 
-The natural temptation after studying bubbles is to wait for vindication. If prices fall, the thesis was right. If a celebrated company fails, the warnings were justified. If infrastructure is written down, the boom was excessive.
+This distinction has been running underneath the entire book, and it matters most at the end because the temptation after studying bubbles is to wait for vindication.
+
+If prices fall, the warning was correct. If a celebrated company fails, the skeptics win. If infrastructure is written down, the boom was a mistake.
 
 That is too easy.
 
-A financial collapse can confirm that capital was mispriced without proving that the technology was overhyped. It can even accelerate the technology's spread by transferring useful assets to owners with lower costs, less debt, and fewer expectations attached to them.
+A financial collapse can reveal that capital was badly priced without showing that the technology was overhyped. It can even make the technology easier to use by transferring useful assets to owners who acquired them more cheaply and need lower returns.
 
-The telecommunications bust around the turn of the century is an unusually clean example because its destruction and its usefulness happened at the same time.
+The telecom bust made this visible.
 
-The late 1990s created strong reasons to build.
+Internet use kept rising. Optical technology kept improving. New networks had been financed everywhere. The combination created more bandwidth than the original investors could sell at the prices they had assumed.
 
-Internet use was rising quickly. Regulation had opened parts of the communications market to new competition. Advances in fiber optics made enormous increases in transmission capacity technically possible. Capital markets were eager to finance companies that promised to carry the world's data.
+The Federal Reserve Bank of Richmond later described the familiar sequence: heavy investment, new entry, expanding long-haul capacity, falling prices, and a collapse in sector valuations when expected profits did not arrive.
 
-The response was not irrational in its direction.
+Global Crossing filed for bankruptcy in January 2002. WorldCom followed later that year, with accounting fraud creating a separate and serious failure inside an industry that already had too much financial pressure.
 
-It was excessive in its economics.
+The internet did not enter bankruptcy.
 
-The Federal Reserve Bank of Richmond later described a sector in which investment surged, new competitors entered, long-haul capacity expanded rapidly, and telecommunications equity values collapsed when expected profits failed to materialize. Companies that had financed networks at boom-era valuations confronted falling bandwidth prices and a market in which capacity could be duplicated faster than anticipated.
+By 2010, the International Telecommunication Union estimated that more than two billion people were online. Global internet penetration had reached roughly 30 percent, up from about 7 percent in 2000.
 
-Global Crossing filed for bankruptcy in January 2002.
+Investor disappointment arrived before technological maturity.
 
-WorldCom followed later that year, with accounting fraud adding a separate and severe failure to a sector already under financial pressure. Other carriers restructured, merged, or disappeared.
+That timing is the lesson.
 
-Yet the internet did not enter receivership.
+Global Crossing's restructuring made the separation literal. In December 2003, substantially all the old company's assets moved into a successor with a new set of claims attached to them.
 
-By 2010, the International Telecommunication Union estimated that the number of internet users worldwide had passed two billion. Global internet penetration had reached roughly 30 percent, up from about 7 percent in 2000. In a decade remembered in finance for the dot-com crash and telecom bankruptcies, the underlying network moved from novelty toward ordinary infrastructure.
+Same broad infrastructure.
 
-The timing is the lesson.
+Different price. Different owners. Different expectations.
 
-Investor disappointment came before technological maturity.
+Railroads had done the same thing more than a century earlier.
 
-The network kept becoming more important after some of the companies that financed its early expansion had already failed.
+A later contemporary accounting counted 60,012 miles of U.S. railway entering receivership between 1892 and 1897, close to a third of the national network.
 
-There is no paradox in that result once we stop treating capital and technology as the same thing.
+Those railways were not useless.
 
-The bankruptcy reorganizes claims on the asset. It does not necessarily reorganize the laws of physics that make the asset useful.
+Many were essential.
 
-Global Crossing's reorganization made this literal. On December 9, 2003, the old company transferred substantially all of its assets to a newly formed successor. New investors and creditors received different claims on the same broad infrastructure. The fiber had a new capital structure.
+They had been financed with debts, traffic assumptions, competitive expectations, and rates that did not all survive recession and overbuilding.
 
-That is often what comes after a mania.
+Receivership separated the road from the securities originally attached to it.
 
-Not disappearance.
+The track stayed in the ground while investors argued about what capital structure the reorganized railroad could support.
 
-A change in price and ownership.
+Recovery followed without resurrecting every old claim.
 
-Railroads had demonstrated the same process more than a century earlier.
+By the first half of 1898, the Commercial and Financial Chronicle was reporting a large improvement in railroad gross earnings. Later successful reorganizations included major systems such as the Atchison, Baltimore & Ohio, Union Pacific, and Norfolk & Western. Between 1898 and 1907, the United States added another 42,807 miles of railway.
 
-During the severe financial distress of the 1890s, tens of thousands of miles of American railway entered receivership. A retrospective published in the Commercial and Financial Chronicle in 1918 counted 60,012 miles passing into receivership between 1892 and 1897, close to a third of the country's railway mileage.
+The country did not decide railroads had been a fad because railroad investors had lost money.
 
-The number is difficult to reconcile with a simple story in which useful infrastructure automatically protects its investors.
-
-Those railways were useful.
-
-Many were indispensable.
-
-They still went bankrupt.
-
-The reason was not that Americans stopped needing transportation. Railroads had been built with debt loads, competitive assumptions, traffic forecasts, and capital structures that did not always survive recession, overbuilding, rate pressure, or competition from parallel lines.
-
-Receivership became a mechanism for separating the road from the securities originally attached to it.
-
-The track remained in the ground while creditors and owners argued over who would own the reorganized enterprise and how much debt it could support.
-
-By 1898, the financial environment was already improving. The Commercial and Financial Chronicle reported that gross earnings for a large group of railroads during the first half of that year were about $61 million higher than in the same period of 1897, and it estimated improvement across the full U.S. system at roughly $70 million.
-
-The recovery did not resurrect every old security.
-
-It created a different financial future for many of the same physical routes.
-
-The later Chronicle retrospective noted successful reorganizations of systems including the Atchison, Topeka & Santa Fe, Baltimore & Ohio, Union Pacific, and Norfolk & Western after the receivership wave. Between 1898 and 1907, the United States added another 42,807 miles of railroad.
-
-The country did not decide that railroads had been a fad because railroad investors had lost money.
-
-It kept using railroads.
+It kept using them.
 
 It kept building them.
 
-But ownership, debt, rates, competition, and expectations changed.
+What changed was ownership, debt, competition, pricing, and the amount investors were willing to pay for future traffic.
 
-This is what the phrase after the mania should mean.
+That is what “after the mania” should mean.
 
-It should not mean after the technology.
+Not after the technology.
 
-It should mean after the price paid for the first story about the technology has been revised.
+After the first price placed on the technology's future has been revised.
 
-That revision can happen violently.
+Sometimes that revision is violent.
 
-It can also happen quietly.
+Sometimes it happens through years of mediocre returns, slower capex, lower margins, selective project cancellations, acquisitions, and earnings growing into an old valuation.
 
-Not every boom needs a spectacular crash. A sector can spend several years growing into a valuation. Margins can compress while revenue continues rising. Projects can be canceled selectively rather than all at once. Share prices can stagnate while earnings catch up. Companies can redirect capital without filing for bankruptcy. Acquisition and consolidation can absorb excess capacity gradually.
+A boom does not need a cinematic crash to reprice.
 
-The absence of a single dramatic break does not mean that no repricing occurred.
+That matters for AI because the largest current builders are not fragile companies dependent on a single financing window.
 
-It may mean the repricing happened across time rather than in one afternoon.
+Microsoft, Amazon, Alphabet, and Meta entered the buildout with enormous operating businesses. NVIDIA's August 2026 results still looked like acute scarcity, not aftermath: $89 billion of quarterly data-center revenue, 117 percent year-over-year growth, and a 75 percent gross margin.
 
-That possibility is especially important for artificial intelligence because the largest current builders are not fragile startups financed entirely by speculative debt.
+Microsoft finished fiscal 2026 with Azure and other cloud services growing 43 percent in the June quarter and commercial remaining performance obligations of $678 billion. AWS revenue rose 37 percent to $42.2 billion and produced $16.6 billion of quarterly operating income.
 
-Microsoft, Amazon, Alphabet, and Meta entered the AI buildout with enormous existing businesses, global distribution, and substantial operating cash flow. NVIDIA's economics in August 2026 still looked more like a supplier in acute demand than one confronting a post-boom glut. Its second-quarter Data Center revenue reached $89.0 billion, up 117 percent from a year earlier, with a 75 percent gross margin.
+Those are boom numbers.
 
-Microsoft finished fiscal 2026 with Azure and other cloud services growing 43 percent in the June quarter. Commercial remaining performance obligations reached $678 billion. Amazon's AWS revenue rose 37 percent to $42.2 billion in its June quarter and produced $16.6 billion of operating income.
+They matter because this book is being written before the ending.
 
-Those are not aftermath numbers.
+There is no evidence that permits a declaration that the AI buildout has already failed. There is no rule that says it must fail.
 
-They are boom numbers.
+What we have instead are mechanisms.
 
-They matter because this book is being written before the outcome.
+We know how high returns can summon capital. We know how supply can arrive late. We know how technical improvement can create effective capacity as well as demand. We know how physical assets with different lives get bundled into one capex number. We know how a market price can compress information and hide assumptions at the same time.
 
-The evidence does not permit us to declare that an AI bust has happened, or even that one must happen.
+That is enough to ask better questions while the outcome remains open.
 
-It permits something narrower.
+The physical AI buildout is especially likely to survive any financial correction unevenly because its assets run on different clocks.
 
-We can identify the mechanisms through which technological success and financial returns might separate. We can identify the assumptions that would have to fail. We can identify the assets most likely to outlast their first owners if they do.
+Accelerators may become second-tier within a few years. Network equipment can last longer. Data-center shells, substations, transmission upgrades, generation, fiber, and land with power can remain useful for decades.
 
-That is enough.
+A transformer does not care which model family caused it to be ordered.
 
-Consider the physical buildout.
+If an infrastructure owner financed a campus at a high cost of capital and demand later disappoints, the equity can fail while the campus remains useful. A buyer who acquires the same site at half the original capital cost faces a different return problem.
 
-A modern AI campus contains assets with radically different clocks.
+The asset did not become twice as productive.
 
-Accelerators may become economically second-tier within a few years. Networking equipment can remain useful longer. Data-center shells, substations, transmission upgrades, cooling systems, and generation assets may operate for decades. Fiber laid to a campus can remain valuable even if the original tenant reduces its footprint. Land with power and connectivity can be repurposed. A transformer does not care which model family caused it to be ordered.
+The price changed.
 
-This makes an AI bust, if one comes, unlikely to erase the physical layer evenly.
+This is one of the underappreciated ways a technology becomes cheaper after investors lose money.
 
-Some assets would be impaired.
+Fiber acquired after the telecom bust could carry the same packets without needing to earn back the original construction cost. Falling bandwidth prices damaged network owners and made bandwidth-hungry internet businesses easier to build.
 
-Others could become cheaper inputs for the next owner.
+AI could produce the same transfer.
 
-Imagine a specialist data-center company that financed a campus at high interest rates against an optimistic revenue forecast. If demand weakens, the equity could be wiped out and the debt restructured. But the building may still have power, cooling, fiber, permits, and racks.
+If inference becomes far cheaper because hardware improves, software improves, and capacity becomes abundant, some owners of infrastructure may earn poor returns.
 
-A buyer acquiring that campus for half the original capital cost does not inherit the original investor's return requirement.
+Customers may respond by using vastly more intelligence.
 
-The asset has not improved.
+The supplier's lost scarcity rent can become the user's new application.
 
-Its price has.
+That would not be a failed AI revolution.
 
-This is one way a technology can become more economically accessible after investors lose money.
+It would be one way the revolution stops being scarce.
 
-The same mechanism operated in telecommunications.
+The same logic applies to knowledge created during a boom.
 
-A fiber route that could not justify its construction cost at boom-era prices could still be valuable when acquired out of restructuring at a fraction of that cost. Falling bandwidth prices hurt providers while encouraging users to consume more bandwidth. The financial pain and the social benefit could be two sides of the same decline in unit economics.
+Manias train people.
 
-AI could produce a similar transfer.
+Engineers learn how to deploy the technology. Contractors learn how to build the infrastructure. Utilities learn how to serve unfamiliar loads. Enterprises discover which workflows are worth changing and which demonstrations were toys. Regulators find the gaps in old rules. Customers learn what they will pay for.
 
-If inference prices fall because hardware improves and capacity becomes abundant, some infrastructure owners may earn disappointing returns. At the same time, cheaper inference could make thousands of applications economical that are too expensive today.
+That knowledge is difficult to repossess in bankruptcy.
 
-The customer can win because the supplier's scarcity rent disappears.
+The railroad era left more than track. It left standards, engineering practice, operating systems, legal structures, and towns reorganized around faster transport.
 
-That is not a failed technological revolution.
+The internet boom left more than fiber. It left protocols, data centers, network engineers, software companies, customer habits, and a world increasingly designed around connectivity.
 
-It is one possible way a revolution matures.
+The AI boom is already leaving its own residue.
 
-The distinction also applies to software and skills.
+Developers are learning how to build software around probabilistic systems. Enterprises are cleaning data, changing security models, constructing evaluations, and redesigning workflows. Semiconductor supply chains are expanding advanced packaging and memory. Power planners are changing assumptions that sat undisturbed for years. Workers are learning which parts of their jobs become faster when a model is available.
 
-A speculative boom trains people.
+Some of the investment will prove wasteful.
 
-Engineers learn how to deploy new systems. Utilities learn how to interconnect unusual loads. Contractors learn how to build high-density cooling. Enterprises discover which workflows can tolerate automation and which cannot. Regulators learn where old rules do not fit. Customers learn what they are willing to pay for.
+The learning is unlikely to be reversed with the share price.
 
-Much of that knowledge survives a financing cycle.
+This is why there is no single aftermath to forecast.
 
-It is difficult to value because it does not sit neatly on the balance sheet of the failed company.
+One possibility is that there is barely an aftermath at all.
 
-Yet it may be one of the boom's most durable outputs.
+Demand can keep compounding faster than supply. Enterprise adoption can spread from a few functions into ordinary operations. Falling prices can create so much additional use that aggregate revenue and profit keep growing. Leading platforms can maintain attractive margins because distribution, ecosystems, proprietary systems, and scale continue to matter.
 
-The railroad era did not only leave track. It left operating practices, legal structures, engineering standards, and a population reorganized around faster transportation.
+Current evidence supports that possibility.
 
-The internet boom did not only leave fiber. It left data centers, network engineers, protocols, customer habits, software companies, and an economy increasingly designed around connectivity.
+NVIDIA demand is still extraordinary. Microsoft and Google have large contracted backlogs. AWS is accelerating. Census data show real AI diffusion, especially among large and knowledge-intensive firms. A separate Census survey released in August 2026 found widespread worker use and self-reported time savings among many people who had used AI recently on the job.
 
-An AI boom is already producing its own institutional residue.
+A serious book about bubbles has to allow the boom to work.
 
-Companies are redesigning software around model calls. Developers are learning to build with probabilistic systems. Enterprises are reorganizing data access, security, evaluation, and workflow design. Power planners are changing load forecasts. Semiconductor supply chains are expanding advanced packaging and memory capacity. Colleges and workers are adapting to tools that did not exist in their current form a few years ago.
+Otherwise the conclusion was written before the research began.
 
-Some of those changes may prove overdone.
+Another possibility is normalization rather than collapse.
 
-They are unlikely to be entirely undone by a market correction.
+Supply catches up. Accelerator margins fall from exceptional levels. Cloud prices become more competitive. Capex growth slows. Some projects are delayed. Older hardware finds lower-tier workloads. The industry continues expanding while investor returns become less spectacular.
 
-This is why the aftermath is not a single forecast.
+The technology succeeds.
 
-There are several plausible paths from where the industry stands in August 2026.
-
-One is continued compounding.
-
-In that future, the current capital budgets turn out to be broadly justified. AI demand expands faster than capacity. Enterprise adoption moves from a handful of functions into ordinary operations. Falling unit costs stimulate enough new usage to preserve strong aggregate revenue growth. Leading cloud platforms retain healthy margins because scale, distribution, proprietary systems, and software differentiation matter more than commodity competition.
-
-The apparent boom becomes an industrial expansion that looked extravagant mainly because the market was correctly anticipating a very large future.
-
-Current evidence gives this scenario real support.
-
-NVIDIA's demand is still accelerating. Microsoft has reported large contracted obligations and rapid Azure growth. AWS is growing at its fastest rate in years. Census data show that AI use is already meaningful across U.S. businesses and particularly high among large and knowledge-intensive firms. Household survey data released in August 2026 found widespread worker use and self-reported time savings among many recent users.
-
-A book about bubbles has to allow that the boom may work.
-
-Otherwise it is not analysis.
-
-It is genre.
-
-A second path is gradual normalization.
-
-Demand keeps growing, but supply catches up. Accelerator margins fall from extraordinary levels. Cloud pricing becomes more competitive. Capital expenditure slows. Some announced campuses are delayed or reduced. Older hardware finds secondary workloads. Investors earn lower returns than they expected, but the system absorbs the adjustment without a large wave of defaults.
-
-This outcome would look disappointing only against the most aggressive expectations.
-
-The technology could keep spreading throughout it.
+The multiple paid for that success becomes less generous.
 
 A third path is selective destruction.
 
-The strongest platforms and suppliers continue doing well while weaker infrastructure owners, highly leveraged specialists, marginal model companies, and projects built around poor power or financing assumptions fail.
+The strongest platforms and suppliers keep growing while leveraged infrastructure owners, weak model providers, badly located campuses, and companies built around poor financing assumptions fail.
 
-This would resemble many capital cycles more closely than a single market-wide crash.
+Assets change hands. Contracts are renegotiated. Engineers move. Power rights and data centers are repriced into stronger balance sheets.
 
-The boom would have winners and bankruptcies at the same time.
+The boom consolidates rather than disappears.
 
-Assets from failed operators would be purchased by stronger ones. Data centers would change hands. Customer contracts would be renegotiated. Power rights and fiber connections would be repriced. Engineers would move to new employers.
+A deeper overbuild is possible too.
 
-The industry would consolidate around a smaller number of balance sheets.
+Demand remains real but grows more slowly than capacity already under construction. Better hardware reduces the value of older accelerators. Model prices fall faster than usage rises. Backlogs prove less durable than expected. New campuses open after the shortage has eased because the construction decisions were made years earlier.
 
-A fourth path is a deeper overbuild.
-
-In that future, demand remains real but grows too slowly relative to the capacity already committed. New generations of hardware make old equipment less valuable faster than expected. Unit prices fall more quickly than usage rises. Backlogs prove less durable than they looked. Data-center projects continue arriving after the shortage has ended because construction decisions were made years earlier.
-
-Margins compress across several layers at once.
+Margins compress across several layers.
 
 Financing becomes harder.
 
-Specialist owners restructure.
+Some owners restructure.
 
-Some hyperscalers write down assets or slow investment sharply.
+The technology improves inside a capital market that stops rewarding the companies that financed its expansion.
 
-The technology continues to improve inside a capital market that has stopped rewarding the companies that financed its expansion.
+History makes that scenario easy to imagine.
 
-This is the scenario most similar to the historical cases in this book.
+History does not make it inevitable.
 
-It is not inevitable merely because it is familiar.
+The analogy with fiber has limits. Fiber can remain in the ground for decades while terminal equipment raises its carrying capacity. Accelerators age much faster. Not every data center can accept every future rack density or cooling design. Electricity is local. The major AI investors have stronger balance sheets than many telecom entrants did in 2000.
 
-History is useful for mechanisms, not schedules.
+Those differences could make an AI correction milder.
 
-The comparison between fiber and AI compute has limits.
+They could make particular compute assets depreciate faster.
 
-Fiber has an unusually long physical life and can carry more traffic as terminal equipment improves. Accelerators age more quickly. Data centers can be repurposed, but not every building can easily accept every new rack density or cooling architecture. Electricity is local. Model economics depend on software improvements as well as hardware. The largest AI investors have stronger balance sheets than many telecom entrants did in 2000.
+History gives mechanisms, not schedules.
 
-These differences could make an AI correction milder.
+The more durable question is where value migrates as the technology becomes ordinary.
 
-They could also make some compute assets depreciate faster.
+The most visible winner during the boom need not own the best economics after maturity.
 
-The analogy does not decide which.
-
-It only helps us ask where value might remain after expectations change.
-
-The most durable assets are not necessarily the most visible ones during the boom.
-
-A celebrated model can be surpassed quickly.
+A celebrated model can be surpassed.
 
 A standard can endure.
 
-A startup can disappear.
+A startup can disappear while its engineers carry the learning elsewhere.
 
-Its employees can carry what they learned into another company.
+A frontier GPU can lose its premium while the substation serving the campus becomes more valuable.
 
-A GPU can become obsolete for frontier training.
+An application can fail while the workflow it introduced becomes a feature inside a larger product.
 
-The substation serving the campus can still matter.
+Diffusion often looks like disappearance from the headlines.
 
-An early application can fail.
+The technology stops needing its original story.
 
-The workflow it introduced can become ordinary inside a different product.
+Railroads became infrastructure instead of prophecy. The internet became something people simply expected to work. Neither transition protected every company that financed it.
 
-This is what diffusion looks like after novelty fades.
+Artificial intelligence may be headed toward the same kind of ordinariness.
 
-The technology stops needing the original story.
+That would be technological success.
 
-Railroads eventually became infrastructure rather than prophecy. The internet became a utility of daily life rather than a sector one had to believe in. Neither transition protected every company that helped finance it.
+It could still be financially awkward.
 
-Artificial intelligence may be moving toward the same kind of ordinariness.
+The most consequential technologies often become less visible as they mature. Electricity becomes the socket. The internet becomes the connection. Software becomes the workflow. Users stop admiring the infrastructure and begin complaining when it is unavailable.
 
-If so, that would be technological success.
+Value moves while this happens.
 
-It could be financially awkward.
+Scarcity rent can move from chips to powered land, from infrastructure to applications, from applications to customers, or from the first generation of providers to the next.
 
-The most powerful technologies often become less visible as they mature. Their names retreat into the background. Electricity becomes the socket. The internet becomes the connection. Software becomes the workflow. The user stops admiring the infrastructure and simply expects it to work.
+A company can create a category and fail to own the most profitable layer after the category becomes normal.
 
-When that happens, value can migrate.
+This returns us to prediction.
 
-Scarcity rents can move from chips to power, from power to applications, from applications to customers, or from one generation of providers to the next. A company that created the category may not own the most profitable layer once the category becomes normal.
+A person in 1998 could correctly predict that the internet would transform communication and still lose most of an investment in a telecom security.
 
-This is why prediction itself is not enough.
+A person in 1890 could correctly predict that railroads would remain central to American economic life and still own the wrong railroad bond.
 
-A person in 1998 could correctly predict that the internet would transform commerce and communication and still lose almost everything in a telecom security. A person in 1890 could correctly predict that railroads would remain central to American economic life and still own the wrong railroad bond.
+A person in 2026 can correctly predict that AI will become pervasive and still be wrong about which assets deserve today's price.
 
-A person in 2026 can be right that artificial intelligence will become pervasive and still be wrong about which assets deserve today's price.
+The future event and the investment return are different contracts.
 
-The future event and the investment return remain different contracts.
+Prediction markets make the first contract visible. They force a deadline, an outcome, and a settlement rule. A market asking whether OpenAI announces AGI before a certain date will eventually resolve according to its written terms.
 
-Prediction markets make this easier to see because their contracts settle explicitly.
+Capital has no equally clean settlement day.
 
-A market asking whether an AI company announces AGI by a deadline will eventually resolve yes or no according to its rules. The capital invested in anticipation of that future has no such clean settlement date.
+The result unfolds through utilization, pricing, depreciation, refinancing, competition, regulation, customer adoption, and time.
 
-Its outcome unfolds through revenue, competition, depreciation, refinancing, regulation, pricing, customer behavior, and time.
+That is the harder forecast.
 
-That is a harder forecast.
+It is also the investment forecast.
 
-It is also the one that matters for investment.
+A quoted probability disciplines belief by forcing us to say what we think will happen and how confident we are.
 
-A quoted probability can discipline a belief by forcing a deadline and a resolution rule. A financial asset disciplines belief differently. It asks not only what happens, but how much of that future has already been paid for.
+A price disciplines belief differently.
 
-The two forms of forecasting meet at the same mistake.
+It asks how much of that future is already being paid for.
 
-We see something important coming and assume that seeing it early is sufficient.
+The mistake that connects the two is seductive because it often begins with insight.
+
+We see something important coming.
+
+Then we assume seeing it early is enough.
 
 It is not.
 
-The railroad investor had to price the road.
+The railroad investor had to price the road. The fiber investor had to price the network. The AI investor has to price the compute, power, software, competition, financing, and time between investment and cash return.
 
-The fiber investor had to price the network.
+Being directionally right can be an expensive form of being wrong.
 
-The AI investor has to price the compute, the power, the software, the competition, and the time between capital spending and cash return.
+That is why this book should not end with a date for the crash.
 
-Being directionally right can be a very expensive form of being wrong.
+A date would betray the argument.
 
-There is another reason not to end with a crash prediction.
+The useful habit is to keep separating the thing from the claim made on the thing.
 
-The attempt to predict the exact moment of a mania's end can recreate the false precision the book has spent so much time examining.
+Technology from security.
 
-A bubble thesis with a date attached becomes another contract whose confidence may exceed its evidence.
+Demand from return.
 
-The useful questions are slower.
+Shortage from moat.
 
-Are new assets still filling quickly?
+Revenue from cash conversion.
 
-Are customers renewing commitments at profitable prices?
+A probability from the contract that produced it.
 
-Do lower prices create more aggregate demand or merely lower revenue?
+A narrative from the assumptions added while it traveled.
 
-Do older assets keep earning their cost of capital after new generations arrive?
+The distinctions are not as satisfying as a prediction.
 
-Does financing become cheaper as risks fall, or more expensive as lenders become cautious?
+They survive longer.
 
-Do productivity gains spread beyond a small group of companies and tasks?
+Years from now, the AI buildout will look obvious in retrospect. Some current projects will look prescient. Others will look absurd. We will know which companies captured the value and which merely financed the abundance everyone else enjoyed.
 
-These questions do not produce a satisfying countdown clock.
+The temptation will be to say that the outcome could always have been seen.
 
-They produce a way to remain uncertain without becoming passive.
+It could not.
 
-As of August 2026, the strongest evidence against a near-term collapse is the simplest: customers are still buying a great deal of AI infrastructure and services.
+What can be seen now is the structure of the uncertainty.
 
-NVIDIA's revenue is not hypothetical. AWS operating income is not a forecast. Microsoft's cloud growth is not an announced data-center project. U.S. businesses and workers are already using AI in measurable numbers.
+That is more useful than pretending to know the ending.
 
-The strongest evidence for caution is also visible.
+The future will have a price.
 
-Capital expenditure is enormous. The assets have different useful lives. Infrastructure commitments stretch years into the future. Unit prices are falling. More capacity is being financed outside the strongest balance sheets. Some parts of the supply chain are responding to scarcity exactly as the capital cycle predicts they should.
-
-Both sets of facts can remain true for a long time.
-
-That may be the most important lesson of the boom while we are still inside it.
-
-Reality does not owe us a clean narrative arc.
-
-There may be no day when everyone agrees the mania ended. There may be several repricings separated by years. Some securities may collapse while others compound. Some data centers may be stranded while nearby ones remain full. A generation of accelerators may lose value while the electricity and fiber around it become more valuable.
-
-The aftermath can begin in one layer before the boom ends in another.
-
-This is why the surviving infrastructure deserves as much attention as the failed financing.
-
-After Global Crossing's bankruptcy, its network remained.
-
-After the railroad receiverships, the tracks remained.
-
-After the dot-com crash, the internet kept recruiting users.
-
-The investors who financed those assets were not necessarily rewarded for the social usefulness that followed.
-
-But later owners and customers inherited a world in which much of the expensive groundwork had already been done.
-
-If artificial intelligence eventually produces a similar aftermath, the visible wreckage may conceal an extraordinary inheritance.
-
-Data centers with cheaper owners. Power infrastructure already built. Fiber already connected. Engineers already trained. Enterprises already reorganized. Models cheaper to run. Customers accustomed to using them. Standards and interfaces hardened by years of experimentation.
-
-A bust could make some of these things cheaper without making them less useful.
-
-Or there may be no bust large enough to deserve the word.
-
-The current leaders may earn extraordinary returns for years. Demand may absorb the buildout. Productivity may arrive fast enough to justify the spending. The technology may be so valuable, and the market structure so concentrated, that the historical pattern only partly applies.
-
-That outcome would not make the earlier questions wasted.
-
-It would answer them.
-
-The purpose of studying bubbles is not to become attached to collapse.
-
-It is to understand the distance between a true technological story and the financial claims built on top of it.
-
-Sometimes that distance closes through bankruptcy.
-
-Sometimes through growth.
-
-Sometimes through inflation, consolidation, lower margins, or years of disappointing returns.
-
-The mechanism matters more than the label.
-
-The future will eventually tell us whether today's AI capital was too early, too much, correctly sized, or not enough.
-
-It will do so unevenly.
-
-Some projects will look foolish. Some will look visionary. Some assets will become valuable for uses their builders did not imagine. Some companies that seem indispensable today may become footnotes. Others may turn scarcity into durable market power and make the skeptics look timid.
-
-None of this can be settled from a market price, a capex total, or a single probability.
-
-The numbers help.
-
-They force claims into forms we can inspect.
-
-But they remain conditional on the assumptions beneath them.
-
-That is the final connection between prediction markets and technology bubbles.
-
-Both promise a cleaner relationship with the future.
-
-One turns belief into a price today. The other turns belief into steel, silicon, contracts, debt, and equity that must earn a return tomorrow.
-
-Both are useful precisely because they expose what people are willing to risk on their forecasts.
-
-Neither abolishes uncertainty.
-
-The discipline is not to stop predicting.
-
-It is to keep asking what, exactly, has been priced.
-
-A revolution can be real.
-
-A market can be informative.
-
-A forecast can be well calibrated.
-
-An infrastructure buildout can be necessary.
-
-And the price can still be wrong.
-
-When the mania is finally visible in retrospect, the easiest question will be who lost money.
-
-The more interesting one will be what their money left behind.
+The question is what we paid before it arrived.
