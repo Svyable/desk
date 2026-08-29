@@ -7,4 +7,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://svyable.github.io/desk/sitemap.xml
+Sitemap: https://svyable.github.io/self/sitemap.xml
