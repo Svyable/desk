@@ -208,7 +208,8 @@
       "additionalProperties": false,
       "required": [
         "reviewers",
-        "triggers"
+        "triggers",
+        "delegate_may_self_approve"
       ],
       "properties": {
         "reviewers": {
