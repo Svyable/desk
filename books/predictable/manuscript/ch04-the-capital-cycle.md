@@ -1,200 +1,188 @@
 # The Capital Cycle
 
-By early 2008, the world's shipowners had placed orders for a fleet that did not yet exist.
+By early 2008, the world's shipowners had ordered a fleet that did not yet exist.
 
-The order book for new merchant vessels had reached 10,053 ships with a combined carrying capacity of 495 million deadweight tons. In tonnage terms, that was equivalent to 44 percent of the fleet already on the water. Dry bulk carriers alone accounted for 222 million tons of the backlog.
+The backlog had reached 10,053 merchant vessels with 495 million deadweight tons of carrying capacity. In tonnage terms, the ships on order were equivalent to 44 percent of the fleet already on the water. Dry bulk carriers alone accounted for 222 million tons.
 
-The scale was not absurd when the orders were placed.
+Those orders had not been placed by people who thought trade was collapsing.
 
-World trade had been expanding quickly. China was importing enormous quantities of iron ore, coal, and other raw materials. Freight rates were high. A ship that had looked old and ordinary a few years earlier could suddenly earn extraordinary sums. For an owner watching that market, the message was hard to miss: capacity was scarce.
+World commerce had been expanding. China was absorbing enormous quantities of iron ore, coal, and other raw materials. Freight rates were high enough to make unremarkable old ships suddenly valuable. To an owner watching the market, the signal looked clear: there were not enough ships.
 
-Scarcity is one of capitalism's clearest invitations.
+Capital likes a shortage.
 
-When an asset earns unusually high returns, capital tries to create more of it. A mine is expanded. A factory adds a line. A competitor raises money. A supplier increases output. A shipowner signs a contract with a yard for delivery two years later.
+A mine with exceptional margins attracts expansion. A factory with a full order book adds a line. A semiconductor bottleneck produces new fabs. High freight rates persuade a shipowner to reserve a berth at a yard for delivery two years later.
 
-The difficulty is that the response arrives late.
+The problem is that supply responds on a delay.
 
-Ships take time to build. So do factories, power plants, semiconductor fabs, pipelines, transmission lines, data centers, and many of the other physical systems that sit underneath a technology boom. By the time new capacity enters service, the market that justified the investment may already have changed.
+Ships, power plants, fabs, transmission lines, pipelines, and data centers are not created continuously as demand reveals itself. They arrive in projects. A decision is made under one set of conditions and the asset is delivered into another.
 
-In shipping, it changed violently.
+Shipping in 2008 supplied the brutal version.
 
-The Baltic Dry Index, a widely followed measure of dry-bulk freight rates, reached a record in May 2008 and then fell by more than 90 percent before the end of the year as the financial crisis hit trade and credit. The collapse in demand was severe enough on its own. The ships kept arriving anyway.
+The Baltic Dry Index reached a record in May and then fell more than 90 percent before year-end as the financial crisis hit trade and credit. Demand collapsed quickly. The fleet did not.
 
-At the beginning of 2009, world merchant-fleet capacity was 6.7 percent larger than a year earlier. The growth reflected orders placed before the crisis, when owners had expected continued expansion in trade. In dry bulk, the mismatch was even larger. By March 2009, the existing fleet carried about 418 million deadweight tons. The order book contained another 292 million.
+At the beginning of 2009, world merchant-fleet capacity was 6.7 percent larger than a year earlier. In dry bulk, the existing fleet carried about 418 million deadweight tons, while another 292 million sat in the order book.
 
-That was roughly 70 percent of the fleet already afloat.
+Roughly seventy percent of the fleet already afloat was still scheduled to arrive.
 
-The cycle had performed its trick. High freight rates had signaled scarcity. Scarcity had produced investment. The investment had produced future supply. The future arrived after demand had changed.
+The industry had made commitments in one market and received the assets in another.
 
-Nothing about that sequence requires stupidity.
+That is the capital cycle before we give it a name.
 
-A shipowner cannot order a tenth of a vessel every month as demand reveals itself. A vessel is a large, indivisible commitment. Waiting can be expensive if competitors secure the scarce shipyard slots first. A company that refuses to expand during a genuine boom may discover that it has protected itself from overcapacity by surrendering the market.
+High returns signal scarcity. Scarcity attracts money. Money finances new supply. New supply changes prices and margins. The returns that attracted the money begin to erode.
 
-The individually cautious decision and the competitively rational decision are not always the same.
+The important part is not the sequence. It is the feedback.
 
-This is the capital cycle in its simplest form: attractive returns pull money into an industry; the money changes the supply of what produced the returns; the new supply changes prices and profits; the returns that attracted the capital begin to disappear.
+Investment does not merely respond to economic conditions. It changes them.
 
-The important word is changes.
+This is easy to forget because most forecasts are built one company at a time. A manager estimates demand, chooses a market share, applies a margin, and calculates how much capacity the company needs. Competitors run their own versions of the same spreadsheet.
 
-Investment is not merely a reaction to economic conditions. It alters them.
+The spreadsheets rarely talk to one another.
 
-That sounds obvious, yet much of forecasting quietly treats supply as scenery. A company projects demand, estimates its share, applies a margin, and decides how much capacity it needs. Its competitors perform variations of the same exercise. If the underlying demand forecast is correct, each investment can look prudent on its own spreadsheet.
+Robin Greenwood and Samuel Hanson studied dry-bulk shipping partly because the industry makes the response unusually visible. Ships have long data histories, fleets can be counted, and freight rates move quickly when the balance between cargo and capacity changes.
 
-The spreadsheets do not automatically include one another.
+They found that ship earnings were strongly mean reverting. High earnings went with expensive secondhand vessels and heavy investment in new capacity, but those same conditions predicted low future returns to owning ships.
 
-Economists Robin Greenwood and Samuel Hanson studied this problem in the dry-bulk shipping market, where the assets are unusually visible and the industry has long data histories. They found that ship earnings were strongly mean reverting. High earnings were associated with high secondhand ship prices and more investment in fleet capacity, but they predicted low future returns to owning ships.
+The boom contained the seed of the disappointment.
 
-The mechanism was competitive response.
+A demand shock raises freight rates. Higher rates make ships more valuable. Owners order more vessels. With a lag, the vessels are delivered. Supply catches up. Freight rates face pressure.
 
-A positive shock to shipping demand raises freight rates. Higher freight rates improve cash flow and make ships more valuable. Owners order more ships. The order book expands. With a lag, those ships are delivered. Supply rises. Freight rates face pressure. The very profitability that made investment attractive helps undermine future profitability.
+Greenwood and Hanson also found evidence that firms did not fully incorporate how aggressively competitors would respond. Their model fit the data when owners both extrapolated demand shocks too far and underweighted the investment of other owners.
 
-Greenwood and Hanson also found evidence that owners did not fully account for how strongly their competitors would respond. Their model required two mistakes to fit the data: firms extrapolated demand shocks too far and partially neglected the investment responses of other firms.
+That second mistake is the more interesting one.
 
-The second error is especially important because it can survive sophisticated analysis.
+A manager can have an excellent view of customers and a poor view of the industry. The relevant forecast is not only how much demand will grow. It is how much everyone will build once they see the same growth.
 
-A manager may know everything there is to know about customers and still misjudge the industry. The relevant forecast is not only how much demand will grow. It is how much capacity everyone else will build in response to the same growth.
+High returns therefore have two meanings.
 
-This is why high returns are ambiguous.
+For the owner of scarce capacity, they are good news. For the prospective investor, they may also be evidence that the industry has become attractive enough to invite its own competition.
 
-For an existing owner, they are excellent news. For a prospective investor, they may be evidence that an industry is attractive. They may also be the mechanism summoning the capital that will make it less attractive later.
+The distinction matters most where expansion is easy enough for many firms to respond.
 
-The distinction becomes sharper in competitive markets.
+Gerard Hoberg and Gordon Phillips studied industry booms and busts across U.S. firms and found that in competitive industries, high valuations, investment, and financing were followed by weaker operating cash flows and abnormal stock returns. The relationship was much weaker in concentrated industries.
 
-Gerard Hoberg and Gordon Phillips examined industry booms and busts across the United States and found that, in competitive industries, high stock-market valuations, investment, and new financing were followed by sharply lower operating cash flows and abnormal stock returns. The pattern was much weaker in concentrated industries.
+Competition was not background scenery. It was part of the mechanism.
 
-Their interpretation was not that investment is inherently destructive. Competition changes the arithmetic.
+When many companies see the same opportunity, each can rationally pursue part of it while imposing some of the downside on everybody else. New entrants lower prices, bid up labor and equipment, or force incumbents to spend defensively. Customers gain alternatives. Suppliers expand. A project that makes sense in isolation can look worse after twenty rivals make the same decision.
 
-When many firms see the same opportunity, each company can capture part of the upside from expanding while imposing part of the downside on everyone else. New capacity lowers prices or increases the effort required to win customers. New entrants bid up labor, land, equipment, or financing. Suppliers expand. Customers gain bargaining power. What is privately rational can become collectively excessive.
+Nobody has to behave foolishly for the industry to overbuild.
 
-The effect resembles a crowded doorway. No one person causes the congestion by moving toward the exit. The congestion appears because everyone responds to the same signal at once.
+The problem becomes harder when demand is genuinely strong.
 
-Capital cycles are therefore easiest to misunderstand when the signal is genuine.
+If the boom were based on imaginary customers, the diagnosis would be simple. Demand would fail, capacity would sit idle, and the story would end.
 
-If the boom were based on nothing, the analysis would be simpler. Demand would fail to appear. Capacity would sit idle. Investors would move on.
+The more interesting case is an industry in which demand grows quickly and supply grows faster.
 
-The harder case is a market in which demand grows rapidly and keeps growing, but supply grows faster.
+Shipping has done this repeatedly. Cargo can increase. The ships can remain useful for decades. Freight rates can still fall far enough to ruin the economics of the owners who bought new vessels near the top.
 
-Shipping has lived through this repeatedly. The cargo can be real. Trade can increase. The ships can remain useful for decades. Freight rates can still fall far enough to wreck the economics of the owners who financed the new capacity.
+Fixed costs make the aftermath worse.
 
-This is not unusual in industries with high fixed costs.
+Once a ship exists, much of its cost cannot be recovered by leaving it tied to the dock. Debt, depreciation, insurance, and maintenance continue. During a weak market it can be rational to accept a freight rate far below what justified ordering the vessel, so long as the rate contributes something toward unavoidable costs.
 
-Once a ship has been built, much of its cost cannot be recovered by refusing to sail. The owner still has debt, depreciation, insurance, maintenance, and other obligations. If the market weakens, it can be rational to accept a freight rate that contributes something toward those costs even if the rate is far below what justified buying the vessel in the first place.
+That keeps capacity in the market and pushes price competition further.
 
-That behavior can push prices down further.
+Airlines have a similar problem with an empty seat on a flight that will depart anyway. Hotels discount rooms that will otherwise expire unused. Semiconductor fabs try to keep expensive equipment productive. Communications networks can carry an additional unit of traffic for very little incremental cost once the network has been built.
 
-The same logic appears in airlines selling a seat on a flight that will depart anyway, in semiconductor plants running expensive fabrication equipment, in hotels discounting empty rooms, and in communications networks carrying one more unit of traffic for little incremental cost. When the capital is already committed, competition is conducted against marginal economics even though investment decisions were made against average economics.
+A capital-intensive industry can spend years discovering that an asset is useful and was still built at the wrong price.
 
-The industry can therefore spend years discovering that an asset is useful but was built at the wrong price.
+Debt adds another turn to the screw.
 
-This is one reason debt matters.
+Leverage allows more capacity to be financed during good times. It also reduces the time an owner can wait when conditions deteriorate. Falling cash flow collides with fixed payments. Asset values weaken. Refinancing becomes harder. Distressed sales lower the market price of similar assets held by everybody else.
 
-Leverage allows more capacity to be financed during good times. It also makes patience expensive during bad ones. An unlevered owner may wait through a downturn. A heavily indebted owner has payments due. Falling asset values weaken collateral. Refinancing becomes harder precisely when cash flows deteriorate. Distress can force asset sales, and forced sales lower the market value of similar assets still held by others.
+The financial cycle amplifies the physical one.
 
-The financial cycle can amplify the physical one.
-
-Credit is easiest to obtain when recent results make the industry look safest. Lenders can see strong earnings, high asset values, and rising demand. The same conditions also encourage companies to expand. Financing therefore tends to be abundant near the point when the industry's collective commitment to future supply is already increasing.
+Credit is often easiest to obtain when the recent numbers look safest: strong earnings, rising demand, valuable collateral. Those same conditions encourage expansion. The industry can therefore secure the most financing near the period when it is committing the most future supply.
 
 Then the evidence changes.
 
-Demand slows, or merely grows less quickly than expected. Prices soften. Margins fall. A project that seemed conservative at last year's selling price becomes aggressive at this year's. Companies cancel what they can. They cannot cancel what is already built.
+Demand slows, or merely grows less quickly than expected. Prices soften. Projects are cancelled where they still can be. Assets already built keep competing.
 
-This lag is where the cycle stores its force.
+The lag stores the force of the cycle.
 
-UNCTAD's 2008 maritime review captured the shipping industry at almost exactly that moment. The fleet was the largest it had ever been. The order book was the largest it had ever been. The report was already noting cancellations by the middle of the year.
+UNCTAD's 2008 maritime review caught shipping at that uncomfortable moment. The fleet was enormous. The order book was larger still. Cancellations were beginning, but many projects were too advanced to erase.
 
-The cancellations could reduce future supply, but they could not erase the orders already far enough along to be delivered.
+The 2009 review then described falling trade volumes while the fleet continued expanding.
 
-By 2009, the review described declining trade volumes occurring at the same time as the world fleet continued to expand. The contradiction was only apparent. The new ships were decisions made in an older market.
+There was no contradiction. The new ships were old decisions.
 
-Capital is full of delayed decisions.
+Capital is full of old decisions arriving late.
 
-A factory completed today may reflect a board vote from two years ago, a market forecast from three years ago, and a strategic fear that first became persuasive four years ago. By the time the asset begins producing, its competitors have had years to respond to the same information.
+A factory completed today may reflect a board vote from two years ago, a market forecast from three years ago, and a strategic fear that became persuasive before either. While the project moves through permits, contracts, construction, and financing, competitors are responding to the same signal.
 
-This makes the capital cycle different from the simple picture of supply and demand drawn on a classroom board. Supply does not glide smoothly toward equilibrium. It arrives in projects, contracts, construction schedules, financing packages, and permitting queues.
+Supply does not glide toward equilibrium. It arrives in chunks.
 
-Some forms of capacity also improve while they are being built.
+Technology can increase effective supply even faster than the physical buildout suggests.
 
-A telecommunications network may carry more data than planners initially expected because optical equipment improves. A semiconductor fab may produce more usable chips as yields rise. A data center may support more computation as hardware and software become more efficient. Technical progress can create effective capacity even without another building.
+A fiber network can carry more traffic when optical equipment improves. A semiconductor fab can produce more usable chips as yields rise. A data center can perform more computation if new hardware and software raise throughput. Scarcity can ease without another building appearing on the skyline.
 
-This matters because investors often anchor on physical scarcity.
+This is why investors should be suspicious of sentences that begin with “there are only so many.”
 
-There are only so many ships. Only so many fabs. Only so many megawatts. Only so many accelerators.
+There may indeed be only so many ships, fabs, megawatts, transformers, or accelerators today. The high price of that scarcity is precisely what attracts money, substitutes, efficiency improvements, customer redesigns, and new entrants.
 
-That statement can be true today and economically misleading tomorrow.
+Scarcity is not just a condition. It is a call to action.
 
-Scarcity is a condition. It is also a price signal.
+Sometimes the shortage survives the response.
 
-The higher the reward for solving the shortage, the more resources will be directed toward solving it. Existing suppliers expand. Customers redesign products to use less of the scarce input. Substitutes improve. New entrants appear. Bottlenecks move.
+Prime urban land does not replicate because rents rise. Mineral deposits, spectrum, licenses, rights of way, intellectual property, network effects, manufacturing know-how, or exceptional scale can preserve rents for long periods. Demand can also grow quickly enough to absorb years of investment. A concentrated industry may expand without destroying its own economics.
 
-Sometimes scarcity survives all of that.
+That is why the capital cycle is not a metronome.
 
-Oil fields cannot be created by enthusiasm. Prime urban land does not multiply when rents rise. Regulatory licenses, mineral deposits, spectrum, rights of way, intellectual property, network effects, and manufacturing know-how can preserve economic rents for long periods. A concentrated industry can respond to demand without destroying its own profitability if entry is difficult and expansion is disciplined.
+High returns do not mechanically cause a glut. They create an incentive for one. Whether the response erodes profitability depends on entry barriers, competitive structure, build times, technical change, and the strength of demand when the capacity finally arrives.
 
-This is the strongest countercase to treating the capital cycle as a law.
+The Hoberg and Phillips evidence is useful precisely because the boom-and-bust pattern was stronger in competitive industries. Industry structure belongs inside the forecast.
 
-The cycle is not a metronome. High returns do not mechanically cause a glut. Expanding demand can absorb expanding supply. A dominant company can maintain pricing power. Capacity may be so difficult to build that several years of investment merely close an existing shortage. Firms can also learn from earlier cycles and ration expansion more carefully.
+Shipping is a clean example, not a universal template.
 
-The empirical evidence itself warns against overstatement. Hoberg and Phillips found the boom-and-bust relation much more strongly in competitive industries than concentrated ones. The competitive structure is part of the mechanism, not an incidental detail.
+The practical questions are less elegant than a single rule.
 
-Shipping is therefore a clean example partly because entry and expansion are visible, assets are mobile, and prices respond quickly to the balance between ships and cargo. It is not a universal template for every technology business.
+What is scarce? How high are the returns created by that scarcity? Who is able to finance a response? How long does the response take? How much capacity is already committed? What happens to unit economics when it arrives? And what protects the attractive part of the business from being competed away?
 
-The better lesson is to ask a sequence of questions.
+Those questions change the meaning of growth.
 
-What is scarce? How high are the returns created by that scarcity? How quickly can competitors attract financing? How long does new capacity take to arrive? How much capacity is already under construction? What happens to unit economics when the supply arrives? And what prevents the most attractive part of the business from being competed away?
+An industry can grow quickly while becoming less profitable. Revenue can rise while returns on the next dollar of capital fall. Units can increase while prices decline. Customers can receive more value while suppliers fight over a shrinking margin.
 
-Those questions turn a story about demand into a story about industry structure.
+Technology forecasting asks whether people will want more of something.
 
-They also change the meaning of growth.
+Capital-cycle analysis asks what producers will do once they learn the answer is yes.
 
-An industry can grow quickly while becoming less profitable. Revenue can rise while returns on incremental capital fall. Units can increase while prices decline. Customers can receive more value while suppliers fight over who captures it.
+The second question is recursive. Competitors respond to demand. Investors respond to competitors. Suppliers respond to investment. Their combined response changes the price customers see, which changes demand again.
 
-This is the point at which technology forecasting and investment forecasting separate.
+A boom is a feedback system.
 
-Technology forecasting asks whether people will want more of something. Capital-cycle analysis asks what producers will do once they know the answer is yes.
+The best operators often focus less on today's profit margin than on the industry's order book. They worry about future supply while current results are wonderful. After the downturn, they ask whether terrible returns have finally stopped enough investment to make the surviving capacity valuable again.
 
-The second question is usually harder because it is recursive. Competitors respond to demand. Investors respond to competitors. Suppliers respond to investors. Their combined response changes the price customers see, which changes demand again.
+That perspective can feel contrarian because the most useful evidence often arrives before earnings deteriorate.
 
-A boom is not a straight line from invention to adoption. It is a feedback system.
+In shipping, the 2008 order book made the future visible in steel. Hundreds of millions of tons of carrying capacity were already contracted. A freight-rate forecast that ignored those ships was incomplete even if its trade forecast was perfect.
 
-The best operators understand this intuitively. They may refuse projects at the moment the industry looks strongest because the order book has become frightening. They may buy distressed assets after a downturn because the construction pipeline has finally emptied. Their advantage is not necessarily a superior demand forecast. It is a better sense of how capital will respond to that forecast.
+Every capital-intensive boom has its version of that order book.
 
-This way of thinking can feel perversely contrarian. When current profits are high, the capital-cycle investor worries about future supply. When current profits are awful, the same investor asks whether low returns are finally stopping investment.
+It might be a semiconductor-fab schedule, a utility interconnection queue, a data-center construction pipeline, purchase commitments for accelerators, or a stack of power projects whose economics were approved under today's shortage.
 
-The focus shifts from today's margin to tomorrow's industry.
+The form changes. The question does not.
 
-That is why the deepest part of the cycle often appears before financial results weaken.
+How much future capacity has already been financed by today's scarcity?
 
-The crucial evidence may be in the order book, not the income statement.
+That question lands directly on artificial intelligence.
 
-In shipping, the 2008 order book made the future supply response visible in steel. Hundreds of millions of tons of carrying capacity were already contracted. A freight-rate forecast that ignored those ships was incomplete even if its trade forecast was excellent.
+NVIDIA's fiscal 2026 results made the scarcity signal difficult to miss. Revenue reached $215.9 billion, up 65 percent from the prior year. Data Center revenue rose 68 percent. GAAP gross margin was 71.1 percent.
 
-Every capital-intensive boom has its own version of an order book.
+Those are not the economics of an industry begging capital to stay away.
 
-It may be a construction pipeline, a semiconductor fab schedule, a backlog of power-generation projects, a utility interconnection queue, a manufacturer’s committed purchase obligations, or a stack of data centers whose shells are rising before all their future customers are known.
+They are the economics of something valuable being scarce.
 
-The form changes. The analytical question does not.
+The numbers do not prove that NVIDIA's margins must collapse. The company may preserve durable advantages in hardware, software, networking, distribution, and execution. Demand may continue surprising upward. Scarcity can persist much longer than skeptics expect.
 
-How much future capacity has already been financed by today's shortage?
+But the signal travels.
 
-This is where the argument returns to artificial intelligence.
+Customers design chips. Competitors raise money. Foundries expand. Memory suppliers invest. Cloud providers build campuses. Utilities plan generation and transmission. Equipment makers add lines. Governments subsidize domestic capacity.
 
-At the moment, the scarcity signal is difficult to miss. NVIDIA reported $215.9 billion of revenue for fiscal 2026, up 65 percent from the previous year, with a 71.1 percent gross margin. Data Center revenue rose 68 percent. Those are not the economics of a market begging capital to stay away.
+Each response begins with a sensible observation: demand is strong.
 
-They are the economics of a market shouting that something valuable is scarce.
+The capital-cycle question begins one step later.
 
-A high margin does not prove that a supplier is overearning or that competition will erase its advantage. NVIDIA may retain durable strengths in hardware, software, networking, ecosystem, and execution. Demand may continue to outrun supply for years. The company may be one of the cases in which a scarce position remains scarce longer than skeptics expect.
+What does today's scarcity cause everyone to build for tomorrow?
 
-But the signal does what high returns always do. It travels.
-
-Customers design their own chips. Competitors raise money. Foundries expand. Memory suppliers invest. Cloud providers build campuses. Utilities plan generation and transmission. Developers secure land. Equipment manufacturers add lines. Sovereign governments subsidize local capacity. Each response begins with a defensible observation about demand.
-
-The capital-cycle question is not whether AI demand is real.
-
-The previous chapters have already made the book's position on that clear. The technology can be useful, adoption can grow, and infrastructure can be necessary.
-
-The question is what today's extraordinary scarcity induces everyone to build for tomorrow.
-
-Shipping teaches the uncomfortable part. By the time the answer becomes obvious in prices and margins, much of the response may already be under construction.
+Shipping teaches why that question has to be asked before margins weaken. By the time the answer becomes obvious in prices, much of the supply response may already be under construction.
 
 The next place to look, then, is not at the chatbot.
 
