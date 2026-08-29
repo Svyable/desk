@@ -200,22 +200,6 @@ A trigger is simply a feature that changes policy.
 
 Capability expansion creates more candidate features.
 
-This is another reason model provenance matters.
-
-Where did the weights come from?
-
-Who fine-tuned them?
-
-What data was used?
-
-What evaluations were performed before and after post-training?
-
-Were the same tests visible during training?
-
-Could a trigger have been reinforced accidentally?
-
-The AI industry spent its first boom treating models primarily as intellectual artifacts. A model was a capability: text generation, image synthesis, coding, reasoning. The security era requires us to treat models as executable supply-chain objects.
-
 What can be done?
 
 One response is broader adversarial testing. Vary dates, identities, system prompts, formatting, permissions, tools, and environmental signals. Search for discontinuities in behavior. Look for suspicious conditional changes.
