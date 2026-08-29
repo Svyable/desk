@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 5 of 21 drafted |
+| **Chapters** | 6 of 21 drafted |
 
 ## Contents
 
@@ -16,7 +16,7 @@
 - [x] [Ch 3 — Permission Is a Form of Power](manuscript/ch03-permission-is-a-form-of-power.md)
 - [x] [Ch 4 — The Queue](manuscript/ch04-the-queue.md)
 - [x] [Ch 5 — The Credential](manuscript/ch05-the-credential.md)
-- [ ] [Ch 6 — The Credit Decision](manuscript/ch06-the-credit-decision.md)
+- [x] [Ch 6 — The Credit Decision](manuscript/ch06-the-credit-decision.md)
 - [ ] [Ch 7 — Prior Authorization](manuscript/ch07-prior-authorization.md)
 - [ ] [Ch 8 — The Border](manuscript/ch08-the-border.md)
 - [ ] [Ch 9 — The App Store](manuscript/ch09-the-app-store.md)
