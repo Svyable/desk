@@ -64,27 +64,17 @@ Someone can spend a day shaping stone, repairing a roof, guarding an entrance, m
 
 That is what surplus does at its most basic. It separates the timing of energy capture from the timing of energy use.
 
-Once that separation exists, coordination becomes more powerful.
-
 Imagine two communities with the same annual food energy. One consumes almost everything as it appears. The other can preserve a meaningful share for months. Their annual caloric totals may be identical, yet their options are not. The second community can survive a short interruption, provision a work party, support travel during a lean period, accumulate seed for planting, or concentrate labor on a task whose payoff comes later.
 
-The useful difference lies in controllability.
-
 Agriculture also made energy more legible to institutions. A herd can be counted. A field can be measured. A basket of grain can be weighed or estimated. A storehouse can be guarded. A portion can be demanded.
-
-This is where the story becomes politically uncomfortable.
 
 The same properties that make a surplus useful make it extractable.
 
 A cache of roots scattered across a landscape is difficult for a distant authority to assess. Grain gathered into a settlement is easier. It matures on a seasonal schedule, can be divided, stored, transported, and inspected. A granary does not invent taxation, but it creates the kind of resource around which taxation becomes practical.
 
-Once food survives its producer, other people can make claims on it.
-
-Those claims can finance genuine public goods. Shared stores can buffer famine. Collective labor can build walls, roads, canals, temples, drainage systems, and defensive works no household could easily produce alone. A political center can coordinate projects across hundreds or thousands of people. Surplus can support people whose knowledge is valuable but whose work does not yield food directly.
+Those claims are not necessarily predatory. Shared stores can buffer famine. Collective labor can build walls, roads, canals, temples, drainage systems, and defensive works no household could easily produce alone. A political center can coordinate projects across hundreds or thousands of people. Surplus can support people whose knowledge is valuable but whose work does not yield food directly.
 
 It can also support elites, raiders, and armies.
-
-The physical property is neutral. Stored grain can feed a child through winter or a soldier marching toward someone else’s granary.
 
 The archaeological record of inequality makes that ambiguity difficult to avoid. Timothy Kohler and a large group of collaborators compared house-size distributions from archaeological sites across several regions as a consistent proxy for household wealth. Their 2017 study found that material inequality generally rose with domesticated plants and animals and with increasing sociopolitical scale. The later divergence was especially striking: post-Neolithic Eurasian societies tended to develop greater household wealth disparities than those in North America and Mesoamerica.
 
@@ -92,29 +82,19 @@ The authors argued that access to large domesticated mammals was one important r
 
 The finding should not be turned into a universal law. The dataset is an archaeological sample, house area is an imperfect proxy for wealth, and the study itself emphasizes regional differences. Farming did not impose one inevitable political structure everywhere.
 
-But it does expose a weakness in the simplest surplus story. More storable energy does not merely create more occupations. It creates contests over ownership, access, and enforcement.
+But it does expose a weakness in the simplest surplus story. More storable energy does not merely create more occupations. It creates disputes over ownership, access, and enforcement.
 
-Surplus needs rules.
-
-Who owns the seed grain? Who may open the storehouse during a shortage? Who contributes to a communal reserve? Who decides when it is used? What happens when one household produces more than another? What share is owed to a temple, chief, landlord, state, or army? Can the store be inherited? Can it be stolen? Can debt be denominated against the next harvest?
-
-These are institutional questions, but they arise around a physical fact: useful material has persisted long enough to become governable.
+That makes the granary an institutional object as much as a technical one. Someone has to decide which grain is seed, which is rationed, which is owed, which is shared, and which can be kept. The food has persisted long enough to become governable.
 
 Fire required continuity of knowledge. Agriculture adds continuity of stock.
 
-That distinction is easy to miss in energy histories that jump from biomass to coal by comparing quantities. Long before fossil fuels, humans were learning to manipulate the timing, density, and ownership of biological energy. Fields concentrated plant growth. Domestication gradually altered the organisms themselves. Storage moved food through seasons. Draft animals later converted plant energy into mechanical work outside the human body. Irrigation redirected water to increase the reliability of plant production. Roads and boats widened the radius across which surplus could be moved.
+Long before fossil fuels, humans were learning to manipulate the timing, density, and ownership of biological energy. Fields concentrated plant growth. Domestication gradually altered the organisms themselves. Storage moved food through seasons. Draft animals later converted plant energy into mechanical work outside the human body. Irrigation redirected water to increase the reliability of plant production. Roads and boats widened the radius across which surplus could be moved.
 
-The system became more capable because more pieces of the solar flow were being directed rather than merely encountered.
+The gains came with dependence. A mobile forager could draw on many species across a landscape; a farming community might become extraordinarily knowledgeable about a smaller number of crops, soils, seasons, pests, storage conditions, and water systems. When a society specializes around a narrow agricultural base, failure can spread through the same channels that made the system productive.
 
-That capability came at a cost in labor and dependence.
+A failed crop is more dangerous when nearly everyone is waiting on the same crop.
 
-A forager may know dozens of useful species across a landscape. A farming community can become extraordinarily knowledgeable about a smaller number of crops, soils, seasons, pests, storage conditions, and water systems. The knowledge is different, not simply greater. So is the failure mode. When a society specializes around a narrow agricultural base, the machinery of abundance can become machinery of vulnerability.
-
-A failed crop can be more dangerous precisely because so much depends on the crop.
-
-The same pattern will return with later energy systems. Coal creates capabilities that become hard to replace once factories, railways, and cities assume its availability. Electricity allows an astonishing range of activities, then makes outages more consequential because so many activities have been designed around continuous power. A civilization becomes richer in options by building dependencies on systems that must keep working.
-
-Agriculture was an early version of that bargain.
+Later energy systems will repeat that bargain. Coal creates capabilities that become hard to replace once factories, railways, and cities assume its availability. Electricity allows an astonishing range of activities, then makes outages more consequential because so many activities have been designed around continuous power. Capability grows by building dependencies on systems that must keep working.
 
 There is a temptation to call the shift from foraging to farming humanity’s first great step toward abundance. The word is too generous if it erases the people who worked harder, ate worse, suffered new diseases, or lost autonomy inside more hierarchical systems.
 
@@ -130,39 +110,21 @@ That possibility is more interesting than a generic tale of progress. A communit
 
 The raised floor at Dhra′ was built to keep grain away from moisture and pests. It may also have helped create a new kind of social object—food that remained in one place long enough for a community, household, or authority to define a claim over it.
 
-Stored energy becomes stored power in more than one sense.
-
-This is where the energy argument has to stay disciplined. Civilization cannot be reduced to calories. If it could, the community with the largest grain pile would always be the most advanced. Institutions determine whether a surplus becomes resilience or tribute, public works or palaces, seed stock or military provisioning. Knowledge determines whether land remains productive or is exhausted. Culture determines what obligations people recognize toward one another. Disease, ecology, violence, and accident can overwhelm careful planning.
-
-Energy does not choose among those outcomes.
-
-What it does is widen the menu.
-
-A community living close to immediate subsistence has fewer ways to redirect labor without risking hunger. A community with durable stores can place larger bets on activities whose returns are delayed or indirect. Some bets produce irrigation works and craft traditions. Some produce bureaucracies that mostly preserve themselves. Some produce armies.
-
-The physical surplus is an enabling condition, not a verdict on what follows.
+The energy argument has to stop there rather than pretending the physics selects the politics. A granary can become resilience or tribute, seed stock or military provisioning. Energy widens the menu; institutions decide what gets ordered.
 
 That distinction becomes even more important when draft animals enter the system. A domesticated ox is not merely food on legs. Fed on plants, it converts chemical energy into traction. It can pull a plow, move a cart, and expand the amount of land a household can work. Large animals also reproduce, can be accumulated as wealth, and can be controlled by people who control pasture and land.
 
-Kohler’s cross-regional inequality result suggests how profoundly that combination can matter. The energy system does not sit outside the social system. A source of mechanical power can also become an asset class.
+Kohler’s cross-regional inequality result suggests how profoundly that combination can matter. A source of mechanical power can also become an asset.
 
-The later history of energy will repeatedly fuse those two meanings of power. Coal mines are physical resources and economic property. Oil fields are geological facts and geopolitical prizes. Electrical grids are machines and regulated institutions. Data centers are loads on a network and concentrations of capital. The ability to command energy is always entangled with rules about who gets to command it.
-
-Agriculture is where that entanglement becomes difficult to ignore.
+The later history of energy will keep fusing those two meanings of power. Coal mines are physical resources and economic property. Oil fields are geological facts and geopolitical prizes. Electrical grids are machines and regulated institutions. Data centers are loads on a network and concentrations of capital. The ability to command energy is entangled with rules about who gets to command it.
 
 The first farmers did not necessarily discover an easier way to live. They helped assemble a system that could support more people, hold more energy across seasons, concentrate more resources in one place, and coordinate labor over longer periods. That system made new forms of resilience possible. It also made new forms of extraction possible.
 
-The surplus was therefore not simply “extra food.” It was time made material.
+The surplus was therefore not simply extra food. It was time made material.
 
 A basket of grain carried labor from harvest into winter. Seed carried one growing season into the next. A herd carried plant energy until it was needed as meat, milk, hide, or muscle. A storehouse carried the good fortune of one month into the uncertainty of another.
 
-Once energy could be held this way, human plans could lengthen.
-
-A wall could take years. A canal could require thousands of coordinated workdays before returning anything. A craft could demand apprenticeship. A settlement could maintain people whose expertise mattered only occasionally but mattered enormously when needed. Political projects could outlast the harvest that financed their first stones.
-
-Civilization begins to acquire a longer memory not only because people remember more, but because resources survive long enough for remembered plans to be acted upon.
-
-That is the deeper meaning of surplus in this story.
+Once energy could be held this way, human plans could lengthen. A wall could take years. A canal could require thousands of coordinated workdays before returning anything. A craft could demand apprenticeship. Political projects could outlast the harvest that financed their first stones.
 
 At Dhra′, the remains are architectural rather than literary: mud walls, reused grinding stones, beam supports, the traces of a raised floor. The people who built them left no explanation of what they thought they were doing. They may not have imagined themselves crossing a historical threshold. They were solving a practical problem: how to keep food from being eaten by everything except the people who had gathered or cultivated it.
 
