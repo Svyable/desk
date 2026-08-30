@@ -16,6 +16,6 @@
 
 This is an unpublished Desk manuscript. Review and revise it here before deliberately releasing a Shelf edition.
 
-- [Open the working Desk preview](https://svyable.github.io/self/reader/#/b/synthetic-intelligence/)
+- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/)
 
 The central thesis is that AI-generated experience becomes transformative when generation is coupled to verification, diversity, adaptive curricula, and recurring contact with real-world ground truth. Forecasts are identified as forecasts in the manuscript.
