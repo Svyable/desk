@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | Prologue + 4 of 17 chapters drafted |
+| **Chapters**  | Prologue + 6 of 17 chapters drafted |
 
 ## Contents
 
@@ -16,13 +16,13 @@
 - [x] [Ch 2 — The Five Currencies of Sovereignty](manuscript/ch02-the-five-currencies-of-sovereignty.md)
 - [x] [Ch 3 — The American Engine](manuscript/ch03-the-american-engine.md)
 - [x] [Ch 4 — Canada and the Sovereignty Premium](manuscript/ch04-canada-and-the-sovereignty-premium.md)
+- [x] [Ch 5 — Mexico: The Factory Learns to Think](manuscript/ch05-mexico-the-factory-learns-to-think.md)
+- [x] [Ch 6 — The Caribbean: Small States, Big Intelligence](manuscript/ch06-the-caribbean-small-states-big-intelligence.md)
 
 ## Planned chapters
 
 ### Part II — The Hemisphere Becomes a Machine
 
-5. Mexico: The Factory Learns to Think
-6. The Caribbean: Small States, Big Intelligence
 7. Chile, Uruguay, and the Competent State
 8. Brazil: The Green Compute Republic
 9. The Amazon Has a Data Policy
