@@ -8,6 +8,8 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 | Global word vectors | Jeffrey Pennington, Richard Socher and Christopher D. Manning, “GloVe: Global Vectors for Word Representation,” 2014. https://nlp.stanford.edu/pubs/glove.pdf | Connects vector geometry to global co-occurrence statistics and documents useful similarity structure. | Results depend on corpus, preprocessing, dimensionality and evaluation. |
 | Multimodal representation | Alec Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” 2021. https://arxiv.org/abs/2103.00020 | Primary source for CLIP-style contrastive alignment of image and text representations at scale. | A shared training objective does not imply a perfectly unified or bias-free semantic space. |
 | Similarity search | Jeff Johnson, Matthijs Douze and Hervé Jégou, “Billion-scale similarity search with GPUs,” 2017. https://arxiv.org/abs/1702.08734 | Engineering anchor for large-scale exact/approximate similarity search and FAISS. | Separate indexing speed/recall tradeoffs from embedding quality and semantic relevance. |
+| Contrastive geometry | Chungpa Lee, Sehee Lim, Kibok Lee and Jy-Yong Sohn, “On the Similarities of Embeddings in Contrastive Learning,” ICML 2025. https://proceedings.mlr.press/v267/lee25v.html | Current theoretical evidence that positive/negative sampling and batch structure shape cosine-similarity geometry in contrastive representation learning. | One theoretical framework and experimental regime; do not universalize its batch-size conclusions to all contrastive objectives. |
+| Multimodal geometry | Meir Yossef Levi and Guy Gilboa, “The Double-Ellipsoid Geometry of CLIP,” ICML 2025. https://proceedings.mlr.press/v267/levi25b.html | Evidence that a widely used CLIP representation has nontrivial global geometry, including modality-specific ellipsoid shells and nonzero centers. | Model-family specific; geometry can differ across CLIP variants, training sets and later multimodal encoders. |
 
 ## Sources to add before the relevant chapters
 
@@ -31,6 +33,7 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 
 - Karpukhin et al., “Dense Passage Retrieval for Open-Domain Question Answering,” 2020.
 - Comparative and hybrid-search work pairing dense retrieval with lexical retrieval such as BM25.
+- Robustness work on hubness, anisotropy, multilingual retrieval symmetry and metric corrections, with replication before broad claims.
 
 ### Recommendation
 
@@ -62,6 +65,7 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 
 - Any claim that two concepts occupy a single stable direction across different models.
 - Any claim that cosine similarity directly measures human semantic similarity.
+- Any claim that hubness or anisotropy is the dominant explanation for retrieval failures across embedding families without model-specific evidence.
 - Any vector-database performance comparison that does not control for recall, hardware, dimensionality and index parameters.
 - Any claim that a two-dimensional visualization reveals the true structure of a high-dimensional representation.
 - Any statement that an embedding-bias score directly predicts discrimination or social harm.
