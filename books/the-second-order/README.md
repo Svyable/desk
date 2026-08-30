@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 3 of 20 drafted |
+| **Chapters** | 4 of 20 drafted |
 
 *What Happens When the World Reacts to the Model*
 
@@ -20,7 +20,7 @@ The central argument is that prediction and measurement become governance when d
 - [x] [Ch 1 — The Forecast Enters the World](manuscript/ch01-the-forecast-enters-the-world.md)
 - [x] [Ch 2 — The Metric Eats the Mission](manuscript/ch02-the-metric-eats-the-mission.md)
 - [x] [Ch 3 — The Economy Learns the Rule](manuscript/ch03-the-economy-learns-the-rule.md)
-- [ ] Ch 4 — Prices That Create Their Own Evidence
+- [x] [Ch 4 — Prices That Create Their Own Evidence](manuscript/ch04-prices-that-create-their-own-evidence.md)
 - [ ] Ch 5 — Rankings Build the Thing They Rank
 - [ ] Ch 6 — The Test Becomes the Curriculum
 - [ ] Ch 7 — The Model Meets the Patient
