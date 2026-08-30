@@ -20,6 +20,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 
 - [Aggregate, Consolidate, Innovate](https://svyable.github.io/desk/books/aggregate-consolidate-innovate/README.md)
 - [Built to Be Alone](https://svyable.github.io/desk/books/the-loneliness-dividend/README.md)
+- [Exponential Compression](https://svyable.github.io/desk/books/exponential-compression/README.md)
 - [Gatekeepers](https://svyable.github.io/desk/books/gatekeepers/README.md)
 - [Keep Cooking](https://svyable.github.io/desk/books/keep-cooking/README.md)
 - [Leveraging Luck](https://svyable.github.io/desk/books/leveraging-luck/README.md)
@@ -37,6 +38,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Convergence](https://svyable.github.io/desk/books/the-convergence/README.md)
 - [The Delegation Machine](https://svyable.github.io/desk/books/the-delegation-machine/README.md)
 - [The Exponentiality](https://svyable.github.io/desk/books/the-exponentiality/README.md)
+- [The Potentiality](https://svyable.github.io/desk/books/the-potentiality/README.md)
 - [The Reliability Tax](https://svyable.github.io/desk/books/the-reliability-tax/README.md)
 - [The Search Frontier](https://svyable.github.io/desk/books/the-search-frontier/README.md)
 - [The Unbounding](https://svyable.github.io/desk/books/the-unbounding/README.md)
