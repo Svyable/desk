@@ -109,3 +109,67 @@ But a well-designed market, scoring rule, or competitive allocation system can d
 That is enough to earn markets a place in the cognitive portfolio.
 
 Not the throne.
+
+The strongest argument for markets comes from a problem Friedrich Hayek described long before prediction markets existed: important knowledge is dispersed. It sits in local circumstances, private plans, changing preferences, inventories, skills, and observations no central planner possesses in one place. Prices can coordinate some of that knowledge without requiring anyone to assemble the full picture first.
+
+AI changes the cost of central assembly, which makes the old problem look deceptively solved.
+
+A sufficiently capable model can read reports from every division. It can ingest weather, sales, supply-chain status, customer sentiment, technical logs, and financial data. Why rely on a market’s noisy indirect signal if the center can simply know more?
+
+Because collection is not the same as possession.
+
+Some knowledge is tacit. Some arrives too late. Some is strategically withheld. Some is not written down because the person who holds it does not know it matters. Some is costly to verify. Some observations change when people know they are being measured. A central model can process an astonishing archive and still miss the fact that a local operator is willing to bet reputation, money, or action against the official view.
+
+Markets create a channel for that dissent.
+
+The useful feature is not mystical efficiency. It is permission to disagree in a standardized form. A trader does not need to persuade a committee before taking the other side. An internal forecaster does not need to win a political argument before recording a lower probability. The institution can see that disagreement exists before it knows who is right.
+
+That is a valuable property for AI organizations because machine-generated consensus may be cheap.
+
+Imagine an executive asks five agents for independent forecasts. If all five are fine-tuned on similar data, retrieve from the same documents, and use the same dominant model family, the apparent consensus is weak evidence. A market populated by those agents can amplify the illusion: five buyers arrive at the same price because they share the same blind spot.
+
+Diversity therefore has to be measured upstream of the number.
+
+Who produced the forecasts? Which models? Which data? Which incentives? Which time horizons? Did any participant have information others lacked? Did participants update after observing one another, creating herding? A market price without this ecology can be precise and fragile.
+
+This suggests a role for deliberate cognitive antitrust inside organizations. Critical forecasts should not all depend on one model provider, one data pipeline, one analyst culture, or one methodological fashion. Independence costs money because duplication looks wasteful. The cost buys protection against common-mode failure.
+
+The same logic applies to model routing markets. If every model is evaluated by one benchmark, the benchmark becomes the market maker. Systems optimize toward it. Providers learn its shape. Buyers allocate spend according to the score. The apparent competition can conceal a single objective function governing the field.
+
+Healthy markets need plural evidence.
+
+Another limit concerns liquidity. A market price looks like a fact even when little capital stands behind it. A thin market can move sharply because one participant acts. An internal prediction market can look democratic while only a handful of employees trade. The interface should expose participation, spread, volume, and the uncertainty implied by sparse activity rather than displaying a naked percentage.
+
+This is an interface lesson smuggled into market design. Compression should preserve the facts that determine how much the compression deserves trust.
+
+Question wording matters just as much. A prediction contract resolves according to specified criteria, not according to the philosophical concept participants may have in mind. “Will the project succeed?” is nearly useless until success is defined. “Will the product reach 100,000 paid users by December 31 according to the billing database?” is tradeable, but the crispness narrows the question.
+
+Organizations can exploit this usefully. Turning vague claims into resolvable forecasts forces hidden assumptions into the open. When a manager says a reorganization will “improve collaboration,” ask what observable event would change belief. When a team says a launch is “on track,” ask for a dated distribution of possible launch outcomes.
+
+The market discipline begins before anyone trades.
+
+Yet resolution criteria can also be gamed. If people are rewarded for a forecasted metric, they may influence the metric. An internal market on whether a team ships by Friday becomes strange if traders are also the engineers deciding whether to declare the product shipped. Prediction and control are entangled.
+
+This is not a defect unique to markets. It is a reminder that an institution should know whether forecasters are observers, participants, or decision makers. Sometimes their inside position is exactly why their information is valuable. Sometimes it creates conflicts that require disclosure or limits.
+
+AI agents intensify the issue because the same agent may forecast, recommend, and act.
+
+A system estimates an eighty-percent chance a marketing campaign will succeed, then allocates budget to the campaign and later reports the outcome. The forecast partly causes the event. Calibration statistics become harder to interpret. The agent can look accurate because its predictions receive resources while alternatives do not.
+
+Markets for judgment therefore need separation between forecasting performance and authority where possible. The institution should record what a system believed before its recommendation altered the world.
+
+This is another reason to preserve temporal memory.
+
+There is also value in markets that fail. A persistent disagreement can tell leadership that the organization does not share one model of reality. A wide spread can signal uncertainty. A contract nobody wants to trade may be badly specified or unimportant. A sudden price move can identify new information before the official process has absorbed it.
+
+The institution should treat these as signals rather than merely seeking the most accurate closing price.
+
+A market is a sensor network with incentives attached.
+
+Like any sensor network, it needs calibration, maintenance, redundancy, and awareness of blind spots. It works best when embedded inside a larger system that can investigate why the signal moved and decide what action is legitimate.
+
+The future organization may therefore use several cognitive mechanisms side by side. Models generate baseline forecasts. Humans with local knowledge submit independent estimates. Prediction markets expose disagreement and update continuously. Experts investigate the highest-consequence gaps. Accountable leaders decide. Outcomes feed back into calibration and task allocation.
+
+This is less elegant than declaring one mechanism supreme.
+
+It is also closer to how robust intelligence works: several imperfect ways of knowing, arranged so that their errors are not identical.
