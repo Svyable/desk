@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 BOOKS = ROOT / "books"
 README = ROOT / "README.md"
 FEEDBACK = ROOT / ".github" / "ISSUE_TEMPLATE" / "chapter-feedback.yml"
+INDEX = ROOT / "index.html"
 LOADER = ROOT / "reader" / "js" / "app-loader.js"
 
 
@@ -46,14 +47,17 @@ def compare(label: str, expected: set[str], actual: set[str]) -> None:
 
 FAILED = False
 
-book_slugs = {
+book_dirs = {
     path.name
     for path in BOOKS.iterdir()
-    if path.is_dir() and not path.name.startswith("_") and (path / "README.md").is_file()
+    if path.is_dir() and not path.name.startswith("_")
 }
-
-if not book_slugs:
+if not book_dirs:
     fail("no books discovered under books/")
+
+for slug in sorted(book_dirs):
+    if not (BOOKS / slug / "README.md").is_file():
+        fail(f"books/{slug}/ is missing README.md")
 
 readme_text = README.read_text(encoding="utf-8")
 books_section = section(readme_text, "The books")
@@ -64,7 +68,7 @@ rows = re.findall(
     flags=re.MULTILINE,
 )
 readme_slugs = {book_slug for book_slug, _reader_slug in rows}
-compare("README book catalog", book_slugs, readme_slugs)
+compare("README book catalog", book_dirs, readme_slugs)
 
 for book_slug, reader_slug in rows:
     if book_slug != reader_slug:
@@ -91,7 +95,12 @@ else:
             match.group(1).strip()
             for match in re.finditer(r"^\s+-\s+(.+?)\s*$", options.group("body"), flags=re.MULTILINE)
         }
-compare("chapter feedback book dropdown", book_slugs, feedback_slugs)
+compare("chapter feedback book dropdown", book_dirs, feedback_slugs)
+
+index_text = INDEX.read_text(encoding="utf-8")
+for required in ("fetch('README.md'", "## The books", "parseCatalog"):
+    if required not in index_text:
+        fail(f"Desk landing page is not deriving its catalog from README.md ({required!r} missing)")
 
 loader_text = LOADER.read_text(encoding="utf-8")
 for required in (
@@ -106,4 +115,4 @@ if FAILED:
     print("\nDesk integrity check failed.")
     sys.exit(1)
 
-print(f"Desk integrity check passed: {len(book_slugs)} books are cataloged consistently.")
+print(f"Desk integrity check passed: {len(book_dirs)} books are cataloged consistently.")
