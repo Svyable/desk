@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **34 books · 9 complete drafts · 1 in revision · 24 drafting**
+> **35 books · 9 complete drafts · 1 in revision · 25 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -25,6 +25,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✍️ Drafting | 19 / 19 | ~73K | A counterintuitive look at how technology can make rare affinities and self-authored social lives more possible without guaranteeing connection or welfare. | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Last Decade in a Year**](books/exponential-compression/) | ✍️ Drafting | 2 / 11 | ~8K | Exponential change as compression: more technological, economic, and institutional rearrangement packed into less human decision time. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✍️ Drafting | 6 / 21 | ~24K | Modern power often sits at transitions: who gets admitted, approved, paid, treated, connected, or allowed through—and what meaningful appeal should look like. | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
+| [**Intelligence State**](books/intelligence-state/) | ✍️ Drafting | Prologue drafted / 17 planned | ~2K | AI is becoming state capacity; the Americas reveal how compute, energy, data, talent, and trust determine whether societies gain sovereignty or dependency. | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft | 25 / 25 | ~85K | What happens when machine thought gets cheap enough that thinking longer, retrying, searching, critiquing, and running agents in parallel become an industrial strategy. | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 / 10 | ~45K | *An Optimistic Guide to Life*: a book about increasing exposure to favorable randomness while becoming the kind of person able to notice and use it. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 / 21 | ~75K | A field guide to AI systems that game, deceive, flatter, reward-hack, hide capabilities, notice evaluations, or learn to look aligned. | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
