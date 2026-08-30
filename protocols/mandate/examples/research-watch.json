@@ -1,0 +1,56 @@
+{
+  "mandate": {
+    "id": "evidence-watch-001",
+    "version": 1,
+    "state": "active",
+    "objective": "Maintain a current evidence map for whether intervention Q reduces outcome R, and escalate only when new evidence materially changes the confidence tier.",
+    "owner": "research/program-lead",
+    "executor": "agent/evidence-watcher",
+    "scope": {
+      "resources": ["public-literature", "research-notebook:Q-R"],
+      "permissions": ["search", "read", "annotate-notebook", "notify-owner"],
+      "exclusions": ["contact-study-authors", "publish-external-claims", "change-research-policy"]
+    },
+    "invariants": [
+      "Separate observed findings from agent inference.",
+      "Record provenance for every claim that changes the evidence map.",
+      "Do not treat a preprint as peer-reviewed evidence."
+    ],
+    "evidence": {
+      "completion": [
+        "The watch reaches its expiry with every qualifying source in the interval classified and provenance recorded."
+      ],
+      "checkpoints": [
+        "Notify the owner when evidence crosses a predeclared confidence tier.",
+        "Escalate when two high-quality sources materially conflict and the conflict cannot be resolved from available evidence."
+      ]
+    },
+    "budget": {
+      "money_usd": 15,
+      "compute_units": 80,
+      "deadline": "2026-09-30T23:59:59Z"
+    },
+    "escalation": {
+      "triggers": [
+        "A new finding changes the confidence tier.",
+        "Source provenance is materially ambiguous.",
+        "Resolving a conflict requires contacting a person or accessing excluded material."
+      ],
+      "destination": "research/program-lead"
+    },
+    "memory": {
+      "writable": ["research-notebook:Q-R", "scoped-corrections"],
+      "authoritative": ["mandate", "research-policy", "source-records"],
+      "expires": ["unconfirmed-search-leads"]
+    },
+    "reversibility": {
+      "required_for": ["notebook edits", "confidence-tier changes"]
+    },
+    "expires_at": "2026-09-30T23:59:59Z",
+    "stop_when": [
+      "The owner revokes or supersedes the mandate.",
+      "The mandate expires.",
+      "The evidence question is formally retired by the owner."
+    ]
+  }
+}
