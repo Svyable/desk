@@ -39,6 +39,7 @@ body:
         - the-compatibility-dividend
         - scaling-laws
         - vectors
+        - the-search-frontier
         - _TEMPLATE
     validations:
       required: true
