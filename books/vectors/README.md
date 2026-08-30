@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 8 of 25 drafted |
+| **Chapters** | 9 of 25 drafted |
 
 How Direction Became the Language of Intelligence.
 
@@ -25,7 +25,7 @@ The argument is deliberately practical and political as well as technical. A vec
 - [x] [Ch 6 — Distance Is a Decision](manuscript/ch06-distance-is-a-decision.md)
 - [x] [Ch 7 — The Geometry of Similarity](manuscript/ch07-the-geometry-of-similarity.md)
 - [x] [Ch 8 — Words Become Places](manuscript/ch08-words-become-places.md)
-- [ ] Ch 9 — The Embedding Machine
+- [x] [Ch 9 — The Embedding Machine](manuscript/ch09-the-embedding-machine.md)
 - [ ] Ch 10 — Search Without Keywords
 - [ ] Ch 11 — Recommendation Is a Direction
 - [ ] Ch 12 — Images Enter the Same Space
