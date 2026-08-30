@@ -4,14 +4,14 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 2 of 25 drafted |
+| **Chapters**  | 3 of 25 drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Collector’s Fallacy](manuscript/ch01-the-collectors-fallacy.md)
 - [x] [Ch 2 — Attention Debt](manuscript/ch02-attention-debt.md)
-- [ ] Ch 3 — Hunt the Edges
+- [x] [Ch 3 — Hunt the Edges](manuscript/ch03-hunt-the-edges.md)
 - [ ] Ch 4 — External Memory
 - [ ] Ch 5 — The Useful Heap
 - [ ] Ch 6 — Compression
