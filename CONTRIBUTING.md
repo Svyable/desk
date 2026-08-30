@@ -49,8 +49,22 @@ If you are a lead author editing someone else's book, still open a PR.
 - Check that the book README's contents list and status still match reality
   before merging.
 
-## Keeping the issue dropdown current
+## Keeping the Desk catalog current
 
-`.github/ISSUE_TEMPLATE/chapter-feedback.yml` has a **Book** dropdown. When
-you add a book, add its slug as a new option on that list in the same PR that
-introduces `books/<slug>/`. Details are in [the editor guide](docs/editor-guide.md).
+The root `README.md` is the Reader's book catalog. When a book is added,
+renamed, or removed, update its `## The books` row and the **Book** dropdown in
+`.github/ISSUE_TEMPLATE/chapter-feedback.yml` in the same change.
+
+The public landing page derives its catalog from the root README. `llms.txt`
+and `sitemap.xml` are the corresponding machine-discovery inventories.
+
+Before finishing a book-structure or catalog change, run:
+
+```bash
+python3 scripts/check-desk.py
+```
+
+The check uses only Python's standard library and local repository files. It
+verifies that the real `books/` directories, Reader catalog routes, feedback
+dropdown, landing page, `llms.txt`, sitemap, and Reader compatibility guard are
+consistent. It does not use GitHub Actions or network access.
