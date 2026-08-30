@@ -129,3 +129,39 @@ The mature institution will treat memory as a living system. It will record deci
 The goal is not to remember everything.
 
 It is to remember enough of the right things, with enough context, that the future does not have to pay full price for the past again.
+
+That formulation still leaves a practical question: how does an institution know whether it has actually remembered?
+
+NASA’s lessons-learned machinery is useful here because it makes the distinction explicit. A lesson is not complete when someone writes a postmortem and puts it in a database. The agency’s knowledge-management material describes a cycle of collecting, recording, disseminating, and applying lessons. The last verb is the difficult one. Application means a future project changes a procedure, a design review, a training exercise, a checklist, a staffing decision, or an assumption because something happened before. A document that never changes a later choice is storage, not memory.
+
+This suggests a test that many organizations would fail. Pick a serious incident from three years ago. Ask a new employee working on the same class of problem what changed because of it. If the answer requires finding the one veteran who still remembers the story, the institution did not learn; the veteran did. If the answer appears in the current tooling, the current review process, the current permissions, or the current training, the memory has been institutionalized.
+
+The difference is consequential because people leave. The organization that depends on oral memory experiences periodic amnesia disguised as turnover. A senior engineer retires and suddenly a strange configuration choice looks irrational, so a newer team removes it. Six months later an old failure returns. The missing artifact was not a comment explaining the choice. It was a mechanism that forced the old reason back into view before the new change was made.
+
+AI can provide exactly that sort of interruption. Before a configuration is removed, an agent can retrieve prior incidents involving it. Before a procurement standard changes, it can surface the failure that produced the requirement. Before a medical protocol is altered, it can find the evidence and dissent attached to the old version. This is more valuable than a general-purpose institutional chatbot because it places memory inside the workflow where forgetting would otherwise occur.
+
+But the intervention has to be selective. If every change triggers fifty historical warnings, users learn to click through them. A memory system can produce alert fatigue just as easily as an alarm panel can. The system has to rank precedent by similarity, consequence, recency, and uncertainty, while preserving a route to the deeper record. Memory itself needs triage.
+
+The Three Mile Island archive makes another point. Major failures can generate enormous documentary memory: technical reports, regulatory changes, training reforms, human-factors lessons, public testimony, and decades of interpretation. The quantity of material is not the same as the quality of recall. Different communities remember different things. Engineers may remember equipment behavior. regulators may remember oversight failures. operators may remember training and interface problems. nearby residents may remember distrust and fear. A system that compresses all of this into one official lesson risks turning plural memory into administrative memory.
+
+For that reason, important institutional events should sometimes retain competing accounts rather than forcing an immediate synthesis. A decision record can say that operations believed one thing, engineering another, and management chose a third course. A public record can preserve both the official conclusion and credible disagreement about it. The purpose is not endless relativism. It is to prevent a later summarizer from mistaking one vantage point for the whole event.
+
+This becomes especially important when AI begins to write the archive it will later read.
+
+An agent drafts the meeting notes, extracts the action items, summarizes the incident, tags the root cause, and updates the knowledge base. Months later another agent retrieves those records and advises a new team. If the first agent compressed badly, its mistake has become institutional memory. The system has created a feedback loop in which generated interpretation becomes future evidence.
+
+The obvious safeguard is source separation. Generated summaries should remain distinguishable from primary records. Claims should link back to transcripts, measurements, tickets, filings, or signed decisions. When the underlying source changes, derived summaries should be marked stale or regenerated. When people correct a machine summary, the correction should be preserved rather than silently overwritten.
+
+This is version control for institutional belief.
+
+Organizations already version software because everyone understands that code changes. They are less disciplined about versioning conclusions. A policy page can be edited without preserving the argument that produced the old version. A model card can change. A risk rating can change. A customer profile can accumulate assertions whose dates disappear. Once AI makes these records easier to generate and easier to consume, the date of a belief becomes part of the belief.
+
+The system should be able to answer not only “What do we think?” but “What did we think on March 3, based on what evidence, and what changed afterward?”
+
+That capability creates a more honest form of accountability. It allows an institution to distinguish a bad decision made from reasonable evidence from a careless decision that ignored available evidence. It also allows people to notice when success was luck. Without temporal memory, organizations reward outcomes and punish outcomes. With it, they can study judgment.
+
+This is one reason memory belongs in a book about allocation. The past is a rival claimant on present attention. Most of it should remain quiet. Some of it must interrupt. The allocation problem is deciding which old fact, old failure, old promise, or old uncertainty deserves to become present again.
+
+A mature memory system will therefore have something like jurisdiction. It will know which records can influence which decisions, under whose authority, for how long, with what provenance, and with what right of correction. It will have expiration as well as retention, appeal as well as retrieval, and learning loops as well as archives.
+
+Then the institutional promise becomes more precise. We do not remember because we saved it. We remember because, at the right moment, the past is allowed to change what we do next.
