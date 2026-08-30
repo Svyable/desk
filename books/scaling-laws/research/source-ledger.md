@@ -11,6 +11,10 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 | Neural scaling | Jared Kaplan et al., “Scaling Laws for Neural Language Models,” 2020. https://arxiv.org/abs/2001.08361 | Empirical power-law relationships among language-model loss, model size, dataset size and compute; foundational evidence that resource allocation can be analyzed as a performance frontier. | Record parameter-count convention and experimental range; later compute-optimal work revised the recommended allocation. |
 | Compute-optimal scaling | Jordan Hoffmann et al., “Training Compute-Optimal Large Language Models,” 2022. https://arxiv.org/abs/2203.15556 | Chinchilla result: under the paper’s regime, compute-optimal training scales model size and training tokens together much more aggressively than many earlier frontier models had done. | Do not universalize a fixed tokens-to-parameters prescription beyond its assumptions, architecture, data mixture, optimization and cost model. |
 | Data-constrained scaling | Niklas Muennighoff et al., “Scaling Data-Constrained Language Models,” *Advances in Neural Information Processing Systems* 36, 2023. https://arxiv.org/abs/2305.16264 | Experimental evidence on repeated-data training when unique text becomes a binding resource; supports the distinction between tokens processed and unique data available. | The paper’s repetition findings and fitted optimal-allocation law are regime-specific. Do not turn a reported epoch threshold into a universal rule; later reanalysis and different regularization or data regimes can change the prescription. |
+| Emergent abilities | Jason Wei et al., “Emergent Abilities of Large Language Models,” *Transactions on Machine Learning Research*, 2022. https://arxiv.org/abs/2206.07682 | Primary source for the influential framing of task abilities that appear abruptly when plotted against model scale, motivating the distinction between smooth pretraining loss and jagged downstream metrics. | The paper defines emergence operationally through observed task metrics. Do not infer from a benchmark jump alone that the underlying model dynamics underwent a physical phase transition. |
+| Emergence and metrics | Rylan Schaeffer, Brando Miranda and Sanmi Koyejo, “Are Emergent Abilities of Large Language Models a Mirage?”, *NeurIPS* 2023. https://arxiv.org/abs/2304.15004 | Evidence that nonlinear or discontinuous evaluation metrics can create apparently abrupt capability transitions from more smoothly changing underlying outputs. | The result challenges a class of emergence claims; it does not prove that every qualitative capability transition is a metric artifact or that operational thresholds are unreal. |
+| Loss versus downstream behavior | Hong Liu, Sang Michael Xie, Zhiyuan Li and Tengyu Ma, “Same Pre-training Loss, Better Downstream: Implicit Bias Matters for Language Models,” *ICML* 2023. https://proceedings.mlr.press/v202/liu23ao.html | Supports the claim that pretraining loss is not a sufficient statistic for downstream behavior: models with similar loss can differ materially on downstream performance. | Specific constructions and model regimes; do not infer that pretraining loss is generally uninformative. It remains a powerful broad training metric. |
+| Capability forecasting | David Owen, “How predictable is language model benchmark performance?”, 2024. https://arxiv.org/abs/2401.04757 | Empirical evidence that aggregate benchmark performance can be moderately predictable from compute scaling while individual task performance is substantially noisier. | Preprint and benchmark-dependent. Forecastability over measured ranges does not guarantee stable extrapolation to new architectures, post-training regimes or genuinely novel tasks. |
 | Scaling-law sensitivity | Tim Pearce and Jinyeop Song, “Reconciling Kaplan and Chinchilla Scaling Laws,” 2024. https://arxiv.org/abs/2406.12907 | Useful for explaining why fitted scaling prescriptions can differ because of parameter definitions and experimental scale. | Secondary reconciliation paper; preserve remaining uncertainty and later evidence. |
 | Modern robustness | Rylan Schaeffer et al., “Evaluating the Robustness of Chinchilla Compute-Optimal Scaling,” 2025. https://arxiv.org/abs/2509.23963 | Tests sensitivity of Chinchilla conclusions to parameter-count ambiguities and perturbations. | Preprint; status and later revisions must be checked before release. |
 
@@ -44,6 +48,12 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 - Systems evidence separating theoretical FLOPs from realized accelerator utilization, communication overhead, memory bandwidth and wall-clock time.
 - Inference-scaling and test-time-compute literature before making claims that training-time data/compute/parameter frontiers determine deployment-optimal design.
 
+### Capability and metric scaling
+
+- Replication work that compares smooth probabilistic metrics, exact-match metrics, pass/fail task metrics and product-level utility on the same model families.
+- Evidence connecting per-token loss reductions to domain-specific downstream performance without assuming the mapping is invariant across architectures or post-training.
+- Evaluation literature on benchmark saturation, contamination, prompt sensitivity and confidence intervals before interpreting small score changes or apparent thresholds.
+
 ### Organizations
 
 - James D. Thompson, *Organizations in Action*.
@@ -65,6 +75,9 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 - Any exact constant in a training-compute approximation such as `C ≈ kND`; the constant depends on architecture, operation-count convention and what training costs are included.
 - Any fixed token-to-parameter ratio presented as universally compute-optimal.
 - Any numerical claim about how many repeated epochs remain equivalent to fresh data outside the specific experimental regime being cited.
+- Any claim that smooth pretraining loss implies smooth downstream capability, or that every apparent capability threshold reflects a genuine model phase transition.
+- Any claim that a benchmark discontinuity is merely a metric artifact without inspecting the underlying outputs, scoring function and operational task.
+- Any inference that equal pretraining loss implies equivalent downstream behavior across model sizes, algorithms or representations.
 - Contemporary frontier-model training compute, energy use or dollar cost.
 - Claims about data exhaustion, synthetic-data contamination or the quantity of legally usable high-quality training data.
 - Claims about legal or regulatory thresholds triggered solely by user count or scale.
