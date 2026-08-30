@@ -67,6 +67,7 @@ When adding or renaming a book:
 |---|---|
 | [Aggregate, Consolidate, Innovate](books/aggregate-consolidate-innovate/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
 | [Built to Be Alone](books/the-loneliness-dividend/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
+| [Exponential Compression](books/exponential-compression/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [Gatekeepers](books/gatekeepers/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
 | [Keep Cooking](books/keep-cooking/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
 | [Leveraging Luck](books/leveraging-luck/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
@@ -84,6 +85,7 @@ When adding or renaming a book:
 | [The Convergence](books/the-convergence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [The Delegation Machine](books/the-delegation-machine/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [The Exponentiality](books/the-exponentiality/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [The Potentiality](books/the-potentiality/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
 | [The Reliability Tax](books/the-reliability-tax/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
 | [The Search Frontier](books/the-search-frontier/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
 | [The Unbounding](books/the-unbounding/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
