@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://svyable.dev/schemas/mandate-v0.json",
+  "title": "Mandate Protocol v0",
+  "type": "object",
+  "required": ["mandate"],
+  "properties": {
+    "mandate": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "version", "state", "objective", "owner", "executor", "scope", "invariants", "evidence", "budget", "escalation", "memory", "stop_when"],
+      "properties": {
+        "id": {"type": "string", "minLength": 1},
+        "version": {"type": "integer", "minimum": 1},
+        "state": {"enum": ["draft", "active", "blocked", "escalated", "completed", "expired", "revoked"]},
+        "objective": {"type": "string", "minLength": 1},
+        "owner": {"type": "string", "minLength": 1},
+        "executor": {"type": "string", "minLength": 1},
+        "scope": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["resources", "permissions", "exclusions"],
+          "properties": {
+            "resources": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+            "permissions": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+            "exclusions": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+          }
+        },
+        "invariants": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1},
+        "evidence": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["completion"],
+          "properties": {
+            "completion": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1},
+            "checkpoints": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "budget": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "money_usd": {"type": ["number", "null"], "minimum": 0},
+            "compute_units": {"type": ["number", "null"], "minimum": 0},
+            "deadline": {"type": ["string", "null"], "format": "date-time"}
+          }
+        },
+        "escalation": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["triggers", "destination"],
+          "properties": {
+            "triggers": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1},
+            "destination": {"type": "string", "minLength": 1}
+          }
+        },
+        "memory": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["writable", "authoritative"],
+          "properties": {
+            "writable": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+            "authoritative": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
+            "expires": {"type": "array", "items": {"type": "string"}}
+          }
+        },
+        "expires_at": {"type": ["string", "null"], "format": "date-time"},
+        "stop_when": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1}
+      }
+    }
+  },
+  "additionalProperties": false
+}
