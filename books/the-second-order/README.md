@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 6 of 20 drafted |
+| **Chapters** | 7 of 20 drafted |
 
 *What Happens When the World Reacts to the Model*
 
@@ -23,7 +23,7 @@ The central argument is that prediction and measurement become governance when d
 - [x] [Ch 4 — Prices That Create Their Own Evidence](manuscript/ch04-prices-that-create-their-own-evidence.md)
 - [x] [Ch 5 — Rankings Build the Thing They Rank](manuscript/ch05-rankings-build-the-thing-they-rank.md)
 - [x] [Ch 6 — The Test Becomes the Curriculum](manuscript/ch06-the-test-becomes-the-curriculum.md)
-- [ ] Ch 7 — The Model Meets the Patient
+- [x] [Ch 7 — The Model Meets the Patient](manuscript/ch07-the-model-meets-the-patient.md)
 - [ ] Ch 8 — Predictive Policing and the Data It Creates
 - [ ] Ch 9 — Recommendation as Environment
 - [ ] Ch 10 — A/B Testing a Moving Population
