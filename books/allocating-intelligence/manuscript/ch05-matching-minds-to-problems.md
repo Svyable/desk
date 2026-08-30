@@ -104,6 +104,32 @@ The matching architecture should therefore include deliberate heterogeneity wher
 
 This is an old engineering idea and a new organizational necessity.
 
+Apollo's organization makes the matching problem concrete. NASA's program history describes mission control not as a single layer of generic operators but as groups responsible for command and control, systems operations, and flight dynamics, backed by support rooms doing deeper analysis. The arrangement recognized that “smart” was not one job. A person expert in propulsion was valuable because propulsion was the problem in front of that console. A trajectory specialist and a spacecraft-systems specialist could both be excellent and still be poor substitutes for each other at the wrong moment.
+
+Machine intelligence is drifting in the opposite visual direction. The chat interface makes different capabilities look interchangeable because they all answer in paragraphs. A coding model, a retrieval system, a forecasting model, a theorem prover, a spreadsheet engine, and a large general model can be presented through the same text box. Uniform interface encourages the false idea of uniform cognition.
+
+Behind the box, good systems will look more like mission control.
+
+One component will retrieve authoritative documents. Another will search broadly. Another will run deterministic calculations. Another will simulate. Another will monitor permissions. Another will summarize the state for a user. The orchestration layer will decide which capability is worth calling and when the result is strong enough to stop. The visible conversational agent may be less a genius than a flight director surrounded by specialists.
+
+This is why model-routing economics matters. If the strongest model is called for every task, quality may be high but latency, cost, energy use, and privacy exposure can be unnecessarily large. If the cheapest system is called for everything, difficult edge cases fail silently. The matching function has to estimate the value of escalation.
+
+That estimate should be empirical. The customer-support study of generative AI is useful because its gains were not evenly distributed. Less experienced workers benefited substantially more than the most experienced workers. One possible interpretation is that the system compressed access to patterns and practices that experienced workers had acquired over time. In that environment, the same tool had different marginal value depending on who was using it.
+
+That should change how organizations think about “AI seats.” Giving an identical tool to everyone may be administratively simple and economically crude. Some workers need breadth. Some need speed. Some need access to proprietary context. Some need a critic rather than a drafter. Some need a simulator. Some need no generative tool at all but would benefit from better search or workflow automation.
+
+The matching problem is partly about the worker's position in a learning curve. A novice may need the system to explain why, not merely what. An expert may need a fast second opinion on rare cases. A manager may need distributions and uncertainty rather than a recommended sentence. A regulator may need traceability. A customer may need plain language. The underlying facts can be the same while the useful intelligence differs.
+
+Organizations should therefore evaluate not only task completion but transfer. After repeated use, is the person becoming more capable, less capable, or merely faster while attached to the tool? Does the system expose reasoning at the right granularity for learning? Does it give experts a way to correct reusable knowledge? Does it create dependence on prompts that only one vendor understands?
+
+These questions matter because allocation today changes the supply of intelligence tomorrow. Route all routine diagnostic work away from young clinicians and the institution may eventually discover it has fewer clinicians able to recognize the unusual. Let agents write every ordinary database query and junior analysts may never develop an intuitive sense of the data. Use AI to draft every first version and people can become excellent editors without becoming equally good originators. That may be acceptable, but it should be a choice rather than a surprise.
+
+Matching therefore requires at least two objectives: solve the present problem and maintain the future capability of the system. Sometimes those objectives agree. Sometimes the fastest present solution is the worst training allocation.
+
+The strongest institutions will be explicit about when they are in production mode and when they are in learning mode. They will let machines carry routine load while still creating deliberate practice, shadow decisions, simulations, and postmortems that keep humans able to take over. They will also let machines learn from the cases humans resolve rather than treating escalation as a dead end.
+
+The result is not a static division of labor. It is a moving frontier in which tasks migrate as models improve, people learn, risks change, and the institution discovers what each kind of intelligence is actually good for.
+
 The final matching problem is legitimacy. Some decisions require a human not because humans are more accurate but because society assigns responsibility to persons and institutions. A jury verdict, a medical consent conversation, a democratic vote, a declaration of war, a child-custody decision—these involve authority that cannot be reduced to prediction quality. AI may inform them deeply. The final act belongs within a legitimate human arrangement unless the society explicitly changes that arrangement.
 
 This is the point at which intelligence and authority separate.
