@@ -16,6 +16,7 @@ body:
       description: Which book is this about?
       options:
         - aggregate-consolidate-innovate
+        - exponential-compression
         - gatekeepers
         - keep-cooking
         - leveraging-luck
@@ -34,6 +35,7 @@ body:
         - the-delegation-machine
         - the-exponentiality
         - the-loneliness-dividend
+        - the-potentiality
         - the-reliability-tax
         - the-search-frontier
         - the-unbounding
