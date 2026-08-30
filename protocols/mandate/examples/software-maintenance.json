@@ -3,7 +3,7 @@
     "id": "overnight-maintenance-001",
     "version": 1,
     "state": "active",
-    "objective": "Fix issue #417 and leave a mergeable pull request if objective CI gates pass.",
+    "objective": "Fix issue #417 and leave a mergeable pull request if objective repository gates pass.",
     "owner": "team/platform",
     "executor": "agent/software-maintainer",
     "scope": {
@@ -19,7 +19,7 @@
     "evidence": {
       "completion": [
         "A regression test fails before the fix and passes after it.",
-        "Required CI checks pass on the exact head commit.",
+        "Required repository gates pass on the exact head commit.",
         "The pull request contains only changes causally required by the mandate."
       ],
       "checkpoints": [
@@ -36,14 +36,17 @@
       "triggers": [
         "Required fix needs excluded authority.",
         "Evidence cannot distinguish mandate failure from infrastructure failure.",
-        "Objective CI gates conflict with one another."
+        "Objective repository gates conflict with one another."
       ],
       "destination": "team/platform-oncall"
     },
     "memory": {
       "writable": ["task-log", "scoped-corrections"],
-      "authoritative": ["mandate", "repository-policy", "ci-results"],
+      "authoritative": ["mandate", "repository-policy", "gate-results"],
       "expires": ["temporary-infrastructure-observations"]
+    },
+    "reversibility": {
+      "required_for": ["source changes", "configuration changes", "automated merge"]
     },
     "expires_at": "2026-08-31T09:00:00Z",
     "stop_when": [
