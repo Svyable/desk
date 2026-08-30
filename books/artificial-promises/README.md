@@ -4,17 +4,17 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 2 of 24 drafted |
+| **Chapters**  | 3 of 24 drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Future Is the Product](manuscript/ch01-the-future-is-the-product.md)
 - [x] [Ch 2 — The Vision Premium](manuscript/ch02-the-vision-premium.md)
+- [x] [Ch 3 — Promises That Cause Themselves](manuscript/ch03-promises-that-cause-themselves.md)
 
 ## Planned chapters
 
-3. Promises That Cause Themselves
 4. The Pitch
 5. The Number in the Deck
 6. The Date on the Slide
