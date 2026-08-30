@@ -70,6 +70,12 @@ None of these loops is frictionless, and none is guaranteed to remain exponentia
 
 But the presence of friction does not erase the underlying phenomenon. What matters is that the major technological systems of our time are no longer independent stories. Increasingly, they are inputs into one another.
 
+And the interaction matters more than the label on any single curve.
+
+A technology can improve exponentially without transforming society if it remains isolated. A modest improvement can be transformative if it removes a bottleneck elsewhere. Cheaper computation matters because it makes larger models economical. Better batteries matter because they change what mobile machines can do. Faster sequencing matters because it changes which biological questions can be asked at scale. Better AI matters because it can be applied across all of them.
+
+Exponentiality, then, is not a claim that everything grows exponentially forever. It is a claim about coupling.
+
 This is the part that earlier technological revolutions help us see.
 
 Language allowed one mind to transfer abstractions to another. It was the beginning of cumulative thought at scale. A discovery no longer had to remain trapped inside the discoverer.
@@ -112,6 +118,24 @@ AI amplifies intelligence.
 
 And intelligence amplifies almost everything else.
 
+There is another way to see the sequence. Each major general-purpose technology lowered the price of something civilization needed: mechanical work, illumination, communication, calculation, distribution, coordination. Once the price fell far enough, people stopped using the capability merely to perform old tasks more cheaply. They reorganized life around the assumption that the capability would be available.
+
+Factories were not simply workshops with stronger muscles. Cities lit by electricity were not candlelit cities with cheaper candles. The internet did not merely make the postal service faster. Once a capability becomes sufficiently cheap and ubiquitous, new institutions and behaviors appear that would have made little sense under the old cost structure.
+
+That is why the falling price of cognition matters even before anyone settles the argument over artificial general intelligence.
+
+If useful reasoning, drafting, translation, analysis, tutoring, coding, search and synthesis become cheap enough, we will not merely perform the same work with fewer hours. We will attempt things that were previously too cognitively expensive to attempt at all.
+
+A teacher may be able to offer each student a different explanation. A small research group may inspect a literature too large for its members to read. A local business may operate in languages nobody on staff speaks. A scientist may discard a thousand simulated candidates before ordering one physical experiment. An individual may maintain a small constellation of software agents performing work that once required an organization.
+
+The first-order effect is efficiency.
+
+The second-order effect is abundance.
+
+The third-order effect is institutional redesign.
+
+History usually notices the third one last.
+
 This does not mean every technology in history was literally exponential, nor that every modern curve will continue rising at the same rate. The language of exponential growth is often abused. Biological populations can grow exponentially for a time and then hit limits. Semiconductor progress has changed character as physical scaling became harder. Adoption curves saturate. Energy systems encounter grids, mines, permitting, financing and politics. Laboratories still contain glassware, contamination, waiting periods and stubborn reality.
 
 Exponentiality does not require infinite exponential growth.
@@ -141,6 +165,14 @@ The shift is not from humans to machines in one clean step.
 It is from unaided humans to humans surrounded by increasingly capable cognitive machinery.
 
 That distinction matters because it changes the unit of comparison. The future may not be best understood as a contest between a person and an artificial intelligence. It may be a contest between people and institutions that learn to combine human judgment with machine capability, and those that do not.
+
+There is a further consequence. When the cost of a capability falls, demand for it can rise rather than fall. Cheap computation did not cause civilization to compute less. Cheap bandwidth did not make us communicate less. Cheap digital photography did not reduce the number of photographs taken. We discovered uses that had been uneconomical when the resource was scarce.
+
+The same may happen with intelligence.
+
+If analysis becomes cheaper, organizations may analyze more. If software becomes cheaper to produce, more software may be written. If individualized instruction becomes inexpensive, people may seek more education rather than less. If scientific search becomes faster, the frontier may expand because researchers can ask questions that were previously impractical.
+
+This is one reason simple forecasts of “jobs automated” can miss the larger transformation. A task can become cheaper while the surrounding field grows. A profession can lose some activities and gain others. The amount of cognition demanded by civilization is not fixed.
 
 Mathematics made this transition psychologically harder to ignore.
 
@@ -176,6 +208,16 @@ And meaning.
 
 Machines may become extraordinarily capable at answering questions. That does not determine which questions deserve our lives.
 
+There is a paradox here. The more capable our tools become, the less satisfactory it is to define human worth by the tasks our tools cannot yet perform.
+
+That definition retreats every time technology advances.
+
+A more durable account of human value begins elsewhere: in being the creatures for whom outcomes matter. We experience pain and attachment. We inherit obligations. We make promises. We raise children. We care whether a future is worth inhabiting. A machine may help us optimize toward an objective, but choosing the objective remains entangled with the kind of beings we are and the kind of civilization we want.
+
+The age of abundant intelligence may therefore force a question that the age of scarce intelligence allowed us to postpone.
+
+If intelligence is no longer the sole basis of human exceptionalism, what do we want intelligence for?
+
 This is why the transition is not merely technological. It is personal.
 
 You are alive during it.
@@ -199,6 +241,14 @@ Imagine that a century's worth of scientific progress, measured not by calendar 
 When change accelerates, the important social unit of time shrinks.
 
 An industry can be created and destabilized within a career. A skill can move from scarce to common faster than an education system can redesign a degree around it. A company can discover that a task it expected to automate in ten years has become automatable in two, while another task expected to disappear proves stubbornly human.
+
+The mismatch is important. Technologies can change continuously while institutions change in batches.
+
+A model can be updated overnight. A curriculum may require committees, accreditation, teacher training and a new academic year. Software can be deployed globally in hours. A law may take years to negotiate and longer to test in court. A new scientific instrument can produce a flood of data while the number of qualified reviewers, regulators or clinicians changes slowly.
+
+Exponentiality is therefore not simply acceleration. It is acceleration colliding with systems that have different clocks.
+
+Some of the most consequential failures of the coming decades may occur in those gaps: between what technology makes possible and what institutions can absorb; between what markets reward and what societies consider legitimate; between the speed of invention and the speed of trust.
 
 This creates a psychological problem that is easy to underestimate.
 
@@ -224,7 +274,15 @@ Still, the possibility is historically significant.
 
 Eight billion people have never stood at the same starting line. They do not now. But billions of people may gain access to forms of cognitive leverage that, within living memory, belonged only to governments, universities and large corporations.
 
-What follows from that will depend less on the existence of the tools than on the institutions and choices around them.
+The important unit of leverage may also change. Industrial civilization rewarded scale because machinery, factories and distribution were expensive. The internet lowered the cost of distribution. AI may lower parts of the cost of coordination and expertise. That could allow smaller teams—and sometimes individuals—to attempt projects that once required much larger organizations.
+
+It could also produce the opposite result. The infrastructure beneath advanced intelligence is enormously capital-intensive. The same era may empower tiny teams at the application layer while concentrating extraordinary power among the institutions that control chips, data centers, energy, models and distribution.
+
+Exponentiality does not point automatically toward decentralization or concentration.
+
+It can intensify both at once.
+
+What follows will depend less on the existence of the tools than on the institutions and choices around them.
 
 This is where technological optimism becomes insufficient.
 
@@ -241,6 +299,10 @@ Our power is beginning to compound faster than our wisdom.
 Civilization has faced versions of this problem before. Fire warmed homes and burned cities. Chemistry produced fertilizers and explosives. Nuclear physics illuminated matter and produced weapons capable of destroying millions of people. The pattern is not new.
 
 What may be new is the speed, breadth and interconnection of the capabilities arriving at once.
+
+Wisdom also compounds, but differently. It lives in institutions, norms, law, culture, memory and habits of restraint. It is often purchased through failure. It cannot always be copied at machine speed because part of wisdom is knowing which tradeoffs a community is willing to live with, and that knowledge emerges through argument, experience and consequence.
+
+The dangerous possibility is not simply that machines become too intelligent. It is that capability becomes cheap faster than responsibility becomes widespread.
 
 Closing the gap between power and wisdom may therefore become one of the central projects of this century.
 
