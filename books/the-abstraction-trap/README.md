@@ -45,4 +45,4 @@
 
 This is an unpublished Desk manuscript. Its central argument is that abstraction makes civilization scalable, but a representation becomes dangerous when institutions optimize the representation until it starts changing—and then validating—the reality it was meant to describe.
 
-- [Open the working Desk preview](https://svyable.github.io/self/reader/#/b/the-abstraction-trap/)
+- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/)
