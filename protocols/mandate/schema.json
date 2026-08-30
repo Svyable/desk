@@ -8,7 +8,7 @@
     "mandate": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["id", "version", "state", "objective", "owner", "executor", "scope", "invariants", "evidence", "budget", "escalation", "memory", "stop_when"],
+      "required": ["id", "version", "state", "objective", "owner", "executor", "scope", "invariants", "evidence", "budget", "escalation", "memory", "reversibility", "stop_when"],
       "properties": {
         "id": {"type": "string", "minLength": 1},
         "version": {"type": "integer", "minimum": 1},
@@ -33,7 +33,7 @@
           "required": ["completion"],
           "properties": {
             "completion": {"type": "array", "items": {"type": "string", "minLength": 1}, "minItems": 1},
-            "checkpoints": {"type": "array", "items": {"type": "string"}}
+            "checkpoints": {"type": "array", "items": {"type": "string", "minLength": 1}}
           }
         },
         "budget": {
@@ -57,11 +57,19 @@
         "memory": {
           "type": "object",
           "additionalProperties": false,
-          "required": ["writable", "authoritative"],
+          "required": ["writable", "authoritative", "expires"],
           "properties": {
             "writable": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
             "authoritative": {"type": "array", "items": {"type": "string"}, "uniqueItems": true},
-            "expires": {"type": "array", "items": {"type": "string"}}
+            "expires": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
+          }
+        },
+        "reversibility": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["required_for"],
+          "properties": {
+            "required_for": {"type": "array", "items": {"type": "string"}, "uniqueItems": true}
           }
         },
         "expires_at": {"type": ["string", "null"], "format": "date-time"},
