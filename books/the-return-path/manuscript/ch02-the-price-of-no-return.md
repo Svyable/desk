@@ -127,3 +127,23 @@ That distinction can sound timid in cultures that worship conviction. Yet convic
 The future will reveal information whether we design for it or not.
 
 The price of no return is what we pay when we discover that information after we have made it too expensive to matter.
+
+There is another price hidden in waiting: the option can expire. A competitor may enter first. Land can be sold to someone else. A scientific opportunity can disappear. A political coalition can dissolve. A person can wait so long for perfect certainty that age, health, or circumstance makes the choice unavailable. Real options are valuable because they create the right to act later, not because later is automatically better.
+
+This gives timing two opposite costs. Acting early spends information you have not yet received. Acting late spends opportunities that will not remain open. Strategy lives between them.
+
+A useful way to see the balance is to ask what kind of uncertainty time is likely to resolve. If six more months will reveal whether customers return, waiting can be informative. If the main uncertainty concerns a competitor’s secret research program, six months may reveal little while surrendering market position. If a medical symptom is progressing, delay may destroy more information than it creates because treatment options narrow with disease.
+
+Waiting is valuable only when the information arriving is worth more than the options expiring.
+
+This is where real-options thinking improves on generic caution. It does not say “delay irreversible investments.” It says that irreversibility and uncertainty create a value to waiting that must be compared with the cost of delay. In a fast-moving market, that cost can dominate. In a slow-moving capital project with enormous sunk costs, waiting can dominate instead.
+
+The best decision makers develop a feel for the half-life of uncertainty.
+
+Some unknowns dissolve quickly through cheap contact with reality. Put the prototype in a customer’s hand. Ask the supplier for a quote. Run the load test. Visit the site in winter. Others persist until commitment itself produces the answer. You cannot know exactly how a management team will work together until it has real authority. You cannot know whether a marriage will survive decades before living them. You cannot know whether an institution will retain legitimacy through a crisis until the crisis arrives.
+
+No amount of optionality eliminates existential uncertainty.
+
+At some point, information has to be purchased by participation.
+
+That is the line between an experiment and a life.
