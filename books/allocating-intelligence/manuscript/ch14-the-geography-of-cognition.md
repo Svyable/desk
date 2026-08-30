@@ -117,3 +117,67 @@ These questions sound like industrial policy because they are.
 The age of artificial intelligence is also an age of substations, fiber routes, cooling systems, fabs, warehouses, permits, and technicians.
 
 The mind in the machine still lives somewhere.
+
+The geography also begins at the device in a person’s hand.
+
+National statistics about internet access can hide the difference between a household with fiber, several modern computers, and reliable backup connectivity and a household sharing one aging phone across a limited data plan. Both may count as connected. Their practical access to persistent agents, multimodal tools, large file uploads, private local models, and long study sessions is not the same.
+
+This is why the old digital divide survives inside apparently universal connectivity.
+
+The relevant questions become more granular. Is there a device suitable for the task? Is connectivity affordable enough for sustained use rather than occasional messaging? Is the interface accessible to a person with a disability? Does the service work in the local language? Is latency low enough? Can the person authenticate? Does the household have privacy for sensitive use? Does the school or workplace block the needed tools?
+
+Effective cognitive access is a chain, and the weakest link can dominate.
+
+A public policy that distributes model access without repairing those complements may produce impressive usage counts and modest gains. The people already well equipped to orchestrate technology will capture more value. The places with weak complements will receive an interface to abundance and continue to experience scarcity.
+
+This is where geography becomes a theory of complements rather than merely a map of data centers.
+
+A rural clinic might benefit from world-class diagnostic support, yet a correct recommendation is useless if the nearest specialist is hours away, the required imaging equipment is unavailable, or transport cannot be arranged. A farmer can receive precise agronomic advice and still face seed, credit, water, insurance, or market constraints. A student can receive a perfect explanation and still lack time because of work or caregiving.
+
+Intelligence often increases the value of whatever remains scarce.
+
+This is economically familiar. When one input becomes cheaper, complementary inputs can become more valuable. AI may reduce the price of analysis while raising the return to trusted relationships, local execution capacity, physical infrastructure, regulatory permission, and skilled maintenance.
+
+Places rich in those complements can compound advantage.
+
+That suggests a regional strategy different from competing only for giant data centers. A region may gain more by improving the interfaces between general AI and its existing industries: machine shops, hospitals, farms, ports, construction firms, energy systems, schools, or laboratories. The local advantage is not owning the smartest model. It is having enough tacit knowledge and institutional capacity to make the model consequential.
+
+This is one reason place-based expertise will survive abstraction.
+
+A general model can know thousands of pages about welding and still not know why one particular shop’s fixture vibrates after lunch. It can understand agricultural science and still need field observations. It can explain building codes and still need a local inspector to know which assumptions survive the actual site.
+
+The geographic edge is often the last meter between description and reality.
+
+Local models and sensors can help bridge that meter. An industrial system can combine general reasoning with measurements from its own equipment. A city system can combine broad planning models with local traffic, weather, maintenance, and service data. A school can combine general tutoring with the curriculum and learning context actually used there.
+
+The key is not merely local data residency. It is local feedback.
+
+A system improves when consequences return. Did the repair work? Did the student learn? Did the crop improve? Did the bus arrive more reliably? Local institutions that can measure outcomes and revise practice will gain more from the same base model than institutions that merely consume answers.
+
+This is why cognitive geography is partly institutional density.
+
+Some places contain thick networks of universities, hospitals, suppliers, financiers, regulators, skilled trades, and experienced managers. Others have fewer nodes. AI can connect a thin region to distant expertise, which is valuable, but connection does not instantly create the local network that turns advice into coordinated action.
+
+Policy should therefore resist two fantasies at once: that geography no longer matters, and that every region needs to reproduce Silicon Valley.
+
+Different places can build different cognitive specializations.
+
+A port city may become unusually good at logistics intelligence. An agricultural region can build crop and water expertise. A manufacturing corridor can combine robotics, quality control, and supplier knowledge. A multilingual city can become a center for translation and cross-border services. The general model is shared; the local system of complements becomes the differentiator.
+
+There is a final temporal geography too.
+
+Places live on different upgrade clocks. A frontier model can change every few months while a hospital device, grid component, school procurement cycle, public contract, or factory machine may remain in service for years or decades. The newest cognitive layer must coexist with older physical systems.
+
+This creates translation work. An agent may reason with state-of-the-art software and act through a decades-old database. A technician may receive a sophisticated diagnosis and repair a machine whose manuals exist only as scanned PDFs. A public agency may deploy a modern assistant on top of rules encoded in mainframe-era systems.
+
+The geography of cognition is therefore also the geography of legacy.
+
+Rich organizations do not necessarily have less legacy; they may have more accumulated infrastructure. What matters is whether they can connect layers safely. Adapters, APIs, documentation, migration plans, and people who understand old systems become part of the intelligence stack.
+
+The dream of placeless cognition tends to erase all of this.
+
+Real intelligence arrives through a location, a device, a grid, a network, a language, a legal regime, an institution, a person, and a set of physical possibilities. The quality of the model matters enormously. So does every bridge between the model and the world.
+
+The places that prosper will not necessarily be those closest to the largest machines.
+
+They will be those that learn how to turn remote cognition into local capability.
