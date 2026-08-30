@@ -123,3 +123,103 @@ This distributed institutional design mirrors the thesis of the book. Intelligen
 The deepest institutional goal is not to prevent machines from becoming powerful.
 
 It is to ensure that power travels through structures capable of learning, contest, restraint, and repair.
+
+A thirteenth institution will be registries of deployment, but only where consequence justifies them.
+
+Societies already maintain registries for things whose identity and status matter across organizations: aircraft, companies, medical products, licensed professionals, securities, vehicles, land. A registry does not make the registered thing safe. It makes responsibility and state easier to locate.
+
+Some high-consequence AI systems may need comparable legibility. Which system is in use? For what purpose? Which organization operates it? Which model family and major version does it depend on? Who is responsible for incident notification? When was the deployed configuration materially changed?
+
+The purpose would not be to create a public catalog of every script and chatbot. That would bury useful oversight in noise. The principle is proportionality again: systems with broad authority, public consequence, or difficult-to-observe effects deserve more durable identity.
+
+A fourteenth institution will be sunset.
+
+Technology policy has a tendency to accumulate. A safeguard written for one generation of models persists after the failure mode changes. A pilot program becomes permanent because no one owns the decision to end it. A temporary data collection outlives the emergency that justified it.
+
+Adaptive governance needs expiration dates and review triggers.
+
+Permissions can sunset. Emergency powers can sunset. Procurement clauses can require reevaluation after major model changes. Data retention can expire. A regulatory exemption can end unless evidence supports renewal. The institution should have to choose continuation rather than receiving it automatically from inertia.
+
+Sunset is memory working against bureaucracy.
+
+A fifteenth institution will be public-interest technical capacity.
+
+Rules are weak when the rule-making institution cannot understand the systems it governs. Agencies, courts, unions, schools, hospitals, newsrooms, and civil-society organizations will need people who can inspect AI systems without being entirely dependent on vendor explanation.
+
+This is not a demand that every regulator train frontier models. It is a demand for enough internal competence to ask the right questions, reproduce important tests, understand logs, evaluate procurement claims, and recognize when a technical answer is really a policy choice.
+
+Capacity is a form of independence.
+
+The private sector will usually be able to pay more for scarce technical talent. Public institutions need other attractions: mission, professional status, research freedom, fellowships, rotational programs, shared technical services, and career paths that do not force experts to become managers to advance.
+
+Without that capacity, formal authority can coexist with practical dependence.
+
+A sixteenth institution will be shared test infrastructure.
+
+Many small organizations cannot afford robust evaluation of models, cybersecurity, accessibility, bias, reliability, and incident response on their own. Requiring each to reinvent the capability can entrench large firms that already have compliance teams.
+
+Common test suites, sector labs, certification services, public benchmarks tied to real workflows, and shared red-team resources can lower the fixed cost of trustworthy adoption.
+
+Good governance can be pro-entry when it turns safety from a private luxury into shared infrastructure.
+
+This matters because institutional burden has distributional effects. A rule that is cheap for a giant platform and expensive for a small clinic may increase concentration even if the rule’s safety objective is sound. The design question is how to achieve the objective without making scale the only route to compliance.
+
+A seventeenth institution will be contestability itself.
+
+Appeal is often imagined as a channel for individual grievances. It is also a source of system intelligence. Repeated successful appeals reveal a classifier whose categories do not fit reality. Repeated local overrides reveal a policy problem. Repeated requests for human help reveal where the automated interface is not merely inconvenient but structurally inadequate.
+
+Institutions should aggregate contest, not merely process it case by case.
+
+An appeal system that corrects ten thousand decisions individually while never changing the model is wasting evidence.
+
+The same applies to worker feedback, customer complaints, bug reports, safety events, and public comments. The administrative layer should be able to notice when exception handling has become a shadow policy.
+
+A system’s edge cases are often where its constitution is being renegotiated in practice.
+
+An eighteenth institution will be accounting for cognitive capital.
+
+Organizations measure servers, buildings, patents, inventories, and labor costs more readily than they measure institutional memory, expert reserve, validated workflows, trusted datasets, or the capability of teams to supervise automation. Yet these assets determine whether AI investment creates durable value.
+
+A company that replaces experienced staff with automation may report lower costs while consuming a stock of tacit knowledge. A hospital that automates documentation may create valuable clinician time or simply increase patient loads. A government that buys an AI system may acquire software while losing internal procedural expertise.
+
+Accounting will never capture these perfectly. Management still needs to recognize them as stocks that can be depleted.
+
+This reframes some apparent inefficiency as maintenance.
+
+Training time maintains human reserve. Data stewardship maintains institutional memory. Independent testing maintains trust. Redundant suppliers maintain exit. Staffed appeal channels maintain legitimacy. These are not necessarily overhead waiting to be optimized away.
+
+They are the carrying costs of an intelligent institution.
+
+A nineteenth institution will be governance of model change.
+
+Traditional software changes through versions that organizations often control when to deploy. Hosted models can change beneath an application with less visibility. A provider may improve average capability while altering tone, refusal, tool behavior, latency, or edge-case performance relevant to a specific workflow.
+
+High-consequence deployments need contractual and technical ways to know when the cognitive component changed.
+
+They may need pinned versions, change notices, shadow evaluation, canary traffic, rollback, and renewed permission reviews. The stronger the agent’s authority, the less acceptable invisible cognitive drift becomes.
+
+This turns model lifecycle management into ordinary operations.
+
+A twentieth institution will be maintenance of the constitution itself.
+
+No initial governance design will survive contact with a technology changing this quickly. The institution needs a legitimate mechanism for amendment: who can change policy, what evidence is required, how affected groups participate, what emergency exceptions exist, and how changes are recorded.
+
+The process should be slower than a product-team preference and faster than a generation.
+
+This is the difficult middle tempo of institution building.
+
+Too fast, and rights become configuration options. Too slow, and rules fossilize around obsolete systems. The correct pace differs by domain, but the need for an amendment process does not.
+
+The point of this chapter is not that twenty new bureaucracies should appear.
+
+Many of these functions can live inside existing institutions. Procurement offices can become cognitively competent. Professional bodies can update standards. Incident-response organizations can extend scope. Libraries can become public AI access points. Regulators can share technical services. Insurance can reward controls. Open-source communities can build interoperability.
+
+Institution building is often adaptation before invention.
+
+The measure is whether the institutional environment can answer the recurring questions of abundant intelligence: Who may act? On whose data? Under what evidence? With what limits? Who can challenge? What happens when the model changes? Who remembers failure? Who maintains reserve? Who pays for public capability? Who can leave?
+
+When those questions have durable answers, AI stops being a perpetual exception to ordinary governance.
+
+It becomes infrastructure society knows how to live with.
+
+That is the real transition from invention to institution.
