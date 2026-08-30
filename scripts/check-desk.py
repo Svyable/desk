@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check the local invariants that keep Desk navigation and feedback usable.
+"""Check the local invariants that keep Desk navigation and discovery usable.
 
 This script intentionally uses only the Python standard library and the checked-out
 repository. It does not require GitHub Actions, network access, or a build step.
@@ -16,6 +16,8 @@ BOOKS = ROOT / "books"
 README = ROOT / "README.md"
 FEEDBACK = ROOT / ".github" / "ISSUE_TEMPLATE" / "chapter-feedback.yml"
 INDEX = ROOT / "index.html"
+LLMS = ROOT / "llms.txt"
+SITEMAP = ROOT / "sitemap.xml"
 LOADER = ROOT / "reader" / "js" / "app-loader.js"
 
 
@@ -43,6 +45,15 @@ def compare(label: str, expected: set[str], actual: set[str]) -> None:
         fail(f"{label} is missing: {', '.join(missing)}")
     if extra:
         fail(f"{label} has unexpected entries: {', '.join(extra)}")
+
+
+def public_readme_slugs(text: str) -> set[str]:
+    return set(
+        re.findall(
+            r"https://svyable\.github\.io/desk/books/([^/]+)/README\.md",
+            text,
+        )
+    )
 
 
 FAILED = False
@@ -101,6 +112,13 @@ index_text = INDEX.read_text(encoding="utf-8")
 for required in ("fetch('README.md'", "## The books", "parseCatalog"):
     if required not in index_text:
         fail(f"Desk landing page is not deriving its catalog from README.md ({required!r} missing)")
+
+llms_text = LLMS.read_text(encoding="utf-8")
+llms_books = section(llms_text, "Books")
+compare("llms.txt book catalog", book_dirs, public_readme_slugs(llms_books))
+
+sitemap_text = SITEMAP.read_text(encoding="utf-8")
+compare("sitemap book catalog", book_dirs, public_readme_slugs(sitemap_text))
 
 loader_text = LOADER.read_text(encoding="utf-8")
 for required in (
