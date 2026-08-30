@@ -6,13 +6,18 @@ Rules for AI agents working in this repository.
 
 - Do only what was asked. Do not rewrite neighboring chapters, "clean up"
   prose, or reformat files you were not told to touch.
-- One chapter per pull request. If a task spans books or chapters, stop and
-  split the work. This does not apply to a task that explicitly asks for an
-  entire new book in one pass (a scheduled or automated full-book drop); that
-  case is scoped instead by `docs/book-brief-standard.md`, which sets the
-  minimum length and chapter count such a run should hit.
-- When you add, rename, or remove a chapter, update that book's README
-  table of contents and the Chapters count in the same change.
+- A pull request may contain one chapter, a coherent run of chapters, or an
+  entire book when that is the requested writing scope. Keep manuscript work
+  scoped to one book unless the task explicitly spans books. Prefer batching
+  chapters that belong to the same writing pass or argument; do not bundle
+  unrelated prose, tooling changes, or drive-by cleanup merely to reduce PR
+  count. Book-specific automation may define a narrower batch size for its own
+  runs.
+- Automated full-book drops are additionally scoped by
+  `docs/book-brief-standard.md`, which sets the minimum length and chapter count
+  such a run should hit.
+- When you add, rename, or remove chapters, update that book's README table of
+  contents and the Chapters count in the same change.
 - When you add, rename, or remove a book, keep the root README catalog and the
   Book dropdown in `.github/ISSUE_TEMPLATE/chapter-feedback.yml` synchronized,
   then run `python3 scripts/check-desk.py` before finishing.
@@ -96,8 +101,10 @@ library.
 authors, `Status: Drafting`. Add the book to the root `## The books` catalog and
 the chapter-feedback Book dropdown, then run `python3 scripts/check-desk.py`.
 
-**Write / edit.** One chapter file per change. If you add, rename, or remove a
-chapter, update that book's README TOC and Chapters count in the same change.
+**Write / edit.** Write or edit the chapter files requested by the task. A
+change may contain one chapter or a coherent batch. If you add, rename, or
+remove chapters, update that book's README TOC and Chapters count in the same
+change. Keep unrelated prose and tooling out of the batch.
 
 **Check Desk.** Run `python3 scripts/check-desk.py`. It verifies that real book
 folders, Reader catalog rows, direct Reader slugs, the feedback dropdown, and
