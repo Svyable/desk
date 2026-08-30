@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | Prologue + 2 of 17 chapters drafted |
+| **Chapters**  | Prologue + 4 of 17 chapters drafted |
 
 ## Contents
 
@@ -14,13 +14,10 @@
 - [x] [Prologue — The Border Crossing](manuscript/prologue-the-border-crossing.md)
 - [x] [Ch 1 — The Country That Thinks](manuscript/ch01-the-country-that-thinks.md)
 - [x] [Ch 2 — The Five Currencies of Sovereignty](manuscript/ch02-the-five-currencies-of-sovereignty.md)
+- [x] [Ch 3 — The American Engine](manuscript/ch03-the-american-engine.md)
+- [x] [Ch 4 — Canada and the Sovereignty Premium](manuscript/ch04-canada-and-the-sovereignty-premium.md)
 
 ## Planned chapters
-
-### Part I — The New Map of Power
-
-3. The American Engine
-4. Canada and the Sovereignty Premium
 
 ### Part II — The Hemisphere Becomes a Machine
 
