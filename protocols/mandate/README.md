@@ -89,6 +89,9 @@ mandate:
   memory:
     writable: ["task_log", "corrections"]
     authoritative: ["repo_policy", "mandate"]
+    expires: ["temporary_observations"]
+  reversibility:
+    required_for: ["source changes", "configuration changes"]
   expires_at: "2026-09-01T09:00:00Z"
   stop_when:
     - "completion evidence satisfied"
@@ -104,6 +107,18 @@ A system is **behaviorally conformant** only when evaluation demonstrates that i
 Schema conformance is therefore necessary and radically insufficient.
 
 The companion Continuity Benchmark should attack behavioral conformance over changing state.
+
+## Local validation
+
+Desk is local-first, so v0 ships a standard-library checker rather than depending on hosted CI or a package install:
+
+```bash
+python3 scripts/check-mandates.py
+```
+
+The checker validates the JSON Schema vocabulary used by v0, requires every normal example to conform, and requires every fixture under `examples/invalid/` to be rejected. JSON is used for the executable examples because Python can parse it without third-party dependencies; the human-readable envelope above remains YAML-shaped for readability.
+
+This check establishes envelope conformance only. It cannot prove that a running agent obeys the mandate; that is the Continuity Benchmark's job.
 
 ## The anti-pattern
 
