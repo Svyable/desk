@@ -16,6 +16,7 @@ body:
       description: Which book is this about?
       options:
         - aggregate-consolidate-innovate
+        - artificial-promises
         - exponential-compression
         - gatekeepers
         - keep-cooking
@@ -28,6 +29,7 @@ body:
         - silent-cartel
         - single-points-of-failure
         - source-code
+        - subsidized-intelligence
         - synthetic-intelligence
         - the-abstraction-trap
         - the-bureaucracy-of-heaven
