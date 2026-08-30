@@ -1,0 +1,56 @@
+{
+  "mandate": {
+    "id": "overnight-maintenance-001",
+    "version": 1,
+    "state": "active",
+    "objective": "Fix issue #417 and leave a mergeable pull request if objective CI gates pass.",
+    "owner": "team/platform",
+    "executor": "agent/software-maintainer",
+    "scope": {
+      "resources": ["repo:service-x", "ci:service-x"],
+      "permissions": ["read", "branch", "commit", "open-pr", "merge-if-protected-gates-pass"],
+      "exclusions": ["change-branch-protection", "disable-tests", "deploy-production"]
+    },
+    "invariants": [
+      "Do not weaken tests or repository protections to obtain a passing result.",
+      "Public API compatibility must be preserved unless escalated.",
+      "Changes must remain reversible through version control."
+    ],
+    "evidence": {
+      "completion": [
+        "A regression test fails before the fix and passes after it.",
+        "Required CI checks pass on the exact head commit.",
+        "The pull request contains only changes causally required by the mandate."
+      ],
+      "checkpoints": [
+        "Escalate if the reproduced failure contradicts issue #417's premise.",
+        "Escalate if a public API break appears necessary."
+      ]
+    },
+    "budget": {
+      "money_usd": 20,
+      "compute_units": 100,
+      "deadline": "2026-08-31T09:00:00Z"
+    },
+    "escalation": {
+      "triggers": [
+        "Required fix needs excluded authority.",
+        "Evidence cannot distinguish mandate failure from infrastructure failure.",
+        "Objective CI gates conflict with one another."
+      ],
+      "destination": "team/platform-oncall"
+    },
+    "memory": {
+      "writable": ["task-log", "scoped-corrections"],
+      "authoritative": ["mandate", "repository-policy", "ci-results"],
+      "expires": ["temporary-infrastructure-observations"]
+    },
+    "expires_at": "2026-08-31T09:00:00Z",
+    "stop_when": [
+      "The PR is merged after objective repository gates pass.",
+      "The owner revokes or supersedes the mandate.",
+      "The deadline expires.",
+      "Escalation is required and no delegated authority remains."
+    ]
+  }
+}
