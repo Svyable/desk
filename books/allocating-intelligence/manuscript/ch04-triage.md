@@ -120,6 +120,38 @@ The triage nurse does not claim omniscience. The classification is a decision ma
 
 Language shapes whether people remain alert to change.
 
+The distinction between routine triage and mass-casualty triage sharpens the point because the objective can change when the resource environment changes. WHO guidance describes ordinary acuity-based triage as a way to identify people who need immediate intervention and those who can safely wait. Under mass-casualty conditions, however, needs exceed available resources by definition. The system must consider not only who is sickest but where limited intervention is most likely to help.
+
+This is ethically difficult precisely because the same person can be classified differently under different resource conditions. The patient's body did not change. The surrounding system did. A category is therefore never only a property of the case. It is partly a relationship between the case and available capacity.
+
+AI allocation will inherit this relational character. A request may deserve a frontier model during normal load and a smaller model during a crisis. A security alert may receive a human investigator when the queue is short and automated containment when hundreds arrive at once. A rural clinic may use an AI tool for tasks that a major academic hospital sends directly to a specialist because the local alternatives differ. The correct allocation cannot be defined solely by the intrinsic difficulty of the question.
+
+This complicates benchmarking. Benchmarks usually hold the task still and compare systems. Institutions live inside changing queues. The relevant performance measure may be how gracefully allocation changes when demand exceeds nominal capacity. Does the system preserve the highest-consequence work? Does it communicate delay? Does it degrade into a known mode? Does it keep some capacity for surprises, or does the first surge consume everything?
+
+Mass-casualty practice also emphasizes reassessment. A person categorized as able to wait can deteriorate. A red category can stabilize. The queue is alive. This matters because automated classification often acquires an aura of finality once written into a database. A score is generated at 9:03 and remains attached to the case at noon even though the world has changed.
+
+A robust allocator needs expiry.
+
+Every priority should have conditions under which it must be reconsidered: elapsed time, new evidence, failed attempts, changing system load, user appeal, or unusual disagreement. A low-priority software alert that repeats for six hours may become high priority. A customer support case that returns three times is not the same case. A public-benefits application delayed beyond a legal deadline changes category even if its substantive facts do not. Time itself can be new evidence.
+
+This suggests an important separation between classification and ownership. The classifier can recommend a queue position, but some person or process must own the consequences of the queue. Otherwise everybody can point to the score when a case waits too long. Triage without ownership is merely automated sorting.
+
+The system also needs to know when not to optimize globally. In a mass casualty, maximizing lives saved may be a defensible emergency objective. In ordinary life, institutions are constrained by rights that cannot be traded away for aggregate efficiency. A court cannot simply deny a hearing to an inconvenient minority because the average docket would move faster. A school cannot allocate every resource to students with the highest predicted test-score response and call the result neutral.
+
+Allocation objectives live inside constitutional boundaries.
+
+That is one reason appeals matter. An appeal is not only a concession to people who dislike their category. It is a sensor for missing variables. If one neighborhood repeatedly appeals a housing-inspection triage model and wins, the pattern may reveal an input the model does not see. If one type of medical case is frequently escalated after initial low priority, the triage rule may need revision. If experts override a model only when a particular supplier is involved, local knowledge may have identified a real dependency.
+
+Appeals are expensive if treated one at a time. They are valuable if treated as data about the allocation system.
+
+The Toyota analogy belongs here for the same reason. Jidoka is often summarized as stopping when an abnormality occurs. The deeper feature is that the abnormality becomes visible enough to organize a response and, ideally, prevent recurrence. A line stop is not merely a local inconvenience. It is a piece of information about the process.
+
+An AI system that escalates every strange case to a human but never learns from the escalation has an andon cord without kaizen. It protects the present task while wasting the evidence the exception created. A mature system records why the case escaped automation, what the human noticed, whether the action was correct, and whether the boundary should move.
+
+The purpose of triage, then, is not simply to make scarcity tolerable. It is to make scarcity informative. The queue tells the institution what it lacks. Repeated escalations reveal where models are weak, where policy is ambiguous, where demand is growing, where training is thin, and where rights are colliding with efficiency.
+
+A queue is a map of unmet capability if anyone bothers to read it.
+
 The larger lesson is that abundance makes triage more, not less, important. When cognition is expensive, many questions are never asked. When cognition is cheap, questions multiply. The system must choose which deserve depth, verification, authority, and immediacy. If those choices are not designed, they will be made by defaults: arrival order, user status, money, noise, or whatever the software happens to optimize.
 
 There is no neutral queue.
