@@ -50,6 +50,27 @@ Herbert Robbins's 1952 paper on sequential experimental design supplies a second
 3. Computer History Museum, “Programming a Computer for Playing Chess,” artifact record for Shannon's 1950 paper.
    - Secondary institutional source used to verify bibliographic context and the paper's place in early computer-chess history.
 
+## Chapter 5 — The Consumer in the Aisle
+
+This chapter treats consumer choice as a constrained search problem rather than a morality play about rational versus irrational shoppers. Stigler supplies the economic baseline: information acquisition has a cost, so buyers sample rather than enumerate every seller or product. The chapter extends that logic to attention, familiarity, brand trust, recommendation systems, and the construction of a consideration set.
+
+Iyengar and Lepper's 2000 experiments are used narrowly. Their findings support the proposition that larger choice sets can sometimes reduce action or satisfaction, but the chapter does not generalize the famous jam result into a universal law.
+
+Chernev, Böckenholt, and Goodman's 2015 meta-analysis is the main counterweight. Across 99 observations (N=7,202), choice-overload effects depended on moderators including choice-set complexity, decision-task difficulty, preference uncertainty, and decision goals. The manuscript therefore frames overload as an interaction between assortment and search conditions, not as an automatic consequence of abundance.
+
+The chapter's broader claims about recommendation systems and platforms are analytical rather than empirical claims about any specific company. Before release, later chapters that make platform-specific or contemporary assertions should add primary or authoritative sources for those systems rather than borrowing generalizations from this consumer-search chapter.
+
+## Chapter 5 source trail
+
+1. George J. Stigler, “The Economics of Information,” *Journal of Political Economy*, vol. 69, no. 3 (1961), pp. 213–225. DOI: 10.1086/258464.
+   - Primary source for costly search and the idea that buyers do not possess all market information for free.
+
+2. Sheena S. Iyengar and Mark R. Lepper, “When Choice Is Demotivating: Can One Desire Too Much of a Good Thing?”, *Journal of Personality and Social Psychology*, vol. 79, no. 6 (2000), pp. 995–1006. DOI: 10.1037/0022-3514.79.6.995.
+   - Primary experimental source. The paper reports three studies in which more limited choice sets sometimes increased purchase, task completion, satisfaction, or performance relative to larger sets.
+
+3. Alexander Chernev, Ulf Böckenholt, and Joseph Goodman, “Choice Overload: A Conceptual Review and Meta-Analysis,” *Journal of Consumer Psychology*, vol. 25, no. 2 (2015), pp. 333–358. DOI: 10.1016/j.jcps.2014.08.002.
+   - Meta-analysis of 99 observations (N=7,202). Used to preserve the conditional nature of choice overload and identify moderators rather than treating assortment size as sufficient by itself.
+
 ## Source discipline
 
 - Do not treat a large possibility space as proof that every domain resembles chess.
@@ -60,6 +81,7 @@ Herbert Robbins's 1952 paper on sequential experimental design supplies a second
 - Treat culture, incentives, status, and institutions as candidate filters only where evidence supports that mechanism.
 - In AI chapters, separate cheap generation from real-world verification costs and re-check contemporary claims before release.
 - Do not use retrospective success stories as evidence that the winning branch was obvious ex ante.
+- Do not present the jam experiment as proof that large assortments are generally harmful; preserve moderator evidence and contrary conditions.
 
 ## What would make the whole book false?
 
