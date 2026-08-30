@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 7 of 25 drafted |
+| **Chapters**  | 8 of 25 drafted |
 
 ## Contents
 
@@ -16,7 +16,7 @@
 - [x] [Ch 5 — The Useful Heap](manuscript/ch05-the-useful-heap.md)
 - [x] [Ch 6 — Compression](manuscript/ch06-compression.md)
 - [x] [Ch 7 — Naming](manuscript/ch07-naming.md)
-- [ ] Ch 8 — Primitives
+- [x] [Ch 8 — Primitives](manuscript/ch08-primitives.md)
 - [ ] Ch 9 — Standards
 - [ ] Ch 10 — Editing
 - [ ] Ch 11 — Recombination
