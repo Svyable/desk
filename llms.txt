@@ -45,6 +45,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Convergence](https://svyable.github.io/desk/books/the-convergence/README.md)
 - [The Delegation Machine](https://svyable.github.io/desk/books/the-delegation-machine/README.md)
 - [The Exponentiality](https://svyable.github.io/desk/books/the-exponentiality/README.md)
+- [The Intelligence Dilemma](https://svyable.github.io/desk/books/the-intelligence-dilemma/README.md)
 - [The Potentiality](https://svyable.github.io/desk/books/the-potentiality/README.md)
 - [The Reliability Tax](https://svyable.github.io/desk/books/the-reliability-tax/README.md)
 - [The Search Frontier](https://svyable.github.io/desk/books/the-search-frontier/README.md)
