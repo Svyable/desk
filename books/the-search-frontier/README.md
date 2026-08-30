@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 12 of 20 drafted |
+| **Chapters** | 13 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -29,7 +29,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 10 — Science and the Cost of a Negative Result](manuscript/ch10-science-and-the-cost-of-a-negative-result.md)
 - [x] [Ch 11 — Culture Sets the Search Radius](manuscript/ch11-culture-sets-the-search-radius.md)
 - [x] [Ch 12 — Careers in a Fog](manuscript/ch12-careers-in-a-fog.md)
-- [ ] Ch 13 — The General and the Map of Possible Wars
+- [x] [Ch 13 — The General and the Map of Possible Wars](manuscript/ch13-the-general-and-the-map-of-possible-wars.md)
 - [ ] Ch 14 — Standards Shrink the Search Space
 - [ ] Ch 15 — Search Under Constraint
 - [ ] Ch 16 — The Machine That Generates Possibilities
