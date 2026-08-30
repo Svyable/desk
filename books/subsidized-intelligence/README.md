@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 3 of 20 drafted |
+| **Chapters**  | 4 of 20 drafted |
 
 ## Contents
 
@@ -12,10 +12,10 @@
 - [x] [Ch 1 — The Twenty-Dollar Window](manuscript/ch01-the-twenty-dollar-window.md)
 - [x] [Ch 2 — The Product That Ate the Demo](manuscript/ch02-the-product-that-ate-the-demo.md)
 - [x] [Ch 3 — What the Subscription Buys](manuscript/ch03-what-the-subscription-buys.md)
+- [x] [Ch 4 — The Hidden Invoice](manuscript/ch04-the-hidden-invoice.md)
 
 ## Planned chapters
 
-4. The Hidden Invoice
 5. The Hyperscaler Arms Race
 6. Stargate
 7. Chips, Racks, Megawatts
