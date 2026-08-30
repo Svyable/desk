@@ -16,9 +16,12 @@ body:
       description: Which book is this about?
       options:
         - aggregate-consolidate-innovate
+        - agentile
         - artificial-promises
         - exponential-compression
+        - face-the-strange
         - gatekeepers
+        - intelligence-state
         - keep-cooking
         - leveraging-luck
         - look-alive

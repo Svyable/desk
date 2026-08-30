@@ -4,18 +4,18 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | Front matter drafted; 20 chapters planned |
+| **Chapters**  | 4 of 20 drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
+- [x] [Ch 1 — The Twenty-Dollar Window](manuscript/ch01-the-twenty-dollar-window.md)
+- [x] [Ch 2 — The Product That Ate the Demo](manuscript/ch02-the-product-that-ate-the-demo.md)
+- [x] [Ch 3 — What the Subscription Buys](manuscript/ch03-what-the-subscription-buys.md)
+- [x] [Ch 4 — The Hidden Invoice](manuscript/ch04-the-hidden-invoice.md)
 
 ## Planned chapters
 
-1. The Twenty-Dollar Window
-2. The Product That Ate the Demo
-3. What the Subscription Buys
-4. The Hidden Invoice
 5. The Hyperscaler Arms Race
 6. Stargate
 7. Chips, Racks, Megawatts
@@ -32,3 +32,8 @@
 18. Trust, Taste, and Permission
 19. Who Pays the Rest?
 20. After the Meter
+
+## Research
+
+- [Research brief and falsification notes](research/README.md)
+- [Source ledger](research/source-ledger.csv)

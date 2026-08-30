@@ -36,7 +36,9 @@ But the sequence was slow enough to embarrass the neat story we often tell about
 
 Watt’s separate condenser, patented in 1769, was a major improvement in steam-engine efficiency. Boulton and Watt built an important business around better engines. Yet Britain did not receive a sudden productivity dividend the moment Watt improved the machine.
 
-Nicholas Crafts tried to measure steam’s contribution to British economic growth using growth-accounting methods. His result is one of the most useful pieces of counterevidence in the history of technology. Steam contributed little to aggregate growth before 1830. Its largest measured effect arrived roughly a century after Watt’s famous invention, when higher-pressure engines, railways, steamships, and a much broader capital stock had made steam pervasive.
+Nicholas Crafts tried to measure steam’s contribution to British labor-productivity growth using growth accounting. His estimate for 1760–1830 was just 0.014 percentage points per year—about 5.6 percent of whole-economy labor-productivity growth in that period. The contribution rose to roughly 0.30 percentage points per year from 1830 to 1870 and 0.31 from 1870 to 1910. In other words, the familiar machine arrived long before its largest measurable macroeconomic effect.
+
+Those numbers are estimates, not a meter attached to history. Growth accounting depends on assumptions about capital services, factor shares, and productivity, and it will miss effects the model does not measure well. But the scale and timing are hard to reconcile with an instant-Watt story. Crafts’s own conclusion is that steam contributed little before 1830 and reached its peak impact roughly a century after Watt’s famous invention, when higher-pressure engines, railways, steamships, and a much broader capital stock had made steam pervasive.
 
 The heroic chronology is almost backwards. The invention comes early. The economic impact comes after engineers, firms, mines, railways, ports, maintenance practices, financing, and users have built an ecosystem around it.
 
