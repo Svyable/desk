@@ -108,6 +108,54 @@ Intelligence can create a pause as well as remove one.
 
 A good system understands that time has several values. There is time we lose because we are waiting unnecessarily. There is time we buy because more evidence is coming. There is time we preserve by acting quickly. There is time we deliberately insert to prevent impulse from becoming consequence.
 
+The forty-five minutes at Knight Capital in August 2012 are useful because they show what a latency failure looks like when software is allowed to act at market speed. According to the SEC's later enforcement order, a faulty deployment caused the firm to send millions of erroneous orders into the market. The unwanted positions accumulated faster than ordinary organizational processes could understand or contain them. By the time the episode ended, Knight had lost more than $460 million.
+
+The lesson is often told as a software-deployment story, which it is. Old code remained reachable. Controls were inadequate. Error messages appeared and were not treated as a sufficient reason to halt the system. But the incident also exposes a deeper allocation problem: once action runs at machine speed, human understanding arrives on a different clock.
+
+A person can be nominally in charge of a system and still be temporally outside its control loop.
+
+This distinction will matter far beyond financial markets. An agent can send thousands of messages before a manager finishes reading the first complaint. A pricing system can alter millions of offers before an analyst has reconstructed the feature that changed. A security agent can quarantine machines across a network faster than an incident commander can determine whether the trigger was genuine. A scheduling agent can rearrange a workforce before affected employees have any practical chance to contest the assumptions.
+
+The ordinary governance response is to add approval. At sufficient speed, approval becomes either a bottleneck or a fiction. If every action must wait for a human, the machine cannot operate at the pace for which it was deployed. If one human is asked to approve a torrent of actions, the clicks may preserve the ceremony of oversight while removing its substance.
+
+Fast systems therefore need limits that are faster than people.
+
+These limits are often simple. Position limits. Spending caps. Rate limits. Geofences. Permission scopes. Schema checks. Circuit breakers. Rules that say a system may perform this class of action only within this bounded region of consequence. The purpose is not to make a narrow rule more intelligent than the agent. It is to give the surrounding institution a reaction time compatible with the speed of the agent.
+
+The same principle appears in power systems. The August 2003 blackout in the United States and Canada did not become enormous because nobody anywhere understood electricity. It became enormous through interacting technical and organizational failures, including failures of situational awareness and the inability to contain a disturbance before it cascaded. The final investigation described a sequence in which local problems became a regional event affecting tens of millions of people.
+
+Electrical grids operate on clocks no committee can negotiate with. Protective equipment acts automatically because waiting for a board meeting would be absurd. Yet the grid also depends on slower layers: operators interpreting state, reliability organizations setting rules, utilities maintaining equipment, planners investing years in capacity. Safe operation comes from assigning different decisions to different clocks.
+
+AI institutions will need the same temporal layering.
+
+Some decisions belong in milliseconds and must be constrained in advance. Some belong in seconds and can be escalated to an operator. Some belong in hours and deserve investigation. Some belong in weeks and should accumulate evidence. A single “human approval required” policy ignores this temporal structure.
+
+Precommitment is one way to move intelligence earlier in time. Mission rules, trading limits, safety envelopes, and emergency procedures all represent thinking done before the emergency. They convert deliberation into boundaries that can operate when deliberation itself is too slow. The institution spends intelligence when time is cheap so it can act when time is expensive.
+
+This is one of the least glamorous and most powerful uses of intelligence: deciding in advance what must not be reconsidered under pressure.
+
+The boundary should not be rigid forever. An obsolete rule can be as dangerous as improvisation. But the point of a precommitted constraint is that it receives calm scrutiny before it is asked to control a fast event. An agent allowed to transfer money, change production code, or operate machinery should encounter such constraints before its first incident, not as patches after one.
+
+Reversible containment buys another kind of time. A security system that can isolate one machine while preserving evidence creates a pause for investigation. A deployment system that can roll back a release quickly makes experimentation safer. A financial system that can freeze a transaction before settlement gives slower judgment a chance to catch up. Containment is valuable because it changes the clock: the problem may still exist, but its consequence is no longer accelerating as quickly.
+
+This suggests that every autonomous action has two latencies. There is the latency to decide and the latency to contain a mistaken decision.
+
+Organizations obsess over the first and often discover the second during an incident.
+
+A model might answer in two seconds, an agent might act in one more, and the organization might need three days to unwind the result. The system is fast in the metric shown on the product page and slow in the metric that matters after failure. Conversely, a system with a five-second verification step and an instant rollback may be safer and effectively faster because mistakes do not become multiweek repair projects.
+
+The relevant unit is time to safe resolution, not time to first output.
+
+There is also a queueing problem hidden in latency. When machines escalate exceptions to people, the system can work beautifully at normal volume and collapse precisely when something unusual happens. A vendor outage, policy change, cyberattack, or market shock can make thousands of cases exceptional at once. The human fallback is then overloaded at the same moment the institution most needs judgment.
+
+This is why degraded modes should be designed as products rather than apologies. What happens when the strongest model is unavailable? When the verification service is slow? When every case suddenly looks anomalous? When the operator queue is full? A mature system does not merely fail from “automated” back to “manual,” because manual capacity may never have been sized for the automated volume.
+
+It sheds load. It narrows authority. It switches to a smaller safe set of operations. It communicates delay. It preserves the cases where waiting is most dangerous. It may become less capable in order to remain controllable.
+
+That is not graceful degradation as a technical nicety. It is triage over time.
+
+The consequence is a different way to think about speed. The fastest institution is not the one whose model returns the quickest token. It is the one that has arranged sensing, decision, constraint, authority, containment, and recovery around the clocks the world actually imposes.
+
 The mature allocation question is not “How fast can the model answer?”
 
 It is “What is this decision’s clock, and how should intelligence be arranged around it?”
