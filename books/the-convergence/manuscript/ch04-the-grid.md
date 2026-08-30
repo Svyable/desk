@@ -78,6 +78,8 @@ The strongest counterargument to an electricity-centered history is therefore no
 
 Machines improved. Factories changed. Firms invested. Management changed. Markets expanded. Skills shifted. Generation became cheaper and more reliable. Transmission systems grew. Urbanization and transport were changing too. Electricity was part of that bundle.
 
+A useful modern check comes from poorer countries, where electricity is often described as a bottleneck on development. Jonathan Colmer, David Lagakos, and Martin Shu assemble electricity inputs and outputs for 100 countries and reach a result awkward for the strongest version of that claim. In their April 2026 revision, electricity-sector productivity varies much less between rich and poor countries than economy-wide productivity does, and their model predicts only modest long-run GDP gains from fixing electricity-sector productivity or market distortions alone. The paper is a working paper and the quantitative result is model-dependent. Its warning is still useful: a grid can be essential infrastructure without being the binding constraint everywhere.
+
 But “part of the bundle” should not be confused with “incidental.” Some technologies are valuable precisely because they make other changes easier.
 
 A wire permits a factory layout that a shaft resists. A small motor permits control that a single central engine cannot provide as cheaply. Central generation allows expertise and capital to be concentrated in a utility instead of duplicated at every customer site. A network allows generators and loads to be pooled. As the pool grows, the value of reliability, standards, interconnection, and coordination grows with it.
