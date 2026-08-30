@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 6 of 25 drafted |
+| **Chapters**  | 7 of 25 drafted |
 
 ## Contents
 
@@ -15,7 +15,7 @@
 - [x] [Ch 4 — External Memory](manuscript/ch04-external-memory.md)
 - [x] [Ch 5 — The Useful Heap](manuscript/ch05-the-useful-heap.md)
 - [x] [Ch 6 — Compression](manuscript/ch06-compression.md)
-- [ ] Ch 7 — Naming
+- [x] [Ch 7 — Naming](manuscript/ch07-naming.md)
 - [ ] Ch 8 — Primitives
 - [ ] Ch 9 — Standards
 - [ ] Ch 10 — Editing
