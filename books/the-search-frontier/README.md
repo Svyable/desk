@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 3 of 20 drafted |
+| **Chapters** | 4 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -20,7 +20,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 1 — The Room of Possible Moves](manuscript/ch01-the-room-of-possible-moves.md)
 - [x] [Ch 2 — The Price of Looking](manuscript/ch02-the-price-of-looking.md)
 - [x] [Ch 3 — Explore, Exploit](manuscript/ch03-explore-exploit.md)
-- [ ] Ch 4 — The Local Maximum
+- [x] [Ch 4 — The Local Maximum](manuscript/ch04-the-local-maximum.md)
 - [ ] Ch 5 — The Consumer in the Aisle
 - [ ] Ch 6 — The Firm as Search Engine
 - [ ] Ch 7 — Bell Labs and the Architecture of Wandering
