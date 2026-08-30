@@ -1,124 +1,78 @@
 # Svyable Desk
 
-> The working room for Svyable books.
+**Books in the act of becoming books.**
 
-**Write here → preview here → release deliberate snapshots to Shelf.**
+Desk is the working library for Svyable books: drafts, complete manuscripts, research, revision history, and the next edition before it becomes a deliberate release. **Desk is where the work moves. [Shelf](https://github.com/Svyable/shelf) is where an edition lands. [Bookself](https://github.com/Svyable/bookself) is the publishing system underneath both.**
 
-Desk holds the live working state of each book: manuscripts, research, media,
-notes, and revision history. [Shelf](https://github.com/Svyable/shelf) holds
-released editions. [Bookself](https://github.com/Svyable/bookself) is the
-software and workflow that connects the two.
+**[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-| Go to | What it is |
-|---|---|
-| **[Desk Reader](https://svyable.github.io/desk/reader/)** | Working drafts from this repository, when Desk GitHub Pages is enabled |
-| **[Shelf Reader](https://svyable.github.io/shelf/reader/)** | Released public editions |
-| **[Bookself docs](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)** | The Desk → Shelf model |
-| **[Author guide](docs/author-guide.md)** | Start here if you are writing |
-| **[Editor guide](docs/editor-guide.md)** | Start here if you are reviewing or editing |
-| **[AGENTS.md](AGENTS.md)** | Repository rules for AI agents |
+> **33 books · 9 complete drafts · 1 in revision · 23 drafting**
 
-## Reader: what works, what can break
-
-The Desk Reader is a static preview of the manuscripts in this repository. It
-reuses the shared Shelf Reader UI, but resolves book content against Desk.
-Drafts stay drafts; opening a manuscript in the Desk Reader does not publish it.
-
-There are two separate failure modes worth knowing:
-
-1. **The whole Reader returns 404.** GitHub Pages is not enabled for Desk. In
-   GitHub, open **Settings → Pages**, choose **Deploy from a branch**, then
-   select **`main` / `/ (root)`**. Because this repository is private, GitHub
-   Pages for the repository requires an eligible paid GitHub plan.
-2. **The Reader opens, but a book is missing.** The Reader does **not** scan the
-   `books/` directory. Its catalog is the `## The books` table in this README.
-   Every real `books/<slug>/` directory must have one row in that table.
-
-Direct book routes use this shape:
-
-```text
-https://svyable.github.io/desk/reader/#/b/<slug>/
-```
-
-If Pages is unavailable, preview locally instead:
-
-```bash
-python3 -m http.server
-```
-
-Then open `http://127.0.0.1:8000/reader/`.
-
-### Catalog invariant
-
-**This table is executable documentation.** The Reader parses it to discover
-books.
-
-When adding or renaming a book:
-
-- keep one row here for every real folder under `books/` except `_TEMPLATE`;
-- make the first link in the row point to `books/<slug>/`;
-- keep the book's canonical title, author, status, chapter count, and contents
-  in that book's own `README.md` rather than duplicating them here;
-- use the slug unchanged in the Desk Reader route.
+Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
 ## The books
 
-| Book | Working draft |
-|---|---|
-| [Aggregate, Consolidate, Innovate](books/aggregate-consolidate-innovate/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
-| [Artificial Promises](books/artificial-promises/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
-| [Built to Be Alone](books/the-loneliness-dividend/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
-| [Exponential Compression](books/exponential-compression/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
-| [Gatekeepers](books/gatekeepers/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
-| [Keep Cooking](books/keep-cooking/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
-| [Leveraging Luck](books/leveraging-luck/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
-| [Look Alive](books/look-alive/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/look-alive/) |
-| [Make Yourself Useful](books/make-yourself-useful/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
-| [Predictable](books/predictable/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/predictable/) |
-| [Proof of Human](books/proof-of-human/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
-| [Scaling Laws](books/scaling-laws/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
-| [Silent Cartel](books/silent-cartel/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
-| [Single Points of Failure](books/single-points-of-failure/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
-| [Source Code](books/source-code/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/source-code/) |
-| [Subsidized Intelligence](books/subsidized-intelligence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/subsidized-intelligence/) |
-| [Synthetic Intelligence](books/synthetic-intelligence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) |
-| [The Abstraction Trap](books/the-abstraction-trap/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
-| [The Bureaucracy of Heaven](books/the-bureaucracy-of-heaven/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-bureaucracy-of-heaven/) |
-| [The Compatibility Dividend](books/the-compatibility-dividend/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
-| [The Convergence](books/the-convergence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
-| [The Delegation Machine](books/the-delegation-machine/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
-| [The Exponentiality](books/the-exponentiality/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
-| [The Potentiality](books/the-potentiality/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
-| [The Reliability Tax](books/the-reliability-tax/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
-| [The Search Frontier](books/the-search-frontier/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
-| [The Unbounding](books/the-unbounding/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
-| [The Value Stack](books/the-value-stack/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
-| [The Vanishing Bid](books/the-vanishing-bid/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
-| [The World Beneath the World](books/the-world-beneath-the-world/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
-| [To State the Obvious](books/to-state-the-obvious/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
-| [Useful Noise](books/useful-noise/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
-| [Vectors](books/vectors/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/vectors/) |
+The table is both a library and part of the Reader contract. The first link in every row points to the canonical `books/<slug>/` folder so the Desk Reader can discover it; the final link opens that same book in reading mode.
 
-## Repository anatomy
+`~Words` is a deliberately rough reading-size estimate for this dashboard snapshot. Run `python3 scripts/catalog.py --write` from a local checkout to replace the marked table with exact Markdown word counts derived from the current manuscript files.
 
-Each book is a self-contained project:
+<!-- DESK_CATALOG:START -->
+| Book | Stage | Chapters | ~Words | What it is | Read |
+|---|---|---:|---:|---|---|
+| [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 2 / 25 | ~3K | As execution gets cheaper, judgment, architecture, novelty, and attention become the scarcer places where advantage can collect. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
+| [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | Front matter / 22 planned | ~1.5K | AI can manufacture confidence, affection, advice, and authority cheaply; keeping promises still requires accountability, verification, and recourse. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
+| [**Built to Be Alone**](books/the-loneliness-dividend/) | ✍️ Drafting | 19 / 19 | ~73K | A counterintuitive look at how technology can make rare affinities and self-authored social lives more possible without guaranteeing connection or welfare. | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
+| [**The Last Decade in a Year**](books/exponential-compression/) | ✍️ Drafting | 2 / 11 | ~8K | Exponential change as compression: more technological, economic, and institutional rearrangement packed into less human decision time. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
+| [**Gatekeepers**](books/gatekeepers/) | ✍️ Drafting | 6 / 21 | ~24K | Modern power often sits at transitions: who gets admitted, approved, paid, treated, connected, or allowed through—and what meaningful appeal should look like. | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
+| [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft | 25 / 25 | ~85K | What happens when machine thought gets cheap enough that thinking longer, retrying, searching, critiquing, and running agents in parallel become an industrial strategy. | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
+| [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 / 10 | ~45K | *An Optimistic Guide to Life*: a book about increasing exposure to favorable randomness while becoming the kind of person able to notice and use it. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
+| [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 / 21 | ~75K | A field guide to AI systems that game, deceive, flatter, reward-hack, hide capabilities, notice evaluations, or learn to look aligned. | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
+| [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 / 12 | ~12K | Small useful acts compound into reputation, access, opportunity, trust, and eventually greater freedom to choose what you work on. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
+| [**Predictable**](books/predictable/) | ✍️ Drafting | 12 / 12 | ~45K | Transformative technology can be real while its capital and pricing cycle destroys fortunes; prediction markets become a lens on what people actually believe. | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
+| [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 / 29 | ~100K | When synthetic abundance makes convincing content cheap, provenance, personhood, verification, and costly authenticity become scarce economic goods. | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
+| [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 4 / 25 | ~16K | Scale changes systems qualitatively: bottlenecks move, coordination changes, rare events appear, and rules that worked in one regime fail in another. | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
+| [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | 21 / 21 | ~75K | What happens to competition when firms do not explicitly collude but increasingly share algorithms, pricing vendors, data, incentives, and machine-mediated behavior. | [Read →](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
+| [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | 12 / 12 | ~45K | Chokepoints can be worth more than scale: a tour of concentrated infrastructure, supply chains, standards, and dependencies that quietly run the world. | [Read →](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
+| [**Source Code**](books/source-code/) | ✍️ Drafting | 1 / 24 | ~5K | Truthful codebase comprehension as a scarce capability: smaller systems search the terrain while larger ones synthesize and test competing explanations. | [Read →](https://svyable.github.io/desk/reader/#/b/source-code/) |
+| [**Subsidized Intelligence**](books/subsidized-intelligence/) | ✍️ Drafting | Front matter / 20 planned | ~4K | The consumer sees a $20 AI subscription; behind it sit chips, campuses, power, financing, depreciation, competition, and an enormous bet on making cognition abundant. | [Read →](https://svyable.github.io/desk/reader/#/b/subsidized-intelligence/) |
+| [**Synthetic Intelligence**](books/synthetic-intelligence/) | ✍️ Drafting | 70 / 70 | ~120K | Intelligence begins manufacturing its own curriculum: generate, test, select, diversify, anchor, and turn verified synthetic experience into better learning. | [Read →](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) |
+| [**The Abstraction Trap**](books/the-abstraction-trap/) | ✍️ Drafting | 23 / 23 | ~85K | Abstraction makes civilization scalable; danger begins when institutions optimize the representation until it starts reshaping and validating the reality beneath it. | [Read →](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
+| [**The Bureaucracy of Heaven**](books/the-bureaucracy-of-heaven/) | ✍️ Drafting | Front matter / 30 planned | ~4K | What administration becomes when the clerk never tires, forgets, loses a file, or lets a tiny violation die—and human friction stops doing hidden institutional work. | [Read →](https://svyable.github.io/desk/reader/#/b/the-bureaucracy-of-heaven/) |
+| [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✍️ Drafting | 18 / 18 | ~65K | Standards are compressed coordination: shared seams create enormous compatibility dividends while also creating lock-in, dependencies, and concentrated power. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
+| [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 5 / 12 | ~20K | Civilization as the discovery, conversion, distribution, and application of energy—where useful work, access, quality, and externalities matter more than raw supply. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
+| [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 / 21 | ~75K | Civilization advances by delegating work; every new layer of delegation multiplies reach while creating new problems of information, authority, checking, and control. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
+| [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | Prologue drafted | ~3K | Stop waiting for one Singularity: the real experience may be an environment where breakthroughs arrive closer together and progress in one field accelerates another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter / 35 planned | ~4K | Several frontiers are moving at once, expanding the space of reachable futures and moving old arguments from “Can we?” toward “Should we?” and “Who decides?” | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
+| [**The Reliability Tax**](books/the-reliability-tax/) | ✍️ Drafting | 18 / 18 | ~65K | Redundancy, slack, reversibility, and spare capacity look inefficient because their costs are visible while their benefits are disasters that never happened. | [Read →](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
+| [**The Search Frontier**](books/the-search-frontier/) | ✍️ Drafting | 3 / 20 | ~12K | Civilization as search under constraint: advantage shifts toward systems that choose good possibilities, test them cheaply, learn quickly, and know when to stop. | [Read →](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
+| [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | 19 / 19 | ~70K | *When Humans and AI Cross the Event Horizon of Thought*: a complete working manuscript about the boundary conditions of intelligence becoming less bounded by individual minds. | [Read →](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
+| [**The Value Stack**](books/the-value-stack/) | ✍️ Drafting | 19 / 19 | ~70K | Value creation and value capture happen at different layers; bargaining power migrates toward necessary layers that are difficult to replace. | [Read →](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
+| [**The Vanishing Bid**](books/the-vanishing-bid/) | ✍️ Drafting | 10 / 11 | ~38K | Liquidity is voluntary behavior, not a permanent resource—and it can disappear precisely when algorithms, leverage, ETFs, and crowded systems all need it most. | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
+| [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 / 12 | ~45K | A sensory tour of the physical and social systems hidden underneath ordinary convenience: infrastructure, logistics, standards, maintenance, and stored complexity. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
+| [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | ~20K | Recover elementary truths before cleverness outruns reality: the real objective, binding constraint, earliest veto, broken hand-off, actual incentive, and next concrete action. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
+| [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | 25 / 25 | ~90K | Open and noisy quantum systems, ambient effects, energy and material interfaces—carefully separating measured evidence from models and speculation. | [Read →](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
+| [**Vectors**](books/vectors/) | ✍️ Drafting | 4 / 25 | ~15K | Vectors from physics through embeddings, search, recommendation, and agents—with the deeper question of who chooses the space and therefore the direction. | [Read →](https://svyable.github.io/desk/reader/#/b/vectors/) |
+<!-- DESK_CATALOG:END -->
 
-```text
-books/
-  <slug>/
-    README.md          ← canonical title, status, chapter count, contents
-    manuscript/        ← the book itself
-    research/          ← sources and book-specific notes
-    media/             ← images and other book assets
+### Keep the dashboard honest
+
+The dashboard is generated from ordinary repository files; it does not need an API or hosted database.
+
+```bash
+# Audit catalog → book README → Reader-visible manuscript paths
+python3 scripts/catalog.py
+
+# Refresh the marked table with exact local word counts and current metadata
+python3 scripts/catalog.py --write
 ```
 
-`books/_TEMPLATE/` is the starting point for a new book and is intentionally
-not part of the Reader catalog.
+The audit fails when a real book is missing from the catalog, a catalog row points nowhere, a book exposes zero Reader-readable checklist entries, a checked manuscript file is missing, or a stale `/self/reader/` / `/binder/reader/` route reappears.
 
-The repository also contains the lightweight `reader/` bootstrap, shared Desk
-documentation under `docs/`, and local release helpers under `scripts/`.
+## Desk and Shelf are different promises
 
-## The workflow
+**Desk means work in motion. Shelf means this snapshot is released.**
+
+The same manuscript can exist in both places at different moments. Desk keeps the newest working state and its history. A release copies a deliberate committed snapshot to Shelf; later Desk revisions do not silently rewrite the released edition.
 
 ```text
                   Svyable Desk                         Svyable Shelf
@@ -129,24 +83,62 @@ idea → research → manuscript → revision → commit → release snapshot �
                  working proof                     released work
 ```
 
+## Reader architecture
+
+The Desk Reader now has a deterministic static shell at [`reader/index.html`](reader/index.html). It reuses the shared Shelf Reader presentation modules, but **catalog and manuscript requests resolve against `/desk/`**, so a Desk route reads the working copy in this repository rather than a released Shelf copy.
+
+The small [`reader/js/app-loader.js`](reader/js/app-loader.js) compatibility adapter makes the one intentional behavioral distinction: Shelf lists `Published` books; Desk also lists drafts. The adapter now asserts the shared Reader contract before booting. If that contract changes, it renders a visible diagnostic instead of failing into a blank page.
+
+Canonical direct routes are always:
+
+```text
+https://svyable.github.io/desk/reader/#/b/<slug>/
+```
+
+For example:
+
+- [Aggregate, Consolidate, Innovate](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/)
+- [Synthetic Intelligence](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/)
+- [The World Beneath the World](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/)
+
+If GitHub Pages itself is unavailable, preview the same routes locally:
+
+```bash
+python3 -m http.server
+```
+
+Then open `http://127.0.0.1:8000/reader/`.
+
+## Repository anatomy
+
+Each book is a self-contained publication project:
+
+```text
+books/
+  <slug>/
+    README.md          ← canonical title, status, chapter count, Reader contents
+    rights.json        ← machine-readable rights metadata when present
+    RIGHTS.md          ← publication rights when present
+    manuscript/        ← the book itself
+    research/          ← sources and book-specific notes
+    media/             ← images and other assets
+```
+
+`books/_TEMPLATE/` is a starting point, not a real publication and not part of the Reader catalog.
+
+## The workflow
+
 ### 1. Start a book
 
-Copy `books/_TEMPLATE/` to `books/<slug>/`, fill in the book README, and follow
-the repository rules in [AGENTS.md](AGENTS.md). Add the new book to **The
-books** table above so the Reader can discover it.
-
-For the expected shape of a book, see [Book anatomy](docs/book-anatomy.md).
+Copy `books/_TEMPLATE/` to `books/<slug>/`, fill in its README, and add the book to the marked catalog above. Follow [AGENTS.md](AGENTS.md) for repository rules and [Book anatomy](docs/book-anatomy.md) for the expected publication shape.
 
 ### 2. Write and revise
 
-Work in `books/<slug>/manuscript/`. Keep the book README's contents and chapter
-count synchronized with the manuscript. Desk is the working edition even when
-Shelf already contains an older released edition.
+Work in `books/<slug>/manuscript/`. Keep checked contents synchronized with real files so the Reader can open every drafted section. Research and evidence can evolve beside the manuscript without being confused with the book itself.
 
-### 3. Preview
+### 3. Read the working edition
 
-Use the Desk Reader when Pages is enabled, or serve the repository locally with
-`python3 -m http.server`. Previewing is not publishing.
+Use the [Desk Reader](https://svyable.github.io/desk/reader/) when Pages is enabled, or serve the repository locally. Reading a Desk proof does not turn it into a Shelf release.
 
 ### 4. Release deliberately
 
@@ -156,31 +148,27 @@ Commit the Desk version first, then prepare a Shelf snapshot locally:
 scripts/release-book.sh <slug> ../shelf
 ```
 
-The release helper validates the Desk/Shelf roles, copies the committed book
-snapshot, marks the Shelf copy `Published`, updates the Shelf catalog, verifies
-the copy, and stops before commit or push so the public change remains
-intentional.
+The release helper validates the Desk/Shelf roles, copies the committed publication snapshot, marks the Shelf copy `Published`, updates the Shelf catalog, verifies the copy, and stops before commit or push so the public change remains intentional.
 
-For the revision model, see
-[Revising a published book](https://github.com/Svyable/bookself/blob/main/docs/revisions.md).
+For the edition model, see [Revising a published book](https://github.com/Svyable/bookself/blob/main/docs/revisions.md).
+
+## For authors, editors, and agents
+
+| Need | Go here |
+|---|---|
+| Write a book | [Author guide](docs/author-guide.md) |
+| Review or edit | [Editor guide](docs/editor-guide.md) |
+| Understand publication structure | [Book anatomy](docs/book-anatomy.md) |
+| Work as an AI agent | [AGENTS.md](AGENTS.md) |
+| Understand the wider system | [Bookself](https://github.com/Svyable/bookself) |
+| Read released work | [Svyable Shelf](https://svyable.github.io/shelf/reader/) |
 
 ## Public discovery surface
 
-When Desk Pages is enabled, the working-proof site also exposes:
+When Desk Pages is enabled, the working-proof site also exposes [`llms.txt`](https://svyable.github.io/desk/llms.txt), [`robots.txt`](https://svyable.github.io/desk/robots.txt), [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml), and [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md).
 
-- [`llms.txt`](https://svyable.github.io/desk/llms.txt) — a machine-readable map
-  of Desk books and important manuscript pages;
-- [`robots.txt`](https://svyable.github.io/desk/robots.txt) — crawler policy;
-- [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml) — public Pages
-  inventory;
-- [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md) — modification rules
-  for agents.
-
-The Git repository is private, but an enabled GitHub Pages site is an
-intentional public working-proof surface. Do not commit secrets, credentials,
-or material that must remain confidential.
+An enabled Pages site is an intentional public working-proof surface even when the Git repository itself is private. Do not commit secrets, credentials, or material that must remain confidential.
 
 ## Rights and license
 
-The framework outside `books/` is covered by [LICENSE](LICENSE). Book
-manuscripts remain the copyright of their authors; see [RIGHTS.md](RIGHTS.md).
+The framework outside `books/` is covered by [LICENSE](LICENSE). Book manuscripts remain the copyright of their authors; see [RIGHTS.md](RIGHTS.md) and each publication's own rights files where present.
