@@ -115,3 +115,31 @@ The rest of this book will keep returning to one practical distinction. Some sys
 Before Apollo 13, the lunar module was a vehicle for descent. After the oxygen tank failed, it became something else because the people and architecture around it could reinterpret its purpose. The hardware did not become more capable in that instant. The system discovered another path through capabilities it already possessed.
 
 That is often what resilience looks like from the inside. Not a miracle. Not perfect foresight. A stored possibility, recognized in time.
+
+Engineering has a useful phrase for a neighboring idea: graceful degradation. A robust system does not have to preserve full performance under every failure. It may instead preserve the functions that matter most while shedding the rest. The distinction is easy to miss because organizations often define resilience as keeping the original plan alive. Apollo 13 did the opposite. The lunar objective was abandoned so the survival objective could remain. A system that cannot rank its purposes will often protect the wrong thing.
+
+That ranking becomes critical during scarcity. Hospitals triage. Power grids shed load. Data centers may drop nonessential work to preserve core services. A household facing unemployment cancels discretionary spending before missing rent. A company in crisis may protect payroll, customer continuity, and cash while suspending expansion. These are not reversals to an earlier state. They are controlled descents to a simpler one.
+
+A return path therefore needs more than a backup. It needs an answer to the question: what are we trying hardest not to lose?
+
+If the answer is vague, every component will claim to be essential. Bureaucracies do this naturally. Each department can explain why its own process protects quality, safety, revenue, compliance, or morale. When resources tighten, the organization discovers that it never decided which functions were load-bearing.
+
+Contingency planning forces that decision while conditions are calm. Which service can be interrupted for an hour? Which for a day? Which must never lose state? Which customers or patients face irreversible harm from delay? Which decisions can wait for human review? Which systems need independent power, communications, or data?
+
+The value of such planning is not that the scenario will unfold as imagined. Apollo 13 did not follow a script written for that exact failure. Preparation creates a vocabulary of priorities and capabilities from which improvisation can work.
+
+This is why rehearsals matter even when the rehearsal is wrong.
+
+A fire drill does not predict where a future fire will begin. It makes exits familiar. A market stress test does not predict the next crisis. It reveals where balance sheets break. A tabletop cybersecurity exercise does not forecast the attacker’s technique. It exposes who has authority to isolate systems, notify customers, or restore from backup. Practice shortens the distance between surprise and coordinated action.
+
+The most resilient organizations do not rehearse because they expect the future to repeat the rehearsal. They rehearse the act of changing plans.
+
+This gives reversibility a cultural dimension deeper than optimism or grit. A culture can become practiced at abandoning a local objective without treating the change as moral collapse. It can say, “That mission is gone; what remains possible?” quickly enough for the answer to matter.
+
+That is a different kind of toughness from refusing to quit.
+
+Persistence is admirable when the destination remains reachable and the obstacle is the price of getting there. It is dangerous when the destination has disappeared and persistence prevents the organization from noticing. Apollo 13 needed enormous persistence, but not persistence toward landing on the Moon.
+
+The ability to redirect effort is what made persistence useful.
+
+This distinction will return throughout the book. A good return path is not surrender to uncertainty. It is a way to keep effort connected to reality after reality changes the terms.
