@@ -105,3 +105,83 @@ The goal is to design systems in which human judgment remains practiced, informe
 A society rich in machine intelligence may decide that keeping human capability is wasteful because the machines are better almost all the time.
 
 “Almost all” is exactly where reserves live.
+
+The reserve has at least four dimensions, and confusing them produces weak plans.
+
+The first is procedural reserve: can people continue the process when the primary automation disappears? This is the runbook problem. Staff know how to take orders manually, route an ambulance when the optimization layer is down, restore a service from backups, or issue a payment through a slower channel.
+
+The second is diagnostic reserve: can someone still understand what the system is doing badly enough to repair it? A manual fallback can keep a service moving without preserving the expertise required to fix the automation itself. Organizations that outsource every technical layer may retain operations and lose diagnosis.
+
+The third is judgment reserve: can people decide what should happen when the rules no longer fit? This is harder to train because it depends on domain understanding and exposure to uncertainty. Simulators help. Case review helps. Rotation through exceptions helps. Simply memorizing the emergency procedure does not.
+
+The fourth is relational reserve: can the institution still act humanly when automation fails or becomes inappropriate? Can a frightened patient reach a person? Can a customer explain a situation the form cannot represent? Can a citizen find an accountable official? Can a worker speak to a manager who understands the job rather than a queue of automated decisions?
+
+These reserves fail on different clocks.
+
+Procedural skill can fade in months if never practiced. Diagnostic skill may disappear over years as experienced people leave. Judgment can erode gradually when people stop seeing ordinary cases. Relational reserve can be cut in one budget cycle when the organization removes staffed channels because the bot handles ninety percent of demand.
+
+The last reduction often looks most efficient.
+
+A company can show that only a small fraction of customers use phone support and conclude that the channel is obsolete. The small fraction may contain the cases where identity is confused, fraud is suspected, disability makes the digital path unusable, a family member has died, or the automated categories simply fail. The human channel is expensive because it receives the residue.
+
+Its low utilization is not proof of low value.
+
+This is the same selection effect that appears in expert work. As machines absorb routine cases, the remaining human work becomes less frequent and more consequential. Cost per case rises. Average handling time rises. Error rates may appear worse because the easy denominator vanished.
+
+Reserve metrics must adjust for case mix.
+
+Otherwise management will compare the expensive exception queue with the old mixed queue and conclude humans became inefficient. The correct question is whether human intervention changes outcomes in the cases automation could not safely resolve.
+
+The reserve can also be shared.
+
+Not every small organization can maintain deep expertise in every failure mode. Industries create mutual aid, professional networks, emergency agreements, shared incident-response providers, and public services because some reserve capacity is more efficient collectively. AI will likely produce similar arrangements: pooled specialist review, shared fallback infrastructure, cross-firm incident intelligence, and public emergency compute.
+
+Shared reserve creates coordination problems of its own. During a correlated failure, everyone may need the same backup at once. A provider that looks redundant at the firm level can be a common dependency at the system level.
+
+Reserve planning therefore has to ask who else is counting on the same reserve.
+
+This sounds obvious in electricity, where capacity planning considers peak demand. It is less obvious in cognition, where a specialist reviewer or alternate model provider can seem infinitely reusable until a common shock sends every client into the queue.
+
+The human reserve is especially vulnerable to this illusion because experts look like flexible capacity. One security team can supervise many automated systems in ordinary conditions. If all of them encounter a common vulnerability simultaneously, the nominal ratio becomes meaningless.
+
+Correlated demand is where reserve reveals whether it was real.
+
+Another challenge is prestige. Once automation becomes the normal way of working, manual competence can acquire low status. The person who knows the old system is seen as legacy staff. The team maintaining offline procedures looks cautious. The employee who insists on occasional drills looks resistant to innovation.
+
+Organizations need to protect reserve roles culturally as well as financially.
+
+Aviation does this partly through training norms. Recurrent practice is not treated as an admission that the airplane is unreliable. It is part of professional competence. Other AI-dependent professions may need the same expectation: degraded-mode exercises are ordinary, not embarrassing.
+
+This can include deliberate “AI-off” days for critical teams, simulated model outages, exercises in identifying generated errors, and role rotations where employees solve cases before seeing the automated recommendation.
+
+The purpose is not to prove humans are better.
+
+It is to keep enough independent structure in human minds that they can detect when the machine’s representation has drifted from the world.
+
+Independence matters because a human reserve trained entirely through machine outputs can become a mirror of the primary system. If the model teaches the procedures, generates the drills, scores the performance, and supplies the explanations, a common blind spot can survive in both the automation and its backup.
+
+Reserve training needs independent sources and instructors where consequence justifies the cost.
+
+The same is true psychologically. People who supervise reliable automation often become reluctant to contradict it. The reserve must practice disagreement, not just takeover. Exercises should include cases where the model is confidently wrong, where the alert is missing, where the data are internally consistent but incomplete, and where the correct response is to question the frame.
+
+The skill is not merely operating without AI. It is knowing when to stop believing it.
+
+That is a subtle professional capacity. It requires confidence without arrogance, domain knowledge without hostility to tools, and enough institutional support that an override does not look like insubordination.
+
+Human reserve is therefore partly a social contract.
+
+The institution tells people: we expect you to use the machine; we also expect you to challenge it when evidence warrants; we will train you to do so; and we will not punish every false alarm as waste.
+
+Without that contract, reserve remains decorative.
+
+There is a public version too. Citizens need cognitive reserve against systems that mediate more of life. Basic numeracy, source judgment, legal and civic understanding, privacy knowledge, and the ability to seek human help are forms of democratic redundancy. A population that can use AI but cannot interrogate it is easier to manage and harder to empower.
+
+This returns the argument to education. The human reserve is built long before the emergency.
+
+It is built when a student learns to estimate before trusting the calculator, to read the source before trusting the summary, to argue before accepting the generated argument, and to recognize that a fluent answer can still be a claim requiring judgment.
+
+Reserves are expensive because capability has to exist before demand proves it necessary.
+
+That is also why they are a test of institutional seriousness.
+
+Anyone can celebrate efficiency during normal operation. A mature system pays, quietly and in advance, to preserve a different way of knowing when normal operation stops.
