@@ -1,0 +1,34 @@
+{
+  "mandate": {
+    "id": "immortal-optimizer",
+    "version": 1,
+    "state": "active",
+    "objective": "Improve the company forever.",
+    "owner": "company",
+    "executor": "agent/optimizer",
+    "scope": {
+      "resources": ["all-company-systems"],
+      "permissions": ["all"],
+      "exclusions": []
+    },
+    "invariants": ["Try to be helpful."],
+    "evidence": {
+      "completion": ["The agent believes the company is better."]
+    },
+    "budget": {},
+    "escalation": {
+      "triggers": ["The agent feels uncertain."],
+      "destination": "unknown"
+    },
+    "memory": {
+      "writable": ["everything"],
+      "authoritative": ["agent-memory"],
+      "expires": []
+    },
+    "reversibility": {
+      "required_for": []
+    },
+    "expires_at": null,
+    "stop_when": []
+  }
+}
