@@ -123,3 +123,79 @@ The difference will be made in ownership, rights, access, labor arrangements, pu
 Power decides where intelligence points.
 
 Intelligence, once pointed, changes power in return.
+
+There is a ninth power question hiding inside all the others: who gets to define success after the system is deployed?
+
+Before deployment, objectives are often written in general terms. Improve service. Reduce fraud. Increase productivity. Personalize learning. Allocate risk. Once the system is running, these ambitions are translated into measurable proxies. Handle time. Recovery rate. Cases flagged. Revenue per employee. Test performance. Engagement.
+
+The proxy becomes the operating constitution because budgets, dashboards, and career incentives attach to it.
+
+Power over metrics is power over reality’s official description.
+
+A worker may experience an AI system as making customers happier while management’s dashboard records that calls are longer. A teacher may see deeper student discussion while the platform records fewer completed exercises. A public employee may solve a difficult case properly while the system records missed throughput. If the metric outranks the person’s account automatically, the institution has allocated epistemic authority to the measurement system.
+
+This is sometimes correct. Humans rationalize. Local actors can protect poor practice. Metrics reveal patterns anecdotes miss. The point is not that lived experience should beat measurement. It is that disagreement between them should trigger inquiry rather than automatic dismissal.
+
+An intelligent institution asks why its representations diverge.
+
+A tenth question is who bears the cost of verification.
+
+Powerful institutions can demand proof from weaker parties while keeping their own reasoning opaque. An applicant must submit documents. A platform can change a ranking with little explanation. A worker must contest a performance score. A citizen may have to prove that an automated record is wrong even though the state produced the record.
+
+AI can lower the cost of producing justifications for institutions without lowering the cost of challenging them for individuals. A denial letter becomes longer, more polished, and more difficult to penetrate.
+
+Explanation can become another asymmetry.
+
+The relevant right is not merely to receive words. It is to receive enough information to act: which facts mattered, which rule applied, what can be corrected, who can review, what deadline governs the challenge. A machine-generated essay about the decision may satisfy a transparency checklist while exhausting the person who needs remedy.
+
+Procedural intelligence should be allocated to the weaker side too.
+
+A benefits claimant’s agent could assemble an appeal. A worker’s agent could compare evaluation records with policy. A tenant’s agent could detect prohibited contract terms. A consumer’s agent could negotiate cancellation. These uses turn AI from an institutional telescope pointed downward into a counterweight.
+
+The politics of personal agents will depend on this representational loyalty. An agent that claims to serve the user while being funded by the party selling, ranking, lending, hiring, or insuring creates an old conflict in a new interface. The economic model determines where persuasion points.
+
+This is why fiduciary ideas keep returning. The more context a system holds and the more decisions it can make, the more consequential hidden incentives become.
+
+A calendar assistant that prefers one restaurant because of an affiliate payment is annoying. A financial agent that steers retirement assets toward a sponsor is different. A health agent that adjusts advice around commercial relationships is different again. The same technical architecture crosses into different power regimes as consequence rises.
+
+A society may therefore need categories of machine representation just as it has categories of human representation.
+
+Some agents are merchants. Some are brokers. Some are advisers. Some are public servants. Some are fiduciaries. Some are mere tools. The interface should not collapse these roles into a friendly voice.
+
+The eleventh question is collective power.
+
+An individual worker may be unable to evaluate the model that schedules a workforce. Collectively, workers may be able to compare schedules, identify patterns, and negotiate limits. An individual patient may not know whether a hospital’s triage model disadvantages a group. Researchers, regulators, and patient organizations may be able to test it. An individual consumer cannot audit a platform’s market power. Public institutions can.
+
+Not every intelligence problem can be solved by giving each person a better assistant.
+
+Collective institutions aggregate bargaining power as well as knowledge. Unions, professional associations, regulators, courts, standards bodies, journalists, universities, and civil-society organizations can all act as cognitive intermediaries. AI can strengthen them too, provided access is not limited to the actors they scrutinize.
+
+This is an important correction to the image of AI as radical individual empowerment. Individuals matter. So do organizations capable of challenging other organizations.
+
+The twelfth question is time horizon.
+
+Powerful actors can often wait longer. A large firm can litigate. A wealthy person can hire experts. A government can demand repeated forms. A precarious worker, small business, or sick patient may need resolution now. Delay itself becomes leverage.
+
+AI can shorten administrative delay and therefore redistribute power. It can also generate more process, more automated requests, and more sophisticated obstacles.
+
+The question is whether machine intelligence reduces the time required to obtain a right or increases the time required to contest a system.
+
+This is why latency belongs in political design. An appeal available in theory but resolved after the lost job, apartment, treatment window, or election is not equivalent to an effective appeal.
+
+Rights need clocks.
+
+The final question is whether intelligence changes the possibility of exit, voice, and loyalty simultaneously. Better personal tools can make exit easier: compare providers, move data, switch vendors. Better institutional tools can make retention more sophisticated: personalized offers, predictive churn interventions, tailored persuasion. Better civic tools can strengthen voice: organize evidence, coordinate complaints, understand procedure.
+
+AI will operate on every side of these relationships.
+
+That means power cannot be inferred from who “has AI.” Nearly everyone may have it. The important questions will be whose agent has which data, which authority, which institutional backing, which time horizon, and which right to compel response.
+
+Abundant intelligence does not flatten hierarchy by itself.
+
+It gives every hierarchy new instruments.
+
+The political work is to decide where those instruments should be symmetric, where stronger duties should attach to stronger actors, and where some powers should remain unavailable even if machines can exercise them cheaply.
+
+Power is not the embarrassing residue left after the technical design is finished.
+
+It is one of the variables the system is allocating from the beginning.
