@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 4 of 25 drafted |
+| **Chapters**  | 5 of 25 drafted |
 
 ## Contents
 
@@ -13,7 +13,7 @@
 - [x] [Ch 2 — Attention Debt](manuscript/ch02-attention-debt.md)
 - [x] [Ch 3 — Hunt the Edges](manuscript/ch03-hunt-the-edges.md)
 - [x] [Ch 4 — External Memory](manuscript/ch04-external-memory.md)
-- [ ] Ch 5 — The Useful Heap
+- [x] [Ch 5 — The Useful Heap](manuscript/ch05-the-useful-heap.md)
 - [ ] Ch 6 — Compression
 - [ ] Ch 7 — Naming
 - [ ] Ch 8 — Primitives
