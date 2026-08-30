@@ -6,7 +6,9 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 |---|---|---|---|
 | Early neural language representations | Yoshua Bengio, Réjean Ducharme, Pascal Vincent and Christian Jauvin, “A Neural Probabilistic Language Model,” *Journal of Machine Learning Research* 3, 2003. https://jmlr.csail.mit.edu/papers/v3/bengio03a | Primary anchor for learning distributed word representations jointly with a language model so nearby representations support generalization to unseen sequences. | This is an early feed-forward neural language model, not a modern contextual embedding model; do not collapse its representation scheme into later word2vec, transformer or sentence-embedding systems. |
 | Word vectors | Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean, “Efficient Estimation of Word Representations in Vector Space,” 2013. https://arxiv.org/abs/1301.3781 | Historical anchor for efficient dense word representations learned from large corpora. | Do not overstate the robustness or universality of analogy arithmetic. |
+| Negative sampling | Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado and Jeffrey Dean, “Distributed Representations of Words and Phrases and their Compositionality,” *Advances in Neural Information Processing Systems* 26, 2013. https://arxiv.org/abs/1310.4546 | Primary anchor for Skip-gram extensions including subsampling and negative sampling; supports the chapter’s claim that the construction of positive and negative training examples helps determine learned geometry. | Negative sampling is one training method for a specific family of word representations, not a universal description of all embedding objectives. Do not infer that every sampled non-observed pair is semantically opposite. |
 | Global word vectors | Jeffrey Pennington, Richard Socher and Christopher D. Manning, “GloVe: Global Vectors for Word Representation,” 2014. https://nlp.stanford.edu/pubs/glove.pdf | Connects vector geometry to global co-occurrence statistics and documents useful similarity structure. | Results depend on corpus, preprocessing, dimensionality and evaluation. |
+| Sentence contrastive learning | Tianyu Gao, Xingcheng Yao and Danqi Chen, “SimCSE: Simple Contrastive Learning of Sentence Embeddings,” *EMNLP*, 2021, pp. 6894–6910. https://aclanthology.org/2021.emnlp-main.552/ | Concrete example of how positive construction, dropout augmentation and hard negatives shape sentence-embedding quality and geometry under a contrastive objective. | Model- and benchmark-specific; do not generalize SimCSE’s anisotropy, dropout or hard-negative findings to every sentence encoder or contrastive method. |
 | Multimodal representation | Alec Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” 2021. https://arxiv.org/abs/2103.00020 | Primary source for CLIP-style contrastive alignment of image and text representations at scale. | A shared training objective does not imply a perfectly unified or bias-free semantic space. |
 | Similarity search | Jeff Johnson, Matthijs Douze and Hervé Jégou, “Billion-scale similarity search with GPUs,” 2017. https://arxiv.org/abs/1702.08734 | Engineering anchor for large-scale exact/approximate similarity search and FAISS. | Separate indexing speed/recall tradeoffs from embedding quality and semantic relevance. |
 | Contrastive geometry | Chungpa Lee, Sehee Lim, Kibok Lee and Jy-Yong Sohn, “On the Similarities of Embeddings in Contrastive Learning,” ICML 2025. https://proceedings.mlr.press/v267/lee25v.html | Current theoretical evidence that positive/negative sampling and batch structure shape cosine-similarity geometry in contrastive representation learning. | One theoretical framework and experimental regime; do not universalize its batch-size conclusions to all contrastive objectives. |
@@ -24,6 +26,12 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 - Ashish Vaswani et al., “Attention Is All You Need,” 2017.
 - Jacob Devlin et al., “BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,” 2018/2019.
 - Later work distinguishing static embeddings, contextual hidden states and sentence-level embedding models.
+
+### Embedding objectives
+
+- Comparative work on contrastive losses, metric learning, hard-negative mining, false negatives and batch composition across text, vision and multimodal settings.
+- Evidence on pooling strategies, normalization, dimensionality and objective mismatch before making broad claims that any one recipe creates generally useful semantic embeddings.
+- Embedding-version migration and production-evaluation literature linking model changes to index rebuilds, threshold drift and downstream retrieval behavior.
 
 ### Dense retrieval
 
@@ -62,6 +70,8 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 - Any claim that two concepts occupy a single stable direction across different models.
 - Any claim that cosine similarity directly measures human semantic similarity.
 - Any claim that analogy arithmetic is a universal or stable property of word embeddings rather than a model-, corpus- and evaluation-dependent phenomenon.
+- Any claim that negative sampling or contrastive negatives correspond to true semantic opposites rather than training contrasts.
+- Any claim that one hard-negative recipe, temperature, batch size or augmentation policy is generally optimal across embedding families.
 - Any claim that hubness or anisotropy is the dominant explanation for retrieval failures across embedding families without model-specific evidence.
 - Any vector-database performance comparison that does not control for recall, hardware, dimensionality and index parameters.
 - Any claim that a two-dimensional visualization reveals the true structure of a high-dimensional representation.
