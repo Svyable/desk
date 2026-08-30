@@ -38,6 +38,6 @@
 
 This is an unpublished Desk manuscript. Review and revise it here before deliberately releasing a Shelf edition.
 
-- [Open the working Desk preview](https://svyable.github.io/self/reader/#/b/the-value-stack/)
+- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/the-value-stack/)
 
 The central thesis is that value creation and value capture occur at different layers of economic systems, and that bargaining power migrates toward necessary layers that are difficult to replace. The manuscript treats forecasts as forecasts and distinguishes interpretive analysis from historical claims.
