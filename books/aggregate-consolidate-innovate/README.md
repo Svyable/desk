@@ -4,19 +4,19 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 2 of 25 drafted |
+| **Chapters**  | 8 of 25 drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Collector’s Fallacy](manuscript/ch01-the-collectors-fallacy.md)
 - [x] [Ch 2 — Attention Debt](manuscript/ch02-attention-debt.md)
-- [ ] Ch 3 — Hunt the Edges
-- [ ] Ch 4 — External Memory
-- [ ] Ch 5 — The Useful Heap
-- [ ] Ch 6 — Compression
-- [ ] Ch 7 — Naming
-- [ ] Ch 8 — Primitives
+- [x] [Ch 3 — Hunt the Edges](manuscript/ch03-hunt-the-edges.md)
+- [x] [Ch 4 — External Memory](manuscript/ch04-external-memory.md)
+- [x] [Ch 5 — The Useful Heap](manuscript/ch05-the-useful-heap.md)
+- [x] [Ch 6 — Compression](manuscript/ch06-compression.md)
+- [x] [Ch 7 — Naming](manuscript/ch07-naming.md)
+- [x] [Ch 8 — Primitives](manuscript/ch08-primitives.md)
 - [ ] Ch 9 — Standards
 - [ ] Ch 10 — Editing
 - [ ] Ch 11 — Recombination

@@ -5,6 +5,8 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 | Area | Source | Use | Cautions |
 |---|---|---|---|
 | Biological allometry | Max Kleiber, “Body Size and Metabolism,” *Hilgardia* 6(11), 1932. https://pdodds.w3.uvm.edu/files/papers/others/1932/kleiber1932a.pdf | Historical anchor for metabolic scaling and the log-log formulation of metabolism versus body weight. | Do not present the 3/4 exponent as universally settled across organisms or conditions. |
+| Experience curves | Theodore P. Wright, “Factors Affecting the Cost of Airplanes,” *Journal of the Aeronautical Sciences* 3(4), 1936. https://doi.org/10.2514/8.155 | Primary historical anchor for cost decline with cumulative aircraft production and the experience/learning-curve tradition. | Wright studied a particular industrial setting; do not treat one progress ratio as universal or infer mechanism from the fitted curve alone. |
+| Technology forecasting | Béla Nagy, J. Doyne Farmer, Quan M. Bui and Jessika E. Trancik, “Statistical Basis for Predicting Technological Progress,” *PLOS ONE* 8(2), 2013. https://doi.org/10.1371/journal.pone.0052669 | Compares Wright-style cumulative-production laws, generalized Moore-style time trends and other forecasting hypotheses across 62 technologies; useful for the Wright-versus-Moore distinction. | Cumulative production and time are often strongly correlated; forecasting performance does not by itself establish causal learning-by-doing. |
 | Neural scaling | Jared Kaplan et al., “Scaling Laws for Neural Language Models,” 2020. https://arxiv.org/abs/2001.08361 | Empirical power-law relationships among language-model loss, model size, dataset size and compute. | Record parameter-count convention and experimental range; later compute-optimal work revised the recommended allocation. |
 | Compute-optimal scaling | Jordan Hoffmann et al., “Training Compute-Optimal Large Language Models,” 2022. https://arxiv.org/abs/2203.15556 | Chinchilla result: under the paper’s regime, compute-optimal training scales model size and training tokens together. | Do not universalize the tokens-to-parameters prescription beyond its assumptions, architecture and cost model. |
 | Scaling-law sensitivity | Tim Pearce and Jinyeop Song, “Reconciling Kaplan and Chinchilla Scaling Laws,” 2024. https://arxiv.org/abs/2406.12907 | Useful for explaining why fitted scaling prescriptions can differ because of parameter definitions and experimental scale. | Secondary reconciliation paper; preserve remaining uncertainty and later evidence. |
@@ -19,8 +21,8 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 
 ### Experience curves
 
-- Theodore P. Wright, “Factors Affecting the Cost of Airplanes,” 1936.
-- Later empirical work comparing Wright’s law, Moore’s law and other forecasting relationships across technologies.
+- Cross-industry work on learning spillovers, organizational forgetting, path dependence and how much apparent cost decline is attributable to cumulative production versus exogenous technological change.
+- Industry-specific evidence for batteries, photovoltaics, semiconductors and other technologies before making numerical policy claims.
 
 ### Networks
 
@@ -49,6 +51,7 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 - Any numerical urban scaling exponent.
 - Any claim that a specific network’s value scales as `n²`.
 - Any numerical cost decline per cumulative production doubling.
+- Any causal claim that cumulative production itself, rather than correlated time, R&D, scale or redesign, explains a specific technology’s cost decline.
 - Contemporary frontier-model training compute, energy use or dollar cost.
 - Claims about data exhaustion or synthetic-data contamination.
 - Claims about legal or regulatory thresholds triggered solely by user count or scale.

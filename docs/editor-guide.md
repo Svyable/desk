@@ -9,16 +9,20 @@ instead.
 
 ## Branch → edit → pull request
 
-1. Create a branch named after the chapter, for example
-   `fix/example-book-ch02-typos`.
-2. Edit one chapter file. If the table of contents must change to match
-   (added, renamed, or removed chapter), edit that book's `README.md` in
-   the same branch.
+1. Create a branch named after the book or manuscript scope, for example
+   `book/example-book-ch02-05` or `fix/example-book-ch02-typos`.
+2. Edit the chapter or coherent run of chapters the task calls for. If the
+   table of contents must change to match (added, renamed, or removed
+   chapters), edit that book's `README.md` in the same branch.
 3. Open a pull request against `main`. The PR template asks for the book,
-   the chapter, what changed, and why.
-4. Wait for the book's lead author to review.
+   manuscript scope, what changed, and why.
+4. Review the diff as a unit: the chapters should belong together, the TOC and
+   drafted count should match, and unrelated cleanup should not have slipped in.
 
-Keep the pull request to one chapter. A second chapter is a second PR.
+A PR may contain one chapter, several related chapters, or a whole-book writing
+pass. Prefer the largest scope that remains coherent and reviewable. Do not
+combine unrelated books or unrelated tooling changes merely to reduce PR count.
+Book-specific automation may deliberately use a narrower batch size.
 
 ## Keeping the chapter-feedback book list current
 

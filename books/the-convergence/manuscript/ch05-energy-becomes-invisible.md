@@ -52,7 +52,7 @@ The user experiences visibility.
 
 William Nordhaus made a related point in his history of lighting, but his target was economic measurement. Conventional price indexes struggle when a new technology does not simply make an old product cheaper but delivers a much better version of the underlying service. A candle and an electric lamp are both sold as lighting technologies, yet they are separated by enormous differences in luminous output, convenience, reliability, cleanliness, and labor required to obtain the light.
 
-Nordhaus reconstructed the labor cost of illumination across technologies and found declines far larger than ordinary price measures suggested. The point was not that official statistics were foolish. The point was that measuring the price of a thing becomes difficult when the thing quietly changes category.
+Nordhaus reconstructed that labor cost in a unit a household can feel. In his estimates, buying 1,000 lumen-hours of light required about 5.37 hours of work around 1800, 0.22 hours around 1900, and 0.00012 hours by 1992. These are reconstructed economic estimates, not a pure measure of lamp efficiency: wages, prices, and assumptions about historical devices all enter the calculation. Even with that qualification, the scale of the change is difficult to mistake.
 
 A horse and a train both provide transport. A letter and a video call both provide communication. A fireplace and a heat pump both provide warmth. A candle and an LED both provide light.
 

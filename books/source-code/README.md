@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 24 drafted |
+| **Chapters** | 8 of 24 drafted |
 
 The working thesis is that general AI capability will diffuse rapidly across companies, while truthful comprehension of a company's own product and tooling code remains scarce. The most effective general architecture for grokking bugs and feature functionality is a recursive loop: small models search the repository relentlessly with deterministic tools; larger models synthesize the evidence, attack their own hypotheses, and send the searchers back out. The IDE, agent harness, and model stack should therefore be designed around source-code comprehension as a first-class capability.
 
@@ -14,13 +14,13 @@ The working thesis is that general AI capability will diffuse rapidly across com
 
 - [ ] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Great Diffusion](manuscript/ch01-the-great-diffusion.md)
-- [ ] [Ch 2 — The City Under the City](manuscript/ch02-the-city-under-the-city.md)
-- [ ] [Ch 3 — Grep Before You Guess](manuscript/ch03-grep-before-you-guess.md)
-- [ ] [Ch 4 — Why Small Models Hold the Flashlight](manuscript/ch04-small-models-hold-the-flashlight.md)
-- [ ] [Ch 5 — The Cartographer and the Field Mice](manuscript/ch05-cartographer-and-field-mice.md)
-- [ ] [Ch 6 — Search Surface Area](manuscript/ch06-search-surface-area.md)
-- [ ] [Ch 7 — Bugs Have Shapes](manuscript/ch07-bugs-have-shapes.md)
-- [ ] [Ch 8 — Features Are Traces, Not Folders](manuscript/ch08-features-are-traces.md)
+- [x] [Ch 2 — The City Under the City](manuscript/ch02-the-city-under-the-city.md)
+- [x] [Ch 3 — Grep Before You Guess](manuscript/ch03-grep-before-you-guess.md)
+- [x] [Ch 4 — Why Small Models Hold the Flashlight](manuscript/ch04-small-models-hold-the-flashlight.md)
+- [x] [Ch 5 — The Cartographer and the Field Mice](manuscript/ch05-cartographer-and-field-mice.md)
+- [x] [Ch 6 — Search Surface Area](manuscript/ch06-search-surface-area.md)
+- [x] [Ch 7 — Bugs Have Shapes](manuscript/ch07-bugs-have-shapes.md)
+- [x] [Ch 8 — Features Are Traces, Not Folders](manuscript/ch08-features-are-traces.md)
 - [ ] [Ch 9 — Anchor, Expand, Attack, Compress](manuscript/ch09-anchor-expand-attack-compress.md)
 - [ ] [Ch 10 — The Power of Negative Space](manuscript/ch10-negative-space.md)
 - [ ] [Ch 11 — Tests Are Executable Gossip](manuscript/ch11-tests-are-executable-gossip.md)
