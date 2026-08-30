@@ -32,3 +32,8 @@
 18. Trust, Taste, and Permission
 19. Who Pays the Rest?
 20. After the Meter
+
+## Research
+
+- [Research brief and falsification notes](research/README.md)
+- [Source ledger](research/source-ledger.csv)
