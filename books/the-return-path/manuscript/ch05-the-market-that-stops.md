@@ -145,3 +145,29 @@ Speed needs brakes. Leverage needs buffers. Liquidity needs capacity. Insurance 
 A healthy system is not one that never falls.
 
 It is one in which falling does not automatically become falling forever.
+
+The modern U.S. circuit-breaker regime is itself a historical correction. The stock-market crash of October 1987 exposed how rapidly selling strategies, fragmented markets, order processing, and fear could interact. Regulators and exchanges did not conclude that markets should stop whenever prices looked ugly. They built predetermined thresholds so a severe move would encounter known friction rather than improvised closure.
+
+That distinction matters. An ad hoc halt imposed because officials dislike a price can undermine the market. A rule defined before anyone knows who will benefit can support legitimacy even when it interrupts trading.
+
+The return path is stronger when its trigger is not invented during the panic.
+
+The same principle should govern corporate emergency financing, margin exceptions, product recalls, and political emergency powers. If decision makers can invent the escape hatch after learning who needs it, rescue becomes vulnerable to favoritism. Predetermined conditions are imperfect, but they move some judgment out of the emotionally hottest moment.
+
+March 2020 offered a modern stress test. U.S. market-wide circuit breakers were triggered repeatedly as the pandemic shock reached financial markets. The halts did not make the economic uncertainty disappear. Prices still adjusted dramatically. Their purpose was narrower: create orderly pauses inside a market processing extraordinary information and order flow.
+
+This is an important defense against magical thinking about safeguards. A circuit breaker can function correctly while the market still falls. A fire door can function correctly while a building is damaged. Deposit insurance can function correctly while a bank fails. A backup can function correctly while users experience an outage.
+
+Safety mechanisms should be judged against the failure they are meant to prevent, not against the fantasy of no failure at all.
+
+This sounds obvious, but institutions frequently punish a safeguard for revealing the underlying problem. A company uses its emergency credit line and investors ask why it needed one. A hospital activates surge capacity and critics treat the activation itself as evidence that planning failed. A software team rolls back a release and management calls the release process unreliable.
+
+The better question is counterfactual: what would have happened without the return path?
+
+This is hard because the counterfactual is invisible. Finance provides some of the best empirical material precisely because failures leave prices, balance sheets, defaults, and legal records. Even then, certainty is rare. Did a particular intervention prevent a larger panic or merely postpone adjustment? Did a bailout preserve the system or subsidize future risk? Did a trading halt calm markets or concentrate orders at reopening?
+
+These are not reasons to abandon safeguards. They are reasons to study them as interventions with side effects.
+
+A mature return path is itself subject to review.
+
+The system must be able to reverse the mechanism of reversal when evidence says it no longer works.
