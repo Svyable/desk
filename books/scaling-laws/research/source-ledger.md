@@ -8,8 +8,9 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 | Experience curves | Theodore P. Wright, “Factors Affecting the Cost of Airplanes,” *Journal of the Aeronautical Sciences* 3(4), 1936. https://doi.org/10.2514/8.155 | Primary historical anchor for cost decline with cumulative aircraft production and the experience/learning-curve tradition. | Wright studied a particular industrial setting; do not treat one progress ratio as universal or infer mechanism from the fitted curve alone. |
 | Technology forecasting | Béla Nagy, J. Doyne Farmer, Quan M. Bui and Jessika E. Trancik, “Statistical Basis for Predicting Technological Progress,” *PLOS ONE* 8(2), 2013. https://doi.org/10.1371/journal.pone.0052669 | Compares Wright-style cumulative-production laws, generalized Moore-style time trends and other forecasting hypotheses across 62 technologies; useful for the Wright-versus-Moore distinction. | Cumulative production and time are often strongly correlated; forecasting performance does not by itself establish causal learning-by-doing. |
 | Semiconductor scaling | Gordon E. Moore, “Cramming More Components onto Integrated Circuits,” *Electronics* 38(8), 1965. IEEE reprint: https://doi.org/10.1109/N-SSC.2006.4785860 | Primary historical anchor for Moore’s empirical component-count projection and its economic framing; supports the distinction between observation, extrapolation and later institutionalized roadmap. | Do not describe Moore’s Law as a physical law or attribute later industry-wide coordination solely to the 1965 article. Separate transistor-density trends from Dennard scaling, clock frequency, performance and cost-per-function. |
-| Neural scaling | Jared Kaplan et al., “Scaling Laws for Neural Language Models,” 2020. https://arxiv.org/abs/2001.08361 | Empirical power-law relationships among language-model loss, model size, dataset size and compute. | Record parameter-count convention and experimental range; later compute-optimal work revised the recommended allocation. |
-| Compute-optimal scaling | Jordan Hoffmann et al., “Training Compute-Optimal Large Language Models,” 2022. https://arxiv.org/abs/2203.15556 | Chinchilla result: under the paper’s regime, compute-optimal training scales model size and training tokens together. | Do not universalize the tokens-to-parameters prescription beyond its assumptions, architecture and cost model. |
+| Neural scaling | Jared Kaplan et al., “Scaling Laws for Neural Language Models,” 2020. https://arxiv.org/abs/2001.08361 | Empirical power-law relationships among language-model loss, model size, dataset size and compute; foundational evidence that resource allocation can be analyzed as a performance frontier. | Record parameter-count convention and experimental range; later compute-optimal work revised the recommended allocation. |
+| Compute-optimal scaling | Jordan Hoffmann et al., “Training Compute-Optimal Large Language Models,” 2022. https://arxiv.org/abs/2203.15556 | Chinchilla result: under the paper’s regime, compute-optimal training scales model size and training tokens together much more aggressively than many earlier frontier models had done. | Do not universalize a fixed tokens-to-parameters prescription beyond its assumptions, architecture, data mixture, optimization and cost model. |
+| Data-constrained scaling | Niklas Muennighoff et al., “Scaling Data-Constrained Language Models,” *Advances in Neural Information Processing Systems* 36, 2023. https://arxiv.org/abs/2305.16264 | Experimental evidence on repeated-data training when unique text becomes a binding resource; supports the distinction between tokens processed and unique data available. | The paper’s repetition findings and fitted optimal-allocation law are regime-specific. Do not turn a reported epoch threshold into a universal rule; later reanalysis and different regularization or data regimes can change the prescription. |
 | Scaling-law sensitivity | Tim Pearce and Jinyeop Song, “Reconciling Kaplan and Chinchilla Scaling Laws,” 2024. https://arxiv.org/abs/2406.12907 | Useful for explaining why fitted scaling prescriptions can differ because of parameter definitions and experimental scale. | Secondary reconciliation paper; preserve remaining uncertainty and later evidence. |
 | Modern robustness | Rylan Schaeffer et al., “Evaluating the Robustness of Chinchilla Compute-Optimal Scaling,” 2025. https://arxiv.org/abs/2509.23963 | Tests sensitivity of Chinchilla conclusions to parameter-count ambiguities and perturbations. | Preprint; status and later revisions must be checked before release. |
 
@@ -36,6 +37,13 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 - Dennard et al. on MOSFET scaling, kept conceptually distinct from Moore’s Law.
 - Industry road-map histories showing coordination effects around expected scaling cadences; use these before making strong causal claims that the roadmap itself sustained the curve.
 
+### AI resource scaling
+
+- Replication and reanalysis work on compute-optimal scaling that controls for optimizer tuning, warmup, parameter-count conventions and architectural changes.
+- Evidence on data quality, deduplication, mixture design and synthetic/repeated data before converting raw token counts into claims about effective data scale.
+- Systems evidence separating theoretical FLOPs from realized accelerator utilization, communication overhead, memory bandwidth and wall-clock time.
+- Inference-scaling and test-time-compute literature before making claims that training-time data/compute/parameter frontiers determine deployment-optimal design.
+
 ### Organizations
 
 - James D. Thompson, *Organizations in Action*.
@@ -54,8 +62,11 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 - Any numerical cost decline per cumulative production doubling.
 - Any causal claim that cumulative production itself, rather than correlated time, R&D, scale or redesign, explains a specific technology’s cost decline.
 - Any claim that Moore’s Law was literally self-fulfilling or that one roadmap mechanism explains its persistence across decades.
+- Any exact constant in a training-compute approximation such as `C ≈ kND`; the constant depends on architecture, operation-count convention and what training costs are included.
+- Any fixed token-to-parameter ratio presented as universally compute-optimal.
+- Any numerical claim about how many repeated epochs remain equivalent to fresh data outside the specific experimental regime being cited.
 - Contemporary frontier-model training compute, energy use or dollar cost.
-- Claims about data exhaustion or synthetic-data contamination.
+- Claims about data exhaustion, synthetic-data contamination or the quantity of legally usable high-quality training data.
 - Claims about legal or regulatory thresholds triggered solely by user count or scale.
 
 ## Release rule
