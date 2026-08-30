@@ -8,6 +8,7 @@ repository. It does not require GitHub Actions, network access, or a build step.
 from __future__ import annotations
 
 import csv
+import json
 import re
 import sys
 from pathlib import Path
@@ -29,6 +30,7 @@ SOURCE_LEDGER_FIELDS = (
     "book_use",
     "url",
 )
+SOURCE_RECORD_FIELDS = SOURCE_LEDGER_FIELDS[1:]
 
 
 def fail(message: str) -> None:
@@ -66,7 +68,29 @@ def public_readme_slugs(text: str) -> set[str]:
     )
 
 
-def check_source_ledger(path: Path) -> int:
+def register_source(
+    source_id: str,
+    url: str,
+    location: str,
+    seen_ids: dict[str, str],
+    seen_urls: dict[str, str],
+) -> None:
+    if source_id in seen_ids:
+        fail(f"{location} duplicates source id {source_id!r} from {seen_ids[source_id]}")
+    else:
+        seen_ids[source_id] = location
+
+    if url in seen_urls:
+        fail(f"{location} duplicates source URL {url!r} from {seen_urls[url]}")
+    else:
+        seen_urls[url] = location
+
+
+def check_source_ledger(
+    path: Path,
+    seen_ids: dict[str, str],
+    seen_urls: dict[str, str],
+) -> int:
     relative = path.relative_to(ROOT)
     try:
         with path.open(encoding="utf-8", newline="") as handle:
@@ -78,43 +102,91 @@ def check_source_ledger(path: Path) -> int:
                 )
                 return 0
 
-            seen_ids: dict[str, int] = {}
-            seen_urls: dict[str, int] = {}
             row_count = 0
             for line_number, row in enumerate(reader, start=2):
                 row_count += 1
+                location = f"{relative}:{line_number}"
                 if None in row:
-                    fail(f"{relative}:{line_number} has too many CSV fields")
+                    fail(f"{location} has too many CSV fields")
                     continue
 
                 missing = [field for field in SOURCE_LEDGER_FIELDS if not (row[field] or "").strip()]
                 if missing:
-                    fail(f"{relative}:{line_number} has empty fields: {', '.join(missing)}")
+                    fail(f"{location} has empty fields: {', '.join(missing)}")
+                    continue
 
-                source_id = (row["id"] or "").strip()
-                if source_id:
-                    if source_id in seen_ids:
-                        fail(
-                            f"{relative}:{line_number} duplicates source id {source_id!r} "
-                            f"from line {seen_ids[source_id]}"
-                        )
-                    else:
-                        seen_ids[source_id] = line_number
-
-                url = (row["url"] or "").strip()
-                if url:
-                    if url in seen_urls:
-                        fail(
-                            f"{relative}:{line_number} duplicates source URL {url!r} "
-                            f"from line {seen_urls[url]}"
-                        )
-                    else:
-                        seen_urls[url] = line_number
+                register_source(
+                    (row["id"] or "").strip(),
+                    (row["url"] or "").strip(),
+                    location,
+                    seen_ids,
+                    seen_urls,
+                )
     except csv.Error as exc:
         fail(f"{relative} is not valid CSV: {exc}")
         return 0
 
     return row_count
+
+
+def check_source_fragment(
+    path: Path,
+    seen_ids: dict[str, str],
+    seen_urls: dict[str, str],
+) -> int:
+    relative = path.relative_to(ROOT)
+    try:
+        record = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as exc:
+        fail(f"{relative} is not valid JSON: {exc}")
+        return 0
+
+    if not isinstance(record, dict):
+        fail(f"{relative} must contain one JSON object")
+        return 0
+
+    expected = set(SOURCE_RECORD_FIELDS)
+    actual = set(record)
+    if actual != expected:
+        missing = sorted(expected - actual)
+        extra = sorted(actual - expected)
+        if missing:
+            fail(f"{relative} is missing fields: {', '.join(missing)}")
+        if extra:
+            fail(f"{relative} has unexpected fields: {', '.join(extra)}")
+        return 0
+
+    empty = [field for field in SOURCE_RECORD_FIELDS if not str(record[field]).strip()]
+    if empty:
+        fail(f"{relative} has empty fields: {', '.join(empty)}")
+        return 0
+
+    source_id = path.stem
+    if not re.fullmatch(r"[a-z0-9][a-z0-9._-]*", source_id):
+        fail(f"{relative} filename must be a lowercase stable source id")
+        return 0
+
+    register_source(source_id, str(record["url"]).strip(), str(relative), seen_ids, seen_urls)
+    return 1
+
+
+def check_book_sources(book_dir: Path) -> tuple[int, int]:
+    seen_ids: dict[str, str] = {}
+    seen_urls: dict[str, str] = {}
+    ledger_count = 0
+    source_count = 0
+
+    ledger = book_dir / "research" / "source-ledger.csv"
+    if ledger.is_file():
+        ledger_count = 1
+        source_count += check_source_ledger(ledger, seen_ids, seen_urls)
+
+    fragments = sorted((book_dir / "research" / "sources").glob("*.json"))
+    source_count += sum(
+        check_source_fragment(path, seen_ids, seen_urls)
+        for path in fragments
+    )
+    return ledger_count, source_count
 
 
 FAILED = False
@@ -190,8 +262,12 @@ for required in (
     if required not in loader_text:
         fail(f"Reader loader is missing compatibility guard {required!r}")
 
-source_ledgers = sorted(BOOKS.glob("*/research/source-ledger.csv"))
-source_count = sum(check_source_ledger(path) for path in source_ledgers)
+ledger_count = 0
+source_count = 0
+for slug in sorted(book_dirs):
+    book_ledger_count, book_source_count = check_book_sources(BOOKS / slug)
+    ledger_count += book_ledger_count
+    source_count += book_source_count
 
 if FAILED:
     print("\nDesk integrity check failed.")
@@ -199,5 +275,6 @@ if FAILED:
 
 print(
     f"Desk integrity check passed: {len(book_dirs)} books are cataloged consistently; "
-    f"{len(source_ledgers)} source ledgers contain {source_count} unique rows."
+    f"{ledger_count} legacy source ledgers plus source fragments contain "
+    f"{source_count} unique records."
 )
