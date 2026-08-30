@@ -60,3 +60,32 @@ The opening argument should be weakened if consequential deployment routinely le
 ## Chapter-level falsification note
 
 The chapter's argument should weaken if high-stakes metrics generally remain faithful to their underlying objectives even when actors can see the incentives, cheaply manipulate classifications, or substitute into unmeasured activity. Counterevidence matters in the other direction too: examples where targets cause genuine improvement without substantial proxy distortion support the narrower claim that the problem is not measurement itself but the relationship among proxy, objective, consequences, and room for adaptation.
+
+## Chapter 3 — The Economy Learns the Rule
+
+### Emmanuel Saez — bunching at tax kinks
+
+- **Source:** Emmanuel Saez, “Do Taxpayers Bunch at Kink Points?” *American Economic Journal: Economic Policy*, vol. 2, no. 3 (2010), pp. 180–212; earlier NBER Working Paper 7366 (1999).
+- **NBER record:** https://www.nber.org/papers/w7366
+- **DOI:** https://doi.org/10.1257/pol.2.3.180
+- **Supports:** the chapter's claim that U.S. tax-return data show clear bunching at some tax-schedule kinks and weak or null evidence at others, with stronger response on margins where taxpayers have greater control over reported income.
+- **Caution:** the chapter explicitly rejects the stronger claim that taxpayers frictionlessly optimize around every marginal-rate change.
+
+### Henrik Kleven and Mazhar Waseem — notches and optimization frictions
+
+- **Source:** Henrik J. Kleven and Mazhar Waseem, “Using Notches to Uncover Optimization Frictions and Structural Elasticities: Theory and Evidence from Pakistan,” *Quarterly Journal of Economics*, vol. 128, no. 2 (2013), pp. 669–723.
+- **Publisher record:** https://academic.oup.com/qje/article-abstract/128/2/669/1943151
+- **DOI:** https://doi.org/10.1093/qje/qjt004
+- **Supports:** the chapter's description of sharp bunching around Pakistani tax notches coexisting with substantial mass in ranges a frictionless model would predict taxpayers should avoid, demonstrating both behavioral response and large optimization frictions.
+- **Caution:** the empirical setting is Pakistan's tax system and should not be generalized mechanically to all taxes or countries.
+
+### Robert E. Lucas Jr. — policy-regime dependence
+
+- **Source:** Robert E. Lucas Jr., “Econometric Policy Evaluation: A Critique,” *Carnegie-Rochester Conference Series on Public Policy*, vol. 1 (1976), pp. 19–46.
+- **DOI:** https://doi.org/10.1016/S0167-2231(76)80003-6
+- **Supports:** the chapter's macroeconomic extension: behavioral relationships estimated under one policy regime cannot automatically be treated as invariant when rules change and people alter decision rules or expectations.
+- **Caution:** the chapter treats the Lucas critique as a design warning, not proof that historical econometric evidence is unusable or that every policy shift causes large parameter instability.
+
+## Chapter-level falsification note
+
+The chapter should be weakened if economic agents generally fail to adjust even when policy changes are salient, consequential, and cheap to respond to, or if historical relationships routinely remain invariant across major regime changes without conditioning on expectations and institutions. It should also be weakened by evidence that observed bunching is mostly mechanical reporting artifact rather than behavioral response. Conversely, the strong evidence of nonresponse and friction in both U.S. and Pakistani tax data is retained because the book's claim is adaptation under constraints, not perfect optimization.
