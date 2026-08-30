@@ -7,6 +7,7 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 | Biological allometry | Max Kleiber, “Body Size and Metabolism,” *Hilgardia* 6(11), 1932. https://pdodds.w3.uvm.edu/files/papers/others/1932/kleiber1932a.pdf | Historical anchor for metabolic scaling and the log-log formulation of metabolism versus body weight. | Do not present the 3/4 exponent as universally settled across organisms or conditions. |
 | Experience curves | Theodore P. Wright, “Factors Affecting the Cost of Airplanes,” *Journal of the Aeronautical Sciences* 3(4), 1936. https://doi.org/10.2514/8.155 | Primary historical anchor for cost decline with cumulative aircraft production and the experience/learning-curve tradition. | Wright studied a particular industrial setting; do not treat one progress ratio as universal or infer mechanism from the fitted curve alone. |
 | Technology forecasting | Béla Nagy, J. Doyne Farmer, Quan M. Bui and Jessika E. Trancik, “Statistical Basis for Predicting Technological Progress,” *PLOS ONE* 8(2), 2013. https://doi.org/10.1371/journal.pone.0052669 | Compares Wright-style cumulative-production laws, generalized Moore-style time trends and other forecasting hypotheses across 62 technologies; useful for the Wright-versus-Moore distinction. | Cumulative production and time are often strongly correlated; forecasting performance does not by itself establish causal learning-by-doing. |
+| Semiconductor scaling | Gordon E. Moore, “Cramming More Components onto Integrated Circuits,” *Electronics* 38(8), 1965. IEEE reprint: https://doi.org/10.1109/N-SSC.2006.4785860 | Primary historical anchor for Moore’s empirical component-count projection and its economic framing; supports the distinction between observation, extrapolation and later institutionalized roadmap. | Do not describe Moore’s Law as a physical law or attribute later industry-wide coordination solely to the 1965 article. Separate transistor-density trends from Dennard scaling, clock frequency, performance and cost-per-function. |
 | Neural scaling | Jared Kaplan et al., “Scaling Laws for Neural Language Models,” 2020. https://arxiv.org/abs/2001.08361 | Empirical power-law relationships among language-model loss, model size, dataset size and compute. | Record parameter-count convention and experimental range; later compute-optimal work revised the recommended allocation. |
 | Compute-optimal scaling | Jordan Hoffmann et al., “Training Compute-Optimal Large Language Models,” 2022. https://arxiv.org/abs/2203.15556 | Chinchilla result: under the paper’s regime, compute-optimal training scales model size and training tokens together. | Do not universalize the tokens-to-parameters prescription beyond its assumptions, architecture and cost model. |
 | Scaling-law sensitivity | Tim Pearce and Jinyeop Song, “Reconciling Kaplan and Chinchilla Scaling Laws,” 2024. https://arxiv.org/abs/2406.12907 | Useful for explaining why fitted scaling prescriptions can differ because of parameter definitions and experimental scale. | Secondary reconciliation paper; preserve remaining uncertainty and later evidence. |
@@ -31,9 +32,9 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 
 ### Semiconductors
 
-- Gordon E. Moore’s 1965 and 1975 papers/speeches on component density.
+- Gordon E. Moore’s 1975 update on integrated-electronics progress, with exact venue and pagination verified before publication.
 - Dennard et al. on MOSFET scaling, kept conceptually distinct from Moore’s Law.
-- Industry road-map histories showing coordination effects around expected scaling cadences.
+- Industry road-map histories showing coordination effects around expected scaling cadences; use these before making strong causal claims that the roadmap itself sustained the curve.
 
 ### Organizations
 
@@ -52,6 +53,7 @@ Working source ledger for *Scaling Laws*. This is a research map, not a finished
 - Any claim that a specific network’s value scales as `n²`.
 - Any numerical cost decline per cumulative production doubling.
 - Any causal claim that cumulative production itself, rather than correlated time, R&D, scale or redesign, explains a specific technology’s cost decline.
+- Any claim that Moore’s Law was literally self-fulfilling or that one roadmap mechanism explains its persistence across decades.
 - Contemporary frontier-model training compute, energy use or dollar cost.
 - Claims about data exhaustion or synthetic-data contamination.
 - Claims about legal or regulatory thresholds triggered solely by user count or scale.
