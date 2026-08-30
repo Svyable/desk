@@ -81,6 +81,7 @@ When adding or renaming a book:
 | [Source Code](books/source-code/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/source-code/) |
 | [Synthetic Intelligence](books/synthetic-intelligence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) |
 | [The Abstraction Trap](books/the-abstraction-trap/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
+| [The Bureaucracy of Heaven](books/the-bureaucracy-of-heaven/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-bureaucracy-of-heaven/) |
 | [The Compatibility Dividend](books/the-compatibility-dividend/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
 | [The Convergence](books/the-convergence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [The Delegation Machine](books/the-delegation-machine/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
