@@ -7,6 +7,7 @@ repository. It does not require GitHub Actions, network access, or a build step.
 
 from __future__ import annotations
 
+import csv
 import re
 import sys
 from pathlib import Path
@@ -19,6 +20,15 @@ INDEX = ROOT / "index.html"
 LLMS = ROOT / "llms.txt"
 SITEMAP = ROOT / "sitemap.xml"
 LOADER = ROOT / "reader" / "js" / "app-loader.js"
+SOURCE_LEDGER_FIELDS = (
+    "id",
+    "year",
+    "author_or_institution",
+    "title",
+    "source_type",
+    "book_use",
+    "url",
+)
 
 
 def fail(message: str) -> None:
@@ -54,6 +64,57 @@ def public_readme_slugs(text: str) -> set[str]:
             text,
         )
     )
+
+
+def check_source_ledger(path: Path) -> int:
+    relative = path.relative_to(ROOT)
+    try:
+        with path.open(encoding="utf-8", newline="") as handle:
+            reader = csv.DictReader(handle)
+            if tuple(reader.fieldnames or ()) != SOURCE_LEDGER_FIELDS:
+                fail(
+                    f"{relative} has unexpected columns; expected "
+                    f"{', '.join(SOURCE_LEDGER_FIELDS)}"
+                )
+                return 0
+
+            seen_ids: dict[str, int] = {}
+            seen_urls: dict[str, int] = {}
+            row_count = 0
+            for line_number, row in enumerate(reader, start=2):
+                row_count += 1
+                if None in row:
+                    fail(f"{relative}:{line_number} has too many CSV fields")
+                    continue
+
+                missing = [field for field in SOURCE_LEDGER_FIELDS if not (row[field] or "").strip()]
+                if missing:
+                    fail(f"{relative}:{line_number} has empty fields: {', '.join(missing)}")
+
+                source_id = (row["id"] or "").strip()
+                if source_id:
+                    if source_id in seen_ids:
+                        fail(
+                            f"{relative}:{line_number} duplicates source id {source_id!r} "
+                            f"from line {seen_ids[source_id]}"
+                        )
+                    else:
+                        seen_ids[source_id] = line_number
+
+                url = (row["url"] or "").strip()
+                if url:
+                    if url in seen_urls:
+                        fail(
+                            f"{relative}:{line_number} duplicates source URL {url!r} "
+                            f"from line {seen_urls[url]}"
+                        )
+                    else:
+                        seen_urls[url] = line_number
+    except csv.Error as exc:
+        fail(f"{relative} is not valid CSV: {exc}")
+        return 0
+
+    return row_count
 
 
 FAILED = False
@@ -129,8 +190,14 @@ for required in (
     if required not in loader_text:
         fail(f"Reader loader is missing compatibility guard {required!r}")
 
+source_ledgers = sorted(BOOKS.glob("*/research/source-ledger.csv"))
+source_count = sum(check_source_ledger(path) for path in source_ledgers)
+
 if FAILED:
     print("\nDesk integrity check failed.")
     sys.exit(1)
 
-print(f"Desk integrity check passed: {len(book_dirs)} books are cataloged consistently.")
+print(
+    f"Desk integrity check passed: {len(book_dirs)} books are cataloged consistently; "
+    f"{len(source_ledgers)} source ledgers contain {source_count} unique rows."
+)
