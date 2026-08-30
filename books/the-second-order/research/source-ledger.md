@@ -123,3 +123,42 @@ The chapter should be weakened if economic agents generally fail to adjust even 
 ## Chapter-level falsification note
 
 The chapter should weaken if market-sensitive balance sheets, collateral terms, and risk constraints generally have negligible effects on position size and market demand, or if forced-sale episodes do not measurably amplify price moves beyond initial information shocks. It should also weaken if evidence shows heterogeneous constraints reliably offset one another at system scale. Counterevidence that market valuation improves loss recognition and that margins reduce counterparty risk is preserved because the design problem is amplification, not the existence of market-sensitive controls.
+
+## Chapter 5 — Rankings Build the Thing They Rank
+
+### Wendy Nelson Espeland and Michael Sauder — rankings and reactivity
+
+- **Source:** Wendy Nelson Espeland and Michael Sauder, “Rankings and Reactivity: How Public Measures Recreate Social Worlds,” *American Journal of Sociology*, vol. 113, no. 1 (2007), pp. 1–40.
+- **DOI:** https://doi.org/10.1086/517897
+- **Publisher record:** https://www.journals.uchicago.edu/doi/10.1086/517897
+- **Author manuscript:** https://sociology.northwestern.edu/documents/faculty-docs/faculty-research-article/rankings-and-reactivity-2007.pdf
+- **Supports:** the chapter's core mechanism that public rankings can change the organizations they measure; the authors use law-school rankings to identify self-fulfilling prophecy and commensuration as mechanisms through which public measures become reactive.
+- **Caution:** the chapter does not treat all ranking effects as distortion. Rankings can lower search costs, expose weak performance, and reward genuine improvement.
+
+### Michael Sauder and Wendy Nelson Espeland — organizational discipline
+
+- **Source:** Michael Sauder and Wendy Nelson Espeland, “The Discipline of Rankings: Tight Coupling and Organizational Change,” *American Sociological Review*, vol. 74, no. 1 (2009), pp. 63–82.
+- **DOI:** https://doi.org/10.1177/000312240907400104
+- **Publisher record:** https://journals.sagepub.com/doi/10.1177/000312240907400104
+- **Supports:** the chapter's account of rankings permeating law-school management through surveillance, normalization, anxiety, and internalization rather than through direct legal authority.
+- **Caution:** the evidence is a case study of legal education; the chapter generalizes the mechanism cautiously rather than assuming identical effects in every ranked field.
+
+### James Monks and Ronald G. Ehrenberg — admissions and pricing response
+
+- **Source:** James Monks and Ronald G. Ehrenberg, “The Impact of U.S. News and World Report College Rankings on Admission Outcomes and Pricing Decisions at Selective Private Institutions,” NBER Working Paper No. 7227, July 1999; published as “U.S. News and World Report's College Rankings: Why Do They Matter?” in *Change* 31(6), 1999.
+- **NBER record:** https://www.nber.org/papers/w7227
+- **DOI:** https://doi.org/10.3386/w7227
+- **Supports:** the chapter's empirical claim that less favorable rankings were associated with higher admit rates, lower matriculation yields, lower entering-class SAT averages, and more generous grant aid at selective private institutions.
+- **Caution:** the study covers a particular set of selective private colleges and a particular ranking era; it is evidence of behavioral response, not a timeless estimate of ranking effects.
+
+### Nicholas A. Bowman and Michael N. Bastedo — front-page ranking effects
+
+- **Source:** Nicholas A. Bowman and Michael N. Bastedo, “Getting on the Front Page: Organizational Reputation, Status Signals, and the Impact of U.S. News and World Report on Student Decisions,” *Research in Higher Education*, vol. 50, no. 5 (2009), pp. 415–436.
+- **DOI:** https://doi.org/10.1007/s11162-009-9129-8
+- **ERIC record:** https://eric.ed.gov/?id=EJ843570
+- **Supports:** the chapter's claim that moving onto the front page of the rankings was followed by substantially stronger admissions indicators, and that movement within the top tier mattered particularly for highly ranked national universities.
+- **Caution:** admissions response varies across institutional type and price; the chapter preserves that heterogeneity rather than implying every school responds equally.
+
+## Chapter-level falsification note
+
+The chapter should weaken if widely used rankings have little measurable effect on applicant behavior, organizational priorities, resource allocation, or peer reputation after controlling for underlying institutional change. It should also weaken if ranking-induced competition reliably improves the underlying mission without substantial positional waste, proxy optimization, or status reinforcement. Counterevidence matters in both directions: rankings can improve transparency, lower search costs, expose complacency, and direct attention toward real outcomes. The durable claim is narrower—that once consequential audiences act on a ranking, the ranking becomes part of the causal process producing later observations.
