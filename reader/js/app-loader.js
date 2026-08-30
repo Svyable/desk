@@ -1,5 +1,5 @@
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js`;
+const appUrl = `${upstream}app.js?v=desk-20260829-1`;
 
 function showFatal(error) {
   console.error('Desk Reader bootstrap failed', error);
@@ -21,7 +21,7 @@ function showFatal(error) {
   help.append(
     'The manuscript files are still available. ',
     Object.assign(document.createElement('a'), {
-      href: '../README.md#the-books',
+      href: 'https://github.com/Svyable/desk#the-books',
       textContent: 'Open the Desk catalog',
     }),
     ' or try the ',
@@ -35,31 +35,37 @@ function showFatal(error) {
   const diagnostic = document.createElement('p');
   diagnostic.style.opacity = '.72';
   diagnostic.textContent =
-    'If the shared Shelf Reader changed recently, the Desk compatibility shim may need to be updated.';
+    'The Desk stopped rather than showing a blank book because the shared Reader contract changed. The error above identifies the failing bootstrap step.';
 
   main.append(title, detail, help, diagnostic);
   document.body.replaceChildren(main);
 }
 
 try {
-  const response = await fetch(appUrl, { cache: 'no-cache' });
+  const response = await fetch(appUrl, { cache: 'reload' });
   if (!response.ok) {
     throw new Error(`Could not load shared Reader (${response.status})`);
   }
 
   let source = await response.text();
 
+  const importPattern = /from\s+(['"])\.\/([^'"]+)\1/g;
+  const importMatches = [...source.matchAll(importPattern)].length;
+  if (!importMatches) {
+    throw new Error('Shared Reader imports were not recognized; update Desk loader.');
+  }
   source = source.replace(
-    /from\s+(['"])\.\/([^'"]+)\1/g,
+    importPattern,
     (_match, quote, path) => `from ${quote}${upstream}${path}${quote}`
   );
 
   // Shelf intentionally shows only published books. Desk uses the same Reader UI
   // but must include drafts. Match semantically rather than depending on exact
   // whitespace so harmless upstream formatting changes do not break Desk.
-  const catalogGate = /if\s*\(\s*meta\.published\s*\)\s*entries\.push\(\s*meta\s*\)\s*;/;
-  if (!catalogGate.test(source)) {
-    throw new Error('Shared Reader catalog hook changed; update Desk loader.');
+  const catalogGate = /if\s*\(\s*meta\.published\s*\)\s*entries\.push\(\s*meta\s*\)\s*;/g;
+  const gateMatches = [...source.matchAll(catalogGate)].length;
+  if (gateMatches !== 1) {
+    throw new Error(`Expected one shared Reader catalog gate; found ${gateMatches}.`);
   }
   source = source.replace(
     catalogGate,
@@ -67,11 +73,13 @@ try {
   );
 
   // A blob-imported module cannot resolve the Shelf service worker relatively.
-  // Keep this rewrite tolerant of quote and whitespace changes as well.
-  source = source.replace(
-    /new\s+URL\(\s*(['"])\.\.\/sw\.js\1\s*,\s*import\.meta\.url\s*\)/,
-    "new URL('https://svyable.github.io/shelf/reader/sw.js')"
-  );
+  const serviceWorkerPattern = /new\s+URL\(\s*(['"])\.\.\/sw\.js\1\s*,\s*import\.meta\.url\s*\)/;
+  if (serviceWorkerPattern.test(source)) {
+    source = source.replace(
+      serviceWorkerPattern,
+      "new URL('https://svyable.github.io/shelf/reader/sw.js')"
+    );
+  }
 
   const moduleUrl = URL.createObjectURL(new Blob([source], { type: 'text/javascript' }));
   try {
