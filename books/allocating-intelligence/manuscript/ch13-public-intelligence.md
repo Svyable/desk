@@ -125,3 +125,67 @@ If they choose nothing, the default allocation will follow capital, infrastructu
 The weather map reminds us that another arrangement is possible. A farmer can look at the same storm system as an airline, a school, and a billionaire. They may have different specialized forecasts and different capacity to act, but the foundational intelligence is treated as shared.
 
 In an age of manufactured minds, deciding what everyone should be able to know may become as important as deciding what everyone should be able to own.
+
+The GPS example adds a second lesson: public intelligence can be most powerful when the public institution does not try to own every downstream application.
+
+The government operates the underlying positioning, navigation, and timing system and publishes civilian interface information. A farmer can build precision agriculture on top. A phone maker can build navigation. A bank can use timing. A surveying firm can buy specialized receivers. The common layer is stable enough to support private variety.
+
+Public AI could follow the same pattern. Instead of one giant government chatbot, the public layer might consist of authenticated source repositories, machine-readable regulations, multilingual terminology services, public evaluation suites, identity and consent standards, provenance infrastructure, and baseline models that can be composed into many services.
+
+This architecture is less visible than a flagship assistant and more durable.
+
+It also reduces one of the central risks of public AI: interface capture. If the state provides only one conversational front door, then whoever controls that interface controls which questions are easy to ask, which sources appear first, how uncertainty is phrased, and which alternatives are visible. A shared infrastructure layer allows schools, libraries, legal-aid groups, local governments, journalists, unions, companies, and communities to build different interfaces on top of common verified material.
+
+Common infrastructure can support plural institutions.
+
+The same approach can improve procurement. Governments routinely buy technology through contracts that age more slowly than software. A monolithic AI procurement can lock an agency into one vendor’s model behavior, pricing, hosting, and update schedule. A modular public layer can separate components: identity from inference, retrieval from interface, evaluation from hosting, authoritative data from generated explanation.
+
+Modularity creates exit options.
+
+Exit options matter because public systems have continuity obligations. A commercial provider can discontinue a product. A government cannot casually discontinue tax administration, emergency alerts, disability benefits, or court access. The architecture should assume that vendors change, models fail, prices move, and political administrations turn over.
+
+Public intelligence therefore needs boring assets: open formats, exportable logs, durable identifiers, documented interfaces, local fallback, procurement diversity, and the ability to replace one model without rebuilding the service from scratch.
+
+Boring assets are how public capacity survives fashion.
+
+There is also a question of evidence ownership. Public agencies possess datasets collected through taxation, regulation, public service, scientific research, and administrative process. Some should be open. Some are sensitive. Some contain the traces of inequality or enforcement patterns that make naive training dangerous. Treating “government data” as one undifferentiated training resource would confuse availability with legitimacy.
+
+A public data regime for AI should preserve purpose.
+
+Data collected to deliver a benefit should not automatically become a general surveillance asset. Records gathered for health should not quietly migrate into unrelated enforcement. Children’s educational interactions should not become permanent behavioral dossiers. Where reuse is justified, the institution should be able to explain the public purpose, the safeguards, and the route for contesting error.
+
+This is not an argument for data paralysis. Public intelligence can improve precisely because agencies share information that citizens currently have to re-enter repeatedly. A person should not have to prove the same fact to five offices if law and consent permit secure reuse. The challenge is to design reuse without creating an all-seeing administrative memory.
+
+The distinction is between service integration and person integration.
+
+A system can make services interoperable while limiting how much any one actor can see about the whole person. Technical architecture can help: scoped credentials, attribute verification, purpose-limited access, audit trails, and separation between identifiers and service records. Governance has to supply the rules those mechanisms enforce.
+
+The payoff is not merely privacy. It is trust.
+
+Public AI will fail if people believe every question becomes evidence against them. A benefits assistant cannot be useful if asking for clarification creates fear of enforcement. A public-health tool cannot gather honest information if users think unrelated agencies will receive it. Intelligence depends on truthful input, and truthful input depends on institutional boundaries.
+
+The public sector therefore faces the same paradox as organizational memory: surveillance can produce more records and less truth.
+
+There is a distributional problem even after access is free. People differ in their ability to formulate questions, challenge answers, recognize uncertainty, and convert advice into action. A public AI service can widen gaps if sophisticated users learn to extract more value while others accept the first fluent answer.
+
+Public intelligence needs human intermediaries as well as models.
+
+Libraries are an instructive institution. Their value was never only free books. Librarians helped people navigate collections, evaluate sources, use unfamiliar tools, and enter systems they did not understand. In an AI-rich society, libraries, schools, clinics, courts, workforce centers, and community organizations may become cognitive access points where people receive both machine assistance and human help using it.
+
+The future public tutor may sometimes be a model and sometimes be a person teaching someone how to interrogate the model.
+
+That distinction matters because civic competence includes the ability to disagree with the system.
+
+A public service should teach users where its authority ends, how to see sources, how to correct records, how to appeal decisions, and how to reach a human. These are not failure modes to hide. They are part of the service.
+
+The quality of public intelligence should therefore be measured by more than answer accuracy. Did people complete the process? Were errors corrected? Did appeals become easier? Did language gaps shrink? Did staff workload move toward harder cases or merely rise? Did users understand when advice was provisional? Did the system remain available during emergencies? Did underserved groups receive comparable outcomes?
+
+Public institutions have to measure the consequence chain.
+
+Once they do, the phrase “AI access” becomes less useful. The meaningful unit is effective access to a capability: the ability to understand, decide, act, and obtain remedy.
+
+That is a much higher standard than putting a chatbot on a website.
+
+It is also a more interesting civic project.
+
+A society can build public intelligence the way it built other shared systems: not as one machine everyone must obey, but as a layer of dependable cognitive infrastructure that lowers the cost of knowing, preserves routes to human authority, and leaves room for many institutions to think differently on top of common facts.
