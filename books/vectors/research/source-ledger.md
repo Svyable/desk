@@ -4,6 +4,7 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 
 | Area | Source | Use | Cautions |
 |---|---|---|---|
+| Early neural language representations | Yoshua Bengio, Réjean Ducharme, Pascal Vincent and Christian Jauvin, “A Neural Probabilistic Language Model,” *Journal of Machine Learning Research* 3, 2003. https://jmlr.csail.mit.edu/papers/v3/bengio03a | Primary anchor for learning distributed word representations jointly with a language model so nearby representations support generalization to unseen sequences. | This is an early feed-forward neural language model, not a modern contextual embedding model; do not collapse its representation scheme into later word2vec, transformer or sentence-embedding systems. |
 | Word vectors | Tomas Mikolov, Kai Chen, Greg Corrado and Jeffrey Dean, “Efficient Estimation of Word Representations in Vector Space,” 2013. https://arxiv.org/abs/1301.3781 | Historical anchor for efficient dense word representations learned from large corpora. | Do not overstate the robustness or universality of analogy arithmetic. |
 | Global word vectors | Jeffrey Pennington, Richard Socher and Christopher D. Manning, “GloVe: Global Vectors for Word Representation,” 2014. https://nlp.stanford.edu/pubs/glove.pdf | Connects vector geometry to global co-occurrence statistics and documents useful similarity structure. | Results depend on corpus, preprocessing, dimensionality and evaluation. |
 | Multimodal representation | Alec Radford et al., “Learning Transferable Visual Models From Natural Language Supervision,” 2021. https://arxiv.org/abs/2103.00020 | Primary source for CLIP-style contrastive alignment of image and text representations at scale. | A shared training objective does not imply a perfectly unified or bias-free semantic space. |
@@ -17,11 +18,6 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 
 - A standard linear algebra text covering vector spaces, bases, linear transformations, inner products, norms, orthogonality and projection.
 - A numerical linear algebra source for conditioning, floating-point effects and high-dimensional computation.
-
-### Early neural language models
-
-- Yoshua Bengio et al., “A Neural Probabilistic Language Model,” 2003.
-- Follow-on work clarifying distributed representations and language-model training objectives.
 
 ### Contextual representations
 
@@ -65,6 +61,7 @@ Working source ledger for *Vectors*. This is a research map, not a finished bibl
 
 - Any claim that two concepts occupy a single stable direction across different models.
 - Any claim that cosine similarity directly measures human semantic similarity.
+- Any claim that analogy arithmetic is a universal or stable property of word embeddings rather than a model-, corpus- and evaluation-dependent phenomenon.
 - Any claim that hubness or anisotropy is the dominant explanation for retrieval failures across embedding families without model-specific evidence.
 - Any vector-database performance comparison that does not control for recall, hardware, dimensionality and index parameters.
 - Any claim that a two-dimensional visualization reveals the true structure of a high-dimensional representation.
