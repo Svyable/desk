@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 of 20 drafted |
+| **Chapters** | 5 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -21,7 +21,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 2 — The Price of Looking](manuscript/ch02-the-price-of-looking.md)
 - [x] [Ch 3 — Explore, Exploit](manuscript/ch03-explore-exploit.md)
 - [x] [Ch 4 — The Local Maximum](manuscript/ch04-the-local-maximum.md)
-- [ ] Ch 5 — The Consumer in the Aisle
+- [x] [Ch 5 — The Consumer in the Aisle](manuscript/ch05-the-consumer-in-the-aisle.md)
 - [ ] Ch 6 — The Firm as Search Engine
 - [ ] Ch 7 — Bell Labs and the Architecture of Wandering
 - [ ] Ch 8 — The Venture Portfolio
