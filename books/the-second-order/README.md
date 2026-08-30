@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 10 of 20 drafted |
+| **Chapters** | 11 of 20 drafted |
 
 *What Happens When the World Reacts to the Model*
 
@@ -27,7 +27,7 @@ The central argument is that prediction and measurement become governance when d
 - [x] [Ch 8 — Predictive Policing and the Data It Creates](manuscript/ch08-predictive-policing-and-the-data-it-creates.md)
 - [x] [Ch 9 — Recommendation as Environment](manuscript/ch09-recommendation-as-environment.md)
 - [x] [Ch 10 — A/B Testing a Moving Population](manuscript/ch10-a-b-testing-a-moving-population.md)
-- [ ] Ch 11 — The Benchmark Becomes the Product
+- [x] [Ch 11 — The Benchmark Becomes the Product](manuscript/ch11-the-benchmark-becomes-the-product.md)
 - [ ] Ch 12 — The Agent Changes Its Teacher
 - [ ] Ch 13 — Adversaries Read the Model
 - [ ] Ch 14 — Reflexive Markets
