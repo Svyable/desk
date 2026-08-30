@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 5 of 25 drafted |
+| **Chapters** | 6 of 25 drafted |
 
 How Size Changes the Rules.
 
@@ -22,7 +22,7 @@ The argument is also a warning. Scaling laws describe regularities; they do not 
 - [x] [Ch 3 — The Logarithmic Eye](manuscript/ch03-the-logarithmic-eye.md)
 - [x] [Ch 4 — The Mouse, the Elephant, and the Quarter Power](manuscript/ch04-the-mouse-the-elephant-and-the-quarter-power.md)
 - [x] [Ch 5 — Cities That Accelerate](manuscript/ch05-cities-that-accelerate.md)
-- [ ] Ch 6 — Networks and Metcalfe's Mirage
+- [x] [Ch 6 — Networks and Metcalfe's Mirage](manuscript/ch06-networks-and-metcalfes-mirage.md)
 - [ ] Ch 7 — The Experience Curve
 - [ ] Ch 8 — Moore's Law Was a Coordination Device
 - [ ] Ch 9 — Data, Compute, Parameters
