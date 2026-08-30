@@ -4,15 +4,15 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | Front matter drafted; 20 chapters planned |
+| **Chapters**  | 1 of 20 drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
+- [x] [Ch 1 — The Twenty-Dollar Window](manuscript/ch01-the-twenty-dollar-window.md)
 
 ## Planned chapters
 
-1. The Twenty-Dollar Window
 2. The Product That Ate the Demo
 3. What the Subscription Buys
 4. The Hidden Invoice
