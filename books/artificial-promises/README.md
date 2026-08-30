@@ -14,3 +14,4 @@
 
 - [Book brief](research/book-brief.md)
 - [Source notes](research/source-notes.md)
+- [Source ledger](research/source-ledger.csv)
