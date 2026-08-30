@@ -6,9 +6,9 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Complete draft |
-| **Chapters** | 20 of 20 drafted |
+| **Chapters** | 25 of 25 drafted |
 
-*Face The Strange* is about the human moment of meeting advanced intelligence. Its argument is that this moment will not wait for a universal definition of AGI, a laboratory announcement, or a machine that resembles a person in every respect. It will arrive locally and unevenly: the first time a system can hold enough context, pursue enough of a goal, use enough tools, remember enough history, and surprise us often enough that the old category of “software” stops explaining the relationship. The book follows that transition through work, education, companionship, government, embodiment, markets, childhood, and the ordinary psychology of trust. It argues for neither worship nor denial, but for practiced attention: curiosity without surrender, boundaries without pretending nothing has changed, and institutions capable of dealing with intelligences that may be useful, alien, persuasive, fallible, and increasingly present.
+*Face The Strange* is about the human moment of meeting advanced intelligence. Its argument is that this moment will not wait for a universal definition of AGI, a laboratory announcement, or a machine that resembles a person in every respect. It will arrive locally and unevenly: the first time a system can hold enough context, pursue enough of a goal, use enough tools, remember enough history, and surprise us often enough that the old category of “software” stops explaining the relationship. The book follows that transition through work, education, companionship, government, embodiment, markets, childhood, plural machine minds, and the ordinary psychology of trust. It argues for neither worship nor denial, but for practiced attention: curiosity without surrender, boundaries without pretending nothing has changed, and institutions capable of dealing with intelligences that may be useful, alien, persuasive, fallible, and increasingly present.
 
 ## Contents
 
@@ -33,6 +33,11 @@
 - [x] [Ch 18 — There Will Be No AGI Day](manuscript/ch18-there-will-be-no-agi-day.md)
 - [x] [Ch 19 — The Week Before Everyone Knew](manuscript/ch19-the-week-before-everyone-knew.md)
 - [x] [Ch 20 — Face The Strange](manuscript/ch20-face-the-strange.md)
+- [x] [Ch 21 — The Right to Be Unimpressed](manuscript/ch21-the-right-to-be-unimpressed.md)
+- [x] [Ch 22 — Plural Minds](manuscript/ch22-plural-minds.md)
+- [x] [Ch 23 — The Human Advantage Is Not a Trait](manuscript/ch23-the-human-advantage-is-not-a-trait.md)
+- [x] [Ch 24 — After First Contact](manuscript/ch24-after-first-contact.md)
+- [x] [Ch 25 — Keep It Strange](manuscript/ch25-keep-it-strange.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
