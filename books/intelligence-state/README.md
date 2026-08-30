@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | Prologue + 6 of 17 chapters drafted |
+| **Chapters**  | Prologue + 8 of 17 chapters drafted |
 
 ## Contents
 
@@ -18,13 +18,13 @@
 - [x] [Ch 4 — Canada and the Sovereignty Premium](manuscript/ch04-canada-and-the-sovereignty-premium.md)
 - [x] [Ch 5 — Mexico: The Factory Learns to Think](manuscript/ch05-mexico-the-factory-learns-to-think.md)
 - [x] [Ch 6 — The Caribbean: Small States, Big Intelligence](manuscript/ch06-the-caribbean-small-states-big-intelligence.md)
+- [x] [Ch 7 — Chile, Uruguay, and the Competent State](manuscript/ch07-chile-uruguay-and-the-competent-state.md)
+- [x] [Ch 8 — Brazil: The Green Compute Republic](manuscript/ch08-brazil-the-green-compute-republic.md)
 
 ## Planned chapters
 
 ### Part II — The Hemisphere Becomes a Machine
 
-7. Chile, Uruguay, and the Competent State
-8. Brazil: The Green Compute Republic
 9. The Amazon Has a Data Policy
 10. Andes: The Mineral Inside the Machine
 
