@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 of 20 drafted |
+| **Chapters** | 17 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -21,19 +21,19 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 2 — The Price of Looking](manuscript/ch02-the-price-of-looking.md)
 - [x] [Ch 3 — Explore, Exploit](manuscript/ch03-explore-exploit.md)
 - [x] [Ch 4 — The Local Maximum](manuscript/ch04-the-local-maximum.md)
-- [ ] Ch 5 — The Consumer in the Aisle
-- [ ] Ch 6 — The Firm as Search Engine
-- [ ] Ch 7 — Bell Labs and the Architecture of Wandering
-- [ ] Ch 8 — The Venture Portfolio
-- [ ] Ch 9 — Markets as Distributed Search
-- [ ] Ch 10 — Science and the Cost of a Negative Result
-- [ ] Ch 11 — Culture Sets the Search Radius
-- [ ] Ch 12 — Careers in a Fog
-- [ ] Ch 13 — The General and the Map of Possible Wars
-- [ ] Ch 14 — Standards Shrink the Search Space
-- [ ] Ch 15 — Search Under Constraint
-- [ ] Ch 16 — The Machine That Generates Possibilities
-- [ ] Ch 17 — Verification Becomes the Bottleneck
+- [x] [Ch 5 — The Consumer in the Aisle](manuscript/ch05-the-consumer-in-the-aisle.md)
+- [x] [Ch 6 — The Firm as Search Engine](manuscript/ch06-the-firm-as-search-engine.md)
+- [x] [Ch 7 — Bell Labs and the Architecture of Wandering](manuscript/ch07-bell-labs-and-the-architecture-of-wandering.md)
+- [x] [Ch 8 — The Venture Portfolio](manuscript/ch08-the-venture-portfolio.md)
+- [x] [Ch 9 — Markets as Distributed Search](manuscript/ch09-markets-as-distributed-search.md)
+- [x] [Ch 10 — Science and the Cost of a Negative Result](manuscript/ch10-science-and-the-cost-of-a-negative-result.md)
+- [x] [Ch 11 — Culture Sets the Search Radius](manuscript/ch11-culture-sets-the-search-radius.md)
+- [x] [Ch 12 — Careers in a Fog](manuscript/ch12-careers-in-a-fog.md)
+- [x] [Ch 13 — The General and the Map of Possible Wars](manuscript/ch13-the-general-and-the-map-of-possible-wars.md)
+- [x] [Ch 14 — Standards Shrink the Search Space](manuscript/ch14-standards-shrink-the-search-space.md)
+- [x] [Ch 15 — Search Under Constraint](manuscript/ch15-search-under-constraint.md)
+- [x] [Ch 16 — The Machine That Generates Possibilities](manuscript/ch16-the-machine-that-generates-possibilities.md)
+- [x] [Ch 17 — Verification Becomes the Bottleneck](manuscript/ch17-verification-becomes-the-bottleneck.md)
 - [ ] Ch 18 — The Politics of What Gets Tried
 - [ ] Ch 19 — When to Stop Searching
 - [ ] Ch 20 — A Civilization That Can Change Its Mind

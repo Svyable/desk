@@ -20,5 +20,6 @@
   "forkHref": "https://svyable.github.io/shelf/reader/",
   "forkLabel": "Read released editions",
   "parentProject": "https://github.com/Svyable/bookself",
+  "readerStyles": ["reader/css/interface-v2.css"],
   "steps": []
 }
