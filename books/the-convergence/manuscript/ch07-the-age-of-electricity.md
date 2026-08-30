@@ -26,7 +26,11 @@ The grid becomes an interface between a changing collection of sources and a cha
 
 The data now show how broad that convergence is becoming. The International Energy Agency estimates that global electricity demand grew about 3 percent in 2025 while total global energy demand grew 1.3 percent. Electricity demand was expanding more than twice as fast as energy demand overall.
 
-One year does not establish an age. The more interesting fact is what produced the growth.
+One year does not establish an age.
+
+Seen over half a century, the shift is both larger and slower. IEA statistics put electricity at 9.5 percent of world final energy consumption in 1973 and about 21 percent in 2025. More than doubling its share matters. Taking fifty-two years to do it is a useful antidote to any story in which the world simply wakes up electric.
+
+The more interesting recent fact is what produced the growth.
 
 Buildings accounted for nearly 45 percent of the increase in global electricity demand in 2025. Transport contributed more than 10 percent, more than double its average share over the previous decade. Data-center electricity use rose about 17 percent, a spectacular growth rate, but its roughly 70 terawatt-hours of additional consumption were still small beside the roughly 800 terawatt-hours of total global electricity-demand growth.
 
