@@ -6,19 +6,19 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | Prologue drafted; 17 chapters planned |
+| **Chapters**  | Prologue + 2 of 17 chapters drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Prologue — The Border Crossing](manuscript/prologue-the-border-crossing.md)
+- [x] [Ch 1 — The Country That Thinks](manuscript/ch01-the-country-that-thinks.md)
+- [x] [Ch 2 — The Five Currencies of Sovereignty](manuscript/ch02-the-five-currencies-of-sovereignty.md)
 
 ## Planned chapters
 
 ### Part I — The New Map of Power
 
-1. The Country That Thinks
-2. The Five Currencies of Sovereignty
 3. The American Engine
 4. Canada and the Sovereignty Premium
 
@@ -47,3 +47,4 @@
 ## Research
 
 - [Book brief and reporting architecture](research/book-brief.md)
+- [Source notes](research/source-notes.md)
