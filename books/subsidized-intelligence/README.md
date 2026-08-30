@@ -4,16 +4,16 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 1 of 20 drafted |
+| **Chapters**  | 2 of 20 drafted |
 
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Twenty-Dollar Window](manuscript/ch01-the-twenty-dollar-window.md)
+- [x] [Ch 2 — The Product That Ate the Demo](manuscript/ch02-the-product-that-ate-the-demo.md)
 
 ## Planned chapters
 
-2. The Product That Ate the Demo
 3. What the Subscription Buys
 4. The Hidden Invoice
 5. The Hyperscaler Arms Race
