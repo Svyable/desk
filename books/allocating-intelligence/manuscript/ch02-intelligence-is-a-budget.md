@@ -90,6 +90,32 @@ This is the governance version of oversubscription.
 
 Real responsibility requires a span of control compatible with intervention. That may mean narrowing what an agent can do, grouping actions into reviewable classes, creating thresholds for escalation, preserving logs, designing reversible states, or assigning ownership to teams rather than ceremonial individuals. It may mean accepting that some forms of autonomy are incompatible with meaningful human accountability at their scale.
 
+The budget metaphor becomes clearer when a new tool makes one cognitive activity suddenly cheaper. In a large field study of customer-support agents, researchers found that access to a generative-AI assistant increased issues resolved per hour on average, with much larger gains among less experienced and lower-skilled workers than among the most experienced agents. The interesting fact for this book is not the exact percentage. It is the unevenness. The same tool changed the marginal value of different people's time by different amounts.
+
+A manager responding intelligently to that result would not merely multiply every headcount forecast by one productivity factor. The organization would ask what changed downstream. If novice agents resolve more cases, do senior agents receive fewer routine escalations and more difficult ones? Does quality review need to sample differently? Do experienced workers spend more time maintaining the knowledge base that the assistant draws from? Do training curves shorten, or do new employees become dependent on a system whose advice they cannot independently assess?
+
+The answer determines whether a productivity gain becomes surplus or simply a new shape of demand.
+
+This is the ordinary behavior of budgets. Make storage cheaper and people store more. Make communication cheaper and people communicate more. Make software deployment cheaper and teams deploy more frequently, which can increase the value of observability and rollback. Make analysis cheaper and people ask for analyses that previously would not have justified an analyst's afternoon. The saved resource does not sit politely in a vault. Other claims form around it.
+
+That rebound is not a reason to reject efficiency. It is a reason to decide what the efficiency is for.
+
+Suppose an internal AI system saves a legal department ten thousand hours of first-pass contract review. There are several possible futures. The company can reduce legal cost. It can review contracts that were previously accepted without scrutiny. It can move lawyers toward negotiation and novel risk. It can shorten turnaround time for customers. It can add a second verification pass to high-risk agreements. It can simply increase the number of contracts each lawyer is expected to touch until the calendar is full again.
+
+All six are allocations of the same apparent productivity dividend. None is automatic.
+
+This is why claims that AI will “give people time back” are incomplete. Time returned to whom, and protected by what rule? In organizations, unclaimed slack tends to attract demand. A meeting removed from Tuesday morning becomes a place where another meeting can be scheduled. A report generated in thirty seconds becomes a report people request weekly rather than quarterly. The organization can end with more cognitive traffic and no more room to think.
+
+A serious intelligence budget therefore needs an explicit account for slack. Some fraction of saved time may need to remain genuinely unallocated: room for reading, maintenance, training, experimentation, recovery, or simply the ability to absorb an unusual day without cascading delay. Slack looks inefficient in a utilization dashboard because utilization dashboards usually assume the future resembles the average past. Reserve exists for the days that violate the assumption.
+
+Budgets also force comparison across kinds of cognition. One hour of a principal engineer is not interchangeable with one hour of a new hire, but neither is the principal engineer's hour automatically more valuable. If the principal spends it approving a routine change that a deterministic test could validate, the expensive resource has been consumed for reassurance. If the new hire spends an hour tracing a failure and thereby learns the system, the hour may produce both an immediate fix and future capability.
+
+The same comparison will appear among models. A frontier system may be worth its cost for ambiguous planning and unnecessary for extraction. A small local model may be preferable when privacy or latency dominates. A deterministic program may beat both when the rule is known. Human judgment may be the scarce input when legitimacy or responsibility matters. The budget is not a leaderboard. It is a portfolio.
+
+This portfolio has to include the cost of supervision. Every autonomous capability creates some demand for monitoring, incident response, evaluation, permissions, and recovery. Those costs may be tiny compared with the work displaced; often they will be. But ignoring them is how an organization discovers that it automated ten thousand small tasks and created one enormous unowned system.
+
+The mature question is therefore not how much intelligence an organization can buy. It is how much of each kind it can use well, what complementary capacities it must fund, and which savings it intends to preserve rather than immediately spend again.
+
 The budget frame is useful because it replaces the question “How much AI should we use?” with a series of harder questions. Where is cognition actually scarce? What complement becomes scarce when we add more? Which errors are reversible? Where does latency hurt more than uncertainty? Which decisions need independence? What requires human legitimacy even if a machine could perform the analysis? Where should we preserve slack? Who receives service first when the system is overloaded?
 
 Those questions sound managerial because they are. The age of machine intelligence will be shaped by management in the broadest sense: the arrangement of resources toward purposes under constraint.
