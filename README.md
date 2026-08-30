@@ -1,168 +1,181 @@
 # Svyable Desk
 
-Sven Benson's **private Desk** in a
-[Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
-setup. This repository is the private Git working room; its Desk Reader is an
-intentionally public preview of the manuscripts being written here.
+> The working room for Svyable books.
 
-The GitHub repository is `Svyable/desk`, and its GitHub Pages project path is
-`/desk/`. The repository name is instance identity; its Bookself role remains
-**Desk**.
+**Write here → preview here → release deliberate snapshots to Shelf.**
 
-The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf). Desk
-and Shelf are separate Git repositories with separate histories. A release
-copies a committed book snapshot from Desk into Shelf; after release the two
-copies are independent until the next release.
+Desk holds the live working state of each book: manuscripts, research, media,
+notes, and revision history. [Shelf](https://github.com/Svyable/shelf) holds
+released editions. [Bookself](https://github.com/Svyable/bookself) is the
+software and workflow that connects the two.
 
-The software is [Bookself](https://github.com/Svyable/bookself).
+| Go to | What it is |
+|---|---|
+| **[Desk Reader](https://svyable.github.io/desk/reader/)** | Working drafts from this repository, when Desk GitHub Pages is enabled |
+| **[Shelf Reader](https://svyable.github.io/shelf/reader/)** | Released public editions |
+| **[Bookself docs](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)** | The Desk → Shelf model |
+| **[Author guide](docs/author-guide.md)** | Start here if you are writing |
+| **[Editor guide](docs/editor-guide.md)** | Start here if you are reviewing or editing |
+| **[AGENTS.md](AGENTS.md)** | Repository rules for AI agents |
 
-**Desk Reader — working drafts:** [svyable.github.io/desk/reader](https://svyable.github.io/desk/reader/)  
-**Shelf Reader — released editions:** [svyable.github.io/shelf/reader](https://svyable.github.io/shelf/reader/)  
+## Reader: what works, what can break
 
-## GitHub plan requirement
+The Desk Reader is a static preview of the manuscripts in this repository. It
+reuses the shared Shelf Reader UI, but resolves book content against Desk.
+Drafts stay drafts; opening a manuscript in the Desk Reader does not publish it.
 
-This Desk demonstrates Bookself's optional **private repository + public
-working-proof Reader** mode.
+There are two separate failure modes worth knowing:
 
-| Surface | Repository visibility | GitHub plan |
-|---|---|---|
-| Local Desk Reader / Publishing Desk | Private | GitHub Free is enough |
-| Public Shelf Reader | Public | GitHub Free is enough |
-| Public Desk Reader from this private repository | Private source, public website | GitHub Pro for a personal repository, or another eligible paid GitHub plan |
+1. **The whole Reader returns 404.** GitHub Pages is not enabled for Desk. In
+   GitHub, open **Settings → Pages**, choose **Deploy from a branch**, then
+   select **`main` / `/ (root)`**. Because this repository is private, GitHub
+   Pages for the repository requires an eligible paid GitHub plan.
+2. **The Reader opens, but a book is missing.** The Reader does **not** scan the
+   `books/` directory. Its catalog is the `## The books` table in this README.
+   Every real `books/<slug>/` directory must have one row in that table.
 
-Bookself itself does not require GitHub Pro. The normal free path is to keep the
-Desk private, preview it locally, and publish released editions from a public
-Shelf repository. GitHub Pro is only needed for this extra convenience: keeping
-the Desk Git repository private while also serving its working Reader through
-GitHub Pages.
+Direct book routes use this shape:
 
-If the account does not have private-repository Pages eligibility, this Desk
-continues to work normally as a private writing repository and local Reader, but
-the public Pages URL `https://svyable.github.io/desk/reader/` will not be served
-from the private repository.
+```text
+https://svyable.github.io/desk/reader/#/b/<slug>/
+```
 
-The repository itself remains private on GitHub, but when the Desk Pages site
-is enabled the website is **public**. This is deliberate working in public, not
-a privacy feature. Files in the Pages source can be reachable by their Pages
-URLs. Do not put secrets, credentials, or anything that must remain confidential
-on this Desk. A client-side password would not make a public static Pages site
-confidential.
-
-## The books
-
-| Book | Authors | Status | Desk preview | Shelf edition |
-|---|---|---|---|---|
-| [Leveraging Luck](books/leveraging-luck/) | @svyable | Revision in progress | [Read working draft](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) | [Read released edition](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
-| [The Exponentiality](books/the-exponentiality/) | @svyable | Not yet drafted | [Open Desk preview](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) | Not released |
-| [The Unbounding](books/the-unbounding/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-unbounding/) | Not released |
-| [The Convergence](books/the-convergence/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-convergence/) | Not released |
-| [Predictable](books/predictable/) | @svyable | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/predictable/) | Not released |
-| [The Reliability Tax](books/the-reliability-tax/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) | Not released |
-| [The World Beneath the World](books/the-world-beneath-the-world/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) | Not released |
-| [Proof of Human](books/proof-of-human/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/proof-of-human/) | Not released |
-| [Single Points of Failure](books/single-points-of-failure/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) | Not released |
-| [Built to Be Alone](books/the-loneliness-dividend/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) | Not released |
-| [Silent Cartel](books/silent-cartel/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/silent-cartel/) | Not released |
-| [Useful Noise](books/useful-noise/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/useful-noise/) | Not released |
-| [To State the Obvious:](books/to-state-the-obvious/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) | Not released |
-| [Keep Cooking](books/keep-cooking/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/keep-cooking/) | Not released |
-| [Synthetic Intelligence](books/synthetic-intelligence/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) | Not released |
-| [The Value Stack](books/the-value-stack/) | Sven Hard Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-value-stack/) | Not released |
-| [The Delegation Machine](books/the-delegation-machine/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) | Not released |
-| [The Abstraction Trap](books/the-abstraction-trap/) | Sven Hard Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) | Not released |
-| [Gatekeepers](books/gatekeepers/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/gatekeepers/) | Not released |
-| [The Compatibility Dividend](books/the-compatibility-dividend/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) | Not released |
-
-## The simple workflow
-
-**Write → Preview → Release.**
-
-Write and revise under `books/<slug>/` on Desk. The public Desk Reader shows
-the current working version when the optional private-repository Pages feature
-is enabled. The Shelf keeps the deliberately released edition unchanged until
-the next release.
-
-### Public Desk preview
-
-The public working-draft Reader is:
-
-- `https://svyable.github.io/desk/reader/`
-
-Direct book links use:
-
-- `https://svyable.github.io/desk/reader/#/b/<slug>/`
-
-The small `reader/` bootstrap reuses the shared Reader UI already served by the
-public Svyable Shelf, while content paths resolve against this Desk's Pages
-site. Desk status remains `Drafting`, `Complete draft`, or `Revision in
-progress`; the preview does **not** turn a Desk manuscript into a released Shelf
-edition.
-
-This preview is branch-served static Pages. It does not require a GitHub Actions
-workflow, build artifact, or hosted deployment job. It does require GitHub's
-private-repository Pages entitlement because the source repository is private.
-
-### Agent discovery
-
-The public Pages surface deliberately includes low-noise entry points for search
-crawlers and AI agents:
-
-- [`/llms.txt`](https://svyable.github.io/desk/llms.txt) — curated map of Desk, books, and important manuscript pages.
-- [`/robots.txt`](https://svyable.github.io/desk/robots.txt) — crawl policy; the public working-draft surface is intentionally crawlable.
-- [`/sitemap.xml`](https://svyable.github.io/desk/sitemap.xml) — machine-readable inventory of key public pages.
-- [`/AGENTS.md`](https://svyable.github.io/desk/AGENTS.md) — instructions for agents that are actually modifying Desk content.
-
-These are discovery aids, not publication markers. A Desk manuscript remains a
-working draft until it is explicitly released to Shelf.
-
-### Preview locally
-
-You can always serve the repository locally, including on GitHub Free:
+If Pages is unavailable, preview locally instead:
 
 ```bash
 python3 -m http.server
 ```
 
-Open:
+Then open `http://127.0.0.1:8000/reader/`.
 
-- `http://127.0.0.1:8000/reader/`
+### Catalog invariant
 
-For a fully copied local Bookself UI, `scripts/bootstrap-ui.sh ../bookself` can
-synchronize `reader/` and `desk/` from a sibling Bookself checkout. Review that
-change before committing because it replaces the lightweight Reader bootstrap.
+**This table is executable documentation.** The Reader parses it to discover
+books.
 
-### Release locally
+When adding or renaming a book:
 
-When a revision is ready, commit it here first, then prepare the public release:
+- keep one row here for every real folder under `books/` except `_TEMPLATE`;
+- make the first link in the row point to `books/<slug>/`;
+- keep the book's canonical title, author, status, chapter count, and contents
+  in that book's own `README.md` rather than duplicating them here;
+- use the slug unchanged in the Desk Reader route.
+
+## The books
+
+| Book | Working draft |
+|---|---|
+| [Aggregate, Consolidate, Innovate](books/aggregate-consolidate-innovate/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
+| [Built to Be Alone](books/the-loneliness-dividend/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
+| [Gatekeepers](books/gatekeepers/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
+| [Keep Cooking](books/keep-cooking/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
+| [Leveraging Luck](books/leveraging-luck/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
+| [Look Alive](books/look-alive/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/look-alive/) |
+| [Make Yourself Useful](books/make-yourself-useful/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
+| [Predictable](books/predictable/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/predictable/) |
+| [Proof of Human](books/proof-of-human/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
+| [Scaling Laws](books/scaling-laws/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
+| [Silent Cartel](books/silent-cartel/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
+| [Single Points of Failure](books/single-points-of-failure/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
+| [Source Code](books/source-code/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/source-code/) |
+| [Synthetic Intelligence](books/synthetic-intelligence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) |
+| [The Abstraction Trap](books/the-abstraction-trap/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
+| [The Compatibility Dividend](books/the-compatibility-dividend/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
+| [The Convergence](books/the-convergence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
+| [The Delegation Machine](books/the-delegation-machine/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
+| [The Exponentiality](books/the-exponentiality/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [The Reliability Tax](books/the-reliability-tax/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
+| [The Search Frontier](books/the-search-frontier/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
+| [The Unbounding](books/the-unbounding/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
+| [The Value Stack](books/the-value-stack/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
+| [The Vanishing Bid](books/the-vanishing-bid/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
+| [The World Beneath the World](books/the-world-beneath-the-world/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
+| [To State the Obvious](books/to-state-the-obvious/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
+| [Useful Noise](books/useful-noise/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
+| [Vectors](books/vectors/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/vectors/) |
+
+## Repository anatomy
+
+Each book is a self-contained project:
+
+```text
+books/
+  <slug>/
+    README.md          ← canonical title, status, chapter count, contents
+    manuscript/        ← the book itself
+    research/          ← sources and book-specific notes
+    media/             ← images and other book assets
+```
+
+`books/_TEMPLATE/` is the starting point for a new book and is intentionally
+not part of the Reader catalog.
+
+The repository also contains the lightweight `reader/` bootstrap, shared Desk
+documentation under `docs/`, and local release helpers under `scripts/`.
+
+## The workflow
+
+```text
+                  Svyable Desk                         Svyable Shelf
+              ──────────────────                   ──────────────────
+idea → research → manuscript → revision → commit → release snapshot → edition
+                       ↑                                  │
+                  Desk Reader                        Shelf Reader
+                 working proof                     released work
+```
+
+### 1. Start a book
+
+Copy `books/_TEMPLATE/` to `books/<slug>/`, fill in the book README, and follow
+the repository rules in [AGENTS.md](AGENTS.md). Add the new book to **The
+books** table above so the Reader can discover it.
+
+For the expected shape of a book, see [Book anatomy](docs/book-anatomy.md).
+
+### 2. Write and revise
+
+Work in `books/<slug>/manuscript/`. Keep the book README's contents and chapter
+count synchronized with the manuscript. Desk is the working edition even when
+Shelf already contains an older released edition.
+
+### 3. Preview
+
+Use the Desk Reader when Pages is enabled, or serve the repository locally with
+`python3 -m http.server`. Previewing is not publishing.
+
+### 4. Release deliberately
+
+Commit the Desk version first, then prepare a Shelf snapshot locally:
 
 ```bash
 scripts/release-book.sh <slug> ../shelf
 ```
 
-The release command runs locally with Git and Python's standard library. It
-refuses uncommitted book changes and dirty Shelf release paths. It prepares the
-Shelf copy with `Status: Published`, adds or updates the Shelf catalog row,
-verifies the copied publication files against this committed Desk snapshot,
-and stops before commit or push so the public diff can be reviewed.
+The release helper validates the Desk/Shelf roles, copies the committed book
+snapshot, marks the Shelf copy `Published`, updates the Shelf catalog, verifies
+the copy, and stops before commit or push so the public change remains
+intentional.
 
-The public Desk Reader is only the live working preview; it is not part of the
-release transaction. `scripts/promote-book.sh` remains the lower-level copy-only
-command and does not publish or create a live Desk ↔ Shelf relationship.
-
-For the full revision model, see
+For the revision model, see
 [Revising a published book](https://github.com/Svyable/bookself/blob/main/docs/revisions.md).
 
-## How to take part
+## Public discovery surface
 
-| If you are… | Start here |
-|---|---|
-| New to GitHub | [Author guide](docs/author-guide.md) |
-| Running Desk + Shelf | [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md) |
-| Comfortable with pull requests | [Editor guide](docs/editor-guide.md) |
-| Starting a new book | [Book anatomy](docs/book-anatomy.md) |
-| An AI agent | [AGENTS.md](AGENTS.md) |
+When Desk Pages is enabled, the working-proof site also exposes:
 
-## License
+- [`llms.txt`](https://svyable.github.io/desk/llms.txt) — a machine-readable map
+  of Desk books and important manuscript pages;
+- [`robots.txt`](https://svyable.github.io/desk/robots.txt) — crawler policy;
+- [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml) — public Pages
+  inventory;
+- [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md) — modification rules
+  for agents.
 
-The framework (everything outside `books/`) is MIT. Book manuscripts remain
-copyright of their authors. See [LICENSE](LICENSE).
+The Git repository is private, but an enabled GitHub Pages site is an
+intentional public working-proof surface. Do not commit secrets, credentials,
+or material that must remain confidential.
+
+## Rights and license
+
+The framework outside `books/` is covered by [LICENSE](LICENSE). Book
+manuscripts remain the copyright of their authors; see [RIGHTS.md](RIGHTS.md).
