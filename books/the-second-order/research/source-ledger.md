@@ -33,3 +33,33 @@ Sources are recorded at the chapter where they materially support factual claims
 ## Chapter-level falsification note
 
 The opening argument should be weakened if consequential deployment routinely leaves the relevant behavior and data-generating process unchanged in domains where actors can observe incentives and respond. Evidence that well-designed targets remain informative under sustained pressure is not an exception to hide; it is evidence about design conditions the book needs to explain. Likewise, feedback that improves the actual objective counts against any simplistic claim that adaptation is inherently corrupting.
+
+## Chapter 2 — The Metric Eats the Mission
+
+### Steven Kerr — reward-system mismatch
+
+- **Source:** Steven Kerr, “On the Folly of Rewarding A, While Hoping for B,” *Academy of Management Journal*, 18(4), December 1975, pp. 769–783.
+- **DOI:** https://doi.org/10.2307/255378
+- **Publisher record:** https://journals.aom.org/doi/10.5465/255378
+- **Supports:** the organizational claim that reward systems can systematically incentivize behavior different from the behavior an institution says it wants.
+- **Caution:** the chapter's maintenance, customer-support, safety, research, and hiring examples are explanatory hypotheticals unless separately sourced; they are not attributed as cases from Kerr's paper.
+
+### Bengt Holmstrom and Paul Milgrom — multitask incentives
+
+- **Source:** Bengt Holmstrom and Paul Milgrom, “Multitask Principal–Agent Analyses: Incentive Contracts, Asset Ownership, and Job Design,” *The Journal of Law, Economics, and Organization*, 7 (special issue), January 1991, pp. 24–52.
+- **DOI:** https://doi.org/10.1093/jleo/7.special_issue.24
+- **Publisher record:** https://academic.oup.com/jleo/article-abstract/7/special_issue/24/2194011
+- **Supports:** the chapter's core mechanism that strong incentives on well-measured tasks can distort effort allocation when a job contains other important tasks that are harder to measure.
+- **Caution:** the manuscript presents the economic intuition rather than claiming a universal empirical effect size.
+
+### Gwyn Bevan and Christopher Hood — targets in English public health care
+
+- **Source:** Gwyn Bevan and Christopher Hood, “What’s Measured Is What Matters: Targets and Gaming in the English Public Health Care System,” *Public Administration*, 84(3), 2006, pp. 517–538.
+- **DOI:** https://doi.org/10.1111/j.1467-9299.2006.00600.x
+- **Publisher record:** https://onlinelibrary.wiley.com/doi/10.1111/j.1467-9299.2006.00600.x
+- **Supports:** the claim that a high-pressure target regime in English public health care produced reported successes alongside measurement and gaming problems, making it a useful institutional case of targets becoming part of the behavior being measured.
+- **Caution:** the chapter deliberately avoids detailed anecdotal claims about specific facilities that were not independently verified for this draft.
+
+## Chapter-level falsification note
+
+The argument should be weakened if strong incentives on a precisely measured dimension generally improve multidimensional work without displacing, degrading, or strategically recoding less-measured dimensions. Evidence that target systems can improve outcomes is part of the chapter rather than a nuisance: the design problem is to identify when proxy optimization remains aligned with the mission and when it does not.
