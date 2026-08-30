@@ -52,7 +52,7 @@ The user experiences visibility.
 
 William Nordhaus made a related point in his history of lighting, but his target was economic measurement. Conventional price indexes struggle when a new technology does not simply make an old product cheaper but delivers a much better version of the underlying service. A candle and an electric lamp are both sold as lighting technologies, yet they are separated by enormous differences in luminous output, convenience, reliability, cleanliness, and labor required to obtain the light.
 
-Nordhaus reconstructed the labor cost of illumination across technologies and found declines far larger than ordinary price measures suggested. The point was not that official statistics were foolish. The point was that measuring the price of a thing becomes difficult when the thing quietly changes category.
+Nordhaus reconstructed that labor cost in a unit a household can feel. In his estimates, buying 1,000 lumen-hours of light required about 5.37 hours of work around 1800, 0.22 hours around 1900, and 0.00012 hours by 1992. These are reconstructed economic estimates, not a pure measure of lamp efficiency: wages, prices, and assumptions about historical devices all enter the calculation. Even with that qualification, the scale of the change is difficult to mistake.
 
 A horse and a train both provide transport. A letter and a video call both provide communication. A fireplace and a heat pump both provide warmth. A candle and an LED both provide light.
 
@@ -257,25 +257,3 @@ A household once watched the coal bin empty.
 Today the service often arrives through an interface.
 
 The causal chain has grown longer. Dependence has not grown weaker.
-
-In some ways it has grown stronger because more activities now assume that cheap, high-quality energy will be available continuously. A hospital cannot compensate for unreliable electricity by reminding itself that average annual energy supply is adequate. A data center cannot run on statistical abundance. An elevator needs power when the passenger presses the button.
-
-The service perspective therefore points toward reliability as well as efficiency.
-
-The value of an energy system is not simply how much energy it contains or even how efficiently it converts that energy. It matters whether useful output can be delivered where and when it is wanted, at a cost people can bear, without external costs overwhelming the gain.
-
-This is a harder standard than consumption.
-
-It is also closer to what civilization is for.
-
-The candle did something extraordinary. It let humans purchase a little more day.
-
-Two centuries of lighting technology did not merely make candles cheaper. It made the old rationing problem almost disappear for billions of people with reliable electricity access.
-
-Once the service became cheap, demand exploded. Streets glowed. Factories ran after sunset. Homes filled with lamps. Cities became visible from orbit.
-
-Efficiency did not end appetite.
-
-It changed the price of appetite.
-
-That is the paradox waiting in the next chapter.
