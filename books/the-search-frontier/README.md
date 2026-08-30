@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 7 of 20 drafted |
+| **Chapters** | 8 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -24,7 +24,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 5 — The Consumer in the Aisle](manuscript/ch05-the-consumer-in-the-aisle.md)
 - [x] [Ch 6 — The Firm as Search Engine](manuscript/ch06-the-firm-as-search-engine.md)
 - [x] [Ch 7 — Bell Labs and the Architecture of Wandering](manuscript/ch07-bell-labs-and-the-architecture-of-wandering.md)
-- [ ] Ch 8 — The Venture Portfolio
+- [x] [Ch 8 — The Venture Portfolio](manuscript/ch08-the-venture-portfolio.md)
 - [ ] Ch 9 — Markets as Distributed Search
 - [ ] Ch 10 — Science and the Cost of a Negative Result
 - [ ] Ch 11 — Culture Sets the Search Radius
