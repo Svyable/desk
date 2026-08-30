@@ -16,6 +16,8 @@ The book must distinguish several claims that are easy to blur:
 4. **Anthropomorphism is not always a mistake, but it can be.** Human social instincts can help us coordinate with machines while also encouraging misplaced trust.
 5. **Diffusion is not uniform.** Adoption, access, skill, regulation, language, wealth, infrastructure, and culture shape who meets advanced systems first and on what terms.
 6. **A local threshold can matter before a global threshold exists.** Social change does not require universal agreement on a definition of AGI.
+7. **Advanced intelligence need not be singular.** Different models, agents, institutions, tool environments, memories, incentives, and embodiments can produce materially different machine counterparts.
+8. **Foreignness can be useful.** The value of advanced intelligence may come partly from strategies and representations that do not imitate human thought, so human-likeness should not be mistaken for the capability target.
 
 The strong version of the book's argument—that nearly everyone will soon regard AI systems as persons—is too brittle and too speculative. The version worth testing is more durable: the human category boundary between “tool” and “other intelligence” will become behaviorally unstable well before society has settled the philosophical question, because systems are becoming more capable and more socially situated faster than institutions can update their norms.
 
@@ -31,6 +33,8 @@ The strong version of the book's argument—that nearly everyone will soon regar
 8. **Institutional lag:** Are education, corporate governance, law, and public policy adapting at the same rate as capability and adoption?
 9. **Generational normalization:** Are children and teens incorporating AI into ordinary life quickly enough that experiences adults call uncanny become baseline expectations for younger users?
 10. **Plural arrival:** Does observed change look more like many domain-specific thresholds than one clean “AGI day”?
+11. **The skeptical baseline:** Do reliability failures, economic constraints, security limits, and weak real-world performance remain large enough that being unimpressed is often the rational response?
+12. **Plural machine ecology:** Does deployment produce one convergent general counterpart, or a population of differentiated systems shaped by owners, permissions, memories, tools, objectives, and environments?
 
 ## Evidence lanes
 
@@ -66,6 +70,10 @@ Use ILO exposure estimates, Anthropic usage studies, Microsoft work research, an
 
 Use NIST's AI Risk Management Framework and Generative AI Profile and the EU AI Act as examples of institutions trying to govern systems through risk, transparency, documentation, and accountability rather than settling whether they count as minds. This supports the book's claim that practical governance can precede philosophical consensus. Avoid presenting any regulatory framework as settled, globally representative, or technically sufficient.
 
+### IX. Skepticism, plurality, and useful foreignness
+
+The closing chapters deliberately reuse the strongest evidence above rather than pretending each philosophical synthesis requires a new statistic. METR's bounded task-horizon measurements, Reuters' robotics counter-reporting, ILO's distinction between exposure and displacement, affective-use caveats, NIST's risk framing, and the AlphaGo case form a combined pressure test. Together they support three narrower conclusions: capability should be judged behaviorally rather than ceremonially; real limitations deserve continued attention even during rapid progress; and the most valuable machine intelligence may differ across systems and from human cognitive style. These chapters are synthesis and counterargument, not claims of a newly measured universal property.
+
 ## Falsification and counter-evidence
 
 Every chapter should preserve evidence that weakens the thesis.
@@ -80,6 +88,8 @@ Every chapter should preserve evidence that weakens the thesis.
 - Strong social responses to machines may be shallow, temporary, playful, or context-specific rather than evidence of a durable category shift.
 - Different cultures may adopt very different norms for personifying, trusting, or delegating to AI.
 - The word “intelligence” may become less socially important as capability becomes ordinary; advanced systems could disappear into infrastructure rather than becoming recognized counterparts.
+- Model ecosystems may converge around a few providers and interaction styles, making plurality less important than the manuscript expects.
+- Human-like interfaces may prove practically superior for communication even when the underlying reasoning is foreign, reducing the visible strangeness of the encounter.
 
 The book should survive these possibilities. Its durable claim is not that one anthropomorphic future is inevitable. It is that humans will have to renegotiate the boundary between instrument and interlocutor because machines are acquiring combinations of competence and social presence that older categories did not anticipate.
 
@@ -107,6 +117,11 @@ The book should survive these possibilities. Its durable claim is not that one a
 | 18 — There Will Be No AGI Day | What breaks when a social transition is forced into a single technical threshold or date? |
 | 19 — The Week Before Everyone Knew | What would a rapid recognition cascade look like if capabilities had already diffused before public consensus caught up? |
 | 20 — Face The Strange | What practical norms let humans remain curious, autonomous, accountable, and open to genuine novelty? |
+| 21 — The Right to Be Unimpressed | Which observed limitations justify skepticism, and how can skepticism remain empirical rather than becoming a fixed identity? |
+| 22 — Plural Minds | How do ownership, memory, tools, incentives, permissions, and embodiment make deployed intelligences meaningfully different from one another? |
+| 23 — The Human Advantage Is Not a Trait | What human responsibilities remain important if no single cognitive skill is permanently protected from machine competition? |
+| 24 — After First Contact | What institutional and cultural practices become normal after machine intelligence is integrated into daily life rather than treated as a novelty? |
+| 25 — Keep It Strange | Why might preserving non-human strategies and cognitive diversity be more valuable than maximizing human imitation? |
 
 ## Source discipline
 
@@ -120,4 +135,5 @@ The book should survive these possibilities. Its durable claim is not that one a
 - Preserve dates and vintages because AI capability, product behavior, and regulation are changing rapidly.
 - Never invent dialogue, quotations, private reactions, or biographical details to make the future feel vivid.
 - Future-facing scenes should be explicitly framed as scenarios, not reported events.
+- For synthesis chapters, identify which earlier evidence lanes are being recombined instead of manufacturing spurious chapter-specific evidence.
 - For every chapter, keep a note titled “What would make this false?”
