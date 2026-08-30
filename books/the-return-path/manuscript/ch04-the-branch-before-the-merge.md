@@ -143,3 +143,35 @@ That is how real return paths work.
 They do not give us yesterday.
 
 They give us a better next commit.
+
+Database migrations show why the idea becomes harder when state is shared. Suppose a service needs to replace one column with a new representation. The naive migration changes the database and the application in one step. If the new code fails, the old code may no longer understand the transformed data. The organization discovers that “rollback” referred only to the executable, not to the state the executable had already changed.
+
+Safer migrations often proceed through intermediate compatibility. Add the new representation without removing the old one. Teach software to understand both. Populate the new field. Observe. Move reads and writes gradually. Remove the old path only after the new one has proved itself and dependent systems have moved.
+
+For a while the system carries duplication that looks inelegant.
+
+That duplication is the price of crossing the bridge without blowing it up behind you.
+
+This pattern appears in institutional reform. A country replacing one payment system may run both during transition. A hospital adopting a new record workflow may preserve access to the old system. A factory changing suppliers may dual-source before terminating the original relationship. A company reorganizing customer support may overlap teams long enough to transfer knowledge.
+
+The overlap costs money precisely because the future state is not yet trustworthy.
+
+Managers under pressure often eliminate it too early. They want the savings forecast to begin. They cancel the old contract, dissolve the old team, or remove the old interface as soon as the new one technically exists. The project appears complete on the slide. Then an edge case arrives that only the old system knew how to handle.
+
+Migration teaches a subtle distinction between duplication and redundancy. Duplication can be waste when two systems do the same job indefinitely. During transition, duplication can be an instrument for comparing states and preserving exit.
+
+The same resource can be waste at one stage and option value at another.
+
+Engineering teams sometimes use another technique: make changes backward-compatible before making them irreversible. A public API gains a field before an old field is deprecated. A file format supports multiple versions. A protocol negotiates capabilities. The system tolerates heterogeneity while participants migrate at different speeds.
+
+Backward compatibility is expensive because the present must carry part of the past. But abrupt incompatibility pushes the cost onto every dependent user at once.
+
+This is not a purely technical trade. It is a choice about who owns transition risk.
+
+A vendor that breaks compatibility may innovate faster internally while forcing customers to rebuild. A standards body that preserves compatibility may slow improvement while protecting a large installed base. Neither choice is free.
+
+The important thing is to see the cost rather than hide it inside the word legacy.
+
+Every legacy system was once somebody’s new system. The reason it survived is often that other people built around it.
+
+A branch can be abandoned cheaply only before anyone else depends on it.
