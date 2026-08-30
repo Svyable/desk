@@ -44,4 +44,4 @@
 
 This is an unpublished Desk manuscript. Its central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and occupation, software and infrastructure. A gate can be a person, institution, rule, queue, algorithm, interface, credential, or technical dependency. The book asks when those gates protect something worth protecting, when they become extraction machines, and what meaningful appeal, exit, competition, and accountability look like.
 
-- [Open the working Desk preview](https://svyable.github.io/self/reader/#/b/gatekeepers/)
+- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/gatekeepers/)
