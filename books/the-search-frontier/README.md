@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 9 of 20 drafted |
+| **Chapters** | 10 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -26,7 +26,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 7 — Bell Labs and the Architecture of Wandering](manuscript/ch07-bell-labs-and-the-architecture-of-wandering.md)
 - [x] [Ch 8 — The Venture Portfolio](manuscript/ch08-the-venture-portfolio.md)
 - [x] [Ch 9 — Markets as Distributed Search](manuscript/ch09-markets-as-distributed-search.md)
-- [ ] Ch 10 — Science and the Cost of a Negative Result
+- [x] [Ch 10 — Science and the Cost of a Negative Result](manuscript/ch10-science-and-the-cost-of-a-negative-result.md)
 - [ ] Ch 11 — Culture Sets the Search Radius
 - [ ] Ch 12 — Careers in a Fog
 - [ ] Ch 13 — The General and the Map of Possible Wars
