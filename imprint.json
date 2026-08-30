@@ -1,17 +1,24 @@
 {
+  "schemaVersion": 1,
   "role": "desk",
   "name": "Svyable Desk",
   "shortName": "Desk",
-  "description": "Private writing workspace for Svyable Bookself publications.",
-  "kicker": "Private Desk · Draft here · Release deliberately",
-  "lede": "Drafts and next revisions live here. Released editions live separately on the public Shelf.",
-  "writeHref": "../desk/",
-  "writeLabel": "Publishing Desk",
+  "description": "Books in the act of becoming books: working drafts, complete manuscripts, and the next edition before release.",
+  "kicker": "Working manuscripts · Read like books",
+  "lede": "Drafts, complete manuscripts, and the next edition live here before deliberate release to Shelf.",
   "homeLabel": "Desk",
   "storagePrefix": "svyable-desk",
-  "steps": [],
+  "owner": "Svyable",
+  "repo": "desk",
   "github": {
     "owner": "Svyable",
     "repo": "desk"
-  }
+  },
+  "liveUrl": "https://svyable.github.io/desk/reader/",
+  "writeHref": "https://github.com/Svyable/desk",
+  "writeLabel": "Open Desk source",
+  "forkHref": "https://svyable.github.io/shelf/reader/",
+  "forkLabel": "Read released editions",
+  "parentProject": "https://github.com/Svyable/bookself",
+  "steps": []
 }
