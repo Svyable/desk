@@ -121,3 +121,33 @@ These notes are not chapter conclusions. They are pressure tests kept beside the
 **Claim under pressure:** The best stance is curiosity without worship, boundaries without denial, and accountability without metaphysical certainty.
 
 **What would make this false?** Some classes of systems may warrant much stronger precaution or prohibition; others may eventually warrant moral consideration beyond the instrumental framework used here. The stance must remain revisable as evidence changes.
+
+## Ch 21 — The Right to Be Unimpressed
+
+**Claim under pressure:** Skepticism remains necessary even when capability is advancing quickly, and refusing to be impressed by demos can improve judgment rather than merely signal resistance.
+
+**What would make this false?** If independently measured real-world reliability, economic value, and long-horizon competence become so broad and repeatable that current skeptical heuristics systematically underpredict performance, then sustained unimpressedness would become a bias rather than a discipline. The chapter would also weaken if its cautions rely on failure modes that have already been engineered away.
+
+## Ch 22 — Plural Minds
+
+**Claim under pressure:** The future will contain materially different machine intelligences rather than one culturally uniform artificial mind.
+
+**What would make this false?** A small number of convergent foundation models, interfaces, training methods, and platform incentives could dominate deployment so thoroughly that most users encounter functionally interchangeable systems. Strong standardization or interoperability could also make differences in memory, tools, ownership, and embodiment less consequential than the chapter expects.
+
+## Ch 23 — The Human Advantage Is Not a Trait
+
+**Claim under pressure:** Humans should not ground dignity or social role in a single cognitive capacity supposedly unavailable to machines.
+
+**What would make this false?** Evidence could identify a durable, socially decisive human capacity that advanced systems cannot reproduce or substitute for, making trait-based comparative advantage more stable than the chapter allows. Conversely, if institutions cease to care about embodied responsibility, lived stakes, consent, or human authorship, the chapter's structural account of human importance would need substantial revision.
+
+## Ch 24 — After First Contact
+
+**Claim under pressure:** Once advanced intelligence is normalized, the central problems become institutional design, power, dependency, interoperability, and everyday practice rather than permanent astonishment.
+
+**What would make this false?** Capability could continue changing so discontinuously that society never reaches a stable “after”; repeated leaps might keep the relationship in permanent first-contact shock. Alternatively, adoption could stall or fragment so deeply that no broadly shared post-contact social condition emerges.
+
+## Ch 25 — Keep It Strange
+
+**Claim under pressure:** Preserving machine foreignness can be epistemically valuable because non-human strategies may reveal possibilities that human imitation suppresses.
+
+**What would make this false?** Human-compatible representations and interaction styles may prove necessary for verification, safety, coordination, and useful transfer, making strong foreignness a liability rather than a benefit. If apparently alien solutions are mostly artifacts, errors, or opaque rediscoveries of known ideas, then optimizing for difference could reward novelty over truth. The chapter should therefore defend cognitive diversity only where it remains testable and accountable.
