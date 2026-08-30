@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 19 of 20 drafted |
+| **Chapters** | 20 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -36,7 +36,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 17 — Verification Becomes the Bottleneck](manuscript/ch17-verification-becomes-the-bottleneck.md)
 - [x] [Ch 18 — The Politics of What Gets Tried](manuscript/ch18-the-politics-of-what-gets-tried.md)
 - [x] [Ch 19 — When to Stop Searching](manuscript/ch19-when-to-stop-searching.md)
-- [ ] Ch 20 — A Civilization That Can Change Its Mind
+- [x] [Ch 20 — A Civilization That Can Change Its Mind](manuscript/ch20-a-civilization-that-can-change-its-mind.md)
 - [ ] Back Matter
 
 ## Research
