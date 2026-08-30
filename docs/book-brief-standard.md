@@ -1,13 +1,13 @@
 # Standard for automated full-book drops
 
 This file sets the minimum bar for a scheduled or automated task that is asked
-to draft an entire new book "in one shot" — as opposed to the normal
-incremental, one-chapter-per-PR workflow the rest of this repository uses
-(see `AGENTS.md` and `books/predictable/research/automation-runbook.md` for
-that narrower case). It exists because a first attempt at this kind of task
-(the initial draft of `books/proof-of-human/`) came in far shorter than the
-repository owner wanted, and the correction is recorded here so it survives
-across sessions rather than depending on any one conversation's memory.
+to draft an entire new book "in one shot". The Desk also permits smaller
+coherent multi-chapter batches; this standard applies specifically when the
+requested scope is a complete new book. It exists because a first attempt at
+this kind of task (the initial draft of `books/proof-of-human/`) came in far
+shorter than the repository owner wanted, and the correction is recorded here
+so it survives across sessions rather than depending on any one conversation's
+memory.
 
 ## Minimum scope for a new one-shot book
 
@@ -31,18 +31,18 @@ across sessions rather than depending on any one conversation's memory.
 
 ## Why the bar is this high
 
-The existing complete drafts in this Binder that were written a chapter at a
-time (`the-world-beneath-the-world`, `the-unbounding`) land in a similar range
-almost by accident, one chapter per sitting, over enough sittings. A one-shot
-task does not get that many sittings — it gets one — so it has to plan for
-the full scope up front rather than stopping once the argument feels
-"complete" at a much shorter length. A thesis that takes ten chapters to state
-usually has another ten chapters of real case studies, counter-evidence, and
-adjacent territory worth covering before it earns comparison to the
-full-length nonfiction books this Binder's ratings sheet holds up as the bar
-(`Thinking, Fast and Slow`, `The Innovator's Dilemma`, `Why Nations Fail`, and
-similar): those run long because they earn the length with more cases, not
-because they pad the argument that was already made.
+The existing complete drafts in this Binder that were written incrementally
+(`the-world-beneath-the-world`, `the-unbounding`) land in a similar range almost
+by accident, over enough focused writing passes. A one-shot task does not get
+those separate passes — it gets one — so it has to plan for the full scope up
+front rather than stopping once the argument feels "complete" at a much shorter
+length. A thesis that takes ten chapters to state usually has another ten
+chapters of real case studies, counter-evidence, and adjacent territory worth
+covering before it earns comparison to the full-length nonfiction books this
+Binder's ratings sheet holds up as the bar (`Thinking, Fast and Slow`, `The
+Innovator's Dilemma`, `Why Nations Fail`, and similar): those run long because
+they earn the length with more cases, not because they pad the argument that
+was already made.
 
 ## What this does not change
 
