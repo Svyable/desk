@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 5 of 25 drafted |
+| **Chapters** | 6 of 25 drafted |
 
 How Direction Became the Language of Intelligence.
 
@@ -22,7 +22,7 @@ The argument is deliberately practical and political as well as technical. A vec
 - [x] [Ch 3 — Coordinates Are a Choice](manuscript/ch03-coordinates-are-a-choice.md)
 - [x] [Ch 4 — Change the Basis, Change the View](manuscript/ch04-change-the-basis-change-the-view.md)
 - [x] [Ch 5 — The Dot Product of Agreement](manuscript/ch05-the-dot-product-of-agreement.md)
-- [ ] Ch 6 — Distance Is a Decision
+- [x] [Ch 6 — Distance Is a Decision](manuscript/ch06-distance-is-a-decision.md)
 - [ ] Ch 7 — The Geometry of Similarity
 - [ ] Ch 8 — Words Become Places
 - [ ] Ch 9 — The Embedding Machine
