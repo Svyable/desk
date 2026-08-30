@@ -84,6 +84,26 @@ The future will contain organizations with extraordinary cognitive capacity. Som
 
 The best of these institutions will look less like a room full of geniuses and more like a well-designed dispatch system. They will know which signals deserve interruption. They will maintain channels for escalation. They will preserve local knowledge. They will distinguish reversible experiments from irreversible acts. They will spend verification where error is costly. They will keep memory of unusual failures. They will protect reserves for surprise. They will understand that authority and expertise are different resources.
 
+The institutional detail inside mission control is worth lingering over because it corrects a popular picture of intelligence. Apollo did not put one master mind behind the astronauts. NASA's own program summary describes a flight-control organization divided into mission command and control, systems operations, and flight dynamics, with staff support rooms nearby where specialists could monitor and analyze the mission in greater detail. The control room was a narrow visible surface above a much larger cognitive machine.
+
+That arrangement solved several problems at once. It kept the crew from having to negotiate with an institution of thousands. It kept specialists close enough to the data to notice anomalies. It gave the flight director an operating picture without requiring the flight director to reproduce every specialist's expertise. It also created a route by which uncertainty could travel. A subsystem controller did not need to know the whole mission in order to say that something in one domain no longer fit expectations.
+
+This is different from merely adding more experts to a room. The experts had stations, scopes, communication channels, rules, and a shared temporal discipline. The architecture constrained who spoke to whom because unconstrained communication would itself have become a hazard. One can imagine a system with twice as many brilliant engineers and half as much clarity about escalation performing worse.
+
+Modern emergency communications make the same point at street level. In the United States, 911 systems are locally and regionally organized, and the roles vary: in some centers a telecommunicator receives, processes, and dispatches a request for help; in others those functions are separated. That variation matters less here than the sequence. The caller rarely knows which agency, unit, or level of response should be mobilized. The caller reports a world in fragments. The institution turns fragments into an actionable category and then into a route.
+
+A fire engine is not a better answer than an ambulance. A police unit is not a stronger model than a paramedic. The value comes from matching the response to the event under time pressure. The dispatcher's cognition is partly diagnostic, but its purpose is allocation.
+
+AI will increasingly occupy this middle layer. A model may sit between a citizen and a public agency, a patient and a clinic, an employee and an internal expert, a machine sensor and a maintenance crew, a customer and a company. The temptation will be to evaluate such systems by answer quality because answers are easy to benchmark. The more important measure may be routing quality: did the right case reach the right capability at the right time, with the right context attached?
+
+Routing errors have a peculiar invisibility. If an expert gives a bad answer, there is an answer to inspect. If a scheduler never calls the expert, the missing consultation may leave no artifact. If a warning is assigned low priority and disappears beneath routine traffic, the system can look calm right up to the failure. If a citizen is directed to the wrong office, the bureaucracy records another ordinary interaction rather than the service that never occurred.
+
+That is why allocation systems need outcome loops. A dispatcher can learn from what crews discover on arrival. A triage system can learn from subsequent diagnosis. An AI router can learn from escalations, reversals, appeals, and cases that were initially classified as routine but later became costly. Without this feedback, the allocator sees only its own categories and can become confidently self-consistent.
+
+A useful metric is therefore not simply whether the first route was correct. It is whether the system notices when the world no longer fits the route. Good dispatch includes the possibility of redispatch. A new symptom changes priority. A new sensor reading changes the maintenance response. A customer who has tried the standard remedy three times should not enter the same standard remedy a fourth time.
+
+The deepest intelligence in such a system may be the willingness to reopen the question of where the intelligence belongs.
+
 Most of all, they will accept that intelligence has a destination.
 
 A mind, human or machine, is never useful merely because it exists. It becomes useful when its attention is directed toward a problem, when the problem is represented well enough to work on, when the result reaches someone who can act, and when the action occurs within a system capable of absorbing it. That chain is the real object of design.
