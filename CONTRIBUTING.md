@@ -25,13 +25,21 @@ If you spotted something and do not want to touch the text yourself, open an
 issue. Use **Chapter feedback** for a specific passage, or **New book
 proposal** to pitch a book before anyone scaffolds it.
 
-## One chapter per pull request
+## Manuscript scope per pull request
 
-A pull request should touch one chapter file (or front/back matter), plus the
-book README only when the table of contents or status needs to match.
+A pull request may touch one chapter, a coherent run of chapters, front/back
+matter, or an entire book when that is the task. Size is not the governing
+rule; coherence is.
 
-Do not bundle unrelated chapters, repo-wide reformats, or tooling changes
-into a chapter PR.
+Keep a manuscript PR focused on one book unless the task explicitly spans
+books. Batch chapters when they belong to the same writing pass or argument,
+and keep the book README's table of contents and drafted count synchronized in
+the same change.
+
+Do not bundle unrelated prose, repo-wide reformats, drive-by cleanup, or
+unrelated tooling changes into a manuscript PR. Book-specific automation may
+set a narrower scope for its own runs; those local rules do not impose a
+global one-chapter cap on the Desk.
 
 ## Direct-to-main for lead authors
 
