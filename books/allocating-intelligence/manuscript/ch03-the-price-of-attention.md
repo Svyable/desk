@@ -102,6 +102,34 @@ A humane organization would decide in advance what it wants to do with cognitive
 
 The same applies personally. An agent that saves an hour can create an hour of freedom or an hour of additional tasks. Technology does not decide.
 
+Herbert Simon saw the inversion before the modern internet made it ordinary. In 1971 he argued that an abundance of information creates a scarcity of whatever information consumes: the attention of its recipients. The line survives because it names a structural fact rather than a particular technology. A better printing press, inbox, search engine, feed, or language model can increase the supply of potentially useful material faster than a person can increase the hours available to inspect it.
+
+Generative systems intensify the inversion because they do not merely retrieve existing items. They can create new candidate items on demand. Ten possible slogans become a hundred. One strategic memo becomes five alternatives, three critiques, a risk register, and a slide deck. A monitoring agent can produce a summary every hour whether or not anything important happened. The marginal cost of making something readable approaches zero while the cost of deciding whether it matters remains attached to a human nervous system or to another scarce decision process.
+
+The obvious response is better filtering, and this is indeed one of AI's strongest uses. A model can compress a thousand pages into the five paragraphs likely to matter. It can cluster alerts, deduplicate messages, route routine cases, and hold nonurgent information until an appropriate moment. Properly used, machine intelligence can create attention rather than consume it.
+
+The catch is that the filter becomes an allocator.
+
+Once a system decides what you will not see, omission becomes part of its output. This is usually beneficial; a dashboard that showed every raw sensor value would be useless. But suppression must be designed with the same care as generation. Which low-probability signal is allowed to interrupt? Which minority view is preserved? How long may an anomaly remain below threshold? What gets sampled even when the score says it is ordinary?
+
+Safety-critical fields have spent decades turning these questions into interface and alerting practice. Aviation human-factors work treats workload, automation behavior, displays, controls, and alerting as a coupled design problem. The point is not to maximize the number of warnings a crew can receive. It is to make the right state legible without burying the crew in indications that compete for the same limited attention.
+
+AI products will need an equivalent theory of cognitive traffic. Today many systems optimize response relevance one turn at a time. Agents operating over hours or days need to optimize interruption over time. A message can be useful and still arrive at the wrong moment. A reminder can be correct and still destroy concentration. A risk can be real and still be better represented in a daily review than as an immediate alarm.
+
+This makes attention a scheduling problem as well as a ranking problem.
+
+Imagine a manager with six software agents. One watches customers, one finances, one legal obligations, one engineering, one recruiting, and one personal scheduling. If each agent independently decides when something is “important,” the manager has not gained six assistants. The manager has acquired six people with permission to knock on the door. Their local optimization produces global interruption.
+
+A higher layer needs to arbitrate among them. It needs concepts such as quiet periods, escalation thresholds, batching, deadlines, dependency, and the cost of breaking focus. It may need to know that a payroll anomaly deserves interruption while a mildly deteriorating marketing metric can wait until the afternoon review. The intelligence is not only in understanding each message. It is in understanding the competition among messages for one person's day.
+
+Attention allocation also has a political dimension. People with more status already possess stronger means of interrupting institutions. Their email is answered faster. Their complaint reaches a senior person. Their meeting displaces someone else's. If AI agents learn to maximize their users' chance of response, they may industrialize this competition. Every request can arrive perfectly written, relentlessly followed up, framed as urgent, and timed to exploit the recipient's habits.
+
+Without countermeasures, the attention economy becomes an agent arms race.
+
+Institutions will need defenses that look almost rude from the perspective of any single request: quotas, batching, authenticated priority, rate limits, random sampling, quiet channels, and the right not to answer. These are not failures of intelligence. They are what make abundant intelligence inhabitable.
+
+The most valuable AI in such an environment may be the system that decides what not to generate, what not to forward, and what does not deserve to interrupt anyone yet.
+
 The most mature attention systems will make three prices visible. The first is interruption cost: what is displaced when this message arrives now? The second is omission cost: what happens if this message waits or never arrives? The third is coordination cost: who else must share this information for action to work?
 
 No model can calculate these perfectly because they involve values and unknown futures. But even rough awareness improves design. A severe safety alert has high omission cost and justifies interruption. A routine status update has low omission cost and can be batched. A strategic change has high coordination cost and belongs in shared context rather than private personalization.
