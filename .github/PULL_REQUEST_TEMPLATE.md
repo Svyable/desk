@@ -1,7 +1,7 @@
-## Chapter
+## Manuscript scope
 
 - **Book:**
-- **Chapter:** (`chNN-slug` or front/back matter)
+- **Chapter(s):** (`chNN-slug`, a coherent chapter range, or front/back matter)
 
 ## What changed
 
@@ -9,6 +9,7 @@
 
 ## Checklist
 
-- [ ] This PR touches one chapter (or the book README's TOC to match)
-- [ ] Author voice is preserved — no wholesale rewrites
-- [ ] If chapters were added or renamed, the book README TOC is updated
+- [ ] The manuscript scope is intentional and cohesive; unrelated chapters, tooling changes, and drive-by cleanup are not bundled
+- [ ] Author voice is preserved — no wholesale rewrites outside the requested scope
+- [ ] If chapters were added, renamed, or removed, the book README TOC and drafted count are updated
+- [ ] Book-structure or catalog changes pass `python3 scripts/check-desk.py`
