@@ -119,3 +119,73 @@ These questions turn accidents into architecture.
 The age of AI will contain spectacular failures because every technological age does. The quality of our institutions will be visible not in whether failure disappears but in whether failures remain bounded, legible, recoverable, and educational.
 
 Intelligence should make the system easier to stop before it makes the system faster to run.
+
+The August 2003 North American blackout gives the problem another shape. A power system is full of intelligent components: sensors, protective relays, operators, control centers, procedures, and automated responses. Yet a sequence of technical and organizational failures allowed trouble to spread across a huge interconnected network. The official investigation emphasized failures of situational awareness and reliability practices as well as physical events.
+
+The lesson for AI is not that grids resemble language models. It is that interconnection changes the unit of safety.
+
+A component can be locally reasonable and globally dangerous. A utility that protects its own equipment can shift stress elsewhere. A routing agent that optimizes one company’s deliveries can congest a shared road. A pricing system that protects one seller’s margin can interact with other pricing systems in ways no designer intended. A security agent that blocks suspicious traffic can cause retries that overwhelm another service.
+
+System boundaries are political choices drawn on top of physical interaction.
+
+If the risk crosses the boundary, governance has to cross it too.
+
+This creates a problem for AI because responsibility is often split among vendors. One company supplies the model, another the agent framework, another the cloud, another the data, and the deploying organization defines the workflow. When a cascade occurs, each participant can truthfully point to the layer it did not control.
+
+Distributed causation can become distributed irresponsibility.
+
+Contracts and incident processes should therefore preserve cross-layer evidence. Which model version ran? Which tool call occurred? Which policy allowed it? Which upstream service returned data? Which retry rule amplified the event? Which human saw the alert? The record needs enough common structure that investigators can reconstruct an interaction spanning firms.
+
+This is an interoperability problem nobody celebrates in a keynote.
+
+It may be one of the most important standards problems in agentic systems.
+
+A second design need is blast-radius accounting.
+
+Before giving an agent a permission, ask not only what one use can do but how many times the permission can be exercised before anyone notices. A refund limit of $100 sounds small until an agent can issue a million refunds. A deletion limited to one file per action sounds narrow until the action loops. A recommendation system that changes one ranking at a time can still reshape an entire marketplace.
+
+The product of consequence and repetition matters.
+
+Rate limits are therefore not merely abuse controls. They are architectural caps on the speed at which misunderstanding becomes damage. Critical systems should also have cumulative budgets: total money moved, total accounts changed, total messages sent, total machines isolated, total data exported within a window.
+
+The cumulative view catches failures that look harmless one action at a time.
+
+A third need is temporal separation. Fast systems create pressure to use fast detection and fast response, but some forms of safety require a deliberate delay. A financial transfer can sit in a reversible hold. A mass communication can be staged to a small cohort. A software change can wait for a canary period. A model update can run in shadow mode before it receives authority.
+
+Delay can be a safety control rather than a performance defect.
+
+This is uncomfortable in competitive environments because the firm that moves slower may lose advantage. That is precisely when industry or regulatory coordination can matter. If every participant benefits privately from speed while all share the systemic downside of cascades, the market can underproduce restraint.
+
+Circuit breakers are collective agreements to stop competing for a moment.
+
+A fourth need is ecological testing. Most evaluations ask how a model behaves against a fixed set of inputs. Multi-agent environments require a harder question: what happens when many adaptive systems interact repeatedly? Does negotiation converge or cycle? Do agents learn to exploit one another’s predictable safeguards? Do automated buyers and sellers create unstable price patterns? Do moderation agents and content agents escalate tactics?
+
+The relevant test environment starts to look more like a simulation of an economy than a benchmark spreadsheet.
+
+Such simulation will still miss reality. Its purpose is to discover plausible interaction failures before production supplies the expensive version.
+
+A fifth need is recovery design.
+
+Organizations often invest heavily in prevention and little in the first hour after prevention fails. What data can be restored? Which actions can be rolled back? How are affected users identified? Who communicates externally? How does the system return from emergency mode without reintroducing the cause?
+
+Recovery is its own allocation problem. During an incident, technical experts, executives, legal teams, customers, regulators, and the public all compete for information. If the same small group must diagnose the fault and prepare constant status updates, communication can consume the people needed for repair.
+
+Incident command structures exist partly to protect scarce expert attention.
+
+AI can help summarize logs, maintain timelines, draft updates, and coordinate tasks. It can also flood the incident with speculative explanations. In crisis mode, generated hypotheses should be labeled as hypotheses and separated from verified facts. The desire for a coherent story is strongest exactly when evidence is incomplete.
+
+A mature incident interface should make uncertainty visible without paralyzing action.
+
+The final need is institutional humility about normal operation.
+
+Long periods without failure create pressure to relax safeguards. The canary seems unnecessary. The second supplier looks expensive. The manual drill feels theatrical. The rate limit constrains growth. The incident team is reassigned. Success erodes the memory of why the protections exist.
+
+Then a new generation inherits the system and sees only friction.
+
+This is how safety margins become historical mysteries.
+
+Memory and cascade prevention are therefore the same problem across time. The institution has to preserve not only what happened but which guardrail exists because it happened. Otherwise intelligence optimizes the system back toward the edge it previously discovered.
+
+The measure of a robust AI system will not be that every agent behaves perfectly.
+
+It will be that one agent can be wrong without recruiting the whole environment into the mistake.
