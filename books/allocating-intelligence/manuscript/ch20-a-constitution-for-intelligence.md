@@ -141,3 +141,111 @@ That may be the most human task left to us, not because machines cannot help wit
 Intelligence answers questions.
 
 A constitution decides which questions are allowed to become power.
+
+A constitution also decides how rules change.
+
+That matters because every principle in this chapter can harden into stupidity if treated as timeless. A verification rule appropriate to a weak model may become needless friction after evidence improves. An autonomy limit that was prudent for one workflow may become too restrictive once reversibility and monitoring are better. A public service built around one interface may become obsolete when people interact with agents differently.
+
+Good constitutions endure partly because they contain amendment procedures.
+
+AI governance needs the same humility. Every consequential policy should answer not only “what is the rule?” but “what evidence would cause us to change the rule, who may propose the change, who must approve it, and what record of the old rule remains?”
+
+This prevents two opposite failures. The first is constitutional drift, where permissions and practices change quietly through product updates until nobody can say who authorized the new regime. The second is constitutional fossilization, where controls persist because changing them feels politically harder than tolerating their cost.
+
+Legibility is the cure for both.
+
+The practical constitution of an AI system should be inspectable in ordinary language and enforceable in technical mechanisms. People should be able to see which data the system may use, which actions it may take, which thresholds trigger review, which records are retained, which rights affected people have, and who can suspend operation.
+
+Policy that exists only in a legal memo is too far from the machine. Policy that exists only in code is too far from democratic and managerial understanding.
+
+The two have to meet.
+
+This is why permissions, logs, model cards, contracts, incident procedures, appeal rules, and interface cues all belong to the same constitutional layer. They are different representations of authority. When they disagree, the system is living under multiple constitutions.
+
+That is common in institutions. The handbook says one thing, the software allows another, managers expect a third, and workers learn the fourth through experience. AI can make those contradictions dangerous because automated systems execute the technical constitution at speed.
+
+Constitutional alignment therefore matters more than policy volume.
+
+A second feature is jurisdiction. A good constitution knows where it applies.
+
+A company may permit aggressive experimentation in an internal sandbox and require conservative behavior in customer-facing systems. A school may allow broad AI use in brainstorming and restrict it in foundational assessments. A hospital may permit administrative automation under one standard and clinical decision support under another. A government may distinguish public information from coercive decisions.
+
+Trying to write one universal policy for “AI use” usually produces either vagueness or absurdity.
+
+Jurisdiction lets institutions be permissive where consequences are small and demanding where consequences are large.
+
+A third feature is standing: who gets to challenge the system?
+
+Appeal should not belong only to operators and auditors. People affected by the system may possess information unavailable to those who built it. A rejected applicant knows whether the record is wrong. A worker knows when the schedule is impossible. A patient knows when the history attached to them is incomplete. A community knows when a classification erases local reality.
+
+Standing turns those people from passive subjects into sensors with rights.
+
+This does not mean every objection must prevail. It means the institution has a defined way to hear evidence from outside the model’s frame.
+
+A fourth feature is burden of proof.
+
+When should the system have to justify action, and when should the challenger have to justify interruption? The answer should vary with consequence. A low-stakes recommendation can be presumptively accepted. A severe deprivation of rights may deserve stronger procedural justification before action. Emergency contexts may temporarily invert the burden and require later review.
+
+Burden of proof is an allocation of uncertainty.
+
+Institutions already do this in law, medicine, engineering, finance, and safety. AI does not remove the need. It creates new actors that must fit into the old logic.
+
+A fifth feature is separation of powers.
+
+The system that recommends an action should not always be the system that authorizes it, executes it, verifies success, investigates failure, and judges the appeal. Combining all functions is efficient and fragile.
+
+Separation need not mean a human committee around every agent. It can be technical: one model proposes, another verifies; a policy engine enforces limits neither model can waive; a separate log service records actions; an independent team investigates incidents; an external appeal path reviews consequential outcomes.
+
+The reason is not distrust of intelligence. It is distrust of common-mode authority.
+
+A sixth feature is minority protection.
+
+Most optimization serves averages naturally. Systems improve the experience of the common case and leave the edge case expensive. Constitutions exist partly because some interests should not disappear simply because they are numerically small.
+
+An accessible interface may serve a minority. A human fallback may serve a minority. A rare-language model may serve a minority. An appeal route may be used by a minority. Their low utilization can make them look inefficient while their absence makes the system unjust or brittle.
+
+The constitutional test is not “how many users need this?” alone. It is also “what happens to the users who do?”
+
+A seventh feature is emergency power.
+
+Crises justify temporary concentration of authority because delay can be catastrophic. They also create opportunities for temporary powers to become permanent. AI systems will face emergencies: cyberattacks, disasters, fraud waves, infrastructure failures, public-health events.
+
+The constitution should specify emergency modes before the emergency. Which permissions expand? Which services are triaged? Who can declare the mode? What evidence is recorded? When does the authority expire? Who reviews actions afterward?
+
+A system that improvises its emergency constitution in real time is allocating power at the moment fear is highest.
+
+An eighth feature is reciprocity.
+
+Institutions increasingly know more about individuals than individuals know about institutions. AI can widen the gap. A constitutional design should ask where reciprocal visibility is appropriate. If a system scores a worker, can the worker see the relevant evidence? If an agent represents a company in negotiation, does the counterparty know it is an agent? If a public system uses a record, can the citizen see and correct the record?
+
+Reciprocity does not mean total symmetry. Governments, employers, and professionals hold legitimate confidential information. It means asymmetry should have reasons rather than arriving by default.
+
+A ninth feature is materiality.
+
+Not every model change deserves a constitutional process. Institutions need thresholds for what counts as a meaningful change: expanded permissions, new data categories, changed decision consequences, substantially different model behavior, new affected populations, or altered appeal rights.
+
+Materiality prevents governance from drowning in trivia while keeping consequential drift visible.
+
+A tenth feature is public reason at the boundary of public power.
+
+When the state uses AI to make or support consequential decisions, citizens should not have to accept “the model said so” as a reason. The explanation may be partly technical, but the justification has to connect to public rules and legitimate objectives.
+
+A classifier can estimate. A constitution has to explain why the estimate is allowed to matter.
+
+This is the final distinction between intelligence and authority.
+
+Intelligence can tell us that one route is shorter, one patient is at higher risk, one applicant resembles previous defaults, one tax return looks anomalous, one policy may produce more growth. None of those statements, by themselves, tells us what society is entitled to do to a person.
+
+That bridge is institutional.
+
+The coming decades will produce models more capable than the ones that motivated this book. Some of the technical examples here will age. Specific benchmarks will disappear. Interfaces will change. Costs will fall. New failure modes will arrive.
+
+The allocation questions are more durable.
+
+What deserves attention? Which errors matter? Who may act? What must remain reversible? Which memory should persist? Where should expertise live? Who bears the burden of verification? Which capabilities should be public? How is dissent heard? Which powers cannot be delegated merely because delegation is convenient?
+
+A civilization capable of manufacturing intelligence will still have to answer those questions with politics, institutions, and judgment.
+
+That is not evidence that the technology failed to solve the problem.
+
+It is evidence that the real problem was never intelligence alone.
