@@ -113,3 +113,59 @@ The strongest model cannot compensate for a weak representation of state. If the
 Judgment happens at a surface.
 
 Design the surface as carefully as the mind behind it.
+
+The surface has another job: it must reveal the difference between what the system was told to do and what the world is actually doing.
+
+That distinction sits at the heart of the Three Mile Island example. A control signal could indicate that a command had been issued without proving that the physical component reached the commanded state. In ordinary software, we make this mistake constantly. A button says “sent,” but the downstream service failed. A job says “completed,” but only the first stage completed. A database records “approved,” but the bank rejected settlement. A model says it updated the file, but the write did not persist.
+
+AI makes the temptation worse because language naturally reports intention as accomplishment. An agent can say, “I’ve handled that,” when the operational reality contains five partially completed steps and one unresolved failure. The interface should refuse this grammatical compression.
+
+Command state and world state belong in different places.
+
+For any consequential workflow, the system should distinguish requested, attempted, acknowledged, completed, verified, and reversed. These states may sound bureaucratic until something breaks. Then they become the difference between investigating a known boundary and searching an entire chain.
+
+A payment workflow is an obvious example. The user authorizes a transfer. The agent submits it. The processor accepts the instruction. The receiving institution settles it. The recipient can actually use the funds. Each is a different state. “Paid” may be accurate only at the end. A conversational interface that collapses the chain into one word creates confidence faster than reality moves.
+
+The same applies to code. The agent proposes a patch. Tests pass in one environment. Review approves. Deployment begins. Health checks pass. Users receive the new version. Monitoring shows the intended effect. Calling the work “done” after step two is not merely imprecise; it changes where human attention goes next.
+
+This suggests a rule for agent interfaces: verbs should be earned by observable state.
+
+The second addition is history. A control surface should make recent change visible because many failures are understandable only as transitions. What just changed? Which model version was introduced? Which permission expanded? Which upstream source disappeared? Which alert threshold moved? A snapshot can look normal while the transition into it contains the cause of trouble.
+
+Operators in mature systems often ask about deltas before totals. A network is not merely at 70 percent utilization; it jumped from 40 percent in six minutes. A queue is not merely 900 items; it is growing by 200 items per minute. A model is not merely producing a 2 percent error rate; the rate doubled after an update.
+
+AI dashboards should privilege change when change carries information.
+
+The third addition is counterfactual visibility. Users should be able to see not only what the system recommends but what alternatives it considered consequentially different. This does not require displaying private chain-of-thought. It requires showing decision-relevant options: route A is faster but exposes customer data to a third party; route B is slower but remains internal. Approve now and the purchase is binding; wait and the price may change. Use this model and latency falls; use the other and verification evidence is stronger.
+
+Without alternatives, a recommendation arrives as destiny.
+
+With alternatives, the user can see where judgment still lives.
+
+The fourth addition is audience. The same state should not look identical to every role. A senior operator may need the whole incident tree. A customer needs a plain account of what happened to them. An auditor needs provenance and timestamps. An executive needs aggregate exposure. A developer needs traces. Designing one universal screen often produces a compromise that serves nobody.
+
+Role-specific views are not permission theater if they are derived from a shared underlying state. The important thing is that the representations remain consistent. Different people can see different levels of detail without inhabiting different realities.
+
+This is one place where language models can help. They can translate the same structured state into explanations suited to different users. But the structure has to come first. If every role receives a separately generated narrative with no common state underneath, the organization can fragment into incompatible stories.
+
+The fifth addition is interruption.
+
+The most important interface element may be the one that appears only when the normal flow should stop. Toyota’s andon idea belongs here as much as it belongs in factory design. A system needs a visible, legitimate way to declare that ordinary automation is no longer trustworthy. The interruption should be easy enough to use before catastrophe and expensive enough in attention that it is not triggered casually.
+
+An AI system might raise such an interruption when independent tools disagree, when observed outcomes diverge sharply from expectation, when a permission boundary is crossed, when input distribution shifts beyond the tested range, or when an affected person invokes an appeal. The interface then changes mode. Throughput becomes secondary. Evidence, containment, and recovery become primary.
+
+That mode change should be obvious. If the system continues to look cheerful and routine while entering an incident state, the interface lies through tone.
+
+The sixth addition is aftermath. Interfaces should help users learn after action, not merely act before it. A week after a high-consequence decision, the system can surface what happened, where the forecast was wrong, which override mattered, and which assumption should change. This closes the loop between the interface chapter and the memory chapter before it.
+
+Without aftermath, interfaces are transaction surfaces. With it, they become learning surfaces.
+
+This matters because many allocation mistakes are not dramatic enough to generate a formal incident. A queue repeatedly favors easy cases. A model recommendation is overridden by experienced workers for the same hidden reason. A particular confirmation is clicked through without reading. A warning arrives too late. Individually, none triggers a postmortem. Collectively, they reveal a design flaw.
+
+The interface is where those small frictions can become measurable evidence.
+
+Seen this way, interface design is not a secondary discipline waiting for the “real AI” to finish. It is part of the intelligence architecture itself. The model contributes inference. The tools contribute action. The organization contributes authority. The interface determines whether humans can perceive the combined state well enough to govern it.
+
+A bad interface can waste a brilliant model. A good interface can make a modest model useful by placing its output in the right context, at the right time, with the right limits.
+
+The surface is where intelligence becomes legible enough to share.
