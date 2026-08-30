@@ -3,84 +3,148 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Bookself — Books by Sven Benson</title>
-  <meta name="description" content="Bookself is a living collection of books by Sven Benson — complete drafts, works in progress, and ideas becoming books.">
+  <title>Svyable Desk — Working drafts</title>
+  <meta name="description" content="Books in the act of becoming books. Read working drafts from the Svyable Desk and released editions on Svyable Shelf.">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Bookself">
-  <meta property="og:title" content="Bookself">
-  <meta property="og:description" content="Books in the act of becoming books. Read complete drafts and works in progress by Sven Benson.">
+  <meta property="og:site_name" content="Svyable Desk">
+  <meta property="og:title" content="Svyable Desk — Working drafts">
+  <meta property="og:description" content="Books in the act of becoming books.">
   <meta property="og:url" content="https://svyable.github.io/desk/">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Bookself">
-  <meta name="twitter:description" content="Books in the act of becoming books. Read complete drafts and works in progress by Sven Benson.">
+  <meta name="twitter:title" content="Svyable Desk — Working drafts">
+  <meta name="twitter:description" content="Books in the act of becoming books.">
   <link rel="canonical" href="https://svyable.github.io/desk/">
   <link rel="describedby" href="llms.txt">
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "CollectionPage",
-    "name": "Bookself",
-    "url": "https://svyable.github.io/desk/",
-    "description": "A living collection of books by Sven Benson, including complete drafts and works in progress.",
-    "author": {"@type": "Person", "name": "Sven Benson"},
-    "hasPart": [
-      {"@type":"Book","name":"Leveraging Luck","url":"https://svyable.github.io/desk/books/leveraging-luck/README.md"},
-      {"@type":"Book","name":"The Exponentiality","url":"https://svyable.github.io/desk/books/the-exponentiality/README.md"},
-      {"@type":"Book","name":"The Unbounding","url":"https://svyable.github.io/desk/books/the-unbounding/README.md"},
-      {"@type":"Book","name":"The Convergence","url":"https://svyable.github.io/desk/books/the-convergence/README.md"},
-      {"@type":"Book","name":"Predictable","url":"https://svyable.github.io/desk/books/predictable/README.md"},
-      {"@type":"Book","name":"The World Beneath the World","url":"https://svyable.github.io/desk/books/the-world-beneath-the-world/README.md"},
-      {"@type":"Book","name":"Proof of Human","url":"https://svyable.github.io/desk/books/proof-of-human/README.md"},
-      {"@type":"Book","name":"Built to Be Alone","url":"https://svyable.github.io/desk/books/the-loneliness-dividend/README.md"},
-      {"@type":"Book","name":"Silent Cartel","url":"https://svyable.github.io/desk/books/silent-cartel/README.md"},
-      {"@type":"Book","name":"Useful Noise","url":"https://svyable.github.io/desk/books/useful-noise/README.md","author":{"@type":"Person","name":"Sven Hardy Benson"}},
-      {"@type":"Book","name":"Keep Cooking","url":"https://svyable.github.io/desk/books/keep-cooking/README.md","author":{"@type":"Person","name":"Sven Hardy Benson"}},
-      {"@type":"Book","name":"The Value Stack","url":"https://svyable.github.io/desk/books/the-value-stack/README.md","author":{"@type":"Person","name":"Sven Hard Benson"}},
-      {"@type":"Book","name":"The Delegation Machine","url":"https://svyable.github.io/desk/books/the-delegation-machine/README.md","author":{"@type":"Person","name":"Sven Hardy Benson"}},
-      {"@type":"Book","name":"The Abstraction Trap","url":"https://svyable.github.io/desk/books/the-abstraction-trap/README.md","author":{"@type":"Person","name":"Sven Hard Benson"}},
-      {"@type":"Book","name":"The Compatibility Dividend","url":"https://svyable.github.io/desk/books/the-compatibility-dividend/README.md","author":{"@type":"Person","name":"Sven Hardy Benson"}}
-    ]
-  }
-  </script>
   <style>
-    :root { font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif; color-scheme: light dark; }
-    body { max-width: 52rem; margin: 0 auto; padding: 3rem 1.25rem 5rem; line-height: 1.6; }
-    h1 { line-height: 1.1; }
-    .lede { font-size: 1.15rem; }
-    li { margin: .8rem 0; }
-    small { opacity: .75; }
+    :root {
+      color-scheme: light dark;
+      font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
+    }
+    * { box-sizing: border-box; }
+    body {
+      max-width: 64rem;
+      margin: 0 auto;
+      padding: clamp(2rem, 6vw, 5rem) 1.25rem 5rem;
+      line-height: 1.6;
+    }
+    header { margin-bottom: 3rem; }
+    h1 { margin: 0; font-size: clamp(2.5rem, 8vw, 5rem); line-height: .95; }
+    .lede { max-width: 44rem; font-size: 1.2rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .75rem; margin: 1.5rem 0; }
+    .actions a { border: 1px solid currentColor; border-radius: 999px; padding: .55rem .9rem; text-decoration: none; }
+    .meta { opacity: .72; }
+    .books { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: .85rem; }
+    .book { border-top: 1px solid color-mix(in srgb, currentColor 22%, transparent); padding: .9rem 0 1rem; }
+    .book strong { display: block; font-size: 1.08rem; }
+    .book-links { display: flex; gap: .8rem; font-size: .92rem; margin-top: .25rem; }
+    .error { border: 1px solid currentColor; padding: 1rem; max-width: 44rem; }
+    footer { margin-top: 3.5rem; padding-top: 1.25rem; border-top: 1px solid color-mix(in srgb, currentColor 22%, transparent); }
   </style>
 </head>
 <body>
+  <header>
+    <p class="meta">Svyable / Desk</p>
+    <h1>Books in the act<br>of becoming books.</h1>
+    <p class="lede">This is the working Desk: manuscripts, revisions, and complete drafts before deliberate release to the public Shelf.</p>
+    <nav class="actions" aria-label="Primary">
+      <a href="reader/"><strong>Open Desk Reader</strong></a>
+      <a href="https://svyable.github.io/shelf/reader/">Released editions</a>
+      <a href="README.md">How Desk works</a>
+    </nav>
+    <p id="catalog-meta" class="meta">Loading the working catalog…</p>
+  </header>
+
   <main>
-    <h1>Bookself</h1>
-    <p class="lede">Books in the act of becoming books.</p>
-    <p>This is Sven Benson's living Desk: complete drafts, works in progress, and ideas still becoming books. Deliberately released editions live separately on the <a href="https://svyable.github.io/shelf/reader/">Svyable Shelf</a>.</p>
-    <p><strong><a href="reader/">Read on Bookself</a></strong></p>
-
-    <h2>Books</h2>
-    <ul>
-      <li><a href="books/the-compatibility-dividend/README.md"><strong>The Compatibility Dividend</strong></a> — drafting. How standards turn strangers into systems, from fire-hose couplings and shipping containers to internet protocols, portable authority, and the machine economy. <a href="reader/#/b/the-compatibility-dividend/">Read on Desk</a>.</li>
-      <li><a href="books/the-abstraction-trap/README.md"><strong>The Abstraction Trap</strong></a> — drafting. How useful simplifications in maps, money, metrics, models, markets, and algorithms become dangerous when they begin governing the realities they describe. <a href="reader/#/b/the-abstraction-trap/">Read on Desk</a>.</li>
-      <li><a href="books/the-delegation-machine/README.md"><strong>The Delegation Machine</strong></a> — complete draft. How civilization learned to hand work away, what changes when the delegate can think back, and a practical Delegation Stack for governing agents. <a href="reader/#/b/the-delegation-machine/">Read on Desk</a>.</li>
-      <li><a href="books/the-value-stack/README.md"><strong>The Value Stack</strong></a> — drafting. How value moves from matter to capability to access to trust to meaning, and why scarcity can move power back down the stack. <a href="reader/#/b/the-value-stack/">Read on Desk</a>.</li>
-      <li><a href="books/keep-cooking/README.md"><strong>Keep Cooking</strong></a> — complete draft. Who wins when cheap machine cognition becomes a habit: token maxing across work, firms, energy, markets, households, and the global economy. <a href="reader/#/b/keep-cooking/">Read on Desk</a>.</li>
-      <li><a href="books/useful-noise/README.md"><strong>Useful Noise</strong></a> — complete draft. How warm, messy quantum systems could reshape energy, materials, measurement, and manufacturing. <a href="reader/#/b/useful-noise/">Read on Desk</a>.</li>
-      <li><a href="books/the-loneliness-dividend/README.md"><strong>Built to Be Alone</strong></a> — complete draft. How modern life engineered away community, and who's selling it back. <a href="reader/#/b/the-loneliness-dividend/">Read on Desk</a>.</li>
-      <li><a href="books/silent-cartel/README.md"><strong>Silent Cartel</strong></a> — complete draft. How pricing algorithms learned to collude without talking, and what it means for the price of everything. <a href="reader/#/b/silent-cartel/">Read on Desk</a>.</li>
-      <li><a href="books/the-world-beneath-the-world/README.md"><strong>The World Beneath the World</strong></a> — complete draft. A sensory guide to the invisible physical, biological, infrastructural, and standards-based systems that run ordinary life. <a href="reader/#/b/the-world-beneath-the-world/">Read on Desk</a>.</li>
-      <li><a href="books/proof-of-human/README.md"><strong>Proof of Human</strong></a> — complete draft. Trust, truth, and value in an age when fabrication is cheap and verified authenticity is the scarce resource. <a href="reader/#/b/proof-of-human/">Read on Desk</a>.</li>
-      <li><a href="books/predictable/README.md"><strong>Predictable</strong></a> — drafting. AI, prediction markets, capital cycles, and the gap between technological truth and financial value. <a href="reader/#/b/predictable/">Read on Desk</a>.</li>
-      <li><a href="books/the-convergence/README.md"><strong>The Convergence</strong></a> — drafting. <a href="reader/#/b/the-convergence/">Read on Desk</a>.</li>
-      <li><a href="books/the-unbounding/README.md"><strong>The Unbounding</strong></a> — complete draft. <a href="reader/#/b/the-unbounding/">Read on Desk</a>.</li>
-      <li><a href="books/the-exponentiality/README.md"><strong>The Exponentiality</strong></a> — not yet drafted. <a href="reader/#/b/the-exponentiality/">Preview on Desk</a>.</li>
-      <li><a href="books/leveraging-luck/README.md"><strong>Leveraging Luck</strong></a> — revision in progress. <a href="reader/#/b/leveraging-luck/">Read on Desk</a>.</li>
-    </ul>
-
-    <h2>For agents and crawlers</h2>
-    <p>Use <a href="llms.txt">llms.txt</a> for the curated content map, <a href="sitemap.xml">sitemap.xml</a> for key public URLs, <a href="robots.txt">robots.txt</a> for crawl policy, and <a href="AGENTS.md">AGENTS.md</a> before modifying repository content.</p>
-
-    <p><small>This is a Desk working-draft surface, not a publication state. A book becomes published only when explicitly released to Svyable Shelf.</small></p>
+    <h2>Working catalog</h2>
+    <ul id="books" class="books" aria-live="polite"></ul>
+    <noscript><p class="error">JavaScript is off. The complete catalog is available in <a href="README.md#the-books">README.md</a>.</p></noscript>
   </main>
+
+  <footer>
+    <p><strong>Desk is not publication.</strong> A working draft becomes a released edition only when it is explicitly released to <a href="https://svyable.github.io/shelf/reader/">Svyable Shelf</a>.</p>
+    <p class="meta">For agents and crawlers: <a href="llms.txt">llms.txt</a> · <a href="sitemap.xml">sitemap.xml</a> · <a href="robots.txt">robots.txt</a> · <a href="AGENTS.md">AGENTS.md</a></p>
+  </footer>
+
+  <script>
+    function parseCatalog(markdown) {
+      const marker = '## The books';
+      const start = markdown.indexOf(marker);
+      if (start < 0) throw new Error('README catalog section is missing');
+      const tail = markdown.slice(start + marker.length);
+      const next = tail.search(/^##\s+/m);
+      const section = next >= 0 ? tail.slice(0, next) : tail;
+      const row = /^\|\s*\[([^\]]+)\]\(books\/([^/]+)\/\)\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*$/gm;
+      return [...section.matchAll(row)].map((match) => ({
+        title: match[1],
+        slug: match[2],
+        readerLabel: match[3],
+        readerUrl: match[4],
+      }));
+    }
+
+    function addStructuredData(books) {
+      const data = {
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Svyable Desk',
+        url: 'https://svyable.github.io/desk/',
+        description: 'Working drafts of books by Sven Hardy Benson.',
+        author: { '@type': 'Person', name: 'Sven Hardy Benson' },
+        hasPart: books.map((book) => ({
+          '@type': 'Book',
+          name: book.title,
+          url: `https://svyable.github.io/desk/books/${book.slug}/README.md`,
+        })),
+      };
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.textContent = JSON.stringify(data);
+      document.head.appendChild(script);
+    }
+
+    async function loadCatalog() {
+      const list = document.getElementById('books');
+      const meta = document.getElementById('catalog-meta');
+      try {
+        const response = await fetch('README.md', { cache: 'no-cache' });
+        if (!response.ok) throw new Error(`README returned ${response.status}`);
+        const books = parseCatalog(await response.text());
+        if (!books.length) throw new Error('README catalog contains no books');
+
+        const fragment = document.createDocumentFragment();
+        for (const book of books) {
+          const item = document.createElement('li');
+          item.className = 'book';
+
+          const title = document.createElement('strong');
+          const repoLink = document.createElement('a');
+          repoLink.href = `books/${book.slug}/`;
+          repoLink.textContent = book.title;
+          title.appendChild(repoLink);
+
+          const links = document.createElement('div');
+          links.className = 'book-links';
+          const read = document.createElement('a');
+          read.href = book.readerUrl;
+          read.textContent = 'Read draft';
+          const files = document.createElement('a');
+          files.href = `books/${book.slug}/`;
+          files.textContent = 'Project files';
+          links.append(read, files);
+
+          item.append(title, links);
+          fragment.appendChild(item);
+        }
+        list.replaceChildren(fragment);
+        meta.textContent = `${books.length} working book projects · cataloged from README.md`;
+        addStructuredData(books);
+      } catch (error) {
+        list.innerHTML = `<li class="error">Could not load the catalog: ${error.message}. Open <a href="README.md#the-books">README.md</a> instead.</li>`;
+        meta.textContent = 'Catalog unavailable';
+      }
+    }
+
+    loadCatalog();
+  </script>
 </body>
 </html>
