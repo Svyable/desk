@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 14 of 20 drafted |
+| **Chapters** | 15 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -31,7 +31,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 12 — Careers in a Fog](manuscript/ch12-careers-in-a-fog.md)
 - [x] [Ch 13 — The General and the Map of Possible Wars](manuscript/ch13-the-general-and-the-map-of-possible-wars.md)
 - [x] [Ch 14 — Standards Shrink the Search Space](manuscript/ch14-standards-shrink-the-search-space.md)
-- [ ] Ch 15 — Search Under Constraint
+- [x] [Ch 15 — Search Under Constraint](manuscript/ch15-search-under-constraint.md)
 - [ ] Ch 16 — The Machine That Generates Possibilities
 - [ ] Ch 17 — Verification Becomes the Bottleneck
 - [ ] Ch 18 — The Politics of What Gets Tried
