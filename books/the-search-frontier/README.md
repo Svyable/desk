@@ -16,7 +16,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 
 ## Contents
 
-- [ ] Front Matter
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Room of Possible Moves](manuscript/ch01-the-room-of-possible-moves.md)
 - [x] [Ch 2 — The Price of Looking](manuscript/ch02-the-price-of-looking.md)
 - [x] [Ch 3 — Explore, Exploit](manuscript/ch03-explore-exploit.md)
@@ -37,7 +37,12 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 18 — The Politics of What Gets Tried](manuscript/ch18-the-politics-of-what-gets-tried.md)
 - [x] [Ch 19 — When to Stop Searching](manuscript/ch19-when-to-stop-searching.md)
 - [x] [Ch 20 — A Civilization That Can Change Its Mind](manuscript/ch20-a-civilization-that-can-change-its-mind.md)
-- [ ] Back Matter
+- [x] [Back Matter](manuscript/back-matter.md)
+
+## Rights
+
+- [Rights & permissions](RIGHTS.md)
+- [Machine-readable rights metadata](rights.json)
 
 ## Research
 
