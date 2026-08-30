@@ -66,11 +66,15 @@ That is what surplus does at its most basic. It separates the timing of energy c
 
 Imagine two communities with the same annual food energy. One consumes almost everything as it appears. The other can preserve a meaningful share for months. Their annual caloric totals may be identical, yet their options are not. The second community can survive a short interruption, provision a work party, support travel during a lean period, accumulate seed for planting, or concentrate labor on a task whose payoff comes later.
 
-Agriculture also made energy more legible to institutions. A herd can be counted. A field can be measured. A basket of grain can be weighed or estimated. A storehouse can be guarded. A portion can be demanded.
+Agriculture also made some forms of energy more legible to institutions. A herd can be counted. A field can be measured. A basket of grain can be weighed or estimated. A storehouse can be guarded. A portion can be demanded.
 
-The same properties that make a surplus useful make it extractable.
+The same properties that make a surplus useful can make it easier to extract.
 
-A cache of roots scattered across a landscape is difficult for a distant authority to assess. Grain gathered into a settlement is easier. It matures on a seasonal schedule, can be divided, stored, transported, and inspected. A granary does not invent taxation, but it creates the kind of resource around which taxation becomes practical.
+Economists Joram Mayshar, Omer Moav, and Luigi Pascali have argued that this mattered for state formation. Their 2022 study distinguishes cereal agriculture from land productivity itself: grain tends to ripen on a visible schedule and can be divided, stored, transported, and seized, while many roots and tubers can remain underground and be harvested less conspicuously. Across several historical and ethnographic datasets, they find evidence consistent with the idea that cereal suitability made surplus more appropriable by elites.
+
+The claim is interesting because it gives the old grain-and-tax story a mechanism. It is not settled. A 2026 comment by Nikolai Cook, Thibaut Duprey, Anthony Heyes, and Martino Pelli reanalyzed the Ethnographic Atlas result and found that the relationship was concentrated in the transition from tribe-chiefdom societies to states rather than across hierarchy more generally. They also found the instrumental-variable result sensitive to a small number of extreme observations.
+
+So a cache of roots scattered across a landscape may indeed be harder for a distant authority to assess than grain gathered into a settlement. But the physical properties of cereal crops do not amount to a universal law of political development. They change the ease of extraction. Whether that possibility becomes tax, tribute, communal insurance, household property, or something else depends on institutions that the crop itself does not choose.
 
 Those claims are not necessarily predatory. Shared stores can buffer famine. Collective labor can build walls, roads, canals, temples, drainage systems, and defensive works no household could easily produce alone. A political center can coordinate projects across hundreds or thousands of people. Surplus can support people whose knowledge is valuable but whose work does not yield food directly.
 
