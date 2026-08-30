@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Complete draft |
+| **Status**    | Complete draft + living afterword |
 | **Chapters**  | 25 of 25 drafted |
 
 ## Contents
@@ -34,6 +34,7 @@
 - [x] [Ch 23 — Markets Full of Minds](manuscript/ch23-markets-full-of-minds.md)
 - [x] [Ch 24 — Three Futures for Cheap Thought](manuscript/ch24-three-futures-for-cheap-thought.md)
 - [x] [Ch 25 — When to Stop Cooking](manuscript/ch25-when-to-stop-cooking.md)
+- [x] [Afterword — The Overnight Shift](manuscript/afterword-the-overnight-shift.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
@@ -41,3 +42,7 @@
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+
+## Living-book note
+
+The manuscript now carries an afterword for the August 30, 2026 threshold: the moment long-horizon, correction-remembering, collaborating agents became plausible enough to change the argument from **more inference** to **durable responsibility**. The initiating social-media screenshot is treated as an unverified cultural artifact, not as a product specification.
