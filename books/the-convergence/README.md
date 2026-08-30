@@ -14,7 +14,7 @@ The working thesis is that the advance of human civilization can be read through
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — Fire Before History](manuscript/ch01-fire-before-history.md)
 - [x] [Ch 2 — The First Surplus](manuscript/ch02-the-first-surplus.md)
 - [x] [Ch 3 — Coal and the Compression of Time](manuscript/ch03-coal-and-the-compression-of-time.md)
