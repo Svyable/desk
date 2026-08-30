@@ -2,9 +2,11 @@
 
 A data center is a promise with a power contract.
 
-That is the useful way to think about the largest artificial-intelligence infrastructure announcements of the present era. They arrive in public as numbers so large that they become difficult to picture. Hundreds of billions of dollars. Gigawatts. Campuses. Accelerators counted by the hundreds of thousands. New substations, transmission lines, cooling systems, fiber routes, financing vehicles, land deals, gas turbines, solar farms, nuclear agreements, and queues for electrical equipment that most software users have never had reason to name.
+That is the useful way to think about the largest artificial-intelligence infrastructure announcements of the present era. They arrive in public as numbers so large that they become difficult to picture. Hundreds of billions of dollars. Gigawatts. Campuses. Accelerators counted by the hundreds of thousands. New substations, transmission lines, cooling systems, fiber routes, financing vehicles, land deals, and queues for electrical equipment that most software users have never had reason to name.
 
-The natural response is to treat these announcements as spectacle. The better response is to treat them as a bill of materials for a forecast.
+In January 2025, OpenAI announced the Stargate Project with an intention to invest $500 billion over four years, beginning with $100 billion. By September of that year it said announced Stargate sites represented nearly seven gigawatts of planned capacity and more than $400 billion of investment over three years. A month later, after adding a Michigan project, it described the planned footprint as exceeding eight gigawatts and $450 billion. Those are company announcements, not a claim that every dollar was already spent or every gigawatt commissioned. The distinction matters. So does the willingness to announce the commitment at all. [SI-010][SI-011][SI-012]
+
+The natural response is to treat numbers like these as spectacle. The better response is to treat them as a bill of materials for a forecast.
 
 The forecast is that the world will consume much more machine intelligence than it does today.
 
@@ -126,7 +128,7 @@ Intelligence is becoming an industrial output.
 
 It has factories. Inputs. Supply chains. Bottlenecks. Capacity planning. Yield problems. Energy intensity. Financing costs. Depreciation schedules. Geographic constraints. Strategic reserves. Commodity-like units sold through APIs and bundled into retail products.
 
-This does not make intelligence identical to electricity. Cognition is heterogeneous. Model quality matters. Latency matters. context matters. Reliability matters. Different tasks consume different quantities of compute, and the value of an answer is not measured by the joules used to produce it.
+This does not make intelligence identical to electricity. Cognition is heterogeneous. Model quality matters. Latency matters. Context matters. Reliability matters. Different tasks consume different quantities of compute, and the value of an answer is not measured by the joules used to produce it.
 
 But industrialization changes the intuition that intelligence must remain expensive because human expertise is expensive.
 
@@ -171,3 +173,7 @@ A question. An answer. A task completed.
 Twenty dollars a month.
 
 And somewhere far away, a power plant notices.
+
+### Source notes
+
+Claims tagged **SI-010**, **SI-011**, and **SI-012** are documented in `../research/source-ledger.csv`. The ledger deliberately distinguishes announced investment and planned capacity from cash spent and commissioned capacity.
