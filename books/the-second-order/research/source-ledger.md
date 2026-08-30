@@ -89,3 +89,37 @@ The chapter's argument should weaken if high-stakes metrics generally remain fai
 ## Chapter-level falsification note
 
 The chapter should be weakened if economic agents generally fail to adjust even when policy changes are salient, consequential, and cheap to respond to, or if historical relationships routinely remain invariant across major regime changes without conditioning on expectations and institutions. It should also be weakened by evidence that observed bunching is mostly mechanical reporting artifact rather than behavioral response. Conversely, the strong evidence of nonresponse and friction in both U.S. and Pakistani tax data is retained because the book's claim is adaptation under constraints, not perfect optimization.
+
+## Chapter 4 — Prices That Create Their Own Evidence
+
+### Tobias Adrian and Hyun Song Shin — liquidity and leverage
+
+- **Source:** Tobias Adrian and Hyun Song Shin, “Liquidity and Leverage,” Federal Reserve Bank of New York Staff Report No. 328, May 2008, revised December 2010; published in *Journal of Financial Intermediation* 19(3), 2010, pp. 418–437.
+- **Federal Reserve record:** https://www.newyorkfed.org/research/staff_reports/sr328.html
+- **Supports:** the chapter's central balance-sheet mechanism: in marked-to-market systems, asset-price changes alter measured net worth and can prompt intermediaries to expand or contract balance sheets; the authors document strongly procyclical leverage for important financial intermediaries.
+- **Caution:** the chapter does not claim all financial institutions manage leverage identically or that every price movement is caused by balance-sheet feedback.
+
+### Committee on the Global Financial System — valuation and leverage procyclicality
+
+- **Source:** Bank for International Settlements, Committee on the Global Financial System, *The Role of Valuation and Leverage in Procyclicality*, CGFS Papers No. 34, April 17, 2009.
+- **Record:** https://www.bis.org/publications/cgfs-paper-34-role-valuation-and-leverage-procyclicality
+- **Supports:** the claim that market-sensitive valuation and leverage practices can contribute to procyclical amplification and that policy design can aim to reduce that amplification without discarding market information.
+- **Caution:** the report discusses mechanisms and policy options; it does not imply mark-to-market valuation is always destabilizing or inferior to stale accounting values.
+
+### Committee on the Global Financial System — margins and haircuts
+
+- **Source:** Bank for International Settlements, Committee on the Global Financial System, *The Role of Margin Requirements and Haircuts in Procyclicality*, CGFS Papers No. 36, March 23, 2010.
+- **Record:** https://www.bis.org/publications/cgfs-paper-36-role-margin-requirements-and-haircuts-procyclicality
+- **Supports:** the chapter's description of collateral terms, margin requirements, and haircuts as mechanisms that change access to credit and risk-taking and can amplify leverage cycles.
+- **Caution:** margins also protect lenders and counterparties; the chapter treats them as necessary risk-management tools with possible system-level side effects, not as mistakes to abolish.
+
+### Ilhyock Shim and Goetz von Peter — distress selling and feedback
+
+- **Source:** Ilhyock Shim and Goetz von Peter, “Distress Selling and Asset Market Feedback,” BIS Working Papers No. 229, June 2007.
+- **Record:** https://www.bis.org/publ/work229.htm
+- **Supports:** the fire-sale mechanism in which an initial trigger causes sales, lower prices, and additional rounds of selling through balance-sheet and market feedback.
+- **Caution:** forced selling is one component of price formation; the manuscript does not use fire-sale models to dismiss all distressed prices as non-fundamental.
+
+## Chapter-level falsification note
+
+The chapter should weaken if market-sensitive balance sheets, collateral terms, and risk constraints generally have negligible effects on position size and market demand, or if forced-sale episodes do not measurably amplify price moves beyond initial information shocks. It should also weaken if evidence shows heterogeneous constraints reliably offset one another at system scale. Counterevidence that market valuation improves loss recognition and that margins reduce counterparty risk is preserved because the design problem is amplification, not the existence of market-sensitive controls.
