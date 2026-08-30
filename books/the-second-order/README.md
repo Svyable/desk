@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 12 of 20 drafted |
+| **Chapters** | 13 of 20 drafted |
 
 *What Happens When the World Reacts to the Model*
 
@@ -29,7 +29,7 @@ The central argument is that prediction and measurement become governance when d
 - [x] [Ch 10 — A/B Testing a Moving Population](manuscript/ch10-a-b-testing-a-moving-population.md)
 - [x] [Ch 11 — The Benchmark Becomes the Product](manuscript/ch11-the-benchmark-becomes-the-product.md)
 - [x] [Ch 12 — The Agent Changes Its Teacher](manuscript/ch12-the-agent-changes-its-teacher.md)
-- [ ] Ch 13 — Adversaries Read the Model
+- [x] [Ch 13 — Adversaries Read the Model](manuscript/ch13-adversaries-read-the-model.md)
 - [ ] Ch 14 — Reflexive Markets
 - [ ] Ch 15 — Policy as a Game With Memory
 - [ ] Ch 16 — When Everyone Has the Forecast
