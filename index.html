@@ -16,17 +16,9 @@
   <link rel="canonical" href="https://svyable.github.io/desk/">
   <link rel="describedby" href="llms.txt">
   <style>
-    :root {
-      color-scheme: light dark;
-      font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif;
-    }
+    :root { color-scheme: light dark; font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif; }
     * { box-sizing: border-box; }
-    body {
-      max-width: 64rem;
-      margin: 0 auto;
-      padding: clamp(2rem, 6vw, 5rem) 1.25rem 5rem;
-      line-height: 1.6;
-    }
+    body { max-width: 64rem; margin: 0 auto; padding: clamp(2rem, 6vw, 5rem) 1.25rem 5rem; line-height: 1.6; }
     header { margin-bottom: 3rem; }
     h1 { margin: 0; font-size: clamp(2.5rem, 8vw, 5rem); line-height: .95; }
     .lede { max-width: 44rem; font-size: 1.2rem; }
@@ -50,6 +42,7 @@
       <a href="reader/"><strong>Open Desk Reader</strong></a>
       <a href="https://svyable.github.io/shelf/reader/">Released editions</a>
       <a href="README.md">How Desk works</a>
+      <a href="pages-health.html">Pages health</a>
     </nav>
     <p id="catalog-meta" class="meta">Loading the working catalog…</p>
   </header>
@@ -73,13 +66,21 @@
       const tail = markdown.slice(start + marker.length);
       const next = tail.search(/^##\s+/m);
       const section = next >= 0 ? tail.slice(0, next) : tail;
-      const row = /^\|\s*\[([^\]]+)\]\(books\/([^/]+)\/\)\s*\|\s*\[([^\]]+)\]\(([^)]+)\)\s*\|\s*$/gm;
-      return [...section.matchAll(row)].map((match) => ({
-        title: match[1],
-        slug: match[2],
-        readerLabel: match[3],
-        readerUrl: match[4],
-      }));
+      const books = [];
+
+      for (const line of section.split('\n')) {
+        if (!line.startsWith('|')) continue;
+        const match = line.match(/^\|\s*\[(.*?)\]\(books\/([^/]+)\/\)\s*\|/);
+        if (!match) continue;
+        const title = match[1].replace(/^\*\*|\*\*$/g, '').trim();
+        const slug = match[2];
+        books.push({
+          title,
+          slug,
+          readerUrl: `https://svyable.github.io/desk/reader/#/b/${slug}/`,
+        });
+      }
+      return books;
     }
 
     function addStructuredData(books) {
@@ -88,8 +89,7 @@
         '@type': 'CollectionPage',
         name: 'Svyable Desk',
         url: 'https://svyable.github.io/desk/',
-        description: 'Working drafts of books by Sven Hardy Benson.',
-        author: { '@type': 'Person', name: 'Sven Hardy Benson' },
+        description: 'Working drafts from Svyable Desk.',
         hasPart: books.map((book) => ({
           '@type': 'Book',
           name: book.title,
