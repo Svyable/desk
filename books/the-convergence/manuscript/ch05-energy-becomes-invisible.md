@@ -257,3 +257,25 @@ A household once watched the coal bin empty.
 Today the service often arrives through an interface.
 
 The causal chain has grown longer. Dependence has not grown weaker.
+
+In some ways it has grown stronger because more activities now assume that cheap, high-quality energy will be available continuously. A hospital cannot compensate for unreliable electricity by reminding itself that average annual energy supply is adequate. A data center cannot run on statistical abundance. An elevator needs power when the passenger presses the button.
+
+The service perspective therefore points toward reliability as well as efficiency.
+
+The value of an energy system is not simply how much energy it contains or even how efficiently it converts that energy. It matters whether useful output can be delivered where and when it is wanted, at a cost people can bear, without external costs overwhelming the gain.
+
+This is a harder standard than consumption.
+
+It is also closer to what civilization is for.
+
+The candle did something extraordinary. It let humans purchase a little more day.
+
+Two centuries of lighting technology did not merely make candles cheaper. It made the old rationing problem almost disappear for billions of people with reliable electricity access.
+
+Once the service became cheap, demand exploded. Streets glowed. Factories ran after sunset. Homes filled with lamps. Cities became visible from orbit.
+
+Efficiency did not end appetite.
+
+It changed the price of appetite.
+
+That is the paradox waiting in the next chapter.
