@@ -66,6 +66,7 @@ When adding or renaming a book:
 | Book | Working draft |
 |---|---|
 | [Aggregate, Consolidate, Innovate](books/aggregate-consolidate-innovate/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
+| [Artificial Promises](books/artificial-promises/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [Built to Be Alone](books/the-loneliness-dividend/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [Exponential Compression](books/exponential-compression/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [Gatekeepers](books/gatekeepers/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
@@ -79,6 +80,7 @@ When adding or renaming a book:
 | [Silent Cartel](books/silent-cartel/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
 | [Single Points of Failure](books/single-points-of-failure/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
 | [Source Code](books/source-code/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/source-code/) |
+| [Subsidized Intelligence](books/subsidized-intelligence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/subsidized-intelligence/) |
 | [Synthetic Intelligence](books/synthetic-intelligence/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) |
 | [The Abstraction Trap](books/the-abstraction-trap/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
 | [The Bureaucracy of Heaven](books/the-bureaucracy-of-heaven/) | [Read in Desk](https://svyable.github.io/desk/reader/#/b/the-bureaucracy-of-heaven/) |
