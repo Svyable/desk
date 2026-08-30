@@ -15,33 +15,34 @@ body:
       label: Book
       description: Which book is this about?
       options:
+        - aggregate-consolidate-innovate
+        - gatekeepers
+        - keep-cooking
         - leveraging-luck
-        - the-exponentiality
-        - the-unbounding
-        - the-convergence
-        - predictable
-        - the-world-beneath-the-world
-        - proof-of-human
-        - single-points-of-failure
+        - look-alive
         - make-yourself-useful
-        - the-loneliness-dividend
+        - predictable
+        - proof-of-human
+        - scaling-laws
         - silent-cartel
-        - useful-noise
+        - single-points-of-failure
         - source-code
         - synthetic-intelligence
-        - the-reliability-tax
-        - keep-cooking
-        - to-state-the-obvious
-        - the-value-stack
-        - the-delegation-machine
         - the-abstraction-trap
-        - gatekeepers
-        - aggregate-consolidate-innovate
         - the-compatibility-dividend
-        - scaling-laws
-        - vectors
+        - the-convergence
+        - the-delegation-machine
+        - the-exponentiality
+        - the-loneliness-dividend
+        - the-reliability-tax
         - the-search-frontier
-        - _TEMPLATE
+        - the-unbounding
+        - the-value-stack
+        - the-vanishing-bid
+        - the-world-beneath-the-world
+        - to-state-the-obvious
+        - useful-noise
+        - vectors
     validations:
       required: true
   - type: input
