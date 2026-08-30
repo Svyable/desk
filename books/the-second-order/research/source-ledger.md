@@ -60,3 +60,35 @@ The opening argument should be weakened if consequential deployment routinely le
 ## Chapter-level falsification note
 
 The chapter's argument should weaken if high-stakes metrics generally remain faithful to their underlying objectives even when actors can see the incentives, cheaply manipulate classifications, or substitute into unmeasured activity. Counterevidence matters in the other direction too: examples where targets cause genuine improvement without substantial proxy distortion support the narrower claim that the problem is not measurement itself but the relationship among proxy, objective, consequences, and room for adaptation.
+
+## Chapter 3 — The Economy Learns the Rule
+
+### Finn E. Kydland and Edward C. Prescott — time consistency
+
+- **Source:** Finn E. Kydland and Edward C. Prescott, “Rules Rather than Discretion: The Inconsistency of Optimal Plans,” *Journal of Political Economy*, 85(3), June 1977, pp. 473–491.
+- **DOI:** https://doi.org/10.1086/260580
+- **Publisher record:** https://www.journals.uchicago.edu/doi/10.1086/260580
+- **Supports:** the chapter's claim that economic planning differs from control of passive nature because forward-looking agents condition current behavior on expected future policy, creating time-consistency and commitment problems.
+- **Caution:** the manuscript uses this as an institutional mechanism, not as a claim that fixed mechanical rules dominate discretion in every policy domain.
+
+### Federal Reserve — October 1979 reform
+
+- **Source:** David E. Lindsey, Athanasios Orphanides, and Robert H. Rasche, “The Reform of October 1979: How It Happened and Why,” Federal Reserve Board, Finance and Economics Discussion Series, January 2005.
+- **Record:** https://www.federalreserve.gov/econres/feds/the-reform-of-october-1979-how-it-happened-and-why.htm
+- **Supports:** the chapter's account that the FOMC adopted the October 1979 operating reform after concluding gradualism was inadequate for fighting inflation and reversing inflation expectations, and that the change needed to allow substantial increases in short-term rates while convincing financial-market participants it would work.
+- **Caution:** this retrospective does not establish that credibility alone caused the subsequent fall in inflation.
+
+- **Source:** Federal Reserve History, “Volcker's Announcement of Anti-Inflation Measures,” October 1979 episode.
+- **Record:** https://www.federalreservehistory.org/essays/anti-inflation-measures
+- **Supports:** the dates, institutional sequence, and description of the shift toward reserve management under Volcker; it also documents the severe economic and political costs surrounding the anti-inflation campaign.
+
+### Thomas J. Sargent — regime change and inflation
+
+- **Source:** Thomas J. Sargent, “The Ends of Four Big Inflations,” in Robert E. Hall (ed.), *Inflation: Causes and Effects*, University of Chicago Press, 1982.
+- **NBER record:** https://www.nber.org/books-and-chapters/inflation-causes-and-effects/ends-four-big-inflations
+- **Supports:** the chapter's narrower historical claim that ending very high inflation can involve credible changes in broader fiscal and monetary regimes rather than a single temporary action.
+- **Caution:** Sargent's cases concern postwar European inflations, not the Volcker disinflation; the manuscript keeps those historical episodes separate.
+
+## Chapter-level falsification note
+
+The chapter's argument should weaken if consequential policy-regime changes systematically leave forward-looking behavior unchanged, or if repeated exceptions fail to affect the credibility of future commitments. It should also weaken if rigid rules consistently outperform adaptive but procedurally credible institutions across environments with genuine structural change. The chapter therefore treats credibility as an amplifier, not as an unconditional good.
