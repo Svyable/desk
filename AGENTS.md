@@ -13,8 +13,9 @@ Rules for AI agents working in this repository.
   minimum length and chapter count such a run should hit.
 - When you add, rename, or remove a chapter, update that book's README
   table of contents and the Chapters count in the same change.
-- When you add a book, add its slug to the Book dropdown in
-  `.github/ISSUE_TEMPLATE/chapter-feedback.yml` in the same change.
+- When you add, rename, or remove a book, keep the root README catalog and the
+  Book dropdown in `.github/ISSUE_TEMPLATE/chapter-feedback.yml` synchronized,
+  then run `python3 scripts/check-desk.py` before finishing.
 
 ## Desk / Shelf boundary
 
@@ -42,12 +43,14 @@ Desk Reader bootstrap may also reuse the public Shelf Reader UI at runtime.
 ## Local-first invariant
 
 This Desk must remain fully usable with **zero GitHub Actions minutes**.
-Writing, local preview, release preparation, and recovery must not depend on
-hosted CI/CD, Actions runners, build artifacts, or deployment jobs.
+Writing, local preview, release preparation, integrity checks, and recovery must
+not depend on hosted CI/CD, Actions runners, build artifacts, or deployment
+jobs.
 
 The public Desk Reader is branch-served static Pages and is an optional
 convenience surface, not a prerequisite for writing or releasing. The normal
-release helper runs locally with Git and Python's standard library.
+release helper and `scripts/check-desk.py` run locally with Python's standard
+library.
 
 ## Voice
 
@@ -78,8 +81,8 @@ release helper runs locally with Git and Python's standard library.
   style) as a drive-by.
 - Do not add a build step, CODEOWNERS, branch protection, or an Actions-based
   preview workflow unless a human asks for it by name.
-- Do not make writing, preview, or release depend on GitHub Actions, hosted CI,
-  or paid automation minutes.
+- Do not make writing, preview, integrity checking, or release depend on GitHub
+  Actions, hosted CI, or paid automation minutes.
 - Do not commit secrets or credentials.
 - Do not remove, privatize, broaden, or otherwise change the human-approved
   Desk Pages exposure model unless a human asks.
@@ -90,11 +93,15 @@ release helper runs locally with Git and Python's standard library.
 ## Verbs (author and agent)
 
 **Start a book.** Copy `books/_TEMPLATE/` to `books/<slug>/`. Fill title,
-authors, `Status: Drafting`. Add the slug to the chapter-feedback dropdown.
+authors, `Status: Drafting`. Add the book to the root `## The books` catalog and
+the chapter-feedback Book dropdown, then run `python3 scripts/check-desk.py`.
 
-**Write / edit.** One chapter file per change. If you add, rename, or remove
-a chapter, update that book's README TOC and Chapters count in the same
-change.
+**Write / edit.** One chapter file per change. If you add, rename, or remove a
+chapter, update that book's README TOC and Chapters count in the same change.
+
+**Check Desk.** Run `python3 scripts/check-desk.py`. It verifies that real book
+folders, Reader catalog rows, direct Reader slugs, the feedback dropdown, and
+the Desk Reader compatibility guard agree. It requires no network access.
 
 **Preview.** The public working preview is
 `https://svyable.github.io/desk/reader/`; a direct book route is
