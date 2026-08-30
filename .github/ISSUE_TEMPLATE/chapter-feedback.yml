@@ -16,6 +16,7 @@ body:
       description: Which book is this about?
       options:
         - aggregate-consolidate-innovate
+        - agentile
         - artificial-promises
         - exponential-compression
         - gatekeepers
