@@ -249,3 +249,87 @@ By then, the banks may be healthy, the insurers may be earning more, the retiree
 The wrong yield will not look wrong to anyone except the borrower.
 
 That is enough.
+
+## The Capacity Behind the Buyer
+
+A useful way to evaluate Treasury demand is to stop counting buyers and start counting balance-sheet capacity.
+
+A bank can want Treasuries and still be unable to intermediate another large block at the same price.
+
+An insurer can prefer long bonds and still have limits determined by liabilities, capital rules, ratings, and portfolio concentration.
+
+A pension can desire duration while keeping enough liquid assets to meet collateral calls and benefit payments.
+
+A hedge fund can provide powerful marginal demand only while repo and margin economics support the trade.
+
+The willingness to own is not the same as the capacity to own through stress.
+
+This distinction changes the meaning of the question *Who will buy all the debt?*
+
+The answer is not a list of institutions.
+
+It is a map of constraints.
+
+Money funds have asset-composition and maturity constraints.
+
+Banks have capital, leverage, liquidity, and funding constraints.
+
+Dealers have inventory, risk, and balance-sheet constraints.
+
+Insurers have liability and regulatory constraints.
+
+Pensions have funding and liquidity constraints.
+
+Foreign investors have currency and hedging constraints.
+
+Leveraged funds have repo and margin constraints.
+
+Households have wealth and convenience constraints.
+
+As Treasury issuance grows, yields move partly to compensate the next constraint that becomes binding.
+
+This is why a market can appear to have bottomless demand at one maturity and weak demand at another.
+
+There can be trillions of dollars in money-market funds ready for bills while a thirty-year auction still needs a concession because money funds do not want thirty-year duration.
+
+Aggregate savings do not erase preferred habitats.
+
+The policy implication is subtle.
+
+Treasury cannot solve a long-term refinancing problem merely by issuing to whichever buyer class currently has the most cash. Doing so can shorten the portfolio and transfer rate risk back to taxpayers.
+
+Nor can it force long-duration supply into the market without paying the premium required by the investors suited to hold it.
+
+Good debt management is partly the art of respecting the balance sheets on the other side.
+
+Market-structure reform can expand those balance sheets at the margin.
+
+Central clearing can allow netting that reduces redundant gross exposures. Better transparency can make risk easier to price. Well-designed leverage rules can preserve bank resilience while avoiding unnecessary constraints on low-risk intermediation. Standing repo facilities can reduce the chance that a temporary cash shortage turns good collateral into forced selling.
+
+None of these tools creates genuine end-investor demand from nothing.
+
+They make existing demand easier to connect with supply.
+
+That difference is important because fiscal policy can be tempted to treat financial regulation as a hidden financing lever.
+
+If banks are required to hold more government debt, Treasury may gain demand.
+
+If the rule is genuinely justified by liquidity and prudential needs, that can make the system safer.
+
+If regulation is altered mainly to create captive demand and suppress the government's borrowing rate, financial repression begins to enter the picture.
+
+The line between safety and subsidy becomes politically important as debt grows.
+
+Banks and insurers are therefore more than buyers in this story.
+
+They are a test of whether the Treasury market can scale without forcing private finance to reorganize around the government's needs.
+
+A healthy system lets institutions own Treasuries because the assets fit their purposes.
+
+A strained system increasingly needs institutions to own Treasuries because the government needs them to.
+
+The securities can be identical.
+
+The institutional relationship is not.
+
+That is another way the wrong yield can reveal the wall before any default risk appears.
