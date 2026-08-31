@@ -189,3 +189,115 @@ It is the one that can be wrong about the war, wrong about inflation, wrong abou
 Tomorrow is not a forecast.
 
 It is the asset you are trying to preserve.
+
+A resilient portfolio also has an order of operations.
+
+That sounds pedestrian until a crisis arrives and everything feels urgent at once. The household sees markets falling, news worsening, gasoline rising, a relative asking for help, and an employer warning about demand. Ten decisions appear to require immediate attention.
+
+They do not all belong to the same clock.
+
+The first question is operational: are people safe, are essential bills funded, are accounts accessible, are medications and documents available, is there a reason cash needs have changed? If the answer is yes, the investment portfolio may not need to move at all.
+
+The second question is structural: did a fact change the long-term economics or legal status of something you own? A sanctioned security, impaired business, closed market, destroyed asset, or permanent change in regulation can require action different from ordinary volatility.
+
+The third question is allocation: did price movement push a position outside the range the plan intended? Rebalancing belongs here.
+
+The fourth question is tactical and optional: is there a genuinely attractive new opportunity created by the dislocation?
+
+Fear usually tries to reverse this sequence.
+
+It wants to trade first.
+
+Operations can wait.
+
+That is how investors end up buying a geopolitical fund while the emergency contact on the retirement account is ten years out of date.
+
+Order matters because each layer depends on the previous one. You can evaluate a market opportunity more calmly when near-term cash is secure. You can hold a long-term asset through volatility when the household does not need it next week. You can rebalance toward a falling market when leverage is not forcing you the other way.
+
+The portfolio is only as patient as the household around it.
+
+Maintenance matters for the same reason. Resilience decays quietly. An emergency fund that once covered six months may cover three after expenses rise. Insurance coverage can become stale. Beneficiaries can be wrong after a marriage, divorce, birth, or death. A second bank account can become dormant. Password recovery can depend on an old phone number. A portfolio that was diversified can become concentrated after one sector outperforms for years.
+
+Nothing dramatic has to happen for preparedness to expire.
+
+This is a useful antidote to catastrophe shopping. Buying a thing feels like completion. Maintaining a system does not.
+
+The system is what survives.
+
+A household can review the boring pieces periodically without turning life into a permanent drill. Are near-term liabilities still covered? Is debt still manageable? Are the largest concentrations understood? Can both partners or another trusted person find the important accounts? Are wills, powers, beneficiaries, and insurance still aligned with the life that exists now? Has a successful thematic position become too large?
+
+These questions are not forecasts.
+
+They are upkeep.
+
+Taxes and account structure belong here too because a portfolio does not move through crisis in a frictionless spreadsheet. Selling can create taxable gains. Retirement accounts can have withdrawal rules. Foreign holdings can have reporting obligations. Real assets can have transaction costs. A hedge that looks elegant before tax can be less useful after tax.
+
+The location of the asset inside the financial system affects the freedom to use it.
+
+That does not mean tax optimization should dominate resilience. It means resilience should be implemented in accounts that match its purpose. Money for immediate needs should not depend on a structure that penalizes or delays access. Long-term assets can tolerate more restrictions if those restrictions buy tax advantages the investor values.
+
+Again, the liability comes first.
+
+The same principle applies across generations. A portfolio may need to survive not only markets but the investor. If the system becomes impossible for a spouse, child, executor, trustee, or business partner to understand, complexity has created key-person risk.
+
+Some sophisticated portfolios are one-person companies.
+
+When the founder is gone, operations stop.
+
+That is not resilience.
+
+Clarity can be a financial asset. Fewer institutions can be safer than many if the many are unmanageable. More institutions can be safer than one if access risk matters and the system remains legible. The correct number is not maximal diversification of accounts. It is enough redundancy without administrative collapse.
+
+There is no prize for making heirs solve a puzzle.
+
+This returns us to the central distinction between robustness and paranoia. Robustness simplifies where possible. Paranoia accumulates. Robustness assigns roles. Paranoia assigns stories. Robustness accepts that some risks will remain. Paranoia treats every unhedged risk as a personal failure.
+
+No household can eliminate geopolitical risk.
+
+No country can.
+
+The goal is to prevent one plausible failure from becoming a chain reaction.
+
+That is what diversification, liquidity, insurance, low leverage, custody awareness, and operational redundancy have in common. They interrupt chains.
+
+Job loss does not force a stock sale.
+
+A bank outage does not prevent every payment.
+
+A market closure does not create a margin call.
+
+An energy shock does not break the household budget.
+
+A wrong geopolitical thesis does not control retirement.
+
+The portfolio that gets to tomorrow is therefore less a collection of winning assets than a collection of broken dependencies.
+
+That is a strange way to describe wealth.
+
+It may be the most useful.
+
+Wealth is not only the amount on the statement. It is the number of bad events you can absorb before someone else begins making decisions for you.
+
+A lender.
+
+A distressed buyer.
+
+A government program.
+
+A relative with more liquidity.
+
+An employer.
+
+A market that happens to be open on the wrong day.
+
+The more room you have before forced dependence, the more optionality remains.
+
+That room is what the book has been trying to value from the first headline onward.
+
+Not the perfect trade.
+
+The distance between the headline and the moment you are forced to act.
+
+Make that distance longer.
+
+Then let tomorrow arrive however it does.
