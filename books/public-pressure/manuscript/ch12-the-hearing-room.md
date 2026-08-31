@@ -271,3 +271,115 @@ Distributed accountability is slower than outrage.
 That slowness is frustrating.
 
 It is also how a society prevents the person with the loudest microphone from becoming the only judge in the room.
+
+The part of congressional oversight least visible on television often matters more than the hearing itself. Committee staff spend weeks or months collecting documents, interviewing witnesses, comparing company statements, drafting reports, and building the factual record from which the televised questions emerge. A five-minute exchange can look spontaneous while resting on thousands of pages that never become a viral clip.
+
+This is a useful model for public pressure because it separates investigation from performance.
+
+The hearing is the visible edge.
+
+The record is the institution.
+
+A committee that asks a dramatic question without having done the document work may create attention and little knowledge. A committee that obtains internal records, traces a decision timeline, and identifies who approved what can change how regulators, courts, investors, and the company itself understand the issue even if the hearing is dull.
+
+The public should therefore learn to value subpoenas, document requests, staff reports, written answers, and follow-up letters as much as the confrontation.
+
+These tools also address a problem unique to chief-executive testimony: the CEO may genuinely not know the operational fact being asked about.
+
+A company can have billions of users and thousands of systems. No leader can know every moderation rule, model evaluation, hiring practice, or incident. Lawmakers sometimes treat “I don’t know” as evidence of incompetence because the answer sounds weak on camera.
+
+Sometimes not knowing is the honest answer.
+
+The accountability question becomes whether the institution can produce the answer later.
+
+A well-governed company should be able to supplement testimony with records from the people and systems that do know. If it cannot, that absence is itself informative. The problem is no longer that the CEO lacked a fact in the moment. The problem is that the organization lacks memory.
+
+This is where written questions for the record can be more important than oral questioning. They allow lawmakers to ask for specific metrics, dates, policies, organizational charts, testing methods, contracts, or incident histories without pretending the CEO carries them in memory.
+
+The process becomes less theatrical and more auditable.
+
+It also makes evasion easier to identify. A vague answer after weeks of preparation is different from an incomplete answer under a five-minute clock.
+
+Hearings can therefore be evaluated on three levels.
+
+The first is symbolic accountability: did powerful people have to face the public and answer difficult questions?
+
+The second is factual accountability: did the process establish new information or test disputed claims?
+
+The third is institutional consequence: did legislation, enforcement, company policy, board oversight, or public understanding change afterward?
+
+A hearing can succeed at one level and fail at another.
+
+The Zuckerberg apology was symbolically powerful regardless of what one concludes about the policy questions surrounding social platforms. An AI hearing may be factually useful because executives describe governance structures. A committee report may influence regulation even if no exchange becomes famous.
+
+This layered view prevents the cynical conclusion that all hearings are theater and the naive conclusion that television equals oversight.
+
+It also clarifies what companies owe when they volunteer broad claims. An executive asking Congress to trust a company’s safety program should expect questions about implementation. If the company says it has a threshold that prevents deployment, lawmakers can ask whether the threshold has ever been reached. If not, why not? Perhaps the systems remained below it. Perhaps the threshold is too permissive. Perhaps the metric does not capture the risk. The answer becomes evidence.
+
+The same principle applies when executives ask for regulation. What regulation are they willing to accept if competitors also receive the benefit? Would they support a rule that imposes meaningful cost on their own company? Would they support independent testing by a body they do not control? Would they accept liability for claims their products make in high-stakes contexts? Would they support rules that preserve entry for smaller competitors?
+
+Specificity separates public-minded policy from strategic lobbying.
+
+That does not require assuming bad faith. Companies lobby because rules affect them. Their expertise can improve legislation. The democratic problem appears when industry expertise becomes the only expertise capable of writing the rule.
+
+Congress needs its own technical capacity.
+
+So do regulators.
+
+A legislature dependent on company explanations cannot meaningfully evaluate company proposals. It may alternate between credulity and hostility because it lacks an independent middle.
+
+This is why public investment in administrative and legislative expertise matters to AI governance. Staff need to understand model evaluation, data systems, labor effects, competition, privacy, security, and sector-specific law well enough to know which questions belong to which witness.
+
+Without that capacity, the CEO becomes too useful as an interface. Everything is routed through one famous person because government lacks the internal map to ask anyone else.
+
+The hearing room should instead become a place where the map is reconstructed.
+
+Bring the CEO for strategy and commitment.
+
+Bring technical leaders for system behavior.
+
+Bring workers for operational reality.
+
+Bring affected people for consequences.
+
+Bring independent researchers for evidence.
+
+Bring regulators for jurisdiction and enforcement.
+
+The complete record should be able to survive the charisma of any one witness.
+
+This is particularly important in AI because the technology changes quickly enough that yesterday’s expert can become today’s spokesperson for an obsolete architecture. Institutions need repeatable questions that remain useful across technical change.
+
+What authority did the system have?
+
+What evidence supported deployment?
+
+What errors were known?
+
+Who could stop it?
+
+Who could appeal?
+
+What records remain?
+
+What remedy exists?
+
+These questions are less sensitive to whether the system uses one model architecture or another.
+
+They are governance questions.
+
+The final test belongs to Congress itself. A hearing is a claim that an issue deserves legislative attention. If lawmakers repeatedly summon executives and then decline to clarify law, build regulatory capacity, fund enforcement, or explain why existing law is sufficient, oversight can become another way of exporting responsibility.
+
+The senator asks the CEO why the company has not solved the problem.
+
+The CEO asks Congress for a rule.
+
+Congress holds another hearing.
+
+Public pressure circulates without finding an owner.
+
+Democratic accountability requires the institution doing the questioning to accept its own jurisdiction too.
+
+The chief executive should leave the hearing with obligations.
+
+So should the legislature.
