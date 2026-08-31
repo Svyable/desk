@@ -211,3 +211,69 @@ The future is not a world without scarcity.
 It is a world in which scarcity moves faster.
 
 The winning skill, for firms and states, will be noticing where it moved before everyone else bids up the price.
+
+The strongest early evidence for this task-level view came not from a speculative forecast but from a call center. Erik Brynjolfsson, Danielle Li and Lindsey Raymond studied 5,172 customer-support agents using an AI assistant. The system suggested responses and drew on patterns from prior conversations. On average, assisted workers resolved about fifteen percent more issues per hour. The gains were much larger for less experienced and lower-skill workers, while the best workers saw smaller benefits and, on some measures, little improvement.
+
+The distribution matters more than the headline.
+
+The system did not simply replace one agent with 1.15 agents' worth of output. It changed the productivity gradient inside the workplace. Less experienced workers gained access to patterns that more experienced colleagues had accumulated over time. Some tacit organizational knowledge became easier to transmit.
+
+Intelligence compressed part of the learning curve.
+
+That creates at least three possible labor-market futures, even in one narrow setting. A company can keep the same workforce and improve service. It can use the productivity gain to handle more customers without hiring as fast. Or it can lower prices and expand the market enough that employment rises. The technology result alone does not tell us which choice will dominate.
+
+The business model and demand curve complete the story.
+
+This is why estimates of occupational “exposure” should be read as maps of possible task change rather than layoffs already scheduled. A profession can be highly exposed because many tasks can be assisted, while total employment remains robust because output expands or workers move toward complementary activities. Another profession can have a smaller set of automatable tasks but suffer large wage pressure if those tasks were the source of bargaining power.
+
+Automation research before generative AI already showed this distinction. Daron Acemoglu and Pascual Restrepo describe technological change as a contest between displacement and reinstatement. Automation assigns tasks previously performed by labor to capital, pushing down labor demand in those tasks. New tasks can emerge in which labor has comparative advantage, partly restoring labor demand. The balance is historical, institutional and contingent.
+
+There is no law requiring reinstatement to arrive on schedule.
+
+That is the uncomfortable part of technological optimism. A society can become more productive while particular workers lose income, status and the accumulated value of specialized training. Aggregate consumer gains do not automatically pay the mortgage of a person whose occupation compresses faster than she can retrain.
+
+Transition costs are not errors in the spreadsheet. They are lived years.
+
+Acemoglu and Restrepo's work on U.S. wage inequality also attributes a substantial share of changes in the wage structure to the relative wage declines of groups specializing in routine tasks in industries undergoing rapid automation. One need not accept every parameter of that accounting to see the mechanism: when a technology substitutes disproportionately for tasks concentrated among certain workers, distribution can shift even if total output rises.
+
+Generative AI may cut across a different part of the labor market because it reaches language, analysis and software. That makes the politics less predictable. A technology that affects clerks, designers, lawyers, programmers, teachers and managers does not map neatly onto the old divide between “routine manual” and “high skill.” Some high-wage tasks are highly legible to models. Some lower-wage physical work remains awkward to automate.
+
+Status is not a technical category.
+
+The early empirical labor signal is also less dramatic than the loudest forecasts. Research on earlier waves of AI adoption has found effects on hiring within exposed establishments without clear aggregate effects on wages or employment over the period studied. The responsible conclusion is not that labor consequences are small. It is that diffusion, organizational change and market response take time, and the macroeconomy aggregates many opposing mechanisms.
+
+That lag has a historical analogue in electrification. Factories did not receive an electric motor and instantly double productivity. As Paul David argued in comparing the dynamo with computers, the larger gains depended on complementary organizational changes: redesigning factories, decentralizing power, changing layouts and learning new operating methods. The general-purpose technology mattered because firms eventually reorganized around what it made possible.
+
+AI may demand the same humility.
+
+Installing a model is easy. Rewriting the firm is hard.
+
+An enterprise can buy licenses in an afternoon and still have unclear data ownership, broken processes, incompatible incentives and managers who do not trust automated output. The first wave of adoption may therefore look like an old organization with a new assistant attached. The larger gains, if they arrive, may come when companies redesign workflows so that machines handle abundant generation while humans concentrate on exception handling, customer trust, physical execution and consequential judgment.
+
+That redesign can remove jobs as well as create them.
+
+A process that once required five handoffs may require two. Middle layers of coordination can shrink. Entry-level work can become scarce if the machine handles exactly the tasks through which novices used to learn. A firm can become more productive while accidentally destroying its apprenticeship system.
+
+This is one of the expensive consequences worth watching.
+
+If juniors no longer draft the first memo, debug the easy bug, review the routine case or speak to the ordinary customer, where do future seniors acquire judgment? The experienced worker using AI may be extraordinarily productive for a decade while the pipeline behind her weakens.
+
+Organizations will have to manufacture experience more deliberately.
+
+Simulations, supervised exceptions, rotations, synthetic cases and explicit teaching can replace some lost repetition. But this creates a cost that an accounting system focused only on current productivity will miss. Training was partly hidden inside low-productivity work.
+
+Cheap intelligence can strip away the inefficiency that was quietly carrying education.
+
+The energy analogy appears again. A reserve generator looks wasteful until the grid fails. An apprenticeship task can look wasteful until the firm needs another expert.
+
+This does not justify preserving obsolete work as ritual. It means institutions should identify which capabilities the old work was producing before automating it away.
+
+The same care belongs in public policy. Governments can help workers move through training, wage insurance, portable benefits, education and macroeconomic demand. They can also freeze labor markets by protecting every existing task. Neither extreme respects the underlying transition.
+
+The objective is not job preservation at any cost.
+
+It is preserving people's capacity to earn, adapt and share in the productivity gains.
+
+That makes cheap intelligence a value problem in the deepest sense. The machine changes the feasible set. Markets discover profitable uses. Institutions determine how much of the surplus reaches consumers, workers, owners and the public.
+
+The consequences become expensive when we pretend those distributions are automatic.
