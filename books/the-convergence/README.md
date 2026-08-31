@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 16 of 16 drafted |
+| **Chapters**  | 17 of 17 drafted |
 
 Energy and the Advance of the Human Race.
 
@@ -31,6 +31,7 @@ The working thesis is that the advance of human civilization can be read through
 - [x] [Ch 14 — The Temperature Ladder](manuscript/ch14-the-temperature-ladder.md)
 - [x] [Ch 15 — The Cost of Reliability](manuscript/ch15-the-cost-of-reliability.md)
 - [x] [Ch 16 — The Build Rate](manuscript/ch16-the-build-rate.md)
+- [x] [Ch 17 — The Water-Energy Knot](manuscript/ch17-the-water-energy-knot.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
