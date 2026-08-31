@@ -1,289 +1,259 @@
-# The Platform Above the Store
+# Trust by Proxy
 
-A merchant once worried about the store across the street.
+A credit card was designed around a simple story.
 
-Then it worried about the mall owner.
+A person wants to buy something. The person presents a credential. The merchant requests payment. Banks and networks decide whether to authorize the transaction. If fraud or a dispute appears later, the system has rules for deciding who bears the loss.
 
-Then the search engine.
+The story became more complicated online because the merchant could no longer see the customer. Passwords, CVV codes, one-time codes, device signals, fraud models, digital wallets, tokenization, and strong customer authentication all grew around the question of whether a remote transaction was really authorized.
 
-Then the marketplace.
+Agentic commerce adds a stranger to the story.
 
-Then the social feed.
+The person wants something.
 
-The agentic economy adds a new competitor that may not sell the same products at all. It sells access to the customer’s intention.
+The person authorizes software to decide exactly what satisfies the request.
 
-This is the platform above the store.
+The software selects a merchant.
 
-By 2026, several of the world’s largest technology and commerce companies were building toward the position from different directions. Google had search, advertising, payments, Android, maps, shopping data, and Gemini. Amazon had a marketplace, fulfillment network, Prime, advertising, payments, seller tools, and decades of purchase history. Walmart had physical stores, grocery frequency, fulfillment, membership, and a massive retail operation. Shopify sat behind millions of merchants and increasingly treated its product catalog and checkout infrastructure as portable commerce rails. Microsoft could bring shopping into Copilot and enterprise workflows. OpenAI had a conversational interface where hundreds of millions of people were already asking questions, including what to buy.
+The software pays.
 
-None of these companies needed to become the merchant of record for every transaction to gain power.
+Who, precisely, made the purchase?
 
-They needed to become the place where the consumer decided.
+Legally, the human or organization remains the principal. Economically, the agent is a delegate. Operationally, payment systems need something more concrete than philosophy. They need to know that the agent is allowed to act, under what conditions, for how much, for which kinds of goods, and whether the person must be present at the moment of payment.
 
-The distinction is subtle and enormous.
+The mid-2020s produced an unusual burst of infrastructure work around this problem.
 
-Retail economics traditionally focused on controlling supply, distribution, or the point of sale. Digital platforms demonstrated that controlling discovery can be just as valuable. Google did not need to own every website to earn from searches leading to them. Meta did not need to manufacture products to monetize attention around them. Apple did not need to write every app to govern distribution through its store. Amazon combined several layers and showed how powerful the combination could become.
+Google’s Agent Payments Protocol proposed digital mandates linking user intent to agent action. Mastercard developed Verifiable Intent and Agent Pay. Visa worked on agentic payment credentials and authentication. Stripe introduced scoped payment mechanisms for agentic transactions and later a machine-payment protocol for software buying digital services. The FIDO Alliance created work around agentic authentication and accepted contributions intended to make delegated commerce more interoperable.
 
-A general consumer agent can sit even higher.
+The names will change.
 
-It receives the problem before the user knows which market solves it.
+The problem will not.
 
-“I need to sleep better.”
+Delegated money requires delegated trust.
 
-This might lead to a mattress, blackout curtains, a white-noise machine, a medical consultation, a change in caffeine habits, a hotel room, or no purchase at all.
+A human assistant with a corporate card demonstrates the old version. The employee is authorized to spend company money for certain purposes. The company sets limits. Receipts are collected. Some purchases need approval. Misuse can lead to discipline or legal action. The payment card alone does not define the authority; organizational rules surround it.
 
-“I need to get my father to appointments.”
+Consumer agents need a machine-readable version of the rules.
 
-This could become rides, a car, community transport, home care, scheduling software, or family coordination.
+“Buy routine groceries up to four hundred dollars per week.”
 
-“I need to lower our monthly spending.”
+“Book travel under company policy.”
 
-The agent can touch insurance, telecom, subscriptions, groceries, debt, transport, energy, and shopping.
+“Reorder this prescription only from the approved pharmacy and never change dosage.”
 
-The platform is upstream of category demand.
+“Purchase replacement parts under two hundred dollars if the model number matches.”
 
-That makes it valuable to every downstream business.
+“Never transact with a new merchant without confirmation.”
 
-Platforms will describe this as convenience, correctly. One interface can replace dozens. The customer does not need to know which site, app, marketplace, or merchant category to open. Intent routes through the agent.
+“Pay for cloud services only from this project budget.”
 
-The economic danger is that routing becomes governance.
+These are mandates.
 
-Which merchants can participate?
+The payment system should be able to distinguish them from a general instruction to spend anything anywhere.
 
-Which catalogs are searched?
+This is why scoped credentials are attractive. Instead of handing an agent the digital equivalent of the card number and trusting it forever, the system can issue a token valid for a narrower purpose, merchant, amount, time window, or transaction.
 
-Which payment systems work?
+Security engineering has been moving in this direction for years. Least privilege is a basic principle: give a system only the authority it needs.
 
-Which offers can be shown?
+Agentic commerce turns least privilege into a consumer product requirement.
 
-Which data formats receive full fidelity?
+The temptation will be convenience.
 
-Which sellers are deemed trustworthy?
+A user will be asked whether the agent can “handle purchases for you.” The easiest setting is broad permission. The most secure setting is constant confirmation. Neither extreme is attractive.
 
-Which commercial relationships influence ranking?
+If the person must approve every low-stakes transaction, the agent saves little effort. If the agent has unrestricted authority, one compromised instruction can become a financial disaster.
 
-What does the platform charge?
+The practical system needs graduated autonomy.
 
-Can a merchant preserve the customer relationship after the transaction?
+Low-cost, familiar, reversible transactions can proceed automatically. New categories, unusual merchants, large amounts, regulated goods, sensitive services, or deviations from normal behavior trigger stronger checks.
 
-Can the consumer export memory and leave?
+This resembles the fraud systems card networks already operate. A routine grocery purchase near home looks different from an expensive transaction in another country. The difference is that agentic systems must evaluate not merely whether the transaction resembles the user but whether it satisfies delegated intent.
 
-These questions determine whether the platform behaves like an open operating layer or a private shopping mall with invisible doors.
+A strange transaction can be correct.
 
-The mid-2020s infrastructure fight already contained competing answers.
+The user may have told the agent to buy a rare machine part from another country at three in the morning when it becomes available.
 
-OpenAI and Stripe’s Agentic Commerce Protocol was designed to connect agents and merchants. Google and Shopify helped develop the Universal Commerce Protocol as a broader shared language for discovery, carts, checkout, and post-purchase operations. Google’s AP2 work focused on agentic payments and delegated authority. Shopify pushed its catalog outward so merchants could appear across AI channels without building one integration per assistant.
+The payment network sees anomaly.
 
-The language of openness was prominent because nobody wanted merchants to believe they were signing up for another closed marketplace.
+The mandate sees purpose.
 
-Open protocols are genuinely useful.
+Combining the two can reduce false declines without reducing security.
 
-A small merchant cannot maintain custom transactional integrations with ten major AI systems. A shared standard lowers entry cost. A consumer agent benefits if it can reach many sellers. A merchant benefits if it can preserve its backend and still participate. Interoperability can keep the market contestable.
+This is one reason verifiable intent is conceptually important. A record of authorization can say: the user asked for this class of outcome, the agent selected this transaction within the rule, and the payment was made under that authority.
 
-But open protocols do not guarantee open distribution.
+When something goes wrong, the record helps answer who deviated.
 
-The web is the canonical example. HTTP and HTML are open. Search distribution became concentrated anyway. Email protocols are open; consumer email is concentrated among a few providers. Payment card standards interoperate broadly; network economics still produce powerful incumbents.
+Suppose the user says, “Buy a refundable hotel under three hundred dollars.” The agent purchases a nonrefundable room for two hundred and fifty. The merchant accurately represented the policy. The payment went through.
 
-A protocol determines whether systems can talk.
+The transaction is authorized in a broad sense and wrong in a practical sense.
 
-It does not determine which conversation gets heard.
+Who bears the loss?
 
-The agent platform controls attention after attention has been compressed.
+Traditional card disputes are not designed to resolve every agent reasoning error. The merchant delivered exactly what was purchased. The bank authorized the card. The defect lies in representation.
 
-This can produce more power than a traditional search page because the agent may present fewer options. A search engine can show ten links and ads. An agent often gives a recommendation with reasons. The consumer experiences the conclusion rather than the full market.
+Agent providers will need warranties, liability rules, or insurance for these mistakes.
 
-A merchant excluded from that conclusion can become invisible.
+Without them, “autonomous shopping” can become a legal trick in which the user receives convenience while bearing every error the software makes.
 
-This creates a new kind of platform dependency.
+The allocation of liability will shape adoption.
 
-A hotel knows it depends on online travel agencies when a large share of bookings arrive through them. A restaurant sees delivery-app orders. An app developer sees store downloads. An Amazon seller sees marketplace revenue.
+Consumers tolerate imperfect recommendation systems because the human makes the final decision. If a movie suggestion is bad, nothing serious happens. A system that spends money needs stronger assurance.
 
-A merchant behind an agent may not even see the lost demand.
+This creates a market for agent quality beyond model benchmarks.
 
-The consumer asked for a product. The agent considered ten alternatives. The merchant ranked eleventh. No page view occurred. No abandoned cart appeared. No keyword report explained the loss.
+Transaction accuracy.
 
-The absence is invisible.
+Policy compliance.
 
-This increases the platform’s informational advantage.
+Fraud resistance.
 
-It can see the consideration set across merchants. It knows which products almost won, which features changed decisions, how price elasticity varies, which consumers are willing to substitute, and which brands are protected by explicit preference rules.
+Dispute resolution.
 
-That dataset can be more valuable than purchase history alone.
+Auditability.
 
-Purchase data tells you what happened.
+Merchant authentication.
 
-Agent consideration data tells you what almost happened and why.
+Ability to recognize manipulated instructions.
 
-Platforms will use this information to improve recommendations, which benefits consumers. They can also use it to design commercial products, advertising auctions, merchant fees, private-label strategies, and bargaining positions.
+Reliable escalation.
 
-Vertical integration becomes the central policy issue.
+These properties can matter more to consumers than whether the agent writes a more elegant paragraph.
 
-Suppose a platform owns the agent, payment wallet, advertising system, marketplace, and some competing products. The platform can claim, plausibly, that integration improves experience. One identity reduces fraud. One wallet reduces checkout friction. One logistics network makes delivery reliable. First-party products can be supported deeply.
+Payment networks are well positioned because trust has always been their business. They sit between buyers, banks, and merchants, maintain rules, absorb or allocate fraud risk, and operate global acceptance infrastructure. Agentic commerce gives them a new role: identifying a legitimate machine acting for a legitimate principal.
 
-The same integration creates opportunities to favor itself.
+The network can become the notary of delegated demand.
 
-Digital competition law has spent the 2020s wrestling with exactly this problem. The European Union’s Digital Markets Act designated large gatekeepers across core platform services and imposed obligations intended to constrain certain forms of self-preferencing, tying, data combination, and access restriction. The precise legal categories were built around the digital markets of the time, not the full agentic future.
+This is strategically valuable because AI platforms might otherwise try to own the full transaction. The payment layer can assert independence: the consumer can use different agents while retaining trusted payment credentials and dispute rights.
 
-Consumer agents will pressure those categories.
+Open standards can support this portability.
 
-Is a general AI assistant a search engine, an operating system, an online intermediation service, a virtual assistant, or something new?
+A user should not need a separate financial identity for every assistant. The agent can present proof that it is authorized without becoming the owner of the underlying account.
 
-What happens when the same agent spans categories traditionally regulated separately?
+This resembles the way digital wallets tokenized cards. The wallet improved the interface while banks and networks retained the financial relationship.
 
-The law will eventually care less about the label and more about the gateway function.
+Agent platforms may want more.
 
-Does a business need access to this intermediary to reach consumers?
+A company that controls both the assistant and the wallet gains an extraordinary view of intention and spending. It can connect what the user asked with what the user bought. That is commercially powerful and sensitive.
 
-Can consumers switch without losing context?
+Banks face the same temptation. A bank-owned consumer agent can see balances, cash flow, bills, credit, and transaction history. It can give unusually good purchasing advice because it knows what the household can afford.
 
-Can rival agents access the same merchant capabilities?
+It can also steer commerce toward the bank’s own products or partners.
 
-Can merchants offer different terms elsewhere?
+The line between financial adviser, shopping agent, and distribution channel blurs.
 
-Does the platform use nonpublic merchant data to compete against merchants?
+Fiduciary concepts will enter debates even where formal fiduciary law does not apply. Consumers will ask a basic question: whose interest is this agent supposed to serve?
 
-Are sponsored relationships distinguishable from independent recommendation?
+Payments make the answer unavoidable because incentives become visible in money.
 
-These are old platform questions arriving at a new layer.
+Fraudsters will ask different questions.
 
-The consumer’s relationship to the platform is more intimate this time.
+Can the agent be tricked into buying something?
 
-A marketplace knows what you buy on the marketplace.
+Can a malicious merchant manipulate its instructions?
 
-A general agent can know what you considered, why you rejected alternatives, what your budget is, which household member needed the product, and what future event created the demand.
+Can an email, product description, webpage, or document contain text that causes the system to ignore the user’s rules?
 
-This makes antitrust and privacy difficult to separate.
+Can an attacker impersonate a merchant endpoint?
 
-A platform can gain market power because its consumer context improves the product. The product improves, attracting more users, which produces more context. Merchants integrate because the users are there. Better merchant coverage makes the agent more useful. Payments integrate because transactions grow. The flywheel is familiar.
+Can stolen agent credentials be replayed?
 
-The input is unusually personal.
+Can a compromised household device request purchases through the trusted agent?
 
-Traditional antitrust analysis often focuses on prices and output. Digital markets have pushed authorities toward broader questions of data, choice, innovation, and consumer autonomy. The OECD in 2026 explicitly highlighted the convergence between competition and consumer policy in digital markets, including new questions raised by agentic AI.
+Can a seller falsely claim that the user approved an upsell?
 
-The convergence is unavoidable here.
+Agentic commerce inherits the entire cybersecurity problem and adds money.
 
-A consumer can receive a free, excellent agent and still face a competitive harm if leaving becomes impossible or merchants are forced through a tollbooth. A platform can charge merchants rather than users, making consumer price a poor measure of power. A service can improve convenience while reducing future choice.
+Prompt injection is particularly relevant because general-purpose agents consume untrusted content. A product page is not merely information; it can become adversarial input. A malicious page could include hidden or visible instructions intended to influence the model.
 
-This is the familiar bargain of digital capitalism: zero-price service in exchange for an intermediary becoming indispensable.
+A payment-capable agent must treat merchant content as data, not authority.
 
-The agentic version raises the stakes because it can mediate transactions across the economy.
+This sounds obvious in security language and remains difficult in systems whose core capability is following language.
 
-There are several plausible platform models.
+The safest architectures separate planning, data retrieval, policy enforcement, and payment authorization. The model can propose an action, but a deterministic policy layer checks whether it fits the user’s mandate before money moves.
 
-The first is the universal assistant. One general-purpose agent handles shopping alongside work, communication, travel, research, and household management. Its advantage is context. It knows enough about the person to make excellent decisions across categories.
+The agent should not be able to talk the policy layer out of the policy.
 
-The second is the commerce specialist. A dedicated shopping or financial agent competes by claiming stronger alignment with the buyer, broader product coverage, better price history, or cleaner commercial incentives.
+This is another place where boring software can matter more than intelligence.
 
-The third is the ecosystem agent. A retailer, bank, device maker, or membership platform offers an assistant optimized around its own services while reaching outside when useful.
+Budgets. Allowlists. Category restrictions. Transaction ceilings. Merchant identity. Cryptographic signatures. Device approval. Risk scoring. Audit logs.
 
-The fourth is a federation. The user has a primary agent that delegates to specialist agents: travel, grocery, finance, healthcare, home repair. The primary system holds preferences and permissions while specialists compete for tasks.
+The 2030s consumer agent may feel conversational on the surface and look like an enterprise security system underneath.
 
-The structure matters for competition.
+Children and families make the permission structure more complicated.
 
-A single universal agent can produce enormous convenience and enormous concentration.
+A parent may give a teenager a monthly spending budget but restrict categories. A caregiver may purchase groceries for an elderly relative without access to unrelated accounts. A household employee may buy supplies but not view full transaction history. A separated couple may share child expenses without sharing personal purchases.
 
-A federation preserves specialist competition but adds coordination complexity and another question: who chooses which specialist receives the task?
+Payment permissions become social boundaries.
 
-The primary agent becomes a wholesaler of demand.
+Digital wallets already support some family functions. Agents will require richer delegation because they act across contexts.
 
-Open standards can help rival specialists plug in. But the primary agent may still charge for distribution.
+This can improve financial autonomy when designed well. A teenager can learn budgeting with real constraints. A caregiver can help without gaining excessive access. A small business can delegate purchasing without handing an employee the owner’s card.
 
-The platform above the store becomes a platform above the agents.
+Designed badly, the same tools become surveillance.
 
-There may be no final layer.
+The person who controls the household agent can monitor every purchase, set hidden restrictions, or use financial permissions coercively. Technology does not resolve power inside relationships.
 
-This recursive structure is familiar from computing. Applications run on operating systems, which run on cloud infrastructure, which runs on hardware, which depends on chip supply and energy. Each layer can be competitive or concentrated. Value migrates toward bottlenecks.
+Consumer-protection design has to account for vulnerable users, not just ideal households.
 
-Agentic commerce adds a new demand stack.
+There is also the question of “human not present” payments.
 
-Consumer intention.
+Google’s 2026 work on AP2 explicitly addressed scenarios where an agent acts based on prior authorization while the user is offline. The example is easy to understand: buy a limited ticket the moment it becomes available under predefined conditions.
 
-Personal context.
+Human absence is economically powerful because it lets demand operate continuously.
 
-Agent interface.
+The agent can book a canceled reservation at 2:13 a.m., buy an item when the price falls, renew a service before a deadline, or acquire compute when needed. The consumer no longer has to be awake at the market’s moment of opportunity.
 
-Discovery and ranking.
+But human absence changes dispute psychology.
 
-Merchant catalog.
+“I did not click buy” becomes true even for legitimate transactions.
 
-Offer and negotiation.
+Consumers will need a new mental model. Authorization moves from the moment of purchase to the rule that preceded it.
 
-Identity and payment.
+This is similar to automatic payments today. A person authorizes a subscription once and later charges happen without active approval. The difference is that the future agent may choose the merchant and amount dynamically.
 
-Fulfillment.
+The mandate becomes the contract with the machine.
 
-Post-purchase service.
+Good interfaces will need to make mandates understandable.
 
-A company can dominate one layer without owning the rest.
+A paragraph of legal text is not enough. The user should know the practical boundary: what can this agent spend, where, how often, for what, and what causes it to ask me?
 
-Investors will repeatedly mistake activity for rent capture. The fact that agents drive trillions of dollars of commerce does not mean agent providers earn the best returns. Open competition can push their fees down while payment, logistics, advertising, or merchant infrastructure captures value. Conversely, the model layer can commoditize while one consumer interface becomes a powerful gateway.
+The system should make broad authority feel broad.
 
-The economic prize belongs to the scarce layer.
+One of the failures of digital consent has been presenting consequential permissions as routine taps. Agentic finance raises the cost of that habit.
 
-This is why Shopify’s position is interesting. It does not need consumers to choose a Shopify-branded assistant. It can make millions of merchants legible and executable across assistants. If front ends proliferate, the backend becomes valuable.
+Merchants also need confidence.
 
-Amazon has the opposite strength. It owns a massive consumer destination and fulfillment system. Its Buy for Me feature was strategically revealing because it allowed Amazon to help consumers buy from brand sites outside Amazon’s own catalog. The company was testing whether the customer relationship itself could be more valuable than keeping every item inside the marketplace.
+A seller wants to know that an agentic order will not produce an unusual chargeback simply because the person later forgot authorizing the rule. Trust has to work both ways. Verifiable mandates can protect merchants by proving that a purchase satisfied the consumer’s standing instruction.
 
-Google can make a similar argument from search. If people increasingly shop inside AI Mode or Gemini, commerce can remain attached to the place where demand begins. Universal Cart and UCP can reduce the need to visit multiple retailers while preserving merchant participation.
+This can reduce fraud losses and make merchants more willing to accept autonomous transactions.
 
-OpenAI’s shopping evolution showed the tension between native checkout and merchant flexibility. Early Instant Checkout emphasized completing purchases inside ChatGPT. By 2026, the company shifted more emphasis toward product discovery and richer merchant integrations, including retailer experiences that could keep the brand and checkout relationship more visible.
+The dispute system becomes a three-party inquiry.
 
-The market was discovering that removing friction is not the only objective.
+Did the user authorize the mandate?
 
-Merchants care who owns the customer.
+Did the agent obey it?
 
-Consumers may care too, even when they do not say so directly. A purchase through a general agent can be convenient, but post-purchase service, loyalty, returns, and brand relationships still matter. Some users will prefer the agent to hand them into a merchant environment at the right moment rather than swallowing the entire journey.
+Did the merchant fulfill the resulting contract?
 
-This creates room for pluralism.
+Each failure belongs to a different actor.
 
-The agent can be a navigator rather than a landlord.
+Payment networks and regulators will eventually encode these distinctions.
 
-A healthy architecture would let the consumer express intent in one place, compare broadly, choose among agents, preserve portable memory, transact through trusted payment systems, and maintain direct relationships with merchants when desired. Merchants could participate through open protocols without buying mandatory advertising. Platforms could monetize through transparent subscriptions, transaction services, or clearly labeled commercial products.
+Insurance may emerge around them. Agent providers can insure execution errors. Merchants can insure fraud. Consumers can receive guarantees for authorized-agent mistakes above a threshold. Premium agents may differentiate by stronger protection rather than better recommendations.
 
-Nothing about this architecture is technically impossible.
+Trust becomes a product feature with a balance sheet behind it.
 
-The obstacle is that less open architectures can be more profitable.
+This is how new technologies mature. Early markets sell capability. Mature markets sell assurance.
 
-Lock-in is valuable.
+The first online stores asked consumers to believe that entering a card number into a browser was safe. Over time, security became infrastructure and buyers stopped thinking about the cryptography.
 
-Exclusive data is valuable.
+Agentic commerce will follow the same path if it succeeds.
 
-Default status is valuable.
+People will stop marveling that software can pay.
 
-Control of payment is valuable.
+They will assume that the right software can pay the right amount to the right merchant under the right authority and that somebody answerable will fix it when the chain breaks.
 
-Preferential merchant access is valuable.
+That final clause is the real product.
 
-Advertising at the point of decision is valuable.
+Delegation is easy when nothing goes wrong.
 
-The political economy of the 2030s will be shaped by how much of that value societies allow one intermediary to combine.
-
-Competition policy will not be enough by itself. Consumer protection, privacy, interoperability, payment regulation, data portability, contract law, and standards governance all touch the same system.
-
-Nor should policy assume every large platform is harmful. Scale can create better fraud protection, broader merchant coverage, reliable infrastructure, and cheaper services. The question is whether scale remains contestable.
-
-Can a better agent win users?
-
-Can users leave with their practical memory?
-
-Can merchants reach those users without surrendering the economics of the relationship?
-
-Can independent payment and identity systems interoperate?
-
-Can regulators inspect conflicts?
-
-Can open protocols prevent deliberate exclusion?
-
-These are tests of market structure, not company virtue.
-
-The store will remain.
-
-The marketplace will remain.
-
-Search will remain.
-
-The social feed will remain.
-
-The agent sits above them when the consumer stops deciding which one to open first.
-
-That first decision is worth a fortune.
+Trust begins at the refund desk.
