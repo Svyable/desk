@@ -63,6 +63,7 @@ body:
         - to-state-the-obvious
         - useful-noise
         - vectors
+        - wild-speculation
     validations:
       required: true
   - type: input
