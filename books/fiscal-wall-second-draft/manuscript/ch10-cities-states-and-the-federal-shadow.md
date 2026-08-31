@@ -287,3 +287,75 @@ A school district asking voters for another bond.
 The national balance sheet will still look national.
 
 Its consequences will have addresses.
+
+## The Capital Budget America Does Not Have
+
+State and local finance also reveals a structural weakness in the way the federal debate talks about borrowing.
+
+Many governments distinguish operating expenses from capital investment more explicitly than Washington does.
+
+A city may borrow for a treatment plant expected to serve residents for forty years while paying current salaries from current revenue. The distinction is imperfect and can be gamed, but it forces a question: does the debt finance an asset whose benefits persist with the payments?
+
+The federal unified budget does not create that same bright line.
+
+A Treasury bond finances the government's aggregate cash need. The security does not carry a label saying *interstate bridge*, *fighter aircraft*, *tax cut*, *retirement check*, or *laboratory*.
+
+This accounting neutrality is convenient for financing.
+
+It can be dangerous for politics.
+
+If every deficit dollar looks the same, policymakers can debate total borrowing without distinguishing whether the borrowing expands future productive capacity or merely shifts current consumption into the future.
+
+That distinction becomes more important as rates rise.
+
+A project with a durable social return may still justify debt at a higher yield.
+
+Recurring spending without a financing source becomes more expensive for every year it persists.
+
+The federal wall therefore creates a case for better fiscal classification even if no formal capital budget is adopted.
+
+Policymakers should be able to ask which deficits are temporary stabilization, which finance long-lived assets, and which are structural gaps between recurring commitments and recurring revenue.
+
+The municipal world cannot answer that question perfectly either. Stadium subsidies can be called investment. Pension borrowing can disguise operating stress. Infrastructure can be overbuilt. Special districts can obscure liabilities.
+
+The discipline comes from asking, not from assuming the label is honest.
+
+A federal government under interest pressure faces a particular risk: cutting capital because it is easier than cutting promises.
+
+A bridge can be postponed.
+
+A maintenance program can be deferred.
+
+A research grant can be canceled.
+
+A transmission line can wait another appropriations cycle.
+
+Benefits already reaching households are politically harder to change.
+
+The path of least resistance can therefore improve the near-term deficit while weakening the future denominator.
+
+Cities know the cost of that strategy because deferred maintenance becomes visible in potholes, water breaks, school roofs, and unreliable transit.
+
+At the national level, the damage can be slower and larger: weaker logistics, constrained energy, reduced scientific capacity, or lower resilience to disaster.
+
+The fiscal wall should not become an excuse to eat the seed corn.
+
+That principle also changes how federal aid to states should be judged.
+
+A transfer that finances current consumption has one fiscal profile.
+
+A transfer that enables high-return infrastructure has another.
+
+A grant that replaces local revenue during a severe recession can prevent procyclical cuts and preserve productive capacity.
+
+A permanent transfer formula can create a recurring federal claim.
+
+The category *aid to states* is too broad for serious fiscal analysis.
+
+So is the category *spending*.
+
+The shadow of federal debt will fall on local governments regardless.
+
+The policy question is whether it darkens investment or forces better prioritization.
+
+That choice will determine whether the next generation inherits only the federal coupon or also the roads, grids, schools, ports, and water systems capable of earning around it.
