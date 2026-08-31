@@ -72,7 +72,9 @@ That narrowness is frustrating and valuable.
 
 Consider the copyright cases over training data. Creators often describe model training as theft. Companies often describe it as transformative learning. Courts do not decide which metaphor wins cultural legitimacy. They analyze copying, fair use, markets, specific data-acquisition practices, outputs, and other statutory questions.
 
-In *Bartz v. Anthropic*, a federal district judge in 2025 drew a distinction that complicated both camps. The court held that certain uses of lawfully acquired books to train language models were fair use in the circumstances before it, while refusing to treat Anthropic’s creation and retention of a central library assembled partly from pirated books as automatically justified by the eventual training purpose. The litigation continued on the pirated-library issue before settlement developments later altered the case.
+In *Bartz v. Anthropic*, a federal district judge in June 2025 drew a distinction that complicated both camps. The court held that the training use before it was fair use and that digitizing purchased print books for Anthropic’s central library was also fair use, while refusing fair-use protection for the acquisition and retention of pirated copies in that library. That left piracy-related liability and damages for later proceedings.
+
+The case did not reach trial on those claims. On July 20, 2026, the court granted final approval to a $1.5 billion class settlement covering works on a defined list tied to Anthropic’s LibGen and PiLiMi downloads and entered judgment dismissing the action with prejudice. The settlement ended this class action. It did not turn the 2025 district-court fair-use ruling into a universal rule that all AI training is fair use, nor did it make lawful training erase unlawful acquisition.
 
 The important point is not to turn one district-court order into permanent copyright law.
 

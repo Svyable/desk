@@ -148,6 +148,18 @@ The British Columbia Civil Resolution Tribunal decision in *Moffatt v. Air Canad
 
 [British Columbia Civil Resolution Tribunal — *Moffatt v. Air Canada*, 2024 BCCRT 149](https://www.canlii.org/en/bc/bccrt/doc/2024/2024bccrt149/2024bccrt149.html) (`moffatt-air-canada-2024`)
 
+### *Bartz v. Anthropic*
+
+The 2025 fair-use order in *Bartz v. Anthropic* is valuable because it decomposes conduct that public argument often compresses into “AI training.” The district court held the training use before it to be fair use and also treated Anthropic’s conversion of purchased print books into digital library copies as fair use. It did not allow Anthropic to justify the acquisition and retention of pirated central-library copies merely because those books might later be used for transformative training.
+
+[Northern District of California — *Bartz v. Anthropic PBC*, Order on Fair Use](https://assets-us-01.kc-usercontent.com/1eeb16db-4934-006e-40a6-38fa91285ebb/4cf4aba9-070f-48cd-b713-f52c20fe3975/Dkt.%20231%20-%20Order%20on%20Fair%20Use.pdf) (`bartz-fair-use-2025`)
+
+That split ruling did not become the final procedural endpoint. On July 20, 2026, the court granted final approval to a non-reversionary $1.5 billion class settlement covering a defined works list associated with Anthropic’s LibGen and PiLiMi downloads and entered judgment dismissing the action with prejudice. The settlement avoided a trial on the remaining downloading claims. It did not convert the 2025 district-court fair-use ruling into a categorical or appellate rule for all model training, and settlement approval is not a merits finding that every disputed allegation was proved.
+
+[Northern District of California — *Bartz*, Final Approval Order and Judgment](https://law.justia.com/cases/federal/district-courts/california/candce/4%3A2024cv05417/434709/680/) (`bartz-final-approval-2026`)
+
+The durable lesson for the manuscript is narrower: **acquisition, retention, training, and settlement are separate legal events**. A later transformative use does not automatically answer whether the material was lawfully acquired, and a settlement does not erase the reasoning of an earlier order or turn that reasoning into universal law.
+
 ### Rite Aid facial-recognition enforcement
 
 The FTC’s Rite Aid matter gives the book a more demanding example of remedy architecture. The Commission alleged that Rite Aid used facial recognition without reasonable safeguards and that false-positive matches subjected consumers to harms. The resulting orders went beyond a promise to improve accuracy: they included a five-year prohibition on covered facial-recognition use, deletion requirements for collected images and derivative data/models, consumer notice, complaint response, monitoring obligations, and executive-level oversight.
