@@ -205,3 +205,109 @@ In fact, danger makes them more important.
 “I don't know” is not the end of analysis.
 
 It is the beginning of position sizing.
+
+There is a difference between refusing false certainty and refusing to form beliefs at all.
+
+The first is discipline.
+
+The second can become laziness.
+
+An investor still has to decide. Cash must sit somewhere. A portfolio has weights whether they were chosen thoughtfully or inherited by neglect. A company has suppliers. A household has debt. “I don't know” does not remove exposure.
+
+It changes the burden of proof for changing it.
+
+This is where probabilities can be useful even when precise probabilities are not. You may not know whether the chance of a blockade is twelve percent or twenty-two percent. You may still know that it is not zero, that the consequence to a particular supplier would be severe, and that qualifying a second supplier is relatively cheap. The operational decision can be obvious before the probability is precise.
+
+Expected-value arithmetic is not the only way to make a robust choice.
+
+Sometimes the asymmetry is enough.
+
+If a failure would be catastrophic and the remedy is cheap, you do not need a confident forecast to justify the remedy. Fire extinguishers are not installed because the owner predicts a fire this year. The probability matters. The cost of being wrong in each direction matters too.
+
+Portfolio hedging becomes dangerous when investors borrow the logic of cheap operational redundancy and apply it to expensive financial insurance without noticing the price. A second supplier may cost a little more every year. An option protecting against a dramatic market move can cost enough, repeatedly, to alter long-term returns substantially.
+
+The insurance premium belongs in the thesis.
+
+So does the renewal schedule.
+
+This brings us to updating. Beliefs should move when evidence moves, but not every new fact deserves the same weight. A signed mobilization order should move a view more than a television panel. A sustained change in shipping flows should matter more than one alarming social-media post. An enacted appropriation should matter more than campaign language. A factory expansion that reaches production should matter more than a memorandum of understanding.
+
+The quality of evidence can be ranked without pretending the future can.
+
+That suggests a useful habit: separate observations from interpretations before changing the position.
+
+The observation is that a strait's traffic fell.
+
+The interpretation is that the closure will last six months.
+
+The observation is that a government raised a defense budget.
+
+The interpretation is that one contractor will earn excess returns.
+
+The observation is that a central bank bought more gold.
+
+The interpretation is that the reserve-currency system is near collapse.
+
+Writing the two sentences separately prevents the second from disguising itself as the first.
+
+It also makes revision less humiliating. New evidence can change the interpretation without requiring you to deny the observation. A temporary disruption can remain a real disruption after the route reopens. A policy can be important without producing the investment result you expected.
+
+This is how a thesis survives contact with disconfirmation without becoming unfalsifiable.
+
+Forecast records help for the same reason. People remember dramatic successes and explain away ordinary misses. If you write down what you expected, by when, and what would count as being wrong, the future has something definite to grade.
+
+The objective is not to turn life into a forecasting tournament.
+
+It is to prevent memory from converting every old view into “basically right.”
+
+That phrase has bankrupted more intellectual honesty than money.
+
+A missed date matters when the trade had carrying cost. A wrong mechanism matters when the hedge depended on it. A forecast that was directionally right after the investor was forced out is not an investment success.
+
+Path matters.
+
+This is why scenario analysis should include time as well as outcome. The same war beginning next month, in five years, or never can produce three different returns from the same hedge. The same inflation arriving abruptly or slowly can reward different maturities. The same reconstruction program financed through grants or debt can create different winners.
+
+An investor who specifies only the destination has left the financing path blank.
+
+Markets charge for the path.
+
+There is also the question of correlated error. A portfolio can contain several independently researched positions that all rely on one hidden assumption. Oil, defense, gold, shipping, and domestic manufacturing may have separate spreadsheets and one shared belief that geopolitical fragmentation will intensify. If the belief is wrong, the research does not diversify the error.
+
+Independent analysis is not the same as independent risk.
+
+This is why the most useful challenge to a portfolio is not “What if each holding falls?” It is “What belief, if wrong, makes several holdings fail together?”
+
+That question often finds the narrative concentration that ordinary asset labels miss.
+
+The same applies to sources. Ten commentators citing the same intelligence leak are not ten independent confirmations. Five research reports using the same government dataset are five analyses of one evidence base. A market price and a news story can even be reflections of each other: the market moves on the story, then the story cites the market move as confirmation.
+
+Information can be correlated too.
+
+The investor should count sources by independence, not by volume.
+
+This becomes especially important during crisis because repetition feels like verification. The same video appears on ten accounts. The same anonymous official is quoted by several outlets. The same satellite image is interpreted by several analysts.
+
+The screen fills with agreement.
+
+The evidence may still be one item.
+
+Uncertainty discipline therefore has an operational side. Slow the update when the information is duplicated. Move faster when genuinely independent evidence converges. Distinguish what would affect the asset today from what would merely make the long-run story more interesting.
+
+Most importantly, allow a conclusion that feels incomplete.
+
+The risk increased.
+
+The position stays the same size.
+
+That can be a valid decision.
+
+Not every change in the world requires a change in the portfolio because the portfolio was built with some uncertainty already inside it. If every new headline forces a rebalance, the original allocation contained no tolerance band at all.
+
+Robustness means the world can move before you have to.
+
+That is what “I don't know” buys when used correctly.
+
+Not paralysis.
+
+Room.
