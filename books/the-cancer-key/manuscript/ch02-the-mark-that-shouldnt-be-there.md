@@ -199,3 +199,45 @@ Can the public retain enough access to data and foundational tools that the fiel
 The biological answer begins with a mark that should not be there.
 
 The economic answer begins when somebody learns to find it reliably.
+
+Prediction, however, is only half of the discipline.
+
+The other half is learning when the tumor has actually displayed what the model predicted.
+
+Immunopeptidomics tries to answer that question by collecting the peptides physically bound to HLA molecules and identifying them with mass spectrometry. In principle, this offers something unusually attractive in a field dominated by inference: direct evidence that a peptide reached the cellular shop window. A mutation may be present in DNA, expressed in RNA and predicted to bind HLA, yet still fail to appear in the measured HLA peptidome. When it does appear, the case for biological relevance becomes stronger.
+
+The measurement is powerful because it is incomplete.
+
+Mass spectrometry does not see every presented peptide. Abundant peptides are easier to detect than rare ones. Tissue quantity matters. Instrument settings matter. Sample preparation matters. Tumors are heterogeneous, and a specimen captures only part of the disease. Failure to detect a peptide is therefore not proof that the peptide is absent. Direct measurement becomes another filter rather than a final judge.
+
+That is a useful correction to the way computational medicine is sometimes discussed.
+
+The contest is not algorithm versus experiment.
+
+The useful system makes them disagree productively.
+
+Prediction can search an enormous space quickly. Experiments can expose where the search has become overconfident. Clinical outcomes can reveal whether either measurement was attached to the thing the patient actually needed. A mature platform should be able to move information in both directions: models nominate targets; laboratory evidence improves the models; treated patients reveal which combinations mattered in living disease.
+
+The feedback loop also changes what a failed target means.
+
+Suppose a selected peptide fails to generate a measurable T-cell response. The explanation could lie anywhere in the chain. The peptide may never have been presented. The vaccine may not have delivered enough antigen. The relevant T-cell repertoire may have been absent or suppressed. The immune assay may have missed a localized response. Or the response may have occurred and simply failed to control the tumor.
+
+A useful platform does not record all of those outcomes as one undifferentiated failure.
+
+It tries to locate the break.
+
+That is how personalization can become more than customization.
+
+Customization makes a different object for each patient. Personalization learns which differences matter.
+
+The distinction will determine whether bespoke cancer medicine remains artisanal or becomes cumulative science. If every patient's treatment is unique and the reasons for success or failure disappear into separate clinical records, the field repeatedly begins again. If the same workflow records the mutations, predicted targets, observed presentation, immune response and outcome in comparable form, uniqueness becomes analyzable.
+
+The patient of one enters a cohort without ceasing to be one patient.
+
+That is the statistical paradox at the heart of the field.
+
+A neoantigen may exist in only one tumor, but the evidence used to judge it is social. It comes from other peptides, other HLA molecules, other tumors, other patients and other trials. The promise of a treatment made for one person therefore depends on institutions capable of learning across many people without pretending they are interchangeable.
+
+The mark may be private.
+
+The knowledge required to read it never is.
