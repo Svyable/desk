@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 18 of 18 drafted |
+| **Chapters**  | 19 of 19 drafted |
 
 Energy and the Advance of the Human Race.
 
@@ -33,6 +33,7 @@ The working thesis is that the advance of human civilization can be read through
 - [x] [Ch 16 — The Build Rate](manuscript/ch16-the-build-rate.md)
 - [x] [Ch 17 — The Water-Energy Knot](manuscript/ch17-the-water-energy-knot.md)
 - [x] [Ch 18 — The Last Mile Is a System](manuscript/ch18-the-last-mile-is-a-system.md)
+- [x] [Ch 19 — The Flexible Civilization](manuscript/ch19-the-flexible-civilization.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
