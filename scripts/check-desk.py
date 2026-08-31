@@ -257,7 +257,7 @@ loader_text = LOADER.read_text(encoding="utf-8")
 for required in (
     "meta\\.published",
     "window.__IMPRINT?.role === 'desk'",
-    "Shared Reader catalog hook changed",
+    "Expected one shared Reader catalog gate",
 ):
     if required not in loader_text:
         fail(f"Reader loader is missing compatibility guard {required!r}")
