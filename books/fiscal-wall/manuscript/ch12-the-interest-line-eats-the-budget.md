@@ -323,3 +323,135 @@ More emergency borrowing starts from a higher base.
 The interest line eats the budget slowly enough that a country can spend years pretending it is still deciding what to have for dinner.
 
 By the time the plate looks empty, most of the meal has already been ordered.
+
+The arithmetic becomes clearer if the debt equation is translated back into plain English.
+
+At the beginning of a year, the government inherits a stock of debt.
+
+During the year, the economy grows or contracts. Prices change. Congress collects revenue. It spends on everything except interest. The gap between those two flows is the primary balance. Then interest is added.
+
+If the primary budget is in deficit and the effective interest rate is high relative to growth, the debt ratio has two forces pushing it upward.
+
+Current policy adds debt.
+
+Past policy compounds it.
+
+If growth is strong enough relative to the effective interest rate, the denominator pushes back. If the primary balance improves, current policy pushes back. Sustainable debt dynamics are the result of those forces rather than one magic debt ceiling.
+
+This is why the primary deficit deserves far more public attention than it receives.
+
+Interest is inherited.
+
+The primary balance is closer to a measure of what today's tax and spending system is doing before the inheritance is charged.
+
+A country with high debt and a primary surplus can be moving toward stability even while the nominal debt remains large. A country with a high debt ratio and a large primary deficit is asking the market to finance both the past and the present.
+
+The CBO baseline for 2026 made that distinction uncomfortable. The projected total deficit was about $1.9 trillion, and the primary deficit remained substantial even before net interest. This was not a recession year in the baseline. It was not a world war. It was not the first year of a pandemic.
+
+That matters because recessions make deficits larger automatically.
+
+Tax receipts fall.
+
+Unemployment insurance and other stabilizers rise.
+
+Congress often chooses additional relief.
+
+If the structural starting point is already a large deficit, the next downturn begins from a weaker fiscal position.
+
+The debt ratio can jump for good reasons at exactly the moment borrowing is most valuable.
+
+That is why fiscal space should be thought of as insurance rather than virtue.
+
+Running a smaller deficit in normal times is not morally superior because balanced budgets are aesthetically pleasing. It preserves the ability to run a larger deficit when private demand collapses or national security requires it.
+
+Interest consumes some of that insurance premium every year.
+
+The cost is especially difficult to see because the counterpart is often a benefit to somebody else.
+
+Higher Treasury interest can raise household income for savers. Money-market fund yields become attractive. Pension funds can lock in returns. Banks earn more on some assets. Foreign investors receive more dollars. In aggregate national accounting, the payment is not thrown into the sea.
+
+For fiscal policy, however, the distribution matters.
+
+Interest paid to a domestic household is still a claim financed by taxes or new borrowing. Some of it returns through income taxes, depending on the holder and account. Interest paid to a tax-exempt pension or foreign central bank has a different revenue loop. Interest paid to the Federal Reserve has yet another consolidated treatment because remittances depend on the Fed's own income and expenses.
+
+The net budget line therefore compresses a complicated map of recipients into one fiscal cost.
+
+That is appropriate for budgeting and incomplete for economics.
+
+This is why rhetoric about “wasting more on interest than on X” should be handled carefully. The comparison can reveal opportunity cost. It does not prove the social value of interest is zero or that the alternative program automatically deserves the money.
+
+The more important question is what the borrowing purchased when it was undertaken.
+
+An emergency bridge loan to the economy during a pandemic can carry a high future interest cost and still have been worthwhile.
+
+A debt-financed project that raises future productivity can partly service itself through a larger tax base.
+
+A permanent tax cut or spending increase with little effect on productive capacity creates a different legacy.
+
+Interest itself cannot distinguish them.
+
+This creates a case for better fiscal accounting before the debt is issued rather than outrage after the coupon arrives.
+
+Long-lived investments should be evaluated on long-lived returns.
+
+Temporary emergency borrowing should remain temporary when the emergency ends.
+
+Permanent policies should be judged at the permanent financing cost rather than the first-year cash cost.
+
+Rate sensitivity should be stress-tested rather than assumed away.
+
+These are less dramatic reforms than a balanced-budget amendment and more useful to actual decision making.
+
+The interest line also changes how tax cuts and spending increases should be compared across rate regimes.
+
+A policy enacted when the effective federal borrowing cost is low has one financing profile.
+
+The same policy enacted when marginal rates are much higher has another.
+
+This does not mean government should chase the bond market with every law. Long-run policy should not be rewritten every time the ten-year yield moves twenty basis points.
+
+It means the cost of permanence depends on the financial regime.
+
+Cheap money allowed the political system to ignore that dependency for longer than usual.
+
+The fiscal wall makes it visible again.
+
+There is a temptation to solve the problem by defining interest away.
+
+Because some Treasury securities are held by the Federal Reserve, analysts can say the government owes the money to itself. Because inflation can reduce the real value of nominal debt, they can say the burden will shrink. Because Treasuries are assets to private holders, they can say public debt is private wealth.
+
+Each statement captures part of the balance sheet.
+
+None eliminates the resource claim.
+
+If the Federal Reserve pays interest on reserves, consolidated public-sector costs can remain rate-sensitive. If inflation reduces the real value of fixed debt, creditors lose purchasing power and new borrowing may reprice higher. If Treasury securities are private wealth, the taxes used to service them are still public claims on income.
+
+Accounting identities organize the problem.
+
+They do not make it painless.
+
+The opposite temptation is to call every dollar of interest a national loss.
+
+That is wrong too.
+
+A stable government bond market allows households and institutions to save safely, provides collateral, establishes benchmark rates, and lets the country shift resources across time. The ability to borrow is enormously valuable.
+
+The purpose of fiscal discipline is not to avoid paying any interest.
+
+It is to preserve the option to pay interest when borrowing is worth doing.
+
+This is why a country can have substantial public debt and still be fiscally healthy.
+
+The target is not zero debt.
+
+It is a debt path that does not require increasingly large sacrifices merely to maintain the inheritance.
+
+The interest line is the best early warning because it converts abstract debt into annual political cost.
+
+Debt-to-GDP can rise slowly enough to feel theoretical.
+
+Interest appears in the budget every year.
+
+It tells Congress what the past is charging now.
+
+As more of the cheap-money portfolio rolls, that invoice becomes the most concrete measure of whether the fiscal wall is moving closer or receding.
