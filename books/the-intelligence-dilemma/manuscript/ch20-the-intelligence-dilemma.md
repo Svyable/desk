@@ -2,35 +2,81 @@
 
 The first time a student realizes the machine can do the homework, the obvious question is whether the student will use it.
 
-That is not the most important question.
+That question does not stay interesting for long.
 
-The more important question is what happens after everyone knows it can.
+The student will use it sometimes.
 
-The teacher knows.
+So will the teacher.
 
-The student knows the teacher knows.
+The institution will buy versions of it, restrict versions of it, build assignments around it, and occasionally discover that a new model has made yesterday’s policy obsolete.
 
-Parents know.
+The durable question begins after adoption.
 
-Universities know.
+What is happening to the learner?
 
-Employers know.
+That is harder to see than the technology.
 
-The meaning of the artifact changes before any policy catches up.
+A student can produce better work because AI helped the student understand more.
 
-An essay that once carried a rough presumption of authorship now carries less. A clean solution set proves less about the path that produced it. A polished presentation may represent deep work, competent supervision of a machine, or almost no understanding at all.
+A student can produce better work because AI replaced the part the student needed to understand.
 
-This book began with that broken inference.
+The page may look identical.
 
-School has always tried to infer invisible capabilities from visible work.
+That is the dilemma.
 
-Generative AI does not destroy that bargain completely.
+The same abundance of intelligence can increase capability or preserve the appearance of capability while development underneath it slows.
 
-It makes the old shortcuts less reliable.
+Schools cannot resolve that ambiguity with a general attitude toward AI.
 
-The response can go in two directions.
+Ban it.
 
-Schools can try to restore the old inference by force.
+Embrace it.
+
+Teach prompting.
+
+Return to paper.
+
+Detect it.
+
+Require disclosure.
+
+Each position can be right for a particular task and wrong as a philosophy of education.
+
+The school needs a more stable standard.
+
+Did the student become more capable?
+
+That question sounds simple because the word capable hides a great deal.
+
+Capable of what?
+
+Sometimes the answer is independent recall.
+
+Sometimes it is reasoning through an unfamiliar problem.
+
+Sometimes it is producing excellent work with modern tools.
+
+Sometimes it is recognizing when the tool is wrong.
+
+Sometimes it is working with people who will not adapt themselves perfectly to the student.
+
+Sometimes it is taking responsibility for a result produced through many kinds of assistance.
+
+Education has always contained these different forms of capability.
+
+AI makes schools name them.
+
+That is one of the technology’s gifts.
+
+It breaks weak proxies.
+
+A take-home essay no longer carries the same presumption about who made the sentences. A polished solution set tells less about the path that produced it. A competent-looking presentation can represent deep understanding, strong supervision of a machine, or almost none of either.
+
+The old evidence has not become worthless.
+
+It has become less self-explanatory.
+
+Schools can respond by trying to force the old inference back into existence.
 
 More surveillance.
 
@@ -38,450 +84,246 @@ More detection.
 
 More locked environments.
 
-More suspicion around polished work.
+Some controlled environments will remain necessary. If a credential claims that a student can do something independently, there must be occasions when that independence is actually observed.
 
-More rules about which button was pressed when.
+But control cannot repair every weak proxy.
 
-Some controlled environments will remain necessary. Certification requires them sometimes. A school that claims a student can perform independently needs occasions on which independent performance is actually observed.
+The deeper response is design.
 
-But control cannot be the whole answer.
+Know what the student is meant to learn.
 
-The other direction is harder.
+Decide what assistance belongs in that learning.
 
-Ask more precisely what students are meant to learn.
+Collect evidence appropriate to the capability being claimed.
 
-Design assistance around that purpose.
+Then revise the arrangement when the evidence says it is not working.
 
-Use AI where it increases practice, feedback, access, translation, rehearsal, or reach.
+This approach refuses two comforting stories.
 
-Remove it where it would substitute for a capability that still needs to be built or measured.
+The first is that AI is mainly a threat to authentic education.
 
-Collect better evidence of learning than a final artifact can provide.
+That story ignores what abundant help can provide.
 
-Keep human relationships where responsibility and belonging matter.
+A student who cannot afford a tutor can receive an explanation at midnight. A multilingual learner can cross a language barrier without waiting. A student can rehearse privately before speaking publicly. A teacher can produce practice at several levels, adapt materials, and reduce some of the production work that consumes time better spent with students.
 
-Teach students enough knowledge to evaluate the intelligence they can summon.
+Those gains matter.
 
-That is the intelligence dilemma.
+The second comforting story is that once a machine can perform a cognitive task, teaching the task has become obsolete.
 
-The machine can increase a student's capability.
+That story confuses production with development.
 
-It can also increase the appearance of capability while leaving the student roughly where they started.
+A calculator can make arithmetic cheaper without making mathematical intuition worthless. Search can make retrieval cheaper without making knowledge irrelevant. A language model can make writing cheaper without eliminating the value of learning to control claims, evidence, sequence, and voice.
 
-Those two outcomes can look identical on the page.
+Some old procedures should disappear.
 
-The entire problem is contained in that sentence.
+Others should remain because they build structures later judgment depends on.
 
-It explains why neither prohibition nor surrender is stable.
+The boundary will move.
 
-Prohibition ignores the genuine educational value of abundant assistance.
+That is not a failure of principle.
 
-A student who cannot afford a tutor can receive explanations at any hour.
-
-A multilingual student can ask for another rendering without embarrassment.
-
-A teacher can generate practice at several levels, translate family communication, create examples, and reduce some forms of administrative work.
-
-A student can rehearse before a difficult conversation, get feedback before a deadline, ask the question that felt too small to ask in class, or explore a topic well beyond the day's lesson.
-
-These gains are not imaginary because misuse is possible.
-
-Surrender makes the opposite mistake.
-
-It treats the existence of the tool as evidence that the underlying capability no longer matters.
-
-Why write if a machine can write?
-
-Why remember if a machine can retrieve?
-
-Why calculate if a machine can calculate?
-
-Why learn another language if translation is instant?
-
-Why understand the code if the code runs?
-
-The answer depends on the capability.
-
-Some old work should disappear.
-
-Students do not need to preserve every manual procedure after better tools arrive. Education has always changed around technologies. Nobody should romanticize the labor of copying a book by hand or calculating every logarithm from a table.
-
-But tools do not erase the need for internal models.
-
-The student still has to notice when the translation is wrong in a consequential way.
-
-When the code is insecure.
-
-When the source is fabricated.
-
-When the argument is fluent but empty.
-
-When the calculation violates a boundary condition.
-
-When the explanation is answering a different question.
-
-When the advice is technically plausible and socially disastrous.
-
-Judgment cannot operate on a blank mind.
-
-This is why the intelligence dilemma is not solved by replacing knowledge with “critical thinking.”
-
-Critical thinking is made of something.
-
-It draws on concepts, examples, vocabulary, causal models, remembered failures, disciplinary standards, and enough familiarity to recognize that a result deserves a second look.
-
-The student of the future may retrieve more and memorize less than the student of the past.
-
-That does not imply that the student can know nothing.
-
-The more powerful the external intelligence becomes, the more valuable it is to know what must remain inside.
-
-That boundary will move.
-
-Schools should expect it to move.
-
-There will be tasks taught today that become unnecessary tomorrow.
-
-There will be tools treated as optional today that become normal professional infrastructure.
-
-There will also be moments when institutions discover that a capability they allowed to atrophy was carrying more weight than expected.
-
-The only sensible posture is revision without amnesia.
+It is the reason schools need one.
 
 Do not defend a task because it is old.
 
-Do not discard a capability because a demonstration makes its automation look easy.
+Do not discard a capability merely because its output can be automated.
 
 Ask what the capability supports downstream.
 
-Then test the answer against real performance.
+A fact in memory is not valuable simply because remembering is virtuous. It may be valuable because it lets the student recognize an impossible answer before asking another system what to think.
 
-This is one place where education can learn from its own history.
+A first draft written without generation is not purer. It may be useful because choosing the frame is the exercise.
 
-The calculator did not end mathematics.
+A live oral defense is not more human than an essay. It may be useful because responsive questioning reveals ownership that the essay alone no longer shows reliably.
 
-Spellcheck did not end writing.
+A group project is not valuable because collaboration is fashionable. It may be valuable because other people impose claims, disagreements, and consequences that a personalized interface cannot remove.
 
-Search engines did not end knowledge.
+Purpose turns old educational forms from rituals into choices.
 
-Each technology changed which subskills deserved attention and which old proxies weakened.
+The same applies to assistance.
 
-Generative AI is broader because it reaches across many cognitive domains at once.
+The best educational AI will not always be the AI that does the most.
 
-That makes the transition more disruptive.
+Sometimes a good tutor explains immediately.
 
-It does not make educational purpose obsolete.
+Sometimes it asks for the first step.
 
-If anything, it makes purpose the scarce resource.
+Sometimes it gives a worked example.
 
-The machine can produce a lesson plan.
+Sometimes it leaves enough space for the learner to discover the misconception before covering it with a correct answer.
 
-The school still has to know what the lesson is for.
+Assistance should be judged by what it leaves behind.
 
-The machine can produce feedback.
+Does the student need less of the same help later?
 
-The teacher still has to know which feedback is worth acting on.
+Can the student transfer the idea?
 
-The machine can produce an essay.
+Can the student recognize an error?
 
-The student still has to know what kind of person writing is supposed to help them become.
+Can the student explain the reasoning?
 
-This sounds grander than it needs to be.
+Can the student choose what to delegate and what to keep?
 
-Sometimes the answer is modest.
+This is why the future of education will not be measured well by time spent with AI.
 
-The assignment exists because practicing fractions helps a child reason with ratios later.
+Heavy use can represent dependency or sophisticated leverage.
 
-The paragraph exists because constructing one teaches control over a claim and its evidence.
+Light use can represent strong independent capability or lost access to useful support.
 
-The lab exists because measurement behaves differently when the equipment is real.
+The interface is not the learning outcome.
 
-The oral defense exists because the school wants to hear the student reason in a way a file cannot certify.
+Neither is the absence of the interface.
 
-The group project exists because coordinating with other people is itself part of the work.
+The learner is the outcome.
 
-The school that knows why can make better choices about AI because it has something stronger than a technology policy.
+That should also govern how schools think about teachers.
 
-It has an account of education.
-
-That account should include independent capability.
-
-Students need things they can do without help.
-
-Not because independence is morally pure.
-
-Because tools fail, rules change, contexts differ, and judgment often has to happen before assistance arrives.
-
-A physician cannot be wholly dependent on a system to recognize that a recommendation may kill the patient.
-
-A citizen cannot outsource every judgment about public claims to another source without creating an infinite regress of trust.
-
-A writer who cannot hear a sentence at all is poorly positioned to supervise a machine that can generate thousands.
-
-A programmer who cannot reason about code is vulnerable to code that looks plausible.
-
-Independent capability is a reserve.
-
-Education should maintain it deliberately.
-
-The account should also include assisted capability.
-
-Modern competence is often competence with tools.
-
-A student who has learned to work only in artificially tool-free conditions may be poorly prepared for real practice.
-
-The goal is not to preserve a museum version of cognition.
-
-It is to teach students to use assistance without becoming opaque to themselves.
-
-What did the tool do?
-
-What did I decide?
-
-What do I understand now that I did not understand before?
-
-What could I still do if the tool disappeared?
-
-What can I now do because the tool exists?
-
-Those questions are more durable than any current list of approved products.
-
-The account should include evidence.
-
-Schools make claims.
-
-This student can read.
-
-This student can write.
-
-This student understands algebra.
-
-This student can conduct research.
-
-This student earned the degree.
-
-Those claims have consequences for the student and for everyone who relies on the credential.
-
-If AI weakens the evidence behind a claim, the school has to repair the evidence rather than merely scold the technology.
-
-That may mean more oral work.
-
-More observed process.
-
-More varied assessments.
-
-Independent checkpoints.
-
-Projects with visible decisions.
-
-Open-tool tasks designed to measure open-tool competence.
-
-It may also mean admitting that some grades never supported the claims people attached to them as strongly as everyone pretended.
-
-AI is a diagnostic instrument in this sense.
-
-It exposes weak proxies.
-
-An assignment that becomes meaningless the instant a competent drafting tool appears may have been measuring less than the institution hoped.
-
-That is not always true. Some valuable practice can be automated precisely because the practice builds a capability the finished product no longer reveals.
-
-But the disruption is an invitation to inspect the bargain.
-
-What evidence did we think we had?
-
-What evidence do we need now?
-
-The account should include human attention.
-
-This may become the most expensive part of school.
+AI will make some instructional functions cheaper.
 
 Explanation will get cheaper.
 
 Practice generation will get cheaper.
 
-Feedback on routine errors will get cheaper.
+Routine feedback will get cheaper.
 
-Translation will get cheaper.
+Translation and adaptation will get cheaper.
 
-The cost of an adult who knows the student, notices a change, exercises judgment, takes responsibility, and remains accountable to the same community will not fall in the same way.
+The savings create a choice.
 
-That makes the human relationship more economically tempting to remove.
+Schools can use them to increase human attention where human attention matters.
 
-It may also make it more educationally valuable.
+Or institutions can use them to justify removing humans because the remaining work is less visible on a dashboard.
 
-Schools should be careful not to automate away the part they were actually needed for.
+The second option will often look efficient first.
 
-A teacher is not valuable because no software can explain a quadratic.
+The first may be the larger educational gain.
 
-A teacher is valuable because teaching is not reducible to explanation.
+A teacher is not valuable because no machine can explain a quadratic.
 
-It includes deciding when the quadratic matters, noticing who has disappeared from the conversation, judging whether the class needs another example or a harder task, preserving a standard when the student wants relief, and occasionally recognizing a possibility in a student before the student does.
+A teacher is valuable because somebody has to own consequential judgments about developing people inside a community.
 
-Machines may participate in all of these tasks increasingly well.
+Who is responsible for this child?
 
-The institution still needs a human answer to the question: who is responsible for this child?
+Who knows why this assignment exists?
 
-The account should include limits.
+Who can decide that the dashboard is missing the story?
 
-Personalization is good until the student never has to encounter another person's needs.
+Who can set a standard and answer for it?
 
-Assistance is good until it replaces the practice being learned.
+AI can support those decisions.
 
-Data are useful until the learning process becomes a permanent profile.
+It should not make responsibility disappear between a model, a vendor, a teacher, and an institution.
 
-Feedback is helpful until the student cannot begin without it.
+The same principle should constrain personalization.
 
-Convenience is valuable until it removes the friction that was doing educational work.
+A system can become more useful by knowing more about a student.
 
-Independence is valuable until it becomes needless isolation.
+A school can become more intrusive by keeping everything that made the usefulness possible.
 
-No single principle survives every case.
+Students are supposed to reveal unfinished thinking in school.
 
-The word that keeps returning is purpose.
+They need places where wrong answers can die.
 
-This is frustrating because purpose does not scale as neatly as a universal rule.
+Where temporary confusion does not become permanent identity.
 
-A district can deploy one filter to every laptop.
+Where the record serves development rather than making development impossible to escape.
 
-It cannot answer once and for all how much AI assistance belongs in every assignment from kindergarten drawing to doctoral research.
+Memory should earn its place.
 
-The answer is local to the capability, the age, the context, and the claim being made.
+So should every other layer of the new system.
 
-Institutions will want simpler rules.
+The AI-use statement.
 
-They should resist simplicity where it destroys meaning.
+The detector.
 
-They should also resist complexity for its own sake.
+The oral defense.
 
-The goal is not to produce an elaborate taxonomy of AI use.
+The closed-book quiz.
 
-The goal is to make the educational reason visible enough that students and teachers can understand the boundary.
+The process log.
 
-This is why disclosure should not become confession.
+The new platform.
 
-Why assessment should not become surveillance.
+The old essay.
 
-Why independent work should not become nostalgia.
+Why is this here?
 
-Why AI use should not become proof of sophistication.
+What educational purpose does it serve?
 
-The technology is neither a stain nor a virtue.
+What capability does it protect or build?
 
-It is a participant in the learning environment.
+What evidence would tell us that it is working?
 
-The question is what participation does to the learner.
+That discipline is less exciting than most visions of AI in education.
 
-That question has an empirical answer.
+It is also more durable.
 
-Sometimes the student learns more.
+Models will improve. Interfaces will disappear into ordinary software. Features that feel extraordinary now will become background infrastructure. Students will stop thinking of many AI functions as AI at all.
 
-Sometimes the student finishes faster and learns less.
+A policy organized around today’s product names will age badly.
 
-Sometimes both happen.
+A school organized around development can adapt.
 
-A tutor can increase performance while creating dependency.
+The settlement is not a compromise halfway between prohibition and permission.
 
-A writing assistant can reduce pointless friction and reduce practice at the same time.
+It is a change in what the institution pays attention to.
 
-A model can help a novice enter a difficult subject and also make it easier to avoid building the knowledge needed to evaluate future answers.
+Less obsession with whether intelligence entered from outside the student.
 
-The effects will differ by student, task, tool, teacher, and timing.
+More attention to what changed inside the student because of the encounter.
 
-Schools should measure those differences rather than settling them by ideology.
+Less confidence in polished artifacts as self-explanatory proof.
 
-The strongest optimistic case for AI in education deserves to survive.
+More varied evidence of knowledge, judgment, transfer, and responsibility.
 
-A child with a question should be able to get help.
+Less romanticism about unaided work.
 
-A teacher should be able to multiply useful feedback.
+More deliberate protection of independent capability where it actually matters.
 
-A student who needs translation, rehearsal, accessibility support, or another explanation should receive it.
+Less fear that AI will make teachers unnecessary.
 
-A curious learner should be able to follow a question further than the local timetable permits.
+More pressure on schools to preserve the parts of teaching that deserve human accountability.
 
-A school should be able to use technology to free human attention from work machines can perform adequately.
+Less faith that universal access to a model automatically creates educational equality.
 
-The strongest caution should survive too.
+More effort to distribute the knowledge, guidance, infrastructure, and habits that let students turn assistance into learning.
 
-A student can become more productive without becoming more capable.
+This will be messy.
 
-Fluent output can hide weak understanding.
+Students will use AI brilliantly and badly, often in the same week.
 
-Unlimited assistance can erase diagnostic signals.
+Teachers will draw boundaries differently. Some will be too restrictive. Some will permit too much. Evidence will change. Tools will fail. Old assignments will survive longer than they should. New systems will be adopted because they are impressive before anyone knows whether they help.
 
-Students with more knowledge may benefit more from the same tool because they can judge it better.
+Education has always been like this.
 
-Institutions can collect extraordinary amounts of intimate learning data because personalization makes collection feel useful.
+The difference is that the output can now improve faster than the learner.
 
-And schools can mistake adaptation to a new technology for a reason to stop teaching old capacities before they understand what those capacities support.
+That makes it easier to lose sight of the person underneath the work.
 
-Holding both sets of facts at once is uncomfortable.
+The institution’s job is to keep looking there.
 
-That is why this is a dilemma rather than a campaign.
+A student should graduate able to use powerful tools without confusing their power with the student’s own.
 
-The settlement is not a compromise halfway between banning AI and adopting it everywhere.
+Able to accept help without surrendering judgment.
 
-It is a different question.
+Able to work independently when independence carries a purpose.
 
-Did the student become more capable?
+Able to collaborate with machines and people while remaining responsible for consequential decisions.
 
-Not merely more productive.
+Able to recognize uncertainty rather than cover it with fluent output.
 
-Not merely more polished.
+Able to keep learning when the system is wrong, unavailable, inappropriate, or simply not enough.
 
-Not merely more compliant with a new tool policy.
+The student does not need to prove that intelligence came only from one mind.
 
-More capable.
+No serious human achievement ever worked that way.
 
-Able to understand more.
+The student does need to remain present inside the achievement.
 
-Able to judge better.
+That is the standard.
 
-Able to act with and without assistance when each is appropriate.
+Use intelligence.
 
-Able to recognize uncertainty.
+Become more capable because of it.
 
-Able to work with other people.
-
-Able to take responsibility for a result.
-
-Able to know when the machine should not decide.
-
-Schools will not measure this perfectly.
-
-They never have.
-
-But they can organize around the question.
-
-That would already be a large improvement.
-
-The future classroom will probably look less futuristic than the debate around it.
-
-There will be screens.
-
-There will be paper.
-
-There will be models that can explain almost anything.
-
-There will be teachers repeating themselves anyway because this student needs the explanation from this person at this moment.
-
-There will be oral exams, projects, quizzes, drafts, simulations, arguments, and mistakes.
-
-There will be students who use AI brilliantly and students who use it to escape the work.
-
-Often they will be the same student on different days.
-
-The institution's job is not to sort children into users and cheaters.
-
-It is to build environments in which powerful assistance usually points toward learning rather than around it.
-
-The student who graduates should not be the student who proved they could avoid machines.
-
-Nor should it be the student who proved they could make machines produce convincing work.
-
-It should be the student who can use intelligence without disappearing inside it.
-
-That is a harder educational aim than the old bargain.
-
-It is also a better one.
+Do not disappear inside it.
