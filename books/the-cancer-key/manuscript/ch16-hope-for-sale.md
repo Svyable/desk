@@ -263,3 +263,81 @@ It is to keep the metal visible.
 The key may fit.
 
 Someone still has to test whether the door opens.
+
+The strongest protection against monetized ambiguity is not skepticism.
+
+It is complete follow-up.
+
+A direct-pay program can make itself more trustworthy by deciding before treatment what counts as an outcome and then looking for that outcome in every patient. Imaging should be scheduled by a defined plan rather than only when a patient feels better. Adverse events should be graded consistently. Death and progression should remain in the dataset even when families stop returning to the clinic. Manufacturing failures should count among people who began the process, not disappear because no injection occurred.
+
+The ordinary discipline of cohort accounting becomes an ethical technology.
+
+Selection enters before the first dose.
+
+Patients who can travel internationally, pay large sums and navigate genomic testing are not a random sample of people with advanced cancer. They may have more resources, better baseline health, stronger caregiver support and enough disease stability to complete a complicated process. If their survival exceeds an old historical average, the difference may reflect the people who reached the clinic as much as the treatment they received.
+
+This is why comparisons with “expected survival” are so treacherous.
+
+Expected for whom?
+
+A published median from a broad metastatic population is not the counterfactual for a selected person healthy enough to fly to another country for experimental therapy. The clinic can be sincere and still make an invalid comparison.
+
+Prospective registries help because they record the characteristics of the people entering the funnel. Better still are matched external controls built from high-quality contemporary data, though they cannot reproduce randomization perfectly. Even a disciplined single-arm program can become much more informative when it states the comparison it intends to make before seeing the outcomes.
+
+The word before does important work.
+
+Retrospective storytelling is flexible. Prospective definitions are less so.
+
+A clinic can also record refusal.
+
+How many patients were assessed and told the treatment was not appropriate? A provider that never says no may be operating under a different clinical standard from one that rejects poor candidates. The refusal rate can reveal whether the program is selecting for plausible benefit or merely accepting every customer capable of paying.
+
+Good frontier medicine should have reasons not to treat.
+
+Insufficient target quality.
+
+Disease progressing too quickly for manufacture.
+
+A standard therapy with stronger evidence that should be used first.
+
+Medical risk that outweighs plausible benefit.
+
+An inability to make the product to specification.
+
+Those refusals cost revenue.
+
+That is exactly why they are evidence of clinical independence.
+
+Conflict-of-interest disclosure becomes especially important when the physician, clinic, sequencing provider and manufacturer are financially connected. Integration can improve coordination and lower cost. It can also mean the person recommending the treatment benefits from every downstream purchase.
+
+The patient does not need a lecture on corporate structure.
+
+They need to know who gets paid if they say yes.
+
+Marketing can be disciplined the same way clinical endpoints are.
+
+Claims should be versioned as evidence changes. A program citing melanoma success should identify the studied product, disease setting and combination rather than allowing the phrase personalized cancer vaccine to float free. A case report should be labeled a case report. An immune response should be called an immune response. A radiographic response should include duration and concurrent treatments. A testimonial should not substitute for cohort data.
+
+None of this prevents hope.
+
+It prevents hope from being sold as a measurement.
+
+The patient can still choose uncertainty after seeing it clearly.
+
+That autonomy deserves more respect than the assumption that desperation makes adults incapable of difficult decisions. The ethical failure is not allowing a risky choice. It is manipulating the informational environment in which the choice is made.
+
+There is a useful test for any experimental clinic, large or small.
+
+Would its public story become less convincing if every treated patient were visible in the denominator?
+
+If the answer is yes, the business may be depending on missing data.
+
+The same test belongs in investor presentations and pharmaceutical press releases.
+
+Would the claim survive if the absolute numbers, failed batches, excluded patients and negative studies sat beside the favorable endpoint?
+
+Good science becomes more credible when the denominator grows.
+
+Bad marketing becomes less profitable.
+
+That is a trade worth designing for.
