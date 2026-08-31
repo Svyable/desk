@@ -46,17 +46,17 @@ A lawsuit cannot operate at the speed of a viral accusation because it gives def
 
 Public pressure often hates this because litigation produces narrow answers to broad grievances.
 
-The nH Predict lawsuit against UnitedHealth entities is an example. Plaintiffs alleged that an algorithm was used improperly in Medicare Advantage post-acute-care decisions. The companies disputed the allegations. A federal judge later dismissed the claims at that stage because the plaintiffs had not exhausted the Medicare administrative process.
+The nH Predict lawsuit against UnitedHealth entities is an example. Plaintiffs alleged that an algorithm was used improperly in Medicare Advantage post-acute-care decisions. The companies disputed the allegations. In February 2025, a federal judge held that the Medicare exhaustion requirement applied but waived exhaustion on futility grounds, dismissed five state-law causes of action as preempted, and allowed claims for breach of contract and breach of the implied covenant of good faith and fair dealing to proceed. By March 2026, the case was in discovery, where a magistrate judge compelled some material concerning the development and use of nH Predict and relevant government investigations while narrowing other requests.
 
-For people convinced that the system was unjust, the dismissal could look like evasion.
+For people convinced that the system was unjust, dismissal of most claims could look like evasion. For defendants, survival of two claims could just as easily be misread as validation of the plaintiffs’ allegations.
 
-Legally, exhaustion rules serve a purpose. They can require specialized administrative systems to address disputes before courts intervene. A procedural dismissal does not establish that the underlying allegations were false. It also does not establish they were true.
+Legally, exhaustion and preemption serve distinct purposes. Exhaustion can require specialized administrative systems to address disputes before courts intervene, while preemption determines when federal law displaces state-law claims. A motion-to-dismiss ruling can narrow which claims may proceed without establishing that the underlying factual allegations are either false or true.
 
 This is where public discussion routinely fails.
 
-“Case dismissed” becomes “company vindicated.”
+“Claims dismissed” becomes “company vindicated.”
 
-“Lawsuit filed” becomes “company caught.”
+“Claims allowed to proceed” becomes “company caught.”
 
 Neither is reliable.
 
