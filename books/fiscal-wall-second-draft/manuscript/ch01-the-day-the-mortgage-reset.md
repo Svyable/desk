@@ -287,3 +287,109 @@ The borrower is not broke.
 The payment changed.
 
 Everything else in the budget now has to notice.
+
+## The Locked-In Neighbor
+
+There is another household in the same neighborhood, and its story is almost the reverse.
+
+Its owner refinanced at three percent during the low-rate years and does not need to move.
+
+Market mortgage rates climb to seven percent. The owner's monthly payment does not change at all.
+
+At first, that looks like pure protection.
+
+It is protection.
+
+It is also a lock.
+
+Moving to a similar house would require giving up a cheap mortgage and taking a much more expensive one. Even a household whose income has risen may decide that changing homes is financially irrational. The low rate that once increased flexibility now reduces mobility.
+
+Economists and housing analysts describe this as a lock-in effect. The details belong to housing markets, but the broader lesson belongs to debt.
+
+A financing decision does more than determine the payment.
+
+It changes future choices.
+
+The Treasury faces its own version of this problem in reverse. Long-dated debt locks in a rate and protects taxpayers against future increases. If rates later fall, the government continues paying the old coupon. Short debt preserves the ability to benefit quickly from falling rates but forces taxpayers to accept whatever price the market demands at the next rollover.
+
+There is no perfect maturity because flexibility itself has a price.
+
+This is what makes the coming period unlike a simple household reset story. The federal balance sheet is a portfolio containing millions of reset decisions embedded in thousands of securities. Some pieces are locked. Some roll in weeks. Some reset their coupon before final maturity. Some compensate investors for inflation. Every month moves another slice of the portfolio from one rate regime into another.
+
+That creates a policy lag.
+
+Congress can enact a deficit today.
+
+The full carrying cost may emerge over years.
+
+The Federal Reserve can raise rates today.
+
+The full Treasury interest effect may emerge over years.
+
+Treasury can extend maturity today.
+
+The insurance value may not become obvious until a future inflation shock.
+
+Political time and financial time do not match.
+
+This mismatch is one reason public debt debates are so unstable. Advocates for more borrowing can point to the fact that nothing broke when the policy was enacted. Critics can point years later to interest costs that reflect a mixture of policies, rate regimes, and inherited maturities. Both can select a moment that supports the story they already wanted to tell.
+
+The better question is counterfactual.
+
+What did the borrowing buy, and what future flexibility did it consume?
+
+A debt-financed investment that raises productivity can increase both the liability and the capacity to service it. A debt-financed emergency response can prevent permanent economic damage. A debt-financed policy with weak returns can leave only the liability.
+
+The refinancing calendar eventually prices all three, but it does not distinguish them.
+
+Markets price the aggregate federal promise.
+
+Politics decides the quality of what the promise financed.
+
+This is why fiscal reform cannot be reduced to saying *borrow less*.
+
+A country can improve its future by borrowing for a project whose social return exceeds its financing cost. It can weaken its future by cutting productive investment merely to make one year's deficit look smaller. The relevant discipline is not an allergy to debt.
+
+It is a demand that debt preserve or expand future choices rather than consume them casually.
+
+Now return to the homeowner opening the reset letter.
+
+The household does not respond by declaring all mortgages immoral.
+
+It looks at the new payment.
+
+It looks at income.
+
+It looks at savings.
+
+It decides which commitments still make sense.
+
+It may refinance again later if rates fall. It may pay down principal. It may postpone a renovation. It may increase earnings. It may decide the house is worth the sacrifice.
+
+The reset forces prioritization.
+
+That is the political meaning of the federal refinancing wall.
+
+The United States has not received one letter with one new payment.
+
+It receives another envelope every auction day.
+
+The first few can be absorbed without changing much.
+
+Then the stack becomes visible.
+
+The country can still choose what to protect.
+
+It can still decide what to finance.
+
+It can still grow faster than the burden.
+
+It can still change the tax code, redesign programs, improve market infrastructure, and manage maturity.
+
+But each successful rollover at a higher price makes pretending less useful.
+
+The reset is not a verdict.
+
+It is information.
+
+The question is whether a wealthy borrower uses the information while choices remain voluntary.
