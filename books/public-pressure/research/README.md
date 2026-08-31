@@ -24,6 +24,8 @@ The target is not a theory in which CEOs, algorithms, regulators, workers, or cr
 8. **Conversion mechanisms:** Which forms of public pressure produce enforceable contracts, orders, procedures, audits, appeal rights, compensation, or other changed defaults?
 9. **Worker distribution:** When productivity gains from AI arrive, who receives saved time, higher output, reduced staffing, changed training paths, or new supervisory burdens?
 10. **Burden of proof:** As production of plausible text, audio, images, and organizational surfaces gets cheaper, which institutions bear the cost of preserving evidence and authenticating consequential acts?
+11. **Cost allocation:** When automated systems are wrong, who pays for review, delay, correction, compensation, and downstream damage, and how does that allocation change incentives upstream?
+12. **Veto capacity:** Which people or bodies have practical authority to pause, constrain, or reverse automated action, and do those vetoes remain usable when they conflict with revenue, speed, hierarchy, or political pressure?
 
 ## Falsification and counter-evidence
 
@@ -39,6 +41,8 @@ Every chapter should preserve evidence that pushes against the book’s central 
 - Deepfake and synthetic-media risks do not imply that all generated media should be restricted; translation, accessibility, satire, creative production, and legitimate automation can benefit from the same tools.
 - Worker resistance may correctly identify hidden risks, but workers and unions can also defend inefficient practices or resist changes that create larger social benefits.
 - Corporate safety claims can be self-serving, but activist claims, insider allegations, and viral examples also require evidence and should not receive automatic credibility.
+- Compensation can improve incentives but poorly calibrated liability can over-deter beneficial uses or favor incumbents able to absorb legal cost.
+- Veto rights can prevent irreversible mistakes but can also become ceremonial, captured, excessively cautious, or slow enough to destroy the value of legitimate automation.
 
 ## Evidence lanes
 
@@ -82,9 +86,9 @@ Use congressional hearing records involving AI and technology CEOs, OpenAI’s p
 
 Compare the EU AI Act’s phased implementation with U.S. sectoral enforcement and changing federal policy. Use the FTC Rite Aid facial-recognition case, FCC enforcement, civil-rights guidance, state/local laws, and current European Commission implementation materials.
 
-### X. Litigation, recourse, and proof
+### X. Litigation, recourse, proof, and remediation
 
-Use *Moffatt v. Air Canada*, copyright cases, health-insurance litigation, biometric enforcement, and other disputes to test how ordinary legal duties attach to automated systems. Track procedural posture carefully: complaint, motion, dismissal, verdict, settlement, final order, and appeal are different evidentiary states.
+Use *Moffatt v. Air Canada*, copyright cases, health-insurance litigation, biometric enforcement, insurance and remediation practice, and other disputes to test how ordinary legal duties attach to automated systems. Track procedural posture carefully: complaint, motion, dismissal, verdict, settlement, final order, and appeal are different evidentiary states. Track whether remedies repair only the visible claimant or the broader affected cohort.
 
 ## Chapter-to-evidence map
 
@@ -105,12 +109,14 @@ Use *Moffatt v. Air Canada*, copyright cases, health-insurance litigation, biome
 | 13 — The Insiders Revolt | When do employee dissent and whistleblowing function as organizational telemetry, and what process is needed before disagreement becomes revolt? |
 | 14 — The Regulators Arrive | Which accountability duties belong to model providers, deployers, professionals, intermediaries, and sectoral regulators? |
 | 15 — The Lawsuit as Product Feedback | How do courts force broad AI controversies into narrow questions of representation, duty, evidence, and remedy? |
-| 16 — When Pressure Works | Which campaigns alter defaults rather than merely produce exceptional treatment for visible cases? |
-| 17 — When Pressure Breaks | Where is the boundary among legitimate criticism, harassment, doxxing, fabricated evidence, threats, and violence? |
-| 18 — A Right to Appeal | What makes review timely, empowered, independent, and capable of feeding error information back into the original system? |
+| 16 — When Pressure Works | Which campaigns alter defaults rather than merely produce exceptional treatment for visible cases, and what keeps those reforms alive after attention leaves? |
+| 17 — When Pressure Breaks | Where is the boundary among legitimate criticism, harassment, doxxing, fabricated evidence, threats, violence, and cumulative sanctions based on unresolved claims? |
+| 18 — A Right to Appeal | What makes review timely, empowered, independent, harm-sensitive, and capable of turning one reversal into system-wide correction? |
 | 19 — The Burden of Proof | Who should preserve and produce evidence when the affected person cannot see inside the system and synthetic evidence is cheap? |
-| 20 — The Accountable Machine | What minimum institutional controls should follow increasingly agentic software into consequential workflows? |
-| 21 — Public Pressure | What does legitimate pressure demand from institutions, public officials, critics, and itself after the spectacle ends? |
+| 20 — The Accountable Machine | What minimum authority, identity, logging, blast-radius, stop, and recovery controls should follow increasingly agentic software into consequential workflows? |
+| 21 — The Cost of Being Wrong | How should liability, insurance, error reserves, compensation, and cohort remediation move the cost of avoidable automated error back toward actors able to prevent or repair it? |
+| 22 — The Permission to Say No | Which veto points are real rather than ceremonial, who can use them without retaliation, and how can pauses remain reversible and contestable rather than becoming paralysis? |
+| 23 — Public Pressure | What does legitimate pressure demand from institutions, public officials, critics, and itself, and what would a practical constitution for automated institutional power look like? |
 
 ## Source discipline
 
@@ -122,6 +128,8 @@ Use *Moffatt v. Air Canada*, copyright cases, health-insurance litigation, biome
 - For fraud-loss data, distinguish reported complaints from total incidence and avoid summing overlapping categories as if they were independent.
 - For job-impact claims, distinguish task exposure, occupational exposure, measured displacement, employer intent, productivity, and forecasted employment effects.
 - For model-governance claims, distinguish a published policy from evidence that the policy constrained a real deployment.
+- For compensation claims, distinguish legal damages, contractual payments, refunds, insurance recovery, reinstatement, correction, and voluntary remediation rather than treating every remedy as interchangeable.
+- For veto claims, distinguish nominal authority from evidence that a person or body could stop or delay a consequential action without retaliation.
 - Do not infer malicious intent from adverse outcomes without evidence. Incentives and foreseeable effects can matter independently of intent.
 - Do not infer legitimacy from professional polish, famous investors, executive reputation, regulatory engagement, or the use of advanced technology.
 - Never quote a public figure, executive, worker, regulator, researcher, or litigant without checking the original source.
