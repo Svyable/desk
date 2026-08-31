@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 16 of 20 drafted |
+| **Chapters**  | 17 of 20 drafted |
 
 ## Contents
 
@@ -27,12 +27,12 @@
 - [x] [Ch 14 — The Oral Return](manuscript/ch14-the-oral-return.md)
 - [x] [Ch 15 — The Data Shadow](manuscript/ch15-the-data-shadow.md)
 - [x] [Ch 16 — Curriculum After Answers](manuscript/ch16-curriculum-after-answers.md)
+- [x] [Ch 17 — The Apprenticeship Classroom](manuscript/ch17-the-apprenticeship-classroom.md)
 
 ## Planned chapters
 
 ### Part IV — School After Answers Become Cheap
 
-17. The Apprenticeship Classroom
 18. What Must Stay Human
 19. The School That Knows Why
 20. The Intelligence Dilemma
@@ -56,3 +56,4 @@
 - [Ch 14 research trail](research/ch14-the-oral-return.md)
 - [Ch 15 research trail](research/ch15-the-data-shadow.md)
 - [Ch 16 research trail](research/ch16-curriculum-after-answers.md)
+- [Ch 17 research trail](research/ch17-the-apprenticeship-classroom.md)
