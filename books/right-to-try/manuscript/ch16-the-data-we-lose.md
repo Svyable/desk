@@ -70,6 +70,48 @@ Expanded access contains a limited version of one. The FDA remains connected to 
 
 Federal Right to Try weakens some of that connection by design.
 
+That does not mean federal Right to Try creates no record.
+
+Congress required manufacturers or sponsors to submit an annual summary of use. The statute calls for the number of doses supplied, the number of patients treated, the uses for which the drug was made available, and known serious adverse events. FDA's implementing rule and reporting form operationalize that obligation.
+
+The information exists at the regulator-facing layer.
+
+The public layer is much thinner.
+
+FDA's consolidated annual Right to Try report does not publish the number of patients treated. Instead it reports the number of eligible drugs and biological products in three categories tied to a separate statutory rule governing how Right to Try outcomes may affect ordinary approval review.
+
+That rule is protective by design. FDA generally may not use a clinical outcome from Right to Try to delay or adversely affect review unless the agency determines that using the outcome is critical to evaluating safety, or the sponsor asks the agency to use it.
+
+The annual table therefore asks an unusual question about learning: did these outcomes enter the approval system strongly enough to be used?
+
+Through calendar year 2025, the published answer was strikingly consistent.
+
+For the combined 2018–2022 reporting period, FDA listed twelve eligible drugs or biological products in the category for which Right to Try clinical outcomes were not used in marketing review. It listed four in that category for 2023, five for 2024, and six for 2025. In every reporting period, the other two columns were zero: no listed product for which FDA determined the Right to Try outcome was critical to a safety determination, and none for which the sponsor requested that the outcome be used.
+
+Those annual figures should not be added and described as twenty-seven unique products. A product can appear in more than one reporting year.
+
+The zeroes also do not prove the cases produced useless information.
+
+A sponsor may have learned internally. A treating physician may have changed practice. A serious adverse event may have influenced decisions without fitting the statutory categories in the public table. Some products may never have reached a marketing application during the period. Congress deliberately made it difficult for an adverse Right to Try outcome to damage a development program unless the safety significance justified that use.
+
+Still, the public record reveals a real design choice.
+
+The government asks manufacturers for patient counts and serious adverse events, then publishes a consolidated summary from which the public cannot reconstruct the patient denominator and cannot see case-level outcomes.
+
+That is not an absence of reporting.
+
+It is a granularity gap.
+
+The distinction matters for this book because a system can satisfy a reporting statute while remaining a weak learning system for everyone outside the sponsor and regulator.
+
+A future patient asking the most elementary question—how many people have actually received treatment under the federal Right to Try pathway?—cannot answer it from the consolidated FDA table, even though manufacturers are required to report that number to the agency.
+
+This is what data loss can look like in a mature bureaucracy.
+
+The data is not necessarily missing.
+
+The useful connection between the data and the public question is missing.
+
 State experimental-treatment systems create an opportunity to rebuild it differently.
 
 Montana's licensing statute explicitly calls for data collection, quality assurance, outcome monitoring, and adverse-event reporting in experimental treatment centers. That is one of the most consequential parts of the law because it acknowledges that exceptional care can be a source of structured information.
