@@ -72,6 +72,22 @@ The agent can make complex loyalty programs more valuable to the consumer by red
 
 Breakage is the economic term for benefits that are issued and never redeemed. Gift cards, points, credits, rebates, and coupons all contain some amount of it. Programs price themselves partly around expected nonuse.
 
+This is not merely an informal business intuition. Modern revenue accounting has to confront unexercised customer rights directly. IFRS 15 uses the word breakage for rights customers do not exercise and specifies when an expected breakage amount can be recognized as revenue. The accounting rule does not tell a company how many people will forget. It reveals that expected nonuse can be economically material enough to sit inside the formal measurement of revenue.
+
+A tireless agent changes the input to that estimate.
+
+If software reliably redeems a monthly credit, the credit behaves less like advertising and more like a cost. If software notices every expiring travel certificate, the issuer can no longer assume the same rate of abandonment. If an agent submits every eligible rebate with the required evidence, the promotion has to survive contact with something closer to full exercise.
+
+The first-order effect looks like a windfall for consumers.
+
+The second-order effect is repricing.
+
+A program can lower the benefit, raise the membership fee, narrow eligibility, introduce a cap, shift value toward services with low marginal cost, or replace an awkward rebate with a smaller upfront discount. The issuer can also make the benefit genuinely attractive enough to justify its cost through retention rather than through nonuse.
+
+This is why agentic optimization is not a free-money machine.
+
+It is a device for forcing advertised obligations closer to their exercised cost.
+
 Tireless agents can reduce nonuse.
 
 This forces programs to change.
@@ -92,23 +108,7 @@ The consumer agent changes the average redemption rate.
 
 That is a recurring economic mechanism throughout this book. Many business models contain dormant obligations that are profitable because customers do not exercise them consistently.
 
-Price-match guarantees.
-
-Warranties.
-
-Return windows.
-
-Travel credits.
-
-Rebates.
-
-Loyalty benefits.
-
-Subscription cancellations.
-
-Insurance claims.
-
-Service-level commitments.
+Price-match guarantees. Warranties. Return windows. Travel credits. Rebates. Loyalty benefits. Subscription cancellations. Insurance claims. Service-level commitments.
 
 The agent wakes the obligations up.
 
@@ -150,7 +150,17 @@ A durable agent economy needs a concept of consumer-held context.
 
 Not every inference. Not every model weight. Enough practical information to make exit credible.
 
-This is the loyalty equivalent of number portability in telecommunications. Mobile-phone competition changed when consumers could keep their phone numbers while switching carriers. The number itself was not the whole relationship, but losing it had been a meaningful friction.
+There is an old infrastructure lesson here. Telephone number portability did not make telecommunications providers identical and it did not abolish contracts, device costs, network quality, or customer service. It removed one particular switching penalty: losing a familiar number. U.S. communications policy treated the ability to keep that identifier as competition-enhancing because customers could change providers without rebuilding a part of their social and commercial identity.
+
+Agent memory is far richer than a phone number, so the analogy should not be pushed too far. The useful principle is narrower. Competition can improve when the thing a customer has accumulated is separable from the company that currently serves the customer.
+
+For an agentic consumer, the portable object may not be a single identifier. It may be a practical preference dossier: household sizes, accessibility needs, dietary rules, disliked brands, warranty records, standard delivery instructions, travel constraints, trusted merchants, recurring purchases, and the user’s own declared priorities.
+
+If leaving one agent means reconstructing that history by hand, switching is formally possible and practically expensive.
+
+If the useful layer can move, loyalty has to earn more of its keep.
+
+This is the loyalty equivalent of number portability in telecommunications. The number itself was not the whole relationship, but losing it had been a meaningful friction.
 
 Agent preference portability could play a similar role across digital commerce.
 
