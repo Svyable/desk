@@ -199,3 +199,115 @@ The applicant nobody met may never become a public critic. The person may assume
 That silence is not evidence that the system worked.
 
 In automated institutions, the quietest people are often the ones the system removed before they could complain.
+
+The employer’s most difficult evidentiary problem begins with procurement. A hiring team can evaluate a candidate because the candidate is in front of it. Evaluating the tool requires information from a vendor whose commercial incentive is to make the tool look useful. Procurement therefore becomes an accountability function whether or not anyone in procurement thinks of the job that way.
+
+What exactly is the product predicting?
+
+How was the target variable defined?
+
+Which populations were represented in development data?
+
+What validation exists for jobs like ours rather than jobs in general?
+
+What happens when the employer changes the workflow around the product?
+
+Can we obtain enough information to investigate a complaint later?
+
+Can the vendor change the model without telling us?
+
+Can we export logs if the relationship ends?
+
+A contract that answers none of these questions can turn an employment decision into a black-box dependency before the first applicant sees the portal.
+
+Vendor claims deserve the same skepticism employers apply to candidates. “Science-backed,” “objective,” “predictive,” and “bias reducing” are propositions, not product categories. A buyer should ask what study supports the claim, who conducted it, what outcome was measured, and whether the result survives in the buyer’s actual setting.
+
+This matters because validity can be local. A system that predicts performance in one role may not predict it in another. A test that works well when applicants have stable broadband may behave differently when administered on older phones. A model trained on one language or labor market may fail when used elsewhere.
+
+Scale encourages organizations to forget this because software looks portable.
+
+The interface works everywhere.
+
+The evidence may not.
+
+The same issue appears after deployment. Suppose a company buys a screening tool, validates it responsibly, and finds acceptable results. Two years later the labor market changes, the applicant pool changes, the company redesigns the job, and the vendor updates the model. The original validation has become historical evidence.
+
+Automated hiring therefore needs monitoring, not merely predeployment certification.
+
+A bias audit performed once is a photograph. Employment systems are movies.
+
+This is one reason audit requirements can disappoint activists who expect them to produce a binary answer about fairness. The most valuable function of an audit may be creating a repeated measurement practice. Once a company knows it must look again, the system is less likely to become invisible infrastructure.
+
+The measurement should include the funnel, not just the final hire.
+
+Who saw the job advertisement?
+
+Who began the application?
+
+Who completed it?
+
+Who passed each screen?
+
+Who received an interview?
+
+Who received an offer?
+
+Who accepted?
+
+Who remained long enough to generate the “successful employee” outcome used in later models?
+
+Each stage can filter differently.
+
+A company that studies only final hires can miss the mechanism that produced them.
+
+This also reveals why accommodations should not be isolated in a compliance office. Accessibility is part of system quality. If an assessment excludes qualified applicants because it measures an irrelevant physical, sensory, or linguistic characteristic, the employer is not merely creating legal risk. It is degrading the search for talent.
+
+The argument for accommodation is therefore both legal and operational.
+
+A strong hiring system measures what the job actually requires.
+
+That sounds obvious until proxy variables arrive. Employers often use degrees, prior employers, gaps in employment, commuting distance, assessment speed, communication style, or other signals because they correlate with something valuable. Each proxy can also encode unrelated social structure.
+
+AI can discover proxies humans never would have chosen explicitly.
+
+This is part of its power.
+
+It is also why explanation matters at the feature and workflow level. A model can be predictive without the employer having a defensible reason to use every predictive signal. Employment law and organizational ethics can reject some correlations even when they improve prediction.
+
+Prediction is not permission.
+
+That sentence travels beyond hiring.
+
+A bank may predict default and still be restricted in which information it can use. An insurer may predict health outcomes and still face coverage rules. A government may predict fraud and still owe due process. The fact that a variable improves a model does not automatically make it legitimate input to institutional power.
+
+Hiring makes this unusually clear because employers routinely decide which qualifications count. AI does not remove the normative choice. It buries it one layer earlier, in data and target construction.
+
+Public pressure should therefore ask employers to describe the job before defending the model.
+
+What capability is actually needed?
+
+Why is this assessment relevant to it?
+
+What evidence connects the score to performance?
+
+What alternative routes exist for people the assessment does not measure well?
+
+These questions protect applicants and improve hiring at the same time.
+
+The final difficulty is that most people who are excluded will never complain. The company cannot treat complaint volume as the main safety signal. It needs affirmative sampling and audit.
+
+Take rejected candidates at random and examine whether the recorded reason is supportable.
+
+Test the system with applicants using assistive technologies.
+
+Compare outcomes when recruiters see model recommendations and when they do not.
+
+Study override behavior.
+
+Look for sudden distribution changes after a vendor update.
+
+These practices cost money because accountability costs money.
+
+The alternative is a labor market in which invisible filters shape opportunity while every rejected person assumes the decision was made by somebody else.
+
+The applicant nobody met should not need to become a plaintiff before the employer learns whether its own gate works.
