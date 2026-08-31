@@ -175,3 +175,65 @@ Machine learning adds something new: some transformations of information that pr
 That is a profound shift.
 
 It also gives the shift a power cord.
+
+The customer-support study is useful here because it makes “productive intelligence” measurable without pretending the result generalizes to the whole economy. Across 5,172 agents, Brynjolfsson, Li and Raymond found that access to a generative-AI assistant increased issues resolved per hour by about fifteen percent on average. The largest gains accrued to less experienced workers. In effect, the system helped diffuse patterns associated with stronger performers through the organization.
+
+That is not merely automation of typing.
+
+It is partial transmission of know-how.
+
+The finding suggests one route by which machine intelligence can raise productivity without replacing the worker who uses it. A novice encounters a difficult customer and receives a useful suggestion derived from the organization's prior experience. The machine makes some institutional memory available at the moment of need. What previously required tenure, a nearby mentor or a search through manuals becomes cheaper to retrieve.
+
+The limit appears in the same study. The strongest workers gained much less. A tool that lifts the bottom of a performance distribution does not necessarily extend the frontier by the same amount. The model can compress existing know-how before it creates genuinely new know-how.
+
+That distinction will matter for national productivity.
+
+A country can obtain large gains by diffusing best practice even if frontier capability barely moves. Manufacturing history is full of this. The average plant often lags the best plant by enough that management, maintenance, process control and organizational learning matter enormously. An AI system that helps ordinary organizations behave more like competent ones could create value without inventing a new material or theorem.
+
+Diffusion is innovation's quiet sibling.
+
+The digital-capital literature makes the same point from the firm side. Researchers studying the productivity effects of information technology have found that purchased hardware and software explain only part of the difference between firms. Organizations build intangible complements: redesigned workflows, skilled workers, databases, managerial practices and accumulated process knowledge. Those complements can be large, concentrated and slow to reproduce.
+
+Buying the machine is the easy step.
+
+This is why two firms can license the same model and diverge sharply in outcome. One has clean records, clear decision rights, automated tests, managers willing to change processes and customers whose needs are understood. The other has fragmented data, incentives that reward the old workflow and no way to verify what the model produces.
+
+Equal intelligence at the API boundary becomes unequal productivity after organizational conversion.
+
+Paul David's work on the dynamo and the computer gives this pattern historical depth. Electrification did not transform factories simply because an electric motor replaced a steam drive. The larger gains appeared as plants were reorganized around distributed electric power. Machines could be placed according to workflow rather than around a central shaft. Buildings, layouts and management changed.
+
+The physical technology changed the feasible organization.
+
+Computers later showed a similar lag between investment and broad measured productivity. Learning how to reorganize around a general-purpose technology takes time because the complements are not delivered in the crate.
+
+Artificial intelligence may compress some of that learning while also demanding a new round of it.
+
+A model inserted into the old workflow can save minutes. A redesigned workflow can eliminate handoffs, change which decisions are centralized, increase the span of control, move review to exceptions and make information continuously available. Those changes can produce larger gains and larger disruption.
+
+The distinction between assistance and redesign is economically consequential.
+
+Assistance leaves the organization legible. The lawyer still drafts; the model helps. The support agent still answers; the model suggests. The programmer still writes; the model completes. Redesign asks whether the old sequence of tasks is needed at all.
+
+That is where productivity becomes organizational politics.
+
+A manager who controlled a reporting process may lose authority when reports become automatic. A junior role may shrink when first drafts become machine-generated. A centralized expert group may lose its monopoly on knowledge when every branch office can query the same system. A compliance department may expand if cheap review makes universal monitoring feasible.
+
+Machine intelligence changes the internal price of asking for expertise.
+
+Organizations will spend more of what becomes cheap.
+
+This helps explain why measured productivity can lag capability. The first months of adoption often include experimentation, duplicate systems, training, security review and human checking. Firms run the old process and the new process together because they do not yet trust the new one. Costs rise before they fall.
+
+Learning has a carrying cost.
+
+A model can be excellent on a benchmark while the organization remains bad at deployment. The gap is not evidence that the capability is fake. It is evidence that productive intelligence is a system property.
+
+The same logic applies to governments. Cheap language and analysis can improve drafting, translation, case triage and citizen service. Those gains will be limited if agencies cannot change procedures, share data lawfully or empower employees to act on the analysis. A state can own frontier models and remain administratively weak.
+
+Intelligence has to reach a lever.
+
+This is perhaps the simplest way to distinguish information from productive force. Information becomes productive when it changes a decision that changes the world.
+
+The model can supply more possible decisions.
+
+The institution still has to choose and act.
