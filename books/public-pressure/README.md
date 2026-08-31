@@ -4,15 +4,15 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 21 of 21 drafted |
+| **Chapters** | 23 of 23 drafted |
 
 *AI, Anger, and the Revolt Against Institutions That Decide for Us.*
 
 The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. It changes the pressure gradient around them: automated action, synthetic persuasion, impersonation, and organizing become cheaper while consequential decisions can become harder to inspect, contest, and attach to a responsible person.
 
-The book follows that accountability gap from the public reaction to the killing of UnitedHealthcare CEO Brian Thompson through automated insurance and hiring, creative labor and training data, worker displacement, political deepfakes, crypto fraud, voice cloning, congressional hearings, employee revolts, regulation, litigation, appeals, and agentic systems. Its central distinction is between legitimate pressure and coercion: a complaint is not a verdict, an allegation is not a finding, a CEO is not the corporation, a model is not a person, and violence is not an appeal process.
+The book follows that accountability gap from the public reaction to the killing of UnitedHealthcare CEO Brian Thompson through automated insurance and hiring, creative labor and training data, worker displacement, political deepfakes, crypto fraud, voice cloning, congressional hearings, employee revolts, regulation, litigation, appeals, agentic systems, liability, and the institutional power to stop automation before an error becomes irreversible. Its central distinction is between legitimate pressure and coercion: a complaint is not a verdict, an allegation is not a finding, a CEO is not the corporation, a model is not a person, and violence is not an appeal process.
 
-The constructive argument is institutional. Powerful automated systems become more legitimate when authority remains bounded, consequential decisions are traceable and contestable, independent review exists, appeals can actually reverse outcomes, evidence is preserved, and responsibility remains attached to people or institutions capable of remedy.
+The constructive argument is institutional. Powerful automated systems become more legitimate when authority remains bounded, consequential decisions are traceable and contestable, independent review exists, appeals can actually reverse outcomes, evidence is preserved, error has a cost for the institution rather than only the affected person, and someone with real authority can still say no.
 
 ## Contents
 
@@ -37,7 +37,9 @@ The constructive argument is institutional. Powerful automated systems become mo
 - [x] [Ch 18 — A Right to Appeal](manuscript/ch18-a-right-to-appeal.md)
 - [x] [Ch 19 — The Burden of Proof](manuscript/ch19-the-burden-of-proof.md)
 - [x] [Ch 20 — The Accountable Machine](manuscript/ch20-the-accountable-machine.md)
-- [x] [Ch 21 — Public Pressure](manuscript/ch21-public-pressure.md)
+- [x] [Ch 21 — The Cost of Being Wrong](manuscript/ch21-the-cost-of-being-wrong.md)
+- [x] [Ch 22 — The Permission to Say No](manuscript/ch22-the-permission-to-say-no.md)
+- [x] [Ch 23 — Public Pressure](manuscript/ch23-public-pressure.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
