@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **49 books · 16 complete drafts · 1 in revision · 32 drafting**
+> **50 books · 16 complete drafts · 1 in revision · 33 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -61,6 +61,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Reliability Tax**](books/the-reliability-tax/) | ✍️ Drafting | 18 / 18 | ~65K | Redundancy, slack, reversibility, and spare capacity look inefficient because their costs are visible while their benefits are disasters that never happened. | [Read →](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
 | [**The Search Frontier**](books/the-search-frontier/) | ✍️ Drafting | 20 / 20 | ~70K | Civilization as search under constraint: advantage shifts toward systems that choose good possibilities, test them cheaply, learn quickly, and know when to stop. | [Read →](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
 | [**The Second Order**](books/the-second-order/) | ✍️ Drafting | 20 / 20 | ~70K | Models become part of the systems they describe: forecasts, rankings, targets, and scores change behavior, reshape evidence, and make adaptation part of prediction. | [Read →](https://svyable.github.io/desk/reader/#/b/the-second-order/) |
+| [**The Swarm: Agents in the Wild**](books/the-swarm-agents-in-the-wild/) | ✍️ Drafting | 29 / 29 | ~29K | A field guide to synthetic ecology: what changes when agents gain memory, tools, budgets, identity, reputation, and one another, then begin participating in institutions as a population rather than isolated assistants. | [Read →](https://svyable.github.io/desk/reader/#/b/the-swarm-agents-in-the-wild/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | 19 / 19 | ~70K | *When Humans and AI Cross the Event Horizon of Thought*: a complete working manuscript about the boundary conditions of intelligence becoming less bounded by individual minds. | [Read →](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
 | [**The Value Stack**](books/the-value-stack/) | ✍️ Drafting | 19 / 19 | ~70K | Value creation and value capture happen at different layers; bargaining power migrates toward necessary layers that are difficult to replace. | [Read →](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✍️ Drafting | 10 / 11 | ~38K | Liquidity is voluntary behavior, not a permanent resource—and it can disappear precisely when algorithms, leverage, ETFs, and crowded systems all need it most. | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
