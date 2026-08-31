@@ -357,3 +357,139 @@ And they do enough early that the next crisis can still be financed.
 The best escape is the one nobody later calls an escape.
 
 It becomes ordinary budget policy again.
+
+The Social Security trust-fund calendar illustrates why early adjustment has a quality that late adjustment cannot buy.
+
+The 2026 Trustees Report projected that the Old-Age and Survivors Insurance trust fund would be depleted in the fourth quarter of 2032 under the intermediate assumptions, with the combined OASDI funds reaching depletion later if the funds were hypothetically combined. The legal and policy details matter, and Congress can change them. The relevant point here is time.
+
+A retirement-system change announced years before a financing shortfall can be phased. Workers far from retirement can adjust saving and labor decisions. Revenue changes can be introduced gradually. Benefit formulas can protect people with little ability to change plans. A broad negotiation can distribute the adjustment across cohorts.
+
+The same arithmetic addressed at the last possible moment becomes more abrupt.
+
+There are fewer years over which to spread the change.
+
+This is true of the fiscal wall more generally.
+
+Time is a policy instrument before it becomes a financing constraint.
+
+A government that begins adjustment while auctions are orderly can choose sequencing. It can protect recession-sensitive programs. It can distinguish current beneficiaries from younger cohorts. It can pair revenue with spending changes. It can invest in administrative capacity before changing tax bases or health-payment systems.
+
+A government adjusting after yields spike or market access narrows has fewer choices.
+
+The size of the eventual accounting adjustment may be similar.
+
+The human experience is not.
+
+This is why the most durable fiscal changes often look unimpressive at first.
+
+A quarter-point change in a payroll tax introduced over several years.
+
+A benefit formula altered for future cohorts rather than current retirees.
+
+A slower growth rate in a tax expenditure.
+
+A health-payment reform that compounds savings instead of announcing a giant nominal cut.
+
+A budget rule that forces permanent policies to reveal permanent financing.
+
+No one measure rescues the republic.
+
+Several measures that survive can change the trajectory.
+
+The Canadian adjustment of the 1990s is useful for this reason, though it should not be converted into a U.S. recipe. Canada combined spending restraint with institutional and political changes, benefited from an improving interest-rate environment, and operated in a different federal structure and economic setting.
+
+The lesson is not *cut spending like Canada*.
+
+It is that fiscal arithmetic can change when policy, institutions, and macroeconomic conditions reinforce one another.
+
+Sweden offers a different version. A severe banking and fiscal crisis helped generate reforms to budget institutions and fiscal rules. Again, the country is smaller and the political settlement is different. The relevant lesson is that rules can improve durability after a coalition has decided what it is willing to constrain.
+
+Rules cannot substitute for the coalition.
+
+A numerical ceiling that the political system repeatedly suspends creates less discipline than a modest process that lawmakers actually respect.
+
+The United States in the 1990s demonstrates the danger of assigning too much causal credit to one policy. The federal balance moved from deficit to surplus through a mix of tax and spending decisions, strong growth, lower defense spending after the Cold War, favorable demographics, and unusually strong revenue from asset markets.
+
+A different economy would have produced a different result from the same laws.
+
+This is the recurring lesson of fiscal history.
+
+Policy matters.
+
+Context matters.
+
+The exit is a combination.
+
+Growth deserves special skepticism because it is the favorite painless solution of every coalition.
+
+A sustained productivity boom would transform the wall. More real output means a larger tax base without the same inflationary erosion. It can improve living standards while making debt smaller relative to national income.
+
+But a fiscal plan should distinguish between growth that is assumed and growth that is caused.
+
+Writing a higher GDP number into a forecast does nothing.
+
+Policies that plausibly raise supply—productive infrastructure, research, labor-force participation, immigration rules, competition, faster permitting where appropriate, education that actually builds useful skill, reliable energy—can help. Their returns are uncertain, distributed, and often slow.
+
+Some will fail.
+
+Growth is a portfolio too.
+
+The same caution applies to tax cuts advertised as self-financing. Lower marginal rates can improve incentives in some contexts, but the evidence does not support treating every tax cut as revenue-neutral through growth. The scale, base, timing, and starting rates matter.
+
+A serious exit counts the revenue loss that remains after behavioral effects rather than declaring the behavioral effect complete in advance.
+
+Spending has a parallel problem.
+
+A dollar called investment is not automatically productive.
+
+A dollar called waste is not automatically removable without consequence.
+
+The classification has to survive evidence.
+
+This is why adjustment requires institutions capable of evaluation rather than only slogans about size.
+
+Health spending deserves particular attention because the long-run federal budget is shaped not merely by how many people receive care but by the price and intensity of that care. Reducing health-cost growth without reducing useful health can improve the fiscal path in a way that a blunt benefit cut cannot.
+
+That is hard policy.
+
+Payment incentives, provider competition, drug prices, administrative cost, preventive care, and technology interact. Savings estimates are uncertain. Stakeholders adapt.
+
+The difficulty does not make the category optional.
+
+It makes simplistic promises less credible.
+
+Defense poses an equally uncomfortable tradeoff. A country cannot choose its security environment from a budget spreadsheet. Cutting military spending can create fiscal room and strategic risk. Increasing it can be necessary and fiscally costly.
+
+This is one reason a durable adjustment has to preserve a contingency margin rather than optimizing every dollar around a peaceful baseline.
+
+The budget is partly a portfolio against bad futures.
+
+A nation escapes the wall when it stops needing a perfect future to make the portfolio work.
+
+Financial repression is tempting precisely because it appears to avoid visible bargaining. If regulations or central-bank policy hold real government borrowing costs below growth, the debt ratio can improve without one explicit tax bill labeled *debt reduction*.
+
+History shows that this can be powerful.
+
+It also shows the cost is distributed through savers, financial institutions, capital allocation, and inflation.
+
+In a globally mobile modern system, strong repression can encourage capital to seek alternatives, raise political conflict, and weaken the very financial network that makes Treasuries cheap.
+
+The modern United States has more to lose from degrading market openness than a closed postwar system did.
+
+That does not mean prudential regulation should be weakened to preserve investor freedom. It means prudential rules should be justified by prudential goals rather than quietly turned into a captive-financing program.
+
+The line matters most when fiscal pressure rises.
+
+Default remains the least plausible voluntary exit because it destroys the asset that makes all the other exits easier. A Treasury security is not just a promise to pay. It is collateral, reserve asset, benchmark, liquidity instrument, and settlement convention.
+
+Restructuring that promise would impose losses throughout the same institutions the government needs to keep financing the economy.
+
+The United States has far cheaper options before it reaches that one.
+
+That fact is reassuring.
+
+It is also an argument for using the cheaper options while they are still choices.
+
+The difference between adjustment and crisis is often not the amount of sacrifice.
+
+It is who chooses the timing.
