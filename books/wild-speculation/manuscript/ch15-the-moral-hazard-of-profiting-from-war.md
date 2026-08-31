@@ -181,3 +181,79 @@ Money is one lens on history.
 It is not history’s purpose.
 
 The investor who remembers that is less likely to confuse being right about a trade with being right about the world.
+
+There is one more distinction worth making because it changes the ethical weight of the transaction. Most purchases by ordinary investors happen in the secondary market. You buy shares from another owner. The company usually does not receive your purchase price. That is different from subscribing to a new share issue, buying newly issued debt, supplying venture capital, or lending directly to a project. Those transactions can provide fresh capital. Secondary-market trading mostly changes who holds the claim and at what valuation.
+
+The distinction does not make secondary ownership morally irrelevant. Liquid markets and valuations affect the cost of capital over time. Executives are paid partly in stock. Acquisitions can be financed with shares. A high valuation can make future issuance easier. Index inclusion can create demand. Employees notice whether their equity is valuable. The market around a company influences the company even when one trade does not hand it cash.
+
+But causality deserves precision here too.
+
+If you buy ten shares of a mature contractor from another saver, you did not personally finance ten missiles.
+
+If you buy bonds in a new financing used to expand a weapons plant, the link is more direct.
+
+If you invest in a startup whose only product is a military system, the link is more direct still.
+
+Ethical analysis should become more specific as the capital becomes more specific.
+
+That prevents two convenient exaggerations. One exaggeration says ownership has no consequences because every trade is merely between investors. The other says every dollar invested in a public company flows mechanically into the activity the investor dislikes. Neither describes modern capital markets very well.
+
+The chain matters.
+
+So does stewardship. A shareholder can vote, engage management, support disclosure, oppose compensation, or ask how export controls and human-rights policies are implemented. Large institutions have more leverage than small investors, but even institutions face a tension: engagement can improve conduct, or it can become a ritual used to justify indefinite ownership without measurable change.
+
+Selling is clear.
+
+Engagement is ambiguous.
+
+Both can be sincere.
+
+This is why precommitment helps ethically as much as financially. Decide before the crisis what would make an investment unacceptable. Perhaps the boundary is a class of weapon. Perhaps it is sales to sanctioned customers. Perhaps it is a governance failure, a pattern of unlawful conduct, or the company becoming dependent on a conflict continuing. The exact line belongs to the investor. What matters is drawing it while the stock price is not arguing back.
+
+Otherwise success can rewrite the rule.
+
+A company crosses the boundary after the position doubles, and suddenly the boundary acquires exceptions.
+
+The reverse can happen too. A company falls, and moral discomfort becomes a respectable explanation for a sale that is really about regret.
+
+The mind is good at making principle arrive on schedule for the portfolio.
+
+Writing the rule down makes that harder.
+
+There is a broader political-economy question underneath all of this. A society that wants deterrence cannot demand industrial capacity only after the emergency and expect private firms to preserve expensive factories, suppliers, and skills for free during peace. Somebody must finance readiness before it is needed. That can be the state through arsenals and public capacity. It can be private contractors through stable procurement. It can be a mix.
+
+The existence of profit is therefore not evidence that the system failed morally. Profit can be the mechanism that keeps capacity available.
+
+The amount, source, and conditions of the profit are the real questions.
+
+Was competition meaningful?
+
+Did the company assume risk or merely receive guaranteed returns?
+
+Did it invest in surge capacity when demand was uncertain?
+
+Did it exploit emergency pricing after public money had already absorbed the downside?
+
+Did executives allocate windfalls to production, workers, and research, or simply to financial engineering?
+
+These questions do not have the emotional simplicity of “war profiteer.” They are better questions because they can distinguish necessary industrial reward from rent extraction.
+
+The investor can apply the same standard to himself.
+
+What risk are you actually bearing?
+
+What useful function does the position perform?
+
+Would you still describe the thesis the same way to someone whose family is inside the conflict?
+
+That last question is not a test of whether the investment is permissible. It is a test of whether the language has become anesthetized.
+
+Finance needs abstraction. A portfolio containing hundreds of companies cannot be lived as hundreds of biographies. A commodity future cannot contain every household affected by the price. Abstraction is how markets coordinate enormous systems.
+
+The danger begins when abstraction becomes innocence.
+
+The price is real.
+
+So is what the price is about.
+
+Owning both facts at once is harder than choosing a slogan. It is also the only ethical position that does not require the market to become simpler than the world it finances.
