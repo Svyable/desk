@@ -233,3 +233,83 @@ The writer in the training set is not merely afraid of a clever machine.
 The writer is asking whether a new industrial system can absorb the evidence of human labor while making the laborer disappear.
 
 Public pressure begins by making the laborer visible again.
+
+Visibility, however, does not solve bargaining power. A novelist can discover that a book was included in a data set and still have no practical way to negotiate with a model developer. A photographer can place a notice on a website and still struggle to know whether a crawler honored it. A freelance illustrator can object to style imitation without possessing a legal right in style as such. Information can make the grievance precise while leaving the creator economically weak.
+
+This is where collective institutions may reappear in forms that do not resemble traditional unions.
+
+Publishers can license catalogs. Stock-media companies can negotiate access to libraries. Rights organizations can aggregate claims. Professional associations can establish contract terms. Platforms can provide standardized metadata about permitted uses. New intermediaries can emerge whose business is proving provenance and collecting payment.
+
+These institutions create their own risks. The intermediary that negotiates for creators can become another gatekeeper. A licensing collective may favor works that are easy to identify and monetize. A publisher may receive bargaining power that the individual author never gains. Technical standards may privilege large repositories capable of implementing them.
+
+The existence of a market is not evidence that the market distributes value fairly.
+
+Still, collective bargaining solves a real transaction-cost problem. A model developer cannot negotiate separately with every creator whose work might be useful. A creator cannot negotiate separately with every model developer. Rights aggregation exists in other creative industries because bilateral bargaining does not scale.
+
+AI may force new versions of familiar institutions rather than an entirely new economic order.
+
+The important design question is whether the creator retains enough information and choice to evaluate the bargain.
+
+Opt-out systems are often proposed because they preserve broad access unless a rightsholder objects. They are attractive for scale and difficult for creators who do not know a system exists, do not know whether their work is included, or have to repeat the request across many companies.
+
+Opt-in systems give permission a stronger role but can make large-scale training far more expensive and may exclude works whose owners cannot be located. Public-domain, orphaned, licensed, and user-generated material create additional categories.
+
+There is no frictionless consent architecture.
+
+That does not mean all architectures are equivalent.
+
+A company can make data practices easier or harder to inspect. It can maintain source records. It can publish meaningful categories. It can respect machine-readable preferences where legally and technically appropriate. It can create channels for creators to report memorized outputs or disputed uses. It can negotiate licenses where the market supports them.
+
+These choices determine whether “we trained on the internet” functions as an explanation or an evasion.
+
+The output side requires equal care because creators often recognize harm first through resemblance. An artist sees an image that looks uncannily like their work. A performer hears a voice that sounds like theirs. A writer sees a passage that resembles a book. Recognition is evidence worth investigating. It is not always proof of infringement or data inclusion.
+
+Models can reproduce broad conventions shared across a field. Users can prompt for recognizable characteristics. Training data may include lawful references, licensed material, or works by many creators with overlapping styles. The legal conclusion cannot be read directly from aesthetic discomfort.
+
+The discomfort still contains information about the market.
+
+If customers can obtain “something like” a creator cheaply enough, demand may change even where no output is legally infringing. Copyright law does not guarantee every business model against technological substitution. Labor and contract therefore remain essential parts of the response.
+
+This is why the WGA and SAG-AFTRA outcomes matter beyond Hollywood. They show that a creative worker can preserve bargaining rights around technology even when copyright does not answer the employment question.
+
+A voice actor can negotiate the scope of a replica license.
+
+A writer can preserve credit rules.
+
+A game performer can negotiate use of scans.
+
+A publisher can negotiate access to a catalog.
+
+A customer can pay a premium for verified human work.
+
+Different markets can attach value to provenance in different ways.
+
+The public debate often assumes a single future in which synthetic abundance drives creative value toward zero. That is not inevitable. Abundance can increase demand for curation, trusted identity, live performance, reputation, and work whose provenance is itself part of the product.
+
+The question is whether those new forms of value compensate the people whose old market shrinks.
+
+Markets do not promise that they will.
+
+Policy cannot promise it either without freezing technological change.
+
+What institutions can do is make transitions less one-sided. They can protect against deceptive replicas, enforce contracts, maintain attribution where required, create bargaining channels, make data sourcing more legible, and preserve rights to negotiate new uses.
+
+This is less emotionally satisfying than a declaration that human creativity is sacred and therefore economically safe.
+
+Creative work has never been economically safe.
+
+Printing displaced scribes. Recorded music changed live performance. Photography changed portraiture. Television changed radio and film. Digital distribution changed newspapers, music, and publishing. New tools create audiences while destroying some old margins.
+
+The ethical question is not whether change occurs.
+
+It is whether powerful actors can use technological novelty to bypass every institution through which creators previously had standing.
+
+That is the real fear inside the phrase “training on my work.”
+
+The creator is not only asking whether a machine saw the work.
+
+The creator is asking whether seeing became a way of removing the creator from the next transaction.
+
+A legitimate AI economy does not need to answer that question with universal payment for every influence.
+
+It does need an answer better than disappearance.
