@@ -2,430 +2,238 @@
 
 The easiest part of teaching to imitate is the part that looks most like answering questions.
 
-A student asks what photosynthesis is.
+What is photosynthesis?
 
-The teacher explains.
+How do you factor this quadratic?
 
-A student asks how to factor a quadratic.
+Why did the Roman Republic collapse?
 
-The teacher demonstrates.
+For a long time, explanation was one of the most visible forms of teacher expertise because good explanations were scarce.
 
-A student asks why the Roman Republic collapsed.
+Then search made facts abundant. Video made demonstrations abundant. Generative AI makes customized explanation abundant.
 
-The teacher gives context.
+A student can now ask the same question ten ways and receive ten explanations without waiting for office hours or revealing confusion in front of classmates.
 
-For a long time, this made knowledge delivery one of the most visible functions of the profession.
+That is useful.
 
-Then the internet made explanations abundant.
+It also exposes a category error.
 
-Video made demonstrations abundant.
+If a teacher is mainly an answer source, a sufficiently capable model is an obvious competitor.
 
-Search made facts abundant.
+Teaching is not mainly answer supply.
 
-Generative AI makes customized explanation abundant.
-
-A student can now ask the same question ten different ways and receive ten different explanations without waiting for office hours or revealing confusion in front of classmates.
-
-This is useful.
-
-It also exposes a misunderstanding about teachers.
-
-If the teacher’s main job is to supply answers, then a sufficiently capable machine is an obvious competitor.
-
-If the teacher’s job is something else, abundance changes the job without eliminating it.
+It is judgment about a learner inside a context.
 
 The machine can explain why the answer is B.
 
-The teacher has to notice that the student stopped believing they can do mathematics three months ago.
+The teacher has to decide whether another explanation is what this student needs.
 
-The machine can rewrite an explanation at a lower reading level.
+The machine can simplify a passage.
 
-The teacher has to decide whether simplifying the text helps this student access the science or quietly lowers the level of thought the student is expected to reach.
+The teacher has to decide whether simplification removes a barrier or lowers the level of thought the student should reach.
 
 The machine can generate comments on an essay.
 
-The teacher has to decide which two comments matter enough to say now, and whether the student needs criticism, challenge, encouragement, or a conversation about why the work is not really theirs.
+The teacher has to decide which comment matters now, whether the student needs challenge or encouragement, and whether the apparent writing problem is really a reading problem, a confidence problem, or an authorship problem.
 
-The machine can answer endlessly.
+Good teaching is selective intervention.
 
-Teaching is not endless answering.
+Sometimes the teacher explains.
 
-It is selective intervention.
+Sometimes the teacher waits.
 
-Good teachers do not tell students everything they know.
+Sometimes a question is more useful than an answer.
 
-They decide what not to tell them yet.
+Sometimes a student needs rescue from pointless confusion. Sometimes the student has learned that immediate rescue is available and needs a little more responsibility instead.
 
-They allow a silence to last.
+The work is not simply knowing the next piece of information.
 
-They ask a question instead of giving a solution.
+It is deciding the next useful move.
 
-They repeat an instruction because a student truly missed it, and refuse to repeat another because the student has learned that helplessness can summon rescue.
+That requires context.
 
-They change the example because the first one failed.
+Where is this student now?
 
-They abandon the lesson plan because the room is telling them something more important is happening.
-
-They recognize when the problem is academic and when the academic problem is only the visible surface.
-
-That work is less like an encyclopedia than like navigation.
-
-The teacher is continuously estimating position.
-
-Where is this student?
-
-What is this student ready for?
-
-What happened between yesterday and today?
+What changed since yesterday?
 
 What kind of difficulty is this?
 
-Is the student confused, careless, underprepared, anxious, disengaged, exhausted, pretending, or experimenting?
+What standard should remain firm?
 
-What is the next useful move?
+What should bend?
 
-An answer key does not need to know any of that.
+What does this student need from the room, not only from the lesson?
 
-A teacher does.
+AI can support those judgments increasingly well. It can surface patterns, suggest possible explanations, summarize recent work, or propose interventions.
 
-This is why better AI explanations do not necessarily reduce the value of teachers.
+The important institutional question is who remains responsible for the decision.
 
-They can remove a portion of teaching that consumed time without constituting the whole profession.
+Responsibility is different from fluency.
 
-The same thing happened in other fields when information became easier to access.
+A model can offer a persuasive recommendation without bearing the consequences of that recommendation.
 
-Doctors did not disappear when patients could search symptoms.
+Should this student pass?
 
-Lawyers did not disappear when case law became searchable.
+Should this work be treated as misconduct?
 
-Engineers did not disappear when calculation became automated.
+Does this student need intervention?
 
-In each case, the value moved toward judgment under conditions of complexity.
+Should the student be moved into another group?
 
-Education is doing the same thing.
+Is the accommodation helping access the target skill or replacing it?
 
-When explanation is scarce, explanation looks like expertise.
+These are not merely predictions.
 
-When explanation is abundant, diagnosis becomes easier to see.
+They are decisions about people.
 
-This shift will be uncomfortable because institutions often evaluate teachers through the visible things AI can imitate most easily.
+Schools need identifiable humans who can explain why the decision was made, consider evidence the system did not see, change course, and answer when the decision causes harm.
 
-Lesson plans.
-
-Worksheets.
-
-Rubrics.
-
-Written feedback.
-
-Parent emails.
-
-Presentation slides.
-
-Resource packets.
-
-These are real parts of the job.
-
-They are also artifacts.
-
-A school can end up making the same mistake with teachers that it makes with students: confusing visible output with underlying capability.
-
-A teacher who produces beautiful documents may not understand why a student is failing.
-
-A teacher with modest slides may know exactly when to stop, ask a question, rearrange a group, or change the assignment.
-
-AI will make the document-producing teacher easier to imitate.
-
-It may make the noticing teacher more valuable.
-
-This matters because student learning is not a simple transmission problem.
-
-If knowledge merely needed to be stated clearly, education would have been solved by textbooks.
-
-Students can read a perfect explanation and still not understand.
-
-They can understand and still not remember.
-
-They can remember and still not transfer the idea to a new problem.
-
-They can know what to do and still avoid doing it.
-
-They can possess the skill and refuse to show it because the social cost in the room feels higher than the academic reward.
-
-They can fail a task for reasons that have almost nothing to do with the task.
-
-Teaching lives inside these complications.
-
-This is why relationship is not decoration around instruction.
-
-It changes what information becomes available.
-
-A student who trusts a teacher is more likely to admit confusion before confusion becomes failure.
-
-A teacher who knows a student has more context for interpreting a sudden decline.
-
-A class that believes mistakes will be handled with dignity generates better evidence than a class trained to hide weakness.
-
-The emotional climate affects the informational climate.
-
-When students are afraid to be wrong, the teacher receives false data.
-
-Everyone nods.
-
-Everyone copies.
-
-Everyone submits.
-
-The misunderstanding survives.
-
-A machine can create a private place to ask embarrassing questions, which is one of its real strengths.
-
-But privacy is not the same as relationship.
-
-A student can tell a chatbot, “I don’t understand any of this,” because the chatbot cannot be disappointed.
-
-That may be liberating.
-
-The student also needs humans with whom being confused is survivable.
-
-Otherwise school becomes a place where machines receive honesty and adults receive performance.
-
-That would be a strange educational settlement.
-
-The better design is to use private machine interaction as a bridge to more capable human interaction, not as a replacement for it.
-
-The teacher also carries authority that an AI system should not quietly inherit.
-
-A teacher can say, “This matters.”
-
-Not because the statement is statistically predicted from a corpus.
-
-Because the teacher is responsible for a course, a discipline, a standard, and a group of learners.
-
-Authority in education is not simply confidence.
-
-It is accountable judgment.
-
-If a teacher gives bad advice, a school can observe, challenge, retrain, discipline, or replace the teacher.
-
-If a curriculum is weak, parents and administrators can identify who chose it.
-
-If an assessment is unfair, someone is responsible for the design.
-
-Machine advice muddies this chain.
+That chain of accountability can become blurry when AI enters the workflow.
 
 The model suggested the feedback.
 
-The vendor supplied the system.
+The teacher accepted it.
 
-The teacher clicked accept.
+The vendor built the system.
 
-The district approved the product.
+The district approved the vendor.
 
 The model changed after an update.
 
-Responsibility can evaporate across the interface.
+Everybody participated.
 
-That is why AI should not be allowed to become educational authority merely because it speaks fluently.
+Nobody appears to have decided.
 
-Fluency is not accountability.
+That is an institutional failure even when the recommendation was statistically sensible.
 
-The teacher’s role includes standing behind decisions.
+The teacher’s role increasingly includes refusing that diffusion of responsibility.
 
-This is especially important when the decision is not about correctness but about a person.
+I used the system.
 
-Should this student repeat the course?
+I considered the recommendation.
 
-Is this work good enough to pass?
+I made the decision.
 
-Does this pattern suggest a learning problem?
+I can explain it.
 
-Should the student be moved into a different group?
+This is not an argument that teacher judgment is infallible.
 
-Was the use of AI acceptable in this assignment?
+Teachers are biased. They misread students. They become tired, impatient, overconfident, and inconsistent. Human discretion can produce arbitrary outcomes that well-designed systems might improve.
 
-Is the student ready for more independence?
+Accountability is not a claim that humans are always better decision-makers.
 
-These are judgments with consequences.
+It is a claim that consequential educational decisions need an accountable owner.
 
-AI can provide evidence.
+AI can be evidence.
 
-It can surface patterns.
+It can be advice.
 
-It can suggest possibilities.
+It should not become authority merely because the source of authority is hard to locate after the fact.
 
-But institutions should be suspicious of any system that turns suggestions into decisions without a human who understands both the evidence and the stakes.
+Relationship matters for a related reason.
 
-The more capable AI becomes, the easier it will be to forget this distinction.
+It changes what information enters the system at all.
 
-A weak system invites skepticism.
+A student who trusts a teacher is more likely to admit confusion before confusion becomes failure. A teacher who knows a student has more context for interpreting a sudden decline. A class where mistakes are handled with dignity produces different evidence from a class where weakness is punished socially.
 
-A strong system invites deference.
+The emotional climate affects the informational climate.
 
-That creates a paradox.
+Students who are afraid to be wrong become harder to teach because they learn to hide the evidence the teacher needs.
 
-As AI becomes more useful, teachers need more confidence to disagree with it.
+Research on teacher–student relationships repeatedly finds associations with academic, motivational, behavioral, and well-being outcomes. Much of that evidence is correlational, and relationship should not be treated as a magic intervention.
 
-A teacher who treats the model as an oracle is less useful than a teacher who never uses it.
+The modest point is enough.
 
-The valuable teacher is able to ask:
+Relationship is educationally consequential.
 
-What did the system see?
+It is not decoration around content delivery.
 
-What did it miss?
+AI adds an interesting complication because a machine can provide a private place for honesty.
 
-What assumption is hiding inside this recommendation?
+A student may tell a chatbot, “I don’t understand any of this,” because the chatbot cannot be disappointed.
 
-Does this fit what I know about the student?
+That privacy can be liberating.
 
-What happens if I am wrong?
+But a school in which students are honest with machines and perform competence for adults would have solved the wrong problem.
 
-What evidence would change my mind?
+Private machine interaction should ideally help students re-enter human learning relationships with more confidence, not become the only place where confusion is safe.
 
-This is not anti-technology.
+The teacher also manages something an individual tutor—human or artificial—does not fully contain.
 
-It is professional practice.
+A room.
 
-The same principle applies to lesson design.
+A classroom is a small public.
 
-AI can produce a plausible lesson quickly.
+One student’s wrong answer changes what the next student is willing to say. The confident student who dominates discussion changes the quiet student’s opportunity to participate. A joke can release tension or humiliate someone. A class can become curious together or learn that speed matters more than care.
 
-That saves time.
-
-But the teacher still has to know whether the lesson belongs here.
-
-A model can generate ten discussion questions about a novel.
-
-It does not know which question will unlock this class after the conversation they had yesterday.
-
-A model can generate a laboratory activity.
-
-It does not know that half the equipment is broken, that two students cannot safely work together, or that the class has developed a misconception from last week’s demonstration.
-
-A model can produce differentiated reading passages.
-
-It does not know whether the differentiation is temporary support or permanent intellectual segregation.
-
-Context is not an add-on.
-
-It is the medium of teaching.
-
-This is one reason large classes remain difficult even in an AI-rich environment.
-
-Thirty students do not create thirty information problems.
-
-They create thirty evolving human contexts that interact with one another.
-
-A teacher manages not only individuals but a room.
-
-The student who gives the wrong answer changes what the next student is willing to say.
-
-The joke in the back row changes the energy of the explanation.
-
-The confident student who dominates discussion affects the quieter student’s participation.
-
-The argument between two friends can become a lab-group problem.
-
-The class can become curious together or bored together.
-
-These are social dynamics.
-
-A chatbot can participate in them only indirectly.
-
-The teacher is not simply thirty separate tutors standing in one body.
-
-The teacher is also the architect of a small public.
-
-That public has norms.
-
-What happens when someone is wrong?
+These are norms.
 
 Who gets interrupted?
 
-Whose questions are taken seriously?
+What happens when someone changes their mind?
 
-Is speed admired more than care?
+Is asking for help a sign of engagement or weakness?
 
-Can a student change their mind without embarrassment?
+Does the class reward the performance of intelligence or actual curiosity?
 
-Does the class reward performance of intelligence or actual curiosity?
+Students learn the answers even when no policy states them.
 
-Students learn these answers even when they never appear in the curriculum.
+Teacher talk research reinforces this distinction between delivery and interaction. A 2024 meta-analysis found no significant relationship between monologic teacher talk and achievement, while practices such as inviting student ideas and taking up what students said were positively associated with achievement, with engagement playing an important role.
 
-AI can help a teacher prepare for the room.
+The result does not prove that one conversational style is universally best.
 
-It cannot fully be the room.
+It helps make a broader point visible.
 
-This gives us a better way to think about the future division of labor.
+More explanation is not automatically more teaching.
 
-Machines will become better at explanation.
+AI will make explanation cheaper.
 
-They will become better at generating examples, exercises, summaries, translations, practice, and feedback.
+That should push schools toward the parts of teaching whose value comes from response, context, and responsibility rather than from producing more speech or more documents.
 
-They may become very good at identifying patterns in student work.
+This also changes how schools should evaluate teachers.
 
-They may support planning and tutoring with increasing sophistication.
+Lesson plans, slides, worksheets, rubrics, written feedback, and parent emails are visible artifacts of teaching. AI can help produce all of them quickly.
 
-Those gains should be used aggressively where they improve learning.
+A school that measures teachers mainly by those artifacts risks making the same mistake it makes with students: confusing visible output with underlying capability.
 
-But the increasing abundance of these capabilities does not make the remaining human work trivial.
+The teacher who generates beautiful materials may still fail to notice that a student has disappeared from the lesson.
 
-It makes the remaining work more visible.
+Another teacher may use modest materials and make excellent decisions about when to question, regroup, insist, or stop.
 
-Diagnosis.
+As document production becomes easier, judgment should become easier to see.
 
-Attention.
+This does not require building a mystical wall around human uniqueness.
 
-Motivation.
+Machines may become much better at diagnosis, motivation, conversational support, and even elements of relationship. Some artificial tutors may eventually perform particular instructional functions more consistently than many humans do.
 
-Norm-setting.
+The argument does not depend on predicting a permanent list of things machines cannot do.
 
-Conflict.
+It depends on knowing what kind of institution a school is.
 
-Judgment.
+A school makes consequential claims and decisions about developing people.
 
-Trust.
+Someone has to own those claims and decisions.
 
-Responsibility.
+The future division of labor should therefore be aggressive about automation where automation helps and conservative about responsibility where consequences are human.
 
-Knowing when a student needs more help and when the student needs less help.
+Let the system generate examples.
 
-Knowing when to insist.
+Let it propose questions.
 
-Knowing when to forgive.
+Let it summarize patterns across student work.
 
-Knowing when the assignment has failed instead of the student.
+Let it draft routine feedback.
 
-Knowing when the student is capable of more than the student currently believes.
+Let it help a teacher notice what would otherwise be missed.
 
-These are not mystical qualities that machines can never touch.
+Then keep the consequential judgment attached to a person who understands the context and can answer for the result.
 
-Some can be partially modeled.
+The teacher is not valuable because no machine can explain a quadratic.
 
-Some can be supported by data.
+That defense will weaken as machines improve.
 
-Some may eventually be performed surprisingly well by artificial systems in bounded settings.
+The teacher is valuable because education needs accountable judgment embedded in a human community.
 
-The useful argument does not depend on declaring a permanent wall around human uniqueness.
+Answer keys are becoming cheap.
 
-It depends on accountability and purpose.
-
-Schools are not only trying to produce correct responses.
-
-They are trying to develop people.
-
-Development requires someone to care not only whether the answer improves, but whether the learner does.
-
-That is the test.
-
-A system that makes students more capable is valuable.
-
-A system that makes teachers more capable is valuable.
-
-A system that makes the institution more efficient while weakening the relationships and judgments that allow adults to know whether students are actually growing may be efficient at the wrong thing.
-
-The teacher is not an answer key.
-
-That is good news, because answer keys are becoming very cheap.
-
-The future of teaching depends on schools recognizing the parts of the profession that were never about possessing the answers in the first place.
+Responsibility is not.
