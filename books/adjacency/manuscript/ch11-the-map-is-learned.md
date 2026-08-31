@@ -293,3 +293,139 @@ An agent finds a memory.
 None of those adjacencies was simply waiting in a database as a self-evident fact.
 
 The map learned to make them near.
+
+## Versioning a World of Relations
+
+The operational consequence of a learned map is that model upgrades are not ordinary software upgrades.
+
+Change a parser and a document may be represented differently.
+
+Change the embedding model and every document may move.
+
+Change the dimensionality and the old index may become unusable. Change normalization or the similarity function and historical thresholds may stop meaning what they meant before.
+
+The source data can remain frozen while the retrieval behavior changes everywhere.
+
+This is why vector infrastructure needs a concept of semantic versioning in the literal sense.
+
+Which embedding model created this coordinate?
+
+Which preprocessing pipeline prepared the source?
+
+Which chunking strategy determined the unit?
+
+Which metric does the index assume?
+
+Which evaluation set justified deployment?
+
+Those facts should travel with the vector collection the way a database migration travels with a schema.
+
+Otherwise an organization can lose the ability to explain why yesterday's search result became today's omission.
+
+Imagine a customer-support system with years of carefully tuned behavior. A new embedding model performs better on a public benchmark, so the team re-embeds the knowledge base and deploys it. Average search relevance improves.
+
+Then a rare warranty exception stops appearing for a class of queries.
+
+Nothing in the policy changed.
+
+The map changed.
+
+Without neighborhood regression tests, the loss may remain invisible until a customer reaches the edge case.
+
+This is why vector model upgrades need canaries.
+
+Run old and new maps side by side.
+
+Compare result sets for known queries. Track which items enter and leave the top ranks. Inspect high-consequence cases. Measure behavior separately for languages, domains, query lengths and exact identifiers. Evaluate not only whether the new model wins on average but whether it breaks a relation the institution had come to depend on.
+
+The old embedding is not sacred.
+
+The old behavior is evidence.
+
+This resembles the challenge of changing a ranking algorithm in any mature system, but vector models make the change especially diffuse because one component can move every item simultaneously.
+
+A schema migration changes where fields live.
+
+An embedding migration can change what fields of meaning feel close.
+
+The system may also need a transition strategy. During re-embedding, some records may have old vectors and some new. If the two representations are not compatible, mixing them in one nearest-neighbor index can be meaningless. Large collections therefore create a practical migration problem: how do you redraw the map without losing service?
+
+One answer is parallel indexes. Build the new world beside the old one. Route some traffic to each. Compare. Migrate only when the new representation proves itself under realistic load and realistic queries.
+
+The expense is not waste.
+
+It is the cost of changing perception safely.
+
+This principle becomes even more important when downstream systems learn thresholds from the old score distribution. A fraud workflow may flag cases above a similarity level. A deduplication system may merge records beneath a distance. A recommendation system may use vector scores as features for a later model.
+
+Change the embedding and those numerical ranges can shift.
+
+The same cutoff can acquire a new behavioral meaning.
+
+Raw similarity scores therefore should not be treated as timeless units. They belong to a particular representation, corpus and comparison setup.
+
+A score without a model version is an orphaned measurement.
+
+The need for versioning extends to personal and institutional memory. Suppose an assistant stores embeddings of past conversations for years. If the representation model changes, should old memories be re-embedded? If so, does the new map retrieve them differently? If not, must the system preserve an old model indefinitely to query the old space?
+
+Long-lived vector systems will confront these questions the way long-lived databases confront file formats and migrations.
+
+The fashionable phrase is *AI memory*.
+
+The mundane reality is data lifecycle management.
+
+This is healthy. Technologies become real when the boring obligations arrive.
+
+Backups.
+
+Deletion.
+
+Migration.
+
+Access control.
+
+Regression tests.
+
+Audit logs.
+
+Compatibility.
+
+A learned map stops being a demo when an institution depends on yesterday's neighborhoods enough to care how tomorrow's map changes them.
+
+This also suggests a governance practice: maintain named maps rather than one invisible current truth.
+
+Search-v4.
+
+Recommendation-v7.
+
+Biomedical-retrieval-2026-08.
+
+The names are ugly. They remind us that the geometry is contingent.
+
+An organization can then compare maps explicitly. It can say the new model improves multilingual queries but hurts part-number recall. It can preserve a specialist representation for one domain and a general model for another. It can roll back a migration when a hidden failure appears.
+
+The language of versioning turns philosophical humility into operational control.
+
+There is no universal coordinate system.
+
+Fine.
+
+Then record which one you used.
+
+There is no timeless similarity score.
+
+Fine.
+
+Then calibrate the score to the current map.
+
+There is no guarantee that a better benchmark means a better application.
+
+Fine.
+
+Then test the application before moving the world.
+
+This is what mature cartography looks like in a learned space.
+
+Not pretending the map is permanent.
+
+Making change inspectable enough that people can trust the journey.
