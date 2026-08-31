@@ -257,3 +257,87 @@ They are competing to decide which parts of personalization remain proprietary a
 The deepest commercial prize may not be the vaccine sequence.
 
 It may be control of the loop that turns each treated patient into a better decision for the next one.
+
+That loop changes how conventional competition should be measured.
+
+Two companies can sell different products while depending on the same sequencing instruments, the same hospital systems and the same companion checkpoint drug. They may compete at one layer and cooperate at three others. A diagnostic company can supply rival vaccine developers. A pharmaceutical partner can collaborate with one personalized platform while keeping the option to test another. Contract manufacturers can learn from several customers without owning any therapy.
+
+The industry is less a row of firms than a graph of dependencies.
+
+That matters during consolidation.
+
+An acquisition can look small if measured by the revenue of the acquired company and large if it closes a missing edge in the graph. A pharmaceutical company that already owns drugs and clinical relationships may value a target-discovery dataset more than another molecule. A vaccine developer may value a cell-therapy startup because receptor data improve the same underlying neoantigen models. A diagnostic platform may be valuable because it controls the point where patients enter the therapeutic funnel.
+
+The prize is often optionality.
+
+Own enough adjacent capabilities and a company can redirect when one modality fails.
+
+BioNTech's colorectal setback illustrates the value of a broad platform. A failed vaccine trial hurts the program without necessarily invalidating antibodies, other vaccine designs, cell therapies or the data generated along the way. A single-asset startup facing the same result may have no second act.
+
+Corporate diversification can therefore preserve scientific learning that capital markets would otherwise erase.
+
+It can also reduce competitive pressure if the surviving firms become the only organizations capable of financing Phase 3 development.
+
+The economics of evidence create a moat before patents do.
+
+Running a large global randomized trial is expensive, slow and organizationally difficult. A small company may possess a plausible vaccine, a capable algorithm and a workable manufacturing process yet still need a large partner because the proof required for routine oncology exceeds its balance sheet.
+
+That gives incumbent pharmaceutical companies bargaining power over which scientific ideas reach definitive testing.
+
+The market can contain dozens of technical platforms and only a few evidentiary platforms.
+
+This distinction matters for public policy because competition at the laboratory level does not guarantee competition at approval.
+
+If several startups ultimately depend on the same two or three large oncology partners, strategic priorities inside those partners can determine which approaches survive. A program that threatens an existing franchise, requires an unattractive combination or serves a small market may struggle even if the science is strong.
+
+Public and nonprofit trial networks can partly counter that concentration by testing questions no single sponsor has an incentive to own.
+
+Comparative trials are especially important.
+
+Companies are naturally motivated to show that their product adds value to standard care. They are less naturally motivated to fund a trial asking whether a cheaper competitor, a shorter regimen or a shared-antigen library performs almost as well as the proprietary personalized product.
+
+The most socially valuable question can be commercially orphaned.
+
+That is one reason an ecosystem needs institutions with different objectives.
+
+Companies optimize products and portfolios.
+
+Academic groups can interrogate mechanisms.
+
+Government funders can support comparisons and shared infrastructure.
+
+Payers can demand evidence about value.
+
+Patients and clinicians can reveal which burdens matter outside the endpoint table.
+
+No actor sees the whole stack unless the system forces the views to meet.
+
+Data ownership is where those views increasingly collide.
+
+A sequencing provider may hold raw molecular data. The vaccine company holds target rankings and manufacturing records. The hospital holds the medical record. A ctDNA company holds longitudinal molecular measurements. The checkpoint-drug sponsor may hold trial data. The patient generated all of it biologically and may have limited practical ability to recombine it.
+
+The commercial loop can therefore be fragmented even while each company tries to make its own portion closed.
+
+Interoperability becomes a competitive issue.
+
+A platform that makes it easy to move data in can recruit hospitals and partners. A platform that makes it hard to move data out can retain them. Proprietary file formats, contractual limits and incompatible identifiers can create friction that looks technical but functions economically.
+
+This is familiar from software markets.
+
+The difference is that switching costs in cancer medicine can arrive in the middle of a patient's treatment.
+
+A useful regulatory and policy objective is therefore portability of the evidence needed for care, even when proprietary models remain protected. A patient should not lose the ability to understand what targets were selected, what product was manufactured and what happened clinically because the companies involved changed partners or disappeared.
+
+Corporate mortality is certain.
+
+Clinical records need a longer life than startups.
+
+The companies around the key are temporary custodians of pieces of a therapeutic system that patients may need to understand for decades.
+
+That obligation is easy to overlook while markets are growing.
+
+It becomes obvious after the first bankruptcy, merger or discontinued platform strands longitudinal data across several owners.
+
+The most durable company advantage may indeed be the learning loop.
+
+The most durable public requirement should be that the loop leaves enough evidence behind for medicine to remember what happened.
