@@ -265,3 +265,13 @@ This is not a weakness in the energy thesis.
 It is the thesis becoming more precise.
 
 Civilization advances not merely by acquiring more energy, but by learning to deliver the right kind of energy to the right transformation with less waste, lower cost, and fewer unwanted consequences.
+
+Fire was powerful because it turned chemical bonds into heat wherever fuel could be carried.
+
+Electricity is powerful because it can become motion, light, computation, heat, or chemical change with extraordinary control.
+
+The industrial transition will be the place where those two forms of power negotiate their boundary most visibly.
+
+The boundary will move.
+
+It will not vanish.
