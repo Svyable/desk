@@ -2,144 +2,248 @@
 
 Apollo mission control was built around an institutional insult to the idea of the universal genius: no one person could know enough.
 
-The spacecraft crossed a distance where ordinary rescue was impossible. Its systems interacted. Its trajectory changed. Communications were constrained. Decisions could not be made by sending every problem to the most senior engineer at NASA. The response was not to find a person who knew everything. It was to divide knowledge, build channels, define authority, rehearse failure, and create a room in which specialists could become a temporary collective mind.
+The spacecraft crossed a distance where ordinary rescue was impossible. Its systems interacted. Its trajectory changed. Communications were constrained. A failure in one domain could become a problem somewhere else. Decisions could not be made by sending every question to the most senior engineer at NASA and waiting for wisdom to return.
 
-From the public side of the television screen, mission control looked like rows of men wearing headsets. From inside the system, the important feature was specialization. Controllers watched particular domains. Back rooms supported them. The flight director integrated the picture and held operational authority. The capsule communicator spoke to the crew. Mission rules captured decisions that could be made before the pressure of flight. Expertise was distributed; command was not identical to expertise.
+The response was organizational.
 
-This distinction is foundational for artificial intelligence because the language of “the best model” encourages organizations to erase it.
+Knowledge was divided. Communication channels were defined. Failure was rehearsed. Mission rules settled some decisions before the pressure of flight. Controllers watched particular domains, with specialists behind them able to go deeper. The flight director integrated an operating picture and held operational authority. The capsule communicator spoke to the crew.
 
-If one model is stronger on average, why not send everything to it? The answer begins with cost and latency but does not end there. Different problems reward different forms of cognition. A system good at broad language reasoning may be weaker than a narrow detector on a constrained signal. A model that excels at generating hypotheses may be a poor final verifier. A person with deep local knowledge may outperform a more credentialed outsider because the relevant facts never entered the database. A fast approximate answer can be more useful than a slow exact one when the window for action is closing.
+Expertise was distributed. Command was not identical to expertise.
 
-The problem is assignment.
+From the public side of the television screen, mission control could look like a room full of men wearing headsets. The deeper achievement was matching. A propulsion problem went toward people and instruments suited to propulsion. A trajectory question did not become more tractable because a brilliant electrical engineer was nearby. The organization was designed so that the relevant kind of intelligence could reach the problem without requiring every participant to understand everything.
 
-Economists call related problems matching: which worker with which skills should be paired with which job, which buyer with which seller, which student with which school. Computer scientists see scheduling: which process should run on which processor and when. Organizations see staffing. Families see delegation. Nature sees niches. The common challenge is to avoid wasting powerful capabilities on problems they are badly suited to solve while leaving suitable capabilities idle.
+Artificial intelligence makes this old problem newly important because the phrase “the best model” encourages us to forget it.
 
-AI multiplies the available “minds” and therefore enlarges the matching problem.
+If one model performs better on average, why not send everything to it?
 
-A mature AI system may contain a small classifier, a retrieval engine, a code-specialized model, a vision model, a frontier reasoning model, deterministic tools, external databases, and humans with distinct roles. It may call them sequentially or in parallel. The most important intelligence in the stack may be the router deciding who receives the task.
+Cost is one answer. Latency is another. Privacy can matter. But the more interesting answer is that problems do not reward intelligence in one uniform form.
 
-This router is easy to underestimate because routing looks like administration. Yet a mediocre specialist assigned perfectly can outperform a brilliant generalist assigned badly. A cheap model that recognizes “this is a tax question involving a foreign subsidiary; escalate” can create more value than the expensive model that confidently improvises an answer without jurisdictional context.
+A broad language model may be useful for framing an ambiguous question and inferior to a narrow detector on a constrained signal. A system that generates excellent hypotheses may be the wrong system to verify them. A deterministic calculation can be more trustworthy than a fluent model when the rule is known. A person with deep local knowledge may outperform a more credentialed outsider because the decisive facts never entered the database. A fast approximation may be more useful than a slow exact answer when the window for action is closing.
 
-The same is true among people. The colleague who says “ask Priya; she dealt with this vendor two years ago” has contributed intelligence even if she never solves the problem. Institutional memory is full of these routing edges: who knows the machinery, who remembers the failed experiment, who can get the permit office to answer, who understands the legacy code, who has earned the customer’s trust.
+The assignment is part of the intelligence.
 
-Organizations often destroy such knowledge when they mistake an org chart for a map of intelligence.
+This is easy to miss because routing looks administrative. The impressive object is the mind that solves the hard problem. The router merely decides where the problem goes.
 
-Job titles describe responsibility imperfectly. Actual competence forms a network. A maintenance technician may understand a machine behavior no manager does. A junior analyst may know a dataset’s strange provenance. A receptionist may understand the real sequence through which customers get unstuck. The expertise is situated. It exists partly in relationship to particular tools, histories, and people.
+Yet the router can dominate the outcome.
 
-AI can either flatten this network or make it more visible.
+A cheap system that recognizes “this is a tax question involving a foreign subsidiary; do not improvise, escalate to the specialist” may create more value than a powerful general model that produces a sophisticated answer in the wrong jurisdiction. A receptionist who says “talk to Priya; she handled this vendor two years ago” may save days without solving anything herself. A maintenance worker who knows which engineer has seen a particular vibration pattern is contributing institutional intelligence through direction.
 
-Flattening is seductive. Put all documents into a retrieval system, give everyone the same model, and declare knowledge democratized. This is useful as far as it goes. Search friction falls. People can ask questions across departmental boundaries. But documents are not the whole organization. Tacit knowledge, trust, current conditions, incentives, and undocumented exceptions still matter. The model may retrieve the procedure and miss that everyone stopped using it because a regulator changed an interpretation last month. It may summarize meeting notes and miss the unresolved hostility that makes a nominal agreement fragile.
+Organizations contain many of these invisible edges.
 
-A better system treats the model as a scout for expertise. It answers when it can, retrieves evidence when evidence is sufficient, and routes to people when the missing knowledge is embodied rather than textual. “The document says X, but three recent incidents involved this exception; talk to the operations lead before acting” is more intelligent than a clean answer that eliminates the person from the loop.
+The org chart is a poor map of them.
 
-Matching also requires understanding comparative advantage.
+Job titles describe authority and responsibility better than they describe all useful knowledge. A technician may understand a machine behavior no manager has ever seen. A junior analyst may know that a supposedly clean dataset was assembled from three incompatible systems. A customer-support worker may know that an official procedure has not worked for months. A local employee may understand why a technically correct recommendation will fail with a particular supplier, regulator, neighborhood, or client.
 
-A familiar mistake is to assign work to whoever is absolutely best at it. Suppose a senior engineer can write routine code twice as fast as a junior engineer and design architecture ten times as well. The senior engineer is better at both. Yet assigning routine code to the junior engineer may still improve total output because the senior engineer’s scarce time has greater relative value in architecture. David Ricardo’s old logic of comparative advantage applies inside cognitive systems.
+Some knowledge is stored in documents. Some is stored in memory. Some is stored in relationships. Some is stored in the fact that a person has already made this mistake.
 
-AI intensifies this effect. A frontier model may be better than a small model on nearly every benchmark, but the small model can still be the right choice for routine classification if it is faster, cheaper, easier to run privately, or sufficiently accurate. A human expert may be better than AI at both routine and unusual cases, but automation of routine work can preserve the expert for ambiguity. Absolute capability is not assignment policy.
+AI can make these networks easier to use. It can also flatten them.
 
-The trick is knowing where the comparative advantage lies, because performance is contextual.
+The flattening version is attractive: collect the documents, index the archive, give everyone the same conversational interface, and declare that organizational knowledge has been democratized.
 
-Benchmarks flatten context by design. They compare systems on common tasks under common rules. This is necessary for measurement, but deployment reintroduces everything the benchmark removed: local terminology, changing data, tool access, deadlines, consequences, adversaries, user skill, privacy, and organizational history. The model that wins the leaderboard may not win the workflow.
+There is real value in this. Search friction falls. People can find policies, precedents, meeting notes, code, research, and internal expertise that used to require knowing whom to ask.
 
-This is why model selection should look more like hiring for a specific job than drafting the best athlete.
+But documents are not the organization.
 
-What does the task require? How often does it occur? How much context is needed? Is the input sensitive? How fast must the answer arrive? Can outputs be verified automatically? What happens when the model is wrong? Does the task benefit from creativity or consistency? Must the result be explained to an affected person? Can the action be undone? Does the process need local operation when networks fail?
+A procedure may still be in the archive after everyone stopped using it. A meeting note may record an agreement without the unresolved conflict that makes the agreement fragile. A model may retrieve the formal maintenance schedule and miss the technician’s knowledge that one machine behaves differently in humid weather. A policy may be accurate on paper and obsolete in practice because a regulator changed an interpretation last month.
 
-These questions often point toward a portfolio rather than a champion.
+A useful system therefore needs to recognize when the missing information is embodied rather than textual.
 
-Nature and engineering both use redundancy and specialization because environments vary. A computer contains caches, general processors, specialized accelerators, storage, and networking. A hospital contains generalists and specialists. A newspaper contains reporters, editors, photographers, designers, and lawyers. A construction project has trades because expertise embodied in one person does not scale across every task.
+Sometimes the best answer is an answer. Sometimes it is a source. Sometimes it is a person.
 
-AI organizations will become cognitive portfolios. The design problem is not merely which models to buy but how their boundaries are drawn.
+The system that can tell the difference is doing matching work.
 
-One boundary concerns privacy. Some intelligence should live close to the data. A local model on a device may be weaker in general reasoning and still be superior for a sensitive diary, medical note, industrial secret, or private message because the cost of moving the context is unacceptable. Capability has to be adjusted for exposure.
+This is also why absolute capability does not determine assignment.
 
-Another boundary concerns latency. An autonomous system controlling physical motion cannot consult a distant model for every millisecond decision. Fast local control and slower strategic reasoning belong at different layers. The architecture resembles the human nervous system more than a single deliberative mind: reflexes close to action, slower cognition for planning, external institutions for rare expertise.
+Imagine a senior engineer who can write routine code twice as fast as a junior engineer and design a difficult architecture ten times as well. The senior engineer is better at both tasks. Giving every coding task to the stronger engineer can still reduce total output because the scarce senior time has far greater relative value on architecture.
 
-Another boundary concerns independence. Two systems with identical training and architecture may agree because they share the same blind spot. For high-consequence verification, diversity can matter more than raw capability. A deterministic rule, a statistical model, and a human review may provide better error detection than three copies of the same model. Independence is a resource.
+The old economic idea of comparative advantage survives inside cognitive systems.
 
-This is one reason mission control matters as a case. A room of specialists was not valuable merely because many brains were present. The specialists had different instruments, domains, and responsibilities. Their views could conflict productively. Integration occurred through procedure rather than through one person silently averaging everyone.
+A frontier model may outperform a smaller model on almost every general benchmark and still be the wrong default for routine classification if the smaller system is fast, private, cheap, and good enough. A human expert may outperform automation on routine and unusual cases but create more value when the routine work is routed elsewhere. A local model may be weaker in general reasoning and superior for a private diary, medical note, or industrial secret because moving the context would itself be the larger mistake.
 
-AI “multi-agent” systems sometimes imitate the surface of this with several model instances assigned roles: critic, planner, researcher, judge. This can improve results, but role labels alone do not create real diversity. If every agent has the same underlying model, context, incentives, and evidence, the conversation may be theater. A committee of clones is still a clone.
+Capability has to be adjusted for the conditions of use.
 
-Useful division of cognitive labor comes from differences that matter: tools, data, objective, method, timing, authority, or model family.
+Benchmarks deliberately remove many of those conditions so systems can be compared. Deployment puts them back.
 
-Humans also need to be matched by role rather than inserted ceremonially. “Human in the loop” is often treated as a safety incantation. But which human? With what expertise? Seeing what information? At what point? With how much time? Authorized to do what?
+The task has a clock. It may involve sensitive data. The result may be easy or difficult to verify. The user may be a novice or an expert. The action may be reversible or permanent. The network may be reliable or absent. The organization may need a public explanation afterward. The relevant facts may live in a database, a sensor, a person’s memory, or nowhere yet.
 
-A cashier asked to approve a fraud model’s decision in two seconds is technically a human in the loop and functionally a rubber stamp. A clinician shown an AI recommendation without the evidence needed to challenge it may anchor on the system. A content moderator asked to review a torrent of ambiguous cases may be exposed to difficult material while possessing little real control over policy. Human presence is not the same as human agency.
+Once these conditions return, the idea of one champion becomes less useful.
 
-Matching requires a realistic picture of human capability under conditions of use.
+A mature AI system will look more like a cognitive portfolio.
 
-People are good at contextual judgment, social meaning, moral responsibility, sensing when the frame is wrong, and improvising around novelty. They are also distractible, biased, inconsistent, tired, and poor at monitoring highly reliable automation for rare failures. Machines are good at repetition, scale, search, calculation, and continuous monitoring. They can also be brittle, opaque, context-insensitive, manipulable, and confidently wrong. These are broad tendencies, not immutable categories. The point is to allocate based on observed performance rather than mythology.
+Behind one interface there may be a small classifier, retrieval, a code-specialized system, a vision model, a stronger general reasoner, deterministic tools, simulations, external databases, and humans with different authority and expertise. The user may see one text box while the actual work moves through several forms of cognition.
 
-The most interesting systems will create complementarity instead of a contest.
+This makes the orchestration layer consequential.
 
-In chess, the story of human-computer “centaurs” became famous because teams combining people and software sometimes outperformed stronger individual players or systems, at least during a period when tools and interaction methods were still developing. The specific competitive advantage shifted as engines improved, but the durable lesson is not that human-plus-machine always wins. It is that interface and process can determine whether combined capability is additive, redundant, or destructive.
+A polished conversational surface can conceal the fact that one component searched broadly, another retrieved an authoritative document, a third performed a calculation, a fourth checked permissions, and a person approved the action.
 
-A grandmaster who spends time second-guessing an engine on positions where the engine is vastly superior can weaken the team. An operator who blindly accepts a system in the rare domain where it is weak can do the same. Complementarity requires calibrated deference.
+The visible agent may be less like a universal genius than a flight director surrounded by specialists.
 
-Calibrated deference may become one of the central skills of the AI age. People will need to know when a system deserves trust, when it deserves inspection, and when its confidence should not matter. Systems will need to know when user intent is clear, when to ask, and when to refuse to guess.
+That is a healthier mental model.
 
-This is a matching problem over time, not just tasks.
+Mission control did not become intelligent by placing many brains in the same room. The people had different instruments, responsibilities, communication paths, and domains. They were capable of disagreement because they were not merely copies of one another.
 
-Early in a process, AI may be useful for breadth: search possibilities, generate hypotheses, find precedents. Later, narrower tools may test claims. A person may define goals, a model may draft options, simulation may expose consequences, a domain expert may inspect the edge cases, and an accountable authority may choose. Asking “human or AI?” misses the sequence.
+This matters for multi-agent systems.
 
-The sequence matters in creative work too. If a model generates the first draft before a person has formed a view, it can anchor the person. If the person sketches the argument first, then uses the model to challenge it, the system plays a different cognitive role. Same tools, different allocation.
+Giving several instances of the same model labels such as planner, critic, researcher, and judge can improve performance in some settings. It does not automatically create independent judgment. If every agent shares the same model family, evidence, context, and assumptions, agreement can be a common blind spot speaking in several voices.
 
-Education makes this especially clear. A student who uses AI after struggling with a problem may receive useful feedback. A student who uses AI before attempting the problem may avoid the cognitive work through which skill forms. The best answer is not always the best intervention.
+A committee of clones is still a clone.
 
-The matching problem therefore includes the learner a person is becoming, not only the worker the person is today.
+Useful cognitive diversity comes from differences that can actually produce different errors: tools, data, methods, model families, objectives, timing, incentives, or authority.
 
-Organizations will be tempted to optimize immediate throughput. Give each task to the cheapest system that can complete it. This can be rational in a narrow sense and disastrous over time because work is also practice. Junior employees learn by doing tasks that appear automatable. Experts maintain skill through exposure. Teams build shared judgment by arguing through cases.
+Sometimes the best verifier is not another generative model. It is a deterministic constraint. Sometimes it is a simulation. Sometimes it is a human who knows what the data omits. Sometimes it is a second model built through a genuinely different path.
 
-A cognitive portfolio needs a training allocation: some work goes to humans because humans need to become capable of the work, even when machines could perform it faster.
+Independence is itself a resource.
 
-This resembles the way safety-critical professions use simulators. No airline wants the first engine failure a pilot handles to be a real one. Practice creates reserve capability for events automation may usually manage. The same principle will matter in law, medicine, engineering, finance, and operations. If AI performs every routine case, human expertise must be replenished deliberately.
+Its value rises when common-mode failure is expensive.
 
-There is another reason not to centralize all intelligence in the strongest system: failure domains.
+A single ubiquitous model can write code, review the code, interpret the logs, and approve deployment. That arrangement is wonderfully coherent until the same mistaken assumption survives every stage. A provider used across banks, hospitals, agencies, or supply chains can create correlated behavior when a model update changes something important.
 
-A single ubiquitous model can create common-mode failure. If the same system writes code, reviews code, interprets logs, and approves deployment, one error pattern can travel through every layer. If the same vendor provides analysis to competing banks, hospitals, agencies, and supply chains, a model update can synchronize behavior across institutions. Diversity that once looked inefficient becomes insurance.
+Uniformity saves integration cost. It can also synchronize error.
 
-The matching architecture should therefore include deliberate heterogeneity where correlation is dangerous. Different models. Different methods. Different data paths. Human sampling. Deterministic constraints. Offline fallback. The strongest individual component may not produce the strongest system.
+The strongest component therefore does not necessarily create the strongest system.
 
-This is an old engineering idea and a new organizational necessity.
+The same lesson applies to humans.
 
-Apollo's organization makes the matching problem concrete. NASA's program history describes mission control not as a single layer of generic operators but as groups responsible for command and control, systems operations, and flight dynamics, backed by support rooms doing deeper analysis. The arrangement recognized that “smart” was not one job. A person expert in propulsion was valuable because propulsion was the problem in front of that console. A trajectory specialist and a spacecraft-systems specialist could both be excellent and still be poor substitutes for each other at the wrong moment.
+“Human in the loop” is often used as if the phrase settled the question. It does not.
 
-Machine intelligence is drifting in the opposite visual direction. The chat interface makes different capabilities look interchangeable because they all answer in paragraphs. A coding model, a retrieval system, a forecasting model, a theorem prover, a spreadsheet engine, and a large general model can be presented through the same text box. Uniform interface encourages the false idea of uniform cognition.
+Which human? With what expertise? Seeing what information? At what point in the process? With how much time? Authorized to do what?
 
-Behind the box, good systems will look more like mission control.
+A cashier given two seconds to approve a fraud system’s decision is a human in the loop in the grammatical sense. A clinician shown a recommendation without the evidence needed to challenge it may be present and still have little practical agency. A moderator receiving a torrent of difficult cases may bear emotional and legal responsibility without possessing any power over the policy generating the queue.
 
-One component will retrieve authoritative documents. Another will search broadly. Another will run deterministic calculations. Another will simulate. Another will monitor permissions. Another will summarize the state for a user. The orchestration layer will decide which capability is worth calling and when the result is strong enough to stop. The visible conversational agent may be less a genius than a flight director surrounded by specialists.
+Human presence is not the same as human control.
 
-This is why model-routing economics matters. If the strongest model is called for every task, quality may be high but latency, cost, energy use, and privacy exposure can be unnecessarily large. If the cheapest system is called for everything, difficult edge cases fail silently. The matching function has to estimate the value of escalation.
+Matching minds to problems requires an honest picture of what a person can do under the actual conditions of intervention.
 
-That estimate should be empirical. The customer-support study of generative AI is useful because its gains were not evenly distributed. Less experienced workers benefited substantially more than the most experienced workers. One possible interpretation is that the system compressed access to patterns and practices that experienced workers had acquired over time. In that environment, the same tool had different marginal value depending on who was using it.
+Humans can be excellent at contextual judgment, social meaning, improvising around novelty, recognizing when the frame is wrong, and carrying moral or legal responsibility. They can also be tired, inconsistent, biased, distracted, and poor at monitoring highly reliable systems for rare failures.
 
-That should change how organizations think about “AI seats.” Giving an identical tool to everyone may be administratively simple and economically crude. Some workers need breadth. Some need speed. Some need access to proprietary context. Some need a critic rather than a drafter. Some need a simulator. Some need no generative tool at all but would benefit from better search or workflow automation.
+Machines can repeat, search, calculate, monitor, and operate at scale. They can also be brittle, manipulable, context-poor, and confident in the wrong frame.
 
-The matching problem is partly about the worker's position in a learning curve. A novice may need the system to explain why, not merely what. An expert may need a fast second opinion on rare cases. A manager may need distributions and uncertainty rather than a recommended sentence. A regulator may need traceability. A customer may need plain language. The underlying facts can be the same while the useful intelligence differs.
+These are tendencies, not permanent species boundaries.
 
-Organizations should therefore evaluate not only task completion but transfer. After repeated use, is the person becoming more capable, less capable, or merely faster while attached to the tool? Does the system expose reasoning at the right granularity for learning? Does it give experts a way to correct reusable knowledge? Does it create dependence on prompts that only one vendor understands?
+The useful question is empirical: what happens when this person and this system interact on this task, under this clock, with this evidence and this authority?
 
-These questions matter because allocation today changes the supply of intelligence tomorrow. Route all routine diagnostic work away from young clinicians and the institution may eventually discover it has fewer clinicians able to recognize the unusual. Let agents write every ordinary database query and junior analysts may never develop an intuitive sense of the data. Use AI to draft every first version and people can become excellent editors without becoming equally good originators. That may be acceptable, but it should be a choice rather than a surprise.
+That question leads away from substitution and toward complementarity.
 
-Matching therefore requires at least two objectives: solve the present problem and maintain the future capability of the system. Sometimes those objectives agree. Sometimes the fastest present solution is the worst training allocation.
+The history of human-computer chess made the idea of “centaur” teams famous for a time: people working with engines could sometimes outperform stronger people or systems, especially while tools and interaction methods were evolving. The durable point is not that human-plus-machine always wins. That would merely create another slogan.
 
-The strongest institutions will be explicit about when they are in production mode and when they are in learning mode. They will let machines carry routine load while still creating deliberate practice, shadow decisions, simulations, and postmortems that keep humans able to take over. They will also let machines learn from the cases humans resolve rather than treating escalation as a dead end.
+The durable point is that process changes the value of the parts.
 
-The result is not a static division of labor. It is a moving frontier in which tasks migrate as models improve, people learn, risks change, and the institution discovers what each kind of intelligence is actually good for.
+A grandmaster can weaken a team by repeatedly second-guessing a machine where the machine is overwhelmingly stronger. An operator can weaken a system by deferring blindly in the rare domain where the automation is weak. A person who receives a confident recommendation too early may become anchored and fail to generate an independent view that would have caught the mistake.
 
-The final matching problem is legitimacy. Some decisions require a human not because humans are more accurate but because society assigns responsibility to persons and institutions. A jury verdict, a medical consent conversation, a democratic vote, a declaration of war, a child-custody decision—these involve authority that cannot be reduced to prediction quality. AI may inform them deeply. The final act belongs within a legitimate human arrangement unless the society explicitly changes that arrangement.
+Combined intelligence needs calibrated deference.
 
-This is the point at which intelligence and authority separate.
+It also needs sequence.
 
-A model may know more and still not be entitled to decide. A junior employee may know less and be the designated safety officer empowered to stop the line. A citizen may know little about monetary policy and retain political rights over the institutions that govern it. Expertise can recommend; authority answers a different question: who may bind whom?
+Early in a difficult problem, a general model may be useful for breadth: find precedents, propose hypotheses, surface missing information. Later, narrower tools may test claims. A person may define the goal. A model may produce options. A simulation may expose consequences. A domain expert may inspect the strange cases. An accountable authority may choose.
 
-Mission control worked because these distinctions were engineered. Expertise was distributed. Communication was constrained. Authority was legible. Rules settled some decisions in advance. Exceptions had routes. The architecture did not wait for a universal genius.
+Asking “human or AI?” compresses this sequence into the least interesting possible question.
 
-Neither should we.
+The same tools can play different roles depending on when they enter.
 
-The future will contain many forms of intelligence, human and machine, local and remote, broad and narrow, cheap and expensive, fast and slow. The central design question is not which one is smartest.
+In creative work, a model that produces the first draft before the person has formed a view can become an anchor. If the person sketches an argument first and then asks the system to challenge it, the model becomes an adversary rather than an originator.
 
-It is who should think about this problem now, with what evidence, under what authority, and who should be called next if the first answer is not enough.
+Education makes the timing even more obvious. A student who struggles with a problem and then receives help is having a different learning experience from a student who asks for the solution before attempting it.
+
+The best answer is not always the best intervention.
+
+This matters because assignment changes the future supply of intelligence.
+
+Work is not only production. It is practice.
+
+Experts become experts partly by doing easier work before harder work. Junior engineers learn systems through routine functions and ordinary failures. Clinicians accumulate patterns through common cases before unusual ones. Lawyers develop judgment through basic research and drafting. People become capable of catching anomalies because they have seen enough normality to know what normal looks like.
+
+If AI absorbs every lower rung, an institution can become more productive now and less capable later.
+
+The previous chapter called this a training allocation. Here it appears as part of matching: some work belongs to a person because of what the person needs to become, not because the person is currently the fastest way to finish it.
+
+Safety-critical professions make the logic explicit through simulation. No airline wants a pilot’s first serious engine failure to occur with passengers aboard. Practice deliberately creates situations whose immediate productive value is zero because reserve capability matters later.
+
+AI can support the same arrangement.
+
+In production mode, routine work can be automated. In learning mode, a system can let a trainee handle a tractable case, observe the attempt, offer feedback, and intervene when necessary. Experts can make shadow decisions against automation so skill remains calibrated. Postmortems can turn machine-handled incidents back into human learning.
+
+The division of labor should therefore move without erasing the path by which people learn to cross it.
+
+Machines need learning from escalation too.
+
+If every uncertain case is routed to a human and the system never records what the human discovered, routing becomes a permanent dead end. The boundary between automated and expert work should learn from disagreements, overrides, repeated escalations, and outcomes.
+
+The organization is not only matching today’s minds. It is producing tomorrow’s.
+
+The customer-support research used earlier in the book offers a useful example of uneven complementarity. In a large field study, generative assistance improved issues resolved per hour on average, with larger gains among less experienced and lower-skilled workers than among the most experienced.
+
+The same tool therefore had different marginal value depending on the worker.
+
+One plausible interpretation is that the assistant made patterns and practices available that experienced workers had already acquired. Whatever the mechanism in that setting, the operational lesson is modest: distributing identical AI access is not the same as allocating it intelligently.
+
+A novice may need explanation and feedback. An expert may need a fast second opinion on rare cases. A manager may need distributions and uncertainty rather than a recommended sentence. A regulator may need provenance. A customer may need plain language. An engineer may need deterministic tests more than prose.
+
+The useful intelligence differs even when the underlying facts are the same.
+
+This suggests a better measure than seat count or prompt volume.
+
+Does the assignment improve the task? Does it improve the person? Does it expose the right uncertainty? Does it preserve an independent check? Does the person become more capable after repeated use, less capable, or simply faster while attached to the tool?
+
+Transfer matters.
+
+An institution that becomes brilliant only while one vendor is available has acquired a capability and a dependency at the same time.
+
+This is another reason portfolios matter. Local models, deterministic tools, independent systems, human sampling, and offline procedures can look redundant when everything works. They become valuable when networks fail, providers change behavior, or one model family develops a common failure.
+
+Matching should include the failure state.
+
+What thinks when the preferred mind is unavailable?
+
+Mission control was designed with failure in mind. The point of specialization was not merely to maximize ordinary efficiency. Defined roles, procedures, simulations, and communication paths helped the institution continue thinking when the situation became unusual.
+
+The same principle should govern orchestration.
+
+A strong router should not only know the cheapest or most capable destination. It should know when the normal destination is unavailable, overloaded, inappropriate, or itself the thing being questioned.
+
+A system cannot independently investigate itself if every path leads back to the same system.
+
+There is a final matching decision that looks almost like its opposite: knowing when to stop routing.
+
+An orchestration system can become addicted to escalation. A small model asks a larger model. The larger model requests search. Search produces ambiguity, so another agent critiques the result. A verifier asks for an independent opinion. Each step is defensible by itself, and together they can turn a modest question into an expensive procession.
+
+More minds do not guarantee more resolution.
+
+The stopping rule should depend on what the next increment of cognition can change. If a deterministic check has already established the answer, calling a frontier model for reassurance may add cost without useful independence. If two genuinely different methods disagree on a consequential issue, another check may be valuable. If the remaining uncertainty cannot alter the available action, further analysis can become ritual.
+
+Mission control had to make this judgment continuously. Specialists could continue analyzing almost any anomaly in greater depth, but flight proceeded on a clock. At some point the organization had enough information to act, wait, or keep watching.
+
+Good matching therefore includes a threshold for sufficiency.
+
+The router is not only deciding who should think next. It is deciding whether anyone needs to think next at all.
+
+That restraint matters in an age when another opinion can be generated almost instantly. The cheapest escalation in history can still be expensive if it delays action, creates contradictory advice, or trains people to distrust every conclusion until a larger model blesses it.
+
+This brings the chapter to the boundary where matching becomes authority.
+
+Some decisions require a person or institution not because humans are more accurate but because society has assigned the power to bind others through a legitimate process.
+
+A jury verdict, a medical consent conversation, a democratic vote, a child-custody decision, or a declaration of war cannot be reduced to prediction quality without changing what the institution is.
+
+AI may inform such decisions deeply. It may discover evidence, model consequences, expose precedent, identify inconsistency, or warn that a human judgment is unusual.
+
+The final act can still belong elsewhere.
+
+A model may know more and remain unauthorized.
+
+A junior employee may know less and still be the designated safety officer empowered to stop a line. A citizen may understand less economics than a central banker and retain political rights over the institutions that govern public life.
+
+Expertise answers one question: who understands this?
+
+Authority answers another: who may bind whom?
+
+Apollo mission control worked because it did not pretend the questions were identical. Expertise was distributed. Communication was constrained. The flight director had an operational role that did not require becoming the best specialist at every console. Rules settled some matters before crisis. Exceptions had routes. People knew who should be called next.
+
+The organization did not wait for a universal genius.
+
+Neither should an intelligent system.
+
+The future will contain broad models, narrow models, local models, remote models, deterministic tools, simulations, agents, experts, novices, operators, citizens, and institutions that carry authority no model possesses by benchmark.
+
+The design problem is not to identify which one is smartest once and for all.
+
+It is to decide who should think about this problem now, what evidence they need, what authority they have, and who should be called when the first answer is not enough.

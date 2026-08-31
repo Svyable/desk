@@ -16,7 +16,7 @@ Limits: the SDG indicator for electricity access is intentionally broad and does
 
 ### World Bank/ESMAP, The Multi-Tier Framework for Energy Access: Insights and Impact from a Decade of Surveys (2026)
 
-The report synthesizes 29 Multi-Tier Framework surveys across 27 countries conducted from 2016 through 2025. The framework replaces a binary connection metric with a six-tier approach that evaluates electricity and cooking access through attributes including capacity, availability, reliability, quality, affordability, legality, health, and safety. The 2026 synthesis reports a substantial divergence between physical connectivity and high-quality service in surveyed countries and identifies grid performance as an important second-generation access challenge.
+The report synthesizes 29 Multi-Tier Framework surveys across 27 countries conducted from 2016 through 2025. The framework replaces a binary connection metric with a six-tier approach that evaluates electricity and cooking access through attributes including capacity, availability, reliability, quality, affordability, formality, health, and safety. The 2026 synthesis reports a substantial divergence between physical connectivity and high-quality service in surveyed countries and identifies grid performance as an important second-generation access challenge.
 
 Book use: supports the chapter’s central conceptual move from “connected/not connected” toward energy access as a spectrum of usable service.
 
@@ -60,6 +60,10 @@ The same release supplies useful counterevidence to any single-technology “las
 The World Bank’s 2026 decade review of the Multi-Tier Framework sharpens the measurement language. For electricity, the framework evaluates peak capacity, availability, reliability, voltage quality, affordability, formality, and health and safety. A household’s tier reflects the performance of the service across these attributes, which makes the key causal point clearer: a connection can exist while one weak attribute still blocks a desired service.
 
 Source: https://documents1.worldbank.org/curated/en/099040126145541234/pdf/P506480-7863d7c6-efa5-4e63-94eb-a2a86a8ef375.pdf
+
+### Terminology check for the manuscript
+
+The current chapter describes the MTF using “capacity, duration, reliability, quality, affordability, legality, health, and safety.” That language is close to older World Bank summaries, which often used “duration” and “legal” terminology, but the World Bank’s current MTF materials use **availability** and **formality**. A future manuscript copyedit should harmonize those labels if the 2026 synthesis remains the cited source. This is a terminology correction, not a substantive change to the chapter’s argument.
 
 ### Strongest counterargument after verification
 

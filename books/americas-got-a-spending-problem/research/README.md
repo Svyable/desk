@@ -114,17 +114,84 @@ Working research for *America's Got a Spending Problem*. Accessed 2026-08-31 unl
 - Federal Trade Commission, “FTC Sues to Block Novant Health's Acquisition of Two Hospitals from Community Health Systems” (January 25, 2024): https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-sues-block-novant-healths-acquisition-two-hospitals-community-health-systems
   - One concrete example of the agency's theory that hospital consolidation can raise prices and reduce quality incentives; not evidence that every hospital merger has those effects.
 
+## Sources added for chapters 9–12
+
+### Defense, Social Security, Medicare, and long commitments
+
+- Congressional Budget Office, *The Budget and Economic Outlook: 2026 to 2036*: https://www.cbo.gov/publication/62105
+  - CBO's 2026 baseline put defense discretionary funding at about $898 billion and mandatory outlays at about $4.5 trillion. Social Security and Medicare are the largest drivers of projected mandatory-spending growth over the coming decade.
+  - Baseline defense funding depends on appropriations and statutory baseline rules; it is not a strategic recommendation for the force structure the United States should buy.
+
+- Social Security Administration, *2026 OASDI Trustees Report*: https://www.ssa.gov/oact/TR/2026/
+  - Under intermediate assumptions, OASI reserves are projected to deplete in 2032, with 78 percent of scheduled OASI benefits payable at depletion; the combined OASDI funds are projected to support full scheduled benefits through 2034, with 83 percent payable at combined depletion.
+  - Depletion does not mean payroll-tax revenue disappears or all benefits stop. It means reserves are exhausted and dedicated income is insufficient to pay full scheduled benefits under current law.
+
+- Social Security and Medicare Boards of Trustees, *Summary of the 2026 Annual Reports*: https://www.ssa.gov/oact/trsum/index.html?level=1
+  - The Medicare Hospital Insurance trust fund is projected to deplete its reserves in 2033 under the Trustees' intermediate assumptions.
+  - Trustees' projections depend on demographic, economic, and program assumptions and should be treated as conditional forecasts, not fixed dates.
+
+### Interest, refinancing, and debt management
+
+- Congressional Budget Office, *The Budget and Economic Outlook: 2026 to 2036*: https://www.cbo.gov/publication/62105
+  - Net interest is projected above $1 trillion in 2026 and about $2.1 trillion in 2036, rising from 3.3 percent to 4.6 percent of GDP. CBO attributes the increase over the projection period to both accumulating debt and higher average interest rates.
+  - Interest projections are especially sensitive to future rates, inflation, growth, debt levels, and policy changes.
+
+- U.S. Department of the Treasury, “Quarterly Refunding Statement of Deputy Assistant Secretary for Federal Finance Brian Smith” (August 5, 2026): https://home.treasury.gov/news/press-releases/sb0590
+  - Treasury offered $125 billion of 3-, 10-, and 30-year securities to refund about $96.3 billion of privately held notes and bonds maturing August 15, raising about $28.7 billion of new cash.
+  - Used to show debt management as continuous refinancing rather than a single national loan with one rate and one maturity.
+
+- U.S. Department of the Treasury, “Treasury Announces Marketable Borrowing Estimates” (August 3, 2026): https://home.treasury.gov/news/press-releases/sb0584
+  - Treasury expected $739 billion of privately held net marketable borrowing in July–September 2026 and $628 billion in October–December, conditional on stated cash-balance assumptions and actual cash flows.
+  - Net marketable borrowing is not the same as the total face value of securities auctioned because refinancing and Federal Reserve holdings affect gross issuance mechanics.
+
+### The tax-expenditure shadow budget
+
+- Office of Management and Budget, *Analytical Perspectives, Fiscal Year 2027*, chapter 10, “Tax Expenditure Estimates”: https://www.whitehouse.gov/omb/information-resources/budget/analytical-perspectives/
+  - Defines tax expenditures as revenue losses from special exclusions, exemptions, deductions, credits, or preferential rates relative to stated baseline tax systems and emphasizes that the estimates are not additive repeal-revenue estimates.
+  - Table 10-2 estimates the 2026 income-tax effect of the exclusion for employer-paid medical insurance and medical care at about $295.7 billion and roughly $3.8 trillion over 2026–2035. Other large items include tax preferences for owner-occupied housing, employer retirement plans, capital gains, home-sale gains, and business investment.
+  - The chapter preserves OMB's warning that behavior, interactions, and baseline choice mean a tax-expenditure estimate is not equivalent to the revenue Congress would necessarily collect from repeal.
+
+- Joint Committee on Taxation, *Estimates of Federal Tax Expenditures for Fiscal Years 2025–2029* (JCS-45-25, December 3, 2025): https://www.jct.gov/publications/2025/jcx-45-25/
+  - Independent congressional tax-expenditure estimates and methodological discussion. Used as a cross-check on the concept rather than as a source for a mechanically summed “shadow budget total.”
+
+### State and local budgets, reserves, and pension promises
+
+- National Conference of State Legislatures, “Late State Budgets”: https://www.ncsl.org/fiscal/late-state-budgets
+  - Notes that every state except Vermont has a formal balanced-budget requirement, with substantial differences in stringency and in the stage of the budget process at which balance is required. Vermont traditionally balances its budget as well.
+  - Used to distinguish current operating-budget constraints from long-term balance-sheet obligations.
+
+- The Pew Charitable Trusts, “Strength of State Rainy Day Funds Declines as Budgets Tighten” (March 24, 2026): https://www.pew.org/en/research-and-analysis/articles/2026/03/24/strength-of-state-rainy-day-funds-declines-as-budgets-tighten
+  - Estimates fiscal 2025 state rainy day funds at about $174.2 billion and a median capacity of 47.8 days of operating spending; projected fiscal 2026 capacity was 53.6 days based on enacted budgets.
+  - Reserve needs vary materially with revenue volatility, expenditure demands, fund rules, and other fiscal cushions; the chapter does not treat one reserve ratio as universally correct.
+
+- National Association of State Budget Officers, *Spring 2026 Fiscal Survey of States*: https://www.nasbo.org/reports-data/fiscal-survey-of-states
+  - Provides state-budget-office data on general fund spending, revenue, ending balances, and rainy day funds for fiscal 2025–2027 and documents a broad post-pandemic shift from unusually large ending balances toward tighter fiscal conditions.
+
+- Board of Governors of the Federal Reserve System, *Financial Accounts of the United States*, table S129s1.3.s, State and Local Government Employee Defined Benefit Pension Funds (June 11, 2026): https://www.federalreserve.gov/Releases/z1/current/html/S129s1_3_s.htm
+  - For 2026:Q1, records about $9.55 trillion of accrued defined-benefit pension entitlements and about $2.70 trillion of “claims of pension fund on sponsor,” the Fed's measure of unfunded defined-benefit pension entitlements.
+  - The Fed's national-accounts methodology differs from plan actuarial reports and public-plan funding ratios. Market values, discount rates, benefit formulas, mortality, wage growth, and actuarial methods can materially change reported funding status. The manuscript uses the figure to establish scale and timing, not as a bill due immediately.
+
+- U.S. Census Bureau, *State and Local Government Finances*: https://www.census.gov/programs-surveys/gov-finances/about.html
+  - The Census program is the comprehensive nationwide source for revenue, expenditure, debt, and asset data across state and local governments using uniform concepts.
+  - Used as background for the discussion of fragmented public finance across states, cities, counties, school districts, and special-purpose governments rather than for a single aggregate debt claim in the chapter.
+
 ## Claims to stress-test before later chapters
 
 The draft proposes a recurring mechanism — price distance — rather than claiming a single cause for American costs. Later work should actively seek evidence that weakens or bounds the thesis.
 
 - **Debt capacity:** How much does dollar reserve status, Treasury-market depth, U.S. monetary sovereignty, and investor demand expand sustainable federal borrowing capacity? At what point do interest costs materially reduce useful fiscal option value even without a market crisis?
+- **Interest and growth:** The relationship between interest rates and nominal growth is central to debt dynamics but is not policy-controlled. Later chapters should avoid implying that one observed rate-growth relationship establishes a permanent safe debt level.
+- **Defense lifecycle cost:** Long-lived procurement can create sticky future costs, but resilience, industrial capacity, redundancy, and deterrence can be valuable precisely when they look inefficient in peacetime. Evidence of high cost is not sufficient to label a capability wasteful.
+- **Trust-fund projections:** Social Security and Medicare depletion dates are conditional on assumptions and law. The core fiscal point is the gap between scheduled benefits and dedicated financing, not a claim that a particular date is certain.
 - **Demand subsidies and supply:** In which housing, education, and health markets do subsidies primarily expand quantity or access rather than prices? The effect should not be assumed to be one-for-one.
 - **Aid and tuition:** The empirical literature on whether federal student aid raises tuition is mixed by aid type, institution, and period. Chapter 7 intentionally treats the Bennett hypothesis as conditional rather than settled.
 - **Health outcomes and innovation:** High U.S. medical spending must be compared with access, outcomes, wages, technology, pharmaceutical innovation, and population health. Administrative complexity, provider prices, and consolidation are important mechanisms, not complete explanations.
 - **Hospital benchmarks:** Medicare prices are administered rates, not revealed competitive prices or a universal measure of cost. Commercial-to-Medicare ratios should be used as evidence of variation and bargaining outcomes, not as a claim that the Medicare price is always the correct price.
 - **Housing supply:** Housing affordability is affected by land-use rules, construction costs, interest rates, migration, household formation, infrastructure, insurance, taxes, and local demand. Zoning is important in many high-demand markets but should not be written as a single national explanation.
 - **Household solvency:** Household debt should be evaluated alongside assets, debt-service ratios, fixed versus variable rates, income distribution, delinquency, and household net worth. Gross balances alone do not establish fragility.
+- **Tax expenditures:** Published tax-expenditure estimates depend on a chosen baseline and are not additive estimates of repeal revenue. The analytic use is to expose policy embedded in the tax code and compare instruments, not to relabel every deviation from one ideal tax base as direct spending.
+- **State and local pension accounting:** National pension underfunding estimates vary with methodology. The Fed's “claim on sponsor” measure is useful for national accounts but should not be substituted for plan-specific actuarial analysis.
+- **Balanced-budget rules:** State requirements create earlier fiscal feedback but can also force procyclical cuts during downturns. Federal borrowing capacity can stabilize states in recessions; copying state rules mechanically to the federal level could remove a useful macroeconomic tool.
 - **Public investment:** Borrowing for capacity-enhancing investments may improve rather than damage long-run fiscal space. Later chapters should distinguish productive investment from spending merely labeled investment.
 - **Tax incidence:** A tax's legal payer is not necessarily its economic bearer. Distributional claims should distinguish statutory incidence from empirical incidence.
 - **Automatic fiscal rules:** Rules can force earlier tradeoffs but can also create procyclicality, accounting games, or poor emergency responses. Any proposed rule needs escape clauses and institutional evidence.
