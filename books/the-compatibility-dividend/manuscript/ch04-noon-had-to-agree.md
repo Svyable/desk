@@ -122,7 +122,83 @@ The system may know the exact physical instant and still misunderstand the repre
 
 Data needs a grammar.
 
-This is one reason standards proliferate as systems become more machine-driven. Humans are good at repairing ambiguous context. A colleague who writes “meet at nine” can rely on shared knowledge about whether the meeting is morning or evening, local or remote, today or tomorrow. Machines require more explicit contracts, especially when acting without immediate human supervision.
+Leap seconds reveal an even stranger problem: sometimes the standard is precise and the world being standardized refuses to behave smoothly.
+
+Modern civil time is built around Coordinated Universal Time, UTC. Its rate comes from atomic timekeeping, while its relationship to Earth's rotation has historically been kept close through occasional leap seconds. The arrangement joins two different clocks.
+
+One is the extraordinarily regular ticking of atomic transitions.
+
+The other is a rotating planet whose speed varies.
+
+For civil life, tying clock time loosely to the Sun is intuitive. For digital infrastructure, inserting an occasional extra second is a discontinuity.
+
+That discontinuity sounds tiny because one second is tiny to a person.
+
+To distributed systems it can be an edge case spanning software libraries, network-time services, databases, satellite systems and machines whose designers assumed every minute had the same number of seconds. Different operators developed different ways to cope. Some systems inserted the leap second directly. Some effectively slowed or “smeared” time around the event. Some applications mishandled it.
+
+The underlying coordination rule had acquired multiple implementation dialects.
+
+In 2022, the General Conference on Weights and Measures confronted that problem directly. Its Resolution 4 on the future of UTC noted that leap-second discontinuities risk serious malfunctions in critical digital infrastructure and that operators had developed different, uncoordinated methods of introducing them. The resolution decided that the permitted difference between UTC and the Earth-rotation time scale would be increased in, or before, 2035, with the goal of making UTC effectively continuous for at least a long future interval.
+
+The institution maintaining the standard was choosing which compatibility mattered more.
+
+Keep UTC extremely close to Earth's irregular rotation at all times, and distributed digital systems inherit discontinuities.
+
+Allow the two time scales to drift farther before correction, and computers receive a more continuous reference while civil time becomes microscopically less tied to astronomical noon.
+
+Nobody changed what a second is because software developers were annoyed.
+
+The seam moved.
+
+This is standards governance at its most mature: not finding a perfect convention, but deciding which relationship should absorb the mismatch when two legitimate requirements cannot both be kept exact forever.
+
+The 2022 resolution is also an example of a standard learning from workarounds.
+
+When many operators independently invent different ways to survive a rule, the workarounds are evidence about the rule.
+
+A badly designed organization treats them as noncompliance.
+
+A learning standards institution asks whether the official seam is forcing participants to create dangerous shadow seams.
+
+This matters for agents because intelligent endpoints will be exceptionally good at inventing local workarounds.
+
+If an authorization protocol lacks a concept a vendor needs, the vendor can encode the concept in a private extension. If a payment interface does not represent a condition, an agent may tuck it into natural-language metadata. If a task protocol has an awkward failure state, implementations may infer their own retry behavior.
+
+The system can appear to work precisely because intelligence hides disagreement.
+
+That is when a standards body should become suspicious.
+
+Compatibility that depends on everybody improvising the same edge case independently is not compatibility.
+
+It is synchronized luck.
+
+The UTC case also shows that continuity is a design property, not merely a measurement property.
+
+Humans often think of a time standard as an answer to “what time is it?” Digital systems care equally about whether the answer moves predictably from one instant to the next. A discontinuity that preserves one definition can violate another operational expectation.
+
+This distinction appears elsewhere.
+
+A currency can preserve a unit while a payment system is unavailable. A file format can preserve data while a parser crashes. An identity can remain valid while revocation information cannot be reached. A protocol can define a state correctly while implementations disagree about transition timing.
+
+Standards govern relationships across time as well as meanings at a point in time.
+
+The institutions behind UTC make another lesson visible: standard time is not a single machine.
+
+BIPM computes UTC from contributions by national metrology laboratories. National institutes realize and disseminate their own versions, such as UTC(NIST), and continuously compare them against the international reference. The system maintains global sameness through a network of measured relationships rather than one clock broadcasting sovereign time to everyone.
+
+This is federation in metrology.
+
+There is a common reference, multiple competent operators and a traceability chain connecting local realizations to the shared standard.
+
+That architecture should interest anyone designing machine identity or agent authorization.
+
+A global standard need not imply one global issuer.
+
+It can define how many issuers demonstrate relationship to a shared reference.
+
+The compatibility dividend comes from traceability rather than central ownership.
+
+This is why standards proliferate as systems become more machine-driven. Humans are good at repairing ambiguous context. A colleague who writes “meet at nine” can rely on shared knowledge about whether the meeting is morning or evening, local or remote, today or tomorrow. Machines require more explicit contracts, especially when acting without immediate human supervision.
 
 Autonomous agents magnify the cost of ambiguity because they can convert interpretation into action.
 
