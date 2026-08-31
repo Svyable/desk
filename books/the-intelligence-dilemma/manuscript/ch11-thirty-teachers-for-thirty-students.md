@@ -2,418 +2,232 @@
 
 The most unrealistic thing about a classroom is not the number of students.
 
-It is the assumption that one explanation should be enough for all of them.
+It is the assumption that one adult can respond to all of them at the moment each one needs something different.
 
-Thirty students can sit in the same room, hear the same lesson, complete the same worksheet, and leave with thirty different problems.
+Thirty students can hear the same lesson and leave with thirty different problems.
 
-One misunderstood a word in the question.
+One misunderstood a word in the question. One remembers the formula but not why it works. One is bored because the class is moving too slowly. One is lost because a missing step from three weeks ago has finally become expensive. One understands but is afraid to raise a hand.
 
-One remembers the formula but not why it works.
-
-One understands the idea but cannot get the notation right.
-
-One is bored because the class is moving too slowly.
-
-One is lost because the class moved past the missing step three weeks ago.
-
-One is afraid to raise a hand.
-
-One has learned that asking for help means revealing that everyone else already understands.
-
-A teacher can know all of this and still be unable to respond to it.
+A teacher can know that this variation exists and still be unable to respond to it.
 
 The constraint is arithmetic.
 
-There is one adult.
+One adult.
 
-There are thirty students.
+Thirty students.
 
-There are fifty minutes.
+Fifty minutes.
 
-This has always been one of the quiet compromises inside mass education. Schools place many students with one teacher because societies need education at a scale that one-to-one instruction cannot provide. The teacher then solves an impossible allocation problem every day: who needs attention, who can wait, which misconception matters now, which student is pretending to understand, which student is ready for something harder, and how much individual help can be given without abandoning the rest of the room.
-
-The heroic version of teaching imagines that a gifted teacher somehow defeats this arithmetic through energy.
-
-The institutional version accepts the arithmetic and builds routines around it.
-
-Whole-class instruction.
-
-Group work.
-
-Office hours.
-
-Homework.
-
-Peer support.
-
-Differentiated worksheets.
-
-Tutoring for the students who can get it.
+Mass education has always organized itself around this shortage. Whole-class instruction, group work, office hours, homework, peer support, differentiated materials, and tutoring are all partly attempts to allocate scarce attention.
 
 The central scarcity is not information.
 
 It is responsive attention.
 
-That distinction matters because artificial intelligence arrives in education at exactly the point where information was already becoming abundant.
+That distinction matters because AI arrives after explanations have already become abundant. Textbooks, videos, search engines, worked examples, online courses, and forums can supply information at enormous scale.
 
-A student has not lacked access to explanations for years.
+The harder problem is matching help to this learner, after this mistake, at this moment.
 
-There are textbooks, videos, websites, discussion boards, worked examples, searchable archives, recorded lectures, and online courses.
+A teacher does that when time allows.
 
-The difficult thing is finding the explanation that fits this learner, at this moment, after this mistake, without making the student wait until tomorrow.
+What did you try?
 
-A teacher does this naturally when time allows.
+Show me where you got stuck.
 
-“What did you try?”
+You understand the first part; the problem begins here.
 
-“Show me where you got stuck.”
+Try a smaller example.
 
-“You understand the first part. The problem begins here.”
+Do not look at the answer yet.
 
-“Try the same idea on an easier example.”
+This is diagnosis followed by adaptation.
 
-“Tell me what you think this word means.”
+AI can make more of those small responses available without requiring the teacher to hold thirty simultaneous conversations.
 
-“Don’t look at the answer yet.”
+That is the institutional promise.
 
-This is not merely delivery.
+Not thirty replacement teachers.
 
-It is diagnosis followed by adaptation.
+More chances for one teacher to see thirty students.
 
-That is why the strongest educational case for AI is not that it knows many things.
+Imagine a class submits the first two steps of the same mathematics problem. A system can cluster recurring errors, generate targeted hints, and show the teacher that six students made one mistake while four appear to be missing an earlier concept.
 
-It is that it can afford to stay with one student.
+The machine has not discovered the full story of those students.
 
-The machine can explain the same concept five ways without becoming impatient. It can generate another practice problem immediately. It can ask a student to show the first step. It can translate a direction. It can simplify a sentence. It can offer a hint instead of an answer. It can increase difficulty when the student is ready and decrease it when the student is not.
+It has changed the allocation problem.
 
-In principle, every student can have access to a form of responsive academic attention that was once available mainly through a parent, tutor, older sibling, patient teacher, or well-resourced school.
+Instead of spending several minutes finding out that many students share the same misconception, the teacher can spend those minutes deciding what to do about it.
 
-That is a serious change.
+This is a more useful meaning of personalization than thirty algorithmic content feeds.
 
-It is also easy to describe badly.
+Personalization can easily become impersonal. A dashboard can assign each student a level, path, or risk category while the adult in the room becomes a supervisor of screens.
 
-The phrase “personalized learning” has been attached to enough educational technologies that it has become suspicious on contact.
+The important question is whether the system creates more opportunities for useful response.
 
-Sometimes personalization means that a dashboard moves a student from one digital exercise to another.
+Does the student get a timely hint?
 
-Sometimes it means that every child is staring at a separate screen while the adult in the room becomes a systems administrator.
+Does the teacher see the pattern sooner?
 
-Sometimes it means that software has inferred a level, assigned a path, and quietly narrowed what the student encounters.
+Does a learner who is ready for harder work get it without waiting?
 
-There is nothing automatically humane about personalization.
+Does the student who is embarrassed to ask receive a private first move?
 
-A vending machine is personalized if it remembers what you buy.
+Does the tool help the teacher decide where human attention is most valuable?
 
-Education requires more.
+This is also why human-AI tutoring systems are institutionally interesting.
 
-The important possibility is not thirty students receiving thirty algorithmically optimized content feeds.
+Tutor CoPilot, evaluated in a randomized study of live mathematics tutoring, did not replace the tutor. It supplied real-time suggestions to human tutors. Students whose tutors had access to the system showed higher lesson mastery on near-term exit tickets, with larger effects among lower-rated or less-experienced tutors. Conversation analysis found more use of guiding questions and less tendency to give answers away immediately.
 
-It is thirty students receiving more chances to be noticed.
+The result belongs to a specific tutoring program and does not establish long-run effects.
 
-That is a different design objective.
+Its institutional model is still important.
 
-Suppose a teacher gives a class a short mathematics problem and asks every student to submit the first two steps.
+AI can spread some expert moves through the people already doing the work.
 
-The old constraint is obvious. The teacher cannot hold thirty simultaneous conversations about thirty different errors.
+A novice tutor gets support choosing the next question. A classroom teacher can generate alternate examples, adapt a passage, draft practice, or identify common errors without producing every variation manually.
 
-An AI system can.
+This is augmentation in a concrete sense.
 
-It can identify that six students made the same sign error, four misunderstood what the variable represents, three skipped a required transformation, and five solved the problem correctly but cannot explain why the method is valid.
+The machine absorbs some production so the human can spend more time on interpretation.
 
-The system could then offer each student a targeted prompt while giving the teacher a map of the room.
+Teachers are already using AI for the production side of the job.
 
-The educational value is not that the AI has replaced the teacher’s explanation.
+A 2025 Gallup/Walton survey of U.S. public-school teachers found that six in ten reported using an AI tool for work during the school year, with nearly a third reporting weekly use. Common uses included preparation, activity creation, and modification of materials. Weekly users estimated substantial time savings.
 
-The value is that the teacher now knows where human attention is most needed.
+Those savings were self-reported, not independently observed.
 
-This is the more interesting version of augmentation.
+The more important question comes after the estimate.
 
-AI does not become thirty teachers.
+Where does the saved time go?
 
-It helps one teacher see thirty students.
+A productivity gain is not automatically an educational gain.
 
-That difference sounds small.
+A teacher who saves several hours may simply have several fewer hours of unpaid work. That can be valuable in itself.
 
-It is not.
+A school can also consume the gain by demanding more output.
 
-The first framing invites replacement.
+More differentiated handouts.
 
-The second invites leverage.
+More written feedback.
 
-The same distinction appears in tutoring.
+More documentation.
 
-Research on high-impact tutoring has repeatedly found large academic benefits when students receive frequent, individualized or very small-group support from consistent tutors using good materials and information about student progress.
+More reporting.
 
-The difficulty has always been scale.
+Larger classes because software supposedly makes the load manageable.
 
-Good tutoring is expensive because attention is expensive.
+Institutions are good at turning efficiency into new expectations.
 
-Schools can purchase software more easily than they can purchase thousands of hours of skilled adult time.
+The history of office technology is not a history of everyone going home early.
 
-The temptation is therefore predictable: if tutoring works, and AI can converse, perhaps AI can simply become the tutor.
+The educational dividend therefore has to be protected deliberately.
 
-Sometimes it can help.
+If AI saves an hour, what would make that hour more valuable than another hour of generated material?
 
-But the evidence already suggests that the category “AI tutoring” is too broad to be useful.
+Reading student work carefully.
 
-A generic chatbot that gives away answers is not the same intervention as a carefully structured tutor designed around a particular curriculum. A system that assists a live tutor is not the same as a system that replaces one. A model that explains physics concepts to college students is not automatically evidence about elementary reading. Immediate improvement on a problem set is not the same as durable learning a week later.
+Talking with a learner who has stopped participating.
 
-The design matters more than the label.
+Planning a better experiment.
 
-This is one reason the strongest early results are interesting.
+Meeting a small group whose misconception will otherwise compound.
 
-In one randomized evaluation, human tutors using an AI assistant were able to improve student lesson mastery, with larger benefits among less experienced or lower-rated tutors. The software did not sit between student and school as an autonomous instructor. It sat behind the tutor, offering suggestions for better questions and teaching moves.
+Calling home before a problem becomes a crisis.
 
-That model deserves attention because it treats AI as a way to spread expertise rather than remove experts.
-
-A novice tutor gets access to some of the moves a stronger tutor might make.
-
-A classroom teacher might similarly get help creating variations of an explanation, adapting a reading level, producing extra practice, drafting feedback, or identifying patterns across student responses.
-
-The purpose is not to automate judgment.
-
-It is to increase the number of situations in which judgment can be exercised.
-
-Teachers are already using AI this way.
-
-In a 2025 national survey of U.S. public-school teachers, six in ten reported using an AI tool for their work during the school year. Weekly users estimated substantial time savings, especially in preparation, creating activities, and modifying materials for student needs.
-
-Those figures should be treated as self-report rather than a stopwatch measurement.
-
-But the direction matters.
-
-Teachers do not only experience AI as a threat to assignments.
-
-Many experience it as relief from production.
-
-This creates an institutional question that schools have not yet answered well.
-
-What happens to the saved time?
-
-A technology can reduce workload without improving education.
-
-A teacher who saves four hours may simply survive the week with four more hours of sleep.
-
-That is not a failure.
-
-Burnout is not a pedagogical strategy.
-
-But schools should not assume that efficiency automatically turns into learning.
-
-If AI makes it easier to generate worksheets, schools may get more worksheets.
-
-If it makes it easier to write feedback, schools may require more written feedback.
-
-If it makes it easier to differentiate materials, administrators may expand expectations until the teacher is again at capacity.
-
-Institutions are excellent at consuming productivity gains.
-
-The history of office technology is not a history of everyone going home at noon.
-
-So the educational promise of teacher AI depends partly on whether schools protect the dividend.
-
-The saved hour has to become something more valuable than another hour of output.
-
-Conversation.
-
-Observation.
-
-Planning.
-
-Reading student work closely.
-
-Meeting the child who stopped participating.
-
-Calling the parent before the situation becomes a crisis.
-
-Designing the experiment properly instead of generating three more handouts.
+Watching how students approach a task rather than grading only what they submit.
 
 The best use of AI may be to make teaching less document-heavy.
 
-That would be an inversion of the way the technology is often sold.
+That is almost the opposite of how the technology demonstrates itself.
 
-Most software demonstrates itself through output.
+Software shows what it can produce: lesson plans, quizzes, slides, feedback, summaries.
 
-Look how quickly it produces the lesson plan.
+Schools do not primarily suffer from a shortage of documents.
 
-Look how quickly it produces the quiz.
+They suffer from a shortage of adult attention under conditions of scale.
 
-Look how quickly it summarizes the essay.
+If the tool produces more documents while the teacher remains too busy to notice the student, the main constraint has not moved.
 
-But a school does not primarily suffer from a shortage of documents.
+This is where institutional incentives matter more than model capability.
 
-It suffers from a shortage of attention under conditions of scale.
+A district can use AI to increase class sizes because each teacher now has automated support.
 
-If the machine produces more documents while the teacher remains too busy to notice the student, nothing fundamental has improved.
+Or it can use the same capability to make existing classes more responsive.
 
-This is where personalization can become dangerous.
+A tutoring provider can use AI to replace tutors.
 
-The teacher may begin to trust the machine’s representation of the student more than the student.
+Or it can use AI to make less-experienced tutors better.
 
-A dashboard says the learner is at level six.
+A school can use automated feedback so no teacher reads the first draft.
 
-A model predicts the misconception.
+Or it can use first-pass machine feedback to free the teacher for the decisions that require context.
 
-A system categorizes the writing.
+All of these can be called efficiency.
 
-A risk score highlights disengagement.
+They do not create the same school.
 
-Each signal may be useful.
+This is the political economy of teacher augmentation.
 
-Together they can create an illusion of legibility.
-
-The child appears to have become measurable enough to manage.
-
-But every educational profile is a compression.
-
-The student who failed three assignments may be confused, overwhelmed, bored, working nights, caring for a sibling, unable to read the directions, or simply testing what happens when nobody checks.
-
-A model can identify patterns.
-
-It cannot automatically know which story is true.
-
-The teacher still has to ask.
-
-This is why the teacher’s role may become more interpretive as AI becomes more capable.
-
-The machine can generate possible explanations.
-
-The teacher decides which explanation belongs in this room.
-
-The machine can draft feedback.
-
-The teacher decides what this student can hear right now.
-
-The machine can identify a pattern across assignments.
-
-The teacher decides whether the pattern reflects a concept, a circumstance, or a child who has learned to hide confusion behind compliance.
-
-Personalization without relationship is profiling.
-
-Relationship turns information into care.
-
-That is not sentimental language.
-
-It is an operational difference.
-
-A student is more likely to reveal confusion to someone trusted. A teacher who knows a student can interpret hesitation, effort, withdrawal, confidence, humor, and silence in ways that no isolated artifact can capture reliably. The same answer can mean mastery from one student and lucky guessing from another. The same quietness can mean concentration, fear, defiance, fatigue, or nothing at all.
-
-Schools have always relied on teachers to read weak signals.
-
-AI can add signals.
-
-It cannot eliminate the need to read them.
-
-This suggests a better picture of the AI-rich classroom.
-
-Not thirty students isolated with thirty synthetic tutors while one adult supervises the network.
-
-Not one teacher performing every act of explanation, adaptation, feedback, planning, and diagnosis manually as if software did not exist.
-
-Something between those extremes.
-
-The teacher remains responsible for the learning environment, the standards, the relationships, the judgments, and the meaning of the work.
-
-AI handles some of the repetition.
-
-It creates practice variations.
-
-It offers first-pass feedback.
-
-It gives hints.
-
-It helps a student rehearse a question before asking it publicly.
-
-It notices common errors.
-
-It helps the teacher prepare three routes into the same idea.
-
-It supports a tutor who does not yet have the moves of an expert.
-
-Then the human spends more time where human presence changes the outcome.
-
-This is not guaranteed.
-
-A district can buy the same tools and move in the opposite direction.
-
-It can use AI to increase class sizes.
-
-It can reduce staffing.
-
-It can standardize lessons more aggressively.
-
-It can outsource feedback until students receive paragraphs no teacher has read.
-
-It can measure teacher productivity by the number of materials generated.
-
-It can place a chatbot in front of a student who needed an adult.
-
-The technology does not determine whether the institution chooses leverage or substitution.
-
-Budgets do.
-
-Incentives do.
-
-Leadership does.
-
-Definitions of quality do.
-
-This will become one of the central political questions of AI in education.
-
-When a technology makes one teacher more productive, who receives the benefit?
+When one teacher becomes more productive, who receives the benefit?
 
 The teacher?
 
 The student?
 
-The school system?
+The budget office?
 
 The vendor?
 
-Or the budget office that decides one teacher can now serve more children?
-
 There is no technical answer.
 
-A school can use AI to make one adult responsible for sixty students because the system provides automated support.
+The institution decides.
 
-Or it can use AI to let one adult finally know thirty students well enough to teach them differently.
+That is why “thirty teachers for thirty students” should remain a metaphor for responsiveness rather than a staffing plan.
 
-Both futures can be described as personalization.
+Current evidence on tutoring still gives the strongest support to human-delivered, high-impact models built around frequent interaction, small ratios, curriculum alignment, formative assessment, and sustained relationships. AI may augment parts of that system. It should not be assumed to reproduce the whole intervention merely because it can converse.
 
-Only one is more personal.
+The goal is not machine teacher-equivalence.
 
-The distinction is easy to test.
+It is more instructional capacity where scarcity currently blocks useful action.
 
-Ask what happens to human attention.
+A system can notice that several students made the same error.
 
-Does the system create more of it where students need it?
+It cannot automatically know whether one student is confused, exhausted, disengaged, or hiding a problem unrelated to the worksheet.
 
-Or does it create a rationale for removing it?
+The signal can guide attention.
 
-This is why the fantasy of “thirty teachers for thirty students” needs correction.
+It should not pretend to finish the diagnosis.
 
-Students do not need thirty replacement teachers.
+This boundary matters because personalization can become profiling quickly. The more data a system observes, the more complete its representation of the learner can appear.
 
-They need thirty pathways to help inside a classroom that still has a teacher capable of seeing the whole child.
+A level, a mastery estimate, a predicted misconception, a risk flag.
 
-The abundance worth pursuing is not machine authority.
+These can all be useful.
 
-It is instructional responsiveness.
+They are compressions.
 
-A student should be able to get another explanation without waiting.
+The student remains more complicated than the profile.
 
-A teacher should be able to discover a misconception before it hardens.
+The teacher’s job in this chapter is not to defeat the machine at explanation.
 
-A tutor should be able to ask a better question.
+It is to use machine-produced signals and materials to allocate scarce human response more intelligently.
 
-A multilingual learner should be able to cross a language barrier without leaving the lesson.
+Chapter 12 will take up the deeper question of judgment and responsibility.
 
-A student who is embarrassed to raise a hand should have a private first move.
+Here the standard is simpler.
 
-A student who is ready to go further should not have to wait for everyone else.
+Follow the attention.
 
-If AI can help do those things, it does not make the classroom less human.
+When AI enters a classroom, does useful human attention become more available to students who need it?
 
-It can create the conditions for the humans in it to spend less time manufacturing materials and more time noticing one another.
+Or does the technology become a reason to remove that attention because the system appears capable of filling the gap?
 
-That is a much more ambitious use of intelligence than producing another worksheet.
+Both futures are technically plausible.
+
+Only one treats productivity as a means rather than the educational goal.
+
+A student should be able to receive another explanation without waiting. A teacher should be able to discover a common misconception sooner. A multilingual learner should be able to cross a language barrier without leaving the lesson. A student ready to go further should not have to sit still until the timetable catches up.
+
+AI can help create those conditions.
+
+Its institutional value will be measured less by how many artifacts it produces than by what humans are able to notice because those artifacts became cheaper.
