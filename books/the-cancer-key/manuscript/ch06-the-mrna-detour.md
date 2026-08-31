@@ -191,3 +191,83 @@ Before COVID, personalized mRNA cancer vaccines were a frontier biotechnology pr
 After COVID, they were still uncertain.
 
 But the world had built the factories.
+
+Those factories did not solve the most important manufacturing problem for personalized oncology.
+
+Scale and variety are different engineering problems.
+
+A pandemic vaccine facility can become extraordinarily efficient because it repeats the same sequence over enormous volumes. Raw materials arrive against a stable bill of materials. Quality assays become routine. Equipment utilization can be optimized around long campaigns. Forecasting is difficult because demand moves, but the product identity does not change every morning.
+
+An individualized cancer program asks the factory to repeat the process while changing the encoded antigen set patient by patient.
+
+The value of mRNA is that much of the process can remain common. The inconvenience is that some of the highest-risk steps sit exactly where the sequence changes.
+
+Every new construct has to be generated from the correct design. Identity has to be maintained. Transcription has to produce RNA of suitable quality. Purification has to remove unwanted material. Formulation has to be consistent. Release testing has to establish that the finished batch meets specifications without consuming so much time or material that the treatment window closes.
+
+This is where the software analogy begins to fail.
+
+Changing a line of code is cheap because execution can be copied perfectly at negligible marginal cost.
+
+Changing an RNA sequence is informationally cheap and physically nontrivial.
+
+The factory still handles molecules.
+
+That makes the design of the manufacturing platform unusually important. A useful personalized process pushes as much variability as possible into a controlled digital input and keeps everything downstream standardized. The sequence changes; the way the sequence is accepted, transcribed, purified, formulated, tested, released and documented changes as little as possible.
+
+The platform is valuable because it contains difference.
+
+That containment can create surprising forms of automation.
+
+Barcodes can tie a patient's specimen to a design file and a manufacturing lot. Software can generate production records, verify sequence transfers and prevent a batch from moving when identity checks disagree. Closed manufacturing systems can reduce manual handling. Analytical methods can be designed around attributes shared across constructs rather than reinvented for each patient.
+
+The goal is not to remove humans from the factory.
+
+It is to remove the kinds of human improvisation that make one patient's product incomparable with the next.
+
+Pandemic manufacturing accelerated some of this discipline because mRNA companies had to prove they could transfer processes across facilities and suppliers under extraordinary volume pressure. That experience matters. It does not answer how many unique products a network can process per week, how quickly a failed personalized batch can be remade or how much spare capacity must be held for patients whose treatment cannot simply be postponed to the next production campaign.
+
+Personalized capacity has a queuing problem.
+
+A conventional factory can often buffer demand with inventory. It manufactures before the patient is known. A personalized factory begins after the patient enters the system. Capacity therefore behaves more like a service business, except a late appointment is a biological risk and the service produces a regulated drug.
+
+This changes the economics of utilization.
+
+Factories usually want equipment full. Hospitals usually want beds full. High utilization looks efficient until variability creates a queue. In individualized oncology, running the plant near theoretical maximum can make turnaround unstable. A surge of eligible patients, a run of failed batches or a supplier interruption can push treatment dates outward exactly when the clinical value of speed is highest.
+
+Slack becomes a quality attribute.
+
+That is economically awkward because unused capacity looks expensive on a spreadsheet. It may be medically necessary in the same way spare intensive-care beds or reserve electricity generation can be necessary. The system has to decide who pays for readiness when the capacity is not being used.
+
+Pandemic policy already encountered a version of this problem.
+
+Governments paid for manufacturing capability before final demand was known because waiting for certainty would have delayed supply. Personalized cancer medicine will not command the same emergency financing, but the industrial logic survives. If a society wants rapid access after approval, capacity has to exist before every slot is revenue producing.
+
+The question becomes sharper when the platform serves several diseases.
+
+A successful melanoma program could compete for manufacturing slots with trials in lung, bladder or kidney cancer. A company can allocate capacity toward the indication with the strongest evidence, the highest price, the easiest logistics or the largest strategic market. The molecules may be personalized; the factory still makes portfolio decisions.
+
+The pandemic also changed public expectations in a way that could mislead.
+
+People saw a new viral sequence identified, a vaccine designed rapidly and large trials completed within a year. That experience can make weeks of personalized manufacturing sound slow.
+
+The comparison is unfair.
+
+The COVID products used one shared design, and the world accepted enormous parallel financial risk to accelerate every stage. A cancer vaccine has to wait for the patient's tumor, identify private targets and manufacture one of many possible designs while the patient is already inside a treatment pathway.
+
+The relevant achievement is not instantaneous production.
+
+It is dependable production on a clock short enough that oncology can use it.
+
+That clock will become one of the most important competitive variables in the field because biology converts time into patient selection. A platform that takes twelve weeks may appear to work well among the patients healthy enough to wait twelve weeks. A platform that takes four weeks can treat a broader clinical population. Turnaround is therefore not merely convenience or cost. It can change who is represented in the evidence.
+
+This is how manufacturing reaches back into trial interpretation.
+
+If the sickest patients fall out before dosing, the treated cohort becomes healthier than the eligible cohort. If commercial turnaround later worsens under demand, real-world outcomes can differ even when the molecular product is unchanged.
+
+The factory can alter the medicine without altering the RNA.
+
+That is the lesson the detour ultimately supplies.
+
+COVID made mRNA look like a molecule that could scale.
+
+Cancer will test whether it can become a process that can vary.
