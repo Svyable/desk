@@ -82,13 +82,31 @@ A buyer-side system should not secretly raise the acceptable price because a mer
 
 The total price becomes the natural unit of comparison.
 
-This sounds obvious, yet digital commerce repeatedly profits from fragmenting price. Airlines separate seat selection, bags, priority boarding, and flexibility. Hotels add resort fees. delivery services add service charges and tips. Ticketing systems add fees late in checkout. subscriptions advertise monthly equivalents while billing annually. Mobile plans bundle device credits with service commitments. “Free” products monetize data or future lock-in.
+This sounds obvious, yet digital commerce repeatedly profits from fragmenting price. Airlines separate seat selection, bags, priority boarding, and flexibility. Hotels have used resort fees. Delivery services add service charges and tips. Ticketing systems have historically added fees late in checkout. Subscriptions advertise monthly equivalents while billing annually. Mobile plans bundle device credits with service commitments. “Free” products monetize data or future lock-in.
+
+The difference between a hidden fee and an individualized price is important. They are often discussed together because both make comparison harder, but they are different problems. A hidden mandatory fee means the consumer was not shown the actual price clearly enough. An individualized price means the consumer may be shown the actual price, but a different buyer could see a different one. A coordinated price means ostensibly competing sellers may not be making sufficiently independent pricing decisions. An agent has to understand which problem it is confronting before it can help.
+
+The United States began drawing a firmer line around the first problem in 2025. The Federal Trade Commission’s Rule on Unfair or Deceptive Fees took effect on May 12 of that year for live-event tickets and short-term lodging. In those covered markets, a business displaying a price generally has to show the total price including mandatory fees it knows and can calculate upfront, with limited exclusions such as government charges, shipping, and optional add-ons. The rule does not ban fees and does not ban dynamic pricing. It changes what must be visible when the price is presented.
+
+That distinction is almost designed for machine comparison.
+
+A ticket agent does not need the government to decide whether a front-row seat should cost four hundred dollars. It benefits enormously from the government requiring the four-hundred-dollar offer to mean approximately the same thing across sellers before taxes and genuinely optional extras. A market can remain dynamic while becoming more legible.
+
+In April 2026 the FTC announced a $10 million consumer-refund settlement with StubHub over allegations that the company had continued to advertise ticket prices without including mandatory fees after the rule took effect. The significance for agentic commerce is not the size of the settlement. It is that “total price” is becoming an enforceable data concept in a market where software already does much of the comparison.
+
+Regulation and agents can reinforce each other. Regulation makes the fields cleaner. Agents make noncompliance easier to detect because they compare the fields at scale.
+
+A rule that helps a human avoid surprise at checkout also helps a machine reject an offer whose apparent price cannot be reconciled with its mandatory charges.
+
+This is one reason machine-readable consumer law may become more important. A disclosure that satisfies a lawyer because it appears somewhere in a page of text can still be difficult for an agent to incorporate reliably. A structured field stating the mandatory total, renewal date, cancellation rule, financing cost, or return condition is both a technical convenience and a form of consumer protection.
+
+The best regulation will not tell the agent what to choose. It will make the choice space harder to falsify.
 
 Human consumers are bad at integrating scattered costs under time pressure.
 
 Agents are built for it.
 
-The regulatory push toward upfront total-price disclosure and the technological push toward agentic comparison reinforce each other. A machine-readable market works better when fees are explicit.
+The regulatory push toward upfront total-price disclosure and the technological push toward agentic comparison therefore point in the same direction. A machine-readable market works better when fees are explicit.
 
 Sellers that depend on drip pricing face a hostile counterparty.
 
@@ -100,17 +118,7 @@ This is an old dynamic in financial products. Regulation standardizes disclosure
 
 The buyer agent becomes a permanent financial analyst of ordinary commerce.
 
-It can annualize the price.
-
-It can estimate the probability that a rebate will actually be redeemed.
-
-It can model the cost of a subscription if cancellation is forgotten—then remember to cancel.
-
-It can value points at a realistic redemption rate rather than the number printed in an email.
-
-It can notice that a “free” phone requires a more expensive plan for three years.
-
-It can compare cash price with financing without being seduced by a monthly payment.
+It can annualize the price. It can estimate the probability that a rebate will actually be redeemed. It can model the cost of a subscription if cancellation is forgotten—then remember to cancel. It can value points at a realistic redemption rate rather than the number printed in an email. It can notice that a “free” phone requires a more expensive plan for three years. It can compare cash price with financing without being seduced by a monthly payment.
 
 These capabilities are especially valuable because price complexity is regressive in attention. The people who can least afford a bad fee are often the people with the least time to study every contract.
 
@@ -150,11 +158,21 @@ Prices become messages between algorithms.
 
 This raises a competition concern beyond individualized pricing: coordination among sellers.
 
-The RealPage litigation in the United States brought public attention to algorithmic pricing in rental housing. The Justice Department alleged that competing landlords used shared competitively sensitive information through a common pricing system in ways that harmed competition. By 2025 and 2026, settlements with RealPage and several large landlords imposed restrictions on information sharing and algorithmic coordination.
+The RealPage litigation in the United States brought public attention to algorithmic pricing in rental housing. The Justice Department’s case alleged that RealPage and participating landlords used competitors’ competitively sensitive, nonpublic information in revenue-management systems and adopted practices that aligned pricing. The details matter because the antitrust concern was not simply that landlords used software or adjusted rents dynamically. The concern was whether competitors were making independent pricing decisions when the system was trained on and informed by shared competitive data.
 
-Rental housing is not ordinary retail, and the legal facts of those cases should not be lazily generalized. The broader lesson is still relevant. When many firms rely on common pricing systems or common data, software can change the mechanism through which competition occurs.
+That case kept moving after the initial complaint. In November 2025 the Justice Department filed a proposed settlement with RealPage that would restrict the use of competitors’ sensitive information and practices designed to align pricing. Settlements with landlord defendants followed, including a final judgment with Greystar in March 2026 and a proposed settlement with Willow Bridge in July 2026. Those agreements were resolutions of specific legal claims, not a general declaration that common pricing software is unlawful.
 
-Agentic sellers will intensify the issue.
+The narrower lesson is more useful.
+
+Algorithmic pricing has at least two different competition stories. One is a firm using its own information to react more intelligently to demand. The other is a group of competitors feeding or receiving information through a common system in ways that can weaken independent rivalry. The first can be ordinary competition. The second can become an antitrust problem depending on facts that no slogan about “AI pricing” resolves.
+
+Consumer agents will need the same precision.
+
+If a household sees identical high offers from five sellers, the agent should not assume collusion. The products may share a wholesale cost. Capacity may be scarce. A public event may have shifted demand. But the agent can preserve the observation, compare it with history, and make concentrated or suspiciously synchronized markets easier to study.
+
+An economy full of buyer agents produces a new source of competition evidence: millions of systematic records of what was offered, when, under which constraints, and by whom. That could help consumers. It could also become commercially sensitive data of its own. The aggregator that sees the whole market acquires power again.
+
+The information advantage keeps moving upward.
 
 Imagine thousands of merchants using a small number of commercial agents that continuously watch competitors, adjust offers, and decide when to discount. Even without explicit collusion, the market can become more synchronized. If systems share data or optimize toward similar objectives, regulators will have to distinguish legitimate automation from anticompetitive coordination.
 
@@ -176,7 +194,7 @@ That is a large part of the economy.
 
 The agent can turn latent competition into effective competition by making switching credible.
 
-Sellers will still practice price discrimination because differences in willingness to pay are economically real and sometimes useful. Airlines will not charge every passenger the same fare. Hotels will vary prices with demand. promotions will target particular customers. Subscription companies will make retention offers. Luxury brands will protect price architecture. Local services will quote based on circumstances.
+Sellers will still practice price discrimination because differences in willingness to pay are economically real and sometimes useful. Airlines will not charge every passenger the same fare. Hotels will vary prices with demand. Promotions will target particular customers. Subscription companies will make retention offers. Luxury brands will protect price architecture. Local services will quote based on circumstances.
 
 The goal is not a world with one universal price.
 
