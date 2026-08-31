@@ -135,3 +135,69 @@ The man on the screen was a person.
 The system behind him was larger.
 
 A serious theory of public pressure has to be able to see both at the same time.
+
+There is another reason the reaction matters. Public hostility does not distribute itself according to an organizational chart. It accumulates where ordinary people can see, speak, and imagine leverage. That makes reputation a kind of informal jurisdiction. A company can be legally compliant and still politically vulnerable because legality answers only some of the questions people are asking. It can also be widely disliked while behaving lawfully in the specific case that triggered the anger. Public pressure does not wait for these categories to align.
+
+The mismatch is easiest to see in complaints about health care because the American system contains so many actors with overlapping incentives. Insurers receive premiums and pay claims. Employers often choose plans. Hospitals negotiate rates. Physicians decide treatment while sometimes owning facilities or practices with financial interests. Pharmacy benefit managers sit between drug manufacturers, insurers, pharmacies, and patients. Federal and state governments finance, regulate, or directly administer large portions of the system. A person can be harmed by the interaction among these parts without any single participant controlling the whole outcome.
+
+That makes moral storytelling difficult.
+
+It also makes institutional mapping indispensable.
+
+Imagine two families describing an apparently identical denial. One is experiencing an insurer applying a plan exclusion that the employer chose. The other is experiencing a utilization decision inside a Medicare Advantage plan. The letters may look similar. The proper remedies may be entirely different. A public campaign that treats both as evidence of the same mechanism may mobilize anger efficiently and reform nothing.
+
+The map has to reach the level where a rule can move.
+
+Who wrote the benefit language? Who can amend it at renewal? Which regulator has jurisdiction? What does federal law require? What clinical evidence was considered? Was the appeal internal or independent? Did the person know the deadline? How many comparable decisions were reversed? These questions sound bureaucratic because accountability is often bureaucratic after the slogan has done its work.
+
+This is why the emotional power of an individual story should be treated as an entry point rather than a conclusion. The story reveals where to look. It does not by itself tell us what we will find.
+
+The discipline matters most when the story is unbearable.
+
+A family facing illness has no obligation to become an expert in insurance architecture before describing what happened. The burden shifts when journalists, politicians, lawyers, activists, researchers, and authors generalize from the case. They have the time and institutional role to separate the patient’s experience from the mechanism that produced it.
+
+This separation protects the patient too. If a critic exaggerates the role of a particular algorithm and the company disproves the exaggeration, the underlying failure can disappear beneath the fact-check. A weak causal claim gives a strong institution an easy defense.
+
+Accuracy is therefore not politeness toward power.
+
+It is leverage.
+
+The same principle applies to the chief executive. A leader may have no knowledge of the individual case and still have responsibility for the system producing many such cases. That is a different claim and often a stronger one. The CEO’s relevant decisions are likely to concern staffing, incentives, capital allocation, vendor selection, risk tolerance, compliance, reporting, and the authority given to managers below. Those are structural decisions. They can be investigated without pretending the executive personally pressed a denial button.
+
+This is a more demanding form of accountability because it asks for evidence about governance rather than biography.
+
+How are appeals reported upward? Which metrics reach the board? Are denial reversals treated as quality information or merely administrative cost? What does executive compensation reward? What happens when a clinical team disagrees with an efficiency initiative? Does an internal control have the authority to delay deployment? A person at the top can reasonably be asked these questions because they concern the architecture of the institution rather than one unknowable transaction.
+
+They also create the possibility of a meaningful answer.
+
+A leader can change a metric. A board can require reporting. An insurer can change an appeal workflow. A regulator can change a rule. An employer can choose another plan. A legislature can alter statutory rights. These are forms of power that exist before and after the person becomes a symbol.
+
+The public reaction after Thompson’s killing showed what happens when many people no longer believe those ordinary channels are responsive. Their conclusion may be too broad. Their anger may attach to the wrong node. But an institution should still ask why so many people expect that only extraordinary attention produces an answer.
+
+That question is different from asking whether the public behaved well.
+
+It is a question about institutional latency.
+
+How long does a grievance have to sit before someone with authority encounters it?
+
+Organizations routinely measure latency in software. A slow service is visible because the dashboard shows it. Grievances have latency too. A complaint moves through intake, triage, first review, appeal, external review, legal escalation, media attention, executive escalation, and sometimes regulation. The institution may know the timing at each step and still fail to understand what the total wait feels like from outside.
+
+AI can shorten some of that latency. It can summarize files, retrieve policy, translate documents, route cases, and identify inconsistent decisions. It can also create more first-stage decisions so quickly that the human review queue expands. The same technology can reduce and increase frustration depending on which side of the workflow receives the investment.
+
+That is why the ratio between decision capacity and appeal capacity deserves attention.
+
+An institution that doubles automated decisions while leaving appeals unchanged has changed more than productivity. It has changed the relative power of the first answer.
+
+The political consequences will not appear immediately. Most people accept most decisions. The pressure accumulates among the exceptions until one event provides a focal point. Then years of stories can attach themselves to a morning that had nothing to do with most of them.
+
+This is how symbols become dangerous.
+
+They carry more grievance than one person can answer and more guilt than one person can bear.
+
+A better system does not wait for the symbol.
+
+It makes enough of its own decision chain visible that people can direct pressure toward a rule, an office, a contract, a regulator, or an appeal before anger needs a face.
+
+The point is not to protect CEOs from criticism.
+
+It is to make criticism accurate enough to change something larger than a CEO.
