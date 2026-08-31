@@ -259,3 +259,133 @@ The future of science may depend not only on generating new data, but on learnin
 We have spent centuries building the library.
 
 We are beginning to give the library ways to notice what sits beside what.
+
+## Citation Gravity
+
+Scientific literature is not evenly illuminated.
+
+Some papers become landmarks. They accumulate citations, appear in review articles, enter graduate syllabi and become the default starting points for newcomers. Other papers remain peripheral even when they contain useful observations.
+
+This inequality is not necessarily evidence of failure. Foundational work deserves to be foundational. A careful review can legitimately become a common entry point. But visibility has momentum.
+
+A paper that is already easy to find is more likely to be read.
+
+A paper that is read is more likely to be cited.
+
+A paper that is cited becomes easier for future researchers and algorithms to discover.
+
+Scientific attention has gravity.
+
+Citation-informed representations can use that gravity productively because citations encode real scholarly relationships. SPECTER's use of citation links as supervision is powerful precisely because authors reveal something through the papers they connect.
+
+The same signal can pull a discovery system toward the established center.
+
+This creates a design tension. A literature tool should understand canonical structure without making canon the boundary of relevance.
+
+One way to see the problem is through new papers. A paper published yesterday has little citation history. If citation structure dominates the representation, the new paper begins life poorly located. Textual content can provide an initial position. As citations accumulate, the map can change.
+
+This resembles the cold-start problem in recommendation systems.
+
+Scientific work also needs a provisional neighborhood before behavior arrives.
+
+The same problem affects overlooked or negative results. A paper reporting a failed replication may be scientifically valuable precisely because it contradicts the dominant story. It may receive fewer citations than the result it challenges. A system that treats scholarly popularity as a proxy for relevance can make the corrective paper harder to encounter.
+
+The machine inherits not only knowledge but the sociology of knowledge.
+
+That is not a reason to discard citation information.
+
+It is a reason to use more than one channel.
+
+Text can reveal conceptual proximity.
+
+Citation graphs can reveal explicit scholarly relation.
+
+Metadata can reveal time, venue and study type.
+
+A generative or discriminative model can compare claims.
+
+Human experts can notice that an obscure paper matters because it violates expectation rather than confirming it.
+
+The richest scientific discovery systems will therefore offer several ways to move through the same corpus.
+
+Follow the most cited path.
+
+Follow the newest path.
+
+Follow the semantically closest path.
+
+Follow papers that use a different method on the same question.
+
+Follow contradictory results.
+
+Follow work from a neighboring field that rarely cites this one.
+
+These are different routes through the same library.
+
+A vector space makes some of them cheap to construct dynamically.
+
+This is particularly valuable at disciplinary boundaries. Fields often name similar structures differently because their histories differ. A statistician, physicist, epidemiologist and computer scientist may approach related mathematical patterns through different vocabularies and citation networks. Keyword search and citation following can keep the communities separate even when an outsider would see a conceptual bridge.
+
+Semantic adjacency can provide a crosswalk.
+
+The machine does not need to know that the bridge is important in advance. It needs to notice enough structural or linguistic resemblance to place candidate work within inspection distance.
+
+The human still decides whether the analogy survives contact with method and mechanism.
+
+This distinction matters because interdisciplinary search is full of false friends. Two fields can use the same word differently. Two methods can look mathematically similar while relying on incompatible assumptions. A model can retrieve a tantalizing neighbor that collapses under expert scrutiny.
+
+That failed connection is not always wasted.
+
+It can reveal which assumption separates the fields.
+
+Discovery tools should therefore preserve the path by which a paper was surfaced. Was it near because of shared terminology? Similar methods? Citation structure? Concept extraction? A cross-domain embedding?
+
+A researcher can judge a surprising result better when the system exposes the kind of relation being proposed.
+
+The alternative is a black box that says “recommended for you,” flattening every path into one mysterious score.
+
+Scientific inquiry deserves more than consumer recommendation aesthetics.
+
+It deserves inspectable reasons for attention.
+
+This also changes how we should think about automated literature synthesis. A model can summarize a retrieved set, but the set itself embodies a sampling decision. If twenty canonical papers dominate the neighborhood, the synthesis may faithfully summarize the mainstream while omitting a minority result. If a query formulation favors one vocabulary, an entire community may remain outside the candidate pool.
+
+Before asking whether the summary is accurate, ask whether the literature sample is adequate.
+
+The evidence set is a research design.
+
+That is an old scientific lesson wearing new infrastructure.
+
+Systematic reviews make inclusion criteria explicit because selection changes conclusions. Machine-assisted literature tools need an analogous discipline. They can be more flexible than rigid manual search protocols, but flexibility increases the importance of knowing what was retrieved, excluded and deduplicated.
+
+A library that reads itself should keep a reading log.
+
+Which regions did it inspect?
+
+Which signals drove selection?
+
+Which papers were inaccessible?
+
+Which versions were used?
+
+Which retractions or corrections were noticed?
+
+Which claims were supported by one study and which by many independent lines of evidence?
+
+These questions turn vector retrieval from a convenience into a scientific instrument.
+
+The instrument does not have to be neutral in the impossible sense.
+
+It has to be auditable enough that researchers can understand its field of view.
+
+This is where machine-assisted discovery can become genuinely complementary to human scholarship. Humans are good at deep reading, mechanism, judgment and recognizing why an exception matters. Machines are good at broad relational scanning and repetitive comparison.
+
+The library can inspect more shelves than the scholar.
+
+The scholar can understand why one strange book changes the argument.
+
+The future of scientific discovery may depend on that division of labor.
+
+Not a machine replacing the reader.
+
+A machine changing which unread thing becomes worth reading next.
