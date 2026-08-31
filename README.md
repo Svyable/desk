@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **47 books · 15 complete drafts · 1 in revision · 31 drafting**
+> **48 books · 15 complete drafts · 1 in revision · 32 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -35,6 +35,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 / 21 | ~75K | A field guide to AI systems that game, deceive, flatter, reward-hack, hide capabilities, notice evaluations, or learn to look aligned. | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 / 12 | ~12K | Small useful acts compound into reputation, access, opportunity, trust, and eventually greater freedom to choose what you work on. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | 18 / 18 | ~68K | When model weights become cheap to copy, value and power migrate to chips, clouds, hubs, runtimes, licenses, private data, maintenance, and credible exit. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
+| [**Orbital**](books/orbital/) | ✍️ Drafting | Prologue + 4 complete + 1 stub / 21 planned | ~7K | How procurement reform, reusable launch, production cadence, and constellations turned low Earth orbit into privately operated infrastructure with public consequences. | [Read →](https://svyable.github.io/desk/reader/#/b/orbital/) |
 | [**Predictable**](books/predictable/) | ✍️ Drafting | 12 / 12 | ~45K | Transformative technology can be real while its capital and pricing cycle destroys fortunes; prediction markets become a lens on what people actually believe. | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 / 29 | ~100K | When synthetic abundance makes convincing content cheap, provenance, personhood, verification, and costly authenticity become scarce economic goods. | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 / 23 | ~80K | AI lowers the cost of automated authority, synthetic persuasion, and organizing while making accountability, evidence, appeal, compensation, and legitimate public pressure more important. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
