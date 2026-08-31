@@ -213,3 +213,113 @@ The next indexed them.
 The vector turn learns where to place them in relation to one another.
 
 And once things have neighbors, discovery becomes a journey through the space between what you already know and what sits just close enough to change it.
+
+## The Cost of Naming
+
+There is another way to see the change. For most of recorded history, discoverability depended on somebody doing the work of naming first.
+
+A specimen entered a museum and had to be identified. A book entered a library and had to be classified. A patent entered an office and had to be placed within a technical scheme. A physician encountered a cluster of symptoms and, if the pattern became stable enough, medicine eventually gave it a diagnostic name. Names are among civilization's most powerful compression devices because a good name lets many observations travel together.
+
+Naming also creates a gate.
+
+If you know the name, an archive opens. If you do not, the same archive can remain invisible.
+
+Ask anyone who has tried to identify a mechanical part without knowing what the part is called. You can hold the object in your hand and still be unable to find it. The knowledge problem is not absence of evidence. The problem is that the object and the catalog do not share a key.
+
+A skilled clerk, librarian, mechanic or researcher traditionally solved this translation problem. You described what you had badly. The expert moved through a private chain of equivalences.
+
+“It is the little rubber ring that seals the connection.”
+
+An O-ring?
+
+“No, flatter.”
+
+A gasket?
+
+“It sits inside the fitting.”
+
+A washer? A seal? Which fitting?
+
+The expert progressively moves the problem into the vocabulary of the system. Expertise includes knowledge of names, but also knowledge of how novice descriptions map onto them.
+
+Search engines automated part of this translation. Spelling correction, synonyms, query expansion, links and large-scale behavioral data made literal text search far more forgiving than a card catalog. Yet the interaction still often rewarded the person who could produce the right terms.
+
+The vector turn reduces the naming tax one layer further.
+
+Instead of insisting that the object and the query share a label, a learned representation can ask whether their patterns resemble one another enough to deserve comparison. A photograph can search for a product without naming the product. A paragraph can search for a paper without knowing the field's canonical phrase. A customer can describe a use case in ordinary language and retrieve documentation written by an engineer.
+
+This sounds like convenience. Across institutions it becomes access.
+
+Jargon is a necessary technology. Experts need precise vocabulary because important distinctions deserve names. The distinction between a correlation and a causal effect is not bureaucratic decoration. Neither is the distinction between a virus and a bacterium, revenue and cash flow, authentication and authorization, an appeal and a rehearing. Precision lets specialists coordinate.
+
+But every specialized vocabulary creates an entry cost for outsiders.
+
+A patient knows what hurts before knowing what the condition is called. A junior engineer can recognize a failure pattern before knowing the internal acronym attached to it. A small supplier may describe a capability in language different from a large buyer's procurement taxonomy. An interdisciplinary researcher may understand the structure of a problem while lacking the neighboring field's keywords.
+
+Semantic retrieval can lower that entry cost without making the vocabulary itself obsolete.
+
+The expert terminology still matters when the candidate reaches attention. The machine merely helps the candidate get there.
+
+This is why vector discovery is best understood as a widening of the first doorway, not the abolition of the rooms behind it.
+
+Once you find the legal opinion, you still need doctrine. Once you find the scientific paper, you still need method. Once you find the molecule, you still need chemistry. Once you find the expert, you still need to know whether the expert is right.
+
+The representation helps with encounter.
+
+Encounter is not adjudication.
+
+That boundary is easy to lose in interfaces designed to feel effortless. A semantic search box can make a difficult act of translation look instantaneous. The user writes one vague sentence and receives a crisp result. The experience encourages a story in which the machine understood the request and found the answer.
+
+Sometimes it did something more modest and more mechanical: it placed the request in a neighborhood that contained useful candidates.
+
+That modesty matters because neighborhoods can be wrong in systematic ways. A model trained heavily on standard professional English may translate an expert's phrasing better than a regional dialect. A product embedding may understand the vocabulary of well-described catalog items better than the long tail with sparse metadata. A scientific representation may be sharp in a dense research area and vague at the frontier.
+
+Removing one naming barrier can expose another representational barrier.
+
+The correct question is therefore not whether vector systems eliminate the need to know the right words.
+
+It is whose imperfect words they can successfully carry across the gap.
+
+That question becomes testable. Take the same need and phrase it as an expert, a novice, a non-native speaker, a customer, a technician and a regulator. Does the same useful neighborhood appear? Describe the same object with text, an image and an example. Does the system converge on compatible candidates? Remove the canonical jargon from the query. Does recall collapse?
+
+A discovery system earns its promise by tolerating the user's starting point.
+
+This is more important than it may appear because discovery usually begins before articulation is complete.
+
+The first sensation is often not “I need information about X.”
+
+It is “this reminds me of something.”
+
+“This feels wrong.”
+
+“I have seen a pattern like this before.”
+
+“There ought to be a material that does both.”
+
+“This photograph has the atmosphere I want.”
+
+“This customer problem sounds like an incident from years ago.”
+
+These are low-resolution queries. Human experts turn them into higher-resolution questions through conversation, memory and analogy. Vector systems make some of that low-resolution material computationally addressable.
+
+That changes the beginning of the search process.
+
+Previously, uncertainty about the name often forced a person to browse a taxonomy, ask an expert or abandon the search. Now a system can return a provisional neighborhood. The user inspects it. One result supplies better vocabulary. The better vocabulary produces a narrower query. A new result reveals an exception. The user adds a constraint. Search becomes a dialogue between representation and refinement.
+
+The first retrieval does not have to be right enough to end the search.
+
+It has to be useful enough to improve the next question.
+
+This is a more realistic theory of discovery than the perfect answer box.
+
+Discovery is usually recursive.
+
+You find something that teaches you what to look for next.
+
+A vector neighborhood is valuable because it can produce that first informative neighbor when the destination is still unnamed.
+
+And that is why the neighbor you did not ask for matters.
+
+The system is not merely answering a query.
+
+At its best, it is helping you acquire the language for the query you were not yet able to make.
