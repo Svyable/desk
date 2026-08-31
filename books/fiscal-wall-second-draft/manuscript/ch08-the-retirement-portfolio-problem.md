@@ -261,3 +261,81 @@ Retirement is duration made personal.
 The fiscal wall is duration made national.
 
 Both become expensive when adjustment is left to the last years of the promise.
+
+## The Retirement Clock and the Treasury Clock
+
+The most important connection between retirement finance and federal refinancing is that both run on schedules policymakers can see years in advance.
+
+A pension actuary does not wake up surprised that a forty-five-year-old employee eventually becomes seventy.
+
+Treasury does not wake up surprised that a ten-year note issued a decade earlier has matured.
+
+Social Security trustees do not discover demographic aging on the morning reserves approach depletion.
+
+The data move. Forecasts change. Dates shift.
+
+The existence of the clock is not a surprise.
+
+This distinguishes slow fiscal pressure from an earthquake or pandemic. The timing may be uncertain, but the direction is observable early enough to phase adjustment.
+
+That makes delay harder to defend.
+
+The 2026 Social Security Trustees projections, for example, placed OASI reserve depletion in the early 2030s under intermediate assumptions. Congress does not know the exact economic conditions of that quarter years in advance. It does know that waiting compresses the menu.
+
+If legislation occurs early, policymakers can combine small changes across cohorts, revenue sources, benefit formulas, and implementation dates.
+
+If legislation occurs at the edge of reserve exhaustion, the same actuarial gap must be closed with larger near-term changes or temporary financing measures.
+
+Duration is not only a risk.
+
+It is planning space.
+
+The Treasury maturity ladder provides the same kind of space. A large stock of fixed-rate debt means higher market yields do not reprice the federal budget in one day. That protection is valuable precisely because it gives fiscal policy time to respond.
+
+Using the delay merely to postpone response wastes the insurance value of duration.
+
+This is the deeper reason the two clocks belong together.
+
+Retirement reform and debt management are both exercises in distributing adjustment through time before time distributes it for you.
+
+The principle can guide policy design.
+
+Protect people with the least ability to adjust quickly.
+
+Give younger workers and future beneficiaries more notice.
+
+Avoid sudden changes that force asset sales, abrupt retirement decisions, or destabilizing consumption cuts.
+
+Preserve the incentive to work and save.
+
+Do not assume every year of additional life expectancy translates equally into additional healthy working years across occupations and income groups.
+
+Do not pretend that higher taxes have no behavioral effects or that benefit cuts have no demand effects.
+
+A durable solution is an actuarial solution that can survive politics.
+
+The same realism should apply to private retirement systems. Higher safe yields are a gift only if institutions resist using the improvement to promise even more. A pension whose funded status improves because long bonds yield more can strengthen its balance sheet rather than immediately increase risk elsewhere. A household earning real income on cash can rebuild reserves rather than chase the next speculative cycle.
+
+The post-zero world can restore patience if savers use it.
+
+That is the constructive side of the fiscal wall rarely captured in crisis stories.
+
+The federal government pays more interest.
+
+The private sector receives a safer return.
+
+If that return supports retirement saving, reduces leverage, and improves liability matching, some of the macroeconomic burden is offset by a more resilient financial system.
+
+The transfer is not free. It still has distributional and fiscal consequences.
+
+But it reminds us that the goal is not to minimize Treasury's coupon at all costs.
+
+The goal is to make the entire intergenerational balance sheet work.
+
+That balance sheet includes benefits, taxes, private assets, public debt, health, productivity, housing, and time.
+
+No single line can solve it.
+
+The best retirement policy and the best fiscal policy share one characteristic.
+
+They make fewer promises that depend on the future being unusually kind.
