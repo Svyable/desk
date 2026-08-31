@@ -10,6 +10,20 @@ The steam engine then converted that stored energy into mechanical work.
 
 Early engines were inefficient. They were valuable anyway where the alternative was worse. In British mines, pumping water was a binding constraint. An engine could burn coal near the mine to keep the mine operating, even if it consumed fuel profligately. This is an important pattern in technological history: a new technology does not need to be universally superior. It needs to be useful enough in a niche where its weaknesses matter less than its particular advantage.
 
+The Newcomen engine is almost a caricature of this principle.
+
+The first practical atmospheric engines of the early eighteenth century consumed fuel at a rate that would have made them unattractive in many settings. But coal mines supplied exactly the environment in which the weakness could be tolerated. Fuel was nearby and the task—lifting water so miners could reach deeper seams—had high value. The machine did not need to beat every competing power source. It needed to solve the mine's specific constraint at a price the mine could bear.
+
+Then James Watt changed the arithmetic.
+
+Watt's separate condenser attacked a central source of waste in the Newcomen design. Instead of repeatedly heating and cooling the working cylinder during every cycle, steam could be condensed in a separate vessel kept cool while the cylinder remained hot. The Science Museum describes the resulting improvement as reducing coal consumption by roughly two-thirds relative to older engines. The exact performance of particular machines varied, but the economic direction is what matters here: the same basic service could be obtained with dramatically less fuel.
+
+That improvement changed the addressable market for steam.
+
+An engine that makes sense only beside cheap coal is one kind of technology. An engine efficient enough to justify its fuel cost in mills, workshops and factories is another. Watt did not merely save coal inside the old niche. He widened the set of places where controllable mechanical power could earn its keep.
+
+Efficiency expanded the frontier.
+
 Improvement changes the niche.
 
 As steam engines became more efficient, reliable and adaptable, they escaped the mine. Power could be applied to manufacturing and transport. Railways reduced the cost of moving people, goods and fuel. Steamships became less dependent on wind. Factories could organize around controllable mechanical power. Coal regions became nodes in an expanding industrial system.
@@ -27,6 +41,20 @@ The broad mechanism is straightforward.
 Suppose a machine produces twice as much useful work from a ton of fuel. If society wants exactly the same amount of work as before, fuel use can fall roughly in proportion to the efficiency gain. But the cost of useful work has also declined. Cheaper work may make previously marginal activities economical. Producers may expand output. Consumers may use more of the service. New industries may appear. Income saved in one place may be spent on other energy-using activities. At the level of an entire economy, technology can change structure enough that the original before-and-after comparison becomes misleading.
 
 Efficiency is not a thermostat controlling total demand.
+
+Modern research is useful here because it prevents Jevons from becoming a magic incantation.
+
+There is no single rebound number. Direct rebound for a household heating service is not the same phenomenon as economy-wide rebound from a general productivity improvement. Definitions differ. Time horizons differ. Prices and income adjust. New products appear. Empirical estimates range widely depending on the service and the method.
+
+That uncertainty does not make rebound irrelevant. It makes the boundary of the claim important.
+
+A 2021 review of economy-wide evidence found that many studies imply large rebound effects and argued that models which ignore those mechanisms can overstate the energy savings delivered by efficiency alone. Other reviews have emphasized that evidence for full “backfire”—where total energy use rises by more than the technical savings—is far from universal. Some recent econometric work for industrialized economies has estimated very large economy-wide rebound over a period of years, while earlier micro-level studies often found much smaller effects for specific household services.
+
+The responsible conclusion is therefore more interesting than the slogan.
+
+Efficiency reliably changes the effective price of an energy service. What happens to total energy demand depends on how people, firms and the rest of the economy respond.
+
+That is exactly the kind of response an intelligence-rich economy will accelerate.
 
 This matters well beyond coal. More efficient aircraft help make air travel cheaper, which can increase flying. More efficient lighting lowers the cost of illumination, which encourages more illumination. More efficient computing lowers the cost of computation and creates applications that were impractical before. More efficient AI accelerators lower the cost of training and inference while making larger models, more queries and more autonomous agents economically possible.
 
@@ -49,6 +77,18 @@ Investors therefore faced a difficult problem. The technology could be genuinely
 This distinction is one of the most important in the entire history of technology.
 
 Railway booms built useful infrastructure and destroyed capital. Telecom booms laid fiber that later carried enormous traffic and bankrupted firms. Internet companies demonstrated real new forms of commerce while investors paid absurd prices for many businesses. Solar manufacturing became strategically and environmentally important while repeated waves of producers suffered brutal competition. A technology can create social value while the suppliers of capital capture little or lose money.
+
+The railway case adds another subtlety: overbuilding can be socially useful after it is financially disastrous.
+
+Promoters can raise capital on forecasts that prove too optimistic. Multiple lines can chase the same traffic. Land speculation can inflate projected value. Competitive construction can create more capacity than current demand will support. When revenues disappoint, companies fail or restructure.
+
+But the steel does not vanish with the equity.
+
+Tracks, stations, rights of way and engineering knowledge can continue serving traffic under new ownership and lower capital costs. A financial bust can therefore leave behind a physical platform on which later growth occurs. The original investors may have been wrong about returns and right about the direction of civilization.
+
+This is a dangerous thought if used carelessly because it can rationalize any bubble after the fact. Most bad investments do not become public gifts. The useful point is narrower: the social value of infrastructure and the private return to the first financing round are different ledgers.
+
+That distinction matters whenever a technology race produces durable assets faster than its business model matures.
 
 Energy, intelligence and value diverge again.
 
