@@ -191,3 +191,87 @@ The institution that once controlled the complaint channel no longer controls th
 That is an extraordinary transfer of power.
 
 It is also the beginning of a new problem: when everyone can assemble a crowd, the crowd itself has to learn how to prove what happened.
+
+The mechanics of a modern pressure campaign are worth following more slowly because they explain why some controversies vanish and others become durable. The first stage is usually discovery. One person publishes an experience. The important fact may not be that the post reaches millions. It may be that ten people with the same obscure problem find one another.
+
+Similarity creates a hypothesis.
+
+The second stage is collection. People compare dates, screenshots, letters, account statuses, model outputs, contracts, or bills. A pattern can emerge. At this point a campaign faces its first serious epistemic test: are these actually the same problem? People are very good at grouping events that feel similar. Institutions are very good at pointing to the differences. Both tendencies can be correct.
+
+The third stage is translation. Somebody who understands the system gives the pattern a name that connects it to an institutional mechanism. A lawyer identifies a statutory right. A worker identifies a performance metric. A doctor identifies a utilization rule. A security researcher identifies a software behavior. A journalist identifies a procurement contract. The complaint becomes more legible because the campaign has found the seam where public experience meets institutional architecture.
+
+The fourth stage is leverage.
+
+A regulator can investigate. A union can bargain. A customer can leave. Investors can ask questions. A politician can hold a hearing. A court can issue an order. A company can change a product voluntarily. Without this stage, evidence can circulate indefinitely while the underlying system continues.
+
+The fifth stage is memory.
+
+This is the stage movements often neglect. What changed? Was the change temporary? Did a new policy survive the news cycle? Did the company quietly reverse it six months later? Did the regulator publish compliance information? Did the contract create a repeatable remedy?
+
+A movement that cannot remember reform cannot distinguish success from fatigue.
+
+AI can lower the cost at every stage. It can help cluster complaints, extract common terms, translate technical documents, find relevant regulations, and track commitments. This is potentially a major redistribution of institutional literacy. People who once needed professional researchers can arrive at a meeting with a reasonably organized file.
+
+The risk is that the same tools can produce false coherence. A model asked to identify common themes will identify common themes whether or not the underlying cases truly belong together. It can summarize a disputed allegation in declarative language. It can omit the inconvenient exception. It can transform five anecdotes into a confident theory because synthesis is what the user requested.
+
+Campaigns need the equivalent of a model card for their own claims.
+
+What evidence is included?
+
+What evidence is missing?
+
+What would contradict the pattern?
+
+Which cases were excluded and why?
+
+Which claims are direct observations and which are inferences?
+
+No social movement will produce such a document for every grievance. The habit matters more than the format.
+
+The same discipline helps institutions respond better. A company receiving coordinated complaints should not begin by asking whether a campaign is “organic.” That question is relevant if manipulation is suspected, but it can become a convenient distraction. The first question should be whether the underlying evidence identifies a repeatable failure.
+
+A legitimate complaint does not become illegitimate because an advocacy organization amplified it.
+
+A false complaint does not become true because ten thousand real people repeated it.
+
+Origin and accuracy are different properties.
+
+This will become harder as AI-assisted participation spreads. A person may use a model to draft a letter because writing is difficult, English is a second language, or a government form is intimidating. That letter is still the person’s complaint. Another person may generate five thousand letters from one account to create the appearance of five thousand complainants. The text can be equally polished.
+
+Institutions need signals tied to participation rather than authorship.
+
+A public-comment system might verify that unique residents or affected parties submitted comments while allowing them to use any writing assistance they want. A customer review platform might verify transactions rather than linguistic style. A regulator might weight detailed evidence differently from sheer volume while still reporting how many people expressed concern.
+
+The goal is not to preserve handwriting as proof of democracy.
+
+It is to preserve the relationship between voice and constituency.
+
+This has consequences for companies that use AI to answer public pressure. An organization can now generate individualized responses at massive scale. That sounds like better service. It can also create synthetic listening: every customer receives a personalized paragraph while nobody with authority sees the pattern.
+
+The response becomes warmer as the institution becomes less responsive.
+
+That would be a particularly perverse outcome of generative AI.
+
+The technology can create the feeling of a human hearing the complaint while routing the complaint away from human attention.
+
+Companies should design the opposite. Use AI to handle language and repetition, then aggregate recurring substantive issues upward. The system should make patterns more visible to people with authority rather than making each complainant feel individually contained.
+
+The metric should not be how many messages were answered.
+
+It should be how many recurring failures were resolved.
+
+This is what separates customer service from institutional learning.
+
+A crowd is often treated as a threat because it is unpredictable. The better view is that a crowd is expensive telemetry. The institution can complain about the noise, or it can improve the sensor.
+
+Some complaints will still be wrong.
+
+Some campaigns will still be manipulative.
+
+Some demands should still be refused.
+
+But the company that builds a real route from complaint to correction reduces the incentive for every future customer to recruit an audience first.
+
+The customer becomes a crowd when the crowd is the only channel that appears to listen.
+
+The mature institution makes the crowd less necessary by proving that one person can still reach someone with authority.
