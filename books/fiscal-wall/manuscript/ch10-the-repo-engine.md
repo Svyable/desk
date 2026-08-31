@@ -299,3 +299,177 @@ The fiscal wall will not be understood by watching auction totals alone.
 Listen to repo.
 
 The short-term funding market often hears strain before the budget does.
+
+A haircut shows why repo stress can accelerate so quickly.
+
+Suppose a fund owns $100 million of Treasuries and finances the position with repo at a two-percent haircut. The fund contributes $2 million of its own financing and borrows roughly $98 million against the collateral, simplifying the mechanics.
+
+Now imagine volatility rises and lenders require a four-percent haircut instead.
+
+The Treasury has not defaulted.
+
+The fund's economic view of interest rates may not have changed.
+
+Yet the position suddenly requires about $2 million more cash to maintain.
+
+If the fund holds ten similar positions, the additional liquidity need scales. If many funds run the same strategy, the system's demand for cash can jump at once.
+
+Add variation margin on the futures side and the timing becomes even harsher.
+
+This is how a small change in financing terms can force a large change in positions.
+
+Leverage converts percentages into deadlines.
+
+The holder may believe the spread will converge eventually and still be unable to wait for eventually.
+
+This is the central danger of financing a safe long-lived asset with short renewable credit. The risk is not only whether the asset pays. It is whether the lender renews on the same terms tomorrow.
+
+Repo therefore creates a second maturity structure underneath Treasury's official maturity structure.
+
+Treasury may have issued a ten-year note.
+
+The hedge fund may finance it overnight.
+
+Economically, the government has ten years of funding while the private holder has one day.
+
+The same security lives on two clocks.
+
+That mismatch can be productive. Cheap overnight financing supports liquidity and relative-value trading. It can help align cash and futures prices. Dealers can finance inventory while distributing auctions. The market becomes deeper because capital can be recycled.
+
+It can also become fragile if too much of the apparent Treasury demand rests on financing that is shorter than the asset being held.
+
+This is why gross hedge-fund Treasury exposure matters even when the funds are hedged against directional rate moves. Federal Reserve research in 2026 estimated very large exposures among large hedge funds, substantial repo borrowing, and a significant basis-trade component, while emphasizing data limitations. The numbers should not be treated as a countdown to a crash.
+
+They identify a funding channel worth watching.
+
+The important variable is not leverage in isolation.
+
+It is leverage times correlation times liquidity need.
+
+One fund can unwind quietly.
+
+Many funds with similar positions, financed by similar dealers, facing similar margin models, can create a feedback loop.
+
+Prices move.
+
+Margins rise.
+
+Positions shrink.
+
+Dealers receive inventory.
+
+Repo lenders become cautious.
+
+Prices move again.
+
+This is a market dynamic rather than a credit event.
+
+The loop can be broken in several ways.
+
+End investors can step in because yields have become attractive.
+
+Dealers can warehouse more risk.
+
+Clearing and netting can reduce gross exposures.
+
+The Federal Reserve can supply liquidity against good collateral.
+
+Volatility can simply subside.
+
+The strongest system has multiple brakes rather than one rescue mechanism.
+
+Cash providers matter as much as borrowers in this story.
+
+Money-market funds, securities lenders, banks, corporations, and other institutions provide repo cash for different reasons. Some want a safe short return. Some receive securities as part of another business and reinvest cash. Some have regulatory or operational constraints. Their willingness to lend can change with the relative return on Treasury bills, Federal Reserve facilities, deposits, and private repo.
+
+This creates competition between owning the collateral and lending against it.
+
+A money fund holding cash can buy a Treasury bill directly.
+
+It can lend the cash in repo secured by Treasuries.
+
+It may have access to an overnight Federal Reserve facility, depending on the institution and framework.
+
+The relative rates determine which path is attractive.
+
+When Treasury increases bill supply, some cash can migrate from repo into bills. When bills become scarce or repo rates rise, cash can move the other way.
+
+The short-term market is an ecosystem of substitutes.
+
+This is why bill issuance can alter repo conditions even though both instruments are backed, directly or indirectly, by the same sovereign collateral.
+
+More bills can absorb money-fund cash that might otherwise finance dealers or hedge funds.
+
+More Treasury collateral can simultaneously create additional repo borrowing demand.
+
+The direction depends on relative prices and quantities.
+
+There is no mechanical rule that more Treasury issuance always tightens or always eases repo.
+
+The interaction is a balance-sheet problem.
+
+Treasury cash management adds another moving part.
+
+When the Treasury General Account is rebuilt after a debt-limit episode, the government can issue a surge of bills. If money funds fund the purchases by moving cash out of a Federal Reserve overnight facility, bank reserves may be less affected than if the money comes directly from deposits. If the facility balance is small, a similar bill surge can drain more reserves.
+
+The same issuance amount can therefore have different money-market effects depending on the starting composition of liquidity.
+
+This is why policymakers cannot manage the ample-reserves framework from one aggregate threshold copied from the previous cycle.
+
+The system changes.
+
+Banks become larger.
+
+Payment volumes grow.
+
+Treasury supply grows.
+
+Money-fund assets change.
+
+Regulation changes internal liquidity preferences.
+
+The appropriate reserve level is endogenous to the financial structure.
+
+The standing repo facility was created partly because policymakers learned that aggregate reserves can look abundant until the price reveals scarcity at the margin. A facility with a known rate gives eligible firms an alternative to paying almost any private rate for cash.
+
+But access matters.
+
+A hedge fund cannot necessarily take a Treasury directly to the central bank. It may depend on a dealer that can. If the dealer itself is constrained by balance sheet or cautious about expanding client exposure, the facility's benefit must travel through the intermediary chain.
+
+The pressure valve is connected to the engine by pipes of its own.
+
+Central clearing can change those pipes.
+
+If more repo is centrally cleared, a dealer may be able to net borrowing and lending more efficiently. That can reduce the balance-sheet footprint of matched intermediation and make it easier to connect cash lenders with Treasury holders.
+
+At the same time, a central counterparty can increase the discipline of daily margining. Exposures that were once managed through bespoke bilateral arrangements become subject to standardized risk controls. In calm times this can feel more efficient. In stress it can make liquidity demands more immediate and transparent.
+
+The system exchanges hidden bilateral fragility for visible centralized discipline.
+
+That is usually a good trade if participants prepare for the cash requirements.
+
+The risk is treating netting benefits as though they eliminate the need for liquidity buffers.
+
+They do not.
+
+A centrally cleared market can still suffer if many members need cash at once.
+
+This is why the transition through 2026 and 2027 matters to the fiscal wall even though it appears on a regulatory calendar rather than a budget calendar.
+
+The United States is asking the Treasury market to do two things simultaneously.
+
+Process more sovereign collateral.
+
+Change how much of that collateral is financed and netted.
+
+Success could materially increase the market's effective capacity.
+
+Failure would probably appear first in repo spreads, margin, settlement, or dealer behavior rather than in a Treasury default probability.
+
+The funding market would speak before the credit market.
+
+That is the reason to listen.
+
+A fiscal wall does not have to be a moment when nobody wants government debt.
+
+It can be a moment when too many people want to own it with borrowed money and discover that the borrowing has a shorter clock than the bond.
