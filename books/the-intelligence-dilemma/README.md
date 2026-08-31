@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 18 of 20 drafted |
+| **Chapters**  | 19 of 20 drafted |
 
 ## Contents
 
@@ -29,12 +29,12 @@
 - [x] [Ch 16 — Curriculum After Answers](manuscript/ch16-curriculum-after-answers.md)
 - [x] [Ch 17 — The Apprenticeship Classroom](manuscript/ch17-the-apprenticeship-classroom.md)
 - [x] [Ch 18 — What Must Stay Human](manuscript/ch18-what-must-stay-human.md)
+- [x] [Ch 19 — The School That Knows Why](manuscript/ch19-the-school-that-knows-why.md)
 
 ## Planned chapters
 
 ### Part IV — School After Answers Become Cheap
 
-19. The School That Knows Why
 20. The Intelligence Dilemma
 
 ## Research
@@ -58,3 +58,4 @@
 - [Ch 16 research trail](research/ch16-curriculum-after-answers.md)
 - [Ch 17 research trail](research/ch17-the-apprenticeship-classroom.md)
 - [Ch 18 research trail](research/ch18-what-must-stay-human.md)
+- [Ch 19 research trail](research/ch19-the-school-that-knows-why.md)
