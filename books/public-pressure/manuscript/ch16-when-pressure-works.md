@@ -323,3 +323,145 @@ A refund because the company’s bot spoke for the company.
 Small mechanisms can govern large technologies.
 
 That is what pressure looks like when it works.
+
+The final test is maintenance.
+
+Reform has a half-life.
+
+The people who negotiated the clause leave. A company reorganizes. A regulator changes leadership. A vendor replaces a product. The crisis that made everyone attentive becomes a paragraph in an annual report. The control remains on paper while the incentives that produced the original problem slowly return.
+
+Successful pressure therefore needs an owner after victory.
+
+Who checks the rule next year?
+
+Who pays for the audit?
+
+Who receives the report?
+
+Who can reopen the issue if the metric worsens?
+
+When does the commitment expire?
+
+Which part survives a merger, acquisition, model migration, or change in political administration?
+
+These are maintenance questions, and movements are often structurally weak at answering them because mobilization rewards novelty.
+
+A campaign attracts energy by saying something must change now.
+
+Governance requires somebody to say the same thing in a quieter room three years later.
+
+The most durable reforms therefore create maintenance institutions rather than merely victory statements.
+
+A union creates stewards and grievance procedures.
+
+A regulator creates examinations, reporting cycles, and enforcement staff.
+
+A court order can create continuing obligations.
+
+A company can put a metric into board reporting or internal audit.
+
+A standard can create periodic certification.
+
+A procurement contract can make compliance a renewal condition.
+
+The mechanism survives because somebody has a job that depends on remembering it.
+
+This suggests a useful concept for public pressure: the conversion ratio.
+
+How much of the attention became a durable change in default behavior?
+
+A million angry posts that produce one temporary exception have a low conversion ratio.
+
+A smaller campaign that produces a rule applied to every future case may have a high one.
+
+The ratio cannot be reduced to a number because the value of reforms differs enormously. The concept is useful because it asks activists and institutions to distinguish energy from yield.
+
+Where did the pressure go?
+
+Into a person’s resignation?
+
+A new policy?
+
+A budget?
+
+A technical control?
+
+A legally enforceable right?
+
+A practice that can be audited?
+
+A change that expired after the news cycle?
+
+This is the accounting system movements rarely keep.
+
+They should.
+
+The institution should keep it too because the same record can reveal which public complaints predicted real operational problems and which did not. Over time, the organization can improve how it listens.
+
+Another test is displacement.
+
+A pressure campaign can succeed locally while moving the underlying harm elsewhere.
+
+A platform bans a category of synthetic impersonation and the scammers move to encrypted messaging.
+
+A jurisdiction imposes strict rules and the risky service moves offshore.
+
+A company eliminates one automated screening tool and managers reproduce the same bias informally.
+
+A labor contract protects one bargaining unit while contractors absorb the displaced work.
+
+A model provider closes access to one misuse while open systems remain available.
+
+The local rule may still be worthwhile.
+
+Victory should include checking the next channel.
+
+This is why mature reform requires system boundaries broad enough to detect substitution without becoming so broad that every adjacent problem is claimed as the same campaign.
+
+Specificity remains the discipline.
+
+The goal was not “end bad things involving AI.”
+
+The goal was to change a defined mechanism.
+
+Did the mechanism change?
+
+Did the harm fall?
+
+What substituted for it?
+
+What new cost appeared?
+
+These questions create something movements rarely articulate clearly: an exit condition.
+
+What would count as enough?
+
+A company cannot respond to criticism if no possible action can close the claim. A regulator cannot administer a rule if compliance never changes the moral status of the regulated actor. A movement cannot learn if every partial success is automatically redefined as failure because the larger world remains imperfect.
+
+An exit condition does not mean permanent approval.
+
+It means specifying what resolution looks like for this dispute.
+
+The denied patient receives timely review and the systemic error is corrected.
+
+The performer receives the contractual protection that was demanded.
+
+The deceptive robocall is punished and carriers adopt the required controls.
+
+The hiring system is audited, the identified flaw is fixed, and outcomes are monitored.
+
+The campaign can then move from escalation to watchfulness.
+
+This is not surrender.
+
+It is institutional confidence.
+
+The crowd proved it could create pressure.
+
+The institution proved it could convert pressure into a durable rule.
+
+Both should be capable of recognizing when that conversion occurred.
+
+Otherwise backlash becomes a permanent identity rather than a tool.
+
+Public pressure works when it can stop shouting without losing the change it won.
