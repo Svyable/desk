@@ -255,3 +255,97 @@ Not that Washington is like a household.
 That it has far more ways than a household to avoid an immediate reckoning.
 
 The fiscal wall is what accumulates while those ways are used.
+
+## The Sovereign Advantage Is Also a Temptation
+
+The differences between a household and a sovereign do more than protect Washington.
+
+They change behavior.
+
+A household that continuously spends more than it earns eventually encounters a lender, a credit limit, or a cash balance that forces adjustment. The constraint is immediate enough to be visible. A federal government with deep capital markets can refinance for decades. A reserve-currency sovereign can find buyers during periods that would terrify an ordinary borrower. A central bank can stabilize funding markets. Tax law can be changed. Nominal GDP can grow around old debt.
+
+Those are extraordinary advantages.
+
+They reduce the chance of a sudden stop.
+
+They also reduce the frequency with which politics receives a clear external signal to change course.
+
+That is why fiscal debates often become arguments about whether constraint exists at all.
+
+One side points to every successful Treasury auction and says the market has rendered its verdict: investors are willing to lend.
+
+The other points to the debt stock and says default must be near.
+
+Both use the wrong threshold.
+
+The important signal is the marginal price and what that price does to future choices.
+
+A country can be fully financeable at a rate that gradually changes its politics.
+
+This is easier to see by separating three forms of capacity.
+
+**Monetary capacity** is the ability to make nominal dollar payments. The United States has enormous monetary capacity because its debt is denominated in a currency issued within its own monetary system.
+
+**Market capacity** is the ability of private and official investors, dealers, repo markets, clearing systems, and balance sheets to absorb Treasury securities at orderly prices. That capacity is also enormous, but it is not infinitely elastic at one yield.
+
+**Fiscal capacity** is the ability to carry the resulting interest and primary spending commitments while retaining room for future priorities and shocks.
+
+These capacities can diverge.
+
+The government may have no difficulty creating dollars and no difficulty selling securities while its fiscal flexibility deteriorates.
+
+That is the environment in which the wall can be misunderstood for years.
+
+Consider an economy hit by recession.
+
+Tax receipts fall. Unemployment insurance and other automatic stabilizers increase spending. Congress may enact emergency relief. The deficit expands. At the same time, the Federal Reserve may cut rates and investors may seek Treasuries as safe assets. Federal borrowing rises precisely when the marginal cost of borrowing falls.
+
+This is one of the great strengths of the U.S. fiscal system.
+
+It allows the government to act countercyclically rather than cut spending into a collapse.
+
+Now consider a normal expansion with low unemployment and no comparable emergency. If deficits remain very large, the government is using some of the same borrowing capacity before the shock.
+
+The distinction between cyclical and structural borrowing is therefore not moral language.
+
+It is preparedness language.
+
+A fire department should use water when the building burns.
+
+The concern begins when the reservoir is being drained on sunny days.
+
+The same logic applies to maturity.
+
+A Treasury that issues bills because bill demand is deep and cash needs are temporary is using short-term financing as a tool.
+
+A Treasury that becomes structurally dependent on bills because political leaders cannot tolerate long-term market yields is doing something different. It is converting a fiscal problem into a rate-reset problem.
+
+The instrument can be identical.
+
+The motive and persistence change the risk.
+
+This is why a serious book about federal debt must refuse both household panic and sovereign exceptionalism.
+
+The United States is not a family.
+
+It is more powerful than a family in almost every relevant financing dimension.
+
+That power does not erase tradeoffs.
+
+It changes where the tradeoffs appear.
+
+Instead of a foreclosure notice, the signal can be a larger share of revenue devoted to interest.
+
+Instead of a rejected loan application, it can be a higher term premium.
+
+Instead of a bank demanding immediate repayment, it can be a bond market that clears only after mortgages, corporate credit, and municipal finance have repriced upward with it.
+
+Instead of insolvency, the country can experience crowding of choices.
+
+That is a less dramatic failure mode.
+
+For a rich reserve-currency country, it may be the more realistic one.
+
+Washington does not have a mortgage.
+
+It has something both safer and more dangerous: a financing system strong enough to postpone the moment when arithmetic becomes politics.
