@@ -106,6 +106,18 @@ Software engineers often encounter bizarre-looking compatibility rules and assum
 
 A mature standard carries obligations to the past.
 
+Unicode makes this promise unusually explicit. Its stability policy says that once a character is encoded it will not be moved or removed. A future version can add characters, deprecate old ones and revise some properties within defined constraints, but it cannot casually take a code point that meant one thing in stored text and assign it to something else.
+
+This sounds like technical housekeeping until you consider the alternative.
+
+A birth record, legal filing, database key or archived message might be read years later by software that never existed when the text was written. The old file has no representative at the standards meeting. Stability policy represents it.
+
+Infrastructure has silent stakeholders.
+
+Past data cannot lobby.
+
+That is one reason compatibility commitments need to be stated before the pressure to break them arrives.
+
 This can be admirable and dangerous.
 
 Preserving data is valuable. Preserving insecure behavior can be harmful. The governance problem is deciding which promises are identity-preserving and which must eventually be broken.
@@ -205,6 +217,52 @@ AI makes this more consequential because models can paper over schema gaps in co
 An agent may understand a nuanced request and then be forced to reduce it to a binary permission field because that is all the downstream API accepts.
 
 Intelligence at the edge cannot always repair poverty in the standard.
+
+There is a second problem that appears only after representation succeeds.
+
+Two strings can be valid Unicode and still not be safe to compare naively.
+
+Some text that looks the same to a person can have different underlying code-point sequences. Unicode normalization exists partly so canonically equivalent strings can be converted into predictable forms for comparison and storage. A system that ignores this can discover that the “same” human word is two different machine keys.
+
+That sounds like a software nuisance. Put the string in an identifier and it becomes institutional.
+
+Suppose a user name, account name, product code or document identifier accepts international text. The system has gained expressive range. It has also inherited the fact that different scripts contain characters that can look similar or even indistinguishable in particular fonts. The Latin `a` is not every character that resembles an `a`. A visual match is not a code-point match.
+
+Unicode's own security specifications address this problem through mechanisms for detecting confusable strings and restricting identifiers in high-risk contexts. The standard does not solve the social question by banning multilingual text. It gives implementers tools for recognizing that broad representation changes the threat model.
+
+This is a more mature picture of interoperability.
+
+First make diversity representable.
+
+Then define how equivalent forms compare.
+
+Then identify contexts where visual similarity can be exploited.
+
+Then let applications choose restrictions appropriate to their risk.
+
+The bank login, the literary archive and the group chat do not need identical identifier policies.
+
+This is scope discipline again.
+
+A universal character set should not become a universal security policy.
+
+The standard can expose the relevant structure without pretending every use case has the same tolerance for ambiguity.
+
+The lesson travels directly into agent systems.
+
+Machine-readable names will proliferate: tool identifiers, agent identifiers, credential types, policy names, transaction states, capability labels. If those names are compared as raw strings without normalization rules, namespace discipline or issuer context, systems can disagree while each believes it is following the protocol.
+
+Worse, an attacker can exploit the disagreement.
+
+A human operator may approve a capability whose displayed name resembles a trusted one. A model may describe two identifiers as equivalent because their labels are semantically similar. The authorization layer may quite correctly treat them as different byte sequences.
+
+The model understands meaning.
+
+The security boundary understands identity.
+
+Those are different jobs.
+
+Standards become dangerous when they let one stand in for the other.
 
 This suggests a design discipline for agent standards: be minimal in mandatory semantics but rich in extensibility and provenance.
 
