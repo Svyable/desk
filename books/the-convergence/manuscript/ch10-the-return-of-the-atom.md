@@ -124,6 +124,36 @@ A country that stops building can experience the reverse. Suppliers leave. Skill
 
 Industrial capability compounds in both directions.
 
+This makes the sequence of projects almost as important as the specification of any single project.
+
+A country that orders one reactor, waits a decade, changes designs, changes contractors, rewrites requirements, and then asks an unfamiliar supply chain to begin again is not really running a nuclear program. It is buying a succession of prototypes. Each project inherits the formal lessons of the last one but may lose the people who learned them in their hands.
+
+Documents preserve instructions. They do not preserve fluency.
+
+A crew that has already solved a difficult installation problem can approach the next unit with a memory of tolerances, workarounds, sequencing, and inspection points that no procedure can fully capture. A regulator that has reviewed a design before knows where ambiguity tends to hide. A supplier with continuing orders has a reason to retain tooling, qualified processes, and people. A project manager who has seen commissioning fail in one particular way carries a different kind of knowledge into the next schedule.
+
+That knowledge is perishable because the organizations carrying it have ordinary economics. A specialized factory cannot live indefinitely on the hope of an order. Skilled workers will take other jobs. Engineering teams disperse. Vendors exit narrow markets. The physical design can remain unchanged while the human system capable of building it decays.
+
+This is why the usual first-of-a-kind versus nth-of-a-kind distinction can be misleading if it is treated as a property of the reactor alone. The nth copy of a design may still behave like a first if it is the first one for a new owner, a new site, a new regulator, a new constructor, or a supply chain reassembled after a long pause.
+
+Repetition has to occur somewhere real.
+
+This also changes how policy should be judged. A government can announce support for nuclear without creating an order book. It can fund design work without sustaining a construction workforce. It can approve one demonstration and still leave every participant uncertain about whether there will be a second. Those actions may be worthwhile, but they are different from building a production system.
+
+The production system needs cadence.
+
+Cadence does not mean rushing safety work or guaranteeing projects regardless of performance. It means creating enough continuity that success on one unit can reduce uncertainty on the next. That may require standardized designs, a visible pipeline, repeat sites, stable regulation, long-lived supplier relationships, or some combination of them. Which institutional arrangement works best will differ by country. The underlying logic does not.
+
+Learning needs another attempt before the learners disappear.
+
+There is an uncomfortable implication here for both public and private finance. A one-off reactor can be evaluated as a stand-alone asset. A nuclear program cannot. Some of the value of the first project may exist in capabilities that lower the risk of later projects: trained crews, qualified vendors, tested regulatory pathways, construction routines, and a more realistic schedule. Those benefits are hard to capture on the balance sheet of Unit 1.
+
+The reverse is true as well. A project that overruns badly can destroy the political and financial conditions required for Unit 2, which means the learning that finally arrives near the end of construction may never be used again.
+
+The first plant can therefore be both a power station and an institutional option.
+
+Whether that option is exercised determines whether expensive learning becomes an asset or a sunk cost.
+
 That makes nuclear a particularly clear example of a broader theme in this book: useful energy is never only a fuel problem.
 
 Coal required mines, railways, boilers, and firms capable of coordinating them. Electricity required generators, wires, standards, markets, and operators. A nuclear plant requires all of that plus an institutional stack capable of managing a low-probability, high-consequence technology over a project life measured in decades.
