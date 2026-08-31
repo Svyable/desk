@@ -287,3 +287,129 @@ It is whether the international monetary system continues to subsidize American 
 For decades, the answer was unusually favorable.
 
 The refinancing cycle will ask again.
+
+The privilege contains a paradox that is easy to miss from inside the United States.
+
+The world wants dollar assets partly because the United States supplies so many of them.
+
+A small country with pristine public finances cannot create a reserve market merely by having no debt. It may lack enough securities for central banks, dealers, derivatives users, and global institutions to hold at scale. Liquidity requires outstanding supply. Benchmark markets require repeated issuance. Collateral networks require a large stock.
+
+Some public debt is not merely tolerated by the dollar system.
+
+It is infrastructure for the dollar system.
+
+This complicates the intuition that every additional Treasury security necessarily weakens reserve status. More supply can deepen the market and satisfy global demand for safe assets. The danger appears when supply expands faster than the convenience value and economic capacity supporting it.
+
+The fiscal wall therefore involves a balance rather than a maximum.
+
+Too little safe collateral can make global finance less efficient.
+
+Too much duration at the old price can require a higher yield.
+
+This is close to the old dilemma that reserve-currency countries face between supplying international liquidity and maintaining confidence in the liabilities being supplied. The modern dollar system is far more complex than the fixed-exchange-rate world in which the original dilemma was framed, but the tension survives in a new form.
+
+The world wants dollar claims.
+
+The world also wants those claims to remain reliably valuable.
+
+Foreign demand can finance persistent U.S. external deficits because dollars sent abroad through trade and investment do not disappear. They become somebody's asset. A foreign exporter paid in dollars can exchange them through a bank, invest them, or ultimately help create a chain that ends in U.S. securities. Current-account deficits and capital inflows are two sides of international accounting.
+
+This is why slogans about foreigners “lending America its own money” miss the network. Dollars are liabilities of the U.S. monetary system circulating through global balance sheets. Foreign institutions choose among American assets because the currency itself is heavily used.
+
+The Treasury market sits at the safe end of that menu.
+
+That connection creates a stabilizer during ordinary diversification.
+
+Suppose a reserve manager sells a Treasury note and buys a U.S. agency security. Treasury's direct foreign ownership falls, but the dollar system has not been abandoned.
+
+Suppose it buys a U.S. corporate bond. The private issuer receives the financing instead of Treasury.
+
+Suppose it buys a euro-area government bond and sells the dollars. The exchange rate may move, making dollar assets more attractive to another investor.
+
+Portfolios rebalance through prices.
+
+The system is not a referendum with one ballot per country.
+
+This is why reported country holdings require humility. A Treasury held through a custodian in Belgium or the United Kingdom may ultimately belong to an institution elsewhere. Securities can be lent. Derivatives can create synthetic exposure. Official reserve managers can hold assets through accounts that do not map neatly onto political borders.
+
+The data are good enough to reveal large trends and too imperfect to support conspiracy theories about one monthly change.
+
+The June 2026 Treasury International Capital release is useful precisely as a snapshot rather than a prophecy. It showed sizable net foreign purchases of long-term U.S. securities and positive net capital flows in that month. The observation does not prove that foreign demand will absorb any future issuance at any yield.
+
+It does show that the story of a world already refusing American assets was false at that moment.
+
+The future question is marginal.
+
+What happens to the next hundred billion dollars of duration?
+
+A foreign buyer compares it with domestic bonds, other currencies, private credit, equities, and the cost of hedging. If domestic yields in Japan rise, the comparison changes. If European governments issue more debt for defense and infrastructure, the comparison changes. If U.S. inflation falls while real yields remain attractive, the comparison can move back toward Treasuries.
+
+The dollar's reserve role sets the table.
+
+Relative returns still decide many of the seats.
+
+Sanctions add a harder dimension.
+
+The ability of the United States and its allies to immobilize or restrict access to assets inside their financial jurisdiction demonstrated that reserve holdings have political as well as market risk for certain governments. Some official institutions have responded by emphasizing gold or non-dollar settlement arrangements.
+
+That reaction is rational from their perspective even if the alternatives are less liquid.
+
+The fiscal question is whether geopolitical diversification becomes broad enough to raise the price Treasury pays.
+
+It does not need to dethrone the dollar.
+
+A reserve manager that shifts five percent of a portfolio away from Treasuries still holds ninety-five percent of the original position. If enough large institutions make similar marginal shifts while U.S. issuance grows, the long-term demand curve can change.
+
+Marginal changes matter on a thirty-trillion-dollar base.
+
+The reverse can happen too. Geopolitical instability can increase demand for the most liquid dollar assets among institutions that do not fear U.S. sanctions. A fragmented world can make the dollar network more valuable to some users and less attractive to others.
+
+There is no single geopolitical sign on Treasury demand.
+
+This is another reason the reserve-currency debate should be separated from the refinancing debate even though they interact.
+
+Reserve status is slow-moving institutional capital.
+
+Refinancing is a continuous market price.
+
+The first can remain stable while the second becomes more expensive.
+
+That is probably the more realistic fiscal risk.
+
+Imagine the dollar remains the world's leading reserve currency in 2035. Treasuries remain the premier collateral asset. Foreign central banks still hold enormous dollar reserves. No competitor has built a market with comparable scale.
+
+Yet investors require a larger term premium because U.S. debt supply is higher, global investment opportunities are better, inflation uncertainty is greater, and foreign institutions have more alternatives.
+
+Nothing dramatic happened to dollar hegemony.
+
+The federal interest bill is still much larger.
+
+This is why the book does not need a reserve-currency collapse to make the wall consequential.
+
+The privilege can erode in price before it erodes in rank.
+
+A fifty-basis-point increase in the structural financing premium sounds minor beside predictions of currency collapse. Applied gradually across trillions of dollars of refinancing, it is not minor to a budget.
+
+The quieter outcome is more plausible and more useful to monitor.
+
+Watch whether foreign buyers continue to take long duration when hedging costs are unfavorable.
+
+Watch whether reserve managers diversify gradually or abruptly.
+
+Watch whether the dollar rises or falls when long Treasury yields rise.
+
+Watch whether foreign demand shifts from official to private institutions.
+
+Watch whether alternative sovereign markets become deeper and more standardized.
+
+Watch whether Treasury liquidity remains exceptional during stress.
+
+Reserve status is not a binary variable.
+
+It is a collection of advantages.
+
+The United States can lose some and remain dominant.
+
+It can preserve them and still pay more.
+
+The fiscal wall lives in that difference.
