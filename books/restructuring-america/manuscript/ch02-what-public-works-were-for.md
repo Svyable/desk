@@ -18,6 +18,30 @@ The institutions of the 1930s were built for a different economy, a different le
 
 The lesson is to remember why societies build together in the first place.
 
+## Turning a flow into a stock
+
+A public budget is a flow.
+
+Money is collected, borrowed, appropriated, and spent over time. A recovery program is temporary. A tax year ends. A technology boom eventually changes form.
+
+A useful public work turns some of that flow into a stock.
+
+A bridge remains after the appropriation is exhausted. A water system keeps delivering service after the construction payroll ends. A transmission corridor preserves options for later generators and loads. A park becomes more useful as its trees mature. A well-designed permitting institution can keep lowering the cost of decisions after the reform team has left.
+
+This conversion is the durable economic logic of public works.
+
+The asset does not have to be government-owned to matter. It does not have to be made of concrete. It does have to leave behind capacity that survives the transaction that created it.
+
+That definition creates a demanding test.
+
+Did the spending leave something useful after the money moved? Does the capacity widen what households, firms, or communities can do? Can the asset or institution be maintained? Does its value survive the fate of the one contractor, company, administration, or forecast that justified it?
+
+A temporary boom can produce temporary consumption.
+
+It can also produce a stronger balance sheet.
+
+The argument of this book is that an AI productivity boom should do some of the second.
+
 ## Relief was one purpose
 
 The Great Depression made employment an immediate public problem.
@@ -70,7 +94,7 @@ Shared data, source-grounded technical assistance, common application formats, a
 
 This is a more durable lesson than any specific 1930s agency name.
 
-## Capacity was another purpose
+## Capacity was the durable purpose
 
 Public works expand what a place can do.
 
@@ -366,25 +390,21 @@ The second question creates projects to serve the funding stream.
 
 The first asks the funding stream to serve the project.
 
-## The employment question returns
+## Employment is a timing tool, not the asset's purpose
 
 AI brings the jobs argument back with unusual force.
 
 If software can perform tasks once associated with secure white-collar work, governments will face pressure to create employment through public investment. There is nothing inherently wrong with that response during a downturn. A society can reasonably accelerate useful construction when private demand is weak.
 
-The danger is building an economic model that depends on public works remaining labor-intensive.
+The distinction is between changing the timing of useful work and changing the purpose of the work.
 
-Imagine that automated equipment allows a road crew to complete work safely with fewer hours. If policy requires the old labor input to preserve jobs, taxpayers buy less road. If policy instead embraces the productivity gain without supporting displaced workers, the social cost is pushed onto individuals.
-
-Both choices are avoidable.
+If a recession releases construction labor and equipment, moving a worthy maintenance program forward can support employment without changing what the program is for. If automated equipment later allows a road crew to complete the same work safely with fewer hours, preserving the old labor input merely to keep the head count high makes the road more expensive for no public gain.
 
 Accept the productivity.
 
 Address the transition directly.
 
-Public works can create valuable employment because there is genuine work to do, not because society promises to keep every task inefficient.
-
-This distinction respects workers more than make-work does. It treats their security as a political obligation worth naming rather than hiding inside the cost structure of a bridge.
+Chapter 16 returns to this problem in detail. The historical point here is simpler: relief can justify *when* useful public works are accelerated without becoming the permanent reason those assets exist.
 
 ## What the old builders would recognize
 
@@ -410,7 +430,7 @@ Public works are where collective intentions become physical obligations.
 
 An AI-era public works program should have a clearer purpose than “build more.”
 
-It should expand the complements to technological abundance.
+It should convert some of a potentially temporary productivity flow into durable shared capacity.
 
 More reliable and flexible energy. More transmission. More housing in places people want and need to live. Water systems that can survive both age and changing climate. Transportation that reflects actual travel patterns. Maintenance systems capable of preserving valuable assets. Permitting that resolves real questions faster. Procurement that creates competition and learning. Construction markets allowed to automate and standardize where doing so improves value.
 
@@ -420,12 +440,16 @@ Some of this resembles earlier public works.
 
 Some of it is administrative and digital.
 
-The common thread is durable shared capacity.
+The common thread is not the material or the ownership form.
+
+It is durable shared capacity: something useful remains after the appropriation, the construction trailer, the political slogan, and perhaps even the technology cycle that justified the urgency.
 
 The New Deal is useful not because it offers a template but because it reminds Americans that economic transitions can leave physical institutions behind.
 
 The question for this transition is what we want to leave.
 
 Not a museum of human labor preserved against machines.
+
+A stronger public balance sheet.
 
 A country made more capable by them.

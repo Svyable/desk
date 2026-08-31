@@ -26,6 +26,32 @@ They change what income can buy and how much private spending is required to liv
 
 That distinction becomes more important if AI weakens the traditional connection between labor hours and economic output.
 
+## Turn the flow into a stock
+
+A productivity gain first appears as a flow.
+
+A firm spends less this quarter. A worker produces more this year. A customer pays a lower price. A government office processes more cases with the same staff. Tax receipts change. Profits change. Time is saved.
+
+Those gains can disappear into ordinary consumption or the next budget cycle.
+
+Some can also be converted into assets and institutions that continue producing value after the original gain has faded into the baseline.
+
+That is the public-works opportunity.
+
+A temporary surge in fiscal capacity can repair a water system that lasts for decades. A recurring reduction in administrative cost can finance a maintenance backlog. Growth in a region's tax base can be turned into housing infrastructure, grid upgrades, parks, or transportation that remain useful even if the company that triggered the boom later shrinks.
+
+This is how a flow becomes a stock.
+
+The conversion should not be automatic. Not every productivity gain belongs to government, and not every capital project is a wise use of public money. Households should keep gains. Firms need returns to invest. Workers should capture value. Lower prices are themselves prosperity.
+
+The narrower principle is that a society experiencing unusually rapid productivity growth should ask whether part of the gain can leave behind durable common capacity rather than only higher current income or asset prices.
+
+Chapter 2 described public works as an intergenerational argument about time.
+
+Here is the distributional version of the same argument.
+
+Prosperity is more durable when some of today's surplus becomes tomorrow's lower cost, wider access, and greater resilience.
+
 ## The wage channel
 
 For most households, prosperity arrives through wages.
@@ -120,7 +146,7 @@ AI may create enormous surplus in information goods while physical bottlenecks c
 
 Public works can help move abundance toward the stubborn categories.
 
-Housing. energy. transportation. water. public space. reliable services.
+Housing. Energy. Transportation. Water. Public space. Reliable services.
 
 A richer digital life is not the same thing as a lower cost of living.
 
@@ -164,7 +190,7 @@ Public works are therefore part of transfer policy even when the transfer itself
 
 Build the complement.
 
-Allow the homes. Expand the grid. train the workforce. improve the transit network. increase treatment capacity.
+Allow the homes. Expand the grid. Train the workforce. Improve the transit network. Increase treatment capacity.
 
 The more elastic the supply of necessities, the more likely a household subsidy reaches the household rather than the bottleneck owner.
 
@@ -245,6 +271,26 @@ AI can model scenarios, but political officials need the courage to walk away fr
 Competition between jurisdictions makes that difficult.
 
 Regional standards can help prevent a race to the bottom.
+
+## There is no single AI tax base
+
+The phrase *AI dividend* can create the impression that a new pool of money will appear in one identifiable industry, ready to be taxed and redistributed.
+
+That is unlikely to be how productivity arrives.
+
+AI can raise the value of a software company, lower the operating cost of a hospital, increase the output of an engineer, reduce the staffing need of a call center, improve a utility's maintenance, or make a contractor more productive. The gain is dispersed through profits, wages, prices, property values, investment returns, and public-sector cost savings.
+
+Trying to design the whole social contract around a narrow technology label can therefore be brittle.
+
+The label changes faster than the tax base.
+
+A broader strategy is to let ordinary fiscal institutions reach the economic income, property, consumption, and transactions they are meant to reach; charge directly for infrastructure burdens where a project imposes them; and make sure verified productivity savings inside public systems have a rule for reinvestment as well as eventual fiscal return.
+
+There may still be cases for technology-specific fees or rules where a specific external cost justifies them.
+
+The larger dividend does not depend on finding one meter attached to "AI."
+
+What matters is whether the institutions surrounding growth can capture a reasonable public return without choking off the investment that creates the gain.
 
 ## Tax incidence matters more than the statutory label
 
@@ -506,7 +552,7 @@ A region can post strong output growth while ordinary residents experience worse
 
 The AI dividend should therefore be measured across several channels.
 
-Real wages. housing burden. energy costs. public-service reliability. access to jobs. travel time. household wealth. working hours. fiscal capacity. local environmental quality.
+Real wages. Housing burden. Energy costs. Public-service reliability. Access to jobs. Travel time. Household wealth. Working hours. Fiscal capacity. Local environmental quality.
 
 No single dashboard can compress a social contract.
 
@@ -534,10 +580,20 @@ Distribution is governance.
 
 Public works offer a practical way to participate in that governance without trying to control the entire economy.
 
-Tax some growth. Price infrastructure fairly. Build abundant necessities. Preserve public ownership where it creates durable value. Make markets more competitive through shared capacity. Reduce the private cost of ordinary life.
+Let competitive markets pass gains through lower prices where they can. Let workers bargain for more where their contribution becomes more valuable. Let firms retain returns that justify investment. Let direct transfers address income shortfalls more honestly than artificial task preservation.
+
+Then use ordinary fiscal institutions, fair infrastructure charges, and public-sector productivity savings to convert some of the remaining flow into shared stock.
+
+Build abundant necessities. Preserve public ownership where it creates durable value. Make markets more competitive through shared capacity. Reduce the private cost and risk of ordinary life.
 
 Then let productivity be productivity.
 
 The purpose is not to stop machines from making things cheaper.
 
-It is to make sure a richer economy eventually looks richer from the sidewalk.
+It is to make sure a richer economy eventually leaves something durable behind.
+
+Something people can use.
+
+Something that lowers tomorrow's cost.
+
+Something visible from the sidewalk.

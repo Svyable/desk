@@ -44,6 +44,32 @@ Then labor policy can address how the work is organized and how transition costs
 
 This separation protects both sides. Infrastructure does not become a warehouse for obsolete tasks. Workers do not have to depend on waste for economic security.
 
+## A task is not a worker
+
+Automation debates become confused when a task, a job, and a person are treated as the same thing.
+
+A job is a bundle of tasks held together by an organization. Inspect. Drive. Diagnose. Document. Schedule. Call. Approve. Repair. Explain. Lift. Decide.
+
+Technology can remove one part of that bundle while making another part more valuable.
+
+An inspector may spend less time writing routine reports and more time examining ambiguous conditions. A project manager may spend less time reconciling documents and more time negotiating scope. A crew may use automated equipment for repetitive or dangerous work while retaining judgment about site conditions and safety.
+
+Sometimes the bundle shrinks enough that fewer workers are required.
+
+That possibility should not be hidden behind comforting language about augmentation.
+
+But policy should still distinguish preserving a person from preserving every task that person once performed.
+
+The person has claims on a decent transition because livelihoods, skills, families, and communities do not adjust at machine speed.
+
+The obsolete task does not have a moral claim to survive.
+
+This distinction creates more room for humane productivity policy. Redeployment, training, retirement, attrition, shorter hours, or a different job can absorb some change before displacement where circumstances allow. Where they do not, income support and transition institutions should carry the burden openly.
+
+Economic security should attach to people.
+
+Inefficiency should not have to impersonate social insurance.
+
 ## The utilization trap
 
 Public organizations can mistake keeping people busy for producing value.
@@ -56,11 +82,15 @@ AI systems often optimize utilization because idle time is easy to see.
 
 Slack is harder to value.
 
+Useful slack is not make-work.
+
+A spare crew that can respond to a failure, an apprenticeship hour that builds future skill, or a maintenance window reserved for prevention may look idle under the wrong metric while increasing system reliability.
+
 Public works should measure throughput, reliability, quality, and backlog instead.
 
 A crew that finishes more useful work with 85 percent planned utilization may outperform a crew that appears fully occupied while constantly rescheduling.
 
-This matters for the make-work problem because employment preservation can hide inside utilization targets. The objective should not be to maximize paid activity.
+The objective should not be to maximize paid activity.
 
 It should be to maximize useful service while preserving enough capacity for the system to remain reliable.
 
@@ -122,15 +152,9 @@ Imagine a decade in which AI and automation raise construction productivity sign
 
 A fixed infrastructure budget can then buy more.
 
-There are three broad ways society could respond.
+There are several places the gain can land.
 
-First, keep the same project pipeline and spend less. Taxpayers receive the dividend.
-
-Second, keep spending constant and build more. Infrastructure users receive the dividend.
-
-Third, improve wages, hours, or working conditions while also capturing some savings. Workers receive part of the dividend.
-
-In practice, the gain will be divided among all three, along with contractor profits, land values, and supplier margins.
+Taxpayers can receive some through lower fiscal cost. Infrastructure users can receive some through more service or lower charges. Workers can receive some through safer work, higher compensation, shorter hours, or supported transitions. Contractors and suppliers need enough return to justify real investment in productivity. Backlogs can absorb capacity that used to be consumed by routine administration or slower production.
 
 The important thing is to make the division visible.
 
@@ -138,7 +162,7 @@ Productivity politics becomes poisonous when workers see automation as a one-way
 
 A public-works boom can create a different bargain.
 
-If an automated system allows a road program to resurface 30 percent more lane-miles with the same budget, citizens can see the gain. If workers receive safer equipment and training to operate it, they can see the gain. If contractors earn returns for investing in productivity, they can see the gain.
+If an automated system allows a road program to resurface more lane-miles with the same budget, citizens can see the gain. If workers receive safer equipment and training to operate it, they can see the gain. If contractors earn returns for investing in productivity, they can see the gain.
 
 This is politically healthier than making productivity synonymous with layoffs.
 
@@ -150,7 +174,7 @@ Distribution is conflict.
 
 The goal is to make the productivity dividend large enough and legible enough that multiple parties have a reason to support it.
 
-## Savings should not automatically shrink the mission
+## Give the savings somewhere to land
 
 Public budgets often contain an anti-productivity incentive.
 
@@ -160,19 +184,31 @@ Managers learn quickly.
 
 Efficiency becomes self-punishment.
 
-A better system lets agencies retain part of verified savings for backlog reduction, worker training, service improvements, or future capital needs.
+The opposite incentive can be bad too. If an agency keeps every dollar it saves forever, "savings" can become a justification for organizational growth detached from service.
 
-This is common sense in private firms, where productivity can fund growth.
+A credible productivity system therefore needs separate ledgers.
 
-Public institutions need a version that preserves legislative control while rewarding improvement.
+First, did unit cost or processing time actually improve without degrading quality, safety, or access?
+
+Second, what part of the gain should become additional service or backlog reduction?
+
+Third, what transition costs were imposed on workers and contractors that need to adapt?
+
+Fourth, what portion can return to the general budget or ratepayer?
+
+The answer will differ by system and over time. The discipline is to prevent one automatic rule from swallowing every gain.
 
 AI adoption makes the issue immediate.
 
-If a permitting office automates clerical work and cuts review time, the entire gain should not necessarily be removed from the office before the backlog is cleared. If a maintenance shop reduces diagnostic time, some capacity should go toward preventive work.
+If a permitting office automates clerical work and cuts review time, the entire gain should not necessarily be removed before the backlog is cleared. If a maintenance shop reduces diagnostic time, some capacity can move toward preventive work. Once service is healthy, later savings may reasonably reduce cost.
 
 A productivity bargain needs an institutional place for the dividend to land.
 
-Otherwise employees rationally fear every improvement will be used only to shrink them.
+Otherwise employees rationally fear every improvement will be used only to shrink them, while taxpayers rationally fear every promised efficiency will become a permanently larger budget.
+
+Both fears can be true under bad rules.
+
+Good rules make the trade explicit.
 
 ## Do not subsidize yesterday's method
 
@@ -206,7 +242,7 @@ A contractor bears the cost of buying equipment, training workers, integrating s
 
 Procurement can respond without guaranteeing monopoly returns.
 
-Pilot allowances. Shared savings. performance bonuses. multiyear contracts. Equipment grants tied to open competition. Public test facilities. Standard specifications that recognize validated methods.
+Pilot allowances. Shared savings. Performance bonuses. Multiyear contracts. Equipment grants tied to open competition. Public test facilities. Standard specifications that recognize validated methods.
 
 The principle is to let innovators capture enough of the productivity gain to justify taking the risk.
 
@@ -324,7 +360,7 @@ The AI era will contain more capital-intensive, low-employment projects.
 
 Public policy needs a vocabulary of value beyond jobs.
 
-Tax base. Grid investment. research spillovers. service capacity. resilience. emissions. land use. local supplier development. housing demand. water use.
+Tax base. Grid investment. Research spillovers. Service capacity. Resilience. Emissions. Land use. Local supplier development. Housing demand. Water use.
 
 A project can be good with few jobs if it produces enough other value.
 
@@ -338,7 +374,7 @@ A project may create temporary employment while imposing long-term land, traffic
 
 The public bargain should focus on durable capacity.
 
-Grid upgrades that strengthen regional service. Roads that remain useful. Training that produces portable credentials. Tax revenue not erased by incentives. Housing infrastructure. parks. broadband. water capacity. supplier networks capable of winning future work.
+Grid upgrades that strengthen regional service. Roads that remain useful. Training that produces portable credentials. Tax revenue not erased by incentives. Housing infrastructure. Parks. Broadband. Water capacity. Supplier networks capable of winning future work.
 
 This is better than maximizing the number of short-term jobs counted at groundbreaking.
 
@@ -352,7 +388,7 @@ The visible artifact should be the benefit, not the promise.
 
 Public investment often comes with requirements designed to spread benefits.
 
-Local hiring. Apprenticeship ratios. domestic content. small-business participation. wage standards.
+Local hiring. Apprenticeship ratios. Domestic content. Small-business participation. Wage standards.
 
 These goals can be legitimate and important.
 
@@ -384,7 +420,7 @@ The answer is not to make every project impossible.
 
 It is to build rejection into the system.
 
-Independent cost estimates. published alternatives. clear scope baselines. staged funding. post-project evaluation. audits that compare promised and delivered benefits. cancellation points before sunk costs become political arguments for continuing.
+Independent cost estimates. Published alternatives. Clear scope baselines. Staged funding. Post-project evaluation. Audits that compare promised and delivered benefits. Cancellation points before sunk costs become political arguments for continuing.
 
 AI can make project screening faster and surface warning patterns from prior failures.
 
@@ -406,7 +442,7 @@ A worker can spend twenty years building expertise in a task that loses value qu
 
 A serious AI social contract needs transition institutions.
 
-Unemployment insurance that works. Wage insurance experiments. Training tied to actual hiring. portable benefits. relocation assistance where desired. stronger career services. apprenticeships accessible to adults. Community-college programs that can change faster than four-year curricula.
+Unemployment insurance that works. Wage insurance experiments. Training tied to actual hiring. Portable benefits. Relocation assistance where desired. Stronger career services. Apprenticeships accessible to adults. Community-college programs that can change faster than four-year curricula.
 
 Public works can provide demand for some of these transitions, but they should not be forced to absorb everyone.
 
@@ -424,7 +460,7 @@ Rejecting permanent make-work should not produce an ideological ban on direct pu
 
 Some work is naturally public.
 
-Parks crews. conservation work. emergency response. public maintenance. inspection. community health. disaster cleanup. records modernization. care and service roles in public institutions.
+Parks crews. Conservation work. Emergency response. Public maintenance. Inspection. Community health. Disaster cleanup. Records modernization. Care and service roles in public institutions.
 
 During severe labor-market disruption, governments may reasonably expand such employment faster than contractors can absorb workers.
 
