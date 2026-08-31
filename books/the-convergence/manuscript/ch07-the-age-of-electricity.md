@@ -24,21 +24,21 @@ That is a profound advantage. It means improvements upstream can propagate acros
 
 The grid becomes an interface between a changing collection of sources and a changing collection of machines.
 
-The data now show how broad that convergence is becoming. The International Energy Agency estimates that global electricity demand grew about 3 percent in 2025 while total global energy demand grew 1.3 percent. Electricity demand was expanding more than twice as fast as energy demand overall.
+The data show electricity pulling away from energy demand overall. The International Energy Agency estimates that global electricity demand grew about 3 percent in 2025 while total global energy demand grew 1.3 percent. Electricity demand was expanding more than twice as fast as energy demand overall.
 
 One year does not establish an age.
 
 Seen over half a century, the shift is both larger and slower. IEA statistics put electricity at 9.5 percent of world final energy consumption in 1973 and about 21 percent in 2025. More than doubling its share matters. Taking fifty-two years to do it is a useful antidote to any story in which the world simply wakes up electric.
 
-The more interesting recent fact is what produced the growth.
+The recent growth is broad, but that does not make every new kilowatt-hour an act of electrification.
 
 Buildings accounted for nearly 45 percent of the increase in global electricity demand in 2025. Transport contributed more than 10 percent, more than double its average share over the previous decade. Data-center electricity use rose about 17 percent, a spectacular growth rate, but its roughly 70 terawatt-hours of additional consumption were still small beside the roughly 800 terawatt-hours of total global electricity-demand growth.
 
-The load was not one story. It was cooling, appliances, mobility, industry, computing, and rising incomes pulling on the same carrier.
+Some of those loads represent direct substitution. An electric vehicle can replace gasoline. A heat pump can replace gas or oil heat. Other loads are additive: more air conditioning, more appliances, more industrial output, more computation. Rising incomes can increase electricity consumption without displacing a fossil-fuel machine at all.
 
-That diversity is important. If electricity demand depended on one fashionable technology, a slowdown in that technology could reverse the trend. Instead, an electric car and a heat pump can both disappoint in a given market while global electricity use still rises because air conditioning spreads, factories expand, households buy more appliances, and digital infrastructure grows.
+That distinction keeps the argument honest. Faster electricity demand is consistent with electrification, but the aggregate number cannot tell us how much combustion disappeared because of it.
 
-This is what a general-purpose carrier looks like when more of an economy starts to converge on it.
+What the composition does show is something narrower. Electricity is useful enough to be pulled simultaneously by buildings, transport, industry, cooling, appliances, and computing. It can become more central to an economy even when the reasons for using more of it are not all the same.
 
 Electrification can also make primary-energy statistics look strange. An internal-combustion engine throws away a large share of the chemical energy in gasoline as heat. An electric motor converts a much larger share of its electrical input into motion. A resistance heater converts electricity into heat at the point of use; a heat pump goes further by moving heat from outside to inside and, under suitable conditions, can deliver several units of useful heat for each unit of electricity consumed.
 
@@ -110,7 +110,7 @@ The narrower claim is stronger: an unusually large share of useful work can be o
 
 The IEA forecasts electricity's share of total final energy consumption rising from about 21 percent in 2025 to 24 percent in 2030. Forecasts deserve humility. Economic growth can weaken. Grid construction can lag. EV and heat-pump adoption can soften. Data-center projects can be cancelled. Industrial electrification can prove uneconomic in processes that looked promising on paper.
 
-The observed facts matter more than the forecast: electricity demand is already growing faster than total energy demand; EVs are already displacing measurable oil consumption; renewables already dominate new global power-capacity additions; and buildings, transport, industry, and computing are already drawing more heavily on the same carrier.
+The observed facts matter more than the forecast: electricity's share of final consumption has already risen substantially; EVs are already displacing measurable oil consumption; renewables already dominate new global power-capacity additions; and buildings, transport, industry, and computing are already drawing more heavily on the same carrier.
 
 No single one of those facts proves an age. Together they describe a system changing its center of gravity.
 
