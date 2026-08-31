@@ -257,3 +257,133 @@ And the Federal Reserve must preserve both market functioning and price stabilit
 The roles are separate.
 
 The wall is where they meet.
+
+The cleanest way to see the difference among Federal Reserve purchases is to imagine three balance-sheet operations that look identical on a newspaper graphic.
+
+In the first, inflation is below target, unemployment is high, the policy rate is near its lower bound, and the Fed buys long-term Treasuries to push down longer borrowing costs and ease financial conditions. The intended effect is macroeconomic stimulus. Duration is removed from private portfolios on purpose.
+
+In the second, the Treasury market is disorderly. Bid-ask spreads widen, dealers cannot intermediate forced selling, and a dash for cash threatens the functioning of the benchmark market. The Fed buys Treasuries rapidly to restore market functioning. The intended effect is not necessarily a lower equilibrium yield over years; it is to stop a liquidity spiral now.
+
+In the third, the economy is operating normally but the banking system needs more reserve balances as nominal activity and demand for reserves grow. The Fed buys short Treasuries so its ample-reserves framework continues to function. The intended effect is implementation, not stimulus.
+
+All three operations create reserves.
+
+All three put Treasuries on the Federal Reserve's asset side.
+
+Economically they are not the same policy.
+
+The distinction is not academic because the fiscal wall will invite political pressure to blur them.
+
+If long yields rise while the Treasury interest bill is already uncomfortable, a politician can point to the central bank's ability to buy bonds and ask why it refuses to do so. If the Fed is already buying bills for reserve management, the argument becomes even easier to sell rhetorically: *You are buying government debt already. Buy the maturities that lower our costs.*
+
+That is precisely where institutional purpose matters.
+
+Reserve-management purchases are designed to maintain control of the overnight rate in the chosen operating framework. They do not amount to a promise that thirty-year bonds should trade at a particular yield. A standing repo facility is designed to provide secured liquidity at an administered rate. It does not guarantee the market value of a dealer's long-duration inventory.
+
+Facilities can backstop functions without backstopping prices.
+
+The distinction is one of the most important protections in the modern system.
+
+The 1951 Accord is remembered because the conflict was stark, but fiscal pressure on monetary policy rarely announces itself as an explicit order to peg yields. It can arrive through softer channels.
+
+Congressional hearings.
+
+Presidential criticism.
+
+Appointments.
+
+Arguments that high rates are creating unnecessary interest expense.
+
+Claims that a central bank should consider fiscal sustainability as part of its mandate.
+
+Pressure to treat a long-bond selloff as market dysfunction even when the market is functioning exactly as a price-discovery mechanism should.
+
+The line between dysfunction and an inconvenient price is therefore crucial.
+
+A market with wide bid-ask spreads, disappearing depth, failed settlement, cascading margin calls, and inability to finance good collateral may require intervention.
+
+A market that clears a thirty-year auction at a yield politicians dislike is not dysfunctional simply because the coupon is expensive.
+
+If a central bank mistakes the second condition for the first, it stops protecting the market and starts choosing the government's financing price.
+
+The fiscal wall makes that error more tempting because the budget consequence of long yields is larger than it was when the debt stock was smaller.
+
+There is another way to frame the central-bank balance sheet: it changes who bears duration.
+
+When the Federal Reserve buys a long bond from a pension fund and creates reserves in payment, the pension no longer bears that bond's duration. The consolidated public sector does. The private banking system holds a short-rate asset—reserves—against the transaction.
+
+When the Fed later allows the bond to mature without replacing it, or sells it, duration moves back into private hands.
+
+Quantitative tightening is therefore not only a story about the size of the balance sheet.
+
+It is a story about who has to hold interest-rate risk.
+
+This helps explain why Treasury issuance and Federal Reserve runoff can interact even though the institutions are not coordinating to time the market. If Treasury is issuing more long coupons while the Fed is allowing long coupons to leave its portfolio, the private sector receives duration from two directions.
+
+Price is the mechanism that makes room.
+
+That does not imply a mechanical one-for-one rise in yields. Demand can change, growth expectations can change, inflation can change, foreign buying can change, and private wealth can grow. It means the supply of duration is part of the equilibrium rather than a detail to be ignored.
+
+The public sector's consolidated interest exposure also changes in ways that budget debates often miss.
+
+Suppose Treasury issued a ten-year note at two percent and the Fed later bought it during quantitative easing. The Treasury keeps paying the two-percent coupon to the Fed. But the reserves created to purchase the note can earn an administered rate that moves with monetary policy. If that rate rises to five percent, the consolidated public sector has not preserved a simple two-percent funding cost on that portion of the balance sheet.
+
+The mechanism is not identical to Treasury refinancing a ten-year note into a five-percent bill, but the economic direction is similar: the public sector's liability cost becomes more sensitive to the short rate.
+
+This is why the fiscal consequences of quantitative easing cannot be judged only during the years when remittances are large.
+
+When short rates are below the yield on the asset portfolio, Fed earnings can be substantial and remittances reduce Treasury's net interest burden. When short rates rise above the yield on older assets, the flow can reverse for a period.
+
+The benefit and the cost belong to the same duration transformation.
+
+A mature evaluation should count both.
+
+That does not make the policy wrong in retrospect. The Federal Reserve did not conduct quantitative easing to maximize remittances. The relevant counterfactual includes the recession, unemployment, financial conditions, inflation, and market functioning the policy was meant to address.
+
+Fiscal-wall analysis becomes distorted when a monetary tool is judged as though it were a debt-management trade.
+
+The same discipline applies in the future.
+
+A market-functioning purchase program could increase the Fed's holdings during a Treasury shock and still be consistent with restrictive monetary policy. The central bank could buy securities in one part of the market while draining reserves, adjusting administered rates, or using other tools to keep the stance of policy tight.
+
+This possibility matters in an inflationary crisis.
+
+In 2008 and 2020, market stress and the direction of monetary easing largely aligned. In a future episode, they might not. Treasury liquidity could deteriorate while inflation remains above target. The Fed might then have to say two things that sound contradictory to the public:
+
+We are supporting this market.
+
+We are not lowering the price of money.
+
+Technically those statements can coexist.
+
+Politically they are difficult.
+
+The difficulty will be amplified if the Treasury interest bill is being debated at the same time. Every purchase can be described as a bailout of fiscal policy. Every refusal to cut can be described as making the deficit worse.
+
+The credibility required to maintain the distinction is therefore a national financial asset.
+
+Central-bank independence is often defended in terms of inflation expectations. It should also be understood as a way of preserving Treasury's long-run financing advantage.
+
+A bondholder who believes the Fed will tolerate inflation whenever debt service becomes uncomfortable will demand compensation in long yields. Political control intended to lower rates can raise the term premium instead.
+
+Cheap money imposed without credibility is not necessarily cheap financing.
+
+A credible central bank can make higher short-term rates fiscally painful today and still reduce the long-term cost of borrowing by anchoring inflation.
+
+This is one of the least intuitive features of the wall.
+
+The institution causing the current interest expense can be protecting the future interest expense from something worse.
+
+That is why the Federal Reserve cannot be assigned the job of making the refinancing arithmetic comfortable.
+
+Its role is narrower and more valuable.
+
+Preserve the unit of account.
+
+Keep the payment and reserve system functioning.
+
+Protect core market plumbing when necessary.
+
+Let the fiscal authority own the fiscal choices.
+
+The Treasury market is strongest when investors do not have to guess which of those jobs has quietly changed.
