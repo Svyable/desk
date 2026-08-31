@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **40 books · 10 complete drafts · 1 in revision · 29 drafting**
+> **41 books · 10 complete drafts · 1 in revision · 30 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -23,6 +23,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 4 complete + 1 partial / 18 planned | ~16K | Agentic software turns delegated intention into cheap, persistent, parallel action, creating a productive force that behaves partly like labor and partly like capital. | [Read →](https://svyable.github.io/desk/reader/#/b/agentile/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✍️ Drafting | 4 / 18 | ~14K | America repeatedly separates the decision to spend from the full price—and today's benefit from tomorrow's payer—across federal budgets, healthcare, housing, education, and household credit. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | Front matter / 22 planned | ~1.5K | AI can manufacture confidence, affection, advice, and authority cheaply; keeping promises still requires accountability, verification, and recourse. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
+| [**Austerity Measures**](books/austerity-measures/) | ✍️ Drafting | 1 working manuscript | ~7K | AI can make public administration cheaper, but austerity can turn those gains into institutional hollowing by outsourcing judgment, automating denial, and mistaking lower headcount for state capacity. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✍️ Drafting | 19 / 19 | ~73K | A counterintuitive look at how technology can make rare affinities and self-authored social lives more possible without guaranteeing connection or welfare. | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Last Decade in a Year**](books/exponential-compression/) | ✍️ Drafting | 2 / 11 | ~8K | Exponential change as compression: more technological, economic, and institutional rearrangement packed into less human decision time. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft | 25 / 25 | ~70K | First contact with advanced intelligence may arrive as ordinary work, trust, memory, delegation, and relationship long before society agrees on AGI. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
