@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **46 books · 14 complete drafts · 1 in revision · 31 drafting**
+> **47 books · 15 complete drafts · 1 in revision · 31 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -19,6 +19,7 @@ The table is both a library and part of the Reader contract. The first link in e
 <!-- DESK_CATALOG:START -->
 | Book | Stage | Chapters | ~Words | What it is | Read |
 |---|---|---:|---:|---|---|
+| [**Adjacency**](books/adjacency/) | ✅ Complete draft | 25 / 25 | ~70K | Learned vector spaces make relation navigable: documents, images, products, papers, molecules, memories, and tools become discoverable by adjacency while judgment shifts to deciding which neighborhood deserves trust. | [Read →](https://svyable.github.io/desk/reader/#/b/adjacency/) |
 | [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 2 / 25 | ~3K | As execution gets cheaper, judgment, architecture, novelty, and attention become the scarcer places where advantage can collect. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 4 complete + 1 partial / 18 planned | ~16K | Agentic software turns delegated intention into cheap, persistent, parallel action, creating a productive force that behaves partly like labor and partly like capital. | [Read →](https://svyable.github.io/desk/reader/#/b/agentile/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✍️ Drafting | 20 / 20 | ~65K | When machine cognition becomes abundant, the hard problem moves to routing attention, verification, authority, memory, infrastructure, and human judgment. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |

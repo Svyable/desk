@@ -15,6 +15,7 @@ body:
       label: Book
       description: Which book is this about?
       options:
+        - adjacency
         - aggregate-consolidate-innovate
         - agentile
         - allocating-intelligence
@@ -29,6 +30,7 @@ body:
         - leveraging-luck
         - look-alive
         - make-yourself-useful
+        - open-source
         - predictable
         - proof-of-human
         - scaling-laws
