@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **49 books · 16 complete drafts · 1 in revision · 32 drafting**
+> **50 books · 17 complete drafts · 1 in revision · 32 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -68,6 +68,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | ~20K | Recover elementary truths before cleverness outruns reality: the real objective, binding constraint, earliest veto, broken hand-off, actual incentive, and next concrete action. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | 25 / 25 | ~90K | Open and noisy quantum systems, ambient effects, energy and material interfaces—carefully separating measured evidence from models and speculation. | [Read →](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
 | [**Vectors**](books/vectors/) | ✍️ Drafting | 4 / 25 | ~15K | Vectors from physics through embeddings, search, recommendation, and agents—with the deeper question of who chooses the space and therefore the direction. | [Read →](https://svyable.github.io/desk/reader/#/b/vectors/) |
+| [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | 20 / 20 | ~65K | Geopolitical danger can be real without making a geopolitical script investable; the durable hedge is resilience, diversification, liquidity, and room to be wrong. | [Read →](https://svyable.github.io/desk/reader/#/b/wild-speculation/) |
 <!-- DESK_CATALOG:END -->
 
 ### Keep the dashboard honest
