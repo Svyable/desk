@@ -8,7 +8,7 @@ Then lawmakers try to regulate the category they have inherited.
 
 This is one reason technology regulation can look clumsy even when the underlying concern is legitimate. The law needs definitions. The political argument arrives with metaphors.
 
-The European Union’s AI Act was an ambitious attempt to turn the category into a risk architecture. The law entered into force in August 2024 and began applying in stages. Certain prohibited practices and AI-literacy provisions applied in 2025. Rules for general-purpose AI models began applying later that year. On August 2, 2026, the European Commission and national authorities began enforcing additional provisions, including transparency obligations and rules covering general-purpose models, while important high-risk-system requirements remain scheduled for later phases.
+The European Union’s AI Act was an ambitious attempt to turn the category into a risk architecture. The law entered into force in August 2024 and began applying in stages. Most prohibited-practice rules and AI-literacy duties began applying in February 2025. Obligations for providers of general-purpose AI models began applying in August 2025. On August 2, 2026, the AI Office and national authorities gained enforcement powers over provisions already in application, and Article 50 transparency requirements began applying to covered AI interactions and synthetic content. But the calendar had already changed again: Regulation (EU) 2026/1744, the Digital Omnibus on AI, entered into force in July 2026 and pushed the main high-risk-system rules for Annex III uses to December 2, 2027, while rules for high-risk systems embedded in regulated products are scheduled for August 2, 2028.
 
 This staggered implementation tells a more useful story than the phrase “Europe regulates AI.”
 
@@ -16,7 +16,7 @@ The Act is not one switch.
 
 It is a calendar of obligations.
 
-Some uses are prohibited. Some systems face transparency duties. General-purpose model providers have obligations of their own. High-risk uses receive a separate regulatory structure. Enforcement is divided among European and national institutions. Technical standards, codes of practice, guidelines, and later deadlines fill in parts of the legal framework over time.
+Some uses are prohibited. Some systems face transparency duties. General-purpose model providers have obligations of their own. High-risk uses receive a separate regulatory structure. Enforcement is divided among European and national institutions. Technical standards, codes of practice, guidelines, amendments, and later deadlines fill in parts of the legal framework over time.
 
 That complexity attracts criticism from both directions.
 
@@ -162,7 +162,7 @@ These are not questions engineers can optimize away.
 
 They are governance.
 
-Public pressure can improve the answers by supplying cases regulators would otherwise miss. Patients describe prior-authorization failures. Workers describe automated discipline. artists document unauthorized replicas. Businesses report fraud patterns. Researchers find discriminatory outputs. Journalists expose internal policies.
+Public pressure can improve the answers by supplying cases regulators would otherwise miss. Patients describe prior-authorization failures. Workers describe automated discipline. Artists document unauthorized replicas. Businesses report fraud patterns. Researchers find discriminatory outputs. Journalists expose internal policies.
 
 The regulator translates stories into categories.
 
