@@ -303,3 +303,101 @@ Debt may rise beyond every historical ratio without a cinematic rupture.
 The important question will still be whether Americans can do more with the future than pay for the past.
 
 A wall that never crashes into the car can still determine where the road goes.
+
+## A Crisis Can Be a Decade
+
+The event-based imagination creates a perverse standard of proof.
+
+If there is no failed auction, no emergency IMF program, no run on the currency, and no declared default, then warnings about fiscal deterioration are dismissed as false alarms.
+
+That standard would make many forms of decline invisible.
+
+A household does not need to file for bankruptcy to become financially trapped. It can remain current on every payment while losing the ability to save, move, educate children, change jobs, or absorb a medical shock.
+
+A company can avoid insolvency while spending so much on debt service that it stops investing and slowly loses competitiveness.
+
+A government can do the same thing at national scale.
+
+The relevant unit of crisis may be ten budgets rather than ten trading hours.
+
+Imagine a decade in which every Treasury auction clears and the dollar remains the world's leading reserve currency.
+
+Over the same decade, interest rises faster than revenue.
+
+Congress repeatedly caps discretionary programs below the growth of need.
+
+Infrastructure maintenance is deferred.
+
+Research funding becomes volatile.
+
+Defense modernization competes with retirement benefits.
+
+States absorb more responsibility without equivalent revenue.
+
+Tax provisions are changed in small ways that cumulatively raise the burden.
+
+The Federal Reserve faces political criticism each time it tightens.
+
+Private investment confronts a persistently higher risk-free rate.
+
+No year is catastrophic.
+
+The cumulative change is national.
+
+This is the slow-burn version of a fiscal crisis: the state remains solvent and functional while option value is consumed.
+
+It is difficult to measure because foregone choices leave no transaction record.
+
+There is a budget line for interest.
+
+There is no budget line for the scientific program never created because interest already occupied the room.
+
+There is no line for the smaller emergency response enacted five years later because lawmakers feared the debt trajectory.
+
+There is no line for the private factory that did not pencil out at the new cost of capital.
+
+There is no line for the risk premium embedded in every long-term financing decision because fiscal uncertainty became routine.
+
+The most important costs can be counterfactual.
+
+That makes the dashboard essential.
+
+A slow crisis should be judged by trends that reveal narrowing before the narrowing becomes irreversible.
+
+Watch the primary deficit during ordinary economic conditions. If it remains large when unemployment is low and no emergency is underway, the government is not rebuilding capacity.
+
+Watch net interest relative to revenue. The ratio does not have a magic failure level; its direction shows how much of the tax base is arriving pre-committed.
+
+Watch the maturity structure. A rising dependence on bills can be rational temporarily, but persistent shortening can indicate reluctance to pay the long-term market price of insurance.
+
+Watch long real yields and term premiums alongside growth expectations. Higher yields produced by stronger productivity are different from higher yields produced by a larger premium for uncertainty.
+
+Watch market functioning. If routine issuance increasingly requires outsized concessions, dealer absorption, or official support, the financial infrastructure is struggling to scale.
+
+Watch the dollar in context. Reserve status can remain intact while the convenience premium erodes.
+
+Watch public investment. A fiscal system protecting every inherited commitment by cutting future capacity is stabilizing the numerator by weakening the denominator.
+
+Watch political sequencing. If every adjustment is delayed until the deadline—debt limit, trust-fund depletion, recession, market stress—the system is losing the ability to act voluntarily.
+
+These indicators do not produce a siren.
+
+That is their value.
+
+They make it possible to act before a siren is necessary.
+
+The no-crisis scenario is therefore not an argument for ignoring the wall.
+
+It is the strongest argument for dealing with it methodically.
+
+A sudden crisis at least produces focus.
+
+A decade of narrowing can be normalized one budget at a time until people forget the range of choices the country once had.
+
+The purpose of fiscal policy is not merely to avoid bankruptcy.
+
+It is to preserve the capacity to choose.
+
+If that capacity survives, the crisis truly never came.
+
+If it disappears quietly, the absence of a headline will not have saved anything that mattered.
