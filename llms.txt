@@ -34,6 +34,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Look Alive](https://svyable.github.io/desk/books/look-alive/README.md)
 - [Make Yourself Useful](https://svyable.github.io/desk/books/make-yourself-useful/README.md)
 - [Open Source](https://svyable.github.io/desk/books/open-source/README.md)
+- [Orbital](https://svyable.github.io/desk/books/orbital/README.md)
 - [Predictable](https://svyable.github.io/desk/books/predictable/README.md)
 - [Proof of Human](https://svyable.github.io/desk/books/proof-of-human/README.md)
 - [Public Pressure](https://svyable.github.io/desk/books/public-pressure/README.md)
