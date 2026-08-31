@@ -124,6 +124,24 @@ The first solar farm added to a summer-peaking grid may reduce peak demand on co
 
 It is relational.
 
+PJM, the regional grid operator serving all or part of thirteen states and the District of Columbia, makes that relationship unusually visible because it publishes an accreditation called effective load carrying capability, or ELCC. The point of the calculation is not to ask how much electricity a resource can produce in a year. It is to estimate how much adding that resource changes the system’s ability to meet demand during periods when shortage risk is highest.
+
+The answer moves.
+
+For PJM’s 2028/2029 Base Residual Auction, the final class ratings published in February 2026 assigned fixed-tilt solar an ELCC of 7 percent and tracking solar 10 percent. Four-hour storage was rated at 59 percent, six-hour storage at 68 percent, eight-hour storage at 71 percent, and ten-hour storage at 78 percent. Nuclear was rated at 96 percent, coal at 85 percent, gas combined cycle at 78 percent, and single-fuel gas combustion turbines at 67 percent.
+
+Those numbers can look like a league table if they are detached from the model that produced them. They are not.
+
+In an earlier PJM auction, fixed-tilt solar had been rated at 9 percent and tracking solar at 14 percent. The hardware did not become intrinsically less dependable in the interval. The modeled system changed: load shape, fleet composition, outage assumptions, storage, weather, and the timing of risk all affect how much another unit helps. PJM has explicitly noted that a greater share of winter reliability risk can shift class ratings.
+
+This is why accreditation should be read as a property of a resource inside a particular system, not as a permanent engineering badge. A four-hour battery can be extraordinarily valuable when the dominant scarcity event lasts three hours and much less decisive when the hard event stretches across a long winter night or several low-renewable days. A solar plant can contribute substantially to a summer afternoon peak and very little to a winter evening peak. A thermal generator with fuel constraints can look firm in a nameplate table and disappoint during a correlated fuel-system failure.
+
+The model boundary matters too. ELCC estimates depend on assumptions about future demand, forced outages, weather, storage dispatch, imports, and the resource mix itself. PJM publishes assumed resource mixes, hourly load scenarios, and critical performance hours alongside its results because the numbers only make sense in that context.
+
+The useful lesson is not that one set of ELCC values has settled the argument.
+
+It is that reliability value is something a system produces.
+
 Storage has the same property.
 
 The first few batteries can capture high-value price spreads and cover short peaks. As more batteries are added, the easiest arbitrage opportunities shrink and the residual reliability problem may stretch across longer periods. The value of another four-hour battery depends on how many other four-hour batteries already exist and what the net-load shape has become.
