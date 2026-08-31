@@ -337,3 +337,141 @@ That demand can become excessive. It can also become a design principle.
 The machine will be wrong.
 
 The question is whether the institution built around it has already decided who deserves the bill.
+
+One way to force the decision earlier is an error reserve.
+
+Banks reserve against credit losses. Insurers reserve against claims. Companies accrue warranty costs. A business launching consequential automation can estimate the expected cost of review, correction, compensation, incident response, and insurance rather than treating those expenses as extraordinary surprises.
+
+The reserve does not need to be a formal accounting category to change management behavior.
+
+It can begin as a product assumption.
+
+If this system makes one million decisions, how many will require review?
+
+What will each review cost?
+
+How many errors could create direct financial remediation?
+
+What happens if a flawed model version affects an entire cohort?
+
+What is the cost of shutting the system down while it is repaired?
+
+What support capacity exists during an incident?
+
+Once these numbers enter the business case, “automation savings” becomes more honest.
+
+A product that saves ten million dollars in labor while generating eight million dollars in remediation burden did not create the advertised efficiency merely because the second number was omitted at launch.
+
+Error reserves also expose incentives around claim friction.
+
+A company can theoretically owe compensation while making the process difficult enough that few people collect it. Long forms, narrow deadlines, confusing eligibility, repeated document requests, and low-dollar individual claims can reduce payout without reducing harm.
+
+This is the same recourse problem in financial form.
+
+The remedy is not meaningful merely because it exists.
+
+A remediation program should be judged by take-up among eligible people, time to payment, error in eligibility decisions, accessibility, and whether the company can identify affected people proactively.
+
+A low claim rate is ambiguous.
+
+Maybe few people were harmed.
+
+Maybe the process worked.
+
+Maybe nobody could get through it.
+
+Institutions need independent ways to tell.
+
+Some harms also create causal problems expensive enough that ordinary fault litigation may be a poor mechanism.
+
+A model contributes to a decision along with several people and data sources. The harm is real, but isolating the exact causal share of each actor could cost more than the underlying loss.
+
+In narrow domains, no-fault or presumptive compensation systems can sometimes outperform endless argument about blame. Society already uses variants of this idea in workers’ compensation and other specialized schemes: compensate defined injuries under defined rules while reserving fault-based litigation for other cases.
+
+AI does not automatically justify a new compensation bureaucracy.
+
+The design becomes worth considering where three conditions meet: harms are predictable, individual causation is unusually expensive to prove, and the responsible industry can spread the cost more efficiently than victims can bear it.
+
+A no-fault structure trades moral precision for administrative speed.
+
+That tradeoff should be explicit.
+
+It may be appropriate for some classes of automated error and inappropriate for others, especially intentional misconduct where fault matters greatly.
+
+Insurance will pressure this debate because insurers prefer risks they can model.
+
+A company that cannot describe which actions its agents can take, how appeals work, how often models are overridden, or how incidents are logged is difficult to underwrite. The uncertainty becomes price.
+
+This can create a private governance standard before legislation catches up.
+
+Insurers may demand permission controls, evaluation records, incident response, contractual allocation with vendors, and remediation plans. Large customers may demand the same things through procurement.
+
+The market begins selecting among AI systems partly by governability rather than capability alone.
+
+This is a healthy development if the controls correlate with real safety.
+
+It can become a barrier to entry if underwriting checklists simply reward large firms able to produce paperwork. Evidence should remain the goal.
+
+Did the control reduce loss?
+
+Did the review catch errors?
+
+Did the company remediate quickly?
+
+Were repeat incidents lower after the change?
+
+The insurer should want the same answer the public wants: does the mechanism work?
+
+Cost allocation can also improve competition.
+
+If one vendor produces a cheaper model by externalizing more errors onto customers, price alone makes it look superior. Once deployers bear meaningful remediation costs, the vendor with better reliability may become cheaper over the full lifecycle even if its usage fee is higher.
+
+Liability and insurance can therefore reveal quality that benchmark marketing obscures.
+
+The market starts pricing the cost of being wrong.
+
+This is especially important for systems sold as productivity tools. The license price is visible. Review time, downstream rework, customer correction, professional liability, and reputational incidents are scattered across budgets. A company can believe AI improved productivity because the savings sit in one department and the mistakes sit in three others.
+
+Full-cost accounting needs cross-functional data.
+
+How much time did workers spend verifying generated output?
+
+How much customer support came from automated mistakes?
+
+How many legal reviews were triggered?
+
+How many incidents required rollback?
+
+How many decisions had to be rerun?
+
+The organization may discover that some uses are extremely valuable and others were automation theater.
+
+That is not anti-AI.
+
+It is capital discipline.
+
+Public pressure can improve that discipline by forcing hidden costs into management sight.
+
+A patient’s hours matter even if the insurer does not reimburse them.
+
+A worker’s lost shift matters even if the platform restores the account later.
+
+A falsely accused customer’s humiliation matters even if no damages are awarded.
+
+Not every human cost can or should be monetized exactly.
+
+The impossibility of perfect pricing is not a reason to price it at zero.
+
+The deepest function of compensation is therefore informational.
+
+It tells the institution that a particular kind of error has crossed from abstract quality into somebody else’s life.
+
+The payment, reinstatement, correction, or restoration is the receipt.
+
+An accountable company reads the receipt backward into the product.
+
+How do we make fewer of these?
+
+How do we make the next one cheaper for the person who did not cause it?
+
+That is how the cost of being wrong becomes the value of getting better.
