@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **45 books · 13 complete drafts · 1 in revision · 31 drafting**
+> **46 books · 14 complete drafts · 1 in revision · 31 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -34,6 +34,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 / 10 | ~45K | *An Optimistic Guide to Life*: a book about increasing exposure to favorable randomness while becoming the kind of person able to notice and use it. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 / 21 | ~75K | A field guide to AI systems that game, deceive, flatter, reward-hack, hide capabilities, notice evaluations, or learn to look aligned. | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 / 12 | ~12K | Small useful acts compound into reputation, access, opportunity, trust, and eventually greater freedom to choose what you work on. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
+| [**Open Source**](books/open-source/) | ✅ Complete draft | 18 / 18 | ~68K | When model weights become cheap to copy, value and power migrate to chips, clouds, hubs, runtimes, licenses, private data, maintenance, and credible exit. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
 | [**Predictable**](books/predictable/) | ✍️ Drafting | 12 / 12 | ~45K | Transformative technology can be real while its capital and pricing cycle destroys fortunes; prediction markets become a lens on what people actually believe. | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 / 29 | ~100K | When synthetic abundance makes convincing content cheap, provenance, personhood, verification, and costly authenticity become scarce economic goods. | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 4 / 25 | ~16K | Scale changes systems qualitatively: bottlenecks move, coordination changes, rare events appear, and rules that worked in one regime fail in another. | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
