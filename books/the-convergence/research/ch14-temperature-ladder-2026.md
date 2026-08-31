@@ -40,6 +40,22 @@ The hydrogen discussion should remain bounded. Hydrogen made by electrolysis is 
 
 The cement discussion must preserve process emissions. Electrifying heat does not remove calcination CO2. The steel discussion must distinguish scrap-based electric arc furnaces from primary ironmaking; EAF deployment does not by itself eliminate the need for a low-emissions primary iron route where scrap supply or quality is insufficient.
 
+## 2026 completion-pass verification
+
+DOE’s current process-heat material independently confirms the manuscript’s 2018 baseline: process heating accounted for 51% of onsite U.S. manufacturing energy use. DOE also notes that roughly one-third of process-heating energy is ultimately lost as waste heat. That supports a stronger systems interpretation of industrial decarbonization: some of the opportunity is not fuel substitution at all, but reducing the amount of heat that must be supplied in the first place through recovery, direct heating, better integration, and different process design.
+
+Source: https://www.energy.gov/cmei/ito/finding-efficiencies-process-heat
+
+The IEA’s *Heat Pump Monitor 2026* keeps the 20% technical-potential figure tightly bounded. It says commercially available heat pumps could technically supply up to around one-fifth of global industrial heat demand, mainly at low and medium temperatures, while deployment remains low and integration economics are often difficult. Japan, one of the more advanced markets, had nearly 650 MW of installed industrial heat-pump capacity in 2024, enough for only around 1% of light-industrial heat demand. The contrast between technical potential and installed penetration is more useful to the chapter than the potential number by itself.
+
+Source: https://www.iea.org/reports/heat-pump-monitor-2026/key-findings
+
+### Strongest counterargument after verification
+
+The chapter risks making the “temperature ladder” sound more rigid than it is. Temperature alone does not determine electrifiability. A very high-temperature process can sometimes be well suited to electric arcs, induction, plasma, or other electrothermal methods, while a lower-temperature brownfield process can remain economically stubborn because downtime, steam-system integration, space, electricity tariffs, or grid capacity dominate the decision. The ladder is therefore a useful physical map, not a one-dimensional ranking of difficulty.
+
+The most defensible formulation is: **temperature narrows some technology choices, but process chemistry, equipment geometry, capital turnover, reliability requirements, and infrastructure determine whether that physical possibility becomes an industrially useful one.**
+
 ## Falsification triggers for later revision
 
 Revisit this chapter if:
@@ -53,4 +69,5 @@ Revisit this chapter if:
 ## Source links
 
 - U.S. Department of Energy, *Industrial Decarbonization Roadmap*: https://www.energy.gov/sites/default/files/2022-09/Industrial%20Decarbonization%20Roadmap.pdf
+- U.S. Department of Energy, *Finding Efficiencies in Process Heat*: https://www.energy.gov/cmei/ito/finding-efficiencies-process-heat
 - International Energy Agency, *Heat Pump Monitor 2026 — Key findings*: https://www.iea.org/reports/heat-pump-monitor-2026/key-findings
