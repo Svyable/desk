@@ -31,6 +31,7 @@
 - [x] [Ch 18 — What Must Stay Human](manuscript/ch18-what-must-stay-human.md)
 - [x] [Ch 19 — The School That Knows Why](manuscript/ch19-the-school-that-knows-why.md)
 - [x] [Ch 20 — The Intelligence Dilemma](manuscript/ch20-the-intelligence-dilemma.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
