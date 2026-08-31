@@ -213,3 +213,51 @@ Sequencing made that conversion possible by changing the unit of information fro
 The machine did not cure cancer.
 
 It changed the question from “Which drug fits this cancer?” to “What, in this cancer, can be turned into the drug?”
+
+That question begins before the sequencer is switched on.
+
+The pathologist has to decide what material is actually being sequenced.
+
+Tumor purity is not a footnote. A specimen labeled tumor can contain malignant cells, immune cells, fibroblasts, blood vessels and normal tissue in varying proportions. A mutation present in every cancer cell may therefore appear in only a fraction of sequencing reads. A subclonal mutation can appear rarer still. Copy-number changes can move the expected fractions in both directions. Computational purity estimates help, but they are themselves estimates.
+
+The same slide can answer different questions depending on who marks it.
+
+A pathologist choosing an area for DNA extraction may enrich for viable tumor. Another laboratory may macrodissect a different region. A later recurrence may carry mutations absent from the original block. A small core biopsy may simply miss a branch of the tumor's evolutionary tree.
+
+Personalization is constrained by sampling.
+
+This is one reason archival tissue creates both opportunity and risk. A block removed months or years earlier may be the only material available without another invasive procedure. It can be sufficient for a useful molecular analysis. It can also describe an earlier version of a disease that has since been exposed to chemotherapy, targeted drugs or immune pressure.
+
+The question is not merely whether the DNA can still be read.
+
+It is whether the specimen still represents the problem being treated.
+
+Clinical sequencing therefore needs provenance almost as much as it needs depth.
+
+Where did the sample come from? Primary tumor or metastasis? Before or after systemic therapy? How much viable tumor was present? How was it fixed? How long was it stored? Which assay version processed it? What reference and pipeline versions were used? Which variants fell near thresholds and which were called with high confidence?
+
+Those details look like laboratory administration until a personalized product is built from them.
+
+Then provenance becomes part of the drug record.
+
+Reproducibility also changes meaning in this setting.
+
+Two clinical laboratories do not need to produce identical raw files. They do need to produce results close enough that clinically meaningful variants do not appear and disappear because of ordinary procedural differences. If two validated pipelines identify materially different neoantigen candidates from the same specimen, the discrepancy has to be understood rather than hidden behind the word personalized.
+
+This is the point at which standards become an innovation technology.
+
+Common file formats, reference materials, proficiency testing, variant nomenclature and quality metrics do not make headlines. They allow laboratories, hospitals, software systems and manufacturers to exchange results without renegotiating the meaning of every field. A distributed personalized-medicine industry becomes possible only when enough of the boring interfaces are stable.
+
+The same logic applies to negative results.
+
+A report saying no suitable target was found can be clinically important. It should mean the search was performed adequately and the evidence did not support manufacture, not that the tissue failed silently, the HLA call was uncertain or the pipeline excluded a mutation for an undocumented reason.
+
+Failure needs a vocabulary.
+
+Insufficient tissue is different from insufficient sequencing quality. Insufficient expression is different from weak predicted HLA presentation. Manufacturing infeasibility is different from biological uncertainty. Each failure suggests a different remedy, and only some remedies require another biopsy.
+
+The cost of precision medicine is partly the cost of making those distinctions reliably.
+
+Sequencing became cheap enough to change the question.
+
+The harder achievement was making the answer trustworthy enough to manufacture from it.
