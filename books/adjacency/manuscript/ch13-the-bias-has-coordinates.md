@@ -319,3 +319,123 @@ The instrument will find it.
 We should want it to.
 
 Then we should decide carefully what to do with what it found.
+
+## Unequal Resolution
+
+Bias is often discussed as the presence of a harmful association.
+
+There is another form: the map can simply be sharper for some people, languages and domains than for others.
+
+Imagine two users asking the same underlying question. One phrases it in the language that dominates the training corpus. The other uses a dialect, regional expression or code-switching pattern that appeared less often. Both queries receive vectors of identical length. Both are processed by the same search infrastructure. The first may land cleanly in the intended neighborhood while the second lands somewhere noisier.
+
+The interface presents equality.
+
+The representation delivers different resolution.
+
+This is difficult to detect with benchmarks built from polished standard-language queries. Average retrieval scores can look excellent while a meaningful subset of users pays a larger translation tax.
+
+A system can therefore reproduce inequality without assigning any explicitly negative label.
+
+It merely makes some intentions easier to locate.
+
+The same thing happens across professional domains. A general embedding may understand software documentation well because the training data contains abundant technical prose. It may perform less reliably on a specialized craft whose terminology is rarely digitized. One scientific subfield may have millions of papers; another may have sparse literature. One cultural archive may be richly captioned; another may contain images with little surviving metadata.
+
+The vector space covers everything numerically.
+
+The evidence beneath the coordinates is uneven.
+
+This suggests a practical audit that is simpler than trying to interpret every dimension: compare equivalent intentions across forms of expression.
+
+Ask the same question in formal and colloquial language.
+
+Ask it in several languages when the application claims multilingual support.
+
+Describe the same product with expert terminology and novice language.
+
+Use a résumé with conventional titles and another describing transferable work through a nonstandard career path.
+
+Search the same historical concept using the vocabulary of the dominant institution and the vocabulary used by the community being described.
+
+Then compare the neighborhoods.
+
+The point is not that every phrasing should return identical results. Language carries legitimate differences. The point is to discover when surface form creates a retrieval penalty unrelated to the user's actual need.
+
+This is accessibility for meaning.
+
+A physical building can technically admit everyone through one entrance while still being far easier for some bodies to navigate. A semantic system can technically accept every string while still requiring some users to translate themselves into the model's preferred language.
+
+The most interesting fairness improvements may therefore look like better retrieval engineering rather than explicit demographic intervention.
+
+Better multilingual representation.
+
+Better domain adaptation.
+
+Hard-negative training on distinctions that matter locally.
+
+Query expansion that recognizes community terminology.
+
+User controls that allow widening or correcting the neighborhood.
+
+Human review for cases where the representation is known to be weak.
+
+These are ways of increasing resolution where the map was blurry.
+
+There is a parallel issue on the supply side. Creators, candidates, researchers and products can also be poorly represented.
+
+A new creator with little behavioral history may have a content embedding but no stable audience embedding. A worker whose skills were acquired outside conventional institutions may be semantically harder to match to familiar job titles. Research written in a low-visibility venue may have weak citation signals. A small merchant may provide sparse product descriptions compared with a large retailer that invests heavily in metadata.
+
+Poor representation becomes poor discoverability.
+
+This creates a compounding effect. Items that receive less exposure generate less behavioral data. Less data makes their learned position less certain. The uncertain position can reduce future exposure.
+
+Visibility becomes a source of representational quality.
+
+Representational quality becomes a source of visibility.
+
+The loop is not inevitable. Content-based representations can help new items enter neighborhoods before interaction history accumulates. Exploration policies can spend attention on uncertain candidates. Explicit metadata can compensate for sparse behavior. But the product has to choose to value those mechanisms.
+
+Otherwise the map can become better at locating what the previous map already made visible.
+
+This is why adjacency audits should include the unseen.
+
+Do not inspect only the top results.
+
+Ask which qualified candidates never appear.
+
+Which creators never receive test exposure?
+
+Which relevant documents are consistently retrieved below the cutoff?
+
+Which languages require more exact wording?
+
+Which scientific communities remain disconnected despite conceptual overlap?
+
+A system can look fair inside the visible neighborhood while excluding people or knowledge before anyone evaluates them.
+
+The bias is not in how the candidates are ranked.
+
+It is in who became a candidate.
+
+This distinction matters for regulation and accountability because downstream human review can only correct errors it gets to see. A recruiter may be scrupulously fair among twenty retrieved résumés while the retrieval stage systematically excludes unconventional experience. A clinician may carefully review five analogous cases while the rare but important case ranks sixth. A recommendation editor may promote diverse work among candidates already filtered through a narrow behavioral model.
+
+Human judgment does not erase upstream selection.
+
+It inherits it.
+
+The right response is not to demand that every vector space become equally precise everywhere. That is impossible. Models have limited data and tasks have different requirements.
+
+The response is to know where resolution is uneven and decide whether the consequence is acceptable.
+
+A poetry-recommendation system can tolerate a great deal of fuzziness. An employment-screening system cannot treat unexplained representation gaps with the same casualness.
+
+The cost of blur depends on what blur can deny.
+
+That returns fairness to the institutional level where it belongs.
+
+A model contains statistical structure.
+
+An institution decides which statistical structure becomes access, opportunity, suspicion or silence.
+
+The coordinates can help us see the pattern.
+
+They cannot tell us what minimum resolution people are owed.
