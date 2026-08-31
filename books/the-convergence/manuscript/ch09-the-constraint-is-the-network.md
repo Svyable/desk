@@ -68,7 +68,7 @@ You cannot fix a congested line by asking electrons to be reasonable.
 
 The result is a peculiar kind of scarcity. The system may not be short of fuel or even generating equipment. It can be short of transfer capability at a particular hour.
 
-DOE's draft 2026 National Transmission Needs Study makes that timing visible. Its congestion analysis finds that the majority of measured transmission congestion is concentrated in roughly 5 percent of hours, particularly during periods of high net load, cold weather, large day-ahead versus real-time price differences, and high variable generation.
+DOE's draft 2026 National Transmission Needs Study makes that timing visible. Its detailed congestion analysis finds that half of transmission congestion value occurs in roughly 5 percent of hours. Those peak-value periods are driven mainly by conditions unforeseen or mis-forecast roughly 12 to 36 hours ahead, with high net load and cold weather also important.
 
 That is not evidence that the grid is fine 95 percent of the time.
 
