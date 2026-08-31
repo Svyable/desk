@@ -178,6 +178,32 @@ A network with several feasible paths can absorb surprises better than one depen
 
 The most valuable network may be the one that leaves the next planner several good choices.
 
+That creates a planning problem that is easy to miss when every investment must be justified by a project already standing in line.
+
+Reactive planning sounds prudent because it waits for evidence. A factory requests service, a generator requests interconnection, congestion appears, and only then does the system build the upgrade. The trouble is that large network assets often arrive on a slower clock than the projects asking for them. By the time demand becomes undeniable, the infrastructure needed to serve it may already be late.
+
+The opposite approach has its own danger. Building ahead of demand can produce stranded assets, political backlash, and bills for customers who never receive the promised benefit. Forecasts are fallible. Developers change plans. Technologies move. A corridor built for one future can be poorly placed for the future that actually arrives.
+
+Anticipatory capacity therefore cannot mean guessing confidently and pouring concrete.
+
+It means treating some network investments as options rather than as answers to a single forecast. A larger substation site can leave room for another transformer. A corridor can preserve the possibility of another circuit. Equipment standards can make future expansion less bespoke. Planning can test several plausible demand and generation patterns instead of optimizing around one official projection.
+
+The point is not to build every possible upgrade early. It is to notice when a small decision now preserves a much cheaper decision later.
+
+This is where cost allocation becomes more than an accounting fight.
+
+A narrowly assigned upgrade charge can make sense when one project clearly causes one local need. It becomes harder when the upgrade creates capacity that several future users may share, improves reliability beyond the first customer, or changes the feasible geography of later projects. The first entrant can end up being asked to pay for infrastructure whose benefits will outlive it.
+
+That can create a rational reason to wait.
+
+If every developer hopes someone else will trigger the network expansion first, a system can remain underbuilt even when many participants would benefit from the finished asset. The coordination problem then resembles other public infrastructure: the value is collective, the initiating decision is local, and the timing of who pays can determine whether anything happens.
+
+There is no universal solution. Socializing too much cost can reward speculative projects and shift risk onto customers. Assigning too much cost to the first mover can suppress useful investment. The design problem is to make beneficiaries bear costs without pretending that network benefits always belong to one beneficiary.
+
+This is not a side issue to energy abundance.
+
+It is one of the mechanisms that decides whether abundance is allowed to arrive before the queue proves, one project at a time, that it was needed.
+
 This shifts the meaning of energy abundance.
 
 Abundance is often pictured as a field of solar panels, a nuclear plant, a geothermal well, or some future machine producing huge amounts of power. Generation is the visible symbol because generation makes the energy.
