@@ -496,6 +496,194 @@ Machines do not need legitimacy.
 
 Institutions do.
 
+If there is a constitution for automated institutions, it is not a document written once.
+
+It is a set of recurring constraints on delegated power.
+
+Authority should be bounded before it is exercised.
+
+The system should reveal which principal it represents when representation matters.
+
+Consequential actions should leave enough evidence to reconstruct what happened.
+
+The person affected should receive reasons sufficient to contest the decision.
+
+Review should be independent enough that the first decision can genuinely lose.
+
+Irreversible actions should require stronger controls than reversible ones.
+
+The institution should compensate or restore when its error creates a defined harm.
+
+Someone should be able to stop the system without needing to destroy a career.
+
+Someone outside the institution should have jurisdiction when internal controls fail.
+
+Rules should be evaluated against outcomes rather than treated as moral certificates.
+
+These principles do not answer every policy question.
+
+They create a grammar for asking better ones.
+
+Should this system require human approval?
+
+Look at reversibility and consequence.
+
+Who should be liable?
+
+Look at knowledge, control, benefit, and repair capacity.
+
+How much transparency is necessary?
+
+Look at what the affected person and independent reviewer need to contest the action.
+
+Should the model provider or deployer bear the duty?
+
+Look at which part of the chain each can actually change.
+
+Does the public need to know every internal detail?
+
+No.
+
+Does somebody independent need enough access to verify serious claims?
+
+Often yes.
+
+This grammar is deliberately less exciting than a theory of machine consciousness.
+
+It is designed for institutions that have to open on Monday.
+
+The next decade will produce arguments far beyond the cases in this book. Agents will negotiate purchases. Models will write more software. Synthetic people will appear in entertainment and customer service. Government agencies will automate parts of administration. Scientific systems will produce claims no individual researcher could have generated alone. Companies will delegate more operational authority to software because the economic incentive is strong.
+
+The cases will change.
+
+The pressure pattern will not.
+
+A system gains authority faster than the surrounding institution gains recourse.
+
+Somebody is harmed or excluded.
+
+The ordinary channel fails.
+
+The grievance becomes public.
+
+A visible executive or politician becomes the interface.
+
+The institution promises review.
+
+The public asks whether the review has teeth.
+
+The cycle ends when the institution changes the mechanism or when attention moves on.
+
+That cycle can be improved.
+
+Imagine an insurer where a patient sees the reason for an automated recommendation, can correct missing information, receives expedited review when delay threatens care, and knows that repeated reversals trigger cohort review.
+
+Imagine an employer where automated screening is validated, applicants receive meaningful notice, disability accommodations work, and managers can override without career penalty.
+
+Imagine a model company where agent permissions expire, high-impact actions have blast-radius limits, safety objections enter a board-visible record, and serious incidents trigger independent review.
+
+Imagine a campaign where official synthetic media is authenticated and deceptive impersonation can be distinguished from parody without requiring government control of ordinary political truth.
+
+Imagine a platform where corrections propagate to the audience that saw the original false claim and where sanctions based on unverified synthetic evidence remain reversible.
+
+None of these institutions is utopian.
+
+They still make mistakes.
+
+They still disappoint people.
+
+They still face lawsuits, regulation, labor disputes, and criticism.
+
+The difference is that the person affected does not need to become famous before the institution becomes capable of hearing them.
+
+That is the political promise hidden inside good system design.
+
+Public pressure becomes less spectacular because ordinary recourse absorbs more of it.
+
+This should be a goal, not a threat to activism.
+
+The best consumer movement creates a safer product and therefore fewer future campaigns about the same defect.
+
+The best labor rule makes routine bargaining possible without a strike every time the technology changes.
+
+The best regulator creates enough predictable oversight that scandal is not the only enforcement signal.
+
+The best company handles the embarrassing case before a journalist is the first human with authority who listens.
+
+Public pressure succeeds when it makes itself less necessary for the same problem.
+
+That principle gives institutions a positive target.
+
+Do not optimize for fewer critics.
+
+Optimize for fewer people who have to become critics because the normal system gave them no other role.
+
+That is different from reputation management.
+
+A company can suppress complaints and appear quieter.
+
+A government can make appeals harder and report fewer challenges.
+
+A platform can bury criticism and reduce visible conflict.
+
+Silence is not legitimacy.
+
+The relevant metric is the distance between injury and empowered response.
+
+How many steps?
+
+How many days?
+
+How much expertise?
+
+How much money?
+
+How much audience?
+
+How much fear?
+
+The smaller those requirements become, the less pressure has to accumulate before the system moves.
+
+This is a useful way to think about power in the AI age.
+
+Power is not only the ability to make the first decision.
+
+It is the ability to force reconsideration.
+
+A corporation has power when it can automate a million decisions.
+
+A person has power when one of those decisions can be reopened without needing a million followers.
+
+A regulator has power when it can inspect the hidden system.
+
+A court has power when it can require evidence.
+
+A worker has power when saying no does not require martyrdom.
+
+A movement has power when its demand becomes a durable rule.
+
+A CEO has legitimate power when the institution can remain accountable even if the CEO is not in the room.
+
+These forms of power are compatible.
+
+That is the alternative to imagining the AI backlash as a war between progress and the public.
+
+The technology can become more capable while the public becomes more capable of contesting its use.
+
+Companies can move faster while building stronger brakes.
+
+Governments can regulate serious risks without pretending every model is the same thing.
+
+Workers can gain tools without surrendering all bargaining power over what the tools do to work.
+
+Creators can use generative systems while negotiating rights around training, replicas, attribution, and compensation.
+
+Consumers can benefit from automation while expecting the institution to stand behind the automated interface.
+
+Progress and accountability are not opposing destinations.
+
+Accountability is what makes progress politically survivable.
+
 The pressure will keep coming.
 
 That is not a failure of democracy or markets. It is evidence that people still expect systems with power over them to answer back.
