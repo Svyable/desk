@@ -217,3 +217,91 @@ The future question is whether society keeps replenishing the common substrate o
 The state paid for the map because no one knew which road would matter.
 
 Now that one road may lead to a valuable medicine, the map should not disappear.
+
+The scale of public research becomes clearer when a single institute's budget is placed inside the larger NIH system.
+
+In fiscal year 2025, NIH reported a total appropriation of roughly $48.5 billion and about $35.3 billion in grant investments. Those numbers do not tell us what the government spent on personalized cancer vaccines. They tell us why trying to assign one product a precise public-cost basis can become misleading.
+
+The system funds a portfolio whose branches recombine.
+
+A grant on antigen presentation may later matter to cancer, infectious disease and autoimmunity. A sequencing method developed for rare disease can become part of an oncology pipeline. A statistical method built for one clinical-trial network can be used elsewhere. A trainee supported in a university laboratory may later lead research inside a pharmaceutical company.
+
+The output is not only papers and patents.
+
+It is capability distributed through people and institutions.
+
+That makes public investment difficult to value with the tools used for a startup.
+
+A venture fund can calculate the return on an investment because ownership creates a measurable claim on the company's future cash flows. NIH does not own a pro rata share of every biotechnology company that hires a grantee or uses an open database. Its return arrives through health gains, knowledge, labor-force development, new firms, tax revenue and lower costs for later research.
+
+Some of those returns are diffuse enough to become invisible.
+
+That invisibility can create two opposite political errors.
+
+One is to claim that public research created the finished commercial product and therefore deserves nearly all of the economic credit.
+
+The other is to treat the public contribution as irrelevant because no federal agency ran the pivotal trial or built the final factory.
+
+Both confuse layers.
+
+The state is often strongest where commercial ownership is weakest: basic mechanisms, reference data, standards, long-horizon cohorts, training, infrastructure and experiments with uncertain product paths. Industry is often strongest where accountability for a defined product becomes concentrated: engineering, manufacturing, regulatory development, commercialization and scale.
+
+The boundary moves by technology.
+
+When sequencing was exotic, governments and universities helped build capacity. As sequencing became routine, private laboratories scaled it into services. If individualized manufacturing eventually becomes routine too, public cancer centers may be able to operate portions of the platform that currently seem inherently proprietary.
+
+The public/private balance is not a constitutional property of the science.
+
+It is a function of what has become standardized.
+
+This is why government procurement can matter as much as government invention.
+
+A public payer does not need to own the platform to shape it. It can require evidence, negotiate prices where permitted, define coverage conditions, reward shorter turnaround, require outcome reporting or support competing suppliers. A health system that purchases at scale can create incentives no research grant can create upstream.
+
+The public participates in the market as buyer as well as funder.
+
+Those roles should be kept conceptually separate because each has different leverage.
+
+A grant agreement made twenty years before a therapy exists cannot anticipate every affordability problem. A procurement contract signed after efficacy is known can respond to the actual bottleneck. If capacity is scarce, the contract can support expansion. If data are siloed, it can require reporting. If price is excessive relative to alternatives, it can bargain over price.
+
+The closer policy gets to the real constraint, the less symbolic it becomes.
+
+There is also a reason to preserve public laboratories even after a field commercializes.
+
+A private company has to prioritize programs with a plausible path to return. That discipline is healthy, but it leaves scientifically important questions stranded. Which neoantigen strategies work in very rare cancers? Which combinations are clinically useful but commercially unattractive because key components are generic? Can a cheaper peptide platform approximate the benefit of a proprietary mRNA system? What happens in HLA groups too small to justify a dedicated commercial program?
+
+A public research system can keep those questions alive.
+
+It can also serve as a technical counterparty capable of evaluating industry claims. Regulators and payers are stronger when expertise does not reside exclusively inside the companies they oversee or reimburse.
+
+Expertise is a form of state capacity.
+
+If every scientist capable of assessing target-selection algorithms, manufacturing comparability or immune monitoring works for a product sponsor, the formal power to regulate means less in practice.
+
+Training grants and intramural programs therefore generate a public return even when their alumni leave government.
+
+They enlarge the labor market from which independent expertise can later be rebuilt.
+
+The map metaphor has one final implication.
+
+Maps become more valuable when travelers add information.
+
+The first public genomic atlases described tumors before widespread personalized treatment. A future map could connect tumor genotype, HLA type, selected targets, manufactured products, immune responses, ctDNA trajectories and clinical outcomes across thousands of patients.
+
+That map would be vastly more useful for the next generation of therapies.
+
+It is also exactly the kind of asset that can become proprietary by default because the data arise inside commercial care.
+
+If public payers finance a substantial share of those treatments, there is a reasonable policy question about whether some learning should return to a protected common resource.
+
+Not every raw genome needs to become public. Genomic privacy is real, re-identification risk matters and consent has boundaries. But privacy and monopoly are not synonyms. Federated analysis, controlled-access repositories, standardized aggregate reporting and validated benchmark datasets can preserve useful common knowledge without posting patient genomes on an open website.
+
+The public map does not have to contain every house number to remain navigable.
+
+The most important public return from the first generation of personalized cancer therapy may therefore be a better map for the second.
+
+That would fit the history.
+
+Government rarely wins by guessing the final product.
+
+It wins by making more good guesses possible.
