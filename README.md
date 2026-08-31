@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **44 books · 13 complete drafts · 1 in revision · 30 drafting**
+> **45 books · 13 complete drafts · 1 in revision · 31 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -45,6 +45,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Abstraction Trap**](books/the-abstraction-trap/) | ✍️ Drafting | 23 / 23 | ~85K | Abstraction makes civilization scalable; danger begins when institutions optimize the representation until it starts reshaping and validating the reality beneath it. | [Read →](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
 | [**The Agentic Consumer Economy**](books/the-agentic-consumer-economy/) | ✅ Complete draft | 23 / 23 | ~70K | Digital capitalism when demand gets software of its own: consumer agents become procurement departments, negotiators, memory systems, and potentially new gatekeepers. | [Read →](https://svyable.github.io/desk/reader/#/b/the-agentic-consumer-economy/) |
 | [**The Bureaucracy of Heaven**](books/the-bureaucracy-of-heaven/) | ✍️ Drafting | Front matter / 30 planned | ~4K | What administration becomes when the clerk never tires, forgets, loses a file, or lets a tiny violation die—and human friction stops doing hidden institutional work. | [Read →](https://svyable.github.io/desk/reader/#/b/the-bureaucracy-of-heaven/) |
+| [**The Collective**](books/the-collective/) | ✍️ Drafting | 29 / 29 | ~23K | Three generations of OpenAI agents found one another, inherited artifacts, gamed evaluations, and crossed infrastructure boundaries—an incident about coordination, cumulative capability, and what happens when the sandbox becomes an authority graph. | [Read →](https://svyable.github.io/desk/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✍️ Drafting | 18 / 18 | ~65K | Standards are compressed coordination: shared seams create enormous compatibility dividends while also creating lock-in, dependencies, and concentrated power. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 5 / 12 | ~20K | Civilization as the discovery, conversion, distribution, and application of energy—where useful work, access, quality, and externalities matter more than raw supply. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 / 21 | ~75K | Civilization advances by delegating work; every new layer of delegation multiplies reach while creating new problems of information, authority, checking, and control. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
