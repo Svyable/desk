@@ -215,3 +215,101 @@ The target can become a vaccine sequence, a peptide, a receptor, a monitoring as
 Once medicine can name the cancer precisely enough, several kinds of machinery can learn the name.
 
 T cells happen to be the machinery that can kill.
+
+The difference between a CAR and a T-cell receptor helps show why solid tumors remain such a stubborn frontier.
+
+A CAR is an engineered receptor assembled from antibody-like recognition machinery and T-cell signaling components. It can bind an accessible molecule on the surface of a target cell without asking HLA to present a peptide first. That independence is powerful. It also limits CARs to targets that are physically exposed on the cell surface.
+
+A natural or engineered T-cell receptor sees a different universe.
+
+Because cells continually display peptide fragments from intracellular proteins through HLA, a TCR can in principle recognize the molecular consequences of mutations in proteins that never appear intact on the surface. Most of the proteome becomes potentially targetable.
+
+The price of that access is dependence.
+
+The correct HLA molecule has to be present. The peptide has to be processed and displayed. The receptor has to distinguish the target complex from similar complexes elsewhere. The tumor can escape by interfering with antigen presentation even while the mutation remains in its genome.
+
+The target is richer and the chain is longer.
+
+This gives engineered TCR therapy a peculiar relationship with population diversity. A receptor against a mutant peptide presented by one HLA allele may be useless in a patient whose tumor carries the same mutation but whose HLA genotype differs. The oncogenic driver can be shared while the therapeutic address is not.
+
+A receptor library therefore has two axes.
+
+Mutation and HLA.
+
+Coverage expands only when enough useful combinations exist.
+
+That makes discovery strategy important. A company can pursue the most common HLA alleles first and reach more patients per validated receptor. Economically, the choice is rational. Clinically, it can leave people with less common alleles waiting longer for the library to reach them.
+
+The same inequality appears in vaccine prediction, but cell therapy makes it tangible because the missing item is a therapeutic receptor sitting on a shelf for somebody else.
+
+Personalization can therefore reproduce the old economics of rare disease inside a common cancer.
+
+The cancer may be common. The patient's mutation-HLA combination may be rare.
+
+That rarity changes how trials are built.
+
+A conventional trial can enroll people who share a diagnosis and biomarker. A receptor program aimed at a narrow mutation-HLA pair may need to screen many patients to find a small eligible population. A fully personalized program can enroll more broadly but then has to discover a target and receptor separately for each participant.
+
+One model spends screening effort to standardize the product.
+
+The other spends manufacturing and discovery effort to broaden eligibility.
+
+Neither escapes cost. They place the cost in different parts of the system.
+
+Cell state adds another layer.
+
+An engineered receptor does not act alone. The T cell carrying it can be young or exhausted, capable of proliferating or prone to disappear, metabolically fit or damaged by prior treatment. Manufacturing protocols therefore select not only how many cells to make but what kinds of cells to return.
+
+The final therapy is receptor plus cell state plus preparative regimen plus the patient's tumor environment.
+
+That is why the phrase gene therapy can be both accurate and incomplete.
+
+The gene may encode the receptor. The living cell determines how the instruction behaves.
+
+This makes quality control different from ordinary pharmaceutical chemistry.
+
+A small molecule can be described largely by identity, purity, potency and stability. A cell product contains distributions: cell subsets, expression levels, viability, differentiation states and functional capacities. Two bags with the same number of engineered cells can differ biologically.
+
+The manufacturing process shapes the drug because the drug is alive.
+
+Neoantigen vaccines are appealing partly because they move some of the complexity back into the patient's body. Instead of manufacturing billions of functional effector cells, they manufacture information intended to recruit the immune system's own distributed factory.
+
+That is cheaper only if the body performs the outsourced work successfully.
+
+Cell therapy is what happens when medicine decides not to trust that outsourcing.
+
+The comparison suggests a future in which the modalities are chosen according to the missing step.
+
+If a patient has useful tumor-reactive T cells that need expansion, a vaccine plus checkpoint blockade may be enough. If the target is good but the receptor repertoire is poor, an engineered TCR may be more rational. If the tumor is heavily infiltrated with naturally reactive cells, TIL expansion can capture a broader response without knowing every relevant antigen in advance. If the tumor has lost HLA presentation, none of these HLA-dependent strategies solves the problem directly.
+
+Personalization should eventually mean diagnosing the failure mode, not merely sequencing the tumor.
+
+That would be a deeper form of precision than the current market usually promises.
+
+The report would not end with a list of mutations.
+
+It would ask which part of the immune chain is missing.
+
+Target.
+
+Presentation.
+
+Receptor.
+
+Cell fitness.
+
+Trafficking.
+
+Persistence.
+
+Suppression.
+
+The right therapy would then be the one that repairs the limiting step rather than the one a particular company happens to manufacture.
+
+That future is institutionally difficult because companies are built around products, not around surrendering patients to a rival modality when the biology says so.
+
+Medicine has to preserve a layer of judgment above the platform.
+
+The tumor may teach a cell its name.
+
+The harder task is deciding which kind of cell is capable of answering.
