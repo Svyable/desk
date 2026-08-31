@@ -313,3 +313,191 @@ A democratic society should be suspicious when corporations try to escape scruti
 It should be equally suspicious when crowds try to justify coercion by calling it scrutiny.
 
 Public pressure works only while both remain different things.
+
+The distinction becomes especially difficult for institutions responsible for security because they have to act before uncertainty disappears.
+
+A company receives a threat against an executive. Is it rhetorical rage, fantasy, a joke in bad taste, or preparation for violence?
+
+A university receives thousands of messages about a controversial researcher. Are they criticism, coordinated harassment, or both?
+
+A platform sees users publishing public-record information about an official. Is the purpose accountability or intimidation?
+
+Security teams cannot wait for philosophical certainty.
+
+They can still preserve the difference between risk management and retaliation.
+
+That requires role separation.
+
+The security team assesses credible threats.
+
+The legal team evaluates duties and evidence.
+
+The public-affairs team does not get to label criticism dangerous merely because it is damaging.
+
+The executive being criticized should not unilaterally determine which critics become security subjects.
+
+The person under investigation should have some route to challenge consequential errors where disclosure would not create additional risk.
+
+These separations matter because security authority is powerful precisely when it is opaque.
+
+Companies may legitimately keep threat assessments confidential. They should not use confidentiality to convert uncomfortable scrutiny into a category that nobody outside the company can examine.
+
+The same is true for governments. Law-enforcement monitoring of threats can protect public servants. Political surveillance of lawful dissent can suppress democracy. The boundary depends on conduct, authority, and oversight rather than whether officials feel endangered by criticism.
+
+Public pressure therefore needs a security constitution.
+
+Threats are investigated.
+
+Criticism remains criticism.
+
+Private information unrelated to the public claim is minimized.
+
+Evidence of imminent harm receives rapid escalation.
+
+Political disagreement does not become a risk score by default.
+
+The state and the company both need checks on the people making these classifications.
+
+Synthetic media creates another problem: evidentiary quarantine.
+
+When a spectacular recording, screenshot, or document emerges, the pressure system wants immediate circulation. A safer norm is to distinguish evidence worth preserving from evidence ready for amplification.
+
+Preserve the file.
+
+Record where it came from.
+
+Ask for the original.
+
+Check whether the source has independent corroboration.
+
+Do not destroy or edit the artifact in ways that make later verification impossible.
+
+Then decide what can responsibly be claimed.
+
+This is not a demand that ordinary citizens become forensic laboratories. It is a norm for institutions and movements making consequential accusations.
+
+The higher the requested sanction, the stronger the verification burden should become.
+
+A claim worth investigating can justify inquiry.
+
+A claim used to fire somebody, revoke a license, destroy a professional relationship, or trigger a criminal accusation needs more.
+
+This is proportional evidence.
+
+The concept is useful because online culture often treats publication and judgment as one event. Somebody posts the artifact and the social network begins sentencing immediately.
+
+A healthier system separates critic, investigator, and adjudicator.
+
+The critic raises the claim.
+
+The investigator tests it.
+
+The adjudicator decides the consequence.
+
+One person can sometimes occupy more than one role, but the roles should remain conceptually different.
+
+The distinction protects both directions of power. A corporation should not get to investigate and acquit itself automatically. A crowd should not get to accuse and punish automatically.
+
+This is ordinary procedural wisdom applied to an attention system that tries to collapse every step into one feed.
+
+Distributed punishment needs similar restraint.
+
+An employer, platform, professional association, payment provider, publisher, and conference organizer may each make an independently defensible decision based on the same allegation. The combined effect can be economic disappearance.
+
+No single institution intended that outcome.
+
+That does not mean the outcome is automatically unjust. Some conduct legitimately affects many relationships. A fraud conviction can matter to employers, regulators, investors, and customers at once.
+
+The danger is when all institutions are acting on the same unresolved evidence while assuming somebody else verified it.
+
+The result is evidentiary leverage without evidentiary ownership.
+
+A practical norm would ask each institution imposing a serious sanction to identify the basis it is relying on.
+
+A court finding?
+
+A regulator’s order?
+
+Its own investigation?
+
+A credible external investigation?
+
+A viral allegation?
+
+The answer does not have to be public in every case. It should exist.
+
+This creates accountability for cumulative sanctions without requiring one central authority to control every private decision.
+
+Corrections need a distribution system too.
+
+If a platform meaningfully amplified a false allegation, attaching a correction only to a later post may not reach the audience that saw the original. Search systems can preserve stale accusations after the source has retracted them. News stories can remain prominent even after acquittal or correction because the original event was more newsworthy.
+
+No system can guarantee equal attention for correction.
+
+Institutions can reduce the asymmetry.
+
+Update the original page.
+
+Link the correction to the initial claim.
+
+Change summaries and search snippets where appropriate.
+
+Notify people directly affected by an institutional error.
+
+Preserve the history rather than silently rewriting it.
+
+The goal is not forgetting.
+
+It is informational due process.
+
+A record should be capable of changing state when the facts change.
+
+This matters more as AI assistants become intermediaries to public memory. A model asked about a person may summarize years of articles without understanding that an early allegation was later disproven unless the information environment encodes the correction clearly.
+
+Cheap memory can preserve cheap accusation forever.
+
+Responsible information systems need status, provenance, and revision.
+
+The same principle applies to movements themselves. A campaign should maintain a correction log for material factual claims when stakes are high. That sounds bureaucratic because truth maintenance is bureaucratic.
+
+Which claims were withdrawn?
+
+Which were narrowed?
+
+Which remain allegations?
+
+Which were established by a court, regulator, audit, or independent investigation?
+
+A movement capable of maintaining that ledger becomes harder to discredit with one planted fake and easier for outsiders to trust when it makes a new claim.
+
+The burden is worth carrying because legitimacy is cumulative.
+
+Pressure breaks when winning today becomes more important than being credible tomorrow.
+
+It also breaks when institutions use the existence of bad actors to delegitimize everyone applying pressure.
+
+One threat does not turn a boycott into violence.
+
+One fabricated post does not make every patient story false.
+
+One harasser does not transform journalism into harassment.
+
+Collective action should not inherit infinite liability for the worst person who claims association with it any more than a corporation should escape responsibility by blaming every failure on one rogue employee.
+
+The standard should remain control.
+
+What conduct did the movement encourage, tolerate, correct, or condemn?
+
+What conduct did the company enable, reward, or ignore?
+
+Responsibility follows what an actor could reasonably shape.
+
+This symmetry keeps the boundary stable.
+
+Power does not gain immunity by pointing to mobs.
+
+Mobs do not gain legitimacy by pointing to power.
+
+The purpose of public pressure is to make authority answerable.
+
+The moment pressure becomes a private authority that no one can answer back to, it has reproduced the problem it claimed to solve.
