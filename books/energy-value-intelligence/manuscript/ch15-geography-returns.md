@@ -209,3 +209,71 @@ A cloud is weather.
 A cloud service is real estate, power, fiber, machines, law and people arranged so well that you can forget where they are.
 
 Until geography sends the bill.
+
+There is a reason economic geographers never accepted the late-twentieth-century fantasy that telecommunications would make place irrelevant. Distance became cheaper for some transactions, but cheaper communication changed what could cluster as often as it encouraged dispersion. When routine information can travel freely, the residual reasons to be near other firms—specialized labor, tacit knowledge, supplier depth, trust and serendipitous matching—can become more important.
+
+The empirical literature on cities makes the point without requiring romance about urban life. Antonio Ciccone and Robert Hall found a positive relationship between employment density and productivity in the United States; later surveys placed plausible agglomeration gains in a range large enough to matter but far from magical. Dense places are not productive because concrete itself thinks. They are productive because proximity changes matching, specialization, learning and the availability of intermediate services.
+
+The same logic applies to an industrial cluster that happens to contain fewer pedestrians and more substations.
+
+A data-center cluster shares workers, fiber routes, equipment suppliers, permitting knowledge and utility experience. A contractor who has already built a hundred megawatts of critical-load electrical infrastructure is not interchangeable with a contractor encountering the problem for the first time. A utility that has modeled the load shapes of multiple hyperscale campuses has institutional memory. An equipment supplier can justify local inventory because several customers sit within trucking distance.
+
+Those are agglomeration economies.
+
+Then the electricity system adds a harsher boundary than a city usually faces. Office workers can squeeze into a denser district at higher rents. A transmission line has a thermal rating. A substation has transformers of finite capacity. A region may possess abundant generation in the aggregate and still lack the wires to serve one more two-hundred-megawatt campus at the requested node.
+
+The International Energy Agency's 2025 work on energy and AI made the concentration unusually visible. Around forty-five percent of global data-center electricity consumption in 2024 was in the United States, and nearly half of U.S. data-center capacity sat in five regional clusters. Virginia had reached a point where data centers accounted for roughly a quarter of metered electricity supply in the state. More strikingly, the IEA estimated that about half of U.S. data centers then under development were still targeting existing large clusters.
+
+The congestion signal was already blinking. The capital kept following the cluster.
+
+This is not irrational. A place can remain the best available location after becoming expensive. Leaving Northern Virginia may reduce grid pressure but increase latency to customers, complicate network architecture, move a project away from a supplier ecosystem and force a developer through an unfamiliar permitting regime. A competing region has to offer enough advantage to pay those switching costs.
+
+The result resembles the economics of a successful city. High rents do not prove New York has become economically pointless; they prove many people still value access to what is there. Congestion is both a cost and evidence of demand.
+
+For power systems, however, the consequence becomes national planning. PJM, the regional transmission organization serving a large part of the eastern United States, has had to incorporate large-load adjustments from data centers into long-term forecasts. Its 2025 planning materials projected unprecedented load growth across the footprint, and subsequent reviews pointed to tens of gigawatts of expected data-center demand growth over only a handful of years.
+
+That is no longer an office-park story. It is a generation-and-transmission story.
+
+The geographic choice made by private developers can therefore create public infrastructure obligations. A utility may need new substations and lines. A regional market may procure more capacity. Rate design has to decide how much of the cost is assigned to the new load and how much is socialized. Existing customers reasonably ask whether their bills will rise to support a campus whose output is sold globally.
+
+The question is not solved by declaring the data center “good for growth.”
+
+Location determines incidence.
+
+If a developer builds where generation and transmission are abundant, a large load can improve utilization of existing assets and provide a stable customer for new supply. If it builds behind an already constrained interface, the same nominal megawatts can trigger expensive upgrades. If it brings dedicated generation but still relies on the grid for backup, reliability planning changes again.
+
+Megawatts have neighborhoods.
+
+This is also why the ability to move compute can become an industrial advantage. The IEA has noted the underused possibility of locating new facilities where grid capacity is available and operating some workloads more flexibly. A model training job does not care about a county line. If two data centers have compatible hardware and network access, software can sometimes route the job toward the site where electricity is less constrained.
+
+That is geographic arbitrage performed by intelligence.
+
+The obvious temptation is to imagine this will make transmission unnecessary. It will not. Computation is only one load, and even computational mobility depends on fiber, replicated data, spare servers and contractual freedom. But the direction is important: for the first time, one of the largest new industrial loads can move a meaningful share of its productive activity without moving the physical plant.
+
+An aluminum smelter cannot do that. A steel mill cannot do that. A chemical plant cannot do that.
+
+This creates new bargaining power for places that can offer the right bundle rather than simply the cheapest electricity. A remote hydro-rich region with weak fiber may lose to a somewhat more expensive site with excellent connectivity. A low-cost solar region may be unattractive if evening reliability requires expensive backup. A jurisdiction with clean power may gain customers who value low-carbon claims, unless its permitting process makes delivery too slow.
+
+The location decision becomes multicriteria optimization with politics attached.
+
+It also changes regional-development strategy. Local officials naturally see a multibillion-dollar investment and want the project. The investment figure is real. So is the possibility that the tax concessions, infrastructure costs and permanent employment profile produce less local value than the headline suggests.
+
+A useful negotiation asks what remains after the ribbon cutting.
+
+Do local utilities gain assets that benefit other customers? Does the campus pay the full incremental network cost it creates? Are construction and operating jobs local? Does the project attract suppliers, research activity or adjacent firms? Are tax abatements temporary while the infrastructure is durable? Does the company fund new generation or merely claim existing clean supply that somebody else was already using?
+
+There is no universal answer. That is the point.
+
+Geography turns an abstract growth industry into a contract among particular people in a particular place.
+
+The same is true at national scale. A country may possess spectacular solar resources and still fail to turn them into an intelligence industry because the grid is unreliable, capital is expensive, fiber connectivity is poor or legal institutions make customers nervous. Another country with mediocre renewable resources may build a formidable compute sector because everything else in the bundle works.
+
+Comparative advantage is rarely one variable.
+
+Energy abundance can redraw the map, but only where intelligence and institutions know how to capitalize on it.
+
+The frontier may therefore look less like a handful of permanent “AI capitals” and more like a portfolio of specialized regions. Dense metropolitan areas host research, customers and highly interactive services. Giant campuses sit near power and transmission. Sovereign facilities serve regulated workloads. Edge systems handle latency-sensitive tasks. Batch compute migrates toward cheap hours and uncongested nodes. Fiber ties the pieces together.
+
+The cloud becomes geographically differentiated even as the interface becomes more seamless.
+
+That is not a return to a pre-digital world. It is a more mature digital world finally acknowledging the physics it rents.
