@@ -1,199 +1,141 @@
 # Sanctions Change What Money Means
 
-Money is most convincing when nobody asks what makes it spendable.
+A number in an account looks like ownership until the law changes around it.
 
-A bank balance appears as a number. A Treasury security appears as a line item. A foreign-exchange reserve appears in a central-bank report. A corporate receivable appears on a balance sheet. The language of finance makes these things sound self-contained, as though an asset were simply a quantity of value waiting for its owner.
+This is one of the most important financial lessons of the sanctions imposed after Russia’s invasion of Ukraine. The lesson is not that property rights disappeared everywhere, or that money became meaningless, or that every foreign asset is unsafe. The lesson is narrower and more useful: access to an asset depends on institutions and jurisdictions that investors often notice only after those institutions become political instruments.
 
-Sanctions reveal the rest of the sentence.
+In February 2022, the United States prohibited transactions involving the Central Bank of the Russian Federation, Russia’s National Wealth Fund, and its Ministry of Finance under a new sanctions directive. Other major economies took parallel actions. A year and a half later, the G7-linked REPO Task Force said it had mapped roughly $280 billion in immobilized Russian sovereign assets held across participating jurisdictions, most of them in the European Union.
 
-An asset is valuable to the extent that a legal and institutional system will let you use it.
+A reserve had become a bargaining instrument.
 
-That sounds obvious. It did not feel obvious to many investors before 2022, when the United States and its allies responded to Russia's invasion of Ukraine by restricting transactions with the Central Bank of Russia and immobilizing a large portion of Russian sovereign reserves held within their jurisdictions. The U.S. Treasury later said the international coalition had immobilized roughly $300 billion in Russian central-bank assets.
+The dollars, euros, securities, deposits, and claims did not evaporate. Their usability changed.
 
-A reserve had not ceased to exist.
+That distinction is the center of sanctions finance.
 
-It had ceased to be available to its owner in the way the owner expected.
+Money has at least two meanings. It is a unit in which value is measured, and it is a permissioned claim inside a legal and operational system. An investor may be economically entitled to a security while being legally prohibited from transferring it. A bank may have enough capital to pay a customer while being prohibited from processing the payment. A foreign central bank may own reserves on its balance sheet while being unable to use part of them through the custodial and banking system where they sit.
 
-The distinction is one of the most important facts in modern geopolitical finance.
+The balance remains.
 
-When governments hold reserves in foreign currencies, foreign securities, or foreign custodial systems, they are holding assets inside somebody else's legal architecture. In ordinary times this is a feature. Deep markets, reliable settlement, strong property rights, convertibility, and the ability to transact at scale are exactly why particular currencies and securities become attractive reserve assets.
+The pathway closes.
 
-In extraordinary times the architecture becomes leverage.
+This is why the phrase freeze assets can confuse investors. A freeze is not necessarily confiscation. It can mean that the owner’s property interest remains while transactions involving the property are prohibited. The exact legal treatment varies by jurisdiction, authority, license, asset, and party. Those distinctions matter enormously to lawyers and to the people whose money is affected.
 
-The same network that makes a currency useful can make access to the currency conditional.
+For the portfolio, the broader lesson is that ownership has a jurisdictional layer.
 
-Sanctions are often discussed as if they were tariffs with sharper language. They are more varied than that. Governments can freeze assets, prohibit transactions, block entities, restrict access to technology, ban imports or exports, limit financial services, prohibit new investment, cap prices, control shipping insurance, restrict correspondent banking, and criminalize dealings that were routine the day before.
+A share of stock is not merely a claim on a company’s future cash flows. It may also be a claim recognized through an issuer, an exchange, a central securities depository, a custodian, a broker, and a chain of intermediaries that spans countries. A deposit is not merely a number at a bank. It is a claim subject to the bank’s regulator, local law, payment systems, sanctions obligations, capital controls, and the currency in which the claim is denominated.
 
-The precise tool matters because each tool changes a different part of the financial system.
+Most investors never need to map that chain.
 
-A blocked bank account is not the same as an export-control license. A prohibition on new equity investment is not the same as forcing an existing investor to divest. A ban on providing maritime insurance changes the economics of a commodity even if the commodity itself can still be sold. A sanction on a bank can affect customers that are not sanctioned but depend on the bank for payments. An export restriction on semiconductor equipment can matter years later by limiting the ability to replace machines, not immediately by stopping every factory.
+That is a sign that the system normally works.
 
-The investor who hears the word *sanctions* and trades the headline has not yet reached the interesting part.
+Sanctions reveal the chain by interrupting it.
 
-The interesting part is the network.
+The Russian National Settlement Depository became a vivid example. The United States designated the NSD in June 2024 along with the Moscow Exchange and National Clearing Center. OFAC issued temporary licenses allowing certain wind-down and divestment transactions, then updated guidance as circumstances changed. By that point some investors had already spent years discovering how complicated a security becomes when the exchange, depository, custodians, settlement links, sanctions rules, and local countermeasures no longer line up.
 
-Consider a company that sells industrial equipment into a sanctioned country. The direct exposure is lost revenue. That is the clean part. The company may also have local employees, inventory, receivables, a subsidiary, bank accounts, tax obligations, software licenses, service contracts, warranties, and equipment that requires remote support. It may source a component from the same country. Its customers elsewhere may depend on commodities produced there. Its insurers may change coverage. Its banks may require additional compliance. Its lawyers may spend months determining what can be done with assets that still legally belong to the company but cannot be moved.
+The investment risk was no longer captured by a price chart.
 
-The accounting becomes geopolitical.
+A security can be worth something and still be unusable.
 
-The Securities and Exchange Commission's 2022 sample letter to public companies after Russia's invasion of Ukraine captured this breadth. The SEC asked companies to consider direct and indirect exposure through operations, employees, investments, sanctions, supply chains, customers, cybersecurity, commodity prices, counterparties, and increased costs. It was a reminder that a war can reach a company even when the company has no office near the war.
+This deserves attention because international diversification is usually discussed as if country risk ends at the company’s income statement. Investors compare revenue growth, margins, valuation, political stability, and currency. They may spend less time on the architecture through which the asset is held.
 
-A sanctions regime expands that reach by turning ordinary commercial links into legal questions.
+Depositary receipts are a simple illustration. They give investors economic exposure to foreign shares through an instrument issued in another market. In calm periods the structure is convenient. In a sanctions crisis the receipt, the underlying shares, the depositary bank, the local custodian, the exchange, and the settlement system can each face different restrictions. The investor owns not only a company but a bridge.
 
-This is why financial plumbing matters so much to state power.
+Bridges have jurisdictions on both sides.
 
-International payments do not float through the air. Banks maintain correspondent relationships. Securities settle through infrastructures. Compliance teams check names and jurisdictions. Shipping depends on insurers, classification societies, ports, financing, and documentation. Major currencies tend to be supported by deep markets and large networks of institutions willing to handle them.
+Sanctions also change the meaning of counterparty risk. Before a restriction, a large global bank may appear safer than a small one because of scale, capital, and reputation. After a restriction, the relevant question may be whether the bank is permitted to process a specific transaction involving a specific entity, currency, or region. The bank can be perfectly solvent and still say no.
 
-A country that controls important nodes in those networks can impose costs far beyond its borders.
+Solvency and permission are different forms of safety.
 
-That power is not unlimited.
+That distinction reaches beyond sanctioned countries. Export controls can make a receivable harder to collect because a customer cannot obtain the goods required to operate. Shipping restrictions can strand inventory. Insurance restrictions can make a voyage commercially impractical. Secondary-sanctions risk can cause institutions to avoid a transaction even when the legal status is not as simple as prohibited or permitted. Compliance uncertainty itself can reduce liquidity because firms prefer not to discover the boundary through enforcement.
 
-Sanctions create incentives to route around the sanctioning system. Trade shifts to third countries. Payments move into different currencies. New intermediaries appear. Goods are relabeled, transshipped, or broken into smaller components. Tankers change ownership. Insurance is replaced or self-insured. Companies create subsidiaries. Governments stockpile strategic goods. Central banks reconsider the jurisdictional distribution of reserves.
+Law changes behavior before law changes ownership.
 
-Every sanction is therefore also an experiment in substitution.
+This is one reason sanctions often generate overcompliance. A bank facing severe penalties and reputational risk may reject transactions that are technically allowable but difficult to diligence. A logistics company may decline cargo. An exchange may halt a security while it assesses implications. A broker may restrict purchases but allow sales. A custodian may wait for guidance.
 
-The stronger the coercion, the stronger the incentive to invent alternatives.
+The investor sees friction.
 
-This creates a tension that appears in almost every discussion of financial statecraft. Using a dominant financial network gives that network geopolitical power. Using the power aggressively may encourage others to reduce dependence on the network.
+The institutions see asymmetric risk.
 
-The conclusion is often exaggerated into a dramatic forecast: sanctions will destroy the dollar.
+That asymmetry matters when evaluating sanctions as an economic weapon. A powerful sanctions coalition does not need to physically control every asset in the target country. It needs influence over valuable nodes: currencies, banks, correspondent networks, clearing systems, insurers, technology exports, reserve assets, shipping services, or markets the target wants to access.
 
-That does not follow.
+This is financial geography.
 
-Reserve currencies are sticky for reasons larger than political affection. They depend on market depth, convertibility, legal institutions, trade invoicing, financial instruments, central-bank practice, private-sector habits, collateral use, debt issuance, payment networks, and the fact that everyone else's use reinforces usefulness. Replacing that system requires more than disliking the country at its center.
+The map is not only borders and straits. It is where contracts settle.
 
-But stickiness is not immobility.
+The dollar’s role makes the United States unusually important to that map, but sanctions are not simply an American switch. The most consequential measures often depend on coordination among several major financial centers. Assets can be held in Europe. Insurance can be based in London. Shipping can involve Greek owners, Asian buyers, Middle Eastern intermediaries, flags of convenience, and dollar settlement. A restriction imposed in one place can reroute the network rather than end the transaction.
 
-Reserve managers can diversify at the margin. Trade can be invoiced in other currencies. Countries can build bilateral payment arrangements. Gold can become more attractive because it is nobody else's liability when held directly. Regional financial systems can grow. Private firms can redesign supply chains to reduce exposure to sanction risk.
+That rerouting is where investors make another common mistake.
 
-The investor does not need a prophecy about dedollarization to take the mechanism seriously.
+They assume sanctions equal disappearance.
 
-The more useful question is where legal access has become part of asset valuation.
+Often sanctions equal discount.
 
-A dollar deposit held at an American bank by an American household is one kind of exposure. A dollar reserve held by a foreign central bank is another. A dollar receivable from a sanctioned counterparty is another. A dollar bond issued under New York law by a company whose revenues are in a restricted country is another. The unit of account is the same. The legal path to payment is not.
+A sanctioned commodity may continue to move through different buyers, intermediaries, currencies, ships, and documentation. The target receives less revenue, pays higher transaction costs, accepts worse terms, or depends on a smaller set of partners. The economic objective may be precisely to increase friction rather than eliminate volume.
 
-Money has jurisdiction.
+This distinction became central to the price-cap approach applied to Russian oil. The policy was designed to reduce Russian revenue while preserving supply to global markets, because removing a large exporter completely could raise world prices enough to undermine the coalition’s economic interests. Whether a particular sanctions design succeeds is an empirical question. The architecture itself shows the tradeoff: coercion and market stability can pull in opposite directions.
 
-Cryptoassets entered the geopolitical conversation partly because they appear to loosen that relationship. A bearer of a cryptographic key can, in principle, transfer an asset without asking a bank for permission. That property is real enough to interest people living under capital controls, unstable banking systems, or political repression.
+An investor who hears “sanctions” and buys the substitute producer should therefore ask how much trade is likely to disappear and how much will be rerouted at a discount.
 
-It is also easy to romanticize.
+The same question applies to technology. Export controls can delay access to advanced equipment while motivating substitution, stockpiling, domestic investment, smuggling, and redesign. A supplier excluded from one market may lose revenue. A domestic competitor may gain demand. A third-country intermediary may gain business. A customer may spend more for less capable equipment. Over time the target may develop alternatives that reduce the sanctioning coalition’s future leverage.
 
-The holder still needs electricity, connectivity, functioning software, secure custody of keys, a network that continues operating, and often an exchange or counterparty to convert the asset into local purchasing power. Exchanges can be regulated. Addresses can be sanctioned. Stablecoins can depend on reserves held inside the traditional financial system. Miners, validators, developers, custodians, and internet-service providers exist in jurisdictions.
+Sanctions have second-order effects because networks adapt.
 
-A digital asset may change which institutions matter.
+This is why sanctions can be both powerful and costly. Their power comes from concentration in important networks. Their long-term cost can include giving excluded participants an incentive to build around those networks.
 
-It does not abolish institutions.
+The reserve-currency debate is one version of that concern. If a state believes foreign reserves can be immobilized, it has reason to hold more gold, more domestic assets, more reserves in currencies of non-sanctioning partners, or assets held outside the reach of adversaries. Yet diversification itself has costs. The alternatives may have smaller markets, lower liquidity, more capital controls, weaker institutions, or fewer useful financial instruments.
 
-Physical gold has the opposite mythology. It feels outside the system because a bar held directly does not require a bank account or payment network to exist. That independence is part of its appeal to reserve managers and individuals.
+The choice is not between political money and apolitical money.
 
-But gold is heavy. It must be stored. It can be stolen. It must be authenticated. It may cross borders only under customs rules. Large transactions generally return to financial intermediaries. Gold held through an exchange-traded product reintroduces custodians and market structures. Gold held in a foreign vault reintroduces jurisdiction.
+It is among institutions with different powers and risks.
 
-The phrase *outside the system* usually means *inside a different system*.
+That is an uncomfortable fact for investors who want a perfectly neutral store of value. Gold appears attractive because it is nobody else’s liability. But physical gold still has a location. Gold held through a bank or fund has custodians. Selling large quantities requires markets. Transport crosses borders. Governments can regulate ownership, exports, taxes, and reporting. Crypto assets are portable in a different way but rely on keys, networks, software, exchanges, banks, and legal treatment. Cash is immediate but local and inflation-sensitive.
 
-Sanctions force investors to name the system.
+Every refuge has an interface with reality.
 
-They also change corporate behavior long before any company is sanctioned directly.
+Sanctions make those interfaces visible.
 
-A multinational considering a factory in a politically contested market now has to include an additional option in its capital-budgeting exercise: what if the asset becomes stranded by policy? The factory may remain physically intact and commercially useful while dividends cannot be repatriated, equipment cannot be serviced, software cannot be updated, or the local subsidiary cannot access the parent's banks.
+For an ordinary investor, the correct response is not to become a sanctions lawyer. It is to recognize when a portfolio contains exposures whose legal and custody structure matters enough to understand. A global index fund holding tiny positions across dozens of countries creates a different problem from a concentrated position in a company whose main assets are in a sanctionable jurisdiction. A domestic multinational with foreign revenue is different from a local security held through a foreign depository. A Treasury security held at a regulated domestic custodian is different from a deposit at a bank in a country with capital controls.
 
-That possibility raises the hurdle rate.
+The word foreign is too broad to do the analysis.
 
-Some projects will not be built.
+So is safe.
 
-Other projects will be redirected to jurisdictions considered politically safer, even if the operating cost is higher. This is financial fragmentation expressed as a factory location.
+The household version of this lesson is less dramatic but more immediately useful. If access to money depends on one bank, one phone, one authentication method, and one account holder, the family has built its own miniature settlement chokepoint. A sanctions crisis is unlikely to be the cause of failure. A lost phone, fraud alert, technical outage, death, travel problem, or identity check is more likely.
 
-The International Monetary Fund has warned about this channel. Geopolitical tensions can affect cross-border portfolio investment, bank funding, credit, payment systems, and opportunities for international diversification. These are not only crisis effects. They can change the long-run cost of capital.
+The fix is the same kind of systems thinking: redundancy, documentation, authorized access where appropriate, and an understanding of what is liquid for the household’s actual needs.
 
-A country perceived as sanctionable may have to pay more to attract foreign investment.
+Geopolitical analysis earns its keep when the extreme scenario improves ordinary resilience.
 
-A company exposed to sanctionable markets may trade at a discount because investors assign less value to cash flows that could become inaccessible. A bank with correspondent relationships to high-risk jurisdictions may face larger compliance costs. An exporter may accept lower margins to diversify customers.
+There is a temptation to take the Russian reserve freeze and conclude that no financial claim can be trusted. That is too large a lesson. The episode depended on a specific war, a specific coalition, specific assets held in specific jurisdictions, and legal authorities that vary among countries. Most investors are not foreign central banks and most assets are not subject to wartime sanctions.
 
-These costs rarely arrive under a line item called geopolitics.
+The narrower lesson is stronger because it is true more often.
 
-They arrive as legal expense, financing cost, working capital, discount rates, duplicated capacity, and lower return on invested capital.
+The place where an asset is held matters.
 
-The most important sanctions risk for many investors is therefore not confiscation.
+The law governing it matters.
 
-It is friction.
+The intermediaries matter.
 
-Friction compounds.
+The currency matters.
 
-A payment that takes three days instead of one increases working-capital needs. A ship that needs a new insurer costs more. A component that requires an export license arrives later. A bank that must screen more transactions hires more compliance staff. A company that cannot rely on one market builds another supply chain. A government that wants technological autonomy subsidizes redundant production.
+The ability to settle matters.
 
-Each adaptation is rational. Together they can make the global economy less efficient.
+The person allowed to use it matters.
 
-Resilience is often the purchase of inefficiency in advance.
+Price sits on top of all of them.
 
-This is not necessarily bad policy. An efficient system that collapses under stress can be socially expensive. A country may rationally accept higher peacetime costs for access to energy, food, weapons, semiconductors, medicines, or communications during a crisis.
+This also changes how to think about diversification. Owning assets in several jurisdictions can reduce exposure to one government, but it can also increase the number of legal systems an investor depends on. Keeping everything in one domestic system can simplify access but concentrate political and currency exposure. There is no allocation that escapes governance. Diversification is not the elimination of dependence. It is the distribution of dependence.
 
-Investors should simply notice who pays.
+That is a more realistic goal.
 
-Sometimes the taxpayer pays through subsidies. Sometimes consumers pay through higher prices. Sometimes shareholders pay through duplicated capital. Sometimes workers pay if production relocates. Sometimes the sanctioned country pays through lower productivity and reduced access to technology. Sometimes the sanctioning country pays part of the cost because its companies lose markets.
+Sanctions are deliberately dramatic because they are designed to alter behavior without direct military force. They convert financial relationships into leverage. For a portfolio, the drama can be distracting. The investor starts guessing which country will be sanctioned next and which currency will replace which reserve asset.
 
-Sanctions are not magic pain rays that travel in one direction.
+The more durable work is less prophetic.
 
-Their effectiveness depends on coalition size, substitutability, enforcement, timing, the target's economic structure, the importance of the restricted good, and the willingness of third countries to cooperate.
+Know what you own.
 
-The same complexity applies to investment conclusions.
+Know where the claim lives.
 
-A company selling a sanctioned commodity can lose access to premium markets but continue selling at a discount elsewhere. A foreign competitor can gain market share. A domestic substitute can benefit from industrial policy. A shipping company can earn more from longer routes. A bank can lose business from tighter rules. An alternative payments firm can gain relevance.
+Know how it becomes spendable money.
 
-The network rearranges.
-
-This is why sanctions analysis can produce an endless chain of speculative second-order trades.
-
-One country loses access to advanced chips, so it accelerates domestic semiconductor investment. That increases demand for local equipment makers. Exporting countries tighten controls on equipment. The target tries to develop substitutes. Allied countries receive new factories. Those factories increase demand for power and water. Skilled labor becomes scarce. Construction costs rise. Government subsidies expand. Competitors lobby for inclusion.
-
-The original sanction becomes a capital-allocation program across several economies.
-
-The temptation is to keep following the chain until every stock in the portfolio is justified by the same geopolitical thesis.
-
-That is how a hedge becomes an ideology.
-
-A better use of sanctions analysis is to expose hidden assumptions.
-
-Does the company need to move cash across borders? Does it depend on a particular bank or settlement system? Are its assets legally trapped if relations deteriorate? Can customers be served through another jurisdiction? Are critical inputs export-controlled? Does the company's debt require access to a currency it may have trouble earning? Does its insurer depend on sanctioning-country rules? Does a fund hold securities that could become nontransferable?
-
-These are balance-sheet questions.
-
-They are also political questions because politics determines which balance-sheet entries remain usable.
-
-The household version is less dramatic but equally concrete.
-
-An immigrant family may hold assets in more than one country because its obligations are in more than one country. A person planning to relocate may care about the convertibility of savings. A business owner importing goods may care about access to trade finance. Someone living under a government with a history of capital controls may reasonably value some geographic diversification of custody.
-
-The correct response depends on the actual jurisdiction and applicable law. Generic instructions can be reckless. Moving money across borders can trigger tax, reporting, sanctions, and legal obligations. The point is not to hide wealth from states.
-
-It is to understand which state already governs the wealth you think you own.
-
-That understanding is a form of risk management.
-
-It is also a cure for one of the more theatrical ideas in crisis investing: that the right asset can make you sovereign.
-
-No investment account grants sovereignty.
-
-A gold bar does not issue a passport. A crypto wallet does not maintain roads. A foreign brokerage does not guarantee legal residence. A dollar bill does not protect a bank from a government order. A farm does not operate itself. Property exists inside a political order even when investors prefer to imagine it floating above one.
-
-War makes political order more visible because states become more demanding.
-
-They tax more. Borrow more. regulate more. restrict more. requisition more. monitor more. decide more urgently which flows of goods and money serve national objectives and which do not.
-
-That can be frightening for investors accustomed to treating markets as a separate sphere.
-
-Markets are not separate.
-
-They are one of the ways political communities organize claims on resources.
-
-Sanctions make the relationship impossible to ignore.
-
-The investor who understands this does not need to abandon global assets or hoard bearer instruments.
-
-The investor needs to stop asking only, "What is this worth?"
-
-The next question is, "Worth to whom, under which law, and accessible how?"
-
-Most of the time those questions produce boring answers.
-
-Boring answers are good.
-
-It is when the answer suddenly changes that money stops being just a number.
+And do not confuse a number you can see with an asset you can use.

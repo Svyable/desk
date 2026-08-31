@@ -1,213 +1,179 @@
 # The Dollar Is Also Infrastructure
 
-The dollar is easy to mistake for a flag.
+The dollar is usually discussed as if it were a flag you can chart.
 
-It belongs to the United States, carries portraits of American statesmen, and sits at the center of arguments about American power. So when people talk about the dollar's role in the world, they often speak as if reserve-currency status were a popularity contest between nations.
+Strong dollar. Weak dollar. King dollar. End of the dollar. De-dollarization. Reserve-currency privilege. Weaponized finance.
 
-America rises, the dollar rises. America declines, the dollar declines. Countries become angry with Washington, they stop using dollars. Another great power appears, its currency replaces the dollar. A headline announces a bilateral trade agreement settled in something else, and a chart begins circulating with an arrow pointing down.
+The language turns a network into a horse race.
 
-The political story is not imaginary.
+Currencies do compete in some respects. Central banks choose reserve assets. Borrowers decide which currency to issue. Companies decide how to invoice. Traders choose settlement currencies. Savers choose what to hold. But the dollar’s international role is not sustained by one beauty contest in which reserve managers compare national symbols and select a winner.
 
-It is incomplete because the dollar is also infrastructure.
+It is infrastructure.
 
-A reserve currency is useful because people can do things with it.
+A currency becomes internationally useful because people can borrow it, lend it, hedge it, clear it, hold safe assets in it, invoice trade in it, settle contracts in it, and convert large amounts without moving the price too far. Banks build systems around those uses. Legal agreements assume them. Commodity markets quote them. Corporate treasurers manage them. Governments accumulate assets denominated in them. Once enough activity is organized around one currency, the network can persist even while participants complain about it.
 
-Governments can hold highly liquid securities denominated in it. Companies can invoice trade in it. Banks can borrow and lend it. Investors can hedge it. Commodity contracts can be written in it. Derivatives can settle against it. Central banks can transact in deep markets. Borrowers can issue debt in it. Financial institutions can use its securities as collateral. A company in one country can use the currency to transact with a company in another even when neither party is American.
+That persistence is visible in the Federal Reserve’s own review of the dollar’s international role. In 2024, the dollar represented about 58 percent of disclosed official foreign-exchange reserves, far ahead of the euro, yen, pound, and renminbi. The Federal Reserve noted in 2025 that the dollar’s overall international use had been broadly stable over the preceding years despite renewed attention to sanctions, U.S. fiscal policy, tariffs, and geopolitical fragmentation.
 
-Each use supports the others.
+That is not proof of permanence.
 
-This creates the kind of network effect familiar from technology. The most useful standard becomes more useful because it is already useful.
+It is evidence that replacing infrastructure is harder than announcing the intention to replace it.
 
-That sentence is almost circular because network effects are circular.
+The reserve share receives the most attention because it is easy to visualize. Central banks hold dollars, euros, yen, pounds, renminbi, gold, and other assets. Yet reserves are only one layer. The dollar is also deeply embedded in cross-border banking, debt issuance, foreign-exchange trading, trade invoicing, derivatives, and the global demand for U.S. Treasury securities and other dollar assets.
 
-A payment network with two users is not very useful. A payment network with billions is. A language spoken by one country may become useful elsewhere because enough other people already speak it. A technical standard can survive newer alternatives because the installed base makes switching expensive.
+This means de-dollarization can occur in one layer without occurring equally in the others.
 
-Money has an installed base.
+A central bank can buy more gold while its domestic banks still borrow in dollars. A trading partner can invoice more bilateral commerce in local currency while global commodity markets remain dollar-centered. A government can issue debt in its own currency while its companies continue to hold dollar deposits. A payment system can route messages outside traditional channels while the underlying contract is still economically denominated in dollars.
 
-The dollar's installed base includes the market for U.S. Treasury securities, international bank balance sheets, corporate debt, trade invoicing, derivatives, reserve management, commodity contracts, and the institutional habits built around them.
+The unit, the asset, and the rail can separate.
 
-This is why predictions of imminent dollar collapse recur more often than dollar collapse itself.
+That is why declarations about the end of the dollar often age badly. They mistake visible policy for invisible habit.
 
-The prediction treats currency preference as a vote.
+Habits can change.
 
-Infrastructure changes more slowly.
+But financial habits are expensive to change because each participant must care about what everyone else will accept. A currency with a deep bond market is more useful to reserve managers. A currency held by reserve managers is more useful to borrowers. A currency used by borrowers is more useful to banks. A currency used by banks is easier to hedge. A currency easy to hedge is more attractive for trade. The system feeds itself.
 
-That does not mean it cannot change.
+Network effects are not magic. They are coordination costs.
 
-The British pound once occupied a larger international role. The dollar's rise reflected the growth of the American economy and financial system, the disruptions of two world wars, changes in the balance of international assets and liabilities, and the institutions built after World War II. Reserve systems have history. They are not laws of nature.
+The geopolitical power embedded in the network became obvious after Russia invaded Ukraine. Sanctions on Russia’s central bank and other financial institutions demonstrated that access to major reserve currencies and financial infrastructure can be constrained. That produced a reasonable strategic question for governments that fear future sanctions: how much value should be kept inside networks potentially controlled by an adversary?
 
-The mistake is assuming history changes because a conference communiqué says it should.
+The answer is not automatically zero.
 
-For a rival currency to take more of the dollar's role, users need more than diplomatic motivation. They need investable assets at scale, confidence in convertibility, confidence that they can move capital, financial markets deep enough to absorb enormous flows, legal institutions they are willing to rely on, and a political system willing to tolerate the consequences of outsiders holding large claims.
+Leaving a powerful network can be expensive. Alternative reserve assets may have smaller markets. Alternative currencies may face capital controls or provide fewer safe securities. Local-currency settlement can reduce one dependency and increase exchange-rate, hedging, or convertibility risk somewhere else. Gold can reduce reliance on another country’s liability but provides no yield and has physical custody requirements. Building a new payment rail does not create a deep bond market by itself.
 
-Those requirements create trade-offs.
+A state can prefer strategic autonomy and still choose dollar assets because the alternatives impose immediate costs.
 
-A government may want its currency used internationally while also wanting tight control over domestic capital flows. It may want foreign investors to hold its securities while retaining discretion to direct banks and markets. It may want a large reserve role without accepting persistent external demand for its assets. Internationalization can reduce policy control at the same time it expands influence.
+That tension is what makes reserve-currency change slow and politically interesting.
 
-That is why reserve-currency competition is not a race with one finish line.
+For an investor, the relevant lesson is not that the dollar will last forever. Nothing financial does. The lesson is that currency dominance is a system, and systems usually change unevenly.
 
-Different currencies can gain different roles.
+That makes binary portfolio bets dangerous.
 
-A currency can become more important in regional trade without becoming the dominant global reserve. A country can settle more bilateral transactions in its own currency while central banks continue holding large dollar reserves. Gold can gain a larger share of reserves without replacing transactional currencies. Private payment networks can route around correspondent banks without creating a new sovereign reserve asset.
+The investor who believes U.S. fiscal policy is unsustainable may buy gold, foreign stocks, commodities, bitcoin, or non-dollar bonds. Some of those assets may diversify genuine dollar risk. The problem begins when the thesis becomes “the dollar collapses,” because collapse is not a single financial event. A currency can decline gradually against peers. It can lose reserve share while appreciating. It can remain dominant in financing while losing some trade invoicing. It can suffer higher inflation without losing institutional centrality. It can strengthen during a crisis even when the crisis originates in the United States because global borrowers need dollar funding.
 
-The system can diversify without flipping.
+The word collapse hides the mechanism.
 
-Sanctions have made that possibility more interesting.
+Investors should ask what specific dollar risk they are trying to hedge.
 
-When major powers use access to financial infrastructure as a coercive tool, other governments have a reason to ask whether their reserves and payment channels are politically exposed. The immobilization of Russian central-bank assets made the question concrete. A reserve held in another jurisdiction carries a form of counterparty risk that sovereign reserve managers may previously have treated as remote.
+Domestic inflation?
 
-Some central banks have responded by showing greater interest in gold. The World Gold Council's 2026 central-bank survey reported that a large majority of respondents expected gold to occupy a higher share of global reserves over the next five years and a smaller majority expected the dollar's share to decline. The survey is produced by an industry organization whose mission is to promote gold, so the numbers should not be mistaken for neutral prophecy. They are still evidence that reserve managers themselves are thinking about geopolitical risk, diversification, and the institutional properties of reserve assets.
+A decline in the exchange value of the dollar?
 
-Gold has one property no sovereign currency can reproduce.
+A U.S. sovereign-credit shock?
 
-A bar held directly is not another government's liability.
+Capital controls?
 
-That does not make it liquid like a Treasury market, useful for every payment, interest-bearing, or politically neutral in practice. It makes it different.
+Sanctions exposure?
 
-Reserve managers are allowed to value differences.
+Loss of reserve-currency status over decades?
 
-The same is true of investors.
+A banking crisis?
 
-The mistake is turning a difference into an absolute hierarchy.
+Each has different implications.
 
-The dollar can be vulnerable to American policy while remaining extraordinarily useful because of American markets. Gold can avoid issuer risk while imposing storage and liquidity trade-offs. A foreign currency can diversify political exposure while introducing economic and exchange-rate exposure. A cryptocurrency can reduce dependence on banks in one dimension while adding technological, regulatory, volatility, and custody risks in others.
+A U.S. household earning and spending dollars does not experience a ten-percent currency decline the same way as a foreign company that borrowed dollars and earns local currency. A multinational may benefit from translating foreign earnings into a weaker dollar. An importer may suffer. A commodity producer may have revenue linked to dollar prices but costs in another currency. A government may see external debt become harder to service.
 
-There is no asset without architecture.
+Currency is a relationship between two balance sheets.
 
-The dollar's architecture becomes especially visible during global stress.
+That is why safe-haven behavior can appear paradoxical. In global stress, investors sometimes seek dollars and U.S. Treasury securities even when the United States is deeply involved in the problem. The move can reflect liquidity, collateral needs, debt obligations, and the absence of an equally deep alternative. It is not a referendum on every American policy.
 
-In many crises, investors do something that appears paradoxical: they seek dollars even when the crisis originates in the United States or implicates American policy. The reason is partly that dollar liabilities exist around the world. Banks, companies, governments, and investors borrow dollars. When risk rises, funding becomes more valuable. Treasuries may serve as collateral. Investors may reduce exposures and increase cash. The global demand is therefore not simply admiration for America.
+The plumbing can overpower the politics.
 
-It is demand created by a dollar-shaped balance sheet.
+The Federal Reserve’s dollar-liquidity arrangements show another layer of this infrastructure. In crises, demand for dollars outside the United States can become intense because global banks and companies have dollar liabilities. Central-bank swap lines allow foreign central banks to obtain dollars from the Federal Reserve and lend them into their own systems. The objective is financial stability, but the mechanism illustrates the dollar’s international reach: a domestic central bank becomes a backstop for a currency used far beyond its borders.
 
-A borrower who owes dollars is short dollars in an economic sense. The obligation creates future demand for the currency.
+That arrangement also shows why reserve-currency status is not a free lunch.
 
-This is one reason currency systems can be more durable than political narratives suggest. Debt itself reinforces use.
+International demand can lower borrowing costs and support financial influence, but the issuer of the dominant currency also sits at the center of global stress. Its policy actions transmit widely. Its institutions become targets of criticism. Domestic choices acquire foreign consequences. Sanctions can be powerful because the network is valuable, but repeated use of that power can increase incentives to build alternatives.
 
-But the same mechanism can become dangerous for countries and companies that earn local currency while owing dollars.
+Privilege creates strategic exposure.
 
-If the local currency falls, the dollar debt becomes more expensive in local terms. A geopolitical shock can therefore tighten financial conditions without a domestic central bank choosing to tighten them. Companies reduce investment. Governments spend reserves defending currencies. Banks become cautious. The currency move travels through balance sheets.
+This is the part of the story that simple “exorbitant privilege” rhetoric misses. The dollar system gives the United States unusual capacity, but capacity comes with maintenance costs. Deep and trustworthy capital markets, rule of law, open financial accounts, macroeconomic credibility, reliable institutions, and a large supply of safe assets are not decorative. They are part of the infrastructure.
 
-This is the old problem sometimes called original sin in emerging-market finance: borrowing in a currency you do not control.
+A reserve currency is not granted tenure.
 
-The phrase sounds theological because the consequences can feel punitive.
+The British pound’s earlier international dominance did not end because everyone agreed at one meeting to choose the dollar. Economic size shifted. War finance changed balance sheets. New York markets deepened. Britain’s fiscal and external position weakened. The United States emerged from the world wars with greater productive and financial weight. The institutional architecture after World War II consolidated a transition that had been developing over decades.
 
-A household in the United States with a fixed-rate dollar mortgage and dollar wages has matched currency exposure even if the debt is large. A company in another country with dollar debt and local-currency revenues can be much more fragile at the same leverage ratio.
+That history should make both dollar triumphalists and dollar doomsayers uncomfortable.
 
-The denomination matters.
+Dominance can persist for a long time.
 
-For individual investors, this is where geopolitical currency speculation becomes more practical.
+It can also end.
 
-Instead of asking which currency will rule the world in 2040, ask what currency your liabilities are in.
+The timing is the part a portfolio cannot afford to guess with leverage.
 
-If you live in the United States, pay taxes in dollars, expect to buy groceries in dollars, and have a near-term dollar liability, some dollar assets have a straightforward matching function. That remains true even if you believe the dollar's share of global reserves will gradually decline.
+Suppose an investor is convinced that the dollar’s reserve share will decline over the next thirty years. That view could be correct and still produce no obvious trade today. The path could involve modest diversification into other currencies, more central-bank gold, greater use of local currencies in regional trade, and continued dollar dominance in global debt and foreign exchange. A slow institutional evolution can coexist with long periods in which dollar assets perform well.
 
-A twenty-year macro thesis should not prevent next month's rent from being paid in the currency the landlord accepts.
+Being right about the destination does not make every vehicle profitable.
 
-Likewise, an investor planning to retire in Europe or support family expenses in another country has a different currency problem. Holding all wealth in the currency of income while future spending is in another currency creates mismatch. The solution may involve diversified assets, explicit hedging, or simply holding appropriate near-term reserves in the spending currency.
+This is a recurring problem in geopolitical investing. The thesis is measured in decades, the security is priced every second, and the investor’s patience sits somewhere in between.
 
-That is a liability problem, not a civilization forecast.
+The mismatch creates wild speculation.
 
-Geopolitical currency commentary often skips liabilities because liabilities are boring.
+A chart of declining reserve share becomes a call to dump dollar assets. A sanctions announcement becomes proof that every government will abandon the currency. A bilateral trade agreement becomes evidence of a new monetary order. A gold-purchase statistic becomes a countdown.
 
-The drama is in declaring the winner.
+Each observation may matter.
 
-The dollar will collapse. The yuan will replace it. Gold will return. Bitcoin will become neutral money. A BRICS currency will displace Western finance. Central-bank digital currencies will change everything.
+None tells you the date.
 
-Some of these developments may matter. The word *replace* usually does too much work.
+There is another reason the infrastructure perspective matters: the dollar can be a geopolitical risk to investors who are not trying to bet against it. A company can be profitable in local currency and still fail because it cannot roll dollar debt. A country can have healthy domestic banks and face stress because foreign investors withdraw dollar funding. A fund holding emerging-market bonds can be exposed to dollar strength even without owning a dollar-denominated security directly because exchange rates affect borrowers’ ability to pay.
 
-Financial systems layer technologies and instruments rather than replacing them cleanly. Cash survived credit cards. Banks survived money-market funds. Gold survived fiat currency. Checks survived long after more efficient payment methods existed. New systems often take particular use cases first.
+Dollar exposure hides in liabilities.
 
-Reserve diversification is likely to be similarly uneven if it continues.
+Portfolio statements mostly show assets.
 
-A central bank can hold more gold and still conduct intervention in dollars. A commodity exporter can invoice a larger share of trade in another currency while investing part of the proceeds in Treasuries. A regional payment system can reduce use of a Western messaging network while underlying trade remains dollar-priced.
+That asymmetry is important for households too. A U.S. investor with foreign equities may think of them as a hedge against the dollar. But many foreign companies earn revenue in dollars, borrow dollars, buy commodities priced in dollars, or compete with U.S. firms. Their currency exposure is not the flag beside the ticker. Similarly, a domestic company can have enormous foreign-currency sensitivity through sales and supply chains.
 
-The investor who waits for a single moment called dedollarization may miss the actual phenomenon: gradual changes in who uses what, for which transaction, and under what political constraints.
+Country labels are weak proxies for currency risk.
 
-This is also why the Treasury market matters.
+This is why a globally diversified portfolio is usually a better starting point than a dramatic “anti-dollar” basket. Global companies contain many currency relationships already. Foreign securities add exposure to different economies, valuations, institutions, and currencies. Bonds can be held in domestic or foreign currency. Real assets may respond differently to inflation and exchange rates. No single instrument needs to carry the entire thesis.
 
-A reserve manager needs somewhere to put large sums without moving prices too violently. U.S. government securities provide scale, a range of maturities, extensive market infrastructure, and a benchmark used throughout finance. Critics of American fiscal policy are correct that rising debt and interest costs can create long-term economic and political risks. A large supply of safe, liquid securities is also part of what makes a reserve currency useful.
+The portfolio can admit that the monetary future is uncertain.
 
-These facts coexist awkwardly.
+That is more powerful than it sounds.
 
-The United States can weaken confidence by mismanaging fiscal policy while simultaneously supplying the assets the reserve system demands.
+A person who believes the dollar is invincible may overconcentrate in one country and one currency. A person who believes the dollar is doomed may overpay for every asset marketed as outside the system. Both positions depend on certainty that history has rarely supplied on schedule.
 
-The system contains contradictions because the world is not designed around conceptual cleanliness.
+Infrastructure encourages a third view.
 
-The same ambiguity applies to sanctions power.
+The dollar system is strong because it is useful.
 
-A globally used dollar gives the United States leverage because many transactions touch institutions under U.S. jurisdiction or rely on firms that cannot risk losing access to the American financial system. That leverage can achieve foreign-policy goals without direct military force.
+Its usefulness can be weakened by policy, competitors, technology, fiscal strain, fragmentation, or loss of trust.
 
-It can also create incentives for targeted states to build alternatives.
+Those changes are worth watching.
 
-How fast those alternatives grow depends on costs. A shadow shipping network is more expensive than ordinary shipping. A local-currency trade agreement may require one party to accumulate a currency it does not want to hold. A payment route built for sanctions resilience may be less convenient in ordinary commerce. Gold is useful for reserves but clumsy for commercial invoicing. Barter can work and is not a financial revolution.
+They do not require prophecy.
 
-The dollar's moat is partly the inconvenience of everything else.
+There are practical indicators: reserve composition, foreign-exchange turnover, trade invoicing, international debt issuance, cross-border bank claims, demand for Treasury securities, the depth of alternative bond markets, capital-account openness, and the ability of competing currencies to provide trusted assets at scale. A serious case for monetary transition should show change across several of these dimensions rather than treating one headline as decisive.
 
-Moats can erode.
+Even then, the investor should ask the humiliating question: what is already priced?
 
-They usually erode at the margin before they disappear at the center.
+If every macro fund, central bank, corporation, and newspaper is debating de-dollarization, the idea itself is not secret. The opportunity, if there is one, lies in misjudging speed, scale, or transmission.
 
-For investors, the best defense against getting trapped in a currency ideology is to separate three questions.
+The same is true of sanctions. The financial power of the dollar makes sanctions more effective. The visibility of that power makes diversification away from it more strategically attractive. These forces coexist.
 
-What currency do I need to spend?
+Systems can be both strong and under pressure.
 
-What currency are the assets and liabilities of the companies I own exposed to?
+That sentence lacks the satisfaction of a trade recommendation.
 
-What political and institutional risks attach to the places where those claims are held?
+It has the advantage of being closer to reality.
 
-The first is personal. The second is financial analysis. The third is geopolitical.
+The dollar is not a stock that loses market share to the euro and receives an earnings warning. It is an overlapping set of habits, contracts, institutions, collateral practices, legal expectations, and markets. Its decline, if and when it comes, is unlikely to be clean enough to fit on a thumbnail.
 
-They interact without becoming the same question.
+A war may accelerate some parts of the transition and strengthen others. Sanctions can encourage alternatives while a crisis creates new demand for dollar liquidity. U.S. borrowing can raise concern about fiscal sustainability while simultaneously increasing the supply of Treasury securities that the global system uses as collateral. Political fragmentation can reduce trade integration while making deep, liquid financial havens more valuable.
 
-A multinational company may report earnings in dollars while earning revenue in dozens of currencies. A stronger dollar can reduce the translated value of foreign profits even if the underlying businesses are healthy. A commodity producer may sell a dollar-priced product while paying local-currency wages. An exporter can benefit from a weaker home currency. A bank can have assets in one currency and liabilities in another.
+Contradiction is not a flaw in the analysis.
 
-Currency exposure lives inside companies before it appears in an investor's brokerage statement.
+It is the system.
 
-That makes global equity ownership a partial form of currency diversification, though not a simple or guaranteed hedge. The companies themselves hedge, borrow, invoice, and invest across borders. Their valuations reflect some of these exposures. Adding a separate currency trade on top can double an exposure the investor does not realize is already present.
+For the investor, the appropriate response is neither worship nor escape.
 
-This is another example of the broader rule: find the existing bet before adding the geopolitical bet.
+It is to know which parts of life depend on the dollar, which assets diversify that dependence, what new risks the diversifiers introduce, and how much conviction the plan actually requires.
 
-There is also a temptation to confuse dollar weakness with American collapse and dollar strength with American health.
+The dollar is a currency.
 
-Exchange rates are relative prices.
+It is also a network.
 
-A currency can strengthen because another economy is weaker. It can strengthen during global panic because investors need liquidity. It can weaken during strong domestic growth if risk appetite sends capital elsewhere or if monetary policy expectations change. It can fall because inflation is higher, because interest rates are lower, because trade dynamics shift, or because the starting valuation was expensive.
+Networks usually look immortal until they do not.
 
-The currency is not a national report card.
+That is a reason to diversify.
 
-Patriotism and pessimism are poor foreign-exchange models.
-
-War intensifies this confusion because currencies acquire strategic meaning. Countries seek financial autonomy. Investors seek safe havens. Governments finance larger deficits. Central banks react to inflation. Trade flows move. Energy import bills change. Refugees move across borders. Foreign reserves are spent. Capital seeks jurisdictions thought to be safer.
-
-Every mechanism can point in a different direction.
-
-A country entering war may see capital flee. A country viewed as a safe haven may see capital enter. A large defense buildup may support domestic demand but increase deficits. An energy exporter may see its terms of trade improve while an importer deteriorates. A central bank may raise rates despite recession risk because inflation and currency pressure are severe.
-
-The phrase *war is bullish for the dollar* or *war is bearish for the dollar* is therefore a sentence missing most of its nouns.
-
-Which war?
-
-Whose dollar liabilities?
-
-Which countries are involved?
-
-What is the central bank doing?
-
-What was priced before the event?
-
-What is happening to energy and trade?
-
-Those questions are less marketable than a forecast. They are more honest.
-
-The dollar matters in a possible global conflict because it is both money and machinery. It is a currency people hold, a unit contracts use, a liability borrowers owe, a medium banks settle, a reserve central banks manage, and an instrument American policy can turn into leverage.
-
-That complexity is a source of strength.
-
-It is also a source of exposure.
-
-The investor does not need to choose between believing the dollar is invincible and believing it is doomed.
-
-Infrastructure is rarely invincible.
-
-Infrastructure is often harder to replace than its critics expect.
+It is not a reason to guess the funeral date.

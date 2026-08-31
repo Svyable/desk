@@ -1,227 +1,227 @@
 # Cyberwar Has No Opening Bell
 
-A missile announces itself eventually.
+A conventional war has ceremonies of recognition.
 
-A compromised administrator account may not.
+Troops cross a border. Aircraft take off. Ships move. Governments issue statements. News organizations interrupt programming. Even when the legal status is disputed, the public can point to a visible event and say something changed.
 
-That is one of the reasons cyber conflict is so unsettling to investors. Conventional war has maps, fronts, uniforms, mobilization, visible hardware, and official statements. Cyber operations can begin months before anyone decides to call the larger confrontation a war. An intruder can enter a network quietly, establish persistence, map systems, steal credentials, and wait.
+Cyber conflict does not owe us that moment.
 
-The market may never receive a clean opening bell for the conflict.
+An intruder can sit inside a network for months before discovery. The attacker can be a government service, a criminal group, a contractor, a proxy, a patriotic volunteer, or several of them at once. The same tools can be used for espionage, theft, disruption, or preparation for later disruption. A compromised router does not carry a flag. A stolen credential does not announce whether it belongs to war.
 
-A company discovers files are encrypted. A pipeline shuts down. A hospital reverts to paper. A software provider says an update may have been compromised. A cloud region has an outage. A bank warns customers that online services are unavailable. An industrial control system behaves strangely. Government agencies advise critical-infrastructure operators to increase vigilance.
+The market may therefore trade a cyber event before anyone knows what the event is.
 
-Then the investor confronts an awkward fact.
+Or long after it began.
 
-The thing being attacked may not be the thing whose stock you own.
+That makes cyberwar unusually compatible with wild speculation. An outage appears. A rumor attributes it to a foreign state. Cybersecurity stocks rise. A company says it is investigating. Social media names an adversary before investigators do. Hours later the cause turns out to be a software configuration error, a criminal ransomware crew, an insider, a failed update, or something still unknown.
 
-Modern companies rent enormous portions of their operational life.
+Attribution has an investment price.
 
-They use cloud providers, payroll systems, identity platforms, payment processors, telecom networks, managed-security services, software libraries, data vendors, logistics platforms, and third-party code. A company can have excellent internal controls and still be disrupted by a supplier whose name most shareholders have never heard.
+The first discipline is to separate cyber risk from cyber theater.
 
-Cyber risk therefore behaves like supply-chain risk with invisible inventory.
+The risk is real. CISA describes American critical infrastructure as an interconnected ecosystem across sixteen sectors, with communications and information technology woven through energy, finance, transportation, health care, water, government, manufacturing, and other essential services. In 2022 U.S. and allied cyber agencies warned that Russia’s invasion of Ukraine could increase malicious cyber activity against organizations both inside and outside the region. In 2025 CISA and partners described Chinese state-sponsored actors targeting telecommunications, government, transportation, lodging, and military infrastructure networks around the world, including large network routers.
 
-The dependency is software.
+Those warnings describe a persistent environment, not a single trade date.
 
-The concentration can be enormous.
+Cyber risk is already part of peacetime business.
 
-A vulnerability in a widely used product can expose thousands of organizations at once. A compromised managed-service provider can become a bridge into many customers. A destructive attack on a major cloud or communications provider could affect firms across industries that appear unrelated on a sector map.
+War can raise the intensity, broaden the targets, or change the consequences.
 
-The portfolio holds different stocks.
+That means an investor who buys cybersecurity only after a military crisis may be arriving late to a structural trend. Spending on security is driven by crime, regulation, insurance, digital transformation, cloud adoption, espionage, supply-chain risk, and ordinary corporate negligence as well as interstate conflict.
 
-The stocks share a login screen.
+The theme is broader than war.
 
-This is why cybersecurity belongs in a book about geopolitical investing rather than only in an information-technology manual.
+That can make it a good business trend and a poor pure hedge.
 
-States use cyber capabilities for espionage, influence, disruption, prepositioning, and military support. Criminal groups can operate in the same environment, sometimes with tacit protection or ambiguous relationships to governments. Attribution is difficult. A ransomware attack may be ordinary crime, state-directed coercion, opportunistic exploitation during a crisis, or some mixture that never becomes public.
+A cybersecurity company can benefit from rising concern and still fall because its growth slows, competition intensifies, customer-acquisition costs rise, or valuation was excessive. A successful cyberattack can increase demand for the industry and damage the specific company whose product failed to prevent it. The same event can be bullish for the theme and bearish for the vendor.
 
-For an investor, motive matters less at first than operational consequence.
+Security revenue is not security effectiveness.
 
-Can the company produce? Can it bill? Can employees access systems? Can customers authenticate? Can payments settle? Can factories run safely? Can backups be restored? Can management determine what data was stolen? Does the company have to shut systems down voluntarily to prevent something worse?
+This is one reason cyber markets are hard to analyze from the outside. Customers do not want to describe every weakness. Vendors market heavily. Attackers adapt. New product categories proliferate. A company can show impressive recurring revenue while customers struggle with too many tools, overlapping alerts, and a shortage of people able to respond.
 
-These are cash-flow questions arriving through a server rack.
+The actual bottleneck may be operational discipline.
 
-U.S. agencies have repeatedly warned critical-infrastructure operators to prepare for state-sponsored cyber threats associated with geopolitical tensions. CISA's guidance to corporate leaders during the Russia-Ukraine war emphasized continuity planning, authentication, patching, backups, incident response, and leadership attention. The SEC's cybersecurity disclosure rules later reinforced the idea that cyber incidents and governance can be financially material to public companies.
+Patch the systems.
 
-The language of both is less exciting than the phrase cyberwar.
+Use multifactor authentication.
 
-That is a point in its favor.
+Segment networks.
 
-Serious cyber resilience is mostly procedural.
+Back up critical data.
 
-Who has access? Is multifactor authentication enforced? Are backups isolated? Can systems be restored? Are networks segmented? Does the company know which third parties matter? Is there an incident-response plan? Has it been tested? Who makes decisions when email is unavailable? How quickly can critical operations continue manually?
+Know which assets matter.
 
-The investor cannot inspect all of this from the outside.
+Practice recovery.
 
-The investor can look for evidence of whether management treats the problem as operational risk or public-relations risk.
+CISA’s cross-sector cybersecurity goals emphasize this kind of baseline work because high-impact risk reduction often comes from controls less exciting than artificial intelligence catching an elite adversary in real time.
 
-Disclosures help, imperfectly. Companies describe material incidents, risk factors, governance structures, insurance, dependencies, and remediation costs. The quality varies. Boilerplate can make every company sound equally vulnerable. After an incident, details may remain limited for security reasons. Management has incentives not to advertise weaknesses.
+Cyber resilience resembles portfolio resilience in that respect.
 
-Cyber analysis therefore requires the same humility as geopolitical analysis more broadly.
+The boring controls carry a surprising amount of the load.
 
-The absence of disclosed trouble is not proof of safety.
+The second discipline is to distinguish information technology from operational technology. An email system going offline is painful. An industrial control system managing a pipeline, water plant, factory, grid asset, or transportation system can connect digital disruption to physical consequences. The line between cyber event and commodity event can disappear quickly.
 
-The presence of a breach is not proof of incompetence.
+A hacked scheduling system can delay cargo.
 
-A company can do many things well and still be attacked successfully because defense must cover a large surface while an attacker may need one path. The relevant question is often how well the organization contains and recovers from failure.
+A compromised industrial system can stop a process.
 
-This is a resilience business, not a purity business.
+A telecommunications outage can prevent payment terminals, dispatch systems, or cloud applications from working even when the physical facilities remain intact.
 
-That distinction matters for cybersecurity companies too.
+This is why cyber belongs in a book about geopolitics and investing even though no missile is involved. Modern production depends on software and communications so thoroughly that digital access has become part of physical capacity.
 
-The obvious cyberwar trade is to buy cybersecurity stocks.
+A factory without control systems is a building.
 
-Governments and corporations spend more on security as threats rise. Regulation increases. Insurance requirements tighten. Boards pay attention. Every breach becomes a sales presentation for somebody.
+A port without scheduling is a parking problem.
 
-The demand story is excellent.
+A bank without trusted identity and communications is a vault with confused doors.
 
-Demand stories can be expensive.
+The financial investor often misses this because public-company analysis treats cyber risk as an expense line, an insurance disclosure, or a generic risk factor. The operational question is more concrete: what stops when the network stops?
 
-A cybersecurity company may grow rapidly and still be a poor investment if the valuation assumes even faster growth. Competition is intense. Customers consolidate vendors. Security products can become features inside larger platforms. New architectures make older tools less relevant. A vendor that markets itself as the solution can itself suffer an incident, creating reputational damage precisely because expectations were high.
+For some businesses, the answer is almost everything.
 
-The sector's strategic importance does not exempt it from software economics.
+The third discipline is to look for concentration. Cloud infrastructure creates tremendous efficiency, security capability, and scalability. It can also make many customers dependent on the same providers, regions, identity systems, networking layers, and software. A widely used security product can reduce risk at thousands of organizations and create a widely shared dependency if a bad update or compromise propagates through them.
 
-It may make the market willing to pay more for them.
+Concentration is not an argument against cloud computing or common software.
 
-That is not the same thing.
+It is an argument for knowing the blast radius.
 
-The most useful cyber investment analysis begins by separating prevention from recovery.
+A portfolio may own fifty technology companies and depend economically on three cloud providers. A business may use dozens of vendors and authenticate them through one identity platform. A household may have savings at several institutions and use the same email account and phone number to recover every password.
 
-Prevention reduces probability. Recovery reduces consequence.
+The number of accounts can exceed the number of failure modes.
 
-A company can spend heavily trying to prevent every intrusion and still fail if it cannot restore operations after one succeeds. An investor examining a highly connected business should therefore care about business continuity as much as firewalls.
+This is the cyber version of false diversification.
 
-Banks understand this intuitively because payment continuity is part of the product. Utilities understand it because outages are visible. Hospitals understand it because downtime can be dangerous. Technology companies understand it because service availability is revenue.
+The fourth discipline is recovery. Security discussions obsess over prevention because prevention feels like success. But a determined attacker, careless employee, software defect, hardware failure, or unknown vulnerability can defeat prevention. Resilience asks what happens next.
 
-Other companies can underestimate the dependency until a cyber event converts software into a physical bottleneck.
+Can the company operate manually?
 
-A manufacturer loses access to production scheduling and the factory slows. A retailer's payment systems fail and checkout lines stop. A logistics company cannot dispatch trucks. A port operator cannot process containers. A pipeline operator shuts operations while investigating compromise. A pharmacy cannot verify prescriptions.
+Can data be restored from backups the attacker cannot alter?
 
-The keyboard reaches the loading dock.
+Are communication channels available if corporate email is down?
 
-This is where cyber conflict can amplify a conventional war.
+Can customers be told what happened?
 
-An adversary need not destroy every piece of infrastructure physically if it can make operators uncertain whether systems can be trusted. Data integrity can matter as much as availability. If a grid operator cannot trust sensor readings, if a military unit cannot trust logistics data, if a bank cannot trust account records, the system may slow itself for safety.
+Can payroll run?
 
-Trust is operational capacity.
+Can the plant shut down safely?
 
-Financial markets are especially dependent on trust because speed is high and settlement involves large values. Exchanges, brokers, clearinghouses, banks, market-data providers, identity systems, and telecom networks form a tightly coupled infrastructure. Financial institutions invest heavily in redundancy and security partly because a small interruption can create cascading effects.
+Can the business identify which systems must return first?
 
-A cyberattack that stops trading would attract enormous attention.
+CISA’s broader resilience work explicitly defines resilience around the ability to prepare, adapt, withstand, and recover. The idea applies beyond cybersecurity because recovery is what converts a disruption from an existential event into an expensive event.
 
-A more plausible and financially important event may be a degraded system that remains open.
+Investors should care about that difference.
 
-Latency rises. Some customers cannot access accounts. A payment processor has intermittent failures. A broker restricts a feature. Market makers widen spreads because they are uncertain about connectivity. Companies delay transactions. Fraud monitoring becomes more aggressive and produces false positives.
+Two companies can suffer the same attack and experience different economic outcomes because one recovers in hours and the other in weeks. The attack receives the headline. Architecture determines the loss.
 
-The economy continues.
+The same principle applies to markets themselves. Exchanges, clearinghouses, banks, brokers, and data providers maintain continuity systems because the financial system is a cyber target. A geopolitical crisis that disrupts communications could create market closures or settlement problems without damaging the securities themselves.
 
-Friction rises.
+The asset remains.
 
-This theme should sound familiar by now.
+The access layer fails.
 
-Many geopolitical shocks are economically important not because they stop a system completely but because they make every transaction slightly harder, slower, or more expensive.
+This returns us to the earlier chapters. Custody, settlement, currency, market access, and cyber operations are not separate categories of risk. They stack.
 
-Cyber risk has a particular talent for producing invisible friction.
+A sanctions action can require banks to change systems quickly. A cyberattack can hit the same banks. A power outage can affect communications. A disinformation campaign can exploit the resulting confusion. A market can become volatile because participants do not know whether a reported outage is local, accidental, criminal, or state-sponsored.
 
-Companies spend more on security staff and software. Employees complete more verification steps. Vendors undergo reviews. Insurance requires controls. Mergers include cyber due diligence. Boards devote meeting time. Regulators request disclosures. Developers delay features to patch vulnerabilities.
+Hybrid conflict is financially difficult because causes overlap.
 
-Much of this spending is useful.
+Investors respond by searching for the pure beneficiary.
 
-It is also a tax on operating complexity.
+Cybersecurity companies are the obvious candidate.
 
-The security industry benefits because complexity keeps increasing. The economy pays because the alternative is worse.
+The category deserves care. Some vendors sell network security. Others identity, endpoint protection, cloud security, data protection, vulnerability management, threat intelligence, secure access, incident response, industrial controls, or consulting. Customers can consolidate tools around a platform or buy specialist products. The competitive landscape changes quickly.
 
-War can intensify this spending without producing an obvious beneficiary. A company may purchase more security tools from multiple vendors, hire consultants, increase internal headcount, and invest in backup infrastructure. The total addressable market expands. So do customer demands for integrated platforms and lower vendor count.
+A fund containing the word cyber may own a very different basket from the exposure an investor imagines.
 
-The company that wins may be the one simplifying security rather than selling the largest number of alerts.
+Read the holdings.
 
-Investors should be wary of businesses whose geopolitical pitch is stronger than their product economics.
+Then ask whether the portfolio already owns many of them through a broad technology index.
 
-A surge in attacks can create temporary demand and temporary valuation excitement. The durable business requires renewal rates, customer trust, unit economics, product quality, and the ability to keep pace with attackers and platform shifts.
+A thematic hedge can become another technology overweight.
 
-The war does not write the code.
+This matters because cyber stocks themselves can be sensitive to interest rates and growth expectations. High-valued software companies may fall in an inflationary geopolitical shock even while the attack environment worsens. The underlying business demand can strengthen while the discount rate hurts the stock.
 
-Another speculative corner of cyberwar is the idea that decentralized systems become inherently superior during conflict because they lack central points of failure.
+Again, business direction is not share-price direction.
 
-Decentralization can help in certain architectures. A distributed network may route around failed nodes. Multiple data centers reduce dependence on one site. Peer-to-peer communications can remain useful when central systems are unavailable.
+For companies outside the security industry, cyber preparedness can be a source of competitive advantage that never appears as a product. A manufacturer with segmented plants, tested backups, supplier redundancy, and practiced incident response may lose less production than a competitor. A bank with robust identity controls may suffer less fraud. A logistics company with manual contingencies may keep critical shipments moving.
 
-But decentralization can also spread vulnerabilities, complicate governance, and create dependencies on software maintained by small groups of developers. A blockchain can continue producing blocks while the user's internet connection is down. A distributed application can be reachable while the oracle feeding it data is compromised. A protocol can be decentralized while most users access it through a handful of centralized exchanges or cloud interfaces.
+Resilience can show up as lower tail loss rather than higher revenue.
 
-Again, the map of the system matters more than the label.
+That is difficult for valuation models because the counterfactual is invisible.
 
-Cyber resilience is full of these false absolutes.
+The loss did not happen.
 
-Cloud versus on-premises. Centralized versus decentralized. Open-source versus proprietary. Air-gapped versus connected. Each architecture moves risk around.
+This is the same accounting problem we saw with inventory, spare capacity, and household emergency funds. Efficiency is measured every quarter. Resilience often becomes visible only on the bad day.
 
-A large cloud provider may offer security expertise and redundancy a small company could never build itself. Concentration at the provider creates systemic exposure. An on-premises system gives a company more direct control and can suffer from weaker staffing or outdated software. Open-source code can be inspected by many people and can also contain dependencies nobody inside the company fully understands.
+Geopolitical risk makes the bad day more valuable to model.
 
-There is no architecture called safe.
+The household version of cyber resilience is surprisingly important. A person preparing financially for war may spend hours comparing gold and defense funds while every account can be reset through one compromised email address. Identity theft, account takeover, SIM swapping, phishing, and device loss are more probable personal threats than a hostile state freezing the retirement account.
 
-There are architectures whose failure modes have been considered.
+The extreme scenario should improve the ordinary defenses.
 
-This is a useful idea for portfolios too.
+Use strong authentication.
 
-A portfolio is another architecture. It has concentrations, dependencies, and recovery paths. A market shock can be thought of as an incident. Can the investor continue meeting obligations without selling impaired assets? Is there enough liquidity? Is there one institution whose failure blocks everything? Are records and account information available outside one device? Does the household have alternate payment methods?
+Secure the email account that controls other accounts.
 
-The analogy should not be overworked, but one phrase from cybersecurity transfers perfectly: assume breach.
+Keep recovery information current.
 
-In portfolio terms, assume something will eventually go wrong.
+Maintain offline copies of critical documents where appropriate.
 
-Not the specific thing you fear most. Something.
+Make sure another trusted person can act if you cannot.
 
-A company disappoints. A country imposes a restriction. A currency falls. A job disappears. A broker has an outage. A storm damages property. A market drops more than expected. The purpose of resilience is not to predict which incident earns the ticket number.
+Understand which institutions to contact if devices are lost.
 
-It is to prevent one incident from owning the whole system.
+These steps are not a cyberwar portfolio.
 
-Cybersecurity professionals also know that incident response becomes worse when improvisation begins after the intrusion.
+They are a financial continuity plan.
 
-The same is true of frightened investing.
+The distinction is important because fear attracts expensive solutions. There is a market for encrypted hardware, private networks, identity products, monitoring services, secure storage, and survival technology. Some are valuable. The buyer should still ask which failure each solves.
 
-Decide in calm periods how much emergency liquidity is enough. Decide how much concentration is acceptable. Decide how large a thematic position can become before rebalancing. Decide whether leverage belongs in the plan. Decide what information would invalidate a thesis.
+Complexity can create new risk.
 
-Then the headline arrives into a system with some rules already written.
+A security system nobody in the family knows how to recover can lock out the owner as effectively as an attacker. A hardware wallet whose recovery phrase is lost is secure from everyone, including you. A portfolio spread across obscure institutions for fear of concentration can become impossible for an executor to understand.
 
-This reduces the chance that panic gets administrator privileges.
+Resilience needs usability.
 
-The cyberwar scenario also places a practical limit on certain forms of financial preparation.
+The same is true for corporations. Security programs can become collections of expensive products that nobody integrates. The best system is not the one with the most controls. It is the one that reduces meaningful risk while preserving the organization’s ability to operate.
 
-If someone believes the financial system may suffer a temporary digital outage, holding every emergency resource inside one smartphone-dependent account is an unnecessary concentration. That does not imply keeping large amounts of physical currency at home or abandoning digital finance. It means small redundancies can be useful: multiple ways to pay, accessible account information, trusted contacts, and enough household preparedness to tolerate a short interruption.
+War raises the stakes but does not repeal tradeoffs.
 
-Temporary is an important word.
+There is also a problem of attribution. Governments may know more than they can publicly disclose. Companies may hesitate to name attackers. Security researchers can disagree. Intelligence assessments are probabilistic. Political leaders have incentives to frame incidents in ways that support policy.
 
-People often prepare for permanent collapse because it is dramatic and neglect temporary inconvenience because it is boring. Yet the latter is much more common.
+The investor should resist turning early attribution into a trade thesis.
 
-A payment network is down for hours. A bank app is unavailable for a day. A merchant cannot process cards. A mobile network is congested. An identity-verification system fails. A regional power outage interrupts service.
+A cyber event can be severe without being state-sponsored.
 
-Resilience for a day can prevent foolish decisions made in the first hour.
+A state-sponsored intrusion can be strategically important without producing immediate financial damage.
 
-For companies, the same principle scales upward. Redundant communications, backup suppliers, offline procedures, segmented systems, and tested recovery plans rarely increase quarterly revenue. They can preserve years of enterprise value when an attack succeeds.
+The label is not the loss estimate.
 
-Markets have difficulty valuing avoided disasters because avoided disasters produce no chart.
+This is particularly important when markets are already primed for escalation. If conventional tensions are high, every outage will be interpreted through them. The investor who wants evidence for a wider war will find it quickly.
 
-That is why management culture matters.
+The disciplined response is slower.
 
-A company that treats every control as an expense to minimize can look efficient until it encounters the event the control was designed for. A company that spends indiscriminately on every conceivable protection can become inefficient without becoming secure.
+What system failed?
 
-The correct level of resilience is a judgment about consequence and probability.
+What function does it perform?
 
-Investors make the same judgment.
+How long is recovery likely to take?
 
-World War 3 is the most dramatic label for a world in which cyber operations would almost certainly matter. The label can mislead because it suggests the cyber campaign begins when the war does.
+Who has redundancy?
 
-It may begin earlier.
+Who bears the cost?
 
-It may never be acknowledged.
+What is known about the attacker?
 
-It may target logistics instead of markets, identity instead of factories, communications instead of securities. It may fail. It may succeed briefly. It may create more confusion than destruction.
+What remains speculation?
 
-The financial consequence will depend less on whether commentators call it war than on whether the affected systems can continue doing their jobs.
+The same questions that improve cybersecurity also improve geopolitical investing because both disciplines are about adversaries, uncertainty, and layered defenses.
 
-That is the quiet standard throughout this book.
+No single control stops every attacker.
 
-Can the system continue?
+No single asset hedges every war.
 
-A portfolio, a company, a bank, a household, a market, a country.
+The goal is to keep one breach from becoming total failure.
 
-The systems that survive are rarely the ones that predicted the exact attack.
+Cyberwar has no opening bell.
 
-They are the ones built with the expectation that certainty was never part of the design.
+That is exactly why the preparation cannot wait for one.

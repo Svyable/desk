@@ -1,177 +1,153 @@
 # When the Market Closes
 
-On the morning of July 31, 1914, the most important price on Wall Street was the price nobody was allowed to print.
+On the last trading day of July 1914, New York did something that a modern investor is trained to treat as nearly unthinkable.
 
-Europe had been closing its exchanges as the July crisis accelerated toward war. By Friday, New York was positioned to become the last major market through which frightened holders could sell securities and seek gold. The New York Stock Exchange governing committee met before the opening bell and voted not to open at all.
+It stopped.
 
-It stayed substantially closed for more than four months.
+Europe was moving toward war. Gold was leaving the United States. Foreign holders of American securities had reason to sell assets and demand payment in a form they trusted. American exchanges faced the possibility of becoming the one large market still open while European markets shut, which meant New York could become the place where the world liquidated. The New York Stock Exchange closed, and other American exchanges followed. Contemporary financial publications stopped printing the usual quotation tables because there were no ordinary exchange prices to print.
 
-The episode is easy to file under antique finance. Men in stiff collars, gold shipments, handwritten orders, a world before computers. Modern investors have circuit breakers, electronic venues, derivatives, central banks with mature crisis facilities, globally distributed trading systems, and backup data centers. Surely 1914 belongs to the same financial museum as ticker tape and call money.
+The closure lasted for months.
 
-Then ask a simpler question.
+That episode belongs to a different monetary system, a different market structure, and a different political world. It is not a template for what would happen in the next major conflict. It matters because of the assumption it destroys.
 
-What exactly do you own when the market is unavailable?
+Liquidity is not a law of nature.
 
-The answer is uncomfortable because a modern portfolio is partly a legal arrangement, partly a technical arrangement, partly an institutional arrangement, and only then a set of prices on a screen.
+The price on your screen is an invitation produced by institutions that are functioning. It assumes there is a venue, a counterparty, a broker willing and able to route the order, a bank willing and able to move the money, a custodian that recognizes title, a clearing system that can reconcile obligations, communications networks that connect the participants, and law that still tells everyone what the claim means. Most of the time this machinery works so reliably that investors collapse all of it into one word: market.
 
-A share is a claim. A bond is a claim. A bank deposit is a claim. A money-market fund share is a claim. A futures contract is a claim. A cryptocurrency token is a claim on a network's rules and on the practical ability to access that network. Even physical gold is a claim of a different sort if it sits in a vault you cannot reach or in an exchange-traded vehicle whose plumbing you have never studied.
+A severe geopolitical event can pull the machinery apart.
 
-Most days these distinctions are pedantic.
+September 2001 offers a more recent American example. The U.S. equity and options markets did not open on the morning of the attacks. Fixed-income and futures markets came back before equities. Regulators and exchanges spent days verifying telecommunications, power, clearing links, alternate work sites, and the practical ability of firms to participate. Equities reopened on September 17 only after extensive testing.
 
-Crises are when pedantry becomes money.
+Again, the lesson is not that American markets are fragile. The opposite conclusion is at least as reasonable. A complex financial system absorbed a physical attack on its most important financial district, repaired broken connections, coordinated institutions, and reopened. The lesson is that resilience required a pause.
 
-The 1914 closure did not erase American companies. Factories did not vanish because the exchange shut its doors. Railroad tracks remained in the ground. Banks still had assets and liabilities. Investors still owned securities. But the public mechanism for discovering prices and converting those claims into cash was interrupted at the moment people most wanted to use it.
+The pause is itself a form of risk.
 
-Informal markets emerged. A so-called New Street market operated outside the formal exchange, and later research found that it provided meaningful, if imperfect, liquidity. The important lesson is not that markets always route around restrictions. Sometimes they do. The lesson is that liquidity migrated from the place where investors assumed it lived.
+Investors often define liquidity as the ability to sell without moving the price too much. In calm markets that is a useful definition. In extreme conditions it is incomplete. There is price liquidity, settlement liquidity, funding liquidity, legal liquidity, and operational liquidity. A security may have a theoretical economic value and still be impossible for you to turn into spendable money on the timetable you expected.
 
-That migration changes who can transact, at what cost, under what rules, with what information, and with what legal certainty.
+That distinction became painfully visible after Russia invaded Ukraine in 2022. Trading in Russian securities was suspended on the Moscow Exchange. U.S. exchanges halted trading in shares and depositary receipts of several companies with material Russian exposure. International settlement links were disrupted. Sanctions later reached institutions central to Russian market infrastructure. For some foreign holders the problem stopped being “what is this worth?” and became “through which legal and operational path could this be sold or delivered at all?”
 
-A retail investor looking at a brokerage app in 2026 sees liquidity as a button.
+Those are different questions.
 
-The button creates an optical illusion.
+A brokerage statement can continue showing a line item after the market around the line item has ceased to function normally. The account may display an old price, an estimated price, no price, or a price from a venue to which the investor has no practical access. That number can become a kind of financial ghost: evidence that the asset exists without evidence that the owner can convert it.
 
-Behind it sits a stack of institutions: the broker, custodians, exchanges or alternative venues, market makers, clearinghouses, banks, payment systems, telecom networks, cloud infrastructure, regulators, and ultimately the legal order defining ownership and settlement. The stack works so consistently that investors treat the interface as the asset itself.
+In ordinary portfolio theory, this problem often appears as a liquidity premium. Investors demand compensation for holding assets that are harder to trade. But war and sanctions can produce something harsher than ordinary illiquidity. They can change whether the owner is legally permitted to trade, whether counterparties are legally permitted to face the owner, whether a security can cross a settlement bridge, whether a custodian can transfer it, whether proceeds can be converted, or whether capital controls prevent the money from leaving the jurisdiction.
 
-That is like treating a faucet as the water system.
+The asset has not merely become less liquid.
 
-The distinction matters in ordinary volatility. It matters much more in war.
+The route between ownership and use has changed.
 
-Markets can close for direct physical reasons. The New York exchanges closed after the attacks of September 11, 2001, because lower Manhattan was an active disaster zone and financial infrastructure had been disrupted. Markets can halt particular securities. Governments can impose sanctions. Exchanges can delist instruments. Clearing systems can stop accepting collateral. Brokers can restrict trading. Countries can impose capital controls. Banks can close temporarily. Communications systems can fail. Payment rails can be targeted. Settlement can become legally ambiguous when counterparties are sanctioned between trade date and settlement date.
+This is why “I own foreign stocks” is less complete a sentence than it sounds. Where are the securities issued? In what legal form? Are they ordinary shares, depositary receipts, fund interests, derivatives, or claims through an intermediary? Who is the custodian? Which depository sits underneath the custodian? In what jurisdiction is title ultimately recognized? In what currency are distributions made? Which payment networks move the proceeds? Which sanctions regimes apply to the intermediaries?
 
-None of these requires a cinematic global war.
+In normal times those questions are paperwork. In abnormal times they are the investment.
 
-They require only a sufficiently serious conflict between the assumptions embedded in a financial system and the emergency policies of a state.
+The same is true inside a country. An exchange-traded fund may trade every second while its underlying market is closed. An open-end fund may promise daily redemption while holding instruments that trade infrequently. A bond can have a quoted yield without there being meaningful size behind the quote. A bank deposit can be payable on demand until the bank, the payment network, or the government imposes limits. A crypto token can trade twenty-four hours a day while the investor’s bridge back to ordinary currency depends on a bank that is closed for the weekend or on an exchange facing withdrawal pressure.
 
-The person who says, "I'll just sell if things get bad," is therefore making a much larger assumption than it appears.
+“Open” is not binary.
 
-The person assumes that the market will be open, the broker will be functioning, the asset will remain eligible for trading, there will be a buyer, the spread will be tolerable, the currency will be usable, the proceeds will be transferable, and the sale will not itself be occurring after everybody else has reached the same conclusion.
+There are degrees of access and layers of dependency.
 
-This is not an argument for paranoia.
+War concentrates those dependencies because governments become more willing to intervene in finance. That is not necessarily a sign of institutional failure. A government may close a market to prevent disorderly liquidation, impose capital controls to slow a currency run, freeze assets to enforce sanctions, restrict short selling, change margin requirements, guarantee funding markets, or prioritize the settlement of transactions considered essential. Each measure can be defensible in its context. Each also changes what an investor thought the rules were.
 
-It is an argument against treating liquidity as a property that belongs permanently to the asset.
+The phrase rules of the game is misleading because games are usually defined before play begins. Financial emergencies can rewrite rules during the match.
 
-Liquidity is a relationship between an asset, a market structure, other participants, institutions, laws, and a particular moment in time.
+This creates a peculiar problem for hedging. Investors often buy a security because they expect it to rise during the exact crisis in which they may need to sell it. The hedge looks persuasive in a backtest because the historical price series assumes prices existed. Yet the practical hedge must answer a different question: could the holder convert the gain into the thing needed when needed?
 
-A Treasury bill in a deep market on a normal Tuesday is extremely liquid. A house is not. A small private company is less liquid still. That ranking feels obvious. But even the liquid Treasury depends on settlement systems and functioning institutions. The house may prove useful precisely because nobody can mark it down every second. The private company may continue producing cash when public markets are closed, or it may become impossible to finance. "Liquid" and "safe" overlap sometimes. They are not synonyms.
+Imagine a person who owns an asset that doubles during a severe geopolitical rupture but cannot sell it for six months. If the person’s need is a retirement date twenty years away, the delay may be irrelevant. If the person’s need is to pay rent after an evacuation, it is not a hedge for that need.
 
-World War I made the distinction brutal.
+Liquidity belongs to the liability.
 
-The outbreak of war created pressure not merely because investors feared lower corporate profits. European holders of American securities had reasons to raise dollars and gold. The United States was still on the gold standard. Officials were worried about gold outflows at a moment when the Federal Reserve System itself was not yet fully operational. The exchange closure was therefore tied to monetary plumbing, international capital flows, and the institutional infancy of the central bank.
+What are you trying to pay, in what currency, on what date, through what system?
 
-A modern investor who remembers only that stocks eventually survived the war misses what the people in July 1914 faced.
+A household emergency fund is valuable partly because its job is not to maximize return. Its job is to be boringly available. A corporation keeps liquidity for payroll, suppliers, debt service, and collateral calls. A government keeps reserves for imports, intervention, debt obligations, and crisis capacity. The institution does not ask merely which asset is expected to earn the highest risk-adjusted return. It asks which claims remain usable under stress.
 
-They did not own the long-run chart.
+Investors should ask the same question for the portion of a portfolio that is supposed to provide resilience.
 
-They owned an interrupted market.
+The danger of leverage becomes obvious here. Leverage turns a temporary market closure into a potential permanent loss. If an investor owes money against an asset, the lender’s timetable may be different from the market’s timetable. Margin requirements can rise. Collateral haircuts can widen. A broker can demand more cash precisely when the investor cannot sell the underlying position cleanly. A derivative can move against the investor even if the long-term thesis remains intact.
 
-This difference between retrospective returns and lived investability appears throughout financial history. A database can show annual returns for a country across decades while smoothing over exchange closures, currency reforms, confiscation, capital controls, destroyed records, missing dividends, forced conversions, defaults, or the experience of an investor who was physically on the wrong side of a border.
+The phrase forced seller is often used as if it describes a personality flaw. Usually it describes a mismatch of clocks.
 
-Historical return series are often histories of surviving observations.
+The asset needs time.
 
-Human wealth is messier.
+The liability does not give it any.
 
-Consider what it means to say that an asset "went up" during a crisis. In what currency? Was the currency convertible? Could residents export capital? Could foreigners repatriate proceeds? Was inflation measured reliably? Could the asset be sold in size? Did taxes change? Was ownership respected? Did the investor survive and remain in the jurisdiction?
+That mismatch explains why highly liquid government securities and cash-like instruments occupy such an important place in institutional risk management. They may be boring in normal periods. Boring becomes valuable when everything else is asking to be sold at the same time. Yet even here, the investor should resist absolute language. Government securities carry duration risk, inflation risk, currency risk, political risk, and in some jurisdictions capital-control or restructuring risk. Cash at a bank has institutional and legal dependencies. Physical cash has storage and security problems. No asset escapes the system completely.
 
-The questions sound extreme because ordinary financial analysis abstracts them away.
+The practical goal is not independence from systems.
 
-War puts them back.
+It is redundancy across failure modes.
 
-This is why the most important geopolitical diversification may be diversification of access rather than diversification of tickers.
+A family with one bank account, one credit card, one brokerage, one phone, and every important document behind one password has a concentration risk that will never appear in an asset-allocation pie chart. Two institutions can fail differently. Two payment rails can fail differently. Offline copies of essential records fail differently from cloud copies. A small amount of physical currency serves a different purpose from a Treasury bill. Insurance serves a different purpose from an emergency fund. A passport serves a different purpose from either.
 
-A person can own twelve funds in one brokerage account and still have one operational point of failure. A company can have factories in six countries but depend on one cloud region. A wealthy family can own assets globally while holding all legal entities under one jurisdiction. A sovereign can possess hundreds of billions in reserves yet discover that a substantial share can be immobilized by the countries controlling the relevant financial infrastructure.
+This is where geopolitical preparation starts to look less like trading and more like systems engineering.
 
-The map of ownership is not the map of control.
+The investor asks not only which asset goes up in the scenario, but which chain breaks first.
 
-That line matters enough to sit with.
+Market closures are one possible break. Settlement failure is another. Banking restrictions are another. Currency conversion is another. Cyber disruption is another. Physical relocation is another. A family member being unable to access an account is another. A brokerage needing extra verification when the account holder is abroad is another. None is as exciting as choosing the perfect wartime stock.
 
-The map of ownership is not the map of control.
+Most are more useful.
 
-In peacetime, control is distributed through contracts that everyone is usually willing to honor. In a severe conflict, governments deliberately reorder priorities. National security outranks convenience. Capital mobility may yield to financial stability. Contract enforcement may yield to sanctions. Export rights may yield to strategic controls. Private production can be redirected. Foreign assets can be frozen. Domestic assets can be taxed in new ways. Regulators can decide that the clean functioning of the market requires a temporary suspension of the market.
+There is also a deeper economic point. The ability to exit at will is part of what makes modern capital markets feel democratic. An individual can own a microscopic share of a global company and sell it with a tap. That freedom encourages participation because the commitment appears reversible. When a crisis suspends reversibility, the investor discovers that ownership was always a longer relationship than the interface suggested.
 
-The investor who prepared only by choosing the "right" security prepared for the visible layer.
+The company still owns factories, contracts, patents, inventory, debts, and obligations. The bond still refers to a payment promise. The fund still owns a portfolio. But the instant conversion of claim into cash was an institutional service layered on top.
 
-The invisible layer is custody.
+That service has enormous value.
 
-Where is the asset held? Under what legal entity? Who is the beneficial owner? Who is the registered owner? What happens if the broker fails? What protections apply to customer assets? What happens if the custodian is cut off from another country's settlement system? Does the fund own securities directly or through derivatives? Are the derivatives collateralized? Where? In what currency? What happens if a sanctioned counterparty becomes impossible to pay even if it remains willing to perform?
+It should not be mistaken for permanence.
 
-Most individual investors should not turn retirement planning into a graduate seminar on clearing law. The point is not to become an expert in every layer.
+The reopening after September 11 demonstrates another part of the story: markets can recover operationally before investors recover emotionally. When U.S. equities resumed trading, the surrounding circumstances were still terrifying and uncertain. Yet the machinery worked. The system did not wait for a complete geopolitical forecast. It waited until participants could connect, clear, settle, and operate with sufficient confidence.
 
-The point is to know that layers exist before betting everything on their permanence.
+This distinction between operational certainty and political certainty matters. You do not need to know the future of a war for a market to reopen. You need enough confidence in the plumbing to let buyers and sellers disagree safely.
 
-There is a household version of the same lesson.
+That is what a functioning market is: a protected arena for disagreement.
 
-People often think of emergency liquidity as an investment decision: how much cash, which money-market fund, whether to hold short-term government bills. The first question is more mundane. What bills arrive if markets are inaccessible for a week? A month? Three months?
+A closed market reveals how much protection the arena normally supplies.
 
-Rent or mortgage. Food. Medication. Insurance. Utilities. Childcare. Taxes. Travel to reach family. A deductible. A repair. The ordinary invoices of a life that does not stop because financial markets are experiencing something historic.
+Investors sometimes react to this possibility by deciding that the answer is to own only things outside financial markets: land, metal, equipment, cash, perhaps collectibles or commodities in physical form. The instinct is understandable. A physical object cannot be halted by an exchange.
 
-The emergency fund is not designed to outperform during a war.
+It can still be illiquid.
 
-It is designed to prevent the rest of the portfolio from having to perform on command.
+A farm cannot be sold in a minute. A building can be damaged, taxed, requisitioned, regulated, or located in the wrong jurisdiction. Gold in a safe is physically accessible but must still be transported and exchanged. Equipment has value only to someone who can use or buy it. Art requires a buyer. A house may be the largest asset a household owns and the least helpful thing to sell during an evacuation.
 
-That distinction changes the optimization problem. A dollar held for near-term resilience is not competing directly with a dollar invested for retirement. They have different jobs. Treating every idle dollar as a return drag can leave a household theoretically efficient and practically fragile.
+Physicality solves some layers of financial dependency while creating others.
 
-Professional institutions understand this in a more formal language. They maintain liquidity buffers, collateral plans, lines of credit, operational redundancies, and contingency procedures because the moment of crisis is precisely when assets that looked convertible can become difficult to convert without loss.
+The right question is not financial or physical.
 
-Individuals need a simpler version of the same respect for timing.
+It is usable or unusable for the problem at hand.
 
-Leverage destroys that respect.
+That principle becomes especially important for investors who live far from the conflict they are trying to hedge. A wealthy investor in Chicago imagining a blockade in East Asia does not have the same needs as a family in Taipei, a semiconductor company with one critical supplier, a tanker owner, or a pension fund with global custody arrangements. The distant investor may need portfolio diversification. The local household may need documents, transportation, cash access, medication, communication redundancy, and a plan for family members.
 
-A leveraged investor does not merely need to be right eventually. The investor needs to remain funded while waiting to be right. War widens price gaps, changes volatility, increases margin requirements, alters correlations, and can make hedges behave differently than expected. A position designed around normal liquidity can be forced out by the financing structure even if the underlying thesis later proves correct.
+Calling all of these “geopolitical hedging” hides more than it reveals.
 
-This is one reason stories of crisis fortunes are so misleading.
+The market-closing scenario is therefore useful precisely because it forces specificity.
 
-They focus on the asset selection and ignore the path.
+What would you do if the asset you planned to sell did not have a market for a week?
 
-"He knew oil would rise." Fine. Could he meet margin calls during the decline before it rose? "She knew gold would protect purchasing power." Over what horizon? Held where? Bought at what price? "They shorted the market before the invasion." Did they cover before a ceasefire rumor produced a violent rally? Did the options expire before the event? Was volatility already so expensive that the directional call was insufficient?
+A month?
 
-Being right about the world and solvent in the trade are different achievements.
+A year?
 
-In 1914 an investor could be perfectly correct that American industrial capacity would ultimately become more valuable as Europe consumed men, machines, food, and matériel on an enormous scale. That correct long-run insight did not produce a continuously tradable market in August.
+What if the market existed but your intermediary could not settle into it? What if you could sell but not convert the proceeds? What if you could convert the proceeds but not transfer them across the border? What if you could transfer them but your bank required documentation you could not quickly produce? What if the price was visible but the bid was not meaningful for the size you owned?
 
-The path had an institutional hole in it.
+These questions sound extreme until one remembers that each has happened somewhere.
 
-Modern markets have changed enough that repeating 1914 literally would require unusual conditions. Electronic trading is distributed. Authorities have more tools. Central banks can supply liquidity at scale. Payment systems are more developed. Exchanges have tested business-continuity plans. Financial institutions operate across data centers and jurisdictions.
+The purpose is not to live as if all of them will happen to you at once. That produces paralysis and bunker thinking. The purpose is to notice concentrations that are cheap to reduce before the event. One institution for every financial relationship may be convenient but brittle. A leveraged position that requires continuous market access deserves a different risk budget from an unleveraged holding. An emergency reserve invested in a thinly traded security is not performing the job its label suggests.
 
-Modernity also creates new failure modes.
+Preparation can be modest.
 
-The exchange floor matters less; electricity, telecom, software, cyber defenses, cloud services, identity systems, and clearing connections matter more. An adversary need not shell a stock exchange to interfere with finance. A ransomware campaign, destructive malware, compromised software supply chain, communications outage, satellite disruption, or attack on a major service provider could create market stress without destroying a single brokerage building.
+That is an advantage.
 
-The physical geography of finance became less visible, not nonexistent.
+You do not need a forecast of World War III to decide that money required next month should not depend on a market staying perfectly liquid. You do not need to know which country will be sanctioned to understand that custody and jurisdiction matter in foreign investing. You do not need to expect a cyberattack to keep backup authentication methods and records. You do not need to expect an exchange closure to avoid financing long-term assets with liabilities that demand daily liquidity.
 
-Cloud computing sounds placeless until a region fails. Securities ownership sounds abstract until a settlement system rejects a transaction. Digital money feels instantaneous until compliance software flags the recipient. Global diversification feels global until a government decides a foreign security is not transferable.
+The best lessons from extreme events often become ordinary rules.
 
-This does not make the system weak.
+That is what happened after 2001. Regulators, exchanges, firms, and utilities did not respond by trying to predict the next target. They improved continuity, redundancy, communications, and testing. The financial system learned from a specific disaster by making general resilience less dependent on the exact shape of the next one.
 
-It makes the system a system.
+A portfolio can do the same.
 
-Resilience comes from the fact that many components have backups, institutions coordinate, rules contain emergency provisions, and people improvise. New Street in 1914 is itself a story of improvisation. Markets are social technologies. When one venue disappears, humans try to construct another because the need to exchange risk does not vanish with the building.
+The investor who asks what rises during war is trying to forecast the event.
 
-But improvised markets are not the same as frictionless markets.
+The investor who asks what happens when the market closes is testing the structure.
 
-That is why a geopolitical investor should care about what might be called time-to-cash.
+The second question is less glamorous. It is also harder for a headline to answer.
 
-Not the theoretical liquidity ranking printed in a product brochure. The actual time between deciding that cash is needed and having spendable funds in the relevant place.
-
-For an insured bank deposit, that may be immediate under normal conditions. For a Treasury bill held directly or through a liquid fund, usually short. For a diversified stock fund, short when markets are open. For a rental property, potentially months. For a private business, unknown. For a collectible, unknown. For a foreign asset under capital controls, unknowable until rules change.
-
-A robust household does not need everything to be liquid.
-
-It needs enough things to be liquid in the sequence that liabilities arrive.
-
-This seems far removed from World War 3. It is actually closer to the useful part of the subject than most speculation about missile ranges.
-
-The overwhelming majority of investors cannot forecast military escalation with an edge. They can inspect whether next month's bills depend on tomorrow's stock price. They can avoid excessive leverage. They can understand basic custody arrangements. They can diversify institutions when concentration is unnecessary. They can keep essential records accessible. They can avoid holding all emergency liquidity in an asset whose liquidity depends on the same system they fear may fail.
-
-None of those actions require predicting a war.
-
-That is their virtue.
-
-The fantasy of geopolitical investing is that the great fortune belongs to the person who saw the invasion coming.
-
-The history of markets suggests a less glamorous hierarchy.
-
-First, remain alive. Then remain solvent. Then remain liquid enough to avoid forced decisions. Then worry about return.
-
-The order feels too cautious in a bull market.
-
-It feels obvious when the market does not open.
+That is probably why it is worth asking.

@@ -1,279 +1,207 @@
 # How to Invest When You Don't Know
 
-The phrase *I don't know* is terrible television and excellent risk management.
+The most honest answer in geopolitics is often useless on television.
 
-It does not mean nothing can be known.
+I don't know.
 
-We know geography. We know inventories. We know debt maturities. We know where factories are. We know which currencies liabilities use. We know some governments have announced higher defense budgets. We know a shipping lane carries a large share of trade. We know a company depends on a supplier. We know option prices. We know the amount of cash on a balance sheet. We know history contains wars, inflation, defaults, recoveries, and market closures.
+Will China blockade Taiwan? Will a war in the Middle East close a major oil route? Will a cyberattack trigger a military response? Will sanctions weaken the dollar's international role? Will rearmament produce inflation? Will the next recession be deep enough to overpower the supply shock?
 
-What we do not know is how those facts assemble into the next event.
+I don't know.
 
-The difference between facts and assembly is where wild speculation lives.
+Neither does the portfolio manager who speaks in complete sentences about 2032.
 
-An investor sees naval exercises near Taiwan, semiconductor concentration, increasing defense spending, export controls, and political tension. These are observable. The investor then says an invasion will occur by a particular date, advanced-chip supply will stop for a particular period, U.S. stocks will fall a particular amount, oil will move to a particular price, and a particular defense company will outperform.
+That does not make investing impossible. It makes the problem different.
 
-Each step may be plausible.
+An investor does not need to know the future. An investor needs a structure that remains viable while being wrong about substantial parts of it.
 
-Plausibility is not probability.
+This sounds less ambitious than forecasting.
 
-Even a probability is not a trade until price enters.
+It is harder.
 
-A disciplined investor therefore needs a method for thinking under deep uncertainty without manufacturing precision.
+Forecasting asks for a view. Robust investing asks what happens when the view fails.
 
-The first move is to separate exposure from forecast.
+The distinction can be seen in position size. Suppose you believe the probability of a major conflict is much higher than the market believes. You can express that belief through defense stocks, energy, gold, options, cash, reduced exposure to vulnerable regions, or some combination. The obvious question is what to buy.
 
-Exposure is what happens to you if an event occurs.
+The more important question is how much of the plan should depend on being right.
 
-Forecast is your belief about whether it will.
+A five-percent allocation and a fifty-percent allocation can express the same idea with different levels of humility.
 
-You can reduce an exposure without claiming the event is likely. A company can dual-source a critical component because dependence on one supplier would be catastrophic even if disruption probability is low. A household can maintain emergency savings without predicting unemployment. A country can hold strategic reserves without predicting the month a shipping route closes.
+Size turns belief into consequence.
 
-This is ordinary prudence.
+This is why dramatic geopolitical investing is often a sizing problem disguised as a research problem. The investor reads another book, follows another analyst, studies another map, and believes greater knowledge should justify a larger position. Yet geopolitical knowledge can increase without geopolitical predictability increasing much at all.
 
-Financial markets often shame prudence because unused protection looks inefficient in hindsight.
+You can understand the Strait of Hormuz perfectly and still not know whether it will close next year.
 
-The backup supplier costs more until the main supplier fails. The cash reserve earns less until the market falls while income disappears. The insurance premium is wasted until the fire.
+You can understand Taiwan's semiconductor ecosystem and still not know what governments will decide.
 
-The value of resilience should therefore be judged across states of the world, not only against the state that happened last year.
+You can know every defense budget and still misprice a contractor.
 
-This sounds like scenario analysis.
+Knowledge improves the questions.
 
-Scenario analysis is useful and easy to ruin.
+It does not abolish uncertainty.
 
-The bad version begins with three boxes labeled base case, bull case, and bear case. The analyst assigns neat probabilities that add to one hundred percent, attaches price targets, multiplies, and presents the expected value as though uncertainty has been conquered by arithmetic.
+The first practical response is to separate exposures you need to manage from forecasts you merely find persuasive. A household whose income depends on one defense employer has a real concentration whether a war occurs or not. A company sourcing one critical component from one country has a real concentration. An investor borrowing in one currency and earning in another has a real mismatch.
 
-Sometimes the numbers are informed by data.
+These can be managed without assigning a probability to World War III.
 
-Sometimes they are emotional adjectives converted into percentages.
+The portfolio becomes more robust by fixing known fragilities before trading unknown events.
 
-Geopolitical scenarios are especially vulnerable because the sample sizes are small and the actors are strategic. A leader changes behavior partly in response to what others are expected to do. Deterrence works by altering probabilities that cannot be observed directly. Secret information matters. Domestic politics changes. Misperception matters.
+The second response is to avoid leverage where the thesis depends on time. Geopolitical predictions are especially vulnerable to being right late. Tensions can build for years. A conflict can be delayed by diplomacy, deterrence, leadership changes, economic weakness, or luck. A hedge purchased with borrowed money has a financing clock that the geopolitical event does not respect.
 
-The decimal point becomes theater.
+Unleveraged capital can wait.
 
-A better scenario exercise can avoid probabilities entirely at first.
+Leveraged capital receives notices.
 
-What would break if the event happened?
+That sentence should sit near every apocalyptic trade.
 
-What would become more valuable?
+The third response is diversification, but not as a ritual. Owning more tickers is not enough. The investor needs to ask what actually drives them. Ten funds tied to inflation, defense, commodities, national security, and deglobalization may all lose if the feared conflict de-escalates and real interest rates rise. Five technology funds may all depend on the same small set of companies.
 
-Which assumptions are common across several scenarios?
+Diversification works through differences in economic exposure.
 
-How much damage occurs before the portfolio or household loses options?
+Country, currency, sector, duration, business model, and time horizon all matter.
 
-Suppose a major shipping chokepoint closes temporarily.
+The fourth response is liquidity. An uncertain future becomes dangerous when the investor is forced to act on someone else's schedule. Cash for near-term needs, appropriate short-term instruments, manageable debt, and unleveraged investments create time.
 
-The point is not to decide there is a 17.4 percent chance. The point is to trace energy, freight, inventory, inflation, central-bank policy, consumer demand, and company balance sheets. Then ask whether the portfolio is dangerously concentrated in businesses that fail under the same mechanism.
+Time allows uncertainty to resolve.
 
-Suppose the chokepoint never closes but insurance costs remain elevated for years.
+That is one of the most valuable things a portfolio can buy.
 
-Does the portfolio still work?
+The fifth response is rebalancing. A hedge that works becomes a larger part of the portfolio. A defense position doubles. Gold rallies. Energy surges. The investor feels clever and the portfolio becomes more concentrated.
 
-Suppose the conflict de-escalates tomorrow.
+Success increases risk if nothing is sold.
 
-Does the hedge become an unacceptable drag?
+Rebalancing is the act of refusing to let yesterday's correct story own more of tomorrow than the plan intended.
 
-This is robust scenario analysis because it tests paths that contradict the investor's favorite story.
+It is emotionally difficult in geopolitical markets because the reason the asset rose may still be present. Tensions remain high. The budget is still growing. The war is still being fought. Selling part of the winner feels like lowering the shield while arrows are still flying.
 
-The second move is to distinguish reversible from irreversible decisions.
+But the purpose of the allocation was not to predict indefinitely.
 
-Selling a small position is reversible. Moving an entire retirement account into a narrow commodity trade at a large tax cost is less reversible. Buying an illiquid property in another country is even less reversible. Taking on leverage can force reversals at the worst moment.
+It was to manage exposure.
 
-When uncertainty is high, the option to change your mind has value.
+If the hedge is now twice the intended size, the exposure changed.
 
-This is why liquidity matters so much throughout this book.
+A predetermined rule can help because it moves the argument to a quieter date. Decide before the crisis how much concentration is acceptable and under what conditions positions will be reduced, added, or left alone. The rule can be based on calendar, percentage drift, valuation, or changed fundamentals. It does not need a name.
 
-Liquidity is not only spending capacity.
+It needs to exist before the adrenaline.
 
-It is epistemic humility with cash attached.
+The sixth response is to write down why you own something. Not an investment manifesto. A few sentences are enough.
 
-You are preserving the ability to act after learning more.
+What has to be true for the investment to work?
 
-A fully committed portfolio says the investor already knows enough.
+What would make you change your mind?
 
-The third move is position sizing.
+What risks are unrelated to the geopolitical thesis?
 
-A good idea can be destroyed by a bad size.
+How long are you willing to wait?
 
-This is one of the oldest truths in trading and one of the first forgotten during geopolitical panic. The investor finds a thesis that seems asymmetric: a small chance of a huge payoff. The position grows because the possible event feels increasingly vivid.
+What is the role in the portfolio?
 
-Then normal volatility arrives before the event.
+Writing creates a record that cannot be edited by memory after the price moves. Without it, the thesis can mutate. The defense stock bought as a short-term rearmament trade becomes a long-term compounder after it falls. The gold hedge becomes a permanent monetary philosophy. The cash position held for a six-month concern becomes a three-year absence from the market.
 
-The investor cannot tolerate it.
+Memory is a generous historian of our own decisions.
 
-Or the event does not occur on schedule. The option expires. The commodity falls. The leveraged position receives a margin call. The investor was not wrong about the long-run risk and still loses.
+Paper is less polite.
 
-Position size converts uncertainty into survivability.
+The seventh response is to distinguish event prediction from valuation. You can be right that defense spending rises and wrong that a contractor was cheap. You can be right that inflation increases and wrong that gold was the best hedge. You can be right that oil supply tightens and wrong because the futures curve already priced a worse shortage.
 
-If a hedge can go to zero, size it so zero is survivable. If a thematic equity can fall fifty percent, ask whether the portfolio and the investor can tolerate the loss without changing strategy. If the asset is illiquid, assume the exit takes longer than expected.
+The geopolitical forecast is only one input.
 
-The correct size is personal because capacity for loss is personal.
+Price determines whether being right is worth anything.
 
-A foundation with perpetual capital, a trader with strict risk limits, a retiree funding current spending, and a young worker with decades of contributions do not share a position-size formula.
+This is the point speculative narratives dislike most because price is mundane. A vivid scenario feels more important than whether the company trades at twenty or forty times earnings. Yet the entire discipline of investing lives in the difference between a great asset and a great asset at a great price.
 
-This is why model portfolios for apocalypse are so unserious.
+War does not repeal valuation.
 
-They erase the investor.
+The eighth response is to use scenarios without pretending they are probabilities. A portfolio can be tested against several internally coherent environments: inflationary escalation, deflationary recession, prolonged cold conflict, rapid peace, market closure, sanctions fragmentation, technology blockade, ordinary growth.
 
-The fourth move is to identify the thesis breaker before entering.
+You do not need to say inflationary escalation has a seventeen-percent probability.
 
-What would make you admit the trade is wrong?
+False precision can make the spreadsheet look scientific while hiding ignorance.
 
-Not merely temporarily down.
+The useful question is whether any plausible scenario causes ruin.
 
-Wrong.
+If a portfolio loses twenty percent in a scenario, that may be acceptable. If it triggers a margin call, prevents the family from meeting expenses, or destroys a retirement plan, it deserves attention even if the scenario seems unlikely.
 
-For a defense company, perhaps the thesis depends on multiyear procurement and the government cancels the program. For an energy trade, perhaps the assumed chokepoint remains open and inventories build while demand weakens. For a gold hedge, perhaps the allocation was strategic and should not be changed at all based on short-term price.
+Ruin is nonlinear.
 
-Different positions need different falsification rules.
+This is why tail risk should be managed by consequences as well as probabilities. A one-percent event that produces inconvenience is different from a one-percent event that permanently destroys the plan. Insurance exists because expected value is not the only objective.
 
-A long-term diversified portfolio may have no geopolitical thesis to break because it was designed not to depend on one. A narrow thematic position should have a more explicit reason for existing.
+At the same time, tail risk cannot be given unlimited budget. A portfolio that buys expensive protection against every imaginable disaster will slowly insure itself into poverty.
 
-Write that reason down.
+The investor is always choosing which uncertainty to bear.
 
-Memory is an aggressive portfolio manager. It rewrites the thesis after the price moves.
+There is no fully hedged life.
 
-The stock bought because earnings would accelerate becomes a long-term investment after earnings disappoint. The oil trade bought for a six-week disruption becomes a structural scarcity thesis after the route reopens. The cash raised for a tactical correction becomes strategic liquidity after the market rallies away.
+The ninth response is to update slowly enough to distinguish evidence from noise. Geopolitical events generate information at extraordinary speed and quality varies wildly. An unverified video, anonymous official, satellite image, policy leak, market rumor, and signed treaty are all called news while carrying different evidentiary weight.
 
-A written thesis makes self-deception harder.
+A portfolio should not respond equally to each.
 
-Not impossible.
+Waiting for verification can cost some price movement.
 
-Harder is valuable.
+That cost may be the price of avoiding manipulation.
 
-The fifth move is to separate political conviction from financial exposure.
+In a crisis, disinformation is not merely a social problem. It can be a market input. States have incentives to shape perceptions. Companies have incentives to frame exposure. Traders have incentives to circulate stories. Social media rewards speed and certainty.
 
-You can be certain a policy is foolish and still lose money betting against it. You can believe a government is unstable and watch its currency rally. You can believe a war is unjust and own companies in the country that outperform. Markets do not compensate investors for moral certainty.
+The investor's information diet becomes part of risk management.
 
-They price relative outcomes.
+This does not mean trusting only official statements. Governments can be wrong, incomplete, or strategic. It means knowing which claims are facts, which are assessments, and which are rumors.
 
-This is particularly important in partisan environments. Investors can let political identity determine market forecasts because election outcomes, wars, sanctions, and industrial policy are emotionally loaded.
+Uncertainty should remain visible in the sentence.
 
-A person who dislikes a leader may systematically underestimate the economy under that leader. A supporter may underestimate policy risk. A person convinced a rival state is incompetent may miss its capacity to adapt. A person convinced it is unstoppable may overestimate it.
+The tenth response is to remember base rates. Most frightening geopolitical stories do not end in global war. That does not mean the next one will not. It means the investor should not let the salience of the current event erase how often crises de-escalate, freeze, fragment, or remain regional.
 
-Your politics may be sincere.
+Human beings overweight what is vivid.
 
-The market is still allowed to disagree.
+Markets sometimes do too.
 
-The sixth move is to diversify hypotheses, not just assets.
+This is one reason buying after the headline can be expensive. The scenario is maximally available in the mind at the same moment everyone else can see it.
 
-A portfolio can contain many securities that all depend on the same macro story: inflation remains high, the dollar falls, commodities rise, defense spending expands, globalization reverses. The ticker count says diversified. The causal map says one bet.
+The eleventh response is to accept that some risks cannot be profitably hedged in advance. A full nuclear exchange among major powers is an example. Financial instruments are designed for functioning institutions. The further a scenario moves toward total institutional breakdown, the less meaningful a conventional portfolio optimization becomes.
 
-True diversification asks whether different parts of the portfolio can succeed under different plausible worlds.
+At some point, practical preparedness matters more than securities.
 
-Some productive equities can benefit from ordinary growth. Some high-quality fixed income can help under recessionary conditions. Some inflation-sensitive exposure can help if prices rise. Liquidity can help when opportunities or emergencies appear. International assets can reduce dependence on one economy, while introducing their own risks.
+That boundary should be admitted rather than marketed around.
 
-The mix should be designed around the investor's goals and circumstances rather than around one geopolitical script.
+There is no ETF that makes nuclear war a good outcome for its holder.
 
-This is not a claim that traditional diversification always works.
+The twelfth response is to preserve exposure to ordinary prosperity. This may be the most important. A person can spend a lifetime studying the end of systems that continue functioning. Companies keep earning. People form families. Cities grow. Technologies improve. Wars end. Trade reorganizes. New institutions replace old ones. The future is damaged by crises and then populated by people adapting to them.
 
-Correlations rise in crises. Global markets can fall together. Inflation can hurt both stocks and nominal bonds. A war can affect many countries simultaneously.
+A long-term portfolio should own some of that adaptation.
 
-Diversification reduces concentration.
+Broad equities are imperfect, volatile, and exposed to geopolitics. They are also claims on businesses that can change suppliers, raise prices, invent products, enter markets, and rebuild. A portfolio entirely composed of insurance against failure may miss the returns created by adaptation.
 
-It does not repeal systemic risk.
+This is the peace hedge.
 
-That is why the seventh move is to avoid leverage when the uncertainty being hedged can widen volatility unpredictably.
+It is rarely marketed as one because it is called investing.
 
-Leverage creates a clock.
+The investor who does not know the future therefore does not need to become passive. Uncertainty can produce deliberate action: reduce dangerous leverage, diversify genuine concentrations, secure liquidity, understand custody, hold appropriate insurance, rebalance winners, write down theses, and keep long-term capital exposed to productive activity.
 
-Without leverage, an investor can often wait through a drawdown if the underlying assets remain sound and cash needs are covered. With leverage, a lender, broker, or derivative contract can decide the waiting period.
+These are not neutral choices.
 
-Geopolitical shocks create gaps, higher margins, illiquidity, and correlations that make historical volatility assumptions unreliable. A trade sized against yesterday's standard deviation can become enormous relative to tomorrow's price gap.
+They embody one forecast: that the future will contain several states rather than one.
 
-The person who wants to hedge war with leverage has created a position that depends on orderly market functioning during war.
+That forecast has a strong historical record.
 
-The contradiction should be obvious.
+The final response is temperament. A portfolio can be technically diversified and psychologically concentrated if the owner cannot stop watching the theme. Constant monitoring increases the number of opportunities to make a fear-driven decision. A person refreshing futures overnight may feel informed while becoming less capable of distinguishing signal from noise.
 
-The eighth move is rebalancing.
+Attention has position size too.
 
-Rebalancing is a mechanical way to sell some of what rose and buy some of what fell, restoring the intended risk allocation. It is not automatically correct in every crisis, but it creates a disciplined alternative to chasing the best recent asset.
+If a five-percent hedge occupies fifty percent of your thoughts, the portfolio is not as modest as the statement suggests.
 
-Imagine gold and energy surge while broad equities fall after a geopolitical shock. The emotional impulse is to buy more gold and energy because they worked. A rebalancing rule may instruct the opposite: trim the winners and add to the assets that fell.
+There is no perfect rule for this. Some people manage money professionally and must monitor markets. Others are long-term investors whose edge comes partly from not responding to every move.
 
-This feels reckless if the news is still frightening.
+Know which job you have.
 
-That discomfort is the cost of refusing to extrapolate the first move forever.
+Most households are not geopolitical hedge funds.
 
-Rebalancing only works when the strategic allocation itself still fits the household. If the crisis caused a job loss or near-term liability, risk capacity changed. The plan should adapt to the person before adapting to the market.
+They do not need a view on every missile.
 
-The ninth move is to demand a higher burden of proof for permanent changes than for temporary hedges.
+They need the mortgage paid, retirement funded, children educated, insurance current, and capital available when life changes.
 
-Moving five percent of a portfolio into a defined hedge is different from declaring globalization dead and rebuilding the entire portfolio around autarky. The latter assumes the investor understands a decades-long political transformation.
+The world can be dangerous without making those objectives obsolete.
 
-Maybe globalization is changing structurally.
+In fact, danger makes them more important.
 
-Supply chains are being redesigned. Governments care more about strategic industries. Sanctions and export controls are broader. Defense spending is higher. These developments can persist.
+“I don't know” is not the end of analysis.
 
-Structural change still occurs unevenly.
-
-Trade can shift rather than vanish. Companies can diversify suppliers rather than reshore everything. Alliances can strengthen in one industry and weaken in another. New technologies can reduce some dependencies and create others.
-
-A permanent portfolio shift should require evidence that survives the news cycle.
-
-The tenth move is to remember the counterfactual.
-
-What happens if the feared event does not occur?
-
-This question is surprisingly absent from crisis investing.
-
-If Taiwan remains peaceful for twenty years, how does the portfolio perform? If Hormuz stays open, what happens to the energy hedge? If the dollar remains dominant while gradually losing reserve share, does the dedollarization portfolio still work? If defense spending rises but valuation multiples normalize, what happens to returns?
-
-A robust position should have a tolerable answer.
-
-The best hedges often do. Emergency savings remain useful. Diversification remains useful. Reasonable insurance remains useful. A moderate allocation to an asset with different risk properties may remain useful.
-
-The worst crisis trades require the crisis to validate them quickly.
-
-This is where optionality beats prophecy.
-
-An investor who preserves liquidity, avoids concentrated leverage, owns productive assets across several economic mechanisms, and understands liabilities can respond after the world reveals more information.
-
-The person with a fully committed apocalypse portfolio needs the world to reveal exactly the information already assumed.
-
-There is also an emotional technique worth mentioning because finance is not conducted by spreadsheets alone.
-
-Delay the irreversible action.
-
-A geopolitical event that changes everything will still matter after the first hour. The market may move, sometimes violently. Missing the first move is less dangerous for most long-term investors than converting incomplete information into a permanent allocation.
-
-Professional traders whose edge depends on speed are in a different business.
-
-The household investor is allowed to finish breakfast.
-
-This is not passivity. It is recognition that individual investors rarely possess an informational advantage in the first minutes of a military crisis. Governments, intelligence services, professional trading firms, energy merchants, shipping companies, insurers, and specialized analysts may all have better real-time information.
-
-The retail investor's advantage is different.
-
-No client can redeem tomorrow. No benchmark committee demands a quarterly explanation. No leverage requires the position to be closed. A person with a long horizon can choose not to compete on speed.
-
-That is an edge if used deliberately.
-
-The final move is to ask whether the portfolio needs the forecast at all.
-
-This question can collapse pages of geopolitical analysis.
-
-If the long-term plan already holds diversified assets, adequate liquidity, manageable debt, and no dangerous concentration, perhaps the correct response to a frightening event is not a new trade.
-
-Perhaps the risk was already budgeted.
-
-That is the quiet achievement of good portfolio design.
-
-It makes some news less actionable.
-
-Markets will always sell action because action produces fees, attention, content, and emotional closure. A person staring at a map of possible war feels irresponsible doing nothing.
-
-Doing nothing can be a decision made after analysis.
-
-It can also be laziness.
-
-The difference is whether you know what you own, why you own it, and what would make you change.
-
-"I don't know" does not end the investment process.
-
-It tells the process how much humility to build into the position.
-
-That may be the most valuable asset a geopolitical investor can hold.
-
-Humility has no ticker.
-
-It also has no margin call.
+It is the beginning of position sizing.

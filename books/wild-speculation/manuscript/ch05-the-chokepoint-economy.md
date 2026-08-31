@@ -1,193 +1,187 @@
 # The Chokepoint Economy
 
-A container ship turning south at the mouth of the Red Sea can add thousands of miles to a voyage without changing a single item inside the containers.
+The global economy likes wide nouns.
 
-The shoes are the same. The circuit boards are the same. The furniture is the same. The chemicals are the same. What changes is the distance between them and the customer.
+Trade. Shipping. Energy. Semiconductors. Payments. Data.
 
-Distance has a price.
+The nouns make systems sound spacious. The systems are often narrow.
 
-In ordinary times that price is so compressed by logistics that consumers barely notice it. A shirt can cross an ocean and arrive cheaper than a locally made substitute. A factory can run with only days of inventory because the next shipment is visible on a screen. Retailers can treat warehouses as a cost to be minimized. Manufacturers can locate each stage of production where it is most efficient and trust the chain linking those stages to remain cheap enough and reliable enough that the complexity pays for itself.
+A container may cross an ocean and still depend on one canal. Oil produced across thousands of square miles can converge on one strait. Advanced chips used in millions of products can depend on a small number of fabrication plants. International payments can route through a limited set of currencies, banks, messaging systems, and correspondent relationships. Cloud computing feels placeless until a region fails. Undersea cables make the internet feel wireless.
 
-Then a chokepoint stops behaving like a line on a map.
+Modern prosperity is full of funnels.
 
-The Suez Canal and the Bab el-Mandeb Strait provide one route between Asia, the Middle East, and Europe. The Panama Canal connects Atlantic and Pacific trade without sending vessels around South America. The Strait of Malacca channels extraordinary volumes of Asian energy and merchandise trade. The Strait of Hormuz concentrates energy flows. The Turkish Straits matter to Black Sea exports. A handful of ports, canals, straits, terminals, pipelines, rail lines, and data cables carry an amount of economic activity wildly disproportionate to the physical space they occupy.
+The surprising thing is not that these funnels exist. Concentration is often the result of efficiency. Ports develop where geography is favorable. Factories cluster around skills and suppliers. Payment systems become more useful as more participants join them. Standards converge. Network effects reward scale. Pipelines follow routes that are physically and economically sensible. A canal that cuts thousands of miles from a voyage is valuable precisely because nearly everyone prefers the shorter path.
 
-The global economy is not a web of equal connections.
+The same efficiency that creates the value creates the chokepoint.
 
-It is a web with narrow throats.
+Geopolitical investors often treat chokepoints as treasure maps. Find the narrow place, identify the company or commodity that benefits when it breaks, buy the beneficiary.
 
-UN Trade and Development's reporting on the Red Sea disruptions made the consequences visible. Ships rerouted around the Cape of Good Hope. Voyages lengthened. Effective vessel capacity tightened because each ship spent more time completing the same commercial task. Fuel use rose. Schedule reliability deteriorated. Insurance costs and operational uncertainty increased. Freight rates became volatile. By 2025, UNCTAD was describing a maritime system in which rerouting, tariffs, port disruption, and geopolitical risk had made volatility part of the operating environment rather than a temporary exception.
+Sometimes this works.
 
-The economic lesson is larger than shipping.
+The more durable lesson is different: map the dependencies before choosing the winner.
 
-A chokepoint is any place where a large system depends on a small substitute set.
+The Red Sea disruptions beginning in late 2023 are a good example because the world did not stop trading. Many vessels avoided the Bab el-Mandeb and Suez route and sailed around the Cape of Good Hope instead. U.S. Energy Information Administration data showed oil flows through the Bab el-Mandeb falling sharply while traffic around the Cape increased. Later EIA estimates continued to show elevated use of the longer route.
 
-It can be physical: a strait, bridge, port, pipeline, mine, refinery, transformer factory, semiconductor fabrication plant.
+The bypass prevented the chokepoint from becoming a complete stop.
 
-It can be digital: a cloud provider, undersea cable landing point, software library, identity service, payment network, satellite constellation, certificate authority.
+It did not make the disruption free.
 
-It can be legal: a clearing system, reserve currency, sanctions license, export-control regime, insurance market.
+A voyage around southern Africa can add substantial time between Asia, the Middle East, and Europe. More days at sea mean more fuel, more crew time, more ship-days, more inventory in transit, more uncertainty in delivery schedules, and often higher insurance and freight costs. A factory waiting for a component may not care that the ship is still technically moving. It cares that the component arrives late.
 
-It can be human: a small group of engineers who know how to maintain a machine nobody else understands.
+A chokepoint is therefore not merely a place where flow can stop.
 
-The investor who studies geopolitics only at the level of countries misses the more useful question.
+It is a place where the marginal cost of the alternative becomes visible.
 
-Where does the system narrow?
+That idea travels well beyond oil.
 
-A country can be large and diversified while a specific industry inside it depends on a single imported chemical. A multinational corporation can have offices around the world while all of its advanced chips come from one fabrication cluster. A utility can own thousands of miles of grid while depending on long-lead-time transformers manufactured by a limited number of suppliers. A portfolio can contain hundreds of companies whose revenue looks diversified but whose cloud infrastructure depends on the same handful of providers.
+Take semiconductors. The phrase chip shortage makes the product sound singular, but the industry is a sequence of specialized activities: design software, intellectual property, wafer fabrication, process equipment, materials, chemicals, packaging, testing, memory, logic, analog components, power devices, and the thousands of less glamorous inputs needed to keep a fab operating. The most advanced logic production is highly concentrated, but so are some equipment categories and material inputs located elsewhere.
 
-Portfolio diversification does not automatically diversify infrastructure.
+A geopolitical shock does not need to eliminate the entire semiconductor industry to create enormous economic damage. It only needs to interrupt a component for which substitution is slow.
 
-That becomes especially important when investors use broad funds and assume the number of holdings is the number of independent risks.
+The car industry learned a version of this during the pandemic. A vehicle made of thousands of parts can remain unfinished because a cheap controller is missing. The value of the missing item is not its invoice price. It is the production value it prevents from being completed.
 
-Imagine owning a global index with airlines, retailers, technology companies, industrial firms, banks, automakers, and consumer brands. The companies have different products and customers. A maritime disruption can touch nearly all of them through freight, fuel, inventory, working capital, insurance, supplier timing, or consumer prices. A semiconductor disruption can touch them through hardware. A cyberattack on a widely used provider can touch them through operations.
+Chokepoint economics is about complementarity.
 
-The holdings are different.
+The most important component is sometimes the one whose absence stops the rest.
 
-The dependency can be the same.
+This is why investors make mistakes when they rank supply-chain risks by dollars spent. A manufacturer may spend very little on a specialty chemical, a connector, a machine tool, or a piece of software that has no quick replacement. The financial statements show a small cost. The operational system contains a large dependency.
 
-Geopolitical risk often enters portfolios through these hidden correlations.
+War exposes that difference.
 
-Correlations are calm-weather statistics until a common dependency is revealed.
+So do sanctions.
 
-This is why supply-chain resilience became such an important corporate phrase after the pandemic and the wars that followed. Companies discovered that the lowest-cost supplier was not necessarily the lowest-risk supplier, that just-in-time inventory could become just-too-late inventory, and that sourcing from politically distant jurisdictions carried risks that were not captured in the invoice price.
+A sanction imposed on one bank can affect companies that never intended to do business with the sanctioned country if the bank was important to settlement or trade finance. An export control on one class of equipment can alter the economics of an entire industrial plan. A denied insurer can strand a ship. A cyberattack on a service provider can interrupt hundreds of customers. A cable cut can reroute data and increase latency even when the internet still appears to work.
 
-The reaction has produced a vocabulary of its own: reshoring, nearshoring, friend-shoring, dual sourcing, strategic autonomy, de-risking.
+The direct target and the economic chokepoint are not always the same thing.
 
-Each term contains a trade-off.
+That complicates the popular idea of friend-shoring. Moving production from a rival jurisdiction to an ally can reduce one political risk while increasing another concentration. If every company selects the same “safe” country, that country becomes a new node whose ports, power grid, labor market, water supply, and politics matter to everyone. Diversification is not achieved merely by changing the flag over the factory.
 
-Duplicate a supplier and you may reduce scale economies. Hold more inventory and you tie up capital. Build a second factory and utilization falls when both are available. Source domestically and labor or regulatory costs may rise. Move production to an allied country and the alliance itself becomes an assumption. Buy resilience and you spend money on capacity you hope not to need.
+True redundancy usually costs something.
 
-The price of resilience is visible.
+Two suppliers require qualification, contracts, management attention, and perhaps lower volume with each. Duplicate factories tie up capital. Extra inventory uses working capital and storage. Backup data centers consume money when nothing has failed. Alternative shipping routes are longer. Spare production capacity looks inefficient until it is needed.
 
-The value of resilience often is not until failure.
+This is one reason financial markets systematically struggle with resilience. Efficiency produces measurable savings every quarter. Resilience often produces an unobservable avoided loss.
 
-That asymmetry creates predictable corporate behavior. In calm periods, managers are rewarded for efficiency. Excess inventory depresses return on capital. Backup facilities look wasteful. Spare capacity is an expense. Investors ask why margins are not higher.
+The accountant can see the inventory carrying cost.
 
-After a disruption, the language flips.
+The accountant cannot see the factory shutdown that did not happen.
 
-The same inventory becomes strategic stock. The second supplier becomes continuity. The underused plant becomes redundancy. The expensive domestic contract becomes sovereignty. Governments offer subsidies to build the capacity companies had previously been rewarded for removing.
+Managers therefore face a real tradeoff rather than a morality play. Too much redundancy can make a company uncompetitive. Too little can make it brittle. The ideal amount depends on the probability of disruption, the duration of substitution, the cost of failure, and how much of the risk can be shared through insurance, contracts, inventory, or flexible production.
 
-Financial markets can move between these moods faster than factories can be built.
+Investors should be suspicious of companies that describe every resilience expense as strategic virtue. Management teams can use geopolitical anxiety to justify bad capital allocation. A domestic factory can still be an expensive factory. A second supplier can still be unreliable. Inventory can become obsolete. Subsidies can attract capacity that would not survive without policy support.
 
-That gap creates both opportunity and danger.
+Resilience is not exempt from return on capital.
 
-The opportunity is that infrastructure scarcity can produce durable demand for investment. Ports need expansion. grids need hardening. factories need duplication. defense supply chains need machine tools, specialty metals, electronics, energetics, and skilled labor. Semiconductor plants need extraordinary capital, water, power, equipment, chemicals, and years of construction. LNG terminals, pipelines, transformers, and ships are physical objects with long lead times.
+The opposite suspicion matters too. A company that reports beautiful margins because it removed every buffer may have converted resilience into current earnings. The profits are real. So is the hidden option it sold.
 
-The danger is that investors price the entire shortage into the first obvious company.
+That option is exercised when the chokepoint breaks.
 
-A chokepoint does not grant permanent monopoly profits to whichever stock most resembles the chokepoint in a news story.
+This gives investors a more useful way to read corporate disclosures. Instead of searching only for words such as war, China, Taiwan, Russia, sanctions, or Red Sea, look for dependency language. Sole-source. Single-source. Limited number of suppliers. Long lead time. Critical supplier. Concentrated manufacturing. Substantially all. One facility. Specialized tooling. Regulatory approval required for alternate suppliers. Customer qualification.
 
-Governments react. Competitors invest. Customers redesign products. Technologies substitute. Demand falls. Regulations change. Capacity arrives late and all at once. The company that benefited from scarcity can face oversupply when the investment cycle finally catches up.
+Those phrases describe where the system narrows.
 
-Commodity industries are full of this rhythm.
+A company can be geopolitically exposed without mentioning geopolitics because the vulnerability is operational.
 
-Scarcity raises prices. High prices justify new capacity. New capacity takes time. During that time, the scarcity thesis becomes consensus. Capital floods in. Then supply arrives into a demand environment that may already have changed.
+The same is true for personal finance. A household can have a diversified investment account and a concentrated life. One employer pays both spouses. The employer’s stock is in the retirement plan. The house is in the same local economy. Health insurance comes through the employer. The emergency fund sits at the employer’s credit union. A regional defense cut, factory closure, cyber incident, or natural disaster can hit income, home value, benefits, and investments at the same time.
 
-The same dynamic can happen in shipping.
+The chokepoint is the household’s economic ecosystem.
 
-When freight rates spike, shipowners make extraordinary profits. Those profits encourage new orders. Shipyards have their own capacity constraints, so deliveries arrive years later. If the original disruption resolves before the new fleet arrives, the industry can move from scarcity to excess.
+Owning an international fund does not fix all of that, but it can reduce one layer. A second bank can reduce another. Adequate insurance addresses another. Skills transferable across employers address another. None requires a geopolitical forecast.
 
-The investor who bought the peak story owns the new ships when everybody has ships.
+That is one of the recurring lessons of this book: the most valuable war preparation often looks like ordinary concentration management.
 
-This is why chokepoint investing should distinguish between owning scarcity and owning the solution to scarcity.
+The title sounds dramatic because the scenario is dramatic.
 
-Sometimes they are the same.
+The work is usually mundane.
 
-A pipeline bypassing a threatened route may gain value. A port with spare capacity may attract traffic. A manufacturer of specialized equipment may receive more orders. A logistics software provider may benefit from companies managing more complex routes.
+There is a geopolitical temptation to find the one decisive chokepoint. The map encourages it. Hormuz. Malacca. Suez. Taiwan. A payment network. A critical mineral. A launch site. A cloud region. But complex systems rarely have only one point of failure. They have chains of constrained substitutes.
 
-Sometimes the solution destroys the original trade.
+If one route closes, traffic moves to another until the second route becomes congested. If one supplier fails, customers shift to the alternate until its capacity is full. If one currency channel is sanctioned, trade migrates to another currency, another bank, barter, intermediaries, or more expensive structures. The system adapts and creates new bottlenecks.
 
-A new pipeline reduces the premium earned by shipping through the old route. More domestic semiconductor capacity reduces reliance on the concentrated cluster that made scarcity valuable. Renewable generation, batteries, efficiency, and electrification can reduce some exposure to imported fossil fuels over time. Rerouted trade can create permanent new patterns that weaken the previously dominant port.
+Chokepoints move.
 
-The hedge can undermine itself by succeeding.
+This is why the investor who identifies yesterday’s bottleneck can still lose money tomorrow. High prices attract supply, policy, engineering, and substitution. Governments subsidize new mines, fabs, pipelines, ports, grid capacity, shipyards, munitions plants, and stockpiles. Companies redesign products around available inputs. Trade routes change. Standards fragment. New intermediaries emerge.
 
-This is common in geopolitical investing because governments are unusually willing to pay for substitutes when national security is involved.
+The rent earned by scarcity invites the world to attack the scarcity.
 
-A normal customer compares price and performance.
+That does not mean the response is fast. Some capacity takes a decade. A new mine may require permitting, infrastructure, processing, customer qualification, and financing. A semiconductor fab requires extraordinary capital and a skilled ecosystem. A shipyard cannot double output by adding a night shift if dry docks, welders, castings, engines, and designs are constrained. An electric grid cannot move unlimited power through a line that does not exist.
 
-A government thinking about strategic dependence also values control, location, redundancy, political alliance, wartime availability, and the ability to order production during an emergency. That can support projects that would not clear a purely commercial hurdle.
+Time-to-substitute is therefore one of the most important variables in geopolitical investing.
 
-Investors call the result industrial policy.
+The market often asks whether there is an alternative.
 
-The company receiving the subsidy calls it a contract.
+The better question is how long the alternative takes.
 
-The taxpayer calls it later.
+An alternative that requires seven years is irrelevant to a six-month crisis and crucial to a ten-year strategy.
 
-There is no reason to assume the capital will be allocated perfectly. Strategic urgency can produce waste, lobbying, duplication, protectionism, and politically selected projects. It can also produce useful infrastructure the private sector underprovided because the value of resilience was difficult for any single company to capture.
+This is where industrial policy enters the portfolio. Governments worried about national security increasingly pay for capacity that private markets might not build on the same timetable or at the same return. Subsidies, tax credits, loan guarantees, procurement contracts, stockpiles, export controls, and direct investment can change the economics of entire sectors.
 
-The investment question is therefore not whether industrial policy is good or bad in the abstract.
+The obvious conclusion is to buy whatever the government subsidizes.
 
-It is who gets paid, who bears the cost, how long the support lasts, and what happens when strategic necessity meets commercial economics.
+The better conclusion is to read the contract.
 
-Semiconductors provide the cleanest modern example.
+Public support can improve economics, but it can also come with conditions: domestic-content rules, labor requirements, price restrictions, clawbacks, security obligations, disclosure, limits on expansion in other countries, or political scrutiny. A strategic industry can receive more money and less freedom at the same time.
 
-Advanced chip production became geographically concentrated because specialization worked. Firms invested where ecosystems of suppliers, engineering talent, equipment, process knowledge, and scale created extraordinary advantages. The system was efficient enough that the concentration became a security concern only after governments and corporations began asking what would happen if access were interrupted.
+National importance is not identical to shareholder primacy.
 
-The answer was uncomfortable.
+Defense production makes this especially clear. A government facing a shortage does not primarily want the contractor’s margin to rise. It wants shells, interceptors, aircraft, ships, drones, sensors, repair capacity, and trained workers. The shareholder may benefit from the spending. The government’s objective is output.
 
-So governments began spending large sums to encourage domestic or allied production.
+In a real emergency, that distinction sharpens.
 
-This is a classic chokepoint response: pay more now to reduce the cost of a future interruption.
+The same logic can apply to energy, food, shipping, telecommunications, banking, and medicine. Industries treated as ordinary businesses in peace can acquire quasi-public obligations under stress. Governments can require priority delivery, restrict exports, coordinate production, or change pricing rules.
 
-The money does not erase the chokepoint overnight. Leading-edge fabrication is not a warehouse that can be copied by signing a lease. It is an ecosystem of tools, materials, intellectual property, power, water, engineering, suppliers, and accumulated process knowledge.
+The chokepoint investor must therefore think like both an analyst and a policymaker. If an asset becomes too important to fail, what obligations arrive with that importance?
 
-Resilience has a construction schedule.
+Sometimes protection.
 
-That schedule matters more than political announcements.
+Sometimes control.
 
-The same discipline applies to defense production. A government can announce a larger budget in a day. It cannot create skilled welders, rocket-motor capacity, explosives plants, shipyard slots, radar components, or missile production lines by press release. A defense stock can rise on the announcement while the company's ability to convert appropriations into delivered systems remains constrained for years.
+Often both.
 
-Revenue has a supply chain too.
+There is another complication: not every chokepoint should be diversified away. Concentration can reflect genuine comparative advantage. A region may be good at making something because decades of tacit knowledge, specialized suppliers, engineering culture, and infrastructure accumulated there. Splitting production evenly across the globe could raise costs dramatically and reduce innovation.
 
-This is where investors should learn to read capital expenditure differently.
+Resilience does not require pretending geography has no advantages.
 
-In a normal growth story, high capital spending can worry shareholders because cash is being reinvested instead of returned. In a resilience cycle, high capital spending may be the prerequisite for future revenue. But the quality of the spending matters. Is it supported by committed demand? Are contracts long enough to earn a return on the new capacity? Who bears cost overruns? Is the company building ahead of policy? Can the equipment be repurposed if demand fades?
+It requires knowing which advantage has become a dependency you cannot afford to lose.
 
-The glamorous part of geopolitics is the threat.
+That is a judgment, not a formula.
 
-The investable part is often a factory nobody wants to photograph.
+For an investor, the discipline is to move from labels to chains. “Semiconductor exposure” is too broad. Which chips? Which process nodes? Which fabs? Which packaging? Which equipment? Which customers can substitute? “Shipping exposure” is too broad. Which routes? Which vessels? Which contracts? Spot or long-term charter? “Energy exposure” is too broad. Which commodity? Which basin? Which pipeline? Which refinery? “China exposure” is too broad. Revenue, supplier, manufacturing, financing, currency, or legal entity?
 
-Transformers. Bearings. Machine tools. specialty chemicals. cables. warehouses. maintenance depots. dry docks. rail terminals. grid interconnections. backup generators. cooling systems. insurance capacity. inventory finance.
+The narrower question often produces the more diversified answer.
 
-These are the connective tissues of resilience.
+This matters because geopolitical narratives reward symbolic assets. Investors buy the company most visibly associated with the story, not necessarily the company with the scarce capability. The actual bottleneck may sit three suppliers down, inside a private company, a commodity market, a machine-tool maker, a port, a regulated utility, or an unglamorous component producer.
 
-They can also be terrible investments at the wrong price.
+The marketable symbol and the operational constraint can be far apart.
 
-That last clause should accompany every strategic thesis.
+That distance is where wild speculation thrives.
 
-The fact that society needs more of something does not mean the shareholders of every company producing it will earn exceptional returns. If governments subsidize supply aggressively, returns can be competed away. If customers have bargaining power, producers may absorb costs. If the technology changes, today's scarce component may become tomorrow's stranded capacity.
+A dramatic thesis about conflict gets attached to a ticker because a ticker is tradable. The ticker then becomes evidence for the thesis because its price rises. Eventually the investor forgets to ask whether the business actually controls the chokepoint or merely stands near the story.
 
-Need is not margin.
+The cure is not to avoid themes. Themes can direct attention to real structural change. The cure is to follow the physical and legal chain until the bottleneck is identifiable.
 
-Chokepoints also complicate the idea of international diversification.
+Then ask what breaks it.
 
-The standard case for global investing is strong: different economies and industries do not move in perfect sync, and concentrating wealth in one country can expose an investor to local shocks. Geopolitical fragmentation does not eliminate that logic. It adds another dimension.
+A new route?
 
-A foreign market may diversify economic exposure while increasing jurisdictional exposure. An allied market may reduce sanctions risk while sharing the same energy imports. Two countries may be politically distant but commercially intertwined. A company domiciled in one place may earn most of its revenue somewhere else.
+More capacity?
 
-The flag on the ticker is not the full geography of the business.
+A substitute material?
 
-Investors can learn more from supply-chain disclosures, segment revenue, major suppliers, capital spending, insurance, debt currency, and regulatory filings than from a geopolitical map colored by alliance.
+A redesigned product?
 
-A portfolio is a map of dependencies whether the owner draws it or not.
+A policy change?
 
-The chokepoint economy rewards the person who draws it before the disruption.
+Demand destruction?
 
-Not because the person will know which strait closes.
+A peace agreement?
 
-Because the person will see where too many assumptions pass through one narrow place.
+A recession?
 
-The goal is not to eliminate narrow places. Modern civilization depends on specialization. Every company cannot manufacture every input. Every country cannot duplicate every industry. Trying to remove all dependencies would make the world dramatically poorer and perhaps not much safer.
+The value of the chokepoint depends on the cost and speed of its escape routes.
 
-The goal is to know which dependencies are fatal and which are merely inconvenient.
+That is the paradox of investing in bottlenecks. The better the investment works, the more incentive everyone else has to destroy the bottleneck.
 
-A late shipment is a cost.
+The narrow place earns rent.
 
-A missing component that stops an entire production line is a different kind of cost.
-
-A portfolio should understand the difference.
-
-The world economy is often described as connected.
-
-In a crisis, what matters is how.
+The rent finances the road around it.

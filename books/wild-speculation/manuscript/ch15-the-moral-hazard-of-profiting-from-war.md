@@ -1,243 +1,183 @@
 # The Moral Hazard of Profiting From War
 
-A stock certificate does not know why you bought it.
+A stock does not know why you own it.
 
-You do.
+The owner does.
 
-That distinction is enough to make wartime investing morally uncomfortable.
+That difference is where the moral problem begins.
 
-A person buys shares of a defense contractor because the company appears undervalued. Another buys the same shares because a war has begun and missile demand is rising. Another owns the company unknowingly through an index fund. Another refuses to own any company that manufactures weapons. The security is identical. The intention is not.
+The phrase moral hazard has a technical meaning in economics: when protection from consequences changes behavior, people may take risks they would otherwise avoid. The title of this chapter uses the phrase more loosely, and deliberately. The hazard here is not that an individual investor causes a war by purchasing shares of a defense contractor. The hazard is that a financial position can quietly change what the investor wants to believe about events that impose enormous costs on other people.
 
-Markets are good at turning different motives into one price.
+A person buys a defense stock because tensions are rising.
 
-Ethics has to put the motives back.
+The stock rises when tensions rise further.
 
-This is where the phrase *profiting from war* becomes too blunt to be useful by itself.
+Soon the news has two meanings.
 
-War creates economic winners because resources move. Governments buy more military equipment. Shipping routes lengthen. Energy prices change. Construction demand later rises. Cybersecurity spending increases. Some industries lose workers and others gain them. Commodity exporters can receive windfalls. Banks may finance government borrowing. Investors holding assets that benefit can become wealthier.
+One is political and human.
 
-That outcome can feel obscene beside the reason it happened.
+The other is portfolio performance.
 
-Someone's higher revenue can trace back to somebody else's destroyed home.
+That second meaning can bend judgment.
 
-The discomfort is not a misunderstanding of markets.
+This is not unique to war. An investor shorting a company can become emotionally invested in the company’s failure. A trader long volatility can find calm irritating. A person holding a large gold position can interpret every institutional problem as evidence for monetary collapse. Financial exposure creates motivated reasoning because the mind prefers information that protects both money and ego.
 
-It is a recognition that money has preserved the causal chain too cleanly.
+War raises the moral stakes of the same psychological mechanism.
 
-There are several ways investors try to resolve this discomfort, and none is completely satisfying.
+The investor does not need to become a monster for the distortion to matter. It can appear as a slight preference for escalation because escalation validates the thesis. A ceasefire announcement becomes “naive.” A diplomatic opening becomes “temporary.” Evidence that weapons demand may slow is discounted. Evidence of a larger procurement cycle is studied carefully.
 
-The first is to say that secondary-market investing does not fund the company directly. If I buy a share from another investor, the corporation does not receive my purchase price. Therefore my trade is morally separate from the company's activity.
+The position begins selecting the facts.
 
-There is truth in the mechanics.
+That is worth noticing before discussing whether defense investing itself is ethical.
 
-It is not the whole story.
+The ethical answer is not universal because the industry performs activities that societies legitimately debate. A country may require armed forces to defend itself and allies. Deterrence can prevent wars as well as prepare for them. Military systems can protect civilians and troops. The companies that build those systems employ engineers, machinists, software developers, logistics workers, and thousands of suppliers performing lawful work for elected governments.
 
-Liquid secondary markets lower the cost of equity capital over time. Share prices affect compensation, acquisitions, employee wealth, the terms on which companies can issue new shares, and public perceptions of corporate value. An individual retail purchase has negligible influence on these mechanisms, but it is not conceptually meaningless to say that investor demand helps sustain markets for companies.
+At the same time, weapons kill. Procurement can be wasteful or corrupt. Arms can be exported to governments whose conduct investors find objectionable. Political influence can protect programs after the strategic case weakens. A revenue stream can depend on public fear, rivalry, and conflict.
 
-More important, the moral question may not depend on causal impact alone.
+Both realities can be true.
 
-People care about what they choose to own because ownership expresses association. A person can refuse to own tobacco, prisons, fossil fuels, weapons, gambling businesses, or companies operating in particular jurisdictions even if selling the shares has almost no measurable effect on the underlying company's behavior.
+A serious ethical position has to survive both.
 
-The choice can be about integrity rather than leverage.
+The scale of the industry makes the question more than philosophical. SIPRI estimated global military expenditure at roughly $2.9 trillion in 2025, the eleventh consecutive annual increase. Spending rose especially quickly in Europe and Asia and Oceania. The direction is clear enough to attract capital and investment narratives even without predicting a world war.
 
-That is a legitimate category of decision.
+Rearmament can be a durable economic theme.
 
-The second resolution is to argue that defense is morally necessary.
+That does not answer whether you want to own it.
 
-A democratic state facing aggression requires weapons. Deterrence depends on credible military capacity. Soldiers should not be sent into danger with inadequate equipment because investors wished the equipment did not need to exist. A contractor producing air defense that protects civilians is participating in a different moral act from a criminal arms dealer supplying an aggressor, even if both are described under the general category of weapons.
+Investors sometimes try to solve the discomfort by distinguishing defense from war. The distinction is meaningful but imperfect. An interceptor designed to destroy an incoming missile is plainly defensive in one tactical sense. The industrial system that produces it can also support broader military capability. A surveillance system may protect a base and enable targeting. A communications network can be used to coordinate defense or attack.
 
-This argument also has force.
+Dual use is common.
 
-It does not eliminate ambiguity.
+The same problem extends beyond traditional contractors. Cloud providers host military workloads. Semiconductor companies sell chips that enter defense systems. Commercial drones can be adapted for war. Satellite companies provide imagery. Banks finance contractors. Logistics firms move military cargo. Industrial companies make components with civilian and military applications.
 
-The same company can sell to multiple governments. The same platform can be used defensively or offensively. Export approvals can change. A weapon designed for deterrence can be used in a war an investor considers unjust. Corporate lobbying can encourage procurement beyond genuine security need. Cost overruns can transfer taxpayer resources to shareholders without increasing capability.
+If the ethical rule is “do not own anything connected to war,” a globally diversified portfolio becomes difficult to purify.
 
-"Defense" is a political and moral description before it is an industry classification.
+That does not make ethical constraints pointless.
 
-The third resolution is to separate the morality of the product from the morality of the trade.
+It makes them constraints rather than absolution.
 
-Perhaps weapons production is necessary, but buying the stock after an invasion because one expects more deaths and therefore more orders feels different from owning it as part of a diversified portfolio.
+An investor can choose not to own companies whose primary business is weapons. Another can exclude certain weapon categories. Another can accept defense exposure but avoid companies with governance or export practices the investor finds objectionable. A broad index investor may decide that owning tiny indirect positions is different from deliberately overweighting the sector to profit from escalation.
 
-This is where intention returns.
+There is no market authority that can make the values decision on the investor’s behalf.
 
-An investor can make money from a tragic event without desiring the tragedy. Insurance companies earn premiums because bad events occur but do not generally want houses to burn. A hospital earns revenue because people become ill without wishing illness on patients. A funeral home is a business built around death without causing death.
+Ratings and screens can provide information. They cannot supply conscience.
 
-A defense investor can believe war is terrible and still conclude that the market has mispriced a company.
+The difficulty increases because exclusion can have ambiguous real-world effects. Selling a liquid public stock to another investor usually changes ownership more directly than it changes the company’s access to capital. Widespread exclusion can affect valuation, reputation, employee recruitment, financing cost, and corporate behavior, but the relationship is neither immediate nor guaranteed. Private capital can replace public capital. Governments can finance strategic suppliers directly.
 
-The moral hazard begins when the position changes what the investor wants to happen.
+Ethical investing should be modest about its causal power.
 
-That is an uncomfortable but useful test.
+A portfolio can express values without pretending to be foreign policy.
 
-If your portfolio would benefit from escalation, do you notice yourself rooting for escalation?
+The opposite mistake is to treat markets as morally neutral because a small investor cannot affect outcomes. Personal choices matter to the person even when they do not move the world. A vegetarian does not need to believe one dinner changes global agriculture for the choice to be coherent. An investor can decline a profit source because owning it would feel incompatible with how the investor wants to live.
 
-If peace negotiations make you disappointed because the defense trade falls, the financial position has begun to colonize the moral judgment.
+Return is not the only objective people optimize.
 
-Markets do this quietly.
+That fact does not require turning every portfolio into a moral manifesto.
 
-A short seller can become emotionally attached to bad news. A commodity investor can cheer a shortage. A political bettor can prefer social disorder because it validates the wager. A trader holding volatility can feel a small rush when the market panics.
+Most investing is already value-laden in quieter ways. People choose how much risk to expose family savings to. They decide whether to hold an employer’s stock. They choose between spending now and saving for later. They may support local businesses, donate appreciated securities, or avoid industries they dislike. Financial plans serve lives, and lives contain preferences that cannot be reduced to expected return.
 
-The position creates an incentive inside the mind.
+War merely makes the conflict impossible to ignore.
 
-That does not mean the position caused the event. It means the position can distort the way the investor interprets human consequences.
+There is also a public-policy version of the moral hazard. If companies and regions benefit economically from defense spending, they have incentives to advocate for programs that preserve those benefits. This does not mean every defense policy is manufactured by contractors. Strategic threats are real. It means the political economy becomes part of the environment.
 
-This is the moral hazard of profiting from war in the most literal psychological sense.
+A weapons plant can be both a national-security asset and a local employer.
 
-The person has acquired an interest in the continuation of the condition being analyzed.
+A military base can be both strategically useful and economically important to a congressional district.
 
-Professional investors are accustomed to separating analysis from preference. A credit investor can study bankruptcy without wanting the company to fail. An insurance analyst can model hurricanes without wanting hurricanes. A defense analyst can forecast procurement without wanting war.
+A ship program can be both operationally necessary and a source of thousands of jobs.
 
-The separation is possible.
+Those interests overlap.
 
-It requires attention because money rewards the forecast, not the ethics.
+The investor who assumes defense budgets are determined only by military need is missing part of the system.
 
-There is a second moral hazard at the institutional level.
+The investor who assumes they are determined only by lobbying is also missing part.
 
-Companies that profit from conflict can develop incentives to influence policy. Defense contractors lobby. Energy companies lobby. Technology companies lobby. Humanitarian organizations lobby. Labor unions lobby. Almost every organized economic interest tries to shape government decisions that affect it.
+Political durability can strengthen a company’s revenue while creating inefficiency that eventually attracts reform. A strategically weak program can survive because constituencies support it. A strategically strong program can be delayed by procurement rules, budgets, or industrial limits. The relationship between threat and revenue is mediated by politics.
 
-The existence of lobbying does not prove a company wants war.
+That is one more reason a defense theme should not be mistaken for a simple war beta.
 
-The structure still deserves scrutiny because procurement decisions involve public money, secrecy, national security, and often limited competition. These conditions can weaken ordinary market disciplines.
+The moral question becomes sharper in commodities. An investor long oil during a conflict may benefit from a price shock that makes transportation and heating more expensive for households. A grain trader may profit from shortages that worsen food insecurity. A shipping position may gain from routes becoming dangerous and long.
 
-A company may become too strategically important to fail. A program may survive because jobs are spread across political districts. Costs can be difficult for outsiders to evaluate. Classified requirements limit transparency. Emergency procurement can shorten processes designed to prevent waste.
+Does that make the trade wrong?
 
-War creates legitimate urgency.
+The answer depends partly on what the investor is doing in the market. Speculation can provide liquidity and price discovery. Commodity producers and consumers need counterparties to hedge. Higher prices can signal scarcity and encourage supply or conservation. Markets perform useful functions even when the underlying reality is painful.
 
-Urgency can also create rent seeking.
+Profit and social benefit are not perfectly aligned.
 
-An investor who wants to understand defense economics should be willing to study both.
+They are not perfectly opposed either.
 
-The same moral complexity applies to sanctions beneficiaries.
+This is why moral clarity is difficult in markets. A high oil price can enrich producers, punish consumers, accelerate energy investment, encourage efficiency, and finance governments with very different political systems at the same time. A defense contract can deter aggression, generate waste, employ skilled workers, and produce a weapon that later kills people.
 
-A shipping company earns more because vessels must take longer routes around a conflict zone. A refinery earns unusual margins because energy markets are dislocated. A commodity trader profits from scarcity. A cybersecurity company gains customers after destructive attacks.
+The same cash flow can participate in several moral stories.
 
-Are these profits immoral?
+A portfolio should not pretend otherwise.
 
-There is no universal answer because the activity matters.
+The psychological hazard returns when the investor starts needing the painful story to continue. A long commodity trade turns into a habit of refreshing attack reports. A defense thesis turns into a search for evidence that diplomacy will fail. The market position becomes an emotional claim on suffering.
 
-Higher shipping rates can compensate companies for longer voyages, fuel, risk, and constrained capacity. Higher energy prices can incentivize additional supply that reduces scarcity. Cybersecurity firms provide protection people genuinely need. Profit can coordinate scarce resources toward urgent problems.
+There are ways to reduce this without requiring moral purity.
 
-Prices are not merely transfers from victims to opportunists.
+Size is one.
 
-They are signals.
+A modest thematic allocation is less likely to dominate both finances and attention. A precommitted sell or rebalance rule can prevent the investor from becoming indefinitely attached to escalation. Separating charitable or civic decisions from portfolio decisions can help too. A person who benefits financially from a sector can consciously direct some wealth toward causes that reflect broader values without pretending the gesture cancels the investment.
 
-But signals operate inside institutions that can fail. A monopoly can exploit a crisis. A trader can manipulate scarcity. A company can hoard essential goods. A contractor can overcharge a government with few alternatives. A landlord can exploit displaced people.
+The point is not penance.
 
-The moral evaluation cannot stop at the fact that a price rose.
+It is awareness.
 
-It has to ask what behavior the profit is rewarding.
+Language helps. “I own this because I think the company is undervalued relative to funded demand” is different from “war is good for this stock.” The first statement forces attention toward the business. The second reduces human catastrophe to a factor exposure.
 
-This is a more useful ethical standard for investing than simply labeling sectors good or bad.
+Markets already abstract suffering into prices.
 
-Does the company create capacity society needs, or merely capture scarcity rents?
+Investors do not have to copy the abstraction into their moral vocabulary.
 
-Does it reduce harm, or depend on harm continuing?
+This chapter also needs to resist a fashionable symmetry. It would be easy to conclude that all investing profits from someone else’s pain. Banks earn interest, insurers collect premiums, drug companies earn from illness, defense companies earn from security threats, grocery stores earn because people need food. That observation is too broad to resolve anything. The moral content depends on behavior, market structure, necessity, alternatives, externalities, and how profits are earned.
 
-Does it serve legitimate defense, or evade controls designed to prevent abuse?
+A hospital charging for treatment is not morally identical to creating disease.
 
-Does management use emergency conditions to expand durable capability, or to extract windfalls?
+A contractor supplying air defense is not morally identical to choosing war.
 
-These questions may not produce clean exclusions.
+A speculator manipulating a shortage is not identical to providing liquidity.
 
-They produce better discomfort.
+Distinctions matter.
 
-The rise of environmental, social, and governance investing made defense one of the most contentious classification problems in recent finance. Some ESG frameworks excluded weapons broadly. Russia's invasion of Ukraine forced European investors and policymakers to confront the argument that military security is a prerequisite for many other social goals. A wind farm is difficult to operate under occupation. Democratic institutions require defense against coercion.
+So does uncertainty.
 
-The debate exposed a problem with moral labels attached to industries.
+Investors rarely know the full effect of capital allocation. A company can improve its conduct. A product can be used in ways the investor did not expect. A government can change. A war can turn a defensive system into an offensive one or vice versa depending on context. Ethical screens freeze categories that reality may not keep frozen.
 
-Context changes the ethical meaning of capacity.
+The best an investor can do is choose rules that remain intelligible when challenged.
 
-This does not mean every weapon becomes sustainable because a government buys it.
+That often means accepting imperfection.
 
-Certain weapons are prohibited or heavily constrained under international law. Companies can have records that investors find unacceptable. Governments can wage wars investors consider illegal or unjust. Ethical screens remain choices about values, not scientific classifications waiting to be discovered.
+There is another hazard: moral licensing. An investor excludes defense companies and begins to treat the rest of the portfolio as ethically clean. Meanwhile other holdings may depend on exploitative labor, environmental damage, surveillance, predatory lending, addictive products, authoritarian markets, or tax structures the investor would dislike if examined with equal intensity.
 
-That is why investors should resist outsourcing the moral decision completely to a fund label.
+War is visible.
 
-A fund called sustainable may hold companies the investor dislikes. A conventional index may include weapons exposure the investor never considered. A defense fund may include firms whose businesses extend far beyond weapons. Screening methodologies differ.
+Other harms are easier to hide in ordinary commerce.
 
-Read the holdings.
+Ethical attention should not stop where the screen ends.
 
-Values need due diligence too.
+None of this tells the investor what to own. That is intentional. A chapter that ended with a list of approved and disapproved securities would convert moral judgment into product recommendation, which is exactly the compression this book keeps resisting.
 
-There is also a false purity in imagining that avoiding defense stocks removes all participation in military economies.
+The useful question is not whether profiting from war is categorically moral or immoral.
 
-Banks finance governments. Technology companies sell cloud services. Logistics companies move equipment. Manufacturers supply components. Universities conduct research. Energy companies fuel militaries. Telecom networks carry communications. Pension funds buy government bonds that finance budgets containing defense spending.
+It is what the position asks you to want.
 
-Modern economies are intertwined with states.
+If the investment thesis improves when diplomacy fails, notice that.
 
-A perfectly war-free portfolio may be impossible to define without making arbitrary boundaries.
+If the holding makes you rationalize conduct you would otherwise condemn, notice that.
 
-That is not an excuse to ignore values.
+If excluding the sector gives you a portfolio you can hold with conviction, notice that too.
 
-It is a reason to be explicit about the boundary being chosen.
+If you believe deterrence is a public good and that private defense industry is necessary to provide it, own that belief rather than hiding behind the index.
 
-An investor might exclude companies primarily engaged in certain weapons categories. Another might exclude all weapons manufacturers. Another might accept broad index exposure but avoid dedicated sector bets. Another might actively own defense firms because they believe deterrence is socially valuable. Another might focus on governance and customer standards rather than product category.
+A portfolio cannot make the moral decision disappear.
 
-These are moral positions with financial consequences.
+It can only make the exposure less visible.
 
-They should be stated as such.
+The final discipline is to keep the human event larger than the trade. A rising stock is not evidence that the war is going well. A profitable commodity position is not compensation for suffering elsewhere. A defense budget is not a scoreboard for civilization.
 
-The worst version is pretending the moral position is simply superior financial analysis.
+Money is one lens on history.
 
-People sometimes claim controversial sectors always outperform because other investors avoid them, creating a so-called sin premium. The empirical evidence varies by sector, period, valuation, and definition. Even if an exclusion creates a return cost, an investor may rationally accept the cost to align money with values.
+It is not history’s purpose.
 
-A portfolio is not required to maximize wealth without constraint.
-
-People use money to express priorities constantly. They donate to charities rather than investing every dollar. They choose jobs with lower pay. They pay more for products produced under standards they value. They refuse business with customers they dislike.
-
-Investing can contain similar constraints.
-
-The relevant question is whether the investor understands the trade-off.
-
-War makes these choices emotionally charged because the stakes are visible.
-
-A stock rises after an airstrike. The gain appears in the same feed as photographs of destruction. The investor experiences the proximity that modern information systems create between suffering and price.
-
-It is tempting either to celebrate the trade or condemn the market.
-
-Neither reaction explains much.
-
-Markets price expected cash flows under ugly conditions because societies continue allocating resources under ugly conditions. The price itself is not an endorsement. The investor still has moral agency over participation.
-
-There is another moral dimension that receives less attention: the ethics of financial resilience.
-
-A household that prepares responsibly is less likely to require emergency support from others during a crisis. A business with strong liquidity can keep workers employed. An insurer with adequate capital can pay claims. A bank with conservative funding can continue lending. A government with fiscal space can respond without destabilizing financing.
-
-Prudence has social value.
-
-The investor focused only on the ethics of which stocks are owned can miss the ethics of how risk is carried.
-
-Leverage shifts some failure costs to creditors and, in systemic crises, potentially to the public. Underinsurance can shift burdens to families. Concentrated speculative behavior can destroy household wealth and increase dependency at the worst moment.
-
-There is no moral medal for losing money in the correct sector.
-
-A financially responsible person can hold morally considered investments and still care about return.
-
-Likewise, making money during a crisis is not inherently exploitation. The capital that purchases damaged assets, finances reconstruction, insures risk, or supports new production can be socially useful. High expected returns may be the price required to attract capital where uncertainty is extreme.
-
-The moral question is what the capital enables and what conduct earns the return.
-
-This becomes especially important in reconstruction, where investors may be essential to rebuilding housing, energy, transportation, and businesses after conflict. A high return can reflect risk genuinely borne rather than suffering opportunistically extracted.
-
-Finance is capable of both.
-
-War does not make the distinction easy.
-
-The investor should therefore have a rule more demanding than "never profit from bad things" and more demanding than "markets are amoral."
-
-The first is impossible in a complex economy.
-
-The second is an evasion.
-
-A workable standard begins with awareness.
-
-Know what the company does. Know who its customers are. Know why the thesis works. Notice whether the expected return depends on harm continuing. Decide which activities you are unwilling to own. Accept that the boundary may reduce diversification or alter return. Revisit the decision when context changes.
-
-And notice what the position does to your mind.
-
-That last line may be the most important.
-
-If a profitable trade makes you prefer the continuation of a war, close the financial spreadsheet for a moment.
-
-The portfolio is supposed to serve the person.
-
-The person should not become a subsidiary of the portfolio.
+The investor who remembers that is less likely to confuse being right about a trade with being right about the world.
