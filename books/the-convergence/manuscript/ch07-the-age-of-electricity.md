@@ -70,6 +70,38 @@ Levelized cost is primarily a plant-level measure. It does not by itself price t
 
 Cheap generation is not identical to cheap power around the clock.
 
+That difference becomes more important as end uses electrify because the grid inherits obligations that used to sit elsewhere.
+
+A gasoline station stores days or weeks of transport fuel in tanks. A gas-heated building relies on a pipeline system whose energy is carried in molecules and buffered partly by storage throughout the gas network. A diesel generator can keep fuel on site. When those services move onto electricity, some of the old buffering disappears from the customer side and reappears as a requirement on the power system, the battery, or the control strategy.
+
+This does not make electrification less efficient. It changes where reliability has to be engineered.
+
+An electric vehicle with a large battery may actually add flexibility because charging can often move within a window. A heat pump paired with a well-insulated building can exploit the building itself as short-duration thermal storage. An industrial process may have inventories or production schedules that permit some demand shifting. Other loads are much less forgiving. A hospital, elevator, server cluster, or cold-storage warehouse may need dependable power when the grid is under maximum stress.
+
+The category "electrified load" therefore hides an important range of behavior.
+
+Some new loads raise the system peak. Some arrive mostly off peak. Some can move. Some cannot. Some contain their own storage. Some create coincident demand precisely when weather is already stressing the grid. A million electric machines are not simply a larger version of one electric machine.
+
+Sequence matters as well.
+
+If transmission, distribution equipment, generation, and charging infrastructure expand before demand arrives, electrification can feel almost invisible to the user. The new car plugs in. The new heat pump turns on. The factory replaces a burner. The network absorbs the change because the capacity was built in advance.
+
+If end-use adoption outruns the network, the same technologies can produce queues, local transformer overloads, curtailment, connection delays, or expensive emergency upgrades. The underlying device can be excellent while the surrounding transition is clumsy.
+
+That is one reason historical adoption curves are so often mistaken for pure technology curves. They also record financing, permitting, labor, grid construction, building turnover, consumer trust, and the pace at which complementary infrastructure catches up.
+
+Electrification is not a contest between an electric machine and its fossil predecessor in isolation. It is a contest between systems.
+
+A heat pump can be technically superior on one dimension and still lose because the building needs electrical work, the installer network is thin, or the household faces a high up-front cost. An electric truck can be cheaper to operate and still be constrained by depot capacity or charging downtime. An electric furnace can have attractive operating characteristics and still require a grid connection the local network cannot provide.
+
+The common carrier creates leverage only when the carrier can be delivered.
+
+That is the hidden price of convergence. As more sectors share one infrastructure, investments in that infrastructure become more valuable, but failures and delays in it propagate more widely. A stronger grid can unlock several transitions at once. A weak grid can bottleneck several at once.
+
+The economic case for network investment therefore changes before every new load appears on the meter. A transmission upgrade that looked excessive in a world of flat electricity demand may look prudent in a world where vehicles, heating, industry, and computation are all competing for the same future capacity.
+
+Forecast error remains unavoidable. Build too early or too much and customers pay for underused assets. Build too late and the queue becomes a tax on every technology waiting behind it. The right answer is not permanent overbuilding. It is recognizing that infrastructure planning and end-use transition are part of the same problem.
+
 Nor is electricity intrinsically clean. A battery-electric car charged on a coal-heavy grid has a different emissions profile from the same car on a low-carbon grid. An electric furnace can eliminate combustion on site while moving emissions to the generator. A heat pump can cut emissions dramatically in one system and much less in another.
 
 Electrification therefore creates an opportunity for decarbonization, not a guarantee.
