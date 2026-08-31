@@ -279,3 +279,99 @@ That day has already arrived.
 The house is still standing.
 
 Now we find out which rooms were affordable only because time had no price.
+
+## What Cheap Money Made Invisible
+
+The deepest effect of a long low-rate period is not that everybody borrows.
+
+It is that everybody stops noticing the same risks.
+
+When a cost stays low for years, institutions cease treating it as a variable and begin treating it as background.
+
+Corporate finance departments assume refinancing markets will be open.
+
+Property investors assume exit capitalization rates will remain favorable.
+
+Households assume the next mortgage will resemble the last one.
+
+Governments assume interest will remain a smaller part of the budget than the principal numbers suggest.
+
+The assumption can survive without ever being written down.
+
+That makes it harder to identify and harder to reverse.
+
+One way to see this is through hurdle rates.
+
+A company considering a new factory asks whether the expected return exceeds its cost of capital by enough to justify risk. When safe rates fall, the hurdle falls. More projects qualify. This can be productive if the projects genuinely raise capacity.
+
+It can also make weak projects look acceptable because the discount rate is forgiving.
+
+Governments have an analogous problem without one formal hurdle rate. A public investment should be evaluated against social returns, distributional goals, strategic needs, and financing costs. When financing costs appear negligible, the pressure to distinguish high-return borrowing from low-return borrowing weakens.
+
+Everything can be called investment.
+
+A serious fiscal framework has to preserve the distinction even when markets are generous.
+
+Cheap financing is most valuable when used for things that make future financing easier.
+
+A power grid that reduces bottlenecks can raise productivity.
+
+Research can create technologies that expand future output.
+
+Infrastructure can lower transport costs.
+
+Health investments can preserve labor-force capacity.
+
+Education can raise human capital.
+
+None guarantees a return, and government can waste money in every category. But the principle is clear: debt is less threatening when it leaves behind productive capacity as well as a claim on taxes.
+
+The low-rate era gave the United States an unusually favorable opportunity to make that exchange.
+
+Some of it did.
+
+Some of it financed emergency stabilization.
+
+Some of it financed tax and spending choices whose returns are harder to identify.
+
+The refinancing era does not allow us to relitigate each dollar individually. Treasury debt is fungible at the market level. Investors price the aggregate federal balance sheet.
+
+Politics, however, can learn from the mix.
+
+If future borrowing is more expensive, the quality of what is financed matters more.
+
+This is one reason higher rates can impose useful discipline without being celebrated. A positive price of capital forces comparison. It makes opportunity cost visible.
+
+The danger is allowing that discipline to fall only on the easiest programs to cut.
+
+Public investment is often politically easier to postpone than retirement benefits, health commitments, or tax preferences. A government under interest pressure can therefore reduce the very spending most likely to improve future productive capacity while protecting current consumption.
+
+That would be the wrong adaptation to the end of cheap money.
+
+The fiscal wall is not solved by making the future poorer so today's deficit is smaller.
+
+It is solved by improving the relationship between future claims and future capacity.
+
+That can require more investment in some places and less spending in others.
+
+It can require more revenue.
+
+It can require program redesign.
+
+It can require accepting a current interest bill while refusing to build the next one at the same pace.
+
+The architecture has to change without demolishing the productive rooms.
+
+That is harder than a slogan because every room has occupants.
+
+It is also why the transition deserves to be treated as a political economy problem rather than a bond-market morality play.
+
+Cheap money did not make Americans irresponsible by itself.
+
+It changed the relative price of delay.
+
+Now that price has changed again.
+
+The task is not to recreate yesterday's house.
+
+It is to decide which parts belong in the next one.
