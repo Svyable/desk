@@ -263,3 +263,79 @@ The price of the dollar's privilege is therefore restraint where restraint prote
 No competitor can take that privilege in a single auction.
 
 The United States can spend it one avoidable doubt at a time.
+
+## The Privilege Can Shrink Without Disappearing
+
+Reserve-currency debates often suffer from a binary imagination.
+
+Either the dollar dominates forever or it collapses and is replaced.
+
+The fiscal risk lives in the middle.
+
+The dollar can remain the world's primary reserve and funding currency while the financing advantage attached to that role becomes smaller.
+
+Suppose foreign institutions still need Treasuries for reserves and collateral but demand fifty additional basis points of compensation to hold long duration because supply is larger and fiscal uncertainty is higher.
+
+The dollar has not lost reserve status.
+
+Treasury has lost part of the subsidy.
+
+On a large and growing debt stock, a small persistent change in the required premium can matter enormously once it rolls through maturities.
+
+That is why the right question is not *Will the dollar be dethroned?*
+
+It is *How much convenience yield does the dollar system continue to provide, and what behavior preserves it?*
+
+Convenience is an economic asset.
+
+Investors accept somewhat lower yields on an asset that is easy to trade, easy to pledge, legally predictable, widely accepted, and useful in regulation and settlement. The premium does not appear on a federal balance sheet, but it lowers financing costs relative to a less useful security.
+
+Market plumbing therefore has fiscal value.
+
+A Treasury market with deep two-way liquidity is more valuable to investors than one that becomes fragile under ordinary flows.
+
+Reliable settlement has fiscal value.
+
+Central-bank credibility has fiscal value.
+
+The absence of arbitrary capital controls has fiscal value.
+
+The expectation of payment on time has fiscal value.
+
+These institutional assets can offset some of the burden of a large debt stock.
+
+They can also be degraded independently of the debt stock.
+
+This is what makes the debt limit so economically strange. A country can spend decades building a security that functions like financial bedrock and then voluntarily introduce legal uncertainty into the payment schedule.
+
+Even if markets expect resolution every time, the repeated exercise teaches investors that a political variable sits inside an asset valued partly for removing political variables.
+
+The cost may be tiny in any one episode.
+
+The principle is large.
+
+The same is true of inflation credibility.
+
+A reserve manager does not require zero inflation. Modern fiat systems are built around low, positive inflation targets. The investor needs confidence that the inflation regime is not being subordinated to the government's desire for cheaper real financing.
+
+If fiscal pressure makes that confidence weaker, the rational response is not necessarily to abandon dollars. It can be to shorten maturity, buy TIPS, demand higher nominal yields, hold more gold, diversify some reserves, or hedge more aggressively.
+
+Each response can preserve the dollar's central role while raising Washington's price of time.
+
+This is how privilege can erode quietly.
+
+It is also how it can be strengthened quietly.
+
+A credible fiscal adjustment does not need to balance the budget immediately to improve the long-run risk premium. Market reform can deepen liquidity. Reliable institutions can make Treasuries more useful even as supply rises. Strong productivity can expand the economy behind the debt. An independent Federal Reserve can anchor inflation expectations.
+
+The network is dynamic.
+
+The United States does not inherit reserve-currency privilege once.
+
+It earns part of it every day through boring competence.
+
+That may be the most important asset in the entire fiscal-wall story because it is the asset most easily mistaken for nature.
+
+The dollar's privilege is powerful precisely because users rarely need to think about it.
+
+The best fiscal policy keeps it that way.
