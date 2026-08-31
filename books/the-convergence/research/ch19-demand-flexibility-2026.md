@@ -26,3 +26,26 @@ The chapter also preserves distributional counterevidence. Dynamic prices can re
 - The ~600 GW air-conditioning figure is an estimated contribution to global peak demand, not available demand-response capacity.
 - IEA projections and potential estimates are scenario- and assumption-dependent; the manuscript uses them to establish scale and mechanism, not certainty about future deployment.
 - The chapter's examples involving water heaters, refrigeration, EV charging, and industrial scheduling are mechanism illustrations. They should not be read as claims that every device or process in those categories is flexible in every operating context.
+
+## 2026 completion-pass verification
+
+The current IEA *Electricity 2026* flexibility page confirms the two quantitative anchors used in the manuscript: only around 100 GW of demand response was utilised globally in 2024, while residential air conditioning contributed around 600 GW to global peak electricity demand. The IEA also uses aluminium production as another scale comparison at roughly 160 GW of peak demand, again noting that only a small share is currently leveraged for demand response.
+
+Source: https://www.iea.org/reports/electricity-2026/flexibility
+
+The important research update is not a larger potential number. It is the IEA’s distinction among what is theoretically shiftable, technically enabled, economically viable, and actually used. That hierarchy should remain visible in any future manuscript edit because it prevents a common category error: adding up controllable loads and treating the sum as dependable capacity.
+
+The IEA identifies real system benefits when demand response is deployed at scale—reduced peak-capacity needs, deferred grid investment, lower renewable-integration costs, and improved resilience—but each benefit is conditional on the timing, duration, location, and reliability of the response. A megawatt that can move for ten minutes is not interchangeable with one that can move for ten hours, and neither is automatically available during a multi-day stress event.
+
+### Strongest counterargument after verification
+
+The chapter’s enthusiasm for flexibility should be checked against baseline drift and rebound. If dynamic prices successfully move millions of EVs, water heaters, cooling systems, and industrial loads into the same newly cheap hours, the cheap hours can become less cheap and a new local peak can emerge. Flexibility is therefore endogenous: its value changes as participation changes.
+
+This is not evidence against demand response. It is evidence against treating a static estimate of “flexible megawatts” as a permanent resource. The more defensible claim is: **flexibility is a coordination capability whose system value depends on when, where, how long, and how reliably demand can move without destroying the service the customer wanted.**
+
+A second counterargument is distributional. Dynamic pricing and automated control can create large gains for customers with batteries, EVs, smart thermostats, thermal storage, or scheduleable industrial loads while leaving customers with inflexible essential demand exposed to higher prices. A technically efficient flexibility regime can therefore be politically brittle if the benefits and burdens are badly distributed.
+
+## Source links
+
+- IEA, *Electricity 2026 — Flexibility*: https://www.iea.org/reports/electricity-2026/flexibility
+- IEA, *Scaling Up Demand Flexibility* (2026): https://www.iea.org/reports/scaling-up-demand-flexibility

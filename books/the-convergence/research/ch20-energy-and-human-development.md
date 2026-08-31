@@ -26,3 +26,31 @@ The chapter therefore rejects both linear energy triumphalism and a blanket suff
 - Jackson et al.'s threshold ranges depend on chosen indicators, national averages, and methodology; the manuscript deliberately avoids presenting them as a universal optimum.
 - Correlations between national energy use and well-being do not by themselves identify the causal effect of an additional unit of energy.
 - The concluding synthesis is analysis built from the book's prior evidence, not a forecast that any particular technology will dominate the future energy mix.
+
+## Completion-pass verification and stronger counterevidence
+
+Steinberger and Roberts report a strongly nonlinear relationship between national energy use and several human-development indicators over 1975–2005: large gains at low levels, followed by much weaker gains beyond moderate energy use. Their more important longitudinal result is that the amount of energy associated with high human development shifted downward over time. That supports the book’s efficiency-and-institutions thesis better than a fixed threshold would: the energy requirement for a given social outcome is not technologically or institutionally immutable.
+
+Source: https://www.sciencedirect.com/science/article/pii/S0921800910003733
+
+Jackson et al. (2022) provides a newer cross-sectional stress test. Eight of nine selected indicators—including life expectancy, infant mortality, happiness, food supply, and basic sanitation—rose steeply and then plateaued at national primary-energy levels between roughly 10 and 75 GJ per person per year, with five indicators plateauing between 10 and 30 GJ. Their aggregate estimate for reaching 95% of maximum performance across the selected indicators was roughly 58–74 GJ per person per year.
+
+Source: https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.3978
+
+Those numbers should **not** be turned into a universal energy budget. The study is based on national averages and observed maximum performance, not a randomized or structural estimate of the causal effect of energy. Climate, economic structure, urban form, inequality, trade, embodied energy, institutions, and the particular indicator set all affect the mapping from energy to welfare. A country can also consume large amounts of imported energy-intensive goods without all of that upstream energy appearing in the same territorial accounting frame.
+
+### Strongest counterargument after verification
+
+The plateau literature can be misread in the opposite direction from energy triumphalism. If many welfare indicators flatten at moderate national energy use, it is tempting to infer that high-energy capability is unnecessary. That inference is too strong. National averages for life expectancy or sanitation do not measure every valuable margin of capability: scientific research, industrial resilience, climate adaptation, heavy manufacturing, mobility, cooling during extreme heat, desalination, compute, and disaster recovery can all have substantial energy requirements without generating proportional changes in a national well-being index.
+
+The conclusion should therefore preserve two claims at once:
+
+1. **More energy is not a linear welfare score.** Many basic human outcomes show strong diminishing returns at higher national energy use.
+2. **Capability can keep expanding after welfare metrics plateau.** The social value of that capability depends on what it enables, who receives it, and what external costs accompany it.
+
+That makes the book’s final standard more defensible than either abundance or sufficiency alone: **judge an energy system by the reliable human capabilities it makes possible relative to its total burdens—not by throughput itself and not by a single universal consumption ceiling.**
+
+## Source links
+
+- Steinberger & Roberts (2010), *From constraint to sufficiency: The decoupling of energy and carbon from human needs, 1975–2005*: https://doi.org/10.1016/j.ecolecon.2010.09.014
+- Jackson et al. (2022), *Human well-being and per capita energy use*: https://doi.org/10.1002/ecs2.3978
