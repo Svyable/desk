@@ -70,6 +70,14 @@ Neither is primary steelmaking.
 
 At higher temperatures, direct electrical methods become more important.
 
+But temperature is not a ranking of difficulty.
+
+A process can sit high on the ladder and still be unusually well suited to electricity. An electric arc does not struggle to become hot enough to melt steel scrap. Induction can put energy directly into conductive material. Plasma and other electrothermal methods can deliver very high temperatures without asking an electric boiler to impersonate a flame. In those cases, the temperature itself may be less troublesome than the geometry of the equipment, the quality requirements of the product, the available electrical connection, and the economics of replacing what is already there.
+
+The reverse can happen lower down. A modest-temperature process may be technically easy to electrify and commercially awkward because the plant is built around a steam network, because the retrofit would require a long shutdown, because the local grid cannot supply the new load, or because the electricity tariff destroys the operating-cost advantage. The physical ladder still matters. It narrows some technology choices. It does not tell you, by itself, which project is easiest.
+
+The more useful question is not simply how hot the process gets. It is what the heat is doing, how it reaches the material, what else the fuel is doing, and what must change around the equipment for a new energy carrier to become useful.
+
 Resistance heating is conceptually simple: pass current through a resistive element or material and it gets hot. Induction uses electromagnetic fields to generate heat inside conductive materials. Electric arc furnaces strike an arc between electrodes and material, producing intense heat that can melt steel scrap. Infrared, microwave, radio-frequency, plasma, and other electrothermal methods can be useful where the process benefits from heating a material directly rather than warming a large volume of combustion gas first.
 
 These are not merely cleaner versions of fire.
