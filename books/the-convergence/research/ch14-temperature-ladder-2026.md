@@ -50,6 +50,10 @@ The IEA’s *Heat Pump Monitor 2026* keeps the 20% technical-potential figure ti
 
 Source: https://www.iea.org/reports/heat-pump-monitor-2026/key-findings
 
+DOE’s 2025 *Industrial Electrification Technologies Booklet* adds a useful check against reading temperature as a simple difficulty scale. The guide surveys multiple electrical process-heating technologies by application, benefits, limitations, and integration requirements rather than sorting them into a single low-to-high feasibility ranking. DOE’s Better Plants material likewise notes that electromagnetic heating can reduce losses by depositing heat directly in the target material. This supports the chapter’s stronger systems claim: a high-temperature electric process can sometimes be attractive because it changes where and how heat is delivered, while a lower-temperature retrofit can remain difficult because the surrounding plant was built around steam, fuel, or limited electrical capacity.
+
+Sources: https://betterbuildingssolutioncenter.energy.gov/resources/industrial-electrification-technologies-booklet and https://betterbuildingssolutioncenter.energy.gov/efficiency/process-heating
+
 ### Strongest counterargument after verification
 
 The chapter risks making the “temperature ladder” sound more rigid than it is. Temperature alone does not determine electrifiability. A very high-temperature process can sometimes be well suited to electric arcs, induction, plasma, or other electrothermal methods, while a lower-temperature brownfield process can remain economically stubborn because downtime, steam-system integration, space, electricity tariffs, or grid capacity dominate the decision. The ladder is therefore a useful physical map, not a one-dimensional ranking of difficulty.
@@ -70,4 +74,6 @@ Revisit this chapter if:
 
 - U.S. Department of Energy, *Industrial Decarbonization Roadmap*: https://www.energy.gov/sites/default/files/2022-09/Industrial%20Decarbonization%20Roadmap.pdf
 - U.S. Department of Energy, *Finding Efficiencies in Process Heat*: https://www.energy.gov/cmei/ito/finding-efficiencies-process-heat
+- U.S. Department of Energy Better Plants, *Industrial Electrification Technologies Booklet*: https://betterbuildingssolutioncenter.energy.gov/resources/industrial-electrification-technologies-booklet
+- U.S. Department of Energy Better Plants, *Process Heating Electro-technologies*: https://betterbuildingssolutioncenter.energy.gov/efficiency/process-heating
 - International Energy Agency, *Heat Pump Monitor 2026 — Key findings*: https://www.iea.org/reports/heat-pump-monitor-2026/key-findings
