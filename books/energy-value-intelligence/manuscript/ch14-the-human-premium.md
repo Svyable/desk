@@ -233,3 +233,47 @@ The owner at the restaurant returns to another table. The optimized system conti
 Nothing technologically impressive happened in those thirty seconds.
 
 That may be why they mattered.
+
+There is another reason the human premium may rise in some markets: provenance becomes more valuable when appearances are cheap.
+
+A forged painting can be visually persuasive and economically worthless compared with an authenticated original. The difference is not the pigment pattern alone. It is the chain connecting the object to an artist, a moment, an ownership history and a set of institutions willing to stand behind that chain. Art markets have lived with this distinction for centuries because copying visual form was never the same as copying history.
+
+Synthetic media extends the problem into ordinary information.
+
+A photograph can remain beautiful while becoming weaker evidence that an event occurred. A voice recording can sound intimate while carrying less evidence that the named person spoke. A résumé can be polished without telling an employer how much of the judgment behind it belongs to the applicant. The cheaper surface imitation becomes, the more value can move into authenticated origin and demonstrated consequence.
+
+This does not mean the world needs a cryptographic stamp on every sentence.
+
+Most conversation is low stakes. The cost of verification would exceed the harm from deception. But high-stakes systems already pay for provenance: audit logs, signed commits, chain of custody, professional credentials, notarization, laboratory records, version histories, witnesses.
+
+The human premium often sits inside those systems as the accountable node.
+
+A person says: I was there. I performed the examination. I approve this release. I will answer questions about this decision. The informational content may be reproducible. The liability and history are not.
+
+That is why “human-made” can become both a meaningful signal and a marketing gimmick. Some buyers will pay for it because they value craft, employment, relationship or authenticity. Others will discover that the label does not improve the product they care about. Markets will separate the cases imperfectly.
+
+The interesting question is where costly human origin improves the thing rather than merely decorating it.
+
+In medicine, a person may add contextual judgment and accountability. In education, a teacher may add motivation and social belonging. In performance, copresence may be the point. In a routine bank reconciliation, insisting on hand labor may add almost nothing.
+
+The premium should follow function.
+
+This also helps with the apprenticeship problem. If the scarce output is future judgment, an organization should not measure junior work only by current production. A young engineer reviewing routine drawings may be slower than an automated checker but gaining pattern recognition that later matters in abnormal situations. A trainee doctor may take histories less efficiently than a model but learn how symptoms, fear and family context interact. A junior lawyer may draft a motion the machine could draft better because the act of drafting forces legal reasoning.
+
+Training consumes productive capacity on purpose.
+
+The economic system already accepts this in formal apprenticeships, residencies and supervised practice. AI simply makes the opportunity cost more visible because the alternative can produce the immediate artifact faster.
+
+Organizations will need to decide which forms of deliberate inefficiency buy enough future capability to keep.
+
+That is another reliability tax.
+
+A firm can maximize this quarter's output by routing every easy task to machines. It may then discover five years later that nobody learned the easy tasks well enough to understand the hard ones. The human premium at the senior level rises while the supply of seniors contracts.
+
+The solution is not pretending automation never happened. It is separating production from education so both are designed deliberately.
+
+Machine intelligence may make that easier. A trainee can practice on simulated cases, receive immediate critique and explore variations too expensive to create in the real world. The system can expose novices to rare edge cases before reality does. Human mentors can spend less time correcting clerical mistakes and more time discussing judgment.
+
+Abundance can strengthen apprenticeship if we use some of the surplus to teach.
+
+The choice is a value decision disguised as workflow design.
