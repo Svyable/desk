@@ -217,3 +217,139 @@ The institutions that survive the backlash will be the ones that learn to renego
 The employee does not need a guarantee that nothing will change.
 
 The employee needs evidence that change is something people are still allowed to discuss.
+
+The argument becomes sharper when productivity gains are counted in units workers can recognize. Suppose an AI assistant lets a claims team process twenty percent more cases with the same staffing. Management can describe this as productivity. Workers may experience it as twenty percent more cognitive load if the easiest cases disappear into automation and the remaining cases are harder. Both statements can be true because output per worker and effort per case are not the same measure.
+
+This is the case-mix problem in labor economics at the level of the desk.
+
+A sensible deployment therefore measures more than throughput.
+
+How many interruptions occur?
+
+How much time is spent checking the system?
+
+How often does the worker correct an output?
+
+Do error consequences fall on the employee who trusted the tool?
+
+Did average handle time rise because simple cases were automated?
+
+Did customer satisfaction change?
+
+Did sick leave, turnover, or overtime change?
+
+The metrics should follow the transformed job, not preserve the assumptions of the old one.
+
+This is where worker participation becomes epistemically valuable rather than merely political. The person doing the job knows which measurements stopped meaning what management thinks they mean.
+
+A call-center manager sees average handle time.
+
+An agent knows that the calls now contain more grief, fraud, exceptions, and angry customers because the bot solved the password resets.
+
+A software manager sees code output.
+
+An engineer knows that reviewing generated code can demand more attention than writing a simpler function from scratch.
+
+A doctor sees note-completion time fall.
+
+The physician knows that correcting subtle generated errors after a long shift creates a different kind of fatigue.
+
+These are hypotheses to test, not reasons to reject the tools.
+
+The workers supply the hypotheses.
+
+This changes how a company should think about “training the model.” The corrections employees make are valuable data, but they are also evidence about product quality. An organization that captures every correction as training material while failing to count the correction as labor creates a distorted productivity estimate.
+
+The human cleanup is part of the system.
+
+So is supervision.
+
+A self-checkout lane did not eliminate labor merely because the customer performs some of it. A generative system does not eliminate labor if a professional must silently repair the output before it becomes usable. The work may move, fragment, or become harder to observe.
+
+Public pressure can force hidden labor back into the accounting.
+
+This matters for compensation because the simplest gain-sharing argument is not ideological. If a company needs workers to produce the data, corrections, and domain judgments that make a system valuable, those contributions are part of the capital formation around the system. The company may own the resulting intellectual property under employment agreements. The economic contribution still exists.
+
+Different institutions can bargain over it differently.
+
+A union might negotiate staffing floors, retraining, severance, notice, or productivity bonuses.
+
+An employer without a union might offer skill premiums, career pathways, or gain-sharing because retaining expert supervisors becomes strategically important.
+
+A professional partnership may distribute productivity through profit shares.
+
+A public agency may use efficiency gains to reduce backlog rather than staff.
+
+There is no universal distribution rule.
+
+There should be visibility about the choice.
+
+“AI saved us money” is incomplete without saying how.
+
+Did headcount fall?
+
+Did vacancies go unfilled?
+
+Did workers produce more?
+
+Did customers pay less?
+
+Did quality improve?
+
+Did profit margins rise?
+
+The political reaction to automation will depend partly on whether the gains are experienced as shared abundance or unilateral extraction.
+
+History does not guarantee either outcome.
+
+This is why the apprenticeship problem deserves more than a paragraph. Many occupations contain low-risk work that seems economically inefficient only when viewed as immediate output. Junior lawyers summarize cases. Junior programmers fix simple bugs. Residents perform supervised medical work. Reporters write routine stories. Analysts build basic models. These tasks produce work and judgment at the same time.
+
+If AI removes the task, the organization needs a replacement learning environment.
+
+It may deliberately assign trainees to review generated work and compare it with source material. It may create simulations. It may rotate junior workers through exceptional cases with supervision. It may preserve some manual practice for certification. The training system has to become explicit because the old apprenticeship was embedded in production.
+
+This is a hidden cost of automation that can be managed if it is recognized early.
+
+The alternative is a competence cliff. Senior workers retire or leave, junior workers have not developed deep judgment, and the organization discovers that the people responsible for supervising AI learned primarily by supervising AI.
+
+That is not a hypothetical argument against adoption.
+
+It is a succession-planning problem.
+
+Worker data create another boundary. An employer may reasonably want to study how tools are used so it can improve them. Detailed telemetry can also become surveillance. Keystrokes, messages, call transcripts, response times, editing behavior, prompts, and acceptance rates can create an extraordinarily intimate model of work.
+
+The governance question is purpose limitation.
+
+Data collected to improve an assistant should not automatically become a disciplinary score merely because the information exists. If it will be used for evaluation, workers should know. If private or sensitive content is present, access should be constrained. If an algorithm recommends discipline, the employee should have a meaningful route to challenge inaccurate data or context.
+
+Data abundance makes mission creep easy.
+
+Public pressure often begins after workers discover a use they were never told about.
+
+That is why the best deployment conversation happens before the dashboard exists.
+
+What are we measuring?
+
+Why?
+
+Who can see it?
+
+How long is it kept?
+
+Will it affect pay, promotion, or discipline?
+
+Can a worker correct an error?
+
+Can the system be repurposed later without new notice or bargaining?
+
+These are ordinary questions about power made newly urgent by cheap inference.
+
+A workplace does not become humane merely because its AI is accurate.
+
+It becomes more accountable when people know how the system changes the terms under which their work is judged.
+
+The worker training the replacement may indeed help build a system that reduces future demand for that worker’s current tasks. No governance framework can promise otherwise.
+
+What it can promise is that the transition will not be hidden inside the word productivity.
+
+Someone must be able to ask where the saved time went.
