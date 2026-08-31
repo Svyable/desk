@@ -81,6 +81,67 @@ Prime Minister announcement: https://www.pm.gc.ca/en/news/news-releases/2026/06/
 
 Sovereign AI Compute Infrastructure Program: https://www.canada.ca/en/innovation-science-economic-development/news/2026/04/canada-launches-national-initiative-to-build-large-scale-ai-supercomputing-capacity.html
 
+## Chapter 7 — Chile, Uruguay, and the Competent State
+
+### Chile national AI policy and action plan
+
+Chile Ministry of Science, **Política Nacional de Inteligencia Artificial / Plan de Acción**:
+
+- Chile's first National AI Policy was published in 2021.
+- The policy is organized around enabling factors; development and adoption; and governance and ethics.
+- The current action plan contains 177 initiatives coordinated by 14 ministries.
+- Chile's Ministry of Science describes CENIA, 5G deployment, AI doctoral training, and ethical-algorithm work among the capabilities developed since the original policy.
+
+Sources:
+- https://www.minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/
+- https://minciencia.gob.cl/areas/inteligencia-artificial/Inteligencia-Artificial/politica-Nacional-Inteligencia-Artificial-Plan-Accion/
+
+### Uruguay national AI strategy and 2026 digital strategy
+
+Uruguay Agesic / Presidency:
+
+- Uruguay approved its National Artificial Intelligence Strategy 2024–2030 in November 2024 after a participatory process involving more than 300 people and multiple public, private, academic, civil-society, and stakeholder organizations.
+- The strategy explicitly covers governance, capabilities and infrastructure, talent, data, adoption, sustainable development, inclusive growth, sovereignty, and public-management improvement.
+- In May 2026, the government presented a broader digital strategy intended to make the state more efficient, accelerate procedures, consolidate public information, and use data and AI to improve decision-making.
+- In May 2026, Agesic also established a public-sector strategic committee for AI and data to support implementation and strategy development.
+
+Sources:
+- https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-2024-2030
+- https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-uruguay-2024-2030-6
+- https://www.gub.uy/presidencia/comunicacion/noticias/sanchez-estrategia-digital-busca-estado-eficiente-tramites-agiles-decisiones
+- https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/politicas-y-gestion/comite-estrategico-del-sector-publico-para-inteligencia-artificial-datos
+
+## Chapter 8 — Brazil: The Green Compute Republic
+
+### Brazilian Artificial Intelligence Plan
+
+Brazil Ministry of Science, Technology and Innovation, **Plano Brasileiro de Inteligência Artificial (PBIA) 2024–2028**:
+
+- The plan carries approximately R$23 billion in planned investment over four years.
+- It includes infrastructure, research, innovation, public-sector adoption, business adoption, skills, and governance.
+- The infrastructure program includes expansion of national high-performance computing and a goal of placing a Brazilian AI-oriented supercomputer among the world's top systems.
+- The PBIA's published structural actions include R$1.8 billion for the flagship AI supercomputer initiative and expanded regional high-performance computing centers.
+
+Sources:
+- https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/plano-brasileiro-de-inteligencia-artificial
+- https://www.gov.br/mcti/pt-br/centrais-de-conteudo/publicacoes-mcti/plano-brasileiro-de-inteligencia-artificial/pbia_mcti_2025.pdf/@@download/file
+- https://www.gov.br/lncc/pt-br/assuntos/noticias/ultimas-noticias-1/lncc-conduz-implantacao-de-supercomputador-de-inteligencia-artificial-que-ampliara-a-capacidade-computacional-do-brasil
+
+### Brazilian electricity mix and data-center planning
+
+Brazil Ministry of Mines and Energy / Energy Research Office (EPE):
+
+- Renewable sources supplied 88.2% of Brazil's electricity mix in 2024.
+- Wind and solar together supplied about 24% of total generation in 2024.
+- By 2025–2026, EPE was explicitly integrating prospective data-center demand into energy and transmission planning and created a data-collection portal for data-center demand.
+- Brazil approved its Ten-Year Energy Expansion Plan 2035 in July 2026, maintaining a planning framework centered on a predominantly renewable electricity system, resilience, and new demand categories.
+
+Sources:
+- https://www.gov.br/mme/pt-br/assuntos/noticias/brasil-avanca-na-renovabilidade-das-matrizes-em-2024-aponta-balanco-energetico-nacional
+- https://www.epe.gov.br/pt/imprensa/noticias/epe-publica-o-relatorio-sintese-do-balanco-energetico-nacional-2025
+- https://www.epe.gov.br/pt/imprensa/noticias/no-redes-do-amanha-epe-debate-data-centers-e-investimentos-em-transmissao-de-energia
+- https://www.epe.gov.br/pt/imprensa/noticias/governo-do-brasil-aprova-o-plano-decenal-de-expansao-de-energia-2035
+
 ## Editorial rule
 
 The manuscript should not treat any forecast as destiny. Electricity-demand projections, investment totals, adoption rates, and announced infrastructure plans are time-sensitive. Preserve the source date and distinguish measured history, announced policy, and modeled projection during final fact-checking.

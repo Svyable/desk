@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 7 of 25 drafted |
+| **Chapters** | 10 of 25 drafted |
 
 How Size Changes the Rules.
 
@@ -24,9 +24,9 @@ The argument is also a warning. Scaling laws describe regularities; they do not 
 - [x] [Ch 5 — Cities That Accelerate](manuscript/ch05-cities-that-accelerate.md)
 - [x] [Ch 6 — Networks and Metcalfe's Mirage](manuscript/ch06-networks-and-metcalfes-mirage.md)
 - [x] [Ch 7 — The Experience Curve](manuscript/ch07-the-experience-curve.md)
-- [ ] Ch 8 — Moore's Law Was a Coordination Device
-- [ ] Ch 9 — Data, Compute, Parameters
-- [ ] Ch 10 — Loss on a Log-Log Plot
+- [x] [Ch 8 — Moore's Law Was a Coordination Device](manuscript/ch08-moores-law-was-a-coordination-device.md)
+- [x] [Ch 9 — Data, Compute, Parameters](manuscript/ch09-data-compute-parameters.md)
+- [x] [Ch 10 — Loss on a Log-Log Plot](manuscript/ch10-loss-on-a-log-log-plot.md)
 - [ ] Ch 11 — Thresholds That Look Like Magic
 - [ ] Ch 12 — The Chinchilla Lesson
 - [ ] Ch 13 — The Compute Frontier

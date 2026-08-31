@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 4 of 20 drafted |
+| **Chapters**  | 6 of 20 drafted |
 
 ## Contents
 
@@ -13,11 +13,11 @@
 - [x] [Ch 2 — The Product That Ate the Demo](manuscript/ch02-the-product-that-ate-the-demo.md)
 - [x] [Ch 3 — What the Subscription Buys](manuscript/ch03-what-the-subscription-buys.md)
 - [x] [Ch 4 — The Hidden Invoice](manuscript/ch04-the-hidden-invoice.md)
+- [x] [Ch 5 — The Hyperscaler Arms Race](manuscript/ch05-the-hyperscaler-arms-race.md)
+- [x] [Ch 6 — Stargate](manuscript/ch06-stargate.md)
 
 ## Planned chapters
 
-5. The Hyperscaler Arms Race
-6. Stargate
 7. Chips, Racks, Megawatts
 8. Capital Before Revenue
 9. From Sixty Dollars to Cents

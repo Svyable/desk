@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 3 of 24 drafted |
+| **Chapters**  | 5 of 24 drafted |
 
 ## Contents
 
@@ -12,11 +12,11 @@
 - [x] [Ch 1 — The Future Is the Product](manuscript/ch01-the-future-is-the-product.md)
 - [x] [Ch 2 — The Vision Premium](manuscript/ch02-the-vision-premium.md)
 - [x] [Ch 3 — Promises That Cause Themselves](manuscript/ch03-promises-that-cause-themselves.md)
+- [x] [Ch 4 — The Pitch](manuscript/ch04-the-pitch.md)
+- [x] [Ch 5 — The Number in the Deck](manuscript/ch05-the-number-in-the-deck.md)
 
 ## Planned chapters
 
-4. The Pitch
-5. The Number in the Deck
 6. The Date on the Slide
 7. Almost Ready
 8. The Demo

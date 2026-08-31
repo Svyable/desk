@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 17 of 20 drafted |
+| **Chapters** | 20 of 20 drafted |
 
 *How Civilization Finds Its Next Move*
 
@@ -16,7 +16,7 @@ The central argument is that as generating options becomes cheaper, advantage mi
 
 ## Contents
 
-- [ ] Front Matter
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Room of Possible Moves](manuscript/ch01-the-room-of-possible-moves.md)
 - [x] [Ch 2 — The Price of Looking](manuscript/ch02-the-price-of-looking.md)
 - [x] [Ch 3 — Explore, Exploit](manuscript/ch03-explore-exploit.md)
@@ -34,10 +34,15 @@ The central argument is that as generating options becomes cheaper, advantage mi
 - [x] [Ch 15 — Search Under Constraint](manuscript/ch15-search-under-constraint.md)
 - [x] [Ch 16 — The Machine That Generates Possibilities](manuscript/ch16-the-machine-that-generates-possibilities.md)
 - [x] [Ch 17 — Verification Becomes the Bottleneck](manuscript/ch17-verification-becomes-the-bottleneck.md)
-- [ ] Ch 18 — The Politics of What Gets Tried
-- [ ] Ch 19 — When to Stop Searching
-- [ ] Ch 20 — A Civilization That Can Change Its Mind
-- [ ] Back Matter
+- [x] [Ch 18 — The Politics of What Gets Tried](manuscript/ch18-the-politics-of-what-gets-tried.md)
+- [x] [Ch 19 — When to Stop Searching](manuscript/ch19-when-to-stop-searching.md)
+- [x] [Ch 20 — A Civilization That Can Change Its Mind](manuscript/ch20-a-civilization-that-can-change-its-mind.md)
+- [x] [Back Matter](manuscript/back-matter.md)
+
+## Rights
+
+- [Rights & permissions](RIGHTS.md)
+- [Machine-readable rights metadata](rights.json)
 
 ## Research
 
