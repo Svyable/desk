@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 10 of 20 drafted |
+| **Chapters**  | 15 of 20 drafted |
 
 ## Contents
 
@@ -21,16 +21,13 @@
 - [x] [Ch 8 — The Invisible Curriculum](manuscript/ch08-the-invisible-curriculum.md)
 - [x] [Ch 9 — Cheating Is the Wrong Question](manuscript/ch09-cheating-is-the-wrong-question.md)
 - [x] [Ch 10 — The New Achievement Gap](manuscript/ch10-the-new-achievement-gap.md)
+- [x] [Ch 11 — Thirty Teachers for Thirty Students](manuscript/ch11-thirty-teachers-for-thirty-students.md)
+- [x] [Ch 12 — The Teacher Is Not an Answer Key](manuscript/ch12-the-teacher-is-not-an-answer-key.md)
+- [x] [Ch 13 — The Assessment Arms Race](manuscript/ch13-the-assessment-arms-race.md)
+- [x] [Ch 14 — The Oral Return](manuscript/ch14-the-oral-return.md)
+- [x] [Ch 15 — The Data Shadow](manuscript/ch15-the-data-shadow.md)
 
 ## Planned chapters
-
-### Part III — The Institution Reacts
-
-11. Thirty Teachers for Thirty Students
-12. The Teacher Is Not an Answer Key
-13. The Assessment Arms Race
-14. The Oral Return
-15. The Data Shadow
 
 ### Part IV — School After Answers Become Cheap
 
@@ -53,3 +50,8 @@
 - [Ch 8 research trail](research/ch08-the-invisible-curriculum.md)
 - [Ch 9 research trail](research/ch09-cheating-is-the-wrong-question.md)
 - [Ch 10 research trail](research/ch10-the-new-achievement-gap.md)
+- [Ch 11 research trail](research/ch11-thirty-teachers-for-thirty-students.md)
+- [Ch 12 research trail](research/ch12-the-teacher-is-not-an-answer-key.md)
+- [Ch 13 research trail](research/ch13-the-assessment-arms-race.md)
+- [Ch 14 research trail](research/ch14-the-oral-return.md)
+- [Ch 15 research trail](research/ch15-the-data-shadow.md)
