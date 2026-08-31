@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | Prologue + 8 of 17 chapters drafted |
+| **Chapters**  | Prologue + 10 of 17 chapters drafted |
 
 ## Contents
 
@@ -20,13 +20,10 @@
 - [x] [Ch 6 — The Caribbean: Small States, Big Intelligence](manuscript/ch06-the-caribbean-small-states-big-intelligence.md)
 - [x] [Ch 7 — Chile, Uruguay, and the Competent State](manuscript/ch07-chile-uruguay-and-the-competent-state.md)
 - [x] [Ch 8 — Brazil: The Green Compute Republic](manuscript/ch08-brazil-the-green-compute-republic.md)
+- [x] [Ch 9 — The Amazon Has a Data Policy](manuscript/ch09-the-amazon-has-a-data-policy.md)
+- [x] [Ch 10 — Andes: The Mineral Inside the Machine](manuscript/ch10-andes-the-mineral-inside-the-machine.md)
 
 ## Planned chapters
-
-### Part II — The Hemisphere Becomes a Machine
-
-9. The Amazon Has a Data Policy
-10. Andes: The Mineral Inside the Machine
 
 ### Part III — Who Gets the Productivity?
 
