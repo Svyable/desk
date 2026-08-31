@@ -263,3 +263,81 @@ A generation priced at zero learned to make promises in one financial language.
 The next generation is translating them.
 
 The exchange rate is interest.
+
+## The Generational Balance Sheet
+
+Interest-rate regimes do not redistribute only between borrowers and lenders.
+
+They redistribute between birth cohorts.
+
+That is harder to see because age, wealth, housing, wages, and portfolio ownership overlap imperfectly. There is no clean line separating “young” from “old” financial winners. Plenty of retirees rent. Plenty of young households own assets. High-income families transfer wealth across generations. Pension claims blur the ownership of bonds.
+
+Still, the rate regime changes the starting position of different cohorts.
+
+A homeowner who locked a three-percent thirty-year mortgage carries an asset that a first-time buyer in a higher-rate market cannot buy at the same price. The older homeowner may also own bonds purchased after yields rose, benefiting from higher income on new savings. The younger household can face both an expensive home and an expensive mortgage.
+
+On the other hand, a young worker with decades of saving ahead may benefit from higher expected returns on safe assets and from lower valuations on securities purchased with future earnings. A retiree whose portfolio was built around low-coupon bonds can suffer mark-to-market losses or weak income locked in from the old regime.
+
+The direction depends on what each person owns and owes.
+
+Federal finance adds another layer because taxes and benefits are distributed across time.
+
+When government borrows instead of taxing today, it does not mechanically send one invoice to one future generation. Future taxpayers, bondholders, beneficiaries, and workers overlap. Some debt finances assets or stabilization that benefit the future. Some future interest is paid to future citizens who own Treasuries.
+
+Yet persistent structural deficits can shift political burden forward by committing future revenue before future voters choose their own priorities.
+
+That is a genuine intergenerational issue even when the household metaphor fails.
+
+The right question is not whether “our grandchildren must repay the debt.”
+
+They may inherit both the liability and the Treasury securities. The government can roll nominal principal indefinitely.
+
+The better question is what share of their productive capacity will be pre-committed to servicing promises made before they voted, and what assets or institutions will they receive in exchange.
+
+A generation can inherit a larger debt and be richer because the borrowing financed productive investment, prevented depression, or protected national security.
+
+It can inherit a larger debt and be poorer because the borrowing financed consumption without durable return while interest consumed future fiscal room.
+
+The debt number cannot adjudicate between those outcomes.
+
+Growth and the quality of public choices can.
+
+This is why the end of the zero-rate era creates an opportunity as well as a constraint.
+
+Once interest becomes visible again, borrowing decisions have to compete more openly with one another.
+
+A program that requires permanent debt financing at five percent deserves a different test from one financed at one percent.
+
+A tax cut whose growth effects were marginal at a low carrying cost deserves a harder look when financing is expensive.
+
+An infrastructure project with a high social return may become *more* important because the economy needs growth to expand the denominator.
+
+The price of time can improve prioritization if politics lets it.
+
+It can also worsen generational conflict if every group tries to preserve its own claim by shifting adjustment elsewhere.
+
+Older voters can resist benefit changes.
+
+Working-age voters can resist taxes.
+
+Businesses can resist base broadening.
+
+Defense constituencies can resist cuts.
+
+State governments can resist reduced transfers.
+
+Each claim can be understandable.
+
+Together they can leave the youngest and not-yet-born with the residual.
+
+The fiscal wall becomes intergenerational not because one cohort intentionally exploits another, but because delayed compromise has a direction.
+
+Time only moves one way.
+
+A generation priced at zero learned that the future was cheap.
+
+A generation refinancing at positive rates is learning that the future sends invoices.
+
+The fairest response is not to blame either generation.
+
+It is to make sure the next one inherits more than coupons.
