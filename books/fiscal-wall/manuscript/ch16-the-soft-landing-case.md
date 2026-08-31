@@ -275,3 +275,121 @@ It may be the base case.
 The reason to study the wall is not because catastrophe is certain.
 
 It is because a soft landing has requirements, and requirements are easier to meet before they become emergencies.
+
+The most important feature of a soft landing is timing.
+
+The country does not need every variable to improve at once. It needs improvement to arrive before the lagged repricing of the debt stock overwhelms the benefit.
+
+Imagine inflation continues declining and the Federal Reserve lowers short rates over the next few years. Bills reprice first. Floating-rate notes follow their reference rates. Two- and three-year issuance becomes cheaper. The old low-coupon ten-year notes continue to mature, but they no longer roll into the peak rate regime. The average federal interest rate still rises for a period because yesterday's cheap debt is being replaced, yet it peaks at a lower level than a simple extrapolation of today's yield curve would suggest.
+
+The wall has not disappeared.
+
+The rate regime moved before the whole portfolio reached it.
+
+This is one of the strongest reasons to avoid multiplying today's yield by today's debt and calling the result the future interest bill.
+
+The Treasury portfolio is a moving average of market history.
+
+If the history improves soon enough, the average turns before every security has crossed the worst point.
+
+Now add a modest improvement in the primary balance.
+
+The effect can be larger than the first-year savings suggest because fewer new securities need to be issued, which means fewer future coupons. A gradual package that reduces annual primary deficits by an increasing amount over time can change the debt path through both the direct budget effect and the interest avoided on debt that was never issued.
+
+This is compounding in the helpful direction.
+
+It is also why credibility can matter before the cash savings are complete. If investors believe the future supply path has improved, term premiums and auction concessions can respond before the last statutory provision takes effect.
+
+The market discounts policy as well as cash flows.
+
+The risk, of course, is that promises are reversible.
+
+A reform scheduled ten years in the future has little value if every participant expects the next Congress to repeal it. Soft landings therefore depend on institutional and political durability rather than numerical ambition alone.
+
+A smaller package that survives can matter more than a giant package written to expire politically.
+
+The same logic applies to growth.
+
+A productivity improvement does not need to be a technological miracle to help. A few tenths of a percentage point sustained over a decade changes the level of output materially. More output supports wages, profits, and tax receipts. It also makes a given stock of nominal debt smaller relative to the economy.
+
+But growth has to be real.
+
+Inflation can raise nominal GDP and tax receipts, yet if it simultaneously raises Treasury yields, indexed benefits, and uncertainty, the apparent denominator improvement can be partly or fully offset.
+
+The soft landing requires productive expansion with inflation contained enough that investors do not demand a permanent inflation premium.
+
+This is why the artificial-intelligence boom, energy investment, factory construction, grid expansion, and infrastructure spending matter fiscally only through outcomes rather than headlines.
+
+A data center built with borrowed money does not improve debt sustainability merely because it is called investment. It has to raise future productive capacity enough to justify the resources consumed. The same is true of public infrastructure.
+
+Composition is not a moral label.
+
+It is an empirical question about return.
+
+Safe-asset demand offers another route that is easy to understate because it does not look like reform.
+
+Suppose household and institutional financial wealth keeps growing. The world needs more collateral. Regulations continue to create demand for high-quality liquid assets. Pensions want more duration as they mature. Money funds remain large. Foreign reserve managers retain the dollar as their primary reserve asset.
+
+The Treasury market can grow into a larger debt stock.
+
+The relevant comparison is not today's buyer base against tomorrow's supply. It is tomorrow's buyer base against tomorrow's supply.
+
+A larger financial system can absorb a larger sovereign market.
+
+This does not guarantee the same yield. It means capacity is not fixed.
+
+Market structure can expand that capacity further. If central clearing allows dealers to net offsetting Treasury and repo exposures more efficiently, the same amount of bank capital can intermediate more gross activity. If margin and liquidity requirements are handled well, a reform that initially looks technical can reduce the amount of balance sheet required per dollar of Treasury turnover.
+
+This is an underappreciated soft-landing mechanism.
+
+The government does not only adjust the numerator.
+
+The market that carries the numerator can become more efficient.
+
+A successful clearing transition through the end of 2026 and mid-2027 would therefore matter beyond compliance. It would demonstrate that the Treasury market can scale its infrastructure alongside issuance.
+
+The same is true of buybacks and liquidity management. Improving the tradability of off-the-run securities can reduce the friction investors demand compensation for. Better data on leverage and positions can help regulators identify concentrated risks before they become forced sales. Federal Reserve facilities can make secured funding more reliable without fixing the long-term yield.
+
+The wall becomes less dangerous when the market's shock absorbers become stronger.
+
+There is a useful distinction between a fiscal soft landing and a market soft landing.
+
+The fiscal version is debt stabilizing relative to the country's capacity to support it.
+
+The market version is Treasury supply being absorbed without repeated dysfunction or an accelerating financing premium.
+
+The United States needs both.
+
+A fiscally improving country could still suffer a market accident if leverage and liquidity are badly arranged.
+
+A perfectly functioning Treasury market could finance an unsustainable fiscal trajectory for a surprisingly long time.
+
+The outcomes reinforce one another but are not identical.
+
+This gives us a way to recognize progress without demanding perfection.
+
+A soft landing would not require debt to fall in nominal dollars.
+
+It would not require net interest to return to the cheap-money levels of the 2010s.
+
+It would not require the thirty-year yield to return to two percent.
+
+It would not require every auction to stop through.
+
+It would require the dangerous derivatives to improve: the growth rate of debt relative to GDP, the growth of interest relative to revenue, the amount of repeated market intervention, and the size of the compensation required for marginal duration.
+
+The direction matters more than nostalgia.
+
+One year of improvement would not settle the question either. Fiscal trajectories can reverse quickly through recession, war, tax changes, or new programs. The point of a soft landing is to rebuild margin for those surprises.
+
+If the debt ratio stabilizes only because every economic assumption comes in favorably, the country has not rebuilt resilience.
+
+If it can absorb a recession or security emergency and remain on a recoverable path, it has.
+
+This is the difference between a forecast that works and a balance sheet that works.
+
+The soft landing is ultimately about option value.
+
+The government does not need to eliminate borrowing. It needs borrowing to remain available for things worth borrowing for.
+
+That means preserving room before the next event that no baseline contains.
