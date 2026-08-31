@@ -168,3 +168,14 @@ For the edition model, see [Revising a published book](https://github.com/Svyabl
 | Understand publication structure | [Book anatomy](docs/book-anatomy.md) |
 | Work as an AI agent | [AGENTS.md](AGENTS.md) |
 | Understand the wider system | [Bookself](https://github.com/Svyable/bookself) |
+| Read released work | [Svyable Shelf](https://svyable.github.io/shelf/reader/) |
+
+## Public discovery surface
+
+When Desk Pages is enabled, the working-proof site also exposes [`llms.txt`](https://svyable.github.io/desk/llms.txt), [`robots.txt`](https://svyable.github.io/desk/robots.txt), [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml), and [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md).
+
+An enabled Pages site is an intentional public working-proof surface even when the Git repository itself is private. Do not commit secrets, credentials, or material that must remain confidential.
+
+## Rights and license
+
+The framework outside `books/` is covered by [LICENSE](LICENSE). Book manuscripts remain the copyright of their authors; see [RIGHTS.md](RIGHTS.md) and each publication's own rights files where present.
