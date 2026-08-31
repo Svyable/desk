@@ -6,7 +6,9 @@ It asks for electricity.
 
 Then land. Fiber. Transformers. Cooling. Roads wide enough for heavy equipment. Water in some designs and dry air in others. Engineers who can sign drawings. Electricians who can terminate cable correctly. Utility crews who can energize a substation. Local officials who can decide whether a site may be built. A transmission system that can deliver power after the servers arrive.
 
-The software may be weightless to the person using it. The system underneath it is not.
+The software may be weightless to the person using it.
+
+The system underneath it is not.
 
 That is the starting point of this book.
 
@@ -18,13 +20,27 @@ Then somebody tries to build the data center.
 
 The country under the software comes back into view.
 
+This is not primarily a book about predicting exactly how intelligent AI becomes or when a particular benchmark is crossed. Forecasts matter, but the stronger question is more durable.
+
+What does a country need if useful cognition becomes materially cheaper?
+
+The answer is complements.
+
+Energy. Housing. Water. Transport. Construction. Maintenance. Skilled field work. Permitting. Procurement. Institutions capable of deciding, coordinating, and remembering.
+
+If AI progress is slower than its enthusiasts expect, these things remain useful.
+
+If AI progress is faster, they become harder to ignore.
+
 ## The bottleneck moves
 
 Every productive system has a limiting factor somewhere.
 
 When one input becomes cheaper, another often matters more.
 
-If calculation is expensive, firms organize around scarce calculation. If communication is expensive, they organize around distance. If skilled drafting takes months, a project may be limited by design capacity. If AI makes portions of drafting, analysis, scheduling, translation, coding, and administrative work faster, the project does not become unconstrained. It reaches the next constraint sooner.
+If calculation is expensive, firms organize around scarce calculation. If communication is expensive, they organize around distance. If skilled drafting takes months, a project may be limited by design capacity. If AI makes portions of drafting, analysis, scheduling, translation, coding, and administrative work faster, the project does not become unconstrained.
+
+It reaches the next constraint sooner.
 
 Sometimes the next constraint is a person with legal authority.
 
@@ -44,6 +60,32 @@ Governments control or influence many of the complements whose supply responds s
 
 A country can have extraordinary models and ordinary bottlenecks at the same time.
 
+## A rich country can be capacity-poor
+
+Money and capacity are related.
+
+They are not identical.
+
+A legislature can authorize billions of dollars faster than a region can produce electricians. A utility can approve a capital plan before a transformer manufacturer has a production slot. A housing subsidy can increase purchasing power faster than a city permits homes. A grant can fund a water project before the town has enough engineering staff to scope and procure it well.
+
+This distinction matters because wealthy societies can mistake financial ability for productive ability.
+
+The money exists.
+
+The thing still does not happen.
+
+Sometimes the reason is bad policy. Sometimes it is genuine physical scarcity. Sometimes an institution has accumulated rules without accumulating throughput. Sometimes a market is too uncertain for suppliers to invest in capacity. Sometimes every individual decision makes sense locally and the system still performs badly in aggregate.
+
+The useful question is not whether America can afford to build.
+
+It is whether America can reliably convert money, knowledge, authority, materials, and labor into completed useful capacity at reasonable cost.
+
+That is a different kind of wealth.
+
+A country can be financially rich and operationally poor.
+
+Public works are one place where the difference becomes impossible to hide.
+
 ## The return of load growth
 
 Electricity makes the argument concrete.
@@ -54,7 +96,9 @@ That assumption is becoming less comfortable.
 
 Data centers are not the only reason. Manufacturing, electrification, population shifts, and other industrial loads matter too. But AI has made the physical scale of computing harder to ignore. A large computing campus can require power comparable to a substantial industrial facility, and clusters of campuses can force utilities to reconsider generation, transmission, substations, and local distribution at once.
 
-The interesting fact is not any single forecast. Forecasts move quickly, especially when technology is changing.
+The interesting fact is not any single forecast.
+
+Forecasts move quickly, especially when technology is changing.
 
 The interesting fact is that utilities have to make decisions before uncertainty disappears.
 
@@ -64,7 +108,9 @@ This is the kind of problem mature infrastructure institutions are supposed to h
 
 They have to make reversible bets where possible, preserve options, stage investments, assign risk, and build the capacity that remains useful across several futures.
 
-AI does not remove the planning problem. It makes good planning more valuable.
+AI does not remove the planning problem.
+
+It makes good planning more valuable.
 
 ## The industrial clock and the software clock
 
@@ -182,7 +228,7 @@ That distinction—between intelligence and execution—runs through the whole b
 
 The inherited country also contains land and structures left by earlier economic eras.
 
-Closed factories. Rail spurs. warehouses. industrial parcels. contaminated sites. obsolete power infrastructure. empty commercial buildings. Public agencies often know these places imperfectly because ownership, environmental history, utility capacity, and building condition live in separate records.
+Closed factories. Rail spurs. Warehouses. Industrial parcels. Contaminated sites. Obsolete power infrastructure. Empty commercial buildings. Public agencies often know these places imperfectly because ownership, environmental history, utility capacity, and building condition live in separate records.
 
 The AI-era building boom creates pressure to use land quickly.
 
@@ -262,6 +308,34 @@ The public-works challenge is therefore partly organizational.
 
 The country needs institutions capable of converting money and intelligence into completed assets.
 
+## Throughput is the test
+
+Institutions tend to measure what is easy to count.
+
+Applications received. Dollars awarded. Meetings held. Studies completed. Grants announced. Pages reviewed. Contracts signed.
+
+These measures describe activity.
+
+They do not always describe capacity.
+
+A permitting system should ultimately be judged by whether it produces timely, lawful, defensible decisions. A procurement system should be judged by whether it attracts competition and produces useful performance at reasonable lifecycle cost. A maintenance program should be judged by service reliability and asset condition. A workforce program should be judged partly by whether workers acquire skills that real projects can use.
+
+The same distinction applies to AI.
+
+A public agency can deploy assistants, models, dashboards, and pilots while its throughput barely changes.
+
+The point is not adoption.
+
+The point is whether the handoff gets better.
+
+Does a project move from application to decision with fewer avoidable waits? Does an inspector reach more high-risk assets? Does a project manager discover a dependency before it becomes a delay? Does a town with a small staff gain access to engineering capacity it could not previously afford?
+
+This book will repeatedly return to that test.
+
+Not: did we add intelligence?
+
+Did useful capacity increase?
+
 ## The public and private line
 
 A public-works renaissance does not require government to build everything itself.
@@ -312,7 +386,7 @@ A generator waits in an interconnection queue. A housing project waits for appro
 
 The waiting has economic effects even when it never appears as a line item called scarcity.
 
-Capital sits idle. Workers lose time. projects are redesigned. Financing costs grow. Competitors give up. Households pay higher prices because supply cannot respond.
+Capital sits idle. Workers lose time. Projects are redesigned. Financing costs grow. Competitors give up. Households pay higher prices because supply cannot respond.
 
 A great deal of public capacity can be understood as the ability to shorten the right waits without eliminating the review that protects legitimate interests.
 
