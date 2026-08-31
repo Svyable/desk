@@ -261,3 +261,83 @@ This is why a country can cross the fiscal wall without a visible collision.
 The hidden tax becomes visible only when the budget is asked what it can no longer afford.
 
 By then, duration has already done the work.
+
+## Duration Is a Choice About Who Waits
+
+The language of duration can sound technical enough to hide its political content.
+
+Strip away the formulas and the question is simple.
+
+Who is being asked to wait, and who is being protected from waiting?
+
+When Treasury issues a thirty-year fixed-rate bond, the investor agrees to wait decades for final principal while accepting a coupon that may become unattractive if inflation or market rates rise. Taxpayers receive the protection: the government's nominal rate on that security is fixed.
+
+When Treasury issues a three-month bill, the investor waits almost no time. Taxpayers receive almost no protection from the next rate environment.
+
+The maturity mix allocates patience.
+
+Patience has value because the future is uncertain.
+
+This suggests a way to evaluate debt-management choices that is more useful than asking whether Treasury “should have locked in rates” in hindsight. Ask instead whether the portfolio distributes uncertainty across enough investors and enough dates that no single future rate path becomes intolerable.
+
+That is a resilience problem.
+
+A heavily short-funded sovereign can enjoy low expected costs and still be fragile to persistent inflation.
+
+A heavily long-funded sovereign can enjoy stable nominal coupons and still pay a large term premium for insurance or overwhelm the natural buyer base for duration.
+
+A diversified portfolio accepts that forecasting skill is limited.
+
+This is exactly why private institutions use asset-liability management rather than one heroic interest-rate bet.
+
+The federal government's version is more complicated because Treasury is not the only public balance sheet that matters.
+
+The Federal Reserve can hold long Treasury securities while financing them economically with reserve balances whose administered rate resets quickly. From the perspective of consolidated government finance, some duration that Treasury thought it had issued long can be shortened by central-bank asset purchases.
+
+That does not make quantitative easing a debt-management error. The Fed buys assets for monetary and market-functioning reasons. It does mean that public-sector rate exposure cannot be understood from Treasury maturities alone.
+
+The state has multiple clocks.
+
+This matters if fiscal pressure grows.
+
+Politicians can look at a low coupon on a bond held by the Fed and assume the government locked in cheap funding. The consolidated cash flow can tell a different story once the Fed pays a higher rate on reserves and remittances to Treasury fall or stop.
+
+Duration migrated inside the public balance sheet.
+
+Risk migration is the recurring theme.
+
+Extend Treasury maturity and private investors absorb more duration.
+
+Shorten it and taxpayers absorb more reset risk.
+
+Use inflation-linked debt and taxpayers retain more inflation exposure.
+
+Use central-bank purchases and duration can move from private investors into reserve-rate sensitivity.
+
+Encourage leveraged nonbank buyers and duration can become liquidity risk through repo and margin.
+
+There is no policy that destroys the risk.
+
+There are only policies that choose its location and price.
+
+That observation is useful because political arguments often treat risk transfer as risk reduction.
+
+A regulation that pushes long bonds out of one balance sheet may make that institution safer while concentrating them elsewhere.
+
+A Treasury strategy that protects today's budget can expose tomorrow's.
+
+A Federal Reserve intervention that restores market functioning can protect liquidity while creating political pressure over the size of its balance sheet.
+
+The correct unit of analysis is the system.
+
+The fiscal wall is systemic precisely because Treasury debt is not an isolated liability. It is the collateral, benchmark, reserve asset, duration instrument, and safe-income source around which the rest of finance is organized.
+
+The hidden tax of duration therefore appears whenever an institution promises one timescale and funds itself on another.
+
+The closer those timescales are matched, the less violently a rate shock tends to redistribute wealth or force behavior.
+
+The farther apart they are, the more the system depends on stability.
+
+That is the lesson the low-rate era allowed many balance sheets to postpone.
+
+The refinancing era collects it one maturity at a time.
