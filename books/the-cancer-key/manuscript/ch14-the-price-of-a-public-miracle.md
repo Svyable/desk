@@ -249,3 +249,93 @@ Slogans cannot.
 The price of a public miracle is not zero.
 
 The question is who pays which part of it, who owns the resulting capability and whether success leaves the public richer in more than invoices.
+
+Price becomes more legible when the regimen is separated from the product.
+
+A personalized vaccine may have one list price. The patient may also require a checkpoint inhibitor, administration, laboratory monitoring, imaging, pathology work and management of adverse events. Some of those costs would have occurred under standard care anyway. Others are incremental because the personalized therapy was added.
+
+The payer's question is therefore not “What does the vaccine cost?”
+
+It is “What does this strategy cost compared with the best alternative, and what additional outcome does it buy?”
+
+That sounds like a technical health-economics question.
+
+It is also a moral one because the answer depends on what value is assigned to delayed recurrence, avoided metastasis, quality of life and years of survival. Different health systems make those tradeoffs differently. The United States often tolerates higher launch prices and more fragmented bargaining. National systems can negotiate harder but may delay or restrict adoption when cost-effectiveness is uncertain.
+
+Neither model removes scarcity.
+
+They locate the rationing in different places.
+
+A high U.S. price can ration through premiums, prior authorization and patient cost sharing. A national payer can ration through a coverage decision or narrower eligibility. A manufacturer with limited capacity can ration through slots even when everyone agrees to pay.
+
+The patient experiences all of these as access.
+
+That is why price alone should not become the book's villain.
+
+A therapy priced at half as much but available only at six centers may remain inaccessible. A costly therapy with rapid outpatient delivery and broad insurance coverage may reach more people. A cheap experimental product can waste money if it does not work.
+
+Affordability is the intersection of price, coverage, capacity and benefit.
+
+The magnitude of benefit also changes the acceptable price in ways relative statistics can obscure.
+
+Suppose a treatment reduces the relative risk of recurrence by a meaningful percentage. The absolute number of recurrences prevented depends on baseline risk. Treat a group in which recurrence is common and many events can be avoided. Treat a lower-risk group and the same relative effect prevents fewer events while exposing more people to cost and toxicity.
+
+This makes risk stratification an economic technology.
+
+Better selection can improve cost-effectiveness without lowering the product price at all.
+
+If ctDNA, stage, pathology or other markers identify patients most likely to recur, the health system can concentrate personalized vaccination where the expected absolute benefit is largest. The therapy becomes more expensive per treated patient and cheaper per recurrence prevented.
+
+That is a more useful metric.
+
+It also creates an access hazard.
+
+Biomarker-driven coverage can exclude people near thresholds. A negative ctDNA result may reflect assay sensitivity rather than true absence of disease. A rural patient whose sample was mishandled can become “low risk” administratively for reasons that have nothing to do with biology.
+
+Precision reimbursement inherits precision medicine's measurement errors.
+
+Outcome-based contracts create another apparent solution.
+
+Pay the full amount if the patient remains recurrence free; refund part if cancer returns.
+
+The appeal is intuitive and the implementation is messy.
+
+A patient may recur for reasons unrelated to target selection. The therapy may delay recurrence substantially without preventing it. Follow-up can move between health systems. The definition of failure has to be set years before the event. A manufacturer cannot control whether the patient completes checkpoint therapy, whether surveillance is performed on schedule or whether later treatments affect survival.
+
+Risk sharing quickly becomes risk argument.
+
+Simpler contracts may work better: staged payment linked to treatment completion, rebates tied to predefined early outcomes, or price adjustments after real-world evidence matures. The exact mechanism matters less than the principle that uncertainty at launch does not have to be priced as certainty forever.
+
+The opposite should also be true.
+
+If long-term data reveal durable benefit larger than expected, a payment system should not make future development impossible by pretending the early uncertainty never resolved. Dynamic evidence deserves dynamic bargaining.
+
+Manufacturing learning complicates the bargain again.
+
+The first commercial years may carry high per-patient costs because facilities run below optimal scale, manual review is extensive and remakes are common. As volume grows, automation improves and failure rates fall. Those savings may legitimately finance expansion for a period. Eventually they become margin unless price moves.
+
+A mature system needs some way to observe the learning curve.
+
+Not every proprietary cost line has to be published. But purchasers can ask about turnaround, success rates, capacity utilization and major process changes. If the platform is demonstrably becoming easier to deliver, future prices can be negotiated with that reality in mind.
+
+This is one reason long-term exclusive contracts can be dangerous in a rapidly improving technology.
+
+They can freeze the economics at the moment of maximum uncertainty.
+
+Shorter contracts with predictable renegotiation let both sides learn.
+
+The public-funding debate belongs inside this dynamic model too.
+
+A public grant made twenty years earlier does not tell us the fair launch price. A government-funded manufacturing expansion made two years earlier may be directly relevant to capacity and cost. A public trial network that reduces development expense can justify a specific access condition. A public database that every competitor uses may be better rewarded through continued openness than through tracing pennies into a single product.
+
+Proportionality is more defensible than ownership mythology.
+
+The public should claim strongly where it took specific risk or created specific leverage.
+
+The company should claim strongly where it took specific risk and built specific capability.
+
+The patient should not be asked to adjudicate the argument at the pharmacy counter.
+
+That is ultimately why insurance and public policy exist.
+
+The purpose of financing is to decide the bargain before one frightened person has to make it alone.
