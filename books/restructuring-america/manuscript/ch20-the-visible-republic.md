@@ -12,7 +12,7 @@ That matters because the next technological era may make the economy richer whil
 
 The gains can be enormous and still feel unreal.
 
-A public works renaissance is one way to make some of those gains visible.
+A public-works renaissance is one way to make some of those gains visible.
 
 Not as propaganda. Not as a monument to a party or an administration. As evidence that technological abundance can become a better physical country.
 
@@ -42,7 +42,9 @@ You see whether the street drains. You feel whether the building is hot. You hea
 
 AI can help improve these systems, but the point is the system, not the AI.
 
-A city should not advertise that machine learning optimized a maintenance schedule. It should fix the elevator before anyone needs the explanation.
+A city should not advertise that machine learning optimized a maintenance schedule.
+
+It should fix the elevator before anyone needs the explanation.
 
 ## The danger of invisible abundance
 
@@ -56,7 +58,9 @@ A memo is produced faster. Code is written with fewer hours. A customer request 
 
 If gains accrue mainly through asset values, margins, and specialized wages, the rest of the country can experience an odd combination: national wealth with local deterioration.
 
-The numbers say the future arrived. The sidewalk says otherwise.
+The numbers say the future arrived.
+
+The sidewalk says otherwise.
 
 That gap is politically unstable.
 
@@ -66,29 +70,51 @@ A richer society that cannot improve these ordinary interfaces will eventually f
 
 Richer for what?
 
-## Building is not a jobs program
+## The public balance sheet
 
-The answer should not be to create construction merely to absorb labor displaced by automation.
+A nation usually describes prosperity as a flow.
 
-That would repeat an old error in new language.
+Income this year. Output this quarter. Tax revenue this budget cycle. Consumption this month.
 
-The country does not need holes dug and filled so that humans can remain economically necessary. It needs housing, grid capacity, water systems, resilient landscapes, transportation, public buildings, and maintenance because these things are useful.
+But ordinary life also depends on a stock.
+
+The housing already standing. The grid already connected. The water plants already operating. The trees already mature. The bridges already maintained. The schools already usable. The public spaces already safe enough that a parent does not need to calculate danger before a child crosses the street.
+
+That stock is a kind of common wealth.
+
+It is not all publicly owned. A privately built apartment can reduce a regional housing shortage. A privately operated utility can provide shared capacity. A warehouse, port, hospital, broadband network, or industrial supplier can create public spillovers without becoming a government asset.
+
+The important distinction is between wealth that must be purchased anew every month and capacity that lowers the cost of living or doing business because it already exists and works.
+
+This is why public investment can distribute prosperity without taking the form of a monthly payment.
+
+A reliable bus route gives time back. Abundant housing reduces the price of access to opportunity. A shaded park gives comfort without asking for a credit score. Clean water eliminates the private cost of compensating for an untrustworthy public system. A resilient grid reduces the need for everyone to buy a small private version of reliability.
+
+These benefits are not substitutes for wages, social insurance, or cash support.
+
+They are a different layer of the social contract.
+
+The fiscal balance sheet asks what government owes.
+
+The lived balance sheet should also ask what society has built, what condition it is in, and who can use it.
+
+## Building is not the point; usefulness is
+
+The case for public works should not collapse into a jobs program with newer vocabulary.
+
+The country does not need construction merely to absorb labor displaced by automation. It needs housing, grid capacity, water systems, resilient landscapes, transportation, public buildings, and maintenance because those things are useful.
 
 If machines can help build them with fewer labor hours, that is a gain.
 
-A public works renaissance should welcome lower costs and higher productivity in construction. Robotics, prefabrication, automated equipment, generative design, inspection systems, scheduling tools, and better logistics should make it possible to build more with the same public dollar.
+Robotics, prefabrication, automated equipment, generative design, inspection systems, scheduling tools, and better logistics should make it possible to create more public value with the same scarce money and human attention.
 
-The social question created by displaced labor should be addressed directly through transition support, education, bargaining institutions, income policy, mobility assistance, and the distribution mechanisms discussed in the previous chapters.
+The labor-market problems created by automation should be addressed directly rather than by making useful work unnecessarily expensive.
 
 Do not sabotage a useful machine to preserve an unnecessary task.
 
 Do not confuse employment with purpose.
 
-A worker deserves economic security because the worker is a person, not because every existing job must be frozen in place.
-
-That principle makes an abundance agenda possible. It allows society to accept productivity rather than secretly requiring public projects to remain expensive so that they employ the old number of people.
-
-The goal is more public value per unit of scarce human attention.
+The abundance agenda works only if productivity is allowed to be productive.
 
 ## The legitimacy of maintenance
 
@@ -184,7 +210,9 @@ The service can be simple. The record should be open enough to audit.
 
 A permit applicant can receive a clear answer while the rules and decision history remain reviewable. An AI assistant can summarize a benefits program while the legal policy remains authoritative and accessible. A maintenance system can automatically prioritize work while its criteria are available for human scrutiny.
 
-The interface may disappear. Accountability should not.
+The interface may disappear.
+
+Accountability should not.
 
 This distinction will matter more as AI mediates government.
 
@@ -224,6 +252,28 @@ That is not a dramatic vision of artificial intelligence.
 
 It may be the one that gets things built.
 
+## Completion compounds
+
+Finishing one project can make the next project easier.
+
+A completed program leaves behind more than the asset itself. It leaves trained crews, suppliers who understand demand, inspectors familiar with the work, standard details that survived contact with reality, operating data, contract language, and a public institution that has recently practiced delivery.
+
+Failure compounds too.
+
+A canceled project teaches suppliers not to trust the pipeline. A procurement that consumes months and produces no award drives bidders away. A design that is never built yields less field knowledge than an imperfect design that is completed, observed, and improved.
+
+This is why state capacity is partly cumulative.
+
+Institutions learn by doing, but only if doing reaches the part where reality can answer back.
+
+AI can accelerate the learning loop. It cannot substitute for the loop.
+
+A generated plan that never becomes a project produces little evidence about whether the plan was good.
+
+A visible republic therefore values iteration as much as announcement.
+
+Build. Measure. Maintain. Learn. Build again.
+
 ## Speed and the public bargain
 
 A building agenda will inevitably collide with fears about speed.
@@ -258,7 +308,9 @@ The lesson to recover is not the old institution intact.
 
 It is the credibility of completion.
 
-A modern building state has to be more participatory than its predecessors, more transparent about costs, more careful about displacement, more attentive to ecology, and better at maintenance. It also has to finish.
+A modern building state has to be more participatory than its predecessors, more transparent about costs, more careful about displacement, more attentive to ecology, and better at maintenance.
+
+It also has to finish.
 
 Those obligations are not contradictory if institutions learn to separate meaningful review from accumulated ritual.
 
@@ -269,42 +321,6 @@ People can disagree about whether a rail line was the best use of money and stil
 Physical systems force politics to encounter consequences.
 
 That can be healthy in an age when much political argument floats free of delivery.
-
-## The productivity bargain
-
-The central bargain of this book can now be stated plainly.
-
-If artificial intelligence makes parts of the economy radically more productive, the country should not respond by protecting every old task from competition. It should accept the productivity and become more ambitious about what the resulting wealth can do.
-
-That means allowing prices to fall where competition can lower them. It means letting firms reorganize. It means supporting people through transitions without requiring technology to remain inefficient for their sake.
-
-And it means directing part of the larger economic surplus toward the physical and civic systems markets chronically underprovide or ration through scarcity.
-
-Build energy before energy scarcity becomes a veto on growth.
-
-Build housing where opportunity is expanding.
-
-Repair water systems before failure becomes catastrophe.
-
-Adapt communities before heat, fire, and flood turn predictable hazards into recurring emergencies.
-
-Move people and freight through networks that recognize how geography has changed.
-
-Maintain what is already valuable.
-
-Make permits legible. Make procurement competitive. Give construction technology permission to improve productivity. Train people for work that remains scarce. Stop treating make-work as social policy. Let regions share in growth. Convert some of the productivity dividend into common wealth.
-
-None of this requires predicting exactly what AI will become.
-
-That is a strength.
-
-If AI progress slows, America still benefits from cheaper housing, a stronger grid, clean water, better transportation, resilient communities, and competent institutions.
-
-If AI progress accelerates, those systems become more necessary because they absorb investment, support new industry, reduce living costs, and make abundance physically possible.
-
-The strategy is robust to uncertainty.
-
-Build the complements.
 
 ## The sidewalk test
 
@@ -328,6 +344,46 @@ Technology changes the feasible set.
 
 Politics chooses from it.
 
+The sidewalk test is deliberately unfair to abstractions.
+
+That is why it is useful.
+
+A productivity statistic can improve while rent consumes the gain. A tax credit can exist while the electrical upgrade it was meant to induce waits three years. A resilience plan can be excellent while the culvert remains undersized.
+
+The sidewalk asks what survived contact with place.
+
+## The productivity bargain
+
+The central bargain of this book can now be stated plainly.
+
+If artificial intelligence makes parts of the economy much more productive, the country should not respond by protecting every old task from competition. It should accept the productivity and become more ambitious about what the resulting wealth can do.
+
+Some gains should appear in private forms: lower prices, new products, higher wages where labor remains scarce, returns to investment, and more capable firms.
+
+Some should appear as greater security for people whose work changes faster than they can reasonably adjust.
+
+And some should appear as common capacity.
+
+More energy. More housing. Reliable water. Better transportation. Maintained assets. Faster and more legible administration. Public spaces that survive heat. Institutions that can finish what they start.
+
+The precise mix is a political choice.
+
+The principle is not.
+
+A productivity revolution that leaves the common environment permanently scarce is leaving part of its potential unrealized.
+
+None of this requires predicting exactly what AI will become.
+
+That is a strength.
+
+If AI progress slows, America still benefits from cheaper housing, a stronger grid, clean water, better transportation, resilient communities, and competent institutions.
+
+If AI progress accelerates, those systems become more necessary because they absorb investment, support new industry, reduce living costs, and make abundance physically possible.
+
+The strategy is robust to uncertainty.
+
+Build the complements.
+
 ## What the machines are for
 
 Every technological revolution eventually produces a moral question disguised as a practical one.
@@ -346,7 +402,7 @@ They should reduce drudgery where drudgery is unnecessary. They should extend th
 
 Where they displace work, the gains should be large enough—and the institutions decent enough—that people are not required to celebrate their own insecurity as progress.
 
-Where they create fortunes, some of the broader economic gain should appear in lower prices, higher incomes, public revenue, common assets, and more time.
+Where they create fortunes, some of the broader economic gain should eventually appear in lower prices, higher incomes, public revenue, common assets, or more time.
 
 This is not a demand that every innovation justify itself through government.
 
@@ -377,6 +433,12 @@ That habit may matter more as intelligence becomes cheap.
 When analysis, drafting, prediction, and persuasion become abundant, execution becomes more revealing. The country will have no shortage of generated plans explaining what ought to be done.
 
 The scarce thing will be the chain of responsibility that turns a plan into a place.
+
+That chain is made of ordinary people and ordinary institutions: the engineer who signs, the inspector who notices, the operator who knows, the contractor who finishes, the official who decides, the maintainer who returns after everyone else has left.
+
+AI can make each of them more capable.
+
+It cannot make the chain unnecessary.
 
 So the final measure of the AI age should not be how often machines astonish us.
 
