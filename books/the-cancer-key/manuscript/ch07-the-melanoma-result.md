@@ -221,3 +221,85 @@ Nine days later, another trial reminded the field how much remained disease-spec
 The future of the cancer vaccine was not a straight line upward.
 
 It was already branching.
+
+The topline result also created a new problem of interpretation because the first public version of a successful Phase 3 trial is necessarily incomplete.
+
+A press release tells investors, clinicians and patients that prespecified endpoints were met. It does not replace a paper, a conference presentation or a regulatory review. The distinction sounds procedural until a field is hungry for a breakthrough. Then every missing number becomes a place where enthusiasm can outrun evidence.
+
+The magnitude of benefit matters.
+
+A statistically convincing reduction in recurrence can represent a large change in practice or a modest improvement worth considering only for patients at the highest baseline risk. Relative effects can look impressive while absolute differences remain smaller. Absolute effects can grow or shrink with follow-up because recurrence accumulates over time. The same hazard ratio can feel different to a patient whose baseline recurrence risk is very high than to one whose surgery already left a favorable prognosis.
+
+The denominator matters again.
+
+So does the shape of the survival curve.
+
+An adjuvant therapy might delay recurrence without preventing it permanently. It might create a durable separation that persists after treatment stops. Benefit may concentrate in a molecular or clinical subgroup. Early separation can disappear; late separation can emerge. None of these possibilities can be resolved by the statement that an endpoint was met.
+
+The mature question is not whether the trial is positive.
+
+It is what kind of positive trial it is.
+
+Safety can change the answer because adjuvant patients begin treatment without visible disease.
+
+A therapy that would be acceptable in metastatic cancer can be harder to justify after surgery if many patients would never have recurred. The relevant comparison is not toxicity versus cancer in the abstract. It is toxicity today versus a reduction in an uncertain future risk.
+
+That is why patient selection will matter even after regulatory approval.
+
+Pathologic stage, recurrence risk, molecular markers and perhaps circulating tumor DNA could eventually help identify who has the most to gain. The better medicine becomes at estimating residual risk, the less rational it is to expose every post-surgical patient to the same additional burden.
+
+Personalization may therefore happen twice.
+
+First, decide whether this patient needs the treatment.
+
+Then, if they do, decide which neoantigens belong in it.
+
+The first decision is likely to matter more for population health than the elegance of the second.
+
+A perfect vaccine given to thousands of people who were already cured by surgery wastes money and exposes patients to avoidable treatment. A merely good vaccine concentrated among people with high residual risk can produce more benefit with less burden.
+
+This is where minimal residual disease testing may eventually intersect the vaccine platform.
+
+Circulating tumor DNA after surgery can provide evidence that malignant material remains even when imaging is negative. It is not a universal answer; sensitivity varies by disease and assay, and a negative result does not guarantee absence of cancer. But the general direction is important. The same genomic tools that identify vaccine targets can also help estimate whether treatment is necessary and later whether the disease is returning.
+
+The therapeutic stack becomes a feedback system.
+
+Sequence the removed tumor. Estimate recurrence risk. Manufacture the vaccine. Monitor for molecular evidence of disease. Adjust treatment if the signal changes.
+
+That future sounds seamless because each step already exists somewhere.
+
+Connecting the steps is the difficult part.
+
+A ctDNA assay may be made by a different company from the vaccine. The checkpoint inhibitor belongs to another company. The hospital owns the pathology workflow. The insurer may reimburse each component under a different rule. Data may sit in separate systems. A patient can move between institutions during the years of follow-up.
+
+The integrated scientific idea can remain institutionally fragmented.
+
+The melanoma result therefore validates more than a therapeutic hypothesis and less than a healthcare system.
+
+It shows that the personalized platform can clear the randomized-evidence barrier in one favorable but clinically important setting. It does not tell us whether manufacturing will remain timely under commercial demand, whether payers will cover every necessary diagnostic step, whether community centers can execute the workflow, or whether the same benefit appears in patients who differ from the trial population.
+
+Those are not reasons to discount the trial.
+
+They are the questions a successful trial earns.
+
+Failure leaves a field asking whether the mechanism was ever useful.
+
+Success lets the questions become more ordinary and more expensive.
+
+What is the absolute benefit?
+
+How durable is it?
+
+Who benefits most?
+
+Who can receive the product on time?
+
+What does the combination cost?
+
+Which parts of the process can be standardized without weakening the personalization that created the effect?
+
+A Phase 3 win is not the end of uncertainty.
+
+It is permission to replace speculative uncertainty with operational uncertainty.
+
+For a cancer-vaccine field that spent decades struggling to prove clinical consequence at all, that is a remarkable promotion.
