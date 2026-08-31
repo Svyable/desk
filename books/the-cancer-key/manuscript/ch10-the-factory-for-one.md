@@ -283,3 +283,109 @@ It is a new form of it.
 The product changes every time.
 
 The institution making it cannot.
+
+A useful way to see the factory is as a queue in which every patient carries an expiration date that nobody can read exactly.
+
+The patient enters at pathology, not at production. The clock runs while tissue is retrieved, sequencing succeeds or fails, HLA is resolved, targets are reviewed, manufacturing capacity becomes available and release assays finish. Some of those steps can run in parallel. Others have hard dependencies. A delay near the beginning can propagate all the way to dosing.
+
+Queueing changes the meaning of average turnaround.
+
+A factory can report an attractive median and still produce a dangerous tail. Most patients may receive product within the intended window while a minority wait much longer because of repeat sequencing, a failed intermediate, a missed shipping cutoff or a batch deviation. In a consumer service, the tail creates complaints. In oncology, it can create ineligibility.
+
+The tail therefore deserves its own metric.
+
+How many patients are released by week four? By week six? How many require remake? How many never receive product? Which failure modes are preventable? Which correlate with particular sample types, sites or manufacturing lots?
+
+These are not merely operations questions after approval.
+
+They belong in clinical development because the treated population is selected by the factory.
+
+If only patients whose products clear quickly reach dosing, efficacy data can become entangled with manufacturing fitness. The people with better tissue, slower disease or easier designs may be overrepresented among those who actually receive the therapy.
+
+A mature trial reports the funnel.
+
+Enrolled.
+
+Sample received.
+
+Sequence adequate.
+
+Design completed.
+
+Manufacture initiated.
+
+Batch released.
+
+Dose started.
+
+Those denominators reveal where personalization stops being available.
+
+Batch failure is equally revealing.
+
+A one-patient batch creates an unusual incentive to rescue material. If a parameter drifts near a specification limit, the manufacturer faces a decision with a human face attached. Rejecting a batch may delay treatment or require a remake. Releasing a marginal batch may expose the patient to uncertain quality.
+
+That is exactly why release criteria have to be established before the emotional pressure of the individual case arrives.
+
+Personalization cannot mean personalized standards.
+
+The same principle applies when processes improve.
+
+Suppose automation shortens transcription and purification. Suppose a new raw-material supplier reduces cost. Suppose a regional facility replaces a central site. Each change may be beneficial. The manufacturer still has to show that the output remains comparable enough to the product supported by the clinical evidence.
+
+This is the quiet burden called comparability.
+
+A platform that changes continuously can become operationally better while drifting scientifically away from the version that was tested. Too much regulatory rigidity freezes inefficient processes. Too little allows the commercial product to become a moving target.
+
+The right standard is not sameness for its own sake.
+
+It is controlled change with evidence proportional to what changed.
+
+That principle will matter as personalized products move into larger populations because the first commercial factory is almost certainly not the final factory.
+
+Trial manufacturing is built for evidence generation. Commercial manufacturing is built for demand. The first uses reserved capacity, closely trained sites and sponsor intervention when a sample goes wrong. The second has to accept orders from a wider network of hospitals with varying experience and unpredictable volume.
+
+Success therefore creates a scale-up experiment after the clinical experiment has already succeeded.
+
+Capacity planning becomes ethics.
+
+If demand exceeds slots, the manufacturer needs an allocation rule. First come, first served rewards centers that know the workflow and insurers that authorize quickly. Clinical priority requires a defensible way to compare recurrence or progression risk. Geographic allocation can preserve regional access while leaving unused capacity if referrals are uneven. Contractual allocation can favor large centers that negotiated early.
+
+Every rule creates winners before the science does.
+
+The company may prefer to describe the problem as logistics.
+
+The patient experiences it as triage.
+
+This is one reason public purchasers and regulators may eventually care about manufacturing capacity as part of access rather than treating it as a private operational detail. An approved therapy with a twelve-month queue is not meaningfully available to a patient with six months to act.
+
+Capacity can be expanded, but expansion is not instantaneous.
+
+Facilities have to be built or converted. Equipment has to be qualified. Staff have to be trained. Analytical methods have to transfer. Regulators may need to review manufacturing changes. Suppliers need forecasts. Quality systems need to remain coherent across sites.
+
+The fastest long-run factory can be the one that built spare capacity before demand was proven.
+
+That looks financially wasteful right up until approval.
+
+The same tension appears in resilience.
+
+A single global plant can be efficient and fragile. A contamination event, natural disaster, cyberattack or supplier failure can interrupt every patient at once. Multiple sites create redundancy but increase comparability work and fixed cost.
+
+Conventional pharmaceutical companies already manage this tradeoff.
+
+Personalized medicine intensifies it because there is little finished inventory to buffer a disruption.
+
+The factory cannot ship from last month's warehouse.
+
+Resilience has to live in capacity, suppliers, validated alternate sites and the ability to reroute unique patient jobs without losing identity.
+
+That is expensive redundancy.
+
+It is also part of what the patient is buying.
+
+The economic debate around personalized medicine will eventually have to distinguish visible cost from reliability cost. A cheap process that fails often is not cheap. A highly utilized factory with unstable turnaround is not efficient. A single-site network with no backup may have lower unit cost and higher expected harm during disruption.
+
+Industrialization is not only the removal of labor.
+
+It is the conversion of rare heroics into predictable service.
+
+The factory for one succeeds when uniqueness stops requiring exception handling.
