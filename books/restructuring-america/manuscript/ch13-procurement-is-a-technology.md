@@ -190,6 +190,30 @@ The technology does not pick winners. It makes entry less expensive.
 
 Public agencies should measure bidder counts and concentration as procurement outcomes. A process that technically allows competition but receives one bid repeatedly is telling you something.
 
+## The vendor market is capacity
+
+A procurement office does not merely select from a fixed list of suppliers.
+
+Its own behavior changes the list.
+
+If public bids are unpredictable, expensive to prepare, slow to award, hostile in risk allocation, and slower still to pay, capable firms decide that government is not worth serving. The market becomes thinner. The remaining vendors learn that competition is weak. Prices rise. Agencies respond with still more restrictive qualification rules because they are afraid of failure.
+
+The cycle feeds itself.
+
+The opposite cycle exists too.
+
+Clear scopes, credible schedules, reasonable contract terms, fast questions and answers, predictable payment, and visible future demand make public work easier to finance and staff. More firms can justify learning the market. Suppliers invest in equipment and people. Repeat competition becomes more credible.
+
+The supplier ecosystem is therefore part of public capacity.
+
+This does not mean procurement should coddle vendors. Government should be a demanding customer. Fraud, poor performance, conflicts of interest, and low-quality work deserve consequences.
+
+The point is that a demanding customer still needs sellers.
+
+A procurement reform that wins one negotiation by transferring unpriceable risk to contractors but causes half the market to stop bidding may be locally clever and systemically expensive.
+
+The unit of analysis should be the market the contract helps create.
+
 ## Bid protests are a safety valve
 
 Competition needs a way to challenge the referee.
@@ -240,7 +264,7 @@ It should preserve tomorrow's ability to choose another supplier.
 
 Modern technology vendors often depend on other vendors.
 
-Cloud hosting. Foundation models. identity providers. mapping services. cybersecurity tools. analytics platforms. specialized data suppliers.
+Cloud hosting. Foundation models. Identity providers. Mapping services. Cybersecurity tools. Analytics platforms. Specialized data suppliers.
 
 A public agency may contract with one company while operational risk is distributed across six more.
 
@@ -300,6 +324,34 @@ Better price intelligence helps agencies decide whether to award, redesign, rebi
 
 It also improves credibility when officials explain why a project that once cost one number now costs another.
 
+## Publish the pipeline before the RFP
+
+Suppliers make investments before a solicitation is released.
+
+They hire estimators. Train crews. Buy equipment. Reserve factory capacity. Qualify subcontractors. Carry bonding capacity. Decide which regions and public customers are worth pursuing.
+
+A government that reveals demand only when the bid opens asks the market to create capacity instantly.
+
+It cannot.
+
+Public owners should therefore publish credible forward pipelines for recurring categories of work: bridge rehabilitation, school modernization, transformer purchases, water-main replacement, fleet procurement, software renewals, routine engineering services.
+
+The pipeline is not a promise that any vendor will win or even that every project will proceed exactly as forecast.
+
+It is information.
+
+That information can change supply. A contractor may hire an apprentice because several years of work appear plausible rather than one isolated project. A manufacturer may justify another production line. A new entrant may decide the cost of qualifying for public work is worth paying.
+
+This is market formation without preselection.
+
+The public buyer preserves competition at award while giving the supplier base enough visibility to invest beforehand.
+
+AI can help maintain these pipelines by reconciling capital plans, grants, asset condition, budget schedules, and procurement calendars. It can also show when agencies are unintentionally sending the market several large solicitations at the same time and bidding against one another for the same capacity.
+
+Predictable demand is not favoritism.
+
+Opaque demand often favors incumbents, because they are the firms most likely to know what is coming anyway.
+
 ## Standardize the boring parts
 
 Every city does not need to invent a new contract for buying a common pump.
@@ -324,7 +376,7 @@ A public-works state should be suspicious of bespoke paperwork that produces no 
 
 Some public needs repeat but cannot be predicted exactly.
 
-Engineering studies. Emergency repairs. software development. routine paving. tree work. specialized inspections.
+Engineering studies. Emergency repairs. Software development. Routine paving. Tree work. Specialized inspections.
 
 Buying each task through a full standalone procurement can make the process cost more than the competition protects.
 
@@ -460,10 +512,10 @@ The larger opportunity is cultural.
 
 Treat procurement professionals as builders of markets rather than gatekeepers of paperwork.
 
-Give them data. Give them technical staff. Include operators early. Measure competition. Track life-cycle performance. Learn from change orders. Preserve exit rights. Pay vendors on time.
+Give them data. Give them technical staff. Include operators early. Measure competition. Track life-cycle performance. Learn from change orders. Preserve exit rights. Publish the pipeline. Pay vendors on time.
 
 A country serious about rebuilding itself has to become serious about buying.
 
 Because public works do not arrive when Congress appropriates the money.
 
-They arrive when someone signs a contract that can actually be built.
+They arrive when someone signs a contract that can actually be built—and when enough capable firms still want to sign the next one.

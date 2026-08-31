@@ -50,6 +50,48 @@ Predictability is often nearly as valuable as speed.
 
 Developers can finance around a known schedule. Contractors can plan. Residents know when decisions occur. Agencies can be held accountable to service standards without being asked to rubber-stamp projects.
 
+## The permit should have a state machine
+
+A good permit process should be explainable as a finite set of states.
+
+Submitted. Incomplete. Complete. Under technical review. Awaiting applicant response. Awaiting external agency action. Ready for decision. Approved. Denied. Appealed. Closed.
+
+The exact labels will differ by jurisdiction and permit type.
+
+The principle should not.
+
+At any moment, everyone with a legitimate interest should be able to answer three questions.
+
+Where is the application now?
+
+Who owes the next action?
+
+When is that action due?
+
+This sounds almost embarrassingly basic. Many administrative systems cannot answer it reliably.
+
+An applicant receives a comment from one department while another still has an older drawing set. A clock keeps running while the agency waits for revised calculations. A reviewer believes a project is awaiting legal guidance while the legal office does not know the question was assigned. Status becomes a sentence written by whoever last touched the file rather than a shared operational fact.
+
+The result is not merely inconvenience.
+
+It makes accountability impossible because delay has no owner.
+
+A state-machine model creates one authoritative project record. Each transition is recorded. A clock can pause when the applicant owes information and resume when the agency owes action. Parallel reviews can occupy separate substates while the project retains one overall status. Exceptions become visible rather than disappearing into email.
+
+AI is well suited to watching this state.
+
+It can detect that a response arrived but the case was never reassigned. It can flag conflicting review comments. It can summarize which dependencies remain open. It can predict which applications are likely to miss a service standard based on current workload.
+
+It should not invent a new state because a model thinks one would be convenient.
+
+The process graph is law and policy expressed operationally. Humans decide the states, authority, clocks, and appeal rights. Machines help keep the system synchronized with them.
+
+One record. One clock. One accountable owner of the journey.
+
+That is not deregulation.
+
+It is administration that knows what it is doing.
+
 ## Queues are a staffing signal
 
 When a permit office falls behind, the explanation is often framed as culture.
