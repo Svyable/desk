@@ -2,307 +2,247 @@
 
 There is a moment in learning when help becomes suspiciously attractive.
 
-The student has read the problem twice. Nothing moves. The page does not offer a foothold. A formula is almost remembered, but not enough to use. The first sentence of the essay sounds dead. The code throws an error that seems to explain nothing. The foreign-language paragraph contains three unfamiliar words in one line. The temptation is immediate: ask the machine.
+The student has read the problem twice. Nothing moves. A formula is almost remembered, but not enough to use. The first sentence of the essay sounds dead. The code throws an error that explains very little.
+
+The temptation is immediate.
+
+Ask the machine.
 
 Sometimes that is exactly the right move.
 
-Sometimes it is the moment the learning was about to begin.
+Sometimes it arrives one minute too early.
 
-Education has always had trouble distinguishing these two cases.
+Education has always had trouble distinguishing those cases.
 
-Teachers know that frustration can be useless. A student can spend forty minutes staring at the wrong interpretation of a mathematics problem and learn little except that mathematics feels hostile. A child can copy a spelling word ten times without thinking about it. A novice programmer can lose an evening to a missing character. A student with a disability can be forced to spend enormous effort navigating a barrier unrelated to the capability the lesson is meant to build.
+Frustration can be useless. A student can stare at the wrong interpretation of a mathematics problem for forty minutes and learn little except that mathematics feels hostile. A novice programmer can lose an evening to a missing character. A student with a disability can be forced to spend enormous effort on a barrier unrelated to the capability the lesson is meant to build.
 
 Difficulty is not a moral good.
 
-Pain is not pedagogy.
+Yet some learning depends on an attempt occurring before the answer is secure.
 
-Yet a great deal of learning requires a person to attempt something before the answer is secure.
+The attempt forces the learner to retrieve something, choose among possibilities, make a prediction, or expose a misconception. It creates a position from which later instruction can be understood.
 
-That attempt leaves traces.
+That distinction matters because immediate success and durable learning do not always move together.
 
-It exposes what the learner thinks the problem is. It forces retrieval. It makes gaps visible. It creates predictions that can later be corrected. It asks the student to choose among possibilities rather than recognize the right one after somebody else has produced it. It turns knowledge from something merely seen into something used.
+Retrieval practice can feel harder than rereading while producing stronger delayed memory. Trying a problem before receiving instruction can create more errors during practice while improving what the learner notices afterward. A worked solution can feel obvious once it is visible even when the student could not have generated the method independently.
 
-This is the useful form of struggle.
+Learning can look worse while it is becoming stronger.
 
-AI arrives with an extraordinary capacity to remove it.
+AI enters precisely at the point where that distinction is hardest to feel.
 
-The removal often feels like improvement because the local experience gets better. The student is no longer stuck. The page is no longer blank. The equation now has steps. The program runs. The paragraph is translated. The confusion has been converted into fluent explanation.
+The model is exceptionally good at making the next step available.
 
-The task moves forward.
+A stuck equation receives steps. A paragraph receives a continuation. A program receives a fix. Confusion becomes explanation.
 
-Learning may or may not have moved with it.
+The local experience improves.
 
-This difference matters because schools are full of moments where immediate performance and durable capability point in different directions.
+Whether the learner improves depends partly on what the system removed.
 
-A student can look worse while learning more.
+Manu Kapur’s work on productive failure offers one useful version of this mechanism. In early studies, students asked to wrestle with difficult problems before direct instruction often produced weak or incorrect initial solutions. That was not the success condition. The useful part was what happened next: under particular designs, the failed attempts prepared students to learn from the instruction and later transfer the ideas.
 
-That is one of the least intuitive facts in education.
+The attempt gave the explanation somewhere to land.
 
-Practice that requires retrieval can feel harder than rereading. Trying to solve a problem before receiving the worked solution can produce more errors than seeing the solution first. Generating an answer can be slower than recognizing one. Spacing practice can feel less fluent than massing it together. Struggle can create the subjective sense that learning is going badly even when the later result is stronger.
-
-The reverse also happens.
-
-An explanation can feel so clear that the student mistakes understanding the explanation for being able to produce the reasoning. A solved example can feel obvious after the solution is visible. A model can generate a paragraph whose logic seems entirely reasonable, and the student can confuse the ease of reading it with the ability to recreate the argument independently.
-
-This is one reason AI is dangerous precisely when it is pleasant.
-
-It is very good at making the next step available.
-
-The educational question is whether the learner should have to earn that step first.
-
-Manu Kapur gave one version of this problem a useful name: productive failure.
-
-In his early studies, students sometimes did worse during the initial problem-solving activity when they were asked to wrestle with complex problems before receiving direct instruction. Their first solutions were often incomplete or wrong. But the failed attempts could prepare them to learn from the instruction that followed and improve later transfer.
-
-The point was not that failure itself teaches.
-
-The point was that trying can prepare the mind to notice what an explanation means.
-
-A student who has generated three bad approaches to a problem sees a worked solution differently from a student who never had to choose an approach at all.
-
-The first student has questions waiting for the explanation.
+A student who has tried three approaches brings different questions to the worked solution than a student who sees the solution first.
 
 Why did my method fail?
 
-Why is this variable important?
+Why does this representation expose the structure?
 
-Why does this representation make the structure easier to see?
+Which assumption did I miss?
 
-The solution arrives into a mind that has already encountered the shape of the problem.
+The initial struggle is useful only if it becomes information.
 
-AI can interrupt this sequence at its most fragile point.
+That qualification matters.
 
-The student fails once, asks immediately, and receives the polished route before the failed attempt has had time to become informative.
-
-This is not an argument for making students fail repeatedly.
-
-A teacher who withholds help indefinitely is not practicing sophisticated learning science. The same difficulty that creates productive search for one student can create resignation for another. Prior knowledge matters. Age matters. Motivation matters. The task matters. A novice may need far more guidance than an expert. A student who does not understand the basic vocabulary of a problem cannot productively struggle with its deeper structure.
+Productive failure is not permission to abandon students inside impossible tasks. Prior knowledge matters. The problem matters. The instruction that follows matters. A student who lacks the vocabulary required to understand the question is not productively discovering deep structure by remaining confused longer.
 
 The interesting variable is not whether help exists.
 
-It is when help arrives, how much it gives away, and what the learner must still do after receiving it.
+It is when help arrives, how much it gives away, and what the learner still has to do afterward.
 
-This is where AI could become far better than the answer box.
+This is where AI can become more than an answer box.
 
-A useful tutor does not simply know the solution.
+Consider a student who makes an algebra error.
 
-A useful tutor manages the distance between the learner and the solution.
-
-Consider a student who is solving an equation and moves a term incorrectly.
-
-The machine has several choices.
-
-It can provide the correct answer.
+The system can provide the final answer.
 
 It can show the complete worked solution.
 
-It can identify the exact step that went wrong.
+It can identify the first incorrect step.
 
-It can ask the student to compare the two sides of the equation.
+It can ask the student to compare both sides of the equation.
 
-It can present a simpler equation with the same structure.
+It can offer a simpler problem with the same structure.
 
 It can ask what operation would undo the term.
 
 It can wait.
 
-These are not cosmetically different interfaces to the same information.
+These choices distribute cognition differently.
 
-They distribute cognition differently.
+The first options remove more of the remaining work. The later ones reduce confusion while preserving a larger share of the solving.
 
-The first two options transfer most of the remaining work to the system. The later options preserve more of the work for the learner while reducing the chance that the learner remains stuck for no reason.
+A good tutor manages the distance between the learner and the solution.
 
-Good educational AI will need to become an expert in this distribution.
+That is a strange objective for software.
 
-The temptation will run the other way.
+Productivity tools are usually rewarded for reducing work. A navigation app that hides the next turn so the driver develops a better sense of direction is a bad navigation product. A spreadsheet that requires manual arithmetic to build character is absurd. A coding assistant that refuses obvious boilerplate would be frustrating to a professional user.
 
-Consumer software is usually rewarded for helping the user accomplish the task quickly. A navigation app that withholds the next turn so the driver can develop a better sense of direction would be a terrible navigation product. A spreadsheet that forces the analyst to calculate every percentage manually would be absurd. A coding assistant that refuses to complete obvious boilerplate because typing builds character would lose customers.
+Learning software cannot always optimize for the same thing.
 
-Productivity software is supposed to reduce work.
+Sometimes the work is the product.
 
-Learning software sometimes has to preserve it.
+Sometimes the work is the exercise.
 
-This creates a deep product-design conflict.
+The same model may serve both people within minutes of each other.
 
-The same model can serve a professional who already owns the skill and a student who is trying to acquire it.
+A skilled engineer can delegate repetitive test cases because manually writing them adds little. A beginning programmer may need repeated exposure to the same structures because the patterns are not yet internal.
 
-For the professional, taking over can be the feature.
+A fluent writer can use generated alternatives as material for judgment. A young writer who cannot yet build a paragraph may need to make more of those sentences alone.
 
-For the student, taking over can be the failure.
+The ideal amount of support therefore changes with the learner.
 
-A skilled engineer may use AI to generate repetitive test cases because the educational value of manually writing them is close to zero. A beginning programmer may need to write similar structures repeatedly because the repetition is helping form the mental patterns the engineer already possesses.
+A 2025 meta-analysis of the expertise-reversal effect synthesized 176 effect sizes across 60 experimental studies. The general pattern was not that less help is better. Learners with lower prior knowledge tended to benefit more from higher levels of assistance, while more knowledgeable learners could benefit from lower assistance.
 
-A journalist may use transcription software without sacrificing reporting skill. A child learning to spell cannot outsource every uncertain word and expect spelling knowledge to appear by accident.
+That literature is broader than generative AI, but its implication for AI design is important.
 
-A fluent writer may ask a model for ten alternate phrasings and reject nine. A student who cannot yet produce a coherent paragraph may learn something very different from the same interaction.
+The novice does not need purity.
 
-The amount of assistance a learner needs changes as the learner changes.
+The novice often needs more guidance.
 
-Learning science has long described versions of this problem. Guidance that helps novices can become unnecessary or even counterproductive for people with more expertise. The ideal amount of support is therefore not a fixed property of the lesson. It depends partly on what the learner already knows.
+The challenge is to provide guidance that helps build the missing structure instead of quietly replacing it.
 
-This should make AI unusually promising.
+This makes personalization more demanding than constant accommodation.
 
-A machine can, at least in principle, adjust continuously.
+A responsive system can simplify every difficult passage, finish every uncertain sentence, explain every answer, and remove every delay. The experience may feel wonderfully adapted to the learner.
 
-It can ask a diagnostic question before offering a hint. It can notice repeated errors. It can reduce support after successful attempts. It can vary examples. It can require retrieval before explanation. It can return later to material that looked fluent in the moment. It can distinguish between a student who wants a shortcut and one who needs a smaller step.
+But a system that removes all difficulty is not necessarily adapting instruction.
 
-At least in principle.
-
-The phrase matters.
-
-Personalization can easily become a polished name for constant accommodation.
-
-If every sign of difficulty causes the system to simplify, explain, translate, summarize, or complete, the learner may experience a wonderfully responsive environment while becoming less able to operate outside it.
+It may be adapting the task until the learner no longer has to grow into it.
 
 A staircase can be personalized by changing the height of the steps.
 
-It can also be personalized by replacing the staircase with an elevator.
+It can also be replaced with an elevator.
 
-Both improve access to the next floor.
+Both reach the next floor.
 
 Only one still trains climbing.
 
-Schools need to know which capability they are trying to build.
+The point is not to defend stairs.
 
-This is where the debate about "productive struggle" often becomes careless. Adults remember their own difficulty and convert memory into a general theory: I had to do long division, so children should too. I wrote papers without grammar assistance, so they should too. I memorized dates, so memorization must remain central. I learned to code before autocomplete, so autocomplete is corrupting the craft.
+It is to know whether climbing is the capability being taught.
 
-That reasoning is weak.
+This is where arguments about educational friction often become nostalgic.
 
-The existence of past friction does not prove its value.
+Adults remember how they learned and promote the price they paid into a principle.
 
-A capability deserves practice because possessing it changes what a person can understand or do, not because previous generations paid a higher price to acquire it.
+I did long division by hand.
 
-Some forms of struggle become obsolete.
+I wrote papers without grammar assistance.
 
-Students once spent substantial time looking up facts in printed reference works. Much of that friction had little educational value once search became reliable. People performed long calculations by hand because there was no alternative. Typing replaced handwriting for many professional tasks without causing civilization to lose the ability to form ideas.
+I memorized dates.
 
-The challenge is to identify the struggle that carries structure.
+I learned to code before autocomplete.
 
-Retrieving an idea can carry structure.
+None of those facts proves that the old friction should remain.
 
-Choosing a method can carry structure.
+A capability deserves practice when possessing it changes what a person can understand, notice, or do.
 
-Constructing a sentence can carry structure.
+Some inherited effort can disappear without educational loss.
 
-Making a prediction can carry structure.
+Formatting citations by hand is rarely the point of research. Waiting for a slow website teaches little. Recopying a definition ten times may consume effort without forcing much thought.
 
-Explaining why an answer is wrong can carry structure.
+Other effort carries structure.
 
-Comparing competing sources can carry structure.
+Retrieving an idea.
 
-Deciding what information matters can carry structure.
+Choosing a method.
 
-Waiting for a slow website probably does not.
+Constructing an explanation.
 
-Reformatting citations by hand probably does not.
+Making a prediction.
 
-Copying the same definition ten times probably does not.
+Comparing competing evidence.
+
+Diagnosing why an answer failed.
+
+Deciding what information matters.
 
 The presence of effort tells us almost nothing by itself.
 
-We have to ask what the effort is making the learner do.
+The question is what the effort makes the learner do.
 
-This gives teachers a more useful way to think about AI permissions.
+That question can guide AI permissions more usefully than a general rule about whether the tool is allowed.
 
-Do not begin with the tool.
+If the lesson is retrieval, the learner should retrieve before the model supplies the answer.
 
-Begin with the cognitive move.
+If the lesson is problem solving, hints may be appropriate while the central decisions remain with the student.
 
-If the assignment is meant to practice retrieval, the student should retrieve before asking the model.
+If the lesson is revision, feedback can be extensive because the learning may sit in deciding what to change.
 
-If it is meant to build argument, the student should make consequential choices about the argument.
+If the goal is professional-quality work with contemporary tools, withholding AI may preserve a difficulty that no longer belongs to the task.
 
-If it is meant to practice source evaluation, the model should not quietly replace the source trail with a synthesized answer.
+The same course can contain all of these without contradiction.
 
-If it is meant to teach revision, the student can receive extensive feedback as long as the student still decides what to accept, reject, and rewrite.
+The hard part is making the objective explicit enough that the amount of help can change with it.
 
-If the point is to create a professional-quality artifact using contemporary tools, then withholding AI may be artificial.
+AI could eventually help teachers do this at scale.
 
-The same student can therefore encounter different rules in the same course without contradiction.
+A system can ask diagnostic questions before offering support. It can notice repeated errors. It can reduce scaffolding after successful attempts. It can return later to material that looked fluent. It can generate a smaller example rather than the final solution.
 
-This assignment is unaided because the skill being trained is independent recall.
+The promise is not simply personalization of content.
 
-This assignment permits hints because the goal is problem solving and we want you to stay inside the reasoning.
+It is personalization of assistance.
 
-This assignment requires AI because the capability being learned is supervising machine-generated work.
+Recent field evidence suggests that this design choice can matter.
 
-This assignment allows any tool, but you will have to defend the final decisions orally.
+The high-school mathematics experiment discussed earlier found that unrestricted generative-AI access improved practice performance but could leave students worse off when later tested without the tool. A guarded tutor substantially reduced that problem.
 
-These rules make sense because the objective changes.
+A 2026 working paper involving more than six thousand middle-school students examined another structured design: AI support arrived after mistakes inside mastery-based mathematics practice. Students receiving the support spent more time on assisted questions, progressed more slowly, and were more likely to answer the next attempt correctly.
 
-Blanket rules are attractive partly because objectives are exhausting.
+The details should not be generalized beyond those settings. The more useful lesson is the tradeoff itself.
 
-A teacher already has too many students, too little time, uneven institutional guidance, and a curriculum full of inherited obligations. Asking the teacher to redesign every assignment around a precise theory of cognition can sound like one more impossible reform.
+A productive tutor may intentionally make the session slower.
 
-AI may ultimately help with that too.
+That would look like failure in software optimized for throughput.
 
-A teacher could describe the learning objective and ask a system to generate several versions of an activity at different assistance levels. The system could propose where hints should appear, which steps should remain hidden, what evidence of independent mastery should be collected later, and how a student might move from supported practice to unsupported performance.
+In learning, it can be the point.
 
-But that only works if the design goal is explicit.
+Schools should notice the incentive problem.
 
-Otherwise the default optimization will be obvious.
+Completed assignments are visible. Faster answers are visible. Engagement is visible. Students like progress. Parents like finished work. Teachers understandably prefer fewer missing submissions. Vendors can count interactions and minutes.
 
-Make the student successful now.
+Durable learning arrives later and is harder to observe.
 
-Success now is visible.
+That asymmetry pushes systems toward immediate success.
 
-Learning later is harder to observe.
+Good educational design sometimes has to resist it.
 
-This asymmetry already shapes education. Students like clear explanations. Parents like completed assignments. teachers like fewer missing submissions. software vendors like engagement. administrators like measurable progress. Everyone has a reason to prefer the local success.
-
-The delayed test is where the bill arrives.
-
-A striking recent experiment in high-school mathematics made the point plainly. Students with access to a general-purpose generative AI interface performed much better while the tool was available. When the tool disappeared and students were tested without it, the advantage did not survive; in one condition, later unaided performance was worse. A guarded version designed to behave more like a tutor largely avoided that harm.
-
-The important result was not that AI is bad for learning.
-
-It was that interface design changed what kind of learning occurred.
-
-The machine can make practice easier without making the student stronger.
-
-It can also make practice more effective by helping at the right moment.
-
-The difference is not intelligence.
-
-It is pedagogy.
-
-This should be reassuring to teachers.
-
-The most important educational question is not being automated away.
-
-It is becoming more visible.
+The central teaching questions have not changed.
 
 When should I tell you?
 
 When should I ask you?
 
-When should I let you fail?
+When should I let the error sit for another minute?
 
-When should I interrupt the failure?
+When should I interrupt it?
 
-When should I give an example?
+When do you need a worked example?
 
-When should I remove the example?
+When do you need the example removed?
 
-When should you work alone?
+AI turns those teaching decisions into product decisions too.
 
-When should we solve it together?
+There is no neutral default.
 
-These have always been teaching questions.
+The system will either preserve some cognitive burden or absorb it.
 
-AI makes them software questions too.
+The easiest educational AI to build is a system that answers.
 
-A student using a model will face them even if nobody designed the interaction deliberately. The model will either preserve some cognitive burden or absorb it. There is no neutral setting.
+The more valuable one may be a system that knows when an answer should wait.
 
-The easiest educational AI product to build is a system that answers.
-
-The more valuable one may be a system that knows when not to.
-
-That restraint will feel strange because intelligence is usually demonstrated by producing something.
-
-The best tutor often demonstrates intelligence by withholding exactly enough.
-
-Not forever.
+Not indefinitely.
 
 Not as punishment.
 
@@ -312,11 +252,7 @@ Long enough for confusion to become specific.
 
 Long enough for memory to be asked before memory is replaced.
 
-Long enough for a wrong idea to exist before it can be corrected.
-
-Long enough for the student to remain inside the work.
-
-Then the help can arrive.
+Then help can arrive.
 
 The goal is not a harder classroom.
 

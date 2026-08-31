@@ -2,359 +2,247 @@
 
 A student submits an essay written almost entirely by a model.
 
-That is easy.
-
-If the rules forbid it and the student represents the work as their own, the academic-integrity problem is ordinary even if the technology is new.
+If the rules forbid that and the student represents the work as their own, the academic-integrity problem is straightforward even if the technology is new.
 
 Now change one detail.
 
-The student wrote the draft, then asked the model to improve the grammar.
+The student wrote the draft and used AI to improve the grammar.
 
 Change another.
 
-The student asked for three possible thesis statements, chose one, and wrote the essay.
+The student developed the thesis independently, asked for counterarguments, rejected two, used one, and rewrote the structure.
 
 Another.
 
-The student developed the thesis alone, asked the model for counterarguments, rejected two, used one, and rewrote the structure.
+The student discussed the assignment with an AI tutor for an hour, closed the system, and wrote the paper alone.
 
 Another.
 
-The student wrote the paper, asked the model for a critique, revised it, and disclosed the process.
-
-Another.
-
-The student discussed the assignment with an AI tutor for an hour, then closed the system and wrote the paper independently.
-
-Another.
-
-The student dictated a rough argument because typing is difficult, then used AI to organize the transcript into paragraphs and manually rewrote each one.
-
-Another.
-
-The student used translation assistance to write in a second language.
+The student used translation because the course is about history rather than English-language proficiency.
 
 Which student cheated?
 
 The answer depends on the rules.
 
-That is precisely the problem with treating cheating as the main intellectual question.
+That is why cheating is the wrong first question.
 
-Cheating is a relationship between behavior and a standard.
+Cheating is behavior measured against a standard. Before a school can decide whether a student violated the standard, it has to decide what the standard is protecting.
 
-Before we can decide whether a student violated the standard, the institution has to decide what the standard is protecting.
+Generative AI makes that prior decision harder to avoid.
 
-Generative AI has made that prior decision unavoidable.
+For years, assignments rested on boundaries that were culturally familiar even when they were not perfectly precise.
 
-For years, many assignments rested on an implicit rule: outside help was acceptable up to some culturally understood boundary.
+A dictionary was usually fine. A spell-checker was fine. A parent could discuss an idea but not write the paper. A tutor could explain the concept but not complete the homework. A calculator might be permitted on one test and forbidden on another.
 
-A student could use a dictionary.
+The tools were specialized enough that the boundaries remained legible most of the time.
 
-A spell-checker.
-
-A grammar checker, sometimes.
-
-A parent could discuss an idea, though not write the paper.
-
-A tutor could explain the concept, though not complete the homework.
-
-A classmate could proofread, depending on the class.
-
-A search engine could locate sources.
-
-A calculator could be allowed on one test and forbidden on another.
-
-These boundaries were never perfectly clean.
-
-They worked because the tools were relatively specialized.
-
-A dictionary did not normally propose the thesis.
+A dictionary did not propose the thesis.
 
 A calculator did not rewrite the lab report.
 
-A search engine did not usually synthesize the sources into a finished argument without the student leaving the page.
+A search engine did not normally draft the argument without the student leaving the page.
 
-Generative AI collapses many forms of help into one interface.
+Generative AI collapses many forms of assistance into one interface.
 
-The same box can tutor, edit, translate, brainstorm, summarize, solve, imitate, generate, critique, cite, plan, and complete.
+It can tutor, edit, translate, brainstorm, summarize, solve, critique, plan, and complete.
 
-The old categories of assistance begin to blur because the tool crosses them in seconds.
+The old categories blur because the same box crosses them in seconds.
 
-This is why schools keep reaching for authorship.
+This is why authorship feels newly unstable.
 
 Did the student write it?
 
-It sounds like a clean question.
+The question still matters.
 
-It is becoming less clean.
+It just no longer settles as much as it once did.
 
-Writing has always been partly distributed.
+Writing has always been distributed to some degree. Authors read other authors. Editors alter sentences. Teachers suggest revisions. Sources contribute facts. Style guides shape form. Colleagues propose arguments.
 
-An author reads other authors. An editor changes sentences. A colleague suggests an argument. A spell-checker catches mistakes. A style guide shapes form. A source contributes facts. A teacher's feedback changes the revision.
+We still attribute the work because the author usually retains consequential control over what is being claimed, why it is being claimed, which evidence matters, and what survives revision.
 
-We still call the final work the student's because the student normally retains consequential control over the ideas, decisions, evidence, and expression.
-
-AI tests how much of that control can be delegated before the attribution stops making sense.
+AI tests how much of that control can be delegated before the attribution stops meaning what the institution thinks it means.
 
 There will not be one answer for every assignment.
 
-That is inconvenient.
+A language learner using translation in a history course may be removing a barrier unrelated to historical understanding. The same assistance in a language-proficiency assessment may bypass the target skill.
 
-Institutions like universal rules because universal rules are administratively efficient.
+A programmer using code generation in an advanced engineering project may be practicing contemporary supervision. The same programmer using it in an exercise designed to establish whether loops are understood may be skipping the lesson.
 
-Students like universal rules because they reduce risk.
+A writer asking for criticism after a complete draft may be using an editor. A writer asking the model to produce the argument before making any consequential choices may be doing something else.
 
-Parents like universal rules because they are easy to explain.
+The technology is unchanged.
 
-Vendors like universal rules when the universal rule is permissive.
+The educational contract is different.
 
-But the educational meaning of assistance changes with the purpose of the task.
+That contract should answer three questions.
 
-A language learner using translation in a history course may be removing a barrier unrelated to historical understanding.
+What capability is this task meant to build or measure?
 
-The same student using translation in a course designed to assess independent language production may be bypassing the target skill.
+What forms of assistance are compatible with that purpose?
 
-A programmer using code generation in a software-engineering project may be practicing contemporary professional supervision.
+What remains the student’s responsibility even when assistance is allowed?
 
-The same programmer using it in an introductory exercise meant to establish whether loops are understood may be substituting for the lesson.
+Once those questions have answers, misconduct becomes easier to define.
 
-A writer using an AI critic after a complete first draft may be engaging in revision.
+This is already visible in university policy design. Some courses prohibit most generative-AI use. Others permit clarification, brainstorming, or editing while restricting generated content. Others encourage extensive use but require students to evaluate and acknowledge the output.
 
-A writer asking the system to produce the first draft may be avoiding the generative decisions the assignment was built to exercise.
+The variation is sometimes described as institutional confusion.
 
-The technology has not changed.
+Some of it is.
 
-The purpose has.
+Some is appropriate precision.
 
-This is why cheating is downstream of design.
+A philosophy seminar, an introductory writing course, a data-analysis class, and a professional design studio are not trying to produce the same evidence.
 
-The useful first question is not, "Did the student use AI?"
+The problem is not different rules.
 
-It is, "What capability was this assignment meant to build or certify?"
+The problem is rules whose differences have no visible relationship to what students are supposed to learn.
 
-Then: "What assistance is compatible with that purpose?"
+“No AI because AI is cheating” is circular.
 
-Only then does misconduct become legible.
+“AI is allowed because everyone uses it now” is not much better.
 
-Some universities have already moved toward this structure in practice.
+A better rule explains the capability underneath it.
 
-Course-specific policies range from highly restrictive to fully encouraging, with mixed policies in between. Some schools permit AI for clarification, brainstorming, or contextual examples while forbidding incorporation of generated content unless the instructor explicitly allows it. Others require disclosure when AI is used. The variation is often described as inconsistency.
+No AI on this task because I need to observe your independent ability to construct the argument.
 
-Sometimes it is.
+AI is permitted here because the task is to supervise contemporary tools, but you remain responsible for every factual and design decision.
 
-Sometimes it is the beginning of precision.
+Use the tutor after your first attempt because the lesson is problem solving, not answer production.
 
-A philosophy seminar, an introductory writing course, a data-analysis class, and a professional design studio should not necessarily have the same AI policy.
+That explanation does more than make the policy friendlier.
 
-They are not trying to produce the same evidence.
+It tells the student what the institution values.
 
-The mistake is not variation.
+It also changes enforcement.
 
-The mistake is unexplained variation.
+When schools define misconduct mainly by trying to infer machine involvement from prose, the finished artifact is again being asked to reveal a process it cannot reliably reveal.
 
-Students need to understand why the boundary exists.
+Chapter 13 will return to the technical problems with that approach.
 
-If a teacher says, "No AI because I need to see whether you can construct this argument unaided," the restriction is connected to an educational claim.
+The more important point here is institutional.
 
-If another teacher says, "Use AI freely because this project is about supervising contemporary tools, but you are responsible for every factual and design decision," that permission is also connected to an educational claim.
+Academic integrity should not depend entirely on catching a machine hiding in a document.
 
-The student may disagree with either rule.
+Schools need positive evidence that the student owns the capability being credited.
 
-At least the rule makes sense.
+That might be an oral explanation, a source trail, a supervised revision, a live demonstration, a neighboring problem, or a short defense of a consequential decision.
 
-"No AI because AI is cheating" is circular.
+The purpose is not to surround every assignment with surveillance.
 
-"AI is allowed because everyone uses it now" is equally weak.
-
-Both substitute a cultural position for an instructional one.
-
-This distinction matters for enforcement.
-
-When schools define misconduct mainly by detecting machine-written prose, they make the artifact carry too much weight again.
-
-Detection systems promise to infer process from output at the exact moment generative AI has made that inference unstable.
-
-The result is predictable.
-
-Teachers become suspicious of polished work.
-
-Students become anxious about false accusations.
-
-Students who did use AI learn to alter the output.
-
-Students who did not use AI may be asked to prove innocence through drafts, histories, or stylistic consistency.
-
-The institution enters an arms race around surface signals.
-
-Some controlled assessment will be necessary.
-
-But a school cannot build academic integrity entirely on forensic authorship.
-
-It has to build assignments where ownership can be demonstrated positively.
-
-Ask the student to explain the argument.
-
-Show the source trail.
-
-Defend a design choice.
-
-Revise under supervision.
-
-Apply the idea to a new case.
-
-Describe what the model suggested and why it was rejected.
-
-Solve a related problem without assistance.
-
-Produce a process artifact that matters because it reveals reasoning, not because it functions as surveillance theater.
-
-This changes the tone of academic integrity.
-
-The goal is no longer to catch a machine hiding in a document.
-
-The goal is to establish whether the student owns the capability being credited.
+It is to make ownership observable where the final artifact is no longer enough.
 
 Ownership does not require solitary production in every case.
 
 That is already true outside school.
 
-A scientist can be responsible for a paper that includes contributions from collaborators, instruments, statistical software, and editors. A lawyer can be responsible for a brief drafted with assistance. An architect can own a design produced by a team. A manager can own a decision informed by analysts.
+Scientists answer for work involving collaborators, instruments, software, and editors. Lawyers answer for briefs produced with assistance. Architects answer for designs created by teams. Managers answer for decisions informed by analysts.
 
-Responsibility survives delegation when the responsible person can understand, evaluate, and answer for the result.
+Responsibility survives delegation when the responsible person can understand the result, apply standards to it, and answer for the consequential choices.
 
-This may become one of the most important standards schools can teach.
+That principle belongs in school too.
 
 You can use help.
 
 You cannot outsource responsibility.
 
-That principle is stronger than a rule about whether AI text appeared in the final artifact.
+The sentence is stronger than a rule about whether generated text appears in the final file because it travels across tools and professions.
 
-It also has limits.
+It also has a limit.
 
-A student who cannot perform the underlying skill independently should not receive a credential claiming independent competence merely because the student can supervise a model well enough to produce the expected artifact.
+A student should not receive a credential for independent capability merely because the student can supervise a system well enough to produce the expected artifact.
 
-This is where practice and certification separate again.
+If independence is part of the claim, independence has to be observed somewhere.
 
-During practice, collaboration with AI can be extensive.
+That is measurement, not moral purification.
 
-During certification, the institution may need to isolate particular capabilities.
+The same student can use AI extensively during practice and later complete an oral exam, live problem set, in-class essay, or supervised demonstration without it.
 
-The same student who uses AI throughout a semester might complete an oral exam, an in-class essay, a live problem set, a practical demonstration, or a supervised project defense without it.
+The conditions differ because the purposes differ.
 
-That is not hypocrisy.
+Moral language can obscure this distinction.
 
-It is measurement.
+Some cases genuinely are about honesty. A student knowingly breaking a clear rule and disguising the violation has made an integrity choice.
 
-Pilots train with automation and are still tested on failures.
-
-Surgeons use instruments and teams while still demonstrating individual competencies.
-
-Musicians rehearse with guidance and then perform under specified conditions.
-
-Education can become more explicit about when assistance is part of competence and when independence is the competence.
-
-The moral language around cheating often obscures this because it makes the issue primarily about character.
-
-Some cases are about character.
-
-A student knowingly breaking a clear rule and disguising the violation has made an integrity choice.
-
-But a system that depends on moral condemnation to compensate for vague assignment design will fail.
-
-Students will encounter ambiguous cases constantly.
-
-Can I ask for an outline?
+But institutions will encounter many cases in which the harder problem is not deceit. It is ambiguity.
 
 Can I ask whether my thesis makes sense?
 
-Can I paste the teacher's comments and ask what they mean?
+Can I paste the teacher’s comments and ask what they mean?
 
-Can I use AI to make my sentences less awkward?
+Can I improve awkward sentences?
 
-Can I ask it to shorten a paragraph?
+Can I ask for an outline?
 
-Can I use it to locate sources?
+Can I use AI to locate sources?
 
-Can I use it to explain a source I do not understand?
+Can I ask for a summary of a source I still plan to read?
 
-Can I use it to generate practice questions?
+Can I generate practice questions?
 
-Can I use it to check my answer?
+Can I check my answer after I finish?
 
-Can I use it after I finish?
+A detector cannot answer these questions.
 
-The institution cannot answer these questions with a detector.
+The course has to.
 
-It needs a theory of assistance.
-
-A useful theory begins with cognitive ownership.
+One useful way to do that is to make cognitive ownership explicit.
 
 What did the student have to notice?
 
-What did the student have to retrieve?
+What had to be retrieved?
 
-What decisions did the student have to make?
+Which decisions had to be made?
 
-What standards did the student have to apply?
+Which standards had to be applied?
 
-What errors did the student have to recognize?
+Which errors had to be recognized?
 
-What part of the work could the student defend without the model present?
+What part of the work could the student defend with the model closed?
 
-These questions move academic integrity closer to learning.
+These questions move integrity closer to learning.
 
 They also make disclosure more useful.
 
-A disclosure statement should not become a ritual confession that AI touched the work.
+Disclosure should not become a ritual confession that AI touched the assignment.
 
 It can describe the division of labor.
 
 Used AI to generate alternative examples; selected and verified two.
 
-Used AI for grammar feedback after drafting; accepted six edits and rejected three.
+Used AI for grammar feedback after drafting; accepted some edits and rejected others.
 
 Used AI to debug a function; rewrote the final implementation and tested it independently.
 
-Used AI to summarize three articles; read the originals and did not rely on the summaries for citations.
+Used AI to summarize several articles; read the originals and cited only the originals.
 
-Used AI to brainstorm research questions; final question developed independently.
+That information is educationally meaningful because it reveals where the student placed responsibility.
 
-This information can help a teacher evaluate whether the assistance was compatible with the assignment.
+Schools should resist turning this into exhaustive prompt logging.
 
-It can also teach the student to see delegation as a decision rather than an invisible default.
+A student can fabricate a neat process history just as easily as a neat final product. Teachers do not need a transcript of every interaction. The goal is enough transparency for the contract to make sense, not total surveillance of cognition.
 
-There is a danger here too.
+This is the order that matters.
 
-Process documentation can become burdensome and performative. Students can fabricate a clean history just as they can fabricate a clean essay. Teachers do not need twenty pages of prompt logs for every assignment. The goal is not total surveillance of cognition.
+First define what the student is responsible for.
 
-The goal is enough transparency for the educational contract to make sense.
+Then define permitted assistance.
 
-That contract will have to become more explicit because AI has broken the old assumption that the visible artifact roughly reveals the invisible work.
+Then define what counts as violating the agreement.
 
-Cheating is what happens when someone violates the contract.
+Cheating comes after the contract.
 
-But the contract comes first.
+A school that cannot say what must remain the student’s responsibility will struggle to say what counts as unacceptable delegation.
 
-A school that cannot say what must remain the student's responsibility will struggle to say what counts as unacceptable delegation.
-
-This is why the cheating debate feels endless.
+That is why the cheating debate can feel circular.
 
 It is trying to solve a design problem with a moral label.
 
-The label still matters.
+The label still matters. Rules matter. Trust matters. Consequences matter.
 
-Rules still matter.
-
-Trust still matters.
-
-Consequences still matter.
-
-But none of them can substitute for the prior question.
+But the prior question is educational.
 
 What are we trying to know about the student?
-
-Once that is clear, AI policy becomes much easier.
 
 Sometimes the answer will be: I need to know you can do this alone.
 
@@ -366,12 +254,10 @@ Sometimes: I need to know you understand the material well enough to explain why
 
 Sometimes: I do not care who typed the first sentence; I care whether the final decision is yours.
 
-The future of academic integrity will contain all of these cases.
+Academic integrity in an AI-rich classroom will contain all of these cases.
 
-The institutions that handle them well will stop asking one technology to carry one moral meaning.
+The durable principle is not that AI is cheating or that AI use is innocent.
 
-AI is not cheating.
+It is that assistance does not erase responsibility.
 
-Using AI is not innocence either.
-
-The educational question is what the learner still owns after the help arrives.
+The institution has to say where that responsibility lives.

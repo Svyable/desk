@@ -4,293 +4,213 @@ The first generation of students taught to use computers was often told that the
 
 It was a warning disguised as reassurance.
 
-The computer could calculate, store, search, format, and transmit. The student still had to decide what to calculate, what to search for, what mattered, what was true, and what to say.
+The computer could calculate, store, search, format, and transmit. The student still had to decide what mattered, what was true, and what to do next.
 
-Generative AI moves the boundary.
+Generative AI moves that boundary.
 
-Now the machine can participate in the sentence, the explanation, the outline, the code, the plan, the interpretation, the example, the question, and sometimes the decision about what to do next.
+The machine can now participate in the sentence, the explanation, the outline, the code, the interpretation, the example, the question, and sometimes the decision about what should happen next.
 
 The student is no longer merely using a tool inside a cognitive task.
 
-The student can begin distributing the task itself.
+The student can distribute the task itself.
 
-This changes what competence looks like.
-
-A strong student using AI does not necessarily type less because the student is lazy.
-
-The student may be doing a different kind of work.
+That can be sophisticated work.
 
 Ask for five hypotheses. Reject four.
 
-Ask for a simpler explanation. Notice what the simplification leaves out.
+Ask for the strongest argument against your position. Identify the assumption it depends on.
 
-Ask the model to argue the opposite case. Compare its assumptions with yours.
+Ask for test cases. Add the cases the model missed.
 
-Give it a draft. Ask where the reasoning is weakest. Ignore the stylistic suggestions and repair the argument.
+Ask for a summary of a source, then read the source and find what the summary flattened.
 
-Ask it to generate test cases. Add the cases it missed.
+Ask for criticism of a draft and ignore the stylistic suggestions while repairing the weak reasoning.
 
-Ask it to summarize a source. Then read the source and identify what the summary flattened.
+None of this is intellectually trivial.
 
-Ask it to explain your mistake. Decide whether the explanation actually addresses the mistake you made.
-
-This kind of interaction can be cognitively demanding.
-
-It can also look almost identical, from the outside, to a student outsourcing the work.
+It can also look almost identical, from the outside, to outsourcing.
 
 Both students are prompting.
 
 One is directing external intelligence from a position of growing judgment.
 
-The other is renting judgment by the minute.
+The other is borrowing judgment by the minute.
 
-The difference will matter more than the ability to write an elaborate prompt.
+The important difference is not how elaborate the prompt looks.
 
-For a while, "prompt engineering" acquired the aura of a new literacy. There were formulas, templates, acronyms, role instructions, magic phrases, and confident claims that a person who knew how to speak to a model would possess a durable advantage over people who did not.
+For a while, prompt engineering was treated as a new literacy in itself. There were formulas, templates, role instructions, acronyms, and claims that the ability to phrase requests cleverly would become a durable advantage.
 
-Some of that was useful.
+Some of that advice was useful. Clear instructions matter. Context matters. Examples and constraints matter.
 
-Clear instructions matter. Context matters. Examples matter. Constraints matter. A model asked a vague question will often produce a vague answer.
-
-But the deeper skill was never wording alone.
+But prompt wording sits downstream of a harder skill.
 
 A person has to know what to ask for.
 
-That is harder.
+That requires a model of the problem.
 
-Imagine two students assigned to analyze a city transportation plan.
+Imagine two students analyzing a city transportation plan.
 
-The first student asks the model to write an analysis.
+The first asks the model to write an analysis.
 
-The second asks for the major stakeholders, requests competing objectives, checks which claims depend on ridership forecasts, asks for possible second-order effects, identifies what evidence would distinguish the scenarios, and then goes looking for the underlying data.
+The second asks who gains and loses under the plan, which conclusions depend on ridership forecasts, what second-order effects might matter, which assumptions would reverse the recommendation, and what evidence could distinguish competing scenarios.
 
-The second student may have written fewer original sentences in the early stages.
+The second student may produce fewer original sentences during the early work.
 
-The student has nevertheless supplied more structure.
+The student has supplied more intellectual structure.
 
 That structure comes from knowledge.
 
-You cannot ask a good follow-up about a missing assumption if you do not know assumptions matter.
+You cannot challenge a missing assumption if you do not know assumptions matter. You cannot notice that a statistical claim is implausible without some intuition for scale. You cannot supervise code you cannot read. You cannot judge a source you do not know how to trace.
 
-You cannot challenge a suspicious statistical claim if you have no intuition for scale.
+Prompting does not make knowledge obsolete.
 
-You cannot notice that a historical analogy crosses the wrong time period if the period itself is blank in your mind.
+It changes one of the jobs knowledge performs.
 
-You cannot supervise code you are unable to read.
+Internal knowledge increasingly helps a person allocate attention across external intelligence.
 
-You cannot evaluate a source you do not know how to locate.
+That is a peculiar educational shift because delegation has usually followed apprenticeship.
 
-The prompted mind therefore does not make knowledge obsolete.
+A senior engineer reviews junior work after learning to engineer. An editor evaluates drafts after years of reading and writing. A research supervisor has normally learned how evidence is produced before directing other people’s work.
 
-It makes knowledge managerial.
+AI reverses the sequence.
 
-The student increasingly uses internal knowledge to allocate attention across external intelligence.
+The novice gets something like a cognitive subordinate before becoming competent enough to supervise one.
 
-This is a peculiar shift because management has always been a higher-level activity.
+A first-year student can ask for output that once required a trained assistant, an editor, a programmer, a tutor, or hours of solitary work.
 
-A senior engineer reviews work produced by junior engineers. An editor evaluates drafts. A physician interprets tests produced by machines and technicians. A manager delegates tasks and checks results. A professor asks questions that students attempt to answer.
+The interface makes the student look senior.
 
-AI offers a version of this relationship to beginners.
+The student gives commands. The system responds. The user chooses among outputs.
 
-The novice gets a subordinate before becoming competent enough to supervise one.
-
-That is historically unusual.
-
-A first-year student can now ask for the sort of output that once required a trained assistant, a tutor, an editor, a programmer, or hours of solitary work.
-
-The output can be impressive enough to create a dangerous inversion.
-
-The student feels senior because the system behaves junior.
-
-But the system may know more than the student about the subject while knowing nothing about the student's actual educational objective.
-
-The hierarchy is unstable.
-
-The student is formally in charge and epistemically dependent.
-
-This is where prompting can become a theater of control.
-
-The user issues instructions.
-
-The machine responds obediently.
-
-The interaction feels agentic because the student is giving commands.
+That feels like control.
 
 But command is not the same as judgment.
 
-A person can direct a system without being able to evaluate what the system returns.
+A student can ask for a “more rigorous” argument without knowing whether the result became more rigorous or merely more formal. The student can ask the model to “check the math” and accept the recalculation without understanding the method. The student can request “credible sources” and stop at citations that look scholarly.
 
-The student who asks for a "more rigorous" argument may not know whether the revision became more rigorous or merely more formal in tone.
+The user is active at the interface and passive at the level that matters.
 
-The student who asks the model to "check the math" may accept a confident recalculation without independently understanding the method.
+That is cognitive offloading with a steering wheel attached.
 
-The student who asks for "credible sources" may receive citations that look scholarly and stop there.
+Offloading itself is not a problem.
 
-The student is active at the interface while passive at the level that matters.
+Human intelligence has always extended beyond the skull. We write things down so memory does not have to carry them. We use maps, calendars, diagrams, calculators, books, databases, colleagues, and institutions. Civilization works because cognition can be distributed.
 
-This is cognitive offloading with a steering wheel attached.
+The educational question is which functions can move outside before enough structure has developed inside.
 
-Offloading is not itself a problem.
+A researcher using reference software is not outsourcing scholarship by refusing to memorize citation punctuation. A bilingual student using translation in a history course may remove a language barrier while still doing the historical reasoning. A skilled programmer can delegate boilerplate without losing the architecture of the system.
 
-Human intelligence has always been extended through external systems.
+A beginner may not be in the same position.
 
-We write things down so memory does not have to carry them. We use maps so spatial knowledge can be stored outside the head. We use calendars, calculators, diagrams, books, databases, search engines, colleagues, and institutions. Civilization is partly the story of moving cognition into shared artifacts so no individual mind has to contain everything.
+AI can offload operations that used to reveal who was making the consequential decisions.
 
-The educational question is which cognitive functions are safe to move outside before the learner has built enough inside.
+It can propose the thesis, choose the examples, organize the evidence, identify the counterargument, synthesize the sources, and draft the conclusion.
 
-A student who uses a calculator after understanding multiplication is not in the same position as a student who uses one without number sense.
+The student can remain busy throughout—prompting, choosing, copying, revising, requesting alternatives—while contributing surprisingly little intellectual architecture.
 
-A researcher using a reference manager is not outsourcing scholarship by refusing to memorize citation punctuation.
+Time spent with the tool does not tell us much.
 
-A bilingual student using translation to access a difficult source may be removing a language barrier while still doing the conceptual work.
+Neither does the number of prompts.
 
-The boundary depends on the capability.
+A 2026 observational study of student-AI collaboration found that access to a conversational model did not automatically produce sophisticated direction. In that particular set of assignments, stronger work tended to contain more context and more coherent prompting patterns, while weaker work more often involved low-context prompts and acceptance of output with limited modification.
 
-AI makes the boundary difficult to see because it can offload high-level operations that previously left obvious signs.
+The study was small and specific. It does not establish a universal taxonomy of good and bad prompting.
 
-It can propose the thesis.
-
-It can choose the examples.
-
-It can decide the structure.
-
-It can identify the counterargument.
-
-It can synthesize the sources.
-
-It can draft the conclusion.
-
-A student can remain busy throughout this process—copying, pasting, prompting, revising, requesting alternatives—while contributing surprisingly little intellectual architecture.
-
-This is why time spent is becoming an unreliable measure of effort.
-
-A student can spend two hours with a model and learn a great deal.
-
-Another can spend two hours with the same model and mostly manage production.
-
-The transcript may contain hundreds of exchanges in both cases.
-
-Quantity of interaction tells us almost nothing.
-
-What matters is where the decisions came from.
-
-Recent observations of student-AI collaboration make this visible. Students do not automatically become sophisticated directors merely because a conversational model is available. Some interactions converge toward short, low-context instructions and acceptance of the resulting output with little modification. Better work tends to contain more context, clearer constraints, and more evidence that the student is actively shaping the task.
-
-That pattern should not surprise us.
+It illustrates a simpler point.
 
 The model amplifies the habits the learner brings.
 
-A student who normally begins an assignment by asking, "What am I trying to understand?" can use AI to explore that question faster.
+A student who begins with “What am I trying to understand?” can use AI to explore that question faster.
 
-A student who normally begins by asking, "What do I need to submit?" can use AI to satisfy the submission faster.
+A student who begins with “What do I need to submit?” can use AI to satisfy the submission faster.
 
-The tool does not erase the student's orientation toward learning or completion.
+Both gain leverage.
 
-It gives both orientations leverage.
+This is why the prompted mind is not primarily a story about new technical skill.
 
-This is the prompted mind's central ambiguity.
+It is a story about cognitive ownership.
 
-AI can make metacognition more important while also making it easier to avoid.
+Who framed the problem?
 
-A good user has to notice what the model is doing, what the user is doing, and what neither has done.
+Who decided what evidence mattered?
 
-Did I understand the answer, or did I understand the wording?
+Who noticed that an answer was incomplete?
 
-Did I choose this argument, or did I select it from a menu?
+Who chose among alternatives?
 
-Could I explain why I rejected the alternatives?
+Who could explain why the rejected option was worse?
 
-What would I have done if the model had given a different recommendation?
+What would the student have done if the model had recommended something different?
 
-Which parts of this result depend on facts I have not verified?
+These questions expose a difference between directing a system and understanding the work being directed.
 
-What is the machine better positioned to do than I am?
+An adjacent experiment with adult participants in a legal-decision task makes the risk visible from another angle. Participants given higher-offloading AI assistance performed especially well in the moment, but the more heavily assisted conditions produced weaker skill development than conditions that preserved more of the task for the human participant. The study was not a classroom experiment and should not be treated as one.
 
-What am I better positioned to do than the machine?
+Its relevance is conceptual.
 
-These questions are not prompt tricks.
+Immediate collaborative performance can rise while the human contribution underneath it develops more slowly.
 
-They are questions about cognitive ownership.
+That possibility matters most for novices because the amount of useful assistance depends on what they already know.
 
-Schools will need to teach that ownership explicitly.
+A beginner may need substantial guidance. The problem is not that the model helps too much in a moral sense. The problem is that the learner may not yet know which high-level decisions are safe to delegate.
 
-The first instinct may be to create AI-literacy units: how language models work, what hallucinations are, how to write prompts, how to cite AI assistance, how to protect private data.
+The expert can use external intelligence as leverage because the expert has standards against which to judge it.
 
-All of that matters.
+The novice can receive the leverage before acquiring the standards.
 
-But a student can pass an AI-literacy quiz and still use the tool badly every day.
+School therefore has a new apprenticeship problem.
 
-The deeper curriculum is procedural.
+Students need to learn delegation while they are still building the capabilities that make delegation meaningful.
 
-Students need repeated experience deciding what to delegate.
+That cannot be solved with a single lesson on prompt writing.
 
-They need assignments where the model is useful but insufficient.
+Students need repeated experience deciding what to keep.
 
-They need to compare their first answer with the model's answer before seeing which is better.
+They should sometimes compare their own first answer with a machine answer before choosing between them. They should work from AI summaries back to primary sources. They should critique generated reasoning that contains both useful insight and subtle error. They should explain which suggestions they accepted and which they rejected. They should occasionally demonstrate the same capability without the tool after practicing with it.
 
-They need to critique machine-generated reasoning that contains both good ideas and subtle errors.
+The point is not documentation for its own sake.
 
-They need to work from AI output back to primary sources.
+It is to make delegation visible as a decision.
 
-They need to explain which suggestions they accepted and which they rejected.
-
-They need to demonstrate the capability without the tool after practicing with it.
-
-They need to use AI in ways that make their own thinking more visible rather than less.
-
-This changes the teacher's role too.
-
-A teacher once looked primarily at the student's product and inferred the process.
-
-The teacher may increasingly need to teach process as an object in itself.
+Teachers may need to teach process more explicitly too.
 
 How did you break the problem apart?
 
 What did you ask the model to do?
 
-Why did you trust this output?
+Why was that the part you delegated?
 
-Where did it fail?
+What did you check independently?
 
-What did you add that the model could not supply?
+Where did the system fail?
 
 Which decision in the final work is most yours?
 
-That last question sounds sentimental until the work becomes heavily collaborative with a machine.
+That last question can sound sentimental until the work becomes deeply collaborative.
 
 Then it becomes diagnostic.
 
-The student's contribution does not have to be every word.
+The student’s contribution does not have to be every word.
 
-But it has to exist somewhere consequential.
+It has to exist somewhere consequential.
 
-In professional work, this is already normal.
+Professional work already depends on this idea. A film director does not operate every camera. An architect does not fabricate every beam. A scientist does not personally manufacture every instrument. Complex work contains delegation everywhere.
 
-A film director does not operate every camera. An architect does not fabricate every beam. A scientist does not personally manufacture every instrument. A chief executive does not write every memo. Complex work is full of delegation.
+We still assign authorship and responsibility because somebody frames the problem, integrates contributions, applies standards, makes consequential choices, and answers for the result.
 
-We still attribute authorship and responsibility because some person or team makes high-level choices, integrates contributions, sets standards, and owns the result.
+Students will need to learn that form of responsibility earlier than previous generations did.
 
-Students will need to learn the same distinction earlier.
+The complication is that good delegation is usually built on competence.
 
-The problem is that delegation skills are built on competence.
+A good editor usually became good by writing. A good code reviewer learned to code. A good research supervisor learned how evidence is made.
 
-A good editor usually became good by writing.
+AI offers the supervisory role before apprenticeship is complete.
 
-A good code reviewer usually learned to code.
+The danger is not that students will fail to learn prompting.
 
-A good research supervisor usually learned how evidence is produced.
+They will learn it quickly enough.
 
-AI lets the student arrive at delegation before apprenticeship is complete.
-
-The risk is not that students will never learn to prompt.
-
-They will.
-
-The risk is that prompting becomes a substitute for the experiences that make direction meaningful.
-
-A child who learns to conduct before learning to hear the instruments has a baton, not a musical education.
-
-The same problem appears in subtler forms with AI.
+The danger is that prompting can substitute for the experiences that make direction meaningful.
 
 A student can ask for tone before developing voice.
 
@@ -300,66 +220,34 @@ Ask for critique before learning standards.
 
 Ask for synthesis before building the parts being synthesized.
 
-The result may still be useful.
+The result can still be impressive.
 
-The student may even get rewarded for it.
+That is what makes the substitution hard to see.
 
-That is what makes the danger durable.
-
-School has historically given students more responsibility as their competence grows.
-
-Generative AI reverses the order.
-
-It gives them extraordinary responsibility over external cognition immediately.
-
-We should not respond by taking the tool away forever.
-
-We should respond by teaching the missing apprenticeship.
-
-A prompted mind should become more demanding, not less.
+A prompted mind should therefore become more demanding, not less.
 
 The student needs enough internal structure to make external intelligence answerable.
 
-That means learning when to request help, how to constrain it, how to test it, how to recover the source, how to notice uncertainty, how to compare alternatives, how to preserve independent capability, and when to close the window and think alone.
+That means knowing how to frame a problem, constrain a task, test an answer, recover a source, compare alternatives, notice uncertainty, and decide when the machine should not be first.
 
-The final skill may be the least fashionable.
+The final skill may be the least glamorous.
 
 Knowing when not to prompt.
 
-There are moments when the presence of an answer changes the nature of the question.
+A poem read before interpretation is different from a poem read beside an instant interpretation. A mathematical problem attempted before hints is different from one entered immediately into a solver. A personal reflection written before suggestions is different from one framed by suggestions from the beginning.
 
-A poem read before interpretation is different from a poem read beside an instant interpretation.
+External intelligence changes more than the amount of information available.
 
-A mathematical problem attempted before hints is different from one entered directly into a solver.
+It changes the sequence in which a mind encounters a problem.
 
-A personal reflection written before suggestions is different from one assembled after a model proposes what the writer might feel.
+Sometimes the model should go first.
 
-A difficult decision considered before asking for recommendations is different from a decision framed by the recommendations from the start.
+Sometimes it should not.
 
-External intelligence does not merely add information.
+The important thing is that there is an educational reason for the order.
 
-It changes the sequence in which a mind encounters the world.
+Otherwise the machine becomes the first mind on every problem.
 
-Education will have to care about sequence again.
+A student who always begins by asking may become very good at continuing somebody else’s thought.
 
-First observe.
-
-Then attempt.
-
-Then ask.
-
-Then compare.
-
-Then verify.
-
-Then integrate.
-
-Sometimes the order will be different.
-
-But there should be an order.
-
-Otherwise the model becomes the first mind on every problem.
-
-A student who always begins by asking may become very good at continuing somebody else's thought.
-
-The deeper ambition is a student who can begin one.
+The deeper ambition is a student who can still begin one.
