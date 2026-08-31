@@ -155,3 +155,79 @@ That is the bargain hidden inside corporate celebrity.
 The executive gets to tell the future when people want to believe it.
 
 The executive also gets the microphone when they want to know who approved the present.
+
+There is a second bargain beneath the first, and it concerns information. The chief executive is allowed to speak as though the organization has one mind because the organization spends enormous effort creating that appearance. Earnings guidance aggregates thousands of operational facts into a corporate forecast. A product launch turns research, design, procurement, legal review, engineering, marketing, and support into one announcement. A mission statement gives a single intention to people who may disagree internally about almost everything else.
+
+This compression makes management possible. It also creates a duty to know which claims can responsibly be compressed.
+
+A leader cannot personally verify every fact in an earnings report, safety document, product announcement, or public-policy statement. The institution therefore needs reporting systems that make executive speech more than performance. Someone collects the data. Someone challenges assumptions. Someone escalates exceptions. Someone decides what uncertainty survives into the final statement.
+
+The quality of those systems determines whether the CEO is an interface or a ventriloquist’s dummy.
+
+This is where board governance enters the public-pressure story. A board does not ordinarily manage the company’s daily operations. It appoints and oversees senior leadership, approves major decisions, and bears governance duties under corporate law. In founder-led companies, formal board authority may coexist with the founder’s cultural, economic, or voting power. In other companies, the board can remove the chief executive with little public drama.
+
+The public usually learns the structure only during a crisis.
+
+That is too late.
+
+If a company is asking society to rely on claims about powerful AI systems, its governance architecture becomes relevant before failure. Which risks reach directors? Does the board have technical expertise or independent advisers? Can a safety concern bypass a commercial reporting line? Does management report incidents in a standardized way? Are directors told only about failures already public, or about near misses the public never sees?
+
+These are not requests for the board to design neural networks.
+
+They are requests for the people with formal oversight to receive information about the risks attached to strategy.
+
+The same logic applies to executive compensation. Public arguments about CEO pay often focus on inequality, and understandably so. For AI governance, the more precise question is what the compensation system rewards. If an executive receives enormous upside from rapid deployment, market share, and valuation while serious downside appears years later, the organization has created a time-horizon problem.
+
+That does not imply a particular pay formula. It means incentives belong in any map of responsibility.
+
+A safety policy can say one thing while compensation says another.
+
+Employees notice which one wins.
+
+Investors do too, although different investors have different horizons and risk tolerances. A venture investor may accept extreme technological and governance risk for the possibility of exceptional growth. A pension fund may care more about durable returns and legal exposure. A strategic partner may care about continuity of supply. A lender cares about repayment. The CEO is an interface to several capital constituencies that are not asking the same question.
+
+This is another reason personalizing the corporation can mislead. The chief executive may appear to choose a controversial course freely when the organization is responding to pressures that are structural: competitors cut prices, customers demand a feature, investors reward growth, regulators impose deadlines, employees threaten to leave, or a board changes strategy.
+
+Leadership consists partly in choosing which pressure not to obey.
+
+That is a more useful way to evaluate executive responsibility than pretending the leader is unconstrained.
+
+What pressure did the CEO resist?
+
+Which constituency was told no?
+
+What risk was accepted despite investor enthusiasm?
+
+What product was delayed despite customer demand?
+
+What employee complaint changed the plan?
+
+What regulator’s concern was incorporated before enforcement?
+
+A leader who never disappoints a constituency may be unusually gifted.
+
+More likely, someone else is paying the cost.
+
+Public pressure should therefore look for tradeoffs rather than statements of values. When a chief executive says privacy matters, what revenue was forgone to protect it? When safety matters, what shipment moved? When workers matter, what productivity gain was shared? When openness matters, what control was relinquished? When competition matters, what interoperability was accepted?
+
+Not every value needs a dramatic sacrifice to be real. Values should occasionally constrain something the institution wanted.
+
+Otherwise they are descriptions of outcomes the company preferred anyway.
+
+This standard is demanding because it applies symmetrically. Critics who say accountability matters should accept accurate explanations even when the explanation reduces the CEO’s personal culpability. Legislators who demand transparency should respect legitimate security and privacy limits. Journalists should distinguish governance failures from product failures. Employees should distinguish disagreement with strategy from evidence of misconduct.
+
+The purpose is not to make leadership comfortable.
+
+It is to make leadership legible.
+
+A visible executive can become a useful accountability interface if the person’s public role is connected to the company’s actual systems of authority and information. The CEO can then answer at the right level: not whether one customer’s appeal was correct, but whether the company funds appeals adequately; not whether one model output was false, but what standard governs deployment; not whether one employee was upset, but whether dissent can reach independent review.
+
+Those answers are less cinematic than the hearing clip.
+
+They are more valuable.
+
+The future of corporate accountability will not depend on making chief executives less visible. Technology has moved in the opposite direction, and many leaders prefer it that way.
+
+It will depend on ensuring that the interface is connected to something behind it.
+
+A company that lets one person become the face of its future should build institutions strong enough that the face does not have to become the explanation for everything else.
