@@ -2,25 +2,7 @@
 
 The modern economy contains a quiet tax on people who mean to do something later.
 
-Cancel the free trial.
-
-Compare the renewal.
-
-Submit the rebate.
-
-Return the shoes.
-
-Call about the bill.
-
-Use the travel credit.
-
-File the warranty claim.
-
-Challenge the duplicate charge.
-
-Switch the plan.
-
-Redeem the gift card.
+Cancel the free trial. Compare the renewal. Submit the rebate. Return the shoes. Call about the bill. Use the travel credit. File the warranty claim. Challenge the duplicate charge. Switch the plan. Redeem the gift card.
 
 The amounts are often too small to command immediate attention and large enough to matter in aggregate. Businesses know this. Household budgets know it too, usually after the fact.
 
@@ -130,9 +112,39 @@ A benefit must either be real enough to survive full use or constrained clearly 
 
 Subscription cancellation offers the clearest battlefield because it combines money, inertia, regulation, and interface design.
 
-Companies have experimented with cancellation flows that require extra clicks, surveys, calls, chats, retention offers, or warnings. Regulators in several jurisdictions have tried to make cancellation more symmetrical with signup. The basic consumer principle is intuitive: if a service can be purchased easily, leaving should not be artificially difficult.
+The policy history is a warning against treating regulation as a switch that flips friction off.
 
-Agents make the principle operational even when regulation is incomplete.
+In 2024 the Federal Trade Commission finalized an amended negative-option rule whose best-known provision was widely described as click-to-cancel. The basic idea was symmetry: if a recurring service can be entered through a simple channel, ending it should not require an obstacle course. The rule was supposed to reach well beyond one industry.
+
+Then the legal machinery moved.
+
+In July 2025 the Eighth Circuit vacated the amended rule on procedural grounds. The older rule remained, other laws still applied, and state requirements did not disappear, but the broad federal reform no longer supplied the simple nationwide answer many headlines had implied. In March 2026 the Commission opened another rulemaking inquiry. In its own notice, it said complaints about negative-option practices had risen from at least thirty-three per day in late 2020 to more than ninety per day in 2025.
+
+The point is not that regulation failed.
+
+The point is that institutions have latency too.
+
+A legislature writes a statute. An agency interprets it. A rule is proposed, challenged, revised, litigated, vacated, replaced, or enforced through individual cases. Companies change interfaces while law changes around them. Consumers live inside the transition.
+
+An agent operates at a different layer. It cannot create a legal right that does not exist. It can reduce the cost of using the rights and contractual options that already do.
+
+That distinction matters.
+
+The Federal Trade Commission’s pending case against Uber illustrates it. As of May 2026, the Commission alleged that Uber One used negative-option billing practices, charged some consumers without proper consent, and failed to provide a simple cancellation mechanism despite representations that users could cancel at any time. Uber disputes the government’s claims; the case is litigation, not a final finding of liability.
+
+For this book, the important fact is not which party ultimately wins.
+
+The important fact is what enforcement still has to prove transaction by transaction: what the user was told, what consent was obtained, what the cancellation path actually did, when the charge occurred, and whether the promised exit was real.
+
+Those are exactly the records a competent consumer agent should preserve.
+
+The agent does not replace the regulator. It makes the consumer a better archivist.
+
+It can timestamp the offer. Save the renewal notice. Record the cancellation attempt. Preserve the confirmation number. Compare the charge with the represented billing date. Escalate only when the merchant’s system does not do what the contract or law appears to require.
+
+That changes the evidentiary balance in small disputes.
+
+A person arguing from memory against a company database is weakly positioned. A person whose agent retained the relevant transaction state has a better chance of resolving the matter without heroic persistence.
 
 The system can navigate the path.
 
@@ -164,19 +176,7 @@ With records, a new kind of consumer audit becomes possible.
 
 The agent can maintain a household ledger of promises.
 
-Delivery by Tuesday.
-
-Price locked for twelve months.
-
-No cancellation fee.
-
-Two-year warranty.
-
-Refund within ten business days.
-
-Points expire in December.
-
-Free replacement if damaged.
+Delivery by Tuesday. Price locked for twelve months. No cancellation fee. Two-year warranty. Refund within ten business days. Points expire in December. Free replacement if damaged.
 
 The commercial system can then be judged against its own commitments.
 
