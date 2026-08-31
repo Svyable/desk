@@ -28,6 +28,16 @@ The distinction is easy to miss because American health policy tends to place re
 
 Montana has attempted something else. It moves the eligibility boundary outward while constructing state oversight around the new territory.
 
+The rulemaking record makes that design unusually explicit. A commenter asked the department to create an expedited review pathway for time-sensitive safety questions. The Office of Inspector General agreed to require the treatment review board to meet at least monthly, but rejected the expedited pathway. Its reasoning was direct: treatments should not be administered before board approval, safety evaluations must occur before approval, and the agency did not want the rules to facilitate rushing that review.
+
+That is a revealing institutional choice.
+
+The legislature created a pathway because ordinary access can be too slow. The implementing agency then refused to make speed the governing value inside the new pathway.
+
+Permission expanded.
+
+Friction returned in a different form.
+
 Whether that construction is strong enough is an empirical question. Whether the state has authority to solve every federal legal problem is a constitutional and statutory question. But neither can be answered fairly by pretending the state simply repealed regulation.
 
 The definition of experimental treatment is the first place to look.
