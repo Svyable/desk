@@ -209,3 +209,115 @@ That makes control more valuable.
 Crypto learned the lesson first because money turns trust failures into numbers quickly.
 
 The rest of the economy is about to learn it in slower forms.
+
+The phrase “trustless system” is therefore useful only when accompanied by a question: trustless with respect to what?
+
+Bitcoin can reduce the need to trust a central ledger operator about the state of the Bitcoin ledger. It does not remove the need to trust software you install, hardware you purchase, an exchange that holds keys for you, a bridge between systems, the tax adviser explaining your obligations, the person offering an investment, or your own ability to protect credentials.
+
+Every technical reduction in one trust dependency can create demand for another service around it.
+
+Custody is the clearest example. Holding one’s own cryptographic keys preserves a form of direct control. It also imposes a severe operational burden. Lose the keys and there may be no customer-service desk capable of restoring them. Many users therefore choose custodians. The moment they do, old financial questions return.
+
+Where are the assets?
+
+Are customer assets segregated?
+
+Who can move them?
+
+What records exist?
+
+What happens in insolvency?
+
+Who audits the institution?
+
+Which regulator has jurisdiction?
+
+The protocol can be radically new while the custody problem is ancient.
+
+This is why proof-of-reserves discussions after exchange failures were both useful and incomplete. Demonstrating control of certain on-chain assets can provide evidence. It does not automatically reveal liabilities, off-chain obligations, related-party exposures, or the legal rights customers have against the entity. A snapshot of assets is not a full audit of a business.
+
+Verification needs scope.
+
+AI will create the same problem in other industries. A company can publish a model benchmark without revealing operational incentives. It can demonstrate a safety control without showing how often the control is bypassed. It can produce a provenance signal without proving the underlying claim is true.
+
+Crypto teaches a discipline that transfers well: verify the thing the evidence actually verifies.
+
+Nothing more.
+
+The lesson is especially valuable for celebrity and influencer promotion. A famous person’s involvement can verify that the famous person was paid or chose to promote something. It does not verify the investment. Synthetic media weakens even that limited signal because the endorsement itself may be fake.
+
+The rational response is not to distrust every public figure.
+
+It is to stop treating endorsement as diligence.
+
+The same applies to venture capital. A respected fund’s investment establishes that the fund invested. It may imply that some diligence occurred. It does not transfer the fund’s information or risk tolerance to the retail customer. Investors can be wrong. They can accept risks other people cannot afford. They can rely on contractual rights unavailable to ordinary users.
+
+Social proof is information about people.
+
+It is not information about solvency unless the people have actually verified solvency.
+
+This distinction sounds obvious after FTX. During a boom, social proof compounds because every participant can point to the others.
+
+The celebrity points to the company.
+
+The customer points to the investors.
+
+The investors point to the founder and market growth.
+
+The policymaker points to the company’s regulatory engagement.
+
+The journalist points to the prestigious backers.
+
+Everyone possesses a reason to believe somebody else checked.
+
+This is outsourced skepticism.
+
+Fraud thrives inside it.
+
+Artificial intelligence can scale outsourced skepticism by creating even more apparent validators. A fake platform can have analysts, customers, lawyers, executives, media mentions, ratings, and support staff, all generated or controlled by one operation. A victim looking for independent confirmation may unknowingly move through several pages of the same fiction.
+
+Search and AI assistants will therefore need to become more sensitive to source independence. Ten pages repeating a claim are not ten sources if they all derive from one press release or one scam network. A trustworthy synthesis system should care about the graph behind the text.
+
+Human investigators already do.
+
+Who originated the claim?
+
+Who independently verified it?
+
+Who has money at risk?
+
+Who has authority to certify the relevant fact?
+
+These are due-diligence questions that AI can help answer but should not replace.
+
+There is a policy implication too. Regulators should resist the temptation to certify whole technologies as legitimate or illegitimate. Regulatory registration, licensure, or compliance may establish specific facts. It should not become a halo. Criminals routinely exploit the appearance of government approval because citizens confuse an institution’s narrow jurisdiction with a general endorsement.
+
+The same risk arises when legitimate companies advertise compliance. “Regulated” can mean many things. The user needs to know regulated for what.
+
+Financial systems are full of such boundaries because money makes them unavoidable. A bank account, brokerage account, cryptocurrency wallet, payment app, and investment fund may each have different protections and legal structures even when they appear side by side on a phone.
+
+The interface smooths the differences.
+
+The law does not.
+
+Crypto backlash was partly the discovery that digital interfaces can make fundamentally different forms of risk look equivalent.
+
+AI will smooth many more boundaries. A generated answer can make an advertisement look like advice. A chatbot can make a vendor look like a professional. A synthetic executive can make a criminal look like an institution. The presentation becomes continuous while the underlying rights remain discontinuous.
+
+This is why boring verification becomes more valuable as interfaces improve.
+
+Ask what legal entity holds the asset.
+
+Ask what authority the adviser has.
+
+Ask what the regulator actually regulates.
+
+Ask whether the endorsement is authenticated.
+
+Ask what happens if the institution fails.
+
+The person in shorts was easy to remember.
+
+The balance sheet was harder.
+
+Public pressure becomes useful when it learns to prefer the harder object.
