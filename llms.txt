@@ -33,6 +33,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Make Yourself Useful](https://svyable.github.io/desk/books/make-yourself-useful/README.md)
 - [Predictable](https://svyable.github.io/desk/books/predictable/README.md)
 - [Proof of Human](https://svyable.github.io/desk/books/proof-of-human/README.md)
+- [Public Pressure](https://svyable.github.io/desk/books/public-pressure/README.md)
 - [Scaling Laws](https://svyable.github.io/desk/books/scaling-laws/README.md)
 - [Silent Cartel](https://svyable.github.io/desk/books/silent-cartel/README.md)
 - [Single Points of Failure](https://svyable.github.io/desk/books/single-points-of-failure/README.md)
