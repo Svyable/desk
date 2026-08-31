@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **53 books · 18 complete drafts · 1 in revision · 34 drafting**
+> **54 books · 19 complete drafts · 1 in revision · 34 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -68,6 +68,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✍️ Drafting | 10 / 11 | ~38K | Liquidity is voluntary behavior, not a permanent resource—and it can disappear precisely when algorithms, leverage, ETFs, and crowded systems all need it most. | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 / 12 | ~45K | A sensory tour of the physical and social systems hidden underneath ordinary convenience: infrastructure, logistics, standards, maintenance, and stored complexity. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | ~20K | Recover elementary truths before cleverness outruns reality: the real objective, binding constraint, earliest veto, broken hand-off, actual incentive, and next concrete action. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
+| [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | 20 / 20 | ~70K | AI can turn falling cognitive costs into shared public capability—if institutions solve governance, access, maintenance, energy, rights, dual use, and where the productivity surplus goes. | [Read →](https://svyable.github.io/desk/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | 20 / 20 | ~70K | AI raises the floor of competent digital work, compresses narrow expertise, and shifts durable advantage toward consequence, verification, physical systems, trust, and cross-domain curiosity. | [Read →](https://svyable.github.io/desk/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | 25 / 25 | ~90K | Open and noisy quantum systems, ambient effects, energy and material interfaces—carefully separating measured evidence from models and speculation. | [Read →](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
 | [**Vectors**](books/vectors/) | ✍️ Drafting | 4 / 25 | ~15K | Vectors from physics through embeddings, search, recommendation, and agents—with the deeper question of who chooses the space and therefore the direction. | [Read →](https://svyable.github.io/desk/reader/#/b/vectors/) |
