@@ -427,3 +427,201 @@ Power should remain subordinate to someone who can be held responsible for using
 That person does not need to press every button.
 
 The institution does need to know who answers when the button presses itself.
+
+The next step is to give the button an identity.
+
+Agentic systems should not appear inside an organization as generic automation. A consequential agent needs an institutional identity tied to a principal, a purpose, a permission set, and a lifetime.
+
+Which department owns it?
+
+Which employee or role launched it?
+
+Which credentials can it use?
+
+Which model and tools does it rely on?
+
+When do those credentials expire?
+
+Who receives an alert when it crosses a threshold?
+
+An agent without this information is the software equivalent of an employee badge that says only “someone from the company.”
+
+The identity does not have to be public. It has to be resolvable by the institution and, where necessary, by affected parties or regulators.
+
+This becomes more important when agents delegate to agents.
+
+A general assistant asks a coding agent to modify software. The coding agent calls a deployment tool. The deployment tool invokes a cloud service. A monitoring agent later decides whether the change is healthy. The action chain can cross several vendors and credentials without one human seeing every step.
+
+Nested delegation creates an authority graph.
+
+The graph should be inspectable.
+
+Which principal ultimately authorized the chain?
+
+Which node expanded authority?
+
+Which tool executed the irreversible action?
+
+Where could the chain have been stopped?
+
+Traditional access logs answer part of this. Agent governance needs the semantic layer: not merely which token called an API, but what authority the token represented and for what purpose.
+
+This suggests a blast-radius budget.
+
+Every automated system should have some upper bound on the damage one uncontrolled execution can create.
+
+Money per transaction.
+
+Records per deletion.
+
+Customers per outbound campaign.
+
+Systems per configuration change.
+
+Time before human confirmation.
+
+Permissions per agent.
+
+The exact unit depends on the domain.
+
+The idea is old. Circuit breakers limit markets. Rate limits constrain software. Corporate cards have spending caps. A junior employee has signature authority only up to a threshold.
+
+AI agents should not be special merely because they can reason across tasks.
+
+Reasoning is not a reason for unlimited authority.
+
+A blast-radius budget also improves experimentation. Organizations can deploy new capabilities inside small scopes, observe failures, and widen permissions as evidence accumulates. This is more useful than debating whether an agent is “safe” in the abstract.
+
+Safety becomes graduated authority.
+
+The system earns more power through performance.
+
+That principle works in human organizations too. New employees receive limited access. Pilots advance through certification. Financial traders operate under limits. The organization does not need metaphysical certainty about competence before granting any responsibility.
+
+It grants responsibility proportionally.
+
+Credential expiration is another underappreciated control.
+
+AI agents can continue acting after the human context that justified them has changed. A project ends. An employee leaves. A vendor relationship changes. A temporary emergency permission becomes permanent because nobody remembers to remove it.
+
+Authority should decay unless renewed.
+
+Short-lived credentials, time-bound scopes, task-specific permissions, and automatic revocation after inactivity create a governance default opposite to institutional accumulation.
+
+Power expires.
+
+This is especially valuable for agents because copying software is cheap. Organizations may create hundreds of specialized automations that outlive the teams that built them. An inventory of active agent identities becomes as important as an inventory of service accounts.
+
+Someone has to know what is still acting for the company.
+
+Emergency stopping deserves the same realism.
+
+“Kill switch” sounds reassuring because it implies one red button can end the problem. Distributed systems rarely behave so cleanly. An agent may have queued messages, opened downstream tasks, created credentials, moved data, or triggered another system before the switch is pressed.
+
+Stopping authority requires containment planning.
+
+Can credentials be revoked centrally?
+
+Can queued actions be cancelled?
+
+Can the organization freeze a class of transactions?
+
+Can it identify which systems received the agent’s output?
+
+Can it restore the prior state?
+
+Can it communicate to affected people quickly?
+
+The emergency control is a recovery architecture, not a button.
+
+This is where disaster recovery and AI governance converge.
+
+The organization should rehearse the stop.
+
+Cybersecurity teams run incident exercises because plans behave differently under pressure. Agentic organizations should simulate a runaway or compromised agent in the same way.
+
+Who notices?
+
+Who has authority to disable it?
+
+What if the owner is unavailable?
+
+How is business continuity preserved while the automation is offline?
+
+How does the company know the incident is over?
+
+Testing the stop is more informative than publishing that a stop exists.
+
+Responsibility matrices become necessary as the chain grows.
+
+The model provider owns some properties of the model.
+
+The application vendor owns orchestration.
+
+The deployer owns business context and permissions.
+
+The operator owns supervision.
+
+A licensed professional may own the final judgment.
+
+The cloud provider owns infrastructure reliability within defined terms.
+
+The user owns certain instructions.
+
+No one actor owns everything.
+
+The matrix should state who is responsible, accountable, consulted, and informed for specific failure classes before a crisis forces the mapping.
+
+This is not bureaucratic decoration if it identifies a person with authority to act.
+
+The worst responsibility matrix says everyone is responsible.
+
+That means no one is.
+
+The best one attaches each risk to the actor with knowledge and control, while preserving an escalation path when the risk crosses boundaries.
+
+The CEO’s obligation lives at this level.
+
+Not to understand every model token.
+
+To require an authority architecture proportionate to what the company is delegating.
+
+The board’s obligation is similar.
+
+What classes of action are machines now allowed to take without contemporaneous human approval?
+
+What is the maximum plausible loss from one failure?
+
+Which systems can move money, alter customer rights, publish externally, change production software, or access sensitive data?
+
+Who can stop them?
+
+How often are those controls tested?
+
+These are board questions because they concern delegated corporate power.
+
+Agentic AI makes software governance look more like organizational governance because the software is entering the chain of authority rather than merely the chain of information.
+
+The accountable machine is therefore not a machine with morals.
+
+It is a machine inside an institution with boundaries.
+
+Identity.
+
+Authority.
+
+Expiration.
+
+Traceability.
+
+Independent checks.
+
+A recoverable state.
+
+A principal.
+
+A remedy.
+
+The future argument will often ask whether the agent was autonomous.
+
+The more useful question will be whether the institution was.
