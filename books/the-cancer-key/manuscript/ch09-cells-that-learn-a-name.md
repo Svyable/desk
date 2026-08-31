@@ -1,0 +1,217 @@
+# Cells That Learn a Name
+
+A vaccine asks the body to build an immune response.
+
+Cell therapy can build part of the response outside the body and give it back.
+
+That distinction makes neoantigens bigger than vaccines.
+
+If a tumor-specific mutation creates a useful peptide-HLA target, several technologies can exploit it. A vaccine can teach existing T cells to recognize the target. Tumor-infiltrating lymphocytes can be collected from a tumor and expanded if some already recognize it. A T-cell receptor can be identified, cloned and introduced into other lymphocytes. In principle, the same molecular address can support different kinds of treatment.
+
+The neoantigen is the destination.
+
+The vehicle can change.
+
+This is why the work of Steven Rosenberg's group at the National Cancer Institute belongs near the center of the story.
+
+Long before personalized vaccine companies were running Phase 3 trials, NCI investigators were asking whether a patient's own immune cells could be turned into an anticancer drug.
+
+Tumor-infiltrating lymphocyte therapy begins with an observation that is easy to miss in a pathology report.
+
+Some tumors contain T cells.
+
+Those lymphocytes did not arrive randomly. At least some were responding to signals in the tumor environment. Researchers could remove a piece of tumor, isolate the infiltrating cells, expand them in the laboratory and return billions of them to the patient after a preparative regimen designed to create space for the infused cells.
+
+In metastatic melanoma, this produced durable complete regressions in a subset of patients.
+
+The method was difficult.
+
+It required surgery to obtain tumor tissue, specialized cell-culture facilities, lymphodepleting chemotherapy, high-intensity supportive care and, in early protocols, high-dose interleukin-2. It looked less like prescribing a medicine and more like running a temporary biological factory around one patient.
+
+But the responses revealed something important.
+
+The immune system was capable of eradicating large established tumors in humans.
+
+The next question was what successful T cells were seeing.
+
+As sequencing improved, researchers increasingly identified mutation-derived antigens among the targets recognized by effective tumor-reactive lymphocytes. The cell-therapy program and the neoantigen program began to merge.
+
+A vaccine starts with sequence and asks the immune system to find the right cells.
+
+Adoptive therapy can start with the cells and ask what sequence they found.
+
+The two directions meet at the T-cell receptor.
+
+Every T cell carries a receptor created through genetic rearrangement. The receptor can recognize a particular peptide displayed by a particular HLA molecule. If investigators discover a T cell that reacts strongly and specifically against a cancer neoantigen, they can identify the genes encoding its receptor.
+
+Those genes become transferable instructions.
+
+A patient's other T cells can be engineered to express the tumor-reactive receptor, expanded and returned to the patient.
+
+This is personalized TCR therapy.
+
+The approach offers a way around one limitation of vaccination.
+
+A vaccine depends on the body generating or expanding a sufficiently useful T-cell population. If the relevant receptors are rare, exhausted or absent, the immune response may remain weak.
+
+TCR engineering can select a receptor outside the patient and manufacture a large population of cells carrying it.
+
+The cost is complexity and risk.
+
+The receptor must be highly specific. T cells are potent. A receptor that cross-reacts with a similar peptide on healthy tissue can cause severe toxicity. The HLA restriction narrows the eligible patient population. The tumor must continue to express and present the target. Cell manufacturing requires collection, genetic modification, expansion, quality testing and specialized administration.
+
+The address has to be right because the vehicle is armed.
+
+This is where neoantigens offer an attractive safety logic.
+
+A truly tumor-specific mutation should be absent from normal tissue. A receptor recognizing the mutation-derived peptide could therefore discriminate cancer from healthy cells more cleanly than a receptor targeting a shared self-antigen.
+
+The word should matters.
+
+Peptide recognition is contextual. Receptors can cross-react. A mutation-derived peptide can resemble another normal peptide. HLA molecules can present unexpected sequences. Preclinical testing reduces risk but cannot make biology perfectly predictable.
+
+Personalization again means more than matching.
+
+It means rebuilding the therapeutic object around the match.
+
+In 2024, NCI researchers reported an early study of personalized TCR-engineered cell therapy in metastatic colorectal cancer. Investigators identified T-cell receptors against mutations in each patient's tumor, engineered lymphocytes to carry selected receptors and treated seven patients. Three experienced substantial tumor shrinkage lasting several months.
+
+The study was small and preliminary.
+
+Its importance was conceptual.
+
+Solid tumors had remained much harder for engineered-cell therapies than blood cancers. CAR-T products had transformed parts of leukemia, lymphoma and myeloma by targeting surface proteins such as CD19 or BCMA. Those targets are accessible because CARs recognize molecules directly on the cell surface without requiring HLA presentation.
+
+Most solid tumors do not offer equally clean shared surface targets.
+
+Neoantigen-specific TCR therapy opens the much larger universe of intracellular proteins because ordinary cellular processing can present their peptide fragments through HLA.
+
+The target space expands dramatically.
+
+So does the manufacturing problem.
+
+A CAR-T product can use the same receptor construct for many patients whose cancers express the shared target. A personalized neoantigen TCR program may need to discover a different receptor for each patient.
+
+The therapy therefore contains two searches.
+
+Find the target.
+
+Find the receptor.
+
+Either search can fail.
+
+A tumor may carry mutations that produce no useful presented peptides. A useful peptide may exist but the patient's available lymphocytes may contain no receptor with the desired properties. A receptor may recognize the target but have poor functional activity. Manufacturing may take too long for the patient's disease.
+
+This is why shared driver neoantigens are so commercially attractive.
+
+Some oncogenic mutations recur across many patients. KRAS is the obvious example. Particular mutant peptides can be presented by particular HLA alleles. If a company identifies a potent receptor against a recurrent mutation-HLA combination, the same receptor can potentially be used for multiple people.
+
+The product begins to move from bespoke toward library-based.
+
+A shelf of validated receptors could cover subsets of patients.
+
+The patient would still require sequencing and HLA typing, but the discovery phase could become a matching phase. Manufacturing cells would remain individualized, yet the receptor itself would be standardized.
+
+This hybrid model resembles a blood bank more than a bespoke tailor.
+
+The inventory is not useful to everyone, but pre-existing inventory changes the speed and economics of care.
+
+The same logic may eventually apply to vaccines.
+
+A library of well-validated shared neoantigens could support semi-personalized products, with private mutations added where necessary. The frontier is therefore not a competition between fully personalized and off-the-shelf medicine.
+
+It is a search for the cheapest level of personalization that preserves the relevant biological specificity.
+
+That sentence has enormous commercial consequences.
+
+Every layer that can be standardized can be scaled.
+
+Every layer that remains patient-specific adds variable cost, scheduling risk and quality-control burden.
+
+Cell therapy shows how far the healthcare system can stretch to accommodate complexity when the benefit is large enough.
+
+The FDA approved the first CAR-T therapies in 2017. Treatment centers learned to collect cells, manage manufacturing slots, receive cryopreserved products and treat cytokine release syndrome and neurological toxicities. Payers learned to cover therapies with list prices measured in hundreds of thousands of dollars. Hospitals built programs around products that could not simply be stocked in a pharmacy.
+
+The system adapted because some patients with otherwise lethal blood cancers experienced deep, durable remissions.
+
+Clinical benefit can pull infrastructure into existence.
+
+That lesson matters for neoantigen therapies.
+
+If a personalized vaccine reduces melanoma recurrence substantially, hospitals will solve logistics that currently look inconvenient. If individualized TCR therapy produces durable responses in common solid tumors, cell-manufacturing networks will expand. If the benefits are modest, the same complexity will become economically heavy.
+
+The threshold is not scientific possibility.
+
+It is value per unit of complexity.
+
+This is also where private capture can become structurally concentrated.
+
+Cell therapy requires specialized factories, quality systems and treatment centers. A company that owns a validated receptor library, a manufacturing platform and the clinical data connecting mutations to responses can control a large portion of the therapeutic chain.
+
+Public institutions have been central to creating the underlying knowledge.
+
+NCI laboratories conducted decades of adoptive-cell research, treated patients in experimental protocols and published methods and target discoveries. Academic centers developed TCR sequencing, gene-transfer technologies and tumor-immunology assays. Federal research grants supported the biology that made the field possible.
+
+Private companies then licensed intellectual property, hired teams, simplified manufacturing and built commercial products.
+
+Iovance Biotherapeutics provides one example from the neighboring TIL field. Its lifileucel product, Amtagvi, became the first FDA-approved cellular therapy for unresectable or metastatic melanoma in 2024. It is not a neoantigen-selected product, but it commercialized a treatment class deeply connected to decades of public-sector TIL research.
+
+The case illustrates both sides of the bargain.
+
+Without public laboratories willing to spend years refining a difficult therapy, the commercial opportunity might never have existed.
+
+Without a company willing to turn the process into an inspected, reproducible product and run the necessary trials, the therapy might have remained concentrated in a few academic centers.
+
+The social question is not whether one side deserves to exist.
+
+It is whether the translation mechanism distributes benefit as broadly as the public contribution suggests it should.
+
+Cell therapies make access inequality visible because capacity is physical.
+
+A patient cannot download a TIL infusion. Cells have to be harvested, shipped, expanded, tested and returned. Specialized centers need trained teams. Severe toxicity can require intensive care.
+
+Vaccines may eventually be easier.
+
+A patient-specific mRNA product can potentially be manufactured centrally and administered in an outpatient setting. Synthetic peptide vaccines can be shipped. The clinical footprint can shrink.
+
+That lower footprint may make vaccines more accessible.
+
+It may also make experimental versions easier to sell outside rigorous trials.
+
+The difficulty of cell therapy acts as an accidental barrier to low-quality imitation. A clinic cannot easily fake a commercial CAR-T manufacturing chain.
+
+A peptide vaccine is easier to mimic at the surface level.
+
+Sequence the tumor. Choose peptides. Synthesize them. Mix with an adjuvant. Inject.
+
+Each step is technically real.
+
+The missing asset may be evidence.
+
+This contrast will shape the mini-clinic frontier. The simpler the physical delivery becomes, the more regulation and transparent data have to carry the burden of quality distinction.
+
+There is a deeper scientific reason to keep vaccines and cell therapy in the same book.
+
+They can rescue each other's weaknesses.
+
+A vaccine can expand engineered or naturally occurring T cells after infusion. Cell therapy can provide receptors against targets a vaccine alone failed to exploit. Checkpoint blockade can sustain both. Cytokines can support proliferation. Surgery can reduce tumor burden before either is used. Circulating tumor DNA can identify recurrence early enough for immune intervention.
+
+The future regimen may be assembled across modalities rather than owned by one.
+
+That possibility creates an unusual competitive landscape.
+
+Moderna and BioNTech can succeed in vaccines without defeating cell-therapy companies. A TCR company can validate neoantigens without making mRNA. A sequencing company can profit from all of them. Merck can benefit because checkpoint blockade becomes the foundation on which other immune therapies are added.
+
+The key sits below the products.
+
+The same target can create value at multiple layers.
+
+This is why neoantigens are better understood as a therapeutic primitive than as a drug category.
+
+A mutation becomes a target.
+
+The target can become a vaccine sequence, a peptide, a receptor, a monitoring assay or a criterion for patient selection.
+
+Once medicine can name the cancer precisely enough, several kinds of machinery can learn the name.
+
+T cells happen to be the machinery that can kill.
