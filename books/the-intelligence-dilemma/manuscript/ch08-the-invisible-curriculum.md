@@ -2,9 +2,7 @@
 
 Every school has two curricula.
 
-There is the one in the documents.
-
-It has standards, units, lessons, reading lists, assessments, calendars, learning objectives, and approved software.
+There is the one in the documents: standards, units, reading lists, assessments, calendars, learning objectives, approved software.
 
 Then there is the one students teach one another.
 
@@ -14,29 +12,21 @@ Which class requires the whole reading.
 
 Which assignments can be finished from the slides.
 
-How to make a presentation look prepared when the group started last night.
+Where to find old exams.
 
-Which websites explain calculus better than the textbook.
+How much the rubric really matters.
 
-How to search for old exams.
-
-How to ask a classmate for help without making it sound like asking for the answer.
-
-How much a rubric matters.
-
-How much a deadline really means.
+Which website explains calculus better than the textbook.
 
 Students have always learned the institution socially.
 
-AI has entered through this second curriculum faster than the first.
+AI entered through this second curriculum faster than the first.
 
-Before many schools could decide what they believed about generative AI, students were already deciding what it was for.
+Before many schools had decided what they believed about generative AI, students were already deciding what it was for.
 
 Summarize this.
 
 Fix this paragraph.
-
-Give me the answer.
 
 Explain number seven.
 
@@ -44,350 +34,246 @@ Make this sound less like AI.
 
 Turn these notes into flash cards.
 
-Tell me what the teacher wants.
-
-Write an email asking for an extension.
-
-Translate this.
+Write the email asking for an extension.
 
 Check my code.
-
-Give me three ideas.
 
 Quiz me.
 
 Do it shorter.
 
-Do it better.
-
 Do it for me.
 
-These uses do not arrive in a neat pedagogical order.
+These habits did not arrive in a neat pedagogical order. They spread the way practical student knowledge usually spreads: through friends, siblings, group chats, videos, screenshots, rumors, and demonstrations over a shoulder.
 
-They spread the way practical knowledge usually spreads among students: through friends, siblings, group chats, videos, screenshots, rumors, demonstrations over a shoulder, and the immediate discovery that one approach saves twenty minutes.
+By the time an institution publishes an AI policy, students may already have a year of practice.
 
-By the time an institution publishes an AI policy, students may already have a year of habits.
+This matters because policy is not the same as curriculum.
 
-This matters because policy is not the same as practice.
+A school can prohibit generative AI and still teach students a great deal about it.
 
-A school can prohibit generative AI and still have an AI curriculum.
+Students learn which tools evade blocks, which assignments are easiest to automate, which teachers are likely to notice, and whether disclosure creates safety or risk.
 
-The curriculum just becomes covert.
+A university can encourage responsible AI use and still leave the operative curriculum mostly unwritten.
 
-Students learn which tools evade blocks, which assignments are easiest to automate, which teachers are likely to notice, how to rewrite output, and how much disclosure creates risk.
+Students discover that one professor welcomes the tool, another forbids it, a third says nothing, and a fourth permits “brainstorming” without explaining where brainstorming ends and composition begins.
 
-A university can encourage responsible AI use and still have an AI curriculum.
+The inconsistency itself becomes instruction.
 
-Students learn that one professor welcomes it, another forbids it, a third has not mentioned it, and a fourth says it is permitted for brainstorming but cannot explain where brainstorming ends and composition begins.
-
-Inconsistency becomes instruction.
-
-Students learn not merely how to use the technology.
-
-They learn how institutions respond to ambiguity.
+Students learn how the institution behaves under ambiguity.
 
 This is the invisible curriculum of AI.
 
-It is being written before schools finish the visible one.
+It is being written by peers, households, instructors, and product interfaces at the same time schools are trying to write the visible one.
 
-The scale is no longer speculative.
+Student adoption is no longer speculative.
 
-Large student surveys in higher education now find generative AI use to be common or near universal, with substantial numbers of students using it in assessed work. Other multi-institution surveys find widespread use for editing, summarizing, idea generation, explanation, and problem solving. The exact percentages move with country, sample, age, and wording, but the direction is clear.
+Recent higher-education surveys in the United Kingdom, Australia, and other multi-country samples report widespread generative-AI use for editing, summarizing, idea generation, explanation, and assessed work. The exact percentages vary substantially by population, country, wording, and method, and they should not be generalized to younger students.
 
-Students did not wait for consensus.
+The more durable finding is simpler.
 
-That should change the policy question.
+Students did not wait for institutional consensus.
 
-The relevant choice is rarely between introducing AI and preserving an AI-free environment.
+That changes the practical choice schools face.
 
-In many settings, the choice is between guided use and unguided use.
+In many settings, the choice is no longer between introducing AI and preserving an untouched environment.
 
-Those are different worlds.
+It is between guided use and use whose guidance comes from somewhere else.
 
-Consider two students in the same English class.
+Consider two students in the same class under the instruction to “use AI responsibly.”
 
-The teacher has said only that students should "use AI responsibly."
+One has a parent who works with the technology. They have discussed hallucinations, source verification, privacy, and the difference between asking for criticism and asking for replacement work. The student knows how to give the model context and how to check it against the assigned material.
 
-One student has a parent who works in technology. At home, they have discussed hallucinations, source verification, privacy, and the difference between asking for feedback and asking for a replacement draft. The student uses a paid model with file uploads, gives it the assignment rubric, asks for criticism of a thesis already written, and checks suggestions against the book.
+The other first learned the tool from a short video showing how to paste in an assignment prompt and request a polished answer.
 
-The other student first learned the tool from a short video showing how to paste an assignment prompt into a chatbot. The student uses the free version, has no reason to distinguish a confident answer from a reliable one, and has mostly learned that longer prompts produce more polished output.
+Both have access.
 
-Both students have "access to AI."
+They have not received the same education.
 
-They do not have the same curriculum.
+This is one reason institutions should be careful about vague responsible-use language.
 
-This is why access is an incomplete measure of educational equality.
+When the formal rule does not explain the educational boundary, students have to infer it.
 
-When technologies become cheap, advantage often moves upward from ownership to use.
+The most institutionally confident students can ask for clarification. Others may decide that asking makes them look suspicious. Some will imitate high-performing peers. Others will imitate the fastest workflow they see online.
 
-At first the question is who has the device.
+A rule that exists only after a student has guessed wrong is not much of a teaching rule.
 
-Then who has the broadband.
+The invisible curriculum grows partly because students are rational.
 
-Then who has the software.
-
-Then who knows what to do with it.
-
-Then who has enough knowledge to recognize when the software is wrong.
-
-Then who has an adult, teacher, tutor, or peer who can model good use.
-
-Then who attends an institution that has made its expectations coherent.
-
-The scarce resource migrates.
-
-AI can make high-quality intellectual assistance cheap while leaving judgment unevenly distributed.
-
-This is not a reason to keep the tool scarce.
-
-It is a reason to stop pretending distribution solves instruction.
-
-A school that buys licenses for every student has solved one problem.
-
-It has not solved the curriculum.
-
-The invisible curriculum develops partly because students are rational.
-
-They face deadlines, grades, sports, work, family obligations, applications, social pressure, and an endless queue of assignments whose importance varies wildly. A tool that reduces time will be used to reduce time.
+They face deadlines, jobs, sports, applications, family obligations, and a queue of assignments whose educational value varies. A tool that saves time will be used to save time.
 
 Adults do the same thing.
 
-The interesting question is what the time-saving behavior teaches.
+The interesting question is what the shortcut teaches about the task.
 
 Suppose a student discovers that a weekly reading response can be generated in ninety seconds and still receive full credit.
 
-The student has learned something accurate about AI.
+The student has learned something about AI.
 
-The student has also learned something accurate about the assignment.
+The student has also learned something about the assignment.
 
 It was possible to satisfy the institution without doing the activity the institution supposedly valued.
 
-That lesson can spread faster than any official guidance.
+That lesson travels quickly.
 
-Students are unusually good auditors of meaningless work because they are forced to do so much of it.
+AI gives students an unusually sharp instrument for auditing school-shaped work.
 
-AI gives the audit teeth.
+An assignment that survived partly because manual completion was inconvenient becomes fragile when the inconvenience disappears.
 
-An assignment that survives only because manual completion was inconvenient becomes fragile when inconvenience disappears.
+Schools can treat that only as defiance.
 
-Schools can react by increasing enforcement.
+Or they can also treat it as information.
 
-Or they can treat student circumvention as information.
+Why was the task easy to delegate?
 
-Why was this task so easy to delegate?
+What did the student actually need to learn?
 
-What did we actually need the student to learn?
+Can the pointless portion be automated openly while the consequential portion becomes more visible?
 
-Could the assignment be redesigned so the useful part becomes harder to fake and the pointless part becomes easier to automate openly?
+Misconduct still remains misconduct when a clear rule is violated.
 
-This does not excuse misconduct.
+The diagnostic value of circumvention is separate from whether the behavior was permitted.
 
-It uses misconduct pressure as a diagnostic without confusing diagnosis for permission.
-
-The hidden curriculum also teaches students what counts as intelligence.
+The invisible curriculum also teaches students what competence looks like.
 
 If school rewards polished answers, students learn that intelligence looks polished.
 
-If AI produces polish instantly, they may infer that the human contribution has become small.
+When polish becomes cheap, the human contribution can start to look trivial.
 
-If school rewards questions, source judgment, revision, oral explanation, error correction, and the ability to transfer knowledge into unfamiliar situations, students encounter a different picture.
+If school also rewards source judgment, oral explanation, revision, error correction, transfer, and the ability to defend a choice, students encounter a different definition of competence.
 
-The machine can still help.
+The machine can help with those things too.
 
-But its help does not consume the entire definition of competence.
+It cannot consume the entire definition as easily.
 
 This is why AI literacy cannot live in one digital-citizenship lesson.
 
-The tool is too general.
+The judgments change by subject.
 
-A student needs different habits in history, mathematics, science, art, language learning, programming, and personal reflection.
+History may care about provenance and competing accounts. Mathematics may care about what remains after assistance. Writing may care about who made the consequential choices. Programming may care whether generated code can be read, tested, and debugged. Science may care whether the explanation tracks the evidence.
 
-In history, the critical question may be provenance.
-
-In mathematics, it may be whether the student can solve independently after receiving support.
-
-In writing, it may be whether AI feedback improves the writer's decisions or replaces them.
-
-In programming, it may be whether the student can read, test, and debug generated code.
-
-In science, it may be whether the model's explanation tracks the evidence.
-
-In art, it may be authorship, intention, craft, reference, and the boundaries of the assignment.
-
-There is no single prompt skill that covers all of this.
+There is no single prompt trick that resolves those differences.
 
 Domain knowledge returns.
 
-The institution that treats AI literacy as generic software training will teach the interface while leaving the important judgments invisible.
+The institution that teaches only the interface leaves the important judgments in the invisible curriculum.
 
-The social curriculum is also where norms form.
+Norms form socially too.
 
-Students watch what other students do.
+If high-performing students routinely use AI for outlining, translation, coding, and feedback while public rules imply little or no use, the formal policy starts to look ceremonial.
 
-If everyone uses AI to brainstorm, brainstorming with AI becomes ordinary.
+When practice and policy diverge too far, students learn risk management instead of judgment.
 
-If everyone uses it to rewrite awkward sentences, refusing assistance can begin to feel like refusing spell-check.
+Which teacher checks?
 
-If high-performing students quietly use AI for coding, outlining, translation, and feedback while public rules imply little or no use, the formal policy begins to look performative.
+How much rewriting is enough?
 
-When rules diverge too far from practice, the hidden rule wins.
+Is disclosure safer than silence?
 
-This has consequences for trust.
+What happened to the student who got accused last semester?
 
-A teacher may believe that a permissive policy invites abuse.
+This is not the curriculum schools intend.
 
-A student may believe that a vague restrictive policy invites hypocrisy.
+It is still a curriculum.
 
-Both may be responding to the same uncertainty.
+Jisc’s 2025 work with further- and higher-education students in the United Kingdom captured this kind of gap. Students described uncertainty despite the existence of formal guidance and asked for clearer course-level expectations. They also raised concerns about privacy, misinformation, premium-tool access, and differing needs among disabled, neurodivergent, and international students.
 
-The solution is not necessarily more permissive rules.
+Those reports do not prove that variation between courses is harmful.
 
-It is more legible rules.
+Variation can be educationally correct.
 
-Students should know what kind of assistance is allowed, why, and what capability will still be assessed independently.
+A first-year writing seminar and an advanced programming course may have good reasons to draw different boundaries.
 
-"No AI" is legible.
+The problem begins when the student cannot connect the difference to any learning objective.
 
-"AI allowed for brainstorming but not writing" can be legible if the teacher defines what evidence matters.
+A useful rule carries its reason with it.
 
-"Use any tool, but you will defend your work in person" is legible.
+No AI on this exercise because retrieval itself is the practice.
 
-"Use AI to generate examples, but verify every factual claim against assigned sources" is legible.
+AI after your first attempt because comparison and revision are the practice.
 
-"You may use a tutor mode after your first attempt" is legible.
+Generated code is allowed, but you must be able to explain and debug it because supervision is the practice.
 
-"Use AI responsibly" is mostly an invitation to invent local law.
+Do not upload this material because the restriction is about privacy or licensing, not authorship.
 
-Students will invent it.
+A reason travels better than a product list.
 
-The best students may invent thoughtful law.
+Interfaces change quickly. Features appear. Model names change. A rule built around one button can become obsolete during the school year.
 
-Others will invent expedient law.
+A student who understands why a task requires independent recall can apply the principle when the software changes.
 
-The institution should not be surprised.
+A student who knows only that one feature is banned cannot.
 
-Surveys now regularly find a gap between student adoption and institutional preparation. Students report widespread use while many also report unclear guidance, uneven instructor policies, concerns about accuracy, and uncertainty about what responsible use actually means.
+There is another teacher in the invisible curriculum that schools often overlook.
 
-That gap is a teaching environment.
+The product itself.
 
-Something fills it.
+A blank chat box teaches that almost any problem can begin with asking.
 
-Usually peers.
+Suggested prompts teach which requests are normal.
 
-Sometimes influencers.
+A regenerate button teaches that dissatisfaction can be answered with another output.
 
-Sometimes the product itself.
+A source panel can teach that claims are traceable. Its absence can quietly teach the opposite.
 
-This last curriculum deserves attention.
+A tutor mode that asks for an attempt before offering help teaches a different relationship with intelligence from a system that immediately completes the task.
 
-AI interfaces teach by design.
+The interface is not merely delivering capability.
 
-A blank chat box teaches that any problem can begin with asking.
+It is modeling a habit.
 
-Suggested prompts teach what kinds of requests are normal.
+Does the system ask what the student already tried?
 
-A regenerate button teaches that dissatisfaction is solved by requesting another answer.
+Does it express uncertainty?
 
-A source panel teaches that claims can be traced—or, when absent, that they need not be.
+Does it encourage primary-source checking?
 
-A tutor mode that asks the student to attempt first teaches a different norm from a model that immediately completes the task.
+Does it make answer generation much easier than question formation?
 
-The product is not merely delivering intelligence.
+Does it remember sensitive learning data?
 
-It is modeling a relationship with intelligence.
+Does every hesitation trigger another suggestion?
 
-Schools that adopt these systems are therefore adopting behavioral assumptions as well as capabilities.
+Schools that adopt an AI product adopt some of these assumptions whether they discuss them or not.
 
-Does the system reward persistence?
+This matters especially because the usual hierarchy of expertise is temporarily scrambled.
 
-Does it ask what the student already tried?
+A student may know more than a teacher about how to get a useful result from the latest model.
 
-Does it explain uncertainty?
+The teacher may know far more about what a useful result means in the discipline.
 
-Does it encourage checking primary sources?
-
-Does it make answer generation easier than question formation?
-
-Does it remember student data?
-
-Does it turn every hesitation into a suggestion?
-
-These design decisions become part of the curriculum whether educators choose them or not.
-
-The invisible curriculum is especially important because students are learning these habits at the same time adults are.
-
-There is no stable generation of experts handing down settled norms.
-
-Teachers are experimenting. Parents are experimenting. Universities are revising rules. Employers are changing expectations. Vendors are changing models and interfaces faster than curricula are normally updated.
-
-The usual hierarchy of instruction is temporarily scrambled.
-
-A student may know more than a teacher about how to get a model to produce a useful output.
-
-The teacher may know far more than the student about what a useful output means.
-
-That is a workable relationship if both sides admit it.
+That can be a productive relationship if neither side pretends otherwise.
 
 The teacher does not need to win a prompt contest.
 
-The teacher needs to make the learning objective visible and help the student distinguish assistance from substitution.
+The teacher needs to make the objective and the standard visible.
 
 The student can bring tool fluency.
 
-The institution can bring standards.
+The institution can bring reasons.
 
-This is one reason schools should talk to students before writing AI rules for them.
+Schools should therefore ask students how AI is actually being used before writing rules for an imaginary classroom.
 
-Not because students should decide the rules alone.
+Students know which assignments are being automated, where the bans are ignored, which permissions are confusing, which teachers have found useful practices, and where AI genuinely helps them understand something they could not understand before.
 
-Because they know where the actual use is occurring.
+That information is not permission to let students set every boundary.
 
-They know which assignments are being automated.
+It is evidence about the environment the boundary has to govern.
 
-They know what classmates ask the model for.
+The invisible curriculum will not disappear when the visible one improves.
 
-They know which bans are ignored, which permissions are confusing, which teachers have found useful practices, and which forms of AI help them understand something they could not understand before.
+Students will continue teaching one another how to work around systems, how to use them well, how to save time, and how to gain advantage.
 
-That information is curricular evidence.
+The question is whether the institution adds anything better.
 
-An institution that refuses to collect it will be regulating an imaginary classroom.
+Does it teach students how to disclose assistance without treating disclosure as confession?
 
-The gap between a published rule and an operative rule is visible in student reporting. Jisc's 2025 work with students in UK further and higher education found that formal guidance did not necessarily settle the practical question of what was allowed. Students described different expectations between courses and instructors and asked for clearer, course-level direction. That finding does not prove that inconsistency harms learning. Some inconsistency is exactly what a serious curriculum should produce. A first-year writing seminar and an advanced programming course may have good reasons to draw the line in different places.
+How to verify rather than admire fluency?
 
-The problem begins when the difference has no intelligible relationship to the learning objective.
+How to ask for help thinking rather than merely ask for completion?
 
-Imagine a student moving through four classes in one day. In the first, AI is prohibited because the teacher wants unaided recall. In the second, it is encouraged because the assignment is to compare machine explanations with primary sources. In the third, the syllabus says nothing, but the instructor privately tolerates grammar assistance. In the fourth, the department permits AI while the individual teacher warns students that using it will make their work "look suspicious."
+How to decide when the model is a tutor, a collaborator, a shortcut, an object of criticism, or simply unnecessary?
 
-The first two differences can teach something useful. The latter two mostly teach risk management.
+Those habits will form either way.
 
-Students become amateur compliance officers. They infer policy from tone, precedent, rumors about detection, and what happened to somebody else's assignment. The students with the most institutional confidence can ask for clarification. Others may decide that asking itself creates suspicion. A rule that exists only after a student has guessed wrong is not much of a teaching rule.
-
-This is where apparently small differences in support can compound. Jisc's students also raised premium-tool access, privacy, misinformation, and differing needs among disabled, neurodivergent, and international students. None of those observations establishes a simple hierarchy in which paid tools always help or AI always widens inequality. They do show why "everyone has a chatbot" is a poor stopping point for an equity analysis.
-
-A student who knows not to paste sensitive personal material into a model has learned something another student may not have been taught. A student who knows how to challenge a fabricated citation has a different practical tool from one who has only learned to request smoother prose. A student whose disability makes conversational explanation unusually useful may reasonably value the same system that another student experiences mainly as a shortcut. Uniform access can sit on top of highly nonuniform use.
-
-The policy response should therefore resist two temptations at once. One is to write a universal AI rule so simple that it ignores the purpose of individual assignments. The other is to leave every instructor and student to negotiate the technology from scratch.
-
-A more durable approach is to make the reason for a boundary travel with the boundary.
-
-If students must work without AI because retrieval itself is being practiced, say that. If they may use AI after a first attempt because comparison and revision are the target, say that. If a course permits generated code but requires students to explain and debug it, the independent capability is visible. If an assignment prohibits uploading source material because of privacy or licensing constraints, that is a different rule with a different reason.
-
-The explanation matters because technologies change faster than policy documents. A list of approved and prohibited product features can be obsolete before the next academic year. A student who understands why a task requires independent recall can apply that principle when the interface changes. A student who has only memorized that one button is forbidden cannot.
-
-This is what a visible curriculum can contribute that the invisible one usually cannot: reasons that are public enough to inspect.
-
-The invisible curriculum will continue anyway.
-
-It will teach students how to hide assistance, or how to disclose it.
-
-How to verify, or how to trust fluency.
-
-How to ask for the answer, or how to ask for help thinking.
-
-How to use AI as a private advantage, or how to make good use a shared academic practice.
-
-How to treat the model as authority, servant, collaborator, tutor, shortcut, critic, or toy.
-
-Schools cannot prevent students from learning these lessons.
-
-They can decide whether to teach better ones on purpose.
+Schools can decide whether to teach them on purpose.
