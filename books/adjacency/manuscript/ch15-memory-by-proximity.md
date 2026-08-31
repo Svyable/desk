@@ -329,3 +329,125 @@ Do not assume it is the same.
 That is a more sophisticated form of adjacency.
 
 The past comes near without being allowed to become destiny.
+
+## Memory Is a Policy, Not a Pile
+
+A personal assistant that remembers everything would be unbearable even before privacy entered the discussion.
+
+Imagine every preference, passing irritation, abandoned plan and temporary constraint returning whenever it shares enough vocabulary with the present. The system would be technically attentive and socially obtuse.
+
+Useful memory requires a policy about durability.
+
+Some information deserves to persist because the user will probably want it applied again: a dietary restriction, a preferred working style, the name of a long-running project. Some deserves temporary scope: the hotel address for this trip, a deadline for this week, a file path relevant to one debugging session. Some should remain a searchable historical event without becoming a profile fact. Some should disappear.
+
+These are different memory classes.
+
+A flat vector store can hold all of them. It cannot tell us which class they belong to merely from semantic similarity.
+
+The classification itself becomes part of trust.
+
+Consider a user who says, “For this presentation, make everything extremely concise.” A helpful assistant should use the preference now. It should not silently store “user prefers extremely concise writing” as a permanent personality trait unless the broader evidence supports that interpretation.
+
+The difference between local instruction and durable preference is scope.
+
+Scope is a governance concept.
+
+This is why memory design benefits from explicit rules around write as much as read. Retrieval gets most of the attention because it determines what comes back. But the first consequential decision happened earlier: what was allowed to become memory at all?
+
+An assistant can be conservative about durable writes. It can require repetition, explicit user preference or a clear category before promoting an event into long-term memory. It can attach provenance: learned from this message, on this date, in this context. It can preserve an expiration condition.
+
+A memory becomes more trustworthy when its authority is legible.
+
+This also gives users a meaningful editing surface. Instead of presenting a mysterious archive of old conversation fragments, the system can expose durable facts and preferences as a manageable layer. Correct the city. Remove the old employer. Change the seating preference. Mark a project complete.
+
+The user edits the map of self the machine is allowed to use.
+
+That is not merely a privacy feature.
+
+It is epistemic maintenance.
+
+Without correction, stale memories become false premises. A system can be perfectly faithful to what the user once said and increasingly wrong about who the user is now.
+
+The right to update may be more important than the right to remember.
+
+There is also a useful distinction between remembering a fact and remembering a reason.
+
+Suppose an organization decided to avoid a vendor. A future agent retrieves “Do not use Vendor A.” That memory may guide behavior correctly for a while. But perhaps the decision was made because of a temporary outage, a contract dispute that has since been resolved or a security weakness that was later fixed.
+
+A bare instruction persists longer than its justification.
+
+Human institutions suffer from this constantly. Rules outlive the events that created them. Nobody remembers why the form has twelve fields or why deployments are banned on a certain day. The original reason disappears and the residue becomes ritual.
+
+Machine memory can either intensify or reduce that problem.
+
+If it stores only the conclusion, it creates faster institutional folklore.
+
+If it links the conclusion to evidence and context, future users can reassess the rule when conditions change.
+
+Provenance makes memory revisable.
+
+This is especially important for machine-generated summaries. Systems such as Generative Agents explored memory streams combined with retrieval, reflection and planning; architectures such as MemGPT emphasized managing information across limited context. The exact systems will evolve. The persistent design question is how much derived interpretation should be allowed to stand between the model and the raw past.
+
+Summaries are necessary because history grows.
+
+Summaries are dangerous because they become lenses.
+
+A good memory architecture can preserve layers.
+
+Raw event.
+
+Structured fact.
+
+Summary.
+
+Interpretation.
+
+Each layer can be retrieved for a different purpose. The assistant may use the summary to decide whether a memory is relevant, then inspect the source before acting on a consequential claim.
+
+This resembles scientific practice again. Abstracts help us decide what to read. They do not replace the paper when the result matters.
+
+Memory needs the same humility.
+
+There is a final policy question: how much should the system infer from what it remembers?
+
+If a user repeatedly books evening flights, should the assistant conclude that evening flights are preferred? Perhaps. Or perhaps only evening flights were affordable. If a person reads several articles about a disease, should the assistant infer a health concern? That would be intrusive and potentially wrong. If a worker often fixes one system, should an organizational agent infer responsibility for it? Maybe the worker was merely the only person available.
+
+Behavioral adjacency tempts inference.
+
+Trust requires restraint.
+
+The most useful personal AI will know a great deal and act as though knowledge does not automatically create permission.
+
+Remembering is not entitlement.
+
+Inference is not consent.
+
+Relevance is not authority.
+
+These principles will matter more as assistants accumulate years rather than weeks of context. The vector store will become dense with a person's past. The retrieval system will be able to surface patterns no individual message stated explicitly.
+
+At that point memory becomes a relationship between data and agency.
+
+Who decides what is durable?
+
+Who can inspect it?
+
+Who can delete it?
+
+Which derived memories disappear when the source disappears?
+
+What can the system infer but choose not to use?
+
+A pile of embeddings cannot answer these questions.
+
+A memory policy can.
+
+The deepest promise of vector memory is not perfect recall.
+
+It is selective continuity.
+
+The system can carry enough of the past forward to reduce repetition while leaving the user room to change.
+
+That is a harder standard than remembering everything.
+
+It is also a far more human one.
