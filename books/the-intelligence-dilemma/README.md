@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 5 of 20 drafted |
+| **Chapters**  | 10 of 20 drafted |
 
 ## Contents
 
@@ -16,16 +16,13 @@
 - [x] [Ch 3 — What a Grade Means Now](manuscript/ch03-what-a-grade-means-now.md)
 - [x] [Ch 4 — The Confidence Gap](manuscript/ch04-the-confidence-gap.md)
 - [x] [Ch 5 — The Tutor in Every Pocket](manuscript/ch05-the-tutor-in-every-pocket.md)
+- [x] [Ch 6 — Productive Struggle](manuscript/ch06-productive-struggle.md)
+- [x] [Ch 7 — The Prompted Mind](manuscript/ch07-the-prompted-mind.md)
+- [x] [Ch 8 — The Invisible Curriculum](manuscript/ch08-the-invisible-curriculum.md)
+- [x] [Ch 9 — Cheating Is the Wrong Question](manuscript/ch09-cheating-is-the-wrong-question.md)
+- [x] [Ch 10 — The New Achievement Gap](manuscript/ch10-the-new-achievement-gap.md)
 
 ## Planned chapters
-
-### Part II — The Student Changes
-
-6. Productive Struggle
-7. The Prompted Mind
-8. The Invisible Curriculum
-9. Cheating Is the Wrong Question
-10. The New Achievement Gap
 
 ### Part III — The Institution Reacts
 
@@ -51,3 +48,8 @@
 - [Ch 3 research trail](research/ch03-what-a-grade-means-now.md)
 - [Ch 4 research trail](research/ch04-the-confidence-gap.md)
 - [Ch 5 research trail](research/ch05-the-tutor-in-every-pocket.md)
+- [Ch 6 research trail](research/ch06-productive-struggle.md)
+- [Ch 7 research trail](research/ch07-the-prompted-mind.md)
+- [Ch 8 research trail](research/ch08-the-invisible-curriculum.md)
+- [Ch 9 research trail](research/ch09-cheating-is-the-wrong-question.md)
+- [Ch 10 research trail](research/ch10-the-new-achievement-gap.md)
