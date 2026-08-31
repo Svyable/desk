@@ -175,3 +175,47 @@ A corridor full of doors, some unlocked, some painted to look like doors, and so
 The century of failed vaccines did not waste a century.
 
 It taught the field which doors were real.
+
+It also taught the field when to knock.
+
+Disease burden changes the problem a vaccine is being asked to solve. Teaching an immune system to recognize several tumor-specific targets after surgery, when only microscopic disease may remain, is a different task from asking the same immune response to eliminate kilograms of metastatic tumor that have already evolved under multiple treatments. The antigen can be identical while the strategic situation is not.
+
+Large tumors contain more cells, and more cells mean more chances for resistant subclones. They can contain regions with poor blood flow, abnormal vessels and dense stroma. They may have accumulated defects in interferon signaling or antigen presentation. Chronic exposure can leave tumor-reactive T cells exhausted. Prior therapies can reshape both the cancer and the immune compartment.
+
+Minimal residual disease removes some of those obstacles without making the problem easy.
+
+After surgery, the immune system may be hunting scattered malignant cells rather than attacking an established organ-sized ecosystem. A vaccine may have time to expand specific T-cell populations before those cells are needed at scale. Checkpoint blockade may help keep the response functional. Repeated dosing may reinforce memory while the number of malignant targets is still small.
+
+This helps explain why so much of the current individualized-vaccine effort has moved into adjuvant settings.
+
+It is not merely a convenient clinical-trial choice. It is a biological wager that immunity is better at preventing a malignant population from re-establishing itself than at dismantling a mature hostile environment.
+
+The wager carries a statistical price.
+
+When visible disease is gone, investigators cannot measure tumor shrinkage. They have to wait for recurrence, distant metastasis or survival events. Some patients in both trial arms may already have been cured by surgery and standard therapy. The absolute benefit can be meaningful while taking years to become visible. A therapy given to prevent an event will also treat some people who would never have experienced that event.
+
+This changes the tolerance for toxicity, cost and uncertainty.
+
+A patient with rapidly progressing metastatic cancer may rationally accept a dangerous treatment for a small chance of rescue. A patient who feels well after surgery faces a different decision. The treatment is being offered against a probability. Side effects occur in the present; the recurrence being prevented is hypothetical at the moment of dosing.
+
+Successful prevention therefore sets a higher operational bar than rescue medicine often admits.
+
+Manufacturing delays matter because the intervention has to fit between surgery and other treatments. False-positive target selection matters because the patient may receive a complex product without visible disease to prove whether any component was necessary. Financial toxicity matters because the person may live for decades after therapy. Long-term immune effects matter because the intended benefit is long-term.
+
+The history of preventive cancer vaccines already shows how powerful timing can be, though through a different mechanism.
+
+HPV and hepatitis B vaccines do not train the immune system against an existing person's tumor mutations. They prevent infections that can later cause cancer. Their success does not prove that therapeutic cancer vaccination will work. It proves something narrower and more important: immunity can prevent some cancers far more easily than medicine can treat the same disease after malignant evolution has occurred.
+
+Therapeutic neoantigen vaccines borrow the temporal logic without borrowing the biology.
+
+They arrive after cancer has already formed, but the most promising use may still be before recurrent disease has rebuilt its defenses.
+
+That is one reason a century of disappointment should make the field more ambitious about trial design, not less.
+
+A weak historical reading says cancer vaccines failed, then technology improved.
+
+A better reading says different generations kept discovering that the target, the immune context, the disease burden, the combination partner and the endpoint are inseparable. Each failure removed another excuse for treating vaccination as a single-variable intervention.
+
+The modern platform is more complicated because the old experiments earned the complication.
+
+The test of progress is whether that added complexity buys the patient something measurable.
