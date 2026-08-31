@@ -2,7 +2,7 @@
 
 This appendix is a reader-facing map to the evidence beneath *Public Pressure*. It is not a substitute for the full research ledger. It is a guide to what the most important sources can establish, what they cannot establish, and where the manuscript deliberately draws a narrower conclusion than a headline might invite.
 
-The complete working ledger is maintained in [`../research/source-ledger.md`](../research/source-ledger.md) and [`../research/source-ledger.csv`](../research/source-ledger.csv). Because regulation, litigation, enforcement, executive leadership, and AI policy can change quickly, the status of fast-moving matters should be checked again before any Shelf release.
+The complete working ledger is maintained in [`../research/source-ledger.md`](../research/source-ledger.md) and [`../research/source-ledger.csv`](../research/source-ledger.csv), with newer stable primary records also stored as source fragments under `../research/sources/`. Because regulation, litigation, enforcement, executive leadership, and AI policy can change quickly, the status of fast-moving matters should be checked again before any Shelf release.
 
 ## How to read the evidence
 
@@ -118,7 +118,11 @@ The EU AI Act is used as a concrete example of duties being allocated across pro
 
 [EUR-Lex — Regulation (EU) 2024/1689, Artificial Intelligence Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) (`eu-ai-act-2024`)
 
-Article 14 is particularly relevant to Chapters 20 and 22. For high-risk systems within its scope, human oversight is supposed to enable assigned people, as appropriate and proportionate, to understand system limitations, watch for automation bias, interpret outputs, decide not to use an output, disregard or override it, reverse it, or interrupt the system through a stop procedure. That is a legal version of the book’s claim that “human oversight” should be measured as authority rather than mere presence.
+The original calendar is no longer enough to describe the Act. Regulation (EU) 2026/1744—the **Digital Omnibus on AI**—entered into force on July 27, 2026 and amended the implementation schedule. As of this August 2026 draft, obligations for providers of general-purpose AI models had already begun applying in August 2025; Article 50 transparency duties and enforcement powers for already-applicable provisions began on August 2, 2026; the principal Annex III high-risk rules are scheduled for December 2, 2027; and high-risk systems embedded in regulated products are scheduled for August 2, 2028.
+
+[EUR-Lex — Regulation (EU) 2026/1744, Digital Omnibus on AI](https://eur-lex.europa.eu/eli/reg/2026/1744/oj) (`eu-ai-omnibus-2026`)
+
+Article 14 remains particularly relevant to Chapters 20 and 22, but its high-risk-system duties should be read against that amended application calendar. When those duties apply to a covered high-risk system, human oversight is supposed to enable assigned people, as appropriate and proportionate, to understand system limitations, watch for automation bias, interpret outputs, decide not to use an output, disregard or override it, reverse it, or interrupt the system through a stop procedure. That is a legal version of the book’s claim that “human oversight” should be measured as authority rather than mere presence.
 
 The U.S. federal approach remains more sectoral and policy-dependent. The book therefore uses sector regulators, existing statutes, and specific enforcement matters rather than implying that one horizontal U.S. AI law governs all consequential deployments.
 
@@ -176,9 +180,11 @@ The more general test is whether the actor with knowledge and control bears enou
 
 ## Chapter 22: the legal meaning of a real stop
 
-The EU AI Act makes the chapter’s “permission to say no” unusually concrete. Article 14 does not define human oversight as a human being somewhere near the workflow. Within its scope, the system must enable assigned natural persons, as appropriate and proportionate, to monitor and understand the system, resist automation bias, interpret output, choose not to use it, disregard or override it, reverse it, and interrupt operation through a stop mechanism.
+The EU AI Act gives the chapter’s “permission to say no” an unusually concrete legal analogue, but the timing matters. Article 14 is part of the high-risk-system regime whose principal application dates were moved by Regulation (EU) 2026/1744: Annex III high-risk rules are scheduled for December 2, 2027, and rules for high-risk systems embedded in regulated products for August 2, 2028.
 
-That is a useful governance test even outside the Act’s jurisdiction:
+When Article 14 applies to a covered system, it does not define human oversight as a human being somewhere near the workflow. The system must enable assigned natural persons, as appropriate and proportionate, to monitor and understand the system, resist automation bias, interpret output, choose not to use it, disregard or override it, reverse it, and interrupt operation through a stop mechanism.
+
+That is a useful governance test even outside the Act’s jurisdiction or before a particular legal duty becomes applicable:
 
 1. Can the designated person see enough to recognize a problem?
 2. Can that person decline the output without extraordinary escalation?
@@ -207,7 +213,7 @@ Those demands can be met through contracts, product architecture, professional d
 
 This appendix describes the evidence base of the August 2026 working draft. Several sources concern regimes or disputes whose status can change quickly. Before release, re-check at minimum:
 
-- current EU AI Act implementation dates, guidance, and any amendments;
+- current EU AI Act implementation dates, guidance, amendments, and technical standards;
 - current U.S. federal AI executive policy and agency authorities;
 - pending or appealed litigation discussed anywhere in the manuscript;
 - enforcement matters that were proposed, pending, modified, or awaiting court approval when first researched;
