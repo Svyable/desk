@@ -257,3 +257,67 @@ The coupon is compensation for living with those unknowns.
 Inflation is the argument that settles later.
 
 A wise fiscal strategy tries not to win it by surprise.
+
+## The Difference Between Inflation and a Higher Price Level
+
+One reason debt debates become confused is that people use *inflation* to describe two different events.
+
+The first is a one-time rise in the price level.
+
+The second is an ongoing rate at which prices continue rising.
+
+For outstanding fixed nominal debt, the distinction matters enormously.
+
+A surprise jump in the price level can reduce the real value of old debt once. If inflation then returns to a stable low rate, creditors absorb the surprise but new long-term pricing can normalize.
+
+Persistently high inflation is different. It teaches every lender to demand compensation repeatedly. The government refinances into that expectation. Workers negotiate around it. Businesses price around it. Long-term contracts shorten. The nominal system becomes more expensive to use.
+
+A state interested only in reducing the real burden of *old* debt would prefer the impossible combination of one surprise and perfect credibility afterward.
+
+Markets know this.
+
+That is why deliberate inflation is such an unreliable fiscal strategy. The announcement destroys the surprise.
+
+This also helps explain why the post-pandemic price-level increase cannot be translated mechanically into “debt reduction.” The real value of some nominal liabilities fell, but nominal GDP, federal spending, indexed benefits, wages, tax brackets, interest rates, and future coupons all moved too.
+
+The system repriced.
+
+Debt dynamics live in the interaction.
+
+A higher nominal GDP denominator can improve debt-to-GDP even while households feel poorer because real wages lag prices. A lower real value of outstanding fixed-rate debt can help Treasury while higher policy rates raise bill and floating-rate costs. Strong nominal tax receipts can coexist with higher nominal program spending.
+
+The federal government does not consume ratios.
+
+Citizens consume real goods and services.
+
+This is why a fiscal strategy that looks successful only because nominal GDP rose through inflation deserves skepticism. The country may have improved one ratio by making the unit smaller.
+
+Real growth is a cleaner denominator because it creates more output rather than merely more dollars attached to the same output.
+
+The distinction becomes critical when policymakers search for an exit from the wall.
+
+A period of modest inflation within a credible framework can help nominal debt dynamics as part of normal economic growth.
+
+A strategy of tolerating persistently higher inflation to reduce debt is different. It risks raising nominal yields, shortening maturities, weakening the currency's real purchasing power, and creating distributional fights that are harder to legislate honestly.
+
+The temptation grows because inflation can appear politically easier than a tax increase or benefit reduction.
+
+The cost is dispersed.
+
+That is exactly why it should not be treated as painless.
+
+A transparent fiscal adjustment says which claims will change.
+
+Inflation changes them through the unit of account.
+
+The creditor notices.
+
+The worker notices.
+
+The retiree notices.
+
+The borrower notices.
+
+Eventually the voter notices.
+
+By then, the market has already moved the argument into the next coupon.
