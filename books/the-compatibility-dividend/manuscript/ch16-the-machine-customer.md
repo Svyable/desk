@@ -96,7 +96,89 @@ Agents should cooperate without becoming one agent.
 
 MCP and A2A are not the final constitution of machine commerce. They are evidence that developers are already discovering distinct seams: model-to-tool and agent-to-agent.
 
-The next seams will be economic.
+The next seams are now becoming visibly economic.
+
+In 2025 and 2026, several efforts arrived from different directions rather than one universal machine-commerce standard appearing whole.
+
+Google's Universal Commerce Protocol, announced in early 2026, proposes common commerce primitives connecting consumer surfaces, merchants and payment providers. Its design is explicitly compositional: it is intended to work with existing retail infrastructure and alongside agent protocols such as A2A and MCP rather than replace them. The partners named around the launch included retailers, commerce platforms and payment companies, which is itself evidence of the coordination problem. A commerce protocol is useless if only one side of a transaction implements it.
+
+Google's Agent Payments Protocol, or AP2, focuses on a narrower but deeper question: how can an agent-performed payment preserve evidence of what the user intended and what the merchant supplied? Its specification distinguishes a checkout mandate from a payment mandate and pairs them with receipts. That separation is more important than the brand name.
+
+The commercial commitment and the movement of money are related and not identical.
+
+A buyer can agree to purchase a specific item before a payment rail has settled. A payment can be authorized under terms that refer back to a checkout. A dispute may need evidence of both what was purchased and how payment was approved.
+
+Human commerce often leaves this relationship implicit because the checkout screen, card terminal and receipt are physically close.
+
+Agents can separate them across services, vendors and milliseconds.
+
+The evidence has to travel.
+
+Elsewhere, x402 revives a nearly forgotten HTTP status code—`402 Payment Required`—as a machine payment seam. A service can answer a request with payment requirements, a client can satisfy them programmatically, and the request can be retried with payment evidence. Cloudflare's 2026 agent documentation supports x402 for paid HTTP resources and MCP tools, including agent clients that can react to a payment challenge.
+
+The appeal is obvious for machine-to-machine markets.
+
+An agent buying an API call, a data record or a small unit of compute should not necessarily create a human-style account, choose a password, enter billing details and click through a checkout page. The protocol turns payment into part of the request-response conversation.
+
+The Machine Payments Protocol, or MPP, occupies adjacent territory and supports multiple payment methods, including card-based and stablecoin flows. Visa announced support for a card specification and SDK for MPP in March 2026. Cloudflare's agent tooling now presents x402 and MPP side by side.
+
+That coexistence is more informative than a victory announcement would be.
+
+The market has not settled on one machine-payment rail.
+
+It is experimenting with a shared interaction pattern—request, payment challenge, fulfillment, receipt—while differing on how authority, credentials and settlement are represented underneath.
+
+This is exactly what a young standards layer should look like if the architecture is still being discovered.
+
+Do not standardize the entire economy because several implementations agree that machines need to pay.
+
+Standardize the stable seam when enough experience reveals it.
+
+Card networks are approaching the problem from another side: recognition.
+
+A merchant receiving automated traffic needs to distinguish a purchasing agent acting for a customer from a scraper, botnet or attacker. Visa's Trusted Agent Protocol describes signed agent requests and merchant validation mechanisms intended to establish that a recognized agent is present with commerce intent. Mastercard's Agent Pay program similarly emphasizes registered agents, network tokens and verifiable intent.
+
+These systems raise a question older than computing.
+
+Who introduced you?
+
+A human merchant can look at a customer, ask for identification, call a bank or rely on familiar social cues. A server receives packets. An agent may be genuinely authorized by a customer and still look exactly like malicious automation at the network edge.
+
+Identity has to become protocol.
+
+But protocol identity is not enough.
+
+The merchant needs to know what the agent is trying to do, whether the principal consented, which payment authority applies, and what evidence will exist afterward. That is why the emerging commerce stack keeps decomposing into roles instead of collapsing into one badge called “trusted agent.”
+
+The fragmentation should be treated cautiously rather than romantically.
+
+Every protocol creates integration work. Merchants do not want six ways to recognize agents, four mandate formats and seven payment challenge schemes. Agent developers do not want custom wallet, card and identity logic for every seller. The compatibility dividend has not yet been earned merely because several groups published specifications.
+
+Early proliferation is useful only if it produces information that later allows convergence at the right seams.
+
+This is where the history in the first half of this book matters.
+
+The railways teach us that installed bases can arrive before agreement.
+
+The browser wars teach us that nominal standards can diverge in implementation.
+
+Unicode teaches us that universal representation still needs rules for comparison and security.
+
+EV charging teaches us that a successful de facto interface can move into broader standardization after the network already exists.
+
+Machine commerce is now entering its own version of that phase.
+
+The choices being made today about mandates, receipts, agent identity and payment challenges may look like developer plumbing. If autonomous purchasing grows, they become the places where billions of transactions acquire meaning.
+
+This is why interoperability needs to be narrow and evidence-rich.
+
+A merchant should not need to trust an agent's internal reasoning.
+
+It should be able to verify the relevant external facts: who the principal is to the degree required, what authority was granted, what offer was accepted, what payment was authorized, and what result occurred.
+
+The agent can remain probabilistic.
+
+The receipt cannot.
 
 How does a machine customer discover who is selling?
 

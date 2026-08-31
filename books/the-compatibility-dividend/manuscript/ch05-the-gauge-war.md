@@ -94,6 +94,102 @@ Do not ask whether difference exists. Ask what the difference costs when systems
 
 The railway gauge problem became severe because steel wheels cannot simply reason their way across a physical mismatch. The boundary demanded machinery and labor. A software agent may be able to infer a foreign schema more flexibly, which lowers some boundary costs. But where authority or safety is involved, translation can still be expensive because mistakes have consequences.
 
+A modern European railway project makes this trade visible without the romance of the nineteenth century.
+
+The Baltic states inherited and still operate large 1520 millimetre broad-gauge networks integrated historically with railways to their east. To the south and west, most of the European Union's interoperable mainline network uses 1435 millimetres.
+
+Rail Baltica is building a new 1435 millimetre corridor from the Baltic states toward Poland and the wider European network.
+
+The choice is explicitly about network membership.
+
+A new line built to the existing 1520 millimetre gauge would fit more easily into the legacy Baltic network. A new 1435 millimetre line connects directly into the standard-gauge European system and the technical specifications that surround it.
+
+The gauge is therefore geographical policy rendered in steel.
+
+Rail Baltica's own project materials describe the line as a standard European-gauge railway intended to integrate Estonia, Latvia and Lithuania into the European rail network. European Commission country material is equally revealing because it does not describe the old network as disappearing. In Latvia, Lithuania and Estonia, the two gauges coexist.
+
+That coexistence is not a temporary embarrassment to be hidden from the diagram.
+
+It is the design problem.
+
+Existing 1520 millimetre routes still serve freight, domestic traffic and connections to neighbouring networks. Rail Baltica creates a new north-south compatibility zone. The boundary between them has to be engineered through terminals, crossings, signaling interfaces, transshipment, possible gauge-changing facilities and, in some locations, dual-gauge or gauntlet arrangements.
+
+The project is a gateway strategy and a standardization strategy at the same time.
+
+That seems contradictory only if we assume standards policy must choose one permanent gauge for every rail on the map.
+
+A more realistic goal is to decide which traffic benefits enough from direct interoperability to justify a new seam, then build interfaces for the traffic that still needs to cross into the old system.
+
+This is how civilizations actually migrate.
+
+They build a new compatibility zone before they can afford to retire the old one.
+
+The result can look inefficient from above. Two standards coexist. Stations need more equipment. Freight terminals may transfer cargo. Infrastructure managers support different signaling and maintenance assumptions. Users may still encounter breaks.
+
+The duplication is the cost of changing direction without declaring the existing economy invalid.
+
+This is the compatibility valley in physical infrastructure.
+
+A completed migration may be simpler than either the starting point or the transition. The transition is often the most complex state because old and new obligations overlap.
+
+That should sound familiar to anyone replacing an enterprise software system.
+
+The old database must keep running while the new one is populated. Events may be mirrored. Users move in groups. Gateways translate between schemas. Teams reconcile discrepancies. For a period, the organization pays for two worlds.
+
+Executives often call this duplication and ask why the old system cannot be switched off faster.
+
+Railways provide the answer at continental scale.
+
+Because something still depends on it.
+
+The right migration speed is determined partly by the lives attached to the old interface, not by the elegance of the new one.
+
+Rail Baltica also exposes a strategic dimension that ordinary software analogies can miss. A rail gauge shapes which rolling stock, supply chains and military logistics can move easily through a region. Compatibility can alter economic orientation and resilience as well as passenger convenience.
+
+This is why technical standards become geopolitical without ceasing to be technical.
+
+A 1435 millimetre rail does not contain a political opinion.
+
+A decision to spend billions building a corridor around that rail can still express which network a country wants to inhabit.
+
+Standards are often membership choices.
+
+A nation choosing an electrical standard, telecom system, payment messaging regime or identity framework is not merely picking engineering. It may be choosing suppliers, certification systems, regulators, training pipelines and alliances that travel with the interface.
+
+Agent standards will have the same property if different economic blocs develop incompatible identity, authorization or payment profiles.
+
+The danger is not only that messages fail to parse.
+
+Businesses may become legible to one machine economy and expensive to reach from another.
+
+The Baltic rail case suggests an important response: gateways can preserve commerce while deeper alignment changes.
+
+A border terminal can transfer freight even when wheels cannot cross. A digital gateway can translate claims, payment methods or policy metadata even when jurisdictions do not share a full institutional stack.
+
+But gateways should be measured honestly.
+
+They are not free interoperability.
+
+Every transfer introduces delay, cost, capacity constraints and failure modes. The better the gateway, the more sustainable plural standards become. The worse the gateway, the stronger the pressure for convergence.
+
+Rail Baltica's studies make this explicit by considering gauge-change facilities, dual-gauge sections and intermodal transfer as engineering choices with real costs rather than slogans about European integration.
+
+That is how standards policy should be argued.
+
+What traffic crosses the seam?
+
+What does translation cost?
+
+Who pays?
+
+What failure does the boundary contain?
+
+What future does a new standard unlock?
+
+How long must both systems coexist?
+
+Those questions are more useful than asking whether uniformity is modern and diversity backward.
+
 A gateway has another advantage: it can preserve resilience.
 
 Uniform systems can propagate common failures. Different standards can create firebreaks. Militaries have sometimes considered gauge differences strategically because they complicate an invader's use of rail infrastructure, although history also shows that determined militaries can adapt. In cybersecurity, diversity can prevent one exploit from compromising every implementation. In biology, diversity often limits synchronized vulnerability.

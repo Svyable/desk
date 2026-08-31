@@ -94,6 +94,86 @@ Independent implementations force prose to become behavior. They reveal whether 
 
 The specification meets reality.
 
+QUIC gives this principle a modern case with unusually good documentation.
+
+The protocol that became QUIC version 1 entered the IETF with substantial pre-standardization implementation and deployment experience rather than beginning as a committee thought experiment. Its working group charter explicitly described the standards effort as building on that prior experience while generalizing the design into an open protocol.
+
+That origin created both an advantage and a danger.
+
+The advantage was evidence. Engineers already knew that the basic architecture could move real traffic at scale. They had observed latency, congestion, connection establishment and deployment behavior that a clean-sheet protocol document could only predict.
+
+The danger was gravitational pull. A successful early implementation can become the answer simply because it arrived first.
+
+The IETF process therefore had to do more than bless the deployed design.
+
+Independent implementations mattered.
+
+As QUIC drafts evolved, browser vendors, server developers, cloud and content-delivery companies, independent libraries and research implementations tried to speak the protocol to one another. The working group did not merely ask whether each codebase passed its own tests. It asked whether independently written code exchanged traffic correctly across many pairings.
+
+This is a harder test.
+
+A single implementation can contain a bug that perfectly matches its own assumptions. Two implementations force assumptions to meet.
+
+By the time the standards package approached publication, IETF material described more than twenty QUIC implementations participating in interoperability work. The number is less important than the diversity. Different teams, different codebases and different deployment environments were exercising the same prose.
+
+Then the testing itself had to improve.
+
+Manual interop events are valuable and limited. If twenty implementations must all be paired, combinations multiply quickly. Network conditions vary. A failure that occurs only under delay, loss or reordering can hide behind a successful handshake on a conference network.
+
+QUIC implementers built automated interoperability infrastructure to make this repeatable.
+
+The IETF's account of QuicInteropRunner describes a framework in which implementers maintain endpoints and automated jobs run combinations of implementations through defined network scenarios. That turns interoperability from an occasional social event into something closer to continuous measurement.
+
+The consequences run both directions.
+
+Implementation bugs are found.
+
+Specification bugs are found.
+
+That second category is why running code belongs in standards governance rather than only quality assurance.
+
+If multiple competent teams stumble over the same clause, the problem may be the clause.
+
+A standards document is an executable social contract written in prose. Repeated misimplementation is evidence that the contract may be underspecified.
+
+QUIC's standardization story therefore complicates the phrase “rough consensus and running code” in a useful way.
+
+Consensus is not the stage before code.
+
+Code is part of the argument from which consensus is formed.
+
+A draft proposes behavior. Implementations test it. Deployments expose new conditions. Engineers revise the draft. More implementations test the revision. The process loops.
+
+This is institutionalized learning.
+
+It also changes what counts as persuasive evidence in a technical dispute.
+
+An engineer can argue that a mechanism is elegant.
+
+Another can show that three independent implementations cannot deploy it through common networks without breakage.
+
+The second fact does not automatically win—perhaps the networks should change—but it changes the burden of proof.
+
+Reality has joined the mailing list.
+
+QUIC also shows how implementation experience can be preserved without freezing version one forever. RFC 8999 defines version-independent properties of QUIC. RFC 9368 later adds compatible version negotiation. The current working group continues maintaining the base protocol and developing extensions and new capabilities.
+
+This is a standards institution trying to separate invariants from evolution.
+
+That distinction is exactly what a young agent ecosystem needs.
+
+Which properties are fundamental enough that implementations can rely on them across versions?
+
+Which behaviors belong to one version?
+
+How do two systems discover that they can move together to a newer version?
+
+How are extensions tested before they become dependencies?
+
+A protocol that answers only “what does version one do?” is a product specification.
+
+Infrastructure needs a story about version two.
+
 The principle extends far beyond software.
 
 A physical standard should be manufactured, measured and tested. A medical data standard should be exchanged among actual systems. A logistics standard should survive real warehouses. A credential format should be verified by independent issuers and recipients. An agent protocol should be implemented by competing model vendors and tested under failure, adversarial input and mixed versions.

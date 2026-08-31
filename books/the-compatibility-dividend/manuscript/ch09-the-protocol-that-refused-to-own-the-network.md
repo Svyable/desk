@@ -76,6 +76,118 @@ Standards make that coexistence possible through versioning, negotiation, extens
 
 They can also make it painful.
 
+IPv6 is the great demonstration.
+
+IPv4's 32-bit address space was never going to be enough for an indefinitely expanding public internet. IPv6 increased addresses from 32 bits to 128 and was designed as IPv4's successor. The first IPv6 specification appeared in the 1990s; the protocol continued to mature, and RFC 8200 made the modern IPv6 specification an Internet Standard in 2017.
+
+The technical answer existed long before the migration finished.
+
+Indeed, “finished” remains the wrong word.
+
+IPv4 and IPv6 have coexisted for decades.
+
+That coexistence is not evidence that the standards community forgot to schedule a flag day. It is evidence that the 1983 kind of flag day no longer scales to a global commercial internet containing billions of devices, organizations with different upgrade cycles, embedded equipment, home routers, enterprise networks, mobile carriers, content providers and software whose maintainers may not even know which assumptions about IP versions they inherited.
+
+The network became too valuable to stop in order to replace its waist.
+
+This is success turning into migration difficulty.
+
+The IPv6 transition accumulated bridges: dual-stack systems that speak both versions, tunnels that carry one protocol through another, translators between address families, and network address translation techniques that stretched IPv4's useful life.
+
+Each bridge solved a local problem.
+
+Together they reduced the urgency of global convergence.
+
+This is a recurring migration paradox.
+
+The better the adapter, the easier it is to postpone replacement.
+
+Network address translation is the clearest example. NAT allowed many devices to share smaller pools of public IPv4 addresses and became deeply embedded in home and enterprise networking. It helped the internet keep growing under address scarcity.
+
+It also changed the architecture.
+
+The original end-to-end ideal assumed that endpoints could often address one another directly through globally meaningful network addresses. NAT inserted stateful translation at boundaries. Applications had to learn traversal techniques. Operators gained useful control and address conservation while some forms of direct reachability became harder.
+
+A workaround for address scarcity became part of the installed internet.
+
+That does not make NAT a mistake in any simple sense. Without transition technologies and address sharing, the practical cost of IPv4 exhaustion could have been much higher. The point is subtler: a gateway introduced to buy time can become infrastructure with constituencies of its own.
+
+Temporary architecture has a habit of applying for tenure.
+
+The IETF eventually made the long-term direction explicit. RFC 6540, published in 2012, said IPv6 support should no longer be treated as optional for new IP-capable implementations. It also recommended dual-stack coexistence during transition while warning that systems should not require IPv4 for proper function.
+
+Notice the shape of the advice.
+
+Support the future.
+
+Coexist with the past.
+
+Do not make the future dependent on the past.
+
+That is migration policy in three lines.
+
+It is much harder to implement across an economy than to write.
+
+An informational IAB document published in 2017, RFC 8170, used IPv6 as one of the examples motivating a broader lesson about protocol transitions: many protocols had not been designed to make replacement or extension easy, and some transitions had consequently been difficult. The document asks future protocol designers to plan not only for adoption but for later transition.
+
+This is the internet learning from itself.
+
+A protocol's successor path is part of the protocol's quality even when the successor has not been imagined yet.
+
+That principle should be engraved above every agent standards meeting.
+
+The question is not only whether MCP, A2A, an authorization profile or a commerce protocol works today.
+
+How does a replacement appear?
+
+Can old and new versions coexist?
+
+Can a gateway translate without changing authority semantics?
+
+Which identifiers survive the transition?
+
+Can an implementation advertise capability without exposing itself to downgrade attacks?
+
+Can an experimental extension be removed before somebody builds a business that treats it as permanent?
+
+The internet's narrow waist teaches us to make the common layer small.
+
+IPv6 teaches us that small does not mean easy to replace.
+
+Any layer on which everyone depends becomes heavy through dependence alone.
+
+This matters when choosing what belongs in an agentic narrow waist. A field that looks harmless today may become a global assumption tomorrow. If the core protocol defines a particular trust model, identity provider shape or notion of agent memory, replacing that notion later may require the equivalent of a dual-stack internet for institutions.
+
+You can survive such a migration.
+
+You would rather not need one.
+
+There is another lesson in IPv6's slow coexistence: standards transitions are rarely binary measures of success.
+
+A network can carry meaningful IPv6 traffic while large parts of the world still depend on IPv4. An enterprise can be IPv6-capable without being IPv6-only. A service can support both. A mobile carrier can use translation internally. Adoption can deepen by layer, geography and use case rather than flip globally.
+
+This is why “has the standard won?” is often the wrong question.
+
+Ask instead which dependency has been removed.
+
+Can a new service operate without the legacy protocol?
+
+Can a user reach the important parts of the network?
+
+Can an operator retire the old path from one segment?
+
+Can a new device be designed without assuming yesterday's constraint?
+
+Migration completes from the edges inward.
+
+Agent standards will likely do the same.
+
+One enterprise may adopt a portable agent identity before it adopts portable payment authority. One industry may standardize audit receipts while retaining proprietary task protocols. One jurisdiction may recognize a credential profile that another rejects. A commerce agent may speak several generations of protocol for years.
+
+The goal is not a universal switchover date.
+
+The goal is steadily reducing the number of critical relationships trapped behind the old seam.
+
 Every extension point is a promise that future systems may rely on. Every undocumented behavior that becomes widespread can harden into a de facto contract. Every middlebox that assumes traffic looks a certain way can make protocol evolution harder. The deployed network accumulates expectations that were never formally standardized but are real because breaking them breaks users.
 
 The installed base writes amendments in invisible ink.
