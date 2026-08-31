@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **43 books · 11 complete drafts · 1 in revision · 31 drafting**
+> **43 books · 12 complete drafts · 1 in revision · 30 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -48,7 +48,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 5 / 12 | ~20K | Civilization as the discovery, conversion, distribution, and application of energy—where useful work, access, quality, and externalities matter more than raw supply. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 / 21 | ~75K | Civilization advances by delegating work; every new layer of delegation multiplies reach while creating new problems of information, authority, checking, and control. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | Prologue drafted | ~3K | Stop waiting for one Singularity: the real experience may be an environment where breakthroughs arrive closer together and progress in one field accelerates another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
-| [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✍️ Drafting | 1 / 20 | ~5K | AI can either deepen learning or cheaply manufacture the appearance of it; schools must redesign teaching and assessment around what students still need to know, practice, and prove. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
+| [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 / 20 | ~60K | AI can either deepen learning or cheaply manufacture the appearance of it; schools must redesign teaching and assessment around what students still need to know, practice, and prove. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ Complete draft | 7 / 7 | ~20K | How intelligence changes when a model stops answering isolated prompts and starts continuing across time, memory, software, collaboration, and accountable invention. | [Read →](https://svyable.github.io/desk/reader/#/b/the-long-running-mind/) |
 | [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | Introduction drafted | ~2K | If we can measure almost everything, why are we still so bad at measuring what is good? A book about metrics, judgment, and where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
 | [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter / 35 planned | ~4K | Several frontiers are moving at once, expanding the space of reachable futures and moving old arguments from “Can we?” toward “Should we?” and “Who decides?” | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
