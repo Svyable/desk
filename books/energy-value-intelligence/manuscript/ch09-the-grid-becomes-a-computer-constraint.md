@@ -187,3 +187,65 @@ Software can scale by replication.
 Infrastructure scales by projects.
 
 The future will be determined partly by how well we make those two verbs work together.
+
+Berkeley Lab's interconnection numbers are worth dwelling on because they reveal how much “capacity” can exist before it exists. At the end of 2024, the lab counted roughly 1,400 gigawatts of proposed generation and about 890 gigawatts of proposed storage in active U.S. interconnection queues. The projects covered nearly the whole installed power system in aggregate ambition. Yet historical completion rates were low, and projects often spent years navigating studies before construction.
+
+A queue is therefore not a power plant.
+
+It is a population of intentions competing for engineering attention, network capacity, land, financing, equipment and belief.
+
+This distinction becomes important when people respond to data-center demand with a spreadsheet sum: there are hundreds of gigawatts of renewable projects in queue, therefore power is available. The queue may include multiple competing projects seeking the same transmission capability. Some have no offtaker. Some are speculative. Some will withdraw when upgrade costs arrive. Some will be delayed by equipment or permitting. The gross number measures search, not delivery.
+
+Intelligence can improve the quality of that search.
+
+One promising reform is simply to make projects reveal seriousness earlier. Cluster studies, stronger readiness requirements and better queue management can reduce the time engineers spend repeatedly studying projects that never intend to build. Better power-flow models and automated data handling can accelerate portions of analysis. Standardized interconnection designs can reduce bespoke engineering.
+
+But a faster study can still conclude that a new line is needed.
+
+The International Energy Agency's *Electricity 2026* report put the global timing mismatch in stark terms. More than 2,500 gigawatts of generation, storage and large-load projects were stalled in grid-connection queues worldwide. The agency noted that data centers can be delivered in roughly one to three years while many grid projects take five to fifteen. It also pointed to rising prices and longer procurement times for critical equipment such as transformers and cables.
+
+This is a systems problem expressed as lead time.
+
+A fast-growing industry can pay higher prices to jump some bottlenecks. It cannot bid a decade down to zero.
+
+That changes the economics of site selection. A developer may prefer a region with somewhat higher wholesale electricity prices but a credible near-term connection over a nominally cheaper region whose upgrade schedule is uncertain. A utility with spare substation capacity acquires an option it may not have known was valuable five years earlier. An old industrial site with a large existing interconnection can become attractive even if the building itself is obsolete.
+
+The scarce asset is sometimes the right to draw power.
+
+This has already changed how companies look at retired power plants and brownfield sites. The grid connection can outlive the original machine. A coal unit may close while the transmission access remains. Reusing that access for a data center, battery, renewable project or new generator can be faster than creating a greenfield connection, though the engineering is never automatic.
+
+Infrastructure stores history as option value.
+
+There is a risk, however, that the scramble for speed produces a private solution that pushes public costs outward. A hyperscaler can sign a contract for dedicated generation and still rely on the public grid for backup. A behind-the-meter plant can reduce average grid purchases but create a large contingency if it trips. A co-located load can alter the economics of an existing generator and the transmission system around it.
+
+The accounting boundary becomes the policy fight.
+
+Who is paying for standby reliability? Who funds network upgrades? Who bears fuel-price risk? Who absorbs the cost if the data center leaves before long-lived infrastructure is depreciated?
+
+These questions are mundane enough to disappear beneath headlines about artificial general intelligence. They will determine electricity bills.
+
+That is why large-load tariff design matters. A well-designed tariff can require a customer to make credible long-term commitments, cover directly attributable infrastructure and offer curtailment where it reduces system cost. A badly designed subsidy can shift risk toward households and smaller businesses while privatizing the upside of a global digital business.
+
+The point is not to punish new load.
+
+New industrial demand can be exactly what justifies useful investment. A large creditworthy customer can finance generation and grid upgrades that would otherwise arrive slowly. Construction creates a market for equipment suppliers. Higher utilization can lower average network costs. A data center willing to sign a long-term power contract can make a new plant bankable.
+
+Demand can build supply.
+
+The value question is whether the contract makes the party creating the cost also carry enough of the risk to make good decisions.
+
+This is the same principle used throughout the book. Good price signals are compressed intelligence about consequence.
+
+If connection is free regardless of location, developers have weak incentives to avoid congested nodes. If electricity prices ignore scarcity by hour, flexible compute has little reason to move. If a utility can recover every speculative investment from captive customers, it has weaker incentives to distinguish durable growth from a temporary boom. If data-center customers bear every system cost even when upgrades benefit everyone, useful investment can be deterred.
+
+The price has to be intelligent enough to preserve the option to build.
+
+There is also a deeper reason not to panic at a rising electricity forecast. Growth in electricity use is not itself evidence of decline. Electrification often replaces direct combustion with more efficient electric machines. Data centers can create services worth far more than the energy they consume. Low-income societies need more electricity, not less. The relevant question is the value and external cost of the marginal load.
+
+The grid's task is not to prevent demand.
+
+It is to make enough reliable capacity that valuable demand can arrive without making everyone else regret it.
+
+That is a harder ambition than “optimize the grid,” because it requires software and steel, foresight and construction, prices and politics.
+
+It is also a better one.
