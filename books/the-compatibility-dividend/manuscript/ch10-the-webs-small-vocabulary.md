@@ -120,6 +120,66 @@ The interface evolves from document retrieval toward a general application envir
 
 Standards governance has to decide what belongs.
 
+The browser wars supplied a harder lesson: a standard can exist on paper while the market fragments in implementation.
+
+By the late 1990s, web developers were living inside a compatibility tax. Netscape and Microsoft competed aggressively through their browsers. Features appeared in one implementation before another. Document object models differed. Rendering differed. Sites accumulated browser-specific code. “Best viewed with” badges became small admissions that the universal page had started behaving like a vendor-specific application.
+
+The Web Standards Project was formed in 1998 in response to this fragmentation. Its complaint was not that browsers were competing. Competition had produced rapid improvement. The complaint was that competition was moving into the seam that publishers depended on to remain universal. When browsers implemented the same public standards differently, every site owner became an involuntary integration engineer.
+
+This is a useful distinction.
+
+Competition above an interface can be generative. Competition over incompatible meanings of the interface can destroy the dividend the standard was supposed to create.
+
+The same pattern appears in physical infrastructure. Different appliance makers can compete on price, efficiency and design because the wall socket is boring. If each manufacturer also competes by slightly changing the voltage and pin geometry, the customer gets more “innovation” in a narrow sense and less usable choice in practice.
+
+The browser problem was not solved by freezing browsers.
+
+It was solved, imperfectly and over years, by improving convergence around common behavior while allowing enormous competition in engines, interfaces, performance, extensions and product design. Test suites became more important. Specifications became more precise about edge cases. Developers learned to distinguish standardized behavior from implementation accidents. Browser vendors discovered that compatibility itself was a product feature because users wanted the same web to work everywhere.
+
+This is a recurring maturity pattern.
+
+Young ecosystems celebrate feature velocity. Mature ecosystems begin pricing disagreement.
+
+An ambiguous corner of a specification may look harmless when ten programs use it. At global scale it becomes an economic liability. Millions of pages, libraries and users may depend on whatever behavior happened to become common. The standards process then has to decide whether to preserve the accident, clarify the rule or force migration.
+
+The web contains thousands of such fossils.
+
+They are not merely embarrassing leftovers. They are evidence that compatibility is partly historical. Real standards have to account for software already deployed, including software that misunderstood earlier standards in predictable ways.
+
+Browsers therefore sometimes emulate old mistakes because breaking the web is worse than carrying an inelegant compatibility rule. This resembles Unicode's promise not to reinterpret old text and the railway's reluctance to move rails after whole networks have been built around them. An installed base turns yesterday's quirks into today's constraints.
+
+The political economy becomes even clearer in the history of HTML governance.
+
+During the 2000s and 2010s, W3C and the WHATWG followed overlapping but not identical paths for HTML and the DOM. The details are institutional and technical, but the systemic problem was simple enough: two bodies could publish documents that participants might treat as normative for the same core technologies. By 2019, W3C and WHATWG explicitly said that maintaining two distinct versions claiming normative authority was harmful. They agreed to collaborate on a single development stream, with HTML and DOM developed principally through the WHATWG Living Standard process and W3C participating through the agreed working mode.
+
+That episode is easy to misread as bureaucratic trivia.
+
+It is actually a standards story about standards.
+
+Even institutions devoted to interoperability can create interoperability costs when their own outputs diverge. The cure was not for one side to declare itself morally superior. The cure was to reduce the number of places where implementers had to wonder which supposedly common rule governed.
+
+A specification therefore has at least three layers of authority.
+
+There is the text.
+
+There is the implementation behavior that users actually encounter.
+
+And there is the governance process that decides how disagreements between text and behavior are repaired.
+
+All three matter.
+
+A protocol with elegant prose and incompatible implementations is not interoperable. A protocol with interoperable implementations but opaque governance may become a private convention. A protocol with excellent governance but no adoption is a committee product.
+
+Infrastructure emerges when specification, implementation and incentives reinforce one another.
+
+This is why conformance tests are not secondary paperwork. They turn abstract agreement into something executable. Two teams can read the same sentence and sincerely implement different behaviors. A shared test can expose the disagreement before millions of users become the test harness.
+
+The agent economy will need unusually strong versions of this machinery because semantic drift has consequences beyond layout.
+
+If two browsers disagree about a margin, a page looks wrong.
+
+If two agents disagree about whether `cancelled` means “no side effect occurred” or “stop trying but the payment may already have settled,” the same kind of interoperability bug becomes a financial dispute.
+
 This question will arrive quickly for AI agent protocols.
 
 A protocol that begins by exchanging tasks may be asked to include payment, identity, memory, reputation, negotiation, discovery, authorization, tracing, tool access, human approval and legal terms. Each addition seems reasonable in isolation. Together they can turn a narrow interoperability layer into an operating system for agency.

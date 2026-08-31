@@ -34,7 +34,7 @@ body:
         - predictable
         - proof-of-human
         - public-pressure
-        - restructuring-america
+        - right-to-try
         - scaling-laws
         - silent-cartel
         - single-points-of-failure
@@ -64,7 +64,6 @@ body:
         - to-state-the-obvious
         - useful-noise
         - vectors
-        - wild-speculation
     validations:
       required: true
   - type: input
