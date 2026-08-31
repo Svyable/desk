@@ -7,7 +7,7 @@
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Form** | Essay / narrative nonfiction |
-| **Chapters** | 1 working manuscript + 1 companion chapter |
+| **Chapters** | 1 working manuscript + 2 companion chapters |
 
 ## Premise
 
@@ -17,10 +17,12 @@ Artificial intelligence can make public administration dramatically cheaper. The
 
 - [x] [Working manuscript](manuscript/austerity-measures.md)
 - [x] [Companion chapter — The Headcount Illusion](manuscript/ch02-the-headcount-illusion.md)
+- [x] [Companion chapter — The Capacity Budget](manuscript/ch03-the-capacity-budget.md)
 
 ## Research
 
 - [Source notes](research/source-notes.md)
+- [The Capacity Budget — source notes](research/capacity-budget-sources.md)
 
 The Desk edition remains a working draft until deliberately released to Shelf.
 

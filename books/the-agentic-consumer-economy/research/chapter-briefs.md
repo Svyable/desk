@@ -34,7 +34,7 @@
 
 **Central question:** What does a merchant need to know when the immediate buyer is software acting for a person?
 
-**Evidence used:** Mastercard Agent Pay materials; Google AP2; merchant discussions of agent verification and delegated intent.
+**Evidence used:** Mastercard Agent Pay materials; Google AP2; Visa Trusted Agent Protocol; merchant discussions of agent verification and delegated intent.
 
 **Counterevidence:** Merchants may continue to require visible human approval for most transactions.
 
@@ -114,7 +114,7 @@
 
 **Central question:** Can a consumer safely let software choose which merchants and claims to trust?
 
-**Evidence used:** Agent authorization protocols; payment-network trust frameworks; reputation systems; fraud and dispute structures.
+**Evidence used:** Google AP2 and Mastercard agent-payment/intent work; Visa Trusted Agent Protocol; FIDO Alliance agentic-authentication standards work; Stripe Machine Payments Protocol; reputation, fraud and dispute structures.
 
 **Counterevidence:** Trust may remain too contextual for reliable automation, especially for high-stakes or novel purchases.
 
@@ -124,9 +124,9 @@
 
 **Central question:** What happens when an agent optimizes spending across categories rather than one transaction at a time?
 
-**Evidence used:** Household budgeting logic; loyalty and payment interactions; recurring billing; financial inclusion infrastructure.
+**Evidence used:** Household budgeting logic; loyalty and payment interactions; recurring billing; financial inclusion infrastructure; a 2025 BIS experiment on GenAI agents managing simulated wholesale-payment liquidity as a limited analogy for sequencing obligations under constraints.
 
-**Counterevidence:** People may resist cross-domain financial access or prefer separate specialist tools.
+**Counterevidence:** People may resist cross-domain financial access or prefer separate specialist tools; wholesale payment-system experiments do not establish safe or desirable autonomous household financial control.
 
 **What would make this false?** If cross-market household agents do not improve cash flow, fee avoidance, benefit use, or purchasing decisions compared with category-specific tools.
 
@@ -134,7 +134,7 @@
 
 **Central question:** Does the agent layer become the next dominant digital gatekeeper?
 
-**Evidence used:** Historical platform economics; current AI-commerce integration; EU DMA logic around gatekeepers, interoperability, and portability.
+**Evidence used:** Historical platform economics; current AI-commerce integration; EU DMA logic around gatekeepers, interoperability, and portability; OECD’s 2026 analysis of agentic AI, consumer agency and competition/consumer-policy overlap.
 
 **Counterevidence:** Open standards, multi-homing, local models, and rapid model commoditization may keep the layer competitive.
 
@@ -154,7 +154,7 @@
 
 **Central question:** What happens when buyer agents face equally automated seller pricing, negotiation, and retention systems?
 
-**Evidence used:** FTC surveillance-pricing findings; agent payment/identity work; algorithmic-pricing literature; existing revenue-management systems.
+**Evidence used:** FTC surveillance-pricing findings; Google, Mastercard and Visa agent payment/identity work; Stripe machine-payment infrastructure; algorithmic-pricing literature; existing revenue-management systems.
 
 **Counterevidence:** Sellers may choose simple posted prices and standardized policies because automated bargaining creates distrust or regulatory risk.
 
@@ -184,7 +184,7 @@
 
 **Central question:** Who controls the memory, permissions, and representation that make a consumer agent valuable?
 
-**Evidence used:** Platform switching-cost history; EU DMA portability/interoperability enforcement; delegated payment mandates; privacy and identity architecture.
+**Evidence used:** Platform switching-cost history; EU DMA portability/interoperability enforcement; OECD 2026 competition/consumer-policy analysis; delegated payment mandates; privacy and identity architecture.
 
 **Counterevidence:** Portable local memory, open standards, and multi-agent architectures may prevent durable lock-in.
 
