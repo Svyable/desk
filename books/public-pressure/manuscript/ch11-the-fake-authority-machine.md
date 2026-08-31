@@ -277,3 +277,89 @@ It is an opportunity for better governance.
 A legitimate institution should be able to answer the question a scammer cannot:
 
 Where, outside this message, does your authority live?
+
+The answer is rarely one database. Authority is layered because institutions are layered. A corporation exists in a jurisdiction, has directors and officers, maintains accounts, signs contracts, employs people, owns domains, controls internal systems, files documents, and interacts with banks and regulators. A government agency has statutory authority, official offices, published procedures, personnel records, case numbers, and channels whose legitimacy does not depend on the charisma of the person contacting you.
+
+A scammer can imitate many of these pieces separately.
+
+The harder task is acquiring control of the relationships among them.
+
+That is why verification should increasingly follow relationship edges rather than appearances. Does the supposed employee communicate through an account controlled by the company? Does the requested payment correspond to an existing contract? Does the regulator’s case number exist in the agency’s system? Does the license appear in the official registry? Does the bank’s authenticated portal show the alert?
+
+Each answer binds the claim to infrastructure the impersonator may not control.
+
+AI assistants could become unusually useful in this work if they are designed to retrieve authority rather than infer it. A consumer should be able to ask an assistant, “Is this company licensed to provide the service it claims?” and receive an answer grounded in the relevant registry rather than ten websites that mention the company. A worker should be able to verify an executive instruction against an internal approval system. A citizen should be able to ask whether an agency actually uses a payment method described in a suspicious message.
+
+This is a different kind of intelligence from fluent synthesis.
+
+It is institutional navigation.
+
+The distinction matters because large language models are naturally good at making scattered information coherent. Fraud exploits coherence. A verification assistant must sometimes resist synthesis and privilege authoritative contradiction.
+
+Nine websites can say the firm is regulated.
+
+The registry says it is not.
+
+The correct system should not average the evidence.
+
+It should understand why the registry has jurisdiction over the claim.
+
+That is a semantic problem and an institutional one. The model needs to know not merely which source looks trustworthy but which source has the authority to answer which question.
+
+This is the same architecture human professionals use. A journalist does not ask a company’s marketing page whether a securities license is valid. A lawyer does not ask a random blog whether a court entered an order. A doctor does not treat a product testimonial as the controlling prescribing information.
+
+Expertise partly consists of source routing.
+
+AI can democratize that expertise if products are designed around provenance rather than persuasion.
+
+There is a commercial opportunity here. Institutions that make themselves machine-verifiable may become easier for assistants to recommend and safer for users to trust. A legitimate business can publish structured identity, licensing, support, payment, and authorization information through channels designed for independent checking. Government agencies can make official notices easier to validate. Professional registries can expose machine-readable status.
+
+The web learned a version of this lesson with secure connections. Users did not become cryptographers. Infrastructure absorbed part of the authentication burden.
+
+The synthetic era may need the organizational equivalent.
+
+This does not require one global identity ledger. Centralization would create its own target, surveillance risk, and political power. It means building verifiability into the domains that already possess authority.
+
+Banks verify bank relationships.
+
+States verify corporate registration.
+
+Professional bodies verify licenses.
+
+Governments verify official notices.
+
+Companies verify employees and internal authorizations.
+
+Campaigns verify their own media.
+
+The model or user then composes those proofs for the decision at hand.
+
+The result will never eliminate fraud. Real institutions themselves can lie or fail. A registered company can commit fraud. A licensed professional can behave badly. An authentic government notice can enforce a policy the citizen believes is unjust.
+
+Verification solves identity and authority, not morality.
+
+That limit is an advantage because it keeps authentication systems from becoming truth ministries.
+
+They establish who is speaking and whether the speaker holds the claimed role.
+
+Public pressure can take over from there.
+
+If the authenticated CEO made the promise, critics can hold the company to it.
+
+If the authenticated agency issued the order, lawyers can challenge the order.
+
+If the authenticated campaign published the video, voters can judge the message.
+
+A common evidentiary ground makes disagreement sharper rather than weaker.
+
+This is why the fake authority machine is not only a consumer-fraud story. It is a governance story. Cheap imitation attacks the social shortcut through which modern institutions borrowed credibility from professional appearance.
+
+The response is to make legitimate authority less aesthetic and more inspectable.
+
+That will inconvenience real institutions. They will have to maintain registries, controlled channels, credentials, logs, and clear procedures. They will lose some ability to rely on people simply recognizing the brand.
+
+That inconvenience is the price of a world in which the brand can be generated.
+
+The scammer made authority-shaped language cheap.
+
+The legitimate institution now has to make actual authority easier to prove.
