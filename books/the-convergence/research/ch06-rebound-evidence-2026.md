@@ -16,11 +16,13 @@ Source:
 
 ## A newer household-level synthesis is larger — and measures more
 
-A 2025 meta-regression by Marvin Schütt, Anke Jacksohn, Tobias Möllney, and Katrin Rehdanz assembled 1,118 rebound estimates from 43 studies. Their estimated average **total microeconomic rebound** is roughly 41–52 percent.
+A 2025 meta-regression by Marvin Schütt, Anke Jacksohn, Tobias Möllney, and Katrin Rehdanz assembled 1,118 rebound estimates from 43 studies. In the authors’ main specifications, the modeled mean **total microeconomic rebound for their reference-study configuration** ranges from roughly 41% to 52%.
+
+That is not a literature-wide average rebound rate. The paper explicitly says the constant in its meta-regressions represents the expected mean rebound for a specified reference study — one particular combination of data, scenario, and estimation choices — while the moderator coefficients show how other methodological choices shift the estimate. The study’s larger lesson is therefore the dispersion itself: study design, data type, scenario construction, and estimation choices explain a substantial share of the differences across published estimates.
 
 That does not straightforwardly overturn the older “below 30 percent” direct-rebound result. The object is broader. The meta-regression combines estimates across services and study designs and explicitly finds that methodology, data type, scenario construction, and estimation choices explain a substantial share of the dispersion.
 
-The useful manuscript implication is not “the accepted rebound number is now 50 percent.” It is that direct rebound and total micro rebound should not be placed on the same numerical ladder without naming the difference.
+The useful manuscript implication is not “the accepted rebound number is now 50 percent.” It is that direct rebound and total micro rebound should not be placed on the same numerical ladder without naming the difference — and that even the 41–52% figure should not be presented as the unconditional mean of the literature.
 
 Source:
 
@@ -77,7 +79,7 @@ A defensible chapter claim is therefore conditional: efficiency reliably reduces
 The existing Chapter 6 evidence section should eventually distinguish three levels in one short passage rather than presenting the estimates as a progression toward a single “true” rebound number:
 
 1. direct household rebound is often modest;
-2. broader microeconomic rebound can be materially larger;
+2. broader microeconomic rebound can be materially larger, but the newer meta-regression does not supply one unconditional literature-wide average;
 3. economy-wide estimates can reach or exceed 100 percent, but are more model- and identification-sensitive.
 
 That hierarchy would make the chapter more precise without changing its conclusion: efficiency is a genuine technological improvement, but conservation is an outcome of an entire system rather than a property of the machine alone.
