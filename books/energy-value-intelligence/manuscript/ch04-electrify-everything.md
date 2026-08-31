@@ -22,6 +22,24 @@ This is why the economic effect of a technology can arrive later than the techni
 
 The phenomenon is sometimes called a productivity lag. It should also be understood as an intelligence lag.
 
+Economic historian Paul David made this point famous by comparing the late twentieth-century computer productivity puzzle with the earlier electrification of factories. The dynamo existed before its largest productivity effects appeared in aggregate data. Industrial plants first had to acquire motors, change layouts, replace old capital, train workers, learn new production methods and build managerial routines around a different power architecture.
+
+The lag was not evidence that electricity had failed.
+
+It was evidence that the complement was the organization.
+
+Factory-level history reinforces the point. Electrification did more than replace a steam engine with a motor. Distributed electric drive reduced dependence on long line shafts. Machines could be arranged around process flow rather than mechanical transmission. Portable tools became practical. Lighting, ventilation and cleanliness improved. Expansion became easier. Studies of early twentieth-century manufacturers have found that electrifying plants increased output and labor productivity relative to plants that did not electrify, with part of the gain coming from more efficient production processes rather than simply from adding more energy or capital.
+
+This matters because it changes the unit of analysis.
+
+If we ask whether an electric motor was cheaper than a steam engine at one task, we can miss the value created by changing the whole factory. The important productivity gain can appear in shorter material movement, fewer transmission losses, more flexible machine placement, better working conditions, faster expansion and tighter control.
+
+The new technology alters the cost of coordination inside the plant.
+
+That is why productivity statistics can lag invention. The installed base of old factories embodies yesterday's assumptions. Managers have careers invested in yesterday's workflow. Accounting categories measure yesterday's units. Suppliers produce equipment compatible with yesterday's system. Workers know how to operate yesterday's process. Reorganization destroys some existing capital and some existing expertise before the new system's advantage becomes visible.
+
+A general-purpose technology often asks society to pay for two things at once: the new tool and the abandonment of the old architecture.
+
 The world can possess a new capability before it possesses the organizational knowledge required to harvest its full value.
 
 That lesson matters for artificial intelligence because companies currently face a similar temptation: bolt a new intelligence layer onto an old process and count the minutes saved. A clerk once copied information from one form to another, so a model now copies it faster. A programmer once wrote boilerplate, so a model now writes the boilerplate. A call-center worker once searched a knowledge base, so a model now finds the answer.
@@ -31,6 +49,16 @@ These uses can be valuable. They may also be the equivalent of attaching an elec
 The deeper productivity gain may require redesigning the process around the assumption that some cognition is cheap, fast and continuously available. If software can inspect every incoming document, perhaps the organization no longer needs the same queue. If models can generate and test many design alternatives, perhaps product development changes sequence. If agents can monitor equipment continuously, maintenance may become more predictive. If translation is cheap, the boundary of the market changes. If drafting is cheap, review and accountability become the bottlenecks.
 
 The new technology reveals itself by changing architecture.
+
+There is an uncomfortable implication.
+
+Organizations that measure AI adoption only through task-level time savings may systematically underinvest in redesign. The easiest return comes from making an old step cheaper. The larger return may require deleting the step, moving the decision, changing who has authority, rebuilding a database, exposing a tool interface, altering incentives or accepting a temporary productivity dip while the organization relearns its own workflow.
+
+This makes adoption look slower than capability progress.
+
+A model can improve every few months. An organization may need years to change budgeting, risk controls, software, training and job design. The gap between those clocks can produce alternating disappointment and overreaction. One year the technology appears overhyped because productivity has not moved. The next year a redesigned competitor suddenly operates with a cost structure the old organization cannot match.
+
+The lag is where strategy lives.
 
 Electricity did something else that makes it a useful model for the present. It became a general carrier.
 
