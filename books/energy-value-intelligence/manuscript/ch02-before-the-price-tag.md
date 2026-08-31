@@ -34,6 +34,18 @@ Energy acquired an institutional layer.
 
 A granary is therefore both a physical technology and a political object. Its value depends on the ability to keep grain dry, defend it, count it, allocate it and retain enough legitimacy or coercive power to make the allocation stick. A society may possess sufficient harvests in aggregate and still produce starvation through war, entitlement failure, hoarding, transport breakdown or exclusion. Amartya Sen's work on famine would later make this point with economic precision: food availability and the ability of particular people to command food are not the same thing.
 
+Sen's argument is worth lingering over because it exposes the difference between a stock and an entitlement to the stock. He was shaped in part by the Bengal famine of 1943, which he witnessed as a child. The catastrophe did not strike every class equally. People with secure incomes and claims on food could continue eating while landless laborers and others whose purchasing power collapsed were devastated. In later work Sen challenged the idea that famine should be explained only by a fall in aggregate food availability. The harder question was which groups had lost the ability to obtain food through wages, production, exchange, public relief or other socially recognized claims.
+
+That is a profound systems lesson.
+
+The existence of a resource does not guarantee access to the service produced from it.
+
+A warehouse can be full and a household hungry. A reservoir can be high and a neighborhood dry. A country can have generating capacity and a factory can still lack a connection. A company can have a subscription to the best model in the world and still be unable to use it because its data are inaccessible, its systems are incompatible or its employees lack authority to change the process.
+
+The failure can occur after abundance.
+
+This is why physical inventories and social capabilities have to be analyzed together. Energy history tempts us to count tons, acres, horsepower and kilowatt-hours because those quantities are tangible. Yet human welfare depends on the conversion path from resource to access to use. An acre of grain means one thing to its owner, another to a tenant, another to a laborer paid in cash, and still another to an urban household dependent on a functioning market. The same crop can be simultaneously abundant in aggregate and inaccessible to the people most exposed to a price shock.
+
 This distinction between supply and access will recur throughout the book.
 
 There can be enough electricity in a region and not enough transmission to a load. Enough compute in the world and no affordable access for a small firm. Enough intelligence in a population and institutions that waste it. Enough money in a budget and no administrative capacity to execute. Enough food in a country and households without entitlement to it.
@@ -46,7 +58,15 @@ This is easy to underestimate from a world in which energy arrives through pipes
 
 The economy was closer to the photosynthetic budget.
 
-That budget could be extended through trade. A city could import grain, timber, oil, fodder and other energy-rich goods from a larger hinterland. Empires could compel flows across enormous distances. Merchant networks could do so through exchange. Ports became conversion points between regional ecologies and urban consumption. The larger the network, the more a population could draw on energy and materials outside its immediate land base.
+That budget placed pressure on land in several roles at once. A hectare might grow food for people, fodder for animals, timber for construction, or fuel for heat. Expanding one use could tighten another. A city that consumed more firewood drew on a larger hinterland. A cavalry force did not merely require horses; it required the land and logistical system that fed them. A charcoal-intensive industry could put pressure on forests long before anyone had a modern concept of energy policy.
+
+The constraint was not simply “low technology.” It was competition among conversions of current solar income.
+
+Fossil fuels later mattered in part because they loosened this land-energy coupling. Coal could provide heat without requiring an equivalent annual harvest of wood. Steam could provide mechanical work without continuously feeding an animal. The transition did not abolish land or biology, but it allowed industrial output to grow beyond some of the tightest limits of an organic energy economy.
+
+That is a physical change with enormous economic consequences.
+
+The budget could also be extended through trade. A city could import grain, timber, oil, fodder and other energy-rich goods from a larger hinterland. Empires could compel flows across enormous distances. Merchant networks could do so through exchange. Ports became conversion points between regional ecologies and urban consumption. The larger the network, the more a population could draw on energy and materials outside its immediate land base.
 
 Trade is often described in monetary terms because prices are visible. Physically, it also rearranges energy.
 
@@ -127,5 +147,11 @@ Hunger, cold and fatigue enforced a direct accounting. Modern civilization shoul
 The goal is to retain the lesson after success has hidden it.
 
 Every claim eventually settles against capacity.
+
+And every capacity settles against access.
+
+The first question is whether the resource exists. The second is whether the system can convert it. The third is whether the people who need the result are allowed, able and equipped to obtain it.
+
+The history before the price tag teaches all three at once.
 
 The question is what kind of capacity, who controls it, and how intelligently we convert it into a life worth valuing.
