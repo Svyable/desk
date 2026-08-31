@@ -40,6 +40,82 @@ This is why standards disputes often become trade disputes.
 
 The border has moved into the specification.
 
+Governments know this and often choose to borrow private standards rather than write every technical rule themselves.
+
+In the United States, federal policy has made that preference explicit for decades. OMB Circular A-119 directs federal agencies, where practical and consistent with law, to use voluntary consensus standards instead of creating government-unique standards. The logic is sensible. Standards organizations concentrate specialized expertise. Industry already uses many of their specifications. Reusing them can reduce duplication, lower procurement costs and make federal requirements more compatible with commercial markets.
+
+This is government benefiting from someone else's coordination machinery.
+
+It is also a transfer of practical authority.
+
+A private technical committee can make decisions that later become relevant to federal purchasing, regulation or program requirements even though the committee itself is not a legislature. The government has not surrendered its legal authority. It still decides whether and how to incorporate or reference the standard. But the technical content entering that decision may have been developed through an institution with different participation rules, funding, transparency norms and intellectual-property policies from public rulemaking.
+
+The line between public and private governance becomes a membrane rather than a wall.
+
+That membrane can work extremely well.
+
+A federal agency that needs a specification for a mature engineering problem may gain little by assembling its own rival committee and inventing another standard. Reuse can make government less idiosyncratic and markets more coherent.
+
+The same arrangement raises questions that become visible only when the borrowed standard matters enough.
+
+Who could afford to participate in writing it?
+
+Can the public read it without paying?
+
+Who owns the copyright?
+
+How are conflicts of interest handled?
+
+What happens when the private body changes the standard after government has built policy around an earlier version?
+
+These are not reasons to reject incorporation of voluntary standards.
+
+They are reminders that efficiency does not erase provenance.
+
+The European Union provides an even sharper example because its system of harmonised standards gives certain technical documents a defined relationship to legal compliance.
+
+Under the EU's “New Approach” and later legislative framework, legislation can state essential requirements while European standards organizations develop harmonised technical standards supporting those requirements. When a harmonised standard is referenced in the Official Journal under the relevant legislation, a product conforming to that standard can receive a presumption of conformity with the legal requirements covered by it.
+
+The manufacturer may still be able to demonstrate compliance by another route.
+
+That point matters.
+
+The harmonised standard is not necessarily a command that every producer use one exact design. The system preserves formal voluntariness while making the standard an unusually attractive path through compliance. Follow it and the law supplies a presumption. Depart from it and the burden of demonstrating conformity may become more complicated.
+
+Voluntary does not mean inconsequential.
+
+The economics of proof can make one path dominant without making it legally exclusive.
+
+This architecture is elegant because it can separate public goals from technical detail. Legislators set essential safety requirements. Technical experts maintain methods and specifications that can evolve more readily than statutes. Manufacturers can innovate outside the harmonised standard if they can still prove compliance.
+
+It also creates the paradox at the center of this chapter.
+
+A privately developed document can acquire public legal effects while remaining governed partly by private institutional practices.
+
+That paradox reached the Court of Justice of the European Union in a dispute over access to harmonised toy-safety standards. Public.Resource.Org and Right to Know sought access to standards referenced under EU product-safety law. In March 2024, the Grand Chamber held that there was an overriding public interest in disclosure of the standards at issue. The Court emphasized their legal effects and treated them as part of EU law for purposes of the access dispute.
+
+The ruling did not transform every technical standard into legislation.
+
+It did something more revealing.
+
+It recognized that a document's institutional origin does not settle the nature of the power it later exercises.
+
+If public law gives a private specification enough legal consequence, access to the specification becomes a public-law concern.
+
+The question “who may read the standard?” stops being merely a publishing question.
+
+It becomes part of the rule-of-law architecture.
+
+This is a useful warning for the machine economy.
+
+Suppose a regulator requires autonomous purchasing systems to satisfy “recognized industry standards” for authorization, audit and revocation. The phrase sounds flexible. If one standards consortium becomes the practical source of those requirements, its technical choices can become the easiest route to legal compliance. Firms may treat optional fields as mandatory because auditors expect them. Credential issuers may implement only the dominant profile. Insurance contracts may reference it. Procurement systems may require it.
+
+Nobody has passed a Machine Agent Constitution Act.
+
+A constitution-like layer can still emerge through references, contracts, conformity assessments and market expectations.
+
+That is why provenance and governance matter before the standard becomes boring.
+
 The most useful way to analyze this power is to ask who controls four things: definition, implementation, verification and distribution.
 
 Definition is the ability to write or change the standard.
@@ -71,6 +147,10 @@ Can users switch among implementations while preserving data and relationships?
 Can the standard evolve without one vendor's veto?
 
 Can a participant leave the ecosystem without abandoning its customers or archives?
+
+The public/private cases add another question.
+
+If law or procurement gives the standard public consequences, can the people governed through those consequences inspect the rules on reasonable terms?
 
 These questions reveal where the dictator might be hiding.
 
