@@ -22,9 +22,9 @@ The clinic is small at the front end.
 
 The supply chain behind it is large.
 
-Germany offers one of the clearest examples because its legal and medical system permits certain individualized treatment attempts under physician responsibility outside the ordinary path of a fully approved commercial product.
+Germany offers one of the clearest examples of why the legal language has to be handled carefully. German medical practice recognizes individualized treatment attempts under physician responsibility in particular circumstances, but that phrase is not a universal exemption from medicinal-product law. Manufacturing authorization, product classification and the rules for advanced therapy medicinal products remain separate questions. The German Medicinal Products Act itself contains a physician-related manufacturing exception in defined circumstances while expressly excluding advanced therapy medicinal products from that particular exception.
 
-The German term Heilversuch is often translated as an individual treatment attempt or therapeutic attempt. The details matter, and no short description captures every legal requirement. The basic idea is that a physician may, in particular circumstances, use an unapproved or non-standard intervention for an individual patient when professional duties and applicable laws are satisfied.
+The German term Heilversuch is often translated as an individual treatment attempt or therapeutic attempt. The details matter, and no short description captures every legal requirement. The useful point is narrower: an individualized treatment can be lawful in a physician-led setting without becoming an approved commercial product, and the legality depends on the exact product, manufacturing arrangement and governing rules rather than on the word personalized.
 
 This is not equivalent to a drug approval.
 
@@ -32,11 +32,11 @@ It is not equivalent to a randomized clinical trial.
 
 It is also not automatically unlawful medicine.
 
-Some German oncology providers explicitly describe patient-specific neoantigen vaccines within such individualized pathways. They publish pricing, testing requirements and treatment structures. IOZK in Cologne, for example, publicly lists costs for elements of individualized immunotherapy and vaccine treatment. Other German organizations advertise personalized peptide-vaccine approaches based on tumor sequencing.
+Some German oncology providers explicitly describe patient-specific neoantigen vaccines within individualized-treatment frameworks. They publish pricing, testing requirements and treatment structures. IOZK in Cologne, for example, publicly lists costs for elements of individualized immunotherapy and vaccine treatment. Other German organizations advertise personalized peptide-vaccine approaches based on tumor sequencing.
 
 The existence of these programs forces a more careful vocabulary.
 
-“Unapproved” can mean an investigational product used under a lawful physician-led mechanism.
+“Unapproved” can mean an investigational product used under a lawful physician-led or clinical framework.
 
 It can also mean a product marketed illegally without required authorization.
 
@@ -66,7 +66,7 @@ Those questions survive national borders.
 
 Switzerland provides a different model.
 
-In 2026, groups including Swiss clinical institutions were preparing formal trials of personalized cancer vaccines. A formal clinical trial is not a mini-clinic workaround. It represents the mainstream research pathway: predefined protocol, ethics review, eligibility criteria, data collection and regulatory oversight.
+In 2026, groups including Swiss clinical institutions were preparing formal trials of personalized cancer vaccines. Formal Swiss clinical trials of therapeutic products operate through ethics and, for relevant higher-risk categories, Swissmedic review. That pathway is not a mini-clinic workaround. It represents mainstream clinical research: predefined protocol, eligibility criteria, regulatory classification, data collection and oversight.
 
 The comparison is useful because the molecular process can look similar from the patient's perspective.
 
@@ -241,3 +241,79 @@ We do not know this.
 Here is what we will learn from what happens to you.
 
 The third sentence is what turns a frontier into medicine rather than commerce with a laboratory attached.
+
+The practical problem is that the three legal categories patients most often encounter—trial, expanded access and individualized treatment—optimize for different things.
+
+A trial optimizes for interpretable evidence. Eligibility is narrow because the comparison has to mean something. Treatment follows a protocol. Endpoints and monitoring are predefined. The patient's care contributes to a collective answer even if the individual patient receives no benefit.
+
+Expanded access optimizes for access without pretending to be a trial. It accepts that the patient cannot reasonably wait for or enter the ordinary evidence-generating pathway. Safety information can still be collected, but the treatment is not structured primarily to estimate efficacy against a control group.
+
+An individualized physician-led treatment optimizes for clinical judgment in a particular case under the laws and professional duties of the jurisdiction. Its justification may be the patient's situation rather than a sponsor's development program.
+
+Problems begin when a provider presents the advantages of one category while borrowing the authority of another.
+
+An individualized treatment can be described with the scientific language of a clinical trial even when no protocol-level evidence is being generated. A commercial clinic can imply regulatory legitimacy because the treatment is lawful under a physician pathway. A sponsor can emphasize trial oversight as if participation guarantees personal benefit.
+
+The categories need clear borders precisely because patients may rationally move between them.
+
+A patient might first seek a randomized trial, then pursue expanded access when enrollment fails, then consider a foreign individualized-treatment program if the manufacturer declines. That sequence is not irrational. It is the behavior of someone searching through shrinking options.
+
+Good policy should make the evidence and obligations legible at every transition.
+
+Documentation is one tool.
+
+A frontier provider should be able to produce a treatment dossier that identifies the responsible physician, legal basis, manufacturer, material specifications, target-selection method, relevant preclinical or clinical evidence, dosing plan, adverse-event process and follow-up plan. The point is not to make the patient audit a manufacturing plant.
+
+It is to make responsibility traceable.
+
+Traceability changes incentives.
+
+If the provider knows every treated patient enters a standardized registry, selective memory becomes harder. If manufacturing failures must be recorded, the apparent success rate cannot exclude people whose product never reached the clinic. If serious adverse events follow the product across borders, safety signals can accumulate instead of disappearing into separate practices.
+
+The market begins to generate evidence even when randomization is impossible.
+
+That evidence will still be weaker than a controlled trial for causal inference.
+
+It can be much stronger than testimonials.
+
+The distinction matters for rare cancers, where the commercial trial system may never arrive. A registry with genomic details, manufacturing information and standardized outcomes can reveal whether an approach repeatedly produces responses worth testing more formally. It can also reveal expensive futility.
+
+Failure reporting is the frontier's hardest test because the business model pushes the other way.
+
+A clinic paid per treatment has no natural financial reward for publishing that most patients did not benefit. A manufacturer paid per batch can be commercially healthy even when the clinical strategy is weak. A physician can sincerely remember exceptional responders more vividly than ordinary failures.
+
+The incentive does not require fraud.
+
+It requires a denominator.
+
+This is why mandatory minimum reporting may be more realistic than demanding every small clinic run a randomized trial. Regulation can distinguish evidence generation from access without allowing repeated commercial treatment to become evidence free.
+
+Advertising is another point of leverage.
+
+A clinic should not be prohibited from accurately describing published science. It should be required to separate evidence about the offered product and indication from evidence about adjacent products or other cancers. The more a claim depends on analogy, the more visible the analogy should become.
+
+“Personalized neoantigen vaccination has shown Phase 3 benefit in resected melanoma” is a statement about a defined program and disease setting.
+
+“Our personalized neoantigen vaccine will benefit your metastatic sarcoma” is a different claim.
+
+The scientific vocabulary between them does not close the evidentiary gap.
+
+Consent should make that gap explicit before money changes hands.
+
+Payment itself can also be designed to reduce perverse incentives. A provider could separate nonrefundable costs already incurred—sequencing, target selection, synthesis—from fees contingent on successful manufacture or actual administration. Refund rules can be defined for unusable samples and failed batches. Patients can be told which parts insurance is unlikely to cover.
+
+Financial consent is part of medical consent when the intervention is experimental.
+
+The same principle applies to opportunity cost.
+
+A patient considering a frontier therapy should receive a written account of standard options that remain available and the consequences of delaying them. The experimental provider does not need to believe standard therapy is superior. It needs to acknowledge when the decision can close another door.
+
+That requirement would improve the market because responsible clinics already behave closer to this standard.
+
+The frontier should not be regulated as if every experiment is exploitation.
+
+It should be regulated so experimentation leaves a trail.
+
+The great advantage of personalized medicine is that each patient's tumor can teach the system something specific.
+
+The great waste would be to charge for that lesson and then forget it.
