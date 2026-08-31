@@ -57,6 +57,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [To State the Obvious](https://svyable.github.io/desk/books/to-state-the-obvious/README.md)
 - [Useful Noise](https://svyable.github.io/desk/books/useful-noise/README.md)
 - [Vectors](https://svyable.github.io/desk/books/vectors/README.md)
+- [Wild Speculation](https://svyable.github.io/desk/books/wild-speculation/README.md)
 
 ## Reading a book
 
