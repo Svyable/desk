@@ -49,6 +49,24 @@ Affordability interventions can improve access but can also damage utility finan
 
 The 2026 access totals will be revised as underlying national survey and census data improve. Treat the headline counts as the best current global estimates, not exact enumerations of every unserved person.
 
+## 2026 completion-pass verification
+
+The June 24, 2026 release of *Tracking SDG 7* confirms the manuscript’s headline quantities: 655 million people lacked electricity in 2024, more than 560 million of them in sub-Saharan Africa, while about two billion people still used polluting fuels and technologies for cooking. It also gives the chapter a sharper trend claim: the global electricity-access rate stagnated at 92% in 2024, and the rural electricity deficit in sub-Saharan Africa rose from 376 million people in 2010 to 447 million in 2024.
+
+Source: https://www.worldbank.org/en/news/press-release/2026/06/16/accelerating-universal-energy-access
+
+The same release supplies useful counterevidence to any single-technology “last mile” story. It describes distributed renewable energy as a cost-effective access solution already serving hundreds of millions of people, but the underlying problem remains affordability, financing, geography, and service quality rather than generation technology alone. The chapter should therefore resist converting a strong case for mini-grids and off-grid solar in some settings into a universal claim that grid extension is obsolete.
+
+The World Bank’s 2026 decade review of the Multi-Tier Framework sharpens the measurement language. For electricity, the framework evaluates peak capacity, availability, reliability, voltage quality, affordability, formality, and health and safety. A household’s tier reflects the performance of the service across these attributes, which makes the key causal point clearer: a connection can exist while one weak attribute still blocks a desired service.
+
+Source: https://documents1.worldbank.org/curated/en/099040126145541234/pdf/P506480-7863d7c6-efa5-4e63-94eb-a2a86a8ef375.pdf
+
+### Strongest counterargument after verification
+
+A multidimensional framework can itself become too demanding if it makes modest but consequential gains look inadequate. A household that moves from kerosene lighting to a small solar system may still rank low on capacity or duration while experiencing a large improvement in safety, communications, study time, and cash expenditure. The chapter should preserve that asymmetry: **basic access can be profoundly valuable even when it remains incomplete.**
+
+The strongest formulation is therefore not “binary access is wrong.” It is: **binary access measures a first threshold; capability requires knowing what the service can actually support after the threshold is crossed.**
+
 ## Falsification triggers for later revision
 
 Revisit this chapter if:
@@ -62,5 +80,6 @@ Revisit this chapter if:
 ## Source links
 
 - IEA et al., *Tracking SDG7: The Energy Progress Report, 2026*: https://www.iea.org/reports/tracking-sdg7-the-energy-progress-report-2026
+- World Bank, June 24, 2026 access release: https://www.worldbank.org/en/news/press-release/2026/06/16/accelerating-universal-energy-access
 - World Bank/ESMAP, *The Multi-Tier Framework for Energy Access: Insights and Impact from a Decade of Surveys*: https://www.esmap.org/publications/multi-tier-framework-energy-access-insights-and-impact-decade-surveys
 - World Bank/ESMAP, *Global Electrification Platform 3.0*: https://www.esmap.org/Updated_Global_Electrification_Platform_GEP_3.0
