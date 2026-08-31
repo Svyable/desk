@@ -67,6 +67,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Vanishing Bid](https://svyable.github.io/desk/books/the-vanishing-bid/README.md)
 - [The World Beneath the World](https://svyable.github.io/desk/books/the-world-beneath-the-world/README.md)
 - [To State the Obvious](https://svyable.github.io/desk/books/to-state-the-obvious/README.md)
+- [Triumph of the Commons](https://svyable.github.io/desk/books/triumph-of-the-commons/README.md)
 - [Ubiquitous](https://svyable.github.io/desk/books/ubiquitous/README.md)
 - [Useful Noise](https://svyable.github.io/desk/books/useful-noise/README.md)
 - [Vectors](https://svyable.github.io/desk/books/vectors/README.md)
