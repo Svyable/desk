@@ -16,6 +16,34 @@ Power. Land. Buildings. Equipment. Materials. Construction. Logistics. Skilled f
 
 The physical economy returns not because it disappeared, but because cheap intelligence makes its stubbornness harder to ignore.
 
+## Bottlenecks migrate
+
+An economy is a system of complements.
+
+When one input becomes cheaper, the value of the other inputs often changes.
+
+If legal drafting becomes faster, the scarce thing may become the person authorized to decide. If software design becomes faster, the scarce thing may become deployment access, testing capacity, customer trust, or electricity. If engineering analysis becomes cheaper, a project can still wait on a permit, a transformer, a parcel, a crane operator, a water connection, or a concrete pour.
+
+This is one of the easiest effects of technological progress to misunderstand.
+
+People naturally look at the thing that improved.
+
+The economy increasingly feels the things that did not.
+
+A faster model does not merely make cognitive work cheaper. It changes the relative price of everything that must accompany cognitive work before an idea becomes a physical result.
+
+That is why the important question is not whether AI is digital.
+
+Obviously it is.
+
+The important question is what becomes scarce when digital intelligence gets cheaper quickly.
+
+The answer will vary by industry and place. In some businesses the bottleneck will remain sales, trust, proprietary data, or regulation. In others it will be chips or financing. But a large class of ambitions—new generation, housing, factories, laboratories, water systems, transportation, warehouses, hospitals, data centers—eventually encounters a physical sequence with finite capacity.
+
+The bottleneck migrates downward until it finds something that cannot expand at the same speed.
+
+Public policy should learn to follow it.
+
 ## Atoms have lead times
 
 Software can change between breakfast and lunch.
@@ -37,6 +65,46 @@ That matters economically because rapid growth in digital demand can collide wit
 The scarce input may not be money.
 
 It may be calendar time inside a supply chain.
+
+Calendar time behaves differently from financial capital. A rich customer can sometimes pay to move faster, but if every slot at the factory is already committed, somebody else moves backward. If the experienced commissioning team is already on another site, money can attract it only by creating a vacancy somewhere else. If a local utility has five engineers capable of reviewing a class of complex requests, the sixth project joins a queue unless the institution can expand capacity or change the work.
+
+This is the first discipline of the physical economy: distinguish a willingness to pay from an ability to deliver.
+
+They are not the same thing.
+
+## The transformer lesson
+
+Few pieces of infrastructure demonstrate this more clearly than the transformer.
+
+Transformers are not exotic in the sense that the basic technology is new. They are ordinary, indispensable grid equipment. Yet ordinary equipment can become a national constraint when demand rises faster than production and when a supposedly standard product is fragmented into thousands of versions.
+
+The Department of Energy has described distribution-transformer lead times that were roughly three to six months in 2019 stretching to twelve to thirty months by 2023. In a 2026 industry convening, DOE described continued waits of a year or two or longer for distribution equipment and multi-year lead times for some larger transformers.
+
+That is already a useful reminder that mature technology can be scarce.
+
+The more interesting lesson is about variety.
+
+DOE has also described more than eighty thousand distribution-transformer varieties across American utilities. Some differences are necessary. Voltage, load, climate, installation practice, safety, and system design matter. But legacy specifications also accumulate. Utilities inherit standards, accessories, dimensions, and preferences that may once have solved a local problem and now persist because changing them is somebody's risk while keeping them is nobody's emergency.
+
+The result is a manufacturing system asked to produce extraordinary variety during a period of extraordinary demand.
+
+This is not merely a transformer story.
+
+It is a general public-works story.
+
+Customization consumes capacity.
+
+Every unique specification can require separate engineering, procurement, tooling, inventory, review, documentation, testing, or supplier qualification. None of those tasks is individually absurd. Together they can turn an industry that appears standardized from a distance into a collection of bespoke orders.
+
+The policy response is not to decree one national transformer.
+
+It is to ask which variation creates real value and which variation is inherited friction.
+
+Standard interfaces can expand the pool of substitute suppliers. Common accessory packages can simplify inventory. Families of approved designs can reduce engineering work. Shared specifications can make emergency spares more useful across utilities.
+
+Standardization is often described as a design choice.
+
+In a constrained physical economy, it is also capacity policy.
 
 ## The second factory problem
 
@@ -62,6 +130,16 @@ The productivity gain does not come from asking a model to “design a factory.�
 
 It comes from making the second factory less like the first one all over again.
 
+That is a deeper challenge than automation.
+
+A project organization is usually temporary. The team assembles, delivers the asset, disperses, and takes much of the hard-won knowledge with it. Contractors may learn, but the public owner does not necessarily capture what they learned. Agencies may store documents without storing usable lessons. A mistake can be preserved perfectly in an archive and still be repeated three counties away.
+
+If AI is good at anything relevant to physical investment, it should be good at helping institutions remember.
+
+Not memory as a pile of files.
+
+Memory as changed behavior on the next project.
+
 ## Construction is manufacturing's missing complement
 
 A country can announce an industrial strategy without having enough capacity to construct the industry.
@@ -82,11 +160,49 @@ Permitting reform alone is not enough. Subsidies alone are not enough. Training 
 
 The construction system has to learn to produce more.
 
+That does not require a fantasy in which buildings roll off assembly lines like identical cars. Construction happens on land, under weather, inside local codes, around existing utilities, and among neighbors. Site conditions matter.
+
+But the industry can still industrialize parts of itself.
+
+More work can move into controlled factory environments. Components can arrive preassembled. Designs can reuse proven details. Layout conflicts can be found before crews discover them in the field. Inspection records can be captured as work occurs. Schedules can incorporate actual supplier performance instead of optimistic defaults.
+
+The relevant comparison is not construction versus manufacturing.
+
+It is construction with learning versus construction without enough learning.
+
+## Public investment can create supply, not only demand
+
+A common criticism of large investment programs is that government can authorize money faster than industry can absorb it.
+
+That criticism is often correct in the short run.
+
+It becomes incomplete when treated as a permanent law.
+
+Demand can create supply if the demand is credible enough, durable enough, and legible enough for suppliers to invest against it.
+
+A manufacturer will not build a new line for one uncertain order that may disappear with an election, a lawsuit, or a budget rescission. A contractor will not train a large specialized workforce for a single project separated from the next one by an unknown number of years. A supplier will not redesign a product for a market in which every buyer insists on a different specification.
+
+But a visible pipeline changes the calculation.
+
+Ten years of bridge rehabilitation, standardized substation programs, recurring school modernization, or a known sequence of water upgrades can justify equipment, hiring, apprenticeships, engineering tools, and domestic production capacity that one-off appropriations cannot.
+
+This is one reason procurement architecture matters so much.
+
+The state is not only a buyer.
+
+It can be a market maker.
+
+That power can be abused. Guaranteed demand can protect weak suppliers, inflate prices, or become political favoritism. The answer is not to pretend the demand signal does not exist. It is to design it so suppliers compete on performance while still being able to see enough of the future to invest.
+
+A stop-start public pipeline teaches industry to remain small and expensive.
+
+A credible pipeline can teach it to scale.
+
 ## Materials are political before they are scarce
 
 Concrete looks local until cement supply tightens.
 
-Steel looks interchangeable until specifications, trade rules, mill capacity, delivery schedules, or specialized grades matter. Aggregate looks abundant until the permitted quarry is far from the project and trucking cost dominates. Copper becomes an energy-transition issue because wires connect everything policymakers want to electrify.
+Steel looks interchangeable until specifications, trade rules, mill capacity, delivery schedules, or specialized grades matter. Aggregate looks abundant until the permitted quarry is far from the project and trucking cost dominates. Copper becomes an electrification issue because wires connect almost everything policymakers want to power.
 
 Materials are physical constraints embedded in political systems.
 
@@ -103,6 +219,14 @@ AI can help with demand forecasting, design optimization, and substitution analy
 It cannot turn a mineral deposit into refined metal without mines, processing plants, permits, energy, transport, capital, and labor.
 
 The physical economy keeps reappearing one layer lower.
+
+It also keeps revealing tradeoffs that software rhetoric can conceal.
+
+A lighter design may save material but require tighter manufacturing tolerances. A domestic-content rule may create resilience while increasing early project cost. A substitute material may reduce exposure to one supply chain and create a new maintenance problem. Recycling may become economical only when products are designed for disassembly and enough material returns through the system.
+
+Material efficiency is not a slogan.
+
+It is engineering performed under prices, standards, and time.
 
 ## Land is not merely acreage
 
@@ -126,6 +250,14 @@ The goal is not to choose winners parcel by parcel.
 
 It is to reduce the gap between land that exists on a map and land on which something can actually happen.
 
+This is another place where public works and industrial policy meet.
+
+A firm evaluating five sites should not have to discover basic infrastructure facts through months of bespoke negotiation if a region already knows them. Available electric service, water capacity, road access, flood exposure, known contamination, zoning, and realistic approval pathways are economic infrastructure as surely as the pavement outside the gate.
+
+Information cannot manufacture land.
+
+It can make usable land easier to distinguish from fiction.
+
 ## The warehouse teaches the lesson
 
 Modern logistics looks digital because routing, inventory, forecasting, and purchasing are software-intensive.
@@ -145,6 +277,14 @@ Cheaper design can produce more products. Better prediction can make more specia
 Digital efficiency does not always shrink the physical footprint.
 
 Sometimes it raises utilization until the physical system becomes the new constraint.
+
+This possibility matters well beyond retail.
+
+If software makes it easier to discover scientific candidates, laboratories may need more equipment and technicians to test them. If design tools generate more feasible building schemes, planning departments and contractors may see more projects. If clinical decision systems identify more treatable conditions, healthcare systems may need more procedure capacity rather than less.
+
+Cheap intelligence can create downstream work.
+
+The physical economy is where many of those downstream claims are reconciled with reality.
 
 ## The factory is becoming a computer with consequences
 
@@ -168,6 +308,14 @@ The physical economy becomes more intelligent without becoming less physical.
 
 That means software engineering and industrial safety increasingly meet in the same control room.
 
+It also means that the quality of the underlying data becomes part of plant performance.
+
+A maintenance model trained on incorrect equipment histories is not institutional memory. A digital twin that does not match field modifications is not a twin. A sensor network that produces more alerts than operators can interpret can reduce attention rather than improve it.
+
+The general lesson is the same one that applies throughout this book.
+
+Intelligence is useful when it is connected to accountable action.
+
 ## Capital has a body too
 
 Financial discussions often make capital sound like a quantity of money.
@@ -187,6 +335,14 @@ It means programs should include measures that increase supply: standardized des
 The best infrastructure policy does not only buy capacity.
 
 It helps create the industry capable of supplying capacity.
+
+This distinction also clarifies inflation debates around investment.
+
+A dollar spent against fixed capacity mostly competes for what already exists. A dollar spent in a way that induces new equipment, skills, suppliers, and methods can expand what exists later.
+
+Both effects can happen at the same time.
+
+The practical question is whether an investment program contains a credible supply response or merely assumes one.
 
 ## The economics of repetition
 
@@ -210,11 +366,41 @@ The objective is mass customization rather than either extreme: bespoke everythi
 
 This is a place where software can make the physical economy more productive without pretending the physical world is software.
 
+The key is to standardize the expensive seams.
+
+Interfaces. Data formats. Connection points. Approved component families. Contract definitions. Inspection records. Naming conventions. Handover requirements.
+
+Once those seams are stable, variation elsewhere becomes easier to tolerate.
+
+A nation that wants more physical capacity should care less about making every building look the same and more about making the systems around buildings interoperable.
+
+## Project data is capital
+
+Every major project produces information that could make the next project better.
+
+How long did procurement actually take? Which bidder qualifications predicted performance? Which design packages generated the most requests for information? Which utility assumptions were wrong? Which inspection failures repeated? Which components arrived late? Which change orders were caused by unknown site conditions and which by avoidable design gaps?
+
+Most of this information already exists somewhere.
+
+The problem is that it is fragmented across owners, contractors, consultants, software systems, email archives, claims files, and individual memory.
+
+A useful AI-era public institution would treat project data as capital.
+
+That does not mean publishing commercially sensitive bids or pretending every project is comparable. It means building enough common structure that agencies can learn across time.
+
+A recurring defect should become a design warning. A procurement clause that repeatedly produces disputes should be reconsidered. A component that fails early across facilities should become visible before the next purchase. Actual schedule performance should improve future estimates.
+
+The physical economy is full of tacit knowledge.
+
+AI can help convert some of it into institutional knowledge, but only if institutions retain the right to their own records and build systems that make those records usable.
+
+Otherwise artificial intelligence will sit on top of the same organizational amnesia.
+
 ## Depreciation is the bill from the future
 
 A new asset begins aging before the ribbon is cut.
 
-Paint weathers. Roof membranes move. bearings wear. Software becomes unsupported. Pumps accumulate hours. Pavement cracks. Sensors fail. Batteries degrade. Vegetation grows into rights-of-way.
+Paint weathers. Roof membranes move. Bearings wear. Software becomes unsupported. Pumps accumulate hours. Pavement cracks. Sensors fail. Batteries degrade. Vegetation grows into rights-of-way.
 
 The accounting term *depreciation* can make this sound abstract.
 
@@ -227,6 +413,14 @@ Physical capital requires institutions with memory.
 Asset inventories should survive leadership changes. Maintenance schedules should be funded. Design choices should account for who can obtain replacement parts twenty years later. Digital systems should export their data rather than trapping operating history inside a vendor that may disappear.
 
 Abundance built on deferred maintenance is temporary abundance.
+
+This also changes how new construction should be evaluated.
+
+The cheapest asset to buy is not always the cheapest asset to own. A component that saves money today but requires proprietary replacement parts for thirty years may be expensive. A beautiful system that demands skills no local operator can maintain may be fragile. An automated control package that cannot fail gracefully may convert a software outage into a physical outage.
+
+Lifecycle cost is not bureaucratic caution.
+
+It is the price of admitting that the future arrives.
 
 ## Supply chains need slack somewhere
 
@@ -252,6 +446,14 @@ The policy judgment remains: which dependencies justify paying for resilience be
 
 The physical economy teaches the value of options.
 
+It also teaches that resilience can be designed into markets rather than stored only in warehouses.
+
+A spare part is one kind of option. A second qualified supplier is another. A repair shop is another. A standard interface that lets two products substitute for each other is another. A contract that gives a manufacturer enough predictable demand to remain in business is another.
+
+Slack has many forms.
+
+The cheapest one depends on the failure mode.
+
 ## Permits are part of production
 
 A permit is not a machine tool, but it affects whether the machine tool is installed.
@@ -274,6 +476,14 @@ Clear rules, complete application standards, parallel review, shared data, and d
 
 AI can support each of those steps, but only if the rules themselves can be represented coherently.
 
+There is a difference between reducing review and increasing review capacity.
+
+The first removes work.
+
+The second makes institutions better at doing necessary work.
+
+America will need both in different places. Some requirements are obsolete. Others are important and understaffed. A competent building state should know the difference.
+
 ## The service economy still needs places
 
 A false version of the physical-economy argument pits manufacturing against services.
@@ -293,6 +503,12 @@ A remote worker may gain geographic flexibility, but not if every affordable reg
 The physical economy is not a sector beside the digital economy.
 
 It is the substrate that many sectors share.
+
+This is also why public works have broad economic effects that are easy to miss in industry-by-industry accounting.
+
+A water upgrade does not belong to the software industry, the restaurant industry, or the hospital industry.
+
+It belongs to all of them.
 
 ## Do not worship factories either
 
@@ -314,6 +530,12 @@ Reliable power helps many users. Housing helps many employers recruit. Freight i
 
 The best industrial policy often looks like a good place to build almost anything.
 
+This is the difference between subsidizing an object and improving a system.
+
+The object makes the press release.
+
+The system determines what can be built after the cameras leave.
+
 ## The price signal can be useful
 
 Scarcity produces political pressure to suppress prices.
@@ -333,6 +555,14 @@ That is especially relevant to AI-era growth. If public policy subsidizes new de
 Supply-side capacity is therefore distribution policy.
 
 Build more of the constrained complement and the gains spread differently.
+
+This does not mean every high price is evidence of an efficient market. Market power, poor contracting, information asymmetry, and artificial scarcity all exist.
+
+But hiding the price does not create the missing capacity either.
+
+The better question is whether policy is transferring purchasing power or changing the underlying production frontier.
+
+A durable public-works strategy tries to do the second.
 
 ## A larger economy needs a larger maintenance economy
 
@@ -356,6 +586,10 @@ A society that asks these questions early gets compounding value from physical i
 
 A society that asks them after failure pays twice.
 
+The same productivity tools that help build more should therefore be pointed at maintenance from the beginning. Inspection histories, inventories, manuals, sensor data, warranty records, and replacement schedules should not be an afterthought assembled five years later.
+
+The handoff from construction to operation is part of construction.
+
 ## The physical dividend
 
 If AI raises productivity, some gains will appear as better software, lower administrative cost, higher profits, and new services.
@@ -373,6 +607,14 @@ The physical economy returns because intelligence can lower the cost of coordina
 That combination creates an opening.
 
 America can use cheaper intelligence to get better at the expensive work of moving atoms.
+
+But that will require a different definition of technological sophistication.
+
+A country is not technologically advanced merely because its firms can generate remarkable software.
+
+It is technologically advanced when new knowledge can move through finance, regulation, supply chains, engineering, construction, operation, and maintenance quickly enough to become useful reality.
+
+That is a systems property.
 
 The opportunity will be wasted if policy keeps treating the software layer as the whole economy.
 
