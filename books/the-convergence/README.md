@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 12 of 12 drafted |
+| **Chapters**  | 13 of 13 drafted |
 
 Energy and the Advance of the Human Race.
 
@@ -27,6 +27,7 @@ The working thesis is that the advance of human civilization can be read through
 - [x] [Ch 10 — The Return of the Atom](manuscript/ch10-the-return-of-the-atom.md)
 - [x] [Ch 11 — Abundance and the New Frontier](manuscript/ch11-abundance-and-the-new-frontier.md)
 - [x] [Ch 12 — The Convergence](manuscript/ch12-the-convergence.md)
+- [x] [Ch 13 — The Material World](manuscript/ch13-the-material-world.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
