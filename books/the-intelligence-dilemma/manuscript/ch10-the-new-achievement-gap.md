@@ -164,6 +164,22 @@ Creating good use is not the same as creating durable learning.
 
 Each step requires design.
 
+A companion experiment makes the point from the other direction. More than six thousand middle-school students used an AI tutor inside mastery-based mathematics practice. The useful intervention was not simply that a chatbot existed. Assistance arrived after mistakes, inside a task with a defined learning objective and another attempt waiting. Under those conditions, structured AI help improved the probability that students answered the next attempt correctly and changed how they worked through the problem.
+
+The difference matters because the phrase "AI tutoring" can conceal several very different products.
+
+One system waits for any question and answers it.
+
+Another notices an error, withholds the answer, chooses a hint, and requires another try.
+
+One is an encyclopedia that talks back.
+
+The other is closer to instructional machinery.
+
+Both may use a language model. They do not create the same educational environment.
+
+That is why an equity analysis that stops at model quality is too shallow. A district can license the same underlying model for every student and still produce unequal experiences through the surrounding software, assignment design, teacher practice, time available for use, and the rules governing what happens after a mistake.
+
 Schools have encountered versions of this before.
 
 A district distributes laptops and discovers that devices spend time uncharged, broken, filtered badly, used mainly for low-level worksheets, or deployed in classrooms without enough training to change instruction.
@@ -181,6 +197,38 @@ The other generates answers.
 Usage statistics count them equally.
 
 The learning does not.
+
+The pandemic made an older version of this problem difficult to ignore. When schools closed, a lesson could technically be "online" while students experienced radically different conditions for receiving it. One child had a laptop, stable broadband, a quiet room, and an adult nearby. Another shared a phone, competed for bandwidth, watched younger siblings, or disappeared whenever the connection did.
+
+The lesson from that period was not merely that connectivity matters. It was that access is layered.
+
+UNESCO's global work on technology in education now treats infrastructure, teacher preparation, relevant content, digital skills, regulation, and inclusion as parts of the same problem. Its reporting also documents a stubborn underlying fact: connectivity expanded rapidly while remaining unequally distributed, both between countries and within them. A digital resource can be cheap at the point of use and still depend on an expensive stack around it.
+
+AI does not escape that stack.
+
+A conversational tutor may be inexpensive compared with a human tutor, but it still arrives through a device, a connection, an account, a language interface, a privacy regime, and a school or household that decides how it will be used. If any of those layers fail, the nominally universal tutor becomes less universal in practice.
+
+And even where the infrastructure is present, the history of educational technology offers another warning. An OECD review published in 2025 surveyed evidence across digital tools and reached a cautious conclusion: access to technology by itself does not guarantee educational gain. Pedagogy remains part of the mechanism.
+
+That sounds obvious until procurement begins.
+
+Technology is easy to count. Devices have serial numbers. Licenses have seats. Platforms report active users and minutes. Pedagogical quality is much harder to put into a dashboard.
+
+So institutions drift toward measuring what the vendor can report.
+
+How many accounts were activated?
+
+How many conversations occurred?
+
+How many teachers completed training?
+
+How many hours did students spend in the system?
+
+Those numbers may be useful. None tells you whether the student who needed the most help received the kind of help that made later independence more likely.
+
+This is the distributional problem hidden inside implementation. Better-resourced schools are often better able to absorb a new tool because they have people who can translate it into routines. Teachers have time to compare practices. Technology staff can troubleshoot. Curriculum leaders can decide where the system belongs and where it does not. Families can supplement mistakes. Students can arrive with more of the background knowledge that makes flexible tools easy to steer.
+
+A weaker implementation environment can receive exactly the same software and capture less of its value.
 
 The new achievement gap may therefore be partly a gap in cognitive delegation.
 
@@ -267,6 +315,30 @@ The weak AI query can return a polished answer.
 A student may not realize that a better question, more context, a source check, or a different mode of assistance would have produced a better learning experience.
 
 The quality gap hides inside fluency.
+
+It can hide inside language, too.
+
+A system may technically support many languages while being much stronger in some than others. Translation can open a lesson to a student who would otherwise be locked out, yet a fluent translation is not automatically a culturally appropriate explanation, a faithful rendering of technical vocabulary, or a substitute for instruction by someone who understands the learner's context.
+
+Accessibility has the same double edge. Generative systems can rephrase text, describe images, turn speech into writing, and vary the form of an explanation. Those capabilities may be especially valuable to learners with disabilities. But a tool that works beautifully in a demonstration can still fail if its interface is inaccessible, if school policy blocks the feature a student relies on, or if privacy requirements make the preferred accommodation unavailable.
+
+The equity case is therefore strongest when it stays concrete.
+
+Which student?
+
+Which task?
+
+Which model?
+
+Which interface?
+
+Which teacher?
+
+Which support?
+
+Which evidence of learning afterward?
+
+Without those questions, "democratizing intelligence" becomes too easy a phrase. Intelligence is not a parcel that can be handed out evenly. What schools distribute are opportunities to interact with systems, and those interactions enter lives already unequal in time, knowledge, confidence, language, disability, adult support, and institutional competence.
 
 This is why schools should resist ranking students by "AI skill" too quickly.
 
