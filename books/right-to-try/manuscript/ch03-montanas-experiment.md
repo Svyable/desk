@@ -6,7 +6,7 @@ Before the building exists, before a patient walks through the door, before a ph
 
 Montana did that with the experimental treatment center.
 
-The phrase sounds generic enough to have existed for decades. In American health law it is not. The state created a specific licensed facility category, gave the Department of Public Health and Human Services responsibility for licensing it, attached operating requirements to it, and placed that facility inside a broadened version of Montana's right-to-try regime. By the summer of 2026, implementing rules had been adopted.
+The phrase sounds generic enough to have existed for decades. In American health law it is not. The state created a specific licensed facility category, gave the Department of Public Health and Human Services responsibility for licensing it, attached operating requirements to it, and placed that facility inside a broadened version of Montana's right-to-try regime. The final implementing rules became effective July 25, 2026.
 
 What happens next is uncertain.
 
@@ -16,7 +16,9 @@ Right-to-try legislation had already become common by the time Montana changed i
 
 Montana's recent law is different because it creates infrastructure for the encounter.
 
-A person may not simply declare an office an experimental treatment center. The state requires a license. The licensing statute specifies an application, identifies managers and supervisors, charges substantial initial and renewal fees, and requires the department to adopt operational standards, inspection rules, oversight mechanisms, safety standards, policies, and systems for data collection, quality assurance, outcome monitoring, and adverse-event reporting.
+A person may not simply declare an office an experimental treatment center. The state requires a license. The licensing statute specifies an application, identifies managers and supervisors, charges a $10,000 initial application fee and a $5,000 annual renewal fee, and requires the department to approve or deny a complete application within ninety calendar days. It also requires operational standards, inspection rules, oversight mechanisms, safety standards, policies, and systems for data collection, quality assurance, outcome monitoring, and adverse-event reporting.
+
+The final rules make the application more concrete. A center must identify its medical director and professional staff, disclose whether owners or affiliates have operated health facilities closed for patient-safety reasons, disclose specified felony histories and prior facility closures tied to legal or administrative action, describe the types of experimental treatments it intends to offer, and explain how it will satisfy the state's access requirement.
 
 Those requirements complicate the word “permissive.”
 
@@ -38,6 +40,10 @@ A Phase 1 threshold sounds like a strong filter to a lay reader because numbered
 
 The second condition matters for another reason. Montana's law contemplates experimental treatment that may no longer be inside an ongoing FDA-approved trial if there is a documented safety record from a qualified medical institution under state rules.
 
+The final rule defines that institution rather than leaving the phrase as a blank check. The institution must have generated documented clinical evidence supporting safety equivalent to what would be required for successful completion of a Phase 1 trial, and it must operate under oversight by a regulatory authority recognized by international standards or one that demonstrates substantially equivalent standards for data quality, monitoring, and patient protection.
+
+That is still a consequential alternative pathway. It is not the same as allowing a clinic to cite any favorable case series it can find.
+
 That is where the state experiment becomes more than a copy of federal Right to Try.
 
 The law is trying to create a route for treatments whose development status might otherwise leave them stranded between categories. A therapy can be biologically plausible, have some human exposure, and still be commercially unattractive or abandoned by a sponsor. A rare-disease program can fail to justify a conventional development budget. An intervention can accumulate safety experience without reaching marketing approval.
@@ -50,11 +56,15 @@ A treatment can be discontinued because it did not work, because it caused adver
 
 That makes the review process more important than the headline eligibility rule.
 
-Montana's framework includes independent experimental-treatment review. The details matter because a center has a built-in incentive to treat. It exists for that purpose. A treating physician may believe strongly in the intervention. A patient may have traveled a long distance and committed substantial money. The moment of decision is therefore crowded with sunk costs before the first dose is administered.
+Montana's framework includes independent experimental-treatment review. The final rules require a center to establish or contract with an experimental treatment review board. The board may be shared across centers, but its members may not have a personal, financial, employment, ownership, or other conflict of interest in the centers they review. It must have at least five members and include at least one Montana-licensed physician, at least one researcher with expertise in clinical outcome data, and at least one ethicist. It must meet at least monthly.
 
-Independent review is supposed to introduce someone whose institutional interest is not identical to the seller's.
+Those details matter because a center has a built-in incentive to treat. It exists for that purpose. A treating physician may believe strongly in the intervention. A patient may have traveled a long distance and committed substantial money. The moment of decision is therefore crowded with sunk costs before the first dose is administered.
 
-This does not make the review infallible. Institutional review boards have been criticized for inconsistency, delay, excessive paperwork, and a tendency to protect institutions as much as participants. An experimental-treatment review body can inherit the same flaws. Independence can be formal rather than real. Expertise can be thin in a genuinely novel modality. A committee can become a rubber stamp if its business depends on repeat customers.
+Independent review is supposed to introduce people whose institutional interest is not identical to the seller's.
+
+The board is not merely asked to confirm that paperwork exists. For each proposed treatment protocol, it must document that safety standards equivalent to or higher than those of recognized regulatory authorities are met, that consent procedures are comprehensive and understandable, that the risk-benefit analysis supports a reasonable safety profile, and that alternative treatments have been appropriately evaluated. It must also evaluate quality and safety outcomes using recognized metrics.
+
+This does not make the review infallible. Institutional review boards have been criticized for inconsistency, delay, excessive paperwork, and a tendency to protect institutions as much as participants. An experimental-treatment review body can inherit the same flaws. Independence can be formal rather than real. Expertise can be thin in a genuinely novel modality. A shared board can acquire a repeat-business culture even when individual members sign conflict disclosures. A committee can become a rubber stamp if speed becomes part of the product being sold.
 
 But the problem it addresses is real.
 
@@ -66,7 +76,19 @@ Does the evidence cited by the clinic actually concern the same product? Is a tr
 
 Montana's rules are interesting because the state appears to understand that a market for experimental care needs more than permission.
 
-The access provision reinforces that conclusion. Licensed experimental treatment centers must allocate two percent of net annual profits toward experimental treatment and health care for qualifying Montana residents, either by providing free experimental treatment of equivalent value or contributing to a specified support account.
+That conclusion is visible in the patient agreement. Before treatment begins, the center must provide a written agreement that identifies the treatment and its clinical-trial phase, states admission and discharge criteria, includes the statutory immunity language, gives a detailed description of anticipated patient costs and billing, acknowledges the health-insurance consequences described in state law, and provides the center's grievance policy.
+
+That is more operational than generic informed consent.
+
+A patient can understand that a treatment is experimental and still misunderstand the transaction around it. What will the center charge? What part of the surrounding care may be uncovered? What happens if the patient must be transferred? What process exists if the family believes the center misrepresented what was promised?
+
+The rules also force the center to plan for the moment when experimental care becomes ordinary emergency medicine. Each center must obtain and maintain a transfer agreement with a local hospital. Before transfer, it must confirm that the receiving hospital can provide the necessary services, stabilize the patient as medically appropriate, and send the records needed for continuing care.
+
+That requirement reveals a hidden subsidy in poorly designed medical-tourism markets.
+
+The experimental clinic earns revenue from the uncertain intervention. The ordinary hospital may inherit the sepsis, hemorrhage, arrhythmia, organ failure, or other complication when the intervention goes wrong. A transfer agreement does not solve the financing problem, but it makes the dependency explicit before the emergency.
+
+The access provision reinforces the same institutional logic. Licensed experimental treatment centers must allocate two percent of net annual profits toward experimental treatment and health care for qualifying Montana residents, either by providing free experimental treatment of equivalent value or contributing to a specified support account.
 
 The number itself may prove too small, cumbersome, or symbolic. A profitable center can satisfy the rule while still serving mostly wealthy visitors. An unprofitable center has no net profit to allocate. The accounting definition of net profit can become its own policy problem. Yet the presence of the requirement tells us something about the legislature's theory of the institution.
 
@@ -132,33 +154,25 @@ Institutions around the statute can influence it.
 
 Licensing standards determine the cost of entry. Review requirements determine how easily a weak treatment receives internal approval. Advertising rules shape what clinics can promise. Data obligations determine whether poor outcomes become visible. Enforcement determines whether the license means anything after issuance. Professional discipline determines whether clinicians can externalize the risk to patients and local hospitals. Insurance rules determine who pays when complications occur.
 
-The most important data from Montana may therefore have nothing to do with a dramatic cure.
+The final rules make the data obligations substantially more concrete than the statute alone suggests.
 
-How many centers apply? Who owns them? Which modalities do they offer? Where are the products manufactured? How many patients are Montana residents? What do centers charge? How often does an independent review body reject a proposed treatment? How many serious adverse events occur? Are outcomes reported publicly in a form that can be interpreted? Do federal agencies intervene? Do hospitals outside the centers end up providing uncompensated complication care? Do sponsors with active FDA development programs participate or avoid the pathway?
+The center's medical director must maintain a comprehensive system tracking every experimental treatment, the patient outcomes associated with it, and the treatment's current FDA approval status. Serious adverse events must be reported to the department within five days. The rule's definition reaches death, life-threatening events, hospitalization or prolonged hospitalization, persistent or significant incapacity, congenital anomalies, and other medically important events that may require intervention to prevent those outcomes. The same adverse-event data flow to the review board and the center's quality-assurance program.
 
-Those facts will tell us what kind of institution the law created.
+A center also has to submit an annual report to the department using the state's electronic licensing system. Continued reporting failure can trigger provisional-license status and further licensing action.
 
-A single successful patient will not.
+Most important for the public, the experimental treatment review board must prepare at least one public summary each year. The summary must include aggregate numbers and types of treatments reviewed and approved, aggregate safety data including serious adverse events, aggregate treatment-outcome data, general approval or review time frames, and recommended system-wide quality improvements.
 
-This is difficult because experimental medicine attracts stories more easily than denominators. If one person with an aggressive cancer improves after receiving an unapproved therapy in Montana, the case may be medically important. It may also be impossible to attribute. Was the response caused by the treatment, prior therapy, concurrent therapy, selection, spontaneous variation, or a diagnostic mistake? How many other patients received the same intervention without benefit?
+That changes the transparency question.
 
-A regulatory experiment deserves the same skepticism we would apply to a clinical one.
+The problem is no longer that Montana's rules create no public learning obligation. They do.
 
-We need to know what would have happened otherwise.
+The harder question is whether aggregated annual reports are granular, standardized, timely, and comparable enough to support real learning across centers.
 
-Montana's defenders can reasonably say that conventional development often gives no satisfactory answer for ultra-rare or rapidly fatal disease. Its critics can reasonably say that difficulty generating evidence is not a reason to stop trying to generate it. The state will matter if it finds a way to combine access with learning better than the alternatives.
+A center can truthfully report that it reviewed twelve protocols, treated several categories of patients, and recorded two serious adverse events without making it possible to know whether a particular intervention was tried twenty times with no apparent benefit. Different centers can satisfy a public-summary requirement while using different outcome measures. Annual reporting also introduces lag. A market can expand quickly before the first comparable reports exist.
 
-The standards for success should therefore be broader than patient volume.
+This is where the next generation of policy could begin.
 
-A center that treats many people and learns little may be commercially successful while being scientifically poor. A center that treats few patients but documents manufacturing, outcomes, adverse events, and failed hypotheses could contribute disproportionately to the field. A state that attracts revenue by being the place where uncertain treatments can be sold cheaply has created one kind of market. A state that makes exceptional access conditional on high-quality evidence capture has created another.
-
-The law contains pieces of the second model.
-
-Outcome monitoring and adverse-event reporting matter. Independent review matters. Facility licensing matters. The access contribution matters. Yet none guarantees that the resulting information will become publicly useful or comparable across centers.
-
-That gap is where the next generation of policy could begin.
-
-Imagine that every experimental treatment center had to register each intervention before administration using a standardized public record stripped of unnecessary personal identifiers. The record would identify the modality, manufacturer, relevant prior human evidence, treatment rationale, price range, review decision, and planned follow-up. Serious adverse events would be reported in a standardized format. Outcomes would be recorded at defined intervals. The center could protect trade secrets without hiding whether a treatment had been tried twenty times with no apparent benefit.
+Imagine that every experimental treatment center had to register each intervention before administration using a standardized public record stripped of unnecessary personal identifiers. The record would identify the modality, manufacturer, relevant prior human evidence, treatment rationale, price range, review decision, and planned follow-up. Serious adverse events would be linked back to the registered intervention in a standardized format. Outcomes would be recorded at defined intervals. The center could protect trade secrets without hiding whether the same treatment had repeatedly failed to produce the promised result.
 
 Such a system would not turn experimental care into a randomized trial.
 
