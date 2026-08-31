@@ -247,3 +247,123 @@ Reform during growth or austerity during panic.
 The United States can still choose.
 
 That is the entire advantage of being early.
+
+## A Credible Package Is a Portfolio
+
+The temptation in fiscal politics is to search for the lever large enough to spare every other lever.
+
+Tax the rich enough.
+
+Cut waste enough.
+
+Grow fast enough.
+
+Raise the retirement age enough.
+
+Reduce defense enough.
+
+Make health care efficient enough.
+
+Keep rates low enough.
+
+Each statement contains a partial solution and an implicit promise that somebody else will not have to participate.
+
+That is why the package fails before the arithmetic does.
+
+A credible fiscal settlement should look less like a single heroic reform and more like a diversified portfolio.
+
+No one position has to carry the entire risk.
+
+Revenue can contribute without requiring confiscatory marginal rates.
+
+Retirement reform can contribute without breaking promises to people already near retirement.
+
+Health reform can contribute without pretending every reduction in federal reimbursement is a reduction in national health cost.
+
+Discretionary restraint can contribute without hollowing out research, infrastructure, administration, or defense.
+
+Growth can contribute without being booked before it occurs.
+
+Debt management can reduce risk without being mistaken for deficit reduction.
+
+Monetary credibility can lower risk premiums without being used to guarantee cheap finance.
+
+The package works because the pieces reduce dependence on any one uncertain forecast.
+
+This is the same principle Treasury applies to maturity.
+
+Do not fund everything short because short rates might fall.
+
+Do not fund everything long because long rates might rise.
+
+Diversify across futures.
+
+Fiscal policy should do the same.
+
+A plan that works only if productivity booms is a concentrated growth bet.
+
+A plan that works only if health costs suddenly flatten is a health-cost bet.
+
+A plan that works only if Congress maintains historically unprecedented discretionary cuts for decades is a political-duration bet.
+
+A plan that works only if rates fall is a financing bet.
+
+A robust package survives several disappointments at once.
+
+That standard changes the role of triggers.
+
+Automatic mechanisms can be useful when they reinforce the portfolio rather than replace judgment. If debt-to-GDP or interest-to-revenue materially deviates from a legislated path, small revenue or spending adjustments can begin automatically, subject to recession safeguards. If Social Security actuarial projections deteriorate beyond a threshold, scheduled changes can phase sooner. If economic conditions collapse, temporary suspension clauses can preserve countercyclical policy.
+
+The design challenge is to prevent every trigger from becoming an invitation to game the forecast.
+
+Simple, transparent measures are more credible than dozens of hidden adjustments.
+
+The same principle applies to budget scoring.
+
+A ten-year score is useful and easily manipulated by sunsets, delayed starts, and back-loaded changes. A fiscal settlement should show cash effects, debt effects, and major assumptions beyond one standard window. Voters should be able to see whether the savings arrive because policy actually changes or because the calendar ends before the cost returns.
+
+Transparency is part of durability.
+
+So is ownership.
+
+A package imposed entirely by one party can be good policy and still be vulnerable if the other party can reverse its central provisions immediately after an election. Bipartisanship is not automatically wise; two parties can agree on bad arithmetic. But a settlement touching retirement, taxes, health, defense, and investment is more durable if major constituencies believe they participated in the trade.
+
+The objective is not consensus for its own sake.
+
+It is reducing repeal risk.
+
+Fiscal credibility depends partly on whether markets and citizens believe the policy will remain long enough to matter.
+
+This is why distribution is an economic variable.
+
+A package viewed as one-sided is less likely to survive, and expected repeal reduces the value of its future savings today.
+
+Fairness can lower fiscal risk because fairness can lengthen policy duration.
+
+The portfolio should also preserve a deliberate emergency sleeve.
+
+A government that stabilizes debt only by making recession support politically impossible has not restored fiscal capacity. It has merely replaced one constraint with another.
+
+Ordinary years should improve the structural balance precisely so extraordinary years can tolerate large temporary deficits.
+
+That distinction should be visible in the rules.
+
+A pandemic is not a failure of fiscal discipline.
+
+Entering the pandemic with no room because structural deficits were already enormous is the problem.
+
+The same applies to war, banking crisis, or natural disaster.
+
+The product of a credible package is therefore not a balanced budget.
+
+It is a larger set of future responses.
+
+That is why option value is a better goal than symbolic balance.
+
+A country with a stable debt ratio, manageable interest burden, credible institutions, and productive capacity can borrow heavily when history demands it.
+
+A country that waits until history demands it may discover that the price of every option has risen.
+
+The choices before the wall are still voluntary.
+
+A portfolio is how a nation keeps them that way.
