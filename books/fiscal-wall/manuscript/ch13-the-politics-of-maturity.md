@@ -297,3 +297,141 @@ It therefore avoids pretending that refinancing strategy can rescue fiscal polic
 That humility is one of the quiet assets the United States brings to the wall.
 
 It will become more valuable as the wall gets closer.
+
+The danger of politicizing maturity is easiest to see when the yield curve offers an apparently obvious trade.
+
+Suppose short rates are high today but futures markets imply cuts. The administration is under pressure to reduce the projected interest bill before a budget negotiation. Issuing more bills can be defended with respectable arguments: demand is deep, the curve may normalize, and bills are a flexible shock absorber.
+
+Now suppose the same decision also shifts a measurable amount of interest expense beyond the next election because the hoped-for rate cuts would arrive later.
+
+The financial rationale and the political incentive point in the same direction.
+
+That is exactly when institutions matter most.
+
+A good process does not require proving that officials possess impure motives. It creates a framework in which the decision can be evaluated without needing to read minds.
+
+What is the long-run target for bill share?
+
+How has Treasury described its risk-management objective across administrations?
+
+What does the advisory committee say about investor demand and market capacity?
+
+Is the change gradual and consistent with the regular-and-predictable framework?
+
+What happens to the portfolio under rate scenarios in which the market forecast is wrong?
+
+Transparency turns an accusation about motive into an argument about design.
+
+This is why quarterly refunding communication is more than market courtesy.
+
+It is governance infrastructure.
+
+Treasury explains expected auction sizes, discusses financing needs, and provides enough continuity that investors can distinguish a policy framework from a tactical trade. The Treasury Borrowing Advisory Committee adds another layer by bringing market expertise into a public process whose materials can be examined later.
+
+The structure is imperfect. Advisers come from financial institutions with their own market interests. Treasury retains authority. Forecasts can be wrong. But a visible process is harder to repurpose quietly for short-term political optics than an opaque one.
+
+Institutional discipline does not remove politics.
+
+It raises the cost of hiding it.
+
+Buybacks illustrate the point.
+
+A sovereign debt buyback can sound like deficit reduction to a public accustomed to corporate share repurchases or households paying down loans. Treasury buybacks have a different purpose. They can improve liquidity in older off-the-run securities and help cash management by repurchasing certain issues while financing the government through the broader issuance program.
+
+The gross debt does not disappear merely because one CUSIP is bought back.
+
+The liability structure changes.
+
+A politically careless administration could advertise a buyback as though it had “paid down the debt” while issuing elsewhere to finance the purchase. A technically disciplined Treasury explains what the operation actually does.
+
+Language is part of debt management because misunderstanding creates political incentives.
+
+The same is true for weighted average maturity.
+
+A government can boast that it has extended maturity as though longer were automatically safer. Extending at a very expensive term premium can raise expected costs. It can crowd duration markets. It can transfer large mark-to-market risk to banks, pensions, insurers, and funds.
+
+A government can boast that it has reduced current interest expense by issuing short. That can simply mean taxpayers accepted more rollover exposure.
+
+Neither statistic is a medal.
+
+They are risk allocations.
+
+This makes debt management resemble pension governance. A pension board can improve today's reported contribution requirement by choosing an optimistic return assumption. The spreadsheet looks better because risk has been moved into the future rather than eliminated.
+
+Public debt management faces an analogous temptation whenever the political system rewards the current cash cost and ignores the distribution of future rate risk.
+
+The cure is not a law requiring maximum duration.
+
+It is a mandate and culture that judge expected cost together with risk across time.
+
+The debt limit is the opposite institutional design.
+
+It takes financing—the step after taxes and spending have already been legislated—and turns it into a recurring political confrontation. Treasury then has to use extraordinary measures and cash-management tactics to preserve payment while Congress debates whether to raise or suspend a limit that does not itself rewrite the obligations causing the borrowing need.
+
+The operational consequences spill directly into maturity management.
+
+As the constraint approaches, bill supply can become unusually scarce. Short-dated securities around a projected exhaustion date can trade differently because investors worry about payment timing. Treasury's cash buffer can be drawn down. Money funds and dealers reposition.
+
+After resolution, issuance can surge as the cash account is rebuilt.
+
+The political system creates a refinancing cycle inside the refinancing cycle.
+
+This is costly even when the final outcome is always an increase or suspension of the limit.
+
+The market has to price timing uncertainty that did not arise from inflation, growth, or fiscal arithmetic. It arose from a legal process the United States imposed on itself.
+
+That matters to reserve-currency privilege.
+
+The Treasury market's great advantage is that investors do not have to debate nominal payment in the way they debate corporate credit. Repeatedly manufacturing doubt about payment dates consumes a small piece of that advantage each time, even if the country ultimately pays.
+
+The cost may appear as bill-market distortions, delayed investment decisions, contingency planning, or a modest risk premium rather than a spectacular default spread.
+
+Institutional capital is often lost in basis points.
+
+Maturity politics also reaches the Federal Reserve through accusation.
+
+When the federal debt stock was smaller, a restrictive policy rate could be attacked for slowing jobs or housing. In a high-debt era, it can be attacked for making the Treasury interest bill explode.
+
+That adds a fiscal constituency for easier money.
+
+The pressure is especially strong if Treasury has a large share of bills or floating-rate notes. The public can see the connection between the Federal Reserve's administered rates and interest expense quickly.
+
+A long maturity profile weakens that immediate link but does not remove it. New issuance still occurs. Federal Reserve policy influences the yield curve. The politics simply moves more slowly.
+
+This is another reason maturity management affects institutional independence.
+
+The more quickly the budget reprices, the more quickly monetary policy becomes a political fiscal event.
+
+There is no rule saying Treasury should therefore maximize maturity in order to protect the Fed. Long bonds have costs and market consequences. The observation is narrower: debt structure changes the intensity of the conflict between fiscal and monetary objectives.
+
+A well-designed system accepts that conflict instead of trying to abolish it.
+
+Treasury should want reliable market access at reasonable expected cost.
+
+The Federal Reserve should want price stability and a functioning financial system.
+
+Congress should decide the primary budget.
+
+When each institution stays inside its role, tradeoffs remain visible.
+
+When roles blur, the public can be offered a fiction in which cheaper financing substitutes for fiscal adjustment.
+
+That fiction is attractive because maturity is obscure.
+
+Most voters will never see the risk transfer.
+
+A tax increase arrives in a paycheck.
+
+A benefit change arrives in a bank account.
+
+A maturity shift arrives in a table.
+
+The table can be one of the most politically consequential documents nobody reads.
+
+This is why the fiscal wall should increase respect for boring debt-management institutions rather than inspire heroic improvisation.
+
+The bigger the balance sheet, the less room there is for a clever trade by a temporary officeholder.
+
+Predictability is not timid finance.
+
+It is constitutional finance in miniature: rules and habits that keep today's incentives from placing an invisible bet on tomorrow's taxpayers.
