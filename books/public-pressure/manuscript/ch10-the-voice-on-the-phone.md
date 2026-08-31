@@ -253,3 +253,101 @@ Stop building systems in which a familiar voice has the authority to move irreve
 The machine made the voice cheap.
 
 The institution decided how much the voice was worth.
+
+Families expose the problem in its purest form because they do not operate like regulated institutions. There is no compliance officer between a frightened parent and a caller who sounds like a child. The relationship is valuable precisely because it is informal.
+
+A defensive habit therefore has to preserve intimacy without turning family life into a bank vault.
+
+The simplest method is prearranged verification. A family can agree that an emergency request involving money or secrecy will be confirmed through another person, a known number, or a private fact not easily found online. The exact method matters less than the decision made in advance: a familiar voice is no longer sufficient when the request is unusual and irreversible.
+
+The advance decision is important because panic destroys procedural creativity. A person who believes a loved one is injured or detained is not in the best position to invent a secure protocol while the caller is applying pressure.
+
+Organizations understand precommitment for the same reason.
+
+A finance employee should not have to decide whether questioning the CEO is culturally safe during an urgent transfer request. The policy should decide beforehand. Any request above a threshold requires independent approval, even from the real CEO.
+
+This changes the employee’s social position. Verification is no longer an accusation of the executive. It is compliance with a rule the executive also has to follow.
+
+Good security depersonalizes skepticism.
+
+That is an important theme in a book about public pressure because so many modern conflicts become personal when institutions fail to create neutral procedures. The employee does not need courage to resist a cloned executive if the workflow automatically requires another approval. The bank customer does not need expertise in voice synthesis if the bank tells customers that it never asks for transfers to “safe accounts.” The citizen does not need to recognize a synthetic police voice if government guidance makes clear how official payment demands are delivered.
+
+Institutions can protect people by removing interpretation from the highest-pressure moment.
+
+This suggests a useful taxonomy of signals. Some signals are easy to imitate: tone, vocabulary, logos, faces, voices, email signatures, video backgrounds. Others are harder because they depend on control of infrastructure: authenticated app sessions, cryptographic credentials, known payment workflows, physical devices, independent approvals, regulated registries.
+
+AI attacks the first category much faster than the second.
+
+The defensive mistake is to make the first category slightly harder and assume the problem is solved.
+
+A watermark can help identify generated audio. A detector can estimate whether a voice was synthesized. A platform can restrict custom voice creation. These measures raise costs and can reduce harm.
+
+They should not be allowed to become the foundation of authorization.
+
+A bank should not say, “We ran a deepfake detector and it says this is probably the CFO, so release the funds.” The detector becomes another probabilistic system standing between the attacker and the money.
+
+Authorization should rest on a positive credential or independent control wherever the stakes justify it.
+
+This distinction between detecting fakes and proving authority will become more important as detection quality fluctuates. Generators improve. Detectors improve. Compression and background noise change performance. Adversaries adapt. A system based only on identifying synthetic artifacts enters an arms race.
+
+A system based on independent authorization changes the game.
+
+The attacker can make the voice perfect and still lack the payment credential.
+
+The same principle applies to customer support. Scammers increasingly know enough personal information to answer traditional security questions. Data breaches, public records, social media, and data brokers supply context. Generative models help weave the context into a believable conversation.
+
+Knowledge is no longer strong evidence of identity when the knowledge is widely available.
+
+Organizations should be careful about verification systems that depend on information a model can retrieve or infer.
+
+This is not new to security professionals. The public is now encountering the principle in ordinary life.
+
+There is an uncomfortable consequence for executives who built their influence through constant public communication. Every podcast, earnings call, keynote, and internal town hall increases the quality of material available for imitation. The response cannot be to retreat from public communication. It should be to separate public presence from operational authority.
+
+A CEO can remain highly visible while becoming unable to authorize a large transfer through voice or video alone.
+
+That is healthy even without deepfakes.
+
+A real executive can make a mistake, be coerced, have an account compromised, or behave improperly. Controls that constrain the counterfeit also constrain the original.
+
+This is why synthetic impersonation can lead to better governance rather than only more suspicion.
+
+It exposes all the decisions that were relying on informal authority long after the organization had become too large for informality.
+
+The old practice may have worked because everybody knew everybody. Growth turned the practice into a latent risk. AI merely found it.
+
+Public pressure after a deepfake fraud often asks why the AI company allowed the clone. That may be a fair question.
+
+The more durable question is why the institution allowed a clone to matter so much.
+
+This reallocates responsibility without excusing the attacker or the provider. Each actor has a different controllable seam.
+
+The criminal chose deception.
+
+The model provider controls features and abuse safeguards.
+
+The telecom or platform controls parts of distribution.
+
+The financial institution controls some transfer rules.
+
+The victim organization controls internal authorization.
+
+Law enforcement controls investigation and prosecution within its powers.
+
+A resilient system layers these responsibilities instead of hunting for the one actor who could have prevented everything.
+
+This is how society should respond to many AI harms. Do not search only for a perfect upstream ban. Build enough independent friction downstream that one failure cannot become total failure.
+
+The future may contain billions of synthetic voices.
+
+Most will be harmless or useful: accessibility, translation, entertainment, education, personalized interfaces, legitimate replicas created with consent.
+
+A voice does not need to become legally suspicious because it was generated.
+
+It needs to stop being treated as a password.
+
+That is the adaptation the technology is forcing.
+
+We can still hear people.
+
+We simply need another way to know when hearing them means they have authority.
