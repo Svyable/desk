@@ -36,7 +36,25 @@ The intervention is too integrated for the simple product metaphor.
 
 That makes early human use especially dependent on institutional competence.
 
-In recent years, teams in the United States have moved from experiments in deceased human recipients toward living patients receiving gene-edited pig organs under highly exceptional circumstances and, increasingly, toward formal clinical-trial development. Published reports have documented early pig-kidney xenotransplantation in living recipients. The cases generated intense attention because organ shortage makes the potential benefit enormous.
+In recent years, teams in the United States have moved from experiments in deceased human recipients toward living patients receiving gene-edited pig organs under highly exceptional circumstances and into formal clinical-trial development. Published reports documented early pig-kidney xenotransplantation in living recipients. The cases generated intense attention because organ shortage makes the potential benefit enormous.
+
+By 2026, the trial transition is no longer hypothetical.
+
+The EXPAND study, registered as NCT06878560, is a multicenter open-label study of a ten-gene-edited porcine kidney in people with end-stage renal disease. It began in October 2025 and lists an estimated enrollment of fifty participants. Its entry criteria are designed around patients who are either ineligible for a conventional human kidney transplant or face a sufficiently poor probability of receiving one before death or continued deterioration. The study's initial post-transplant period is measured in months.
+
+Its follow-up is measured in a lifetime.
+
+After the first twenty-four weeks, the protocol continues to track participant survival, xenokidney survival, and screening for zoonotic infections for as long as the recipient remains alive.
+
+A second program makes the same point with a different biological design. The EXTEND study, NCT07224763, is structured around a GGTA1-knockout porcine kidney combined with thymic tissue. It also plans roughly fifty participants drawn from end-stage renal disease populations with poor access to ordinary transplantation. Its long-term follow-up extends for the lifetime of recipients who retain the graft, or for a defined period after nephrectomy if the organ must be removed.
+
+The existence of two trial architectures is itself informative.
+
+“Pig kidney” is not one product class in the ordinary sense. One program can use a set of ten genomic alterations. Another can pair a more limited edit with a thymic-tissue strategy. Source animals, immune engineering, immunosuppression, monitoring, and surgical protocols can differ. The field is not merely deciding whether xenotransplantation works. It is comparing systems for making xenotransplantation work.
+
+That makes a premature headline especially dangerous.
+
+A successful transplant under one edit set, one source-animal program, one immunosuppressive regimen, and one center's protocol does not validate every treatment marketed under the word xenotransplantation. The unit of evidence is narrower than the public label.
 
 Kidney transplantation already contains a cruel arithmetic.
 
@@ -56,6 +74,8 @@ Few interventions are more novel than putting a gene-edited pig organ into a liv
 
 It happened under federal oversight.
 
+The move into registered trials strengthens that point rather than weakening it. Exceptional access created information and experience. Trials create a structure for accumulating it across participants. The two are not rival moral systems. They are different stages and tools in a development process.
+
 The relevant question is whether such oversight can scale from exceptional cases into a development pathway fast enough to address the organ shortage without losing the safeguards that make the experiment socially acceptable.
 
 A state right-to-try framework would face unusual limits here.
@@ -71,6 +91,16 @@ The harder the modality is to contain geographically, the less useful pure juris
 A patient can travel to another country for a surgery. A national border cannot separate that patient from delayed consequences after returning home. A pathogen-monitoring obligation is only useful if records follow the recipient. A graft that fails months later creates evidence relevant to the source animals and future recipients wherever they live.
 
 The system must remain longitudinal.
+
+The formal trials make that requirement visible in a way a rescue story cannot.
+
+The headline event is the transplant. The regulatory object is the recipient-organ relationship over time.
+
+A twenty-four-week endpoint can tell investigators whether the patient and graft survived an early period. It cannot settle the questions that motivated lifelong surveillance. A zoonotic concern could emerge later. Chronic rejection can unfold on a different clock from perioperative failure. A company can change ownership. A center can stop participating. The source-animal platform can evolve while earlier recipients are still living with prior generations.
+
+A study that follows recipients for life is admitting something important about the therapy.
+
+The treatment has no clean administrative ending.
 
 That requirement makes xenotransplantation different from many forms of medical tourism.
 
@@ -117,6 +147,14 @@ The xenotransplant field is also a lesson in why early access and trials are not
 Exceptional living-recipient cases can answer questions that no animal study can fully resolve. They can expose unforeseen physiological problems, generate evidence about immunosuppression, and show whether the organ can support human life for meaningful periods. But the field cannot remain a sequence of carefully chosen rescue stories.
 
 At some point, the intervention has to move into studies capable of comparing outcomes systematically.
+
+The current kidney studies make that transition concrete while also exposing its limits.
+
+Fifty participants is enormous compared with one heroic case and tiny compared with the population that could eventually need kidney replacement. Open-label transplantation cannot hide which organ a participant received. Patient selection is necessarily unusual. Long-term data will accumulate slowly because the relevant outcomes are long-term.
+
+Formal development does not make the evidence problem disappear.
+
+It gives the evidence problem a shape.
 
 That transition changes patient selection.
 
