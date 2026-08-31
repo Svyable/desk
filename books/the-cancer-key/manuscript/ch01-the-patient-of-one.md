@@ -163,3 +163,41 @@ Cancer has always been difficult partly because the enemy is self with altered i
 That is the scientific breakthrough.
 
 Whether it becomes a social breakthrough depends on everything around it.
+
+The phrase patient of one can obscure how many people are required to produce a treatment for one patient.
+
+Before a personalized dose exists, somebody has to remove and preserve the tissue. Somebody has to decide which part of the specimen contains enough viable tumor. A laboratory has to extract DNA and RNA, another process has to compare tumor with normal, and software has to turn differences into a ranked set of possible targets. A manufacturing team has to convert that ranking into material that meets release criteria. Couriers have to move specimens and product without losing temperature, identity or time. Clinicians have to fit an individualized schedule into a treatment plan that already contains surgery, scans, standard drugs and uncertainty.
+
+The treatment is individualized at the molecular level and collective at every operational level.
+
+That distinction matters because failures will often be attributed to biology even when the system failed first. A patient who never receives a successfully manufactured product does not count as evidence that the neoantigen was a bad target. A sample that yields inadequate sequence data is not a failed immune response. A delay that lets disease progress beyond eligibility is not a negative vaccine result. Yet from the patient's point of view, all three are the same event: the promised treatment did not happen.
+
+Clinical trials try to separate these causes.
+
+Commercial medicine will have to do it at much larger scale.
+
+A mature personalized platform will need to report more than response rates. It will need to know how many eligible patients produce usable tissue, how many designs proceed to manufacture, how many batches are released on time, how often treatment starts within the intended window and which groups fall out at each step. The denominator is part of the therapy.
+
+This is familiar in other parts of medicine. A screening test can be accurate and still fail public health if people cannot reach follow-up. A transplant can be technically successful while organ allocation leaves most candidates untreated. A drug can be effective in a randomized trial and less effective in ordinary practice because adherence, monitoring or access breaks down.
+
+Personalized cancer therapy concentrates those implementation problems into one product pathway.
+
+The patient of one is therefore not an argument against population measurement.
+
+It is an argument for better measurement of the process that produces each unique treatment.
+
+The paradox runs deeper. The more individualized the product becomes, the more standardized the surrounding system may need to be. Every payload can differ only if chain of identity is dependable. Every algorithmic choice can change only if software versions are controlled. Every batch can be unique only if the manufacturing process is stable enough to make uniqueness intentional rather than accidental.
+
+Bespoke biology requires industrial repetition.
+
+That is why the scientific question and the institutional question cannot be separated for long.
+
+If the biology works but the process is unreliable, the field has discovered a laboratory phenomenon rather than a medicine. If the process is reliable but access is confined to a handful of wealthy centers, it has produced a specialty service rather than a broad cancer advance. If access expands before evidence and quality systems do, personalization can become a market for beautifully described uncertainty.
+
+The key, then, is not only the mutation.
+
+It is the ability to read the mutation, decide whether it matters, manufacture from it, deliver the result in time and learn from what happened next.
+
+A cancer can write an address in one patient's cells.
+
+Turning that address into medicine takes a civilization's worth of shared machinery.
