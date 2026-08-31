@@ -253,3 +253,145 @@ Personalized medicine does not make regulation obsolete.
 It makes regulation more like medicine.
 
 The rules have to adapt to the patient without forgetting the population.
+
+There is a third clock inside that last sentence.
+
+The product itself changes while the evidence is still maturing.
+
+A first-generation manufacturing process may be slow and heavily manual. A later version may automate sequence transfer, reduce release-testing time or move production closer to treatment centers. The target-selection algorithm may absorb new immunopeptidomic data. The diagnostic assay may improve sensitivity. None of these changes waits politely for overall-survival follow-up to finish.
+
+The regulator therefore has to manage three distinct speeds.
+
+Access asks how soon a patient can receive a plausible therapy.
+
+Evidence asks how soon the system can know whether the therapy improves meaningful outcomes.
+
+Change control asks how quickly the platform can improve without becoming a different, untested intervention by increments.
+
+Treating those as one clock produces bad policy.
+
+A fast review cannot compensate for a slow factory. A flexible manufacturing policy cannot compensate for weak efficacy evidence. A strong randomized trial cannot justify every future algorithm update automatically.
+
+Each clock needs its own standard.
+
+In May 2026, the FDA issued final guidance on chemistry, manufacturing and controls flexibilities for developing human cellular and gene therapy products for a biologics license application. The guidance was not a rule for individualized cancer vaccines, and it should not be read as one. Its relevance is institutional: the agency explicitly recognized that advanced biological products can need risk-based flexibility in CMC development while still requiring adequate assurance of quality.
+
+Flexibility is often mistaken for relaxation.
+
+The useful distinction is evidence proportionality.
+
+A manufacturing change with little plausible effect on product quality should not demand the same burden as a change that can alter potency, identity or safety. An automation step that performs a validated operation more consistently may deserve a different evidentiary response from a new formulation that changes where the RNA travels in the body.
+
+The same logic can govern individualized platforms.
+
+Change only the patient-specific sequence within a validated design space and the platform should not restart development. Change the rules that select the sequence, the delivery system or a critical release attribute and more evidence may be needed.
+
+The design space becomes regulatory infrastructure.
+
+A company has an incentive to define it broadly because broad space means operational freedom.
+
+A regulator has an incentive to define it carefully because hidden novelty can enter through a broad category.
+
+The negotiation is not paperwork.
+
+It determines whether the commercial product can learn.
+
+Post-market surveillance then carries more weight than it does for a static medicine.
+
+An approved personalized platform can drift through software updates, new sites, new analytical methods and a changing patient population. Each individual modification may be justified. The accumulated system after five years can still differ meaningfully from the one evaluated in the pivotal trial.
+
+Continuous evidence is how the approval remains attached to the product.
+
+That evidence should include ordinary safety reporting, but personalized manufacturing creates additional signals worth tracking.
+
+How often does a patient enter the process and never receive a product?
+
+How often does sequencing fail?
+
+How often is a batch rejected or remade?
+
+How long does manufacture take across sites, not only on average but in the delayed tail?
+
+Do particular HLA groups receive fewer high-confidence targets?
+
+Do algorithm versions change target diversity or clinical outcomes?
+
+Does moving production to a regional facility alter release failure or turnaround?
+
+These questions are too operational to fit the public image of drug safety.
+
+They are exactly how a platform can become unequal or unreliable after approval.
+
+A conventional pharmacovigilance system is good at asking whether patients developed an adverse event after receiving a drug.
+
+A personalized platform also needs vigilance for patients harmed by non-delivery.
+
+A six-week delay that causes a rapidly progressing patient to miss the treatment window may never appear as a drug adverse event because the person never received the drug.
+
+The system still failed clinically.
+
+This is why failure-to-treat belongs in the denominator after commercialization.
+
+The regulator does not need to decide every hospital appointment. It does need enough information to know whether the approved strategy remains practicable for the population described in the label.
+
+Capacity complicates the approval/access distinction further.
+
+A regulator can approve a product without guaranteeing manufacturing slots. A payer can cover it without creating a factory. A physician can prescribe it without controlling turnaround. Formal access can therefore exist while effective access is rationed by production.
+
+That problem will tempt policymakers to ask regulators to solve scarcity they do not control.
+
+The better response is coordinated governance.
+
+Regulators can require truthful performance reporting. Payers can avoid reimbursement rules that create unnecessary delay. Governments can support manufacturing capacity where scarcity threatens access. Companies can build redundant supply and publish service-level performance. Hospitals can standardize specimen handling so avoidable failures do not consume capacity.
+
+No single institution owns the clock.
+
+The patient experiences only elapsed time.
+
+The same is true of evidence after accelerated or conditional pathways.
+
+A confirmatory trial obligation that begins years late is not equivalent to one already enrolling at approval. A withdrawal process that takes years after benefit fails to confirm does not fully preserve the original bargain. Speed at the front end creates a reciprocal obligation to speed the back end.
+
+Earlier access is ethically defensible when later correction is operationally credible.
+
+That requires infrastructure before controversy.
+
+Trial protocols can be agreed early. Data systems can be built to capture outcomes. Manufacturing versions can be linked to patients. Registry participation can be part of coverage. Withdrawal criteria can be explicit enough that a negative result is not renegotiated from zero after patients and revenue depend on the product.
+
+The regulator's authority matters most when everyone already wants a different answer.
+
+That is why good rules are written before the pivotal result.
+
+Personalized medicine will also force agencies to cooperate internationally because the platform is naturally transnational.
+
+A target-selection algorithm can be centralized in one country, a patient specimen sequenced in another, a product manufactured in a third and administered in a fourth. Duplicating every quality review nationally can slow access without producing proportional safety. Accepting every foreign judgment automatically can import weaknesses the local system cannot see.
+
+Shared technical standards offer a middle path.
+
+Common expectations for chain of identity, sequence provenance, batch records, adverse-event definitions and outcome reporting can make evidence portable without requiring legal systems to become identical.
+
+Regulatory convergence is not regulatory surrender.
+
+It is agreement about what must remain legible when the product crosses borders.
+
+The fastest future is therefore unlikely to come from removing the regulator.
+
+It will come from moving regulatory attention toward the places where uncertainty actually lives.
+
+A stable step should become routine.
+
+A changing step should remain visible.
+
+A plausible shortcut should be calibrated against clinical outcomes.
+
+An early-access decision should create a later evidence obligation.
+
+A manufacturing improvement should be allowed to improve the product without hiding a new one inside the old name.
+
+That is a more demanding regulator than a slow one.
+
+It is also a faster one.
+
+The goal is not to make every clock tick at the same speed.
+
+It is to stop pretending that only one of them matters.
