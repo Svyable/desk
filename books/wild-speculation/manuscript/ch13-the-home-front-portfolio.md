@@ -207,3 +207,67 @@ War can arrive.
 Peace can continue.
 
 The plan has to live through both.
+
+The household balance sheet becomes easier to see when every major asset is paired with the risk that pays for it. A salary is valuable because an employer continues operating and continues needing the worker. Home equity is valuable because the local property market, insurance system, infrastructure, and tax base remain functional enough for buyers to value the property. A pension or retirement account depends on employers, markets, custodians, law, and time. A small business can be a magnificent asset and also a concentrated claim on one owner’s health, customers, suppliers, and location.
+
+The portfolio is embedded in the household rather than sitting beside it.
+
+This makes correlation more personal than a statistical coefficient. If one person works for an airline, owns airline stock, lives near an airport whose local economy depends on travel, and holds a small business serving airport workers, several apparently separate assets can respond to the same fuel shock or recession. If another person works for a defense contractor, owns the employer in a retirement plan, and buys a defense ETF because rearmament looks attractive, income and investments can all become exposed to the same budget cycle.
+
+Diversification should begin where life is already concentrated.
+
+This is one reason employer stock deserves special care. The company already pays the salary and may provide health insurance, bonuses, retirement matching, deferred compensation, and perhaps a pension. Adding a large equity position can transform familiarity into a stack of claims on one institution. When the company thrives, the concentration feels brilliant. When it fails, employment and wealth can fall together.
+
+Geopolitical change can make that stack move suddenly.
+
+A sanctions rule can remove a customer. A trade restriction can remove a supplier. A military buildup can create years of demand. A regional conflict can collapse tourism. An energy shock can change input costs. The worker does not need to predict which event arrives to know that the paycheck is already a position.
+
+Count it.
+
+The same applies to the house. A mortgage creates a fixed obligation attached to an illiquid local asset. If the family’s income is also local, then employment, home value, and debt service share geography. This does not mean renting is always safer or homeownership imprudent. It means the house should not disappear from the risk discussion merely because it is not quoted every day.
+
+A house can be stable on the screen because there is no screen.
+
+Illiquidity hides volatility until somebody has to move.
+
+That becomes relevant in the scenarios people call geopolitical but experience as relocation. A job transfers. A family member needs care elsewhere. Insurance becomes expensive. A local industry contracts. A region faces a physical threat. The household may discover that a large share of net worth is tied to a property that takes months to sell.
+
+This is why accessible liquidity and low leverage can be more valuable than an exotic hedge. They create the possibility of moving before the house does.
+
+Family obligations are another invisible liability. Parents support adult children. Adult children support parents. One relative lives abroad. Another has medical needs. A geopolitical disruption can raise travel, remittance, housing, or care costs at the same time the household’s own income is under pressure. A spreadsheet that treats only the account owner as a consumer understates the number of people the assets may eventually need to serve.
+
+Dependents widen the portfolio’s geography.
+
+So does citizenship and residency. A person may live in one country, hold assets in another, support family in a third, and expect retirement in a fourth. Currency exposure is then not an abstract diversification choice. Future liabilities may genuinely be denominated in more than one currency. The correct asset mix can differ from that of a household whose entire life is domestic.
+
+This is where a generic “war portfolio” becomes especially useless.
+
+The household’s map is already specific.
+
+Insurance should be mapped the same way. The important question is not simply whether a policy exists. What does it cover? What does it exclude? Who is named? What deductible must be paid? How quickly can the household finance that deductible? Is a war exclusion relevant? Is disability coverage tied to the employer? Would a move change health coverage? Does the business have key-person or interruption risks that the owner mentally assumes are covered?
+
+The policy is a contract, not a feeling of protection.
+
+Documentation is the operational layer that makes those contracts usable. A power of attorney that nobody can find does little good during incapacity. A beneficiary designation that was never updated can override intentions written elsewhere. An insurance policy whose number is trapped in a lost phone can turn a manageable claim into administrative chaos.
+
+The fix is not to create a fortress of paperwork.
+
+It is to make the essential system legible to the next person.
+
+That may mean a simple account inventory, current beneficiaries, secure copies of key records, clear contact information, and instructions that do not require specialized knowledge. The better the financial life becomes, the more important this gets because complexity grows quietly with every account, property, business, policy, and password.
+
+Continuity is a form of return protection.
+
+Career flexibility belongs in the same system. A certification, professional license, second language, network, or portable skill can reduce the time between losing one source of income and finding another. The return appears only in the scenario where the old job disappears or a move becomes necessary. It is another avoided-loss asset.
+
+Like cash, it can look inefficient until the bad year.
+
+The home-front portfolio is therefore less about maximizing the return of each component than avoiding combinations that all demand help at once. High debt, concentrated income, illiquid home equity, one bank, thin insurance, and a thematic crisis portfolio can each be survivable alone. Together they create a household that needs every institution to cooperate on schedule.
+
+Resilience means some parts can disappoint without recruiting all the others into the emergency.
+
+That is the test to apply before buying the next geopolitical hedge.
+
+If the position rises, which household weakness does the gain actually repair?
+
+If you cannot name one, the trade may be expressing a view rather than protecting the home front.

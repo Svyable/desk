@@ -167,3 +167,75 @@ War changes the conditions under which promises are financed, valued, inflated, 
 The quiet asset does not stop being quiet because it avoids headlines.
 
 Sometimes the quiet part is where the state places the largest burden.
+
+The wartime peg deserves a closer look because its numbers reveal how policy can redistribute risk without changing the legal promise on the bond. During World War II the Federal Reserve maintained the rate on Treasury bills at three-eighths of one percent and supported a ceiling around 2.5 percent on long-term Treasury bonds. Those rates helped the Treasury finance extraordinary spending on predictable terms.
+
+For the government, stable borrowing costs were a strategic resource.
+
+For the investor, stable nominal yields did not mean stable real wealth.
+
+If the price level rises while a long bond continues paying the same coupon, the government repays in dollars that buy less. The legal contract is honored. The economic bargain changes. This is sometimes described as financial repression when policy, regulation, institutional demand, or rate controls keep government financing costs below what an unconstrained market might otherwise require.
+
+The phrase can sound conspiratorial when used too loosely. In wartime the objective is often explicit. The state needs to transfer resources toward the war effort without allowing financing costs to become the dominant constraint on mobilization. Borrowing, taxes, monetary policy, price controls, and rationing become parts of one resource-allocation system.
+
+The bondholder is inside that system whether or not the bond is called patriotic.
+
+This is why comparing wartime nominal returns without inflation can tell a comforting but incomplete story. A bond may exhibit little price volatility because yields are managed while the real value of its payments changes substantially. Market stability can move volatility off the screen and into purchasing power.
+
+Risk has not vanished.
+
+It has changed units.
+
+The postwar conflict between the Treasury and Federal Reserve shows that such arrangements also develop an exit problem. A peg that is useful during mobilization can become increasingly uncomfortable when inflation persists and the central bank wants tighter conditions. Ending support can allow yields to rise, which lowers existing bond prices and raises the government’s future financing costs. Maintaining support can require continued purchases and make inflation control harder.
+
+Emergency policy develops constituencies.
+
+The institution asked to suppress one risk inherits another.
+
+This is relevant to any future large mobilization even if the exact tools differ. A modern government might not reproduce the 1940s rate structure. It could still use regulation, central-bank asset purchases, liquidity facilities, tax incentives, bank capital rules, savings campaigns, or targeted credit programs to influence where private balance sheets send money. The specific instrument matters less than the principle: when financing becomes strategically important, market prices can become policy variables.
+
+That possibility should make bond investors distinguish two questions that often get merged.
+
+Will the government pay?
+
+What will the payment buy?
+
+For a reserve-currency sovereign with debt issued in its own currency, the second question can become more important than the first. Formal default may be remote while inflation, taxes, or financial controls change the real value of the claim. For a sovereign borrowing in foreign currency, the first question can become acute because the government cannot create the units it owes.
+
+Currency denomination changes the menu of failure.
+
+Corporate bonds reveal a related distinction between accounting leverage and refinancing leverage. Two firms can have the same debt-to-earnings ratio and radically different crisis risk if one has maturities spread over ten years and the other must refinance a large amount next quarter. The first has time for operations to recover. The second needs a functioning market on a specific date.
+
+War turns dates into risk factors.
+
+A defense supplier may be fundamentally strengthened by years of new orders and still suffer if it must finance a plant expansion before customer advances arrive. A utility can own essential infrastructure and still need emergency capital at punitive rates. A shipping company can benefit from higher freight rates and face collateral demands on hedges. A commodity producer can enjoy high spot prices while a government restricts dividends or exports.
+
+The bondholder cares less about the theme than the cash waterfall.
+
+That is a useful discipline for equity investors as well. The company associated with the winning side of a geopolitical trade may need to fund inventory, labor, factories, and receivables before the promised revenue becomes free cash flow. Rising revenue can increase financing needs. A backlog can be valuable and expensive to fulfill.
+
+The order book is not the bank account.
+
+Inflation-linked government bonds appear to offer a cleaner answer to wartime inflation because their principal or coupons adjust with an official price index. They can indeed protect against some unexpected inflation. They are not a magical real-return guarantee. Market prices still move with real yields. Tax treatment can matter. The index follows a specified methodology and lag. An investor who must sell before maturity can experience losses even while the inflation adjustment rises.
+
+Again, the instrument protects a particular layer of risk.
+
+Short bills protect differently. Their low duration means principal can be reinvested relatively quickly as rates change. That makes them useful for capital whose main job is near-term availability. They do not guarantee a high real return if inflation exceeds short rates, and their income can fall rapidly when a central bank cuts during recession.
+
+Long bonds protect differently. Their duration can create large gains when yields collapse in a deflationary shock. That same duration becomes painful when inflation forces yields higher.
+
+A portfolio may hold all three because the future macroeconomic response to war is not known in advance.
+
+This is the part that a crisis narrative hates. The investor wants one defensive asset. The bond market offers a term structure.
+
+Different maturities are claims on different pieces of the future.
+
+The practical question is therefore not “Are bonds good in World War III?” It is “Which obligations do I need bonds to meet, which inflation and duration risks can I bear, and which issuer and currency do I trust for that job?” A retiree matching near-term spending has a different problem from a thirty-year-old using long bonds as a recession hedge. A foreign investor in Treasuries has a currency exposure the domestic investor does not. A pension fund matching liabilities faces a different constraint from a leveraged fund trading duration.
+
+The same security can be prudent for one owner and reckless for another because the liability changes the meaning of the risk.
+
+That is the recurring lesson of crisis finance.
+
+The asset never arrives alone.
+
+It arrives attached to a clock, a currency, a legal system, and a person who eventually needs the money.

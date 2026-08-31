@@ -177,3 +177,67 @@ Networks usually look immortal until they do not.
 That is a reason to diversify.
 
 It is not a reason to guess the funeral date.
+
+The current reserve data make the layered view more concrete. The International Monetary Fund’s COFER series put the dollar at roughly 57 percent of allocated official foreign-exchange reserves in the first quarter of 2026. That is a smaller share than decades ago and still, by a wide margin, the largest single currency share. Both facts can be true at once.
+
+The decline is evidence of diversification.
+
+The level is evidence of persistence.
+
+Even that percentage needs care. Reserve shares move partly because exchange rates move. A euro-denominated reserve can rise in dollar value without a central bank buying another euro asset. The IMF’s data briefs therefore distinguish valuation effects from active allocation where possible. A headline about “the dollar losing reserve share” can describe a policy decision, a currency move, or both.
+
+The accounting can change before the institution does.
+
+This is why the reserve share should be treated as one instrument panel rather than the whole aircraft. A central bank chooses reserve assets because it may need to intervene in currency markets, meet external obligations, provide foreign exchange to domestic institutions, or demonstrate financial capacity. Those jobs create a preference for assets that can be sold in size under stress. A currency can be politically attractive and operationally inconvenient if its capital markets are shallow, its exchange rate managed, or its assets difficult to access.
+
+Reserve managers are not voting in a popularity contest. They are stocking an emergency room.
+
+Trade invoicing is a separate function. Two companies can agree to price a shipment in dollars even when neither is American because the dollar price is familiar, hedgeable, and comparable across counterparties. Changing the invoice currency requires more than political agreement. The seller needs confidence in the currency it will receive. The buyer needs access to it. Both may need derivatives to manage exchange risk. Banks need systems and balance sheets to support the flows.
+
+A local-currency trade arrangement can reduce dollar use at the invoice layer while leaving the hedging layer untouched.
+
+Funding is another function. A company may issue dollar debt because global investors will buy it at scale or because its revenues are dollar-linked. A bank may borrow dollars in wholesale markets to finance dollar assets. When stress arrives, those liabilities can create demand for dollars independent of anyone’s long-run opinion about American fiscal policy.
+
+The debtor does not get to de-dollarize on the morning the debt comes due.
+
+Settlement is another function again. Payment messages, correspondent accounts, clearing, securities depositories, and central-bank balances turn the currency unit into final transfers between institutions. Alternative rails can be built. Their usefulness depends on who joins, which assets can settle through them, how disputes are resolved, how liquidity is provided, and whether users trust the legal finality of the transaction.
+
+A new rail can be technologically impressive and economically peripheral.
+
+These layers explain why the dollar can weaken gradually in one role and remain stubbornly dominant in another. A government may want fewer dollar reserves. Its exporters may still want dollar customers. Its corporations may still want dollar financing. Its banks may still need dollar liquidity. Its investors may still want Treasury securities in a crisis.
+
+De-dollarization is plural.
+
+This pluralism also changes the way sanctions power should be understood. The United States does not possess leverage merely because contracts contain a dollar sign. Leverage arises because dollar business often touches institutions subject to U.S. jurisdiction, because counterparties value access to U.S. markets, and because a broad sanctions coalition can reach other important nodes. If business migrates toward other currencies but still relies on institutions exposed to the same coalition, some of the political dependency remains.
+
+Conversely, financial activity can remain dollar-denominated while moving through structures designed to reduce particular forms of jurisdictional exposure. The currency and the legal route do not have to travel together.
+
+That makes predictions of monetary regime change harder, not easier.
+
+The geopolitics can change before the unit of account changes. The unit can change before the deepest capital markets do. The payment rail can change before corporate treasurers change their hedging habits. Different pieces can move at different speeds because the cost of replacing them differs.
+
+For investors, this should reduce the appeal of one-asset answers. Gold may diversify reserve-currency and inflation risk, but it does not replace the earning power of businesses. Foreign equities may diversify domestic economic exposure, but many of their cash flows remain connected to dollar trade and funding. Non-dollar bonds add currency diversification and introduce the monetary and fiscal policy of the issuer. Commodities can respond to currency weakness and carry their own cycles. Bitcoin may offer a different monetary architecture and brings volatility, custody, regulatory, and market-structure risks.
+
+A hedge against one layer is not an exit from the network.
+
+That is especially important for a U.S. household. The household’s mortgage, taxes, salary, Social Security benefits, insurance, grocery bill, and emergency expenses are mostly dollar liabilities. A portfolio designed as if the household could or should leave the dollar entirely may diversify the assets while mismatching the liabilities. The relevant question is not “How do I escape the dollar?” but “Which dollar risks would damage the plan, and what assets or choices reduce those risks without creating a worse mismatch?”
+
+Inflation may justify inflation-sensitive assets, shorter-duration claims, wage flexibility, or lower fixed expenses. A long-run concern about U.S. concentration may justify global equities. A fear of temporary payment disruption may justify accessible cash and redundant banking. A belief in gradual monetary diversification may justify modest exposure to other currencies or gold.
+
+None requires predicting the day a reserve-share chart crosses a round number.
+
+The infrastructure view makes one more demand on the investor: separate political dissatisfaction from functional substitution. Governments can dislike the leverage embedded in the dollar system and still use it because it works. Companies can resent exchange-rate exposure and still invoice in dollars because customers prefer it. Central banks can add gold and still intervene through dollar markets. Building alternatives can be strategically rational even if the incumbent remains dominant.
+
+This is normal infrastructure politics.
+
+Cities build new transport links before the old highway is empty. Companies qualify second suppliers before the first supplier fails. Governments diversify reserves before the incumbent currency becomes unusable. The existence of an alternative is not proof that the old system is ending tomorrow.
+
+It is proof that dependence has a price.
+
+That is the investable lesson.
+
+Do not confuse a country’s desire to reduce dependence with evidence that it has already escaped it. Do not confuse incumbent strength with evidence that escape is impossible. Watch the layers, the switching costs, the balance sheets, and the legal routes through which the network remains useful.
+
+The future monetary order may be less dollar-centered than the present one.
+
+It can arrive slowly enough to bankrupt anyone who insists on trading it like a deadline.

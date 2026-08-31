@@ -155,3 +155,57 @@ The consumer still has to adapt.
 And the investor still has to ask the question that every dramatic commodity story tries to outrun:
 
 At this price, how much of the fear is already mine?
+
+The current flow data make the geography even less compatible with a simple on-off story. In the first half of 2025, EIA estimated that roughly 20.9 million barrels per day of oil and petroleum products moved through Hormuz, but the destination of those barrels mattered. Asian markets received the overwhelming share. China, India, Japan, and South Korea were not experiencing the same exposure as a country with different import patterns, domestic production, storage, or pipeline links. A global benchmark can move while the economic pain remains unevenly distributed.
+
+Liquefied natural gas sharpens the distinction. EIA estimated that about 11.4 billion cubic feet per day of LNG moved through Hormuz during the same period, more than a fifth of global LNG trade. That gas cannot simply be treated as another barrel of oil. LNG depends on liquefaction trains at the exporting end, specialized carriers, and regasification terminals at the importing end. A buyer needs both an available cargo and a place capable of receiving it. The set of substitutes is narrower and more physical than a futures screen suggests.
+
+A crisis can therefore produce different scarcity curves for crude, refined products, and gas even when all three are described in one headline as an “energy shock.”
+
+The bypass routes are just as important. Saudi Arabia and the United Arab Emirates maintain pipelines that can carry some production around Hormuz. Their existence changes the first hours of any scenario because not every export barrel depends on the strait. Their limited spare capacity changes the later hours because they cannot replace the full normal flow. A bypass is not the same thing as a substitute. It is a pressure valve with a diameter.
+
+That is how physical resilience usually works.
+
+Strategic stocks are another pressure valve. Commercial inventories are another. Spare producing capacity is another. Demand destruction is another, although nobody likes to call a recession a form of supply balancing. Each responds on a different clock. Inventories can move quickly if governments and companies decide to release them. Extra production may take longer depending on where the capacity exists. New fields take much longer. Consumers can reduce driving or industrial activity surprisingly fast if prices become painful enough.
+
+The market is constantly trying to guess which clock will win.
+
+This creates a subtle problem with headline quantities. Twenty million barrels per day through one passage is not the same as twenty million barrels per day permanently removed from world supply. A partial disruption may strand some cargoes, redirect others, draw down inventories, increase pipeline use, and force refiners to bid for different grades. The gross flow exposed to the route can be much larger than the net supply ultimately lost.
+
+That difference is where many spectacular price forecasts quietly hide their assumptions.
+
+The Red Sea case is useful precisely because the gross disruption was large and the net physical disappearance was smaller. By the first half of 2025, EIA data showed flows through the Suez Canal and SUMED pipeline system and through Bab el-Mandeb at roughly half their 2023 levels, while traffic around the Cape of Good Hope had increased materially. The system did not shrug. It paid.
+
+It paid in ship-days.
+
+That unit deserves more attention. A tanker is both transportation and inventory. When a voyage takes longer, the same number of ships can complete fewer voyages in a month. Effective transport capacity falls even if no vessel is destroyed. A barrel spending additional days at sea is capital that cannot be turned into cash at destination. A refiner waiting longer may carry more buffer inventory. A trader may need more financing. A shipowner may earn more because distance has absorbed fleet capacity.
+
+The reroute turns geography into a balance-sheet tax.
+
+Container shipping adds another layer because ships are only part of the system. Containers themselves must be in the right ports. Schedules connect to warehouses, rail terminals, trucking, and retail inventory plans. A longer voyage can cause equipment to arrive late in one place and remain unavailable in another. The cost appears not just in freight but in the amount of inventory a company must carry to maintain the same service level.
+
+That is why a manufacturer can be damaged by a shipping disruption without ever failing to receive the goods.
+
+The goods arrive.
+
+They arrive later, with more capital attached to them.
+
+This distinction matters for stock selection. The company that can pass higher logistics costs to customers is in a different position from the company trapped in a fixed-price contract. The retailer with large margins and flexible sourcing is different from the discount merchant whose customers are highly price sensitive. The refiner able to accept several crude grades is different from the plant optimized around a narrow input slate. The producer connected to both pipeline and port is different from one dependent on a single terminal.
+
+The commodity chart cannot show these differences because they are not commodity differences. They are business-model differences.
+
+Even the same company can change across time. After one disruption, management may increase inventories, renegotiate contracts, diversify ports, or accept lower average efficiency in exchange for a wider operating envelope. The next shock then reaches a different balance sheet. Historical sensitivity is not a fixed property.
+
+This is one reason the last crisis can be a poor guide to the next one. Systems learn.
+
+They also forget.
+
+When freight normalizes and inventory carrying costs become visible again, pressure returns to remove the redundancy. A second supplier looks expensive. Extra storage looks lazy. A longer contract looks inflexible. The resilience investment has the same problem as insurance: its benefit is easiest to see immediately after the event that justified it and hardest to defend after years in which nothing happens.
+
+Oil therefore teaches a broader lesson about geopolitical risk. The most important number may not be the amount of supply threatened. It may be the amount of substitution available before the first serious shortage reaches the user.
+
+That substitution can be geographical, technical, contractual, behavioral, or political. Another route. Another grade. Another fuel. Another supplier. Another inventory policy. Lower demand. Emergency reserves. Temporary regulation. None is free. Their costs are precisely what a crisis reveals.
+
+The investor who studies the geography is not trying to find a route that cannot fail.
+
+The investor is trying to understand how many expensive ways remain after the cheap route does.

@@ -139,3 +139,71 @@ Know where the claim lives.
 Know how it becomes spendable money.
 
 And do not confuse a number you can see with an asset you can use.
+
+The 2022 action against Russia’s central bank deserves another look because of what it says about reserves themselves. A reserve is usually described by asset class and currency: dollars, euros, government securities, gold. That language makes the reserve sound like a warehouse of financial objects. In practice, most official reserves are claims held through institutions. A central bank may own securities issued by one government, keep deposits with another institution, and rely on custodians, depositories, and settlement systems located outside its borders.
+
+The reserve is therefore partly a relationship with the jurisdictions that make it usable.
+
+This sounds obvious once written. It was easy to ignore before the immobilizations because the main risks attached to official reserves were usually discussed as market risks: duration, currency value, liquidity, credit quality. The sanctions episode added a more explicit question. Can the owner legally instruct the institution holding the asset to move it?
+
+That is not a market-risk question.
+
+It is a permissions question.
+
+Permissions change the practical meaning of diversification. Suppose a state reduces its exposure to one currency by holding securities in several others, but most of those securities sit inside jurisdictions likely to coordinate sanctions in the same crisis. Currency diversification has increased. Coalition diversification may not have. Now reverse the problem: suppose the state moves assets toward jurisdictions less likely to cooperate with sanctions but accepts smaller markets, lower liquidity, capital controls, or less confidence in property rights. One dependency falls and another rises.
+
+There is no neutral spreadsheet cell labeled sovereignty.
+
+Gold attracts attention here because physical bullion held inside a country does not depend on a foreign custodian to obey a transfer instruction. That independence is real. So are the costs. Gold earns no contractual interest, must be stored and secured, and becomes useful for cross-border payments only through counterparties willing to accept or finance it. The quantity that can be mobilized quickly at a tolerable spread may differ from the quantity reported on a balance sheet.
+
+A reserve asset can therefore be sovereign in custody and less convenient in use.
+
+This tension appears at the household level too. Physical cash is immediately accessible if the payment network is down, but it loses purchasing power to inflation and is vulnerable to theft or destruction. A bank deposit can earn interest and support electronic payments, but it depends on a bank and payment rails. A Treasury bill has a highly developed market but needs a brokerage or banking channel to become groceries. Gold can diversify financial claims but must be stored and sold.
+
+The practical portfolio contains several kinds of money because each fails differently.
+
+Sanctions compliance adds another layer because law rarely executes itself. It executes through thousands of institutions making decisions under uncertainty. OFAC publishes regulations, directives, general licenses, specific licenses, frequently asked questions, and enforcement actions. Banks and brokers then translate that material into operational controls. A line in a regulation becomes a blocked payment, an account restriction, an extra review, or a request for documents.
+
+That translation is not frictionless.
+
+Institutions face an asymmetric payoff. Processing a legal but unusual transaction may earn a fee. Processing a prohibited transaction can create major penalties and reputational damage. When facts are unclear, the rational institutional response can be caution beyond the minimum legal boundary. This is the source of much of the overcompliance that appears to an end user as arbitrary refusal.
+
+The law says one thing.
+
+The risk department asks whether it can prove the thing.
+
+That difference matters for investors because access can narrow before a definitive legal judgment exists. A broker may stop accepting purchases while allowing sales. A bank may delay a transfer while seeking information. A custodian may wait for a license. A market maker may disappear because it cannot evaluate settlement risk. Liquidity can evaporate through caution rather than prohibition.
+
+In other words, sanctions create a confidence channel as well as a legal channel.
+
+This is also why evasion and substitution do not prove sanctions are ineffective. A sanctioned economy may continue importing goods and exporting commodities while paying more for intermediaries, accepting discounts, using longer routes, relying on less efficient finance, and concentrating business among a smaller group of counterparties. The volume can survive while the terms deteriorate.
+
+Investors should distinguish resilience from costlessness.
+
+A shipment that arrives through three intermediaries instead of one demonstrates adaptability. It may also demonstrate that sanctions imposed a tax on the transaction. A producer that keeps exporting at a discount has not been removed from the market, but neither is it earning the economics it would have earned without the restriction. A technology buyer that obtains lower-performing substitutes is still producing, but at a different frontier.
+
+This is why sanctions analysis based only on whether trade went to zero misses the mechanism.
+
+The same mistake appears in predictions of rapid de-dollarization. A country can reduce the dollar share of official reserves without abandoning dollar invoicing, dollar borrowing, or dollar settlement. A commodity trade can be denominated in another currency while the companies involved still hedge through dollar markets. A bank can hold fewer dollar reserve assets while its customers continue to demand dollar funding.
+
+Financial networks have layers.
+
+Sanctions pressure can weaken one layer and strengthen another. A state worried about reserve immobilization may diversify reserves while private firms continue to prefer deep dollar funding markets. A government may encourage local-currency trade while exporters immediately convert the proceeds. A new payment link may reduce dependence on one messaging system while correspondent banking remains concentrated elsewhere.
+
+The investment mistake is expecting one dramatic geopolitical act to make every layer move together.
+
+Networks rarely exit that cleanly.
+
+For a company, the same reasoning belongs in the balance-sheet review. Where are cash balances kept? Which subsidiaries own them? Can excess cash be upstreamed to the parent? Which currencies can be converted? Which banks process the payments? Are suppliers or customers close enough to a sanctions boundary that compliance policy could interrupt normal business even without a formal designation?
+
+A multinational can report billions of dollars of cash and still have only part of it freely available to the entity that needs it.
+
+Cash is not fully described by quantity.
+
+It has an address.
+
+The deeper lesson is not that investors should fear every jurisdiction. It is that crisis changes the value of legal optionality. An asset held in a structure with several lawful exit routes may be more useful than an economically similar asset trapped behind one settlement path. A company with customers in several markets may adapt better than one whose revenue depends on a jurisdiction vulnerable to sanctions. A household with more than one ordinary means of payment may be more resilient than one holding a single exotic “sovereign” asset.
+
+Sanctions do not make finance unreal.
+
+They make the institutions inside finance impossible to ignore.

@@ -185,3 +185,63 @@ That is the paradox of investing in bottlenecks. The better the investment works
 The narrow place earns rent.
 
 The rent finances the road around it.
+
+The Red Sea also shows why the word bypass can be too comforting. The Cape of Good Hope is not a spare Suez Canal sitting idle beside the original route. It is an entirely different voyage. The ship that takes it must spend additional days at sea. Those days occupy the vessel, consume bunker fuel, delay the cargo, and shift the schedule of every later voyage. The alternative works by asking the rest of the system to absorb more time.
+
+Time becomes capacity.
+
+If ten ships each need materially longer to complete a circuit, the fleet behaves as if some ships have disappeared even though every hull remains intact. The same cargo volume now requires more ship-days. Charter rates can rise without any increase in the amount of oil, grain, or manufactured goods demanded. A disruption has created scarcity in transportation rather than in the cargo itself.
+
+That distinction can invert the apparent winner. A commodity producer may receive the same price at the loading terminal while the buyer pays more delivered. A shipowner with favorable contracts can gain. A manufacturer whose components spend extra days in transit can lose. A retailer may respond by ordering earlier and carrying more inventory, which ties up cash and warehouse space. A company with weak working capital can be hurt by a route change that never prevents a single shipment from arriving.
+
+The bottleneck has migrated from geography to finance.
+
+This is why working capital deserves a place in geopolitical analysis. Inventory is often discussed as a sign of inefficient management. In a disrupted network it is also time stored on a balance sheet. More finished goods allow a company to keep selling while transport is delayed. More raw materials allow a plant to keep producing while a supplier catches up. The cost is cash committed before the product earns revenue, plus storage, insurance, spoilage, and obsolescence.
+
+A company can therefore become more resilient and financially weaker at the same time.
+
+The investor who sees only the reduction in stockout risk misses the higher capital requirement. The investor who sees only the higher inventory days misses the option to keep operating. Resilience creates a balance-sheet trade rather than a free improvement.
+
+Contracts determine who pays for that trade. A carrier on a long-term charter may not capture the full rise in spot rates. A shipper locked into a freight contract may be protected until renewal. A manufacturer with fixed delivery promises may absorb extra transport costs that a competitor can pass through. An insurer may charge a war-risk premium and still face the possibility of a claim large enough to overwhelm years of extra premium.
+
+The chokepoint does not distribute rents automatically to the company whose logo appears closest to the map.
+
+It distributes them through contracts.
+
+The same is true of ports. Diverting vessels to an alternate port sounds like redundancy until the alternate port receives more ships than its berths, cranes, storage yards, customs officers, rail links, or truck gates can handle. A route around one bottleneck can create queues at the next. Congestion is the system revealing that nominal capacity and usable capacity are different things.
+
+Electric grids behave similarly. A country can have enough generation in aggregate and still lack the transmission to move power from where it is produced to where it is needed. A data center can have servers and no available grid connection. A mine can contain the mineral and lack the processing capacity. A defense plant can have orders and lack energetics, machine tools, castings, or cleared workers.
+
+The world is full of resources that cannot reach the place where their value is highest.
+
+Chokepoints are the verbs between the nouns.
+
+This is what makes simple diversification metrics inadequate. A firm can report suppliers in ten countries while all ten suppliers depend on the same upstream chemical producer. A portfolio can hold five shipping companies whose fleets are insured by the same market. Three cloud providers can share dependence on one electricity region, one chip supply chain, or one identity provider. Two banks can use different brands and the same payment rail.
+
+Count the dependencies, not the logos.
+
+That can be difficult because the dependency is often invisible until failure. Public companies disclose material risks, but the truly constraining node may be a private sub-tier supplier whose name does not appear in a filing. Governments encounter the same problem. The U.S. Government Accountability Office has repeatedly found that defense supply-chain visibility can weaken below prime contractors, exactly where foreign dependence or a small specialized supplier may matter most.
+
+The defense industrial base is a useful warning because its mission encourages people to assume redundancy. National security sounds like a sector that must know every critical dependency. In practice, complex weapons contain enormous supplier networks, and government visibility can be incomplete. A prime contractor may know its direct vendors while lacking a complete map of where every component, material, or machine originates.
+
+The unknowable part of the supply chain deserves a risk premium of its own.
+
+This uncertainty changes how investors should interpret announcements about reshoring. A new domestic assembly plant may reduce exposure at the final stage while leaving critical equipment, materials, software, or components concentrated abroad. A domestic label can sit on top of a global dependency stack. Conversely, an international supplier can be resilient if it has multiple plants, inventories, alternate transport routes, and legal structures that allow it to keep serving customers.
+
+Nationality is a poor substitute for a supply-chain map.
+
+The same applies to “strategic autonomy.” No large modern economy produces every input efficiently at home. The practical question is which dependencies are acceptable because substitutes are plentiful and which become intolerable because substitution is slow. Coffee and advanced lithography equipment are both imported products. Their absence has very different consequences.
+
+A rational resilience policy therefore has to rank bottlenecks rather than eliminate trade.
+
+Investors have to do the same.
+
+The highest-value question is often not what happens if the node fails forever. Forever encourages fantasy. Ask what happens if it fails for thirty days, six months, two years. The answers reveal which buffers actually matter. Thirty days may be solved with inventory. Six months may require alternate suppliers and financing. Two years may require redesign, new factories, government support, or demand destruction.
+
+Different clocks produce different winners.
+
+The company with the warehouse can survive the month. The company with a qualified second supplier can survive the year. The company with the engineering ability to redesign around a missing input can survive the decade. The government with stockpiles can buy time for all three.
+
+This is why the most valuable asset near a chokepoint is sometimes not the scarce thing.
+
+It is the ability to change.

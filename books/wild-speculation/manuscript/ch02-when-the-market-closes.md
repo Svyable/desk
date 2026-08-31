@@ -151,3 +151,45 @@ The investor who asks what happens when the market closes is testing the structu
 The second question is less glamorous. It is also harder for a headline to answer.
 
 That is probably why it is worth asking.
+
+There is one more reason to care about closure that does not fit comfortably into the language of liquidity. A closed market changes who is allowed to be patient.
+
+When continuous trading disappears, so does the daily ritual in which every holder is invited to reconsider the position. That can protect a market from panic, but it also creates an unequal distribution of waiting capacity. A household with no debt, a stable salary, and several months of accessible cash may be able to ignore a frozen security for a year. A hedge fund financed overnight cannot. A company with payroll due Friday cannot. A pension fund may have long liabilities but still face collateral calls on derivatives. A refugee who has crossed a border may own plenty on paper and have almost nothing useful at the grocery counter.
+
+The same asset can therefore be liquid enough for one owner and disastrously illiquid for another.
+
+This is easy to miss in ordinary investment analysis because the security receives most of the attention. Analysts ask about average daily volume, bid-ask spreads, fund redemptions, market depth. Those measures matter. They describe the asset in relation to the market. Crisis preparation also has to describe the owner in relation to time.
+
+How long can you wait?
+
+That is not a philosophical question. It can be written down. Mortgage due date. Tuition date. Tax date. Payroll date. Medication refill. Insurance premium. Margin call. Debt maturity. A portfolio becomes much easier to reason about when the liabilities stop appearing as one annual spending number and start appearing as clocks.
+
+This is why the phrase “cash on the sidelines” can be so misleading. Cash reserved for an obligation is not necessarily waiting to be invested. It may already have a job. Treating every low-yielding dollar as an underperforming asset encourages people to invest the very buffer that gives their volatile assets time to recover. The return on that buffer is partly invisible: it is the sale you did not have to make at the worst moment.
+
+Institutions understand this through liquidity management. The household version is less formal but no less real. A person who keeps enough immediately usable funds to cover near-term obligations has purchased patience for the rest of the portfolio. The purchase price is the return forgone on that money. In calm years the cost is visible and the benefit looks hypothetical. In a disrupted year the arithmetic reverses.
+
+That does not justify holding every dollar in cash. Inflation can quietly consume the value of excessive cash balances. Long horizons still need productive assets. The point is to stop asking one asset to do incompatible jobs. Money needed next week should not be optimized like money needed in thirty years. A retirement portfolio should not be judged by the same access standard as an evacuation fund. A hedge against a temporary market drawdown is different from money intended to survive a payment-system interruption.
+
+The 1914 closure is also a reminder that governments and market operators sometimes choose less price discovery in order to preserve more of the system. An exchange closure can prevent forced liquidation from producing prices that become destructive signals of their own. A capital control can slow a run while trapping capital. A short-sale restriction can reduce one form of pressure while impairing hedging and information. Emergency rules create benefits and costs at the same time.
+
+That ambiguity matters because investors often talk about intervention as if it has one sign. If the government closes the market, bearish. If it guarantees funding, bullish. If it restricts capital, bearish. If it supports the currency, bullish. Real policy packages are rarely that clean. The action that protects a bank may disadvantage a bondholder. The rule that stabilizes a currency may restrict a foreign investor. The measure that preserves an exchange may defer rather than eliminate losses.
+
+A portfolio built around a crisis should therefore include policy uncertainty as part of the crisis. You are not forecasting only the war. You are forecasting what states, exchanges, banks, clearinghouses, insurers, and counterparties will do in response to it.
+
+That is a much longer chain of assumptions than a price chart admits.
+
+There is a practical test for this. Take any asset in the portfolio that you mentally label safe and remove its quoted price from the screen. Imagine you can see only the legal claim, the custodian, the settlement path, the currency, and the date on which you need the money. Does the asset still look safe for the job you assigned it?
+
+Sometimes the answer becomes more favorable. An insured deposit meant for next month may look better once you stop comparing its yield with stocks. A short government bill matched to a known obligation may look sensible even if another asset has a higher expected return. An unleveraged global equity fund held for decades may look less frightening when you stop asking whether you could sell it during a three-day operational shutdown.
+
+Sometimes the answer becomes worse. A complex foreign security held through several intermediaries may not be the emergency reserve you thought it was. A concentrated position financed with margin may depend on continuous access more than its owner realizes. A crypto asset may be continuously quoted while the holder’s route to rent money passes through one exchange and one bank. A physical asset may be independent of markets but impossible to move.
+
+Removing the price forces the function into view.
+
+That is what a market closure does in real life, with none of the gentleness of the thought experiment.
+
+The useful preparation is therefore not to predict which exchange closes. It is to make sure that no single closure, intermediary failure, legal freeze, or payment interruption gets to decide the fate of the whole household or portfolio. That usually means less drama than people expect: less leverage, more time, more than one access path, records that can be recovered, and enough truly usable liquidity to avoid turning temporary inaccessibility into permanent loss.
+
+The market can close.
+
+Your plan should not have to close with it.

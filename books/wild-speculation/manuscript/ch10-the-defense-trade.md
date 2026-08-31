@@ -163,3 +163,59 @@ A backlog that doubled did not create twice as much free cash flow.
 Eventually the financial claim must meet the factory.
 
 That meeting is where the defense trade becomes an investment.
+
+The GAO findings on weapon replacement show how quickly the industrial clock can become the dominant clock. The nineteen-to-thirty-four-month extension in lead times for some electronic parts was not an abstract supply-chain concern. It meant that a funded requirement could wait more than a year longer for a component before the finished system could move through integration, testing, and delivery.
+
+A government can appropriate money instantly by legislative standards.
+
+It cannot appropriate elapsed manufacturing time.
+
+This is why production-rate announcements need to be read as engineering plans rather than financial guidance. Increasing output of 155-millimeter ammunition, for example, can require more than adding workers to an existing line. The system needs energetics, metal bodies, fuzes, propellant, packaging, quality control, equipment, safe facilities, supplier capacity, and customer acceptance. Expanding one step can merely reveal the next bottleneck.
+
+Capacity is a chain of minimums.
+
+If nine stages can double and the tenth can rise only twenty percent, the plant does not double.
+
+The same constraint appears in shipbuilding. A shipyard can be full of expensive physical capital and still be limited by skilled labor, design changes, supplier delays, dry-dock schedules, or rework. The backlog can grow faster than deliveries because the backlog is demand and deliveries are coordinated industrial execution.
+
+Investors should therefore pay attention to working capital during rearmament. A company expanding production may buy inventory earlier, hire workers before revenue arrives, make advance payments to suppliers, and spend heavily on equipment. Receivables can grow with sales. Government advances or progress payments may offset part of the burden, but the timing differs by contract.
+
+A rising defense budget can make a company consume cash before it generates more of it.
+
+This is normal growth finance, made politically invisible by the word war.
+
+Contract type then determines who absorbs the inflation and execution risk. Under a cost-reimbursement structure, the government may bear more of an approved cost increase. Under a fixed-price contract, the contractor can carry far more risk if wages, materials, or engineering work exceed assumptions. A period of rapid inflation can therefore create the strange result in which geopolitical danger expands demand while old contracts become less profitable to perform.
+
+The company can be strategically busier and financially unhappier.
+
+That is not a theoretical curiosity. Long-duration defense programs are vulnerable to assumptions made years before delivery. Labor rates move. suppliers disappear. requirements change. A contractor may need to renegotiate, record charges, or accept lower margins to keep a strategically important program moving.
+
+The defense trade therefore contains vintages. A new contract priced after a cost shock can have different economics from an older fixed-price contract still being executed. A company-level margin averages them together. A headline about rearmament does not.
+
+Export orders add another delay. A foreign government may want a system that already exists in U.S. production, but political approval, export licenses, configuration, training, financing, local industrial participation, and the production queue all matter. The manufacturer may have demand without immediate delivery slots.
+
+This can make alliance commitments financially valuable over a longer period than the initial crisis and less valuable in the next quarterly report than the market assumes.
+
+The queue itself becomes an asset.
+
+Companies with mature production lines, qualified suppliers, installed tooling, and customer trust can possess something difficult to recreate quickly. A new entrant may have better technology and still lack the ability to deliver at scale. The old prime may look bureaucratic and own the certification, security, logistics, and manufacturing system the customer can actually use.
+
+This is one reason defense disruption is slower than consumer-technology disruption. The buyer is purchasing not merely a device but a support ecosystem expected to function in adversarial conditions for years.
+
+Startups can still change the industry. Cheap drones, software-defined systems, autonomy, commercial sensors, and faster iteration can attack the cost structure of legacy programs. The mistake is assuming the winner will be determined by technology alone. Procurement pathways, integration, supply chains, data rights, cyber accreditation, and production scale decide whether a prototype becomes a force.
+
+A demonstration is not a deployed fleet.
+
+That distinction matters to valuation because public markets often price the story at the prototype stage. The company becomes “the future of warfare” before the government has decided how many units to buy, how to operate them, or whether the next countermeasure changes the requirement. The uncertainty can justify a high return if the price is right. It should not be hidden by the drama of the mission.
+
+The same discipline belongs at the mature primes. A large funded backlog is valuable because it reduces revenue uncertainty. It is not a license to ignore pension obligations, capital intensity, program charges, supplier health, or the price paid for the stock. If the market has already capitalized a decade of rearmament, the next surprise must be even better.
+
+The investor is not paid because the country needs the product.
+
+The investor is paid from the difference between what the company earns and what the security already costs.
+
+This is where defense investing returns to ordinary finance after pages of extraordinary context. Free cash flow. Incremental margins. Return on invested capital. Balance-sheet strength. Share count. Capital allocation. Customer concentration. Competitive position. Valuation.
+
+War changes the inputs.
+
+It does not repeal arithmetic.

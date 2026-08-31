@@ -183,3 +183,63 @@ The ticker is the easiest part.
 Factories are harder.
 
 Factories have to work.
+
+The supply chain becomes more revealing when it is broken into functions rather than countries. At the front sits design: architecture, electronic-design-automation software, intellectual property, and the engineers who turn a product idea into a layout that can be manufactured. Fabrication follows, but the fab itself depends on lithography, deposition, etching, inspection, metrology, gases, photoresists, wafers, pumps, valves, filters, and thousands of parts that must meet extraordinary tolerances. After fabrication, advanced packaging and testing increasingly determine how multiple dies become one useful computing system.
+
+No single country owns all of that stack.
+
+This is why “move the fabs” cannot create semiconductor autarky. A new American fab can reduce dependence on Taiwanese fabrication and remain dependent on equipment from the Netherlands, Japan, and the United States, materials produced elsewhere, and packaging capacity in Asia. A new Japanese project can improve geographic resilience while relying on American design tools and foreign customers. A European equipment maker can possess a critical manufacturing capability while depending on a global supplier network of its own.
+
+The semiconductor map is a mesh with several narrow places.
+
+Export controls exploit that structure. U.S. Bureau of Industry and Security rules restricting certain advanced-computing chips and semiconductor-manufacturing equipment do not need to prohibit every chip in order to alter the frontier available to a target. They focus on capabilities considered strategically important. The effect then spreads through product redesign, customer segmentation, licensing decisions, inventory behavior, and investment in substitutes.
+
+Controls therefore change the value of compatibility.
+
+A company may create a lower-performance product designed to remain outside a controlled threshold. A customer may redesign a system around a chip that is available. A country may invest in domestic tools that are initially inferior but strategically valuable because they reduce dependence. Technical performance stops being the only objective.
+
+Availability acquires a premium.
+
+The same principle explains why mature-node capacity should not be dismissed as yesterday’s technology. Many military systems, automobiles, power converters, industrial controls, and medical devices do not need the leading logic node. They need a component that has been qualified, is reliable, can be produced for years, and fits a design that may itself have a long certification cycle.
+
+A shortage of a cheap mature chip can stop a factory producing a very expensive final product.
+
+The economic leverage comes from complementarity, not transistor density.
+
+Materials provide another example. The Commerce Department’s 2025 CHIPS award to Hemlock Semiconductor supported expansion of U.S. production of hyper-pure polysilicon used in semiconductor manufacturing. The announcement received less public attention than a leading-edge fab because a cylinder of purified material is less cinematic than an artificial-intelligence accelerator.
+
+The fab cannot manufacture without material pure enough to enter the process.
+
+Strategic supply chains are full of inputs whose financial value is small relative to the system they enable. This creates an investment trap: the critical supplier can be operationally indispensable and economically unable to capture much of the value because customers qualify multiple sources, governments subsidize alternatives, or the supplier must spend heavily to expand.
+
+Scarcity and bargaining power overlap imperfectly.
+
+Packaging has become another layer where old mental models fail. As chip designers combine multiple dies and use increasingly sophisticated interconnects, the final performance of a computing system can depend on packaging technology as much as on one monolithic chip. A geographically diversified wafer supply can still encounter a packaging constraint. Building wafer capacity without matching back-end capacity can move the bottleneck rather than remove it.
+
+Industrial policy has to chase a moving target.
+
+That makes policy success difficult to judge on a quarterly horizon. The government may rationally fund capacity whose private return looks mediocre because the objective is to create an option for a future emergency. The factory may be underutilized in peace and still valuable strategically. A shareholder cannot assume the government will allow that strategic value to become monopoly rent.
+
+The public is buying redundancy.
+
+The investor is buying a security.
+
+Those purchases share a factory and have different payoff functions.
+
+There is also a human ecosystem that subsidies cannot clone quickly. Process engineers learn by running wafers. Maintenance teams learn the peculiar behavior of installed tools. Suppliers solve problems with customers through repeated interactions. Yield improvement is partly accumulated local knowledge. A building full of equipment can therefore have the same nominal capacity as a mature fab and produce very different economics during ramp.
+
+The word capacity should always be followed by a question: at what yield, for which product, on what date?
+
+This matters in a crisis because theoretical capacity that still requires qualification may not be a substitute. A chip designer cannot necessarily move a leading product overnight. Design rules differ. libraries differ. physical characteristics differ. software may need validation. Customers may need to qualify the new silicon. Even when an alternate foundry has available equipment, the migration can be a development project rather than a purchase order.
+
+Inventory can buy time but not redesign a chip.
+
+This is why the useful semiconductor hedge often sits outside the semiconductor portfolio. A company dependent on one chip can carry more inventory, design a second source into the next product generation, negotiate priority, or build an emergency version with lower performance. A household investor can avoid concentrating further in the same technology complex. A government can build alliances around complementary capabilities rather than pretending one nation must recreate the entire stack.
+
+Redundancy does not require duplication of everything.
+
+It requires enough alternate paths that one failure does not end the function.
+
+That is the real island problem. Taiwan is geographically an island. The semiconductor system is not.
+
+Its resilience depends on whether the rest of the network can keep doing useful work when one extraordinary node becomes less available.
