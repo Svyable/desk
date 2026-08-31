@@ -283,3 +283,83 @@ The yield enters the budget.
 The budget enters the election.
 
 Time finally gets a vote.
+
+## When a Yield Becomes a Headline
+
+The political power of a bond yield depends partly on whether ordinary people can translate it into something they experience.
+
+A ten-year Treasury yield is abstract.
+
+A mortgage payment is not.
+
+A municipal bond issue delayed because financing became too expensive is not.
+
+A company that cancels a factory because its hurdle rate rose is not.
+
+A federal budget that spends more on interest than policymakers expected is not.
+
+The bond market becomes politically salient through these transmission channels.
+
+That is why the same yield can produce different political reactions in different economies. If households borrow mostly at long fixed rates, a rise in yields can hit new buyers more than existing homeowners. If corporate debt is mostly fixed, companies may feel the change only as maturities arrive. If public debt is short, the government's interest bill reacts quickly. If public debt is long, the budget reacts slowly.
+
+Political pressure follows the fastest channel.
+
+In the United States, the thirty-year fixed mortgage creates an unusual distribution. Millions of existing homeowners can remain insulated from higher rates while younger or more mobile households face much higher financing costs. The same rate environment that gives savers better Treasury income can freeze parts of the housing market.
+
+This matters for fiscal politics because voters do not experience “higher interest rates” as one common condition.
+
+They experience different prices according to the contracts they already hold.
+
+A retiree with Treasury bills can favor higher safe yields.
+
+A first-time homebuyer can hate them.
+
+A bank with old securities can fear them.
+
+A money fund can attract cash because of them.
+
+A federal treasurer sees the interest line rise.
+
+Any politician claiming that one rate is simply good or bad for “the public” is compressing a complicated redistribution.
+
+This helps explain why pressure on the Federal Reserve can become intense even without broad agreement about what the rate should be. Every coalition can point to a different victim of monetary tightening.
+
+The central bank's independence matters because it is precisely the institution that must resist optimizing for the loudest balance sheet.
+
+Its mandate is macroeconomic.
+
+That does not make it infallible. The Fed can misjudge inflation, employment, financial conditions, or lags. Independence is not immunity from criticism.
+
+It is insulation from the demand that today's financing pain determine tomorrow's inflation policy.
+
+For a highly indebted government, that insulation becomes more valuable as it becomes more politically uncomfortable.
+
+The cleanest warning sign of fiscal pressure is therefore not a speech demanding lower rates. Politicians have always wanted lower rates when constituents are hurting.
+
+The warning would be a persistent institutional expectation that the central bank *must* prevent Treasury yields from reaching a market-clearing level because the budget cannot tolerate the result.
+
+That expectation would change bond pricing before it changed law.
+
+Investors would begin asking whether low nominal yields are being purchased with higher inflation risk.
+
+If so, the apparent victory over the bond market would be self-defeating.
+
+A five-percent nominal yield with stable inflation can be cheaper in real political terms than a three-percent yield maintained by policy that causes investors to expect five-percent inflation.
+
+The coupon is not the only price.
+
+Purchasing power is another.
+
+This is why the mature political response to the fiscal wall is not to defeat the bond market.
+
+There is nothing to defeat.
+
+The task is to make the country's choices financeable without requiring the price system to lie about them.
+
+Then yields can rise or fall for ordinary economic reasons without being treated as a referendum on national legitimacy.
+
+That is the difference between a market that constrains policy and a market that dominates it.
+
+The first is unavoidable in a borrowing democracy.
+
+The second is usually the result of waiting until every other choice has become harder.
