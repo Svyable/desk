@@ -40,6 +40,52 @@ A federal grant may prescribe process in painstaking detail while leaving dozens
 
 The result is responsibility without authority and authority without responsibility.
 
+## Assign the decision rights before the money
+
+A project with five participating governments does not necessarily have five owners.
+
+It may have none.
+
+One agency finances. Another permits. A utility controls a connection. A municipality controls land use. A regional body studies the spillovers. Nobody has authority to resolve the conflict among them, yet every participant can plausibly explain why the delay belongs to somebody else.
+
+This is the federalism failure to look for first.
+
+Before designing the grant or the dashboard, name the decision rights.
+
+Who finances the shared benefit?
+
+Who authorizes the local impact?
+
+Who delivers the project?
+
+Who operates and maintains the asset after construction?
+
+Who resolves a conflict when two legitimate authorities disagree?
+
+The answers can belong to different institutions. They usually should.
+
+The discipline is to make the split explicit.
+
+Four tests help assign the scale.
+
+**First: where do the spillovers go?** If the benefits or costs cross a boundary substantially, the decision needs representation at least as large as the spillover. A transmission corridor cannot be governed as though only the host parcel matters. A neighborhood curb cut usually can.
+
+**Second: where does the useful knowledge live?** Drainage patterns, operating constraints, property conditions, construction access, and neighborhood use often sit close to the work. Higher-level authority should not erase information merely because it can overrule the institution that holds it.
+
+**Third: who can carry the fiscal risk?** Some assets are too large, too long-lived, or too unevenly distributed for the smallest beneficiary to finance prudently. National or state finance can be appropriate even when design and operation remain local.
+
+**Fourth: which seams become cheaper when they are uniform?** Safety floors, data schemas, professional credentials, technical interfaces, and recurring contract terms can create value through interoperability even when the substantive decision remains local.
+
+These tests do not produce one ideological answer.
+
+They produce an architecture.
+
+Finance high when the risk pool or national benefit is large. Decide close where local knowledge is decisive. Coordinate at the scale of the spillover. Standardize the seam when incompatibility itself is the cost.
+
+Then name the person or body responsible for completion.
+
+Federalism becomes much easier to defend when citizens can tell who had the power to act.
+
 ## Money is not capacity
 
 The federal government is unusually good at raising money.
@@ -84,7 +130,7 @@ A building federalism needs both.
 
 Use formulas for recurring, broad obligations such as maintenance and baseline capital needs. Use competition where experimentation, exceptional scale, or scarce national resources justify comparison.
 
-AI can reduce the grant-writing disadvantage by helping smaller governments navigate eligibility and prepare applications.
+Source-grounded application tools can reduce the grant-writing disadvantage for small governments.
 
 The better reform is to avoid making every ordinary public need audition for federal attention.
 
@@ -104,7 +150,7 @@ Programs can respond with sliding matches, credit support, low-cost loans, regio
 
 The design should avoid creating an incentive to appear poor or to shift normal obligations upward.
 
-AI can help compare fiscal capacity, debt burden, rate affordability, and project need across applicants.
+Comparative fiscal analysis can make debt burden, rate affordability, and project need more visible across applicants.
 
 The political judgment remains one of federalism's oldest questions: how much inequality among places should national finance equalize?
 
@@ -132,7 +178,7 @@ Good standards create a floor beneath variation.
 
 Bad standards turn every variation into an exception request.
 
-AI makes this distinction more valuable. Models become more useful when records are structured consistently enough to compare, retrieve, and audit. If thousands of public agencies encode the same kinds of assets, permits, invoices, inspections, and contracts in incompatible forms, machine intelligence spends its time translating institutional dialects.
+Machine systems make this distinction more valuable because records become easier to compare, retrieve, and audit when the underlying nouns mean the same thing. If thousands of public agencies encode the same kinds of assets, permits, invoices, inspections, and contracts in incompatible forms, computational capacity is wasted translating institutional dialects.
 
 The first public AI project in many agencies should therefore be less glamorous than a chatbot.
 
@@ -158,9 +204,9 @@ If a state funds high-capacity transit, it can reasonably require minimum housin
 
 The government overriding another government should be able to explain the spillover it is correcting.
 
-AI can help model those spillovers.
+Models can help estimate those spillovers.
 
-It cannot make the constitutional or political choice disappear.
+They cannot make the constitutional or political choice disappear.
 
 ## The regional layer
 
@@ -198,7 +244,7 @@ Technical coordination without democratic legibility becomes fragile.
 
 Regional institutions should therefore publish decisions, financing, performance, and representation clearly. Major choices need public processes proportionate to their consequence. Member governments should not be allowed to celebrate regional benefits while denying responsibility for regional costs.
 
-AI can make records easier to navigate and show how costs and benefits move across jurisdictions.
+The record should make it possible to trace how costs, benefits, and votes moved across jurisdictions.
 
 That transparency matters because regional systems often become politically visible only during failure.
 
@@ -216,7 +262,7 @@ The people who operate a water system know which valve maps are fiction. A bus o
 
 Plans made at higher levels routinely omit such facts because the facts are difficult to encode.
 
-AI can help collect and retrieve local knowledge, but it cannot make the knowledge unnecessary.
+Digital systems can make local knowledge easier to collect, retrieve, and preserve. They cannot make the knowledge unnecessary.
 
 A federalism that can build needs feedback channels that are specific enough to improve a project and bounded enough not to become endless relitigation of whether anything should be built at all.
 
@@ -248,7 +294,7 @@ The design test is simple: does the institution have a defined problem, clear au
 
 If the answer to the last question is no, the compact may be a meeting rather than a government.
 
-AI can improve shared situational awareness across these bodies. Common models can show where infrastructure plans collide. Scenario tools can expose how one jurisdiction's decision shifts costs to another. Shared project records can reduce disputes about which version of the plan is current.
+Shared project records and models can improve situational awareness across these bodies, expose conflicting plans, and show how one jurisdiction shifts costs to another.
 
 But technology will not decide how costs should be divided.
 
@@ -262,9 +308,9 @@ A local government needs help immediately. The state coordinates resources. Fede
 
 Emergency response works best when relationships were built before the emergency.
 
-Mutual-aid agreements. preapproved reimbursement rules. common damage-assessment formats. interoperable communications. known points of contact. standing contracts. clear thresholds for requesting assistance.
+Mutual-aid agreements. Preapproved reimbursement rules. Common damage-assessment formats. Interoperable communications. Known points of contact. Standing contracts. Clear thresholds for requesting assistance.
 
-AI can help reconcile damage reports and match resources across levels of government.
+Computational tools can help reconcile damage reports and match resources across levels of government.
 
 The machine should not become another federal portal a local official has to learn while the town is underwater.
 
@@ -296,7 +342,7 @@ Poor performers can receive technical assistance, narrower discretion, or differ
 
 This moves federal oversight from ritual compliance toward demonstrated capacity.
 
-It also creates useful data. AI systems can compare project histories across jurisdictions, identify recurring causes of delay, and surface patterns for human review. The purpose is not a national league table that humiliates slow towns. It is institutional learning at a scale no single city can achieve.
+Shared project histories can then reveal recurring causes of delay and performance differences across jurisdictions. The purpose is not a national league table that humiliates slow towns. It is institutional learning at a scale no single city can achieve.
 
 ## Maintenance conditions belong in capital grants
 
@@ -316,7 +362,7 @@ Some systems deserve continuing intergovernmental support because the national p
 
 The point is to make the long-term responsibility explicit.
 
-AI can help estimate operating costs and compare them with local revenue capacity.
+Operating-cost models can compare expected obligations with local revenue capacity before the grant turns into concrete.
 
 The grant should not create a liability disguised as a gift.
 
@@ -380,6 +426,38 @@ Then variation becomes useful again.
 
 The most successful public systems rarely emerge because one level of government wins a philosophical argument. They work because responsibilities are divided clearly enough that each level can become competent at its part.
 
+## Every project needs an authority graph
+
+A project schedule usually maps tasks.
+
+A federalism of completion also needs to map authority.
+
+Who may approve the environmental finding? Who controls the road closure? Who can commit utility funds? Who owns the parcel? Who can settle a dispute over a design standard? Who accepts the completed asset? Who can change the operating budget after handoff?
+
+These are not merely stakeholders.
+
+They are decision nodes.
+
+The distinction matters because a stakeholder can be consulted without holding a veto, while an authority can stop a project even if it never attends the coordination meeting.
+
+An authority graph makes two pathologies easier to see.
+
+The first is the **orphan decision**: a necessary choice that everyone assumes somebody else can make. The project waits because the responsibility exists but the authority does not.
+
+The second is the **stacked veto**: several institutions can independently stop the same decision while none is accountable for producing a timely resolution. Each veto may protect a legitimate interest. The combined structure can still create indefinite uncertainty.
+
+The answer is not to eliminate every veto.
+
+It is to know which ones exist, what question each is allowed to answer, how conflicting decisions are reconciled, and when the process ends.
+
+This is where machine assistance is unusually useful without being politically sovereign. A system can track dependencies, identify an unresolved authority edge, show which decision is on the critical path, and preserve the record of who acted when.
+
+It cannot decide who should possess the authority in the first place.
+
+That is constitutional and statutory design.
+
+If a project cannot draw its authority graph, it probably does not yet understand its governance risk.
+
 ## Build where authority already exists
 
 Institutional reform can itself become an excuse for delay.
@@ -425,5 +503,9 @@ Someone still has to decide whose preference yields when scales conflict. Someon
 No model removes those choices.
 
 A competent system makes the choices visible and then carries them through.
+
+The output of federalism is not a coordination diagram.
+
+It is the bridge that opens, the line that connects, the homes that can be built, the water system that can be maintained, and the public service that works where a person actually lives.
 
 That is the federalism the building age requires: not centralized, not fragmented, but connected enough to finish.
