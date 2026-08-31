@@ -261,3 +261,43 @@ The future requires more useful energy, better intelligence and a value system c
 The carbon constraint is not a reason to stop the conversion machine.
 
 It is a reason to build a better one.
+
+Data centers make the difference between average and marginal emissions concrete because they are large, persistent and locationally concentrated. The International Energy Agency estimated global data-center electricity consumption at roughly 415 terawatt-hours in 2024 and projected it to more than double by 2030 in its base case. The global number is large enough to matter and small enough that location dominates consequence.
+
+Put the same facility in two grids and the emissions outcome can be radically different.
+
+This is why a national or corporate average carbon intensity can mislead. A new load added to a constrained region may cause an existing gas plant to run more hours even if the grid's annual average includes substantial nuclear or renewable generation. A different region may have surplus low-carbon generation during the hours the workload can run. A third may build new clean capacity specifically because the data center signed a long contract.
+
+The counterfactual is the carbon story.
+
+That makes flexible compute more environmentally interesting than a simple “green data center” label. If a training run can move to a lower-carbon hour or region without sacrificing much value, software can reduce emissions by changing when and where electricity is consumed. If latency-sensitive inference cannot move, the infrastructure has to become cleaner around it.
+
+The workload has a carbon topology.
+
+The same logic should restrain extravagant claims about AI optimizing energy systems. Google's DeepMind reported in 2016 that machine-learning controls reduced the energy used for cooling in one of Google's data centers by as much as forty percent, with an improvement in power-usage effectiveness of around fifteen percent at the tested site. That is a meaningful result. It is not evidence that AI reduces total data-center electricity by forty percent, much less that intelligence makes energy demand disappear.
+
+The cooling system was one slice of facility overhead.
+
+The distinction is worth preserving because genuine efficiency gains are strong enough without inflation. Better controls can lower waste. Better chips can raise operations per watt. Better scheduling can increase utilization. All of these make each useful computation less energy-intensive.
+
+Then the workload can expand.
+
+The carbon benefit depends on how much of the efficiency gain survives rebound and on what supplies the additional electricity. This is the reason clean-power buildout and AI efficiency are complements rather than substitutes. Efficiency makes each unit cheaper. Decarbonization makes the expanded quantity cleaner.
+
+A society that achieves only the first can become very efficient at increasing emissions.
+
+A society that achieves only the second may pay more than necessary for infrastructure because it ignores avoidable demand. The better strategy improves the conversion and the supply at the same time.
+
+There is also a development question that wealthy-country climate debates can obscure. Electricity consumption in low-income regions remains far below that of rich economies. Cooling, refrigeration, clean cooking, industry, water systems and healthcare all require more reliable energy. A carbon policy that treats global electricity demand as a fixed budget can become a policy of preserving deprivation.
+
+The moral objective is not equal emissions per person achieved by freezing unequal services.
+
+It is expanding valuable energy services while pushing the carbon intensity of those services down quickly enough to stabilize climate risk.
+
+That is a harder problem and a more humane one.
+
+It requires the value ledger to distinguish between abundance that closes a development gap and abundance that merely feeds low-value consumption. Markets will make many of those choices through willingness to pay. Public policy will still intervene because purchasing power and welfare are not the same thing.
+
+A vaccine refrigerator in a poor clinic may create far more welfare per kilowatt-hour than a luxury use in a rich country while commanding less revenue.
+
+Carbon accounting sees joules and emissions. Civilization has to see the patient too.
