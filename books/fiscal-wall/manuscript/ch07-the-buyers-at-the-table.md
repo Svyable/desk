@@ -259,3 +259,181 @@ The buyers at the table are not refusing to eat.
 They are reading the menu.
 
 As the portions grow, the price matters more.
+
+One way to make this buyer base less abstract is to imagine a single day on which the same Treasury security passes through several motives without changing its CUSIP.
+
+A dealer receives part of a new note at auction because client demand did not absorb the entire amount directly. For a few hours, the security is inventory. The dealer finances it, perhaps in repo, and hedges the rate risk.
+
+Later that day an asset manager buys some of the note because it needs to match the duration of a benchmark index. For the fund, the Treasury is not a political judgment. It is part of a mandate.
+
+A hedge fund buys another block and sells a futures contract against it because the relative price is attractive. For that fund, the note is one leg of a trade.
+
+A foreign institution buys another piece because it has dollar cash that must remain liquid and high quality. A household acquires a smaller amount through a brokerage because the yield is attractive relative to a bank account.
+
+By settlement, one security has become four different economic objects.
+
+Inventory.
+
+Benchmark exposure.
+
+Collateralized arbitrage.
+
+Savings.
+
+Ownership data compress those motives into one total.
+
+Market resilience depends on keeping them distinct.
+
+This matters because demand can look deep while being more correlated than it appears. Ten funds can be separate legal entities and still react to the same margin call. Five banks can have different shareholders and still face the same leverage constraint. Hundreds of money funds can own bills and still shift in the same direction when relative yields change.
+
+Diversity of names is not always diversity of behavior.
+
+A strong Treasury market needs both.
+
+The distinction became visible in March 2020. The Federal Reserve's later analysis and market discussion focused partly on the way leveraged Treasury positions and a broad dash for cash interacted with dealer intermediation. The point is not that hedge funds caused the entire episode. Many investors sold for different reasons. The lesson is that holders who appear stable in normal times can become synchronized when funding conditions change.
+
+The safest collateral can be sold because it is the thing that still has a buyer.
+
+This turns one common intuition upside down.
+
+People assume a safe asset must rally in every crisis.
+
+Often Treasuries do. In a conventional recession with falling inflation, investors seek safety and expect easier Federal Reserve policy. Bond prices can rise while risk assets fall.
+
+But in a generalized demand for cash, even safe assets can be liquidated. If enough participants need dollars immediately, a Treasury security becomes valuable partly because it can be sold. Liquidity produces selling as well as buying.
+
+A buyer base therefore has to be judged through stress, not only ownership.
+
+Which holders are funded patiently?
+
+Which are funded overnight?
+
+Which have liabilities that can run?
+
+Which face variation margin?
+
+Which are required by mandate to rebalance?
+
+Which will buy more when yields rise?
+
+Which will be forced to sell at exactly that moment?
+
+This is the difference between *capacity* and *elasticity*.
+
+Capacity is how much an investor can hold.
+
+Elasticity is how much more it will hold when the price changes.
+
+The Treasury market depends on both.
+
+A pension fund may have huge capacity but a specific duration target. A money fund may be highly elastic to bill supply but have no mandate for ten-year notes. A household may enter quickly when bills yield five percent and leave just as quickly when bank deposits catch up. A foreign reserve manager may hold large stocks for institutional reasons but adjust slowly rather than chase yield.
+
+The marginal buyer can therefore change by maturity and by regime.
+
+That is why the question *who buys?* cannot be answered with a pie chart.
+
+Pie charts show yesterday's holders.
+
+Debt management needs tomorrow's marginal demand.
+
+Treasury International Capital data offer one view into foreign flows, but even those data require caution. Country attribution can reflect custody rather than ultimate beneficial ownership. Official and private demand differ. Long-term securities and short-term instruments can move in opposite directions. A foreign institution can reduce Treasuries while increasing other U.S. assets.
+
+In June 2026, Treasury reported substantial net foreign purchases of long-term U.S. securities alongside a positive overall TIC flow. The snapshot did not prove foreign demand would remain strong forever. It did demonstrate why one country's Treasury holdings cannot be treated as a referendum on the entire dollar system.
+
+Capital crosses borders for portfolios, not headlines.
+
+Currency hedging adds another layer.
+
+A Japanese or European investor does not experience a Treasury yield in the same way a dollar-based investor does. If the institution hedges the currency exposure back home, the cost of that hedge can erase or enhance the apparent yield advantage. Interest-rate differentials, cross-currency basis, regulation, and balance-sheet treatment all matter.
+
+A five-percent Treasury can be attractive to an American saver and unattractive to a hedged foreign investor at the same time.
+
+This makes foreign demand price-sensitive in more dimensions than the coupon alone.
+
+Reserve managers are different again. They may tolerate a lower expected return because liquidity and intervention capacity matter more. A central bank that needs a large pool of dollar assets cannot simply replace Treasuries with a smaller, less liquid market because another government bond yields twenty basis points more.
+
+This is the convenience yield in institutional form.
+
+Scale itself creates demand.
+
+The United States benefits from a network effect: Treasuries are useful partly because everybody already knows how to trade, clear, finance, hedge, value, and regulate them. That network cannot be replicated quickly by a competitor. It is one of the strongest answers to predictions that reserve demand will vanish suddenly.
+
+Network effects are durable.
+
+They are not indestructible.
+
+A network loses value if trust, liquidity, or legal predictability erodes. Debt-limit brinkmanship matters because it introduces doubt into the one attribute the market is designed not to debate. Market dysfunction matters because a safe asset that cannot be exchanged smoothly in stress is less useful collateral. Inflation credibility matters because a nominal promise is only as stable in real terms as the currency behind it.
+
+The buyer base is therefore partly a referendum after all—not on a party or one budget, but on institutional usefulness.
+
+That usefulness gives Treasury pricing power.
+
+The fiscal wall tests how much.
+
+There is a common argument that the United States can always rely on domestic buyers because every Treasury liability is somebody's asset. At the level of accounting, that is true: a security cannot exist without a holder. At the level of economics, it evades the question.
+
+The holder is determined by price.
+
+If the federal government issues another trillion dollars of debt, somebody will end the process owning it. The meaningful question is what portfolio changes were required to make that ownership happen.
+
+Did households save more?
+
+Did banks reduce other assets?
+
+Did pension funds sell corporate bonds?
+
+Did foreign investors shift from another currency?
+
+Did hedge funds add leverage?
+
+Did the Federal Reserve change the composition of public liabilities?
+
+Did yields rise enough to reduce private investment elsewhere?
+
+Accounting guarantees a holder after the fact.
+
+It does not guarantee a painless clearing price before the fact.
+
+This distinction is the heart of crowding out.
+
+Government borrowing does not mechanically remove one dollar from a fixed pool and destroy one dollar of private investment. Financial systems create credit, foreign capital moves, central banks alter reserves, and saving responds to rates. But a larger government claim can change relative prices. Higher safe yields make marginal private projects less attractive. Banks and investors compare the Treasury with corporate credit, mortgages, municipal bonds, equities, and cash.
+
+The government can win the auction by offering a better return.
+
+The rest of the economy receives that price signal too.
+
+This is why a strong Treasury auction can coexist with weaker private financing conditions.
+
+The buyer problem may be solving itself exactly as markets are designed to solve it.
+
+That is not evidence the fiscal problem vanished.
+
+It is evidence the price moved.
+
+The most reassuring outcome over the next decade would not be one buyer class taking a heroic share of issuance.
+
+It would be a broad migration.
+
+More bills absorbed by money funds and households when short yields are attractive.
+
+More long bonds absorbed by pensions and insurers when duration becomes useful.
+
+Foreign demand remaining substantial even if its share changes.
+
+Banks and dealers intermediating without balance-sheet stress.
+
+Hedge funds providing relative-value demand without leverage becoming a destabilizing single point of failure.
+
+Central clearing increasing netting rather than merely moving liquidity pressure into margin calls.
+
+The Federal Reserve remaining able to manage reserves and market functioning without becoming the fiscal buyer of last resort.
+
+That would look boring.
+
+Boring is the standard.
+
+A diversified buyer base is successful when no one needs to be called a savior.
+
+The Treasury market has spent decades building exactly that kind of depth.
+
+The fiscal wall asks whether it can scale faster than the government's need to use it.
