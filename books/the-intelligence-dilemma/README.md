@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Authors**   | @svyable |
-| **Status**    | Drafting |
+| **Status**    | Complete draft |
 | **Chapters**  | 20 of 20 drafted |
 
 ## Contents
