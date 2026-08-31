@@ -283,3 +283,69 @@ The failures may simply be smaller, earlier and easier to learn from.
 That is not a glamorous promise.
 
 It is the promise complex systems can actually keep.
+
+The list becomes more useful when it stops being a list and meets an actual incident.
+
+Take the 2021 Texas power crisis. No single explanation is adequate. Extreme cold drove electricity demand higher while multiple generation sources and fuel-supply systems experienced outages. Gas production and delivery were impaired at the same time gas-fired generators needed fuel. Some power equipment was insufficiently winterized. Parts of the system had been designed around a distribution of weather that suddenly proved too optimistic. Wholesale prices reached extraordinary levels as scarcity deepened.
+
+Energy was not absent from Texas. The state is an energy giant.
+
+The failure was conversion under stress.
+
+Physical capacity, fuel logistics, market design, weather preparation and institutional assumptions interacted. A system that looked efficient under ordinary conditions discovered that several layers could fail together. The lesson is not “markets failed” or “renewables failed” or “gas failed,” each of which has been offered as a politically convenient simplification. The lesson is that reliability lives in the joint distribution of failures.
+
+That phrase should travel into the AI buildout.
+
+A data center can own redundant servers and still share one substation. It can contract with two network providers whose fiber runs through the same conduit. A company can use two AI vendors whose services rely on the same cloud region. A country can subsidize two chip-design firms whose leading-edge production depends on the same foundry and lithography supply chain.
+
+Counting backups is not the same as measuring independence.
+
+Correlated failure is expensive because it hides behind apparent diversity.
+
+Financial markets learned the same lesson during 2008. Institutions held different securities with exposures that became much more similar under stress than risk models had assumed. Liquidity that seemed available in normal markets vanished when many participants tried to sell at once. The problem was not that nobody had intelligence. Banks employed armies of analysts and sophisticated models. The models and incentives were embedded inside the same credit cycle.
+
+Intelligence can be correlated too.
+
+This matters if AI systems become part of credit underwriting, trading, procurement, hiring or grid control. A model can improve the average decision at each firm while reducing diversity across firms. If everyone notices the same signal and reacts at the same time, the system's response becomes part of the signal.
+
+The second-order world arrives.
+
+Good governance therefore needs to test systems collectively, not only one model at a time. What happens when every large consumer responds to the same electricity price forecast? What happens when every recruiter uses similar embeddings to screen applicants? What happens when every insurer learns from the same historical correlations? What happens when software agents all discover the same profitable strategy?
+
+A locally rational policy can become globally crowded.
+
+The energy system provides a constructive counterexample in frequency control. Grid operators do not assume every device can chase its own objective freely. They establish rules, reserves and response requirements because the system is synchronized. Coordination is not an ideological preference. It is imposed by physics.
+
+The intelligence economy may discover analogous needs where shared behavior creates systemic risk.
+
+This does not imply a central planner for software. Financial markets use circuit breakers, capital requirements, disclosure and clearing rules while preserving enormous decentralized activity. Internet protocols coordinate behavior without deciding what people should say. Cybersecurity standards can reduce common vulnerabilities without requiring every firm to run identical systems.
+
+The design task is to add enough negative feedback that productive competition does not become synchronized self-harm.
+
+Another instructive case is the long history of energy efficiency and rebound. An organization can optimize energy use per computation and report an impressive efficiency gain while total power consumption rises because workloads expand faster. The local metric is true. The system conclusion is false if the boundary is wrong.
+
+This is measurement capture without fraud.
+
+Nobody needs to manipulate the number. The number simply answers a narrower question than the one people think they asked.
+
+AI evaluation will suffer the same temptation. A benchmark score can improve while real-world reliability remains uneven. A cost-per-token metric can fall while total application cost rises because agents make more calls. An automated-review system can increase cases processed per employee while false positives impose more burden on citizens. A data center can lower its power-usage effectiveness while consuming more total electricity because IT load explodes.
+
+Every ratio needs a denominator audit.
+
+This is not cynicism about metrics. Complex systems are unmanageable without compression. The discipline is to ask what the metric permits us to stop seeing.
+
+The most dangerous failures often come from successful optimization inside a boundary that reality refuses to respect.
+
+Climate is the planetary version. Fossil fuels were extraordinary technologies for converting concentrated chemical energy into motion, heat and electricity. Prices reflected extraction, processing, transport and many immediate costs. The atmosphere was largely outside the transaction. Industrial civilization optimized around an incomplete boundary for generations, producing vast welfare gains and accumulating a waste problem at the same time.
+
+The error was not that energy had no value.
+
+The error was believing the price contained every value that mattered.
+
+That should make us cautious about any future system claiming to have reduced energy, intelligence or welfare to one master score. The triumvirate is useful precisely because it keeps the accounts separate. A project can be physically feasible and economically attractive while socially illegitimate. It can be intelligent and unprofitable. It can be valuable in money terms and environmentally destructive. It can be low-carbon and still be a poor use of capital.
+
+No single ledger closes the others.
+
+That is not an inconvenience to be engineered away.
+
+It is the beginning of judgment.
