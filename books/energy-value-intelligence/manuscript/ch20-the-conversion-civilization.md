@@ -230,7 +230,31 @@ Conversion is distribution.
 
 A serious measure of progress should therefore ask not only how much capability exists but how effectively it becomes usable welfare.
 
-GDP remains useful. Energy consumption remains useful. Model benchmarks remain useful. None answers the whole question.
+The World Bank's 2025 work on AI foundations provides an unexpectedly practical version of the same idea. It organizes national readiness around connectivity, compute, context and competency. Those are not the three ledgers in different clothes, and they should not be forced into them. What matters is the underlying observation: access to a powerful model is only one part of the capability chain.
+
+A country can acquire compute and still lack reliable connectivity beyond a few urban centers. It can possess connectivity while local firms lack the data, language resources or institutional context needed to make generic models useful. It can train technically capable people and then lose them to places where capital, electricity and research infrastructure make their skills more productive. It can have all of those inputs and still make deployment difficult through weak procurement, unclear liability or institutions that cannot change a process once the technology arrives.
+
+The missing capability is often between the nouns.
+
+This is why national comparisons based on a single inventory can be so misleading. Counting accelerators says something important about available machine computation. Counting engineers says something important about human capability. Counting terawatt-hours says something important about physical supply. None tells us how quickly a society can combine them when a new problem appears.
+
+The distinction becomes obvious during a shock. Money may be available, but procurement is slow. Engineers may understand the fix, but equipment has a two-year lead time. A law may permit emergency action, but the agency lacks current data. A country may produce abundant electricity, but the relevant industrial site cannot obtain a connection. The nominal resource exists. The pathway between resource and result is where time accumulates.
+
+Conversion capacity is therefore partly the ability to shorten those pathways without removing the safeguards that make the result trustworthy.
+
+That is harder to benchmark than chip count or GDP, but it is visible in consequences. How long does a grid connection take? How quickly can a hospital adopt a treatment with good evidence? Can a small business use public digital infrastructure without hiring specialists merely to navigate it? Can a regulator understand the industry it supervises without depending entirely on the regulated firms? Can a school improve instruction without waiting for a decade-long procurement cycle? Can a country redirect research and industrial capacity when an old dependency becomes dangerous?
+
+These are not glamorous measures of intelligence. They are intelligence embedded in institutions.
+
+They also explain why copying a successful technology often fails to copy the success. The visible object travels more easily than the routines around it. A model can be downloaded. A factory can be financed. A policy can be translated. The recipient still has to fit the new capability into its own energy system, labor market, legal order, infrastructure and set of needs.
+
+The converter is local even when the technology is global.
+
+This is where the book's argument should remain falsifiable. If advanced AI, cheap clean power and modular infrastructure eventually make those local conversion differences trivial, then geography and institutions should matter less than this manuscript expects. Capabilities would diffuse quickly, bottlenecks would be short-lived, and the strongest version of technological abundance would deserve more confidence.
+
+That would be a good problem to have.
+
+Until then, the evidence points toward a less magical and more useful ambition: improve the paths through which capability becomes consequence.
 
 The real output is a life.
 
