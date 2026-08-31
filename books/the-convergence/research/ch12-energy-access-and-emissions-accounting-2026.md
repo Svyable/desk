@@ -22,9 +22,13 @@ These figures support the manuscript's claim that the development gap remains ph
 
 ## The strongest measurement counterargument
 
-The World Bank's Multi-Tier Framework exists precisely because binary access statistics flatten important differences. It measures electricity access across attributes including capacity, duration, reliability, quality, affordability, legality, and health and safety. A household can therefore be counted as connected while still having an energy service too weak, intermittent, expensive, or unsafe to support the capabilities the book cares about.
+The World Bank's Multi-Tier Framework exists precisely because binary access statistics flatten important differences. Current World Bank/ESMAP terminology measures electricity access across seven attributes: capacity, availability, reliability, quality, affordability, formality, and health and safety. A household can therefore be counted as connected while still having an energy service too weak, intermittent, expensive, informal, or unsafe to support the capabilities the book cares about.
 
 Source: World Bank / ESMAP, *Beyond Connections: Energy Access Redefined*: https://www.worldbank.org/en/topic/energy/publication/energy-access-redefined
+
+Terminology note: early MTF material used **duration** where later World Bank work uses **availability**, and older summaries sometimes described the connection-status dimension as **legal** access where current MTF publications use **formality**. The concepts substantially overlap, but manuscript revisions should use the current labels when citing current World Bank/ESMAP material.
+
+Source: World Bank, *Measuring Energy Access in Household Surveys*: https://www.worldbank.org/en/programs/lsms/priority-themes/survey-methods/energy
 
 This is not a reason to discard the 655 million figure. It is a reason to treat it as a lower-bound style indicator of deprivation rather than a complete count of inadequate energy service. The manuscript's language is strongest when it moves from "access" to concrete service failures such as refrigeration, lighting, cooling, pumping, communications, and productive equipment.
 
@@ -55,7 +59,7 @@ That is a stronger and more interesting fit with the book's thesis than either t
 ## What Chapter 12 can safely claim
 
 1. **Energy deprivation is still large and materially consequential.** The 2026 SDG 7 custodians estimate 655 million people without electricity access in 2024 and roughly two billion relying on polluting cooking fuels and technologies.
-2. **Binary access is an incomplete capability metric.** Reliability, quality, duration, affordability, safety, and usable capacity matter after a connection exists.
+2. **Binary access is an incomplete capability metric.** Reliability, quality, availability, affordability, safety, formality, and usable capacity matter after a connection exists.
 3. **Household energy quality has a measurable health burden.** WHO attributes about 2.9 million premature deaths in 2021 to household air pollution.
 4. **The fossil era's external cost is not historical only.** The Global Carbon Budget estimates 2025 fossil CO2 emissions at a record-scale 38.1 GtCO2, still rising despite improvements in carbon intensity.
 5. **These facts do not make raw energy consumption a welfare score.** They support the narrower claim that adequate, reliable, low-damage energy services remain physical prerequisites for many human capabilities.
@@ -69,5 +73,7 @@ The strongest counterargument is therefore not that energy does not matter. It i
 ## Editorial implication
 
 The current manuscript figures are supportable as written, with one useful interpretive guardrail: the 655 million electricity-access statistic should not be allowed to stand in for the larger population experiencing unreliable, unaffordable, or low-capacity service. If Chapter 12 is revised later, prefer language such as "still lacked even basic access to electricity" or immediately pair the binary statistic with the service-quality caveat.
+
+For current MTF references, also prefer **availability** over the older label **duration**, and **formality** over **legality**, unless quoting or discussing the older framework terminology directly. That small vocabulary change keeps the book aligned with current World Bank usage without changing the underlying argument.
 
 That change would strengthen, rather than weaken, the book's final claim. The thesis is about useful capability, and the Multi-Tier Framework shows why a wire reaching a household is not yet the same thing as useful capability arriving there.
