@@ -261,3 +261,113 @@ The astonishing part is that the numbers can place an image near a sentence it h
 Once that becomes ordinary, discovery is no longer confined to the language in which the archive was described.
 
 The world itself can become the query.
+
+## The Alignment Problem Between Modalities
+
+A shared space creates a seductive picture: every modality translated into one universal language, all objects peacefully comparable.
+
+The reality is more uneven.
+
+Text and image do not contain the same information. Audio and text do not contain the same information. A thermal sensor sees patterns a photograph does not. An inertial sensor records motion without describing what the motion means. When systems such as ImageBind extend joint representations across several modalities, the accomplishment is not that every medium becomes interchangeable. It is that useful cross-modal correspondences can be learned strongly enough for transfer and retrieval.
+
+The missing information matters.
+
+A photograph of a violin cannot tell you exactly how it sounds. A recording cannot reveal the finish on the wood. A caption may say “violinist on stage” without encoding posture, lighting, audience size or the particular instrument. The paired examples used in training overlap only partially in meaning.
+
+The shared space therefore learns an intersection.
+
+Some properties align strongly across modalities. A barking sound, an image of a dog and the word *dog* can all participate in a common concept. Other properties are private to the medium or only weakly correlated.
+
+This is the multimodal version of compression.
+
+To create comparability, the representation emphasizes what can travel across forms.
+
+That can produce powerful retrieval and quiet blindness at the same time.
+
+Consider medical imaging. A scan and a radiology report can be aligned, but the report is not a lossless description of the image. It reflects what the radiologist noticed, considered relevant and chose to write. A model trained on image-report pairs can learn clinically useful associations while also inheriting the reporting habits and omissions of the institution that produced the pairs.
+
+The text becomes supervision for the image.
+
+Supervision is not reality itself.
+
+The same problem appears in cultural archives. Captions are written from a perspective. They may name the central figure and ignore the workers at the edge of the frame. They may use outdated categories. They may identify a location incorrectly. A multimodal model trained on such associations can make the archive more searchable while propagating the biases of the descriptive layer.
+
+The bridge carries whatever was loaded onto it.
+
+This is why multimodal systems need evaluation in both directions.
+
+Can text retrieve the right image?
+
+Can the image retrieve the right text?
+
+Do the neighborhoods remain sensible for technical diagrams, historical photographs, non-Western art, screenshots, satellite imagery and the other regions a generic consumer benchmark underrepresents?
+
+Does a model that performs well on broad categories preserve subtle distinctions experts care about?
+
+Cross-modal success is often local.
+
+The most dangerous phrase in multimodal AI may be “works with images.”
+
+Which images?
+
+For which operation?
+
+Under which distribution?
+
+A model can be impressive on natural photographs and weak on charts. It can recognize common objects and fail on specialized equipment. It can connect language to visual style while missing tiny text embedded inside the image. A representation that serves e-commerce discovery well may be inappropriate for pathology.
+
+The output format will not warn you.
+
+Every image still becomes a vector.
+
+This is the same false uniformity we encountered elsewhere: equal coordinates do not imply equal competence.
+
+The practical response is to preserve modality-specific evidence around the shared space.
+
+If a user searches a photo archive by text, keep the original metadata and the original image. If an AI system retrieves a chart through visual similarity, inspect the underlying numbers before making a quantitative claim. If a scientific system aligns a microscopy image with literature, preserve the experimental conditions and sample identity outside the embedding.
+
+The common space should be a bridge, not a blender.
+
+This distinction becomes especially important in robotics and agents operating in physical environments. A language instruction can retrieve or align with a visual object, but acting on the object requires geometry, state, timing and safety constraints that semantic similarity does not supply.
+
+“Pick up the red mug” sounds simple until two red mugs exist, one contains boiling liquid, one is behind glass and the robot's gripper cannot safely reach either from its current position.
+
+Semantic alignment identifies plausible referents.
+
+Action requires a world model.
+
+As multimodal systems improve, this separation will become easier to forget because interfaces will feel increasingly continuous. Speak a request, show an image, point a camera, receive an action. The experience suggests one intelligence moving effortlessly among senses.
+
+Underneath, the system may be composing several representations and specialized models, each with its own blind spots.
+
+That composition is not a weakness.
+
+Humans also use different sensory systems and integrate them imperfectly. The important engineering question is whether disagreement between modalities is visible enough to matter.
+
+If the audio says one thing and the video another, does the system notice?
+
+If the caption implies a category the pixels weakly support, can confidence fall?
+
+If a thermal image reveals a feature absent from visible light, can the system preserve that difference rather than forcing everything into the common denominator?
+
+Multimodal discovery becomes most interesting when modalities correct one another instead of merely reinforcing a shared guess.
+
+A photograph can retrieve a document.
+
+The document can supply a name.
+
+The name can retrieve a specification.
+
+The specification can reveal that the visually similar object is actually incompatible.
+
+The path crosses representations and ends in a fact the original visual neighborhood could not provide.
+
+That is the mature use of shared space.
+
+Not one universal sense.
+
+A network of partial senses that can hand a question to one another.
+
+The world itself can become the query because more of its forms are becoming computationally comparable.
+
+The world remains larger than any common space built to compare them.
