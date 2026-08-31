@@ -333,3 +333,189 @@ At 11:30 on another Tuesday morning, Treasury will announce the result.
 Most Americans will not notice.
 
 If the country has managed the wall well, they never will.
+
+## The Dashboard After Tomorrow
+
+A final chapter should leave the reader with something more useful than a mood.
+
+So imagine that five years have passed.
+
+The headline debt number is larger, because nominal economies and nominal balance sheets tend to grow. That fact alone tells us almost nothing about whether the wall was managed well. The question is what happened to the relationships inside the number.
+
+Did debt held by the public grow faster or slower than nominal GDP?
+
+Did the primary deficit narrow in ordinary economic years, or did policymakers continue borrowing heavily before recessions and emergencies even arrived?
+
+Did net interest stabilize as a share of revenue, or did it continue claiming a larger portion of the tax base?
+
+Did the weighted average maturity remain resilient, or did the government become increasingly dependent on short bills because long-term financing looked politically expensive?
+
+Did Treasury auctions clear with routine concessions, or did long-duration sales repeatedly require a larger premium?
+
+Did clearing reform and market innovation expand the capacity of dealers and end investors, or did each volatility episode require more official support?
+
+Did the Federal Reserve retain the freedom to set policy for inflation and employment, or did federal financing costs become an explicit argument for keeping rates below what price stability required?
+
+Did the dollar remain the asset people ran toward during stress?
+
+Those questions are a better test than whether a particular debt threshold was crossed.
+
+They distinguish a country carrying a large balance sheet from a country losing control of it.
+
+The distinction is especially important because several superficially alarming outcomes could actually belong to a healthy adjustment.
+
+Long-term Treasury yields might remain higher than the 2010s because real economic growth is stronger and private investment opportunities are better. That would raise federal financing costs, but it could also raise wages, profits, tax revenue, and the economy's capacity to carry debt.
+
+Foreign investors might hold a smaller *share* of Treasuries even while holding more dollars of them, simply because domestic savings and the total market have grown faster.
+
+The Federal Reserve might buy more Treasury bills as part of reserve management without returning to crisis-era quantitative easing.
+
+The government might run a large deficit during a recession and still improve its fiscal resilience if the primary balance had strengthened beforehand.
+
+A higher interest bill can coexist with a better fiscal trajectory if the denominator improves faster.
+
+The dashboard therefore needs direction and context.
+
+There is a symmetrical danger in reassuring outcomes.
+
+Low yields can hide a weak economy.
+
+A strong dollar can reflect global panic rather than domestic virtue.
+
+A high bid-to-cover ratio can coexist with expensive marginal yields.
+
+A stable debt-to-GDP ratio can be produced temporarily by inflation that damages real incomes and raises later financing costs.
+
+A longer maturity can look prudent while locking taxpayers into a historically expensive term premium.
+
+No metric is innocent of interpretation.
+
+The reader should be suspicious of anyone who can diagnose the entire fiscal condition of the United States from one chart.
+
+The wall is a system.
+
+Systems are judged by how their parts interact under stress.
+
+That brings the argument back to resilience.
+
+A resilient fiscal system does not need the next recession to arrive late.
+
+It does not need inflation to fall faster than expected.
+
+It does not need artificial intelligence to deliver a productivity miracle.
+
+It does not need foreign central banks to increase their Treasury allocations forever.
+
+It does not need the Federal Reserve to rescue every difficult auction.
+
+It can benefit from any of those things without requiring all of them.
+
+This is the essence of option value in national finance.
+
+The healthiest balance sheet is not the one optimized for the median forecast. It is the one that can absorb the forecast being wrong.
+
+That idea changes the political objective.
+
+The target is not a ceremonial balanced budget in every year.
+
+It is not a pledge never to borrow.
+
+It is not an arbitrary debt ratio selected because it produces a round number.
+
+It is a fiscal structure in which ordinary years rebuild enough capacity that extraordinary years can use it.
+
+That means primary deficits matter most when the economy is strong enough that emergency borrowing is unnecessary.
+
+It means entitlement reforms are easier to phase before insolvency dates become immediate.
+
+It means tax reform is easier to design when revenue is being raised deliberately rather than under market pressure.
+
+It means debt managers can choose maturity for resilience rather than to hide an uncomfortable quarterly interest bill.
+
+It means the Federal Reserve can defend price stability without being treated as the government's refinancing department.
+
+It means financial-market reform can be tested before the next dash for cash.
+
+A country that does those things may still have thirty, forty, or fifty trillion dollars of nominal public debt in some future year.
+
+The number will make a dramatic graphic.
+
+The system can still be healthy.
+
+A country that fails to do them can encounter serious constraint at a lower number than optimists expected.
+
+The number is not the wall.
+
+The loss of choices is.
+
+This is why the word *refinancing* matters more than the word *debt*.
+
+Debt is a stock inherited from the past.
+
+Refinancing is the moment the past negotiates with the present.
+
+Every maturity gives the market a chance to reprice time.
+
+Every deficit asks the future to accept another claim.
+
+Every budget decides whether the economy is building capacity faster than promises.
+
+Every central-bank meeting tests whether monetary policy can remain independent of the interest bill.
+
+Every election reveals whether voters will accept tradeoffs before tradeoffs become commands.
+
+The wall is not waiting at the end of the road.
+
+It is being rebuilt every quarter.
+
+That is the unsettling part.
+
+It is also the hopeful part.
+
+Anything built repeatedly can be altered repeatedly.
+
+A better primary balance changes the next financing estimate.
+
+Stronger productivity changes the next debt ratio.
+
+A more resilient Treasury market changes the next auction's capacity.
+
+A credible inflation regime changes the next long-term risk premium.
+
+A durable political bargain changes expectations before every provision has taken effect.
+
+The future does not need one heroic fiscal moment.
+
+It needs a sequence of less dramatic ones.
+
+The auction after tomorrow will not know whether Congress acted courageously.
+
+It will know the amount offered, the bids submitted, and the price required.
+
+That is enough.
+
+Markets are not historians. They do not grade speeches. They convert expectations into prices.
+
+A country that wants those prices to remain tolerable has to make the expectations tolerable first.
+
+Then Tuesday can remain Tuesday.
+
+The note can sell.
+
+The repo market can finance it.
+
+The pension can own it.
+
+The saver can collect the coupon.
+
+The dollar can remain useful.
+
+The Federal Reserve can do its own job.
+
+Congress can retain choices for problems no forecast has imagined yet.
+
+That is what success looks like at the fiscal wall.
+
+Not the disappearance of debt.
+
+The preservation of room.
