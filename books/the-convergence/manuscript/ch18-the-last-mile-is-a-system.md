@@ -68,7 +68,7 @@ Something has to carry abundance through the system.
 
 This is where measurement changes the argument.
 
-The World Bank's Energy Sector Management Assistance Program developed the Multi-Tier Framework because a binary connection metric could not describe the lived quality of energy access. The framework treats electricity access as a spectrum and evaluates attributes such as capacity, duration, reliability, quality, affordability, legality, health, and safety.
+The World Bank's Energy Sector Management Assistance Program developed the Multi-Tier Framework because a binary connection metric could not describe the lived quality of energy access. The framework treats electricity access as a spectrum and evaluates attributes such as capacity, availability, reliability, quality, affordability, formality, health, and safety.
 
 The point is not that every household needs the same amount of electricity.
 
