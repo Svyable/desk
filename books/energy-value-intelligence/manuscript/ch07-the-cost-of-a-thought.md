@@ -203,3 +203,33 @@ That is the real cost of a thought.
 Not the electricity consumed by one answer.
 
 The whole system required to make the answer matter.
+
+The speed of the price decline makes the abstraction easier to understand. Stanford's 2025 AI Index compared the cost of inference at a fixed performance threshold and found that systems capable of roughly GPT-3.5-level performance on MMLU fell from about twenty dollars per million tokens in late 2022 to about seven cents by October 2024. The report also documented continuing improvements in hardware price-performance and energy efficiency.
+
+This is the economic event hiding inside the engineering progress.
+
+When a unit of adequate cognition falls by more than two orders of magnitude in price, developers stop treating it as an exceptional resource. They put it behind buttons people press casually, inside products that call models automatically, and eventually into agents that make calls on behalf of users who never see the meter.
+
+The marginal thought becomes cheap enough to disappear from attention.
+
+The capital underneath does the opposite.
+
+Microsoft's fiscal-2026 disclosures showed quarterly capital expenditure running at tens of billions of dollars, with a large share directed toward short-lived CPUs and GPUs as well as long-lived data-center infrastructure. Nvidia's fiscal-2027 second quarter reported data-center revenue of $89 billion in a single quarter. These are company numbers, not a social cost-benefit analysis, but together they show how much financial value currently attaches to the physical machinery that makes low unit prices possible.
+
+Cheap output can require expensive factories.
+
+This is familiar from other network industries. A phone call can be almost free to the user because enormous fixed infrastructure already exists. A web search can feel free because advertising, servers and networks settle the bill elsewhere. Electricity itself has low marginal cost in some hours while the grid that guarantees service has very high fixed cost.
+
+AI is becoming another high-fixed-cost, low-marginal-cost system.
+
+That structure has strategic consequences. When fixed costs dominate, utilization matters intensely. An expensive accelerator sitting idle is a poor asset. This encourages providers to batch workloads, route demand, rent spare capacity and lower prices enough to fill the machines. It can also encourage firms to chase scale because a large user base spreads fixed cost.
+
+The economics can therefore favor concentration even as inference becomes commoditized.
+
+A cheap thought at retail may sit on top of a capital market that rewards enormous balance sheets.
+
+This is one more reason not to infer democratized ownership from democratized access. A small firm can gain extraordinary cognitive capability through an API without owning a chip. That is economically liberating. The provider may simultaneously accumulate physical and bargaining power because the infrastructure layer remains capital-intensive.
+
+Access and control can move in opposite directions.
+
+The cost of a thought has to be read at both layers.
