@@ -267,3 +267,99 @@ The adult question is whether the price is paid openly in interest or hidden in 
 Financial repression by another name is still a fiscal decision.
 
 It simply arrives without a vote that says so.
+
+## The Line Between Prudence and Captivity
+
+The cleanest test for financial repression is not whether policy increases Treasury demand.
+
+Many good policies do that incidentally.
+
+The test is whether the saver or institution retains a meaningful ability to choose an economically sensible alternative at a market price.
+
+A bank liquidity rule that says a bank must hold enough high-quality liquid assets to survive a stress event is prudential. Treasuries may dominate the portfolio because they are genuinely useful for that purpose.
+
+A rule written so narrowly that the bank must absorb a particular quantity of government debt regardless of its own liquidity profile begins to look different.
+
+A pension rule that encourages duration matching is prudential.
+
+A rule that requires a pension to hold long government bonds even when the yield is inadequate for its liabilities begins to turn the worker's retirement account into a fiscal instrument.
+
+A central bank that purchases securities to maintain monetary control or restore market functioning is doing central banking.
+
+A central bank instructed to cap government yields because the legislature refuses to adjust the budget is being asked to convert monetary credibility into fiscal relief.
+
+The boundary is not always visible in the statute.
+
+Intent can be mixed.
+
+A policy can make banks safer and Treasury financing easier at the same time. A central-clearing mandate can improve netting and reduce dealer balance-sheet use while also increasing the market's capacity to absorb issuance. A tax provision can encourage retirement saving and create stable demand for bonds.
+
+The right question is whether the policy would still make sense if the government had no financing problem.
+
+That counterfactual is imperfect, but it is clarifying.
+
+If the answer is yes because the rule independently improves financial resilience, the fiscal benefit is a by-product.
+
+If the answer is no and the policy exists mainly to create a captive bid below the market-clearing yield, the transfer should be treated honestly as fiscal policy.
+
+This distinction becomes more important as technology makes direct repression harder.
+
+A saver in the 1950s lived inside a more closed financial system. Today, a household can compare insured bank accounts, money funds, bills, bond funds, equities, foreign assets, commodities, and digital assets from a screen. Institutions can trade across borders at enormous scale. Capital can move before a legislature finishes debating why it moved.
+
+That mobility is a constraint on repression.
+
+It is also a protection for the dollar system because open markets are part of the reason global investors use it.
+
+A modern government trying to force real yields below market would therefore need either subtler regulation or broader restrictions on alternatives.
+
+Both carry costs.
+
+Subtle regulation risks opacity and political favoritism.
+
+Broader restrictions risk capital flight, weaker investment, financial innovation designed to evade the rule, and erosion of reserve-currency trust.
+
+Repression becomes harder precisely because the United States has built a financial system whose openness is one of its fiscal advantages.
+
+That is the paradox.
+
+The country could make debt easier to finance by making private portfolios less free.
+
+Doing so can damage the institutional qualities that make the debt cheap in the first place.
+
+The saver's tax is also more complicated than it first appears.
+
+If regulated institutions hold government bonds at below-market real returns, somebody ultimately bears the shortfall. It can appear as lower deposit rates, lower pension returns, higher insurance premiums, reduced bank lending, larger pension contributions, or lower dividends.
+
+The burden can travel through balance sheets before reaching a household.
+
+That diffusion makes repression politically attractive and analytically dangerous.
+
+A tax collected through the tax code is visible in revenue data.
+
+A tax collected through a lower return appears as an opportunity that never arrived.
+
+It is easier to deny.
+
+This is why transparency should be part of any future debate over rules that materially increase Treasury demand.
+
+Policymakers should state the prudential objective.
+
+Regulators should quantify the balance-sheet effect.
+
+Independent analysis should estimate whether private credit is displaced.
+
+Investors should be able to see whether the return differs materially from what a less constrained portfolio would command.
+
+And Congress should not be allowed to treat a hidden transfer as if it were free financing.
+
+The fiscal wall does not require a return to postwar controls.
+
+The United States has more conventional options available: improve the primary balance, reform expensive programs gradually, broaden revenue, raise productivity, preserve market capacity, and manage maturity prudently.
+
+Those choices are politically difficult because their costs are visible.
+
+That is not an argument for hiding the cost elsewhere.
+
+It is the reason democratic budgeting exists.
+
+A country that can still choose openly should be suspicious of any solution whose main attraction is that the loser cannot see the invoice.
