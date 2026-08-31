@@ -4,158 +4,282 @@ Triage begins with an admission that would sound cruel anywhere else: not everyo
 
 The admission is not the cruelty. The scarcity is.
 
-In a busy emergency setting, patients arrive with different injuries, different risks, and different clocks. The person who entered the building first may be able to wait. The person who arrived later may not survive the wait. Triage creates a provisional order from incomplete information. It does not promise that the first classification is a full diagnosis. It promises something narrower and more urgent: enough understanding to decide what should happen next.
+In a busy emergency setting, patients arrive with different injuries, different risks, and different clocks. The person who entered the building first may be able to wait. Someone who arrived later may not survive the same delay.
 
-This is one of the oldest practical answers to a problem artificial intelligence will make more common. When the supply of possible analysis exceeds the supply of consequential action, systems must sort before they solve.
+Triage creates a provisional order from incomplete information.
 
-The instinct of computer science has often been the opposite. Given an input, compute the answer. Given a query, return the result. The architecture implies that every admitted task deserves completion. Real institutions rarely have that luxury. They abandon, defer, batch, escalate, sample, or redirect constantly. A mature cognitive system needs the right to say not only “I do not know” but also “this does not deserve me yet.”
+It does not promise that the first classification is a diagnosis. It promises something narrower and more urgent: enough understanding to decide what should happen next.
 
-That sentence sounds strange because intelligence has been framed as a service. If a user asks, the system should help. At small scale, this is hospitable. At large scale, it is a policy of first-come cognitive allocation. The fastest typist, the noisiest department, or the process capable of generating the most requests can consume capacity. When demand is effectively infinite, politeness becomes a scheduling algorithm.
+Artificial intelligence will make this kind of problem more common because cheap analysis does not create unlimited capacity for consequential action. Questions can multiply faster than experts, beds, investigators, managers, inspectors, teachers, or repair crews.
 
-Triage makes the scheduling algorithm explicit.
+Systems must sort before they solve.
 
-WHO emergency guidance separates immediate danger from priority conditions and non-urgent cases. The categories exist because the clinical system has to act under time pressure before it knows everything. A person with an obstructed airway does not need the perfect differential diagnosis before someone opens the airway. The system is designed around consequences of delay.
+Computer interfaces often imply the opposite. A query enters and an answer returns. Every admitted task appears to deserve completion. Real institutions abandon, defer, batch, redirect, sample, and escalate constantly. A mature cognitive system needs the right to say not only “I do not know” but also “this can wait” and “this belongs somewhere else.”
 
-Consequences of delay should become a basic variable in AI allocation.
+At small scale, answering requests in arrival order can feel hospitable. At large scale, it becomes a policy. The fastest typist, the loudest department, or the software process capable of producing the most requests can consume the queue.
 
-Most current AI interfaces hide it. A request for a poem and a request to interpret a safety alarm can appear as identical blocks of text sent into identical infrastructure. Commercial systems may prioritize by account tier, rate limit, or technical load rather than by the human cost of waiting. This is understandable: platforms usually do not know enough about context to rank moral urgency safely. But organizations deploying AI inside hospitals, factories, governments, and infrastructure will know more. They will have to decide what deserves immediate cognition.
+When demand is effectively unbounded, politeness becomes a scheduling algorithm.
 
-The obvious answer—highest stakes first—is not sufficient.
+Emergency medicine makes the alternative explicit. WHO triage guidance distinguishes conditions requiring immediate intervention from priority conditions and cases that can safely wait. The system acts before it knows everything because delay itself has consequences.
 
-High stakes can also demand slowness. A routine operational decision may need a fast answer; a capital allocation worth billions may benefit from days of independent analysis. An ambiguous security alert could be both urgent and uncertain. A child asking a tutor for help may be low financial value and high developmental value. A minor software warning can be a weak signal of a catastrophic failure. Triage is not ranking by drama. It is matching the next action to the structure of risk.
+A person with an obstructed airway does not need a perfect differential diagnosis before someone acts on the airway.
 
-Three questions are especially useful. How costly is delay? How costly is error? How reversible is action?
+The relevant intelligence is sufficient intelligence for the next move.
 
-These dimensions produce different treatment. High delay cost and low error cost favors speed. High delay cost and high error cost demands redundancy, preplanned procedure, and possibly multiple independent systems operating in parallel. Low delay cost and high error cost favors deliberation. Low delay cost and low error cost can be deferred, batched, automated cheaply, or ignored.
+That principle should travel beyond medicine, but carefully.
 
-Reversibility changes everything. A model can be allowed to reorganize a draft document with wide autonomy because the edit can be undone. The same model should encounter stronger barriers before sending money, deleting evidence, changing a medication, or making a public accusation. Reversibility converts some errors from catastrophes into experiments.
+“Highest stakes first” is not enough. Some high-stakes decisions should be slow. A routine operational decision may need an answer in seconds; a capital allocation worth billions may improve with days of independent analysis. An ambiguous security alert can be both urgent and uncertain. A minor software warning can be an early sign of a major failure.
 
-The best cognitive systems will therefore triage not only tasks but permissions.
+The useful questions are about delay, error, and reversibility.
 
-A request may enter through a weak model that classifies it, extracts context, and checks for known hazards. Routine work ends there. Ambiguous work moves to a stronger model. High-consequence work triggers retrieval from authoritative sources, independent verification, or human review. Certain actions remain forbidden regardless of apparent confidence. This resembles a hospital more than a chatbot: most cases handled locally, some escalated, a few rushed through a different path entirely.
+How much damage does waiting create? How much damage can a wrong answer create? Can the action be undone?
 
-The design challenge is that triage itself can fail.
+These questions produce different behavior. High delay cost and low error cost favors speed. High delay cost and high error cost calls for preplanned procedure, redundancy, or several checks operating in parallel. Low delay cost and high error cost favors deliberation. Low delay cost and low error cost can often be deferred, batched, automated cheaply, or ignored.
 
-A misclassified routine case can become a tragedy. A system that confidently labels an unusual problem as ordinary may prevent the very escalation that could correct it. This is why good triage systems are sensitive to uncertainty and change. They reassess. New symptoms alter priority. A patient who was stable can deteriorate. A software incident that appeared contained can spread. A financial anomaly can become a liquidity crisis.
+Reversibility changes the answer again.
 
-Static classification is not triage. Triage is a loop.
+A model can reorganize a draft document with wide freedom because the edit can be undone. The same model deserves stronger boundaries before sending money, deleting evidence, changing medication, or making an accusation in public.
 
-AI systems are well suited to some parts of this loop because they can monitor continuously, compare patterns, and update. They are badly suited to other parts when their apparent confidence is poorly calibrated or when novel cases resemble familiar ones superficially. The institutional answer is not to choose “human” or “machine” as a category. It is to design escalation so that each can catch the other’s blind spots.
+This means triage applies to permissions as well as tasks.
 
-A human nurse may notice that a patient “looks wrong” before a structured score changes. A model may notice a subtle pattern across vital signs a busy clinician misses. Either signal can trigger a second look. The useful system preserves both channels.
+A request may enter through a cheap classifier that identifies the domain, gathers context, and checks for known hazards. Routine work can finish there. Ambiguous work moves to a stronger system. High-consequence work can trigger authoritative retrieval, independent verification, or human review. Some actions remain forbidden regardless of confidence.
 
-This matters beyond medicine. Cybersecurity already operates through triage because the number of events exceeds the number of investigators. Fraud teams rank transactions. Newsrooms rank leads. Intelligence agencies rank reports. Maintenance teams rank faults. Software teams rank bugs. Customer support ranks cases. Courts rank motions and schedules. Every one of these systems is vulnerable to the same pathology: the ranking mechanism becomes the invisible constitution of the institution.
+The result resembles a hospital more than a chatbot: most cases handled locally, some escalated, a few moved onto an entirely different path.
 
-What does the ranker reward? Severity, revenue, seniority, noise, recency, political pressure, probability, ease of resolution, legal exposure? The answer determines who receives intelligence.
+The danger is that triage itself can fail.
 
-AI can make the constitution more hidden because the ranking function becomes statistical. A manager can say, “the system prioritized these cases,” as though priority emerged from nature. But a model’s output reflects an objective, training data, labels, thresholds, and operational decisions. Even a score based on predicted harm contains a choice about which harms count and how they are measured.
+A routine case classified incorrectly may never receive the second look that would reveal its seriousness. A system can become dangerous not because it answered badly but because it prevented the right person from being asked.
 
-Triage therefore needs legibility.
+That is why static classification is not triage.
 
-Legibility does not mean every model must explain itself in a complete causal narrative. That standard may be impossible or misleading. It means the institution can answer practical questions: why was this class of case placed here; what data were considered; what threshold triggered escalation; how often are urgent cases missed; who can appeal; what happens when confidence is low; who owns the policy?
+Triage is a loop.
+
+New symptoms change priority. A patient who was stable can deteriorate. A software incident that appeared contained can spread. A financial anomaly can become a liquidity problem. A customer issue that returns for the third time is not the same issue it was on the first contact.
+
+Time itself can be new evidence.
+
+AI is well suited to some parts of this loop because it can monitor continuously, compare patterns, and update. It can also be brittle when a novel case resembles a familiar one superficially or when confidence language is mistaken for calibrated uncertainty.
+
+The useful design therefore keeps more than one path to escalation.
+
+A nurse may notice that a patient “looks wrong” before a structured score changes. A model may detect a pattern across vital signs that a busy clinician misses. Either can trigger reassessment.
+
+The point is not to choose humans or machines as the true triage authority. It is to preserve independent ways for the world to disagree with the first classification.
+
+This matters wherever incoming demand exceeds expert attention.
+
+Cybersecurity teams triage events. Fraud teams rank transactions. Maintenance teams rank faults. Customer-support systems sort cases. Courts schedule hearings and motions. Newsrooms choose leads. Intelligence organizations decide which reports deserve deeper work.
+
+Each system acquires an invisible constitution.
+
+What gets rewarded by the ranking? Severity? Revenue? Seniority? Recency? Political pressure? Probability? Ease of resolution? Legal exposure?
+
+The answer decides who receives attention.
+
+AI can make this constitution harder to see because priority arrives as a score. A manager can say “the system ranked these cases” as if rank emerged from nature.
+
+It did not.
+
+The score reflects an objective, labels, data, thresholds, operational decisions, and some account of which errors matter.
+
+Even a model predicting harm contains a choice about which harms are visible.
+
+Triage therefore needs practical legibility.
+
+That does not require a complete causal story for every neural computation. It requires the institution to answer ordinary questions: why was this class of case placed here, what evidence matters, what triggers escalation, how often urgent cases are missed, what happens when confidence is low, who may appeal, and who owns the policy.
 
 Without those answers, triage becomes fate by interface.
 
-There is another problem: urgency can be manufactured.
+Urgency creates another problem because urgency can be performed.
 
-Digital systems teach users that marking something urgent improves its chance of receiving attention. Soon everything is urgent. Organizations add “high priority” labels until the label means little. AI agents acting on behalf of users may learn the same game. If priority is awarded to requests that present the strongest case for urgency, agents will generate stronger cases. The scheduler becomes an arena of persuasion.
+Once users discover that marking something critical wins faster attention, more things become critical. AI agents acting for users can learn the same strategy. If priority is awarded to the request that makes the strongest rhetorical case, systems will get better at rhetoric.
 
-A robust triage system therefore cannot rely only on self-reported urgency. It needs external signals, quotas, identity, history, rate limits, and sometimes random sampling. A department that marks every task critical should not consume every expert. An automated agent that escalates too often should face a cost. A low-status user should retain some route to urgent help even without institutional influence.
+The queue becomes an arena of persuasion.
+
+Robust triage therefore cannot depend only on self-reported urgency. It needs outside signals, identity, history, rate limits, quotas, and sometimes random sampling. A department that labels every task critical should not consume every expert. An agent that escalates too often should face consequences. A low-status user should retain some route to urgent help even without institutional influence.
 
 This is where queuing theory meets justice.
 
-Queues feel neutral because everyone can see the line. First come, first served is attractive for that reason. But equal waiting can produce unequal harm. A person with a minor injury can tolerate a delay that a person with sepsis cannot. A court case involving imminent deportation is not equivalent to a routine filing. A power-grid alarm during extreme weather is not equivalent to a scheduled report. Triage introduces discretion because reality contains different clocks.
+First come, first served feels neutral because the rule is visible. But equal waiting can create unequal harm. A person with a minor injury can tolerate a delay that another patient cannot. A court filing involving an imminent deadline is not equivalent to routine paperwork. A power-grid alarm during extreme weather is not equivalent to a scheduled report.
 
-Discretion creates risk of bias and abuse. The solution is not to pretend clocks are equal. It is to make the criteria contestable, measure outcomes, and preserve appeal.
+Different clocks require discretion.
 
-AI may improve consistency in triage while worsening legitimacy. A machine can apply the same rule repeatedly. That can reduce arbitrary variation. But people affected by the rule may need a human avenue to challenge context the system does not represent. Consistency is not fairness if the classification categories are wrong.
+Discretion creates room for bias and abuse. The answer is not to pretend the clocks are equal. It is to make criteria contestable, measure outcomes, and preserve routes of appeal.
 
-The problem becomes sharper in public services. Suppose a city uses an AI system to triage housing inspections. It predicts which complaints indicate severe hazards and routes inspectors accordingly. If the system is accurate, scarce inspectors may reach dangerous buildings faster. But the training data may reflect neighborhoods where residents historically complained more, where officials historically inspected more, or where documentation was better. A model can turn institutional history into a future priority map.
+AI may improve consistency while worsening legitimacy.
 
-The correct response is not a slogan about bias. It is design work. What outcome is being predicted? What populations are under-observed? Which cases should be sampled regardless of score? How do residents appeal? Are model errors audited geographically? Is there a public explanation of the allocation policy? Does the system optimize risk reduction, complaint closure, legal exposure, or visible productivity?
+A machine can apply the same rule repeatedly. That can reduce arbitrary variation. But consistency is not fairness if the categories are wrong.
 
-Triage always reveals the objective function eventually.
+Imagine a city using a model to triage housing inspections. The model predicts which complaints indicate severe hazards and routes scarce inspectors toward them. If it works well, dangerous buildings may receive attention sooner.
 
-Private companies face a parallel issue with customers. When AI lowers support cost, firms can theoretically provide more help. They can also use AI to create elaborate barriers that keep expensive human attention away from customers. The same technology can broaden service or ration it more aggressively. An automated agent that resolves ordinary problems is useful. An automated agent whose hidden objective is to exhaust complainants is an allocation device for denying attention.
+The training data can still carry the history of the institution. Some neighborhoods may have complained more. Some may have been inspected more. Some may have better documentation. A model can turn old visibility into future priority.
 
-The difference may not be visible in benchmark accuracy. It lives in policy.
+The response cannot end with the word “bias.”
 
-One of the strongest uses of AI triage is to protect scarce expertise from routine work. Experts are often used badly because organizations confuse prestige with routing. The most senior lawyer reviews matters a junior system could handle. The specialist physician answers questions primary care could resolve. The principal engineer is pulled into tickets that never needed her. This feels safe—send the hard-looking thing upward—but it degrades the expert pool. Scarce expertise spends its days confirming the ordinary.
+The institution has to ask what outcome it is predicting, which populations are under-observed, which cases should be sampled regardless of score, whether errors cluster geographically, how residents appeal, and whether the objective is actually risk reduction rather than complaint closure or visible productivity.
 
-Good triage should increase the proportion of expert time spent on cases where expertise changes the outcome.
+Triage reveals the objective eventually.
 
-That requires measuring not how many cases the expert touches but the marginal value of the touch. If an AI system can safely handle ninety percent of routine review, the remaining ten percent may become stranger and harder. Expert productivity measured by case count might fall even while expert value rises. Institutions need metrics that understand selection effects.
+Private companies face the same choice in less formal language. Cheap AI can broaden customer support by resolving ordinary problems quickly. It can also become an elaborate barrier protecting expensive human attention from customers.
 
-This will be a common trap. As automation absorbs easy cases, human performance appears worse because humans inherit the residue. A customer-service worker sees only angry, ambiguous customers. A radiologist sees more uncertain scans. A programmer receives the bugs agents could not fix. A teacher spends more time with students whose confusion survived personalized tutoring. If management compares the new human queue to the old average, it may conclude people deteriorated.
+The same technology can provide service or ration it aggressively.
 
-In fact, the routing improved.
+The difference lives in policy more than benchmark accuracy.
 
-The same selection effect changes training. Experts become experts partly by handling routine cases before unusual ones. If AI removes the lower rungs, novices may be thrown directly into complexity without the pattern exposure that once built judgment. Triage that maximizes today’s efficiency can reduce tomorrow’s expertise.
+One of the best uses of triage is to protect scarce expertise from routine work.
 
-This is a recurring theme of intelligence allocation: the flow of work is also the flow of learning.
+Organizations often misuse experts because prestige substitutes for routing. The senior lawyer reviews matters a junior system could handle. The specialist physician answers questions primary care could resolve. The principal engineer is pulled into tickets that never needed her.
 
-A hospital cannot route every easy case away from trainees and still expect them to become clinicians. A law firm cannot automate all basic research and assume new lawyers will somehow acquire the instincts built through basic research. A software team cannot let agents write every straightforward function and still expect junior engineers to understand systems deeply enough to handle failures. Allocation must include developmental value.
+This feels safe because difficult-looking work moves upward.
 
-This suggests a deliberate inefficiency: reserve some tractable work for learning.
+It can quietly degrade the expert pool.
 
-The machine may be able to do it faster. That is not the only objective. Flight simulators deliberately create work no passenger wants a pilot to encounter for the first time in reality. Education creates artificial tasks because performance today is less important than capability tomorrow. Apprenticeship routes work partly by what the worker needs to learn.
+Good triage should increase the proportion of expert time spent where expert judgment changes the outcome.
 
-AI systems should participate in that routing. They can distinguish production mode from training mode. In production mode, handle the routine. In training mode, surface the routine case to the learner, observe, give feedback, and intervene if necessary. This turns triage from pure labor substitution into capability formation.
+That requires different metrics. If AI handles most routine review, the remaining human cases will become stranger. Expert case counts may fall. Average difficulty will rise. Error rates may appear worse because the humans inherit the residue.
 
-The developmental budget also applies to machines. An organization needs to learn where its systems fail. If every low-confidence case is handed to humans without recording why, the boundary never improves. If automated systems act without sampling and review, silent errors can persist. Triage should create a stream of informative cases for evaluation: disagreements, near thresholds, novel patterns, appeals, and outcomes.
+Selection changes the denominator.
+
+A customer-support worker sees more angry and ambiguous cases. A radiologist sees more uncertain scans. A programmer receives the bugs agents could not fix. A teacher spends more time with students whose confusion survived personalized tutoring.
+
+If management compares the new human queue with the old average, it may conclude that people deteriorated.
+
+The routing may actually have improved.
+
+This selection effect creates a second problem: training.
+
+Experts become experts partly by handling routine cases before unusual ones. A clinician sees ordinary presentations before the rare variation. A lawyer learns basic research before judgment under uncertainty. A programmer writes straightforward functions before diagnosing failures across a large system.
+
+If automation removes every lower rung, novices can be sent directly into complexity without the pattern exposure that once built judgment.
+
+Triage that maximizes today’s efficiency can reduce tomorrow’s expertise.
+
+The flow of work is also the flow of learning.
+
+This is why some tractable work should be reserved deliberately for development.
+
+The machine may be able to complete it faster. Production speed is not the only objective.
+
+Flight simulators create work nobody wants a pilot to encounter for the first time with passengers aboard. Education creates artificial tasks because capability tomorrow matters more than throughput today. Apprenticeship routes work partly according to what the learner needs to practice.
+
+AI can participate in the distinction.
+
+In production mode, it can handle routine cases. In training mode, it can surface a manageable case to a learner, observe the attempt, provide feedback, and intervene if necessary.
+
+This turns triage from labor substitution into capability formation.
+
+The machine side needs learning loops too.
+
+If every uncertain case is handed to a person without recording why, the automated boundary never improves. If automated work is never sampled, quiet errors can persist.
+
+The most informative cases are often the ones near the boundary: disagreements, appeals, repeated failures, novel patterns, near-threshold decisions, and situations where the outcome contradicted the original rank.
 
 A good triage system learns from its exceptions.
 
-Toyota’s production philosophy offers an instructive parallel. Jidoka, often translated as automation with a human touch, includes the idea that abnormalities should become visible and can stop production rather than letting defects flow invisibly downstream. The point is not that every factory should mimic Toyota. It is that a well-designed system treats exceptions as information. A stop can be costly in the moment and valuable because it directs attention to the source of abnormality.
+Toyota’s idea of jidoka offers a useful parallel. Abnormalities should become visible and production can stop rather than passing defects silently downstream. The value of the stop is not only that the current defect is contained. The abnormality becomes information about the process.
 
-AI systems need their own andon cords.
+AI systems need the equivalent of an andon cord.
 
-Users should be able to flag an answer that feels wrong. Agents should be able to escalate when tools disagree. Models should be allowed to say that a case is outside their reliable domain. Monitoring should notice unusual distributions. High-consequence systems should fail into known states rather than improvise confidence.
+Users should be able to flag an answer that feels wrong. Agents should escalate when tools disagree. Models should be allowed to say that a case lies outside their reliable domain. Monitoring should notice unusual distributions. High-consequence systems should fail into known states rather than improvise confidence.
 
-The cultural piece matters. An andon cord works only if pulling it is not punished by default. An escalation path works only if the person or system using it is not treated as incompetent for admitting uncertainty. Organizations that reward apparent certainty will receive confident automation.
+But an escalation path works only if using it is not punished by default.
 
-Triage is therefore not merely an algorithm. It is a culture of provisional judgment.
+Organizations that reward apparent certainty will receive confident automation.
 
-The triage nurse does not claim omniscience. The classification is a decision made with what is available now, subject to change. That humility is a strength. AI interfaces should communicate the same temporal quality. “Based on current evidence, this can wait” is different from “this is not serious.” “No escalation needed yet” is different from “resolved.”
+Triage is therefore partly a culture of provisional judgment.
 
-Language shapes whether people remain alert to change.
+The useful language is temporal. “Based on current evidence, this can wait” is different from “this is not serious.” “No escalation needed yet” is different from “resolved.”
 
-The distinction between routine triage and mass-casualty triage sharpens the point because the objective can change when the resource environment changes. WHO guidance describes ordinary acuity-based triage as a way to identify people who need immediate intervention and those who can safely wait. Under mass-casualty conditions, however, needs exceed available resources by definition. The system must consider not only who is sickest but where limited intervention is most likely to help.
+The first leaves room for the world to change.
 
-This is ethically difficult precisely because the same person can be classified differently under different resource conditions. The patient's body did not change. The surrounding system did. A category is therefore never only a property of the case. It is partly a relationship between the case and available capacity.
+Mass-casualty triage makes the relational nature of classification especially clear. Under ordinary conditions, acuity guides who needs immediate intervention and who can safely wait. Under a mass-casualty condition, needs exceed available resources. The surrounding capacity has changed.
 
-AI allocation will inherit this relational character. A request may deserve a frontier model during normal load and a smaller model during a crisis. A security alert may receive a human investigator when the queue is short and automated containment when hundreds arrive at once. A rural clinic may use an AI tool for tasks that a major academic hospital sends directly to a specialist because the local alternatives differ. The correct allocation cannot be defined solely by the intrinsic difficulty of the question.
+The same patient can therefore receive a different priority under different system conditions.
 
-This complicates benchmarking. Benchmarks usually hold the task still and compare systems. Institutions live inside changing queues. The relevant performance measure may be how gracefully allocation changes when demand exceeds nominal capacity. Does the system preserve the highest-consequence work? Does it communicate delay? Does it degrade into a known mode? Does it keep some capacity for surprises, or does the first surge consume everything?
+The body did not change.
 
-Mass-casualty practice also emphasizes reassessment. A person categorized as able to wait can deteriorate. A red category can stabilize. The queue is alive. This matters because automated classification often acquires an aura of finality once written into a database. A score is generated at 9:03 and remains attached to the case at noon even though the world has changed.
+The relationship between the body and available resources did.
+
+AI allocation will inherit this feature. A request may deserve a frontier model under ordinary load and a smaller model during a crisis. A security alert may receive a human investigator when the queue is short and automated containment when hundreds arrive simultaneously. A rural clinic may use machine support for work that an academic center routes directly to a specialist because local alternatives differ.
+
+The right allocation cannot be defined only by intrinsic task difficulty.
+
+Benchmarks usually hold the task still and compare systems.
+
+Institutions live inside changing queues.
+
+The relevant performance measure may therefore be graceful degradation. When demand exceeds capacity, does the allocator preserve the most consequential work? Does it communicate delay? Does it enter a known reduced mode? Does it keep reserve for surprises?
+
+Reassessment becomes crucial under load because old classifications age.
+
+A score generated at 9:03 can remain attached to a case at noon even when the world has changed. Automated records often give temporary judgments an aura of permanence.
 
 A robust allocator needs expiry.
 
-Every priority should have conditions under which it must be reconsidered: elapsed time, new evidence, failed attempts, changing system load, user appeal, or unusual disagreement. A low-priority software alert that repeats for six hours may become high priority. A customer support case that returns three times is not the same case. A public-benefits application delayed beyond a legal deadline changes category even if its substantive facts do not. Time itself can be new evidence.
+Elapsed time, new evidence, failed attempts, changing system load, user appeal, or disagreement can all trigger reconsideration. A low-priority warning that repeats for six hours may no longer be low priority. A support case that returns three times has acquired new evidence. An application delayed beyond a legal deadline may change category even when its substantive facts stay the same.
 
-This suggests an important separation between classification and ownership. The classifier can recommend a queue position, but some person or process must own the consequences of the queue. Otherwise everybody can point to the score when a case waits too long. Triage without ownership is merely automated sorting.
+Classification also needs ownership.
 
-The system also needs to know when not to optimize globally. In a mass casualty, maximizing lives saved may be a defensible emergency objective. In ordinary life, institutions are constrained by rights that cannot be traded away for aggregate efficiency. A court cannot simply deny a hearing to an inconvenient minority because the average docket would move faster. A school cannot allocate every resource to students with the highest predicted test-score response and call the result neutral.
+A model can recommend queue position, but some person or process has to own what the queue does. Otherwise everyone can point to the score when a case waits too long.
 
-Allocation objectives live inside constitutional boundaries.
+Triage without ownership is automated sorting.
 
-That is one reason appeals matter. An appeal is not only a concession to people who dislike their category. It is a sensor for missing variables. If one neighborhood repeatedly appeals a housing-inspection triage model and wins, the pattern may reveal an input the model does not see. If one type of medical case is frequently escalated after initial low priority, the triage rule may need revision. If experts override a model only when a particular supplier is involved, local knowledge may have identified a real dependency.
+There is one more boundary triage cannot cross by efficiency alone.
 
-Appeals are expensive if treated one at a time. They are valuable if treated as data about the allocation system.
+Some institutions operate under rights that constrain the queue. A court cannot simply deny a hearing to a small or inconvenient group because the average docket would move faster. A school cannot allocate every extra resource only to students predicted to produce the largest test-score gain and call the result neutral. A public agency cannot define “low priority” so aggressively that a legal entitlement disappears in practice.
 
-The Toyota analogy belongs here for the same reason. Jidoka is often summarized as stopping when an abnormality occurs. The deeper feature is that the abnormality becomes visible enough to organize a response and, ideally, prevent recurrence. A line stop is not merely a local inconvenience. It is a piece of information about the process.
+This matters because optimization language can make constitutional limits look like inefficiencies.
 
-An AI system that escalates every strange case to a human but never learns from the escalation has an andon cord without kaizen. It protects the present task while wasting the evidence the exception created. A mature system records why the case escaped automation, what the human noticed, whether the action was correct, and whether the boundary should move.
+They are not necessarily inefficiencies. They are part of the objective.
 
-The purpose of triage, then, is not simply to make scarcity tolerable. It is to make scarcity informative. The queue tells the institution what it lacks. Repeated escalations reveal where models are weak, where policy is ambiguous, where demand is growing, where training is thin, and where rights are colliding with efficiency.
+A triage system therefore needs to know which values can be traded and which cannot. It may rank within a legally and morally acceptable set of options, but the ranker does not get to redefine the institution's obligations simply because another allocation would improve throughput.
 
-A queue is a map of unmet capability if anyone bothers to read it.
+Emergency conditions complicate this because some constraints change temporarily. That is precisely why emergency modes need explicit triggers, scopes, and expiry. A system should not drift from ordinary rights into emergency rationing simply because the queue became inconvenient.
 
-The larger lesson is that abundance makes triage more, not less, important. When cognition is expensive, many questions are never asked. When cognition is cheap, questions multiply. The system must choose which deserve depth, verification, authority, and immediacy. If those choices are not designed, they will be made by defaults: arrival order, user status, money, noise, or whatever the software happens to optimize.
+The allocator needs a constitution outside the score.
+
+This also explains why ownership cannot belong only to whoever built the model. The people who define service obligations, professional duties, legal rights, and emergency powers are part of the triage system whether or not they write code.
+
+Appeals are part of that ownership structure.
+
+An appeal is not merely a concession to someone unhappy with a category. It can reveal a variable the allocator does not see.
+
+If one neighborhood repeatedly appeals housing-inspection priorities and wins, the pattern may show an input missing from the model. If one type of medical case is often escalated after initially receiving low priority, the triage rule may need revision. If experts override the system whenever a certain supplier is involved, local knowledge may have identified a dependency absent from the data.
+
+Appeals are expensive if processed only as isolated complaints.
+
+They are valuable when treated as evidence about the allocation system.
+
+Random sampling deserves a place beside appeals because appeals are themselves selected. People with time, language, confidence, money, or institutional knowledge are more able to challenge a classification. The cases that never appeal can still be the cases the system misunderstands.
+
+A small stream of randomly selected low-priority cases can expose errors the escalation system would otherwise never see.
+
+This looks inefficient because the sample deliberately spends expert attention on cases the model considered ordinary. That is the point. An allocator that inspects only what it already believes is unusual cannot estimate the errors hidden inside “normal.”
+
+Sampling is one way the institution buys information about its own blind spots.
+
+The same is true of line stops, near misses, user flags, and human overrides. A system that escalates every strange case but never learns from escalation has an andon cord without learning.
+
+The exception protected the present task and wasted the evidence it created.
+
+A mature allocator records why the case escaped automation, what the human or second system noticed, whether the action proved correct, and whether the boundary should move.
+
+The queue then becomes more than a symptom of scarcity.
+
+It becomes a map of unmet capability.
+
+Repeated escalations show where models are weak, where policy is ambiguous, where demand is growing, where training is thin, and where rights collide with efficiency.
 
 There is no neutral queue.
 
-The goal of triage is not to identify the most important thing in the universe. It is to allocate the next unit of intelligence where delay, error, and consequence justify it, while preserving routes for reassessment and surprise.
+If priority is not designed, it will still be allocated by defaults: arrival order, user status, money, noise, or whatever the software happens to optimize.
 
-That modest definition is powerful. It turns intelligence from a contest of answers into a discipline of next actions.
+The purpose of triage is not to identify the most important thing in the universe.
+
+It is to allocate the next unit of attention, expertise, or machine cognition where delay, error, reversibility, and consequence justify it, while leaving routes for reassessment, learning, and surprise.
+
+That modest definition changes the picture of intelligence.
+
+The central question becomes less “Can this be solved?”
+
+It becomes “What deserves to happen next?”
