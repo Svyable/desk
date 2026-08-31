@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | Complete draft |
 | **Chapters** | 23 of 23 drafted |
 
 *AI, Anger, and the Revolt Against Institutions That Decide for Us.*
@@ -45,4 +45,5 @@ The constructive argument is institutional. Powerful automated systems become mo
 ## Research
 
 - [Research brief](research/README.md)
-- [Source ledger](research/source-ledger.md)
+- [Readable source ledger](research/source-ledger.md)
+- [Machine-readable source ledger](research/source-ledger.csv)
