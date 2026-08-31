@@ -161,3 +161,39 @@ When energy becomes abundant, bad objectives become powerful to execute.
 The price knows a great deal.
 
 We should never confuse that with knowing what the price is for.
+
+Prediction markets provide a neat laboratory for the distinction between a useful price and an omniscient one because the object being traded is explicitly a future event. A binary contract that settles at one dollar if an event occurs and zero otherwise often trades at a price people interpret as a probability. If the contract is at sixty cents, the shorthand becomes “the market says sixty percent.”
+
+The shorthand is useful.
+
+It is not metaphysics.
+
+Justin Wolfers and Eric Zitzewitz reviewed evidence that prediction markets can produce accurate forecasts and sometimes outperform familiar benchmarks. The Iowa Electronic Markets, for example, generated a long record in election forecasting that compared favorably with many polls. The mechanism is attractive: participants with different information and incentives can trade until prices reflect their willingness to stake money on the outcome.
+
+But the contract price is formed by traders with specific wealth, beliefs, risk preferences and access. Charles Manski showed why an equilibrium price cannot simply be read as the uniquely correct distribution of beliefs without assumptions about how those traders behave. Market microstructure, liquidity, limits, fees and contract wording also matter.
+
+A price can be an excellent forecast and still not be an objective probability extracted from nature.
+
+Contract design makes the institutional point even sharper. Ask whether a company will “achieve AGI,” and philosophy arrives immediately. A tradable contract cannot settle on philosophy. It needs a specified source, date and criterion. The market therefore prices the event as legally defined, not the larger concept people may have in mind when they look at the ticker.
+
+The rule turns ambiguity into something tradable.
+
+This is exactly what ordinary markets do less visibly. A barrel of oil is defined by grade and delivery terms. A share is a legal claim with specified rights. A megawatt-hour clears at a location and interval under market rules. A carbon allowance exists because regulation created a unit. The price is intelligent about the object the institution successfully defined.
+
+It cannot price the object we forgot to define.
+
+This is why the future of machine-to-machine markets deserves attention. Agents will be able to bid for compute, advertising, electricity, inventory, transport and financial risk at speeds no human desk could match. Prices may become more continuously informative because more local data reaches the market and more participants can respond.
+
+They may also become more reflexive.
+
+If thousands of agents use similar models, a small price movement can trigger similar responses. The market's intelligence then changes the market it is trying to understand. A forecast of scarcity can cause stockpiling that creates scarcity. A model predicting congestion can route everyone onto the same alternative. A trading strategy can disappear once widely learned.
+
+The price remains a control signal, but the controllers are faster.
+
+That raises the value of circuit breakers, diverse strategies, transparency about common dependencies and market rules designed for automated participants. The lesson is not that machines corrupt prices. Human markets have always been reflexive. The lesson is that cheap intelligence can steepen the feedback loops.
+
+Hayek's price system was a way to use knowledge nobody possessed in total.
+
+The next price system may be populated by machines capable of acting on that knowledge before a person has finished reading the chart.
+
+That makes institutional design part of economic intelligence, not a constraint imposed from outside it.
