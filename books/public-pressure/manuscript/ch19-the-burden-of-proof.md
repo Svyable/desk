@@ -369,3 +369,159 @@ AI will make plausible stories abundant.
 Public pressure will make stories consequential.
 
 The institutions that remain trustworthy will be the ones capable of turning stories back into evidence.
+
+That requires evidence to survive long enough to be used.
+
+The synthetic era creates a record-retention problem before it creates a courtroom problem. A model changes. Logs roll over. A vendor deletes prompts. A platform removes a post. An employee leaves. The user’s browser history disappears. Months later, somebody asks what happened.
+
+The institution may be unable to answer honestly because the evidence no longer exists.
+
+This is not always negligence. Privacy law can require deletion. Security practice can favor minimizing sensitive logs. Storage costs are real. Trade-secret and employee-privacy concerns matter.
+
+The solution is not infinite retention.
+
+It is evidence escrow proportionate to consequence.
+
+For defined high-stakes actions, preserve the minimum record needed to reconstruct authority and material facts for a defined period.
+
+The model version.
+
+The relevant policy version.
+
+The material input fields.
+
+The source documents or references used.
+
+The human approval if one occurred.
+
+The action taken.
+
+The reason category.
+
+The later correction.
+
+Sensitive content can be protected, access-controlled, hashed, encrypted, or held by a trusted intermediary depending on context. The design problem is to preserve contestability without building a surveillance archive.
+
+This is evidence engineering.
+
+The field will grow because ordinary software observability is not the same as legal or institutional observability. Engineers log what helps debug the system. Accountability requires records that help reconstruct the decision that mattered to a person.
+
+The overlap is large and not complete.
+
+A model evaluation needs similar discipline. The result “92 percent” is less useful without the test set, version, scoring method, system prompt, tool configuration, date, and known limitations. A benchmark should have provenance too.
+
+Otherwise the organization can reproduce the marketing claim without being able to reproduce the result.
+
+Reproducibility becomes a burden-of-proof control.
+
+This is particularly important when models are updated frequently. A public demonstration from January may say little about the product in August. A safety evaluation may refer to a checkpoint users never saw. A critic may reproduce a failure only after the provider has changed the system.
+
+Both sides need version discipline.
+
+When was the claim true?
+
+Under which configuration?
+
+Can the artifact be recreated?
+
+This is not pedantry. It is how a moving target becomes evidence.
+
+There is also a useful distinction between legal burdens and epistemic confidence.
+
+A court may require one party to prove a claim under a specified legal standard. A scientist may express probability. A journalist may publish once evidence crosses an editorial threshold. A company may suspend an account based on a fraud score because waiting for courtroom certainty would expose other users.
+
+These thresholds need not be identical.
+
+Public arguments become confused when people borrow the language of one domain for another.
+
+“No conviction” becomes “nothing happened.”
+
+“High model confidence” becomes “proven.”
+
+“A regulator opened an investigation” becomes “guilty.”
+
+“A company found insufficient evidence to discipline” becomes “the allegation was false.”
+
+Each conclusion exceeds the procedure that produced it.
+
+The honest label is the status the process actually established.
+
+Unverified.
+
+Substantiated internally.
+
+Found liable.
+
+Convicted.
+
+Dismissed on procedure.
+
+Settled without admission.
+
+Measured under a defined test.
+
+Suspected under a risk threshold.
+
+The vocabulary should carry the burden.
+
+AI assistants will increasingly summarize these statuses for people who never read the underlying record. That creates a design obligation for information systems: preserve procedural qualifiers.
+
+“Was accused of” is not a decorative phrase.
+
+“Was convicted of” is not interchangeable with it.
+
+“Court dismissed the case for failure to exhaust remedies” is different from “court found the allegations false.”
+
+A system that compresses away these distinctions creates defamation risk, political distortion, and bad institutional memory.
+
+Burden of proof becomes a summarization problem.
+
+Another useful governance principle is information forcing.
+
+The party with unique control of material evidence should sometimes have a duty to produce enough of it for review when a defined threshold is met.
+
+The applicant cannot know the employer’s aggregate selection rates.
+
+The patient cannot know the insurer’s override patterns.
+
+The customer cannot know which model version answered the question.
+
+The employee cannot know what the board was told.
+
+Requiring the outsider to prove the hidden fact before obtaining any access creates circular rights.
+
+This does not mean open-ended discovery for every complaint. The trigger can be legal, regulatory, contractual, or procedural. The point is to prevent opacity from becoming a burden-of-proof weapon.
+
+A right is weak when the evidence needed to invoke it is controlled entirely by the party accused of violating it.
+
+Independent auditors and regulators are information-forcing institutions.
+
+They can examine data unavailable to the public, protect confidentiality, and decide whether the concern is supported enough for further action.
+
+Their credibility depends on access.
+
+An auditor allowed to inspect only company-selected examples is not meaningfully independent.
+
+A regulator without technical capacity can possess formal power and practical blindness.
+
+A court facing destroyed logs can have jurisdiction over an event nobody can reconstruct.
+
+Proof requires infrastructure.
+
+The same applies to public critics. A movement making serious claims should preserve its sources rather than relying on screenshots stripped of context. Journalists already know the value of notes, recordings, source documents, and chain of custody. Activists operating in a synthetic environment will need some of the same habits if they want their evidence to survive challenge.
+
+This is not professionalization for its own sake.
+
+It is defense against easy fabrication.
+
+The person who can produce the original file, document the source, explain the uncertainty, and narrow the claim gains power precisely because everyone else can generate plausible artifacts cheaply.
+
+The synthetic era does not eliminate evidence.
+
+It raises the return on evidence discipline.
+
+A plausible story used to be costly enough that plausibility carried information.
+
+Now plausibility is abundant.
+
+The burden of proof is what makes abundance expensive again.
