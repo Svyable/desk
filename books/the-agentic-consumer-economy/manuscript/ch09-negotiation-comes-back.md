@@ -86,7 +86,37 @@ The market will sort by category.
 
 Low-margin commodity retail may remain mostly posted-price. High-margin services with substantial switching costs may become heavily negotiated. Perishable inventory—hotel rooms, flights, event tickets—invites dynamic offers because unsold capacity expires. Durable goods with dealer networks may embrace agent bids. Subscription businesses already have retention machinery that agents can trigger. Financial products may face stricter regulatory constraints but contain abundant room for automated comparison.
 
-Home services reveal the limits.
+There are at least three distinct bargaining machines hiding inside the word negotiation, and they should not be confused.
+
+The first is retention bargaining. The seller already has the customer. The buyer threatens, explicitly or implicitly, to leave. The merchant decides how much of the existing margin it is willing to surrender to preserve the relationship. This is the world of renewal credits, waived fees, upgraded plans, loyalty bonuses, and “before you go” offers. The agent’s principal advantage is memory: it knows the old price, the new price, the alternatives, and the cost of switching.
+
+The second is a request-for-quote market. The buyer has not chosen the seller. It describes the job or desired outcome and invites several merchants to bid. Business procurement does this constantly because the buyer can justify the administrative machinery. Consumer agents make the same machinery cheap enough for a roof repair, an insurance renewal, a family trip, a car lease, or a complicated appliance purchase.
+
+The third is pooled demand. The buyer is no longer one household. Several households make compatible commitments together and offer a seller a block of demand in exchange for better terms. That mechanism belongs partly to the later chapter on consumer unions, but it begins here because the first step is still negotiation: software discovers that several independent buyers have sufficiently similar constraints to bargain as one.
+
+Each mechanism rewards a different kind of information disclosure.
+
+In retention bargaining, the buyer may want the seller to know that departure is credible but not the absolute maximum price the household will tolerate. In a request-for-quote market, the buyer wants suppliers to know enough about the job to produce comparable offers but may prefer not to reveal competing bids until the rules say so. In pooled demand, the group must reveal enough commitment to make the volume believable without exposing every participant’s private budget or identity.
+
+This is mechanism design disguised as customer service.
+
+The phrase can sound grand for a mobile-phone bill, but the problem is real. A negotiation protocol decides who speaks first, what information is revealed, whether offers are public or sealed, how long they remain valid, whether a buyer can reopen the auction, what counts as an equivalent product, and when a commitment becomes binding. Those details influence who captures the surplus.
+
+Humans have lived with these rules for centuries. Auctions, tenders, dealer quotes, union contracts, real-estate offers, and procurement frameworks all encode different answers. Agentic commerce does not abolish those institutions. It makes their logic portable into transactions that used to be too small to justify formal procedure.
+
+This creates an odd new consumer skill: choosing the right negotiation mechanism.
+
+If five hotels have empty rooms tonight, an auction among them may work well. If a surgeon is needed, forcing providers into a lowest-price auction would be grotesque. If a software subscription has one credible substitute, a retention negotiation may be rational. If twenty contractors must inspect a damaged roof before bidding, asking all of them wastes scarce human labor even if the agent’s own time is free.
+
+Cheap cognition does not make the other side’s costs disappear.
+
+An agent that sends a hundred detailed quote requests can create one hundred pieces of work for sellers. If merchants respond with their own agents, the marginal cost may remain low. If they need engineers, estimators, physicians, mechanics, or craftspeople to inspect the request, buyer-side abundance can become seller-side spam.
+
+The best negotiation systems will therefore price seriousness.
+
+A refundable deposit, proof of authority, verified address, purchase mandate, or limit on concurrent requests can show that the buyer is real. A merchant can reserve human attention for negotiations with a meaningful probability of completion. This is another reason identity and intent protocols matter: they do not merely prevent fraud; they can keep cheap machine requests from flooding expensive human workflows.
+
+Home services reveal the limits clearly.
 
 An agent can solicit quotes from roofers, plumbers, electricians, landscapers, and contractors, but the product is not standardized. The seller needs to inspect the job. Quality is difficult to observe. Local capacity matters. A suspiciously low bid can be dangerous. The cheapest contractor may be the least reliable.
 
@@ -174,7 +204,7 @@ A seller agent might discover that certain phrasing or timing causes buyer syste
 
 Commerce protocols will acquire etiquette.
 
-Rate limits. Offer validity periods. identity requirements. Rules against false scarcity. Standards for product equivalence. Dispute procedures. Requirements to preserve user mandates. Definitions of when an offer can be withdrawn.
+Rate limits. Offer validity periods. Identity requirements. Rules against false scarcity. Standards for product equivalence. Dispute procedures. Requirements to preserve user mandates. Definitions of when an offer can be withdrawn.
 
 What looks like a software interface becomes commercial law in miniature.
 
