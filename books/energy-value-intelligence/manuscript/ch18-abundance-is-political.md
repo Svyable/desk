@@ -267,3 +267,47 @@ The promise of technology is not that the argument ends.
 It is that we can afford better arguments and more generous outcomes.
 
 Whether we choose them is outside the machine.
+
+Rate design is where this abstract argument becomes a monthly bill.
+
+A data center can increase a utility's sales and justify new investment. It can also require generation, substations and transmission that last far longer than a server fleet. If the customer receives a discounted tariff to locate in the region while the utility socializes network upgrades across households and small businesses, abundance can arrive as a subsidy from people with little bargaining power to a company with enormous bargaining power.
+
+The opposite design can be harmful too. Charge a new industrial customer for every system upgrade regardless of who benefits, require inflexible terms and assign it risks created by the wider network, and a useful project may locate elsewhere. The grid loses the customer that might have financed expansion.
+
+There is no politics-free tariff because every tariff allocates risk.
+
+Large-load contracts increasingly grapple with minimum bills, long commitments, collateral, exit fees and curtailment terms for exactly this reason. They are attempts to prevent one fast-moving customer from leaving a long-lived asset stranded. The principle is straightforward: if a private forecast induces public infrastructure, the party making the forecast should carry enough downside to care whether it is true.
+
+That principle does not require hostility to growth. It is what makes growth durable.
+
+The same issue appears on the supply side. A government can subsidize new generation, a semiconductor fab or a transmission corridor because the social return exceeds what private investors can capture. That is a coherent economic argument. But subsidies are politically sticky. Once firms, workers and local governments organize around them, a temporary bridge can become a permanent claim.
+
+The test should be whether the public problem that justified the subsidy is still present.
+
+A manufacturing subsidy designed to overcome first-mover risk should not automatically survive after the industry is mature. A tax credit intended to accelerate deployment should be judged against the new cost curve, not the one from the year the law was written. A resilience payment should be tied to actual resilience rather than the label on the recipient.
+
+Value systems need maintenance just as infrastructure does.
+
+This is difficult because the beneficiaries of an old rule are organized and the beneficiaries of reform are often diffuse. The factory knows what it receives. Millions of taxpayers each pay a fraction. The same asymmetry that complicates transmission siting complicates subsidy removal in reverse.
+
+Political economy has directionality.
+
+That is why abundance can produce a paradoxical feeling of scarcity. A society may become richer in energy and cognition while citizens feel that rents, housing, insurance, healthcare or electricity bills remain punishing. The technological surplus is real, but it may be landing in categories people do not experience as relief.
+
+A cheaper model cannot compensate for an unaffordable apartment.
+
+A megawatt of new generation does not help a household if network costs and fixed charges keep its bill high. A productivity gain does not feel like abundance to a worker whose bargaining power falls. The political legitimacy of growth depends partly on whether people can identify some of the gain in their own lives.
+
+This is not an argument that every innovation needs a visible rebate. Consumer surplus often arrives quietly through better products and lower quality-adjusted prices. It is an argument that aggregate abundance and experienced affordability are separate variables.
+
+The difference can decide elections, permitting battles and public trust.
+
+There is a constructive version of this politics. Communities can negotiate benefits before projects arrive. Utilities can publish transparent cost-allocation rules. Governments can build analytic capacity so they are not negotiating blind. Tax incentives can include expiration dates and measurable conditions. Workers can share in productivity through ownership, bargaining or broader fiscal systems. Infrastructure planning can make regional benefits visible enough that local burdens are compensated rather than dismissed.
+
+None of these choices eliminates conflict.
+
+They change conflict from a veto game into a bargaining problem.
+
+That may be the most realistic political promise of abundance.
+
+Not that distribution stops mattering, but that there is enough surplus to make fairer bargains possible.
