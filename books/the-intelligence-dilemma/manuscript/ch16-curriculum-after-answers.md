@@ -2,249 +2,225 @@
 
 For most of school history, a question was expensive enough to be useful.
 
-A student who wanted to know why the sky is blue, what caused the French Revolution, how to factor a quadratic, or whether a paragraph made sense had to do some work before an answer appeared. The work might have been productive. It might have been wasteful. The student searched a textbook, asked a teacher, waited for office hours, argued with a classmate, tried a method, failed, tried again, or gave up.
+A student who wanted to know why the sky is blue, what caused the French Revolution, how to factor a quadratic, or whether a paragraph made sense had to do some work before an answer appeared.
 
 Now the answer can arrive before the question has finished cooling.
 
-That changes the curriculum even if the syllabus does not change at all.
+That changes the curriculum even if the syllabus never mentions artificial intelligence.
 
-A curriculum is usually written as a sequence of content. Students will study the cell, the Constitution, linear functions, plate tectonics, the novel, the lab report. The document says what is to be covered. It says less about which cognitive work is supposed to happen while the content is being covered.
+A curriculum is usually written as a sequence of content: the cell, the Constitution, linear functions, plate tectonics, the novel, the lab report.
 
-That omission mattered less when producing a competent answer usually required at least some of the target capability.
+The document says what will be covered.
 
-It matters more when a machine can supply the competent answer on demand.
+It often says less about the cognitive work students are supposed to perform while covering it.
 
-The old curriculum could often leave the verbs implicit. Read. Recall. Compare. Infer. Draft. Revise. Explain. Check. Decide. A teacher assigned the thing and expected the work inside the thing to come along with it.
+Read.
 
-The new curriculum has to name the work.
+Recall.
 
-What must the student remember without help?
+Compare.
+
+Infer.
+
+Draft.
+
+Revise.
+
+Explain.
+
+Check.
+
+Decide.
+
+For a long time, schools could leave some of these verbs implicit because producing the expected answer often required performing enough of the underlying work.
+
+Generative AI weakens that assumption.
+
+The new curriculum has to name the verbs.
+
+What should the student remember without help?
 
 What should the student be able to derive?
 
-What should the student be able to recognize as suspicious?
-
 Which sources should the student know how to inspect?
 
-When is a model an acceptable collaborator?
+What should the student recognize as suspicious?
 
-When should the model be treated as an object of criticism?
+When is a model a useful tool?
 
-When is using it beside the point because the purpose is to discover whether the student can perform independently?
+When is the model itself the object being studied?
 
-These questions are not a retreat from knowledge.
+Which decisions still have to belong to the learner?
 
-They make knowledge more important.
+These questions do not make knowledge less important.
 
-The easiest mistake in an age of abundant answers is to conclude that facts have become cheap and therefore factual knowledge has become less valuable. The first half is often true. Retrieval from the outside world has become startlingly cheap. The second half does not follow.
+They make the purpose of knowledge clearer.
+
+The easiest mistake in an age of cheap retrieval is to conclude that because facts can be summoned instantly, factual knowledge has lost much of its value.
+
+Retrieval has become cheap.
+
+Judgment has not.
 
 A person cannot judge an answer from nowhere.
 
-The National Academies' synthesis in *How People Learn II* describes knowledge as organized through increasingly complex mental models. Prior knowledge helps learners interpret new information, make inferences, and solve unfamiliar problems. It can also mislead when an old schema is applied too rigidly. The point is not that more facts automatically produce better judgment. It is that judgment needs something inside the judge.
+The National Academies’ *How People Learn II* describes learning in terms that remain useful here: people develop increasingly organized knowledge and mental models that shape what they notice, how they interpret new information, and what inferences they can make. Prior knowledge can help and can mislead, but reasoning does not occur in a vacuum.
 
-A student who knows almost nothing about the French Revolution can ask for a lucid explanation and receive one. The prose may be accurate. It may also contain a subtle error about chronology, causation, or political institutions. To detect the difference, the student needs more than access to another answer.
+A student who knows little about the French Revolution can receive a lucid explanation of it. The explanation may be accurate. It may also contain a subtle mistake about chronology, institutions, or causation.
+
+To notice the mistake, the student needs more than access to another answer.
 
 The student needs a model of the subject.
 
-This is one reason the phrase “teach students how to think” has always been less useful than it sounds.
+This is why “teach students how to think” is too abstract to guide a curriculum.
 
 Think about what?
 
-A historian and a chemist do not evaluate evidence in the same way. A lawyer does not read a source like a statistician. A physician does not treat every correlation as a diagnosis. A mechanic hears a noise differently after years of engines. Expertise is not a generic layer of intelligence poured over interchangeable facts. It is partly the accumulation of patterns, exceptions, causal structures, and standards that make some questions visible and some answers implausible.
+A historian and a chemist do not evaluate evidence in the same way. A statistician notices different failure modes from a literary critic. A mechanic hears an engine differently after years of engines.
 
-AI makes this easier to forget because its own fluency is portable.
+Expertise is partly a collection of concepts, patterns, exceptions, causal structures, and standards that make some questions visible and some answers implausible.
 
-The machine can move from sonnets to stoichiometry in seconds.
+AI can move from sonnets to stoichiometry in seconds.
 
 The student cannot.
 
-Education should not imitate that portability by flattening every subject into “critical thinking with tools.”
+School should not imitate the model’s portability by flattening every subject into generic “critical thinking with tools.”
 
-It should do almost the opposite.
+It should give students enough disciplinary structure to make criticism possible.
 
-It should give students enough domain knowledge to make criticism possible, then teach them how to use external intelligence without surrendering the internal structures that let them tell whether the external intelligence is any good.
+That creates a curriculum with two simultaneous obligations.
 
-The curriculum after answers therefore has two jobs that can look contradictory.
+Build knowledge worth carrying internally.
 
-It must build durable knowledge.
+Teach students how to work in a world where they will rarely rely on internal knowledge alone.
 
-It must also teach students to operate in an environment where they will not work from memory alone.
+The tension is productive.
 
-A school that chooses only the first will prepare students for an artificial world in which the tools are absent.
+A school that teaches only unaided recall prepares students for an artificial environment in which modern tools do not exist.
 
-A school that chooses only the second will produce students who can summon polished material but may have little basis for deciding what to trust.
+A school that teaches only tool use risks producing students who can summon polished material without enough internal structure to judge it.
 
-The interesting curriculum lives in the tension.
+The difficult curriculum lives between those extremes.
 
-Consider source evaluation.
+Source evaluation provides a concrete example.
 
-Schools have long told students to check whether a source looks credible. Inspect the author. Look for citations. Notice the domain name. Read carefully. These habits made more sense in a bounded library than on an open network where a bad source can dress itself professionally.
+For years, students were told to inspect a page for signs of credibility: author, citations, design, domain name.
 
-Researchers at the Stanford History Education Group found that professional fact-checkers often did something different. They left the page. They opened other tabs. They investigated the source from the outside before investing much attention in the source's own presentation. The practice became known as lateral reading.
+Research from the Stanford History Education Group found that professional fact-checkers often behaved differently. They left the page. They investigated the source through other sites before spending much time on the source’s own presentation.
 
-That is a small curricular change with a large implication.
+The practice became known as lateral reading.
 
-The skill is not “be skeptical.”
+The important lesson is not the term.
 
-It is a sequence of actions.
+It is that “be skeptical” can be converted into an observable sequence of actions.
 
-Do not let the source define itself.
+Do not let a source define itself.
 
-Check who is behind it.
+Find out who is behind it.
 
 Look for independent reporting.
 
-Trace a claim toward the original evidence.
+Trace important claims toward original evidence.
 
-Search for context the page may have omitted.
+Search for the context the page may have omitted.
 
-A randomized study reported by Stanford in 2022 tested a civic online reasoning curriculum with about five hundred high school students. The intervention consisted of six fifty-minute lessons. Students who received the curriculum improved substantially at identifying questionable websites compared with their own baseline and the usual-instruction group, although their final performance remained far from perfect.
+A randomized study reported by Stanford in 2022 tested a short civic-online-reasoning curriculum with roughly five hundred high-school students. Students who received the lessons improved at identifying questionable websites relative to comparison conditions, while still leaving substantial room for improvement.
 
-The result is encouraging for a reason that has little to do with misinformation panic.
+The result concerns online source evaluation, not generative AI specifically.
 
-It shows that judgment can be taught as practice.
+Its curricular lesson is broader.
 
-That matters in an AI curriculum because “check the model” is otherwise just a slogan.
+Judgment can be practiced through concrete routines.
 
-What does checking look like in biology?
+That is more useful than telling students to “check the AI.”
 
-Find the original paper.
+Checking should look different by discipline.
 
-Inspect the sample.
+In biology, find the original paper and inspect whether a correlation became a causal claim.
 
-Ask whether the model turned an association into a cause.
+In history, ask what a source could have known at the time and compare accounts written from different positions.
 
-Check whether the claim is current.
+In mathematics, estimate before calculating, test a boundary case, or substitute the result back into the equation.
 
-What does checking look like in history?
+In writing, identify the central claim and ask whether the evidence actually bears its weight.
 
-Separate primary from secondary evidence.
+These are not generic AI skills.
 
-Ask what the source could have known at the time.
-
-Compare accounts written from different positions.
-
-Notice when a tidy causal story appears only after the outcome was known.
-
-What does checking look like in mathematics?
-
-Estimate before calculating.
-
-Substitute the result back into the equation.
-
-Try a boundary case.
-
-Ask whether the units make sense.
-
-What does checking look like in writing?
-
-Identify the claim.
-
-Inspect whether the evidence actually bears its weight.
-
-Notice when polished transitions are hiding a missing premise.
-
-The machine makes these disciplinary habits more valuable because it can produce the surface features of competence before the student has acquired the underlying standards.
-
-The curriculum should therefore contain more explicit models of verification.
-
-Not endless fact-checking exercises detached from subject matter.
-
-Verification inside the subject.
+They are disciplinary habits made more valuable by the arrival of fluent external intelligence.
 
 The same is true of questions.
 
-There is a fashionable idea that once answers are abundant, the main educational skill becomes asking good questions.
+There is a fashionable idea that if answers become abundant, education should focus mainly on asking good questions.
 
-There is something to it.
+There is truth in it.
 
-A weak question can elicit a weak answer. A strong question can expose assumptions, request comparisons, force a model to state uncertainty, or direct attention toward evidence.
+A strong question can expose assumptions, request alternatives, and direct attention toward evidence.
 
-But good questions also depend on knowledge.
+But good questions are not free from knowledge either.
 
 A novice often does not know what to ask because the novice does not yet know what can go wrong.
 
-“Tell me about climate change” is broad because the student may not yet know the structure of the field.
-
-A more informed student can ask about equilibrium climate sensitivity, attribution, aerosol uncertainty, regional precipitation, energy-system assumptions, or the difference between physical risk and modeled economic damage.
-
-The question improves because the mind behind it has changed.
+The quality of the question improves as the mind behind it gains structure.
 
 This is why prompt instruction by itself is a thin curriculum.
 
-Students should learn how to communicate with powerful systems. But prompt technique should sit on top of substantive knowledge rather than replace it.
+Students should learn to communicate clearly with powerful systems. They should understand context, constraints, examples, and verification.
 
-The goal is not to produce children who are unusually good at negotiating with a chatbot.
+But the durable educational goal is not a child unusually skilled at negotiating with a chatbot.
 
-The goal is to produce people who know enough to direct tools toward worthwhile problems, recognize when the tools are drifting, and keep enough independent capacity to recover when the tools fail.
+It is a person who knows enough to direct tools toward worthwhile problems and recognize when the tools are drifting.
 
-UNESCO's 2024 AI competency framework for students points in this direction. It organizes student competencies across a human-centered mindset, ethics, AI techniques and applications, and AI system design, with progression from understanding to applying to creating. The useful feature is not the exact taxonomy. It is the refusal to define AI literacy as mere tool operation.
+UNESCO’s AI competency framework for students points toward this wider conception. It includes a human-centered mindset, ethics, AI techniques and applications, and AI system design, with progression from understanding toward application and creation.
 
-A student who can generate an image, summarize a reading, and write a prompt is not necessarily AI literate.
+The value of the framework is not that every school should adopt its taxonomy exactly.
 
-The student should also understand that models are built from data, that outputs can contain error and bias, that systems embody design choices, that automated decisions can affect people, and that human responsibility does not evaporate when a machine participates.
+It refuses to define AI literacy as tool operation alone.
 
-This suggests that AI belongs in the curriculum in at least three different roles.
+A student who can generate an image, summarize a reading, and write a good prompt may still know very little about the systems being used, the limits of their outputs, the data behind them, or the human responsibility that remains when automated advice affects people.
+
+AI therefore belongs in the curriculum in several roles.
 
 Sometimes it is a tool.
 
-The student uses it to translate, simulate, brainstorm, get feedback, generate practice, inspect alternatives, or accelerate work that is not itself the learning target.
+The student uses it to translate, simulate, brainstorm, receive feedback, or generate practice.
 
 Sometimes it is a text.
 
-The student studies its output the way one might study a newspaper article, a historical document, a proof, a graph, or an argument. What does it claim? What assumptions are visible? What is missing? Which evidence would strengthen or weaken it?
+The student examines its output as an argument or artifact: what does it claim, what is missing, what evidence would change the judgment?
 
 Sometimes it is a system.
 
-The student learns enough about how models are trained, evaluated, deployed, and governed to understand why they behave as they do.
+The student learns enough about training data, evaluation, deployment, incentives, and governance to understand why the tool behaves as it does.
 
-These roles should not be collapsed.
+Those roles can coexist.
 
-A student may be allowed to use an AI system as a tool in one assignment and required to analyze it as an object in the next. The apparent inconsistency is only confusing if the purpose of the assignment remains unstated.
+A system may be permitted as a tool in one assignment and studied critically as an object in the next.
 
-The deeper curricular change is therefore not a new subject called AI.
+The deeper curricular change is not the addition of one permanent subject called AI.
 
-It is a new explicitness about the relationship between knowledge, tools, and evidence.
+It is greater explicitness about the relationship between knowledge, tools, and judgment.
 
 Imagine a middle-school science unit on ecosystems.
 
-The old culminating assignment might be a report on a local habitat.
+Students first build a shared factual foundation: food webs, energy transfer, limiting factors, population interactions, observation versus inference.
 
-In the new environment, the report alone tells the teacher less than it used to. A model can draft the report. That does not make the assignment worthless. It means the assignment needs a stronger learning architecture.
+Then they collect local observations.
 
-Students might first build a shared factual foundation without generative assistance: food webs, energy transfer, limiting factors, population interactions, and the distinction between observation and inference.
+AI can propose possible relationships in the data or competing explanations.
 
-Then they might collect local observations.
+Students test those suggestions against field notes and outside sources. They decide what additional evidence would distinguish the explanations. The final work might include the report, a source trail, and a short account of one model suggestion rejected and why.
 
-They could use AI to propose hypotheses or identify possible relationships in the data.
+The model is present.
 
-They would be required to test those suggestions against field notes and outside sources.
+The student still has somewhere to stand.
 
-They might ask the model for two competing explanations and then decide what additional evidence would distinguish them.
+That is the curricular objective.
 
-The final product could include the report, a source trail, a short defense, and a record of one model suggestion the student rejected and why.
+Interfaces and product names will change too quickly for schools to make today’s operating instructions the permanent curriculum.
 
-Nothing magical has happened.
+Some current knowledge will always be necessary: what the available systems can do, what data they collect, what school rules apply.
 
-The assignment has simply stopped pretending that the artifact alone is the learning.
-
-It now exposes more of the reasoning around the artifact.
-
-This kind of design also protects against another danger: turning AI literacy into a permanent course on today's products.
-
-Interfaces will change.
-
-Brands will change.
-
-Model capabilities will change.
-
-The details students need in 2026 will not be identical to the details they need in 2030.
-
-A durable curriculum should therefore distinguish temporary operating knowledge from lasting intellectual habits.
-
-Temporary operating knowledge matters. Students need to know what the tools available to them can currently do, what data they may collect, and what the school permits.
-
-But the lasting layer is more important.
+The lasting layer should survive the interface.
 
 Can you state what you are trying to know?
 
@@ -262,88 +238,26 @@ Can you tell when convenience is replacing practice you still need?
 
 Can you decide when the machine should not be in the loop?
 
-These capacities were useful before generative AI.
+These capacities mattered before generative AI.
 
-They are more visible now because the cost of failing to build them is easier to hide.
+They matter more when weak understanding can remain hidden beneath strong output for longer.
 
-A student can look competent for longer.
+Curriculum should therefore make dependency visible.
 
-This is the central curricular risk.
+If a tool is carrying something, the student and teacher should know whether that load is incidental or educationally important.
 
-The machine can carry a student across gaps that used to reveal themselves.
+Some knowledge belongs inside the learner because it supports later perception and judgment. Some procedures can be delegated once their underlying meaning is secure. Some tools should be learned as part of modern competence from the beginning.
 
-A missing vocabulary word can be filled.
+There will be no universal balance.
 
-A weak transition can be repaired.
+An eight-year-old and a graduate student should not have the same assistance rules. Early arithmetic and advanced statistics should not treat calculators identically. A first attempt at an argument and the final formatting of its bibliography do not carry the same educational purpose.
 
-A forgotten formula can be supplied.
+That variability is what curriculum design is for.
 
-A half-understood reading can become a clean summary.
+The future curriculum does not need fewer answers.
 
-A vague idea can become a structured essay.
+It needs clearer decisions about what students should know before the answer arrives, what they should do with the answer afterward, and what intellectual structure should remain when the interface closes.
 
-Sometimes this is exactly what assistance should do.
+Answers have become cheap.
 
-A calculator carries arithmetic so a student can work on something larger. A spellchecker carries spelling so a writer can keep moving. A dictionary carries lexical memory. A tutor carries part of the explanation burden.
-
-The problem is not external support.
-
-It is invisible dependency.
-
-If the student and teacher cannot tell which load the tool is carrying, they cannot tell what capability is developing underneath it.
-
-Curriculum should make that load visible.
-
-One useful principle is to alternate assisted and independent performance.
-
-Learn with help.
-
-Practice with help.
-
-Then occasionally remove the help and see what remains.
-
-This is not because unaided performance is morally purer.
-
-It is because some knowledge must be available when the tool is wrong, unavailable, inappropriate, too slow, prohibited, or itself the object of judgment.
-
-A pilot uses instruments and trains for instrument failure.
-
-A physician uses references and still develops a body of knowledge that makes dangerous advice look dangerous.
-
-A programmer uses documentation and still needs enough understanding to recognize when generated code is insecure or incoherent.
-
-The exact balance differs by age and domain.
-
-An eight-year-old should not have the same assistance policy as a graduate student. A multiplication exercise should not have the same tool rules as a capstone engineering project. A first attempt at writing an argument may deserve more friction than the fifteenth revision of its bibliography.
-
-That variability is not a problem to eliminate.
-
-It is what curriculum design is for.
-
-The National Academies' technology findings are useful here because they are less dramatic than most AI debate. Whether a technology helps learning depends on the learner, the target, and the context. Effective use requires alignment with learning goals, support for instructors and learners, equitable access, and ongoing assessment of whether the technology is actually helping.
-
-That sounds almost boring.
-
-Good.
-
-Education needs some boring principles right now.
-
-A school does not need a grand theory declaring AI either emancipatory or corrosive.
-
-It needs to know what students are supposed to learn, which forms of assistance support that learning, which forms bypass it, and what evidence will reveal the difference.
-
-The curriculum after answers is therefore not a curriculum with fewer answers.
-
-It is a curriculum that asks more of the person receiving them.
-
-Know enough to orient yourself.
-
-Know enough to doubt intelligently.
-
-Know enough to ask a better question than the machine can ask for you.
-
-Know how to look outside the machine.
-
-Know when an answer is the beginning of the work rather than the end.
-
-And keep enough knowledge inside your own head that when fluent output arrives cheaply, you still have somewhere to stand.
+Knowing what to do with them has not.

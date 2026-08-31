@@ -1,381 +1,235 @@
 # The Apprenticeship Classroom
 
-A student can submit a finished thing without ever seeing how the thing was made.
+A student can now produce a finished thing without seeing much of how the thing is made.
 
-That was true before AI.
+That was possible before AI. Parents rescued science projects. Strong partners carried group assignments. Tutors repaired papers. Templates supplied structures students did not yet understand.
 
-A lab report could be copied from a partner. A parent could rescue a science fair project. A strong student could dominate a group assignment while three classmates signed their names. A tutor could turn a weak paper into a good one. A template could supply the structure before the student understood why the structure worked.
+Generative AI makes the separation cheaper and more private.
 
-Generative AI makes the separation easier.
+The artifact can appear without another human taking over.
 
-The finished thing can now appear without another human taking over.
+That does not make projects obsolete.
 
-That does not mean projects are dead.
+It makes the path more important.
 
-It means projects need witnesses.
+A teacher who sees a student choose a question, discard a bad source, revise after feedback, test an assumption, and defend a decision has evidence the final file cannot provide.
 
-Not surveillance cameras. Not keystroke logs. Not software that claims to infer authorship from prose.
+This is one reason apprenticeship becomes useful again as a model for school.
 
-Witnesses to the work.
+Apprenticeship has never meant hiding tools from novices. The apprentice works near tools, examples, experienced people, shortcuts, and the accumulated knowledge of a field.
 
-A teacher who sees a student choose a question, struggle with an ambiguous source, discard a bad approach, explain a decision, revise after feedback, and defend the result has evidence that a final file cannot provide.
-
-This is one reason apprenticeship becomes more interesting when answers become cheap.
-
-Apprenticeship has never depended on hiding tools from the novice. The novice works near tools, materials, examples, shortcuts, experienced people, and the accumulated knowledge of a field. What distinguishes apprenticeship is that assistance occurs inside a visible practice.
-
-The apprentice is not simply handed the artifact.
-
-The apprentice watches how work is done, tries a bounded part of it, receives correction, tries again, takes on more responsibility, and eventually performs with less support.
-
-That sequence is useful for thinking about AI in school because the important question is not whether a tool participated.
-
-It is what the student was responsible for learning to do.
-
-Allan Collins, John Seely Brown, and Susan Newman called a related instructional idea cognitive apprenticeship. Their problem was that traditional apprenticeship makes physical practice visible, while school often hides the mental processes behind expert work. You can watch a carpenter position a chisel. You cannot automatically see how an experienced reader decides that a paragraph is evasive, how a mathematician chooses a representation, or how a writer notices that an argument has outrun its evidence.
-
-Cognitive apprenticeship tries to make those invisible processes more observable through modeling, coaching, scaffolding, articulation, reflection, and eventually exploration.
-
-The names matter less than the movement.
+What matters is that assistance occurs inside a visible practice.
 
 Someone more capable shows the work.
 
-The learner attempts the work.
+The learner attempts a bounded part.
 
-Support arrives where it is needed.
+Coaching arrives.
 
-The learner has to explain what happened.
+The learner explains what happened.
+
+Responsibility grows.
 
 Support gradually recedes.
 
-That is almost the reverse of the worst pattern of AI use in school.
+Allan Collins, John Seely Brown, and Susan Newman developed a related idea under the name cognitive apprenticeship. Traditional apprenticeship makes physical procedures visible. School often hides the cognitive procedures experts use.
 
-In the worst pattern, the student encounters a task, asks the system to produce an answer, edits the surface, and submits. The difficult cognitive steps disappear precisely where the teacher has the least visibility.
+You can watch a carpenter position a tool.
 
-An apprenticeship classroom would use AI differently.
+You cannot automatically see how an experienced reader notices that a source is evasive, how a mathematician chooses a representation, or how a writer decides an argument has outrun its evidence.
 
-It would put more of the process in the open.
+Cognitive apprenticeship tries to make those processes visible through modeling, coaching, scaffolding, articulation, reflection, and increasing independence.
 
-Consider a high-school journalism class.
+The framework predates generative AI by decades.
 
-The assignment is to report a story about a change in the local community. The old version might require an eight-hundred-word article with three sources.
+The mechanism fits the new problem unusually well.
 
-A generative system can produce something that resembles that article in seconds.
+AI can produce polished endpoints.
 
-So the teacher shifts attention from the file to the reporting practice.
+Education needs more ways to expose the judgment that creates trustworthy work.
 
-Each student must identify a question worth reporting rather than merely a topic. The class examines how an experienced reporter narrows a broad concern into a claim that can be investigated. Students propose sources and explain what each source could know. They conduct at least one interview themselves. They keep notes. They identify a claim that changed after reporting. They use AI, if they want, to brainstorm interview questions or suggest missing perspectives, but they have to decide which suggestions are useful. They can ask for feedback on structure, but they must be able to explain why a paragraph moved. They can use transcription tools, but they must check quotations against the recording.
+Consider a journalism class.
 
-At the end, the article matters.
+The final assignment is a reported story about a change in the local community.
 
-But it is no longer the only evidence.
+A model can produce something article-shaped in seconds.
 
-The student can be asked: why did you trust this source? What did the source not know? Which question failed? What did you learn that contradicted your first hypothesis? Why did you leave this detail out? Which sentence in the final draft would you defend most strongly? Which would you change if another source called tomorrow?
+So the course makes reporting practice visible.
 
-The answers reveal a practice.
+Students have to identify a question worth reporting, not merely a topic. They explain what each source could know. They conduct interviews. They record a claim that changed after reporting. They may use AI to brainstorm questions or identify missing perspectives, but they decide which suggestions matter. They may use transcription, but they check important quotations against the recording.
 
-The same approach works in technical subjects.
+At the end, the article still matters.
 
-A computer-science student can use an AI coding assistant and still be an apprentice programmer if the course makes the relevant decisions visible.
+It is no longer the only evidence.
 
-What problem is the program supposed to solve?
+Why did you trust this source?
 
-How should the system be decomposed?
+What did the source not know?
 
-Which generated code is accepted?
+Which question failed?
 
-Which is rejected?
+What contradicted your first hypothesis?
 
-What tests would expose failure?
+What did you leave out and why?
+
+Those questions reveal a practice.
+
+The same principle works in technical subjects.
+
+A computer-science student can use a coding assistant and still be an apprentice programmer if the consequential decisions remain visible.
+
+What problem is the program solving?
+
+How was it decomposed?
+
+Which generated code was accepted?
+
+What tests could make it fail?
 
 Where are the security assumptions?
 
-What changed after the program encountered real input?
+Can the student explain the code with the assistant closed?
 
-Can the student explain the code without the assistant present?
+A functioning program alone answers fewer of these questions than it used to.
 
-A student who cannot answer those questions may have shipped a functioning artifact without acquiring much programming capability.
-
-A student who can answer them may have used a great deal of AI and still learned substantially.
-
-This is the advantage of apprenticeship as a frame.
+The apprenticeship frame avoids one mistake that appears repeatedly in debates about AI and school.
 
 It does not confuse tool purity with competence.
 
-Real experts use tools.
+Experts use tools.
 
-Architects use software. Physicians use references. Lawyers search databases. Engineers simulate. Scientists use instruments, code, and statistical packages. Writers consult editors. Carpenters use power tools.
-
-The educational question is not whether the student imitates a fictional tool-free professional.
-
-It is whether the student is learning the judgments that make the tools useful.
+The educational question is whether the student is acquiring the judgments that make the tools useful.
 
 Those judgments are often tacit.
 
-An expert notices that a result is too neat.
+An expert notices that a result is too neat. A designer sees that a specification is technically satisfied and practically wrong. A historian recognizes that a source is answering a different question. A researcher notices that the data do not support the claim everyone wants.
 
-A mechanic hears a sound that does not fit the diagnosis.
+If students see only final answers—human or machine—they miss the rejected possibilities that made the final judgment possible.
 
-A designer sees that the specification is technically satisfied but practically wrong.
+AI can worsen that by generating cleaner endpoints.
 
-A historian recognizes that a source is answering a different question from the one the student thinks it is answering.
+It can also help expose the hidden work.
 
-A nurse notices that the numbers look acceptable while the patient does not.
+A teacher can generate three plausible but flawed solutions and ask students to diagnose them. Students can compare a novice explanation with an expert one. They can ask for competing approaches and predict which will fail before testing them. They can inspect generated code with deliberate bugs. They can critique an argument whose prose is polished enough that the weakness has to be found in the reasoning.
 
-A teacher senses that a student can repeat an explanation without understanding it.
+The machine supplies cases cheaply.
 
-AI can help surface some of these judgments by generating alternatives, critiques, checklists, simulations, and examples.
+The student practices judgment.
 
-But if the student never sees a human make the judgment, explain it, defend it, and occasionally revise it, the machine risks becoming an oracle precisely where education should be making expertise visible.
+That division can be powerful.
 
-This gives teachers a different role in project work.
+It is not self-executing.
 
-Less curator of final products.
+A student can ask the same machine to perform the critique.
 
-More supervisor of developing practice.
+The surrounding design still matters.
 
-That can sound labor-intensive.
+This is where the apprenticeship classroom differs from a romantic version of project-based learning.
 
-It can be.
+Authentic tasks are not automatically good instruction.
 
-Authentic work is messy. Twenty-five students pursuing twenty-five projects create more uncertainty than twenty-five students completing the same worksheet.
+Projects can consume enormous time, hide unequal participation, and ask novices to discover what explicit instruction could teach much more efficiently. The project-based-learning literature is heterogeneous, and longstanding critiques of minimal guidance are relevant for a reason.
 
-AI may help with that burden too.
+Novices often need explanation, worked examples, structure, and direct teaching.
 
-It can generate practice cases, provide first-pass feedback, translate instructions, help students rehearse questions, suggest checkpoints, and flag places where a student appears stuck.
+Apprenticeship should not mean withholding those things.
 
-But the teacher decides which parts of the practice deserve human attention.
-
-That decision matters because feedback is not equally valuable everywhere.
-
-A spelling correction may not need a human.
-
-A judgment about whether a student has misunderstood the ethical stakes of an interview might.
-
-A syntax error can be fixed automatically.
-
-A pattern of avoidance may require someone who knows the student.
-
-An AI can suggest that a project lacks evidence.
-
-A teacher can ask why the student keeps choosing evidence that makes the project safe.
-
-The apprenticeship classroom is therefore not a nostalgic return to master and novice.
-
-It is a way of allocating scarce human attention around abundant machine assistance.
-
-The teacher spends less time supplying answers that a system can supply adequately and more time observing choices that reveal the learner.
-
-This also changes what counts as a good project.
-
-School projects often become miniature production contracts.
-
-Build a bridge from popsicle sticks.
-
-Make a slide deck about a country.
-
-Create a poster about the water cycle.
-
-Write a business plan.
-
-The student learns quickly that the visible product is what gets graded.
-
-Then families learn it too.
-
-The project migrates home.
-
-Adults cut the cardboard straighter. Parents fix the prose. Older siblings help with code. Students divide group work strategically. The final object becomes more polished as the educational evidence becomes less clear.
-
-AI intensifies an old weakness rather than creating a new one.
-
-A better project is not necessarily more elaborate.
-
-It is more legible as learning.
-
-The teacher can see consequential decisions.
-
-The student encounters uncertainty that cannot be resolved by formatting.
-
-There are intermediate states worth discussing.
-
-Feedback can change the direction of the work.
-
-The student must explain rather than merely display.
-
-The final product has an audience or function that creates real constraints.
-
-And the assignment is designed so that assistance can be used without making the learner disappear.
-
-This is where the research on cognitive apprenticeship remains useful decades after the term was coined.
-
-The instructional problem was never simply that school lacked authentic tasks.
-
-It was that many forms of expert cognition are hidden.
-
-A novice sees the polished proof but not the false starts.
-
-Reads the published essay but not the abandoned structure.
-
-Sees the diagnosis but not the differential that was considered and rejected.
-
-Receives the design but not the tradeoffs.
-
-Generative AI can make this worse by giving students even more polished endpoints.
-
-It can also make it better.
-
-A teacher can ask a model to generate three plausible but flawed solutions and have students diagnose them.
-
-Students can compare a novice explanation with an expert one.
-
-They can ask for competing approaches and predict which will fail before testing them.
-
-They can use a model to rehearse an oral defense, then face a human who asks the question the rehearsal did not anticipate.
-
-They can inspect generated code with deliberate bugs.
-
-They can critique an argument whose prose is strong enough that the weakness has to be found in the reasoning.
-
-These uses turn abundance into practice material.
-
-The machine supplies cases.
-
-The student supplies judgment.
-
-That division is not automatically educational. A student can still outsource the critique. A generated explanation can still replace thinking.
-
-The surrounding structure matters.
-
-This is why apprenticeship requires observation over time.
-
-No single checkpoint proves learning.
-
-A student may have a bad day. A student may receive too much help on one step and recover on the next. A group may divide work unevenly. A model may solve a piece the student later understands fully.
-
-Teachers need a trail of evidence.
-
-Early sketches.
-
-Short conversations.
-
-Decisions recorded in ordinary language.
-
-Drafts.
-
-Tests.
-
-Mistakes.
-
-Questions.
-
-Revisions.
-
-A brief explanation of how AI was used can be part of that trail, but disclosure alone is not enough.
-
-“I used AI for brainstorming and editing” tells little.
-
-Which brainstormed idea survived?
-
-Why?
-
-What edit did the student reject?
-
-What did the tool miss?
-
-Where did the student take back control?
-
-The apprenticeship model turns disclosure from confession into evidence.
-
-That is a healthier relationship with tools.
-
-It also helps with equity.
-
-The most privileged students have always had access to informal apprenticeship.
-
-A parent who is an engineer explains how an engineer thinks.
-
-A family friend reviews a college essay.
-
-A well-connected student gets an internship where professionals narrate real work.
-
-Another student gets a rubric.
-
-Schools can narrow part of that gap by making expert practice visible inside the classroom rather than assuming students will absorb it elsewhere.
-
-AI could widen the gap if experienced students use it as an accelerator while novices use it as a substitute.
-
-It could narrow the gap if schools use it to provide more examples, rehearsal, translation, and low-stakes feedback while teachers preserve the moments where human coaching matters most.
-
-The outcome depends on design.
-
-There is an obvious counterargument to all of this.
-
-Apprenticeship can become romantic theater.
-
-Projects can consume enormous time while teaching less content than direct instruction. Students can flounder in “authentic” tasks without enough background knowledge to learn from them. Group work can hide unequal participation. Teachers can become facilitators who withhold explanations students actually need. A beautiful project can still be shallow.
-
-That criticism is correct.
-
-Guidance matters.
-
-The strongest version of an apprenticeship classroom does not abandon explicit teaching.
-
-It alternates modes.
+It should alternate them.
 
 Explain when explanation is efficient.
 
-Model when the process is hidden.
+Model when expert cognition is hidden.
 
-Provide worked examples before demanding invention.
+Provide examples before demanding invention.
 
 Coach early attempts.
 
 Reduce support as competence grows.
 
-Return to direct instruction when a misconception is blocking progress.
+Return to direct instruction when a misconception blocks progress.
 
-Let students practice independently often enough to reveal what they can actually do.
-
-Then put the knowledge into use where decisions have consequences.
+Then put knowledge into use where decisions have consequences.
 
 The point is not to replace lessons with projects.
 
-It is to connect lessons to practices.
+It is to connect lessons to practice.
 
-That connection becomes especially important when AI can perform isolated school tasks without understanding why those tasks exist.
+AI makes that connection more important because isolated school tasks can now be completed without entering the practice they were meant to approximate.
 
 A student can generate ten thesis statements.
 
 A writer still has to decide which claim is worth making.
 
-A student can generate a hundred logo options.
+A student can generate one hundred logo concepts.
 
-A designer still has to understand the client, the audience, the constraints, and what the mark is supposed to communicate.
+A designer still has to understand the audience, constraints, and tradeoffs.
 
 A student can generate a statistical analysis.
 
 A researcher still has to know whether the data answer the question.
 
-A student can generate a lesson plan.
+The last mile between plausible output and responsible work is becoming more educationally valuable.
 
-A teacher still has to notice what happens when the lesson meets actual children.
+That last mile contains choice.
 
-School should give students practice in that last mile between a plausible answer and responsible work.
+Notice.
 
-That mile is getting more valuable.
+Explanation.
 
-It is also where human beings are easiest to see.
+Revision.
 
-They choose.
+Responsibility.
 
-They notice.
+It also contains failure in a form worth observing.
 
-They explain.
+A student who abandons a weak approach after seeing why it fails has learned something a finished artifact cannot display. A student who changes a claim after an interview has encountered evidence. A student who rejects generated code because the architecture is wrong has exercised more expertise than a student who accepts a cleaner-looking answer.
 
-They revise.
+Schools need enough observation over time to see those moments.
 
-They take responsibility for consequences.
+Not total process surveillance.
+
+Witnesses to consequential decisions.
+
+A sketch. A short conversation. A test. A revision. A question. A defense.
+
+An AI-use statement can be part of the trail, but generic disclosure is weak evidence.
+
+“I used AI for brainstorming and editing” says little.
+
+Which idea survived?
+
+What did you reject?
+
+Where did the tool fail?
+
+What became easier after the help?
+
+What can you now do without it?
+
+In an apprenticeship model, disclosure becomes a way to describe the distribution of work rather than confess that assistance occurred.
+
+This can also make expertise more equitable.
+
+Privileged students have often received informal apprenticeship outside school. A parent explains how an engineer thinks. A family friend reviews an essay. An internship exposes a student to professionals narrating real decisions.
+
+Another student receives only the rubric.
+
+Schools can narrow part of that gap by making expert practice more visible inside the classroom.
+
+AI can help provide more examples, rehearsal, translation, and low-stakes feedback. Teachers can reserve their attention for the judgments and misconceptions that deserve human coaching most.
+
+The danger is that experienced students use AI as leverage while novices use it as replacement.
+
+Apprenticeship gives schools a countermeasure that is older than the technology.
+
+Make the important work visible.
+
+Let the learner try it.
+
+Help at the right moment.
+
+Then give more of it back.
 
 The apprenticeship classroom does not ask students to prove that they worked alone.
 
-It asks them to become visible inside the work.
+It asks them to become increasingly visible inside work that may contain many tools.
