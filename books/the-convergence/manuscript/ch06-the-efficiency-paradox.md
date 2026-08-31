@@ -32,6 +32,8 @@ There is also indirect rebound. Money saved on one energy service is spent somew
 
 Economy-wide effects can travel much farther. Efficiency can lower production costs, prices, and the threshold at which a technology becomes worth adopting. Profits attract investment. Workers and capital move. Supply chains reorganize. Entire industries can change scale over years rather than months.
 
+These are related effects, but they are not three instruments measuring the same object at increasing magnification. A study of extra miles driven after fuel economy improves estimates a different response from a household model that follows re-spending, and both differ again from a macroeconomic model in which prices, investment, production, and trade can adjust. Calling all three results “rebound” is useful shorthand only if the level of analysis travels with the number.
+
 That was the level Jevons cared about. He was not writing about one thrifty household leaving the lights on longer. He was looking at a national industrial system in which more efficient steam power widened the field in which steam power could be profitably used.
 
 More than a century later, Harry Saunders gave the argument a formal economic treatment. In 1992 he examined what had become known as the Khazzoom-Brookes postulate: the claim that economy-wide responses to efficiency improvements could be large enough to offset some, or under particular conditions all, of the engineering savings.
@@ -45,6 +47,8 @@ At the level of a device, usually yes. At the level of a household, often yes, b
 The evidence is correspondingly untidy.
 
 A major review by Steve Sorrell, John Dimitropoulos, and Matt Sommerville found that direct rebound for common household energy services in OECD countries should generally be below thirty percent. That is large enough to matter, but nowhere near a universal law of backfire. If a vehicle becomes more fuel efficient and drivers respond by travelling somewhat farther, most of the expected fuel saving can still survive.
+
+Broader household estimates can be larger because they ask a broader question. A 2025 meta-regression by Marvin Schütt, Anke Jacksohn, Tobias Möllney, and Katrin Rehdanz assembled more than a thousand published rebound estimates. In its main specifications, the modeled mean total microeconomic rebound for the authors’ specified reference-study configuration fell roughly in the forty-to-fifty-percent range. That is not a new universal rebound rate. It is an estimate for a particular combination of study characteristics, and the paper finds that methodology, data, scenario construction, and estimation choices help explain why published results differ so much.
 
 Later work by Mona Chitnis, Roger Fouquet, and Steve Sorrell found much larger combined rebound effects for some British household services and much smaller effects for others. One category, entertainment and computing, produced a negative estimate, meaning the pattern of indirect spending reinforced rather than weakened the initial savings.
 
@@ -97,6 +101,8 @@ Economy-wide rebound is unusually difficult to measure. Efficiency is not a sing
 Different models include different mechanisms, and different time horizons produce different responses. A 2021 review led by Paul Brockway and Steve Sorrell concluded that economy-wide rebound may erode more than half of the energy savings expected from efficiency improvements. The same review emphasized the diversity of methods and assumptions in the literature.
 
 “More than half” is a serious challenge for policy models that assume engineering savings translate almost one-for-one into lower national energy demand. It is still not evidence that efficiency always increases energy use.
+
+The ladder now matters. Below-thirty-percent direct rebound for mature household services, broader microeconomic estimates that can be materially larger, and economy-wide estimates near or above one hundred percent do not contradict one another merely because the numbers differ. They can describe different boundaries around the response. The wider the boundary, the more behavior, re-spending, production, investment, and price adjustment the estimate is allowed to capture—and the more the answer depends on assumptions about how those channels work.
 
 Direct rebound for many household services is modest. Some indirect effects can reinforce savings. Some services saturate. Regulations, taxes, congestion, land constraints, time budgets, and simple lack of interest all limit demand.
 

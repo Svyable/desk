@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 19 of 20 drafted |
+| **Chapters** | 20 of 20 drafted |
 
 *What Happens When the World Reacts to the Model*
 
@@ -16,7 +16,7 @@ The central argument is that prediction and measurement become governance when d
 
 ## Contents
 
-- [ ] Front Matter
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Forecast Enters the World](manuscript/ch01-the-forecast-enters-the-world.md)
 - [x] [Ch 2 — The Metric Eats the Mission](manuscript/ch02-the-metric-eats-the-mission.md)
 - [x] [Ch 3 — The Economy Learns the Rule](manuscript/ch03-the-economy-learns-the-rule.md)
@@ -36,8 +36,8 @@ The central argument is that prediction and measurement become governance when d
 - [x] [Ch 17 — Counterfactuals in a Reactive World](manuscript/ch17-counterfactuals-in-a-reactive-world.md)
 - [x] [Ch 18 — Designing Metrics That Survive Contact](manuscript/ch18-designing-metrics-that-survive-contact.md)
 - [x] [Ch 19 — Institutions That Can Be Surprised](manuscript/ch19-institutions-that-can-be-surprised.md)
-- [ ] Ch 20 — The Second Order
-- [ ] Back Matter
+- [x] [Ch 20 — The Second Order](manuscript/ch20-the-second-order.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 

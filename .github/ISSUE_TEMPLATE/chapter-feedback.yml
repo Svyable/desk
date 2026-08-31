@@ -17,8 +17,10 @@ body:
       options:
         - aggregate-consolidate-innovate
         - agentile
+        - allocating-intelligence
         - americas-got-a-spending-problem
         - artificial-promises
+        - austerity-measures
         - exponential-compression
         - face-the-strange
         - gatekeepers
@@ -27,8 +29,11 @@ body:
         - leveraging-luck
         - look-alive
         - make-yourself-useful
+        - open-source
+        - orbital
         - predictable
         - proof-of-human
+        - public-pressure
         - scaling-laws
         - silent-cartel
         - single-points-of-failure
@@ -36,13 +41,16 @@ body:
         - subsidized-intelligence
         - synthetic-intelligence
         - the-abstraction-trap
+        - the-agentic-consumer-economy
         - the-bureaucracy-of-heaven
+        - the-collective
         - the-compatibility-dividend
         - the-convergence
         - the-delegation-machine
         - the-exponentiality
         - the-intelligence-dilemma
         - the-loneliness-dividend
+        - the-long-running-mind
         - the-measure-of-good
         - the-potentiality
         - the-reliability-tax
@@ -55,7 +63,6 @@ body:
         - to-state-the-obvious
         - useful-noise
         - vectors
-        - wild-speculation
     validations:
       required: true
   - type: input

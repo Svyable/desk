@@ -2,7 +2,7 @@
 
 Working evidence ledger for factual claims in the manuscript. Verify time-sensitive figures again during line edit and before release.
 
-_Last checked: 2026-08-30._
+_Last checked: 2026-08-31._
 
 ## Chapter 1 — The Country That Thinks
 
@@ -142,6 +142,87 @@ Sources:
 - https://www.epe.gov.br/pt/imprensa/noticias/no-redes-do-amanha-epe-debate-data-centers-e-investimentos-em-transmissao-de-energia
 - https://www.epe.gov.br/pt/imprensa/noticias/governo-do-brasil-aprova-o-plano-decenal-de-expansao-de-energia-2035
 
+## Chapter 9 — The Amazon Has a Data Policy
+
+### Brazil genetic heritage, traditional knowledge, and open bioeconomy data
+
+Brazil Ministry of Environment and Climate Change:
+
+- Law 13.123/2015 governs access to Brazilian genetic heritage, protection and access to associated traditional knowledge, and benefit sharing for conservation and sustainable biodiversity use.
+- In 2026 the ministry described open bioeconomy data as strategic for sustainable development, sociobiodiversity, local economies, genetic heritage, benefit sharing, traditional peoples and communities, restoration, research, and conservation.
+
+Sources:
+- https://www.gov.br/mma/pt-br/assuntos/bioeconomia/patrimonio-genetico/perguntas-frequentes
+- https://www.gov.br/mma/pt-br/acesso-a-informacao/informacoes-ambientais/conjunto-de-dados-ambientais/dados-ambientais-bioeconomia
+
+### Digital sequence information and the Cali Fund
+
+Convention on Biological Diversity:
+
+- COP16 operationalized the multilateral mechanism for fair and equitable benefit sharing from the use of digital sequence information (DSI) on genetic resources.
+- The Cali Fund launched in February 2025 as the mechanism's financial arm.
+- Large companies and other major entities commercially benefiting from DSI are expected to contribute under the mechanism; named sectors include information, scientific and technical services related to DSI, including artificial intelligence.
+- Fifty percent of Cali Fund resources are allocated to the self-identified needs of Indigenous peoples and local communities, including women and youth.
+- The fund received its first contribution at the end of 2025.
+
+Sources:
+- https://www.cbd.int/dsi-gr
+- https://www.cbd.int/article/cali-fund-launch-2025
+- https://www.cbd.int/CaliFund
+- https://www.cbd.int/article/2026-CaliFund
+
+### Amazon biodiversity information and Indigenous memory infrastructure
+
+Brazilian National Forest Inventory / INPA / Ministry of Indigenous Peoples:
+
+- The National Forest Inventory's 2026 Amazon publication reports field collection completed in six of nine states containing the biome, with more than 31,000 flora samples, 335,000 trees measured, and 8,500 people interviewed in the reported work.
+- INPA operates OpenDataBio as a biodiversity and ecology repository with programmatic API access.
+- The Ministry of Indigenous Peoples' 2024–2026 institutional plan includes goals involving regional centers for Indigenous languages and an archival repository for Indigenous data, documents, and information to support the right to memory.
+
+Sources:
+- https://snif.florestal.gov.br/pt-br/publicacoes/ifn-amazonia
+- https://opendb.inpa.gov.br/
+- https://www.gov.br/povosindigenas/pt-br/acesso-a-informacao/estrategia-e-governanca/plano-estrategico-institucional-2024-2026/plano-estrategico-institucional-mpi/@@display-file/file
+
+## Chapter 10 — Andes: The Mineral Inside the Machine
+
+### Global critical-mineral demand
+
+International Energy Agency, **Global Critical Minerals Outlook 2026** / Critical Minerals Data Explorer:
+
+- Demand for key energy minerals continued strong growth in 2025, driven by batteries, grids, renewable generation, electric vehicles, and other energy technologies.
+- The IEA's July 2026 data tools cover demand projections for 37 critical minerals and include long-term mining and refining supply projections for several key minerals.
+- These projections are scenario-dependent and should not be presented as fixed outcomes.
+
+Sources:
+- https://www.iea.org/reports/global-critical-minerals-outlook-2026/market-overview
+- https://www.iea.org/data-and-statistics/data-tools/critical-minerals-data-explorer
+- https://www.iea.org/data-and-statistics/data-product/critical-minerals-dataset
+
+### Chile critical-minerals and lithium strategy
+
+Chile Ministry of Mining / Government of Chile:
+
+- Chile officially presented its National Critical Minerals Strategy in January 2026 after a participatory process involving a high-level advisory committee, a technical committee with more than 120 specialists, regional workshops, and national citizen consultation.
+- The strategy is intended to combine production and diversification, responsible mining, industrial-development opportunities, international positioning, and enabling capabilities.
+- Chile's National Lithium Strategy explicitly targets technology, sustainability, value addition, research, state participation, local development, and public-private collaboration.
+
+Sources:
+- https://www.minmineria.gob.cl/?noticia=gobierno-presenta-estrategia-nacional-de-minerales-criticos
+- https://www.minmineria.gob.cl/estrategiademineralescriticos/
+- https://www.gob.cl/litioporchile/en/
+- https://www.minmineria.gob.cl/?noticia=ministra-de-mineria-presenta-en-antofagasta-documento-que-reune-avances-de-la-estrategia-nacional-del-litio
+
+### Peru copper potential
+
+Peru Ministry of Energy and Mines:
+
+- In August 2025 MINEM published an updated national copper-potential map using geological data to identify areas of high copper concentration and support exploration, investment, infrastructure, employment, and planning.
+- MINEM describes copper as important to electric vehicles, renewable-energy infrastructure, and electricity transmission as well as traditional industrial uses.
+
+Source:
+- https://www.gob.pe/institucion/minem/informes-publicaciones/7032612-mapa-potencial-cuprifero-2025
+
 ## Editorial rule
 
-The manuscript should not treat any forecast as destiny. Electricity-demand projections, investment totals, adoption rates, and announced infrastructure plans are time-sensitive. Preserve the source date and distinguish measured history, announced policy, and modeled projection during final fact-checking.
+The manuscript should not treat any forecast as destiny. Electricity-demand projections, investment totals, adoption rates, announced infrastructure plans, commodity demand, and resource-development plans are time-sensitive. Preserve the source date and distinguish measured history, announced policy, legal frameworks, and modeled projection during final fact-checking.

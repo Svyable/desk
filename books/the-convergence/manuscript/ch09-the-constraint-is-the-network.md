@@ -68,7 +68,7 @@ You cannot fix a congested line by asking electrons to be reasonable.
 
 The result is a peculiar kind of scarcity. The system may not be short of fuel or even generating equipment. It can be short of transfer capability at a particular hour.
 
-DOE's draft 2026 National Transmission Needs Study makes that timing visible. Its congestion analysis finds that the majority of measured transmission congestion is concentrated in roughly 5 percent of hours, particularly during periods of high net load, cold weather, large day-ahead versus real-time price differences, and high variable generation.
+DOE's draft 2026 National Transmission Needs Study makes that timing visible. Its detailed congestion analysis finds that half of transmission congestion value occurs in roughly 5 percent of hours. Those peak-value periods are driven mainly by conditions unforeseen or mis-forecast roughly 12 to 36 hours ahead, with high net load and cold weather also important.
 
 That is not evidence that the grid is fine 95 percent of the time.
 
@@ -177,6 +177,32 @@ Speed matters. So does optionality.
 A network with several feasible paths can absorb surprises better than one dependent on a single corridor. Standard equipment can be replaced more easily than bespoke equipment. Interregional links can allow regions to help one another during different peaks. Storage and flexible load can create time for slower physical expansions to arrive.
 
 The most valuable network may be the one that leaves the next planner several good choices.
+
+That creates a planning problem that is easy to miss when every investment must be justified by a project already standing in line.
+
+Reactive planning sounds prudent because it waits for evidence. A factory requests service, a generator requests interconnection, congestion appears, and only then does the system build the upgrade. The trouble is that large network assets often arrive on a slower clock than the projects asking for them. By the time demand becomes undeniable, the infrastructure needed to serve it may already be late.
+
+The opposite approach has its own danger. Building ahead of demand can produce stranded assets, political backlash, and bills for customers who never receive the promised benefit. Forecasts are fallible. Developers change plans. Technologies move. A corridor built for one future can be poorly placed for the future that actually arrives.
+
+Anticipatory capacity therefore cannot mean guessing confidently and pouring concrete.
+
+It means treating some network investments as options rather than as answers to a single forecast. A larger substation site can leave room for another transformer. A corridor can preserve the possibility of another circuit. Equipment standards can make future expansion less bespoke. Planning can test several plausible demand and generation patterns instead of optimizing around one official projection.
+
+The point is not to build every possible upgrade early. It is to notice when a small decision now preserves a much cheaper decision later.
+
+This is where cost allocation becomes more than an accounting fight.
+
+A narrowly assigned upgrade charge can make sense when one project clearly causes one local need. It becomes harder when the upgrade creates capacity that several future users may share, improves reliability beyond the first customer, or changes the feasible geography of later projects. The first entrant can end up being asked to pay for infrastructure whose benefits will outlive it.
+
+That can create a rational reason to wait.
+
+If every developer hopes someone else will trigger the network expansion first, a system can remain underbuilt even when many participants would benefit from the finished asset. The coordination problem then resembles other public infrastructure: the value is collective, the initiating decision is local, and the timing of who pays can determine whether anything happens.
+
+There is no universal solution. Socializing too much cost can reward speculative projects and shift risk onto customers. Assigning too much cost to the first mover can suppress useful investment. The design problem is to make beneficiaries bear costs without pretending that network benefits always belong to one beneficiary.
+
+This is not a side issue to energy abundance.
+
+It is one of the mechanisms that decides whether abundance is allowed to arrive before the queue proves, one project at a time, that it was needed.
 
 This shifts the meaning of energy abundance.
 

@@ -4,183 +4,121 @@ A grade is a small symbol carrying an unreasonable amount of institutional weigh
 
 A letter, a number, a percentage, a pass, a distinction.
 
-Inside it are claims about a student’s work, knowledge, preparation, reliability, and sometimes character. Outside it are decisions about admission, scholarships, eligibility, placement, graduation, internships, jobs, and who gets another chance.
+Inside it are claims about a student’s work, knowledge, preparation, and reliability. Outside it are decisions about admission, scholarships, eligibility, placement, graduation, internships, and jobs.
 
 Schools know grades are imperfect.
 
 They have always been imperfect.
 
-A grade can reflect subject knowledge and attendance, test anxiety and effort, writing fluency and family support, conscientiousness and prior preparation. Two teachers can grade the same work differently. Two schools can use the same letter to represent different levels of difficulty. A student can understand a subject deeply and perform badly under time pressure. Another can perform well by learning the shape of the test.
+A grade can reflect subject knowledge and attendance, test anxiety and effort, writing fluency and prior preparation. Two teachers can grade the same work differently. Two schools can use the same letter to represent different levels of difficulty. A student can understand a subject deeply and perform badly under time pressure. Another can perform well by learning the shape of the test.
 
-Yet grades survive because institutions need compressed signals.
+Yet grades survive because institutions need compression.
 
 A university cannot sit beside every applicant for six months and watch how that person learns. An employer cannot reconstruct every course behind a degree. A scholarship committee cannot interview every teacher a student has had.
 
-So schools take a complicated history of performance and compress it.
+So education compresses a complicated history of performance into signals other institutions can use.
 
-The compression has value only if the underlying observations retain some connection to capability.
+The signal has value only if the observations underneath it remain connected to the capability being claimed.
 
-Generative AI weakens that connection in a particular place.
+Generative AI complicates that connection.
 
-It does not make grades meaningless.
-
-It makes some graded artifacts less informative about who did what.
-
-That sounds like an academic-integrity problem, and sometimes it is.
-
-But the deeper issue appears even when the use of AI is fully permitted.
-
-Suppose a student submits an excellent paper created through heavy machine assistance. The student chose the topic, gathered some sources, prompted a model for an outline, generated several sections, asked for counterarguments, revised the tone, checked citations, and edited the final text.
+Suppose a student submits an excellent paper created with heavy machine assistance. The student chose the topic, gathered sources, prompted a model for structures, generated sections, requested counterarguments, checked citations, revised the prose, and defended the final argument.
 
 What should the grade mean?
 
-The paper may be strong.
+The paper may be excellent.
 
-The student may have exercised real judgment.
+The student may have exercised substantial judgment.
 
-The student may also be unable to write an equivalent argument independently.
+The student may also be unable to produce an equivalent argument independently.
 
-If the course is teaching modern tool-assisted research and communication, that may be acceptable.
+If the course is teaching modern tool-assisted research and communication, that may be entirely acceptable.
 
 If the course is certifying independent writing ability, it is not.
 
 The artifact is the same.
 
-The claim attached to it changes with the purpose of the course.
+The claim attached to it is different.
 
-This is the problem grades now have to confront more explicitly.
+That is the problem grades now have to confront more explicitly.
 
-A grade does not merely rank an artifact.
+A grade does not merely rank a piece of work.
 
-It makes a statement about a person.
+It says something about a person.
 
-That statement can be narrower or broader.
+“This student produced an excellent report under open-tool conditions” is one claim.
 
-“This student submitted an excellent report under open-tool conditions” is a modest claim.
+“This student can independently analyze unfamiliar evidence and construct a coherent written argument” is another.
 
-“This student can independently analyze unfamiliar evidence and construct a coherent written argument” is a much stronger one.
-
-Schools have often moved between these claims without stating the difference because the production conditions made them overlap enough to be useful.
+Schools have often moved between these claims without naming the difference because the conditions of production made them overlap enough to be useful.
 
 AI pulls them apart.
 
-A student can now produce high-level work under assistance while possessing much lower independent capability.
+This does not make assisted work illegitimate.
 
-The reverse can also happen.
+A student may learn more by using a model to obtain rapid feedback, test alternatives, and revise repeatedly than by writing once without help. A coding student may learn how to supervise generated code, identify bugs, and integrate tools in ways that resemble real professional work. A researcher may learn to use an AI system well enough that refusing the tool would make the assessment less authentic, not more.
 
-A capable student may use AI in a way that makes a strong assignment look suspiciously generic. A weak machine suggestion may flatten an original voice. A student with excellent knowledge may receive a lower grade because an institutional policy penalizes permitted but poorly documented assistance.
+Those are genuine capabilities.
 
-The relationship between artifact quality and student capability becomes noisier in both directions.
-
-This matters because education has several different reasons to grade.
-
-One is feedback.
-
-A teacher grades work so the student can see what is going well and what needs improvement.
-
-Another is motivation.
-
-Grades create deadlines, incentives, and consequences.
-
-Another is sorting.
-
-Schools use grades to decide who advances, receives honors, enters a program, or qualifies for an opportunity.
-
-Another is certification.
-
-A grade contributes to the institution’s claim that the student has achieved a certain level of competence.
-
-These purposes have never fit together perfectly.
-
-AI makes their conflict harder to ignore.
-
-A heavily assisted assignment can be excellent for learning and weak for certification.
-
-The student might learn more by using a model to obtain rapid feedback, explore alternatives, and revise repeatedly than by writing once without help.
-
-The final product could represent a richer learning process.
-
-But if an outside institution treats the resulting grade as proof of unaided capability, the same assignment creates a misleading signal.
+They are simply not identical to independent performance.
 
 Practice and proof need different rules.
 
-This principle is familiar outside school.
+Education has always contained this distinction, even when it was not stated clearly.
 
-A surgeon trains with supervision, reference materials, simulation, checklists, colleagues, and increasingly sophisticated technology. None of this invalidates the learning. But medical systems still care whether the surgeon can perform defined responsibilities under specified conditions.
+A musician practices with a teacher, recordings, a score, and software, then may audition live. A pilot trains inside systems full of instrumentation and automation, then demonstrates defined capabilities under controlled conditions. A surgeon learns with supervision, reference materials, simulation, colleagues, and technology, while certification still asks whether particular responsibilities can be performed reliably.
 
-A pilot trains with instructors and automation. Certification still identifies capabilities the pilot must demonstrate.
+The support does not invalidate the learning.
 
-An athlete practices with coaches, equipment, video, and teammates. Competition defines allowed assistance.
+The assessment conditions define the claim.
 
-A musician studies with teachers, recordings, scores, and software. An audition may ask for live performance.
+Schools have often tried to make the same object do both jobs.
 
-Education has often tried to use the same object for both practice and proof.
-
-Homework is the obvious example, but the problem extends further.
-
-A term paper can be a vehicle for learning research and also part of a grade that certifies research competence. A coding project can teach collaboration with tools and also serve as evidence that a student can program. A take-home problem set can help a student understand calculus and also contribute to a mark interpreted as evidence of mathematical proficiency.
+Homework helps the student learn and contributes to a grade. A term paper teaches research and certifies research competence. A coding project develops skill and becomes evidence that the student can program. A take-home problem set provides practice and contributes to a mark interpreted as mathematical proficiency.
 
 When assistance is limited, this dual use is convenient.
 
-When assistance becomes powerful and invisible, convenience becomes ambiguity.
+When assistance becomes powerful and difficult to observe, convenience becomes ambiguity.
 
 The answer is not to remove assistance from all graded work.
 
-That would make school less like the world students are entering.
+That would make school less like the world students are entering and would throw away educationally useful help.
 
-Many forms of professional competence now include choosing, directing, checking, and integrating intelligent tools. A student who learns to use those tools well is acquiring a genuine capability.
+The answer is to become clearer about what a grade contains.
 
-The answer is to stop pretending that every grade measures the same thing.
+Some assessments should measure performance with tools.
 
-Some grades should describe performance with tools.
+Some should measure independent capability.
 
-Some should describe independent capability.
+Some should reveal process, growth, judgment, or transfer.
 
-Some should describe process.
+A course may need several of these.
 
-Some should describe growth.
+The important step is naming the claim before choosing the evidence.
 
-Some may need to combine several of these while making the combination visible.
+Imagine three students who submit papers of similar quality.
 
-The important step is naming the claim.
+The first uses AI extensively but responsibly. She frames the question, gathers sources, asks for competing structures, rejects one because it distorts the evidence, uses another to accelerate drafting, checks the claims, rewrites important passages, and can explain every major decision.
 
-Imagine two students who both receive an A on a research assignment.
+The second uses no generative AI. He reads, drafts, and revises independently.
 
-Student A uses AI extensively but responsibly. She identifies the question, gathers sources, asks the system to generate competing structures, rejects one because it distorts the evidence, uses another to draft sections, checks every claim, rewrites key passages, and defends the argument in a conversation with the teacher.
+The third asks a model to write the paper, makes cosmetic changes, and cannot explain the argument when asked.
 
-Student B uses no generative AI. He reads the sources, drafts independently, revises with teacher feedback, and submits a paper of equal quality.
+The documents may not reveal these differences clearly.
 
-It would be strange to say that one student necessarily learned and the other did not.
+The educational evidence should.
 
-They may have developed different capabilities.
+That is why process evidence becomes more useful as finished artifacts become easier to manufacture.
 
-Student A may be better at orchestrating external intelligence.
+Not because every act of learning should be surveilled.
 
-Student B may be better at independent composition.
+Because the final product no longer carries enough information to support every claim an institution may want to make.
 
-A single letter does not reveal the distinction.
+The additional evidence can be modest.
 
-Now imagine a third student who asks a model to write the paper, makes cosmetic edits, and cannot explain the argument when asked.
+A conversation with the teacher.
 
-The artifact may still resemble the first two.
-
-The grade cannot safely rest on the artifact alone.
-
-This is why process evidence is becoming more important.
-
-Not because schools should turn every act of learning into surveillance.
-
-Because the final product no longer contains enough information to support every claim institutions want to make.
-
-Process evidence can take many forms.
-
-A conversation.
-
-A draft written under controlled conditions.
-
-A short reflection identifying the hardest decision.
-
-A version history.
+A short in-class draft.
 
 A source annotation.
 
@@ -188,259 +126,141 @@ A live demonstration.
 
 A new problem solved after the take-home work.
 
-An oral defense in which the student explains why one source was trusted and another rejected.
+An oral defense explaining why one source was trusted and another rejected.
 
-A teacher may not need all of these.
+A brief account of the decision the student changed after feedback.
 
-The point is triangulation.
+No single form is magic.
 
-When one signal becomes easier to manufacture, institutions rely on several signals whose failure modes differ.
+The point is to combine signals whose weaknesses differ.
 
-This is not new.
+This is ordinary assessment logic made more urgent by abundant generation.
 
-Good assessment has always benefited from multiple forms of evidence.
+It also explains why controlled assessment will remain part of education.
 
-AI raises the price of ignoring that principle.
+Closed conditions are easy to caricature as nostalgia for a pre-digital world. Sometimes they are.
 
-It also changes the meaning of fairness.
+But certification occasionally requires evidence produced under known conditions.
 
-Schools often try to create equal conditions by specifying equal access to resources.
-
-Everyone gets the same time.
-
-Everyone gets the same calculator policy.
-
-Everyone gets the same notes policy.
-
-Everyone sits the same exam.
-
-With generative AI, equal conditions become harder to define outside controlled settings.
-
-Students may have different subscriptions, model versions, devices, internet access, prompting skill, parental support, institutional permission, and knowledge of how to verify outputs.
-
-A take-home assignment that “allows AI” may sound equal while producing radically unequal forms of assistance.
-
-One student treats the model as an editor.
-
-Another treats it as a tutor.
-
-Another has access to a premium system with stronger capabilities.
-
-Another uses a free system intermittently on a shared phone.
-
-Another has a parent who understands how to chain prompts and verify citations.
-
-Another does not know enough about the subject to notice when the output is wrong.
-
-Permitted assistance is not automatically equal assistance.
-
-This complicates grading because the school may be measuring the quality of the student’s support environment along with the student.
-
-Again, this is not entirely new.
-
-Private tutoring, quiet study space, parental education, stable broadband, and social capital have always affected schoolwork.
-
-AI does not invent unequal assistance.
-
-It industrializes a new form of it.
-
-The system can deliver something resembling expert help at any hour, but the value of that help depends on the learner’s ability to use it.
-
-A grade produced under open conditions therefore carries more environmental information than institutions may realize.
-
-This is one reason controlled assessment will remain important.
-
-Not because closed-book exams are the highest form of education.
-
-They are not.
-
-But certification sometimes requires a clean signal.
-
-If a school claims that a student can read an unfamiliar passage, reason about it, and write a coherent response without external generation, there must be some moment when that capability is observed under conditions that make the claim credible.
-
-The moment can be humane.
-
-It can be oral rather than written.
-
-It can be project-based.
-
-It can involve an unfamiliar but related problem.
-
-It can be repeated rather than high-stakes.
-
-It can allow accommodations unrelated to the capability being tested.
+If a school claims that a student can read an unfamiliar passage, reason about it, and write a coherent response without external generation, there must be some occasion when that capability is actually observed.
 
 Controlled does not have to mean punitive.
 
-It means the institution knows what conditions produced the evidence.
+The assessment can be oral rather than written. It can use an unfamiliar but related problem. It can happen repeatedly instead of in one high-stakes sitting. It can include accommodations that do not interfere with the capability being tested.
 
-This distinction between assisted and independent performance may eventually become as ordinary as the distinction between coursework and an examination.
+The point is not austerity.
 
-A transcript could communicate both.
+The point is knowing what conditions produced the evidence.
 
-A student might demonstrate that she can produce excellent work with modern tools and also meet a baseline of independent capability.
+This distinction may eventually become as ordinary as the difference between coursework and an examination.
 
-The two measures answer different questions.
+A student might demonstrate excellent open-tool performance and also meet a baseline of independent capability.
+
+Those results answer different questions.
 
 What can this person accomplish in a realistic environment with access to available intelligence?
 
-What can this person still do when that intelligence is absent, unavailable, wrong, prohibited, or inappropriate?
+What can this person still do when the intelligence is absent, unavailable, wrong, prohibited, or inappropriate?
 
 Both matter.
 
-The first reflects leverage.
+The first is leverage.
 
-The second reflects resilience.
+The second is resilience.
 
-Education needs both because dependence can fail at inconvenient moments.
+Independent capability is not valuable because unaided work is morally purer. It matters because tools fail, policies change, sensitive information cannot always be entered into external systems, and good use of external intelligence often depends on enough internal structure to recognize when something is off.
 
-Tools go offline.
+A person needs some knowledge to formulate the problem, evaluate the response, detect missing context, and notice unjustified confidence.
 
-Models make errors.
+Grades should help institutions see whether that structure exists when the course claims it does.
 
-Policies change.
+The need becomes sharper as machine output improves.
 
-Sensitive information cannot always be entered into external systems.
+For much of school history, bad work carried useful information.
 
-Professional judgment sometimes requires a person to notice that the tool’s answer is implausible before there is time to ask another tool.
+A confused paragraph revealed confusion. A wrong algebraic step exposed a misconception. An incomplete answer showed where the student stopped.
 
-Independent knowledge is not valuable because purity is morally superior.
+AI can repair the surface before the misconception is repaired underneath it.
 
-It is valuable because external intelligence works best when it encounters internal structure.
-
-A person needs enough understanding to formulate the problem, evaluate the response, detect missing context, and know when confidence is unjustified.
-
-Grades should help institutions see whether that structure exists.
-
-This becomes particularly important as machine output becomes more polished.
-
-For much of school history, low-quality work was useful information.
-
-The confused paragraph revealed confusion.
-
-The wrong algebraic step exposed a misconception.
-
-The incomplete answer showed where the student stopped.
-
-Teachers could diagnose through imperfection.
-
-AI can remove the imperfection without removing the misconception.
-
-A student submits a clean solution generated after the first failed attempt.
+The student submits a clean solution generated after the first failed attempt.
 
 The teacher sees competence.
 
-The learner still contains the error.
+The learner may still contain the error.
 
-In this sense, AI can improve the appearance of educational data while degrading its diagnostic value.
+In that sense, AI can improve the appearance of educational data while degrading its diagnostic value.
 
-That is a dangerous trade.
+The instinctive response is to collect more data.
 
-Schools are data-rich environments.
+More logs. More detection. More analytics. More behavioral signals.
 
-Scores, rubrics, assignments, dashboards, progress reports, and learning platforms create a constant stream of apparent measurement. The temptation is to respond to AI by creating even more measurement.
-
-More detection.
-
-More logs.
-
-More analytics.
-
-More behavioral signals.
-
-But a measurement system does not become trustworthy by becoming dense.
+But measurement does not become trustworthy by becoming dense.
 
 It becomes trustworthy when the observation is connected to the thing the institution claims to measure.
 
-A polished essay is not automatically evidence of writing capability.
+A polished essay is not automatically evidence of independent writing capability.
 
 A completed problem set is not automatically evidence of mathematical understanding.
 
-A finished program is not automatically evidence that the student can debug.
+A functioning program is not automatically evidence that the student can debug.
 
-A grade based on those objects is only as meaningful as the chain of inference behind it.
+The grade is only as meaningful as the chain of inference behind it.
 
-This is the intellectual work AI is forcing on schools.
+That chain should become more visible inside schools even if the transcript remains compressed outside them.
 
-What exactly does the grade claim?
+A department might ask:
 
-Under what conditions was the evidence produced?
+What exactly does this grade claim?
 
-Which forms of assistance were allowed?
+Which work was completed under open-tool conditions?
 
 Which capabilities were independently observed?
 
-What does the student know now that can transfer to a new situation?
+What did the student transfer to a new task?
 
-The answers may differ by age.
+How much of the course grade is practice, how much is performance, and how much is certification?
 
-Young students need more protected practice because they are still building foundational fluency.
+The answers will vary by age, subject, and purpose.
 
-Older students may appropriately use tools that professionals in the field use.
+A calculator has a different role in advanced statistics than in early arithmetic. Translation has a different role in a history course than in a language-proficiency exam. Code generation has a different role in a software architecture course than in the first week of programming.
 
-The answers differ by subject.
-
-A calculator has a different role in advanced statistics than in early arithmetic.
-
-A translation model has a different role in a history course than in a language proficiency exam.
-
-Code generation has a different role in a software architecture course than in the first week of programming.
-
-The answers differ by purpose.
-
-Practice invites support.
-
-Certification requires clearer boundaries.
-
-This variability is not a policy failure.
+That variability is not a policy failure.
 
 It is what precision looks like.
 
-The old simplicity was partly an illusion created by stable production costs.
+The old simplicity was partly created by stable production costs.
 
-When a ten-page paper was expensive to produce, the paper itself carried information about effort and likely engagement. When solving fifty equations required doing fifty equations, completion was rough evidence of practice. When writing a functioning program required assembling most of the logic, the program contained traces of the programmer.
+When writing a ten-page paper was expensive, the paper itself carried information about effort and likely engagement. When solving fifty equations required doing fifty equations, completion was rough evidence of practice. When producing a functioning program required assembling most of the logic, the program carried traces of the programmer.
 
 Those correlations are weakening.
 
 Schools can respond by policing the old artifacts harder.
 
-Or they can build better claims.
+Or they can make better claims.
 
-A better claim is narrower and more honest.
+A better claim is narrower.
 
 This student can explain this concept orally.
 
 This student can solve a novel problem without assistance.
 
-This student can use AI to produce a well-sourced analysis and can identify where the model was wrong.
+This student can use AI to produce a well-sourced analysis and identify where the model was wrong.
 
 This student can revise after critique.
 
 This student can transfer the method to a new case.
 
-This student can work independently for this portion and collaboratively with tools for that portion.
+This student can work independently here and with tools there.
 
-These statements contain more information than a letter grade.
+Institutions will still need compression. Transcripts will not become novels.
 
-Institutions will still need compression.
+But the grade can become the final step of a more deliberate inference rather than the first step of an assumption.
 
-Transcripts will not become novels.
+That matters because credentials are systems of trust.
 
-But the internal assessment system can become richer even if the external symbol remains small.
+A student benefits when a university, employer, licensing body, or another school can rely on a signal without forcing the student to prove everything from zero each time.
 
-The grade can be the last step of a more deliberate inference rather than the first step of an assumption.
-
-There is a larger consequence here.
-
-If schools cannot say what their grades mean in an AI-rich environment, other institutions will begin discounting them.
-
-Credentials are systems of trust.
-
-They work because the recipient does not have to inspect the entire production process behind them.
-
-A university trusts a transcript enough to make an admissions decision. An employer trusts a degree enough to reduce uncertainty about an applicant. A licensing body trusts an accredited program enough to accept some of its internal judgments.
-
-When the underlying evidence becomes ambiguous, the trust can migrate elsewhere.
+If the evidence underneath grades becomes persistently ambiguous, some of that trust will move elsewhere.
 
 More interviews.
 
@@ -448,26 +268,18 @@ More live tests.
 
 More work samples.
 
-More probationary hiring.
-
 More independent certification.
 
-More emphasis on institutional reputation.
+More reliance on institutional reputation.
 
-Schools should care about this not because grades deserve protection as traditions.
+Schools should care because credible certification is one of education’s public goods.
 
-They should care because credible certification is one of education’s public goods.
+The challenge is not to preserve the old grade unchanged.
 
-A student benefits when other people can trust a signal without requiring the student to prove everything from zero each time.
+It is to keep the signal connected to reality.
 
-The challenge is to keep that signal connected to reality.
+In an AI-rich environment, that may require holding two forms of competence at once: the ability to think effectively with machines and the ability to remain capable when the machine is not doing the thinking.
 
-AI does not destroy the possibility.
+A single letter will never express all of that.
 
-It demands better measurement.
-
-The future grade may need to represent two forms of competence at once: the ability to think with machines and the ability to remain a thinker when the machine is not doing the thinking.
-
-That is a harder thing to assess than the old stack of homework.
-
-It is also closer to what the world now needs to know.
+The system behind the letter will have to.
