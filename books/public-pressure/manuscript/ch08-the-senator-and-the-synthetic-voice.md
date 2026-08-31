@@ -265,3 +265,95 @@ AI makes the counterfeit more convincing.
 It does not make the difference between them unknowable.
 
 The work of public pressure is to insist that institutions preserve the evidence.
+
+Election administration adds another layer because the most dangerous synthetic message may not be persuasion at all. It may be procedural instruction. A fake endorsement asks a voter what to believe. A false message about when, where, or whether to vote can interfere with the act of voting itself.
+
+That difference should shape both urgency and remedy.
+
+Election officials already maintain authoritative information about polling places, eligibility procedures, deadlines, and ballot administration. The synthetic-media response can strengthen those channels rather than build a parallel truth ministry. When a false procedural claim circulates, the answer can point voters to the office with actual authority over the procedure.
+
+This is authority matching again.
+
+A campaign is authoritative about whether it created an advertisement.
+
+An election office is authoritative about how an election is administered.
+
+A court is authoritative about a judgment.
+
+A platform is authoritative about whether an account was verified under its own process.
+
+A news organization is authoritative about whether it published a report.
+
+The public gets into trouble when one authority is asked to certify another domain.
+
+A social-media company should not become the final interpreter of state election law merely because a disputed post appeared on its service. It can route users toward official information, preserve evidence, enforce rules against impersonation, and respond to clearly unlawful conduct. The legal interpretation still belongs to institutions designed for it.
+
+The same division helps campaigns prepare before a crisis. Candidates can establish verified channels for official audio and video. Staff can preserve original files and production records. Campaigns can decide in advance how they will respond to suspected synthetic material. They can identify outside forensic experts rather than finding them after a clip goes viral.
+
+This is incident response for political speech.
+
+Security teams have long learned that the worst time to design a breach process is during the breach. Elections need the same precommitment because the decision window is short.
+
+What standard will the campaign use before calling something fake?
+
+Who is authorized to make that statement?
+
+Will the campaign publish the evidence supporting its denial when doing so does not compromise security?
+
+How will it correct itself if the authenticity judgment changes?
+
+These questions protect the target from deepfakes and the public from false deepfake claims.
+
+The liar’s dividend becomes smaller when denial itself has a procedure.
+
+News organizations can make similar precommitments. A newsroom receiving explosive audio late in a campaign should know what minimum authentication it requires before publication, what it can report while verification continues, and how it will label uncertainty. Competition makes this difficult because another outlet may publish first.
+
+The synthetic era therefore increases the value of institutional reputation earned before the crisis.
+
+A publication known to wait for verification can afford to say “we do not yet know.” A campaign known to authenticate its own media can rebut a fake more credibly. An election office known for clear public communication can correct procedural deception faster.
+
+Trust becomes a stock accumulated before the run on truth.
+
+Platforms occupy the hardest position because they operate at the speed and scale of the attack. A platform may have minutes to decide whether a manipulated clip should be removed, labeled, downranked, or left alone. Each choice affects speech and distribution.
+
+The most defensible systems separate functions.
+
+Automated tools can detect likely synthetic or coordinated material and trigger review. Human specialists can evaluate high-impact cases. Rules can distinguish impersonation from satire and procedural voter suppression from ordinary political falsehoods. Appeals can reverse mistaken interventions. Records can preserve removed material for later scrutiny.
+
+No process will eliminate partisan accusations of bias.
+
+The goal is not to make everyone believe the platform is neutral.
+
+It is to make decisions reproducible enough that critics can argue about the rule rather than invent the rule after every case.
+
+There is also a positive use of synthetic media that election regulation should not accidentally erase. A campaign may use a candidate-approved synthetic voice to translate a speech into another language or make material accessible to voters who would otherwise not receive it. The communication can be authentic in authority even if synthetic in production.
+
+That distinction is important.
+
+The candidate did not literally pronounce the words in that language.
+
+The candidate did authorize the message.
+
+Synthetic does not mean counterfeit.
+
+Authorization is the missing variable in many political deepfake arguments.
+
+A cartoon of a candidate does not claim authorization. A parody communicates its own distance. A campaign-approved synthetic translation carries authorization even though the signal is generated. A cloned robocall designed to make voters believe the candidate spoke when the candidate did not is counterfeit authority.
+
+This is why provenance systems should be able to express more than “AI was used.” They should help establish who authorized the artifact and how it changed.
+
+The voter still has to judge the message.
+
+The infrastructure merely restores the proper speaker.
+
+That is enough to preserve an essential democratic distinction. Politics is allowed to manipulate attention, emotion, narrative, and imagery within broad constitutional limits. It should not be allowed to make a person participate in speech they did not authorize and then demand that the public solve the forgery under deadline.
+
+The New Hampshire call was small compared with the fears surrounding synthetic election interference. Its importance lies partly in that modest scale. The legal system did not need to wait for a national catastrophe before learning that an old robocall rule could reach a new kind of voice.
+
+That is how resilient institutions should respond to AI.
+
+Adapt at the seam where the conduct changed.
+
+Preserve the larger freedoms around it.
+
+And make the counterfeit prove its authority before the public has to prove it false.
