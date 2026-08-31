@@ -355,3 +355,133 @@ Compression is not the enemy.
 Compression is what lets us move.
 
 The tax becomes dangerous only when we forget that we paid it.
+
+## When One Point Is Too Small
+
+A single vector is appealing because it is simple.
+
+One object.
+
+One coordinate.
+
+One nearest-neighbor search.
+
+The simplicity can become a bottleneck when the object contains several different things worth retrieving.
+
+Consider a long corporate report. One section discusses cybersecurity. Another covers international expansion. Another contains a table of financial results. Another explains a lawsuit. Compress the entire report into one vector and the dominant themes may overwhelm the small section a future query needs.
+
+The object has more than one semantic center.
+
+Representing it with one point asks the model to average those centers into a compromise.
+
+This is why practical retrieval systems increasingly use multiple representations at different resolutions. A document can have a vector for the whole file and vectors for sections or chunks. A product can have separate representations for its image, title, description and behavioral history. A user can have several interest vectors rather than one permanent summary of taste.
+
+The extra vectors are not merely an engineering trick.
+
+They are an admission that identity can be plural.
+
+A person who listens to baroque music and death metal should not necessarily be represented as someone who wants music halfway between the two. An organization with separate research, sales and legal functions should not collapse all internal knowledge into one semantic centroid. A scientific paper may contain a method useful to one field and a conclusion useful to another.
+
+Averages can create fictional middle points.
+
+Human classification systems learned this lesson long ago. A library can assign several subject headings to one book. An article can carry multiple keywords. A person can belong to several communities. A city can be described by geography, industry, culture and history without forcing those dimensions into one label.
+
+Multi-vector systems bring a similar flexibility to learned representation.
+
+They also raise new questions.
+
+Which vector should a query compare against?
+
+Should the system retrieve any object whose one representation is near, or require several signals to agree?
+
+How do we avoid large objects receiving an unfair advantage simply because they have more vectors and therefore more chances to appear close?
+
+How do we preserve the relation between the retrieved fragment and the whole object?
+
+More fidelity creates more orchestration.
+
+This is the compression trade again.
+
+One vector is cheap and blunt.
+
+Many vectors are expressive and expensive.
+
+The right choice depends on what errors matter.
+
+For a casual recommendation surface, one compact product representation may be enough. For legal research, a contract may need passage-level vectors while definitions and clause hierarchy remain linked explicitly. For source-code retrieval, a repository can be represented at file, class and function levels because a bug may live locally while its dependency spans the larger system.
+
+Hierarchical retrieval is one way to manage this. Search small units to find a precise match, then move upward to the parent section or document before reasoning. The system locates the needle without pretending the needle is independent of the haystack.
+
+This resembles how humans read reference material.
+
+The index points to a page.
+
+The page points to a section.
+
+The reader expands context until the claim makes sense.
+
+The mistake would be handing someone one sentence torn from the page and treating its proximity to the question as sufficient evidence.
+
+Generative AI makes this mistake easy to hide. A model can receive a handful of chunks and weave them together fluently. If the chunks lost their parent context, the synthesis may combine statements whose qualifications lived just outside the retrieval boundaries.
+
+The vector system succeeded at local similarity and failed at document structure.
+
+This is why source-aware retrieval needs coordinates of more than one kind.
+
+Semantic coordinates tell us what the passage resembles.
+
+Document coordinates tell us where it lives.
+
+Temporal coordinates tell us when it was valid.
+
+Authority metadata tells us what status it has.
+
+Access metadata tells us who may see it.
+
+No one vector needs to encode all of these if the system can preserve them explicitly.
+
+This is a crucial design principle: do not force learned geometry to carry facts that structured data can represent exactly.
+
+The embedding should earn its complexity by handling fuzzy relation.
+
+Dates are already dates.
+
+Permissions are already permissions.
+
+Identifiers are already identifiers.
+
+Parent-child structure is already structure.
+
+The desire for one universal vector can become a form of representational vanity.
+
+A system feels elegant because everything is “just embeddings.” The elegance disappears when the application cannot recover a definition, enforce a permission or distinguish the latest version.
+
+Good architecture is comfortable with mixed representations.
+
+It uses vectors where approximation creates leverage and exact structures where exactness is cheap.
+
+This is also the answer to another worry about compression: preserving the raw source is not enough if the path back to it is weak.
+
+A retrieved vector should remain addressable to the object and location that produced it. A chunk needs a source ID. An image embedding needs the image. A memory vector needs the underlying event or record. A molecular representation needs the molecular structure it encodes.
+
+Provenance is the decompression key.
+
+Without it, a vector store becomes a collection of derived impressions detached from the evidence that made them meaningful.
+
+This is especially dangerous when models change. If the original source remains linked, the representation can be regenerated. If only the vector survives, the organization has preserved an interpretation while losing the thing interpreted.
+
+The principle is almost archival.
+
+Indexes should be replaceable.
+
+Sources should be durable.
+
+The future of vector systems may therefore involve more representation, not less: multiple vectors, multiple modalities, explicit graphs, structured metadata and source-level provenance operating together.
+
+That does not betray the promise of embeddings.
+
+It clarifies it.
+
+The vector is valuable because it is a compact, useful loss.
+
+A mature system knows which losses it can afford and keeps another representation nearby for the details it cannot.
