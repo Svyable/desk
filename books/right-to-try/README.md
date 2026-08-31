@@ -44,3 +44,5 @@ The book rejects the easy story that innovation lives wherever regulation disapp
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.md)
+- [Federal Right to Try reporting evidence note](research/federal-right-to-try-reporting.md)
+- [2026 xenotransplantation trial evidence note](research/xenotransplantation-trials-2026.md)
