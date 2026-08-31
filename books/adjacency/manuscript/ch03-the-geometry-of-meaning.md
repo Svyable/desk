@@ -263,3 +263,115 @@ The answer tells you what kind of map you are standing on.
 And once you know the map has a purpose, you can ask the more important question.
 
 Where does it make it easy to go?
+
+## When Distance Starts Behaving Strangely
+
+Our language for embeddings borrows heavily from ordinary space because ordinary space is the geometry our bodies understand.
+
+Near. Far. Cluster. Direction. Boundary. Neighborhood.
+
+Those words are useful. They can also make high-dimensional spaces feel more intuitive than they are.
+
+In three dimensions, we have strong instincts. Put a chair in a room and we can roughly tell what is closest to it. Double the room and the extra volume is easy to imagine. A sphere has a center that feels central. A corner feels peripheral.
+
+Hundreds of dimensions do not behave like a room with more walls.
+
+One consequence is that a large high-dimensional space can become sparse in ways that surprise us. Another is that distances among points can become less differentiated under some distributions. The nearest neighbor may still be nearest, but the gap between “near” and “typical” can become less dramatic than our visual intuition suggests.
+
+This is part of what people refer to as the curse of dimensionality.
+
+The phrase can sound as if more dimensions are simply bad. That is not the point. More dimensions are often exactly what allow a representation to preserve rich structure. The difficulty is that algorithms and intuitions developed for low dimensions do not always scale gracefully.
+
+A map can become more expressive and harder to navigate at the same time.
+
+Hubness is one example. In high-dimensional nearest-neighbor systems, some points can appear in the neighbor lists of many other points unusually often. They become hubs.
+
+A hub is not automatically a mistake. Some items genuinely are broadly related. A general reference document may help answer many questions. A famous foundational paper may connect to many subfields. A popular song may share characteristics with a wide range of music.
+
+The problem is when geometric centrality masquerades as universal relevance.
+
+A mediocre semantic search sometimes develops a recognizable cast of recurring documents. Ask ten distinct questions and the same broad overview keeps appearing. The document is never absurd. It is simply too generic. Its representation sits in a region that makes it a plausible neighbor to too many queries.
+
+The user experiences repetition.
+
+The engineer sees a neighborhood pathology.
+
+This is why evaluating a vector system requires more than checking whether the obvious examples look close. You also have to inspect the distribution of retrieval behavior.
+
+Which items appear too often?
+
+Which items never appear?
+
+Do certain categories dominate neighborhoods that should be diverse?
+
+Does the system perform differently in dense and sparse parts of the space?
+
+Does a small change in the query produce a sensible local move or an abrupt jump into another region?
+
+Geometry becomes a behavioral science.
+
+The same caution applies to visualization. Compressing an embedding into two dimensions can produce a beautiful scatterplot. Humans immediately see islands and borders. We label them. We tell stories about the gaps.
+
+But dimensionality reduction is itself another representation problem. The visualization has to decide which relations to preserve while collapsing hundreds of dimensions into two. Local neighborhoods may remain useful while large-scale distance becomes distorted. Different settings can produce different-looking continents from the same underlying vectors.
+
+The plot is evidence about the representation.
+
+It is not a photograph of meaning.
+
+This becomes especially important when somebody uses an embedding chart to make claims about people, cultures or scientific categories. A visually separate cluster can invite a story of natural difference. A blended region can invite a story of equivalence. Both interpretations may be artifacts of the model, the data, the reduction method or the plotting parameters.
+
+Geometry feels objective because numbers are involved.
+
+Interpretation remains interpretive.
+
+There is a second kind of strangeness: local geometry can matter more than global geometry.
+
+Imagine a city where the neighborhoods are accurate but the map has distorted the distances between cities. If your task is to find a nearby coffee shop, the distortion may not matter. If your task is to plan a cross-country trip, it does.
+
+Embedding systems are often evaluated on local retrieval. Find the top ten related passages. Find similar images. Find the next candidate. For these tasks, preserving the immediate neighborhood can matter more than preserving a globally faithful arrangement of the entire space.
+
+This means it can be a mistake to ask whether an embedding has captured the “true shape” of a domain.
+
+The practical question is whether it preserves the relations the operation needs.
+
+That reframes evaluation.
+
+A map trained for nearest-neighbor retrieval should be judged on neighbor quality under realistic queries. A map used for clustering needs cluster-level evaluation. A map used for anomaly detection needs to preserve meaningful isolation. A map used for recommendation needs to support useful candidate generation, including exploration.
+
+The geometry is always in service of an operation.
+
+This also explains why one universal similarity number is seductive and dangerous.
+
+A score such as 0.82 looks portable. It seems to promise that any pair of objects with that score is equally related. Usually the score is only meaningful inside the particular model and distribution that produced it. A threshold that works for one corpus may behave badly after the corpus changes. A score distribution for short queries may differ from one for long passages. A new embedding model may shift all of the numbers while improving retrieval.
+
+The decimal is not the relationship.
+
+It is an instrument reading.
+
+Good engineering treats it that way.
+
+Calibrate thresholds on the task. Inspect distributions. Test edge cases. Compare against baselines. Preserve exact constraints outside the vector when they matter. Know whether the model was trained for the comparison you are asking it to make.
+
+The geometry of meaning becomes trustworthy through measurement of its behavior, not through faith in the elegance of the space.
+
+That may be the most useful way to think about high-dimensional representation.
+
+We do not need to imagine the thousand-dimensional landscape accurately.
+
+We need to know what happens when we move through it.
+
+Which paths are stable?
+
+Which neighborhoods are useful?
+
+Which objects attract everything?
+
+Where does the map lose resolution?
+
+Where does distance stop distinguishing what we care about?
+
+Those questions turn an invisible geometry into an empirical system.
+
+And they remind us that the word *near* is never the end of the explanation.
+
+It is the beginning of an experiment.
