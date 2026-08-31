@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hard Benson |
 | **Status** | Drafting |
-| **Chapters** | 17 of 20 drafted |
+| **Chapters** | 18 of 20 drafted |
 
 *What Happens When the World Reacts to the Model*
 
@@ -34,7 +34,7 @@ The central argument is that prediction and measurement become governance when d
 - [x] [Ch 15 — Policy as a Game With Memory](manuscript/ch15-policy-as-a-game-with-memory.md)
 - [x] [Ch 16 — When Everyone Has the Forecast](manuscript/ch16-when-everyone-has-the-forecast.md)
 - [x] [Ch 17 — Counterfactuals in a Reactive World](manuscript/ch17-counterfactuals-in-a-reactive-world.md)
-- [ ] Ch 18 — Designing Metrics That Survive Contact
+- [x] [Ch 18 — Designing Metrics That Survive Contact](manuscript/ch18-designing-metrics-that-survive-contact.md)
 - [ ] Ch 19 — Institutions That Can Be Surprised
 - [ ] Ch 20 — The Second Order
 - [ ] Back Matter
