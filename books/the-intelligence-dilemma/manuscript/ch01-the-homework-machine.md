@@ -2,17 +2,19 @@
 
 The first educational use of a new technology is usually the old assignment done faster.
 
-A calculator arrives and students use it on arithmetic. Search arrives and students use it to find sources. Wikipedia arrives and students use it to replace the encyclopedia. A laptop arrives and the handwritten paper becomes a typed paper. A learning platform arrives and the worksheet becomes a web form.
+Calculators speed arithmetic. Search finds sources. Laptops replace handwriting. Learning platforms turn worksheets into web forms.
 
-Then a different kind of system arrives and the old assignment begins to behave strangely.
+Then a technology arrives that does something more destabilizing.
+
+It can produce the assignment.
 
 A student is told to write eight hundred words comparing two characters in a novel. The assignment was designed on the assumption that the difficult part sits between the prompt and the finished essay. The student has to remember the book, choose evidence, decide what the characters have in common, find a thesis, arrange paragraphs, and make sentences carry the argument.
 
 Now the student can hand the prompt to a model and receive a plausible draft in seconds.
 
-The interesting thing is not that this can violate a school rule.
+The interesting thing is not only that this might violate a rule.
 
-The interesting thing is that the assignment still looks intact.
+The assignment still looks intact.
 
 There is a prompt.
 
@@ -20,65 +22,59 @@ There is an essay.
 
 There is a grade.
 
-The missing object is the path between them.
+What has become uncertain is the path between them.
 
 School has always cared about paths while grading endpoints.
 
-That arrangement worked reasonably well when producing the endpoint required traveling most of the path. A teacher could not see every decision a student made while writing at home, but the final paper contained enough residue from the process to make the inference useful. Weak reading often produced weak analysis. Confused reasoning leaked into sentences. A student who had not spent time with the material usually had trouble sustaining a specific argument.
+That arrangement worked tolerably well when producing the endpoint required traveling much of the path. A teacher could not see every decision a student made while writing at home, but the final paper usually carried traces of the process. Weak reading often produced weak analysis. Confusion leaked into sentences. A student who had not spent time with the material usually had trouble sustaining a specific argument.
 
 Not always.
 
-But often enough.
+Often enough.
 
-Generative AI changes this by becoming very good at residue without requiring the original process.
+Generative AI changes this because it can produce many of the visible marks of competent work without requiring the old sequence that produced them.
 
-It can produce the marks of competent work: structure, transitions, explanation, examples, professional tone, correct formatting, even the little imperfections requested by someone trying to make the result look less polished.
+Structure. Transitions. Explanations. Examples. Formatting. A professional tone. A conclusion that sounds as though it belongs to what came before.
 
-The homework machine does not need to understand why homework exists.
+The homework machine does not need to know why homework exists.
 
-It only needs to understand what homework tends to look like.
+It needs to know what homework tends to look like.
 
-This distinction is easy to miss because schools contain so many tasks whose educational purpose has become inseparable from their administrative form.
+That distinction exposes a weakness in assignments whose educational purpose has become hard to separate from their administrative form.
 
 Consider the five-paragraph essay.
 
-It can be a useful scaffold. It gives a novice writer somewhere to put a thesis, evidence, explanation, and conclusion. But once the form becomes familiar enough, the assignment can begin measuring compliance with the form as much as the thinking that was supposed to happen inside it.
+As a scaffold, it can be useful. It gives a novice writer somewhere to put a thesis, evidence, explanation, and conclusion. But once the form becomes familiar enough, the assignment can begin measuring compliance with the form as much as the thinking that was supposed to happen inside it.
 
-A model is excellent at forms.
+A model is very good at forms.
 
-Give it the topic, expected length, reading level, citation style, rubric, and a sample of the teacher's preferred structure, and the assignment becomes increasingly legible as a production specification.
+Give it the topic, expected length, reading level, rubric, and a sample of the preferred structure, and the task starts to look like a production specification.
 
-That does not make the model intelligent in every sense people care about.
-
-It makes the institution predictable.
-
-The more standardized the task, the easier it becomes to automate the visible product.
+The more standardized the visible product, the easier the visible product becomes to automate.
 
 This creates an uncomfortable possibility.
 
-Some of the assignments most vulnerable to AI are vulnerable because they had already become mechanical for humans.
+Some assignments are vulnerable to AI because they were already becoming mechanical for students.
 
-Students noticed this before many institutions did.
+A worksheet asking for twenty nearly identical responses teaches something about the school as well as the subject. It teaches that completion matters. A discussion board requiring one post and two replies teaches that participation can be measured by count. A weekly reflection with a predictable tone can teach that reflection itself has a format.
 
-A worksheet that asks for twenty nearly identical responses teaches students something about the school as well as the subject. It teaches them that completion matters. A discussion post requiring two hundred words and replies to two classmates teaches them that visible participation can be specified by count. A weekly reflection whose prompt changes slightly but whose expected tone does not teaches them that reflection has a format.
+Students become excellent readers of incentives.
 
-Students become expert readers of incentives.
-
-They know which assignments require understanding and which require submission.
+They know which tasks require understanding and which require submission.
 
 AI lowers the price of acting on that knowledge.
 
-This is why the classroom debate becomes shallow when it begins and ends with cheating.
+Cheating is therefore real but incomplete as an explanation of what is happening.
 
-Cheating is real. A student can knowingly submit work that violates the rules. Schools need rules and consequences. But the homework machine exposes something larger than misconduct: it exposes the distance between the work an institution assigns and the capability the institution believes the work demonstrates.
+A student can knowingly submit prohibited work. Schools need rules and consequences for that. But the homework machine also reveals the distance between the work an institution assigns and the capability it believes the work demonstrates.
 
 That distance existed before AI.
 
-AI makes it easier to see.
+AI makes it harder to ignore.
 
-Suppose a teacher wants students to learn the causes of a historical event. The teacher assigns a two-page summary. Before generative AI, a student who produced an adequate summary probably had to encounter the material somehow. Perhaps the student read carefully. Perhaps the student skimmed. Perhaps the student copied phrases from several websites and stitched them together badly. The assignment was imperfect evidence, but producing two coherent pages imposed a minimum cost.
+Suppose a teacher wants students to understand the causes of a historical event and assigns a two-page summary. Before generative AI, an adequate summary usually required the student to encounter the material somehow. The student might read carefully, skim, borrow language, or assemble several sources badly. The assignment was imperfect evidence, but producing two coherent pages imposed some cost that was related, however loosely, to engagement with the material.
 
-Now that minimum cost can approach zero.
+That cost can now approach zero.
 
 The student can submit two coherent pages without acquiring much historical structure at all.
 
@@ -86,81 +82,73 @@ The old assignment has not become immoral.
 
 It has become less informative.
 
-That is a different kind of failure.
+That is the crisis of inference.
 
-A thermometer can be perfectly well made and still become useless if the thing being measured no longer changes the mercury.
-
-AI is breaking educational thermometers.
-
-The result is a crisis of inference.
-
-Teachers need to know what students know. Students need grades and credentials that communicate something to other institutions. Colleges need to decide who is prepared for advanced work. Employers use degrees partly because they cannot directly observe every capability of every applicant. Parents want some evidence that time spent in school is producing development rather than attendance.
+Teachers need to know what students know. Colleges need evidence that applicants are prepared for advanced work. Employers use credentials partly because they cannot directly observe every capability of every candidate. Parents want some reason to believe that time spent in school is producing development rather than merely attendance.
 
 Much of education depends on making invisible learning visible.
 
-AI can manufacture some of the visibility.
+Generative AI can manufacture some of the visibility.
 
-This does not mean that every take-home assignment is dead. It means its evidentiary role has to be reconsidered.
+A polished essay may still represent excellent learning. It may have been written independently, revised with AI, heavily generated and carefully judged, or generated almost entirely by a system the student barely understood.
 
-A take-home essay may still be excellent for practice. A student can use AI in the process, compare drafts, receive critique, test a thesis, or revise repeatedly. The teacher may care less about proving that every sentence originated in the student's unaided mind and more about whether the student can produce a strong argument using the tools available.
+The artifact alone tells the teacher less than it used to.
 
-But if the same essay is used to certify independent writing ability, the institution has a problem.
+That does not kill the take-home assignment.
 
-One artifact is being asked to serve two purposes that now conflict.
+It changes what the assignment can safely be used to claim.
+
+A take-home essay may remain excellent practice. A student can use a model to test a thesis, compare structures, receive critique, or find counterarguments. The teacher may care less about whether every sentence originated unaided and more about whether the student can use modern tools to build a strong argument responsibly.
+
+But if the same essay is also supposed to certify independent writing ability, the institution has a different problem.
+
+One artifact is being asked to serve two purposes whose conditions are separating.
 
 Learning with assistance and proving independent capability are not the same task.
 
-Schools will increasingly have to separate them.
+Education has often blurred them because the blur was convenient.
 
-This separation already exists in other domains.
+Homework is the obvious example. It is supposed to help the student learn and show the teacher what the student can do. Those goals fit together when the conditions of production are roughly stable. They diverge when powerful assistance can participate invisibly.
 
-An athlete trains with coaches, video, equipment, teammates, and feedback. Competition then specifies what assistance is allowed. A pilot learns inside systems full of instrumentation and automation but also demonstrates particular capabilities under controlled conditions. A musician may practice with a metronome, teacher, recording, score, and software, then perform under another set of constraints.
+Schools will increasingly have to say which job an assignment is doing.
 
-Education often blurs practice and performance.
+If the purpose is practice, help can be generous.
 
-Homework sits in the blur.
+If the purpose is diagnosis, the teacher needs to see enough of the student before the help arrives.
 
-It is supposed to help the student learn and show the teacher what the student can do. Those goals fit together when the conditions of production are roughly stable. They diverge when a powerful external intelligence can participate invisibly.
+If the purpose is certification, the conditions have to support the capability being certified.
 
-The obvious institutional response is surveillance.
+If the purpose is professional performance with tools, using the tools may belong inside the assessment rather than outside it.
 
-Watch the browser. Lock the device. Analyze the prose. Require keystroke histories. Compare writing samples. Force students into controlled environments. Move more assessment into classrooms. Ask for oral defenses. Return to paper.
+This is less tidy than one school-wide rule.
 
-Some of this will be necessary.
+It is also closer to the truth.
 
-Certification requires controlled evidence somewhere.
+The obvious institutional temptation is to restore the old inference by increasing control.
 
-But surveillance alone cannot solve a design problem.
+Watch the browser. Lock the device. Compare writing samples. Require version histories. Move more work into classrooms. Return to paper. Ask for oral defenses. Run prose through detectors.
 
-If an assignment can only preserve its meaning by pretending the relevant technology does not exist, the institution should ask whether the assignment is measuring a capability worth isolating, or merely protecting a familiar format.
+Some controlled assessment will remain necessary.
 
-Sometimes the answer will be yes.
+If a school claims that a student can do something independently, there must be some moment when independent performance is actually observed.
 
-Students should still be able to read without a model summarizing every paragraph. They should still be able to write sentences without asking for each sentence. They should still build enough arithmetic fluency to notice when a calculator input is wrong. They should still know enough history to recognize a chronology that makes no sense. They should still learn the vocabulary of a field before delegating synthesis to a tool whose output they cannot evaluate.
+But surveillance cannot repair a weak assignment by itself.
 
-Independent capability matters because dependence is fragile.
+If an assignment preserves its meaning only when the relevant technology is hidden from the student, the institution should ask what capability it is protecting.
 
-It also matters because some cognitive abilities are not merely instruments for producing output. They change what a person can notice.
+Sometimes the answer will be important.
 
-Vocabulary changes reading.
+Students should still learn to read difficult text without outsourcing every paragraph. They should still write enough to discover how sentences expose vague thought. They should build enough arithmetic fluency to notice when an input is implausible. They should know enough history to recognize a chronology that cannot be right. They should learn enough of a field’s vocabulary and structure to judge the assistance they later receive.
 
-Background knowledge changes comprehension.
+Those capabilities matter because knowledge changes what a person can notice.
 
-Mathematical fluency changes what patterns become visible.
+The difficult part is separating them from the friction school inherited by accident.
 
-Writing changes thought because a vague idea often reveals its vagueness only when a person tries to place it into a sentence that another person could understand.
+A student who spends twenty minutes deciphering unclear instructions is not necessarily learning perseverance. A dyslexic student forced to spend disproportionate effort decoding text in a biology lesson may be practicing the wrong thing. A beginner blocked for an hour by a tiny programming mistake may learn more from a well-timed hint than from another hour of staring.
 
-If AI removes every moment at which confusion becomes uncomfortable, it may remove some of the moments in which learning begins.
+Difficulty is not automatically educational.
 
-This is the strongest case against turning the classroom into a frictionless production environment.
-
-Friction is not automatically educational.
-
-A student struggling for twenty minutes because the instructions are unclear is not receiving a gift. A dyslexic student forced to spend disproportionate effort decoding text when the lesson is about biology is not necessarily building a useful capability. A beginner blocked by a tiny programming error may learn more from a good hint than from another hour of staring at the screen.
-
-The useful question is not whether difficulty is good.
-
-It is which difficulty is doing the teaching.
+The question is which difficulty is doing the teaching.
 
 AI can remove the wrong difficulty and preserve the right one.
 
@@ -168,120 +156,92 @@ It can also do the reverse.
 
 Imagine a student learning algebra.
 
-The student reaches a problem and does not know what to do. An AI tutor could ask what the student notices, offer a smaller example, identify the first mistaken step, or give a hint calibrated to keep the student working. That kind of assistance preserves the core act of solving while reducing the chance that confusion turns into abandonment.
+The student reaches a problem and does not know what to do. A tutor could ask what the student notices, offer a smaller example, identify the first mistaken step, or give a hint that keeps the student inside the problem.
 
-The same system could simply provide the answer and a polished explanation.
+The same system could simply provide the answer and a clean explanation.
 
 Both interactions look helpful.
 
-Only one requires the student to remain cognitively inside the problem.
+Only one requires the student to keep solving.
 
-This is going to be one of the central design questions of AI education: how much help can a system provide before help becomes substitution?
+This is where the debate moves beyond tools and into roles.
 
-There will not be one universal answer.
+A professional programmer may reasonably delegate boilerplate that a beginner needs to write by hand. A fluent writer may use AI to explore structures while a young writer still needs practice creating a paragraph from scratch. A graduate student may use a model to interrogate competing interpretations of a paper while an introductory student still needs to learn the concepts that make those interpretations legible.
 
-The amount depends on the learner, the subject, the stage of learning, and the capability being built.
+The same software can serve all of them.
 
-A professional programmer may reasonably delegate boilerplate code that a beginner needs to write by hand. A fluent writer may use AI to explore alternative structures while a young student still needs practice creating a paragraph from scratch. A graduate student may use a model to interrogate competing interpretations of a paper while an introductory student still needs to learn what the basic concepts mean.
+The interface does not know which capability the user is trying to build.
 
-Expert tools and learning tools are not identical.
+The educator has to know.
 
-That distinction will become harder to maintain because the same software can serve both roles.
+This is why adults and students can look at the same assignment and see different things.
 
-The model does not know whether the user is a professional trying to save time or a student trying to build the skill the professional already has.
+Adults remember the struggle required to learn a capability and worry that the struggle is being removed.
 
-The interface looks the same.
+Students see a tool that can eliminate tedious work and wonder why the tedium deserves protection.
 
-The educational objective does not.
+Both can be right.
 
-This helps explain why debates about AI in school become emotionally charged so quickly.
-
-Adults see a tool that can perform tasks they once had to struggle through and infer that the struggle is being stolen.
-
-Students see a tool that can remove tedious work and infer that adults are defending tedium because they endured it first.
-
-Both can be right about particular assignments.
-
-Some educational struggle is load-bearing.
+Some struggle is load-bearing.
 
 Some is inherited bureaucracy.
 
-AI forces institutions to tell the difference.
+The homework machine forces the institution to tell the difference.
 
-The homework machine is therefore not just a machine for doing homework.
+That makes the assignment itself more demanding to design.
 
-It is a test of whether schools know why they assign homework in the first place.
+A teacher can no longer assume that useful cognitive work will occur somewhere inside a familiar format merely because it used to.
 
-If the purpose is retrieval practice, the student may need to answer before seeing help.
+If the purpose is retrieval practice, students may need to answer before seeing help.
 
-If the purpose is revision, AI feedback may be useful as long as the student remains responsible for judging it.
+If the purpose is revision, AI critique may be useful as long as the student still judges what to accept.
 
-If the purpose is research, the assignment may need to emphasize source quality, provenance, and decisions rather than the mere existence of a summary.
+If the purpose is research, the assignment may need to expose source choice, provenance, and reasoning rather than reward the existence of a summary.
 
 If the purpose is writing fluency, the first draft may need to happen without generation.
 
-If the purpose is professional communication, using AI may be part of the capability being taught.
+If the purpose is professional communication, using AI may be part of the capability itself.
 
-If the purpose is independent certification, the institution may need an environment where assistance is controlled.
+If the purpose is independent certification, the institution needs evidence gathered under conditions it can explain.
 
 The same technology can be forbidden, permitted, required, or irrelevant depending on the objective.
 
-This is more complicated than a single school policy.
+That variability is not inconsistency.
 
-It is also more honest.
+It is design.
 
-A blanket ban has the advantage of simplicity. So does blanket permission. Both move the difficult decision away from the assignment designer and place it into a rule.
+Better design also changes what teachers ask students to make visible.
 
-But education is made of assignments.
+A finished artifact may be accompanied by a short defense of the main decision. A student might compare a machine answer with an independent attempt, explain why one source was trusted and another rejected, solve a neighboring problem in class, reconstruct a process, or identify the suggestion that changed the argument most.
 
-The intelligence dilemma lives at that level.
+The point is not to turn every assignment into an audit trail.
 
-What should the learner still have to carry?
+It is to collect evidence where the old artifact no longer carries enough.
 
-What can the learner safely hand to the machine?
+Sometimes the right response will be to assign less.
 
-What evidence will show that the capability survived the delegation?
-
-These questions lead to a more demanding version of educational design because teachers can no longer rely on the old friction of production to do hidden work for them.
-
-The assignment has to expose the learning more directly.
-
-That may mean asking students to annotate decisions, defend an argument orally, compare their answer with a model's answer, revise after critique, solve a new version in class, explain why a source deserves trust, reconstruct a process, or apply the same idea in a context the homework did not contain.
-
-It may mean less grading of polished output and more attention to judgment.
-
-It may also mean fewer assignments.
-
-If AI can complete an assignment convincingly without learning, and the teacher cannot explain what cognitive act the assignment is meant to exercise, the answer may not be a more elaborate detection system.
+If AI can complete a task convincingly without learning, and no one can explain what cognitive act the task is meant to exercise, the answer may not be a more elaborate detection system.
 
 The answer may be to stop assigning it.
 
 That is not surrender to technology.
 
-It is the opposite.
-
 It is refusing to confuse a school-shaped object with education.
 
-The arrival of generative AI makes this possible because it destroys the convenience of ambiguity.
+For years, familiar assignments could hide a certain amount of ambiguity. Useful learning probably occurred somewhere between prompt and submission, and the institution could proceed as though the finished product represented it well enough.
 
-Before, an institution could assign a familiar task and assume that useful learning probably occurred somewhere inside it.
+Now the finished product can arrive while much of the path is missing.
 
-Now the task can arrive perfectly completed while the learning never happened.
+The ambiguity has become visible.
 
-The separation can no longer be ignored.
-
-This is why the homework machine may eventually improve education even as it destabilizes it.
-
-It is forcing schools to inspect their own proxies.
+That may eventually improve education.
 
 A good education cannot be defined as the production of documents that resemble the documents educated people produce.
 
-A student is not a bundle of outputs.
+The documents matter. They can be practice, evidence, communication, and sometimes the work itself.
 
-The point is to build a mind capable of doing something with the world.
+But the student is not a bundle of outputs.
 
-The outputs matter because they are evidence, practice, communication, and sometimes the work itself.
+The institution needs to know what capability sits underneath them.
 
-But once machines can produce the outputs, schools have to become much better at identifying what belongs underneath them.
-
-That is where the real argument about AI in the classroom begins.
+Once machines can produce the output, that question can no longer remain implicit.
