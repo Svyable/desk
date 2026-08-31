@@ -50,7 +50,20 @@ The conclusion should therefore preserve two claims at once:
 
 That makes the book’s final standard more defensible than either abundance or sufficiency alone: **judge an energy system by the reliable human capabilities it makes possible relative to its total burdens—not by throughput itself and not by a single universal consumption ceiling.**
 
+## Institutional counterevidence: energy is mediated by provisioning systems
+
+Vogel, Steinberger, O’Neill, Lamb, and Krishnakumar (2021) provide a stronger challenge to any residual version of an energy-first story. Using data for 106 countries, they modeled six dimensions of human need satisfaction against final energy use and a set of social provisioning factors. Public-service quality, income equality, democratic quality, electricity access, clean-fuel access, transport infrastructure, and public-health coverage were associated with higher need satisfaction and, in several cases, lower energy requirements for reaching it. High energy use by itself was not sufficient: in their sample, some countries consuming above 60 GJ per person of final energy still failed to meet all assessed needs.
+
+Source: https://doi.org/10.1016/j.gloenvcha.2021.102287
+
+This is valuable counterevidence for the book because it moves beyond the claim that well-being merely plateaus with energy use. It suggests that institutions and provisioning systems help determine the conversion efficiency from energy into human outcomes. Two societies with similar energy throughput can sit at very different points on the capability frontier because public services, inequality, infrastructure, and access change how physical resources become lived services.
+
+The result should not be overstated. Vogel et al. is a cross-country observational study, not a randomized intervention or a structural causal estimate. Several provisioning variables correlate with income and with one another, and the paper’s “sufficient need satisfaction” thresholds are normative measurement choices rather than natural constants. The study therefore cannot establish that improving any one institutional variable will mechanically reduce a country’s energy requirement by a predictable amount.
+
+The strongest manuscript implication is narrower and more useful: **energy expands the feasible set, but institutions determine how much of that physical possibility is converted into broadly shared capability.** If that sentence cannot survive the evidence, the book’s core thesis is too strong.
+
 ## Source links
 
 - Steinberger & Roberts (2010), *From constraint to sufficiency: The decoupling of energy and carbon from human needs, 1975–2005*: https://doi.org/10.1016/j.ecolecon.2010.09.014
 - Jackson et al. (2022), *Human well-being and per capita energy use*: https://doi.org/10.1002/ecs2.3978
+- Vogel et al. (2021), *Socio-economic conditions for satisfying human needs at low energy use: An international analysis of social provisioning*: https://doi.org/10.1016/j.gloenvcha.2021.102287
