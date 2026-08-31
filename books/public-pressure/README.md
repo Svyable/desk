@@ -40,6 +40,7 @@ The constructive argument is institutional. Powerful automated systems become mo
 - [x] [Ch 21 — The Cost of Being Wrong](manuscript/ch21-the-cost-of-being-wrong.md)
 - [x] [Ch 22 — The Permission to Say No](manuscript/ch22-the-permission-to-say-no.md)
 - [x] [Ch 23 — Public Pressure](manuscript/ch23-public-pressure.md)
+- [x] [Notes on Cases and Sources](manuscript/notes-on-cases-and-sources.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
