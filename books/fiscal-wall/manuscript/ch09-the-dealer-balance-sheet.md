@@ -279,3 +279,149 @@ The government can issue only as smoothly as the market can carry the securities
 The bridge is strong.
 
 It is carrying more weight than ever.
+
+The phrase *dealer balance sheet* can make the constraint sound more physical than it is.
+
+There is no warehouse wall inside a bank where a red light turns on at exactly one trillion dollars of inventory.
+
+Capacity is the result of several overlapping limits.
+
+A trading desk has a risk appetite set by management. The firm has regulatory capital and leverage requirements. Treasury positions create market risk even when credit risk is negligible. Repo financing can become more or less expensive. Value-at-risk models respond to volatility. Internal stress tests can tighten limits when price moves become larger. Quarter-end reporting can make balance-sheet usage more expensive at particular moments. Client demand determines how quickly inventory turns over.
+
+The practical limit is whichever one becomes expensive first.
+
+This is why dealer capacity can shrink during the exact episode in which the market needs more of it.
+
+Volatility rises.
+
+Risk models react.
+
+Funding haircuts or spreads can widen.
+
+Management becomes more cautious.
+
+Clients ask for liquidity.
+
+The same balance sheet that comfortably intermediated a huge volume in calm markets suddenly carries less usable capacity.
+
+Capacity is state-dependent.
+
+That makes comparisons between Treasury-market size and aggregate bank assets misleading. A dealer's parent company can have an enormous balance sheet without devoting all of it to low-margin government-bond intermediation. The relevant question is not how many assets the bank owns in total. It is what return the next unit of Treasury activity earns after capital, leverage, funding, hedging, and operational costs.
+
+The fiscal wall raises that question repeatedly because auctions keep arriving regardless of the dealer's preferred timing.
+
+This is another reason end-investor demand matters so much. The faster real-money buyers take securities off dealer books, the more inventory capacity can be recycled. A well-priced auction attracts pension funds, asset managers, foreign institutions, banks, and households. Dealers become conduits rather than permanent holders.
+
+The difference between a healthy and unhealthy market can therefore be turnover rather than total balance sheet.
+
+Imagine two dealers with identical capital.
+
+The first receives ten billion dollars of new notes in an auction and distributes nine billion to clients before the day ends. The second receives the same amount but can sell only two billion. On paper both began with the same auction exposure. By the next morning their capacity to absorb another wave of selling is very different.
+
+Inventory velocity is part of market resilience.
+
+This is why a weak auction followed by strong secondary buying can matter differently from a weak auction followed by persistent dealer inventory. The first may represent a temporary pricing mismatch. The second can indicate that the end-buyer clearing price still has not been found.
+
+Treasury does not publish one statistic called *dealer discomfort*.
+
+Analysts infer it from holdings, financing, spreads, market depth, auction awards, and behavior around stress.
+
+That uncertainty should make the rhetoric more careful, not less.
+
+Regulation belongs in the story because it changes the cost function rather than simply adding or subtracting capacity.
+
+The supplementary leverage ratio is a good example. It is intentionally insensitive to the risk weight of an asset: a dollar of Treasury exposure still contributes to the leverage exposure measure. That simplicity helps prevent banks from becoming dangerously leveraged through assets that internal models claim are nearly riskless.
+
+But simplicity can become blunt in a market whose core asset is itself expanding rapidly.
+
+If a dealer near a leverage constraint intermediates a matched Treasury repo book—borrowing against Treasuries from one client and lending against Treasuries to another—the economic risk can be small while the gross exposures remain large. Central clearing and better netting can reduce some of that grossness without weakening the loss-absorbing capital behind actual risk.
+
+This is why the best reform question is not *should Treasuries be exempt because they are safe?*
+
+It is *how much genuinely offsetting low-risk intermediation can be netted without reopening the leverage problems the rule was designed to prevent?*
+
+That is harder and more useful.
+
+The answer also depends on who clears.
+
+A central counterparty can stand between buyers and sellers, replace a web of bilateral exposures with standardized obligations, and allow participants to net offsetting positions more efficiently. For a dealer interacting with many clients, the reduction in gross exposure can be substantial in principle.
+
+But clearing does not eliminate risk.
+
+It reorganizes it.
+
+The central counterparty becomes critically important. Margin rules determine how much liquidity participants need during volatility. Default funds and membership standards determine who bears losses if a participant fails. Clients that previously relied on bilateral relationships need operational access to the new structure.
+
+The transition is therefore a stress test of its own.
+
+A firm that gains balance-sheet efficiency after central clearing may still need more cash or high-quality collateral for margin during a shock. The system can become safer against counterparty default while more demanding in terms of immediate liquidity.
+
+Both statements can be true.
+
+This matters for the basis trade.
+
+Federal Reserve research published in 2026 estimated very large gross Treasury exposures among large hedge funds and substantial repo borrowing, with an estimated cash-futures basis position that remained significant. The estimates come with data limitations and should not be converted into a single crisis number.
+
+The important feature is the financing chain.
+
+A fund buys cash Treasuries.
+
+A dealer finances them in repo.
+
+The fund sells futures.
+
+The futures position is margined through clearing infrastructure.
+
+Small changes in relative price can be multiplied by leverage.
+
+When volatility rises, the trade may require cash on both sides: more margin in futures and more stable repo financing. If many funds pursue similar strategies, the market can experience a synchronized demand for liquidity.
+
+The dealer balance sheet sits in the middle again.
+
+This is why a basis-trade buyer is economically different from a pension buyer even if both own the same note at noon.
+
+The pension's reason for owning the note can survive volatility.
+
+The leveraged fund's reason can disappear when financing terms change.
+
+A resilient Treasury market needs to know the difference before stress, not discover it during liquidation.
+
+Transparency helps, but transparency has limits. Publishing more data can reveal leverage and concentration. It cannot make a dealer willing to take the other side of every trade. Rules can reduce counterparty risk. They cannot eliminate the need for someone to bear market risk while prices adjust.
+
+Ultimately, price remains the release valve.
+
+If dealer inventory is heavy, yields can rise enough to attract end buyers.
+
+That is not market failure.
+
+It is market clearing.
+
+The fiscal problem begins when this release valve has to open wider, more often, because the government's net supply grows faster than the intermediation system and end-buyer base.
+
+Then a technical fact about balance-sheet cost becomes a persistent term in the federal interest bill.
+
+This is where the bridge metaphor becomes exact.
+
+A bridge can handle more cars by widening lanes, improving toll collection, smoothing traffic, encouraging off-peak travel, or building another crossing. Those are market-structure reforms.
+
+It can also handle more cars by slowing them down until congestion clears.
+
+That is price.
+
+The Treasury market is doing both at once.
+
+Central clearing is widening some lanes.
+
+Electronic trading is changing routing.
+
+All-to-all models can reduce dependence on traditional dealer intermediation in some segments.
+
+Buybacks can help liquidity in older securities.
+
+Standing repo can provide an emergency route for good collateral.
+
+Meanwhile yields remain the toll that balances supply and demand.
+
+The fiscal wall is not a prediction that the bridge collapses.
+
+It is the recognition that an expanding sovereign balance sheet cannot assume the bridge's capacity grows for free.
