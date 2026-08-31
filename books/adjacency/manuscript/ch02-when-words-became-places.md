@@ -239,3 +239,119 @@ The deeper breakthrough was not that computers learned a new trick for language.
 It was that more of the world became representable as somewhere you could stand and ask:
 
 What is near here?
+
+## From One Address to Moving Coordinates
+
+The phrase *word embedding* still encourages an older intuition: each word owns a coordinate the way a house owns an address.
+
+That was close enough for the first wave of popular demonstrations. It becomes misleading once context enters the picture.
+
+Take the word *charge*.
+
+A battery has charge. A prosecutor files a charge. A restaurant adds a charge. A cavalry unit can charge. A particle carries electric charge. A person can be in charge.
+
+If the machine must assign one permanent location to the string, all of these uses pull on the same point. The resulting vector may preserve broad relations, but it cannot cleanly express which meaning matters in a particular sentence.
+
+Contextual models altered the unit of representation. The token inside the sentence becomes the thing that receives a representation. *Charge* in a battery manual and *charge* in a criminal complaint can occupy different regions because surrounding language changes the internal state produced by the model.
+
+Meaning becomes less like an entry in a gazetteer and more like a coordinate generated for the current situation.
+
+This helps explain why modern retrieval can feel qualitatively different from synonym expansion.
+
+A synonym list says that certain words may substitute for one another under some circumstances. A contextual representation can use an entire sentence to determine which circumstance it is in. The query “the laptop will not hold a charge” and the query “the defendant disputes the charge” share the same noun. Their useful neighborhoods should have almost nothing else in common.
+
+The system is not merely expanding the word.
+
+It is placing the utterance.
+
+This transition from static to contextual representation also changed what researchers meant by a feature. Older machine-learning systems often relied on features designed or counted explicitly: term frequency, document length, particular character patterns, handcrafted linguistic attributes. Neural representations increasingly learn features distributed through many internal dimensions.
+
+The advantage is adaptability.
+
+A useful distinction does not need to have been named by the engineer in advance.
+
+The cost is inspectability.
+
+If a model retrieves two passages because of a thousand-dimensional pattern, a human may not be able to point to one coordinate and say: that is why. We can inspect examples, perturb inputs, compare neighborhoods and evaluate behavior, but the representation itself is less transparent than a field called `jurisdiction` or a tag called `thermoelectric`.
+
+This is why modern discovery systems increasingly combine learned and explicit representation rather than choosing one.
+
+A document can have an embedding and a date.
+
+A person can have a learned profile and an explicit credential.
+
+A product can have a visual vector and a SKU.
+
+A paper can have semantic coordinates and a citation graph.
+
+A molecule can have a learned representation and a known formula.
+
+The learned layer helps the system see relations we did not specify. The explicit layer preserves facts whose exact identity we cannot afford to blur.
+
+The distinction resembles the difference between recognition and recordkeeping.
+
+You may recognize a person across lighting, age and hairstyle because your perceptual system tolerates variation. A passport office cannot issue a document on the basis of “this person looks semantically similar to the traveler.” It needs identifiers, dates and authority.
+
+Intelligence benefits from flexible representation.
+
+Institutions also need hard edges.
+
+This tension runs through nearly every application of embeddings. The better a representation becomes at collapsing superficial variation, the more important it is to ask whether it might also collapse a consequential difference.
+
+A legal retrieval model should treat two differently phrased statements of the same rule as close. It should not erase the difference between controlling and noncontrolling authority.
+
+A medical search model should recognize descriptions of the same symptom in different language. It should not treat “no evidence of fracture” as interchangeable with “evidence of fracture.”
+
+A product model should connect “weatherproof hiking shell” with “water-resistant outdoor jacket.” It still needs to respect size, price, availability and the fact that water-resistant and waterproof are not always equivalent.
+
+Representation learning therefore moves the burden of system design rather than eliminating it.
+
+Once a model can generalize across wording, engineers and domain experts have to become more explicit about the distinctions that must survive generalization.
+
+The old failure was brittleness.
+
+The new failure can be over-smoothing.
+
+A brittle search engine says two things are different because the words differ.
+
+An over-smoothed semantic system says two things are the same because the broad meaning looks alike.
+
+Good discovery lives between those errors.
+
+This is another reason the history from strings to vectors should not be told as a march from primitive symbols toward perfect meaning. Symbols have virtues. They are stable, inspectable and exact. A serial number is useful precisely because it refuses to be semantically creative. A legal citation is powerful because the string resolves to a particular authority. A gene identifier, coordinate, timestamp or checksum earns its value by being stubbornly itself.
+
+Vectors add a second capability.
+
+They let the system be usefully imprecise.
+
+That phrase sounds contradictory until we notice how often human thought depends on it.
+
+We recognize an analogy before proving it. We say two songs feel similar before naming the harmonic reason. We recall that a current problem resembles a past one before locating the old report. We form a category whose boundaries remain fuzzy until a difficult case forces precision.
+
+Useful imprecision is the bridge into exploration.
+
+Exactness is the bridge back into verification.
+
+The most capable information systems will move between them deliberately.
+
+Begin in the vector space when you do not yet know the exact name.
+
+Move into identifiers, metadata, graphs and source text when the distinction becomes consequential.
+
+Then return to the vector space when the next question widens again.
+
+This makes discovery less like a single lookup and more like a change of representational gears.
+
+The history of embeddings matters because it gave computers a new gear.
+
+Before, identity was easy and relation was expensive.
+
+Now many relations can be approximated cheaply enough to search.
+
+The result is not that words stopped being symbols.
+
+It is that symbols acquired neighborhoods that move with context.
+
+And once coordinates can move, the machine is no longer only asking where a word lives.
+
+It can begin asking where this meaning lives *now*.
