@@ -40,6 +40,20 @@ CMS’s 2024 interoperability and prior-authorization final rule provides a clea
 
 Those details matter to Chapters 4 and 18 because they turn “meaningful appeal” into design questions: reason-giving, a harm-sensitive clock, and measurable reversal.
 
+### The nH Predict litigation
+
+The lawsuit discussed in Chapter 1 is a useful example of why procedural status must be stated precisely. In its February 13, 2025 ruling on the motion to dismiss, the U.S. District Court for the District of Minnesota held that the Medicare exhaustion requirement applied, but waived exhaustion on futility grounds. The court dismissed five state-law causes of action as preempted while allowing breach-of-contract and implied-covenant claims to proceed.
+
+[District of Minnesota — *Estate of Gene B. Lokken et al. v. UnitedHealth Group Inc. et al.*, order on motion to dismiss](https://law.justia.com/cases/federal/district-courts/minnesota/mndce/0%3A2023cv03514/211721/91/) (`lokken-dismissal-2025`)
+
+The surviving claims did not amount to a finding that the plaintiffs’ account of nH Predict was true. The litigation moved into discovery. In March 2026, a magistrate judge granted in part a motion to compel, requiring production of certain material concerning nH Predict’s development and use and relevant government investigations while rejecting or narrowing other requests.
+
+[District of Minnesota — *Lokken*, order on motion to compel discovery](https://law.justia.com/cases/federal/district-courts/minnesota/mndce/0%3A2023cv03514/211721/162/) (`lokken-discovery-2026`)
+
+As of late August 2026, the putative class action remained active, with discovery and pretrial scheduling continuing. That status should be checked again before release rather than converted into a permanent statement about the merits.
+
+[Georgetown O’Neill Institute — Health Care Litigation Tracker, *Lokken* case page](https://litigationtracker.law.georgetown.edu/litigation/estate-of-gene-b-lokken-the-et-al-v-unitedhealth-group-inc-et-al/) (`lokken-status-2026`)
+
 ## Chapter 5: automated hiring
 
 The Department of Justice and Equal Employment Opportunity Commission guidance used in the hiring chapter is deliberately modest evidence. It shows how existing disability law can apply when employers use algorithmic or AI-enabled hiring tools. It does not establish that every automated assessment is discriminatory or that human screening is inherently fairer.
