@@ -7,7 +7,7 @@
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Form** | Essay / narrative nonfiction |
-| **Chapters** | 1 working manuscript |
+| **Chapters** | 1 working manuscript + 1 companion chapter |
 
 ## Premise
 
@@ -16,6 +16,7 @@ Artificial intelligence can make public administration dramatically cheaper. The
 ## Contents
 
 - [x] [Working manuscript](manuscript/austerity-measures.md)
+- [x] [Companion chapter — The Headcount Illusion](manuscript/ch02-the-headcount-illusion.md)
 
 ## Research
 
