@@ -178,7 +178,79 @@ Negotiation is a standard too.
 
 It requires shared vocabulary and rules about what happens when no agreement exists.
 
-This last part is often neglected.
+The current North American transition in electric-vehicle charging turns all of these ideas into a single piece of hardware you can hold in one hand.
+
+For years, electric vehicles in North America used several connector families. Tesla developed its own connector and a large charging network around it. Other vehicles commonly used the Combined Charging System, with CHAdeMO also present in the installed base. Drivers learned a new version of the traveler's plug problem: a charging station could be physically close and electrically capable yet useless to a particular car without the right connector or adapter.
+
+Then market momentum changed.
+
+Beginning in 2023, multiple automakers announced plans to adopt the Tesla-developed connector lineage. SAE International started an expedited standards process around it. In December 2023 SAE published the J3400 Technical Information Report, and the standards process continued toward a formal recommended practice. The point was not merely to bless a winning shape. Opening and standardizing the interface meant suppliers and manufacturers other than the original developer could build vehicles and charging equipment around a public technical framework.
+
+This is a revealing route to a standard.
+
+Textbooks often imagine a committee evaluating several designs before the market commits. Here the market moved first. A proprietary or de facto interface accumulated a substantial installed network, users and manufacturing experience. Formal standardization followed the installed base.
+
+That sequence changes the politics.
+
+The standard is not selecting on a blank page. It is converting an ecosystem's momentum into shared infrastructure while trying to preserve competition around the interface.
+
+There is a competition-policy dimension hiding inside the connector.
+
+A widely adopted physical interface can remain controlled in ways that make competitors dependent on one owner, or it can become specified broadly enough that many suppliers can manufacture compatible equipment. The geometry may look identical in both worlds. The institutional difference is who can implement it, under what rights, with what testing, and with what confidence that the rules will not change unilaterally.
+
+This is why “open” cannot be inferred from appearance.
+
+A plug can be physically common and institutionally closed.
+
+A standardization process can turn common use into common implementability.
+
+The transition still needs adapters.
+
+Vehicles already on the road do not grow new inlets when a standards body publishes a document. Chargers already poured into concrete do not replace their cables overnight. The Joint Office of Energy and Transportation describes adapters as part of the transition, and federal charging rules have had to accommodate multiple connector types while requirements evolve.
+
+This is the installed-base problem in a new costume.
+
+The connector war may appear to end while the adapter economy expands temporarily.
+
+That is normal.
+
+Convergence at the destination can require more translation during the journey.
+
+The EV case also shows why the plug is only the visible layer. Reliable charging depends on far more than mechanical fit. Vehicle and charger must communicate. Power has to be delivered within safe electrical limits. Billing and authentication may occur. Charging networks need backend communication. “Plug and charge” systems add identity and cryptographic infrastructure. Measurement has to be accurate enough for commerce.
+
+A driver experiences one action.
+
+The standards stack experiences many agreements.
+
+The Joint Office's own interoperability work spans the J3400 connector, ISO 15118 communication, public-key infrastructure, metrology, and backend charging protocols. The physical connector is necessary and insufficient.
+
+This is the same warning we saw with household travel adapters.
+
+Making the shape fit solves one layer.
+
+A mature system needs the layers behind it to agree about what the connection means.
+
+That distinction will matter enormously for agents because natural-language interfaces can make semantic mismatches look resolved. Two agents may exchange fluent prose and appear to understand each other. Underneath, one may interpret a commitment as revocable until shipment while the other interprets it as final at authorization. Conversation has made the plug fit. The contract voltage is still wrong.
+
+The EV transition offers one more lesson: standards can formalize a de facto winner without requiring the winner to remain the only supplier.
+
+This is often the realistic compromise between purity and installed-base economics.
+
+Starting over with a technically pristine connector could destroy network value already built. Leaving a dominant proprietary interface entirely private could turn compatibility into dependence on one company. Standardizing the interface can preserve much of the installed value while opening room for independent implementation.
+
+It is not automatically fair. Governance, patents, certification, access to networks and implementation details still matter.
+
+But it creates a seam where competition can occur without forcing every participant to repeat the entire coordination battle.
+
+This is compatibility policy in physical form.
+
+The same pattern may recur in agent standards. A vendor-developed protocol can become popular before a neutral standards institution catches up. The choice will not always be between “open standard” and “proprietary system” at birth. It may be whether a successful de facto interface can be made portable enough that its ecosystem no longer depends on the original sponsor's discretion.
+
+That transition is difficult precisely because success created the leverage.
+
+The standardizer arrives after the network effect.
+
+The work is to domesticate it without killing it.
 
 A negotiation protocol needs a safe failure state.
 
