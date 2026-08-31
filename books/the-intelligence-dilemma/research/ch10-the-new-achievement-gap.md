@@ -50,6 +50,23 @@ Examine whether abundant AI assistance narrows educational inequality or shifts 
 - Use in chapter: evidence against treating GenAI as uniformly harmful or uniformly beneficial and support for contextual heterogeneity.
 - Limitation: higher education only; pooled literature includes varied designs and outcomes and should not be converted into one universal effect claim.
 
+### OECD (2025), “The impact of digital technologies on students’ learning”
+
+- Source: OECD Education Working Paper.
+- URL: https://www.oecd.org/en/publications/the-impact-of-digital-technologies-on-students-learning_9997e7b3-en.html
+- Method: literature review drawing on systematic reviews, meta-analyses, and empirical studies across major categories of digital educational tools.
+- What it supports: access to digital technology alone does not guarantee educational gain; outcomes depend substantially on pedagogy, implementation, and context rather than technical provision by itself.
+- Use in chapter: anchors the historical analogy between earlier educational technology deployment and AI. The chapter uses it to support the distinction between license/device access and actual learning benefit.
+- Limitation: covers digital technology broadly, not generative AI specifically; it should inform mechanism and implementation claims rather than direct estimates of AI effects.
+
+### UNESCO (2023), *Global Education Monitoring Report: Technology in education — A tool on whose terms?*
+
+- Report page: https://gem-report-2023.unesco.org/technology-in-education/
+- UNESCO summary: https://www.unesco.org/en/articles/global-education-monitoring-report-summary-2023-technology-education-tool-whose-terms-hin
+- What it supports: digital access remains unequal; disadvantaged learners tend to have fewer devices, weaker connectivity, and fewer supporting resources at home. The report frames effective educational technology as depending on infrastructure, teacher preparation, relevant content, digital skills, regulation, and inclusion.
+- Use in chapter: supports the claim that AI tutoring still arrives through a wider stack of devices, connectivity, accounts, interfaces, school capacity, and household conditions, and that universal nominal availability does not imply equal effective access.
+- Limitation: the core report predates the current wave of school-level generative AI deployment. It is used for the enduring technology-equity mechanism, not as evidence of present AI-specific achievement effects.
+
 ### UNESCO guidance on GenAI in education and research
 
 - URL: https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research
@@ -63,6 +80,8 @@ Examine whether abundant AI assistance narrows educational inequality or shifts 
 - It gives the strongest equalizing case substantial space: low-cost tutoring, language support, after-hours help, accessibility, and access to explanations can expand opportunity.
 - It distinguishes tool access from quality of use and durable learning.
 - It does not claim paid tiers are currently a measured major cause of educational achievement gaps; paid access is presented as a plausible implementation variable requiring further reporting.
+- The pandemic-era comparison is used as a mechanism analogy about layered access, not as evidence that AI deployment will reproduce pandemic remote-learning outcomes.
+- The chapter does not treat UNESCO or OECD system-level reviews as causal evidence about generative AI. They establish the older and better-supported proposition that infrastructure and pedagogical implementation mediate educational technology outcomes.
 
 ## Follow-up reporting
 
