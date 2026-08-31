@@ -225,3 +225,129 @@ It is whether the political and fiscal system has adapted to a world in which th
 For a long time, America could borrow from the future at a price that made the future feel far away.
 
 The refinancing cycle brings it closer.
+
+The price of time can be decomposed further by asking a lender a blunt question: what exactly would make you demand another one percentage point?
+
+There is no universal answer.
+
+A money-market fund might demand it because the Federal Reserve lifted the overnight rate. A thirty-year investor might demand it because expected inflation rose. Another might care less about inflation than about the quantity of duration arriving in the market. A foreign buyer might compare the Treasury yield with the cost of hedging dollars back into euros or yen. An insurer might care about the yield relative to the liability it needs to match. A leveraged relative-value trader might care about the spread between a cash Treasury and a futures contract, not the outright level at all.
+
+A sovereign yield is a common price assembled from different private calculations.
+
+That is why the phrase *the bond market thinks* should be used sparingly.
+
+The bond market does not possess one mind. It is a clearing mechanism for institutions with different clocks, regulations, funding arrangements, liabilities, and forecasts. A rise in yield means the previous price no longer balanced those motives. It does not tell us which motive changed without further evidence.
+
+The distinction matters enormously for policy.
+
+Suppose ten-year yields rise because expected real growth improves. New factories are being built. Productivity is accelerating. Private investment opportunities are more attractive, so savers demand a higher real return to hold government bonds instead. Treasury pays more, but federal revenue may also rise as the economy becomes richer.
+
+That is a very different fiscal future from one in which ten-year yields rise because inflation expectations become unanchored.
+
+The same bond price can carry opposing economic stories.
+
+Now suppose short-rate expectations are falling but the ten- and thirty-year yields remain stubbornly high. The curve steepens. Analysts begin talking about term premium.
+
+That phrase can become a convenient container for whatever is unexplained, but the underlying question is real: how much compensation do investors require for holding a long nominal promise rather than repeatedly rolling short ones?
+
+Supply can be part of that compensation.
+
+If Treasury asks private investors to absorb more long-duration bonds at the same time the Federal Reserve owns a smaller share of the market than during peak quantitative easing, the private sector may require a lower bond price—therefore a higher yield—to hold the duration. This can happen without anyone doubting that the principal will be paid.
+
+The fiscal consequence is uncomfortable because it weakens a popular hope.
+
+Policymakers can imagine that once the Federal Reserve begins cutting short rates, the government's financing problem automatically improves. It does at the short end. Bills and floating-rate notes get cheaper relatively quickly. But if long rates remain elevated because term premium, supply, or inflation uncertainty stays high, extending maturity remains expensive.
+
+The government is then offered cheapening short-term time and expensive long-term insurance.
+
+That is a real debt-management dilemma.
+
+There is no formula that resolves it because the right answer depends on futures that have not occurred.
+
+This is where the history of 1994 is useful. The United States did not face a sovereign funding crisis. The Federal Reserve tightened as the economy strengthened, bond yields rose sharply, and investors who had become comfortable with a benign rate environment discovered how much duration they owned. Losses spread through institutions and leveraged strategies even though Treasury credit remained unquestioned.
+
+A rate shock can therefore be a financial event before it is a fiscal event.
+
+On today's larger public balance sheet, it can be both.
+
+The investor marks the bond down immediately.
+
+The government pays the higher rate only as debt rolls.
+
+The financial system experiences the shock in market value; the budget experiences it in cash flow with a lag.
+
+This asymmetry explains why the early years of a rising-rate regime can look deceptively survivable to fiscal policymakers. Market participants have already absorbed losses. Homebuyers have already seen mortgage rates change. Banks have already marked securities lower or watched unrealized losses grow. But the Treasury interest bill is still partly protected by old coupons.
+
+The government gets the news slowly.
+
+That slow transmission is a form of insurance, but it can also become a political trap. Because the full cost is delayed, fiscal policy can remain unchanged during the very period when early adjustment would be easiest.
+
+Then more debt rolls.
+
+The interest line rises after the rate shock that caused it has faded from public attention.
+
+This is one reason the fiscal wall is a problem of timing rather than merely a problem of levels.
+
+A government facing a one-year emergency rate spike can ride through much of it with a diversified maturity profile. A government facing a decade of moderately higher real rates cannot. The calendar gradually converts the temporary protection of fixed coupons into the new steady-state cost.
+
+The difference between a spike and a regime is therefore more important than the difference between four and five percent on one afternoon.
+
+The postwar era offers another lesson about the price of time: a negative real rate can transfer wealth quietly.
+
+If the government pays three percent on a fixed nominal bond while inflation runs at five, the investor loses purchasing power even though every dollar arrives on time. The government's debt burden falls in real terms. Economists studying postwar debt reductions have described combinations of inflation, regulated financial institutions, and negative real rates as forms of debt liquidation or financial repression.
+
+The phrase can be abused. Not every period of negative real rates is a deliberate fiscal strategy, and not every requirement that banks hold safe assets is repression. Still, the episode reveals a basic feature of nominal debt.
+
+The price of time has a real and a nominal component.
+
+A nominally cheap bond can be expensive to the investor if inflation is high.
+
+A nominally expensive bond can be tolerable to the government if nominal growth is even stronger.
+
+This is why *r minus g* needs to be handled with care. The relevant interest rate is the effective rate on the debt stock, not simply today's ten-year yield. The relevant growth rate should be consistent with the nominal or real measure used. Primary deficits can overwhelm a favorable interest-growth differential. And market rates are not guaranteed to remain below growth simply because they did for a period.
+
+A useful thought experiment is to imagine three futures with the same debt stock.
+
+In the first, nominal GDP grows five percent, the effective interest rate settles near three, and the primary deficit narrows. The debt ratio can stabilize or fall without heroic austerity.
+
+In the second, nominal GDP grows four percent, the effective interest rate approaches four, and the primary deficit remains large. Debt dynamics become much more dependent on annual fiscal choices.
+
+In the third, growth disappoints while effective rates stay high. The government borrows to cover both the primary gap and a rising interest bill. The arithmetic begins feeding on itself.
+
+No threshold separates these futures cleanly.
+
+They are paths.
+
+The maturity profile determines how quickly the country moves from one path to another when market rates change.
+
+This is why debt management is best understood as national duration management.
+
+Treasury cannot know the future yield curve. It can choose how much exposure taxpayers have to being wrong about it.
+
+Short debt says: we will accept tomorrow's price tomorrow.
+
+Long debt says: we will pay today's price to avoid that uncertainty.
+
+Floating-rate debt says: we will keep the principal maturity but let the coupon follow short rates.
+
+Inflation-protected debt says: we will share inflation risk with the investor rather than ask the investor to price all of it in advance.
+
+Each instrument divides uncertainty differently.
+
+The government's objective is not to win every retrospective rate forecast. It is to keep any one forecast error from dominating the public balance sheet.
+
+That is what prudent duration does.
+
+The fiscal wall is therefore not evidence that Treasury should have issued only thirty-year bonds during the cheap-money era. Had it done so, taxpayers might have locked in more low rates, but the long-bond market may not have absorbed the volume without a higher term premium. Liquidity across the curve would have changed. Short safe assets demanded by money funds and collateral markets would have been scarcer. Treasury would have placed an enormous duration bet of its own.
+
+Hindsight always offers a free maturity strategy.
+
+Debt managers operate without it.
+
+The useful question in 2026 is not why they failed to know the future.
+
+It is whether the portfolio they built gives the country enough time to adjust now that the price of time is no longer negligible.
+
+That is the hidden asset inside a long maturity profile: not cheap money, but decision time.
+
+And decision time is worth most before it is needed.
