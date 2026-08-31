@@ -44,6 +44,20 @@ The development gap remains brutally physical.
 
 In 2024, about 655 million people still lacked access to electricity. Roughly two billion people still relied on polluting fuels and technologies for cooking. The numbers are large enough to become abstract, so it helps to remember what the deficit looks like at human scale: a clinic without dependable refrigeration, homework under bad light, hours spent collecting fuel, food cooked in smoke, a business that closes when the power fails.
 
+Even that language can make the boundary look cleaner than it is.
+
+A household can cross the statistical line into “access” and still live with electricity too weak, intermittent, expensive, or unsafe to support much of modern life. The World Bank’s Multi-Tier Framework was built around this problem. It measures access not as a switch that flips from zero to one, but across attributes such as available capacity, duration, reliability, quality, affordability, legality, and health and safety.
+
+A wire to the wall is therefore not the same thing as capability arriving through it.
+
+That distinction matters to the argument here because the book is not really about connection counts. It is about services. Refrigeration that fails several evenings a week is not the same service as dependable refrigeration. A legal connection that consumes most of a poor household’s disposable income is not equivalent to cheap usable power. A few watts of lighting and phone charging can be transformative without being enough to run a pump, a machine tool, an induction stove, or a clinic.
+
+The 655 million figure is important partly because it identifies people who still lack even basic electricity access. It should not be mistaken for a complete census of inadequate energy service. The larger deprivation is graded, not binary.
+
+That makes efficiency more, not less, important. A household does not need a target number of kilowatt-hours for its own sake. It needs enough reliable service from lights, fans, refrigeration, communications, cooking equipment, pumps, and productive machines. Better appliances can deliver more of that service with less energy. Low consumption can reflect deprivation, efficiency, climate, culture, income, or some mixture of them. The meter alone cannot tell you which.
+
+The relevant question is what the energy system allows people to do.
+
 The World Health Organization estimates household air pollution caused about 2.9 million premature deaths in 2021.
 
 That is an energy problem and a poverty problem and an infrastructure problem and a public-health problem at the same time.
