@@ -24,7 +24,21 @@ The stronger formulation is therefore not “solar has low capacity value” or 
 Source: PJM, “Effective Load Carrying Capability Measures Capacity Contribution of All Resources,” January 28, 2025, and PJM’s current ELCC resource-adequacy page, which includes the January 30, 2026 ELCC/RRS study materials.
 
 - https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/fact-sheets/elcc-measures-capacity-contribution-of-renewable-and-storage-resources.pdf
-- https://www.pjm.com/planning/resource-adequacy-planning/effective-load-carrying-capability.aspx
+- https://www.pjm.com/planning/resource-adequacy-planning/effective-load-carrying-capability
+
+## August 2026 check: the ratings actually move
+
+PJM’s current 2028/2029 Base Residual Auction materials make the system-dependence visible in concrete numbers. The final ELCC class ratings published in February 2026 were 7% for fixed-tilt solar, 10% for tracking solar, 59% for four-hour storage, 68% for six-hour storage, 71% for eight-hour storage, and 78% for ten-hour storage. Nuclear was accredited at 96%, coal at 85%, gas combined cycle at 78%, and single-fuel gas combustion turbines at 67%.
+
+Those values are not technology constants. Earlier PJM results for the 2025/2026 auction had fixed-tilt solar at 9%, tracking solar at 14%, four-hour storage at 59%, six-hour storage at 67%, eight-hour storage at 68%, and ten-hour storage at 78%. PJM’s March 2025 comparison for the following delivery year explicitly attributed part of the class-rating movement to a greater share of winter reliability risk.
+
+That is a useful empirical example for the book because it shows the mechanism rather than merely naming it. The same hardware can receive a different reliability value when the modeled risk hours, fleet composition, load shape, outage assumptions, or class membership change.
+
+Current-source links:
+
+- PJM, 2028/2029 BRA IRM/FPR/ELCC presentation, February 13, 2026: https://www.pjm.com/-/media/DotCom/committees-groups/committees/mrc/2026/20260213-special/item-01---2028-2029-bra-fpr--irm---presentation.pdf
+- PJM, 2026/2027 BRA ELCC comparison, March 19, 2025: https://www.pjm.com/-/media/DotCom/committees-groups/committees/mrc/2025/20250319/20250319-item-04---irm-fpr-and-elcc-for-26-27-bra---presentation.pdf
+- PJM current ELCC page, including 2029/2030 data files dated August 7–10, 2026: https://www.pjm.com/planning/resource-adequacy-planning/effective-load-carrying-capability
 
 ## California: a large battery fleet can strengthen reliability without eliminating extreme-event risk
 
@@ -57,6 +71,8 @@ ELCC and resource-adequacy studies are better than static nameplate comparisons,
 A model can therefore become overconfident if the historical distribution no longer represents future extremes, if correlated failures are understated, or if a rapid change in load shape outpaces the data used to calibrate risk. Conversely, crude rules of thumb can be too conservative when they ignore geographic diversity, flexible demand, improved forecasting, or complementary resources.
 
 The right lesson is not “trust the model.” It is: **reliability should be analyzed probabilistically, while keeping the model boundary visible.**
+
+The August 2026 PJM materials reinforce that caveat rather than eliminating it. PJM continues to publish assumed resource mixes, hourly load scenarios, critical performance hours, and other study inputs alongside its ELCC results. That transparency is evidence that the accreditation values are outputs of a modeled system state, not immutable engineering labels.
 
 ## Manuscript implications
 
