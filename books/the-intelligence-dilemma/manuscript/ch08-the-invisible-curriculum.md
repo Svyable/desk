@@ -352,6 +352,30 @@ That information is curricular evidence.
 
 An institution that refuses to collect it will be regulating an imaginary classroom.
 
+The gap between a published rule and an operative rule is visible in student reporting. Jisc's 2025 work with students in UK further and higher education found that formal guidance did not necessarily settle the practical question of what was allowed. Students described different expectations between courses and instructors and asked for clearer, course-level direction. That finding does not prove that inconsistency harms learning. Some inconsistency is exactly what a serious curriculum should produce. A first-year writing seminar and an advanced programming course may have good reasons to draw the line in different places.
+
+The problem begins when the difference has no intelligible relationship to the learning objective.
+
+Imagine a student moving through four classes in one day. In the first, AI is prohibited because the teacher wants unaided recall. In the second, it is encouraged because the assignment is to compare machine explanations with primary sources. In the third, the syllabus says nothing, but the instructor privately tolerates grammar assistance. In the fourth, the department permits AI while the individual teacher warns students that using it will make their work "look suspicious."
+
+The first two differences can teach something useful. The latter two mostly teach risk management.
+
+Students become amateur compliance officers. They infer policy from tone, precedent, rumors about detection, and what happened to somebody else's assignment. The students with the most institutional confidence can ask for clarification. Others may decide that asking itself creates suspicion. A rule that exists only after a student has guessed wrong is not much of a teaching rule.
+
+This is where apparently small differences in support can compound. Jisc's students also raised premium-tool access, privacy, misinformation, and differing needs among disabled, neurodivergent, and international students. None of those observations establishes a simple hierarchy in which paid tools always help or AI always widens inequality. They do show why "everyone has a chatbot" is a poor stopping point for an equity analysis.
+
+A student who knows not to paste sensitive personal material into a model has learned something another student may not have been taught. A student who knows how to challenge a fabricated citation has a different practical tool from one who has only learned to request smoother prose. A student whose disability makes conversational explanation unusually useful may reasonably value the same system that another student experiences mainly as a shortcut. Uniform access can sit on top of highly nonuniform use.
+
+The policy response should therefore resist two temptations at once. One is to write a universal AI rule so simple that it ignores the purpose of individual assignments. The other is to leave every instructor and student to negotiate the technology from scratch.
+
+A more durable approach is to make the reason for a boundary travel with the boundary.
+
+If students must work without AI because retrieval itself is being practiced, say that. If they may use AI after a first attempt because comparison and revision are the target, say that. If a course permits generated code but requires students to explain and debug it, the independent capability is visible. If an assignment prohibits uploading source material because of privacy or licensing constraints, that is a different rule with a different reason.
+
+The explanation matters because technologies change faster than policy documents. A list of approved and prohibited product features can be obsolete before the next academic year. A student who understands why a task requires independent recall can apply that principle when the interface changes. A student who has only memorized that one button is forbidden cannot.
+
+This is what a visible curriculum can contribute that the invisible one usually cannot: reasons that are public enough to inspect.
+
 The invisible curriculum will continue anyway.
 
 It will teach students how to hide assistance, or how to disclose it.
