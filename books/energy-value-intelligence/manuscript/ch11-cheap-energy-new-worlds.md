@@ -211,3 +211,65 @@ Cheap energy gives us more answers to choose from.
 That is its promise.
 
 And its burden.
+
+The costs inside a desalination plant show why “cheap power” and “cheap water” should never be used interchangeably. World Bank work on recent seawater reverse-osmosis projects put energy and capital recovery together at roughly three quarters of production cost in a representative modern plant, with energy around thirty percent and capital recovery around forty-four percent. Chemicals, membranes, filters, brine disposal, labor and maintenance made up the rest. The exact shares move with technology, financing, salinity, scale and local prices, but the structure is more revealing than any one number.
+
+Cut the electricity bill in half and the water does not become free. The capital recovery charge is still sitting there.
+
+Then the water leaves the plant.
+
+Conveyance can overturn the economics because water is inconveniently massive. Pumping it to a high inland city may cost more than the desalination step that gets the headlines. A coastal metropolis with dense demand can justify a plant that makes no sense for distant irrigation. Cheap electricity improves both desalination and pumping, but it does not erase elevation, pipe construction, rights of way or the low willingness to pay of many agricultural users.
+
+This is a recurring pattern in abundance technologies. The spectacular conversion step gets cheaper, and the ordinary infrastructure around it becomes the business.
+
+Hydrogen exposes the same structure from another direction. Electricity can create a molecule that stores energy and also serves as an industrial feedstock. But if that molecule has to be converted again for transport, the chain can become energetically expensive. The IEA's hydrogen work notes that converting hydrogen into carriers for transport can itself impose very large energy losses, varying by pathway. That does not settle the case against hydrogen. It tells us to reserve complicated conversion chains for places where the molecule solves a problem electrons cannot solve cheaply enough.
+
+Steelmaking, fertilizer feedstock, some shipping fuels and long-duration storage live in a different decision space from a passenger car driving forty miles to work.
+
+A civilization rich in clean electricity can afford more round trips through chemistry. It should still prefer direct conversion when direct conversion works.
+
+This is where the phrase “energy abundance” can quietly become lazy. If electricity is imagined as almost free, analysts stop asking about conversion efficiency because every pathway appears affordable in the spreadsheet. But physical losses still require larger generators, more transmission, more land, more equipment and more time. The dollar cost of wasting a kilowatt-hour can approach zero during a period of surplus; the infrastructure needed to guarantee that surplus at the right location does not.
+
+Abundance should make us more experimental, not less numerate.
+
+The 2025 and 2026 renewable buildout supplies a useful reality check. Solar module prices kept falling and global renewable additions kept setting records. By 2025, solar accounted for more than three quarters of new renewable capacity additions worldwide. Yet the IEA was simultaneously warning about curtailment, grid queues and transmission shortages. Cheap generation did not make the network disappear. It made network inadequacy more expensive to ignore.
+
+By the IEA's *Electricity 2026* assessment, more than 2,500 gigawatts of generation, storage and large-load projects were stalled in grid-connection queues around the world. The agency estimated that annual grid investment would need to rise substantially toward 2030, while key components such as transformers and cables had become more expensive and slower to procure.
+
+Here is abundance meeting time.
+
+A solar module can come off a factory line quickly. A data center can be built in a few years. A major transmission project may require a decade of planning, siting, permitting, procurement and construction. Even when everyone agrees on the destination, the slowest complementary asset can set the speed of the system.
+
+That difference in clocks has economic consequences. Developers respond to today's module prices but tomorrow's interconnection date. Utilities make twenty- and thirty-year decisions under load forecasts that can change in months. Communities are asked to host infrastructure whose benefits may flow elsewhere. Equipment makers decide whether a surge in transformer demand is durable enough to justify new factories.
+
+Intelligence is valuable here because the problem is not simply “build more.” It is choosing which of thousands of possible upgrades unlock the most useful capacity soonest.
+
+Grid-enhancing technologies, dynamic line ratings, storage, demand response and reconductoring can sometimes extract more capacity from existing corridors. New transmission is still needed, but a more intelligent grid can change the order in which expensive projects become necessary. Forecasting can improve maintenance. Better queue management can stop speculative projects from consuming years of study capacity. Flexible data centers can reduce the need to size every connection for a coincident peak.
+
+The output is not more intelligence for its own sake. The output is more valuable service from infrastructure already paid for.
+
+This is the constructive version of the triumvirate. Energy becomes more abundant. Intelligence raises its utilization. Higher utilization changes the value of locations, equipment and flexibility. Those prices then direct capital toward the next constraint.
+
+The process is recursive.
+
+It is also why negative electricity prices should make us curious rather than triumphant. They are evidence that energy is cheap at a precise node and hour, not evidence that the civilization has solved energy. A factory needing continuous high-temperature heat cannot run only during a few spring afternoons. A hospital cannot turn off when the wind drops. A data center may move some batch computation through time, but latency-sensitive services still expect continuity.
+
+Cheap hours are raw material. Flexibility converts them into a product.
+
+There will be businesses built almost entirely around this conversion. Electrolyzers can become opportunistic loads if their economics tolerate low utilization. Batteries buy low-value power and sell it when scarcity returns. Thermal storage shifts heat. Industrial processes can overproduce intermediates when power is cheap. Compute schedulers can defer nonurgent training, rendering or scientific workloads. Water systems can fill reservoirs before peak periods.
+
+The common asset is not the machine. It is the ability to separate the time of energy production from the time the final service is demanded.
+
+That ability has value because time is one of the coordinates of energy.
+
+Location is another. Quality is another. Reliability is another.
+
+A megawatt-hour is never just a megawatt-hour in an economic system. Its value depends on where it appears, when it appears, whether it can be counted on, and what equipment is ready to use it. Wholesale markets make some of these distinctions visible; regulated tariffs often smear them into averages; infrastructure investment translates them into steel and concrete.
+
+The more abundant variable generation becomes, the more valuable these distinctions become.
+
+Cheap energy therefore does not abolish energy economics. It makes energy economics more granular.
+
+The same will be true of intelligence. A cheap token at the wrong reliability, latency, jurisdiction or domain competence is not interchangeable with a trusted answer delivered where consequence is high. Abundance in the raw unit increases the value of matching.
+
+That is the world cheap energy opens: not one in which constraints vanish, but one in which many old constraints retreat far enough for us to discover the shape of the next ones.
