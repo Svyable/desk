@@ -213,3 +213,57 @@ Will the chip be there?
 Then the most difficult one.
 
 Will the society know what to do with them?
+
+The semiconductor industry's actual expansion plans show why allied capacity is a better unit of thought than national self-sufficiency. TSMC's 2025 annual report described leading-edge expansion in Taiwan, additional capacity in Arizona, specialty production in Japan and Germany, and advanced packaging alongside fabrication. The first Arizona fab was already in volume production; subsequent facilities were being accelerated. A single company was becoming geographically more redundant while remaining technologically integrated.
+
+That is not autarky. It is diversification inside an interdependent system.
+
+The company still relies on equipment from Europe, materials from several countries, customers concentrated in other markets and a workforce whose expertise was built over decades. A U.S. fab can reduce one geographic concentration without making the United States independent of the semiconductor world. The reduction in risk is real precisely because it is partial.
+
+This is the useful way to measure sovereignty: by the number of credible paths that remain open after a shock.
+
+A strategic reserve creates one path. An allied fab creates another. A domestic packaging line may create a third. Software portability can create a fourth by allowing workloads to run on less-preferred hardware. Energy reserves and redundant transmission create still more. None is sufficient alone. Together they change the probability that one broken link becomes a national veto.
+
+The cost of those options should be visible.
+
+If a country pays a large premium for local fabrication, citizens should know which risk the premium buys down. If a government requires sovereign cloud capacity, it should specify the workloads that actually need the jurisdictional guarantee. If a national model initiative is justified on security grounds, it should explain why access to multiple commercial systems would not provide equivalent resilience.
+
+Strategic language should sharpen cost-benefit analysis, not exempt policy from it.
+
+The 2026 U.S. revision for certain advanced-chip exports to China is a good example of policy adjusting rather than pretending the first rule was eternal. BIS moved specified products such as the H200 and MI325X into case-by-case licensing for approved customers subject to conditions. Whatever one thinks of the balance, the revision acknowledged that technology control is a moving optimization problem: security benefit, commercial leakage, enforceability, allied alignment and substitution all change over time.
+
+A sovereign strategy that cannot revise itself is merely brittle in patriotic clothing.
+
+The energy side has the same lesson. The International Energy Agency's work on AI and electricity emphasized that data-center demand is geographically concentrated and that growth can move faster than grids. A government may possess national generation capacity and still discover that its strategic computing cluster cannot connect where planned. In that moment, sovereignty is constrained by a transformer, a transmission corridor or a permitting queue.
+
+The socket is not metaphorical.
+
+This is especially important for countries trying to leap directly into the intelligence economy. A minister can announce an AI campus, sign a partnership and order servers. The local grid may then require years of reinforcement. Imported diesel backup can keep machines alive but undermine cost and climate goals. Foreign technicians can install hardware but do not automatically create domestic operating capability. A national champion can own the building while the most important software, chips and financing remain external.
+
+Ownership can overstate control.
+
+The reverse is also true. A country can exercise meaningful control without owning every asset. Denmark does not need to manufacture every wind-turbine component to have energy policy. Singapore does not need to own every ship to be strategically important to maritime trade. A small state with excellent interconnection, multiple cloud providers, strong cyber institutions and trusted alliances may have more usable digital sovereignty than a larger state with a nominally domestic stack that nobody competitive wants to use.
+
+Usable sovereignty is performance under stress.
+
+That suggests a more demanding test for national AI strategies. Imagine the favored supplier disappears for six months. Imagine the leading chip becomes unavailable. Imagine electricity prices triple. Imagine a model provider changes terms. Imagine a neighboring ally elects a government less willing to cooperate. Which critical services keep functioning, and which adaptations are already rehearsed rather than improvised?
+
+The answer reveals whether the strategy purchased capability or symbolism.
+
+This is the same question a reliability engineer asks of any complex system: not whether every component is domestic, but whether failure has somewhere safe to go.
+
+Countries need graceful degradation too.
+
+A defense application may fall back to a smaller local model. A hospital system may preserve human operating procedures when cloud services fail. A grid operator may keep critical control systems isolated from general-purpose AI. An agency may maintain data exports in standard formats so vendors can be replaced. Research programs may cultivate several accelerator architectures rather than optimizing every tool around one supplier.
+
+These measures can look inefficient because duplication always does.
+
+The value appears when options matter.
+
+The strategic competition around AI will therefore reward countries that are good at maintaining options without becoming paralyzed by redundancy. Too little resilience creates hostage points. Too much self-sufficiency consumes resources that could have bought better capability through trade.
+
+Between those extremes lies a network of allied specialization, reserves, interoperability and domestic competence.
+
+That network is not a retreat from sovereignty.
+
+It is what sovereignty looks like in a civilization too complex for any one country to reproduce alone.
