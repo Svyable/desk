@@ -265,3 +265,107 @@ Then the work begins.
 The model has shortened the distance.
 
 A scientist still has to cross it.
+
+## Prospect Before Prediction
+
+There is a useful word for what these systems often provide: prospecting.
+
+A prospector does not prove that every promising formation contains something valuable. The work narrows where to look next.
+
+Scientific machine learning frequently has the same structure. It can enrich a candidate set, identify an unusual region, rank a hypothesis or suggest a connection. Those contributions matter even when the success rate is far below one hundred percent because the baseline search space is enormous and physical validation is expensive.
+
+The temptation to call every ranked candidate a prediction creates two problems.
+
+First, it overstates what the model knows.
+
+Second, it understates what good prioritization is worth.
+
+A laboratory does not need a supernatural oracle to benefit from a system that improves the quality of the next ten experiments. It needs the system to shift scarce effort away from obviously unpromising territory and toward questions with higher expected information value.
+
+That can be evaluated prospectively.
+
+Take a model trained only on information available before a cutoff. Ask it to rank candidates. Then follow what later experiments establish. This kind of temporal separation is powerful because it approximates the situation the system would face in genuine discovery: the future evidence is not available during training.
+
+The 2019 materials-literature work is compelling partly for this reason. Historical slices let researchers ask whether a representation built from earlier literature placed some future-relevant materials near functional concepts before later publications made those associations obvious.
+
+Even this test needs humility.
+
+Later publication is not identical to objective truth. A material can become studied because it was fashionable, accessible or economically interesting. Another promising candidate may never receive enough attention to appear in the later record. The future literature is a better benchmark than the past only in a limited sense.
+
+Science does not produce a complete label set for its own missed opportunities.
+
+That makes discovery evaluation unusually difficult.
+
+In ordinary classification, we hope to know the correct answer for the test examples. In research, the most interesting examples may be the ones nobody has tested yet. A candidate can remain neither right nor wrong because no laboratory spends the money to find out.
+
+The absence of validation can therefore reflect scientific economics rather than model quality.
+
+This is where active learning becomes conceptually important. Instead of asking only which candidate looks best, an adaptive system can ask which experiment would teach the model the most. A candidate with uncertain outcome may be valuable because testing it would clarify a boundary in the representation or distinguish competing hypotheses.
+
+The objective shifts from exploitation to information gain.
+
+That is a deeper form of adjacency.
+
+The system is not merely searching for points near the desired property. It is searching for points whose outcomes would redraw the map.
+
+Imagine two candidate materials. One sits deep inside a well-understood cluster where the model predicts strong performance with high confidence. The other sits near the boundary between two regions where the model is uncertain. If the only goal is immediate performance, the first candidate may be rational. If the goal is learning a new design rule, the second may be more valuable.
+
+The best experiment depends on what the laboratory wants to know next.
+
+This is why scientific discovery systems should expose uncertainty and novelty separately from predicted value.
+
+A ranked list with one score encourages a false simplicity. Scientists may want several axes:
+
+How promising is the candidate?
+
+How novel is it relative to known examples?
+
+How uncertain is the model?
+
+How expensive is the experiment?
+
+How much would the result update the model or theory?
+
+Can the candidate actually be synthesized or measured with available equipment?
+
+These are not implementation details.
+
+They are the structure of scientific choice.
+
+Machine learning becomes most useful when it helps organize these tradeoffs without pretending to collapse them into one universal number.
+
+The same principle applies to hypothesis generation from literature. A language model can produce a plausible connection between two concepts. Plausibility is not enough. The useful system asks what chain of evidence would support the connection, what existing result argues against it, what experiment discriminates among mechanisms and whether the hypothesis is genuinely absent from prior work rather than merely phrased differently.
+
+Cheap generation raises the value of expensive falsification.
+
+This is the asymmetry scientific AI will have to learn to live with.
+
+A model can generate hypotheses at electronic speed.
+
+A cell culture still grows in biological time.
+
+A material still has to be synthesized.
+
+A telescope still waits for the sky.
+
+A clinical trial still involves people and institutions.
+
+The physical world keeps the meter running.
+
+That makes prioritization the central economic function of machine-assisted science.
+
+The system earns its place not by replacing the laboratory but by helping the laboratory spend reality more wisely.
+
+This also creates a standard for responsible claims. If a computational system ranks a candidate, say it ranked a candidate. If a simulation suggests stability, say it suggests stability. If a material is synthesized, say it was synthesized. If the measured property matches the prediction, say that. If a result replicates, distinguish replication from initial demonstration.
+
+The vocabulary of discovery should preserve the chain.
+
+Otherwise the most exciting word—*discovered*—swallows all the steps and makes it impossible to know what the machine actually contributed.
+
+The discovery before discovery is not lesser science.
+
+It is the work of improving the frontier before the experiment commits scarce resources.
+
+A good map does not deserve credit for arriving at the destination.
+
+It deserves credit for making the expedition rational enough to attempt.
