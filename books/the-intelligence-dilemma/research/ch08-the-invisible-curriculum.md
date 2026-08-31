@@ -15,6 +15,15 @@ Document the rapid spread of student AI use, the lag in institutional guidance, 
 - Use in chapter: supports the claim that student adoption has moved faster than many institutional policy processes.
 - Limitation: higher education, UK-specific, survey self-report, and sponsored by Kortext. Do not generalize exact percentages to K-12 or other countries.
 
+### Jisc, “Student perceptions of AI 2025”
+
+- Report: https://www.jisc.ac.uk/reports/student-perceptions-of-ai-2025
+- Published: May 22, 2025.
+- Evidence base: discussion groups with 173 further- and higher-education students plus analysis of seven institutional surveys covering 1,274 student responses.
+- What it supports: students reported continuing uncertainty about what AI use was allowed even though many institutions had guidance; they wanted clearer course-level rules and practical training. Students also raised concerns about premium-tool inequity, inconsistent rules between classes, privacy, misinformation, and the needs of neurodivergent, disabled, and international learners.
+- Use in chapter: turns the chapter’s “invisible curriculum” mechanism into an observable policy problem: formal guidance can exist while students still learn operative norms locally from individual instructors, peers, and product behavior.
+- Limitation: qualitative and mixed-source evidence from UK further and higher education, not a representative prevalence estimate and not direct evidence of effects on learning outcomes.
+
 ### “The use and usefulness of GenAI in higher education: Student experience and perspectives” (2026)
 
 - Source: *Computers and Education Open* 10, 100347.
@@ -54,6 +63,7 @@ Document the rapid spread of student AI use, the lag in institutional guidance, 
 - It treats “invisible curriculum” as an interpretive concept for peer norms, unofficial practices, product defaults, and household guidance, not a measured variable in the cited surveys.
 - It does not assume every institutional inconsistency is harmful; different courses can rationally have different AI rules when their learning objectives differ.
 - It argues for legible local rules rather than one universal permission standard.
+- Jisc student reports are used as evidence of perceived ambiguity and support needs, not as proof that inconsistent AI rules cause weaker academic outcomes.
 
 ## Follow-up reporting
 
