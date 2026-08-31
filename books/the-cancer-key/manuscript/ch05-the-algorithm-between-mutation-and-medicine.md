@@ -219,3 +219,63 @@ The algorithm between mutation and medicine is not a hidden accessory.
 It is a clinical decision engine whose output becomes physical.
 
 Once code chooses what goes into the syringe, software quality becomes drug quality.
+
+That creates a problem conventional benchmark culture handles badly.
+
+A model can score well because the test resembles the data on which it learned. In HLA prediction, one of the dangers is imbalance: some alleles, peptide families and experimental settings appear far more often than others. A system can learn shortcuts that look like biological understanding when the benchmark repeatedly rewards the same familiar patterns. Strong average performance can coexist with weak performance in the corners where particular patients live.
+
+The problem is not confined to old algorithms.
+
+Larger models can inherit larger datasets without inheriting a representative world. More parameters do not create observations that were never collected. If binding and presentation datasets disproportionately reflect alleles common in well-studied populations, a pan-allele model can generalize impressively while still carrying unequal uncertainty.
+
+This is why calibration matters as much as ranking.
+
+A platform should not only say which target is first. It should have some disciplined account of how much confidence belongs to that ordering. Candidate A may outrank candidate B by a small score difference that is meaningful for one well-characterized HLA allele and nearly noise for another. The software interface may display both as clean decimals. The biology has not promised decimal-level certainty.
+
+Good calibration changes decisions.
+
+If the model knows it is uncertain, the platform can diversify the vaccine across several plausible targets, trigger an orthogonal assay, prioritize experimentally observed presentation or avoid overcommitting scarce manufacturing slots to a brittle prediction. An uncertainty estimate is useful only when the workflow is allowed to respond to it.
+
+That is an important difference between scientific software and product software.
+
+A research model can publish an area under a curve and invite others to improve it. A therapeutic selection system has to decide what happens to the patient on Tuesday.
+
+Versioning makes the problem more concrete.
+
+Suppose a company updates its ranking model every quarter. A patient treated in January and one treated in October may have identical molecular inputs but receive different target sets because the model changed. That can be progress. It can also complicate evidence. A trial nominally studying one platform may contain several generations of target selection unless the changes are controlled and documented.
+
+Freezing the model for years is not an attractive answer.
+
+It would preserve comparability by refusing learning.
+
+The more sensible approach is change control: define which updates are minor enough to validate through analytical evidence, which materially alter selection behavior, and which require stronger clinical bridging. Record the model version, feature pipeline, databases and thresholds used for every patient's product so an investigator can later reconstruct why those targets were chosen.
+
+Reconstruction is not nostalgia.
+
+When an unexpected toxicity or failure occurs, the question will be specific. Did the model select a peptide too similar to a normal protein? Did an HLA call change? Did a database update reclassify a mutation? Did an altered threshold replace a clonal target with a subclonal one? Without provenance, “the algorithm chose it” becomes a dead end.
+
+The same provenance is necessary for fairness.
+
+If outcomes differ across HLA groups, investigators need to know whether the disparity arose from biology, sample quality, target availability, model performance, manufacturing or access. A black box at the center of the process can make all of those explanations indistinguishable.
+
+This does not require publishing every weight of a proprietary model.
+
+It requires enough auditability that proprietary knowledge does not become proprietary uncertainty imposed on the patient.
+
+There is a commercial reason to want the same thing.
+
+An algorithm that cannot explain its own operational history is hard to improve. The company loses the ability to separate a failed biological hypothesis from a failed data pipeline. It may retrain on noisy labels, overreact to a small clinical subgroup or chase a benchmark improvement that never reaches the tumor.
+
+The advantage of running a closed learning loop is only real if the loop is clean.
+
+The field will eventually need external comparisons too.
+
+Not a single winner-take-all leaderboard, because no retrospective dataset can reproduce every clinical context, but challenge sets that deliberately stress rare HLA alleles, unusual mutation classes, low-expression targets, tumor heterogeneity and shifts between laboratory platforms. The important question is not whether a model performs well on average. It is whether anyone knows where it stops performing well.
+
+That is the point at which algorithmic quality becomes clinical honesty.
+
+A physician can explain an uncertain experimental therapy if the uncertainty is visible. A patient can consent to a platform that is still learning. What neither can do well is consent to confidence manufactured by the interface.
+
+The deepest achievement of computation in neoantigen medicine will not be making the ranking look inevitable.
+
+It will be making the uncertainty useful enough that better targets are chosen anyway.
