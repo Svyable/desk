@@ -2,144 +2,244 @@
 
 The most expensive person in a modern organization may be the one everyone is allowed to interrupt.
 
-Not expensive in salary, though the two often correlate. Expensive because every incoming request can reroute the work of dozens of other people. A chief engineer answers a question and twenty developers change course. A surgeon glances at an alert and a procedure pauses. A regulator reads a warning and a market waits. A parent looks down at a phone while a child is telling the part of the story that will not be repeated.
+Not necessarily expensive in salary, though the two often correlate. Expensive because an interruption can reroute other people’s work. A chief engineer answers a question and twenty developers change course. A surgeon looks at an alert and a procedure pauses. A regulator reads a warning and a market waits. A parent glances at a phone while a child is telling the part of the story that will not be repeated.
 
-Attention has always been scarce, but digital systems learned to spend it casually.
+The economics are strange because the sender often pays almost nothing.
 
-The economics are peculiar. The sender pays almost nothing to create an interruption. The receiver pays nearly all of the cost. An email can be written in seconds and occupy minutes across fifty recipients. A notification generated automatically may cost a fraction of a cent and interrupt a physician whose next minute is worth far more. A dashboard alert can be added by a developer who will never sit in the control room where the alarm sounds. A model can generate ten thousand “insights” without suffering the fatigue of reading one.
+An email written in seconds can occupy minutes across fifty recipients. A notification generated automatically may cost almost nothing to produce and interrupt someone whose next minute matters greatly. A dashboard alert can be added by a developer who will never sit in the control room where it sounds. A model can generate ten thousand plausible “insights” without experiencing the fatigue of reading one.
 
-This asymmetry matters because artificial intelligence radically lowers the cost of producing attention-seeking material.
+Digital systems learned to spend other people’s attention casually.
 
-Before AI, writing imposed friction. A person had to compose the report, summarize the meeting, draft the proposal, prepare the deck, or write the code review comment. The friction was often wasteful, but it also limited volume. When generation becomes cheap, output can expand until the receiving side becomes the constraint. We will not merely have more information. We will have more information shaped specifically to win access to attention.
+Artificial intelligence lowers the cost again.
 
-Herbert Simon’s famous observation about information abundance was made before the web, social media, smartphones, or generative models. He argued that an information-rich world creates a poverty of attention. The sentence survives because it describes a structural relation rather than a particular technology. Information is not useful without a recipient. When supply grows faster than the capacity to receive, selection becomes valuable.
+Before generative systems, writing imposed friction. A person had to prepare the report, summarize the meeting, draft the proposal, write the code-review comment, or turn a vague concern into a paragraph another person could understand. Much of that friction was waste. Some of it was also a volume limit.
 
-AI changes selection in two opposite ways. It can protect attention by filtering, summarizing, ranking, and handling routine material. It can also industrialize interruption by producing personalized, plausible, context-aware reasons that something deserves attention now.
+When generation becomes cheap, the receiving side becomes easier to overwhelm.
 
-Both futures can be true in the same system.
+Herbert Simon described the structural problem in 1971: abundance of information creates scarcity in whatever the information consumes, especially the attention of its recipients. The insight survived changes in media because it was never really about paper or screens. It was about asymmetry between the supply of possible messages and the finite ability to notice, interpret, and act on them.
 
-Consider clinical alerts. Software can watch more variables than any clinician could continuously track. That is a genuine advantage. But if the software produces too many warnings, clinicians learn that an alert is usually not urgent. The alert still technically appears. Functionally, it has been discounted. The problem is known as alert fatigue, but the phrase can obscure the economic structure. The system is minting claims on scarce attention without a hard budget.
+Generative systems intensify the asymmetry because they do not merely retrieve existing messages. They create new candidates on demand.
 
-Organizations often respond by adjusting thresholds. Fewer alerts, only the serious ones. This helps until a missed event produces a demand for sensitivity. Then thresholds move again. The deeper problem is that attention is treated as free in the design process and expensive only after deployment.
+One proposed slogan becomes fifty. A strategic memo acquires three alternatives, five critiques, a risk register, and a slide deck. A monitoring system can write a summary every hour even when nothing worth interrupting anybody has happened.
 
-A better design begins by pricing interruption.
+Readable language becomes cheap.
 
-The price need not be money. It can be an internal rule: to interrupt a certain role, an event must cross a defined severity threshold; repeated alerts from the same source consume a rate limit; low-confidence signals are batched; systems that interrupt must record whether the interruption changed action; users can inspect which sources are spending their attention. In effect, the institution creates an attention ledger.
+Deciding whether the language matters does not.
 
-This sounds bureaucratic until one notices that every serious control system already does something similar. Aviation distinguishes warnings, cautions, and advisory information because not every condition deserves the same claim on the crew. Emergency medicine distinguishes urgency. Networks prioritize packets. Operating systems schedule processes. Human attention deserves at least as much design discipline as processor time.
+Clinical alerting shows what happens when a system ignores this difference. Software can monitor more variables than a clinician could watch continuously. That is useful. But a warning that appears too often becomes a weak claim on attention. Clinicians learn, through experience, that many alerts do not require action. The alert still appears on the screen. Functionally, it has been discounted.
 
-The alternative is cognitive denial-of-service.
+The phrase “alert fatigue” can make this sound like a weakness in the human receiver. The deeper problem is economic. The system is minting claims on scarce attention without a hard budget.
 
-A denial-of-service attack overwhelms a system with more requests than it can usefully handle. The requests need not be individually complex. Their power comes from volume. Human institutions can be attacked accidentally in the same way. A compliance regime adds reports until the regulator cannot distinguish signal from ritual. A company adds metrics until every team can prove success. A manager asks an agent to monitor every competitor, customer, issue, and employee signal, then receives an “executive briefing” containing so many developments that the briefing becomes a new job.
+Organizations respond by adjusting thresholds. Fewer alerts. Higher sensitivity for the dangerous condition. More specificity where false alarms are common. Then a missed event creates pressure in the other direction.
 
-The AI era makes this failure cheap to create.
+No threshold solves the problem permanently because interruption is a trade.
 
-It also gives us tools to fight it. A personal agent can act as an attention firewall. It can know that a person is driving, sleeping, writing, grieving, or in conversation and refuse most claims on the channel. It can aggregate routine notices and escalate only exceptions. It can learn that a particular alert source is noisy. It can notice that three messages are manifestations of one underlying problem. It can hold information until the recipient reaches a context in which action is possible.
+To interrupt is to say: stop what you are doing because this new thing is more important.
 
-This is more than convenience. It is allocation of a human life.
+That claim should have a price.
 
-Time-management advice often treats attention as a private moral problem. Turn off notifications. Practice discipline. Make a list. These techniques are useful, but they place the burden on the person receiving systems designed by others to break concentration. Attention allocation is institutional before it is personal. A hospital decides which alerts can sound. A company decides whether meetings default to thirty minutes. A platform decides whether unread badges glow. A school decides whether students are reachable during class. A government decides how many forms must be read before a benefit can be claimed.
+The price need not be money. A hospital can distinguish severity classes. A monitoring system can batch low-confidence events. A repeated source can face rate limits. An agent can be required to record whether an interruption changed action. A user can inspect which sources are consuming attention and revoke their privilege.
 
-Designers create attention policy whether they acknowledge it or not.
+Aviation has long treated warnings, cautions, displays, workload, and automation behavior as a coupled human-factors problem. The crew cannot be asked to treat every indication as equally urgent because the cockpit itself would become the hazard. Emergency medicine distinguishes urgency for the same reason. Computer systems schedule processes because even processors require arbitration.
 
-One of the most important properties of attention is that it is state-dependent. An hour is not an hour. A person can perform difficult reasoning in one hour and barely read in another. Fatigue, stress, noise, hunger, fear, context switching, and emotional load change the effective supply. A surgeon in the first hour of a planned day and a surgeon in the fifteenth hour of a crisis do not possess interchangeable units of attention. Neither does a citizen reading a tax notice at a desk and the same citizen reading it beside a hospital bed.
+Human attention deserves at least as much design discipline as processor time.
 
-Machine systems can exploit this state dependence or protect against it.
+One way to make this trade legible is to ask about three costs every time a system wants access to attention.
 
-Advertising has long been interested in the moment of receptivity. AI can make such targeting more precise. A system with access to personal context can infer when someone is anxious, lonely, hurried, or uncertain. It can generate the message most likely to capture attention then. The same capabilities can be used benevolently: delay a financial decision when the person is distressed; surface a medication reminder when action is possible; summarize rather than interrupt; translate a dense notice into language the recipient can actually use.
+There is interruption cost: what useful state will be destroyed if this arrives now? A five-second alert can cost far more than five seconds if it breaks the working memory needed for a difficult task.
 
-The ethical difference is not simply whether AI is persuasive. It is whose objective governs the allocation of attention.
+There is omission cost: what happens if the message waits, is summarized later, or never arrives? A payroll error and a mildly disappointing weekly metric do not deserve the same treatment because the cost of delay differs.
 
-This is where attention becomes political economy. Platforms compete for it because attention can be converted into money, influence, data, or action. Employers claim it because labor contracts purchase slices of a person’s day. Families and communities depend on forms of attention that are economically valuable but often unpriced. Democratic institutions require citizens to spend attention on matters whose benefits are shared and delayed. Every system is bidding.
+There is coordination cost: who else must share the information before action can work? A strategic change that reaches only one manager may create less value than a shorter shared note reaching the entire team.
 
-AI increases the sophistication of the bids.
+These costs cannot be calculated perfectly. They include values, uncertainty, and futures nobody knows. But even approximate awareness changes design. It prevents “relevance” from becoming the only criterion.
 
-A model can write a notification in the recipient’s preferred tone, at the preferred length, with knowledge of prior behavior. It can generate infinite variants and test which wording wins. The recipient may use another model to summarize, block, or negotiate the incoming stream. We can imagine an arms race of agents on both sides of attention: sellers’ agents producing ever more tailored appeals, buyers’ agents deciding which deserve entry.
+An item can be relevant and still not deserve interruption.
 
-That future sounds exotic, but spam filters already perform a primitive version. The deeper question is what rights the receiving agent represents. Does it work for the user, the platform, the employer, the advertiser, or all of them under conflicting incentives? An attention firewall controlled by the same party that profits from interruption is not a firewall. It is a tollbooth.
+This is especially important for systems that learn from engagement. If opening an alert teaches the system to send more alerts, a tired user can accidentally train the channel to become more demanding. The system observes attention but cannot easily tell whether the attention was freely given, reluctantly spent, or required to make the interruption stop.
 
-The economics of attention also change inside organizations when AI systems become participants in meetings and workflows. Today, an employee may hesitate before asking a senior colleague to review an early idea. The social cost of interruption creates a filtering function. With an agent, the employee can ask endlessly. This is liberating. Junior people gain access to patient explanation. Experts can externalize routine mentoring. But the abundance of private advice can produce public coordination problems.
+A better attention ledger would record outcomes, not merely opens.
 
-Suppose every member of a product team asks an agent to improve the plan. Each receives ten suggestions. The team arrives with a hundred locally sensible modifications. Meeting time is consumed reconciling improvements. The agent optimized each person’s document; nobody optimized the shared attention required to integrate them.
+Did the warning change an action? Did the recipient postpone something more important? Was the same information available through a quieter channel? Was the interruption later judged unnecessary? Did repeated low-value alerts teach the user to ignore the source?
 
-The scarce unit becomes common context.
+Those questions turn notification design into institutional learning rather than permanent escalation.
 
-Organizations often underestimate common context because it is hard to measure. A team that shares a mental model can coordinate with fewer messages. A team whose members each possess rich but different machine-generated analyses may communicate more while understanding each other less. Private intelligence can increase faster than collective intelligence.
+Without it, an institution can suffer a kind of cognitive denial-of-service.
 
-This suggests another attention rule: not every answer should be personalized. Sometimes the best allocation is a shared artifact everyone sees. Mission rules, checklists, runbooks, public dashboards, and written decisions create common reference points. They sacrifice some tailoring to reduce coordination cost. AI systems should know when to synthesize into shared memory rather than multiply private interpretations.
+A denial-of-service attack does not need each request to be complex. Volume is enough. Human organizations can overwhelm themselves accidentally in the same way. A compliance program adds reports until regulators cannot distinguish signal from ritual. A company adds metrics until every team can prove success and nobody can see which measure matters. A manager asks agents to monitor every competitor, customer, employee signal, policy change, and market movement, then receives an executive briefing so comprehensive that reading it becomes a job.
 
-The value of common context is clearest under pressure. In mission control, the flight director did not need every raw telemetry stream. Specialists watched them. What mattered was that unusual conditions could be escalated through known channels and that the room shared enough procedure to understand what an escalation meant. In aviation, alert design attempts to distinguish levels of urgency because a cockpit cannot become a democratic conversation among every sensor. In emergency response, the dispatcher compresses a caller’s story into categories the system can route.
+AI makes this failure cheap to create.
 
-Compression is not the enemy of intelligence. It is one of the ways intelligence protects attention.
+It can also become one of the best defenses against it.
 
-But compression has costs. A summary can hide dissent, uncertainty, or the one detail that matters. Ranking can create invisibility. A filter can reproduce bias. An agent that shields a manager from “low-priority” messages may also shield the manager from early evidence that the priorities are wrong. Every attention system therefore needs routes around itself.
+A personal agent can act as an attention firewall. It can know that someone is driving, sleeping, writing, grieving, or in conversation and delay most claims on the channel. It can cluster repeated notices. It can notice that five messages are manifestations of one underlying problem. It can hold information until the recipient reaches a context in which action is possible.
 
-This is the paradox of gatekeeping. Without gates, attention floods. With perfect gates, surprise disappears.
+This is not merely convenience.
 
-Healthy institutions solve this with multiple channels. Routine information travels through structured paths. Urgent exceptions can escalate. People can appeal classifications. Leaders sample raw reality periodically instead of living entirely inside summaries. Whistleblowers have protected routes. Customers can reach a human when the automated system misclassifies their problem. Engineers can stop a production line. Pilots can ignore automation when conditions demand it.
+It is scheduling access to a human life.
 
-The exact mechanisms differ, but the principle is stable: an attention allocation system should not become a prison made of its own previous judgments.
+Time-management advice often frames attention as a private moral problem. Turn off notifications. Practice discipline. Make a list. These techniques can help, but they place responsibility on the person receiving systems that other people designed to interrupt them.
 
-The coming temptation will be to use AI to optimize every attention channel for efficiency. Meetings become shorter. Reports become summaries. Alerts become ranked. Emails become drafts. Feeds become perfectly personalized. The result could be wonderful. It could also remove the friction through which weak signals, idle conversation, and unplanned encounters enter institutions.
+Attention policy begins upstream.
 
-Some waste is informational habitat.
+A hospital decides which alarms can sound. A company decides whether meetings default to thirty minutes. A platform decides whether unread badges glow. A school decides whether students are reachable during class. A government decides how many notices a citizen must read to maintain access to a benefit.
 
-A scientist notices something while reading outside a narrow query. A manager hears a concern in the hallway that would never merit a formal escalation. A student asks a confused question that reveals the lesson is wrong. A mechanic hears a machine make a sound no dashboard classified as significant. The weak signal survives because somebody was not perfectly allocated.
+Designers make attention policy whether they call it that or not.
 
-This is why the goal cannot be maximum attention efficiency. It must be adaptive allocation: protect deep attention, spend interruption deliberately, maintain common context, and preserve some uncommitted capacity for surprise.
+Protected attention matters for more than productivity.
 
-The difference resembles ecological design more than accounting. A monoculture can be efficient until the environment changes. A system that routes every minute toward predicted value may perform beautifully on the distribution it expects and become brittle when something new arrives. Slack, exploration, and low-level human contact create diversity in the attention landscape.
+Some human work changes character when repeatedly fragmented. Learning a difficult subject, noticing emotional nuance, reasoning through an unfamiliar system, writing, debugging, grieving, and listening all depend on continuity. The cost of interruption is therefore not merely slower completion. It can change what kind of cognition is possible.
 
-AI can help by taking over the repetitive taxes that currently exhaust people. It can draft routine correspondence, search records, reconcile formats, translate, schedule, extract, and summarize. The moral promise is not that people can therefore work twenty percent more. It is that some of the reclaimed attention can return to tasks machines cannot value on our behalf: deciding what deserves care, noticing when the model of the situation is wrong, teaching, negotiating, comforting, imagining, and sometimes doing nothing long enough to think.
+An organization that protects only the attention attached to measurable output will miss this. Mentoring can look interruptible until nobody learns the tacit parts of the job. A conversation can look unscheduled until it becomes the moment a serious problem is disclosed. Reading can look like inactivity until it changes the model through which later decisions are made.
 
-Whether that promise is kept depends on who captures the dividend.
+Deep attention is not always the scarce resource that should win. Emergencies interrupt for a reason. But it deserves to exist as a protected state rather than whatever remains after every urgent-seeming claim has been processed.
 
-Historically, productivity gains do not automatically become leisure or human discretion. They can become higher output targets. If an AI assistant halves the time required to prepare a report, the organization may ask for twice as many reports. If a physician can document faster, the clinic may schedule more patients. If a teacher can grade faster, the school may enlarge class sizes. Attention saved at one stage can be immediately claimed elsewhere.
+AI complicates the policy because attention is state-dependent.
 
-This is another reason to treat attention as a budget. Savings need an owner. Otherwise they disappear into the next demand.
+An hour is not an hour. Fatigue, fear, hunger, stress, context switching, noise, and emotional load change what a person can notice and how well they can reason. A surgeon in the first hour of a planned day and a surgeon in the fifteenth hour of a crisis do not possess interchangeable units of attention. Neither does a citizen reading a tax notice at a desk and the same citizen reading it beside a hospital bed.
 
-A humane organization would decide in advance what it wants to do with cognitive productivity. Some gains may increase output. Some may reduce cost. Some should increase verification. Some should create reserve capacity. Some should shorten the workday or deepen contact with customers, patients, students, and colleagues. The allocation should be explicit because the default is consumption.
+A context-aware system can protect against this difference or exploit it.
 
-The same applies personally. An agent that saves an hour can create an hour of freedom or an hour of additional tasks. Technology does not decide.
+Advertising has always cared about receptivity. A system with access to personal context may infer when someone is anxious, hurried, lonely, or uncertain and generate the appeal most likely to enter at that moment. The same capability can be used in the opposite direction: delay a financial decision when the person is distressed, surface a medication reminder when action is possible, summarize rather than interrupt, or translate a dense notice into language the recipient can use.
 
-Herbert Simon saw the inversion before the modern internet made it ordinary. In 1971 he argued that an abundance of information creates a scarcity of whatever information consumes: the attention of its recipients. The line survives because it names a structural fact rather than a particular technology. A better printing press, inbox, search engine, feed, or language model can increase the supply of potentially useful material faster than a person can increase the hours available to inspect it.
+The ethical difference is not whether AI is persuasive.
 
-Generative systems intensify the inversion because they do not merely retrieve existing items. They can create new candidate items on demand. Ten possible slogans become a hundred. One strategic memo becomes five alternatives, three critiques, a risk register, and a slide deck. A monitoring agent can produce a summary every hour whether or not anything important happened. The marginal cost of making something readable approaches zero while the cost of deciding whether it matters remains attached to a human nervous system or to another scarce decision process.
+It is whose objective governs the timing.
 
-The obvious response is better filtering, and this is indeed one of AI's strongest uses. A model can compress a thousand pages into the five paragraphs likely to matter. It can cluster alerts, deduplicate messages, route routine cases, and hold nonurgent information until an appropriate moment. Properly used, machine intelligence can create attention rather than consume it.
+This is where attention becomes political economy. Platforms compete for attention because attention can become money, data, influence, or action. Employers purchase slices of it through labor contracts. Families and communities depend on forms of attention that are economically valuable and often unpriced. Democratic institutions ask citizens to spend attention on matters whose benefits are shared and delayed.
 
-The catch is that the filter becomes an allocator.
+AI can make every bid more sophisticated.
 
-Once a system decides what you will not see, omission becomes part of its output. This is usually beneficial; a dashboard that showed every raw sensor value would be useless. But suppression must be designed with the same care as generation. Which low-probability signal is allowed to interrupt? Which minority view is preserved? How long may an anomaly remain below threshold? What gets sampled even when the score says it is ordinary?
+A model can write the message in the recipient’s preferred tone. It can choose the length. It can remember prior behavior. It can generate endless variants and test which wording wins.
 
-Safety-critical fields have spent decades turning these questions into interface and alerting practice. Aviation human-factors work treats workload, automation behavior, displays, controls, and alerting as a coupled design problem. The point is not to maximize the number of warnings a crew can receive. It is to make the right state legible without burying the crew in indications that compete for the same limited attention.
+The recipient may use another model to defend the channel.
 
-AI products will need an equivalent theory of cognitive traffic. Today many systems optimize response relevance one turn at a time. Agents operating over hours or days need to optimize interruption over time. A message can be useful and still arrive at the wrong moment. A reminder can be correct and still destroy concentration. A risk can be real and still be better represented in a daily review than as an immediate alarm.
+The coming attention economy may therefore contain agents on both sides: one trying to enter, one deciding whether entry is deserved.
 
-This makes attention a scheduling problem as well as a ranking problem.
+Spam filters are a primitive version. The deeper question is who the defensive agent works for. An attention firewall controlled by the same party that profits from interruption is not really a firewall. It is a tollbooth.
 
-Imagine a manager with six software agents. One watches customers, one finances, one legal obligations, one engineering, one recruiting, and one personal scheduling. If each agent independently decides when something is “important,” the manager has not gained six assistants. The manager has acquired six people with permission to knock on the door. Their local optimization produces global interruption.
+The same conflict appears inside organizations, where AI can create abundant private advice.
 
-A higher layer needs to arbitrate among them. It needs concepts such as quiet periods, escalation thresholds, batching, deadlines, dependency, and the cost of breaking focus. It may need to know that a payroll anomaly deserves interruption while a mildly deteriorating marketing metric can wait until the afternoon review. The intelligence is not only in understanding each message. It is in understanding the competition among messages for one person's day.
+An employee may hesitate before asking a senior colleague to review an early idea because interruption has social cost. An agent removes much of that cost. Junior employees can ask endlessly. Experts can externalize routine mentoring. People can explore a thought before burdening anyone else.
 
-Attention allocation also has a political dimension. People with more status already possess stronger means of interrupting institutions. Their email is answered faster. Their complaint reaches a senior person. Their meeting displaces someone else's. If AI agents learn to maximize their users' chance of response, they may industrialize this competition. Every request can arrive perfectly written, relentlessly followed up, framed as urgent, and timed to exploit the recipient's habits.
+This is liberating.
 
-Without countermeasures, the attention economy becomes an agent arms race.
+It also creates a coordination problem.
 
-Institutions will need defenses that look almost rude from the perspective of any single request: quotas, batching, authenticated priority, rate limits, random sampling, quiet channels, and the right not to answer. These are not failures of intelligence. They are what make abundant intelligence inhabitable.
+Suppose every member of a product team asks an agent to improve the same plan. Each returns to the meeting with ten locally sensible suggestions. The team now has a hundred improvements to reconcile.
 
-The most valuable AI in such an environment may be the system that decides what not to generate, what not to forward, and what does not deserve to interrupt anyone yet.
+The agents optimized the private documents.
 
-The most mature attention systems will make three prices visible. The first is interruption cost: what is displaced when this message arrives now? The second is omission cost: what happens if this message waits or never arrives? The third is coordination cost: who else must share this information for action to work?
+Nobody optimized the shared attention required to integrate them.
 
-No model can calculate these perfectly because they involve values and unknown futures. But even rough awareness improves design. A severe safety alert has high omission cost and justifies interruption. A routine status update has low omission cost and can be batched. A strategic change has high coordination cost and belongs in shared context rather than private personalization.
+Common context becomes scarce.
 
-This is what it means to allocate attention rather than merely capture it.
+Organizations often underestimate common context because it does not look like production. A team that shares a mental model can coordinate with fewer messages. A team whose members each possess rich but incompatible machine-generated analyses may communicate more while understanding one another less.
 
-For a long time, software measured engagement because engagement was easy to count. Minutes, clicks, opens, views, sessions. The metrics treated attention as proof of value. In many systems the opposite should be the ambition: achieve the result with less claim on the person. A navigation system is good when it gets you there without requiring constant thought. A background safety monitor is good when it stays quiet until it matters. A well-designed agent may perform valuable work precisely by reducing the number of times it needs to speak.
+Private intelligence can rise faster than collective intelligence.
+
+This is why not every answer should be personalized.
+
+Sometimes the highest-value artifact is the one everybody sees: a mission rule, a runbook, a written decision, a shared dashboard, a short record of what changed and why. These artifacts sacrifice some tailoring in exchange for lower coordination cost.
+
+Mission control worked partly because specialists did not all send raw telemetry directly to the astronauts. The organization created scopes, channels, and escalation. The flight director did not need every fact. The room needed enough shared procedure to understand what an unusual signal meant when it arrived.
+
+Compression protects attention.
+
+It also creates risk.
+
+A summary can hide dissent. A ranking can make something invisible. A filter can reproduce bias. An agent that protects a manager from low-priority messages can also protect the manager from early evidence that the priorities are wrong.
+
+Every attention system therefore needs routes around itself.
+
+Routine information can travel through structured channels while unusual cases retain ways to escape classification. A customer can appeal. An engineer can stop a process. A worker can surface a concern outside the normal chain. A leader can sample raw reality periodically rather than living entirely inside summaries. An automated filter can preserve a small amount of random inspection so the system still sees what its ranking model considers unimportant.
+
+Without gates, attention floods.
+
+With perfect gates, surprise disappears.
+
+The aim is not perfect filtering. It is an institution that can protect concentration without making yesterday’s model of importance impossible to challenge.
+
+This matters because some apparently inefficient attention is how weak signals survive.
+
+A scientist notices something while reading outside a narrow query. A manager hears a concern in an informal conversation that would never merit a formal escalation. A student asks a confused question that reveals the lesson itself is wrong. A mechanic hears a machine make a sound no dashboard classified as significant.
+
+These events do not justify romanticizing interruption.
+
+They justify preserving a little uncommitted capacity.
+
+The same argument appeared in the previous chapter as slack. Here it appears as perceptual slack: room in the attention system for something that has not yet earned a score.
+
+AI can remove many of the repetitive taxes that currently consume this room. It can draft routine correspondence, search records, reconcile formats, translate, schedule, extract, and summarize.
+
+The interesting question is what happens to the attention saved.
+
+Historically, productivity gains do not automatically become discretion or leisure. They can become higher output targets. If a report takes half as long, the organization may request twice as many reports. If documentation becomes faster, a clinic may schedule more patients. If grading becomes faster, a school may enlarge classes.
+
+Attention saved at one stage can be claimed immediately somewhere else.
+
+Savings therefore need an owner.
+
+A company can decide that some gains become more output and some become better verification. A hospital can convert documentation savings into shorter visits or deeper contact. A team can preserve part of the gain as reserve rather than filling every empty block. A person can let an agent save an hour without immediately giving the hour another task.
+
+Technology creates the option.
+
+The allocation decides the dividend.
+
+This becomes even more important when a person works with several agents at once.
+
+Imagine a manager with one agent watching customers, another finances, another legal obligations, another engineering, another recruiting, and another scheduling. If each agent independently decides what is important enough to interrupt, the manager has not acquired six assistants.
+
+The manager has acquired six people with permission to knock on the door.
+
+A higher layer has to arbitrate among them. Payroll may deserve immediate interruption. A mildly deteriorating marketing metric may belong in an afternoon review. Three customer signals pointing to the same defect should become one interruption rather than three.
+
+Attention is a scheduling problem as much as a ranking problem.
+
+A message can be useful and still arrive at the wrong moment.
+
+Once agents compete for access, status matters too. People with power already possess stronger means of interrupting institutions. Their email is answered faster. Their complaint reaches someone senior. Their meeting displaces somebody else’s.
+
+Agents can industrialize that advantage.
+
+Every request can arrive perfectly written, relentlessly followed up, framed as urgent, and timed to exploit the recipient’s habits. A wealthy customer can deploy a persistent agent against a small public office. A large company can have machines generate individualized appeals to every regulator, supplier, and policymaker. Employees can face internal systems that never tire of asking for updates.
+
+Without defenses, the attention economy becomes an agent arms race.
+
+Institutions will need controls that seem rude from the perspective of any single request: batching, authenticated priority, rate limits, quotas, quiet channels, random sampling, and the right not to answer.
+
+There is also a rights question hiding inside all of this.
+
+A person who cannot control access to their attention has limited control over their own cognition. Employers, platforms, schools, governments, and families all have legitimate reasons to interrupt sometimes. None therefore acquires an unlimited claim.
+
+The right not to answer is not absolute. Emergency services, legal duties, employment, care relationships, and collective life all create obligations. But obligation should not be confused with permanent reachability.
+
+As agents become persistent, institutions may need explicit rules about quiet hours, response expectations, escalation authority, and which channels can cross a person's boundaries without fresh consent. The technical capability to reach someone instantly is not the same as a social entitlement to do so.
+
+This is one place where apparently small interface choices become constitutional. A red badge, a vibration, an auto-generated follow-up, or a default escalation rule decides whose priorities enter another person's mind.
+
+The mature system will make those claims visible.
+
+It should be possible to know why an interruption occurred, which rule authorized it, whether the source has been noisy, and how to change the future behavior of the channel. Otherwise the user receives the burden while the allocator remains hidden.
+
+Attention governance is partly about giving the interrupted person standing inside the system that interrupts them.
+
+These are not failures of intelligence.
+
+They are what make abundant intelligence inhabitable.
+
+The most valuable system in such an environment may be the one that decides what not to generate, what not to forward, and what does not deserve to interrupt anyone yet.
+
+Software has often measured engagement because engagement is easy to count: opens, clicks, views, minutes, sessions. Those metrics treat attention as proof of value.
+
+Many intelligent systems should aim for the opposite.
+
+A navigation system is useful when it gets you there without demanding constant thought. A safety monitor is good when it remains quiet until something matters. A background agent may do excellent work while speaking only a few times a day.
 
 Silence can be a feature of intelligence.
 
-The future will include systems capable of generating more language than humanity could ever read. That abundance makes restraint valuable. The intelligent act will often be deciding not to produce another answer, not to send another notification, not to add another meeting, not to escalate another borderline case, not to fill every empty moment with advice.
+The future will contain systems capable of generating more language than humanity could ever read. That abundance makes restraint valuable.
+
+The intelligent act will often be deciding not to produce another answer, not to send another notification, not to add another meeting, not to escalate another borderline case, and not to fill every empty moment with advice.
 
 A civilization surrounded by minds will need to rediscover the dignity of an uninterrupted minute.
