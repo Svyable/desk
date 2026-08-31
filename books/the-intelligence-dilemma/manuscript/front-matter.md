@@ -2,168 +2,210 @@
 
 *What AI Gives the Classroom—and What It Can Quietly Take Away*
 
-For most of the history of school, producing a good answer was expensive.
+For most of the history of school, a student who did not know what to write had to remain in that condition for a while.
 
-A student had to remember something, find something, calculate something, organize something, or at least spend enough time with the material to turn an empty page into a finished one. The final essay, proof, lab report, translation, problem set, presentation, or paragraph was never a perfect record of the thinking that produced it. Students copied. Parents helped. Tutors intervened. Friends shared notes. Some students became excellent at pleasing teachers without understanding much at all.
+The blank page stayed blank.
 
-Still, the work usually left friction behind.
+The equation stayed unsolved. The paragraph stayed confusing. The code did not run. A teacher might eventually help. A parent might know the answer. A tutor might be available. A friend might explain it badly. The student might search, reread, guess, struggle, or give up.
 
-The student had to cross some distance between not having an answer and having one.
+The delay was often frustrating and sometimes wasteful. It was also part of the environment in which learning took place.
 
-Artificial intelligence changes the price of crossing that distance.
+Now the delay can collapse to seconds.
 
-A student can now begin with a competent draft instead of a blank page. A difficult paragraph can be simplified. A mathematical step can be explained several ways. A foreign-language conversation can be rehearsed without embarrassment. Feedback can arrive at midnight. A model can generate practice questions, propose examples, test an argument, debug code, imitate an examiner, or patiently repeat an explanation for the fifth time without becoming irritated.
+A student can ask for another explanation, a simpler example, a translation, a practice question, a hint, a counterargument, a code fix, a better sentence, an outline, or a complete answer. The response arrives immediately and without embarrassment. It can arrive at midnight. It can try again. It can change levels. It can ask questions back.
 
-These are not minor conveniences.
+That is an extraordinary educational capability.
 
-They are educational capabilities that wealthy families have often purchased through tutors, editors, test-prep programs, academic coaches, and parents with enough time and knowledge to help.
+It is also where the problem begins.
 
-That is the hopeful version.
+The same system that can help a student through a difficult idea can remove the need to encounter the difficulty at all. It can explain the paragraph, or summarize it so the paragraph need not be read. It can challenge a thesis, or supply the thesis. It can give a hint on the algebra problem, or solve the problem. It can help revise a sentence, or write the essay.
 
-The same system can also produce the essay, solve the problem, summarize the chapter, write the code, invent the discussion post, answer the worksheet, prepare the presentation, and make all of it look plausibly like the work of a student who understood what happened.
+From the outside, those uses can look surprisingly similar.
 
-That is the dilemma.
+The student is at the keyboard. The assignment gets finished. The document exists.
+
+What changed is how much of the path belonged to the learner.
+
+That is the intelligence dilemma.
 
 AI can help a student learn.
 
-AI can also help a student avoid learning while preserving the outward evidence that learning occurred.
+It can also help a student avoid learning while preserving much of the outward appearance that learning occurred.
 
-The distinction matters because school has always depended on indirect evidence.
+Schools are not well designed for that ambiguity because they have always depended on indirect evidence.
 
-Teachers cannot look directly into a mind and measure understanding. They infer it from artifacts and performances. The student writes an essay, so the teacher infers that the student can make an argument. The student solves an equation, so the teacher infers that the student understands the method. The student turns in code, so the instructor infers that the student can program. The student submits a research paper, so the institution infers some combination of reading, synthesis, judgment, and writing.
+A teacher cannot inspect understanding directly. An institution cannot look inside a mind and see whether a concept has taken hold. Learning has to leave traces: an explanation, a calculation, a performance, a conversation, a paper, a project, a grade.
 
-The artifact is not the learning.
+Those traces were never perfect. Students copied before computers existed. Parents helped. Tutors intervened. Some students learned the structure of an assignment better than they learned the subject. Others understood more than their writing or test performance could show.
 
-It is evidence of the learning.
+School has always worked with noisy evidence.
 
-Generative AI weakens that link.
+Generative AI makes some of that evidence much easier to produce.
 
-This is the most important consequence of AI in the classroom, and it is larger than cheating.
+This is why the argument cannot be reduced to cheating.
 
-Cheating is a familiar category. Institutions know how to think about prohibited assistance. They write rules, investigate violations, redesign exams, and punish misconduct. But AI is not only an unauthorized shortcut. It is also a legitimate tool, a tutor, an editor, an accessibility aid, a translator, a coding assistant, a brainstorming partner, a simulator, a research interface, and increasingly a normal part of the world students are preparing to enter.
+Cheating matters. Rules matter. A student who secretly submits prohibited machine-generated work has violated a real agreement.
 
-A calculator can be banned during an arithmetic test and required during an engineering course. A spell-checker can be inappropriate during a spelling assessment and ordinary everywhere else. The educational meaning of a tool depends on what the exercise is trying to reveal.
+But the more difficult cases are the permitted ones.
 
-AI makes that question unavoidable across almost every subject at once.
+Suppose a student is allowed to use AI while writing a paper. The model helps organize notes, proposes counterarguments, rewrites awkward passages, and points toward sources to inspect. The student checks the claims, rejects weak suggestions, and defends the final argument.
 
-What are we trying to reveal?
+That may be good learning.
 
-If the purpose of an assignment is to produce five polished paragraphs, a machine that can produce five polished paragraphs looks like a threat. If the purpose is to help a student learn how evidence supports a claim, then the same machine can become part of the lesson. It can generate a weak argument for the student to diagnose, propose counterexamples, expose hidden assumptions, or provide feedback that the student must decide whether to accept.
+Suppose another student asks the same system for a complete paper, makes a few cosmetic changes, and submits it under the same policy.
 
-The difference is not technological.
+The visible category is identical: AI was used.
 
-It is pedagogical.
+The educational event is not.
 
-Schools spent decades organizing themselves around a world in which answers were expensive enough that producing the answer often served as evidence of possessing the underlying capability. AI is arriving in a world where many answers are becoming cheap.
+The important distinction is not between a classroom with AI and a classroom without it.
 
-When answers become cheap, the value of the answer changes.
+It is between assistance that leaves the learner inside the work and assistance that quietly replaces the work the learner needed to do.
 
-So does the value of the question, the explanation, the defense, the revision, the source, the method, the judgment, and the ability to know when a fluent answer is wrong.
+That distinction moves from assignment to assignment.
 
-This does not mean writing no longer matters because a model can write. It means writing has to be understood more carefully.
+A calculator can be inappropriate when a child is learning basic arithmetic and indispensable in an advanced statistics course. Translation can defeat the purpose of a language-proficiency assessment and remove an irrelevant barrier in a history class. Code generation can bypass a beginner’s practice and become ordinary leverage for an experienced programmer.
 
-Sometimes writing is the product. A lawyer, scientist, manager, journalist, teacher, or engineer may reasonably use AI to improve a document because the goal is a better document.
+The same tool can help or harm depending on what the student is meant to be learning at that moment.
 
-Sometimes writing is the exercise. The student writes because the act of finding the sentence forces the mind to find the thought.
+This is inconvenient for institutions because simple rules scale better.
 
-Those are different situations.
+Ban the tool.
 
-Confusing them creates two symmetrical mistakes.
+Allow the tool.
 
-The first is to treat every use of AI as a corruption of authentic learning. That can preserve an older form of school while making the institution increasingly unlike the world outside it. Students graduate into workplaces where refusing useful tools is not a sign of integrity. They will be expected to use systems that search, draft, analyze, code, translate, summarize, and automate. Learning how to direct those systems, check them, disagree with them, and take responsibility for the result will become part of competence.
+Require disclosure.
 
-The second mistake is to assume that because AI will be common outside school, students should use it freely for everything inside school.
+Detect its use.
 
-That confuses performance with formation.
+Buy an approved version.
 
-A pianist eventually performs with both hands, but a teacher may isolate one hand during practice. An athlete competes at full speed but may repeat an awkward drill precisely because the drill exposes a weakness. A pilot uses automation but also trains for the moment automation fails. A mathematician uses software but still needs enough mathematical structure in mind to recognize nonsense. A writer can use an editor without outsourcing the ability to form a thought.
+Return to paper.
 
-Education has always used artificial constraints to build real capabilities.
+Each rule solves part of a problem. None answers the more demanding question underneath it:
 
-The arrival of a powerful tool does not eliminate the need for those constraints. It forces us to become more explicit about why they exist.
+What should the student still have to know, practice, decide, and prove?
 
-That is one reason the first years of AI in education are so confusing.
+That question is older than artificial intelligence.
 
-A teacher may assign an essay for several reasons at once. The essay teaches the material. It develops writing. It reveals misconceptions. It provides a grade. It disciplines attention. It gives the student practice sustaining an argument. It creates something the teacher can inspect. It may even be partly administrative: a standardized object that can be collected, compared, archived, and defended if the grade is challenged.
+Education has always separated tools from training in imperfect ways. Musicians practice parts they will later perform as a whole. Athletes isolate movements that disappear inside competition. Pilots use automation and still train for situations in which automation is insufficient. Writers use editors without deciding that writing no longer matters.
 
-AI can improve some of those functions while destroying the reliability of others.
+The point of education has never been to reproduce professional conditions exactly at every stage of learning.
 
-A model may help a student understand the reading while making the submitted essay less useful as evidence of who understood it.
+A school is partly a place where capabilities are built before they are fully leveraged.
 
-A model may give faster feedback while reducing the amount of effort required to discover a sentence independently.
+AI makes that easier to forget because the leverage arrives so early.
 
-A model may help a struggling student participate while allowing a confident student to glide through material without noticing that the machine has become the one doing the hard part.
+A student can produce work that looks adult before possessing the adult judgment that makes the work trustworthy.
 
-The same interaction can contain assistance and substitution at once.
+That gap matters because fluent output is persuasive.
 
-There is no single line labeled "AI use" on one side and "real learning" on the other.
+A clear explanation feels understood. A polished paragraph feels reasoned. A correct-looking solution feels mastered. A confident answer feels more reliable than a hesitant one.
 
-The useful line runs through the task.
+Sometimes the appearance is deserved.
 
-Which part of the cognitive work should the student still have to do?
+Sometimes the machine has improved the surface faster than the learner has improved underneath it.
 
-That question becomes the organizing problem of this book.
+The problem is not that assistance is artificial.
 
-The consequences extend beyond individual assignments.
+The problem is that assistance can become invisible inside the evidence schools use to judge development.
 
-Assessment changes when teachers can no longer assume that take-home work was produced under roughly known conditions. The achievement gap changes when every student can access a powerful tutor but not every student has the same judgment, motivation, language, device quality, home support, or knowledge needed to use that tutor well. The teacher's role changes when explanation becomes abundant but attention, trust, diagnosis, motivation, and responsibility remain scarce. Curriculum changes when producing a first draft is easy but choosing what deserves to be said remains difficult. Privacy changes when a student's confusion, interests, mistakes, fears, and learning history can become data inside systems operated by private companies.
+This is also why the optimistic case deserves to be taken seriously rather than treated as a concession.
 
-Even the meaning of intelligence in school begins to move.
+Good help has always been scarce.
 
-For generations, education rewarded people who could carry useful knowledge in their heads, retrieve it on demand, manipulate symbols, write clearly, follow procedures, and solve problems within the time available. Those abilities will not disappear. But they will increasingly coexist with another form of competence: knowing how to work with external intelligence without becoming dependent on it for every step.
+One teacher cannot hold thirty private conversations at once. A tutor costs money. A parent may not know the subject. Office hours happen at a particular time. A student may be too embarrassed to raise a hand. Another may need the same idea explained three different ways before it clicks.
 
-That requires judgment.
+For many students, the relevant comparison is not between an AI tutor and an excellent human tutor.
 
-A student has to know what to delegate, what to keep, what to verify, what to practice without assistance, what to ask next, and when the model's polished confidence should make them more suspicious rather than less.
+It is between some help and no help at the moment the confusion appears.
 
-This is a strange educational objective because it depends on knowledge the tool itself can appear to replace.
+A system that can provide a useful hint, generate another practice problem, translate an instruction, rehearse a language, or give immediate feedback can expand the amount of intellectual support available to a learner.
 
-The less you know, the harder it can be to evaluate a fluent answer.
+That is not trivial.
 
-The more help you accept, the fewer opportunities you may have to build the knowledge required to judge the help.
+If designed well, AI can make school more demanding in the right places because students and teachers spend less time fighting the wrong ones. It can remove clerical friction, provide more attempts, expose misconceptions sooner, and give teachers more room for the human work machines do not make abundant simply by generating more text.
 
-A tool that is most valuable to the knowledgeable can be most seductive to the novice.
+But abundance creates a new responsibility.
 
-That is the intelligence dilemma in its smallest form.
+When help is scarce, schools mostly worry about students who cannot get enough of it.
 
-The student needs assistance to learn faster.
+When help becomes abundant, schools also have to worry about students receiving so much assistance that they stop discovering what they can do without it.
 
-The student also needs enough unassisted struggle to become someone capable of using assistance well.
+A useful tutor should eventually make some of its own help unnecessary.
 
-Schools will be tempted to resolve this tension with policy.
+That is an unusual product objective.
 
-Some will ban tools. Some will embrace them. Some will require disclosure. Some will purchase institutional systems. Some will return to handwritten exams. Some will detect, surveil, lock browsers, or redesign assignments. Some will simply give up on knowing who wrote what.
+Most software is rewarded when people use more of it.
 
-Policy matters, but the deeper solution is design.
+Education sometimes succeeds when the learner needs less.
 
-A classroom has to be designed around the capabilities it is trying to build and the evidence it needs to see.
+The student who once required a hint on every fraction problem eventually starts alone. The writer who needed sentence-level support begins controlling more of the prose. The language learner reaches for translation less often. The programmer recognizes a pattern that once had to be explained.
 
-If students may use AI, the teacher should know what remains theirs to do.
+The tool remains available.
 
-If students may not use AI, the restriction should protect a meaningful learning process rather than preserve a ritual whose purpose nobody can explain.
+The person has changed.
 
-If a grade is supposed to certify independent capability, the assessment has to create evidence of independent capability.
+That change is the point.
 
-If AI is supposed to accelerate learning, the classroom has to measure whether learning accelerated rather than merely whether output increased.
+This book follows the consequences of forgetting it.
 
-The danger is not that machines will enter the classroom.
+The consequences reach beyond homework. Grades become harder to interpret when the conditions behind the work are unclear. Students can become more productive while becoming less certain about what they actually know. Teachers gain new forms of leverage and new forms of responsibility. Assessment can become more thoughtful or more intrusive. Personalization can become more humane or more surveillant. Equal access to a powerful model can still produce unequal gains because students do not begin with equal knowledge, support, judgment, or confidence.
 
-They already have.
+Eventually the question reaches the curriculum itself.
 
-The danger is that schools will mistake more completed work for more educated students.
+What should a person know when answers are cheap?
 
-The opportunity is equally large.
+What should remain in memory when retrieval is instant?
 
-For the first time, a child who is stuck at 10:47 p.m. can ask for another explanation and receive one immediately. A teacher can generate differentiated practice without spending an entire Sunday doing it by hand. A student ashamed to ask a basic question in front of classmates can ask privately. A learner can rehearse a language, interrogate a historical argument, receive feedback on code, or explore a scientific idea through conversation at a marginal cost that would have been difficult to imagine when tutoring required another person's hour.
+What should be done without assistance, and why?
 
-A classroom with abundant intelligence could become more human, not less.
+What should be done with assistance because using the tool is now part of competence?
 
-But only if the abundance is used to create more curiosity, more feedback, more conversation, more ambitious work, and more genuine mastery instead of simply more output.
+How should a school tell the difference between a student who can direct intelligence and a student who disappears inside it?
 
-This book is about that choice.
+Those questions do not have one answer for every age, subject, or task.
 
-Not whether students will use AI.
+That is not a weakness in the argument.
 
-They will.
+It is the reality the technology has exposed.
 
-The question is what kind of student the use of AI will help them become.
+A multiplication exercise and an engineering project should not have the same tool policy. A first attempt and a final revision should not necessarily have the same tool policy. Practice and certification should not always have the same tool policy. A child learning to form an argument and an expert trying to communicate one efficiently are not doing the same cognitive job even when the document on the screen looks similar.
+
+The useful unit of analysis is therefore smaller than “AI in education.”
+
+It is the moment of delegation.
+
+What did the learner hand to the machine?
+
+What remained with the learner?
+
+Was the delegated work incidental to the capability being built, or was it the capability?
+
+What evidence shows that the student became more able after the assistance than before it?
+
+Those questions resist both panic and boosterism.
+
+A blanket ban can preserve useful practice and also preserve pointless rituals. Blanket permission can prepare students for real tool use and also allow foundational capabilities to atrophy before they are built. The technology is too useful to reject as contamination and too powerful to treat as educationally neutral.
+
+Schools need something more precise than a position.
+
+They need a theory of what the student is becoming.
+
+The standard this book returns to is simple enough to say and difficult enough to govern by:
+
+Did the student become more capable?
+
+Not merely faster.
+
+Not merely more polished.
+
+More capable of understanding, judging, explaining, creating, checking, deciding, and acting—with assistance when assistance belongs and without it when independence matters.
+
+That is the promise of abundant intelligence in the classroom.
+
+It is also the danger.
+
+The machine can help build the learner.
+
+Or it can become very good at making the work look finished before the learner is.
