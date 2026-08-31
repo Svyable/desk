@@ -209,3 +209,55 @@ We may become surrounded by more answers while feeling a greater shortage of jud
 The machine can generate another possibility. Then another. Then another.
 
 At some point someone has to decide which future is worth the energy of making real.
+
+Jevons himself is useful here because the historical claim is narrower and messier than the slogan his name has become. In *The Coal Question* in 1865, he was writing about a Britain whose industrial strength depended heavily on coal. More efficient steam engines lowered the amount of coal needed for a unit of useful work, but they also made steam power economical in more places and processes. Jevons feared that efficiency would expand the industrial field of coal faster than it reduced coal use per task.
+
+The last century and a half did not turn that intuition into a universal conservation law for demand. Rebound varies by technology, market, time horizon and level of analysis. Reviews of the energy literature have repeatedly found that the strongest version of the paradox—efficiency improvements always causing total energy use to rise—is too confident. The evidence for full “backfire” is difficult to establish. At the same time, economy-wide rebound can be large enough that engineers who count only the direct savings from a more efficient device can badly overstate the eventual reduction in energy use.
+
+That uncertainty is exactly why the analogy to cognition is useful.
+
+The question is not whether there is a magic rebound percentage for tokens. There is not. The question is what becomes economically possible after the effective price of a useful unit of cognition falls.
+
+The early cost curve gives us a glimpse. Stanford's 2025 AI Index compared models at a fixed performance threshold rather than simply comparing newer, better systems with older, weaker ones. At roughly GPT-3.5-level performance on MMLU, the reported price fell from about twenty dollars per million tokens in November 2022 to seven cents by October 2024. That is a reduction of more than 280 times in roughly eighteen months. The same report found rapidly improving hardware price-performance and energy efficiency.
+
+A 280-fold cost decline is not merely a discount. It changes the set of things a rational person would consider doing.
+
+At twenty dollars per million tokens, a developer notices every sprawling prompt and repeated call. At seven cents, many applications stop treating inference as a precious event. They classify every item rather than a sample. They summarize every meeting. They generate variations automatically. They let an agent retry. They run background checks the user never explicitly requested. The unit cost disappears into the product experience.
+
+Then capability itself creates a second rebound. The 2025 AI Index highlighted test-time reasoning systems that traded more inference work and latency for better results on difficult tasks. This means progress can move in two directions at once: cheaper computation for a fixed capability and more computation spent to buy a higher capability. The cheapest answer becomes dramatically cheaper while the frontier answer may deliberately consume more reasoning.
+
+That is not contradictory. Airlines sell economy seats and private aviation in the same civilization.
+
+The software architect now chooses a cognitive service level. A routine extraction task may run on a small model. A medical, legal or engineering workflow may justify a more expensive system, multiple independent passes and verification. A coding agent can spend ten times more compute if doing so avoids ten hours of human debugging. The relevant denominator is no longer tokens. It is the value of the completed task.
+
+This creates a measurement problem for energy forecasts. Counting average energy per query can improve while total energy demand rises because queries become more numerous, agents become longer-lived and high-value workloads become deeper. Counting total data-center load reveals the physical result but says little about whether society received one trillion trivial completions or one million consequential discoveries. Neither metric is enough by itself.
+
+The three ledgers have to remain separate long enough to be useful.
+
+Energy tells us the physical cost. Intelligence tells us the search or decision capability purchased. Value tells us why anyone was willing to pay for the exchange.
+
+Confusing the ledgers produces two symmetrical mistakes. The first is to celebrate every efficiency gain as if it must reduce total resource demand. The second is to condemn rising resource demand as if it proves efficiency failed. A more efficient system can consume more in total because it became more useful. A less efficient system can consume less because nobody wants it.
+
+The welfare question sits elsewhere.
+
+Consider a hospital that can afford to run a model over every radiology report, pharmacy order and discharge instruction. Total inference use rises sharply. If the system catches dangerous interactions, improves follow-up and reduces preventable readmissions, the rebound is the mechanism by which efficiency becomes social value. Now consider a marketplace in which sellers generate millions of near-identical listings and the platform deploys models to deduplicate them. Compute rises on both sides and much of the expenditure simply restores a usable signal-to-noise ratio.
+
+The same cost curve permits both futures.
+
+This is why institutional design belongs inside an energy-and-AI discussion. Rate limits, pricing, liability, verification requirements, identity systems, anti-spam rules and product incentives all influence how cheap cognition is spent. They do not determine the number of floating-point operations directly. They determine which games make those operations profitable.
+
+There is an additional rebound that does not show up on the electricity meter at all. When first-pass intellectual work becomes cheap, humans can raise their standards. A manager who once accepted a rough memo may now expect scenario analysis. A customer who once tolerated a generic answer may demand personalization. A programmer who once shipped after a limited test suite may be expected to test far more states. The baseline of adequacy moves.
+
+Cheap intelligence can therefore create more work by changing what counts as enough.
+
+That pattern is familiar from other technologies. Faster communication did not empty inboxes. Better cameras did not reduce the number of photographs. Cheap storage did not persuade organizations to keep less data. In each case a resource became inexpensive enough that behavior reorganized around abundance. Eventually a new scarcity—attention, curation, trust, retrieval—appeared above it.
+
+The likely scarce complement to cognitive abundance is judgment under consequence. Somebody or something must decide how far to search, which result to trust, what objective to pursue and when another increment of reasoning is no longer worth its cost.
+
+That stopping decision is where value re-enters the machine.
+
+Jevons for minds is therefore less a warning against efficiency than a warning against static imagination. When the cost of thought falls, do not ask only how much money or electricity the old workflow saves. Ask what new workflows appear, which old standards rise, which adversarial games intensify and which physical bottlenecks inherit the pressure.
+
+Efficiency does not end demand.
+
+It edits the menu.
