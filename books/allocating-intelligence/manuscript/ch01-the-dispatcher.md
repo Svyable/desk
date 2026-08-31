@@ -2,110 +2,210 @@
 
 At the center of many emergencies sits a person who is nowhere near the emergency.
 
-A caller sees smoke. A child is not breathing. A car has crossed a median. Someone hears a sound downstairs that should not be there. The dispatcher does not smell the smoke, touch the patient, see the road, or know whether the sound was a burglar or a cat. The dispatcher receives a compressed, frightened account through a narrow channel and has to turn it into action. Which service? How urgent? What instructions can be given before help arrives? What should the caller do, and just as important, what should the caller not do? The person on the phone has information the dispatcher lacks. The dispatcher has procedures, maps, institutional memory, and access to resources the caller lacks. Neither possesses the whole intelligence required by the situation.
+A caller sees smoke. A child is not breathing. A car has crossed a median. Someone hears a sound downstairs that should not be there. The dispatcher cannot smell the smoke, touch the patient, see the road, or know whether the sound was a burglar or a cat. What arrives is a frightened description through a narrow channel. The dispatcher has to turn that description into movement.
 
-This is an allocation problem before it is a knowledge problem.
+The first questions can sound almost offensively simple. Where are you? What happened? Is anyone in immediate danger? Is the person conscious? Is there a weapon? The caller may want to explain everything at once. The dispatcher is trying to discover what kind of response the world requires before the world changes again.
 
-It is tempting to imagine intelligence as a substance: more is better, the way more fuel extends range or more money enlarges a budget. But intelligence in action is closer to a transportation network. Its usefulness depends on routing. A brilliant answer delivered to the wrong person is nearly useless. A correct diagnosis that arrives after the window for treatment has closed is a historical observation. A warning that reaches everybody can be less effective than a warning that reaches the few people who can act. Expertise held at headquarters may matter less than ordinary competence already present at the edge.
+The caller knows things the dispatcher does not. The dispatcher knows things the caller does not. One has proximity; the other has maps, procedures, institutional memory, radio channels, and access to people who can act. Neither has the whole intelligence required by the situation.
 
-The dispatcher reveals this because dispatching makes routing visible. The job is not to become the best firefighter, physician, police officer, mechanic, counselor, and geographer at once. The job is to recognize what kind of problem is appearing and send the right combination of attention and capability toward it under conditions of uncertainty. A large part of institutional intelligence lives in that sentence.
+This is the book’s central problem in miniature. Intelligence matters, but so does its destination.
 
-Artificial intelligence has been sold mainly as an answer machine. The sales pitch is understandable. Answers are easy to demonstrate. A prompt goes in; a paragraph, plan, image, diagnosis, or program comes out. The before-and-after is clean enough to fit on a stage. Allocation is harder to demo because the interesting work is distributed across time and people. The crucial success may be the question the system chose not to answer, the case it escalated, the specialist it interrupted, the document it retrieved, the action it refused to take, or the quiet decision to spend five more seconds verifying a claim before anyone moved.
+It is tempting to imagine intelligence as a substance: more is better, the way more fuel extends range or more money enlarges a budget. In practice, useful intelligence behaves more like a network. A brilliant answer delivered to the wrong person can be nearly useless. A correct diagnosis that arrives after the window for treatment has closed becomes a historical observation. An alert sent to everybody can be less effective than one sent to the few people able to respond.
 
-As machine intelligence becomes cheaper, these unglamorous choices grow in importance. Suppose an organization can summon competent analysis for almost any routine question at negligible marginal cost. The old constraint—there are only so many analysts—weakens. But the organization has not escaped scarcity. It has created new scarcities. Someone must decide which questions deserve deeper analysis. Someone must verify outputs that carry consequences. Managers must absorb more proposals. Databases must hold more memory. Networks must move more context. Authorities must decide which systems may act without permission. People must know when to interrupt automation. If every employee can generate twenty plausible strategies before lunch, executive attention may become scarcer than strategy.
+Dispatch makes this visible because routing is the work.
 
-The first mistake of abundance is to keep using the map of scarcity that abundance just destroyed.
+The dispatcher does not need to become the best firefighter, physician, police officer, counselor, mechanic, and geographer in the city. The harder task is recognizing what kind of problem is appearing, how quickly it is changing, what information is still missing, and which combination of attention and capability should be moved toward it.
 
-Herbert Simon saw an earlier version of this inversion in 1971. In a world rich with information, he argued, the scarce resource becomes the attention information consumes. The point is more general than media or email. Whenever a formerly scarce input becomes plentiful, some complement becomes the bottleneck. Cheap cars make road space valuable. Cheap photographs make selection valuable. Cheap computation makes clean data, power, cooling, and software more valuable. Cheap intelligence makes judgment about the use of intelligence more valuable.
+Artificial intelligence has mostly been demonstrated as an answer machine. The format is natural because answers are easy to show. A prompt goes in; a paragraph, image, diagnosis, plan, or program comes out. The before-and-after is clean enough for a stage.
 
-The phrase “allocating intelligence” therefore has two meanings. The first is straightforward: who or what gets cognitive resources? Which problem receives the fast model, the expensive model, the specialist, the committee, the search, the experiment, the simulation, or the human conversation? The second meaning is more political: who gets to decide? Allocation is always an exercise of power because it determines which uncertainty deserves to be reduced and which uncertainty others must live with.
+Allocation is harder to demonstrate because its successes are often invisible. The important act may be the question the system refuses to answer, the case it escalates, the specialist it interrupts, the document it retrieves, the expensive model it decides not to call, or the few extra seconds it spends checking a claim before anyone acts.
 
-A dispatcher does not merely transmit requests. The dispatcher classifies them. Classification changes fate. A call that becomes “priority one” moves through the system differently from a call that becomes “routine.” The classification may be correct, mistaken, or revised as new information arrives, but the system cannot avoid making it. Resources are finite and time passes.
+As machine intelligence becomes cheaper, those decisions become more important rather than less.
 
-Machine systems will perform more of this classification, sometimes explicitly and sometimes invisibly. An inbox model decides what is important enough to place at the top. A medical system decides which image deserves review first. A fraud model determines which transaction should be stopped. A coding agent chooses which test failure to investigate before the others. A logistics system routes a scarce part to one facility instead of another. An autonomous vehicle decides which object in a crowded scene demands more computation. A personal agent decides which notification should be allowed to break into a conversation.
+Imagine a company in which any employee can summon competent analysis on almost any routine question at negligible marginal cost. One scarcity has weakened: there are no longer only so many analyst-hours available. But the company has not escaped scarcity. Managers must absorb more proposals. Someone must decide which questions deserve deeper work. Someone must verify outputs that carry consequences. Systems must store more context. Operators must know when automated work can proceed and when it needs permission.
 
-Each is a dispatcher.
+The company may discover that strategy became cheap before executive attention did.
 
-The familiar debate asks whether the machine is intelligent enough. Often that will be the wrong threshold question. A system can be intelligent enough to create danger because it is trusted too broadly, or useful because it is trusted narrowly. It can be weaker than a human expert and still improve an organization by triaging routine cases away from that expert. It can be stronger than any individual and still make the whole system worse if its output floods downstream decision makers. Performance at a benchmark tells us something about capability. It tells us little about allocation.
+Herbert Simon described an earlier version of this inversion in 1971. In a world rich with information, he argued, the scarce resource becomes the attention that information consumes. The same pattern appears whenever abundance arrives unevenly. Cheap computation can increase the value of clean data and reliable software. Cheap photography increases the value of selection. Cheap communication can make trusted filtering more important.
 
-This distinction matters because intelligence is rarely consumed in isolation. Consider a patient arriving at a busy emergency department. The hospital might have superb diagnostic tools. Yet the sequence still matters: the patient must be noticed, triaged, placed somewhere, examined, tested, interpreted, treated, monitored, and handed off. A perfect answer at one stage cannot compensate for every failure at another. If the patient waits unseen, diagnostic intelligence is idle. If the test is ordered but never followed, information becomes clutter. If an alert fires for nearly every patient, attention becomes the scarce resource. If no bed exists, a correct recommendation confronts a physical constraint.
+Cheap intelligence can make judgment about the use of intelligence more valuable.
 
-WHO emergency-triage guidance makes the allocation logic explicit. Patients are not simply diagnosed in arrival order. Signs that indicate immediate danger are separated from priority signs and from non-urgent cases so limited care can be directed toward time-sensitive need. The moral purpose is obvious, but the technical point is easy to miss: the system does not need complete understanding before it acts. It needs enough understanding to allocate the next increment of care.
+That does not mean every problem becomes a managerial scheduling exercise. It means that the old map of scarcity stops being reliable. When a resource becomes abundant, the bottleneck often moves into a complement.
 
-That idea is essential for thinking about artificial intelligence. We have inherited a picture of intelligence from examinations. The student sits alone, receives a fully stated problem, produces an answer, and is graded. Much of AI evaluation follows the same geometry. But consequential intelligence in the world is usually incomplete and sequential. The first useful act is often not solving the whole problem. It is deciding what kind of problem this is, what information is missing, what can safely wait, and who or what should be engaged next.
+Emergency medicine makes the point more starkly. A hospital can possess excellent diagnostic tools and still fail a patient who waits unseen. The patient must be noticed, triaged, examined, tested, interpreted, treated, monitored, and handed off. Information can be correct at one stage and useless because another stage could not absorb it.
+
+WHO emergency-triage guidance begins from that reality. Patients are not simply understood in full and then sorted. Signs of immediate danger and priority conditions are identified so that limited care can move first toward time-sensitive need. The system acts before it possesses complete understanding because waiting for completeness would itself be a decision.
+
+Triage is not a lesser form of diagnosis. It serves a different purpose.
+
+That distinction matters for artificial intelligence because much of our cultural picture of intelligence comes from examinations. A problem is fully stated. The student sits alone. An answer is produced and scored. Many AI evaluations inherit the same geometry.
+
+Real institutions rarely enjoy it.
+
+The first useful act may be to decide what kind of problem this is. Or which piece of missing information matters most. Or whether the case can safely wait. Or whether the right move is not to solve the problem at all but to route it to somebody else.
 
 A good dispatcher asks for an address before delivering a lecture on fire behavior.
 
-The simplest systems already embody this. Computer operating systems allocate processor time among processes. Networks route packets. Warehouses route orders. Hospitals triage patients. Courts schedule cases. Editors choose which stories deserve reporting. Venture capital firms decide which founders receive partner attention. Managers decide which exceptions deserve escalation. Families decide which problem gets tonight’s conversation and which can survive until Saturday. These systems differ morally and technically, but all confront the same structure: demand for attention exceeds the amount of high-quality attention available at a particular moment.
+Once intelligence is viewed this way, classification acquires more weight. A dispatcher does not merely transmit requests. The dispatcher places them into a structure of priority. A case understood as an immediate threat moves differently from a case understood as routine. The first classification may be revised as new information arrives, but the system cannot postpone classification forever because time continues to pass and resources are not infinite.
 
-AI enlarges both sides of that equation. It increases the supply of some kinds of cognitive work, but it also increases demand by making previously unaffordable questions cheap to ask. When translation cost falls, more things get translated. When software cost falls, more software gets written. When analysis cost falls, more analysis gets requested. The organization does not necessarily experience the result as abundance. It may experience a queue.
+Machine systems already perform similar work, often without being described as dispatchers. An inbox model decides what deserves the top of a queue. A medical system can determine which image should be reviewed first. A fraud system decides which transaction deserves interruption. A coding agent chooses which failure to investigate before the others. A personal agent decides whether a notification is important enough to break into a conversation.
 
-This is Jevons’s paradox translated from coal into cognition: efficiency can increase total consumption. The analogy should not be pushed into a law, but the mechanism is plausible. A team that previously commissioned three market analyses a quarter may ask for three hundred when the first draft costs almost nothing. A researcher who once tested five hypotheses may ask an agent to explore five hundred. A government office may generate individualized notices instead of one general circular. A customer-service system may produce a bespoke response for every complaint. Each act is cheaper. The aggregate can be larger.
+The political question begins here, before any dramatic autonomous action.
 
-The scarce resource then moves downstream. Who reads the analyses? Who decides which hypothesis deserves an experiment? Who verifies the personalized notice? Who owns the consequences of the customer response? If those complements do not scale, intelligence accumulates like freight at a port whose cranes did not multiply with the ships.
+Who defines “urgent”? Who absorbs the false alarms? Who pays for delay? Whose complaint enters the fast lane? Which uncertainty deserves to be reduced first?
 
-One response is to automate the complements too. Let models review models. Let agents rank agent proposals. Let software monitor software. This will happen, and often it will be sensible. But it does not eliminate allocation. It creates another layer of it. Which reviewer should be trusted? When do two models agreeing count as evidence rather than correlated error? What events must cross into human attention? Which automated actions require logs, reversibility, or a second system’s approval? How much delay is acceptable in exchange for another check?
+Allocation is never only about moving computation. It also distributes waiting.
 
-The dispatcher problem recurs at every scale.
+A queue looks administrative until you ask who lives inside it.
 
-NASA mission control offers a vivid institutional version. During Apollo, the person known publicly as “the flight director” sat in a room full of specialized controllers backed by larger teams. Authority was concentrated enough to permit action, but knowledge was distributed. The flight director did not personally calculate every trajectory or monitor every subsystem. Specialists watched their domains, communicated through defined channels, and escalated what mattered. Mission rules encoded decisions made before the crisis. When time permitted, managers could be consulted about major changes. When time did not permit consultation, operational authority had to be clear.
+Emergency systems make the moral content of waiting obvious because the clock is visible. In other settings the delay is easier to hide. A loan application waits. A disability claim waits. A laboratory result waits. A maintenance request waits. A customer appeal waits. Each item may appear as one row among thousands, but the delay is being experienced by a person or absorbed by a machine that may continue degrading.
 
-This arrangement is interesting not because it was perfect or because spaceflight is a universal model. It is interesting because NASA faced an allocation problem that intelligence alone could not solve. Hundreds of technically capable people could not all speak to the astronauts. Senior managers could not intervene arbitrarily in every operational decision. Specialists needed enough autonomy to monitor their systems without fragmenting command. The structure had to decide where expertise lived and how it moved.
+The allocator therefore controls more than order. It controls exposure to time.
 
-A poorly designed AI organization can fail in the opposite direction. Imagine every agent is allowed to speak to the chief executive. Or every model can interrupt a surgeon. Or every automated monitor can stop a factory line. Intelligence may be abundant, but interruption becomes catastrophic. Now reverse it: no agent may interrupt without passing five approval layers. Errors stay quiet until the formal meeting. The problem is not intelligence. The problem is the architecture of attention and authority.
+This is why ranking systems deserve more scrutiny than their modest appearance suggests. A model that predicts risk may never approve or deny anything directly. It may simply move some cases upward and others downward. Yet if the queue is long enough, priority can become outcome. The system's power comes from changing when attention arrives.
 
-This architecture should be designed before the most capable systems arrive, because institutions tend to inherit the habits of their tools. Email produced organizations that could copy everyone. Slides produced organizations that could present endlessly. Dashboards produced organizations that could measure thousands of things without deciding which ones mattered. AI can produce organizations that can think about everything and therefore finish nothing.
+There is no universal rule that the highest predicted risk should always be first. Emergency triage uses urgency because delay threatens life. A court may also care about due process and equal standing. A repair shop may group work by available parts. A public benefits office may need to protect people facing immediate hardship while also preventing routine cases from becoming permanent backlog.
 
-The alternative begins by refusing to treat every cognitive act as equal. Some questions are cheap but urgent. Some are expensive but slow. Some need breadth. Some need proof. Some should be answered privately. Some should leave an audit trail. Some can be reversed. Some, once acted upon, cannot. Some benefit from diversity of independent judgment. Some require one accountable decision maker. Some should be automated precisely because they are boring. Some should remain human precisely because boredom is not the main risk.
+The difficult question is not whether to rank. Large systems already rank, explicitly or by default. The difficult question is which values enter the ranking and which remain invisible.
 
-Allocation asks us to name these differences.
+Arrival order is a value. Severity is a value. Expected benefit is a value. Cost is a value. Fairness is a value. Continuity is a value. Randomness can be a value when no morally relevant distinction justifies choosing one person over another.
 
-The unit of intelligence is therefore not a token, a parameter, an IQ point, a benchmark score, or an expert-hour, though all can be useful measures in their domains. The operational unit is closer to a resolved uncertainty in a context where resolution changes what happens next. That resolution may require a tiny amount of cognition or a national laboratory. It may require one person to notice a pattern or a thousand people to collect evidence. It may require no AI at all.
+A sophisticated allocator can still be wrong because it optimized the wrong ordering.
 
-Once framed this way, an uncomfortable fact follows. More intelligence can make a system worse when it is allocated badly.
+That possibility should make us cautious about calling allocation merely an efficiency problem. Faster routing is useful only if the destination is legitimate. An exquisitely optimized system that consistently sends scarce attention toward the already powerful may be efficient in the narrow sense and corrupt in the important one.
 
-This is already familiar in ordinary life. A meeting with ten experts can be worse than a conversation with two if nobody knows who decides. A medical workup can become harmful if additional tests produce incidental findings that trigger unnecessary interventions. A security team can drown in alerts. A company can die while producing excellent strategy documents. A military commander can receive such detailed intelligence that the tempo of analysis outruns the tempo of decision. A parent can research a trivial purchase for six hours and still forget to call a friend who needs help.
+The dispatcher metaphor has limits here. Emergency communications operate inside a comparatively clear mission: get the right help to an urgent event. Many institutions have contested missions. A university decides whom to admit. A government decides which risks justify inspection. A company decides which customers deserve human support. A platform decides which speech receives distribution. In these cases the allocator is not only recognizing the world. It is also helping define what the institution treats as important.
 
-The pathologies differ, but they share a shape: cognition consumed resources without improving action.
+AI can make that definition feel technical because rankings arrive as scores.
 
-The idea of allocating intelligence does not imply that every thought must justify itself in a spreadsheet. Curiosity is one of the best uses of surplus cognition. Art, play, speculative science, conversation, and wandering inquiry are valuable partly because nobody knows in advance what they will yield. A civilization that allocates only by immediate measurable return will become efficient at reproducing the present. The point is not to eliminate slack. It is to understand that slack itself is an allocation choice, often a wise one.
+Scores do not eliminate judgment. They relocate it into data selection, objectives, thresholds, exception rules, and the decision about what happens after the score is produced.
 
-Nor does allocation imply central planning. Markets allocate. Queues allocate. Prices allocate. Norms allocate. Defaults allocate. Professional boundaries allocate. Physical distance allocates. Software permissions allocate. Reputation allocates. Luck allocates. Whoever designs the default ranking in a system is already allocating attention whether they use the word or not.
+The practical consequence is that routing systems need governance at the same level as the decisions they materially shape. A low-stakes recommender can tolerate ordinary product experimentation. A queue that determines access to medical review, public benefits, or legal attention deserves a different standard. The model may never sign the final form. It can still decide whose form reaches a human while there is time to matter.
 
-The question is which mechanism fits which intelligence problem.
+Allocation distributes attention, but it also distributes delay, exposure, and the opportunity to be reconsidered.
 
-Some allocations benefit from prices because dispersed preferences and costs matter. Some should not be sold because the right to consideration is not a commodity. Some require lotteries because selection by “merit” would merely encode existing advantage. Some need expert triage. Some need democratic choice. Some need a constitutional boundary that says a certain kind of decision may not be delegated no matter how competent the delegate appears.
+This is one reason benchmark performance can mislead. A system can be weaker than a human expert and still make an organization better if it handles routine triage well enough to protect expert attention. A system can be stronger than any individual and still make an organization worse if it produces so much analysis that downstream decision makers become the bottleneck.
 
-AI does not answer these questions for us. It makes them harder to postpone.
+Capability and allocation are related, but they are not the same variable.
 
-For several decades, the technology industry enjoyed a convenient simplification: build capability first, discover the social organization later. The approach can work when failure is cheap, adoption is voluntary, and consequences are local. It is less attractive when systems distribute credit, medical attention, educational opportunity, legal suspicion, military force, or managerial authority. In those settings, routing is policy.
+The difference becomes especially visible when a new tool lowers the cost of asking questions. A team that once commissioned a handful of analyses may request hundreds when a first draft costs almost nothing. A researcher may ask an agent to explore a much larger hypothesis space. A public office may produce individualized explanations rather than one circular. A customer-service system may create a bespoke response for every complaint.
 
-The future will contain organizations with extraordinary cognitive capacity. Some will use it to watch everything. Some will use it to empower people at the edge. Some will concentrate authority around a small group holding the strongest models. Some will make capable models into public infrastructure. Some will sell latency tiers, verification tiers, privacy tiers, and autonomy tiers. Some will discover that their expensive frontier model is less important than the cheap classifier deciding when to call it.
+Each act becomes cheaper. The aggregate demand for action may grow.
 
-The best of these institutions will look less like a room full of geniuses and more like a well-designed dispatch system. They will know which signals deserve interruption. They will maintain channels for escalation. They will preserve local knowledge. They will distinguish reversible experiments from irreversible acts. They will spend verification where error is costly. They will keep memory of unusual failures. They will protect reserves for surprise. They will understand that authority and expertise are different resources.
+The result can feel less like abundance than a queue.
 
-The institutional detail inside mission control is worth lingering over because it corrects a popular picture of intelligence. Apollo did not put one master mind behind the astronauts. NASA's own program summary describes a flight-control organization divided into mission command and control, systems operations, and flight dynamics, with staff support rooms nearby where specialists could monitor and analyze the mission in greater detail. The control room was a narrow visible surface above a much larger cognitive machine.
+The analogy to Jevons’s paradox is useful if kept modest. When efficiency lowers the cost of using a resource, total use can rise rather than fall. Something similar may happen with cognition. Cheap analysis invites more analysis. Cheap software invites more software. Cheap translation invites more translation. The organization must then cope with whatever sits downstream.
 
-That arrangement solved several problems at once. It kept the crew from having to negotiate with an institution of thousands. It kept specialists close enough to the data to notice anomalies. It gave the flight director an operating picture without requiring the flight director to reproduce every specialist's expertise. It also created a route by which uncertainty could travel. A subsystem controller did not need to know the whole mission in order to say that something in one domain no longer fit expectations.
+Who reads the analyses? Which hypothesis receives a real experiment? Who checks the personalized notice? Who owns the promise made in the customer response?
 
-This is different from merely adding more experts to a room. The experts had stations, scopes, communication channels, rules, and a shared temporal discipline. The architecture constrained who spoke to whom because unconstrained communication would itself have become a hazard. One can imagine a system with twice as many brilliant engineers and half as much clarity about escalation performing worse.
+If those complements do not scale, intelligence piles up like freight at a port whose ships multiplied faster than its cranes.
 
-Modern emergency communications make the same point at street level. In the United States, 911 systems are locally and regionally organized, and the roles vary: in some centers a telecommunicator receives, processes, and dispatches a request for help; in others those functions are separated. That variation matters less here than the sequence. The caller rarely knows which agency, unit, or level of response should be mobilized. The caller reports a world in fragments. The institution turns fragments into an actionable category and then into a route.
+The obvious answer is to automate the complements as well. Models can review models. Agents can rank proposals from other agents. Software can monitor software. In many cases that will be sensible. It may also be the only way to operate at machine speed.
 
-A fire engine is not a better answer than an ambulance. A police unit is not a stronger model than a paramedic. The value comes from matching the response to the event under time pressure. The dispatcher's cognition is partly diagnostic, but its purpose is allocation.
+But the dispatcher problem returns one level up.
 
-AI will increasingly occupy this middle layer. A model may sit between a citizen and a public agency, a patient and a clinic, an employee and an internal expert, a machine sensor and a maintenance crew, a customer and a company. The temptation will be to evaluate such systems by answer quality because answers are easy to benchmark. The more important measure may be routing quality: did the right case reach the right capability at the right time, with the right context attached?
+Which reviewer is trusted? When does agreement between two systems count as corroboration rather than shared error? What must cross into human attention? Which automated acts require reversibility, logging, or independent approval? How much delay is acceptable for another check?
 
-Routing errors have a peculiar invisibility. If an expert gives a bad answer, there is an answer to inspect. If a scheduler never calls the expert, the missing consultation may leave no artifact. If a warning is assigned low priority and disappears beneath routine traffic, the system can look calm right up to the failure. If a citizen is directed to the wrong office, the bureaucracy records another ordinary interaction rather than the service that never occurred.
+Adding a layer of intelligence does not remove allocation. It creates another allocator.
 
-That is why allocation systems need outcome loops. A dispatcher can learn from what crews discover on arrival. A triage system can learn from subsequent diagnosis. An AI router can learn from escalations, reversals, appeals, and cases that were initially classified as routine but later became costly. Without this feedback, the allocator sees only its own categories and can become confidently self-consistent.
+Apollo mission control offers a useful institutional example because the mythology of spaceflight can make the opposite arrangement seem plausible. From a distance, one might imagine a handful of heroic minds commanding a machine through sheer expertise. The actual organization was more distributed.
 
-A useful metric is therefore not simply whether the first route was correct. It is whether the system notices when the world no longer fits the route. Good dispatch includes the possibility of redispatch. A new symptom changes priority. A new sensor reading changes the maintenance response. A customer who has tried the standard remedy three times should not enter the same standard remedy a fourth time.
+NASA’s own program summary describes a flight-control structure divided across mission command and control, systems operations, and flight dynamics, supported by specialists working beyond the visible control room. The flight director occupied an important position, but did not personally calculate every trajectory or monitor every subsystem. Knowledge was distributed across stations and teams. Communication channels were constrained. Mission rules preserved decisions made before the crisis. Operational authority had to remain clear when there was no time for leisurely consultation.
 
-The deepest intelligence in such a system may be the willingness to reopen the question of where the intelligence belongs.
+The control room was a narrow visible surface above a much larger cognitive machine.
 
-Most of all, they will accept that intelligence has a destination.
+That architecture solved several problems at once. Astronauts did not have to negotiate with an institution of thousands. Specialists could remain close enough to particular systems to notice abnormalities. The flight director could maintain an operating picture without reproducing everybody else’s expertise.
 
-A mind, human or machine, is never useful merely because it exists. It becomes useful when its attention is directed toward a problem, when the problem is represented well enough to work on, when the result reaches someone who can act, and when the action occurs within a system capable of absorbing it. That chain is the real object of design.
+Just as important, uncertainty had somewhere to travel.
 
-The age of intelligence abundance will not be won by whoever has the most answers. It will be shaped by whoever learns where answers belong.
+A subsystem controller did not need to understand the entire mission in order to recognize that one part of the world no longer fit expectation. The organization had a route for that discrepancy to move upward.
+
+This is different from simply adding more experts to a room. Expertise without structure can become noise. The controllers had scopes, stations, communication channels, rules, and a shared sense of time. Unconstrained communication would have created its own hazard.
+
+The point is not that mission control solved hierarchy once and for all. It solved a narrower problem by making responsibility legible. Specialists could surface anomalies without claiming command of the mission. The flight director could make operational decisions without pretending to possess every specialist's knowledge. Rules established in advance reduced the number of arguments that had to be invented during the emergency.
+
+That separation is useful for AI systems. A model can be excellent at detecting an anomaly without having authority to shut down the service. An agent can be excellent at drafting a response without being entitled to send it. A verifier can be excellent at finding contradictions without being the person who decides which risk the organization accepts.
+
+The architecture becomes safer when these distinctions are explicit before speed turns ambiguity into action.
+
+An AI organization can fail at either extreme.
+
+Imagine that every agent may interrupt the chief executive. Or every monitoring system may stop a factory line. Or every model may demand a surgeon’s attention. Intelligence may be abundant, yet interruption becomes catastrophic.
+
+Now reverse the design. No system may escalate without passing through five approval layers. Warnings remain quiet until the scheduled meeting. Errors are perfectly documented and operationally ignored.
+
+Neither failure is caused by a lack of intelligence.
+
+The failure is architectural.
+
+This matters because institutions inherit habits from their tools. Email made it cheap to copy everyone, so organizations learned to copy everyone. Dashboards made it easy to display hundreds of measures, so organizations learned to watch more measures than they could interpret. Presentation software made it easy to create slides, and many institutions became suspiciously good at producing slides.
+
+AI can make it cheap to think about everything.
+
+That does not mean an institution will become better at deciding.
+
+The practical response is not to classify every thought by a rigid formula. It is to take differences in consequence seriously. Some questions are cheap and urgent. Some are expensive and slow. Some need privacy. Some need an audit trail. Some benefit from independent judgment. Some are reversible experiments. Others create obligations that cannot be quietly undone.
+
+The allocator needs to know which kind of situation it is facing.
+
+This is why the unit of useful intelligence is not a token, a parameter, an IQ point, or an expert-hour, though all can matter in their domains. In operation, intelligence becomes valuable when uncertainty is reduced in a way that changes what happens next.
+
+Sometimes that requires a frontier model. Sometimes it requires a local worker who already understands the machine. Sometimes it requires a committee. Sometimes the highest-value cognitive act is recognizing that nothing more needs to be thought about.
+
+More intelligence can make a system worse when the system has no way to stop consuming it.
+
+A security team can drown in alerts. A medical workup can produce incidental findings that generate interventions unrelated to the original problem. A company can produce excellent strategy documents while failing to choose among them. A person can spend six hours researching a trivial purchase and still neglect the conversation that actually matters.
+
+The pathologies are different, but the structure is similar: cognition consumed scarce complements without improving action.
+
+That does not make curiosity wasteful. A civilization that allocates cognition only by immediate measurable return would become efficient at reproducing the present. Art, speculative science, play, wandering inquiry, and conversation are valuable partly because their results cannot be priced in advance.
+
+Slack can be an allocation choice too.
+
+Nor does allocation imply one central dispatcher. Markets allocate. Queues allocate. Norms allocate. Defaults allocate. Professional boundaries allocate. Prices allocate. Physical distance allocates. Software permissions allocate. Reputation allocates. Luck allocates.
+
+The useful question is not whether allocation occurs. It is which mechanism is deciding and whether that mechanism fits the consequence.
+
+Some allocations benefit from prices. Some should never be sold because the right to consideration is not a commodity. Some need expert triage. Some need lotteries. Some need democratic choice. Some need a hard boundary that says a certain decision may not be delegated even if the delegate appears extremely capable.
+
+Artificial intelligence does not settle those arguments. It exposes them sooner.
+
+Modern emergency communications bring the argument back to street level. In the United States, 911 systems are organized locally and regionally, and the division of labor varies. In some centers a telecommunicator may receive, process, and dispatch a request; elsewhere those functions are separated.
+
+The variation matters less here than the sequence.
+
+The caller rarely knows which agency, unit, or level of response should be mobilized. The caller describes a world in fragments. The institution turns those fragments into a category, a priority, and a route.
+
+A fire engine is not a better answer than an ambulance. A police unit is not a stronger model than a paramedic. Value comes from matching the response to the event before the relevant clock expires.
+
+AI will increasingly occupy this middle layer between need and capability. A model may sit between a citizen and a public agency, a patient and a clinic, an employee and an internal expert, a machine sensor and a maintenance crew, a customer and a company.
+
+The temptation will be to measure answer quality because answers leave artifacts.
+
+Routing failures are harder to see.
+
+If an expert gives a bad answer, there is something to inspect. If a scheduler never calls the expert, the missing consultation may leave no obvious artifact. If a warning is assigned low priority and sinks beneath routine traffic, the system can look calm right up to the failure. If a citizen is sent to the wrong office, the bureaucracy may record an ordinary interaction rather than the service that never occurred.
+
+This is why good allocation systems need outcome loops.
+
+A dispatcher can learn from what crews discover on arrival. A triage system can learn from subsequent diagnosis. An AI router can learn from reversals, appeals, escalations, and cases first classified as routine that later became costly.
+
+Without those loops, an allocator sees only its own categories. It may become internally consistent while drifting away from the world it is supposed to route.
+
+The relevant measure is not simply whether the first route was correct. It is whether the system notices when reality no longer fits the route.
+
+Good dispatch includes redispatch.
+
+A new symptom changes priority. A new sensor reading changes the maintenance response. A customer who has already tried the standard remedy three times should not enter the same standard remedy a fourth.
+
+This is where the first chapter ends and the rest of the book begins.
+
+The age of abundant intelligence will contain astonishing minds, but minds will enter institutions through queues, permissions, interfaces, budgets, memory systems, professional boundaries, and clocks. Those arrangements will determine which signals interrupt, which cases wait, which errors receive a second look, and which people acquire more agency rather than merely more advice.
+
+The decisive systems may not look like rooms full of geniuses. They may look like well-run dispatch centers: specialized without becoming fragmented, fast without becoming frantic, able to escalate, able to revise, and clear about the difference between knowing something and being entitled to act on it.
+
+A mind, human or machine, is not useful merely because it exists. It becomes useful when its attention is directed toward a problem, when the problem is represented well enough to work on, when the result reaches someone who can act, and when the surrounding institution can absorb the consequence.
+
+Intelligence has a destination.
+
+The hard part is learning where it belongs.
