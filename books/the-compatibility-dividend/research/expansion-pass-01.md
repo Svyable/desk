@@ -86,6 +86,35 @@ This file records sources added during the post-merge length-and-depth pass for 
 - Use: supports the distinction between broad representability and application-specific identifier/security policy.
 - Caution: Unicode provides mechanisms and profiles; it does not mandate one universal identifier policy for banks, social systems, archives, programming languages, or agent protocols.
 
+## Chapter 12 — The Dictator Hiding in the Specification
+
+### U.S. federal use of voluntary consensus standards
+
+- Revised OMB Circular A-119 directs U.S. federal agencies to use voluntary consensus standards in lieu of government-unique standards except where doing so would be inconsistent with law or otherwise impractical.
+- The policy's stated rationale includes reducing government costs and regulatory burden, encouraging competition and trade, and benefiting from private-sector expertise.
+- Source: Office of Management and Budget, **Circular A-119: Federal Participation in the Development and Use of Voluntary Consensus Standards and in Conformity Assessment Activities**, revised 27 January 2016: https://www.whitehouse.gov/wp-content/uploads/2017/11/Circular-119-1.pdf
+- Use: supports the chapter's claim that technical content developed in private or nongovernmental consensus institutions can acquire public procurement or regulatory significance through government adoption and reference.
+- Caution: the Circular does not delegate federal legal authority to standards bodies; agencies retain responsibility for deciding whether and how standards are used.
+
+### EU harmonised standards and presumption of conformity
+
+- EU product legislation can provide a presumption of conformity with covered legal requirements when products conform to harmonised standards whose references have been published in the Official Journal.
+- Sources:
+  - European Commission, **The ‘Blue Guide’ on the implementation of EU product rules 2022**, especially the discussion of harmonised standards and presumption of conformity: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52022XC0629(04)
+  - Directive 2014/35/EU (Low Voltage Directive), including Article 12 on presumption of conformity: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014L0035-20140329
+- Use: supports the distinction between formal voluntariness and the economic/legal convenience created by a recognized standards route.
+- Caution: harmonised standards are generally voluntary means of demonstrating conformity; do not imply they are the only lawful route unless the sector-specific law says so.
+
+### Public.Resource.Org / Right to Know v Commission
+
+- On 5 March 2024, the Court of Justice of the European Union, sitting as Grand Chamber, held that there was an overriding public interest in disclosure of harmonised toy-safety standards requested from the European Commission.
+- The Court emphasized the legal effects of harmonised standards and stated, in the context of the case, that such standards form part of EU law.
+- Sources:
+  - Court of Justice of the European Union, **Judgment in Case C-588/21 P, Public.Resource.Org and Right to Know v Commission**, 5 March 2024: https://curia.europa.eu/juris/liste.jsf?num=C-588/21
+  - CJEU Press Release No 37/24, 5 March 2024: https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-03/cp240037en.pdf
+- Use: supports the chapter's argument that when privately developed specifications acquire enough public legal effect, access to the technical text itself can become a rule-of-law and transparency question.
+- Caution: do not generalize the judgment into the proposition that every private or harmonised standard is legislation, or that all standards must always be free of copyright restrictions in every jurisdiction.
+
 ## Release check
 
-Re-verify current versions and dates of GS1, SAE/J3400, Unicode and other live technical specifications before Shelf release. Historical W3C/WHATWG dates above are stable, but living-standard references can move.
+Re-verify current versions and dates of GS1, SAE/J3400, Unicode and other living technical specifications before Shelf release. Historical W3C/WHATWG dates and the 2024 CJEU judgment are stable, but standards and guidance can move.
