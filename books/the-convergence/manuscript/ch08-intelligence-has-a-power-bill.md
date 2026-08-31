@@ -76,6 +76,48 @@ Underbuild, and a real load may wait years for power. Overbuild, and customers m
 
 There is no purely digital solution to a transformer lead time.
 
+The mismatch is not only about how much electricity a facility uses over a year. It is about the shape of the obligation the utility is being asked to accept.
+
+A customer that consumes a great deal of energy but can wait for favorable hours is one kind of planning problem. A customer that expects its full contracted capacity to be available at any moment is another. The annual meter reading can be identical while the network, generation, and reserve requirements are very different.
+
+That distinction matters for computation because not all compute is equally urgent.
+
+Some work is tightly coupled to a human request. A search result, medical image, payment authorization, or interactive model response loses value if it arrives tomorrow. Other work has more temporal slack. Training, batch inference, synthetic-data generation, software testing, some scientific workloads, and portions of internal analytics may be movable within limits. A job that can shift by an hour is not the same electrical product as a job that must finish now.
+
+The important phrase is within limits.
+
+Servers are not magic batteries. Deferring computation can interfere with deadlines, equipment utilization, customer commitments, cooling conditions, network traffic, or expensive chips that investors expect to keep busy. A data center designed around continuous high utilization cannot casually become a grid-balancing device whenever electricity is scarce. The value of flexibility depends on what the machines are doing, how long work can move, how often curtailment is requested, and what happens to the deferred work afterward.
+
+There is also a trap in shifting rather than reducing load. If a training run pauses during a stressed hour and simply resumes later, the grid may gain relief at the peak without much reduction in total energy consumption. That can be extremely valuable for reliability, but it is not the same thing as efficiency. Capacity and energy are different products.
+
+The reverse is true as well. A more efficient chip may reduce annual electricity use while doing little to solve a local connection problem if the facility still wants the same peak capacity so it can run more chips at once.
+
+This is why conversations about AI electricity often become confused. One person is talking about terawatt-hours. Another is talking about megawatts. A third is talking about emissions. A fourth is talking about transformer capacity. They can all be correct and still appear to disagree because they are measuring different constraints.
+
+The useful question is not simply whether computation can become flexible. It is which computational services can tolerate which kind of flexibility, in which place, under which commercial arrangement.
+
+That turns software scheduling into a piece of energy-system design.
+
+A facility with genuine temporal slack can expose some of that slack to a utility or grid operator. It might slow selected workloads, move jobs between campuses, charge batteries before a constrained period, or alter cooling operations without interrupting the services users actually notice. In a region where a few stressed hours drive a large share of infrastructure needs, even limited flexibility can matter.
+
+But flexibility does not erase the need for wires and generation. A campus that can curtail occasionally still needs power most of the time. A workload shifted to another region becomes somebody else's load. A battery has a finite duration. A backup generator consumes fuel. A demand-response contract is valuable only if the promised response arrives when the system is stressed.
+
+The engineering possibility therefore has to survive institutional contact.
+
+Who is allowed to call the curtailment? How much notice is given? How is performance measured? Who bears the cost if a job misses its deadline? Does the customer get paid for flexibility, receive a cheaper connection, or accept lower firmness in exchange for earlier service? What happens if a supposedly flexible load behaves inflexibly during an emergency?
+
+Those questions are less glamorous than model architecture. They are also where a large fraction of the practical value sits.
+
+The same is true of location.
+
+A data center can be more geographically mobile than an aluminum smelter once the fiber, legal, security, and latency requirements are satisfied. Computation does not need an ore body beneath it or a port beside it. That creates an unusual option: instead of moving electricity toward load, some load can move toward electricity.
+
+Yet that freedom is easy to exaggerate. The best electrical site may be far from dense fiber routes. A cool climate may have limited transmission. A region with abundant generation may lack skilled construction labor or sufficient transformers. A politically welcoming jurisdiction may have expensive power. A cheap-power region may impose water constraints or long permitting timelines. Interactive services can care about latency in ways batch training does not.
+
+The geography of computation is therefore a multi-constraint optimization, not a treasure hunt for the world's cheapest kilowatt-hour.
+
+This changes the economic meaning of spare capacity. A power system that once treated underused generation or transmission as a historical accident may discover that flexible computational load is willing to travel to it. Conversely, a region already struggling to build housing, transmission, or generation may decide that attracting another enormous load is not obviously a bargain merely because the customer is wealthy.
+
 The industry is already adapting. Developers seek sites near existing substations or large generation sources. Some sign long-term power agreements. Some finance new generation. Some add batteries or onsite generators. Some consider operating flexibility that could reduce load during stressed grid hours. Others chase regions where electricity is cheap, permits are faster, or network capacity is underused.
 
 What looks from Silicon Valley like a race for models becomes, on the ground, a race for interconnection rights and construction slots.
