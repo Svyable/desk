@@ -203,3 +203,81 @@ The need is real.
 The bull market may be real too.
 
 Those facts should never be mistaken for the same fact.
+
+The accounting can make the confusion worse. Gross domestic product measures current production, not the stock of wealth that existed before the bombing. Rebuilding a destroyed apartment block adds construction activity. The destruction of the original block was a loss of wealth. If an investor watches only the recovery in output, the economy can appear to boom while citizens are still trying to replace what they already owned.
+
+Growth after destruction is measured from a damaged base.
+
+That is why reconstruction statistics need a denominator with memory.
+
+A five-percent increase in output does not mean the society is five percent better off than before the war. It may mean the rebuilding machine is working while the country remains far below the path it would have followed without the destruction.
+
+Markets can still rally powerfully in that environment. Securities price changes in future cash flow and risk, not moral restoration. A country can remain poorer than its prewar trajectory while its stock market rises because the probability of further catastrophe fell.
+
+Risk premium can recover faster than concrete.
+
+That distinction matters for timing. The most visible construction boom may occur after the cheapest local assets have already repriced. Investors who wait for cranes can be buying the second phase of the story.
+
+The first phase may be legal.
+
+Can property be transferred?
+
+Can contracts be enforced?
+
+Can foreign investors repatriate proceeds?
+
+What currency will major projects use?
+
+Which court or arbitration process governs disputes?
+
+Can lenders take security over assets?
+
+Will insurance cover political violence?
+
+These questions determine whether capital can arrive before they determine which contractor pours the concrete.
+
+War-risk insurance deserves particular attention because ordinary commercial insurance can exclude exactly the events that make reconstruction dangerous. Private insurers may be willing to cover routine construction risk and unwilling to cover renewed hostilities. Governments and multilateral institutions can provide guarantees or reinsurance that make otherwise impossible projects financeable.
+
+The guarantee is invisible in the photograph of the new factory.
+
+It can be the reason the factory exists.
+
+That means an investor assessing a project should ask not only about expected demand but about the risk architecture underneath the financing. If a public institution absorbs political loss while private capital receives most of the upside, the investment can be attractive and politically contentious. If the private investor bears too much uninsurable risk, capital may not arrive at all.
+
+Reconstruction is an exercise in deciding which risks the market can price and which risks the state must carry.
+
+Currency creates another fault line. International donors may commit dollars or euros while local wages, taxes, utilities, and small-business revenues are denominated in the domestic currency. A project can look sound in one currency and unstable in another. A depreciating local currency raises the domestic cost of imported machinery. A strengthening currency can hurt exporters expected to finance part of the recovery.
+
+The rebuild has an exchange-rate balance sheet.
+
+Local capital markets matter for the same reason. A country that relies entirely on foreign financing can rebuild physical assets and remain financially dependent. Domestic banks, pension funds, insurers, municipal finance, mortgage markets, and household savings determine how much of the reconstruction becomes locally owned and how much future cash flow leaves through external debt service.
+
+Ownership is part of recovery.
+
+This is not an argument for financial autarky. Foreign capital can bring expertise, competition, risk-bearing capacity, and resources the damaged economy does not have. The question is whether the financing creates productive assets capable of servicing the claims.
+
+Debt that rebuilds a power plant can improve the economy’s capacity to repay.
+
+Debt that covers recurring consumption without restoring productive capacity is a different object.
+
+The same dollar amount can produce different futures.
+
+Human capital makes the difference more visible. A displaced engineer living abroad may be both a loss to the domestic labor force and a future source of skills, remittances, networks, and investment. Whether people return depends on security, housing, schools, wages, family, and belief that institutions will hold.
+
+You cannot order a diaspora home with a procurement contract.
+
+That makes social infrastructure as investable in consequence as physical infrastructure is visible in photographs. Schools, hospitals, housing, public administration, courts, and local government influence whether the workers needed for reconstruction choose to build lives there again.
+
+A rebuilt factory with no workers is stranded capital.
+
+A rebuilt city with no trust is an unfinished project.
+
+The investor who wants the clean reconstruction trade therefore encounters an inconvenient truth: the highest-return financial asset may depend on public investments whose returns cannot be captured by the same shareholder.
+
+That is not a flaw in reconstruction.
+
+It is what reconstruction is.
+
+The private return sits inside a social system that has to recover enough for the private claim to become valuable.
+
+The rubble is only the first layer.
