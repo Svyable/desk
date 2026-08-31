@@ -6,7 +6,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 15 of 20 drafted |
+| **Chapters**  | 16 of 20 drafted |
 
 ## Contents
 
@@ -26,12 +26,12 @@
 - [x] [Ch 13 — The Assessment Arms Race](manuscript/ch13-the-assessment-arms-race.md)
 - [x] [Ch 14 — The Oral Return](manuscript/ch14-the-oral-return.md)
 - [x] [Ch 15 — The Data Shadow](manuscript/ch15-the-data-shadow.md)
+- [x] [Ch 16 — Curriculum After Answers](manuscript/ch16-curriculum-after-answers.md)
 
 ## Planned chapters
 
 ### Part IV — School After Answers Become Cheap
 
-16. Curriculum After Answers
 17. The Apprenticeship Classroom
 18. What Must Stay Human
 19. The School That Knows Why
@@ -55,3 +55,4 @@
 - [Ch 13 research trail](research/ch13-the-assessment-arms-race.md)
 - [Ch 14 research trail](research/ch14-the-oral-return.md)
 - [Ch 15 research trail](research/ch15-the-data-shadow.md)
+- [Ch 16 research trail](research/ch16-curriculum-after-answers.md)
