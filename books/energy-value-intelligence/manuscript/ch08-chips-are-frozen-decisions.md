@@ -163,3 +163,39 @@ Human intelligence designs a physical object. Industrial systems manufacture it.
 The loop can accelerate.
 
 But every turn still passes through factories.
+
+That final sentence becomes less abstract when a factory is given an address. TSMC's first Arizona fab entered volume production in the fourth quarter of 2024, making 4-nanometer products in a desert state better known for copper, retirees and relentless summer heat than for leading-edge logic. By the company's 2025 annual report, the second Arizona fab was being pulled forward toward high-volume production in the second half of 2027, the third had begun construction, and TSMC had announced a much larger American expansion that included additional fabrication and advanced-packaging capacity. At the same time, the company was preparing multiple 2-nanometer phases in Taiwan, expanding in Japan and building a specialty fab in Germany.
+
+The map did not flatten. It became more complicated.
+
+That distinction matters. Diversification is often narrated as if one jurisdiction simply copies the industrial capability of another. Frontier manufacturing does not move like a spreadsheet cell. It moves as equipment deliveries, construction schedules, water rights, electrical substations, technician training, supplier qualification, process recipes, customer commitments and thousands of small operating habits. A new fab can reproduce a process node without instantly reproducing the industrial ecology that made the original cluster so effective.
+
+This is why geography and learning interact. The first wafer out of a new location is not the end of the story. Yield, cycle time, defect detection, maintenance and supplier responsiveness become a continuing education. The factory accumulates memory by operating. A country that wants semiconductor capacity is therefore buying more than a building. It is buying the chance to keep learning how to run one.
+
+The economics are correspondingly awkward. If geographic redundancy were free, every customer would want it. It is not. Duplicate factories can lower utilization. New locations may have higher labor or construction costs. Suppliers may have to build parallel footprints. Government support can shift losses from shareholders to taxpayers without changing the underlying cost. A resilience policy can be sensible and still be expensive; calling it strategic does not repeal arithmetic.
+
+The more useful question is what failure the extra capacity is meant to insure against. A temporary shipping disruption calls for inventory. A single-equipment bottleneck may call for supplier diversification. A geopolitical rupture may justify duplicated fabrication. A long-term technological rivalry may require education, research institutions and domestic tool capability, because a fab without engineers or equipment access is an impressive shell.
+
+Different risks demand different redundancies.
+
+Trade policy adds another layer of frozen decisions. An accelerator is designed to a performance envelope, but the commercial value of that design can change when an export-control threshold moves. In January 2026 the U.S. Bureau of Industry and Security revised its licensing policy for certain advanced processors bound for China, allowing applications for products including Nvidia's H200 and AMD's MI325X to be reviewed case by case when specified conditions were met. The significance was larger than the immediate list of chips. It demonstrated that the usable market for a semiconductor can depend on rules rewritten after the architecture was chosen and after wafers were committed.
+
+The chip carries politics it did not contain at tape-out.
+
+That makes semiconductor design partly an exercise in regulatory option value. A supplier may create variants for different markets. Customers may stock permitted hardware before rules change. Cloud providers may become an alternative route to computation when physical shipment is restricted, inviting new rules around remote access. Governments try to write controls that remain meaningful while performance metrics, packaging techniques and architectures evolve around them.
+
+Regulation becomes another participant in the co-design problem.
+
+This is not an argument for or against a particular export restriction. National-security policy has objectives that commercial optimization does not. It is an argument against treating hardware as a neutral commodity whose destiny is fixed once manufactured. The same physical device can be abundant in one market, prohibited in another, strategically subsidized in a third and indispensable everywhere.
+
+Value is jurisdictional.
+
+The semiconductor industry also shows why a narrow measure of intelligence can mislead. The brilliant architecture attracts attention because it is legible: benchmark charts move, model training accelerates, product announcements arrive. The less legible intelligence is scattered through toolmakers, process engineers, construction managers, chemical suppliers, packaging specialists, reliability teams and utility planners. Their decisions determine whether the architecture exists in sufficient quantity to matter.
+
+A civilization that celebrates invention while allowing production capability to atrophy can become excellent at imagining machines it cannot reliably make. The opposite failure is possible too: a country can build factories without enough design, software or demand to keep them at the frontier. Production and invention are complements, not rival religions.
+
+The loop between machine intelligence and semiconductor manufacturing may tighten this relationship. Better models can search design spaces, help place circuits, predict defects, schedule fabs and diagnose equipment. Those gains could make physical learning faster. But the output of the model still has to survive a wafer, a package, a thermal envelope and a customer workload. Reality retains veto power.
+
+The strategic advantage, then, is not to escape the factory. It is to make the factory more intelligent while keeping enough factories, suppliers and skills alive that intelligence has somewhere to land.
+
+The chip is frozen decision. The industry around it is the capacity to thaw, test and refreeze decisions again.
