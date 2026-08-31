@@ -265,3 +265,119 @@ A discovery system built around adjacency can meet us in that pre-vocabulary sta
 We can start with the shape of the need.
 
 The right words can come later.
+
+## The Retrieval Stack
+
+The clean diagram of semantic search contains two boxes.
+
+Query in.
+
+Neighbors out.
+
+A production search system is closer to a relay race.
+
+The first runner may rewrite or enrich the query. Another retrieves candidates by exact terms. Another retrieves by vectors. Another applies permissions. Another removes duplicates. Another reranks the survivors with a slower model. Another may boost freshness or authority. The final interface shows a list, a synthesized answer or both.
+
+This architecture exists because no single representation captures relevance well enough for every query.
+
+Dense passage retrieval research made the power of learned retrieval obvious in open-domain question answering. A question and a passage could be represented independently and then matched efficiently at scale. But even a strong dense retriever does not eliminate the old information-retrieval virtues. Rare proper nouns, identifiers and exact phrases can carry enormous signal. Sparse retrieval remains excellent at them.
+
+The sensible response is not a philosophical war between lexical and semantic search.
+
+It is candidate pluralism.
+
+Let different retrieval methods nominate possibilities.
+
+Then compare them more carefully.
+
+This changes the role of the first-stage vector search. Its job is not to prove that a result is correct. Its job is to avoid excluding a result that deserves deeper inspection.
+
+Recall matters because later intelligence can operate only on what survives the first cut.
+
+Imagine a policy assistant with ten thousand internal documents. The user asks whether a contractor can retain customer data after a project ends. A semantic retriever finds a privacy-policy passage about retention. Lexical search finds a contract template containing the exact phrase “post-termination data.” Metadata identifies the current approved version. A reranker notices that the template is generic while the policy has organization-wide authority. A final answer cites both, then tells the user which document controls.
+
+No single stage solved the problem.
+
+The stack did.
+
+This is a better model for retrieval-augmented AI generally. The language model receives a temporary evidence set assembled by upstream systems. If that evidence set is incomplete, stale or unauthorized, fluent reasoning downstream cannot restore the missing reality.
+
+We tend to evaluate the visible intelligence because the visible intelligence speaks.
+
+The retriever is silent.
+
+Its mistakes can therefore be harder to notice.
+
+A generated answer based on the wrong three documents may sound more competent than a search page that openly shows ten uncertain results. Synthesis removes visual friction. It also removes some of the user's opportunity to notice that the evidence pool looks strange.
+
+This means better AI search needs mechanisms for inspecting the retrieval stack, not only admiring the answer.
+
+Which sources were considered?
+
+Which were selected?
+
+Why were they eligible?
+
+What date or authority rules were applied?
+
+Did exact search and semantic search disagree?
+
+Was the answer generated because the system found strong evidence, or because it always generates something from the nearest available material?
+
+The last question is crucial.
+
+A vector database always has a nearest neighbor.
+
+That is a mathematical guarantee, not a relevance guarantee.
+
+If the knowledge base contains nothing about the user's question, something still ranks first. Without an abstention rule, coverage test or threshold, the system can convert “we do not have this information” into “this is the least unrelated information we have.”
+
+A generative model can then convert that weak neighbor into polished prose.
+
+Absence disappears twice.
+
+First in retrieval.
+
+Then in language.
+
+Good search systems preserve the possibility of not finding enough.
+
+That can mean a similarity threshold, but raw thresholds require care because score distributions change across models, corpora and query types. It can mean a reranker trained to distinguish answerable from merely related. It can mean checking whether independent retrieval channels converge. It can mean explicit metadata showing whether authoritative material exists.
+
+Whatever the implementation, the principle is simple.
+
+A discovery system should know the difference between a neighborhood and an answer.
+
+The retrieval stack also creates a useful place for disagreement.
+
+Suppose lexical search says one document matters because it contains an exact technical identifier, while vector search says another is semantically closer. Rather than forcing one system to win universally, a reranker or user interface can preserve both signals. The disagreement itself may be informative.
+
+A software engineer searching an error code often wants the exact-match document first. A customer describing the same failure without the code may benefit from the semantic neighbor. The correct retrieval route depends on what information the query carries.
+
+This is why hybrid systems often feel more robust than pure ones.
+
+They fail less uniformly.
+
+One method catches the cases the other misses.
+
+That is a recurring engineering lesson in intelligent systems. Generalization is valuable, but diversity of mechanisms can protect against the blind spots of any single model.
+
+The same principle applies to chunking. A retriever can search small passages for precision while preserving links to larger sections for context. It can retrieve at multiple resolutions: a paragraph, then the parent document; a function, then the file; a slide, then the deck. The initial embedding locates a local match. The system reconstructs the larger object before asking a model or person to reason.
+
+This is another form of hybrid retrieval.
+
+Precision chooses the doorway.
+
+Context restores the room.
+
+As semantic search becomes normal infrastructure, the most important quality improvements may increasingly come from these surrounding decisions rather than a dramatic breakthrough in embedding models. Better document parsing. Better deduplication. Better permission handling. Better reranking. Better authority signals. Better tests for absence. Better links back to sources.
+
+The glamour moves upstream to the model.
+
+Reliability accumulates in the plumbing.
+
+This is appropriate because search has always been an infrastructure discipline disguised as a text box.
+
+The vector did not replace that discipline.
+
+It gave the stack another exceptionally powerful way to nominate what might matter.
