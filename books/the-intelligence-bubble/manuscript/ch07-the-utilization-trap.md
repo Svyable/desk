@@ -44,6 +44,32 @@ AI capacity owners need their own equivalent.
 
 Tokens alone are insufficient.
 
+**Three Kinds of Full**
+
+A data center can be full in at least three different senses.
+
+It can be physically full: the racks are populated, the power is committed, and the cooling system is carrying the load.
+
+It can be contractually full: customers have signed agreements that reserve most of the available capacity.
+
+And it can be economically full: the hardware is doing enough high-value work, at prices high enough, for long enough, to earn an acceptable return on the capital tied up in the site.
+
+Those conditions often overlap during scarcity. They do not have to remain aligned.
+
+A provider can report a large backlog while still waiting for buildings, power, chips, or networking to become available. Once capacity is delivered, a customer can hold a reservation without using every hour it bought. A workload can keep machines busy while competitive pricing drives the revenue earned per unit of useful compute downward. A contract can protect near-term cash flow even as the replacement value of the service falls.
+
+The difference is not accounting trivia. It is the center of the investment question.
+
+CoreWeave's June 2026 disclosures provide a useful snapshot of the scale involved. The company reported roughly $104 billion of revenue backlog at June 30, with the measure including remaining performance obligations and other amounts expected from committed customer contracts, subject to delivery and service availability. That is formidable commercial evidence. It is not the same thing as $104 billion already earned, nor proof that every dollar of the capacity built to serve those commitments will retain the same economics through the life of the hardware.
+
+The distinction cuts both ways. A backlog can be much more valuable than a loose pipeline because customers have actually committed. Long contracts can finance buildings, power, and equipment that would otherwise be too risky to construct. They can also give a provider time to diversify its customer base and improve scheduling.
+
+But the backlog is the beginning of the utilization analysis, not the end.
+
+You still have to ask when the capacity will be delivered, what it costs to deliver, how concentrated the customers are, what happens if a customer changes architecture, what portion of the obligation is take-or-pay, and what the same amount of useful compute will cost when renewal arrives.
+
+In a rapidly deflating technology, time can turn a strong contract into a bridge from one pricing regime to another.
+
 **Training Is Lumpy, Inference Is Restless**
 
 Training and inference produce different utilization patterns.
@@ -62,6 +88,16 @@ The better the provider becomes at this, the stronger the economics.
 
 The worse it is, the more capital sits idle.
 
+There is another complication. A machine can be busy without being busy in the most profitable way.
+
+A premium cluster may be occupied by work that could have run acceptably on cheaper hardware. A provider may discount spare hours rather than leave them empty. Customers may shift batch jobs toward off-peak periods or cheaper regions. Routing software may send easy requests to smaller models and expensive requests only to the frontier system.
+
+All of those choices can be economically rational. They also mean that a simple utilization percentage can conceal deteriorating yield.
+
+Airlines learned this long ago. A plane with every seat occupied is not necessarily a profitable flight if the seats were sold too cheaply. Hotels do not stop at occupancy; they watch room rates and revenue per available room. An AI infrastructure business eventually needs the same discipline: utilization multiplied by realized price, adjusted for the cost and economic age of the hardware doing the work.
+
+That is a harder number to advertise during a boom.
+
 **The Reservation Illusion**
 
 During scarcity, customers reserve capacity because they fear not having enough.
@@ -79,6 +115,44 @@ Long-term contracts can hide this divergence for a while. Revenue remains protec
 The customer asks a devastatingly simple question:
 
 Why am I paying for what I no longer need?
+
+Scarcity can also produce a subtler form of double counting.
+
+Suppose several customers each reserve more capacity than their median expected workload because they fear a shortage. The provider sees multiple commitments and builds for them. The customers see guaranteed access and feel prudent. But if all of them independently built the same insurance cushion into their reservations, the industry's contracted demand may contain more precaution than actual simultaneous use.
+
+That does not make the contracts fake. Insurance has value precisely because the insured event may not occur.
+
+It does mean that a capacity planner should distinguish demand for compute from demand for the *option* to use compute.
+
+Those are different products.
+
+During a shortage, the option can command a premium. During abundance, customers become less willing to pay for it.
+
+This is one reason the end of scarcity can be so abrupt for suppliers. The market does not merely lose some workloads. It can lose the insurance premium that customers were paying to secure access before they knew how much they would need.
+
+**Concentration Makes Utilization Look Safer Than It Is**
+
+A small number of enormous customers can solve the utilization problem beautifully.
+
+They can also move it somewhere else.
+
+A hyperscaler, frontier lab, or large enterprise can absorb enough capacity to support an entire site. The contract may make financing possible. The customer's technical team can coordinate closely with the provider. Scheduling becomes easier because the provider does not have to aggregate thousands of small accounts.
+
+The cost is concentration.
+
+If a few customers represent most of the revenue, utilization risk becomes renewal risk, credit risk, and bargaining-power risk. The machines may remain busy while the customer uses its scale to demand lower prices. A customer may internalize more infrastructure. It may switch providers. It may redesign a model so that the same output requires fewer accelerator-hours. It may remain loyal but insist that the provider share the gains from better hardware economics.
+
+This is not unique to AI. Suppliers in semiconductors, aerospace, retail, and automotive manufacturing have long discovered that a giant customer can simultaneously be the reason a factory exists and the reason its margins are thin.
+
+The AI version is unusually intense because the underlying service is improving so quickly.
+
+When the next generation of hardware offers more useful work per dollar, both sides know it. When software efficiency improves, both sides know it. When competing capacity comes online, both sides know it.
+
+The negotiation takes place against a moving technical frontier.
+
+A ten-year building can host several generations of machines. A five-year financing package can outlive the economic premium of the accelerators it funded. A customer contract can be long relative to a model cycle and short relative to the site underneath it.
+
+The mismatch among those clocks is where apparently stable utilization can become unstable economics.
 
 **The Jevons Escape Hatch**
 
@@ -107,6 +181,14 @@ If demand explodes but customers route to the cheapest adequate provider, premiu
 If AI becomes universal but embedded inside applications sold by other firms, model vendors may capture only a thin fraction of the value.
 
 The economy can experience Jevons abundance while individual assets experience deflation.
+
+There is a further wrinkle. Jevons effects often arrive through new uses that look trivial before the price falls far enough.
+
+Nobody can forecast those applications cleanly in advance. That uncertainty is part of the bull case. Cheap inference may create categories of demand that today's spreadsheets barely contain.
+
+But new demand does not arrive obligated to use yesterday's supplier, yesterday's architecture, or yesterday's price.
+
+The same abundance that creates the use case widens the customer's choice.
 
 **The Bull Case Deserves Its Full Weight**
 
@@ -162,6 +244,8 @@ No collapse in end use is required.
 
 The investment math can break while the technology keeps winning.
 
+The historical numbers sharpen the point. The Richmond Fed found that real investment in communications equipment rose from roughly $62 billion a year in early 1996 to more than $135 billion by the end of 2000, in constant 1996 dollars. Then investment growth turned negative for seven consecutive quarters. The physical network did not vanish when the capital cycle reversed. The ownership claims and return expectations changed first.
+
 This is why the fiber analogy is more useful than the cartoon version of the dot-com crash. The story is not that people bought silly websites. The story is that serious companies financed serious physical infrastructure for a future whose direction they understood better than its timing.
 
 They were right about the destination.
@@ -198,6 +282,22 @@ Eventually is not a cash-flow period.
 
 The cost of capital owns a clock.
 
+That clock becomes more important when the asset stack contains different useful lives.
+
+The land may remain valuable for decades. The transmission connection may become more valuable as power grows scarce. The building may host multiple equipment generations. The electrical gear may be reusable. The accelerators themselves may lose their scarcity premium much faster.
+
+An investor who says “the data center will be useful for twenty years” may therefore be answering the wrong question.
+
+Which part of the data center?
+
+Useful to whom?
+
+At what price?
+
+And after how much additional capital has been spent replacing the equipment that made the first underwriting case work?
+
+Physical durability can coexist with financial obsolescence.
+
 **The Useful Capacity Question**
 
 Every AI infrastructure investor should ask a question more demanding than “How much capacity is contracted?”
@@ -206,18 +306,23 @@ Ask:
 
 **How much of this capacity will be economically productive through a full hardware and pricing cycle?**
 
-That requires understanding:
+That requires understanding expected utilization by workload, the duration and quality of customer contracts, customer concentration, hardware refresh requirements, power costs, networking constraints, software scheduling efficiency, residual value, price declines for equivalent performance, and the cost to refinance the capital structure.
 
-- expected utilization by workload;
-- duration and quality of customer contracts;
-- customer concentration;
-- hardware refresh requirements;
-- power costs;
-- networking constraints;
-- software scheduling efficiency;
-- residual value of equipment;
-- price declines for equivalent performance;
-- and the cost to refinance the capital structure.
+It also requires separating four denominators that are often collapsed into one.
+
+How much capacity has been announced?
+
+How much has actually been delivered?
+
+How much delivered capacity is being used?
+
+How much used capacity is earning an adequate return?
+
+The first number is easy to put in a press release. The last one is the business.
+
+For a mature operator, the most revealing metric may eventually resemble revenue per available accelerator-hour rather than raw accelerator count: realized revenue divided by the economically usable fleet, with enough disclosure to understand hardware generation, customer mix, and power cost. The exact industry metric may differ. The principle will not.
+
+A denominator that deteriorates quietly can overpower a numerator that still looks impressive.
 
 The industry will publish easier metrics because easy metrics rise faster during booms.
 
