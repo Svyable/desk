@@ -52,6 +52,14 @@ When those scarcities ease, the economics move elsewhere.
 
 The AI value chain is therefore less like a single technology sector than a succession of temporary toll booths.
 
+That last word matters: temporary. A bottleneck can be extraordinarily profitable without being permanent. High prices call forth capacity. Customers redesign around constraints. Competitors attack the fattest margin. Engineers substitute one scarce input for another. Governments decide that a dependency has become strategic and subsidize an alternative. What looks like a moat from inside a shortage can turn out to be a construction schedule.
+
+This is one of the easiest mistakes to make in a capital boom. Investors observe a real scarcity and correctly conclude that the scarce thing has value. They then capitalize today's scarcity as though it were a durable property of the world.
+
+Sometimes it is. Semiconductor manufacturing at the frontier requires accumulated process knowledge, immense capital, trusted customer relationships, specialized equipment, and years of execution. Those are not constraints that disappear because a spreadsheet assumes another factory. TSMC's 2025 annual report, for example, described robust AI-related demand not only for leading-edge silicon but for advanced packaging, while the company continued to invest heavily in capacity. The demand was real; so was the effort required to serve it.
+
+But durable capability and durable scarcity are different propositions. A supplier can remain excellent while its customers gain alternatives. Capacity can grow while demand grows. The relevant investment question is not whether the component matters. It is whether the owner of that component will retain unusual bargaining power after everyone has had time to respond.
+
 **Power Before Product**
 
 A software company can create a new feature overnight.
@@ -74,6 +82,18 @@ Money can bid for a transformer.
 
 It cannot make the factory produce last year's transformer today.
 
+The scale is large enough that percentages can mislead. The IEA estimated data centers used roughly 415 terawatt-hours of electricity in 2024, about 1.5 percent of global electricity consumption. Globally, that is still a modest share. The same report projected roughly 945 terawatt-hours by 2030 in its base case, while emphasizing substantial uncertainty around adoption, efficiency, and infrastructure constraints.
+
+Those global numbers are useful and dangerous. Electricity is not delivered from a global pool. Data centers cluster. A load that barely moves the world total can matter enormously to one utility, one transmission zone, or one county. The IEA estimated that nearly half of U.S. data-center capacity was concentrated in five regional clusters. It also warned that around one-fifth of planned projects could face delay if grid risks were not addressed, while transmission construction and waits for critical components could stretch for years.
+
+That is why a megawatt in the right place is not economically equivalent to a megawatt somewhere else.
+
+The distinction sounds obvious until a boom begins. Then capital has a way of counting nominal capacity while ignoring deliverability. A developer can announce a campus before the substation exists. A utility can have generation on its system without having the transmission capacity to serve a particular node. A technology company can sign a power-purchase agreement without making every hour of physical supply at its chosen site interchangeable.
+
+The constraint is not “energy” in the abstract. It is dependable power, at a particular location, on a particular schedule, through a particular network.
+
+That specificity creates rents. It also creates the conditions for those rents to migrate.
+
 **The Chip Is a System**
 
 The public shorthand for AI infrastructure is “GPUs,” but the shorthand hides the system.
@@ -87,6 +107,14 @@ Yet systems advantage does not eliminate the capital cycle. It can intensify it.
 When the leading stack produces unusually attractive economics, customers and competitors have enormous incentives to design alternatives. Hyperscalers build custom accelerators. Startups pursue specialized architectures. Model designers optimize around different hardware. Governments support domestic substitutes. Software layers emerge to make workloads portable.
 
 The stronger the toll booth, the more traffic tries to route around it.
+
+There is another complication. The useful unit is not a chip but a functioning cluster. A shortage of one component can strand the economic value of all the others. An accelerator delivered without enough high-bandwidth memory does not create the intended system. Servers installed before adequate cooling is commissioned do not produce tokens. A completed building waiting on grid connection is real estate with an unusually expensive promise inside it.
+
+This changes how investors should think about reported capacity. Nameplate quantities are seductive because they are countable: chips ordered, racks installed, megawatts announced, campuses planned. But a chain is governed by the least available complement. Ten abundant inputs do not cancel one missing input.
+
+The pattern can reverse just as quickly. Once the missing complement arrives, capacity that looked scarce can appear all at once. Several suppliers expand in parallel because all saw the same prices. Customers who double-ordered during shortage receive deliveries from more than one vendor. Projects delayed by one constraint reach completion together. The market moves from allocation to utilization.
+
+That transition—from “Can we get it?” to “Can we keep it busy?”—is where a supply-chain boom becomes a capital-cycle problem.
 
 **The Cloud Becomes Industrial**
 
@@ -110,6 +138,18 @@ An installed GPU is not the same as an adequately utilized GPU.
 
 The physical stack makes these distinctions unavoidable because the cost exists whether the narrative does or not.
 
+It also introduces time in a way that software investors can underestimate. A server purchased today begins aging today. A data-center shell may last for decades, but the most valuable electronics inside it can move through generations much faster. The economic life of the campus and the economic life of the accelerator are not the same. Financing them as though they were one asset creates a mismatch between durable concrete and depreciating compute.
+
+That mismatch can be harmless when utilization is high and prices hold. It becomes painful when performance per dollar improves faster than expected, customers shift to newer hardware, or a formerly scarce accelerator has to compete on price with the next generation. The machine can still work perfectly while its earning power falls.
+
+This is why falling inference costs are not simply good news or bad news. They can expand usage dramatically. They can also transfer surplus away from the owner of yesterday's expensive capacity. More intelligence can be consumed even as the price of producing a unit of it declines.
+
+The IEA's scenario work captures the physical side of the same uncertainty. Its high-efficiency case reaches materially lower electricity demand than its base case while serving the same broad expansion in digital services, because hardware, software, and infrastructure improve faster. Efficiency does not mean AI loses. It means the amount of physical input required for a given service can change.
+
+For a society, that is generally welcome.
+
+For an owner paid for the scarce input, it deserves closer attention.
+
 **AI Competes With the Rest of the Economy**
 
 Data centers do not merely consume electricity. They consume electricity in places.
@@ -125,6 +165,14 @@ The cloud has zoning hearings now.
 That is not a side story. It is a sign of maturity.
 
 Technologies become economically consequential when they begin competing with other important uses of scarce resources.
+
+The competition also complicates the easy claim that AI's infrastructure problem can simply be solved by building more generation. Generation is only one part of an electric system. New supply has to connect. Networks have to carry it. Equipment has to withstand changing load profiles. Reliability has to survive peaks, outages, maintenance, and weather. The IEA noted in 2026 that AI workloads can create large and rapid power swings, adding another systems problem behind the meter and on the grid.
+
+None of this establishes that data-center growth is impossible. Quite the opposite. High prices, political attention, and valuable demand are powerful incentives to solve constraints. Renewables, natural gas, nuclear, storage, grid expansion, more flexible operations, and better siting can all contribute. Efficiency can do more work with the same electricity. Workloads can move in time or, in some cases, geography.
+
+The countercase matters because infrastructure analysis easily becomes a catalog of bottlenecks. Bottlenecks are not destiny. They are prices and delays that provoke responses.
+
+The investment consequence is subtler. If the response succeeds, today's bottleneck owner may lose scarcity power. If it fails, the downstream project that assumed cheap and abundant supply may disappoint. Either way, simply identifying a constraint is not enough. You have to ask who bears it, who can solve it, how long the solution takes, and what happens to returns after it arrives.
 
 **The AI Value Stack**
 
@@ -157,5 +205,11 @@ Standardized shipping containers created enormous value for trade while intense 
 Semiconductor abundance made entire industries possible without guaranteeing excess returns to every manufacturer.
 
 AI may follow the same pattern.
+
+There is no contradiction in saying that a layer will become vastly larger and that returns in that layer may fall. Rail mileage expanded after railroad investors had already learned this lesson. Fiber traffic expanded after telecom shareholders learned it. Commodity production can rise for years while producers suffer because supply rises faster than profitable demand.
+
+The question running through this book is not whether intelligence will matter. It is where the surplus created by cheaper and more capable intelligence will settle after competition has had time to work.
+
+The supply chain gives the first answer and then immediately warns us not to trust it for too long. Today's scarce accelerator, transformer, interconnection, or powered site can earn extraordinary rents. Those rents finance the attempt to remove the scarcity. Some constraints will resist. Others will yield. New ones will appear farther down the chain.
 
 The factories making thought can become indispensable while the thought itself becomes cheap.
