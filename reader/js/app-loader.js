@@ -2,6 +2,7 @@ import {
   bootstrapRecoveryCopy,
   fetchBootstrapResource,
   installDeskRuntimeBridge,
+  rewriteSharedModuleSpecifiers,
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
@@ -96,17 +97,14 @@ function showRecovery(error) {
 
 try {
   const response = await fetchBootstrapResource(appUrl);
-  let source = await response.text();
-
-  const importPattern = /from\s+(['"])\.\/([^'"]+)\1/g;
-  const importMatches = [...source.matchAll(importPattern)].length;
-  if (!importMatches) {
+  const rewritten = rewriteSharedModuleSpecifiers(await response.text(), upstream);
+  if (!rewritten.staticImports) {
     throw new Error('Shared Reader imports were not recognized; update Desk loader.');
   }
-  source = source.replace(
-    importPattern,
-    (_match, quote, path) => `from ${quote}${upstream}${path}${quote}`
-  );
+  let source = rewritten.source;
+  if (/from\s+['"]\.\//.test(source) || /import\(\s*['"]\.\//.test(source)) {
+    throw new Error('Shared Reader still contains unresolved relative module imports; update Desk loader.');
+  }
 
   // Shelf intentionally shows only published books. Desk uses the same Reader UI
   // but must include drafts. Match semantically rather than depending on exact
