@@ -13,6 +13,7 @@ from hashlib import sha256
 from pathlib import Path
 
 SLUG_RE = re.compile(r"^[a-z0-9][a-z0-9-]*$")
+SHELF_READER_BASE = "https://svyable.github.io/shelf/reader/#/b/"
 
 
 class ReleaseError(RuntimeError):
@@ -87,6 +88,28 @@ def book_title(markdown: str, slug: str) -> str:
     return match.group(1).strip() if match else slug
 
 
+def publication_description(markdown: str, limit: int = 190) -> str:
+    """Return a compact Shelf-table description from the canonical book README."""
+    for raw in re.split(r"\n\s*\n", markdown):
+        paragraph = " ".join(line.strip() for line in raw.splitlines()).strip()
+        if not paragraph:
+            continue
+        if paragraph.startswith(("#", "|", "- [", "- ", "```", ">")):
+            continue
+        paragraph = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", paragraph)
+        paragraph = re.sub(r"[*_`]+", "", paragraph)
+        paragraph = re.sub(r"\s+", " ", paragraph).strip()
+        if len(paragraph) < 70:
+            continue
+        sentence = re.split(r"(?<=[.!?])\s+", paragraph, maxsplit=1)[0]
+        candidate = sentence if len(sentence) >= 70 else paragraph
+        if len(candidate) <= limit:
+            return candidate
+        clipped = candidate[: limit - 1].rsplit(" ", 1)[0].rstrip(" ,;:-")
+        return f"{clipped}…"
+    return "Released Svyable book."
+
+
 def section_bounds(markdown: str, heading: str) -> tuple[int, int]:
     pattern = re.compile(rf"^##\s+{re.escape(heading)}\s*$", re.I | re.M)
     match = pattern.search(markdown)
@@ -118,21 +141,30 @@ def catalog_row(
     title: str,
     authors: str,
     format_label: str,
+    chapters: str,
+    description: str,
 ) -> list[str]:
+    """Build a catalog row for both legacy and current Shelf table schemas."""
     row = list(existing or [""] * len(headers))
     if len(row) < len(headers):
         row.extend([""] * (len(headers) - len(row)))
     row = row[: len(headers)]
     for index, header in enumerate(headers):
-        key = header.lower()
+        key = re.sub(r"\s+", " ", header.lower()).strip()
         if index == 0:
-            row[index] = f"[{title}](books/{slug}/)"
+            row[index] = f"[**{title}**](books/{slug}/)"
         elif "author" in key:
             row[index] = authors
         elif "format" in key or "type" in key:
             row[index] = format_label or "Book"
-        elif "status" in key:
-            row[index] = "Published"
+        elif "status" in key or key == "state":
+            row[index] = "✅ Released"
+        elif "chapter" in key or "section" in key:
+            row[index] = chapters or "—"
+        elif key in {"what it is", "summary", "description", "about"} or key.startswith("what "):
+            row[index] = description
+        elif "read" in key or "open" in key:
+            row[index] = f"[Read →]({SHELF_READER_BASE}{slug}/)"
     return row
 
 
@@ -142,6 +174,8 @@ def upsert_catalog_row(
     title: str,
     authors: str,
     format_label: str,
+    chapters: str,
+    description: str,
 ) -> tuple[str, str]:
     start, end = section_bounds(root_markdown, "The books")
     section = root_markdown[start:end]
@@ -172,7 +206,9 @@ def upsert_catalog_row(
             break
 
     if found_idx is None:
-        row = catalog_row(headers, None, slug, title, authors, format_label)
+        row = catalog_row(
+            headers, None, slug, title, authors, format_label, chapters, description
+        )
         insert_idx = divider_idx + 1
         while insert_idx < len(lines) and table_cells(lines[insert_idx]):
             insert_idx += 1
@@ -180,7 +216,9 @@ def upsert_catalog_row(
         action = "added"
     else:
         existing = table_cells(lines[found_idx])
-        row = catalog_row(headers, existing, slug, title, authors, format_label)
+        row = catalog_row(
+            headers, existing, slug, title, authors, format_label, chapters, description
+        )
         replacement = "| " + " | ".join(row) + " |\n"
         if lines[found_idx] == replacement:
             action = "unchanged"
@@ -189,6 +227,47 @@ def upsert_catalog_row(
             action = "updated"
 
     return root_markdown[:start] + "".join(lines) + root_markdown[end:], action
+
+
+def shelf_author_states(shelf_books: Path, release_slug: str) -> tuple[int, int, int]:
+    """Count author projects after the proposed release, excluding style specimens."""
+    states: dict[str, bool] = {}
+    if shelf_books.is_dir():
+        for path in shelf_books.iterdir():
+            if not path.is_dir() or path.name.startswith(("_", "style-", ".")):
+                continue
+            readme = path / "README.md"
+            markdown = readme.read_text(encoding="utf-8") if readme.is_file() else ""
+            status = cell(markdown, "Status").lower()
+            states[path.name] = status == "published" or "release" in status
+    states[release_slug] = True
+    released = sum(states.values())
+    total = len(states)
+    return total, released, total - released
+
+
+def update_shelf_summary(
+    root_markdown: str,
+    total: int,
+    released: int,
+    public_drafts: int,
+) -> str:
+    """Refresh the author-project counts while preserving unrelated summary suffixes."""
+    pattern = re.compile(
+        r"^>\s*\*\*(?P<prefix>\d+\s+author publication projects)"
+        r"(?:\s+·\s+\d+\s+released\s+·\s+\d+\s+public drafts/proofs)?"
+        r"(?P<suffix>.*?)\*\*\s*$",
+        re.M,
+    )
+    match = pattern.search(root_markdown)
+    if not match:
+        return root_markdown
+    suffix = match.group("suffix")
+    replacement = (
+        f"> **{total} author publication projects · {released} released · "
+        f"{public_drafts} public drafts/proofs{suffix}**"
+    )
+    return root_markdown[: match.start()] + replacement + root_markdown[match.end() :]
 
 
 def file_manifest(root: Path, *, exclude_readme: bool = False) -> dict[str, str]:
@@ -269,10 +348,14 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
     if not authors:
         fail("book README has no Author or Authors value")
     format_label = cell(book_md, "Format") or "Book"
+    chapters = cell(book_md, "Chapters")
+    description = publication_description(book_md)
 
     root_md = shelf_root.read_text(encoding="utf-8")
+    total, released, public_drafts = shelf_author_states(shelf_books, slug)
+    root_md = update_shelf_summary(root_md, total, released, public_drafts)
     next_root, catalog_action = upsert_catalog_row(
-        root_md, slug, title, authors, format_label
+        root_md, slug, title, authors, format_label, chapters, description
     )
     next_book_md = set_status_published(book_md)
 
@@ -298,7 +381,7 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
         shutil.rmtree(stage_book, ignore_errors=True)
         raise
 
-    original_root = root_md
+    original_root = shelf_root.read_text(encoding="utf-8")
     moved_old = False
     installed_new = False
     try:
