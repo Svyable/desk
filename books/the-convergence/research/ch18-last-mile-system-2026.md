@@ -61,9 +61,9 @@ The World Bank’s 2026 decade review of the Multi-Tier Framework sharpens the m
 
 Source: https://documents1.worldbank.org/curated/en/099040126145541234/pdf/P506480-7863d7c6-efa5-4e63-94eb-a2a86a8ef375.pdf
 
-### Terminology check for the manuscript
+### Terminology verification
 
-The current chapter describes the MTF using “capacity, duration, reliability, quality, affordability, legality, health, and safety.” That language is close to older World Bank summaries, which often used “duration” and “legal” terminology, but the World Bank’s current MTF materials use **availability** and **formality**. A future manuscript copyedit should harmonize those labels if the 2026 synthesis remains the cited source. This is a terminology correction, not a substantive change to the chapter’s argument.
+The current manuscript already uses the World Bank’s 2026 MTF terminology: **capacity, availability, reliability, quality, affordability, formality, health, and safety**. Older World Bank summaries sometimes used “duration” and “legal” language, but no manuscript correction is now needed. Keeping this note explicit prevents a future copyedit from reintroducing superseded labels while preserving the chapter’s substantive argument unchanged.
 
 ### Strongest counterargument after verification
 
