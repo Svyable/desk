@@ -12,6 +12,10 @@ The answer is not caution for its own sake.
 
 It is operational clarity.
 
+The most expensive mistakes often begin before a model is selected. A company approves an enterprise license because the category feels inevitable, then asks thousands of employees to discover the return on investment after procurement has already committed the money. Another team builds a technically impressive agent around a process whose bottleneck is not cognition at all but permissions, missing data, regulatory review, or a customer who still has to sign a paper form. A third team automates a task that was slow partly because the slowness was doing useful work: forcing a second person to look at an exception, giving a customer time to correct an error, or making an irreversible action inconvenient.
+
+AI does not remove the need to understand the work. It makes misunderstanding the work cheaper to scale.
+
 **Start With the Workflow, Not the Model**
 
 The worst enterprise AI question is:
@@ -45,6 +49,16 @@ What output creates value?
 Only then choose the intelligence required.
 
 This reverses the common sales motion. Instead of buying a capability and hunting for use cases, you identify valuable work and procure the cheapest reliable capability that performs it.
+
+The word reliable matters as much as cheap. A model that answers ninety-nine routine cases beautifully and mishandles the one case that creates legal liability may be worse than a less capable system with a narrow job description and a dependable escalation path. The relevant unit is not benchmark intelligence. It is the completed workflow under real operating constraints.
+
+That usually means the first useful artifact is not an AI strategy deck. It is a process map with costs attached.
+
+How many people touch the work? How long does the median case take? What does the ninety-fifth percentile look like? Which failures create rework? Which failures create actual loss? Which steps exist because the old software was limited, and which exist because the organization has learned that a second pair of eyes is worth paying for?
+
+Once those questions are answered, some proposed AI projects become more attractive. Others disappear.
+
+That is progress too.
 
 **Buy Outcomes, Not Theater**
 
@@ -84,6 +98,14 @@ Research throughput increased.
 
 If the deployment cannot be connected to an operational metric, it may still be useful experimentation. Do not confuse experimentation with transformation.
 
+There is also a subtler version of theater: a metric moves, but the economics do not.
+
+A support agent may shorten handling time while increasing escalations. A coding assistant may raise lines of code produced while increasing review burden. A research system may generate more hypotheses while consuming scarce expert attention sorting plausible ideas from noise. A sales tool may increase outreach while lowering response quality. A clinical documentation system may save typing time while moving verification work to the end of the day.
+
+A local productivity metric can improve while total system cost rises.
+
+That is why measurement has to follow the work across the boundary where value is actually realized. Saving ten minutes upstream is not a gain if it creates fifteen minutes of correction downstream.
+
 **Build Evaluations Before Scale**
 
 A human employee is evaluated by the organization even when the process is informal.
@@ -108,6 +130,18 @@ It can switch suppliers intelligently.
 
 Without evaluations, model choice becomes faith.
 
+This is not merely an engineering preference. NIST's AI Risk Management Framework organizes practical risk management around four functions—govern, map, measure, and manage—and its generative-AI profile extends that logic to the particular risks created by generative systems. The order matters less than the operating habit behind it: define the context, identify what can go wrong, measure the system in that context, and assign responsibility for what happens next.
+
+A useful enterprise evaluation therefore contains more than a score.
+
+It contains ownership.
+
+Someone decides which failures are intolerable. Someone maintains the examples. Someone investigates regressions. Someone determines whether a new model is genuinely better or simply better on the vendor's preferred benchmark. Someone has authority to stop a rollout when the evidence turns.
+
+That institutional layer is easy to overlook because it is less visible than the model. It may be the more durable asset.
+
+A company with a mature evaluation set can take advantage of model improvement quickly because it has a way to verify improvement. A company without one may have access to the best model in the market and still be unable to tell whether changing providers makes its operation better or worse.
+
 **Design for Portability**
 
 No enterprise should assume today's preferred model will remain preferred.
@@ -131,6 +165,18 @@ Portability does not mean using every model.
 It means preserving the option to change when economics change.
 
 Options are valuable in deflationary markets.
+
+The design problem is to identify what should be portable and what is worth allowing to become specific.
+
+A company may rationally choose a proprietary feature that is materially better than the alternatives. It may choose a single cloud because the operational simplicity is worth more than theoretical independence. It may build tightly around one model because time to market matters more than future bargaining power.
+
+Those are not mistakes if the trade is explicit.
+
+The mistake is accidental lock-in: discovering later that a model-specific function call contains years of business logic, that evaluation data cannot be exported, that a security process assumes one provider's architecture, or that the company signed a minimum-spend commitment larger than the workload it now wants to run.
+
+Portability is partly software architecture and partly contract architecture.
+
+Both have to be designed before the bargaining leverage is needed.
 
 **Treat Data as a Governed Asset**
 
@@ -160,6 +206,16 @@ Who can revoke access?
 
 Data advantage comes from trustworthy structure, not hoarding.
 
+Governance becomes more important as models become easier to connect to everything.
+
+The old enterprise application often had a narrow permission surface. A payroll system knew payroll. A claims system knew claims. A document repository stored documents. An agent can sit above several systems at once, read from one, write to another, summarize a third, and take an action in a fourth.
+
+That is useful precisely because it crosses boundaries.
+
+It is also why inherited access controls deserve suspicion. An employee who can open three systems separately does not necessarily need an agent that can combine all three automatically and act at machine speed. Aggregation can create a capability that did not exist when the permissions were granted one application at a time.
+
+The governance question is therefore not only whether the model may see the data. It is what the model may infer, combine, retain, and do because it saw the data.
+
 **Negotiate the Deflation**
 
 Enterprise buyers should assume the unit cost of many AI services will fall.
@@ -178,6 +234,16 @@ The central procurement principle is simple:
 
 **Do not give away the deflation dividend.**
 
+Procurement should also distinguish discounts from economics.
+
+A vendor can offer a lower token price while encouraging an architecture that consumes far more tokens. A cheap model can become expensive if it requires multiple retries, more human review, or a larger context window to reach acceptable quality. A premium model can be cheaper per completed task if it succeeds the first time.
+
+The contract should follow the business unit where possible.
+
+Cost per completed claim is more informative than cost per million tokens. Cost per resolved support case is more useful than price per model call. Cost per accepted software change is more useful than cost per generated line.
+
+When vendors sell intelligence by the unit, buyers should keep translating the unit back into work.
+
 **Know When Lock-In Is Worth It**
 
 Lock-in is not always bad.
@@ -193,6 +259,16 @@ Bad lock-in comes from contract traps and proprietary plumbing around a commodit
 One compounds productivity.
 
 The other compounds resentment.
+
+There is a financial test for the difference.
+
+If the incumbent raised price materially tomorrow, would the customer stay because the product had become more valuable inside the organization, or because leaving had become too painful to contemplate?
+
+Those can look identical in retention statistics for years.
+
+They are not the same business.
+
+An executive buyer should care because today's procurement decision helps determine which kind of relationship is being created. A system that improves as it accumulates company-specific learning may deserve commitment. A system whose main defense is the cost of extracting your own work from it deserves a different contract.
 
 **Keep Humans at the Liability Boundary**
 
@@ -219,6 +295,18 @@ How quickly can the system be disabled?
 The practical design problem is not “human in the loop” versus “full autonomy.”
 
 It is placing human responsibility at the right liability boundary.
+
+That boundary should move as evidence improves.
+
+An agent that begins by drafting a customer response may later be allowed to send responses below a defined risk threshold. A system that initially recommends a refund may eventually issue small refunds automatically. A coding agent may begin with pull requests and later receive authority over low-risk maintenance changes. Autonomy does not need to arrive as a philosophical choice made once. It can be earned through observed performance.
+
+The important thing is that authority expands deliberately.
+
+A company should know which actions an AI system can take, the maximum consequence of a mistaken action, how the action can be reversed, and which person or function owns the resulting risk. “The model did it” is not an operating model.
+
+Neither is “a human reviewed it” if the human is presented with hundreds of machine-generated decisions at a pace that makes meaningful review impossible.
+
+Human oversight has capacity limits too.
 
 **Measure the Right Unit**
 
@@ -249,6 +337,18 @@ Time from clinical encounter to completed documentation.
 The best AI implementation may use fewer tokens than the flashy one.
 
 Efficiency is the point.
+
+The measure also needs a denominator that survives growth.
+
+A company can report that its AI system saves a million employee hours while hiring enough reviewers, security staff, data engineers, and integration specialists to consume much of the apparent benefit. That does not mean the deployment failed. It means the organization should measure the whole production function rather than one automated step.
+
+The best comparison is often against the next-best way of doing the work, not against doing nothing.
+
+Could ordinary software have solved the problem? Could a process change have removed the task entirely? Could a smaller model do it locally? Could the company buy the outcome from a specialist rather than build the capability itself?
+
+AI has a habit of making technically interesting solutions arrive before economically boring questions.
+
+The boring questions are usually where the return lives.
 
 **Run a Portability Drill**
 
@@ -281,6 +381,26 @@ This discipline also changes internal architecture. Teams become less likely to 
 In a rapidly deflating market, the ability to switch is not merely technical hygiene.
 
 It is purchasing power.
+
+**Treat the Pilot as a Capital-Allocation Decision**
+
+The low cost of starting an AI pilot can hide the high cost of maintaining one.
+
+The first prototype may take a week. Production requires permissions, monitoring, evaluations, incident handling, integration maintenance, security review, vendor management, user training, and somebody who still understands the workflow after the enthusiastic builder moves to another project.
+
+Multiply that across fifty experiments and the company can recreate the very software sprawl it hoped AI would simplify.
+
+This is where executives need portfolio discipline.
+
+Experiments should be cheap and numerous. Production systems should earn permanence.
+
+A pilot that works should graduate into an owner, a budget, an evaluation regime, and an operating metric. A pilot that does not work should be easy to kill. The dangerous middle is the zombie deployment: useful enough that nobody deletes it, unimportant enough that nobody truly owns it, and connected to enough systems that its eventual failure matters.
+
+Capital allocation is not only about dollars invested in hardware or licenses. Management attention is capital too.
+
+AI makes it possible to start more things than an organization can responsibly operate.
+
+The executive advantage comes from being willing to stop some of them.
 
 **The Executive's Five Rules**
 
