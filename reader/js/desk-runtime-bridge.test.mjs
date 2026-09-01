@@ -10,6 +10,7 @@ import {
   retryPauseMs,
   rewriteDeskPublicationUrl,
   rewriteOfflineReadinessMessage,
+  rewriteSharedModuleSpecifiers,
   shouldRedirectShelfWorker,
 } from './desk-runtime-bridge.js';
 
@@ -124,4 +125,13 @@ check(() => assert.equal(bootstrapRecoveryCopy(new TypeError('offline'), { onlin
 check(() => assert.match(bootstrapRecoveryCopy(new TypeError('network')).title, /temporarily/i));
 check(() => assert.match(bootstrapRecoveryCopy(new Error('contract')).title, /update/i));
 
-console.log(`Desk runtime bridge: ${assertions}/33 assertions passed`);
+const moduleRewrite = rewriteSharedModuleSpecifiers(
+  "import { ready } from './base.js';\nconst lazy = () => import('./pagination-scheduler.js');",
+  'https://svyable.github.io/shelf/reader/js/'
+);
+check(() => assert.equal(moduleRewrite.staticImports, 1));
+check(() => assert.equal(moduleRewrite.dynamicImports, 1));
+check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/base\.js/));
+check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/pagination-scheduler\.js/));
+
+console.log(`Desk runtime bridge: ${assertions}/37 assertions passed`);
