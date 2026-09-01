@@ -116,6 +116,68 @@ Bandwidth became transformative when people streamed video without thinking abou
 
 AI may cross the same threshold when cognition is no longer rationed.
 
+**The Benchmark Is Not the Bill**
+
+There is a trap in every chart showing the falling price of intelligence.
+
+A benchmark is not a business process.
+
+It measures a defined task under controlled conditions. A company has to pay for the rest: retrieval, orchestration, tool calls, retries, human review, monitoring, security, data preparation, logging, compliance, latency, and the failures that arrive at the edges of the distribution rather than the center.
+
+The cheapest model that clears a benchmark may not be the cheapest system that produces a dependable result.
+
+Suppose a smaller model costs one-tenth as much per token but requires twice as many retries, more elaborate prompting, and more human review. The token price has collapsed. The workflow cost may not have collapsed by the same amount.
+
+The opposite can also happen.
+
+A more expensive model can be cheaper in use if it finishes a task in one pass, uses fewer tokens, needs less supervision, or avoids an expensive mistake. A legal team does not buy tokens. It buys a contract that can be sent. A software company does not buy code completion. It buys working software. A hospital does not buy text. It buys decisions that survive clinical and legal scrutiny.
+
+This is why the economically relevant unit keeps moving upward.
+
+Tokens matter to the infrastructure provider.
+
+Completed tasks matter to the customer.
+
+Outcomes matter to the enterprise.
+
+As raw model prices fall, more of the competitive contest shifts from the price of intelligence to the cost of making intelligence reliable inside a real system.
+
+That distinction does not weaken the deflation thesis. It makes it more useful.
+
+If raw cognition gets cheaper while integration, trust, context, and accountability remain scarce, then value does not disappear. It migrates.
+
+**The Moving Frontier**
+
+There is another reason price curves can mislead.
+
+The target does not stand still.
+
+The cost of matching yesterday's frontier may collapse even while the cost of operating at today's frontier remains high.
+
+That is normal in technology.
+
+A five-year-old supercomputer becomes ordinary. A five-year-old camera becomes a phone feature. A five-year-old storage configuration becomes a rounding error. Yet the people building at the frontier can still spend aggressively because the frontier itself keeps moving outward.
+
+Artificial intelligence may develop the same two-tier economy.
+
+Mature capabilities become cheap and widely available.
+
+New capabilities remain scarce, expensive, and worth paying for.
+
+The investor has to know which layer is being financed.
+
+A business whose economics depend on charging frontier prices for a capability that is rapidly becoming mature is exposed to compression from behind. A business that continually earns its position at the new frontier may preserve premium pricing, but it has accepted a different burden: permanent research expense, permanent infrastructure expense, and permanent risk that a rival closes the gap.
+
+This creates a treadmill.
+
+The producer can run faster and still fail to increase economic distance from the competition.
+
+A model company may release something much better than its previous product and discover that competitors improved at roughly the same time. Customers receive more intelligence. The industry earns less differentiation than the technical progress would suggest.
+
+For society, that can be magnificent.
+
+For margins, it can be brutal.
+
 **Deflation Does Not Mean Less Compute**
 
 There is an apparent contradiction at the heart of the AI economy.
@@ -158,6 +220,44 @@ Demand for completed business outcomes?
 
 Those quantities can all rise while the profit pool migrates from one layer to another.
 
+**How Much Demand Does Cheapness Create?**
+
+The great unknown is elasticity.
+
+If intelligence becomes ten times cheaper, do customers consume twice as much, ten times as much, or a hundred times as much?
+
+No one knows the stable answer because the product itself is changing while its price falls.
+
+Some uses are naturally bounded. There are only so many customer-service tickets, tax returns, radiology studies, and invoices that need to be processed. If the cost of handling each one falls by 90 percent, the market may not create ten times as many invoices just to absorb the savings.
+
+Other uses are almost unbounded.
+
+Software can test more variants.
+
+Researchers can explore more candidate molecules.
+
+Design systems can produce more alternatives.
+
+Companies can personalize communications that were previously generic.
+
+Games can generate more interactive behavior.
+
+Agents can monitor processes that no human could economically watch around the clock.
+
+A falling price does not merely make an existing task cheaper. It can reveal demand for tasks that did not exist at the old price.
+
+This is where the analogy to Jevons becomes tempting. Efficiency can increase total resource use when lower effective prices stimulate enough new demand.
+
+But the analogy should not be turned into a law.
+
+Rebound depends on the shape of demand, the availability of complementary capital, and the value created by additional use. If a model call becomes nearly free but every useful deployment still requires scarce engineers, proprietary data, legal approval, or changes to a company's workflow, then cheap tokens alone will not produce infinite consumption.
+
+The constraint moves.
+
+That phrase will recur because it is one of the central facts of abundance economics.
+
+When one input becomes cheap, the scarce complement becomes more visible.
+
 **The Producer-Margin Problem**
 
 Abundance is wonderful for customers.
@@ -187,6 +287,38 @@ The customer captures most of the efficiency gain.
 This is what competition is supposed to do.
 
 The economic surplus from innovation does not necessarily remain with the inventor.
+
+There is a second problem for producers: the cost curve may fall faster than their balance sheet can adapt.
+
+A company can finance equipment on the expectation that a unit of compute will earn a certain revenue stream over several years. Then the market price of equivalent capability falls much faster than expected. The machine still works. Demand may still be growing. Yet the cash flow available to that particular machine has changed.
+
+That is the capital-cycle version of technological progress.
+
+The customer celebrates a lower price.
+
+The owner of yesterday's expensive capacity discovers what the lower price means for debt service.
+
+This is why rapid deflation and rapid capital spending can coexist for surprisingly long periods. New equipment can have excellent economics at the new cost curve while older equipment has disappointing economics at the old financing assumptions. The industry looks healthy in aggregate while return dispersion widens underneath it.
+
+**Price Wars Without Bankruptcy**
+
+A price war does not require every participant to lose money.
+
+The strongest producer may have lower hardware costs, better utilization, superior software, cheaper capital, or enough scale to spread fixed costs across more traffic. It can cut price and remain profitable while making a competitor's economics untenable.
+
+The competitor does not need to be badly managed.
+
+It may simply have entered at a worse point in the capital cycle.
+
+This is another reason market share can be deceptive. A company can gain customers by lowering prices into a market whose unit economics are deteriorating. Revenue can grow because volume outruns price declines. Gross profit can still disappoint because the dollars earned on each unit are shrinking faster than fixed costs can be removed.
+
+The important question is not whether usage is rising.
+
+It is whether incremental usage earns an incremental return on the capital required to serve it.
+
+That question sounds pedestrian next to arguments about artificial general intelligence.
+
+It is also how investors get paid.
 
 **Intelligence as a Commodity—and Not a Commodity**
 
@@ -222,6 +354,58 @@ The market fragments into capability tiers.
 
 Only the difficult tail remains scarce.
 
+And even the difficult tail may not remain scarce forever.
+
+That matters because every model provider is selling into two markets at once.
+
+One market is today's frontier, where capability can command a premium.
+
+The other is yesterday's frontier, where capability is becoming abundant.
+
+The first market funds ambition.
+
+The second reveals the direction of margins.
+
+**Where the Scarcity Goes**
+
+If raw intelligence keeps getting cheaper, businesses will search for things that do not.
+
+Trusted distribution.
+
+Proprietary workflow data.
+
+Exclusive rights.
+
+Customer relationships.
+
+Regulatory approval.
+
+Physical assets.
+
+Brand.
+
+Liability-bearing judgment.
+
+Embedded software with high switching costs.
+
+Access to a transaction at the moment it occurs.
+
+These are not magical moats. Each can erode. But they are economically different from owning temporary access to a model whose substitutes are improving every quarter.
+
+This is why the phrase “AI company” becomes less useful as AI diffuses.
+
+A logistics company that uses very cheap intelligence to route freight may capture more durable value than a company whose only product is expensive intelligence for routing freight.
+
+A bank may capture the savings from automating document review without ever selling a token.
+
+A software platform may make its AI feature free because the feature protects subscription retention elsewhere.
+
+A model provider can create enormous social value and still discover that the durable profit pool belongs downstream.
+
+The mistake is to assume that technical centrality guarantees economic centrality.
+
+History offers too many counterexamples for that comfort.
+
 **The Deflation Test**
 
 This gives us one of the book's central frameworks.
@@ -241,6 +425,12 @@ The test is crude.
 That is why it is useful.
 
 It forces the analyst to imagine success in the technology and then ask whether the business survives success.
+
+A useful second question follows.
+
+If intelligence becomes cheap, what remains expensive?
+
+That answer often points more directly toward durable value than the model leaderboard does.
 
 **The Greatest Gift, the Hardest Business**
 
