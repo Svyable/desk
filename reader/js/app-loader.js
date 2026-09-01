@@ -1,5 +1,9 @@
+import { installDeskRuntimeBridge } from './desk-runtime-bridge.js';
+
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260829-1`;
+const appUrl = `${upstream}app.js?v=desk-20260901-1`;
+
+installDeskRuntimeBridge();
 
 function showFatal(error) {
   console.error('Desk Reader bootstrap failed', error);
@@ -71,15 +75,6 @@ try {
     catalogGate,
     "if (meta.published || window.__IMPRINT?.role === 'desk') entries.push(meta);"
   );
-
-  // A blob-imported module cannot resolve the Shelf service worker relatively.
-  const serviceWorkerPattern = /new\s+URL\(\s*(['"])\.\.\/sw\.js\1\s*,\s*import\.meta\.url\s*\)/;
-  if (serviceWorkerPattern.test(source)) {
-    source = source.replace(
-      serviceWorkerPattern,
-      "new URL('https://svyable.github.io/shelf/reader/sw.js')"
-    );
-  }
 
   const moduleUrl = URL.createObjectURL(new Blob([source], { type: 'text/javascript' }));
   try {
