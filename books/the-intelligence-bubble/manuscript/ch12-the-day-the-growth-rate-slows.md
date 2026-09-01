@@ -96,6 +96,10 @@ AI widens operational uncertainty while high valuations narrow acceptable financ
 
 That is an unstable combination.
 
+There is another complication. Growth rates are ratios, and ratios acquire strange emotional power when a market has spent several years watching them rise. A company that goes from $1 billion to $2 billion has added $1 billion of revenue at 100 percent growth. If it then goes from $2 billion to $3 billion, it has added the same absolute amount while its growth rate falls to 50 percent. The business did not stop expanding. The denominator caught up.
+
+Eventually every sufficiently large market encounters this arithmetic. The question is whether the valuation encountered it first.
+
 **The Dominoes**
 
 A slowdown at one layer can propagate.
@@ -168,6 +172,10 @@ Again, AI demand does not need to disappear.
 
 The price of financing the demand merely has to change.
 
+CoreWeave's filings make the distinction unusually concrete. At June 30, 2026, the company reported $35.6 billion of future principal payments on debt. More than $10 billion of that principal was scheduled for the remainder of 2026 and 2027. In the first six months of 2026 it also issued or entered into several large new facilities, including senior notes carrying coupons above 9 percent as well as floating-rate term debt. None of those facts establishes distress. They establish something more useful for this argument: growth does not arrive on a blank balance sheet. It arrives beside maturities, interest, leases, construction schedules, and obligations negotiated when the demand curve looked a particular way.
+
+A deceleration therefore has a calendar. If it happens after debt has been refinanced cheaply, the company may have years to adjust. If it happens while a large maturity wall is approaching, the same operating result can produce a much more severe financial outcome. Two companies with identical technology and identical revenue growth can have radically different experiences because one bought time before the market changed.
+
 **Customer Concentration Turns Growth Into Credit Risk**
 
 During a land grab, large customers are celebrated.
@@ -192,6 +200,10 @@ A concentrated customer can renegotiate because it knows the supplier cannot eas
 
 The revenue line begins to resemble a credit exposure.
 
+This matters especially when the customer is also a supplier, investor, distribution partner, or source of technical dependency. The relationship can be economically valuable while making the apparent diversity of the ecosystem misleading. Revenue may travel through several legal entities without representing several independent beliefs about end demand.
+
+The useful question is not simply how much backlog exists. It is how many independent economic decisions sit behind it, what cancellation or modification rights exist, when the customer actually needs the capacity, and what happens to the supplier's economics if one large buyer becomes more disciplined.
+
 **Power Delays Are Earnings Delays**
 
 An AI company can have perfect demand and miss numbers because electricity arrives late.
@@ -207,6 +219,40 @@ software-speed expectations,
 infrastructure-speed delivery.
 
 When those clocks diverge, guidance breaks.
+
+Microsoft's fiscal 2026 disclosures offer a useful view of those clocks. In its first quarter earnings call, the company said capital expenditures were $34.9 billion. Roughly half went to shorter-lived assets, primarily GPUs and CPUs, while the remainder went to long-lived assets expected to support monetization for fifteen years and beyond, including large data-center sites financed through leases. By the fiscal fourth quarter, Microsoft reported $41 billion of quarterly capital expenditure, with roughly two-thirds directed to shorter-lived assets.
+
+That mixture matters because “AI infrastructure” is not one asset with one economic life. Land, buildings, electrical systems, networking gear, CPUs, and accelerators age at different speeds. A demand forecast that is wrong by two years can be tolerable for a site expected to operate for decades and brutal for hardware whose economic frontier is moving every product cycle.
+
+It also changes what “too much capacity” means. A useful campus can survive a bad financing decision. A transformer can serve a successor tenant. Fiber can carry somebody else's traffic. The accelerator purchased at the top of a shortage may face a less forgiving resale market. Investors should not collapse those outcomes into a single prediction about data centers.
+
+**When the Buyer Can Afford to Be Wrong**
+
+The strongest counterargument to a capital-cycle warning is sitting in plain sight: some of the largest AI buyers are enormously profitable companies with other businesses that can fund the experiment.
+
+Meta illustrates the point. In January 2026 it guided to $115 billion to $135 billion of capital expenditure for the year. By April it had raised that range to $125 billion to $145 billion. In July it reported $31.1 billion of second-quarter capital expenditure. These are extraordinary sums, but Meta was not a speculative infrastructure vehicle whose only path to solvency depended on renting every new GPU at a particular price. Its advertising business was producing tens of billions of dollars of quarterly revenue and operating cash flow.
+
+That financial strength changes the downside. A hyperscaler can tolerate periods of low utilization, move workloads internally, delay some projects, accelerate others, or accept a lower direct return on infrastructure because the capacity protects a larger franchise. It may also discover uses for compute that were not part of the original underwriting case.
+
+This is genuine counterevidence to the simplest bubble story. The largest buyers may be able to absorb overbuilding without a financing crisis.
+
+But their ability to absorb it does not make every supplier safe. In fact, it can move risk outward. A cash-rich buyer can renegotiate, switch vendors, redesign its stack, or slow commitments. The supplier that borrowed against the buyer's expected growth may have less freedom. The same ecosystem can therefore contain a resilient customer and a fragile capital provider.
+
+A boom can be overbuilt without its richest participants going broke.
+
+**Depreciation Is an Argument About Time**
+
+Depreciation is often treated as an accounting footnote until the size of the asset base makes the footnote large enough to move earnings.
+
+The underlying question is economic: how long will this equipment produce useful revenue?
+
+In January 2025, Meta extended the estimated useful life of certain servers and network assets to five and a half years. It estimated that the change would reduce 2025 depreciation expense by about $2.9 billion. There is nothing inherently improper about revising a useful-life estimate; companies are supposed to update estimates when experience changes. The scale of the effect is the point. Once infrastructure fleets become enormous, a judgment about how long equipment remains useful becomes a material judgment about reported profit.
+
+Investors should therefore read useful-life changes in two directions. Longer lives can reflect genuine improvements in reuse, software efficiency, workload matching, and the continuing utility of older hardware. They can also make current earnings look better by spreading historical cost across more years. The accounting answer cannot settle the technological question by itself.
+
+A good analysis asks what the older equipment is actually doing. Is it serving lower-priority inference? Internal workloads? Development? Batch jobs? Is it still earning a return above power and operating cost? Can it be redeployed? Does the company have enough demand diversity to match cheaper workloads to older machines?
+
+The answer may be yes. That is precisely why a blanket assumption of rapid obsolescence is as weak as a blanket assumption of long useful life.
 
 **The First Reaction Is Denial**
 
@@ -233,6 +279,10 @@ Real capital cycles are less theatrical.
 Too much money earns too little return.
 
 That is enough.
+
+There is a second form of denial that runs in the opposite direction. After a richly valued company misses expectations, skeptics may treat the stock-price decline as proof that the entire technological thesis was fraudulent. That conclusion can be just as lazy. A security can have been overpriced while its factories remain useful, its customers remain real, and its industry continues to grow for decades.
+
+Price is the mechanism that separates those statements. At one price, a business can require heroic assumptions. At a lower price, the same business can offer an attractive return under ordinary ones. The capital cycle does not merely destroy value. It transfers claims on productive assets from people who paid for one future to people willing to own a more modest one.
 
 **The Capital-Cycle Warning System**
 
