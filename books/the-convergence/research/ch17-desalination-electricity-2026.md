@@ -18,6 +18,10 @@ The regional concentration also sharpens the infrastructure argument. The Middle
 
 More energy supply is not necessarily the cheapest or most resilient way to create more usable water. The same IEA analysis contrasts two Australian responses during the Millennium Drought. Southeast Queensland emphasized demand-side measures and cut per-capita water use by about 40% over a decade. Perth expanded desalination capacity; that relieved water-system pressure, but doubled the energy intensity of its water supply while per-capita use fell only about 10%.
 
+A primary-source check makes the Southeast Queensland case even more concrete. The Queensland Government's 2010 *South East Queensland Water Strategy* reports average residential consumption of 282 litres per person per day in 2004–05 and 143 litres in 2008–09. It separately reports average urban consumption in central Southeast Queensland and the Gold Coast falling from about 450 litres per person per day in 2005 to about 230 from mid-2007 to mid-2009. Those are different series and should not be spliced together, but both show that demand can move dramatically when scarcity becomes salient.
+
+The causal claim needs restraint. These reductions occurred during an extreme drought alongside restrictions, appliance and retrofit programs, public campaigns, pricing and other demand-management measures. The government figures therefore demonstrate the scale of demand reduction achieved under a policy package; they do not isolate how much any single intervention caused. See `sources/qld-seq-water-strategy-2010.json`.
+
 This is important disconfirming evidence for any version of the chapter's thesis that slides from "energy expands the feasible water set" to "more energy-intensive supply is the natural answer to water scarcity." Conservation, leakage reduction, reuse, storage, agricultural efficiency, pricing, and allocation can beat new supply on cost or resilience. Desalination is especially valuable where dependable high-quality water is worth its capital and energy cost; it is not a universal first resort.
 
 There is also substantial technological counterevidence to a static energy-intensity story. Modern seawater reverse osmosis typically requires far less total energy than thermal desalination, and state-of-the-art plants can do better still. Electrification therefore raises electricity demand while simultaneously replacing more energy-intensive thermal processes. A claim about rising electricity dependence should not be mistaken for a claim that desalination is becoming less efficient.
@@ -30,6 +34,7 @@ A stronger version of the Chapter 17 argument is:
 
 The useful distinction is between **technical capability** and **system choice**. Cheap, reliable electricity expands the menu. It does not decide which item should be ordered.
 
-## Source
+## Sources
 
-International Energy Agency, "Wired for water: How electrification is transforming desalination," March 22, 2026. See `sources/iea-wired-for-water-2026.json`.
+- International Energy Agency, "Wired for water: How electrification is transforming desalination," March 22, 2026. See `sources/iea-wired-for-water-2026.json`.
+- Queensland Government, *South East Queensland Water Strategy* (2010). See `sources/qld-seq-water-strategy-2010.json`.
