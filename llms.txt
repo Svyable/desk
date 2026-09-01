@@ -41,6 +41,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Restructuring America](https://svyable.github.io/desk/books/restructuring-america/README.md)
 - [Right To Try](https://svyable.github.io/desk/books/right-to-try/README.md)
 - [Scaling Laws](https://svyable.github.io/desk/books/scaling-laws/README.md)
+- [Second Guess](https://svyable.github.io/desk/books/second-guess/README.md)
 - [Silent Cartel](https://svyable.github.io/desk/books/silent-cartel/README.md)
 - [Single Points of Failure](https://svyable.github.io/desk/books/single-points-of-failure/README.md)
 - [Source Code](https://svyable.github.io/desk/books/source-code/README.md)

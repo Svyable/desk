@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | ✅ Complete draft |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 0 of 20 drafted |
+| **Chapters**  | 20 of 20 drafted |
 
 *How Human Judgment Survives the Age of the Recommendation.*
 
@@ -31,28 +31,28 @@ actually be designed, trained, and held accountable differently.
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — The Decision on the Hudson](manuscript/ch01-the-decision-on-the-hudson.md)
-- [ ] [Ch 2 — Two Kinds of Wrong](manuscript/ch02-two-kinds-of-wrong.md)
-- [ ] [Ch 3 — The Ironies of Automation](manuscript/ch03-the-ironies-of-automation.md)
-- [ ] [Ch 4 — Children of the Magenta Line](manuscript/ch04-children-of-the-magenta-line.md)
-- [ ] [Ch 5 — The Vigilance Problem](manuscript/ch05-the-vigilance-problem.md)
-- [ ] [Ch 6 — Trust, Miscalibrated](manuscript/ch06-trust-miscalibrated.md)
-- [ ] [Ch 7 — The Algorithm Aversion Experiments](manuscript/ch07-the-algorithm-aversion-experiments.md)
-- [ ] [Ch 8 — Algorithm Appreciation](manuscript/ch08-algorithm-appreciation.md)
-- [ ] [Ch 9 — The Shadow on the Film](manuscript/ch09-the-shadow-on-the-film.md)
-- [ ] [Ch 10 — The Risk Score in the Courtroom](manuscript/ch10-the-risk-score-in-the-courtroom.md)
-- [ ] [Ch 11 — The Manager in the Warehouse](manuscript/ch11-the-manager-in-the-warehouse.md)
-- [ ] [Ch 12 — Forty-Five Minutes](manuscript/ch12-forty-five-minutes.md)
-- [ ] [Ch 13 — The Deskilling Ledger](manuscript/ch13-the-deskilling-ledger.md)
-- [ ] [Ch 14 — Explain Yourself](manuscript/ch14-explain-yourself.md)
-- [ ] [Ch 15 — The Moral Crumple Zone](manuscript/ch15-the-moral-crumple-zone.md)
-- [ ] [Ch 16 — Full Self-Driving, Actually](manuscript/ch16-full-self-driving-actually.md)
-- [ ] [Ch 17 — The Save](manuscript/ch17-the-save.md)
-- [ ] [Ch 18 — The Miss](manuscript/ch18-the-miss.md)
-- [ ] [Ch 19 — Designing for Appropriate Reliance](manuscript/ch19-designing-for-appropriate-reliance.md)
-- [ ] [Ch 20 — The Recommendation Economy](manuscript/ch20-the-recommendation-economy.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
+- [x] [Ch 1 — The Decision on the Hudson](manuscript/ch01-the-decision-on-the-hudson.md)
+- [x] [Ch 2 — Two Kinds of Wrong](manuscript/ch02-two-kinds-of-wrong.md)
+- [x] [Ch 3 — The Ironies of Automation](manuscript/ch03-the-ironies-of-automation.md)
+- [x] [Ch 4 — Children of the Magenta Line](manuscript/ch04-children-of-the-magenta-line.md)
+- [x] [Ch 5 — The Vigilance Problem](manuscript/ch05-the-vigilance-problem.md)
+- [x] [Ch 6 — Trust, Miscalibrated](manuscript/ch06-trust-miscalibrated.md)
+- [x] [Ch 7 — The Algorithm Aversion Experiments](manuscript/ch07-the-algorithm-aversion-experiments.md)
+- [x] [Ch 8 — Algorithm Appreciation](manuscript/ch08-algorithm-appreciation.md)
+- [x] [Ch 9 — The Shadow on the Film](manuscript/ch09-the-shadow-on-the-film.md)
+- [x] [Ch 10 — The Risk Score in the Courtroom](manuscript/ch10-the-risk-score-in-the-courtroom.md)
+- [x] [Ch 11 — The Manager in the Warehouse](manuscript/ch11-the-manager-in-the-warehouse.md)
+- [x] [Ch 12 — Forty-Five Minutes](manuscript/ch12-forty-five-minutes.md)
+- [x] [Ch 13 — The Deskilling Ledger](manuscript/ch13-the-deskilling-ledger.md)
+- [x] [Ch 14 — Explain Yourself](manuscript/ch14-explain-yourself.md)
+- [x] [Ch 15 — The Moral Crumple Zone](manuscript/ch15-the-moral-crumple-zone.md)
+- [x] [Ch 16 — Full Self-Driving, Actually](manuscript/ch16-full-self-driving-actually.md)
+- [x] [Ch 17 — The Save](manuscript/ch17-the-save.md)
+- [x] [Ch 18 — The Miss](manuscript/ch18-the-miss.md)
+- [x] [Ch 19 — Designing for Appropriate Reliance](manuscript/ch19-designing-for-appropriate-reliance.md)
+- [x] [Ch 20 — The Recommendation Economy](manuscript/ch20-the-recommendation-economy.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 

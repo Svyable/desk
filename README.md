@@ -6,7 +6,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 
 **[📖 Open the Desk Reader →](https://svyable.github.io/desk/reader/)** · **[📚 Read released editions →](https://svyable.github.io/shelf/reader/)** · **[🛠 Explore Bookself →](https://github.com/Svyable/bookself)**
 
-> **54 books · 19 complete drafts · 1 in revision · 34 drafting**
+> **55 books · 20 complete drafts · 1 in revision · 34 drafting**
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
 
@@ -42,6 +42,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | ~70K | Artificial intelligence can make cognition cheaper without making land, electricity, housing, water, transmission, permitting, skilled field work, or institutional coordination cheap. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right To Try**](books/right-to-try/) | ✍️ Drafting | 20 / 20 | ~70K | Personalized medicine at the border of permission: who may treat, manufacture, charge, learn, and follow up when the therapy is made for one patient or available only through a narrow pathway or jurisdiction. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 4 / 25 | ~16K | Scale changes systems qualitatively: bottlenecks move, coordination changes, rare events appear, and rules that worked in one regime fail in another. | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
+| [**Second Guess**](books/second-guess/) | ✅ Complete draft | 20 / 20 | ~77K | As automated recommendation spreads into cockpits, reading rooms, courtrooms, warehouses, trading desks, and cars, the decisive skill becomes knowing when a system has earned your trust, your skepticism, or your override. | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | 21 / 21 | ~75K | What happens to competition when firms do not explicitly collude but increasingly share algorithms, pricing vendors, data, incentives, and machine-mediated behavior. | [Read →](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | 12 / 12 | ~45K | Chokepoints can be worth more than scale: a tour of concentrated infrastructure, supply chains, standards, and dependencies that quietly run the world. | [Read →](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
 | [**Source Code**](books/source-code/) | ✍️ Drafting | 1 / 24 | ~5K | Truthful codebase comprehension as a scarce capability: smaller systems search the terrain while larger ones synthesize and test competing explanations. | [Read →](https://svyable.github.io/desk/reader/#/b/source-code/) |
