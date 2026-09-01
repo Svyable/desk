@@ -91,6 +91,14 @@ Separate demonstrated technologies from projections. Nuclear fission, batteries,
 | 10 — The Return of the Atom | What role can nuclear fission play in firm, high-density electricity supply? |
 | 11 — Abundance and the New Frontier | What becomes possible if marginal clean energy gets much cheaper and more plentiful? |
 | 12 — The Convergence | Does the full record support energy as the deepest common denominator of expanding human capability? |
+| 13 — The Material World | Are transition bottlenecks driven by geological scarcity, or by mining, refining, fabrication, concentration, and the pace of substitution and recycling? |
+| 14 — The Temperature Ladder | Which industrial heat loads can electrify economically, and where do temperature, chemistry, process integration, or equipment turnover keep fuels valuable? |
+| 15 — The Cost of Reliability | How much does dependable electricity cost beyond cheap annual energy, and which mixes of firm supply, storage, transmission, and demand response reduce that premium? |
+| 16 — The Build Rate | When deployment lags technical potential, which constraints are physical construction limits and which can be relaxed by institutions, manufacturing, grid optimization, or faster interconnection? |
+| 17 — The Water-Energy Knot | When does additional energy genuinely relax water scarcity, and when do water use, ecological limits, cost, or allocation make conservation and reuse the better answer? |
+| 18 — The Last Mile Is a System | Does a new connection translate into affordable, reliable, high-quality energy service, and which provisioning institutions determine the gap between access and capability? |
+| 19 — The Flexible Civilization | How much demand is technically shiftable, how much is economically dependable, and when is flexibility cheaper than adding supply, storage, or network capacity? |
+| 20 — What Abundance Is For | At higher levels of useful energy, how much additional human welfare follows from energy itself and how much depends on institutions, distribution, public services, and political choice? |
 
 ## Source discipline
 
