@@ -1,25 +1,74 @@
-import { installDeskRuntimeBridge } from './desk-runtime-bridge.js';
+import {
+  bootstrapRecoveryCopy,
+  fetchBootstrapResource,
+  installDeskRuntimeBridge,
+} from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260901-1`;
+const appUrl = `${upstream}app.js?v=desk-20260901-2`;
 
 installDeskRuntimeBridge();
 
-function showFatal(error) {
+function installRecoveryStyles() {
+  if (document.getElementById('deskBootstrapRecoveryStyle')) return;
+  const style = document.createElement('style');
+  style.id = 'deskBootstrapRecoveryStyle';
+  style.textContent = `
+    .desk-bootstrap-recovery {
+      box-sizing: border-box;
+      width: min(42rem, calc(100vw - 32px));
+      margin: max(3rem, env(safe-area-inset-top)) auto 2rem;
+      padding: 0 max(1rem, env(safe-area-inset-right)) 0 max(1rem, env(safe-area-inset-left));
+      font-family: system-ui, sans-serif;
+      line-height: 1.55;
+    }
+    .desk-bootstrap-recovery h1 { font-size: clamp(1.6rem, 7vw, 2.4rem); line-height: 1.1; }
+    .desk-bootstrap-recovery button {
+      min-height: 40px;
+      padding: 8px 14px;
+      border: 1px solid currentColor;
+      border-radius: 999px;
+      background: transparent;
+      color: inherit;
+      font: inherit;
+      font-weight: 650;
+      cursor: pointer;
+    }
+    .desk-bootstrap-recovery-detail { opacity: .72; overflow-wrap: anywhere; }
+    @media (pointer: coarse), (max-width: 680px) {
+      .desk-bootstrap-recovery button { min-height: 44px; padding-inline: 16px; }
+    }
+    @media (max-height: 430px) and (orientation: landscape) {
+      .desk-bootstrap-recovery { margin-top: max(1rem, env(safe-area-inset-top)); }
+      .desk-bootstrap-recovery h1 { margin-block: .4rem; font-size: 1.5rem; }
+    }
+    @media (forced-colors: active) {
+      .desk-bootstrap-recovery button { border: 2px solid ButtonText; forced-color-adjust: auto; }
+    }
+  `;
+  document.head.appendChild(style);
+}
+
+function showRecovery(error) {
   console.error('Desk Reader bootstrap failed', error);
+  installRecoveryStyles();
+  const copy = bootstrapRecoveryCopy(error, { online: navigator.onLine !== false });
 
   const main = document.createElement('main');
-  main.style.maxWidth = '42rem';
-  main.style.margin = '4rem auto';
-  main.style.padding = '0 1.25rem';
-  main.style.fontFamily = 'system-ui, sans-serif';
-  main.style.lineHeight = '1.55';
+  main.className = 'desk-bootstrap-recovery';
+  main.setAttribute('role', 'alert');
+  main.setAttribute('aria-live', 'assertive');
 
   const title = document.createElement('h1');
-  title.textContent = 'Desk Reader could not start';
+  title.textContent = copy.title;
 
   const detail = document.createElement('p');
-  detail.textContent = error instanceof Error ? error.message : String(error);
+  detail.textContent = copy.message;
+
+  const retry = document.createElement('button');
+  retry.type = 'button';
+  retry.textContent = copy.action;
+  retry.addEventListener('click', () => window.location.reload());
 
   const help = document.createElement('p');
   help.append(
@@ -37,20 +86,16 @@ function showFatal(error) {
   );
 
   const diagnostic = document.createElement('p');
-  diagnostic.style.opacity = '.72';
-  diagnostic.textContent =
-    'The Desk stopped rather than showing a blank book because the shared Reader contract changed. The error above identifies the failing bootstrap step.';
+  diagnostic.className = 'desk-bootstrap-recovery-detail';
+  diagnostic.textContent = error instanceof Error ? error.message : String(error);
 
-  main.append(title, detail, help, diagnostic);
+  main.append(title, detail, retry, help, diagnostic);
   document.body.replaceChildren(main);
+  retry.focus({ preventScroll: true });
 }
 
 try {
-  const response = await fetch(appUrl, { cache: 'reload' });
-  if (!response.ok) {
-    throw new Error(`Could not load shared Reader (${response.status})`);
-  }
-
+  const response = await fetchBootstrapResource(appUrl);
   let source = await response.text();
 
   const importPattern = /from\s+(['"])\.\/([^'"]+)\1/g;
@@ -83,5 +128,5 @@ try {
     URL.revokeObjectURL(moduleUrl);
   }
 } catch (error) {
-  showFatal(error);
+  showRecovery(error);
 }
