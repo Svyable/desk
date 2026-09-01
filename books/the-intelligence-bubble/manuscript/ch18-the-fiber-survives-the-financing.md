@@ -120,6 +120,10 @@ The social value of the network and the private return on the original capital d
 
 That divergence is not an accident at the edge of capitalism. It is one of the ways technological progress becomes cheap enough to spread.
 
+A second Richmond Fed account caught the repricing in a single route. A long-haul connection that had rented for about $590,000 a year in 2001 was quoted at about $194,000 in 2002. The route had not become one-third as useful in twelve months. The market around it had changed. Capacity that had been financed under one scarcity regime was being offered under another.
+
+That is what a capital-cycle loss can look like before an asset becomes physically obsolete. The service still works. The customer may even want more of it. What disappears is the price required to validate the old financing.
+
 A new owner buying an asset out of distress does not inherit the old owner's required return.
 
 Suppose a network cost ten billion dollars to build and was financed on the assumption that scarcity prices would persist. If the original capital structure fails and the productive assets are sold for four billion, the new owner can charge less and still earn an acceptable return on the lower basis. Nothing about the fiber has to improve during the bankruptcy for the economics of using it to improve.
@@ -138,6 +142,8 @@ But refusing to describe it does not make it disappear.
 
 Overbuilt infrastructure can become more socially useful after the financial claims on it are marked down.
 
+The mechanism is not confined to a textbook write-down. Bankruptcy can move functioning infrastructure into hands that can operate it with less debt and a lower purchase price. In 2003, for example, the Federal Communications Commission described a bankruptcy-court sale of core domestic telecommunications assets belonging to Digital Teleport. The buyer would acquire and continue operating a network spanning thousands of route miles while the seller reorganized. The regulatory filing is dry, but the economic point is vivid: insolvency did not require the network to be dug out of the ground. Ownership and claims could change while service continued.
+
 This is the part of a bubble that a technology optimist should understand most clearly.
 
 If AI infrastructure is overbuilt, that does not imply the infrastructure was useless.
@@ -148,7 +154,11 @@ A rack of accelerators bought under peak scarcity pricing can still perform usef
 
 The asset can be durable even when the thesis that financed it is not.
 
-There are limits to the analogy.
+But residual value is not a property of the noun attached to an asset. Calling something infrastructure does not make it durable.
+
+A powered shell has residual value only if someone else can use the power, cooling, network access, layout, and location. A long interconnection queue can make an existing power connection valuable, but a site designed around one tenant's unusual density may require expensive changes for the next. A building may be physically sound and economically stranded. A transformer may have decades of engineering life and still sit in the wrong place for the next source of demand.
+
+This is where the fiber analogy can mislead if taken too literally.
 
 Fiber has unusually long physical life. Accelerators age quickly. A strand of glass installed decades ago can remain useful as the electronics on either end improve. A GPU generation can lose relative economic value in a few years if newer hardware offers much better performance per watt or per dollar. Data centers also depend on cooling, power density, networking, and physical designs that can become less suitable as hardware changes.
 
@@ -172,11 +182,23 @@ The model itself may lose pricing power faster than any of them.
 
 That mixture makes residual value harder to underwrite than a simple “data centers are the new railroads” story suggests.
 
+It also creates a question that ordinary depreciation schedules do not answer: valuable to whom?
+
+An asset can be worth little to its current owner and a great deal to a buyer with a different capital structure, adjacent land, cheaper power, a compatible customer, or the ability to retrofit it. Conversely, a specialized facility can have an impressive replacement cost and poor market value because there are few buyers who can use it without spending more money.
+
+Replacement cost is therefore not a floor under value.
+
+Historical cost is not a floor either.
+
+The floor comes from the cash flows available to the next plausible user, less the cost and time required to make the asset useful to that user. In a boom, those distinctions are easy to ignore because the current tenant appears permanent. In a restructuring, they become the whole negotiation.
+
 An investor should ask which layer survives the financing.
 
 The answer may differ inside the same project.
 
 A lender secured by land, utility infrastructure, and a flexible building has a different claim from a lender economically dependent on the resale value of a particular accelerator fleet. A landlord with a twenty-year lease to a strong tenant has different exposure from a compute provider selling short-term capacity against long-term hardware financing. A utility that earns a regulated return on infrastructure has different economics from a developer that needs a single customer to take the full load.
+
+Even the lease can hide the wrong conclusion. A long contract improves visibility only to the extent that the counterparty can and will perform. If the tenant's own economics deteriorate, the landlord may discover that contractual duration and economic duration were never the same thing. The residual-value question then returns through the back door: what is the site worth without this customer, and how quickly can another one use it?
 
 The word infrastructure conceals these differences.
 
