@@ -26,8 +26,11 @@ assert.match(worker, /'js\/pwa-update\.js'/);
 assert.match(worker, /'js\/offline-readiness\.js'/);
 
 assert.match(loader, /installDeskRuntimeBridge/);
-assert.ok(loader.indexOf('installDeskRuntimeBridge();') < loader.indexOf('fetch(appUrl'));
+assert.match(loader, /fetchBootstrapResource/);
+assert.ok(loader.indexOf('installDeskRuntimeBridge();') < loader.indexOf('fetchBootstrapResource(appUrl'));
+assert.match(loader, /rewriteSharedModuleSpecifiers/);
+assert.match(loader, /unresolved relative module imports/);
 assert.match(loader, /window\.__IMPRINT\?\.role === 'desk'/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: 17 assertions passed');
+console.log('Desk PWA source contract: 20 assertions passed');
