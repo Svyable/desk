@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "Svyable Desk Reader",
+  "short_name": "Desk Reader",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c0b0a",
+  "theme_color": "#0c0b0a",
+  "description": "Read Svyable working drafts and complete manuscripts in the Desk Reader."
+}
