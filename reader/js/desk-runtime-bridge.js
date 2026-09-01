@@ -116,6 +116,24 @@ export function bootstrapRecoveryCopy(error, { online = true } = {}) {
   });
 }
 
+export function rewriteSharedModuleSpecifiers(source, upstream) {
+  const input = String(source || '');
+  const base = String(upstream || '');
+  const staticPattern = /from\s+(['"])\.\/([^'"]+)\1/g;
+  const dynamicPattern = /import\(\s*(['"])\.\/([^'"]+)\1\s*\)/g;
+  const staticImports = [...input.matchAll(staticPattern)].length;
+  const dynamicImports = [...input.matchAll(dynamicPattern)].length;
+  const rewrittenStatic = input.replace(
+    staticPattern,
+    (_match, quote, path) => `from ${quote}${base}${path}${quote}`
+  );
+  const rewritten = rewrittenStatic.replace(
+    dynamicPattern,
+    (_match, quote, path) => `import(${quote}${base}${path}${quote})`
+  );
+  return Object.freeze({ source: rewritten, staticImports, dynamicImports });
+}
+
 export function rewriteDeskPublicationUrl(value, {
   base = 'https://svyable.github.io/desk/reader/',
   origin = 'https://svyable.github.io',
