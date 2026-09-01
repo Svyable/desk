@@ -12,6 +12,10 @@ Artificial intelligence will matter when institutions reorganize around cheap co
 
 That is a much bigger idea than chatbots.
 
+The current investment boom can make this difficult to see. Markets naturally focus on the suppliers collecting revenue today: chipmakers, cloud providers, model companies, data-center developers. But a general-purpose input creates much of its value downstream, after buyers learn how to redesign work around it. The same process that eventually compresses margins for some suppliers can expand the surplus available to users.
+
+That is why a weak investment return does not imply a weak social return.
+
 **The Falling Cost of a Second Opinion**
 
 Expertise is expensive partly because expert time is scarce.
@@ -36,6 +40,32 @@ The abundance dividend begins here:
 
 more attempts before commitment.
 
+This matters because many useful cognitive tasks have historically been rationed, not because they were unimportant, but because the second unit of expert attention was expensive. A junior engineer might get one careful review rather than three. A small company might ask counsel about the contract that obviously matters and skip the ten ambiguous ones. A teacher might give detailed feedback on a few assignments because giving it on every draft would consume the week.
+
+Cheap machine assistance changes the quantity of scrutiny that can be attempted before scarce human judgment is spent.
+
+That does not eliminate the bottleneck. It moves it.
+
+The scarce resource becomes the person who knows which machine-produced alternative deserves trust, which disagreement matters, and when another opinion is creating information rather than merely creating volume.
+
+**Productivity Arrives Unevenly**
+
+One of the clearest early lessons from workplace AI is that the average effect hides distribution.
+
+In a large customer-support deployment studied by Erik Brynjolfsson, Danielle Li, and Lindsey Raymond, access to a generative-AI assistant increased issues resolved per hour by roughly 14 percent on average. The gains were much larger for novice and lower-skilled workers and much smaller for the most experienced workers. The published result matters less here as a promise about every workplace than as evidence about mechanism: machine assistance can diffuse fragments of high-performer practice toward people who have not yet accumulated the same experience.
+
+That is a different economic effect from simply replacing labor.
+
+A tool that raises a novice toward the middle changes training, staffing, supervision, and the value of experience. It may shorten the time required to become competent. It may reduce the premium attached to routine expertise. It may also increase the value of the people whose tacit knowledge is being translated into systems, evaluations, examples, and operating rules.
+
+Another field experiment, across thousands of knowledge workers at dozens of firms, found a narrower result: workers with access to an integrated generative-AI tool spent less time on email and less time working outside regular hours, but researchers did not detect a broad reorganization of task composition during the experiment.
+
+That is useful counterevidence to extravagant productivity claims.
+
+AI can save time without immediately changing the firm.
+
+Institutions absorb technology more slowly than individuals learn a feature.
+
 **Science Gets More Shots on Goal**
 
 Scientific progress is constrained by instruments, data, funding, expertise, and the number of plausible hypotheses researchers can explore.
@@ -47,6 +77,16 @@ Models can summarize literatures, suggest experiments, help write analysis code,
 A tenfold increase in cheap cognitive assistance does not guarantee a tenfold increase in discoveries.
 
 It changes the odds.
+
+And it changes the composition of scientific cost.
+
+If proposing candidates becomes cheap, laboratory throughput may become more valuable. If analysis becomes cheap, clean data and experimental design become more important. If literature review becomes abundant, access to proprietary datasets, physical samples, patient cohorts, instruments, and the ability to run decisive experiments can become the limiting inputs.
+
+Again, abundance moves scarcity rather than abolishing it.
+
+The mistake would be to look at falling inference prices and conclude that the whole research process must become proportionally cheap. Wet labs do not become free because text generation does. Clinical trials do not collapse into prompts. Telescope time, fabrication capacity, fieldwork, permits, specimens, and patient recruitment remain physical and institutional constraints.
+
+The plausible upside comes from using cheap cognition to spend those expensive constraints better.
 
 **Small Firms Gain Staff Without Payroll**
 
@@ -66,6 +106,16 @@ Routine preparation becomes cheaper.
 
 Judgment, responsibility, relationships, and high-stakes synthesis become more valuable.
 
+The effect may be especially large in activities that were previously below the threshold for professional attention.
+
+The small business that would never hire a full-time analyst may run better forecasts. The contractor who would never employ a technical writer may produce usable documentation. The exporter who would not maintain a translation team may localize more of its catalog. The independent developer who cannot afford a specialist for every technology may investigate unfamiliar systems before deciding where real expertise is necessary.
+
+This is consumer surplus inside the firm: capabilities that become worth using only after their price falls far enough.
+
+Yet even here the dividend is conditional. A small company with no reliable records does not become data rich because models are cheap. A manager who cannot distinguish a good answer from a confident mistake does not gain unlimited expertise. A business with no distribution does not acquire customers merely because it can generate more material.
+
+Cheap cognition can fill missing staff functions. It cannot automatically supply every complement those functions depend on.
+
 **Education Escapes the Average Student**
 
 Mass education is built around cohorts because teachers are scarce.
@@ -81,6 +131,10 @@ The abundance dividend is not automatic.
 Schools must redesign assessment around what students can do with intelligence available, not around a world in which intelligence is rationed.
 
 This is the broader institutional challenge repeated across the economy.
+
+A cheap tutor can provide another explanation at midnight. It cannot decide by itself what a student should ultimately know without assistance. It can generate practice endlessly. It cannot make every generated exercise educationally useful. It can lower the cost of feedback while raising the importance of verification, curriculum design, motivation, and assessment.
+
+The institution still has to decide what competence means after assistance becomes normal.
 
 **Work Reorganizes Around Judgment**
 
@@ -104,6 +158,18 @@ When answers become cheap, responsibility for action matters more.
 
 Abundance moves scarcity.
 
+It can also increase the amount of work rather than reduce it.
+
+When the cost of producing a draft falls, organizations may ask for more drafts. When analysis becomes easier, managers may expect more scenarios. When software features become cheaper to build, customers may demand more customization. When translation becomes inexpensive, companies may enter more markets and create more material to translate.
+
+This is the rebound problem in cognitive form.
+
+Efficiency lowers the cost of a unit of work. Lower cost can increase the number of units demanded.
+
+The employee experiences that as a paradox: a tool that saves time on each task can leave the organization doing more tasks than before.
+
+Whether that feels like liberation or acceleration depends on who controls the new capacity and what the institution chooses to do with it.
+
 **The Winners May Be Users**
 
 Investors are trained to ask which company captures value.
@@ -119,6 +185,8 @@ From the perspective of every company buying intelligence, it is a productivity 
 A technology does not need to create monopoly profits to create enormous social value.
 
 In fact, the greatest social value may emerge when competition prevents monopoly profits from absorbing too much of the surplus.
+
+The 2026 Stanford AI Index offers an early version of this divergence. It reports organizational AI adoption rising sharply while estimating very large consumer surplus from generative-AI tools, even as the industry simultaneously pours unprecedented capital into models and infrastructure. The exact estimates will change. The structure is what matters: users can receive substantial value even while suppliers compete intensely over who gets paid for producing it.
 
 This is the optimistic core of the book.
 
@@ -156,6 +224,16 @@ That is a subtler opportunity than buying whatever has AI in the investor presen
 
 It may also be the more durable one.
 
+But competition still matters downstream.
+
+If every retailer receives the same reduction in personalization cost, some of the savings may be competed away into lower prices. If every law firm drafts faster, clients may demand faster service rather than accept higher margins. If every software company produces features more cheaply, the number of features expected in the baseline product may rise.
+
+An intelligence rebate does not automatically become profit.
+
+It becomes profit only where the user possesses some other advantage that prevents the entire saving from passing through to customers or competitors.
+
+That is the same capital-cycle lesson one layer later.
+
 **The Investment Opportunity After the Obvious Trade**
 
 The first phase of a technology boom rewards those who identify the bottleneck.
@@ -192,6 +270,14 @@ The economic prize is not merely selling intelligence.
 
 It is converting intelligence into throughput.
 
+The difficult part is that this opportunity is harder to identify from outside.
+
+A new data center is visible. A new accelerator shipment is visible. A funding round has a press release. A factory that quietly redesigns quality control around machine vision and saves three points of scrap may never become an AI headline. A logistics company that reduces empty miles may report the result without separating the contribution of machine reasoning from a dozen other process changes.
+
+Downstream adoption can therefore be economically important while remaining narratively unimpressive.
+
+Markets tend to pay attention to the visible bottleneck before they price the diffuse productivity gains that follow.
+
 **The Cost of Thinking**
 
 For most of human history, high-quality thought has been expensive because it required scarce time from skilled people.
@@ -213,6 +299,16 @@ A technology that genuinely lowers the cost of thinking deserves enormous capita
 The question is whether *this* capital, deployed *here*, at *this* price, under *these* assumptions, earns an adequate return.
 
 We can be grateful for the abundance without volunteering to finance every factory that produces it.
+
+There is one more distinction worth keeping.
+
+The price of generated cognition can fall faster than the cost of trustworthy cognition.
+
+A token may become cheaper while verification remains expensive. A model call may cost almost nothing while the organization still pays for domain experts, audit, integration, security, liability, and the physical action that follows the answer. The cheaper the first draft becomes, the larger the share of total cost that can migrate into proving that the draft deserves to be acted upon.
+
+That does not cancel the abundance dividend.
+
+It explains why the dividend will be uneven.
 
 **The Final Test**
 
