@@ -208,6 +208,78 @@ This is moat migration: the source of defensibility moves away from the ingredie
 
 The best AI businesses may therefore become less obsessed with owning intelligence over time, not more.
 
+There is a complication. Complementary assets can look durable precisely when they are about to be attacked.
+
+A workflow is sticky until a new product makes migration easy. Distribution is powerful until a platform changes the default. Proprietary data matters until a substitute dataset, synthetic data, or a different product architecture makes it less relevant. Cost leadership lasts only while competitors cannot reproduce the process that created it. Even responsibility can be standardized: insurers, auditors, certification regimes, and contractual templates can turn what was once a bespoke institutional advantage into a purchasable service.
+
+This is why moat analysis cannot stop at identifying a scarce complement. The investor has to ask what keeps the complement scarce.
+
+The answer is often organizational rather than technical.
+
+A hospital system may have decades of patient records, but records scattered across incompatible systems are not automatically an advantage. A logistics company may see millions of shipments, but if it does not capture exceptions and outcomes in a form that improves decisions, volume alone does little. A software vendor may sit inside a customer's daily workflow, but if users resent the product and export cleanly to a rival, installation is not the same thing as loyalty.
+
+The quality of the loop matters more than the size of the pile.
+
+That distinction becomes especially important in AI because models can make previously unusable information easier to process. A firm whose advantage rested on being the only organization capable of interpreting a messy archive may discover that better models reduce the cost of interpreting everyone else's messy archives too. The apparent data moat was partly a processing moat. Once processing gets cheaper, the competitive question changes from who possesses information to who can legally access it, continuously refresh it, connect it to outcomes, and act on it inside a trusted relationship.
+
+The same thing can happen to workflow software.
+
+Traditional enterprise systems accumulated switching costs partly because customization was expensive. A customer spent months mapping fields, writing integrations, training employees, and translating local practice into the software's rigid categories. That work made replacement painful. AI can deepen the incumbent's advantage by making its system easier to use, but it can also lower the cost of escape. If agents can translate schemas, recreate integrations, generate migration code, and teach users a new interface, some historical switching costs become less formidable.
+
+The incumbent then needs a better reason to be retained than the inconvenience of leaving.
+
+This is a useful way to distinguish a moat from a hostage situation. A moat allows a company to keep creating more value for a customer than an entrant can economically reproduce. A hostage situation merely makes departure expensive. Both can support margins for a while. Only one improves naturally as the underlying technology gets cheaper.
+
+The distinction is not moral decoration. It changes the terminal value of a business.
+
+If AI lowers switching costs across software, companies whose economics depend heavily on customer inertia may face a strange combination: their own development costs fall while their customers become easier to steal. A company with genuine proprietary learning or unusually efficient distribution may benefit. A company whose principal advantage was migration pain may discover that the same technology it sells is dissolving its defenses.
+
+**The Moat Has to Survive the Buyer's Learning Curve**
+
+Early markets are forgiving of weak moats because buyers do not yet know what to compare.
+
+At the beginning of a technology cycle, customers buy categories. They want an AI assistant, an AI coding tool, an AI research product, an AI sales agent. Vendors can differentiate through novelty, model access, a striking demonstration, or simply being available when the budget appears.
+
+Then procurement becomes less romantic.
+
+Buyers learn which tasks actually matter. They measure error rates. They notice where humans still have to repair outputs. They learn the difference between a low token price and a low cost per completed job. Security teams standardize requirements. Finance departments ask whether usage is replacing labor, increasing throughput, or merely adding another subscription. Technical teams discover which models are interchangeable and which are not.
+
+This learning compresses some margins and strengthens others.
+
+A vendor that looked differentiated because it had early access to a capable model may become ordinary. A vendor that spent the early period building integrations, collecting outcome data, earning regulatory trust, and redesigning a customer's process may become more valuable after the excitement fades. The buyer's increasing sophistication removes narrative premiums and exposes operational ones.
+
+That is one reason the largest apparent moat during the boom may not be the largest moat after it.
+
+Scarcity is easiest to monetize when customers are desperate. Process advantage is easiest to see when they become selective.
+
+There is a parallel in cloud computing. Renting standardized compute did not eliminate valuable software businesses. It changed what those businesses had to own. The server became less interesting as a source of differentiation, while databases, developer ecosystems, security, operational tooling, distribution, and application workflows became more important. Yet even those layers remained contested. Open source weakened some proprietary positions and created opportunities for managed services; hyperscalers bundled features that had once supported standalone companies; developers repeatedly moved the boundary between product and commodity.
+
+AI should produce the same kind of boundary movement, probably faster.
+
+A feature that earns a standalone subscription this year can become part of a suite next year. A model capability that justifies a premium can become an API default. A proprietary tool can become an open implementation. Conversely, a seemingly mundane layer can become more valuable because cheap intelligence increases the volume flowing through it. Identity, permissions, audit, payments, orchestration, and trusted distribution can matter more when software is capable of taking more actions.
+
+The point is not that application companies are doomed or that infrastructure companies cannot earn extraordinary returns. It is that a static map of the stack is a poor substitute for a theory of motion.
+
+Investors need to know which direction the boundary is moving.
+
+**Pricing Power Is the Evidence**
+
+The word moat invites qualitative storytelling. Financial statements eventually force the story into numbers.
+
+A durable advantage should show up somewhere: retention without coercive discounting, expansion because customers receive more value, lower acquisition cost through trusted distribution, better gross margins through structural cost advantage, or returns on incremental capital that remain attractive after competitors respond.
+
+None of these metrics is perfect. High retention can conceal long contracts signed at unsustainable prices. Gross margin can be flattered by excluding costs that are economically necessary. Rapid expansion can come from promotional pricing. A company can report excellent unit economics while capitalizing the infrastructure that makes those economics possible elsewhere on the balance sheet.
+
+Still, the discipline matters. If a supposed moat never appears in the economics, investors should consider the possibility that it exists mainly in the pitch deck.
+
+The reverse is also true. A business may have an unglamorous moat that is easier to see in behavior than in technical architecture. Customers renew despite credible alternatives. Sales cycles shorten because the vendor is already trusted. A product becomes cheaper to deliver as usage grows. New modules sell into an installed base without proportional acquisition spending. The company can pass some efficiency gains to customers and still preserve attractive returns.
+
+That is value capture surviving abundance.
+
+The capital-cycle question is therefore not simply which company has the strongest model, the largest dataset, or the deepest integration today. It is which company owns an advantage that remains valuable after competitors receive better models, customers become more informed, and the price of intelligence falls.
+
+A moat worth paying for has to survive the success of the technology beneath it.
+
 **Where Value Accrues**
 
 Return now to the AI Value Stack:
