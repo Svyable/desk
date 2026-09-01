@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 16 of 18 drafted |
+| **Chapters** | 17 of 18 drafted |
 
 AI can be economically transformative while many of the investors financing its first great buildout earn disappointing returns. This manuscript treats AI as a capital cycle rather than a referendum on whether the technology works: chips, data centers, electricity, leases, debt, model substitution, falling token costs, IPO supply, and enterprise adoption all determine where value is created and where it is actually captured.
 
@@ -32,7 +32,7 @@ The central question is not whether machines become more intelligent. It is **wh
 - [x] [Ch 14 — The AI Investor's Field Guide](manuscript/ch14-the-ai-investors-field-guide.md)
 - [x] [Ch 15 — The Executive's Playbook](manuscript/ch15-the-executives-playbook.md)
 - [x] [Ch 16 — The Abundance Dividend](manuscript/ch16-the-abundance-dividend.md)
-- [ ] Ch 17 — planned
+- [x] [Ch 17 — The Missing Complement](manuscript/ch17-the-missing-complement.md)
 - [ ] Ch 18 — planned
 - [x] [Epilogue — After the Machines Learn](manuscript/epilogue-after-the-machines-learn.md)
 - [x] [Appendix A — The AI Value Stack](manuscript/appendix-a-the-ai-value-stack.md)
