@@ -126,6 +126,26 @@ That is not a contradiction.
 
 It is infrastructure.
 
+**Backlog Is Not Cash**
+
+Large contracted numbers deserve respect, but they require translation before they deserve comfort.
+
+A remaining performance obligation is an accounting measure of contracted work not yet recognized as revenue. A broader revenue-backlog figure can include additional committed amounts. Neither number means that the cash is sitting in a bank account waiting to be collected. Service still has to become available. Capacity has to be delivered. Contract terms still govern what is recognized and when.
+
+This matters most when the supplier is building ahead of delivery.
+
+A provider can have an enormous order book and still consume cash because the factory, campus, chips, network and power connection must exist before much of that order book can turn into revenue. CoreWeave's June 2026 filing makes the sequence unusually visible: during the first six months of the year it paid $14.1 billion for property and equipment while continuing to finance expansion through equity, credit facilities and debt securities.
+
+There is nothing inherently unhealthy about that sequence. Airlines buy aircraft before selling all the future tickets flown on them. Utilities build plants before collecting decades of bills. A young infrastructure company that waits for cash generation to fund every incremental asset may simply surrender the market to a better-capitalized competitor.
+
+But backlog changes the question rather than answering it.
+
+The useful questions are how much capital must be spent before the contracted revenue arrives, how much margin survives after financing and depreciation, how much capacity can be repurposed if a customer changes course, and how much of the apparent demand is concentrated among counterparties making correlated bets.
+
+That last point is easy to miss during a boom. Ten customers do not necessarily represent ten independent forecasts. They may all be responding to the same model improvements, the same competitive anxiety, the same capital markets and the same expectation that inference demand will compound. Diversification by logo is weaker when the logos share a premise.
+
+Credit analysis therefore asks a different question from sales analysis. Sales asks whether the contract was signed. Credit asks what has to remain true until the money arrives.
+
 **A Balance Sheet Measured in Megawatts**
 
 Traditional software companies teach investors to think in users, seats, retention, gross margin, and recurring revenue.
@@ -178,6 +198,24 @@ The financier is not merely underwriting demand for AI.
 
 The financier is underwriting the slope of technological progress.
 
+**The Residual-Value Argument**
+
+There is a serious counterargument to the darkest version of this story: compute assets are not single-purpose holes in the ground.
+
+A GPU that is no longer the preferred machine for frontier training can still perform inference, fine-tuning, simulation, rendering or less latency-sensitive work. A data-center shell can be refitted. Power infrastructure can serve a different tenant. Fiber can carry somebody else's traffic. A campus built for one generation of accelerators may retain substantial economic value after the original financing model has failed.
+
+This is one reason a financing loss need not imply a social loss. The railroad reorganizes and the track remains. The fiber carrier goes bankrupt and the glass keeps carrying packets. A lender takes a haircut; a new owner acquires the asset at a lower basis and can offer the same service profitably.
+
+The distinction is central to this book. AI can be transformative precisely while some owners of AI infrastructure lose money.
+
+But residual value is not a fixed property of the machine. It is a market outcome.
+
+If a large amount of similar hardware reaches the secondary market at the same moment, resale prices can fall even while the machines remain technically useful. If new accelerators deliver much better performance per watt, an older fleet has to compete not merely on purchase price but on electricity, cooling, floor space and software support. If the campus sits where power is constrained or networking is poor, the building's physical longevity may not rescue its original economics.
+
+A creditor who says, "There is an asset behind the loan," has therefore begun the analysis, not completed it.
+
+The next questions are what the asset earns under a new owner, what it costs to move or retrofit, and how many other creditors are trying to sell the same thing.
+
 **Utilization Is the Debt Covenant You Cannot Waive**
 
 A lender may waive a financial covenant.
@@ -193,6 +231,32 @@ Revenue per unit declines just as fixed cost per used unit rises.
 This is the utilization trap in leveraged form.
 
 It is why infrastructure booms can unravel quickly after long periods of apparent stability. The P&L is not linear. A modest decline in utilization can produce a disproportionate decline in cash flow.
+
+The arithmetic also explains why a price war can be rational for each participant and destructive for the industry.
+
+Once the campus is built and the debt is outstanding, much of the cost is sunk or fixed. An operator with empty machines may accept a lower price because some contribution toward fixed obligations is better than none. A rival facing the same incentives does the same. The resulting price can settle below the level that justified the original investment while remaining above the short-run cost of serving one more workload.
+
+That is how useful infrastructure becomes bad capital.
+
+The machines stay busy. Customers celebrate cheaper compute. Revenue may even keep growing. Yet returns on the capital committed during the scarcity phase collapse because the scarcity rent has been competed away.
+
+This is not the same as demand disappearing. It is often the opposite. Falling prices stimulate demand. More developers experiment. More inference becomes economical. New applications emerge.
+
+The social adoption curve can steepen while the investor return curve bends downward.
+
+**Refinancing Is a Second Forecast**
+
+Long-lived projects are often financed with liabilities that mature before the underlying assets do. That is normal. It is also a hidden source of dependence on future market conditions.
+
+A company may underwrite a project on the assumption that today's debt can be refinanced when it matures. If the project performs well, lenders compete to roll the obligation. If utilization weakens, collateral values fall or credit markets close, the same maturity becomes a forcing event.
+
+The project does not have to be worthless. It merely has to be unable to refinance on acceptable terms at the appointed date.
+
+This is why interest-rate risk and technology risk can interact so unpleasantly. A provider may be right that long-run AI demand will be enormous and still encounter a financing wall before that demand reaches its campus. The timing mismatch matters as much as the terminal forecast.
+
+The safest balance sheets in a capital cycle buy time. They match debt duration to contracted cash flows, retain liquidity, avoid assuming heroic residual values and preserve room to survive a period when utilization is lower than planned. The most fragile structures require several favorable things to happen in sequence: construction on time, power on time, customers on time, hardware economics on plan, refinancing available, and no severe price compression before the debt is rolled.
+
+Each assumption can be reasonable by itself. Fragility comes from multiplication.
 
 **Off Balance Sheet, On Planet Earth**
 
@@ -253,6 +317,14 @@ The analyst must distinguish *end demand* from *financed demand*.
 Who ultimately pays from cash generated outside the loop?
 
 That question eventually arrives in every credit cycle.
+
+There is another version of the loop that requires no related-party transaction at all.
+
+A cloud provider signs a large AI customer. The contract supports financing for a new campus. The campus order supports accelerator demand. Accelerator demand encourages suppliers to expand. The expanded supply lowers the cost of compute. Lower compute prices encourage the customer to promise more usage. Each step can be commercially sensible, and the loop can create real capacity that society uses for decades.
+
+The analytical danger is treating every intermediate contract as independent confirmation of the final economics.
+
+It is possible for all the contracts to be real and for the original return assumptions to be too high.
 
 **Debt Does Not Cause the Bubble**
 
