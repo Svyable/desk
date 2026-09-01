@@ -156,6 +156,72 @@ The asset works.
 
 The economics moved.
 
+**Two Companies, Two Clocks**
+
+The useful-life problem became unusually visible in 2025 because two of the largest technology companies looked at server fleets exposed to the same broad AI transition and moved their accounting assumptions in opposite directions.
+
+Meta extended the estimated useful lives of most of its servers and network assets to 5.5 years effective January 1, 2025. Its 2025 annual report later quantified the effect: the change reduced depreciation expense for the year by $2.92 billion and increased net income by $2.59 billion, or $1.00 per diluted share.
+
+The company did not hide what it was doing. Its filings describe useful lives as management estimates that are reviewed routinely and can differ from actual lives because of changes in operations, planned use, and technological advancement. That is ordinary accounting. If equipment remains productive longer than previously expected, extending its useful life can produce a more faithful allocation of cost.
+
+Amazon, looking at part of its own fleet, reached the opposite conclusion.
+
+It had increased the estimated useful life of servers from five years to six years at the beginning of 2024. That change reduced 2024 depreciation and amortization expense by $3.2 billion and increased net income by $2.5 billion. Then, effective January 1, 2025, Amazon shortened the estimated useful life of a subset of servers and networking equipment from six years back to five.
+
+The reason in its filing is strikingly direct: an increased pace of technology development, particularly in artificial intelligence and machine learning.
+
+Amazon also recorded about $920 million of accelerated depreciation and related charges in the fourth quarter of 2024 after deciding to retire certain servers and networking equipment early. It expected the shorter useful-life estimate and those retirement decisions together to reduce 2025 operating income further.
+
+Neither accounting decision proves that one company understood AI hardware correctly and the other did not.
+
+Their fleets are not identical. Their workloads are not identical. Their procurement contracts, software stacks, network designs, internal reuse opportunities, and refresh strategies differ. A server that is uneconomic for one workload may remain useful for another. A hyperscaler can move older hardware down a hierarchy of workloads rather than throw it away. Custom silicon can change the comparison again.
+
+That is precisely why the disagreement matters.
+
+There is no universal “AI server life” waiting to be looked up in a table.
+
+The accounting life of a fleet is partly an engineering estimate and partly an operating assumption. It depends on what the owner thinks it will do with the machine, how fast better machines arrive, whether software extracts more from old hardware, what electricity costs, which customers will accept the performance, and whether the hardware can be redeployed.
+
+A valuation model that treats depreciation as a mechanically given percentage of revenue is therefore importing somebody else's judgment without admitting it.
+
+The investor should separate at least three clocks.
+
+The first is **physical life**: how long the equipment can continue to function.
+
+The second is **accounting life**: how long management expects to allocate its cost through depreciation.
+
+The third is **competitive economic life**: how long the asset can deliver a workload at an attractive cost compared with the alternatives available to customers and rivals.
+
+Those clocks can disagree for years.
+
+A machine may be physically healthy after it has lost its most profitable workload. An asset may remain economically useful after it is fully depreciated. Management may lengthen an accounting estimate because software, networking, and workload placement extend productive service. Management may shorten one because a new hardware generation changes the replacement calculus faster than expected.
+
+This is not an argument for automatically adding back depreciation when valuing AI businesses, and it is not an argument for treating every accounting estimate as aggressive.
+
+It is an argument for refusing to let the income statement answer an engineering question by itself.
+
+If a company reports rising operating income partly because the same installed asset base is being depreciated more slowly, the next question is not whether the accounting is legal. The next question is whether replacement behavior supports the assumption.
+
+How old is the fleet when it is retired?
+
+Where do older accelerators go?
+
+Does the company move them to lower-value inference, internal workloads, or customers with looser latency requirements?
+
+Are power and cooling costs making older systems uneconomic even when the chips still work?
+
+Does software improvement extend their usefulness, or does a new architecture require so much surrounding change that the old system becomes stranded?
+
+What proportion of current capital expenditure is genuinely expansion, and what proportion is replacement wearing the same capex label?
+
+These are not footnote questions anymore.
+
+At AI-scale capital intensity, they can move billions of dollars of annual expense and alter the cash-flow story an investor believes will arrive after the buildout.
+
+The awkward conclusion is that a cleaner earnings trajectory can coexist with a harder replacement problem.
+
+That is why the depreciation line deserves the same skepticism as the revenue-growth line. Both are summaries of a much messier physical system.
+
 **The Terminal-Value Trap**
 
 High-growth valuations are unusually sensitive to what happens far away.
