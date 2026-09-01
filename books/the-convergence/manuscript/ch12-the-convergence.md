@@ -46,7 +46,7 @@ In 2024, about 655 million people still lacked access to electricity. Roughly tw
 
 Even that language can make the boundary look cleaner than it is.
 
-A household can cross the statistical line into “access” and still live with electricity too weak, intermittent, expensive, or unsafe to support much of modern life. The World Bank’s Multi-Tier Framework was built around this problem. It measures access not as a switch that flips from zero to one, but across attributes such as available capacity, duration, reliability, quality, affordability, legality, and health and safety.
+A household can cross the statistical line into “access” and still live with electricity too weak, intermittent, expensive, or unsafe to support much of modern life. The World Bank’s Multi-Tier Framework was built around this problem. It measures access not as a switch that flips from zero to one, but across attributes such as available capacity, availability, reliability, quality, affordability, formality, and health and safety.
 
 A wire to the wall is therefore not the same thing as capability arriving through it.
 
