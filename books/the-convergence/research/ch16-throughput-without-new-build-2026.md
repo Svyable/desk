@@ -16,6 +16,8 @@ But the same source contains the strongest useful counterargument to a purely co
 
 The IEA separately estimates that grid-enhancing technologies and related upgrades could unlock about 450–700 GW of advanced-stage projects. These are modeled estimates, not completed connections, and should not be presented as guaranteed capacity. Still, they matter conceptually: some bottlenecks that look like a shortage of physical network can partly be a shortage of information, operating flexibility, regulatory permission, or willingness to accept conditional service.
 
+The report’s own methodology sets a useful limit on the headline numbers. The global hosting-capacity estimates are high-level calculations built from grid length, voltage, conductor and circuit characteristics, congestion, and average and peak demand. The IEA warns that actual project studies can produce different results once voltage constraints, short-circuit limits, substation capacity, and the specific generation and load profiles are included. The 1,200–1,600 GW range is therefore evidence that the existing network may contain substantial latent capacity; it is not evidence that the same fraction of every queue can be released with software or rule changes.
+
 ## Why this sharpens the chapter
 
 The chapter’s strongest formulation is therefore not “civilization advances at the rate it can build new assets.” It is closer to:
