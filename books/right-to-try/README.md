@@ -47,3 +47,7 @@ The book rejects the easy story that innovation lives wherever regulation disapp
 - [Federal Right to Try reporting evidence note](research/federal-right-to-try-reporting.md)
 - [2026 xenotransplantation trial evidence note](research/xenotransplantation-trials-2026.md)
 - [Mexico 2026 clinical-research regulation evidence note](research/mexico-clinical-research-2026.md)
+
+## Publication note
+
+This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `302988dd8c163f14263e6e84517e32cac6c66858` on September 2, 2026. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot.
