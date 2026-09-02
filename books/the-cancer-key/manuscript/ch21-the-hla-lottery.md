@@ -167,3 +167,57 @@ The public task is to make sure the dictionary does not become excellent only fo
 A key that fits one lock can save a life.
 
 A field deserves the name breakthrough when it learns how to make keys across the whole door.
+
+Population coverage gives this problem a useful quantitative language without reducing it to demographics.
+
+An epitope or receptor that works only in the context of one HLA allele reaches only the people who carry that allele. A collection of targets can reach more people if their restricting HLA molecules are distributed broadly and differently across populations. Public immunology tools have long used population-coverage calculations for exactly this reason: the usefulness of an HLA-restricted target depends partly on allele frequencies in the population where the intervention is intended to work.
+
+That logic becomes clinically concrete in cancer.
+
+A shared KRAS neoantigen program might look attractive because the mutation recurs across many tumors. Add one HLA restriction and the eligible population shrinks. Add disease stage, prior treatment and organ function, and it shrinks again. A common mutation can produce a small trial population without anyone having made a rare-disease drug in the usual sense.
+
+Coverage is therefore not a single percentage.
+
+It changes by geography and ancestry. An HLA allele common enough to support a commercial program in one population may be uncommon in another. A library designed around the largest initial markets can achieve impressive overall reach while leaving predictable geographic holes.
+
+Those holes are not necessarily evidence of discrimination.
+
+They are evidence that a finite library reflects choices.
+
+The policy question is who pays to extend the library after private returns become thin.
+
+Public funding is one answer. International collaboration is another. Shared receptor repositories and open experimental datasets can lower the cost of developing the next rare-HLA target. Regulators can encourage performance reporting that identifies where evidence is sparse instead of allowing a broad personalized label to imply uniform confidence.
+
+Clinical-trial design should anticipate the same problem.
+
+If a trial includes participants across diverse HLA genotypes but the target-selection model is substantially better for some alleles than others, aggregate efficacy can hide uneven product quality. The trial may still answer whether the platform works on average. It may be underpowered to answer whether the platform works equally well in every molecular subgroup.
+
+Postmarket learning then becomes part of equity.
+
+The platform should record enough HLA-specific information to see whether target count, target confidence, immune response, manufacturing success or outcomes differ systematically. A disparity can then be investigated rather than guessed at from broad racial categories.
+
+That is a more biologically faithful form of fairness analysis.
+
+It also protects against a different mistake: assuming every observed demographic difference must come from the algorithm. Disease incidence, mutation spectra, access to surgery, stage at diagnosis, tissue quality and treatment history can all differ across populations. HLA is one mechanism among many.
+
+Good equity work disaggregates causes instead of attaching moral meaning to every correlation.
+
+The reason to invest in rare HLA evidence is simpler.
+
+A patient should not receive a lower-confidence personalized product merely because the scientific system happened to learn their immune molecules later.
+
+The field cannot eliminate that inequality immediately.
+
+It can refuse to make it invisible.
+
+The same standard should apply to class II HLA, which is more complex to model and often receives less public attention than class I despite the importance of CD4 T-cell responses. A vaccine that focuses narrowly on the best-understood class I targets may leave useful immune biology unused. A platform that incorporates class II prediction has to confront an even more complicated binding and presentation landscape.
+
+Greater biological coverage can therefore increase computational uncertainty before it reduces clinical uncertainty.
+
+That is normal scientific progress.
+
+A field first becomes accurate in a narrow region, then expands the map.
+
+The danger is mistaking the first accurate region for the whole world.
+
+HLA diversity makes that mistake impossible to defend for long.
