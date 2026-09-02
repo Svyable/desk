@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Front matter, prologue, epilogue, back matter; 13 of 20 chapters drafted |
+| **Chapters** | Front matter, prologue, epilogue, back matter; 15 of 20 chapters drafted |
 | **Language** | English |
 | **Rights** | All Rights Reserved |
 | **AI use** | Reserved; see rights file |
@@ -31,8 +31,8 @@ The central thesis is that when a price cannot or should not allocate a scarce g
 - [x] [Ch 11 — The Uber Problem](manuscript/ch11-the-uber-problem.md)
 - [x] [Ch 12 — Dating by Algorithm](manuscript/ch12-dating-by-algorithm.md)
 - [x] [Ch 13 — The Vaccine Line](manuscript/ch13-the-vaccine-line.md)
-- [ ] [Ch 14 — Matching Refugees to Cities](manuscript/ch14-matching-refugees-to-cities.md)
-- [ ] [Ch 15 — The GPU Waiting List](manuscript/ch15-the-gpu-waiting-list.md)
+- [x] [Ch 14 — Matching Refugees to Cities](manuscript/ch14-matching-refugees-to-cities.md)
+- [x] [Ch 15 — The GPU Waiting List](manuscript/ch15-the-gpu-waiting-list.md)
 - [ ] [Ch 16 — Whose Water Is It](manuscript/ch16-whose-water-is-it.md)
 - [ ] [Ch 17 — The Housing Lottery](manuscript/ch17-the-housing-lottery.md)
 - [ ] [Ch 18 — The Line for College](manuscript/ch18-the-line-for-college.md)
