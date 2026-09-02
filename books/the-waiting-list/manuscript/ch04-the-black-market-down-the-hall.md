@@ -1,35 +1,259 @@
 # The Black Market Down the Hall
 
-In 1988, Iranian nephrologists faced a shortage that had already grown intolerable. Dialysis machines were scarce, deceased-donor programs barely existed, and every year the gap between people who needed a kidney and people willing to give one widened a little further. Rather than watch the waiting list keep losing, the government did something no other country in the world has since been willing to do openly: it built a market. Under a program that came to be known, a little euphemistically, as "rewarded gifting," a living donor with no family relationship to the recipient could come forward, be matched through a nonprofit patients' association, and receive a payment from the government plus a separate, negotiated sum from the recipient or a charity standing in for one. The government's own figures, cited by the transplant nephrologist Ahad J. Ghods in a widely read 2006 paper in the Clinical Journal of the American Society of Nephrology, credit the program with eliminating Iran's kidney transplant waiting list by 1999. For roughly a decade afterward, living-unrelated donation supplied more than half of all Iranian kidney transplants each year, according to figures the government has repeated to visiting journalists ever since.
+A kidney can be priceless and still have a price.
 
-That fact sits uneasily with almost everything else this book has argued so far. If Alvin Roth is right that societies wall off certain trades because the trades themselves feel repugnant regardless of what economics says about their efficiency, then Iran ran the experiment nobody else would run, and for years it looked, at least by the crude metric of a waiting list, like the experiment worked.
+That is one of the stranger facts in transplantation. In the United States, federal law forbids buying and selling human organs for transplantation. Yet the need that a prohibited price would have rationed does not disappear when the price is outlawed. It moves somewhere else: into a waiting list, into family obligation, into paired exchange, into travel, into debt, and sometimes into a market that exists precisely because the official market does not.
 
-It is worth sitting with that discomfort rather than resolving it too quickly, because the same shortage that Iran tried to price away has, everywhere else it has gone unpriced, generated something else entirely: an illegal market, run not by a government ministry but by brokers, on victims who did not get a matching nonprofit or a government check, and whose stories are the other half of this chapter. The queue and the black market are not opposites. Look closely enough at either one and you are looking at the same shortage from a different angle.
+The phrase “black market” makes this sound simpler than it is.
 
-Start with what Iran actually built, because the mechanics matter more than the headline, and because most Americans who have heard of the program at all have heard only the headline. A patient with kidney failure and no willing or medically suitable relative could register with the Charity Association for the Support of Kidney Patients, a nonprofit that predates the formal government program and that Ghods himself helped establish. The association maintained its own list of willing unrelated donors, verified blood type and basic medical suitability, and arranged a meeting between a specific donor and a specific recipient once a plausible match existed. The government paid every approved donor a fixed sum, roughly 800 million rials by the mid-2020s, worth about $1,400 at prevailing exchange rates, along with limited free health insurance. On top of that base payment, the recipient — or, for patients too poor to pay anything, a state or charitable fund — negotiated a separate, unregulated sum directly with the donor. Reporting compiled by the Associated Press in 2016 put the total a donor might collect, official payment plus negotiated top-up, at several thousand dollars, a very large sum against the median household budget in Iran, where a family of four might live on the equivalent of a few hundred dollars a month.
+It suggests a hidden alley and a criminal broker. Sometimes that image is close enough. Organ trafficking has involved recruiters, intermediaries, vulnerable donors, fraudulent arrangements, and recipients willing to travel to obtain a transplant that would take years or never arrive at home. But not every cross-border transplant is trafficking. Not every compensated donor is a trafficking victim. Not every country that permits compensation operates the same way. If we collapse all of these arrangements into one moral category, we lose the mechanism we are trying to understand.
 
-Ghods argued that this two-part structure, blunt as it was, did real ethical work. Because the state ran the matching and set a floor payment, no black-market broker needed to insert himself between a stranger willing to sell a kidney and a stranger needing to buy one; the transaction happened, awkwardly, in the daylight. And because the government paid a fixed amount regardless of the donor's bargaining position, the program avoided at least the crudest version of a market where the most desperate seller settles for the least money. By Ghods's account, Iran had solved organ scarcity roughly the way Roth's later work would recommend solving other repugnant-market shortages: not by pretending the trade did not exist, but by regulating it so tightly that its worst features were designed out.
+The distinction matters because kidney scarcity creates several different problems at once.
 
-Even researchers sympathetic to that account, though, kept finding the same uncomfortable data point whenever they actually asked Iranian donors why they had come forward. A 2024 field study by the economists Ali Moghaddasi Kelishomi and Daniel Sgroi, published in the European Economic Review, went to Iranian transplant centers and ran incentivized behavioral experiments directly on donors before and after their surgery, rather than relying on the government's own summary statistics. They found what earlier, smaller Iranian surveys had already suggested: the typical donor was poor, financially strained, and motivated overwhelmingly by the payment rather than by any wish to help a stranger. Other published surveys of Iranian donors, cited in the transplant literature through the 2010s, found that a plurality described their reason for donating as purely financial, with most of the remainder citing financial need alongside some smaller measure of goodwill, and that a majority of donors, when asked directly, said they thought kidney selling should probably be illegal — a striking answer from people who had just sold their own kidney under the country's own regulated system. The state had built a market clean enough that no black-market broker was strictly necessary. It had not built a market whose own participants were comfortable calling it fair.
+There is the medical problem: a patient’s kidneys have failed.
 
-The program has also, more recently, been quietly retreating from its own premise. A 2025 retrospective by the Iranian Society of Organ Donation, published in Kidney International Reports, traced the country's transplant activity across two full decades and found that living-unrelated donation, once the backbone of the whole system, has been steadily displaced by deceased-donor transplantation, which by 2023 accounted for roughly two-thirds of all kidney transplants performed in the country. The authors framed this as progress, not retreat: Iran investing, finally, in the brain-death donation infrastructure that most wealthy countries built decades earlier, so that fewer transplants have to depend on a living stranger selling an organ at all. Read against Ghods's original argument, the trajectory reads less like vindication and more like an admission. The country that built the world's only large-scale, legal, government-run market for human kidneys spent its second decade quietly trying to need it less.
+There is the biological problem: a willing donor may be incompatible.
 
-Almost nowhere else has been willing to run even that regulated version of the experiment. Everywhere else, the shortage Iran tried to price has instead grown its own unpriced, illegal market — smaller than most people assume relative to the total number of transplants performed worldwide, but concentrated with brutal specificity on the poorest people any broker can find.
+There is the allocation problem: deceased-donor kidneys are scarce and must be assigned under rules.
 
-Nancy Scheper-Hughes, a medical anthropologist at the University of California, Berkeley, spent the late 1990s doing for organ trafficking roughly what a beat reporter does for organized crime: showing up, repeatedly, in the places where the trade actually happened, and staying long enough that people eventually talked to her. In 1999 she and several colleagues founded Organs Watch, a research project that sent anthropologists and physicians into transplant clinics, morgues, and broker networks across more than a dozen countries. Her first major synthesis of that fieldwork, "The Global Traffic in Human Organs," appeared in the journal Current Anthropology in 2000 and described what she had documented in the favelas of Brazil and in South Africa: a transnational circuit connecting surgeons, recipients, brokers, and — doing almost all of the actual bleeding — impoverished sellers who typically saw a small fraction of what buyers ultimately paid. Scheper-Hughes did not treat the trade as an aberration from an otherwise clean global transplant system. She treated it as a structural feature of one, a shadow economy that formed wherever legitimate supply could not meet demand and wealth differentials were steep enough to make the arithmetic work for a broker.
+There is the political problem: societies disagree about whether money should be allowed to influence donation.
 
-What that shadow economy looks like on the ground has since been documented, village by village, by reporters and academic researchers working independently of Scheper-Hughes and of each other, which is part of why the pattern is convincing: it keeps recurring in places with nothing else in common. In the Philippines, the human geographer Sallie Yea spent months in Baseco, a dense waterfront slum in Manila, and published the first sustained academic study of its underground kidney market in the journal Global Social Policy in 2010. Local officials had told earlier reporters, including an Australian Broadcasting Corporation team in 2008, that as many as three thousand of the slum's fifty thousand residents had sold a kidney — a scale that turned an illegal trade into something closer to an open community fact. Yea found that sellers, disproportionately young men supporting families, received prices well below what brokers or recipients further up the chain ultimately paid, and that the men she interviewed described the decision less as coercion in the classic trafficking sense than as one more strategy, alongside overseas labor migration, for meeting an obligation to provide that Filipino masculinity had assigned them and that the formal economy had made nearly impossible to fulfill any other way. The law under which the Philippines prosecutes organ selling carries sentences of twenty years or more; prosecutions, by multiple journalistic accounts, remain rare.
+And there is the enforcement problem: if the legal system bans transactions people still desperately want, how much of the demand moves into arrangements that are harder to see and harder to regulate?
 
-In South Asia, reporting has traced a similar pattern along the border between India and Bangladesh. A 2025 Al Jazeera investigation into Baiguni, a village in Bangladesh's Kalai district that local people have taken to calling, without much irony, the "village of one kidney," found that a 2023 academic study had estimated roughly one in thirty-five adults in the surrounding area had sold a kidney, most of them recruited by brokers promising sums that shrank or vanished once the surgery, performed across the border in Indian hospitals, was already complete. A similarly named "Kidney Valley" has been documented by reporters and human-rights researchers in a village outside Kathmandu, Nepal, where residents describe brokers who told them a kidney would grow back, or that a human being only needs one to begin with — claims with no basis in anatomy, repeated by people whose actual business is separating desperate sellers from an organ at the lowest price a broker can talk them into.
+Iran is the case almost everyone reaches for first because it does something that most transplant systems reject. It permits compensation for living unrelated kidney donation within a regulated national system.
 
-The trade has also, at points, reached directly into wealthy countries rather than only supplying them from a distance. In Kosovo in November 2008, a twenty-three-year-old Turkish man collapsed at Pristina's airport with a fresh surgical scar and told authorities his kidney had been removed at a private clinic called Medicus. The investigation that followed, carried out by the European Union's rule-of-law mission in Kosovo after the country's own institutions proved unable to see it through, documented a network that had lured donors from Moldova, Kazakhstan, Russia, and Turkey with promises of payment that in several documented cases was never actually made once the organ had been removed. In April 2013, after a trial that ran for months and heard from more than seventy witnesses, the clinic's director, Lutfi Dervishi, was convicted and sentenced to eight years; his son received a sentence of just over seven. It was, by most accounts, the first case anywhere in which doctors were criminally convicted for organ trafficking. And in the United States, a Brooklyn man named Levy Izhak Rosenbaum was arrested in 2009 in a sprawling New Jersey corruption sweep and later pleaded guilty to brokering at least three illegal kidney transplants, buying organs from vulnerable donors in Israel for roughly $10,000 and selling them to American patients for more than $100,000 — the first conviction under the federal statute, part of the National Organ Transplant Act of 1984, that makes the sale of human organs a felony in the United States. He was sentenced to two and a half years.
+That sentence is already too smooth.
 
-The World Health Organization, working from estimates presented at its Second Global Consultation on Human Transplantation in 2007, put the trafficked share of the world's kidney transplants at somewhere between five and ten percent of the roughly sixty thousand performed annually — a minority of the total, but on those numbers still several thousand kidneys a year moving through exactly the kind of network Scheper-Hughes, Yea, and the Kosovo and Bangladeshi reporting all separately describe. In 2008, in direct response to that pattern, more than one hundred fifty transplant physicians, ethicists, and government officials met in Istanbul and issued a joint statement — the Declaration of Istanbul on Organ Trafficking and Transplant Tourism — condemning both practices as violations of equity, justice, and human dignity, and calling on every country to build enough of its own donation capacity, living and deceased, that none of its patients would need to buy an organ from someone else's desperation. The physician most associated with turning that declaration into an actual, ongoing international monitoring effort, Francis Delmonico, had already made the underlying argument in a shorter and more pointed form six years earlier, in a 2002 New England Journal of Medicine paper co-written with several colleagues under the title "Ethical Incentives — Not Payment — For Organ Donation." Their case was not that scarcity should be tolerated. It was that any payment scheme, however carefully regulated, risks turning the world's poorest people into the default supply for the world's richest, and that the moral weight of that risk outweighs whatever additional kidneys a market might produce.
+In the Iranian model, the payment does not function like a normal retail price posted on a shelf. Iranian transplant researchers reviewing the system in 2025 described a government payment to living kidney donors alongside a separate payment negotiated between recipient and donor. They reported that the government payment rose to 800 million rials in 2024, while the privately negotiated amount was typically several times larger. They also described an advocacy organization that may help recipients who cannot afford that negotiated payment.
 
-That argument has never gone unanswered, and the economists who have answered it are not fringe figures. Gary Becker, the Nobel laureate whose work on incentives shaped much of modern economics before his death in 2014, argued alongside his coauthor Julio Elias in a 2007 paper in the Journal of Economic Perspectives that a properly compensated market — for living donors and, separately, for the families of the deceased — would draw enough new supply into the system to eliminate the transplant queue's worst harm, the thousands of preventable deaths every year among people waiting for an organ that never comes, without raising the total cost of a transplant by more than roughly a tenth. Sally Satel, a psychiatrist and American Enterprise Institute scholar who has herself received two kidney transplants, has made a version of the same case with the added authority of having needed exactly the thing she is arguing for; her edited 2009 volume, "When Altruism Isn't Enough: The Case for Compensating Kidney Donors," collects essays making the argument that Iran, whatever its flaws, at least tried something the rest of the world has been content to condemn from a distance while its own waiting lists kill people on a comparable schedule.
+So this is not a clean experiment in “the government pays donors.” Nor is it the same thing as an underground broker buying kidneys in one country for wealthy recipients from another.
 
-Both sides of that argument, it is worth noticing, agree on the diagnosis. Nobody in this debate — not Delmonico, not Scheper-Hughes, not Becker, not Satel — believes the current global arrangement is working. They disagree, sometimes sharply, about which failure is worse: a black market that exploits the poorest sellers on earth while doing almost nothing to shorten the queue for everyone else, or a regulated market that might shorten the queue while normalizing exactly the kind of transaction its critics believe no society should have to make legible. Iran is the only country that has tried to resolve that disagreement by actually building the regulated version at national scale, and even Iran's own data, two decades in, reads less like a clean answer than like a government that built a market it is now trying, gradually, to need less.
+It is a regulated system containing an officially sanctioned transfer and a private bargain.
 
-What almost nobody disputes is what happens when a society refuses to build either version — when it bans the sale of organs, as the United States and nearly every other country does, and then simply hopes that altruism and a well-run waiting list will close the gap. The gap does not close. It moves. It moves into brokers' phones in Baiguni and Baseco and Pristina, into a fresh surgical scar on a young man collapsing at an airport, into a Brooklyn apartment where a kidney bought for ten thousand dollars from someone in Israel is quietly resold for more than ten times that to a patient in New Jersey who had simply run out of time on the legal list. The ban does not eliminate the transaction. It removes the transaction from anywhere a regulator, a journalist, or an ethicist can watch it happen, and it hands the terms of the trade to whoever is willing to operate in the dark.
+The system has produced something its defenders have long emphasized: more kidneys supplied by living unrelated donors than a strict prohibition on compensation would have allowed.
 
-That is the pattern this book keeps returning to, in settings with far lower stakes than a kidney but with the same underlying shape: when an official queue is severe enough, and the good behind it valuable enough, an unofficial market grows up in its shadow, and the quality of the official queue's design determines how large that shadow gets. A concert ticket is not a kidney, and nobody has ever died waiting for a seat at a stadium. But the mechanism is the same mechanism, scaled down to a size where the country could finally afford to get angry about it in public. In November 2022, an American ticketing company would discover, in front of tens of millions of furious fans and two Senate committees, exactly how fast a shadow market grows the moment a legitimate queue stops looking credible to the people standing in it.
+Ahad Ghods, a prominent Iranian transplant physician who has written extensively about the model, argued in a 2006 ethical review that compensated living unrelated donation substantially increased kidney supply. That evidence has made Iran irresistible to economists and bioethicists who ask what would happen if wealthy countries stopped assuming altruism alone must carry the entire burden of donation.
+
+The case is powerful because it attacks the easiest moral position.
+
+If a ban on payment leaves patients on dialysis for years while compensation induces more people to donate, then “money is distasteful” is not the end of the argument. The ban itself has consequences. Dialysis imposes burdens. Waiting can become medically costly. Families watch relatives deteriorate while knowing that a stranger might have been willing to donate under a different set of incentives.
+
+The strongest argument for compensation begins there, not in abstraction.
+
+A market prohibition can protect people from exploitation. It can also protect a shortage.
+
+That is why the Iranian evidence should make opponents of organ payment uncomfortable.
+
+But it should make supporters uncomfortable too.
+
+The people most likely to accept money for a kidney are not randomly drawn from society.
+
+An ethnographic study of compensated living kidney donation in Iran published in 2018 documented financial pressure, dissatisfaction, complaints, and social stigma among donors in its sample. The point is not that every donor was coerced or regretted the decision. It is that formal consent and economic freedom are not identical. A person can sign a document, understand the surgery, and still be choosing inside a field narrowed by debt, unemployment, family obligation, or desperation.
+
+This is the recurring difficulty with markets in bodily risk.
+
+When wealthy people buy an ordinary good from poorer people, inequality changes who consumes more. When the good being purchased is someone else’s surgery, inequality changes who is asked to undergo the physical loss.
+
+That is a different moral structure.
+
+It does not automatically make the exchange invalid. We allow adults to accept bodily risk for money in many occupations. A kidney donor can usually live with one kidney, and living donation is a routine part of modern transplantation. Supporters of regulated compensation therefore ask why donation should be uniquely excluded from a world in which adults routinely accept physical risk for wages.
+
+The answer cannot simply be that the body is sacred. Society already permits blood donation, plasma compensation in some jurisdictions, participation in medical research, and dangerous paid work.
+
+The harder question is who bears the risk, who receives the benefit, and whether the transaction remains acceptably voluntary when the seller’s alternatives are bad enough.
+
+That is where a regulated compensated system and illegal organ markets begin to resemble each other without becoming the same thing.
+
+Both are responses to scarcity.
+
+Both can attract people in financial distress.
+
+Both reveal that a willing buyer and a willing seller do not settle every ethical question.
+
+But the differences are substantial. A regulated national program can require medical screening, maintain transplant records, define which hospitals may operate, provide postoperative care, and create some oversight of payments. An illegal network has incentives to hide the transaction, conceal the donor’s circumstances, move people across jurisdictions, and minimize documentation that could expose the actors involved.
+
+Once a market moves underground, ordinary protections become difficult to apply because the transaction itself may be evidence of wrongdoing.
+
+That does not make every illegal transplant medically incompetent. Nor does it mean that every legal transplant system treats donors well. It means the mechanisms of accountability differ.
+
+The Declaration of Istanbul, first adopted in 2008 and updated in 2018 by an international group of transplant professionals and other experts, exists partly because the language around this problem had become too loose to be useful.
+
+Its definitions are worth dwelling on.
+
+“Organ trafficking” is not simply another name for traveling abroad to receive a transplant. Under the Declaration’s framework, organ trafficking includes removing organs without valid consent or authorization, or in exchange for financial gain or comparable advantage to the donor or another party, along with related activities connected to those organs and transactions.
+
+“Trafficking in persons for the purpose of organ removal” is narrower in a different way. It involves recruiting, transporting, transferring, harboring, or receiving people through force, coercion, fraud, deception, abuse of power, abuse of vulnerability, or related means for the purpose of organ removal.
+
+And “travel for transplantation” is simply movement across jurisdictional borders for transplantation. It becomes “transplant tourism,” in the Declaration’s terminology, when the travel involves organ trafficking or trafficking in persons for organ removal, or when transplant resources devoted to nonresidents undermine care for the local population.
+
+That last distinction matters because international travel is not itself proof of abuse.
+
+A patient may legally travel to a center with expertise unavailable at home. A relative may cross a border to donate. Jurisdictions may have legitimate arrangements for caring for nonresidents. Calling all of this trafficking would be analytically lazy and unfair to legitimate transplant programs.
+
+The vocabulary also reveals something deeper.
+
+The problem is not movement. The problem is the terms under which scarce organs are procured and allocated.
+
+This is a mechanism-design problem wearing surgical clothes.
+
+Suppose a wealthy recipient faces a long wait for a kidney. An intermediary connects that recipient with a poor donor elsewhere. The transplant happens quickly. The donor receives some payment. Other people may take a share for arranging the transaction.
+
+From the recipient’s perspective, the mechanism has solved the queue.
+
+From the donor’s perspective, it may have solved an immediate financial emergency.
+
+From the intermediary’s perspective, the gap between what the recipient will pay and what the donor will accept can become the business model.
+
+From the health system’s perspective, several protections may have vanished at once: transparent allocation, independent donor advocacy, reliable consent, longitudinal follow-up, standardized medical screening, and the ability to audit whether the donor was recruited through coercion or deception.
+
+The transaction can appear mutually beneficial at the moment it occurs and still be institutionally predatory.
+
+That is why organ markets are such a difficult test of the economist’s instinct to look for gains from trade.
+
+In a textbook exchange, two parties know what they want, ownership is clear, the good can be transferred, and the legal system can enforce the bargain. Organ transactions violate several of these convenient assumptions.
+
+The donor bears surgical risk after the money has changed hands. The recipient may be too sick to evaluate quality. Long-term medical costs can fall on someone other than the buyer or seller. The intermediary may know much more than either party. The donor cannot repossess a kidney. The recipient cannot simply return a failed transplant. And the consequences of poor screening may appear after the transaction is complete.
+
+Markets work differently when exit is irreversible.
+
+Scarcity makes these problems worse because both sides may be unusually desperate.
+
+The patient is not shopping for a better television. The patient may believe that without a transplant, health will continue to decline. The donor may not be choosing among attractive forms of employment. A decision made under desperation can still be a decision. But desperation changes what we should infer from willingness to pay or willingness to sell.
+
+This is why simplistic language about “choice” fails in both directions.
+
+It is too easy for opponents of compensation to say that poor donors cannot meaningfully consent. Poor adults retain agency. Treating poverty as incapacity can become its own form of paternalism.
+
+It is equally easy for supporters to say that consent settles the matter. A signature does not tell us whether the terms were misleading, whether follow-up care exists, whether the payment was delivered as promised, or whether the donor would have agreed under less extreme economic pressure.
+
+The empirical question is not whether donors choose.
+
+It is what kind of choice the institution has built.
+
+A well-designed compensation system would therefore have to solve more than the supply problem.
+
+It would need to separate donor evaluation from recipient pressure. It would need transparent payment rules. It would need independent medical and legal advice for donors. It would need long-term follow-up. It would need a way to prevent intermediaries from capturing most of the value. It would need protections against recipients bidding up payments in ways that shift donation toward the poorest people. It would need rules for nonresidents. It would need a credible remedy when things go wrong.
+
+At that point, the argument has moved far from “just let people sell kidneys.”
+
+It has become an argument about designing a highly regulated allocation institution.
+
+That is exactly why the Iranian case remains so important.
+
+It shows that legal compensation is not the absence of rules. It is a different set of rules.
+
+And it shows that those rules do not eliminate moral tension. The 2025 review by Iranian transplant researchers describes efforts to expand deceased-donor transplantation and move away from reliance on compensated living unrelated kidney transplantation while continuing to acknowledge concern about exploitation of vulnerable populations.
+
+That trajectory matters. A country can use compensation to increase supply and still decide that relying less on compensated living donors is a worthwhile policy goal.
+
+The same lesson appears from the opposite direction in countries that prohibit payment.
+
+Bans do not eliminate the value of a kidney.
+
+They change who may legally capture it.
+
+A surgeon can be paid. A hospital can be paid. A laboratory can be paid. A pharmaceutical company can be paid for immunosuppressive drugs. An insurer can pay for the procedure. The person giving up the kidney, however, may generally be reimbursed only within limits defined by law and policy, not paid a market price for the organ itself.
+
+That asymmetry is often used rhetorically by compensation advocates: everyone gets paid except the donor.
+
+The line is sharper than that slogan suggests.
+
+Many systems aim for what the Declaration of Istanbul calls financial neutrality: donors and their families should neither lose nor gain financially as a result of donation. That principle distinguishes reimbursement from purchase. Travel, lodging, lost wages, and other donation-related costs can be treated as expenses that should not punish a donor financially without treating the kidney itself as a commodity.
+
+This is another mechanism, neither pure altruism nor a market.
+
+It tries to preserve voluntary donation while acknowledging that “unpaid” can still be expensive.
+
+The distinction matters because the design space is wider than two options: ban all money or permit unrestricted sales.
+
+A government could reimburse costs more generously. It could provide long-term health coverage to donors. It could offer standardized benefits. It could prohibit direct bargaining between donor and recipient. It could allow a fixed public payment but no private bidding. It could maintain the current ban while investing more heavily in deceased donation and paired exchange.
+
+Each choice changes who is likely to donate and who gets access.
+
+None is neutral.
+
+The illegal market enters when the official mechanism leaves enough unmet demand that people are willing to step outside it.
+
+This is why enforcement alone has limits. Governments can prosecute brokers, close illicit operations, strengthen consent procedures, and criminalize purchase. Those actions may be necessary. But if the underlying waiting time remains long and the payoff from evasion remains enormous, new intermediaries have an incentive to appear.
+
+A queue with a sufficiently valuable prize creates a market for skipping the queue.
+
+Sometimes that market is legal. We saw it in the previous chapter with paid priority at a theme park.
+
+Sometimes it is tolerated at the edge of the rule: private transportation, specialized advisers, premium access to information.
+
+And sometimes the market attaches itself directly to the scarce good the queue was created to allocate.
+
+Organs are the extreme case because the reason for banning the market is inseparable from the reason the market keeps reappearing. Kidneys are valuable because they are scarce and lifesaving. The same facts that make us recoil from selling them also create a powerful incentive to buy them.
+
+The queue and the market are therefore not opposites.
+
+They are rival allocation mechanisms competing around the same shortage.
+
+The waiting list says priority should be determined by medical and administrative rules.
+
+The illegal market says priority belongs to whoever can assemble enough money, contacts, and risk tolerance to bypass those rules.
+
+The compensated-donation model says the shortage may be reduced by paying more people to supply kidneys, but then must answer how payment changes who supplies them and under what conditions.
+
+None of these mechanisms can escape distribution.
+
+A queue distributes delay.
+
+A market distributes by purchasing power.
+
+A compensation system distributes surgical risk toward people willing to accept payment.
+
+A ban distributes the burden toward patients who remain on dialysis and toward families asked to provide altruistic donors.
+
+The moral argument changes depending on which burden is most visible.
+
+That is why transplant debates often talk past one another. One side points to exploitation of poor donors. Another points to the harm of organ shortage. One side worries that money will corrupt altruism. Another worries that reverence for altruism has become a luxury purchased with patients’ time. One side sees a market where people sell body parts because they are poor. Another sees a prohibition that denies poor people an option wealthier policymakers would never personally need.
+
+These concerns can be real at the same time.
+
+A good mechanism does not become good because it avoids the ugliest feature of its rival.
+
+The challenge is to compare whole systems rather than slogans.
+
+How many transplants occur?
+
+Who becomes a donor?
+
+Who gets a kidney?
+
+Who bears medical risk?
+
+Who gets paid?
+
+Who can complain when a promise is broken?
+
+What information is recorded?
+
+What happens to donors years later?
+
+Can the system be audited?
+
+Can wealthy recipients buy their way to the front indirectly even if direct purchase is banned?
+
+And what happens to people who have neither money nor a willing living donor?
+
+The last question points toward the next part of the story.
+
+For decades, the organ debate was often framed as a choice between shortage and payment. Then market designers found another source of supply hidden inside the existing system.
+
+Thousands of patients already had people willing to give them a kidney.
+
+The problem was that the kidney did not match.
+
+That sounds like a medical dead end. It turned out to be an allocation problem.
+
+A husband might be unable to donate to his wife but compatible with a stranger. The stranger’s sister might be incompatible with her own brother but compatible with the first wife. No money has to change hands. No donor has to give without helping the person they came to save. The scarce good remains outside an ordinary market.
+
+What changes is the matching rule.
+
+That possibility is easy to miss if the only question is whether kidneys should be bought or queued.
+
+The black market teaches the darker version of the same lesson: whenever the official allocation rule leaves enough value on the table, people search for another mechanism.
+
+The next chapters turn to economists who asked whether that search could be made legal, transparent, and much less cruel.
