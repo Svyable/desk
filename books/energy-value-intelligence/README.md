@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Complete draft |
+| **Status**    | Drafting |
 | **Chapters**  | 22 of 22 drafted |
 
 A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. Its recurring question is what becomes scarce next when energy, cognition, or production gets dramatically cheaper.
