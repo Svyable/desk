@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 13 author projects · 10 released · 3 public drafts/proofs**
-> **Where they live: 13 in both Desk + Shelf · 45 Desk-only · 0 Shelf-only**
-> **Release review queue: 16 complete Desk manuscripts are not finally released — 15 are Desk-only and 1, Public Pressure, is already on Shelf as a public proof.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 14 author projects · 11 released · 3 public drafts/proofs**
+> **Where they live: 14 in both Desk + Shelf · 44 Desk-only · 0 Shelf-only**
+> **Release review queue: 15 complete Desk manuscripts are not finally released — 14 are Desk-only and 1, Public Pressure, is already on Shelf as a public proof.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -27,13 +27,14 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Open Source**](books/open-source/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/open-source/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
+| [**Right To Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Right To Try](books/right-to-try/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
 
 **Complete manuscript on Shelf as a proof, still awaiting a final release decision:** [Public Pressure](books/public-pressure/).
 <!-- SHELF_SUMMARY:END -->
