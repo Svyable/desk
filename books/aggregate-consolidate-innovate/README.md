@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 10 of 25 drafted |
+| **Chapters**  | 11 of 25 drafted |
 
 ## Contents
 
@@ -19,7 +19,7 @@
 - [x] [Ch 8 — Primitives](manuscript/ch08-primitives.md)
 - [x] [Ch 9 — Standards](manuscript/ch09-standards.md)
 - [x] [Ch 10 — Editing](manuscript/ch10-editing.md)
-- [ ] Ch 11 — Recombination
+- [x] [Ch 11 — Recombination](manuscript/ch11-recombination.md)
 - [ ] Ch 12 — Constraints
 - [ ] Ch 13 — Prototyping
 - [ ] Ch 14 — Selection
