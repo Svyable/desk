@@ -357,3 +357,29 @@ The history of infrastructure suggests that dependency becomes harder to renegot
 Neoantigen medicine is becoming both drug and infrastructure at once.
 
 Its intellectual-property policy will have to remember the difference.
+
+The patent fence also has a geographic edge.
+
+A right is territorial. A patent enforceable in the United States does not automatically control practice everywhere else, and the strength, scope and timing of corresponding rights can differ across jurisdictions. A personalized treatment assembled across borders can therefore touch several intellectual-property regimes before it reaches one patient.
+
+The tumor can be sequenced in one country, targets selected through software operated in another, a component manufactured in a third and the treatment administered in a fourth.
+
+That architecture creates opportunities to design around rights and opportunities for confusion about which law applies.
+
+It also creates a temptation to treat geographic arbitrage as evidence that the underlying product has become a commodity.
+
+It has not.
+
+Avoiding one patent claim does not reproduce the clinical evidence, manufacturing system or regulatory history that gave the validated platform its value. A foreign clinic can sometimes offer a technically distinct implementation legally without possessing anything close to the same proof.
+
+Patent freedom and evidentiary equivalence are separate.
+
+This distinction is useful for patients because websites can collapse them. A provider may advertise that its approach is independent of a large pharmaceutical company or based on publicly known neoantigen science. That can be true. It does not answer whether the provider's version was manufactured under appropriate standards or improves outcomes in the proposed disease.
+
+The inverse claim is equally misleading.
+
+A company may point to an extensive patent portfolio as evidence that its platform is advanced. The portfolio can indicate investment and inventive activity. It does not substitute for a randomized endpoint.
+
+The fence describes rights around the road.
+
+It does not prove the road reaches the destination.
