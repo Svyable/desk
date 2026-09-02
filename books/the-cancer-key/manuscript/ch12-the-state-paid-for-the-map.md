@@ -305,3 +305,51 @@ That would fit the history.
 Government rarely wins by guessing the final product.
 
 It wins by making more good guesses possible.
+
+The public contribution also includes institutions that absorb variance private firms would rather avoid.
+
+A commercial sponsor designs an oncology trial around a protocol, a set of sites and a development plan. NCI-designated centers and cooperative research networks exist across many products and many sponsors. They maintain pathologists, statisticians, research nurses, data systems, imaging expertise and investigators before any one neoantigen company arrives.
+
+That standing capacity shortens the path from a new hypothesis to a recruitable trial.
+
+It is easy to omit from product accounting because no invoice says “pre-existing clinical ecosystem.”
+
+The same is true of regulation.
+
+A functioning FDA, research-ethics system, trial registry and pharmacovigilance framework are public infrastructure that make clinical evidence legible to investors and physicians. A company can raise money for a Phase 3 program partly because success can be converted into a recognized approval and a defined legal market.
+
+Regulatory credibility is an economic asset supplied collectively.
+
+Weak regulatory states often discover this from the opposite direction. A company may be able to manufacture a technically sophisticated product, yet investors, international partners and patients discount the result if clinical oversight is unreliable. The cost of proving quality rises because every actor has to recreate trust privately.
+
+Public institutions reduce that transaction cost.
+
+This does not mean every regulatory delay is valuable or every public program efficient.
+
+It means the baseline against which private efficiency is judged already contains public organization.
+
+The same point applies to standards.
+
+Reference genomes, nomenclature conventions, laboratory accreditation, good-clinical-practice norms, common trial endpoints and data standards allow firms to exchange information and regulators to compare evidence. A company benefits from those shared rules even when no grant directly touched its product.
+
+The state often creates value by making disagreement cheaper.
+
+Two companies can run competing trials because both know what recurrence-free survival means. Two laboratories can compare variant calls because reference coordinates and nomenclature exist. Regulators can discuss a manufacturing change because quality concepts are shared.
+
+Markets need a grammar before they can argue.
+
+Public systems frequently pay for the grammar.
+
+That is why the phrase taxpayer-funded drug is too small for the real claim.
+
+The more accurate phrase is publicly enabled market.
+
+A publicly enabled market can still produce private fortunes, failed companies, overpriced products and extraordinary medicines. Enablement is not ownership. It is a contribution to the conditions in which ownership becomes valuable.
+
+That contribution creates no automatic formula for what the public should receive back.
+
+It does create standing to ask the question with more sophistication than gratitude.
+
+The state paid for more than the map.
+
+It helped make maps worth using.
