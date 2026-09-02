@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 12 of 25 drafted |
+| **Chapters**  | 13 of 25 drafted |
 
 ## Contents
 
@@ -21,7 +21,7 @@
 - [x] [Ch 10 — Editing](manuscript/ch10-editing.md)
 - [x] [Ch 11 — Recombination](manuscript/ch11-recombination.md)
 - [x] [Ch 12 — Constraints](manuscript/ch12-constraints.md)
-- [ ] Ch 13 — Prototyping
+- [x] [Ch 13 — Prototyping](manuscript/ch13-prototyping.md)
 - [ ] Ch 14 — Selection
 - [ ] Ch 15 — Adoption
 - [ ] Ch 16 — Organizations as Memory
