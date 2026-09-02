@@ -1,6 +1,6 @@
 # Restructuring America
 
-## Public Works in the Age of AI
+## Public Works for the Age of Artificial Intelligence
 
 **Sven Hardy Benson**
 
