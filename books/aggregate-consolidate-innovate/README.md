@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 13 of 25 drafted |
+| **Chapters**  | 14 of 25 drafted |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 - [x] [Ch 11 — Recombination](manuscript/ch11-recombination.md)
 - [x] [Ch 12 — Constraints](manuscript/ch12-constraints.md)
 - [x] [Ch 13 — Prototyping](manuscript/ch13-prototyping.md)
-- [ ] Ch 14 — Selection
+- [x] [Ch 14 — Selection](manuscript/ch14-selection.md)
 - [ ] Ch 15 — Adoption
 - [ ] Ch 16 — Organizations as Memory
 - [ ] Ch 17 — The Database Is Not the Institution
