@@ -341,3 +341,49 @@ It becomes obvious after the first bankruptcy, merger or discontinued platform s
 The most durable company advantage may indeed be the learning loop.
 
 The most durable public requirement should be that the loop leaves enough evidence behind for medicine to remember what happened.
+
+There is another form of concentration that becomes visible only after a category succeeds: control of the clinical interface.
+
+A therapy can have several technically capable manufacturers and still depend on a small number of hospital networks experienced enough to order, coordinate and administer it. Those centers become gateways for patients and attractive partners for companies. Trial relationships turn into commercial relationships. Referral patterns harden around expertise built during development.
+
+That can be efficient.
+
+Experience reduces error. High-volume centers learn how to preserve tissue, handle logistics and manage complex combinations. The same concentration can make adoption outside those centers slower than the biology requires.
+
+Companies then face a distribution choice.
+
+They can keep the network narrow and reliable, accepting slower geographic reach. Or they can train a much wider set of community sites, investing in support systems that reduce the expertise required locally. The second strategy expands the market and also risks exposing weak points hidden by academic-center trial conditions.
+
+The winner may be the company that productizes the workflow, not only the molecule.
+
+Ordering portals, specimen kits, reimbursement support, courier integration, manufacturing-status tracking, treatment scheduling and clinician education can become parts of the competitive product. None is a neoantigen. Together they determine whether the neoantigen reaches the patient.
+
+This is why software companies may appear around the edges of the industry without ever ranking a peptide. A logistics platform that prevents failed handoffs can create more clinical value than a marginal improvement in a molecular predictor if the predictor was already good enough.
+
+Bottlenecks migrate toward the ordinary.
+
+The same migration affects bargaining power. Once sequencing is inexpensive and target prediction converges, a hospital may care most about turnaround guarantees and reimbursement support. Once manufacturing becomes reliable, a payer may care most about comparative benefit and total regimen cost. Once several products work, patients may care about travel and treatment burden.
+
+Competitive advantage changes because the customer's problem changes.
+
+The company that wins the scientific race does not automatically win every later race.
+
+That is good news for competition if interfaces remain open enough for new firms to enter at the newly scarce layer.
+
+It is bad news if the first successful platform uses contracts, data control or proprietary integration to make every adjacent layer depend on it.
+
+The question for policymakers is therefore not whether integration is good or bad.
+
+It is whether integration creates efficiency that can be challenged.
+
+A vertically integrated system can reduce handoff errors and accelerate treatment. It can also make substitution difficult. The public interest is served when a competitor can enter by being better, not when it has to recreate an entire hospital-manufacturing-data network merely to test a different therapeutic idea.
+
+Standards are what separate those futures.
+
+Portable sequence data, interoperable treatment records, clear manufacturing specifications, accepted outcome definitions and fair access to clinical networks do not guarantee competition.
+
+They reduce the cost of trying.
+
+The companies around the key will spend the next decade learning where the money settles.
+
+The public should spend the same decade making sure the settlement does not become geology.
