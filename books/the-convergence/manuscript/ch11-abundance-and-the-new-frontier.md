@@ -18,7 +18,7 @@ Energy is beginning to show the same pattern in some places and for some service
 
 The cleanest evidence is not a futuristic reactor or a laboratory headline. It is a solar farm nobody regards as exotic.
 
-In 2025, according to the International Renewable Energy Agency, the global weighted-average levelized cost of newly commissioned utility-scale solar photovoltaic generation was about $44 per megawatt-hour. Onshore wind was about $33. More than 90 percent of utility-scale renewable projects commissioned that year produced power below the cost of the cheapest new fossil-fuel plant available in their market under IRENA's methodology.
+In 2024, according to the International Renewable Energy Agency, the global weighted-average levelized cost of newly commissioned utility-scale solar photovoltaic generation was about $43 per megawatt-hour. Onshore wind was about $34. IRENA reported that 91 percent of newly commissioned utility-scale renewable capacity produced power more cheaply than the cheapest newly installed fossil-fuel alternative under its methodology.
 
 There are enough caveats in that sentence to make a consultant comfortable.
 
