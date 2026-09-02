@@ -279,3 +279,25 @@ A physician can explain an uncertain experimental therapy if the uncertainty is 
 The deepest achievement of computation in neoantigen medicine will not be making the ranking look inevitable.
 
 It will be making the uncertainty useful enough that better targets are chosen anyway.
+
+The ranking problem also creates a subtle competition between breadth and evidence.
+
+A platform can include more targets to hedge against prediction error. That strategy is attractive when manufacturing can carry the additional sequences cheaply and safely. But adding targets is not free simply because the payload is digital upstream. Longer constructs can create design constraints. More peptides can complicate formulation. Immune responses can differ in magnitude, and the strongest responses may not align with the targets the algorithm originally ranked highest.
+
+The platform therefore has to decide how much uncertainty to absorb into the product and how much to resolve before manufacture.
+
+An assay-heavy strategy can spend more time experimentally validating candidates before selecting them. A prediction-heavy strategy can move faster and include more candidates. The first may improve confidence while threatening turnaround. The second may preserve time while accepting that several payload slots will be biologically unproductive.
+
+There is no permanent optimum because the value of time changes by disease setting.
+
+A patient with aggressive metastatic disease cannot wait for a beautiful laboratory tournament among candidate peptides. A patient recovering from surgery may have more room for additional validation if the treatment sequence allows it. The algorithm's objective function is therefore partly clinical: maximize useful target quality subject to a treatment clock.
+
+That is another reason benchmark accuracy alone is insufficient.
+
+A slower model-and-assay system that improves target quality by a few percentage points can make the overall treatment worse if it pushes too many patients beyond the manufacturing window. A slightly less accurate model that returns decisions quickly may create more real-world benefit.
+
+The best ranking system is not the one that wins the cleanest offline contest.
+
+It is the one that improves the treatment strategy after time, uncertainty, manufacturing and disease are counted together.
+
+Once code chooses what goes into the syringe, latency becomes drug quality too.
