@@ -42,3 +42,7 @@ The central thesis is that open AI does not abolish ownership; it rearranges it.
 ## Research trail
 
 Research notes, chapter briefs, and a source ledger live in [`research/`](research/). Contemporary claims are dated and source-linked there so later editions can distinguish 2026 reporting from the book's explicit 2027 forecasts.
+
+## Publication note
+
+This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `e10890eb72316fd88308089646a86c1ef2ca0994` on September 2, 2026. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot.
