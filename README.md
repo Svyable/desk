@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 54 book projects · 20 complete drafts · 1 in revision · 33 drafting**
+> **Desk: 55 book projects · 21 complete drafts · 1 in revision · 33 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 5 author projects · 3 released · 2 public drafts/proofs**
-> **Where they live: 5 in both Desk + Shelf · 49 Desk-only · 0 Shelf-only**
-> **Release review queue: 18 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 5 in both Desk + Shelf · 50 Desk-only · 0 Shelf-only**
+> **Release review queue: 19 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Built to Be Alone](books/the-loneliness-dividend/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Public Pressure](books/public-pressure/), [Restructuring America](books/restructuring-america/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/).
+**Desk-only complete drafts awaiting an explicit release decision:** [Built to Be Alone](books/the-loneliness-dividend/), [Face The Strange](books/face-the-strange/), [Fiscal Wall](books/fiscal-wall/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Public Pressure](books/public-pressure/), [Restructuring America](books/restructuring-america/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/).
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -50,6 +50,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | ~73K | A counterintuitive look at how technology can make rare affinities and self-authored social lives more possible without guaranteeing connection or welfare. | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Last Decade in a Year**](books/exponential-compression/) | ✍️ Drafting | 2 / 11 | ~8K | Exponential change as compression: more technological, economic, and institutional rearrangement packed into less human decision time. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft | 25 / 25 | ~70K | First contact with advanced intelligence may arrive as ordinary work, trust, memory, delegation, and relationship long before society agrees on AGI. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
+| [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 drafted | ~70K | A market-structure account of the Treasury refinancing cycle: auctions, dealers, repo, foreign demand, the Fed, and what higher rates do to fiscal room. | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✍️ Drafting | 6 / 21 | ~24K | Modern power often sits at transitions: who gets admitted, approved, paid, treated, connected, or allowed through—and what meaningful appeal should look like. | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
 | [**Intelligence State**](books/intelligence-state/) | ✍️ Drafting | Prologue drafted / 17 planned | ~2K | AI is becoming state capacity; the Americas reveal how compute, energy, data, talent, and trust determine whether societies gain sovereignty or dependency. | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft | 25 / 25 | ~85K | What happens when machine thought gets cheap enough that thinking longer, retrying, searching, critiquing, and running agents in parallel become an industrial strategy. | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
