@@ -12,6 +12,182 @@ The merchant does not become software.
 
 Its commercial boundary does.
 
+Imagine one Saturday birthday order moving through that boundary.
+
+A customer tells her agent: cake for eighteen people, chocolate preferred, not excessively sweet, pickup by three in the afternoon, a fixed budget, simple decoration, and a guest with a serious peanut allergy. The customer does not know which bakery to call. She does not want to spend forty minutes asking five shops the same questions.
+
+The agent sends a structured request.
+
+The bakery does not need to expose its recipe book or let a model roam through internal email. It needs to answer a narrower set of commercial questions.
+
+Can the bakery accept a custom cake for that date?
+
+Which sizes serve roughly eighteen people?
+
+What flavors are available?
+
+Which decoration options fit the lead time?
+
+What is the price?
+
+What deposit is required?
+
+When does the order become nonrefundable?
+
+Can pickup occur before three?
+
+Most important, what exactly can the bakery say about peanuts?
+
+That final question shows why machine readability cannot mean machine confidence.
+
+A bakery might truthfully say that a recipe contains no peanuts while also saying that peanuts are handled in the same kitchen. Another bakery may maintain a dedicated process for certain allergens. A third may refuse to make any assurance beyond publishing ingredient lists. Those statements are not interchangeable.
+
+A consumer agent that collapses them into a binary field called `peanut_free=true` can create a dangerous falsehood.
+
+The useful interface preserves the merchant’s actual claim.
+
+No peanut ingredient in recipe.
+
+Shared equipment.
+
+Cross-contact possible.
+
+No medical-allergy guarantee.
+
+Human confirmation required for severe allergy requests.
+
+The machine-readable boundary should become more precise where the consequences of error rise.
+
+This is the opposite of the fantasy in which AI smooths every messy fact into a convenient answer. Sometimes the highest-value function of structured commerce is to preserve the mess honestly enough that the agent knows it must stop.
+
+The bakery’s capacity creates another boundary.
+
+The shop can bake ten standard cakes on Friday and perhaps four elaborate custom cakes. Flour is not the scarce input. Decorator time is. The storefront may appear open and the product may appear available, but the relevant inventory is a block of skilled labor on a specific day.
+
+A useful merchant interface therefore exposes capacity, not merely stock.
+
+Standard chocolate cake: available.
+
+Custom piping: two slots remaining.
+
+Sculpted decoration: unavailable for Saturday.
+
+Delivery: full.
+
+Pickup: available between one and three.
+
+The API is beginning to describe operations rather than a shelf.
+
+The agent returns with two acceptable options. One is cheaper and plain. The other costs more because the decoration uses scarce labor. The customer chooses the second.
+
+Now the bakery needs commitment.
+
+A custom cake cannot be returned to inventory like a boxed appliance. The merchant may require a deposit and a cancellation deadline because ingredients and labor become specific to this buyer. The agent must understand that a refundable shopping cart and a committed production slot are different commercial objects.
+
+The quote can therefore carry an expiration time.
+
+The deposit can be tied to the specific configuration.
+
+A change from eighteen servings to thirty after the cutoff can require a new quote.
+
+A request to change pickup to delivery can fail because the van is already committed.
+
+These are ordinary small-business realities. Agentic commerce works only when the protocol can represent them instead of assuming every transaction behaves like commodity retail.
+
+The order then moves into the bakery’s internal world.
+
+Someone checks the production board.
+
+Someone notices that the chocolate supplier delivered late.
+
+Someone decides whether another brand of cocoa changes the taste enough to matter.
+
+Someone sees that the written decoration request will look crowded on the selected cake size and calls for judgment.
+
+None of this requires the consumer agent to become the bakery’s operating system.
+
+The boundary can remain narrow.
+
+The merchant system tells the agent that the order is accepted, that one ingredient substitution does not affect the declared allergen policy, and that the decorative wording needs approval because the baker recommends a shorter version.
+
+The human customer is asked one meaningful question rather than twelve administrative ones.
+
+That is the promise.
+
+The merchant automates the transaction without automating the craft.
+
+Then imagine what happens when the data is wrong.
+
+The bakery marked pickup until three, but a holiday schedule closes the front counter at two.
+
+The platform inferred that a cake serves twenty because another merchant uses the same diameter differently.
+
+The agent treated “no peanuts in recipe” as “safe for severe peanut allergy.”
+
+A generated product photo implied a decoration the bakery never offered.
+
+The order reaches the shop with a promise nobody there knowingly made.
+
+This is where the merchant API stops being a convenience layer and becomes a liability surface.
+
+Every important field needs an owner.
+
+Merchant-declared.
+
+Platform-inferred.
+
+Third-party verified.
+
+Customer-supplied.
+
+Agent-generated.
+
+The source matters because correction and responsibility depend on it.
+
+A merchant should be able to say: this inventory figure is ours, this delivery estimate came from the courier, this sustainability badge came from a certifier, and this descriptive attribute was inferred by the platform and has not been verified.
+
+The buyer agent can then weight the evidence accordingly.
+
+This is what a mature machine-readable market looks like.
+
+Not one enormous database claiming omniscience.
+
+A chain of bounded assertions with provenance.
+
+The same case also shows why small businesses may welcome agentic commerce even when they dislike platforms.
+
+Before the interface, the bakery might receive twenty messages containing some version of “How much for a cake?” Staff have to ask the date, serving count, flavor, design, pickup time, budget, and dietary constraints before they know whether the inquiry is even feasible.
+
+A structured request can arrive with the necessary facts already present.
+
+The business spends less time qualifying demand.
+
+It spends more time on orders it can actually fulfill.
+
+This is not trivial. Administrative interruption is expensive inside a tiny firm because the person answering messages may also be mixing dough, scheduling staff, paying invoices, and dealing with the refrigeration technician.
+
+But the same interface can create new work.
+
+The catalog must be maintained.
+
+Capacity rules must be accurate.
+
+Holiday hours must update everywhere.
+
+Prices must propagate.
+
+Allergen and certification statements must be reviewed.
+
+The business has to decide which exceptions require a human.
+
+The operational gain depends on whether the common infrastructure reduces more complexity than it creates.
+
+That is the small-business test for agentic commerce.
+
+The best system does not ask a bakery to become a software company.
+
+It lets the bakery publish a small, trustworthy commercial surface and get back to baking.
+
 This is a major opportunity for small firms because small firms have historically paid a disproportionate price for administrative complexity.
 
 A global retailer can maintain product feeds, payment integrations, inventory systems, tax engines, fraud tools, advertising teams, fulfillment networks, legal departments, and customer-service operations. A small merchant cannot. The internet expanded reach but often required small businesses to learn a stack of technologies far outside their craft.
