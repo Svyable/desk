@@ -341,3 +341,23 @@ Good science becomes more credible when the denominator grows.
 Bad marketing becomes less profitable.
 
 That is a trade worth designing for.
+
+There is another asymmetry in direct-pay experimental medicine: the provider can learn from the patient's outcome even when the patient cannot learn from the provider's full history.
+
+Every treated person adds information about manufacturing feasibility, immune response and clinical course. The clinic or its partners can refine target selection and process from that experience. A prospective patient may see only selected publications and testimonials rather than the complete denominator that generated the provider's own confidence.
+
+Learning is private in one direction.
+
+Risk is individual in the other.
+
+That imbalance creates a reasonable case for reciprocal disclosure. A clinic need not publish every genomic record or proprietary algorithm. It should be able to state how many comparable patients entered its process, how many received product, how many experienced serious harms and what standardized outcomes were observed over defined follow-up.
+
+The better the provider becomes by learning from patients, the stronger the claim that future patients deserve to see what was learned.
+
+This is not a demand that experimental care become risk free.
+
+It is a demand that experience become cumulative for the buyer as well as the seller.
+
+A market with that property would still sell hope.
+
+It would have to sell memory with it.
