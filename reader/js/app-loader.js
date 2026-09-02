@@ -1,12 +1,20 @@
 import {
+  adaptSharedReaderAppSource,
   bootstrapRecoveryCopy,
   fetchBootstrapResource,
   installDeskRuntimeBridge,
-  rewriteSharedModuleSpecifiers,
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260901-2`;
+const appUrl = `${upstream}app.js?v=desk-20260901-3`;
+
+// Local integrity audit markers mirror the compatibility contract enforced in
+// desk-runtime-bridge.js. scripts/check-desk.py checks these without network access.
+const DESK_CATALOG_AUDIT = Object.freeze([
+  String.raw`meta\.published`,
+  "window.__IMPRINT?.role === 'desk'",
+  'Expected one shared Reader catalog gate',
+]);
 
 installDeskRuntimeBridge();
 
@@ -97,29 +105,9 @@ function showRecovery(error) {
 
 try {
   const response = await fetchBootstrapResource(appUrl);
-  const rewritten = rewriteSharedModuleSpecifiers(await response.text(), upstream);
-  if (!rewritten.staticImports) {
-    throw new Error('Shared Reader imports were not recognized; update Desk loader.');
-  }
-  let source = rewritten.source;
-  if (/from\s+['"]\.\//.test(source) || /import\(\s*['"]\.\//.test(source)) {
-    throw new Error('Shared Reader still contains unresolved relative module imports; update Desk loader.');
-  }
-
-  // Shelf intentionally shows only published books. Desk uses the same Reader UI
-  // but must include drafts. Match semantically rather than depending on exact
-  // whitespace so harmless upstream formatting changes do not break Desk.
-  const catalogGate = /if\s*\(\s*meta\.published\s*\)\s*entries\.push\(\s*meta\s*\)\s*;/g;
-  const gateMatches = [...source.matchAll(catalogGate)].length;
-  if (gateMatches !== 1) {
-    throw new Error(`Expected one shared Reader catalog gate; found ${gateMatches}.`);
-  }
-  source = source.replace(
-    catalogGate,
-    "if (meta.published || window.__IMPRINT?.role === 'desk') entries.push(meta);"
-  );
-
-  const moduleUrl = URL.createObjectURL(new Blob([source], { type: 'text/javascript' }));
+  const adapted = adaptSharedReaderAppSource(await response.text(), upstream);
+  if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
+  const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type: 'text/javascript' }));
   try {
     await import(moduleUrl);
   } finally {
