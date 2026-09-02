@@ -90,6 +90,46 @@ The best system should make the constraint visible rather than blaming the user 
 
 This is one way trust is earned.
 
+Imagine three households running equally capable treasury agents.
+
+The first has six months of expenses in cash, excellent credit, stable salaries, several credit cards paid in full each month, and enough savings to absorb an appliance failure without changing any other plan. Its agent is useful, but mostly as an optimizer. It can decide whether to use cash or a rewards card, select a warranty, wait for a sale, harvest an expiring credit, or shift idle cash into a better account. A mistake might cost a few hundred dollars of foregone optimization. The household has slack.
+
+The second household earns enough over the year but carries only a modest buffer. Paychecks arrive on known dates. Childcare, rent, utilities, insurance, and debt payments leave less room than the annual income suggests. A car repair and an annual premium arriving in the same week can turn an otherwise solvent month into a scramble. Here the agent’s value is less about finding the globally cheapest option than about sequencing. It may delay a discretionary purchase, move a bill within a grace period, avoid an overdraft, choose monthly insurance instead of a discounted annual payment, or preserve cash until the next paycheck arrives.
+
+The third household has almost no liquid buffer. Income may vary by week. Credit is expensive or unavailable. Rent is due. The car is necessary for work. The repair cannot wait. The agent can compare every lender, every repair shop, every payment schedule, every public benefit, every employer advance, and every family option available to it.
+
+The problem can remain unsolved.
+
+That is the most important result of the comparison.
+
+The three agents can have identical intelligence and produce radically different welfare because the balance sheets beneath them are different.
+
+For the affluent household, cognition mostly improves returns on existing slack.
+
+For the middle household, cognition can protect a narrow buffer.
+
+For the constrained household, cognition can document the constraint with exquisite precision while still failing to remove it.
+
+This is why agentic finance should be judged partly by what it refuses to pretend. The software should not translate “no affordable option exists” into “here is the least bad loan” and present the result as optimization success. Sometimes the correct output is a warning that every available path is expensive, fragile, or dangerous.
+
+Existing consumer-finance research already shows how strongly liquidity and financial resilience shape ordinary fees. In a 2023 study combining survey and credit-bureau data, the Consumer Financial Protection Bureau found that households with frequent overdraft or nonsufficient-funds fees also tended to have weaker credit profiles, less available credit, and greater difficulty meeting obligations. The result is American and specific to overdraft, not a universal law of household finance. Its relevance here is the pattern: the people facing the highest cost of a timing mistake often have the fewest alternative balance-sheet tools for absorbing it.
+
+An agent can reduce avoidable timing mistakes.
+
+It cannot turn a thin balance sheet into a thick one.
+
+That boundary matters for distribution. If wealthy households use agents to arbitrage fees, optimize taxes, manage rewards, refinance opportunistically, and shop insurance every year while poorer households mainly use agents to sequence shortages, both groups benefit but in different ways. The same technology can improve efficiency while leaving the underlying distribution of resources almost untouched.
+
+It can even widen some gaps.
+
+A lender may offer better terms to a household whose agent can document stable cash flow, maintain perfect records, and switch providers instantly. A merchant may offer discounts to a buyer with a credible budget and low expected default risk. A landlord may prefer an applicant whose agent assembles every document correctly. Administrative competence becomes cheap, but assets, income stability, collateral, and bargaining alternatives remain scarce.
+
+The danger is confusing the democratization of administration with the democratization of capital.
+
+The household treasury can give millions of people a better finance function.
+
+It does not give them the same balance sheet.
+
 Household treasury also changes replenishment.
 
 Retailers have long wanted automatic repeat purchasing because repeat behavior is predictable. Subscribe-and-save programs, scheduled deliveries, smart appliances, and auto-replenishment all try to convert recurring needs into recurring transactions.
@@ -156,7 +196,7 @@ This is the strongest argument for independent consumer agents in the entire boo
 
 Commerce has abundant software working for sellers.
 
-Retailers optimize conversion. Banks optimize product economics. advertisers optimize response. marketplaces optimize transaction volume. subscription companies optimize retention. logistics systems optimize delivery.
+Retailers optimize conversion. Banks optimize product economics. Advertisers optimize response. Marketplaces optimize transaction volume. Subscription companies optimize retention. Logistics systems optimize delivery.
 
 The household has rarely had a persistent optimizer of its own.
 
@@ -225,6 +265,32 @@ A fiduciary-like agent would say the purchase exceeds the household’s rule and
 A commerce agent may say financing is available.
 
 The difference can determine whether consumer agents improve financial resilience or deepen debt.
+
+Buy-now-pay-later illustrates why a household-wide view matters. A lender sees the application in front of it. A merchant sees the purchase in front of it. The household agent can see the sequence of obligations across providers.
+
+The CFPB’s 2025 matched study of six large BNPL providers found that more than three-fifths of BNPL borrowers held multiple simultaneous BNPL loans at some point during the study year, and roughly one-third borrowed from multiple BNPL firms. That does not mean BNPL is inherently harmful; installment credit can be useful and many pay-in-four products charge no interest when paid on time. The important fact is fragmentation. A consumer can accumulate several individually modest obligations whose combined timing matters more than any one checkout screen shows.
+
+The treasury agent can integrate them.
+
+It can say: the new payment is affordable in isolation and dangerous in combination.
+
+That sentence is more valuable than another credit offer.
+
+It also creates an incentive conflict. A commerce platform may earn money when a financed transaction closes. A consumer-aligned treasury agent may conclude that the highest-value action is to abandon the cart. If the same company controls both systems, disclosure alone may not eliminate the pressure. Product metrics, defaults, placement, and recommendation language can still favor conversion.
+
+This is where alignment stops being a philosophical word and becomes a revenue question.
+
+Does the agent get rewarded when the household buys?
+
+When the household borrows?
+
+When the household switches providers?
+
+When the household saves money?
+
+When the household does nothing?
+
+A system that cannot be rewarded for saying no will eventually learn to say yes too often.
 
 Regulators will care about this boundary because automated recommendations can blur advertising, brokerage, and advice. If the agent recommends a lender from which the platform receives compensation, the conflict must be clear. If it has access to bank balances, the sensitivity is even greater.
 

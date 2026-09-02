@@ -22,6 +22,8 @@ It does not assume all friction is harmful. The manuscript distinguishes manipul
 
 It does not assume an easier return, a cheaper loan, or a larger buying group is automatically welfare-improving. Reverse logistics creates physical costs, credit shifts spending into future income, and collective purchasing can create buyer power that harms suppliers or becomes a new gatekeeper.
 
+It does not assume better consumer representation can bargain away physical scarcity, legal monopoly, infrastructure constraints, geography, skilled-labor shortages, or a household's lack of financial slack. In those settings an agent may make the constraint more legible without removing it.
+
 ## Core empirical tests for later editions
 
 A later revision should be able to answer these questions with measured data rather than product announcements:
@@ -78,6 +80,8 @@ Primary materials on Agent Payments Protocol, Mastercard Agent Pay and Verifiabl
 
 The household-treasury chapter uses a 2025 BIS working paper on GenAI agents for intraday liquidity management in wholesale payment systems as a deliberately limited analogy. The experiment shows a reasoning model handling simulated sequencing and liquidity constraints; it does not establish that consumer agents should autonomously control household finances or that wholesale-bank operations map cleanly onto family budgeting.
 
+The distributional extension is grounded separately in CFPB evidence. Its overdraft/NSF research links frequent fee exposure with greater household financial vulnerability, while its BNPL work documents simultaneous obligations and borrowing across multiple providers. Those sources support the narrower claim that a household-wide agent can improve visibility and sequencing while still being unable to manufacture liquidity, assets, income stability, or affordable credit.
+
 ### Returns, repair, and reverse logistics
 
 National Retail Federation research on the 2025 returns landscape provides a current industry estimate of return volume, online return rates, consumer expectations, fraud, and merchant priorities. NRF is an industry body and the figures are survey-based, so the manuscript uses them for scale and direction rather than treating them as an official national ledger. European ecodesign and digital-product-passport policy provides a separate institutional lane for repairability, product information, and lifecycle legibility.
@@ -109,6 +113,7 @@ Several developments would materially weaken the strongest version of the book�
 - Lenders may restrict agent access, or the most attractive financial offers may remain unavailable to households that most need them.
 - Demand aggregation may remain confined to a few regulated or standardized markets because heterogeneous preferences destroy group economies of scale.
 - Collective consumer agents may become another concentrated intermediary rather than a counterweight to platform power.
+- In scarcity-bound markets, better search may mainly improve allocation or document the bottleneck rather than lower prices or expand supply.
 
 ## Falsification discipline
 
@@ -124,8 +129,10 @@ Distinguish consumer surplus from transfer. A lower merchant margin may be a tra
 
 Distinguish transaction convenience from lifecycle welfare. A product that is easy to buy can be costly to return, repair, finance, or dispose of. The agentic consumer thesis is strongest when the system optimizes the whole relationship rather than merely conversion.
 
+Distinguish removable friction from underlying scarcity. Better representation can reduce search, administrative, and switching costs without creating housing, infrastructure, skilled labor, physical capacity, or household financial slack.
+
 ## Research vintage
 
-Primary research pass: August 2026.
+Primary research pass: August–September 2026.
 
 The fastest-aging material is concentrated in Chapters 1, 4, 5, 7, 12, 14–16, 20–21, and 23 because protocols, product integrations, payment systems, retail policies, credit markets, and platform strategies are changing quickly. Those chapters should receive the first factual refresh in any later edition.

@@ -1,0 +1,9 @@
+{
+  "year": 2026,
+  "author_or_institution": "International Energy Agency",
+  "title": "Global Energy Review 2026 — Technology: Battery storage",
+  "source_type": "Authoritative intergovernmental analysis",
+  "book_use": "Chapter 11 primary evidence for 2025 battery-storage deployment: 108 GW added globally, up 40% year over year, installed capacity eleven times 2021 levels, around 80% of additions utility-scale, LFP around 90% of deployments, and storage durations gradually lengthening beyond the still-common two-hour project",
+  "url": "https://www.iea.org/reports/global-energy-review-2026/technology-battery-storage",
+  "notes": "IEA states that 108 GW of new battery storage capacity was deployed worldwide in 2025, 40% more than in 2024, with installed capacity eleven times higher than in 2021; around 80% of additions were utility-scale and LFP represented around 90% of deployments. The report also says most projects still cluster around two hours while more four-hour-plus projects are appearing. Treat these as deployment statistics and technology-mix observations, not evidence that short-duration batteries can provide seasonal storage or replace transmission and firm generation."
+}

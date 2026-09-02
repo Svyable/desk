@@ -80,6 +80,44 @@ This will look wasteful on a quarterly spreadsheet.
 
 So does maintaining a fire department when nothing is burning.
 
+That waste will need a name because unnamed costs are easy to eliminate.
+
+Call it the training tax.
+
+An institution pays the training tax whenever it chooses a slower or more expensive human learning path even though an agent could perform the immediate task more efficiently. A junior lawyer writes the first draft. A young engineer traces the outage manually before consulting the automated diagnosis. A medical trainee takes the history rather than reading only the machine summary. An analyst builds the model once before inheriting the agent-generated one.
+
+The output may not improve that day.
+
+The institution is purchasing future judgment.
+
+This creates a classic accounting problem. The cost appears now. The return arrives years later, perhaps at another employer. A company that trains deeply may watch competitors poach the people it trained. A firm that automates aggressively can report higher short-term productivity while free-riding on an industry whose veterans were trained under older, more labor-intensive systems.
+
+If everyone optimizes locally, apprenticeship can become a commons problem.
+
+The profession needs experienced people in ten years.
+
+No individual firm wants to pay for inefficient work today.
+
+We have encountered this pattern before. Societies subsidize education, apprenticeships, residencies, military training, and professional licensing partly because markets do not always reward the institution that bears the full cost of producing competence.
+
+Agentic work will make the mismatch sharper.
+
+The irony is that agents themselves could help repair it.
+
+A training system can give a junior worker a difficult task, observe the attempt, withhold the answer until the person commits to a diagnosis, introduce counterexamples, and simulate rare cases that the real workplace no longer generates often enough. The same technology that removes routine practice can manufacture deliberate practice.
+
+But deliberate practice has to be designed.
+
+Without that intervention, the natural economic pressure runs the other way: let the machine do what it already does better.
+
+The labor market may therefore divide not only by occupation but by access to learning environments.
+
+Prestigious firms could afford to preserve human apprenticeship because they can treat training as a long-term asset. Smaller firms might rely almost entirely on agent execution. Wealthier workers may buy sophisticated tutors, simulations, and agent-assisted practice. Others may be asked to supervise systems they were never given the chance to understand.
+
+That would create a peculiar new class divide: people who use agents because they know the underlying work and people who use agents because they have no alternative.
+
+Both may look equally productive until the unusual case arrives.
+
 The second labor question concerns management.
 
 Management exists partly because coordination is costly.
@@ -103,6 +141,22 @@ Who has authority to override whom?
 The best managers may become people who can create habitats in which agents produce useful work without gaming the institution to death.
 
 That is closer to governance than supervision.
+
+It also changes what managerial scale means.
+
+Historically, one reason firms acquire layers is that a person can directly coordinate only so much complexity. Information gets summarized as it moves upward. Decisions get delegated because senior attention is scarce. Middle managers become compression layers between the work and the people who allocate resources.
+
+Agents can alter that compression ratio.
+
+A leader may be able to inspect far more activity through machine summaries, simulations, exception reports, and persistent organizational memory. A small management team may direct an operational surface that once required several layers of hierarchy.
+
+That does not abolish hierarchy. It changes where hierarchy earns its keep.
+
+A manager whose main value was moving information between meetings is vulnerable. A manager who resolves conflicting objectives, carries accountability, develops people, negotiates with outsiders, and knows which metric should not be optimized becomes more important.
+
+The swarm attacks coordination overhead before it solves governance.
+
+That distinction will decide whether compressed firms become nimble or brittle.
 
 The third labor question is stranger.
 
@@ -182,6 +236,34 @@ The same technology that compresses organizations can increase the bargaining po
 
 That condition matters.
 
+Coordination has always been a form of capital.
+
+A large organization can afford legal departments, procurement specialists, schedulers, analysts, compliance systems, lobbying staff, and institutional memory. An individual usually cannot. The organization does not need every employee to be smarter than the person across the table. It often wins because it can assemble more expertise, remember more history, wait longer, and keep pursuing the matter after the individual becomes exhausted.
+
+This is one reason bureaucracy feels asymmetric when encountered alone.
+
+The institution can keep going.
+
+You have to get back to work.
+
+Personal agents could reduce that asymmetry. A renter might arrive at a dispute with every maintenance request organized, the relevant lease language extracted, deadlines tracked, comparable cases summarized, and correspondence drafted. A small supplier could negotiate against a giant company's procurement system with its own memory of every concession, payment delay, and contract change. A patient could maintain a longitudinal administrative record that survives insurer portals, provider changes, and lost paperwork.
+
+None of this requires the personal agent to be smarter than the corporation's system.
+
+It needs persistence.
+
+Persistence is a form of power when institutions rely on the other side becoming tired.
+
+That makes portability politically important. If your agent's memory, reputation, and learned preferences disappear whenever you change employers, banks, platforms, or insurers, then the coordination advantage remains with institutions. The individual rents intelligence but does not accumulate organizational capital.
+
+A genuinely personal agent would work differently.
+
+Its memory would be portable. Its permissions would be revocable. Its important records would not vanish with a subscription. It could represent the same person across institutions without becoming the property of any one of them.
+
+This sounds like product design.
+
+It is labor policy.
+
 If only large institutions can afford capable, trusted, deeply integrated agents, the swarm centralizes power.
 
 If ordinary people can own portable agents with access to their own data, history, preferences, and legal rights, the swarm can decentralize power.
@@ -205,6 +287,28 @@ Can an agent sign a noncompete?
 Can a worker inspect the agent that evaluates their performance?
 
 Can they send their own agent to negotiate with it?
+
+There is a distributional question underneath all of these design questions.
+
+When coordination becomes cheaper, somebody captures the savings.
+
+It may appear as lower prices.
+
+It may appear as higher profits.
+
+It may appear as higher wages for the people who control large agent fleets.
+
+It may appear as lower wages for workers whose bargaining power depended on scarce organizational skill.
+
+It may appear as new businesses that were previously too small to support administrative overhead.
+
+It may appear as leisure.
+
+Nothing in the technology determines the split automatically.
+
+Productivity is not a distribution mechanism.
+
+Institutions decide who receives the dividend through ownership, competition, labor law, taxation, bargaining, norms, and the practical ability to leave one arrangement for another.
 
 The labor question begins with employment statistics.
 
