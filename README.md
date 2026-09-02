@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 55 book projects · 20 complete drafts · 1 in revision · 34 drafting**
+> **Desk: 55 book projects · 21 complete drafts · 1 in revision · 33 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 5 author projects · 3 released · 2 public drafts/proofs**
 > **Where they live: 5 in both Desk + Shelf · 50 Desk-only · 0 Shelf-only**
-> **Release review queue: 18 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Release review queue: 19 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Built to Be Alone](books/the-loneliness-dividend/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Public Pressure](books/public-pressure/), [Restructuring America](books/restructuring-america/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/).
+**Desk-only complete drafts awaiting an explicit release decision:** [Built to Be Alone](books/the-loneliness-dividend/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Public Pressure](books/public-pressure/), [Restructuring America](books/restructuring-america/), [Right To Try](books/right-to-try/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/).
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -62,7 +62,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 / 29 | ~100K | When synthetic abundance makes convincing content cheap, provenance, personhood, verification, and costly authenticity become scarce economic goods. | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 / 23 | ~80K | AI lowers the cost of automated authority, synthetic persuasion, and organizing while making accountability, evidence, appeal, compensation, and legitimate public pressure more important. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | ~70K | Artificial intelligence can make cognition cheaper without making land, electricity, housing, water, transmission, permitting, skilled field work, or institutional coordination cheap. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
-| [**Right To Try**](books/right-to-try/) | ✍️ Drafting | 20 / 20 | ~70K | Personalized medicine at the border of permission: who may treat, manufacture, charge, learn, and follow up when the therapy is made for one patient or available only through a narrow pathway or jurisdiction. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
+| [**Right To Try**](books/right-to-try/) | ✅ Complete draft | 20 / 20 | ~70K | Personalized medicine at the border of permission: who may treat, manufacture, charge, learn, and follow up when the therapy is made for one patient or available only through a narrow pathway or jurisdiction. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 4 / 25 | ~16K | Scale changes systems qualitatively: bottlenecks move, coordination changes, rare events appear, and rules that worked in one regime fail in another. | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | 21 / 21 | ~75K | What happens to competition when firms do not explicitly collude but increasingly share algorithms, pricing vendors, data, incentives, and machine-mediated behavior. | [Read →](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | 12 / 12 | ~45K | Chokepoints can be worth more than scale: a tour of concentrated infrastructure, supply chains, standards, and dependencies that quietly run the world. | [Read →](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
