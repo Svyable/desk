@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 56 book projects · 24 complete drafts · 1 in revision · 31 drafting**
+> **Desk: 58 book projects · 24 complete drafts · 1 in revision · 33 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 6 author projects · 4 released · 2 public drafts/proofs**
-> **Where they live: 6 in both Desk + Shelf · 50 Desk-only · 0 Shelf-only**
+> **Where they live: 6 in both Desk + Shelf · 52 Desk-only · 0 Shelf-only**
 > **Release review queue: 21 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -51,6 +51,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✅ Complete draft | 22 of 22 | ~80K | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
+| [**Fiscal Wall**](books/fiscal-wall/) | ✍️ Drafting | 18 of 18 drafted | ~70K | A market-structure account of the Treasury refinancing cycle: auctions, dealers, repo, foreign demand, the Fed, and what higher rates do to fiscal room. | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✍️ Drafting | 6 of 21 | 17,610 | This is an unpublished Desk manuscript. Its central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
 | [**Intelligence State**](books/intelligence-state/) | ✍️ Drafting | Prologue + 10 of 17 chapters | 31,187 | 11. The Eighty Percent Problem 12. The New Middle Class Is Augmented 13. Government Gets an Agent 14. The Language Border | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | 25 of 25 | 65,857 | The manuscript now carries an afterword for the August 30, 2026 threshold: the moment long-horizon, correction-remembering, collaborating agents became plausible enough to change the… | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
@@ -65,6 +66,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | 85,169 | The book begins with the historical purpose of public works and the changing economics of intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right To Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,965 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 10 of 25 | 24,192 | The working thesis is simple: scale is not just more. A system that becomes ten times larger often becomes a different kind of system. Costs bend, bottlenecks move, coordination changes… | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
+| [**Second Guess**](books/second-guess/) | ✍️ Drafting | 20 of 20 drafted | ~77K | As automated recommendation spreads into cockpits, reading rooms, courtrooms, warehouses, trading desks, and cars, the decisive skill becomes knowing when a system has earned your trust, your skepticism, or your override. | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | 21 of 21 | 65,532 | The working thesis is that American and European antitrust law were built around a single, century-old assumption: that fixing a price requires an agreement, that an agreement requires… | [Read →](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | 12 of 12 | 17,847 | The working thesis is that global scale has stopped being the main source of economic power. | [Read →](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
 | [**Source Code**](books/source-code/) | ✍️ Drafting | 8 of 24 | 16,671 | The working thesis is that general AI capability will diffuse rapidly across companies, while truthful comprehension of a company's own product and tooling code remains scarce. | [Read →](https://svyable.github.io/desk/reader/#/b/source-code/) |
