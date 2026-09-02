@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 0 of 22 drafted |
+| **Chapters**  | 1 of 22 drafted |
 
 What Happens When the Actuaries Are Wrong About Everything at Once.
 
@@ -19,7 +19,7 @@ It is not a book about immortality. It tries to hold two facts that are both tru
 ## Contents
 
 - [ ] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — The Actuary's Bet](manuscript/ch01-the-actuarys-bet.md)
+- [x] [Ch 1 — The Actuary's Bet](manuscript/ch01-the-actuarys-bet.md)
 - [ ] [Ch 2 — The Line That Wouldn't Bend](manuscript/ch02-the-line-that-wouldnt-bend.md)
 - [ ] [Ch 3 — Aging Gets a Disease Code](manuscript/ch03-aging-gets-a-disease-code.md)
 - [ ] [Ch 4 — The Ozempic Economy](manuscript/ch04-the-ozempic-economy.md)
