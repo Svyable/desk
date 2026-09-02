@@ -33,6 +33,7 @@ Artificial intelligence can make public administration dramatically cheaper. The
 - [Book-wide source notes](research/source-notes.md)
 - [The Capacity Budget — source notes](research/capacity-budget-sources.md)
 - [The Geography of Capacity — source notes](research/geography-of-capacity-sources.md)
+- [Release review — 2026-09-01](research/release-review-2026-09-01.md)
 
 The Desk edition remains the working copy after release; Shelf receives a deliberate publication snapshot.
 
