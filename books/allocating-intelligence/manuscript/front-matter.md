@@ -2,7 +2,11 @@
 
 *Who Gets the Mind, When It Matters*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+Copyright © 2026 Sven Hardy Benson
+
+All Rights Reserved.
 
 There is a particular kind of mistake people make when a scarce thing becomes abundant. We imagine scarcity has ended. Usually it has only moved.
 
