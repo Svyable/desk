@@ -34,11 +34,13 @@ The central question is not whether machines become more intelligent. It is **wh
 - [x] [Ch 16 — The Abundance Dividend](manuscript/ch16-the-abundance-dividend.md)
 - [x] [Ch 17 — The Missing Complement](manuscript/ch17-the-missing-complement.md)
 - [x] [Ch 18 — The Fiber Survives the Financing](manuscript/ch18-the-fiber-survives-the-financing.md)
+- [x] [Interlude — Who Pays for the Boom?](manuscript/interlude-who-pays-for-the-boom.md)
 - [x] [Epilogue — After the Machines Learn](manuscript/epilogue-after-the-machines-learn.md)
 - [x] [Appendix A — The AI Value Stack](manuscript/appendix-a-the-ai-value-stack.md)
 - [x] [Appendix B — The Deflation Test](manuscript/appendix-b-the-deflation-test.md)
 - [x] [Appendix C — The Four AI Moats](manuscript/appendix-c-the-four-ai-moats.md)
 - [x] [Appendix D — Capital-Cycle Warning System](manuscript/appendix-d-capital-cycle-warning-system.md)
+- [x] [Appendix E — Three 2030s](manuscript/appendix-e-three-2030s.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research trail
