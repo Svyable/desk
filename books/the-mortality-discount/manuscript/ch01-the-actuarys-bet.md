@@ -1,43 +1,177 @@
 # The Actuary's Bet
 
-In 1693, a mathematician in London who had never set foot in Breslau built the first table anyone had ever made of how long a human being could expect to live, using a dead city clerk's paperwork from a place he knew only by reputation.
+An actuary does not need to know when you will die.
 
-Edmond Halley is remembered today mostly for a comet, which is a little unfair, because the comet required less originality than the table. Halley wanted to know what an annuity was actually worth — how much a government or a private buyer should pay for the right to receive a fixed income for the rest of someone's life — and the honest answer was that nobody knew. Annuities were being bought and sold across Europe priced more or less the same regardless of the buyer's age, which meant a seller could unload an annuity on an eighty-year-old at the same price as a thirty-year-old and simply hope nobody at the counting house did the math. Some governments were selling life annuities to finance wars this way, which is a specific kind of fiscal optimism.
+That is the first trick.
 
-What Halley needed was data nobody in London had bothered to collect properly. London kept "Bills of Mortality," weekly parish tallies of burials and, later, causes of death, that a mathematician named John Graunt had already used, three decades earlier, to produce the first systematic tabulation of causes of death and urban-versus-rural mortality in his 1662 "Natural and Political Observations Made upon the Bills of Mortality" — a modest, strange little book now generally credited as the founding document of demographic statistics, though historians still argue about how much of the underlying analysis belonged to Graunt's friend William Petty rather than Graunt himself. London's bills were rich with deaths. What they lacked was ages. A city clerk recorded that a woman had died and been buried in a particular parish in a particular week; he did not reliably record how old she had been when she died. Without age at death, you can count how many people a city loses each year. You cannot build a table that tells you, of one hundred people who reach their thirtieth birthday, how many will still be alive at forty, fifty, seventy. You cannot price a life.
+The second is harder: the actuary has to know, with enough accuracy to move money today, when people like you tend to die.
 
-Breslau could. A local pastor and amateur naturalist named Caspar Neumann had, for reasons of his own scholarly curiosity, been keeping unusually complete birth and death records for the city, including ages, and had begun sending them to the Royal Society in London in the hope that someone there could make sense of a pattern he'd noticed: Breslau's population did not seem to be growing, despite what looked like a healthy excess of births over deaths. Neumann suspected migration was quietly draining the difference away — people leaving as fast as babies were born to replace them — and he was right, which is itself a small, early instance of a theme this whole book keeps returning to: population totals can mislead badly if you don't look at what's actually moving underneath them. Halley used five years of Neumann's Breslau records, a city of some thirty-four thousand people, to build a life table showing, for every age from birth to eighty-four, how many of an initial cohort would still be alive. He then used the table to price annuities correctly for the first time in history — a seven-year-old's annuity, he showed, should not cost the same as a sixty-year-old's, and he could now say by how much, expressed in real numbers rather than intuition or hope.
+A life insurer can promise a payment decades from now because it does not price one death. It prices a population. A pension fund can promise checks to thousands of retirees because it does not need to know whether one teacher will live to seventy-four or ninety-six. It needs to know how many teachers, taken together, are likely to be alive at each age. A government retirement system does the same thing at a scale large enough to look like policy rather than a wager.
 
-He chose Breslau over London for a reason worth sitting with. London was the biggest, richest, most consequential city in England, and it was useless for this particular purpose, because too many people moved in and out of it for the records to describe a stable population — you could not tell whether someone had died or simply left. Breslau was smaller, landlocked, and demographically boring in exactly the way that made its numbers trustworthy. The most important data set in the early history of actuarial science came from a mid-sized Central European city precisely because nothing very dramatic was happening there. This is a pattern too: the institutions built to price a life have always depended on finding, or manufacturing, a kind of statistical stillness — a population predictable enough to be described by a table — and applying its numbers everywhere else, including to people and places that don't actually resemble it.
+But it is still a wager.
 
-## What a table is for
+The wager is hidden by the table.
 
-A life table looks, at first glance, like a piece of demography: a list of ages, and next to each age, the fraction of some starting population still alive. It is also something else, which is why insurers, pension funds, and governments have never stopped needing one. It is a machine for converting an unanswerable individual question — how long will this particular person live? — into an answerable collective one: of a large group of similar people, how many will still be alive at each future age? No one can price a single stranger's remaining lifespan. Everyone in the business of promising people money conditional on being alive to receive it — an annuity, a pension, a life insurance payout, a retirement age — needs to price it anyway, at scale, across millions of strangers at once. The life table is the tool that makes that possible. It takes uncertainty that cannot be resolved for any one person and replaces it, for a large enough group, with a number precise enough to build a business, or a government program, on top of.
+Rows of ages, columns of probabilities, smooth curves descending toward zero: the form makes mortality look like a property of nature, as fixed as gravity. Yet every mortality table is a record of somebody's past being used to make a claim about somebody else's future. It is empirical, revised, disciplined, and often very good. It is also conditional on a world that may not cooperate.
 
-That substitution is powerful, and it is also the exact place where trouble enters, because a life table is not a law of nature. It is a snapshot, built from a particular population, at a particular moment, under conditions that may or may not still hold by the time anyone acts on it. Halley's own table, elegant as it was for 1693, was not perfect even on its own terms — a 2011 reanalysis by the statistician David Bellhouse found computational imperfections in Halley's original construction, quietly revised by actuarial science in the centuries since without much fanfare, because that is what happens to founding documents in a field that keeps measuring itself against reality. The lesson was not that Halley had failed. It was that even the first table, built by one of the more careful minds of his century from the best data then available, was a working approximation that later evidence would need to correct. Every life table since has been the same kind of object: the best current guess, dressed up in enough decimal places to look like a fact, waiting for its own eventual correction.
+That conditionality is the subject of this book.
 
-Most of the time, the correction is slow and unremarkable. A national statistics office updates its mortality assumptions every few years as death rates drift a little, in one direction or another, and pension actuaries adjust their models accordingly, and nobody outside the profession notices, because the drift is small and gradual enough for institutions to absorb it a percentage point at a time. This book is about what happens when the drift stops being small and gradual — when the number an institution built its promises on turns out to be moving faster, or in a stranger direction, or in two contradictory directions at once, than the slow-adjustment machinery was ever designed to handle.
+The basic intellectual move is more than three centuries old. In the seventeenth century, cities were becoming large enough, bureaucracies literate enough, and commercial life complicated enough that death could begin to be counted as something other than fate. London had weekly Bills of Mortality: grim administrative lists recording burials and causes of death. John Graunt studied them in the 1660s and found patterns where most people had seen only funerals. He compared years, causes, sexes, and neighborhoods. The categories were crude by modern standards. The records were incomplete. Some causes of death sound to a modern ear like a language from a different biological universe. But the move mattered: death, in aggregate, displayed regularities.
 
-## The discount hiding inside every promise
+Three decades later Edmond Halley used mortality records from Breslau to construct an age-specific life table. Halley is now better remembered for a comet, which is unfair to the table. The comet demonstrated that an apparently singular celestial event could be brought under prediction. The mortality table made a similar claim about a much more intimate uncertainty.
 
-Finance has a concept, familiar to anyone who has valued a bond or a business, called a discount rate: the idea that a dollar promised ten years from now is worth less today than a dollar in hand, and that the gap between them can be expressed as a single number, compounding, that lets you translate any future cash flow into a present value you can actually price. Every institution that prices a human life is doing a close cousin of the same operation, though the profession does not usually put it this way. A life table takes an uncertain, unknowable future — how long will this specific cohort of people actually live — and compresses it into a present number: expected years remaining, at this age, for this population, under these assumptions. A pension fund prices its liabilities against that number. An insurer prices a policy against it. A government sets a retirement age with an implicit version of it in mind, usually one already a generation or two stale by the time a reform finally updates it, as later chapters on the political history of retirement ages will show in some detail. A life table is, in this sense, a mortality discount: a rate, embedded quietly in an assumption rather than posted on a term sheet, that converts the unresolvable fact of a human lifespan into something an institution can build a promise on.
+It did not predict a death. It predicted the distribution of deaths.
 
-The trouble with a hidden discount rate is that you can be wrong about it for a very long time before the bill comes due. A pension fund that assumes members will live, on average, to eighty-three does not find out it was wrong the year it makes that assumption. It finds out fifteen or twenty years later, when the people it promised income to are still collecting checks past the point the actuarial tables said they would be, and the fund's assets — invested and grown against the old assumption — no longer stretch far enough to cover the new reality. By the time the mispricing becomes visible, the promises are already made, the beneficiaries are already old, and there is no version of the correction that does not involve someone absorbing a loss nobody budgeted for: the retirees, in the form of benefit cuts; the sponsoring employer or government, in the form of a bailout; or, if the fund is well run and got lucky elsewhere, an unglamorous erosion of the fund's own reserves that only actuaries notice until the next stress test forces the number into daylight.
+That distinction built industries.
 
-This is the shape this book is interested in, and it is a shape with historical precedent well outside pensions and insurance. Societies have made this mistake before with transformative technologies: they correctly sense that something fundamental has changed, and then misprice the timetable, the distribution of the gains, and who ends up holding the institutions built for the old assumptions. Railroads really did transform the nineteenth-century economy, and still bankrupted a large fraction of the investors who financed them, because the pace of profitable adoption ran well behind the pace of capital that poured in expecting it. The same shape recurs, in a different register, with mortality itself. A society can be broadly right that something important is changing about how long people live and how many people will exist to grow old, and still be badly wrong about the timetable, the distribution, and which institutions get caught holding an assumption that quietly stopped being true years before anyone updated the spreadsheet.
+Once mortality could be represented by age, probability, and time, money contingent on survival could be priced with something better than instinct. An annuity could be valued according to the chance that its recipient would remain alive to collect future payments. A life-insurance premium could be related to the chance that the insurer would have to pay a claim. The mathematical machinery would become far more sophisticated, but the commercial foundation was already visible: if enough lives could be pooled, individual uncertainty could become collective regularity.
 
-## Two forces, moving in different directions
+The Institution and Faculty of Actuaries traces the scientific foundations of modern life assurance through Halley's 1693 table, James Dodson's work on level premiums, the 1762 creation of the Society for Equitable Assurances, and Richard Price's later work on life contingencies. The Equitable mattered because it helped turn mortality mathematics into an operating institution. The calculation was no longer an essay about how long people lived. It was attached to contracts that had to survive the people who wrote them.
 
-What makes the present moment an unusually interesting one to write this book, rather than an arbitrary one, is that the mortality discount is currently being strained from two directions that do not point the same way, and that most public conversation treats as though they were unrelated.
+This is where the morality of actuarial work gets tangled with its mathematics.
 
-The first is a biotechnology industry that has, for the first time at real scale, begun treating aging itself as a target rather than a background condition to work around. The chapters immediately ahead look closely at what that actually means in practice, and the honest picture is more mixed than either the press releases or the skeptics suggest: a regulatory apparatus that has only very partially and contestedly begun to recognize aging as something a drug trial can be built around; a diabetes drug that turned into the most economically consequential pharmaceutical story of the decade almost by accident, dragging the whole idea of "longevity medicine" into the mainstream on its coattails; a parade of well-funded biotech companies, some of them backed by billionaires with a personal stake in the outcome, chasing therapies that reverse cellular aging directly, several of which have already failed expensively and publicly and none of which have yet been proven safe and effective in humans at scale. None of that means nothing is happening. It means what is happening is genuinely earlier-stage, more contested, and more failure-prone than the popular version of the story, and a reader trying to price it accurately needs the failures in view alongside the breakthroughs, not filtered out because they're less exciting.
+A promise about the future is only humane if it can still be paid when the future arrives. A widow does not benefit from generous assumptions that bankrupt the insurer before the claim. A pensioner does not benefit from a retirement promise whose arithmetic depended on everyone dying several years earlier. Prudence can look cold because the object being modeled is death. The coldness is also what makes the promise durable.
 
-The second force is moving in something close to the opposite direction, and it gets far less attention outside demography departments and a handful of alarmed economists: most of the world's largest economies are now having far fewer children than they need to replace their own populations, in some cases by an enormous margin, and the institutions built around a growing or at least stable population of future workers, taxpayers, and pension contributors are having to reckon with what happens when that assumption breaks instead. A longer, healthier individual life and a shrinking supply of future lives are not opposites, exactly, but they pull on the same institutions from different sides at once. A pension system strained by people living longer than expected is one kind of problem. A pension system strained by there being far fewer workers per retiree than the system assumed when it was designed is a related but distinct kind of problem. A society dealing with both simultaneously — longer individual lives, fewer new ones being born — is dealing with something genuinely new in scale, even though each piece has a long history on its own.
+For a long time, mortality improvement helped the system more than it threatened it.
 
-Neither force, examined honestly, supports a simple story. The biotech chapters ahead will spend as much time on TAME's decade-long funding shortfall, Unity Biotechnology's collapsed osteoarthritis trial, and the still-unresolved scientific debate over what a biological age clock actually measures, as they will on the genuine and substantial science that has emerged since the "hallmarks of aging" framework gave a scattered field a shared vocabulary in 2013. The demographic chapters will spend real time on South Korea's roughly two hundred billion dollars, by various tallies, of pronatalist spending that has so far failed to lift its fertility rate anywhere near replacement level, and on the genuine, ongoing disagreement among serious demographers about whether the coming population decline is a slow-moving catastrophe, an overstated panic, or something in between that mostly requires better care policy rather than more babies. What both halves of the story share is the same underlying mechanism this chapter opened with: an institution somewhere built a promise on a number, the number is moving, and the people who will eventually discover how much it moved are, for now, still making the promise as though it hadn't.
+Life insurers sell protection against early death. If their policyholders die more slowly than expected, the insurer often pays claims later than expected. Annuities and pensions run the other way. Their danger is survival. If retirees live longer than assumed, checks continue for more years. The same improvement in human health can therefore be favorable to one liability and painful to another.
 
-## What follows
+That asymmetry is easy to miss when people say that life expectancy is rising as though the statement has a single financial meaning. It does not. Longevity creates winners and losers before anyone debates whether it is socially good.
 
-The rest of this book tries to price that gap as honestly as the evidence allows, moving between the laboratory, the demographer's spreadsheet, and the actuary's model, because none of the three tells the whole story alone. It looks at where the science of aging genuinely stands, failures included, not just the funding rounds. It looks at where the world's fertility collapse actually is, country by country, and at what has happened, concretely, when governments have tried to spend their way out of it. And it returns, again and again, to the institutions that were built on the old assumption — pensions, insurers, retirement systems, careers, families — to ask how much of what they promised still rests on a table that was accurate enough in 1980, or 1935, or 1889, and has not yet been told that the world it was describing has started to move.
+The profession learned this slowly, then repeatedly.
 
-Halley never lived to see whether his Breslau table held up over the following century; it didn't, not exactly, though it held up well enough to be useful for a very long time, which is probably the most any life table can honestly promise. The institutions built on top of the tables now in use are making a similar bet, mostly without saying so out loud. This book is an attempt to say it out loud.
+Mortality tables were never carved once and left alone. Insurers and pension systems collected experience, compared actual deaths with expected deaths, and replaced old tables when experience drifted. The Society of Actuaries still publishes studies comparing observed mortality with standard industry tables. Its mortality database contains thousands of tables from different populations, products, and eras. The modern actuarial world is not built around one oracle. It is built around continuous correction.
+
+This matters because the strongest version of the argument in this book would otherwise be wrong.
+
+Actuaries are not naive people who assume that mortality never changes. They are among the people most professionally obsessed with the fact that it does. Mortality improvement scales exist precisely to project changes in death rates over time. Pension actuaries have spent decades modeling future improvement. Life insurers update assumptions, regulators revise valuation standards, and institutions run sensitivities around adverse experience.
+
+The interesting question is not whether actuaries know mortality moves.
+
+The interesting question is what happens when the movement becomes harder to extrapolate from the recent past.
+
+The entire practice depends, in one form or another, on a relationship between observation and projection. You observe mortality experience. You smooth noise. You distinguish populations. You form a view about improvement. Then you extend that view into years that have not happened yet.
+
+Sometimes the future is obliging.
+
+Sometimes it is COVID-19.
+
+Sometimes it is an opioid epidemic concentrated in particular ages and places. Sometimes it is a new cancer therapy that extends survival for a subset of patients. Sometimes it is a collapse in smoking. Sometimes it is obesity. Sometimes it is heat. Sometimes it is a vaccination campaign, a war, an antibiotic, a recession, a fentanyl supply shock, or a public-health intervention whose full effect takes years to emerge.
+
+Mortality is stable enough to model and unstable enough to embarrass the modeler.
+
+That tension is not a failure of actuarial science. It is the reason actuarial science exists.
+
+The danger begins when institutions built on models forget that the model is a negotiated truce with uncertainty.
+
+Consider what a mortality assumption does inside a pension plan. A small change in expected longevity does not stay small. It changes how many future payments are expected. Those payments are discounted back to the present. The resulting liability affects contributions, funding ratios, investment strategy, corporate balance sheets, public budgets, and political fights over who should pay. A few extra months of expected life across a large population can become a material financial fact.
+
+The same effect appears in annuities. The insurer receives money today and promises income while the customer remains alive. The customer is effectively betting on survival; the insurer is pricing that survival. If the insurer underestimates longevity, it has sold too much future income for too little present capital.
+
+Life insurance reverses the exposure but not the underlying dependence. Premiums, reserves, product design, underwriting, and capital all depend on mortality assumptions. Modern tables can distinguish by sex, smoking status, underwriting class, and other characteristics. They can use select periods and ultimate rates. They can incorporate mortality improvement. The table is richer than Halley's by orders of magnitude.
+
+The fundamental act is the same.
+
+Turn lives into a distribution, then turn the distribution into a price.
+
+This sounds harsher than it is. The alternative is not a world in which institutions honor the uniqueness of every person. The alternative is often a world in which they cannot make long promises at all.
+
+Pooling works because nobody has to know which individual dies first. Insurance is possible because uncertainty at the individual level can become measurable at scale. The same abstraction that strips away biography also makes mutual protection possible.
+
+The moral problem arrives when the distribution is mistaken for the person.
+
+A population average can be statistically accurate and socially misleading. Life expectancy can differ sharply across income, place, race, occupation, and health status. Retirement ages, pension formulas, and annuity prices built around averages can therefore redistribute between groups whose actual survival prospects differ. A policy that looks neutral in the table may not be neutral in lived years.
+
+This will become important later, when we ask who benefits from future gains in longevity. There is no reason to assume that a therapy, behavior, or public-health improvement will arrive everywhere at once. The history of health is full of diffusion lags. Wealthier and better-connected populations often gain earlier access to new interventions. If future life extension is uneven, the mortality table may improve while inequality in realized lifespan widens.
+
+Averages can move in the right direction and still conceal the argument that matters.
+
+There is another problem. Institutions do not all experience mortality at the same scale or with the same ability to revise.
+
+An insurer can reprice new business. A pension promise to an existing retiree is harder to change. A national retirement system is embedded in law and politics. A family deciding whether savings will last through retirement does not have a risk committee. An employer designing a career ladder can quietly assume that people will enter at twenty-two, peak in midlife, and leave around sixty-five even if no mortality table appears in the human-resources manual.
+
+The farther a mortality assumption travels from actuarial practice into social convention, the less visible it becomes.
+
+Sixty-five feels like an age. It is also a design parameter.
+
+A thirty-year mortgage feels like a product. It is also a claim about the economically useful span of a household's future.
+
+A career ladder, a retirement account, a widow's annuity, a life-insurance policy, a nursing-home forecast, a government budget: all contain an idea, explicit or implicit, about how long people will remain alive and in what condition.
+
+The idea does not have to be perfectly wrong to create stress. It only has to be wrong in a direction that accumulates.
+
+This is why the current longevity conversation is so difficult to price intellectually.
+
+One side of the culture talks as though aging is about to become optional. The language is full of escape velocity, rejuvenation, reversal, clocks, hallmarks, and moonshots. Capital has flowed into companies trying to manipulate cellular aging, clear senescent cells, reprogram epigenetic states, and target pathways first identified in model organisms. Some interventions have strong biological rationales. Some have striking animal data. Some have failed. Many have not shown that they extend healthy human lifespan at all.
+
+The other side can sound equally confident. Human lifespan has limits. Gains are slowing. Biology is not software. Most mice are not people. The history of anti-aging medicine is littered with claims that looked ridiculous after enough time passed.
+
+Both sides can cite real evidence.
+
+That is precisely the problem.
+
+If a pension fund knew for certain that no material longevity breakthrough would occur for fifty years, it could model within a familiar range. If an insurer knew for certain that a therapy would add eight healthy years to a well-defined population beginning in 2035, it could begin repricing. Radical uncertainty is not created by optimism alone. It is created by plausible futures with very different financial consequences.
+
+And the uncertainty is arriving beside another shift that points in a different direction.
+
+Many rich and middle-income countries are having fewer children. That does not directly tell us how long current adults will live. It changes the age structure beneath them. Fewer future workers, more older dependents, and a smaller base of contributors can stress public retirement and health systems even if individual longevity barely improves. If longevity improves substantially while fertility remains low, the same institutions face both a longer duration of old age and a thinner population beneath it.
+
+The two trends are often discussed separately because they belong to different intellectual tribes. Longevity biotech lives in laboratories, venture funds, and medical journals. Fertility lives in demography, housing, labor economics, and family policy. Actuarial exposure sits downstream of both.
+
+That downstream position is why the actuary belongs at the beginning of the book.
+
+The actuary is the person forced to convert argument into liability.
+
+A futurist can say that people may live to one hundred and twenty. A skeptic can say they will not. A pension actuary eventually has to put a number in the model.
+
+The number will be wrong.
+
+That statement is not an insult. A projection about a future population cannot be literally correct in every cell. The professional question is whether it is wrong within a range the institution can absorb, whether the errors are correlated, whether they persist, and whether the institution can revise fast enough when reality departs from expectation.
+
+The history of actuarial practice offers grounds for humility and for confidence.
+
+Confidence first. Institutions have survived large changes in mortality before. The twentieth century brought sanitation, vaccination, antibiotics, safer childbirth, falling infant mortality, cardiovascular treatment, reduced smoking in many populations, and major shifts in occupational risk. Actuarial tables changed. Products changed. Reserves changed. Pension assumptions changed. The world did not discover longevity risk in 2026.
+
+That is the most important counterargument to this book's premise, and it should remain visible all the way through.
+
+The machinery adapts.
+
+But humility follows. Adaptation is not free, instant, or evenly distributed. When assumptions change, somebody contributes more, receives less, holds more capital, retires later, bears more market risk, or absorbs a loss. A system can survive repricing while still producing political and financial pain.
+
+There is also a difference between a trend and a regime change.
+
+Most actuarial forecasting works best when the future is related to the past in a disciplined way. It does not require perfect continuity, but it benefits from it. The most dangerous moments are not necessarily when mortality changes fastest. They are when the mechanism producing mortality changes in a way that makes the old extrapolation less informative.
+
+A pandemic can do that temporarily. A new class of drugs can do it for a subgroup. A sustained deterioration in public health can do it in the opposite direction. A true intervention in biological aging, if one ever works in humans at meaningful scale, would be more disruptive because it would not merely treat one cause of death. Its ambition is to alter the substrate on which many causes of death become more likely.
+
+That ambition is not the same as success.
+
+One of the disciplines of this book will be refusing to confuse the two.
+
+The longevity industry is unusually good at producing future tense. Trials will begin. Platforms will generalize. Biomarkers will predict. Reprogramming will restore. Senolytics will clear. Capital will accelerate discovery. Some of these statements may become true. Many will not.
+
+Actuarial work offers a useful antidote to future tense because it asks an impolite question: what assumption would you actually put into the liability?
+
+Would you change a pension plan today because a mouse lived longer?
+
+Would you change an annuity price because a private company raised three billion dollars?
+
+Would you ignore a drug because it was developed for obesity rather than aging if it materially reduced cardiovascular mortality across millions of patients?
+
+Would you treat a fertility rebound in one year as a reversal, or as noise around a long decline?
+
+The answer in each case depends on evidence, timing, scale, persistence, and who is exposed.
+
+That is the frame for what follows.
+
+This book is not making the simple claim that people are about to live dramatically longer. It is making a narrower claim about institutions under uncertainty. The old mortality bargain worked because changes could usually be absorbed through periodic revision. The system assumed enough continuity for correction to catch up.
+
+Now several variables that used to move slowly are becoming objects of deliberate intervention, political anxiety, or both.
+
+The correct response may still be boring. Longevity science may disappoint. Fertility may stabilize. Life expectancy may rise slowly. Retirement ages may creep upward. Insurers may update tables. Pension plans may adjust contributions. The repricing may happen the way most repricings do: through years of spreadsheets that barely qualify as news.
+
+Or the boring path may break.
+
+The actuary does not get to choose which future arrives.
+
+The actuary only gets to choose what to assume before it does.
