@@ -1,0 +1,70 @@
+{
+  "chapter": 12,
+  "title": "Senescence for Sale",
+  "checked": "2026-09-02",
+  "sources": [
+    {
+      "id": "unity-biotech-2020-ubx0101-phase2-results",
+      "type": "corporate-press-release",
+      "title": "Unity Biotechnology Announces 12-Week Data for UBX0101 Phase 2",
+      "publisher": "Unity Biotechnology (Aug 2020)",
+      "url": "https://ir.unitybiotechnology.com/news-releases/news-release-details/unity-biotechnology-announces-12-week-data-ubx0101-phase-2",
+      "supports": ["no dose showed statistically significant improvement over placebo at 12 weeks"],
+      "limits": "First-party company disclosure of negative results."
+    },
+    {
+      "id": "fiercebiotech-2020-unity-ubx0101-collapse",
+      "type": "trade-journalism",
+      "title": "Buzzy anti-ageing biotech Unity drops leading program after flop, shares freefall",
+      "publisher": "Fierce Biotech (2020)",
+      "url": "https://www.fiercebiotech.com/biotech/buzzy-anti-ageing-biotech-unity-drops-leading-program-after-flop-shares-freefall",
+      "supports": ["~63-66% single-day stock decline", "Unity's deprioritization of UBX0101"],
+      "limits": "Trade-press reporting on the market reaction."
+    },
+    {
+      "id": "nintil-2020-why-ubx0101-failed",
+      "type": "science-analysis-blog",
+      "title": "Why UBX0101 failed",
+      "publisher": "Nintil (2020)",
+      "url": "https://nintil.com/why-ubx0101-failed/",
+      "supports": ["delivery/bioavailability hypothesis as an alternative explanation to a fundamental hypothesis failure"],
+      "limits": "Independent analysis/commentary, not a peer-reviewed post-mortem; presented as one plausible reading among others."
+    },
+    {
+      "id": "mayo-2019-dq-diabetic-kidney-pilot",
+      "type": "peer-reviewed-study",
+      "title": "First human senolytic trial: dasatinib + quercetin in diabetic kidney disease",
+      "publisher": "EBioMedicine, via PMC (2019)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6796530/",
+      "supports": ["9-subject pilot", "reduced senescent-cell markers within 11 days"],
+      "limits": "N=9, no placebo control — proof-of-mechanism only, explicitly noted in the chapter."
+    },
+    {
+      "id": "fightaging-2024-dq-osteoporosis-phase2",
+      "type": "science-journalism",
+      "title": "Results from a Phase 2 trial of senolytic therapy dasatinib and quercetin for osteoporosis",
+      "publisher": "Fight Aging! (2024)",
+      "url": "https://www.fightaging.org/archives/2024/07/results-from-a-phase-2-trial-of-senolytic-therapy-dasatinib-and-quercetin-for-osteoporosis",
+      "supports": ["failed primary endpoint", "positive bone-mineral-density subgroup signal"],
+      "limits": "Aggregator commentary on trial results."
+    },
+    {
+      "id": "fightaging-2025-dq-mci-trial",
+      "type": "science-journalism",
+      "title": "Results from a small trial of dasatinib and quercetin in patients with mild cognitive impairment",
+      "publisher": "Fight Aging! (2025)",
+      "url": "https://www.fightaging.org/archives/2025/03/results-from-a-small-trial-of-dasatinib-and-quercetin-in-patients-with-mild-cognitive-impairment/",
+      "supports": ["very few statistically significant results", "no clear effectiveness on tau/amyloid biomarkers"],
+      "limits": "Aggregator commentary; a separate MCI-specific study found small, inconsistent cognitive-score improvement, noted in the chapter."
+    },
+    {
+      "id": "alzforum-dasatinib-quercetin",
+      "type": "science-journalism",
+      "title": "Dasatinib + Quercetin therapeutics tracking",
+      "publisher": "Alzforum",
+      "url": "https://www.alzforum.org/therapeutics/dasatinib-quercetin",
+      "supports": ["cross-reference for the D+Q Alzheimer's/MCI trial results"],
+      "limits": "Aggregator/tracking resource."
+    }
+  ]
+}

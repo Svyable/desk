@@ -1,0 +1,106 @@
+{
+  "chapter": 9,
+  "title": "The Shrinking Century",
+  "checked": "2026-09-02",
+  "sources": [
+    {
+      "id": "cnbc-2025-south-korea-birth-rate-collapse",
+      "type": "journalism",
+      "title": "Miracle under threat: South Korea's birth rate collapse could undo decades of growth",
+      "publisher": "CNBC (Sept 27, 2025)",
+      "url": "https://www.cnbc.com/2025/09/27/south-koreas-birth-rate-collapse-threatens-growth.html",
+      "supports": ["0.72 (2023) record low, rising to 0.75 (2024)", "Eberstadt quotes", "Bank of Korea 'permanent recession' warning"],
+      "limits": "News-magazine synthesis of official data plus expert commentary."
+    },
+    {
+      "id": "nikkei-2026-south-korea-fertility-second-year",
+      "type": "journalism",
+      "title": "South Korea's fertility rate rises for second year as marriages increase",
+      "publisher": "Nikkei Asia / Bloomberg-syndicated (Feb 25-26, 2026)",
+      "url": "https://asia.nikkei.com/economy/demography/south-korea-s-fertility-rate-rises-for-second-year-as-marriages-increase",
+      "supports": ["0.8 in 2025", "14.9% marriage jump in 2024 (~220,000 couples)", "post-pandemic-blip framing"],
+      "limits": "Rebound explicitly attributed to a smaller cohort marrying, with a hard ceiling on how large it can grow."
+    },
+    {
+      "id": "aei-eberstadt-east-asia-population-collapse",
+      "type": "policy-analysis",
+      "title": "East Asia's Coming Population Collapse",
+      "publisher": "Nicholas Eberstadt, American Enterprise Institute",
+      "url": "https://www.aei.org/articles/east-asias-coming-population-collapse/",
+      "supports": ["3 deaths per birth by 2050 projection", "median age near 60", ">40% senior share"],
+      "limits": "Single demographer's analysis/opinion, not an official statistical release; presented and later balanced against Sciubba's contrasting view (ch10 sources)."
+    },
+    {
+      "id": "nippon-2026-japan-census-population-drop",
+      "type": "journalism",
+      "title": "Japan's Population Drops by Record 3.09 Million: 2025 Census",
+      "publisher": "Nippon.com / Jiji Press (May 29, 2026)",
+      "url": "https://www.nippon.com/en/news/yjj2026052900224/",
+      "supports": ["123,049,524 population", "-3.09M/-2.5% since 2020", "30.1% in greater Tokyo"],
+      "limits": "Reports the official MIC quinquennial census figures via wire-service coverage."
+    },
+    {
+      "id": "cnn-nagoro-scarecrow-village",
+      "type": "journalism",
+      "title": "Nagoro, Japan's scarecrow village",
+      "publisher": "CNN Travel",
+      "url": "https://www.cnn.com/travel/article/nagoro-japan-scarecrow-village",
+      "supports": ["Tsukimi Ayano's story", "~27 residents", "400+ scarecrows made"],
+      "limits": "Human-interest travel journalism; population figures vary slightly by outlet, chapter uses this as the primary reference."
+    },
+    {
+      "id": "scmp-2023-china-population-decline",
+      "type": "journalism",
+      "title": "China population: 2022 marks first decline in 60 years",
+      "publisher": "South China Morning Post (Jan 2023)",
+      "url": "https://www.scmp.com/economy/economic-indicators/article/3207047/china-population-2022-marks-first-population-decline-60-years",
+      "supports": ["-850,000 in 2022 to 1.4118B", "first decline since 1961", "6.77/1,000 birth rate"],
+      "limits": "Widely corroborated by multiple simultaneous outlets citing the same NBS release."
+    },
+    {
+      "id": "ourworldindata-china-fertility-decline",
+      "type": "data-journalism",
+      "title": "China's fertility rate has fallen to one, continuing a long decline that began before and continued after the one-child policy",
+      "publisher": "Our World in Data",
+      "url": "https://ourworldindata.org/data-insights/chinas-fertility-rate-has-fallen-to-one-continuing-a-long-decline-that-began-before-and-continued-after-the-one-child-policy",
+      "supports": ["decline predates 1980 one-child policy", "continued after 2015/2016/2021 policy reversals"],
+      "limits": "Important counter-narrative against a simplistic one-child-policy-caused-it framing; used explicitly for that purpose."
+    },
+    {
+      "id": "newsweek-2026-china-birth-rate-crisis",
+      "type": "journalism",
+      "title": "China's Plan to Tackle Birth Rate Crisis",
+      "publisher": "Newsweek",
+      "url": "https://www.newsweek.com/china-plan-tackle-birth-rate-population-crisis-2041107",
+      "supports": ["<8M 2025 births", "~0.93 estimated 2025 fertility rate", "323M 60+ population (~23%)", "3,600 yuan/child subsidy"],
+      "limits": "Reports on Jan 2026 NBS release; skeptical framing on subsidy effectiveness noted in the source itself."
+    },
+    {
+      "id": "un-2024-world-population-prospects-summary",
+      "type": "government-primary-source",
+      "title": "World Population Prospects 2024 Summary of Results",
+      "publisher": "UN DESA Population Division",
+      "url": "https://population.un.org/wpp/assets/Files/WPP2024_Summary-of-Results.pdf",
+      "supports": ["8.2B (2024) growing to ~10.3B peak around 2084", "80% probability of in-century peak"],
+      "limits": "Medium-variant projection; UN publishes wider high/low variant ranges."
+    },
+    {
+      "id": "ourworldindata-un-2024-revision-history",
+      "type": "data-journalism",
+      "title": "Peak global population and other key findings from the 2024 UN World Population Prospects",
+      "publisher": "Our World in Data",
+      "url": "https://ourworldindata.org/un-population-2024-revision",
+      "supports": ["2019 WPP: no in-century peak", "2022 WPP: peak ~10.4B around 2086", "2024 WPP: peak ~10.3B around 2084"],
+      "limits": "Documents that projections have moved toward an earlier, lower peak across revisions — used as evidence forecasts are not fixed."
+    },
+    {
+      "id": "lancet-2020-ihme-population-scenarios",
+      "type": "peer-reviewed-study",
+      "title": "Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100",
+      "publisher": "The Lancet / IHME (July 2020)",
+      "url": "https://www.thelancet.com/article/S0140-6736(20)30677-2/fulltext",
+      "supports": ["independent peak ~9.73B around 2064, declining to ~8.79B by 2100"],
+      "limits": "Differs substantially from UN's own estimate (~1.5B gap in 2100), illustrating genuine scientific uncertainty rather than a UN-vs-skeptics framing."
+    }
+  ]
+}

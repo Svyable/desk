@@ -1,0 +1,3 @@
+# Chapter 4 research — GLP-1 drugs and the Ozempic economy
+
+Traces semaglutide/tirzepatide's regulatory timeline, the Novo Nordisk/Eli Lilly valuation swing (Sept 2023 peak through the ~70% Novo decline reported Feb 2026), the SELECT cardiovascular-outcomes trial, the bariatric-surgery volume decline, and the unresolved Medicare/employer coverage fight. Falsification note: the chapter's "institutions racing to catch up" argument weakens if Medicare coverage and manufacturing shortages resolve cleanly and quickly rather than remaining contested for years, and if Novo Nordisk's decline reverses on a comparably fast timeline (which would suggest the market corrects mispricing faster than the chapter's broader thesis about slow institutional repricing implies).

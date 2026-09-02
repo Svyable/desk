@@ -1,0 +1,43 @@
+{
+  "chapter": 11,
+  "title": "The Rapamycin Underground",
+  "checked": "2026-09-02",
+  "sources": [
+    {
+      "id": "horvath-2013-epigenetic-clock",
+      "type": "peer-reviewed-paper",
+      "title": "DNA methylation age of human tissues and cell types",
+      "publisher": "Genome Biology 14(10):R115 (2013)",
+      "url": "https://link.springer.com/article/10.1186/gb-2013-14-10-r115",
+      "supports": ["353-CpG-site cross-tissue chronological-age predictor", "first broadly cross-tissue epigenetic clock"],
+      "limits": "Trained to predict chronological age, not health outcomes — a distinction from GrimAge, noted explicitly in the chapter."
+    },
+    {
+      "id": "lu-2019-grimage",
+      "type": "peer-reviewed-paper",
+      "title": "DNA methylation GrimAge strongly predicts lifespan and healthspan",
+      "publisher": "Aging (Albany NY) 11(2):303-327 (2019)",
+      "url": "https://www.aging-us.com/article/101684/text",
+      "supports": ["composite of methylation-based plasma-protein surrogates and smoking-exposure estimate", "strong mortality/disease prediction (p=2.0x10^-75 for time-to-death)"],
+      "limits": "Trained on mortality data; some critics note it may partly re-derive known risk factors like smoking via a methylation proxy rather than revealing a novel causal signal."
+    },
+    {
+      "id": "mendelian-randomization-clocks-critique",
+      "type": "peer-reviewed-methodology",
+      "title": "Methodological literature on epigenetic clocks as causal vs. proxy biomarkers",
+      "publisher": "Nature Medicine / PMC (synthesized methodological sources)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9049976/",
+      "supports": ["Mendelian-randomization finding that clock CpG sites are not enriched for causally-relevant aging sites", "first-generation clocks reflecting stochastic epigenetic noise, limited sensitivity to intervention"],
+      "limits": "This is the core, unresolved scientific debate the chapter centers its skepticism on — genuinely live and unsettled, not a fringe critique."
+    },
+    {
+      "id": "forbes-2026-biological-age-testing-market",
+      "type": "journalism",
+      "title": "The Biological Age Testing Market, From Research Promise To Clinical Reality",
+      "publisher": "Forbes (Feb 20, 2026)",
+      "url": "https://www.forbes.com/sites/josipamajic/2026/02/20/the-biological-age-testing-market-from-research-promise-to-clinical-reality/",
+      "supports": ["commercial biological-age testing industry landscape"],
+      "limits": "Candidate source for company-specific critique flagged as needing direct verification; the chapter avoids attributing unverified specific claims to any single named company."
+    }
+  ]
+}

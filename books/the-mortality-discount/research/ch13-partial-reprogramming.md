@@ -1,0 +1,3 @@
+# Chapter 13 research — partial cellular reprogramming
+
+Covers Yamanaka's 2006/2007 iPSC discovery and 2012 Nobel Prize; the Izpisúa Belmonte/Salk Institute 2016 Cell paper on cyclic partial reprogramming in a progeria mouse model (~30% lifespan extension); the teratoma/cancer-risk safety literature on in vivo OSKM expression; and Jesse Gelsinger's 1999 gene-therapy death, used as well-established general historical background for the translational-safety analogy. Falsification note: weakens if a published, peer-reviewed human trial of a partial-reprogramming therapy reports an acceptable safety profile with no elevated cancer signal.
