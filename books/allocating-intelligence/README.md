@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | Complete draft |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf |
 | **Chapters**  | 20 of 20 drafted |
