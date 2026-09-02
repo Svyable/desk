@@ -31,6 +31,7 @@ The governing principle is complementarity. The book does not depend on a precis
 
 ## Contents
 
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Chapter 1 — The Country Under the Software](manuscript/ch01-the-country-under-the-software.md)
 - [x] [Chapter 2 — What Public Works Were For](manuscript/ch02-what-public-works-were-for.md)
 - [x] [Chapter 3 — When Intelligence Gets Cheap](manuscript/ch03-when-intelligence-gets-cheap.md)
@@ -51,6 +52,7 @@ The governing principle is complementarity. The book does not depend on a precis
 - [x] [Chapter 18 — Who Gets the Productivity Dividend](manuscript/ch18-who-gets-the-productivity-dividend.md)
 - [x] [Chapter 19 — Federalism That Can Build](manuscript/ch19-federalism-that-can-build.md)
 - [x] [Chapter 20 — The Visible Republic](manuscript/ch20-the-visible-republic.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Continuity motifs
 
