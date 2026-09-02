@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 14 author projects · 11 released · 3 public drafts/proofs**
-> **Where they live: 14 in both Desk + Shelf · 44 Desk-only · 0 Shelf-only**
-> **Release review queue: 15 complete Desk manuscripts are not finally released — 14 are Desk-only and 1, Public Pressure, is already on Shelf as a public proof.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 14 author projects · 12 released · 2 public drafts/proofs**
+> **Where they live: 14 in both Desk + Shelf · 45 Desk-only · 0 Shelf-only**
+> **Release review queue: 15 complete Desk manuscripts are not finally released — all 15 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -25,7 +25,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/open-source/) |
-| [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
+| [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
 | [**Right To Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
@@ -34,9 +34,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
-
-**Complete manuscript on Shelf as a proof, still awaiting a final release decision:** [Public Pressure](books/public-pressure/).
+**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
