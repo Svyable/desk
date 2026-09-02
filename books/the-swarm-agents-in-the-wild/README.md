@@ -20,6 +20,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 - [x] [Ch 1 — Software Gets Legs](manuscript/ch01-software-gets-legs.md)
 - [x] [Ch 2 — The Anatomy of an Agent](manuscript/ch02-the-anatomy-of-an-agent.md)
 - [x] [Ch 3 — From Assistant to Population](manuscript/ch03-from-assistant-to-population.md)
+- [x] [Interlude — The Population Explosion](manuscript/interlude-the-population-explosion.md)
 - [x] [Ch 4 — The Price of Thought](manuscript/ch04-the-price-of-thought.md)
 - [x] [Interlude — The Protocol Layer Appears](manuscript/interlude-the-protocol-layer-appears.md)
 
@@ -79,4 +80,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. At roughly 29,000 words, it is below Desk’s 65,000-word bar for a complete automated full-book drop. The opening logistics scene and the later disaster scenario should be treated as illustrative constructions unless a later research pass replaces or anchors them with documented cases. The protocol interlude and other concrete contemporary claims require primary-source verification before release.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the mid-30,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. The opening logistics scene and the later disaster scenario should be treated as illustrative constructions unless a later research pass replaces or anchors them with documented cases. The protocol interlude and other concrete contemporary claims require primary-source verification before release.
