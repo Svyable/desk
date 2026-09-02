@@ -6,6 +6,8 @@ const OFFLINE_QUERY = 'BOOKSELF_OFFLINE_READINESS';
 const DEFAULT_RETRY_DELAYS = Object.freeze([140, 520]);
 const OFFLINE_RETRY_FLOOR_MS = 1200;
 const OFFLINE_RETRY_CEILING_MS = 1800;
+const CATALOG_FUNCTION = 'async function loadCatalog()';
+const DESK_CATALOG_GATE = "if (meta.published || window.__IMPRINT?.role === 'desk') entries.push(meta);";
 
 function asUrl(value, base) {
   try {
@@ -132,6 +134,110 @@ export function rewriteSharedModuleSpecifiers(source, upstream) {
     (_match, quote, path) => `import(${quote}${base}${path}${quote})`
   );
   return Object.freeze({ source: rewritten, staticImports, dynamicImports });
+}
+
+function functionSlice(source, signature) {
+  const start = source.indexOf(signature);
+  if (start < 0) return null;
+  const open = source.indexOf('{', start + signature.length);
+  if (open < 0) return null;
+
+  let depth = 0;
+  let quote = null;
+  let escaped = false;
+  let lineComment = false;
+  let blockComment = false;
+  for (let index = open; index < source.length; index += 1) {
+    const char = source[index];
+    const next = source[index + 1];
+
+    if (lineComment) {
+      if (char === '\n') lineComment = false;
+      continue;
+    }
+    if (blockComment) {
+      if (char === '*' && next === '/') {
+        blockComment = false;
+        index += 1;
+      }
+      continue;
+    }
+    if (quote) {
+      if (escaped) {
+        escaped = false;
+      } else if (char === '\\') {
+        escaped = true;
+      } else if (char === quote) {
+        quote = null;
+      }
+      continue;
+    }
+    if (char === '/' && next === '/') {
+      lineComment = true;
+      index += 1;
+      continue;
+    }
+    if (char === '/' && next === '*') {
+      blockComment = true;
+      index += 1;
+      continue;
+    }
+    if (char === "'" || char === '"' || char === '`') {
+      quote = char;
+      continue;
+    }
+    if (char === '{') depth += 1;
+    if (char === '}') {
+      depth -= 1;
+      if (depth === 0) return Object.freeze({ start, open, end: index + 1 });
+    }
+  }
+  return null;
+}
+
+export function adaptDeskCatalogVisibility(source) {
+  const input = String(source || '');
+  const slice = functionSlice(input, CATALOG_FUNCTION);
+  if (!slice) {
+    throw new Error('Shared Reader loadCatalog() contract was not found; update Desk adapter.');
+  }
+
+  const before = input.slice(0, slice.start);
+  const catalog = input.slice(slice.start, slice.end);
+  const after = input.slice(slice.end);
+  const gatePattern = /if\s*\(\s*meta\.published\s*\)\s*entries\.push\(\s*meta\s*\)\s*;/g;
+  const matches = [...catalog.matchAll(gatePattern)].length;
+  if (matches !== 1) {
+    throw new Error(`Expected one shared Reader catalog gate inside loadCatalog(); found ${matches}.`);
+  }
+  if (gatePattern.test(before) || gatePattern.test(after)) {
+    throw new Error('Shared Reader publication gate escaped loadCatalog(); update Desk adapter.');
+  }
+
+  const rewrittenCatalog = catalog.replace(gatePattern, DESK_CATALOG_GATE);
+  return Object.freeze({
+    source: `${before}${rewrittenCatalog}${after}`,
+    catalogGates: matches,
+    functionStart: slice.start,
+    functionEnd: slice.end,
+  });
+}
+
+export function adaptSharedReaderAppSource(source, upstream) {
+  const imports = rewriteSharedModuleSpecifiers(source, upstream);
+  if (!imports.staticImports) {
+    throw new Error('Shared Reader imports were not recognized; update Desk adapter.');
+  }
+  if (/from\s+['"]\.\//.test(imports.source) || /import\(\s*['"]\.\//.test(imports.source)) {
+    throw new Error('Shared Reader still contains unresolved relative module imports; update Desk adapter.');
+  }
+  const catalog = adaptDeskCatalogVisibility(imports.source);
+  return Object.freeze({
+    source: catalog.source,
+    staticImports: imports.staticImports,
+    dynamicImports: imports.dynamicImports,
+    catalogGates: catalog.catalogGates,
+  });
 }
 
 export function rewriteDeskPublicationUrl(value, {
