@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Front matter, prologue, epilogue, back matter; 1 of 20 chapters drafted |
+| **Chapters** | Front matter, prologue, epilogue, back matter; 2 of 20 chapters drafted |
 | **Language** | English |
 | **Rights** | All Rights Reserved |
 | **AI use** | Reserved; see rights file |
@@ -19,7 +19,7 @@ The central thesis is that when a price cannot or should not allocate a scarce g
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Prologue — The Call at Two in the Morning](manuscript/prologue-the-call-at-two-in-the-morning.md)
 - [x] [Ch 1 — Why Money Can't Buy Everything](manuscript/ch01-why-money-cant-buy-everything.md)
-- [ ] [Ch 2 — A Taxonomy of Lines](manuscript/ch02-a-taxonomy-of-lines.md)
+- [x] [Ch 2 — A Taxonomy of Lines](manuscript/ch02-a-taxonomy-of-lines.md)
 - [ ] [Ch 3 — First Come, First Served, and Why It Isn't Fair](manuscript/ch03-first-come-first-served.md)
 - [ ] [Ch 4 — The Black Market Down the Hall](manuscript/ch04-the-black-market-down-the-hall.md)
 - [ ] [Ch 5 — Scalpers, Bots, and the Ticketmaster Problem](manuscript/ch05-scalpers-bots-and-the-ticketmaster-problem.md)
