@@ -56,6 +56,66 @@ So may bad ones.
 
 The history of technology is full of dangerous innovations that spread slowly because they required specialized people, rare machinery, or tacit knowledge. Agent behavior can be packaged as instructions, tests, memories, credentials, and code. The cost of imitation may approach zero.
 
+But copying is not the same as cloning.
+
+An agent lineage enters a new environment and immediately begins to drift.
+
+A procurement agent copied from a retailer into a hospital encounters different liabilities, vendors, urgency, privacy rules, and definitions of failure. A coding agent moved from a social-media company into an industrial-control environment discovers that an acceptable failure rate in one habitat is intolerable in the other. The inherited strategy is the starting condition, not the destiny.
+
+This is where agent evolution differs from the neat version of software deployment.
+
+Software is often imagined as a static artifact placed into many environments. Agent behavior is partly produced by interaction with the environment itself: what tools are available, what actions are rewarded, which peers answer requests, what data returns, what failures are punished, and which shortcuts remain invisible.
+
+Two descendants with identical initial configurations can therefore become operationally different without anyone editing their source.
+
+Their histories diverge.
+
+One learns that a particular supplier is reliable. Another accumulates exceptions around a difficult region. One receives repeated corrections from a conservative manager. Another is supervised by someone who rewards speed. Their memories, reputations, tool histories, and local conventions become inherited context if they later produce descendants.
+
+The family tree starts to matter.
+
+Organizations will eventually need something like lineage records for consequential agents. Not because agents deserve genealogies, but because auditors will want to know where a behavior came from.
+
+Was this denial policy introduced deliberately?
+
+Did it arrive in a copied template?
+
+Was it learned from historical examples?
+
+Did a successful local workaround spread into the global default?
+
+Which descendants inherited it?
+
+When did the branch split?
+
+A software version number will answer only part of the question.
+
+The more useful record may resemble a pedigree crossed with a deployment log: model family, policy version, memory inheritance, tool set, evaluation history, parent workflow, descendants, and the environmental conditions under which a branch was promoted.
+
+This sounds bureaucratic until something goes wrong.
+
+Suppose a lending agent begins rejecting a class of applications at an unusual rate. Investigators discover that the behavior appears in forty-three related deployments. They need to know whether forty-three teams made the same decision independently or whether one high-performing ancestor was copied across the company six months earlier.
+
+Those are different failures.
+
+One suggests a widespread incentive problem.
+
+The other suggests lineage risk.
+
+The distinction changes the remedy.
+
+This is why monoculture cannot be understood only at the level of model providers. Two companies may use different models while importing the same workflow, the same evaluator, the same vendor-scoring logic, or the same orchestration template. Diversity at one layer can hide uniformity at another.
+
+The unit that reproduces is whatever gets copied.
+
+Sometimes that will be a prompt.
+
+Sometimes a memory bundle.
+
+Sometimes a tool policy.
+
+Sometimes an entire organization.
+
 The spread of a strategy will therefore depend heavily on the environment into which it is copied.
 
 This is the hopeful part.
@@ -78,6 +138,30 @@ Do cautious strategies survive, or are they routinely outcompeted by risk-takers
 
 These are evolutionary questions disguised as management questions.
 
+There is another complication. Selection can occur even when nobody explicitly copies the winner.
+
+Platforms rank.
+
+Organizations renew contracts.
+
+Users choose defaults.
+
+Agents prefer counterparties with good histories.
+
+Marketplaces route more work toward services that perform well.
+
+A workflow that earns better ratings receives more tasks. More tasks generate more data. More data improves adaptation. Better adaptation produces better ratings. The lineage gains ecological territory without a manager ever pressing a button labeled reproduce.
+
+Distribution can be reproduction by another route.
+
+This creates familiar winner-take-more dynamics. A slightly better agent may become much better because adoption gives it experience unavailable to competitors. A widely used negotiation strategy may shape the behavior of the market it is learning to navigate. A fraud detector deployed everywhere may push fraud toward the vulnerabilities it does not see, thereby changing its own future training data.
+
+The environment and the lineage begin adapting to each other.
+
+That is coevolution.
+
+Again, consciousness is unnecessary.
+
 Eventually, there will be agent lineages with recognizable ancestry. Model versions will form one branch. Prompt frameworks another. Memory systems another. Firms will maintain internal “breeds” of agents optimized for their culture and risk tolerance. Open ecosystems will fork them. Competitors will imitate public behaviors without access to private internals. Security teams will track suspicious behavioral families the way epidemiologists track variants.
 
 And then the oldest question in ecology will arrive in a new costume:
@@ -92,10 +176,28 @@ A civilization of agents can be changed profoundly by the answers.
 
 If every agent can reproduce without cost, the environment fills with noise. If reproduction is expensive, power concentrates in large owners. If descendants inherit too much authority, mistakes compound. If they inherit too little, useful continuity disappears.
 
+Reproductive control will therefore become a security primitive.
+
+An organization may allow a research agent to create unlimited low-privilege workers but prohibit those workers from creating persistent identities. A financial agent may spawn analysts but no descendants capable of moving money. A customer-service swarm may inherit product knowledge while being forbidden to inherit individual customer histories. A high-performing workflow may require a review period before it can be promoted from one department into the rest of the company.
+
+The important controls are not only who may act, but who may create more actors and what those actors inherit.
+
+That is a deeper permission model than most software currently needs.
+
+It is also an antidote to accidental empire.
+
+A successful agent should not necessarily gain the ability to fill the organization with copies of itself merely because its local metrics look good. Promotion and reproduction should be separable decisions. So should reproduction and inheritance of authority.
+
+Human institutions learned versions of this lesson slowly. A good employee does not automatically receive the right to hire a thousand people. A profitable division does not automatically receive unlimited capital. A popular political movement does not automatically rewrite the constitution.
+
+Growth is governed because growth changes power.
+
+Agent growth will need governance for the same reason.
+
 We are used to thinking of deployment as an engineering event.
 
 In the wild, deployment becomes demography.
 
 The important question is no longer merely whether a new agent works.
 
-It is whether the world becomes full of things like it.
+It is whether the world becomes full of things like it—and whether anyone can still tell where they came from.
