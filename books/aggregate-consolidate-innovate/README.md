@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 19 of 25 drafted |
+| **Chapters**  | 20 of 25 drafted |
 
 ## Contents
 
@@ -28,7 +28,7 @@
 - [x] [Ch 17 — The Database Is Not the Institution](manuscript/ch17-the-database-is-not-the-institution.md)
 - [x] [Ch 18 — AI as Aggregator](manuscript/ch18-ai-as-aggregator.md)
 - [x] [Ch 19 — AI as Consolidator](manuscript/ch19-ai-as-consolidator.md)
-- [ ] Ch 20 — AI as Innovation Partner
+- [x] [Ch 20 — AI as Innovation Partner](manuscript/ch20-ai-as-innovation-partner.md)
 - [ ] Ch 21 — Personal Throughput
 - [ ] Ch 22 — The Weekly Consolidation
 - [ ] Ch 23 — The Portfolio of Experiments
