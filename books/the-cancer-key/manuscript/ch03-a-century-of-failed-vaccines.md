@@ -219,3 +219,29 @@ A better reading says different generations kept discovering that the target, th
 The modern platform is more complicated because the old experiments earned the complication.
 
 The test of progress is whether that added complexity buys the patient something measurable.
+
+Failure also changes the scientific vocabulary available to the next trial.
+
+An old cancer-vaccine study might have been remembered simply as negative. A modern program can ask more precise questions after the primary endpoint fails. Did the vaccine induce the intended T cells? Did the selected peptides appear to be presented? Was the immune response weaker in particular HLA contexts? Did patients with lower disease burden behave differently? Did recurrence occur through clones that lacked the targeted mutations? Did the product reach patients quickly enough for the intended treatment window?
+
+These analyses cannot rescue a failed primary endpoint after the fact.
+
+They can prevent the next trial from asking the same vague question.
+
+That difference is one measure of a field becoming cumulative.
+
+It also explains why negative trials are a public asset even when the product is private. Participants accepted risk and contributed tissue, immune assays and follow-up. The sponsor paid for manufacturing and operations. If the only public conclusion is that the trial missed, much of the learning remains trapped in the development program.
+
+The best failure leaves a map.
+
+That map should include the parts that threaten the platform's own story. A company has understandable incentives to emphasize the subgroup that looked encouraging or the biomarker that moved in the expected direction. Researchers have similar incentives because positive mechanisms publish more easily than null ones. A mature field has to preserve the denominator and the unfavorable correlations too.
+
+The century of failed vaccines is valuable because the failures were not erased completely.
+
+They left enough evidence to show that antigen recognition alone was insufficient, that self-tolerance mattered, that tumor context mattered, and that immune brakes could be therapeutically important. The modern neoantigen field inherits those lessons whether or not a current product succeeds.
+
+The standard for the next century should be higher.
+
+When a personalized trial fails, the field should learn not only that a product did not work, but where the chain from mutation to outcome most likely broke.
+
+That is how failure stops being a graveyard and becomes infrastructure.
