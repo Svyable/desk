@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 25 drafted |
+| **Chapters**  | 9 of 25 drafted |
 
 ## Contents
 
@@ -17,7 +17,7 @@
 - [x] [Ch 6 — Compression](manuscript/ch06-compression.md)
 - [x] [Ch 7 — Naming](manuscript/ch07-naming.md)
 - [x] [Ch 8 — Primitives](manuscript/ch08-primitives.md)
-- [ ] Ch 9 — Standards
+- [x] [Ch 9 — Standards](manuscript/ch09-standards.md)
 - [ ] Ch 10 — Editing
 - [ ] Ch 11 — Recombination
 - [ ] Ch 12 — Constraints
