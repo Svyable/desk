@@ -4,67 +4,67 @@
   "checked": "2026-09-02",
   "sources": [
     {
-      "id": "drugscom-ozempic-history",
-      "type": "regulatory-timeline",
-      "title": "Ozempic (semaglutide) FDA approval history",
-      "publisher": "Drugs.com",
-      "url": "https://www.drugs.com/history/ozempic.html",
-      "supports": ["Dec 2017 diabetes approval", "Jan 2020 cardiovascular label expansion"],
-      "limits": "Secondary regulatory-timeline aggregator, not the FDA's own primary approval letter."
+      "id": "fda-2024-wegovy-cardiovascular-indication",
+      "type": "primary-regulatory",
+      "title": "FDA Approves First Treatment to Reduce Risk of Serious Heart Problems Specifically in Adults with Obesity or Overweight",
+      "publisher": "U.S. Food and Drug Administration (Mar. 8, 2024)",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-reduce-risk-serious-heart-problems-specifically-adults-obesity-or",
+      "supports": ["Wegovy cardiovascular-risk-reduction indication", "supporting trial enrolled more than 17,600 participants", "major adverse cardiovascular events 6.5% with Wegovy versus 8.0% with placebo"],
+      "limits": "Indication is for adults with established cardiovascular disease and overweight or obesity; do not generalize the cardiovascular outcome to all GLP-1 users."
     },
     {
-      "id": "drugscom-wegovy-history",
-      "type": "regulatory-timeline",
-      "title": "Wegovy (semaglutide) FDA approval history",
-      "publisher": "Drugs.com",
-      "url": "https://www.drugs.com/history/wegovy.html",
-      "supports": ["June 2021 obesity approval", "Dec 2022 adolescent expansion", "March 2024 cardiovascular expansion"],
-      "limits": "Secondary aggregator."
+      "id": "fda-2024-zepbound-osa-indication",
+      "type": "primary-regulatory",
+      "title": "FDA Approves First Medication for Obstructive Sleep Apnea",
+      "publisher": "U.S. Food and Drug Administration (Dec. 20, 2024)",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-obstructive-sleep-apnea",
+      "supports": ["Zepbound approval for moderate-to-severe obstructive sleep apnea in adults with obesity", "first drug treatment option for that population", "two randomized trials totaling 469 adults without type 2 diabetes"],
+      "limits": "Population- and indication-specific approval; does not establish pharmacotherapy as a universal replacement for PAP or other OSA treatment."
     },
     {
-      "id": "cnn-2023-novo-nordisk-europe-most-valuable",
-      "type": "financial-journalism",
-      "title": "Novo Nordisk becomes Europe's most valuable company",
-      "publisher": "CNN Business (Sept 5, 2023)",
-      "url": "https://www.cnn.com/2023/09/05/investing/novo-nordisk-wegovy-europe-stock/index.html",
-      "supports": ["~$428B market cap", "surpassing LVMH", "Sept 5, 2023 peak"],
-      "limits": "Single-day market snapshot."
+      "id": "novo-2025-annual-report-obesity",
+      "type": "primary-company-reporting",
+      "title": "Novo Nordisk Annual Report 2025 — Commercial execution",
+      "publisher": "Novo Nordisk",
+      "url": "https://annualreport.novonordisk.com/2025/strategic-aspirations/commercial-execution.html",
+      "supports": ["2025 obesity-portfolio sales growth of 31% at constant exchange rates", "3.6 million people reached with obesity medicines", "Wegovy available in 52 countries by end of 2025"],
+      "limits": "Issuer-reported commercial figures; primary for Novo Nordisk's own disclosures but interested evidence for competitive interpretation."
     },
     {
       "id": "cnbc-2026-novo-nordisk-decline",
       "type": "financial-journalism",
       "title": "Novo Nordisk stock decline as Eli Lilly gains GLP-1 market share",
-      "publisher": "CNBC (Feb 25, 2026)",
+      "publisher": "CNBC (Feb. 25, 2026)",
       "url": "https://www.cnbc.com/2026/02/25/novo-nordisk-stock-nvo-lly-eli-lilly-ozempic-weight-loss-obesity.html",
-      "supports": ["~50% 2025 decline", "~70% decline from mid-2024 peak", "Eli Lilly ~60% US market share by early 2025", "CagriSema trial failure"],
-      "limits": "Point-in-time financial reporting; figures move with the market."
+      "supports": ["~50% 2025 decline", "~70% decline from mid-2024 peak", "competitive pressure from Eli Lilly", "CagriSema trial disappointment"],
+      "limits": "Point-in-time financial reporting; valuation and market-share figures move with the market and should always be dated."
     },
     {
       "id": "cnbc-2025-lilly-trillion-valuation",
       "type": "financial-journalism",
       "title": "Eli Lilly hits $1 trillion market value, a first in health care",
-      "publisher": "CNBC (Nov 21, 2025)",
+      "publisher": "CNBC (Nov. 21, 2025)",
       "url": "https://www.cnbc.com/2025/11/21/eli-lilly-hits-1-trillion-market-value-first-for-health-care-company.html",
-      "supports": ["$1T valuation", "Zepbound/Mounjaro ~$19B combined nine-month 2025 sales", "overtaking Keytruda"],
-      "limits": "Single-company financial milestone reporting."
+      "supports": ["$1T valuation milestone", "Zepbound/Mounjaro commercial scale"],
+      "limits": "Single-company valuation milestone and point-in-time market reporting."
     },
     {
       "id": "nejm-2023-select-trial",
       "type": "peer-reviewed-rct",
       "title": "Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes (SELECT)",
-      "publisher": "New England Journal of Medicine (Nov 2023)",
+      "publisher": "New England Journal of Medicine (Nov. 2023)",
       "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
-      "supports": ["20% cardiovascular-outcome risk reduction", "804 sites/41 countries", "16.6% vs 8.2% discontinuation rate"],
-      "limits": "Trial population restricted to overweight/obese patients with pre-existing cardiovascular disease; not generalizable to all GLP-1 users."
+      "supports": ["20% relative reduction in the primary cardiovascular composite", "large multinational randomized trial", "higher treatment discontinuation with semaglutide"],
+      "limits": "Trial population restricted to people with overweight or obesity and pre-existing cardiovascular disease without diabetes; not generalizable to all GLP-1 users."
     },
     {
       "id": "hsph-2024-bariatric-surgery-decline",
       "type": "peer-reviewed-study-coverage",
       "title": "Bariatric surgeries on the decline as use of GLP-1 drugs rises",
-      "publisher": "Harvard T.H. Chan School of Public Health, covering JAMA Surgery (Oct 2024)",
+      "publisher": "Harvard T.H. Chan School of Public Health, covering JAMA Surgery (Oct. 2024)",
       "url": "https://hsph.harvard.edu/news/bariatric-surgeries-on-the-decline-as-use-of-glp-1-drugs-rises/",
-      "supports": ["140% GLP-1 prescription rise 2022-2024", "bariatric volume 217,387 (2023) to 177,297 (2024)"],
-      "limits": "Correlational; other confounders (insurance, post-COVID elective surgery patterns) plausible per the coverage itself."
+      "supports": ["rapid rise in GLP-1 use", "concurrent decline in bariatric-surgery volume"],
+      "limits": "Correlational; insurance, post-pandemic elective-surgery patterns, and other confounders remain plausible."
     },
     {
       "id": "kff-glp1-medicare-coverage",
@@ -72,8 +72,8 @@
       "title": "What to know about the BALANCE model for GLP-1s in Medicare and Medicaid",
       "publisher": "KFF",
       "url": "https://www.kff.org/medicare/what-to-know-about-the-balance-model-for-glp-1s-in-medicare-and-medicaid/",
-      "supports": ["Medicare coverage restrictions", "April 2025 proposal not finalized", "BALANCE negotiated pricing model"],
-      "limits": "Policy landscape summary; the underlying coverage fight remains actively unresolved as of this writing."
+      "supports": ["Medicare coverage restrictions", "evolving federal pricing and coverage policy", "institutional uncertainty around obesity-drug benefits"],
+      "limits": "Policy-landscape summary; coverage rules can change and should be rechecked before publication."
     }
   ]
 }
