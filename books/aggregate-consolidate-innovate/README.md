@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 14 of 25 drafted |
+| **Chapters**  | 15 of 25 drafted |
 
 ## Contents
 
@@ -23,7 +23,7 @@
 - [x] [Ch 12 — Constraints](manuscript/ch12-constraints.md)
 - [x] [Ch 13 — Prototyping](manuscript/ch13-prototyping.md)
 - [x] [Ch 14 — Selection](manuscript/ch14-selection.md)
-- [ ] Ch 15 — Adoption
+- [x] [Ch 15 — Adoption](manuscript/ch15-adoption.md)
 - [ ] Ch 16 — Organizations as Memory
 - [ ] Ch 17 — The Database Is Not the Institution
 - [ ] Ch 18 — AI as Aggregator
