@@ -77,5 +77,6 @@ The manuscript should change if strong evidence supports any of the following:
 
 - `source-ledger.csv` records the primary source set and intended book use.
 - `chapter-briefs.md` records each chapter's evidence burden, cautions, and falsification question.
+- `release-review-2026-09-01.md` records the pre-publication refresh of time-sensitive labor-market and AI-harness claims.
 
-The manuscript is a working draft. Time-sensitive labor projections and product descriptions should be rechecked before release.
+The time-sensitive labor projections and product descriptions were rechecked on September 1, 2026. The release review found no manuscript correction required before publication; newer evidence on agentic coding expertise and worker retraining was added to the research record.
