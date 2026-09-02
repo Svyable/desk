@@ -37,10 +37,19 @@ Credit underwriting is a gate under uncertainty. Scores and models compress a fi
 - Credit reports contain credit activity and account status information; scores are calculated from report information.
 - CFPB notes that report errors can artificially reduce scores and affect rates or access.
 
+### CFPB consent order — Equifax dispute investigations and inaccurate scores
+
+- https://www.consumerfinance.gov/enforcement/actions/equifax-inc-and-equifax-information-services-llc/
+- On January 17, 2025, the CFPB issued a consent order finding that Equifax violated FCRA requirements governing dispute reinvestigations, reinsertion of previously deleted information, notices of investigation results, accuracy procedures, and identity-theft blocks.
+- The Bureau also found that Equifax sold inaccurate credit scores and credit attributes after test code was introduced into a production scoring-model server.
+- The enforcement page remained in the CFPB's active enforcement archive when rechecked on September 2, 2026; the associated administrative docket lists the January 17, 2025 consent order and stipulation.
+- This is a concrete example for the chapter's claim that error correction is part of access policy: a reporting or software-process failure can propagate into a score used by downstream gatekeepers.
+
 ## Boundaries and counterevidence
 
 - The chapter does not claim that credit scoring is inherently unfair. Risk prediction is necessary to most lending, and automation can increase consistency, speed, scale, and access.
 - Different scores are not evidence of error by themselves; different models can legitimately estimate different products or risk horizons.
+- The Equifax order is evidence that a major reporting system can fail in consequential ways, not evidence that credit scores are generally inaccurate or that automation is inferior to human underwriting.
 - A required adverse-action reason need not disclose the entire proprietary model.
 - Human review is not automatically superior to automated decision-making; people also introduce inconsistency, bias, fatigue, and favoritism.
 - Alternative data may help consumers with thin files while also raising privacy, relevance, proxy-discrimination, and contestability concerns.
