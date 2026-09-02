@@ -30,3 +30,4 @@ This is an incomplete working draft. The numbered gaps are intentional: chapters
 ## Research
 
 - [Research trail and verification notes](research/README.md)
+- [Chapter 5 — The Permissioned Manager research note](research/ch05-permissioned-manager.md)
