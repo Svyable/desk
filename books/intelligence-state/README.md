@@ -5,14 +5,17 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Complete draft · Published on Shelf |
 | **Chapters** | 17 of 17 + prologue + conclusion |
-| **Publication target** | Svyable Shelf |
+| **Publication** | First edition · September 2026 |
+| **Public Reader** | [Read the published Shelf edition →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
 | **Method** | Narrative nonfiction + institutional analysis + current primary-source research |
 
 Artificial intelligence is becoming a form of state capacity.
 
 *Intelligence State* follows that transformation across the Americas and asks a harder question than who builds the best model: **who can make intelligence abundant without making sovereignty scarce?** The book treats sovereignty not as autarky but as meaningful choice under pressure across five currencies—compute, energy, data, talent, and trust.
+
+This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Svyable Shelf](https://github.com/Svyable/shelf/tree/main/books/intelligence-state) in September 2026; later Desk edits do not silently rewrite that edition.
 
 ## Contents
 
