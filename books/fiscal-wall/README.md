@@ -41,3 +41,4 @@ The argument is deliberately two-sided. A refinancing wall is not the same thing
 
 - [Research brief](research/README.md)
 - [Source ledger](research/source-ledger.md)
+- [Release review — 2026-09-01](research/release-review-2026-09-01.md)
