@@ -1,7 +1,7 @@
 /** Parse portal README and publication hubs. No extra config files. */
 
 export function extractSection(markdown, heading) {
-  const re = new RegExp(`^##\s+${heading.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\s*$`, 'im');
+  const re = new RegExp(`^##\\s+${heading.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*$`, 'im');
   const match = re.exec(markdown);
   if (!match) return '';
   const start = match.index + match[0].length;
