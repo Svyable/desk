@@ -239,3 +239,119 @@ If enough of it becomes a governed commons, the field can support more competito
 The first public map was the cancer genome.
 
 The next public map should be what happened after we tried to treat it.
+
+The hardest part of building that map may be deciding what a failed treatment record means.
+
+A patient can receive a well-manufactured product containing targets that were predicted appropriately and still recur. The failure might belong to the targets. It might belong to immune suppression, tumor heterogeneity, timing, combination therapy or biology no current assay captured. A common database that labels the entire event simply nonresponse can teach a model the wrong lesson.
+
+Clinical labels are not ground truth merely because they are outcomes.
+
+They need context.
+
+This is where the old disciplines of medicine remain essential inside a data-heavy field. Pathologists have to describe the specimen. Oncologists have to record the disease setting and intervening therapies. Immunologists have to distinguish failure to generate T cells from failure of generated T cells to control cancer. Bioinformaticians have to preserve which model version selected the targets. Manufacturing teams have to record deviations and delays.
+
+A row in a database can contain a whole causal argument disguised as fields.
+
+Poorly designed fields freeze bad assumptions at scale.
+
+That is why the data model should evolve with the science.
+
+Early registries may record only whether a candidate was selected and whether an immune response was observed. Later versions may need clonality, peptide presentation, class I and class II features, spatial immune context, prior checkpoint exposure and measures of residual disease. The system should preserve old records without pretending old measurements were as rich as new ones.
+
+Longitudinal science needs versioned data as much as software does.
+
+The same is true of consent.
+
+A patient who agrees to sequencing for one treatment may not have imagined that the combined record of germline DNA, tumor DNA, HLA type, immune repertoire and long-term clinical outcome could become training material for a commercial model used decades later. Broad consent can make future research possible, but broad cannot mean invisible.
+
+Patients should be told when their treatment is also creating a reusable data asset.
+
+That disclosure need not imply they are owed a personal royalty every time a model improves. The economics would quickly become absurd if every observation generated perpetual micropayments across a learning system. It does mean the institution should be honest about the secondary value and about who can access it.
+
+Trust is easier to maintain before the value becomes obvious.
+
+The history of genomics contains repeated episodes in which participants learned later that samples or data had been used in ways they did not expect. The legal details differ across cases. The recurring lesson is that permission obtained through a dense form is weaker than legitimacy sustained through a relationship.
+
+Personalized cancer medicine has an opportunity to begin differently because the learning loop is visible from the start.
+
+Every patient knows the treatment was designed from information specific to them.
+
+The platform can explain that the same process becomes better by learning across many people.
+
+That is not a sinister secret.
+
+It is the scientific proposition.
+
+A commons worthy of the name should also return something to participants beyond abstract social benefit.
+
+One return is portability. Patients should be able to receive useful records of what was learned about their tumor and what was actually administered. If they recur at another hospital, the new team should not have to reconstruct the treatment from a billing code and a PDF summary.
+
+The record should identify the sample, the relevant sequence data or accessible location, HLA type, selected targets, product composition, treatment dates, manufacturing platform and major immune or molecular follow-up results where available.
+
+This does not require exposing proprietary model weights.
+
+It requires treating the patient's therapeutic history as part of the patient rather than as exhaust owned by the vendor.
+
+Another return is auditability.
+
+If a platform consistently performs less well for certain HLA alleles or specimen types, clinicians and regulators need to know. The company may be allowed to keep its model private. It should not be allowed to keep clinically significant blind spots private indefinitely.
+
+The August 2026 FDA draft guidance on potency assessment for active immunotherapy products is relevant to this broader direction even though it does not prescribe a neoantigen data commons. The agency is explicitly thinking about how potency assurance should work for products intended to induce or modulate immune effector cells, including peptide- and protein-based active immunotherapies. That is evidence that the measurement problem is becoming a regulatory object rather than remaining only an academic concern.
+
+Potency is not identical to clinical outcome.
+
+It is one more bridge that has to be documented.
+
+For a mass-produced vaccine, a potency assay asks whether repeated lots meet a standard related to expected biological activity. For a personalized product, the assay strategy has to coexist with intentional variation in antigen sequence. The exact solution will differ by modality. The data generated through that solution can become another private learning layer unless common concepts and enough performance information are shared.
+
+The commons therefore includes standards for measurement, not only records of patients.
+
+Without common measurement, data volume can create false confidence.
+
+Ten thousand immune-response records generated by incompatible assays may be less useful than one thousand carefully harmonized records. A company with internally consistent methods can learn quickly from its own data while the public field fails to compare across platforms.
+
+This is another way private integration can beat public fragmentation without any company doing anything improper.
+
+The public response should be to improve the shared measurement infrastructure, not to punish integration.
+
+There is a precedent in genomics.
+
+Reference materials, common file formats, benchmark datasets and standardized variant nomenclature allowed sequencing laboratories to disagree usefully rather than merely incompatibly. They did not erase proprietary instruments or software. They created a language in which performance could be compared.
+
+Neoantigen medicine needs the equivalent language across the full chain from variant to peptide to immune response to outcome.
+
+The details will be technical and tedious.
+
+That is why they matter.
+
+Markets are good at financing a product that can produce a dramatic result. They are less reliable at financing the grammar that lets everyone compare results.
+
+The public sector has repeatedly been useful at grammar.
+
+The data commons should also remember time.
+
+A five-year melanoma outcome can overturn the interpretation of a one-year immune response. A model trained on early recurrence may undervalue a target set that creates slower but more durable immune control. An adverse effect may emerge after the period that interested the original sponsor. A company may be acquired while patients remain in follow-up.
+
+The dataset cannot end when the press release does.
+
+Long-term follow-up is expensive precisely because the commercial event often arrives earlier than the scientific answer.
+
+Public registries and cooperative research networks can keep watching after a product has become routine or a sponsor's attention has moved elsewhere.
+
+That continuity becomes more valuable when the product changes patient by patient. There is no single frozen molecule from which later researchers can infer what earlier patients received. The record is part of reproducibility.
+
+The most radical claim in this chapter is therefore also the most administrative.
+
+A personalized medicine should leave behind a standardized, durable account of what was attempted and what happened.
+
+Not every account must be public.
+
+Not every field must be shared immediately.
+
+Not every company must surrender the data advantage it paid to create.
+
+But the system should reject the idea that thousands of patient-specific experiments can vanish into mutually inaccessible silos and still count as an efficient scientific economy.
+
+The patients already supplied the heterogeneity.
+
+The institutions should supply the memory.
