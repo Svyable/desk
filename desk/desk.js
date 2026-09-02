@@ -1,4 +1,4 @@
-import { parseBookReadme, parsePortalCatalog } from 'https://svyable.github.io/shelf/reader/js/catalog.js';
+import { parseBookReadme, parsePortalCatalog } from './catalog-contract.js';
 
 const state = {
   owner: '',
