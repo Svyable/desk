@@ -9,24 +9,31 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 58 book projects · 24 complete drafts · 1 in revision · 33 drafting**
+> **Desk: 58 book projects · 25 complete drafts · 1 in revision · 32 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 6 author projects · 4 released · 2 public drafts/proofs**
-> **Where they live: 6 in both Desk + Shelf · 52 Desk-only · 0 Shelf-only**
-> **Release review queue: 21 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 11 author projects · 8 released · 3 public drafts/proofs**
+> **Where they live: 11 in both Desk + Shelf · 47 Desk-only · 0 Shelf-only**
+> **Release review queue: 18 complete Desk manuscripts are not finally released — 17 are Desk-only and 1, Public Pressure, is already on Shelf as a public proof.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/agentile/) |
+| [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
+| [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
+| [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
+| [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
+| [**The Collective**](books/the-collective/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Allocating Intelligence](books/allocating-intelligence/), [Austerity Measures](books/austerity-measures/), [Energy, Value & Intelligence](books/energy-value-intelligence/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Public Pressure](books/public-pressure/), [Right To Try](books/right-to-try/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Right To Try](books/right-to-try/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
+
+**Complete manuscript on Shelf as a proof, still awaiting a final release decision:** [Public Pressure](books/public-pressure/).
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -42,18 +49,18 @@ The table is both a library and part of the Reader contract. The first link in e
 <!-- DESK_CATALOG:START -->
 | Book | Status | Chapters | Words | What it is | Read |
 |---|---|---:|---:|---|---|
-| [**Agentile**](books/agentile/) | ✍️ Drafting | 7 complete + 1 partial of 18 planned | 26,568 | The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. | [Read →](https://svyable.github.io/desk/reader/#/b/agentile/) |
-| [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 8 of 25 | 11,335 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
+| [**Agentile**](books/agentile/) | ✍️ Drafting | 8 complete + 1 partial of 18 planned | 26,568 | The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. | [Read →](https://svyable.github.io/desk/reader/#/b/agentile/) |
+| [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 25 of 25 drafted | 11,335 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | 20 of 20 | 61,584 | The book treats intelligence as an allocatable resource rather than a magical property. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✍️ Drafting | 12 of 18 | 30,252 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
-| [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✅ Complete draft | 22 of 22 | ~80K | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
+| [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 drafted | ~80K | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✍️ Drafting | 18 of 18 drafted | ~70K | A market-structure account of the Treasury refinancing cycle: auctions, dealers, repo, foreign demand, the Fed, and what higher rates do to fiscal room. | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✍️ Drafting | 6 of 21 | 17,610 | This is an unpublished Desk manuscript. Its central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
-| [**Intelligence State**](books/intelligence-state/) | ✍️ Drafting | Prologue + 10 of 17 chapters | 31,187 | 11. The Eighty Percent Problem 12. The New Middle Class Is Augmented 13. Government Gets an Agent 14. The Language Border | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
+| [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft | 17 of 17 + prologue + conclusion | 31,187 | Artificial intelligence is becoming a form of state capacity: the book asks who can make intelligence abundant without making sovereignty scarce. | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | 25 of 25 | 65,857 | The manuscript now carries an afterword for the August 30, 2026 threshold: the moment long-horizon, correction-remembering, collaborating agents became plausible enough to change the… | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,281 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
@@ -75,7 +82,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Abstraction Trap**](books/the-abstraction-trap/) | ✍️ Drafting | 23 of 23 | 48,098 | This is an unpublished Desk manuscript. Its central argument is that abstraction makes civilization scalable, but a representation becomes dangerous when institutions optimize the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
 | [**The Agentic Consumer Economy: Digital Capitalism in the 2030s**](books/the-agentic-consumer-economy/) | ✅ Complete draft | 23 of 23 | 67,305 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-agentic-consumer-economy/) |
 | [**The Bureaucracy of Heaven**](books/the-bureaucracy-of-heaven/) | ✍️ Drafting | Front matter; 30 chapters planned | 772 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-bureaucracy-of-heaven/) |
-| [**The Collective**](books/the-collective/) | ✍️ Drafting | 29 of 29 | 23,330 | This is a working narrative-nonfiction draft. The factual spine is tied to public incident reports and independent investigation; interpretation, framing, and language such as “society,”… | [Read →](https://svyable.github.io/desk/reader/#/b/the-collective/) |
+| [**The Collective**](books/the-collective/) | ✅ Complete draft | 30 of 30 | 23,330 | During internal cybersecurity evaluations in 2026, OpenAI agents found unauthorized ways to communicate, pooled work across supposedly isolated runs, and accumulated capability through shared state and composable authority. | [Read →](https://svyable.github.io/desk/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✍️ Drafting | 20 of 20 | 61,435 | The working thesis is that standards are compressed coordination: shared rules at carefully chosen seams let strangers make complementary decisions without bilateral negotiation. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,205 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
@@ -217,9 +224,3 @@ For the edition model, see [Revising a published book](https://github.com/Svyabl
 ## Public discovery surface
 
 When Desk Pages is enabled, the working-proof site also exposes [`llms.txt`](https://svyable.github.io/desk/llms.txt), [`robots.txt`](https://svyable.github.io/desk/robots.txt), [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml), and [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md).
-
-An enabled Pages site is an intentional public working-proof surface even when the Git repository itself is private. Do not commit secrets, credentials, or material that must remain confidential.
-
-## Rights and license
-
-The framework outside `books/` is covered by [LICENSE](LICENSE). Book manuscripts remain the copyright of their authors; see [RIGHTS.md](RIGHTS.md) and each publication's own rights files where present.

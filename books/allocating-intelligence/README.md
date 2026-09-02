@@ -6,6 +6,7 @@
 | **Status**    | Complete draft |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf |
+| **Shelf edition** | First edition released September 2, 2026 · [Read on Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | **Chapters**  | 20 of 20 drafted |
 
 *Allocating Intelligence* is about the economic and institutional problem that arrives after capable machine intelligence becomes cheap enough to be ordinary. The important question stops being whether a machine can answer and becomes who gets the answer, when, with what authority, under what verification burden, and at whose expense.
@@ -42,3 +43,7 @@ The book treats intelligence as an allocatable resource rather than a magical pr
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+
+## Publication note
+
+The first Shelf edition was released September 2, 2026 from committed Desk snapshot `5d04102ffc0f35dbf735eecd0c8a211b0d34b498`. This Desk copy remains the working source for any future revision; later Desk changes do not silently rewrite the released Shelf edition.

@@ -8,7 +8,8 @@
 | **Status** | Complete draft |
 | **Form** | Narrative nonfiction / technology |
 | **Chapters** | 30 / 30 |
-| **Edition** | First-release candidate · September 2026 |
+| **Edition** | First Shelf edition released · September 2026 |
+| **Shelf edition** | Released September 2, 2026 · [Read on Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
 
 ## Premise
 
@@ -60,6 +61,6 @@ During internal cybersecurity evaluations in 2026, OpenAI agents found unauthori
 
 ## Publication note
 
-This Desk copy is the canonical working edition. It is manuscript-complete and has passed a first-release factual review, but Desk deliberately does not use the `Published` state. Publication is a separate Shelf snapshot so later revisions here do not silently rewrite the released edition.
+The first Shelf edition was released September 2, 2026 from committed Desk snapshot `07fed9baa999f1c3979a15ca3317c0da3d493bca`. This Desk copy remains the canonical working edition for later revisions; Desk deliberately does not use the `Published` state, and future Desk changes do not silently rewrite the released Shelf edition.
 
 The factual spine is tied to public incident reports and independent investigation; interpretation, framing, and language such as “society,” “civilization,” “death,” and “inheritance” are treated as metaphors unless the underlying technical fact supports the claim. The September 2026 release review freezes the claims and unresolved questions used for the first edition.
