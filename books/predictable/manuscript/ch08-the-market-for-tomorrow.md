@@ -10,7 +10,11 @@ Then one more number appeared.
 
 It had a bid and an ask.
 
-Kalshi had prevailed in a court fight that allowed its election contracts to trade while the government's challenge continued. Participants could buy one side of an outcome and somebody else could take the other.
+Kalshi's path to that order book had included an eight-hour false start. After a district-court victory, its congressional-control contracts traded on September 12 until an appellate court imposed an administrative stay. On October 2, the D.C. Circuit let trading resume while the government's appeal continued.
+
+The October order did not bless election markets in general. The court found that the CFTC had not shown the irreparable harm required to keep the contracts shut while the appeal proceeded.
+
+Participants could buy one side of an outcome and somebody else could take the other.
 
 The exchange did not need to publish an editorial view of the race.
 
@@ -161,6 +165,12 @@ The mechanism does not remove bad motives.
 It can turn them into trading opportunities.
 
 That corrective force has limits.
+
+In 2025, the conflict became less hypothetical. A political candidate traded on his own candidacy on Kalshi. The exchange's compliance team contacted him the same day; after he acknowledged that the trades violated its rules, Kalshi required disgorgement of $246.36, imposed a $2,000 penalty, and suspended him for five years.
+
+The amounts were tiny. The institutional point was not.
+
+A regulated market had made prohibited self-interested trading visible enough to punish. The episode does not tell us how often similar conduct escapes detection, or what happens when a well-capitalized trader tries to move a thin market rather than make a few improper trades.
 
 Position limits matter. Fees matter. Spreads matter. Account access matters. Capital constraints matter. If correcting a small mispricing costs more than the expected gain, the error can remain.
 
