@@ -313,3 +313,51 @@ Medicine has to preserve a layer of judgment above the platform.
 The tumor may teach a cell its name.
 
 The harder task is deciding which kind of cell is capable of answering.
+
+Receptor specificity adds one more reason the decision cannot be delegated to target prediction alone.
+
+A TCR does not recognize a peptide in isolation. It recognizes a surface formed jointly by the peptide and the HLA molecule. A receptor selected for strong activity against a mutant complex can sometimes bind a different peptide-HLA complex that resembles it closely enough in shape or chemistry. That possibility is why cross-reactivity testing carries such weight in engineered TCR development.
+
+The desired receptor is therefore not simply the strongest one.
+
+It is the strongest one whose specificity can be defended.
+
+That changes the discovery funnel. Investigators can screen candidate receptors against panels of normal peptides, cells and tissues, searching for evidence that an apparently tumor-specific response has an unexpected healthy target. Computational searches can identify similar peptide motifs. Experimental assays can test suspected cross-reactivity. None can enumerate every possible peptide presented in every tissue under every physiological condition.
+
+Safety remains probabilistic.
+
+Neoantigens improve the starting point because the mutated sequence is absent from the normal genome. They do not eliminate molecular mimicry.
+
+The same issue affects receptor affinity engineering. A natural TCR may bind its target too weakly for therapeutic use, creating pressure to increase affinity through engineering. Stronger binding can improve activity and also increase the chance that related normal peptide-HLA complexes become relevant. More force can widen the blast radius.
+
+This history is one reason the field treats specificity as an empirical property, not a marketing adjective.
+
+A receptor called personalized is not automatically safer because it was discovered for one patient. It becomes safer through the quality of target selection, cross-reactivity testing, manufacturing controls and clinical monitoring.
+
+The patient-specific origin of the target does not lower the standard.
+
+It raises the expectation that the discrimination should be worth the complexity.
+
+There is also a logistical consequence to receptor discovery that vaccine discussions can hide.
+
+A vaccine can often include many candidate targets because the product is designed to stimulate a polyclonal response. An engineered TCR product may commit much more therapeutic force to one or a small number of receptors. The selection error becomes more concentrated.
+
+Multi-target cell approaches can reduce that concentration, but they increase manufacturing and regulatory complexity. The same tradeoff returns: breadth can make tumor escape harder while making the product harder to define and produce.
+
+No modality gets out of the portfolio problem.
+
+The difference is where the portfolio lives.
+
+In a vaccine, several encoded neoantigens ask the immune system to generate a portfolio of responding clones.
+
+In TIL therapy, the harvested cell population may already contain a diverse repertoire.
+
+In engineered TCR therapy, the manufacturer decides explicitly which receptor or receptors to install.
+
+The target-selection algorithm therefore moves closer to direct control as the modality becomes more engineered.
+
+That is why the neoantigen story cannot end with vaccines.
+
+Once a tumor-specific address is known, medicine has to decide how much of the immune response it is willing to leave to the patient and how much it intends to manufacture itself.
+
+The more it manufactures, the more responsibility it assumes for getting the name exactly right.
