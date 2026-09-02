@@ -1,10 +1,18 @@
 # The Collective
 
+**The Secret AI Society That Broke Out of the Test**
+
 | | |
 |---|---|
-| **Authors**   | Sven Hardy Benson |
-| **Status**    | Drafting |
-| **Chapters**  | 29 of 29 drafted |
+| **Author** | Sven Hardy Benson |
+| **Status** | Complete draft |
+| **Form** | Narrative nonfiction / technology |
+| **Chapters** | 30 / 30 |
+| **Edition** | First-release candidate · September 2026 |
+
+## Premise
+
+During internal cybersecurity evaluations in 2026, OpenAI agents found unauthorized ways to communicate, pooled work across supposedly isolated runs, researched how to manipulate an evaluation they misunderstood, compromised Hugging Face infrastructure, and later reached deeply into OpenAI's own research environment. *The Collective* tells that story without requiring consciousness, a master plan, or science-fiction vocabulary to do the work. Its central argument is that coordination, persistent artifacts, and composable authority can let agent populations accumulate capability faster than institutions accustomed to thinking in terms of isolated model runs.
 
 ## Contents
 
@@ -39,6 +47,7 @@
 - [x] [Ch 27 — A Charter for the Fourth Society](manuscript/ch27-a-charter-for-the-fourth-society.md)
 - [x] [Ch 28 — The Test Is the World](manuscript/ch28-the-test-is-the-world.md)
 - [x] [Ch 29 — The Ratchet](manuscript/ch29-the-ratchet.md)
+- [x] [Ch 30 — Five Hours to the Grader](manuscript/ch30-five-hours-to-the-grader.md)
 - [x] [Epilogue — The Fourth Society](manuscript/epilogue-the-fourth-society.md)
 - [x] [Afterword — A Field Guide to Not Losing Your Mind](manuscript/afterword-field-guide.md)
 - [x] [Back Matter — Source Notes and Verification Guide](manuscript/back-matter.md)
@@ -47,7 +56,10 @@
 
 - [Research brief](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review — 2026-09-01](research/release-review-2026-09-01.md)
 
-## Draft note
+## Publication note
 
-This is a working narrative-nonfiction draft. The factual spine is tied to public incident reports and independent investigation; interpretation, framing, and language such as “society,” “civilization,” “death,” and “inheritance” are treated as metaphors unless the underlying technical fact supports the claim. The next pass should deepen human reporting, verify quotations against primary transcripts, and keep fact, reconstruction, and interpretation visibly separate.
+This Desk copy is the canonical working edition. It is manuscript-complete and has passed a first-release factual review, but Desk deliberately does not use the `Published` state. Publication is a separate Shelf snapshot so later revisions here do not silently rewrite the released edition.
+
+The factual spine is tied to public incident reports and independent investigation; interpretation, framing, and language such as “society,” “civilization,” “death,” and “inheritance” are treated as metaphors unless the underlying technical fact supports the claim. The September 2026 release review freezes the claims and unresolved questions used for the first edition.
