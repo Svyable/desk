@@ -152,11 +152,27 @@
 
 **Primary sources:** S24, S15, S16; cross-chapter synthesis.
 
-## Ch 20 — The Conversion Civilization
+## Ch 20 — A Gigawatt on the Ground
+
+**Question:** Does a real gigawatt-scale AI campus behave like a conversion system in which power, chips, construction, finance, customers, grid rules, and local public value must become simultaneously compatible before announced capacity becomes useful intelligence?
+
+**What would make this false?** If published campus capacity maps quickly and predictably into productive compute with few losses between interconnection, construction, hardware installation, utilization, customer demand, and local value capture; or if those interfaces add little explanatory value beyond the headline gigawatt number.
+
+**Primary sources:** S30, S31, S32, S33, S34, S35.
+
+## Ch 21 — Against the Triumvirate
+
+**Question:** Can the framework survive its strongest alternatives: intelligence dissolving physical constraints, energy becoming an ordinary commodity input, markets coordinating enough value without a broader ledger, bottlenecks disappearing instead of migrating, and conversion capacity proving too vague to predict?
+
+**What would make the book's framework false?** Sustained evidence that these alternatives dominate: useful cognition becomes energy-light and demand-saturated; infrastructure moves on near-software timescales; prices internalize the important consequences with little institutional correction; strategic dependencies substitute cheaply under stress; and measured conversion institutions add little predictive power once ordinary prices, technology quality, and management are controlled for.
+
+**Primary sources:** S04, S05, S08, S13, S14, S19; counter-thesis synthesis rather than a separate empirical claim set.
+
+## Ch 22 — The Conversion Civilization
 
 **Question:** Is a civilization's adaptive advantage better described by its ability to convert among physical capacity, intelligence, and valued outcomes than by raw inventories of any one input?
 
-**What would make this false?** If societies with large raw energy, financial, or cognitive inventories reliably outperform societies with stronger conversion institutions but fewer raw resources.
+**What would make this false?** If societies with large raw energy, financial, or cognitive inventories reliably outperform societies with stronger conversion institutions but fewer raw resources, or if the mechanisms identified in Ch 21 make the conversion lens redundant.
 
 **Primary sources:** S09, S14, S19, S20; synthesis of the full source ledger.
 
