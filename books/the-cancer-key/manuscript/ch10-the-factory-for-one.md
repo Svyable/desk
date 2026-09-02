@@ -389,3 +389,21 @@ Industrialization is not only the removal of labor.
 It is the conversion of rare heroics into predictable service.
 
 The factory for one succeeds when uniqueness stops requiring exception handling.
+
+Potency adds one final complication because a personalized product has to be different by design and comparable in function.
+
+A regulator does not need every patient to receive the same antigen sequence. It does need a defensible way to know that each released product has the biological capacity expected of the platform. That may involve assays measuring expression, antigen production or immune-stimulating activity depending on the modality and stage of development.
+
+The August 2026 FDA draft guidance on potency assessment for active immunotherapy products shows how directly this question has entered regulatory science. The document is broader than neoantigen vaccines and remains draft guidance, but its existence reflects the problem: immune therapies need potency strategies linked to intended biological activity, not merely chemical identity.
+
+For a personalized platform, potency cannot become a disguised test of whether one patient's chosen neoantigens are clinically effective. That answer comes later and depends on the patient. The release assay has a narrower job: show that the product was made in a way capable of performing the platform's intended function.
+
+The distinction preserves both rigor and speed.
+
+If every personalized sequence required a bespoke clinical-style validation before release, treatment would arrive too late. If sequence variability were treated as irrelevant to product performance, the platform would ask regulators to trust exactly the part that changes.
+
+The factory for one is therefore an exercise in finding the right invariants.
+
+The payload can change.
+
+Identity, traceability, manufacturing control and a defensible relationship between process and potency cannot.
