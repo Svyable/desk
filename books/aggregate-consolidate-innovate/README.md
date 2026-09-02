@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 22 of 25 drafted |
+| **Chapters**  | 23 of 25 drafted |
 
 ## Contents
 
@@ -31,7 +31,7 @@
 - [x] [Ch 20 — AI as Innovation Partner](manuscript/ch20-ai-as-innovation-partner.md)
 - [x] [Ch 21 — Personal Throughput](manuscript/ch21-personal-throughput.md)
 - [x] [Ch 22 — The Weekly Consolidation](manuscript/ch22-the-weekly-consolidation.md)
-- [ ] Ch 23 — The Portfolio of Experiments
+- [x] [Ch 23 — The Portfolio of Experiments](manuscript/ch23-the-portfolio-of-experiments.md)
 - [ ] Ch 24 — Knowing When to Stop
 - [ ] Ch 25 — Begin Again
 - [ ] Back Matter
