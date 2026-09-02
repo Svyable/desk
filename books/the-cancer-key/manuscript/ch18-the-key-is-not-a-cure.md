@@ -291,3 +291,77 @@ Then the key can be cut.
 That is smaller than a universal cure.
 
 It may be more consequential because it is true.
+
+There is another reason to resist the word cure even when a therapy becomes very good.
+
+Oncology uses the word differently depending on where the patient stands. After surgery for localized disease, a patient may never recur and eventually be described in ordinary conversation as cured even though no test can prove on the day of treatment that every malignant cell is gone. In metastatic disease, a durable complete response can last for years and still leave clinicians cautious about declaring the problem finished. In some blood cancers, molecular tests can look for residual disease at extraordinary sensitivity. In solid tumors, absence is harder to demonstrate.
+
+The language is statistical because the disease is hidden.
+
+A successful adjuvant neoantigen vaccine may create its greatest benefit by making something not happen. A patient who would have recurred does not. There is no dramatic tumor melting on a scan because the visible tumor was already removed. The intervention changes a probability distribution rather than producing an observable rescue scene.
+
+That makes the achievement easy to understate and easy to overstate.
+
+If recurrence falls substantially, the benefit is clinically important even before every overall-survival question has matured. A recurrence can mean new surgery, systemic therapy, disability, fear and eventual death. Preventing it matters. But recurrence-free survival is still not identical to curing every treated patient. Some would never have recurred without the vaccine. Some will recur despite it. Some may recur later rather than never.
+
+The denominator is part of the meaning.
+
+This is where biomarkers may alter the moral and economic shape of treatment. If circulating tumor DNA or another marker can identify people with residual disease after surgery, the personalized intervention can be concentrated among patients whose risk is demonstrably higher. The therapy becomes less like treating an entire population against an uncertain future and more like intercepting a molecularly visible threat.
+
+That would improve more than cost-effectiveness.
+
+It would make the word personalization apply to the decision to treat, not only to the contents of the vial.
+
+A therapy is not fully personalized merely because its sequence changes. It is more personalized when the health system also understands who needs it, when they need it, which targets matter and when another strategy is better.
+
+This matters for negative results.
+
+A failed trial can mean the target class was wrong. It can mean the disease setting was wrong. It can mean the timing was wrong, the combination was wrong, the patients were too heterogeneous, the product arrived too late or the endpoint failed to capture a real but insufficient benefit. These explanations are not excuses to keep every platform alive. They are hypotheses that have to be tested against data.
+
+A mature field learns to stop.
+
+That skill is as important as learning to continue.
+
+If randomized trials repeatedly show that a particular cancer does not benefit from personalized vaccination, the right response is not to declare the disease uniquely difficult and sell the same idea directly to patients anyway. It is to ask whether another immune modality, another target class or another therapeutic principle deserves the resources more.
+
+The existence of a beautiful mechanism does not create an obligation to commercialize it everywhere.
+
+This is especially important because personalization can make failure difficult to generalize. Every unsuccessful patient can be described as biologically unique. Every trial can be said to have selected the wrong targets. Every tumor type can be assigned another combination worth trying. The platform can become impossible to falsify one individualized explanation at a time.
+
+Population evidence protects personalized medicine from that trap.
+
+The individual treatment changes.
+
+The process can still succeed or fail as a strategy.
+
+That is why the large melanoma trial matters so much. It asks whether thousands of individualized molecular decisions, taken together, produce a population-level benefit. The uniqueness of each product does not prevent the method from being tested.
+
+The same principle should govern the frontier market.
+
+A clinic may reasonably offer an individualized experimental treatment under a lawful pathway to a patient who has exhausted better-supported options. It should not use uniqueness as a reason its accumulated outcomes can never be evaluated. If the process is repeated, the process has a denominator.
+
+That denominator is the bridge between compassion and knowledge.
+
+The word cure also hides the possibility that cancer may become more manageable without disappearing.
+
+Some of the greatest gains in oncology have come from turning diseases that once killed quickly into conditions patients live with for years. Targeted therapies can be sequenced. Immunotherapies can produce long remissions. Better imaging and molecular monitoring can catch recurrence earlier. Surgery and radiation can repeatedly control limited metastatic disease in selected patients.
+
+Neoantigen medicine could fit into that history even if it never produces one-shot eradication across cancers.
+
+A vaccine could reduce recurrence risk after surgery. A TCR therapy could eliminate a resistant clone. A second individualized product could be generated when the tumor evolves. Molecular monitoring could identify the next vulnerable population before radiographic progression. The treatment becomes adaptive rather than final.
+
+That future is less satisfying than a cure headline.
+
+It may save more lives.
+
+The cost problem becomes harder, because serial personalization can turn a patient's cancer into a long-running custom program. The evidence problem becomes harder, because benefit must be attributed across sequences of interventions. The regulatory problem becomes harder, because the platform may change while the disease changes. The data problem becomes more important, because longitudinal history becomes part of the treatment decision.
+
+The key is no longer one object.
+
+It becomes a capability.
+
+That distinction clarifies the title better than any disclaimer can. Humanity's most feared ailment is unlikely to be solved by discovering one molecule that cancer forgot to defend against. It may be solved piecemeal by making more malignant states legible, targetable and containable until the old category cancer contains fewer situations in which medicine has no useful move.
+
+The ambition should remain large enough to notice that change.
+
+The claim should remain narrow enough to survive it.
