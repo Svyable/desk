@@ -48,3 +48,8 @@ The constructive argument is institutional. Powerful automated systems become mo
 - [Research brief](research/README.md)
 - [Readable source ledger](research/source-ledger.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
+- [First-release review — September 2, 2026](research/release-review-2026-09-02.md)
+
+## Publication note
+
+This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `9032582673361c01be7b4c4a8105bbf61e4e5a48` on September 2, 2026. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot.
