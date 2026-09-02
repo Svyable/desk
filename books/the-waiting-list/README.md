@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Front matter, prologue, epilogue, back matter; 10 of 20 chapters drafted |
+| **Chapters** | Front matter, prologue, epilogue, back matter; 11 of 20 chapters drafted |
 | **Language** | English |
 | **Rights** | All Rights Reserved |
 | **AI use** | Reserved; see rights file |
@@ -28,7 +28,7 @@ The central thesis is that when a price cannot or should not allocate a scarce g
 - [x] [Ch 8 — Kidneys Without Cash](manuscript/ch08-kidneys-without-cash.md)
 - [x] [Ch 9 — A Nobel for a Marriage That Never Happened](manuscript/ch09-a-nobel-for-a-marriage-that-never-happened.md)
 - [x] [Ch 10 — School Choice, Rebuilt](manuscript/ch10-school-choice-rebuilt.md)
-- [ ] [Ch 11 — The Uber Problem](manuscript/ch11-the-uber-problem.md)
+- [x] [Ch 11 — The Uber Problem](manuscript/ch11-the-uber-problem.md)
 - [ ] [Ch 12 — Dating by Algorithm](manuscript/ch12-dating-by-algorithm.md)
 - [ ] [Ch 13 — The Vaccine Line](manuscript/ch13-the-vaccine-line.md)
 - [ ] [Ch 14 — Matching Refugees to Cities](manuscript/ch14-matching-refugees-to-cities.md)
