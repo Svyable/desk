@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Front matter, prologue, epilogue, back matter; 12 of 20 chapters drafted |
+| **Chapters** | Front matter, prologue, epilogue, back matter; 13 of 20 chapters drafted |
 | **Language** | English |
 | **Rights** | All Rights Reserved |
 | **AI use** | Reserved; see rights file |
@@ -30,7 +30,7 @@ The central thesis is that when a price cannot or should not allocate a scarce g
 - [x] [Ch 10 — School Choice, Rebuilt](manuscript/ch10-school-choice-rebuilt.md)
 - [x] [Ch 11 — The Uber Problem](manuscript/ch11-the-uber-problem.md)
 - [x] [Ch 12 — Dating by Algorithm](manuscript/ch12-dating-by-algorithm.md)
-- [ ] [Ch 13 — The Vaccine Line](manuscript/ch13-the-vaccine-line.md)
+- [x] [Ch 13 — The Vaccine Line](manuscript/ch13-the-vaccine-line.md)
 - [ ] [Ch 14 — Matching Refugees to Cities](manuscript/ch14-matching-refugees-to-cities.md)
 - [ ] [Ch 15 — The GPU Waiting List](manuscript/ch15-the-gpu-waiting-list.md)
 - [ ] [Ch 16 — Whose Water Is It](manuscript/ch16-whose-water-is-it.md)
