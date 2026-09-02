@@ -1,0 +1,9 @@
+{
+  "year": 2025,
+  "author_or_institution": "International Renewable Energy Agency",
+  "title": "Renewable Power Generation Costs in 2024",
+  "source_type": "Authoritative intergovernmental cost report",
+  "book_use": "Chapter 11 benchmark for recent utility-scale renewable generation costs and the share of newly commissioned renewable capacity cheaper than the cheapest new fossil-fuel alternative on an LCOE basis",
+  "url": "https://www.irena.org/Publications/2025/Jul/Renewable-Power-Generation-Costs-in-2024",
+  "notes": "IRENA reports 2024 global weighted-average LCOE of about USD 34/MWh for new utility-scale onshore wind and USD 43/MWh for new utility-scale solar PV, with 91% of newly commissioned utility-scale renewable capacity below the cheapest newly installed fossil-fuel alternative on its methodology. This source does not support attributing USD 33/MWh wind and USD 44/MWh solar to 2025; values in that range are associated with earlier IRENA vintages. Chapter 11 should therefore use the 2024 vintage explicitly unless a later IRENA cost report becomes available. LCOE remains a plant-level metric and is not a retail bill or a full-system reliability cost."
+}
