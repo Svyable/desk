@@ -271,3 +271,25 @@ That is the lesson the detour ultimately supplies.
 COVID made mRNA look like a molecule that could scale.
 
 Cancer will test whether it can become a process that can vary.
+
+That process also inherits a supply-chain politics the pandemic made unusually visible.
+
+RNA manufacture depends on specialized enzymes, nucleotides, lipids, filters, single-use components, analytical reagents and equipment whose suppliers may be concentrated. A personalized program uses far fewer doses than a pandemic campaign, but scarcity at one upstream input can still stop every patient-specific batch waiting behind it.
+
+Low volume does not guarantee resilience.
+
+It can make a product a low-priority customer for suppliers optimized around larger markets.
+
+This is where platform scale creates another advantage. A large company can negotiate long-term supply, qualify alternate vendors, hold inventory and invest in redundant analytical capacity. A small clinic or early-stage developer may depend on one contract manufacturer whose own place in the supplier queue is invisible to the patient.
+
+The difference between an experiment and infrastructure includes procurement.
+
+Regulators care because a supplier change can alter product quality. Companies care because qualification work takes time. Governments may care once the therapy becomes a standard treatment and domestic patients depend on components manufactured abroad.
+
+The pandemic taught health systems to map dependencies that had previously looked like ordinary purchasing.
+
+Personalized cancer medicine will need the same map, even though the quantities are smaller.
+
+A patient-specific dose is tiny.
+
+The industrial chain required to make it is not.
