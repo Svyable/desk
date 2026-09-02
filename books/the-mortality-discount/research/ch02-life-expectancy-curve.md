@@ -26,6 +26,10 @@ Recent U.S. history is particularly useful because the line did bend. Life expec
 
 This cuts against any chapter that treats longevity as a smooth secular ascent. It also cuts against the opposite error of treating one bad period as a permanent reversal.
 
+The overdose story itself now supplies an additional warning against freezing a fast-moving trend in prose. Final NCHS data show 79,384 U.S. resident drug-overdose deaths in 2024, with the age-adjusted overdose death rate falling 26.2% from 2023 to 2024. Provisional NCHS data released May 13, 2026 estimate 69,973 overdose deaths during 2025, almost 14% below the provisional 2024 estimate; CDC's July 2026 overdose page reports a further 12.1% year-over-year decline in the preliminary count for the 12 months ending February 2026. These provisional figures can still be revised and should be labeled as such.
+
+This materially qualifies any sentence saying overdose mortality simply “remained stubbornly elevated through the recovery.” It was historically elevated in 2023, but a large subsequent decline is now part of the record. The better argument is not that overdose mortality stayed high; it is that cause-specific mortality can reverse sharply in either direction, making the aggregate life-expectancy line a poor proxy for a single biological process.
+
 ## Actuarial relevance
 
 For long-duration liabilities, age-specific mortality matters more than a single headline average. Pension and annuity exposure is especially sensitive to mortality at older ages, while life-insurance books can have different exposure depending on issue age, underwriting class, duration, and product structure.
@@ -42,5 +46,7 @@ The chapter should preserve a second counterpoint: the fact that the twentieth c
 
 - CDC/NCHS, “Mortality in the United States, 2024,” Data Brief No. 548, January 2026 — https://www.cdc.gov/nchs/products/databriefs/db548.htm
 - CDC/NCHS, “U.S. Life Expectancy Hits Record High as Drug Overdose Deaths Decline in 2024,” January 29, 2026 — https://www.cdc.gov/nchs/pressroom/releases/20260129.html
+- CDC/NCHS, “U.S. Overdose Deaths Decrease for Third Consecutive Year in 2025,” May 13, 2026 — https://www.cdc.gov/nchs/pressroom/releases/20260513.html
+- CDC, “About Overdose Prevention,” updated July 22, 2026 — https://www.cdc.gov/overdose-prevention/about/
 - CDC/NCHS, “Mortality Data” — https://www.cdc.gov/nchs/nvss/deaths.htm
 - CDC/NCHS, “United States Life Tables, 2024,” National Vital Statistics Reports, August 25, 2026 — https://www.cdc.gov/nchs/data/nvsr/nvsr75/nvsr75-05.pdf
