@@ -22,13 +22,41 @@ Legally, the human or organization remains the principal. Economically, the agen
 
 The mid-2020s produced an unusual burst of infrastructure work around this problem.
 
-Google’s Agent Payments Protocol proposed digital mandates linking user intent to agent action. Mastercard developed Verifiable Intent and Agent Pay. Visa worked on agentic payment credentials and authentication. Stripe introduced scoped payment mechanisms for agentic transactions and later a machine-payment protocol for software buying digital services. The FIDO Alliance created work around agentic authentication and accepted contributions intended to make delegated commerce more interoperable.
+Google’s Agent Payments Protocol proposed digital mandates linking user intent to agent action. Mastercard developed Verifiable Intent and Agent Pay. Visa built a Trusted Agent Protocol so merchants could recognize approved commerce agents rather than treating every automated visitor as an anonymous bot. Stripe worked on scoped agent payments and later an open Machine Payments Protocol for software buying digital services. In April 2026 the FIDO Alliance created an Agentic Authentication Technical Working Group and began standards work drawing on contributions including Google’s AP2 and Mastercard’s Verifiable Intent.
 
 The names will change.
 
 The problem will not.
 
 Delegated money requires delegated trust.
+
+It helps to separate three questions that ordinary card payments often collapse into one moment.
+
+The first is authentication: who or what is appearing at the merchant?
+
+The second is authorization: what has that actor been permitted to do?
+
+The third is accountability: when the permitted actor does the wrong thing, who answers for the loss?
+
+Agentic commerce can solve one and still fail the others.
+
+A merchant may verify perfectly that a request came from a legitimate agent provider and still have no good evidence that the consumer authorized this particular category of purchase. A payment network may know that the consumer created a valid mandate and still be unable to tell whether the agent respected an important preference embedded in the request. A user may have authorized the agent broadly enough for the charge to be technically valid while reasonably believing the agent would not choose a nonrefundable hotel, a subscription, or a seller with a weak return policy.
+
+Trust is a chain, not a badge.
+
+Visa’s current Trusted Agent Protocol makes the authentication problem unusually concrete. Merchants have spent years treating unfamiliar automated traffic as something to block, throttle, or challenge. A commerce agent can look like a scraper, a resale bot, a credential attacker, or a denial-of-service nuisance from the outside. Visa’s protocol describes cryptographic signatures that let participating merchants distinguish approved agents, link an agent interaction to consumer or device identity when appropriate, and carry payment-related information. It also lets a merchant constrain what an agent can do according to the declared purpose of the interaction.
+
+That last part matters.
+
+A browsing agent asking whether a blue jacket is in stock should not automatically receive the authority to place an order. A recognized agent is not an omnipotent agent. Merchant-side least privilege matters too.
+
+This is a quiet change in the relationship between bot defense and commerce.
+
+For years, the merchant’s problem was deciding which machines to exclude.
+
+Now some machines are customers.
+
+The merchant needs a way to recognize the difference without simply opening the door to every automated request. Recognition becomes commercial infrastructure.
 
 A human assistant with a corporate card demonstrates the old version. The employee is authorized to spend company money for certain purposes. The company sets limits. Receipts are collected. Some purchases need approval. Misuse can lead to discipline or legal action. The payment card alone does not define the authority; organizational rules surround it.
 
@@ -66,6 +94,18 @@ The practical system needs graduated autonomy.
 
 Low-cost, familiar, reversible transactions can proceed automatically. New categories, unusual merchants, large amounts, regulated goods, sensitive services, or deviations from normal behavior trigger stronger checks.
 
+Reversibility belongs in that calculation.
+
+A ten-dollar grocery substitution can be annoying. A nonrefundable international ticket can strand hundreds of dollars. A monthly software subscription may be cancellable. A same-day wire or crypto transfer may be effectively irreversible. A good authorization system should care not only about amount but about how hard the action is to undo.
+
+This is a lesson finance learned long before agents. Risk is partly about magnitude and partly about recoverability.
+
+A system can therefore allow a familiar agent to reorder household staples automatically while requiring confirmation before a first purchase from an unknown foreign merchant, a long-term financing commitment, or a transaction with weak dispute rights.
+
+The point is not to create a universal risk table.
+
+It is to make the cost of error part of the permission.
+
 This resembles the fraud systems card networks already operate. A routine grocery purchase near home looks different from an expensive transaction in another country. The difference is that agentic systems must evaluate not merely whether the transaction resembles the user but whether it satisfies delegated intent.
 
 A strange transaction can be correct.
@@ -80,17 +120,21 @@ Combining the two can reduce false declines without reducing security.
 
 This is one reason verifiable intent is conceptually important. A record of authorization can say: the user asked for this class of outcome, the agent selected this transaction within the rule, and the payment was made under that authority.
 
-When something goes wrong, the record helps answer who deviated.
+But authorization is not the same as good judgment.
 
 Suppose the user says, “Buy a refundable hotel under three hundred dollars.” The agent purchases a nonrefundable room for two hundred and fifty. The merchant accurately represented the policy. The payment went through.
 
-The transaction is authorized in a broad sense and wrong in a practical sense.
+The transaction may be authorized in the broad sense that the user empowered the agent to book lodging, and still be wrong in the practical sense that the agent violated a material constraint.
 
 Who bears the loss?
 
-Traditional card disputes are not designed to resolve every agent reasoning error. The merchant delivered exactly what was purchased. The bank authorized the card. The defect lies in representation.
+Traditional card disputes are not designed to resolve every agent reasoning error. The merchant delivered exactly what was purchased. The bank authorized the payment. The defect lies in representation.
 
-Agent providers will need warranties, liability rules, or insurance for these mistakes.
+That is the accountability problem.
+
+The obvious but inadequate answer is “the user approved the agent.” People approve many systems because institutions stand behind them. A driver does not accept all mechanical risk merely by entering a car. A depositor does not personally audit bank software. A cardholder does not negotiate chargeback rules before every purchase. Adoption grows when liability is allocated in predictable ways and ordinary mistakes have a path to remedy.
+
+Agent providers will therefore need warranties, guarantees, liability rules, or insurance for execution errors.
 
 Without them, “autonomous shopping” can become a legal trick in which the user receives convenience while bearing every error the software makes.
 
@@ -100,23 +144,15 @@ Consumers tolerate imperfect recommendation systems because the human makes the 
 
 This creates a market for agent quality beyond model benchmarks.
 
-Transaction accuracy.
-
-Policy compliance.
-
-Fraud resistance.
-
-Dispute resolution.
-
-Auditability.
-
-Merchant authentication.
-
-Ability to recognize manipulated instructions.
-
-Reliable escalation.
+Transaction accuracy. Policy compliance. Fraud resistance. Dispute resolution. Auditability. Merchant authentication. Ability to recognize manipulated instructions. Reliable escalation.
 
 These properties can matter more to consumers than whether the agent writes a more elegant paragraph.
+
+They are also properties that can be measured after deployment.
+
+What percentage of autonomous transactions are later reversed because the agent violated a user rule? How often does a system escalate when it should? How many legitimate purchases does fraud protection block? How quickly are disputes resolved? Does the provider absorb losses when its software plainly deviates from the mandate, or does it route every complaint back to the merchant and bank?
+
+A mature agent market will need operational evidence of trustworthiness, not just demonstrations of capability.
 
 Payment networks are well positioned because trust has always been their business. They sit between buyers, banks, and merchants, maintain rules, absorb or allocate fraud risk, and operate global acceptance infrastructure. Agentic commerce gives them a new role: identifying a legitimate machine acting for a legitimate principal.
 
@@ -178,6 +214,20 @@ Budgets. Allowlists. Category restrictions. Transaction ceilings. Merchant ident
 
 The 2030s consumer agent may feel conversational on the surface and look like an enterprise security system underneath.
 
+The standards work is still unsettled enough that this architecture should not be mistaken for a finished industry consensus. FIDO’s 2026 announcement was notable precisely because authentication and authorization models had largely been built for direct human interaction rather than delegated agent action. Google, Mastercard, Visa, Stripe, payment networks, wallets, merchants, browsers, and agent providers are exploring overlapping pieces of the problem.
+
+That uncertainty is healthy to admit.
+
+A protocol can prove that a particular agent signed a request and still leave open which organization certifies the agent, how certification can be revoked, whether rival payment schemes recognize the same credentials, how a user moves mandates between providers, and what evidence a court or regulator accepts after a dispute.
+
+Cryptography can establish facts.
+
+Institutions decide what those facts mean.
+
+This is why a universal trust mark by itself would be insufficient. If one network or platform controls the registry of “trusted” agents, recognition can become a gatekeeping business. Merchants benefit from being able to distinguish legitimate automation from malicious bots, but rival agents also need a credible route to become legitimate. Trust systems must manage exclusion as carefully as inclusion.
+
+The payment-security problem therefore contains a competition problem.
+
 Children and families make the permission structure more complicated.
 
 A parent may give a teenager a monthly spending budget but restrict categories. A caregiver may purchase groceries for an elderly relative without access to unrelated accounts. A household employee may buy supplies but not view full transaction history. A separated couple may share child expenses without sharing personal purchases.
@@ -194,13 +244,19 @@ The person who controls the household agent can monitor every purchase, set hidd
 
 Consumer-protection design has to account for vulnerable users, not just ideal households.
 
-There is also the question of “human not present” payments.
+There is also the question of human-not-present payments.
 
-Google’s 2026 work on AP2 explicitly addressed scenarios where an agent acts based on prior authorization while the user is offline. The example is easy to understand: buy a limited ticket the moment it becomes available under predefined conditions.
+Agentic payment work explicitly addresses scenarios where an agent acts based on prior authorization while the user is offline. The example is easy to understand: buy a limited ticket the moment it becomes available under predefined conditions.
 
 Human absence is economically powerful because it lets demand operate continuously.
 
-The agent can book a canceled reservation at 2:13 a.m., buy an item when the price falls, renew a service before a deadline, or acquire compute when needed. The consumer no longer has to be awake at the market’s moment of opportunity.
+The agent can book a canceled reservation at 2:13 a.m., buy an item when the price falls, renew a service before a deadline, or acquire a digital service when another software process needs it. Stripe’s Machine Payments Protocol pushes the idea beyond shopping on behalf of people: an agent can pay for data, API access, or other machine-consumable services programmatically rather than stopping to create an account and negotiate a conventional checkout. citeturn612691search1turn612691search6
+
+The consumer case and the machine-to-machine case should not be confused.
+
+A household assistant buying concert tickets is exercising delegated human demand. A software agent paying for an API call may be spending within a project budget to continue its own workflow. The technical plumbing can overlap while the accountability chain differs.
+
+The useful common principle is that payment authority can be expressed before the moment of purchase and bounded by rules.
 
 But human absence changes dispute psychology.
 
@@ -226,7 +282,7 @@ A seller wants to know that an agentic order will not produce an unusual chargeb
 
 This can reduce fraud losses and make merchants more willing to accept autonomous transactions.
 
-The dispute system becomes a three-party inquiry.
+The dispute system becomes a three-part inquiry.
 
 Did the user authorize the mandate?
 
@@ -235,6 +291,12 @@ Did the agent obey it?
 Did the merchant fulfill the resulting contract?
 
 Each failure belongs to a different actor.
+
+The distinction can become even more useful if the evidence is split the same way. The mandate records the user’s authority. The agent log records how a choice was made. The merchant record captures the offer and fulfillment. Payment records establish what moved and when.
+
+A dispute no longer has to become one giant argument about whether “AI made a mistake.”
+
+It can ask where the chain broke.
 
 Payment networks and regulators will eventually encode these distinctions.
 
