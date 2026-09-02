@@ -98,6 +98,34 @@ Designers therefore face an awkward tradeoff. A transparent rule is easier to un
 
 There is no mechanism that escapes politics by becoming mathematical.
 
+One more layer complicates every category: lists have to be maintained.
+
+This sounds administrative, which is why it receives less attention than the dramatic question of who gets the scarce thing. In practice, maintenance can decide as much as ranking. A list must know whether an applicant still exists, still qualifies, still wants the benefit, can still be reached, and has supplied whatever documentation the institution requires. Addresses change. Phone numbers stop working. Families split or grow. Medical conditions improve or deteriorate. People die. People move. People miss letters.
+
+A system that ignores those changes becomes a cemetery of stale applications. A system that cleans too aggressively can erase the people least able to comply with bureaucracy.
+
+Imagine two housing applicants who entered the same day. One has stable housing for now, reliable mail, a smartphone, and an employer who allows personal calls. The other is moving between relatives’ apartments, changes phone numbers twice in a year, and works shifts that make office calls difficult. If the housing authority periodically asks both applicants to confirm continued interest and removes anyone who misses the deadline, the list still appears to operate by neutral rules. Yet “staying on the list” has become another scarce capability.
+
+The mechanism therefore has at least two gates. The first decides how someone enters. The second decides whether she remains visible long enough to be served.
+
+Closed lists create a stranger version of the same problem. When demand overwhelms expected supply, an institution may stop taking names altogether. That can be sensible: adding a family to a list with no plausible path to service can create false hope and administrative burden. But closing the list changes the allocation question. The contest is no longer merely among people waiting for housing. It is also among people trying to catch the brief moment when the institution agrees to record that they are waiting.
+
+The opening itself becomes a scarce good.
+
+That distinction matters in every system with intermittent enrollment windows. People with better information, stronger networks, more flexible work, or faster internet may be more likely to enter the pool. A lottery conducted afterward can be perfectly random and still inherit that unequal access. Random selection cannot repair an application window someone never knew existed.
+
+Appeals create another hidden layer. A ranking system can be precise and still make mistakes because the data entering it are wrong. A birth date is mistyped. A medical record is incomplete. A veteran status is not recognized. An address falls outside a boundary because of a database error. A household preference is coded incorrectly. The fairness of the system then depends not only on the allocation formula but on whether a person can discover the error, understand it, and persuade someone to correct it before the opportunity disappears.
+
+In a physical line, a mistake is often visible. Someone cuts in front of you and everyone can see it. In an administrative line, the equivalent event may be a field in a database. The person who lost priority may never know that anything happened.
+
+This is why auditability matters differently from transparency. Publishing a rule tells people what should happen. Auditing asks whether it did happen. A lottery needs evidence that the draw was actually random. A priority system needs records showing how priority was calculated. A matching system needs enough traceability to reconstruct why one person was assigned and another was not. An appeals process needs authority to correct the record rather than merely explain it.
+
+These functions are boring right up until the moment they fail.
+
+They also show why the cleanest mechanism on paper can become the least fair in operation. A beautifully designed queue can depend on notices mailed to unstable addresses. A sophisticated match can rely on preference forms that some applicants never understood. A needs-based system can use categories that caseworkers apply inconsistently. A lottery can be fair after eligibility screening while the screening itself contains discretion.
+
+The allocation rule is only the visible center of a larger institution. Around it sit intake, documentation, verification, maintenance, notification, appeals, and enforcement. Those surrounding systems determine who actually reaches the moment when the formal rule is applied.
+
 The point is easiest to see in systems that explicitly use categories. Air Mobility Command does not pretend its Space-Available priorities emerged from a neutral optimization model. Category I travelers outrank Category VI travelers because the military has made a policy judgment about emergency leave and leisure. The hierarchy is visible.
 
 Other institutions bury comparable judgments inside formulas.
