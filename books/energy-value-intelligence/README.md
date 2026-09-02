@@ -6,7 +6,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
-| **Chapters**  | 20 of 20 drafted |
+| **Chapters**  | 22 of 22 drafted |
 
 A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. Its recurring question is what becomes scarce next when energy, cognition, or production gets dramatically cheaper.
 
@@ -32,7 +32,9 @@ A narrative nonfiction book about the three ledgers underneath technological civ
 - [x] [Ch 17 — The Carbon Constraint](manuscript/ch17-the-carbon-constraint.md)
 - [x] [Ch 18 — Abundance Is Political](manuscript/ch18-abundance-is-political.md)
 - [x] [Ch 19 — Failure Modes of the Triumvirate](manuscript/ch19-failure-modes-of-the-triumvirate.md)
-- [x] [Ch 20 — The Conversion Civilization](manuscript/ch20-the-conversion-civilization.md)
+- [x] [Ch 20 — A Gigawatt on the Ground](manuscript/ch20-a-gigawatt-on-the-ground.md)
+- [x] [Ch 21 — Against the Triumvirate](manuscript/ch21-against-the-triumvirate.md)
+- [x] [Ch 22 — The Conversion Civilization](manuscript/ch22-the-conversion-civilization.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
@@ -47,8 +49,8 @@ Energy expands what can be physically done. Intelligence expands the quality and
 
 When one layer becomes abundant, the system does not become post-scarcity. Scarcity tends to move toward the complements: transmission after cheap generation, verification after cheap generation of answers, authority after cheap analysis, physical execution after cheap design, trusted access after global models, or human accountability after automated expertise.
 
-The manuscript tests that idea across preindustrial food systems, steam and electrification, prices and firms, AI inference, semiconductors, grids, energy abundance, labor, geography, sovereignty, climate, infrastructure politics, and complex-system failure.
+The manuscript tests that idea across preindustrial food systems, steam and electrification, prices and firms, AI inference, semiconductors, grids, energy abundance, labor, geography, sovereignty, climate, infrastructure politics, complex-system failure, a gigawatt-scale AI campus, and an explicit counter-thesis designed to make the framework earn its place.
 
 ## Desk-edition note
 
-This is a complete working manuscript with an adjacent research trail, not a released Shelf edition. Empirical claims with fast-moving denominators — AI prices, model performance, hardware concentration, grid queues, energy forecasts, and export controls — are intentionally source-dated so later revisions can challenge the mechanism before merely refreshing the statistic.
+This is a complete working manuscript with an adjacent research trail, not a released Shelf edition. Empirical claims with fast-moving denominators — AI prices, model performance, hardware concentration, grid queues, energy forecasts, export controls, and large data-center buildouts — are intentionally source-dated so later revisions can challenge the mechanism before merely refreshing the statistic.
