@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Front matter, prologue, epilogue, back matter; 4 of 20 chapters drafted |
+| **Chapters** | Front matter, prologue, epilogue, back matter; 5 of 20 chapters drafted |
 | **Language** | English |
 | **Rights** | All Rights Reserved |
 | **AI use** | Reserved; see rights file |
@@ -22,7 +22,7 @@ The central thesis is that when a price cannot or should not allocate a scarce g
 - [x] [Ch 2 — A Taxonomy of Lines](manuscript/ch02-a-taxonomy-of-lines.md)
 - [x] [Ch 3 — First Come, First Served, and Why It Isn't Fair](manuscript/ch03-first-come-first-served.md)
 - [x] [Ch 4 — The Black Market Down the Hall](manuscript/ch04-the-black-market-down-the-hall.md)
-- [ ] [Ch 5 — Scalpers, Bots, and the Ticketmaster Problem](manuscript/ch05-scalpers-bots-and-the-ticketmaster-problem.md)
+- [x] [Ch 5 — Scalpers, Bots, and the Ticketmaster Problem](manuscript/ch05-scalpers-bots-and-the-ticketmaster-problem.md)
 - [ ] [Ch 6 — The Marriage Algorithm](manuscript/ch06-the-marriage-algorithm.md)
 - [ ] [Ch 7 — The Man Who Fixed the Medical Match](manuscript/ch07-the-man-who-fixed-the-medical-match.md)
 - [ ] [Ch 8 — Kidneys Without Cash](manuscript/ch08-kidneys-without-cash.md)
