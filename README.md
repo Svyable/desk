@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 55 book projects · 23 complete drafts · 1 in revision · 31 drafting**
+> **Desk: 56 book projects · 24 complete drafts · 1 in revision · 31 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 6 author projects · 4 released · 2 public drafts/proofs**
-> **Where they live: 6 in both Desk + Shelf · 49 Desk-only · 0 Shelf-only**
-> **Release review queue: 20 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 6 in both Desk + Shelf · 50 Desk-only · 0 Shelf-only**
+> **Release review queue: 21 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -26,7 +26,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Allocating Intelligence](books/allocating-intelligence/), [Austerity Measures](books/austerity-measures/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Public Pressure](books/public-pressure/), [Right To Try](books/right-to-try/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Allocating Intelligence](books/allocating-intelligence/), [Austerity Measures](books/austerity-measures/), [Energy, Value & Intelligence](books/energy-value-intelligence/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Open Source](books/open-source/), [Proof of Human](books/proof-of-human/), [Public Pressure](books/public-pressure/), [Right To Try](books/right-to-try/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Ubiquitous](books/ubiquitous/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -48,6 +48,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✍️ Drafting | 12 of 18 | 30,252 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
+| [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✅ Complete draft | 22 of 22 | ~80K | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✍️ Drafting | 6 of 21 | 17,610 | This is an unpublished Desk manuscript. Its central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
