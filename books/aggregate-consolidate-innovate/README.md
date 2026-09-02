@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 20 of 25 drafted |
+| **Chapters**  | 21 of 25 drafted |
 
 ## Contents
 
@@ -29,7 +29,7 @@
 - [x] [Ch 18 — AI as Aggregator](manuscript/ch18-ai-as-aggregator.md)
 - [x] [Ch 19 — AI as Consolidator](manuscript/ch19-ai-as-consolidator.md)
 - [x] [Ch 20 — AI as Innovation Partner](manuscript/ch20-ai-as-innovation-partner.md)
-- [ ] Ch 21 — Personal Throughput
+- [x] [Ch 21 — Personal Throughput](manuscript/ch21-personal-throughput.md)
 - [ ] Ch 22 — The Weekly Consolidation
 - [ ] Ch 23 — The Portfolio of Experiments
 - [ ] Ch 24 — Knowing When to Stop
