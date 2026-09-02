@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 25 drafted |
+| **Chapters**  | 25 of 25 drafted |
 
 ## Contents
 
@@ -17,21 +17,21 @@
 - [x] [Ch 6 — Compression](manuscript/ch06-compression.md)
 - [x] [Ch 7 — Naming](manuscript/ch07-naming.md)
 - [x] [Ch 8 — Primitives](manuscript/ch08-primitives.md)
-- [ ] Ch 9 — Standards
-- [ ] Ch 10 — Editing
-- [ ] Ch 11 — Recombination
-- [ ] Ch 12 — Constraints
-- [ ] Ch 13 — Prototyping
-- [ ] Ch 14 — Selection
-- [ ] Ch 15 — Adoption
-- [ ] Ch 16 — Organizations as Memory
-- [ ] Ch 17 — The Database Is Not the Institution
-- [ ] Ch 18 — AI as Aggregator
-- [ ] Ch 19 — AI as Consolidator
-- [ ] Ch 20 — AI as Innovation Partner
-- [ ] Ch 21 — Personal Throughput
-- [ ] Ch 22 — The Weekly Consolidation
-- [ ] Ch 23 — The Portfolio of Experiments
-- [ ] Ch 24 — Knowing When to Stop
-- [ ] Ch 25 — Begin Again
-- [ ] Back Matter
+- [x] [Ch 9 — Standards](manuscript/ch09-standards.md)
+- [x] [Ch 10 — Editing](manuscript/ch10-editing.md)
+- [x] [Ch 11 — Recombination](manuscript/ch11-recombination.md)
+- [x] [Ch 12 — Constraints](manuscript/ch12-constraints.md)
+- [x] [Ch 13 — Prototyping](manuscript/ch13-prototyping.md)
+- [x] [Ch 14 — Selection](manuscript/ch14-selection.md)
+- [x] [Ch 15 — Adoption](manuscript/ch15-adoption.md)
+- [x] [Ch 16 — Organizations as Memory](manuscript/ch16-organizations-as-memory.md)
+- [x] [Ch 17 — The Database Is Not the Institution](manuscript/ch17-the-database-is-not-the-institution.md)
+- [x] [Ch 18 — AI as Aggregator](manuscript/ch18-ai-as-aggregator.md)
+- [x] [Ch 19 — AI as Consolidator](manuscript/ch19-ai-as-consolidator.md)
+- [x] [Ch 20 — AI as Innovation Partner](manuscript/ch20-ai-as-innovation-partner.md)
+- [x] [Ch 21 — Personal Throughput](manuscript/ch21-personal-throughput.md)
+- [x] [Ch 22 — The Weekly Consolidation](manuscript/ch22-the-weekly-consolidation.md)
+- [x] [Ch 23 — The Portfolio of Experiments](manuscript/ch23-the-portfolio-of-experiments.md)
+- [x] [Ch 24 — Knowing When to Stop](manuscript/ch24-knowing-when-to-stop.md)
+- [x] [Ch 25 — Begin Again](manuscript/ch25-begin-again.md)
+- [x] [Back Matter](manuscript/back-matter.md)

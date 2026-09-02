@@ -216,6 +216,104 @@ Post-purchase service.
 
 A company can dominate one layer without owning the rest.
 
+Follow one ordinary purchase through that stack.
+
+A consumer tells her general agent that she needs a vacuum cleaner for a small apartment, wants something repairable, has a firm budget, dislikes loud appliances, and needs delivery before Saturday.
+
+The model layer interprets the request. It may be supplied by the same company that owns the interface or by another provider selling inference underneath it.
+
+The interface holds the relationship. It knows the household context, remembers prior purchases, and decides how much of the model’s reasoning the user sees.
+
+The discovery layer constructs the candidate set. Some products arrive from open web data, some from merchant feeds, some from a commerce platform, some from paid partnerships. A product that never enters the candidate set cannot win no matter how good it is.
+
+The ranking layer compresses the market. It decides whether five vacuums are shown, two are explained, or one is recommended.
+
+The catalog layer makes products legible. It supplies price, stock, dimensions, warranty, delivery, merchant identity, repair information, and other structured attributes. The company maintaining this layer can become indispensable without ever speaking directly to the consumer.
+
+The commercial layer may add sponsored placement, a merchant bid, a referral fee, a negotiated discount, or a platform-funded promotion.
+
+The payment layer authorizes the purchase and may supply fraud protection, credit, rewards, identity, or a wallet.
+
+The merchant supplies the actual product and bears much of the inventory, customer-service, and return risk.
+
+The fulfillment layer moves the box and determines whether the promised Saturday arrival is real.
+
+After the sale, the platform may remain present for warranty claims, repairs, returns, replacement filters, resale, or the next purchase.
+
+One vacuum cleaner can therefore support several different economic relationships at once.
+
+The consumer may pay the merchant.
+
+The merchant may pay the catalog platform.
+
+The merchant may pay the agent platform for referral or conversion.
+
+An advertiser may pay for visibility.
+
+The merchant or consumer may pay a payment processor or financing provider indirectly through transaction economics.
+
+The merchant may pay the logistics network.
+
+The consumer may separately pay a subscription for the agent itself.
+
+No single toll has to look extraordinary.
+
+The stack can still become expensive if many layers each possess a small point of control.
+
+This is the old problem of stacked intermediaries in a new form. Each intermediary can plausibly say it adds value. Often it does. Search saves time. Fraud protection reduces loss. Catalog normalization lowers integration cost. Payments increase conversion. Logistics makes national commerce possible. The economic question is not whether the layer deserves revenue.
+
+It is whether the layer can be bypassed or competed away.
+
+A layer earns ordinary competitive returns when merchants or consumers can switch among good substitutes.
+
+A layer earns gateway rents when everyone downstream needs access and credible alternatives are weak.
+
+That is the rent map of agentic commerce.
+
+The most visible company is not automatically the most powerful one.
+
+A dazzling consumer interface can sit on commoditized models, open merchant protocols, competitive payment rails, and portable memory. It may attract enormous usage while struggling to charge much because users and merchants can leave.
+
+A boring infrastructure provider can occupy the opposite position. If every credible agent needs its identity system, product graph, payment credential, fulfillment network, or merchant acceptance layer, it can collect value from activity happening elsewhere.
+
+Vertical integration changes the map because one firm can move profit between layers.
+
+Imagine the agent interface, ranking system, ad market, wallet, and marketplace belong to one company. The consumer agent can be free. The company does not need to charge the user if it can earn from merchant access, advertising, payments, logistics, financing, or its own retail products.
+
+This can produce a genuinely better consumer product.
+
+The integrated company can remove duplicate identity checks, negotiate better shipping, detect fraud across more transactions, subsidize the agent, and resolve disputes through one account.
+
+It also makes the price of the intermediary harder to see.
+
+A consumer can truthfully pay zero dollars for the assistant while merchants pay for access to the demand the assistant controls. Merchants can then recover those costs through product prices. The toll moves around the stack without disappearing.
+
+A rival agent faces a different problem. It may build a better model and still lack the merchant integrations, payment acceptance, consumer memory, default placement, or fulfillment guarantees that make the incumbent convenient.
+
+Competition is therefore not just model versus model.
+
+It is stack versus stack.
+
+This matters for policy because remedies aimed at the wrong layer can miss the bottleneck. Forcing an agent to disclose sponsored recommendations helps transparency but does not create a rival payment rail. Requiring merchant interoperability can lower integration costs but does not make consumer memory portable. Data portability can make exit easier but does not prevent a dominant interface from becoming the default on billions of devices. Preventing self-preferencing can matter while leaving an advertising toll intact.
+
+The useful policy question is always narrower.
+
+Where is the scarce permission?
+
+Who cannot reach whom without passing through this layer?
+
+What would a credible substitute need in order to compete?
+
+Can the consumer move the accumulated context that makes the service valuable?
+
+Can the merchant reach the same buyer through another route?
+
+Can a payment or identity provider interoperate without surrendering its customer relationship?
+
+Can a new agent observe enough of the market to make an independent recommendation?
+
+The answers locate power more reliably than market labels.
+
 Investors will repeatedly mistake activity for rent capture. The fact that agents drive trillions of dollars of commerce does not mean agent providers earn the best returns. Open competition can push their fees down while payment, logistics, advertising, or merchant infrastructure captures value. Conversely, the model layer can commoditize while one consumer interface becomes a powerful gateway.
 
 The economic prize belongs to the scarce layer.

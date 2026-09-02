@@ -59,6 +59,17 @@ Sources checked for this draft:
 
 Counterevidence preserved in the chapter: lower coordination costs can produce smaller firms, larger firms, or hybrid firms; outsourced agent infrastructure can create lock-in and concentrated dependencies; proprietary data can strengthen incumbents; and legal accountability may resist operational outsourcing.
 
+## Chapter 6 — The Vanishing Queue
+
+Chapter 6 argues that cheap delegated cognition may reduce clerical waiting while exposing downstream scarcity, and that some administrative delay is not neutral: it can determine who successfully reaches a benefit, service, or decision. The strongest factual support for that claim comes from public-administration evidence rather than from analogies to software throughput.
+
+Sources checked for this draft:
+
+- U.S. Office of Management and Budget, Memorandum M-22-10, “Improving Access to Public Benefits Programs Through the Paperwork Reduction Act” (April 13, 2022): directs agencies to identify and reduce burdens associated with applying for and maintaining eligibility for public benefits, with particular attention to underserved and marginalized communities. The memorandum explicitly treats time, effort, learning, compliance, and psychological costs as meaningful barriers to access. https://www.whitehouse.gov/wp-content/uploads/2022/04/M-22-10.pdf
+- U.S. Government Accountability Office, “Administrative Burden: OMB Should Update Instructions to Help Agency Assessment Efforts,” GAO-25-107239 (April 21, 2025): finds that eligible people miss out on federal benefits in part because of the time and resources required to learn about, apply for, and maintain eligibility for programs; GAO also finds that existing burden estimates can omit time spent determining eligibility and learning how to apply. https://www.gao.gov/products/gao-25-107239
+
+Counterevidence preserved in the chapter: reducing administrative burden does not imply that every queue should vanish. Some delay reflects scarce adjudicative capacity, fraud control, due process, deliberate review, or policy choices rather than clerical inefficiency. Faster processing can also increase downstream workload or make enforcement more relentless. The chapter therefore distinguishes waiting caused by neglect from waiting caused by judgment instead of treating throughput as an end in itself.
+
 ## Falsification questions
 
 1. Where does cheap delegation increase total work rather than reduce headcount?
