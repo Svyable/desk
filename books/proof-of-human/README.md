@@ -4,9 +4,8 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
-| **Drafting Source** | Svyable Binder |
-| **Publication Surface** | Svyable Shelf |
 | **Chapters**  | 29 of 29 drafted |
+| **Edition** | First-release candidate · September 2026 |
 
 Trust, Truth, and Value in the Age of Infinite Intelligence.
 
@@ -51,7 +50,12 @@ The book argues that the resulting scarcity is not content, which has never been
 ## Research
 
 - [Research brief and source trail](research/README.md)
+- [Release review — 2026-09-02](research/release-review-2026-09-02.md)
 
 ## Rights
 
 - [Rights & permissions](RIGHTS.md)
+
+## Publication note
+
+This Desk copy is the canonical working edition. It is manuscript-complete and has passed a first-release review, but Desk deliberately remains `Complete draft`. Publication is a separate Shelf snapshot so later revisions here do not silently rewrite the released edition.
