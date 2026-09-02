@@ -303,3 +303,25 @@ A Phase 3 win is not the end of uncertainty.
 It is permission to replace speculative uncertainty with operational uncertainty.
 
 For a cancer-vaccine field that spent decades struggling to prove clinical consequence at all, that is a remarkable promotion.
+
+There is another uncertainty the headline cannot answer: whether the observed effect depends on the particular ecology of melanoma more than the platform's advocates would like.
+
+Melanoma gave immunotherapy several of its earliest durable success stories for reasons that are biologically plausible but not fully reducible to mutation count. Ultraviolet damage can create many mutations, yet mutation burden alone does not determine response. Some tumors contain pre-existing immune infiltration. Some present strong antigens. Some patients carry HLA types that make particular altered peptides visible. The disease has an established history of responsiveness to immune manipulation that many solid tumors do not share.
+
+That makes melanoma an excellent proving ground and a dangerous template.
+
+A platform can be validated there without being portable everywhere.
+
+The commercial temptation after a landmark result is to interpret proof of class as proof of generality. Investors want a platform market, not one indication. Clinicians and patients in other cancers want the success to travel too. Competitors need the result to validate their own category.
+
+The responsible interpretation is narrower and more useful.
+
+Melanoma shows that a personalized neoantigen manufacturing process can be repeated at Phase 3 scale and, in combination with an active checkpoint drug, can improve recurrence-related outcomes in a defined post-surgical population. That statement is already large enough to change the field.
+
+It does not need enlargement by analogy.
+
+The next cancers should have to earn their own answer.
+
+That discipline protects the breakthrough from the fate of so many earlier cancer-vaccine stories, which became less credible because the claim expanded faster than the evidence.
+
+A result becomes a foundation when later work can build on it without pretending the foundation is the whole building.
