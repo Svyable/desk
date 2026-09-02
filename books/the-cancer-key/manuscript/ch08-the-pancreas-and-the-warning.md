@@ -285,3 +285,41 @@ The warning is therefore useful precisely because the underlying idea remains pr
 Nobody needs a warning label for a field nobody believes in.
 
 The better the science becomes, the more expensive overgeneralization becomes too.
+
+Pancreatic cancer also makes a useful distinction between immune ignition and immune persistence.
+
+A vaccine can generate a burst of tumor-specific T cells and still fail if those cells cannot survive, traffic or function long enough to matter. Early assays often measure the first part because expansion is observable in blood. Durable clinical control may depend on memory populations, tissue residency, repeated antigen encounter and the tumor's ability to avoid exhausting or excluding the response.
+
+The extended pancreatic follow-up was interesting partly because vaccine-expanded T-cell clones persisted for years in some patients.
+
+Persistence strengthens the mechanistic case without resolving causality.
+
+A long-lived clone demonstrates that the immune system learned something from the intervention. It does not prove that the clone found every residual malignant cell or that the patient's longer recurrence-free interval resulted from that clone rather than from other favorable biology.
+
+The distinction matters for potency testing too.
+
+A manufacturer wants an assay that can establish, before release, that a personalized product has the capacity to do what the platform intends. An immune assay after treatment can show whether the patient's system responded. Neither is identical to the clinical endpoint.
+
+The chain contains at least three different questions.
+
+Was an adequate product made?
+
+Did the intended immune response occur?
+
+Did the response change the disease?
+
+A platform that answers the first two and fails the third is not necessarily a manufacturing failure. It may be a biological limitation of the disease setting. A platform that fails the first cannot fairly use the patient's lack of clinical benefit to judge the biology.
+
+That separation will become increasingly important as regulators develop potency expectations for active immunotherapy products and as companies compare manufacturing changes across individualized batches.
+
+Pancreatic cancer is a useful stress test because each link can plausibly be the weak one.
+
+The target supply can be sparse. The manufacturing clock can be unforgiving. The tumor microenvironment can be hostile. The clinical recurrence rate can be high enough to generate answers but devastating enough that delays are costly.
+
+If a personalized vaccine eventually produces randomized benefit there, the result will mean something different from success in melanoma.
+
+It will suggest that better targeting can matter even when the terrain is poor.
+
+If repeated trials fail, the field should take that result just as seriously.
+
+A key is useful only when the door is capable of opening.
