@@ -241,3 +241,29 @@ A neoantigen may exist in only one tumor, but the evidence used to judge it is s
 The mark may be private.
 
 The knowledge required to read it never is.
+
+There is one further consequence of treating presentation as a measurement problem rather than an abstract property.
+
+It changes what quality means upstream of manufacturing.
+
+A factory can make exactly the RNA or peptide sequence the design file requested and still make an ineffective medicine if the design file was biologically weak. Chemistry can be correct while target selection is wrong. In a conventional drug, quality control largely asks whether the manufactured object matches a fixed specification. Here, one of the most consequential specifications is generated anew for every patient.
+
+The system therefore needs two kinds of reproducibility.
+
+The first is physical: given a design, can the platform manufacture the intended product reliably?
+
+The second is epistemic: given the same patient data and the same validated model version, can the platform explain and trace how the design was chosen?
+
+Those are not identical obligations. A proprietary algorithm need not reveal every weight to every clinician. It should still leave an auditable record of the inputs, software version, decision rules and resulting target set. If a patient later relapses, researchers need to know whether the relevant target was absent, lost, poorly presented or simply ineffective despite recognition.
+
+That record turns a treatment failure into knowledge rather than mystery.
+
+The field will need this discipline most when prediction improves quickly. A platform may learn enough from one thousand patients to change its target ranking materially for the next thousand. That is desirable. It also means two patients with similar tumors treated two years apart may receive different molecular products because the software learned in between.
+
+Continuous improvement is a strength only if the history remains reconstructible.
+
+Otherwise the platform becomes better in a way no one can independently understand, and the evidence supporting one model version is quietly inherited by another.
+
+The mark that should not be there is the biological starting point.
+
+The ability to show how medicine decided that the mark was worth acting on is part of the therapeutic product too.
