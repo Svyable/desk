@@ -261,3 +261,35 @@ The cost of precision medicine is partly the cost of making those distinctions r
 Sequencing became cheap enough to change the question.
 
 The harder achievement was making the answer trustworthy enough to manufacture from it.
+
+There is also a temporal mismatch hidden inside the phrase genomic truth.
+
+A sequence result is true of a specimen collected at a time.
+
+Cancer treatment often needs a decision about the disease that exists now.
+
+That gap is small after a fresh surgical resection and can become enormous after years of therapy. A metastatic lesion sampled before targeted treatment may not represent the clone that survives it. An immune therapy can select for cells with altered antigen presentation. A recurrence can arise from a minority population that was barely detectable in the original sample.
+
+Repeated sequencing is therefore not necessarily redundant spending.
+
+Sometimes it is the price of asking the same question of a changed disease.
+
+The practical problem is deciding when the new information is likely to alter treatment enough to justify another procedure, delay or cost. A platform that reflexively demands a fresh biopsy can impose avoidable burden. A platform that relies indefinitely on archival material can manufacture against a historical tumor.
+
+The answer will differ by disease, treatment history and the target being pursued.
+
+That is another reason the sequencing layer cannot be treated as a generic commodity even as the chemistry becomes commoditized.
+
+The read itself may become cheap.
+
+Choosing the right specimen, the right moment and the right interpretation remains clinical judgment.
+
+This is where centralized platforms need local medicine. A remote laboratory can process DNA at extraordinary scale. It cannot know from the sequence file alone that the biopsy came from a lesion that appeared only after a selective therapy, or that another metastasis is behaving differently, or that the patient cannot safely undergo another procedure.
+
+Personalized medicine is sometimes described as replacing judgment with data.
+
+In practice it gives judgment more data to be responsible for.
+
+The sequencing machine changed the question.
+
+It did not decide when the question should be asked again.
