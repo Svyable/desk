@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 17 of 25 drafted |
+| **Chapters**  | 18 of 25 drafted |
 
 ## Contents
 
@@ -26,7 +26,7 @@
 - [x] [Ch 15 — Adoption](manuscript/ch15-adoption.md)
 - [x] [Ch 16 — Organizations as Memory](manuscript/ch16-organizations-as-memory.md)
 - [x] [Ch 17 — The Database Is Not the Institution](manuscript/ch17-the-database-is-not-the-institution.md)
-- [ ] Ch 18 — AI as Aggregator
+- [x] [Ch 18 — AI as Aggregator](manuscript/ch18-ai-as-aggregator.md)
 - [ ] Ch 19 — AI as Consolidator
 - [ ] Ch 20 — AI as Innovation Partner
 - [ ] Ch 21 — Personal Throughput
