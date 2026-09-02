@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 24 of 25 drafted |
+| **Chapters**  | 25 of 25 drafted |
 
 ## Contents
 
@@ -33,5 +33,5 @@
 - [x] [Ch 22 — The Weekly Consolidation](manuscript/ch22-the-weekly-consolidation.md)
 - [x] [Ch 23 — The Portfolio of Experiments](manuscript/ch23-the-portfolio-of-experiments.md)
 - [x] [Ch 24 — Knowing When to Stop](manuscript/ch24-knowing-when-to-stop.md)
-- [ ] Ch 25 — Begin Again
+- [x] [Ch 25 — Begin Again](manuscript/ch25-begin-again.md)
 - [ ] Back Matter
