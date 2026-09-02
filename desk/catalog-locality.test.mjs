@@ -10,9 +10,9 @@ let assertions = 0;
 function match(value, pattern) { assertions += 1; assert.match(value, pattern); }
 function doesNotMatch(value, pattern) { assertions += 1; assert.doesNotMatch(value, pattern); }
 
-const shelfCatalog = 'https://svyable.github.io/shelf/reader/js/catalog.js';
-match(desk, new RegExp(shelfCatalog.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
-match(html, /"https:\/\/svyable\.github\.io\/shelf\/reader\/js\/catalog\.js": "\.\/catalog-contract\.js"/);
+match(desk, /^import \{ parseBookReadme, parsePortalCatalog \} from '\.\/catalog-contract\.js';/m);
+doesNotMatch(desk, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/catalog\.js/);
+doesNotMatch(html, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/catalog\.js/);
 match(html, /"https:\/\/svyable\.github\.io\/shelf\/reader\/js\/presentation\.js": "\.\/reader-presentation-contract\.js"/);
 match(html, /"https:\/\/svyable\.github\.io\/shelf\/reader\/js\/cover-presentation\.js": "\.\/cover-presentation-contract\.js"/);
 
