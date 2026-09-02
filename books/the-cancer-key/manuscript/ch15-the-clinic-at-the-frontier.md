@@ -317,3 +317,47 @@ It should be regulated so experimentation leaves a trail.
 The great advantage of personalized medicine is that each patient's tumor can teach the system something specific.
 
 The great waste would be to charge for that lesson and then forget it.
+
+Cross-border care adds a final complication because the patient can move more easily than the evidence.
+
+A clinic may document treatment competently under its own national rules and still return the patient to an oncologist who receives only a summary letter. The home physician may not know the exact peptide sequences, product formulation, batch identifier, dose, adjuvant, manufacturing deviation or immune monitoring that occurred abroad.
+
+Continuity becomes a safety problem.
+
+A later adverse event may be difficult to attribute. A clinical trial may exclude the patient because prior investigational treatment is poorly documented. A recurrence may contain information about target escape that the original provider never sees.
+
+The solution is not a single global regulator.
+
+It is a minimum transferable record.
+
+Whatever pathway authorized the treatment, the patient should leave with enough information for another competent oncology team to understand what was administered, why it was selected and what follow-up is required. The record should identify the legal and investigational status without forcing the next physician to infer it from marketing language.
+
+This is especially important for personalized products because the product name is insufficient.
+
+Two patients can receive vaccines from the same platform containing entirely different antigens. A note saying “personalized neoantigen vaccine” describes a category, not the molecular exposure.
+
+The exact administered composition is part of the medical record.
+
+So is the target-selection provenance to the extent needed for care.
+
+Data portability is therefore not only a competition policy discussed later in this book.
+
+It is continuity of care at the frontier.
+
+Responsible providers should welcome that standard because it makes their work legible to mainstream oncology. Irresponsible providers benefit when the treatment remains difficult to reconstruct.
+
+The same logic applies to adverse-event reporting.
+
+A patient treated in one country can experience a complication after returning to another. If reporting systems do not connect, the original clinic may never learn and the home regulator may not know what product category was involved.
+
+Global personalized medicine needs a way for safety information to follow the product concept across jurisdictions even when the exact patient-specific batch will never be made again.
+
+The regulatory object is the process.
+
+The safety memory has to live at the same level.
+
+That is how a small clinic can participate responsibly in a large scientific system.
+
+Size is not the disqualifier.
+
+Amnesia is.
