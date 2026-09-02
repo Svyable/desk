@@ -1,6 +1,6 @@
 # The Geography of Capacity — source notes
 
-Working source notes for `ch04-the-geography-of-capacity.md`. These supplement the book-wide notes and should be rechecked before Shelf release.
+Working source notes for `ch10-the-geography-of-capacity.md`. These supplement the book-wide notes and should be rechecked before Shelf release.
 
 ## Unequal local-government funding cuts
 

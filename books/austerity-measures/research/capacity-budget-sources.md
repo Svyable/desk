@@ -1,6 +1,6 @@
 # The Capacity Budget — source notes
 
-Working source notes for `ch03-the-capacity-budget.md`. These supplement the book-wide `source-notes.md` and should be rechecked before Shelf release.
+Working source notes for `ch09-the-capacity-budget.md`. These supplement the book-wide `source-notes.md` and should be rechecked before Shelf release.
 
 ## Public value and spending-control reform
 
