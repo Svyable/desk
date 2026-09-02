@@ -339,3 +339,39 @@ The patient should not be asked to adjudicate the argument at the pharmacy count
 That is ultimately why insurance and public policy exist.
 
 The purpose of financing is to decide the bargain before one frightened person has to make it alone.
+
+There is one additional price that almost never appears in the health-economic model: the patient's time spent making the system work.
+
+Personalized treatment can require extra blood draws, pathology retrieval, consent visits, travel, insurance calls, scheduling around manufacturing and repeated coordination among providers. A family member may take time off work to manage logistics. A patient may remain near a specialized center because an infusion date depends on product release.
+
+Those burdens are costs even when the hospital never bills them.
+
+They fall unevenly.
+
+A salaried professional with flexible work and family support can absorb a week of administrative uncertainty differently from someone paid hourly, caring for children or living far from the treatment site. Two patients can have identical insurance coverage and very different practical access.
+
+This is why a lower treatment price does not automatically create equity.
+
+A system can remove the copayment while leaving the travel, unpaid leave and coordination burden untouched.
+
+Commercial platforms have an incentive to reduce some of this friction because smoother logistics improve completion rates. Health systems should measure the patient burden explicitly rather than assuming operational efficiency inside the company captures it.
+
+The same principle applies to companion testing.
+
+If the vaccine is covered but a necessary genomic assay is not, the treatment has been priced incompletely. If one insurer recognizes the sequencing as part of the therapeutic pathway and another treats it as an optional diagnostic, access can vary before the drug claim is ever filed.
+
+Bundled payment can solve some fragmentation and create other problems.
+
+A single episode price for sequencing, vaccine manufacture and administration can simplify reimbursement. It can also obscure which component failed or how much margin sits at each layer. Separate billing improves visibility and creates transaction cost.
+
+The payment architecture should follow the clinical architecture closely enough that no necessary step becomes an orphaned expense.
+
+That is a mundane standard.
+
+It is the kind that determines whether a scientific breakthrough feels like medicine or a scavenger hunt.
+
+The eventual price debate will probably focus on a headline number because headline numbers travel well.
+
+The more important question is the total burden required to convert an eligible patient into a treated patient and the clinical benefit produced at the end.
+
+A public miracle is affordable only when the whole path is.
