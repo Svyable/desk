@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 22 drafted |
+| **Chapters**  | 11 of 22 drafted |
 
 *How Git Became the Memory of Software—and What Comes Next*
 
@@ -23,12 +23,12 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Ch 6 — GitHub Gives the Graph a Face](manuscript/ch06-github-gives-the-graph-a-face.md)
 - [x] [Ch 7 — The Pull Request](manuscript/ch07-the-pull-request.md)
 - [x] [Ch 8 — The Monorepo Test](manuscript/ch08-the-monorepo-test.md)
+- [x] [Ch 9 — The Files Git Wasn't Built For](manuscript/ch09-the-files-git-wasnt-built-for.md)
+- [x] [Ch 10 — The SHA-1 Clock](manuscript/ch10-the-sha-1-clock.md)
+- [x] [Ch 11 — The Invisible Database](manuscript/ch11-the-invisible-database.md)
 
 ## Planned chapters
 
-9. The Files Git Wasn't Built For
-10. The SHA-1 Clock
-11. The Invisible Database
 12. The Merge Is the Work
 13. The Security Boundary
 14. The Commit as Evidence
