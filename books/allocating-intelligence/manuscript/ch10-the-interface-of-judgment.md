@@ -8,6 +8,56 @@ The history is complicated and should resist neat morality. The narrower lesson 
 
 Intelligence cannot act on a system it cannot see correctly.
 
+The phrase “more information” is too crude for what a control room needs.
+
+During an abnormal event, the operator does not need every signal equally. The operator needs to know which state the plant is actually in, which indications are direct and which are proxies, which changes are causes and which are consequences, which actions have taken effect, and which clocks are closing. A hundred alarms can contain more information than ten and produce less usable knowledge if they arrive without enough structure to show what changed first or what matters most.
+
+That is the difference between information volume and state legibility.
+
+Three Mile Island makes the distinction unusually concrete because the misleading indication was not fabricated data. The control system could truthfully show that a close command had been sent while failing to show the physical position the operators most needed to know. A representation can be accurate about the wrong variable.
+
+This problem appears everywhere automation stands between a person and the world.
+
+A dashboard can truthfully report that a job was submitted while hiding that execution stalled downstream. A medical system can show that an order was entered while the medication has not reached the patient. A bank can show that a transfer request was accepted while settlement remains pending. An agent can say it “updated” a file because it issued the tool call even though the write failed.
+
+Each representation describes something real.
+
+The danger begins when the user believes it describes the state that matters for the next decision.
+
+Good interface design therefore starts by asking what evidence would falsify the user’s current picture.
+
+If the screen says a valve is closed, what independent indication could reveal that it is not? If the agent says a deployment succeeded, what health signal shows the running service actually changed? If a payment says complete, what evidence shows the recipient can use the funds? If a model says a customer-data export is finished, where is the destination acknowledgment and how many records arrived?
+
+This sounds like verification because it is.
+
+The interface is where verification becomes perceptible enough to influence action.
+
+A useful control surface does not merely display a value. It helps the user understand the lineage of the value. Measured directly. Inferred from another state. Reported by a downstream service. Assumed because no error arrived. Estimated by a model. Confirmed independently.
+
+These distinctions do not need to become a wall of labels. They can be expressed through structure, grouping, wording, and the availability of drill-down evidence. But the interface should not make a proxy look more direct than it is.
+
+Alarm design raises the same issue from another direction.
+
+An abnormal event often creates several symptoms at once. If every symptom competes for the same visual and auditory priority, the system asks the operator to perform triage while already overloaded. Some alarms indicate a initiating problem. Others report downstream effects. Some are redundant. Some are consequential only in combination.
+
+The right response is not to hide inconvenient alarms until the interface looks calm.
+
+It is to organize abnormality around the state the user is trying to recover.
+
+Later nuclear human-factors work emphasized overview displays of critical safety parameters partly because scattered information imposes a reconstruction burden at exactly the moment when working memory is under pressure. The broader design lesson is portable: when the system enters an unusual state, the interface should help answer “What condition are we in?” before it asks the person to process a long inventory of messages.
+
+AI can help with this compression and can also make it dangerous.
+
+A language model can summarize a storm of telemetry into a paragraph. That paragraph may be far easier to read than the underlying signals. But if the model chooses the wrong organizing story, the compression can erase the anomaly that would have challenged it. A fluent incident summary can become a new control-room indicator: useful, truthful in parts, and still pointed at the wrong state.
+
+The safest pattern is layered.
+
+Give the operator a concise state summary. Preserve the underlying signals. Show where the summary depends on inference. Make recent changes easy to inspect. Let an independent alarm or measurement contradict the narrative rather than being absorbed into it automatically.
+
+The goal is not to make the interface skeptical of everything.
+
+It is to preserve a route by which reality can disagree with the interface’s story.
+
 An interface decides what part of reality becomes available for judgment.
 
 That is true of a cockpit, a reactor control room, a bank account, a medical record, a software console, or an AI agent. The interface is not decoration around the real intelligence. It shapes which facts are salient, which actions are easy, which uncertainties remain hidden, and which mistakes can still be recovered.
