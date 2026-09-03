@@ -19,13 +19,15 @@
 - [x] Chapter 3 first draft — The Pull Request at Machine Speed
 - [x] Chapter 4 evidence packet — The Literature Flood
 - [x] Chapter 4 first draft — The Literature Flood
+- [x] Chapter 5 evidence packet — Production and Inspection
+- [x] Chapter 5 first draft — Production and Inspection
 
 ## Research packets to build before deep drafting
 
 - [x] Contract assent, comprehension, and drafting-tool packet
 - [x] Code-review size, generated patches, and incident packet
 - [x] Scientific publishing, paper mills, citation cascades, and retractions packet
-- [ ] Inspection economics and common-mode failure packet
+- [x] Inspection economics and common-mode failure packet
 - [ ] Organizational attention, caseload, and review-budget packet
 - [ ] Audit sampling and adversarial selection packet
 - [ ] Fluency, automation bias, and approval behavior packet
