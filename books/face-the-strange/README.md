@@ -5,8 +5,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Complete draft · Published on Shelf |
 | **Chapters** | 25 of 25 drafted |
+| **Publication** | First edition · September 2026 |
+| **Public Reader** | [Read the published Shelf edition →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 
 *Face The Strange* is about the human moment of meeting advanced intelligence. Its argument is that this moment will not wait for a universal definition of AGI, a laboratory announcement, or a machine that resembles a person in every respect. It will arrive locally and unevenly: the first time a system can hold enough context, pursue enough of a goal, use enough tools, remember enough history, and surprise us often enough that the old category of “software” stops explaining the relationship. The book follows that transition through work, education, companionship, government, embodiment, markets, childhood, plural machine minds, and the ordinary psychology of trust. It argues for neither worship nor denial, but for practiced attention: curiosity without surrender, boundaries without pretending nothing has changed, and institutions capable of dealing with intelligences that may be useful, alien, persuasive, fallible, and increasingly present.
 
@@ -46,3 +48,5 @@
 - [Source ledger](research/source-ledger.csv)
 - [Falsification notes](research/falsification-notes.md)
 - [Release review](research/release-review.md)
+
+This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Svyable Shelf](https://github.com/Svyable/shelf/tree/main/books/face-the-strange) in September 2026; later Desk edits do not silently rewrite that edition. The September 2026 release review cleared the first edition while preserving its evidence boundaries and counterclaims.
