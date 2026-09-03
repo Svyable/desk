@@ -253,3 +253,97 @@ A private insurer can say: this risk does not meet our underwriting criteria.
 A public insurer eventually has to answer a harder question.
 
 If not us, then who?
+
+A serious answer should begin before the public program is created.
+
+Last-resort insurance needs an attachment point, even when nobody uses that phrase. The institution should know what failure in the private market is meant to trigger its role. Is the problem that no carrier will quote? That available quotes exceed a defined affordability threshold? That the market has withdrawn after a catastrophe? That a peril is structurally correlated across nearly everyone? That the underlying activity—homeownership, commercial lending, pensions, terrorism coverage—is socially important enough that interruption would create larger economic damage?
+
+Different triggers justify different institutions.
+
+A residual property plan is not the same thing as a catastrophe reinsurer. A residual plan writes individual policies private carriers reject. A catastrophe backstop can leave the individual policy with private insurers and enter only after aggregate losses cross a threshold.
+
+Confusing those roles can make government carry too much risk too early.
+
+The cleanest public layer is often the one that preserves as much private information and discipline below it as possible.
+
+Private insurers still compete for customers. They still inspect buildings, evaluate controls, adjust claims, price ordinary frequency, and retain meaningful loss. Reinsurance and capital markets can sit above them. Government attaches only where correlation becomes so large or politically essential that private withdrawal would damage the broader economy.
+
+This is not always feasible.
+
+Some residual markets exist precisely because the private layer has already disappeared for certain customers.
+
+But the principle remains useful: do not socialize the risk that private actors can still efficiently price and manage merely because public financing looks cheaper in a quiet year.
+
+Government appears to have cheap capital partly because taxpayers stand behind it.
+
+That backing is real economic capacity, not free money.
+
+The next design question is entry.
+
+Who qualifies for the public pool?
+
+If eligibility is broad and the price is attractive, the public program can pull good risks out of the private market and grow far beyond its original purpose. If eligibility is too narrow, households can be left with nominal access and no usable option.
+
+The boundary should be visible enough that policymakers can tell whether growth reflects genuine market retreat, aggressive public pricing, or a change in eligibility rules.
+
+Enrollment is not merely an administrative statistic.
+
+It is a measurement of where risk is migrating.
+
+Then comes exit.
+
+Can the policyholder move back to private insurance when capacity returns? Can a private carrier assume blocks of residual business? Are rates and coverage structured so that the public plan does not become the permanent cheapest option? Does the institution have an operational incentive to shrink, or does every participant around it benefit from continued scale?
+
+A last-resort program without an exit mechanism can become a first-resort market by inertia.
+
+That may eventually be a legitimate policy choice.
+
+It should be named as one.
+
+The third test is prevention.
+
+A public pool should know whether it is financing resilience or merely financing repetition. If a property can be hardened, if a community can reduce flood exposure, if a pension sponsor can improve funding, or if a cyber program can require controls, access to the backstop can be connected to those actions.
+
+The connection must remain realistic. A low-income homeowner cannot rebuild a neighborhood's drainage system alone. A small business cannot eliminate a national cloud concentration. Requirements should attach to the actor capable of changing the risk.
+
+Otherwise risk discipline becomes blame assigned to the weakest participant.
+
+The fourth test is loss allocation.
+
+Every public insurance program should be able to answer, in ordinary language, what happens after a loss larger than current premiums and reserves can absorb.
+
+Who is assessed?
+
+Who can borrow?
+
+Who guarantees the debt?
+
+Which policyholders can be surcharged?
+
+When does the treasury enter?
+
+What is the maximum plausible contingent liability?
+
+If these answers are obscure before catastrophe, they will become political emergencies afterward.
+
+Transparency does not make the tail smaller.
+
+It makes the social contract visible.
+
+The final test is whether the backstop preserves the possibility of saying no to new risk.
+
+This is the most uncomfortable one.
+
+A society may reasonably protect a family that bought a home decades ago under different hazard assumptions. It need not make the same promise to every developer proposing new construction in a place where the public pool already carries concentrated danger.
+
+Insurance of last resort should not automatically become permission to create unlimited new exposure for the last resort to absorb.
+
+Existing vulnerability and newly chosen vulnerability are not morally or economically identical.
+
+The distinction gives public insurance a chance to be humane without becoming self-defeating.
+
+Protect people caught by a changing risk landscape.
+
+Make future decisions confront the landscape more honestly.
+
+That is a more durable purpose than pretending the public pool has made the hazard disappear.
