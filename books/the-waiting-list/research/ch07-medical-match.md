@@ -9,6 +9,8 @@
 - The redesigned algorithm was implemented for the 1998 Match and remains the intellectual basis of the current system.
 - Current NRMP rules still treat couples jointly: a couple matches only when both partners can be placed in a ranked pair of programs.
 - Current NRMP guidance describes Match commitments as binding.
+- In the 2026 Main Residency Match, NRMP reported 53,373 registered applicants and 44,344 positions, including 41,126 PGY-1 positions.
+- The most recent primary congressional record located for the antitrust-exemption controversy is the House Judiciary antitrust subcommittee hearing, “The Match Monopoly: Evaluating the Medical Residency Antitrust Exemption,” held May 14, 2025.
 
 ## Primary and authoritative anchors
 
@@ -22,13 +24,18 @@
 
 5. **Nikhil Agarwal, “An Empirical Model of the Medical Match,” American Economic Review 105(7), 2015.** Counterevidence against the simple claim that the centralized Match itself is the primary cause of low resident salaries. Agarwal’s model estimates that competitive-equilibrium salaries would still sit materially below marginal product because applicants value desirable training positions and capacity is constrained.
 
+6. **National Resident Matching Program, “Advance Data Tables: 2026 Main Residency Match,” March 2026.** Primary current scale source. NRMP reports 53,373 registered applicants, 44,344 total positions, and 41,126 PGY-1 positions for the 2026 Main Residency Match. Use the exact figures rather than a looser “more than sixty thousand” formulation when describing the Main Residency Match itself.
+
+7. **U.S. House Committee on the Judiciary, Subcommittee on the Administrative State, Regulatory Reform, and Antitrust, “The Match Monopoly: Evaluating the Medical Residency Antitrust Exemption,” hearing held May 14, 2025, Serial No. 119-21.** Primary congressional record for continued scrutiny of the graduate-medical-education Match antitrust exemption. Do not date this hearing to 2026.
+
 ## Counterevidence and boundaries
 
 - Do not present the Match as eliminating coercion or bargaining-power concerns. The outcome is binding, residency positions are career gateways, and the graduate-medical-education labor market has significant institutional constraints.
-- Do not claim the antitrust controversy has been resolved. The Match received a statutory antitrust exemption in the 2000s, and congressional scrutiny continued in 2026.
+- Do not claim the antitrust controversy has been resolved. The Match received a statutory antitrust exemption in the 2000s, and a House Judiciary antitrust subcommittee held a dedicated hearing on the exemption on May 14, 2025. Do not upgrade that record into a 2026 congressional hearing without a primary source.
 - Do not imply that applicant-proposing means every applicant receives a preferred outcome. It changes the distribution within stable outcomes; scarcity and program priorities remain.
 - Do not imply couples are “solved.” Joint ranking can represent their preferences better, but a couple can still fail to match if acceptable paired positions do not exist.
 - Do not reduce the redesign to Roth alone. Elliott Peranson, NRMP personnel, medical students, programs, and earlier institutional reformers are essential to the history.
+- NRMP’s current scale figures describe the Main Residency Match. Do not silently combine other fellowship or matching programs into the same applicant count.
 
 ## Falsification note
 
