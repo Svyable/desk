@@ -275,3 +275,41 @@ It separates insurance from prophecy.
 A prophet is ruined by admitting uncertainty.
 
 An insurer is ruined by forgetting it.
+
+The deepest historical change, then, was not that merchants learned to gamble more efficiently.
+
+It was that commercial society learned to make uncertainty administrable.
+
+A voyage could be described before it sailed. A risk could be divided among several balance sheets. A loss could be documented after it happened. A contract could tell a court what the parties thought they had exchanged. Experience from one accident could influence the price or engineering of the next thousand risks.
+
+That is a formidable institutional achievement.
+
+It turns memory into capital discipline.
+
+The distinction matters now because new technologies often arrive before their failures have a shared vocabulary. Early cyber policies struggled with what counted as one event, what belonged in property language, and where war exclusions applied. AI liability faces similar questions about the unit of action, the chain of responsibility, and whether one model defect becomes one occurrence or thousands.
+
+The first task of an emerging insurance market is therefore not always prediction.
+
+Sometimes it is naming.
+
+What happened?
+
+What category of promise did it trigger?
+
+Who controlled the dangerous decision?
+
+Which losses share a common cause?
+
+Which controls would have changed the outcome?
+
+Until those questions acquire stable answers, capital charges uncertainty for the privilege of remaining uncertain.
+
+The coffeehouse solved part of this problem socially. People who knew ships and merchants stood close enough to information to judge risks that could not yet be reduced to a database. Modern markets solve more of it with models, standards, reporting systems, and law.
+
+The machinery changed.
+
+The economic need did not.
+
+Before a society can insure a new risk at scale, it has to become good enough at describing failure that strangers can put money behind the description.
+
+That is how gossip becomes infrastructure.
