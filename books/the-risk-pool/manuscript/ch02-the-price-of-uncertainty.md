@@ -237,3 +237,93 @@ That is precisely why the pool exists.
 The insurance system is strongest when it knows which differences to price, which differences to pool, and which risks must be moved beyond the private market entirely.
 
 The rest of this book is largely about what happens when those boundaries shift.
+
+There is one more reason the expected-loss calculation understates the price: time itself consumes capital.
+
+An insurer cannot wait until the catastrophe occurs and then decide whether to raise the money needed to pay it. The promise is valuable because the resources are expected to be available when everyone else wants resources too. That requires capital before the event, not after it.
+
+Capital has an opportunity cost.
+
+Shareholders can put money into an insurer or into another business. Debt holders can finance one balance sheet or another. Reinsurers and catastrophe investors can choose among risks. If a line of insurance requires a great deal of capital relative to the premium it earns, the price must compensate someone for leaving that capital exposed to loss.
+
+This helps explain why two risks with the same expected annual loss can deserve different prices.
+
+Imagine one portfolio that reliably produces one hundred million dollars of claims every year and another that usually produces almost nothing but occasionally produces a billion-dollar catastrophe. The average can be similar. The capital requirement is not.
+
+The second portfolio needs more capacity waiting behind the tail.
+
+Volatility is expensive because solvency is a constraint.
+
+This is also why diversification has a financial value beyond mathematical elegance. If one insurer writes risks whose bad years occur at different times, a dollar of capital can support more total business than if every line collapses together. Correlation determines how often the same dollar is asked to rescue multiple promises at once.
+
+The price of insurance therefore contains a price on correlation.
+
+The customer rarely sees it labeled that way.
+
+It appears in reinsurance cost, catastrophe load, underwriting appetite, deductibles, coverage limits, or simply the refusal to write more exposure in one place.
+
+Reserves create a related temporal problem.
+
+Some claims are known quickly. A roof is damaged on Monday, inspected on Wednesday, and repaired in the following months. Other liabilities mature slowly. A worker may develop disease years after exposure. A liability dispute can take years to resolve. A long-term-care policy can be sold decades before its largest claims arrive.
+
+The insurer must place a present estimate on an unsettled future.
+
+That estimate is a reserve.
+
+A reserve is neither idle cash in a box nor a prediction made once and forgotten. It is an accounting recognition that premium already earned may still belong, economically, to claims not yet fully paid. As information changes, reserves change.
+
+An increase can turn yesterday's apparent profit into today's correction.
+
+This is one reason reported insurance earnings require interpretation. A company can look profitable while adding inadequate reserves. It can look worse in a year when management strengthens reserves for old business even if current underwriting is improving. The timing of recognition matters because the cost of the product emerges slowly.
+
+The customer's premium therefore buys something invisible twice.
+
+First, it buys protection against an event that may never happen.
+
+Second, it helps finance institutional patience while the eventual cost remains uncertain.
+
+That patience is not free.
+
+Nor should every dollar of premium be defended as technically inevitable. Insurers can be inefficient. Distribution can be costly. Executive decisions can be poor. Competition can be weak. Market power can widen margins. A rate filing can contain assumptions a regulator reasonably challenges.
+
+The fact that capital and uncertainty deserve a price does not prove that any particular price is fair.
+
+It tells us what must be examined.
+
+Expected loss.
+
+Expense.
+
+Volatility.
+
+Correlation.
+
+Capital.
+
+Reserve uncertainty.
+
+Distribution.
+
+Competition.
+
+Subsidy.
+
+Tax and regulation.
+
+The premium is where all of them are compressed into one number.
+
+Public arguments become clearer when the number is decompressed again.
+
+A homeowner protesting a twenty-percent increase may be facing a real increase in expected hazard, a temporary reinsurance spike, rebuilding inflation, an insurer trying to restore an inadequate margin, or some combination. The policy response should depend on which component moved.
+
+If the problem is competition, the answer is not a stronger roof.
+
+If the problem is physical risk, a rate cap does not extinguish the hazard.
+
+If the problem is household income, pretending the actuarial cost is lower does not make the household richer.
+
+The price of uncertainty is therefore not one price.
+
+It is a stack of prices for different kinds of uncertainty.
+
+The work of insurance is deciding which of those layers belongs with the individual, which belongs in the pool, which belongs with outside capital, and which society chooses to carry collectively.
