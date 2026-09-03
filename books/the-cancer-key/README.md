@@ -3,10 +3,11 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | ✅ Complete draft |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 20 of 20 drafted |
+| **Chapters** | 28 of 28 |
+| **Reporting Cutoff** | September 1, 2026 |
 
 *How Neoantigens Solved Humanity’s Most Feared Ailment*
 
@@ -14,7 +15,7 @@ A trade-nonfiction investigation of the moment cancer immunology learned to turn
 
 The title is a provocation rather than a medical claim. The manuscript begins with the August 2026 positive Phase 3 topline result for Merck and Moderna's individualized neoantigen therapy in resected melanoma and places it beside BioNTech's termination of a colorectal neoantigen-vaccine trial nine days later. The central argument is that neoantigens may have solved a fundamental targeting problem without solving cancer as a whole.
 
-The second argument concerns ownership. Cancer genomics, immunology, RNA science and clinical infrastructure were built through intertwined public and private investment. The book asks what public return should mean when publicly supported science becomes a proprietary therapeutic platform, and what happens as modular sequencing and manufacturing enable direct-pay frontier clinics to offer individualized processes before broad regulatory approval.
+The second argument concerns ownership and access. Cancer genomics, immunology, RNA science and clinical infrastructure were built through intertwined public and private investment. The book asks what public return should mean when publicly supported science becomes a proprietary therapeutic platform; how HLA diversity, sequencing access and manufacturing capacity determine who can use it; and what happens as modular technology enables direct-pay frontier clinics and cross-border individualized treatment before broad regulatory approval.
 
 ## Contents
 
@@ -39,6 +40,14 @@ The second argument concerns ownership. Cancer genomics, immunology, RNA science
 - [x] [Ch 18 — The Key Is Not a Cure](manuscript/ch18-the-key-is-not-a-cure.md)
 - [x] [Ch 19 — The Data Commons](manuscript/ch19-the-data-commons.md)
 - [x] [Ch 20 — After the Breakthrough](manuscript/ch20-after-the-breakthrough.md)
+- [x] [Ch 21 — The HLA Lottery](manuscript/ch21-the-hla-lottery.md)
+- [x] [Ch 22 — Cancer Learns the Address](manuscript/ch22-cancer-learns-the-address.md)
+- [x] [Ch 23 — The Trial Is Part of the Factory](manuscript/ch23-the-trial-is-part-of-the-factory.md)
+- [x] [Ch 24 — Who Gets Sequenced](manuscript/ch24-who-gets-sequenced.md)
+- [x] [Ch 25 — The Public Option for Personalization](manuscript/ch25-the-public-option-for-personalization.md)
+- [x] [Ch 26 — The Combination Bill](manuscript/ch26-the-combination-bill.md)
+- [x] [Ch 27 — The Global Key](manuscript/ch27-the-global-key.md)
+- [x] [Ch 28 — What Counts as Solved](manuscript/ch28-what-counts-as-solved.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
