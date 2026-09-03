@@ -17,3 +17,4 @@ These files preserve chapter-level source selection, claim boundaries, counterev
 - [Chapter 17 — The Bypass](ch17-the-bypass.md)
 - [Chapter 18 — The Right to Exit](ch18-the-right-to-exit.md)
 - [Chapter 19 — Agents at the Gates](ch19-agents-at-the-gates.md)
+- [Chapter 20 — Good Gates](ch20-good-gates.md)
