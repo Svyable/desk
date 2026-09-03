@@ -1,0 +1,8 @@
+{
+  "year": "2026",
+  "author_or_institution": "METR",
+  "title": "Task-Completion Time Horizons of Frontier AI Models",
+  "source_type": "Independent evaluation and methodology page",
+  "book_use": "Defines the human-equivalent task-completion time-horizon metric, documents software/ML/cyber task emphasis, and provides explicit limitations against interpreting the metric as general job automation or literal unattended runtime.",
+  "url": "https://metr.org/time-horizons/"
+}
