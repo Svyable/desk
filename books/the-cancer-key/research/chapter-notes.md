@@ -56,7 +56,7 @@
 
 ## Chapter 10 — The Factory for One
 
-**Evidence:** company platform descriptions; Reuters August 2026 reporting on individualized manufacturing barriers; FDA individualized-therapy quality guidance; established autologous cell-therapy manufacturing practice.
+**Evidence:** August 24, 2026 JCO Oncology Advances description of the end-to-end intismeran pathway; company platform descriptions; Reuters August 2026 reporting on individualized manufacturing barriers; FDA individualized-therapy and CMC guidance; established autologous cell-therapy manufacturing practice.
 
 **What would make this false:** evidence that individualized manufacturing cannot achieve reliable commercial turnaround or that variable payloads create unacceptable batch or regulatory failure rates.
 
@@ -68,13 +68,13 @@
 
 ## Chapter 12 — The State Paid for the Map
 
-**Evidence:** NCI appropriation; TCGA; Cancer Moonshot authorization and projects; NCI clinical-trial and intramural infrastructure; NIH-funded foundational immunology and genomics.
+**Evidence:** NCI FY2026 appropriation; NIH FY2025 appropriation and grants totals; TCGA; Cancer Moonshot authorization and projects; NCI clinical-trial and intramural infrastructure; NIH-funded foundational immunology and genomics.
 
 **What would make this false:** product-specific accounting showing the public contribution was negligible relative to private invention and development would weaken the book's public-return argument for that product, though not the broader infrastructure claim.
 
 ## Chapter 13 — The Patent Fence
 
-**Evidence:** NIH Bayh-Dole regulations; NIH grants policy; GAO discussion of march-in policy; scholarship on pharmaceutical patent portfolios and federal funding.
+**Evidence:** NIH Bayh-Dole regulations; NIH grants policy; GAO-26-107885 on the federal government's draft price-related march-in guidance; scholarship on pharmaceutical patent portfolios and federal funding.
 
 **What would make this false:** evidence that exclusivity plays little role in financing late-stage development, or that current public rights already provide an effective and routinely usable affordability mechanism.
 
@@ -98,19 +98,19 @@
 
 ## Chapter 17 — The Regulator's Clock
 
-**Evidence:** FDA expanded access guidance, Right to Try, investigational-drug materials and 2026 Plausible Mechanism Framework draft guidance for individualized ultra-rare therapies.
+**Evidence:** FDA expanded access guidance, Right to Try, investigational-drug materials, February 2026 Plausible Mechanism Framework draft guidance for individualized ultra-rare therapies, May 2026 final CMC flexibilities guidance for cellular and gene therapies, and August 2026 draft potency guidance for active immunotherapy products.
 
 **What would make this false:** regulator policies specifically tailored to individualized cancer vaccines that supersede the analogies used here; major evidence that current access pathways materially impede rather than protect clinical development.
 
 ## Chapter 18 — The Key Is Not a Cure
 
-**Evidence:** synthesis of the clinical, biological and institutional evidence in prior chapters.
+**Evidence:** synthesis of the clinical, biological and institutional evidence in prior chapters, especially the contrast between the positive melanoma Phase 3 topline result and disease-specific limits elsewhere.
 
 **What would make this false:** broad randomized success across multiple hard-to-treat cancers would make the chapter too cautious; repeated failure outside melanoma would make it too optimistic.
 
 ## Chapter 19 — The Data Commons
 
-**Evidence:** TCGA as an example of open cancer-data infrastructure; public epitope resources; emerging proprietary clinical-learning loops in precision medicine; HLA diversity literature.
+**Evidence:** TCGA as an example of open cancer-data infrastructure; public epitope resources; emerging proprietary clinical-learning loops in precision medicine; HLA diversity literature; FDA August 2026 draft potency guidance as evidence that assay comparability and immune-product measurement are becoming explicit regulatory questions.
 
 **What would make this false:** evidence that proprietary outcome data produce little durable competitive advantage, or that mandatory data sharing reliably harms patient privacy or therapeutic investment more than it accelerates research.
 
@@ -119,3 +119,51 @@
 **Evidence:** CAR-T commercialization as a logistics analogy; current individualized-vaccine manufacturing constraints; payer and regulator structures; evidence from first-wave precision-oncology adoption.
 
 **What would make this false:** the first approval could arrive with unexpectedly rapid manufacturing, broad payer coverage and distributed access, reducing the predicted implementation gap. Conversely, no approval would require reframing the chapter around a stalled platform rather than commercialization.
+
+## Chapter 21 — The HLA Lottery
+
+**Evidence:** HLA population-diversity literature; IEDB, NetMHCpan, MHCflurry and related prediction resources; published analyses showing unequal data density and prediction performance across alleles; clinical-trial and neoantigen-selection literature in which HLA type constrains target availability.
+
+**What would make this false:** prospective evidence showing uniformly strong target-selection performance across common and rare HLA alleles, with no meaningful access or outcome penalty for underrepresented allele groups, would weaken the chapter's equity argument.
+
+## Chapter 22 — Cancer Learns the Address
+
+**Evidence:** literature on intratumoral heterogeneity, clonal versus subclonal neoantigens, HLA loss of heterozygosity, antigen-processing defects, immunoediting and acquired resistance under immune pressure.
+
+**What would make this false:** evidence that antigen-presentation loss, subclonal escape and immunoediting rarely limit durable response to neoantigen-directed therapies would make the evolutionary framing too strong.
+
+## Chapter 23 — The Trial Is Part of the Factory
+
+**Evidence:** INTerpath-001 trial design and scale; August 24, 2026 JCO Oncology Advances end-to-end intismeran pathway paper; established individualized cell-therapy trial operations; manufacturing funnel and turnaround reporting in personalized-therapy programs.
+
+**What would make this false:** evidence that trial-site, specimen, manufacturing and logistics performance have little effect on who reaches dosing or on observed outcomes would undermine the claim that operations are part of the intervention.
+
+## Chapter 24 — Who Gets Sequenced
+
+**Evidence:** U.S. cancer genomic-testing coverage frameworks; literature on tissue adequacy, molecular-testing disparities and community-versus-academic access; genomic data portability and provenance requirements; personalized-therapy workflows requiring richer inputs than ordinary tumor-panel reports.
+
+**What would make this false:** broad adoption of interoperable tumor-normal sequencing with reliable coverage, portable raw data and metadata, timely specialist interpretation and geographically distributed therapeutic access would substantially reduce the access funnel described here.
+
+## Chapter 25 — The Public Option for Personalization
+
+**Evidence:** NCI and NIH intramural and cooperative research infrastructure; public cancer centers and shared manufacturing experience; standards and procurement models from biomedical infrastructure; public comparative-effectiveness trial networks; historical federal technology-transfer and access policy.
+
+**What would make this false:** evidence that private markets reliably provide rare-population coverage, negative-data generation, interoperable standards, reserve manufacturing capacity and de-escalation trials without persistent gaps would weaken the case for public or nonprofit capability.
+
+## Chapter 26 — The Combination Bill
+
+**Evidence:** intismeran plus pembrolizumab clinical development; health-economics literature on incremental benefit, adjuvant treatment and regimen-level cost; oncology experience with combination-drug lock-in, biosimilar substitution and de-escalation trials.
+
+**What would make this false:** evidence that personalized neoantigen vaccines deliver comparable benefit without checkpoint partners, or that combination components are routinely interchangeable and rapidly de-escalated after approval, would reduce the pricing and lock-in concerns.
+
+## Chapter 27 — The Global Key
+
+**Evidence:** FDA expanded access and Right to Try; Swiss formal trial infrastructure; German provider descriptions of individualized-treatment frameworks; cross-border manufacturing, pharmacovigilance and clinical-record requirements; direct-pay provider materials used only to establish public offers and stated legal status.
+
+**What would make this false:** internationally harmonized rules and interoperable treatment records that make legal status, product identity, adverse-event reporting and long-term follow-up reliably portable across borders would reduce the regulatory-fragmentation argument.
+
+## Chapter 28 — What Counts as Solved
+
+**Evidence:** synthesis of the full manuscript: positive randomized evidence in melanoma, negative and incomplete evidence in other cancers, manufacturing and access constraints, public/private infrastructure, data concentration, evolutionary escape and regulatory adaptation.
+
+**What would make this false:** broad Phase 3 success across diverse difficult cancers combined with inexpensive, rapid, equitable delivery would make the conclusion too cautious. Failure of the platform to reproduce meaningful benefit beyond a narrow melanoma setting would make the conclusion too optimistic.
