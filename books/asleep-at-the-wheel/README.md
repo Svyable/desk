@@ -6,7 +6,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 15 of 22 drafted |
+| **Chapters** | 18 of 22 drafted |
 
 *How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask.*
 
@@ -32,9 +32,9 @@ The working thesis is that sleep behaves like a hard, measurable biological cons
 - [x] [Ch 13 — Losing an Hour, Gaining a Heart Attack](manuscript/ch13-losing-an-hour-gaining-a-heart-attack.md)
 - [x] [Ch 14 — The Insomnia Economy](manuscript/ch14-the-insomnia-economy.md)
 - [x] [Ch 15 — Quantified but Not Understood](manuscript/ch15-quantified-but-not-understood.md)
-- [ ] [Ch 16 — The Book About Sleep That Got Sleep Wrong](manuscript/ch16-the-book-about-sleep-that-got-sleep-wrong.md)
-- [ ] [Ch 17 — Nine Days Without a Sunset](manuscript/ch17-nine-days-without-a-sunset.md)
-- [ ] [Ch 18 — The Locker Room Advantage](manuscript/ch18-the-locker-room-advantage.md)
+- [x] [Ch 16 — The Book About Sleep That Got Sleep Wrong](manuscript/ch16-the-book-about-sleep-that-got-sleep-wrong.md)
+- [x] [Ch 17 — Nine Days Without a Sunset](manuscript/ch17-nine-days-without-a-sunset.md)
+- [x] [Ch 18 — The Locker Room Advantage](manuscript/ch18-the-locker-room-advantage.md)
 - [ ] [Ch 19 — The Trade Nobody Signs](manuscript/ch19-the-trade-nobody-signs.md)
 - [ ] [Ch 20 — Fatigue as a Feature](manuscript/ch20-fatigue-as-a-feature.md)
 - [ ] [Ch 21 — What a Sleep-Literate Civilization Looks Like](manuscript/ch21-what-a-sleep-literate-civilization-looks-like.md)
