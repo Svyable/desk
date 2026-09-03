@@ -16,4 +16,8 @@
 
 [^8]: Klarna Group plc response to U.S. Securities and Exchange Commission comments during its 2025 registration process. The SEC asked Klarna to address press reports that its AI service had produced lower-quality results. Klarna disputed that interpretation, said the cited comments concerned a pilot to improve human customer service, restated its AI-service metrics, and described a dual-track model in which customers retain access to human representatives.
 
+[^9]: Staffs of the U.S. Commodity Futures Trading Commission and Securities and Exchange Commission, “Findings Regarding the Market Events of May 6, 2010” (September 30, 2010). The joint report reconstructs the stressed-market backdrop, the 75,000-contract E-mini sell program, the volume-sensitive execution algorithm, high-frequency trading and rapid inventory turnover, collapsing market depth, cross-market linkages, and the interaction of automated strategies during the Flash Crash. The report does not reduce the event to a single culprit or claim that automation alone caused it.
+
+[^10]: U.S. Securities and Exchange Commission, “SEC Charges Knight Capital With Violations of Market Access Rule” and associated 2013 order. The SEC found that Knight’s August 1, 2012 software deployment failure caused millions of erroneous orders, more than 397 million shares of trading, multi-billion-dollar unintended positions, and losses above $460 million. The order also records ninety-seven automated emails related to the router error that did not result in effective intervention before the market opened.
+
 ---
