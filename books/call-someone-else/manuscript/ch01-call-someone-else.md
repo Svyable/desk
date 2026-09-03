@@ -28,19 +28,19 @@ In a bad system, the official map still looks fine. The names and phone numbers 
 
 The difference explains why “just escalate it” is often useless advice. If the path were real, the person probably would.
 
-A useful way to think about escalation is as movement across one of four shortages.
+The most useful way I have found to think about escalation is to ask what the current layer lacks.
 
-The first shortage is knowledge. The current person cannot reliably interpret what is happening. A generalist needs a specialist. A customer-service representative needs someone who understands a particular account restriction. An engineer needs the person who knows the database internals. A primary-care clinician needs a specialist's view. Knowledge escalation is the easiest kind to praise because asking an expert sounds sensible.
+Sometimes it lacks knowledge. The person cannot reliably interpret what is happening. A generalist needs a specialist. A customer-service representative needs someone who understands a particular account restriction. An engineer needs the person who knows the database internals. A primary-care clinician needs a specialist's view. Knowledge escalation is the easiest kind to praise because asking an expert sounds sensible.
 
-The second shortage is authority. The current person may know exactly what should happen but lack permission to make it happen. A representative can see that a refund is justified but has a dollar limit. A nurse can see that a patient's condition is worsening but cannot independently order every intervention. A technician can identify a safety problem but cannot unilaterally redesign the product. An employee can recognize a conflict of interest but cannot adjudicate it. Authority escalation is more political because it forces the organization to reveal where decision rights actually live.
+Sometimes the shortage is authority. The current person may know exactly what should happen but lack permission to make it happen. A representative can see that a refund is justified but has a dollar limit. A nurse can see that a patient's condition is worsening but cannot independently order every intervention. A technician can identify a safety problem but cannot unilaterally redesign the product. An employee can recognize a conflict of interest but cannot adjudicate it. Authority escalation is more political because it forces the organization to reveal where decision rights actually live.
 
-The third shortage is capacity. The person may know what to do and be allowed to do it, but cannot do it quickly enough alone. A fire department requests more units. An incident response team brings in additional engineers. A surgeon calls for another specialist. A dispatcher coordinates multiple agencies. Capacity escalation is a reminder that competence is not the same thing as infinite bandwidth.
+Sometimes the shortage is capacity. The person may know what to do and be allowed to do it, but cannot do it quickly enough alone. A fire department requests more units. An incident response team brings in additional engineers. A surgeon calls for another specialist. A dispatcher coordinates multiple agencies. Capacity escalation is a reminder that competence is not the same thing as infinite bandwidth.
 
-The fourth shortage is independence. This one is easy to miss. Sometimes the current person knows enough, has authority, and has capacity, but the decision should still move because the system needs another perspective not captured by the original chain. Courts of appeal exist partly for this reason. Safety organizations create independent technical review for this reason. Auditors, ombuds offices, inspectors general, peer reviewers, and external boards exist because certain judgments become less trustworthy when the same person or hierarchy is asked to investigate itself.
+And sometimes the shortage is independence. This one is easy to miss. The current person may know enough, have authority, and have capacity, yet the decision should still move because the system needs a perspective not captured by the original chain. Courts of appeal exist partly for this reason. Safety organizations create independent technical review for this reason. Auditors, ombuds offices, inspectors general, peer reviewers, and external boards exist because certain judgments become less trustworthy when the same person or hierarchy is asked to investigate itself.
 
 These shortages overlap. A problem can need more knowledge and more authority. A team can have the right expertise but no time. An executive can have authority but be too invested in the original decision to provide meaningful review. The point is not to sort every escalation into a neat box. It is to notice that “someone else” is not a generic resource. The value of the second person comes from what is different about them.
 
-That difference is what distinguishes escalation from passing the buck.
+That difference is what separates escalation from passing the buck.
 
 Passing the buck moves discomfort.
 
@@ -58,7 +58,7 @@ Emergency systems have learned this the hard way. A caller does not simply posse
 
 The same is true in medicine. A patient's deterioration is not a red icon that can travel without a story. What changed? Over what period? What are the vital signs? What medications were given? What is unusual relative to this patient's baseline? What concerns the bedside clinician even if no single number crosses a clean threshold?
 
-The same is true in law. The appellate court does not receive a vague complaint that the lower court felt wrong. It receives a record, briefs, identified grounds for review, and a constrained question about whether the proceedings or legal conclusions require correction.
+The same is true in law. An appellate court does not receive a vague complaint that the lower court felt wrong. It receives a record, briefs, identified grounds for review, and a constrained question about whether the proceedings or legal conclusions require correction.
 
 The same is true in organizations that are not dealing with life, liberty, or infrastructure. A manager who forwards an email with “Thoughts?” is creating an escalation while outsourcing the work of reconstructing the problem. A better handoff tells the recipient why they are being involved and what decision, expertise, or authority is needed.
 
@@ -78,7 +78,7 @@ Sometimes that is exactly right. Escalation has costs. It interrupts other work.
 
 Good systems therefore do not remove judgment. They change what the judgment is about.
 
-Instead of asking, “Am I certain something is wrong?” they may ask, “Has the problem crossed the threshold at which another set of eyes is cheaper than continuing alone?”
+Instead of asking, “Am I certain something is wrong?” the system may ask whether the problem has crossed the point at which another set of eyes is cheaper than continuing alone.
 
 That is a different standard.
 
@@ -106,7 +106,7 @@ Formalization can go too far. Bureaucracies can turn a simple request for help i
 
 It says that the second person is part of the system, not a rescue you must earn.
 
-This is especially important in organizations that celebrate “ownership.” Ownership is useful language when it means staying with a problem, caring about the outcome, and refusing to let ambiguity become somebody else's hidden burden.
+This is especially important in organizations that celebrate ownership. Ownership is useful language when it means staying with a problem, caring about the outcome, and refusing to let ambiguity become somebody else's hidden burden.
 
 It becomes dangerous when ownership is interpreted as solitary possession.
 
@@ -148,9 +148,77 @@ The pilot relies on dispatch, maintenance, air traffic control, weather informat
 
 Competence is distributed because reality is larger than a job description.
 
+There is a useful counterexample in the other direction. Escalation can become a substitute for competence.
+
+A new employee is afraid to make any decision and asks the manager about everything. A physician refers every uncertain presentation rather than maintaining a reasonable generalist scope. An engineer pages a senior colleague before reading the runbook. A manager sends every disagreement to the vice president because taking a position feels risky. A public official creates a committee for choices already delegated to the office.
+
+The organization can respond by shaming people for escalation, which pushes the problem back toward silence.
+
+Or it can ask what is missing below the boundary.
+
+Maybe the first person needs training.
+
+Maybe the role lacks clear authority.
+
+Maybe the policy is ambiguous.
+
+Maybe the organization's punishment for an ordinary mistake is so severe that rational employees seek cover before acting.
+
+Maybe the escalation itself is cheap enough that people use it as insurance.
+
+A healthy route teaches the lower layer over time. The senior engineer answers the page and improves the runbook. The supervisor explains why the exception was granted and delegates a clearer rule. The specialist returns a useful note. The incident review identifies which decisions can safely remain local next time.
+
+Escalation should not merely move problems. It should sometimes move capability back.
+
+This is the difference between an organization that gets more dependent on experts and one that gets smarter through contact with them.
+
+The first person also needs permission to remain uncertain after escalating.
+
+This sounds odd. We often expect the person raising a concern to become the advocate for one conclusion. The nurse who calls must prove the patient is deteriorating. The engineer who blocks the launch must prove the release would fail. The employee who raises a risk must prove the feared outcome.
+
+But the point of escalation is often that the first person cannot resolve the uncertainty alone.
+
+A cleaner signal is sometimes: I do not know whether this is serious, and that uncertainty has crossed the threshold where another capability should look.
+
+The receiving layer can then evaluate the condition without turning the conversation into a debate over whether the escalator deserves vindication.
+
+That preserves a crucial distinction between signal and verdict.
+
+The person who notices does not always need to be the person who diagnoses.
+
+The person who stops does not always need to be the person who redesigns.
+
+The person who appeals does not always need to prove the entire case before gaining review.
+
+The person who pages does not always need to know the root cause.
+
+If the system requires diagnosis before escalation, it has placed the second person's job onto the first person as an entry fee.
+
+This is one reason the best thresholds often combine explicit criteria with a judgment route. Numbers can make escalation legitimate without status negotiation. Judgment can catch the case the numbers miss.
+
+Neither should be treated as infallible.
+
+There is another reason to design escalation before it is needed: people under pressure become less inventive in exactly the way institutions imagine they will become more inventive.
+
+The emergency arrives and the organization says, “Use common sense.”
+
+But common sense depends on knowing who is reachable, which decisions are reversible, which rules can bend, which facts matter, and how much risk the next delay creates. Those are institutional facts. The person at the edge cannot conjure them from character.
+
+Prepared routes reduce the cognitive load of improvisation.
+
+The 911 caller does not identify the correct fire battalion. The call taker routes.
+
+The nurse does not need to assemble an intensive-care team socially. The response pathway routes.
+
+The on-call engineer does not search the employee directory for whoever might know the database. The ownership system routes.
+
+The pilot does not negotiate the existence of final operational responsibility from first principles. The role is already defined.
+
+Preparation does not eliminate judgment. It leaves more judgment available for the part that could not be prepared.
+
 This book is not an argument against expertise or self-reliance. Most problems should be solved at the lowest sensible level. A system in which nobody can act without permission from above is not resilient. It is paralyzed.
 
-The argument is narrower and, I think, more demanding.
+The argument is narrower and more demanding.
 
 Every role has a boundary.
 
@@ -161,6 +229,10 @@ If the boundary is shameful, people conceal it.
 If the boundary has no route, people improvise under pressure.
 
 If the route exists but using it is punished, the route is fictional.
+
+If the route is used constantly for the same ordinary case, the boundary itself may be wrong.
+
+And if the second person is merely a more senior copy of the first, the system has changed status without changing capability.
 
 The first person remains essential. Somebody must notice. Somebody must care. Somebody must begin.
 
