@@ -5,7 +5,7 @@ importScripts(
   'https://svyable.github.io/shelf/reader/js/offline-shell-install.js'
 );
 
-const CACHE = 'svyable-desk-reader-v8';
+const CACHE = 'svyable-desk-reader-v9';
 const CACHE_PREFIX = 'svyable-desk-reader-';
 const SHARED_READER = 'https://svyable.github.io/shelf/reader/';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
@@ -278,8 +278,8 @@ async function warmChapterMedia(cache, chapterResponse, chapterUrl, publicationU
   await Promise.allSettled(media.map((href) => cacheRequest(cache, href, 'media')));
 }
 
-async function warmPublication(readmeResponse, readmeUrl) {
-  if (!readmeResponse?.ok) return;
+async function warmPublication(readmeResponse, readmeUrl, plan) {
+  if (!readmeResponse?.ok || !plan?.warmChapters) return;
   let markdown;
   try {
     markdown = await readmeResponse.text();
@@ -292,7 +292,7 @@ async function warmPublication(readmeResponse, readmeUrl) {
   const cache = await caches.open(CACHE);
   await Promise.allSettled(chapters.map(async (href) => {
     const response = await cacheRequest(cache, href, 'chapter');
-    if (!response) return;
+    if (!response || !plan.warmMedia) return;
     await warmChapterMedia(cache, response.clone(), href, readmeUrl.href);
   }));
 }
@@ -314,11 +314,14 @@ self.addEventListener('fetch', (event) => {
   event.waitUntil(network.then(() => {}).catch(() => {}));
 
   if (sameOrigin && self.BookselfOfflineCache.isPublicationReadme(url.href)) {
-    event.waitUntil(
-      network
-        .then((response) => warmPublication(response.clone(), url))
-        .catch(() => {})
-    );
+    const plan = self.BookselfOfflineCache.publicationWarmPlan(self.navigator?.connection || {});
+    if (plan.warmChapters) {
+      event.waitUntil(
+        network
+          .then((response) => warmPublication(response.clone(), url, plan))
+          .catch(() => {})
+      );
+    }
   }
 
   event.respondWith(respondWithPolicy(request, network, kind, sameOrigin));
