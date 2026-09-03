@@ -53,6 +53,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Abstraction Trap](https://svyable.github.io/desk/books/the-abstraction-trap/README.md)
 - [The Agentic Consumer Economy](https://svyable.github.io/desk/books/the-agentic-consumer-economy/README.md)
 - [The Bureaucracy of Heaven](https://svyable.github.io/desk/books/the-bureaucracy-of-heaven/README.md)
+- [The Cancer Key](https://svyable.github.io/desk/books/the-cancer-key/README.md)
 - [The Collective](https://svyable.github.io/desk/books/the-collective/README.md)
 - [The Compatibility Dividend](https://svyable.github.io/desk/books/the-compatibility-dividend/README.md)
 - [The Convergence](https://svyable.github.io/desk/books/the-convergence/README.md)
