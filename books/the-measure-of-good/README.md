@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 15 of 18 drafted |
+| **Chapters**  | 16 of 18 drafted |
 
 If we can measure almost everything, why are we still so bad at measuring what is good?
 
@@ -30,10 +30,10 @@ A book about metrics, judgment, and the point where measurement stops and moral 
 - [x] [Ch 13 — When the Model Decides](manuscript/ch13-when-the-model-decides.md)
 - [x] [Ch 14 — Experts, Citizens, and Legitimate Choice](manuscript/ch14-experts-citizens-and-legitimate-choice.md)
 - [x] [Ch 15 — The Cost of Doing Nothing](manuscript/ch15-the-cost-of-doing-nothing.md)
+- [x] [Ch 16 — Reversibility](manuscript/ch16-reversibility.md)
 
 ## Planned chapters
 
-16. Reversibility
 17. The Good Enough Decision
 18. The Measure of Good
 
