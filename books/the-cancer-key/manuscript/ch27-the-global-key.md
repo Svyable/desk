@@ -358,6 +358,58 @@ Regulation follows.
 
 Commerce finds the gap.
 
+A workable cross-border system will need something like an evidence passport.
+
+Not a new travel document for patients. A standardized clinical packet that moves with the treatment event regardless of which country's legal pathway authorized it. The packet would identify the provider, legal basis, manufacturer, batch, target-selection method, product composition, dosing, concomitant therapy, adverse-event contacts and required follow-up.
+
+The home oncologist would not need to endorse the treatment to understand it.
+
+The regulator would not need to recognize the foreign pathway as equivalent to its own to receive a safety signal.
+
+The patient would not need to reconstruct a complex experimental regimen from marketing materials after returning home.
+
+This is a modest form of regulatory interoperability.
+
+It respects legal difference while refusing informational disappearance.
+
+The same idea can improve adverse-event reporting.
+
+A serious reaction may occur after the patient has crossed back into another country. The local hospital may report it through a domestic pharmacovigilance system that does not automatically connect the event to the foreign clinic or bespoke manufacturer. If the product has a traceable global identifier, the signal can travel back to the responsible parties without requiring every regulator to share one database.
+
+The product is personalized.
+
+The identifier should not be parochial.
+
+Cross-border follow-up also needs a default owner.
+
+A clinic cannot reasonably claim that long-term outcome is somebody else's responsibility once the invoice is paid. The patient's ordinary oncologist may be willing to follow the disease but not to report into a foreign registry. A manufacturer may hold the best product metadata but have no direct clinical relationship.
+
+The treatment agreement should decide the handoff before the patient leaves.
+
+Who contacts the patient at three months?
+
+Who records recurrence?
+
+Who receives imaging?
+
+Who reports a serious immune toxicity?
+
+Who closes the record if the patient dies?
+
+Those questions are not administrative trivia. They determine whether international experimental care produces evidence or only transactions.
+
+The same standard should apply to failure before dosing.
+
+If sequencing fails, no targets are suitable, manufacturing is unsuccessful or the patient deteriorates before administration, the case should remain in the denominator of the program that accepted the patient. Otherwise international clinics can look more successful simply because the patients who never receive product vanish between jurisdictions.
+
+A global registry does not need global government to enforce this perfectly.
+
+Professional accreditation, insurer contracts, manufacturer agreements, ethics requirements and national regulators can all make participation valuable. The practical aim is convergence around a minimum record, not a treaty that harmonizes every experimental-treatment law.
+
+That is how standards usually become real.
+
+Enough important institutions decide that incompatibility is more expensive than coordination.
+
 The global key will not be one country's rule.
 
 It will be a system in which innovation can cross borders without allowing uncertainty to disappear between them.
