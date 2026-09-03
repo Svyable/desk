@@ -186,6 +186,46 @@ They also reveal a failure mode.
 
 When ordinary citizens need informal brokers to navigate a public allocation system, the official line is only part of the allocation process.
 
+There was a third mechanism underneath the first two: throughput.
+
+A priority rule decides who deserves access first. An appointment system decides who can claim a place. A delivery system still has to turn inventory into injections.
+
+Those are different jobs.
+
+A jurisdiction could have a morally persuasive priority order and still perform poorly if doses arrived unevenly, sites lacked enough staff, appointment capacity was too low, or the people at the front of the formal line could not reach the places where doses were available. Conversely, a clinic could move doses through arms very quickly while doing a poor job of reaching the people its own priority framework said mattered most.
+
+Speed and priority can therefore conflict.
+
+Suppose a site can fill every appointment immediately by opening booking to a broad group. That may maximize throughput. It may also allow people with flexible schedules and better information to consume appointments before harder-to-reach high-priority residents know they exist.
+
+Suppose instead the site reserves every slot for a narrowly defined group and verifies each claim carefully. That protects the priority rule. It can also slow the line if verification is cumbersome or if reserved appointments go unused.
+
+The design problem is no longer simply who ranks first.
+
+It is how much friction the system should tolerate to protect the ranking.
+
+This is where a queue becomes an operating system rather than a list.
+
+Someone has to decide how inventory is divided among hospitals, pharmacies, mass-vaccination sites, long-term-care facilities, and local clinics. Someone has to decide whether appointments are released all at once or in smaller batches. Someone has to decide how long a slot can remain unfilled before it is offered to somebody else. Someone has to decide what evidence proves eligibility and what happens when the evidence is ambiguous.
+
+Each decision can change who actually gets vaccinated without changing the official priority chart at all.
+
+That is why implementation cannot be treated as the morally neutral part that begins after ethics ends.
+
+Implementation is ethics with clocks, forms, refrigerators, staff schedules, websites, and physical distance added.
+
+The National Academies and ACIP could state principles at national scale. A local operator had to turn those principles into a Tuesday afternoon.
+
+This also explains why the simplest performance metric could mislead.
+
+Counting doses administered tells you whether inventory is moving. It does not tell you whether the people vaccinated are the people the priority rule intended to reach. Measuring adherence to priority categories tells you something about procedural fidelity. It does not tell you whether appointments sat empty or whether the rules were too difficult for eligible people to navigate.
+
+A system can be fast and exclusionary.
+
+It can be careful and wasteful.
+
+The hard work lies in refusing to call either dimension the whole definition of success.
+
 There was another problem: doses expired.
 
 A perfectly ordered queue is useless if the product spoils while administrators protect the order.
