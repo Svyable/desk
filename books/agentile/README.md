@@ -6,13 +6,13 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf public proof |
-| **Chapters**  | 18 complete of 18 planned + interlude |
+| **Chapters**  | 18 complete of 18 planned + 2 interludes |
 
 *The Birth of a New Force in the Economy*
 
 The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. The book follows the consequences when software begins to behave partly like labor and partly like capital—changing the cost of delegation, the shape of firms, queues and coordination, entrepreneurship, management, wages, ownership, verification, interoperability, public capacity, and responsibility.
 
-The complete first draft contains all 18 planned numbered chapters plus an interlude on the minimum viable institution. It remains in **Drafting** while the manuscript undergoes whole-book revision, evidence checking, structural tightening, and proof promotion; it is not yet a Published edition.
+The complete first draft contains all 18 planned numbered chapters plus interludes on the minimum viable institution and the verification receipt. It remains in **Drafting** while the manuscript undergoes whole-book revision, evidence checking, structural tightening, and proof promotion; it is not yet a Published edition.
 
 ## Contents
 
@@ -33,6 +33,7 @@ The complete first draft contains all 18 planned numbered chapters plus an inter
 - [x] [Ch 13 — Wages Without Workers](manuscript/ch13-wages-without-workers.md)
 - [x] [Ch 14 — Who Owns the Agentile Force](manuscript/ch14-who-owns-the-agentile-force.md)
 - [x] [Ch 15 — The Verification Economy](manuscript/ch15-the-verification-economy.md)
+- [x] [Interlude — The Receipt](manuscript/interlude-the-receipt.md)
 - [x] [Ch 16 — Agents Among Agents](manuscript/ch16-agents-among-agents.md)
 - [x] [Ch 17 — The State Gets Agents Too](manuscript/ch17-the-state-gets-agents-too.md)
 - [x] [Ch 18 — A New Force](manuscript/ch18-a-new-force.md)
