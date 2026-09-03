@@ -59,6 +59,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 **Part VI — Failure Ecology**
 
 - [x] [Ch 24 — The Cascade](manuscript/ch24-the-cascade.md)
+- [x] [Interlude — The Market Rehearsal](manuscript/interlude-the-market-rehearsal.md)
 - [x] [Ch 25 — Dark Forests](manuscript/ch25-dark-forests.md)
 - [x] [Ch 26 — The Labor Question](manuscript/ch26-the-labor-question.md)
 - [x] [Ch 27 — The Kill Switch Myth](manuscript/ch27-the-kill-switch-myth.md)
@@ -81,4 +82,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the upper-30,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. The first reported evidence pass now anchors the early-habitat argument in production engineering, independent agent evaluations, software benchmarks, and regulatory company disclosures, but substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now around 40,000 words, still below Desk’s 65,000-word bar for a complete automated full-book drop. Two reported evidence passes now anchor the early-habitat argument and the failure-ecology argument in production engineering, independent agent evaluations, software benchmarks, regulatory company disclosures, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
