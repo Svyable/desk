@@ -211,3 +211,51 @@ The next chapter leaves accidental fatigue behind.
 In interrogation rooms, sleep loss is not an unwanted side effect of the schedule.
 
 It is the schedule's purpose.
+
+There is a broader regulatory lesson inside that gap between the legal clock and the biological one. Rules work best when the thing they measure is close to the harm they are trying to prevent. Speed limits measure speed. Blood-alcohol limits measure a chemical exposure. Hours-of-service rules measure something one step removed: time available for work and recovery.
+
+That distance is unavoidable because alertness is not a single field an inspector can read from a dashboard.
+
+It means the rule has to be judged as a risk-control system rather than as a definition of safety.
+
+A driver at hour ten is not necessarily safe because the rule permits hour eleven. A driver at hour eleven is not necessarily unsafe because the clock says stop. The line is administrative. Its value comes from reducing the frequency with which economic pressure can push people into increasingly risky territory, not from discovering a physiological cliff that exists at exactly the same minute in every driver.
+
+This is also why exceptions deserve scrutiny even when they sound reasonable. Every exception has a story. Bad weather delayed the route. The shipper held the truck. The driver is close to home. The load is urgent. Parking is unavailable. Some exceptions make the system safer by allowing a driver to respond to reality. Others make the ceiling porous enough that the old pressure simply returns through another door.
+
+The difficult design work lies in distinguishing the two.
+
+The driver sees this conflict from the cab. Dispatch sees it from a network. The shipper sees an appointment. The consignee sees inventory. The regulator sees aggregate crash risk. The public sees a tractor-trailer passing at highway speed. Each actor is optimizing a different piece of the same system.
+
+Fatigue gets created in the gaps between them.
+
+Detention is a good example. A driver can arrive rested and legal, then spend hours waiting to load. The delay does not look like driving, but it consumes the same day. When the truck finally moves, the driver may be closer to the circadian night, closer to the end of the legal window, and under more pressure to make up lost distance. The shipper did not order unsafe driving. The driver did not necessarily begin the day fatigued. The schedule became worse through accumulated delay.
+
+A sleep-literate freight system would notice that the risk was produced collectively.
+
+That does not require turning every warehouse into a sleep laboratory. It requires putting consequences next to the choices that create them. If detention repeatedly compresses safe driving time, the cost should not disappear into the driver's remaining hours. If parking shortages force people to continue after they would prefer to stop, parking is a fatigue issue. If pay rewards miles but not waiting, compensation is a fatigue issue. If appointment systems ignore realistic travel time, scheduling is a fatigue issue.
+
+This is where the phrase personal responsibility can become both true and insufficient.
+
+The Cranbury driver chose to make the long personal trip before reporting. That choice mattered. So did the fact that the system had no direct way to see the resulting wakefulness when he arrived. The two statements can coexist.
+
+Good policy has to survive that coexistence. It cannot require every accident to have one morally satisfying owner.
+
+The same is true of technology. Electronic logs solved part of an honesty problem. They made certain kinds of time harder to falsify. That is real progress. But once the record became more truthful, the remaining mismatch between measured compliance and actual safety became easier to see.
+
+The lesson is not that measurement fails.
+
+It is that measurement reveals the next problem.
+
+The first problem was invisible work time. ELDs made it visible. The next problem was that visible work time did not capture sleep obtained before work, circadian timing, medical disorders, economic pressure, or delayed reaction once the truck was moving.
+
+A mature system keeps going.
+
+It asks which variables are still outside the frame.
+
+That habit of following the missing variable is what connects the transportation chapters to the rest of this book. Hospitals counted hours but not always continuity. Schools counted instructional time but not biological timing. Wearables count signals but can overstate what the signals mean. Employers count availability while recovery happens elsewhere.
+
+The clock is useful.
+
+The clock is not the body.
+
+In the next room, institutions would exploit that distinction deliberately. Sleep deprivation would stop being an accidental by-product of work and become a technique applied to another person.

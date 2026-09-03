@@ -147,3 +147,43 @@ On December 1, 2013, a Metro-North passenger train left Poughkeepsie before dawn
 The train approached a curve in the Bronx where the speed limit fell to thirty miles per hour.
 
 It entered at eighty-two.
+
+The gap between those two cases—Exxon Valdez and Challenger—is where fatigue policy usually gets difficult. One investigation can say fatigue contributed directly to an operator's failure. Another can say sleep loss was present in the decision environment while refusing to assign it specific causal weight. Institutions need a way to act before every case becomes clean enough for a courtroom sentence.
+
+That means separating proof of contribution from proof of exposure.
+
+A company may not be able to show that a particular error happened because an employee slept five hours. It can still know that routinely scheduling critical work after extended wakefulness creates an exposure it has reason to manage. The distinction is familiar in safety engineering. You do not need to wait for a dropped tool to strike someone before deciding that work above people requires controls. You do not need to know which future ignition source will start the fire before keeping flammable vapor below a dangerous concentration.
+
+Fatigue is harder because the exposure is carried inside the worker and changes from hour to hour.
+
+That makes organizations reach for proxies. Hours worked. Time since last duty. Number of consecutive nights. Rest opportunity. Shift start time. Overtime. Commute. Self-reported sleepiness. None is identical to actual alertness. Each is still useful if its limitation is understood.
+
+The mistake is to turn a proxy into a guarantee.
+
+A compliant watch schedule does not guarantee a rested mariner. A legal duty period does not guarantee a safe driver. A manager who says he feels fine is not a physiological instrument. A worker who slept eight hours can still be impaired by a disorder, medication, illness, or circadian timing. Conversely, someone who slept less than an ideal recommendation can perform adequately for a period, especially under motivation and stimulation.
+
+Safety therefore has to be layered around uncertainty rather than waiting for perfect measurement.
+
+One layer limits how much exposure the schedule can create. Another creates relief when the worker says the plan is failing. Another reduces task load at biologically difficult hours. Another uses automation to prevent a single lapse from becoming irreversible. Another investigates medical causes when ordinary recovery does not restore alertness. Another examines staffing so the organization is not quietly depending on somebody volunteering to be the exhausted person.
+
+This is not a sleep-specific philosophy. It is what mature safety systems do with hazards they cannot abolish.
+
+Night navigation cannot be abolished. Overnight medical care cannot be abolished. Aircraft cannot all land before sunset. Electrical grids do not postpone faults until morning. The presence of necessary night work is sometimes used rhetorically as proof that circadian constraints are impractical to consider. It proves the opposite. When exposure cannot be removed, the remaining defenses matter more.
+
+The hardest part is cultural because fatigue sits close to identity.
+
+A worker who reports a mechanical defect is usually describing the machine. A worker who reports fatigue can feel as though he is describing himself. That makes disclosure vulnerable to status. The junior person does not want to be the one who cannot handle the shift. The senior person may have built a career around handling worse. The institution may celebrate endurance because endurance solves a staffing problem without appearing on a budget line.
+
+The result is a peculiar feedback loop. A schedule produces tired people. The people who tolerate it best remain and become senior. Their survival becomes evidence that the schedule is reasonable. The people who struggle leave, transfer, adapt, or stop complaining. The institution sees a tradition.
+
+Accident investigations interrupt that loop because they reconstruct the hours after the outcome is already impossible to ignore.
+
+They ask what the worker had slept, what shift came before, what relief was available, what alarms existed, what the schedule required, and what management knew. The reconstruction can make a previously ordinary arrangement look startling. A tired third mate on a tanker. Managers discussing an unprecedented launch condition after irregular work and little sleep. An engineer beginning a predawn run after a dramatic schedule change.
+
+The point is not that every reconstruction proves fatigue caused the failure.
+
+The point is that serious investigators keep looking for it.
+
+They do so because the condition of the human operator is part of the operating system.
+
+That principle becomes even clearer when the operator actually falls asleep.
