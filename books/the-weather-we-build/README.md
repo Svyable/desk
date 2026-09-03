@@ -71,4 +71,4 @@ The future may belong less to whoever owns the smartest machine than to whoever 
 
 ## Research discipline
 
-See [research/README.md](research/README.md). This first Desk draft establishes the argument, narrative spine, and chapter architecture. Publication-grade revision should attach primary-source evidence to quantitative or comparative claims and maintain a source ledger for every chapter.
+See [research/README.md](research/README.md). The structural draft establishes the argument, narrative spine, and chapter architecture. Publication-grade evidence is attached in the [source ledger](research/source-ledger.md), including primary/first-party factual lanes for every chapter and an explicit intellectual-predecessor check. The bounded [release review](research/release-review.md) records the readiness decision and remaining mechanical publication steps.
