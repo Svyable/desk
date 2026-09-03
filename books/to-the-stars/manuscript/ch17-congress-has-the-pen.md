@@ -172,6 +172,16 @@ The institution needs enough independence to outlive the founder.
 
 Congress is often where that transition occurs.
 
+Bipartisan durability matters for another reason.
+
+A four-year academy cannot operate intelligently if every presidential election threatens to reverse its mission, governance or service tracks. Students need to know the bargain they accepted will still exist when they graduate. Faculty need confidence that programs can survive long enough to build. Accreditation requires institutional continuity. Agencies need to plan positions for cohorts years ahead.
+
+That does not mean the Academy should be insulated from democratic control.
+
+It means Congress should distinguish policy choices that can change with administrations from structural promises made to students.
+
+Service obligations, degree authority, student status, governance and basic funding mechanisms should not depend entirely on executive preference once people have enrolled under them.
+
 The fifth challenge is service obligation.
 
 A military obligation can be written into appointment and commissioning law. A civilian federal obligation may require Congress to define qualifying service, enforcement, waivers, repayment, graduate education and what happens when appropriate jobs are unavailable.
@@ -208,7 +218,7 @@ Service placement.
 
 Retention after obligation.
 
-Demographic and geographic reach within applicable law.
+Geographic reach.
 
 Faculty recruitment and turnover.
 
@@ -221,6 +231,22 @@ Space Force and NASA satisfaction with graduates.
 Comparison with existing pathways.
 
 The Academy should expect to justify itself through evidence rather than founding rhetoric.
+
+That oversight should include an explicit counterfactual.
+
+Congress should not ask only whether the Academy's graduates are good.
+
+Elite institutions can produce impressive graduates while still being an inefficient way to create them.
+
+Lawmakers should ask whether comparable students supported through USAFA, ROTC, civilian scholarships, NASA internships or university partnerships achieve similar outcomes at lower cost or greater scale.
+
+The Academy's claim is not that excellent students become excellent professionals.
+
+Its claim must be that the institution adds something distinctive enough to justify its fixed costs.
+
+That comparison can be uncomfortable because it threatens prestige.
+
+It is also the comparison responsible government owes the public.
 
 One useful approach would be staged authorization.
 
@@ -252,6 +278,42 @@ That is why milestones need to be explicit.
 
 The Academy should know what outcomes trigger expansion and what failures trigger redesign.
 
+Congress could require a sequence rather than a vague promise.
+
+Authorize a founding cohort.
+
+Require an implementation report before enrollment.
+
+Require independent review after the first two academic years.
+
+Set a ceiling on permanent-construction obligations until defined milestones are met.
+
+Require agencies to document actual workforce demand before class size expands.
+
+Require a later reauthorization point at which Congress considers performance data rather than founding projections.
+
+A reauthorization requirement need not be a threat to abolish the school.
+
+It can be a forcing function that prevents the experimental phase from becoming permanent by inertia.
+
+The oversight body should also be chosen deliberately.
+
+The Academy will produce its own assessments, and sponsoring agencies will have reasons to describe the project as successful. Congress may want independent analysis from organizations such as GAO, inspectors general, accreditation bodies or specially commissioned external reviewers, depending on the question.
+
+No evaluator is perfectly neutral.
+
+The value of outside review is that the people measuring success are not the same people whose careers depend on declaring success.
+
+This matters most around cost.
+
+Construction projects can make early estimates obsolete. Shared facilities can become dedicated facilities. Security requirements can expand. Faculty recruiting can require higher compensation or partnership costs than planners expected. A small pilot can hide expenses that appear only at scale.
+
+Congress should require lifecycle estimates, not merely opening-day budgets.
+
+The Academy should know what a graduate is expected to cost after construction, operations, faculty, student support and partner programs are included.
+
+Then Congress can compare that number with alternatives.
+
 Institution-building benefits from commitment.
 
 It also benefits from exit ramps.
@@ -277,6 +339,10 @@ Land.
 Accreditation.
 
 Oversight.
+
+Evaluation.
+
+Reauthorization.
 
 The second kind is less inspiring.
 
