@@ -9,7 +9,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 62 book projects · 29 complete drafts · 1 in revision · 32 drafting**
+> **Desk: 62 book projects · 30 complete drafts · 1 in revision · 31 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -106,7 +106,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Swarm: Agents in the Wild**](books/the-swarm-agents-in-the-wild/) | ✍️ Drafting | 29 of 29 working chapters | 33,633 | A narrative field guide to synthetic ecology: what changes when agents gain memory, tools, budgets, identity, reputation, and one another, then begin to participate in markets and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-swarm-agents-in-the-wild/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | 19 of 19 | 29,994 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
 | [**The Value Stack**](books/the-value-stack/) | ✍️ Drafting | 19 of 19 | 36,738 | The central thesis is that value creation and value capture occur at different layers of economic systems, and that bargaining power migrates toward necessary layers that are difficult to… | [Read →](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
-| [**The Vanishing Bid**](books/the-vanishing-bid/) | ✍️ Drafting | 10 of 11 | 14,065 | The working thesis is that liquidity is not a property of an asset but a behavior of the people and machines currently willing to trade it — a standing offer, renewed voluntarily every few… | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
+| [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | 11 of 11 | 16,209 | The working thesis is that liquidity is not a property of an asset but a behavior of the people and machines currently willing to trade it — a standing offer, renewed voluntarily every few… | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
 | [**The Waiting List**](books/the-waiting-list/) | ✍️ Drafting | Front matter, prologue, epilogue, back matter; 20 of 20 chapters drafted | ~65K | When a price cannot or should not allocate a scarce good, some other rule fills the vacuum — a queue, lottery, priority rule, or algorithmic match — and that rule is rarely neutral. | [Read →](https://svyable.github.io/desk/reader/#/b/the-waiting-list/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 of 12 | 28,564 | The central wager is simple: ordinary perception is full of compressed information. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | 2,454 | Complex systems become sophisticated enough to hide elementary truths. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
