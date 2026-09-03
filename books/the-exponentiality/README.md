@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 7 drafted (Prologue + Chapters 1–6) |
+| **Chapters**  | 11 drafted (Prologue + Chapters 1–10) |
 
 ## Contents
 
@@ -16,4 +16,8 @@
 - [x] [Chapter 4: The Acceleration of Discovery](manuscript/ch04-the-acceleration-of-discovery.md)
 - [x] [Chapter 5: When Intelligence Gets a Body](manuscript/ch05-when-intelligence-gets-a-body.md)
 - [x] [Chapter 6: The Slow Machines](manuscript/ch06-the-slow-machines.md)
+- [x] [Chapter 7: The Education of a Bridge Generation](manuscript/ch07-the-education-of-a-bridge-generation.md)
+- [x] [Chapter 8: The New Geography of Power](manuscript/ch08-the-new-geography-of-power.md)
+- [x] [Chapter 9: The Authenticity Crisis](manuscript/ch09-the-authenticity-crisis.md)
+- [x] [Chapter 10: The Human Premium](manuscript/ch10-the-human-premium.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
