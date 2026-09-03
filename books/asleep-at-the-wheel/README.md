@@ -6,7 +6,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 18 of 22 drafted |
+| **Chapters** | 22 of 22 drafted |
 
 *How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask.*
 
@@ -35,10 +35,10 @@ The working thesis is that sleep behaves like a hard, measurable biological cons
 - [x] [Ch 16 — The Book About Sleep That Got Sleep Wrong](manuscript/ch16-the-book-about-sleep-that-got-sleep-wrong.md)
 - [x] [Ch 17 — Nine Days Without a Sunset](manuscript/ch17-nine-days-without-a-sunset.md)
 - [x] [Ch 18 — The Locker Room Advantage](manuscript/ch18-the-locker-room-advantage.md)
-- [ ] [Ch 19 — The Trade Nobody Signs](manuscript/ch19-the-trade-nobody-signs.md)
-- [ ] [Ch 20 — Fatigue as a Feature](manuscript/ch20-fatigue-as-a-feature.md)
-- [ ] [Ch 21 — What a Sleep-Literate Civilization Looks Like](manuscript/ch21-what-a-sleep-literate-civilization-looks-like.md)
-- [ ] [Ch 22 — The Cost of Never Asking](manuscript/ch22-the-cost-of-never-asking.md)
+- [x] [Ch 19 — The Trade Nobody Signs](manuscript/ch19-the-trade-nobody-signs.md)
+- [x] [Ch 20 — Fatigue as a Feature](manuscript/ch20-fatigue-as-a-feature.md)
+- [x] [Ch 21 — What a Sleep-Literate Civilization Looks Like](manuscript/ch21-what-a-sleep-literate-civilization-looks-like.md)
+- [x] [Ch 22 — The Cost of Never Asking](manuscript/ch22-the-cost-of-never-asking.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
