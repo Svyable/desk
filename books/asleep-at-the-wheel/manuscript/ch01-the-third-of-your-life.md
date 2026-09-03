@@ -105,3 +105,29 @@ It has to know what kind of constraint it is dealing with.
 In 1964, Randy Gardner made that constraint visible by refusing it for eleven days.
 
 The more interesting history begins a decade earlier, when researchers first learned to watch sleep without waking the sleeper. Before institutions could ignore the biology, science had to discover that the sleeping brain was doing anything worth measuring at all.
+
+There is another reason Gardner belongs at the beginning rather than at the end of this story. His experiment tempts us to think in records, while most real sleep loss happens in installments too ordinary to attract a reporter.
+
+Nobody awards a plaque for the fourth consecutive night of six hours. A parent does not phone a newspaper after being awakened three times. A junior doctor does not become famous for starting a shift a little under-recovered. A warehouse worker who changes from days to nights and back again is not attempting an endurance stunt. Yet this is where the institutional problem usually lives: not at the edge of what one body can survive, but in repeated schedules that move people away from the amount or timing of sleep that lets them perform normally.
+
+That makes dose harder to see. With an obvious toxin, the exposure can often be measured in a quantity outside the worker: concentration in the air, radiation at a detector, decibels at the ear. Sleep loss has to be reconstructed from opportunity, behavior, prior nights, timing, and individual response. Two people can arrive at the same desk having spent the same number of hours in bed and carry different amounts of usable alertness into the room. One may have slept continuously; the other may have spent an hour awake with a sick child. One may be working near the middle of his biological day; the other may be trying to perform near the low point of hers. The schedule records none of that unless somebody decides it is worth recording.
+
+This is partly why fatigue gets moralized. What cannot be seen easily is often converted into character. A person who rubs her eyes is told to get coffee. Someone who asks not to work a third overnight is less committed. A student who cannot become alert at an early hour is lazy. These judgments feel efficient because they replace a measurement problem with a personality story.
+
+Gardner himself complicates that story. He did not stay awake because his body ceased asking for sleep. He stayed awake because other people repeatedly helped him override the request. That difference is the whole institutional argument in miniature. The environment can keep a person functioning after the signal to stop has become strong. Basketball, novelty, conversation, supervision, caffeine, alarms, bright rooms, deadlines, fear, money, and professional identity can all extend wakefulness. They can change behavior without changing the fact that sleep pressure is accumulating underneath it.
+
+The visible success of the override can then be used as evidence that the override was cheap.
+
+A resident completes the shift, so the shift must have been tolerable. A truck arrives, so the route must have been reasonable. A student passes the examination, so the schedule must have worked. The institution observes the completed task. It does not automatically observe the extra lapses that did not become accidents, the slower learning, the mood change at home, the near miss during the commute, or the recovery sleep that absorbed the next morning.
+
+That is not an argument for blaming every bad outcome on sleep. It is an argument for noticing the denominator. If fatigue contributes to risk, the relevant question is not only how often a catastrophe follows a tired worker. It is how frequently tired workers are being created by design, what kinds of performance degrade first, what safeguards catch those degradations, and what happens when several small vulnerabilities line up.
+
+The same caution applies in the other direction. People sometimes perform remarkably under short-term sleep loss. Emergencies produce competence. Parents care for children through broken nights. Clinicians finish difficult procedures. Soldiers remain functional. Athletes travel and compete. The existence of those successes is real evidence of resilience. It is not evidence that recovery is unnecessary or that the distribution of failures has vanished.
+
+A useful safety system does not have to choose between fragility and heroism. It can assume that people are often more resilient than a laboratory average and still refuse to build the whole system around the most resilient person it can find.
+
+That is the deeper lesson hidden inside the science-fair story. The impressive fact is not merely that Gardner stayed awake for 264 hours. It is that a biological need could be resisted for that long while becoming steadily more visible in the person resisting it. Human beings can postpone sleep. That postponement is one of our capacities. It is also one of the reasons sleep is so easy to exploit.
+
+To know what is being exploited, though, you have to be able to see sleep itself.
+
+That required a machine, a roll of paper, and a pair of moving eyes.
