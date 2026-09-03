@@ -78,6 +78,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Waiting List](https://svyable.github.io/desk/books/the-waiting-list/README.md)
 - [The World Beneath the World](https://svyable.github.io/desk/books/the-world-beneath-the-world/README.md)
 - [To State the Obvious](https://svyable.github.io/desk/books/to-state-the-obvious/README.md)
+- [To The Stars](https://svyable.github.io/desk/books/to-the-stars/README.md)
 - [Triumph of the Commons](https://svyable.github.io/desk/books/triumph-of-the-commons/README.md)
 - [Ubiquitous](https://svyable.github.io/desk/books/ubiquitous/README.md)
 - [Useful Noise](https://svyable.github.io/desk/books/useful-noise/README.md)
