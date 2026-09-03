@@ -47,3 +47,9 @@ The book argues that modern life is becoming unusually good at recording, rankin
 - [Book brief](research/book-brief.md)
 - [Source notes](research/source-notes.md)
 - [Release review](research/release-review.md)
+
+## Publication note
+
+Desk remains the canonical working edition and intentionally remains `Complete first draft`. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `c5984a125bd65e38a24c24fe3bdf2e17a7466e8b` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
+
+- [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/)
