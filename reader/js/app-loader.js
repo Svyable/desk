@@ -8,6 +8,7 @@ import {
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
 const appUrl = `${upstream}app.js?v=desk-20260901-3`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
+const nativeShareUrl = `${upstream}native-share.js`;
 
 // Local integrity audit markers mirror the compatibility contract enforced in
 // desk-runtime-bridge.js. scripts/check-desk.py checks these without network access.
@@ -129,6 +130,12 @@ try {
     await import(viewportStabilityUrl);
   } catch (error) {
     console.warn('Viewport stability could not be loaded', error);
+  }
+
+  try {
+    await import(nativeShareUrl);
+  } catch (error) {
+    console.warn('Native sharing could not be loaded', error);
   }
 
   const response = await fetchBootstrapResource(appUrl);
