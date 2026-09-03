@@ -138,6 +138,50 @@ At that point, the argument has moved far from “just let people sell kidneys.�
 
 It has become an argument about designing a highly regulated allocation institution.
 
+The intermediary is where much of that design either holds or collapses.
+
+In an ordinary bilateral market, a higher willingness to pay can travel directly from buyer to seller. That is what price is supposed to do. In a market for kidneys, direct bidding also decides which recipient can reach a donor and which donor faces the strongest inducement. If the richest recipient can simply outbid everyone else, compensation has not merely increased supply. It has imported purchasing power into the allocation rule.
+
+A public intermediary could break that link.
+
+Imagine that every medically eligible donor receives the same regulated benefit from a central fund, regardless of which recipient eventually receives the kidney. Recipients remain ordered by medical allocation rules rather than by their ability to negotiate. The donor does not need to bargain with a sick stranger or the stranger’s family. The transplant center does not earn more by finding a poorer donor. The payment question and the recipient-priority question become separate pieces of the mechanism.
+
+That architecture would not settle the ethics of compensation, but it would change them.
+
+The moral objection would shift away from rich recipients literally buying their way to the front and toward the harder question of whether a public institution should offer money for an irreversible bodily contribution at all. Concerns about poverty pressure would remain. So would questions about long-term donor health, adequate payment, and whether compensation crowds out altruistic donation. But some of the most obvious bargaining asymmetries could be reduced by refusing to let the recipient set the price.
+
+The reverse design is revealing too.
+
+Suppose compensation is legal but each recipient must negotiate privately with a donor. Now every feature of inequality enters twice. Wealthier recipients can offer more, and poorer potential donors may accept less. The gap between those numbers creates room for brokers, hospitals, informal matchmakers, or other intermediaries to capture scarcity rents. The institution may increase the number of kidneys while simultaneously concentrating the economic gains among people who never undergo surgery.
+
+This is why “allow compensation” is not a mechanism description.
+
+Who pays matters. Who sets the amount matters. Whether the recipient can bid matters. Whether the donor can bargain matters. Whether benefits are cash, insurance, tax relief, or long-term medical coverage matters. Whether payments are visible to regulators matters. Whether a person can receive a kidney without being able to finance the donor matters.
+
+Two systems can both be called compensated donation and distribute money, organs, and bargaining power very differently.
+
+The same is true of prohibition. A ban that reimburses lost wages and provides lifetime donor follow-up creates a different donor population from a ban that celebrates altruism while leaving donors to absorb travel costs, missed work, and later medical uncertainty. “No sale” can describe institutions with very different burdens.
+
+The useful comparison is therefore not price versus no price in the abstract. It is one complete allocation architecture against another.
+
+Who supplies the kidney?
+
+Who chooses the recipient?
+
+Who sets the transfer?
+
+Who absorbs the long-term risk?
+
+Who can audit the transaction?
+
+And who has recourse when the institution’s promises fail?
+
+Once those questions are visible, the broker in the black market stops looking like an incidental villain. The broker occupies a role every allocation system has to fill somehow: connecting scarce supply to urgent demand. A legal system can assign that role to a registry, a transplant network, a public agency, or a regulated nonprofit. An illegal market assigns it to whoever can operate in the gap.
+
+The issue is not whether there will be an intermediary.
+
+It is what incentives the intermediary will have.
+
 That is exactly why the Iranian case remains so important.
 
 It shows that legal compensation is not the absence of rules. It is a different set of rules.
