@@ -4,185 +4,191 @@ A factory line is an argument about knowledge.
 
 Where should a worker get the next part? How should a defect become visible? Who is allowed to stop production? Which problem is solved at the machine, which by a supervisor, which by an engineer, which by a supplier? Inventory, signals, layout, procedures, and authority answer these questions before anyone gives a speech about culture.
 
-Toyota’s production system became famous for just-in-time methods and jidoka, often rendered as automation with a human touch. The mythology surrounding “lean” management can flatten decades of specific practice into slogans, but the underlying architecture remains instructive. Kanban carried information about what should be produced and when. Andon systems made abnormalities visible. Machines could stop on defects. Workers and supervisors had roles in responding. The production system coordinated material flow and attention flow together.
+Toyota’s production system became famous for just-in-time methods and jidoka, often rendered as automation with a human touch. The mythology around “lean” management can flatten decades of specific practice into slogans, but the underlying architecture remains useful. Kanban carried information about what should be produced and when. Andon systems made abnormalities visible. Machines could stop on defects. Workers and supervisors had roles in responding.
 
-Organizations are cognitive machines in this sense. Their structure determines what is noticed, where information travels, how exceptions escalate, which memories persist, and who can turn knowledge into action.
+The line coordinated material flow and attention flow together.
+
+Organizations are cognitive machines in this sense. Their structure determines what gets noticed, where information travels, which exceptions interrupt ordinary work, who may act, what gets remembered, and how quickly a local fact can become a system-level change.
 
 An organization can employ brilliant people and remain stupid.
 
-This happens when information is trapped by hierarchy, incentives punish bad news, decision rights are unclear, meetings substitute for memory, or local problems never reach the people who can change the system. Intelligence inside individual heads does not automatically aggregate into institutional intelligence.
+It happens when the right person never hears the bad news, when authority sits far from observation, when local throughput matters more than downstream consequence, when meetings substitute for memory, or when everybody optimizes the part they can see.
 
-Artificial intelligence can improve or worsen every one of these mechanisms.
+Individual intelligence does not automatically aggregate.
 
-The optimistic picture is straightforward. AI lowers the cost of search, analysis, translation, drafting, and coordination. A worker can ask questions across the organization. A manager can synthesize frontline reports. A multilingual team can share context more easily. Routine documentation becomes cheaper. Patterns across incidents become visible. Expertise can be routed rather than hoarded.
+The simplest way to see the organization is as a set of queues joined by promises.
 
-The pessimistic picture is equally plausible. AI floods management with summaries, monitors workers more intensely, centralizes decision authority, standardizes local judgment out of existence, and creates an executive layer convinced it can understand the organization through dashboards generated from above.
+A customer request enters support. Some cases end there. Others move to engineering. Engineering may depend on security, legal, finance, or an outside vendor. A product idea becomes design, code, review, deployment, monitoring, documentation, training, and support. Every handoff moves more than work. It moves uncertainty, context, responsibility, and delay.
 
-The difference depends on architecture.
+Each queue has its own clock.
 
-Consider a traditional hierarchy. Information travels upward in compressed form. Decisions travel downward as instruction. This structure solves a real scaling problem: the chief executive cannot read every customer complaint or machine log. Hierarchy is partly an attention-allocation device.
+Each uses its own vocabulary.
 
-AI weakens the old compression constraint. A chief executive can theoretically query raw data from anywhere. A model can summarize a million messages. The temptation is to flatten informational hierarchy while preserving decision hierarchy: the center sees everything and decides more.
+Each has a different tolerance for error and a different person authorized to say yes.
 
-This is cognitive centralization.
+Artificial intelligence can make the first queue faster and the organization slower.
 
-It may improve coordination in stable, measurable domains. It may also weaken local adaptation. People at the edge often know facts the central system cannot represent in time: a customer’s tone, a machine’s vibration, a neighborhood’s trust, a supplier’s unusual behavior. If every decision is pulled upward because the center can now process more information, the organization can become slower and more brittle despite having better models.
+Suppose sales representatives can generate customized contract language in seconds. Legal review capacity has not changed. The contracts pile up downstream. Suppose developers can produce five times as many code changes. Security review, integration testing, and deployment capacity remain fixed. Local productivity rises while organizational cycle time grows.
 
-The alternative is to use AI to push capability outward.
+The bottleneck moves.
 
-A frontline worker can receive better diagnostics, policy guidance, translation, and access to institutional memory. Instead of asking a manager for routine interpretation, the worker can act within defined authority. The center then focuses on exceptions, standards, resource allocation, and system-level learning.
+This is one of the least glamorous consequences of abundant cognition and one of the most important. A team celebrates that a task became ten times faster while the institution discovers that the next task became the queue.
 
-This resembles the principle of subsidiarity: decisions should be made at the lowest level capable of handling them effectively, with higher levels supporting what lower levels cannot do alone.
+The correct response is not to slow useful tools for the sake of symmetry. It is to follow the bottleneck.
 
-AI can make lower levels more capable.
+If legal judgment is scarce, use AI to improve intake, comparison, clause detection, and preparation so lawyers spend more time on consequential deviations instead of merely producing more contracts for them to review. If deployment safety is scarce, invest as aggressively in tests, observability, staged rollout, and rollback as in code generation.
 
-But only if authority follows capability. An employee who can diagnose a problem but is still forbidden to act gains frustration, not empowerment. A nurse given better predictive tools without staffing or protocol changes may simply receive more alerts. A teacher given detailed student analytics without time to intervene receives knowledge without capacity.
+The organization becomes more intelligent when improvement follows the constraint rather than the most visible technology.
 
-Cognition and authority must be allocated together.
+Hierarchy is one way institutions have always dealt with this problem.
 
-Toyota’s andon concept is useful here because stopping a line makes a local abnormality consequential. The signal is not merely recorded for a later analytics meeting. It can interrupt production. The system grants the edge a form of authority precisely because problems are cheaper to solve near their source.
+Information travels upward in compressed form. Decisions travel downward as instruction. The structure is often criticized for distortion and delay, with reason, but it solves a real scaling problem. The chief executive cannot read every customer complaint, inspect every machine, and review every contract.
 
-AI organizations need comparable local stop rights.
+Hierarchy is partly an attention-allocation system.
 
-A customer-service worker should be able to flag when the agent’s policy interpretation produces obviously harmful results. An engineer should be able to suspend an automated deployment system. A clinician should be able to override a model without navigating a bureaucracy designed to protect the model’s metrics. A public employee should be able to record that a case does not fit the automated category.
+AI weakens the old compression constraint. A model can summarize a million messages. A leader can query data across the company. The center can theoretically see much more of the edge.
 
-Overrides should be visible and learnable, not treated automatically as disobedience.
+That creates a temptation: flatten informational hierarchy while preserving decision hierarchy.
 
-Organizations that punish overrides will receive fewer signals and more hidden workarounds. People will learn to comply with the system formally while repairing its mistakes informally. The official data then show the automation succeeded.
+The center sees everything and decides more.
 
-This is how organizations become delusional.
+This can improve coordination in stable domains. It can also create cognitive centralization, where local workers become sensors for a distant decision engine. The organization looks more informed and becomes less adaptive.
 
-Measurement already creates this risk without AI. People adapt to metrics. Departments optimize what is counted. Bad news is reframed before it reaches leadership. AI can strengthen the feedback loop by generating cleaner reports from increasingly distorted inputs.
+People at the edge often know things the center cannot absorb in time: a customer’s tone, a machine’s vibration, a supplier’s behavior, an unwritten workaround, a local regulation, the reason everyone quietly ignores one official procedure.
 
-The central question is whether models are used to inspect reality or to polish representation.
+The answer is not to romanticize local knowledge. Local people can be wrong, biased, complacent, and captured by habit. The point is that information and authority should meet near enough to consequence that useful action remains possible.
 
-A healthy cognitive organization maintains routes for raw evidence. Leaders visit operations. Engineers inspect real incidents. Researchers talk to users. Models summarize, but summaries link to source material. Dissent can travel without being averaged away. Metrics are compared with qualitative accounts that may reveal what the metric missed.
+AI can help by pushing capability outward instead of merely pulling information inward.
 
-This sounds inefficient because it is. Reality has overhead.
+A frontline worker can receive better diagnostics, policy guidance, translation, and access to institutional memory. Routine interpretation can happen near the work. Higher levels can focus on exceptions, standards, resource allocation, conflicts across units, and system-level learning.
 
-The cost is justified by avoiding model collapse at the organizational level: an institution training its view of itself on its own previous summaries until every layer agrees.
+But capability without authority is often just better frustration.
 
-AI also changes the economics of management. Many managerial tasks are informational: collect status, assign work, schedule, summarize, review, remind, evaluate, prepare decisions. Agents can automate parts of this. Some layers of management may shrink.
+A nurse who receives a better prediction without staffing or protocol changes gets another alert. A teacher who receives exquisite student analytics without time to intervene gets better knowledge of a problem she cannot solve. An engineer who can diagnose the failure but still needs four approvals to stop the deployment has cognition without control.
 
-But management is not only information processing. It also creates commitments, resolves conflict, develops people, bears responsibility, interprets ambiguous goals, and represents the organization socially. Automating the administrative shell can reveal the human core rather than eliminate it.
+This is where Toyota’s andon idea earns its place.
 
-Whether that happens depends on incentives. A company can use AI to give managers more time for coaching and judgment. It can also increase each manager’s span of control until the saved time disappears.
+An abnormality is not merely recorded for a later dashboard. It can become consequential now. The line can stop. Attention can move toward the problem while the evidence is fresh and before defects multiply downstream.
 
-This repeats the productivity dividend problem. Efficiency does not determine its own allocation.
+The important design choice is not the cord itself.
 
-The same applies to employees. AI can remove repetitive documentation and create room for deeper work. Or management can use the resulting telemetry to intensify output expectations. A system that knows how long tasks “should” take can become a pace setter. The employee receives more intelligence and less discretion.
+It is that the system makes local bad news legible and gives it a route into action.
 
-An intelligent organization should distinguish augmentation from extraction.
+AI organizations need the equivalent.
 
-Augmentation increases a person’s capacity to pursue an agreed purpose. Extraction uses intelligence mainly to capture more output from the same person. The two can coexist, and they feel different from inside the system even when productivity metrics rise in both.
+A worker should be able to flag that an automated interpretation does not fit the case. An engineer should be able to suspend an automated deployment. A clinician should be able to override a recommendation and record why. A public employee should be able to say that the category does not describe the person in front of them.
 
-Long-run performance may differ too. People whose work retains agency learn, adapt, and report problems. People treated as peripherals to a central algorithm may stop exercising judgment. The system becomes more dependent on the algorithm precisely as human reserve decays.
+The override should leave evidence.
 
-Organizations should therefore allocate meaningful decisions deliberately.
+Organizations that punish overrides will receive fewer of them and more hidden workarounds. People learn to comply with the system formally while repairing it informally. The official data then show the automation succeeding.
 
-Not every decision must remain human. That would preserve drudgery. But every role needs some territory in which judgment matters, feedback from consequences returns, and skill can grow. Otherwise the human workforce becomes an exception-handling layer with no coherent understanding of the process.
+This is how institutions become delusional.
 
-This is dangerous because exception handling is exactly where deep understanding is needed.
+AI can make the delusion beautifully formatted.
 
-Aviation automation provides a parallel. If automation handles ordinary flight, pilots still need skills for abnormal conditions. Training must therefore create experiences the operational system removes. Organizations adopting AI need internal simulators of a sort: rotations, exercises, deliberate manual practice, postmortems, and learning tasks that maintain human understanding of systems agents usually manage.
+Models summarize reports. Dashboards aggregate metrics. Executives receive cleaner narratives from increasingly mediated evidence. If incentives already encourage people to soften bad news, AI can become a polishing layer between reality and authority.
 
-The organization is a cognitive ecology, not a labor spreadsheet.
-
-Another architectural question is model ownership. If each department deploys its own agents, local fit may improve while standards fragment. If the center mandates one system, interoperability improves while local needs are flattened. There is no universal answer.
-
-A federated model is often sensible: common infrastructure, identity, security, logging, and evaluation; local tools, prompts, data, and workflows within boundaries. The organization creates shared cognitive plumbing without dictating every thought.
-
-This resembles the internet more than a mainframe.
-
-Shared protocols let different systems communicate. Local actors retain autonomy. Central rules govern scarce shared resources and security. Such architectures can be messier than central control but more adaptable.
-
-The same principle applies to memory. A single enterprise knowledge base promises consistency. Local teams need working memory that can change quickly. The two should connect without making every draft globally authoritative. Provenance and scope matter: this is the official policy; this is the team’s current experiment; this is one engineer’s note.
-
-AI retrieval makes boundaries more important because search can collapse them. A model that retrieves an obsolete draft beside current policy without distinction can create confusion faster than a human browsing folders ever could.
-
-Cognitive organizations need types for knowledge.
-
-Decision, policy, observation, hypothesis, incident, draft, precedent, preference, confidential record: these are not interchangeable strings. The institution should preserve their status so AI can reason about how much authority each source carries.
-
-This is administrative metadata, the sort of work technology narratives omit. It may matter more than another increment of model capability.
-
-The final organizational issue is purpose. Intelligence allocation requires an objective, and organizations usually have several. A company wants profit, continuity, legal compliance, customer trust, employee retention, innovation, and perhaps a public mission. These objectives conflict.
-
-AI makes optimization more powerful without resolving the conflict.
-
-If a customer-service agent optimizes average handling time, it may hurry difficult customers. If a hiring system optimizes short-term performance, it may reduce developmental diversity. If a logistics system optimizes inventory, it may reduce resilience. If management optimizes measured productivity, it may consume the slack through which future capability grows.
-
-Organizations are not intelligent because they optimize well. They are intelligent when they know what not to optimize away.
-
-Toyota’s production system, properly understood, was not a universal instruction to minimize inventory or stop lines. It was a coherent arrangement of material flow, quality, visibility, local problem solving, and learning within a specific production context. Copying one mechanism without the system often disappointed imitators.
-
-AI will produce the same cargo cult. Companies will copy agents, dashboards, “AI-first” policies, and automation ratios without the surrounding allocation architecture.
-
-The durable question is quieter: where should knowledge live, how should it move, who may act on it, what should interrupt the system, and how does the organization learn when its own model of itself is wrong?
-
-Answer those well and the organization becomes more intelligent even before the next model release.
-
-There is another way to see the organization: as a set of queues joined by promises.
-
-A customer request enters support. Some cases are resolved there; others enter engineering. Engineering may depend on security, legal, finance, or an outside vendor. A product decision becomes a design task, then code, review, deployment, monitoring, documentation, training, and support. Each handoff moves not only work but uncertainty. Each queue has a different clock, vocabulary, authority, and tolerance for error.
-
-AI can make the first queue faster and the whole system slower.
-
-Suppose sales representatives can generate customized contract language in seconds. Legal review capacity has not changed. The result is a larger legal queue. Suppose developers can produce five times as many code changes. Security review, integration testing, and deployment capacity remain fixed. The bottleneck moves. Local productivity rises while organizational cycle time can worsen.
-
-This is a central paradox of abundant intelligence: faster cognition can create more waiting.
-
-The response is not to throttle useful tools arbitrarily. It is to model the organization as a network rather than a collection of jobs. Before automating one stage, ask what downstream stage receives the increased flow. If the constraint is scarce legal judgment, automate intake and comparison so lawyers spend more time on consequential deviations instead of generating even more contracts for them to review. If the constraint is deployment safety, use AI to improve testing, observability, and rollback as aggressively as code generation.
-
-The organization becomes more intelligent when improvement follows the bottleneck.
-
-This is one reason executive dashboards can mislead. They tend to present departmental outputs: tickets closed, proposals generated, code shipped, cases reviewed. What matters to the whole system is often flow across boundaries. How long from customer problem to durable fix? How long from detected risk to contained risk? How often does work return upstream because information was missing? Where do handoffs lose context? Where do queues hide because a team uses spreadsheets outside the formal system?
-
-AI can reconstruct these flows if the organization is willing to see them.
-
-That willingness is political. A queue usually belongs to someone, and making it visible can look like assigning blame. Departments protect their metrics. Managers resist measures they cannot control. Staff build buffers because previous optimization campaigns removed too much slack. The data needed for a more intelligent organization may exist, but the institution may prefer a simpler story.
-
-The cognitive machine has defense mechanisms.
-
-This is why structure, incentives, and information processing cannot be separated. If workers are punished for escalating uncertainty, no interface will produce honest uncertainty. If managers are rewarded for local throughput, they will push work downstream. If executives reward clean forecasts, forecast ranges will narrow as they rise through the hierarchy. AI can automate any of these distortions.
+The central question is whether the system helps the institution inspect reality or improve the appearance of the representation.
 
 A useful test is to follow one piece of bad news.
 
-Where is the earliest moment someone could know it? What happens if they report it? How many layers does it cross before someone can act? At each layer, is it compressed, softened, quantified, delayed, or reframed? Does the system reward the messenger for preventing loss or punish the messenger for creating a problem on a dashboard?
+Where is the earliest moment somebody can know it? What happens if they report it? How many boundaries must it cross before someone can act? At each boundary, is it delayed, softened, quantified, reframed, or stripped of context? Does the messenger gain credit for preventing loss or acquire a reputation for causing trouble?
 
-Organizations with good bad-news routing often look less healthy in the short run because they surface defects that other organizations hide.
+Organizations with good bad-news routing can look worse in the short run because they expose defects other organizations hide.
 
-Toyota’s stop-the-line tradition is powerful partly because visible interruption is treated as part of production rather than its opposite. NASA mission operations offer another version. The mission team was distributed among specialized controller groups and support rooms because no single person could hold every system detail. The flight director’s authority depended on an architecture that let specialists surface anomalies quickly enough to matter.
+The visible defect is often evidence of a healthier cognitive machine.
 
-Neither example implies that every worker should stop every process at will or that every organization should imitate a spacecraft control room. The deeper point is that authority to interrupt belongs near the information source, while responsibility for system consequences remains coordinated.
+This is why stop authority and learning belong together. A line stop that only fixes the immediate defect wastes part of the signal. The useful institution asks why the abnormality appeared, whether the same class of problem exists elsewhere, and whether a procedure, tool, training practice, or design should change.
 
-AI can strengthen this architecture by making specialist knowledge more available without erasing specialization. A generalist agent can route an anomaly to propulsion expertise, tax expertise, privacy expertise, or local operations. It can attach the relevant history and evidence. What it should not do is convert the existence of a general interface into the fiction that every problem is now general.
+The local exception becomes organizational memory.
+
+That loop is what turns interruption into improvement.
+
+AI can strengthen it. Models can cluster overrides, connect incidents that look superficially different, retrieve prior failures, and show where one policy produces repeated friction. But the same systems can erase the signal if they normalize exceptions too quickly.
+
+A model that automatically rewrites every local complaint into the language management expects can destroy the very information it was asked to summarize.
+
+Compression should preserve dissent long enough to learn from it.
+
+The organization also has to see flow across boundaries rather than only output inside departments.
+
+Executive dashboards tend to report tickets closed, proposals generated, code shipped, cases reviewed. Those numbers are easy to assign to teams. The whole system often cares about something else: how long from customer problem to durable fix? How long from detected risk to contained risk? How often does work return upstream because information was missing? Where do cases wait without an owner? Which handoff destroys context?
+
+Local productivity is not organizational throughput.
+
+AI makes this distinction more important because it can inflate output at one stage dramatically. A support system can close more tickets while generating more repeat contacts. A coding agent can increase merged changes while raising operational burden. A planning system can produce more proposals than capital, management attention, or execution capacity can absorb.
+
+The measurement should follow consequence through the chain.
+
+That can make departments uncomfortable. A hidden queue usually belongs to someone. Making it visible can look like blame. Managers prefer measures they control. Teams preserve buffers because earlier optimization removed too much slack. The institution may possess the data needed to understand the real flow and still prefer a simpler story.
+
+The cognitive machine has defense mechanisms.
+
+Incentives matter because information architecture cannot rescue a system that punishes truth.
+
+If workers are penalized for uncertainty, they will report certainty. If managers are rewarded for local throughput, they will push work downstream. If executives reward clean forecasts, ranges will narrow on the way up. If an AI system learns from these records, it can automate the distortion.
+
+Artificial intelligence does not merely enter an organization.
+
+It learns the organization's manners.
+
+This is why augmentation and extraction can look identical in a productivity chart.
+
+AI can remove repetitive documentation and give a worker more room for judgment. It can also make the worker easier to monitor and raise the expected pace until every saved minute is reclaimed. A manager can gain time for coaching and conflict resolution, or simply receive a larger span of control.
+
+Efficiency does not decide where its dividend goes.
+
+The allocation is managerial and political.
+
+That choice matters for future capability because work is also practice.
+
+If agents handle ordinary cases, the remaining human queue becomes stranger. Specialists receive fewer routine questions and more ambiguous exceptions. Managers lose routine coordination tasks and inherit conflict, development, and edge cases. The human residue becomes harder to measure precisely because automation removed what was easiest to count.
+
+An institution can then make a category error: it compares people handling the residue with the old average and concludes that human performance declined.
+
+The queue changed.
+
+The same selection effect can weaken training. Novices once learned through ordinary work before handling exceptional work. If automation removes every lower rung, organizations still need deliberate routes by which people gain the pattern recognition required for the cases machines cannot resolve.
+
+The human reserve does not maintain itself.
+
+Rotations, simulations, supervised practice, postmortems, and shadow decisions may become more important as ordinary production stops supplying enough practice naturally.
+
+This is not nostalgia for manual work. It is maintenance of the future exception-handling capacity on which the automated system depends.
+
+The center faces a similar design choice over standardization.
+
+One enterprise model, one knowledge base, and one workflow can reduce integration cost. Local systems can fit local work better. Too much centralization erases context. Too much local variation creates fragmentation, inconsistent controls, and duplicated effort.
+
+The useful compromise is not a universal architecture but a separation between what must be shared and what can remain local.
+
+Identity, security boundaries, logging, core records, and some evaluation practices may need common structure. Local teams may need their own tools, prompts, data, experiments, and working memory. A draft should not acquire the authority of official policy merely because both are searchable through the same interface.
+
+Provenance and scope are part of organizational cognition.
+
+A model should know the difference between a signed decision and a brainstorming note, between current policy and an obsolete draft, between a measurement and an interpretation. Otherwise search collapses the institution’s own distinctions.
+
+This is mundane metadata with constitutional consequences.
+
+It tells the cognitive machine which knowledge is allowed to bind action.
+
+NASA mission operations offer a useful parallel to Toyota’s line. The mission team was distributed among specialized controller groups and support rooms because no single person could hold every system detail. The flight director’s authority depended on an architecture that allowed specialists to surface anomalies quickly enough to matter.
+
+The existence of a shared mission did not abolish specialization.
+
+General AI should not make organizations forget this.
+
+A generalist agent can route an anomaly toward tax expertise, privacy expertise, propulsion expertise, or local operations. It can attach relevant history and evidence. What it should not do is turn a universal conversational interface into the fiction that every problem has become general.
 
 Expertise still has boundaries.
 
-In fact, better general systems may make boundaries more valuable because they raise the average complexity of what reaches specialists. The routine questions disappear. The expert queue becomes stranger. Organizations must plan for this selection effect or they will misread specialist performance as decline.
+In fact, better general systems may make specialist boundaries more valuable because routine work disappears and the expert queue becomes harder.
 
-The same selection effect changes management. If agents handle routine assignment, scheduling, reporting, and follow-up, managers inherit more conflict, ambiguity, exception, and development work. Those tasks are harder to count. A firm can automate the measurable half of management and then conclude the remaining half is inefficient because it no longer resembles the old workload.
+The mature cognitive organization will know this about itself.
 
-The organization needs new measures for the residue.
+It will know where work waits, which bad news fails to travel, where authority sits too far from observation, which specialists receive only difficult residue, which automation gains have been consumed as higher quotas, and which local exceptions are trying to teach a system-level lesson.
 
-How many conflicts were resolved before they became exits? How many weak signals became process improvements? How quickly did a novice become independently competent? How many local overrides revealed a systematic flaw? How often did a manager preserve slack that later absorbed a shock?
-
-These are difficult metrics, which is precisely why organizations default to easier ones.
-
-AI creates a choice. It can deepen that default by measuring everything convenient, or it can lower the cost of observing the harder phenomena. Models can summarize qualitative incident reports, cluster recurring exceptions, trace decision histories, and compare what different parts of the organization believe about the same process.
-
-The last use may be among the most valuable.
-
-Ask finance, operations, sales, engineering, and customers to describe why a service is slow. The answers will differ. A model can surface the disagreements without forcing an immediate synthesis. The disagreement itself becomes information about the organization’s fragmented mental model.
-
-A cognitive machine should know where its own map is inconsistent.
-
-That is more demanding than a single source of truth. Some truths are local. Some measures are delayed. Some incentives produce systematically different observations. The institution’s task is to coordinate these partial views well enough to act without pretending they are identical.
-
-This is where AI can help an organization become less certain and more intelligent at the same time.
-
-The mature cognitive organization will not be the one with the most agents. It will be the one that routes evidence and authority deliberately, keeps bottlenecks visible, lets bad news travel, preserves expertise, measures downstream consequences, and uses automation to widen local capability without making the center omnipotent.
+It will use AI to widen capability without making the center omnipotent.
 
 Its advantage will not look like a single brilliant brain.
 
