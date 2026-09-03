@@ -5,7 +5,7 @@ importScripts(
   'https://svyable.github.io/shelf/reader/js/offline-shell-install.js'
 );
 
-const CACHE = 'svyable-desk-reader-v4';
+const CACHE = 'svyable-desk-reader-v5';
 const CACHE_PREFIX = 'svyable-desk-reader-';
 const SHARED_READER = 'https://svyable.github.io/shelf/reader/';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
@@ -55,6 +55,10 @@ const SHARED_PATHS = [
   'js/reading-surface.js',
   'js/viewport-stability.js',
   'js/viewport-stability-runtime.js',
+  'js/scroll-reflow-anchor-model.js',
+  'js/scroll-reflow-anchor.js',
+  'js/immersive-focus-model.js',
+  'js/immersive-focus.js',
   'js/immersive-chrome.js',
   'js/font-readiness.js',
   'js/font-readiness-runtime.js',
