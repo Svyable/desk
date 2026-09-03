@@ -95,3 +95,55 @@ Imagination has always involved an internal conversation between possibility and
 The partner is fluent, fast, culturally saturated, occasionally brilliant, frequently literal, and never innocent of precedent.
 
 Learning to imagine with it means learning what kind of conversation that is.
+
+## Prompts become creative records
+
+If the finished artifact no longer reveals the process clearly, the conversation that produced it becomes more interesting.
+
+A generated image can look complete while hiding whether the user accepted the first result or spent an hour making precise corrections. Two artifacts of similar quality may represent radically different levels of judgment. One may be a lucky sample. The other may be the end of a long chain in which the user diagnosed problems, changed assumptions, supplied references, rejected clichés, and discovered what the project meant.
+
+The prompt history begins to resemble a sketchbook.
+
+Not because every prompt is profound. Most sketchbook marks are not profound either. Their value is cumulative. They show where the work turned.
+
+A useful creative archive may therefore preserve key conversational decisions rather than every token. What did the first request assume? Which generated interpretation changed the direction? What did the user repeatedly reject? Which constraint entered late and reorganized everything?
+
+This matters for learning. A student can explain not only what they generated but how their criteria changed. A team can look back and see when a visual cliché entered the project. A creator can recognize that the strongest idea arrived from a misunderstanding they nearly corrected away.
+
+Process records also make authorship more legible without pretending authorship can be measured by prompt length. A thousand-word prompt is not automatically more creative than a five-word one. The point is not volume. It is decision history.
+
+Generative tools make output abundant enough that the trail of judgment may sometimes tell us more about the work than the first glance at the artifact.
+
+## Better prompting often means better questions
+
+The beginner's instinct is to make the request more descriptive.
+
+More adjectives. More details. More specifications.
+
+Sometimes that works. But many difficult creative prompts are difficult because the user has not resolved the problem, not because the model lacks instructions.
+
+“Make this more premium” may be the wrong request if the team has not decided whether premium means rarity, service, durability, quiet, precision, heritage, or price.
+
+“Make the character more relatable” may conceal uncertainty about whose experience the story centers.
+
+“Make the future more optimistic” may hide disagreement about what improvement means.
+
+At those moments, the strongest prompt is a question aimed back at the user.
+
+What are we trying to protect?
+
+What must remain true across every version?
+
+Which audience are we willing to disappoint?
+
+What evidence would make us abandon this direction?
+
+Which quality are we asking the image to carry that actually belongs to operations, policy, material, or behavior?
+
+A mature conversational creative tool should be capable of refusing premature execution long enough to help clarify the brief.
+
+That is a very different model of prompting from command.
+
+The user is not learning to say the magic words that make the machine obey.
+
+The user is learning to use language to discover what they mean.
