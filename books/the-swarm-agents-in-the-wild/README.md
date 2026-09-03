@@ -23,6 +23,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 - [x] [Interlude — The Population Explosion](manuscript/interlude-the-population-explosion.md)
 - [x] [Ch 4 — The Price of Thought](manuscript/ch04-the-price-of-thought.md)
 - [x] [Interlude — The Protocol Layer Appears](manuscript/interlude-the-protocol-layer-appears.md)
+- [x] [Interlude — The First Habitats](manuscript/interlude-the-first-habitats.md)
 
 **Part II — Ecology**
 
@@ -72,7 +73,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Research
 
-- [Verification agenda](research/README.md)
+- [Evidence and verification agenda](research/README.md)
 
 ## Rights
 
@@ -80,4 +81,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the mid-30,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. The opening logistics scene and the later disaster scenario should be treated as illustrative constructions unless a later research pass replaces or anchors them with documented cases. The protocol interlude and other concrete contemporary claims require primary-source verification before release.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the upper-30,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. The first reported evidence pass now anchors the early-habitat argument in production engineering, independent agent evaluations, software benchmarks, and regulatory company disclosures, but substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
