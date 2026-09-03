@@ -62,6 +62,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 - [x] [Interlude — The Market Rehearsal](manuscript/interlude-the-market-rehearsal.md)
 - [x] [Ch 25 — Dark Forests](manuscript/ch25-dark-forests.md)
 - [x] [Ch 26 — The Labor Question](manuscript/ch26-the-labor-question.md)
+- [x] [Interlude — The Apprenticeship Test](manuscript/interlude-the-apprenticeship-test.md)
 - [x] [Ch 27 — The Kill Switch Myth](manuscript/ch27-the-kill-switch-myth.md)
 - [x] [Ch 28 — The First Agent Disaster](manuscript/ch28-the-first-agent-disaster.md)
 
@@ -82,4 +83,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. The manuscript is now around 40,000 words, still below Desk’s 65,000-word bar for a complete automated full-book drop. Two reported evidence passes now anchor the early-habitat argument and the failure-ecology argument in production engineering, independent agent evaluations, software benchmarks, regulatory company disclosures, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the low-to-mid 40,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Three reported evidence passes now anchor the early-habitat, failure-ecology, and labor/apprenticeship arguments in production engineering, independent agent evaluations, peer-reviewed field studies, regulatory company disclosures, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
