@@ -267,3 +267,81 @@ Insurance cannot stop the map from changing.
 It can make the change visible earlier than many other institutions.
 
 That is both its value and the source of its political trouble.
+
+The next problem is deciding who gets to draw the map.
+
+For most homeowners, catastrophe modeling is experienced as authority without visibility. The policyholder receives a premium, a deductible, perhaps a nonrenewal notice, and sometimes a terse explanation about risk concentration. Behind that result may sit vendor models, insurer adjustments, aerial imagery, public hazard data, engineering assumptions, and portfolio constraints the customer cannot inspect.
+
+Opacity is tolerable when the outcome feels stable.
+
+It becomes combustible when the outcome threatens a home.
+
+This is why model governance is moving from a technical insurance question toward a public-infrastructure question. California's work on a public wildfire catastrophe model is significant for this reason even before any model becomes a pricing standard. A public model can create a common reference point for mitigation, planning, and debate. It does not eliminate legitimate private disagreement. It gives the disagreement something visible to disagree about.
+
+That matters because a risk model is not useful only when it is accurate in the abstract.
+
+It must also be actionable.
+
+If a model says a community is dangerous but cannot show whether stronger roofs, cleared vegetation, water-system improvements, undergrounded utilities, or better access would materially change the result, it behaves more like a sentence than a diagnostic tool. The household learns that it is risky without learning what risk reduction will be recognized.
+
+An adaptation-oriented insurance system needs the second answer.
+
+What can be changed?
+
+The distinction between hazard and vulnerability helps. A homeowner cannot move the regional wind climate. A city cannot move a mountain. But buildings can resist ember intrusion better. Roofs can be strengthened. Drainage can be improved. Critical equipment can be elevated. Vegetation can be managed. Construction can be moved away from the most exposed parcel on a site. Emergency systems can be hardened.
+
+A good map should not merely identify danger.
+
+It should help rank interventions.
+
+That creates another problem: the scale of the intervention may not match the scale of the insurance contract.
+
+A homeowner can replace vents and clear brush. The homeowner cannot build a regional flood-control system or redesign an electrical grid. A city can upgrade drainage but cannot change ocean temperature. A utility can reduce ignition risk but cannot decide where every future subdivision is approved.
+
+Climate risk is nested.
+
+So mitigation must be nested too.
+
+Insurance pricing at the parcel level can accidentally obscure this. A precise premium creates the impression that one owner controls one risk. In reality, a house can be well hardened and still sit inside a community whose roads, water, power, evacuation capacity, or neighboring structures create shared exposure.
+
+The pool has to see the neighborhood as well as the roof.
+
+This is where insurance and land-use policy meet most directly. If a community allows new development whose premiums are subsidized or whose catastrophe tail is shifted to a public plan, the private decision changes the public risk pool. If the same community requires safer construction, limits development in the most dangerous zones, and invests in shared mitigation, it can improve the economics of insurability for existing residents too.
+
+The map is therefore not only descriptive.
+
+It is an incentive system.
+
+Draw it badly and it can induce the wrong behavior. Draw it too coarsely and safer properties subsidize more dangerous ones without anyone seeing why. Draw it with false precision and households may believe a model can distinguish risks more confidently than the science supports. Change it abruptly and families can experience a legitimate model improvement as confiscation through a collapsing asset value.
+
+There is no perfect cartography for a moving world.
+
+There can be better institutional handling of uncertainty.
+
+That means ranges instead of theatrical certainty where appropriate. It means explaining which inputs drive a classification. It means rewarding verified mitigation. It means updating models on a schedule people can understand. It means separating affordability assistance from the claim that a hazard does not exist. And it means giving public officials enough visibility to see when private portfolio management is pushing concentrated risk into a residual plan.
+
+The last point is easy to miss.
+
+An insurer can be individually rational and the system can still become collectively fragile.
+
+Each carrier may decide to reduce exposure in the same high-risk area. Each decision protects that company's capital. Taken together, the decisions can push thousands of properties into a state-backed pool, narrow mortgage options, and concentrate catastrophe exposure on a balance sheet ultimately connected to a much broader public.
+
+No single insurer caused the concentration.
+
+The map coordinated them.
+
+This is a preview of the cyber and AI problem later in the book. Shared data and shared models can make actors smarter individually while making their behavior more correlated collectively.
+
+The more sophisticated the map becomes, the more important it is to ask not only whether it predicts loss but what institutions do when they all believe it.
+
+Climate adaptation is often described as a physical project: seawalls, roofs, drainage, vegetation, grids.
+
+It is also an information project.
+
+People must know which risks are rising, which protections work, who benefits from them, and whether the savings will survive into insurance prices, lending decisions, and property values.
+
+Otherwise the household is asked to invest against a moving target.
+
+The map will keep moving.
+
+The question is whether the institutions built on top of it can learn to move deliberately rather than merely react at renewal.
