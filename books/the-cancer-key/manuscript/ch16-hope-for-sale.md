@@ -361,3 +361,67 @@ It is a demand that experience become cumulative for the buyer as well as the se
 A market with that property would still sell hope.
 
 It would have to sell memory with it.
+
+Refundability exposes another hidden part of the bargain.
+
+A personalized treatment accumulates cost in stages. Consultation happens. Tissue is retrieved. Sequencing runs. Targets are ranked. Manufacturing begins. Quality testing occurs. The patient may deteriorate anywhere along that path. A single nonrefundable package price can make every early decision feel irrevocable because money already spent becomes another reason to continue.
+
+A fair contract should say which costs become unrecoverable at which stage and why.
+
+That is not merely consumer protection.
+
+It reduces a medical sunk-cost effect.
+
+A patient who learns midway that standard therapy has become more attractive should be able to reconsider without discovering that the financial structure was designed to make reconsideration ruinous. A patient whose batch fails should know whether the clinic absorbs part of the failure or simply invoices another attempt. A provider that charges for every failed manufacturing cycle has a different incentive from one that bears some process risk.
+
+The refund policy is therefore evidence about the business model.
+
+So is financing.
+
+Loans, installment plans and third-party medical credit can widen access to experimental treatment. They can also detach willingness to pay from ability to absorb loss. A family may convert biological uncertainty into years of debt. If the therapy fails, the medical episode ends before the financial one does.
+
+Experimental providers should disclose financing relationships as carefully as manufacturing relationships.
+
+Who earns interest?
+
+Does the clinic receive payment immediately while the patient owes a lender for years?
+
+What happens to the debt if manufacture never reaches dosing?
+
+These are not questions ordinarily asked in a consent conference.
+
+Direct-pay oncology makes them part of consent.
+
+There is also a market for urgency itself.
+
+A clinic can advertise a faster slot, a rapid manufacturing pathway or an immediate consultation. Speed may be clinically valuable. It can also become a premium feature sold to people whose fear makes waiting intolerable.
+
+The ethical test is whether the premium buys an actual reduction in medically relevant delay or merely priority in a queue the provider created.
+
+A serious program should be able to report turnaround distributions, not only its fastest case.
+
+Median time.
+
+Delayed tail.
+
+Failed starts.
+
+Time from payment to tissue receipt.
+
+Time from tissue receipt to release.
+
+Time from release to treatment.
+
+The same operational transparency demanded of a future commercial platform belongs at the frontier when patients are paying for access today.
+
+Hope is not disqualified by a price.
+
+A price creates additional duties because it converts uncertainty into a transaction.
+
+The seller should know what it is selling.
+
+The buyer should know which parts are medicine, which parts are experiment, which parts are logistics and which parts are financial risk.
+
+A direct-pay market can coexist with responsible experimental care.
+
+It becomes defensible when the invoice is at least as precise about uncertainty as the sequencing report is about mutations.
