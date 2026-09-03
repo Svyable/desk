@@ -343,3 +343,65 @@ This is the deepest consequence of the protection gap.
 The uninsured loss is not only what was destroyed.
 
 It is the future that becomes harder to finance afterward.
+
+That future is distributed unevenly even inside the same disaster zone.
+
+A household with savings can hire a contractor before assistance arrives. A household living paycheck to paycheck may need to choose between temporary housing and the deductible. A large company can draw on a credit facility. A small business whose collateral was damaged may discover that the disaster reduced its ability to borrow at the exact moment borrowing became necessary.
+
+The physical event is shared.
+
+The recovery clock is not.
+
+This is why measuring protection only as a percentage of property value can miss the human point. Two households can have the same uninsured dollar loss and radically different recovery capacity. A protection system should care about the probability that a shock becomes irreversible: foreclosure, business closure, forced migration, asset sale, interrupted education, or a debt burden that outlives the rebuilt asset.
+
+The economically important coverage limit is therefore not always replacement value.
+
+Sometimes it is enough liquidity to keep a viable life or business from crossing a threshold.
+
+This suggests a useful distinction between reconstruction insurance and continuity insurance.
+
+Reconstruction insurance pays to replace what was damaged.
+
+Continuity finance preserves the ability to function while replacement is happening.
+
+Business interruption coverage does this for firms. Additional living expense coverage can do it for households. Sovereign contingent finance does it for governments. Emergency savings and credit do it informally.
+
+Protection gaps often become destructive through continuity failure before the final reconstruction bill is known.
+
+The shop owner cannot wait six months for a perfect adjustment if payroll is due Friday.
+
+The family cannot wait for a buyout decision if rent on temporary housing begins now.
+
+The government cannot wait for donor conferences if roads to hospitals are blocked.
+
+Speed has an economic return because it prevents secondary losses.
+
+That is the best case for parametric and contingent instruments: not that indexes are inherently superior to indemnity, but that some layer of rapid money can preserve options while slower, more precise financing catches up.
+
+The architecture can combine both.
+
+A fast parametric payment covers immediate liquidity. Indemnity coverage later addresses actual property loss. Public aid targets households for whom even the insured retention is impossible. Credit finances timing gaps where repayment remains realistic. Mitigation reduces the size of the next event.
+
+No single product has to pretend it is the entire recovery system.
+
+This layered view also changes how success should be measured.
+
+An insurer can pay every covered claim and a community can still fail to recover because coverage penetration was low, deductibles were too large, payments were slow, contractors were unavailable, or public infrastructure remained damaged. Conversely, a community can recover well with modest commercial insurance if public finance, household savings, social networks, and rapid government response are strong.
+
+Insurance is one source of resilience, not a synonym for resilience.
+
+Its special contribution is precommitment.
+
+Before the event, participants agree who will supply money after it.
+
+That agreement reduces the amount of improvisation required while everyone is shocked.
+
+The protection gap is therefore best understood as a precommitment gap.
+
+Who has already promised to carry the loss?
+
+Who has merely hoped someone will?
+
+The difference is invisible in good weather.
+
+After catastrophe it becomes the difference between recovery as execution and recovery as negotiation.
