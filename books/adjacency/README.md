@@ -2,9 +2,10 @@
 
 | | |
 |---|---|
-| **Authors**   | @svyable |
+| **Author**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
 | **Chapters**  | 25 of 25 drafted |
+| **Edition**   | First-release candidate · September 2026 |
 
 How the Vector Space Is Revolutionizing Discovery.
 
@@ -42,7 +43,8 @@ How the Vector Space Is Revolutionizing Discovery.
 
 - [Research brief and chapter evidence map](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review — 2026-09-02](research/release-review-2026-09-02.md)
 
-The Desk edition remains a working complete draft until deliberately released to Shelf.
+The Desk edition remains a working complete draft until deliberately released to Shelf. The September 2026 release review clears this manuscript as a first-release candidate while preserving its evidence boundaries and counterclaims.
 
 - [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/adjacency/)
