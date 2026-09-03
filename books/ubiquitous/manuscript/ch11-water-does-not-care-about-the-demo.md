@@ -283,3 +283,23 @@ The strongest answer is not “the same repair, faster.”
 It is a larger responsibility for the system's condition over time.
 
 That responsibility has a different business model. Instead of being paid only when something breaks, the worker can be paid to reduce surprises. The measurable outcome becomes fewer emergencies, less water loss, lower energy waste, longer equipment life, and better capital timing. Some customers will never pay for that sophistication. Others, especially facilities where downtime is costly, already do. AI lowers the administrative cost of offering it to more of them.
+
+Water also warns against optimizing one system as though its neighbors do not exist.
+
+A building can reduce energy use and create a water-management problem. A water-saving fixture can affect drain behavior under conditions the old system did not anticipate. A hot-water strategy can improve efficiency while changing response time or public-health considerations. A utility can reduce pumping cost and alter pressure patterns. A stormwater intervention can shift burden elsewhere if the larger watershed is ignored.
+
+The renaissance skill is not knowing every discipline equally.
+
+It is knowing the neighboring disciplines exist before optimizing the one in front of you.
+
+That is why plumbing, building science, controls, energy, and public health increasingly overlap. The better the components become, the more important failures migrate to their interaction.
+
+Prediction helps us choose where to look.
+
+Maintenance, inspection, and field work tell us what is actually there.
+
+A water system will never read the dashboard. It will continue responding to pressure, gravity, temperature, chemistry, material, time, and the human decisions embodied in its construction.
+
+The workers who can use abundant intelligence without forgetting those governing realities will not be protected from change.
+
+They will be positioned inside it.
