@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 11 of 21 drafted |
+| **Chapters** | 12 of 21 drafted |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 - [x] [Ch 9 — The App Store](manuscript/ch09-the-app-store.md)
 - [x] [Ch 10 — The Payment Rail](manuscript/ch10-the-payment-rail.md)
 - [x] [Ch 11 — The Approved Vendor](manuscript/ch11-the-approved-vendor.md)
-- [ ] [Ch 12 — The Feed](manuscript/ch12-the-feed.md)
+- [x] [Ch 12 — The Feed](manuscript/ch12-the-feed.md)
 - [ ] [Ch 13 — The API Key](manuscript/ch13-the-api-key.md)
 - [ ] [Ch 14 — The Algorithm at the Door](manuscript/ch14-the-algorithm-at-the-door.md)
 - [ ] [Ch 15 — The Gatekeeper's Conflict](manuscript/ch15-the-gatekeepers-conflict.md)
