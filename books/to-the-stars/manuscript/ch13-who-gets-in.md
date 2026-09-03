@@ -200,9 +200,33 @@ That limitation should make the Academy humble about precision.
 
 Interviews, essays, leadership records and recommendations can add context, but each creates opportunities for performance and bias. Standardized testing can reveal preparation, but not destiny. Physical tests reveal particular abilities, but not moral courage. Security screening can identify risks, but not whether a person will use authority wisely twenty years later.
 
+The admissions environment itself is also changing.
+
+Generative tools can make application prose more polished without making the applicant more prepared. Commercial coaching can make interviews more rehearsed. Expensive extracurricular programs can manufacture signals of technical enthusiasm. Recommendation letters often reveal the resources and expectations of the school that produced them as much as the student.
+
+A new academy has the advantage of designing its process after these problems are already visible.
+
+It should use direct demonstrations where they are useful: mathematical readiness, writing under controlled conditions, collaborative problem solving, technical reasoning and structured interviews that ask candidates to explain choices rather than perform a brand.
+
+It should also avoid pretending that any battery of assessments can discover a future leader with scientific precision.
+
 No admissions office can solve human character.
 
 The best it can do is build a cohort with enough demonstrated ability, enough variety of experience and enough room for growth that the institution has something worth forming.
+
+That principle suggests another measurable obligation: validate the gate.
+
+If a particular admissions factor strongly predicts success at the Academy and later public service, retain it.
+
+If it mostly predicts who had access to expensive preparation, question it.
+
+If preparatory-program students perform as well as direct admits after the first year, that is evidence the Academy has been finding latent talent rather than lowering standards.
+
+If prior-service students thrive academically and improve team performance, expand that pathway.
+
+If a requirement excludes large numbers of otherwise successful applicants without a clear relationship to mission, the school should be willing to change it.
+
+Admissions traditions should earn permanence just as curriculum traditions should.
 
 Cohort design matters especially for this Academy because the students are supposed to learn from one another across future professions.
 
