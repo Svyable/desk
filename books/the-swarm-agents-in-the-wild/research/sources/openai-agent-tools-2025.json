@@ -1,0 +1,8 @@
+{
+  "year": "2025",
+  "author_or_institution": "OpenAI",
+  "title": "New tools for building agents",
+  "source_type": "First-party product and developer documentation",
+  "book_use": "Documents the March 2025 Responses API and Agents SDK framing around tool use, single- and multi-agent orchestration, handoffs, guardrails, tracing, and observability.",
+  "url": "https://openai.com/index/new-tools-for-building-agents/"
+}
