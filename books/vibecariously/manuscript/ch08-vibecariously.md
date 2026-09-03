@@ -135,3 +135,61 @@ The future may be full of synthetic rehearsals. We will try on homes, jobs, iden
 The central skill will not be resisting the preview.
 
 It will be remembering that a vibe is the beginning of a question, not the answer to one.
+
+## The preview becomes a product
+
+There is another possibility hiding inside vibecarious life: sometimes the preview is no longer merely a step toward consumption. It becomes the thing consumed.
+
+A person may spend an evening generating dream homes without intending to move. They may design vacations they will never book, wardrobes they will never buy, gardens they will never plant, alternate careers they will never pursue, or fictional weddings that are enjoyable precisely because no wedding has to follow.
+
+This is not failed planning.
+
+It is entertainment built from counterfactual possession.
+
+The internet already trained us to browse beyond intention. Real-estate sites are full of people who are not buying houses. Travel videos are watched by people who are not traveling. Product reviews entertain viewers who have no purchase in mind. Generative systems make this behavior interactive. Instead of touring somebody else's fantasy, you can manufacture one fitted to your own taste.
+
+That creates a new media category somewhere between game, shopping, daydream, and design tool.
+
+The person is not asking, “Which couch should I buy?” They are asking, “What would my life feel like if everything around me followed this aesthetic?”
+
+The answer can be satisfying even if no transaction follows.
+
+Companies will notice. A commerce platform does not need every generated fantasy to convert immediately. Repeated rehearsal can clarify desire, produce preference data, keep a person inside an ecosystem, and make a later purchase easier to target. The imagination session itself becomes commercially valuable.
+
+This is why the boundary between creative tool and shopping interface may become difficult to see. A room-design system can help you think. It can also place purchasable objects into the room. A style assistant can help you explore identity. It can also learn which version of yourself makes you spend more. A travel simulator can help compare itineraries. It can also discover which imagined sunset moves you toward a booking.
+
+The generated future becomes a sales environment before it becomes a future.
+
+That does not make the tools corrupt by definition. People benefit when products fit better and uncertainty falls. The question is whether the system is helping the user understand desire or optimizing desire toward monetizable outcomes.
+
+Those goals overlap until they do not.
+
+A useful consumer norm may be to distinguish exploratory mode from transactional mode. Let people imagine without every object becoming a recommendation. Let the system show what a cheaper version of the desired quality would look like. Let it suggest subtraction, repair, borrowing, or doing nothing alongside purchase.
+
+If the system understands the vibe, it may discover that the thing for sale was never the important part.
+
+## Desire has an opportunity cost
+
+Every vivid possibility competes with other possibilities for attention.
+
+This matters because generated previews are cheap enough to proliferate beyond any person's ability to act on them. A person can see ten careers, fifty interiors, twenty possible cities, six versions of a relationship, and a hundred personal aesthetics in a week.
+
+The practical world still offers one body and twenty-four hours in a day.
+
+Abundant imagination can therefore create a new scarcity: commitment without resentment.
+
+The more compelling the alternatives look, the easier it is to experience the chosen life as a foreclosure of better-looking branches. A real apartment contains maintenance and compromise. The other apartments remain immaculate images. A real career includes repetitive work. The alternate careers remain highlight reels. A real partner becomes a whole person. The imagined partner remains responsive to the premise.
+
+This asymmetry can make reality lose a contest it was never designed to win.
+
+Reality includes duration.
+
+The preview does not.
+
+One response is to ask the generative system to model opportunity costs rather than merely outcomes. If I choose this path, what becomes harder? What must I stop doing? Which benefits arrive only after repetition? What does year three look like after the novelty disappears? Which parts of the alternate path am I romanticizing because I never have to inhabit them?
+
+These questions turn synthetic imagination from a branching machine into a choosing tool.
+
+A mature vibecarious practice does not maximize the number of lives you can preview.
+
+It helps you return to one life with better reasons.
