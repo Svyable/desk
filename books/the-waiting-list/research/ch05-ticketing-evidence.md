@@ -1,6 +1,6 @@
 # Chapter 5 — Ticketing evidence note
 
-Research checked 2026-09-02 for “Scalpers, Bots, and the Ticketmaster Problem.” This note separates facts that can support the chapter from allegations that should remain attributed.
+Research checked 2026-09-03 for “Scalpers, Bots, and the Ticketmaster Problem.” This note separates facts that can support the chapter from allegations that should remain attributed.
 
 ## Eras Tour presale
 
@@ -16,9 +16,11 @@ That enforcement record supports a narrow claim: sophisticated circumvention was
 
 ## Competition and the primary/secondary market
 
-On May 23, 2024 the U.S. Department of Justice and state attorneys general filed a civil antitrust action against Live Nation Entertainment and Ticketmaster. The complaint alleges monopolization and exclusionary conduct across concert promotion, large venues, primary ticketing, and related markets. The case is litigation, not a final adjudication; manuscript prose must use “alleges” or equivalent attribution for contested conduct.
+On May 23, 2024 the U.S. Department of Justice and state attorneys general filed a civil antitrust action against Live Nation Entertainment and Ticketmaster. The complaint alleged monopolization and exclusionary conduct across concert promotion, large venues, primary ticketing, and related markets. Those allegations should remain attributed as allegations rather than rewritten as adjudicated findings.
 
-The complaint is relevant because Chapter 5 is not only about a website queue. Ticket allocation sits inside a vertically connected industry in which venue contracts, promotion, primary ticketing, fees, resale, and artist choices can affect what inventory reaches a queue and on what terms. A technically perfect queue cannot answer the upstream question of how many seats are offered, at what initial price, with what holds, and through which channels.
+The procedural posture changed in 2026. DOJ’s case page records a notice of settlement, followed by a June 12, 2026 stipulation and proposed final judgment and a June 29, 2026 competitive impact statement. The proposed judgment remains subject to the Antitrust Procedures and Penalties Act process; the existence of a settlement proposal is not the same thing as a court finding that every allegation in the 2024 complaint was proven.
+
+The case is relevant because Chapter 5 is not only about a website queue. Ticket allocation sits inside a vertically connected industry in which venue contracts, promotion, primary ticketing, fees, resale, and artist choices can affect what inventory reaches a queue and on what terms. A technically perfect queue cannot answer the upstream question of how many seats are offered, at what initial price, with what holds, and through which channels.
 
 ## Counterevidence and falsification
 
@@ -34,3 +36,4 @@ A useful falsification test for the chapter’s mechanism-design argument is whe
 - U.S. Senate Committee on the Judiciary, “That’s the Ticket: Promoting Competition and Protecting Consumers in Live Entertainment,” January 24, 2023, including Chairman Durbin’s opening statement and hearing exchanges.
 - Federal Trade Commission, “FTC Brings First-Ever Cases Under the BOTS Act,” January 22, 2021.
 - U.S. Department of Justice Antitrust Division, *United States and Plaintiff States v. Live Nation Entertainment, Inc. and Ticketmaster L.L.C.*, complaint filed May 23, 2024; amended complaint August 30, 2024.
+- U.S. Department of Justice Antitrust Division, case page and settlement documents: notice of settlement; stipulation and proposed final judgment filed June 12, 2026; competitive impact statement dated June 29, 2026.
