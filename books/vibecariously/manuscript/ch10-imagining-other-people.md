@@ -131,3 +131,57 @@ Its power is imaginative. It gives form to viewpoints, objections, characters, a
 Other people are not latent spaces for us to navigate.
 
 They have the inconvenient dignity of being outside the model.
+
+## Role-play needs an exit condition
+
+A rehearsal is healthy partly because it ends.
+
+You practice the interview and then attend the interview. You simulate the customer objection and then talk to customers. You rehearse an apology and then decide whether to make it. The artificial other exists to prepare you for contact with a person or situation that can answer differently.
+
+Generative systems make it easy to keep rehearsing after the rehearsal has stopped producing new information.
+
+The user can refine the imagined conversation indefinitely. Try the kinder response. Now the angrier one. What if she says this? What if he thinks that? Explain the message again. Predict the next reply. Write three interpretations. Rank them. Reassure me that my reading is plausible.
+
+At some point, social imagination can become avoidance with excellent user experience.
+
+The relevant stopping rule is not the number of turns. It is whether the missing information can only come from the real other.
+
+If you need to know what a colleague meant, eventually the colleague has the answer. If you need to know whether customers will pay, eventually customers need an opportunity to refuse. If you need to know what a community values, eventually the community must participate under conditions where its answer has consequences.
+
+A model can help you arrive better prepared.
+
+It cannot make consent unnecessary.
+
+This suggests a useful design principle for high-stakes role-play: make the exit visible. A system helping with a difficult relationship might say, in effect, “We have generated several plausible interpretations; none can establish motive. The next informative step is direct communication if that is safe and appropriate.” A research simulator might mark which questions remain hypotheses until tested with participants.
+
+The purpose is not to interrupt every imaginative conversation with warnings. It is to distinguish simulation that expands action from simulation that replaces action.
+
+## Empathy includes being corrected
+
+There is a flattering version of empathy in which the empathic person becomes skilled at accurately imagining everyone else.
+
+Real empathy is more humiliating.
+
+You imagine another person's experience, act on the model, and discover that you were wrong.
+
+They correct you.
+
+They care about the issue you thought was minor. They do not care about the issue you thought defined them. The joke you avoided would have been fine. The considerate gesture feels patronizing. The category you thought was central to their identity is not the category they use for themselves. The story you constructed about their silence has nothing to do with what happened.
+
+Being corrected is not a failure of empathy. It is one of the processes that makes empathy possible.
+
+A synthetic persona cannot correct the assumptions used to create it from a position outside the system. It can generate a contradiction, but the contradiction is still another output from the same representational machinery.
+
+A real person has standing.
+
+That standing changes the moral relationship. They can say, “Do not use me as your example.” They can refuse participation. They can demand payment. They can tell the researcher that the question is wrong. They can object to the category. They can walk away.
+
+Empathy without the possibility of correction can become possession: I have understood you, therefore I do not need you.
+
+Generative AI makes that temptation technologically convenient.
+
+The corrective is simple to state and difficult to institutionalize: simulated perspectives should increase the quality of encounters with people, not reduce the number of encounters required whenever those people bear the consequences.
+
+The synthetic other can make us more imaginative before the meeting.
+
+The person in the meeting still gets to surprise us.
