@@ -64,7 +64,7 @@
 
 **Claim.** Property risk changes while physical assets and settlement patterns move slowly, making annual insurance repricing an early channel through which changing hazard and exposure reach households.
 
-**Evidence anchors.** S01, S03, S04, S27, S28.
+**Evidence anchors.** S01, S03, S04, S27, S28, S30, S31.
 
 **Counterevidence / caution.** Climate is not the sole driver of property-insurance cost; exposure, inflation, litigation, building cost and reinsurance also matter.
 
@@ -94,7 +94,7 @@
 
 **Claim.** Reinsurance globalizes local catastrophe risk and influences retail availability by changing the marginal cost of the tail carried by primary insurers.
 
-**Evidence anchors.** S04, S17, S18.
+**Evidence anchors.** S04, S17, S18, S30.
 
 **Counterevidence / caution.** Primary insurers choose retention structures and can inefficiently buy reinsurance; wholesale pricing should not be accepted uncritically as a pass-through cost.
 
@@ -114,7 +114,7 @@
 
 **Claim.** Cyber catastrophe is organized around shared dependencies rather than geography, creating accumulation across industries, policy lines and countries.
 
-**Evidence anchors.** S12, S15, S16.
+**Evidence anchors.** S12, S15, S16, S32.
 
 **Counterevidence / caution.** Ordinary cyber loss is not necessarily systemic; controls, sublimits and portfolio management can keep much cyber risk privately insurable.
 
@@ -174,7 +174,7 @@
 
 **Claim.** Uninsured catastrophe loss does not disappear; it reappears as household distress, public borrowing, migration, interrupted investment, aid or slower recovery. Risk finance is therefore part of development capacity.
 
-**Evidence anchors.** S04, S25, S26.
+**Evidence anchors.** S04, S25, S26, S34.
 
 **Counterevidence / caution.** Self-insurance can be efficient for wealthy households, firms and sovereigns; a protection gap is not automatically proof that more commercial insurance is optimal.
 
@@ -194,7 +194,7 @@
 
 **Claim.** Insurance can become a prevention system when verified mitigation changes expected loss, underwriting or capital cost rather than merely redistributing who pays.
 
-**Evidence anchors.** S05, S09, S23, S25, S26, S27, S28.
+**Evidence anchors.** S05, S09, S23, S25, S26, S27, S28, S34.
 
 **Counterevidence / caution.** Mitigation investments can fail, benefits may take years to appear, and short insurer/customer relationships can weaken incentives to fund prevention.
 
@@ -204,7 +204,7 @@
 
 **Claim.** New technologies and risks become scalable when frequency, severity, correlation, controls and liability acquire enough shape for capital to price them; concentration can move the frontier backward even as technical capability improves.
 
-**Evidence anchors.** S10, S11, S12, S15, S16, S17, S18.
+**Evidence anchors.** S10, S11, S12, S15, S16, S17, S18, S33.
 
 **Counterevidence / caution.** Firms can self-insure and governments can authorize activity without commercial insurance; insurability is one constraint among several.
 
@@ -214,7 +214,7 @@
 
 **Claim.** Insurance remains valuable not because every risk is privately insurable but because it creates a layered discipline for deciding what households retain, what private pools carry, what global capital absorbs and what the state ultimately guarantees.
 
-**Evidence anchors.** S01-S29 as synthesis.
+**Evidence anchors.** S01-S34 as synthesis.
 
 **Counterevidence / caution.** Insurance can become extractive, opaque or politically distorted; the institution should not be treated as a neutral oracle or substitute for regulation, prevention, redistribution or public investment.
 
