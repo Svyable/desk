@@ -1,0 +1,10 @@
+{
+  "id": "aws-oplog-agent-orchestration-2026",
+  "title": "OPLOG Case Study",
+  "publisher": "Amazon Web Services",
+  "date": "2026",
+  "url": "https://aws.amazon.com/solutions/case-studies/oplog/",
+  "source_type": "first-party cloud-provider customer case study",
+  "claims_used": "AWS reports that OPLOG began building a specialized multi-agent orchestration system in July 2025, put its first production agent live in August 2025, and uses agents to make thousands of operational decisions per day. The case reports large reductions in decision time and operating cost plus greater management span. The manuscript uses this as company/vendor-reported evidence of production agent coordination in fulfillment, with metrics explicitly labeled as such.",
+  "caveat": "The business metrics are reported by AWS and its customer, not independently audited in the cited source. They establish a documented production deployment and the direction of operational change, not a general effect size for logistics agents."
+}
