@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 65 book projects · 31 complete drafts · 1 in revision · 33 drafting**
+> **Desk: 66 book projects · 32 complete drafts · 1 in revision · 33 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 25 author projects · 23 released · 2 public drafts/proofs**
-> **Where they live: 25 in both Desk + Shelf · 39 Desk-only · 0 Shelf-only**
-> **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 25 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
+> **Release review queue: 12 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -45,7 +45,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [To The Stars](books/to-the-stars/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -121,6 +121,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Waiting List**](books/the-waiting-list/) | ✍️ Drafting | Front matter, prologue, epilogue, back matter; 20 of 20 chapters | 67,971 | The central thesis is that when a price cannot or should not allocate a scarce good, some other rule always fills the vacuum — a queue, a lottery, a priority rule, or an algorithmic match… | [Read →](https://svyable.github.io/desk/reader/#/b/the-waiting-list/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 of 12 | 28,564 | The central wager is simple: ordinary perception is full of compressed information. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | 2,454 | Complex systems become sophisticated enough to hide elementary truths. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
+| [**To The Stars**](books/to-the-stars/) | ✅ Complete draft | 20 of 20 + prologue + 5 interludes + epilogue | ~70K | The book begins with President Donald J. Trump's August 28, 2026 executive order establishing a Presidential Commission to design the academy. | [Read →](https://svyable.github.io/desk/reader/#/b/to-the-stars/) |
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | 20 of 20 | 71,461 | The central thesis is that artificial intelligence changes the economics of helping. | [Read →](https://svyable.github.io/desk/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | 20 of 20 | 61,784 | The book argues against both easy refuges: one narrow vertical expertise is increasingly callable inside model-and-tool harnesses, but “work with your hands” is not a blanket defense either. | [Read →](https://svyable.github.io/desk/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | 25 of 25 | 72,170 | This book grows out of the public research program in Svyable/quantum-energy. | [Read →](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
