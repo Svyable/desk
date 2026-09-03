@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
 import {
+  adaptDeskCatalogVisibility,
+  adaptSharedReaderAppSource,
   bootstrapFailureKind,
   bootstrapRecoveryCopy,
   deskManifestUrl,
@@ -121,4 +123,70 @@ check(() => assert.equal(moduleRewrite.dynamicImports, 1));
 check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/base\.js/));
 check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/pagination-scheduler\.js/));
 
-console.log(`Desk runtime bridge: ${assertions}/33 assertions passed`);
+const standardCatalog = adaptDeskCatalogVisibility(`
+async function loadCatalog() {
+  if (meta.published) entries.push(meta);
+}
+`);
+check(() => assert.equal(standardCatalog.catalogGates, 1));
+check(() => assert.match(standardCatalog.source, /meta\.published \|\| window\.__IMPRINT\?\.role === 'desk'/));
+
+const renamedCatalog = adaptDeskCatalogVisibility(`
+async function hydrateLibraryIndex() {
+  if (meta.published) entries.push(meta);
+}
+`);
+check(() => assert.match(renamedCatalog.source, /role === 'desk'/));
+
+const arrowCatalog = adaptDeskCatalogVisibility(`
+const load = async () => {
+  if (
+    meta.published
+  )
+    entries.push(meta);
+};
+`);
+check(() => assert.match(arrowCatalog.source, /role === 'desk'/));
+
+const decoys = adaptDeskCatalogVisibility(`
+const example = "if (meta.published) entries.push(meta);";
+// if (meta.published) entries.push(meta);
+/* if (meta.published) entries.push(meta); */
+function whatever() {
+  if (meta.published) entries.push(meta);
+}
+`);
+check(() => assert.equal(decoys.catalogGates, 1));
+check(() => assert.match(decoys.source, /const example = "if \(meta\.published\) entries\.push\(meta\);";/));
+
+check(() => assert.throws(
+  () => adaptDeskCatalogVisibility('function loadCatalog() { return []; }'),
+  /found 0/
+));
+
+check(() => assert.throws(
+  () => adaptDeskCatalogVisibility(`
+if (meta.published) entries.push(meta);
+if (meta.published) entries.push(meta);
+`),
+  /found 2/
+));
+
+const otherPublishedUse = adaptDeskCatalogVisibility(`
+const draft = !meta.published;
+if (meta.published) entries.push(meta);
+`);
+check(() => assert.match(otherPublishedUse.source, /const draft = !meta\.published;/));
+
+const adaptedApp = adaptSharedReaderAppSource(`
+import { ready } from './base.js';
+const catalog = async () => {
+  if (meta.published) entries.push(meta);
+};
+const lazy = () => import('./later.js');
+`, 'https://svyable.github.io/shelf/reader/js/');
+check(() => assert.equal(adaptedApp.staticImports, 1));
+check(() => assert.equal(adaptedApp.dynamicImports, 1));
+check(() => assert.equal(adaptedApp.catalogGates, 1));
+
+console.log(`Desk runtime bridge: ${assertions}/45 assertions passed`);
