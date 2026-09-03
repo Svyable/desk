@@ -20,4 +20,14 @@
 
 [^10]: U.S. Securities and Exchange Commission, “SEC Charges Knight Capital With Violations of Market Access Rule” and associated 2013 order. The SEC found that Knight’s August 1, 2012 software deployment failure caused millions of erroneous orders, more than 397 million shares of trading, multi-billion-dollar unintended positions, and losses above $460 million. The order also records ninety-seven automated emails related to the router error that did not result in effective intervention before the market opened.
 
+[^11]: Erik Brynjolfsson, Danielle Li, and Lindsey Raymond, “Generative AI at Work,” *Quarterly Journal of Economics* 140(2), 2025. The study covers 5,172 customer-support agents and reports a fifteen-percent average productivity increase, with much larger gains for less-experienced and lower-skilled workers. It also reports evidence of faster movement down the experience curve and worker learning; the authors caution that the effects are heterogeneous and that the highest-skilled workers saw much smaller gains and some quality declines.
+
+[^12]: Fabrizio Dell’Acqua et al., “The Cybernetic Teammate: A Field Experiment on Generative AI and Teamwork,” *Organization Science*, published online June 12, 2026. The preregistered experiment involved 791 Procter & Gamble professionals on real product-innovation challenges. Individuals using AI matched teams without AI on the study’s performance measures; AI also helped bridge functional silos, while the authors found continued value for human judgment in evaluation and selection.
+
+[^13]: Joel Becker, Nate Rush, Beth Barnes, and David Rein / METR, “Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity” (July 10, 2025). Sixteen experienced developers completed 246 real tasks in mature repositories they knew well. Allowing early-2025 AI tools increased completion time by nineteen percent even though developers forecast and later perceived speedups. METR explicitly cautions against generalizing the result to all software development.
+
+[^14]: METR, “We are Changing our Developer Productivity Experiment Design” (February 24, 2026). METR reports that a late-2025 follow-up developed serious selection and measurement problems as developers increasingly declined to work without AI and some used multiple concurrent agents. METR says it considers greater speedup with newer tools likely, but treats the follow-up data as weak evidence for the magnitude.
+
+[^15]: Parker Whitfill, Cheryl Wu, Joel Becker, and Nate Rush / METR, “Many SWE-bench-Passing PRs Would Not Be Merged into Main” (March 10, 2026). Active maintainers reviewed 296 AI-generated pull requests from three SWE-bench Verified repositories. Maintainer acceptance was substantially below automated-grader pass rates. The authors do not treat this as a fundamental capability limit because the agents were not allowed to iterate on review feedback as human contributors normally would.
+
 ---
