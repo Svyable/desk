@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 21 drafted |
+| **Chapters** | 4 of 21 drafted |
 
 ## Premise
 
@@ -19,9 +19,9 @@ Generative systems can produce contracts, code, analysis, reports, messages, and
 ### Part I — The Pile Begins to Move
 
 - [x] [Ch 1 — The Inbox Writes Back](manuscript/ch01-the-inbox-writes-back.md)
-- [ ] Ch 2 — Nobody Read the Contract
-- [ ] Ch 3 — The Pull Request at Machine Speed
-- [ ] Ch 4 — The Literature Flood
+- [x] [Ch 2 — Nobody Read the Contract](manuscript/ch02-nobody-read-the-contract.md)
+- [x] [Ch 3 — The Pull Request at Machine Speed](manuscript/ch03-the-pull-request-at-machine-speed.md)
+- [x] [Ch 4 — The Literature Flood](manuscript/ch04-the-literature-flood.md)
 
 ### Part II — The Economics of Attention
 
@@ -60,5 +60,8 @@ Generative systems can produce contracts, code, analysis, reports, messages, and
 - [Book bible](research/book-bible.md)
 - [Research and falsification spine](research/research-spine.md)
 - [Chapter 1 evidence notes](research/ch01-inbox-evidence.md)
+- [Chapter 2 evidence notes](research/ch02-contract-evidence.md)
+- [Chapter 3 evidence notes](research/ch03-pull-request-evidence.md)
+- [Chapter 4 evidence notes](research/ch04-literature-evidence.md)
 - [Source ledger](research/source-ledger.csv)
 - [Cooking queue](research/cooking-queue.md)

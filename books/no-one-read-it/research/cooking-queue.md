@@ -13,18 +13,18 @@
 
 - [x] Chapter 1 evidence packet — The Inbox Writes Back
 - [x] Chapter 1 first draft — The Inbox Writes Back
-- [ ] Chapter 2 evidence packet — Nobody Read the Contract
-- [ ] Chapter 2 first draft — Nobody Read the Contract
-- [ ] Chapter 3 evidence packet — The Pull Request at Machine Speed
-- [ ] Chapter 3 first draft — The Pull Request at Machine Speed
-- [ ] Chapter 4 evidence packet — The Literature Flood
-- [ ] Chapter 4 first draft — The Literature Flood
+- [x] Chapter 2 evidence packet — Nobody Read the Contract
+- [x] Chapter 2 first draft — Nobody Read the Contract
+- [x] Chapter 3 evidence packet — The Pull Request at Machine Speed
+- [x] Chapter 3 first draft — The Pull Request at Machine Speed
+- [x] Chapter 4 evidence packet — The Literature Flood
+- [x] Chapter 4 first draft — The Literature Flood
 
 ## Research packets to build before deep drafting
 
-- [ ] Contract assent, comprehension, and drafting-tool packet
-- [ ] Code-review size, generated patches, and incident packet
-- [ ] Scientific publishing, paper mills, citation cascades, and retractions packet
+- [x] Contract assent, comprehension, and drafting-tool packet
+- [x] Code-review size, generated patches, and incident packet
+- [x] Scientific publishing, paper mills, citation cascades, and retractions packet
 - [ ] Inspection economics and common-mode failure packet
 - [ ] Organizational attention, caseload, and review-budget packet
 - [ ] Audit sampling and adversarial selection packet
