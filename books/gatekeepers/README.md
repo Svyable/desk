@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 15 of 21 drafted |
+| **Chapters** | 16 of 21 drafted |
 
 ## Contents
 
@@ -26,7 +26,7 @@
 - [x] [Ch 13 — The API Key](manuscript/ch13-the-api-key.md)
 - [x] [Ch 14 — The Algorithm at the Door](manuscript/ch14-the-algorithm-at-the-door.md)
 - [x] [Ch 15 — The Gatekeeper's Conflict](manuscript/ch15-the-gatekeepers-conflict.md)
-- [ ] [Ch 16 — The Price of Appeal](manuscript/ch16-the-price-of-appeal.md)
+- [x] [Ch 16 — The Price of Appeal](manuscript/ch16-the-price-of-appeal.md)
 - [ ] [Ch 17 — The Bypass](manuscript/ch17-the-bypass.md)
 - [ ] [Ch 18 — The Right to Exit](manuscript/ch18-the-right-to-exit.md)
 - [ ] [Ch 19 — Agents at the Gates](manuscript/ch19-agents-at-the-gates.md)

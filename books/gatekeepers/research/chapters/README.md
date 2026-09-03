@@ -13,3 +13,4 @@ These files preserve chapter-level source selection, claim boundaries, counterev
 - [Chapter 13 — The API Key](ch13-the-api-key.md)
 - [Chapter 14 — The Algorithm at the Door](ch14-the-algorithm-at-the-door.md)
 - [Chapter 15 — The Gatekeeper's Conflict](ch15-the-gatekeepers-conflict.md)
+- [Chapter 16 — The Price of Appeal](ch16-the-price-of-appeal.md)
