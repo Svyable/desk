@@ -2,7 +2,6 @@ const BRIDGE_FLAG = Symbol.for('svyable.desk.reader.runtimeBridge');
 const SHELF_BOOKS_PREFIX = '/shelf/books/';
 const DESK_BOOKS_PREFIX = '/desk/books/';
 const SHELF_WORKER_PATH = '/shelf/reader/sw.js';
-const OFFLINE_QUERY = 'BOOKSELF_OFFLINE_READINESS';
 const DEFAULT_RETRY_DELAYS = Object.freeze([140, 520]);
 const OFFLINE_RETRY_FLOOR_MS = 1200;
 const OFFLINE_RETRY_CEILING_MS = 1800;
@@ -272,15 +271,6 @@ export function shouldRedirectShelfWorker(value, {
   return !!url && url.origin === origin && url.pathname === SHELF_WORKER_PATH;
 }
 
-export function rewriteOfflineReadinessMessage(message, options = {}) {
-  if (!message || typeof message !== 'object' || message.type !== OFFLINE_QUERY || !message.url) {
-    return message;
-  }
-  const rewritten = rewriteDeskPublicationUrl(message.url, options);
-  if (rewritten === message.url) return message;
-  return { ...message, url: rewritten };
-}
-
 function rewriteFetchInput(input, global, options) {
   const rewritten = rewriteDeskPublicationUrl(input, options);
   if (typeof Request !== 'undefined' && input instanceof Request) {
@@ -324,20 +314,6 @@ function installRegistrationBridge(global, moduleUrl, options) {
   });
 }
 
-function installMessageBridge(global, options) {
-  const prototype = global.ServiceWorker?.prototype;
-  if (!prototype || prototype[BRIDGE_FLAG] || typeof prototype.postMessage !== 'function') return;
-  const nativePostMessage = prototype.postMessage;
-  Object.defineProperty(prototype, BRIDGE_FLAG, { value: true });
-  Object.defineProperty(prototype, 'postMessage', {
-    configurable: true,
-    writable: true,
-    value(message, transfer) {
-      return nativePostMessage.call(this, rewriteOfflineReadinessMessage(message, options), transfer);
-    },
-  });
-}
-
 export function installDeskRuntimeBridge({
   global = globalThis,
   moduleUrl = import.meta.url,
@@ -351,5 +327,4 @@ export function installDeskRuntimeBridge({
   installManifest(global, moduleUrl);
   installFetchBridge(global, options);
   installRegistrationBridge(global, moduleUrl, options);
-  installMessageBridge(global, options);
 }
