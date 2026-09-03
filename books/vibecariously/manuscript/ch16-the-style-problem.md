@@ -123,3 +123,61 @@ Style should be evidence of decisions, not a substitute for them.
 Generative AI makes the substitution cheap.
 
 The creative task is to decide when cheap is exactly what the joke needs and when the work deserves to find its own problem.
+
+## Style contains a labor history
+
+A recognizable style does not arrive from nowhere. It carries the residue of tools, bodies, institutions, accidents, markets, teachers, deadlines, failures, and repetition.
+
+A photographer's look may have begun with a lens they could afford. A band's sound may be partly the room they rehearsed in. A comic artist's line may be adapted to an unforgiving production schedule. A writer's clipped prose may have been shaped by journalism, translation, disability, temperament, editorial pressure, or a decade of deleting ornamental sentences. A designer's palette may come from print constraints that no longer exist.
+
+Once the style becomes famous, those causes disappear behind the surface.
+
+The audience sees the result as a coherent identity. The model sees statistical regularities. Neither necessarily sees the labor history that made the regularities meaningful.
+
+This matters because imitation can preserve the visible solution while discarding the problem that produced it.
+
+Take a rough visual texture. In the original work, roughness may be the trace of cheap materials, hand pressure, fast reproduction, political urgency, or deliberate resistance to commercial polish. In a generated imitation, roughness can become a slider. The surface survives while the reason becomes optional.
+
+The same happens in writing. A spare voice developed to speak clearly about violence can be borrowed to make a product announcement feel serious. A rhetorical form born in protest can become brand copy. A musical language built inside a community can become background atmosphere.
+
+Culture has always performed these detachments. Generative systems make them almost frictionless.
+
+One way to resist shallow borrowing is to ask not only “what does this style look like?” but “what problem was this style solving?”
+
+That question changes the imitation.
+
+If the original painter simplified forms because of speed, what constraint in your work requires simplification? If the filmmaker used static frames to create discomfort, why does your scene need discomfort? If the writer's repetition creates ritual, what in your subject deserves ritual rather than merely sounding like that writer?
+
+A style becomes more ethically and creatively legible when it is understood as a record of decisions under circumstances.
+
+That does not produce ownership over every decision. It produces respect for causality.
+
+The goal is not to force every creator into historical scholarship before making a meme. It is to distinguish disposable play from work that depends heavily on another person's accumulated identity.
+
+The more central the borrowed style is to the value of the output, the stronger the case for understanding where that value came from.
+
+## Attribution after imitation
+
+Attribution has traditionally been easier when an influence is explicit. A quotation can carry a name. A sample can be credited. A photograph can have a caption. Scholarship can cite a source.
+
+Generative influence is diffuse.
+
+A model may synthesize patterns from thousands or millions of works. A user may not know which sources mattered. The output may not correspond closely enough to any one work to make traditional citation sensible. Yet the system can still produce a recognizable proximity to a creator or tradition.
+
+This creates an awkward middle ground between citation and anonymity.
+
+The wrong answer is fake precision. A model should not invent a source list merely to satisfy the aesthetics of provenance. The other wrong answer is to pretend influence disappears because it cannot be traced exactly.
+
+We may need richer forms of attribution.
+
+A creator could disclose that a work used a model trained on licensed archives. A platform could identify when a named artist adapter or style model was invoked. A commercial project could credit the human artist whose authorized model supplied a substantial visual language. A museum or educational tool could show likely traditions and references while making uncertainty explicit.
+
+Attribution does not solve consent or compensation. It does something narrower: it keeps cultural ancestry visible.
+
+That visibility matters because generative systems tend to make style feel ambient, as though visual and verbal languages simply exist in the air waiting to be summoned.
+
+They do not.
+
+Someone made the moves often enough that the moves became recognizable.
+
+A culture that can generate any surface on demand will need deliberate ways to remember that surfaces have histories.
