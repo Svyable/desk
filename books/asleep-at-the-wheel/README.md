@@ -6,7 +6,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 12 of 22 drafted |
+| **Chapters** | 15 of 22 drafted |
 
 *How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask.*
 
@@ -29,9 +29,9 @@ The working thesis is that sleep behaves like a hard, measurable biological cons
 - [x] [Ch 10 — The Interrogation Room](manuscript/ch10-the-interrogation-room.md)
 - [x] [Ch 11 — The Bell That Rings Too Early](manuscript/ch11-the-bell-that-rings-too-early.md)
 - [x] [Ch 12 — The Shift That Never Sleeps](manuscript/ch12-the-shift-that-never-sleeps.md)
-- [ ] [Ch 13 — Losing an Hour, Gaining a Heart Attack](manuscript/ch13-losing-an-hour-gaining-a-heart-attack.md)
-- [ ] [Ch 14 — The Insomnia Economy](manuscript/ch14-the-insomnia-economy.md)
-- [ ] [Ch 15 — Quantified but Not Understood](manuscript/ch15-quantified-but-not-understood.md)
+- [x] [Ch 13 — Losing an Hour, Gaining a Heart Attack](manuscript/ch13-losing-an-hour-gaining-a-heart-attack.md)
+- [x] [Ch 14 — The Insomnia Economy](manuscript/ch14-the-insomnia-economy.md)
+- [x] [Ch 15 — Quantified but Not Understood](manuscript/ch15-quantified-but-not-understood.md)
 - [ ] [Ch 16 — The Book About Sleep That Got Sleep Wrong](manuscript/ch16-the-book-about-sleep-that-got-sleep-wrong.md)
 - [ ] [Ch 17 — Nine Days Without a Sunset](manuscript/ch17-nine-days-without-a-sunset.md)
 - [ ] [Ch 18 — The Locker Room Advantage](manuscript/ch18-the-locker-room-advantage.md)
