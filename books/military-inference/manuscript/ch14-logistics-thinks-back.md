@@ -150,6 +150,76 @@ It can say: this plan is efficient if these seven assumptions remain true. If as
 
 That form of output is strategically useful because it turns a hidden dependency into a visible decision.
 
+There is a deeper historical reason to resist the seduction of optimized logistics. Militaries repeatedly discover that the real demand curve of war is not the demand curve imagined before war. Consumption rates change. Equipment is used in ways designers did not expect. Weather, terrain, damage, political constraints, and the opponent's behavior alter the relationship between plan and material need. A system that becomes extraordinarily good at optimizing the prewar model can become extraordinarily brittle when the model breaks.
+
+Inference should therefore widen the logistics imagination rather than narrow it.
+
+One useful practice is to maintain **shadow demand models** alongside the official forecast. The official model supports allocation. The shadows ask how badly allocation fails under alternative assumptions. One assumes higher maintenance demand. Another assumes lower network availability. Another assumes that one supplier continues shipping but quality declines. Another assumes that the most efficient route becomes politically unavailable. These models need not drive daily operations. Their value is to preserve awareness of how quickly the official picture can become obsolete.
+
+The same principle applies to inventories. A machine system can optimize stock levels with impressive precision. It can also estimate the price of uncertainty. How much extra inventory buys how much additional time to diagnose a disruption? Which spare parts are cheap to hold and expensive to replace? Which apparently redundant components preserve interoperability with older systems when the newest software fails? The problem changes from minimizing inventory toward designing **option inventory**: physical slack chosen because it preserves decisions under uncertainty.
+
+This is where logistics inference begins to resemble financial risk management more than warehouse optimization. The force is carrying a portfolio of dependencies. Some fail independently. Others fail together. A weather event, power shortage, software defect, supplier failure, or communications disruption can correlate several risks that look separate on a spreadsheet.
+
+Machine reasoning can map those correlations. It can ask which apparently diversified systems depend on the same manufacturer, the same digital identity provider, the same maintenance software, the same port, the same model family, or the same source of electrical power. This produces a more honest picture of resilience because it reveals where diversity is cosmetic.
+
+The concept is **logistical monoculture**.
+
+A force can possess thousands of different items and still depend on one invisible layer shared by all of them.
+
+That shared layer becomes strategically important whether anyone planned it that way or not.
+
+The inference supply chain makes this particularly acute. A family of machine systems may appear distributed across platforms while relying on the same model artifact, the same update service, the same cryptographic trust root, or the same class of accelerator. The physical platforms are dispersed. The cognitive dependency is concentrated.
+
+Logistics needs to see both.
+
+There is also a question of **repair knowledge**. Modern equipment often requires more than the right spare part. It requires diagnostic software, technical data, authorization, calibration, specialized tooling, and people who know what a strange failure looks like. Machine reasoning can preserve some of that expertise institutionally. A maintenance agent can compare a new fault with years of repair records, search manuals, identify similar symptom combinations, and suggest which observation would distinguish one failure mode from another.
+
+That can reduce dependence on the one person who remembers the obscure case from four years ago.
+
+But the machine should not become another single point of failure. If every repair procedure becomes accessible only through a remote model, the force has traded tacit human fragility for digital fragility. Durable repair knowledge should be externalized into procedures, tests, local tools, and artifacts that remain useful when the most capable model is unavailable.
+
+This is the same architectural lesson that appears throughout the book: when machine reasoning discovers something valuable, the lesson should migrate into the environment where possible.
+
+A recurring fault becomes a diagnostic rule.
+
+A dangerous configuration becomes a check.
+
+A supply dependency becomes a monitored condition.
+
+A workaround becomes a documented capability.
+
+The intelligence improves the logistics organism even after the particular inference ends.
+
+This also changes how logisticians participate in planning. If machine systems can rapidly calculate the material consequences of alternative plans, logistics does not need to remain the last reality check after operational imagination has already hardened into intent. It can enter earlier.
+
+A planner asks for three options.
+
+The logistics system answers not only with feasibility, but with **fragility surfaces**.
+
+Option one uses fewer resources but depends on uninterrupted connectivity.
+
+Option two consumes more fuel but preserves two alternate routes.
+
+Option three is slower but remains viable under a wider range of maintenance failures.
+
+The conversation becomes about resilience rather than a binary yes or no.
+
+That is a cultural change. Logistics stops being the department that says what cannot be done and becomes one of the places where the institution discovers what can remain possible after surprise.
+
+It also makes deception relevant to logistics. An adversary may try to distort the picture of demand, availability, or failure. Friendly reporting can mislead unintentionally. A unit may hoard because it distrusts the central forecast. A supplier may appear reliable because delays have not yet reached the reporting system. The logistics mind therefore needs the same epistemic discipline as intelligence analysis: provenance, alternative explanations, calibration, and the willingness to admit that a neat dashboard is not the material world.
+
+This is why the best output of logistical inference is not maximum efficiency.
+
+It is **sustainable optionality**.
+
+The system should help commanders understand what assumptions they are spending when they choose a plan.
+
+A force consumes fuel, parts, bandwidth, and time.
+
+It also consumes alternatives.
+
+Good logistics makes that consumption visible before the last alternative is gone.
+
 It also changes the relationship between logistics and operations.
 
 Instead of the logistics staff receiving a plan and trying to support it, inference can create a more continuous negotiation between what commanders want and what the material system can actually sustain.
@@ -166,4 +236,4 @@ The supply system becomes an epistemic participant in force design.
 
 It does not merely answer, "Can we support this?"
 
-It asks, "What future are you assuming when you ask?"
+It asks, "What future are you assuming when you ask—and how many futures remain if that one is wrong?"
