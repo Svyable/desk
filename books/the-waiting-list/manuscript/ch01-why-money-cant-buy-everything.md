@@ -72,6 +72,32 @@ Consider the seller’s side of a kidney transaction. A standard model can repre
 
 This is one of the strongest arguments for treating some forms of market participation as more than an individual consumer choice. A right not to sell can be valuable even to someone who would, in a crisis, agree to sell.
 
+That value is easy to miss because it does not appear in the transaction that actually occurs. It lives in the transactions that never have to be proposed.
+
+Imagine two societies with identical wages, debts, and medical technology. In one, kidneys cannot legally be sold. In the other, a healthy adult can sell one through a regulated market for a large payment. The second society has created an asset the first society has not. On a household balance sheet, that looks like added wealth. A person in financial distress has one more option.
+
+But an option can change bargaining even when nobody exercises it.
+
+A relative deciding whether to lend money may know the kidney market exists. A spouse arguing about debt may know it. A creditor cannot legally seize the organ, but the debtor may still hear a version of the question: what have you done to solve this problem? A person declining to sell has to defend not merely the wish to keep both kidneys, but the refusal to convert an available body part into cash.
+
+The market has therefore changed the baseline against which sacrifice is judged.
+
+This does not prove that the market should be prohibited. Many valuable freedoms create pressures as well as opportunities. The ability to work more hours can become an expectation to work more hours. The ability to borrow can become an expectation to borrow. The ability to move for a job can make staying put look less reasonable to an employer. We do not ban every option that changes bargaining power.
+
+The organ case is sharper because the option is irreversible and physically embodied. A person who sells a kidney cannot buy back the original state of having two kidneys later. The sale converts a temporary financial emergency into a permanent anatomical fact. That does not make the choice irrational. It does mean that the ordinary language of consumer options understates what is being exchanged.
+
+A regulated compensation system would have to confront this pressure rather than assume that screening for formal consent has solved it. Independent donor advocates, cooling-off periods, fixed payments, bans on recipient bidding, and long-term follow-up can all reduce some forms of pressure. None can make the surrounding economic conditions disappear. The relevant policy question is not whether the donor said yes. It is what institutional environment made yes and no mean what they did.
+
+That is a harder question than the simple market test of willingness to transact.
+
+It is also a harder question than the simple prohibitionist claim that poverty invalidates consent. Poor people remain adults. They make consequential choices every day. A rule that says their financial circumstances make them categorically incapable of consenting can become paternalism dressed as protection.
+
+The design problem is therefore to protect refusal without pretending choice is meaningless.
+
+That is one reason the distinction between reimbursement and purchase matters beyond legal semantics. Reimbursement tries to remove a penalty for giving without creating a general-purpose asset that can be sold to solve unrelated financial problems. It says donation should not make the donor poorer. Compensation says donation may properly make the donor richer.
+
+Those are not merely two payment levels. They are two theories about what role the body should be allowed to play in a household economy.
+
 The logic is familiar outside transplantation. Bankruptcy law allows people to discharge some debts rather than contract themselves into permanent servitude. Labor law constrains the terms workers may accept even when both parties would sign. We do not permit a person to sell herself into slavery and then defend enforcement on the ground that the original signature was voluntary. The legal system sometimes limits contracts not because consent is irrelevant but because it believes certain forms of consent should not be enforceable.
 
 Still, the kidney shortage remains.
