@@ -2,9 +2,9 @@
 
 America can make almost any bill disappear if it is divided into small enough pieces.
 
-A house becomes a monthly mortgage payment. A car becomes a number discussed across a dealership desk. College becomes a financial-aid package. Health care becomes a premium deducted from a paycheck, a copay at the counter, a deductible discovered later, and a tax bill dispersed across millions of people. The federal government turns roads, retirement benefits, aircraft carriers, tax credits, farm support, medical care, scientific research, interest, salaries, disaster relief, and several generations of promises into one very large annual flow of money that few citizens ever see as a single receipt.
+A house becomes a monthly mortgage payment. A car becomes a number discussed across a dealership desk. College becomes a financial-aid package. Health care becomes a premium deducted from a paycheck, a copay at the counter, a deductible discovered later, and a tax bill dispersed across millions of people. The federal government turns roads, retirement benefits, aircraft carriers, tax credits, medical care, scientific research, interest, salaries, disaster relief, and generations of promises into one enormous flow of money that few citizens ever see as a single receipt.
 
-The trick is not uniquely American. Modern economies run on financing, insurance, taxation, intergenerational contracts, and risk pooling because paying every large expense in cash at the moment of use would be primitive and often cruel. A mortgage lets a family live in a house while earning the money that pays for it. Insurance lets the healthy finance the sick because nobody knows in advance who will need the expensive year. Government borrowing can prevent a recession, finance a war, or build something whose benefits last longer than the tax year in which it was constructed.
+The trick is not uniquely American. Modern economies run on financing, insurance, taxation, intergenerational contracts, and risk pooling because paying every large expense in cash at the moment of use would be primitive and often cruel. A mortgage lets a family live in a house while earning the money that pays for it. Insurance lets the healthy finance the sick because nobody knows in advance who will need the expensive year. Government borrowing can soften a recession, finance a war, answer a disaster, or build something whose benefits last longer than the tax year in which it was constructed.
 
 The problem begins when the financing mechanism stops merely moving the timing of a price and starts hiding the price itself.
 
@@ -14,55 +14,77 @@ Instead of asking whether something is worth what it costs, we ask whether we ca
 
 The total does not vanish. It migrates.
 
-By 2026 the federal version of that migration had become difficult to dismiss as an accounting curiosity. The Congressional Budget Office projected $7.4 trillion in federal outlays for fiscal year 2026 against $5.6 trillion in revenues, a deficit of about $1.9 trillion. Debt held by the public was projected to reach roughly $32.1 trillion at the end of the fiscal year. Net interest alone was projected to exceed $1 trillion.
-
-Households were carrying another kind of long memory. The Federal Reserve Bank of New York put total household debt at about $18.8 trillion in the second quarter of 2026, most of it mortgages, but with more than a trillion dollars each in credit-card, auto, and student-loan balances. The Bureau of Economic Analysis estimated the personal saving rate at 3.0 percent in July 2026.
-
-Those numbers should not be stacked into one moral indictment. Federal debt is not a giant credit card. A thirty-year mortgage is not evidence of personal failure. Student debt can finance an education whose return exceeds its cost. A government can borrow in its own currency under conditions no household can replicate. A family cannot tax its neighbors, issue Treasury securities, or wait for nominal GDP to grow around its liabilities.
-
-The categories are different.
-
-The habit underneath them is similar enough to study.
-
-America is exceptionally good at building systems in which the person saying yes to spending does not have to experience the entire price at the same moment. Sometimes that is a feature. It is how insurance works. It is how long-lived infrastructure gets built. It is how a society helps a child, a patient, a retiree, a veteran, a student, or a city struck by a hurricane when the need arrives before the money does.
+That migration is often useful. It is how a society helps a child, a patient, a retiree, a veteran, a student, or a city struck by a hurricane when the need arrives before the money does. It is how risks too large for one household become survivable when spread across many. It is how long-lived assets can be financed across the years in which they are used.
 
 But the separation changes behavior.
 
-When a third party pays, the buyer cares less about the exact price. When a future taxpayer pays, the current voter can enjoy a benefit without receiving the full invoice. When a bank finances the purchase, the seller can compete on monthly affordability rather than total cost. When supply is fixed by zoning, licensing, physical capacity, or regulation, adding purchasing power can lift prices instead of producing more of the thing people need. When a promise is politically popular and its financing politically painful, the promise tends to survive and the financing tends to become tomorrow's problem.
+When a third party pays, the buyer may care less about the exact price—or may have no practical way to discover it. When a future taxpayer pays, the current voter can enjoy a benefit without receiving the full invoice. When a bank finances the purchase, the seller can compete on monthly affordability rather than total cost. When supply is fixed by zoning, licensing, physical capacity, or regulation, adding purchasing power can lift prices instead of producing more of the thing people need. When a promise is politically popular and its financing politically painful, the promise tends to survive and the financing tends to become tomorrow's problem.
 
-That does not mean the remedy is simply to spend less.
+None of this means the remedy is simply to spend less.
 
 Some cheap things are wasteful. Some expensive things are bargains.
 
-A bridge that prevents decades of congestion may be worth a great deal. Vaccination can be extraordinarily cheap relative to the illness it avoids. A well-designed research program may create options no private investor could capture. Child nutrition, basic science, electrical transmission, wastewater systems, air-traffic control, defense, courts, and emergency medicine all resist the idea that the cheapest possible government is automatically the best one.
+A bridge that prevents decades of congestion may be worth a great deal. Vaccination can be extraordinarily cheap relative to the illness it avoids. Basic research may create options no private investor could fully capture. Child nutrition, electrical transmission, wastewater systems, air-traffic control, defense, courts, emergency medicine, and public health all resist the idea that the cheapest possible government is automatically the best one.
 
-The same is true at home. A family that spends heavily on safe housing, useful education, or a business may be making a better long-term decision than one that boasts of a high savings rate while neglecting every investment in the future.
+The same is true at home. A family that spends heavily on safe housing, useful education, care, or a business may be making a better long-term decision than one that boasts of a high savings rate while neglecting every investment in the future.
 
 Spending is not the opposite of prudence. Spending is how priorities become physical.
 
 A spending problem is something more specific: a system in which prices cease to discipline choices because the bill is hidden, delayed, fragmented, shifted, subsidized without new supply, or politically assigned to someone who is not in the room.
 
-That definition makes the problem much larger than the federal deficit and less partisan than most deficit arguments.
+The phrase I use in this book is price distance: the separation between the person saying yes and the full economic price of the decision.
 
-The left is right about some things the right prefers not to see. A wealthy society can afford public goods. Cutting an effective program can leave the country poorer, sicker, or less capable. Taxes are not theft from an economy untouched by government; markets themselves depend on courts, property rights, infrastructure, currency, education, security, and public institutions.
+The distance can be financial. An insurer pays.
 
-The right is right about some things the left prefers not to see. A claim on future resources is still a claim even when the beneficiary is sympathetic. Bureaucracies can preserve ineffective spending long after the original reason has faded. Subsidizing demand in a supply-constrained market can make the subsidized thing more expensive. Debt service eventually competes with everything else a government might prefer to buy.
+It can be temporal. A borrower pays later.
 
-Neither side gains much from pretending the arithmetic belongs to the other.
+It can be political. A future taxpayer finances a current promise.
 
-The federal government cannot permanently promise a level of spending materially above the level of revenue without increasing debt. A health system cannot consume a growing share of national income indefinitely without forcing tradeoffs elsewhere. A city cannot make housing affordable only by helping households bid against each other for a fixed number of homes. A household cannot make every purchase affordable by extending the term. A university cannot solve the cost of attendance merely by making the financing package more elaborate.
+It can be organizational. An employee chooses care while an employer and insurer negotiate its price.
 
-Every system eventually meets a resource constraint.
+It can be geographic. A local rule protects current residents while part of the cost falls on people who have not yet moved there.
 
-The useful question is whether it meets that constraint while there is still time to choose.
+Price distance is not automatically a defect. Often it is the whole reason a useful institution works. Insurance would be a poor invention if the sick patient had to bear the full price precisely when illness arrived. Long-term credit would be much less useful if every borrower had to wait until the asset could be purchased in cash. Social insurance would provide little security if every year's beneficiary had to renegotiate the promise from scratch.
+
+The important question is what replaces the price signal after distance is created.
+
+Who can still say no?
+
+Who can see the total?
+
+Who is rewarded for controlling the underlying price rather than merely moving it somewhere else?
+
+Those questions become uncomfortable quickly because many American institutions are very good at distributing the yes and the bill to different places.
+
+A hospital can deliver necessary care while the price emerges from negotiations the patient never sees. A university can make attendance possible through aid while leaving the student to discover the lifetime financing consequence later. A city can help households buy or rent while limiting the number of homes that can be built. Congress can approve a benefit and a tax cut in separate votes and let Treasury securities reconcile the difference. A tax preference can pursue public policy while appearing politically as the absence of government rather than one of its instruments.
+
+Nobody has to be foolish for the total to become unreasonable.
+
+The patient wants treatment. The physician wants the best outcome. The homeowner wants the value of a major asset protected. The student wants opportunity. The college wants revenue and a viable institution. The retiree wants a promise kept. The soldier wants equipment that works. The legislator wants to help constituents without imposing a visible loss before the next election. The lender wants repayment. The taxpayer wants value.
+
+Reasonable motives do not guarantee a reasonable aggregate price.
+
+That is why the familiar hunt for one villain is so unsatisfying.
+
+The spending problem is not simply greedy corporations, irresponsible consumers, wasteful bureaucrats, undertaxed billionaires, overgenerous benefits, defense contractors, zoning boards, universities, insurers, or politicians. Each can matter. None is large enough to explain the machinery by itself.
+
+The machinery is the subject.
+
+This book moves between Washington and the household balance sheet, hospitals and zoning boards, tuition invoices and Treasury securities. The point is not to claim that these systems are identical. They are not. A sovereign government is not a household. A mortgage is not Medicare. A student loan is not a defense contract.
+
+The recurring pattern is narrower: the full price has been removed from the moment of decision, and the institution expected to recreate discipline is weak, conflicted, delayed, or missing.
+
+Once that pattern becomes visible, arguments that seemed unrelated start to rhyme.
+
+The fight over insurance is also a fight over who sees marginal cost. The fight over housing subsidies is also a fight over whether supply can respond. The fight over student lending is also a fight over whether financing disciplines schools or simply expands what students can pay. The fight over the national debt is also a fight over how much of the future has already been spoken for. The fight over waste is also a fight over whether the spending being criticized is an error or a lawful choice someone dislikes.
+
+None of those questions has a painless answer.
+
+That is not a failure of imagination. It is what scarcity means.
+
+Every system eventually meets a resource constraint. The useful question is whether it meets that constraint while there is still time to choose.
 
 That is what this book is about.
-
-The chapters that follow move between Washington and the household balance sheet, between hospitals and zoning boards, between tuition invoices and Treasury securities. The point is not to claim that all these systems are the same. It is to notice a recurring piece of machinery: the removal of the full price from the moment of decision.
-
-Once you notice that machinery, many American arguments look different.
-
-The fight over a budget is also a fight over timing. The fight over insurance is also a fight over who sees marginal cost. The fight over housing subsidies is also a fight over whether supply can respond. The fight over student loans is also a fight over whether financing disciplines schools or merely expands the amount students can pay. The fight over the national debt is also a fight over how much of the future has already been spoken for.
 
 There are good reasons to borrow from tomorrow.
 
