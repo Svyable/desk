@@ -22,7 +22,7 @@ California FAIR Plan, California Department of Insurance, Florida Citizens, FEMA
 
 ### 3. Natural catastrophe and reinsurance capital
 
-Swiss Re market and sigma research is used for current insured-loss and ILS figures. These are industry sources and are labeled accordingly. They are useful for market scale and transaction data, not neutral proof that any particular policy response is correct. Scenario estimates are not forecasts.
+Swiss Re and Munich Re catastrophe and market research are used for current insured-loss, peril-mix and ILS figures. These are industry sources and are labeled accordingly. They are useful for market scale, transaction data and independent industry views of catastrophe experience, not neutral proof that any particular policy response is correct. Scenario estimates are not forecasts, and differences between catastrophe datasets should not be mistaken for factual contradiction when definitions or estimation methods differ.
 
 ### 4. Flood, terrorism and pandemic limits
 
@@ -30,11 +30,11 @@ GAO, FEMA and Treasury sources show three different public-private structures. N
 
 ### 5. Cyber accumulation
 
-Cyber chapters use EIOPA prudential analysis and the history of cyber-accumulation scenarios to focus on common dependencies, cross-line losses and the difficulty of defining one event. The manuscript deliberately avoids pretending that a single scenario estimate is a realized loss distribution.
+Cyber chapters use EIOPA prudential analysis and Lloyd's *Business Blackout* scenario to focus on common dependencies, cross-line losses and the difficulty of defining one event. The Lloyd's scenario is used only as a stress-test illustration of cross-line accumulation, not as a forecast or realized loss estimate. The manuscript deliberately avoids pretending that a single scenario estimate is a realized loss distribution.
 
 ### 6. AI underwriting and AI liability
 
-NAIC and EIOPA sources support claims about insurer AI governance, third-party models, correlated behavior and demutualisation pressure from increasingly granular segmentation. The manuscript's argument that agent authority itself will become an underwriting variable is a forward-looking inference, not a claim that a mature standardized AI-liability market already exists.
+NAIC and EIOPA sources support claims about insurer AI governance, third-party models, correlated behavior and demutualisation pressure from increasingly granular segmentation. Swiss Re Institute research on AI data-centre value accumulation supports the discussion of very large infrastructure values, physical/digital dependencies and insurance-limit constraints. The manuscript's argument that agent authority itself will become an underwriting variable is a forward-looking inference, not a claim that a mature standardized AI-liability market already exists.
 
 ### 7. Health and long-term care
 
@@ -50,13 +50,15 @@ Actuarial Standards Board materials are used to anchor adverse selection, credib
 
 ### 10. Insurance as prevention
 
-Lloyd's and FM institutional histories support the historical narrative around marine underwriting and loss-prevention engineering. Current mitigation arguments rely on the broader logic that a loss avoided can improve insurability when the reduction is measurable and recognized in pricing. Institutional histories are treated as interested sources and not as independent proof of the institutions' own excellence.
+Lloyd's and FM institutional histories support the historical narrative around marine underwriting and loss-prevention engineering. Swiss Re Institute work supports current discussion of protection gaps and projected adaptation benefit-cost ratios. Current mitigation arguments still rely on the broader logic that a loss avoided can improve insurability when the reduction is measurable and recognized in pricing. Institutional histories and industry research are treated as interested sources and not as independent proof of the institutions' own excellence.
 
 ## Sourcing convention
 
 Concrete figures, dates, program rules and claims about current institutional status should map to a source-ledger row. Conceptual explanations of pooling, adverse selection, moral hazard, deductibles, reinsurance and capital layers are common insurance economics, but the chapter briefs still identify professional or official anchors where useful.
 
-Industry research is not automatically downgraded or upgraded. It is used for information the source is well positioned to observe—such as catastrophe-bond issuance or insured-loss estimates—and paired with regulator, government or multilateral material when a public-policy claim depends on it.
+Industry research is not automatically downgraded or upgraded. It is used for information the source is well positioned to observe—such as catastrophe-bond issuance, insured-loss estimates or market engineering constraints—and paired with regulator, government or multilateral material when a public-policy claim depends on it.
+
+The source ledger contains unique documents. One document can support several chapters, but the same document should not be entered twice under different evidence labels and counted as independent corroboration.
 
 ## Falsification convention
 
