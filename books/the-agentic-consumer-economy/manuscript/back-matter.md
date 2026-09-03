@@ -2,7 +2,7 @@
 
 *The Agentic Consumer Economy* is a scenario book about a market transition that is visible but unfinished.
 
-The factual research for this draft was current through August 2026. The commercial protocols, product names, partnerships, regulatory proceedings, and platform strategies described here will change. Some will disappear. Others may become infrastructure so ordinary that nobody remembers their launch names. Future revisions should update those facts without treating today’s implementation details as the thesis.
+The factual research for this edition was current through September 2026. The commercial protocols, product names, partnerships, regulatory proceedings, and platform strategies described here will change. Some will disappear. Others may become infrastructure so ordinary that nobody remembers their launch names. Future revisions should update those facts without treating today’s implementation details as the thesis.
 
 The durable questions are about delegated demand: what changes when software can search, compare, negotiate, authorize, purchase, cancel, return, remember, and switch on behalf of a household; what complementary assets become scarce; and whether the resulting intermediary acts primarily for the consumer, the merchant, or itself.
 
@@ -13,5 +13,3 @@ Forecasts in the final chapters are deliberately conditional. They are not predi
 The research folder preserves the evidence trail and, more importantly, the conditions that would weaken the book’s argument. A later edition should be willing to discover that consumers kept clicking, that agent autonomy remained bounded, that advertising adapted without major dislocation, that platform competition stayed healthy, or that the largest welfare gains arrived somewhere this draft did not expect.
 
 A book about agents should not outsource its judgment to the trend it describes.
-
-The manuscript is a Desk complete draft, not a released Shelf edition.
