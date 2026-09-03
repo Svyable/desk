@@ -222,6 +222,140 @@ A force that cannot tolerate machine uncertainty will train machines to hide unc
 
 Metrics matter here. If systems are rewarded only for completion, they will optimize completion. If evaluation also rewards calibrated abstention, correct escalation, preservation of evidence, and graceful degradation, a different institutional personality emerges.
 
+There is a larger systems problem here that becomes obvious only when autonomy scales. One autonomous system can be governed as a machine. Thousands begin to look like an organization.
+
+They create queues, handoffs, resource conflicts, reputations, exceptions, and local conventions. Some systems become trusted sources for others. Some become bottlenecks. Some become habitual interpreters of certain evidence because they have been right before. A de facto hierarchy can emerge even if no architect designed one.
+
+The force therefore needs **agent topology awareness**.
+
+Which autonomous systems influence the largest number of downstream decisions?
+
+Which are treated as trusted authorities by peers?
+
+Where do several systems depend on the same upstream model or memory?
+
+Which local agent has accumulated enough institutional reliance that its failure would produce a cognitive single point of failure?
+
+This is the organizational version of dependency mapping.
+
+Autonomy creates not only platform risk but **social concentration among machines**.
+
+A mature architecture can limit that concentration by defining explicit epistemic contracts between systems.
+
+An epistemic contract states what kind of claim an agent is allowed to produce, what provenance must accompany it, how long the claim remains valid, and what downstream systems may infer from it.
+
+A maintenance agent can report that a platform is unavailable. It should not automatically infer the strategic meaning of that unavailability.
+
+A sensor-fusion agent can report a classification with uncertainty. A planning agent can use the report, but it should not silently upgrade the classification to certainty because the plan depends on it.
+
+Boundaries between roles reduce inference creep.
+
+This is analogous to typed interfaces in software. The type system does not make the program correct, but it prevents entire classes of accidental misuse.
+
+Machine organizations need types for claims.
+
+Observation.
+
+Estimate.
+
+Prediction.
+
+Recommendation.
+
+Commitment.
+
+Authority.
+
+These are different objects.
+
+If the infrastructure treats them all as text, the distinction exists only in human interpretation. If the infrastructure carries the distinction structurally, downstream systems can enforce different rules.
+
+This becomes especially important when an autonomous system's local state is uncertain. A claim can carry an expiration time or freshness requirement. A recommendation can carry the authority context under which it was generated. A prediction can remain explicitly conditional.
+
+The system does not merely communicate content.
+
+It communicates epistemic status.
+
+That is a prerequisite for large machine societies that do not accidentally turn every message into doctrine.
+
+There is another reason to care about topology: autonomy changes the **distribution of error**.
+
+A centralized human staff may make fewer but broader mistakes. A distributed machine force may make many local mistakes that are individually small but statistically inevitable. The institution should not judge the architecture by whether any agent ever fails. It should judge how failures propagate.
+
+A local error that dies locally may be acceptable.
+
+A local error that enters shared state and changes hundreds of other agents is not.
+
+This suggests a design objective of **epistemic firebreaks**.
+
+Some claims should not propagate automatically beyond their scope.
+
+Some actions should require a second independent confirmation before they change shared state.
+
+Some local model outputs should remain provisional until reconciled.
+
+The system can permit local initiative while limiting global contagion.
+
+This is how distributed autonomy can become more robust than centralized automation rather than merely more numerous.
+
+Autonomy also needs a lifecycle. Systems are often evaluated before deployment and monitored afterward, but an inference-age force should think in terms of **authority maturity**.
+
+A new agent begins with narrow scope. It accumulates evidence. The institution observes calibration, abstention, recovery, and behavior under novelty. Authority may expand if performance justifies it. It can also contract.
+
+This is important because trust should be reversible.
+
+A machine that performed well last year may face a changed environment this year. A model update may alter behavior. New adversarial conditions may invalidate old confidence. Authority should be capable of shrinking without the organization treating that as failure or humiliation.
+
+Humans understand promotion better than demotion. Machine governance cannot afford that bias.
+
+A force that only expands automation will eventually automate beyond its evidence.
+
+Authority should follow demonstrated competence under current conditions, not historical prestige.
+
+There is a parallel human problem. Operators supervising autonomous systems can lose skill if the machine performs routine judgment continuously. When the exceptional case finally arrives, the human may possess formal authority but lack recent practice.
+
+This is **supervisory atrophy**.
+
+The answer is not to force people to duplicate every machine task. It is to maintain enough independent practice that human authority remains usable.
+
+Selected cases can be run without machine recommendations first.
+
+Operators can review disagreements after the fact.
+
+Training can include model failures and ambiguous evidence rather than only normal operation.
+
+The institution can track whether humans can still reconstruct the evidence path when they need to challenge it.
+
+This turns human-machine teaming into a readiness problem.
+
+Not merely: is the model ready?
+
+Is the **supervision relationship** ready?
+
+That relationship includes trust calibration, access to evidence, procedural time, and cultural permission to disagree.
+
+A high-performing autonomous force that has hollowed out its ability to supervise may be less resilient than a somewhat slower force whose humans and machines remain mutually legible.
+
+The political and legal dimension follows naturally. Consequential machine action occurs under institutional authority. If an autonomous system acts within a delegated mandate, the organization must still be able to explain who created the mandate, what conditions limited it, and what review occurs afterward.
+
+Accountability cannot terminate at the machine because the machine is part of the institution.
+
+This does not require pretending every internal computation is interpretable. It requires traceable governance.
+
+Who authorized this class of behavior?
+
+What evidence supported the delegation?
+
+Which version operated?
+
+What was known when the action occurred?
+
+What changed afterward?
+
+These are answerable questions if the architecture was designed to preserve them.
+
+They are almost impossible to reconstruct if autonomy is treated as a black box that merely produced a result.
+
 This is where autonomy becomes a governance problem in the deepest sense.
 
 The organization decides what kind of epistemic actor it wants to create.
@@ -242,4 +376,4 @@ It is a temporary, situated participant in a force's attempt to understand an ad
 
 Its value depends on how well it acts.
 
-Its safety depends on how well it knows what it does not know.
+Its safety depends on how well it knows what it does not know—and how little damage its wrongness can do before the larger institution notices.
