@@ -6,13 +6,13 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf public proof |
-| **Chapters**  | 14 complete of 18 planned |
+| **Chapters**  | 15 complete of 18 planned |
 
 *The Birth of a New Force in the Economy*
 
-The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. The book follows the consequences when software begins to behave partly like labor and partly like capital—changing the cost of delegation, the shape of firms, queues and coordination, entrepreneurship, management, wages, ownership, and responsibility.
+The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. The book follows the consequences when software begins to behave partly like labor and partly like capital—changing the cost of delegation, the shape of firms, queues and coordination, entrepreneurship, management, wages, ownership, verification, and responsibility.
 
-This is an incomplete working draft. Chapters 15–18 remain to be drafted before the manuscript can be considered complete.
+This is an incomplete working draft. Chapters 16–18 remain to be drafted before the manuscript can be considered complete.
 
 ## Contents
 
@@ -31,6 +31,7 @@ This is an incomplete working draft. Chapters 15–18 remain to be drafted befor
 - [x] [Ch 12 — The Skill of Having Work Done](manuscript/ch12-the-skill-of-having-work-done.md)
 - [x] [Ch 13 — Wages Without Workers](manuscript/ch13-wages-without-workers.md)
 - [x] [Ch 14 — Who Owns the Agentile Force](manuscript/ch14-who-owns-the-agentile-force.md)
+- [x] [Ch 15 — The Verification Economy](manuscript/ch15-the-verification-economy.md)
 
 ## Research
 
@@ -42,3 +43,4 @@ This is an incomplete working draft. Chapters 15–18 remain to be drafted befor
 - [Chapter 11 — The New Middle Management research note](research/ch11-new-middle-management.md)
 - [Chapter 13 — Wages Without Workers research note](research/ch13-wages-without-workers.md)
 - [Chapter 14 — Who Owns the Agentile Force research note](research/ch14-who-owns-the-agentile-force.md)
+- [Chapter 15 — The Verification Economy research note](research/ch15-verification-economy.md)
