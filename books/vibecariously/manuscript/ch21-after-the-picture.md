@@ -247,3 +247,109 @@ A medium does not decide what its users become. It changes the incentives, the d
 The picture has arrived.
 
 Now we have to decide what to do after it.
+
+## Commitment is the last render
+
+One answer is commitment.
+
+A possibility becomes different when we choose it at the expense of other possibilities.
+
+Before commitment, an apartment is a mood board. After signing the lease, it is where the boxes go. Before commitment, a company is a brand system, a pitch, a projected culture, a set of names, and a hundred possible futures. After commitment, there are employees, customers, payroll, defects, and Tuesdays. Before commitment, a novel can be any of five structures. After commitment, one chapter has to follow another and the unused structures become ghosts.
+
+Generative systems make the pre-commitment field wider. They can show more versions, suggest more branches, and make abandoned paths vivid enough to feel almost lived.
+
+That can improve decisions.
+
+It can also make choosing harder.
+
+The person who has seen twenty beautiful kitchens may feel less certain about the one they can afford. The founder who can generate endless strategic narratives may delay the discipline of building one company. The writer who can preview ten voices may struggle to inhabit one long enough for it to become strange and specific. The traveler who can simulate every itinerary may experience the actual trip as one imperfect selection among richer previews.
+
+Abundant possibility produces its own form of loss: the felt presence of everything not chosen.
+
+This is not new. Human beings have always imagined unlived lives. What changes is their resolution.
+
+The unlived life can now send pictures.
+
+That means commitment may become a more important imaginative skill. Not the opposite of imagination, but its completion. To make something real is to close many branches deliberately enough that the selected branch can accumulate history.
+
+History requires repetition.
+
+A craft becomes yours because you return to it after novelty fades. A place becomes home because ordinary days pile up. A relationship becomes particular because two people continue after the first possible versions of each other collapse. A style becomes recognizable because a maker keeps making choices under constraint instead of resetting the prompt every morning.
+
+Generative culture will tempt us toward perpetual beginnings.
+
+Beginnings are where models shine. New concepts. New looks. New names. New structures. New worlds. New selves. The first twenty percent of a project is often the most generatively exciting because the field is still open.
+
+The last twenty percent is where possibility becomes obligation.
+
+The transitions have to work. The budget has to close. The citations have to be checked. The software has to survive maintenance. The building detail has to drain water. The ending has to earn the beginning. The person has to live with what they chose.
+
+There is imagination there too, but it has a different texture. It is the imagination of repair, compromise, endurance, and specificity.
+
+AI can help with this phase. It can debug, compare, summarize, track inconsistencies, surface edge cases, generate alternatives within narrow constraints, and reduce the administrative drag that makes finishing painful.
+
+But no amount of assistance removes the existential fact of closing the field.
+
+At some point, the next version is not better because it is another version.
+
+It is merely another branch.
+
+The work needs a trunk.
+
+## A practice for after the picture
+
+So what does a healthy imaginative practice look like when possibility can answer back?
+
+It begins by separating exploration from belief.
+
+Generate widely, but label the outputs accurately. A scenario is not a forecast. A reconstruction is not a memory. A synthetic user is not a customer. A visual concept is not an engineered object. A fluent explanation is not verified knowledge. A persuasive self-portrait is not destiny.
+
+Then preserve an unassisted first move often enough to know what your own mind does before the system enters. Not because purity matters, but because comparison matters. If every thought arrives already entangled with generated continuations, it becomes difficult to notice which habits are yours, which are borrowed, and which have changed.
+
+Then ask for distance, not only fit. Ask for the unfamiliar reference, the hostile interpretation, the version outside your style, the failure case, the assumption you forgot to question. Use the machine's breadth against the narrowing effects of personalization.
+
+Then move toward contact.
+
+Call the person. Visit the place. Touch the material. Run the experiment. Build the ugly prototype. Read the primary source. Show the draft to someone who did not help make it. Let the world answer in a channel the model does not control.
+
+Then commit.
+
+Choose a version before exhaustion chooses for you. Finish something. Publish, build, perform, send, plant, wear, teach, cook, ship, or discard. Give the imagined object a consequence.
+
+Then keep some things unrendered.
+
+Not every desire needs a visualization. Not every memory needs enhancement. Not every possible self needs a face. Not every private metaphor improves when it becomes content. Interior life deserves spaces without an export button.
+
+None of these practices requires hostility toward generative AI. They assume the opposite: that the tools are powerful enough to deserve habits rather than novelty reactions.
+
+A mature medium is not one we praise or fear correctly.
+
+It is one we know how to live with.
+
+Photography did not end seeing. Recording did not end music. Search did not end memory. Maps did not end place. Writing did not end speech.
+
+Each technology changed what the old faculty meant by giving some parts of it to an external system.
+
+Generative AI does something similar to imagination. It externalizes possible form before commitment, sometimes before understanding, and increasingly before skill would once have allowed.
+
+That is enormous.
+
+It is not everything.
+
+The machine can help us see a future.
+
+It cannot make us want the right one.
+
+It can help us try on a self.
+
+It cannot live the days required to become that person.
+
+It can make the picture.
+
+It cannot pay the full price of what the picture promises.
+
+That remains our part.
+
+The picture has arrived.
+
+The life after the picture is still unwritten.
