@@ -40,3 +40,7 @@
 - [First-edition release review](research/release-review.md)
 
 This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment faking, evaluation awareness, covert action, chain-of-thought unfaithfulness, and the difficulty of supervising a system that can model its supervisor. It distinguishes controlled demonstrations from deployment evidence and does not assume that machine behavior requires human-like consciousness, beliefs, or motives.
+
+## Publication note
+
+Desk remains the canonical working edition and intentionally remains `Complete draft`. The first Shelf snapshot is frozen from Desk commit `bee7dc9d987003184ece5f2fb86d69518625b55a` for the September 2026 release transaction; later Desk changes do not silently rewrite that Shelf edition.
