@@ -323,3 +323,41 @@ Then it has to ask what disappeared from the page because the treatment worked.
 A recurrence prevented has no invoice.
 
 That absence may be the most valuable line of all.
+
+The bundle also complicates evidence attribution after launch.
+
+A positive combination trial establishes that the tested strategy outperformed its comparator. It does not automatically tell the payer how much of the incremental benefit should be credited economically to each component. The checkpoint inhibitor may already have an established standalone effect. The vaccine may supply the increment. The interaction between them may be the actual therapeutic object.
+
+Pricing systems prefer separable products.
+
+Biology may prefer complements.
+
+That tension creates a bargaining problem when the two products belong to different companies. Each firm can point to the other as necessary while negotiating for its own share of the value. A payer may have leverage over the mature checkpoint drug but none over the novel personalized product, or the reverse in another market. The final regimen price can reflect corporate boundaries as much as scientific ones.
+
+One response is indication-specific contracting around the regimen rather than the molecule.
+
+The payer can ask what the complete treatment strategy costs for the defined population and compare that with the expected downstream care avoided. Manufacturers can still settle revenue between themselves under private agreements. The health system buys the result it is actually trying to produce.
+
+That model becomes more plausible when combination benefit is large and the patient population is clearly defined.
+
+It becomes more dangerous when the bundle includes components that later prove unnecessary.
+
+So every successful bundle should carry a de-bundling agenda.
+
+Can the checkpoint duration be shortened?
+
+Can lower-risk patients omit the vaccine?
+
+Can a biosimilar backbone substitute?
+
+Can ctDNA identify patients who need intensification rather than treating everyone?
+
+Can immune monitoring show that some patients require fewer doses?
+
+These are not attacks on the breakthrough.
+
+They are how a breakthrough becomes affordable infrastructure instead of a permanently maximal regimen.
+
+The first trial proves what works together.
+
+The next generation should learn what no longer has to stay together.
