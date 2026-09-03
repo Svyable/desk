@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 67 book projects · 33 complete drafts · 1 in revision · 33 drafting**
+> **Desk: 68 book projects · 34 complete drafts · 1 in revision · 33 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 28 author projects · 26 released · 2 public drafts/proofs**
-> **Where they live: 28 in both Desk + Shelf · 39 Desk-only · 0 Shelf-only**
-> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 28 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
+> **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -48,7 +48,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [America's Got a Spending Problem](books/americas-got-a-spending-problem/), [Gatekeepers](books/gatekeepers/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [America's Got a Spending Problem](books/americas-got-a-spending-problem/), [Gatekeepers](books/gatekeepers/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Risk Pool](books/the-risk-pool/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -117,6 +117,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | 25 of 25 | 90,311 | The book's central claim is deliberately operational rather than metaphysical: persistent intelligence is a durable causal identity, not necessarily a durable cognitive process. | [Read →](https://svyable.github.io/desk/reader/#/b/the-never-ending-intelligence/) |
 | [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter; 35 chapters planned | 891 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
 | [**The Reliability Tax**](books/the-reliability-tax/) | ✍️ Drafting | 18 of 18 | 17,815 | The working thesis is that modern economies systematically undervalue redundancy, slack, reversibility and alternative pathways because their costs are visible every quarter while their… | [Read →](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
+| [**The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt**](books/the-risk-pool/) | ✅ Complete draft | 22 of 22 | ~75K | Insurance as the hidden permission system of modern economic life: risk pools, catastrophe capital, public backstops, climate, cyber, AI, and who ultimately pays when private promises fail. | [Read →](https://svyable.github.io/desk/reader/#/b/the-risk-pool/) |
 | [**The Search Frontier**](books/the-search-frontier/) | ✍️ Drafting | 20 of 20 | 66,372 | The central argument is that as generating options becomes cheaper, advantage migrates toward the systems that can decide which possibilities deserve attention, test them against reality… | [Read →](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
 | [**The Second Order**](books/the-second-order/) | ✍️ Drafting | 20 of 20 | 62,436 | The central argument is that prediction and measurement become governance when decisions are attached to them. | [Read →](https://svyable.github.io/desk/reader/#/b/the-second-order/) |
 | [**The Swarm: Agents in the Wild**](books/the-swarm-agents-in-the-wild/) | ✍️ Drafting | 29 of 29 working chapters | 56,912 | A narrative field guide to synthetic ecology: what changes when agents gain memory, tools, budgets, identity, reputation, and one another, then begin to participate in markets and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-swarm-agents-in-the-wild/) |
