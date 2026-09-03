@@ -3,9 +3,10 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Complete draft |
+| **Status**    | Complete draft · Published on Shelf |
 | **Chapters**  | 25 of 25 drafted |
-| **Edition**   | First-release candidate · September 2026 |
+| **Publication** | First edition · September 2026 |
+| **Public Reader** | [Read the published Shelf edition →](https://svyable.github.io/shelf/reader/#/b/adjacency/) |
 
 How the Vector Space Is Revolutionizing Discovery.
 
@@ -45,6 +46,6 @@ How the Vector Space Is Revolutionizing Discovery.
 - [Source ledger](research/source-ledger.csv)
 - [Release review — 2026-09-02](research/release-review-2026-09-02.md)
 
-The Desk edition remains a working complete draft until deliberately released to Shelf. The September 2026 release review clears this manuscript as a first-release candidate while preserving its evidence boundaries and counterclaims.
+This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Svyable Shelf](https://github.com/Svyable/shelf/tree/main/books/adjacency) in September 2026; later Desk edits do not silently rewrite that edition. The September 2026 release review cleared the first edition while preserving its evidence boundaries and counterclaims.
 
 - [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/adjacency/)
