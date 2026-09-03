@@ -20,7 +20,7 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v6';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v7';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
@@ -43,6 +43,13 @@ for (const dependency of [
   'dialog-focus-runtime.js',
 ]) {
   assert.match(worker, new RegExp(`'js/${dependency.replaceAll('.', '\\.')}'`));
+}
+for (const dependency of [
+  'css/media-resilience.css',
+  'js/media-resilience-model.js',
+  'js/media-resilience.js',
+]) {
+  assert.match(worker, new RegExp(`'${dependency.replaceAll('.', '\\.')}'`));
 }
 assert.doesNotMatch(worker, /offline-readiness/);
 assert.doesNotMatch(worker, /'css\/one-handed-actions\.css'/);
@@ -70,4 +77,4 @@ assert.match(bridge, /window\.__IMPRINT\?\.role === 'desk'/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: 48 assertions passed');
+console.log('Desk PWA source contract: 51 assertions passed');
