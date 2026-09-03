@@ -322,6 +322,224 @@ These are not side concerns around AI adoption.
 
 They are the infrastructure of military inference.
 
+The economic consequences follow from that infrastructure.
+
+For most of military history, expert analysis has been expensive enough that organizations rationed it. Staff time was scarce. Specialized knowledge was concentrated. Running one more serious alternative analysis meant taking somebody away from another task.
+
+Machine reasoning changes the budget constraint.
+
+That does not make analysis free. It changes the relative cost of exploration.
+
+A headquarters can afford more branches.
+
+A logistics organization can maintain more counterfactuals.
+
+A software team can test more candidate changes.
+
+A research organization can keep more dormant questions alive.
+
+This creates a military version of the verification economy: **generation falls in price faster than proof**.
+
+The consequence is that institutions may drown in advice while starving for trusted evidence.
+
+That possibility should shape procurement now.
+
+Buying more model capacity without investing in evaluation, provenance, data quality, independent sensing, secure identity, and human review can create a force rich in inference and poor in truth.
+
+The invisible supporting layers may therefore become more valuable than the visible model.
+
+This changes what an AI budget means.
+
+Compute is one line.
+
+Evaluation is another.
+
+Data stewardship.
+
+Simulation.
+
+Red teams.
+
+Network resilience.
+
+Model diversity.
+
+Human training.
+
+Memory governance.
+
+Audit infrastructure.
+
+Recovery exercises.
+
+The useful question is not, "How much are we spending on AI?"
+
+It is, "How much are we spending on the entire chain that lets machine reasoning become justified institutional action?"
+
+That is the real inference budget.
+
+The concept also changes military capital. A unit accumulates more than hardware and training. It accumulates **epistemic capital**.
+
+Years of evaluated cases.
+
+Known model failure modes.
+
+Well-structured event history.
+
+Trusted source relationships.
+
+Strong challenge culture.
+
+Reusable tests.
+
+Proven procedures for degraded operation.
+
+Human supervisors who know where the system tends to break.
+
+This capital compounds.
+
+Two forces using similar models can therefore diverge dramatically over time. One treats each deployment as a product installation. The other turns every consequential episode into institutional learning.
+
+The second force becomes harder to imitate because the advantage lives in accumulated local evidence, not merely purchased technology.
+
+This may be the durable military moat of the inference age.
+
+Models diffuse.
+
+Experience does not diffuse as easily.
+
+But experience can become a liability too. Old assumptions fossilize. Evaluation suites reward yesterday's performance. A long memory can preserve yesterday's enemy. The force therefore needs a mechanism for **epistemic depreciation**.
+
+Some knowledge should lose weight when conditions change.
+
+Some tests should be retired.
+
+Some historical analogies should be marked as stale.
+
+Some authority earned under one model generation should be revalidated under the next.
+
+Epistemic capital needs maintenance just like physical capital.
+
+This prevents continuity from becoming inertia.
+
+The political economy matters as well. Much of the underlying AI infrastructure may remain commercial. Models, chips, cloud services, developer tools, communications, and data services can come from firms whose primary markets are civilian.
+
+That creates strategic dependence but also strategic dynamism.
+
+Commercial systems may improve rapidly. Military organizations can inherit capability without training every model themselves. The cost is that commercial update cycles, safety policies, licensing, supply chains, and business incentives may become part of force readiness.
+
+A mature military inference architecture should therefore separate **cognitive continuity from vendor continuity**.
+
+The model can change.
+
+The institution should retain its memory, evidence, evaluation, policy, identity, and authority structure.
+
+This is credible cognitive exit applied to defense.
+
+A force unable to migrate its reasoning substrate is not fully sovereign over its inference system.
+
+This does not imply every component must be domestically built or open source. Sovereignty is the capacity to continue governing the system under changed conditions.
+
+Can the institution move?
+
+Can it verify?
+
+Can it reconstruct?
+
+Can it replace the thinker without replacing the memory of why the force behaves as it does?
+
+These questions belong beside traditional industrial-base questions.
+
+There is a personnel implication too.
+
+If machine staffs multiply analytical capacity, the military may need fewer people doing some forms of routine synthesis and more people skilled in evidence design, model evaluation, system architecture, verification, red teaming, software, and authority governance.
+
+The human advantage is not one permanent trait the machine lacks.
+
+It is institutional standing in consequence.
+
+Humans authorize.
+
+They carry political responsibility.
+
+They decide which risks are legitimate.
+
+They define what the force is for.
+
+But those responsibilities become hollow if humans lack enough technical and domain understanding to exercise them.
+
+Education therefore shifts.
+
+Future officers and analysts need to understand not merely how to use AI systems but how inference systems fail.
+
+Correlated evidence.
+
+Calibration.
+
+Provenance.
+
+Distribution shift.
+
+Automation bias.
+
+Model disagreement.
+
+Memory contamination.
+
+Network partitions.
+
+Evaluation gaming.
+
+The education of the inference force is partly the education of skeptical supervisors.
+
+This should not produce a generation of officers who distrust machines reflexively. Reflexive distrust is another form of poor calibration.
+
+The objective is **earned trust**.
+
+Know what the system does well.
+
+Know the evidence supporting that judgment.
+
+Know when conditions changed enough that the judgment should be reopened.
+
+That is professional competence in a machine-rich institution.
+
+The same principle scales to alliances. Coalition superiority may depend less on sharing one perfect model than on sharing enough epistemic standards that different models and national systems can cooperate.
+
+What counts as direct observation?
+
+How is confidence represented?
+
+How is provenance carried?
+
+How are model versions disclosed when behavior matters?
+
+How are machine-generated recommendations distinguished from national commitments?
+
+How can one ally contest another's inference without breaking the coalition process?
+
+These become alliance standards.
+
+The inference-age alliance is a cognitive federation.
+
+Its strength comes partly from diversity and partly from the ability to reconcile diversity without forcing false consensus.
+
+This is an underappreciated advantage of plural institutions. Several allies with different sensors, models, histories, and cultures can create independent evidence that one homogeneous system cannot.
+
+The friction is real.
+
+So is the resilience.
+
+The future force should learn to treat some friction as information.
+
+If two national systems disagree, do not rush immediately to eliminate the disagreement. Ask what produced it. Different source access? Different model assumptions? Different political risk tolerance? Different interpretation of doctrine?
+
+The disagreement may reveal the hidden variable.
+
+This is the same logic that applies inside machine staffs.
+
+Plural minds create value when the institution knows how to preserve and interrogate difference.
+
 The final strategic advantage may therefore be less dramatic than the public imagination expects.
 
 It is not the machine that sees everything.
