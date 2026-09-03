@@ -178,7 +178,7 @@ That is a harder question because it admits that insurance has a social design.
 
 The cheapest possible insurance for the safest people is not automatically the best insurance system.
 
-Nor is universal cross-subsy automatically fair.
+Nor is universal cross-subsidy automatically fair.
 
 A homeowner who spends thousands hardening a roof may reasonably object to paying the same as a neighbor who does nothing. A careful driver may resent a rate that ignores behavior. A low-income family may be unable to afford the premium that accurately reflects a risk inherited from neighborhood infrastructure rather than personal choice.
 
