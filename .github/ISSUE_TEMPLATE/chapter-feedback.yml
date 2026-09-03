@@ -28,6 +28,7 @@ body:
         - silent-cartel
         - useful-noise
         - synthetic-intelligence
+        - the-useful-body
         - _TEMPLATE
     validations:
       required: true
