@@ -1,12 +1,12 @@
 # Notes to the Field Edition
 
-[^1]: OpenAI, “New tools for building agents” (March 2025), introducing the Responses API and Agents SDK primitives including tools, handoffs, guardrails, and tracing; and OpenAI, “The next evolution of the Agents SDK” (April 15, 2026), describing native sandbox execution for long-horizon agent work.
+[^1]: OpenAI, “New tools for building agents” (March 11, 2025), documenting the Responses API, tool use, multi-agent orchestration, handoffs, guardrails, tracing, and observability; and OpenAI, “The next evolution of the Agents SDK” (April 15, 2026), documenting native sandbox execution, configurable memory, files and command execution, separation of harness and compute, and isolated or parallel sandbox use. Both are first-party developer documentation rather than independent evaluations.
 
-[^2]: Model Context Protocol project, “The 2026-07-28 Specification” (July 28, 2026), describing the stateless protocol core, authorization changes, multi-round-trip requests, task support, and extensions framework.
+[^2]: Model Context Protocol project, “The 2026-07-28 Specification” (July 28, 2026). The release documents a stateless protocol core, Multi Round-Trip Requests, `Mcp-Method` and `Mcp-Name` routing headers, cacheable capability/resource lists, authorization hardening including issuer validation and credential binding, a formal extensions framework, and the Tasks extension.
 
-[^3]: Linux Foundation, “Linux Foundation Launches the Agent2Agent Protocol Project” (June 23, 2025), and “A2A Protocol Surpasses 150 Organizations...” (April 9, 2026). The latter reports more than 150 supporting organizations, major-cloud integration, and production deployments in several industries.
+[^3]: Linux Foundation, “Linux Foundation Launches the Agent2Agent Protocol Project...” (June 23, 2025), documenting A2A’s move into vendor-neutral foundation governance after originating at Google; and “A2A Protocol Surpasses 150 Organizations...” (April 9, 2026), reporting more than 150 supporting organizations, integration across Google, Microsoft, and AWS platforms, and production deployments in several industries. The adoption figures are Linux Foundation-reported rather than an independent census.
 
-[^4]: OpenAI Academy materials on workspace agents and 2026 Agents SDK builder sessions describe repeatable workflows built around tools, routing, handoffs, guardrails, tracing, and evaluation.
+[^4]: A2A Protocol project, “A2A Protocol Specification v0.3.0.” The specification defines Agent Cards for discovery and capability declaration; stateful Tasks; Messages and Artifacts; task retrieval and cancellation; streaming and asynchronous updates; and interoperability that does not require collaborating agents to disclose internal reasoning or implementation details.
 
 [^5]: Anthropic, “How we built our multi-agent research system” (June 13, 2025). The engineering post describes the production orchestrator-worker architecture, reports a 90.2 percent improvement over a single-agent baseline on an internal breadth-first research evaluation, and reports that multi-agent systems used roughly fifteen times as many tokens as ordinary chat interactions. These are Anthropic’s internal measurements and should not be treated as independent benchmark results.
 
