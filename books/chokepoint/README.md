@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 4 of 20 drafted |
+| **Chapters**  | 6 of 20 drafted |
 
 The Hidden War for the Metals That Run the World.
 
@@ -23,8 +23,8 @@ The aim is not to predict which country wins the mineral race. It is to make the
 - [x] [Ch 2 — Everything Runs on Rock](manuscript/ch02-everything-runs-on-rock.md)
 - [x] [Ch 3 — The Oil Analogy, Examined](manuscript/ch03-the-oil-analogy-examined.md)
 - [x] [Ch 4 — Copper: The Original Chokepoint](manuscript/ch04-copper-the-original-chokepoint.md)
-- [ ] [Ch 5 — The Lithium Triangle](manuscript/ch05-the-lithium-triangle.md)
-- [ ] [Ch 6 — Congo's Cobalt](manuscript/ch06-congos-cobalt.md)
+- [x] [Ch 5 — The Lithium Triangle](manuscript/ch05-the-lithium-triangle.md)
+- [x] [Ch 6 — Congo's Cobalt](manuscript/ch06-congos-cobalt.md)
 - [ ] [Ch 7 — Nickel and the Indonesian Gambit](manuscript/ch07-nickel-and-the-indonesian-gambit.md)
 - [ ] [Ch 8 — Rare Earths and the Refining Monopoly](manuscript/ch08-rare-earths-and-the-refining-monopoly.md)
 - [ ] [Ch 9 — The Weaponization of Supply Chains](manuscript/ch09-the-weaponization-of-supply-chains.md)
