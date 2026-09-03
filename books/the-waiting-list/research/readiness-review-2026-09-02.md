@@ -2,13 +2,13 @@
 
 ## Verdict
 
-**Remain `Drafting`.** The manuscript is structurally complete at 20 of 20 numbered chapters and has a proportional chapter-level evidence trail, matching rights files, front matter, prologue, epilogue, and back matter. The Desk discovery/catalog blocker identified in the original review has since been closed, and the four shorter depth candidates prioritized by this review have received evidence-led manuscript revisions. The remaining blocker is objective local verification: the exact per-chapter and total manuscript word-count gates, followed by `python3 scripts/check-desk.py`, have not been executed in this connector-only environment.
+**Remain `Drafting`.** The manuscript is structurally complete at 20 of 20 numbered chapters and has a proportional chapter-level evidence trail, matching rights files, front matter, prologue, epilogue, and back matter. The Desk discovery/catalog blocker identified in the original review has since been closed. The six shorter chapters identified by the original byte-size triage have all received evidence-led depth revisions, and subsequent passes have deepened Chapters 1 and 4 and strengthened source discipline in Chapters 5, 6, 7, 12, and 19. The remaining blocker is objective local verification: the exact per-chapter and total manuscript word-count gates, followed by `python3 scripts/check-desk.py`, have not been executed in this connector-only environment.
 
 Do not promote the canonical book README to `Complete draft` until that remaining verification is closed.
 
 ## Standard checked
 
-This review applies the current `AGENTS.md`, `docs/book-brief-standard.md`, and `.agents/skills/human-prose/SKILL.md` on `main` as of September 2, 2026.
+This review applies the current `AGENTS.md`, `docs/book-brief-standard.md`, and `.agents/skills/human-prose/SKILL.md` on `main` as of September 3, 2026.
 
 The automated full-book floor relevant here is at least 18 numbered chapters, at least 3,000 words per chapter with most chapters normally 3,500–4,500 words, at least 65,000 manuscript words excluding front/back matter and research, a proportional checkable research trail with falsification notes, matching `RIGHTS.md` and `rights.json`, and synchronized Desk discovery/catalog surfaces.
 
@@ -39,14 +39,18 @@ The original shortest chapter files by byte size were:
 - Chapter 10, `School Choice, Rebuilt` — 17,822 bytes; and
 - Chapter 7, `The Man Who Fixed the Medical Match` — 17,901 bytes.
 
-The four first-priority depth candidates have since been revised rather than padded:
+All six of those triage candidates have since been revised rather than padded:
 
-- Chapter 11 now develops the legibility tradeoff between a visible taxi queue and private dynamic dispatch, including driver-side waiting and competing rider/driver allocation objectives.
-- Chapter 13 now separates priority, appointment access, and throughput, including the implementation friction created by verification, site capacity, inventory movement, and access constraints.
-- Chapter 8 now treats scheduling, operating-room capacity, testing, donor availability, transport, and coordination as part of the kidney-exchange mechanism rather than as administrative debris around a compatibility graph.
-- Chapter 9 now develops the theory/practice and credit boundary across mathematical results, institutional redesign, administrators, programmers, clinicians, coordinators, participants, and political adoption.
+- Chapter 11 develops the legibility tradeoff between a visible taxi queue and private dynamic dispatch, including driver-side waiting and competing rider/driver allocation objectives.
+- Chapter 13 separates priority, appointment access, and throughput, including the implementation friction created by verification, site capacity, inventory movement, and access constraints.
+- Chapter 8 treats scheduling, operating-room capacity, testing, donor availability, transport, and coordination as part of the kidney-exchange mechanism rather than as administrative debris around a compatibility graph.
+- Chapter 9 develops the theory/practice and credit boundary across mathematical results, institutional redesign, administrators, programmers, clinicians, coordinators, participants, and political adoption.
+- Chapter 10 separates the value of a common clearing process from the choice of matching algorithm and preserves the countercase that centralization can scale mistakes or suppress local knowledge.
+- Chapter 7 develops why computational experiments matter when couples and complementarities break clean textbook assumptions, while distinguishing theoretical counterexamples from operational failure rates at institutional scale.
 
-Those revisions materially deepen the exact chapters the original audit identified as first candidates while preserving their existing factual boundaries. They do not establish that every chapter clears 3,000 words or that the qualifying manuscript total clears 65,000 words. `scripts/catalog.py` contains the repository's Markdown word-count implementation, but it still cannot be executed from the connected GitHub-only environment used here.
+Two additional early chapters have also received earned depth. Chapter 1 now distinguishes reimbursement from compensation and examines how legal saleability can change bargaining pressure even without a completed sale. Chapter 4 now distinguishes bilateral bidding, fixed public compensation, and illegal brokerage by who sets payment, who can bid, who bears risk, and who captures scarcity rents.
+
+These revisions materially deepen the chapters identified by the audit without adding another restatement of the book's scarcity thesis. They still do not establish that every chapter clears 3,000 words or that the qualifying manuscript total clears 65,000 words. `scripts/catalog.py` contains the repository's Markdown word-count implementation, but it has not been executed against the current candidate state in this connected environment.
 
 If local counting identifies any remaining short chapter, deepen it with a real case, countercase, mechanism boundary, or implementation consequence from the existing research trail; do not pad it merely to satisfy the count.
 
@@ -56,7 +60,9 @@ Every numbered chapter has a dedicated chapter-level evidence/falsification note
 
 The research brief explicitly preserves disconfirming cases rather than treating non-price allocation as automatically superior. It records that markets can outperform queues where ethical constraints permit them, stable matching does not settle upstream priority choices, algorithmic matching can hide bias, informal rationing can outperform formal mechanisms under some conditions, celebrated market-design cases are a selected sample, and allocation reform can distract from a deeper supply shortage.
 
-The dedicated chapter notes reviewed in this pass do not identify an unresolved factual correction that requires withholding the manuscript. Important boundaries remain explicit: organ-sale law does not make transplantation money-free; the 2012 economics prize recognized distinct theory and practice contributions; Uber's public marketplace pages do not expose its complete proprietary dispatch system; ACIP recommendations were advisory rather than one binding national allocation law; and kidney exchange expands feasible living donation without solving the kidney shortage.
+Recent source passes strengthened several factual boundaries. Chapter 5's Ticketmaster/Live Nation note now distinguishes the June 2026 proposed final judgment from adjudicated findings. Chapter 6's incentive discussion is anchored directly to Dubins–Freedman and Roth so proposer-side truthful-reporting protection is not confused with universal strategy-proofness. Chapter 7 uses the May 14, 2025 congressional hearing date and 2026 Main Residency Match figures rather than a loose recency or scale claim. Chapter 12 limits its quantitative dating-platform result to the cited field experiment. Chapter 19 distinguishes operative AI rules from proposed or deferred obligations in the European Union and Colorado.
+
+The dedicated chapter notes do not identify an unresolved factual correction that requires withholding the manuscript. Important boundaries remain explicit: organ-sale law does not make transplantation money-free; the 2012 economics prize recognized distinct theory and practice contributions; Uber's public marketplace pages do not expose its complete proprietary dispatch system; ACIP recommendations were advisory rather than one binding national allocation law; and kidney exchange expands feasible living donation without solving the kidney shortage.
 
 ## Continuity and prose
 
