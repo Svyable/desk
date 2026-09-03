@@ -326,6 +326,36 @@ Society should be generous before success because research is uncertain.
 
 It should be less forgetful after success because infrastructure has value.
 
+The public option can also be contractual rather than physical.
+
+A government may not need to own a factory if it can buy an enforceable right to capacity. A procurement agreement can reserve manufacturing slots during shortage, require geographic service levels, or trigger technology-transfer provisions if the sole supplier exits an indication. A public payer can purchase continuity rather than pills.
+
+That distinction matters because ownership is expensive.
+
+Maintaining a facility that must stay current across rapidly changing RNA, peptide and cell technologies could become a poor use of public capital. Contractual capacity can preserve leverage while leaving routine optimization with firms that specialize in it. The public role becomes specifying the failure it cannot tolerate and paying explicitly to prevent it.
+
+This is similar to other critical infrastructure markets.
+
+Airlines remain private while governments define safety and, in some contexts, subsidize service to places the market would undersupply. Electricity generators can be private while system operators pay for reserve capacity. Pharmaceutical production can remain private while public purchasers treat resilience, interoperability and minimum access as purchased attributes rather than charitable extras.
+
+Personalized medicine will need the same vocabulary.
+
+Price for the dose.
+
+Price for readiness.
+
+Price for data return.
+
+Price for geographic reach.
+
+Price for a second source.
+
+Once those values are separated, the public bargain becomes easier to audit. A company can charge for providing a capability society genuinely wants. A government can stop pretending that the cheapest invoice necessarily buys the most resilient system.
+
+The point of a public option is not to prove that public institutions can outperform private ones at every layer.
+
+It is to make abandonment, opacity and single-supplier dependence choices rather than inevitabilities.
+
 The cancer key was never made by one hand.
 
 There is no reason its benefits should depend on one either.
