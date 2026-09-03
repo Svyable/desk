@@ -64,7 +64,7 @@ Senator John Hickenlooper made that argument immediately, calling the proposal d
 
 If the final Space Academy looks primarily military, Colorado Springs becomes both the most obvious site and the strongest argument against building a second school at all.
 
-Why construct a new campus in the same professional ecosystem when an existing federal academy is already commissioning roughly ninety Space Force officers a year?
+Why construct a new campus in the same professional ecosystem when an existing federal academy is already commissioning Space Force officers?
 
 The commission would need a clear answer.
 
@@ -154,6 +154,32 @@ A federal capital teaches policy and bureaucracy.
 
 No choice is neutral.
 
+The commission also needs an eleventh criterion that older academy site competitions did not have to treat the same way: network value.
+
+The Space Academy's subject is already geographically distributed.
+
+Human spaceflight expertise is concentrated in one set of places. Military operations in another. Launch in another. intelligence and policy in others. Manufacturing, software and research spread across still more regions.
+
+No campus can contain the national space enterprise.
+
+The permanent site should therefore be judged partly by how effectively it can connect students to places that are not nearby.
+
+That could mean transportation access, secure networking, agreements for semester rotations, faculty-exchange mechanisms and a calendar deliberately built around movement. A campus that is excellent as a self-contained university but poor as a hub could undermine the Academy's cross-domain thesis.
+
+This creates a paradox.
+
+The politics will reward the winning city for bringing the Academy home.
+
+The education may be strongest if the Academy refuses to stay home.
+
+A student might spend a first summer at a NASA center, another at a Space Force unit, another in a laboratory or industrial facility. Certain courses could be co-taught from partner institutions. Senior projects might require extended work away from the main campus. Military and civilian tracks could converge during common rotations and separate when their professional preparation demands it.
+
+The campus would still matter enormously.
+
+It would be the place where the cohort forms, faculty build intellectual memory and traditions accumulate.
+
+It just would not pretend to own the domain.
+
 This is why the site process should not become an auction of political favors.
 
 That outcome is difficult to prevent because elected officials are supposed to advocate for their states. Governors will offer land and infrastructure. Universities will promise partnerships. Companies will describe workforce synergies. Members of Congress will discover that the national interest aligns remarkably well with local economic development.
@@ -177,6 +203,14 @@ Distinguish an existing “space cluster” from a cluster likely to serve the A
 Make every finalist answer the same questions.
 
 Transparency will not eliminate lobbying. It will make lobbying compete with evidence.
+
+The scoring itself should remain contestable.
+
+If mission access is worth thirty percent and cost five percent, the commission is making a policy choice, not discovering one. If military proximity dominates the score, the process is implicitly defining the Academy as military. If university partnerships dominate, the process is defining it as academic. If existing federal property receives enormous weight, speed and cost may determine the institutional form.
+
+The weights should therefore be published with the criteria.
+
+A site-selection process is a governance document in numerical form.
 
 There is also a case for delaying the permanent decision.
 
@@ -205,6 +239,14 @@ Does a mixed-service model work socially?
 What class size makes interdisciplinary education possible?
 
 A country that teaches test and evaluation to Space Force should test and evaluate its academy before pouring concrete around assumptions.
+
+Temporary does not have to mean unserious.
+
+The first institution could use a federal facility with existing classrooms and housing while the Academy hires founding faculty, establishes accreditation relationships and tests its service tracks. The government could measure utilization before deciding which laboratories deserve permanent construction. It could learn whether students actually need a secure campus environment for substantial portions of the curriculum or whether most undergraduate education belongs in open academic space.
+
+A pilot would also make the permanent-site bids better.
+
+Instead of cities promising what they imagine the Academy needs, the commission could issue requirements based on observed use.
 
 There is one more reason to resist haste.
 
