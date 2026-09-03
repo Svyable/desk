@@ -6,7 +6,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 0 of 22 drafted |
+| **Chapters** | 1 of 22 drafted |
 
 *How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask.*
 
@@ -17,7 +17,7 @@ The working thesis is that sleep behaves like a hard, measurable biological cons
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — The Third of Your Life You're Not Supposed to Notice](manuscript/ch01-the-third-of-your-life.md)
+- [x] [Ch 1 — The Third of Your Life You're Not Supposed to Notice](manuscript/ch01-the-third-of-your-life.md)
 - [ ] [Ch 2 — The Night of the Moving Eyes](manuscript/ch02-the-night-of-the-moving-eyes.md)
 - [ ] [Ch 3 — The Clock Inside You](manuscript/ch03-the-clock-inside-you.md)
 - [ ] [Ch 4 — Edison's Lie](manuscript/ch04-edisons-lie.md)
@@ -45,4 +45,5 @@ The working thesis is that sleep behaves like a hard, measurable biological cons
 
 - [Research brief](research/README.md)
 - [Chapter briefs](research/chapter-briefs.md)
+- [Chapter 1 evidence notes](research/ch01-third-life-evidence.md)
 - [Source ledger](research/source-ledger.csv)
