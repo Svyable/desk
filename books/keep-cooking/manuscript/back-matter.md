@@ -14,7 +14,7 @@ The scenario chapter is deliberately not a forecast. “Broad abundance,” the 
 
 The central claim of the book is therefore conditional rather than prophetic. If machine cognition continues becoming cheaper and useful across a widening set of tasks, then scarcity is likely to migrate toward complementary resources: trusted context, judgment, physical action, energy, distribution, accountability, attention, credibility, institutional capacity, and the right to decide. Who wins depends less on possessing intelligence in the abstract than on controlling, accessing, or improving those complements.
 
-This is a Desk edition: a working manuscript, not a released Shelf edition. It is meant to be argued with. The research trail is kept beside the prose so later revisions can replace confident stories with better evidence when the world refuses to cooperate.
+This edition is meant to be argued with. The research trail is kept beside the prose so later revisions can replace confident stories with better evidence when the world refuses to cooperate.
 
 Sven Hardy Benson
 
