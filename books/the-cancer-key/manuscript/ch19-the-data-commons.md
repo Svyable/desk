@@ -340,6 +340,32 @@ Public registries and cooperative research networks can keep watching after a pr
 
 That continuity becomes more valuable when the product changes patient by patient. There is no single frozen molecule from which later researchers can infer what earlier patients received. The record is part of reproducibility.
 
+A commons also needs a rule for correction.
+
+Clinical data are not fixed once collected. A pathology interpretation can change. A sequencing pipeline can later identify an artifact. A death date can be reconciled across records. A recurrence initially coded as local may later be shown to have been metastatic. If a shared dataset cannot amend its history without destroying traceability, it will become simultaneously permanent and wrong.
+
+The right model is closer to version control than to publication.
+
+An original observation should remain attributable. A correction should be visible. Analyses should identify which data release they used. Models trained on a particular version should be reproducible against that version even after the registry improves. This is ordinary practice in serious data engineering and should become ordinary in serious personalized medicine.
+
+Correction matters commercially too.
+
+A company that discovers a systematic target-selection weakness should be able to improve its platform without pretending the old decisions never happened. The public record should allow later investigators to ask whether outcomes changed after the correction. A learning system that erases its mistakes cannot prove it learned.
+
+This is the governance bargain in miniature.
+
+The company gets to improve.
+
+The regulator gets to audit.
+
+The scientific community gets enough continuity to compare.
+
+The patient gets a durable account of what happened.
+
+None of those requires that every raw field become open on day one.
+
+They require that the history not disappear.
+
 The most radical claim in this chapter is therefore also the most administrative.
 
 A personalized medicine should leave behind a standardized, durable account of what was attempted and what happened.
