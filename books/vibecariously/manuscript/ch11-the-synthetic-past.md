@@ -117,3 +117,57 @@ Generative AI can give the absence an image.
 The image may help us carry it.
 
 It should not be allowed to erase the fact that it was absent.
+
+## The family archive needs two clocks
+
+A useful archive records at least two kinds of time.
+
+The first is the time represented by the image: Christmas 1998, the summer after graduation, the day the house was sold, a grandparent at twenty-three.
+
+The second is the time the image itself was made or changed.
+
+Photography usually allowed us to collapse those clocks because the exposure and the represented event were nearly simultaneous. A scanned photograph might be digitized decades later, but the image still pointed back to one captured moment. Synthetic reconstruction separates the clocks radically. A scene depicting 1987 may have been generated in 2026 from three photographs, a family story, and an instruction to make the room feel warmer.
+
+Both dates matter.
+
+Without the second clock, later viewers can mistake a contemporary interpretation for historical evidence. With it, the image becomes more interesting rather than less. It tells us not only something about the past being represented but something about what a family in 2026 wanted to recover, repair, or imagine about that past.
+
+The reconstruction acquires its own history.
+
+This suggests a simple archival norm: preserve the original, preserve the derivative, and preserve the relationship between them.
+
+The norm sounds obvious to conservators and excessive to ordinary people. But consumer technology has already made family archives technically complex. A phone photograph may include computational processing no one sees. Cloud services create edited versions. Messaging apps recompress. Social platforms strip context. Generative tools add another layer, one whose changes can be semantic rather than merely technical.
+
+A visible caption can do more work than invisible metadata.
+
+“Reconstructed in 2026 from two photographs and family description. The original is preserved here.”
+
+That sentence does not drain the image of emotion. It protects the emotion from becoming accidental evidence.
+
+## Restoration should expose its confidence
+
+The word *restore* deserves special care because it implies return.
+
+Some restoration really does recover information. A high-resolution scan can reveal details hidden in a poor copy. Color correction can reverse fading. Multiple damaged prints can be compared. Known geometry can constrain repair.
+
+Other restoration estimates what probably occupied a missing region.
+
+The visual result may be seamless even when the underlying confidence is not.
+
+A responsible generative restoration tool could make that distinction visible. It might let users toggle between observed pixels and synthesized regions. It might show alternate plausible reconstructions. It might warn when a face, inscription, uniform detail, architectural element, or other semantically important feature has been substantially invented rather than recovered.
+
+This is especially important when an image is used beyond private enjoyment. Historians, journalists, museums, genealogists, courts, and public archives need different standards from a person making a cleaned-up anniversary print.
+
+The interface should help users know which activity they are performing.
+
+Repair for viewing.
+
+Reconstruction for interpretation.
+
+Illustration for imagination.
+
+Evidence for claims.
+
+They can all be valuable. They are not interchangeable.
+
+The synthetic past becomes manageable when we stop asking every image to carry the same burden of truth.
