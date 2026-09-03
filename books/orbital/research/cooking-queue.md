@@ -8,7 +8,7 @@
 - [x] Chapter 3 first draft
 - [x] Chapter 4 first draft
 - [x] Interlude: orbital geography
-- [ ] Chapter 5 — The Factory Learns to Fly
+- [x] Chapter 5 — The Factory Learns to Fly
 - [ ] Chapter 6 — constellation precursors and why earlier LEO telecom failed
 - [ ] Chapter 7 — Starlink deployment flywheel
 
@@ -18,6 +18,7 @@
 - [ ] Commercial Crew contract chronology and exact fixed-price / certification structure
 - [ ] Falcon 9 reuse milestones and cadence table, 2010–2026
 - [ ] Booster turnaround / flight-count primary sources
+- [x] Chapter 5 satellite manufacturing / fleet-refresh evidence packet
 - [ ] Starlink constellation population by year and generation
 - [ ] Starlink revenue/customer estimates — source quality matrix
 - [ ] FCC authorizations and modification orders
