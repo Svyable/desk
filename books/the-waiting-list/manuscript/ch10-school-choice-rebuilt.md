@@ -124,6 +124,26 @@ Did it reduce the number of children falling out of the main process and into ad
 
 On those narrower questions, the case was substantial.
 
+There is a further reason to separate coordination from algorithm choice. Imagine keeping every school’s admissions priorities exactly as they were but forcing all offers into a single clearing process. Even before debating the fine points of deferred acceptance, the city has removed one source of waste: a student can no longer occupy several final offers while other students wait for those seats to be released. The system gains a common clock and a common ledger of who is tentatively holding what.
+
+That sounds bureaucratic because it is bureaucratic. It is also a form of market design.
+
+A surprising amount of institutional failure comes from decisions being locally sensible and globally incompatible. One school protects itself by making an early offer. Another does the same. A family protects itself by holding every offer until it knows what else is available. None of those decisions is absurd in isolation. Together they create congestion.
+
+Coordination changes the incentives before the matching formula does anything clever. A school can wait because other schools are waiting inside the same process. A family can release lower choices because the mechanism carries its higher choices forward. The central system becomes a temporary custodian of uncertainty.
+
+That is why later welfare work on New York is so important to the interpretation of the reform. Much of the measured gain came from coordinated assignment itself, not from discovering one mathematically perfect tie-breaking rule. This is a useful restraint on the usual story of algorithmic improvement. Sometimes the big invention is not a smarter ranking function. It is an institution that makes separately reasonable actors stop stepping on one another.
+
+The distinction also clarifies what the mechanism cannot know. A rank list records an ordering among the options a family investigated and chose to submit. It does not record the schools the family never heard about, could not reach by transit, ruled out because an information session conflicted with work, or considered inaccessible for a child with a particular need. Truthful reporting inside the mechanism does not mean the preference data arrived from a level field.
+
+Nor is administrative placement merely a statistical residue. For a family, falling out of the main match changes the nature of the process. Instead of choosing among ranked options through the same mechanism as everyone else, the family may enter a later stage with fewer seats remaining and less control over the result. Reducing that spillover is therefore more than cleaning up an operations metric. It preserves the meaning of preference for more participants.
+
+The point is not that centralization is always better. A single clearinghouse can make a mistake at scale. Central rules can flatten local knowledge. A mechanism that is difficult to contest can convert many small, visible disputes into one opaque system. Coordination earns its value only if the institution also preserves clear priorities, usable appeals, and enough transparency that families can understand what the common process is doing.
+
+New York and Boston are compelling cases precisely because the old systems supplied a concrete failure to repair. The designers did not begin with the premise that centralization was virtuous. They began with duplicated offers, distorted rankings, avoidable nonassignments, and families being rewarded for guessing how the machinery worked.
+
+The reform could then be judged against those failures.
+
 The New York system also revealed a less visible design choice: tie-breaking.
 
 A school may have clear priorities—perhaps for continuing students, siblings, geographic zones, or program eligibility—but still face many students who are equal within a priority class. If there are fewer seats than equally ranked students, somebody needs to win the tie.
