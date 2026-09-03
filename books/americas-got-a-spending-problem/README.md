@@ -3,8 +3,12 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | Complete draft |
 | **Chapters**  | 18 of 18 drafted |
+
+## Premise
+
+America often separates the person saying yes from the full economic price of the decision. Insurance, credit, tax pooling, subsidies, and public borrowing can make society more humane and productive, but when they remove the ordinary price signal the system needs another credible way to encounter scarcity and say no before the tradeoff becomes a crisis.
 
 ## Contents
 
@@ -27,3 +31,9 @@
 - [x] [Ch 16 — The Politics of Visible Pain](manuscript/ch16-the-politics-of-visible-pain.md)
 - [x] [Ch 17 — A Budget That Can Say No](manuscript/ch17-a-budget-that-can-say-no.md)
 - [x] [Ch 18 — The Honest Price](manuscript/ch18-the-honest-price.md)
+
+## Research
+
+- [Research trail](research/README.md)
+- [Chapters 13–16 evidence ledger](research/ch13-ch16.md)
+- [Chapters 17–18 evidence ledger](research/ch17-ch18.md)
