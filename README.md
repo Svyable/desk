@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 63 book projects · 30 complete drafts · 1 in revision · 32 drafting**
+> **Desk: 64 book projects · 31 complete drafts · 1 in revision · 32 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 21 author projects · 19 released · 2 public drafts/proofs**
-> **Where they live: 21 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
-> **Release review queue: 14 complete Desk manuscripts are not finally released — all 14 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 21 in both Desk + Shelf · 43 Desk-only · 0 Shelf-only**
+> **Release review queue: 15 complete Desk manuscripts are not finally released — all 15 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -41,7 +41,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Cancer Key](books/the-cancer-key/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Cancer Key](books/the-cancer-key/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -104,6 +104,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | 7 of 7 | 4,571 | A screenshot arrives with a rumor: the next model may work for days or weeks, remember corrections, collaborate with agents and people, move through software at superhuman speed, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-long-running-mind/) |
 | [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 6 of 18 | 17,276 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | 22 of 22 | 66,547 | The working thesis is that this is a repricing event of the kind societies have handled badly before: correctly recognizing that something fundamental has changed while mispricing the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-mortality-discount/) |
+| [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | 25 of 25 | ~90K | Persistent intelligence becomes a durable causal identity: stateless minds wake into persistent goals, memory, authority, commitments, evaluations, and unfinished work. | [Read →](https://svyable.github.io/desk/reader/#/b/the-never-ending-intelligence/) |
 | [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter; 35 chapters planned | 891 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
 | [**The Reliability Tax**](books/the-reliability-tax/) | ✍️ Drafting | 18 of 18 | 17,815 | The working thesis is that modern economies systematically undervalue redundancy, slack, reversibility and alternative pathways because their costs are visible every quarter while their… | [Read →](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
 | [**The Search Frontier**](books/the-search-frontier/) | ✍️ Drafting | 20 of 20 | 66,372 | The central argument is that as generating options becomes cheaper, advantage migrates toward the systems that can decide which possibilities deserve attention, test them against reality… | [Read →](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
