@@ -2,10 +2,12 @@
 
 ## When Agents Stop Being Invocations and Become Evolving Systems
 
-**Author:** Sven Hardy Benson  
-**Status:** Complete draft  
-**Chapters:** 25 of 25 drafted  
-**Length:** >90K-word conservative text-size proxy; Desk 65K+ full-book standard cleared
+| | |
+|---|---|
+| **Author** | Sven Hardy Benson |
+| **Status** | Complete draft |
+| **Chapters** | 25 of 25 |
+| **Length** | >90K-word conservative text-size proxy; Desk 65K+ full-book standard cleared |
 
 The first generation of useful AI agents resembles a function call: give the system context, ask for work, receive an answer, end the process. *The Never Ending Intelligence* is about what happens when that assumption disappears.
 
