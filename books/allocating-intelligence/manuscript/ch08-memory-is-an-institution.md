@@ -82,28 +82,6 @@ Preservation creates another compression problem.
 
 Someone must turn the archive into forms that can travel: training, design requirements, operating practice, summaries, examples, search indexes, and institutional expectations. Every compression loses something. A hundred pages become ten. Ten become one. A complicated event becomes “the lesson.”
 
-The crucial step is deciding where that compressed lesson should re-enter work.
-
-A safety lesson that lives only in a searchable archive waits for a future worker to remember to search. That is a weak form of memory because the person facing the new problem may not know that the old problem resembles it. The stronger form inserts the past into a decision gate. A design review asks whether known lessons apply. A training scenario recreates the kind of ambiguity that once mattered. A checklist carries a constraint whose origin may be decades old. A change process asks what historical protections the proposal removes. The memory arrives because the institution designed a rendezvous between past experience and future action.
-
-Those rendezvous points deserve as much engineering as the archive itself.
-
-Imagine two organizations with identical incident databases. In the first, the database is excellent and optional. Engineers search it when they are curious, often after a problem has already become interesting. In the second, high-consequence design reviews automatically retrieve lessons tied to the component, failure mode, environment, or decision under review. The reviewer can dismiss the lesson, but dismissal is visible and reasoned. The second organization is not necessarily wiser because it stores more. It has made remembrance part of the workflow.
-
-That changes incentives too.
-
-When people know lessons may alter a future design gate, the quality of the original record matters. Vague root-cause slogans become less useful. Context becomes valuable. Uncertainty worth preserving becomes easier to defend. The incident report stops being merely a ritual of closure and becomes an input to a future decision whose owner has not yet been hired.
-
-This is why training matters so much to institutional memory. Training converts a written conclusion into practiced perception. A person who has encountered a failure mode in simulation may recognize a weak signal before remembering the name of the old incident. The lesson has moved from a document into a habit of attention.
-
-That transfer is especially important when the historical event was rare. Rare events do not create enough natural repetitions for a workforce to learn them by ordinary experience. Institutions have to manufacture repetition deliberately. They create cases, drills, scenarios, and review questions so that a low-frequency event can still shape high-frequency readiness.
-
-Artificial intelligence could make this much cheaper. A memory system can generate training variations from documented incidents, alter irrelevant surface details, and test whether people recognize the underlying structure rather than memorize the story. It can ask what evidence would have changed the decision earlier. It can show a later outcome only after the learner commits to an interpretation. Used this way, AI does not merely retrieve memory. It helps convert recorded experience into future perception.
-
-But the generated exercise must remain anchored to the source. Otherwise the institution begins training on embellishments produced by the tool that was supposed to preserve the lesson.
-
-Memory becomes dangerous precisely when its compressed forms gain more authority than the evidence beneath them.
-
 This is where memory becomes dangerous again.
 
 Different groups can remember the same event differently without any of them simply lying. Engineers may emphasize equipment behavior. Operators may emphasize workload and indication. Regulators may emphasize oversight. Nearby communities may remember fear, distrust, or the failure of official reassurance. Management may remember coordination. Later designers may remember a human-factors requirement whose origin has become obscure.

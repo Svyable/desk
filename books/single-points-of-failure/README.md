@@ -52,5 +52,3 @@ Each chapter starts with a real, dated event — a container ship stuck sideways
 ## Research discipline
 
 See [research/README.md](research/README.md). Figures on market share, export controls, and stockpiles are dated to the month of the source reporting them, because this is one of the fastest-moving corners of the global economy to write about.
-
-The first-edition current-fact and publication review is recorded in [research/release-review-2026-09-03.md](research/release-review-2026-09-03.md). It rechecks the volatile Panama, cobalt, HBM, semiconductor-export-control, and rare-earth-policy lanes and clears the committed publication packet for a deliberate Shelf release.
