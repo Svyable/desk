@@ -275,3 +275,69 @@ That decision determines whether a private refusal becomes a household crisis, a
 The carrier's exit is not the end of risk allocation.
 
 It is the moment the allocation becomes visible enough that someone else has to answer.
+
+There is one more institution in that answer that consumers rarely see: the insurer's own capital committee.
+
+Insurance capacity is not produced policy by policy. It is allocated across a portfolio. A company may be perfectly willing to insure one fire-prone house in isolation and unwilling to insure the ten-thousandth similar house because the next policy adds too much to a catastrophe concentration already sitting on the balance sheet.
+
+The marginal no can therefore be caused by all the earlier yeses.
+
+This is why underwriting restrictions sometimes feel arbitrary from the sidewalk. The house may be well maintained. The owner may have no claims. The carrier may still refuse because the relevant unit of risk is not the parcel but the portfolio.
+
+The same logic reaches upward to reinsurance and ratings. A primary insurer that keeps adding concentrated catastrophe exposure may have to buy more reinsurance, hold more capital, accept a different return, or explain the concentration to agencies and investors that judge its financial strength. The retail underwriting rule that annoys one homeowner can be the last visible link in a chain of wholesale constraints.
+
+Capacity is a stack.
+
+The policyholder sees the bottom layer.
+
+That stack also explains why market recovery can be nonlinear. A modest improvement in expected profitability may attract no one when capital is scarce and uncertainty is high. Then legal rules change, reinsurance softens, new investors enter, loss experience improves, and several carriers decide nearly at once that the same market is worth writing again.
+
+The houses did not all become safer on Tuesday.
+
+The capital stack crossed a threshold.
+
+This makes timing central to regulation.
+
+If a state responds to a temporary hard market with permanent subsidies, it can lock in a public role just as private capital is preparing to return. If it assumes every private return proves the crisis was invented, it may unwind a residual mechanism before the voluntary market is durable. The regulator has to distinguish a cyclical shortage of capital from a structural increase in loss.
+
+That distinction is difficult because both can occur together.
+
+Brokers and agents often see the transition first. They watch the number of quotes fall, the questions multiply, the binding authority narrow, and the exceptions disappear. Their experience is anecdotal at one office and informational when aggregated across a market.
+
+A useful availability system would therefore measure friction, not merely policies in force.
+
+How many carriers will quote a new risk? How long does placement take? How often does a customer fall to a residual plan? How much coverage is being moved to specialty markets? How much more risk is the household retaining through deductibles and exclusions? How often does a lender require a different policy before closing?
+
+These are leading indicators of retreat.
+
+Insolvency is a lagging one.
+
+By the time an insurer fails, the argument about whether prices were adequate is over. Claims remain, capital is gone, guaranty mechanisms may be involved, and other carriers reconsider the same market. A prudential system therefore has to allow companies to become unpopular before they become insolvent.
+
+That is one reason the politics are so hard.
+
+The socially convenient insurer is the one that always renews, always covers more, and rarely raises price.
+
+The financially durable insurer sometimes does the opposite.
+
+The challenge is separating discipline from opportunism.
+
+A carrier should not be able to invoke solvency as a magic word that ends scrutiny. It should be able to show the regulator the loss assumptions, capital constraints, reinsurance costs, concentration, and return thresholds behind a restriction. The regulator in turn should not force a company to hide a real problem inside thinner coverage simply because a visible rate increase is politically harder.
+
+Price, quantity, terms, and solvency belong on the same dashboard.
+
+Otherwise policy squeezes one corner and congratulates itself while the risk leaks out another.
+
+The household ultimately needs something more modest than a perfect market.
+
+It needs a credible path from no to next.
+
+If a private carrier withdraws, can the owner understand why? Is there a mitigation action that can reopen eligibility? Is another private market genuinely available? Is residual coverage adequate for the mortgage? Is there temporary support while a roof or electrical system is improved? If the property has become structurally hard to insure, is the public policy goal to preserve occupancy, finance adaptation, or help the household exit without losing everything?
+
+Those are different answers.
+
+A system that treats every no as the same event will reach for the same remedy every time.
+
+A durable insurance market needs the right to refuse.
+
+A durable society needs more intelligence about what the refusal means.
