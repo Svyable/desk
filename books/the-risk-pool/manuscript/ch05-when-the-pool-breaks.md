@@ -257,3 +257,81 @@ Everything before the event exists to make that payment possible.
 When a pool breaks, the failure is rarely that uncertainty existed.
 
 The failure is that the institution misjudged which uncertainties it could carry together.
+
+A broken pool should also be distinguished from a pool that merely had a bad year.
+
+The difference is crucial.
+
+Insurance exists to absorb bad years. A hurricane, wildfire, hail season, liability verdict, or cyber event can generate losses above expectation without proving the underlying institution is unsound. Capital, reserves, reinsurance, and retained earnings are there precisely because realized loss will wander around the expected value.
+
+If every large claim were evidence that insurance had failed, insurance would be judged a failure whenever it did its job.
+
+The real warning sign is persistence.
+
+Does the company replenish capital after the event? Can it still buy reinsurance? Do new policies earn an adequate expected return? Are reserves for old claims stabilizing or deteriorating? Are underwriting restrictions targeted responses or signs that management no longer understands the book? Is the company losing customers because price reflects risk, or keeping customers because price still does not?
+
+A hard market can be painful and healthy at the same time.
+
+Higher rates and tighter terms can attract new capital and repair an underpriced pool. The adjustment hurts customers, especially when the insured asset cannot move or adapt quickly, but the alternative can be a policy whose apparent affordability rests on an insurer becoming progressively less able to honor it.
+
+Recovery therefore requires diagnosis.
+
+A capital problem can sometimes be solved with new equity or reinsurance.
+
+A pricing problem needs different rates.
+
+A claims-cost problem may need engineering, fraud control, medical management, repair networks, or legal change.
+
+An adverse-selection problem may require broader participation or redesigned eligibility.
+
+A correlation problem may require lower limits, geographic or technological diversification, reinsurance, or a public catastrophe layer.
+
+A trust problem may require clearer contracts and better claims handling.
+
+Calling all of these insolvency hides the intervention that could work.
+
+The insurer's balance sheet gives clues.
+
+When losses develop worse than expected, reserves rise. When catastrophe exposure consumes too much of the available cushion, management reduces concentration or buys protection. When rating agencies or regulators doubt the capital position, the company can face constraints before it misses a single claim payment. These early interventions can look frustrating from the customer's perspective because the insurer is withdrawing while still solvent.
+
+That is often the point.
+
+Prudential supervision is supposed to notice fragility before the cashier's window closes.
+
+Once an insurer actually fails, the problem changes character. Policies may need to be transferred, claims may enter statutory resolution processes, guaranty mechanisms may become relevant, employees and vendors are disrupted, and competing carriers reconsider whether the same business was mispriced across the market.
+
+Insolvency is contagious even when the legal obligations are not.
+
+It changes beliefs.
+
+A competitor sees the failure and asks whether its own assumptions are next. Reinsurers revisit exposure. Brokers move clients. Regulators increase scrutiny. Capital becomes more expensive. A company that made one set of mistakes can cause the whole market to rediscover caution.
+
+This is how institutional memory enters the cycle.
+
+The memory eventually fades.
+
+New managers arrive. New capital enters. The last catastrophe recedes. Competition makes yesterday's disciplined price look like today's opportunity. Underwriting exceptions accumulate one account at a time. A rule designed after the last crisis becomes an inconvenience to sales.
+
+Insurance repeatedly confronts the same human weakness as banking.
+
+The quiet period is when resilience feels most expensive.
+
+Nothing is happening, so capital looks idle, reinsurance looks overpriced, exclusions look unnecessarily cautious, and engineering looks like overhead. Then the event arrives and all four turn out to have been part of the product.
+
+A healthy pool therefore needs mechanisms that survive success.
+
+Capital standards should not disappear because recent losses were light. Exposure monitoring should not stop because a model performed well last year. Claims data should challenge underwriting assumptions rather than be massaged to defend them. Management incentives should not reward premium growth without regard to the uncertainty being accumulated behind it.
+
+The hardest discipline is saying no while competitors are saying yes.
+
+That is why insurance is not only a mathematics business.
+
+It is a governance business.
+
+The pool breaks when numbers are wrong, but it can also break when institutions know the numbers are uncertain and choose not to act because the short-term rewards belong to the present while the claims belong to the future.
+
+A catastrophe tests capital.
+
+A cycle tests memory.
+
+A durable insurer needs enough of both.
