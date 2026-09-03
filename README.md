@@ -9,23 +9,25 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 68 book projects · 33 complete drafts · 1 in revision · 34 drafting**
+> **Desk: 71 book projects · 35 complete drafts · 1 in revision · 35 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 28 author projects · 26 released · 2 public drafts/proofs**
-> **Where they live: 28 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
-> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 38 author projects · 36 released · 2 public drafts/proofs**
+> **Where they live: 38 in both Desk + Shelf · 33 Desk-only · 0 Shelf-only**
+> **Release review queue: 2 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/adjacency/) |
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/agentile/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
+| [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/americas-got-a-spending-problem/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |
+| [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/gatekeepers/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/keep-cooking/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
@@ -41,14 +43,22 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Cancer Key**](books/the-cancer-key/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-cancer-key/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-compatibility-dividend/) |
+| [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-delegation-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-intelligence-dilemma/) |
+| [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
+| [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-mortality-discount/) |
+| [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/) |
+| [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
+| [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-vanishing-bid/) |
+| [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-world-beneath-the-world/) |
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
+| [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [America's Got a Spending Problem](books/americas-got-a-spending-problem/), [Gatekeepers](books/gatekeepers/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Nothing Counts Yet](books/nothing-counts-yet/), [The Weather We Build](books/the-weather-we-build/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -73,7 +83,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
-| [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 8 of 20 | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
+| [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 9 of 20 | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 76,091 | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
@@ -85,6 +95,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,281 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 of 12 | 10,932 | The book follows ordinary people who notice the unclaimed problem, carry more than their official job requires, and turn small acts of usefulness into trust, access, and eventually freedom. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
 | [**No One Read It**](books/no-one-read-it/) | ✍️ Drafting | 5 of 21 | 15,368 | Generative systems can produce contracts, code, analysis, reports, messages, and options faster than the people named on that work can inspect it. | [Read →](https://svyable.github.io/desk/reader/#/b/no-one-read-it/) |
+| [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✅ Complete first draft | 20 of 20 | — | The provisional spaces that make competence possible: rehearsal rooms, drafts, sandboxes, simulations, apprenticeships, mock trials, pilots, test kitchens, play, and every other place where a person or institution is allowed to be wrong before being required to be right. | [Read →](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | 18 of 18 | 77,279 | The central thesis is that open AI does not abolish ownership; it rearranges it. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
 | [**Orbital**](books/orbital/) | ✍️ Drafting | Prologue + 11 complete chapters; 21 chapters planned | 31,608 | A narrative history of how low Earth orbit changed from a government-run domain of bespoke spacecraft into an industrial layer increasingly launched, manufactured, networked, and operated… | [Read →](https://svyable.github.io/desk/reader/#/b/orbital/) |
 | [**Predictable**](books/predictable/) | ✍️ Drafting | 12 of 12 | 28,051 | The working thesis is that societies repeatedly make the same mistake around transformative technologies: they correctly recognize that something important has arrived, then misprice how… | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
@@ -108,7 +119,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,205 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✍️ Drafting | 1 of 25 + front matter | 3,256 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
-| [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 11 (Prologue + Chapters 1–10) | 29,714 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 13 (Prologue + Chapters 1–12) | 29,714 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
 | [**The Intelligence Bubble**](books/the-intelligence-bubble/) | ✍️ Drafting | 18 of 18 | 56,186 | AI can be economically transformative while many of the investors financing its first great buildout earn disappointing returns. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,013 | The Intelligence Dilemma asks how schools can use abundant machine intelligence to deepen learning without letting polished output become a substitute for student capability. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | 66,001 | The working thesis is that the unpaid social infrastructure of the twentieth century — a stable workplace with the same coworkers for years, a weekly religious congregation, a union hall… | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
@@ -125,6 +136,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Value Stack**](books/the-value-stack/) | ✍️ Drafting | 19 of 19 | 36,738 | The central thesis is that value creation and value capture occur at different layers of economic systems, and that bargaining power migrates toward necessary layers that are difficult to… | [Read →](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | 11 of 11 | 16,209 | The working thesis is that liquidity is not a property of an asset but a behavior of the people and machines currently willing to trade it — a standing offer, renewed voluntarily every few… | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
 | [**The Waiting List**](books/the-waiting-list/) | ✍️ Drafting | Front matter, prologue, epilogue, back matter; 20 of 20 chapters | 67,971 | The central thesis is that when a price cannot or should not allocate a scarce good, some other rule always fills the vacuum — a queue, a lottery, a priority rule, or an algorithmic match… | [Read →](https://svyable.github.io/desk/reader/#/b/the-waiting-list/) |
+| [**The Weather We Build**](books/the-weather-we-build/) | ✅ Complete structural draft | 12 of 12 | — | Civilization increasingly depends on manufactured microclimates: bounded environments in which heat, moisture, dust, vibration, pressure, gas composition, microbes, and contamination are held inside narrow operating ranges. | [Read →](https://svyable.github.io/desk/reader/#/b/the-weather-we-build/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 of 12 | 28,564 | The central wager is simple: ordinary perception is full of compressed information. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
 | [**This Tech Is Different**](books/this-tech-is-different/) | ✍️ Drafting | 4 of 22 | 15,200 | The working thesis is that this industrial transition becomes historically distinct where machine cognition, agency, embodiment, and biological engineering begin to converge. | [Read →](https://svyable.github.io/desk/reader/#/b/this-tech-is-different/) |
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | 2,454 | Complex systems become sophisticated enough to hide elementary truths. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
