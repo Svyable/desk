@@ -110,6 +110,34 @@ They ran computational experiments.
 
 They tested the proposed algorithm against market data and simulated strategic behavior. The real medical market was too complicated for the simplest matching theory to describe exactly, but the experiments suggested that the theory remained a useful approximation. The set of stable outcomes appeared to be small. Opportunities for profitable strategic manipulation appeared limited. The redesigned mechanism looked slightly better for applicants than the old program-oriented version.
 
+The experiment was doing something a proof could not.
+
+It was asking whether the rare cases mattered at the scale of the actual institution.
+
+A theoretical counterexample can be decisive when the claim is universal. If one configuration of preferences can break a theorem, the theorem does not hold in general. A working clearinghouse has a different problem. It needs to know whether the configuration appears once in a million assignments, once every year, or constantly; whether the failure leaves one applicant worse off or causes a cascade; whether a repair rule contains the damage; and whether participants can deliberately create the troublesome configuration by changing what they report.
+
+That changes the meaning of rigor.
+
+The designer still needs theory because theory tells you where to look. But then the institution supplies frequencies, edge cases, and incentives the clean model cannot settle on its own. A mechanism can be mathematically elegant and operationally brittle. It can also be theoretically imperfect and practically robust because the dangerous cases are rare, detectable, or repairable.
+
+Couples made that distinction unavoidable. They were not noise to be averaged away. They were real applicants whose preferences violated a convenient assumption. Excluding them would have preserved the model by failing the people the model was supposed to serve.
+
+The redesign therefore had to absorb complementarity rather than wish it away.
+
+That is one reason the Match is a better example of market design than a toy matching exercise. The institution cannot simply declare an input invalid because the input complicates the proof. It has to decide what kinds of preferences it will recognize, how much complexity it can safely process, and what it will do when those preferences collide with everyone else’s assignments.
+
+There is a second engineering constraint that is easier to miss: participation.
+
+A clearinghouse works only if enough of the market stays inside it. If programs can do better by making early side offers, or applicants believe they can do better by withholding information and negotiating elsewhere, the mechanism can lose the very coordination that gives it value. Stability is therefore not just a property of the final assignment. It is part of a larger institutional bargain: wait, report, accept the common schedule, and trust that everyone else is being asked to do the same.
+
+The binding nature of the Match belongs to that bargain. It is easy to see only the restriction after the result arrives. The other side is the restriction imposed before the result: programs are also prevented from recreating the old race by forcing applicants to decide while competitors are still moving.
+
+That does not settle whether the bargain is fair. It explains why a central clearinghouse cannot be evaluated as though it were merely recommendation software.
+
+The system is coordinating behavior over time.
+
+Its algorithm is only the most visible part.
+
 This is a less glamorous form of intellectual work than discovering an elegant theorem.
 
 It may be more important when the theorem has to touch people.
