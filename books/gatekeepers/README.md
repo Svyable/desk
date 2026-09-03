@@ -5,12 +5,12 @@
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | Complete draft |
 | **Chapters** | 21 of 21 drafted |
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Right to Say No](manuscript/ch01-the-right-to-say-no.md)
 - [x] [Ch 2 — Why Gates Exist](manuscript/ch02-why-gates-exist.md)
 - [x] [Ch 3 — Permission Is a Form of Power](manuscript/ch03-permission-is-a-form-of-power.md)
@@ -32,7 +32,7 @@
 - [x] [Ch 19 — Agents at the Gates](manuscript/ch19-agents-at-the-gates.md)
 - [x] [Ch 20 — Good Gates](manuscript/ch20-good-gates.md)
 - [x] [Ch 21 — Who Guards the Gatekeepers?](manuscript/ch21-who-guards-the-gatekeepers.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
@@ -42,6 +42,8 @@
 
 ## Review status
 
-This is an unpublished Desk manuscript. Its central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and occupation, software and infrastructure. A gate can be a person, institution, rule, queue, algorithm, interface, credential, or technical dependency. The book asks when those gates protect something worth protecting, when they become extraction machines, and what meaningful appeal, exit, competition, and accountability look like.
+This is a complete, unpublished Desk draft. The 21-chapter body, front matter, back matter, rights metadata, cross-book research brief, source ledger, and chapter evidence notes are assembled. Publication review is a separate step; nothing in this status change releases the book to Shelf.
 
-- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/gatekeepers/)
+The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and occupation, software and infrastructure. A gate can be a person, institution, rule, queue, algorithm, interface, credential, or technical dependency. The book asks when those gates protect something worth protecting, when they become extraction machines, and what meaningful appeal, exit, competition, and accountability look like.
+
+- [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/gatekeepers/)
