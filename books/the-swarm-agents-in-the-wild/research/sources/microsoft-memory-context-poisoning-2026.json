@@ -1,0 +1,10 @@
+{
+  "id": "microsoft-memory-context-poisoning-2026",
+  "title": "AI Memory / Context Poisoning (Corruption)",
+  "publisher": "Microsoft Learn",
+  "date": "2026-08-01",
+  "url": "https://learn.microsoft.com/en-us/security/zero-trust/catalog-ai-attack-techniques/ai-memory-context-poisoning",
+  "source_type": "first-party security guidance",
+  "claims_used": "Microsoft's zero-trust attack catalog treats persistent memory, vector stores, preference memories, and conversation histories as durable attack surfaces and recommends controls including memory write access control, sanitization, versioning, rollback, refresh, domain isolation, trust scoring, and telemetry. The manuscript uses this as evidence that memory security is becoming an operational control problem, not only a research attack category.",
+  "caveat": "This is defensive guidance and taxonomy from a technology vendor rather than an independent measurement of attack prevalence."
+}
