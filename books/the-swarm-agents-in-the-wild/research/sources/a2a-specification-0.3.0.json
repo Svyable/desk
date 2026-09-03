@@ -1,0 +1,8 @@
+{
+  "year": "2026",
+  "author_or_institution": "A2A Protocol project",
+  "title": "A2A Protocol Specification v0.3.0",
+  "source_type": "Open protocol specification",
+  "book_use": "Documents Agent Cards for discovery and capability declaration, stateful Tasks, Messages, Artifacts, task cancellation, streaming and asynchronous updates, and HTTP-based interoperability without requiring agents to expose internal reasoning or implementation details.",
+  "url": "https://a2a-protocol.org/v0.3.0/specification/"
+}
