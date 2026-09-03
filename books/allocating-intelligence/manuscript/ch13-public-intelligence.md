@@ -1,191 +1,211 @@
 # Public Intelligence
 
-At 5:00 in the morning, a weather forecast is already a public argument about allocation.
+At five in the morning, a weather forecast is already a public argument about allocation.
 
-Satellites, radar, surface stations, balloons, ships, aircraft, computer models, forecasters, communication networks, and local offices have spent resources to reduce uncertainty about a future everyone will share. The forecast is published whether the farmer, airline, school superintendent, construction crew, parent, or fisherman paid for that particular prediction. A warning can be copied endlessly. One person’s use does not prevent another’s.
+Satellites, radar, surface stations, balloons, ships, aircraft, computer models, forecasters, communication networks, and local offices have spent resources to reduce uncertainty about a future many people will share. The farmer, airline, school superintendent, construction crew, parent, and fisherman do not each build a separate atmospheric system. They receive a common forecast and then make different decisions from it.
 
 Weather intelligence is infrastructure.
 
-The National Weather Service traces its institutional history to 1870, when the United States created a national system for meteorological observations and storm warnings. The technology changed radically: telegraph networks, radio, satellites, radar, numerical models, and digital distribution. The public purpose persisted. Gather observations at scale, turn them into forecasts and warnings, and make those products broadly available.
+The institutional history matters because the service did not begin as a chatbot. The United States created a national meteorological observation and storm-warning system in the nineteenth century. The technology changed repeatedly: telegraph networks, radio, aircraft observations, satellites, radar, numerical weather prediction, digital distribution. The durable idea was not one interface or one machine. It was a public capability for observing the atmosphere, producing forecasts and warnings, and making them broadly available.
 
-This is a useful counterweight to the default commercial picture of artificial intelligence.
+Artificial intelligence needs a civic category like that.
 
-Most discussion of AI allocation begins with products. Who can afford the subscription? Which company owns the model? Which firm receives the enterprise tier? Markets are powerful allocators, and private investment has driven much of the recent progress. But societies have repeatedly decided that some information goods should be provided as common infrastructure because their spillover benefits are large, exclusion is inefficient or unjust, and collective coordination depends on broad access.
+Most conversation about AI allocation begins with products. Which company owns the model? Who can afford the subscription? Which enterprise buys the premium tier? Markets will remain enormously important. Private capital, competition, and commercial experimentation have driven much of the recent progress.
 
-Weather is one example. Public roads and maps, libraries, statistical agencies, public-health surveillance, scientific databases, standards, emergency communications, and the civilian signals of GPS provide others. Each has a different institutional history. Together they show that information can be treated as a civic capability rather than solely as a commodity.
+But a society does not allocate every valuable information system through retail access alone.
 
-Machine intelligence raises the question of what belongs in that civic layer.
+Weather services, statistical agencies, libraries, emergency communications, public-health surveillance, scientific databases, standards, maps, and the civilian signals of GPS all reveal the same possibility in different forms: some information and coordination capabilities create more value when they become dependable common infrastructure.
 
-The maximal answer—give everyone every advanced model for free—ignores cost, safety, privacy, and governance. The minimal answer—markets will handle it—ignores the difference between consumer convenience and civic capability.
+The relevant question for AI is not whether government should provide “the best model” to everyone.
 
-A better starting point is to ask which forms of intelligence have strong public-good characteristics or are prerequisites for exercising other rights.
+That framing is too crude.
 
-Translation is an obvious candidate. A resident who cannot understand an emergency notice, benefit form, court instruction, or school communication is formally included and practically excluded. Machine translation can lower that barrier dramatically, though high-stakes use still requires quality controls and language coverage that does not abandon smaller communities.
+A frontier model is a component. Public intelligence is a service architecture.
 
-Basic legal orientation is another. Most people cannot afford bespoke counsel for every encounter with law. A public AI system could explain procedures, forms, deadlines, and sources without pretending to replace representation. The public value lies in reducing the informational asymmetry between institutions and citizens.
+The distinction becomes obvious when we imagine a benefits assistant. Its public value does not come merely from fluent language. It comes from knowing the current rules, locating the correct forms, distinguishing eligibility questions from final determinations, explaining deadlines, preserving authoritative sources, routing unusual cases to people, and making appeals legible. A general model can help with all of this. It cannot substitute for the institution that owns the rules and must correct mistakes.
 
-Education is another. A patient tutor available at any hour could widen access to explanation, language practice, and feedback. But public provision would need privacy safeguards, pedagogical standards, accessibility, and a curriculum philosophy. A free answer machine is not the same as public education.
+A court-information system has the same shape. Translation, plain-language explanation, scheduling, document navigation, and procedural orientation can lower enormous barriers. But a public court assistant must distinguish procedural information from legal representation. It must know which source controls. It needs a route to correction. A confident improvisation is not harmless simply because the model meant well.
 
-Health navigation offers similar potential. Systems can help people understand symptoms, prepare questions, find services, interpret instructions, and manage paperwork. But diagnosis and treatment enter regulated professional domains where public AI must connect to accountable care rather than simulate it carelessly.
+The same is true in education and health navigation.
 
-The pattern is that public intelligence works best when attached to public institutions and clear scope.
+A public tutor is not just a free answer engine. It inherits questions about curriculum, privacy, age, accessibility, pedagogy, and the role of teachers. A health-navigation tool can help people prepare questions, interpret instructions, find care, and understand paperwork, but it should connect people to accountable clinical systems rather than create the illusion that general fluency is medical authority.
 
-The National Weather Service does not simply place an unconstrained general model on a website and say, “ask about the atmosphere.” It operates observation networks, forecasting centers, standards, warning systems, and relationships with emergency management. The intelligence product is embedded in a service.
+The pattern is consistent.
 
-Public AI should be designed the same way.
+Public intelligence works when a model is attached to an institution, a body of authoritative material, a service boundary, and a correction path.
 
-A benefits assistant should know the actual rules, forms, and appeal paths. A court assistant should distinguish procedural information from legal advice. A school tutor should align with learning goals. A disaster assistant should connect to authoritative alerts. General model capability is a component, not the institution.
+This is why weather remains such a useful example. The National Weather Service does not simply offer access to an unconstrained model and invite citizens to ask anything about the atmosphere. It operates observation networks, forecasting centers, standards, warning systems, and relationships with emergency management. Its intelligence is embedded in a public service with continuity obligations.
 
-This matters because accountability follows institutions better than interfaces. If a public system gives a wrong answer, someone should own correction. There should be versioning, contact paths, incident handling, and public documentation. Citizens should not have to infer whether a confident answer came from current policy or model improvisation.
+Continuity is one of the things that separates infrastructure from a product.
 
-Public systems also face a legitimacy standard commercial products can often avoid. A private user can choose among assistants. A citizen may have no realistic alternative to a government portal. This asymmetry argues for stronger transparency, accessibility, due process, and human fallback.
+A commercial provider can retire a feature, change terms, raise prices, close an API, alter a model, or leave a market. Sometimes that is exactly what a competitive market should permit. A government cannot casually discontinue court access, tax administration, emergency warnings, disability benefits, or election information because a vendor changed strategy.
+
+Public AI therefore needs exit options before it needs grand slogans.
+
+Open formats. Exportable logs. Durable identifiers. Documented interfaces. Procurement diversity. Local fallback for critical functions. The ability to replace one model without rebuilding the entire service. Separation between authoritative data, retrieval, inference, identity, and the user interface.
+
+These are boring assets.
+
+Boring assets are how institutions survive fashion.
+
+GPS offers a second useful model because its public value comes partly from what government does not control.
+
+The underlying positioning, navigation, and timing infrastructure supports transportation, surveying, agriculture, telecommunications, finance, emergency response, and everyday navigation. The public signal is shared while downstream uses multiply. A farmer, phone maker, bank, logistics company, and mapping service do not need the same application. They need a dependable common layer on which many applications can be built.
+
+Public AI could often be more valuable as that kind of layer than as one giant government chatbot.
+
+The shared layer might contain authenticated public records, machine-readable regulations, multilingual terminology services, public evaluation suites, identity and consent standards, provenance infrastructure, baseline models, public scientific retrieval, or trusted services for verifying official generated content.
+
+Different institutions could build different interfaces on top.
+
+That matters because interface control is power.
+
+If one public chatbot becomes the only practical front door to government, whoever controls that interface influences which questions are easy to ask, which sources appear first, how uncertainty is phrased, and which alternatives remain visible. A shared infrastructure layer can support libraries, courts, schools, local governments, journalists, legal-aid groups, unions, companies, and community organizations without requiring all of them to inhabit one official conversational personality.
+
+Common evidence does not require common thought.
+
+This distinction is especially important in democratic systems. Some public information is authoritative in a straightforward sense. The text of a statute, the filing deadline, the issued weather warning, the official economic series, and the published benefit rule have identifiable sources. Interpretation can remain plural.
+
+The law is the law; explanations can adapt.
+
+The forecast is shared; implications can be local.
+
+The public-health guidance has an authoritative source; translation can fit the reader.
+
+AI is unusually good at adapting explanation to the person in front of it. Public institutions should use that capability without confusing personalized explanation with personalized truth.
+
+That is harder than it sounds.
+
+A society in which every citizen receives a different generated explanation of public policy can become difficult to coordinate if the source disappears behind the explanation. Personalization should therefore preserve a route back to the shared record. The user should be able to see what rule, notice, filing, dataset, or policy the answer rests on.
+
+Public intelligence needs provenance because public authority cannot rest on conversational confidence.
+
+It also needs alternatives.
 
 The word public should not mean compulsory.
 
-A government can provide a strong AI service while preserving alternative channels. Paper forms, phone service, in-person help, and human appeals may remain necessary for people who cannot or should not use the AI channel. Digital transformation often fails when the new efficient interface becomes the only door.
+A digital system can be the easiest channel without becoming the only channel. Paper forms, phone service, in-person assistance, accessible interfaces, and human appeals may remain necessary. This is not nostalgia for inefficient bureaucracy. It is recognition that public institutions serve people under unequal conditions.
 
-AI can make the efficient door wider. It should not brick up the others before evidence justifies it.
+A person may lack a modern device, stable internet, strong literacy, a private place to ask a sensitive question, fluency in the dominant language, or confidence that the automated system understands an unusual case. If the public agency closes every other door because the AI door works well for the median user, convenience becomes exclusion.
 
-There is another reason to build public intelligence: common reference points.
+AI should widen the efficient door before anyone bricks up the others.
 
-A society in which every person receives a different personalized explanation of law, science, and policy can become difficult to coordinate. Personalization helps comprehension, but civic life also needs shared texts and authoritative statements. Public AI should distinguish the underlying source from the personalized layer.
+Free access is not the same as effective access anyway.
 
-The law is the law; the explanation can adapt.
+Two people can receive the same model and extract very different value. One knows how to frame a question, challenge a source, recognize uncertainty, export records, and escalate a problem. The other accepts the first fluent answer because the institution feels authoritative. Wealthier users may add private experts, better devices, proprietary databases, and paid systems on top of the public layer.
 
-The forecast is shared; the implications can be localized.
+The meaningful unit of public provision is therefore not “access to AI.”
 
-The public-health guidance is authoritative; the translation can fit the reader.
+It is access to a capability.
 
-This separation protects common reality while using AI to improve access.
+Can the person understand the situation? Can they make a decision? Can they complete the process? Can they correct the record? Can they obtain a remedy when the system is wrong?
 
-Public intelligence also changes the bargaining relationship with private providers. If essential capabilities exist only behind commercial APIs, governments become dependent on pricing, availability, model policy, and vendor incentives they do not control. Procurement can manage some of this. Strategic public capacity can manage more.
+This is where libraries become newly important.
 
-The capacity need not mean the state trains the largest frontier model itself. Public infrastructure often combines public standards and investment with private production. Roads are built by contractors. Weather systems buy commercial equipment. Governments use cloud services. The question is where public control is necessary for continuity, rights, and bargaining power.
+The value of a library was never only that books could be borrowed without buying them. Librarians helped people navigate collections, evaluate sources, use unfamiliar tools, locate official information, and enter systems they did not understand. In an AI-rich society, libraries, schools, clinics, courts, workforce centers, and community organizations may perform the same intermediary function for machine intelligence.
 
-A baseline public model could be open, contracted, federated, or run by a consortium. Sensitive tasks might require local deployment. Specialized public datasets could be maintained separately from general models. The architecture should follow the service, not an ideological commitment to one ownership form.
+Sometimes the public tutor will be a model. Sometimes the more important tutor will be a person teaching someone how to interrogate the model.
 
-The strongest argument for public intelligence is not redistribution after markets allocate poorly. It is that some kinds of cognition produce network benefits when everyone can rely on them.
+Civic competence includes the ability to disagree with the system.
 
-Weather warnings work better when schools, broadcasters, businesses, and emergency managers share the same warning vocabulary. Public health works better when outbreaks are detected across jurisdictions. Standards reduce transaction cost because everyone does not invent a private unit of measure.
+A public service should therefore make its own limits visible. Where does the advice end? Which source controls? How can the record be corrected? When is a human available? How does an appeal work? What happens when a case does not fit the category?
 
-AI could create similar common capabilities: interoperable identity checks, public verification services, machine-readable law, accessible government records, multilingual emergency assistance, public scientific retrieval, and trustworthy digital signatures for generated official content.
+These are not embarrassing failure modes to hide behind a friendly interface.
 
-These are not glamorous consumer agents. They are cognitive plumbing.
+They are part of the service.
 
-Civic plumbing matters most when it is taken for granted.
+The same principle should govern public data.
 
-GPS offers an instructive example. Satellite navigation began as military infrastructure, but civilian access became deeply embedded in transportation, surveying, agriculture, finance, telecommunications timing, and everyday navigation. The public signal created vast private value downstream. Few smartphone users think of themselves as consuming government space infrastructure when they ask for directions.
+Governments possess records collected through taxation, regulation, education, health care, scientific research, benefits administration, licensing, law enforcement, and countless other functions. Some should be open. Some are sensitive. Some are collected under legal obligations people cannot avoid. Treating all of this as one giant training corpus would confuse availability with legitimacy.
 
-Public AI investments could have similarly indirect returns. A high-quality public translation service can support hospitals, courts, schools, small businesses, and emergency response. A public domain-specific model for regulatory text could lower compliance cost across an industry. A scientific literature service could increase research productivity in institutions unable to buy expensive tools.
+Purpose matters.
 
-The value would be distributed and therefore easy to underestimate in a narrow agency budget.
+Data collected to deliver a benefit should not silently become a general surveillance asset. Health records should not drift into unrelated enforcement merely because a shared AI platform makes the technical connection easy. A child’s confused questions in an educational system should not become a permanent behavioral dossier. Public institutions should be able to explain why data are reused, under which authority, for which purpose, and with what route for contesting error.
 
-This is the classic challenge of public goods. The institution paying may not capture the whole return.
+This does not require data paralysis.
 
-Public intelligence faces risks private systems face less intensely. Political leaders may pressure models to present favorable narratives. Agencies may use assistance tools as surveillance channels. Procurement may freeze inferior technology. Public systems may become mandatory by convenience. Data sharing intended to improve service can create dossiers that outlive the original purpose.
+Citizens already suffer from systems that refuse to share legitimate information. A person may have to prove the same fact repeatedly to several agencies. Secure, purpose-limited reuse can reduce that burden. The important distinction is between service integration and person integration.
 
-Governance is therefore not a side issue. Public intelligence requires institutional independence appropriate to the task, audit, retention limits, appeal, procurement diversity, and clear separation between service data and unrelated enforcement where rights demand it.
+Services can cooperate without creating one all-seeing administrative memory.
 
-Weather forecasting again provides a useful comparison because factual prediction can be insulated, imperfectly but meaningfully, from daily political preference. Economic statistics, central bank research, and scientific agencies rely on similar norms of professional independence. AI services that mediate facts for the public may need comparable protection.
+Scoped credentials, attribute verification, audit trails, purpose-bound access, and separation between identifiers and service records can help. Technical architecture cannot decide the policy, but it can make a policy enforceable.
 
-The allocation question appears sharply during scarcity. If public compute is limited during a disaster, which uses get priority? Emergency translation over homework help? Infrastructure monitoring over routine paperwork? A market would allocate by price unless rules intervene. Public systems need explicit priority policy.
+The payoff is not only privacy.
 
-This returns us to triage.
+It is truth.
 
-A civic AI infrastructure could have service classes based on social consequence rather than subscription status. Emergency services receive guaranteed capacity. Routine public queries use lower-cost models. Expensive reasoning is reserved for cases that cannot be resolved otherwise. Local systems provide degraded service during network outages.
+A benefits assistant will receive worse information if people believe every question can be used against them. A public-health tool will receive worse information if users assume unrelated enforcement agencies can inspect the conversation. Surveillance can produce more records and less honesty.
 
-The architecture resembles public utility design because that is what it is becoming.
+Public intelligence depends on institutional boundaries because intelligence depends on truthful input.
 
-There is a temptation to call such systems “AI utilities,” but the analogy should be used carefully. Electricity is largely fungible at the outlet. Intelligence is contextual. A megawatt delivered to one socket is equivalent to a megawatt delivered to another within technical constraints. A legal explanation is not interchangeable with a weather forecast. Public intelligence will likely be a family of services rather than one universal cognitive grid.
+The same is true of independence.
 
-What can be shared is infrastructure: compute, identity, privacy-preserving access, evaluation, provenance, model hosting, language coverage, safety monitoring, and public standards.
+A public system that explains scientific evidence, economic data, weather warnings, or election procedures may face political pressure precisely because people trust it. The institution needs whatever insulation is appropriate to its task. That does not mean technocrats become sovereign. It means the production of factual public information should not be casually rewritten to flatter whoever currently holds office.
 
-This shared layer can reduce the fixed cost of building many specialized services.
+Weather agencies, statistical agencies, scientific institutions, and other public bodies have developed different norms and legal structures around professional integrity. AI services that mediate their information inherit the same problem. The conversational layer should not become an easy route around the institution’s evidentiary standards.
 
-Public provision should also preserve pluralism. Intelligence is not always a factual commodity. Policy interpretation, cultural judgment, history, and education involve legitimate disagreement. A state model should not become the one official mind.
+There is another allocation question public systems cannot avoid: scarcity.
 
-The solution is to distinguish authoritative sources from authorized interpretations. Government can publish law, data, procedure, and evidence while allowing many models and civil-society organizations to interpret them. Public infrastructure can make sources machine-readable and verifiable without monopolizing conclusion.
+Compute is not literally infinite. During emergencies, network capacity can fail. Specialist review can be scarce. Local infrastructure can go down. A civic AI system needs priority rules for these conditions.
 
-This may be one of the most important design choices of the AI era: build common evidence without requiring common thought.
+Emergency translation may deserve guaranteed capacity while routine queries shift to cheaper models. Critical infrastructure monitoring may continue locally when cloud access fails. Difficult benefit appeals may receive more expensive reasoning and human review while ordinary status checks use deterministic systems. Public architecture can route cognition according to social consequence rather than subscription tier.
 
-The same principle applies globally. Language, compute, and data resources are distributed unevenly. If advanced AI becomes a prerequisite for economic participation, countries without infrastructure may rent intelligence from foreign firms under terms they do not shape. Development policy will increasingly include cognitive infrastructure: connectivity, energy, compute, local-language data, education, and institutions capable of governing systems.
+This resembles utility planning, but intelligence is not electricity.
 
-The old digital divide does not disappear when a chatbot works on a phone. It moves into quality, context, privacy, reliability, and authority.
+A unit of electricity is largely fungible. A legal explanation is not interchangeable with a weather forecast. Public intelligence is unlikely to become one universal cognitive grid. It will be a family of services sharing some infrastructure and standards.
 
-A person with intermittent connectivity and a weak generic model is not cognitively equal to an institution with private data, frontier systems, expert review, and privileged tools. Counting “access to AI” will be as misleading as counting access to a road without asking where the road goes.
+That is a feature, not a failure of ambition.
 
-Public intelligence aims to raise the floor.
+The strongest public systems may be modular because public purposes differ.
 
-It does not require flattening the ceiling. Private firms can build extraordinary systems. Individuals can buy specialized services. Researchers can pursue unusual models. The public question is whether people possess enough trustworthy cognitive infrastructure to exercise rights, learn, navigate institutions, and participate in the economy without being entirely dependent on a few private gatekeepers.
+A disaster-warning service needs continuity and speed. A benefits service needs procedural correctness and appeal. A school system needs developmental safeguards. A court service needs legitimacy and clear jurisdiction. A scientific retrieval system needs provenance. A translation service needs broad language coverage and local correction.
 
-This is an allocation choice societies will make whether they name it or not.
+One general model can contribute to all of them without being the institution behind any of them.
 
-If they choose nothing, the default allocation will follow capital, infrastructure, and market power. Sometimes that will be efficient. Sometimes it will create cognitive deserts beside cognitive abundance.
+This is also why public capacity does not require the state to train the largest frontier model itself.
 
-The weather map reminds us that another arrangement is possible. A farmer can look at the same storm system as an airline, a school, and a billionaire. They may have different specialized forecasts and different capacity to act, but the foundational intelligence is treated as shared.
+Governments already build infrastructure through mixtures of public standards, public investment, contractors, commercial products, research institutions, and regulated providers. Roads can be built by private firms and remain public infrastructure. Weather systems can buy commercial hardware. Agencies can use cloud services.
 
-In an age of manufactured minds, deciding what everyone should be able to know may become as important as deciding what everyone should be able to own.
+The question is not ideological ownership.
 
-The GPS example adds a second lesson: public intelligence can be most powerful when the public institution does not try to own every downstream application.
+It is which layers must remain controllable enough to guarantee continuity, rights, bargaining power, and correction.
 
-The government operates the underlying positioning, navigation, and timing system and publishes civilian interface information. A farmer can build precision agriculture on top. A phone maker can build navigation. A bank can use timing. A surveying firm can buy specialized receivers. The common layer is stable enough to support private variety.
+A government wholly dependent on one private provider for a critical cognitive service may discover that the apparent efficiency was purchased by giving away exit. A government that insists on building every layer itself may freeze inferior technology and move too slowly.
 
-Public AI could follow the same pattern. Instead of one giant government chatbot, the public layer might consist of authenticated source repositories, machine-readable regulations, multilingual terminology services, public evaluation suites, identity and consent standards, provenance infrastructure, and baseline models that can be composed into many services.
+Modularity creates room between those failures.
 
-This architecture is less visible than a flagship assistant and more durable.
+The public layer can own the service contract, authoritative data, standards, logs, evaluation, and continuity plan while competing providers supply models or hosting. If one vendor changes price or policy, another can be substituted without rewriting the civic institution around it.
 
-It also reduces one of the central risks of public AI: interface capture. If the state provides only one conversational front door, then whoever controls that interface controls which questions are easy to ask, which sources appear first, how uncertainty is phrased, and which alternatives are visible. A shared infrastructure layer allows schools, libraries, legal-aid groups, local governments, journalists, unions, companies, and communities to build different interfaces on top of common verified material.
+That is what strategic public capacity looks like in practice: not self-sufficiency, but credible alternatives.
 
-Common infrastructure can support plural institutions.
+The same idea matters internationally.
 
-The same approach can improve procurement. Governments routinely buy technology through contracts that age more slowly than software. A monolithic AI procurement can lock an agency into one vendor’s model behavior, pricing, hosting, and update schedule. A modular public layer can separate components: identity from inference, retrieval from interface, evaluation from hosting, authoritative data from generated explanation.
+Countries differ in connectivity, energy, compute, language resources, education, public institutions, and bargaining power with technology firms. A chatbot working on a phone does not erase those differences. The old digital divide can reappear as a divide in reliability, context, privacy, local-language quality, specialist support, and authority.
 
-Modularity creates exit options.
+A country that rents most critical cognition from foreign providers under terms it cannot influence occupies a different position from one with enough local capability to negotiate, substitute, and govern.
 
-Exit options matter because public systems have continuity obligations. A commercial provider can discontinue a product. A government cannot casually discontinue tax administration, emergency alerts, disability benefits, or court access. The architecture should assume that vendors change, models fail, prices move, and political administrations turn over.
+Again, the objective need not be autarky.
 
-Public intelligence therefore needs boring assets: open formats, exportable logs, durable identifiers, documented interfaces, local fallback, procurement diversity, and the ability to replace one model without rebuilding the service from scratch.
+Knowledge benefits from exchange. Models improve through broad use. Scientific work thrives across borders. The desirable condition is resilient interdependence rather than dependence disguised as frictionlessness.
 
-Boring assets are how public capacity survives fashion.
+The weather map gives the chapter its simplest test.
 
-There is also a question of evidence ownership. Public agencies possess datasets collected through taxation, regulation, public service, scientific research, and administrative process. Some should be open. Some are sensitive. Some contain the traces of inequality or enforcement patterns that make naive training dangerous. Treating “government data” as one undifferentiated training resource would confuse availability with legitimacy.
+A farmer, airline, school, and billionaire can all look at the same storm. They may possess very different specialized tools and very different capacity to respond, but the foundational observation and warning system is treated as a shared capability.
 
-A public data regime for AI should preserve purpose.
+GPS gives the complementary lesson. Public infrastructure can create enormous private variety when the common layer is reliable enough that everyone does not have to rebuild it.
 
-Data collected to deliver a benefit should not automatically become a general surveillance asset. Records gathered for health should not quietly migrate into unrelated enforcement. Children’s educational interactions should not become permanent behavioral dossiers. Where reuse is justified, the institution should be able to explain the public purpose, the safeguards, and the route for contesting error.
+Those two patterns suggest a practical ambition for public AI.
 
-This is not an argument for data paralysis. Public intelligence can improve precisely because agencies share information that citizens currently have to re-enter repeatedly. A person should not have to prove the same fact to five offices if law and consent permit secure reuse. The challenge is to design reuse without creating an all-seeing administrative memory.
+Not one public mind.
 
-The distinction is between service integration and person integration.
+Not a free imitation of every commercial service.
 
-A system can make services interoperable while limiting how much any one actor can see about the whole person. Technical architecture can help: scoped credentials, attribute verification, purpose-limited access, audit trails, and separation between identifiers and service records. Governance has to supply the rules those mechanisms enforce.
+A dependable layer of cognitive infrastructure that makes important sources easier to understand, lowers the cost of navigating public institutions, preserves routes to human authority, protects purpose boundaries around data, survives vendor change, supports many interfaces, and raises the floor beneath people who would otherwise face institutions alone.
 
-The payoff is not merely privacy. It is trust.
+The final measure should not be how many citizens opened the chatbot.
 
-Public AI will fail if people believe every question becomes evidence against them. A benefits assistant cannot be useful if asking for clarification creates fear of enforcement. A public-health tool cannot gather honest information if users think unrelated agencies will receive it. Intelligence depends on truthful input, and truthful input depends on institutional boundaries.
+It should be whether people became more capable of understanding, deciding, acting, and obtaining remedy.
 
-The public sector therefore faces the same paradox as organizational memory: surveillance can produce more records and less truth.
+That is a much harder standard.
 
-There is a distributional problem even after access is free. People differ in their ability to formulate questions, challenge answers, recognize uncertainty, and convert advice into action. A public AI service can widen gaps if sophisticated users learn to extract more value while others accept the first fluent answer.
-
-Public intelligence needs human intermediaries as well as models.
-
-Libraries are an instructive institution. Their value was never only free books. Librarians helped people navigate collections, evaluate sources, use unfamiliar tools, and enter systems they did not understand. In an AI-rich society, libraries, schools, clinics, courts, workforce centers, and community organizations may become cognitive access points where people receive both machine assistance and human help using it.
-
-The future public tutor may sometimes be a model and sometimes be a person teaching someone how to interrogate the model.
-
-That distinction matters because civic competence includes the ability to disagree with the system.
-
-A public service should teach users where its authority ends, how to see sources, how to correct records, how to appeal decisions, and how to reach a human. These are not failure modes to hide. They are part of the service.
-
-The quality of public intelligence should therefore be measured by more than answer accuracy. Did people complete the process? Were errors corrected? Did appeals become easier? Did language gaps shrink? Did staff workload move toward harder cases or merely rise? Did users understand when advice was provisional? Did the system remain available during emergencies? Did underserved groups receive comparable outcomes?
-
-Public institutions have to measure the consequence chain.
-
-Once they do, the phrase “AI access” becomes less useful. The meaningful unit is effective access to a capability: the ability to understand, decide, act, and obtain remedy.
-
-That is a much higher standard than putting a chatbot on a website.
-
-It is also a more interesting civic project.
-
-A society can build public intelligence the way it built other shared systems: not as one machine everyone must obey, but as a layer of dependable cognitive infrastructure that lowers the cost of knowing, preserves routes to human authority, and leaves room for many institutions to think differently on top of common facts.
+It is also what makes intelligence public.
