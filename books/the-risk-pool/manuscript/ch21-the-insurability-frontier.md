@@ -348,6 +348,94 @@ Insurance sits between those extremes.
 
 It allows failure without making failure free.
 
+That role changes the scale of who can participate.
+
+A giant corporation can retain risks that would destroy a smaller firm. It can self-insure, spread projects across regions, negotiate bespoke contracts, fund captives, post collateral, and absorb uninsured losses from cash flow. A startup or municipal utility cannot do these things as easily.
+
+When a new technology remains beyond ordinary insurance, deployment naturally favors the largest balance sheets.
+
+This is an underappreciated competition effect.
+
+The absence of insurance is not neutral. It can create a private minimum-capital requirement more severe than any regulator wrote. Only firms wealthy enough to carry the tail themselves can enter.
+
+When insurance becomes available, smaller firms can rent balance-sheet strength.
+
+The premium may be expensive. It can still democratize participation compared with requiring every entrant to survive the maximum loss alone.
+
+This is one reason standardization matters so much at the frontier.
+
+Bespoke risk can be insured, but bespoke underwriting is expensive. An insurer may spend weeks understanding a novel battery chemistry, an autonomous industrial process, or an AI deployment. The transaction can justify that effort for a billion-dollar project. It cannot for ten thousand small businesses each seeking a modest policy.
+
+Standards compress underwriting cost.
+
+A recognized fire code, cybersecurity framework, product certification, incident taxonomy, or model-governance protocol lets the insurer rely on shared evidence instead of reconstructing the technology from first principles every time.
+
+The frontier therefore moves inward through boring documents.
+
+Test protocols.
+
+Definitions.
+
+Inspection records.
+
+Version histories.
+
+Loss reports.
+
+Contract wording.
+
+The institutions that create these artifacts rarely look like engines of innovation. They are.
+
+They turn one-off experiments into categories capital can recognize.
+
+There is a danger here too.
+
+A standard can freeze the wrong architecture. An incumbent can shape certification so smaller rivals face disproportionate compliance cost. An insurer can demand controls that are easy to audit rather than controls that actually reduce loss. A regulator can treat the existence of a checklist as proof of safety.
+
+The frontier can be pushed outward cosmetically without the underlying risk becoming better.
+
+Claims eventually expose the difference.
+
+This is why near-miss and failure reporting are as important as certification. Aviation did not become insurable because airplanes received certificates and then stopped failing. The system learned because incidents were investigated, causes were distributed, maintenance changed, designs changed, and responsibility became more legible.
+
+Emerging technologies need the same institutional memory.
+
+An insurer should care about the incident that nearly caused a loss, not only the claim that did. A regulator should care about patterns across operators. A reinsurer should care when multiple insureds share a control weakness. A standards body should revise practice when failure data contradicts the assumption behind the standard.
+
+Insurability is not a one-time gate.
+
+It is a learning loop.
+
+The frontier also has a political dimension because societies can choose to move it with public capital.
+
+A government guarantee can make an otherwise unfinanceable project appear insurable by placing the extreme tail on taxpayers. This can be justified for infrastructure, national security, or technologies with large public benefits. It can also disguise a project whose private economics do not support its risk.
+
+The right question is not whether government moved the frontier.
+
+Governments always shape it through law, liability, standards, emergency response, and credit.
+
+The right question is whether the public is being paid or compensated for the risk it takes, whether private parties still retain enough exposure to care about failure, and whether the public benefit is large enough to justify the contingent liability.
+
+A public backstop should make a new market possible without making bad engineering cheap.
+
+The same principle applies to property in a changing climate. Public reinsurance can keep private insurers writing in a difficult region. If it is paired with stronger codes, mitigation, land-use discipline, and a transition plan, it can buy time for adaptation. If it simply makes the tail cheaper while development continues unchanged, it moves the frontier on paper and the hazard in the opposite direction.
+
+Insurability should be treated as a diagnostic, not a political trophy.
+
+A place or technology becoming easier to insure can mean risk genuinely fell, information improved, capital became cheaper, or government assumed more of the tail. Those are different achievements.
+
+A place becoming harder to insure can mean hazard rose, legal uncertainty increased, capital withdrew, market competition weakened, or models became more pessimistic. Those are different failures.
+
+The premium alone does not tell us which occurred.
+
+The institutional job is to decompose the signal before acting on it.
+
+That decomposition matters because the wrong remedy can push the frontier further away. Subsidize a risk that needs engineering and exposure grows. Mandate engineering when the true problem is market power and households spend money without gaining capacity. Cap prices when the problem is capital scarcity and availability shrinks. Create a broad public guarantee when the risk is ordinary and private prevention weakens.
+
+The frontier is a systems property.
+
+Moving one boundary moves others.
+
 The insurability frontier therefore tells us something about institutional maturity.
 
 A risk far beyond the frontier is either too unknown, too correlated, too manipulable, too politically unstable, or too destructive for ordinary private pooling.
