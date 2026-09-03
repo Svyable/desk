@@ -25,6 +25,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [America's Got a Spending Problem](https://svyable.github.io/desk/books/americas-got-a-spending-problem/README.md)
 - [Artificial Abundance](https://svyable.github.io/desk/books/artificial-abundance/README.md)
 - [Artificial Promises](https://svyable.github.io/desk/books/artificial-promises/README.md)
+- [Asleep at the Wheel](https://svyable.github.io/desk/books/asleep-at-the-wheel/README.md)
 - [Austerity Measures](https://svyable.github.io/desk/books/austerity-measures/README.md)
 - [Chokepoint](https://svyable.github.io/desk/books/chokepoint/README.md)
 - [Energy, Value & Intelligence](https://svyable.github.io/desk/books/energy-value-intelligence/README.md)
