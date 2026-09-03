@@ -188,6 +188,32 @@ The reverse problem also exists.
 
 If the obligation is entirely federal, the school could educate students inside a bubble that misunderstands where much of modern space capability is actually built. The answer is probably strong industry exposure during education without assuming immediate private employment satisfies the public debt.
 
+The question of *after* the obligation is just as important as the obligation itself.
+
+A graduate can repay five years of public service and leave on the first eligible day. Legally, the bargain may be complete. Institutionally, a cohort that exits government immediately after its minimum commitment may signal that the Academy is solving intake while the public sector continues to lose experienced talent.
+
+The school should therefore track two different forms of retention.
+
+Contract retention asks whether graduates complete what they owe.
+
+Voluntary retention asks whether they remain after they are free to leave.
+
+The first measures enforcement and basic fit.
+
+The second measures whether public institutions are creating careers worth continuing.
+
+A low voluntary-retention rate would not automatically condemn the Academy. Graduates can serve the country from universities, industry and other institutions after completing their debt. The United States may even benefit from alumni who carry federal understanding into commercial space.
+
+But the pattern would matter.
+
+If the Academy repeatedly spends heavily to produce people who leave public service as soon as they are permitted, policymakers should ask whether the problem is education or employment.
+
+That distinction protects the Academy from being blamed for every workforce failure and prevents agencies from assuming a service obligation removes the need to compete for talent.
+
+The government cannot rely forever on a contract signed by an eighteen-year-old.
+
+At some point it has to become a good place for the adult to work.
+
 This is where obligation and curriculum meet.
 
 A student who knows the public will receive years of service after graduation experiences education differently.
@@ -226,7 +252,9 @@ Academies can become very proud of themselves.
 
 The obligation creates a recurring corrective. Graduation is not the end of the Academy's story. It is the point where the public begins collecting evidence.
 
-Do graduates remain in service?
+Do graduates complete their commitments?
+
+Do they remain in service afterward?
 
 Do they perform well?
 
