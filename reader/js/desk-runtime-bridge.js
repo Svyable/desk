@@ -5,7 +5,6 @@ const SHELF_WORKER_PATH = '/shelf/reader/sw.js';
 const DEFAULT_RETRY_DELAYS = Object.freeze([140, 520]);
 const OFFLINE_RETRY_FLOOR_MS = 1200;
 const OFFLINE_RETRY_CEILING_MS = 1800;
-const CATALOG_FUNCTION = 'async function loadCatalog()';
 const DESK_CATALOG_GATE = "if (meta.published || window.__IMPRINT?.role === 'desk') entries.push(meta);";
 
 function asUrl(value, base) {
@@ -135,33 +134,40 @@ export function rewriteSharedModuleSpecifiers(source, upstream) {
   return Object.freeze({ source: rewritten, staticImports, dynamicImports });
 }
 
-function functionSlice(source, signature) {
-  const start = source.indexOf(signature);
-  if (start < 0) return null;
-  const open = source.indexOf('{', start + signature.length);
-  if (open < 0) return null;
-
-  let depth = 0;
+function executableSourceMask(source) {
+  const chars = [...source];
   let quote = null;
   let escaped = false;
   let lineComment = false;
   let blockComment = false;
-  for (let index = open; index < source.length; index += 1) {
-    const char = source[index];
-    const next = source[index + 1];
+
+  for (let index = 0; index < chars.length; index += 1) {
+    const char = chars[index];
+    const next = chars[index + 1];
 
     if (lineComment) {
-      if (char === '\n') lineComment = false;
-      continue;
-    }
-    if (blockComment) {
-      if (char === '*' && next === '/') {
-        blockComment = false;
-        index += 1;
+      if (char === '\n') {
+        lineComment = false;
+      } else {
+        chars[index] = ' ';
       }
       continue;
     }
+
+    if (blockComment) {
+      if (char === '*' && next === '/') {
+        chars[index] = ' ';
+        chars[index + 1] = ' ';
+        blockComment = false;
+        index += 1;
+      } else if (char !== '\n') {
+        chars[index] = ' ';
+      }
+      continue;
+    }
+
     if (quote) {
+      if (char !== '\n') chars[index] = ' ';
       if (escaped) {
         escaped = false;
       } else if (char === '\\') {
@@ -171,54 +177,52 @@ function functionSlice(source, signature) {
       }
       continue;
     }
+
     if (char === '/' && next === '/') {
+      chars[index] = ' ';
+      chars[index + 1] = ' ';
       lineComment = true;
       index += 1;
       continue;
     }
+
     if (char === '/' && next === '*') {
+      chars[index] = ' ';
+      chars[index + 1] = ' ';
       blockComment = true;
       index += 1;
       continue;
     }
+
     if (char === "'" || char === '"' || char === '`') {
+      chars[index] = ' ';
       quote = char;
-      continue;
-    }
-    if (char === '{') depth += 1;
-    if (char === '}') {
-      depth -= 1;
-      if (depth === 0) return Object.freeze({ start, open, end: index + 1 });
     }
   }
-  return null;
+
+  return chars.join('');
+}
+
+function catalogGatePattern() {
+  return /if\s*\(\s*meta\.published\s*\)\s*entries\.push\(\s*meta\s*\)\s*;/g;
 }
 
 export function adaptDeskCatalogVisibility(source) {
   const input = String(source || '');
-  const slice = functionSlice(input, CATALOG_FUNCTION);
-  if (!slice) {
-    throw new Error('Shared Reader loadCatalog() contract was not found; update Desk adapter.');
+  const masked = executableSourceMask(input);
+  const matches = [...masked.matchAll(catalogGatePattern())];
+
+  if (matches.length !== 1) {
+    throw new Error(`Expected one shared Reader catalog gate; found ${matches.length}.`);
   }
 
-  const before = input.slice(0, slice.start);
-  const catalog = input.slice(slice.start, slice.end);
-  const after = input.slice(slice.end);
-  const gatePattern = /if\s*\(\s*meta\.published\s*\)\s*entries\.push\(\s*meta\s*\)\s*;/g;
-  const matches = [...catalog.matchAll(gatePattern)].length;
-  if (matches !== 1) {
-    throw new Error(`Expected one shared Reader catalog gate inside loadCatalog(); found ${matches}.`);
-  }
-  if (gatePattern.test(before) || gatePattern.test(after)) {
-    throw new Error('Shared Reader publication gate escaped loadCatalog(); update Desk adapter.');
-  }
-
-  const rewrittenCatalog = catalog.replace(gatePattern, DESK_CATALOG_GATE);
+  const gate = matches[0];
+  const start = gate.index;
+  const end = start + gate[0].length;
   return Object.freeze({
-    source: `${before}${rewrittenCatalog}${after}`,
-    catalogGates: matches,
-    functionStart: slice.start,
-    functionEnd: slice.end,
+    source: `${input.slice(0, start)}${DESK_CATALOG_GATE}${input.slice(end)}`,
+    catalogGates: 1,
+    gateIndex: start,
   });
 }
 
