@@ -185,3 +185,103 @@ The adversary will try to influence that process.
 Some false hypotheses will not arise by accident.
 
 They will be planted.
+
+A mature hypothesis reserve therefore needs an internal economy. Every live explanation should consume some amount of attention proportional to its probability, consequence, and diagnostic value. An explanation with low probability but catastrophic consequence may deserve a small standing watch. A high-probability explanation that predicts nothing distinct from its competitors may deserve less collection than its confidence suggests. The reserve becomes a portfolio rather than a list.
+
+This creates **hypothesis carrying cost**.
+
+The carrying cost is not just compute. It includes collection priorities, review time, dashboard complexity, and the cognitive burden imposed on leaders who must know which alternatives remain serious. A system that never retires possibilities accumulates epistemic debt.
+
+Retirement should therefore be explicit. Why was this hypothesis killed? Which evidence made it no longer useful? Under what changed conditions should it be reopened?
+
+This matters because dead hypotheses sometimes return. The world changes. A capability appears. A political constraint disappears. An assumption that made one course implausible no longer holds. A machine system can preserve the retirement rationale and wake the hypothesis when the rationale expires.
+
+This is more disciplined than simply remembering everything.
+
+The reserve becomes **conditional memory**.
+
+It remembers not only the idea, but why the idea lost standing.
+
+That is useful in long strategic competitions where apparently dormant possibilities can become relevant years later.
+
+There is also a problem of duplication. Machine agents can generate ten hypotheses that are linguistically distinct and structurally identical. One says the adversary is preserving flexibility. Another says it is avoiding commitment. A third says it is maintaining optionality. The model presents diversity; the evidence implications are the same.
+
+A hypothesis reserve needs **semantic deduplication**.
+
+The useful unit is not the sentence. It is the distinct set of assumptions and predictions.
+
+Two explanations that imply the same observations should be merged for operational purposes even if their narratives differ. Two explanations that sound similar but predict different future behavior should remain separate.
+
+This is another place where machine reasoning can help govern machine reasoning.
+
+It can cluster hypotheses by causal structure, identify which assumptions distinguish them, and show which next observation creates the most information gain.
+
+The result is a smaller, sharper reserve.
+
+There is a political implication too. Senior leaders often prefer a concise answer because institutions must coordinate around a decision. A hypothesis reserve cannot become an excuse to brief indecision upward indefinitely.
+
+The staff needs to distinguish **analytical plurality** from **command singularity**.
+
+Analysis can preserve several live explanations.
+
+Command may still choose one plan.
+
+The decision should record which uncertainty it is accepting rather than forcing analysis to pretend the uncertainty disappeared.
+
+This is a subtle institutional skill.
+
+The commander says: we are acting as if A is most likely, while B remains dangerous enough to monitor and C would invalidate the plan if evidence shifts.
+
+That is stronger than either false certainty or paralyzing ambiguity.
+
+Machine staffs can make that state easier to maintain because they can keep B and C alive without consuming the commander's continuous attention.
+
+They can also alert when the decision assumptions are aging.
+
+A plan may have been sensible when selected. Three hours later new evidence changes the ranking. The machine should not merely update the intelligence assessment in another window. It should know which active decisions depended on the old assessment.
+
+This creates an **assumption-to-decision graph**.
+
+Which plans rely on this belief?
+
+Which logistical allocations?
+
+Which diplomatic messages?
+
+Which software configurations?
+
+When the hypothesis changes, the institution can see the downstream consequences.
+
+That capability turns analytical revision into operational revision.
+
+It also makes error less sticky. A force can change its mind without relying on every human who consumed the old assessment to remember to revisit it.
+
+This is one of the places persistent machine reasoning can outperform ordinary bureaucracy quietly. The machine does not need to be smarter than every analyst. It needs to remember which decisions are still standing on which assumptions.
+
+Cheap hypotheses also invite simulation, but simulation should be disciplined by the same standards. A model can create rich hypothetical futures around each explanation. The stories can help leaders understand consequences. They can also make weak hypotheses feel vivid.
+
+Vividness is not probability.
+
+The institution should separate **scenario value** from **forecast confidence**.
+
+A low-probability scenario may be worth exploring because it reveals a catastrophic dependency. A high-probability scenario may need little narrative detail because the response is routine. Machine generation makes it easy to confuse how well a future can be described with how likely the future is.
+
+That confusion should be treated as a human-machine interface risk.
+
+One useful practice is to require simulations to expose the assumptions they inherited from the hypothesis and the assumptions added merely to make the scenario concrete. Otherwise detail becomes counterfeit evidence.
+
+There is a final counterargument to the whole idea of cheap hypotheses: perhaps militaries already suffer from too much analysis and too little action. More branches could create bureaucratic delay, responsibility diffusion, and endless reconsideration. That criticism is serious.
+
+The answer is that a hypothesis reserve should reduce the cost of uncertainty, not increase the cost of command.
+
+Most hypotheses should remain quiet. They should wake when evidence changes, not demand meetings. The system should compress the reserve into decision-relevant deltas: what changed, which assumption matters, which action is now fragile.
+
+If cheap reasoning produces more briefing rather than more discrimination, the architecture has failed.
+
+The success metric is not the number of hypotheses generated.
+
+It is how often the reserve catches a meaningful alternative early enough to change a decision, how often it identifies a decisive observation, and how little unnecessary attention it consumes while doing so.
+
+That is a hard standard.
+
+It is also the standard that keeps abundant machine imagination connected to military reality.
