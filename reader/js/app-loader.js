@@ -16,7 +16,27 @@ const DESK_CATALOG_AUDIT = Object.freeze([
   'Expected one shared Reader catalog gate',
 ]);
 
+function installDeskChromePolicy() {
+  // Desk already exposes Bookmark, Search, Contents, and Settings in the primary
+  // Reader chrome. Do not add Bookself's second persistent bottom shortcut layer.
+  document.documentElement.dataset.oneHandedActionsReady = 'true';
+
+  // Keep a defensive visual guard so an upstream initialization-contract change
+  // cannot silently reintroduce duplicate bottom chrome before the adapter catches up.
+  if (document.getElementById('deskReaderChromePolicy')) return;
+  const style = document.createElement('style');
+  style.id = 'deskReaderChromePolicy';
+  style.textContent = `
+    #readerOneHandedActions,
+    .reader-one-handed-actions {
+      display: none !important;
+    }
+  `;
+  document.head.appendChild(style);
+}
+
 installDeskRuntimeBridge();
+installDeskChromePolicy();
 
 function installRecoveryStyles() {
   if (document.getElementById('deskBootstrapRecoveryStyle')) return;
