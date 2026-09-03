@@ -13,7 +13,8 @@
 - [x] Chapter 7 — A Thousand Satellites Is a Different Machine
 - [x] Chapter 8 — The Customer Everywhere
 - [x] Chapter 9 — The Private Astronaut
-- [ ] Chapter 10 — The Antenna in the Trench
+- [x] Chapter 10 — The Antenna in the Trench
+- [ ] Chapter 11 — The New Eyes
 
 ## Research packets to build before deep drafting
 - [ ] COTS primary documents / Space Act Agreements / NASA oral histories
@@ -26,11 +27,12 @@
 - [x] Chapter 7 deployment / subscriber / internal-launch evidence packet
 - [x] Chapter 8 customer / mobility / disaster-continuity evidence packet
 - [x] Chapter 9 private-astronaut / commercial-destination evidence packet
+- [x] Chapter 10 strategic communications / Ukraine chronology evidence packet
 - [ ] Starlink constellation population by year and generation
 - [ ] Starlink revenue/customer estimates — source quality matrix
 - [ ] FCC authorizations and modification orders
 - [ ] ESA debris reports 2024–2026
-- [ ] Commercial remote sensing market / Ukraine chronology
+- [ ] Commercial remote sensing market / Ukraine imagery chronology
 - [ ] Commercial LEO destination contracts and ISS transition plan
 - [ ] China LEO constellation / commercial-space policy research
 
