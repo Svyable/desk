@@ -39,10 +39,11 @@
 - [Research brief, counterevidence, and chapter-to-evidence map](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
 - [Chapter evidence notes](research/chapters/)
+- [First-edition release review — 2026-09-03](research/release-review-2026-09-03.md)
 
 ## Review status
 
-This is a complete, unpublished Desk draft. The 21-chapter body, front matter, back matter, rights metadata, cross-book research brief, source ledger, and chapter evidence notes are assembled. Publication review is a separate step; nothing in this status change releases the book to Shelf.
+This is a complete, unpublished Desk draft. The 21-chapter body, front matter, back matter, rights metadata, cross-book research brief, source ledger, and chapter evidence notes are assembled. The first-edition release review is **release-cleared subject only to the normal mechanical Desk → Shelf publication transaction**; Desk remains the working `Complete draft` edition.
 
 The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and occupation, software and infrastructure. A gate can be a person, institution, rule, queue, algorithm, interface, credential, or technical dependency. The book asks when those gates protect something worth protecting, when they become extraction machines, and what meaningful appeal, exit, competition, and accountability look like.
 
