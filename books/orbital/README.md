@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Prologue + 8 complete chapters; 21 chapters planned |
+| **Chapters** | Prologue + 9 complete chapters; 21 chapters planned |
 
 A narrative history of how low Earth orbit changed from a government-run domain of bespoke spacecraft into an industrial layer increasingly launched, manufactured, networked, and operated by private companies. The book follows the procurement revolution, reusable launch, production cadence, constellations, commercial infrastructure, orbital externalities, and the emerging question of what happens when capabilities once associated with state power are sold as services.
 
@@ -23,6 +23,7 @@ A narrative history of how low Earth orbit changed from a government-run domain 
 - [x] [Ch 6 — The Constellation Bet](manuscript/ch06-the-constellation-bet.md)
 - [x] [Ch 7 — A Thousand Satellites Is a Different Machine](manuscript/ch07-a-thousand-satellites-is-a-different-machine.md)
 - [x] [Ch 8 — The Customer Everywhere](manuscript/ch08-the-customer-everywhere.md)
+- [x] [Ch 9 — The Private Astronaut](manuscript/ch09-the-private-astronaut.md)
 
 ## Planned architecture
 
@@ -38,4 +39,5 @@ The working book bible currently targets 21 chapters across six parts plus prolo
 - [Chapter 6 evidence notes — The Constellation Bet](research/ch06-constellation-evidence.md)
 - [Chapter 7 evidence notes — A Thousand Satellites Is a Different Machine](research/ch07-deployment-flywheel-evidence.md)
 - [Chapter 8 evidence notes — The Customer Everywhere](research/ch08-customer-everywhere-evidence.md)
+- [Chapter 9 evidence notes — The Private Astronaut](research/ch09-private-astronaut-evidence.md)
 - [Cooking queue](research/cooking-queue.md)
