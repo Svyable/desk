@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Prologue + 10 complete chapters; 21 chapters planned |
+| **Chapters** | Prologue + 11 complete chapters; 21 chapters planned |
 
 A narrative history of how low Earth orbit changed from a government-run domain of bespoke spacecraft into an industrial layer increasingly launched, manufactured, networked, and operated by private companies. The book follows the procurement revolution, reusable launch, production cadence, constellations, commercial infrastructure, orbital externalities, and the emerging question of what happens when capabilities once associated with state power are sold as services.
 
@@ -25,6 +25,7 @@ A narrative history of how low Earth orbit changed from a government-run domain 
 - [x] [Ch 8 — The Customer Everywhere](manuscript/ch08-the-customer-everywhere.md)
 - [x] [Ch 9 — The Private Astronaut](manuscript/ch09-the-private-astronaut.md)
 - [x] [Ch 10 — The Antenna in the Trench](manuscript/ch10-the-antenna-in-the-trench.md)
+- [x] [Ch 11 — The New Eyes](manuscript/ch11-the-new-eyes.md)
 
 ## Planned architecture
 
@@ -42,4 +43,5 @@ The working book bible currently targets 21 chapters across six parts plus prolo
 - [Chapter 8 evidence notes — The Customer Everywhere](research/ch08-customer-everywhere-evidence.md)
 - [Chapter 9 evidence notes — The Private Astronaut](research/ch09-private-astronaut-evidence.md)
 - [Chapter 10 evidence notes — The Antenna in the Trench](research/ch10-antenna-in-the-trench-evidence.md)
+- [Chapter 11 evidence notes — The New Eyes](research/ch11-new-eyes-evidence.md)
 - [Cooking queue](research/cooking-queue.md)
