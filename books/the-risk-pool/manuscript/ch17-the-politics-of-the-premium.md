@@ -178,7 +178,7 @@ That is a harder question because it admits that insurance has a social design.
 
 The cheapest possible insurance for the safest people is not automatically the best insurance system.
 
-Nor is universal cross-subsidy automatically fair.
+Nor is universal cross-subsy automatically fair.
 
 A homeowner who spends thousands hardening a roof may reasonably object to paying the same as a neighbor who does nothing. A careful driver may resent a rate that ignores behavior. A low-income family may be unable to afford the premium that accurately reflects a risk inherited from neighborhood infrastructure rather than personal choice.
 
@@ -267,3 +267,63 @@ Or accept the cost of maintaining settlement and economic activity in a dangerou
 The premium is where the argument begins.
 
 It should not be where the argument ends.
+
+The missing institution in many premium debates is transition finance.
+
+A regulator can know that the old price is unsustainable and still know that the full new price cannot be imposed overnight without creating a second kind of damage. A household can deserve time even when the hazard is real. A municipality can need several years to change drainage, building standards, evacuation routes, or land use. A lender can need a workable path for collateral that was financeable when the loan was made and becomes much harder to insure midway through the mortgage.
+
+Time has a price too.
+
+The honest question is who finances it.
+
+A transition can be financed by capped annual premium increases, explicit public subsidies, insurer assessments, tax credits, mitigation grants, concessional loans, temporary public reinsurance, or some combination. Each instrument places the bridge cost on a different balance sheet.
+
+What matters is whether the bridge leads somewhere.
+
+A temporary subsidy that buys three years for a community to harden homes, improve infrastructure, or organize voluntary buyouts is different from a permanent subsidy that promises the old price indefinitely. One finances adjustment. The other converts the changed risk into a long-term transfer.
+
+This is why sunset provisions and review points matter in insurance policy.
+
+A subsidy can begin with a legitimate emergency rationale and become invisible infrastructure after the emergency passes. A residual plan can begin as a last resort and become the dominant carrier in a region. A rate cap can begin as consumer protection and become the main reason private capacity cannot return.
+
+Political systems are better at creating relief than ending it.
+
+Insurance is better when the exit is designed at the same time as the entry.
+
+What conditions end the subsidy?
+
+What mitigation earns faster transition?
+
+What happens to new construction after the rules change?
+
+How are low-income owners treated differently from new speculative development?
+
+How does a public pool shrink if private capital returns?
+
+These questions determine whether affordability policy preserves a community while it adapts or quietly protects a risk arrangement that no longer makes sense.
+
+The distinction is also fairer across generations.
+
+A household that bought under old assumptions may deserve transition support because it cannot move a house or refinance a life instantly. A developer proposing new construction after the hazard is well known has weaker grounds to demand the same subsidy. Treating both identically converts compassion for existing reliance into an incentive for new exposure.
+
+Time changes the moral claim.
+
+Premium politics rarely says this clearly enough.
+
+The cleanest policy therefore has three separate ledgers.
+
+One ledger records the risk price.
+
+One records the affordability support.
+
+One records the investments intended to make the future risk smaller.
+
+Mix them together and nobody can tell whether a lower premium came from a safer house, a larger subsidy, or a transfer of tail risk to the public.
+
+Keep them visible and political disagreement becomes harder to hide but easier to govern.
+
+That is a worthwhile trade.
+
+Insurance cannot depoliticize risk.
+
+It can make the politics legible enough that society knows which bill it has chosen to pay.
