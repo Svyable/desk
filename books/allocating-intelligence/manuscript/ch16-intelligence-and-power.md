@@ -1,201 +1,239 @@
 # Intelligence and Power
 
-The person who knows more does not always have more power. The person who decides what everyone else gets to know often does.
+The person who knows more does not always have more power.
 
-Intelligence and power overlap because information changes options. A manager who sees performance data can allocate work. A government that sees transactions can tax, regulate, or investigate. A platform that sees behavior can rank content. A company that understands a market before competitors can invest. But raw knowledge is only one layer. Power also comes from setting categories, controlling access, defining objectives, and holding authority to act.
+The person who decides what everyone else gets to know often does.
 
-Artificial intelligence touches all of these at once.
+That distinction matters because artificial intelligence is usually described as a capability technology. It helps someone analyze, draft, classify, predict, translate, search, persuade, or decide. But capability enters institutions that already contain ownership, hierarchy, law, procedure, money, and unequal rights to act. The same model can strengthen different sides of a relationship by very different amounts.
 
-A model can increase the intelligence of an individual worker. The same model can increase management’s ability to monitor the worker. A predictive system can help a citizen navigate bureaucracy. The same system can help the bureaucracy classify citizens more finely. Translation can widen participation. Persuasion systems can manipulate more precisely.
-
-Technology does not choose which side of the relationship receives the larger gain.
-
-This is why “democratizing intelligence” is incomplete as a political promise. Giving everyone an assistant may broaden capability while leaving ownership of data, infrastructure, and decision rights concentrated. A tenant and a landlord can both use AI; the landlord may still own the building, the contracts, and the screening system. A worker and employer can both have agents; the employer may have access to richer organizational data and the authority to redesign the job.
+A worker and a manager may both receive AI assistants. The worker gains help with a task. The manager may gain visibility across the entire workforce, authority to redesign the task, and the power to decide which measurements count as performance. A tenant and landlord can both use AI. The landlord still owns the building, controls the lease process, and may operate the screening system. A citizen may gain a better guide to bureaucracy while the bureaucracy gains finer tools to classify, predict, and investigate citizens.
 
 Capability equality is not power equality.
 
-The first power question is agenda setting. What problems receive intelligence?
+Power enters earlier, at the choice of what intelligence is for.
 
-An organization might deploy AI to optimize customer retention rather than product safety, tax enforcement rather than benefit uptake, employee productivity rather than burnout, or advertising conversion rather than user well-being. The model can be excellent and the allocation can still reflect a narrow objective.
+An organization can deploy excellent models against the wrong problem. It can predict employee attrition rather than ask why people want to leave. It can optimize call handling time rather than customer resolution. It can improve fraud detection while leaving benefit uptake difficult. It can predict which patients will miss appointments without reducing the transportation failures that cause the absence.
 
-Agenda setting is often invisible because the unasked question leaves no error log.
+Nothing has malfunctioned in these examples. The system may perform exactly as designed.
 
-If a hospital invests heavily in predicting no-shows but not in understanding why transportation prevents attendance, intelligence has been directed toward managing a symptom. If a city predicts where complaints will occur but not where residents stopped complaining because they lost trust, the data define the agenda.
+The allocation decision happened before the first inference. Someone selected the objective, the data, the metric, the budget, and the uncertainty worth reducing.
 
-Power appears in the choice of uncertainty worth reducing.
+This is agenda power.
 
-The second power question is classification. Models sort people, events, and possibilities into categories. Categories are necessary for action. They are also political because they determine which differences count.
+It is easy to miss because an unasked question leaves no error log. A system can be rigorously evaluated against an objective that quietly excludes the thing people most need. Once the objective enters dashboards and contracts, it acquires a second kind of authority: it becomes the official description of success.
 
-Creditworthy or risky. Eligible or ineligible. Fraudulent or normal. High potential or low potential. Urgent or routine. Safe or suspicious. Each category can change access to resources.
+Suppose an AI system helps customer-service workers resolve difficult cases more thoroughly. Customers complain less. Workers report better outcomes. But calls take longer, and management evaluates the system mainly through average handling time. Which account of reality governs the next budget meeting?
 
-When classification becomes automated, the category can gain an aura of objectivity even though people chose the label, data, threshold, and consequence.
+The metric may be useful. Workers can rationalize poor practice. Local anecdotes can hide patterns. Measurement exists for good reasons. The danger begins when disagreement between the measurement and the lived process is treated as proof that one side is irrational.
 
-The remedy is not to avoid classification. Institutions cannot act without it. The remedy is to make consequential categories contestable and to measure who bears their errors.
+Power over metrics is power over which reality becomes administratively real.
 
-A model’s false positive is not a statistical abstraction to the person denied a transaction. A false negative is not an average to the person harmed by a missed risk. Error distribution is part of power.
+Artificial intelligence increases this power because it makes measurement cheap. More behavior can be classified. More text can be scored. More interactions can be summarized. More proxies can be updated continuously. An institution can become extraordinarily legible to its center while the people inside it remain unable to see how the center sees them.
 
-The third power question is visibility. Who is observed and who is opaque?
+That asymmetry already exists in ordinary life.
 
-Low-status people are often more legible to institutions than high-status people. Benefit applicants disclose finances. Hourly workers are timed. Borrowers provide records. Tenants are screened. Meanwhile, the criteria and algorithms evaluating them may be proprietary or difficult to challenge.
+Benefit applicants disclose finances. Borrowers submit records. Tenants are screened. Hourly workers are timed. Patients reveal intimate information. Meanwhile, the criteria used to evaluate them may be proprietary, distributed across databases, or difficult to contest.
 
-AI can deepen this asymmetry by making surveillance cheaper.
+AI lowers the price of seeing downward.
 
-Computer vision, language analysis, productivity telemetry, and integrated databases can produce a fine-grained picture of people’s behavior. The same techniques can increase accountability upward if workers, citizens, journalists, and auditors gain tools to analyze institutions.
+Computer vision can observe physical work. Language systems can analyze calls and messages. Integrated databases can infer relationships no single record states. Predictive systems can rank people before any human reviews the underlying evidence. The institution gains a richer map of the individual.
 
-Again allocation decides the direction.
+The individual may receive a sentence.
 
-A society that gives employers sophisticated employee analytics and workers no visibility into how those analytics affect evaluation has allocated intelligence upward. A society that requires explanation, access, and appeal redistributes some of the cognitive advantage.
+“Application denied.”
 
-The fourth power question is dependency.
+“Account restricted.”
 
-People become vulnerable to systems they cannot leave. A personal AI agent that holds years of context can create switching costs. A company built around one model provider can become dependent on its pricing and policy. A government agency using a proprietary system for essential decisions may lose internal expertise to evaluate alternatives.
+“Performance below expectations.”
 
-Dependency is a form of delegated power.
+“Case requires additional verification.”
 
-Exit is therefore part of intelligence governance. Can data and memory be exported? Can another provider interpret the records? Can a process fall back to human or local operation? Are open standards used? Does the institution retain enough expertise to change vendors?
+This is why transparency cannot mean merely generating more explanation. A system can produce a polished page of reasons and still leave the person powerless. Useful explanation answers practical questions: which facts mattered, which rule applied, what can be corrected, who can review the decision, and by when.
 
-These look like technical procurement details and function like constitutional safeguards.
+The right to explanation is weak without a right to remedy.
 
-The fifth power question is labor.
+A decision becomes especially powerful when classification and consequence are joined tightly. Every institution classifies. Urgent or routine. Eligible or ineligible. High risk or low risk. Safe or suspicious. Categories are unavoidable because action requires distinctions.
 
-AI can substitute for tasks, augment workers, create new work, and change bargaining positions. The distribution of gains depends on ownership and labor institutions as much as on model capability.
+But categories do political work.
 
-Suppose an agent doubles the output of a design team. The gain can become higher wages, shorter hours, lower prices, higher profit, more output, or some mix. Nothing in the model determines the split.
+They decide who receives scarce attention, who enters a queue, whose transaction is delayed, whose application receives extra scrutiny, whose behavior becomes suspicious, whose case looks ordinary enough to automate.
 
-This is a recurring principle: productivity is produced technologically and distributed institutionally.
+AI can make these categories feel discovered rather than chosen.
 
-Workers should therefore have a role in decisions about systems that reshape work, especially when those systems monitor, evaluate, or discipline them. This is not only a fairness argument. Workers hold local knowledge about workflows and failure modes that management often lacks.
+A score arrives with decimal precision. A model identifies a cluster. A threshold separates groups. The technical machinery can conceal the institutional choices beneath it: what outcome was labeled, which historical records counted, where the cutoff sits, and what happens on either side.
 
-Excluding them can make the system worse.
+The important fairness question is therefore not only whether the model is accurate on average. It is who bears its errors and what those errors cost.
 
-A call-center employee knows which customer situations the script mishandles. A nurse knows which alerts are ignored. A driver knows which route optimization creates unsafe pressure. A teacher knows what the learning dashboard fails to capture. Participation is a source of intelligence.
+A false positive in a fraud model is a rate in an evaluation table. For the person whose payment is frozen, it is rent, food, medication, or humiliation. A false negative in a safety system may be invisible until harm arrives. Statistical symmetry does not create social symmetry.
 
-Power that refuses feedback becomes stupid.
+Consequence gives error its political weight.
 
-The sixth power question is persuasion. Language models can generate messages adapted to individual context at enormous scale. This capability can help explain complex information. It can also create industrialized influence.
+This is where AI changes the old relationship between knowledge and authority. It is tempting to think that a more accurate predictor deserves more power. Sometimes it should receive more influence. Better diagnosis can improve medicine. Better forecasts can improve planning. Better anomaly detection can prevent loss.
 
-The distinction between assistance and manipulation often depends on whose goal governs the interaction and whether the person knows the system’s role.
+But prediction and legitimate authority are different variables.
 
-A health agent encouraging a patient to follow a chosen treatment plan serves an agreed objective. A shopping agent exploiting a moment of anxiety to increase spending serves another party’s objective. The same personalization techniques can appear in both.
+A judge is not merely a prediction machine. A doctor is not merely a classifier. A regulator is not merely an optimizer. A manager is not merely a ranking function. These roles carry duties, accountability, procedure, and a recognizable place where challenge can be directed.
 
-Control over the objective is power.
+Democratic authority is not awarded by benchmark score.
 
-Personal agents could counterbalance institutional persuasion by representing the user’s preferences. They can filter offers, compare contracts, detect dark patterns, and negotiate. But only if they genuinely work for the user rather than for a platform whose revenue depends on the other side.
+Professional authority is not just leaderboard position.
 
-Agency requires fiduciary clarity.
+This does not sanctify human ceremony. A person who rubber-stamps a machine adds little legitimacy and may add error. The point is that institutions need to know when a model is advising, when it is effectively deciding, and who owns the consequence either way.
 
-This may lead to new legal forms. Some AI systems may need duties analogous to professional or fiduciary obligations when they act with deep personal context. A system handling health, money, or intimate decisions should not secretly optimize unrelated commercial goals.
+Otherwise authority migrates without anyone admitting that it moved.
 
-The seventh power question is legitimacy. Who has authority to make a binding decision?
+Interfaces can accelerate that migration. A recommendation placed first, highlighted in color, and accepted by default can become practically binding even when policy says the human decides. A worker who must justify every override while accepting the model requires no explanation learns quickly where authority really sits.
 
-AI can advise judges, regulators, doctors, managers, and military officers. In many cases the system may outperform the human on narrow prediction. That does not automatically transfer legitimate authority.
+Override friction is power.
 
-Democratic power is not awarded by exam score. Professional authority is not merely a leaderboard. Institutions assign responsibility through law, norms, elections, licensure, and role.
+So is delay.
 
-This can appear inefficient, and sometimes it is. Human decision makers can be biased and weak. But replacing them with opaque optimization can create a legitimacy deficit even when average accuracy improves.
+Powerful actors can often wait longer. A government can request another document. A large company can prolong a dispute. A platform can route a complaint through several levels. A wealthy person can hire specialists. A sick patient, precarious worker, small business, or tenant may need resolution now.
 
-A person affected by a decision needs to know where to direct challenge.
+An appeal that arrives after the lost apartment, missed treatment window, terminated job, or election is not equivalent to an effective appeal.
 
-The eighth power question is concentration. The cost of training frontier models, access to chips, data, and distribution can concentrate capability in a small number of firms or states. At the same time, model outputs can diffuse widely.
+Rights need clocks.
 
-This produces a strange structure: decentralized use built on centralized infrastructure.
+AI can redistribute power by shortening those clocks. A benefits claimant can receive help assembling an appeal. A consumer can compare contract terms. A worker can search policy and records. A small business can understand procurement rules that once required expensive expertise.
 
-The web had similar layers. Anyone could publish, but infrastructure and platforms concentrated. AI may amplify the pattern because the underlying models are costly and deeply embedded in workflows.
+These are not trivial conveniences. Procedure is a form of intelligence, and procedure has historically been expensive.
 
-Competition policy, interoperability, public infrastructure, open models, procurement diversity, and data rights become part of intelligence allocation.
+But the same technology can increase procedural asymmetry. Institutions can generate more requests, more personalized notices, more compliance steps, more evidence demands, and more sophisticated denials at very low marginal cost. Automation can turn bureaucracy into an opponent with infinite stamina.
 
-The objective should not be concentration or decentralization as moral absolutes. Some concentration creates economies of scale and safety investment. Some decentralization creates resilience and pluralism. The design question is where concentration creates unacceptable dependency or control.
+The question is not whether AI makes process faster.
 
-The final power question is refusal.
+It is faster for whom.
+
+This leads to one of the most consequential design choices in personal agents: loyalty.
+
+An agent that knows your finances, schedule, health concerns, relationships, preferences, and history can become an extraordinary representative. It can compare offers, notice conflicting terms, remember deadlines, prepare questions, and protect attention.
+
+It can also become an extraordinary channel for someone else’s objective.
+
+A shopping assistant may call itself your assistant while being paid by sellers. A financial agent may recommend products while receiving incentives from providers. A health interface may appear intimate while optimizing engagement or commercial relationships. A workplace assistant may feel personal while reporting telemetry upward.
+
+The friendly voice does not reveal the principal.
+
+Representation therefore needs institutional clarity. Some agents are merchants. Some are brokers. Some are advisers. Some are public servants. Some are tools. Some may need duties analogous to fiduciary duties because the cost of hidden incentives rises with the depth of context and authority.
+
+A calendar suggestion distorted by an affiliate payment is annoying. Retirement advice distorted by one is different. Medical guidance is different again.
+
+The technical architecture may be nearly identical while the power relationship changes completely.
+
+Ownership matters for the same reason.
+
+AI can double the output of a team. The gain can become higher wages, shorter hours, lower prices, higher profit, more output, or some combination. The model does not decide the split.
+
+Productivity is produced technologically and distributed institutionally.
+
+This is why the politics of AI at work cannot be reduced to whether the tool “augments” or “automates.” The important questions are who controls deployment, who sees the resulting data, who receives the productivity dividend, who bears the new performance expectations, and whether workers retain meaningful territory for judgment.
+
+A system can increase a worker’s capability while reducing the worker’s bargaining position.
+
+Imagine an employee who can now do twice as much because an agent handles routine drafting. Management responds by doubling expected output, measuring every interaction, and standardizing the remaining decisions. The worker has more cognitive equipment and less discretion.
+
+This is not a contradiction.
+
+Intelligence has been allocated downward while power has been allocated upward.
+
+Participation can change that outcome partly because workers hold knowledge the center lacks. A nurse knows which alerts are routinely ignored and why. A driver knows when route optimization creates unsafe pressure. A teacher knows what a learning dashboard misses. A call-center worker knows which policy wording creates predictable conflict.
+
+When deployment excludes the people closest to the work, the power problem becomes an intelligence problem.
+
+Power that cannot hear bad news becomes stupid.
+
+The same pattern appears in public systems. A model can make a population more legible to government while government remains opaque to the population. The correction is not simply to reverse surveillance and make every institution fully transparent. Some records need confidentiality. Some investigations need secrecy. Some systems need security.
+
+The goal is reciprocal intelligibility where consequence demands it.
+
+A person should be able to know enough about a consequential system to challenge an error. Auditors should be able to inspect more than ordinary users. Regulators should have tools strong enough to investigate the actors they regulate. Journalists, researchers, unions, professional associations, and civil-society groups need cognitive capacity too.
+
+Not every power imbalance can be fixed by giving each individual a better chatbot.
+
+Collective institutions aggregate bargaining power as well as knowledge.
+
+This is an important limit to the rhetoric of individual empowerment. A tenant agent can help one renter. Housing law changes what every landlord may do. A worker agent can document one schedule. A union can negotiate scheduling rules. A patient agent can question one decision. A regulator can test a system across a population.
+
+AI can strengthen both individual voice and collective voice, but they are not substitutes.
+
+Concentration complicates the picture further.
+
+AI may produce decentralized use on top of centralized infrastructure. Millions of people can run independent workflows through models trained and hosted by a small number of firms. The interface feels distributed. The dependency underneath it may not be.
+
+This matters because infrastructure owners can change price, access, model behavior, policy, and technical terms. An organization that has embedded one provider deeply enough may discover that switching is theoretically possible and operationally ruinous.
+
+Exit is therefore a power safeguard.
+
+Can memory be exported? Can another provider interpret the records? Are logs in durable formats? Can critical workflows continue if one service disappears? Does the organization retain enough internal expertise to evaluate alternatives? Can a personal agent move without losing years of context?
+
+These are procurement and engineering questions that behave like constitutional questions.
+
+The possibility of exit disciplines power even when exit never occurs.
+
+Refusal matters for the same reason.
 
 Who can say no to the system?
 
-Can a worker refuse automated surveillance unrelated to job performance? Can a citizen request human review? Can a doctor ignore a recommendation? Can a community reject data collection? Can a model refuse an instruction from a powerful user when the action violates a boundary?
+Can a worker contest surveillance unrelated to the job? Can a citizen request human review? Can a doctor override a recommendation without bureaucratic punishment? Can a community reject a data-collection scheme? Can an agent refuse an instruction from a powerful user because the action exceeds its mandate?
 
-Refusal is a form of agency, and agency is distributed through permissions.
+Agency is partly the right not to comply automatically.
 
-A society of abundant intelligence could become more free if people gain tools to understand and negotiate institutions. It could become more controlled if institutions gain better tools to predict and manage people.
+That right becomes more important as machine systems become persuasive.
 
-Both outcomes are technologically plausible.
+Language models can explain and negotiate at scale. They can help people understand complex choices. They can also tailor influence to the individual. A system that knows what frightens someone, what persuades them, when they are tired, and what objections they usually raise can become an unusually effective salesperson, political messenger, or manager.
 
-The difference will be made in ownership, rights, access, labor arrangements, public infrastructure, audit, and the design of delegation.
+The difference between assistance and manipulation often lies in the objective.
+
+Whose goal governs the conversation?
+
+A health agent helping a patient follow a treatment plan the patient chose operates under one objective. A shopping agent exploiting anxiety to increase spending operates under another. The language can be equally warm in both cases.
+
+Control over the objective is power.
+
+This is why abundant intelligence will not flatten hierarchy by itself. Nearly everyone may have sophisticated tools. The consequential differences will move into data access, institutional backing, authority, time horizon, infrastructure, and the right to compel response.
+
+Two agents can be equally articulate while representing parties with radically unequal leverage.
+
+A worker’s agent may identify that a policy was applied inconsistently. The employer still decides whether to reconsider unless law, contract, or collective bargaining creates a duty to respond. A consumer agent may detect an unfair term. The merchant may still refuse to negotiate. Intelligence reveals the conflict; institutions determine what happens next.
+
+This is the distinction between voice and power.
+
+Voice makes a claim legible.
+
+Power affects whether the claim changes the world.
+
+The political task of AI governance is therefore not to distribute identical quantities of machine cognition. It is to examine the relationships into which that cognition enters.
+
+Who defines the objective?
+
+Who becomes visible?
+
+Who is classified?
+
+Who can act on the classification?
+
+Who must produce proof?
+
+Who can see the evidence behind the decision?
+
+Who can refuse?
+
+Who can exit?
+
+Who can obtain remedy before the consequence becomes irreversible?
+
+Those questions belong together because they describe one thing: the direction in which institutional intelligence points.
+
+A society of abundant machine intelligence could widen freedom. People can understand contracts, navigate law, organize evidence, learn unfamiliar domains, compare institutions, and represent themselves more effectively. Weak organizations can gain analytical capacity once reserved for large ones. Public agencies can make difficult systems easier to use.
+
+The same abundance could make control cheaper. Institutions can observe more, classify faster, personalize pressure, automate compliance, and extend decision systems into domains that once resisted measurement.
+
+Both futures can emerge from the same models.
+
+The difference will be made in ownership, rights, interfaces, labor arrangements, public capacity, standards, interoperability, audit, and the clocks attached to remedy.
 
 Power decides where intelligence points.
 
 Intelligence, once pointed, changes power in return.
 
-There is a ninth power question hiding inside all the others: who gets to define success after the system is deployed?
-
-Before deployment, objectives are often written in general terms. Improve service. Reduce fraud. Increase productivity. Personalize learning. Allocate risk. Once the system is running, these ambitions are translated into measurable proxies. Handle time. Recovery rate. Cases flagged. Revenue per employee. Test performance. Engagement.
-
-The proxy becomes the operating constitution because budgets, dashboards, and career incentives attach to it.
-
-Power over metrics is power over reality’s official description.
-
-A worker may experience an AI system as making customers happier while management’s dashboard records that calls are longer. A teacher may see deeper student discussion while the platform records fewer completed exercises. A public employee may solve a difficult case properly while the system records missed throughput. If the metric outranks the person’s account automatically, the institution has allocated epistemic authority to the measurement system.
-
-This is sometimes correct. Humans rationalize. Local actors can protect poor practice. Metrics reveal patterns anecdotes miss. The point is not that lived experience should beat measurement. It is that disagreement between them should trigger inquiry rather than automatic dismissal.
-
-An intelligent institution asks why its representations diverge.
-
-A tenth question is who bears the cost of verification.
-
-Powerful institutions can demand proof from weaker parties while keeping their own reasoning opaque. An applicant must submit documents. A platform can change a ranking with little explanation. A worker must contest a performance score. A citizen may have to prove that an automated record is wrong even though the state produced the record.
-
-AI can lower the cost of producing justifications for institutions without lowering the cost of challenging them for individuals. A denial letter becomes longer, more polished, and more difficult to penetrate.
-
-Explanation can become another asymmetry.
-
-The relevant right is not merely to receive words. It is to receive enough information to act: which facts mattered, which rule applied, what can be corrected, who can review, what deadline governs the challenge. A machine-generated essay about the decision may satisfy a transparency checklist while exhausting the person who needs remedy.
-
-Procedural intelligence should be allocated to the weaker side too.
-
-A benefits claimant’s agent could assemble an appeal. A worker’s agent could compare evaluation records with policy. A tenant’s agent could detect prohibited contract terms. A consumer’s agent could negotiate cancellation. These uses turn AI from an institutional telescope pointed downward into a counterweight.
-
-The politics of personal agents will depend on this representational loyalty. An agent that claims to serve the user while being funded by the party selling, ranking, lending, hiring, or insuring creates an old conflict in a new interface. The economic model determines where persuasion points.
-
-This is why fiduciary ideas keep returning. The more context a system holds and the more decisions it can make, the more consequential hidden incentives become.
-
-A calendar assistant that prefers one restaurant because of an affiliate payment is annoying. A financial agent that steers retirement assets toward a sponsor is different. A health agent that adjusts advice around commercial relationships is different again. The same technical architecture crosses into different power regimes as consequence rises.
-
-A society may therefore need categories of machine representation just as it has categories of human representation.
-
-Some agents are merchants. Some are brokers. Some are advisers. Some are public servants. Some are fiduciaries. Some are mere tools. The interface should not collapse these roles into a friendly voice.
-
-The eleventh question is collective power.
-
-An individual worker may be unable to evaluate the model that schedules a workforce. Collectively, workers may be able to compare schedules, identify patterns, and negotiate limits. An individual patient may not know whether a hospital’s triage model disadvantages a group. Researchers, regulators, and patient organizations may be able to test it. An individual consumer cannot audit a platform’s market power. Public institutions can.
-
-Not every intelligence problem can be solved by giving each person a better assistant.
-
-Collective institutions aggregate bargaining power as well as knowledge. Unions, professional associations, regulators, courts, standards bodies, journalists, universities, and civil-society organizations can all act as cognitive intermediaries. AI can strengthen them too, provided access is not limited to the actors they scrutinize.
-
-This is an important correction to the image of AI as radical individual empowerment. Individuals matter. So do organizations capable of challenging other organizations.
-
-The twelfth question is time horizon.
-
-Powerful actors can often wait longer. A large firm can litigate. A wealthy person can hire experts. A government can demand repeated forms. A precarious worker, small business, or sick patient may need resolution now. Delay itself becomes leverage.
-
-AI can shorten administrative delay and therefore redistribute power. It can also generate more process, more automated requests, and more sophisticated obstacles.
-
-The question is whether machine intelligence reduces the time required to obtain a right or increases the time required to contest a system.
-
-This is why latency belongs in political design. An appeal available in theory but resolved after the lost job, apartment, treatment window, or election is not equivalent to an effective appeal.
-
-Rights need clocks.
-
-The final question is whether intelligence changes the possibility of exit, voice, and loyalty simultaneously. Better personal tools can make exit easier: compare providers, move data, switch vendors. Better institutional tools can make retention more sophisticated: personalized offers, predictive churn interventions, tailored persuasion. Better civic tools can strengthen voice: organize evidence, coordinate complaints, understand procedure.
-
-AI will operate on every side of these relationships.
-
-That means power cannot be inferred from who “has AI.” Nearly everyone may have it. The important questions will be whose agent has which data, which authority, which institutional backing, which time horizon, and which right to compel response.
-
-Abundant intelligence does not flatten hierarchy by itself.
-
-It gives every hierarchy new instruments.
-
-The political work is to decide where those instruments should be symmetric, where stronger duties should attach to stronger actors, and where some powers should remain unavailable even if machines can exercise them cheaply.
-
-Power is not the embarrassing residue left after the technical design is finished.
-
-It is one of the variables the system is allocating from the beginning.
+That feedback loop is the part no benchmark can settle for us.
