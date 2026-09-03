@@ -5,7 +5,7 @@ importScripts(
   'https://svyable.github.io/shelf/reader/js/offline-shell-install.js'
 );
 
-const CACHE = 'svyable-desk-reader-v3';
+const CACHE = 'svyable-desk-reader-v4';
 const CACHE_PREFIX = 'svyable-desk-reader-';
 const SHARED_READER = 'https://svyable.github.io/shelf/reader/';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
@@ -31,7 +31,6 @@ const SHARED_PATHS = [
   'css/reading-chrome.css',
   'css/reading-content.css',
   'css/content-scroll-regions.css',
-  'css/one-handed-actions.css',
   'css/gui.css',
   'css/search-navigation.css',
   'css/search-landing.css',
@@ -66,8 +65,6 @@ const SHARED_PATHS = [
   'js/page-drag.js',
   'js/reader-keyboard-policy.js',
   'js/reader-keyboard-runtime.js',
-  'js/one-handed-actions-model.js',
-  'js/one-handed-actions.js',
   'js/app.js',
   'js/route-queue.js',
   'js/pagination-scheduler.js',
