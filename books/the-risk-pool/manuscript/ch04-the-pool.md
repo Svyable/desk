@@ -306,6 +306,42 @@ A pool is therefore much more than many policies placed together.
 
 It is a boundary around a community of risk.
 
+There is a numerical temptation hidden inside that boundary.
+
+If two risks each have an expected loss of one thousand dollars, it is easy to imagine they are interchangeable. They are not if one loss occurs independently and the other occurs at the same moment as every other loss in the portfolio.
+
+Expected value tells the insurer the center of the distribution.
+
+Correlation tells it how frightening the edges are.
+
+This is why two books of business with the same average loss can require very different capital. A thousand independent small fires create one kind of uncertainty. A thousand properties exposed to one fault line create another. The average expected claim can be identical while the probability of a ruinous year differs radically.
+
+The pool is priced not only by how much loss is expected but by how loss arrives.
+
+That distinction is easy for consumers to miss because a premium appears as one number. Behind it sit frequency, severity, covariance, uncertainty about each estimate, and the cost of keeping enough capital for combinations that may never occur.
+
+The premium is therefore partly a price on dependence.
+
+The more a portfolio's losses move together, the less diversification the insurer can claim and the more expensive each additional unit of correlated exposure becomes.
+
+This is the logic behind concentration limits. An insurer can like every individual house in a coastal county and still decide it has enough of that county. It can like every company's cybersecurity program and still decide it has too much exposure to one cloud provider. It can like every data center and still refuse another campus inside the same power region.
+
+The refusal is not necessarily a judgment that the next customer is bad.
+
+It can be a judgment that the pool already contains enough of the same good customer.
+
+That is an important distinction because it explains why insurance availability can tighten without any change in an individual's behavior.
+
+The portfolio has a memory the customer cannot see.
+
+One more risk is being priced against all the risks already accepted.
+
+This is also why diversification has a market value. A new line of business that behaves differently from the existing portfolio can consume less marginal capital than an equally risky line that moves with everything already on the books. Reinsurers build businesses around finding these imperfect correlations across countries and perils.
+
+The ideal pool is not a bag of identical risks.
+
+It is a collection of understandable risks whose bad years do not all arrive together.
+
 The future of insurance will be determined by whether those communities can remain broad enough to absorb shocks while precise enough to reward safer behavior and solvent enough to keep their promises.
 
 That is a delicate balance in a stable world.
