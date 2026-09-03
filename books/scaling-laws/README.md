@@ -4,7 +4,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 10 of 25 drafted |
+| **Chapters** | 14 of 25 drafted |
 
 How Size Changes the Rules.
 
@@ -27,10 +27,10 @@ The argument is also a warning. Scaling laws describe regularities; they do not 
 - [x] [Ch 8 — Moore's Law Was a Coordination Device](manuscript/ch08-moores-law-was-a-coordination-device.md)
 - [x] [Ch 9 — Data, Compute, Parameters](manuscript/ch09-data-compute-parameters.md)
 - [x] [Ch 10 — Loss on a Log-Log Plot](manuscript/ch10-loss-on-a-log-log-plot.md)
-- [ ] Ch 11 — Thresholds That Look Like Magic
-- [ ] Ch 12 — The Chinchilla Lesson
-- [ ] Ch 13 — The Compute Frontier
-- [ ] Ch 14 — The Coordination Tax
+- [x] [Ch 11 — Thresholds That Look Like Magic](manuscript/ch11-thresholds-that-look-like-magic.md)
+- [x] [Ch 12 — The Chinchilla Lesson](manuscript/ch12-the-chinchilla-lesson.md)
+- [x] [Ch 13 — The Compute Frontier](manuscript/ch13-the-compute-frontier.md)
+- [x] [Ch 14 — The Coordination Tax](manuscript/ch14-the-coordination-tax.md)
 - [ ] Ch 15 — Organizations Change Phase
 - [ ] Ch 16 — Infrastructure at N
 - [ ] Ch 17 — Bottlenecks Move
