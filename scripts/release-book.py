@@ -229,6 +229,36 @@ def upsert_catalog_row(
     return root_markdown[:start] + "".join(lines) + root_markdown[end:], action
 
 
+def upsert_catalog_manifest(text: str, slug: str) -> tuple[str, str]:
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError as exc:
+        fail(f"could not read Shelf catalog.json: {exc}")
+    if data.get("version") != 1 or not isinstance(data.get("books"), list):
+        fail("Shelf catalog.json must be version 1 with a books array")
+
+    books: list[str] = []
+    seen: set[str] = set()
+    for raw in data["books"]:
+        if not isinstance(raw, str):
+            fail("Shelf catalog.json books entries must be strings")
+        item = raw.strip()
+        if item == "_TEMPLATE" or not SLUG_RE.fullmatch(item):
+            fail(f"Shelf catalog.json has invalid book slug: {raw!r}")
+        if item in seen:
+            fail(f"Shelf catalog.json repeats book slug: {item}")
+        seen.add(item)
+        books.append(item)
+
+    if slug in seen:
+        action = "unchanged"
+    else:
+        books.append(slug)
+        action = "added"
+    data["books"] = books
+    return json.dumps(data, indent=2, ensure_ascii=False) + "\n", action
+
+
 def shelf_author_states(shelf_books: Path, release_slug: str) -> tuple[int, int, int]:
     """Count author projects after the proposed release, excluding style specimens."""
     states: dict[str, bool] = {}
@@ -317,13 +347,17 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
     shelf_books = shelf / "books"
     shelf_book = shelf_books / slug
     shelf_root = shelf / "README.md"
+    shelf_catalog = shelf / "catalog.json"
     if not source_readme.is_file():
         fail(f"book README not found: {source_readme}")
     if not shelf_root.is_file():
         fail(f"Shelf README not found: {shelf_root}")
 
     require_clean_paths(desk, "Desk", [f"books/{slug}"])
-    require_clean_paths(shelf, "Shelf", ["README.md", f"books/{slug}"])
+    shelf_paths = ["README.md", f"books/{slug}"]
+    if shelf_catalog.is_file():
+        shelf_paths.insert(1, "catalog.json")
+    require_clean_paths(shelf, "Shelf", shelf_paths)
 
     leftovers = sorted(shelf_books.glob(f".{slug}.bookself-*")) if shelf_books.exists() else []
     if leftovers:
@@ -354,9 +388,20 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
     root_md = shelf_root.read_text(encoding="utf-8")
     total, released, public_drafts = shelf_author_states(shelf_books, slug)
     root_md = update_shelf_summary(root_md, total, released, public_drafts)
-    next_root, catalog_action = upsert_catalog_row(
-        root_md, slug, title, authors, format_label, chapters, description
-    )
+    original_catalog = shelf_catalog.read_text(encoding="utf-8") if shelf_catalog.is_file() else None
+    next_catalog: str | None = None
+    if original_catalog is not None:
+        next_catalog, catalog_action = upsert_catalog_manifest(original_catalog, slug)
+        try:
+            next_root, _ = upsert_catalog_row(
+                root_md, slug, title, authors, format_label, chapters, description
+            )
+        except ReleaseError:
+            next_root = root_md
+    else:
+        next_root, catalog_action = upsert_catalog_row(
+            root_md, slug, title, authors, format_label, chapters, description
+        )
     next_book_md = set_status_published(book_md)
 
     source_manifest = file_manifest(source_book, exclude_readme=True)
@@ -391,6 +436,8 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
         os.replace(stage_book, shelf_book)
         installed_new = True
         atomic_write(shelf_root, next_root)
+        if next_catalog is not None:
+            atomic_write(shelf_catalog, next_catalog)
 
         if file_manifest(shelf_book, exclude_readme=True) != source_manifest:
             fail("post-copy verification failed: Shelf content differs from Desk content")
@@ -398,7 +445,9 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
         if shelf_book_md != next_book_md:
             fail("post-copy verification failed: Shelf book README differs from the prepared release")
         if shelf_root.read_text(encoding="utf-8") != next_root:
-            fail("post-copy verification failed: Shelf catalog differs from the prepared release")
+            fail("post-copy verification failed: Shelf README differs from the prepared release")
+        if next_catalog is not None and shelf_catalog.read_text(encoding="utf-8") != next_catalog:
+            fail("post-copy verification failed: Shelf catalog.json differs from the prepared release")
     except Exception:
         try:
             if installed_new and shelf_book.exists():
@@ -406,6 +455,8 @@ def prepare_release(desk: Path, shelf: Path, slug: str) -> dict[str, str]:
             if moved_old and backup_book.exists():
                 os.replace(backup_book, shelf_book)
             atomic_write(shelf_root, original_root)
+            if original_catalog is not None:
+                atomic_write(shelf_catalog, original_catalog)
         finally:
             shutil.rmtree(stage_book, ignore_errors=True)
         raise
@@ -451,7 +502,7 @@ def main(argv: list[str]) -> int:
     print("Nothing was committed or pushed.")
     print()
     print("Review:")
-    print(f'  git -C "{shelf.resolve()}" diff -- README.md books/{slug}')
+    print(f'  git -C "{shelf.resolve()}" diff -- README.md catalog.json books/{slug}')
     print()
     print(
         "When it looks right, commit the release on a branch/PR or push it "
