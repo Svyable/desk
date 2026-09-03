@@ -44,6 +44,9 @@ function applyWorkspacePolicy(policy) {
   const published = $('summaryPublished')?.closest('.summary-card');
   if (published) published.hidden = policy.hidePublishedSummary;
 
+  const publishedFilter = document.querySelector('[data-filter="published"]');
+  if (publishedFilter) publishedFilter.hidden = policy.hidePublishedFilter;
+
   const readyLabel = $('summaryReady')?.closest('.summary-card')?.querySelector('.summary-label');
   if (readyLabel) readyLabel.textContent = policy.readySummaryLabel;
 }

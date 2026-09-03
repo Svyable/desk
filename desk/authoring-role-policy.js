@@ -6,6 +6,7 @@ export function authoringRolePolicy({ role = 'instance', remoteInspection = fals
     localDesk,
     hideLandingHero: localDesk,
     hidePublishedSummary: localDesk,
+    hidePublishedFilter: localDesk,
     readySummaryLabel: localDesk ? 'Ready to release' : 'Ready to publish',
   });
 }
