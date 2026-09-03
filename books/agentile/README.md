@@ -6,13 +6,13 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf public proof |
-| **Chapters**  | 18 complete of 18 planned |
+| **Chapters**  | 18 complete of 18 planned + interlude |
 
 *The Birth of a New Force in the Economy*
 
 The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. The book follows the consequences when software begins to behave partly like labor and partly like capital—changing the cost of delegation, the shape of firms, queues and coordination, entrepreneurship, management, wages, ownership, verification, interoperability, public capacity, and responsibility.
 
-The complete first draft now contains all 18 planned numbered chapters. It remains in **Drafting** while the manuscript undergoes whole-book revision, evidence checking, structural tightening, and proof promotion; it is not yet a Published edition.
+The complete first draft contains all 18 planned numbered chapters plus an interlude on the minimum viable institution. It remains in **Drafting** while the manuscript undergoes whole-book revision, evidence checking, structural tightening, and proof promotion; it is not yet a Published edition.
 
 ## Contents
 
@@ -27,6 +27,7 @@ The complete first draft now contains all 18 planned numbered chapters. It remai
 - [x] [Ch 8 — Machine Customers](manuscript/ch08-machine-customers.md)
 - [x] [Ch 9 — Machine Sellers](manuscript/ch09-machine-sellers.md)
 - [x] [Ch 10 — The One-Person Corporation](manuscript/ch10-the-one-person-corporation.md)
+- [x] [Interlude — The Minimum Viable Institution](manuscript/interlude-the-minimum-viable-institution.md)
 - [x] [Ch 11 — The New Middle Management](manuscript/ch11-the-new-middle-management.md)
 - [x] [Ch 12 — The Skill of Having Work Done](manuscript/ch12-the-skill-of-having-work-done.md)
 - [x] [Ch 13 — Wages Without Workers](manuscript/ch13-wages-without-workers.md)
