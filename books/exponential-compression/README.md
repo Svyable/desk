@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Authors**   | @svyable |
+| **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | Front matter drafted; 26 chapters planned |
 

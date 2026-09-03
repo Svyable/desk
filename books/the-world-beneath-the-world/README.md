@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | **Status** | Complete draft |
-| **Drafting Source** | Svyable Binder |
-| **Publication Surface** | Svyable Shelf |
+| **Drafting Source** | Sven Hardy Benson’s Desk |
+| **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 12 of 12 drafted |
 | **Method** | Sensory narrative + primary-source research + falsification notes |
 

@@ -4,8 +4,8 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Drafting Source** | Svyable Desk |
-| **Publication Surface** | Svyable Shelf public proof |
+| **Drafting Source** | Sven Hardy Benson’s Desk |
+| **Publication Surface** | Sven Hardy Benson’s Shelf public proof |
 | **Chapters**  | 18 complete of 18 planned |
 
 *The Birth of a New Force in the Economy*

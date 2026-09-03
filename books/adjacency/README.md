@@ -46,6 +46,6 @@ How the Vector Space Is Revolutionizing Discovery.
 - [Source ledger](research/source-ledger.csv)
 - [Release review — 2026-09-02](research/release-review-2026-09-02.md)
 
-This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Svyable Shelf](https://github.com/Svyable/shelf/tree/main/books/adjacency) in September 2026; later Desk edits do not silently rewrite that edition. The September 2026 release review cleared the first edition while preserving its evidence boundaries and counterclaims.
+This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Sven Hardy Benson’s Shelf](https://github.com/Svyable/shelf/tree/main/books/adjacency) in September 2026; later Desk edits do not silently rewrite that edition. The September 2026 release review cleared the first edition while preserving its evidence boundaries and counterclaims.
 
 - [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/adjacency/)
