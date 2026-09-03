@@ -190,9 +190,153 @@ Some change how it prioritizes.
 
 Those are doctrinal events even when they arrive as software releases.
 
+There is a second problem hidden inside continuous adaptation: software can make yesterday's force unrecoverable.
+
+A physical platform can often be inspected as an object. A software-defined capability may depend on a precise combination of firmware, model artifact, configuration, policy, data schema, keys, and external services. If those pieces are not versioned and reproducible, the institution can lose the ability to recreate a known-good state even while every individual update appeared successful.
+
+This is **configuration amnesia**.
+
+The force remembers that the system worked. It no longer knows exactly what system was working.
+
+Machine-generated software can intensify the problem because the volume of change can exceed human narrative memory. A human team may once have understood the major architectural transitions in a platform. A machine-assisted team can produce hundreds of small improvements whose aggregate effect is substantial but hard to summarize.
+
+The answer is not to slow change arbitrarily. It is to make state reconstructable.
+
+A military software system should be able to answer a surprisingly basic question: **what exactly is deployed here?**
+
+Not the product name.
+
+The dependency graph.
+
+The model version.
+
+The configuration.
+
+The policy bundle.
+
+The data schema.
+
+The trust roots.
+
+The interfaces on which other systems depend.
+
+The evidence that admitted the current state.
+
+This is a software bill of behavior rather than merely a software bill of materials. The material list says what components exist. The behavior record says what institutional assumptions travel with them.
+
+That record becomes essential when a change fails in a strange way.
+
+Suppose a new model improves ordinary performance but changes abstention behavior. It answers more often under ambiguity. Every benchmark that rewards completion improves. A field operator begins seeing fewer "uncertain" outputs and initially regards the change as progress. Months later the organization discovers that borderline cases are being forced into categories that previous versions left unresolved.
+
+Nothing in the source-code diff necessarily makes the doctrinal consequence obvious.
+
+The software changed the force's appetite for certainty.
+
+That is why evaluation must include behavioral properties, not only task accuracy.
+
+How often does the system abstain?
+
+How does it behave when sources conflict?
+
+Does a newer model preserve evidence lineage?
+
+Does it become more persuasive even when no more certain?
+
+Does it interpret stale data differently?
+
+Does it respect the same authority boundaries?
+
+These become regression dimensions.
+
+The software front therefore needs a form of **doctrinal regression testing**.
+
+The goal is not to freeze behavior forever. It is to notice when a technical improvement changes an institutional property people assumed was stable.
+
+This becomes more important in alliances. One partner may update a shared tool and see performance improve. Another partner may depend on a prior confidence convention. A subtle semantic change can produce disagreement even though the systems remain technically interoperable.
+
+Interoperability needs version negotiation not merely at the API layer but at the meaning layer.
+
+What does this confidence score mean in this version?
+
+Which evidence types are weighted differently?
+
+Which authority transitions changed?
+
+Which cases that previously required human review no longer do?
+
+A coalition that cannot answer these questions may discover that "shared AI" is a family of systems speaking similar language while reasoning under different constitutions.
+
+The acquisition system also changes. Military procurement traditionally buys products, platforms, licenses, and services. Inference-rich software is less like a finished product and more like a **continuing cognitive supply relationship**.
+
+Who can patch the system?
+
+Who can evaluate the new model?
+
+Can the force reproduce the build without the vendor?
+
+Can a different supplier take over maintenance?
+
+Can the data and evaluation history migrate?
+
+What happens when the provider's commercial priorities diverge from operational needs?
+
+These questions turn portability into strategy.
+
+A force that can replace its model but not its harness, history, or evaluation suite may be more locked in than it appears. The visible component is portable. The continuity capital is not.
+
+This is why some military software infrastructure should be designed around **credible exit**.
+
+The organization should know how it would continue if a vendor disappeared, a model provider became unavailable, a license changed, or a service could no longer be reached under contested conditions. Credible exit does not require avoiding commercial technology. It requires owning enough of the continuity structure that dependence remains a choice rather than a surprise.
+
+The same principle applies to legacy systems. The inference age will not arrive on a clean sheet. New agents will sit beside old databases, decades-old formats, hardware with limited compute, security processes designed for slower release cycles, and platforms whose software cannot be updated uniformly.
+
+This friction is not an inconvenience outside the real problem.
+
+It is the real problem.
+
+The software front will be heterogeneous for a long time.
+
+Machine inference can help by translating, wrapping, testing, and documenting that heterogeneity. It can also hide it behind fluent interfaces until a failure exposes the mismatch. The institution should prefer adapters that make differences legible over systems that merely make differences invisible.
+
+There is a final reason the software front matters: code is one of the places where military institutions can make lessons structural.
+
+A human organization may learn that a particular class of evidence is unreliable and then forget after personnel rotate.
+
+A software system can encode the lesson into validation.
+
+A human team may discover that one combination of configuration and network state creates danger.
+
+The system can refuse that configuration in the future.
+
+A recurring ambiguity can become a test case.
+
+A model failure can become an evaluation scenario.
+
+This is institutional memory with executable consequences.
+
+It is powerful precisely because it outlives the people who discovered the lesson.
+
+The risk is that obsolete lessons outlive their usefulness too.
+
+Tests become dogma. Workarounds become architecture. Temporary safeguards become permanent constraints nobody remembers how to reevaluate.
+
+So executable memory needs provenance and retirement criteria just as prose memory does.
+
+Why does this check exist?
+
+What evidence created it?
+
+When was it last validated?
+
+What would justify removing it?
+
+Software lets the force remember.
+
+Good software also lets it change its mind.
+
 The strongest military software culture will therefore not be the one that deploys fastest.
 
-It will be the one that can **learn fastest without losing the ability to explain what it learned**.
+It will be the one that can **learn fastest without losing the ability to explain, reproduce, or reverse what it learned**.
 
 That is a harder standard.
 
