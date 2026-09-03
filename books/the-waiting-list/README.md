@@ -46,3 +46,4 @@ The central thesis is that when a price cannot or should not allocate a scarce g
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Full-book readiness review — 2026-09-02](research/readiness-review-2026-09-02.md)
