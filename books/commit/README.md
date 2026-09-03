@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 4 of 22 drafted |
+| **Chapters**  | 8 of 22 drafted |
 
 *How Git Became the Memory of Software—and What Comes Next*
 
@@ -19,13 +19,13 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Ch 2 — The Stupid Content Tracker](manuscript/ch02-the-stupid-content-tracker.md)
 - [x] [Ch 3 — A Branch Is Just a Name](manuscript/ch03-a-branch-is-just-a-name.md)
 - [x] [Ch 4 — The Maintainer](manuscript/ch04-the-maintainer.md)
+- [x] [Ch 5 — The Network Has No Center](manuscript/ch05-the-network-has-no-center.md)
+- [x] [Ch 6 — GitHub Gives the Graph a Face](manuscript/ch06-github-gives-the-graph-a-face.md)
+- [x] [Ch 7 — The Pull Request](manuscript/ch07-the-pull-request.md)
+- [x] [Ch 8 — The Monorepo Test](manuscript/ch08-the-monorepo-test.md)
 
 ## Planned chapters
 
-5. The Network Has No Center
-6. GitHub Gives the Graph a Face
-7. The Pull Request
-8. The Monorepo Test
 9. The Files Git Wasn't Built For
 10. The SHA-1 Clock
 11. The Invisible Database
