@@ -49,3 +49,4 @@ Manuscript body: approximately **70,000 words**, excluding front matter, back ma
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
