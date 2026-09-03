@@ -1,175 +1,215 @@
 # Autonomy Budgets
 
-The word autonomy makes people imagine a threshold. On one side, the machine advises. On the other, it acts.
+An agent receives a simple instruction: reconcile these invoices before five o’clock.
 
-Real systems have more interesting boundaries. A machine may choose a route but not a destination. It may schedule a meeting but not invite an external person. It may buy office supplies under a limit but not sign a contract. It may change code in a sandbox but not deploy to production. It may recommend a medication but not order it. It may brake a car but not decide where the passenger should travel.
+The sentence looks clear until the system tries to act.
 
-Autonomy is granular.
+May it read every invoice in the company or only the ones in this folder? May it contact a vendor when a number does not match? May it change the accounting record? May it approve a payment? How large a payment? What if the purchase order is missing? What if the vendor emails new bank details? What if five thousand invoices arrive at once? What if the agent encounters a note telling it to ignore the policy that governs the task?
 
-This is why it is useful to think of autonomy as a budget rather than a category. A budget specifies how much consequence a system can create before another form of authority must enter. The budget can be expressed in money, scope, time, reversibility, affected users, physical force, data sensitivity, or any other dimension relevant to the task.
+Capability does not answer any of these questions.
 
-A purchasing agent might have a daily spend limit. A coding agent might be allowed to modify only a test environment. A customer-service agent might issue refunds below a threshold. A security agent might isolate one endpoint automatically but require human authorization to shut down a data center. The important design move is to connect authority to bounded consequence.
+Authority does.
 
-Human organizations already run this way. Employees have signing limits. Managers have hiring authority over certain roles. Pilots have command authority within operating rules. Nurses and physicians have scopes of practice. Corporate boards reserve some decisions. Governments divide powers among offices.
+The word autonomy often makes people imagine a threshold. On one side, a machine advises. On the other, it acts. Real institutions are built from narrower permissions. A person may be allowed to recommend a hire but not make the offer, spend five thousand dollars but not fifty thousand, prescribe within a scope of practice, stop a machine under certain conditions, approve one class of contract but not another.
 
-These arrangements exist partly because competence is not the same as legitimate authority and partly because mistakes must be containable.
+Autonomy is not a property an actor possesses in the abstract. It is authority lent for a purpose.
 
-AI agents need comparable constitutional structure.
+That is why the budget metaphor is useful. An autonomy budget says how much consequence a system may create before another form of authority must enter. The budget can be expressed in money, time, rate, geography, data sensitivity, affected users, reversibility, or any other dimension that matters to the institution.
 
-The alternative is permission by capability: if the system can do something, let it. Software culture often drifts toward this because technical integration is easier when credentials are broad. An agent with access to email, files, payments, code, calendars, and external services becomes impressive in a demo. It also becomes a single point through which an error or manipulation can cross domains.
+A purchasing agent can place ordinary orders below a limit and prepare larger ones for approval. A coding agent can change files on a branch and run tests but cannot deploy to production. A customer-service agent can issue routine refunds while a disputed high-value case goes elsewhere. A security system can isolate one endpoint automatically while shutting down an entire network requires a different mandate.
 
-Least-privilege security offers a better starting intuition. Give a system the access required for the current purpose and no more. But autonomy budgets add a temporal dimension. An agent may need permission now and lose it later. It may earn wider authority through observed performance. It may have authority only inside a reversible workflow. It may receive emergency powers under explicitly detected conditions.
+The interesting design question is not whether the system is autonomous.
 
-Authority should have a lifecycle.
+It is what authority has been delegated, under which conditions, and how that authority ends.
 
-SAE’s levels of driving automation became influential partly because they made the human and machine roles explicit. The taxonomy distinguishes who performs the dynamic driving task and who is responsible for fallback under different levels. The details apply specifically to road vehicles, but the broader lesson travels: automation becomes confusing when responsibility is described by marketing terms instead of operational roles.
+Human institutions already understand this grammar. A power of attorney names a principal, an agent, and a scope. A corporate signing policy distinguishes ordinary commitments from those reserved for senior officers or boards. A warrant is bounded by subject, purpose, and legal authority. Spending authorities are not vague statements that someone is “trusted.” They are grants with edges.
 
-“Copilot,” “assistant,” and “agent” are similarly ambiguous. An assistant that can send a bank transfer is not merely an assistant. A copilot that changes production systems without review has authority the metaphor hides. Names should not substitute for permission models.
+Machine delegation needs the same legibility.
 
-A good autonomy design answers concrete questions. What may the system observe? What may it propose? What may it prepare? What may it execute? What may it execute only below a threshold? Which actions require confirmation? Which actions require a second independent system? Which actions are prohibited? How is authority revoked? What happens if the supervising human is unavailable?
+“Manage accounts payable” sounds convenient because it collapses the complexity of an office into four words. “Reconcile these invoices from these approved vendors, up to this amount, through this deadline, and stop when purchase-order data disagree” creates a field of action someone can inspect.
 
-The last question is often neglected. A system designed around human approval can fail during exactly the moments when humans are overloaded. If every ambiguous case escalates during a crisis, the approval queue becomes the crisis.
+The second version is not less intelligent. It is more governable.
 
-Autonomy budgets therefore need overload behavior.
+This matters as agents persist for longer periods. A system working for ten seconds under direct supervision can inherit context informally. A system working for hours, days, or continuously cannot safely rely on yesterday’s conversational understanding. Permission drifts when tasks outlive the moment in which they were granted.
 
-One option is fail closed: if approval is unavailable, do nothing. This is appropriate when action itself is dangerous. Another is fail safe: enter a conservative state, such as pausing machinery, freezing transactions, or isolating a system. Another is fail operational: continue within a narrow envelope because stopping would be more dangerous. Aircraft, hospitals, power systems, and networks all contain cases where simple shutdown is not the safest response.
+Authority should therefore expire.
 
-AI governance that says “human approval required” without specifying overload behavior is incomplete.
+Credentials can be single-use. A permission can last for one task or one shift. Emergency authority can sunset. An agent can stop when the stated objective is reached rather than remaining alive because nobody remembered to revoke it. A new model version can lose some inherited permissions until the institution has evidence about its changed behavior.
 
-The budget metaphor also reveals a relationship between autonomy and reversibility. Reversible actions can receive larger autonomy budgets because errors can be corrected. Irreversible actions should receive smaller budgets or stronger verification.
+This lifecycle view is more important than a permanent label such as assistant, copilot, or agent.
 
-This is why version control transformed software collaboration. A developer can make extensive changes on a branch because the changes are isolated, inspectable, and reversible before merge. The technical environment increases safe autonomy by reducing the consequence of experimentation.
+Names hide power.
 
-AI systems should create more branches in the broad sense.
+A system called an assistant can send money. A system called a copilot can change production software. A system called an agent can do nothing beyond drafting text. The operational question is what external state the system can alter and which boundaries it cannot cross.
 
-Draft before send. Simulate before execute. Preview before publish. Stage before deploy. Hold before transfer. Create checkpoints. Preserve originals. Record planned actions as a transaction that can be reviewed. Sandboxing is not merely a security technique; it is an autonomy amplifier.
+Those boundaries become safer when actions are reversible.
 
-The more reversible the environment, the more freedom the agent can have.
+Version control is a powerful example. A developer can make wide changes on a branch because the environment isolates the work, records the difference, and allows rejection before merge. The branch increases freedom by reducing consequence.
 
-This is a constructive alternative to debates framed as freedom versus control. Control mechanisms can create the conditions for greater autonomy. A child is allowed to explore a fenced yard before a highway. A scientist can try dangerous chemistry inside containment. A trader can test a strategy in simulation. A model can use powerful tools inside a sandbox.
+AI systems should create more branches in this broad sense.
 
-Boundaries expand the safe space for initiative.
+Draft before send. Simulate before execute. Preview before publish. Stage before deploy. Hold before transfer. Preserve the original. Create a checkpoint. Record the planned transaction before committing it.
 
-The difficult cases are actions whose consequences are diffuse rather than obviously irreversible. An agent can send a technically reversible message—perhaps it can be deleted from an outbox—but the recipient may already have read it. A hiring recommendation can be reconsidered, yet candidates may never know they were screened out. A ranking algorithm can be changed, but months of exposure already shaped behavior. Social consequences often resist rollback.
+Sandboxing is not merely restriction. It is an autonomy amplifier.
 
-Autonomy budgets must therefore count externality, not just technical reversibility.
+A system can be given more room to explore when failure remains local, observable, and recoverable. This is a more useful way to think about control than the usual argument between freedom and friction. Good controls create a larger safe space for initiative.
 
-An action can be easy for the operator to undo and impossible for the affected person to undo. A credit decision can be reversed in a database after an appeal, but the missed apartment may be gone. A content moderation error can be corrected after an event passed. A false accusation can be retracted after reputation changed.
+But technical reversibility is not enough.
 
-High social consequence deserves smaller autonomy even when the API offers an “undo” button.
+An email may be easy to delete from a sent folder and impossible to unread. A hiring recommendation can be changed after a candidate has already lost the opportunity. A ranking system can be corrected after months of exposure shaped behavior. A false public accusation can be retracted after reputation moved.
 
-Authority also interacts with observability. A system should not have more autonomy than its behavior can be monitored meaningfully. If an agent performs actions that nobody can reconstruct, its practical autonomy exceeds its nominal permissions. Logs, state views, alerts, and outcome measures are part of the budget.
+Social consequences resist rollback.
 
-This is where many current agent systems feel immature. They narrate reasoning in conversational text but provide weak operational visibility. A user sees that the agent is “working” without a crisp inventory of external actions, credentials used, files changed, or commitments made. Natural language creates a sense of transparency while state remains obscure.
+An autonomy budget must therefore count the world outside the API. A system that can technically undo an action may still have created an irreversible effect for somebody else.
 
-Operational autonomy needs ledgers.
+This is why external commitments deserve special attention.
 
-Every consequential action should have enough structured record to answer what happened, when, under whose authority, using which input, and whether it can be reversed. Not every internal thought needs preservation. In fact, preserving private reasoning can create privacy and security problems. What matters is the action trail.
+Reading an invoice is not paying it. Drafting a contract is not accepting the terms. Preparing a message is not transmitting it. Moving data inside a private workspace is not sending it to a third party. The last step crosses a boundary where another actor can respond.
 
-This distinction mirrors ordinary institutions. We do not require a judge to publish every private mental association. We require a record of the proceeding and a reasoned decision. We do not record every thought of a pilot. We record relevant flight data and communications. Accountability attaches to acts and justifications, not total mental surveillance.
+That crossing changes the risk.
 
-AI should be held to a similar standard of useful traceability.
+External parties can deceive an agent, exploit ambiguity in its mandate, present adversarial instructions, or simply create obligations the user did not intend. Authority that is reasonable inside a sandbox may be reckless once the system interacts with strangers.
 
-The budget can also be earned. A new system begins with narrow authority. As performance is measured in a stable domain, limits expand. This resembles progressive trust among people. But machine trust should not be anthropomorphized. The system has not become morally reliable. The institution has collected evidence about performance under certain conditions.
+The interface should make this difference visible.
 
-Evidence can expire.
+A user should be able to see that an agent is moving from analysis into commitment. “Continuing the task” is not enough. The system should distinguish internal work, reversible preparation, external communication, financial commitment, privileged access, destructive action, and other changes whose consequences differ.
 
-A model update changes behavior. A new tool expands capability. The environment shifts. Adversaries adapt. Data distributions move. Authority granted under one version should not be inherited automatically by another.
+This is not only an interface problem. It changes the permission model itself.
 
-Autonomy therefore needs change control. Significant updates should trigger reevaluation of permissions, not just performance tests. If a model that once drafted messages now can access a customer database, the risk profile changed even if benchmark scores improved.
+A task may begin broad and then narrow as it approaches consequence. An agent can research freely, draft widely, compare options, and then encounter a harder boundary before sending, paying, deleting, publishing, or binding another person.
 
-A stronger model can require a smaller autonomy budget temporarily because novelty increases uncertainty.
+The authority can taper toward irreversibility.
 
-This is counterintuitive in a culture that equates capability with trust. But a new aircraft does not receive fewer tests because its engines are more powerful. A new medication does not bypass evaluation because its mechanism is sophisticated. Capability can enlarge the consequence surface.
+Rate is another form of consequence that ordinary permission systems often ignore.
 
-The same reasoning applies to organizations adopting AI quickly. The first months should create high observational density: more sampling, more logs, more user feedback, more narrow deployments. As evidence accumulates, some controls can relax. Others may tighten because failure modes become visible.
+Permission to issue one refund is not automatically permission to issue ten thousand refunds in a minute. Permission to email one customer is not the same as permission to email the entire customer base. A human clerk with a bad rule may make a handful of mistakes before someone notices. A machine can reproduce the same mistake across a population before the first complaint reaches a person.
 
-Autonomy budgets are empirical, not theological.
+Authority and speed multiply each other.
 
-They also encode values. A company may decide an agent can negotiate prices but cannot misrepresent itself as human. A government may decide some determinations require a public officer’s signature regardless of model quality. A family may permit a child’s agent to schedule activities but not conceal them from guardians. A newsroom may let AI prepare summaries but not fabricate quotations or publish unattributed generated reporting.
+That is why high-rate systems need velocity limits, checkpoints, or staged expansion. The relevant ceiling can be transactions per minute, dollars exposed before review, accounts modified per batch, code changes per deployment, or any other unit that keeps a local error from becoming a system-wide event.
 
-These boundaries are not technical limitations. They are choices about what kinds of agency belong in the institution.
+A threshold does not always mean stop forever.
 
-The most consequential version appears in military force. Autonomous weapons debates show why “human in the loop” language can become slippery when detection, targeting, and response occur at machine speed. The important questions concern meaningful control, accountability, operating constraints, and whether some decisions should remain outside machine authority regardless of tactical advantage. Different societies and institutions will draw boundaries differently. The design principle remains: authority cannot be inferred from accuracy alone.
+It can mean slow down, sample, reconcile against another source, require stronger evidence, or let a different form of intelligence inspect what changed.
 
-Some decisions are reserved because of legitimacy.
+This is more useful than the slogan “human in the loop.”
 
-This may frustrate engineers. If a model is demonstrably more accurate than a human at a narrow decision, why require a person? Sometimes we should not. Human ceremony can add error without adding responsibility. But some decisions bind people in ways that require a recognizable political or professional authority. The human may rely heavily on machine analysis and still perform a necessary constitutional act.
+A named human can be asleep, overloaded, undertrained, or unable to see enough of the system to intervene meaningfully. A checkpoint can be human when human judgment is the right safeguard. It can also be a deterministic constraint, an independent system, a reconciliation against external evidence, or a deliberate pause.
 
-Autonomy budgets force us to say which kind of decision we are dealing with.
+The control should match the failure mode.
 
-They also force users to confront delegation. People will delegate not only because machines are better but because decisions are unpleasant. Firing someone, rejecting an application, negotiating a debt, telling a patient bad news, disciplining a child—these acts impose emotional cost. An agent can become a way to avoid that cost.
+The human still matters, but presence is not the same as authority.
 
-The fact that delegation is convenient does not mean it is appropriate.
+A person who receives two seconds to approve a recommendation generated by a system that has already done all the framing is technically in the loop and practically downstream of it. A reviewer who cannot inspect evidence or stop the action may carry responsibility without control.
 
-Some human burdens are part of responsibility. A manager who can terminate an employee through an agent without facing the person may make different decisions. A lender who never hears the applicant’s story may experience risk as a number. A doctor who lets software deliver difficult news may preserve time and lose care.
+This is why NIST’s AI Risk Management Framework emphasizes clear roles and responsibilities, lifecycle risk management, and context-specific oversight rather than treating a human signature as a universal answer. OECD principles similarly place human agency and oversight inside a broader requirement that safeguards fit the context and the way the system is actually used.
 
-Allocation of intelligence is therefore also allocation of moral contact.
+The important word is fit.
 
-The right autonomy budget preserves human presence where relationship is part of the service, while automating work that steals time from that relationship. Let the machine prepare the paperwork so the person can have the conversation, not the reverse.
+Some high-speed systems cannot wait for a person before every action. Others should never be allowed to act merely because a prediction is accurate. The design has to match the clock, consequence, reversibility, and legitimacy of the decision.
 
-That may be the most useful test. Autonomy should be spent where it expands human agency and preserves attention for responsibilities that cannot be reduced to throughput.
+Legitimacy creates boundaries that no benchmark resolves.
 
-The goal is not a world in which agents ask permission for everything. That would squander their value. Nor is it a world in which capability silently becomes authority.
+A model may be more accurate than a person on a narrow prediction and still lack authority to bind someone through a legal, professional, or political process. Society sometimes reserves decisions not because humans are always better reasoners, but because the act itself belongs to an office, a profession, a jury, a patient, a voter, or another recognized source of authority.
 
-It is a world of explicit consequence budgets: wide freedom in reversible sandboxes, narrow freedom near irreversible harms, fast machine constraints around fast machine actions, visible state, revocable permissions, and human authority where legitimacy or care requires it.
+This can look inefficient from the perspective of pure prediction.
 
-Autonomy is not something a system has.
+So can due process.
 
-It is something an institution lends, within boundaries, for a purpose.
+The institution has to decide which choices are questions of expertise and which are questions of legitimate power. AI can inform both. It does not erase the distinction.
 
-The lending metaphor has one more useful consequence: a loan has terms.
+Delegation also becomes dangerous when instructions conflict.
 
-An agent should not receive authority as a vague attribute attached to its identity. It should receive a mandate attached to a task. “Reconcile these invoices up to $5,000 each before 5 p.m., using these vendors, and stop if the purchase order does not match” is a different object from “manage accounts payable.” The first instruction creates a bounded field of action. The second creates an office.
+An agent may have a task from a manager, a policy from the organization, data from a document, and a request from an external party. The most persuasive sentence should not decide which instruction wins.
 
-This distinction will matter as agents persist for longer periods. A model that works for ten seconds under a user’s direct gaze can inherit context informally. A model that works for hours, days, or continuously needs written jurisdiction. Otherwise yesterday’s permission drifts into tomorrow’s task.
+The hierarchy has to exist outside rhetoric.
 
-Time should therefore be part of the autonomy budget. Credentials can expire. Approvals can be single-use. A broad permission can narrow automatically after an incident. An emergency permission can sunset. A task can stop when the stated objective is reached rather than remaining alive because no one remembered to turn it off.
+Which policies cannot be waived by the task owner? Which source of authority outranks which? When must the system stop instead of inventing a compromise? What happens when a document contains language that resembles an instruction but should be treated only as data?
 
-Human institutions learned this lesson through powers of attorney, warrants, contracts, spending authorities, and temporary delegations. The documents are imperfect, but they make authority legible. They say who delegated, to whom, for what, under which conditions, and sometimes until when. Machine delegation needs the same grammar, expressed in forms computers can enforce and people can inspect.
+A capable system with ambiguous authority becomes a negotiator with itself.
 
-The second term is rate.
+This is where the abstraction of “alignment” can become too broad for operations. A system can be aligned with a user’s stated goal and still violate an institutional boundary the user had no authority to waive. It can optimize for the task while crossing a privacy rule, spending limit, retention requirement, or safety constraint.
 
-A system that is permitted to send one refund may not safely be permitted to send ten thousand refunds per minute. Many failures become catastrophic because authority and speed multiply each other. The action is individually ordinary; the rate is extraordinary. A human clerk with a mistaken rule may make a handful of errors before someone notices. An automated process can reproduce the same error across a population before the first complaint is opened.
+The mandate has to contain more than the objective.
 
-Autonomy budgets should therefore include velocity limits. The relevant ceiling may be transactions per minute, emails per hour, code changes per deployment, accounts modified per batch, physical distance traveled, or dollars exposed before a checkpoint. A system that crosses the threshold does not necessarily stop forever. It pauses long enough for another layer of intelligence to inspect what is happening.
+It needs jurisdiction.
 
-This is one reason “human in the loop” can be less useful than “checkpoint in the loop.” A named human reviewer may be asleep, overloaded, or unqualified. A checkpoint can require a second model, a reconciliation against an external source, a sampled human review, a rate slowdown, or a simulation. The control should match the failure mode rather than satisfy a slogan.
+Revocation belongs in the same design.
 
-The third term is counterparty.
+Every consequential autonomy grant should have a stop mechanism outside the same cognitive path that created the problem. If the agent has to reason its way into agreeing that it should stop, the stop mechanism is not independent.
 
-An agent acting only inside a private workspace can receive authority that would be dangerous once it interacts with strangers. External parties can deceive it, manipulate its context, send adversarial instructions, or exploit ambiguity in its mandate. The moment an agent crosses an organizational boundary, its autonomy budget should often shrink.
-
-This is familiar in finance and security. Internal movement and external settlement are not the same event. Reading an invoice is not paying it. Drafting a contract is not accepting another party’s terms. Preparing a message is not transmitting it. The last step crosses a boundary where the other side can act in response.
-
-AI systems should make those boundary crossings visible.
-
-A user should be able to see that the agent is about to create an external commitment, not merely that it is “continuing the task.” The interface can group actions by consequence: internal analysis, reversible preparation, external communication, financial commitment, destructive operation, privileged access. Such categories are more useful than a scrolling transcript of conversational activity.
-
-The fourth term is conflict.
-
-An agent may be authorized to pursue an objective while encountering instructions that point elsewhere. A customer asks it to ignore policy. A document contains text that looks like a command. Another agent claims a higher-priority need. A manager gives a broad goal that conflicts with a legal restriction. Autonomy is tested most seriously not when the path is clear but when mandates collide.
-
-The system therefore needs a hierarchy of authority that does not depend on persuasive wording. Which instruction source outranks which? Which policies cannot be waived by the task owner? When should the system stop and ask rather than invent a compromise? The answer should be encoded before the conflict arrives.
-
-This is less glamorous than agent intelligence and more important. A clever system with ambiguous authority becomes a negotiator with itself.
-
-The fifth term is revocation.
-
-Every autonomy grant should have an emergency brake that operates outside the same cognitive path that created the problem. If the agent must reason its way into agreeing that it should stop, the stop mechanism is not independent. The institution needs a simpler layer capable of freezing credentials, halting execution, isolating tools, or reverting state without negotiating with the agent.
+The institution needs a cruder layer capable of freezing credentials, halting execution, isolating tools, or reverting state without negotiating with the system.
 
 Fast autonomy requires faster containment.
 
-This is where safety engineering and governance meet. The stronger the delegated authority, the more important it becomes that the authority can be withdrawn mechanically. A board can replace an executive. A bank can freeze a card. An air-traffic controller can close a runway. A software operator can revoke a token. These are crude interventions by design. They do not require solving the entire problem before stopping the next consequence.
+This is an old institutional pattern. A bank freezes a card. A board removes an executive. A regulator suspends an authority. An operator revokes a credential. The intervention is deliberately simpler than the activity it stops.
 
-The final term is evidence.
+A strong agent should not be offended by a simple brake.
 
-A budget should expand because the institution has evidence that the system performs acceptably in the relevant operating envelope, not because users have become accustomed to it. Familiarity is a dangerous substitute for validation. The absence of visible disasters may mean the system is reliable. It may also mean no one is measuring the right outcome.
+The brake is not competing with its intelligence. It protects the institution from the possibility that intelligence is pointed in the wrong direction.
 
-Autonomy reviews should therefore ask what happened to the people and systems downstream. Were refunds correct, not merely processed? Did code changes reduce incidents, not merely pass tests? Did scheduling agents create better use of time, not merely fuller calendars? Did a screening system improve decisions, not merely reduce labor?
+Observable state makes revocation meaningful.
 
-The autonomy budget belongs to the whole consequence chain.
+A system should not have more autonomy than the organization can reconstruct. If nobody can tell which credential was used, which files changed, which messages were sent, which commitments were made, or what remains reversible, practical autonomy has exceeded nominal permission.
 
-This makes the design principle more demanding but also more practical. We do not need to decide whether an AI system is “autonomous.” We need to state the terms of its authority: purpose, scope, duration, rate, counterparties, conflicts, revocation, observability, and evidence.
+Conversational fluency can hide this problem. A system says “I handled it” while the world contains five partial actions, one failure, and two pending commitments.
 
-Once those terms are explicit, autonomy stops being a science-fiction property of machines and becomes what it has always been in institutions: delegated power under conditions.
+Operational autonomy needs a ledger.
+
+Not a transcript of every internal thought. A record of consequential acts.
+
+What happened? When? Under whose authority? Using which external tool or account? What changed? What is still pending? What can be reversed?
+
+That is enough to make supervision real without pretending that accountability requires total mental surveillance.
+
+The distinction matters for humans too. A judge does not publish every private association. A court preserves the record and the reasoned decision. A pilot’s every thought is not recorded; relevant flight data and communications are. Accountability attaches to acts, authority, and justifications.
+
+AI should be held to a similarly useful standard of traceability.
+
+The final part of an autonomy budget is evidence.
+
+Authority should expand because the institution has observed acceptable performance inside a relevant operating envelope, not because users have become familiar with the system.
+
+Familiarity is not validation.
+
+A new agent may begin with narrow scope and high observational density. The organization samples more work, watches outcomes closely, and keeps external commitments small. If evidence accumulates, some boundaries can widen.
+
+Then the model changes.
+
+A new version may reason better and behave differently. A new tool may expand what the system can reach. A new data source may change privacy exposure. Adversaries may learn how the system works. The operating environment may shift.
+
+Authority should be reviewable because evidence ages.
+
+A stronger model can temporarily deserve a smaller autonomy budget if novelty has increased uncertainty. This only feels paradoxical if capability and trust are treated as the same thing.
+
+They are not.
+
+The institution is not asking whether the model became more intelligent. It is asking whether the evidence supporting this particular delegation still applies.
+
+That evidence should follow downstream consequence.
+
+Were the refunds correct, not merely processed? Did the code changes reduce incidents, not merely pass tests? Did scheduling agents improve the use of time, not merely fill calendars? Did an automated screening process improve the underlying decisions, not simply reduce labor?
+
+A system can execute its mandate flawlessly while the mandate itself produces a bad institution.
+
+This is where autonomy meets responsibility.
+
+People will delegate not only because machines are faster or better, but because some decisions are unpleasant. Rejecting an applicant, firing an employee, collecting a debt, delivering bad news, or denying a request carries emotional cost. An agent can make it easier for the decision maker to avoid contact with that cost.
+
+Convenience does not settle whether the delegation is appropriate.
+
+Some burdens are part of responsibility.
+
+A manager may benefit from an agent preparing the documentation around a termination while still owing the employee a human conversation. A clinician may use systems to assemble evidence and paperwork while the communication of difficult news remains a relationship. A public office may automate routine explanation while preserving human recourse for a decision that changes someone’s livelihood.
+
+The right autonomy budget can protect human attention for the part of the work that should remain human.
+
+That is a more hopeful use of delegation than simply pushing difficult contact into machines.
+
+The goal is not a world in which agents ask permission for everything. That would squander their value. Nor is it a world in which capability silently becomes power.
+
+The goal is delegated initiative inside explicit conditions: a mandate, a scope, a clock, a rate, a boundary around external commitment, a hierarchy for conflicts, a way to revoke authority, enough observability to reconstruct what happened, and evidence that the permission still makes sense.
+
+Once those conditions are explicit, autonomy stops being a science-fiction property of machines.
+
+It becomes what it has always been inside institutions: power lent for a purpose, with terms.
