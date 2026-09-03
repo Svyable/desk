@@ -32,7 +32,61 @@ Suppose sales representatives can generate customized contract language in secon
 
 The bottleneck moves.
 
-This is one of the least glamorous consequences of abundant cognition and one of the most important. A team celebrates that a task became ten times faster while the institution discovers that the next task became the queue.
+Follow one hypothetical contract far enough and the mechanism becomes visible.
+
+A salesperson meets a prospective customer on Monday morning. The customer wants three changes to the standard agreement: a different liability provision, a promise about data location, and an aggressive implementation date. Before AI, the salesperson might send the notes to a deal desk, wait for someone to prepare language, and then enter legal review. The slowness is frustrating, but it also meters how many unusual contracts can enter the institution at once.
+
+Now give the salesperson an excellent contract agent.
+
+By 10:17 the agent has produced polished language for all three requests, compared the draft with the standard form, and prepared an executive summary. From the salesperson’s perspective, a day of waiting disappeared. The customer is delighted. The team records a productivity win.
+
+At 10:18 the work reaches legal.
+
+The first clause is ordinary enough. The second creates a data-residency promise that depends on cloud architecture, subcontractors, disaster recovery, and future product choices. Legal cannot answer it alone. Security needs to confirm controls. Infrastructure needs to confirm region availability. Procurement needs to know which vendors are involved. Product leadership needs to decide whether the company actually wants to make the promise as a standard commercial commitment.
+
+The AI did not create the complexity.
+
+It delivered the complexity to every relevant queue before lunch.
+
+Suppose twenty salespeople receive the same tool. Each is now able to produce custom language at a speed previously limited by scarce drafting labor. The organization has multiplied the arrival rate of exceptions without multiplying the people who can authorize the consequences.
+
+Legal review time grows.
+
+Sales sees legal as the new obstacle.
+
+Management may respond by giving legal its own agents, which helps. Routine comparison and issue spotting become faster. But if the true constraint is authority to accept unusual risk, generation cannot remove it. The lawyers can analyze more deals and still need a smaller group of leaders to decide which deviations the company is willing to live with for years.
+
+The bottleneck moves again.
+
+Then implementation starts.
+
+The contract’s accelerated date creates pressure on engineering. The data-location promise narrows deployment options. A special reporting obligation creates work for operations. Support needs a new escalation rule. Finance has to recognize the pricing arrangement correctly. None of these teams participated in the original productivity measurement that celebrated faster contract drafting.
+
+The deal has become a packet of promises moving through queues.
+
+This is why a mature organization asks not only how fast a stage completed, but what commitments the stage injected downstream. A contract agent should not merely count drafts. It should help reveal the work the draft creates: legal deviations, security reviews, implementation dependencies, support obligations, future renewal risk.
+
+The best use of AI may then shift upstream.
+
+Instead of helping every salesperson generate more bespoke language, the system can identify which requested changes are already supported by approved patterns, which have been rejected repeatedly, and which require a cross-functional decision before anyone promises them to a customer. The agent becomes a router of exceptions rather than a factory for exceptions.
+
+That is a more organizational form of intelligence.
+
+It can also improve the handoff itself. The security team should not receive a polished paragraph stripped of the customer’s actual requirement. The infrastructure team should not receive “confirm compliance” with no explanation of the promised geography. Legal should not have to rediscover which product configuration sales assumed. A good workflow carries the unresolved question, evidence, owner, deadline, and consequence across the boundary.
+
+Context should travel with work.
+
+This seems obvious until each department has its own agent. The sales agent writes a summary for legal. The legal agent rewrites it for security. The security agent compresses it for infrastructure. By the time the question reaches the person who knows the answer, three helpful systems have translated the original request into a cleaner story.
+
+Every translation can lose the detail that made the exception exceptional.
+
+Organizations therefore need something analogous to chain of custody for consequential ambiguity. Not every message verbatim, but enough provenance that a specialist can reach back to the original requirement instead of trusting a lineage of summaries. AI should reduce the cost of carrying context across queues, not make serial compression invisible.
+
+The contract eventually returns to sales on Thursday. The first queue became almost instantaneous. The whole cycle still took four days because the scarce resource was not drafting. It was cross-functional authority over a promise whose effects would last longer than the sales meeting.
+
+That is the paradox in operational form.
+
+Faster cognition can reveal where the institution was slow for a reason.
 
 The correct response is not to slow useful tools for the sake of symmetry. It is to follow the bottleneck.
 
