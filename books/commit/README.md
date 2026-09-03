@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 11 of 22 drafted |
+| **Chapters**  | 14 of 22 drafted |
 
 *How Git Became the Memory of Software—and What Comes Next*
 
@@ -26,12 +26,12 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Ch 9 — The Files Git Wasn't Built For](manuscript/ch09-the-files-git-wasnt-built-for.md)
 - [x] [Ch 10 — The SHA-1 Clock](manuscript/ch10-the-sha-1-clock.md)
 - [x] [Ch 11 — The Invisible Database](manuscript/ch11-the-invisible-database.md)
+- [x] [Ch 12 — The Merge Is the Work](manuscript/ch12-the-merge-is-the-work.md)
+- [x] [Ch 13 — The Security Boundary](manuscript/ch13-the-security-boundary.md)
+- [x] [Ch 14 — The Commit as Evidence](manuscript/ch14-the-commit-as-evidence.md)
 
 ## Planned chapters
 
-12. The Merge Is the Work
-13. The Security Boundary
-14. The Commit as Evidence
 15. The Agent in the Working Tree
 16. A Thousand Parallel Authors
 17. The Semantic Diff Problem
