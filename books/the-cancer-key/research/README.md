@@ -6,7 +6,7 @@ The Cancer Key tests a deliberately strong proposition: neoantigens have solved 
 
 The book has two linked theses.
 
-First, the technical thesis: advances in tumor-normal sequencing, HLA prediction, immune monitoring, mRNA and peptide manufacturing, checkpoint blockade and engineered T cells have turned patient-specific tumor mutations into a clinically actionable therapeutic platform. The August 2026 positive Phase 3 topline result for intismeran autogene plus pembrolizumab in resected high-risk melanoma is the strongest current validation of that platform, but failures in other cancers and unresolved overall-survival, access and manufacturing questions prevent a universal-cure claim.
+First, the technical thesis: advances in tumor-normal sequencing, HLA prediction, immune monitoring, mRNA and peptide manufacturing, checkpoint blockade and engineered T cells have turned patient-specific tumor mutations into a clinically actionable therapeutic platform. The August 2026 positive Phase 3 topline result for intismeran autogene plus pembrolizumab in resected high-risk melanoma is the strongest current validation of that platform, but failures in other cancers and unresolved overall-survival, access and manufacturing questions prevent a universal-cure claim. As of the September 1, 2026 reporting cutoff, the Phase 3 result remains a company-reported topline result pending full scientific presentation and regulatory review.
 
 Second, the institutional thesis: the capability was assembled from public and private systems whose contributions are deeply entangled. Public agencies funded foundational genomics, immunology, clinical networks and open datasets; universities patented and licensed inventions; companies built proprietary algorithms, factories and late-stage trials; patients supplied tissue, risk and outcome data. If the therapy class succeeds, public benefit will depend on more than the existence of a commercial product. Pricing, competition, data return, manufacturing capacity and legitimate experimental access will determine how widely the scientific gain is distributed.
 
@@ -24,6 +24,8 @@ Second, the institutional thesis: the capability was assembled from public and p
 10. Which legal pathways legitimately permit investigational individualized treatment, and how do clinical trials, FDA expanded access, Right to Try and physician-led pathways abroad differ?
 11. What direct-pay personalized cancer-vaccine services are currently marketed, what do they claim, and what level of clinical evidence supports the specific product and disease rather than the general concept?
 12. Which public-return mechanisms would improve access without destroying the investment incentives needed for expensive clinical development?
+13. Which parts of the individualized workflow can become portable infrastructure without creating unsafe variability across assays, algorithms or manufacturing processes?
+14. How should cross-border experimental treatment preserve traceability, adverse-event reporting and longitudinal evidence when the patient, clinic, manufacturer and regulator are in different jurisdictions?
 
 ## Falsification and counter-evidence
 
@@ -40,6 +42,9 @@ Every chapter should preserve evidence against the book's strongest framing.
 - FDA approval is not the only measure of scientific legitimacy outside the United States, but lack of approval must not be marketed as proof that regulation is merely obstructive.
 - Lower manufacturing cost does not guarantee lower price, and lower price does not guarantee access if tissue, logistics, reimbursement or treatment-center capacity remain bottlenecks.
 - A public data mandate can harm privacy and competition if designed badly; genomic data require controlled access rather than naive openness.
+- A platform can perform well on average while serving uncommon HLA alleles or underrepresented populations less reliably.
+- A clinically successful combination can become unnecessarily expensive if later evidence never tests which components can be shortened, substituted or removed.
+- Cross-border flexibility can generate useful innovation or regulatory arbitrage; the distinction depends heavily on traceability, outcome capture and truthful claims.
 
 ## Evidence lanes
 
@@ -53,7 +58,7 @@ Prioritize ClinicalTrials.gov records, peer-reviewed trial reports, company prim
 
 ### III. Manufacturing and computation
 
-Use company technical materials for claimed platform turnaround and process descriptions, clearly labeled as company claims. Use academic literature and FDA materials for general manufacturing and individualized-product challenges.
+Use peer-reviewed platform descriptions where available, including the August 24, 2026 JCO Oncology Advances description of the end-to-end intismeran pathway. Use company technical materials for claimed turnaround and process descriptions when necessary, clearly labeled as company claims. Use FDA materials for manufacturing, potency and individualized-product regulatory challenges.
 
 ### IV. Public funding and infrastructure
 
@@ -61,19 +66,27 @@ Use NIH, NCI, NHGRI and government budget sources for appropriations, TCGA scale
 
 ### V. Intellectual property and public return
 
-Use Bayh-Dole statutes/regulations, NIH grants policy, historical documents on the reasonable-pricing clause and GAO or peer-reviewed analyses. Separate legal authority from policy proposals.
+Use Bayh-Dole statutes/regulations, NIH grants policy, the February 2026 GAO report on draft price-related march-in guidance, and NIH historical materials on the reasonable-pricing clause. Separate legal authority from policy proposals.
 
 ### VI. Frontier clinics and investigational access
 
 Use FDA pages for U.S. expanded access and Right to Try. Use formal trial registries and national/institutional materials for legitimate clinical research. Use clinic/company websites only to establish what is being advertised, including stated price or regulatory status, and never as independent proof of efficacy.
 
+### VII. Implementation, access and global governance
+
+Use health-system, regulator and peer-reviewed sources to distinguish scientific availability from effective access. Track specimen adequacy, sequencing portability, manufacturing failure, turnaround, treatment-site requirements, reimbursement and cross-border documentation as separate failure points rather than compressing them into a single access claim.
+
 ## Reporting rules
 
-- Reporting cutoff: August 30, 2026.
+- Reporting cutoff: September 1, 2026.
 - No invented quotations, patient stories or trial numbers.
 - Company press releases are acceptable for very recent topline trial status but must be labeled as company-reported until full data are published.
+- The August 19, 2026 INTerpath-001 result remains topline at this cutoff; do not imply peer-reviewed Phase 3 effect size or regulatory approval.
+- The August 28, 2026 BioNTech colorectal termination should be described using the company's stated DSMB findings: a prior futility boundary, a later numerical overall-survival imbalance, recommendation to terminate, and no new safety signal identified by the DSMB.
 - A legal treatment pathway in one jurisdiction must not be described as FDA approval or generalized to other jurisdictions.
 - “Experimental,” “investigational,” “unapproved,” “off-label,” “expanded access” and “Right to Try” are not interchangeable.
 - Do not imply a named clinic is fraudulent without an authoritative regulatory or judicial finding.
 - Do not repeat efficacy claims from direct-pay provider websites as established facts.
+- Do not treat FDA's February 2026 Plausible Mechanism Framework as a cancer-vaccine rule; it is a regulatory analogy for individualized therapies targeting specific genetic causes.
+- FDA's August 2026 active-immunotherapy potency guidance is draft guidance, not final policy.
 - For every major claim, ask: what evidence would make this false, and what evidence is still missing?
