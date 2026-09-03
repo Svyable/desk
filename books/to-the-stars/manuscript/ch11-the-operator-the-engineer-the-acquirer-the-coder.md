@@ -282,6 +282,46 @@ A leader who knows a little about everything can become dangerously confident in
 
 Depth creates humility when taught well.
 
+That balance suggests an educational architecture more demanding than a conventional core-and-major model.
+
+The major should create depth.
+
+A recurring mission sequence should create integration.
+
+Students could encounter the same broad mission problem at increasing levels of sophistication across four years. A first-year version might ask them to reason qualitatively about mission objectives and constraints. A second-year version could add quantitative modeling. A third-year version could force tradeoffs across engineering, software, law and acquisition. A final capstone could introduce incomplete intelligence, shifting requirements and a real external sponsor.
+
+The repetition would matter because integration is not learned once.
+
+Students need to discover repeatedly that the discipline in which they are becoming confident is not the whole system.
+
+They also need to experience the opposite lesson: sometimes their discipline contains the constraint everyone else is trying to negotiate away.
+
+The Academy should teach students to distinguish those moments.
+
+A good mission team does not compromise every disagreement down the middle.
+
+Sometimes the structure will fail if the engineer's limit is ignored.
+
+Sometimes the mission will fail if the operator's deadline is ignored.
+
+Sometimes the procurement path will fail if the acquirer's legal constraint is ignored.
+
+Sometimes the cyber risk can be mitigated rather than treated as a veto.
+
+Judgment means knowing which kind of disagreement is in front of you.
+
+The service could eventually measure whether this education transfers.
+
+STARCOM's common officer pipeline offers one natural feedback point. If graduates from the Academy consistently demonstrate stronger ability to integrate intelligence, cyber, operations and acquisition during exercises, that would support the school's theory of formation. If they perform no differently from graduates of existing pathways, the Academy should ask whether the interdisciplinary machinery is actually adding value.
+
+NASA and other federal employers could provide different measures: time to independent responsibility, supervisor assessments, retention, cross-functional performance and success in complex project environments.
+
+No single metric will capture judgment.
+
+That is not an excuse to avoid evidence.
+
+A school built around integration should be able to show that its graduates integrate better.
+
 The Space Force's own workforce design points in this direction. The service wants officers who begin with a multidisciplinary foundation and then move into specialized tracks. It wants enlisted Guardians who develop tactical expertise and grow into broader leadership. It relies on civilian Guardians for continuity and deep expertise across many occupations.
 
 The institution is already trying to balance breadth and depth across careers.
