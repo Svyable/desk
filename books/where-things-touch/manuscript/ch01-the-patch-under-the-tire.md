@@ -96,6 +96,56 @@ The autonomous-vehicle version of the problem is revealing. A perception system 
 
 Intelligence eventually becomes contact intelligence.
 
+The language of tire dynamics makes the negotiation more precise. A tire does not need to be visibly sliding across the road before it develops useful force. Under acceleration or braking, the circumferential speed implied by the wheel's rotation differs slightly from the vehicle's forward speed; engineers describe this through slip ratio. During cornering, the direction the wheel is pointed and the direction the tire is actually travelling differ; the resulting slip angle is part of how lateral force develops. These are not defects to be designed away. They are part of the tire's working deformation.
+
+The tire produces force by being imperfectly obedient.
+
+A tread element enters the contact patch, deforms under combined load, and leaves. Different regions of the patch can be doing different things at the same time. Under hard braking or cornering, portions can approach or enter local sliding while others remain more strongly stuck to the road. The familiar distinction between sticking and sliding becomes spatial rather than binary.
+
+That helps explain why a driver can feel grip build and then fade rather than encountering a single clean threshold. The interface has a shape to its response. Racing drivers learn that shape through steering effort, vibration, sound, yaw, and experience. Tire engineers learn it through test machines and instrumented vehicles.
+
+The test machine is worth lingering over because it reveals how much effort goes into understanding a patch that cannot be watched easily in ordinary service. Engineers measure forces and moments while changing vertical load, steering angle, camber, speed, inflation, temperature, and surface conditions. They build empirical tire models because a vehicle simulation needs a compact way to predict what the boundary will do. The model may contain coefficients that look abstract on a screen, but each coefficient stands in for rubber bending against a particular road under a particular history.
+
+The software version of a tire is a compressed laboratory.
+
+That compression has limits. Tires warm during use. Pressure rises with temperature. Rubber compounds age. Tread depth changes. Road texture varies from lane to lane. A racing tire deliberately operated near its performance envelope can move through temperature windows rapidly. A road tire must tolerate years of neglect, potholes, underinflation, overinflation, winter mornings, summer highways, and the occasional driver who never looks at the sidewall until a warning light appears.
+
+This is why tires are both sophisticated and disposable. The contact surface is expected to be consumed.
+
+Tread wear is not an accidental defect like a cracked wheel. It is an allowance. The tire gives away material so the vehicle can keep creating fresh contact geometry over time. Designers place wear indicators in the tread because the interface has a planned end state. Once the grooves become too shallow, the tire's ability to manage water changes even if the rubber still looks black and round.
+
+A contact can remain physically present after it has lost the geometry that made it safe.
+
+Water shows the problem dramatically. On a wet road, tread grooves create paths that help move water away from regions where rubber must develop force. As speed, water depth, tire pressure, tread condition, and road geometry change, the tire can lose enough direct interaction with pavement that available control drops sharply. Hydroplaning is not simply “low friction because water is slippery.” It is a transition in how load is supported and how much useful rubber-road contact remains.
+
+The thin film becomes structural.
+
+This is the first appearance of a pattern that will dominate later chapters: a layer introduced between two bodies can take over the contact. Oil does this deliberately in a bearing. Water does it accidentally under a tire. Protein does it instantly on an implant. Reaction products do it in a battery. Whether the layer helps or harms depends on what it carries and what it separates.
+
+The wheel-rail interface makes the smallness even more startling. A steel railway wheel carries enormous loads through a contact region that is tiny relative to the wheel and rail. The materials deform elastically around that region; traction and braking forces pass through it; repeated rolling can produce wear and rolling-contact fatigue. Railways then manage the interface with grinding, friction modifiers, lubrication in selected regions, wheel profiling, inspection, and careful control of geometry.
+
+A train looks like a machine of mass. Its permission to accelerate and stop is issued at a sequence of small contacts.
+
+The railway also exposes a difference between wanting friction and wanting it selectively. High traction at the wheel tread is useful. Excess friction at the wheel flange against the rail can increase wear and noise. Lubricating the wrong region too aggressively could reduce traction. The engineering goal is not a globally slippery railway or a globally sticky one. It is a controlled map of friction across neighboring contact zones.
+
+Where matters as much as how much.
+
+Aircraft landing creates another version of the same boundary shock. A tire goes from free rotation in the air to rapid spin-up against a runway while accepting aircraft load, then participates in braking under a machine whose kinetic energy must be dissipated safely. The event is short, violent, and repeated. Tire construction, pressure, braking control, runway condition, and anti-skid systems converge on the same patch.
+
+Transportation repeatedly takes expensive intelligence and pours it through cheap-looking rubber or steel.
+
+This is why contact authority is a useful phrase. A controller can command only what the boundary can transmit. If four tires can collectively support a certain combination of longitudinal and lateral force under current conditions, software cannot order a fifth tire's worth by increasing confidence. It can redistribute demands, reduce speed, change torque, or choose a different path. It can manage authority. It cannot invent it.
+
+Autonomous machines make this explicit because their planners need uncertainty estimates. A curve taken safely on dry asphalt may be unsafe under black ice. A painted crosswalk can have different friction from adjacent pavement when wet. Leaves can behave differently after rain. Construction plates can create local changes. A machine that sees only geometry sees the road but not necessarily the road's mechanical promise.
+
+That gap is motivating work on friction estimation using wheel speeds, motor torques, vehicle dynamics, cameras, weather information, and other signals. The machine tries to infer contact conditions before demanding too much from them. It is an information problem built on a physical one.
+
+There is a deeper consequence. As propulsion becomes easier to control, contact can become a competitive advantage. Electric motors can modulate torque quickly. Individually controlled motors can alter how force is distributed. Active suspension can influence load transfer. Brake-by-wire systems can coordinate regeneration and friction brakes. Advanced control can use more of the tire's available envelope more consistently.
+
+But extracting more performance makes the estimate of that envelope more important. Precision around an uncertain limit is not safety.
+
+This is the paradox of better control: the closer you can operate to the boundary, the more accurately you must know where the boundary is.
+
 Human beings know this in our bodies. We test a surface with a foot before transferring weight. We tighten our grip when an object begins to slip. We change how we walk on ice without solving equations. We infer wetness, texture, compliance, heat, and instability through contact. Our nervous system does not treat touch as an optional accessory to vision. It is one of the ways the world becomes mechanically trustworthy.
 
 Machines are slowly relearning the same lesson.
