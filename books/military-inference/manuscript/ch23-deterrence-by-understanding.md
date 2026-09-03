@@ -198,10 +198,144 @@ It builds systems that can move quickly while preserving the right to verify.
 
 It makes itself hard to deceive without pretending deception is impossible.
 
-This is a less cinematic picture of military superiority.
+There is a further distinction between **deterring action** and **deterring exploitation of confusion**.
 
-It may be more durable.
+A state may not be able to convince an adversary never to challenge it. It can still convince the adversary that certain methods are unlikely to yield disproportionate advantage.
 
-The strongest deterrent in the inference age may not be a machine that always knows what to do.
+If the force has practiced operating through data corruption, degraded communications, model disagreement, and false warning, then an opponent must assume that confusion alone will not necessarily paralyze decision-making.
 
-It may be an institution that an adversary cannot easily make stupid.
+This is analogous to hardening critical infrastructure. The attacker may still cause damage. The expected political leverage of disruption falls when recovery is credible.
+
+Epistemic recovery can therefore be demonstrated in exercises.
+
+A force can deliberately train with a compromised dataset discovered midway through the scenario. It can operate while two major inference systems disagree. It can rehearse loss of a model provider, stale shared state, or a sudden requirement to rebuild an assessment from primary evidence.
+
+The public need not see every detail. The existence of a disciplined recovery culture can be visible.
+
+That visibility matters because deterrence depends on the adversary's estimate of what will happen after the first move.
+
+If the first move is expected to create enduring confusion, it may be attractive.
+
+If the first move is expected to trigger a practiced recovery process, the calculus changes.
+
+This is **deterrence by recoverability**.
+
+The concept also applies to alliances. An alliance that shares one brittle inference stack can be easier to divide than an alliance that can compare independent national assessments, reconcile differences, and continue operating when shared systems fail.
+
+Coalition resilience is epistemic as well as political.
+
+The adversary may attempt to exploit differences in information access, confidence thresholds, or machine recommendations. One ally sees high confidence. Another sees ambiguity. A third cannot reveal its best source. The disagreement itself can become a wedge.
+
+A mature alliance should expect this and have procedures for **disagreement without disintegration**.
+
+Machine systems can help by exposing which part of the disagreement comes from evidence, which from policy, and which from different tolerance for risk. That does not guarantee consensus. It makes the conflict legible.
+
+Legible disagreement can strengthen deterrence because an adversary sees an alliance capable of arguing internally without becoming incoherent.
+
+The same principle applies to national command. A resilient state does not need every model to agree. It needs the ability to convert disagreement into a bounded decision process.
+
+This is an important signal because adversaries often look for decision paralysis as much as material weakness.
+
+Deterrence by understanding therefore includes **deterrence by governability**.
+
+The state can control its own machine systems under stress.
+
+It can slow them.
+
+It can replace them.
+
+It can explain their authority.
+
+It can recover from error.
+
+A capability that cannot be governed may look impressive in peacetime and frightening in crisis, but it is not necessarily credible as an instrument of strategy. Leaders may hesitate to rely on it because they do not trust the consequences.
+
+Governability converts technical capability into usable state power.
+
+This is a useful corrective to the assumption that autonomy automatically strengthens deterrence. A highly autonomous system whose behavior is opaque or difficult to interrupt can weaken credibility by increasing fear of accident. The adversary may not know whether an observed action reflects deliberate policy, local machine behavior, or malfunction.
+
+Ambiguous control creates ambiguous signaling.
+
+In strategic relationships, ambiguity about intention can be dangerous even when ambiguity about capability is useful.
+
+That suggests a design principle: **machine behavior should be attributable to an authority regime**.
+
+The other side may not know every technical detail, but the state itself should know whether a system acted under routine delegated authority, emergency policy, human authorization, or local fallback rules. This supports internal control and makes external signaling more deliberate.
+
+There is also a role for **epistemic arms control**, though the phrase should be approached cautiously. The challenge is not to negotiate which side may think more. It is to identify specific machine-enabled behaviors whose opacity creates shared instability.
+
+Possible confidence-building areas might include communication channels around unusual automated events, shared terminology for certain categories of human authorization, or norms around testing systems that could produce ambiguous strategic signals. The details would be politically difficult and technology would change rapidly.
+
+The broader principle is enough for this book: when both sides fear invisible automation, some mutual legibility can create value.
+
+This is similar to earlier eras in which states developed practices for reducing the risk that exercises, alerts, or technical anomalies would be mistaken for preparations for war.
+
+The inference age adds new objects of uncertainty.
+
+Was this action machine-generated?
+
+Was it automatically triggered?
+
+Can it be recalled?
+
+Does the state know it occurred?
+
+Which human authority is responsible?
+
+These questions can become strategically relevant even if the machine behavior itself is limited.
+
+Understanding the opponent's governance may therefore become part of deterrence analysis.
+
+Not merely what systems they possess, but how those systems enter authority.
+
+The difficulty is that governance can be misrepresented. A public policy may say one thing while crisis practice differs. A system may be designed with human authorization but create such time pressure that authorization becomes automatic. The same problem appears domestically.
+
+Credibility requires observable institutional behavior over time.
+
+Exercises, procurement, doctrine, training, and incident response create a pattern.
+
+This is why deterrence by understanding cannot be manufactured by one public statement. It is accumulated.
+
+The same is true of understanding the adversary.
+
+A machine staff can preserve decades of interaction history, but deterrence analysis should distinguish **memory from prediction**. The fact that an adversary behaved one way previously is evidence, not destiny.
+
+Persistent models should therefore track confidence decay as political context changes. Leadership turnover, economic shocks, alliance changes, domestic unrest, technological transitions, and war itself can change what old behavior means.
+
+The system should be able to say: this pattern was once predictive; it is now weak evidence.
+
+That is a form of strategic forgetting.
+
+It prevents the model of the adversary from becoming a prison for both sides.
+
+There is a deeper philosophical point. Deterrence has always required a peculiar combination of confidence and humility.
+
+A state must communicate credible resolve.
+
+It must also understand that the adversary remains free to choose differently than expected.
+
+Machine inference can increase confidence faster than it increases humility because the output looks analytical. The danger is a generation of leaders surrounded by probability distributions that make uncertainty feel domesticated.
+
+The force should instead use machine reasoning to make uncertainty more articulate.
+
+Not "the adversary will do X."
+
+These are the live branches.
+
+These are the assumptions.
+
+These are the signals that would change our estimate.
+
+These are the outcomes we cannot rule out.
+
+This is how inference supports deterrence without pretending to control another state.
+
+The strongest deterrent in the inference age may therefore not be a machine that always knows what to do.
+
+It may be an institution that an adversary cannot easily make stupid, cannot easily make panic, and cannot easily convince that one temporary picture of the world is the only picture available.
+
+That is deterrence by understanding.
+
+Not knowing everything.
+
+Making confusion a poor investment.
