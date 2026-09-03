@@ -126,6 +126,26 @@ The Space Force needs officers from civilian universities because advanced techn
 
 The Space Academy should strengthen that ecology, not become its dominant species.
 
+This is where the enlisted question becomes impossible to avoid.
+
+Academy debates naturally center officers because federal service academies are officer-producing institutions. But a technical service is not an officer corps with supporting scenery. Enlisted Guardians, civilians, contractors and specialists carry operational knowledge that may be more current than the undergraduate knowledge of a newly commissioned lieutenant.
+
+A Space Academy that teaches future officers about leadership while insulating them from the people who actually maintain, operate, troubleshoot and sustain systems would reproduce one of the oldest institutional mistakes in technical organizations: confusing rank with knowledge.
+
+The remedy does not require turning every enlisted pathway into a four-year academy program.
+
+It requires designing the school so that officer formation includes structured exposure to enlisted expertise and so that enlisted Guardians have meaningful access to academy courses, research, preparatory programs or later educational opportunities where appropriate.
+
+The distinction matters.
+
+A young officer should leave the Academy understanding that authority and expertise overlap imperfectly.
+
+The service will sometimes require that officer to make a decision before possessing the deepest technical knowledge in the room. The educational problem is not to pretend otherwise. It is to teach the officer how to identify expertise, ask better questions, recognize uncertainty and take responsibility for a decision that depends on other people's knowledge.
+
+That is leadership in a technical service.
+
+A new academy has an unusual chance to make that principle structural from the beginning.
+
 There is another reason borrowed institutions matter.
 
 They carry intellectual diversity.
@@ -200,6 +220,32 @@ They make temporary judgments durable enough to teach.
 
 If the service is still changing rapidly, the academy must be designed to revise those judgments without treating revision as betrayal.
 
+That means institutionalizing correction.
+
+Courses should have owners but not owners for life.
+
+Operational commands should be able to tell faculty when assumptions have become stale.
+
+Graduates returning from the field should become part of curriculum revision rather than merely alumni programming.
+
+Exercises should change when doctrine changes.
+
+Technical laboratories should not become museums for the systems that happened to be fashionable when the first appropriation arrived.
+
+The Academy will need tradition and revision simultaneously.
+
+That sounds contradictory only if tradition is mistaken for immobility.
+
+The best professional traditions are methods for carrying principles through changing tools.
+
+Integrity does not become obsolete when software changes.
+
+Mission command does not become irrelevant when architectures shift.
+
+Systems thinking remains valuable even when systems become more autonomous.
+
+The Academy should be conservative about principles and aggressive about implementation.
+
 This is another advantage of the borrowed-institution era.
 
 Borrowing forces humility.
@@ -231,6 +277,18 @@ Its faculty should include people whose careers began outside the Academy.
 Its research should partner with universities rather than assume federal ownership of expertise.
 
 Its alumni network should be powerful enough to help the service but not powerful enough to define who belongs.
+
+The healthiest test may be social rather than academic.
+
+Ten years after opening, does a Space Academy graduate look at a ROTC lieutenant and see another Guardian—or a lesser path into the same profession?
+
+Does an enlisted Guardian see the Academy as a place that respects operational knowledge—or as a prestige machine for officers?
+
+Does a NASA engineer see a military graduate as a colleague with a different legal mission—or as somebody trained inside a separate tribe?
+
+Does a civilian graduate believe public service is broader than the institution that issued the diploma?
+
+Those attitudes will reveal whether the school created a profession or a caste.
 
 A new service naturally wants symbols of independence.
 
