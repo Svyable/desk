@@ -119,3 +119,59 @@ This is the paradox of making worlds at conversation speed.
 Conversation is good at change.
 
 Worlds require memory.
+
+## Canon becomes an interface decision
+
+Once a fictional world can answer back, canon stops being only an editorial question and becomes a product-design question.
+
+What is allowed to change? What is remembered? Which events count for every participant? Which events belong only to one person's branch? If a player convinces a character to betray the king, does that betrayal become part of the world or merely part of that session? If a reader asks for a different childhood for the protagonist, has the character changed or has the reader opened a private variation?
+
+Traditional media often hid these questions because the object was fixed. The published novel did not need a database schema for canon. The film did not need to decide whether the audience's interpretation should alter scene three on the next viewing.
+
+Interactive generative media does.
+
+This creates a strange convergence between mythology and state management.
+
+A myth survives because a culture knows which parts can vary and which parts anchor the identity of the story. A software system survives because it knows which states are authoritative, which are temporary, and how conflicts are resolved. Generative worlds need both disciplines at once.
+
+The creator may need to define a hierarchy of truth. There are immutable facts. There are facts that can change through play. There are rumors. There are private memories held by characters. There are improvisations that disappear when the scene ends. There are user-created branches. There are official expansions. There are contradictions that are intentional and contradictions that are bugs.
+
+This sounds technical because it is.
+
+It is also narrative craft.
+
+If everything a character says becomes permanent memory, the world may accrete nonsense. If nothing persists, interaction feels weightless. If user changes overwrite shared canon, the work can lose identity. If personal branches are always subordinate, interactivity may feel cosmetic.
+
+Meaning emerges from the rules of persistence.
+
+The same issue appears in collaborative human storytelling, online communities, long-running franchises, tabletop games, and oral traditions. Groups develop conventions for what counts. The difference is scale and speed. A generative system can produce more continuity problems in one afternoon than a small writers' room might encounter in a season.
+
+So future world-builders may think in terms of narrative databases without feeling like database administrators. They will design memory as part of tone.
+
+A horror world may remember guilt but forget geography. A comedy world may preserve relationships while allowing events to reset. A child's imaginary companion may remember preferences but not embarrassing disclosures. A historical simulation may sharply separate documented facts from invented connective tissue.
+
+Memory architecture becomes artistic language.
+
+## The audience becomes a local co-author
+
+The phrase *co-author* should be used carefully. Legal authorship, moral responsibility, and creative participation are different questions. But from the audience's perspective, generative media can move reception closer to local authorship because the work can respond to choices that affect more than sequence.
+
+A viewer may not merely choose door A or door B. They may introduce a new idea the original creator never enumerated.
+
+That changes the emotional contract.
+
+In a fixed work, the audience receives another person's decisions. Interpretation is active, but the artifact is stubborn. In a responsive world, the audience can test the boundaries of the creator's system. The pleasure can come partly from discovering what the world permits.
+
+This makes refusal aesthetically important.
+
+If the user can ask anything and the world always complies, the world has no character. A convincing fictional city should refuse requests that violate its economics, physics, politics, history, or mood. A character should sometimes misunderstand. An institution should sometimes say no. A magic system should have costs. A spaceship should run out of fuel.
+
+Constraint is how a world tells the audience what it is.
+
+This suggests that future generative experiences may be judged less by how much they can produce than by the quality of their boundaries. The interesting question will not be, “Can I do anything?” It will be, “What kind of place is this that some things are possible and others are not?”
+
+The answer is world-building.
+
+At conversation speed, abundance is easy.
+
+Identity is the hard part.
