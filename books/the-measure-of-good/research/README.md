@@ -98,6 +98,7 @@ Look for organizations that combine measurement with local knowledge, escalation
 - [Chapter 10 — The Value of a Life](ch10-value-of-life.md)
 - [Chapter 13 — When the Model Decides](ch13-when-the-model-decides.md)
 - [Chapter 14 — Experts, Citizens, and Legitimate Choice](ch14-experts-citizens-and-legitimate-choice.md)
+- [Chapter 15 — The Cost of Doing Nothing](ch15-the-cost-of-doing-nothing.md)
 
 ## Source discipline
 
