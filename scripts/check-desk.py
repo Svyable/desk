@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 BOOKS = ROOT / "books"
 README = ROOT / "README.md"
 FEEDBACK = ROOT / ".github" / "ISSUE_TEMPLATE" / "chapter-feedback.yml"
+WORKFLOWS = ROOT / ".github" / "workflows"
 INDEX = ROOT / "index.html"
 LLMS = ROOT / "llms.txt"
 SITEMAP = ROOT / "sitemap.xml"
@@ -205,6 +206,14 @@ def check_book_sources(book_dir: Path) -> tuple[int, int]:
 
 
 FAILED = False
+
+hosted_workflows = sorted(
+    path.relative_to(ROOT)
+    for path in WORKFLOWS.glob("*")
+    if path.is_file()
+)
+for workflow in hosted_workflows:
+    fail(f"hosted GitHub Actions workflow violates Desk local-first contract: {workflow}")
 
 book_dirs = {
     path.name
