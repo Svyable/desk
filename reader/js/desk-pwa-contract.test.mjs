@@ -37,6 +37,9 @@ assert.match(loader, /adaptSharedReaderAppSource/);
 assert.match(loader, /viewport-stability-runtime\.js\?v=r1/);
 assert.match(loader, /Viewport stability could not be loaded/);
 assert.ok(loader.indexOf('await import(viewportStabilityUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
+assert.match(loader, /const nativeShareUrl = `\$\{upstream\}native-share\.js`;/);
+assert.match(loader, /Native sharing could not be loaded/);
+assert.ok(loader.indexOf('await import(nativeShareUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
 assert.doesNotMatch(loader, /const catalogGate =/);
 assert.doesNotMatch(loader, /source\.replace\(\s*catalogGate/);
 assert.match(bridge, /functionSlice/);
@@ -47,4 +50,4 @@ assert.match(bridge, /window\.__IMPRINT\?\.role === 'desk'/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: 33 assertions passed');
+console.log('Desk PWA source contract: 36 assertions passed');
