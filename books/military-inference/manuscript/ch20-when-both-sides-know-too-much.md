@@ -238,7 +238,107 @@ They cannot directly observe meaning.
 
 Meaning is inferred through history, incentives, culture, institutions, and signals that may themselves be strategic.
 
-That is why both sides can know too much and still not know enough.
+This is one reason mutual legibility can produce **asymmetric memory**.
+
+Both sides may observe the same event, but one side may possess decades of structured institutional history linking the event to prior patterns while the other relies on fragmented human recollection. Persistent inference compounds this advantage quietly. The side with better memory does not merely know more facts. It can compare today's anomaly against thousands of earlier anomalies, measure how often similar signals mattered, and preserve lessons across personnel turnover.
+
+This changes strategic bargaining power.
+
+An institution that remembers can wait differently.
+
+It can recognize recurring pressure tactics. It can distinguish a genuinely novel move from a familiar pattern presented with new rhetoric. It can preserve old concessions, promises, and reversals in a form machine staffs can retrieve instantly.
+
+The opponent may face a state whose negotiating memory no longer resets with elections, rotations, or retirements.
+
+That can strengthen consistency.
+
+It can also make relationships less forgiving.
+
+Human diplomacy has often depended on selective forgetting. New leaders reinterpret old disputes. Old insults lose salience. Ambiguous promises are allowed to fade. Persistent institutional memory can turn every previous inconsistency into permanent evidence about intent.
+
+The danger is **strategic memory debt**.
+
+The system accumulates facts that remain true historically but no longer deserve equal weight in current judgment. A leader who broke one promise twenty years ago may be gone. A doctrine may have changed. A political movement may have disappeared. A state can become trapped inside the model another state's machine built from its past.
+
+Inference-rich strategy therefore needs forgetting as well as remembering.
+
+Not deletion of history.
+
+Weighting of history.
+
+Which patterns remain predictive?
+
+Which have decayed?
+
+Which events were products of leaders or institutions that no longer exist?
+
+Which old signals are being retrieved because they are relevant and which because the machine is excellent at finding analogies?
+
+This is another reason the world-as-context idea matters even in military intelligence. Current evidence should be able to outrank inherited narrative when reality changes.
+
+There is a domestic counterpart. Open-source information and commercial sensing do not belong only to governments. Journalists, companies, researchers, citizens, and allied publics can observe strategic activity too. The state's inference advantage may narrow in some domains while the number of interpreters multiplies.
+
+This creates a **public inference layer** around strategy.
+
+Governments act in an environment where external analysts may identify movements, compare imagery, track industrial indicators, or challenge official claims. Machine systems can make that analysis faster and more widely accessible.
+
+This may improve accountability.
+
+It can also create pressure during crises because public interpretations arrive before governments are ready to speak. Leaders may be responding not only to the adversary but to thousands of machine-assisted observers constructing narratives in real time.
+
+The signal environment becomes crowded with unofficial inference.
+
+Some of it will be excellent.
+
+Some speculative.
+
+Some deliberately manipulated.
+
+States need ways to distinguish public evidence from public certainty. A viral interpretation can shape politics even when the underlying data is ambiguous. The government may know more but be unable to disclose why. The public may see less but possess a simpler story.
+
+This creates an information-governance problem unlike traditional secrecy. The state cannot merely control the flow of data because much of the data is already outside. It needs the capacity to communicate uncertainty credibly.
+
+That may become a strategic capability.
+
+A government that can say, in effect, "we see the same evidence, here is what it supports, here is what remains unknown," may be more resilient than one that alternates between silence and absolute claims.
+
+Machine staffs can help construct those public explanations from releasable evidence. But the political institution must decide what transparency serves stability and what transparency creates unnecessary escalation.
+
+This is selective epistemic restraint in public form.
+
+There is also a paradox of **perfect observability** worth examining even if it remains hypothetical. Suppose technology made many military preparations almost impossible to hide. Would war become impossible because surprise disappeared?
+
+Probably not.
+
+States would shift competition toward intention, timing, legal interpretation, coalition politics, software behavior, economic pressure, and actions whose meaning remains ambiguous even when the action itself is visible.
+
+The scarcity would move from observation toward interpretation.
+
+This is exactly the broader thesis of the book.
+
+As sensing gets cheaper, meaning gets more valuable.
+
+And meaning remains adversarial.
+
+The final danger of knowing too much is that the institution can become addicted to explanation.
+
+With enough data, every event can be contextualized. With enough models, every behavior can be assigned motives. With enough history, every anomaly can be linked to precedent.
+
+Sometimes the correct strategic posture is to leave the event underdetermined.
+
+Not because analysis failed.
+
+Because the evidence does not yet justify a story.
+
+The system that can maintain that state without panicking has an advantage over the system that must convert every observation into intent.
+
+This is **strategic negative capability**: the ability to remain inside uncertainty without forcing closure merely to relieve institutional discomfort.
+
+Human leaders need it.
+
+Machine staffs need to support it.
+
+Both sides can know too much in the sense of possessing enormous information and still know too little in the only sense that ultimately matters: what the other side will choose.
 
 The inference age does not abolish fog.
 
@@ -246,4 +346,4 @@ It moves the fog upward.
 
 The question stops being only, "What happened?"
 
-It becomes, "What does what happened mean when everyone knows everyone is watching?"
+It becomes, "What does what happened mean when everyone knows everyone is watching—and how much of that meaning are we inventing because the machine can?"
