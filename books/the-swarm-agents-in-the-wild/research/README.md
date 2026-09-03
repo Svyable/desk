@@ -47,7 +47,7 @@ This pass makes a deliberate distinction between two seams: MCP primarily standa
 
 ## Evidence pass 5 — confused deputy
 
-The security and identity section now grounds its attack-and-containment argument in independent benchmarks, government security work, open authorization rules, and first-party production defenses:
+The security and identity section grounds its attack-and-containment argument in independent benchmarks, government security work, open authorization rules, and first-party production defenses:
 
 - AgentDojo’s peer-reviewed benchmark for indirect prompt injection against tool-using agents operating over untrusted data;
 - NIST CAISI’s 2026 analysis of a public agent-hijacking red-team competition covering 13 frontier models, more than 250,000 attack attempts, and over 400 participants;
@@ -60,13 +60,25 @@ The security and identity section now grounds its attack-and-containment argumen
 
 This pass distinguishes model robustness from system security. The manuscript treats prompt injection as consequential because an authorized agent can connect untrusted input to privileged action, and treats identity portability as separate from authority portability.
 
+## Evidence pass 6 — the mandate
+
+The markets and delegation section now grounds machine spending and contracting in current payment infrastructure rather than treating agent wallets as a hypothetical endpoint:
+
+- Google’s Agent Payments Protocol (AP2), with signed Intent and Cart Mandates designed to preserve evidence of user authorization in both human-present and delegated purchases;
+- Stripe’s current agentic-commerce documentation for customer-controlled wallets, seller-agent checkout, scoped/shared payment credentials, and machine-payment integrations;
+- Stripe and Tempo’s Machine Payments Protocol, which targets programmatic agent and machine transactions that are too small or too frequent for human-oriented checkout flows;
+- Mastercard’s Agent Pay and Agentic Tokens, framed around registered and traceable agents and verifiable user intent;
+- Mastercard’s 2026 Agent Pay for Machines announcement, describing high-frequency, low-latency and low-value machine transactions including microtransactions;
+- Visa Intelligent Commerce, including credentialing, authentication, spending limits, approval workflows, and identity signals for agent-initiated payments.
+
+The manuscript treats all of these payment-company claims according to source type. Product announcements are evidence that major payment networks are designing for delegated machine spending, not proof that a large autonomous machine economy already exists. The analytical focus is the emerging institutional primitive: a machine-checkable mandate connecting a principal, an agent, a budget, a purpose, and a transaction record.
+
 Machine-readable source records for the evidence passes live under [`research/sources/`](sources/). First-party company metrics are identified as such in the manuscript. Internal evaluations are not presented as independent evidence.
 
 ## Still to verify
 
 Before the manuscript is treated as a complete trade-nonfiction draft, verify and source the concrete claims chapter by chapter, especially:
 
-- payment and machine-commerce infrastructure, including where an agent’s authority to spend or contract becomes enforceable;
 - provenance, software/agent supply-chain attestation, persistent-memory poisoning, and inter-agent trust mechanisms beyond the identity/security pass already added;
 - claims about insurance, procurement, logistics, and other machine-speed institutional interactions beyond the documented market analogues;
 - historical analogues used elsewhere to explain organizations, monocultures, bureaucracy, infrastructure, and resilience;
