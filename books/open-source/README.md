@@ -33,6 +33,7 @@ The central thesis is that open AI does not abolish ownership; it rearranges it.
 - [x] [Interlude — The Scarcity Ledger](manuscript/interlude-the-scarcity-ledger.md)
 - [x] [Interlude — What If the Moat Is Real?](manuscript/interlude-what-if-the-moat-is-real.md)
 - [x] [Interlude — The Copy Machine](manuscript/interlude-the-copy-machine.md)
+- [x] [Interlude — Who Pays for Free Intelligence?](manuscript/interlude-who-pays-for-free-intelligence.md)
 - [x] [Ch 15 — The 2027 Price War](manuscript/ch21-the-2027-price-war.md)
 - [x] [Ch 16 — The New Open Cartels](manuscript/ch22-the-new-open-cartels.md)
 - [x] [Ch 17 — Five Bets on 2027](manuscript/ch23-five-bets-on-2027.md)
