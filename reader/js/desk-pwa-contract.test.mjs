@@ -3,6 +3,7 @@ import fs from 'node:fs';
 
 const loader = fs.readFileSync(new URL('./app-loader.js', import.meta.url), 'utf8');
 const bridge = fs.readFileSync(new URL('./desk-runtime-bridge.js', import.meta.url), 'utf8');
+const quickLook = fs.readFileSync(new URL('./library-quick-look.js', import.meta.url), 'utf8');
 const worker = fs.readFileSync(new URL('../sw.js', import.meta.url), 'utf8');
 const manifest = JSON.parse(fs.readFileSync(new URL('../manifest.webmanifest', import.meta.url), 'utf8'));
 
@@ -93,4 +94,8 @@ assert.match(bridge, /window\.__IMPRINT\?\.role === 'desk'/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: 63 assertions passed');
+assert.match(quickLook, /open && open\.textContent !== previewModel\.action/);
+assert.match(quickLook, /volumeForMutationTarget\(record\.target\)/);
+assert.match(quickLook, /characterData: true/);
+
+console.log('Desk PWA source contract: 66 assertions passed');
