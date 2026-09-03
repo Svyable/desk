@@ -184,6 +184,28 @@ A junior officer believes a senior operational assumption is wrong.
 
 Ethics becomes professional when telling the truth has a cost.
 
+The Academy should add one more common requirement that technical schools sometimes treat as remedial rather than central: writing.
+
+Space institutions fail in documents as well as hardware.
+
+Requirements are written.
+
+Test findings are written.
+
+Budgets are justified in writing.
+
+Intelligence assessments are written.
+
+Orders, contracts, policy memoranda, scientific papers and anomaly reports all convert thought into institutional action.
+
+A leader who cannot explain a complicated system plainly will either lose the decision or force somebody else to translate it.
+
+Students should therefore write for different audiences: a technical peer, a senior decision-maker, Congress, the public and a team whose members come from another discipline. The same evidence should not produce the same document every time.
+
+Clarity is not decoration around technical competence.
+
+It is how competence moves through an organization.
+
 The second layer is depth.
 
 Every graduate should know one difficult field well enough to experience the difference between familiarity and expertise.
@@ -199,6 +221,24 @@ A major exists because a coherent discipline deserves sustained study, not becau
 Artificial intelligence, for example, will be central to future space systems. That does not automatically mean every academy needs an undergraduate “AI major.” Strong foundations in computer science, mathematics, statistics and domain applications may age better. The same is true of whatever technology dominates the next news cycle.
 
 The degree list should be smaller than political enthusiasm wants and deeper than marketing prefers.
+
+Artificial intelligence also changes how the Academy must teach rather than merely what it teaches.
+
+Students will have access to systems capable of generating code, explanations, designs, summaries and prose. Banning those tools wholesale would train graduates for an environment that no longer exists. Treating them as invisible assistants would make it difficult to know what students can actually do.
+
+The institution will need explicit modes.
+
+Some work should be tool-free so that the Academy can verify individual competence.
+
+Some work should require tools so students learn to supervise automation, test outputs, identify fabricated claims and understand where machine assistance changes responsibility.
+
+A future officer who accepts an incorrect generated answer remains responsible for the decision made from it.
+
+A future engineer who cannot reproduce or interrogate an automated result does not possess the result in a professional sense.
+
+The educational standard should be neither purity nor convenience.
+
+It should be accountable use.
 
 A technically serious Academy also needs faculty who are scholars and practitioners rather than an endless rotation of temporary instructors.
 
@@ -292,6 +332,22 @@ Military-track students will require additional formation specific to officershi
 
 The common institution should not imply that leadership looks identical in every profession.
 
+The Academy will also need to decide how it knows whether the curriculum works.
+
+Course completion is not enough.
+
+Grades are not enough.
+
+Accreditation is necessary but cannot answer the Academy's unique institutional question.
+
+The school should define a small set of capabilities every graduate is expected to demonstrate: quantitative reasoning, disciplinary depth, clear writing, systems thinking, lawful decision-making, ethical judgment, collaborative problem solving and the ability to learn unfamiliar technical material.
+
+Those capabilities should appear repeatedly across courses rather than live in one assessment office.
+
+Later employers can provide another feedback loop. STARCOM can report whether military graduates arrive prepared for integrated officer training. NASA and other agencies can report whether civilian graduates handle complex projects differently from comparable hires. Alumni can reveal which parts of the curriculum survived contact with real work and which became forgotten requirements.
+
+A living curriculum requires evidence from the lives it produces.
+
 There is one more subject every student should study because no curriculum can remain current without it.
 
 Learning.
@@ -337,6 +393,8 @@ Enough economics that they understand incentives.
 Enough strategy that they understand consequence.
 
 Enough ethics that they know expertise does not remove responsibility.
+
+Enough writing that their judgment can move through institutions without distortion.
 
 Then it should make every student go deep enough in one field to discover how hard expertise is.
 
