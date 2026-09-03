@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 40 author projects · 38 released · 2 public drafts/proofs**
-> **Where they live: 40 in both Desk + Shelf · 32 Desk-only · 0 Shelf-only**
-> **Release review queue: 1 complete draft is Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
+> **Where they live: 41 in both Desk + Shelf · 31 Desk-only · 0 Shelf-only**
+> **Release review queue: 0 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -54,13 +54,14 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Retry Generation**](books/the-retry-generation/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-vanishing-bid/) |
+| [**The Weather We Build**](books/the-weather-we-build/) | ✅ Complete structural draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-world-beneath-the-world/) |
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [The Weather We Build](books/the-weather-we-build/)
+**Desk-only complete drafts awaiting an explicit release decision:** None.
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -139,7 +140,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Value Stack**](books/the-value-stack/) | ✍️ Drafting | 19 of 19 | 36,738 | The central thesis is that value creation and value capture occur at different layers of economic systems, and that bargaining power migrates toward necessary layers that are difficult to… | [Read →](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | 11 of 11 | 16,209 | The working thesis is that liquidity is not a property of an asset but a behavior of the people and machines currently willing to trade it — a standing offer, renewed voluntarily every few… | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
 | [**The Waiting List**](books/the-waiting-list/) | ✍️ Drafting | Front matter, prologue, epilogue, back matter; 20 of 20 chapters | 67,971 | The central thesis is that when a price cannot or should not allocate a scarce good, some other rule always fills the vacuum — a queue, a lottery, a priority rule, or an algorithmic match… | [Read →](https://svyable.github.io/desk/reader/#/b/the-waiting-list/) |
-| [**The Weather We Build**](books/the-weather-we-build/) | ✅ Complete structural draft | 12 of 12 | — | Civilization increasingly depends on manufactured microclimates: bounded environments in which heat, moisture, dust, vibration, pressure, gas composition, microbes, and contamination are held inside narrow operating ranges. | [Read →](https://svyable.github.io/desk/reader/#/b/the-weather-we-build/) |
+| [**The Weather We Build**](books/the-weather-we-build/) | ✅ Complete structural draft · Published on Shelf | 12 of 12 | — | Civilization increasingly depends on manufactured microclimates: bounded environments in which heat, moisture, dust, vibration, pressure, gas composition, microbes, and contamination are held inside narrow operating ranges. | [Read →](https://svyable.github.io/desk/reader/#/b/the-weather-we-build/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 of 12 | 28,564 | The central wager is simple: ordinary perception is full of compressed information. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
 | [**This Tech Is Different**](books/this-tech-is-different/) | ✍️ Drafting | 4 of 22 | 15,200 | The working thesis is that this industrial transition becomes historically distinct where machine cognition, agency, embodiment, and biological engineering begin to converge. | [Read →](https://svyable.github.io/desk/reader/#/b/this-tech-is-different/) |
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | 2,454 | Complex systems become sophisticated enough to hide elementary truths. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
