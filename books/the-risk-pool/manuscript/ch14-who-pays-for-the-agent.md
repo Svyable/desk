@@ -315,3 +315,137 @@ The regulator can set duties.
 The insurer answers the question that eventually reaches every real technology.
 
 How much confidence can be converted into capital?
+
+That question becomes much easier when authority is described precisely.
+
+"Uses AI" is almost useless as an underwriting fact.
+
+A system that summarizes documents and a system that can move ten million dollars may use the same model family. A system that drafts code and waits for review is different from one that merges and deploys it. A customer-service agent that proposes a refund is different from one that can issue the refund, waive a fee, modify an account, and promise future service.
+
+The relevant exposure is a ladder of verbs.
+
+Read.
+
+Recommend.
+
+Write.
+
+Send.
+
+Spend.
+
+Commit.
+
+Delete.
+
+Execute.
+
+Bind.
+
+Each step changes the tail.
+
+The underwriter will care about which verbs are available, to which resources, under what limits, and with what path to reversal. A thousand-dollar purchasing limit is a different risk from an unlimited purchasing mandate. The ability to create a draft database migration is different from authority to run it against production. The right to negotiate a contract is different from the right to sign one.
+
+This makes permission architecture legible as an insurance control.
+
+A mature agent deployment should be able to answer a simple question after any consequential action: what authority caused this action to be possible?
+
+That answer may include a user instruction, a standing organizational policy, a tool permission, an API credential, a model decision, and a validation rule. The chain matters because claims attribution will otherwise collapse into a vague argument that "the AI did it."
+
+The AI did not open its own bank account.
+
+Someone connected it to one.
+
+This is why provenance and logging become more than debugging conveniences. They are evidence about authorization, causation, and control. A log that shows which model version acted, which tools were available, which data was retrieved, which policy check ran, which human approved an exception, and what output was actually sent can turn a chaotic liability dispute into a tractable one.
+
+The insurer does not need omniscience.
+
+It needs reconstruction.
+
+Reconstruction also makes near misses more valuable. If an agent attempted an unauthorized transfer and a deterministic policy engine blocked it, the company has learned something about both the model and the control. If the same attempt happens fifty times after a model update, the pattern may justify intervention before a claim occurs.
+
+This is how loss prevention becomes continuous rather than annual.
+
+The insurance policy can reinforce the architecture by distinguishing routine errors from severe delegated failures. Small, frequent mistakes may be better retained through deductibles or self-insurance because the company is in the best position to fix them. A larger layer can protect against rare losses that exceed ordinary operating tolerance. Reinsurance or specialty capacity can sit above still larger accumulation risk.
+
+The familiar insurance stack reappears inside autonomy.
+
+Do not transfer every typo.
+
+Transfer the error that can sink the enterprise.
+
+This has a behavioral benefit. If every minor agent mistake is reimbursed, the deployer has weaker reason to improve the system. Retention keeps some cost close to the party controlling configuration and supervision. Catastrophe coverage protects the balance sheet without turning the insurer into a maintenance contract for bad automation.
+
+The difficult losses will be the ones caused by interactions rather than a single defective component.
+
+A model may produce an ambiguous instruction. A retrieval system may surface stale data. A tool may interpret the instruction literally. A permission policy may be too broad. A human may have approved the workflow months earlier. A monitoring system may fail to notice that conditions changed.
+
+Which component caused the loss?
+
+Possibly all of them.
+
+Insurance already knows this problem. Industrial accidents, medical errors, construction defects, and cyber incidents often emerge from chains of small failures rather than one cartoonishly negligent act. Agentic systems add speed and repeatability. Once a flawed chain is executable, it can run many times before anyone notices.
+
+That makes rate limits and circuit breakers financial controls.
+
+If an agent can make one bad decision per hour, the maximum loss distribution differs from an agent that can make ten thousand in a minute. The probability of error may be identical. The severity is not.
+
+Insurance has always cared about maximum probable loss.
+
+Autonomous systems give that old idea a software expression.
+
+A spending cap, transaction throttle, deployment window, approval threshold, sandbox, rollback mechanism, or reversible queue limits how far one bad inference can travel before the institution regains control.
+
+This is safe autonomy in a form an underwriter can understand.
+
+The phrase matters because autonomy is too often discussed as a binary property: human in the loop or human out of the loop. Real organizations will operate on a gradient. Some actions will be autonomous within bounded authority. Others will escalate. Some will be reversible by design. Others will require human confirmation because the action changes legal rights, moves large sums, affects health, or creates physical risk.
+
+Insurance can help make the gradient explicit.
+
+A premium does not need to reward theatrical human oversight where the human simply clicks approve. It can reward controls that actually reduce loss: separation of duties, independent policy checks, capped authority, test environments, monitoring, provenance, rollback, and meaningful escalation for exceptional actions.
+
+This is important because weak oversight can be worse than no oversight if everyone assumes someone else is paying attention.
+
+The human rubber stamp is not a control.
+
+It is a liability ritual.
+
+A more useful division asks which decisions humans are uniquely positioned to make and which machine checks are more reliable when applied consistently. A deterministic rule that blocks payments above a threshold can be stronger than an exhausted employee scanning hundreds of routine transactions. A human may be better at recognizing that a technically valid transaction makes no sense in context.
+
+Good systems combine different failure modes rather than stacking identical ones.
+
+The accumulation problem follows the same principle.
+
+If thousands of firms use the same model, the same orchestration framework, the same policy engine, and the same agent templates, adding a second insurer does not necessarily diversify the underlying behavior. The market must eventually track technological commonality across insureds just as cyber underwriters track cloud and identity concentration.
+
+This may create an odd new form of exposure reporting.
+
+An insurer could care about model-family concentration the way a property carrier cares about coastal concentration. A reinsurer could ask how much delegated payment authority in its portfolio depends on one vendor or one model release. A common software update could be treated less like an ordinary product revision and more like a weather front moving across many balance sheets at once.
+
+The analogy is imperfect.
+
+The important part is correlation.
+
+A safe model used everywhere can still create a large tail if its rare failure is common to everyone.
+
+This is why version control matters to insurability. If a provider can identify affected deployments, halt a release, preserve old versions where necessary, communicate defects, and support rollback, a common failure can be bounded. If every customer silently receives a behavioral change at once with no ability to reconstruct or reverse it, the same technical quality produces a different insurance risk.
+
+Operational discipline becomes catastrophe mitigation.
+
+None of this implies that insurers already know how to price autonomous-agent liability cleanly. They do not have decades of stable loss history, and the technology, legal duties, and deployment patterns are still changing. Early underwriting will rely on proxies, conservative limits, exclusions, qualitative engineering judgment, and experience borrowed from cyber, software errors and omissions, professional liability, crime, product liability, and other existing lines.
+
+That uncertainty should be stated rather than concealed behind a futuristic product name.
+
+The market will learn by paying claims.
+
+It can learn faster if the failures are observable, the permissions are legible, and the losses are attributed with enough discipline to distinguish a bad model from a bad deployment from a bad tool from a bad business decision.
+
+That is the institutional opportunity.
+
+Insurance does not need to decide whether an agent is intelligent enough to count as an actor.
+
+It needs to decide whether the organization deploying the agent has made action governable enough that a promise can be written behind it.
+
+The frontier of autonomous technology will therefore be shaped by an unexpectedly old requirement.
+
+Someone must be able to say, in advance, how much the mistake can cost.
