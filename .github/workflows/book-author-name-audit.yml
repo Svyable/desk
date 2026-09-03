@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Reject legacy Svyable name in book drafts
+      - name: Reject legacy Svyable name in reader-facing book copy
         shell: bash
         run: |
           python3 - <<'PY'
@@ -29,18 +29,28 @@ jobs:
               if manuscript.is_dir():
                   targets.extend(sorted(manuscript.rglob('*.md')))
 
-          pattern = re.compile(r'\bsvyable\b', re.IGNORECASE)
+          legacy = re.compile(r'\bsvyable\b', re.IGNORECASE)
+          raw_url = re.compile(r'https?://[^\s)>\]}]+', re.IGNORECASE)
+          repo_code = re.compile(r'`Svyable/[A-Za-z0-9._/-]+`', re.IGNORECASE)
           matches = []
+
           for path in targets:
+              if legacy.search(path.name):
+                  matches.append((path, 0, '<legacy name in filename>'))
               text = path.read_text(encoding='utf-8')
               for line_number, line in enumerate(text.splitlines(), start=1):
-                  if pattern.search(line):
+                  # Keep technical repository coordinates and URLs intact while
+                  # rejecting the legacy name in visible book copy.
+                  visible = raw_url.sub('', line)
+                  visible = repo_code.sub('', visible)
+                  if legacy.search(visible):
                       matches.append((path, line_number, line.strip()))
 
           if matches:
               print('Legacy public-facing name found in book-draft surfaces:')
               for path, line_number, line in matches:
-                  print(f'{path}:{line_number}: {line}')
+                  where = f'{path}:{line_number}' if line_number else str(path)
+                  print(f'{where}: {line}')
               sys.exit(1)
 
           print(f'Book author-name audit passed across {len(targets)} reader-facing draft files.')
