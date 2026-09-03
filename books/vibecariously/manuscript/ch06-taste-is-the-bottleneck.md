@@ -113,3 +113,65 @@ In those places, the ability to see beyond competent output will matter more.
 A tool can raise the floor and still raise the value of the ceiling.
 
 The difficulty is getting enough people to notice the distance between them.
+
+## Taste needs a training set too
+
+If taste is judgment, judgment needs examples.
+
+People develop taste by encountering work, comparing it, living with consequences, learning histories, arguing, copying, failing, and revising their opinions. The person who seems to “just know” that one chair, sentence, cut, color, or chord is better usually carries an internal archive too large to narrate in the moment.
+
+That archive can become narrow.
+
+A designer raised entirely on contemporary interface galleries develops a different eye from one who also studies signage, industrial controls, books, vernacular architecture, toys, public transit, and old operating systems. A writer who reads only current bestsellers learns a different range of sentence possibilities than one who reads letters, manuals, diaries, translations, court opinions, advertising, and poetry.
+
+Generative AI can widen the archive by making unfamiliar material easier to find and understand.
+
+It can also narrow it by becoming the archive.
+
+If every question about style is answered through the same model, the model's summaries and examples become a filter between the creator and culture. Even when the answers are accurate, the route becomes standardized.
+
+Strong taste therefore still benefits from direct encounter.
+
+Read the book, not only the explanation of its style.
+
+Visit the building when possible.
+
+Listen to the whole album.
+
+Handle the object.
+
+Watch the film without reducing it to screenshots.
+
+Look at mediocre work from the same period, not only masterpieces, so excellence has a background against which to appear.
+
+Taste grows partly by learning what survives duration.
+
+Generative output arrives too quickly to have survived anything yet.
+
+## The taste audit
+
+When choices multiply, teams need ways to distinguish preference from principle.
+
+One useful practice is a taste audit after selection.
+
+Choose the version first. Then ask why.
+
+Which qualities actually drove the decision? Which were merely easy to verbalize? Would the same rule produce a good choice in another context? Are we rewarding familiarity? Are we responding to polish? Does the choice survive in black and white, without the expensive rendering, without the model's persuasive copy around it? What would a person with different status incentives choose?
+
+Then test the chosen rationale against an alternative.
+
+If the team says the selected design feels “more trustworthy,” strip away the cues associated with institutional seriousness and see whether the underlying information architecture still earns trust. If a paragraph feels “clearer,” ask whether it became clearer by deleting an important uncertainty. If a concept feels “more original,” compare it against actual precedents rather than the team's memory of them.
+
+This practice turns taste from an oracle into a discipline.
+
+It does not eliminate subjectivity. Creative judgment cannot be reduced to a checklist without destroying what makes judgment useful. The goal is to make the pressure behind a choice visible enough that people can learn from it.
+
+Generative systems can assist here too. They can compare versions against stated criteria, identify recurring preferences across a project, or produce adversarial readings of the favored option.
+
+But the final act remains human in a very ordinary sense.
+
+Somebody has to care which consequence matters.
+
+Taste is not only recognizing quality.
+
+It is deciding what kind of quality this work is for.
