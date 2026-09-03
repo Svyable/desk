@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 15 author projects · 13 released · 2 public drafts/proofs**
-> **Where they live: 15 in both Desk + Shelf · 45 Desk-only · 0 Shelf-only**
-> **Release review queue: 15 complete Desk manuscripts are not finally released — all 15 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 16 author projects · 14 released · 2 public drafts/proofs**
+> **Where they live: 16 in both Desk + Shelf · 44 Desk-only · 0 Shelf-only**
+> **Release review queue: 14 complete Desk manuscripts are not finally released — all 14 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -23,6 +23,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
+| [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-intelligence-dilemma/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/leveraging-luck/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/open-source/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
@@ -35,7 +36,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Adjacency](books/adjacency/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Adjacency](books/adjacency/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -91,7 +92,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,205 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 2 (Prologue + Chapter 1) | 6,842 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
 | [**The Intelligence Bubble**](books/the-intelligence-bubble/) | ✍️ Drafting | 18 of 18 | 56,186 | AI can be economically transformative while many of the investors financing its first great buildout earn disappointing returns. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/) |
-| [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,268 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
+| [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,268 | The Intelligence Dilemma asks what schools should preserve when capable AI can help students learn—or help them avoid learning while preserving the appearance that learning occurred. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | 66,001 | The working thesis is that the unpaid social infrastructure of the twentieth century — a stable workplace with the same coworkers for years, a weekly religious congregation, a union hall… | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | 7 of 7 | 4,571 | A screenshot arrives with a rumor: the next model may work for days or weeks, remember corrections, collaborate with agents and people, move through software at superhuman speed, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-long-running-mind/) |
 | [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 6 of 18 | 17,276 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
