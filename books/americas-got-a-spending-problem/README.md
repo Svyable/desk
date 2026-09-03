@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @Svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 16 of 18 drafted |
+| **Chapters**  | 18 of 18 drafted |
 
 ## Contents
 
@@ -25,5 +25,5 @@
 - [x] [Ch 14 — Why Taxing the Rich Isn't Enough](manuscript/ch14-why-taxing-the-rich-isnt-enough.md)
 - [x] [Ch 15 — Growth Is Necessary, Not Magical](manuscript/ch15-growth-is-necessary-not-magical.md)
 - [x] [Ch 16 — The Politics of Visible Pain](manuscript/ch16-the-politics-of-visible-pain.md)
-- [ ] Ch 17 — A Budget That Can Say No
-- [ ] Ch 18 — The Honest Price
+- [x] [Ch 17 — A Budget That Can Say No](manuscript/ch17-a-budget-that-can-say-no.md)
+- [x] [Ch 18 — The Honest Price](manuscript/ch18-the-honest-price.md)
