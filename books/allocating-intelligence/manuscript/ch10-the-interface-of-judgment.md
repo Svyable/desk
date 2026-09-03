@@ -2,170 +2,208 @@
 
 On March 28, 1979, operators in the control room at Three Mile Island faced a problem partly made of hardware and partly made of information.
 
-A valve in the plant’s cooling system had opened and failed to close properly. The operators did not have a direct indication that the valve itself remained open; an indicator reflected the command state rather than the physical position. Other signals accumulated. Alarms sounded. The situation was difficult to understand, and operator actions contributed to the progression of the accident. Later reviews transformed nuclear control-room design and human-factors practice.
+A valve in the plant’s cooling system had opened and failed to close properly. The operators did not have a direct indication that the valve itself remained open; an indicator reflected the command state rather than the physical position. Other signals accumulated. Alarms sounded. The situation was difficult to understand, and operator actions contributed to the progression of the accident. Later reviews changed nuclear control-room design, training, alarm practice, and human-factors engineering.
 
-The history is complicated and should resist neat morality. The useful lesson here is modest: intelligence cannot act on a system it cannot see correctly.
+The history is complicated and should resist neat morality. The narrower lesson is enough for this chapter.
 
-Interfaces determine what part of reality becomes available for judgment.
+Intelligence cannot act on a system it cannot see correctly.
 
-The statement applies equally to a cockpit, a spreadsheet, an electronic health record, a model dashboard, a car instrument panel, a voting ballot, or a chat window. The interface is not decoration around intelligence. It is the boundary that shapes which facts are salient, which actions are easy, which uncertainties are hidden, and which errors are recoverable.
+An interface decides what part of reality becomes available for judgment.
 
-Artificial intelligence is often imagined as escaping interface constraints because natural language feels universal. Ask anything, receive an answer. This is one of the great strengths of language models. It is also a trap.
+That is true of a cockpit, a reactor control room, a bank account, a medical record, a software console, or an AI agent. The interface is not decoration around the real intelligence. It shapes which facts are salient, which actions are easy, which uncertainties remain hidden, and which mistakes can still be recovered.
+
+Artificial intelligence is often imagined as escaping interface constraints because natural language feels universal. Ask anything. Tell the system what you want. Receive an explanation. This is one of the great strengths of language models.
+
+It is also a trap.
 
 Conversation hides state.
 
-A chat can make a complex system feel like a person because the interaction is sequential and grammatical. But an agent may have opened files, called tools, changed settings, queued messages, and formed plans across many external systems. If all of that appears only as prose, the user has to reconstruct operational state from narrative.
+An agent may open files, call tools, change settings, queue messages, create commitments, wait for another service, and form plans across several systems. If all of that appears only as prose, the user has to reconstruct operational reality from narrative.
 
-People are bad at this, especially under pressure.
+A person can be told, “I handled it,” while the world contains three completed steps, one failed step, two pending actions, and a permission request nobody noticed.
 
-Good interfaces externalize state. A pilot sees mode annunciations. A version-control system shows changed files. A bank shows pending transactions. A map shows route and location. A surgical count tracks instruments. These representations reduce the amount of memory the user must hold internally.
+Language makes partial work sound whole.
 
-AI agents need equivalent artifacts.
+Good operational interfaces refuse that compression.
 
-Imagine an agent helping prepare a product launch. The user should be able to see a structured list: three draft emails, one scheduled meeting, two files modified, one data export awaiting approval, no external messages sent. That view is cognitively different from a paragraph saying, “I’ve taken care of most things and will confirm before sending anything important.”
+They show what was requested, what was attempted, what was acknowledged, what completed, what was verified, and what remains reversible. The exact vocabulary will differ by domain, but the distinction matters everywhere consequential actions cross systems.
 
-The paragraph sounds reassuring. The state view is controllable.
+A payment is not one event. The user authorizes it. The instruction is submitted. A processor accepts it. Settlement occurs. The recipient can use the funds. Calling the transaction “paid” before the chain reaches the relevant state is not merely imprecise. It moves human attention away from a process that may still fail.
 
-The difference will matter more as agents act continuously. Natural language is excellent for goals, ambiguity, explanation, and negotiation. It is often poor for precise state, comparison, and monitoring. Mature systems will combine conversational interfaces with explicit control surfaces.
+Software behaves the same way. An agent proposes a patch. Tests pass in one environment. Review approves. Deployment begins. Health checks pass. Users receive the new version. Monitoring shows whether the intended effect occurred.
 
-This is already visible in aviation human factors. The FAA’s work on flight-deck design emphasizes predictable automation, awareness of automation status and behavior, workload, controls, displays, and alerting. The goal is not to make aircraft computers conversational. It is to help crews maintain the right mental model of what the system is doing.
+The interface should earn its verbs from observable state.
 
-Mental models are the bridge between interface and judgment.
+That principle reaches directly back to Three Mile Island. Command state and world state are not the same thing. A system can say that it told something to happen without knowing whether the physical or institutional world complied.
 
-When users misunderstand an automated system’s mode, they can issue a correct command to the wrong system state. The automation then behaves “unexpectedly” even though it followed its rules. Human-factors researchers have studied mode confusion for decades because more capable automation can create more complicated supervisory tasks.
+AI makes this distinction more important because fluent systems naturally narrate intention as accomplishment.
 
-AI agents create modes too, even when designers do not name them. Is the agent brainstorming, drafting, editing, executing, monitoring, or waiting for approval? Is it using private data? Is it speaking on behalf of the user or merely suggesting words? Is a tool call simulated or real? Does “delete” mean move to trash or permanently erase?
+A control surface should make the difference visible without requiring the user to interrogate the agent like a suspicious witness.
 
-If modes are implicit, users will infer them from conversational tone. Tone is a terrible permission system.
+Imagine an agent helping prepare a product launch. A useful surface might show three draft emails, one meeting scheduled, two files modified, one customer-data export awaiting approval, no external messages sent, and one failed analytics query that will be retried.
 
-The interface should distinguish suggestion from commitment visually and operationally. A draft looks like a draft. A queued action looks queued. A completed external action looks completed. Irreversible actions require a different gesture from reversible ones. Permission boundaries should be visible before they matter.
+That view is cognitively different from a paragraph saying, “Most launch tasks are complete and I’ll confirm before sending anything important.”
 
-This sounds obvious because mature fields learned it through accidents.
+The paragraph sounds competent.
 
-In consumer software, however, friction has often been treated as a defect. One-click purchasing, infinite scroll, automatic renewal, background syncing, and silent updates reduce interruptions. Many are useful. But when an AI system can convert language into broad action, friction becomes a safety material.
+The state view is controllable.
 
-The right click in the right place can protect judgment.
+Natural language remains valuable. It is excellent for goals, ambiguity, explanation, negotiation, and exceptions. It is often poor for precise state, comparison, and monitoring. Mature AI systems will combine conversation with explicit operational representations rather than asking prose to carry both jobs.
 
-Confirmation dialogs are notorious because overuse turns them into ritual. Users learn to click through. The solution is not to remove all confirmation but to allocate it according to consequence. A low-risk action should not demand ceremony. A high-consequence action should be presented in a way that encourages actual review: what will happen, who will be affected, what data leave the system, what cannot be undone.
+Aviation has spent decades learning the same lesson in another form. Flight-deck human-factors work treats automation behavior, mode awareness, workload, controls, displays, and alerts as one system. More automation can make supervision harder when the crew cannot form an accurate mental model of what the machine is doing.
 
-The quality of a confirmation depends on information architecture, not the number of buttons.
+AI agents create modes even when designers do not name them.
 
-AI can help generate better confirmations because it understands context. Instead of “Are you sure?”, an agent can say, in structured form, that a message will go to 8,432 customers, includes a price change, and cannot be recalled after delivery. The user’s decision becomes informed by consequence rather than by generic caution.
+Is the system brainstorming, drafting, editing, executing, monitoring, or waiting for approval? Is it reading private data? Is it speaking on behalf of the user or merely proposing language? Is a tool call simulated or real? Does “delete” mean move to trash or destroy permanently?
 
-The interface can also expose uncertainty.
+If the interface does not answer these questions, users infer the answers from tone.
 
-Models produce answers that are often fluent across a wide confidence range. Fluency is an interface property that users can mistake for epistemic confidence. We need representations that separate readability from evidence.
+Tone is a terrible permission system.
 
-One method is provenance: show which claims are grounded in retrieved sources and which are model synthesis. Another is disagreement: indicate when independent methods diverge. Another is calibrated confidence tied to known evaluation rather than invented percentages. Another is to show missing information explicitly.
+A draft should look like a draft. A queued action should look queued. An external commitment should look different from an internal note. An irreversible action should not be hidden behind the same conversational rhythm as a harmless suggestion.
 
-A useful interface can make uncertainty actionable without making every sentence look like a legal disclaimer.
+This is where friction becomes useful.
 
-This is difficult because too much caveat consumes attention. A model that says “I may be wrong” constantly teaches users to ignore the phrase. Good uncertainty design is selective. It appears where the uncertainty changes what the user should do next.
+Consumer software spent years removing friction: one-click purchasing, automatic renewal, background synchronization, silent updates. Much of that simplification is genuinely valuable. But when a natural-language request can become a broad external action, the right pause in the right place can protect judgment.
 
-For a restaurant suggestion, little ceremony is needed. For a medical recommendation, the source, evidence quality, and need for professional interpretation matter. Same underlying language model, different interface contract.
+The point is not more confirmation dialogs.
 
-The interface should reflect the decision, not merely the model.
+Overused confirmation becomes ritual. People click through. The interface must allocate friction according to consequence.
 
-Another design problem is anchoring. If the AI recommendation appears first, humans may adjust around it rather than reason independently. In domains where independent judgment matters, the interface can ask the human to record an initial view before revealing the model’s. This creates useful disagreement data and reduces automatic deference.
+A low-risk reversible action can proceed quietly. A high-consequence commitment should expose what will happen, who will be affected, which data will leave the system, and what cannot easily be undone.
 
-In other domains, hiding the model until later would waste time. Again, allocation depends on consequence and comparative advantage.
+“Are you sure?” is weak information.
 
-Interfaces also distribute status. A suggestion placed at the top of the screen gains authority. A warning in gray text at the bottom loses it. A default choice becomes more common. A ranked list becomes a reality people act upon.
+“This message will go to 8,432 customers, includes a price change, and cannot be recalled after delivery” creates something a person can actually judge.
 
-These effects are familiar in consumer design and become more consequential when AI generates the ranking.
+The same principle should govern uncertainty.
 
-Suppose a hiring interface shows five “best matches” above hundreds of other candidates. The model may not reject anyone formally, but attention is allocated. Suppose a doctor’s screen surfaces one diagnosis prominently. Suppose a judge’s case-management system highlights a risk score. The interface can turn advisory information into practical authority without any policy document saying it did.
+Language models can sound fluent across a wide range of evidential quality. Fluency is an interface property, not proof. A useful surface distinguishes where claims came from, where methods disagree, which information is missing, and where uncertainty should change the next action.
 
-Governance must therefore inspect presentation as well as algorithms.
+The challenge is restraint.
 
-Which output is visible first? Which can be expanded? What is the default action? Can the user see alternatives? Can affected people know that ranking occurred? Can the user override without penalty? Does the interface record overrides as useful signals or treat them as error?
+If every sentence is surrounded by warnings, warnings become wallpaper. Good uncertainty design appears where uncertainty changes consequence.
 
-The interface is where institutional values become muscle memory.
+A restaurant suggestion needs little ceremony. A medical recommendation may need direct access to source evidence, clear indication of missing information, and a route to professional review. The underlying model can be the same. The interface contract should follow the decision, not the model’s prestige.
 
-There is a subtler issue: AI interfaces can conceal labor. A smooth response may depend on human annotators, reviewers, moderators, contractors, data producers, and service workers. The user experiences “the model” as one intelligence. The supply chain of cognition disappears.
+This is also why presentation creates authority.
 
-This matters because allocation decisions can shift difficult work into invisible places. An agent saves a professional ten minutes by creating a task that a lower-paid worker must resolve later. A content system automates routine moderation but routes the most disturbing cases to humans. A delivery algorithm optimizes customer convenience by intensifying driver schedules.
+The first item on a screen receives attention. A default choice becomes common. A gray warning at the bottom becomes ignorable. A ranked list can decide who is seen even when it formally decides nothing else.
 
-Interface simplicity can externalize complexity.
+An AI system can therefore acquire practical power through layout before anyone grants it formal authority.
 
-A responsible system measures downstream burden. The question is not only whether the user’s interaction became easier but where the displaced work went.
+Suppose a hiring tool places five candidates above hundreds of others. The system may not reject anyone directly, but attention has been allocated. Suppose a clinician sees one diagnosis prominently and alternatives behind another click. Suppose an operator sees a confident recommendation while the conflicting sensor evidence is collapsed.
 
-This is especially important in organizations that introduce AI as “augmentation.” The employee at the front may gain a powerful interface while people elsewhere absorb verification, exception handling, security review, data cleaning, or customer escalation. Local productivity can hide global cost.
+The interface has already shaped judgment.
 
-Interfaces should make queues visible across the system.
+Governance has to inspect presentation as well as the underlying model.
 
-If an employee generates twenty requests that require legal review, the interface could show expected review load. If an agent escalates too many cases, the user can see the bottleneck. If a model’s recommendation requires a specialist whose queue is three days long, the system should not present the answer as immediate.
+What appears first? What is hidden? Which action is the default? Can the user see consequential alternatives? Can an affected person know that ranking occurred? Is overriding the recommendation easy enough to be real?
 
-Visibility creates better allocation incentives.
+A system that permits override in policy but makes override confusing, slow, or reputationally costly does not have meaningful override.
 
-The control room is a useful metaphor because operators need a representation of the whole system’s state, not merely a convenient command box. As AI spreads, every organization will need some version of a cognitive control room: where are agents acting, what authority do they have, where are queues growing, what failures are recurring, what human attention is overloaded, which models changed, where confidence is weak?
+This is one reason the interface is where institutional values become muscle memory.
 
-This need not be a literal wall of dashboards. In fact, dashboard proliferation can create the same overload it claims to solve. The point is that operational intelligence needs a shared state representation.
+The surface also decides whether users can see downstream cost.
 
-The Three Mile Island aftermath helped push human factors deeper into nuclear design because it was not enough for information to exist somewhere in the control room. Operators needed rapid, concise displays of critical plant conditions. Later nuclear standards and reviews placed greater emphasis on safety parameter display systems, alarm management, and human-machine interfaces.
+AI often makes one person’s work easier by creating work elsewhere. A professional generates twenty requests that require legal review. A content system automates routine moderation and sends the worst cases to humans. A manager receives polished summaries while frontline staff absorb exception handling. A coding agent increases change volume faster than security review or deployment can absorb it.
 
-Availability is not visibility.
+Local simplicity can conceal organizational queues.
 
-AI systems will hold enormous amounts of context. The interface challenge is to show the few facts that change the decision while preserving routes into the evidence. That is a compression problem, an attention problem, and a governance problem at once.
+The interface should not pretend an action is cheap merely because generation was cheap.
 
-The strongest model cannot compensate for a weak representation of state. If the user cannot tell what happened, cannot see what will happen next, or cannot distinguish advice from action, the combined system is less intelligent than either component appears alone.
+If a proposed contract requires three days of specialist review, that delay belongs in the user’s picture of the action. If an agent is escalating too many cases, the growing human queue should become visible. If a system saves one team time by consuming another team’s scarce attention, the benefit should not be displayed as though the downstream cost vanished.
 
-Judgment happens at a surface.
+Visibility changes incentives.
 
-Design the surface as carefully as the mind behind it.
+This is why the control-room metaphor remains useful. Operators need a representation of the whole system’s relevant state, not only a command box.
 
-The surface has another job: it must reveal the difference between what the system was told to do and what the world is actually doing.
+An organization using many agents will eventually need some shared way to see where agents are acting, which permissions they hold, where queues are growing, which failures recur, which human groups are overloaded, what model or configuration changed recently, and where the system no longer fits its tested assumptions.
 
-That distinction sits at the heart of the Three Mile Island example. A control signal could indicate that a command had been issued without proving that the physical component reached the commanded state. In ordinary software, we make this mistake constantly. A button says “sent,” but the downstream service failed. A job says “completed,” but only the first stage completed. A database records “approved,” but the bank rejected settlement. A model says it updated the file, but the write did not persist.
+That does not mean a wall of dashboards.
 
-AI makes the temptation worse because language naturally reports intention as accomplishment. An agent can say, “I’ve handled that,” when the operational reality contains five partially completed steps and one unresolved failure. The interface should refuse this grammatical compression.
+Dashboard proliferation can become another form of blindness. The point is not to display everything. It is to maintain a shared operational state from which different roles can see what they need without inhabiting different realities.
 
-Command state and world state belong in different places.
+A developer may need traces. An auditor may need provenance and timestamps. A customer may need a plain account of what happened to them. An executive may need aggregate exposure. A senior operator may need the incident tree.
 
-For any consequential workflow, the system should distinguish requested, attempted, acknowledged, completed, verified, and reversed. These states may sound bureaucratic until something breaks. Then they become the difference between investigating a known boundary and searching an entire chain.
+Language models can translate one structured state into explanations for each audience.
 
-A payment workflow is an obvious example. The user authorizes a transfer. The agent submits it. The processor accepts the instruction. The receiving institution settles it. The recipient can actually use the funds. Each is a different state. “Paid” may be accurate only at the end. A conversational interface that collapses the chain into one word creates confidence faster than reality moves.
+The structure has to come first.
 
-The same applies to code. The agent proposes a patch. Tests pass in one environment. Review approves. Deployment begins. Health checks pass. Users receive the new version. Monitoring shows the intended effect. Calling the work “done” after step two is not merely imprecise; it changes where human attention goes next.
+If every role receives a separately generated narrative with no common state underneath, the organization can fragment into incompatible stories.
 
-This suggests a rule for agent interfaces: verbs should be earned by observable state.
+This brings us to change.
 
-The second addition is history. A control surface should make recent change visible because many failures are understandable only as transitions. What just changed? Which model version was introduced? Which permission expanded? Which upstream source disappeared? Which alert threshold moved? A snapshot can look normal while the transition into it contains the cause of trouble.
+A snapshot often looks normal while the transition into the snapshot contains the failure.
 
-Operators in mature systems often ask about deltas before totals. A network is not merely at 70 percent utilization; it jumped from 40 percent in six minutes. A queue is not merely 900 items; it is growing by 200 items per minute. A model is not merely producing a 2 percent error rate; the rate doubled after an update.
+Operators ask not only what the value is, but what moved.
 
-AI dashboards should privilege change when change carries information.
+A network is not merely at seventy percent utilization; it jumped from forty percent in six minutes. A queue is not merely nine hundred items; it is growing by two hundred a minute. A model is not merely producing an error rate; the rate doubled after an update. A permission is not merely broad; it expanded yesterday.
 
-The third addition is counterfactual visibility. Users should be able to see not only what the system recommends but what alternatives it considered consequentially different. This does not require displaying private chain-of-thought. It requires showing decision-relevant options: route A is faster but exposes customer data to a third party; route B is slower but remains internal. Approve now and the purchase is binding; wait and the price may change. Use this model and latency falls; use the other and verification evidence is stronger.
+Recent change deserves visual weight when change carries information.
 
-Without alternatives, a recommendation arrives as destiny.
+AI systems are especially prone to hiding deltas because interfaces summarize the present beautifully. A user can ask, “What is the current status?” and receive a polished answer that says nothing about what changed immediately before the problem appeared.
 
-With alternatives, the user can see where judgment still lives.
+Good operational surfaces make transition inspectable.
 
-The fourth addition is audience. The same state should not look identical to every role. A senior operator may need the whole incident tree. A customer needs a plain account of what happened to them. An auditor needs provenance and timestamps. An executive needs aggregate exposure. A developer needs traces. Designing one universal screen often produces a compromise that serves nobody.
+Which model version changed? Which data source disappeared? Which threshold moved? Which credential expanded? Which upstream service started returning a different shape? Which policy was edited?
 
-Role-specific views are not permission theater if they are derived from a shared underlying state. The important thing is that the representations remain consistent. Different people can see different levels of detail without inhabiting different realities.
+The ability to see the delta turns debugging from archaeology into diagnosis.
 
-This is one place where language models can help. They can translate the same structured state into explanations suited to different users. But the structure has to come first. If every role receives a separately generated narrative with no common state underneath, the organization can fragment into incompatible stories.
+Alternatives matter for a related reason.
 
-The fifth addition is interruption.
+A recommendation can arrive as destiny when the interface shows only one path. Judgment becomes more meaningful when the user can see the consequentially different options without being forced to reconstruct them from private reasoning.
 
-The most important interface element may be the one that appears only when the normal flow should stop. Toyota’s andon idea belongs here as much as it belongs in factory design. A system needs a visible, legitimate way to declare that ordinary automation is no longer trustworthy. The interruption should be easy enough to use before catastrophe and expensive enough in attention that it is not triggered casually.
+This does not require exposing chain-of-thought.
 
-An AI system might raise such an interruption when independent tools disagree, when observed outcomes diverge sharply from expectation, when a permission boundary is crossed, when input distribution shifts beyond the tested range, or when an affected person invokes an appeal. The interface then changes mode. Throughput becomes secondary. Evidence, containment, and recovery become primary.
+It requires exposing choices that matter.
 
-That mode change should be obvious. If the system continues to look cheerful and routine while entering an incident state, the interface lies through tone.
+Route A is faster but sends customer data to a third party. Route B is slower and stays internal. Approve now and the purchase becomes binding. Wait and the price may change. Use the faster model and latency falls. Use the slower verifier and confidence in one property rises.
 
-The sixth addition is aftermath. Interfaces should help users learn after action, not merely act before it. A week after a high-consequence decision, the system can surface what happened, where the forecast was wrong, which override mattered, and which assumption should change. This closes the loop between the interface chapter and the memory chapter before it.
+The user does not need every branch the system considered.
+
+The user needs the branches that change consequence.
+
+The most important interface state may be the one that appears when ordinary operation should stop.
+
+A system needs a visible, legitimate way to declare that normal automation is no longer trustworthy.
+
+Toyota’s andon idea belongs here as much as it belongs in manufacturing. When an abnormality becomes serious enough, the operating mode changes. Throughput becomes secondary. Evidence, containment, and recovery become primary.
+
+An AI system might enter such a mode when independent tools disagree sharply, when outcomes diverge from expectation, when a permission boundary is crossed, when input distribution shifts beyond the tested range, or when an affected person presents evidence the automated path cannot absorb.
+
+The interface should make the mode change obvious.
+
+If the system remains cheerful and routine-looking while entering an incident state, tone has become a lie.
+
+An incident mode can narrow authority, slow rate, elevate provenance, show recent changes, expose pending actions, and make stop or rollback controls easier to reach. The user should not have to search through the ordinary interface for the emergency brake.
+
+Then, after the event, the surface should help the institution learn.
+
+A week later, what happened? Which forecast was wrong? Which override mattered? Which alert was ignored because it fired too often? Which queue grew unseen? Which assumption should change?
+
+This closes the loop between interface and memory.
 
 Without aftermath, interfaces are transaction surfaces. With it, they become learning surfaces.
 
-This matters because many allocation mistakes are not dramatic enough to generate a formal incident. A queue repeatedly favors easy cases. A model recommendation is overridden by experienced workers for the same hidden reason. A particular confirmation is clicked through without reading. A warning arrives too late. Individually, none triggers a postmortem. Collectively, they reveal a design flaw.
+Many allocation failures are too small to trigger a formal incident by themselves. A queue repeatedly favors easy cases. Experienced workers override the same recommendation for the same hidden reason. A confirmation is clicked through unread. A warning arrives moments too late. A particular model version creates more manual cleanup.
 
-The interface is where those small frictions can become measurable evidence.
+Individually, none looks dramatic.
 
-Seen this way, interface design is not a secondary discipline waiting for the “real AI” to finish. It is part of the intelligence architecture itself. The model contributes inference. The tools contribute action. The organization contributes authority. The interface determines whether humans can perceive the combined state well enough to govern it.
+Collectively, they are evidence about the design.
 
-A bad interface can waste a brilliant model. A good interface can make a modest model useful by placing its output in the right context, at the right time, with the right limits.
+The interface is where that friction can become visible enough to measure.
 
-The surface is where intelligence becomes legible enough to share.
+Three Mile Island remains useful because it strips away the comforting idea that information merely needs to exist somewhere. The control room contained enormous amounts of information. What mattered was whether operators could see the state that changed the decision, distinguish command from reality, understand what the automation was doing, and act before the relevant clock expired.
+
+AI systems face the same problem in a different form.
+
+The model contributes inference. Tools contribute action. The organization contributes authority. The interface determines whether a person can perceive the combined state well enough to govern it.
+
+A brilliant model behind a weak surface can create a stupid combined system.
+
+A modest model behind a disciplined surface can become useful because its uncertainty, actions, limits, and consequences remain legible.
+
+Judgment happens at a surface.
+
+The surface deserves to be designed as carefully as the mind behind it.
