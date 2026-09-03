@@ -1,0 +1,10 @@
+{
+  "id": "agentpoison-neurips-2024",
+  "title": "AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases",
+  "publisher": "NeurIPS 2024",
+  "date": "2024",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/eb113910e9c3f6242541c1652e30dfd6-Abstract-Conference.html",
+  "source_type": "peer-reviewed conference paper",
+  "claims_used": "The paper demonstrates a backdoor-style attack against generic and retrieval-augmented agents by poisoning long-term memory or knowledge bases so that later retrieval changes agent behavior. The manuscript uses it to establish persistent memory as a security boundary distinct from one-session prompt injection.",
+  "caveat": "Benchmark and attack results come from experimental agent setups and should not be interpreted as an estimate of real-world incident frequency."
+}

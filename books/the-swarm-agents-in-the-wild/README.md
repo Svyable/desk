@@ -56,6 +56,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 - [x] [Ch 18 — Reproduction Without Birth](manuscript/ch18-reproduction-without-birth.md)
 - [x] [Ch 19 — Migration](manuscript/ch19-migration.md)
 - [x] [Ch 20 — Machine Culture](manuscript/ch20-machine-culture.md)
+- [x] [Interlude — The Memory That Outlives the Session](manuscript/interlude-the-memory-that-outlives-the-session.md)
 - [x] [Ch 21 — The Agent City](manuscript/ch21-the-agent-city.md)
 - [x] [Ch 22 — The Human Niche](manuscript/ch22-the-human-niche.md)
 - [x] [Ch 23 — The First Treaty](manuscript/ch23-the-first-treaty.md)
@@ -87,4 +88,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the upper-50,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Eight reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, protocol, security/identity, machine-commerce, provenance, and institutional-contact arguments in production engineering, open specifications, government security work, independent agent evaluations, peer-reviewed field studies, regulatory and enterprise disclosures, payment-network documentation, software-supply-chain infrastructure, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the low-60,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Nine reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, protocol, security/identity, machine-commerce, provenance, institutional-contact, and persistent-memory arguments in production engineering, open specifications, government and vendor security guidance, independent agent evaluations, peer-reviewed field studies and security research, regulatory and enterprise disclosures, payment-network documentation, software-supply-chain infrastructure, and documented automated-market failures. Substantial whole-book synthesis and chapter-level verification still remain. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.

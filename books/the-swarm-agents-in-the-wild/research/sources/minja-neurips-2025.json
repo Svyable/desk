@@ -1,0 +1,10 @@
+{
+  "id": "minja-neurips-2025",
+  "title": "Memory Injection Attacks on LLM Agents via Query-Only Interaction",
+  "publisher": "NeurIPS 2025",
+  "date": "2025",
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2025/hash/42a97bbd9844d2bf68596730af80bcdf-Abstract-Conference.html",
+  "source_type": "peer-reviewed conference paper",
+  "claims_used": "MINJA shows that an attacker need not directly edit an agent's memory store: malicious records can be induced through ordinary query interactions and later retrieved during another user's task. The manuscript uses this to distinguish memory poisoning from simple database tampering and to motivate write-path controls.",
+  "caveat": "The attack is evaluated experimentally across selected agent systems and does not imply that every production memory implementation is equally vulnerable."
+}
