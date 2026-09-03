@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 4 of 24 drafted |
+| **Chapters**  | 8 of 24 drafted |
 
 *When Intelligence Becomes Cheap, What Becomes Priceless?*
 
@@ -19,13 +19,13 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [x] [Ch 2 — The Abundance Machine](manuscript/ch02-the-abundance-machine.md)
 - [x] [Ch 3 — The Value Moves](manuscript/ch03-the-value-moves.md)
 - [x] [Ch 4 — The Taste Economy](manuscript/ch04-the-taste-economy.md)
+- [x] [Ch 5 — The Cost of Choosing](manuscript/ch05-the-cost-of-choosing.md)
+- [x] [Ch 6 — The Trust Premium](manuscript/ch06-the-trust-premium.md)
+- [x] [Ch 7 — Proof of Effort](manuscript/ch07-proof-of-effort.md)
+- [x] [Ch 8 — Infinite Versions](manuscript/ch08-infinite-versions.md)
 
 ## Planned chapters
 
-5. The Cost of Choosing
-6. The Trust Premium
-7. Proof of Effort
-8. Infinite Versions
 9. The End of Average
 10. Commodity Expertise
 11. Responsibility Does Not Scale
