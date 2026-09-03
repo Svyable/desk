@@ -177,3 +177,53 @@ The scarce resources are shifting toward attention, judgment, commitment, trust,
 The picture is no longer the expensive part.
 
 The promise is.
+
+## The proposal premium collapses
+
+For a long time, polish functioned as a crude proxy for seriousness.
+
+A detailed rendering suggested that somebody had paid an architect or visualization studio. A sophisticated campaign board suggested an agency had spent time on the account. A working-looking prototype suggested engineering effort. A beautiful pitch deck implied preparation even when investors knew perfectly well that decks could overpromise.
+
+The proxy was always imperfect.
+
+Generative AI weakens it further because professional-looking proposal artifacts can be produced before professional-grade work has occurred behind them.
+
+This changes signaling.
+
+A founder can no longer expect a beautiful concept video to prove the team is close to shipping. An organization cannot assume that a stack of polished alternatives represents weeks of considered design. A student cannot demonstrate mastery merely by submitting a finished-looking artifact. A consultant cannot rely on production value alone to establish depth.
+
+The proposal premium collapses.
+
+That may be healthy. Institutions have long over-rewarded people who can package uncertainty attractively. Cheap polish can force evaluation closer to substance.
+
+But the transition will be messy because humans are not immune to finish. A beautiful object still changes judgment even when everyone understands that beauty was cheap to produce.
+
+So new signals will become valuable.
+
+Working prototypes. Traceable evidence. Real users. Detailed constraints. Revision histories. Field observations. Financial commitments. Manufacturing knowledge. Longitudinal results. A coherent body of decisions that survives questioning.
+
+The market will learn to ask what happened behind the picture.
+
+## Cheap possibility can create expensive indecision
+
+Falling costs do not always create simple efficiency.
+
+When options become cheap, organizations can delay commitment because another option is always available.
+
+A team that once paid for three visual directions may now inspect thirty. A homeowner can keep regenerating kitchens. A publisher can test more covers. A product group can revisit the interface after every meeting. A founder can maintain several brand identities far longer than would have been affordable before.
+
+The ability to change becomes a reason not to close.
+
+This creates hidden costs. Every branch requires attention. Every stakeholder acquires another favorite. Decisions are reopened because generating the alternative is easier than defending the current choice. Teams spend less money making options and more time discussing them.
+
+The imagination economy therefore needs commitment mechanisms.
+
+A deadline after which visual direction freezes. A fixed number of concept rounds. A rule that new alternatives require new evidence, not mere preference. A prototype gate before further rendering. Explicit criteria defined before the option flood arrives.
+
+These constraints sound administrative because they are.
+
+Creativity at abundance scale needs administration of possibility.
+
+That is a strange destination for a technology marketed through magic.
+
+The more easily we can imagine everything, the more deliberately we have to decide when imagining stops being the work.
