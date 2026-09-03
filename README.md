@@ -231,3 +231,7 @@ For the edition model, see [Revising a published book](https://github.com/Svyabl
 | Work as an AI agent | [AGENTS.md](AGENTS.md) |
 | Understand the wider system | [Bookself](https://github.com/Svyable/bookself) |
 | Read released work | [Svyable Shelf](https://svyable.github.io/shelf/reader/) |
+
+## Public discovery surface
+
+When Desk Pages is enabled, the working-proof site also exposes [`llms.txt`](https://svyable.github.io/desk/llms.txt), [`robots.txt`](https://svyable.github.io/desk/robots.txt), [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml), and [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md).
