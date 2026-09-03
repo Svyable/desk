@@ -154,6 +154,20 @@ Allies share some capabilities and restrict others.
 
 A realistic education should expose these incentives rather than describe the national space enterprise as a team whose members simply need better communication.
 
+A useful way to teach this would be to force students to occupy roles they do not expect to hold in their careers.
+
+A future Guardian could be assigned to defend the interests of an open scientific mission in a simulation involving data release and security concerns.
+
+A future civil servant could be required to make the military case for withholding sensitive information.
+
+A future engineer could have to argue from a regulator's statutory authority rather than from technical preference.
+
+A future entrepreneur could be asked to represent the taxpayer rather than the vendor.
+
+Role reversal is not moral theater.
+
+It is a method for discovering that institutional incentives are often rational from inside the institution.
+
 The Academy itself will become one more actor with interests.
 
 It will seek funding.
@@ -194,6 +208,34 @@ The commission should resist the political desire to make the structure look sim
 
 If the mission is genuinely mixed, some governance complexity is evidence of honesty.
 
+But complexity creates its own risk: nobody owns the failure.
+
+A cross-government academy could become the educational version of a program with too many sponsors, where every stakeholder owns enough of the institution to veto change and too little to accept responsibility for outcomes.
+
+The solution is not necessarily a single dominant agency.
+
+It is explicit accountability.
+
+Who appoints the superintendent or president?
+
+Who can remove that person?
+
+Who approves the academic program?
+
+Who owns military discipline?
+
+Who certifies that civilian-service obligations are being met?
+
+Who decides when a research partnership creates a conflict of interest?
+
+Who is responsible when graduation standards slip?
+
+Who reports results to Congress?
+
+A governance chart that cannot answer those questions is not integration.
+
+It is ambiguity.
+
 The Academy's physical design may also encode the boundary.
 
 A campus can create shared spaces for common academic work while preserving service-specific training environments. Military cadets might have obligations and facilities civilians do not. Civilian students might participate in research structures modeled more closely on federal science agencies.
@@ -224,7 +266,7 @@ It means accepting obligations to citizens who may disagree with the institution
 
 For military officers, it includes subordination to civilian authority and lawful command.
 
-For civil servants, it includes political neutrality in professional administration and fidelity to statute.
+For civil servants, it includes professional fidelity to statute and the public interest across political administrations.
 
 For scientists, it includes integrity of evidence.
 
@@ -233,6 +275,26 @@ For engineers, it includes responsibility for safety and technical truth.
 These obligations differ, but they share a principle: expertise does not grant sovereignty.
 
 That may be the most important common lesson a federal Space Academy can teach.
+
+The principle becomes especially important around industry.
+
+The American space enterprise is increasingly dependent on private companies for launch, spacecraft, communications, imagery, software and infrastructure. Students will need to understand industry deeply. The Academy will likely want industry mentors, internships, research partners and visiting faculty.
+
+Those relationships can improve education.
+
+They can also create subtle capture.
+
+A company that funds a laboratory may become difficult to criticize in that laboratory.
+
+A student who hopes to work for a contractor may hesitate to challenge a technical claim.
+
+A curriculum built around current vendor tools may train students for one market structure rather than durable principles.
+
+A prestigious partnership can become a procurement signal whether anyone intends it to.
+
+The Academy therefore needs conflict-of-interest rules strong enough to preserve public trust without isolating students from the industry that actually builds much of modern space capability.
+
+That balancing act is another version of the civil-military boundary problem: cooperation without surrender of role.
 
 Space encourages technological grandeur.
 
