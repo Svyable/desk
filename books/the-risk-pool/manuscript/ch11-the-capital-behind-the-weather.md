@@ -259,3 +259,83 @@ A severe storm will still destroy roofs.
 The financial question is whether it also destroys the institutions that promised to rebuild them.
 
 Capital behind the weather exists to keep those two disasters from becoming the same event.
+
+The phrase alternative capital can make catastrophe bonds sound like a side door into insurance.
+
+They are better understood as a different answer to the same old question: whose balance sheet should be waiting when the rare loss arrives?
+
+A reinsurer answers with corporate capital and a promise. A catastrophe bond answers with collateral already set aside. That difference changes the character of credit risk. The sponsor is not relying solely on an institution remaining solvent after the event; the transaction is designed so specified funds are available if the trigger is met.
+
+Pre-funded capital is expensive precisely because it waits.
+
+Investors commit money that could have been used elsewhere. The sponsor pays for that readiness. In return it receives something difficult to buy after a catastrophe: liquidity that was arranged before everyone knew it would be needed.
+
+This is why timing matters as much as expected loss.
+
+A dollar six months after a disaster is not the same financial object as a dollar available in the first weeks. Contractors must be hired, policyholders need advances, governments need emergency cash, and damaged businesses need working capital before the final loss total is known.
+
+Insurance finance is partly the business of moving money through time.
+
+The same point explains trapped capital.
+
+After a large event, an ILS fund may know that some of its collateral could be needed for claims but not yet know how much. The capital can remain tied up while losses develop. Investors who thought they owned a short-duration instrument discover that catastrophe time is measured by claims adjustment, not merely by bond maturity dates.
+
+This is not a defect unique to ILS.
+
+It is the ordinary difficulty of financing an event whose economic consequences unfold more slowly than its physical cause.
+
+A hurricane passes in hours.
+
+The balance sheet can take years to settle.
+
+Sponsors therefore care about more than coupon cost when choosing a structure. They care about duration, trigger certainty, reinstatement, multi-year price stability, disclosure, investor appetite, and how the instrument sits beside traditional reinsurance. A slightly more expensive layer may still be valuable if it locks in capacity across several renewal seasons or diversifies counterparties.
+
+Risk transfer is a portfolio too.
+
+An insurer that buys every layer from one reinsurer has a different vulnerability from one that mixes reinsurers, collateralized protection, catastrophe bonds, and retained capital. The goal is not simply the lowest annual price. It is a capital structure that remains usable after the event everyone is trying to survive.
+
+This becomes important after a major catastrophe because the price of protection can move just when demand for it rises.
+
+Insurers that have suffered losses may want to buy more cover. Reinsurers may want more premium. Investors may see attractive spreads and enter. Existing ILS capital may be impaired or trapped. New capital can arrive, but it does not teleport into place at the instant roofs come off.
+
+The renewal cycle becomes part of catastrophe recovery.
+
+That is an unusual feature of insurance compared with many ordinary goods. A disaster can both consume the product and raise the price of next year's product.
+
+The event creates the demand for claims payment and simultaneously changes the market for future protection.
+
+This is why catastrophe finance has a memory.
+
+Investors remember losses. Sponsors remember capacity shortages. Modelers revise assumptions. Contract language changes. Attachment points move. New perils become interesting. Old ones look less benign. A market that seemed generous before an event can become disciplined afterward, then soften again as capital accumulates and memory fades.
+
+Cycles are not necessarily irrational.
+
+They are what happens when uncertain loss, mobile capital, and institutional memory interact.
+
+The policy problem is preventing the cycle from becoming a cliff for the households and businesses at the bottom of the stack.
+
+If wholesale catastrophe capital becomes more expensive, the signal can move through reinsurance into primary rates and underwriting. If regulators prevent that signal from reaching price, it may reach quantity instead. If public residual plans absorb the quantity, the tail can migrate toward a public or quasi-public balance sheet.
+
+The cat bond in an investment portfolio and the homeowner's renewal notice are therefore much closer relatives than they appear.
+
+They sit on opposite ends of the same capital chain.
+
+That chain also disciplines grand claims about financial innovation.
+
+Securitizing a risk does not make it smaller.
+
+Tokenizing it would not make it smaller. Running it through an AI model would not make it smaller. Giving it a liquid secondary market would not make it smaller.
+
+Financial technology changes who can hold the risk, how transparently it is described, how quickly capital can enter, and what return is required.
+
+Physical mitigation changes the risk itself.
+
+A mature resilience system needs both.
+
+Capital markets are good at moving bearing capacity toward a priced opportunity. Engineers, households, companies, and governments must still reduce the loss where reduction is possible.
+
+That division of labor is the real promise of catastrophe finance.
+
+The investor does not stop the storm.
+
+The investor makes sure the storm does not have to be carried by one balance sheet alone.
