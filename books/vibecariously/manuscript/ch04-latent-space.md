@@ -97,3 +97,45 @@ The answer changes the future because easy ideas get tried more often.
 Latent space is not a warehouse of possible worlds. It is a map drawn from the worlds we have already recorded.
 
 The most interesting creative act may be learning where the map stops.
+
+## Missingness has a shape
+
+An archive does not only contain material. It also contains patterns of absence.
+
+Some communities left fewer records because institutions did not consider their lives worth preserving. Some records were destroyed. Some cultures transmitted knowledge orally or privately. Some work was never digitized. Some languages have small online footprints. Some experiences were deliberately kept away from public view.
+
+When a model learns from the accessible archive, these absences can become hard to perceive because generation fills them smoothly.
+
+Ask for a scene from a poorly documented place and period and the system may still produce a confident image. It has enough neighboring patterns to make plausibility. The completeness of the output can conceal the incompleteness of the record.
+
+This is an important difference between a traditional archive and a generative one.
+
+A missing box on a shelf is visible.
+
+A missing influence inside a model is usually not.
+
+Researchers, historians, designers, and anyone using generative systems for cultural reconstruction therefore need to treat fluency as separate from coverage. The model's ability to answer does not prove the archive contained enough evidence to answer well.
+
+Sometimes the most truthful output would be a blank region.
+
+Generative systems are structurally inclined to fill blank regions.
+
+Users need to recover the ability to ask where the blanks were.
+
+## Local priors are a creative resource
+
+The broad model's strength is breadth. A creator's strength can be narrowness.
+
+Local knowledge supplies priors that mass systems have weak reasons to privilege: the way a neighborhood names an intersection, the material everyone uses because one supplier is nearby, the joke that only works in a family, the ritual that never appears in tourist photographs, the seasonal problem outsiders do not notice.
+
+These details are not merely decorative specificity. They alter what solutions make sense.
+
+A generative system becomes more interesting when broad cultural capability meets a local prior strong enough to resist the average.
+
+This suggests a creative rule: do not only ask the model to take you somewhere unfamiliar. Bring it somewhere it does not know well.
+
+Field notes. Personal archives. Oral histories. Measurements. Local photographs. Specialist constraints. Vocabulary from people who actually do the work.
+
+The model can recombine those materials, but the materials change the center of gravity.
+
+The broad map becomes useful when somebody brings coordinates from outside its busiest roads.
