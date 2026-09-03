@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @Svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 12 of 18 drafted |
+| **Chapters**  | 16 of 18 drafted |
 
 ## Contents
 
@@ -21,9 +21,9 @@
 - [x] [Ch 10 — Interest: The Bill for Yesterday](manuscript/ch10-interest-the-bill-for-yesterday.md)
 - [x] [Ch 11 — The Tax Expenditure Shadow Budget](manuscript/ch11-the-tax-expenditure-shadow-budget.md)
 - [x] [Ch 12 — States, Cities, and Promises](manuscript/ch12-states-cities-and-promises.md)
-- [ ] Ch 13 — Why Cutting Waste Isn't Enough
-- [ ] Ch 14 — Why Taxing the Rich Isn't Enough
-- [ ] Ch 15 — Growth Is Necessary, Not Magical
-- [ ] Ch 16 — The Politics of Visible Pain
+- [x] [Ch 13 — Why Cutting Waste Isn't Enough](manuscript/ch13-why-cutting-waste-isnt-enough.md)
+- [x] [Ch 14 — Why Taxing the Rich Isn't Enough](manuscript/ch14-why-taxing-the-rich-isnt-enough.md)
+- [x] [Ch 15 — Growth Is Necessary, Not Magical](manuscript/ch15-growth-is-necessary-not-magical.md)
+- [x] [Ch 16 — The Politics of Visible Pain](manuscript/ch16-the-politics-of-visible-pain.md)
 - [ ] Ch 17 — A Budget That Can Say No
 - [ ] Ch 18 — The Honest Price
