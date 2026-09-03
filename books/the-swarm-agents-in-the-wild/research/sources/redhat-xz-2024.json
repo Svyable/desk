@@ -1,0 +1,9 @@
+{
+  "id": "redhat-xz-2024",
+  "year": 2024,
+  "author_or_institution": "Red Hat Product Security",
+  "title": "CVE-2024-3094 and urgent XZ security alert",
+  "source_type": "Vendor security advisory",
+  "book_use": "Confirms malicious code in XZ 5.6.0 and 5.6.1, the release-tarball/build-path distinction, and the potential interference with SSH authentication under affected conditions; useful for separating verified technical facts from later speculation about the actor.",
+  "url": "https://access.redhat.com/security/cve/cve-2024-3094"
+}
