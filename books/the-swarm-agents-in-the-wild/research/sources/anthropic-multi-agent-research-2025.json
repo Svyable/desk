@@ -1,0 +1,8 @@
+{
+  "year": "2025",
+  "author_or_institution": "Anthropic",
+  "title": "How we built our multi-agent research system",
+  "source_type": "First-party engineering report",
+  "book_use": "Production orchestrator-worker architecture; 90.2% internal-eval improvement over a single agent on breadth-first research; token-cost and coordination tradeoffs; limits of multi-agent systems when work is not parallelizable.",
+  "url": "https://www.anthropic.com/engineering/multi-agent-research-system"
+}
