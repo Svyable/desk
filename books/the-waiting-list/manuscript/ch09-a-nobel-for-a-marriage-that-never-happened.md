@@ -58,6 +58,34 @@ This was a peculiar historical reversal.
 
 Economists often imagine theory first and application second: somebody proves a result, then an institution adopts it. Here, a real institution had groped toward a workable design before the relevant theory was fully understood. The mathematics explained why parts of the system worked and where its weaknesses might lie.
 
+That reversal is also a warning about how credit gets assigned after a field becomes famous.
+
+A theorem has authors. An institution has a crowd.
+
+The residency Match did not materialize because one economist discovered the right paper. Medical students, hospitals, professional organizations, administrators, programmers, and later designers all shaped the system that existed before and after Roth studied it. Elliott Peranson was central to the 1990s redesign. Couples, changing applicant behavior, and institutional complaints supplied the problems the redesign had to solve. A mechanism that could not survive those details would have remained an elegant explanation of somebody else’s failure.
+
+The same pattern appears in kidney exchange. Roth, Sönmez, and Ünver developed theory that helped enlarge the feasible set of exchanges. Surgeons imposed operating constraints. Coordinators made chains happen. Registries created pools. Computer scientists built optimization tools. Donors retained the right to say no. Hospitals had to accept kidneys, tests, schedules, and practices that did not originate inside an economics department.
+
+School choice followed the same route. The matching algorithm mattered, but so did district priorities, enrollment rules, tie-breaking procedures, software, counseling, transportation, and the political decision to replace the prior assignment system at all.
+
+Calling these cases “applications” can therefore understate what happened.
+
+An application sounds like a theorem being poured into an institution-shaped mold.
+
+Market design is closer to negotiated engineering. The theory identifies properties worth protecting. The institution supplies constraints the theory did not choose. The mechanism is revised until the two can coexist well enough to operate.
+
+That distinction helps explain why the Nobel citation separated theory from practice rather than collapsing them into one discovery.
+
+Shapley’s contribution was not diminished because administrators had to do the work of implementation. Roth’s contribution was not that he single-handedly built every institution later associated with market design. The achievement lay partly in creating a language in which these practical failures could be recognized as related problems and in showing that institutional details could be studied rather than dismissed as mess around the model.
+
+This matters because hero stories create a bad theory of reform.
+
+If successful market design looks like a brilliant economist arriving with a proven algorithm, then the obvious prescription is to find a smarter economist. The actual cases suggest something less cinematic. Durable redesign requires people who know the institution well enough to say which elegant assumptions are false, participants who will reveal where incentives bite, and designers willing to change the mechanism rather than blaming reality for failing to match the paper.
+
+The distance from theorem to institution is not dead space.
+
+It is where most of the work lives.
+
 Roth’s career increasingly occupied that seam.
 
 He studied the residency match as a market rather than merely as a piece of administrative plumbing. He worked on its redesign. He and collaborators studied school assignment systems. He worked with Tayfun Sönmez and M. Utku Ünver on kidney exchange, where the absence of money is not an inconvenience but a defining legal and moral constraint.

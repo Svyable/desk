@@ -166,6 +166,28 @@ Each expansion increases possibility.
 
 Each expansion also increases governance.
 
+The operational problem grows in directions the graph does not show.
+
+A computer can identify a medically feasible cycle among four pairs in seconds. It cannot free four surgical teams on the same morning. It cannot make a donor’s employer grant leave, make a recipient’s infection clear on schedule, or make two hospitals use identical testing timelines. A chain that looks clean on a screen can be held together by coordinators making phone calls, laboratories returning results, transport plans, backup dates, and people willing to change their week around somebody they may never meet.
+
+This is not administrative debris around the mechanism.
+
+It is part of the mechanism.
+
+A matching rule that routinely proposes exchanges hospitals cannot execute is not better because its theoretical transplant count is higher. A chain that depends on perfect timing across institutions is not robust merely because every edge in the compatibility graph is valid.
+
+The distinction matters because optimization can hide its own denominator.
+
+Suppose one proposed chain produces more transplants if every link succeeds but is difficult to schedule across several centers. Another produces fewer transplants on paper but can be completed quickly inside two hospitals. Which is better?
+
+The answer depends on probabilities the clean graph does not contain: cancellation risk, donor availability, operating-room capacity, transport reliability, clinical timing, and how costly a break would be for the people already committed.
+
+That does not make mathematical optimization useless. It explains why the successful programs became collaborations among economists, surgeons, coordinators, computer scientists, and ethicists rather than software projects with a medical front end.
+
+The graph finds possibility.
+
+The institution has to make possibility survive contact with Tuesday morning.
+
 The National Kidney Registry, one of the largest U.S. exchange networks, now describes paired donation as one part of a broader living-donation system that includes remote donation, voucher arrangements, donor financial support, and national matching. Its public materials report that more than ninety thousand people in the United States are waiting for kidneys and advertise a typical living-donor matching time through its system that is far shorter than the wait for a deceased-donor kidney.
 
 Those are institutional claims and should be read as such. A registry has every reason to describe the value of its own network.
