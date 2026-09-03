@@ -1,0 +1,9 @@
+{
+  "id": "sigstore-overview-2026",
+  "year": 2026,
+  "author_or_institution": "Sigstore / OpenSSF",
+  "title": "Sigstore overview and tooling",
+  "source_type": "Open-source supply-chain infrastructure documentation",
+  "book_use": "Documents artifact signing, identity-linked short-lived certificates, verification, and the Rekor transparency log; supports the idea that trust can be attached to a verifiable chain of custody rather than inferred from a package or tool name alone.",
+  "url": "https://docs.sigstore.dev/"
+}
