@@ -9,6 +9,7 @@ const upstream = 'https://svyable.github.io/shelf/reader/js/';
 const appUrl = `${upstream}app.js?v=desk-20260901-3`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
+const quickLookUrl = './library-quick-look.js';
 
 // Local integrity audit markers mirror the compatibility contract enforced in
 // desk-runtime-bridge.js. scripts/check-desk.py checks these without network access.
@@ -146,6 +147,12 @@ try {
     await import(moduleUrl);
   } finally {
     URL.revokeObjectURL(moduleUrl);
+  }
+
+  try {
+    await import(quickLookUrl);
+  } catch (error) {
+    console.warn('Library quick look could not be loaded', error);
   }
 } catch (error) {
   showRecovery(error);
