@@ -11,7 +11,8 @@
 - [x] Chapter 5 — The Factory Learns to Fly
 - [x] Chapter 6 — The Constellation Bet
 - [x] Chapter 7 — A Thousand Satellites Is a Different Machine
-- [ ] Chapter 8 — The Customer Everywhere
+- [x] Chapter 8 — The Customer Everywhere
+- [ ] Chapter 9 — The Private Astronaut
 
 ## Research packets to build before deep drafting
 - [ ] COTS primary documents / Space Act Agreements / NASA oral histories
@@ -22,6 +23,7 @@
 - [x] Chapter 5 satellite manufacturing / fleet-refresh evidence packet
 - [x] Chapter 6 first-wave constellation economics evidence packet
 - [x] Chapter 7 deployment / subscriber / internal-launch evidence packet
+- [x] Chapter 8 customer / mobility / disaster-continuity evidence packet
 - [ ] Starlink constellation population by year and generation
 - [ ] Starlink revenue/customer estimates — source quality matrix
 - [ ] FCC authorizations and modification orders
