@@ -160,6 +160,22 @@ Those are academy problems.
 
 The technical procedures of a particular weapon system are not.
 
+The difference can be expressed as transferability.
+
+A durable academic concept should remain valuable when the student changes unit, employer, spacecraft, software stack or mission. System-specific knowledge may be vital, but its shelf life can be short. A four-year institution should spend its scarce curriculum on knowledge that transfers.
+
+That does not mean avoiding practice.
+
+It means choosing practice that teaches durable judgment.
+
+A student can learn orbital mechanics by solving equations and then applying them in a simulation where communications, fuel, threat and policy constraints collide. A student can learn acquisition by reading statutes and then being forced to trade cost, schedule and performance under uncertainty. A student can study military history and then test whether a historical command principle survives inside a distributed space architecture.
+
+The exercise is specific.
+
+The lesson should travel.
+
+STARCOM can then add the current tactics, systems and authorities that cannot be taught responsibly in a general undergraduate environment.
+
 There is a second relationship the Academy must understand: enlisted education.
 
 The public imagination of service academies is officer-heavy because federal academies commission officers. Space Force, like every military service, depends on enlisted Guardians whose technical expertise can exceed that of the officers leading them in particular systems and specialties.
@@ -217,6 +233,26 @@ STARCOM lives inside that tension every time a course or exercise changes.
 The Space Academy could spend four years teaching students to become comfortable there.
 
 This may be more valuable than any particular major.
+
+There is also a data problem hiding inside the education problem.
+
+A new academy will eventually claim that its graduates are better prepared. Better has to mean something.
+
+STARCOM is one of the few places capable of turning that claim into evidence because it will see officers from multiple commissioning sources entering a common pipeline.
+
+If the service preserves comparable performance data, it could ask whether Space Academy graduates demonstrate stronger cross-domain reasoning, require less remediation, perform differently in capstone exercises or adapt faster during later training. It could compare those outcomes with officers from USAFA, ROTC and OTS while controlling, as far as practical, for the fact that admissions populations differ.
+
+The goal should not be to create a league table of commissioning sources.
+
+The goal should be to identify whether the Academy is producing the capability taxpayers were told it would produce.
+
+This matters because prestige can hide weak causality.
+
+If an academy selects unusually high-performing students, graduates may succeed even if the institution adds little. A school can confuse selectivity with educational effectiveness. STARCOM's common pipeline offers a chance, imperfect but valuable, to examine what preparation actually transfers.
+
+That feedback loop should be designed before the first class arrives.
+
+Academies are notoriously difficult to reform once traditions harden. Data will not eliminate politics, but it can make revision more honest.
 
 Space Force is a service operating inside rapid technological change. Commercial launch, proliferated satellites, artificial intelligence, cyber tools and new sensors can alter the environment faster than military acquisition and education traditionally adapt. A Guardian who graduates believing expertise is a fixed possession will become obsolete.
 
