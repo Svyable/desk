@@ -5,6 +5,7 @@
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Chapters** | 20 of 20 drafted |
+| **Shelf edition** | [Published](https://svyable.github.io/shelf/reader/#/b/the-compatibility-dividend/) |
 
 How Standards Turn Strangers Into Systems.
 
