@@ -18,7 +18,7 @@ The Pentagon's own public record also shows a change in institutional relationsh
 Sources:
 - U.S. Department of Defense press briefing, October 18, 2022.
 https://www.defense.gov/News/Transcripts/Transcript/Article/3192466/pentagon-press-secretary-air-force-brig-gen-pat-ryder-holds-an-on-camera-press/
-- U.S. Department of Defense press briefing, September 14, 2023.
+- U.S. Department of Defense press briefing, September 21, 2023.
 https://www.defense.gov/News/Transcripts/Transcript/Article/3534413/pentagon-press-secretary-air-force-gen-pat-ryder-holds-an-on-camera-press-brief/
 
 That chronology matters. The system's wartime value did not erase the distinction between a company donating or supplying a service at its own discretion and a government buying a defined capability under contract. Strategic dependence tends to pull private infrastructure toward more explicit public arrangements.
