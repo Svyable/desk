@@ -135,3 +135,85 @@ The danger is stopping at render because render has become so convincing.
 Reality is rude enough to save us from some of our best-looking ideas.
 
 We should let it.
+
+## The prototype is a conversation with consequence
+
+The word *prototype* is sometimes used as though it means a cheap version of the finished thing. That misses its more interesting function. A prototype is a question asked in a form the world can answer.
+
+Will this hinge clear the frame? Will a person understand this control without instruction? Will the joke land when spoken aloud? Does this paragraph survive when someone reads it who was not inside the writer's head? Does the fabric collapse where the rendering made it float? Will the neighborhood accept the traffic pattern that looked elegant on a diagram? Can the business afford the customer acquisition strategy once actual bids replace invented numbers?
+
+A rendering can help formulate these questions. It cannot answer all of them.
+
+That distinction becomes easier to lose as synthetic media grows more realistic. A rough sketch announces its incompleteness. Everyone can see that it is a proposal. A photorealistic image can conceal the same uncertainty under finish. The more persuasive the representation, the more discipline is required to remember what has not yet been tested.
+
+This is why mature teams may begin labeling generative artifacts by epistemic role rather than by medium. Not merely “image,” but hypothesis. Not merely “copy,” but candidate. Not merely “persona,” but assumption. Not merely “forecast,” but scenario. Not merely “design,” but unresolved proposition.
+
+The label sounds bureaucratic until the stakes rise. Then it becomes a guardrail against confusing the appearance of resolution with resolution itself.
+
+The prototype is where the proposition meets resistance.
+
+In software, that might mean instrumenting a feature and watching where users abandon it. In industrial design, it might mean handing a crude foam object to ten people and noticing that nine grip it differently than expected. In architecture, it may mean a full-scale corner mockup, not another elevation. In teaching, it may mean asking a student to explain a concept without the model present. In writing, it can be as simple as reading a chapter aloud and hearing which sentences were only persuasive on a screen.
+
+Every field has its own version of the moment when representation stops being allowed to grade itself.
+
+Generative AI makes reaching that moment sooner more important, not less. The cheaper the conceptual loop becomes, the easier it is to remain inside it. Teams can iterate for days while receiving only synthetic feedback about synthetic proposals. The loop feels productive because every turn produces visible change. Yet none of those changes may touch the actual source of risk.
+
+This creates a new kind of creative procrastination: refusing reality by being extremely busy with possibility.
+
+The behavior can look sophisticated. The deck improves. The images get better. The language sharpens. The alternatives multiply. Stakeholders feel movement. Meanwhile the uncertain thing remains uncertain.
+
+The antidote is not anti-AI. It is an explicit rule for when a project must cross the border from representation to consequence.
+
+For one team, the rule might be: no more than three synthetic concept rounds before a physical mockup. For another: every AI-generated customer hypothesis must be paired with a real interview. For a writer: every heavily assisted argument must eventually be tested against primary sources and an unsympathetic reader. For a product team: synthetic usability feedback can help prepare a study, but cannot cancel it.
+
+These are not universal ratios. Their value is that they make the border visible.
+
+## Friction as an information budget
+
+It is useful to think of friction not as a moral tax but as an information budget.
+
+Some resistance is costly and tells us almost nothing. A broken procurement portal is friction without insight. Re-entering data because two systems do not communicate is friction without insight. Waiting three weeks for an approval that contains no substantive review is friction without insight. Good technology should eliminate this aggressively.
+
+Other resistance is expensive because it contains information that cannot be obtained more cheaply.
+
+A bridge load test is annoying precisely because gravity matters. A medical trial is slow because bodies vary and harm matters. Rehearsal takes time because coordination is embodied. A public meeting is messy because residents are not interchangeable data points. A live audience is unpredictable because attention is not under the creator's control.
+
+The practical question is therefore not “how much friction should we preserve?” It is “which friction is carrying information?”
+
+That framing changes the politics of efficiency. Institutions often remove the resistance experienced by the designer while exporting it to someone else. A system becomes seamless for the company and exhausting for the customer. A city makes development approvals faster by reducing opportunities for communities to object. A workplace automates scheduling while making workers absorb volatile hours. Friction did not disappear. It moved.
+
+Generative systems can do the same thing in creative work. A manager can produce endless concepts quickly and transfer the burden of evaluating them to a smaller downstream team. A client can generate hundreds of references and expect a designer to reconcile them. A founder can produce a polished strategy every morning and make employees continually reorient around the latest coherent-looking possibility.
+
+Cheap imagination can become expensive coordination.
+
+This is another reason output volume is a poor measure of creative progress. The person who can generate the most options may be creating the most work for everyone else.
+
+The discipline of friction therefore includes respecting the cost imposed by possibility. Every new option creates a claim on somebody's attention. Every rendered future asks someone to compare, discuss, reject, implement, or emotionally process it. Abundance upstream can become scarcity downstream.
+
+A mature imagination practice needs stopping rules.
+
+When is the field wide enough? When do we choose? Who has authority to close a branch? Which uncertainties require physical testing? Which disagreements require another person rather than another generation? What evidence would make us abandon the beautiful version?
+
+These questions sound operational. They are also aesthetic. Style often emerges from what a maker refuses to keep exploring.
+
+Constraint is not the enemy of imagination. Constraint gives imagination edges.
+
+Generative AI may become most powerful not when it removes those edges, but when it helps us see which ones are accidental and which ones are carrying the shape of the work.
+
+The future of friction should not be a return to inconvenience for its own sake.
+
+It should be a better understanding of where knowledge enters.
+
+Remove the waiting room. Keep the load test.
+
+Remove the repetitive form. Keep the difficult conversation.
+
+Remove the search cost. Keep the encounter with evidence.
+
+Remove the mechanical drudgery. Keep the part where the material answers back.
+
+That is the bargain.
+
+AI can make the question cheap.
+
+Reality still gets a vote.
