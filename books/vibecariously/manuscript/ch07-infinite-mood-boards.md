@@ -125,3 +125,55 @@ That is not a reason to stop generating.
 It is a reason to protect the phrase *this, but not literally this*.
 
 A reference should open a direction without pretending the road has already been built.
+
+## Reference debt
+
+Every reference creates a debt.
+
+The debt is not necessarily financial or legal. It is the amount of unresolved translation hidden behind the phrase *like this*.
+
+A client points to a hotel lobby and says they want that calmness. The lobby's calmness may depend on ceiling height, expensive stone, staffing, acoustic treatment, concealed storage, limited signage, natural light, and enough floor area that nobody is forced close to anyone else. Copy the furniture and the calmness may not follow.
+
+A founder points to a famous product and says they want that simplicity. The simplicity may be the visible result of years of engineering, ruthless feature removal, supply-chain leverage, customer education, and a business model capable of absorbing the cost.
+
+A filmmaker points to a shot and says they want that intimacy. The intimacy may come from performance, lens distance, rehearsal, silence, production design, and what happened in the previous scene.
+
+References compress causes into appearances.
+
+Generative references can increase reference debt because they do not even have an underlying implementation to inspect. The beautiful room has no construction drawings. The elegant device has no bill of materials. The apparent campaign has no media plan. The convincing app has no interaction model behind the screenshot.
+
+The image can be useful while owing almost everything.
+
+A mature team learns to surface the debt early. What exactly are we borrowing? Which quality matters? What conditions produced it in the source? Which conditions are absent here? What would we need to invent rather than imitate?
+
+This can turn reference gathering from aesthetic collection into causal analysis.
+
+It also reduces the disappointment that arrives when a real deliverable cannot reproduce a synthetic atmosphere whose causes were never specified.
+
+The point of a mood board is not to make promises.
+
+It is to make questions visible enough that promises can eventually be made responsibly.
+
+## The anti-board
+
+One practical way to protect exploration is to make an anti-board beside the mood board.
+
+The mood board says what belongs.
+
+The anti-board says what must not happen.
+
+Too polished. Too nostalgic. Too expensive-looking. Too quiet. Too Scandinavian. Too software-company. Too childish. Too cinematic. Too symmetrical. Too reliant on plants. Too dependent on perfect weather. Too difficult to clean. Too close to the category leader.
+
+Negative reference is useful because generative models are good at satisfying positive resemblance. Without exclusions, a prompt can slide toward the nearest recognizable convention.
+
+An anti-board preserves boundaries around taste.
+
+It can also reveal contradictions. A team may want a space that feels luxurious but not expensive, minimal but not cold, playful but not childish, historic but not nostalgic. Those tensions are not failures of the brief. They are often the brief.
+
+Generative tools can help by producing edge cases around each boundary. Show the version that becomes too cold. Show the version where play turns juvenile. Show the version where heritage becomes costume. The team learns the shape of the acceptable region by seeing where it breaks.
+
+This is more useful than generating fifty beautiful center points.
+
+Infinite mood boards create infinite agreement cheaply.
+
+The craft is learning which disagreements deserve pictures.
