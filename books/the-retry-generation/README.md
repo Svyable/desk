@@ -46,6 +46,7 @@ Its central framework is:
 
 - [Book bible](research/book-bible.md)
 - [Novelty check](research/novelty-check.md)
+- [Release review](research/release-review.md)
 
 ## Publishing package
 
