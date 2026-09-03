@@ -306,6 +306,44 @@ Who can travel when the only trial is three states away?
 
 Who can pay when the treatment is legal but investigational and insurance refuses?
 
+A sequencing disparity is therefore not one thing.
+
+It can be a coverage disparity, a tissue disparity, a logistics disparity, an interpretation disparity or a timing disparity. Collapsing all of them into the percentage of patients who received a genomic test can make a health system look more equal than it is.
+
+The relevant denominator is not who got a report.
+
+It is who obtained information usable for the next clinically justified decision.
+
+That standard exposes a second gap: sequencing without referral.
+
+A community practice can order an excellent assay and still lack a path into the trial, vaccine platform or specialist consultation that gives the result meaning. The report may correctly identify candidate biology while functioning as little more than a receipt for sophisticated testing. Access to measurement without access to action is an incomplete form of precision medicine.
+
+Networks can close that gap.
+
+Regional molecular tumor boards can review cases across hospitals. Tele-oncology can connect community physicians with academic specialists. Trial-matching systems can flag eligibility while the patient is still medically able to travel. Standard specimen protocols can let a regional pathology lab produce material accepted by several therapeutic platforms. Public or nonprofit navigators can help patients distinguish a genuine research option from a direct-pay offer using adjacent science.
+
+These are relatively small interventions compared with inventing the therapy.
+
+They increase the value of the therapy by widening the population capable of reaching it.
+
+Measurement should follow that whole funnel.
+
+A health system evaluating personalized cancer access should know how many eligible patients had adequate tissue, how many were successfully sequenced, how many results arrived within the intended window, how many were reviewed by someone capable of acting on them, how many patients were referred, how many began manufacturing and how many actually received treatment.
+
+Every drop between those stages has a cause.
+
+Some causes are unavoidable biology.
+
+Others are administrative choices masquerading as biology.
+
+A biopsy may truly contain too little tumor. A pathology block may also be unavailable because records transfer took three weeks. A patient may truly lack useful neoantigens. The patient may also never reach HLA typing because an insurer denied the upstream assay. A manufacturing slot may truly be scarce. It may also be reserved contractually for a larger center.
+
+Equity becomes actionable when the loss is assigned to the right stage.
+
+The final paradox is that personalization can make universal infrastructure more valuable.
+
+The more unique the treatment becomes, the more standardized the pathways into it have to be. Patients should not need unique luck to obtain the biopsy, data transfer, specialist review and authorization that precede a medicine already designed to account for their biological differences.
+
 A patient of one still depends on a system of many.
 
 The key can be personalized perfectly.
