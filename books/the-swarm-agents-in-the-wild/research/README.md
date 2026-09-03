@@ -23,7 +23,7 @@ The manuscript keeps these failure classes separate. The Flash Crash is not pres
 
 ## Evidence pass 3 — apprenticeship test
 
-The labor section now pressure-tests its own apprenticeship and organizational-compression claims with evidence pointing in different directions:
+The labor section pressure-tests its own apprenticeship and organizational-compression claims with evidence pointing in different directions:
 
 - Brynjolfsson, Li, and Raymond’s peer-reviewed workplace study of 5,172 customer-support agents, including the large gains among less-experienced workers and evidence consistent with faster skill acquisition;
 - Dell’Acqua and coauthors’ 2026 *Organization Science* field experiment with 791 Procter & Gamble professionals, in which individuals with AI matched teams without AI on early-stage product-innovation tasks while human judgment retained value in selection;
@@ -33,15 +33,26 @@ The labor section now pressure-tests its own apprenticeship and organizational-c
 
 This pass is intentionally counterevidential. It does not treat AI as either uniformly deskilling or uniformly skill-building. The manuscript distinguishes novice knowledge transfer, coordination compression, expert verification costs, and institutional acceptance as separate mechanisms.
 
+## Evidence pass 4 — protocol layer
+
+The protocol interlude is now tied directly to current developer documentation and open specifications rather than generalized descriptions of agent infrastructure:
+
+- OpenAI’s 2025 Agents SDK documentation for tools, multi-agent workflows, handoffs, guardrails, tracing, and observability;
+- OpenAI’s April 2026 sandbox update, including isolation, files and command execution, configurable memory, long-horizon work, separation of harness from compute, and an explicit assumption of prompt-injection and exfiltration attempts;
+- the Model Context Protocol 2026-07-28 specification, including its stateless core, routable method/tool headers, authorization hardening, extensions, and task support;
+- the Linux Foundation’s 2025 A2A governance announcement and its 2026 adoption report, with foundation-reported adoption figures labeled as such;
+- A2A specification v0.3.0, including Agent Cards, Tasks, Messages, Artifacts, cancellation, streaming, and cooperation without disclosure of internal reasoning.
+
+This pass makes a deliberate distinction between two seams: MCP primarily standardizes access from AI systems to tools/data, while A2A standardizes cross-agent communication and task exchange. The manuscript does not assume either protocol will necessarily become the final industry standard.
+
 Machine-readable source records for the evidence passes live under [`research/sources/`](sources/). First-party company metrics are identified as such in the manuscript. Internal evaluations are not presented as independent evidence.
 
 ## Still to verify
 
 Before the manuscript is treated as a complete trade-nonfiction draft, verify and source the concrete claims chapter by chapter, especially:
 
-- current agent tooling and long-horizon execution capabilities beyond the reported first-habitats interlude;
-- Model Context Protocol and agent-to-agent protocol history, governance, adoption, and production use;
-- security, identity, permission, payment, and sandboxing patterns described as current practice;
+- security and identity claims beyond the protocol/sandbox evidence already added, including prompt injection, tool poisoning, provenance, permission attenuation, and credential theft;
+- payment and machine-commerce infrastructure, including where an agent’s authority to spend or contract becomes enforceable;
 - claims about insurance, procurement, logistics, and other machine-speed institutional interactions beyond the documented market analogues;
 - historical analogues used elsewhere to explain organizations, monocultures, bureaucracy, infrastructure, and resilience;
 - any real organization, product, standard, incident, or numerical claim added in later reporting passes.

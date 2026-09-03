@@ -1,0 +1,8 @@
+{
+  "year": "2026",
+  "author_or_institution": "OpenAI",
+  "title": "The next evolution of the Agents SDK",
+  "source_type": "First-party product and engineering documentation",
+  "book_use": "Documents native sandbox execution for files, commands, code and longer-horizon work; configurable memory; separation of agent harness from compute for security and durability; explicit assumption of prompt-injection and exfiltration attempts; isolated and parallel sandbox use.",
+  "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk/"
+}
