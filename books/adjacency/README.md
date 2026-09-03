@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Authors**   | @svyable |
+| **Authors**   | Sven Hardy Benson |
 | **Status**    | Complete draft |
 | **Chapters**  | 25 of 25 drafted |
 
