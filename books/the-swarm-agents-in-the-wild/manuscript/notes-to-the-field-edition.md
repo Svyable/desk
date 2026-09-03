@@ -46,4 +46,16 @@
 
 [^23]: Model Context Protocol project, authorization specification and security considerations. The specification requires protected MCP servers to validate that access tokens were issued for the intended resource, describes confused-deputy risks, and forbids passing a client token through unchanged to an upstream service. These controls support audience-bound authority rather than treating one credential as a universal permission slip.
 
+[^24]: Google Cloud, “Powering AI commerce with the new Agent Payments Protocol (AP2)” (September 16, 2025). The first-party protocol announcement frames autonomous-agent payments around authorization, authenticity, and accountability and describes cryptographically signed Intent Mandates and Cart Mandates for both human-present and delegated purchasing. AP2 is evidence of infrastructure direction and protocol design, not proof of universal adoption.
+
+[^25]: Stripe, “Agentic commerce” developer documentation, accessed in 2026. The first-party documentation describes seller-agent checkout, customer-controlled wallets, shared payment credentials, and machine-payment integrations. Some agentic-commerce features remain limited or preview-stage; the manuscript uses them as evidence of emerging payment primitives rather than mature market penetration.
+
+[^26]: Stripe and Tempo, “Introducing the Machine Payments Protocol” (March 18, 2026). The first-party announcement describes an open protocol for programmatic payments by agents and machines, motivated by the mismatch between human-oriented checkout/account flows and low-friction machine transactions. It is cited for protocol design and economic direction, not transaction-volume claims.
+
+[^27]: Mastercard, “Mastercard unveils Agent Pay...” (April 29, 2025). The company announcement describes Agentic Tokens and a payment architecture intended to make agents registered, traceable, and connected to verifiable user intent. The manuscript treats this as Mastercard’s product architecture rather than independent evidence of adoption.
+
+[^28]: Mastercard, “Mastercard launches Agent Pay for Machines...” (June 10, 2026). Mastercard describes a service for high-frequency, low-latency, low-value machine transactions including microtransactions, with credentialing, controls, and settlement across payment types. These are company-described capabilities and plans, not independent measurements of an already-large machine economy.
+
+[^29]: Visa, “Visa Intelligent Commerce,” product documentation accessed in 2026. Visa describes agent-initiated payment controls including credentialing, authentication, spending limits, approval workflows, and identity signals. Visa explicitly states that the portfolio is still being deployed and final features may differ; the manuscript therefore uses it as evidence of infrastructure direction rather than settled functionality or adoption.
+
 ---
