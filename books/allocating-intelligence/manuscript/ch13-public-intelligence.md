@@ -6,7 +6,35 @@ Satellites, radar, surface stations, balloons, ships, aircraft, computer models,
 
 Weather intelligence is infrastructure.
 
-The institutional history matters because the service did not begin as a chatbot. The United States created a national meteorological observation and storm-warning system in the nineteenth century. The technology changed repeatedly: telegraph networks, radio, aircraft observations, satellites, radar, numerical weather prediction, digital distribution. The durable idea was not one interface or one machine. It was a public capability for observing the atmosphere, producing forecasts and warnings, and making them broadly available.
+The institutional history matters because the service did not begin as a chatbot. In 1870, the United States authorized a national system for meteorological observations and storm warnings. The technology changed repeatedly: telegraph networks, radio, aircraft observations, satellites, radar, numerical weather prediction, digital distribution. The durable idea was not one interface or one machine. It was a public capability for observing the atmosphere, producing forecasts and warnings, and making them broadly available.
+
+Follow one warning through the system and the difference between a model and an institution becomes clearer.
+
+A storm is developing. The atmosphere does not file a structured request. Observation networks create partial measurements from different places and times. Forecast systems turn those measurements into estimates about what may happen. Forecasters interpret changing evidence. A warning has to be issued early enough to matter and specifically enough to guide action. Communication systems have to distribute it. Local emergency managers, broadcasters, schools, hospitals, transportation operators, businesses, and households then translate the common warning into different decisions.
+
+No single answer is the service.
+
+The public capability is the chain.
+
+If the observations are weak, the forecast starts blind. If the forecast is strong but the warning is late, accuracy arrives after the decision. If the warning is correct but inaccessible to people who need another language or communication channel, the information exists and the capability fails. If local institutions receive the warning but have no plan for acting on it, prediction does not become protection.
+
+Public intelligence therefore has a consequence chain just as private operational intelligence does.
+
+Observation is not the same as forecast. Forecast is not warning. Warning is not reception. Reception is not understanding. Understanding is not action.
+
+This matters for AI because a fluent interface can collapse all of those stages into the appearance of one smart service. A public assistant may give an excellent answer while relying on stale policy. It may retrieve current policy and fail to explain the deadline that changes the citizen’s next move. It may explain perfectly and provide no route to submit the required form. It may route the form correctly and leave the person unable to correct a bad record downstream.
+
+The answer can be right while the public capability is incomplete.
+
+Weather systems also reveal why common infrastructure benefits from feedback. Forecasts and warnings are not issued into a void. Observations continue. The storm moves. New evidence arrives. Later analysis can compare what was expected with what occurred and improve models, procedures, communication, and local practice.
+
+A public AI service needs the same humility about its own performance.
+
+A benefits assistant should not be evaluated only on whether a model answer matched a policy document. Did the person complete the process? Was the record correct? Did the advice cause avoidable delay? Which questions repeatedly required human intervention? Which language communities encountered more failures? Did an appeal reveal that the service was systematically misunderstanding one category of case?
+
+Public intelligence should be able to learn from consequence without turning every interaction into permanent surveillance.
+
+That is an institutional design problem, not a model benchmark.
 
 Artificial intelligence needs a civic category like that.
 
