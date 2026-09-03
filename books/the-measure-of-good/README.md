@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 6 of 18 drafted |
+| **Chapters**  | 7 of 18 drafted |
 
 If we can measure almost everything, why are we still so bad at measuring what is good?
 
@@ -21,10 +21,10 @@ A book about metrics, judgment, and the point where measurement stops and moral 
 - [x] [Ch 4 — Better for Whom?](manuscript/ch04-better-for-whom.md)
 - [x] [Ch 5 — The Problem of Uncertainty](manuscript/ch05-the-problem-of-uncertainty.md)
 - [x] [Ch 6 — What Cannot Be Traded](manuscript/ch06-what-cannot-be-traded.md)
+- [x] [Ch 7 — Fairness Is Plural](manuscript/ch07-fairness-is-plural.md)
 
 ## Planned chapters
 
-7. Fairness Is Plural
 8. The Future Has No Vote
 9. Intention, Outcome, Responsibility
 10. The Value of a Life
