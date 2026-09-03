@@ -36,11 +36,35 @@ The argument is strengthened if enterprises and governments begin measuring sove
 
 ## Moonshot adds a capital-markets test
 
-Reuters reported on September 3 that Moonshot had confidentially filed for a Hong Kong IPO targeting roughly **$3 billion** while continuing discussions with Microsoft, Amazon, and Google over possible Kimi K3 revenue-sharing arrangements.
+Reuters reported on September 3 that Moonshot had confidentially filed for a Hong Kong IPO targeting roughly **$3 billion** while continuing discussions with Microsoft, Amazon, and Google over possible Kimi K3 revenue-sharing arrangements. Reuters said Moonshot had raised more than **$5.5 billion** since its founding.
 
 Source: https://www.reuters.com/world/asia-pacific/chinese-ai-firm-moonshot-files-confidentially-hong-kong-ipo-sources-say-2026-09-03/
 
 This does not yet prove the book's monetization thesis. A confidential filing is not a completed IPO, and reported cloud negotiations are not signed agreements. It does make the financing question more concrete: open-model laboratories may try to fund frontier work through a mixture of capital markets, official inference, cloud economics, licensing, and platform leverage rather than through weight-file tolls alone.
+
+## Alibaba shows complement subsidy with real operating revenue
+
+Reuters reported on August 20 that Alibaba's quarterly net profit fell **75%** as the company accelerated AI infrastructure spending. It said Alibaba had consumed roughly half of its planned **380 billion yuan** AI investment program for 2026–2029 during the first half of 2026. At the same time, revenue from AI cloud and compute services rose **45%**, and Alibaba said its AI model-as-a-service business was generating more than **16 billion yuan in annual recurring revenue**.
+
+Source: https://www.reuters.com/business/retail-consumer/alibaba-beats-quarterly-revenue-estimates-2026-08-20/
+
+This is stronger evidence than a simple claim that Qwen is strategically subsidized. Alibaba is paying a large infrastructure bill, but the surrounding commercial system is also generating measurable model and cloud revenue. The next-edition argument should therefore distinguish **complement subsidy** from permanent unprofitability: a model family can be rationally financed because it enlarges a profitable adjacent market even when the weights themselves are broadly available.
+
+## Z.ai shows the gap between growth and self-financing
+
+Reuters reported on August 31 that Zhipu AI/Z.ai's first-half revenue rose roughly **400%** to **953.9 million yuan**, while the company still recorded a **2 billion yuan net loss**. Research and development spending was about **2.1 billion yuan** for the period.
+
+Source: https://www.reuters.com/business/retail-consumer/zhipu-ai-first-half-revenue-grows-400-2026-08-31/
+
+This provides a useful counterweight to both easy stories. Open-model companies can grow revenue rapidly, so the sector is not simply philanthropy financed by investors. At the same time, rapid revenue growth may remain far below the capital required to keep pushing the frontier. A durable open-model business therefore has to be evaluated on both adoption and its ability to finance the next generation.
+
+### Falsification test for the financing argument
+
+The financing interlude would be overstated if frontier training and post-training costs fall quickly enough that open releases become inexpensive relative to ordinary software-company revenue, or if leading open-model labs become comfortably self-funding through official APIs and enterprise services without substantial complement subsidy or external capital.
+
+It would be strengthened if leading open-model families remain dependent on one or more of the following: large corporate parents, public or private capital raises, cloud revenue sharing, custom commercial licenses, government support, or adjacent infrastructure businesses whose economics justify releasing weights broadly.
+
+The most informative metric is not whether a laboratory reports revenue. It is whether **captured operating surplus can finance a competitive next model without relying on a new external financing event**.
 
 ### What to watch
 
@@ -49,4 +73,6 @@ This does not yet prove the book's monetization thesis. A confidential filing is
 - whether Mistral's third-party open-model support becomes a real multi-model sovereign execution layer;
 - whether European Compute Units translate into built, available capacity rather than announced capacity;
 - whether Moonshot completes an IPO and whether Kimi cloud revenue-sharing agreements actually close;
+- whether Alibaba's AI cloud/model revenue begins covering a larger share of its infrastructure expansion;
+- whether Z.ai and other pure-model companies move from high growth toward self-funded R&D;
 - whether governments begin procuring AI sovereignty as a portfolio of substitutable layers rather than a single national model.
