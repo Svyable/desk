@@ -59,3 +59,9 @@ Its central framework is:
 This manuscript is primarily a conceptual work of cultural criticism rather than a statistical or historical survey. It deliberately avoids invented statistics and does not present composite scenes as biographies of real identifiable people. Any later research edition that adds empirical claims should source them chapter by chapter.
 
 The phrase “The Retry Generation” names a cross-generational cultural condition, not a scientific demographic cohort with fixed birth years.
+
+## Publication note
+
+Desk remains the canonical working edition and intentionally remains `Complete first draft`. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `5ee6bdb39c0d120f84a1d12fdaecbdfd01739e40` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
+
+- [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/the-retry-generation/)
