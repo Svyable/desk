@@ -156,6 +156,118 @@ Some raw data is too expensive to move continuously but worth retaining locally.
 
 The system needs explicit policy about what gets compressed, what gets preserved, and what gets forgotten.
 
+A useful way to think about the electromagnetic environment is as a test of whether the force has mistaken coordination for connectivity.
+
+Connectivity is the ability to exchange information now.
+
+Coordination is the ability to continue acting coherently even when information exchange becomes imperfect.
+
+Human militaries have long developed mission-oriented approaches for exactly this reason: subordinate elements need enough understanding of intent to continue when detailed control is impossible. Machine systems inherit the same requirement but make it more explicit because their local state can be inspected and bounded.
+
+This creates the possibility of **machine-readable commander's intent**.
+
+Not a magical translation of strategy into one formal objective function. Strategy is too rich for that. Rather, a structured set of boundaries, priorities, prohibitions, assumptions, and escalation rules that local systems can use when disconnected.
+
+What must be preserved?
+
+What can be traded away?
+
+Which conditions invalidate the current plan?
+
+Which authorities remain local?
+
+Which consequences require renewed human contact?
+
+The value of this structure is not automation for its own sake. It reduces the amount of state that must traverse the network continuously.
+
+The force does not need to micromanage every local inference if the local system understands the purpose and the limits.
+
+This also changes how network resilience should be measured. A network test that asks only how many packets arrive misses the operational question. The more useful test is: **what decisions remain coherent at each level of connectivity?**
+
+At full connectivity, the force may share rich multimodal state and use centralized synthesis.
+
+At partial connectivity, regional nodes may maintain a common picture but lose some high-bandwidth evidence.
+
+At severe degradation, local systems may operate from cached context and bounded authority.
+
+At isolation, some functions should continue and others should stop.
+
+The architecture should know the transition points in advance.
+
+This produces a **cognitive degradation curve**.
+
+Not one binary label—AI available or unavailable—but a map from network condition to remaining epistemic capability.
+
+Such a curve becomes a logistics object, a training object, and a doctrine object. Units can rehearse what happens when they descend it. Developers can test software against it. Commanders can decide which capabilities deserve local compute because they remain important at lower connectivity.
+
+The exercise also reveals hidden cloud assumptions.
+
+A model may technically run locally but depend on a remote retrieval service for important context. A planning tool may operate offline but rely on centralized identity to authorize writes. A sensor-fusion agent may preserve its model weights but lose the time synchronization needed to compare observations correctly.
+
+The system appears edge-capable until the exercise becomes realistic.
+
+This is why **offline-first** is more than a deployment preference in military inference. It is an epistemic design discipline. The local system should know which parts of its understanding are native, which are cached, which require refresh, and which cannot be trusted after some interval.
+
+A healthy disconnected system becomes more modest with time.
+
+Its map ages.
+
+Its knowledge of higher intent ages.
+
+Its confidence in other units' state ages.
+
+Some local observations become more important because they are fresh. Some global assumptions become less authoritative because they are stale.
+
+The reasoning system should reflect that temporal asymmetry.
+
+The same principle matters after reconnection. Reconciliation is not simply syncing files.
+
+Two disconnected systems may have taken actions that changed the world. They may have formed different beliefs from different evidence. One may have committed resources the other assumed were available. One may have updated software or policy locally. Reconnection creates a **history merge**.
+
+A robust system should not simply declare the newest timestamp authoritative.
+
+It needs to reconstruct causality.
+
+What happened while we were apart?
+
+Which actions were acknowledged externally?
+
+Which duplicated intentions exist?
+
+Which local observations invalidate global assumptions?
+
+Which authority changes occurred but failed to propagate?
+
+This is another reason event history matters. The force needs enough durable trace to merge two partial realities without inventing a third.
+
+Coalitions make this harder because the reconciliation boundary is also political. One ally may not be permitted to disclose the evidence behind a conclusion. Another may have taken action under national authority that cannot be represented as a shared coalition commitment. Machine systems should preserve these distinctions rather than smoothing them into one synthetic picture.
+
+Sometimes the correct shared state is explicitly incomplete.
+
+That is a mark of maturity.
+
+The temptation in networked command is to equate one picture with one truth. The electromagnetic world punishes that assumption. There may be several locally valid pictures at once, each incomplete.
+
+Military inference must therefore be capable of **plural state**.
+
+Headquarters can say: this is what the central system believes; this is what the isolated region last reported; this is what the local node currently observes; these differences are unresolved.
+
+The interface becomes more complicated.
+
+Reality already was.
+
+That complexity is preferable to false convergence.
+
+There is a final strategic consequence. A force designed around resilient inference can choose when *not* to communicate.
+
+If local systems can maintain coherent bounded behavior, the institution is less dependent on constant chatter. This can reduce bandwidth demand, simplify operations under congestion, and lower the organizational panic that accompanies intermittent links.
+
+The advantage is not secrecy in any tactical sense. It is reduced cognitive dependence on continuous synchronization.
+
+A force that needs every node to ask headquarters what reality is has built a networked bureaucracy, not distributed intelligence.
+
+A force that can preserve intent, uncertainty, and bounded authority locally has built something more resilient.
+
 This is why the electromagnetic argument reaches beyond radios.
 
 It asks whether the force's intelligence architecture remains intellectually honest when the network stops behaving like the diagram.
