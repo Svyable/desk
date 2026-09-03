@@ -71,6 +71,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Never Ending Intelligence](https://svyable.github.io/desk/books/the-never-ending-intelligence/README.md)
 - [The Potentiality](https://svyable.github.io/desk/books/the-potentiality/README.md)
 - [The Reliability Tax](https://svyable.github.io/desk/books/the-reliability-tax/README.md)
+- [The Risk Pool](https://svyable.github.io/desk/books/the-risk-pool/README.md)
 - [The Search Frontier](https://svyable.github.io/desk/books/the-search-frontier/README.md)
 - [The Second Order](https://svyable.github.io/desk/books/the-second-order/README.md)
 - [The Swarm: Agents in the Wild](https://svyable.github.io/desk/books/the-swarm-agents-in-the-wild/README.md)
