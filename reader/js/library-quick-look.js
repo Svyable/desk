@@ -58,11 +58,8 @@ export function decorateLibraryVolume(volume, meta, progress = null) {
   setText(preview, '.volume-quick-tags', previewModel.tags.join(' · '));
   setText(preview, '.volume-quick-progress', previewModel.progressText);
 
-  const open = volume.querySelector('.volume-open');
-  if (open && open.textContent !== previewModel.action) open.textContent = previewModel.action;
   volume.setAttribute('aria-label', previewModel.ariaLabel);
   volume.dataset.quickLook = 'ready';
-  volume.dataset.hasReadingProgress = previewModel.progressText ? 'true' : 'false';
   return true;
 }
 
@@ -78,18 +75,11 @@ function decorateAll(root = document) {
   root.querySelectorAll?.('a.volume[href*="#/b/"]').forEach(decorateVolume);
 }
 
-function volumeForMutationTarget(target) {
-  const element = target instanceof Element ? target : target?.parentElement;
-  return element?.closest?.('a.volume[href*="#/b/"]') || null;
-}
-
 function observeLibrary(root = document) {
   const library = root.getElementById?.('libraryView') || root.getElementById?.('binderView');
   if (!library) return;
   const observer = new MutationObserver((records) => {
     for (const record of records) {
-      const changedVolume = volumeForMutationTarget(record.target);
-      if (changedVolume) decorateVolume(changedVolume);
       for (const node of record.addedNodes || []) {
         if (!(node instanceof Element)) continue;
         if (node.matches?.('a.volume[href*="#/b/"]')) decorateVolume(node);
@@ -97,7 +87,7 @@ function observeLibrary(root = document) {
       }
     }
   });
-  observer.observe(library, { childList: true, subtree: true, characterData: true });
+  observer.observe(library, { childList: true, subtree: true });
 }
 
 async function loadMetadata() {
