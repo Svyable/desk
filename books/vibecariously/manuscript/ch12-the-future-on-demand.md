@@ -135,3 +135,57 @@ The future has always been imaginary until it arrives.
 Generative AI does not change that.
 
 It changes how convincing the imagination can look while we are still deciding.
+
+## The politics of default futures
+
+Every future-making system has defaults, even when the interface presents itself as open-ended.
+
+Ask for “a thriving downtown in 2040” and the system must decide what thriving looks like. More people? More shops? Taller buildings? Cleaner sidewalks? Electric vehicles? Fewer vehicles? Luxury storefronts? Street vendors? Families? Tourists? Trees? Screens? Police? Bicycles? Density? Quiet?
+
+The prompt sounds descriptive, but the output cannot avoid values.
+
+This is especially important when institutions use generative tools in public decision-making. A planning department may believe it is merely helping residents visualize options while the model repeatedly renders prosperity with the same architectural language. A school district may visualize “the classroom of the future” and accidentally encode assumptions about surveillance, device use, class size, disability, teacher authority, or the role of physical books. A health system may illustrate “efficient care” in ways that remove visible waiting but also remove visible human contact.
+
+Defaults become political when they define the visual center of the imaginable.
+
+The solution is not to demand value-free images. There are none. It is to make value choices contestable.
+
+A good civic process could expose the prompt and the assumptions behind the prompt. It could let different groups produce alternate renderings from the same technical constraints. It could deliberately ask for futures organized around competing goals: lowest cost, highest accessibility, lowest emissions, highest commercial activity, maximum shade, maximum housing, minimum displacement.
+
+The disagreement should move upstream into the values, not remain hidden downstream in the picture.
+
+This matters because visual consensus can arrive before policy consensus. A room can look at a beautiful image and agree that it is beautiful while disagreeing radically about the mechanisms required to produce it. The image creates a temporary coalition of aesthetic approval that may dissolve when taxes, zoning, enforcement, maintenance, labor, or ownership enter the conversation.
+
+That aesthetic coalition is not worthless. It can reveal shared desire.
+
+But shared desire is not shared strategy.
+
+Generative systems make it easier to discover the first. Politics still has to do the second.
+
+## Futures should come with receipts
+
+A practical norm may emerge around synthetic futures: show the receipt.
+
+Not a literal cash receipt, though cost is part of it. A receipt is the list of conditions hidden behind the image.
+
+What data was used? Which assumptions were fixed? Which elements were invented for visual coherence? What time horizon is represented? Which costs are excluded? Which people are missing from the scene? What uncertainty range surrounds the claim? Is this generated from a physical simulation, from a statistical forecast, from an expert plan, or simply from a descriptive prompt?
+
+Two pictures can look equally realistic while resting on completely different epistemic foundations.
+
+One may be constrained by engineering drawings, a funded budget, and a construction schedule. Another may be a speculative composition produced from three adjectives. The surface does not tell you which is which.
+
+Receipts restore that distinction.
+
+They also improve imagination rather than constraining it. Once the assumptions are explicit, users can vary them deliberately. What if maintenance funding falls twenty percent? What if energy prices rise? What if the population grows more slowly? What if the project must preserve existing tenants? What if the budget is cut in half? What if the summer is five degrees hotter?
+
+The future becomes a family of conditional images rather than a single enchanted object.
+
+That is a healthier relationship with prediction.
+
+The goal is not to drain emotion from future-making. People act because futures matter to them. A spreadsheet rarely mobilizes desire by itself.
+
+The goal is to let vividness and accountability travel together.
+
+The future can have a trailer.
+
+It should also have credits.
