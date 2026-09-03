@@ -280,6 +280,48 @@ The question "Can I get a policy?" is often another way of asking "Am I allowed 
 
 That question will become more common as familiar risks get harder to price and unfamiliar risks get larger.
 
+There is a practical flaw in the permission system that deserves attention because it is so mundane: the certificate can become more important than the contract behind it.
+
+Organizations often ask for proof of insurance as a procurement checkbox. A certificate lists carrier, limits, dates, and categories. The document can create the impression that the requested risk has been transferred cleanly.
+
+It has not necessarily been.
+
+The actual policy contains definitions, exclusions, retentions, sublimits, endorsements, territorial limits, notice requirements, and aggregation language. A five-million-dollar limit means little if the relevant event is excluded. A cyber policy can exist while a particular systemic event is carved out. A contractor can satisfy a general-liability requirement while professional errors sit elsewhere. A vendor can meet the requested limit while dozens of customers each believe the same finite policy exists principally for them.
+
+The certificate is evidence of a promise, not the promise itself.
+
+This distinction matters more as contracts become increasingly dependent on insurance requirements drafted by people far from the risk. Procurement teams copy clauses. Customers demand limits because similar customers demand them. Small vendors buy whatever policy lets them check the box. Nobody asks whether the requested coverage maps to the failure that could actually interrupt the relationship.
+
+Permission becomes ceremonial.
+
+A better system starts with the loss scenario rather than the certificate.
+
+What could this counterparty do that would hurt us badly?
+
+Which balance sheet should absorb the first loss?
+
+Which policy responds?
+
+How much limit is shared with other claimants?
+
+What exclusions matter?
+
+Can the counterparty survive the deductible and uninsured portion?
+
+Does the requested insurance create better controls, or merely more paperwork?
+
+These questions turn insurance from a procurement ritual back into risk allocation.
+
+They also expose a limit of compulsory insurance as policy. Requiring coverage can protect third parties only if coverage is available on workable terms and the required limit has a plausible relationship to the harm. Set the minimum too low and the mandate becomes symbolic. Set it too high and the rule can exclude smaller participants without creating proportional social benefit.
+
+The permission system therefore needs calibration.
+
+A good requirement is large enough to make the promise credible, targeted enough to match the real exposure, and flexible enough that strong firms can sometimes demonstrate equivalent financial capacity through retention, guarantees, captives, or other structures.
+
+The goal is not to make everyone buy a policy.
+
+The goal is to prevent risky activity from being financed by an empty promise.
+
 The coming insurance debate is therefore not only about how much premiums rise.
 
 It is about where economic permission migrates when the private promise becomes scarce.
