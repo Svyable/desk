@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 24 author projects · 22 released · 2 public drafts/proofs**
-> **Where they live: 24 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
-> **Release review queue: 12 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 25 author projects · 23 released · 2 public drafts/proofs**
+> **Where they live: 25 in both Desk + Shelf · 39 Desk-only · 0 Shelf-only**
+> **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
+| [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/keep-cooking/) |
@@ -44,7 +45,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -70,7 +71,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 6 of 20 | 16,416 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 76,091 | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
-| [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
+| [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 | 65,156 | The United States does not face a single $10 trillion bill arriving on one morning. | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✍️ Drafting | 17 of 21 | 56,606 | This is an unpublished Desk manuscript. Its central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | 17 of 17 + prologue + conclusion | 43,255 | Intelligence State follows that transformation across the Americas and asks a harder question than who builds the best model: who can make intelligence abundant without making sovereignty… | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
