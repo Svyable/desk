@@ -29,12 +29,20 @@ The central thesis is that open AI does not abolish ownership; it rearranges it.
 - [x] [Ch 12 — Local Means Leverage](manuscript/ch18-local-means-leverage.md)
 - [x] [Ch 13 — The Safety Asymmetry](manuscript/ch19-the-safety-asymmetry.md)
 - [x] [Ch 14 — The Enterprise Fork](manuscript/ch20-the-enterprise-fork.md)
+- [x] [Interlude — The Scarcity Ledger](manuscript/interlude-the-scarcity-ledger.md)
+- [x] [Interlude — What If the Moat Is Real?](manuscript/interlude-what-if-the-moat-is-real.md)
+- [x] [Interlude — The Copy Machine](manuscript/interlude-the-copy-machine.md)
 - [x] [Ch 15 — The 2027 Price War](manuscript/ch21-the-2027-price-war.md)
 - [x] [Ch 16 — The New Open Cartels](manuscript/ch22-the-new-open-cartels.md)
 - [x] [Ch 17 — Five Bets on 2027](manuscript/ch23-five-bets-on-2027.md)
+- [x] [Coda — The 2027 Dashboard](manuscript/coda-the-2027-dashboard.md)
 - [x] [Ch 18 — The Intelligence Commons](manuscript/ch24-the-intelligence-commons.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research trail
 
 Research notes, chapter briefs, and a source ledger live in [`research/`](research/). Contemporary claims are dated and source-linked there so later editions can distinguish 2026 reporting from the book's explicit 2027 forecasts.
+
+## Publication note
+
+This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `e10890eb72316fd88308089646a86c1ef2ca0994` on September 2, 2026. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot.

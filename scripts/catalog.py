@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Generate the Svyable Desk book dashboard and audit Reader-facing manifests.
 
-Local-first by design: this script reads only repository files and needs no
-network access or third-party packages.
+Local-first by design: this script reads repository files and, when available,
+a sibling Shelf checkout. It needs no network access or third-party packages.
 """
 from __future__ import annotations
 
@@ -15,7 +15,12 @@ from pathlib import Path
 
 CATALOG_START = "<!-- DESK_CATALOG:START -->"
 CATALOG_END = "<!-- DESK_CATALOG:END -->"
+DESK_SUMMARY_START = "<!-- DESK_SUMMARY:START -->"
+DESK_SUMMARY_END = "<!-- DESK_SUMMARY:END -->"
+SHELF_SUMMARY_START = "<!-- SHELF_SUMMARY:START -->"
+SHELF_SUMMARY_END = "<!-- SHELF_SUMMARY:END -->"
 READER_BASE = "https://svyable.github.io/desk/reader/#/b/"
+SHELF_READER_BASE = "https://svyable.github.io/shelf/reader/#/b/"
 WORD_RE = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
 TITLE_RE = re.compile(r"^#\s+(.+?)\s*$", re.MULTILINE)
 CHECKLIST_LINK_RE = re.compile(
@@ -35,6 +40,13 @@ class BookRow:
     chapters: str
     words: int
     summary: str
+
+
+@dataclass(frozen=True)
+class ShelfRow:
+    slug: str
+    title: str
+    state: str
 
 
 @dataclass(frozen=True)
@@ -143,12 +155,22 @@ def title_for(markdown: str, slug: str) -> str:
 
 def status_for(markdown: str) -> str:
     value = table_cell(markdown, "Status") or "Drafting"
+    value = re.sub(r"^[✅🔁✍️🟡]+\s*", "", value).strip()
     low = value.lower()
     if "complete" in low:
         return f"✅ {value}"
     if "revision" in low or "editing" in low:
         return f"🔁 {value}"
     return f"✍️ {value}"
+
+
+def status_key(value: str) -> str:
+    low = value.lower()
+    if "complete" in low:
+        return "complete"
+    if "revision" in low or "editing" in low:
+        return "revision"
+    return "drafting"
 
 
 def chapters_for(markdown: str) -> str:
@@ -160,6 +182,12 @@ def chapters_for(markdown: str) -> str:
         drafted = sum(mark.strip().lower() == "x" for mark, _title, _path in items)
         return f"{drafted} / {len(items)} sections"
     return "—"
+
+
+def normalize_chapters(value: str) -> str:
+    value = value.lower().replace("drafted", "").replace(" of ", " / ")
+    value = re.sub(r"\s*/\s*", "/", value)
+    return re.sub(r"\s+", " ", value).strip()
 
 
 def real_books(root: Path) -> list[Path]:
@@ -190,6 +218,26 @@ def load_rows(root: Path) -> list[BookRow]:
     return rows
 
 
+def load_shelf_rows(shelf_root: Path | None) -> list[ShelfRow] | None:
+    if shelf_root is None or not (shelf_root / "books").is_dir():
+        return None
+    rows: list[ShelfRow] = []
+    for book in sorted((shelf_root / "books").iterdir()):
+        if not book.is_dir() or book.name.startswith(("_", "style-")):
+            continue
+        readme = book / "README.md"
+        markdown = read(readme) if readme.is_file() else ""
+        raw_status = table_cell(markdown, "Status") or "Drafting"
+        if "publish" in raw_status.lower() or "release" in raw_status.lower():
+            state = "✅ Released"
+        elif "public proof" in markdown.lower() or "unlisted" in markdown.lower():
+            state = "🟡 Public proof"
+        else:
+            state = "🟡 Public draft"
+        rows.append(ShelfRow(book.name, title_for(markdown, book.name), state))
+    return rows
+
+
 def markdown_escape(value: str) -> str:
     return value.replace("|", "\\|").replace("\n", " ").strip()
 
@@ -215,15 +263,72 @@ def render_table(rows: list[BookRow]) -> str:
     return "\n".join(lines)
 
 
-def replace_catalog(readme: str, table: str) -> str:
-    start = readme.find(CATALOG_START)
-    end = readme.find(CATALOG_END)
+def render_desk_summary(rows: list[BookRow]) -> str:
+    counts = {"complete": 0, "revision": 0, "drafting": 0}
+    for row in rows:
+        counts[status_key(row.status)] += 1
+    return "\n".join([
+        DESK_SUMMARY_START,
+        f"> **Desk: {len(rows)} book projects · {counts['complete']} complete drafts · "
+        f"{counts['revision']} in revision · {counts['drafting']} drafting**",
+        DESK_SUMMARY_END,
+    ])
+
+
+def render_shelf_summary(desk_rows: list[BookRow], shelf_rows: list[ShelfRow]) -> str:
+    desk_by_slug = {row.slug: row for row in desk_rows}
+    shelf_slugs = {row.slug for row in shelf_rows}
+    desk_slugs = set(desk_by_slug)
+    overlap = desk_slugs & shelf_slugs
+    released = sum("Released" in row.state for row in shelf_rows)
+    public_drafts = len(shelf_rows) - released
+    release_queue = [
+        row for row in desk_rows
+        if status_key(row.status) == "complete" and row.slug not in shelf_slugs
+    ]
+
+    lines = [
+        SHELF_SUMMARY_START,
+        f"> **Shelf: {len(shelf_rows)} author projects · {released} released · "
+        f"{public_drafts} public drafts/proofs**",
+        f"> **Where they live: {len(overlap)} in both Desk + Shelf · "
+        f"{len(desk_slugs - shelf_slugs)} Desk-only · {len(shelf_slugs - desk_slugs)} Shelf-only**",
+        f"> **Release review queue: {len(release_queue)} complete drafts are Desk-only.** "
+        "`Complete draft` means manuscript-complete, not automatically approved for release.",
+        "",
+        "| Public project | Desk state | Shelf state | Open |",
+        "|---|---|---|---|",
+    ]
+    for shelf in shelf_rows:
+        desk = desk_by_slug.get(shelf.slug)
+        desk_state = desk.status if desk else "— Not in Desk"
+        desk_link = f"[**{markdown_escape(shelf.title)}**](books/{shelf.slug}/)" if desk else f"**{markdown_escape(shelf.title)}**"
+        lines.append(
+            f"| {desk_link} | {markdown_escape(desk_state)} | {shelf.state} | "
+            f"[Shelf →]({SHELF_READER_BASE}{shelf.slug}/) |"
+        )
+    lines.extend([
+        "",
+        "**Desk-only complete drafts awaiting an explicit release decision:** "
+        + (", ".join(f"[{row.title}](books/{row.slug}/)" for row in release_queue) if release_queue else "none"),
+        SHELF_SUMMARY_END,
+    ])
+    return "\n".join(lines)
+
+
+def replace_marked(readme: str, start_marker: str, end_marker: str, replacement: str) -> str:
+    start = readme.find(start_marker)
+    end = readme.find(end_marker)
     if start < 0 or end < 0 or end < start:
         raise ValueError(
-            f"README.md must contain {CATALOG_START!r} and {CATALOG_END!r} markers."
+            f"README.md must contain {start_marker!r} and {end_marker!r} markers."
         )
-    end += len(CATALOG_END)
-    return readme[:start] + table + readme[end:]
+    end += len(end_marker)
+    return readme[:start] + replacement + readme[end:]
+
+
+def replace_catalog(readme: str, table: str) -> str:
+    return replace_marked(readme, CATALOG_START, CATALOG_END, table)
 
 
 def catalog_slugs(readme: str) -> list[str]:
@@ -234,12 +339,30 @@ def catalog_slugs(readme: str) -> list[str]:
     return re.findall(r"\]\(books/([a-z0-9][a-z0-9-]*)/\)", section)
 
 
+def catalog_metadata(readme: str) -> dict[str, tuple[str, str]]:
+    start = readme.find(CATALOG_START)
+    end = readme.find(CATALOG_END)
+    if start < 0 or end < 0 or end < start:
+        return {}
+    metadata: dict[str, tuple[str, str]] = {}
+    for line in readme[start:end].splitlines():
+        match = re.search(r"\]\(books/([a-z0-9][a-z0-9-]*)/\)", line)
+        if not match:
+            continue
+        parts = line.strip().split(" | ")
+        if len(parts) < 4:
+            continue
+        metadata[match.group(1)] = (parts[1].strip(), parts[2].strip())
+    return metadata
+
+
 def audit(root: Path, rows: list[BookRow]) -> list[Finding]:
     findings: list[Finding] = []
     readme_path = root / "README.md"
     root_readme = read(readme_path) if readme_path.is_file() else ""
     actual = [row.slug for row in rows]
     listed = catalog_slugs(root_readme)
+    metadata = catalog_metadata(root_readme)
 
     missing = sorted(set(actual) - set(listed))
     extra = sorted(set(listed) - set(actual))
@@ -251,6 +374,20 @@ def audit(root: Path, rows: list[BookRow]) -> list[Finding]:
         findings.append(Finding("error", "catalog_duplicate", "README", "The books catalog contains duplicate book links."))
 
     for row in rows:
+        current = metadata.get(row.slug)
+        if current:
+            current_status, current_chapters = current
+            if status_key(current_status) != status_key(row.status):
+                findings.append(Finding(
+                    "error", "catalog_status_stale", row.slug,
+                    f"Dashboard stage {current_status!r} disagrees with book README {row.status!r}. Run scripts/catalog.py --write.",
+                ))
+            if normalize_chapters(current_chapters) != normalize_chapters(row.chapters):
+                findings.append(Finding(
+                    "error", "catalog_progress_stale", row.slug,
+                    f"Dashboard progress {current_chapters!r} disagrees with book README {row.chapters!r}. Run scripts/catalog.py --write.",
+                ))
+
         book = root / "books" / row.slug
         readme = book / "README.md"
         if not readme.is_file():
@@ -275,24 +412,31 @@ def audit(root: Path, rows: list[BookRow]) -> list[Finding]:
             findings.append(Finding("error", "manuscript_empty", row.slug, "manuscript/ contains no Markdown files."))
 
     if not findings:
-        findings.append(Finding("ok", "reader_ready", "Desk", f"{len(rows)} catalog books have Reader-visible manifests."))
+        findings.append(Finding("ok", "reader_ready", "Desk", f"{len(rows)} catalog books have Reader-visible manifests and fresh dashboard metadata."))
     return findings
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", default=".", help="Desk repository root")
-    parser.add_argument("--write", action="store_true", help="Rewrite the marked README catalog with live local stats")
+    parser.add_argument("--shelf-root", default=None, help="Optional Shelf checkout root; defaults to a sibling ../shelf when present")
+    parser.add_argument("--write", action="store_true", help="Rewrite marked README dashboard blocks with live local stats")
     parser.add_argument("--json", action="store_true", dest="as_json", help="Emit rows and audit findings as JSON")
     args = parser.parse_args(argv)
 
     root = Path(args.root).resolve()
+    shelf_root = Path(args.shelf_root).resolve() if args.shelf_root else root.parent / "shelf"
+    shelf_rows = load_shelf_rows(shelf_root)
     rows = load_rows(root)
     findings = audit(root, rows)
 
     if args.write:
         readme_path = root / "README.md"
-        updated = replace_catalog(read(readme_path), render_table(rows))
+        updated = read(readme_path)
+        updated = replace_marked(updated, DESK_SUMMARY_START, DESK_SUMMARY_END, render_desk_summary(rows))
+        updated = replace_catalog(updated, render_table(rows))
+        if shelf_rows is not None:
+            updated = replace_marked(updated, SHELF_SUMMARY_START, SHELF_SUMMARY_END, render_shelf_summary(rows, shelf_rows))
         readme_path.write_text(updated, encoding="utf-8")
         rows = load_rows(root)
         findings = audit(root, rows)
@@ -301,10 +445,16 @@ def main(argv: list[str] | None = None) -> int:
     if args.as_json:
         print(json.dumps({
             "books": [asdict(row) for row in rows],
+            "shelf": [asdict(row) for row in shelf_rows] if shelf_rows is not None else None,
             "findings": [asdict(finding) for finding in findings],
             "healthy": not errors,
         }, indent=2, ensure_ascii=False))
     else:
+        print(render_desk_summary(rows))
+        if shelf_rows is not None:
+            print()
+            print(render_shelf_summary(rows, shelf_rows))
+        print()
         print(render_table(rows))
         print()
         for finding in findings:

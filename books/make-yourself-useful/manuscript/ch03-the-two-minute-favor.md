@@ -158,6 +158,8 @@ Anybody who has watched a fast typist snatch a keyboard from a slower one has se
 
 Good help preserves agency where it can.
 
+There is evidence for this beyond etiquette. In two workplace studies published in 2024, employees who were offered help they did not want reported more frustration of autonomy and competence. In a two-wave study, autonomy frustration was then associated with more after-work rumination and poorer psychological detachment. The studies do not show that unsolicited help inevitably causes harm, and other research in this chapter shows that receiving help can reduce strain. They do show why the recipient’s judgment belongs in the definition of useful. A favor can solve the task and still take something away.
+
 Sometimes that means doing the task together. Sometimes it means writing down the steps. Sometimes it means making the introduction and leaving the conversation. Sometimes the person really does need you to carry the thing because they are exhausted, sick, grieving, out of time, or dealing with a system that has become absurd. Human beings are not training exercises. There is no virtue in making someone struggle through every obstacle for educational value.
 
 Judgment is the work.

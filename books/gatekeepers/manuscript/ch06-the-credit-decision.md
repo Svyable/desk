@@ -86,6 +86,10 @@ This matters because credit data are not an oracle. They are records assembled b
 
 The Fair Credit Reporting Act governs consumer reporting and creates obligations around permissible use, accuracy processes, disputes, and notifications when information from a consumer report contributes to adverse action. Credit bureaus collect information. Furnishers send information. Lenders and other authorized users consume it. Errors can enter at multiple points.
 
+In January 2025, the CFPB found that Equifax had introduced test code into a production scoring-model server and then sold inaccurate credit scores and attributes. Equifax's own analysis found that more than 600,000 consumers had scores fall by at least ten points because of the error; more than 100,000 fell by more than twenty-five. Some may have been offered worse credit terms as a result.
+
+That episode does not show that credit scores are generally unreliable, or that a human underwriter would have done better. It shows something narrower and more useful: an error in one piece of infrastructure can travel downstream wearing the authority of a number.
+
 A misspelled name may be trivial. An account attributed to the wrong person is not. A debt recorded as unpaid after settlement can change a score. Identity theft can create accounts the consumer never opened. A duplicate obligation can make indebtedness look worse than it is.
 
 When data become gatekeeping infrastructure, error correction becomes access policy.

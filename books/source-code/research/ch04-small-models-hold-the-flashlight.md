@@ -1,0 +1,25 @@
+# Chapter 4 — Why Small Models Hold the Flashlight
+
+## Claim under test
+
+Chapter 4 argues that repository investigation benefits from separating exploration from synthesis: cheap, narrow workers should perform repeated search and evidence collection, while more capable models should spend their reasoning budget on hypothesis formation, contradiction, and integration. The architectural intuition is strong, but the current manuscript treats the specific role of *small models* as more established than the public evidence warrants.
+
+## Research checked
+
+- Shaoqiu Zhang et al., *SWE-Explore: Benchmarking How Coding Agents Explore Repositories* (arXiv:2606.07297, June 5, 2026) and the authors’ released benchmark repository. SWE-Explore isolates repository exploration from patch generation: given an issue and repository snapshot, an explorer returns ranked code regions under a fixed line budget. The benchmark covers 848 issues across 203 open-source repositories and 10 programming languages. Its authors report that exploration metrics such as line coverage, ranking, and context efficiency track downstream repair behavior when the retrieved context is fed to a fixed coding agent. This directly supports Chapter 4’s broader claim that finding the right evidence is a separable engineering problem rather than merely a context-window inconvenience. https://arxiv.org/abs/2606.07297 ; https://github.com/Qiushao-E/SWE-Explore-Bench
+- Fuwei Zhang et al., *CORE-Bench: A Comprehensive Benchmark for Code Retrieval in the Era of Agentic Coding* (arXiv:2606.11864, June 10, 2026) and the authors’ evaluation repository. CORE-Bench distinguishes traditional code understanding from issue-to-edit localization and broader context retrieval. Its Level 2 evaluation spans 5,061 queries across 632 repositories and Level 3 spans 2,580 queries across 97 repositories, with millions of repository chunks serving as distractors. The benchmark authors report a sharp performance drop when retrieval moves from conventional snippet search to repository-grounded agentic tasks, reinforcing the chapter’s point that repository comprehension is fundamentally a relevance-selection problem. https://arxiv.org/abs/2606.11864 ; https://github.com/zhangfw123/CORE-Bench-Eval
+- SWE-bench project documentation and benchmark repository. SWE-bench evaluates end-to-end resolution of real GitHub issues against repository snapshots and executable tests. Its success as a benchmark is useful context for Chapter 4 because it also demonstrates the limitation SWE-Explore is explicitly trying to fix: a final pass/fail repair score does not reveal whether an agent failed to find the relevant code or found it and reasoned incorrectly. https://github.com/SWE-bench/SWE-bench
+
+Sources rechecked September 2, 2026.
+
+## Counterevidence and boundary conditions
+
+The strongest limitation is also the most important editorial one: these results support **exploration as a distinct capability**, not the chapter’s stronger prescription that the exploration tier should specifically use smaller models. SWE-Explore reports that agentic explorers outperform classical retrieval baselines and compares several general and specialized agents, but it does not establish a universal cost-quality frontier on which smaller language models are optimal search workers. A stronger model may justify its higher inference cost if it requires fewer searches, recognizes better anchors, follows semantic relationships that grep misses, or avoids expensive false leads.
+
+Likewise, deterministic retrieval remains surprisingly competitive for some subproblems. Exact-string search, symbol lookup, static indexing, test discovery, and file enumeration do not require a language model at all. The most economical architecture may therefore be heterogeneous: deterministic tools for literal questions, small models for bounded classification and navigation, and larger models when exploration itself requires semantic inference. The relevant quantity is not model size in isolation but the all-in cost of acquiring reliable evidence, including retries, latency, missed context, and verification.
+
+The chapter’s claim would be weakened if larger agents consistently produce substantially better repository coverage per dollar or per unit of latency once search failures and downstream repair rates are included. It would be strengthened by controlled experiments that hold tools and tasks constant while varying explorer model capability, measuring cost, line-level evidence coverage, false-positive context, and downstream repair success.
+
+## Editorial implication
+
+The manuscript should preserve its useful division between **fan-out evidence collection** and **expensive synthesis**, because recent benchmarks now give that separation empirical support. But “small models hold the flashlight” should remain a design hypothesis rather than a settled law. The stronger formulation is economic and falsifiable: use the cheapest searcher that reliably finds the evidence the synthesizer needs, and escalate when the search problem itself becomes semantic.

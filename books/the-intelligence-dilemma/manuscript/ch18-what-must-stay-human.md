@@ -1,495 +1,285 @@
 # What Must Stay Human
 
-A student raises a hand and then lowers it before the teacher turns around.
+A student raises a hand and lowers it before the teacher turns around.
 
-Nothing has been said.
+Nothing has been submitted.
 
-No assignment has been submitted.
+No score changes.
 
-No score has changed.
-
-A system watching only the formal work may have nothing to record.
+A system watching formal work may have nothing to record.
 
 A teacher who knows the room may still notice.
 
-Maybe the student has stopped volunteering after being wrong twice in front of the class. Maybe she is tired. Maybe she has understood the material and no longer needs help. Maybe a friend made a comment at lunch. Maybe the teacher is imagining a pattern that is not there.
+Maybe the student has stopped volunteering after being wrong twice. Maybe she is tired. Maybe she understands and no longer needs help. Maybe the teacher is imagining a pattern that is not there.
 
 The observation is weak.
 
-It is also part of teaching.
+It is also part of education.
 
-Education contains a large amount of work that does not look like explanation.
+This is not an argument that humans possess a mystical perception machines can never acquire.
 
-The teacher decides whether to call on the student anyway.
+Teachers miss signals. They favor students. They misread silence. They become impatient. Human judgment does not become trustworthy merely by being human.
 
-Whether to wait.
+The stronger question is different.
 
-Whether to ask after class.
+What parts of education depend on being in continuing relationships with people who have their own needs, memories, obligations, and power to respond?
 
-Whether to seat two students apart for a week.
+That question survives improvements in machine capability.
 
-Whether a joke needs to be stopped or allowed to dissolve.
-
-Whether a child who says “I don’t care” means it.
-
-Whether a group has become unkind.
-
-Whether a student needs another chance, a harder problem, a boundary, a witness, or simply a quiet afternoon.
-
-These are not mystical human powers.
-
-Teachers make these judgments badly sometimes. They miss signals. They favor students. They misread silence. They become impatient. They can mistake compliance for learning and confidence for competence. Human judgment is not protected from error by being human.
-
-That is not the argument for keeping it.
-
-The argument is that school is not only a system for transferring answers.
-
-It is a place where people learn how to be among other people while trying to become more capable.
-
-When explanation becomes abundant, that social function does not disappear.
-
-It becomes easier to see.
-
-A sufficiently capable tutor can explain photosynthesis at midnight.
-
-It can generate another example when the first one fails.
-
-It can translate a paragraph, quiz a student, simulate a debate, revise a practice set, or offer feedback without becoming tired of the same mistake.
+A sufficiently capable AI tutor can explain algebra at midnight, translate a passage, generate practice, rehearse a debate, and remain patient through repeated mistakes.
 
 Those are real advantages.
 
-But a student does not go to school only because explanations are scarce.
+A student does not go to school only because explanations are scarce.
 
-A student goes into a room with other people.
+The student enters a small public.
 
 Other people interrupt.
 
 They misunderstand.
 
-They laugh at the wrong moment.
-
-They refuse to cooperate.
-
 They are better at something.
 
 They are worse at something.
+
+They want the same role in the project.
+
+They refuse to cooperate.
 
 They notice you.
 
 They fail to notice you.
 
-They want the same role in the project.
+They remember what happened yesterday.
 
-They have a different interpretation of the story.
-
-They make the game unfair.
-
-They apologize badly.
-
-They change their minds.
+They make claims on your time.
 
 This is inefficient.
 
-It is also education.
+It is also practice for living among independent minds.
 
-The temptation in an AI-rich school will be to treat human friction as a defect in delivery.
-
-If a student can receive perfectly patient one-to-one assistance, why spend an hour in a class where the teacher's attention is divided?
-
-If a model can adapt the sequence instantly, why make twenty-four students move through anything together?
-
-If a student learns faster alone, why preserve the room?
-
-Sometimes there will be no good reason.
-
-Schools should not protect every inherited routine merely because it contains humans. A lecture can be worse than an interactive tutor. A poorly run group project can waste everyone's time. A student with a disability may gain independence from a tool that provides support more reliably than an institution ever did. A shy student may ask questions of a machine that she would never ask publicly. A multilingual student may finally get explanations in a language available at home.
-
-The human part of school should have to justify itself too.
-
-The strongest justification is not warmth.
-
-It is relationship as part of learning.
-
-Research on teacher-student relationships has repeatedly found associations with student engagement and, more modestly, achievement. Roorda and colleagues' 2017 meta-analytic update examined affective teacher-student relationships, engagement, and achievement across many studies. Positive relationships were more strongly associated with engagement than with achievement, and negative relationships showed their own patterns.
-
-That is an important distinction.
-
-A teacher is not a treatment whose value can be reduced to a test-score effect.
-
-The relationship changes whether a student enters the work.
-
-Whether the student persists.
-
-Whether correction feels like information or humiliation.
-
-Whether asking for help feels safe.
-
-Whether the student believes an adult has noticed enough to expect more.
-
-Motivation is not a decorative layer added after cognition. *How People Learn II* treats belonging, agency, purpose, emotional support, and perceived value as part of the conditions under which people learn.
-
-A machine can contribute to those conditions.
-
-It can use encouraging language. It can remember goals. It can avoid public embarrassment. It can provide a low-stakes place to practice.
-
-But simulated responsiveness is not identical to membership in a human community.
-
-A student who is absent for three days may receive a personalized recap from software.
-
-A classmate asking “Where were you?” is doing something else.
-
-The difference is not superior information.
-
-It is evidence that the absence occurred inside somebody else's world.
-
-Belonging has costs because other people have claims on you.
-
-You are expected to show up.
-
-Take your turn.
-
-Listen when the answer is not about you.
-
-Carry your share of the group.
-
-Notice when someone else is lost.
-
-Repair damage after a conflict.
-
-Accept that the room cannot personalize itself perfectly around your preferences.
-
-An intelligent tutor can be optimized toward the learner.
+An intelligent tutor can be optimized around the learner.
 
 A community cannot.
 
-That limitation is educationally useful.
+That limitation can be educationally valuable.
 
-Much of adult life consists of participating in systems that contain other people's needs.
+Other people are not interfaces.
 
-Workplaces, families, teams, neighborhoods, professions, juries, laboratories, hospitals, and governments are not infinitely adaptive personal interfaces.
+They do not exist to provide the most helpful response. A classmate may disagree for reasons that do not collapse after a better prompt. A teammate may refuse to take the unwanted role again. A teacher may preserve a standard the student would prefer to personalize away.
 
-People have to negotiate shared standards and inconvenient obligations.
+Much of adult life consists of participating in systems full of other people’s purposes: families, teams, professions, neighborhoods, laboratories, hospitals, courts, governments.
 
-School is one of the places where this becomes ordinary.
+School is one place where those obligations become ordinary.
 
-That does not mean schools should manufacture discomfort for character building.
+This does not mean human friction deserves protection simply because it is human.
 
-It means friction should not automatically be treated as a bug.
+A poor lecture can be worse than a good tutor. A dysfunctional group project can waste time. A student with a disability may receive more reliable support from a tool than from an institution. A shy or multilingual student may find it easier to ask a machine a question that feels socially expensive in class.
 
-Some friction is the presence of another person.
+The human environment has to justify itself too.
 
-This is especially clear in conflict.
+One justification is relationship as part of the conditions for learning.
 
-A model can teach a student the language of disagreement.
+Research on teacher–student relationships repeatedly finds associations with engagement and achievement, with engagement often showing the stronger relationship. The literature contains substantial correlational evidence, so relationship should not be treated as a simple causal intervention.
 
-It can generate arguments on both sides.
+The narrower point is enough.
 
-It can coach an apology.
+Whether students feel known, safe enough to reveal confusion, and connected to the work affects what educators can see and what students are willing to attempt.
 
-It can simulate a difficult conversation.
+The emotional climate changes the informational climate.
 
-Useful.
+A class where being wrong is humiliating produces bad data because students learn to hide uncertainty.
 
-Then the student has to face the person who was actually hurt.
+AI can help by creating a private place for the embarrassing first question.
 
-The outcome is no longer generated.
+That is valuable.
+
+The risk is a school in which machines receive honesty while adults receive performance.
+
+A student should be able to use private machine assistance as a bridge into learning, not as the only relationship in which confusion feels survivable.
+
+The same logic applies to belonging.
+
+A personalized recap can tell a student what was missed after three days of absence.
+
+A classmate asking, “Where were you?” carries different information.
+
+It says the absence happened inside somebody else’s world.
+
+Belonging contains reciprocal claims.
+
+Show up.
+
+Take your turn.
+
+Carry your share.
+
+Listen when the conversation is not optimized for you.
+
+Notice when somebody else is lost.
+
+Repair damage after conflict.
+
+A machine can simulate many forms of social response and may do so increasingly well.
+
+The educational distinction is not whether the simulation feels warm.
+
+It is whether another person actually has standing in the relationship.
+
+Conflict makes this visible.
+
+An AI can coach an apology, generate perspectives, and help a student rehearse a difficult conversation.
+
+Then the student has to face the person who was hurt.
 
 The other person may reject the apology.
 
-May remember something differently.
+May remember the event differently.
 
-May demand a change rather than a sentence.
+May demand changed behavior rather than better wording.
 
-The student learns that good wording does not control another human being.
+The student learns that language does not control another human being.
 
-That lesson belongs in school.
+That lesson cannot be reduced to receiving the right response.
 
-So does ethical formation.
+It depends on consequences continuing after the sentence ends.
 
-There is a version of AI education in which ethics becomes another content module.
+The same is true of ethical formation.
 
-Students learn about bias, privacy, hallucination, intellectual property, deepfakes, perhaps a few trolley problems, then pass a quiz.
+Schools can teach modules on bias, privacy, deepfakes, intellectual property, or hallucinations. Students can pass a quiz on responsible AI use.
 
-That is not enough.
+Ethics becomes more real when principles collide with obligations to people nearby.
 
-Ethics is partly what happens when abstract principles collide with obligations to people nearby.
+Do you put a group member’s name on work they barely helped produce?
 
-Do you include your partner's name when they contributed little?
+Do you use a private message because it strengthens your presentation?
 
-Do you report the classmate who used a prohibited tool?
+Do you report a classmate who broke a rule?
 
-Do you use a private message in a presentation because it strengthens your evidence?
+Do you tell the group that the data do not support the conclusion everyone wants?
 
-Do you publish a photograph because you have permission, even if the person now regrets it?
+AI can help reason through these situations.
 
-Do you let the model make a cruel joke more polished?
+It cannot absorb the responsibility for the decision without changing what the decision means.
 
-Do you tell the teacher that the group data do not support the conclusion everyone wants?
+Responsibility is one of the human goods schools should preserve deliberately.
 
-These questions become moral practice because there are consequences and relationships attached.
+The phrase “human in the loop” is too thin for this.
 
-A machine can help a student reason through them.
+It suggests a person approving or rejecting machine output.
 
-It should not carry responsibility for the decision.
+Education asks more from humans than approval.
 
-Responsibility is one of the things education has to preserve.
+A teacher decides what deserves attention in the first place.
 
-The phrase “human in the loop” is too weak for this.
+The planned lesson may become less important because the class is grieving. A coach may sit a talented student because the student treated teammates badly. A teacher may decide that the argument over group work matters more today than completing the activity.
 
-It sounds like a control mechanism.
+These are local judgments about development.
 
-A person approves or rejects the machine's output.
+They can be wrong.
 
-But the human work in education is not only approval.
+They still need an accountable owner.
 
-It includes deciding what deserves attention in the first place.
+Human community also gives aspiration a different weight.
 
-A teacher can change the lesson because the class is grieving.
+A model can generate encouragement cheaply.
 
-A coach can keep a student on the bench after an excellent performance because the student treated teammates badly.
-
-A music teacher can spend fifteen minutes on a passage the rubric barely rewards because the ensemble finally started listening to one another.
-
-A kindergarten teacher can decide that the argument over blocks matters more than finishing the planned activity.
-
-These are judgments about what kind of development counts today.
-
-They are local, fallible, and difficult to standardize.
-
-That makes them easy to undervalue in systems that prefer measurable output.
-
-AI may intensify that pressure.
-
-The more academic assistance can be individualized and instrumented, the more tempting it becomes to describe the uninstrumented parts of school as overhead.
-
-Lunch.
-
-Recess.
-
-Advisory.
-
-Clubs.
-
-Assemblies.
-
-The five minutes before class.
-
-The argument during rehearsal.
-
-The slow conversation after a student stays behind.
-
-None of these is automatically beneficial. Schools can be lonely places in crowded buildings. Peer groups can exclude. Adults can fail to intervene. Activities can reproduce status more effectively than they build community.
-
-Still, the fact that human environments can go badly is not evidence that they are dispensable.
-
-It is evidence that they require design too.
-
-Play is a useful example.
-
-Children at play invent rules, violate them, bargain, imitate, exclude, include, take roles, abandon roles, test risk, practice language, and discover that other minds do not follow the script.
-
-A perfectly responsive simulated companion could offer extraordinary forms of imaginative play.
-
-It could create worlds instantly.
-
-It could play any role.
-
-It could adjust difficulty and never become bored.
-
-That is interesting.
-
-It is not the same as a child who refuses to be the dragon again.
-
-The peer's refusal creates a problem no prompt can solve by making the environment more compliant.
-
-Someone has to negotiate.
-
-The difference matters because a large share of social learning comes from encountering independent agents with their own purposes.
-
-AI systems may increasingly simulate independence convincingly.
-
-The educational question is not whether the simulation feels real.
-
-It is whether a student is getting enough practice with people who can genuinely withhold consent, change the relationship, need care, misunderstand, remember, and make claims in return.
-
-This is one boundary schools should defend deliberately.
-
-Not every interaction needs to be optimized for immediate learning efficiency.
-
-Some interactions are where students learn that other people are not interfaces.
-
-UNESCO's 2023 Global Education Monitoring Report on technology is useful here because it resists a simple technology-good or technology-bad story. It describes technology as potentially improving access, inclusion, quality, and system management while also creating risks, including distraction and loss of human contact. Its broader recommendation is to choose technology on educational terms rather than allowing technical possibility to define the goal.
-
-That principle becomes more important as the systems improve.
-
-Bad technology is easy to reject.
-
-Good technology creates the harder questions.
-
-Suppose an AI tutor eventually explains algebra better than the median human teacher for many students.
-
-That would be good news.
-
-It would also sharpen the question of what the human teacher is for.
-
-One answer is diagnosis.
-
-Another is motivation.
-
-Another is coordination.
-
-Another is safety.
-
-Another is accountability.
-
-But there is a deeper answer.
-
-The teacher is one of the adults through whom a young person encounters a world larger than the household.
-
-The teacher represents standards the student did not choose.
-
-A body of knowledge that existed before the student.
-
-Other people's claims on shared time.
-
-The possibility that an adult can know your work well enough to say, with credibility, that this is beneath you or that this is finally yours.
-
-A machine can generate the sentence.
-
-Credibility comes from the relationship.
-
-This is why aspiration is difficult to automate.
-
-Advice is easy to generate.
-
-“I think you could do more advanced mathematics.”
-
-“You should consider applying for this program.”
+“You could do more advanced mathematics.”
 
 “Your writing has improved.”
 
-The words are cheap.
+“You should apply.”
 
-Their effect often depends on who says them and what the student believes that person has seen.
+The sentence can be excellent.
 
-A teacher who has watched a student struggle for six months can make the same sentence carry history.
+Its force often comes from who says it and what that person has witnessed.
 
-A coach who has seen the student quit and return knows something about the claim.
+A teacher who watched a student struggle for months can place history behind the sentence. A mentor can put reputation behind an introduction. A peer can make a possible identity feel real by living it nearby.
 
-A mentor can put reputation behind an introduction.
+Aspiration is partly social evidence.
 
-A peer can make an identity feel possible by inhabiting it nearby.
+That does not mean students should remain dependent on adult approval.
 
-Aspiration is social evidence.
+Education should make them less dependent over time.
 
-This does not mean students need constant adult approval.
+But independence often begins in relationships where someone lends standards, confidence, and attention before the learner can supply all three alone.
 
-The point of education is partly to become less dependent on it.
+There is a strong counterargument to any defense of human institutions.
 
-But independence often grows from relationships in which someone first lends judgment, confidence, standards, and attention.
+Humans can be the danger.
 
-The danger in a highly personalized AI environment is not that the machine will be insufficiently encouraging.
+A biased teacher can lower expectations. A cruel peer group can make a classroom unsafe. A charismatic adult can abuse trust. A student who learns differently can be misread for years.
 
-It may be endlessly encouraging.
+An AI system may sometimes offer a more patient, private, accessible, or less humiliating route into the work.
 
-The danger is that encouragement without stakes becomes atmosphere.
+That possibility should be welcomed.
 
-Human relationships contain stakes because they can be disappointed, repaired, deepened, neglected, and earned.
+“Human” is not a synonym for good.
 
-That sounds sentimental until one remembers how much school behavior already turns on it.
-
-Students work for reasons that are not reducible to content mastery.
-
-They do not want to let a teacher down.
-
-They want to impress a friend.
-
-They want to belong to the robotics team.
-
-They want to be the person who can solve the problem at the board.
-
-They want to prove an older sibling wrong.
-
-They want the choir to sound good.
-
-They want a younger student they tutor to understand.
-
-Some motives are shallow.
-
-Some are durable.
-
-Most are social.
-
-A school after answers become cheap should not be embarrassed by that.
-
-It should use it carefully.
-
-There is also a counterargument that deserves more than a paragraph.
-
-Humans can be the source of the harm.
-
-A biased teacher can lower expectations.
-
-A cruel peer group can make school unbearable.
-
-A charismatic adult can abuse trust.
-
-A student who learns differently can be misread for years.
-
-An AI system may sometimes offer a safer, more patient, more private interaction than the human alternative.
-
-That possibility is real.
-
-It is one reason “human” cannot be used as a synonym for good.
-
-Schools should use machines where they reduce needless humiliation, expand access, provide translation, offer rehearsal, or give students another route into the work.
-
-They should also use records, audits, multiple perspectives, and procedural protections to constrain human discretion where discretion can become arbitrary.
+Schools need systems that constrain human arbitrariness as well as systems that constrain machine error: records, appeals, multiple perspectives, professional standards, oversight.
 
 The choice is not human judgment or system judgment.
 
-It is where each kind belongs and how each can correct the other's failures.
+It is where each kind belongs and how each can correct the other’s failures.
 
-The boundary worth preserving is narrower.
+UNESCO’s 2023 Global Education Monitoring Report makes a version of this broader point about technology. It recognizes gains in access, inclusion, quality, and management while also warning about harms such as distraction and loss of human contact. The recommendation is not technological abstinence. It is to choose technology on educational terms.
 
-Students need repeated experience with people who are not there merely to serve them.
+That becomes harder as the technology improves.
 
-They need adults who can take responsibility for decisions that affect them.
+Bad systems are easy to reject.
 
-They need peers whose reactions are not generated to maximize engagement.
+Good systems make the tradeoff real.
 
-They need places where words have consequences because relationships continue tomorrow.
+Suppose an AI tutor eventually explains algebra better than the median human instructor for many students.
 
-They need chances to care for work that belongs to a group.
+Excellent.
 
-They need conflict that can be repaired rather than reset.
+Use it.
 
-They need attention from someone who can choose to give it.
+Then ask what the room is for.
 
-And they need periods in which the purpose of being together is not to produce more efficient academic output.
+The answer should not be a leftover list of tasks the machine has not automated yet.
 
-What must stay human is therefore not a list of tasks machines can never perform.
+That list will keep shrinking.
 
-That list would age badly.
+The room is partly for experiences whose value comes from reciprocity.
 
-Machines will improve.
+Being responsible to people who are not there merely to optimize your learning.
 
-They will become more perceptive, conversational, adaptive, emotionally fluent, and embedded in ordinary institutions.
+Being known by adults who can make consequential judgments and answer for them.
 
-Claims about permanent technical incapacity are fragile foundations for educational design.
+Working with peers whose reactions are not generated to maximize engagement.
 
-The stronger foundation is responsibility and relationship.
+Making commitments that still exist tomorrow.
 
-Who is accountable for the child?
+Repairing conflict rather than resetting the conversation.
+
+Contributing to work whose success depends on somebody else.
+
+Receiving attention from a person who can choose to give it.
+
+And sometimes being together for reasons that are not reducible to faster academic output.
+
+None of these requires every inherited feature of school to survive.
+
+Some lectures should become tutorials. Some solitary drills should become adaptive practice. Some meetings should disappear. Some students will learn better with more private machine support than with more public human performance.
+
+The principle is narrower.
+
+Do not automate away reciprocal obligation just because personalized assistance becomes excellent.
+
+What must stay human is not a permanent task list.
+
+It is a category of relationship.
 
 Who shares the consequences?
 
-Who is allowed to make a claim on the student and accept one in return?
+Who can make a claim on the student and accept one in return?
 
-Who will still be there after the session ends?
+Who can be wrong and still remain in the relationship tomorrow?
 
-Who belongs to the same world?
+Who is accountable for the child?
 
 School does not need to remain human because humans will always explain better.
 
-It needs to remain human because learning how to live with other humans is part of what school is for.
+It needs to remain human because learning how to live responsibly among other humans is one of the things school is for.

@@ -1,24 +1,22 @@
 # The School That Knows Why
 
-A student opens an assignment and sees three sentences before the prompt.
+A student opens an assignment and sees three things before the prompt.
 
-The first says what the assignment is trying to build.
+What the assignment is trying to build.
 
-The second says which forms of help are allowed.
+Which forms of help are allowed.
 
-The third says what evidence will convince the teacher that the student can do the thing.
+What evidence will convince the teacher that the student can do the thing.
 
-Nothing in those sentences is technologically sophisticated.
+Nothing about this is technologically sophisticated.
 
 That is the point.
 
 A school can buy advanced systems without knowing why it assigned the essay in the first place.
 
-It can adopt an AI tutor, an originality detector, an adaptive platform, a proctoring suite, a writing assistant, a chatbot, and a learning analytics dashboard while leaving the educational purpose of ordinary work almost entirely implicit.
+Then every AI policy becomes unstable.
 
-Then the technology debate becomes impossible to settle.
-
-Should AI be allowed on the assignment?
+Should the tool be allowed?
 
 Allowed to do what?
 
@@ -26,325 +24,165 @@ For what purpose?
 
 What is the assignment evidence of?
 
-What capability is supposed to remain with the student after the file is submitted?
+What is supposed to remain with the student afterward?
 
-Without answers to those questions, policy collapses into categories such as allowed, banned, detected, disclosed, or suspected.
-
-The school that knows why begins somewhere earlier.
+The school that knows why begins earlier than permission.
 
 Why this work?
 
-That question sounds administrative until a machine can do the work.
+That question becomes harder to avoid when a machine can perform the visible task.
 
-Then it becomes curricular.
+Take a history essay.
 
-Consider a five-paragraph essay in a ninth-grade history course.
+The same assignment can teach students to form a claim, organize evidence, practice sentences, read primary sources, remember content, sustain attention, or demonstrate independent writing.
 
-The same assignment can serve several different purposes.
+It can also exist because the department has always assigned one.
 
-It can test whether students remember the material.
+Those purposes are not equivalent.
 
-It can teach them to form a historical claim.
+The right use of AI depends on which purpose is real.
 
-It can teach them to organize evidence.
+If sentence construction is the practice, automatic rewriting may replace the exercise.
 
-It can give them practice writing sentences.
+If historical reasoning is the target, grammar assistance may be largely irrelevant.
 
-It can require them to read primary sources closely.
+If the course needs evidence of independent writing, generative assistance may need to be absent during at least some samples.
 
-It can give the teacher a sample of independent writing.
+If students are building the strongest public exhibit they can, forbidding useful tools may make the task less authentic rather than more.
 
-It can force students to sustain attention on one question for several hours.
+The artifact can stay the same while the reason changes.
 
-It can simply give the gradebook another grade.
+This is why older instructional-design ideas have become unexpectedly useful.
 
-These purposes are not equivalent.
+John Biggs’s constructive alignment is not an AI framework. It is a discipline of coherence: intended learning outcomes, learning activities, and assessment should point toward the same thing.
 
-The right AI policy depends on which one is real.
+AI makes misalignment easier to see.
 
-If the purpose is to practice sentence construction, a system that rewrites every sentence defeats the exercise.
+A course says it values original thought and grades formulaic reports.
 
-If the purpose is to compare historical evidence, spelling help may be irrelevant and outlining help may or may not matter.
+A school says collaboration matters and measures only individual worksheets.
 
-If the purpose is to certify independent writing ability, generative assistance may need to be removed for at least part of the assessment.
+A university says students must be ready for AI-rich work while treating every assisted sentence as contamination.
 
-If the purpose is to produce the strongest public-facing museum exhibit the class can make, forbidding useful tools may be artificial.
+Another says AI literacy matters but never checks what students can do when the system is wrong or unavailable.
 
-The assignment has not changed.
+The technology did not create these contradictions.
 
-The reason has.
+It removed some of the friction that allowed them to remain hidden.
 
-This is why the oldest language of instructional design becomes useful again.
+A coherent school does not need one universal AI rule.
 
-John Biggs's idea of constructive alignment is not an AI framework. It is a claim about coherence. Intended learning outcomes, the activities students perform, and the assessment used to judge them should point toward the same thing.
+It needs a common way to reason about different rules.
 
-That alignment has always been difficult.
+What is the learning target?
 
-AI makes misalignment easier to expose.
+What assistance supports it?
 
-A course says it values original thought but grades formulaic reports.
+What assistance would substitute for it?
 
-A teacher says the goal is understanding but rewards the cleanest final artifact.
+What evidence will show progress or mastery?
 
-A school says collaboration matters but assesses only individual worksheets.
+What, if anything, must be observed independently?
 
-A university says students must be prepared for AI-rich workplaces but treats every assisted sentence as contamination.
+Who is responsible for checking the tool’s output?
 
-Another institution says AI literacy matters but never checks whether students can reason without it.
+What data does the tool need?
 
-The machine is not creating all of these contradictions.
+Those questions can produce different answers in different disciplines without producing chaos.
 
-It is making them harder to ignore.
+A chemistry course can require some independent calculations and permit AI during lab analysis. A writing course can allow feedback during revision while collecting live writing samples. An art course can study generative systems as media while preserving observation and material practice. A computer-science course can allow coding assistants while increasing code review, testing, and architectural explanation.
 
-A school that knows why does not solve this by writing a two-hundred-page AI policy.
+The policies differ.
 
-It pushes purpose down to the level where students encounter work.
+The logic is shared.
 
-The assignment says what capability matters.
+This is also a better way to think about assessment validity.
 
-The assistance rule follows from that capability.
+The *Standards for Educational and Psychological Testing* make a point that extends cautiously beyond formal testing: evidence has to support the particular interpretation and use being made from a score or performance.
 
-The evidence of mastery matches both.
+A polished essay may be good evidence that a student can supervise an assisted writing process.
 
-This changes disclosure too.
+It may be weak evidence that the student can independently construct an argument under controlled conditions.
 
-A generic requirement to “cite AI use” can become ritual.
+A functioning program may show that the student can integrate tools and ship a project.
 
-Students add a sentence saying they used a chatbot for brainstorming, editing, or research. Teachers receive dozens of nearly identical declarations. Nobody learns much.
+It may reveal less about whether the student understands every algorithm involved.
 
-Disclosure becomes more informative when tied to purpose.
+A fluent oral answer may show live reasoning while saying less about the ability to conduct careful research over days.
 
-If the assignment is about argument, the student might identify which claim was originally suggested by the model and explain whether it survived source checking.
+No single artifact needs to prove everything.
 
-If the assignment is about programming, the student might mark generated code they accepted and describe the tests they used before trusting it.
+The problem begins when schools let one artifact support claims it cannot carry.
 
-If the assignment is about language learning, the student might distinguish translation assistance from sentences composed independently.
-
-If the assignment is about research, the student might provide the source trail for factual claims regardless of whether AI helped locate them.
-
-The important record is not “AI was used.”
-
-It is what intellectual responsibility remained with the student.
-
-That responsibility should be visible in assessment.
-
-The joint *Standards for Educational and Psychological Testing* published by AERA, APA, and NCME are written for formal testing, not daily homework, but the underlying validity discipline transfers.
-
-A score or judgment is not valid in the abstract.
-
-Validity concerns the evidence supporting particular interpretations and uses.
-
-A test result can be useful for one claim and weak for another.
-
-That idea should become ordinary in classrooms.
-
-A polished essay may be evidence that a student can supervise a writing process with AI.
-
-It may be poor evidence that the student can independently construct an argument under time pressure.
-
-A successful coding project may be evidence that the student can integrate tools, debug, and ship.
-
-It may be weak evidence that the student understands every algorithm inside the project.
-
-A fluent oral answer may demonstrate recall and live reasoning.
-
-It may tell less about the student's ability to conduct careful research over days.
-
-No single artifact has to prove everything.
-
-The problem begins when schools let one artifact make claims it can no longer support.
-
-This is why the future of assessment is likely to be plural.
-
-Not complicated for the sake of complication.
-
-Plural because capabilities differ.
+The future of assessment will therefore be plural because capabilities are plural.
 
 Some work should be open-tool.
 
 Some should be independent.
 
-Some should be conversational.
-
 Some should be collaborative.
 
 Some should unfold over weeks.
 
-Some should happen quickly enough that the student's internal knowledge matters.
+Some should happen quickly enough that internal knowledge matters.
 
 Some should be private practice and barely graded at all.
 
-The balance will vary by age and subject.
+This is not complexity for its own sake.
 
-A first grader learning phonics needs a different evidence system from a senior engineering student. A nurse learning medication safety should face different constraints from a student designing a poster. A novelist in a workshop and an accountant sitting a certification exam are not doing the same kind of cognitive work.
+It is matching evidence to purpose.
 
-The desire for one universal AI rule is understandable.
+TEQSA’s assessment-reform work in Australian higher education provides one current example of an institution moving in this direction. Its guidance treats generative AI as both an opportunity and a threat to trustworthy judgments of learning and emphasizes multiple, contextualized forms of assessment rather than a detector-only response.
 
-It is also a sign that the institution has moved too far away from educational purpose.
+The example should not be turned into a universal K–12 prescription.
 
-Higher education regulators have already begun moving toward this more differentiated view. Australia's Tertiary Education Quality and Standards Agency published *Assessment Reform for the Age of Artificial Intelligence* in 2023 and later implementation material. Its guiding approach is not simply to catch AI use. It emphasizes preparing students for a world in which generative AI is present while maintaining trustworthy judgments about learning through multiple, contextualized forms of assessment.
+The useful institutional principle is portable.
 
-That is the right level of ambition.
+Prepare students to use powerful tools and still know what the students themselves can do.
 
-A school should prepare students to use powerful tools and still know what the students themselves can do.
+Those aims are compatible when schools stop asking one opaque artifact to prove both.
 
-Those goals are not opposites.
+A school that knows why also separates practice from certification more clearly.
 
-They become opposites only when assessment is asked to do both with the same opaque artifact.
-
-The school that knows why therefore separates practice from certification more clearly.
-
-During practice, help can often be abundant.
-
-Hints.
-
-Examples.
-
-Feedback.
-
-Translation.
-
-A model that asks another question.
-
-A peer who explains.
-
-A teacher who intervenes.
-
-A worked solution after a failed attempt.
+Practice is where help can often be generous: hints, examples, feedback, translation, a worked solution after an attempt, a peer explanation, a teacher intervention.
 
 The purpose is growth.
 
-During certification, the institution asks a narrower question.
-
-What can this student reliably do under the conditions relevant to the claim we are making?
+Certification asks a narrower question: what can this student reliably do under the conditions relevant to the claim we are making?
 
 Sometimes those conditions include AI.
 
 Sometimes they do not.
 
-A professional design course might need to certify that students can produce excellent work with modern tools.
+The distinction reduces unnecessary moral drama.
 
-A foundational mathematics course may still need to know whether a student can manipulate certain representations without an assistant carrying the operations.
+If low-stakes practice openly allows help, an independent checkpoint is easier to explain. Assistance is not shameful. The institution simply needs occasional evidence of what has become the student’s own capability.
 
-A writing course may need both: can the student write independently, and can the student direct an assisted process responsibly?
+The same clarity improves disclosure.
 
-The mistake is to pretend that one answer substitutes for the other.
+“Cite your AI use” can become ritual paperwork quickly.
 
-This separation also reduces moral drama.
+Disclosure is more useful when it describes intellectual responsibility relevant to the assignment.
 
-When every homework task is simultaneously practice, evidence, ranking, and moral test, students face powerful incentives to conceal assistance.
+Which generated claim survived source checking?
 
-If low-stakes practice is explicitly allowed to use generous help, then independent checkpoints become easier to explain.
+Which code was accepted, and what tests were used before trusting it?
 
-The student is not being told that assistance is shameful.
+Was translation used for access or for the skill being assessed?
 
-The student is being told that the school occasionally needs an unassisted sample to know what has been learned.
+What part of the process remained the student’s decision?
 
-That is a cleaner bargain.
+The purpose is not to create a forensic diary.
 
-It also makes cheating easier to define without pretending authorship is binary.
+It is to make the division of labor legible when the division matters.
 
-Cheating is not merely the presence of a prohibited technology.
+This chapter needs one warning because institutional clarity can become bureaucracy very easily.
 
-It is defeating the evidentiary purpose of the task while presenting the result as valid evidence.
+Once schools become anxious about AI, documentation multiplies.
 
-A student who uses a calculator on an open-calculator engineering assignment is not cheating.
+A disclosure statement.
 
-A student who uses one on a mental-arithmetic check may be.
-
-A student who asks AI to critique a draft when critique is allowed is using a tool.
-
-A student who submits a generated oral reflection as if it were live understanding is defeating the evidence.
-
-Purpose clarifies the rule.
-
-This is better for teachers too.
-
-Teachers have been asked to become local AI policy makers while also doing their actual jobs.
-
-One instructor bans everything.
-
-Another permits everything.
-
-A third writes intricate color-coded categories.
-
-A fourth decides case by case and discovers that students experience inconsistency as unfairness.
-
-Institution-level guidance is necessary.
-
-But the guidance should create a language for reasoning rather than a single permission setting.
-
-What is the learning target?
-
-What assistance is compatible with it?
-
-What assistance would substitute for it?
-
-What evidence will be collected?
-
-What independent evidence is needed, if any?
-
-What data will the tool receive?
-
-Who is responsible for checking errors?
-
-These questions produce different answers across disciplines while preserving a common logic.
-
-A school that knows why can therefore tolerate difference without chaos.
-
-The chemistry department may require closed-tool calculations at one stage and open-tool lab analysis at another.
-
-The English department may permit AI feedback on revision but require live writing samples throughout the term.
-
-The art department may treat generative systems as media to be studied and used while preserving assignments in observation, drawing, and material technique.
-
-The computer-science department may embrace coding assistants while increasing code review, oral explanation, testing, and architecture work.
-
-The policies differ because the capabilities differ.
-
-The principle is the same.
-
-This approach has costs.
-
-It asks teachers to know what their assignments are for.
-
-That sounds obvious.
-
-In practice, inherited assignments accumulate like furniture.
-
-The worksheet came with the textbook.
-
-The lab has been used for twelve years.
-
-The paper is in the department template.
-
-The final exam has always had fifty multiple-choice questions.
-
-The homework count is built into the gradebook.
-
-AI creates pressure to revisit these routines, and that pressure can become exhausting.
-
-Schools should not redesign every assignment at once.
-
-Nor should every task become a bespoke performance assessment with an oral defense and a process portfolio.
-
-That would replace one kind of bureaucracy with another.
-
-Some tasks are allowed to be simple.
-
-A ten-question quiz can be a ten-question quiz.
-
-A practice worksheet can exist because repetition is useful.
-
-The school only needs enough clarity to avoid making large claims from weak evidence.
-
-This is where administrative restraint matters.
-
-The institutional response to uncertainty is often to add documentation.
-
-An AI use statement.
-
-A disclosure form.
+A process log.
 
 A new rubric category.
 
@@ -352,25 +190,23 @@ A required reflection.
 
 A verification interview.
 
-A detection report.
-
-A process log.
+A detector report.
 
 Each item can be defensible.
 
 Together they can suffocate the work.
 
-The test for any new requirement should be the same as the test for the assignment itself.
+The same question should be applied to the requirement itself.
 
 Why is this here?
 
-If the answer is “because AI exists,” that is not enough.
+If the answer is merely “because AI exists,” remove it.
 
-The requirement should protect learning, improve evidence, reduce a meaningful risk, or prepare students for responsible use.
+A new requirement should protect learning, improve evidence, reduce a meaningful risk, or prepare students for responsible use.
 
 Otherwise it is compliance theater.
 
-The same discipline should govern procurement.
+The discipline should apply to procurement too.
 
 Why does the school need this system?
 
@@ -382,15 +218,13 @@ What new dependency does it create?
 
 What student data does it require?
 
-What capability could disappear if the tool works too well?
+What capability might disappear if the tool works too well?
 
-A school that cannot answer these questions about a product is in no position to demand that students answer similar questions about their own AI use.
+An institution that asks students to reason carefully about delegation should model the same judgment in its own technology choices.
 
-The institution has to model the judgment it wants to teach.
+This may be the most useful pressure generative AI places on schools.
 
-This may be the most important consequence of generative AI for schools.
-
-It forces institutions to become more articulate about themselves.
+It forces old routines to explain themselves.
 
 Why do students write?
 
@@ -402,35 +236,21 @@ Why do they take tests?
 
 Why do they make things?
 
-Why do teachers grade?
-
 Why do schools certify?
 
-Why is there a curriculum rather than an unlimited sequence of personalized answers?
+“Because that is how school works” becomes a weaker answer once the visible work can be automated cheaply.
 
-The answers cannot all be “because that is how school works.”
-
-The machine has made that defense too weak.
-
-There is a constructive possibility here.
-
-For years, critics of schooling have complained that institutions confuse compliance with learning, seat time with development, polished products with understanding, and grades with capability.
-
-Generative AI breaks some of those proxies so aggressively that schools may finally have to repair them.
-
-The result could be worse.
+That disruption can produce a worse institution.
 
 More surveillance.
 
-More locked browsers.
+More paperwork.
 
 More suspicion.
 
-More paperwork.
+More software trying to restore familiar proxies by force.
 
-More expensive software attempting to restore the old inference by force.
-
-Or schools could become more precise.
+Or it can produce a more articulate one.
 
 This assignment builds this capability.
 
@@ -440,26 +260,16 @@ This help is restricted because it would replace the capability.
 
 This is the evidence we will use.
 
-This is the part you should eventually be able to do without help.
+This part should eventually be yours.
 
-This is the part professionals reasonably do with tools.
+This part professionals reasonably do with tools.
 
 This is why the work matters.
 
-Students can understand that bargain.
+Students may still disagree with the boundary. Teachers will disagree with one another. Evidence will remain imperfect.
 
-They may not always like it.
-
-They may still break the rules.
-
-Teachers will still disagree about where the boundary belongs.
-
-Evidence will still be imperfect.
-
-But the disagreement becomes educational rather than theological.
+But the disagreement becomes educational rather than technological.
 
 It is about what a student should become capable of doing.
 
-That is a question schools can answer.
-
-And if a school cannot say why a student is doing the work, no AI policy can save the assignment.
+If a school knows why, it can change its tools without losing its purpose.

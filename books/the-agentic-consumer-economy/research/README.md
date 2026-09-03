@@ -22,6 +22,8 @@ It does not assume all friction is harmful. The manuscript distinguishes manipul
 
 It does not assume an easier return, a cheaper loan, or a larger buying group is automatically welfare-improving. Reverse logistics creates physical costs, credit shifts spending into future income, and collective purchasing can create buyer power that harms suppliers or becomes a new gatekeeper.
 
+It does not assume better consumer representation can bargain away physical scarcity, legal monopoly, infrastructure constraints, geography, skilled-labor shortages, or a household's lack of financial slack. In those settings an agent may make the constraint more legible without removing it.
+
 ## Core empirical tests for later editions
 
 A later revision should be able to answer these questions with measured data rather than product announcements:
@@ -56,7 +58,7 @@ The historical baseline comes from electronic-marketplace research, especially Y
 
 ### Live agentic-commerce infrastructure
 
-The 2025–2026 evidence includes primary product and protocol documentation from OpenAI, Stripe, Google, Shopify, Mastercard, Amazon, and participating standards efforts. These sources establish that structured product discovery, delegated payment authority, agent checkout, machine-readable commerce, and machine-to-machine payment infrastructure are being built now. They do not prove mass adoption or long-run market structure.
+The 2025–2026 evidence includes primary product and protocol documentation from OpenAI, Stripe, Google, Shopify, Mastercard, Amazon, Visa, and participating standards efforts including the FIDO Alliance. These sources establish that structured product discovery, delegated payment authority, agent checkout, machine-readable commerce, merchant recognition, agent authentication, and machine-to-machine payment infrastructure are being built now. They do not prove mass adoption or long-run market structure.
 
 ### Consumer protection, pricing, and interface manipulation
 
@@ -64,7 +66,7 @@ FTC surveillance-pricing research and OECD work on dark commercial patterns supp
 
 ### Competition and platform power
 
-European Commission Digital Markets Act materials provide a current case study in interoperability, portability, gatekeeper obligations, and the policy logic of contestability. They are used as precedent, not as a claim that existing DMA obligations automatically govern future consumer agents.
+European Commission Digital Markets Act materials provide a current case study in interoperability, portability, gatekeeper obligations, and the policy logic of contestability. OECD’s 2026 paper on competition and consumer policy in digital markets adds a directly agentic-AI lens: it treats consumer agency, transparency, intermediation, self-preferencing, and the overlap between competition and consumer protection as linked questions. These sources are used as policy precedents and analytical frames, not as claims that existing rules automatically determine future consumer-agent markets.
 
 ### Global trade and inclusion
 
@@ -72,7 +74,13 @@ The WTO World Trade Report 2025, WTO-ICC business survey material, World Bank Di
 
 ### Payments, authority, and trust
 
-Primary materials on Agent Payments Protocol, Mastercard Agent Pay, Agent Pay for Machines, and related token/mandate concepts support the discussion of verifiable intent, registered agents, delegated authority, and machine-scale payments. These are emerging architectures and must be updated as standards mature.
+Primary materials on Agent Payments Protocol, Mastercard Agent Pay and Verifiable Intent, Visa Trusted Agent Protocol, FIDO Alliance agentic-authentication work, Stripe’s Machine Payments Protocol, Agent Pay for Machines, and related token/mandate concepts support the discussion of verifiable intent, registered agents, delegated authority, merchant recognition, scoped payment authority, and machine-scale payments. These are emerging architectures and must be updated as standards mature.
+
+### Household treasury and cash management
+
+The household-treasury chapter uses a 2025 BIS working paper on GenAI agents for intraday liquidity management in wholesale payment systems as a deliberately limited analogy. The experiment shows a reasoning model handling simulated sequencing and liquidity constraints; it does not establish that consumer agents should autonomously control household finances or that wholesale-bank operations map cleanly onto family budgeting.
+
+The distributional extension is grounded separately in CFPB evidence. Its overdraft/NSF research links frequent fee exposure with greater household financial vulnerability, while its BNPL work documents simultaneous obligations and borrowing across multiple providers. Those sources support the narrower claim that a household-wide agent can improve visibility and sequencing while still being unable to manufacture liquidity, assets, income stability, or affordable credit.
 
 ### Returns, repair, and reverse logistics
 
@@ -105,6 +113,7 @@ Several developments would materially weaken the strongest version of the book�
 - Lenders may restrict agent access, or the most attractive financial offers may remain unavailable to households that most need them.
 - Demand aggregation may remain confined to a few regulated or standardized markets because heterogeneous preferences destroy group economies of scale.
 - Collective consumer agents may become another concentrated intermediary rather than a counterweight to platform power.
+- In scarcity-bound markets, better search may mainly improve allocation or document the bottleneck rather than lower prices or expand supply.
 
 ## Falsification discipline
 
@@ -120,8 +129,10 @@ Distinguish consumer surplus from transfer. A lower merchant margin may be a tra
 
 Distinguish transaction convenience from lifecycle welfare. A product that is easy to buy can be costly to return, repair, finance, or dispose of. The agentic consumer thesis is strongest when the system optimizes the whole relationship rather than merely conversion.
 
+Distinguish removable friction from underlying scarcity. Better representation can reduce search, administrative, and switching costs without creating housing, infrastructure, skilled labor, physical capacity, or household financial slack.
+
 ## Research vintage
 
-Primary research pass: August 2026.
+Primary research pass: August–September 2026.
 
 The fastest-aging material is concentrated in Chapters 1, 4, 5, 7, 12, 14–16, 20–21, and 23 because protocols, product integrations, payment systems, retail policies, credit markets, and platform strategies are changing quickly. Those chapters should receive the first factual refresh in any later edition.

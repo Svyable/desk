@@ -88,6 +88,68 @@ This is a recurring and underappreciated feature of infrastructure standards.
 
 When an industry chooses a common identifier, nobody can predict every future application that will use it. The standard becomes a stable hook on which later innovators can hang new capabilities.
 
+The barcode's current evolution makes that point visible in real time.
+
+Retail is now moving toward wider use of two-dimensional barcodes at the point of sale. The migration is not simply “replace the old barcode with a better barcode.” The more interesting design choice is that the identity layer can remain familiar while the data carrier becomes richer.
+
+GS1's current retail program aims for point-of-sale systems to be capable by the end of 2027 of reading a defined set of 2D barcodes built around GS1 standards in addition to existing linear barcodes. During the transition, many products will carry both. Old scanners and old systems do not disappear on the day a committee publishes a new specification.
+
+That awkward overlap is infrastructure telling the truth.
+
+A transition has to respect equipment replacement cycles, software upgrades, packaging schedules, retailer readiness and the fact that a product may move through several countries and several generations of scanning hardware before it reaches a customer.
+
+The future arrives unevenly.
+
+Standards work has to absorb that unevenness without making every participant wait for the slowest one.
+
+The important continuity is the identifier. A Global Trade Item Number can remain the machine-readable answer to “which trade item is this?” while different carriers encode it. A linear EAN/UPC symbol can carry the identity for a traditional scanner. A 2D symbol can carry that identity plus additional data such as lot, serial or expiration information, or represent the identifier in a web-compatible form.
+
+This is layering in a grocery aisle.
+
+Identity is one layer.
+
+The optical symbol is another.
+
+Additional attributes are another.
+
+The online information associated with the product is another.
+
+Confusing those layers would make migration much harder. If a new barcode format required every product to receive a completely unrelated identity, decades of databases and supply-chain mappings would lose their anchor. If every piece of product information had to be permanently printed inside the symbol, data would become stale when the packaging could not change. If the barcode contained only a web address with no stable product identifier, retailers would be forced to trust a network lookup for operations that historically worked from local master data.
+
+The newer GS1 Digital Link approach is interesting because it connects these layers without collapsing them. Existing GS1 identifiers can be represented in a web URI and associated with online information or services. The physical mark can remain a compact machine-readable entry point while the digital information behind it changes over time.
+
+The product does not need a new package because a recycling instruction changed.
+
+The identifier can stay still while the information around it moves.
+
+That is a powerful form of compatibility.
+
+A stable handle allows mutable context.
+
+The same architecture appears all over mature systems. A domain name remains while a website changes. An account number persists while balances move. A vehicle identification number survives repairs. A legal entity identifier can outlast an office address. Stability at the reference layer lets the world change without breaking every relationship that points to it.
+
+The 2D transition also reveals something less glamorous: standards often succeed through dual-running.
+
+Engineers like clean migrations. Version one stops. Version two starts. Reality prefers overlap.
+
+For a period, retailers must recognize old and new symbols. Packaging may carry both. Software must decide which data source has priority. Scanners need testing against products that will be encountered long before the migration is complete. A brand may be ready before a retailer; one country may be ready before another.
+
+The compatibility valley appears again.
+
+Supporting two systems temporarily can cost more than supporting either system alone.
+
+That extra cost is not necessarily waste. It is the price of preserving service while the installed base turns over.
+
+Autonomous-agent standards will face the same temptation to underestimate coexistence. A new task protocol may be elegant, but enterprises will still have old APIs. A new credential format may be cleaner, but legacy identity systems will remain. A new machine-payment flow may coexist with cards, bank transfers and invoices for years.
+
+The relevant design question is not whether the new standard is superior in isolation.
+
+It is whether the bridge from the old standard can be operated safely long enough for adoption to become rational.
+
+This makes gateways, adapters and compatibility profiles first-class infrastructure rather than embarrassing temporary hacks.
+
+They are how standards cross time.
+
 The web's URL would later do something similar for resources. A stable address lets search engines, browsers, social networks, archives and applications interact with a page without the page creator negotiating with each service.
 
 Identifiers create addressable worlds.

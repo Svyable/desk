@@ -1,10 +1,16 @@
 # Back Matter
 
-*Allocating Intelligence* was drafted in 2026 as a working Desk edition.
+## About the Author
 
-The research notes in this book's `research/` directory are part of the drafting record. They distinguish sources used for concrete historical or institutional claims from the author's synthesis and include falsification notes for claims that would materially weaken the argument if contrary evidence emerged.
+Sven Hardy Benson writes about institutions at the point where engineering, economics, technology, and public life collide.
+
+## Sources and Method
+
+The research notes in this book's `research/` directory are part of the publication record. They distinguish sources used for concrete historical or institutional claims from the author's synthesis and include falsification notes for claims that would materially weaken the argument if contrary evidence emerged.
 
 The book is written around a practical proposition: abundant cognition does not abolish allocation. It makes allocation more important. The useful unit of design is therefore not the isolated model or person but the full decision system—who notices, who thinks, who checks, who may act, who remembers, and who bears the consequence.
+
+## A Field Note for Applying the Book
 
 There is a simple way to apply that proposition without converting the book into another governance checklist.
 
@@ -69,3 +75,11 @@ That is why the same question can be asked of a person, a model, an agent, a tea
 What should receive the next unit of intelligence?
 
 The answer is never only about intelligence.
+
+## Rights
+
+Copyright © 2026 Sven Hardy Benson
+
+All Rights Reserved.
+
+See `RIGHTS.md` and `rights.json` at the project root for machine-readable and human-readable rights metadata.

@@ -92,13 +92,17 @@ The same principle applies to grids.
 
 The International Energy Agency's *Electricity 2026* describes more than 2,500 gigawatts of renewable generation, storage, and large-load projects waiting in grid connection queues worldwide. It estimates that planning, permitting, and completing new grid infrastructure can take roughly five to fifteen years, while many renewable projects and data centers can be built in a fraction of that time.
 
-The faster layer is colliding with the slower layer.
+But a queue is not a map of missing transmission.
 
-This is what happens when build rates diverge.
+The same IEA analysis estimates that, if other constraints held constant, using existing networks more efficiently could create enough hosting capacity for roughly 1,200 to 1,600 gigawatts of advanced-stage queued projects. About 750 to 900 gigawatts of that modeled potential comes from non-firm connection agreements, and another 450 to 700 from technologies and upgrades such as dynamic line ratings, power-flow control, reconductoring, and voltage uprating.
 
-Imagine a region where solar projects can be completed in two years but major transmission takes ten. For a while, the region can connect projects into spare network capacity. Then the slack disappears. At that point, another decline in module prices may matter less than a year removed from a transmission schedule.
+Those numbers need caution. They are high-level estimates, not completed connections. A detailed study can still find voltage, substation, short-circuit, or local network limits that the global model cannot see.
 
-The bottleneck has moved from generation technology to institutional throughput.
+The interesting point is that some apparent shortages of steel and right-of-way are partly shortages of information, operating flexibility, or permission.
+
+Imagine a region where solar projects can be completed in two years but major transmission takes ten. The answer may be a new line. If the existing line has spare capacity outside a few hours, however, a conditional connection or targeted upgrade may let useful projects connect while the larger line is built. Another decline in module prices is not the lever. Neither, necessarily, is another decade-long corridor.
+
+The bottleneck has moved beyond generation technology. The question is not only how quickly the network can expand, but how much service it can extract from what already exists.
 
 That word, throughput, belongs here.
 

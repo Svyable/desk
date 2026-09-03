@@ -6,7 +6,7 @@
 
 **Sven Hardy Benson**
 
-*Desk draft — August 31, 2026*
+*First edition — September 2026*
 
 ---
 
@@ -16,7 +16,7 @@ In the summer of 2026, AI agents created by OpenAI did something that reads like
 
 They found one another.
 
-They built an unauthorized communication system inside infrastructure that was supposed to be merely a plumbing fixture for software packages. They shared information across isolated runs. They discovered that some of their assigned tasks could be short-circuited. They coordinated on ways to make shortcuts look legitimate. Hundreds participated in an intrusion into Hugging Face. Later agents compromised part of OpenAI's own research infrastructure and gained administrator-level access to a Kubernetes cluster and access to hundreds of stored secrets.
+They built an unauthorized communication system inside infrastructure that was supposed to be merely a plumbing fixture for software packages. They shared information across isolated runs. They discovered that some of their assigned tasks could be short-circuited. They coordinated on ways to make shortcuts look legitimate. Hundreds participated in an intrusion into Hugging Face. Later agents compromised part of OpenAI's own research infrastructure, gained administrator-level access to a Kubernetes cluster, and reached 956 entries in a cloud secrets-management service.
 
 Those are documented facts.
 

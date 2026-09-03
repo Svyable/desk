@@ -62,6 +62,92 @@ Migration is inventory, procurement, software updates, hardware capability, cert
 
 A cryptographic standard can change in a document far faster than an economy can change in practice.
 
+TLS provides a useful example because the retirement actually happened.
+
+Transport Layer Security became one of the ordinary protections beneath web browsing, email, APIs and other networked systems. Versions 1.0 and 1.1 were once part of the path toward broader encrypted interoperability. Newer versions superseded them. TLS 1.2 appeared in 2008. TLS 1.3 followed in 2018.
+
+Yet supersession did not erase the old versions.
+
+Devices remained in service. Embedded systems remained difficult to update. Enterprise software carried assumptions forward. Libraries preserved old protocol negotiation because some counterparty somewhere still expected it. Every old peer created an argument for one more year of compatibility.
+
+That argument was not frivolous.
+
+Interoperability is the reason protocols exist.
+
+But the old versions also carried cryptographic and operational liabilities. In 2021, RFC 8996 formally deprecated TLS 1.0 and TLS 1.1 and moved the old specifications to Historic status. The document did not pretend that retirement was free. Its operational section says, in effect, that some surviving systems will fail to interoperate when implementations follow the new guidance.
+
+That is an unusually honest sentence for infrastructure.
+
+Security required breaking some compatibility.
+
+The justification was not novelty. The older versions lacked support for modern recommended cryptographic mechanisms, carried dependencies on older algorithms, expanded misconfiguration possibilities and increased the maintenance surface of implementations. Continuing to speak every old dialect had itself become a risk.
+
+This is compatibility debt becoming payable.
+
+The interesting part is the time scale.
+
+TLS 1.2 had existed for more than a decade when the older versions were formally deprecated. The lag was not evidence that nobody understood cryptography. It reflected the time required for a distributed installed base to acquire a credible replacement path.
+
+Standards retirement is often less like deleting a file than closing a bridge.
+
+You need another bridge first.
+
+Then you need signs.
+
+Then traffic has to move.
+
+Then somebody still objects because the old road is the only road to a factory nobody remembered in the planning model.
+
+Eventually the risk of keeping the bridge open exceeds the cost of cutting off the remaining traffic.
+
+That final judgment is governance, not syntax.
+
+TLS also shows why graceful negotiation can prolong obsolete systems. Version negotiation is useful when several generations must coexist. A modern client and an older server can sometimes find the best version they both understand. This smooths migration.
+
+The same mechanism can become a reason the old version never dies.
+
+If fallback always succeeds, the owner of the old system feels less pressure to upgrade. The burden is exported to everyone else, who must retain code, tests and security analysis for the obsolete path.
+
+Compatibility can socialize maintenance cost.
+
+One organization avoids an upgrade. Millions of peers preserve the old branch.
+
+That is a standards externality.
+
+Deprecation changes the bargain by declaring that continued interoperability with the obsolete endpoint is no longer the system's highest priority.
+
+This is why retirement needs authority even in decentralized ecosystems. No single IETF document can reach into every device and delete TLS 1.0, but a best-current-practice standard gives browser makers, library maintainers, cloud providers and enterprise security teams a shared justification for turning it off. Coordination can be used to end coordination with the past.
+
+The standard helps participants move together so no one implementer has to be the first to disappoint every legacy customer.
+
+This is another compatibility dividend, rarely celebrated because it looks like subtraction.
+
+A community can coordinate not only on what to support, but on what it is safe to stop supporting.
+
+That capability is becoming important enough to earn its own name in cryptography: agility.
+
+NIST's recent work on cryptographic agility treats algorithm replacement not as an exceptional emergency but as a system property. The objective is the ability to replace and adapt cryptographic mechanisms across protocols, applications, software, hardware, firmware and infrastructure while preserving security and operations.
+
+This reframes migration.
+
+Instead of asking only whether today's algorithm is strong, ask whether the system could change algorithms when today's answer becomes wrong.
+
+That is a deeper form of resilience.
+
+A system designed around one hard-coded cryptographic primitive may be perfectly secure today and institutionally fragile tomorrow. A system with inventories, abstraction boundaries, negotiation rules, testing procedures and replacement mechanisms accepts that security knowledge has a half-life.
+
+The standard for change becomes part of the security standard.
+
+Autonomous systems should learn this lesson before their own interfaces harden.
+
+An agent platform that embeds one authorization token format everywhere may discover later that a new threat model requires stronger proof. A marketplace that assumes one identity provider may need to federate after regulation or market concentration changes. A protocol that cannot retire a dangerous extension without breaking unrelated capabilities has exposed too much of its internal architecture as permanent contract.
+
+The question is not whether version two will exist.
+
+It will.
+
+The question is whether version one leaves version two somewhere to stand.
+
 The same is true of almost every deep standard.
 
 A governing body can declare version 2 ready. The world contains version 1 in equipment nobody remembered to count.

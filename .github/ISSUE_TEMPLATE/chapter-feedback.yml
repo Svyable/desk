@@ -22,8 +22,10 @@ body:
         - americas-got-a-spending-problem
         - artificial-promises
         - austerity-measures
+        - energy-value-intelligence
         - exponential-compression
         - face-the-strange
+        - fiscal-wall
         - gatekeepers
         - intelligence-state
         - keep-cooking
@@ -31,9 +33,14 @@ body:
         - look-alive
         - make-yourself-useful
         - open-source
+        - orbital
         - predictable
         - proof-of-human
+        - public-pressure
+        - restructuring-america
+        - right-to-try
         - scaling-laws
+        - second-guess
         - silent-cartel
         - single-points-of-failure
         - source-code
@@ -47,21 +54,27 @@ body:
         - the-convergence
         - the-delegation-machine
         - the-exponentiality
+        - the-intelligence-bubble
         - the-intelligence-dilemma
         - the-loneliness-dividend
         - the-long-running-mind
         - the-measure-of-good
+        - the-mortality-discount
         - the-potentiality
         - the-reliability-tax
         - the-search-frontier
         - the-second-order
+        - the-swarm-agents-in-the-wild
         - the-unbounding
         - the-value-stack
         - the-vanishing-bid
         - the-world-beneath-the-world
         - to-state-the-obvious
+        - triumph-of-the-commons
+        - ubiquitous
         - useful-noise
         - vectors
+        - wild-speculation
     validations:
       required: true
   - type: input

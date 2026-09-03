@@ -1,160 +1,94 @@
 # The New Achievement Gap
 
-The most attractive promise in educational technology is also one of the oldest.
+The strongest equity argument for AI in education is easy to understand.
 
-Give every student access to what wealthy students already have.
+Give every student access to help that used to be scarce.
 
-A library.
+Private tutoring has always been constrained by money and time. A human tutor cannot sit beside every student at midnight, switch instantly from algebra to chemistry, translate into another language, explain a concept five different ways, and remain patient through the tenth misunderstanding.
 
-A computer.
+A model can do many of those things at near-zero marginal cost.
 
-Broadband.
+For a student who has nobody at home who can explain the homework, that is a real expansion of opportunity. So is low-cost writing feedback, coding help, language practice, after-hours explanation, and repeated practice that does not consume another person’s hour.
 
-A course.
+The equalizing possibility is substantial.
 
-A tutor.
-
-A world-class explanation.
-
-AI makes the last promise feel unusually close.
-
-Private tutoring has always been constrained by money and time. A capable human tutor cannot sit beside every student at midnight, switch instantly from algebra to chemistry, translate into another language, explain a concept five ways, generate another practice problem, and remain patient through the tenth misunderstanding.
-
-A model can.
-
-At near-zero marginal cost.
-
-That is not a trivial change.
-
-For a student who has nobody at home who can explain the homework, immediate conversational help can be a real expansion of opportunity.
-
-For a student who cannot afford test preparation, writing feedback, coding help, or language practice, a capable AI system can place services once associated with money inside an ordinary device.
-
-For a school where teachers carry large classes and tutoring resources are scarce, scalable assistance can increase the amount of feedback available to each learner.
-
-This is the strongest equity case for AI in education.
-
-It may be true.
-
-It may also be incomplete.
+It is not automatic.
 
 Educational inequality rarely disappears when a resource becomes widely available.
 
-It changes shape.
+Advantage moves.
 
-When books become common, differences remain in who reads, what is read, whether there is quiet space, whether adults model reading, whether difficult material is explained, whether the student already has enough knowledge to benefit from the next book.
+When books become common, differences remain in who reads, what is read, whether difficult material is explained, and what background knowledge the reader brings. When computers become common, advantage shifts toward connectivity, software, guidance, and the quality of use.
 
-When computers become common, advantage moves toward device quality, connectivity, software, guidance, and the purposes for which the computer is used.
+When information becomes abundant, selection and judgment become scarcer.
 
-When information becomes abundant, the scarce resource becomes the ability to select, interpret, verify, and use it.
-
-AI may follow the same pattern faster.
+AI may accelerate the same migration.
 
 The first gap is access.
 
-The second gap is use.
+Then comes the ability to convert access into learning.
 
-The third gap is judgment.
+Two students can use the same model and receive very different educational returns.
 
-A student with a free chatbot and a student with a paid model may both be counted as having access.
+One knows enough mathematics to notice that the explanation has changed signs incorrectly. Another does not.
 
-One may have higher usage limits, better tools, stronger file handling, better integrations, more reliable models, and fewer interruptions.
+One asks for a hint because a teacher has shown how to use the system as a tutor. Another pastes the problem and copies the result because that is the workflow learned from friends.
 
-But even identical subscriptions would not create identical advantage.
+One has an adult nearby who asks, “Why is that answer right?” Another has nobody available to ask.
 
-One student knows enough mathematics to notice that the explanation has changed signs incorrectly.
+One attends a school that teaches verification and checks independent mastery later. Another attends a school where the system is blocked during the day and used privately at home without guidance.
 
-Another does not.
+Same underlying capability.
 
-One student knows how to ask for a hint rather than the answer.
+Different learning environment.
 
-Another has learned that the fastest path is to paste the problem and copy the result.
+This creates a genuine paradox.
 
-One student has a parent who asks, "Can you explain why that answer is right?"
+The students who need assistance most may have the most to gain from abundant assistance.
 
-Another has nobody available to ask.
+They may also have less prior knowledge with which to supervise it.
 
-One student attends a school where teachers explicitly teach verification, prompting, source checking, and independent mastery.
+Those facts do not cancel each other.
 
-Another attends a school where the tool is blocked on campus and used privately at home without guidance.
+They make design more important.
 
-Same machine.
+A generic chatbot places more instructional judgment on the user than a good tutor does. The user has to decide whether to ask for an answer, a hint, an explanation, or another example. The user has to know when the response is suspicious and when to stop accepting help.
 
-Different educational system.
+Students do not begin equally prepared to make those decisions.
 
-The result could be equalizing.
+This can give stronger students an additional advantage.
 
-It could also compound.
+A fluent writer can request structural criticism and reject a bad suggestion. A novice may request “improvement” and accept whatever sounds polished.
 
-This is the paradox of general-purpose assistance.
+An experienced programmer can use generated code as raw material. A beginner may not see the bug or the security problem.
 
-The people who need help most may have the most to gain from abundant help.
+A strong reader can use summaries to navigate a large literature and return to the sources that matter. A weak reader may replace the literature with the summary.
 
-They may also have the least prior knowledge with which to supervise it.
+AI lowers the price of assistance while raising the value of knowing how to use assistance well.
 
-Those two facts can be true at once.
+That does not mean less-prepared students should receive less help.
 
-Traditional tutoring partly solves this because the tutor carries pedagogical judgment.
+Learning science points in the opposite direction often enough to matter. A 2025 meta-analysis of instructional assistance found that learners with lower prior knowledge generally benefited more from higher levels of support, while more knowledgeable learners could benefit from less.
 
-A good tutor notices what the student misunderstands, chooses how much to explain, asks a question, waits, simplifies, changes the example, and checks whether the learner can now proceed alone.
+This literature is broader than generative AI, but it complicates an easy story in which assistance necessarily weakens novices.
 
-A generic chatbot does not necessarily know what the learner should retain, what the assignment permits, or how much support is educationally appropriate.
+Novices often need more scaffolding.
 
-The student has to supply some of that structure.
+They need scaffolding that leaves them stronger after it is removed.
 
-That gives stronger students an unusual advantage.
+That distinction appears in emerging AI evidence too.
 
-They can turn intelligence into leverage because they already possess the knowledge needed to direct it.
+A 2025 programming-learning experiment found that generative AI reduced perceived learning cost, especially among less-prepared learners, but easier interaction did not automatically erase differences in learning. Proficiency in using the AI system mattered.
 
-A fluent writer can ask for structural criticism and recognize a bad suggestion.
+The result is narrow and should stay narrow.
 
-A novice writer may ask for improvement and accept whatever sounds more polished.
+Its importance lies in the mechanism: access to capable assistance and the skill to extract educational value from it are different resources.
 
-An experienced programmer can use generated code as raw material.
+Implementation adds another layer.
 
-A beginner may not know where the hidden bug lives.
+A two-year experiment with Khan Academy’s Khanmigo in middle-school remedial mathematics found modest achievement gains from assignment to the AI-tutoring condition, but actual use was less intensive than the presence of the tool might suggest. Many students tried the tutor. Substantive dialogue was much less common.
 
-A strong reader can use summaries to navigate a large literature and return to the sources that matter.
-
-A weak reader may replace the literature with the summary.
-
-AI reduces the cost of assistance while increasing the value of knowing what good assistance looks like.
-
-That is not a reason to abandon the equity promise.
-
-It is a reason to define it correctly.
-
-Equal access to a tool is not the same as equal capacity to benefit from the tool.
-
-This distinction appears in recent research.
-
-A 2025 experiment in programming learning examined students with different levels of preparation and AI proficiency. Generative AI reduced perceived learning cost, especially for less-prepared learners, but the reduction did not automatically translate into better learning outcomes or erase the divide. AI proficiency mattered.
-
-The obvious lesson is not that less-prepared students should receive less AI.
-
-It may be the opposite.
-
-They may need more structured AI.
-
-A broad meta-analysis of instructional assistance and prior knowledge reaches an adjacent conclusion from pre-AI learning science: students with lower prior knowledge often benefit more from higher levels of support, while more knowledgeable learners can benefit from less.
-
-This complicates the familiar fear that assistance weakens novices.
-
-Sometimes novices need the most assistance.
-
-The question is what the assistance asks them to do.
-
-A system that gives a novice the final answer may widen dependence.
-
-A system that diagnoses the misconception, supplies a smaller step, and checks mastery may narrow a gap that the classroom teacher has too little time to address individually.
-
-Design matters more for equity than the slogan "AI for all."
-
-The same is true of usage.
-
-A large two-year experiment with Khan Academy's AI tutor, Khanmigo, in middle-school remedial mathematics found modest achievement gains from assignment to the AI-tutoring condition, but the tutor was used less intensively than the availability of the tool might suggest. Most students tried it, yet substantive engagement during practice was limited.
-
-This is a useful corrective to procurement optimism.
+That is a useful warning for procurement.
 
 Buying access is not the same as creating use.
 
@@ -162,73 +96,51 @@ Creating use is not the same as creating good use.
 
 Creating good use is not the same as creating durable learning.
 
-Each step requires design.
+Each step can fail separately.
 
-A companion experiment makes the point from the other direction. More than six thousand middle-school students used an AI tutor inside mastery-based mathematics practice. The useful intervention was not simply that a chatbot existed. Assistance arrived after mistakes, inside a task with a defined learning objective and another attempt waiting. Under those conditions, structured AI help improved the probability that students answered the next attempt correctly and changed how they worked through the problem.
+A companion 2026 experiment with more than six thousand middle-school students showed how the surrounding design can change what assistance does. AI help arrived after mistakes inside mastery-based mathematics practice, with another attempt waiting. Under those conditions, structured support improved the probability of getting the next attempt correct and changed how students worked through the problem.
 
-The difference matters because the phrase "AI tutoring" can conceal several very different products.
+Both systems could be described as AI tutoring.
 
-One system waits for any question and answers it.
+That phrase hides important differences.
 
-Another notices an error, withholds the answer, chooses a hint, and requires another try.
+One product may wait for any question and answer it. Another may intervene after a mistake, choose a hint, and require another try.
 
-One is an encyclopedia that talks back.
+The model is only one layer of the educational system.
 
-The other is closer to instructional machinery.
+Teacher practice, assignment design, interface behavior, time available for use, and what happens after the answer all shape the result.
 
-Both may use a language model. They do not create the same educational environment.
+This is familiar from earlier waves of educational technology.
 
-That is why an equity analysis that stops at model quality is too shallow. A district can license the same underlying model for every student and still produce unequal experiences through the surrounding software, assignment design, teacher practice, time available for use, and the rules governing what happens after a mistake.
+A district can distribute laptops and discover that devices are broken, uncharged, poorly integrated, or used mainly for low-level worksheets. The technology is present. The educational capacity around it is uneven.
 
-Schools have encountered versions of this before.
+AI makes that unevenness harder to see because the interaction can look productive under many conditions.
 
-A district distributes laptops and discovers that devices spend time uncharged, broken, filtered badly, used mainly for low-level worksheets, or deployed in classrooms without enough training to change instruction.
+Two students can each spend thirty minutes in the same system.
 
-The failure is then attributed to the technology or the teacher when the missing layer was implementation.
-
-AI adds another layer because the quality of use is partly invisible.
-
-Two students can both log in for thirty minutes.
-
-One spends the session receiving targeted hints and explaining mistakes.
+One receives targeted hints, attempts corrections, and explains mistakes.
 
 The other generates answers.
 
-Usage statistics count them equally.
+A usage dashboard counts thirty minutes for both.
 
 The learning does not.
 
-The pandemic made an older version of this problem difficult to ignore. When schools closed, a lesson could technically be "online" while students experienced radically different conditions for receiving it. One child had a laptop, stable broadband, a quiet room, and an adult nearby. Another shared a phone, competed for bandwidth, watched younger siblings, or disappeared whenever the connection did.
+This is why technology access has always been layered.
 
-The lesson from that period was not merely that connectivity matters. It was that access is layered.
+A conversational tutor still depends on a device, a connection, an account, an interface, a language, a privacy regime, and an institution or household that decides how it will be used.
 
-UNESCO's global work on technology in education now treats infrastructure, teacher preparation, relevant content, digital skills, regulation, and inclusion as parts of the same problem. Its reporting also documents a stubborn underlying fact: connectivity expanded rapidly while remaining unequally distributed, both between countries and within them. A digital resource can be cheap at the point of use and still depend on an expensive stack around it.
+UNESCO’s work on technology and education emphasizes these surrounding conditions: infrastructure, teacher preparation, relevant content, digital skills, regulation, and inclusion. OECD reviews of digital learning reach a similarly unglamorous conclusion: technology access by itself does not guarantee educational improvement.
 
-AI does not escape that stack.
+That evidence is broader than generative AI.
 
-A conversational tutor may be inexpensive compared with a human tutor, but it still arrives through a device, a connection, an account, a language interface, a privacy regime, and a school or household that decides how it will be used. If any of those layers fail, the nominally universal tutor becomes less universal in practice.
+The mechanism is directly relevant.
 
-And even where the infrastructure is present, the history of educational technology offers another warning. An OECD review published in 2025 surveyed evidence across digital tools and reached a cautious conclusion: access to technology by itself does not guarantee educational gain. Pedagogy remains part of the mechanism.
+The most capable model in the world does not create an effective tutoring system merely by being licensed.
 
-That sounds obvious until procurement begins.
+Better-resourced schools may be better positioned to absorb a new tool because they have people and time to turn capability into routine. Teachers can compare practices. Technology staff can troubleshoot. Curriculum leaders can decide where the system belongs. Families can supplement mistakes. Students may arrive with more of the background knowledge that makes flexible tools easier to steer.
 
-Technology is easy to count. Devices have serial numbers. Licenses have seats. Platforms report active users and minutes. Pedagogical quality is much harder to put into a dashboard.
-
-So institutions drift toward measuring what the vendor can report.
-
-How many accounts were activated?
-
-How many conversations occurred?
-
-How many teachers completed training?
-
-How many hours did students spend in the system?
-
-Those numbers may be useful. None tells you whether the student who needed the most help received the kind of help that made later independence more likely.
-
-This is the distributional problem hidden inside implementation. Better-resourced schools are often better able to absorb a new tool because they have people who can translate it into routines. Teachers have time to compare practices. Technology staff can troubleshoot. Curriculum leaders can decide where the system belongs and where it does not. Families can supplement mistakes. Students can arrive with more of the background knowledge that makes flexible tools easy to steer.
-
-A weaker implementation environment can receive exactly the same software and capture less of its value.
+A weaker implementation environment can receive the same software and capture less value from it.
 
 The new achievement gap may therefore be partly a gap in cognitive delegation.
 
@@ -236,165 +148,83 @@ Who knows what to keep?
 
 Who knows what to hand off?
 
-Who knows when to distrust the model?
+Who knows when to challenge the response?
 
 Who knows how to ask for an explanation rather than a completion?
 
-Who knows enough to ask a precise question?
-
-Who has enough confidence to challenge the response?
+Who has enough background knowledge to formulate a precise question?
 
 Who has enough support to recover when the tool is wrong?
 
-These habits can be taught.
+These habits are teachable.
 
 If schools teach them.
 
-If they do not, the habits will be distributed through families, peer groups, paid tutoring, social networks, and private experimentation.
+If schools do not, the curriculum will be supplied by households, peer groups, paid tutoring, social networks, and private experimentation.
 
-That is a familiar recipe for inequality.
+That distribution will not be equal.
 
-The families most comfortable with new technology will teach strategy before schools do.
+The equity case should therefore remain concrete.
 
-Students with more time will experiment more.
+AI can open routes around existing barriers.
 
-Students with stronger background knowledge will receive better returns from the same conversation.
+A student embarrassed to raise a hand can ask the supposedly stupid question repeatedly. A student learning in a second language can request translation and explanation. A student whose school does not offer advanced coursework can explore material beyond the local timetable. A student working after school can get help when teachers are unavailable. A student with a disability may be able to change the representation of a lesson in ways that previously required scarce staff time.
 
-Students with paid access may use more capable systems.
+Those are real possibilities.
 
-Students whose teachers integrate AI thoughtfully will learn when to use it and when not to.
+They should not be weakened by pretending the benefit distributes itself.
 
-Students whose schools respond mainly through bans may still use it, but without the visible instruction.
+A tool can be broadly available and selectively useful.
 
-The gap can migrate from hardware to judgment without appearing in an access dashboard.
+Search engines already taught us this. The web put enormous amounts of information within reach while rewarding people who knew how to search, evaluate, persist, and connect new information to prior knowledge.
 
-There is another possibility.
+AI compresses that navigation into conversation.
 
-AI may create new routes around existing inequality.
+The inequality can become less visible because even weak use produces fluent output.
 
-A student embarrassed to raise a hand can ask the machine the supposedly stupid question ten times.
+A poor search query often returns a poor page.
 
-A student learning in a language not spoken at home can request translation and explanation.
+A poor AI interaction can return a polished answer.
 
-A student whose school does not offer advanced coursework can receive practice beyond the local curriculum.
+The student may not realize that a better question, a source check, more context, or a different kind of help would have produced a better learning experience.
 
-A student working after school can get help when teachers are unavailable.
+Fluency hides the quality gap.
 
-A student with a weak teacher can encounter another explanation.
+Paid access may create another layer, but it should not be assumed to be the dominant one without evidence. Higher limits, stronger models, better integrations, and file tools can matter. So can a free system used intelligently inside a well-designed course.
 
-A student in a rural area can reach specialized knowledge without a specialist nearby.
+The deeper distributional question is not who has the fanciest subscription.
 
-A student who cannot afford a private tutor can receive something tutor-like.
+It is who has an environment that turns intelligent assistance into increasing capability.
 
-These possibilities are not hypothetical in the sense of being technologically impossible.
+That is what an equity plan should measure.
 
-They are practical design questions now.
+Not only licenses activated.
 
-The mistake would be to assume that because the assistance exists, the educational benefit has already been distributed.
+Not only minutes used.
 
-A tool can be universally available and selectively useful.
+Did students who needed support receive it?
 
-Search engines taught us this.
+Was the interface accessible?
 
-The internet contains extraordinary educational material.
+Did language support work for the languages students actually use?
 
-It also contains distraction, misinformation, low-quality explanations, and an abundance that rewards people who know how to search, evaluate, and persist.
+Were teachers prepared to integrate the system rather than merely permit it?
 
-The existence of the web did not make prior knowledge irrelevant.
+Were students taught how to verify outputs?
 
-It often made prior knowledge more valuable because informed users could navigate abundance more effectively.
+Did weaker learners receive scaffolding rather than more answer generation?
 
-AI compresses the navigation into conversation.
+Was independent mastery checked later?
 
-That makes the advantage harder to see.
-
-The weak search query at least returned a weak page.
-
-The weak AI query can return a polished answer.
-
-A student may not realize that a better question, more context, a source check, or a different mode of assistance would have produced a better learning experience.
-
-The quality gap hides inside fluency.
-
-It can hide inside language, too.
-
-A system may technically support many languages while being much stronger in some than others. Translation can open a lesson to a student who would otherwise be locked out, yet a fluent translation is not automatically a culturally appropriate explanation, a faithful rendering of technical vocabulary, or a substitute for instruction by someone who understands the learner's context.
-
-Accessibility has the same double edge. Generative systems can rephrase text, describe images, turn speech into writing, and vary the form of an explanation. Those capabilities may be especially valuable to learners with disabilities. But a tool that works beautifully in a demonstration can still fail if its interface is inaccessible, if school policy blocks the feature a student relies on, or if privacy requirements make the preferred accommodation unavailable.
-
-The equity case is therefore strongest when it stays concrete.
-
-Which student?
-
-Which task?
-
-Which model?
-
-Which interface?
-
-Which teacher?
-
-Which support?
-
-Which evidence of learning afterward?
-
-Without those questions, "democratizing intelligence" becomes too easy a phrase. Intelligence is not a parcel that can be handed out evenly. What schools distribute are opportunities to interact with systems, and those interactions enter lives already unequal in time, knowledge, confidence, language, disability, adult support, and institutional competence.
-
-This is why schools should resist ranking students by "AI skill" too quickly.
-
-A student who produces spectacular artifacts with AI may be highly capable.
-
-Or highly dependent.
-
-A student who uses AI slowly and asks basic questions may be learning more.
-
-A student who rarely uses AI may be deprived of useful support.
-
-Or may possess strong independent capability.
-
-The visible behavior is ambiguous.
-
-Assessment has to look beneath it.
-
-Equity policy does too.
-
-Suppose a district wants AI to narrow learning gaps.
-
-The plan cannot end with licenses.
-
-It needs to ask whether students have reliable devices and connectivity.
-
-Whether interfaces are accessible.
-
-Whether the system supports the languages students actually speak.
-
-Whether privacy rules force some students out.
-
-Whether teachers know how to integrate the tool into instruction.
-
-Whether students are taught how to verify outputs.
-
-Whether weaker students receive more useful scaffolding rather than more answer generation.
-
-Whether independent mastery is checked later.
-
-Whether paid consumer alternatives create a hidden tier above the school-provided system.
-
-Whether usage data reveal learning or merely engagement.
-
-Whether the students who need support are the ones actually using it.
-
-These are implementation questions.
-
-They are also distribution questions.
+Did some groups benefit substantially more or less than others?
 
 The most dangerous version of AI inequality may not look like exclusion.
 
-Everyone will have the app.
+Everyone may have the app.
 
-Everyone will be able to ask.
+Everyone may be able to ask.
 
-Everyone will receive an answer.
+Everyone may receive an answer.
 
 The inequality will live in what happens next.
 
@@ -402,24 +232,10 @@ One student treats the answer as a beginning.
 
 Another treats it as the end.
 
-One verifies.
-
-Another submits.
-
-One asks for another example.
-
-Another asks for shorter wording.
-
-One uses the machine to reach beyond the classroom.
-
-Another uses it to avoid the classroom.
-
 One becomes more independent through assistance.
 
 Another becomes more dependent through the same abundance.
 
-If schools care about equity, this is where they have to look.
+If AI is going to narrow educational gaps, schools have to distribute more than access to intelligence.
 
-Not only at who has intelligence on demand.
-
-At who is learning how to turn that intelligence into their own.
+They have to distribute the ability to turn that intelligence into learning.

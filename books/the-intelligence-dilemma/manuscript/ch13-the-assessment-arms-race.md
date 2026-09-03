@@ -2,414 +2,216 @@
 
 The first instinct of an institution that loses trust in an artifact is to inspect the artifact more aggressively.
 
-That instinct is understandable.
+A teacher receives an essay that does not sound like the student. The vocabulary is unfamiliar. The structure is unusually clean. The teacher wants to know what changed.
 
-A teacher receives an essay that does not sound like the student.
-
-The sentences are smoother.
-
-The vocabulary is unfamiliar.
-
-The structure is suspiciously clean.
-
-The examples feel generic.
-
-Something changed.
-
-The teacher wants to know what.
-
-So the document is copied into a detector.
+So the document goes into a detector.
 
 A percentage appears.
 
-The uncertainty has been given a number.
+Uncertainty has been given a number.
 
-That number is emotionally powerful.
+The number feels like evidence because numbers often do.
 
-It feels like evidence.
+This is how an assessment problem becomes a security problem.
 
-This is how an assessment problem becomes an arms race.
+Students gain access to systems that can generate plausible schoolwork. Institutions look for systems that can identify generated schoolwork. Students learn what produces suspicion. Institutions increase monitoring.
 
-Students gain access to systems that can generate plausible schoolwork.
+The cycle is attractive because it promises to preserve the old assessment without changing the assessment itself.
 
-Institutions buy systems that claim to identify generated schoolwork.
-
-Students learn how the detectors behave.
-
-Tools appear that rewrite text to evade them.
-
-Teachers request version histories.
-
-Students learn to manufacture version histories.
-
-Schools lock browsers.
-
-Students use second devices.
-
-Institutions demand more surveillance.
-
-Students become more careful about leaving traces.
-
-Each side becomes technically more sophisticated without resolving the original question.
-
-Did the student learn?
-
-The arms race is attractive because it promises to preserve the old assessment system.
-
-If schools can identify machine-written work reliably, then perhaps the take-home essay can continue functioning as before.
-
-The assignment remains the same.
-
-The rubric remains the same.
-
-The grade remains the same.
-
-Only the enforcement layer changes.
-
-That is institutionally convenient.
-
-It is also why detection receives so much attention.
+If machine-written work can be identified reliably, the take-home essay can continue carrying the same meaning. The assignment remains. The rubric remains. Only the enforcement layer changes.
 
 Redesigning assessment is expensive.
 
-Buying detection is easier.
+Adding a detector is easier.
 
-The problem is that generated text does not carry a magical stain.
+The difficulty is that authorship is not directly visible in generated text.
 
-It is text.
+A statistical detector observes features of the text and estimates whether those features resemble a class of machine-produced writing. That can be one signal.
 
-A detector does not observe authorship directly.
+It is not direct observation of who did the work.
 
-It observes statistical features and estimates whether those features resemble patterns associated with machine generation.
+The distinction matters when the consequence is serious.
 
-That can be useful as one signal.
-
-It is not the same thing as knowing who wrote the work.
-
-The difference matters most when consequences are serious.
-
-A false positive in a spam filter is annoying.
-
-A false positive in an academic-integrity system can accuse a student of misconduct.
+A false positive in a spam filter is annoying. A false positive in an academic-integrity system can accuse a student of dishonesty.
 
 The evidentiary burden should rise with the consequence.
 
-That principle is ordinary in other areas of life.
+One early example remains useful as a warning. OpenAI released an AI-text classifier in 2023, described it as unreliable, reported substantial missed detections and false positives in its evaluation, and retired it months later because of its low accuracy.
 
-Education should not abandon it because a dashboard produces a confident percentage.
+That history does not prove that all future detection must fail.
 
-The history of AI-text detection already contains a warning.
+It does prove that a confident interface should not be confused with direct evidence of authorship.
 
-OpenAI released its own classifier for AI-written text in early 2023.
+The target also keeps moving.
 
-The company described it as unreliable, reported limited detection performance and meaningful false positives in its evaluation, and removed it months later because of its low rate of accuracy.
+Models change. Humans edit. AI may revise human prose rather than produce it from scratch. Translation, grammar correction, brainstorming, and generation can all appear in the same production history.
 
-The important lesson is not that detection can never improve.
+The document may be genuinely hybrid.
 
-It is that even the organization building the underlying models could not turn authorship into a simple binary signal.
+A binary question—human or machine—can be less precise than the educational question the institution actually needs answered.
 
-Detection also faces a moving target.
+Did the student possess the capability being credited?
 
-Models change.
+That moves assessment from detection toward assurance.
 
-Students edit.
+The distinction is important.
 
-Humans imitate machine style.
+Detection asks whether prohibited assistance probably appears in an artifact.
 
-Machines imitate human style.
+Learning assurance asks whether the institution has credible evidence that the student achieved the intended outcome.
 
-A student may write a paragraph, ask AI to revise it, reject half the revision, combine the result with original sentences, translate a section, run a grammar tool, and then rewrite the ending manually.
+An institution can become excellent at the first and still remain weak at the second.
 
-What exactly is the detector supposed to detect?
+It can also rely relatively little on detection and still have strong assessment if students repeatedly demonstrate important capabilities under conditions the institution can explain.
 
-The old categories of human and machine are becoming less clean at the document level.
+This is why higher-education regulators such as Australia’s TEQSA have increasingly emphasized assessment reform and learning assurance alongside immediate academic-integrity controls.
 
-This is one reason academic integrity cannot be reduced to forensic classification.
+The point is not that policing disappears.
 
-Authorship is increasingly a process.
+It is that policing cannot carry the whole architecture.
 
-The institution needs to know what assistance was permitted, what work the student was expected to perform, and whether the student can demonstrate the relevant capability.
+A more resilient assessment system uses layers whose weaknesses differ.
 
-A detector sees only the residue.
+Clear rules establish what assistance is permitted.
 
-This does not mean teachers should ignore suspicious work.
+Open-tool work measures performance with contemporary tools.
 
-That would produce another form of dishonesty.
+Supervised work provides evidence of defined independent capabilities.
 
-If an assignment requires independent writing and a student submits generated prose, the institution has a legitimate problem.
+Projects reveal sustained application.
 
-Rules without enforcement become suggestions.
+Process checkpoints make consequential decisions visible.
 
-But good enforcement begins with humility about what the evidence can establish.
+Oral questioning tests whether understanding remains available when the submitted artifact stops talking for the student.
+
+Longitudinal teacher observation adds context.
+
+No one layer has to prove everything.
+
+That is stronger than betting institutional trust on a single classifier.
+
+It also makes enforcement more proportionate.
+
+A detector score can justify looking more closely.
 
 A sudden change in writing style can justify a conversation.
 
-A missing source can justify checking.
+A fabricated citation can be checked directly.
 
-A fabricated citation can be verified directly.
+A student unable to explain the central argument in a submitted paper can provide relevant evidence.
 
-A student who cannot explain the central claim in a submitted essay creates meaningful evidence.
+A pattern can matter.
 
-A detector score may contribute to a pattern.
+One probabilistic output should not become the pattern by itself.
 
-It should not become a substitute for a pattern.
+This is especially important because error does not land on an abstract population.
 
-This is especially important because detection errors are not distributed abstractly.
+It lands on particular students.
 
-They land on students.
+A multilingual writer may use more formulaic constructions. A student trained to write within rigid academic templates may sound statistically predictable precisely because school taught that style. Accessibility and editing tools can create production histories that do not fit a simple human-versus-machine category.
 
-A student writing in a second language may produce prose that is more formulaic or statistically predictable.
+When automated suspicion becomes routine, students begin writing for the enforcement system.
 
-A student who has been taught to write in a rigid academic template may sound machine-like precisely because the institution trained the student to sound that way.
+That would be an odd educational outcome.
 
-A student using accessibility tools may create a document with an unusual production history.
+The goal of writing becomes partly proving that the writing looks human enough.
 
-A student who writes carefully and conventionally may trigger suspicion because the prose lacks the quirks a teacher expects.
+The better answer is not to make every task surveillance-resistant.
 
-When enforcement becomes automated, ordinary variation can be transformed into suspicion at scale.
+It is to decide which tasks need controlled conditions and why.
 
-That changes the classroom even when no student is punished.
+Some do.
 
-Students begin writing for the detector.
+A high-stakes licensing exam may need to establish independent competence. A quiz may need to test retrieval. A school may reasonably use secure conditions when the capability claim depends on the absence of outside assistance.
 
-Teachers begin reading through the detector.
-
-Prose is no longer only communication.
-
-It becomes evidence in a forensic system.
-
-The irony is difficult to miss.
-
-Schools may respond to machine-generated writing by encouraging students to add artificial messiness so their human work appears human enough.
-
-That is not a stable educational objective.
-
-The same problem appears in browser surveillance.
-
-Locked environments can be appropriate for some kinds of high-stakes assessment.
-
-If a licensing examination needs to establish that a person can perform under controlled conditions, the environment should be controlled.
-
-If a school wants evidence of independent recall, an in-class closed-resource test can provide it.
-
-There is nothing backward about controlling assistance when the capability being certified is unassisted performance.
+There is nothing backward about controlling assistance for a purpose.
 
 The mistake is turning every learning activity into a certification event.
 
-Practice requires room to explore.
+Practice needs room for tools, feedback, drafting, and experimentation. Professional work increasingly includes AI. A course that locks every activity down may protect a narrow form of integrity while failing to teach the competence students will actually need outside school.
 
-Writing requires drafting.
+A mature system therefore contains both open and controlled environments.
 
-Research requires tools.
+Use AI on this project because supervising AI is part of the work.
 
-Professional work increasingly involves AI.
+Do this assessment without AI because independent recall is part of the claim.
 
-If institutions respond by locking everything down, they may preserve a narrow form of test integrity while teaching students to perform inside conditions that no longer resemble the world they are entering.
+Use any tools on the report, then defend the decisions live.
 
-This is the central tension of the assessment arms race.
+Practice with support, then demonstrate transfer on a neighboring problem alone.
 
-Schools need some spaces where assistance is constrained.
+The rules differ because the evidence needed differs.
 
-They also need spaces where assistance is taught.
+This is a security architecture rather than a moral mood.
 
-The boundary must be designed rather than guessed.
+The institution begins with the claim.
 
-A good course might contain both.
+What are we certifying?
 
-One assignment asks students to use AI openly to compare explanations, critique errors, and improve a draft.
+Then it asks what evidence would make the claim believable and what threats can corrupt that evidence.
 
-Another requires a handwritten or supervised response to establish independent understanding.
+Only then does it choose controls.
 
-A project allows extensive tool use but ends with a live defense.
+The assessment arms race reverses that order. It begins with the technology and asks how to block it.
 
-A quiz checks recall without assistance.
+That produces an adversarial classroom easily.
 
-A lab requires students to interpret an unexpected result in real time.
+Students become suspects. Teachers become investigators. Every new capability in generation produces another demand for enforcement.
 
-The system is not trying to eliminate AI from education.
+Some adversarial pressure is unavoidable in high-stakes systems. People have always cheated.
 
-It is collecting different kinds of evidence under different conditions.
+But an institution should not make suspicion the organizing principle of ordinary learning.
 
-That is a much stronger position than pretending one artifact can do everything.
+A better assessment system makes the rules legible because the rules are attached to capabilities.
 
-Regulators and universities have begun moving in this direction.
+We need to know you can do this yourself because the next course assumes it.
 
-Assessment guidance in higher education increasingly emphasizes learning assurance rather than simply trying to detect prohibited AI use after submission.
+We allow AI here because evaluating its output is part of what you are learning.
 
-The language matters.
+We are asking you questions about the project because the final artifact no longer gives us enough evidence of your ownership.
 
-Assurance asks whether the institution has credible evidence that students achieved the intended learning outcomes.
+This does not make dishonesty disappear.
 
-Detection asks whether a particular document looks machine-generated.
+It makes the boundary easier to defend.
 
-Those are not the same question.
-
-An institution can become excellent at detection and still have weak assessment.
-
-It can also have strong assessment with relatively little detection if students are repeatedly asked to demonstrate knowledge in ways that make ownership visible.
-
-This suggests a different security model.
-
-In cybersecurity, one does not protect an entire system by trusting a single detector.
-
-One uses layers.
-
-Education should do the same.
-
-Clear rules.
-
-Assessment design.
-
-Process evidence.
-
-Live performance.
-
-Version history where appropriate.
-
-Oral questioning.
-
-Supervised checkpoints.
-
-Randomized variation.
-
-Reflection on tool use.
-
-Independent tests for capabilities that must be independent.
-
-No single layer has to carry the whole burden.
-
-This is more resilient because it does not depend on winning a technological race against generation.
-
-Generation will improve.
-
-Detection may improve too.
-
-Evasion will improve.
-
-Provenance systems may become more common.
-
-Platforms may embed signatures or metadata.
-
-None of these developments removes the need to ask what the assessment is supposed to establish.
-
-That question comes first.
-
-The arms race reverses the order.
-
-It begins with the tool and asks how to catch misuse.
-
-Good assessment begins with the capability and asks what evidence would make the capability believable.
-
-These approaches produce different classrooms.
-
-In the arms-race classroom, students are suspects.
-
-The institution assumes hidden assistance is everywhere and tries to close every opening.
-
-The relationship becomes adversarial.
-
-Teachers become investigators.
-
-Students become operational-security experts.
-
-Every innovation in assistance produces an innovation in enforcement.
-
-This is exhausting and educationally corrosive.
-
-In the evidence classroom, students know that different tasks carry different rules because different tasks are intended to show different things.
-
-The institution does not need to pretend assistance can be eliminated.
-
-It needs to be clear about when assistance is part of the task and when the student must stand alone.
-
-That clarity makes enforcement easier because the rules are connected to reasons.
-
-Students may still cheat.
-
-No assessment design removes dishonesty from human institutions.
-
-But the institution is no longer defending an arbitrary boundary.
-
-It can say:
-
-We need to know that you can do this yourself because the next course depends on it.
-
-We need to know that you can reason about your own project because the final document is not enough evidence.
-
-We allow AI here because evaluating and directing AI is part of the capability.
-
-We do not allow it here because retrieval is the skill being practiced.
-
-The rule becomes intelligible.
-
-That matters.
-
-Rules perceived as arbitrary invite gaming.
-
-Rules connected to capability are easier to defend, even when students dislike them.
-
-The assessment arms race will not disappear.
-
-High-stakes systems will continue to use proctoring, identity verification, secure environments, plagiarism checks, statistical anomaly detection, and other forms of monitoring.
-
-Some of this is necessary.
-
-A society cannot award credentials while refusing to verify competence.
-
-The question is proportion.
-
-How much surveillance is justified by the stakes?
+Governance matters at the enforcement layer too.
 
 How reliable is the signal?
 
-What happens when the signal is wrong?
+How much weight does it receive?
+
+What happens when it is wrong?
 
 Can the student challenge the evidence?
 
-Is there a human process before punishment?
+Does a person review the case before punishment?
 
-Does the institution collect more data than the assessment requires?
+Is the amount of surveillance proportional to the stakes?
 
-Is the security measure preserving a meaningful capability or merely a familiar assignment format?
+Does the institution collect more information than the assessment requires?
 
-These are governance questions.
+These questions cannot be delegated to the vendor that sells the detector or proctoring system.
 
-They cannot be outsourced to the detector vendor.
+The vendor knows what the product can measure.
 
-The detector does not know why the assignment exists.
+The school has to decide what should count as evidence.
 
-The proctoring system does not know what kind of trust the institution wants to create.
+That is the deeper correction AI forces.
 
-The locked browser does not know whether the world outside the exam room will allow tools.
+For years, many assessments could rely on a convenient shortcut: produce the artifact, infer the capability.
 
-Only the school can decide those things.
+Generation weakens the shortcut.
 
-This is why the mature response to AI is not better policing alone.
-
-It is better evidence.
-
-The institution should spend less energy trying to prove that a document came from a human and more energy making sure the human behind the document can do what the document claims.
-
-That shift does not eliminate enforcement.
-
-It puts enforcement in its proper place.
+The response should be better inference, not simply more aggressive inspection of the same artifact.
 
 A detector can be a smoke alarm.
 
 It should not be the judge.
 
-A locked room can establish one kind of capability.
+A secure environment can establish one kind of evidence.
 
 It should not become the model for all learning.
 
-Surveillance can protect a boundary.
+The point is not to build a school capable of identifying every use of artificial intelligence.
 
-It cannot tell a school where the boundary belongs.
-
-The arms race begins when institutions confuse catching students with knowing students.
-
-Assessment becomes stronger when those goals are separated.
-
-The point is not to build a system that can identify every use of artificial intelligence.
-
-The point is to build a system in which a credential remains credible even when artificial intelligence is everywhere.
+It is to build an assessment system whose claims remain credible even when artificial intelligence is everywhere.

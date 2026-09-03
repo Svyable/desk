@@ -44,6 +44,8 @@ That is why the relationship between energy use and human well-being is stronges
 
 Researchers have found this pattern repeatedly using different measures and different periods. Julia Steinberger and J. Timmons Roberts, examining data from 1975 to 2005, found that high levels of human development could be achieved at moderate energy use and that the amount of energy associated with meeting human needs declined over time as technology and institutions changed. More recent work by Rebecca Jackson and colleagues, comparing national energy use with measures including life expectancy, infant mortality, food supply, sanitation, and happiness, found steep improvements at lower energy use followed by plateaus in many outcomes.
 
+The same energy budget can also produce very different lives. Jefim Vogel and colleagues examined 106 countries and found that public services, income equality, transport infrastructure, and access to electricity and clean fuels were associated with higher need satisfaction at a given level of final energy use. Some countries using more than 60 gigajoules per person still failed to meet all of the needs the study measured. This is observational evidence, not a recipe in which one policy change mechanically subtracts a fixed number of joules. But it makes the institutional point concrete: energy expands the feasible set; provisioning systems determine how much of that physical possibility becomes lived capability.
+
 The exact thresholds depend on the metric, the country, the year, and the accounting method.
 
 The shape is the important part.

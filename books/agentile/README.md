@@ -6,13 +6,13 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf public proof |
-| **Chapters**  | 7 complete + 1 partial of 18 planned |
+| **Chapters**  | 8 complete + 1 partial of 18 planned |
 
 *The Birth of a New Force in the Economy*
 
 The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. The book follows the consequences when software begins to behave partly like labor and partly like capital—changing the cost of delegation, the shape of firms, queues and coordination, entrepreneurship, management, wages, ownership, and responsibility.
 
-This is an incomplete working draft. The numbered gaps are intentional: chapters 5, 7–9, 11, and 14–18 remain to be drafted or restored before the manuscript can be considered complete.
+This is an incomplete working draft. The numbered gaps are intentional: chapters 7–9, 11, and 14–18 remain to be drafted or restored before the manuscript can be considered complete.
 
 ## Contents
 
@@ -21,6 +21,7 @@ This is an incomplete working draft. The numbered gaps are intentional: chapters
 - [x] [Ch 2 — When Tools Become Actors](manuscript/ch02-when-tools-become-actors.md)
 - [x] [Ch 3 — The Falling Cost of Delegation](manuscript/ch03-the-falling-cost-of-delegation.md)
 - [x] [Ch 4 — The Firm Has a New Boundary](manuscript/ch04-the-firm-has-a-new-boundary.md)
+- [x] [Ch 5 — The Permissioned Manager](manuscript/ch05-the-permissioned-manager.md)
 - [x] [Ch 6 — The Vanishing Queue](manuscript/ch06-the-vanishing-queue.md)
 - [x] [Ch 10 — The One-Person Corporation](manuscript/ch10-the-one-person-corporation.md)
 - [x] [Ch 12 — The Skill of Having Work Done](manuscript/ch12-the-skill-of-having-work-done.md)
@@ -29,3 +30,4 @@ This is an incomplete working draft. The numbered gaps are intentional: chapters
 ## Research
 
 - [Research trail and verification notes](research/README.md)
+- [Chapter 5 — The Permissioned Manager research note](research/ch05-permissioned-manager.md)

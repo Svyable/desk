@@ -88,6 +88,12 @@ The important phrase is within limits.
 
 Servers are not magic batteries. Deferring computation can interfere with deadlines, equipment utilization, customer commitments, cooling conditions, network traffic, or expensive chips that investors expect to keep busy. A data center designed around continuous high utilization cannot casually become a grid-balancing device whenever electricity is scarce. The value of flexibility depends on what the machines are doing, how long work can move, how often curtailment is requested, and what happens to the deferred work afterward.
 
+The economic constraint can be severe. The IEA estimates that an AI-focused data center is roughly ten times more capital-intensive than an aluminium smelter. That comparison does not tell us the exact price of curtailment, but it explains why a technically controllable load may still be expensive to interrupt: idle accelerator time can mean leaving unusually costly productive equipment unused.
+
+Capital intensity does not make flexibility imaginary. Spare server capacity, batteries, redundant systems, batch workloads with scheduling slack, and multiple geographic regions can all create room to move demand without simply switching off the most valuable machines. In some facilities, those options may make flexibility cheap enough to sell to the grid. In others, the opportunity cost of curtailment may dominate.
+
+The planner therefore needs something more specific than a label saying that compute is flexible. What matters is how much load can move, for how long, how often, and at what economic cost when the system is actually under stress.
+
 There is also a trap in shifting rather than reducing load. If a training run pauses during a stressed hour and simply resumes later, the grid may gain relief at the peak without much reduction in total energy consumption. That can be extremely valuable for reliability, but it is not the same thing as efficiency. Capacity and energy are different products.
 
 The reverse is true as well. A more efficient chip may reduce annual electricity use while doing little to solve a local connection problem if the facility still wants the same peak capacity so it can run more chips at once.

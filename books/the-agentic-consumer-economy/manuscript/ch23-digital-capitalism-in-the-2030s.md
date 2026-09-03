@@ -252,6 +252,120 @@ Once a generation of households stores its commercial memory inside a few system
 
 The time to ask what kind of market we want is before the market feels inevitable.
 
+There is another limit that matters just as much as governance.
+
+Agents cannot bargain away scarcity.
+
+This book has repeatedly described markets in which consumers are weak because comparison is hard, switching is annoying, rights are costly to exercise, or sellers know more than buyers. Those are precisely the markets where delegated intelligence can matter most.
+
+But some bad outcomes do not come from consumer weakness.
+
+They come from there not being enough of the thing.
+
+A travel agent can compare every flight on a route. It cannot manufacture a seat on a fully booked airplane.
+
+A housing agent can inspect every listing, model commuting costs, negotiate lease terms, and detect junk fees. It cannot create an apartment in a city that has built too few homes.
+
+A healthcare agent can compare providers, assemble records, check coverage, and find an earlier cancellation. It cannot create another specialist when the region has a six-month shortage of specialists.
+
+An energy agent can move demand toward cheaper hours. It cannot negotiate electricity through a transmission line that has not been built.
+
+A repair agent can search every contractor in town. It cannot make a qualified electrician appear tomorrow after a storm has damaged ten thousand houses.
+
+A purchasing agent can find the best available insurance policy. It cannot diversify away a wildfire risk every insurer is pricing at once.
+
+An agent can make scarcity legible.
+
+It cannot make scarcity disappear.
+
+The distinction becomes politically important because software is excellent at making an allocation problem look like an optimization problem.
+
+If rents are high because consumers cannot compare leases, better comparison helps.
+
+If rents are high because a city has far fewer homes than households that want to live there, better comparison mostly changes who finds the scarce home first.
+
+If medical bills are high because pricing is opaque, agentic comparison can create leverage.
+
+If a patented treatment has no close substitute and supply is constrained, a more diligent shopping process cannot conjure competition.
+
+If broadband prices are high because cancellation is painful, an agent can make switching credible.
+
+If only one provider reaches the address, the agent can produce a beautifully documented monopoly.
+
+This is not a small caveat.
+
+It determines where consumer-agent success should be expected.
+
+Cheap cognition is strongest against informational scarcity, administrative scarcity, and attention scarcity.
+
+It is weaker against physical scarcity, legal monopoly, infrastructure scarcity, geographic scarcity, and shortages of skilled human capacity.
+
+In those markets, the valuable output may not be a better transaction.
+
+It may be evidence.
+
+The agent can show that every available apartment exceeds the household budget.
+
+It can show that every broadband quote comes from one network owner.
+
+It can show that every contractor is booked for three weeks.
+
+It can show that the cheapest insurance policy still reflects a region-wide risk.
+
+It can show that the household did not fail to search hard enough.
+
+That changes the political conversation.
+
+A society accustomed to blaming individuals for bad consumer outcomes may discover that millions of tireless agents are reaching the same wall.
+
+The wall is the market structure.
+
+Or the permitting system.
+
+Or the grid.
+
+Or the zoning code.
+
+Or the patent.
+
+Or the shipping bottleneck.
+
+Or the shortage of nurses, mechanics, electricians, teachers, pilots, caregivers, and other people whose time cannot be copied at software speed.
+
+Agentic capitalism therefore makes complements more important, not less.
+
+Cheap intelligence raises the value of whatever intelligence cannot substitute for.
+
+A buyer agent that can evaluate every contractor increases the value of a trustworthy contractor with an open appointment.
+
+A travel agent that can optimize every itinerary increases the value of airport capacity and reliable rail.
+
+A household treasury that can forecast perfectly increases the value of actual financial slack.
+
+A merchant agent that can reach the world increases the value of ports, customs competence, warehouses, roads, and working payment systems.
+
+A shopping agent that can identify the ideal product increases the value of somebody being able to manufacture and deliver it.
+
+The digital economy does not escape the physical economy.
+
+It discovers it again.
+
+This is also where regulation should resist the temptation to use consumer empowerment as a substitute for supply reform. Better tools can make insurance, housing, healthcare, energy, transport, and credit markets fairer at the margin. They should be built. But a shopping assistant is not a housing policy. A comparison engine is not a transmission line. A negotiation agent is not a competition authority. A household optimizer is not income growth.
+
+The best agent can tell the truth about a constraint.
+
+Then institutions still have to act on it.
+
+That may be one of the most useful political consequences of the agentic consumer economy. It can separate two kinds of friction that are easy to confuse today.
+
+Some friction survives because nobody had time to challenge it.
+
+Other friction survives because something scarce, costly, slow, regulated, or physically difficult sits underneath it.
+
+The first kind is vulnerable to agents.
+
+The second kind becomes more visible because of them.
+
 There is no reason to romanticize the consumer of the past.
 
 The twentieth-century shopper was not sovereign. She was busy. She forgot things. She misunderstood terms. She overpaid sometimes because searching was annoying. She was manipulated by advertising and helped by it. She stayed loyal for good reasons and bad ones. She bought foolish things and wonderful things. Markets reflected both her agency and her limitations.

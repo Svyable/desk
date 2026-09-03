@@ -10,6 +10,7 @@ from __future__ import annotations
 import csv
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -66,6 +67,20 @@ def public_readme_slugs(text: str) -> set[str]:
             text,
         )
     )
+
+
+def dashboard_rows(text: str) -> list[tuple[str, str]]:
+    """Return (Desk slug, Reader slug) pairs regardless of dashboard column count."""
+    rows: list[tuple[str, str]] = []
+    for line in section(text, "The books").splitlines():
+        book = re.search(r"\]\(books/([^/]+)/\)", line)
+        reader = re.search(
+            r"\]\(https://svyable\.github\.io/desk/reader/#/b/([^/]+)/\)",
+            line,
+        )
+        if book and reader:
+            rows.append((book.group(1), reader.group(1)))
+    return rows
 
 
 def register_source(
@@ -204,13 +219,7 @@ for slug in sorted(book_dirs):
         fail(f"books/{slug}/ is missing README.md")
 
 readme_text = README.read_text(encoding="utf-8")
-books_section = section(readme_text, "The books")
-rows = re.findall(
-    r"^\|\s*\[[^\]]+\]\(books/([^/]+)/\)\s*\|\s*"
-    r"\[[^\]]+\]\(https://svyable\.github\.io/desk/reader/#/b/([^/]+)/\)\s*\|\s*$",
-    books_section,
-    flags=re.MULTILINE,
-)
+rows = dashboard_rows(readme_text)
 readme_slugs = {book_slug for book_slug, _reader_slug in rows}
 compare("README book catalog", book_dirs, readme_slugs)
 
@@ -220,6 +229,27 @@ for book_slug, reader_slug in rows:
 
 if len(rows) != len(readme_slugs):
     fail("README book catalog contains duplicate book rows")
+
+# The catalog generator owns stage/progress freshness. Running it in JSON mode keeps
+# this integrity command as the single CI entry point while avoiding duplicated
+# metadata parsing rules here.
+catalog_check = subprocess.run(
+    [sys.executable, str(ROOT / "scripts" / "catalog.py"), "--root", str(ROOT), "--json"],
+    check=False,
+    capture_output=True,
+    text=True,
+)
+if catalog_check.returncode:
+    try:
+        catalog_report = json.loads(catalog_check.stdout)
+    except json.JSONDecodeError:
+        fail(f"catalog.py audit failed: {catalog_check.stderr.strip() or catalog_check.stdout.strip()}")
+    else:
+        errors = [finding for finding in catalog_report.get("findings", []) if finding.get("level") == "error"]
+        if not errors:
+            fail("catalog.py audit returned a failure without structured error findings")
+        for finding in errors:
+            fail(f"catalog.py {finding.get('book', 'Desk')}: {finding.get('message', 'unknown error')}")
 
 feedback_text = FEEDBACK.read_text(encoding="utf-8")
 book_block = re.search(
@@ -257,7 +287,7 @@ loader_text = LOADER.read_text(encoding="utf-8")
 for required in (
     "meta\\.published",
     "window.__IMPRINT?.role === 'desk'",
-    "Shared Reader catalog hook changed",
+    "Expected one shared Reader catalog gate",
 ):
     if required not in loader_text:
         fail(f"Reader loader is missing compatibility guard {required!r}")
