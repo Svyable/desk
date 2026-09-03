@@ -93,6 +93,10 @@ Look for organizations that combine measurement with local knowledge, escalation
 | 17 — The Good Enough Decision | What disciplined process can improve judgment without pretending to calculate goodness? |
 | 18 — The Measure of Good | What remains after evidence, incentives, distribution, uncertainty, rights, fairness, and legitimacy are all brought into view? |
 
+## Chapter evidence notes
+
+- [Chapter 10 — The Value of a Life](ch10-value-of-life.md)
+
 ## Source discipline
 
 - Prefer primary sources, original academic papers, official datasets, statutes and regulations, institutional reports, and contemporaneous records for concrete cases.
