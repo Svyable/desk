@@ -7,6 +7,7 @@
 | **Author** | Sven Hardy Benson |
 | **Status** | Complete draft |
 | **Chapters** | 20 of 20 drafted |
+| **Edition** | First edition |
 | **Language** | English |
 | **Rights** | All Rights Reserved |
 | **AI use** | Reserved; see rights file |

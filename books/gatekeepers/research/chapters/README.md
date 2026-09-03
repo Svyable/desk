@@ -5,3 +5,4 @@ These files preserve chapter-level source selection, claim boundaries, counterev
 - [Chapter 5 — The Credential](ch05-the-credential.md)
 - [Chapter 6 — The Credit Decision](ch06-the-credit-decision.md)
 - [Chapter 7 — Prior Authorization](ch07-prior-authorization.md)
+- [Chapter 8 — The Border](ch08-the-border.md)

@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 7 of 21 drafted |
+| **Chapters** | 8 of 21 drafted |
 
 ## Contents
 
@@ -18,7 +18,7 @@
 - [x] [Ch 5 — The Credential](manuscript/ch05-the-credential.md)
 - [x] [Ch 6 — The Credit Decision](manuscript/ch06-the-credit-decision.md)
 - [x] [Ch 7 — Prior Authorization](manuscript/ch07-prior-authorization.md)
-- [ ] [Ch 8 — The Border](manuscript/ch08-the-border.md)
+- [x] [Ch 8 — The Border](manuscript/ch08-the-border.md)
 - [ ] [Ch 9 — The App Store](manuscript/ch09-the-app-store.md)
 - [ ] [Ch 10 — The Payment Rail](manuscript/ch10-the-payment-rail.md)
 - [ ] [Ch 11 — The Approved Vendor](manuscript/ch11-the-approved-vendor.md)
