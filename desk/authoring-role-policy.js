@@ -10,3 +10,10 @@ export function authoringRolePolicy({ role = 'instance', remoteInspection = fals
     readySummaryLabel: localDesk ? 'Ready to release' : 'Ready to publish',
   });
 }
+
+export function initialAuthoringRolePolicy({ remoteInspection = false } = {}) {
+  return authoringRolePolicy({
+    role: remoteInspection ? 'instance' : 'desk',
+    remoteInspection,
+  });
+}

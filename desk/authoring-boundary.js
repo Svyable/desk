@@ -1,4 +1,4 @@
-import { authoringRolePolicy } from './authoring-role-policy.js';
+import { authoringRolePolicy, initialAuthoringRolePolicy } from './authoring-role-policy.js';
 
 import('./workspace-nav.js').catch((error) => {
   console.warn('Workspace navigation could not be loaded', error);
@@ -51,8 +51,7 @@ function applyWorkspacePolicy(policy) {
   if (readyLabel) readyLabel.textContent = policy.readySummaryLabel;
 }
 
-async function applyAuthoringBoundary() {
-  const remoteInspection = new URLSearchParams(location.search).has('repo');
+async function applyAuthoringBoundary(remoteInspection) {
   if (remoteInspection) {
     hideAuthoringTools();
     applyWorkspacePolicy(authoringRolePolicy({ role: 'instance', remoteInspection: true }));
@@ -66,14 +65,18 @@ async function applyAuthoringBoundary() {
     applyWorkspacePolicy(authoringRolePolicy({ role: imprint.role, remoteInspection: false }));
     if (imprint.role === 'shelf') hideAuthoringTools();
   } catch {
-    // If role metadata is unavailable, preserve the existing generic Desk behavior.
+    // The Svyable repository is itself a Desk. Keep the already-applied local
+    // policy if role metadata is temporarily unavailable rather than flashing
+    // generic platform controls back into view.
   }
 }
 
 function initialize() {
   installDeskPolish();
+  const remoteInspection = new URLSearchParams(location.search).has('repo');
+  applyWorkspacePolicy(initialAuthoringRolePolicy({ remoteInspection }));
   $('repoForm')?.addEventListener('submit', hideAuthoringTools);
-  applyAuthoringBoundary();
+  void applyAuthoringBoundary(remoteInspection);
 }
 
 if (document.readyState === 'loading') {

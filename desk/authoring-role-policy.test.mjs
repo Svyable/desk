@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import { authoringRolePolicy } from './authoring-role-policy.js';
+import { authoringRolePolicy, initialAuthoringRolePolicy } from './authoring-role-policy.js';
 
 let assertions = 0;
 const equal = (...args) => {
@@ -36,11 +36,24 @@ const normalized = authoringRolePolicy({ role: ' Desk ' });
 equal(normalized.localDesk, true);
 equal(normalized.readySummaryLabel, 'Ready to release');
 
+const initialLocal = initialAuthoringRolePolicy();
+equal(initialLocal.localDesk, true);
+equal(initialLocal.hideLandingHero, true);
+equal(initialLocal.hidePublishedSummary, true);
+equal(initialLocal.readySummaryLabel, 'Ready to release');
+
+const initialRemote = initialAuthoringRolePolicy({ remoteInspection: true });
+equal(initialRemote.localDesk, false);
+equal(initialRemote.hideLandingHero, false);
+
 const boundary = fs.readFileSync(new URL('./authoring-boundary.js', import.meta.url), 'utf8');
 const roleCss = fs.readFileSync(new URL('./authoring-role.css', import.meta.url), 'utf8');
 const index = fs.readFileSync(new URL('./index.html', import.meta.url), 'utf8');
 
 match(boundary, /authoringRolePolicy/);
+match(boundary, /initialAuthoringRolePolicy/);
+match(boundary, /applyWorkspacePolicy\(initialAuthoringRolePolicy\(\{ remoteInspection \}\)\)/);
+match(boundary, /void applyAuthoringBoundary\(remoteInspection\)/);
 match(boundary, /desk-local-workspace/);
 match(boundary, /summaryPublished/);
 match(boundary, /data-filter="published"/);
@@ -57,4 +70,4 @@ match(index, /<details class="book-secondary-actions">\s*<summary>More<\/summary
 match(index, /book-secondary-links[\s\S]*folder-action[\s\S]*history-action/);
 match(index, /preview-action[\s\S]*edit-action[\s\S]*book-secondary-actions/);
 
-console.log(`Desk authoring role policy: ${assertions}/32 assertions passed`);
+console.log(`Desk authoring role policy: ${assertions}/41 assertions passed`);
