@@ -194,6 +194,130 @@ Agreement in a benign environment is not enough.
 
 The system has to survive an opponent who watches what it values and changes behavior accordingly.
 
-The adversary’s vote cannot be eliminated.
+One way to formalize that expectation is to separate **environmental reliability** from **adversarial reliability**. A sensor or model can perform extremely well when the world is not trying to fool it. That is useful. It does not tell the institution how quickly performance deteriorates when an opponent changes behavior deliberately.
 
-The goal is to make it harder for one vote to become the whole election.
+The gap between the two reliabilities is itself a strategic property.
+
+Some systems may have modest baseline accuracy but degrade gracefully under manipulation. Others may be excellent until a narrow assumption is violated, then fail sharply. The second can look superior in ordinary testing and become more dangerous in war.
+
+Evaluation should therefore ask about the **shape of failure**, not only average performance.
+
+Does confidence fall before accuracy collapses?
+
+Does disagreement among components increase when the environment becomes adversarial?
+
+Does the system surface novelty?
+
+Can humans recognize the transition?
+
+A system whose uncertainty rises as it enters danger gives the institution a chance to respond.
+
+A system that remains smooth until the cliff does not.
+
+The adversary can also learn from the force’s corrective behavior. Every time a deception is discovered, defenders change procedures. Those changes can reveal which part of the story failed. An adaptive opponent watches the repair.
+
+This creates **second-order adaptation**.
+
+The force does not merely learn from the adversary.
+
+The adversary learns from the force learning.
+
+Military inference needs to preserve enough variation that one defensive lesson does not become a permanently exploitable rule. If a discovered deception always causes the same collection response, the response itself becomes predictable. If one class of anomaly always triggers one model family, the attacker may begin shaping the anomaly around the model.
+
+The solution is not arbitrary randomness. It is **adaptive defense with audit**.
+
+The institution changes procedures based on evidence while periodically asking whether the new procedure has become too legible or too dependent on one assumption.
+
+This resembles security engineering more than traditional static doctrine.
+
+There is also the problem of **strategic mimicry**. As inference systems become good at recognizing known patterns, an adversary may not need to hide. It can behave enough like a familiar category that the system assigns the wrong meaning. The danger is not one false pixel or one malicious packet. It is the exploitation of classification itself.
+
+Every category creates a boundary.
+
+Boundaries can be inhabited.
+
+The force therefore needs to know which categories are consequential enough that classification should remain contestable. A low-stakes maintenance label can be automated confidently. A high-consequence interpretation of intent should retain more room for alternative framing.
+
+This is another reason to separate observation from meaning structurally.
+
+The same movement can support several intentions.
+
+The same communications pattern can have several causes.
+
+The same absence can mean concealment, inactivity, failure, or irrelevance.
+
+A classification system that turns the ambiguous world into one ontology may become highly efficient and strategically narrow.
+
+Ontology itself becomes part of the contest.
+
+What kinds of things can the system imagine?
+
+What distinctions does it encode?
+
+What behaviors get collapsed into the same label?
+
+An adversary benefits from living in the distinctions the ontology erased.
+
+This suggests **ontology red teaming**.
+
+Instead of asking only whether the model labels examples correctly, ask which strategically different situations receive the same label. Ask which categories are artifacts of our doctrine rather than properties of the world. Ask what an opponent could do that remains technically inside a familiar category while carrying different intent.
+
+This is a safe and high-level use of adversarial thinking because the target is our own conceptual structure.
+
+It may be especially valuable when machine systems inherit categories from historical data. Historical labels encode old doctrine. A new adversary may exploit a seam nobody considered because the category itself no longer fits.
+
+There is a related human failure: **institutional mirroring**. Analysts often infer the opponent’s choices by imagining what their own organization would do under similar constraints. Machine models trained heavily on friendly doctrine, public military writing, or familiar historical cases can reproduce the same bias at scale.
+
+The system becomes excellent at predicting an adversary that thinks like us.
+
+This is not solved by instructing a model to “think like the enemy.” That phrase can produce stereotype with more fluency. The stronger approach is empirical: maintain several models of adversary decision logic tied to observable behavior, internal contradictions, leadership change, and historical outcomes.
+
+The model of the opponent should itself carry uncertainty.
+
+This is **adversary-model pluralism**.
+
+One explanation may emphasize material incentives. Another domestic politics. Another organizational culture. Another bureaucratic fragmentation. None becomes the permanent psychology of the state.
+
+The system watches which framework continues to predict.
+
+This is slower than declaring one strategic personality. It is harder to deceive because the target has not committed its entire inference architecture to one imagined mind.
+
+The adversary’s vote also enters **our own organizational incentives**. A force under political pressure may prefer interpretations that justify existing plans. A procurement program may prefer evidence showing that its system works. A command may interpret ambiguous success metrics favorably. These biases create priors the adversary did not invent but can exploit.
+
+Counter-inference defense therefore includes incentive design.
+
+Can analysts report that a major investment is underperforming without career penalty?
+
+Can machine evaluations expose weak results without being tuned away?
+
+Can a unit challenge a shared picture that senior leadership already endorsed?
+
+The more expensive it is internally to admit error, the cheaper it becomes externally to sustain deception.
+
+That may be one of the most important asymmetries in the entire book.
+
+A deception does not need to survive evidence forever.
+
+It only needs to survive until the institution has invested enough prestige, resources, or public commitment that changing its mind becomes painful.
+
+The adversary can aim for **commitment capture**.
+
+Make the target commit to a story, then let organizational inertia defend the story for you.
+
+The technical defenses—provenance, independent sensors, model diversity—matter. The cultural defense is equally important: decisions should remain revisable without treating revision as institutional humiliation.
+
+A force proud of changing its mind when evidence changes is harder to trap than one proud of never appearing uncertain.
+
+This is where counter-inference becomes a leadership problem.
+
+The adversary’s greatest opportunity may not be the weakness of the model.
+
+It may be the ego of the organization using it.
+
+The adversary gets a vote in your benchmark, your ontology, your attention system, and eventually your politics.
+
+The goal is not to silence that vote.
+
+War does not permit that.
+
+The goal is to ensure no single adversarially shaped signal can become the whole election before reality has a chance to count the ballots.
