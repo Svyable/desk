@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 13 of 21 drafted |
+| **Chapters** | 14 of 21 drafted |
 
 ## Contents
 
@@ -24,7 +24,7 @@
 - [x] [Ch 11 — The Approved Vendor](manuscript/ch11-the-approved-vendor.md)
 - [x] [Ch 12 — The Feed](manuscript/ch12-the-feed.md)
 - [x] [Ch 13 — The API Key](manuscript/ch13-the-api-key.md)
-- [ ] [Ch 14 — The Algorithm at the Door](manuscript/ch14-the-algorithm-at-the-door.md)
+- [x] [Ch 14 — The Algorithm at the Door](manuscript/ch14-the-algorithm-at-the-door.md)
 - [ ] [Ch 15 — The Gatekeeper's Conflict](manuscript/ch15-the-gatekeepers-conflict.md)
 - [ ] [Ch 16 — The Price of Appeal](manuscript/ch16-the-price-of-appeal.md)
 - [ ] [Ch 17 — The Bypass](manuscript/ch17-the-bypass.md)
