@@ -7,11 +7,15 @@ const quickLook = fs.readFileSync(new URL('./library-quick-look.js', import.meta
 const quickLookCss = fs.readFileSync(new URL('../css/library-quick-look.css', import.meta.url), 'utf8');
 const worker = fs.readFileSync(new URL('../sw.js', import.meta.url), 'utf8');
 const manifest = JSON.parse(fs.readFileSync(new URL('../manifest.webmanifest', import.meta.url), 'utf8'));
+const catalogManifest = JSON.parse(fs.readFileSync(new URL('../../catalog.json', import.meta.url), 'utf8'));
 
 assert.equal(manifest.id, './');
 assert.equal(manifest.name, 'Svyable Desk Reader');
 assert.equal(manifest.start_url, './');
 assert.equal(manifest.scope, './');
+assert.equal(catalogManifest.version, 1);
+assert.ok(Array.isArray(catalogManifest.books));
+assert.equal(new Set(catalogManifest.books).size, catalogManifest.books.length);
 
 for (const helper of [
   'offline-cache.js',
@@ -22,10 +26,11 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v11';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v12';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
+assert.match(worker, /'\.\.\/catalog\.json'/);
 assert.match(worker, /'js\/pwa-update\.js'/);
 assert.match(worker, /'js\/native-share\.js'/);
 assert.match(worker, /'css\/settings-panel\.css'/);
@@ -92,6 +97,11 @@ assert.match(bridge, /executableSourceMask/);
 assert.match(bridge, /adaptDeskCatalogVisibility/);
 assert.match(bridge, /Expected one shared Reader catalog gate/);
 assert.match(bridge, /window\.__IMPRINT\?\.role === 'desk'/);
+assert.match(bridge, /parsePortalCatalogManifest/);
+assert.match(bridge, /applyPortalCatalogManifest/);
+assert.match(bridge, /new URL\('\.\.\/\.\.\/catalog\.json', moduleUrl\)\.href/);
+assert.match(bridge, /nativeFetch\(options\.catalogUrl, \{ cache: 'no-cache' \}\)/);
+assert.match(bridge, /isDeskPortalReadme/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
@@ -103,4 +113,4 @@ assert.match(quickLookCss, /@media \(hover: none\), \(pointer: coarse\)/);
 assert.match(quickLookCss, /\.volume:not\(\.publication-web-volume\) \.volume-quick-look \{\s*display: none;/);
 assert.match(quickLookCss, /:focus-visible \.volume-quick-look \{\s*display: grid;/);
 
-console.log('Desk PWA source contract: 70 assertions passed');
+console.log('Desk PWA source contract: 79 assertions passed');

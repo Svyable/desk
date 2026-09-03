@@ -227,6 +227,18 @@ for slug in sorted(book_dirs):
     if not (BOOKS / slug / "README.md").is_file():
         fail(f"books/{slug}/ is missing README.md")
 
+catalog_manifest_check = subprocess.run(
+    [sys.executable, str(ROOT / "scripts" / "catalog-manifest.py"), "--root", str(ROOT)],
+    check=False,
+    capture_output=True,
+    text=True,
+)
+if catalog_manifest_check.returncode:
+    fail(
+        "catalog.json is not synchronized with local book folders: "
+        + (catalog_manifest_check.stdout.strip() or catalog_manifest_check.stderr.strip())
+    )
+
 readme_text = README.read_text(encoding="utf-8")
 rows = dashboard_rows(readme_text)
 readme_slugs = {book_slug for book_slug, _reader_slug in rows}
