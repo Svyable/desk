@@ -217,3 +217,51 @@ Some need to be shared.
 Some need to be forgotten.
 
 And some deserve the freedom of remaining, for a little longer, inside the room before the picture.
+
+## The right not to visualize
+
+A culture of abundant rendering may eventually need a norm that sounds almost absurd today: the right not to visualize.
+
+A doctor explaining uncertain outcomes may choose not to generate a photorealistic future body because realism could imply predictive precision the medicine does not possess. A planner may decide that one proposal should remain diagrammatic so residents can argue about function before atmosphere biases the room. A novelist may prohibit character visualization during adaptation development until the cast is chosen. A family may decide that a deceased relative's voice should remain in old recordings rather than be synthetically extended.
+
+The refusal is not fear of technology.
+
+It is a decision about resolution.
+
+Some questions become worse when answered too concretely too early.
+
+This is familiar in law and science, where premature certainty can be damaging even when everyone prefers a clean answer. Creative work has its own forms of premature certainty. The image arrives, and suddenly the discussion shifts from what the thing should do to whether the roof should be curved.
+
+Visualization spends ambiguity.
+
+Sometimes that is exactly what we need. Sometimes ambiguity is still buying us useful participation, interpretation, or intellectual honesty.
+
+The mature creator asks not only, “Can I render this?” but “What will become harder to imagine after I do?”
+
+## Forgetting is part of imagination
+
+Generative systems make saving easy and regeneration easier. This can encourage a belief that every branch should remain recoverable.
+
+Human imagination has never worked that way.
+
+Most thoughts disappear.
+
+Most possible sentences are never written down. Most daydreams dissolve. Most sketches are lost. Most rehearsed conversations become inaccessible. Forgetting clears space. It weakens bad ideas that once felt urgent. It allows a project to move without carrying every abandoned alternative as a permanent ghost.
+
+Digital creative systems already made forgetting harder because files are cheap to keep. Generative systems multiply the branches dramatically.
+
+A creator can end a project with thousands of rejected candidates, each polished enough to restart doubt.
+
+There is value in deliberate deletion.
+
+Not as a purity ritual and not because storage is expensive. Delete because a choice has been made. Delete because the alternative is emotionally adhesive. Delete because the old branch belonged to an earlier problem. Delete because a private experiment completed its work and does not need to become part of the permanent self.
+
+An imagination economy obsessed with generation also needs a practice of composting.
+
+Some outputs become references.
+
+Some become finished work.
+
+Some become lessons.
+
+Some should become nothing.
