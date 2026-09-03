@@ -158,11 +158,119 @@ The solution is not simply a better threshold. Adversaries adapt to thresholds.
 
 The solution is a layered epistemic system that uses source diversity, historical behavior, uncertainty, independent verification, and human judgment to decide when an observation should change a belief.
 
+A further consequence of sensor abundance is that **collection itself becomes a hypothesis**. Every sensor is pointed somewhere for a reason. Every query, watch list, and persistent monitor encodes an expectation about what matters. Once machine systems begin recommending where to look next, the collection plan becomes an adaptive model of the world.
+
+This can be powerful. An inference system can identify the observation that would distinguish two live hypotheses and recommend spending scarce sensing capacity there. It can notice that the current collection pattern is excellent at confirming the dominant explanation and poor at detecting alternatives. It can ask where one additional observation would buy the largest reduction in uncertainty.
+
+But adaptive collection also creates feedback loops.
+
+The system looks where its model says interesting things should be. It finds more evidence in those places because it is looking harder. The additional evidence raises confidence in the model, which directs still more collection there. A blind spot can emerge not because the sensors are weak but because attention becomes self-reinforcing.
+
+This is **collection lock-in**.
+
+Human intelligence organizations have long worried about collection bias. Machine reasoning can make the bias faster and more systematic. The remedy is to reserve some sensing capacity for exploration rather than exploitation.
+
+Most collection can pursue high-value known questions. Some should deliberately look where the current model is weak, where coverage is thin, or where the institution has stopped asking questions.
+
+This is analogous to exploration in statistical learning, but the military meaning is organizational. A force needs a budget for seeing things it did not already expect to matter.
+
+That budget may look inefficient because much exploratory collection will find nothing important.
+
+Its value appears when the world changes.
+
+Sensor abundance also creates a **data-retention problem**. Collect everything forever and the archive becomes enormous, expensive, sensitive, and increasingly difficult to interpret. Delete too aggressively and future analysts lose the ability to revisit old events with new questions or better models.
+
+The tradeoff is not merely storage cost. Old data can contain privacy, classification, diplomatic, and security risk. It can also become epistemic sediment. A future model retrieves an old pattern because it is available, not because it remains relevant.
+
+A mature sensor architecture therefore needs memory classes.
+
+Some raw observations deserve durable retention because they are hard to recreate.
+
+Some summaries should be retained with links to the source.
+
+Some routine streams can be compacted after their operational value decays.
+
+Some sensitive data should expire unless a specific legal or intelligence purpose justifies keeping it.
+
+The sensor ocean needs **garbage collection**.
+
+This is not a glamorous military capability. It may become essential to keeping the inference system usable over decades.
+
+There is also a calibration problem across sensor generations. A new sensor arrives with better resolution or a different error profile. A model trained on the old sensor's output may behave differently when the data distribution changes. Historical baselines can become misleading because the act of seeing has changed.
+
+The institution should therefore track **sensor lineage**.
+
+When did the observation system change?
+
+Which historical comparisons cross that boundary?
+
+Did an apparent increase in activity reflect real behavior or simply better detection?
+
+Did a model begin finding more anomalies because the world changed or because the instrument did?
+
+Scientists confront this problem whenever measurement improves. Militaries increasingly will too.
+
+The same issue appears when commercial data enters the system. Commercial imagery, public databases, and open-source reporting can expand coverage dramatically. They also arrive under different reliability, availability, licensing, and provenance conditions from government-owned sensors.
+
+The force gains breadth while losing some control over the collection process.
+
+That is not inherently bad. Diversity can increase resilience. But the system should know the difference between a source it can task, a source it can merely consume, and a source whose future availability depends on commercial incentives outside military control.
+
+Source ownership becomes part of epistemic state.
+
+A strategic picture built from commercial evidence may be excellent today and unavailable tomorrow. A planning system should not silently assume persistence.
+
+This is where the sensor ocean meets logistics again. Observation has a supply chain.
+
+Satellites require launch, ground stations, power, networks, software, and organizations. Databases require contracts. Human sources require relationships. Models require data formatting. A seemingly abundant sensor environment can contain chokepoints.
+
+Inference systems can map them.
+
+Which conclusions depend on one commercial provider?
+
+Which areas lose coverage if a satellite constellation changes availability?
+
+Which sensor families share the same communications path?
+
+Which kinds of evidence disappear under a network partition?
+
+The answer is an **epistemic dependency map**.
+
+That map should sit beside the operational picture because confidence in the picture depends on confidence in the machinery producing it.
+
+There is a human temptation to hide this complexity from commanders. Senior leaders do not need every technical detail, and a dashboard that displays every dependency becomes unusable. The challenge is compression without deception.
+
+One solution is **confidence provenance on demand**. The default view remains simple. But when a conclusion matters, the user can open the confidence and see what supports it: source diversity, freshness, contradictory evidence, major dependencies, model agreement, and what has changed since the last assessment.
+
+The interface turns confidence from a decorative number into an inspectable object.
+
+This could change command culture. Instead of asking, "How confident are we?" as if confidence were one team's intuition, leaders can ask, "What is our confidence made of?"
+
+The answer may reveal that a high score rests on many independent observations.
+
+Or that it rests on one source echoed through six systems.
+
+That distinction can change a decision.
+
+Sensor systems also need to record **negative evidence carefully**. Failure to observe something can be informative only if the system had a realistic chance of observing it. The machine should know coverage, sensitivity, timing, and environmental conditions before treating absence as evidence.
+
+This matters because automated systems can turn silence into probability mechanically. A model may infer that an event is unlikely because expected indicators are missing. The inference is only as good as the assumption that the indicators would have been visible.
+
+The force needs to attach observability conditions to negative claims.
+
+"Not observed" is not the same as "not present."
+
+"No report" is not the same as "no event."
+
+"No anomaly detected" is not the same as "normal."
+
+These semantic distinctions become more important as machine systems produce concise outputs. Language compresses them easily. Architecture must preserve them deliberately.
+
 This is why the sensor ocean eventually becomes the evidence chain from the previous chapter. Sensing without provenance creates volume. Sensing without uncertainty creates confidence. Sensing without organizational skepticism creates vulnerability.
 
 The interesting future is not the military with the most sensors.
 
-It is the military that can afford to see more without becoming easier to manipulate.
+It is the military that can afford to see more without becoming easier to manipulate, and can notice when its own way of seeing has become the most important thing that changed.
 
 That requires accepting an uncomfortable truth.
 
