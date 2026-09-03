@@ -299,3 +299,85 @@ True systemic cyber catastrophe may require a larger layer of capital than priva
 The same ladder appeared in property over centuries.
 
 The difference is that cyber has no coastline to tell us where to draw the map.
+
+A useful cyber map therefore cannot look like a map at all.
+
+It looks more like a graph.
+
+At one node sits the insured company. Around it sit cloud providers, identity systems, managed-service firms, payment processors, telecommunications carriers, software vendors, open-source components, data platforms, customers, suppliers, and the authentication paths that connect them. Some nodes are replaceable. Others are single points of failure disguised as convenience.
+
+The underwriting question is not only whether each node is secure.
+
+It is what happens when one important node disappears.
+
+This changes the meaning of resilience.
+
+Traditional security programs often emphasize prevention: stop the intrusion, block the malware, patch the flaw. Those controls remain essential. Insurance, because it pays after prevention fails, has reason to care just as much about recovery.
+
+How long can the company operate without its primary cloud environment?
+
+Can it authenticate employees if the identity provider is unavailable?
+
+Are backups merely present, or can they be restored at scale?
+
+Does the business know which manual processes still work?
+
+Can it communicate with customers when normal systems are down?
+
+How many suppliers share the same dependency?
+
+These are not glamorous security questions.
+
+They determine business-interruption severity.
+
+A company that is breached and restored in four hours represents a different insurance risk from an equally breachable company that cannot function for ten days. Frequency matters. Duration does too.
+
+This suggests a more mature underwriting language: not simply security controls, but time to recover.
+
+The shift would parallel property engineering. A sprinkler does not make fire impossible. It changes how far the fire spreads before it is controlled. Compartmentation does not prevent ignition. It limits severity. Cyber resilience needs the same attention to containment.
+
+Network segmentation, access boundaries, restore procedures, alternate communications, vendor substitution, and tested incident authority are digital fire doors.
+
+The metaphor is useful because it resists a common technology fantasy: that enough prevention will eventually produce perfect security.
+
+Insurance has never required a world without fires.
+
+It requires losses that can be bounded.
+
+Bounding cyber loss is particularly difficult when firms outsource critical capabilities to a handful of efficient providers. Centralization can improve ordinary reliability and security because specialist platforms can invest more than small customers. It can simultaneously enlarge the catastrophe radius of a rare failure.
+
+This is not an argument for every company running its own infrastructure badly.
+
+It is an argument for measuring concentration explicitly.
+
+An insurer that rewards a strong cloud provider should also know how much of its portfolio depends on that provider. The two facts belong in the same risk model.
+
+The same goes for AI agents. Giving thousands of firms access to a capable common model can improve productivity and even security. If those firms use the model with similar permissions, similar tools, and similar integrations, a shared failure mode can become an accumulation event.
+
+The model may be safe on average and dangerous in concentration.
+
+Cyber insurance is where the industry can learn to price this distinction before it appears everywhere else.
+
+The claims process can help, but only if incidents are described consistently enough to aggregate. One company's "vendor outage" may be another company's "system failure" and a third company's "cyber incident." If the taxonomy is sloppy, the insurer cannot see concentration until a very large event forces the cases together.
+
+Definitions become a form of sensing.
+
+The market needs to know not merely how much it paid but what common dependency connected the losses.
+
+That requires cooperation among insurers, insureds, vendors, regulators, and incident-response firms without turning sensitive security information into a public exploit manual. The balance is difficult. Too little sharing leaves every insurer partially blind. Too much careless disclosure can create new risk.
+
+The useful middle is structured, privacy-conscious incident information that exposes patterns without exposing victims.
+
+This is one place public institutions can add value even when the underlying insurance remains private.
+
+A common incident language, safe reporting channels, and credible aggregation can improve the entire pool's ability to distinguish ordinary loss from emerging systemic dependence.
+
+The coastlines of property insurance were given by geography.
+
+Cyber's coastlines have to be discovered in the dependency data.
+
+They may move every time a software architecture changes.
+
+That does not make the risk uninsurable.
+
+It makes inventory, recovery, and concentration management part of the policy's financial core.
