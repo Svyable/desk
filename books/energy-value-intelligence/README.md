@@ -10,6 +10,8 @@
 
 A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. Its recurring question is what becomes scarce next when energy, cognition, or production gets dramatically cheaper.
 
+The post-release Desk edition also includes two practical appendices: a reusable conversion audit and a dated 2030 scorecard that gives the framework explicit ways to win, lose, shrink, or be retired.
+
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
@@ -35,12 +37,15 @@ A narrative nonfiction book about the three ledgers underneath technological civ
 - [x] [Ch 20 — A Gigawatt on the Ground](manuscript/ch20-a-gigawatt-on-the-ground.md)
 - [x] [Ch 21 — Against the Triumvirate](manuscript/ch21-against-the-triumvirate.md)
 - [x] [Ch 22 — The Conversion Civilization](manuscript/ch22-the-conversion-civilization.md)
+- [x] [Appendix A — The Conversion Audit](manuscript/appendix-a-the-conversion-audit.md)
+- [x] [Appendix B — A 2030 Scorecard](manuscript/appendix-b-a-2030-scorecard.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
+- [Appendix evidence map](research/appendix-notes.md)
 - [Source ledger](research/source-ledger.csv)
 
 ## Working thesis
@@ -53,4 +58,4 @@ The manuscript tests that idea across preindustrial food systems, steam and elec
 
 ## Desk-edition note
 
-This is a complete working manuscript with an adjacent research trail, not a released Shelf edition. Empirical claims with fast-moving denominators — AI prices, model performance, hardware concentration, grid queues, energy forecasts, export controls, and large data-center buildouts — are intentionally source-dated so later revisions can challenge the mechanism before merely refreshing the statistic.
+This is a complete working manuscript with an adjacent research trail, not the frozen released Shelf edition. Empirical claims with fast-moving denominators — AI prices, model performance, hardware concentration, grid queues, energy forecasts, export controls, and large data-center buildouts — are intentionally source-dated so later revisions can challenge the mechanism before merely refreshing the statistic.
