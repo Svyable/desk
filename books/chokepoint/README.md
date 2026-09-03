@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 0 of 20 drafted |
+| **Chapters**  | 2 of 20 drafted |
 
 The Hidden War for the Metals That Run the World.
 
@@ -19,8 +19,8 @@ The aim is not to predict which country wins the mineral race. It is to make the
 ## Contents
 
 - [ ] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — The List of Seventeen](manuscript/ch01-the-list-of-seventeen.md)
-- [ ] [Ch 2 — Everything Runs on Rock](manuscript/ch02-everything-runs-on-rock.md)
+- [x] [Ch 1 — The List of Seventeen](manuscript/ch01-the-list-of-seventeen.md)
+- [x] [Ch 2 — Everything Runs on Rock](manuscript/ch02-everything-runs-on-rock.md)
 - [ ] [Ch 3 — The Oil Analogy, Examined](manuscript/ch03-the-oil-analogy-examined.md)
 - [ ] [Ch 4 — Copper: The Original Chokepoint](manuscript/ch04-copper-the-original-chokepoint.md)
 - [ ] [Ch 5 — The Lithium Triangle](manuscript/ch05-the-lithium-triangle.md)
