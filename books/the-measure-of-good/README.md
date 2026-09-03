@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 10 of 18 drafted |
+| **Chapters**  | 12 of 18 drafted |
 
 If we can measure almost everything, why are we still so bad at measuring what is good?
 
@@ -25,11 +25,11 @@ A book about metrics, judgment, and the point where measurement stops and moral 
 - [x] [Ch 8 — The Future Has No Vote](manuscript/ch08-the-future-has-no-vote.md)
 - [x] [Ch 9 — Intention, Outcome, Responsibility](manuscript/ch09-intention-outcome-responsibility.md)
 - [x] [Ch 10 — The Value of a Life](manuscript/ch10-the-value-of-a-life.md)
+- [x] [Ch 11 — The Commons](manuscript/ch11-the-commons.md)
+- [x] [Ch 12 — The Rule and the Exception](manuscript/ch12-the-rule-and-the-exception.md)
 
 ## Planned chapters
 
-11. The Commons
-12. The Rule and the Exception
 13. When the Model Decides
 14. Experts, Citizens, and Legitimate Choice
 15. The Cost of Doing Nothing
