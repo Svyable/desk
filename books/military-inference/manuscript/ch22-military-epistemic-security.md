@@ -256,6 +256,138 @@ This is not merely classification policy.
 
 It is knowledge architecture.
 
+A mature system also needs to know the composition of its own epistemic stack.
+
+Software engineers increasingly ask for bills of materials because hidden dependencies create security risk. Inference systems need an analogous **epistemic bill of materials**.
+
+Which model families contribute to this capability?
+
+Which retrieval systems?
+
+Which major data sources?
+
+Which evaluation sets?
+
+Which human-curated policies?
+
+Which external services?
+
+Which trust roots and identity systems?
+
+Which assumptions are shared across nominally independent systems?
+
+The purpose is not to list every token or training document. The useful level is the one at which correlated failure and governance can be understood.
+
+If several independent-looking assistants rely on the same underlying model, that belongs in the bill.
+
+If two datasets ultimately descend from the same commercial source, that belongs in the bill.
+
+If a supposedly local capability silently depends on a remote policy service, that belongs in the bill.
+
+The force cannot manage inference monoculture it cannot see.
+
+This becomes particularly important in procurement. A military may buy several AI products from different vendors and believe it has diversified. If all use the same foundation model, cloud provider, data broker, or evaluation assumptions, the diversity may be cosmetic.
+
+Epistemic security therefore reaches into acquisition policy.
+
+The question is not only whether a product is secure individually.
+
+What common dependencies appear across the portfolio?
+
+Which supplier failure would affect many systems at once?
+
+Which model behavior could propagate across otherwise separate missions?
+
+Which data-licensing change would degrade several capabilities simultaneously?
+
+This is **portfolio-level epistemic risk**.
+
+The force needs a map of it.
+
+There is also an insider dimension. Epistemic compromise may not require malicious code if an authorized person can change which evidence counts.
+
+A well-intentioned analyst can promote a weak source because it supports an urgent hypothesis. A program manager can select evaluation cases that flatter a system. A senior leader can pressure staff to phrase uncertainty more confidently. A model operator can quietly alter a system prompt or retrieval index.
+
+These actions may be entirely authorized technically while dangerous epistemically.
+
+The security control is therefore not merely access restriction. It is **change attribution and review**.
+
+Who changed the evidence hierarchy?
+
+Who approved the new evaluation set?
+
+Which policy revision changed the confidence threshold?
+
+What rationale was recorded?
+
+The system should make high-impact epistemic changes visible even when they come from trusted insiders.
+
+This is similar to financial controls where a legitimate employee can still create unacceptable risk without stealing credentials.
+
+The design assumes fallibility rather than malice.
+
+Epistemic security also needs monitoring for **belief concentration**.
+
+If one claim becomes central to many plans, the institution should know. A belief can become a cognitive single point of failure just as a server can become a technical one.
+
+Suppose one assessment of adversary intent underlies logistics posture, alliance messaging, software priorities, and readiness decisions. The assessment may be well supported. Its growing downstream importance is still a risk factor.
+
+The architecture can flag such beliefs for stronger review because their blast radius has increased.
+
+This is dynamic criticality.
+
+A modest hypothesis can become strategic infrastructure over time.
+
+The force should notice when that happens.
+
+The same principle applies to **negative beliefs**: assumptions that something is not a threat, will not happen, or does not matter. These can be harder to inspect because they often appear as absence. No plan mentions the possibility because the institution dismissed it years ago.
+
+Persistent machine staffs can help surface these inherited exclusions.
+
+Which possibilities have disappeared from active planning?
+
+Why?
+
+What evidence originally justified the exclusion?
+
+Has that evidence changed?
+
+This is a form of epistemic archaeology.
+
+It protects the force from invisible dogma.
+
+Another problem is persuasive contamination. A model-generated summary can become more influential than the primary evidence because it is easier to read. Future agents retrieve the summary, not the underlying sources. Humans remember the phrasing, not the uncertainty. The interpretation becomes the artifact of record.
+
+This creates **summary capture**.
+
+Epistemic security should therefore preserve links from synthesis back to source. High-consequence summaries can be periodically regenerated from primary evidence rather than endlessly summarized from previous summaries.
+
+The institution should be able to ask: if we forgot the current narrative and rebuilt the assessment from the evidence, would we arrive at the same place?
+
+That is a powerful audit.
+
+It creates scheduled fresh eyes.
+
+Some reviews can intentionally hide the existing conclusion from the reviewing system at first. Independent analysts or agents reconstruct the case before seeing the institutional consensus. The comparison reveals whether the conclusion is robust or merely inherited.
+
+This is costly with human staffs.
+
+Machine reasoning can make it routine in selected domains.
+
+There is also a recovery problem when epistemic systems depend on external model providers. If a model becomes unavailable, compromised, legally restricted, or simply changes behavior, can the force migrate the reasoning function while preserving institutional history?
+
+A secure system needs **cognitive portability**.
+
+Memory, source lineage, policy, evaluation cases, and authority boundaries should not disappear with the provider. The replacement model may behave differently, but the institution should be able to test the difference against its own history.
+
+This is the equivalent of disaster recovery for cognition.
+
+The most important asset is not the model alone.
+
+It is the continuity environment that lets a different model inherit responsibility without inheriting trust blindly.
+
+That principle reduces vendor dependency and improves resilience simultaneously.
+
 Finally, military epistemic security requires exercises.
 
 Organizations rehearse cyber incidents, communications failures, logistics disruptions, and command succession. They should also rehearse inference failure.
@@ -280,6 +412,14 @@ Can it avoid replacing one false certainty with another?
 
 These are **continuity fire drills for belief**.
 
+The drills should include the social consequences too. A senior leader has already cited the compromised assessment publicly. An allied partner based its planning on the same conclusion. A subordinate system has encoded the conclusion into software. The institution now has incentives to defend the belief because admitting error is costly.
+
+Can the architecture support correction when correction is politically embarrassing?
+
+That is the real test.
+
+Epistemic security fails if it protects data but not the institution's capacity to revise.
+
 The purpose is not to guarantee perfect intelligence.
 
 Perfect intelligence is not available.
@@ -294,4 +434,4 @@ That is the deeper meaning of epistemic security.
 
 Protecting not merely the information.
 
-Protecting the institution's ability to change its mind.
+Protecting the institution's ability to change its mind—even when its previous mind has already become infrastructure.
