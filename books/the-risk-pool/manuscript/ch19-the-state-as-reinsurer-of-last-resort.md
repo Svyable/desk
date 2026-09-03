@@ -319,3 +319,59 @@ Used well, it can stabilize markets that private capital cannot support alone.
 Used casually, it becomes an invitation to underprice danger.
 
 The difference is whether the state absorbs the risk nobody else can reasonably carry—or simply the risk nobody else wants to charge for honestly.
+
+There is a budgeting implication hidden inside that distinction.
+
+Ordinary public spending appears when legislators appropriate money. A guarantee can create economic value without an appropriation this year. That makes it easy to treat contingent support as though it were outside the budget until the event occurs.
+
+But a contingent liability is still a claim on future fiscal capacity.
+
+The state should therefore model backstops the way a prudent insurer models catastrophe: exposure, attachment, plausible severity, correlation with other public costs, financing after activation, and the conditions under which the promise grows.
+
+This is especially important when the same catastrophe hits both sides of the sovereign balance sheet.
+
+A hurricane can trigger insurance support while damaging public infrastructure and shrinking tax receipts. A pandemic can activate business support while increasing health expenditure and unemployment payments. A systemic cyber event can create private claims while disrupting government systems and financial markets.
+
+The public tail is often correlated with the government's own operating stress.
+
+That makes the timing of financing crucial.
+
+A backstop funded only by the assumption that cheap borrowing will always be available after catastrophe is not fully designed. The government may still borrow, but it should know what happens if interest rates are high, markets are dislocated, or several emergencies overlap.
+
+Pre-event authority matters too. Treasury officials, regulators, insurers, and claims administrators need to know who can certify an event, release funds, assess industry participants, or change terms. A beautifully calibrated loss-sharing formula can fail operationally if nobody has authority to move money quickly.
+
+Public insurance is administration under stress.
+
+The institution should rehearse the stress before it arrives.
+
+There is also a legitimacy test.
+
+A public backstop can survive economically and still fail politically if people believe it protects sophisticated firms while leaving households exposed. Terrorism insurance for commercial buildings may be defensible because it preserves financing and employment, but the public rationale has to be stated. A cyber backstop for critical infrastructure may be defensible because cascading failure would injure the public, not merely shareholders. A future AI backstop would need an equally clear reason.
+
+The beneficiary cannot simply be the industry asking to transfer its tail.
+
+The public layer should purchase a public outcome: continuity of credit, essential services, broad coverage availability, recovery capacity, or protection against systemic collapse.
+
+That requirement helps determine the conditions attached to support.
+
+If taxpayers absorb extreme cyber loss, participating firms can reasonably be required to meet security and incident-reporting standards. If public catastrophe capacity supports property markets, building and land-use policy should not ignore the hazard. If government stands behind an AI accumulation layer, deployers should not be free to expand autonomous authority without controls while assuming the tail is public.
+
+Backstops should buy prevention as well as solvency.
+
+The discipline is reciprocal.
+
+Government should not demand impossible risk elimination from participants merely to claim the guarantee is conditional. The point is to reduce avoidable loss while preserving the activity the program exists to support.
+
+A useful condition changes behavior before catastrophe.
+
+A decorative condition produces paperwork.
+
+This is where public and private insurance look most alike.
+
+Both are promises about money after uncertainty.
+
+Both become stronger when they shape safer behavior before uncertainty resolves.
+
+The state has a larger balance sheet.
+
+It does not get an exemption from underwriting.
