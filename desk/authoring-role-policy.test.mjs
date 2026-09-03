@@ -47,8 +47,14 @@ match(boundary, /data-filter="published"/);
 match(boundary, /summaryReady/);
 match(boundary, /authoring-role\.css/);
 match(roleCss, /repeat\(3, minmax\(0, 1fr\)\)/);
+match(roleCss, /\.desk-local-workspace #startBookLink\s*\{[^}]*display:\s*none/s);
+match(roleCss, /\.book-secondary-actions > summary/);
+match(roleCss, /min-height:\s*2\.75rem/);
 match(index, /id="summaryPublished"/);
 match(index, /id="summaryReady"/);
 match(index, /data-filter="published"/);
+match(index, /<details class="book-secondary-actions">\s*<summary>More<\/summary>/s);
+match(index, /book-secondary-links[\s\S]*folder-action[\s\S]*history-action/);
+match(index, /preview-action[\s\S]*edit-action[\s\S]*book-secondary-actions/);
 
-console.log(`Desk authoring role policy: ${assertions}/26 assertions passed`);
+console.log(`Desk authoring role policy: ${assertions}/32 assertions passed`);
