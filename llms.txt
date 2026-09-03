@@ -47,6 +47,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Public Pressure](https://svyable.github.io/desk/books/public-pressure/README.md)
 - [Restructuring America](https://svyable.github.io/desk/books/restructuring-america/README.md)
 - [Right To Try](https://svyable.github.io/desk/books/right-to-try/README.md)
+- [Running On Full](https://svyable.github.io/desk/books/running-on-full/README.md)
 - [Scaling Laws](https://svyable.github.io/desk/books/scaling-laws/README.md)
 - [Second Guess](https://svyable.github.io/desk/books/second-guess/README.md)
 - [Silent Cartel](https://svyable.github.io/desk/books/silent-cartel/README.md)
