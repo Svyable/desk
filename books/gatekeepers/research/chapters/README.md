@@ -8,3 +8,4 @@ These files preserve chapter-level source selection, claim boundaries, counterev
 - [Chapter 8 — The Border](ch08-the-border.md)
 - [Chapter 9 — The App Store](ch09-the-app-store.md)
 - [Chapter 10 — The Payment Rail](ch10-the-payment-rail.md)
+- [Chapter 11 — The Approved Vendor](ch11-the-approved-vendor.md)
