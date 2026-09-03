@@ -10,3 +10,4 @@ These files preserve chapter-level source selection, claim boundaries, counterev
 - [Chapter 10 — The Payment Rail](ch10-the-payment-rail.md)
 - [Chapter 11 — The Approved Vendor](ch11-the-approved-vendor.md)
 - [Chapter 12 — The Feed](ch12-the-feed.md)
+- [Chapter 13 — The API Key](ch13-the-api-key.md)
