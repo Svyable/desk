@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 12 drafted (Prologue + Chapters 1–11) |
+| **Chapters**  | 13 drafted (Prologue + Chapters 1–12) |
 
 ## Contents
 
@@ -21,4 +21,5 @@
 - [x] [Chapter 9: The Authenticity Crisis](manuscript/ch09-the-authenticity-crisis.md)
 - [x] [Chapter 10: The Human Premium](manuscript/ch10-the-human-premium.md)
 - [x] [Chapter 11: The Scarcity After Intelligence](manuscript/ch11-the-scarcity-after-intelligence.md)
+- [x] [Chapter 12: The Institutions That Cannot Exponentiate](manuscript/ch12-the-institutions-that-cannot-exponentiate.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
