@@ -1,0 +1,47 @@
+name: Sync Look Alive release once
+
+on:
+  push:
+    branches:
+      - release/look-alive
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: ${{ !contains(github.event.head_commit.message, '[catalog-generated]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out Desk release branch
+        uses: actions/checkout@v4
+        with:
+          ref: release/look-alive
+          path: desk
+          fetch-depth: 0
+
+      - name: Check out projected Shelf release branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git clone --quiet --filter=blob:none https://github.com/Svyable/shelf.git shelf
+          git -C shelf checkout --quiet release/look-alive
+
+      - name: Regenerate Desk catalog against projected Shelf state
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd desk
+          python3 scripts/catalog.py --write --shelf-root "$GITHUB_WORKSPACE/shelf"
+
+      - name: Remove one-shot workflow and commit tandem bookkeeping
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -f desk/.github/workflows/sync-look-alive-release-once.yml
+          git -C desk config user.name 'Svyable Catalog Automation'
+          git -C desk config user.email '129682319+Svyable@users.noreply.github.com'
+          git -C desk add README.md books/look-alive/README.md .github/workflows/sync-look-alive-release-once.yml
+          git -C desk diff --cached --check
+          git -C desk commit -m 'Reconcile Look Alive tandem release [catalog-generated]'
+          git -C desk push origin HEAD:release/look-alive
