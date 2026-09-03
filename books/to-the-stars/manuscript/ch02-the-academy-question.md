@@ -1,217 +1,253 @@
 # The Academy Question
 
-The closest precedent for the United States Space Academy began with another service that had outgrown somebody else's institution.
+A new military service does not automatically get a new academy.
 
-When the Air Force became independent in 1947, the country did not immediately pour concrete for a new academy.
+The United States learned that during the years before it built the Air Force Academy.
 
-That delay is useful to remember because later generations tend to compress institutional history. A new military domain appears. A service is created. A school follows. The sequence looks almost biological, as though a service academy were an organ that naturally develops once a branch reaches maturity.
+The Air Force became an independent service in 1947. The academy that would eventually educate officers in its name was authorized by Congress in 1954. The gap matters. Seven years is short on the scale of institutions and long enough to expose a basic truth: organizational independence and educational independence are separate decisions.
 
-It was never that automatic.
+Airpower had already transformed warfare before the Air Force received its own department. Military aviators had fought through two world wars. Aircraft technology had moved from fragile machines to bombers capable of crossing continents. Strategic bombing, air defense, logistics and the beginnings of a nuclear delivery mission had created professions that did not fit comfortably inside the older image of an Army officer.
 
-American airpower had existed inside the Army for decades before the Air Force became a separate service. Aviation officers trained through existing military institutions. Pilots learned to fly at specialized fields and schools. Engineers learned engineering at universities and military programs. The country had no shortage of places where a person could acquire individual skills related to airpower.
+Yet the United States did not respond to Air Force independence by simply copying West Point and changing the uniforms.
 
-What airpower advocates wanted was something less tangible.
+It argued about what an air academy would be for.
 
-They wanted a place where airpower was not an elective, specialty or supporting subject.
+That is the precedent the United States Space Academy should study most carefully.
 
-They wanted a school where it was the organizing idea.
+The superficial analogy is obvious. The Air Force was a new service. The Space Force is a new service. The Air Force eventually received an academy. Therefore the Space Force should receive one too.
 
-That desire predated the independent Air Force. Military aviation had changed warfare so quickly in the first half of the twentieth century that institutional arrangements struggled to keep pace. Aircraft moved from reconnaissance tools to fighters, bombers, transports and strategic weapons. The people operating them began to see themselves not merely as soldiers who happened to fly but as members of a profession with its own technologies, doctrine, risks and theories of war.
+History is less obedient.
 
-A separate academy became part of that argument.
+The Air Force Academy emerged from a longer debate over how officers should be educated, how much the existing service academies could adapt, what a new technological domain required and whether the institutional cost was justified. The Academy's own history describes years of proposals and study before Congress authorized the school. Even after authorization, the campus did not appear fully formed.
 
-The logic was partly practical. Air officers needed technical preparation. The logic was partly political. A service that relied entirely on another branch's academy would depend on that branch's culture for a portion of its future leadership. And the logic was partly symbolic. If airpower was important enough to justify an independent service, perhaps it was important enough to deserve an institution that formed officers around it from the beginning.
+The first class entered in 1955 at temporary facilities at Lowry Air Force Base in Denver.
 
-Congress was not required to accept that conclusion.
+The permanent Academy was still being built.
 
-Institutions are expensive, and service academies are unusually durable forms of expense. A temporary training program can be created, changed or closed. An academy acquires land, buildings, faculty, alumni, traditions, congressional patrons, athletic teams, local economic importance and eventually a mythology. The decision to create one reaches further into the future than the appropriations debate that starts it.
+Cadets began becoming the institution before the institution had all of its buildings.
 
-After the Air Force became independent, the question remained open for years.
+That sequence is worth remembering because modern political announcements often reverse it in the imagination. We see the rendering first. A campus acquires symbolic power before students arrive. Site selection becomes a political prize. Architecture becomes the visible proof that an idea is serious.
 
-In 1949, Secretary of Defense James Forrestal appointed a board of military and civilian educators to examine the service-academy system. The group became associated with two of its chairmen, Robert Stearns and Dwight D. Eisenhower. Eisenhower had commanded Allied forces in Europe and then become president of Columbia University. He understood both military institutions and higher education, an unusual combination that made the academy question more than a fight over service pride.
+The Air Force Academy's beginning suggests a different order.
 
-The board concluded that the Air Force needed its own academy.
+Purpose first.
 
-Congress eventually agreed. In 1954, President Eisenhower—now President of the United States—signed legislation authorizing the U.S. Air Force Academy.
+Students next.
 
-Seven years had passed since the Air Force became a separate service.
+Permanent architecture after the educational model has enough substance to inhabit it.
 
-That interval is almost exactly the kind of interval the Space Force has now crossed.
+The question facing the Space Academy commission in 2026 is therefore not whether a new service has ever eventually received a new academy.
 
-Space Force was created in December 2019. The Space Academy proposal arrived in August 2026. The parallel is tempting enough to become dangerous.
+It has.
 
-History does not repeat because the calendar rhymes.
+The question is why.
 
-The Air Force of the early 1950s and the Space Force of 2026 differ dramatically in size, mission, technology, institutional context and existing educational infrastructure. The Air Force had emerged from a world war in which airpower operated at enormous scale. The Space Force is intentionally lean, numbering a little over fourteen thousand military and civilian Guardians by recent official descriptions. The Air Force Academy did not have another existing service academy already producing officers specifically for an Air Force predecessor in the way it now produces Guardians for Space Force.
+An academy does several jobs simultaneously.
 
-Still, the earlier academy offers a way to ask the right questions.
+It teaches academic subjects.
 
-The first is whether a domain creates a distinct profession.
+It forms professional identity.
 
-The second is whether that profession requires formation at the undergraduate level.
+It creates a recurring source of officers.
 
-The third is whether the value of institutional independence exceeds the cost of duplicating what already exists.
+It builds networks among people likely to hold responsibility later.
 
-Those questions were not resolved by announcing the Air Force Academy. They moved into design.
+It provides a place where doctrine, technology and education interact.
 
-The site fight came next.
+It becomes a physical symbol of the service and a political constituency for it.
 
-The federal government invited communities to make their case for hosting the new institution. The scale of the competition revealed what everybody understood: an academy would be more than a school. It would be a national landmark and a permanent economic anchor. The Air Force's site-selection commission traveled 21,000 miles and considered 580 proposed sites in 45 states before narrowing the field.
+These functions are connected but not identical.
 
-Colorado Springs eventually won.
+A civilian university can teach engineering without forming military officers. Officer Training School can commission people without giving them four years of shared undergraduate life. A staff college can educate experienced officers without shaping them at nineteen. A research laboratory can advance technology without creating a professional culture.
 
-The choice now feels inevitable because the Academy and the landscape have fused in the national imagination. The Cadet Chapel, the long approaches, the mountains behind the campus—these became the physical language of the institution.
+A service academy bundles the functions.
 
-They were not inevitable in 1954.
+That bundle is expensive.
 
-A different political coalition could have put the Academy somewhere else, and generations of Air Force officers would have attached their memories to a different horizon.
+It can also be powerful.
 
-That is the first warning for anyone watching the Space Academy location fight.
+West Point had shown how a federal military school could influence a nation beyond its immediate military mission. Annapolis had made the education of naval officers into a permanent institution rather than an improvised apprenticeship. By the middle of the twentieth century, the Air Force's advocates could point to a service whose technological and strategic responsibilities had become too distinctive, in their view, to rely indefinitely on officers formed inside Army and Navy institutions.
 
-Site selection is not an administrative footnote.
+The argument was not merely that airplanes were different machines.
 
-Where an academy sits changes whom it can partner with, which industries surround it, which bases and laboratories are nearby, who teaches there, which congressional delegation protects it and what story cadets tell about their place in the service.
+It was that airpower created a different set of professional problems.
 
-A Space Academy near Johnson Space Center would grow inside NASA's human-spaceflight culture. A school in Colorado Springs would sit among the Air Force Academy and a dense network of military space organizations. A Florida location could tie the institution to launch operations, STARCOM and the Space Coast. Other states could make equally deliberate arguments around research universities, industry clusters or federal installations.
+Speed changed command.
 
-None of those possibilities had been selected when the 2026 order was signed.
+Range changed strategy.
 
-The Air Force precedent offers another lesson: a permanent campus is not required before an institution begins.
+Technology changed the relationship between officer and machine.
 
-The first Air Force Academy class entered in July 1955 at Lowry Air Force Base near Denver. There were 306 men in that class. Their permanent campus was still under construction.
+The nuclear age changed the consequences of judgment.
 
-This detail is more important than its quaintness.
+A service built around those problems wanted an academy where the problems were central rather than supplemental.
 
-Institutions are often imagined through buildings because buildings are visible. But the Air Force Academy began as a program before it became a place. Cadets could be admitted, sworn in, taught and trained while architects, engineers and construction crews worked on the school that later generations would assume had always been there.
+This is where the analogy to space becomes stronger.
 
-A Space Academy could follow a similar pattern if policymakers choose speed over architectural completeness.
+Space operations impose their own conditions. Orbital mechanics constrains movement differently from terrestrial maneuver. Systems can be physically distant from the people controlling them. Cyber networks and ground infrastructure can matter as much as the spacecraft. Satellites may provide effects to forces around the world without the operator ever seeing the battlefield. Commercial services, intelligence systems and military capabilities can occupy the same technical ecosystem. The domain is global, technically dense and increasingly contested.
 
-The executive order explicitly tells the commission to consider pilot programs, partnerships and actions available under existing authorities. That language leaves room for an academy that begins in borrowed classrooms or distributed programs before a permanent campus opens.
+A Space Force officer should not have to treat all of that as an appendix to somebody else's profession.
 
-There is a practical argument for doing so.
+But this is also where the analogy weakens.
 
-A first cohort tests the institution's ideas before concrete freezes them.
+The Air Force Academy was designed for one military service.
 
-What courses actually need dedicated laboratories?
+The United States Space Academy proposed in Executive Order 14423 is broader on its face. NASA chairs the commission. The order names astronauts, scientists, engineers, operators, entrepreneurs, civil servants and warfighters. It directs the commission to consider Armed Forces service and civilian Federal service.
 
-How much of the curriculum should come from NASA, Space Force, existing universities or industry?
+The closest historical precedent is therefore also an imperfect one.
 
-Can military and civilian service-track students live under one system?
+If the Space Academy ultimately becomes a conventional military service academy for Space Force officers, the Air Force Academy story provides a direct institutional comparison.
 
-Which faculty profiles are difficult to recruit?
+If it becomes a mixed civil-military federal academy, the country is trying something else.
 
-How much classified instruction belongs in an undergraduate program?
+That possibility makes the seven-year gap after Air Force independence even more relevant.
 
-What does physical training mean for a school whose graduates may include both uniformed officers and civilian engineers?
+Institutions benefit from the time in which their purpose is argued over.
 
-A temporary campus would make some of those questions harder. It would also make mistakes cheaper.
+The Air Force of 1947 did not need to wait for an academy in order to operate. It already possessed officers, bases, aircraft, commands and educational pathways inherited from the Army Air Forces and other military institutions. The service could function while the question of a dedicated academy remained open.
 
-The Air Force Academy itself was designing an educational identity while it was designing a campus.
+Space Force has the same advantage.
 
-Its early curriculum mixed military training, physical development, science, humanities and social sciences. This sounds conventional now. At the time, it reflected a serious choice about what an officer in a technical service needed to know.
+It does not need a Space Academy to exist tomorrow.
 
-An academy could have become a narrow engineering school with uniforms.
+It already commissions officers through the Air Force Academy, ROTC and Officer Training School. STARCOM already conducts service-specific training and professional education. The service has time to ask what problem only a new academy can solve.
 
-The Air Force chose something broader.
+That time should be used rather than treated as delay.
 
-That choice became increasingly important as the service's technology changed. Aircraft grew more complex. Nuclear deterrence altered strategy. Missiles and space systems became central. Cyber arrived later. An officer educated only for the machine of 1955 would have become obsolete quickly.
+The Academy question is partly a question of culture.
 
-The Academy therefore had to teach durable intellectual habits as well as current systems.
+New services worry about being absorbed back into the institutions that gave birth to them. Distinctive uniforms, terminology, doctrine and organizations can appear superficial until one remembers that professions are made from repeated signals about what matters.
 
-Space Academy designers will face that problem at a harsher speed.
+A school is one of the strongest signals.
 
-A four-year institution admitting a student in one technical era may graduate that student into another. Artificial intelligence systems can change in months. Commercial launch companies can alter cost structures in years. Satellite architectures can move from exquisite individual spacecraft toward proliferated constellations. Software-defined systems can shift capabilities after launch. Cyber threats evolve continuously. Autonomy changes what operators do. National-security requirements can change before a cadet finishes a degree.
+The curriculum says which knowledge is central.
 
-The temptation will be to build a curriculum around today's most urgent technology.
+The leadership system says what behavior is rewarded.
 
-That is how an academy becomes a museum before its first alumni reunion.
+The campus history says who belongs in the story.
 
-The better precedent is the Air Force Academy's early investment in astronautics.
+The instructors say which experience deserves transmission.
 
-In 1958—the same year NASA began operations—the Academy activated an Astronautics Department. By the mid-1960s it offered an astronautical engineering major. This was not because Space Force existed. It was because a serious technical institution could see that its service's domain was expanding.
+The graduates become the network through which the institution reproduces itself.
 
-Decades later, that decision mattered in an unexpected way.
+The Air Force Academy gave airpower a place where it did not have to compete for the center of the room.
 
-When Space Force needed academy-educated officers in 2020, the Air Force Academy already possessed a space tradition.
+A Space Force-specific academy could do the same for spacepower.
 
-This creates the strongest historical argument against a separate Space Academy.
+But the proposed United States Space Academy may have a different purpose: creating a place where nobody gets the center of the room permanently.
 
-The Air Force Academy did what good institutions are supposed to do: it adapted.
+NASA would bring civil exploration, science and engineering traditions. Space Force would bring a profession of arms. Other federal organizations would bring acquisition, intelligence, regulation and policy. Commercial space would bring market pressure, manufacturing, launch cadence and private capital. Universities would bring deep disciplinary communities.
 
-It incorporated a new domain rather than requiring the government to create another undergraduate institution every time military technology changed. If the existing Academy can train Air Force pilots, cyber officers, engineers and Guardians, perhaps adaptability is a virtue worth preserving.
+A school built around those interfaces would be less like a service academy asserting independence and more like an institution attempting integration.
 
-The Space Academy proposal must therefore distinguish between two claims.
+That distinction should affect everything from admissions to governance.
 
-One claim is that space is important.
+The Air Force Academy could define success in a relatively clear way: educate, train and inspire future officers for the Air Force, and now also Space Force. Its cadets live under one military system even when their future services differ.
 
-That is no longer controversial inside the national-security establishment.
+A mixed Space Academy would have several definitions of success running at once.
 
-The other claim is that space is institutionally distinct enough to justify a new federal academy.
+A future Guardian may need military discipline and commissioning requirements.
 
-That is not settled by the first claim.
+A future NASA engineer may need technical depth, public-service formation and experience with operations but not military subordination.
 
-The Air Force Academy's creation demonstrates that new domains sometimes do warrant new institutions. Its later history demonstrates that old institutions can also absorb new domains successfully.
+A future civilian program manager may need acquisition literacy and systems thinking.
 
-Both lessons arrive from the same campus.
+A future scientist may need an academic culture that protects the willingness to tell powerful institutions their assumptions are wrong.
 
-There is another difference between 1954 and 2026.
+The school cannot simply choose the most demanding requirements from each profession and stack them on top of one another.
 
-The Air Force Academy was created to form officers for a military service. The Space Academy order is broader. It places NASA in the lead and describes future civilian federal service as well as military service.
+That creates exhaustion, not integration.
 
-That means the designers cannot simply copy the Air Force precedent even if they admire it.
+The founders need a theory of common formation.
 
-A copy would dodge the most interesting part of the proposal.
+What should every graduate understand before specialization and service track divide them?
 
-What would it mean to build an academy where the organizing domain is not a branch of the armed forces but space itself?
+The order does not answer that.
 
-West Point organizes around the Army.
+The commission is supposed to.
 
-Annapolis organizes around naval service.
+The Air Force Academy precedent offers another lesson here: technological institutions have to educate for a future they cannot forecast exactly.
 
-The Air Force Academy organizes around the Department of the Air Force and commissions officers into Air Force and Space Force.
+The Academy was authorized in 1954, before Sputnik, before human spaceflight, before intercontinental ballistic missiles became ordinary facts of strategic life and before digital systems transformed military operations. Yet the institution developed astronautics and space education as the domain evolved. It eventually produced astronauts and later commissioned Guardians into a service that did not exist when the campus was designed.
 
-A NASA-led Space Academy could be asked to organize around a domain inhabited by institutions with deliberately different missions.
+A durable academy cannot be optimized too tightly around the technology present at founding.
 
-That is a harder design problem.
+The Space Academy faces this problem at greater speed.
 
-It is also potentially a more consequential one.
+A student entering a four-year program in the late 2020s could graduate into a commercial launch market, satellite architecture, artificial-intelligence environment and military threat picture meaningfully different from the one described during admissions. The school has to teach principles that survive tools while remaining connected to tools closely enough to be operationally credible.
 
-The country has built many technical universities and only a handful of service academies. The unusual power of the academy model comes from binding education to obligation. Students receive a heavily supported education, and the government receives years of service in return. The institution does not merely teach; it recruits the future state.
+That argues for mathematics, physics, engineering reasoning, software fundamentals, systems thinking, history, law, ethics and the ability to learn.
 
-If Space Academy students owe military or civilian federal service, then the government would be using undergraduate education to shape the composition of the national space workforce decades ahead.
+It also argues against building institutional identity around a particular platform, contractor or doctrine.
 
-That is not simply a workforce program.
+The Academy question is therefore not only “Do we need another school?”
 
-It is industrial policy conducted through people.
+It is “Can we build a school that does not become obsolete faster than the profession it is supposed to serve?”
 
-It is national-security policy conducted through classrooms.
+The Air Force Academy survived technological change partly because its mission was broader than any one aircraft.
 
-It is a bet that certain kinds of judgment are important enough to cultivate before a person reaches the organization where that judgment will be used.
+The Space Academy will need the same discipline.
 
-The Air Force made a comparable bet in 1954.
+The historical site competition offers another warning.
 
-The bet paid off in ways its founders could not fully specify. The Academy produced pilots, engineers, commanders, astronauts, scientists and eventually Guardians. It also produced institutional failures and controversies, as every durable human institution does. Longevity is not proof of perfection. It is proof that the decision created something capable of surviving changes its founders could not predict.
+The Air Force Academy's own history describes a national search that considered hundreds of proposed locations before Colorado Springs was selected. The choice mattered enormously. The campus became part of the identity of Colorado Springs, and Colorado Springs became part of the institutional geography of American military space.
 
-That is a high standard for the Space Academy.
+Site selection for a Space Academy will carry the same temptation to let geography answer purpose.
 
-A school designed around the excitement of a particular administration's Moon program will not be enough.
+A city with NASA facilities will say proximity to civil space should define the school.
 
-A school designed around one generation of rockets will not be enough.
+A military-space hub will say operational relevance should.
 
-A school built mainly to give a new service equal status with older services will not be enough.
+A launch state will say access to launch infrastructure should.
 
-The academy must be able to graduate useful people into futures its designers get wrong.
+A region with universities or aerospace companies will make its own case.
 
-That is the academy question in its strongest form.
+Those claims may all be reasonable.
 
-Not whether space deserves a beautiful campus.
+None should be decided before the commission understands what students actually need to do.
 
-Whether the United States can create an institution whose purpose remains clear after the technologies, leaders and programs that justified it have changed.
+If the Academy's educational model depends on rotating through several parts of the space enterprise, no single location can provide all of them. If the school is primarily military, proximity to Space Force organizations may matter more. If it is primarily technical and civilian, the calculus changes.
 
-The Air Force waited seven years after independence before Congress gave it an academy.
+The site is downstream of the mission.
 
-Space Force has waited roughly the same.
+Political systems often reverse that sequence because land and construction create visible constituencies.
 
-The resemblance is striking.
+A first class in temporary facilities can be a defense against premature certainty.
 
-The answer does not have to be.
+The Lowry precedent matters for exactly that reason.
+
+Temporary does not mean unserious.
+
+It can mean learn before pouring concrete.
+
+A pilot Space Academy could test whether civilian and military students can share a core. It could test faculty models. It could test partnerships with universities and federal centers. It could discover how much classified instruction is actually necessary. It could measure what students gain from a common residential experience that they could not gain through a distributed scholarship program.
+
+If those experiments fail, the institution should change before permanence makes change expensive.
+
+That is the more important historical analogy.
+
+The Air Force Academy was not born because air sounded futuristic.
+
+It was born after a long institutional argument that a separate military service needed a place to form officers around a distinctive domain.
+
+The Space Academy should demand the same seriousness from its advocates.
+
+Space is important. Space Force is real. NASA's workforce needs are real. Commercial space is expanding. National-security competition is intensifying.
+
+None of those facts individually proves a new academy is the best educational response.
+
+Together they create a question large enough to investigate.
+
+The commission has 120 days to produce recommendations.
+
+The institution, if it comes, will live much longer than that.
+
+The Air Force waited seven years after becoming independent for Congress to authorize its academy, then started educating cadets before the permanent campus was ready.
+
+The lesson is not that the Space Force should wait seven years.
+
+The lesson is that an academy is not the automatic shadow of a service.
+
+It is a separate choice about how a country expects a profession to reproduce itself.
+
+That choice deserves to be made on purpose.
