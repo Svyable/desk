@@ -88,7 +88,7 @@ The manuscript distinguishes reputation from provenance: reputation compresses a
 
 ## Evidence pass 8 — the long tail wakes up
 
-The institutional-contact section now grounds procurement, logistics, manufacturing/supply-chain population scale, and claims administration in documented deployments:
+The institutional-contact section grounds procurement, logistics, manufacturing/supply-chain population scale, and claims administration in documented deployments:
 
 - the 2022 *Harvard Business Review* case on Walmart International’s Pactum deployment, where automated negotiation was aimed at tail-end supplier agreements whose incremental value did not justify additional human buyer time;
 - AWS’s OPLOG customer case, documenting a 2025 production system of specialized agents for fulfillment operations and thousands of operational decisions per day, with performance figures explicitly treated as customer-and-vendor reported;
@@ -97,16 +97,29 @@ The institutional-contact section now grounds procurement, logistics, manufactur
 
 This pass develops the concept of an institution’s **economic floor of attention**: work below the threshold where expected benefit justifies scarce human time. The manuscript argues that agents can change institutional coverage by making previously uneconomic negotiations, monitoring, reconciliation, review, and exception handling worth doing. It explicitly separates that capability from normative value: cheaper attention can improve service and consistency, but it can also enable more granular bargaining, surveillance, enforcement, or claims scrutiny.
 
+## Evidence pass 9 — the memory that outlives the session
+
+The machine-culture and memory sections now ground persistent-state risk in peer-reviewed attack research, current-system experiments, and operational defensive guidance:
+
+- NeurIPS 2024 AgentPoison, establishing poisoned long-term memory or retrieval knowledge as a backdoor-style agent attack surface;
+- NeurIPS 2025 MINJA, showing that malicious records can be induced through query-only interaction rather than requiring direct database modification;
+- the 2026 MPBench preprint, which identifies multiple memory-write channels and structural vulnerabilities and reports a trade-off in which aggressive memory writing/retrieval can increase exploitability;
+- the July 2026 *Bad Memory* preprint, which studies persistent memory-file attacks in sandboxed Claude Code and OpenAI Codex setups and finds that planted payloads can influence later sessions under some configurations;
+- Microsoft’s August 2026 zero-trust attack catalog, which treats memory/context poisoning as an operational security problem and recommends write access control, sanitization, versioning, rollback, refresh, domain isolation, trust scoring, and telemetry.
+
+This pass treats memory as a **write-retrieve-act pipeline** and connects it to provenance, machine culture, and reproduction. The manuscript argues that memories copied into child agents or shared stores become a form of heredity; therefore incident response may require tracing not just compromised agents but the descendants, summaries, and later decisions that inherited poisoned state. It also distinguishes operational memory from audit history so that accountability does not require retaining every personal or obsolete detail forever.
+
 Machine-readable source records for the evidence passes live under [`research/sources/`](sources/). First-party company metrics are identified as such in the manuscript. Internal evaluations are not presented as independent evidence.
 
 ## Still to verify
 
-Before the manuscript is treated as a complete trade-nonfiction draft, verify and source the concrete claims chapter by chapter, especially:
+Before the manuscript is treated as a complete trade-nonfiction draft, the next work should shift from adding evidence islands to whole-book verification and synthesis, especially:
 
-- persistent-memory poisoning, memory-snapshot inheritance, and inter-agent trust mechanisms beyond the provenance analogues already added;
-- historical analogues used elsewhere to explain organizations, monocultures, bureaucracy, infrastructure, and resilience;
-- any real organization, product, standard, incident, or numerical claim added in later reporting passes.
+- historical analogues used across chapters to explain organizations, monocultures, bureaucracy, infrastructure, resilience, commons, and constitutional constraints;
+- repeated factual claims that predate the evidence interludes and should either receive endnotes, be softened, or be converted into explicitly illustrative reasoning;
+- duplicated ecology metaphors and concepts that can now be tightened because the evidence layer is substantially stronger;
+- any real organization, product, standard, incident, or numerical claim added in later revisions.
 
 The opening refrigerated-truck sequence and the hurricane-insurance cascade are illustrative constructions in this draft, not reported incidents. A release pass should keep them explicitly hypothetical or replace them with sourced cases.
 
-The source trail should grow alongside reporting rather than being backfilled with plausible citations after the prose is finished.
+The source trail should grow alongside revision rather than being backfilled with plausible citations after the prose is finished.
