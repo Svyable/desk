@@ -32,6 +32,12 @@ This is exactly what Space Force has done.
 
 The comparison should not be stretched into destiny, but it reveals a common institutional strategy: borrow first, differentiate later.
 
+Borrowing is efficient because institutions are expensive. It is also revealing because it forces the new organization to identify what it actually cannot get from the old one. If all the important functions can be borrowed indefinitely, the case for duplication weakens. If borrowing begins to distort the profession, independence becomes easier to justify.
+
+That is the question the Air Force had to answer after 1947.
+
+Its advocates did not merely say that aircraft were important. They argued that an air service required officers whose education made airpower central from the beginning. The claim was institutional, not technological.
+
 In 1949, Defense Secretary James Forrestal appointed a board to study the service-academy system and the educational needs of the Air Force. The group eventually became known for Robert Stearns and Dwight Eisenhower, two men whose backgrounds placed education and military organization in the same conversation.
 
 The board recommended a separate Air Force Academy.
@@ -53,6 +59,12 @@ Some were philosophical.
 What kind of undergraduate education should a modern technical officer receive?
 
 Some were regional, because once Congress contemplated a permanent campus, communities around the country understood the prize.
+
+These were not side questions. Together they formed the test of whether the proposed academy solved a problem large enough to deserve permanence.
+
+A new federal institution has a political burden that a new course does not. A course can be revised quietly. A campus creates constituencies. Faculty careers, alumni networks, congressional relationships and local economies accumulate around it. The more durable the institution becomes, the harder it becomes to admit that the original premise was wrong.
+
+That is why the early fight matters to the Space Academy proposal.
 
 The site fight became national.
 
@@ -116,6 +128,8 @@ Some borrowing will be sensible. Federal academies have learned hard lessons abo
 
 But borrowed tradition becomes a problem when it substitutes for purpose.
 
+A school that copies the visible rituals of an academy without identifying the profession it is forming will look mature before it is useful.
+
 The Air Force Academy's founders understood that the institution needed its own academic identity as well as its own ceremonies.
 
 Airpower was technically demanding, but the Academy was not designed as a narrow trade school. Its curriculum mixed science and engineering with humanities and social sciences, military education and physical development. Officers would command organizations and make political-strategic decisions, not merely operate machinery.
@@ -178,11 +192,41 @@ That comparison complicates the symmetry argument immediately.
 
 If the Marines do not require a Marine Corps Academy, perhaps Guardians do not require a Space Force Academy.
 
-The 2026 proposal escapes this comparison by being broader than a Space Force academy.
+The comparison also forces a more useful question than parity.
+
+What is the educational failure produced by the current arrangement?
+
+If Guardian officers are graduating from USAFA with the technical background, leadership formation and service commitment Space Force needs, a new military academy may be difficult to justify. If the service can identify persistent problems that cannot be solved inside USAFA—insufficient control over curriculum, weak Space Force identity, inadequate capacity, poor integration with civilian space, or some other measurable gap—the argument changes.
+
+The evidence must come before the architecture.
+
+This is where the 2026 proposal becomes more interesting than the shorthand “Space Force Academy.”
 
 NASA leadership, civilian service obligations and the inclusion of scientists, engineers and other professionals change the institutional category. The school may be designed not to complete the service-academy set but to create something the existing set does not contain.
 
-The commission's work will determine whether that distinction survives contact with politics.
+That distinction matters because the easiest way to lose the Space Academy argument is to fight the Air Force Academy on territory it already occupies.
+
+USAFA has cadets.
+
+It has accreditation.
+
+It has a working admissions system.
+
+It has laboratories and faculty.
+
+It has military culture.
+
+It has an established route into Space Force.
+
+A new academy cannot justify itself by recreating those capabilities more expensively.
+
+It must define a different product.
+
+One possible product is a cross-government space profession: students formed together before entering military, NASA or other federal service. Another is a public-service technical institution whose value comes from integrating science, engineering, operations, law, acquisition and policy across agencies. Another is a networked academy that uses federal centers and existing universities instead of owning every capability on one campus.
+
+The commission has not chosen among those possibilities.
+
+That uncertainty should remain visible because it is the real work.
 
 Location fights have a way of simplifying purpose.
 
@@ -208,7 +252,27 @@ Administrations prefer visible accomplishments. A groundbreaking can be schedule
 
 Professional culture cannot be accelerated the same way.
 
-This is the deepest lesson from the Air Academy fight.
+This creates a second lesson from the Air Force Academy fight: institutional patience must be paired with institutional measurement.
+
+The founders of a new school should not have to prove in year one what only alumni can prove in year fifteen. But they should be able to define what success will eventually look like.
+
+How many graduates are needed?
+
+Which workforce gaps should narrow?
+
+What does the Academy produce that USAFA, ROTC and civilian universities do not?
+
+How will employers compare its graduates with those from existing pathways?
+
+How much should a graduate cost the taxpayer?
+
+How many graduates remain in public service after their obligation ends?
+
+What evidence would justify expansion?
+
+What evidence would justify redesign or closure?
+
+The Air Force Academy survived because it became useful enough that the founding argument ceased to require constant defense. A Space Academy should aspire to the same outcome, but it should not expect history to grant it in advance.
 
 The creation of a school is a political act.
 
