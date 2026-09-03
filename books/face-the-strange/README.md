@@ -49,4 +49,4 @@
 - [Falsification notes](research/falsification-notes.md)
 - [Release review](research/release-review.md)
 
-This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Svyable Shelf](https://github.com/Svyable/shelf/tree/main/books/face-the-strange) in September 2026; later Desk edits do not silently rewrite that edition. The September 2026 release review cleared the first edition while preserving its evidence boundaries and counterclaims.
+This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Sven Hardy Benson’s Shelf](https://github.com/Svyable/shelf/tree/main/books/face-the-strange) in September 2026; later Desk edits do not silently rewrite that edition. The September 2026 release review cleared the first edition while preserving its evidence boundaries and counterclaims.

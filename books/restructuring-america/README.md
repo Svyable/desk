@@ -6,7 +6,7 @@
 |---|---|
 | **Status** | Complete draft |
 | **Author** | Sven Hardy Benson |
-| **Publication Surface** | Svyable Desk |
+| **Publication Surface** | Sven Hardy Benson’s Desk |
 | **Chapters** | 20 of 20 drafted |
 | **Method** | Trade nonfiction + institutional analysis + primary-source research + falsification notes |
 

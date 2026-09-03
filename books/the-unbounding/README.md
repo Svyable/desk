@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Authors**   | @svyable |
+| **Authors**   | Sven Hardy Benson |
 | **Status**    | Complete draft |
 | **Chapters**  | 19 of 19 drafted |
 
@@ -25,7 +25,7 @@ When Humans and AI Cross the Event Horizon of Thought.
 - [x] [Ch 12 — Moonshots Without Permission](manuscript/ch12-moonshots-without-permission.md)
 - [x] [Ch 13 — The Doomberg Chapter](manuscript/ch13-the-doomberg-chapter.md)
 - [x] [Ch 14 — Strategy at the Speed of Thought](manuscript/ch14-strategy-at-the-speed-of-thought.md)
-- [x] [Ch 15 — Svyable, Split Across Futures](manuscript/ch15-svyable-split-across-futures.md)
+- [x] [Ch 15 — Sven Hardy Benson, Split Across Futures](manuscript/ch15-sven-hardy-benson-split-across-futures.md)
 - [x] [Ch 16 — The Last Human Advantage](manuscript/ch16-the-last-human-advantage.md)
 - [x] [Ch 17 — Alignment Is a Cultural Problem](manuscript/ch17-alignment-is-a-cultural-problem.md)
 - [x] [Ch 18 — The New Social Contract with Intelligence](manuscript/ch18-the-new-social-contract-with-intelligence.md)

@@ -15,7 +15,7 @@ Artificial intelligence is becoming a form of state capacity.
 
 *Intelligence State* follows that transformation across the Americas and asks a harder question than who builds the best model: **who can make intelligence abundant without making sovereignty scarce?** The book treats sovereignty not as autarky but as meaningful choice under pressure across five currencies—compute, energy, data, talent, and trust.
 
-This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Svyable Shelf](https://github.com/Svyable/shelf/tree/main/books/intelligence-state) in September 2026; later Desk edits do not silently rewrite that edition.
+This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Sven Hardy Benson’s Shelf](https://github.com/Svyable/shelf/tree/main/books/intelligence-state) in September 2026; later Desk edits do not silently rewrite that edition.
 
 ## Contents
 
