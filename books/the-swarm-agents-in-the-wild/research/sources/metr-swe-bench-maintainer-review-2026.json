@@ -1,0 +1,8 @@
+{
+  "year": "2026",
+  "author_or_institution": "Parker Whitfill; Cheryl Wu; Joel Becker; Nate Rush / METR",
+  "title": "Many SWE-bench-Passing PRs Would Not Be Merged into Main",
+  "source_type": "Independent maintainer-review study",
+  "book_use": "Study of 296 AI-generated pull requests reviewed by active maintainers of three SWE-bench Verified repositories; maintainer acceptance was substantially below automated-grader pass rates, illustrating the gap between passing explicit tests and satisfying real institutional review standards.",
+  "url": "https://metr.org/notes/2026-03-10-many-swe-bench-passing-prs-would-not-be-merged-into-main/"
+}
