@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 14 author projects · 12 released · 2 public drafts/proofs**
-> **Where they live: 14 in both Desk + Shelf · 46 Desk-only · 0 Shelf-only**
-> **Release review queue: 16 complete Desk manuscripts are not finally released — all 16 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 15 author projects · 13 released · 2 public drafts/proofs**
+> **Where they live: 15 in both Desk + Shelf · 45 Desk-only · 0 Shelf-only**
+> **Release review queue: 15 complete Desk manuscripts are not finally released — all 15 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -33,8 +33,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
+| [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Adjacency](books/adjacency/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/), [Wild Speculation](books/wild-speculation/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Adjacency](books/adjacency/), [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Delegation Machine](books/the-delegation-machine/), [The Intelligence Dilemma](books/the-intelligence-dilemma/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -93,7 +94,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,268 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | 66,001 | The working thesis is that the unpaid social infrastructure of the twentieth century — a stable workplace with the same coworkers for years, a weekly religious congregation, a union hall… | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | 7 of 7 | 4,571 | A screenshot arrives with a rumor: the next model may work for days or weeks, remember corrections, collaborate with agents and people, move through software at superhuman speed, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-long-running-mind/) |
-| [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 5 of 18 | 17,276 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
+| [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 6 of 18 | 17,276 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | 22 of 22 | 66,547 | The working thesis is that this is a repricing event of the kind societies have handled badly before: correctly recognizing that something fundamental has changed while mispricing the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-mortality-discount/) |
 | [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter; 35 chapters planned | 891 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
 | [**The Reliability Tax**](books/the-reliability-tax/) | ✍️ Drafting | 18 of 18 | 17,815 | The working thesis is that modern economies systematically undervalue redundancy, slack, reversibility and alternative pathways because their costs are visible every quarter while their… | [Read →](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |

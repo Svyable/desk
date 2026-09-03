@@ -32,3 +32,7 @@
 - [x] [Ch 19 — How to Invest When You Don't Know](manuscript/ch19-how-to-invest-when-you-dont-know.md)
 - [x] [Ch 20 — The Portfolio That Gets to Tomorrow](manuscript/ch20-the-portfolio-that-gets-to-tomorrow.md)
 - [x] [Back Matter](manuscript/back-matter.md)
+
+## Publication note
+
+This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `47f7151f2bdd5809d92a57bcd95fa9a723150804` and released on September 2, 2026. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot. [Read the released Shelf edition →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/)
