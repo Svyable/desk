@@ -87,3 +87,51 @@ The room has not disappeared. We still close our eyes. We still daydream in ways
 On the other side is a machine that asks what you would like to see.
 
 The first answer changes the second question.
+
+## Imagination had privacy by default
+
+Before thoughts became easy to render, most possibilities died privately.
+
+A person imagined a room and forgot it. They pictured a different life during a commute. They rehearsed an argument, invented an impossible product, saw a face for a character, wondered what a building would look like on an empty lot, and then moved on. The thought did not leave a file unless the person deliberately translated it into one.
+
+This default privacy mattered creatively.
+
+Private imagination could be contradictory without requiring defense. You could test a terrible idea without anyone confusing it with a proposal. You could entertain an identity without announcing it. You could imagine an offensive joke and decide not to tell it. You could revise a future a hundred times without producing a trail of discarded selves.
+
+Generative systems turn some of this private rehearsal into artifacts.
+
+The gain is obvious: artifacts can be inspected, shared, compared, and improved.
+
+The cost is subtler. An artifact can outlive the thought that produced it. It can be forwarded without context, saved after the user has changed their mind, interpreted as evidence of intention, or become part of a personal archive whose meaning shifts later.
+
+This makes the move from thought to representation a more consequential threshold than the interface suggests.
+
+The prompt box looks casual.
+
+The output may not be.
+
+As generative imagination becomes ordinary, people will need stronger instincts about which possibilities should remain provisional, private, ephemeral, or entirely unrendered. The point is not fear of expression. It is preserving the freedom to think without turning every thought into an object.
+
+The room before the picture was not only technologically limited.
+
+It was forgiving.
+
+## The first image becomes part of memory
+
+Once a possibility has been rendered, returning to the untouched idea is difficult.
+
+You may still know intellectually that the model chose the lighting, the face, the material, the proportions, and the background. But the visible version has entered memory. The next time you imagine the concept, those details are available in a way the unrendered alternatives are not.
+
+This is why first images matter beyond first impressions.
+
+A generated character portrait can influence later prose. A visualized renovation can become the benchmark against which physical proposals feel wrong. A synthetic future city can define the skyline in a planning conversation before anyone has debated the economics beneath it. A generated product concept can make one form feel inevitable merely because it arrived first.
+
+The first image does not determine the project.
+
+It changes the starting conditions of every revision after it.
+
+This gives creators a reason to be deliberate about when they render. Sometimes the right move is to see early and react. Sometimes the right move is to preserve several incompatible verbal or sketch-level possibilities long enough that no single image colonizes the field.
+
+The most powerful creative tool is not always the one that produces the clearest picture fastest.
+
+Sometimes it is the practice that keeps the picture from arriving before the question is ready.
