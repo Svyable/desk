@@ -75,7 +75,7 @@ The manuscript treats all of these payment-company claims according to source ty
 
 ## Evidence pass 7 — chain of custody
 
-The reputation and security sections now gain a supply-chain layer built from a documented compromise and mature software provenance systems:
+The reputation and security sections gain a supply-chain layer built from a documented compromise and mature software provenance systems:
 
 - Andres Freund’s primary March 2024 disclosure of the XZ/liblzma backdoor after anomalous SSH behavior led him into the build chain;
 - Red Hat’s CVE-2024-3094 documentation on malicious XZ 5.6.0/5.6.1 release material and the important distinction between the distributed tarball/build path and the expected Git source path;
@@ -86,6 +86,17 @@ The reputation and security sections now gain a supply-chain layer built from a 
 
 The manuscript distinguishes reputation from provenance: reputation compresses an actor’s history, while provenance helps establish what exact artifact or runtime result arrived this time. It extends that distinction to consequential agent memory, arguing that durable beliefs that authorize action or shape reputation need enough source history to be challenged and corrected later.
 
+## Evidence pass 8 — the long tail wakes up
+
+The institutional-contact section now grounds procurement, logistics, manufacturing/supply-chain population scale, and claims administration in documented deployments:
+
+- the 2022 *Harvard Business Review* case on Walmart International’s Pactum deployment, where automated negotiation was aimed at tail-end supplier agreements whose incremental value did not justify additional human buyer time;
+- AWS’s OPLOG customer case, documenting a 2025 production system of specialized agents for fulfillment operations and thousands of operational decisions per day, with performance figures explicitly treated as customer-and-vendor reported;
+- GE Appliances’ April 2026 announcement that it had deployed more than 800 AI agents across manufacturing, logistics, and supply-chain operations, used as a population-management signal rather than an independently audited ROI claim;
+- Aetna’s May 2026 announcement of its second-generation Claims Assist Manager, including company-reported faster processing for complex claims requiring manual review.
+
+This pass develops the concept of an institution’s **economic floor of attention**: work below the threshold where expected benefit justifies scarce human time. The manuscript argues that agents can change institutional coverage by making previously uneconomic negotiations, monitoring, reconciliation, review, and exception handling worth doing. It explicitly separates that capability from normative value: cheaper attention can improve service and consistency, but it can also enable more granular bargaining, surveillance, enforcement, or claims scrutiny.
+
 Machine-readable source records for the evidence passes live under [`research/sources/`](sources/). First-party company metrics are identified as such in the manuscript. Internal evaluations are not presented as independent evidence.
 
 ## Still to verify
@@ -93,7 +104,6 @@ Machine-readable source records for the evidence passes live under [`research/so
 Before the manuscript is treated as a complete trade-nonfiction draft, verify and source the concrete claims chapter by chapter, especially:
 
 - persistent-memory poisoning, memory-snapshot inheritance, and inter-agent trust mechanisms beyond the provenance analogues already added;
-- claims about insurance, procurement, logistics, and other machine-speed institutional interactions beyond the documented market analogues;
 - historical analogues used elsewhere to explain organizations, monocultures, bureaucracy, infrastructure, and resilience;
 - any real organization, product, standard, incident, or numerical claim added in later reporting passes.
 
