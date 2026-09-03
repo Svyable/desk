@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 18 of 21 drafted |
+| **Chapters** | 19 of 21 drafted |
 
 ## Contents
 
@@ -29,7 +29,7 @@
 - [x] [Ch 16 — The Price of Appeal](manuscript/ch16-the-price-of-appeal.md)
 - [x] [Ch 17 — The Bypass](manuscript/ch17-the-bypass.md)
 - [x] [Ch 18 — The Right to Exit](manuscript/ch18-the-right-to-exit.md)
-- [ ] [Ch 19 — Agents at the Gates](manuscript/ch19-agents-at-the-gates.md)
+- [x] [Ch 19 — Agents at the Gates](manuscript/ch19-agents-at-the-gates.md)
 - [ ] [Ch 20 — Good Gates](manuscript/ch20-good-gates.md)
 - [ ] [Ch 21 — Who Guards the Gatekeepers?](manuscript/ch21-who-guards-the-gatekeepers.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
