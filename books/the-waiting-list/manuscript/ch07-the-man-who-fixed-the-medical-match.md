@@ -178,7 +178,7 @@ Residents are not ordinary employees shopping among competing offers after gradu
 
 It is therefore reasonable to ask whether a centralized, binding assignment weakens bargaining power.
 
-That criticism became politically and legally salient in the early 2000s, when an antitrust lawsuit challenged the residency matching system and other features of graduate medical education. Congress subsequently enacted an antitrust exemption for matching programs in graduate medical education. The exemption remains controversial enough that members of Congress were still questioning it in 2026.
+That criticism became politically and legally salient in the early 2000s, when an antitrust lawsuit challenged the residency matching system and other features of graduate medical education. Congress subsequently enacted an antitrust exemption for matching programs in graduate medical education. The exemption remains controversial. On May 14, 2025, a House Judiciary antitrust subcommittee held a hearing titled “The Match Monopoly: Evaluating the Medical Residency Antitrust Exemption.”
 
 The existence of that controversy does not prove that the Match depresses wages.
 
@@ -216,7 +216,7 @@ It cannot abolish scarcity.
 
 This sounds obvious until an algorithm works well enough that people start blaming it for everything the market fails to provide.
 
-The NRMP now handles more than sixty thousand domestic and international medical students and graduates each year across its programs, competing for more than forty thousand clinical training positions. Its scale makes the clearinghouse look inevitable.
+The 2026 Main Residency Match registered 53,373 applicants for 44,344 positions, including 41,126 first-year positions. Its scale makes the clearinghouse look inevitable.
 
 It was not inevitable.
 
