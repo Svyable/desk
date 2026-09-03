@@ -1,0 +1,8 @@
+{
+  "year": "2026",
+  "author_or_institution": "Model Context Protocol project",
+  "title": "The 2026-07-28 Specification",
+  "source_type": "Protocol specification release documentation",
+  "book_use": "Documents MCP's 2026 stateless core, Multi Round-Trip Requests, header-based routing, cacheable capability lists, authorization hardening, formal extensions, Tasks extension, and deprecation policy; useful for showing how routing, metering, authorization, and long-running work move into protocol design.",
+  "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
+}
