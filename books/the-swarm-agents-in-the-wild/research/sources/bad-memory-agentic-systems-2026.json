@@ -1,0 +1,10 @@
+{
+  "id": "bad-memory-agentic-systems-2026",
+  "title": "Bad Memory: Evaluating Prompt Injection Risks from Memory in Agentic Systems",
+  "publisher": "arXiv preprint",
+  "date": "2026-07-16",
+  "url": "https://arxiv.org/abs/2607.14611",
+  "source_type": "research preprint",
+  "claims_used": "The study evaluates persistent-memory prompt injection across Claude Code and OpenAI Codex configurations and reports that payloads already present in memory files can influence current and future sessions, with persistence varying by system, model, objective, and attack sequence. The manuscript uses it as current-system evidence that memory changes the temporal boundary of prompt-injection risk.",
+  "caveat": "The study uses a sandboxed synthetic workspace and was a preprint at the cited date; results should not be generalized to every deployment or memory configuration."
+}
