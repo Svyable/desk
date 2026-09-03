@@ -5,7 +5,7 @@ export function authoringRolePolicy({ role = 'instance', remoteInspection = fals
   return Object.freeze({
     localDesk,
     hideLandingHero: localDesk,
-    hidePublishedSummary: normalizedRole === 'desk',
-    readySummaryLabel: normalizedRole === 'desk' ? 'Ready to release' : 'Ready to publish',
+    hidePublishedSummary: localDesk,
+    readySummaryLabel: localDesk ? 'Ready to release' : 'Ready to publish',
   });
 }
