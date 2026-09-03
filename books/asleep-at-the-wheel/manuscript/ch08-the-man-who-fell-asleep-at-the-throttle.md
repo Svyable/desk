@@ -193,3 +193,43 @@ His commute was not.
 By the time his tractor-trailer entered a New Jersey Turnpike construction zone shortly before one in the morning, investigators would later calculate that he had been awake for more than twenty-eight hours.
 
 He was still inside the legal work clock.
+
+The Metro-North accident also shows why medical screening becomes ethically difficult exactly where it becomes most useful. A worker's health information is private. Employment consequences are public to the worker. The employer has a safety duty. Those three facts pull in different directions.
+
+If screening is too weak, a treatable disorder can remain invisible until the person responsible for hundreds of passengers stops responding. If screening is too crude, healthy workers can be singled out by body size, age, or other risk factors and pushed into expensive testing they may fear will affect their livelihood. If the system makes diagnosis feel punitive, the rational response for some workers will be concealment.
+
+A program can therefore be medically sensible and institutionally self-defeating at the same time.
+
+The useful question is not simply whether an employer should screen. It is what happens after a screen is positive.
+
+Is there timely access to diagnosis? Is treatment covered? Can the employee return to duty after effective treatment? Are medical details protected from supervisors who do not need them? Is the process designed to remove risk or to remove people?
+
+Those choices determine whether workers experience health surveillance as a safety system or a trap.
+
+The distinction matters because obstructive sleep apnea is a particularly awkward example of the gap between condition and character. The person may have done everything an employer informally asks of a conscientious worker: gone home, gone to bed, spent sufficient time there, reported on schedule. The night can still fail to produce recovery.
+
+That makes “take responsibility for your sleep” sound thinner than it first appears.
+
+Responsibility is real. Symptoms should not be ignored. Treatment should be followed. But the case demonstrates that an institution can know a class of medical risk exists, know it is relevant to safety-sensitive work, and still leave identification almost entirely to the person whose symptoms may include impaired alertness.
+
+The same tension appears with schedule changes. A job-bidding system can be fair by seniority and indifferent to biology. The worker may voluntarily choose the new assignment. The employer may comply with every applicable hours rule. The resulting shift can still ask a circadian system accustomed to evening work to perform a predawn safety task before adjustment has occurred.
+
+No single actor has to behave irrationally for the risk to increase.
+
+This is why the phrase “fit for duty” deserves more scrutiny than it usually receives. Fitness sounds like a property of the person. In practice it is a relationship among person, task, time, condition, and consequence.
+
+The same engineer might be fit for a daytime classroom, unfit for a predawn passenger run, and fit again after treatment and schedule adjustment. The category changes with context.
+
+That should make institutions wary of permanent labels. A diagnosis is not destiny. A fatigue report is not proof of incompetence. A worker who is unsafe at one moment may be entirely safe after recovery. The objective is not to sort people into strong and weak. It is to keep temporary or treatable impairment from coinciding with irreversible consequence.
+
+Positive train control does this without knowing anything about the worker's medical status. That is part of its elegance.
+
+A speed-enforcement system does not have to decide whether the engineer has apnea, whether the schedule changed too quickly, whether the night was fragmented, or whether the operator simply missed a signal. It acts on the consequence boundary: the train is moving too fast for the curve.
+
+That is why engineering controls can be less invasive than medical controls even when they cost more. They regulate the machine's behavior rather than the worker's body.
+
+The best system often uses both kinds of defense. Treat the disorder because the person deserves functioning sleep. Design the schedule because circadian timing is real. Build the automatic barrier because no treatment or schedule can guarantee perfect vigilance forever.
+
+Then ask the question that hours-of-service rules cannot answer by themselves:
+
+What happened before the worker clocked in?
