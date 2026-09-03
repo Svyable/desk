@@ -416,6 +416,84 @@ Time can solve some.
 
 Nothing can solve all of them.
 
+There is also a category that deserves more respect: deliberate retention.
+
+Not every risk should be insured even when a policy could be manufactured for it.
+
+A household with ample savings should not pay an insurer to handle every cracked phone screen or broken appliance. A company should not transfer predictable maintenance cost just because a contract can be written around it. A government should not purchase expensive private protection for losses its ordinary budget can comfortably absorb.
+
+Insurance is most valuable where the loss is volatile enough to disrupt plans and large enough relative to the balance sheet to justify paying someone else to hold capital against it.
+
+Everything below that threshold is a candidate for retention.
+
+This matters because a culture of insuring everything can weaken the institution too.
+
+Small claims create administrative cost. Rich coverage can encourage moral hazard. Transferring predictable expenses can turn insurance into an expensive payment plan. Public programs can become cluttered with losses that never threatened fiscal capacity while truly catastrophic layers remain underfunded.
+
+The mature risk system has a deductible not only in the policy but in its philosophy.
+
+Some discomfort should remain with the person or institution able to manage it.
+
+That retention preserves incentives and reserves insurance capacity for what cannot be absorbed routinely.
+
+The principle becomes morally complicated when balance sheets differ.
+
+A five-thousand-dollar loss is retainable to one household and ruinous to another. A regional government may absorb a flood that would bankrupt a small municipality. A global technology company can self-insure a liability layer a startup cannot survive.
+
+There is no universal deductible for society.
+
+Capacity matters.
+
+That is why fairness in insurance cannot be reduced to treating identical hazards identically. The same hazard can produce radically different welfare effects depending on who carries it.
+
+Public policy has to decide when unequal capacity justifies subsidy, broader pooling, or a different risk-bearing institution.
+
+But the opposite mistake is to treat every inability to pay as evidence that the underlying risk should be hidden.
+
+A household can deserve assistance and still live in a dangerous house. A community can deserve transition support and still face a hazard that must eventually change its land use. A startup can be socially valuable and still need limits on what its autonomous systems are allowed to do before private capital will cover them.
+
+Compassion does not require pretending the loss distribution is different.
+
+It requires deciding explicitly who helps carry it and for how long.
+
+This brings us to exit.
+
+Insurance discussions tend to treat exit as failure: the carrier leaves, the customer leaves the pool, the project is abandoned, the community retreats. Sometimes it is failure. Sometimes exit is the mechanism that prevents a bad risk arrangement from becoming permanent.
+
+A residual market should be able to shrink when private capacity returns. A public backstop should be able to tighten when a technology becomes conventionally insurable. A household should be able to switch carriers without losing the value of verified mitigation. A community should be able to stop rebuilding an exposure that has become indefensible.
+
+Healthy risk institutions need entrances and exits.
+
+Without entry, people cannot obtain protection.
+
+Without exit, temporary subsidies become entitlements, emergency pools become permanent dumping grounds for risk, and old assumptions become impossible to retire.
+
+The design of exit is one of the least glamorous parts of insurance policy and one of the most important.
+
+It requires notice, transition periods, portability, financing, and rules that distinguish existing reliance from new risk creation.
+
+A homeowner who bought thirty years ago deserves different consideration from a developer proposing another subdivision in the same newly understood hazard zone. A company that deployed an AI system before liability standards existed may deserve a transition period; a company deploying the same system after standards are clear has weaker grounds to demand public protection from known defects.
+
+Time changes responsibility.
+
+A good insurance regime notices.
+
+This also suggests a practical test for public backstops.
+
+They should answer four questions before the crisis: what private layer must be exhausted first, what behavior qualifies for support, how will the public recover or price some of the risk, and what conditions allow the program to contract later?
+
+If a backstop has no answer to the fourth question, it is probably not merely a backstop.
+
+It is an institution being created permanently without admitting it.
+
+That can still be the right choice.
+
+Permanent social insurance is a legitimate political form.
+
+The problem is pretending permanence is temporary because nobody wants to debate the distribution openly.
+
+Insurance is healthier when the hidden pool becomes visible.
+
 The hardest risks will remain at the frontier.
 
 War.
