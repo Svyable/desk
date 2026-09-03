@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 38 author projects · 36 released · 2 public drafts/proofs**
-> **Where they live: 38 in both Desk + Shelf · 34 Desk-only · 0 Shelf-only**
-> **Release review queue: 3 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 39 author projects · 37 released · 2 public drafts/proofs**
+> **Where they live: 39 in both Desk + Shelf · 33 Desk-only · 0 Shelf-only**
+> **Release review queue: 2 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -50,6 +50,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-mortality-discount/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/) |
+| [**The Retry Generation**](books/the-retry-generation/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-vanishing-bid/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-world-beneath-the-world/) |
@@ -58,7 +59,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Nothing Counts Yet](books/nothing-counts-yet/), [The Retry Generation](books/the-retry-generation/), [The Weather We Build](books/the-weather-we-build/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Nothing Counts Yet](books/nothing-counts-yet/), [The Weather We Build](books/the-weather-we-build/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
