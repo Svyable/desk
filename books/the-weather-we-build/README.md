@@ -8,10 +8,14 @@
 | **Status** | Complete structural draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
+| **Published Snapshot** | Sven Hardy Benson’s Shelf · September 2026 |
+| **Frozen Release Source** | `819e8187720b945f499ca53793d1cce7ace1abaa` |
 | **Form** | Narrative nonfiction / technology / infrastructure |
 | **Chapters** | 12 of 12 drafted |
 | **Edition** | First Desk draft · September 2026 |
 | **Method** | Physical systems narrative + engineering research plan + falsification notes |
+
+The September 2026 Shelf edition is an intentional snapshot of frozen Desk source `819e8187720b945f499ca53793d1cce7ace1abaa`. Desk remains the working edition for later revision. [Read the released snapshot →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/)
 
 ## Premise
 
