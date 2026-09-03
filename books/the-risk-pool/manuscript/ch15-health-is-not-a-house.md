@@ -311,3 +311,91 @@ The future of insurance will not be decided by whether machines become better at
 They will.
 
 It will be decided by whether we remember why some risks were pooled in the first place.
+
+Health also reveals something property insurance can usually avoid: the thing being financed and the thing producing the risk are inseparable.
+
+A house can be repaired by a contractor who does not know the homeowner. A patient receives care through relationships with clinicians, hospitals, pharmacies, laboratories, caregivers, and institutions whose decisions affect both outcome and cost. The insurance claim is embedded in a service process.
+
+That means the insurer's behavior can change the loss itself.
+
+Delay a roof claim and the homeowner may suffer inconvenience and secondary damage, but the house remains the object being restored. Delay a medically necessary treatment and the patient's condition can worsen. The financing decision can alter the eventual medical cost and the human outcome at the same time.
+
+Claims management becomes part of care management whether the insurer wants that responsibility or not.
+
+This is why crude cost control can backfire. A denial that avoids one expensive service can produce a more expensive emergency later. A narrow network can negotiate better prices and still impose travel or access burdens that reduce adherence. High cost sharing can discourage low-value use and high-value use together because patients do not carry a utilization-review department in their pockets.
+
+The insurance design changes behavior on both sides of the claim.
+
+Patients respond to price and friction.
+
+Providers respond to reimbursement rules.
+
+Hospitals respond to network negotiations.
+
+Employers respond to premium trends.
+
+Drug companies respond to formularies and contracting.
+
+The payer is not outside the healthcare market observing cost.
+
+It is one of the institutions generating the incentives under which cost emerges.
+
+This makes competition unusually complicated.
+
+More insurers do not automatically mean lower total healthcare cost if each insurer has less bargaining power against concentrated providers. A large insurer can negotiate aggressively and also possess enough market power to offer employers and patients fewer alternatives. A hospital merger can strengthen clinical coordination in one case and pricing power in another. The useful question is not simply whether an actor is large.
+
+It is what the scale allows the actor to do.
+
+Insurance needs scale to pool risk and negotiate.
+
+Markets need enough rivalry to discipline the insurer itself.
+
+Those objectives can conflict.
+
+The same conflict appears in data. Large health insurers and public programs observe enormous populations over time. In principle, those records can reveal which interventions prevent hospitalizations, which care pathways work, and where spending produces little health. That information could make insurance a powerful learning system.
+
+But claims data sees the world through billing.
+
+It records what generated a code and a payment, not everything that mattered to the patient. It may miss unpaid caregiving, transportation barriers, social support, fear, work constraints, or a clinician's judgment that prevented an unnecessary intervention.
+
+The database is rich and incomplete.
+
+AI can make it more legible without making it whole.
+
+This is another reason health is a good warning for machine underwriting. The most measurable variable can become the most influential simply because it is measurable. An institution can confuse visibility with importance.
+
+A durable health pool has to preserve room for information that does not arrive neatly coded.
+
+The life-course nature of health makes the pooling question deeper still.
+
+A twenty-five-year-old who is inexpensive today is not permanently a low-risk person. Age, illness, accident, pregnancy, disability, and chance move people through risk states. The cross-subsidy is therefore not only between different people at one moment. It can also be between different versions of the same person across time.
+
+This is one reason solidarity in health insurance is easier to understand when viewed over decades rather than one premium year.
+
+The healthy person paying more than expected cost is not necessarily donating forever to an unrelated class. She is buying entry into a system she may need later when private prediction becomes less flattering.
+
+Insurance creates continuity across states of health that no one can schedule in advance.
+
+Portability matters because that continuity can be disrupted by institutions that are temporary even when the human body is not. Jobs change. Employers fail. Families move. Insurers enter and leave markets. Providers enter and leave networks. A chronic condition follows the patient through all of it.
+
+The risk pool is useful only if the person can remain attached to some financing system as these institutional relationships change.
+
+That is why health policy repeatedly returns to continuity, eligibility, enrollment, and public backstops.
+
+The human risk is long duration even when the insurance contract renews annually.
+
+Property insurance is beginning to encounter the same mismatch as climate risk moves against thirty-year mortgages. Health has lived with it from the beginning.
+
+The person is the long-duration asset that cannot be sold to solve the underwriting problem.
+
+That fact changes everything.
+
+It means some of the most important insurance questions cannot be answered with a more precise premium.
+
+They require a decision about membership.
+
+Who remains inside the pool when risk stops being uncertain and becomes known need?
+
+Health insurance is society's clearest answer that sometimes the point of the pool is not to discover who is risky enough to exclude.
+
+It is to make sure risk does not determine who gets to remain a person with access to care.
