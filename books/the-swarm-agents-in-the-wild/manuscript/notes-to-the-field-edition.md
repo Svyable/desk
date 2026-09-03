@@ -8,4 +8,12 @@
 
 [^4]: OpenAI Academy materials on workspace agents and 2026 Agents SDK builder sessions describe repeatable workflows built around tools, routing, handoffs, guardrails, tracing, and evaluation.
 
+[^5]: Anthropic, “How we built our multi-agent research system” (June 13, 2025). The engineering post describes the production orchestrator-worker architecture, reports a 90.2 percent improvement over a single-agent baseline on an internal breadth-first research evaluation, and reports that multi-agent systems used roughly fifteen times as many tokens as ordinary chat interactions. These are Anthropic’s internal measurements and should not be treated as independent benchmark results.
+
+[^6]: OpenAI and the SWE-bench authors, “Introducing SWE-bench Verified” (2024; updated 2025), on the human-validated 500-instance subset; and METR, “Task-Completion Time Horizons of Frontier AI Models” plus its May 2026 “Frontier Risk Report.” METR defines time horizon in human-equivalent task-duration terms and repeatedly cautions that its suite is concentrated in software engineering, machine learning, and cybersecurity. Its May 2026 report said leading evaluated agents were saturating much of the suite and produced a measured horizon above two full-time-equivalent days, while warning that the estimate had become uncertain as the benchmark saturated.
+
+[^7]: Klarna Group plc, 2025 Form 20-F filed in 2026. Klarna reports that its AI assistant handled 80 percent of customer-service chats during 2025; the filing gives company-derived estimates for conversation volume, full-time-agent-equivalent work, resolution speed, satisfaction, and cost savings. These are operational disclosures based largely on Klarna’s own logs, surveys, and cost methodology, not an independent randomized evaluation.
+
+[^8]: Klarna Group plc response to U.S. Securities and Exchange Commission comments during its 2025 registration process. The SEC asked Klarna to address press reports that its AI service had produced lower-quality results. Klarna disputed that interpretation, said the cited comments concerned a pilot to improve human customer service, restated its AI-service metrics, and described a dual-track model in which customers retain access to human representatives.
+
 ---
