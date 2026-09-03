@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 67 book projects · 33 complete drafts · 1 in revision · 33 drafting**
+> **Desk: 68 book projects · 34 complete drafts · 1 in revision · 33 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 27 author projects · 25 released · 2 public drafts/proofs**
-> **Where they live: 27 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
+> **Shelf: 28 author projects · 26 released · 2 public drafts/proofs**
+> **Where they live: 28 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
 > **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -36,6 +36,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
 | [**Right To Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
+| [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/single-points-of-failure/) |
 | [**The Agentic Consumer Economy: Digital Capitalism in the 2030s**](books/the-agentic-consumer-economy/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-agentic-consumer-economy/) |
 | [**The Cancer Key**](books/the-cancer-key/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-cancer-key/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
@@ -47,7 +48,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [America's Got a Spending Problem](books/americas-got-a-spending-problem/), [Gatekeepers](books/gatekeepers/), [Single Points of Failure](books/single-points-of-failure/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [America's Got a Spending Problem](books/americas-got-a-spending-problem/), [Gatekeepers](books/gatekeepers/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Never Ending Intelligence](books/the-never-ending-intelligence/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [To The Stars](books/to-the-stars/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -66,7 +67,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 83,140 | This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to Sven Hardy Benson’s Shelf in September 2026; later Desk edits do… | [Read →](https://svyable.github.io/desk/reader/#/b/adjacency/) |
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 18 complete of 18 planned + interlude | 65,634 | The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. | [Read →](https://svyable.github.io/desk/reader/#/b/agentile/) |
 | [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 25 of 25 | 39,378 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
-| [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | 20 of 20 | 58,526 | The book treats intelligence as an allocatable resource rather than a magical property. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |
+| [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | 20 of 20 | 59,653 | The book treats intelligence as an allocatable resource rather than a magical property. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | 18 of 18 | 44,609 | America often separates the person saying yes from the full economic price of the decision. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
 | [**Artificial Abundance**](books/artificial-abundance/) | ✍️ Drafting | 8 of 24 | 17,328 | The working thesis is that artificial intelligence does more than increase the supply of useful cognitive work. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-abundance/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
@@ -125,6 +126,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Waiting List**](books/the-waiting-list/) | ✍️ Drafting | Front matter, prologue, epilogue, back matter; 20 of 20 chapters | 67,971 | The central thesis is that when a price cannot or should not allocate a scarce good, some other rule always fills the vacuum — a queue, a lottery, a priority rule, or an algorithmic match… | [Read →](https://svyable.github.io/desk/reader/#/b/the-waiting-list/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 of 12 | 28,564 | The central wager is simple: ordinary perception is full of compressed information. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | 2,454 | Complex systems become sophisticated enough to hide elementary truths. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
+| [**To The Stars**](books/to-the-stars/) | ✅ Complete draft | 20 of 20 + prologue + 5 interludes + epilogue | ~70K | The book begins with President Donald J. Trump's August 28, 2026 executive order establishing a Presidential Commission to design the academy. | [Read →](https://svyable.github.io/desk/reader/#/b/to-the-stars/) |
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | 20 of 20 | 71,461 | The central thesis is that artificial intelligence changes the economics of helping. | [Read →](https://svyable.github.io/desk/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | 20 of 20 | 69,795 | The book argues against both easy refuges: one narrow vertical expertise is increasingly callable inside model-and-tool harnesses, but “work with your hands” is not a blanket defense either. | [Read →](https://svyable.github.io/desk/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | 25 of 25 | 72,393 | This book grows out of the public research program in Svyable/quantum-energy. | [Read →](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
