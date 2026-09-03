@@ -1,26 +1,8 @@
 # A Profession Bigger Than a Branch
 
-The first person to make a military decision based on a satellite does not need to know how to build the satellite.
+The executive order that created the Space Academy commission does something unusual before it ever describes a campus.
 
-The person who builds it cannot afford to know nothing about the decision.
-
-That gap contains much of the modern space profession.
-
-Space systems are difficult to organize because the physical system ignores the institutional diagram. A spacecraft may be designed by one company, launched by another, acquired by a government program office, operated by a military unit, supported by commercial ground infrastructure, protected by cyber teams, analyzed by intelligence specialists and used by a commander who never sees any of those people.
-
-A weather satellite may serve farmers, disaster planners and military operations from the same stream of observations. A commercial communications constellation may become strategically important during a conflict without becoming a military constellation. Positioning and timing signals built for national purposes can disappear into ordinary life so completely that financial networks, phones, aircraft, shipping and power systems rely on them without users thinking about space at all.
-
-The domain is unified by physics and divided by institutions.
-
-That is not unique to space.
-
-Oceans connect navies, merchants, scientists, fishermen, insurers, port authorities and shipping companies. Airspace connects militaries, airlines, regulators, manufacturers and weather services. Cyberspace connects almost everybody.
-
-What is unusual about space in 2026 is the speed at which a domain once dominated by a small number of state programs has become crowded with overlapping professions.
-
-The United States Space Academy proposal can be understood as a response to that crowding.
-
-The executive order does not describe a narrow personnel shortage. It describes a population.
+It lists people.
 
 Astronauts.
 
@@ -36,240 +18,286 @@ Civil servants.
 
 Warfighters.
 
-Put those words into one sentence and they look like a recruitment list.
+The list is easy to skim because every category belongs somewhere in a familiar space story. Astronauts go to orbit. Scientists study worlds. Engineers build machines. Operators fly them. Entrepreneurs form companies. Civil servants administer programs. Warfighters defend national interests.
 
-Put them into one academy and they become an institutional theory.
+Put the categories in one institution and the familiar story changes.
 
-The theory is that these people share enough of a future to benefit from being educated together.
+They do not belong to one chain of command.
 
-That proposition deserves more skepticism than the word *space* initially invites.
+They do not share one employer.
 
-A chemist and an infantry officer both work for the federal government under some circumstances. That does not imply they belong in the same undergraduate academy. A software founder and a diplomat may both shape national power. We do not ordinarily conclude that they require a shared four-year curriculum.
+They do not carry the same legal responsibilities.
 
-The burden is to identify what makes space different.
+They do not even agree on what success means in every circumstance.
 
-One answer is systems dependence.
+A scientist can succeed by publishing an inconvenient result.
 
-Modern space capability is produced through chains in which decisions made by one profession become constraints on another years later.
+A military commander may succeed by denying an adversary useful information.
 
-Consider acquisition.
+An entrepreneur can succeed by creating a market the government did not plan.
 
-A military operator may think of a satellite as a capability: detect something, communicate something, warn somebody, deny an adversary an advantage. But the system the operator receives is the accumulated result of decisions about requirements, budgets, contracts, launch schedules, software architecture, radiation tolerance, cybersecurity, ground systems, testing and industrial capacity.
+A civil servant can succeed by administering a lawful program predictably even when the work is not glamorous.
 
-Many of those decisions are made long before an operational unit touches the spacecraft.
+An engineer can succeed by stopping a mission whose schedule pressures everyone else to continue.
 
-If acquisition professionals misunderstand operations, they can optimize a program for compliance rather than usefulness.
+A Space Academy that treats these differences as minor variations inside one profession will fail to understand its own premise.
 
-If operators misunderstand acquisition, they can request capabilities without understanding the cost and schedule consequences of requirements.
+The more interesting possibility is that the differences are exactly why a shared professional formation could matter.
 
-If engineers misunderstand strategy, they may maximize technical performance while missing the environment in which the system must survive.
+American space power is produced by a system whose parts increasingly depend on one another while retaining distinct obligations.
 
-If strategists misunderstand engineering, they may build plans around capabilities that physics, production or software cannot deliver on time.
+The Space Force operates military capabilities, protects access to the domain and supports the joint force. NASA explores, conducts science, develops technology and operates civil missions. Intelligence organizations collect and assess information. Other federal agencies regulate, observe, license, coordinate or buy services. Universities train specialists and conduct research. Commercial companies launch rockets, manufacture spacecraft, operate constellations, sell data and communications, and develop software and components. Allies contribute systems, geography, expertise and military capability.
 
-No academy can eliminate those tensions.
+The system is not one organization.
 
-A good one can teach future leaders that they exist.
+That is a strength.
 
-The Space Force's emerging training architecture already points in that direction. Its Officer Training Course deliberately exposes newly commissioned officers to multiple disciplines rather than treating each career field as a sealed room. Space operations, cyberspace warfare, intelligence and acquisitions appear together because the service has learned that its officers need some common baseline before specialization hardens.
+It is also a source of friction.
 
-A Space Academy could move that logic earlier.
+The person who sees a technical problem first may not control the budget required to fix it. The office that buys a capability may not operate it. The company that owns a service may have customers outside government. The military organization that depends on a commercial system may not control its design. The scientist who needs open data may work beside a national-security customer that needs restrictions. An acquisition decision can shape operational risk years later, after the people who wrote the contract have moved on.
 
-The important word is *could*.
+The interfaces are where competence becomes national capability—or fails to.
 
-Nothing about a four-year campus guarantees integration. Universities are highly capable of placing departments next to one another without making them understand one another. A student can walk from an engineering building to a policy seminar and experience no intellectual transfer at all.
+This is the strongest case for thinking about a space profession larger than any branch.
 
-The academy would need integration to be designed rather than advertised.
+Not because everyone should become the same kind of professional.
 
-That might mean shared operational problems.
+Because everyone should know enough about the neighboring professions to recognize when a decision has crossed into somebody else's domain of expertise or authority.
 
-A class studying orbital mechanics could later encounter the same orbit as an intelligence constraint, a communications problem, a debris risk, a commercial opportunity and a question of international law.
+Consider a satellite.
 
-An engineering project could require students to explain not only whether a satellite design works but who would operate it, how it would be acquired, what happens when a component supply chain fails and which parts of the system create cyber risk.
+The object itself may appear to be an engineering artifact. That is true and incomplete.
 
-A strategy course could force students to confront launch cadence, manufacturing capacity and orbital geometry rather than treating “space capability” as an abstract resource.
+Its orbit reflects mission goals, launch constraints and sometimes regulatory or security considerations. Its payload reflects a customer need. Its communications architecture depends on spectrum and ground systems. Its software can determine how flexibly it responds after launch. Its cybersecurity posture can become an operational vulnerability. Its manufacturing approach affects cost and replacement speed. Its acquisition structure determines who owns which risks. Its data policy affects who can use the output. If it serves military missions, doctrine and command relationships shape how the capability is employed. If it is commercial, company incentives shape what happens when the government is not the only customer.
 
-A commercial-space course could ask what happens when government becomes dependent on privately owned infrastructure during a crisis.
+No single undergraduate major contains the whole satellite.
 
-These are educational design possibilities, not descriptions of a curriculum that exists.
+That does not mean every student needs to master every part.
 
-Their value is that they reveal what the academy would have to do differently from a conventional aerospace program.
+It means future leaders need a way to see the whole system without pretending that systems thinking replaces expertise.
 
-The United States already has excellent universities where a student can learn propulsion, computer science, physics or astronautical engineering.
+This is where professional education differs from a survey course.
 
-The Space Academy cannot justify itself by claiming those subjects do not exist elsewhere.
+A survey course tells an engineer that acquisition exists.
 
-Its distinct product would have to be context.
+Professional formation teaches the engineer that a requirement written carelessly can lock a program into years of avoidable cost.
 
-This is where the word *profession* becomes useful.
+A survey course tells an operator that cyber exists.
 
-A profession is not merely a labor category. It usually combines specialized knowledge with norms about judgment and responsibility. Medicine asks physicians to understand science, but it also asks them to accept obligations toward patients. Law requires technical knowledge and imposes duties toward clients, courts and legal institutions. The military profession requires competence in organized violence under civilian authority, law and command responsibility.
+Professional formation teaches the operator to recognize when a mission plan depends on a network assumption that should be challenged before crisis.
 
-What obligations define a space professional?
+A survey course tells a program manager that orbital mechanics exists.
 
-The answer depends on the role.
+Professional formation teaches enough of it to know when schedule or coverage claims deserve a technical question rather than administrative optimism.
 
-A Space Force officer has military obligations that a NASA scientist does not.
+A survey course tells a military officer that commercial markets exist.
 
-A civil servant has public duties that an entrepreneur does not.
+Professional formation teaches that a service bought under peacetime assumptions may behave differently when the provider faces physical risk, legal restrictions or competing customers during conflict.
 
-A commercial launch executive has fiduciary and market responsibilities different from those of a program manager spending appropriated funds.
+The knowledge is not encyclopedic.
 
-A scientist may be rewarded for publishing results that a military intelligence officer is legally required to protect.
+It is relational.
 
-The academy cannot erase those differences without becoming intellectually dishonest.
+The Space Force has been building a military version of this idea. Its Officer Training Course gives newly commissioned Guardians exposure across space operations, cyberspace warfare, intelligence and acquisitions before deeper specialization. The point is not to make an acquisition officer a cyber expert. It is to give every officer enough common vocabulary to understand the service as an integrated system.
 
-A broader space profession would therefore need to be layered.
+The Academy proposal expands the question.
 
-At the center would be shared knowledge: the physical environment of space, the architecture of space systems, technical risk, systems thinking, the history of the domain, the economics of launch and manufacturing, the basics of law and policy, the vulnerabilities created by dependence, and the institutional map of American space activity.
+What if the common vocabulary begins before a person becomes a Guardian—and includes future civilians?
 
-Around that center would be distinct professional obligations.
+The value could be substantial.
 
-The Guardian learns command, military law, operational planning and the lawful use of force.
+A future NASA engineer who studies alongside future Space Force officers may understand national-security requirements without discovering them for the first time through a restrictive contract clause. A future Guardian who studies beside scientists may understand why openness and reproducibility are not signs of naivety but essential scientific practices. A future civil servant who works with students interested in commercial space may learn how private capital changes the pace and risk tolerance of a program. A future entrepreneur may understand why government customers cannot treat every failure as ordinary startup iteration.
 
-The civil servant learns administrative responsibility, public budgeting and the constraints of federal authority.
+The relationships can become intellectual before they become bureaucratic.
 
-The scientist learns research integrity and the norms of evidence.
+That is the theory.
 
-The engineer learns professional responsibility for technical decisions whose consequences may be difficult to reverse after launch.
+The danger is that the Academy invents a vague identity called “space professional” and uses it to avoid the hard work of specialization.
 
-The entrepreneur learns markets, capital and the discipline of building systems that customers will actually buy.
+The executive order's list is broad enough to encourage that mistake.
 
-An academy broad enough to include all of them would succeed only if the shared center makes the differences clearer.
+If everyone is a space professional, the term can become empty.
 
-This sounds paradoxical.
+A planetary scientist and a cyber operator do not need the same career formation. An astronaut and an acquisition specialist may share systems thinking while spending their lives mastering different bodies of knowledge. A Space Force officer owes duties under military law and command that a civilian engineer does not. An entrepreneur can leave a company; a service member cannot treat lawful orders as employment suggestions.
 
-It is the same paradox the national space enterprise already lives.
+Common education has to preserve those facts.
 
-NASA and Space Force need one another to understand the domain while needing separate missions.
+The best analogy may not be one profession but a professional ecosystem.
 
-Government and industry need one another while negotiating contracts built partly to keep their incentives from becoming identical.
+Medicine contains physicians, nurses, technicians, pharmacists, administrators, researchers and many specialties that share a broad commitment to health without becoming interchangeable. Aviation contains pilots, controllers, maintainers, engineers, regulators and operators connected by standards and safety practices. Maritime activity contains naval officers, merchant mariners, engineers, port authorities, shipbuilders and legal regimes.
 
-Scientists need access to data; military organizations sometimes need secrecy.
+Space may be developing a similar ecosystem.
 
-Commercial launch providers want cadence; regulators and communities care about safety and external effects.
+The Academy could become one institution inside it.
 
-The people who will lead American space institutions need to cooperate across boundaries they must also know how to defend.
+It should not mistake itself for the ecosystem.
 
-A common education could help if it teaches boundaries as seriously as it teaches collaboration.
+That distinction has political consequences.
 
-There is a second reason the academy may be reaching beyond a military branch.
+A federal academy can become a prestige gate. Admission is selective. Public money subsidizes the education. Graduates acquire a common credential and alumni network. If the institution becomes influential, employers may begin treating its diploma as evidence that a person belongs to the national space elite.
 
-Scale.
+That would be a dangerous outcome if it reduces respect for people formed elsewhere.
 
-The Space Force is small by design. The American space economy is not.
+Most American space professionals will never attend the Academy.
 
-A dedicated academy that served only the annual officer needs of a lean service would confront basic arithmetic. Service academies are expensive institutions. They require enough students, faculty, programs and infrastructure to justify their fixed costs. If Space Force needs only a relatively small number of officers each year and the Air Force Academy already supplies a meaningful share, the argument for a separate full-scale university becomes difficult.
+They will come from civilian universities, military enlisted pipelines, existing service academies, ROTC, technical schools, industry, laboratories, other countries and careers that begin nowhere near aerospace. Some of the deepest expertise in an operational system may belong to a technician without an elite degree. Some of the best scientific work will come from universities with no federal academy relationship. Some of the most important commercial innovations will come from people the Academy did not select at eighteen.
 
-Broadening the academy to NASA and civilian federal pathways changes the arithmetic.
+The school's graduates should be educated to understand that reality.
 
-It also changes the mission.
+Their value should come from connecting expertise, not claiming authority over it.
 
-The school could become a national workforce institution rather than a branch-specific commissioning source.
+This suggests a principle for the curriculum.
 
-That helps explain the White House emphasis on commercial space as well. A growing launch and satellite industry competes for many of the same engineers, software developers and systems thinkers the government wants. The federal government cannot simply command that labor market. It must attract people who have alternatives.
+Every student should have a field in which superficial understanding is not enough.
 
-A tuition-supported academy with a public-service obligation can function as a recruiting mechanism.
+The engineer should actually engineer.
 
-The government pays heavily for education and formation. The graduate pays through years of service.
+The scientist should actually conduct science.
 
-That model is familiar in service academies. Extending it across civilian space agencies would be a significant policy choice.
+The future officer should meet military standards and learn the profession of arms.
 
-It could make federal technical careers more attractive to students who otherwise choose private industry because of salary, speed or access to cutting-edge programs.
+The policy student should master institutions, law, economics or another rigorous discipline rather than merely learn to speak around technical people.
 
-It could also fail if the service obligation feels too restrictive or if the government cannot offer graduates work equal to the education it gave them.
+The common core should then teach students how their field interacts with the others.
 
-A brilliant engineer recruited with the promise of national purpose can become a retention problem if the first assignment is bureaucratically trivial.
+Depth first does not mean isolation first.
 
-The academy cannot solve personnel management downstream.
+Students can share foundational mathematics, computing, systems reasoning, writing, history, law, ethics and leadership while beginning different specialties. Projects can force mixed teams to confront problems no single major can solve. Rotations can move students through NASA, military organizations, laboratories and commercial settings. The institution can reward people who know when to defer to another kind of expert.
 
-No school can.
+That last habit may be one of the hardest to teach.
 
-This is another reason to resist magical thinking about institutions.
+Selective institutions naturally tell students they are capable.
 
-A Space Academy may improve recruiting and formation. It cannot by itself fix slow hiring, obsolete procurement rules, poor managers, clearance delays, weak technical career ladders or organizations that do not trust young people with meaningful responsibility.
+A professional institution also has to teach the boundaries of capability.
 
-If those systems remain broken, the academy could become an expensive producer of talent for people to leave.
+The most dangerous person in a complex technical organization is not always the ignorant person.
 
-The profession, in other words, must exist after graduation.
+It can be the highly accomplished person whose success in one domain has convinced them that judgment transfers automatically to another.
 
-This is where the Space Force's experience matters.
+A brilliant engineer can be a poor commander.
 
-The service has been trying to build career identity while remaining lean. STARCOM's emphasis on education, training, doctrine and readiness reflects a truth older services learned long ago: hardware does not create a profession. Repetition does. Shared standards do. Institutions that teach and evaluate judgment do.
+A skilled commander can misunderstand a technical risk.
 
-The Academy proposal extends that insight beyond uniformed Guardians.
+A successful entrepreneur can misread public law.
 
-The question is whether it extends too far.
+A celebrated scientist can underestimate operational constraints.
 
-The inclusion of “entrepreneurs” in the executive order is especially revealing.
+The Academy should create enough intellectual friction that students experience the difference before they hold consequential authority.
 
-A federal academy can obligate graduates to government service. Entrepreneurs, by definition, often create organizations outside government. How does an academy designed around public service train entrepreneurs without becoming a subsidy for private companies?
+That can happen through cases where there is no clean answer.
 
-Perhaps the word means students should understand entrepreneurship, not that graduates immediately leave to start firms.
+A commercially available capability can be fielded quickly but creates dependence on a single provider.
 
-Perhaps the commission will design industry fellowships or later-career pathways.
+A more resilient government architecture will arrive later and cost more.
 
-Perhaps commercial expertise is intended to enter the classroom rather than become a service track.
+A scientific partnership improves knowledge but requires data-sharing practices that complicate security.
 
-As of September 2026, none of that is settled.
+A military system can gain an operational advantage through an action that may establish an international norm the United States later dislikes.
 
-The ambiguity is worth preserving because it exposes a larger tension in American space policy.
+A technically elegant design cannot survive the budget process.
 
-The national space enterprise increasingly depends on commercial companies for capabilities once built or operated mainly by government. Reusable launch, proliferated satellite constellations, commercial imagery, communications and privately financed spacecraft have changed the relationship between state capacity and industry.
+A program can meet its written requirements and still fail the operator.
 
-A future leader inside NASA or Space Force may need to understand markets as seriously as procurement law.
+Students should learn to identify which professional questions are hidden inside the technical one.
 
-A future commercial leader may need to understand national-security dependency as seriously as revenue.
+The Academy's breadth also raises a question about public service.
 
-The boundary between public and private remains real. The dependency across it is growing.
+The order does not merely describe a space workforce. It describes a durable commitment to public service. That commitment is easy to understand for a military academy. Graduates commission and serve.
 
-That is another argument for shared professional literacy.
+It is more complicated for a profession spanning civilian agencies and commercial space.
 
-Not shared authority.
+A NASA engineer serves the public through government employment.
 
-Literacy.
+A Space Force officer serves under military obligation.
 
-The distinction is the heart of the book.
+An entrepreneur may contribute to national capability while working for a private company whose legal duty is not identical to public service.
 
-The United States does not need every person working in space to become the same kind of person.
+The commission will have to decide whether the Academy is educating a broad profession or subsidizing particular service pathways inside that profession.
 
-It may need them to understand enough of one another's worlds that cooperation does not begin with translation from first principles.
+Those are different claims.
 
-A service academy traditionally creates cohesion by making its students more alike.
+The school can influence people who eventually leave government without treating private employment as equivalent to repaying a federal educational investment.
 
-The Space Academy may have to create cohesion while preserving difference.
+A graduate may serve the required years, then join industry carrying an understanding of public missions into commercial leadership. Another may stay in government for a career. Another may move between sectors. The national professional network could develop over decades rather than through one job-placement statistic.
 
-That is a more difficult educational task than producing officers for a single branch.
+That long horizon is one reason academies matter.
 
-It is also the only version of the proposal broad enough to explain why NASA is leading it.
+The most consequential effect of a school may not appear in the first assignment.
 
-If the academy becomes merely a Space Force school, the country will judge it against the Air Force Academy and ask why duplication was necessary.
+Classmates separate into agencies and organizations. Years later they call one another. They understand where a counterpart is coming from. They know which argument will persuade and which concern cannot simply be negotiated away. Informal trust moves information through formal systems faster.
 
-If it becomes merely an aerospace university, it will be judged against civilian institutions that already possess stronger faculties, laboratories and research traditions.
+This can be extremely valuable.
 
-If it becomes merely a scholarship program with a campus, the country will ask why the campus was needed.
+It can also become an old-boy network in modern dress.
 
-Its opportunity lies in the space between those categories.
+A professional network that accelerates cooperation can also concentrate access. Alumni may trust one another too easily. Hiring can become self-reinforcing. Outsiders can be treated as less legitimate. The Academy should confront that risk before its first alumni association exists.
 
-Its risk lies there too.
+One defense is to make the institution porous.
 
-The Academy will need to create a common culture without becoming vague, technical depth without becoming narrow, public service without militarizing civilian science, military seriousness without making every space problem a warfighting problem, and commercial literacy without allowing industry fashion to write the curriculum.
+Bring in people who did not attend as undergraduates.
 
-Those are not construction problems.
+Offer mid-career education.
 
-They are professional ones.
+Invite enlisted Guardians, civil servants, allied professionals and outside scholars into courses and exercises. Use partnerships with universities. Send students away from campus. Create research that benefits the broader workforce.
 
-The executive order gave the commission 120 days to recommend the institutional machinery.
+A national space profession should be larger than the Academy from the beginning.
 
-The harder work will take decades.
+This also changes how the school should think about location.
 
-A profession does not exist because a document names it.
+The American space enterprise has no single capital.
 
-It exists when people with different specialties recognize a shared set of responsibilities, know where their authority ends, and trust that the person across the table understands enough of the problem to disagree usefully.
+Houston matters.
 
-The United States already has a Space Force.
+Colorado Springs matters.
 
-The Space Academy proposal asks whether it now needs something larger:
+Florida matters.
 
-not another branch,
+Huntsville matters.
 
-but a place where a national space profession can learn its own boundaries.
+California matters.
+
+Washington matters.
+
+Other centers, laboratories, bases and universities matter.
+
+A student formed only inside one regional ecosystem may mistake a local version of space for the national one.
+
+The Academy needs a home.
+
+Its profession requires movement.
+
+The same is true internationally.
+
+Space Force's own partnership strategy treats allies as part of force design, development and employment. NASA's history is full of international cooperation. Commercial companies operate across borders. A national space professional who understands only American organizations will be undereducated for the domain.
+
+The Academy therefore has to reconcile two ideas that sound contradictory and are not.
+
+It should be intensely American in public obligation.
+
+It should be internationally literate in professional competence.
+
+The school exists, if it exists, because the United States wants to improve national capacity. That does not mean students should be trained to imagine the United States operates alone.
+
+The profession bigger than a branch is also bigger than a campus and larger than one employer.
+
+That makes the institution difficult to design.
+
+It also explains why a simple Space Force academy may not be what the administration announced.
+
+The United States already knows how to build a military service academy. It has several.
+
+What it does not have is a federal undergraduate institution explicitly organized around the civil, military, scientific and commercial interfaces of space.
+
+That absence is not proof the institution should exist.
+
+Sometimes a country lacks something because existing institutions already divide the work efficiently.
+
+The Academy must demonstrate that the interfaces themselves have become important enough to educate around.
+
+If it can, the school will not belong entirely to Space Force, NASA or industry.
+
+It will belong to a more difficult idea: that a spacefaring country needs people who are deeply competent in one profession and fluent enough in the neighboring ones to keep the whole system from misunderstanding itself.
+
+That is a profession larger than a branch.
+
+It is also a much higher bar than putting *space* on the name of a school.
