@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 67 book projects · 31 complete drafts · 1 in revision · 35 drafting**
+> **Desk: 68 book projects · 31 complete drafts · 1 in revision · 36 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 25 author projects · 23 released · 2 public drafts/proofs**
-> **Where they live: 25 in both Desk + Shelf · 39 Desk-only · 0 Shelf-only**
+> **Where they live: 25 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
 > **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -107,6 +107,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 2 (Prologue + Chapter 1) | 6,842 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
 | [**The Intelligence Bubble**](books/the-intelligence-bubble/) | ✍️ Drafting | 18 of 18 | 56,186 | AI can be economically transformative while many of the investors financing its first great buildout earn disappointing returns. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,013 | The Intelligence Dilemma asks how schools can use abundant machine intelligence to deepen learning without letting polished output become a substitute for student capability. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
+| [**The Last Human Channel**](books/the-last-human-channel/) | ✍️ Drafting | 3 of 18 drafted + prologue | ~12K | Artificial intelligence makes analysis, translation, surveillance, drafting, simulation, and persuasion cheaper while trusted judgment, authentication, attention, and authorized intent become more strategically valuable. | [Read →](https://svyable.github.io/desk/reader/#/b/the-last-human-channel/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | 66,001 | The working thesis is that the unpaid social infrastructure of the twentieth century — a stable workplace with the same coworkers for years, a weekly religious congregation, a union hall… | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | 7 of 7 | 4,571 | A screenshot arrives with a rumor: the next model may work for days or weeks, remember corrections, collaborate with agents and people, move through software at superhuman speed, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-long-running-mind/) |
 | [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 15 of 18 | 51,616 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
