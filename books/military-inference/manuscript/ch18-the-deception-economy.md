@@ -186,6 +186,114 @@ The cost is friction.
 
 The benefit is that the institution sees the world it has rather than the world its slides prefer.
 
+The deception economy becomes even more interesting once the attacker understands the defender's verification habits.
+
+Every institution develops routines for deciding what is worth checking. Some evidence receives automatic trust because it has historically been reliable. Some anomalies are ignored because they have produced too many false alarms. Some categories of report trigger expensive review. Those habits are rational responses to limited attention.
+
+They are also part of the attack surface.
+
+An adversary that understands the defender's **verification gradient** can choose where to spend deception effort. It can place falsehoods where the institution checks least, or create noise where the institution checks most. The first exploits trust. The second exploits cost.
+
+This does not require detailed knowledge of a particular algorithm. Organizational behavior can reveal the gradient indirectly. Which signals produce visible reactions? Which warnings cause changes in posture? Which apparent anomalies are ignored repeatedly? Every response teaches the observer something about what the institution finds credible.
+
+Military inference therefore needs to treat **verification policy as adaptive**.
+
+A static rule set eventually becomes predictable. A mature system can vary sampling, conduct random independent checks, and periodically test sources that have become trusted through habit. This is similar to audit design in finance or security: predictable inspection invites gaming.
+
+Randomness alone is not enough. The deeper goal is to avoid turning historical reliability into permanent epistemic privilege.
+
+Trusted sources should remain trusted because they keep earning trust.
+
+This introduces **source reputation with decay**.
+
+A source that has been reliable receives more weight, but the weight is not immortal. Time, environmental change, ownership changes, technical upgrades, and adversarial incentives can alter reliability. The system should know when its trust model is based on a world that no longer exists.
+
+That is especially important for machine-generated sources. One agent may become a highly trusted interpreter because it repeatedly performed well. Other agents begin consuming its outputs. Its recommendations enter shared memory. Over time it becomes an epistemic institution.
+
+If that agent's model changes, data changes, or incentives change, the trust relationship should be reevaluated.
+
+Machine societies can develop reputations faster than human bureaucracies notice them.
+
+The deception economy also creates incentives for **costly honesty**.
+
+Not every signal is equally persuasive. Some claims are convincing precisely because producing them requires real sacrifice or exposes the sender to observable consequences. In strategic signaling, costly signals matter because they are harder to fake casually.
+
+Inference systems should understand this without assuming cost automatically proves truth.
+
+The relevant question is how the evidence constrains the actor's alternatives.
+
+A statement is cheap.
+
+A public commitment with observable follow-through may be more informative.
+
+A visible reallocation of scarce resources may be more informative still, though it may itself be staged.
+
+The analyst's task is not to rank signals by drama but to understand the economics of fabrication.
+
+Machine reasoning can help model these costs across many possible explanations. It can ask: if this behavior were deceptive, what else would the actor have to do to sustain the story? Which contradictions should appear? Which resources would be tied up? What future evidence should emerge?
+
+This converts deception analysis from static plausibility into **prediction under competing stories**.
+
+Every live hypothesis makes commitments about the future.
+
+The system can watch those commitments.
+
+This is one of the most useful defenses against endless narrative generation. A hypothesis that never risks falsification is cheap fiction. A hypothesis that predicts observable consequences puts itself in contact with reality.
+
+The force should prefer hypotheses that make risky predictions.
+
+This becomes an economic filter on thoughtpower itself. Cheap inference can generate ten thousand stories. Only a smaller number deserve verification resources because only a smaller number produce useful discriminating tests.
+
+The deception economy therefore creates a **market for diagnostic observations**.
+
+Which next observation would eliminate the largest number of plausible stories?
+
+Which evidence source is hardest to manipulate?
+
+Which measurement would force the adversary to spend real resources to maintain the deception?
+
+These questions allocate sensing intelligently.
+
+The force does not merely collect more.
+
+It collects to discriminate.
+
+There is also a danger of adversarial skepticism becoming self-defeating. Once an organization becomes sophisticated about deception, it can start seeing deception everywhere. Every convenient observation looks staged. Every contradiction becomes evidence of a deeper plan. Every absence becomes suspicious.
+
+This is **deception saturation of the mind**.
+
+The attacker can benefit even without creating a successful false story if the defender becomes unable to believe anything.
+
+The response is calibration, not cynicism.
+
+The institution should track how often deception hypotheses proved correct. It should distinguish evidence for deception from the mere possibility of deception. It should maintain baseline explanations involving accident, incompetence, bureaucratic friction, and ordinary noise.
+
+Sometimes the strange event is a clever adversary.
+
+Sometimes a truck broke.
+
+Military inference needs enough imagination to consider the first and enough humility to remember the second.
+
+That balance is difficult because strategic communities often reward sophisticated explanations. A complicated story can sound more intelligent than a mundane one. Machine staffs can worsen this by generating elaborate recursive models cheaply.
+
+The deception economy therefore needs a **complexity tax**.
+
+A hypothesis requiring many coordinated hidden actions should not be treated as more plausible simply because a model can describe them fluently. Additional assumptions should carry evidentiary cost.
+
+This is not a mathematical law of war. It is an antidote to narrative excess.
+
+Every added hidden intention should require something from the evidence.
+
+The same discipline protects against self-deception. An organization can always invent a story explaining why its plan remains correct despite contrary evidence. Machine reasoning can become an industrial-scale rationalization engine if the incentive is to defend the current policy.
+
+One of the most important roles for independent machine critics may therefore be to ask the embarrassing question:
+
+What would this evidence look like if our preferred explanation were simply wrong?
+
+That question has no glamour.
+
+It has saved institutions before.
+
 The deception economy ultimately rewards the side that understands a simple asymmetry:
 
 false signals can be produced cheaply;
