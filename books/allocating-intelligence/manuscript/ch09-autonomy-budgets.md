@@ -30,6 +30,46 @@ Machine delegation needs the same legibility.
 
 The second version is not less intelligent. It is more governable.
 
+Now put the instruction under pressure.
+
+At 4:42 p.m., the agent reaches an invoice from a familiar supplier. The amount is ordinary. The purchase order matches. The work appears complete. But an email attached to the account says the supplier changed banks and asks that payment go to a new routing number. A human clerk would recognize the situation as routine enough to be plausible and unusual enough to deserve another look.
+
+What should the agent do?
+
+The answer depends on the mandate written before 4:42.
+
+If its authority is merely “pay approved invoices under $10,000,” it may conclude that every visible condition has been satisfied. If the policy says bank-detail changes require verification through a known channel independent of the incoming message, the same capable system reaches a boundary. It can assemble the evidence, identify the discrepancy, perhaps even contact a previously verified representative, but it cannot convert the new banking instruction directly into a transfer.
+
+Nothing about the model’s intelligence changed between those two designs.
+
+The institution changed what the intelligence was allowed to make true.
+
+Suppose the deadline now matters. A late payment incurs a fee. The vendor is important. The supervising employee has left for the day. A system optimized for task completion can experience the exception as an obstacle to its objective. The safest system experiences the exception as information about jurisdiction.
+
+The difference is subtle and fundamental.
+
+An autonomous system needs to know not only how to solve a problem but when the problem has changed into a different kind of problem. Invoice reconciliation became identity verification. Identity verification became authority to redirect money. The original mandate did not silently expand just because the new problem appeared on the path toward the old goal.
+
+This is where many demonstrations are misleading. A demo rewards completion. The agent looks more impressive when it finds a way around every obstacle. Real institutions sometimes need the opposite behavior: recognize that the obstacle marks the edge of delegated power.
+
+Competence includes stopping at a boundary you could technically cross.
+
+The same afternoon can reveal rate limits. Imagine the bank-detail change is not one invoice but three hundred. Perhaps a supplier updated its records legitimately. Perhaps an upstream import mapped a field incorrectly. Perhaps something adversarial is happening. An agent that processes each invoice independently may see three hundred ordinary cases. An institution sees a correlated event.
+
+The autonomy budget should be able to shrink when the pattern changes.
+
+Five verified payments may be acceptable. Three hundred changes to the same sensitive field may trigger a pause even when every individual payment is below the normal limit. Authority depends on the distribution of events, not merely the properties of each event in isolation.
+
+This is why cumulative exposure belongs beside per-action permission. A trader can stay below a position limit on each order and still build a dangerous total position. A service agent can issue individually reasonable refunds and still create an abnormal daily loss. A security system can isolate one suspicious endpoint after another until it has effectively shut down a company.
+
+The budget needs to know how much consequence has accumulated under the current mandate.
+
+Finally imagine that, during the investigation, someone needs to revoke the agent’s payment credential. If the organization cannot do that without asking the same agent to cooperate, the authority was never truly lent. It was transferred.
+
+The humble invoice therefore contains almost the whole constitutional problem: scope, identity, external commitment, deadline pressure, correlated anomalies, cumulative exposure, escalation, and revocation.
+
+The point of writing these boundaries before the exception is not to predict every exception. It is to preserve a structure for recognizing when the system has left the territory in which its current authority was earned.
+
 This matters as agents persist for longer periods. A system working for ten seconds under direct supervision can inherit context informally. A system working for hours, days, or continuously cannot safely rely on yesterday’s conversational understanding. Permission drifts when tasks outlive the moment in which they were granted.
 
 Authority should therefore expire.
