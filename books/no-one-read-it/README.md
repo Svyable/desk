@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 of 21 drafted |
+| **Chapters** | 5 of 21 drafted |
 
 ## Premise
 
@@ -25,7 +25,7 @@ Generative systems can produce contracts, code, analysis, reports, messages, and
 
 ### Part II — The Economics of Attention
 
-- [ ] Ch 5 — Production and Inspection
+- [x] [Ch 5 — Production and Inspection](manuscript/ch05-production-and-inspection.md)
 - [ ] Ch 6 — The Review Budget
 - [ ] Ch 7 — Sampling the World
 - [ ] Ch 8 — Fluency Is a Queueing Strategy
@@ -63,5 +63,6 @@ Generative systems can produce contracts, code, analysis, reports, messages, and
 - [Chapter 2 evidence notes](research/ch02-contract-evidence.md)
 - [Chapter 3 evidence notes](research/ch03-pull-request-evidence.md)
 - [Chapter 4 evidence notes](research/ch04-literature-evidence.md)
+- [Chapter 5 evidence notes](research/ch05-inspection-evidence.md)
 - [Source ledger](research/source-ledger.csv)
 - [Cooking queue](research/cooking-queue.md)
