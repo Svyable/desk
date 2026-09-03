@@ -250,7 +250,7 @@ Agentic payment work explicitly addresses scenarios where an agent acts based on
 
 Human absence is economically powerful because it lets demand operate continuously.
 
-The agent can book a canceled reservation at 2:13 a.m., buy an item when the price falls, renew a service before a deadline, or acquire a digital service when another software process needs it. Stripe’s Machine Payments Protocol pushes the idea beyond shopping on behalf of people: an agent can pay for data, API access, or other machine-consumable services programmatically rather than stopping to create an account and negotiate a conventional checkout. citeturn612691search1turn612691search6
+The agent can book a canceled reservation at 2:13 a.m., buy an item when the price falls, renew a service before a deadline, or acquire a digital service when another software process needs it. Stripe’s Machine Payments Protocol pushes the idea beyond shopping on behalf of people: an agent can pay for data, API access, or other machine-consumable services programmatically rather than stopping to create an account and negotiate a conventional checkout.
 
 The consumer case and the machine-to-machine case should not be confused.
 
