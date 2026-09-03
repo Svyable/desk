@@ -174,7 +174,7 @@
 
 **Claim.** Uninsured catastrophe loss does not disappear; it reappears as household distress, public borrowing, migration, interrupted investment, aid or slower recovery. Risk finance is therefore part of development capacity.
 
-**Evidence anchors.** S04, S25, S26, S30.
+**Evidence anchors.** S04, S25, S26.
 
 **Counterevidence / caution.** Self-insurance can be efficient for wealthy households, firms and sovereigns; a protection gap is not automatically proof that more commercial insurance is optimal.
 
@@ -214,7 +214,7 @@
 
 **Claim.** Insurance remains valuable not because every risk is privately insurable but because it creates a layered discipline for deciding what households retain, what private pools carry, what global capital absorbs and what the state ultimately guarantees.
 
-**Evidence anchors.** S01-S30 as synthesis.
+**Evidence anchors.** S01-S29 as synthesis.
 
 **Counterevidence / caution.** Insurance can become extractive, opaque or politically distorted; the institution should not be treated as a neutral oracle or substitute for regulation, prevention, redistribution or public investment.
 
