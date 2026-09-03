@@ -112,6 +112,26 @@ If the Space Academy has a distinct cross-domain mission, USAFA can continue doi
 
 The new school would need to produce something else.
 
+That something else should be defined in outputs rather than adjectives.
+
+Suppose the commission says the new Academy will be interdisciplinary, innovative and world-class. None of those words distinguishes it from what an existing university or academy would say about itself.
+
+The useful questions are harder.
+
+Will the Academy produce officers who require less remedial cross-domain training after commissioning?
+
+Will NASA receive engineers who understand operational constraints and public acquisition better than comparable recruits from existing universities?
+
+Will federal space organizations retain graduates longer because service commitment and professional identity begin together?
+
+Will graduates be more effective at moving among engineering, operations, policy and acquisition without creating new bureaucratic friction?
+
+Will the school expand the population willing to enter public space service rather than simply redistribute applicants who would have gone to USAFA or a civilian aerospace program anyway?
+
+Those are differences an appropriator can eventually test.
+
+They also reveal why a new academy cannot be justified by symbolism alone.
+
 This raises a hard admissions question.
 
 The United States has a finite supply of students with the preparation and desire to handle rigorous technical education tied to public service. A Space Academy will recruit from the same population courted by USAFA, MIT, Caltech, Georgia Tech, Purdue, Stanford, state engineering schools and commercial employers promising extraordinary opportunities.
@@ -191,6 +211,24 @@ Put it near launch infrastructure and industrial operations may become central.
 Put it beside a major research university and academic partnerships may define it.
 
 There is no neutral site.
+
+This is also why a network model deserves serious consideration before the government treats the permanent campus as the institution itself.
+
+A cohort could study in one place and rotate through others.
+
+A common academic core could be paired with semester or summer experiences at NASA centers, operational Space Force units, launch ranges, research laboratories and commercial facilities. Faculty appointments could include practitioners from multiple agencies. Capstone projects could be sponsored by real public missions rather than invented classroom exercises.
+
+Such a model would be administratively harder than a self-contained campus.
+
+It might also be more faithful to the actual space enterprise, which is distributed by nature.
+
+The comparison with USAFA makes that design choice sharper. Colorado Springs already demonstrates the value of proximity to a dense military space ecosystem. A new academy could either reproduce one cluster or deliberately teach students to move among several.
+
+If the academy's thesis is cross-domain literacy, mobility may be part of the curriculum.
+
+If its thesis is concentrated military formation, Colorado Springs already has unusually strong infrastructure.
+
+The location choice therefore cannot be separated from the mission choice.
 
 The Air Force Academy became a space institution partly because its institutional environment changed around it.
 
