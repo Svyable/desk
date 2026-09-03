@@ -198,7 +198,7 @@ People paid to absorb the tail are demanding more to do it.
 
 The size of that tail has been changing.
 
-Swiss Re estimated global insured natural-catastrophe losses of roughly $107 billion in 2025, the sixth consecutive year above $100 billion. Munich Re's figures were similar. Losses from severe convective storms, wildfire, and flood have become recurring drains alongside traditional peak perils.
+Swiss Re estimated global insured natural-catastrophe losses of roughly $107 billion in 2025. Losses from severe convective storms, wildfire, and flood have become recurring drains alongside traditional peak perils.
 
 This creates a different reinsurance market from one organized around a few rare giant hurricanes and earthquakes.
 
@@ -305,3 +305,57 @@ The architecture does not make catastrophe cheap.
 It makes catastrophe financeable.
 
 That distinction is the entire book in miniature.
+
+The wholesale contract also contains a problem familiar to anyone who has ever argued about an insurance claim: what counts as one event?
+
+For a simple loss, the answer can be obvious. One building burns. One accident occurs. Catastrophe rarely respects contractual neatness. A hurricane can generate wind, storm surge, flooding, fires, civil-authority closures, utility failures, and losses spread across several days. Severe storms can arrive in clusters. Cyber incidents can exploit one vulnerability across many companies over an extended period.
+
+Aggregation decides which losses reach which reinsurance layers.
+
+If several losses are treated as one occurrence, a catastrophe treaty may respond differently than if they are treated as separate events. Hours clauses and other contractual mechanisms exist to create boundaries around sprawling physical reality.
+
+The language is technical because the money is enormous.
+
+A few words about duration or occurrence can decide whether hundreds of millions sit with the cedent or move upward to the reinsurer.
+
+This is one reason reinsurance expertise cannot be reduced to buying the cheapest quote. The buyer is designing how future catastrophe will be divided before knowing its exact shape.
+
+The program has to fit the portfolio.
+
+A carrier dominated by one peak hurricane exposure may care most about a high occurrence layer. A carrier exposed to repeated hail and convective storms may care more about aggregate protection across a season. A liability insurer with long-developing claims faces a different structure again.
+
+The reinsurance purchase is therefore a statement about management's theory of failure.
+
+What could happen that ordinary earnings and capital should not have to absorb alone?
+
+Answering that question well requires the insurer to know its own retention appetite. Reinsurance can conceal weak governance when a company transfers so much risk that it stops understanding the underlying book. It can also conceal excessive risk-taking if management assumes capacity will always be available at renewal.
+
+Neither assumption is safe.
+
+The primary insurer must be able to survive the layer it keeps and remain viable if the layer it transfers becomes more expensive next year.
+
+That second condition matters because reinsurance is generally renewed rather than guaranteed forever. A company can build a retail product whose economics depend on a wholesale price that changes faster than the retail regulator allows. The mismatch may sit quietly until a hard market arrives.
+
+Then the carrier discovers it did not merely buy reinsurance.
+
+It built a business model on access to reinsurance.
+
+This is why multiyear protection can be valuable even when it looks expensive compared with a single year's soft-market price. Stability itself has option value. Management knows a defined amount of tail capacity will still exist after an event that might make new protection scarce.
+
+The same logic applies to diversification among reinsurers. Counterparty diversity is not just a procurement preference. It reduces the chance that one dispute, downgrade, strategic retreat, or capital shock undermines the entire catastrophe program.
+
+A cheap tower supported by fragile counterparties can be expensive at the only moment that matters.
+
+Reinsurance thus performs three jobs at once.
+
+It transfers loss.
+
+It imports external judgment about the portfolio.
+
+And it gives management a way to budget for a future in which the company is wrong.
+
+That last function is the quietest and perhaps the most important.
+
+A good reinsurance program is an institutional confession that the primary insurer's own balance sheet is not large enough, diverse enough, or certain enough to stand alone.
+
+Insurance becomes stronger when it admits where its own pool ends.
