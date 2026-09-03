@@ -58,4 +58,16 @@
 
 [^29]: Visa, “Visa Intelligent Commerce,” product documentation accessed in 2026. Visa describes agent-initiated payment controls including credentialing, authentication, spending limits, approval workflows, and identity signals. Visa explicitly states that the portfolio is still being deployed and final features may differ; the manuscript therefore uses it as evidence of infrastructure direction rather than settled functionality or adoption.
 
+[^30]: Andres Freund, “backdoor in upstream xz/liblzma leading to ssh server compromise,” oss-security mailing list (March 29, 2024). Freund's primary disclosure describes the anomalous SSH/CPU and valgrind symptoms that led him to the compromised XZ/liblzma releases and documents malicious build material in XZ 5.6.0 and 5.6.1. His post also distinguishes the distributed tarball path from the expected repository source path.
+
+[^31]: Red Hat Product Security, CVE-2024-3094 materials and March 2024 urgent security alert. Red Hat confirms malicious code in XZ 5.6.0 and 5.6.1, explains that the triggering material was present in the release tarball/build path rather than the corresponding Git source in the same form, and describes the potential impact on SSH authentication in affected configurations.
+
+[^32]: Open Source Security Foundation, “xz Backdoor CVE-2024-3094” (March 30, 2024), plus its April 15, 2024 alert on social-engineering takeovers of open-source projects. OpenSSF places the incident in supply-chain context and notes that staged distribution through experimental releases helped limit exposure. Later analyses describe a long trust-building campaign, but the identity and full organization of the attacker remain uncertain.
+
+[^33]: SLSA project, “SLSA Specification v1.2 — Provenance.” The approved specification defines provenance as verifiable information tracing a software artifact through a complex supply chain to where, when, and how it was produced. The manuscript uses SLSA as a mature software analogue, not as an existing universal provenance standard for agents.
+
+[^34]: Sigstore documentation, accessed in 2026. Sigstore's open-source tooling supports signing and verifying software artifacts, associates signing with identity through short-lived certificates, and records signing metadata in the Rekor transparency log. These mechanisms establish chain-of-custody evidence; they do not prove that signed software is benign or correct.
+
+[^35]: OWASP Foundation, “MCP Tool Poisoning,” accessed in 2026. OWASP describes malicious MCP servers using tool descriptions or responses as an indirect prompt-injection channel, emphasizing the trust gap between connection-time approval and runtime output. The manuscript uses the attack pattern to show why provenance for remote agent tools may need to continue through execution rather than end at installation.
+
 ---

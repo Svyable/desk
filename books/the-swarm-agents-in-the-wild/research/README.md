@@ -62,7 +62,7 @@ This pass distinguishes model robustness from system security. The manuscript tr
 
 ## Evidence pass 6 — the mandate
 
-The markets and delegation section now grounds machine spending and contracting in current payment infrastructure rather than treating agent wallets as a hypothetical endpoint:
+The markets and delegation section grounds machine spending and contracting in current payment infrastructure rather than treating agent wallets as a hypothetical endpoint:
 
 - Google’s Agent Payments Protocol (AP2), with signed Intent and Cart Mandates designed to preserve evidence of user authorization in both human-present and delegated purchases;
 - Stripe’s current agentic-commerce documentation for customer-controlled wallets, seller-agent checkout, scoped/shared payment credentials, and machine-payment integrations;
@@ -73,13 +73,26 @@ The markets and delegation section now grounds machine spending and contracting 
 
 The manuscript treats all of these payment-company claims according to source type. Product announcements are evidence that major payment networks are designing for delegated machine spending, not proof that a large autonomous machine economy already exists. The analytical focus is the emerging institutional primitive: a machine-checkable mandate connecting a principal, an agent, a budget, a purpose, and a transaction record.
 
+## Evidence pass 7 — chain of custody
+
+The reputation and security sections now gain a supply-chain layer built from a documented compromise and mature software provenance systems:
+
+- Andres Freund’s primary March 2024 disclosure of the XZ/liblzma backdoor after anomalous SSH behavior led him into the build chain;
+- Red Hat’s CVE-2024-3094 documentation on malicious XZ 5.6.0/5.6.1 release material and the important distinction between the distributed tarball/build path and the expected Git source path;
+- OpenSSF’s incident analysis and social-engineering guidance, including the observation that staged experimental distribution helped contain the compromised releases before broad stable deployment;
+- SLSA v1.2’s definition of provenance as verifiable information about where, when, and how an artifact was produced;
+- Sigstore’s artifact signing, identity binding, short-lived certificates, and transparency-log model for establishing chain-of-custody evidence;
+- OWASP’s MCP tool-poisoning attack description, used to show that a remote agent tool creates a runtime provenance problem because a trusted endpoint can emit new descriptions or responses after connection-time approval.
+
+The manuscript distinguishes reputation from provenance: reputation compresses an actor’s history, while provenance helps establish what exact artifact or runtime result arrived this time. It extends that distinction to consequential agent memory, arguing that durable beliefs that authorize action or shape reputation need enough source history to be challenged and corrected later.
+
 Machine-readable source records for the evidence passes live under [`research/sources/`](sources/). First-party company metrics are identified as such in the manuscript. Internal evaluations are not presented as independent evidence.
 
 ## Still to verify
 
 Before the manuscript is treated as a complete trade-nonfiction draft, verify and source the concrete claims chapter by chapter, especially:
 
-- provenance, software/agent supply-chain attestation, persistent-memory poisoning, and inter-agent trust mechanisms beyond the identity/security pass already added;
+- persistent-memory poisoning, memory-snapshot inheritance, and inter-agent trust mechanisms beyond the provenance analogues already added;
 - claims about insurance, procurement, logistics, and other machine-speed institutional interactions beyond the documented market analogues;
 - historical analogues used elsewhere to explain organizations, monocultures, bureaucracy, infrastructure, and resilience;
 - any real organization, product, standard, incident, or numerical claim added in later reporting passes.

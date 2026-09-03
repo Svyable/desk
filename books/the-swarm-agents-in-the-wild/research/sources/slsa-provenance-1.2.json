@@ -1,0 +1,9 @@
+{
+  "id": "slsa-provenance-1.2",
+  "year": 2026,
+  "author_or_institution": "SLSA project / Linux Foundation",
+  "title": "SLSA Specification v1.2 — Provenance",
+  "source_type": "Open software-supply-chain specification",
+  "book_use": "Defines provenance as verifiable information tracing an artifact through a complex supply chain to where, when, and how it was produced; supplies a mature software analogue for agent-tool and workflow provenance.",
+  "url": "https://slsa.dev/spec/v1.2/provenance"
+}
