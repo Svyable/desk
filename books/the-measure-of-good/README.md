@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters**  | 13 of 18 drafted |
+| **Chapters**  | 14 of 18 drafted |
 
 If we can measure almost everything, why are we still so bad at measuring what is good?
 
@@ -28,10 +28,10 @@ A book about metrics, judgment, and the point where measurement stops and moral 
 - [x] [Ch 11 — The Commons](manuscript/ch11-the-commons.md)
 - [x] [Ch 12 — The Rule and the Exception](manuscript/ch12-the-rule-and-the-exception.md)
 - [x] [Ch 13 — When the Model Decides](manuscript/ch13-when-the-model-decides.md)
+- [x] [Ch 14 — Experts, Citizens, and Legitimate Choice](manuscript/ch14-experts-citizens-and-legitimate-choice.md)
 
 ## Planned chapters
 
-14. Experts, Citizens, and Legitimate Choice
 15. The Cost of Doing Nothing
 16. Reversibility
 17. The Good Enough Decision
