@@ -46,3 +46,4 @@ The book argues that modern life is becoming unusually good at recording, rankin
 
 - [Book brief](research/book-brief.md)
 - [Source notes](research/source-notes.md)
+- [Release review](research/release-review.md)
