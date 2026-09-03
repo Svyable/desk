@@ -35,7 +35,7 @@ This pass is intentionally counterevidential. It does not treat AI as either uni
 
 ## Evidence pass 4 — protocol layer
 
-The protocol interlude is now tied directly to current developer documentation and open specifications rather than generalized descriptions of agent infrastructure:
+The protocol interlude is tied directly to current developer documentation and open specifications rather than generalized descriptions of agent infrastructure:
 
 - OpenAI’s 2025 Agents SDK documentation for tools, multi-agent workflows, handoffs, guardrails, tracing, and observability;
 - OpenAI’s April 2026 sandbox update, including isolation, files and command execution, configurable memory, long-horizon work, separation of harness from compute, and an explicit assumption of prompt-injection and exfiltration attempts;
@@ -45,14 +45,29 @@ The protocol interlude is now tied directly to current developer documentation a
 
 This pass makes a deliberate distinction between two seams: MCP primarily standardizes access from AI systems to tools/data, while A2A standardizes cross-agent communication and task exchange. The manuscript does not assume either protocol will necessarily become the final industry standard.
 
+## Evidence pass 5 — confused deputy
+
+The security and identity section now grounds its attack-and-containment argument in independent benchmarks, government security work, open authorization rules, and first-party production defenses:
+
+- AgentDojo’s peer-reviewed benchmark for indirect prompt injection against tool-using agents operating over untrusted data;
+- NIST CAISI’s 2026 analysis of a public agent-hijacking red-team competition covering 13 frontier models, more than 250,000 attack attempts, and over 400 participants;
+- OpenAI’s 2026 security engineering account framing mature prompt injection as social engineering and emphasizing source-to-sink controls that constrain damage even when manipulation succeeds;
+- Anthropic’s browser-agent red-team work, including its explicit warning that a one-percent attack success rate remains meaningful at scale;
+- OWASP guidance separating excessive functionality, permissions, and autonomy as distinct architectural risks;
+- Anthropic’s filesystem/network sandboxing work as an example of stronger boundaries enabling more autonomy inside a smaller blast radius;
+- NIST NCCoE’s agent identity and authorization concept paper, which frames identification, authorization, auditing, non-repudiation, and data-flow tracking as enterprise agent problems;
+- MCP authorization rules on resource-bound tokens, audience validation, confused-deputy defenses, and the prohibition on token passthrough.
+
+This pass distinguishes model robustness from system security. The manuscript treats prompt injection as consequential because an authorized agent can connect untrusted input to privileged action, and treats identity portability as separate from authority portability.
+
 Machine-readable source records for the evidence passes live under [`research/sources/`](sources/). First-party company metrics are identified as such in the manuscript. Internal evaluations are not presented as independent evidence.
 
 ## Still to verify
 
 Before the manuscript is treated as a complete trade-nonfiction draft, verify and source the concrete claims chapter by chapter, especially:
 
-- security and identity claims beyond the protocol/sandbox evidence already added, including prompt injection, tool poisoning, provenance, permission attenuation, and credential theft;
 - payment and machine-commerce infrastructure, including where an agent’s authority to spend or contract becomes enforceable;
+- provenance, software/agent supply-chain attestation, persistent-memory poisoning, and inter-agent trust mechanisms beyond the identity/security pass already added;
 - claims about insurance, procurement, logistics, and other machine-speed institutional interactions beyond the documented market analogues;
 - historical analogues used elsewhere to explain organizations, monocultures, bureaucracy, infrastructure, and resilience;
 - any real organization, product, standard, incident, or numerical claim added in later reporting passes.
