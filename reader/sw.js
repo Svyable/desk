@@ -5,7 +5,7 @@ importScripts(
   'https://svyable.github.io/shelf/reader/js/offline-shell-install.js'
 );
 
-const CACHE = 'svyable-desk-reader-v2';
+const CACHE = 'svyable-desk-reader-v3';
 const CACHE_PREFIX = 'svyable-desk-reader-';
 const SHARED_READER = 'https://svyable.github.io/shelf/reader/';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
@@ -78,6 +78,7 @@ const SHARED_PATHS = [
   'js/dialog-stack.js',
   'js/pwa-update-model.js',
   'js/pwa-update.js',
+  'js/native-share.js',
   'js/search-navigation.js',
   'js/search-landing.js',
   'js/cover-presentation.js',
