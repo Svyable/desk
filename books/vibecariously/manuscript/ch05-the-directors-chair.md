@@ -115,3 +115,41 @@ A novelist wrote the prose and used a model to test alternative scene orders. An
 All of these involve generative AI. They are not the same act.
 
 The director's chair is real. So is the distance between sitting in it and knowing how to direct.
+
+## Direction has a budget of attention
+
+A director does not become more effective by reviewing every possible option.
+
+This is obvious in traditional production because the option set is constrained by money and time. You cannot audition every actor, photograph every location, record every arrangement, or cut every conceivable version of a scene. The limits force a hierarchy of decisions.
+
+Generative systems can make the hierarchy less obvious because candidate production becomes cheap while human attention remains fixed.
+
+If a creative leader generates two hundred concepts, they have not created two hundred equally reviewable possibilities. They have created a sorting problem.
+
+The danger is that selection then falls to whatever is easiest to notice: polished surfaces, strong first impressions, familiar conventions, or options appearing early in the grid. Abundance can make direction shallower precisely when it appears more exhaustive.
+
+Good direction therefore includes deciding how much possibility deserves to exist.
+
+Generate three directions before the meeting, not thirty. Set criteria before opening the flood. Ask for a deliberately diverse shortlist rather than endless neighbors. When one option survives several rounds of consequence, stop reopening it without new information.
+
+These are not limitations imposed on creativity.
+
+They are ways of protecting attention for the decisions that matter.
+
+## The best director changes the brief
+
+The shallow version of direction chooses among outputs.
+
+The deeper version notices that the wrong question is being asked.
+
+A client requests a more expensive-looking room. The director realizes the problem is not luxury but trust. A product team asks for a friendlier interface. The director notices the workflow itself is hostile. A writer asks for a stronger ending. The editor sees that the real problem occurred fifty pages earlier when the book made a promise it never fulfilled.
+
+Generative systems are strongest when a task can be described and evaluated inside an existing frame.
+
+Direction earns its value by changing the frame when necessary.
+
+This is another reason domain knowledge matters. A person who understands the consequences can recognize when no amount of generation inside the prompt will solve the underlying problem.
+
+The director says no, not to the output, but to the assignment as currently defined.
+
+That remains one of the least automatable-looking parts of creative work because it requires responsibility for what the work is trying to do in the first place.
