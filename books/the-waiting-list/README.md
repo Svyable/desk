@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | Front matter, prologue, epilogue, back matter; 17 of 20 chapters drafted |
+| **Chapters** | Front matter, prologue, epilogue, back matter; 18 of 20 chapters drafted |
 | **Language** | English |
 | **Rights** | All Rights Reserved |
 | **AI use** | Reserved; see rights file |
@@ -35,7 +35,7 @@ The central thesis is that when a price cannot or should not allocate a scarce g
 - [x] [Ch 15 — The GPU Waiting List](manuscript/ch15-the-gpu-waiting-list.md)
 - [x] [Ch 16 — Whose Water Is It](manuscript/ch16-whose-water-is-it.md)
 - [x] [Ch 17 — The Housing Lottery](manuscript/ch17-the-housing-lottery.md)
-- [ ] [Ch 18 — The Line for College](manuscript/ch18-the-line-for-college.md)
+- [x] [Ch 18 — The Line for College](manuscript/ch18-the-line-for-college.md)
 - [ ] [Ch 19 — Who Audits the Algorithm](manuscript/ch19-who-audits-the-algorithm.md)
 - [ ] [Ch 20 — How to Build a Better Waiting List](manuscript/ch20-how-to-build-a-better-waiting-list.md)
 - [x] [Epilogue — The Next Call](manuscript/epilogue-the-next-call.md)
