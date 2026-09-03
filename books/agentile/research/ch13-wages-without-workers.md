@@ -1,0 +1,24 @@
+# Chapter 13 — Wages Without Workers
+
+## Claim under test
+
+Chapter 13 separates task capability, actual adoption, productivity, hiring, wages, employment, and household welfare rather than treating them as one variable. Its central claim is that agentic software can move economically valuable tasks away from payroll without mechanically producing mass unemployment. The distributional question is therefore broader than job counts: who owns the productive capacity, who captures productivity gains, what happens to entry-level ladders, and whether households retain claims on output as more cognition arrives through capital and software.
+
+## Sources checked
+
+- International Labour Organization and NASK, “Generative AI and jobs: A 2025 update” (May 20, 2025). The refined global index estimates that one in four workers worldwide is in an occupation with some degree of GenAI exposure, while emphasizing that continued human input makes transformation more likely than full redundancy for most exposed jobs. Exposure is a potential-task measure, not an employment forecast. https://www.ilo.org/publications/generative-ai-and-jobs-2025-update
+- International Labour Organization, “The impact of GenAI on jobs, productivity and work organization: a review of the empirical evidence” (June 1, 2026). The review finds real but uneven productivity gains, limited large-scale displacement so far, and risks around inequality, younger-worker opportunities, autonomy, and work organization. It also notes that worker-reported time savings have not automatically translated into higher measured output, earnings, or employment. https://www.ilo.org/publications/impact-genai-jobs-productivity-and-work-organization-review-empirical
+- Alexander Bick, Adam Blandin, David J. Deming, and Tyler R. Schumacher, “What Work Does Generative AI Do?” NBER Working Paper 35677 (August 2026). A nationally representative survey links GenAI adoption to detailed occupations and tasks and finds that theoretical exposure explains only part of actual adoption. Current adoption is widespread but shallow: many occupations use GenAI, but within most, fewer than half of workers adopt. https://www.nber.org/papers/w35677
+- Pascual Restrepo, “Automation: Theory, Evidence, and Outlook,” NBER Working Paper 31910 (2023). The review distinguishes the productivity effect of lower costs from the displacement effect when capital takes over labor tasks, providing the chapter’s broader automation framework. https://www.nber.org/papers/w31910
+- Daron Acemoglu and Pascual Restrepo, “Automation and New Tasks: How Technology Displaces and Reinstates Labor,” NBER Working Paper 25684 (2019). The task model shows why automation can reduce labor share and demand through displacement while new labor-intensive tasks can create a reinstatement effect. https://www.nber.org/papers/w25684
+- Douglas Kruse, Richard Freeman, Joseph Blasi, and collaborators, NBER Shared Capitalism Project. Historical evidence on employee ownership, profit sharing, gain sharing, and broad-based stock options is used only to show that institutions can distribute some capital-linked gains to workers; it is not presented as a settled policy prescription for AI. https://www.nber.org/books-and-chapters/shared-capitalism-work-employee-ownership-profit-and-gain-sharing-and-broad-based-stock-options
+
+## Counterevidence and boundary conditions
+
+The chapter does not infer job loss from benchmark capability or occupational exposure. Adoption is uneven, firms can use productivity gains to expand output, complementary skills can become more valuable, and lower service prices can create consumer surplus. At the same time, aggregate stability can hide weaker junior hiring, regional losses, changes in hours, or declining bargaining power.
+
+The distributional section does not assume employee ownership, profit sharing, taxation, or transfers are universally efficient solutions. Capital-sharing arrangements expose workers to firm-specific risk and can concentrate rather than diversify household wealth. Transition policies should therefore be evaluated against actual labor-market evidence and compared on portability, risk, incentive effects, and administrative feasibility.
+
+## What would weaken the chapter
+
+The chapter would need substantial revision if actual agent adoption converges quickly to theoretical exposure and produces a clean, broad employment shock; if productivity gains consistently translate into proportionate wage gains without distributional tension; or if entry-level hiring and career ladders remain unchanged in highly exposed occupations. It would also narrow if ownership of agentic infrastructure becomes sufficiently broad that capital-income concentration is not materially different from current labor-income distribution.

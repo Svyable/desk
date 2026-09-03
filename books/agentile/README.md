@@ -6,13 +6,13 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Svyable Desk |
 | **Publication Surface** | Svyable Shelf public proof |
-| **Chapters**  | 12 complete + 1 partial of 18 planned |
+| **Chapters**  | 13 complete of 18 planned |
 
 *The Birth of a New Force in the Economy*
 
 The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. The book follows the consequences when software begins to behave partly like labor and partly like capital—changing the cost of delegation, the shape of firms, queues and coordination, entrepreneurship, management, wages, ownership, and responsibility.
 
-This is an incomplete working draft. Chapters 14–18 remain to be drafted and Chapter 13 remains partial before the manuscript can be considered complete.
+This is an incomplete working draft. Chapters 14–18 remain to be drafted before the manuscript can be considered complete.
 
 ## Contents
 
@@ -29,7 +29,7 @@ This is an incomplete working draft. Chapters 14–18 remain to be drafted and C
 - [x] [Ch 10 — The One-Person Corporation](manuscript/ch10-the-one-person-corporation.md)
 - [x] [Ch 11 — The New Middle Management](manuscript/ch11-the-new-middle-management.md)
 - [x] [Ch 12 — The Skill of Having Work Done](manuscript/ch12-the-skill-of-having-work-done.md)
-- [ ] [Ch 13 — Wages Without Workers (partial)](manuscript/ch13-wages-without-workers.md)
+- [x] [Ch 13 — Wages Without Workers](manuscript/ch13-wages-without-workers.md)
 
 ## Research
 
@@ -39,3 +39,4 @@ This is an incomplete working draft. Chapters 14–18 remain to be drafted and C
 - [Chapter 8 — Machine Customers research note](research/ch08-machine-customers.md)
 - [Chapter 9 — Machine Sellers research note](research/ch09-machine-sellers.md)
 - [Chapter 11 — The New Middle Management research note](research/ch11-new-middle-management.md)
+- [Chapter 13 — Wages Without Workers research note](research/ch13-wages-without-workers.md)
