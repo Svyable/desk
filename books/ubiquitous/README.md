@@ -48,4 +48,4 @@ The book argues against both easy refuges: one narrow vertical expertise is incr
 
 ## Publication note
 
-The first Shelf edition was released from committed Desk snapshot `acb828b1686eaeb6501bc9edf78d44fadf09d56c` on September 2, 2026. This Desk copy remains the canonical working edition and stays `Complete draft`; future revisions here do not silently rewrite the released Shelf snapshot.
+The first Shelf edition was released from committed Desk snapshot `acb828b1686eaeb6501bc9edf78d44fadf09d56c` on September 2, 2026. The full-book revision was committed in Desk as `fe0cb12b1fa78e6cc8e83cd5e7c4eb2d90a1b025` and deliberately published through Shelf PR #170, landing as Shelf commit `591bb8faac87b14f773587bba70dc8bc0c9f67fe` on September 3, 2026. This Desk copy remains the canonical working edition and stays `Complete draft`; future revisions here do not silently rewrite the released Shelf snapshot.
