@@ -96,6 +96,7 @@ Look for organizations that combine measurement with local knowledge, escalation
 ## Chapter evidence notes
 
 - [Chapter 10 — The Value of a Life](ch10-value-of-life.md)
+- [Chapter 13 — When the Model Decides](ch13-when-the-model-decides.md)
 
 ## Source discipline
 
