@@ -1,0 +1,9 @@
+{
+  "id": "nist-agent-red-teaming-2026",
+  "year": 2026,
+  "author_or_institution": "National Institute of Standards and Technology, Center for AI Standards and Innovation",
+  "title": "Insights into AI Agent Security from a Large-Scale Red-Teaming Competition",
+  "source_type": "Government research summary",
+  "book_use": "Documents a 2026 public red-teaming competition covering 13 frontier models, more than 250,000 attack attempts, and over 400 participants; at least one successful hijacking attack was found against every target model, with some attack families transferring across models and scenarios.",
+  "url": "https://www.nist.gov/blogs/caisi-research-blog/insights-ai-agent-security-large-scale-red-teaming-competition"
+}
