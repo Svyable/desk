@@ -6,8 +6,77 @@
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.desk-local-workspace #startBookLink {
+  display: none !important;
+}
+
+.book-secondary-actions {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-width: 5.5rem;
+}
+
+.book-secondary-actions > summary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.2rem;
+  padding: .45rem .68rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text-2);
+  background: transparent;
+  cursor: pointer;
+  list-style: none;
+  font: 600 .67rem/1 var(--font-ui);
+}
+
+.book-secondary-actions > summary::-webkit-details-marker {
+  display: none;
+}
+
+.book-secondary-actions > summary::after {
+  content: "+";
+  margin-left: .35rem;
+  color: var(--muted);
+}
+
+.book-secondary-actions[open] > summary::after {
+  content: "−";
+}
+
+.book-secondary-actions > summary:hover,
+.book-secondary-actions > summary:focus-visible {
+  border-color: var(--accent-2);
+  color: var(--accent);
+  background: var(--accent-soft);
+  outline: none;
+}
+
+.book-secondary-links {
+  display: flex;
+  gap: .35rem;
+  padding-top: .35rem;
+}
+
 @media (max-width: 850px) {
   .desk-local-workspace .summary-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 560px) {
+  .book-secondary-actions {
+    width: 100%;
+  }
+
+  .book-secondary-actions > summary {
+    min-height: 2.75rem;
+  }
+
+  .book-secondary-links {
+    display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
