@@ -8,6 +8,8 @@
 | **Status**    | Complete draft |
 | **Chapters**  | 20 of 20 drafted |
 
+The Intelligence Dilemma asks what schools should preserve when capable AI can help students learn—or help them avoid learning while preserving the appearance that learning occurred.
+
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
