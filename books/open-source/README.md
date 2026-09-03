@@ -8,7 +8,7 @@
 | **Status** | Complete draft |
 | **Chapters** | 18 of 18 drafted |
 
-The central thesis is that open AI does not abolish ownership; it rearranges it. When powerful weights can be downloaded, copied, quantized, fine-tuned, and served by somebody else, value migrates toward the scarce layers around them: chips, memory, power, clouds, distribution hubs, runtimes, enterprise integration, private data, maintenance, trust, and developer habit. Nvidia's reported $12.9 billion agreement to acquire Hugging Face is the opening symbol of that migration. DeepSeek, Alibaba's Qwen, Z.ai, Moonshot, and other Chinese labs show several different ways to attack the model layer through open weights. Microsoft's WinUI transition shows why source visibility alone is not open development. The final section turns those observations into falsifiable bets about 2027: lower inference prices, more routing, larger infrastructure markets, new chokepoints, and a model economy in which possession of intelligence matters less than control of the paths around it.
+The central thesis is that open AI does not abolish ownership; it rearranges it. When powerful weights can be downloaded, copied, quantized, fine-tuned, and served by somebody else, value migrates toward the scarce layers around them: chips, memory, power, clouds, distribution hubs, runtimes, enterprise integration, private data, maintenance, trust, and developer habit. Nvidia's September 3, 2026 announcement of its $12.9303 billion agreement to acquire Hugging Face is the opening symbol of that migration. DeepSeek, Alibaba's Qwen, Z.ai, Moonshot, and other Chinese labs show several different ways to attack the model layer through open weights. Microsoft's WinUI transition shows why source visibility alone is not open development. The final section turns those observations into falsifiable bets about 2027: lower inference prices, more routing, larger infrastructure markets, new chokepoints, and a model economy in which possession of intelligence matters less than control of the paths around it.
 
 > **A commons is not the thing nobody owns. It is the thing enough people can use, leave, repair, improve, and defend that no owner gets the last word.**
 
@@ -27,6 +27,7 @@ The central thesis is that open AI does not abolish ownership; it rearranges it.
 - [x] [Ch 10 — The License Starts Biting Back](manuscript/ch16-the-license-starts-biting-back.md)
 - [x] [Ch 11 — Agents Are the New User](manuscript/ch17-agents-are-the-new-user.md)
 - [x] [Ch 12 — Local Means Leverage](manuscript/ch18-local-means-leverage.md)
+- [x] [Interlude — The Sovereignty Stack](manuscript/interlude-the-sovereignty-stack.md)
 - [x] [Ch 13 — The Safety Asymmetry](manuscript/ch19-the-safety-asymmetry.md)
 - [x] [Ch 14 — The Enterprise Fork](manuscript/ch20-the-enterprise-fork.md)
 - [x] [Interlude — The Scarcity Ledger](manuscript/interlude-the-scarcity-ledger.md)
@@ -41,8 +42,8 @@ The central thesis is that open AI does not abolish ownership; it rearranges it.
 
 ## Research trail
 
-Research notes, chapter briefs, and a source ledger live in [`research/`](research/). Contemporary claims are dated and source-linked there so later editions can distinguish 2026 reporting from the book's explicit 2027 forecasts.
+Research notes, chapter briefs, and a source ledger live in [`research/`](research/). Contemporary claims are dated and source-linked there so later editions can distinguish 2026 reporting from the book's explicit 2027 forecasts. Post-publication evidence for the next working edition is recorded in [`research/next-edition-2026-09-03.md`](research/next-edition-2026-09-03.md).
 
 ## Publication note
 
-This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `e10890eb72316fd88308089646a86c1ef2ca0994` on September 2, 2026. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot.
+This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `e10890eb72316fd88308089646a86c1ef2ca0994` on September 2, 2026. Next-edition Desk work began on September 3 after Nvidia publicly announced the Hugging Face agreement; these later edits do not silently rewrite that released snapshot.
