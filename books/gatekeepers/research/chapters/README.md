@@ -7,3 +7,4 @@ These files preserve chapter-level source selection, claim boundaries, counterev
 - [Chapter 7 — Prior Authorization](ch07-prior-authorization.md)
 - [Chapter 8 — The Border](ch08-the-border.md)
 - [Chapter 9 — The App Store](ch09-the-app-store.md)
+- [Chapter 10 — The Payment Rail](ch10-the-payment-rail.md)
