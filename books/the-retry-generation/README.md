@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Complete first draft |
-| **Chapters** | 8 of 8 + prologue + epilogue |
+| **Chapters** | 8 of 8 + prologue + epilogue + back matter |
 | **Draft date** | September 3, 2026 |
 
 A cultural-ideas book about a new mismatch in human life: digital systems increasingly teach us that errors are reversible, alternatives are cheap, and another attempt is always available, while the decisions that shape bodies, trust, childhood, careers, institutions, war, ecosystems, and mortality still move in one direction.
@@ -30,6 +30,7 @@ Its central framework is:
 - [x] [Ch 7 — Machines Get Infinite Tries. We Don't.](manuscript/ch07-machines-get-infinite-tries.md)
 - [x] [Ch 8 — The Courage of One-Way Doors](manuscript/ch08-the-courage-of-one-way-doors.md)
 - [x] [Epilogue — One Life, No Version History](manuscript/epilogue-one-life-no-version-history.md)
+- [x] [Back Matter — Field Guide to a Retry World](manuscript/back-matter.md)
 
 ## Core concepts introduced
 
