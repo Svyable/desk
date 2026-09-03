@@ -4,194 +4,256 @@ School has always contained tasks whose immediate product nobody needs.
 
 A teacher already knows the answer to the algebra problem. The world does not require another five-paragraph essay about a novel. A chemistry student repeats an experiment whose result has been known for generations. A language learner performs awkward conversations no fluent speaker would choose.
 
-The work exists because the product is not the point. The student is.
+The work exists because the product is not the point.
 
-Artificial intelligence creates confusion in education because it can produce the visible product while bypassing the invisible transformation. An essay appears. A solution arrives. A translation is correct. From the standpoint of output, the task is complete. From the standpoint of learning, it may never have begun.
+The student is.
 
-This makes education the clearest place to see why intelligence allocation cannot be reduced to efficiency.
+Artificial intelligence makes this easier to forget because it can produce the visible product while bypassing the invisible transformation. An essay appears. A solution arrives. A translation is correct. Code compiles. From the standpoint of output, the task is complete. From the standpoint of learning, it may never have begun.
 
-If the objective is “produce a correct answer,” giving the task to the strongest available intelligence is sensible. If the objective is “create a person capable of producing, evaluating, and extending answers,” the allocation changes.
+Education is therefore the clearest place to see why intelligence allocation cannot be reduced to efficiency.
+
+If the objective is to produce a correct answer, giving the task to the strongest available intelligence is sensible. If the objective is to create a person capable of producing, evaluating, extending, and taking responsibility for answers, the allocation changes.
 
 The student must receive some of the work.
 
-This does not require romanticizing struggle. Education has often wasted time on mechanical tasks that tools can remove. Calculators did not end mathematics. Spell-checkers did not end writing. Search did not end research. Each technology shifted which skills were worth practicing directly and which could be delegated.
+This does not require romanticizing difficulty. Schools have always contained mechanical tasks whose educational value is smaller than tradition suggests. Calculators did not end mathematics. Spell-checkers did not end writing. Search engines did not end research. Each tool changed which steps people needed to perform directly and which could be delegated after understanding existed.
 
-AI will force a larger shift because it can perform not only calculation and retrieval but explanation, drafting, coding, and critique.
+AI creates a larger version of the same decision because it can assist with explanation, drafting, coding, critique, translation, planning, and research at once.
 
-The first educational question is therefore not whether students should use AI. They will. The question is which cognitive moves they should still practice unaided, which should be practiced with assistance, and which can be delegated once understanding exists.
+The useful educational question is not whether students should use AI.
 
-This is an allocation schedule across development.
+It is when the assistance should arrive.
 
-A novice and an expert should use the same system differently.
+Sequence matters.
 
-An expert programmer can ask an agent to write boilerplate and review the output using a mental model built over years. A novice who delegates the same work may receive correct code without acquiring the structure needed to debug it later. An experienced writer can use a model to challenge an argument without losing voice. A young writer may accept the model’s fluent sentences before discovering what she thinks.
+An expert programmer can ask an agent to generate routine code and inspect the result using a mental model built over years. A novice can receive the same code and learn almost nothing from it. An experienced writer can ask a model to attack an argument without surrendering voice. A young writer can accept a fluent paragraph before discovering what she thinks. A physician can use a decision aid differently from a student who has not yet built a map of the body.
 
-Capability changes the value of assistance.
+The same machine changes educational value depending on the learner’s stage.
 
-This suggests an educational equivalent of training wheels: tools that reveal more or less help depending on the learner’s stage. Instead of answering immediately, a tutor can ask for an attempt, identify the point of confusion, provide a hint, and only later show a worked solution. It can remember recurring misconceptions and space practice accordingly.
+This suggests a simple developmental pattern.
 
-AI is unusually well suited to this because patience is cheap.
+First attempt. Then assistance. Then independent supervision. Finally, where appropriate, professional orchestration.
 
-A teacher cannot provide unlimited individualized dialogue to thirty students at once. A machine can. The opportunity is enormous, especially where tutoring is scarce. But personalization can be pedagogically bad if the system optimizes for immediate user satisfaction. Students often prefer the answer. Learning sometimes requires a temporary refusal.
+The stages are not rigid. They overlap. Different domains move at different speeds. But the sequence is useful because it asks what capability the person is supposed to be building before deciding what the machine should do.
 
-The tutor’s objective must be development, not engagement.
+A learner who has never attempted the task cannot easily tell which part is difficult. A tutor that waits for an attempt can locate the confusion more precisely. It can offer a hint instead of a solution, ask for another step, reveal an example, and only later show the full answer.
 
-UNESCO’s guidance on generative AI in education emphasizes a human-centered approach, privacy, age appropriateness, and pedagogical design. Those concerns matter because education involves asymmetrical relationships and long time horizons. A tool that seems helpful in a single interaction can alter attention, dependence, assessment, and the role of teachers over years.
+AI is unusually good at this because patience is cheap.
 
-The most important design question is what the student should be able to do when the tool is absent.
+A human teacher cannot provide unlimited individualized dialogue to thirty students simultaneously. A machine can explain the same concept six ways without becoming irritated. It can generate fresh practice, adjust difficulty, revisit a misconception, and work at midnight when no teacher is available.
 
-This is not a demand for permanent tool-free competence in every task. Few people need to divide long numbers by hand once they understand arithmetic. But some internal capability is necessary to supervise tools. A person who cannot estimate cannot notice an absurd calculator input. A programmer who cannot read code cannot review generated code. A citizen who cannot form an argument cannot evaluate a persuasive model.
+That is an extraordinary opportunity.
 
-Education creates the verifier of future intelligence.
+It is also easy to waste.
 
-That makes epistemic skills more important, not less. How do you know? What would change your mind? Which source supports the claim? What is missing? Can the result be checked another way? Is the confidence calibrated? What assumptions entered the problem?
+A tutoring system optimized for user satisfaction will often give the answer too soon. Students prefer relief. Learning frequently requires a temporary refusal: try again, show your reasoning, make a prediction, explain where you became uncertain.
+
+The tutor’s objective should be development rather than frictionless completion.
+
+This makes the most important interface question unusually plain: what should this student be able to do after the tool is gone?
+
+The answer will not always be “everything.”
+
+Few adults need to perform long division by hand once arithmetic is understood. Professional programmers are not measured by their ability to reproduce every library from memory. Scientists work through instruments, databases, software, and other people. Expertise has always involved tools.
+
+But supervision requires an internal floor.
+
+A person who cannot estimate cannot notice a wildly wrong calculation. A programmer who cannot read code cannot meaningfully review generated code. A writer without enough language cannot tell whether a polished sentence says what she means. A citizen who cannot form an argument cannot reliably evaluate a persuasive machine.
+
+Internal knowledge is not obsolete storage.
+
+It is the substrate of verification.
+
+This is why education after answers may place greater weight on epistemic habits rather than less.
+
+How do you know? Which source supports the claim? What would change your mind? What information is missing? Can the result be checked another way? Does the confidence fit the evidence? Which assumption is carrying the conclusion?
 
 These questions are the human side of verification infrastructure.
 
-A curriculum designed around AI should spend less time pretending answers are scarce and more time teaching students to allocate trust.
+A future full of machine recommendations requires people who can decide when a recommendation deserves trust.
 
-This may change assessment profoundly. Take-home essays become weak evidence of unaided writing ability when strong generation is ubiquitous. Schools can respond with surveillance and prohibition, but an arms race against tools is unlikely to be a durable pedagogy.
+Assessment should follow the same logic.
 
-Assessment can instead become more varied. Oral explanation. In-class reasoning. Iterative drafts with process records. Projects where students must defend decisions. Practical demonstrations. Critiques of AI output. Closed-tool assessments for foundational skills and open-tool assessments for real-world performance.
+A take-home essay is weak evidence of unaided writing ability when strong generation is ubiquitous. Schools can respond with surveillance, detection software, and prohibition. Some closed-tool settings will remain useful, especially for foundational skills. But an arms race against general-purpose tools is not a complete pedagogy.
 
-The point is to measure the capability the institution actually values.
+The better question is what capability the assessment is trying to observe.
 
-If a course values tool-free recall, say so and test it directly. If it values research with modern tools, permit tools and evaluate sourcing, judgment, and synthesis. Confusion arises when schools assign an output task and secretly expect an invisible process.
+If a course values recall, test recall directly. If it values unaided reasoning, create a setting where unaided reasoning can actually be seen. If it values modern research practice, permit tools and evaluate sourcing, interpretation, judgment, and synthesis. If it values professional performance, ask students to use tools and defend the choices they made.
 
-AI makes the hidden curriculum explicit.
+This can make assessment more varied and more honest.
 
-It also changes the economics of teacher attention.
+Oral explanation. In-class reasoning. Practical demonstration. Iterative drafts. Critique of machine output. Projects followed by defense. Closed-tool exams for foundational fluency. Open-tool work where students must link to sources and explain why they trusted them.
 
-A good tutor can explain a concept in five ways, notice hesitation, adapt examples, and provide immediate feedback. Historically, this quality of attention has been expensive. Wealthier families buy more of it. AI can lower the price of routine individualized explanation.
+AI makes the hidden curriculum harder to hide.
 
-The educational dividend should be spent on the forms of teaching machines handle poorly: motivation, belonging, diagnosis of deeper confusion, social learning, conflict, mentorship, moral development, and the creation of demanding communities.
+Schools often assign a visible product while secretly caring about an invisible process. A paper is assigned, but the real objective is sustained reading, argument construction, source evaluation, and revision. Once a machine can generate the paper, the institution has to name which parts actually mattered.
 
-But productivity pressure can capture the dividend instead. If AI tutoring allows one teacher to supervise twice as many students, institutions may enlarge classes. The teacher receives dashboards from hundreds of interactions and becomes a monitor of automated instruction.
+That is healthy.
 
-This may lower cost and worsen education.
+The unit of policy should therefore be the cognitive move rather than the tool label.
 
-The outcome depends on whether saved teacher attention is returned to students or extracted from the system.
+A student may brainstorm independently, use AI to locate candidate sources, read the sources directly, draft without assistance, ask a model for adversarial critique, revise, and explain the argument orally. Another student may ask for the final essay and submit it unchanged.
 
-Education therefore mirrors the organizational problem discussed earlier. AI can decentralize capability to the learner while centralizing surveillance to the institution. Every click, prompt, mistake, hesitation, and revision can become data. Personalized learning can become personalized observation.
+Both used AI.
 
-Children deserve stricter memory rules than employees or customers.
+They did not perform the same cognitive work.
 
-A student’s confused question at age thirteen should not become a permanent profile used to narrow opportunities later. Learning requires the freedom to be wrong repeatedly. Systems should retain what improves instruction and forget what would harden a temporary difficulty into identity.
+An assignment can make those boundaries explicit. Use any tool to locate sources, but link the originals and defend three source choices. Use a tutor for hints, but complete the final derivation in a closed-tool setting. Generate two possible designs, then explain the tradeoffs and defend the one you chose. Ask a model for a counterargument only after writing your own.
 
-The phrase “student model” should not become destiny.
+The assignment becomes a deliberate allocation of cognition.
 
-AI can also widen or narrow educational inequality.
+That is a more durable policy than declaring a whole technology either allowed or forbidden.
 
-A free general tutor may help millions. Wealthier students may still receive better devices, private data, human experts, specialized models, quieter environments, and parents who know how to use the tools. The gap can shift from access to orchestration.
+It also gives teachers better evidence.
 
-Knowing how to allocate intelligence becomes a class advantage.
+The useful record is not necessarily a transcript of every prompt and keystroke. That can become surveillance without revealing much about learning. Better evidence includes attempts, revisions, explanations, transfer to new problems, and the student’s ability to reproduce or adapt an idea later.
 
-Students need meta-skills: when to ask the model, when to attempt first, when to verify, when to seek a person, how to protect private information, how to preserve their own voice, how to turn an answer into practice.
+A tutoring system could maintain a temporary map of independence: what the learner can do unaided, where a hint is enough, and where guided practice is still necessary.
 
-These skills should be taught explicitly rather than left to families.
+The map should be revisable.
 
-Schools also need to preserve social cognition. Learning is not only a transfer from teacher to student. Students learn by explaining to peers, negotiating group work, seeing other approaches, performing in public, failing in front of people who still accept them, and discovering that knowledge belongs to a community.
+A child’s confusion at thirteen should not become an identity at twenty-three.
 
-A perfectly personalized AI tutor can isolate.
+This matters because personalized education can slide easily into personalized observation. Every hesitation, wrong answer, revision, and question can become data. The same memory that helps a tutor notice a recurring misconception can become a permanent profile used to narrow future opportunities.
 
-The system may always understand the student’s shorthand, always adjust difficulty, never become impatient, never demand negotiation. That comfort can remove the friction through which people learn to communicate with other minds.
+Learning requires the freedom to be wrong repeatedly.
 
-Education should therefore allocate some learning to shared rooms and imperfect peers precisely because adulthood contains shared rooms and imperfect peers.
+Children deserve stronger memory boundaries than ordinary customers.
 
-AI can support these interactions instead of replacing them. Form groups based on complementary strengths. Suggest discussion questions. Translate across languages. Give teachers summaries of where the class diverged. Help a shy student prepare a contribution.
+Systems should retain what improves instruction and discard what would turn a temporary struggle into a durable label. The phrase “student model” should describe a working hypothesis for teaching, not a destiny.
 
-The model becomes social scaffolding rather than the destination of every question.
+Teacher attention belongs in the same allocation problem.
 
-There is also a curricular question: what should people learn when factual and procedural assistance is ubiquitous?
+Historically, individualized explanation has been expensive. Wealthier families purchase tutors because one adult focused on one learner can diagnose confusion and adapt quickly. AI can lower the cost of some of that attention dramatically.
 
-Predictions about obsolete knowledge are usually too confident. New tools often increase the value of foundational understanding because the environment becomes more complex. Calculators did not make numeracy irrelevant. Search did not make source judgment irrelevant. AI will likely increase the value of domain models, statistics, systems thinking, communication, and ethics because people will supervise more powerful processes.
+The dividend should not automatically become larger class sizes.
 
-Some memorization will decline. Some will remain because working memory needs internal material to reason. You cannot search every concept while thinking. Fluency in a domain comes partly from having patterns available without external lookup.
+If a model handles routine explanation, practice generation, translation, and low-level feedback, the valuable question is what teachers can now do with the time. Notice who has withdrawn. Diagnose deeper misunderstanding. Create demanding discussion. Coach judgment. Build trust. Resolve conflict. Connect the subject to a student’s life. Maintain a community in which difficult work feels worth doing.
 
-The correct boundary will vary by field.
+The institution can spend the dividend on those things.
 
-Medical students may use AI heavily and still need internal recognition of emergency patterns when systems fail. Lawyers may automate research and still need doctrine to notice when an answer is strange. Engineers may generate designs and still need physical intuition. Writers may use editing tools and still need language rich enough to know what they mean.
+Or it can extract the dividend.
 
-Education after answers is education for supervision, creation, and responsibility.
+A school system may decide that one teacher can now supervise twice as many students because dashboards show what everyone is doing. The teacher becomes a monitor of automated instruction. Costs fall. The machine provides more individual messages. Human attention becomes scarcer than before.
 
-It also needs curiosity. When a machine answers instantly, the scarce skill becomes asking a question worth the answer. But “ask better questions” is too easy a slogan. Good questions emerge from knowledge, attention, and encounter with reality. A child cannot ask a deep question about geology without first seeing rocks, learning some concepts, and noticing a mismatch.
+The technology does not decide which outcome occurs.
 
-AI can broaden encounter by simulating, translating, and retrieving. Schools must still connect students to the world.
+Allocation does.
 
-A model can describe a wetland. It cannot make the student care that one near home is disappearing unless education connects information to place, people, and consequence.
+This mirrors the organizational pattern seen earlier in the book. Efficiency creates a surplus; incentives decide where the surplus goes.
 
-The most important educational allocation may therefore be physical and social: which experiences deserve to remain unmediated?
+Education contains another complement AI cannot simply replace: other people.
 
-Read the poem before the summary. Attempt the proof before the hint. Talk to the person before asking the agent what the person meant. Measure the plant before querying the database. Write a page before requesting critique. Get lost enough to build a map.
+Learning is not only a transfer of information from teacher to student. Students learn by explaining ideas to peers, negotiating group work, hearing a different approach, performing in public, failing in front of people who still accept them, and discovering that communication requires adapting to minds that do not automatically understand.
+
+A perfectly personalized tutor can be socially frictionless.
+
+That is not always an advantage.
+
+The system may understand the student’s shorthand, adjust difficulty immediately, never become impatient, never misunderstand a joke, and never require negotiation. A learner can become highly competent at interacting with a machine that bends continuously toward the learner.
+
+Adult life contains colleagues, customers, neighbors, patients, juries, children, managers, and strangers who do not.
+
+Education should therefore preserve some shared rooms and imperfect peers precisely because those conditions are part of what students are learning to navigate.
+
+AI can support the room without becoming the destination of every question. It can translate across languages, help a shy student prepare a contribution, suggest discussion prompts, give a teacher a map of where the class disagrees, or help form groups with complementary strengths.
+
+The model becomes social scaffolding rather than social replacement.
+
+The curriculum itself will have to move, but predictions about obsolete knowledge should be treated cautiously.
+
+Tools often increase the value of foundations because the surrounding system becomes more powerful. Calculators did not make numeracy irrelevant. Search did not make source judgment irrelevant. AI may increase the importance of domain models, statistics, physical intuition, communication, and systems thinking because people will supervise processes with greater reach.
+
+Some memorization will shrink.
+
+Some will remain because thinking requires material already available in working memory. A person cannot search every premise while reasoning. Fluency in a domain comes partly from recognizing patterns without stopping to retrieve each component from outside.
+
+The boundary varies by field.
+
+A medical student can use powerful tools and still need emergency patterns internally when systems fail. A lawyer can automate research and still need enough doctrine to recognize when an answer is absurd. An engineer can generate designs and still need intuition about physical limits. A writer can use revision tools and still need language rich enough to know what has been lost.
+
+Education is therefore not choosing between internal knowledge and tool use.
+
+It is choosing which knowledge must remain inside the person so the person can use tools responsibly.
+
+Sequence gives a practical way to make that choice.
+
+Read the poem before the summary.
+
+Attempt the proof before the hint.
+
+Measure the plant before querying the database.
+
+Write a page before requesting critique.
+
+Make a forecast before seeing the model forecast.
+
+Talk to the person before asking the agent what the person meant.
 
 Then use the machine.
 
-The point is not asceticism. It is sequence.
+The point is not asceticism.
 
-A tool that arrives at the right moment can accelerate learning. The same tool arriving too early can replace it.
+It is to give the learner enough contact with the problem to build a structure the assistance can attach to.
 
-Sequence also solves part of the argument about academic integrity.
+A tool that arrives at the right moment can accelerate learning.
 
-Schools often treat AI use as a binary property of an assignment: allowed or forbidden. Learning is more granular. A student might brainstorm without AI, gather sources with AI assistance, read the sources directly, draft independently, ask a model for adversarial critique, revise, and then explain the argument orally. Another student might ask for the final essay immediately and submit it. Both “used AI.” Only one process plausibly built much skill.
+The same tool arriving too early can replace it.
 
-The unit of policy should therefore be the cognitive move, not the tool label.
+This becomes especially important in apprenticeship.
 
-What is the student practicing at this moment? Recall? Translation? Interpretation? Planning? First-draft composition? Debugging? Evidence evaluation? Revision? If the learning objective is clear, the appropriate role of AI becomes easier to specify.
+Much expert knowledge is not contained in final answers. It lives in timing, taste, sequencing, diagnosis, and recognition of when a rule does not fit. Novices historically gained this by watching experts, doing routine work, receiving correction, and taking on gradually harder cases.
 
-This can make assignments more honest. A teacher can say: use any tools you want to locate sources, but your evidence table must link to the originals and you will defend three source choices in class. Or: ask an AI tutor for hints, but the final derivation must be completed in a closed-tool setting. Or: generate two competing drafts, then write the analysis explaining which choices you kept and why.
+AI may remove precisely the routine work that once formed the first rung of the ladder.
 
-The assignment becomes a designed allocation of cognition.
+A junior lawyer whose agent performs basic research can become more productive immediately and receive fewer chances to learn how authorities are distinguished. A junior engineer whose agent writes routine code may see less of the debugging process that builds system intuition. A new analyst may receive forecasts before forming a view. A young clinician may have fewer opportunities to recognize ordinary patterns because software handles them silently.
 
-Teachers will need better instrumentation to support this without becoming police. The useful record is not a surveillance transcript of every keystroke. It is evidence of learning: attempts, revisions, explanations, transfer to new problems, and the student’s ability to reproduce or adapt the idea later.
+The institution then faces an uncomfortable choice.
 
-This distinction should shape educational technology. Systems built mainly to catch cheating will produce adversarial classrooms. Systems built to reveal learning can help teachers diagnose where assistance becomes substitution.
+It can celebrate the immediate productivity gain and assume future experts will somehow appear.
 
-A useful tutor could even maintain an “independence map” for the student: concepts the learner can handle without help, concepts that need a hint, concepts that still require guided practice. The map should be temporary and revisable, not a permanent ability label.
+Or it can deliberately recreate the learning gradient.
 
-The goal is to shrink the assisted region over time where independence matters.
+Rotations. Simulation. Supervised practice. Manual exercises. Required first-pass judgments before machine assistance. Structured review of why an expert rejected a plausible answer. Progressive responsibility over real work.
 
-In other domains, the goal may be the opposite. A student learning modern data science should become increasingly skilled at orchestrating libraries, models, and collaborative tools rather than proving self-sufficiency in every implementation detail. Education has to decide which independence is foundational and which interdependence is professional competence.
+This is not make-work if the organization still needs experts later.
 
-That is a curricular judgment, not a technology judgment.
+It is investment in the human reserve.
 
-The arrival of strong AI also revives the value of apprenticeship. Much expert knowledge is not captured by formal answers. It lives in timing, taste, sequencing, diagnosis, and the recognition of when a rule does not fit. Historically, novices acquired this by watching experts work and then attempting progressively harder tasks.
+Without that investment, the labor market can develop a dangerous shape: experienced professionals at the top, AI handling much of the middle, and too few developmental roles at the bottom. For a time, the system looks efficient. Then senior experts retire, unusual cases accumulate, or the technology fails in a new way, and there are fewer people capable of handling the residue.
 
-If AI removes the routine work through which novices used to enter a profession, institutions must deliberately recreate the learning gradient.
+The expert pipeline is an allocation problem across time.
 
-A junior lawyer who no longer performs basic research may need structured review of how senior lawyers frame issues and reject plausible authorities. A junior engineer whose agent writes routine code may need explicit debugging rotations and system tracing. A new analyst may need to forecast before seeing the model forecast. A young doctor may need simulated cases that expose rare patterns the operational software normally catches.
+Organizations that benefit from automation have an interest in preserving the process that creates the people who can supervise it.
 
-This is not make-work. It is maintenance of the future expert pool.
+Education after answers therefore extends beyond schools.
 
-The labor market can otherwise create a dangerous pyramid: highly productive senior experts at the top, AI in the middle, and too few developmental roles at the bottom. For a while, the system looks efficient. Then the senior cohort retires or demand shifts and there are fewer people capable of handling the exceptions the machines cannot.
+Universities, employers, professional bodies, and public institutions all participate in deciding which forms of judgment the next generation will actually get to practice.
 
-Education and workforce policy therefore meet in the same allocation problem.
+This is why the arrival of AI does not make education less important.
 
-Organizations that benefit from AI automation have an interest in preserving the pipeline that produces future human judgment. Apprenticeships, residencies, rotations, simulation, and supervised practice may become more important as natural entry-level work disappears.
+It makes the allocation of educational difficulty more important.
 
-The same is true in schools. Students need enough contact with the underlying material to build error detectors inside themselves.
+Students should not carry cognitive weight merely because previous generations did. They should carry the weight that builds capabilities society will still need: internal models strong enough to notice errors, judgment strong enough to allocate trust, social skill strong enough to work with other people, and professional depth strong enough to handle the cases machines do not resolve.
 
-A model can tell a child that seven times eight is fifty-six. At some stage, the child should simply know it. A model can summarize a historical argument. At some stage, the student should be able to recognize chronology that makes no sense. A model can generate code. At some stage, the programmer should be able to trace execution and know why the result is wrong.
+Everything else is negotiable.
 
-Internal knowledge is not obsolete storage. It is the substrate of supervision.
+Machines passing old exams should not frighten us into preserving the exams.
 
-The educational system should therefore distinguish three kinds of competence: what must be internal, what must be tool-assisted, and what may be fully delegated. These categories will change by age, domain, and consequence. They should also change as tools improve.
+It should force the institution to ask what the exam was for.
 
-The mistake would be to freeze the old curriculum because it is familiar or to discard it because machines can pass the exam.
+The abundance of answers can move education toward better evidence of judgment: defend the claim, explain the source, diagnose the error, design the experiment, persuade a skeptical audience, adapt the solution when conditions change.
 
-Machines passing the exam tells us something important about the exam.
-
-It may mean the exam tests a capability now cheaply available from outside the student. The response is to ask what human capability the course was supposed to build and design evidence for that instead.
-
-This can make education more demanding rather than less. Defending a claim before a skeptical audience is harder than generating a paragraph. Designing an experiment is harder than recalling a definition. Debugging an AI-produced solution is harder than following a memorized recipe. Comparing several plausible explanations is harder than selecting one answer from four.
-
-The abundance of answers can move assessment toward judgment.
+Those tasks are often harder than producing the original assignment.
 
 That is the opportunity hidden inside the disruption.
 
-Education has always allocated scarce adult attention, books, laboratory time, peer interaction, and opportunities to practice. AI adds abundant synthetic attention to that mix. The wise school will not simply pour it over every task.
+Education has always allocated scarce adult attention, books, laboratory time, practice, peer interaction, and permission to fail. AI adds abundant synthetic attention to that mix.
 
-It will decide where machine patience frees human teachers to notice students, where machine explanation accelerates practice, where machine answers should be delayed, where social friction should remain, and where students must still carry the cognitive weight themselves.
+The wise institution will not pour it over every task.
+
+It will decide when machine patience should accelerate practice, when an answer should be delayed, when a teacher’s attention matters more than another explanation, when social friction should remain, and when the student still needs to carry the cognitive weight personally.
 
 The future of education is not fewer minds at work.
 
-It is better decisions about whose mind should work when.
+It is a better sequence for deciding whose mind should work when.
