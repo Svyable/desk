@@ -42,8 +42,9 @@ function setText(preview, selector, value) {
   const node = preview?.querySelector(selector);
   if (!node) return;
   const next = String(value || '').trim();
-  node.textContent = next;
-  node.hidden = !next;
+  if (node.textContent !== next) node.textContent = next;
+  const hidden = !next;
+  if (node.hidden !== hidden) node.hidden = hidden;
 }
 
 export function decorateLibraryVolume(volume, meta, progress = null) {
@@ -58,7 +59,7 @@ export function decorateLibraryVolume(volume, meta, progress = null) {
   setText(preview, '.volume-quick-progress', previewModel.progressText);
 
   const open = volume.querySelector('.volume-open');
-  if (open) open.textContent = previewModel.action;
+  if (open && open.textContent !== previewModel.action) open.textContent = previewModel.action;
   volume.setAttribute('aria-label', previewModel.ariaLabel);
   volume.dataset.quickLook = 'ready';
   volume.dataset.hasReadingProgress = previewModel.progressText ? 'true' : 'false';
@@ -77,19 +78,26 @@ function decorateAll(root = document) {
   root.querySelectorAll?.('a.volume[href*="#/b/"]').forEach(decorateVolume);
 }
 
+function volumeForMutationTarget(target) {
+  const element = target instanceof Element ? target : target?.parentElement;
+  return element?.closest?.('a.volume[href*="#/b/"]') || null;
+}
+
 function observeLibrary(root = document) {
   const library = root.getElementById?.('libraryView') || root.getElementById?.('binderView');
   if (!library) return;
   const observer = new MutationObserver((records) => {
     for (const record of records) {
-      for (const node of record.addedNodes) {
+      const changedVolume = volumeForMutationTarget(record.target);
+      if (changedVolume) decorateVolume(changedVolume);
+      for (const node of record.addedNodes || []) {
         if (!(node instanceof Element)) continue;
         if (node.matches?.('a.volume[href*="#/b/"]')) decorateVolume(node);
         node.querySelectorAll?.('a.volume[href*="#/b/"]').forEach(decorateVolume);
       }
     }
   });
-  observer.observe(library, { childList: true, subtree: true });
+  observer.observe(library, { childList: true, subtree: true, characterData: true });
 }
 
 async function loadMetadata() {
