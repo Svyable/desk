@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 67 book projects · 33 complete drafts · 1 in revision · 33 drafting**
+> **Desk: 68 book projects · 33 complete drafts · 1 in revision · 34 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 28 author projects · 26 released · 2 public drafts/proofs**
-> **Where they live: 28 in both Desk + Shelf · 39 Desk-only · 0 Shelf-only**
+> **Where they live: 28 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
 > **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -92,6 +92,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 of 23 | 81,073 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | 85,169 | The book begins with the historical purpose of public works and the changing economics of intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right To Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,967 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
+| [**Running On Full**](books/running-on-full/) | ✍️ Drafting | 6 of 24 | 17,500 | The working thesis is that AI compute is not the hardware you rent or buy. | [Read →](https://svyable.github.io/desk/reader/#/b/running-on-full/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 14 of 25 | 32,637 | The working thesis is simple: scale is not just more. A system that becomes ten times larger often becomes a different kind of system. Costs bend, bottlenecks move, coordination changes… | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
 | [**Second Guess**](books/second-guess/) | ✍️ Drafting | 20 of 20 | 77,252 | The working thesis is that automated recommendation has spread into aviation, medicine, criminal justice, finance, warehouses, and driving faster than anyone has taught the humans working… | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | 21 of 21 | 65,532 | The working thesis is that American and European antitrust law were built around a single, century-old assumption: that fixing a price requires an agreement, that an agreement requires… | [Read →](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
