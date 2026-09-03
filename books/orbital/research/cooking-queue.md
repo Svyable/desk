@@ -12,7 +12,8 @@
 - [x] Chapter 6 — The Constellation Bet
 - [x] Chapter 7 — A Thousand Satellites Is a Different Machine
 - [x] Chapter 8 — The Customer Everywhere
-- [ ] Chapter 9 — The Private Astronaut
+- [x] Chapter 9 — The Private Astronaut
+- [ ] Chapter 10 — The Antenna in the Trench
 
 ## Research packets to build before deep drafting
 - [ ] COTS primary documents / Space Act Agreements / NASA oral histories
@@ -24,6 +25,7 @@
 - [x] Chapter 6 first-wave constellation economics evidence packet
 - [x] Chapter 7 deployment / subscriber / internal-launch evidence packet
 - [x] Chapter 8 customer / mobility / disaster-continuity evidence packet
+- [x] Chapter 9 private-astronaut / commercial-destination evidence packet
 - [ ] Starlink constellation population by year and generation
 - [ ] Starlink revenue/customer estimates — source quality matrix
 - [ ] FCC authorizations and modification orders
