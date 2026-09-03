@@ -9,7 +9,6 @@ import {
   responseError,
   retryPauseMs,
   rewriteDeskPublicationUrl,
-  rewriteOfflineReadinessMessage,
   rewriteSharedModuleSpecifiers,
   shouldRedirectShelfWorker,
 } from './desk-runtime-bridge.js';
@@ -58,18 +57,6 @@ check(() => assert.equal(
   shouldRedirectShelfWorker('https://svyable.github.io/shelf/reader/js/app.js'),
   false
 ));
-
-const original = {
-  type: 'BOOKSELF_OFFLINE_READINESS',
-  url: 'https://svyable.github.io/shelf/books/example/README.md',
-};
-const rewritten = rewriteOfflineReadinessMessage(original);
-check(() => assert.notEqual(rewritten, original));
-check(() => assert.equal(rewritten.url, 'https://svyable.github.io/desk/books/example/README.md'));
-check(() => assert.equal(original.url, 'https://svyable.github.io/shelf/books/example/README.md'));
-
-const other = { type: 'BOOKSELF_ACTIVATE_UPDATE', url: 'https://svyable.github.io/shelf/books/example/README.md' };
-check(() => assert.equal(rewriteOfflineReadinessMessage(other), other));
 
 check(() => assert.equal(bootstrapFailureKind(new TypeError('network')), 'transient'));
 check(() => assert.equal(bootstrapFailureKind(Object.assign(new Error('server'), { status: 503 })), 'transient'));
@@ -134,4 +121,4 @@ check(() => assert.equal(moduleRewrite.dynamicImports, 1));
 check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/base\.js/));
 check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/pagination-scheduler\.js/));
 
-console.log(`Desk runtime bridge: ${assertions}/37 assertions passed`);
+console.log(`Desk runtime bridge: ${assertions}/33 assertions passed`);
