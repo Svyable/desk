@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 11 drafted (Prologue + Chapters 1–10) |
+| **Chapters**  | 12 drafted (Prologue + Chapters 1–11) |
 
 ## Contents
 
@@ -20,4 +20,5 @@
 - [x] [Chapter 8: The New Geography of Power](manuscript/ch08-the-new-geography-of-power.md)
 - [x] [Chapter 9: The Authenticity Crisis](manuscript/ch09-the-authenticity-crisis.md)
 - [x] [Chapter 10: The Human Premium](manuscript/ch10-the-human-premium.md)
+- [x] [Chapter 11: The Scarcity After Intelligence](manuscript/ch11-the-scarcity-after-intelligence.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
