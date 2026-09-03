@@ -65,6 +65,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Exponentiality](https://svyable.github.io/desk/books/the-exponentiality/README.md)
 - [The Intelligence Bubble](https://svyable.github.io/desk/books/the-intelligence-bubble/README.md)
 - [The Intelligence Dilemma](https://svyable.github.io/desk/books/the-intelligence-dilemma/README.md)
+- [The Last Human Channel](https://svyable.github.io/desk/books/the-last-human-channel/README.md)
 - [The Long-Running Mind](https://svyable.github.io/desk/books/the-long-running-mind/README.md)
 - [The Measure of Good](https://svyable.github.io/desk/books/the-measure-of-good/README.md)
 - [The Mortality Discount](https://svyable.github.io/desk/books/the-mortality-discount/README.md)
