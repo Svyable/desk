@@ -1,0 +1,23 @@
+# Chapter 15 — The Verification Economy
+
+## Claim under test
+
+Chapter 15 argues that when the marginal cost of generating plausible cognitive work and delegated action falls, the relative value of verification rises. Tests, evaluations, provenance, audit trails, authorization records, insurance, certifications, reputation, and human accountability become complements to agentic production rather than overhead around it. The claim is not that verification guarantees truth or safety. It is that reliable economic use depends increasingly on producing evidence about how an agent acted, what it used, whether it stayed inside its mandate, and how failures can be detected and reversed.
+
+## Sources checked
+
+- NIST, “The TEVV-Athlon Framework for Evaluating AI Systems” (initial public draft announced August 7, 2026). NIST AI 200-2 presents Test, Evaluation, Verification, and Validation as a system-level methodology intended to cover statistical ML, language models, multimodal systems, and agentic systems. The chapter uses this to support the distinction between evaluating a model and evaluating an operational system. https://www.nist.gov/artificial-intelligence/ai-research/tevv-athlon-framework-evaluating-ai-systems
+- NIST, “Building Evaluation Probes into Agentic AI” (2026). The project focuses on factual-grounding probes and machine-readable audit trails that can record what agents found and how evidence supports their conclusions. This is used as a concrete example of evidence-producing agent architecture, not proof that automated grounding is solved. https://www.nist.gov/programs-projects/building-evaluation-probes-agentic-ai
+- NIST, “Towards Best Practices for Automated Benchmark Evaluations” (January 30, 2026). The initial NIST AI 800-2 draft emphasizes validity, transparency, and reproducibility for automated benchmark evaluations of language models and AI agents. It supports the chapter's caution that benchmark practice itself requires standards and can be misleading when poorly specified. https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations
+- Anthropic, “Demystifying evals for AI agents” (January 9, 2026). The engineering note describes why multi-turn, tool-using, state-changing agents are harder to evaluate than single model responses and argues for deployment-specific evaluation suites. This is a provider source and is used for implementation evidence rather than neutral welfare claims. https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents
+- Coalition for Content Provenance and Authenticity, C2PA Specification 2.4 (April 2026) and accompanying Content Credentials material. The specification defines provenance and cryptographically verifiable authenticity claims about digital assets and their histories. The chapter explicitly preserves the limit: provenance can establish source/history/integrity claims under a trust model but does not establish semantic truth. https://spec.c2pa.org/specifications/ and https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html
+
+## Counterevidence and boundary conditions
+
+Verification can become expensive enough to erase automation gains. A human who rereads every machine-produced artifact may recreate the old cost structure. Automated judges can share correlated blind spots with the systems they evaluate. Benchmarks can be gamed or become stale. Auditors, certifiers, insurers, and rating institutions can suffer conflicts of interest, capture, and box-checking failure.
+
+The chapter also distinguishes provenance from truth. A cryptographically intact record can faithfully prove that an incorrect claim came from a particular source. Likewise, a high benchmark score does not establish suitability for a local workflow. Verification must attach to the appropriate unit—model, deployment, workflow, organization, or consequential action—and must be updated as the system changes.
+
+## What would weaken the chapter
+
+The thesis would weaken if agent-generated work becomes both highly reliable and trivially self-verifying across consequential domains, causing assurance costs to fall at least as quickly as generation costs. It would also narrow if organizations do not increase spending or organizational attention on evaluations, audits, provenance, identity, insurance, monitoring, or post-deployment controls as agent autonomy increases. A mature market in which verification is cheap, universal, and embedded would not falsify the mechanism; it would mean the verification economy had become infrastructure rather than a visibly separate sector.
