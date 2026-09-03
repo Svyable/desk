@@ -31,6 +31,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 - [x] [Ch 6 — Reputation Is a Primitive](manuscript/ch06-reputation-is-a-primitive.md)
 - [x] [Ch 7 — Guilds, Firms, and Hives](manuscript/ch07-guilds-firms-and-hives.md)
 - [x] [Ch 8 — Predators and Parasites](manuscript/ch08-predators-and-parasites.md)
+- [x] [Interlude — The Confused Deputy](manuscript/interlude-the-confused-deputy.md)
 - [x] [Ch 9 — The Commons](manuscript/ch09-the-commons.md)
 
 **Part III — Contact With Human Institutions**
@@ -83,4 +84,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the mid-40,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Four reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, and protocol arguments in production engineering, open specifications, independent agent evaluations, peer-reviewed field studies, regulatory company disclosures, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the upper-40,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Five reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, protocol, and security/identity arguments in production engineering, open specifications, government security work, independent agent evaluations, peer-reviewed field studies, regulatory company disclosures, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
