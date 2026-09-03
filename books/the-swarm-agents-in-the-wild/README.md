@@ -29,6 +29,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 - [x] [Ch 5 — Niches](manuscript/ch05-niches.md)
 - [x] [Ch 6 — Reputation Is a Primitive](manuscript/ch06-reputation-is-a-primitive.md)
+- [x] [Interlude — The Chain of Custody](manuscript/interlude-the-chain-of-custody.md)
 - [x] [Ch 7 — Guilds, Firms, and Hives](manuscript/ch07-guilds-firms-and-hives.md)
 - [x] [Ch 8 — Predators and Parasites](manuscript/ch08-predators-and-parasites.md)
 - [x] [Interlude — The Confused Deputy](manuscript/interlude-the-confused-deputy.md)
@@ -85,4 +86,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. The manuscript is now around 50,000 words, still below Desk’s 65,000-word bar for a complete automated full-book drop. Six reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, protocol, security/identity, and machine-commerce arguments in production engineering, open specifications, government security work, independent agent evaluations, peer-reviewed field studies, regulatory company disclosures, payment-network documentation, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the low-to-mid 50,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Seven reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, protocol, security/identity, machine-commerce, and provenance arguments in production engineering, open specifications, government security work, independent agent evaluations, peer-reviewed field studies, regulatory company disclosures, payment-network documentation, software-supply-chain infrastructure, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
