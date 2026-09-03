@@ -53,12 +53,14 @@ for (const dependency of [
   assert.match(worker, new RegExp(`'${dependency.replaceAll('.', '\\.')}'`));
 }
 for (const dependency of [
-  'css/library-quick-look.css',
-  'js/library-book-preview-model.js',
-  'js/library-quick-look.js',
+  './css/library-quick-look.css',
+  './js/library-book-preview-model.js',
+  './js/library-quick-look.js',
 ]) {
   assert.match(worker, new RegExp(`'${dependency.replaceAll('.', '\\.')}'`));
 }
+assert.ok(worker.indexOf("'./js/library-quick-look.js'") < worker.indexOf('const SHARED_PATHS'));
+assert.doesNotMatch(worker.slice(worker.indexOf('const SHARED_PATHS')), /library-quick-look|library-book-preview/);
 assert.doesNotMatch(worker, /offline-readiness/);
 assert.doesNotMatch(worker, /'css\/one-handed-actions\.css'/);
 assert.match(worker, /BookselfOfflineCache\.publicationWarmPlan\(self\.navigator\?\.connection \|\| \{\}\)/);
@@ -76,6 +78,8 @@ assert.ok(loader.indexOf('await import(viewportStabilityUrl)') < loader.indexOf(
 assert.match(loader, /const nativeShareUrl = `\$\{upstream\}native-share\.js`;/);
 assert.match(loader, /Native sharing could not be loaded/);
 assert.ok(loader.indexOf('await import(nativeShareUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
+assert.match(loader, /const quickLookUrl = '\.\/library-quick-look\.js';/);
+assert.ok(loader.indexOf('await import(moduleUrl)') < loader.indexOf('await import(quickLookUrl)'));
 assert.match(loader, /document\.documentElement\.dataset\.oneHandedActionsReady = 'true'/);
 assert.match(loader, /#readerOneHandedActions/);
 assert.match(loader, /\.reader-one-handed-actions/);
@@ -89,4 +93,4 @@ assert.match(bridge, /window\.__IMPRINT\?\.role === 'desk'/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: 59 assertions passed');
+console.log('Desk PWA source contract: 63 assertions passed');
