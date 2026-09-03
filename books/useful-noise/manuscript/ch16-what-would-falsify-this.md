@@ -94,6 +94,12 @@ If the sign of the claimed improvement changes under plausible uncertainty assum
 
 A statistical falsification is not an accusation that the physics is false. It is a statement that the experiment did not contain enough independent information to establish it.
 
+Precommitment helps here, but only up to a point. In 2021, Anne Scheel, Mitchell Schijen, and Daniël Lakens compared 71 published Registered Reports with 152 conventional psychology papers. For the first hypothesis tested, 43.66 percent of the Registered Reports produced a positive result, versus 96.05 percent of the conventional papers. The study does not reveal science’s true null rate, and the authors discuss other reasons the samples might differ. What it does show is that deciding whether work deserves publication before anyone knows the answer changes the mix of answers that survives.
+
+That is a useful defense of outcome-independent gates. It is not a defense of bureaucracy for its own sake. Scheel and colleagues made the harder point in another 2021 paper: a perfectly formal hypothesis test can still be weak if the chain connecting theory to measurement is immature. The construct may be vague. The manipulation may not isolate it. An auxiliary assumption may absorb every apparent failure. A preregistered bad test is still a bad test.
+
+For this project, then, a kill gate earns authority only when the experiment is capable of distinguishing live explanations. Freezing the threshold prevents one kind of rescue. It does not make the discriminator good. Sometimes the correct result is not “the hypothesis survived” or “the hypothesis failed,” but “this experiment could not decide.”
+
 The sixth failure is metrological.
 
 If direct electroluminescence and reciprocity-derived voltage loss disagree beyond the predeclared window, the mechanism interpretation pauses.
