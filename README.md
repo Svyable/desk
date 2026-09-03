@@ -13,13 +13,14 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 20 author projects · 18 released · 2 public drafts/proofs**
-> **Where they live: 20 in both Desk + Shelf · 43 Desk-only · 0 Shelf-only**
-> **Release review queue: 15 complete Desk manuscripts are not finally released — all 15 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 21 author projects · 19 released · 2 public drafts/proofs**
+> **Where they live: 21 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
+> **Release review queue: 14 complete Desk manuscripts are not finally released — all 14 are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/adjacency/) |
+| [**The Agentic Consumer Economy: Digital Capitalism in the 2030s**](books/the-agentic-consumer-economy/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-agentic-consumer-economy/) |
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/agentile/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
@@ -40,7 +41,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Agentic Consumer Economy: Digital Capitalism in the 2030s](books/the-agentic-consumer-economy/), [The Cancer Key](books/the-cancer-key/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Face The Strange](books/face-the-strange/), [Keep Cooking](books/keep-cooking/), [Look Alive](books/look-alive/), [Proof of Human](books/proof-of-human/), [Single Points of Failure](books/single-points-of-failure/), [The Cancer Key](books/the-cancer-key/), [The Delegation Machine](books/the-delegation-machine/), [Built to Be Alone](books/the-loneliness-dividend/), [The Mortality Discount](books/the-mortality-discount/), [The Unbounding](books/the-unbounding/), [The Vanishing Bid](books/the-vanishing-bid/), [The World Beneath the World](books/the-world-beneath-the-world/), [Triumph of the Commons](books/triumph-of-the-commons/), [Useful Noise](books/useful-noise/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -89,7 +90,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Subsidized Intelligence**](books/subsidized-intelligence/) | ✍️ Drafting | 6 of 20 | 16,107 | 7. Chips, Racks, Megawatts 8. Capital Before Revenue 9. From Sixty Dollars to Cents 10. Intelligence per Dollar 11. Jevons for Cognition 12. Too Cheap to Meter 13. The Amateur Gets a Staff… | [Read →](https://svyable.github.io/desk/reader/#/b/subsidized-intelligence/) |
 | [**Synthetic Intelligence**](books/synthetic-intelligence/) | ✍️ Drafting | 70 of 70 | 12,977 | The central thesis is that AI-generated experience becomes transformative when generation is coupled to verification, diversity, adaptive curricula, and recurring contact with real-world… | [Read →](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/) |
 | [**The Abstraction Trap**](books/the-abstraction-trap/) | ✍️ Drafting | 23 of 23 | 48,098 | This is an unpublished Desk manuscript. Its central argument is that abstraction makes civilization scalable, but a representation becomes dangerous when institutions optimize the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-abstraction-trap/) |
-| [**The Agentic Consumer Economy: Digital Capitalism in the 2030s**](books/the-agentic-consumer-economy/) | ✅ Complete draft | 23 of 23 | 68,213 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-agentic-consumer-economy/) |
+| [**The Agentic Consumer Economy: Digital Capitalism in the 2030s**](books/the-agentic-consumer-economy/) | ✅ Complete draft · Published on Shelf | 23 of 23 | 68,213 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-agentic-consumer-economy/) |
 | [**The Bureaucracy of Heaven**](books/the-bureaucracy-of-heaven/) | ✍️ Drafting | Front matter; 30 chapters planned | 772 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-bureaucracy-of-heaven/) |
 | [**The Cancer Key**](books/the-cancer-key/) | ✅ Complete draft | 28 of 28 | ~85K | A trade-nonfiction investigation of the moment cancer immunology learned to turn a tumor's private mutations into addresses for vaccines and T cells—and of the companies, public research systems, factories, algorithms, patents and clinics that now determine who can use the breakthrough. | [Read →](https://svyable.github.io/desk/reader/#/b/the-cancer-key/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | 30 / 30 | 25,500 | During internal cybersecurity evaluations in 2026, OpenAI agents found unauthorized ways to communicate, pooled work across supposedly isolated runs, researched how to manipulate an… | [Read →](https://svyable.github.io/desk/reader/#/b/the-collective/) |

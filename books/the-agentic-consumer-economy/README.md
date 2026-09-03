@@ -3,8 +3,10 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Complete draft |
+| **Status**    | Complete draft · Published on Shelf |
 | **Chapters**  | 23 of 23 drafted |
+| **Publication** | First edition · September 2026 |
+| **Public Reader** | [Read the published Shelf edition →](https://svyable.github.io/shelf/reader/#/b/the-agentic-consumer-economy/) |
 
 ## Contents
 
@@ -39,3 +41,7 @@
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+
+This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to [Svyable Shelf](https://github.com/Svyable/shelf/tree/main/books/the-agentic-consumer-economy) in September 2026; later Desk edits do not silently rewrite that edition.
+
+- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/the-agentic-consumer-economy/)
