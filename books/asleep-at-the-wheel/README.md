@@ -6,7 +6,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 6 of 22 drafted |
+| **Chapters** | 9 of 22 drafted |
 
 *How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask.*
 
@@ -23,9 +23,9 @@ The working thesis is that sleep behaves like a hard, measurable biological cons
 - [x] [Ch 4 — Edison's Lie](manuscript/ch04-edisons-lie.md)
 - [x] [Ch 5 — Halsted's Ghost](manuscript/ch05-halsteds-ghost.md)
 - [x] [Ch 6 — The Reactor at 1:23 A.M.](manuscript/ch06-the-reactor-at-123-am.md)
-- [ ] [Ch 7 — Asleep at the Helm](manuscript/ch07-asleep-at-the-helm.md)
-- [ ] [Ch 8 — The Man Who Fell Asleep at the Throttle](manuscript/ch08-the-man-who-fell-asleep-at-the-throttle.md)
-- [ ] [Ch 9 — Miles to Go Before You Sleep](manuscript/ch09-miles-to-go-before-you-sleep.md)
+- [x] [Ch 7 — Asleep at the Helm](manuscript/ch07-asleep-at-the-helm.md)
+- [x] [Ch 8 — The Man Who Fell Asleep at the Throttle](manuscript/ch08-the-man-who-fell-asleep-at-the-throttle.md)
+- [x] [Ch 9 — Miles to Go Before You Sleep](manuscript/ch09-miles-to-go-before-you-sleep.md)
 - [ ] [Ch 10 — The Interrogation Room](manuscript/ch10-the-interrogation-room.md)
 - [ ] [Ch 11 — The Bell That Rings Too Early](manuscript/ch11-the-bell-that-rings-too-early.md)
 - [ ] [Ch 12 — The Shift That Never Sleeps](manuscript/ch12-the-shift-that-never-sleeps.md)
