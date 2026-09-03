@@ -65,6 +65,7 @@ confidential.
 | [Silent Cartel](books/silent-cartel/) | @svyable | Complete draft | [Read working draft](https://svyable.github.io/self/reader/#/b/silent-cartel/) | Not released |
 | [Useful Noise](books/useful-noise/) | Sven Hardy Benson | Complete draft | [Read working draft](https://svyable.github.io/self/reader/#/b/useful-noise/) | Not released |
 | [Synthetic Intelligence](books/synthetic-intelligence/) | Sven Hard Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/synthetic-intelligence/) | Not released |
+| [The Useful Body](books/the-useful-body/) | Sven Hardy Benson | Drafting | [Read working draft](https://svyable.github.io/self/reader/#/b/the-useful-body/) | Not released |
 
 ## The simple workflow
 
