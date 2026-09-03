@@ -47,4 +47,8 @@ This is a complete, unpublished Desk draft. The 21-chapter body, front matter, b
 
 The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and occupation, software and infrastructure. A gate can be a person, institution, rule, queue, algorithm, interface, credential, or technical dependency. The book asks when those gates protect something worth protecting, when they become extraction machines, and what meaningful appeal, exit, competition, and accountability look like.
 
+## Publication note
+
+Desk remains the canonical working edition and intentionally remains `Complete draft`. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `573a4651c918d173302a52ee3178bf462bcf9937` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
+
 - [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/gatekeepers/)
