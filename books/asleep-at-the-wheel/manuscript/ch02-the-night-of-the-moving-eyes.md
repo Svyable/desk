@@ -109,3 +109,31 @@ The harder question became whether institutions would treat a measurable biologi
 To answer that, sleep science needed one more step. It was not enough to show that the brain moved through stages after the lights went out. Researchers had to explain why sleepiness and alertness rise and fall when they do, why a person can be exhausted at one hour and strangely awake at another, why jet lag hurts, why teenagers drift later, and why a night shift can be difficult even after a worker has technically spent enough time in bed.
 
 For that, the story moves from the sleeping brain to a clock inside it.
+
+The temptation, once a state can be scored, is to imagine that the scoring system has captured the state completely. It has not. A stage label compresses a complicated interval into a category useful enough for comparison. Two epochs both labeled REM can still differ in their local brain activity, autonomic pattern, preceding sleep, time of night, and the person in whom they occur. Standardization gives researchers a common ruler. It does not make every inch of biology identical.
+
+This matters outside the laboratory because institutions love categories even more than scientists do. Categories can be placed in a policy. Eight hours becomes adequate. A watch score above eighty becomes good. REM becomes restorative. Deep sleep becomes the valuable part. Once the label travels far enough from the measurement that created it, the uncertainty tends to fall off.
+
+The laboratory history points in the opposite direction. The advance came from adding channels, comparing signals, waking people strategically, refining rules, and admitting when one measurement could not answer the next question. Better observation produced more distinctions, not fewer.
+
+Consider what a night of sleep looks like depending on the instrument. To a supervisor looking at a time sheet, the worker was off duty from eleven until seven. To a person remembering the night, it may have felt good or bad. To a wrist device, there is a sequence inferred from movement and cardiovascular signals. To a clinical sleep laboratory, there are multiple channels that can distinguish sleep from wake, stage transitions, breathing disturbances, limb movements, oxygen changes, and arousals. Each view can be useful. None is interchangeable with the others.
+
+The time sheet is not wrong because it cannot see REM. It answers a different question: was there an opportunity for sleep? The wearable is not fraudulent because it does not contain a full laboratory. It answers a narrower question with less information. Polysomnography is not the final word on why somebody feels exhausted the next afternoon. It is a richer measurement of one night under particular conditions.
+
+Problems begin when the question changes but the confidence does not.
+
+A manager may infer that eight hours off duty means eight hours recovered. A patient may infer that a low deep-sleep estimate explains a bad day. A wellness program may infer that a score improved because behavior improved. A scientist may infer too much function from a state that can be reliably identified. The history of REM is useful because it contains the antidote inside the discovery: first find the pattern, then work out what the pattern means, and keep those two achievements separate.
+
+There is also something institutionally important about the fact that sleep must be inferred at all. A worker can report fatigue, but a report is subjective. A schedule can show opportunity, but opportunity is not sleep. A laboratory can show physiology, but laboratories are expensive and artificial. Every system that tries to manage fatigue therefore operates with incomplete information.
+
+The sensible response to incomplete information is not to pretend the uncertainty has disappeared. It is to design with margin.
+
+Engineers do this when a material's exact future load cannot be known. Aviation does it when weather forecasts have uncertainty. Medicine does it when a test has false positives and false negatives. A sleep-literate institution should be equally suspicious of a schedule whose safety depends on every employee obtaining perfect sleep during every nominal rest period.
+
+That is one of the quiet consequences of Aserinsky's moving pens. They did more than reveal a new state. They showed that sleep could be observed as a changing physiological process rather than inferred from the fact that somebody's eyes were closed.
+
+Once that door opened, the next problem became timing. The stages changed across the night, but the body also changed across the day. A person did not merely move through sleep states after bedtime. The propensity to sleep, wake, perform, secrete hormones, and regulate temperature rose and fell according to another rhythm.
+
+The night had an architecture.
+
+The organism had a clock.
