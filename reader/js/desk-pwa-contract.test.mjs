@@ -4,6 +4,7 @@ import fs from 'node:fs';
 const loader = fs.readFileSync(new URL('./app-loader.js', import.meta.url), 'utf8');
 const bridge = fs.readFileSync(new URL('./desk-runtime-bridge.js', import.meta.url), 'utf8');
 const quickLook = fs.readFileSync(new URL('./library-quick-look.js', import.meta.url), 'utf8');
+const quickLookCss = fs.readFileSync(new URL('../css/library-quick-look.css', import.meta.url), 'utf8');
 const worker = fs.readFileSync(new URL('../sw.js', import.meta.url), 'utf8');
 const manifest = JSON.parse(fs.readFileSync(new URL('../manifest.webmanifest', import.meta.url), 'utf8'));
 
@@ -21,7 +22,7 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v10';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v11';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
@@ -94,8 +95,12 @@ assert.match(bridge, /window\.__IMPRINT\?\.role === 'desk'/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-assert.match(quickLook, /open && open\.textContent !== previewModel\.action/);
-assert.match(quickLook, /volumeForMutationTarget\(record\.target\)/);
-assert.match(quickLook, /characterData: true/);
+assert.doesNotMatch(quickLook, /\.volume-open/);
+assert.doesNotMatch(quickLook, /hasReadingProgress/);
+assert.doesNotMatch(quickLook, /characterData:\s*true/);
+assert.match(quickLook, /observer\.observe\(library, \{ childList: true, subtree: true \}\)/);
+assert.match(quickLookCss, /@media \(hover: none\), \(pointer: coarse\)/);
+assert.match(quickLookCss, /\.volume:not\(\.publication-web-volume\) \.volume-quick-look \{\s*display: none;/);
+assert.match(quickLookCss, /:focus-visible \.volume-quick-look \{\s*display: grid;/);
 
-console.log('Desk PWA source contract: 66 assertions passed');
+console.log('Desk PWA source contract: 70 assertions passed');
