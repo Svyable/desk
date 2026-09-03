@@ -39,6 +39,7 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 - [x] [Ch 10 — The Company With No Employees](manuscript/ch10-the-company-with-no-employees.md)
 - [x] [Ch 11 — Bureaucracy Meets Bureaucracy](manuscript/ch11-bureaucracy-meets-bureaucracy.md)
+- [x] [Interlude — The Long Tail Wakes Up](manuscript/interlude-the-long-tail-wakes-up.md)
 - [x] [Ch 12 — Markets at Machine Speed](manuscript/ch12-markets-at-machine-speed.md)
 - [x] [Interlude — The Mandate](manuscript/interlude-the-mandate.md)
 - [x] [Ch 13 — The Politics of Delegation](manuscript/ch13-the-politics-of-delegation.md)
@@ -86,4 +87,4 @@ A narrative field guide to synthetic ecology: what changes when agents gain memo
 
 ## Draft note
 
-This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the low-to-mid 50,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Seven reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, protocol, security/identity, machine-commerce, and provenance arguments in production engineering, open specifications, government security work, independent agent evaluations, peer-reviewed field studies, regulatory company disclosures, payment-network documentation, software-supply-chain infrastructure, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
+This is a working field edition, not a complete trade-manuscript claim. The manuscript is now in the upper-50,000-word range, still below Desk’s 65,000-word bar for a complete automated full-book drop. Eight reported evidence passes now anchor the early-habitat, failure-ecology, labor/apprenticeship, protocol, security/identity, machine-commerce, provenance, and institutional-contact arguments in production engineering, open specifications, government security work, independent agent evaluations, peer-reviewed field studies, regulatory and enterprise disclosures, payment-network documentation, software-supply-chain infrastructure, and documented automated-market failures. Substantial chapter-by-chapter sourcing remains. The opening logistics scene and the later hurricane-insurance disaster scenario remain illustrative constructions unless a later research pass replaces or anchors them with documented cases.
