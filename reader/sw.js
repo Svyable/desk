@@ -14,8 +14,11 @@ const LOCAL_SHELL = [
   './',
   './index.html',
   './manifest.webmanifest',
+  './css/library-quick-look.css',
   './js/app-loader.js',
   './js/desk-runtime-bridge.js',
+  './js/library-book-preview-model.js',
+  './js/library-quick-look.js',
 ];
 
 const SHARED_PATHS = [
@@ -48,7 +51,6 @@ const SHARED_PATHS = [
   'css/media.css',
   'css/media-resilience.css',
   'css/formats.css',
-  'css/library-quick-look.css',
   'css/math.css',
   'css/academic.css',
   'vendor/marked.min.js',
@@ -98,8 +100,6 @@ const SHARED_PATHS = [
   'js/content-scroll-region-model.js',
   'js/content-scroll-regions.js',
   'js/formats.js',
-  'js/library-book-preview-model.js',
-  'js/library-quick-look.js',
   'js/math.js',
   'js/academic.js',
   'js/base.js',
