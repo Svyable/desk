@@ -76,13 +76,14 @@
 
 @media (hover: none), (pointer: coarse) {
   .volume:not(.publication-web-volume) .volume-quick-look {
-    bottom: 2.25rem;
-    padding: .48rem .54rem;
+    display: none;
+  }
+  .volume:not(.publication-web-volume):focus-visible .volume-quick-look {
+    display: grid;
     opacity: 1;
     transform: none;
   }
   .volume:not(.publication-web-volume) .volume-open { opacity: 1; }
-  .volume-quick-tags { display: none; }
 }
 
 @media (max-width: 700px), (max-height: 520px) {
