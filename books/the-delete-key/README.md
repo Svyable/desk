@@ -43,7 +43,7 @@
 - [Research brief, counterevidence, and chapter-to-evidence map](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
 
-## Working thesis
+## Premise
 
 Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of creation; their retirement is often diffuse, risky, politically costly, and weakly rewarded. As generative systems make creation radically cheaper, the scarce capability shifts toward knowing what should stop, what depends on it, what evidence must survive it, who may object, and how to verify that the old path is truly gone.
 
