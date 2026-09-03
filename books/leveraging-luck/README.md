@@ -4,8 +4,8 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Revision in progress |
-| **Drafting Source** | Svyable Binder |
-| **Publication Surface** | Svyable Shelf |
+| **Drafting Source** | Sven Hardy Benson’s Desk |
+| **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters**  | 10 of 10 drafted; first integrated narrative pass underway |
 
 An Optimistic Guide to Life.

@@ -4,8 +4,8 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Drafting Source** | Svyable Desk |
-| **Publication Surface** | Svyable Shelf |
+| **Drafting Source** | Sven Hardy Benson’s Desk |
+| **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 18 of 18 drafted |
 
 Why Civilization Pays for Things Not to Happen.

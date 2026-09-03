@@ -4,8 +4,8 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Drafting Source** | Svyable Binder |
-| **Publication Surface** | Svyable Shelf |
+| **Drafting Source** | Sven Hardy Benson’s Desk |
+| **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters**  | 20 of 20 drafted |
 
 Energy and the Advance of the Human Race.

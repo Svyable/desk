@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Authors**   | @Svyable |
+| **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | 18 of 18 drafted |
 

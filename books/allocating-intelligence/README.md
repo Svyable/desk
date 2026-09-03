@@ -4,8 +4,8 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
-| **Drafting Source** | Svyable Desk |
-| **Publication Surface** | Svyable Shelf |
+| **Drafting Source** | Sven Hardy Benson’s Desk |
+| **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Shelf edition** | First edition released September 2, 2026 · [Read on Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | **Chapters**  | 20 of 20 drafted |
 

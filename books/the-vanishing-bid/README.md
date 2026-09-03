@@ -4,8 +4,8 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Complete draft |
-| **Drafting Source** | Svyable Binder |
-| **Publication Surface** | Svyable Shelf |
+| **Drafting Source** | Sven Hardy Benson’s Desk |
+| **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters**  | 11 of 11 drafted |
 
 Why the World's Most Liquid Markets Keep Disappearing When You Need Them Most.
