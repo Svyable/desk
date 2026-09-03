@@ -80,6 +80,46 @@ A rider can open an app before somebody else and still be matched later. A drive
 
 The line is there, but it is invisible and constantly reordered.
 
+That invisibility changes what it means to wait.
+
+At a taxi stand, waiting is public. The passenger at the front can see the people behind. The drivers can see the queue of passengers. If somebody cuts the line, the violation has witnesses. The system may be crude, but its state is legible to the people inside it.
+
+A ride-hailing queue is private. Two riders standing under the same awning can receive different prices, different pickup estimates, and different drivers without knowing whether the difference came from timing, route, supply, product variation, or a changed marketplace state a few seconds apart. Two drivers parked near the same intersection can receive different trip offers without knowing what the other was offered.
+
+That does not mean the platform is treating either person unfairly. It means the participants cannot easily reconstruct the rule from observation.
+
+This is an important distinction because legibility has economic value of its own.
+
+When a person understands how a line advances, waiting can be unpleasant without feeling arbitrary. When the line is dynamic and individualized, the person has to trust not only the outcome but the unseen process that produced it.
+
+The platform gains something in return for that trust. It can make allocations a visible queue cannot. It can send a farther driver who is actually faster. It can avoid assigning the last nearby car to a short trip if doing so would leave another area effectively uncovered. It can let price absorb part of a sudden demand spike before every rider experiences the shortage as an hour-long line.
+
+But the flexibility creates a burden of explanation.
+
+Consider the fixed-price alternative. Suppose every trip kept the same fare during a downpour. Demand rises sharply; driver supply does not. Somebody still waits. The platform could assign strictly by request time, producing a clean digital first-come-first-served queue. That would be easy to explain. It might also send cars on inefficient pickups, ignore differences in trip feasibility, give drivers little reason to move toward the shortage, and allow the backlog to lengthen until riders simply abandon it.
+
+Now consider the opposite extreme. Let price move freely and let dispatch optimize entirely for system throughput. The visible queue may shrink, but the system can become difficult for any individual participant to audit. A rider who sees the fare double knows the price changed but not whether the change was necessary to produce enough supply. A driver who waits while another car receives a trip knows an allocation occurred but not which objective governed it.
+
+Neither system escapes rationing. One rations more through time. The other uses a mixture of price, prediction, and matching.
+
+The choice is not between a queue and no queue. It is between different bundles of waiting, price, discretion, information, and uncertainty.
+
+The driver side makes that clearer still.
+
+Drivers are suppliers, but they also wait. They wait for offers, for pickups, for riders who are late, for traffic to move, and sometimes for a profitable reason to remain online. A dispatch rule therefore allocates opportunity among workers at the same time that it allocates rides among customers.
+
+A rule that minimizes rider pickup time could repeatedly favor whichever driver happens to be best positioned, even if another driver has waited longer without a trip. A rule that protects driver waiting-time fairness could send a farther car and make the rider wait more. A rule that reduces empty driving could conflict with both.
+
+There is no neutral way to make those objectives coincide because they do not always coincide.
+
+This is why the familiar complaint that “the algorithm should just assign the nearest driver” is both understandable and incomplete. Nearest to whom, measured when, with what probability of acceptance, and at what cost to the next request?
+
+A visible taxi line answers those questions by refusing to ask most of them.
+
+A dynamic platform asks them continuously.
+
+That is the source of both its efficiency and its governance problem.
+
 Surge pricing is the part riders can see.
 
 The visible fare becomes a moral object because it converts scarcity into a number on a screen.
