@@ -22,6 +22,60 @@ A forecasting mechanism can let her state the disagreement directly. If the inst
 
 That is a genuine cognitive service.
 
+Now keep the hypothetical launch market running for several weeks.
+
+At first the contract is simple: will the product be generally available by June 30? Engineering trades near sixty percent. Sales is more optimistic. The program office sits somewhere in between. The number moves a little with each planning update, but nothing dramatic happens.
+
+Then a security engineer discovers that one dependency will require work no one scheduled.
+
+The engineer does not control the launch plan and may not yet know the final delay. What she knows is narrower: the current schedule assumes a condition that is no longer true. In a meeting hierarchy, she may wait until the issue is fully characterized before escalating. In a forecasting system, she can move her estimate immediately.
+
+The price falls.
+
+That movement is useful even before leadership knows the whole story. It says that someone with enough conviction to act believes the shared plan has become less likely.
+
+But what happens next determines whether the market remains a sensor or becomes theater.
+
+Suppose the program lead sees the lower forecast and asks why. That is healthy. Suppose instead the lead announces that the market is “demoralizing the team” and begins calling the most pessimistic traders into meetings. The formal mechanism still exists, but the social cost of dissent has changed. Prices will become more optimistic without the underlying schedule becoming more achievable.
+
+An internal market is still inside an organization.
+
+The mechanism does not suspend hierarchy, career incentives, confidentiality, or fear.
+
+Now suppose the company gives every employee an AI forecasting assistant. Participation rises. People who would never have built a probability estimate can ask the assistant to review project documents, compare the remaining work with historical schedules, and suggest a forecast.
+
+The market becomes more liquid.
+
+It may also become less independent.
+
+If everyone’s assistant reads the same program summary, uses the same model, and interprets the same historical data in similar ways, the new liquidity can increase confidence in a shared representation rather than introduce new information. The security engineer’s local observation matters precisely because it was not yet in the common archive. Once she enters it, all of the assistants may update together.
+
+The price jumps again.
+
+From the outside, the market looks wonderfully responsive.
+
+Inside, the cognitive ecology may contain one human observation followed by a thousand correlated machine updates.
+
+This is why provenance matters even in a market designed to aggregate rather than explain. The institution does not need to publish every trader’s private reasoning. It does need enough structure to distinguish a broad independent shift from a common-source update. A forecast that moved because five departments independently encountered trouble is not the same object as a forecast that moved because one new memo entered the retrieval system everyone shares.
+
+Both movements may be correct.
+
+They imply different confidence about robustness.
+
+Then the forecast falls below forty percent and management allocates more engineers to the launch. Two weeks later the probability rises. What should the institution conclude?
+
+Part of the improvement may be genuine new evidence. Part may be caused by the forecast itself. The market did not merely predict the schedule; it helped redirect resources into the schedule.
+
+That is not failure. It is exactly why organizations forecast.
+
+But the record must preserve the intervention. Otherwise the market will later appear better calibrated than the causal system really was. A forecast that triggers corrective action can be “wrong” in the most useful possible way: it identifies a risk early enough that the institution prevents the predicted outcome.
+
+This is a recurring problem in safety and management. The warning that works destroys some of the evidence that it was necessary.
+
+A mature forecasting institution therefore evaluates more than closing prices. It asks what information entered, how independent it was, which interventions followed, and whether pessimistic signals remained socially safe to express after leaders started watching the market.
+
+The cognitive value lies in the whole loop, not in the number alone.
+
 Markets make one additional move that conversation does not: they can make confidence costly. In a meeting, a person can say “I am certain” at almost no price. In a market, acting on certainty requires exposure to loss. Money is not the only way to create this discipline. Forecasting tournaments use scoring rules and track records rather than financial stakes. What matters is that belief is recorded before the outcome and evaluated afterward.
 
 This is why markets and forecasting institutions matter for AI.
