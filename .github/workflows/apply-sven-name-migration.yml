@@ -1,0 +1,152 @@
+name: Apply Sven Hardy Benson book-name migration
+
+on:
+  push:
+    branches:
+      - cleanup/sven-hardy-benson-book-copy
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: cleanup/sven-hardy-benson-book-copy
+      - name: Update reader-facing book copy
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          root = Path('books')
+          broad_replacements = {
+              '@Svyable': 'Sven Hardy Benson',
+              '@svyable': 'Sven Hardy Benson',
+              'Svyable Desk': 'Sven Hardy Benson’s Desk',
+              'Svyable Binder': 'Sven Hardy Benson’s Desk',
+              'Svyable Shelf': 'Sven Hardy Benson’s Shelf',
+          }
+
+          for path in sorted(root.rglob('*.md')):
+              if '_TEMPLATE' in path.parts:
+                  continue
+              text = path.read_text(encoding='utf-8')
+              updated = text
+              for old, new in broad_replacements.items():
+                  updated = updated.replace(old, new)
+              if updated != text:
+                  path.write_text(updated, encoding='utf-8')
+
+          # Preserve the technical repository coordinate while making the prose/byline human-facing.
+          long_mind = Path('books/the-long-running-mind/manuscript/back-matter.md')
+          if long_mind.is_file():
+              text = long_mind.read_text(encoding='utf-8')
+              text = text.replace(
+                  'Drafted for the `Svyable/desk` collection on August 30, 2026.',
+                  'Drafted for Sven Hardy Benson’s Desk (`Svyable/desk`) on August 30, 2026.',
+              )
+              long_mind.write_text(text, encoding='utf-8')
+
+          # This book used the old handle as a character/name, not merely as infrastructure.
+          unbounding_files = [
+              Path('books/the-unbounding/manuscript/ch01-the-acceleration-point.md'),
+              Path('books/the-unbounding/manuscript/ch03-erdos-ghosts-and-unsolved-rooms.md'),
+              Path('books/the-unbounding/manuscript/ch15-svyable-split-across-futures.md'),
+              Path('books/the-unbounding/manuscript/ch19-the-unbounding.md'),
+          ]
+          for path in unbounding_files:
+              if path.is_file():
+                  text = path.read_text(encoding='utf-8')
+                  path.write_text(text.replace('Svyable', 'Sven Hardy Benson'), encoding='utf-8')
+
+          readme = Path('books/the-unbounding/README.md')
+          if readme.is_file():
+              text = readme.read_text(encoding='utf-8')
+              text = text.replace('Ch 15 — Svyable, Split Across Futures', 'Ch 15 — Sven Hardy Benson, Split Across Futures')
+              text = text.replace('manuscript/ch15-svyable-split-across-futures.md', 'manuscript/ch15-sven-hardy-benson-split-across-futures.md')
+              readme.write_text(text, encoding='utf-8')
+          PY
+
+          if [ -f books/the-unbounding/manuscript/ch15-svyable-split-across-futures.md ]; then
+            git mv \
+              books/the-unbounding/manuscript/ch15-svyable-split-across-futures.md \
+              books/the-unbounding/manuscript/ch15-sven-hardy-benson-split-across-futures.md
+          fi
+
+      - name: Harden author-name audit around technical identifiers
+        shell: bash
+        run: |
+          cat > .github/workflows/book-author-name-audit.yml <<'YAML'
+          name: Book author name audit
+
+          on:
+            pull_request:
+            push:
+              branches: [main]
+
+          jobs:
+            audit:
+              runs-on: ubuntu-latest
+              steps:
+                - uses: actions/checkout@v4
+                - name: Reject legacy Svyable name in reader-facing book copy
+                  shell: bash
+                  run: |
+                    python3 - <<'PY'
+                    from pathlib import Path
+                    import re
+                    import sys
+
+                    root = Path('books')
+                    targets = []
+                    for book in sorted(p for p in root.iterdir() if p.is_dir() and not p.name.startswith('_')):
+                        for name in ('README.md', 'RIGHTS.md', 'rights.json'):
+                            path = book / name
+                            if path.is_file():
+                                targets.append(path)
+                        manuscript = book / 'manuscript'
+                        if manuscript.is_dir():
+                            targets.extend(sorted(manuscript.rglob('*.md')))
+
+                    legacy = re.compile(r'\bsvyable\b', re.IGNORECASE)
+                    raw_url = re.compile(r'https?://[^\s)>\]}]+', re.IGNORECASE)
+                    repo_code = re.compile(r'`Svyable/[A-Za-z0-9._/-]+`', re.IGNORECASE)
+                    matches = []
+
+                    for path in targets:
+                        if legacy.search(path.name):
+                            matches.append((path, 0, '<legacy name in filename>'))
+                        text = path.read_text(encoding='utf-8')
+                        for line_number, line in enumerate(text.splitlines(), start=1):
+                            # Repository URLs/handles are infrastructure and must remain valid.
+                            visible = raw_url.sub('', line)
+                            visible = repo_code.sub('', visible)
+                            if legacy.search(visible):
+                                matches.append((path, line_number, line.strip()))
+
+                    if matches:
+                        print('Legacy public-facing name found in book-draft surfaces:')
+                        for path, line_number, line in matches:
+                            where = f'{path}:{line_number}' if line_number else str(path)
+                            print(f'{where}: {line}')
+                        sys.exit(1)
+
+                    print(f'Book author-name audit passed across {len(targets)} reader-facing draft files.')
+                    PY
+          YAML
+
+      - name: Commit migration
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No migration changes needed."
+            exit 0
+          fi
+          git config user.name "Sven Benson"
+          git config user.email "129682319+Svyable@users.noreply.github.com"
+          git add books .github/workflows/book-author-name-audit.yml
+          git commit -m "Standardize book drafts on Sven Hardy Benson"
+          git push origin HEAD:cleanup/sven-hardy-benson-book-copy
