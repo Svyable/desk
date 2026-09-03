@@ -443,3 +443,11 @@ The institution acquires finer resolution.
 And once an institution can see the long tail, the political question is unavoidable:
 
 **What will it choose to do with all that attention?**
+
+[^36]: Remko Van Hoek, Michael DeWitt, Mary Lacity, and Travis Johnson, “How Walmart Automated Supplier Negotiations,” *Harvard Business Review* (November 8, 2022). The case describes Walmart’s use of Pactum with tail-end suppliers, where the economics of additional human negotiation had previously been unattractive. It is coauthored by Walmart practitioners and academics and should be read as a reported enterprise case, not an independent randomized evaluation.
+
+[^37]: Amazon Web Services, “OPLOG Case Study,” accessed in 2026. AWS reports that OPLOG began building a specialized multi-agent orchestration system in July 2025, put its first production agent live in August 2025, and uses the system for thousands of operational decisions per day. Performance metrics in the case are customer-and-vendor reported rather than independently audited.
+
+[^38]: GE Appliances, “GE Appliances Reinvents Manufacturing Operations at Scale with Google Cloud’s Gemini Enterprise” (April 22, 2026). GE Appliances reports more than 800 AI agents deployed across manufacturing, logistics, and supply-chain operations. The count is first-party and does not establish a common definition of agent or an independently measured effect size.
+
+[^39]: Aetna / CVS Health, “Aetna reduces claims processing time by more than 20% with AI to improve care experience” (May 26, 2026). Aetna describes its second-generation Claims Assist Manager as an agentic claims advisor platform and reports more than a 20% reduction in processing time for complex claims requiring manual review. The performance figure is company-reported and is used here as evidence of production workflow direction, not an independent causal estimate.
