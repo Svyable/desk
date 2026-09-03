@@ -40,6 +40,12 @@ Some of his experiments were wonderfully literal. In the late 1930s, Kleitman an
 
 The cave work did not produce a neat proof of a free-running human circadian period. Later methods would be far better. But it illustrates the central difficulty researchers faced: if human behavior follows a day-night rhythm, is the body generating the timing or simply obeying the sun, clocks, meals, and social schedules around it?
 
+The methodological lesson is easy to miss. Sleep science had to learn how to separate the thing being measured from the environment doing the measuring. A laboratory itself changes sleep: electrodes tug, technicians enter rooms, unfamiliar beds alter behavior, clocks and meals provide time cues, and the act of waking somebody to ask about a dream ends the state under investigation. The history is therefore not a march from ignorance to perfect observation. It is a sequence of better compromises.
+
+Aserinsky's paper is striking partly because it worked within those limits. Eye movements were useful precisely because they gave the investigators a recurring signal that could be observed without first waking the sleeper. The signal did not explain the state. It told them when to look more closely.
+
+That distinction between marker and mechanism remains one of the most important disciplines in sleep research. A measurable feature can identify a state without telling us why the state exists. A correlation can guide an awakening protocol without turning every rapid eye movement into a dream. A pattern can be reproducible before its function is settled.
+
 That question would eventually lead toward the circadian machinery in the next chapter. The eye-movement work solved a different problem. It showed that even within a single night, sleep was not one state.
 
 William Dement entered the story soon afterward.
@@ -51,6 +57,12 @@ The connection is almost too neat: one generation discovers recurring states ins
 The science in between became more complicated quickly.
 
 Researchers developed systems for classifying stages using combinations of EEG, eye movements, and muscle tone. What began as a striking division between rapid-eye-movement sleep and other sleep became a richer architecture. Modern clinical scoring distinguishes REM sleep from several stages of non-REM sleep. The labels and scoring rules have changed over time as measurement improved, but the larger point has remained: a night has internal sequence.
+
+That classification system is more laborious than the neat hypnogram suggests. Human scorers divide recordings into short epochs and assign states from patterns across several signals. A stage label is therefore a standardized judgment about a segment of physiology, not a tiny compartment physically visible inside the brain. The conventions are useful because laboratories and clinics need a shared language. They also remind us that the map is an interpretation built from signals.
+
+Polysomnography turned that shared language into clinical infrastructure. Electroencephalography tracks electrical activity at the scalp. Electro-oculography captures eye movements. Chin electromyography helps distinguish the muscle-tone changes that characterize REM. Other channels can measure airflow, breathing effort, oxygen saturation, heart rhythm, limb movements, and more when the clinical question requires them. A night's recording can become a dense stack of traces rather than a single sleep score.
+
+The richness of that stack is precisely why a wrist device faces a harder inference problem. A wearable may have movement, pulse-derived signals, temperature, or other proxies, but it usually does not have the same direct combination of channels used in a sleep laboratory. That does not make the wearable useless. It means that a smooth consumer interface is solving a different measurement problem from the one Aserinsky and Kleitman began.
 
 That sequence matters because “eight hours of sleep” is not eight hours of one thing.
 
