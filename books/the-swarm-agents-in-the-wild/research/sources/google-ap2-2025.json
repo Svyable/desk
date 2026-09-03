@@ -1,0 +1,9 @@
+{
+  "id": "google-ap2-2025",
+  "year": 2025,
+  "author_or_institution": "Google Cloud",
+  "title": "Powering AI commerce with the new Agent Payments Protocol (AP2)",
+  "source_type": "First-party protocol announcement",
+  "book_use": "Defines authorization, authenticity, and accountability as core problems for agent-led payments and describes cryptographically signed Intent and Cart Mandates as evidence of user instructions for both human-present and delegated purchases.",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol"
+}
