@@ -72,6 +72,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Unbounding](https://svyable.github.io/desk/books/the-unbounding/README.md)
 - [The Value Stack](https://svyable.github.io/desk/books/the-value-stack/README.md)
 - [The Vanishing Bid](https://svyable.github.io/desk/books/the-vanishing-bid/README.md)
+- [The Waiting List](https://svyable.github.io/desk/books/the-waiting-list/README.md)
 - [The World Beneath the World](https://svyable.github.io/desk/books/the-world-beneath-the-world/README.md)
 - [To State the Obvious](https://svyable.github.io/desk/books/to-state-the-obvious/README.md)
 - [Triumph of the Commons](https://svyable.github.io/desk/books/triumph-of-the-commons/README.md)
