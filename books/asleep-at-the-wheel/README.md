@@ -6,7 +6,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Svyable Binder |
 | **Publication Surface** | Svyable Shelf |
-| **Chapters** | 2 of 22 drafted |
+| **Chapters** | 3 of 22 drafted |
 
 *How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask.*
 
@@ -19,7 +19,7 @@ The working thesis is that sleep behaves like a hard, measurable biological cons
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Third of Your Life You're Not Supposed to Notice](manuscript/ch01-the-third-of-your-life.md)
 - [x] [Ch 2 — The Night of the Moving Eyes](manuscript/ch02-the-night-of-the-moving-eyes.md)
-- [ ] [Ch 3 — The Clock Inside You](manuscript/ch03-the-clock-inside-you.md)
+- [x] [Ch 3 — The Clock Inside You](manuscript/ch03-the-clock-inside-you.md)
 - [ ] [Ch 4 — Edison's Lie](manuscript/ch04-edisons-lie.md)
 - [ ] [Ch 5 — Halsted's Ghost](manuscript/ch05-halsteds-ghost.md)
 - [ ] [Ch 6 — The Reactor at 1:23 A.M.](manuscript/ch06-the-reactor-at-123-am.md)
