@@ -107,3 +107,63 @@ Generative systems are most imaginative when treated with the same provisionalit
 The trouble is that their scratch paper can look like a finished photograph.
 
 We will need new habits to remember the difference.
+
+## The blank page was also a measurement device
+
+There is another function of beginning from nothing: it reveals what is available to memory without assistance.
+
+Ask someone to draw a bicycle from memory and the mistakes reveal which mechanical relationships they never encoded. Ask a student to explain a concept before opening the notes and the gaps reveal what has been learned. Ask a team to name the risks in a project before showing a checklist and you learn which risks are salient inside the organization.
+
+The first attempt is diagnostic.
+
+Once assistance enters, diagnosis becomes harder because performance improves immediately. The model can fill forgotten terms, propose missing categories, smooth uncertainty, and create the impression of a more complete internal understanding than the user possesses.
+
+This matters anywhere learning or expertise is the object rather than merely output.
+
+A doctor using a checklist is not less competent because the checklist helps. A pilot using instruments is not cheating. External support is part of professional systems. But training still includes moments when unaided recall is tested because institutions need to know what happens when support is unavailable, misleading, or incomplete.
+
+Creative practice may need similar diagnostic moments.
+
+What can I produce before the suggestions arrive?
+
+What do I notice without an automated critique?
+
+Which references do I retrieve on my own?
+
+Which questions occur to me before the model proposes ten better ones?
+
+The point is not to preserve a fantasy of self-sufficiency. It is to keep some instrumentation on the self.
+
+If every performance is assisted, we can become uncertain about the boundary between our capability and our environment's capability.
+
+That boundary has always been porous. Notes, books, collaborators, instruments, software, and institutions extend what people can do. Generative AI simply makes the extension unusually fluent and immediate.
+
+The response should not be withdrawal.
+
+It should be occasional calibration.
+
+## Begin twice
+
+One practical habit follows from this: begin twice.
+
+Begin once alone.
+
+Write the ugly paragraph. Sketch the obvious shape. List the first associations. State the thesis before it becomes eloquent. Make the prediction. Identify what you think the user will say.
+
+Then begin again with the machine.
+
+Ask for alternatives, objections, combinations, missing categories, references, transformations, or a version that attacks your first move.
+
+The value lies in the difference between the two beginnings.
+
+Where did the model widen the field? Where did it merely make your idea smoother? Which of its suggestions feel attractive because they are genuinely better, and which feel attractive because they arrive finished? What did you know that it ignored? What did it know to ask that you did not?
+
+This process is slower than asking for the answer immediately.
+
+That is intentional.
+
+The extra minute preserves information about origin while still capturing the benefit of assistance. Over time, it can also train judgment because the user sees patterns in what the model repeatedly adds and what their own first moves repeatedly omit.
+
+The blank page does not need to survive as a sacred object.
+
+It can survive as a control condition.
