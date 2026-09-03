@@ -29,6 +29,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Austerity Measures](https://svyable.github.io/desk/books/austerity-measures/README.md)
 - [Chokepoint](https://svyable.github.io/desk/books/chokepoint/README.md)
 - [Energy, Value & Intelligence](https://svyable.github.io/desk/books/energy-value-intelligence/README.md)
+- [Exit Conditions](https://svyable.github.io/desk/books/exit-conditions/README.md)
 - [Built to Be Alone](https://svyable.github.io/desk/books/the-loneliness-dividend/README.md)
 - [Exponential Compression](https://svyable.github.io/desk/books/exponential-compression/README.md)
 - [Face The Strange](https://svyable.github.io/desk/books/face-the-strange/README.md)
