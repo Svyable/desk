@@ -1,1 +1,1 @@
-chapter,claim_id,claim,source_title,source_author_or_org,source_type,publication_date,identifier_or_url,primary_or_secondary,confidence,boundary_or_contradiction,last_verified
+id,year,author_or_institution,title,source_type,book_use,url
