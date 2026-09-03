@@ -18,6 +18,8 @@ Specialized retinal cells detect environmental light and send timing information
 
 Calling it a master clock is useful until the phrase becomes too literal. The body is not a wristwatch with one gear train. Circadian oscillations occur in tissues throughout the body. Liver, muscle, pancreas, fat, and other organs have clocks of their own. Feeding, activity, temperature, and hormonal signals can influence peripheral timing. The Nobel committee's scientific account of circadian biology described the organism less as a single clock than as a clock shop: many oscillators that have to remain usefully synchronized.
 
+That image changes the problem. A schedule can be wrong in more than one way. It can put sleep at an unfavorable circadian phase, but it can also ask food intake, activity, hormone release, and peripheral metabolism to occur on a timetable that is repeatedly being shifted. The phrase “body clock” sounds singular because singular things are easy to picture. The underlying coordination problem is closer to keeping an orchestra together when different sections receive slightly different cues.
+
 This is already a more complicated picture than the one suggested by a bedtime alarm.
 
 It also explains why light at the wrong time can matter so much. Light is information. Morning light can move the system differently from evening light. Artificial light did not abolish human circadian biology; it changed the messages we send it. A brightly lit room at eleven at night is not biologically equivalent to darkness merely because the person in it intends to sleep later.
@@ -31,6 +33,10 @@ The physiology is less convenient.
 Melatonin is produced by the pineal gland in response to darkness under circadian control. Its nightly rise is an excellent marker of internal biological time. It can facilitate sleep under some conditions, and externally administered melatonin can shift circadian phase. But it is not simply an endogenous sedative. Researchers have pointed out the obvious comparative problem with that idea: nocturnal mammals also release melatonin at night, while they are active. A better shorthand is that melatonin is a signal of biological night.
 
 That difference between sedation and timing matters. If a drug mainly makes you drowsy, dose is the intuitive variable. If a substance also shifts a clock, timing becomes part of the treatment. The same intervention can have different effects depending on when the internal clock receives it.
+
+It also means the nightly melatonin rise is useful to researchers because it gives them a window into phase. Clock time alone cannot tell you where a person's internal night begins. Two people can sit in the same laboratory at ten in the evening while occupying meaningfully different points in their circadian cycles. A biological marker makes that hidden difference measurable.
+
+This is one reason circadian research can feel counterintuitive outside the laboratory. We are accustomed to treating ten o'clock as an objective fact. It is an objective fact about the clock on the wall. It is not, by itself, an objective fact about the phase of the person looking at it.
 
 The clock itself reaches deeper than a small region of the brain or a hormone in the blood. It is built into cells.
 
@@ -49,6 +55,8 @@ When period is active, the cell makes period messenger RNA and then PER protein.
 A clock made from making and unmaking.
 
 That first sketch was incomplete. Young identified another clock gene, timeless. Its protein, TIM, binds with PER and helps the complex reach the nucleus, where the feedback can close. Other components regulate activation and delay. CLOCK and CYCLE proteins help switch period and timeless transcription on. DOUBLETIME helps control PER degradation. Light-sensitive mechanisms help synchronize the machinery to the environment.
+
+The delays are not an incidental nuisance in the mechanism. They are part of what makes a daily oscillation possible. If the proteins immediately shut off their own production and immediately vanished, there would be no long, useful rhythm. Accumulation, transport, inhibition, modification, and degradation take time. Biology gets a clock not from a tiny ticking object but from a sequence whose own chemistry supplies the lag.
 
 The details became much more intricate than any textbook diagram. The central idea survived: a self-sustaining transcription-translation feedback system can generate an oscillation of roughly twenty-four hours.
 
@@ -71,6 +79,10 @@ Ordinary jet lag occurs because an airplane moves a person rapidly across time z
 The original work on social jetlag described exactly that discrepancy between work and free days. Later reviews estimated that roughly two-thirds of studying or working people in industrialized countries experience it.
 
 That number should not be treated as a diagnosis rate. Social jetlag is a measure, not a disease. Nor does an association between social jetlag and obesity, smoking, mood, or other outcomes prove that clock mismatch independently caused each outcome. People with late schedules differ from people with early schedules in many ways, and observational research has to contend with work patterns, light exposure, sleep duration, diet, age, income, and behavior.
+
+There is another subtlety. Free-day sleep is not a pristine reading of an untouched biological preference. It can include recovery from sleep lost during the workweek, later social activity, different light exposure, alcohol, family obligations, and the simple pleasure of not setting an alarm. The measure is useful because it captures real-world mismatch, not because Saturday morning reveals a genetically ordained bedtime with perfect purity.
+
+That messiness is a strength when the question is institutional. Work does not happen in a chronobiology chamber. It happens in lives where school schedules, commuting, child care, evening light, neighborhood noise, second jobs, and weekend recovery all interact. A measure that notices the gap between obligation days and free days can reveal friction without pretending to isolate one cause.
 
 But the measure exposes something institutions usually hide.
 
