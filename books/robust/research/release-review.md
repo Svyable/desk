@@ -15,10 +15,10 @@ This file is the release gate between a manuscript-complete Desk project and a d
 - [x] Back matter exists.
 - [x] Practical publication appendix / robustness review exists inside back matter.
 - [x] Every checked Reader-facing manuscript link in `books/robust/README.md` points to an intended manuscript file by repository path.
-- [ ] Exact manuscript word count has been run with the repository’s `scripts/catalog.py` word-count logic and confirmed at or above the Desk full-book standard.
-- [ ] Chapter-length distribution has been reviewed for unusually thin sections or accidental repetition.
+- [x] Exact manuscript word count has been run with the repository’s `scripts/catalog.py` word-count regex and confirmed above the Desk full-book standard: **66,937 words across 35 manuscript files** after the two continuity interludes were added.
+- [x] Chapter-length distribution has been reviewed. Numbered chapters range from roughly 1,568 words at the short end to 2,753 at the long end; the two interludes are intentionally brief. No padding is required to meet the book standard.
 
-**Gate:** Do not change Desk status to `Complete draft` until the exact word-count check and length-distribution review are complete.
+**Gate:** The Desk length/completeness gate is closed. Do not inflate short chapters merely to equalize chapter size; revise only where argument, scene, or pacing needs it.
 
 ## 2. Structural review
 
@@ -26,9 +26,10 @@ This file is the release gate between a manuscript-complete Desk project and a d
 - [x] The six recurring properties remain visible across the manuscript: reversible choices, optional paths, bounded delegation, understood failure modes, substitutable dependencies, tested fallbacks.
 - [x] Counter-cases are preserved: deep single-vendor integration can be rational; redundancy can increase complexity; human review can reduce reliability; old skills and fallbacks can deserve retirement.
 - [x] Part VII adds mechanism-rich field tests rather than a second conclusion.
-- [ ] Final continuity pass confirms that Part V’s `Sturdy, Not Still` no longer reads as if it is literally the last chapter after Parts VI and VII were added.
-- [ ] Final continuity pass checks opening/closing transitions across all seven parts.
-- [ ] Repetition pass removes duplicate formulations that accumulated during expansion.
+- [x] Part V’s `Sturdy, Not Still` is now explicitly framed as the end of the core argument rather than the literal end of the book. `Interlude — The Stress Test` opens Part VI as an institutional-scale stress test.
+- [x] `Interlude — Into the Field` creates an explicit transition from the institutional synthesis into Part VII’s historical field tests and states the limits of the cross-domain analogies.
+- [ ] Full-manuscript repetition pass removes duplicate formulations that accumulated during expansion.
+- [ ] Final opening/closing transition pass checks whether any earlier chapter still contains language that assumes it is the book’s literal conclusion.
 
 ## 3. Current / volatile factual claims
 
@@ -72,6 +73,8 @@ Recheck these immediately before a Shelf release because they can change after t
 
 ## 8. Editorial / voice pass
 
+The repository’s `human-prose` standard is the governing editorial standard for this pass: preserve Sven Hardy Benson’s voice while reducing synthetic symmetry, framework density, presentation voice, repetitive aphorisms, and over-neat conclusions.
+
 - [ ] Run the repository human-prose standard across the complete manuscript rather than chapter-by-chapter in isolation.
 - [ ] Remove repeated rhetorical templates where they become predictable across thirty-one short chapters.
 - [ ] Reduce list-like passages that read as generated enumeration rather than authored argument.
@@ -82,13 +85,13 @@ Recheck these immediately before a Shelf release because they can change after t
 
 ## 9. Reader / repository integration
 
-- [x] Book README has a complete checked manuscript manifest.
-- [x] Book status is `Revision` while publication gates remain open.
+- [x] Book README has a complete checked manuscript manifest, including both continuity interludes.
+- [x] Book status is `Revision` while editorial publication gates remain open.
 - [ ] Run `python3 scripts/catalog.py --write` in a full Desk checkout.
 - [ ] Run `python3 scripts/catalog.py --json` and confirm `healthy: true` with zero blocking Reader audit errors.
 - [ ] Confirm root `README.md` catalog includes `Robust`, the correct `Revision` status, `31 of 31` progress, and the exact generated word count.
 - [ ] Confirm Reader opens every manuscript section in canonical order.
-- [ ] Confirm no stale `/self/` or `/binder/` Reader URLs exist in the book README.
+- [x] Book README contains no stale `/self/` or `/binder/` Reader URLs.
 
 ## 10. Release decision
 
@@ -96,19 +99,19 @@ Desk completion and Shelf publication are separate decisions.
 
 Before moving this project to Sven Hardy Benson’s Shelf:
 
-- [ ] All blocking items above are closed.
-- [ ] Desk status is changed from `Revision` to `Complete draft` only after the manuscript gate passes.
+- [ ] All Desk blocking items below are closed.
+- [ ] Desk status is changed from `Revision` to `Complete draft` only after the editorial and Reader gates pass.
 - [ ] Root Desk catalog is regenerated after the status change.
-- [ ] A clean PR to `main` contains the complete manuscript, research trail, rights notes, release review, and catalog update.
-- [ ] Repository checks pass on the PR head.
+- [x] Draft PR #830 exists and contains the manuscript, research trail, rights notes, and release review; it remains draft while gates are open.
+- [ ] Repository checks pass on the final PR head after temporary audit infrastructure is removed.
 - [ ] PR is merged when objective repository gates permit; no human-review blocker is added merely as ceremony.
 - [ ] Shelf release is handled as a separate deliberate publication step, with its own current-fact refresh and packaging review.
 
 ## Current blocking items
 
-1. Exact manuscript word count / chapter-length audit using Desk’s own word-count logic.
-2. Full-manuscript continuity and repetition pass after expansion to 31 chapters.
-3. Root catalog regeneration and Reader audit.
-4. Final volatile-fact refresh on the actual Shelf release date.
+1. Full-manuscript human-prose / repetition pass after expansion to 31 chapters.
+2. Root catalog regeneration and Reader audit.
+3. Final Desk PR cleanup, final-head checks, and merge.
+4. Final volatile-fact refresh on the actual Shelf release date (Shelf gate, not a reason to keep a complete Desk manuscript unmerged).
 
-The manuscript is structurally complete. It is not yet marked publication-ready until these gates close.
+The manuscript is structurally complete and clears the Desk length standard. It remains in `Revision` until the editorial and repository-integration gates close.
