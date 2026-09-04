@@ -314,6 +314,26 @@ An ethicist should be able to recommend prospective review without claiming pres
 
 Precision is a shared responsibility.
 
+A capability register also needs a record of negative capability claims.
+
+It should not merely accumulate achievements. It should say which properties have *not* been demonstrated: no evidence of pain perception under the available tests, no generalized task transfer, no persistent self-generated behavioral objective, no architecture comparable to an intact brain, or whatever limitations are scientifically appropriate to the system being described.
+
+This protects against a one-way ratchet in public interpretation.
+
+If every release note says the organoid is more complex, more adaptive, and more responsive, readers can infer a march toward consciousness even when the changes are orthogonal to morally relevant capacity. Negative capability statements keep the evidentiary gaps visible.
+
+They also create a baseline for future change. If one of those absent properties later becomes plausibly present, reviewers know exactly what changed and why the ethical analysis should be reopened.
+
+A mature framework would therefore treat capability governance as versioned evidence.
+
+Version one records the tissue architecture, interfaces, observed functions, absent functions, and oversight level. Version two adds a new sensory loop. Version three extends maturation. Version four introduces a multi-region assembloid. The ethical review can compare the systems rather than restarting the argument from the word *organoid* every time.
+
+This approach can reduce both overreaction and complacency.
+
+Researchers do not have to behave as though every neuronal culture is a moral patient.
+
+They also do not have to rely on the fact that last year’s culture was not one.
+
 The title question therefore has no single answer.
 
 When does an assay deserve moral status?
