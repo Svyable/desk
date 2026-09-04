@@ -5,17 +5,17 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete structural draft |
+| **Status** | Expanded working draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Published Snapshot** | Sven Hardy Benson’s Shelf · September 2026 |
 | **Frozen Release Source** | `819e8187720b945f499ca53793d1cce7ace1abaa` |
 | **Form** | Narrative nonfiction / technology / infrastructure |
-| **Chapters** | 12 of 12 drafted |
-| **Edition** | First Desk draft · September 2026 |
+| **Chapters** | 16 drafted |
+| **Edition** | Expanded Desk draft · September 2026 |
 | **Method** | Physical systems narrative + engineering research plan + falsification notes |
 
-The September 2026 Shelf edition is an intentional snapshot of frozen Desk source `819e8187720b945f499ca53793d1cce7ace1abaa`. Desk remains the working edition for later revision. [Read the released snapshot →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/)
+The September 2026 Shelf edition remains an intentional snapshot of frozen Desk source `819e8187720b945f499ca53793d1cce7ace1abaa`. Desk is the working edition for this new expansion. [Read the released snapshot →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/)
 
 ## Premise
 
@@ -51,8 +51,21 @@ The future may belong less to whoever owns the smartest machine than to whoever 
 - [x] [Chapter 10 — Weather as a Service](manuscript/ch10-weather-as-a-service.md)
 - [x] [Chapter 11 — The Geography of Precision](manuscript/ch11-the-geography-of-precision.md)
 - [x] [Chapter 12 — The Climate Stack](manuscript/ch12-the-climate-stack.md)
+- [x] [Chapter 13 — The Heat Debt](manuscript/ch13-the-heat-debt.md)
+- [x] [Chapter 14 — The Night Shift of Civilization](manuscript/ch14-the-night-shift-of-civilization.md)
+- [x] [Chapter 15 — The Planetary Cleanroom](manuscript/ch15-the-planetary-cleanroom.md)
+- [x] [Chapter 16 — The Last Free Input](manuscript/ch16-the-last-free-input.md)
 - [x] [Epilogue — Civilization in a Box](manuscript/epilogue-civilization-in-a-box.md)
 - [x] [Back Matter — Research Standard, Glossary, and Field Tests](manuscript/back-matter.md)
+
+## New expansion arc
+
+The four new chapters push the thesis beyond the original climate-stack ending:
+
+- **The Heat Debt** — every concentrated capability incurs an obligation to move heat somewhere else.
+- **The Night Shift of Civilization** — maintenance and tacit operational knowledge are the hidden labor that converts invention into continuity.
+- **The Planetary Cleanroom** — controlled environments become a lesson in humility about planetary-scale intervention and stewardship.
+- **The Last Free Input** — frontier systems are shaped by the environmental conditions they quietly take for granted, and the next breakthrough may come from robustness rather than tighter control.
 
 ## Continuity motifs
 
@@ -62,6 +75,7 @@ The future may belong less to whoever owns the smartest machine than to whoever 
 - **Control creates capability and fragility at the same time.** Narrower operating bands enable extraordinary performance but increase dependence on support systems.
 - **Climate is becoming nested.** Planetary weather contains urban weather, which contains building weather, which contains room weather, which contains chamber weather.
 - **The future is physical.** Intelligence, automation, medicine, energy storage, and computation still terminate in matter that must be kept within tolerances.
+- **Robustness can substitute for control.** The most elegant environmental technology may be a product redesigned to need less environmental machinery.
 
 ## Editorial principles
 
@@ -75,4 +89,4 @@ The future may belong less to whoever owns the smartest machine than to whoever 
 
 ## Research discipline
 
-See [research/README.md](research/README.md). The structural draft establishes the argument, narrative spine, and chapter architecture. Publication-grade evidence is attached in the [source ledger](research/source-ledger.md), including primary/first-party factual lanes for every chapter and an explicit intellectual-predecessor check. The bounded [release review](research/release-review.md) records the readiness decision and remaining mechanical publication steps.
+See [research/README.md](research/README.md). The structural draft establishes the argument, narrative spine, and chapter architecture. Publication-grade evidence is attached in the [source ledger](research/source-ledger.md), including primary/first-party factual lanes for every original chapter and an explicit intellectual-predecessor check. The new chapters are working-draft additions and should receive the same source-ledger treatment before the next Shelf snapshot. The bounded [release review](research/release-review.md) records the previous readiness decision and frozen publication state.
