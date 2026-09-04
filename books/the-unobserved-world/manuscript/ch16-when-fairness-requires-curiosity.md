@@ -74,6 +74,20 @@ These questions are less visually appealing than a fairness dashboard.
 
 They are often more fundamental.
 
+Label coverage can be mapped like infrastructure.
+
+An institution can identify where outcomes are dense, where they are sparse, and where they are unavailable by design. It can compare coverage across groups without pretending that more data is automatically fairer. It can ask whether sparse coverage reflects privacy choices, low participation, historical exclusion, operational constraints, or the decision rule itself.
+
+The explanation changes the remedy.
+
+If outcomes are sparse because people lawfully declined data collection, the answer may be to accept uncertainty. If outcomes are sparse because the institution rarely offers a beneficial opportunity to one group, the answer may be to reconsider the gate. If outcomes are sparse because people receive the opportunity elsewhere, data linkage or external evidence may help. If the action is dangerous, the answer may be better modeling or research under formal ethical oversight rather than broader exposure.
+
+Fairness begins to look less like one metric and more like an evidence map with moral boundaries drawn on it.
+
+This does not make it vague.
+
+It makes the questions explicit.
+
 The education experiment in Chapter 9 demonstrates why. Selective labels materially affected prediction error for English in the studied colleges but had almost no effect for math. An auditor who assumes the same missingness problem has the same size everywhere could overcorrect one domain and undercorrect another.
 
 Fairness requires curiosity about the mechanism, not only commitment to a metric.
@@ -110,6 +124,40 @@ The goal is not permanent uncertainty.
 
 It is to stop uncertainty from being self-reproducing.
 
+Temporary learning policies need stopping conditions for the same reason experiments do.
+
+What evidence would show that the information gap has narrowed? What performance measure matters? When will the policy be reviewed? Who can end or revise it? How will the institution distinguish a genuine reduction in uncertainty from simply collecting more of the same selected labels?
+
+Without those conditions, “exploration” can become a moral vocabulary attached to ordinary discretion.
+
+With them, it can be audited.
+
+Auditability matters because the people subject to a decision should not have to trust the institution's internal story about its intentions. A company may believe it is broadening interviews to learn about overlooked talent. Applicants experience an opaque screening process. A school may believe a placement trial is generating useful evidence. Students experience the consequences of the placement.
+
+Procedure has to be legible from outside.
+
+That can mean published eligibility rules, appeal channels, notice when an automated system materially influences a decision, independent review, documented reasons for overrides, or aggregate reporting on who passes through each stage. The exact requirements depend on domain and law. The principle is that a learning objective does not cancel due process.
+
+Appeal is itself an evidence channel.
+
+A person who challenges a decision can surface missing context, data errors, category mistakes, or consequences the model did not observe. An appeal system is often described only as a right or error-correction mechanism. It is also a structured stream of contradictions.
+
+Institutions should learn from the pattern of appeals, not merely resolve them one at a time.
+
+If one subgroup appeals more often and wins more often, that can indicate a systematic information problem. If career changers repeatedly supply work evidence that reverses screening decisions, the model may be overusing pedigree. If patients repeatedly produce external records that change risk classifications, data integration may be weak. If applicants misunderstand eligibility, the problem may be communication rather than prediction.
+
+The appeal reveals where the official observation process is incomplete.
+
+This is fairness through contestability.
+
+The institution remains allowed to decide. The affected person retains a route to add evidence the system did not possess. That route is especially valuable when the underlying model is powerful because high predictive performance can make organizations less willing to entertain exceptions.
+
+Confidence can harden into procedural arrogance.
+
+A fair learning system preserves some mechanism by which a person can say: you do not have the right evidence about me.
+
+This is not the same as giving every claimant the outcome they want. Many appeals will confirm the original decision. The value is that the institution allows its map to be challenged by direct evidence.
+
 This is where fairness and efficiency can align more often than public debate suggests. In the hiring study, the exploration model did not simply trade quality for demographic diversity. The authors' analyses found that the machine-learning approaches identified candidates with stronger estimated hiring potential than human recruiters, and they found no evidence that the exploration model's diversity gains came at a substantial cost in hiring yield relative to the supervised model.
 
 Again, this is one firm's data. It should not be generalized carelessly.
@@ -126,7 +174,7 @@ The reverse is also possible. Exploration may reveal real performance gaps under
 
 Exploration supplies a question. Governance chooses the response.
 
-There is a second fairness issue beyond group representation: the right to be legible on terms other than historical similarity.
+There is another fairness issue beyond group representation: the right to be legible on terms other than historical similarity.
 
 Prediction systems naturally reward people whose histories resemble known success. A person with a novel background can be disadvantaged because the institution has no category for them. This is not always a protected-class problem. It affects immigrants, career changers, self-taught workers, people with interrupted careers, founders from new industries, patients with rare presentations, and students from uncommon educational pathways.
 
@@ -139,6 +187,12 @@ A fair society should have some institutions capable of evaluating people throug
 Work samples do this. Exams can do it, though they have their own limits. Auditions do it. Trials and probationary stages can do it when properly designed. Portfolios do it. Open competitions do it. These mechanisms create fresh labels closer to the capability of interest.
 
 They reduce dependence on historical proxies.
+
+Direct evidence also shifts some power away from the institution's inherited dataset.
+
+A résumé says where a person has been. A work sample shows something they can do now. A prior diagnosis says what another clinician observed. A current test can produce new information. A school transcript records past opportunities; a demonstration can reveal present capability. Neither form of evidence is perfect, but the second gives the individual a chance to create a label the historical system did not supply.
+
+That chance can matter deeply in a world of predictive gatekeeping.
 
 The more powerful predictive models become, the more valuable these direct-observation channels may be. Otherwise, a model can infer likely performance from background so efficiently that the institution has less incentive to actually test performance.
 
@@ -157,6 +211,16 @@ It asks whether a fairness audit can see outcomes outside the selected sample.
 It asks who bears the cost of learning.
 
 It asks whether today's equal rule is helping tomorrow's evidence become more equal.
+
+It also asks what must remain off limits.
+
+There are forms of information an institution may want and should not have. An employer could potentially predict behavior from intimate personal data. A lender could seek ever more invasive signals. A platform could infer private traits to reduce uncertainty. More information might improve prediction and still make the system less fair because the method of acquiring it violates privacy, dignity, or appropriate boundaries.
+
+Fairness therefore cannot be reduced to equal information.
+
+Sometimes justice requires equal respect for what will remain unknown.
+
+The proper objective is not to make every person maximally observable. It is to prevent the institution from turning its own uneven history of observation into an unquestionable hierarchy of human potential.
 
 These questions do not settle political disagreements about fairness. They improve the factual ground on which those disagreements occur.
 
