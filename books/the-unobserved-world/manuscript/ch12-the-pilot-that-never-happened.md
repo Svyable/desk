@@ -102,6 +102,76 @@ The unobserved world is not defeated by one randomized trial.
 
 It is managed by a sequence of comparisons.
 
+The sequence has to be designed before success makes revision awkward.
+
+A pilot should begin with a statement of what will happen after each plausible result. If the effect is large and implementation is clean, what is the next scale? If the effect is small but costs are low, does the program continue? If the average effect is zero but one subgroup benefits, is that subgroup finding credible enough to act on or merely suggestive? If the program works only when unusually skilled staff deliver it, is the correct next step expansion or a second test of implementation capacity?
+
+These questions are often postponed until the data arrive because specifying them in advance feels artificial. Yet postponement invites motivated reasoning. Once leaders know the result, the threshold for calling it “promising” can move. A favored program receives another chance. An unfavored program is declared disproven. A politically useful subgroup suddenly becomes the main outcome.
+
+Precommitting every decision is neither possible nor wise. Public policy is too complex for mechanical rules. But naming the likely branches before the result arrives creates a record against which later reinterpretation can be judged.
+
+It also gives null results somewhere to go.
+
+Governments are structurally bad at archiving disappointment. Successful pilots become programs and therefore acquire websites, budgets, staff, and institutional memory. Failed pilots lose owners. Their files become difficult to find. New officials can then rediscover the same plausible idea years later without knowing that a version already failed.
+
+The public sector can suffer from survivorship bias in its own memory.
+
+A serious experimentation system needs a cemetery that is easy to search.
+
+Not a wall of shame. A record of tested mechanisms, settings, implementation details, measures, null results, adverse effects, and unresolved questions. The purpose is to prevent future teams from mistaking forgotten uncertainty for untouched opportunity.
+
+This matters because a failed intervention can fail in several ways.
+
+The underlying idea may be wrong. The delivery may be weak. The target population may differ from the one for which the theory made sense. Participants may not receive the treatment. The outcome measure may arrive too soon. The program may be too small to alter a network effect. A legal constraint may remove the active ingredient. Staff may quietly substitute their own practice.
+
+Calling all of these “the pilot failed” wastes information.
+
+A useful evaluation separates implementation failure from mechanism failure without using that distinction as an excuse to rescue every favorite idea. Process evidence should help explain the result, not erase it.
+
+This is where scale-up studies become especially valuable. They expose the hidden support structure of a successful pilot. Research teams often provide attention, monitoring, troubleshooting, training, or legitimacy that ordinary systems will not reproduce. When scale weakens the effect, the gap reveals what the intervention required to function.
+
+The failure is not necessarily that government ignored the evidence.
+
+The evidence may have described a capability government did not possess.
+
+That should change the next experiment. Instead of retesting the headline program, test the implementation mechanism. Can ordinary supervisors deliver the training? Can procurement supply the materials? Can software enforce the workflow? Can the program survive staff turnover? Can local managers adapt without destroying the active ingredient?
+
+The object of inquiry moves from “does this idea work?” to “under what operating conditions does this institution make it work?”
+
+That is a more mature question.
+
+It also changes how pilot sites are chosen.
+
+The most enthusiastic site is attractive because implementation will be easier. It may be the worst site for learning about scale. If every pilot occurs where leaders volunteer, staff are unusually motivated, and local capacity is high, the evidence can systematically overstate what ordinary deployment will look like.
+
+Representative implementation can be more informative than exemplary implementation.
+
+This creates a tradeoff. A program may need a competent first site to determine whether the mechanism works at all. Later tests should deliberately include less favorable conditions if the eventual policy is meant to operate there. The sequence can move from proof of concept to proof of institution.
+
+Public policy has another form of missing evidence: the policy that stops being politically imaginable before anyone evaluates it.
+
+A proposal can lose a legislative vote, fail to receive budget authority, or be abandoned after a change of administration. No implementation means no direct policy outcome. Future debates then inherit rhetoric rather than evidence. The same arguments return because neither side ever had to confront a result.
+
+Not every political disagreement can or should be converted into a trial. But when a dispute contains a testable mechanism, small operational evidence can sometimes keep the question from becoming permanently ideological.
+
+This is one reason independent evaluation matters.
+
+A ministry evaluating its signature program faces an obvious conflict, even when its analysts are excellent. Opposition parties may distrust the measure. Staff may fear the consequences of a negative finding. An evaluator with some institutional independence can create a channel through which bad news survives leadership incentives.
+
+Independence is not proof of truth. It is a way of separating evidence production from the immediate reputational payoff of the result.
+
+The same logic supports public protocols, transparent outcome definitions, and publication of negative findings where privacy and legal constraints allow. These practices raise the political cost of quietly burying a result after the government learns something inconvenient.
+
+They also protect leaders who genuinely want to learn.
+
+A minister can point to a preexisting evaluation rule rather than personally owning every reversal. “The pilot did not meet the threshold we set” is institutionally easier than “I changed my mind because my plan failed.” A strong process turns revision into compliance with evidence rather than confession of weakness.
+
+This sounds cosmetic until you consider how many organizations punish people for updating.
+
+If changing course is humiliating, leaders will avoid the evidence most likely to require change.
+
+A learning state needs status incentives that make correction respectable.
+
 Public policy also demonstrates why randomness can be politically sensitive even when scientifically attractive. Citizens may ask why one eligible person receives a service and another does not. In some settings the answer is unacceptable. In others, scarcity already forces rationing. A lottery among equally eligible people can be fairer than opaque discretion and can create a credible evaluation.
 
 The ethical difference depends on the baseline.
