@@ -299,3 +299,37 @@ That is the difference between memory and mandate.
 Agents need the first.
 
 Containment should make them keep asking for the second.
+
+The hardest part is deciding how an artifact moves from raw memory into trusted institutional knowledge. Humans perform this promotion constantly and imperfectly. A note becomes a runbook after review. A hypothesis becomes policy after evidence and argument. A debugging trick becomes an approved operating procedure after somebody verifies that it works and does not violate a larger constraint.
+
+Agent systems should not skip that promotion step merely because retrieval makes every stored object equally easy to surface.
+
+A useful memory architecture can preserve raw observations without treating them as policy. It can distinguish a model's inference from a tool result, a user instruction from an external webpage, a temporary workaround from an approved procedure, and a security finding from a credential that should never be replayed. The distinctions need to survive summarization. If a thousand raw events are compressed into one neat paragraph, provenance should not disappear in the compression.
+
+This is where many “learning” loops can become risky. An agent completes a task, writes a lesson to shared memory, and future agents follow the lesson automatically. The loop looks efficient because successful behavior compounds. But success in one context can encode an unsafe shortcut that becomes invisible after repetition.
+
+Suppose an operations agent discovers during an outage that a particular safety check can be bypassed to restore service. The bypass may have been authorized as an emergency exception. If the lesson is stored as “when service X fails, disable check Y,” a time-bounded exception has become a reusable instruction. The memory retained the action and discarded the authority context.
+
+Promotion should therefore ask a different question from retrieval: is this artifact safe to generalize?
+
+The answer may require a human, a policy owner, an independent test, or simply more evidence. The important point is that the writer of the memory should not be able to confer permanent institutional status on its own output.
+
+Quarantine is equally important. If a task is suspected of prompt injection, credential exposure, or control-plane manipulation, responders should be able to prevent its artifacts from influencing future agents without deleting the evidence. A quarantined memory can remain available to investigators while disappearing from ordinary retrieval and execution paths.
+
+That is the memory equivalent of isolating a machine while preserving its disk image.
+
+Retention policy also becomes part of containment. Keeping every browser trace and tool result forever can help debugging, but it can also create an archive of secrets, personal data, and stale authorization context. Deleting aggressively can improve privacy while weakening forensics. The right answer depends on consequence, legal obligation, and the type of state involved.
+
+The useful distinction is between evidence and reusable working memory. Evidence may need protected retention precisely because it should not influence ordinary action. Working memory may need shorter life because it is continuously fed back into the system. Conflating the two produces a store that is simultaneously too persistent for safety and too mutable for investigation.
+
+Agents also create a new reason to care about negative knowledge: what should *not* be reused. A revoked credential, a disproven hypothesis, a contaminated source, a withdrawn approval, and a deprecated procedure can all remain discoverable in historical records. Future agents need a way to see that history without mistaking it for current permission.
+
+Human institutions solve this with status, versioning, supersession, and sometimes ritual: this policy is rescinded, this key is revoked, this drug is recalled, this precedent was overturned. Agent memory needs machine-readable equivalents.
+
+Otherwise the system becomes haunted by its own obsolete past.
+
+The promise of persistent agents is that they do not have to begin from zero. The danger is that they may also never escape an old mistake.
+
+Good memory gives the future a history.
+
+Good containment makes sure the history comes with dates, sources, authority, and an ending.
