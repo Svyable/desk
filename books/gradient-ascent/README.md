@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 24 drafted |
+| **Chapters**  | 12 of 24 drafted |
 
 *Hiding Signal in Artificial Noise*
 
@@ -25,13 +25,13 @@ This is deliberately not a handbook for covert communications, evasion, or decep
 - [x] [Ch 6 — Synthetic Consensus](manuscript/ch06-synthetic-consensus.md)
 - [x] [Ch 7 — Climbing the Wrong Hill](manuscript/ch07-climbing-the-wrong-hill.md)
 - [x] [Ch 8 — Reward Hacking the Room](manuscript/ch08-reward-hacking-the-room.md)
+- [x] [Ch 9 — Goodhart's Machine](manuscript/ch09-goodharts-machine.md)
+- [x] [Ch 10 — The Feedback Loop](manuscript/ch10-the-feedback-loop.md)
+- [x] [Ch 11 — Training on the Echo](manuscript/ch11-training-on-the-echo.md)
+- [x] [Ch 12 — Collapse at the Edges](manuscript/ch12-collapse-at-the-edges.md)
 
 ## Planned chapters
 
-9. Goodhart's Machine
-10. The Feedback Loop
-11. Training on the Echo
-12. Collapse at the Edges
 13. The Synthetic Haystack
 14. Flooding the Channel
 15. The Confidence Costume
