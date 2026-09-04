@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 4 of 22 drafted |
+| **Chapters**  | 8 of 22 drafted |
 
 *Why the Fourth Industrial Revolution Will Change Humanity Forever*
 
@@ -21,10 +21,10 @@ The book treats “Fourth Industrial Revolution” as a hypothesis to test, not 
 - [x] [Ch 2 — The Three Revolutions Behind Us](manuscript/ch02-the-three-revolutions-behind-us.md)
 - [x] [Ch 3 — The Boundary That Broke](manuscript/ch03-the-boundary-that-broke.md)
 - [x] [Ch 4 — When Tools Become Participants](manuscript/ch04-when-tools-become-participants.md)
-- [ ] [Ch 5 — Intelligence Becomes Infrastructure](manuscript/ch05-intelligence-becomes-infrastructure.md)
-- [ ] [Ch 6 — Software Learns to Act](manuscript/ch06-software-learns-to-act.md)
-- [ ] [Ch 7 — Intelligence Gets a Body](manuscript/ch07-intelligence-gets-a-body.md)
-- [ ] [Ch 8 — Biology Becomes Writable](manuscript/ch08-biology-becomes-writable.md)
+- [x] [Ch 5 — Intelligence Becomes Infrastructure](manuscript/ch05-intelligence-becomes-infrastructure.md)
+- [x] [Ch 6 — Software Learns to Act](manuscript/ch06-software-learns-to-act.md)
+- [x] [Ch 7 — Intelligence Gets a Body](manuscript/ch07-intelligence-gets-a-body.md)
+- [x] [Ch 8 — Biology Becomes Writable](manuscript/ch08-biology-becomes-writable.md)
 - [ ] [Ch 9 — Energy Returns to the Center](manuscript/ch09-energy-returns-to-the-center.md)
 - [ ] [Ch 10 — The Convergence Engine](manuscript/ch10-the-convergence-engine.md)
 - [ ] [Ch 11 — Work After Expertise](manuscript/ch11-work-after-expertise.md)
