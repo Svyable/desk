@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Complete first draft |
-| **Chapters**  | 20 of 20 drafted |
+| **Chapters**  | 21 of 21 drafted |
 
 *How Humanity Achieved Post-Scarcity in 2030*
 
@@ -34,7 +34,8 @@ The central claim is deliberately narrower than utopia and larger than cheap AI.
 - [x] [Ch 17 — The Politics of Enough](manuscript/ch17-the-politics-of-enough.md)
 - [x] [Ch 18 — The World That Missed It](manuscript/ch18-the-world-that-missed-it.md)
 - [x] [Ch 19 — Paradise With Teeth](manuscript/ch19-paradise-with-teeth.md)
-- [x] [Ch 20 — Paradise Found](manuscript/ch20-paradise-found.md)
+- [x] [Ch 20 — The Last Scarce Thing](manuscript/ch20-the-last-scarce-thing.md)
+- [x] [Ch 21 — Paradise Found](manuscript/ch21-paradise-found.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
