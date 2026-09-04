@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| **Authors** | Sven Hardy Benson |
-| **Status** | Drafting |
-| **Chapters** | 22 of 22 drafted |
+| **Author** | Sven Hardy Benson |
+| **Status** | Complete Desk draft |
+| **Chapters** | 24 of 24 |
 
 ## Contents
 
@@ -32,19 +32,22 @@
 - [x] [Ch 19 — Politics with Old Maps](manuscript/ch19-politics-with-old-maps.md)
 - [x] [Ch 20 — Designing for Expiration](manuscript/ch20-designing-for-expiration.md)
 - [x] [Ch 21 — The Right to Freshness](manuscript/ch21-the-right-to-freshness.md)
-- [x] [Ch 22 — Living in Revision](manuscript/ch22-living-in-revision.md)
+- [x] [Ch 22 — The Luxury of Being Current](manuscript/ch22-the-luxury-of-being-current.md)
+- [x] [Ch 23 — The Future Needs a Version Number](manuscript/ch23-the-future-needs-a-version-number.md)
+- [x] [Ch 24 — Living in Revision](manuscript/ch24-living-in-revision.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
-- [Research brief, counterevidence, and chapter-to-evidence map](research/README.md)
+- [Research trail and counterevidence standard](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
-- [Chapter evidence notes](research/chapters/)
 
-## Review status
+## Publication status
 
-This is a complete, unpublished Desk draft. Its central argument is that modern civilization is accumulating **freshness debt**: the gap between the world as it is and the version of the world encoded in our maps, models, policies, software, habits, institutions, and beliefs. The book treats staleness as a first-class design problem. A fact can be true and still be too old for the decision being made. A process can be correct and still arrive after the useful moment. A model can be statistically sound and still describe a population that has moved on.
+This is the complete Desk edition of *The Half-Life of Now*. Its central argument is that modern civilization is accumulating **freshness debt**: the gap between the world as it is and the version of the world encoded in our maps, models, policies, software, habits, institutions, and beliefs.
 
-The book follows that problem from medicine and markets to cities, law, education, AI, news, war, climate, politics, and personal identity, then asks what it would mean to build systems that know when their knowledge is expiring.
+The book treats staleness as a first-class design problem. A fact can be true and still be too old for the decision being made. A process can be correct and still arrive after the useful moment. A model can be statistically sound and still describe a population that has moved on. The manuscript follows that problem from medicine and markets to cities, law, education, AI, news, conflict, climate, politics, personal identity, unequal access to current information, and the design of systems capable of revision.
 
-- [Open the Desk draft](https://svyable.github.io/desk/reader/#/b/the-half-life-of-now/)
+**Key ideas:** freshness debt; generated-now is not known-now; current enough for the decision; the right to freshness; freshness as the maintenance layer of truth; stable values and revisable maps; versioned institutions.
+
+- [Read on Desk](https://svyable.github.io/desk/reader/#/b/the-half-life-of-now/)
