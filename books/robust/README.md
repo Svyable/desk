@@ -6,7 +6,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 20 planned |
+| **Chapters** | 25 of 25 drafted |
 
 *What It Means to Be Sturdy in the Ever-Shifting AI Landscape*
 
@@ -19,35 +19,42 @@ The manuscript treats AI robustness as an operating philosophy built around six 
 ## Contents
 
 ### Part I — The Moving Ground
-- [ ] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — The Model Has an Expiration Date](manuscript/ch01-the-model-has-an-expiration-date.md)
-- [ ] [Ch 2 — The Jagged Frontier](manuscript/ch02-the-jagged-frontier.md)
-- [ ] [Ch 3 — When Better Breaks Things](manuscript/ch03-when-better-breaks-things.md)
-- [ ] [Ch 4 — Robust Is a Different Goal](manuscript/ch04-robust-is-a-different-goal.md)
+- [x] [Front Matter](manuscript/front-matter.md)
+- [x] [Ch 1 — The Model Has an Expiration Date](manuscript/ch01-the-model-has-an-expiration-date.md)
+- [x] [Ch 2 — The Jagged Frontier](manuscript/ch02-the-jagged-frontier.md)
+- [x] [Ch 3 — When Better Breaks Things](manuscript/ch03-when-better-breaks-things.md)
+- [x] [Ch 4 — Robust Is a Different Goal](manuscript/ch04-robust-is-a-different-goal.md)
 
 ### Part II — The Robust Person
-- [ ] [Ch 5 — Own the Problem, Rent the Intelligence](manuscript/ch05-own-the-problem-rent-the-intelligence.md)
-- [ ] [Ch 6 — Keep the Manual Gear](manuscript/ch06-keep-the-manual-gear.md)
-- [ ] [Ch 7 — Taste Is a Control System](manuscript/ch07-taste-is-a-control-system.md)
-- [ ] [Ch 8 — Skills That Survive the Tool](manuscript/ch08-skills-that-survive-the-tool.md)
+- [x] [Ch 5 — Own the Problem, Rent the Intelligence](manuscript/ch05-own-the-problem-rent-the-intelligence.md)
+- [x] [Ch 6 — Keep the Manual Gear](manuscript/ch06-keep-the-manual-gear.md)
+- [x] [Ch 7 — Taste Is a Control System](manuscript/ch07-taste-is-a-control-system.md)
+- [x] [Ch 8 — Skills That Survive the Tool](manuscript/ch08-skills-that-survive-the-tool.md)
 
 ### Part III — The Robust Team
-- [ ] [Ch 9 — The Human Override](manuscript/ch09-the-human-override.md)
-- [ ] [Ch 10 — Two Speeds, One Workflow](manuscript/ch10-two-speeds-one-workflow.md)
-- [ ] [Ch 11 — Evals Before Opinions](manuscript/ch11-evals-before-opinions.md)
-- [ ] [Ch 12 — Failure Budgets for Intelligence](manuscript/ch12-failure-budgets-for-intelligence.md)
+- [x] [Ch 9 — The Human Override](manuscript/ch09-the-human-override.md)
+- [x] [Ch 10 — Two Speeds, One Workflow](manuscript/ch10-two-speeds-one-workflow.md)
+- [x] [Ch 11 — Evals Before Opinions](manuscript/ch11-evals-before-opinions.md)
+- [x] [Ch 12 — Failure Budgets for Intelligence](manuscript/ch12-failure-budgets-for-intelligence.md)
 
 ### Part IV — The Robust Company
-- [ ] [Ch 13 — Vendor Optionality](manuscript/ch13-vendor-optionality.md)
-- [ ] [Ch 14 — Data You Can Leave With](manuscript/ch14-data-you-can-leave-with.md)
-- [ ] [Ch 15 — Reversible Architecture](manuscript/ch15-reversible-architecture.md)
-- [ ] [Ch 16 — Graceful Degradation](manuscript/ch16-graceful-degradation.md)
+- [x] [Ch 13 — Vendor Optionality](manuscript/ch13-vendor-optionality.md)
+- [x] [Ch 14 — Data You Can Leave With](manuscript/ch14-data-you-can-leave-with.md)
+- [x] [Ch 15 — Reversible Architecture](manuscript/ch15-reversible-architecture.md)
+- [x] [Ch 16 — Graceful Degradation](manuscript/ch16-graceful-degradation.md)
 
 ### Part V — The Robust Strategy
-- [ ] [Ch 17 — Scenario Portfolios](manuscript/ch17-scenario-portfolios.md)
-- [ ] [Ch 18 — Redundancy Is Not Waste](manuscript/ch18-redundancy-is-not-waste.md)
-- [ ] [Ch 19 — The Sturdy Institution](manuscript/ch19-the-sturdy-institution.md)
-- [ ] [Ch 20 — Sturdy, Not Still](manuscript/ch20-sturdy-not-still.md)
+- [x] [Ch 17 — Scenario Portfolios](manuscript/ch17-scenario-portfolios.md)
+- [x] [Ch 18 — Redundancy Is Not Waste](manuscript/ch18-redundancy-is-not-waste.md)
+- [x] [Ch 19 — The Sturdy Institution](manuscript/ch19-the-sturdy-institution.md)
+- [x] [Ch 20 — Sturdy, Not Still](manuscript/ch20-sturdy-not-still.md)
+
+### Part VI — Robustness at Scale
+- [x] [Ch 21 — The Memory Tax](manuscript/ch21-the-memory-tax.md)
+- [x] [Ch 22 — The Apprenticeship Gap](manuscript/ch22-the-apprenticeship-gap.md)
+- [x] [Ch 23 — Common-Mode Failure](manuscript/ch23-common-mode-failure.md)
+- [x] [Ch 24 — The Right to Exit](manuscript/ch24-the-right-to-exit.md)
+- [x] [Ch 25 — After the Frontier](manuscript/ch25-after-the-frontier.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
 
 ## Research
