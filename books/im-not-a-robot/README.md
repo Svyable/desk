@@ -5,9 +5,9 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete first draft |
-| **Chapters** | 18 of 18 drafted |
-| **Moment** | September 2026 |
+| **Status** | Complete draft |
+| **Chapters** | 22 of 22 drafted |
+| **Edition** | First-release candidate · September 2026 |
 
 Every few days, somewhere on the internet, a machine asks a person to certify a fact the person has never seriously doubted: *I’m not a robot.* The box is funny until you remember what came before it. Humans once proved their humanity by reading words machines could not read, identifying objects machines could not see, and performing tiny acts of perception that helped make the machines better at reading and seeing. The test kept moving because the machines kept learning from the people taking it.
 
@@ -37,7 +37,11 @@ The argument is not that people are machines. It is that **“not a robot” is 
 - [x] [Ch 15 — The Version of Me Other People Use](manuscript/ch15-the-version-of-me-other-people-use.md)
 - [x] [Ch 16 — The Human Premium](manuscript/ch16-the-human-premium.md)
 - [x] [Ch 17 — Proving Too Much](manuscript/ch17-proving-too-much.md)
-- [x] [Ch 18 — I’m Not a Robot](manuscript/ch18-im-not-a-robot.md)
+- [x] [Ch 18 — I Am Original](manuscript/ch18-i-am-original.md)
+- [x] [Ch 19 — I Am Rational](manuscript/ch19-i-am-rational.md)
+- [x] [Ch 20 — I Am the Same Person](manuscript/ch20-i-am-the-same-person.md)
+- [x] [Ch 21 — I Will Know the Difference](manuscript/ch21-i-will-know-the-difference.md)
+- [x] [Ch 22 — I’m Not a Robot](manuscript/ch22-im-not-a-robot.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
@@ -50,4 +54,4 @@ The argument is not that people are machines. It is that **“not a robot” is 
 
 ## Publication note
 
-This Desk copy is a working first draft. “Complete” means the full argument is present, not that the book has been released or that later revisions will preserve every claim, example, or chapter. Publication remains a separate Shelf decision.
+This Desk copy is the canonical working edition. It is manuscript-complete and prepared as a first-release candidate. Desk deliberately remains `Complete draft`; publication is a separate Shelf snapshot so later revisions here do not silently rewrite the released edition.
