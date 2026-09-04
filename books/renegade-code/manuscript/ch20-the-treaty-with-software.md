@@ -367,3 +367,63 @@ Every incident will have a path back to less power.
 The machine will not be asked to stay in the box.
 
 It will be asked to live under law.
+
+A treaty is credible only if both ordinary operation and emergency operation are defined. Many permission systems look disciplined until an outage, deadline, or executive escalation introduces the phrase “temporarily bypass.” The temporary bypass then becomes a second constitution written under pressure.
+
+A mature agent compact should define emergency authority before the emergency. Which constraints can be relaxed? By whom? For how long? What additional evidence is required? Which boundaries remain nondelegable even during crisis? What happens automatically when the emergency window ends?
+
+This is where the analogy to constitutional government becomes useful in a narrow way. Serious institutions distinguish ordinary powers from emergency powers precisely because emergencies create pressure to concentrate authority. The danger is not only abuse. It is that a temporary concentration becomes the new baseline after the crisis fades.
+
+Agent systems can make emergency powers unusually easy to express technically. A broker can mint a ten-minute capability with an explicit reason and approver. A deployment controller can permit a one-artifact exception rather than disable policy globally. A network gateway can open one destination for one task lineage rather than change the whole egress profile.
+
+The narrower the exception, the less institutional memory has to carry afterward.
+
+The treaty should also make amendments visible. If a product team adds a tool that can move money, change production, create identities, or publish externally, the compact has changed whether or not anyone edited the system prompt. The same is true when a model upgrade makes an old interface newly usable, or when shared memory lets separate roles pool authority they could not previously combine.
+
+A change process should therefore ask whether the effective authority graph changed, not merely whether a configuration file changed. Some amendments will be harmless. Others will require new evaluation, narrower limits, or different audit evidence.
+
+This protects against governance drift disguised as feature velocity.
+
+A constitution that nobody can compare with reality is literature. The enforceable treaty needs observables. For each important clause, the system should be able to show what mechanism enforces it and what evidence demonstrates that the mechanism operated.
+
+“External publication requires authorization” maps to an outbound gateway and an approval record.
+
+“Task descendants cannot exceed parent authority” maps to the credential broker and lineage policy.
+
+“The agent cannot alter its monitor” maps to separate administrative trust roots and protected deployment paths.
+
+“Authority expires” maps to leases whose renewal does not depend solely on the holder.
+
+These mappings turn principles into audit questions.
+
+They also reveal where a clause exists only as aspiration. If a team cannot identify the mechanism enforcing a supposedly hard boundary, the boundary is cultural. Culture can still be valuable, but it should not be misrepresented as law.
+
+This distinction matters for customers. An enterprise buyer should not have to infer agent containment from marketing adjectives such as secure, supervised, enterprise-grade, or aligned. The buyer should be able to ask concrete questions about delegation, expiration, audit independence, revocation, persistence, and high-consequence gates.
+
+The answers need not expose proprietary internals. They need to expose the shape of the compact.
+
+Over time, procurement can become one of the institutions that makes good containment competitive. A vendor able to prove narrow delegation and rapid revocation may win business precisely because customers can give its agents more useful autonomy. Trustworthy limits become a sales feature rather than a tax.
+
+There is also a treaty with people affected by the agent but not represented in its prompt. A company may delegate authority to an agent to negotiate, screen, schedule, purchase, moderate, or communicate. Other people can bear the consequence without ever consenting to the agent's objective.
+
+The compact therefore cannot be only between operator and machine. Existing law and institutional policy still govern discrimination, privacy, safety, contractual authority, consumer protection, fiduciary duties, and other obligations. The agent's task does not supersede them because the task is efficient.
+
+This is another reason general-purpose prompts are inadequate constitutions. A user can ask for an outcome that exceeds the user's lawful or institutional authority. The execution layer has to know which external constraints survive the request.
+
+That is what law does in human organizations. An employee receives an objective from a manager but remains inside obligations the manager cannot waive casually. The agent needs analogous external boundaries expressed through the systems it touches.
+
+The treaty therefore has nested sponsors. A user delegates a task. An organization defines a role. A service defines a permitted transaction. Law defines some outer constraints. Each layer can narrow what the inner layer may authorize.
+
+Authority should attenuate as delegation descends unless a higher principal explicitly broadens it.
+
+This is the same principle the book has encountered in credentials, populations, networks, and tools. It keeps returning because it is the shape of governed power.
+
+The phrase *under law* should not imply that every agent decision belongs in a courtroom. Most governance is much more ordinary: scopes, budgets, approval paths, audit records, contracts, service policies, technical interlocks, and the ability to stop renewal.
+
+That ordinariness is the hopeful part.
+
+We do not need to wait for a complete political theory of artificial minds before learning how to delegate consequential work safely. We need systems in which permission is explicit enough to be enforced and narrow enough to end.
+
+The treaty is not peace with a foreign intelligence.
+
+It is a discipline for ourselves about how much power software gets to borrow.
