@@ -70,9 +70,9 @@ Core source: Li, Raymond, and Bergman, “Hiring as Exploration,” Review of Ec
 
 ### Chapter 7 — Credit for the Known
 
-Core sources: Björkegren and Grissen (2018) on digital credit and alternative data; selective-label literature for the general problem; domain-specific lending literature should be used cautiously because repayment is observed principally after credit is extended.
+Core sources: Björkegren and Grissen (2018) on digital credit and alternative data; Crook and Banasik (2004), Banasik and Crook (2007), and Ehrhardt et al. (2021) on reject inference and accepted-applicant sample selection; selective-label literature for the general decision-dependent missing-outcome problem.
 
-**Falsification note:** Lenders also learn through bureau data, other institutions, collateral, macroeconomic variation, and rejected applicants who later borrow elsewhere. A single lender’s labels are not the whole credit market.
+**Falsification note:** Lenders also learn through bureau data, other institutions, collateral, macroeconomic variation, and rejected applicants who later borrow elsewhere. A single lender’s labels are not the whole credit market. Reject-inference methods depend on assumptions about the missing-data mechanism and do not provide a uniformly dominant correction, so the chapter should not imply that the unobserved repayment outcome can simply be reconstructed.
 
 ### Chapter 8 — The Untested Patient
 
@@ -82,9 +82,9 @@ Core source: Mullainathan and Obermeyer, “Diagnosing Physician Error,” NBER 
 
 ### Chapter 9 — Placement
 
-Core source: Bergman, Kopko, and Rodriguez, NBER Working Paper 28948, a seven-college experiment in algorithmic placement.
+Core sources: Bergman, Kopko, and Rodriguez, NBER Working Paper 28948, a seven-college experiment in algorithmic placement; Larroucau, Rios, Fabre, and Neilson, NBER Working Paper 34164, on a nationwide Chile admissions-information experiment.
 
-**Falsification note:** The reported selective-label effect differs by subject in that study; it substantially affected prediction error for college English and had little effect for college math. Do not turn a setting-specific result into a universal law of education.
+**Falsification note:** The reported selective-label effect differs by subject in the seven-college study; it substantially affected prediction error for college English and had little effect for college math. The Chile study concerns information frictions and application behavior rather than placement-model selective labels. Do not turn either setting-specific result into a universal law of education.
 
 ### Chapter 10 — Discover Weekly
 
@@ -94,7 +94,7 @@ Core sources: Anderson et al. (2020) on diversity of consumption at Spotify; Han
 
 ### Chapter 11 — The Funding Line
 
-Core sources: Liu et al. (2024) on grant-funding lotteries; Fang and Casadevall (2016) on modified lotteries; Nature reporting in 2026 on operational adoption and debate.
+Core sources: Flanagan, Shankar, and coauthors (2024) on funding lotteries; Fang and Casadevall (2016) on modified lotteries; Nature reporting in 2026 on operational adoption and debate.
 
 **Falsification note:** Lotteries do not prove that peer review is useless. Partial lotteries are generally proposed for proposals already judged fundable or too close to rank reliably. They trade one kind of uncertainty and discretion for another.
 
