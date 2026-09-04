@@ -250,11 +250,43 @@ Again, this is not a replacement for clinical pharmacology.
 
 It is a human neural layer that can make schedule hypotheses more informed before patients carry the risk.
 
+The deepest validation question is whether a neural result changes when exposure realism improves.
+
+If the effect disappears when the assay moves from nominal concentration to clinically plausible unbound exposure, the original finding was a laboratory artifact of dosing. If a metabolite produces the network phenotype while the parent compound does not, the assay has taught the development team which chemical species matters. If a barrier model limits exposure below the effective range, the compound may need chemistry or delivery changes before the neural rescue is relevant.
+
+This is where organic intelligence becomes part of a pharmacology stack rather than a standalone screen.
+
+The output should travel with an exposure statement: what chemical species reached the tissue, at what free concentration, for how long, under which medium conditions, and with what recovery interval. Without that context, a beautiful neural trajectory can be impossible to translate.
+
+Reference pharmacology should travel with it too.
+
+A platform can test compounds whose mechanisms and clinical effects are already well characterized, not because those drugs need rediscovery but because they reveal what the model can distinguish. Does a known sedative reduce activity in a way the assay separates from toxicity? Does a known pro-convulsant alter the challenge threshold? Does a channel modulator produce the expected direction of network change? Do effects scale with plausible exposure?
+
+These references create a functional coordinate system.
+
+They also make negative results more informative. If the platform fails to detect a known class effect, the problem may be the model, the exposure, or the readout. That failure should be investigated before an unknown compound is interpreted confidently.
+
+A development team can then use the assay as one rung in an evidence ladder.
+
+Target engagement says the compound reached its molecular mechanism.
+
+Exposure modeling says the relevant concentration is plausible.
+
+The neural assay says the human-derived network changed functionally.
+
+Other models say whether systemic biology introduces liabilities the neural tissue cannot see.
+
+Clinical data, eventually, say whether any of it mattered to patients.
+
+No rung is sufficient by itself.
+
+The value of the neural rung is that it can reveal a functional consequence between molecular mechanism and whole-organism outcome.
+
 The deeper promise of pharmacology with memory is therefore not that organoids remember drugs the way people remember events.
 
-It is that treatment history can become a controlled variable rather than an inconvenience.
+It is that treatment history, exposure realism, and network function can become controlled variables rather than afterthoughts.
 
-Dose, order, challenge, washout, recovery, and re-exposure can be designed deliberately.
+Dose, order, challenge, washout, recovery, re-exposure, and metabolite context can be designed deliberately.
 
 The resulting trajectory may contain information that a terminal endpoint throws away.
 
