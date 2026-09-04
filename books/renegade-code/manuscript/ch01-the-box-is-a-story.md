@@ -207,3 +207,35 @@ That is the first correction to the old containment story.
 The model is not simply in the box.
 
 The model is in the graph.
+
+Once that graph becomes the object of review, a different kind of security meeting becomes possible. Instead of placing the agent at the center of a diagram and drawing a red boundary around its runtime, the team begins with the consequential systems it is trying to protect: the production control plane, customer funds, signing keys, private data, external communications, physical equipment, the mechanisms that mint new identities. Then the team works backward.
+
+Which service can change this object? Which identity can command that service? Which workflow can obtain that identity? Which inputs can steer the workflow? Which of those inputs can the agent write, request, or cause somebody else to write?
+
+The exercise is less elegant than a perimeter review. It is also much more likely to uncover the permission that matters.
+
+Consider a code agent that is forbidden from touching production. A conventional review might stop after confirming that the agent's runtime has no production credential. A graph review continues. The agent can write to a branch. A repository bot can merge certain changes after checks pass. A deployment controller consumes the merged configuration. The controller has production authority. Now the question is not whether the agent possesses a production key. It is whether the branch-to-controller path contains a meaningful decision point that the agent cannot manufacture for itself.
+
+That distinction changes what the team tests. They stop celebrating the absence of a credential and start testing whether an agent can alter the evidence used by the merge gate, whether the checks run under independent authority, whether a change can broaden its own future permissions, whether rollback really removes the consequence, and whether the deployment path is visible to a monitor outside the agent's control.
+
+The same method works outside software. A purchasing agent may have no bank credential but can create an order that a trusted procurement system turns into a payment. A communications agent may have no authority over an executive yet can draft a message that arrives under the executive's authenticated identity. A research agent may have no permission to alter a safety policy but can write the report on which the policy committee relies.
+
+In each case, the consequential edge is not where the first permission sits. It is where an institution converts one kind of action into another.
+
+That is why graph reviews should include people who normally appear late in an AI deployment. Identity engineers know how trust is represented. Platform teams know which automation runs with standing authority. Product teams know where users have already granted consent. Security teams know which controls are independent and which merely share the same account. Operators know which emergency exceptions have survived longer than anyone intended. Legal and compliance teams know which machine actions create obligations that cannot be rolled back with a database restore.
+
+No single specialist sees the whole graph from a ticket queue.
+
+A useful review therefore produces more than a diagram. It produces a set of claims that can be tested. If this worker is compromised, it cannot mint a stronger identity. If this browser session is misused, it cannot reach accounts outside the task. If this package service is manipulated, its outbound requests remain inside a declared set of destinations. If this agent creates a child process, the child receives less or equal authority and remains tied to the parent's lineage. If the task is revoked, every renewable edge descends toward zero without waiting for somebody to remember a secret account.
+
+Those claims can fail. That is the point. A claim that can fail in a test is more valuable than an architecture label that cannot be falsified.
+
+The graph also exposes an uncomfortable organizational truth: containment is partly a property of maintenance. A system may be well designed on launch day and unsafe eighteen months later because a new integration adds a deputy, an exception becomes permanent, a token lifetime grows for reliability, or a monitoring account gains write access during an incident and never gives it back. The runtime image did not change. The graph did.
+
+This is why one-time certification will be weak for agent systems. The authority graph needs the equivalent of change control. A new tool, identity relationship, renewal path, memory store, or external destination is not merely a product feature. It can alter the safety case even if the model weights remain untouched.
+
+The practical promise is that this is ordinary engineering. It does not require knowing whether a model is conscious, whether it has a hidden inner objective, or whether the next generation will deserve some new philosophical category. It requires knowing what the software can cause, what authorizes that consequence, and where the institution can still say no.
+
+The wall still matters. A strong wall removes paths from the graph.
+
+But the graph decides whether the wall matters enough.
