@@ -182,7 +182,73 @@ The right question is not whether an abundant technology has harms.
 
 It is whether institutions can make the abundance broadly useful without allowing the harms to become its governing feature.
 
-By 2030, intelligence had passed that threshold for ordinary use.
+The utility comparison became especially useful when people stopped thinking of model intelligence as a finished retail product.
+
+Electricity is generated somewhere, transmitted across networks, transformed, metered, protected, balanced, and delivered under standards. The household sees an outlet. The outlet is not the electricity system.
+
+Intelligence developed the same separation of layers.
+
+At the bottom sat computation, energy, chips, networks, and storage. Above them sat models with different capabilities, prices, safety characteristics, languages, latency, and licensing. Above the models sat tools: browsers, databases, payment systems, calendars, design software, medical records, industrial controls. Above the tools sat agents able to pursue an objective across time. Above the agents sat institutions deciding which objectives an agent was allowed to pursue and who was responsible when it acted badly.
+
+The user encountered the top of the stack.
+
+This mattered to affordability because competition could happen at more than one layer.
+
+A universal intelligence service did not require the state to own a frontier model any more than a public school requires the state to manufacture every computer in the classroom. A jurisdiction could purchase capacity from several providers, run smaller models locally for routine work, use specialized systems for specific domains, and preserve an interoperable service layer above them.
+
+The price of universality then depended less on the sticker price of one model and more on orchestration.
+
+Use the expensive capability when the task earns it.
+
+Use the cheaper capability when it does not.
+
+Cache repeated work.
+
+Run private local inference where sending data away creates more risk than value.
+
+Route uncertain medical, legal, financial, or safety decisions toward higher-trust systems or humans.
+
+The intelligence utility became economical partly because it stopped treating every question as a frontier question.
+
+This was the computational equivalent of reserving an emergency room for emergencies.
+
+The architecture also created a new public obligation: continuity.
+
+If a household depended on an agent to navigate benefits, appointments, school communication, transportation, and ordinary administrative life, the loss of that service could become a form of exclusion. A vendor bankruptcy or account dispute could not be allowed to erase the person's practical ability to function.
+
+That is why portability mattered beyond competition.
+
+The agent needed to be replaceable without the person's life becoming nontransferable.
+
+Preferences, permissions, records of completed actions, and essential context had to live in forms that could survive a provider change. Not every private memory needed to move. Enough did.
+
+The result was less like a personal robot butler and more like a protocol around delegated agency.
+
+The word *personal* became important too.
+
+A universal system designed only around average users can reproduce the very queues it was supposed to eliminate. A person with a disability, limited literacy, unusual family structure, rare language, inconsistent connectivity, or complicated medical history may require more adaptation than the median case.
+
+Machine systems had one unusual advantage here: once the adaptation was representable, serving the next unusual person could be cheap.
+
+Translation is the obvious example. A bureaucracy staffed only in a dominant language creates a human staffing problem every time another language enters the queue. A capable multilingual system can make basic explanation available across many languages at low marginal cost, while still routing consequential interpretation toward qualified humans where necessary.
+
+Accessibility showed the same pattern. Converting text to speech, speech to structured input, visual interfaces to description, or complex forms into guided dialogue could become a default service rather than a bespoke accommodation arranged after somebody complained.
+
+Abundance sometimes means moving the exception into the product.
+
+That is a deeper idea than personalization.
+
+Industrial systems lower cost through standardization. Intelligent systems can preserve standardized infrastructure while varying the interface cheaply. The same rule can be explained differently without becoming a different rule. The same lesson can be taught with different examples. The same public form can be navigated by voice, text, translation, or assisted steps.
+
+The machine does not remove the need for a common standard underneath.
+
+It makes the standard less hostile at the edge.
+
+By 2030, intelligence had passed the practical threshold for ordinary use not because every difficult problem had been solved, but because the service could degrade intelligently.
+
+A low-risk question could be answered directly. A higher-risk answer could come with sources and uncertainty. A tool action could require confirmation. An unusual case could move to a more capable model. A consequential dispute could move to a person. A provider outage could trigger a fallback.
+
+Reliability came from routing around imperfection rather than waiting for imperfection to disappear.
 
 People complained about their default agent the way earlier generations complained about broadband routers. They compared service quality. They switched providers. They cursed updates. They rarely marveled that a capable multilingual system could explain a tax notice, draft an appeal, plan a repair, tutor a child, inspect a budget, research a purchase, schedule a trip, and coordinate half a dozen other services in the same afternoon.
 
