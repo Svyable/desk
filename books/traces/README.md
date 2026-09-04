@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 24 drafted |
+| **Chapters**  | 12 of 24 drafted |
 
 *Tracking How Machines Learn*
 
@@ -45,13 +45,13 @@ A paleontologist does not need every organism that ever lived in order to infer 
 - [x] [Ch 6 — Easy, Hard, Ambiguous](manuscript/ch06-easy-hard-ambiguous.md)
 - [x] [Ch 7 — The Moment a Circuit Appears](manuscript/ch07-the-moment-a-circuit-appears.md)
 - [x] [Ch 8 — Grokking After the Test Is Already Passed](manuscript/ch08-grokking-after-the-test-is-already-passed.md)
+- [x] [Ch 9 — Memorization Is a Scar](manuscript/ch09-memorization-is-a-scar.md)
+- [x] [Ch 10 — Generalization Has Ancestry](manuscript/ch10-generalization-has-ancestry.md)
+- [x] [Ch 11 — The Fine-Tuning Layer of History](manuscript/ch11-the-fine-tuning-layer-of-history.md)
+- [x] [Ch 12 — Reward Leaves Residue](manuscript/ch12-reward-leaves-residue.md)
 
 ## Planned chapters
 
-9. Memorization Is a Scar
-10. Generalization Has Ancestry
-11. The Fine-Tuning Layer of History
-12. Reward Leaves Residue
 13. The Human Feedback Fossil
 14. A Diff Between Minds
 15. What Unlearning Cannot Erase
