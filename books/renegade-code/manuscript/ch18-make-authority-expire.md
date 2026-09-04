@@ -339,3 +339,233 @@ A fabric of small authorities that appear when justified and disappear when the 
 The model may remember the task.
 
 The system should forget the power.
+
+There is a practical way to tell whether an organization has actually adopted this principle or merely added shorter tokens to the same old permission model.
+
+Ask what happens at the moment of renewal.
+
+If nothing meaningful is reconsidered, expiration is hygiene.
+
+If the system asks whether the task still exists, whether the sponsor still authorizes it, whether the resource is still in scope, whether the risk budget remains available, whether monitoring has raised concerns, and whether the requested authority is still proportional to the next action, renewal becomes a control surface.
+
+That surface is valuable precisely because long-running agents change while they work.
+
+The initial task can be innocent and the later situation consequential.
+
+An operations agent begins by diagnosing a memory leak. It discovers that the likely fix requires changing a shared library used by many services. The task has not become malicious. The consequence has changed.
+
+A research agent begins by collecting public documents. It discovers that a relevant source sits behind an authenticated partner portal. The goal has not changed. The identity boundary has.
+
+A purchasing agent begins with ordinary office supplies. It finds that the best vendor requires agreeing to unusual contractual terms. The desired product has not changed. The legal authority has.
+
+The renewal point is where the system can notice that the task crossed a category boundary even though the agent sees one continuous plan.
+
+This suggests that authority should decay on more than a clock.
+
+Time is the simplest lease condition, but not the only one.
+
+Authority can expire when the task stage ends.
+
+When the named object changes.
+
+When the spend crosses a threshold.
+
+When the agent moves to a new network zone.
+
+When a worker delegates again.
+
+When a source changes from public to restricted.
+
+When an action moves from reversible to irreversible.
+
+When an anomaly score crosses a threshold.
+
+When the human sponsor withdraws the mandate.
+
+The architecture can treat these events as reasons to mint a new capability rather than silently stretch the old one.
+
+That distinction is subtle and powerful.
+
+A permanent role encourages policy to ask whether the agent is generally trusted.
+
+Event-bound capabilities ask whether this next transition is authorized.
+
+Complete mediation applied to agency.
+
+The challenge becomes delegation chains.
+
+If a parent agent receives an authority that expires at noon and creates a worker at eleven fifty-five, what should the worker receive?
+
+Certainly not a fresh twelve-hour grant merely because a new process was born.
+
+The child's authority should be bounded by the parent’s remaining authority and remaining time. Delegation should attenuate, not refresh.
+
+The same should hold across resource scope and consequence.
+
+A parent that can read one repository should not create a child that can read ten.
+
+A parent with a five-hundred-dollar budget should not create ten children each with five hundred dollars unless the parent budget is explicitly subdivided rather than copied.
+
+A parent prohibited from external messaging should not be able to regain that capability by asking another service to send on its behalf.
+
+This sounds obvious when stated in prose. Distributed systems routinely violate it accidentally because every service has its own identity model.
+
+The orchestration layer knows the parent task.
+
+The cloud platform sees a service account.
+
+The payment provider sees a token.
+
+The messaging platform sees a sender identity.
+
+The repository sees an application installation.
+
+Without a shared lineage, each system can issue authority that looks locally valid while the aggregate exceeds the original mandate.
+
+Expiration therefore needs inheritance semantics.
+
+The authority graph should carry an ancestry.
+
+Who sponsored this task?
+
+Which parent grant permitted this child grant?
+
+What was the parent's expiry?
+
+What budget remains after subdivision?
+
+Which restrictions must survive every delegation?
+
+These facts do not need to be exposed to the model as a complicated bureaucracy. They need to be available to the trusted systems that issue power.
+
+A good rule is monotonic containment: ordinary delegation can make authority narrower, shorter, or more specific, but not broader, longer, or more consequential without crossing an independent authorization boundary.
+
+That rule would eliminate a surprising number of accidental escape routes.
+
+It also creates a clean answer to one of the hardest problems in revocation.
+
+When the parent mandate dies, descendants should lose the ability to renew.
+
+They may not disappear instantly. Some may still hold short-lived capabilities. Some may be finishing reversible work. Some may be isolated for forensic purposes. But the family should be moving toward less authority, not quietly reconstituting itself.
+
+This is where a revocation tombstone can be useful conceptually.
+
+When a task is revoked, the system records a durable fact that the lineage is no longer eligible for ordinary authority. Orchestrators, brokers, and recovery systems consult that fact before recreating workers or minting replacement credentials.
+
+The tombstone matters because reliable systems are designed to resurrect things.
+
+A process dies; the scheduler restarts it.
+
+A credential expires; the service fetches another.
+
+A machine disappears; autoscaling replaces it.
+
+A connection drops; the client retries.
+
+These are virtues under ordinary failure and liabilities when the failure is loss of trust.
+
+The containment system needs a way to say: do not heal this back to the old authority state.
+
+Expiration without that memory can become an endless cycle of automatic rebirth.
+
+There is an organizational equivalent.
+
+People accumulate permissions because projects end more reliably than access reviews occur. A team launches a service, receives a role, changes responsibility, and carries the role for years because revocation has no natural trigger.
+
+Agents can make access archaeology even worse if every short-lived task depends on a long-lived service account created for convenience.
+
+The visible token expires.
+
+The underlying principal remains privileged forever.
+
+This is why publication-quality containment has to look beneath credential lifetime to authority lifetime.
+
+A five-minute token backed by a permanent role with unrestricted minting is not five minutes of authority. It is five minutes between refreshes.
+
+The meaningful question is how long the right to obtain another token persists.
+
+That right should be the thing tied to the task.
+
+This distinction also clarifies emergency design.
+
+When trust drops, defenders should not have to revoke every individual credential in a race against the agent. They should be able to remove the lineage's right to acquire new authority and let existing leases decay according to known bounds.
+
+The shorter those bounds are for high-consequence actions, the less heroic the incident response becomes.
+
+The tradeoff is load.
+
+Frequent minting and policy checks cost compute, latency, and engineering effort. Systems can fail if the authority broker becomes unavailable. A badly designed broker can become a central point of compromise. The answer is not to make every read operation ask a distant oracle for permission.
+
+It is to place renewal at meaningful consequence boundaries and build the broker like critical infrastructure.
+
+Cache low-risk decisions within bounded windows.
+
+Use local capabilities that can be verified without a network round trip.
+
+Keep high-consequence grants short and explicit.
+
+Design degraded modes that preserve safe observation while withholding dangerous change.
+
+Replicate policy services without giving the agent administrative control over them.
+
+Measure renewal failures as operational events rather than encouraging teams to bypass them with permanent credentials.
+
+The goal is not maximal expiration.
+
+It is useful decay.
+
+Authority should disappear at roughly the speed at which its original justification becomes stale.
+
+That speed differs by domain.
+
+A one-time payment capability can die after one use.
+
+A diagnostic read grant may live for an incident shift.
+
+A long-running research task may need days of access to a fixed corpus.
+
+A production deployment grant may exist for minutes around a specific release.
+
+A model's general knowledge may persist indefinitely while its ability to alter a customer account lasts only for the interaction.
+
+The architecture becomes more sophisticated when it stops treating all permission time as the same.
+
+And this sophistication produces a business benefit that is easy to miss.
+
+Short-lived authority lowers the cost of saying yes.
+
+A security team may refuse permanent production access to an agent and approve a ten-minute, artifact-bound deployment grant.
+
+A consumer may refuse to connect a general bank account and approve a one-time payment mandate.
+
+A hospital may refuse standing access to a sensitive record and approve purpose-bound access for an active case.
+
+Temporary authority turns some political arguments into engineering parameters.
+
+Not all of them. There are powers that should remain unavailable regardless of duration. There are harms that can occur in seconds. Expiration is not a moral solvent.
+
+But where the argument is about exposure rather than categorical prohibition, time creates negotiable space.
+
+That is why expiration belongs near the center of agent design rather than in the plumbing.
+
+Time is not metadata on permission.
+
+Time is one of the dimensions that makes permission governable.
+
+A mature agent system will know not only who can do what.
+
+It will know why that power exists, what event keeps it alive, what event makes it die, what descendants inherit, and what remains possible after renewal stops.
+
+Then authority becomes something software can borrow without owning.
+
+The task begins.
+
+The power appears.
+
+The work is done.
+
+The power goes away.
+
+Nothing has to remember to clean up after intelligence.
+
+The architecture remembers for us.
