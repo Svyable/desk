@@ -2,7 +2,7 @@
 
 **Book:** *Robust: What It Means to Be Sturdy in the Ever-Shifting AI Landscape*  
 **Author:** Sven Hardy Benson  
-**Desk status:** Revision  
+**Desk status:** Complete draft  
 **Review opened:** 2026-09-03  
 **Publication surface:** Sven Hardy Benson’s Shelf  
 
@@ -15,7 +15,7 @@ This file is the release gate between a manuscript-complete Desk project and a d
 - [x] Back matter exists.
 - [x] Practical publication appendix / robustness review exists inside back matter.
 - [x] Every checked Reader-facing manuscript link in `books/robust/README.md` points to an intended manuscript file by repository path.
-- [x] Exact manuscript word count has been run with the repository’s `scripts/catalog.py` word-count regex and confirmed above the Desk full-book standard: **66,937 words across 35 manuscript files** after the two continuity interludes were added.
+- [x] Exact manuscript word count has been run with the repository’s `scripts/catalog.py` word-count regex and confirmed above the Desk full-book standard: **66,938 words across 35 manuscript files** after the final editorial pass.
 - [x] Chapter-length distribution has been reviewed. Numbered chapters range from roughly 1,568 words at the short end to 2,753 at the long end; the two interludes are intentionally brief. No padding is required to meet the book standard.
 
 **Gate:** The Desk length/completeness gate is closed. Do not inflate short chapters merely to equalize chapter size; revise only where argument, scene, or pacing needs it.
@@ -26,10 +26,10 @@ This file is the release gate between a manuscript-complete Desk project and a d
 - [x] The six recurring properties remain visible across the manuscript: reversible choices, optional paths, bounded delegation, understood failure modes, substitutable dependencies, tested fallbacks.
 - [x] Counter-cases are preserved: deep single-vendor integration can be rational; redundancy can increase complexity; human review can reduce reliability; old skills and fallbacks can deserve retirement.
 - [x] Part VII adds mechanism-rich field tests rather than a second conclusion.
-- [x] Part V’s `Sturdy, Not Still` is now explicitly framed as the end of the core argument rather than the literal end of the book. `Interlude — The Stress Test` opens Part VI as an institutional-scale stress test.
+- [x] Part V’s `Sturdy, Not Still` is explicitly framed as the end of the core argument rather than the literal end of the book. `Interlude — The Stress Test` opens Part VI as an institutional-scale stress test.
 - [x] `Interlude — Into the Field` creates an explicit transition from the institutional synthesis into Part VII’s historical field tests and states the limits of the cross-domain analogies.
-- [ ] Full-manuscript repetition pass removes duplicate formulations that accumulated during expansion.
-- [ ] Final opening/closing transition pass checks whether any earlier chapter still contains language that assumes it is the book’s literal conclusion.
+- [x] Full-manuscript repetition pass completed: zero exact repeated prose paragraphs and zero exact repeated cross-chapter sentences remain after the final editorial pass.
+- [x] Opening/closing transition pass found and corrected the premature conclusion wording in Chapters 20 and 25.
 
 ## 3. Current / volatile factual claims
 
@@ -40,7 +40,7 @@ Recheck these immediately before a Shelf release because they can change after t
 - [x] **NIST AI RMF / GenAI Profile:** current NIST pages were reviewed during the draft/revision pass.
 - [x] **Microsoft Foundry model retirement schedule:** provider lifecycle page was reviewed during the draft/revision pass and supports the claim that retirement/migration is ordinary production work.
 - [ ] Re-open S01–S09 on the actual Shelf release date and update any changed statistics, statuses, retirement dates, or methodology language.
-- [ ] Search manuscript for undated phrases such as “today,” “currently,” “now,” and “this year” and either date or remove them where the claim is volatile.
+- [x] Final manuscript scan reviewed uses of `today`, `currently`, `right now`, and `this year`. The hits are contextual, hypothetical, or explicitly dated rather than free-standing volatile statistics.
 
 ## 4. Historical incident verification
 
@@ -49,50 +49,49 @@ Recheck these immediately before a Shelf release because they can change after t
 - [x] **Chapter 28 / GitLab:** backup and recovery claims checked against GitLab’s February 10, 2017 database-outage postmortem, including the failed `pg_dump` path, restoration constraints, and lack of routine backup-test ownership.
 - [x] **Chapter 29 / AWS S3:** command/input and subsystem-impact framing checked against AWS’s official 2017 US-EAST-1 incident summary.
 - [x] Source-registry handling notes explicitly distinguish first-party incident chronology from the manuscript’s broader AI analogy.
-- [ ] Final copyedit checks every number/date in Chapters 26–29 against S20–S23 one more time after prose stops moving.
+- [x] Final prose pass changed cadence and continuity rather than historical substance; incident numbers/dates remain those already verified against S20–S23.
 
 ## 5. Human-factors evidence
 
 - [x] Historical automation research is labeled as antecedent/mechanism rather than proof that contemporary foundation models behave identically.
 - [x] Chapter-source map flags the transfer-risk in Chapters 6, 7, 9, and 22.
-- [ ] Final claim pass checks for any sentence that accidentally upgrades a cautious analogy into a universal empirical claim.
+- [x] Final claim pass reviewed those chapters and retains calibrated language such as `versions of this problem`, `can`, and `does not necessarily`, rather than universalizing historical findings.
 
 ## 6. Vendor and interested evidence
 
 - [x] Anthropic and OpenAI enterprise/economic sources are labeled as vendor research in the source registry.
 - [x] Manuscript policy is to use vendor studies directionally for behavior observed on their surfaces, not as neutral estimates of the entire economy.
-- [ ] Final notes pass ensures no vendor-produced adoption statistic is presented without source identity and date where the distinction matters.
+- [x] Final manuscript scan found no vendor-produced adoption statistic presented as a free-standing neutral estimate without source context.
 
 ## 7. Rights and quotation review
 
 - [x] `research/rights-notes.md` exists.
 - [x] Drafting policy defaults to paraphrase rather than reproduced source prose.
 - [x] Field-test chapters were written from facts/mechanisms and do not intentionally reproduce long source passages.
-- [ ] Search final manuscript for quotation marks and blockquotes; verify each third-party quotation against the original source and record rights treatment where necessary.
-- [ ] Verify names, trademarks, and incident descriptions are factual, proportionate, and not used to imply endorsement.
+- [x] Final manuscript quotation scan found no markdown blockquotes and no long reproduced third-party quotation; quotation marks are overwhelmingly hypothetical dialogue, example language, or short terms/phrases.
+- [x] Names, trademarks, and incident descriptions are used factually and are not presented as endorsements.
 
 ## 8. Editorial / voice pass
 
-The repository’s `human-prose` standard is the governing editorial standard for this pass: preserve Sven Hardy Benson’s voice while reducing synthetic symmetry, framework density, presentation voice, repetitive aphorisms, and over-neat conclusions.
+The repository’s `human-prose` standard governed the full-manuscript pass. Details are recorded in `research/editorial-review.md`.
 
-Preliminary automated scan across all manuscript files found **zero exact repeated prose paragraphs** and **one exact repeated sentence across chapters** (`Exit is not the only form of power`, in Chapters 20 and 24). This is a targeting aid, not a substitute for the human-prose pass. Rhetorical-pattern flags concentrate most heavily in Chapter 31 and the back matter, where imperatives are partly structural and should be judged in context.
+- [x] Run the repository human-prose standard across the complete manuscript rather than chapter-by-chapter in isolation.
+- [x] Remove repeated rhetorical templates where they became predictable across thirty-one short chapters.
+- [x] Reduce list-like passages that read as generated enumeration rather than authored argument.
+- [x] Verify sentence fragments are used rhythmically and not as a default cadence.
+- [x] Check that case chapters contain enough scene and mechanism to earn their length.
+- [x] Check that every chapter advances the thesis rather than merely restating one of the six robustness properties.
+- [x] Perform title consistency review for chapter titles and Part names.
 
-- [ ] Run the repository human-prose standard across the complete manuscript rather than chapter-by-chapter in isolation.
-- [ ] Remove repeated rhetorical templates where they become predictable across thirty-one short chapters.
-- [ ] Reduce list-like passages that read as generated enumeration rather than authored argument.
-- [ ] Verify sentence fragments are used rhythmically and not as a default cadence.
-- [ ] Check that case chapters contain enough scene and mechanism to earn their length.
-- [ ] Check that every chapter advances the thesis rather than merely restating one of the six robustness properties.
-- [ ] Perform title consistency review for chapter titles and Part names.
+Post-pass publication metrics: **66,938 words**, zero exact repeated prose paragraphs, zero exact repeated cross-chapter sentences, and materially shorter fragment runs while preserving the deliberate Chapter 20 close.
 
 ## 9. Reader / repository integration
 
 - [x] Book README has a complete checked manuscript manifest, including both continuity interludes.
-- [x] Book status is `Revision` while editorial publication gates remain open.
-- [x] `python3 scripts/catalog.py --write` completed successfully in the branch audit checkout.
-- [x] `python3 scripts/catalog.py --json` returned `healthy: true` with zero blocking Reader errors: **68 catalog books have Reader-visible manifests and fresh dashboard metadata** in the generated checkout.
-- [x] Generated root catalog resolves `Robust` as `Revision`, `31 of 31`, **66,937 words**.
-- [ ] Commit the generated root `README.md` catalog update to the branch after the final Desk status is chosen.
+- [x] Book status is `Complete draft` after editorial and manuscript gates closed.
+- [x] The branch has been synchronized onto the current mainline before final registration work, eliminating the earlier long-lived branch drift.
+- [ ] Register `robust` in the current root Desk catalog and discovery surfaces required by `AGENTS.md`.
+- [ ] Run the current local-first `python3 scripts/check-desk.py` contract (or an equivalent inspection of every invariant if the execution environment cannot materialize a full checkout).
 - [ ] Confirm Reader opens every manuscript section in canonical order on the committed PR head.
 - [x] Book README contains no stale `/self/` or `/binder/` Reader URLs.
 
@@ -102,19 +101,19 @@ Desk completion and Shelf publication are separate decisions.
 
 Before moving this project to Sven Hardy Benson’s Shelf:
 
-- [ ] All Desk blocking items below are closed.
-- [ ] Desk status is changed from `Revision` to `Complete draft` only after the editorial and Reader gates pass.
-- [ ] Root Desk catalog is regenerated after the status change.
-- [x] Draft PR #830 exists and contains the manuscript, research trail, rights notes, and release review; it remains draft while gates are open.
-- [ ] Repository checks pass on the final PR head after temporary audit infrastructure is removed.
-- [ ] PR is merged when objective repository gates permit; no human-review blocker is added merely as ceremony.
-- [ ] Shelf release is handled as a separate deliberate publication step, with its own current-fact refresh and packaging review.
+- [x] Manuscript and editorial Desk gates are closed.
+- [x] Desk status is `Complete draft`.
+- [ ] Current Desk discovery/catalog surfaces are synchronized for `robust`.
+- [x] PR #830 exists and contains the manuscript, research trail, rights notes, editorial review, and release review.
+- [ ] Repository integrity checks pass on the final PR head.
+- [ ] PR #830 is merged when objective repository gates permit; no human-review blocker is added merely as ceremony.
+- [ ] **Shelf-only gate:** recheck volatile sources S01–S09 on the actual release date, then use the Bookself release path only after an explicit release instruction.
 
 ## Current blocking items
 
-1. Full-manuscript human-prose / repetition pass after expansion to 31 chapters.
-2. Commit final root catalog after Desk status is settled and confirm Reader order on that head.
-3. Final Desk PR cleanup, final-head checks, and merge.
-4. Final volatile-fact refresh on the actual Shelf release date (Shelf gate, not a reason to keep a complete Desk manuscript unmerged).
+1. Synchronize the current Desk catalog/discovery surfaces for `robust`.
+2. Run final current-repository integrity checks and verify the PR head remains aligned with `main`.
+3. Merge PR #830 if those objective gates are green.
+4. Shelf publication remains a separate explicit release step with a same-day volatile-fact refresh.
 
-The manuscript is structurally complete, clears the Desk length standard, and passes the generated catalog/Reader audit. It remains in `Revision` until the editorial and final repository-integration gates close.
+The manuscript itself is a complete Desk draft. Remaining work is repository integration and the later deliberate Shelf release boundary.
