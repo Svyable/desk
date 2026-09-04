@@ -6,7 +6,7 @@
 |---|---|
 | **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 5 of 25 drafted + front matter |
+| **Chapters** | 10 of 25 drafted + front matter |
 
 ## Contents
 
@@ -16,11 +16,11 @@
 - [x] [Ch 3 — The Cost of Keeping](manuscript/ch03-the-cost-of-keeping.md)
 - [x] [Ch 4 — Old Rules Still Execute](manuscript/ch04-old-rules-still-execute.md)
 - [x] [Ch 5 — Dead Code, Live Consequences](manuscript/ch05-dead-code-live-consequences.md)
-- [ ] [Ch 6 — Every Thing Has Dependencies](manuscript/ch06-every-thing-has-dependencies.md)
-- [ ] [Ch 7 — The Fear of the Missing Piece](manuscript/ch07-the-fear-of-the-missing-piece.md)
-- [ ] [Ch 8 — Nobody Owns the Off Switch](manuscript/ch08-nobody-owns-the-off-switch.md)
-- [ ] [Ch 9 — Records Are Not the Same as Memory](manuscript/ch09-records-are-not-memory.md)
-- [ ] [Ch 10 — The Irreversibility Problem](manuscript/ch10-the-irreversibility-problem.md)
+- [x] [Ch 6 — Every Thing Has Dependencies](manuscript/ch06-every-thing-has-dependencies.md)
+- [x] [Ch 7 — The Fear of the Missing Piece](manuscript/ch07-the-fear-of-the-missing-piece.md)
+- [x] [Ch 8 — Nobody Owns the Off Switch](manuscript/ch08-nobody-owns-the-off-switch.md)
+- [x] [Ch 9 — Records Are Not the Same as Memory](manuscript/ch09-records-are-not-memory.md)
+- [x] [Ch 10 — The Irreversibility Problem](manuscript/ch10-the-irreversibility-problem.md)
 - [ ] [Ch 11 — The Biology of Forgetting](manuscript/ch11-the-biology-of-forgetting.md)
 - [ ] [Ch 12 — Pruning Is a Feature](manuscript/ch12-pruning-is-a-feature.md)
 - [ ] [Ch 13 — The Cell That Knows When to Stop](manuscript/ch13-the-cell-that-knows-when-to-stop.md)
@@ -37,6 +37,10 @@
 - [ ] [Ch 24 — When Creation Becomes Free](manuscript/ch24-when-creation-becomes-free.md)
 - [ ] [Ch 25 — A Civilization That Can Let Go](manuscript/ch25-a-civilization-that-can-let-go.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
+
+## Publication path
+
+- [Publication checklist and editorial gates](PUBLICATION.md)
 
 ## Research
 
