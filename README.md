@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 77 book projects · 39 complete drafts · 2 in revision · 36 drafting**
+> **Desk: 79 book projects · 41 complete drafts · 2 in revision · 36 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 36 Desk-only · 0 Shelf-only**
-> **Release review queue: 3 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 41 in both Desk + Shelf · 38 Desk-only · 0 Shelf-only**
+> **Release review queue: 5 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [Commit](books/commit/), [The Orphan Age](books/the-orphan-age/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -83,6 +83,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 25 of 25 | 39,378 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | 20 of 20 | 59,653 | The book treats intelligence as an allocatable resource rather than a magical property. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | 18 of 18 | 44,609 | America often separates the person saying yes from the full economic price of the decision. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
+| [**APPEAL**](books/appeal/) | ✅ Complete draft | Front matter, prologue, epilogue, back matter; 26 of 26 chapters | — | As software and artificial intelligence make first decisions cheaper, faster, and more numerous, the scarce institutional resource becomes the second decision: the ability to challenge a consequential answer. | [Read →](https://svyable.github.io/desk/reader/#/b/appeal/) |
 | [**Artificial Abundance**](books/artificial-abundance/) | ✍️ Drafting | 8 of 24 | 17,328 | The working thesis is that artificial intelligence does more than increase the supply of useful cognitive work. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-abundance/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
@@ -108,6 +109,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 of 23 | 81,073 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | 85,169 | The book begins with the historical purpose of public works and the changing economics of intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right To Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,967 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
+| [**Robust**](books/robust/) | ✅ Complete draft | 31 of 31 | 66,938 | The book’s central claim is that robustness is not resistance to change. | [Read →](https://svyable.github.io/desk/reader/#/b/robust/) |
 | [**Running On Full**](books/running-on-full/) | 🔁 Revision in progress | 24 of 24 | — | The working thesis is that AI compute is not the hardware you rent or buy. | [Read →](https://svyable.github.io/desk/reader/#/b/running-on-full/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 14 of 25 | 32,637 | The working thesis is simple: scale is not just more. A system that becomes ten times larger often becomes a different kind of system. Costs bend, bottlenecks move, coordination changes… | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
 | [**Second Guess**](books/second-guess/) | ✍️ Drafting | 20 of 20 | 77,252 | The working thesis is that automated recommendation has spread into aviation, medicine, criminal justice, finance, warehouses, and driving faster than anyone has taught the humans working… | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
@@ -171,7 +173,7 @@ python3 scripts/catalog.py --write
 python3 scripts/catalog.py --write --shelf-root ../shelf
 ```
 
-The audit fails when a real book is missing from the catalog, a catalog row points nowhere, a dashboard stage/progress value disagrees with its canonical book README, a book exposes zero Reader-readable checklist entries, a checked manuscript file is missing, or a stale `/self/reader/` / `/binder/reader/` route reappears.
+The audit fails when a real book is missing from the catalog, a catalog row points nowhere, a dashboard stage/progress value disagrees with its canonical book README, a book exposes zero Reader-readable checklist entries, a checked manuscript file is missing, or a stale `/self/reader/` /binder/reader/ route reappears.
 
 ## Desk and Shelf are different promises
 
