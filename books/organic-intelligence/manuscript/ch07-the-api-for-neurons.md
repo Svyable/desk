@@ -224,4 +224,46 @@ This is the point at which “developer experience” becomes a scientific varia
 
 A bad interface encourages users to write irreproducible experiments because essential biological assumptions remain hidden. A good one makes provenance, safe ranges, calibration, and state visible at the moment they matter.
 
-The wet lab becomes the data center only after the API learns that its servers are alive.
+There is one more service concept wetware cannot borrow unchanged: incident response.
+
+When a software provider has an outage, engineers reconstruct the event from logs, repair the failure, and restore service. A wetware incident may involve an environmental excursion that affected cultures subtly rather than killing them immediately. The platform can return to nominal temperature while the biological consequences persist for days.
+
+Recovery of the machine is not recovery of the experiment.
+
+A serious operator therefore needs biological incident windows. If temperature, gas control, fluid delivery, sterility, or stimulation leaves specification, every culture exposed during that interval may need to be flagged, quarantined, requalified, or retired. Data collected after the event may remain scientifically useful for some questions and invalid for others.
+
+The platform cannot simply close the ticket when the sensor turns green.
+
+Incident reports can become part of the dataset. They can reveal which excursions matter, how long effects persist, and which quality tests detect recovery. Over time, the service learns the difference between a harmless operational blip and an event that changes the substrate.
+
+This is reliability engineering with a memory longer than the machine’s.
+
+Capacity reservation changes too.
+
+A cloud user can reserve compute for a future date because machines are largely interchangeable. A wetware user may need a specific donor line, maturation window, assay state, or set of matched controls. The reservation is partly for biological time that has not happened yet.
+
+A platform promising ten qualified patient-derived organoids in six weeks is making a production forecast, not simply allocating servers. Yield risk sits inside the reservation.
+
+That means service contracts may need substitution rules. Can a different organoid from the same batch replace one that fails qualification? Can another batch be used? Can the experiment be delayed without losing clinical relevance? Which substitutions preserve the scientific question and which require explicit approval?
+
+These rules are easy to ignore in exploratory science and impossible to ignore in contracted work.
+
+The API can make them visible before the experiment begins.
+
+A final requirement is export.
+
+Scientific users need the ability to leave a platform with more than screenshots and summary scores. Raw or appropriately preserved signals, protocol definitions, biological provenance, processing versions, quality-control records, and incident flags should be exportable enough that the result can be audited later.
+
+Otherwise remote access becomes scientific captivity.
+
+A company may reasonably protect proprietary manufacturing know-how, but the evidence used by a customer should remain interpretable after the subscription ends. This is especially important when experiments support publications, drug-development decisions, or regulatory records that may be revisited years later.
+
+The strongest wetware API will therefore make three promises at once.
+
+It will hide enough biology that non-specialists can use the platform.
+
+It will expose enough biology that specialists can trust the result.
+
+And it will preserve enough history that the experiment remains intelligible after the living substrate is gone.
+
+The wet lab becomes the data center only after the API learns that its servers are alive, perishable, and scientifically accountable.
