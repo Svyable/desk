@@ -5,11 +5,11 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Expanded first draft |
+| **Status**    | Publication candidate |
 | **Chapters**  | 25 of 25 drafted |
 | **Format** | Book |
 | **Publisher** | Svyable |
-| **Edition** | First draft edition |
+| **Edition** | Expanded trade edition candidate |
 | **Language** | English |
 | **Draft date** | 2026-09-03 |
 
@@ -47,14 +47,17 @@ The book argues that modern life is becoming unusually good at recording, rankin
 - [x] [Ch 25 — The Architecture of Courage](manuscript/ch25-the-architecture-of-courage.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
-## Research
+## Research and release
 
 - [Book brief](research/book-brief.md)
 - [Source notes](research/source-notes.md)
 - [Release review](research/release-review.md)
+- [Publication checklist](research/publication-checklist.md)
 
 ## Publication note
 
-Desk remains the canonical working edition. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `c5984a125bd65e38a24c24fe3bdf2e17a7466e8b` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
+Desk remains the canonical working edition. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `c5984a125bd65e38a24c24fe3bdf2e17a7466e8b` for the September 2026 20-chapter release transaction; later Desk revisions do not silently rewrite that released edition.
 
-- [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/)
+The 25-chapter manuscript is now an **expanded trade edition publication candidate**. It must be published from an explicitly frozen Desk commit, with a traceable Shelf snapshot and edition metadata, rather than by mutating the prior released snapshot in place.
+
+- [Open the complete Desk candidate](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/)
