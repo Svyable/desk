@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 72 book projects · 36 complete drafts · 1 in revision · 35 drafting**
+> **Desk: 73 book projects · 37 complete drafts · 1 in revision · 35 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 31 Desk-only · 0 Shelf-only**
-> **Release review queue: 0 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 41 in both Desk + Shelf · 32 Desk-only · 0 Shelf-only**
+> **Release review queue: 1 complete draft is Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** None.
+**Desk-only complete drafts awaiting an explicit release decision:** [Commit](books/commit/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -87,6 +87,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 10 of 20 | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
+| [**Commit**](books/commit/) | ✅ Complete draft | 22 of 22 | — | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a numbered sequence… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 76,091 | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
