@@ -220,6 +220,32 @@ Clinical or accepted preclinical outcomes establish relevance.
 
 The more novel the endpoint, the more valuable triangulation becomes.
 
+There is an institutional question underneath all of this: who decides when the evidence is mature enough to ask the regulator to rely on it?
+
+A sponsor can use an exploratory neural assay internally for years without requesting formal recognition. That creates useful experience but also a coordination problem. One company may have strong evidence that a particular endpoint predicts a liability while another company repeats the same validation privately. If all performance data remain proprietary, the field can advance scientifically while regulatory confidence grows slowly.
+
+Consortia and shared validation studies can shorten that path.
+
+Pharmaceutical companies have a reason to collaborate on precompetitive questions such as assay reproducibility, reference compounds, data formats, and baseline performance even while competing on drug programs. Instrument vendors have a reason to participate because a common evidence framework enlarges the addressable market. Academic laboratories contribute mechanistic depth. Regulators can clarify what evidence would be persuasive without endorsing a commercial platform.
+
+This is how a method category acquires legitimacy.
+
+The result may be a set of performance standards rather than a single favored technology. A neural seizure-liability method might need to detect a defined reference panel within a specified performance range. Different platforms could meet that standard using different cell preparations or electrode systems. A developmental-neurotoxicity assay might need to demonstrate reproducible sensitivity to known perturbations across sites. A patient-derived test might need prospective concordance with treatment outcomes.
+
+Performance-based standards keep the market open while constraining claims.
+
+They also give companies something better to optimize than the most photogenic demonstration.
+
+A platform that meets a recognized performance envelope can improve its internal technology as long as bridging evidence shows the result remains inside that envelope. The regulated object becomes less about one frozen piece of hardware and more about a controlled measurement system.
+
+This is the most plausible way neural wetware can remain innovative after validation.
+
+There will still be limits. If an update changes the biological substrate enough to alter what is being measured, no amount of software versioning can make it the same assay by declaration. If a closed-loop protocol creates a different exposure history, the context of use may change. If a machine-learning model begins adapting continuously in production, the evidentiary problem becomes much harder because the decision function itself moves.
+
+The platform has to know which parts are allowed to learn.
+
+That sentence belongs in both the regulatory and engineering manuals.
+
 This is one reason organic intelligence may improve drug development even before any neural closed-loop assay becomes formally accepted as a replacement for an animal study.
 
 The assays can generate mechanistic and comparative evidence inside research programs. They can identify liabilities earlier. They can help sponsors understand discrepancies among models. They can inform which NAMs deserve the expensive work of regulatory validation.
