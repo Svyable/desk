@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Expanded working draft |
+| **Status** | Expanded working draft · publication edit |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Published Snapshot** | Sven Hardy Benson’s Shelf · September 2026 |
@@ -89,4 +89,4 @@ The four new chapters push the thesis beyond the original climate-stack ending:
 
 ## Research discipline
 
-See [research/README.md](research/README.md). The structural draft establishes the argument, narrative spine, and chapter architecture. Publication-grade evidence is attached in the [source ledger](research/source-ledger.md), including primary/first-party factual lanes for every original chapter and an explicit intellectual-predecessor check. The new chapters are working-draft additions and should receive the same source-ledger treatment before the next Shelf snapshot. The bounded [release review](research/release-review.md) records the previous readiness decision and frozen publication state.
+See [research/README.md](research/README.md). Publication-grade evidence for the original manuscript remains in the [source ledger](research/source-ledger.md), and the four expansion chapters are now covered by the [Chapters 13–16 source-ledger addendum](research/source-ledger-ch13-ch16.md). The prior 12-chapter release clearance has been superseded by the [current release review](research/release-review.md). The next work is governed by the [publication plan](research/publication-plan.md): developmental edit, line/fact edit, exact candidate freeze, repository validation, then a matched Sven Hardy Benson’s Shelf snapshot.
