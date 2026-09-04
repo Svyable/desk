@@ -238,6 +238,94 @@ Prediction can make these allocation decisions more efficient.
 
 It can also concentrate them.
 
+This becomes more important as generation gets cheaper than validation.
+
+An AI system can propose thousands of molecules, business strategies, code changes, research hypotheses, designs, legal arguments, educational interventions, or policy variants before a human institution can test a tiny fraction of them. The bottleneck moves downstream.
+
+Ideas become abundant.
+
+Reality remains scarce.
+
+A laboratory has only so many experiments. A company has only so many customers it can expose to a new product. A government has only so many pilots it can competently administer. A hospital has only so much clinical capacity. A society has only so much tolerance for disruptive trial and error.
+
+The selection layer becomes more consequential precisely because generation becomes easier.
+
+This changes what powerful prediction systems should be evaluated for. It is not enough to ask whether they rank current candidates accurately. We will increasingly need to ask whether the allocation process preserves discovery across the enormous space of generated possibilities.
+
+If one model generates the options, predicts their value, ranks them, and determines which few receive physical testing, a single system can control both imagination and evidence.
+
+The loop becomes tighter than anything in the earlier chapters.
+
+A model proposes what looks promising because of what it learned from prior reality. It chooses which proposals get new reality. The results return to the model. Alternatives excluded from testing become less and less represented in the evidence. The system can improve rapidly while shrinking the support on which its imagination is grounded.
+
+This is not science fiction. The structure already exists anywhere algorithms help prioritize experiments, candidates, designs, or interventions. The scale will change as generative systems become more capable.
+
+That makes separation of roles valuable.
+
+One system can generate. Another can critique. Human experts can impose safety and domain constraints. Independent methods can choose some audit cases. Randomized or diversity-aware selection can preserve limited exploration. External institutions can pursue options the dominant system ranks poorly. Physical outcomes can remain authoritative over simulation.
+
+The point is not to fragment every workflow.
+
+It is to prevent one predictive prior from owning the entire path from possibility to proof.
+
+Scientific practice already contains versions of this separation. Hypotheses come from one process; peer review evaluates them; experiments expose them to nature; replication gives other teams a chance to disagree; publication lets criticism continue. The system is imperfect, but no single judgment is supposed to end the chain.
+
+Advanced AI will put pressure on each layer because it can make all of them faster.
+
+The danger is that speed encourages vertical integration of belief.
+
+The same model family may help draft the hypothesis, design the experiment, analyze the data, write the paper, summarize the literature, and recommend the next experiment. Each step can be excellent. The combined loop can still become too self-referential if independent contact with reality is thin.
+
+The answer is not ritual human involvement.
+
+A human clicking approve on an AI-generated plan is not independent evidence.
+
+Independence has to come from different data, different assumptions, external outcomes, adversarial checks, physical measurement, or genuinely separate decision rights.
+
+That is the institutional version of the scientific control group.
+
+A future rich in simulation will need protected places where simulation can lose.
+
+The same principle applies outside science. A hiring model should be able to be contradicted by a work sample. A credit model by responsibly gathered repayment evidence. A recommender by user-led discovery. A policy simulator by a bounded field test. A strategic forecast by a small reversible market action.
+
+Reality does not always need to overrule the model immediately.
+
+It needs a path to do so.
+
+This path is what future observability means in practice.
+
+It is not keeping every road open. No civilization can afford that.
+
+It is keeping enough roads passable that the map can still be wrong.
+
+That phrase matters because prediction systems are maps with agency. They do not merely describe terrain. They direct traffic. Once enough traffic follows the map, the unused roads decay, businesses close, skills disappear, and evidence accumulates along the chosen routes.
+
+The model can become accurate partly because the world rearranges itself around the model.
+
+Sometimes that is exactly what we want. A safety standard can coordinate everyone around a safer practice. A communication protocol can make compatibility universal. A traffic rule can reduce chaos by making behavior predictable.
+
+Coordination is one of civilization's greatest achievements.
+
+The question is whether the coordinated rule contains a revision mechanism proportionate to the cost of being universally wrong.
+
+The more universal the policy, the more valuable independent falsification becomes.
+
+This gives us a way to think about scale. A small decision can rely on local feedback because its errors remain local. A decision copied across an industry deserves a larger evidence reserve because its blind spot can become systemic. A model embedded across public services deserves external evaluation not because centralization is inherently bad, but because correlated error has fewer places to reveal itself.
+
+Observability is therefore partly a property of institutional structure.
+
+Competition, federalism, open research, appeals, audit rights, interoperability, independent journalism, scientific replication, and the ability to exit all create different routes by which one dominant story can be challenged.
+
+They look politically and economically unrelated.
+
+Epistemically, they are cousins.
+
+Each keeps some evidence generation outside the control of the current winner.
+
+That is why the book ends at the level of institutions rather than algorithms.
+
+No exploration parameter can solve a society-wide selection problem on its own. The deeper defense is plural decision rights, bounded experimentation, preserved memory, direct evidence channels, and rights that limit what institutions may observe in the first place.
+
 The institutions that matter most will be those that know when not to let their best current model choose every next observation.
 
 That is the discipline I want to leave behind.
