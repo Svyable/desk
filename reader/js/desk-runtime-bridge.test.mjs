@@ -1,17 +1,16 @@
 import assert from 'node:assert/strict';
 import {
-  adaptDeskCatalogVisibility,
-  adaptSharedReaderAppSource,
+  applyPortalCatalogManifest,
   bootstrapFailureKind,
   bootstrapRecoveryCopy,
   deskManifestUrl,
   deskReaderScope,
   deskWorkerUrl,
   fetchBootstrapResource,
+  parsePortalCatalogManifest,
   responseError,
   retryPauseMs,
   rewriteDeskPublicationUrl,
-  rewriteSharedModuleSpecifiers,
   shouldRedirectShelfWorker,
 } from './desk-runtime-bridge.js';
 
@@ -114,79 +113,16 @@ check(() => assert.equal(bootstrapRecoveryCopy(new TypeError('offline'), { onlin
 check(() => assert.match(bootstrapRecoveryCopy(new TypeError('network')).title, /temporarily/i));
 check(() => assert.match(bootstrapRecoveryCopy(new Error('contract')).title, /update/i));
 
-const moduleRewrite = rewriteSharedModuleSpecifiers(
-  "import { ready } from './base.js';\nconst lazy = () => import('./pagination-scheduler.js');",
-  'https://svyable.github.io/shelf/reader/js/'
-);
-check(() => assert.equal(moduleRewrite.staticImports, 1));
-check(() => assert.equal(moduleRewrite.dynamicImports, 1));
-check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/base\.js/));
-check(() => assert.match(moduleRewrite.source, /shelf\/reader\/js\/pagination-scheduler\.js/));
-
-const standardCatalog = adaptDeskCatalogVisibility(`
-async function loadCatalog() {
-  if (meta.published) entries.push(meta);
-}
-`);
-check(() => assert.equal(standardCatalog.catalogGates, 1));
-check(() => assert.match(standardCatalog.source, /meta\.published \|\| window\.__IMPRINT\?\.role === 'desk'/));
-
-const renamedCatalog = adaptDeskCatalogVisibility(`
-async function hydrateLibraryIndex() {
-  if (meta.published) entries.push(meta);
-}
-`);
-check(() => assert.match(renamedCatalog.source, /role === 'desk'/));
-
-const arrowCatalog = adaptDeskCatalogVisibility(`
-const load = async () => {
-  if (
-    meta.published
-  )
-    entries.push(meta);
-};
-`);
-check(() => assert.match(arrowCatalog.source, /role === 'desk'/));
-
-const decoys = adaptDeskCatalogVisibility(`
-const example = "if (meta.published) entries.push(meta);";
-// if (meta.published) entries.push(meta);
-/* if (meta.published) entries.push(meta); */
-function whatever() {
-  if (meta.published) entries.push(meta);
-}
-`);
-check(() => assert.equal(decoys.catalogGates, 1));
-check(() => assert.match(decoys.source, /const example = "if \(meta\.published\) entries\.push\(meta\);";/));
-
-check(() => assert.throws(
-  () => adaptDeskCatalogVisibility('function loadCatalog() { return []; }'),
-  /found 0/
+check(() => assert.deepEqual(
+  parsePortalCatalogManifest({ version: 1, books: ['draft-one', 'draft-one', '_TEMPLATE', 'Bad Slug'] }),
+  ['draft-one']
 ));
+check(() => assert.equal(parsePortalCatalogManifest('{not json'), null));
 
-check(() => assert.throws(
-  () => adaptDeskCatalogVisibility(`
-if (meta.published) entries.push(meta);
-if (meta.published) entries.push(meta);
-`),
-  /found 2/
-));
+const portal = '# Desk\n\n## The books\n\n- [Old](books/old/)\n\n## Notes\n\nKeep this.';
+const overlaid = applyPortalCatalogManifest(portal, { version: 1, books: ['draft-one'] });
+check(() => assert.match(overlaid, /\[draft-one\]\(books\/draft-one\/\)/));
+check(() => assert.doesNotMatch(overlaid, /books\/old/));
+check(() => assert.equal(applyPortalCatalogManifest(portal, '{bad'), portal));
 
-const otherPublishedUse = adaptDeskCatalogVisibility(`
-const draft = !meta.published;
-if (meta.published) entries.push(meta);
-`);
-check(() => assert.match(otherPublishedUse.source, /const draft = !meta\.published;/));
-
-const adaptedApp = adaptSharedReaderAppSource(`
-import { ready } from './base.js';
-const catalog = async () => {
-  if (meta.published) entries.push(meta);
-};
-const lazy = () => import('./later.js');
-`, 'https://svyable.github.io/shelf/reader/js/');
-check(() => assert.equal(adaptedApp.staticImports, 1));
-check(() => assert.equal(adaptedApp.dynamicImports, 1));
-check(() => assert.equal(adaptedApp.catalogGates, 1));
-
-console.log(`Desk runtime bridge: ${assertions}/45 assertions passed`);
+console.log(`Desk runtime bridge: ${assertions}/34 assertions passed`);
