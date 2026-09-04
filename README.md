@@ -9,7 +9,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 85 book projects · 43 complete drafts · 2 in revision · 40 drafting**
+> **Desk: 86 book projects · 44 complete drafts · 2 in revision · 40 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -102,6 +102,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,281 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 of 12 | 10,932 | The book follows ordinary people who notice the unclaimed problem, carry more than their official job requires, and turn small acts of usefulness into trust, access, and eventually freedom. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
+| [**Neuralase**](books/neuralase/) | ✅ Complete draft | 18 of 18 drafted | — | Neuralase argues that productive reasoning loops depend not on repetition but on re-entry plus a discriminating signal: evidence, verification, environmental consequence, or learned additional depth. | [Read →](https://svyable.github.io/desk/reader/#/b/neuralase/) |
 | [**No One Read It**](books/no-one-read-it/) | ✍️ Drafting | 5 of 21 | 15,368 | Generative systems can produce contracts, code, analysis, reports, messages, and options faster than the people named on that work can inspect it. | [Read →](https://svyable.github.io/desk/reader/#/b/no-one-read-it/) |
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✅ Complete first draft | 20 of 20 | — | The provisional spaces that make competence possible: rehearsal rooms, drafts, sandboxes, simulations, apprenticeships, mock trials, pilots, test kitchens, play, and every other place where a person or institution is allowed to be wrong before being required to be right. | [Read →](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | 18 of 18 | 77,279 | The central thesis is that open AI does not abolish ownership; it rearranges it. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
