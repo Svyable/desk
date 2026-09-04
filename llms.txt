@@ -28,6 +28,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Asleep at the Wheel](https://svyable.github.io/desk/books/asleep-at-the-wheel/README.md)
 - [Austerity Measures](https://svyable.github.io/desk/books/austerity-measures/README.md)
 - [Chokepoint](https://svyable.github.io/desk/books/chokepoint/README.md)
+- [Commit](https://svyable.github.io/desk/books/commit/README.md)
 - [Energy, Value & Intelligence](https://svyable.github.io/desk/books/energy-value-intelligence/README.md)
 - [Built to Be Alone](https://svyable.github.io/desk/books/the-loneliness-dividend/README.md)
 - [Exponential Compression](https://svyable.github.io/desk/books/exponential-compression/README.md)
