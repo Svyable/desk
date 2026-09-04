@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting — expansion pass |
+| **Status** | Drafting — publication expansion |
 | **Form** | Narrative nonfiction / technology / security |
 | **Chapters** | 26 of 26 working chapters drafted |
 | **Edition** | First Desk draft · September 2026 |
@@ -65,19 +65,23 @@ The central argument is that modern AI containment is not one box. It is a stack
 - [x] [Ch 25 — Containment Becomes a Product](manuscript/ch25-containment-becomes-a-product.md)
 - [x] [Ch 26 — The Containment Dividend](manuscript/ch26-the-containment-dividend.md)
 
-- [ ] [Epilogue — Code Comes Home](manuscript/epilogue-code-comes-home.md)
-- [ ] [Back Matter — Sources and Verification](manuscript/back-matter.md)
+- [x] [Epilogue — Code Comes Home](manuscript/epilogue-code-comes-home.md)
+- [x] [Back Matter — Sources and Verification](manuscript/back-matter.md)
 
 ## Research
 
-- [ ] [Research brief](research/README.md)
-- [ ] [Source ledger](research/source-ledger.csv)
-- [ ] [Falsification notes](research/falsification-notes.md)
+- [x] [Research brief](research/README.md)
+- [x] [Source ledger](research/source-ledger.csv)
+- [x] [Falsification notes](research/falsification-notes.md)
 
 ## Rights
 
-- [ ] [Rights & permissions](RIGHTS.md)
-- [ ] [Machine-readable rights](rights.json)
+- [x] [Rights & permissions](RIGHTS.md)
+- [x] [Machine-readable rights](rights.json)
+
+## Publication gate
+
+The book has a complete working structure and publication support package. The active blocker is manuscript depth: the current expansion pass is deepening shorter chapters to meet the Desk full-book standard before this README is promoted to `Complete draft`, catalog metadata is regenerated, and the draft publication PR is made merge-ready.
 
 ## Draft note
 
