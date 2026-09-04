@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | Revision in progress |
 | **Chapters**  | 24 of 24 drafted |
 
 *How to Get the Most of Your AI Compute*
@@ -14,7 +14,7 @@ The working thesis is that AI compute is not the hardware you rent or buy. It is
 
 This is deliberately not a second *Allocating Intelligence*, which is about routing cognition through institutions; not *Subsidized Intelligence*, which is about the capital and pricing system making AI cheap to users; not *Scaling Laws*, which is about how systems change as they grow; and not *Energy, Value & Intelligence*, which treats energy and intelligence as civilizational ledgers. This book stays close to the machine room. Its question is practical: given the compute you can actually get, how do you make less of it go to waste?
 
-The complete 24-chapter structural pass is now drafted. The book remains **Drafting**, not Complete, until the depth, evidence, repetition, continuity, terminology, and Desk validation gates in the research brief are cleared.
+The complete 24-chapter structural pass is drafted and the manuscript has entered **Revision**. It is not a Complete draft yet. Publication status stays gated on depth, evidence, repetition, continuity, terminology, local Desk validation, and final release review.
 
 ## Contents
 
@@ -46,12 +46,12 @@ The complete 24-chapter structural pass is now drafted. The book remains **Draft
 
 ## Publication path
 
-1. Depth and manuscript-length audit.
+1. Depth and manuscript-length audit; deepen compressed chapters rather than padding them.
 2. Evidence and source-ledger audit for concrete technical claims.
 3. Repetition, continuity, economics, and terminology revision passes.
 4. Run `python3 scripts/check-desk.py` in a real checkout.
 5. Reconcile Desk catalog/Reader/sitemap/feedback registrations against the latest `main` without overwriting concurrent work.
-6. Promote from **Drafting** to **Complete draft** only after those gates pass.
+6. Promote from **Revision** to **Complete draft** only after those gates pass.
 
 ## Research
 
