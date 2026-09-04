@@ -74,6 +74,9 @@ Every chapter should preserve evidence that weakens the central narrative.
 | 16 — The Court Says No | What precisely did the court decide? | March 31 opinion and permanent injunction |
 | 17 — What Was Dismantled | Which version of the title survives falsification? | synthesis of legal/institutional record |
 | 18 — The Next Public Square | What designs remain possible after CPB? | comparative institutional analysis; post-2025 state/philanthropic responses |
+| 19 — The Emergency Alert Argument | Which public-safety and shared-infrastructure functions were bundled with the media subsidy? | Senate rural/tribal/emergency motions; EAS and station infrastructure; CPB transition evidence |
+| 20 — The Donor State | What kind of power replaces federal funding when donors, foundations, universities, underwriters, and states fill the gap? | emergency-giving reports; station revenue structures; NPR sponsorship history; state/university responses |
+| 21 — The Rebuild Test | What would a future Congress or private federation actually have to recreate to replace CPB’s functions? | dissolution record; transferred system functions; March 31 constitutional boundary; comparative funding-design evidence |
 
 ## Source discipline
 
