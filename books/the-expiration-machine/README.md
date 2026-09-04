@@ -51,6 +51,7 @@ The question is not whether everything should expire. It is **how long trust sho
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Desk merge notes — 2026-09-03](research/release-notes-2026-09-03.md)
 
 ## Review status
 
