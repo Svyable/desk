@@ -114,9 +114,17 @@ Each is a response to the same uncomfortable fact: the first answer can be wrong
 ### Part III — The Appeal Age
 16. When the Same Machine Hears the Appeal  
 17. Independence Is a Design Choice  
-18. The Price of a Second Look  
-19. Appeals at Machine Speed  
-20. The Right to Reconsideration  
+18. The Right to a Different Failure Mode  
+19. The Appeal Budget  
+20. The Civilization That Can Change Its Mind  
+
+### Part IV — The Architecture of Reconsideration
+21. The Appeal API  
+22. Restoration Is Part of Reversal  
+23. The Public Escalation Lottery  
+24. The Deadline Machine  
+25. The Appeal Test  
+26. The Right to Reconsideration  
 
 **Epilogue — One More Look**
 
