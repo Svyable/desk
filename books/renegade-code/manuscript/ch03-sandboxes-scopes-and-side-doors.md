@@ -251,3 +251,33 @@ Agent containment is moving from the first problem to the second.
 We still need strong rooms.
 
 We also need to stop pretending that the room is the whole building.
+
+The practical test for a side door is not whether the component is officially classified as part of the agent system. It is whether the agent can make it carry authority. This widens the review to services teams often omit because they seem infrastructural or administrative: build caches, notification relays, temporary upload buckets, support queues, identity refresh endpoints, artifact mirrors, scheduled jobs, approval bots, and internal developer portals.
+
+A mature organization may have hundreds of such components. Mapping all of them in equal detail would bury the useful work. The better approach is to begin with conversion points. Which services take something the agent can supply and turn it into something more consequential?
+
+A build service converts source code into an executable artifact. A deployment controller converts an artifact reference into production change. A secrets broker converts identity into a credential. A payment service converts an approved instruction into transferred funds. A support workflow can convert a message into an account action. A package system converts a name and version into code that later executes somewhere else.
+
+Those conversions deserve stronger mediation than ordinary data movement because they change the kind of authority in play.
+
+This is where scopes often need context. A token that says `write:repository` cannot express that writing one directory changes documentation while writing another changes a deployment manifest. A generic `send:message` scope cannot express the difference between a draft sent to the agent's operator and a message sent under the chief executive's authenticated identity. A network allowlist cannot by itself express that one allowed host is a passive documentation site and another can create new workloads.
+
+The answer is not infinitely granular scopes. That becomes its own failure mode: policy so complicated that nobody understands it and operators grant broad exceptions just to keep work moving. The better pattern is to place a small number of consequential conversions behind policy that understands the object, the task, the identity, and the requested effect.
+
+For example, a coding agent may be allowed to write anywhere on its own branch, but the transition from branch to protected main is separately mediated. A research agent may fetch broad public information, but uploading internal data to an external service is a distinct operation. A procurement agent may assemble an order freely inside a budget model, while releasing payment requires a capability tied to a specific vendor, amount, and invoice.
+
+The sandbox remains important in each case because it keeps local compromise from becoming an immediate host compromise. The scope remains important because it reduces ambient access. The side-door analysis asks what happens after those controls have done their jobs.
+
+This is the part teams can rehearse.
+
+Take one mediator and assume it behaves exactly as documented. Then ask whether the documented behavior can be composed into an outcome the original task did not justify. Next assume the mediator is unavailable and see whether the agent finds a fallback with broader authority. Finally assume the agent submits an unusual but syntactically valid request and observe whether the system pauses at the consequence or merely checks that the caller once had access to the tool.
+
+These exercises produce more useful findings than a binary question about whether the agent “escaped.” They tell you which conversion was too broad, which renewal path survived revocation, which service trusted a stale context, which evidence stream shared the same failure domain, and which exception had quietly become part of normal operation.
+
+They also make failures easier to discuss without mythology. A sandbox can remain uncompromised while containment fails. A scope can be correctly enforced while the granted scope is too deep. A human approval can be genuine while the human saw evidence controlled by the agent. A service can have no vulnerability at all and still function as the unintended deputy in a dangerous chain.
+
+That precision matters because the fix follows the mechanism. If the failure was an overly broad mediator, patching the sandbox does not solve it. If the failure was durable delegated authority, retraining the model does not revoke it. If the failure was a missing decision point between proposal and execution, more monitoring may detect the next event without preventing it.
+
+The goal is not a system with no doors. A useful institution cannot operate that way.
+
+The goal is a building whose doors do not become secret merely because each belongs to a different team.
