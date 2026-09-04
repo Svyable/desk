@@ -26,7 +26,7 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v15';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v16';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
@@ -35,6 +35,7 @@ assert.match(worker, /'js\/pwa-update\.js'/);
 assert.match(worker, /'js\/native-share\.js'/);
 assert.match(worker, /'css\/settings-panel\.css'/);
 assert.match(worker, /'js\/gui\.js'/);
+assert.match(worker, /'js\/theme-controls\.js'/);
 assert.doesNotMatch(worker, /'\.\/js\/settings-hierarchy\.js'/);
 assert.match(worker, /'js\/viewport-stability\.js'/);
 assert.match(worker, /'js\/viewport-stability-runtime\.js'/);
@@ -114,6 +115,8 @@ assert.match(bridge, /isDeskPortalReadme/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
+assert.match(quickLook, /shelf\/reader\/js\/theme-controls\.js/);
+assert.match(quickLook, /installGlobalThemeControls\(\);/);
 assert.doesNotMatch(quickLook, /\.volume-open/);
 assert.doesNotMatch(quickLook, /hasReadingProgress/);
 assert.doesNotMatch(quickLook, /characterData:\s*true/);
@@ -122,4 +125,4 @@ assert.match(quickLookCss, /@media \(hover: none\), \(pointer: coarse\)/);
 assert.match(quickLookCss, /\.volume:not\(\.publication-web-volume\) \.volume-quick-look \{\s*display: none;/);
 assert.match(quickLookCss, /:focus-visible \.volume-quick-look \{\s*display: grid;/);
 
-console.log('Desk PWA source contract: 88 assertions passed');
+console.log('Desk PWA source contract: global theme bridge covered');
