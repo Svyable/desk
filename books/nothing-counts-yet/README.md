@@ -5,11 +5,11 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Publication candidate |
+| **Status**    | Released working edition |
 | **Chapters**  | 25 of 25 drafted |
 | **Format** | Book |
 | **Publisher** | Svyable |
-| **Edition** | Expanded trade edition candidate |
+| **Edition** | Expanded trade edition source |
 | **Language** | English |
 | **Draft date** | 2026-09-03 |
 
@@ -53,11 +53,15 @@ The book argues that modern life is becoming unusually good at recording, rankin
 - [Source notes](research/source-notes.md)
 - [Release review](research/release-review.md)
 - [Publication checklist](research/publication-checklist.md)
+- [Expanded trade edition release record](research/release-record-2026-09-expanded.md)
 
 ## Publication note
 
-Desk remains the canonical working edition. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `c5984a125bd65e38a24c24fe3bdf2e17a7466e8b` for the September 2026 20-chapter release transaction; later Desk revisions do not silently rewrite that released edition.
+Desk remains the canonical working edition. The first 20-chapter Sven Hardy Benson’s Shelf snapshot was frozen from Desk commit `c5984a125bd65e38a24c24fe3bdf2e17a7466e8b`.
 
-The 25-chapter manuscript is now an **expanded trade edition publication candidate**. It must be published from an explicitly frozen Desk commit, with a traceable Shelf snapshot and edition metadata, rather than by mutating the prior released snapshot in place.
+The 25-chapter **Expanded trade edition** was frozen from Desk commit `3bd8456867dff274bad33513cb3b58fc11a21aff` and released to Sven Hardy Benson’s Shelf in PR #201, merged at Shelf commit `1c2db855b796f55f6528346978e10ed0d4cf2a19`.
 
-- [Open the complete Desk candidate](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/)
+Future Desk revisions do not silently rewrite that public release; another explicit freeze-and-release transaction is required.
+
+- [Open the complete Desk working edition](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/)
+- [Read the released edition on Sven Hardy Benson’s Shelf](https://svyable.github.io/shelf/reader/#/b/nothing-counts-yet/)
