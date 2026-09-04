@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 16 of 22 drafted |
+| **Chapters**  | 20 of 22 drafted |
 
 *Why the Fourth Industrial Revolution Will Change Humanity Forever*
 
@@ -33,10 +33,10 @@ The book treats “Fourth Industrial Revolution” as a hypothesis to test, not 
 - [x] [Ch 14 — Identity in a Synthetic World](manuscript/ch14-identity-in-a-synthetic-world.md)
 - [x] [Ch 15 — The New Class Divide](manuscript/ch15-the-new-class-divide.md)
 - [x] [Ch 16 — The Firm at Machine Speed](manuscript/ch16-the-firm-at-machine-speed.md)
-- [ ] [Ch 17 — The State at Machine Speed](manuscript/ch17-the-state-at-machine-speed.md)
-- [ ] [Ch 18 — War, Security, and Autonomous Power](manuscript/ch18-war-security-and-autonomous-power.md)
-- [ ] [Ch 19 — The Countries That Can Build](manuscript/ch19-the-countries-that-can-build.md)
-- [ ] [Ch 20 — The Politics of Adaptation Time](manuscript/ch20-the-politics-of-adaptation-time.md)
+- [x] [Ch 17 — The State at Machine Speed](manuscript/ch17-the-state-at-machine-speed.md)
+- [x] [Ch 18 — War, Security, and Autonomous Power](manuscript/ch18-war-security-and-autonomous-power.md)
+- [x] [Ch 19 — The Countries That Can Build](manuscript/ch19-the-countries-that-can-build.md)
+- [x] [Ch 20 — The Politics of Adaptation Time](manuscript/ch20-the-politics-of-adaptation-time.md)
 - [ ] [Ch 21 — The Things We Should Not Optimize](manuscript/ch21-the-things-we-should-not-optimize.md)
 - [ ] [Ch 22 — What Humanity Is For](manuscript/ch22-what-humanity-is-for.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
