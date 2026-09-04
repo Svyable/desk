@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | Revision |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 25 of 25 drafted |
+| **Chapters** | 31 of 31 drafted |
 
 *What It Means to Be Sturdy in the Ever-Shifting AI Landscape*
 
@@ -55,7 +55,15 @@ The manuscript treats AI robustness as an operating philosophy built around six 
 - [x] [Ch 23 — Common-Mode Failure](manuscript/ch23-common-mode-failure.md)
 - [x] [Ch 24 — The Right to Exit](manuscript/ch24-the-right-to-exit.md)
 - [x] [Ch 25 — After the Frontier](manuscript/ch25-after-the-frontier.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+
+### Part VII — Field Tests
+- [x] [Ch 26 — The Update That Moved Too Fast](manuscript/ch26-the-update-that-moved-too-fast.md)
+- [x] [Ch 27 — Forty-Five Minutes](manuscript/ch27-forty-five-minutes.md)
+- [x] [Ch 28 — The Backup That Wasn’t](manuscript/ch28-the-backup-that-wasnt.md)
+- [x] [Ch 29 — One Command, One Region](manuscript/ch29-one-command-one-region.md)
+- [x] [Ch 30 — The Migration Window](manuscript/ch30-the-migration-window.md)
+- [x] [Ch 31 — The Stop Rule](manuscript/ch31-the-stop-rule.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
@@ -64,6 +72,7 @@ The manuscript treats AI robustness as an operating philosophy built around six 
 - [Source registry](research/source-registry.md)
 - [Chapter-source map](research/chapter-source-map.md)
 - [Rights notes](research/rights-notes.md)
+- [Release review](research/release-review.md)
 
 ## Editorial principles
 
