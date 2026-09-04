@@ -26,7 +26,7 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v13';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v14';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
@@ -74,6 +74,12 @@ assert.match(worker, /BookselfOfflineCache\.publicationWarmPlan\(self\.navigator
 assert.match(worker, /if \(plan\.warmChapters\)/);
 assert.match(worker, /!plan\?\.warmChapters/);
 assert.match(worker, /!response \|\| !plan\.warmMedia/);
+assert.match(worker, /BookselfOfflineFetchPolicy\.isRevisionLookup\(url\.href\)/);
+assert.match(worker, /!sameOrigin && !external && !revisionLookup/);
+assert.match(worker, /function emptyRevisionResponse\(\)/);
+assert.match(worker, /return new Response\('\[\]'/);
+assert.match(worker, /async function deferredRevisionResponse\(request\)/);
+assert.match(worker, /if \(revisionLookup\) \{[\s\S]*event\.waitUntil\(network[\s\S]*event\.respondWith\(deferredRevisionResponse\(request\)\);[\s\S]*return;/);
 
 assert.match(loader, /installDeskRuntimeBridge/);
 assert.match(loader, /fetchBootstrapResource/);
@@ -113,4 +119,4 @@ assert.match(quickLookCss, /@media \(hover: none\), \(pointer: coarse\)/);
 assert.match(quickLookCss, /\.volume:not\(\.publication-web-volume\) \.volume-quick-look \{\s*display: none;/);
 assert.match(quickLookCss, /:focus-visible \.volume-quick-look \{\s*display: grid;/);
 
-console.log('Desk PWA source contract: 79 assertions passed');
+console.log('Desk PWA source contract: 85 assertions passed');
