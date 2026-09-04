@@ -139,3 +139,45 @@ All of that was latent in a game that a cheap microprocessor could play better.
 The significance of DishBrain was therefore not that the neurons won at Pong.
 
 It was that the dish stopped being merely a dish.
+
+That conclusion still leaves a harder experimental question: when a culture performs better, what exactly improved?
+
+A closed-loop result can change for several reasons. The biological network can change. The decoder interpreting its activity can change. The physical relationship between cells and electrodes can drift. A culture can simply become more mature during the experiment. Noise can happen to align with the task. If the system contains an adaptive digital layer, that layer may learn to extract more useful signal without the tissue changing in a task-relevant way at all.
+
+This is why future claims about neural learning will need a hierarchy of evidence.
+
+The first level is behavioral performance. Does the coupled system become more successful at the defined task? That is necessary and relatively easy to measure.
+
+The second is biological attribution. Does the living network itself show a durable change that explains the improvement? Can the same decoder applied before and after training reveal a changed response? Does disrupting the feedback relationship eliminate the effect? Does the change persist after a rest period? Can electrophysiology or other measurements locate a shift in network dynamics rather than merely in downstream software?
+
+The third is generalization. Does an adapted culture improve only on the exact pattern it experienced, or can it transfer some aspect of that adaptation to a related input? Generalization is not required for every useful assay, but it separates a narrow conditioning effect from broader claims about learning.
+
+The fourth is reproducibility. Does the effect appear across cultures, cell sources, days, and laboratories? A single unusually responsive network can produce a fascinating paper and a poor platform. Biotechnology needs distributions.
+
+The fifth is biological relevance. Does the adaptive effect tell us something worth knowing about development, disease, toxicity, or treatment? A neural culture could become better at a contrived benchmark while remaining useless for medicine. Conversely, a modest task whose performance is predictably disrupted by known neurotoxicants could become a valuable assay.
+
+These levels matter because the same word—learning—can hide very different achievements.
+
+A commercial system can legitimately improve as a whole even when the living layer changes little. Better encoders, denser electrodes, and smarter decoders are real engineering advances. But a paper or product claiming that biology learned should show where the biological contribution entered.
+
+This is not an anti-hype demand. It is a path to stronger products.
+
+If a developer knows that most performance gain comes from the decoder, software can be improved aggressively. If the biological substrate contributes a distinctive form of adaptation, the company can design protocols that preserve and exploit it. If electrode drift accounts for apparent improvement, the platform can fix the hardware instead of building a theory around an artifact.
+
+The more precisely a system can allocate credit, the faster it can improve.
+
+That precision also gives pharmacology a way to use adaptive tasks without pretending the task itself is clinically important. A compound can be evaluated against a functional challenge with known control behavior. The task becomes a standardized stressor. Researchers can ask whether the compound changes learning rate, stability, recovery, or generalization relative to reference conditions.
+
+The useful variable is not whether the organoid has become a game player.
+
+It is whether a defined biological capacity survives perturbation.
+
+That reframing is the bridge from spectacle to assay.
+
+A decade from now, the most consequential descendant of DishBrain may not look like Pong at all. It may be a bland protocol name inside a safety-pharmacology package: a sequence of electrical challenges, feedback contingencies, and predefined response metrics that laboratories run because the result predicts a liability better than spontaneous activity alone.
+
+If that happens, the original demonstration will have succeeded in the least cinematic way possible.
+
+The dish will still be a dish.
+
+But the experiment around it will know that the dish has a history.
