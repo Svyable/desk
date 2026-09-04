@@ -320,9 +320,67 @@ Stacks fail at interfaces.
 
 This one has many.
 
-That complexity is a reason for caution and a reason to take the field seriously.
+The investment sequence matters because some layers are prerequisites and others are options.
 
-A trivial technology does not need so many disciplines to make it useful.
+A platform cannot skip reliable cell production and compensate with a better decoder. It cannot skip traceable provenance and recover credibility through a larger dataset. It cannot skip electrode quality and ask machine learning to infer activity the instrument never captured. It cannot skip validation and sell novelty indefinitely as evidence.
+
+Other layers are conditional.
+
+A neural drug assay may not need sophisticated closed-loop learning. A remote research service may not need clinical reimbursement. A disease-model platform may never need to compete on computing performance. A high-throughput 2D neuronal system may outperform a three-dimensional organoid for a narrow safety question.
+
+The stack is therefore not a staircase every company must climb.
+
+It is a dependency graph.
+
+That changes how one should evaluate companies and research programs in the field. The right question is not “How close are they to a biological computer?” It is “Which dependency have they made reliable, and which valuable decision becomes possible because of it?”
+
+A group that improves long-term electrode coupling may be more important than one that announces a slightly higher task score. A foundry that makes patient-derived organoids reproducibly may unlock more science than a new benchmark. A regulatory consortium that establishes a reference endpoint may create more economic value than a larger organoid with no validated use.
+
+Infrastructure progress is easy to underestimate because it often looks like the absence of failure.
+
+The culture survives.
+
+The batch matches.
+
+The pump runs.
+
+The reference compound behaves as expected.
+
+The classifier does not drift.
+
+The donor permissions remain attached.
+
+The second laboratory obtains the same answer.
+
+Nothing goes viral.
+
+A market becomes possible.
+
+This is the quieter meaning of “after silicon.” Computing revolutions have trained us to expect value from abstraction and scale. Biological infrastructure adds another source of value: **faithful friction**.
+
+The tissue resists simplification in ways that can be informative. A patient-derived network refuses to behave like the control. A compound that looked safe in a molecular assay destabilizes the network. A disease phenotype appears only after challenge. A treatment rescues one function and leaves another abnormal.
+
+The platform is valuable because biology does not always cooperate with the model.
+
+Silicon surrounds that resistance with measurement.
+
+The best systems will therefore not try to make biology perfectly deterministic. They will make the uncertainty measurable enough that scientists can tell which variation is meaningful.
+
+That is a different engineering objective from eliminating every deviation.
+
+It is also why the future of the stack may be plural.
+
+There may be standardized control organoids for safety assays and deliberately diverse patient-derived models for stratification. There may be centralized wetware clouds for exploratory research and locked local instruments for regulated workflows. There may be 2D neural networks for throughput and 3D organoids for architecture-dependent questions. There may be biological-computing benchmarks that never become products but continuously improve the interface technology used in drug discovery.
+
+The category can succeed without converging on one machine.
+
+What it must converge on is evidence.
+
+That means shared definitions of what was measured, how the substrate was qualified, how the input was encoded, how the output was decoded, what the controls showed, how the system varied, and what decision the result changed.
+
+A field becomes infrastructure when users stop buying possibility and start buying known performance.
+
+That is the threshold this book has been circling from the first dish.
 
 The strongest counterargument remains simple.
 
