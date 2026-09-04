@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 17 of 20 drafted |
+| **Chapters**  | 18 of 20 drafted |
 
 The Hidden War for the Metals That Run the World.
 
@@ -36,7 +36,7 @@ The aim is not to predict which country wins the mineral race. It is to make the
 - [x] [Ch 15 — China's Long Game](manuscript/ch15-chinas-long-game.md)
 - [x] [Ch 16 — The Substitution Race](manuscript/ch16-the-substitution-race.md)
 - [x] [Ch 17 — Water, Waste, and the Hidden Costs](manuscript/ch17-water-waste-and-the-hidden-costs.md)
-- [ ] [Ch 18 — Who Gets Rich, Who Gets Left](manuscript/ch18-who-gets-rich-who-gets-left.md)
+- [x] [Ch 18 — Who Gets Rich, Who Gets Left](manuscript/ch18-who-gets-rich-who-gets-left.md)
 - [ ] [Ch 19 — The Price of the Future](manuscript/ch19-the-price-of-the-future.md)
 - [ ] [Ch 20 — After the Rush](manuscript/ch20-after-the-rush.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
