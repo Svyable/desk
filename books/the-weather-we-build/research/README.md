@@ -10,7 +10,9 @@ The manuscript does **not** claim that cleanrooms, refrigeration, indoor climate
 
 The proposed contribution is the synthesis: treating these otherwise separate systems as one economic and strategic layer — **manufactured weather** — and following the consequences across manufacturing, medicine, computation, logistics, agriculture, cities, climate adaptation, and spaceflight.
 
-Before publication, run a formal literature and trade-title review for adjacent framings and cite intellectual predecessors where appropriate. Novelty should come from the quality of synthesis and evidence, not from pretending neighboring ideas do not exist.
+The phrase itself is not presented as an original coinage. Publication research has identified direct lexical and intellectual predecessors, which remain recorded in the source ledger and release review. Novelty must come from the quality of synthesis and evidence, not from pretending neighboring ideas do not exist.
+
+The late-book labels **heat debt**, **maintenance paradox**, **planetary cleanroom**, and **last free input** are authorial framing devices unless independent literature establishes otherwise.
 
 ## Primary-source lanes by chapter
 
@@ -90,6 +92,30 @@ Before publication, run a formal literature and trade-title review for adjacent 
 - industrial policy sources covering enabling infrastructure;
 - data-center, battery, biotech, semiconductor, and aerospace growth projections, with conservative treatment of forecasts.
 
+### Chapter 13 — The Heat Debt
+- data-center thermal-management and liquid-cooling guidance;
+- heat-flux and high-density computing R&D;
+- battery thermal-management references where claims move beyond analogy;
+- thermal storage, heat recovery, and outage holdover literature.
+
+### Chapter 14 — The Night Shift of Civilization
+- maintenance-management research on human knowledge and digital augmentation;
+- condition-based and predictive-maintenance guidance;
+- calibration, commissioning, fault-detection, spare-parts, and operational continuity literature;
+- case evidence distinguishing automation from elimination of human judgment.
+
+### Chapter 15 — The Planetary Cleanroom
+- Earth-system science on coupled atmosphere, ocean, land, cryosphere, water, energy, and carbon cycles;
+- urban-climate intervention evidence;
+- carbon-removal and solar-geoengineering research/governance sources kept technically distinct;
+- planetary-stewardship literature that avoids treating Earth as a literal engineered control system.
+
+### Chapter 16 — The Last Free Input
+- passive survivability and building thermal resilience;
+- design-for-robustness and fault-tolerance literature;
+- cases where wider operating envelopes reduce environmental-control dependence;
+- counterexamples where tighter control remains cheaper, safer, or technically necessary.
+
 ## Claim ledger rules
 
 Every source-ledger entry should include:
@@ -107,6 +133,8 @@ Every source-ledger entry should include:
 - contradiction/boundary-condition note;
 - date last verified.
 
+The original publication-grade record is `source-ledger.md`; Chapters 13–16 are covered by `source-ledger-ch13-ch16.md` until a future cleanup optionally consolidates them.
+
 ## Red-team questions
 
 1. Are we mistaking a set of mature engineering disciplines for a genuinely useful common framework?
@@ -119,5 +147,14 @@ Every source-ledger entry should include:
 8. Which sectors provide the strongest counterexamples to the thesis?
 9. Are human comfort, occupational safety, product quality, and process-control standards being kept distinct?
 10. Does each vivid anecdote survive contact with the original technical source?
+11. Does “heat debt” illuminate a real design obligation without pretending all useful energy simply becomes local waste heat on the same timescale and boundary?
+12. Does the maintenance chapter remain about continuity of controlled environments rather than drifting into generic praise of trades and operations?
+13. Does the planetary analogy increase humility rather than imply that Earth is a cleanroom awaiting a competent operator?
+14. Does the robustness counter-thesis materially constrain the book's strongest claim rather than function as a ceremonial concession?
+15. Does the epilogue now resolve the 16-chapter edition rather than merely close the earlier 12-chapter argument?
 
 The publication draft should get more interesting as these questions become harder to answer.
+
+## Publication progression
+
+Evidence is now sufficient for editorial progression across all 16 chapters. This does **not** itself constitute release clearance. The controlling sequence is in `publication-plan.md`: developmental edit, line/fact edit, exact candidate freeze, objective repository validation, matched Shelf transfer, final release review.
