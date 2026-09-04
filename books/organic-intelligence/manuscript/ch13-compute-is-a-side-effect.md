@@ -208,6 +208,38 @@ The goal need not be to replace a CPU.
 
 The goal can be to make biological function legible.
 
+A good benchmark should therefore be adversarial to the story being told about it.
+
+If the claim is that the biological substrate contributes useful nonlinear transformation, the digital baseline should be strong enough to show what the organoid adds. If the claim is rapid adaptation, the comparison should hold the task, data, and readout conditions as constant as possible. If the claim is energy advantage, the measurement should include the support system. If the claim is robustness, new biological batches should be part of the evaluation rather than treated as a separate future problem.
+
+The benchmark should be designed to make the advantage disappear if it is not real.
+
+This is especially important because hybrid systems can hide contribution. A sophisticated decoder can extract useful signal from a weak substrate. Better input encoding can improve performance without any biological change. Ensemble averaging can raise accuracy by reducing variance rather than increasing the capability of one organoid.
+
+All of those can be legitimate engineering improvements.
+
+They should not be credited automatically to the wetware.
+
+The cleanest reports will decompose performance: substrate-only characteristics, decoder contribution, encoder contribution, ensemble effects, and system-level outcome. This is similar to an ablation study in machine learning, except one component cannot be cloned perfectly between runs.
+
+That difficulty is exactly why the decomposition matters.
+
+The field also needs longitudinal benchmarks. A digital model can be tested today and tomorrow without aging. A neural substrate may improve, drift, or decline. A useful system should report not only peak performance but usable performance over biological time.
+
+How many experiment hours remain inside specification?
+
+How often must the decoder recalibrate?
+
+Does a learned effect persist after rest?
+
+Does performance degrade gradually or fail abruptly?
+
+Does replacing the tissue restore the same operating range?
+
+These questions turn “compute” from a momentary demonstration into a service property.
+
+They also bring the argument back to biotechnology. Longitudinal function, drift, replacement, and calibration are exactly the problems an assay platform has to solve.
+
 This framing also changes the ethical temperature.
 
 If wetware is sold as a new computer, people naturally ask when it becomes a mind. If it is understood as adaptive neural tissue used inside a scientific instrument, the ethical questions become more precise: what level of organization exists, what evidence of sentience or pain is present, what interventions are being performed, what donors consented to, and what oversight should apply as capability increases?
