@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 4 of 24 drafted |
+| **Chapters**  | 8 of 24 drafted |
 
 *Tracking How Machines Learn*
 
@@ -41,13 +41,13 @@ A paleontologist does not need every organism that ever lived in order to infer 
 - [x] [Ch 2 — Every Update Leaves a Mark](manuscript/ch02-every-update-leaves-a-mark.md)
 - [x] [Ch 3 — The Example Behind the Answer](manuscript/ch03-the-example-behind-the-answer.md)
 - [x] [Ch 4 — Checkpoints Are Fossils](manuscript/ch04-checkpoints-are-fossils.md)
+- [x] [Ch 5 — The Data Map](manuscript/ch05-the-data-map.md)
+- [x] [Ch 6 — Easy, Hard, Ambiguous](manuscript/ch06-easy-hard-ambiguous.md)
+- [x] [Ch 7 — The Moment a Circuit Appears](manuscript/ch07-the-moment-a-circuit-appears.md)
+- [x] [Ch 8 — Grokking After the Test Is Already Passed](manuscript/ch08-grokking-after-the-test-is-already-passed.md)
 
 ## Planned chapters
 
-5. The Data Map
-6. Easy, Hard, Ambiguous
-7. The Moment a Circuit Appears
-8. Grokking After the Test Is Already Passed
 9. Memorization Is a Scar
 10. Generalization Has Ancestry
 11. The Fine-Tuning Layer of History
