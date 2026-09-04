@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 4 of 21 drafted |
+| **Chapters** | 7 of 21 drafted |
 
 ## Premise
 
@@ -31,9 +31,9 @@ We usually describe these as problems of durability. That misses the harder part
 
 ### Part II — The Handoff Stack
 
-- [ ] Ch 5 — The Artifact
-- [ ] Ch 6 — The Memory
-- [ ] Ch 7 — The Authority
+- [x] [Ch 5 — The Artifact](manuscript/ch05-the-artifact.md)
+- [x] [Ch 6 — The Memory](manuscript/ch06-the-memory.md)
+- [x] [Ch 7 — The Authority](manuscript/ch07-the-authority.md)
 - [ ] Ch 8 — The Money
 - [ ] Ch 9 — The Right to Repair
 
@@ -69,5 +69,8 @@ We usually describe these as problems of durability. That misses the harder part
 - [Chapter 2 evidence notes](research/ch02-evidence.md)
 - [Chapter 3 evidence notes](research/ch03-evidence.md)
 - [Chapter 4 evidence notes](research/ch04-evidence.md)
+- [Chapter 5 evidence notes](research/ch05-evidence.md)
+- [Chapter 6 evidence notes](research/ch06-evidence.md)
+- [Chapter 7 evidence notes](research/ch07-evidence.md)
 - [Source ledger](research/source-ledger.csv)
 - [Cooking queue](research/cooking-queue.md)
