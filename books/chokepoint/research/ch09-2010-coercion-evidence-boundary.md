@@ -28,4 +28,4 @@ This gives Chapter 9 stronger evidence than contemporary press accounts alone wi
 
 Eugene Gholz and Llewelyn Hughes treat the 2010 episode as a best-case test for sanctions effectiveness. Their peer-reviewed study finds that Japanese firms and markets adjusted in ways that limited the sanction's economic bite despite China's dominant position. Their broader point is that inventories, substitution, alternative suppliers, and downstream adjustment can make apparent supply power less decisive than concentration statistics suggest.
 
-Academic source: Eugene Gholz and Llewelyn Hughes, Market structure and economic sanctions: the 2010 rare earth elements episode as a pathway case of market adjustment
+Academic source: Eugene Gholz and Llewelyn Hughes, Market structure and economic sanctions: the 2010 rare earth elements episode as a pathway case of market
