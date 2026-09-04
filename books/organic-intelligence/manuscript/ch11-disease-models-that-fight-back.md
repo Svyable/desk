@@ -104,6 +104,38 @@ That is one of the highest forms of value an experimental system can provide.
 
 A good model is not a miniature confirmation machine.
 
+There is, however, a second standard that disease models have to meet before disagreement becomes trustworthy: they need to fail in recognizable ways.
+
+A platform that produces a functional phenotype in nearly every disorder it tests can look impressive and be scientifically weak. Some mutations should not produce a measurable network phenotype under the chosen protocol. Some compounds should do nothing. Some patient lines should refuse to separate cleanly from controls. A disease model becomes more credible when its negative results are interpretable rather than treated as technical disappointments.
+
+This means assay developers need an explicit map of failure modes.
+
+One failure is **absence**: the relevant disease biology may not be present in the model. A late-onset condition may require aging, immune activation, vasculature, peripheral metabolism, or environmental history that the organoid lacks. Another is **mis-timing**: the phenotype may exist, but only at a developmental stage the experiment never reaches. Another is **mis-scaling**: a change visible at the molecular or single-cell level may never organize into a stable network-level difference. Another is **over-sensitivity**: the platform may react so strongly to ordinary culture variation that a disease signal becomes impossible to distinguish.
+
+These failures are not interchangeable.
+
+A missing phenotype says something different from a noisy one. A phenotype that appears only after an artificial stressor says something different from one that emerges spontaneously. A drug response observed at concentrations impossible to reach safely in a patient says something different from one that occurs inside a plausible exposure range.
+
+The model earns authority by making those boundaries visible.
+
+This is where reference sets become important. A new disease platform should not be evaluated only on the disorder it was built to study. It should be challenged with related disorders, healthy controls, multiple donor backgrounds, known-effective interventions where they exist, known-ineffective interventions, and perturbations that ought to break the assay. The question is not merely whether the desired signal can be found. It is whether the platform behaves sensibly when the scientist knows what should happen.
+
+A model that is impossible to embarrass is impossible to validate.
+
+Cross-site transfer is the next test. If one laboratory can reproduce an electrophysiological phenotype only by using its own cell line, its own technician, its own matrix lot, and its own analysis pipeline, the result may still be excellent science. It is not yet infrastructure. A disease model becomes a platform when another site can implement the method, obtain comparable control behavior, reproduce the phenotype within a defined range, and detect treatment effects without private knowledge from the originating lab.
+
+This standard matters commercially because drug developers do not buy resemblance. They buy confidence that the model can reduce uncertainty in a decision.
+
+A platform may therefore be valuable even when it is imperfectly faithful to disease, provided it is consistently predictive for a narrow question. Conversely, a visually beautiful organoid that resembles human tissue in many dimensions can remain commercially weak if no one can show that its output improves target selection, safety assessment, or treatment ranking.
+
+The right validation target is downstream consequence.
+
+Does an in-vitro seizure-liability signature predict compounds known to create neurological risk? Does a patient-derived network response align with clinical drug response often enough to matter? Does a tumor-invasion model identify compounds whose effects survive into stronger models? Does a gene correction that rescues the dish phenotype also improve another independent measure of disease biology?
+
+No single answer will validate “organoids” as a category.
+
+Each model will earn or lose credibility in context.
+
 This has consequences for drug discovery culture. Target-based programs can become attached to a mechanistic story. Once years of work and capital have accumulated around a target, evidence that the system does not recover can be inconvenient. A functional human neural model can introduce a different kind of veto.
 
 The target moved. The network did not.
