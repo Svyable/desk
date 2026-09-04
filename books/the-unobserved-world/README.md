@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 20 of 20 drafted |
@@ -23,7 +23,7 @@ This is not an argument against prediction. It is an argument for recognizing a 
 
 The book follows that problem from the fundamental problem of causal inference into hiring, lending, medicine, education, recommendation systems, science funding, public policy, and organizational strategy. It asks when randomization is not indecision but instrumentation, when fairness requires exploration rather than equal treatment of a frozen model, and how institutions can preserve enough variation to discover people, treatments, ideas, and policies that their existing evidence has not yet learned how to value.
 
-All twenty chapter drafts, front matter, back matter, rights files, research brief, falsification notes, and source ledger are now in place. The Desk copy remains `Drafting` while the manuscript goes through its chapter-length expansion pass, final claim audit, shared catalog synchronization, and integrity checks before it can be considered a complete Desk-standard book.
+The complete Desk draft includes front matter, twenty chapters, back matter, a documented research trail with falsification notes, and matching rights metadata. Shelf publication remains a separate release decision.
 
 ## Editorial principles
 
