@@ -131,3 +131,41 @@ The answer would create another paradox for the biotech stack. The more the tiss
 Biotechnology was about to discover that self-organization is both a feature and a quality-control problem.
 
 But that problem could not exist until a skin cell learned how to forget what it had been.
+
+There is a second problem hidden inside that forgetting: sometimes a disease needs the cell to remember.
+
+Reprogramming is powerful partly because it resets a differentiated cell into a pluripotent state. The reset can also wash away age-associated features that matter for late-onset disease. A neuron generated from the skin of a seventy-year-old donor does not automatically behave like a seventy-year-old neuron. The genomic risk may remain while aspects of cellular aging have been rejuvenated by the route back through pluripotency.
+
+That limitation has produced an important counterstrategy in the broader field: direct conversion. Instead of pushing a somatic cell all the way back to pluripotency and then forward into a neural fate, researchers can in some settings convert cells more directly toward neurons. The attraction is conceptual even when the method is not appropriate for every use: preserve more of the donor cell’s age-associated state while gaining neural identity.
+
+The tradeoff reveals that there is no universally superior cell source.
+
+iPSCs provide renewability, broad differentiation potential, clonal expansion, gene-editing flexibility, and a route to organoids. Directly converted cells may preserve different aspects of biological age but offer different scaling and developmental properties. Primary human neural tissue can preserve native state better in some respects but is scarce and difficult to obtain. Immortalized lines are convenient and reproducible but biologically simplified.
+
+The right substrate depends on the question.
+
+This becomes especially important for organic intelligence because functional behavior can amplify small upstream differences. A modest shift in ion-channel expression, maturation, or synaptic composition can change network dynamics enough to look like a new phenotype. The farther the experimental claim moves from molecular description toward adaptive behavior, the more carefully the cell-source assumptions have to be stated.
+
+Isogenic controls help, but they do not eliminate this problem.
+
+Gene editing can create a line that differs from another at a targeted variant, making causal comparisons much cleaner. Yet edited clones still pass through cell culture, clonal selection, expansion, differentiation, and network formation. A corrected mutation does not guarantee a perfectly matched biological history. Multiple clones, reciprocal edits, and independent differentiations can strengthen the inference because the experiment becomes less dependent on one fortunate lineage.
+
+This is the deeper meaning of provenance.
+
+It is not a label attached to the freezer vial.
+
+It is a record of every transformation that could have changed what the later network means.
+
+A mature neural platform may therefore need something closer to a biological bill of materials. The final assay could point backward through the donor sample, reprogramming batch, genome checks, clone, passage history, differentiation run, maturation conditions, quality-control results, electrode assignment, and stimulation history.
+
+That level of traceability sounds excessive only until a result becomes important enough to reproduce.
+
+Once a neural model is used to stop a drug program, stratify patients, or support a regulatory submission, the question “which cells were these?” stops being clerical.
+
+It becomes causal.
+
+The skin cell did not literally forget what it had been.
+
+Scientists changed which parts of its biological possibility were accessible.
+
+The biotech stack begins by keeping track of what was lost, what was preserved, and what was built afterward.
