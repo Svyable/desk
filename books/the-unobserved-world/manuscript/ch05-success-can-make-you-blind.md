@@ -153,3 +153,29 @@ The strongest organizations are often described as learning organizations. The p
 If every action is chosen to confirm the current model's highest expectation, the model may keep winning.
 
 It may also stop competing against the future.
+
+There is a temporal trap inside this success that deserves its own name, even if the organization never puts the name on a slide. An exploitative system can become progressively better at the questions whose answers arrive quickly while its ignorance migrates toward questions with long lead times. The shift is almost invisible. One product team learns weekly. A new market might take three years to understand. One hiring funnel produces interview metrics in days. Leadership development takes a decade. One recommendation policy produces clicks instantly. Cultural fatigue appears slowly. The faster loop comes to look more scientific because it produces more evidence per unit time.
+
+But evidence velocity and strategic importance are different quantities.
+
+An organization can know a great deal about the next thirty days and less every year about the next five years. Success makes that imbalance comfortable because the near-term evidence remains reassuring. The institution is not merely exploiting a known option. It is choosing the time horizon on which it is willing to be surprised.
+
+This helps explain why exploration budgets disappear during good periods. When the core business is weak, alternatives are allowed because the opportunity cost is low. When the core business is strong, every exploratory dollar has to compete with a known return. The better the exploitation engine becomes, the higher the internal hurdle rate for curiosity.
+
+That creates a paradox. The organization has the greatest financial capacity to explore at the moment when exploration looks least necessary.
+
+A durable exploration policy should therefore be countercyclical to confidence. It does not need to spend recklessly when times are good. It needs to preserve the capability to ask questions whose payoff cannot yet match the mature business on a spreadsheet. That capability may be a small technical team, a pilot budget, a partnership with outsiders, a protected research portfolio, a rotating set of test markets, or simply permission to gather direct evidence before a new category is dismissed.
+
+The protection matters more than the size.
+
+Without it, local optimization consumes the portfolio one decision at a time. Each experiment looks slightly worse than the known alternative. Each manager makes a sensible choice. Eventually the organization discovers that the only things left to choose are variations of what it already knows.
+
+Success has not made the institution stupid.
+
+It has made ignorance difficult to finance.
+
+That is a more precise danger because it points toward a remedy. The company does not need a cult of failure. It needs accounting that recognizes information as an asset, governance that distinguishes negligent variance from bounded discovery, and memory that allows a failed experiment to remain valuable after the team is gone.
+
+The test of a successful learning organization is not whether it celebrates experiments.
+
+It is whether success itself leaves enough room for reality to disagree.
