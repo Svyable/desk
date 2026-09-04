@@ -256,8 +256,32 @@ Consent after reprogramming is therefore not consent to a specimen.
 
 It is consent to a lineage of possible models.
 
+The final design question is accountability when those permissions are violated or become ambiguous.
+
+A machine-readable consent code is useful only if someone is responsible for enforcing it. A line can move through a repository, a university, a contract laboratory, and a commercial platform. At each handoff, restrictions can be translated, simplified, or misunderstood. Governance needs an audit trail as durable as the biological provenance trail.
+
+This suggests that future cell-line infrastructure may need permission versioning.
+
+The original consent remains the historical source. Later governance decisions can clarify whether a new use falls inside it, whether additional review was required, and which restrictions traveled downstream. If a donor later withdraws from future identifiable use, that change can be recorded prospectively without pretending already published data can be erased.
+
+The point is not to turn consent into software licensing.
+
+It is to prevent the ethical meaning of the sample from becoming detached from the sample as the biology becomes more technically sophisticated.
+
+Incident handling matters here too. If a line is used outside its permitted scope, the response should not end with correcting a database field. The institution may need to determine whether derived material should be quarantined, whether downstream partners must be notified, whether data can continue to be used, and whether the donor should be informed.
+
+Those decisions are context dependent, but the system should make them possible.
+
+A platform that treats donor restrictions as part of immutable provenance can detect conflicts before an experiment launches. A remote user requesting a prohibited use can be blocked at scheduling rather than after publication.
+
+This is one place where infrastructure can embody ethics without outsourcing ethical judgment to code.
+
+Software enforces a rule that humans defined through consent and governance.
+
+Humans still decide what the rule means when a new capability appears.
+
 The donor gives material at one moment.
 
 Biotechnology gives that material a future.
 
-The ethical obligation is to make sure the future does not silently outrun the permission that began it.
+The ethical obligation is to make sure the future does not silently outrun the permission that began it—and that the permission remains attached when the cells travel farther than the donor ever will.
