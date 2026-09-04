@@ -50,6 +50,7 @@ The manuscript treats AI robustness as an operating philosophy built around six 
 - [x] [Ch 20 — Sturdy, Not Still](manuscript/ch20-sturdy-not-still.md)
 
 ### Part VI — Robustness at Scale
+- [x] [Interlude — The Stress Test](manuscript/interlude-the-stress-test.md)
 - [x] [Ch 21 — The Memory Tax](manuscript/ch21-the-memory-tax.md)
 - [x] [Ch 22 — The Apprenticeship Gap](manuscript/ch22-the-apprenticeship-gap.md)
 - [x] [Ch 23 — Common-Mode Failure](manuscript/ch23-common-mode-failure.md)
@@ -57,6 +58,7 @@ The manuscript treats AI robustness as an operating philosophy built around six 
 - [x] [Ch 25 — After the Frontier](manuscript/ch25-after-the-frontier.md)
 
 ### Part VII — Field Tests
+- [x] [Interlude — Into the Field](manuscript/interlude-into-the-field.md)
 - [x] [Ch 26 — The Update That Moved Too Fast](manuscript/ch26-the-update-that-moved-too-fast.md)
 - [x] [Ch 27 — Forty-Five Minutes](manuscript/ch27-forty-five-minutes.md)
 - [x] [Ch 28 — The Backup That Wasn’t](manuscript/ch28-the-backup-that-wasnt.md)
