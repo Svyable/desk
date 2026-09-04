@@ -114,13 +114,7 @@ A bust can therefore leave behind an option.
 
 The option may remain out of the money for years. It may never be exercised. But if prices rise, technology improves, infrastructure changes, or strategic policy lowers the cost of financing, a brownfield project can return to the queue with years of uncertainty already retired.
 
-This is the more precise meaning of stranded capital.
-
-Some capital is dead.
-
-Some is sleeping.
-
-The difficult part is that nobody knows which kind at the moment the gate closes.
+Stranded capital is therefore too blunt a label. Some assets are genuinely dead; others are dormant options, waiting on a price, technology, or financing regime that nobody can confidently forecast when the gate closes.
 
 That uncertainty changes investment behavior across the whole industry. After a bust, investors remember the projects that opened late and lost money quickly. Management teams become cautious. Exploration budgets shrink. Marginal projects are deferred. Companies prefer expansions at existing operations to heroic greenfield bets. Balance sheets are repaired.
 
