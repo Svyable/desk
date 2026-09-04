@@ -331,3 +331,103 @@ This is not the end of the AI control problem.
 It is the beginning of a workable economy around it.
 
 The containment dividend is the value created when institutions stop trying to make intelligence small enough to trust and start making authority precise enough to delegate.
+
+There is a further dividend that does not show up in the first deployment spreadsheet.
+
+Good containment makes experimentation cheaper.
+
+Consider two companies trying to automate procurement. Both have an agent capable of reading requests, comparing suppliers, negotiating routine terms, and preparing a purchase. The first company gives the agent a broad purchasing account because integrating finer controls would take time. Every experiment therefore carries a quiet tail risk. A mistaken interpretation, a hostile document, a credential leak, or a bad sequence of retries can reach the real purchasing system with the authority of the account. The company responds rationally: small pilot, heavy supervision, few categories, lots of meetings.
+
+The second company starts with a brokered mandate. The agent can quote broadly but can commit only inside a narrow category, budget, vendor set, and time window. New suppliers require a separate transition. Nonstandard contract language routes to review. Every commitment is attributable to a task lineage. A failed pilot can be revoked without changing the purchasing authority of every human on the team.
+
+The second company has not removed risk. It has changed the cost of being wrong.
+
+That difference compounds.
+
+Teams run more experiments when failure is bounded. They try more workflows. They discover which approvals are actually necessary and which were historical residue. They learn where agents are reliable and where human judgment still carries unusual value. They can give one business unit more autonomy without granting the same power everywhere. Containment becomes an instrument for organizational learning.
+
+This matters because the early economics of agents will be dominated by uncertainty. No benchmark can tell a company exactly how an agent will interact with its peculiar collection of old databases, unwritten practices, vendor relationships, exceptions, and human habits. The organization has to learn by operating.
+
+The speed of that learning depends on whether mistakes are survivable.
+
+There is an analogy to software deployment. Teams that can roll back safely can ship smaller changes more often. Teams that fear every release because rollback is uncertain accumulate giant batches, long freezes, and ceremonial approvals. The apparent caution can make the system less safe because each change becomes rarer, larger, and harder to understand.
+
+Agent deployment can fall into the same trap.
+
+If every increment of autonomy is irreversible, autonomy will arrive in large political jumps. A leader will finally approve the broad permission. A department will connect the powerful account. A vendor will promise that the model is ready. Then the institution will discover in production what it did not learn gradually.
+
+Reversible delegation supports smaller steps.
+
+Read before write.
+
+Recommend before commit.
+
+Commit within a budget before commit without one.
+
+One domain before many.
+
+One hour before one week.
+
+One agent before a population.
+
+The sequence is not a universal maturity ladder. The point is that architecture can make authority incremental.
+
+Incremental authority creates option value.
+
+A company can stop when evidence weakens. It can expand when evidence strengthens. It can compare operating modes without rebuilding the identity system each time. It can treat autonomy as a variable rather than a binary corporate decision.
+
+That option value will matter to capital allocation.
+
+Boards and finance teams do not merely ask whether a project has upside. They ask how much downside must be accepted before the upside becomes visible. A containment architecture that caps exposure changes the answer. The project can be funded in stages because the institution can purchase information about performance without purchasing unlimited risk at the same time.
+
+This is how safety turns into finance.
+
+A bounded authority surface is not only a security property. It is a way to know the maximum amount the experiment can cost before secondary effects. A revocation path is not only an incident-response feature. It is a way to shorten the duration of an error. Independent evidence is not only an audit feature. It is a way to decide whether the next increment of autonomy is justified.
+
+Over time, organizations may learn to compare agent systems less by raw benchmark score and more by what might be called authority-adjusted productivity: how much valuable work can be completed per unit of consequential authority exposed.
+
+The phrase should not become another fake-precision metric. Different consequences cannot be reduced honestly to one universal number. A thousand-dollar purchasing error and an unauthorized disclosure of sensitive medical data are not interchangeable units. But the underlying management question is sound.
+
+How much authority did we have to expose to get this work done?
+
+A system that completes the task while borrowing less may be economically superior even if it reasons more slowly or costs more per token.
+
+This creates pressure for interoperability.
+
+Today, every platform can invent its own idea of an agent scope. That works while agents live mostly inside one vendor. It works less well when a task crosses a bank, an email provider, a cloud platform, a travel service, a code host, and an enterprise application. If every boundary translates mandate differently, the weakest translation becomes the place where authority expands.
+
+The economic upside of agents therefore points toward shared delegation primitives: ways to express sponsor, purpose, duration, budget, lineage, revocation, and consequence across institutions without handing the agent the human's whole identity.
+
+Those primitives will not be glamorous. They may look like the dull plumbing of identity standards, payment rails, policy languages, and audit formats.
+
+That is exactly why they can become valuable.
+
+The internet became economically powerful when strangers could transact through layers of protocol they did not have to reinvent for every encounter. An agent economy will need a similar substrate for delegated action.
+
+And once that substrate exists, a strange thing happens to the safety debate.
+
+The question stops being whether powerful AI should be permitted to act in the world.
+
+It becomes which mandates are worth issuing, under what terms, with what evidence, and with what recourse.
+
+That is a healthier question because institutions already know how to argue about mandates. They do it badly sometimes. They do it politically. They do it unevenly. But budgets, charters, roles, licenses, contracts, fiduciary duties, and approvals are all technologies for separating capability from authority.
+
+Agents force those technologies to become executable.
+
+The containment dividend is therefore larger than fewer incidents.
+
+It is the ability to learn faster without betting the institution each time.
+
+It is the ability to finance autonomy in increments.
+
+It is the ability to compare systems by the authority they require, not only the intelligence they display.
+
+It is the ability to build a market in which trustworthy delegation is a source of competitive advantage.
+
+And it is the possibility that the strongest safety architecture will eventually be chosen not because somebody ordered companies to fear advanced intelligence, but because it lets them use more of that intelligence than weaker architectures can safely afford.
+
+That is the commercial end state worth aiming for.
+
+Not intelligence made timid.
+
+Authority made precise.
