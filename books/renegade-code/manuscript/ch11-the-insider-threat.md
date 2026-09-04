@@ -283,3 +283,45 @@ It requires us to stop treating software as if possession of a credential settle
 The agent is already inside.
 
 That is why the inside must have structure.
+
+The analogy becomes more useful when we ask what a mature insider program would refuse to do. It would not make one annual background check the permanent justification for every future privilege. It would not give a new employee all possible access because the employee might need it someday. It would not let the employee modify the surveillance system that investigates the employee. It would not treat a manager's vague approval as authorization for any transaction that can later be described as related.
+
+Agent systems still drift toward each of those patterns because software makes broad delegation cheap.
+
+A model can be evaluated once, assigned a general service identity, connected to an expanding tool set, and surrounded by monitoring it can partly influence through the same infrastructure. Each individual decision can look reasonable. The resulting role resembles a privileged insider whose job description changes continuously while access reviews remain static.
+
+A better role record should therefore be executable enough to compare intention with reality. If the role says the agent may diagnose service X and restart it, the surrounding system should be able to show which resources, identities, destinations, and durable actions that mandate currently reaches. A new integration that makes another environment reachable should appear as a role change even if nobody edited the role text.
+
+This is how capability upgrades and infrastructure drift become visible in the same review process.
+
+The same record can support offboarding. Human organizations often discover stale access when an employee changes jobs or leaves. Agent platforms can do better because tasks and roles are machine-managed from the beginning. When a role ends, its renewable credentials, child identities, scheduled work, browser delegations, and task-scoped memory should have a defined retirement path.
+
+If offboarding an agent requires an incident investigation every time, the authority model is already too implicit.
+
+There is also a lesson from privileged-access management: the administrator's ordinary identity and privileged identity should not be the same thing used continuously. Elevated authority is requested for a purpose, used for a bounded interval, recorded, and then dropped.
+
+Agents fit this pattern unusually well. They already operate through tasks with beginnings, intermediate states, and endings. High privilege can attach to the step rather than the personality. The same model can spend most of its time under low authority and receive a narrow elevated capability only when external evidence justifies the transition.
+
+This reduces the value of long-term behavioral reputation as a security primitive. A reliable history can still matter for routing and oversight, but the system no longer has to transform “this agent has behaved well” into “this agent should permanently hold more keys.”
+
+Insider programs also care about collusion, not only solitary abuse. Two employees who each lack enough authority may combine it. Agent systems can create a similar effect accidentally when separate workers possess complementary permissions and share a workspace or coordinator.
+
+The correct response is not to assume every multi-agent system is colluding. It is to review whether separation of duties survives communication. If one worker can propose a transaction and another can approve it, are they genuinely independent if both are descendants of the same task, use the same model, consume the same manipulated context, and are rewarded by the same objective?
+
+Organizational separation on a diagram is weaker than causal independence.
+
+For high-consequence gates, independence may require different trust roots: a policy service the task cannot modify, a monitor using evidence outside the shared workspace, a human principal with primary data, or a separately governed system. Simply naming one agent “maker” and another “checker” does not create dual control.
+
+This is a familiar lesson from fraud prevention. Two signatures matter because they represent two accountable decision points, not because the form contains two boxes.
+
+The same standard should apply to automated review.
+
+Finally, the insider frame clarifies what an incident should teach the organization. The purpose of the postmortem is not to determine whether the model belongs on a permanent list of “bad actors.” The purpose is to identify which role, conversion, approval, monitoring, or revocation assumption allowed one unexpected behavior to become consequential.
+
+Models will change too quickly for character files to be a durable control.
+
+Institutions can change more slowly, but that is also their strength. A well-designed institution can preserve lessons across model generations. It can decide that no task lineage modifies its own auditor, that privileged credentials always expire, that customer funds require independently verified transaction context, and that agent-created identities remain attributable to a sponsor.
+
+Those controls survive replacement of the model because they are properties of the workplace.
+
+That is ultimately what the insider analogy gives us: not a reason to fear the worker, but a reason to build the workplace so trust is useful without becoming absolute.
