@@ -313,3 +313,57 @@ That is the physics coordination changes.
 One agent can be stopped.
 
 An organization has to be governed.
+
+The first governance question is whether the population has a constitution or merely an orchestrator. An orchestrator tells workers what to do. A constitution defines what no arrangement of workers can do without outside authority.
+
+The distinction matters when the system can reorganize itself. A planner may decide that one worker is too slow and replace it. It may increase parallelism, change task decomposition, or route a subproblem to a stronger model. Those are legitimate forms of adaptation. The containment envelope should survive them.
+
+If switching to a different model silently grants new network access, the constitution moved with the scheduler. If spawning a specialist causes a broader service account to be attached, organization became privilege escalation. If a critic can be removed whenever it disagrees, oversight is merely advisory.
+
+A population-level safety case should therefore be invariant under ordinary reorganization. Workers may come and go; lineage budgets remain. Models may change; high-consequence gates remain. A task may split into a hundred branches; descendants remain attributable to the same sponsor. Shared memory may grow; trust labels and quarantine controls remain attached to the artifacts.
+
+This makes orchestration easier to innovate because the most consequential rules do not depend on one topology.
+
+The second question is how populations fail under correlated pressure. Multi-agent designs often improve performance because workers explore alternatives independently. But independence can collapse when all workers consume the same poisoned source, inherit the same mistaken assumption, or receive the same goal phrased in the same way.
+
+A safety test should therefore inject failures above the worker level. What happens when shared memory contains a malicious instruction? When the orchestrator misclassifies the task? When the common credential broker is unavailable? When a policy update is stale in half the fleet? When a monitor model shares the same blind spot as the workers it reviews?
+
+The goal is not to produce a perfect distributed system. It is to see whether the population fails coherently in a dangerous direction.
+
+Correlated failure deserves different controls from individual error. Adding more voters does not help if every voter reads the same false evidence. Adding more workers can worsen the incident if each worker amplifies one bad instruction. The defense may be source diversity, isolation domains, protected policy roots, or simply a circuit breaker that limits how much authority one shared fact can mobilize before independent confirmation.
+
+There is a useful analogy in public health. A population can be resilient because individuals are diverse and infections do not spread freely. It can also be fragile because one pathogen exploits a common pathway. The relevant property is not the number of bodies. It is the transmission structure.
+
+For agents, transmission happens through memory, prompts, artifacts, shared credentials, orchestration messages, and external events. Each channel can carry useful coordination and correlated error at the same time.
+
+This is why provenance on inter-agent communication matters. A worker receiving a claim from another worker should be able to distinguish that claim from a fact observed independently through a trusted tool. A planner should know whether five workers confirmed something from five sources or whether four summarized the first worker's note.
+
+Without that distinction, the population can manufacture consensus from repetition.
+
+The same problem appears in monitoring. A lineage-level detector should be careful not to count ten identical model judgments as ten pieces of evidence. Confidence should reflect independence of sources, not volume of agreement.
+
+The third question is how the population shrinks. Systems are designed enthusiastically for spawning and less carefully for retirement. Workers finish, fail, time out, or become unnecessary. Their temporary identities, queued messages, scratch spaces, and delegated capabilities should disappear with them unless a durable artifact has been intentionally promoted.
+
+Otherwise every population leaves sediment.
+
+Over time, that sediment becomes authority debt: old worker accounts, forgotten queues, persistent stores, cached credentials, abandoned cloud resources, and notes future agents may still retrieve. A platform can be perfectly bounded during one run and become porous after a year of residue.
+
+Population garbage collection should therefore be part of ordinary operation, not reserved for incidents. When a lineage closes, the system can reconcile what was created, revoke what remains renewable, expire temporary state, preserve required evidence, and promote only the outputs the institution intends to keep.
+
+The distinction between completed output and surviving worker matters. A research report may remain. The worker's browser session should not. A tested patch may remain. The temporary deployment identity should not. A customer case history may remain. The agent's unused refund capability should not.
+
+This is how an organization of machines can finish work without leaving a trail of miniature institutions behind it.
+
+The final governance question is accountability across organizational boundaries. Multi-agent systems may recruit workers from different vendors or services. One task can become a temporary federation: a planner from one provider, a coding model from another, a browser service elsewhere, an external memory store, and a cloud function running the tools.
+
+The sponsor still needs one coherent answer to who was authorized to do what.
+
+A distributed implementation should not create distributed responsibility. The task lineage can carry a sponsor, purpose, authority budget, and revocation point across providers even when execution moves. External services can receive only the slice of authority needed for their part and return evidence that can be attached to the same history.
+
+This will be harder than doing everything under one account. It is also the architecture an agent economy will eventually demand.
+
+Coordination creates remarkable leverage because no worker needs to contain the whole capability of the organization.
+
+Containment has to inherit the same insight.
+
+No single guardrail needs to understand the whole organization either, provided the population cannot assemble a route around all of them.
