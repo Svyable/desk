@@ -85,6 +85,18 @@ Anthropic's 2025 work on auditing hidden objectives constructed a model organism
 
 Anthropic's earlier reward-tampering experiments show why training away obvious specification-gaming behavior should not automatically be treated as eliminating deeper incentive problems. Use this later only if needed; avoid importing the paper's more severe threat model into ordinary organizational examples.
 
+### 11. Goodhart's original point is adaptive, not merely rhetorical
+
+The Reserve Bank of Australia's bibliography identifies Charles Goodhart's 1975 paper *Problems of Monetary Management: The U.K. Experience* as containing the first reference to what became known as Goodhart's Law. Use the original monetary-policy setting to emphasize that targeted statistical relationships change when actors adapt to control pressure. Do not present the popular one-line formulation as a verbatim quotation from the paper.
+
+### 12. Recommendation systems can create data that reinforces their own earlier choices
+
+Mansoury et al. studied simulated multi-round feedback in recommenders and found amplification of popularity bias alongside declining aggregate diversity and homogenization effects. Use this as a concrete dynamic example in Chapter 10. Keep it scoped to the studied algorithms and simulation setup.
+
+### 13. Recursive synthetic training is about loss of distributional support, not a blanket ban on synthetic data
+
+The Nature model-collapse paper should carry Chapters 11 and 12. Its strongest relevance here is that low-probability parts of the original distribution can disappear early under indiscriminate recursive training, while retaining original data mitigated degradation in the studied language-model setup. The manuscript should repeatedly distinguish this from curated synthetic augmentation or mixed real/synthetic pipelines.
+
 ## Falsification notes
 
 The thesis weakens if any of the following turn out to dominate:
@@ -120,7 +132,9 @@ The manuscript should look for evidence against its own mechanism. A bestseller 
 - **Ch. 6 — Synthetic Consensus:** FTC Reviews and Testimonials Rule; independent experience versus cheap multiplicity; social proof as compressed evidence.
 - **Ch. 7 — Climbing the Wrong Hill:** DeepMind specification gaming; Stanford 2026 benchmark saturation and evaluation reliability; proxy maintenance.
 - **Ch. 8 — Reward Hacking the Room:** Anthropic sycophancy research and hidden-objective model organism; evaluator adaptation; preserving external channels of disagreement.
-- **Ch. 9–10:** Goodhart effects, feedback loops, institutional metrics, and endogenous behavior changes after measurement becomes a target.
-- **Ch. 11–12:** recursive synthetic data, model collapse, tail preservation, rare-event value.
-- **Ch. 13–18:** flooding, manufactured evidence, costly verification, the economics of real-world observation.
+- **Ch. 9 — Goodhart's Machine:** Goodhart's 1975 monetary-policy context; targeted measures as causal interventions; holdout judgment and metric maintenance.
+- **Ch. 10 — The Feedback Loop:** recommender-system feedback and popularity bias; endogenous behavioral data; exploration versus self-confirmation.
+- **Ch. 11 — Training on the Echo:** Nature model-collapse evidence; recursive synthetic training; data genealogy and value of external observations.
+- **Ch. 12 — Collapse at the Edges:** tail loss, rare-event preservation, minority/exception coverage, and the rising value of edge sensors.
+- **Ch. 13–18:** flooding, manufactured evidence, costly verification, and the economics of real-world observation.
 - **Ch. 19–24:** provenance, friction, audit design, trusted networks, adversarial evaluation, and institutions that reward surprise rather than conformity.
