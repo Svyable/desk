@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Drafting |
-| **Chapters** | 21 of 21 drafted |
+| **Status** | Complete draft · Published on Shelf |
+| **Chapters** | 21 of 21 drafted + coda |
 | **Shelf edition** | [Published](https://svyable.github.io/shelf/reader/#/b/the-compatibility-dividend/) |
 
 How Standards Turn Strangers Into Systems.
@@ -37,6 +37,7 @@ The argument is deliberately two-sided. Standards can enlarge markets, portabili
 - [x] [Ch 19 — Where to Draw the Seam](manuscript/ch19-where-to-draw-the-seam.md)
 - [x] [Ch 20 — The Compatibility Trap](manuscript/ch20-the-compatibility-trap.md)
 - [x] [Ch 21 — The Right to Exit](manuscript/ch21-the-right-to-exit.md)
+- [x] [Coda — The Freedom to Replace](manuscript/coda-the-freedom-to-replace.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
