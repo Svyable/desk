@@ -19,6 +19,8 @@ The manuscript organizes practical robustness around six recurring properties:
 - **Substitutable dependencies** — critical functions are not inseparable from a single model, interface, employee, vendor, or data representation unless there is a conscious reason.
 - **Tested fallbacks** — degraded modes are exercised before an emergency proves they were imaginary.
 
+Part VI extends the thesis beyond immediate workflow design. It asks whether organizations preserve decision memory after AI makes retrieval easy, how experts are reproduced when junior production work is automated, where apparently diverse systems share common failure modes, whether dependence remains chosen when practical exit disappears, and what robustness becomes once AI is ordinary infrastructure rather than a special project.
+
 ## Core empirical tests
 
 1. **Capability versus reliability:** How much does frontier capability growth tell us about dependable performance on specific production tasks?
@@ -31,6 +33,11 @@ The manuscript organizes practical robustness around six recurring properties:
 8. **Organizational learning:** What structures let institutions update rapidly without turning every new model release into a reorganization?
 9. **Redundancy economics:** Where is redundancy rational insurance, and where is it expensive theater?
 10. **Reversibility:** How should organizations price the value of being able to undo an AI adoption decision when future capability and regulation are uncertain?
+11. **Decision memory:** Does AI-mediated search and summarization improve institutional recall while weakening preservation of assumptions, dissent, provenance, and review triggers?
+12. **Apprenticeship:** Which learning functions were historically bundled into junior production work, and how can they be recreated without preserving obsolete chores?
+13. **Common-mode failure:** Where do nominally diverse models, vendors, reviewers, and data sources actually share causes of failure?
+14. **Exitability:** What makes a migration, appeal, or provider switch operationally credible rather than contractually possible but practically unusable?
+15. **Post-frontier operations:** Which robustness controls survive the handoff from expert builders to ordinary operators after AI becomes infrastructure?
 
 ## Falsification and counter-evidence
 
@@ -44,6 +51,11 @@ Every part of the book should look for evidence against its instincts.
 - Redundancy can multiply attack surfaces, operational complexity, and inconsistent states.
 - Fast adoption can itself be robust when the implementation is modular, observable, reversible, and backed by good evaluation.
 - The best way to survive a moving frontier may sometimes be to embrace a new capability quickly rather than hedge against it.
+- Deep institutional memory can become surveillance, bureaucracy, or stale-policy preservation if retention is treated as an unconditional good.
+- Purpose-built training can fail to reproduce the tacit learning that once occurred in real work; the apprenticeship argument should not assume simulation is equivalent to consequence.
+- Independent systems can be materially worse than a shared high-quality standard; diversity is not automatically robustness.
+- Switching costs can reflect valuable specialization rather than abusive lock-in, and deep commitment can create more value than perpetual portability.
+- Mature infrastructure may rationally remove old fallbacks once the expected cost of maintaining them exceeds the failure they protect against.
 
 The book should not turn robustness into conservatism. A system that never changes can be perfectly stable right up to the moment its environment makes it irrelevant.
 
@@ -77,6 +89,18 @@ Use research on automation bias, skill decay, expertise, deliberate practice, an
 
 Study interface contracts, modular design, open data formats, exportability, and migration patterns. Avoid simplistic “multi-cloud everything” prescriptions. The question is which boundaries preserve valuable choices at acceptable cost.
 
+### VIII. Institutional memory and apprenticeship
+
+Study decision records, provenance, retention, organizational learning, expertise formation, deliberate practice, and human–AI teaming. Keep a hard distinction between a useful manuscript mechanism and an empirically established universal result. The Part VI chapters should be especially careful not to turn plausible design principles into fake quantitative laws.
+
+### IX. Correlated failure and system-level concentration
+
+Use reliability engineering to reason about common dependencies, but test AI-specific claims separately. Shared models, data, orchestration, evaluation sets, cloud infrastructure, reviewer interfaces, or framing assumptions can create correlation; evidence should identify the actual shared layer rather than infer systemic risk from market concentration alone.
+
+### X. Exit, contestability, and infrastructure maturity
+
+For any concrete legal or regulatory claim about portability, interoperability, appeals, competition, or rights, use current primary law or regulator sources at release time. The manuscript’s broader claim — that usable exits preserve agency — is normative and architectural, not itself a statement of existing law.
+
 ## Planned figures
 
 1. **The moving ground** — model capability, cost, and lifecycle changes on different clocks.
@@ -87,6 +111,10 @@ Study interface contracts, modular design, open data formats, exportability, and
 6. **Graceful degradation ladder** — frontier model → smaller model → deterministic tool → manual process → safe stop.
 7. **Dependency map** — models, data, prompts, tools, identity, permissions, vendors, humans, and external systems.
 8. **The robustness portfolio** — efficiency on one axis, optionality on the other, with examples of over- and under-engineering.
+9. **Decision memory stack** — source evidence → decision record → generated summary → current policy, showing what must remain recoverable.
+10. **The apprenticeship replacement loop** — prediction → machine reveal → disagreement → feedback → shadow responsibility → live authority.
+11. **The common-mode map** — visibly separate AI paths collapsing onto shared model, data, identity, infrastructure, or evaluation dependencies.
+12. **Credible exit** — raw data export versus semantic continuity, tested migration, and degraded operating paths.
 
 ## Chapter-to-evidence map
 
@@ -112,14 +140,20 @@ Study interface contracts, modular design, open data formats, exportability, and
 | 18 — Redundancy Is Not Waste | Where does deliberate duplication buy survival rather than bureaucracy? |
 | 19 — The Sturdy Institution | What organizational structures learn quickly without surrendering accountability or memory? |
 | 20 — Sturdy, Not Still | What practical compact lets people move aggressively without making themselves brittle? |
+| 21 — The Memory Tax | How can an institution use AI to retrieve and compress history without allowing summaries or assistants to become the only durable memory? |
+| 22 — The Apprenticeship Gap | How does an organization reproduce expert judgment after automating the junior production work that once doubled as training? |
+| 23 — Common-Mode Failure | Which apparently separate safeguards, providers, models, reviewers, and forecasts can fail together because they share a hidden dependency? |
+| 24 — The Right to Exit | What makes staying with a valuable dependency remain a choice rather than a form of practical captivity? |
+| 25 — After the Frontier | What does robustness become when AI shifts from special technology program to ordinary institutional infrastructure? |
 
 ## Source discipline
 
 - Prefer original reports, official lifecycle documents, standards, academic papers, and primary datasets.
 - Date volatile statistics and provider policies.
-- Distinguish model capability, model reliability, workflow reliability, and institutional reliability.
+- Distinguish model capability, model reliability, workflow reliability, institutional reliability, and system-level correlated failure.
 - Treat vendor-produced economic studies as useful but interested evidence; label them accordingly.
 - Never infer reliability from a single benchmark score.
 - Record the exact task, model version, evaluation setup, and access date when using fast-moving technical results.
 - Do not quote source prose unless necessary. Paraphrase mechanisms and preserve links in the source registry.
 - For every prescription, ask what cost it adds and what failure it is meant to survive.
+- For every Part VI claim about memory, apprenticeship, common-mode failure, exit, or infrastructure, distinguish normative design advice from empirical claims that require independent support.
