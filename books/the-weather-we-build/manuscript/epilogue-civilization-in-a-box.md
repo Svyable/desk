@@ -64,6 +64,20 @@ A thing that can carry its required environment with it becomes mobile.
 
 A thing whose environment can be cheaply reproduced becomes scalable.
 
+A thing redesigned to tolerate more of the world may need less environmental machinery at all.
+
+That last possibility matters.
+
+The history of manufactured weather is not a one-way march toward tighter boxes.
+
+Sometimes civilization advances by building a better environment around the machine.
+
+Sometimes it advances by building a better machine for the environment already there.
+
+The mature question is not how much control we can buy.
+
+It is how much control the capability actually deserves.
+
 This is why the box matters.
 
 The shipping container standardized geometry and made cargo easier to move through a global system.
@@ -89,6 +103,48 @@ A box for manufacturing.
 A box for medicine.
 
 A box for human survival in places where the surrounding climate is hostile.
+
+But every box sends an invoice outward.
+
+Heat has to go somewhere.
+
+Power has to come from somewhere.
+
+Filters become waste.
+
+Water is moved, purified, evaporated, recovered, or discharged.
+
+Refrigerants have to remain contained and eventually be serviced.
+
+Parts wear.
+
+Sensors drift.
+
+Doors open.
+
+Seals age.
+
+The clean boundary is an achievement maintained by untidy systems on both sides of it.
+
+This is the heat debt and the maintenance paradox in one picture.
+
+The more seamless the environment feels, the easier it is to forget the energy and people required to keep it seamless.
+
+A controlled room is not merely a machine.
+
+It is a machine plus a schedule.
+
+A spare-parts shelf.
+
+A calibration history.
+
+An alarm philosophy.
+
+A technician who knows which noise is normal.
+
+A night shift that turns *can work* into *keeps working*.
+
+Civilization is full of triumphs that look like objects but survive as routines.
 
 This does not mean the world becomes a collection of sealed pods.
 
@@ -121,6 +177,30 @@ The nested climate becomes the unit of resilience.
 The world outside changes.
 
 The world inside tries to hold.
+
+Yet the logic has a boundary of its own.
+
+A cleanroom works because there is an outside to push contamination toward.
+
+A refrigerator works because there is somewhere else to reject heat.
+
+A spacecraft works because supplies, energy, machinery, and maintenance are arranged around a finite inhabited volume.
+
+At planetary scale, the comforting geometry disappears.
+
+There is no service alley outside Earth.
+
+No external atmosphere to borrow.
+
+No second ocean to receive the first one's mistakes.
+
+The lesson of the box is therefore not planetary confidence.
+
+It is planetary humility.
+
+Local control is powerful because local boundaries make intervention legible.
+
+The most important environmental system civilization depends on is the one it did not build and cannot sensibly replace room by room.
 
 This is not conquest of nature.
 
@@ -178,13 +258,29 @@ The machines make heat.
 
 The building has to move the heat somewhere.
 
+Somebody has to keep the building doing it tomorrow.
+
 The weather outside is waiting.
+
+And sometimes the best answer is not a stronger wall between machine and world.
+
+It is a machine that can live with more of the world.
+
+That is the final balance.
+
+Control when control creates capability.
+
+Robustness when robustness removes needless dependence.
+
+Maintenance because neither remains real without continuity.
+
+Humility because every local victory still occurs inside a larger system we did not manufacture.
 
 Civilization is not becoming less physical.
 
-It is becoming more precise about which parts of physics it wants to experience.
+It is becoming more deliberate about which parts of physics it must control, which parts it can tolerate, and which parts it has no substitute for.
 
-That precision is the story.
+That is the story.
 
 We build a box.
 
