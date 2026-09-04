@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 82 book projects · 42 complete drafts · 2 in revision · 38 drafting**
+> **Desk: 83 book projects · 42 complete drafts · 2 in revision · 39 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 41 Desk-only · 0 Shelf-only**
+> **Where they live: 41 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
 > **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -88,13 +88,14 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
-| [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 10 of 20 | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
+| [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 drafted | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Commit**](books/commit/) | ✅ Complete draft | 22 of 22 | — | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a numbered sequence… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 76,091 | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 | 65,156 | The United States does not face a single $10 trillion bill arriving on one morning. | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | 21 of 21 | 74,700 | The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
+| [**Gradient Ascent**](books/gradient-ascent/) | ✍️ Drafting | 4 of 24 drafted | — | The working thesis is that generative AI changes the information problem from scarcity to saturation. | [Read →](https://svyable.github.io/desk/reader/#/b/gradient-ascent/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | 17 of 17 + prologue + conclusion | 43,255 | Intelligence State follows that transformation across the Americas and asks a harder question than who builds the best model: who can make intelligence abundant without making sovereignty… | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | 25 of 25 | 65,845 | The manuscript now carries an afterword for the August 30, 2026 threshold: the moment long-horizon, correction-remembering, collaborating agents became plausible enough to change the… | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
