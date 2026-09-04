@@ -41,6 +41,17 @@ The book should survive close fact-checking on both halves of that claim. The te
 | 19 — Entropy and Amnesia | What is documented about Shannon's final years, his death, and how the field marked it? |
 | 20 — What the Juggler Knew | What did Shannon himself say, in his own rare words, about why he worked the way he did? |
 
+## Draft-readiness notes
+
+The source ledger now establishes a usable first-pass evidence boundary for Chapters 1–5 and the 1940–48 arc around Chapters 7–10. It deliberately records limits instead of converting weak provenance into narrative certainty.
+
+- Chapters 3 and 5 are the strongest early drafting candidates because Shannon's 1938 switching-circuit paper supplies direct primary evidence.
+- Chapter 4 has enough chronology to explain the differential analyzer but not yet enough archival detail to invent a machine-room scene or claim exactly what Shannon learned from operating it.
+- Chapter 7 is anchored by the Institute for Advanced Study's member record and archive finding aid. Proximity to Einstein or von Neumann must not be turned into documented interaction without further evidence.
+- Chapter 8 has only a high-level institutional confirmation of Shannon's wartime secrecy-systems work and needs a primary Bell Labs or Shannon memorandum before technical reconstruction.
+- Chapter 9 remains explicitly blocked for narrative drafting until a strong archival source establishes the dates, setting, and substance of Shannon's meetings with Alan Turing.
+- Chapter 10 is research-ready at the level of Shannon's claims because the 1948 paper itself is in the ledger; later-reception claims still require separate contemporary evidence.
+
 ## Research trail
 
 The chapter-level source ledger sits alongside this brief in `source-ledger.csv`, following the same schema used across the Desk: `source_id,chapter,accessed_date,publication_date,author_or_institution,title,source_type,claim_or_use,url,notes`.
