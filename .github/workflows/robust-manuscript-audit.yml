@@ -113,3 +113,4 @@ jobs:
             robust-prose-audit.json
             desk-catalog-audit.json
             generated-root-README.md
+            books/robust/manuscript/
