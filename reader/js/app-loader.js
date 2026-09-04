@@ -3,6 +3,7 @@ import {
   bootstrapRecoveryCopy,
   fetchBootstrapResource,
   installDeskRuntimeBridge,
+  rewriteSharedModuleSpecifiers,
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
@@ -18,6 +19,17 @@ const DESK_CATALOG_AUDIT = Object.freeze([
   "window.__IMPRINT?.role === 'desk'",
   'Expected one shared Reader catalog gate',
 ]);
+
+function sharedReaderOwnsDeskCatalogVisibility(source) {
+  return /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)/.test(String(source || ''));
+}
+
+function adaptReaderSource(source) {
+  if (sharedReaderOwnsDeskCatalogVisibility(source)) {
+    return rewriteSharedModuleSpecifiers(source, upstream);
+  }
+  return adaptSharedReaderAppSource(source, upstream);
+}
 
 function installDeskChromePolicy() {
   // Desk already exposes Bookmark, Search, Contents, and Settings in the primary
@@ -140,7 +152,8 @@ try {
   }
 
   const response = await fetchBootstrapResource(appUrl);
-  const adapted = adaptSharedReaderAppSource(await response.text(), upstream);
+  const source = await response.text();
+  const adapted = adaptReaderSource(source);
   if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
   const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type: 'text/javascript' }));
   try {
