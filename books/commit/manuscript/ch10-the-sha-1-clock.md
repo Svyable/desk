@@ -24,9 +24,31 @@ Cryptographic hashes are designed to make several kinds of attacks impractical. 
 
 SHA-1 made that journey.
 
-By the middle of the 2010s, the security community no longer treated collision resistance in SHA-1 as a prudent long-term foundation. In 2017 researchers demonstrated a practical SHA-1 collision with two different PDF files sharing the same digest. The demonstration was not a Git repository takeover. Git's object format and later collision-detection defenses matter. But the event destroyed the premise that generic SHA-1 collisions belonged only to a distant computational future.
+By the middle of the 2010s, the security community no longer treated collision resistance in SHA-1 as a prudent long-term foundation. On February 23, 2017, researchers from CWI and Google announced SHAttered, the first practical SHA-1 collision. They produced two PDF files with different visible contents and the same SHA-1 digest. The computation was still enormous by ordinary standards, but that was almost beside the point. A property users had been asked to treat as computationally out of reach had been demonstrated in the real world.
 
-For Git, the uncomfortable question was not whether a stronger hash existed.
+The demonstration was not a Git repository takeover.
+
+That distinction matters because the scary headline and the actual engineering problem were not identical. Git does not hash an arbitrary file and call the digest a commit. Git hashes an encoded object that includes the object type and size along with the object's contents. A useful attack against a Git repository would have to respect Git's object format and the way objects point to one another. The SHAttered PDFs proved generic SHA-1 collision resistance had failed; they did not prove that an attacker could replace any chosen Git commit with malicious code at will.
+
+Still, the result changed the burden of proof.
+
+Before SHAttered, defenders could say that practical SHA-1 collision attacks remained beyond demonstrated capability. After it, anyone proposing to keep SHA-1 indefinitely had to explain why a failed primitive was still an acceptable dependency and which mitigations made the remaining risk tolerable.
+
+Git and its surrounding infrastructure did not wait for the full hash migration to answer that question.
+
+In March 2017, GitHub announced that all SHA-1 computations on GitHub.com would use collision detection and reject Git content showing evidence of a collision attack. The mechanism was based on work that recognizes the differential patterns used by known SHA-1 collision techniques. GitHub's response was a good example of mature infrastructure buying time without pretending that time was a permanent solution.
+
+The distinction is worth dwelling on.
+
+Replacing SHA-1 as Git's object-name format is an ecosystem migration. Deploying collision detection is an implementation hardening. The first changes the long-term namespace. The second makes a known class of attack harder to smuggle through systems that still use that namespace.
+
+Those two efforts can coexist.
+
+That is why the sentence “Git uses broken SHA-1” is simultaneously true in one narrow cryptographic sense and misleading as an operational description. Generic SHA-1 collision resistance is no longer a property anyone should build a new security design around. But modern Git deployments have not simply continued computing naive SHA-1 digests as though 2017 never happened. Collision-detecting implementations materially change the attack surface while migration proceeds.
+
+Security maintenance often looks like this when a primitive is embedded too deeply to replace overnight. First, make exploitation of known weaknesses harder. Then build the compatibility machinery for a stronger design. Finally, change defaults when enough of the ecosystem can survive the change.
+
+Git's difficulty was never finding the stronger hash.
 
 SHA-256 existed.
 
