@@ -106,6 +106,54 @@ That is a healthy scientific result.
 
 It says the missing world is genuinely missing.
 
+The rare datasets in this literature are worth lingering over because they expose a problem that is otherwise difficult even to measure. Crook and Banasik examined data in which information was available for applicants who, under ordinary policy, would have been rejected. That unusual circumstance gave them something most lenders do not possess: a partial view of the very group whose outcomes are normally censored by the approval decision. Their question was not only whether accepted-only estimation could be biased, but whether common reject-inference corrections actually recovered enough of the missing structure to improve the scorecard.
+
+The answer was not a triumphant yes.
+
+That matters because reject inference can become a comforting ritual. An institution notices that its labels are selected, applies a correction, and then treats the corrected dataset as though the selection problem has been solved. But a statistical adjustment is only as credible as its assumptions about why cases are missing. If the decision to reject depends on information not represented in the model, or if the relationship between observed variables and repayment changes outside the accepted region, extrapolation can fail exactly where confidence is most tempting.
+
+Ehrhardt and colleagues recast this in the language of missing-data mechanisms. Some methods make assumptions equivalent to saying that, after conditioning on what the model sees, the missing repayment outcome behaves in a sufficiently regular way. Others effectively manufacture pseudo-labels for rejected cases. These are not absurd strategies. They are attempts to make progress with incomplete evidence. The important publication-level point is that they do not convert an unobserved loan into an observed one.
+
+This distinction becomes sharper near an underwriting cutoff.
+
+An applicant one point above a threshold and an applicant one point below may look nearly identical in the score while facing different actions. If the threshold is applied rigidly, the institution receives repayment evidence from one and not the other. Over time, the model accumulates thousands of outcomes on the accepted side and few directly comparable outcomes on the rejected side. The apparent empirical support becomes discontinuous at the very point where the decision is most uncertain.
+
+Thresholds can sometimes be used as research opportunities. When assignment around a boundary contains quasi-random variation, or when policy changes move the boundary, researchers may be able to compare similar applicants exposed to different decisions. But the possibility of a useful design should not be confused with a license to manipulate credit access casually. The value lies in recognizing naturally occurring or deliberately governed variation that already falls inside acceptable underwriting and consumer-protection constraints.
+
+The same logic applies to human overrides.
+
+Many lending systems are not pure score cutoffs. Underwriters review exceptions. Fraud teams intervene. Relationship managers supply information. Policy rules block cases a model would otherwise accept. These departures can frustrate clean modeling, but they can also be informative. If experienced reviewers disagree with the score in systematic ways, the disagreement marks a region where the automated rule may be missing information. If some branches or teams historically used different defensible practices, those differences may provide evidence about applicants the dominant policy rarely approved.
+
+An institution interested in learning should not erase overrides from the record after the fact.
+
+It should preserve who overrode what, why, and what happened next.
+
+That creates a richer audit trail than a binary approved-or-declined label. It can reveal whether a supposedly exceptional pathway consistently identifies good borrowers, whether overrides introduce bias, or whether certain applicant segments are being rescued from a model that lacks the right information.
+
+There is also a market-level version of selective labels. Credit bureaus help lenders learn from loans originated elsewhere, but bureau data is itself downstream of access to formal credit. A person with no reported tradelines may be genuinely risky, financially inexperienced, or simply absent from the reporting system. The bureau expands the field of view; it does not abolish selection.
+
+This is why “thin file” is an epistemic description before it is a risk description.
+
+The two can become correlated. Limited history can make uncertainty costly. But uncertainty and bad outcome are not synonyms. If institutions collapse them, the system can create a durable trap: little prior access produces little data; little data produces high uncertainty; high uncertainty produces little access; little access preserves the absence of data.
+
+The loop is not broken merely by making a more complicated model.
+
+Sometimes it is broken by a different product, a different data source, a different scale of commitment, or a deliberately protected path for building history. The design challenge is to create information without using vulnerable borrowers as raw material for model improvement.
+
+That includes measuring the borrower's outcome, not just the lender's.
+
+A loan that repays on time can still be harmful if repayment required severe sacrifice, repeated refinancing, or hidden distress. A model optimized only on default may learn to prefer borrowers who will pay regardless of burden. Consumer-welfare measures are harder to define and collect, but their absence is another unobserved-world problem: what the institution chooses to measure determines what its optimization can see.
+
+Once that is acknowledged, “creditworthiness” stops looking like a single natural property. It becomes a bundle of questions about ability to repay, willingness to repay, product fit, resilience to shocks, lender loss, borrower welfare, and the information available at decision time.
+
+A publication-ready treatment of credit has to keep those questions separate.
+
+The lender needs to price and manage risk. The borrower deserves protection from harmful experimentation. The model needs labels. The regulator needs evidence of discrimination and consumer harm. The market needs enough heterogeneity that one institution's blind spot does not become universal exclusion.
+
+Those goals can conflict.
+
+The point of the unobserved-world lens is not to resolve the conflict with a formula. It is to prevent one side of it—the evidence created by previous approvals—from masquerading as a complete map of the population.
+
 We can model it. We can use broader data. We can change the decision rule. We can create safer opportunities for observation. We can exploit natural variation. We can compare institutions. We can improve identification.
 
 We cannot simply fill the blank with confidence.
