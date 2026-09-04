@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson's Desk |
 | **Publication Surface** | Sven Hardy Benson's Shelf |
-| **Chapters**  | 0 of 20 drafted |
+| **Chapters**  | 3 of 20 drafted |
 
 Claude Shannon and the Invention of the Digital Mind.
 
@@ -21,9 +21,9 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 - [ ] [Front Matter](manuscript/front-matter.md)
 - [ ] [Ch 1 — The Ultimate Machine](manuscript/ch01-the-ultimate-machine.md)
 - [ ] [Ch 2 — Gaylord, Michigan](manuscript/ch02-gaylord-michigan.md)
-- [ ] [Ch 3 — The Slide Rule and the Switch](manuscript/ch03-the-slide-rule-and-the-switch.md)
-- [ ] [Ch 4 — Vannevar Bush's Analog World](manuscript/ch04-vannevar-bushs-analog-world.md)
-- [ ] [Ch 5 — A Symbolic Analysis](manuscript/ch05-a-symbolic-analysis.md)
+- [x] [Ch 3 — The Slide Rule and the Switch](manuscript/ch03-the-slide-rule-and-the-switch.md)
+- [x] [Ch 4 — Vannevar Bush's Analog World](manuscript/ch04-vannevar-bushs-analog-world.md)
+- [x] [Ch 5 — A Symbolic Analysis](manuscript/ch05-a-symbolic-analysis.md)
 - [ ] [Ch 6 — An Algebra for Theoretical Genetics](manuscript/ch06-an-algebra-for-theoretical-genetics.md)
 - [ ] [Ch 7 — The Institute](manuscript/ch07-the-institute.md)
 - [ ] [Ch 8 — The War Room](manuscript/ch08-the-war-room.md)
