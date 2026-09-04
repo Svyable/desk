@@ -381,3 +381,179 @@ Assume some companies cut corners.
 Then build a control architecture whose safest path is also the easiest path to operate at scale.
 
 That is the race worth winning.
+
+The practical test is whether a control survives a product review in which every participant wants something legitimate.
+
+The product manager wants higher task completion.
+
+The engineer wants simpler integration.
+
+The security team wants smaller blast radius.
+
+The customer wants fewer interruptions.
+
+The finance team wants lower operating cost.
+
+The executive wants the launch before the quarter closes.
+
+A control architecture that wins only when everyone temporarily stops caring about their ordinary incentives is not durable.
+
+This is why friction deserves to be treated as a safety metric.
+
+Not because less friction is always safer. Some friction is the point. A two-person release rule exists because one person should not be able to make a certain change alone. A cooling-off period exists because speed itself can be dangerous. A physical interlock exists to prevent convenience from overriding geometry.
+
+The question is where friction sits.
+
+Bad friction repeats work without changing consequence.
+
+Approve every email even when the agent is writing to the same internal team under the same mandate.
+
+Reauthenticate for every low-risk read.
+
+Force a human to watch an agent execute steps the policy could enforce deterministically.
+
+Good friction appears at authority transitions.
+
+The first external recipient.
+
+The first irreversible transaction.
+
+The first expansion into production.
+
+The first delegation beyond the parent’s mandate.
+
+The first action that spends past an agreed budget.
+
+The first time a task changes legal or safety category.
+
+This is friction with information content.
+
+It tells the user that something about the relationship changed.
+
+Companies that learn this can make safer products feel faster than less disciplined competitors because the system stops interrupting routine work and becomes strict only where strictness earns its cost.
+
+That is competitive containment.
+
+It also creates a better metric for autonomy.
+
+Instead of counting how many steps happen without a human, ask how many *authority transitions* happen without an independent decision.
+
+An agent may perform ten thousand low-risk steps autonomously inside one well-defined mandate and remain tightly contained.
+
+Another may perform five steps and silently cross from reading data to transferring money.
+
+Step count tells us little.
+
+The shape of delegated consequence tells us more.
+
+This reframing is useful because product teams naturally celebrate longer autonomous runs. “Our agent works for eight hours.” “Our agent completes the whole workflow.” “Our agent operates without supervision.” Those claims may be meaningful measures of usefulness. They become safety claims only when paired with the authority envelope.
+
+Eight hours doing what?
+
+With which credentials?
+
+Able to create which descendants?
+
+Able to change which external state?
+
+What expires if the user walks away?
+
+The race for duration should become a race for bounded duration.
+
+The race for tool count should become a race for mediated tools.
+
+The race for memory should become a race for provenance and withdrawal.
+
+The race for multi-agent scale should become a race for population-level authority control.
+
+In each case the containment feature does not oppose the capability headline. It completes it.
+
+There is a strategic reason companies may eventually prefer this model even without regulation.
+
+Broad ambient authority creates hidden coupling between the agent product and the rest of the enterprise. Every time the company adds a new connected account, service, or browser session, the agent's practical reach can change. Product performance becomes dependent on infrastructure accidents nobody on the model team intended.
+
+Narrow mandates decouple systems.
+
+The agent team knows what authority its product can receive because the broker defines it. The identity team can change unrelated privileges without silently changing agent behavior. A customer can adopt the product in one workflow without handing it every future workflow. Security reviews become more reusable because the architecture has stable boundaries.
+
+Containment reduces integration entropy.
+
+That can be worth money even when nothing goes wrong.
+
+The race condition also appears inside large companies between teams with different deployment speeds.
+
+A central security group may write a careful agent policy. Individual product teams face customer deadlines and discover that the standard broker lacks one tool they need. They create an exception. Another team copies it. Six months later the official architecture remains beautiful while production runs through a growing shadow layer of direct credentials and unmonitored connectors.
+
+This is not solved by demanding more compliance.
+
+The central path has to improve faster than the exceptions reproduce.
+
+Every exception should become product feedback.
+
+Why did the team need direct access?
+
+Was the capability model too coarse?
+
+Was renewal too slow?
+
+Did the human-approval path lack context?
+
+Did a third-party service offer no delegated identity?
+
+Was the logging cost unacceptable?
+
+The answer can reveal where the safe platform needs investment.
+
+A useful internal goal is exception half-life: how quickly can a one-off risky integration be replaced by a supported bounded mechanism?
+
+Again, the exact metric should not become theater. The management principle matters. Containment debt should have an owner and a retirement path, not become permanent architecture because everybody remembers that the launch was urgent.
+
+Competitive pressure also rewards narrative shortcuts.
+
+A company that says “our agents are safe” makes a simpler claim than a company that says “our agents operate under task-scoped credentials, cannot self-expand across defined consequence classes, and preserve independent authority evidence.”
+
+The first phrase fits a billboard.
+
+The second survives procurement.
+
+Over time, mature markets learn to ask for the second kind of answer.
+
+Cloud security moved from vague assurances to increasingly concrete questions about encryption, identity, audit logs, data residency, isolation, and incident response. Payment systems developed vocabulary for authorization, settlement, disputes, and liability. Software supply chains developed vocabulary for provenance and signing.
+
+Agent markets will develop vocabulary for delegation.
+
+The companies that help create that vocabulary can change the race itself.
+
+They can make bounded autonomy legible as quality.
+
+They can give insurers something to price.
+
+They can give regulators technology-neutral control points.
+
+They can give users meaningful choices that do not require understanding model internals.
+
+They can give engineers defaults that are easier to use than ambient credentials.
+
+This is how competition becomes part of the safety system rather than an excuse to abandon one.
+
+A race is dangerous when every participant believes slowing locally means losing globally.
+
+The escape from that logic is not a universal pause that no competitor has reason to honor.
+
+It is an architecture in which moving fast does not require borrowing authority forever.
+
+Make delegation cheap.
+
+Make boundaries machine-speed.
+
+Make evidence automatic.
+
+Make escalation informative.
+
+Make recovery credible.
+
+Then the fastest product can also be the one with the cleanest mandate.
+
+The race does not disappear.
+
+The track gets better.
