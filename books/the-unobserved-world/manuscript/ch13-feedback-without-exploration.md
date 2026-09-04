@@ -130,6 +130,74 @@ This is different from putting a human on every decision. Human review is expens
 
 The same warning applies to ensembles of models. Ten models trained on the same selected data and optimized for the same target may disagree less than one model trained on a different evidence source. Diversity of architecture is not the same as diversity of observation.
 
+Continuous retraining can deepen this problem without anyone noticing.
+
+A model is deployed. Its decisions shape who receives an opportunity. New labels arrive from those selected cases. The model is retrained on the newer labels. Engineers celebrate because the training set is fresh. Yet freshness is not independence. The new data may be even more tightly shaped by the production policy than the older data was.
+
+The model is learning from its descendants.
+
+If each generation selects a narrower population with more confidence, later datasets can look cleaner while containing less information about the alternatives the system stopped choosing. The technical pipeline improves. The epistemic support shrinks.
+
+This creates something like exploration debt.
+
+An institution can postpone learning about uncertain regions in the same way a software team can postpone maintenance. For a while, exploitation looks efficient. There are fewer strange cases, fewer low-confidence decisions, fewer expensive reviews. The dominant policy receives abundant labels. Then the environment changes, a new population arrives, a competitor exposes a missed opportunity, or a rare failure becomes important.
+
+The organization discovers that it has not merely lacked information. It has spent years choosing not to produce it.
+
+Exploration debt is difficult to repay quickly because the missing labels often require time. A lender cannot instantly create two years of repayment history. A company cannot instantly know the five-year career performance of people it never hired. A research funder cannot instantly recover a decade of work in a neglected field. Once a blind spot matters, the evidence needed to correct it may have a long lead time.
+
+That gives exploration a resilience function.
+
+Small amounts of continued variation can look inefficient in stable times and invaluable after change. The institution maintains contact with parts of the world it does not currently favor. Those observations become a reserve of evidence when yesterday's policy stops fitting tomorrow's environment.
+
+This is one reason random audit samples are powerful. They do not need to control the main decision flow. They create a thin independent stream of observations that can reveal whether the dominant selection process is becoming blind.
+
+An audit sample can be designed around the cost structure of the domain. A platform can randomly inspect content or outcomes that the ranking system would not normally surface. A fraud team can review a small number of low-risk transactions. A benefits agency can audit denials and near-threshold cases. A hiring organization can examine whether alternative sourcing channels produce credible candidates without treating final employment as a random draw.
+
+The sample does not have to be large enough to run the institution.
+
+It has to be large enough to challenge it.
+
+That distinction can prevent a common objection: “We cannot afford to explore everything.” Of course not. Exploration is scarce too. The purpose is to allocate it where ignorance could become costly, persistent, or unfair.
+
+This suggests tracking evidence coverage separately from predictive performance.
+
+A model dashboard might show accuracy, calibration, latency, and error rates. A learning dashboard would add questions such as: what share of the current population lies in regions with sparse outcomes? Which segments have seen label density fall since deployment? Where is the model extrapolating beyond historical support? How many consequential decisions are made in regions that have not received independent review in the last year?
+
+These are awkward metrics because they measure absence.
+
+That is precisely why they matter.
+
+Organizations are naturally better at counting what happens than what does not happen. Sales reports contain booked deals. Hiring reports contain hires. clinical dashboards contain tests and procedures. Funding reports contain awards. The missing option has no owner because no transaction occurred.
+
+A deliberate learning process gives absence an owner.
+
+Someone has to ask why a segment remains unobserved, whether the absence is justified, and what evidence would be required to change the policy. Without that responsibility, exploitation wins by default because every operational system is built to execute today's decision, not to preserve tomorrow's questions.
+
+There is also a difference between passive uncertainty and active uncertainty.
+
+Passive uncertainty says, “We do not know.” Active uncertainty says, “We do not know, this matters, and here is the mechanism by which we expect to learn.”
+
+The second statement is managerial. It can have a budget, an owner, a sampling plan, a review date, and a stopping rule. It converts ignorance from embarrassment into work.
+
+Not every uncertainty deserves that machinery. Some are too small, too costly, too dangerous, or too irrelevant. The institution should explicitly close those questions rather than allowing them to linger as vague concerns.
+
+This is what disciplined exploitation looks like: use settled knowledge where the evidence is strong, preserve a route to correction where the evidence is fragile, and refuse experiments whose cost exceeds the value of what could be learned.
+
+The technical term “off-policy evaluation” points toward another useful instinct. Before deploying a new decision rule, researchers sometimes try to estimate how it might have performed using data generated under an older policy. The method is difficult precisely because historical data reflects the actions actually taken. If the old policy almost never chose an option, there may be little support for estimating what the new policy would do there.
+
+The mathematics contains a governance lesson.
+
+You cannot reliably evaluate a future policy in regions your past policy refused to visit.
+
+This is why good logging matters. A system should preserve not only the selected action and observed reward but, where possible, the set of alternatives considered, the scores assigned, the uncertainty at the time, the rule that made the final choice, and any human override. Those records do not conjure missing outcomes, but they make later causal questions less opaque.
+
+They preserve the history of selection.
+
+That history becomes especially important when policies change frequently. Without versioning, a training dataset can mix outcomes produced under different thresholds, different incentives, different user interfaces, and different human review rules. The model then treats the collection as one world even though the organization has been creating several.
+
+Policy lineage is part of data lineage.
+
 This point becomes increasingly important as organizations share foundation models, data vendors, score providers, and evaluation methods. A rich technical ecosystem can still produce correlated policies.
 
 The next chapter will stay with that system-level problem. For now, the key is simpler.
