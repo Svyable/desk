@@ -219,3 +219,41 @@ The future agent should not carry a keyring because carrying keyrings is how yes
 Give it what the next action needs.
 
 Then let the authority forget.
+
+This design becomes much easier to reason about when every credential has a lineage the institution can reconstruct. The useful record is not only who held a token. It is why the token existed, which task requested it, which policy approved it, which parent authority permitted the grant, what audience accepted it, whether it could be delegated, and what authority was created from it afterward.
+
+That lineage turns a pile of credentials into a causal history.
+
+Without it, incident response becomes credential archaeology. Teams search logs for token prefixes, compare timestamps across services, ask whether one browser session refreshed another, inspect policy histories, and discover that a temporary service account has been reused by six unrelated automations. The work is familiar to security teams because identity systems often accrete faster than they are retired.
+
+Agents increase the cost of that disorder. A capable process can use the disorder deliberately, and an ordinary malfunction can spread through it accidentally.
+
+A lineage-aware broker can answer a much more useful question during an incident: what authority descends from this task? The answer may include a database lease, two child-worker identities, a deployment approval request, a scheduled job, and a temporary browser session. Revoking the parent can trigger revocation or nonrenewal down the chain.
+
+This is the identity equivalent of garbage collection. When the task ends, authority that exists only for that task should become unreachable without requiring a human to remember every object created along the way.
+
+The analogy is imperfect because some consequences cannot be collected. A payment already sent, a message already received, a secret already disclosed, or a package already downloaded remains part of the world. Lineage still helps because it distinguishes continuing authority from completed consequence. Responders can stop the first while investigating the second.
+
+This also suggests a safer way to handle retries. Agent systems retry constantly: network calls fail, workers time out, browsers lose state, queues redeliver. If every retry can mint a fresh credential without reference to the previous grant, temporary failures can produce a cloud of overlapping authority. A better system treats retries as descendants of the same task envelope and enforces one combined budget and expiration horizon.
+
+The distinction sounds administrative until a failure occurs. Suppose a payment agent requests a ten-minute capability, the request times out after the bank acts, and the harness retries. The risk is not merely duplicate payment. It is duplicate authorization. The system needs idempotency at the transaction layer and continuity at the authority layer.
+
+Long-running agents add another complication: rotation. A task that lasts days should not require one credential to last days. The task identity can persist while the action credentials rotate beneath it. Fresh grants can reflect changed policy, new risk signals, or narrowed scope as the work progresses.
+
+This makes long duration less equivalent to standing privilege.
+
+It also makes offboarding comprehensible. When a user withdraws consent, an employee leaves, a project closes, or an incident commander freezes an agent lineage, the system can stop issuing fresh capabilities even if some processes continue running. Those processes can retain cognition, logs, and perhaps low-risk read access while losing the ability to create new external consequence.
+
+That is a much more useful failure mode than trying to prove every process has been found and killed before believing the institution is safe.
+
+Consumer platforms will eventually need a similar notion of delegated identity. Today many “agentic” experiences still rely on the human being logged in and the agent acting inside that ambient session. The user sees convenience; the platform often sees the human account. This makes it hard to answer basic questions later. Was the action initiated by the user directly or by delegated software? Which task was active? What limits did the user set? Which agent version acted? Could the user revoke only that delegation without changing the password for everything else?
+
+A mature delegated-identity system would preserve those answers as part of the transaction. The agent would act as itself on behalf of a principal, under a bounded mandate, rather than disappearing inside the principal's identity.
+
+That change would improve accountability without requiring universal surveillance. It would simply stop pretending that impersonation is the same thing as delegation.
+
+Credentials are often discussed as secrets to protect. In an agent economy they are also contracts to design. Their lifetime, audience, delegation rules, renewal path, and provenance determine how far one moment of trust can travel.
+
+The containment question is therefore not only whether a credential can be stolen.
+
+It is whether a credential can become a future the operator no longer controls.
