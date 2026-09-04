@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Drafting |
 | **Chapters** | 20 of 20 + prologue + epilogue + back matter |
 
 *How One Molecule Took Over Appetite, Industry, and the Global Body*
