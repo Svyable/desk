@@ -187,3 +187,75 @@ A compound arrives. The network changes. The next stimulus lands on a different 
 The assay remembers because the biology does.
 
 That is the beginning of a drug model that can fight back.
+
+There is one pharmacological boundary a dish cannot negotiate away: exposure in the dish is not exposure in the brain.
+
+A nominal concentration in culture medium can be useful for comparing compounds, but it is not automatically the concentration a human neuron would encounter after a patient swallows or receives the drug. In a person, absorption, distribution, protein binding, metabolism, transport across the blood-brain barrier, active metabolites, clearance, and tissue sequestration all shape exposure.
+
+The organoid sees only what the experimental system delivers.
+
+That means functional response has to be interpreted alongside pharmacokinetics.
+
+A compound that rescues an organoid phenotype at one hundred micromolar may be uninteresting if safe human exposure never approaches that level. A compound that appears inactive at the nominal test concentration may be much more potent under clinically relevant unbound exposure conditions. A metabolite absent from the assay could be the species that matters in patients.
+
+The living model does not remove PK/PD.
+
+It makes the PD layer richer.
+
+This distinction can sharpen screening design. Instead of sweeping arbitrary concentrations for maximum effect, researchers can prioritize ranges connected to plausible human exposure. Where protein binding in culture medium differs from plasma, unbound concentration can become more informative than nominal concentration. If metabolism is important, upstream liver models, microsomes, or organ-on-chip systems may need to generate metabolites before the neural tissue is exposed.
+
+The biotech stack can become multi-organ before it becomes organismal.
+
+A liver model can transform a compound.
+
+A barrier model can estimate transport.
+
+A neural model can measure function.
+
+No individual model becomes a patient, but the chain can reproduce more of the causal path than one isolated organoid.
+
+This is another reason the future is likely hybrid rather than dominated by one spectacular tissue.
+
+The same logic applies to rescue.
+
+A good electrophysiological outcome should be defined in more than one dimension. If a disease organoid shows pathological bursting, the easiest way to remove the phenotype may be to suppress activity globally. That is pharmacologically trivial and clinically unsatisfying.
+
+A stronger rescue preserves function while reducing pathology.
+
+The assay might therefore measure baseline activity, evoked responsiveness, pathological burst frequency, recovery after challenge, and perhaps viability together. A candidate that improves one dimension while destroying another is not a clean rescue.
+
+This creates a response surface rather than a single score.
+
+One drug may reduce hyperexcitability but slow recovery.
+
+Another may leave spontaneous bursting modestly elevated while restoring stimulus discrimination.
+
+A third may normalize the network only after repeated dosing.
+
+Choosing among them requires a theory of which dimensions matter clinically.
+
+The dish can reveal tradeoffs.
+
+It cannot decide their medical importance by itself.
+
+History also makes dosing schedules experimentally interesting. Two regimens with the same total amount of drug can produce different network trajectories if peak concentration, interval, and recovery matter. Chronic low exposure may induce adaptation that an acute pulse does not. Intermittent treatment may allow recovery or create sensitization.
+
+A stateful assay can test schedule as part of pharmacology.
+
+That becomes valuable when clinical dosing already involves repeated cycles or titration.
+
+The experiment can ask not merely “Which drug?” but “Which pattern of exposure produces the most durable functional rescue without progressive loss of responsiveness?”
+
+Again, this is not a replacement for clinical pharmacology.
+
+It is a human neural layer that can make schedule hypotheses more informed before patients carry the risk.
+
+The deeper promise of pharmacology with memory is therefore not that organoids remember drugs the way people remember events.
+
+It is that treatment history can become a controlled variable rather than an inconvenience.
+
+Dose, order, challenge, washout, recovery, and re-exposure can be designed deliberately.
+
+The resulting trajectory may contain information that a terminal endpoint throws away.
+
+That information becomes valuable only when it is connected back to the pharmacological realities outside the dish.
