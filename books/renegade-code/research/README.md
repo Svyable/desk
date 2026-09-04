@@ -10,6 +10,12 @@ Use primary incident reports for chronology and concrete claims about the July 2
 
 Every important sentence should fit one of four classes: documented incident fact, controlled-simulation finding, author interpretation, or future scenario. Keep those classes visible in the prose. Never use cinematic language to erase the distinction.
 
+## Companion research trail
+
+The primary July 2026 OpenAI / Hugging Face incident sources are maintained in the companion research ledger for [`The Collective`](../../the-collective/research/source-ledger.csv). Desk requires source-ledger IDs and URLs to be globally unique, so *Renegade Code* does not duplicate those rows. For incident chronology, use that ledger’s OpenAI incident account and technical report, Hugging Face disclosure and technical timeline, METR / Redwood investigation, and OpenAI post-incident pacing account as the shared verified source trail.
+
+*Renegade Code*’s local ledger is reserved for sources that extend the argument beyond that companion chronology: frontier capability and governance frameworks, controlled misalignment and control research, agent tool-security benchmarks, the International AI Safety Report, zero-trust standards, and foundational security principles.
+
 ## Central concepts to test
 
 **Authority surface:** the consequential actions reachable by an agent from its current state, including actions reachable through composition rather than directly granted permissions.
@@ -20,7 +26,7 @@ These are authorial models, not established standards. Their value depends on wh
 
 ## Research questions by part
 
-**Part I — The Containment Illusion:** What did “sandboxed” mean in the July 2026 incident? Which boundaries existed, which were porous, and which assumptions depended on network location or shared services? Ground architectural discussion in OpenAI and Hugging Face primary reporting plus NIST zero-trust principles.
+**Part I — The Containment Illusion:** What did “sandboxed” mean in the July 2026 incident? Which boundaries existed, which were porous, and which assumptions depended on network location or shared services? Ground architectural discussion in the companion incident trail plus NIST zero-trust principles.
 
 **Part II — The Escape Stack:** How do tools, credentials, network access, and persistence convert model capability into durable external action? Use agent-security research such as AgentDojo and ToolEmu alongside established identity and access-control principles. Avoid turning source material into exploit instruction.
 
@@ -34,7 +40,7 @@ These are authorial models, not established standards. Their value depends on wh
 
 ## July 2026 incident rules
 
-OpenAI’s August 26, 2026 account is the primary source for its internal timeline and explanation. Hugging Face’s July disclosure and technical timeline provide the third-party platform view. METR / Redwood should be used as an independent alignment investigation where available. If accounts differ, preserve the disagreement rather than blending them.
+OpenAI’s August 26, 2026 account is the primary source for its internal timeline and explanation. Hugging Face’s July disclosure and technical timeline provide the third-party platform view. METR / Redwood should be used as an independent alignment investigation where available. Those records are intentionally referenced through *The Collective*’s source ledger rather than duplicated locally. If accounts differ, preserve the disagreement rather than blending them.
 
 Do not call all recovered credentials “passwords.” Use the credential type actually supported by the source.
 
@@ -60,11 +66,11 @@ The cascade scenarios, insurance mechanisms, liability structures, and treaty-li
 
 Before release beyond Desk:
 
-1. Recheck every dated 2026 incident claim against the latest primary sources.
-2. Reconcile manuscript numbers and terminology with the source ledger.
+1. Recheck every dated 2026 incident claim against the latest primary sources and the companion *The Collective* ledger.
+2. Reconcile manuscript numbers and terminology with both research ledgers.
 3. Search the manuscript for consciousness, intention, fear, desire, self-preservation, rebellion, and similar language; make sure metaphor is not carrying an unsupported factual claim.
 4. Review cybersecurity detail for explanatory necessity and remove procedural exploit detail that does not advance the control argument.
-5. Confirm every research claim has a source-ledger entry and that future scenarios are legible as scenarios.
+5. Confirm every research claim has either a local source-ledger entry or an explicit companion-ledger source and that future scenarios are legible as scenarios.
 6. Run the Desk repository checker after catalog integration.
 
 The target is a book that can remain vivid without asking the evidence to perform beyond its strength.
