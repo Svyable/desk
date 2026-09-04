@@ -202,6 +202,24 @@ Stem-cell biologists will contribute to the biological side.
 
 Regulators will care about the traceability between them.
 
+There is also a supply-chain reason the convergence matters. Neuromorphic and mixed-signal hardware can be manufactured in ways living substrates cannot. A platform company may therefore separate the system into durable and perishable layers.
+
+The durable layer contains electronics, fluidic control, sensing, amplification, networking, and software. The perishable layer contains cells, media, matrices, and biological interfaces that age or must be replaced. The commercial architecture starts to resemble a printer and cartridge, a sequencer and flow cell, or a dialysis machine and consumable set—but with the critical caveat that the consumable is alive and may require maturation before use.
+
+That division determines recurring revenue, logistics, service contracts, and failure modes.
+
+If the biological layer is disposable, replacement has to be standardized enough that a new culture restores expected performance. If it is long-lived, maintenance and contamination risk become more important. If the wetware ships to customers, transport conditions become part of product engineering. If cells are added locally, customer laboratories need validated handling. If the substrate stays centralized and users connect remotely, the business becomes more service-like and the hardware stays concentrated.
+
+Neuromorphic electronics can make any of those models easier by reducing the cost of the durable control layer.
+
+They can also create lock-in. A proprietary stimulation chip, proprietary event format, and proprietary decoder may tightly couple a customer to one vendor’s biological consumables. That can accelerate early performance while slowing interoperability. The life-science industry has seen both outcomes in other instrument categories.
+
+Standards will therefore be strategic, not merely technical.
+
+A stimulation protocol described in a vendor-neutral way can be reproduced elsewhere. A proprietary binary trace that cannot be interpreted without one company’s software makes replication harder. A shared schema for biological provenance can let data from different platforms be compared. Reference tasks can reveal whether two systems are genuinely comparable or merely use the same vocabulary.
+
+The strongest platforms may eventually compete on biological quality while cooperating on enough interface standards to enlarge the market.
+
 The convergence could also alter the direction of basic research.
 
 Neuromorphic computing has historically taken inspiration from neuroscience. As biohybrid platforms mature, the flow of ideas can become circular. Engineers can use artificial systems to design stimuli that probe biological networks. Biological results can inspire new hardware. Hardware can make new biological experiments possible. Those experiments can reveal dynamics that improve algorithms.
