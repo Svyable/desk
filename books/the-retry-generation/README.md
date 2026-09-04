@@ -49,26 +49,31 @@ Its central framework is:
 - **Useful restraint** — assistance intelligent enough to know when solving immediately would weaken learning or agency.
 - **Chosen distance** — deliberately separating attention from an archive that remains technically retrievable.
 
-## Research trail
+## Research and publication trail
 
 - [Book bible](research/book-bible.md)
 - [Novelty check](research/novelty-check.md)
+- [Reporting map](research/reporting-map.md)
+- [Publication checklist](research/publication-checklist.md)
 - [Release review](research/release-review.md)
 
 ## Publishing package
 
 - [Pitch and positioning](marketing/pitch.md)
+- [Reader configuration](reader.json)
 - [Rights notice](RIGHTS.md)
 - [Machine-readable rights](rights.json)
 
 ## Fact boundary
 
-This manuscript is primarily a conceptual work of cultural criticism rather than a statistical or historical survey. It deliberately avoids invented statistics and does not present composite scenes as biographies of real identifiable people. Any later research edition that adds empirical claims should source them chapter by chapter.
+This manuscript is primarily a conceptual work of cultural criticism rather than a statistical or historical survey. It deliberately avoids invented statistics and does not present composite scenes as biographies of real identifiable people. The next commercially positioned trade edition is expected to add reported scenes and empirical anchors chapter by chapter; those additions must remain sourceable and visibly distinct from illustration.
 
 The phrase “The Retry Generation” names a cross-generational cultural condition, not a scientific demographic cohort with fixed birth years.
 
 ## Publication note
 
 Desk remains the canonical working edition and intentionally evolves beyond the frozen first Shelf snapshot. The first Sven Hardy Benson’s Shelf snapshot was frozen from Desk commit `5ee6bdb39c0d120f84a1d12fdaecbdfd01739e40` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
+
+The 12-chapter manuscript is now in **publication development**, not release freeze. The next edition will be frozen only after the publication checklist’s editorial, reporting, commercial-diligence, production, and proofing gates are satisfied.
 
 - [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/the-retry-generation/)
