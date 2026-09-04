@@ -1,6 +1,6 @@
 # Source Registry
 
-Accessed for first-draft research on 2026-09-03 unless otherwise noted. Volatile sources should be rechecked before a Shelf release.
+Accessed for first-draft and revision research on 2026-09-03 unless otherwise noted. Volatile sources should be rechecked before a Shelf release.
 
 | ID | Source | Type | First-draft use |
 |---|---|---|---|
@@ -23,6 +23,10 @@ Accessed for first-draft research on 2026-09-03 unless otherwise noted. Volatile
 | S17 | Raja Parasuraman and Dietrich Manzey, “Complacency and Bias in Human Use of Automation,” *Human Factors* 52(3), 2010 — https://pubmed.ncbi.nlm.nih.gov/21077562/ | Peer-reviewed review | Automation complacency, omission/commission errors, attention. |
 | S18 | Berkeley J. Dietvorst, Joseph P. Simmons, and Cade Massey, “Algorithm Aversion: People Erroneously Avoid Algorithms After Seeing Them Err,” *Journal of Experimental Psychology: General* 144(1), 2015 — https://pubmed.ncbi.nlm.nih.gov/25401381/ | Peer-reviewed experiments | Calibration of human trust after observed algorithm error. |
 | S19 | *Toward a science of human–AI teaming for decision making: A complementarity framework*, *PNAS Nexus* 5(3), 2026 — https://academic.oup.com/pnasnexus/article/5/3/pgag030/8490283 | Peer-reviewed synthesis | Conditions for human–AI complementarity, role partitioning, training, continuous evaluation. |
+| S20 | CrowdStrike, *Preliminary Post Incident Review: Content Configuration Update Impacting the Falcon Sensor and the Windows Operating System* (2024-07-24) — https://www.crowdstrike.com/en-us/blog/falcon-content-update-preliminary-post-incident-report/ | First-party incident report | Ch 26 chronology and mechanisms: rapid content update, validator defect, affected Windows hosts, rollback timing, and lessons about staged change. |
+| S21 | U.S. Securities and Exchange Commission, *SEC Charges Knight Capital With Violations of Market Access Rule* (2013-10-16), with Release No. 70694 — https://www.sec.gov/newsroom/press-releases/2013-222 | Government enforcement source | Ch 27: Aug. 1, 2012 automated trading incident, millions of erroneous orders, inadequate safeguards, and the approximately $440 million loss context. |
+| S22 | GitLab, *Postmortem of database outage of January 31* (2017-02-10) — https://about.gitlab.com/blog/postmortem-of-database-outage-of-january-31/ | First-party incident postmortem | Ch 28: accidental production data removal, failed backup path, restoration constraints, lack of backup-test ownership, and distinction between replication and recovery. |
+| S23 | Amazon Web Services, *Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region* (2017) — https://aws.amazon.com/message/41926/ | First-party incident summary | Ch 29: authorized maintenance command with an incorrect input, unexpectedly broad server removal, subsystem dependency, and blast-radius lessons. |
 
 ## Handling notes
 
@@ -30,4 +34,7 @@ Accessed for first-draft research on 2026-09-03 unless otherwise noted. Volatile
 - S13–S15 are first-party vendor studies. Use them to describe observed behavior on those vendors’ surfaces, not as unbiased estimates of all AI use.
 - S10–S12 predate generative AI. Their mechanisms are analogies and engineering antecedents, not proof that AI systems behave exactly like conventional distributed services.
 - S16–S18 predate current foundation models. Use the human-factors mechanisms carefully and avoid implying that every historical automation result transfers unchanged to generative AI.
+- S20, S22, and S23 are organizations’ own incident accounts. Use them as primary evidence for chronology and stated mechanisms, while avoiding claims they do not establish about broader industry effects.
+- S21 is a regulator’s enforcement and market-structure source. Preserve the distinction between the SEC’s findings and any broader analogy to AI-agent controls.
+- The field-test chapters use historical software incidents as mechanism-rich antecedents. They do not claim that contemporary AI systems are operationally identical to endpoint security, automated trading, databases, or object storage.
 - No source in this registry should be treated as authority for the book’s normative prescriptions. The prescriptions are arguments that must earn their case from mechanisms, counterexamples, and explicit tradeoffs.
