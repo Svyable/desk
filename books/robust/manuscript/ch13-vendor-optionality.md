@@ -14,7 +14,7 @@ The robust company has not won.
 
 It has purchased the wrong kind of freedom.
 
-Vendor optionality is valuable because the AI layer moves. Models retire. Prices change. quality changes. providers differentiate. policies diverge. capacity tightens. jurisdictions impose different rules. security requirements change. a product that is best today may be merely adequate next year.
+Vendor optionality is valuable because the AI layer moves. Models retire. Prices change. Quality changes. Providers differentiate. Policies diverge. Capacity tightens. Jurisdictions impose different rules. Security requirements change. A product that is best today may be merely adequate next year.
 
 But optionality has a carrying cost.
 
@@ -68,15 +68,7 @@ Robust optionality begins with the expensive ones.
 
 This leads to a counterintuitive strategy: **do not abstract what you can easily rewrite. Preserve what you cannot easily reconstruct.**
 
-Code is often reconstructable.
-
-Data lineage may not be.
-
-A prompt can be rewritten.
-
-Years of evaluated examples are harder.
-
-An API can be replaced.
+Code is often reconstructable. Data lineage may not be. A prompt can be rewritten. Years of evaluated examples are harder. An API can be replaced.
 
 The institutional record of why decisions were made may be irreplaceable.
 
@@ -194,25 +186,9 @@ Again, the question is not whether local is morally superior.
 
 It is what failure dimension the option covers.
 
-Commercial relationships themselves can create optionality.
+Commercial relationships themselves can create optionality. Contracts are architecture. Notice periods. Data-export rights. Assistance with migration.
 
-Contracts are architecture.
-
-Notice periods.
-
-Data-export rights.
-
-Assistance with migration.
-
-Version support windows.
-
-Service credits.
-
-Audit rights.
-
-Limits on unilateral product changes.
-
-Data-use terms.
+Version support windows. Service credits. Audit rights. Limits on unilateral product changes. Data-use terms.
 
 Region commitments.
 
@@ -250,21 +226,9 @@ It is harder after dozens of workflows encode undocumented behavior.
 
 A person can keep durable notes outside a chat system from the start.
 
-Reconstructing them later is painful.
+Reconstructing them later is painful. This is why small architecture choices compound. Optionality is often a by-product of cleanliness. Clear interfaces. Owned data.
 
-This is why small architecture choices compound.
-
-Optionality is often a by-product of cleanliness.
-
-Clear interfaces.
-
-Owned data.
-
-Explicit business rules.
-
-Versioned evals.
-
-Known dependencies.
+Explicit business rules. Versioned evals. Known dependencies.
 
 These are good engineering even if the vendor relationship lasts forever.
 
@@ -284,13 +248,7 @@ These are robust investments because they pay even when the feared event never o
 
 The wrong optionality investments create complexity that only matters in hypothetical migrations.
 
-A second provider no one uses.
-
-An abstraction layer nobody understands.
-
-A compatibility system that blocks model-specific improvements.
-
-An emergency runbook whose credentials expired.
+A second provider no one uses. An abstraction layer nobody understands. A compatibility system that blocks model-specific improvements. An emergency runbook whose credentials expired.
 
 An open-source fallback that has not been updated in eighteen months.
 
@@ -298,15 +256,7 @@ This is option theater.
 
 The asset exists on a slide and not in operation.
 
-Real options need exercise.
-
-Run the alternate model periodically.
-
-Export the data and open it.
-
-Test the migration process.
-
-Renegotiate the dependency map when capabilities change.
+Real options need exercise. Run the alternate model periodically. Export the data and open it. Test the migration process. Renegotiate the dependency map when capabilities change.
 
 Retire options whose maintenance cost exceeds their protection.
 
@@ -326,25 +276,9 @@ Do not pretend dependence has vanished because the relationship is pleasant.
 
 And do not mistake dependence for weakness when it is part of a deliberate bet.
 
-Every organization depends on something.
+Every organization depends on something. Employees. Electricity. Networks. Banks.
 
-Employees.
-
-Electricity.
-
-Networks.
-
-Banks.
-
-Suppliers.
-
-Laws.
-
-Standards.
-
-Customers.
-
-Robustness is not independence from the world.
+Suppliers. Laws. Standards. Customers. Robustness is not independence from the world.
 
 It is knowing which dependencies can break you, which ones are worth the risk, and which escape routes deserve to be kept alive.
 

@@ -20,33 +20,11 @@ AI systems make the distinction critical because more of the useful state can be
 
 Traditional applications often store obvious records: customers, orders, documents, messages, transactions. AI-enabled systems add softer layers.
 
-Prompt templates.
+Prompt templates. Evaluation examples. Model-specific instructions. Conversation memory. Embeddings.
 
-Evaluation examples.
+Retrieved context. Feedback labels. Human corrections. Tool histories. Decision traces.
 
-Model-specific instructions.
-
-Conversation memory.
-
-Embeddings.
-
-Retrieved context.
-
-Feedback labels.
-
-Human corrections.
-
-Tool histories.
-
-Decision traces.
-
-Generated summaries that replaced reading the originals.
-
-Agent plans.
-
-Permissions attached to automated actors.
-
-User preferences learned through interaction.
+Generated summaries that replaced reading the originals. Agent plans. Permissions attached to automated actors. User preferences learned through interaction.
 
 The organization can own every original document and still lose practical continuity if these layers disappear.
 
@@ -66,7 +44,7 @@ For a scientific workflow, provenance becomes essential: which source data, tran
 
 The more consequential the output, the more valuable provenance becomes.
 
-Provenance is not glamourous.
+Provenance is not glamorous.
 
 It is the answer to “Where did this come from?”
 
@@ -82,25 +60,9 @@ If the system kept only the final value, the organization has automation without
 
 Robust systems preserve enough lineage to reconstruct important decisions at the level appropriate to consequence.
 
-Not every token.
+Not every token. Not every internal state. Enough. What input mattered? What source version?
 
-Not every internal state.
-
-Enough.
-
-What input mattered?
-
-What source version?
-
-Which model and configuration?
-
-Which tool changed external state?
-
-Which policy applied?
-
-Which person approved?
-
-What feedback followed?
+Which model and configuration? Which tool changed external state? Which policy applied? Which person approved? What feedback followed?
 
 This record makes the work portable because it preserves meaning.
 
@@ -138,21 +100,9 @@ This is not primarily a model failure.
 
 It is an institutional memory failure with a model-shaped symptom.
 
-Robust data has authority structure.
+Robust data has authority structure. Which document is canonical? Who owns it? When did it become effective? What superseded it?
 
-Which document is canonical?
-
-Who owns it?
-
-When did it become effective?
-
-What superseded it?
-
-What audience may see it?
-
-What system depends on it?
-
-How is a change communicated?
+What audience may see it? What system depends on it? How is a change communicated?
 
 These questions existed before AI. They matter more when machines can consume documents at a scale that makes informal ambiguity operational.
 
@@ -174,23 +124,9 @@ There is a deeper portability problem in representations.
 
 Suppose an organization allows a provider to turn thousands of documents into embeddings inside a proprietary vector store. The original documents remain exportable. Fine.
 
-What else has accumulated?
+What else has accumulated? Chunk boundaries. Metadata. Access controls. Relevance feedback.
 
-Chunk boundaries.
-
-Metadata.
-
-Access controls.
-
-Relevance feedback.
-
-User-created collections.
-
-Links among sources.
-
-Quality labels.
-
-Cached summaries.
+User-created collections. Links among sources. Quality labels. Cached summaries.
 
 If migration means merely re-embedding the originals, perhaps that is cheap. If the surrounding structure took years to evolve, it may be the real asset.
 
@@ -200,21 +136,9 @@ Recomputable state can be allowed to live close to the vendor.
 
 Embeddings, indexes, caches, intermediate representations — many can be recreated if the source and recipe remain.
 
-Earned state deserves more care.
+Earned state deserves more care. Human corrections. Evaluation labels. Accepted exceptions. Customer preferences.
 
-Human corrections.
-
-Evaluation labels.
-
-Accepted exceptions.
-
-Customer preferences.
-
-Decision histories.
-
-Annotations.
-
-Curated relationships.
+Decision histories. Annotations. Curated relationships.
 
 These reflect interaction with reality. Losing them means losing learning.
 
@@ -266,23 +190,9 @@ What should move?
 
 A raw transcript of two years of chat may be nearly useless. The durable state is more structured.
 
-Current projects.
+Current projects. Source libraries. Decisions. Open tasks. Preferences that matter.
 
-Source libraries.
-
-Decisions.
-
-Open tasks.
-
-Preferences that matter.
-
-Templates.
-
-Accepted examples.
-
-Relationships.
-
-A summary of what has been learned.
+Templates. Accepted examples. Relationships. A summary of what has been learned.
 
 This suggests a design principle for long-running AI workspaces: **memory should have a user-legible layer.**
 
@@ -308,19 +218,9 @@ The goal is controlled state.
 
 There is also a legal and regulatory dimension. Different industries and jurisdictions impose requirements around data location, retention, access, auditability, deletion, and explanation. These rules will evolve. The most robust architecture does not hard-code one current interpretation into every workflow. It maintains enough classification and lineage to change policy later.
 
-Which data is sensitive?
+Which data is sensitive? Where did it come from? Who consented to what? Which system received it? Can it be deleted?
 
-Where did it come from?
-
-Who consented to what?
-
-Which system received it?
-
-Can it be deleted?
-
-Which derived artifacts depend on it?
-
-This is difficult.
+Which derived artifacts depend on it? This is difficult.
 
 It is much easier than discovering after a policy change that nobody knows where customer data traveled because the assistant layer was treated as stateless magic.
 
@@ -330,19 +230,9 @@ Pick one critical AI workflow.
 
 Pretend the current provider vanishes in thirty days.
 
-What would you export?
+What would you export? What format would it arrive in? Could another system interpret it? Which state would be lost? Which business rules exist only in prompts?
 
-What format would it arrive in?
-
-Could another system interpret it?
-
-Which state would be lost?
-
-Which business rules exist only in prompts?
-
-Which permissions are provider-specific?
-
-Which evaluation cases are portable?
+Which permissions are provider-specific? Which evaluation cases are portable?
 
 Which historical outcomes could be used to verify the replacement?
 
@@ -350,15 +240,7 @@ Which data would you be relieved to lose because you should not have kept it?
 
 This exercise often reveals that the most important work is not migration code.
 
-It is deciding what the system is.
-
-Where does truth live?
-
-Where does memory live?
-
-Where does policy live?
-
-Where does authority live?
+It is deciding what the system is. Where does truth live? Where does memory live? Where does policy live? Where does authority live?
 
 Where does evidence live?
 
@@ -376,15 +258,7 @@ A company does not need to own every layer. It can outsource storage, identity, 
 
 The important line is between outsourcing **operation** and outsourcing **meaning**.
 
-Let a vendor operate the database.
-
-Know what the records mean.
-
-Let a model generate the summary.
-
-Keep the sources and the standard.
-
-Let an agent perform the routine.
+Let a vendor operate the database. Know what the records mean. Let a model generate the summary. Keep the sources and the standard. Let an agent perform the routine.
 
 Keep the authority model and the audit trail.
 

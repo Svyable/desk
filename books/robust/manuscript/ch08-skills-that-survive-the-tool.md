@@ -38,15 +38,7 @@ A transferable skill is not immortal. Nothing human is. It simply survives more 
 
 In the AI era, six families of skill have unusually strong transfer value.
 
-The first is **problem framing**.
-
-What are we trying to accomplish?
-
-For whom?
-
-Under what constraints?
-
-What would count as success?
+The first is **problem framing**. What are we trying to accomplish? For whom? Under what constraints? What would count as success?
 
 Which uncertainty matters?
 
@@ -72,19 +64,9 @@ A powerful model can accept a broad goal and create its own plan. Good. But a hu
 
 The ability to break a problem apart is also the ability to reassemble accountability.
 
-The third is **verification**.
+The third is **verification**. How do we know? This question changes form by domain. In code: what tests fail? In finance: which numbers reconcile?
 
-How do we know?
-
-This question changes form by domain.
-
-In code: what tests fail?
-
-In finance: which numbers reconcile?
-
-In research: where is the source?
-
-In design: what do users do?
+In research: where is the source? In design: what do users do?
 
 In operations: what metric would reveal the hidden failure?
 
@@ -110,19 +92,9 @@ In fact, polish can make this harder.
 
 The memo becomes smoother while the uncertainty becomes less visible.
 
-The robust communicator can preserve edges.
+The robust communicator can preserve edges. Here is the fact. Here is the estimate. Here is the assumption. Here is the decision.
 
-Here is the fact.
-
-Here is the estimate.
-
-Here is the assumption.
-
-Here is the decision.
-
-Here is the reason.
-
-Here is what would change it.
+Here is the reason. Here is what would change it.
 
 This structure survives tools because institutions run on shared mental models. People need to know whether they are hearing a measurement, a forecast, a preference, or a commitment.
 
@@ -138,29 +110,11 @@ A team can prototype several workflows, create synthetic cases, migrate a sample
 
 The robust skill is designing the experiment so the result teaches something.
 
-What are we comparing?
+What are we comparing? What will we measure? Which population matters? How long is long enough? What is the stopping rule?
 
-What will we measure?
+What result would justify scaling? What could fool us? Experimentation converts uncertainty into options. It is the operating skill of reversibility. The sixth is **learning itself**.
 
-Which population matters?
-
-How long is long enough?
-
-What is the stopping rule?
-
-What result would justify scaling?
-
-What could fool us?
-
-Experimentation converts uncertainty into options.
-
-It is the operating skill of reversibility.
-
-The sixth is **learning itself**.
-
-Not content consumption.
-
-Learning.
+Not content consumption. Learning.
 
 The ability to notice what you do not understand, build a model, test it, seek feedback, update, and carry the new understanding into another context.
 
@@ -172,19 +126,9 @@ It also makes fake learning cheaper.
 
 You can ask for an explanation, recognize the words, and feel understanding without being able to use the idea.
 
-The robust learner forces retrieval and transfer.
+The robust learner forces retrieval and transfer. Close the answer. Explain it back. Solve a new case. Predict what happens before running the code.
 
-Close the answer.
-
-Explain it back.
-
-Solve a new case.
-
-Predict what happens before running the code.
-
-Argue the opposite side.
-
-Teach it to someone else.
+Argue the opposite side. Teach it to someone else.
 
 Build something that fails if your understanding is wrong.
 
@@ -218,13 +162,7 @@ The person who accumulates only domain capital can become knowledgeable and slow
 
 The person who talks only about control skills can become abstract and unemployable because she never touches the tools doing the current work.
 
-A robust career holds all three.
-
-Use the frontier.
-
-Know the field.
-
-Keep the controls.
+A robust career holds all three. Use the frontier. Know the field. Keep the controls.
 
 This framework also changes how organizations should hire.
 
@@ -282,15 +220,7 @@ There is a personal identity question inside this too.
 
 People often define themselves by skills that were difficult to acquire.
 
-I write.
-
-I code.
-
-I analyze.
-
-I translate.
-
-I illustrate.
+I write. I code. I analyze. I translate. I illustrate.
 
 I research.
 

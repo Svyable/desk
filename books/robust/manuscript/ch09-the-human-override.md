@@ -4,13 +4,7 @@ A red button is reassuring even when nobody can reach it.
 
 Put one on a machine and people understand the story immediately. The system is allowed to run, but a person remains sovereign. If something goes wrong, the human intervenes.
 
-The story has a clean shape.
-
-Reality is less polite.
-
-The person may not notice the problem.
-
-The person may notice too late.
+The story has a clean shape. Reality is less polite. The person may not notice the problem. The person may notice too late.
 
 The person may not understand what the machine is doing well enough to know whether stopping it would help.
 
@@ -70,7 +64,7 @@ Remove any one and the loop weakens.
 
 Start with visibility.
 
-AI systems can produce enormous amounts of internal activity. Tool calls. Retrieved documents. intermediate outputs. retries. plans. candidate actions. generated rationales. logs. safety checks. A naïve approach to transparency is to show more of it.
+AI systems can produce enormous amounts of internal activity. Tool calls. Retrieved documents. Intermediate outputs. Retries. Plans. Candidate actions. Generated rationales. Logs. Safety checks. A naïve approach to transparency is to show more of it.
 
 More is not the same as visible.
 
@@ -78,15 +72,7 @@ A human cannot meaningfully supervise a thousand-line trace arriving in real tim
 
 The useful question is what information the person needs at the decision boundary.
 
-What action is about to occur?
-
-Why is it permitted?
-
-What data will change?
-
-What is the estimated consequence?
-
-What uncertainty or exception triggered review?
+What action is about to occur? Why is it permitted? What data will change? What is the estimated consequence? What uncertainty or exception triggered review?
 
 What would happen if the person does nothing?
 
@@ -118,19 +104,9 @@ The system may explain why it chose an action. Good.
 
 The interface should also expose evidence that can be independently checked where consequence demands it.
 
-The transaction amount.
+The transaction amount. The policy rule. The source document. The code diff. The before-and-after state.
 
-The policy rule.
-
-The source document.
-
-The code diff.
-
-The before-and-after state.
-
-The recipient list.
-
-The external fact.
+The recipient list. The external fact.
 
 The model’s explanation is one input, not the final court.
 
@@ -150,21 +126,9 @@ It is better allocation of review.
 
 Human attention should concentrate where the expected value of judgment is highest.
 
-Novel cases.
+Novel cases. High consequence. Low reversibility. Weak evidence. Conflicting signals.
 
-High consequence.
-
-Low reversibility.
-
-Weak evidence.
-
-Conflicting signals.
-
-Policy ambiguity.
-
-Actions outside normal patterns.
-
-Cases near thresholds.
+Policy ambiguity. Actions outside normal patterns. Cases near thresholds.
 
 The ordinary case should often be allowed to remain ordinary.
 
@@ -182,31 +146,15 @@ Disagreement requires documentation.
 
 The machine’s recommendation appears as the default and the human alternative as an exception.
 
-Nobody explicitly says, “Do not disagree.”
-
-The interface says it.
-
-The metrics say it.
-
-The culture says it.
+Nobody explicitly says, “Do not disagree.” The interface says it. The metrics say it. The culture says it.
 
 A robust override needs social authority as well as a button.
 
 This is particularly important in consequential decision systems. If humans are included to provide judgment, disagreement should be treated as signal, not friction.
 
-Track it.
+Track it. Why did the person override? Was the model wrong? Was the policy ambiguous? Did the person misunderstand?
 
-Why did the person override?
-
-Was the model wrong?
-
-Was the policy ambiguous?
-
-Did the person misunderstand?
-
-Did the system lack context?
-
-Was the case genuinely exceptional?
+Did the system lack context? Was the case genuinely exceptional?
 
 Overrides are a gold mine for evaluation data because they reveal the boundary between automated competence and institutional judgment.
 
@@ -252,19 +200,9 @@ Many systems provide approval and call the problem solved.
 
 But approval is useful only before a meaningful commit point. If the action is already difficult to reverse by the time the person sees it, the interface is showing a receipt.
 
-Robust design locates the commit point.
+Robust design locates the commit point. Before money transfers. Before data deletion. Before publication. Before access expands.
 
-Before money transfers.
-
-Before data deletion.
-
-Before publication.
-
-Before access expands.
-
-Before a customer is promised something.
-
-Before code reaches production.
+Before a customer is promised something. Before code reaches production.
 
 That point is where human authority matters most — if human authority is needed.
 
@@ -274,15 +212,7 @@ Humans are tired, biased, inconsistent, distractible, and sometimes less capable
 
 The robust system uses people for the things people are currently good at in that context.
 
-Ambiguity.
-
-Value judgment.
-
-Novelty.
-
-Responsibility.
-
-Cross-domain context.
+Ambiguity. Value judgment. Novelty. Responsibility. Cross-domain context.
 
 Social consequence.
 
@@ -290,21 +220,9 @@ Detection of “this feels wrong” patterns that have not yet been formalized.
 
 It uses deterministic controls for things machines can enforce better.
 
-Amount limits.
+Amount limits. Required fields. Allowed recipients. File scopes. Rate limits.
 
-Required fields.
-
-Allowed recipients.
-
-File scopes.
-
-Rate limits.
-
-Schema validation.
-
-Authentication.
-
-Separation of environments.
+Schema validation. Authentication. Separation of environments.
 
 A person should not be asked to remember the permission rule on every transaction if the system can make the forbidden action impossible.
 
@@ -334,13 +252,7 @@ What does the machine see that the person does not?
 
 What does the person know that the machine does not?
 
-Where is each more reliable?
-
-How does disagreement surface?
-
-Who has final authority under which conditions?
-
-How do both improve from mistakes?
+Where is each more reliable? How does disagreement surface? Who has final authority under which conditions? How do both improve from mistakes?
 
 These questions turn “human in the loop” into a real architecture.
 
@@ -358,25 +270,9 @@ Autonomy without auditability is brittle because errors become stories after the
 
 A robust autonomous system should leave enough trace to reconstruct consequence without pretending that a natural-language rationale is a perfect window into internal reasoning.
 
-What action occurred?
+What action occurred? Under which authority? With which relevant inputs? Which tools and external systems changed? Which checks passed?
 
-Under which authority?
-
-With which relevant inputs?
-
-Which tools and external systems changed?
-
-Which checks passed?
-
-Which policy version applied?
-
-Who could reverse it?
-
-What happened next?
-
-This is institutional memory for machine action.
-
-It protects the human too.
+Which policy version applied? Who could reverse it? What happened next? This is institutional memory for machine action. It protects the human too.
 
 One of the ugliest forms of automation is responsibility laundering: a system makes the practical decision and a person remains legally or professionally responsible without meaningful power over the process.
 

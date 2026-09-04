@@ -42,19 +42,9 @@ We are good at turning yesterday’s luck into today’s architecture.
 
 A model happens to return valid JSON almost every time, so the parser gets less defensive. A model usually cites the retrieved document, so nobody adds a separate check that the cited document actually contains the claim. A model politely refuses when asked to take an action outside scope, so the team treats politeness as a permission boundary. A model’s latency is low enough that a synchronous workflow feels safe, so no queue is built. A particular provider offers generous context at a tolerable price, so the company begins shoving entire case files into prompts instead of creating durable information architecture.
 
-Then something moves.
+Then something moves. Price is a system property. Latency is a system property. Rate limits are a system property. Context behavior is a system property.
 
-Price is a system property.
-
-Latency is a system property.
-
-Rate limits are a system property.
-
-Context behavior is a system property.
-
-Safety policy is a system property.
-
-Tool-use behavior is a system property.
+Safety policy is a system property. Tool-use behavior is a system property.
 
 A migration can therefore expose assumptions that nobody knew were assumptions.
 
@@ -164,13 +154,7 @@ That is what capable tools do. They disappear into the work.
 
 Nobody says, “I am now depending on this particular implementation detail.” They say, “Send it through the system.”
 
-The system becomes normal.
-
-Normal becomes invisible.
-
-Invisible becomes structural.
-
-Then the calendar arrives.
+The system becomes normal. Normal becomes invisible. Invisible becomes structural. Then the calendar arrives.
 
 There is a peculiar advantage to building on technology that openly admits it will be replaced. It can cure us of pretending that permanence is a feature we were ever offered.
 

@@ -78,15 +78,7 @@ A phone tree after the notification platform goes down.
 
 Sometimes the manual gear is not manual at all. It is a less intelligent form of automation that is easier to understand.
 
-Rules.
-
-Limits.
-
-Templates.
-
-A fixed approval route.
-
-A smaller model running locally.
+Rules. Limits. Templates. A fixed approval route. A smaller model running locally.
 
 The word *manual* matters less than the property: the fallback should not depend on the same thing that just failed.
 
@@ -158,15 +150,7 @@ A skill you “could do if necessary” decays into a story quickly.
 
 Organizations are especially vulnerable because they confuse documentation with capability.
 
-The procedure exists in the wiki.
-
-Can anyone perform it?
-
-The password is stored.
-
-Does the account still work?
-
-The manual form is available.
+The procedure exists in the wiki. Can anyone perform it? The password is stored. Does the account still work? The manual form is available.
 
 Can the current volume be processed with it?
 

@@ -6,13 +6,7 @@ That is what makes it hard to see.
 
 A company builds around a model provider because the provider is excellent.
 
-The integration deepens.
-
-The workflows improve.
-
-The staff learns the tools.
-
-The memory layer accumulates context.
+The integration deepens. The workflows improve. The staff learns the tools. The memory layer accumulates context.
 
 The evaluation set becomes tuned to the provider’s behavior.
 
@@ -20,15 +14,7 @@ The security review is complete.
 
 The procurement team negotiates a larger commitment and a better price.
 
-Nothing has gone wrong.
-
-In fact, almost everything has gone right.
-
-Then a small policy changes.
-
-Or the pricing structure moves.
-
-Or a feature becomes unavailable.
+Nothing has gone wrong. In fact, almost everything has gone right. Then a small policy changes. Or the pricing structure moves. Or a feature becomes unavailable.
 
 Or the product direction diverges from the company’s needs.
 
@@ -66,15 +52,7 @@ A political system is different when a decision can be appealed.
 
 Exit is not the only form of power.
 
-Voice matters.
-
-Governance matters.
-
-Contracts matter.
-
-Rights matter.
-
-Trust matters.
+Voice matters. Governance matters. Contracts matter. Rights matter. Trust matters.
 
 Long-term cooperation often creates more value than constant switching.
 
@@ -114,23 +92,9 @@ Syntactic portability means the bytes can move.
 
 Semantic portability means the new system can understand what the bytes mean well enough to continue the work.
 
-Robust exit requires more of the second.
+Robust exit requires more of the second. What is this field? Which record is authoritative? How do these objects relate? What policy governed this action?
 
-What is this field?
-
-Which record is authoritative?
-
-How do these objects relate?
-
-What policy governed this action?
-
-What assumptions were encoded in the workflow?
-
-Which permissions are required?
-
-What historical decisions shape current behavior?
-
-Which evaluations define acceptable performance?
+What assumptions were encoded in the workflow? Which permissions are required? What historical decisions shape current behavior? Which evaluations define acceptable performance?
 
 If none of that travels, the data moved and the institution did not.
 
@@ -140,13 +104,7 @@ Personal AI makes exit unusually intimate.
 
 An assistant can learn the language you use.
 
-The people you mention.
-
-The projects you care about.
-
-The way you prefer a memo structured.
-
-The context behind a long-running argument.
+The people you mention. The projects you care about. The way you prefer a memo structured. The context behind a long-running argument.
 
 The unfinished threads you do not want to reconstruct.
 
@@ -184,15 +142,7 @@ It is a map of the person-machine collaboration that preserves what matters outs
 
 There is a reason companies resist switching critical systems.
 
-Migration is dangerous.
-
-The incumbent knows the weird cases.
-
-The current system contains years of exceptions.
-
-Employees have muscle memory.
-
-Customers have expectations.
+Migration is dangerous. The incumbent knows the weird cases. The current system contains years of exceptions. Employees have muscle memory. Customers have expectations.
 
 The new provider will fail differently.
 
@@ -204,13 +154,7 @@ It is proof that continuity has value.
 
 A robust organization therefore does not maximize exitability at the expense of integration.
 
-It tries to preserve **credible exit**.
-
-Credible exit has three properties.
-
-First, the route exists.
-
-Second, the cost is approximately known.
+It tries to preserve **credible exit**. Credible exit has three properties. First, the route exists. Second, the cost is approximately known.
 
 Third, the organization has exercised enough of the route to know it is not imaginary.
 
@@ -242,37 +186,15 @@ A migration plan always fits in six boxes.
 
 A vendor-switching clause always sounds stronger before somebody attempts to use it.
 
-An exit drill turns optionality into evidence.
-
-Pick one consequential dependency.
-
-Assume you must leave in ninety days.
-
-Not because the provider failed.
-
-Not because of scandal.
+An exit drill turns optionality into evidence. Pick one consequential dependency. Assume you must leave in ninety days. Not because the provider failed. Not because of scandal.
 
 Simply because the relationship no longer serves you.
 
-What breaks?
-
-Which data moves easily?
-
-Which state is trapped?
-
-Which contracts become relevant?
+What breaks? Which data moves easily? Which state is trapped? Which contracts become relevant?
 
 Which team knows the system well enough to rebuild?
 
-Which evaluation cannot be reproduced elsewhere?
-
-Which customers must be notified?
-
-Which workflows depend on undocumented behavior?
-
-Which promised fallbacks were never implemented?
-
-Which cost estimates are fantasy?
+Which evaluation cannot be reproduced elsewhere? Which customers must be notified? Which workflows depend on undocumented behavior? Which promised fallbacks were never implemented? Which cost estimates are fantasy?
 
 The exercise may end with a rational conclusion:
 
@@ -290,15 +212,7 @@ Exit is not always leaving the whole institution.
 
 Sometimes the robust path is the ability to leave one decision channel.
 
-An automated system denies a claim.
-
-A fraud model blocks a transaction.
-
-An admissions system ranks an applicant.
-
-A content system removes access.
-
-A credit model changes an offer.
+An automated system denies a claim. A fraud model blocks a transaction. An admissions system ranks an applicant. A content system removes access. A credit model changes an offer.
 
 The person affected may not have a realistic option to leave the market, employer, school, bank, government, or platform.
 
@@ -346,13 +260,7 @@ A system should be allowed to be better because it has a unique architecture, in
 
 But there is a difference between earning loyalty with superior value and preserving loyalty by making departure catastrophic.
 
-The first is competition.
-
-The second is captivity.
-
-The line is not always clean.
-
-Switching costs can arise naturally from specialization.
+The first is competition. The second is captivity. The line is not always clean. Switching costs can arise naturally from specialization.
 
 A customer who deeply adapts to a superior tool has created relationship-specific capital.
 
@@ -360,15 +268,7 @@ Some of that value would disappear in any move.
 
 The robust market question is whether unnecessary barriers are added on top.
 
-Can the customer retrieve their data?
-
-Can the data be understood elsewhere?
-
-Can credentials travel?
-
-Can outputs be audited?
-
-Can integrations be replaced?
+Can the customer retrieve their data? Can the data be understood elsewhere? Can credentials travel? Can outputs be audited? Can integrations be replaced?
 
 Can the customer discover the true cost of leaving before the crisis?
 
@@ -380,13 +280,7 @@ AI changes the right to exit for workers in a different way.
 
 A company may become dramatically more productive by building proprietary human-AI workflows.
 
-Employees learn to operate inside them.
-
-Their output rises.
-
-Their internal value may rise.
-
-But what happens to external value?
+Employees learn to operate inside them. Their output rises. Their internal value may rise. But what happens to external value?
 
 If the worker’s expertise becomes inseparable from one employer’s private system, the worker can become more productive and less portable at the same time.
 
@@ -396,21 +290,9 @@ Company-specific knowledge has always existed.
 
 AI can deepen it because the workflow itself may become a joint system of internal data, agents, prompts, permissions, and proprietary context.
 
-A robust career therefore needs transferable layers.
+A robust career therefore needs transferable layers. Problem knowledge. Domain judgment. Evaluation ability. Communication.
 
-Problem knowledge.
-
-Domain judgment.
-
-Evaluation ability.
-
-Communication.
-
-Customer understanding.
-
-System design.
-
-The ability to learn new tools.
+Customer understanding. System design. The ability to learn new tools.
 
 A body of work that demonstrates consequence, not merely familiarity with one interface.
 
@@ -424,23 +306,9 @@ That is professional exitability.
 
 There is a danger of turning the right to exit into permanent hesitation.
 
-Never commit.
+Never commit. Never specialize. Never build deeply on anyone else’s platform. Keep every option open. This is not robustness.
 
-Never specialize.
-
-Never build deeply on anyone else’s platform.
-
-Keep every option open.
-
-This is not robustness.
-
-It is fear of dependence.
-
-Dependence is how complex economies work.
-
-No serious company is self-sufficient.
-
-No person is self-sufficient.
+It is fear of dependence. Dependence is how complex economies work. No serious company is self-sufficient. No person is self-sufficient.
 
 We rely on vendors, employers, customers, infrastructure, institutions, languages, standards, and other people because specialization creates more than isolation can.
 
@@ -480,25 +348,9 @@ A company that knows how it would leave a provider often understands the provide
 
 An institution that knows how a person can contest a decision often understands the decision rule better.
 
-Exit disciplines architecture.
+Exit disciplines architecture. It forces the system to answer: What is ours? What is theirs? What is durable?
 
-It forces the system to answer:
-
-What is ours?
-
-What is theirs?
-
-What is durable?
-
-What is temporary?
-
-What can be reconstructed?
-
-What has become essential?
-
-What would we lose?
-
-What are we choosing to depend on?
+What is temporary? What can be reconstructed? What has become essential? What would we lose? What are we choosing to depend on?
 
 Those questions make commitment more intelligent.
 

@@ -6,13 +6,7 @@ This is the abundance problem hiding inside generative AI.
 
 A person once paid with time for every variation. Another headline meant writing another headline. Another design meant moving the elements again. Another coding approach meant implementing enough of it to learn whether it worked. Another strategic scenario meant finding another afternoon.
 
-Scarcity performed quality control by exhaustion.
-
-Not good quality control.
-
-But a limit.
-
-Generative systems remove the limit.
+Scarcity performed quality control by exhaustion. Not good quality control. But a limit. Generative systems remove the limit.
 
 Twenty names before breakfast. Ten layouts in minutes. Five memos with different recommendations. Three implementations. Fifty images. A hundred personalized messages. Endless revisions, because revision no longer has the friction that once forced a person to decide whether the change was worth making.
 
@@ -54,15 +48,7 @@ The robust advantage is to avoid having one undifferentiated intelligence produc
 
 A system that writes its own exam and marks its own paper can be brilliant.
 
-It is difficult to audit.
-
-Taste provides one source of independence.
-
-Tests provide another.
-
-Customers provide another.
-
-Reality provides the final one.
+It is difficult to audit. Taste provides one source of independence. Tests provide another. Customers provide another. Reality provides the final one.
 
 The point is to create multiple signals of quality rather than turn fluency into proof.
 
@@ -98,13 +84,7 @@ These questions are not romantic resistance to automation.
 
 They are how the human stays useful when synthesis becomes abundant.
 
-Taste is built through exposure plus feedback.
-
-You see many examples.
-
-You make choices.
-
-Reality answers.
+Taste is built through exposure plus feedback. You see many examples. You make choices. Reality answers.
 
 The editor cuts a sentence and the paragraph improves.
 
@@ -214,15 +194,7 @@ Never deploy code without these checks.
 
 Never publish a factual claim without a recoverable source trail.
 
-Judgments remain where context matters.
-
-Is this argument fair?
-
-Does this design create trust?
-
-Is this customer actually exceptional?
-
-Is the technically passing code maintainable?
+Judgments remain where context matters. Is this argument fair? Does this design create trust? Is this customer actually exceptional? Is the technically passing code maintainable?
 
 Does this recommendation fit the institution we are trying to become?
 
@@ -250,15 +222,7 @@ The person becomes a slot-machine operator for adequacy.
 
 Robust taste resists this by making the standard legible before the options become infinite.
 
-What are we trying to preserve?
-
-What matters most?
-
-What can be traded?
-
-What would make this clearly wrong?
-
-What would make it unmistakably ours?
+What are we trying to preserve? What matters most? What can be traded? What would make this clearly wrong? What would make it unmistakably ours?
 
 These questions give generation edges.
 

@@ -38,25 +38,9 @@ Nobody was responsible for proving that the comforting noun was a working verb.
 
 AI systems are accumulating their own versions of imaginary backups.
 
-“We can always switch models.”
+“We can always switch models.” “We export everything.” “The prompts are in Git.” “We still have the manual process.” “There is a second provider.”
 
-“We export everything.”
-
-“The prompts are in Git.”
-
-“We still have the manual process.”
-
-“There is a second provider.”
-
-“We log every action.”
-
-“The human can take over.”
-
-“We can rebuild the index.”
-
-“We can recreate the memory.”
-
-Maybe.
+“We log every action.” “The human can take over.” “We can rebuild the index.” “We can recreate the memory.” Maybe.
 
 The existence of an artifact is not evidence of recovery.
 
@@ -158,29 +142,11 @@ The failure source does not.
 
 When designing recovery, ask what failure you are trying to survive.
 
-Hardware loss?
+Hardware loss? Provider outage? Bad model behavior? Corrupt data? Compromised credentials?
 
-Provider outage?
+A mistaken policy? A malicious user? An internal operator error? A model migration? A legal requirement to reconstruct a decision?
 
-Bad model behavior?
-
-Corrupt data?
-
-Compromised credentials?
-
-A mistaken policy?
-
-A malicious user?
-
-An internal operator error?
-
-A model migration?
-
-A legal requirement to reconstruct a decision?
-
-Different failures require different kinds of independence.
-
-There is no universal backup.
+Different failures require different kinds of independence. There is no universal backup.
 
 ## Recovery has a clock
 
@@ -204,19 +170,9 @@ That may be excellent for a strategic migration.
 
 It may be useless during a provider outage.
 
-So every important fallback needs a clock.
+So every important fallback needs a clock. How quickly must it start? How long can degraded operation continue? How much backlog can accumulate? What data can be lost?
 
-How quickly must it start?
-
-How long can degraded operation continue?
-
-How much backlog can accumulate?
-
-What data can be lost?
-
-What quality loss is acceptable?
-
-What obligations continue during the disruption?
+What quality loss is acceptable? What obligations continue during the disruption?
 
 The infrastructure world has formal vocabulary for this: recovery time objectives, recovery point objectives, service-level objectives.
 
@@ -274,15 +230,7 @@ Graceful degradation is more realistic.
 
 The system may not return to the old manual world.
 
-It may reduce service.
-
-Accept only high-priority cases.
-
-Disable complex actions.
-
-Move from immediate response to queued response.
-
-Offer deterministic answers for known questions.
+It may reduce service. Accept only high-priority cases. Disable complex actions. Move from immediate response to queued response. Offer deterministic answers for known questions.
 
 Stop a feature safely.
 
@@ -300,15 +248,7 @@ This is common because recovery systems live outside the happy path.
 
 Nobody receives applause because the restore worked during a quarter when nothing failed.
 
-The feature team ships visible improvements.
-
-The fallback quietly ages.
-
-Credentials expire.
-
-Formats change.
-
-People leave.
+The feature team ships visible improvements. The fallback quietly ages. Credentials expire. Formats change. People leave.
 
 A script keeps running with warnings nobody reads.
 
@@ -324,21 +264,9 @@ A fallback needs a person or team responsible for its continued truth.
 
 Not necessarily someone who operates it every day.
 
-Someone who can answer:
+Someone who can answer: When was this last tested? What changed since then? What does it protect us from? What does it not protect us from?
 
-When was this last tested?
-
-What changed since then?
-
-What does it protect us from?
-
-What does it not protect us from?
-
-How long will it work?
-
-What would cause us to retire it?
-
-That last question is important.
+How long will it work? What would cause us to retire it? That last question is important.
 
 A robust organization does not preserve every backup forever.
 
@@ -354,25 +282,11 @@ Replace it with a fallback that matches the current system.
 
 Once or twice a year, pick one critical AI-enabled workflow and pretend the preferred path is gone.
 
-Not in a tabletop conversation only.
-
-Actually move.
-
-Use the export.
-
-Start the second model.
-
-Invoke the degraded mode.
+Not in a tabletop conversation only. Actually move. Use the export. Start the second model. Invoke the degraded mode.
 
 Move a small real workload through the fallback if the risk allows.
 
-Measure the time.
-
-Watch for undocumented dependencies.
-
-Find the password nobody has.
-
-Find the schema that changed.
+Measure the time. Watch for undocumented dependencies. Find the password nobody has. Find the schema that changed.
 
 Find the human step that takes six minutes per case.
 
@@ -392,35 +306,13 @@ A restore test converts imaginary robustness into observed robustness.
 
 Technology is full of nouns that make organizations feel safer than they are.
 
-Backup.
+Backup. Fallback. Redundancy. Override. Export.
 
-Fallback.
-
-Redundancy.
-
-Override.
-
-Export.
-
-Rollback.
-
-Replica.
-
-Archive.
-
-Runbook.
+Rollback. Replica. Archive. Runbook.
 
 Each noun should be translated into a verb.
 
-Can you restore?
-
-Can you fall back?
-
-Can you switch?
-
-Can you override?
-
-Can you import the export?
+Can you restore? Can you fall back? Can you switch? Can you override? Can you import the export?
 
 Can you roll back?
 

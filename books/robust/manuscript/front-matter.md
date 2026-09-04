@@ -74,19 +74,9 @@ The useful question is narrower and harder: *What authority can this system exer
 
 That is one of the recurring tests in the chapters ahead.
 
-The others are equally practical.
+The others are equally practical. Can we undo the choice? Do we have another path? Is the delegation bounded? Do we know how this fails?
 
-Can we undo the choice?
-
-Do we have another path?
-
-Is the delegation bounded?
-
-Do we know how this fails?
-
-Can the critical dependency be substituted?
-
-Has the fallback actually been tested?
+Can the critical dependency be substituted? Has the fallback actually been tested?
 
 These are not commandments. They are pressure points.
 

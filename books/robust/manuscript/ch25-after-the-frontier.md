@@ -2,13 +2,7 @@
 
 Every important technology has a period when people point at the technology itself.
 
-Look at the machine.
-
-Look at the benchmark.
-
-Look at the interface.
-
-Look what it can do now.
+Look at the machine. Look at the benchmark. Look at the interface. Look what it can do now.
 
 Then, if the technology succeeds, attention moves somewhere else.
 
@@ -32,19 +26,9 @@ The frontier model may remain dramatic.
 
 The civilization built around it will be judged by boring questions.
 
-Does it work?
+Does it work? Can we afford it? Can we recover? Can we contest it? Can we replace it?
 
-Can we afford it?
-
-Can we recover?
-
-Can we contest it?
-
-Can we replace it?
-
-Can we understand what happened?
-
-Can a new person learn the system?
+Can we understand what happened? Can a new person learn the system?
 
 Can the institution keep functioning when one layer fails?
 
@@ -58,19 +42,9 @@ A change in what matters.
 
 ## The frontier is a terrible place to build permanent identity
 
-A frontier is defined by movement.
+A frontier is defined by movement. The best system changes. The cost curve changes. The dominant interface changes. The useful task horizon changes.
 
-The best system changes.
-
-The cost curve changes.
-
-The dominant interface changes.
-
-The useful task horizon changes.
-
-The architecture changes.
-
-What counts as a difficult benchmark changes.
+The architecture changes. What counts as a difficult benchmark changes.
 
 The companies at the edge learn, merge, fail, rebrand, specialize, and replace products.
 
@@ -88,29 +62,13 @@ Do not anchor business logic to the current provider behavior.
 
 Do not anchor institutional legitimacy to a system ordinary people cannot challenge.
 
-Use the frontier.
-
-Exploit it.
-
-Build with it.
-
-Let it create advantage.
+Use the frontier. Exploit it. Build with it. Let it create advantage.
 
 But keep the durable layer one level above or below the movement.
 
-The problem you serve.
+The problem you serve. The state you own. The standards you enforce. The rights you preserve. The evidence you trust.
 
-The state you own.
-
-The standards you enforce.
-
-The rights you preserve.
-
-The evidence you trust.
-
-The reasons behind the policy.
-
-The capability to move.
+The reasons behind the policy. The capability to move.
 
 These are the things that can survive the frontier becoming history.
 
@@ -172,21 +130,9 @@ Normality is not evidence of continued fitness.
 
 ## Infrastructure fails socially before it fails technically
 
-A technical failure is easy to name.
+A technical failure is easy to name. The service is down. The model is unavailable. The tool call times out. The database cannot be reached.
 
-The service is down.
-
-The model is unavailable.
-
-The tool call times out.
-
-The database cannot be reached.
-
-The agent sends the wrong command.
-
-Social failure is quieter.
-
-Nobody knows who is responsible.
+The agent sends the wrong command. Social failure is quieter. Nobody knows who is responsible.
 
 The appeal path exists but nobody uses it.
 
@@ -218,33 +164,13 @@ A technically perfect system can still be socially brittle if nobody outside the
 
 ## The great handoff from builders to operators
 
-Frontier periods are dominated by builders.
-
-Researchers.
-
-Founders.
-
-Engineers.
-
-Early adopters.
+Frontier periods are dominated by builders. Researchers. Founders. Engineers. Early adopters.
 
 People comfortable with incomplete documentation and rapidly changing assumptions.
 
-Infrastructure periods are dominated by operators.
+Infrastructure periods are dominated by operators. Administrators. Teachers. Nurses. Accountants.
 
-Administrators.
-
-Teachers.
-
-Nurses.
-
-Accountants.
-
-Managers.
-
-Public servants.
-
-Technicians.
+Managers. Public servants. Technicians.
 
 People whose job is not to admire the system but to depend on it while serving somebody else.
 
@@ -268,19 +194,9 @@ The test is not whether experts can use it brilliantly.
 
 The test is whether ordinary institutions can use it repeatedly without requiring extraordinary people at every point of failure.
 
-That means better defaults.
+That means better defaults. Clear ownership. Visible state. Understandable permissions. Stable interfaces where stability matters.
 
-Clear ownership.
-
-Visible state.
-
-Understandable permissions.
-
-Stable interfaces where stability matters.
-
-Migration tooling.
-
-Evaluation integrated into operations.
+Migration tooling. Evaluation integrated into operations.
 
 Fallback modes designed for the people who will actually use them.
 
@@ -304,15 +220,7 @@ The best model changes underneath.
 
 The organization’s definition of an acceptable customer outcome remains.
 
-The agent architecture improves underneath.
-
-The institution’s permission boundary remains inspectable.
-
-The interface changes underneath.
-
-The person’s durable project state remains portable.
-
-The benchmark improves underneath.
+The agent architecture improves underneath. The institution’s permission boundary remains inspectable. The interface changes underneath. The person’s durable project state remains portable. The benchmark improves underneath.
 
 The evaluation continues to measure the local consequence that matters.
 
@@ -346,25 +254,9 @@ There may come a time when having an “AI strategy” sounds as incomplete as h
 
 The relevant questions will migrate into ordinary strategy.
 
-How do we serve customers?
+How do we serve customers? How do we allocate capital? What should be automated? What should remain scarce and human? Which capabilities belong inside the company?
 
-How do we allocate capital?
-
-What should be automated?
-
-What should remain scarce and human?
-
-Which capabilities belong inside the company?
-
-Which should be rented?
-
-What dependencies are acceptable?
-
-What risks are we willing to carry?
-
-How do we train people?
-
-How do we preserve trust?
+Which should be rented? What dependencies are acceptable? What risks are we willing to carry? How do we train people? How do we preserve trust?
 
 What do we do better than competitors?
 
@@ -384,21 +276,9 @@ The objective was to become more capable without becoming easier to break.
 
 As generated work becomes abundant, some complementary things become more valuable.
 
-Trusted provenance.
+Trusted provenance. Accountability. Taste. Attention. Legitimate authority.
 
-Accountability.
-
-Taste.
-
-Attention.
-
-Legitimate authority.
-
-Firsthand observation.
-
-Original data.
-
-Human relationships.
+Firsthand observation. Original data. Human relationships.
 
 The ability to decide what not to optimize.
 
@@ -450,19 +330,9 @@ One vendor’s interface decision can reshape a market of downstream businesses.
 
 A robust society therefore cares about some properties that no individual customer can purchase alone.
 
-Competition.
+Competition. Interoperability where it lowers dangerous switching costs. Public technical capacity. Clear liability and responsibility. Security standards.
 
-Interoperability where it lowers dangerous switching costs.
-
-Public technical capacity.
-
-Clear liability and responsibility.
-
-Security standards.
-
-Research access.
-
-Incident reporting where shared learning matters.
+Research access. Incident reporting where shared learning matters.
 
 Education that produces people capable of understanding and governing the systems they inherit.
 
@@ -478,21 +348,9 @@ When private optimization can create public fragility, somebody has to measure t
 
 One of the most revealing questions for a mature AI-dependent institution will be embarrassingly practical:
 
-What happens when the intelligence is unavailable?
+What happens when the intelligence is unavailable? Not forever. For an hour. A day. A week.
 
-Not forever.
-
-For an hour.
-
-A day.
-
-A week.
-
-Which services stop?
-
-Which become slower?
-
-Which can continue manually?
+Which services stop? Which become slower? Which can continue manually?
 
 Which manual processes still exist only in policy documents?
 
@@ -526,37 +384,15 @@ Everything else is enhancement.
 
 The hardest time to maintain robustness may be after the system proves itself.
 
-During deployment, people are cautious.
+During deployment, people are cautious. There are pilots. Reviews. Checklists. Evals.
 
-There are pilots.
-
-Reviews.
-
-Checklists.
-
-Evals.
-
-Fallbacks.
-
-Executive attention.
+Fallbacks. Executive attention.
 
 After five years of good performance, caution feels wasteful.
 
-The backup is expensive.
+The backup is expensive. The migration drill is annoying. The manual skill looks obsolete. The independent review path seems redundant. The old incidents feel irrelevant.
 
-The migration drill is annoying.
-
-The manual skill looks obsolete.
-
-The independent review path seems redundant.
-
-The old incidents feel irrelevant.
-
-The provider has never failed us.
-
-The model has improved every cycle.
-
-The system is normal now.
+The provider has never failed us. The model has improved every cycle. The system is normal now.
 
 This is exactly when robustness becomes cultural rather than project-based.
 
@@ -578,15 +414,7 @@ It is one that keeps repricing them.
 
 A sturdy civilization is not one that correctly predicts the path of artificial intelligence.
 
-No civilization gets that luxury.
-
-The technology will surprise us.
-
-The economics will surprise us.
-
-The social uses will surprise us.
-
-The failures will surprise us.
+No civilization gets that luxury. The technology will surprise us. The economics will surprise us. The social uses will surprise us. The failures will surprise us.
 
 The places where machines become better than expected will surprise us.
 
@@ -598,13 +426,7 @@ The boring constraints will surprise us.
 
 The sturdy civilization is the one that can keep making choices after the surprise.
 
-Its institutions can revise rules.
-
-Its markets preserve meaningful exits.
-
-Its workers can move skills across tools.
-
-Its companies can migrate dependencies.
+Its institutions can revise rules. Its markets preserve meaningful exits. Its workers can move skills across tools. Its companies can migrate dependencies.
 
 Its automated decisions can be contested where consequence demands it.
 
@@ -618,25 +440,15 @@ Its diversity is real enough that one failure does not become every failure.
 
 Its people remain able to tell the difference between assistance and authority.
 
-This is not a static society.
+This is not a static society. It is an adaptive one with memory. Movement with anchors. Speed with recovery. Delegation with ownership.
 
-It is an adaptive one with memory.
-
-Movement with anchors.
-
-Speed with recovery.
-
-Delegation with ownership.
-
-Dependence with exits.
-
-Abundance with standards.
+Dependence with exits. Abundance with standards.
 
 That is what sturdiness looks like after the frontier becomes infrastructure.
 
 ## Keep choosing
 
-The AI landscape will not settle because this book ends.
+The AI landscape will not settle because an operating doctrine has been written down.
 
 Another model will arrive.
 
@@ -658,25 +470,9 @@ Another generation will remember that process too fondly.
 
 The task is not to freeze either one in place.
 
-Keep asking the robustness questions.
+Keep asking the robustness questions. Can we reverse this? What path remains if this one closes? What authority are we delegating? How does the system fail?
 
-Can we reverse this?
-
-What path remains if this one closes?
-
-What authority are we delegating?
-
-How does the system fail?
-
-Which dependencies are truly independent?
-
-What state do we own?
-
-What judgment are we no longer producing?
-
-Who can appeal?
-
-What are we unable to leave?
+Which dependencies are truly independent? What state do we own? What judgment are we no longer producing? Who can appeal? What are we unable to leave?
 
 When did we last test the fallback?
 

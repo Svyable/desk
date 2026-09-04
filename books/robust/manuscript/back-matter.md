@@ -4,19 +4,9 @@
 
 The easiest way to misunderstand this book is to turn it into a list of things to preserve.
 
-Keep the old skill.
+Keep the old skill. Keep the second vendor. Keep the manual process. Keep the human approval. Keep the data export.
 
-Keep the second vendor.
-
-Keep the manual process.
-
-Keep the human approval.
-
-Keep the data export.
-
-Keep the rollback.
-
-That is not the argument.
+Keep the rollback. That is not the argument.
 
 Robustness is not preservation for its own sake. It is the deliberate retention of enough agency, optionality, and recoverability that a system can absorb surprise without losing the thing it exists to do.
 
@@ -182,15 +172,7 @@ For each workflow, maintain a failure picture that includes:
 - failures introduced by human review;
 - failures created by the fallback itself.
 
-A useful evaluation set contains embarrassing cases.
-
-Cases the team once missed.
-
-Cases that fooled a smart reviewer.
-
-Cases that happen only at boundaries.
-
-Cases that reveal a hidden assumption.
+A useful evaluation set contains embarrassing cases. Cases the team once missed. Cases that fooled a smart reviewer. Cases that happen only at boundaries. Cases that reveal a hidden assumption.
 
 Cases where the right answer is to abstain.
 
@@ -292,15 +274,7 @@ It accumulates in habits.
 
 A person begins using an assistant to draft.
 
-Then to organize notes.
-
-Then to remember decisions.
-
-Then to plan projects.
-
-Then to write code.
-
-Then to interpret documents.
+Then to organize notes. Then to remember decisions. Then to plan projects. Then to write code. Then to interpret documents.
 
 Then to communicate.
 
@@ -395,13 +369,7 @@ Robust systems can shed armor.
 
 A harmless prototype can become infrastructure without an explicit launch day.
 
-Usage grows.
-
-Customers depend on it.
-
-Other systems consume the output.
-
-Revenue becomes attached.
+Usage grows. Customers depend on it. Other systems consume the output. Revenue becomes attached.
 
 The consequence changes while the control model remains frozen.
 
@@ -542,21 +510,9 @@ Reversibility can cost more than the risk it protects against.
 
 The method throughout the manuscript is therefore comparative.
 
-What failure are we trying to survive?
+What failure are we trying to survive? What does the proposed protection cost? What new failure does the protection create? How correlated are the alternatives? How consequential is the commitment?
 
-What does the proposed protection cost?
-
-What new failure does the protection create?
-
-How correlated are the alternatives?
-
-How consequential is the commitment?
-
-How observable is the system?
-
-How cheaply can we learn before committing?
-
-Robustness lives in those tradeoffs.
+How observable is the system? How cheaply can we learn before committing? Robustness lives in those tradeoffs.
 
 ## Acknowledgments
 

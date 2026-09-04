@@ -30,37 +30,13 @@ A small instruction can carry a large authority surface.
 
 In fact, AI can make the problem easier to hide.
 
-A command line at least looks dangerous.
+A command line at least looks dangerous. A natural-language request can look harmless. “Clean up the old records.” “Fix the access issue.” “Update the customer accounts.”
 
-A natural-language request can look harmless.
-
-“Clean up the old records.”
-
-“Fix the access issue.”
-
-“Update the customer accounts.”
-
-“Optimize the campaign.”
-
-“Resolve these tickets.”
-
-“Remove the unused resources.”
-
-The sentence is short.
-
-The implied action may not be.
+“Optimize the campaign.” “Resolve these tickets.” “Remove the unused resources.” The sentence is short. The implied action may not be.
 
 ## Friendly interfaces do not shrink consequence
 
-Human-computer interfaces have spent decades becoming easier.
-
-That is usually good.
-
-We replaced obscure commands with buttons.
-
-Buttons with apps.
-
-Apps with APIs.
+Human-computer interfaces have spent decades becoming easier. That is usually good. We replaced obscure commands with buttons. Buttons with apps. Apps with APIs.
 
 APIs with assistants.
 
@@ -108,55 +84,15 @@ Yes.
 
 A stronger control system asks what scope of deletion is normal and what scope requires another signal.
 
-Five development instances in one project?
+Five development instances in one project? Proceed. Five hundred instances across production accounts? Stop. Same verb.
 
-Proceed.
+Different consequence. The distinction applies outside infrastructure. “Email the customers.” Which customers? Ten people who opened a support case?
 
-Five hundred instances across production accounts?
+Every account in the database? “Update the price.” For one test cohort? For every product in every country? “Archive inactive users.”
 
-Stop.
+How many? What counts as inactive? What rights disappear when archived? “Correct the spreadsheet.” One cell?
 
-Same verb.
-
-Different consequence.
-
-The distinction applies outside infrastructure.
-
-“Email the customers.”
-
-Which customers?
-
-Ten people who opened a support case?
-
-Every account in the database?
-
-“Update the price.”
-
-For one test cohort?
-
-For every product in every country?
-
-“Archive inactive users.”
-
-How many?
-
-What counts as inactive?
-
-What rights disappear when archived?
-
-“Correct the spreadsheet.”
-
-One cell?
-
-A formula copied across the financial model?
-
-“Merge the duplicate records.”
-
-Two contacts?
-
-Ten thousand patient identities?
-
-Scope is not metadata.
+A formula copied across the financial model? “Merge the duplicate records.” Two contacts? Ten thousand patient identities? Scope is not metadata.
 
 Scope is part of authority.
 
@@ -176,41 +112,15 @@ It may be exactly what the user intended.
 
 But the system should not treat it as ordinary merely because the API accepts the request.
 
-This is a surprise threshold.
+This is a surprise threshold. It can be based on count. Dollar value. Geographic reach. Customer impact.
 
-It can be based on count.
-
-Dollar value.
-
-Geographic reach.
-
-Customer impact.
-
-Privilege level.
-
-Irreversibility.
-
-Data sensitivity.
-
-Time horizon.
-
-Deviation from historical behavior.
+Privilege level. Irreversibility. Data sensitivity. Time horizon. Deviation from historical behavior.
 
 The threshold does not have to reject the action.
 
-It can change the mode.
+It can change the mode. Ask for confirmation. Require a second credential. Produce a dry run. Show the affected objects.
 
-Ask for confirmation.
-
-Require a second credential.
-
-Produce a dry run.
-
-Show the affected objects.
-
-Split the action into batches.
-
-Move the operation into a maintenance window.
+Split the action into batches. Move the operation into a maintenance window.
 
 Require another person for a particularly consequential class.
 
@@ -266,15 +176,7 @@ Seams are where control enters.
 
 After a large operational failure, organizations often write rules.
 
-Be careful.
-
-Double-check commands.
-
-Verify the environment.
-
-Confirm the host.
-
-Do not run destructive actions under pressure.
+Be careful. Double-check commands. Verify the environment. Confirm the host. Do not run destructive actions under pressure.
 
 These rules are reasonable.
 
@@ -282,15 +184,7 @@ They are also weak if the system allows one ordinary-looking mistake to produce 
 
 Human attention is not a durable safety boundary.
 
-People get tired.
-
-They get rushed.
-
-They work incidents at strange hours.
-
-They copy and paste.
-
-They trust familiar tools.
+People get tired. They get rushed. They work incidents at strange hours. They copy and paste. They trust familiar tools.
 
 They make correct decisions with one incorrect parameter.
 
@@ -306,13 +200,7 @@ Separate production from development identities.
 
 Use typed actions rather than free-form destructive commands where practical.
 
-Preview large effects.
-
-Make irreversible operations slower than reversible ones.
-
-Preserve audit evidence.
-
-Provide a recovery path.
+Preview large effects. Make irreversible operations slower than reversible ones. Preserve audit evidence. Provide a recovery path.
 
 AI should make these mechanisms easier, not replace them with “the model will understand.”
 
@@ -342,25 +230,9 @@ The support team may use the same assistant to communicate with customers about 
 
 The executive team may rely on AI-generated summaries built from monitoring data that stopped flowing.
 
-Convenience tends to centralize.
+Convenience tends to centralize. Recovery needs a little deliberate awkwardness. A phone number. A separate credential. A local copy.
 
-Recovery needs a little deliberate awkwardness.
-
-A phone number.
-
-A separate credential.
-
-A local copy.
-
-An offline runbook.
-
-A second communication channel.
-
-A small deterministic tool.
-
-A status surface that fails differently.
-
-Not because every system deserves a bunker.
+An offline runbook. A second communication channel. A small deterministic tool. A status surface that fails differently. Not because every system deserves a bunker.
 
 Because the emergency path should not disappear under the exact emergency it exists to handle.
 
@@ -376,33 +248,13 @@ Not an elaborate adversarial attack.
 
 A plausible instruction from an authorized person, misunderstood or scoped incorrectly.
 
-“Clean this up.”
+“Clean this up.” “Send the update.” “Make the correction.” “Close the old accounts.” “Deploy the fix.”
 
-“Send the update.”
-
-“Make the correction.”
-
-“Close the old accounts.”
-
-“Deploy the fix.”
-
-“Rebalance the portfolio.”
-
-“Remove duplicates.”
-
-“Grant access.”
-
-“Retry the failed jobs.”
+“Rebalance the portfolio.” “Remove duplicates.” “Grant access.” “Retry the failed jobs.”
 
 If one such instruction can create unacceptable consequence, the system has too much undifferentiated authority.
 
-Break the action apart.
-
-Add scope limits.
-
-Create thresholds.
-
-Separate planning from execution.
+Break the action apart. Add scope limits. Create thresholds. Separate planning from execution.
 
 Require a higher-friction signal when the radius expands.
 
@@ -416,13 +268,7 @@ That does not mean it should be able to turn a one-line request into a region-si
 
 ## Small inputs, large outputs
 
-Modern systems are leverage machines.
-
-That is their value.
-
-One engineer can operate enormous infrastructure.
-
-One marketer can reach millions of customers.
+Modern systems are leverage machines. That is their value. One engineer can operate enormous infrastructure. One marketer can reach millions of customers.
 
 One financial system can settle vast numbers of transactions.
 

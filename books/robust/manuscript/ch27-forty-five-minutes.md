@@ -20,25 +20,9 @@ That mismatch is now becoming ordinary outside finance.
 
 AI agents can take actions at machine speed in domains that previously moved at human speed.
 
-They can change records.
+They can change records. Send messages. Open and close tickets. Modify code. Approve routine transactions.
 
-Send messages.
-
-Open and close tickets.
-
-Modify code.
-
-Approve routine transactions.
-
-Buy advertising.
-
-Schedule work.
-
-Issue refunds.
-
-Move inventory.
-
-Trigger other software.
+Buy advertising. Schedule work. Issue refunds. Move inventory. Trigger other software.
 
 Call other agents.
 
@@ -66,13 +50,7 @@ It is also:
 
 How much can happen while it is wrong?
 
-That is a different design variable.
-
-A trader can have a capital limit.
-
-A payment system can have transaction caps.
-
-A database credential can be read-only.
+That is a different design variable. A trader can have a capital limit. A payment system can have transaction caps. A database credential can be read-only.
 
 A deployment agent can be restricted to staging.
 
@@ -98,15 +76,7 @@ Company A gives the agent broad permissions because the model looks excellent in
 
 Company B gives the agent narrower permissions. It can resolve low-value cases automatically, cannot exceed transaction limits, cannot alter protected fields, and escalates when a case crosses defined boundaries. Within that envelope, no manager approval is required.
 
-Which company is more automated?
-
-Probably Company B.
-
-It has turned risk into architecture.
-
-Company A has turned risk into attention.
-
-Attention is scarce.
+Which company is more automated? Probably Company B. It has turned risk into architecture. Company A has turned risk into attention. Attention is scarce.
 
 Architecture scales.
 
@@ -178,15 +148,7 @@ What protects the system during those minutes?
 
 One of the simplest AI controls is also one of the least glamorous.
 
-Rate.
-
-How many actions per minute?
-
-How many customers per hour?
-
-How many dollars per day?
-
-How many records per batch?
+Rate. How many actions per minute? How many customers per hour? How many dollars per day? How many records per batch?
 
 How many tool calls before a checkpoint?
 
@@ -204,15 +166,7 @@ The permission surface is not.
 
 This gives teams a powerful way to increase autonomy gradually.
 
-Start with a small action budget.
-
-Observe.
-
-Measure.
-
-Expand as evidence accumulates.
-
-If performance degrades, contract the budget.
+Start with a small action budget. Observe. Measure. Expand as evidence accumulates. If performance degrades, contract the budget.
 
 Authority becomes adjustable rather than philosophical.
 
@@ -226,43 +180,15 @@ This is autonomy as a control loop.
 
 ## Consequence classes
 
-Not all actions deserve the same boundary.
+Not all actions deserve the same boundary. A robust organization classifies them by consequence. Class One: cheap, visible, reversible. Drafting an internal summary. Tagging a support ticket.
 
-A robust organization classifies them by consequence.
+Suggesting code changes in a branch. Scheduling a tentative meeting. These can often move quickly. Class Two: externally visible but recoverable. Sending a routine customer response.
 
-Class One: cheap, visible, reversible.
-
-Drafting an internal summary.
-
-Tagging a support ticket.
-
-Suggesting code changes in a branch.
-
-Scheduling a tentative meeting.
-
-These can often move quickly.
-
-Class Two: externally visible but recoverable.
-
-Sending a routine customer response.
-
-Issuing a small credit.
-
-Publishing a low-risk content change.
-
-Updating a noncritical record.
+Issuing a small credit. Publishing a low-risk content change. Updating a noncritical record.
 
 These may need monitoring, caps, and sampling rather than constant approval.
 
-Class Three: consequential and partially reversible.
-
-Changing pricing.
-
-Committing meaningful spend.
-
-Deploying production code.
-
-Approving a contract variation.
+Class Three: consequential and partially reversible. Changing pricing. Committing meaningful spend. Deploying production code. Approving a contract variation.
 
 Changing access permissions.
 
@@ -286,15 +212,7 @@ Consequence is.
 
 ## The danger of inherited credentials
 
-Many AI systems become powerful accidentally.
-
-The agent runs inside an employee’s account.
-
-The employee already has broad access.
-
-So the agent inherits it.
-
-This is convenient.
+Many AI systems become powerful accidentally. The agent runs inside an employee’s account. The employee already has broad access. So the agent inherits it. This is convenient.
 
 It also collapses the distinction between what the human may do and what the automation should be able to do unattended.
 
@@ -336,15 +254,7 @@ But acting systems need another category of control: stop the stream.
 
 Even if the model remains confused, prevent confusion from propagating indefinitely.
 
-Limit the transaction.
-
-Limit the duration.
-
-Limit the scope.
-
-Limit the customer cohort.
-
-Limit the credential.
+Limit the transaction. Limit the duration. Limit the scope. Limit the customer cohort. Limit the credential.
 
 Limit the blast radius.
 
@@ -364,29 +274,13 @@ High intelligence does not repeal the value of bounded consequence.
 
 ## A forty-five-minute test
 
-Take your most autonomous AI workflow.
-
-Imagine it is wrong for forty-five minutes.
-
-Not malicious.
-
-Not spectacularly insane.
+Take your most autonomous AI workflow. Imagine it is wrong for forty-five minutes. Not malicious. Not spectacularly insane.
 
 Just consistently wrong in a way your normal monitoring does not immediately identify.
 
-What can it do?
+What can it do? How many records can it touch? How many people can it contact? How much money can it spend? How many deployments can it make?
 
-How many records can it touch?
-
-How many people can it contact?
-
-How much money can it spend?
-
-How many deployments can it make?
-
-How many other systems can it trigger?
-
-How much evidence will survive?
+How many other systems can it trigger? How much evidence will survive?
 
 How quickly can a human understand the pattern?
 
@@ -396,12 +290,6 @@ Which consequences remain after it stops?
 
 If the answer is “enough to threaten the company,” you do not have an AI problem.
 
-You have an authority problem.
-
-The model may deserve more trust tomorrow.
-
-The boundary should still exist today.
-
-Robust autonomy is not autonomy without limits.
+You have an authority problem. The model may deserve more trust tomorrow. The boundary should still exist today. Robust autonomy is not autonomy without limits.
 
 It is autonomy whose limits are designed before the forty-five minutes begin.

@@ -190,19 +190,9 @@ It is to know when we are standing on it.
 
 A mature AI workflow should be able to answer a few plain questions.
 
-What cases are routine?
+What cases are routine? What cases are frontier? How do we know the difference? What happens when we guess wrong? Can a failure be detected before consequence?
 
-What cases are frontier?
-
-How do we know the difference?
-
-What happens when we guess wrong?
-
-Can a failure be detected before consequence?
-
-Can the action be reversed?
-
-How much uncertainty is acceptable here?
+Can the action be reversed? How much uncertainty is acceptable here?
 
 Who owns the answer when the model’s confidence and the system’s confidence diverge?
 

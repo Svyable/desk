@@ -194,19 +194,9 @@ But public benchmark superiority is not a migration plan.
 
 The right response to a strong new model is curiosity with instrumentation.
 
-Run it against your cases.
+Run it against your cases. Compare failures, not just averages. Look for new classes of mistake. Measure the human queue. Measure tool calls.
 
-Compare failures, not just averages.
-
-Look for new classes of mistake.
-
-Measure the human queue.
-
-Measure tool calls.
-
-Measure cost.
-
-Measure latency.
+Measure cost. Measure latency.
 
 Measure the rate at which the system knows to stop.
 
@@ -234,21 +224,9 @@ That is a quiet form of strategic speed.
 
 The same discipline applies when the change is not a model upgrade.
 
-A retrieval system changes ranking.
+A retrieval system changes ranking. A new tool is added. A permission is removed. A prompt is shortened. A policy is updated.
 
-A new tool is added.
-
-A permission is removed.
-
-A prompt is shortened.
-
-A policy is updated.
-
-An agent gets more autonomy.
-
-A human checkpoint is removed.
-
-Each is a system change.
+An agent gets more autonomy. A human checkpoint is removed. Each is a system change.
 
 The robust organization does not demand ceremony around every tweak. That would suffocate progress. It scales the test to the consequence.
 

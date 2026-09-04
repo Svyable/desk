@@ -2,13 +2,7 @@
 
 The core argument could end at *Sturdy, Not Still*.
 
-Keep the root.
-
-Move the branch.
-
-Preserve agency under surprise.
-
-That is enough for a philosophy.
+Keep the root. Move the branch. Preserve agency under surprise. That is enough for a philosophy.
 
 A philosophy becomes useful only when it survives contact with scale.
 

@@ -236,15 +236,7 @@ Run the migration.
 
 Turn off the preferred provider for an hour in a controlled environment.
 
-Sample a manual case.
-
-Exercise the approval path.
-
-Restore from backup.
-
-Try the smaller model.
-
-Make the safe stop visible.
+Sample a manual case. Exercise the approval path. Restore from backup. Try the smaller model. Make the safe stop visible.
 
 The purpose is not to cosplay catastrophe.
 
@@ -274,15 +266,7 @@ Most of all, robustness is permission to stop demanding certainty before moving.
 
 If every important decision required a correct forecast of AI’s next five years, almost nobody could act responsibly.
 
-We do not have those forecasts.
-
-We have ranges.
-
-We have trends.
-
-We have evidence.
-
-We have choices whose reversibility differs.
+We do not have those forecasts. We have ranges. We have trends. We have evidence. We have choices whose reversibility differs.
 
 That is enough.
 

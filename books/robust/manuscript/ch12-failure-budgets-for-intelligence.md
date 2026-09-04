@@ -4,21 +4,9 @@ Every useful AI system is going to fail.
 
 This statement can sound like defeatism until you compare it with every other useful system humans have built.
 
-Networks fail.
+Networks fail. People fail. Sensors fail. Hospitals make errors. Markets misprice.
 
-People fail.
-
-Sensors fail.
-
-Hospitals make errors.
-
-Markets misprice.
-
-Cars break.
-
-Databases corrupt.
-
-Organizations misunderstand their own customers.
+Cars break. Databases corrupt. Organizations misunderstand their own customers.
 
 The serious question is never whether failure exists.
 
@@ -26,13 +14,7 @@ It is how much, where, in what shape, with what warning, and at what cost.
 
 Reliability engineering became more mature when it stopped treating zero failure as the default objective. Google’s site-reliability tradition made the idea operational through service-level objectives and error budgets. A service promises a level of performance. The gap between perfect service and that target becomes a budget for failure. If the service is comfortably inside the budget, the team can spend more risk on change. If the budget is consumed, attention shifts toward reliability.
 
-AI needs an equivalent discipline.
-
-Not a universal number.
-
-A way of thinking.
-
-Call it a **failure budget for intelligence**.
+AI needs an equivalent discipline. Not a universal number. A way of thinking. Call it a **failure budget for intelligence**.
 
 The phrase means the amount and type of error an AI-enabled workflow can tolerate before the organization must reduce autonomy, slow change, improve controls, change models, or redesign the process.
 
@@ -84,25 +66,9 @@ This is also why incident counts alone can be misleading.
 
 Ten incidents from ten unrelated causes may be healthier than two incidents from the same unresolved dependency.
 
-Failure budgeting therefore needs categories.
+Failure budgeting therefore needs categories. Model reasoning. Retrieval. Tool use. Permissions.
 
-Model reasoning.
-
-Retrieval.
-
-Tool use.
-
-Permissions.
-
-Data quality.
-
-Policy ambiguity.
-
-Human approval.
-
-External service.
-
-Security.
+Data quality. Policy ambiguity. Human approval. External service. Security.
 
 Whatever reflects the system.
 
@@ -192,15 +158,7 @@ Think of driving.
 
 We accept that drivers make mistakes. We do not respond by allowing unlimited speed next to a school and saying the annual collision rate is within budget. Roads, speed limits, barriers, licensing, vehicle design, and enforcement shape the consequence before individual error is measured.
 
-AI needs the same layering.
-
-Model quality is one layer.
-
-System constraints are another.
-
-Monitoring is another.
-
-Human and institutional response is another.
+AI needs the same layering. Model quality is one layer. System constraints are another. Monitoring is another. Human and institutional response is another.
 
 A robust failure budget spans all of them.
 
@@ -220,35 +178,15 @@ This is especially important with generative systems because errors can be persu
 
 A deterministic system often fails noisily. The server returns an error. The field is invalid. The calculation does not balance.
 
-A language model can fail elegantly.
-
-The sentence completes.
-
-The table aligns.
-
-The citation looks real.
-
-The plan has numbered steps.
+A language model can fail elegantly. The sentence completes. The table aligns. The citation looks real. The plan has numbered steps.
 
 Detectability is therefore a first-class design variable.
 
 If a model is used where errors are hard to detect, the workflow should compensate.
 
-Use external checks.
+Use external checks. Force source retrieval. Run deterministic calculations. Compare against constraints. Require additional evidence for high-consequence action.
 
-Force source retrieval.
-
-Run deterministic calculations.
-
-Compare against constraints.
-
-Require additional evidence for high-consequence action.
-
-Sample outputs.
-
-Measure disagreement.
-
-Make uncertainty visible where possible.
+Sample outputs. Measure disagreement. Make uncertainty visible where possible.
 
 A strong model plus weak detectability can be more dangerous than a weaker model whose errors are obvious, because users reorganize trust around apparent competence.
 
@@ -270,43 +208,13 @@ A cluster of incorrect outputs after a source update deserves attention even if 
 
 The system should know when it is burning through confidence too fast.
 
-This suggests a control ladder.
+This suggests a control ladder. When the budget is healthy, experiment. Try new models. Expand low-risk autonomy. Reduce unnecessary friction.
 
-When the budget is healthy, experiment.
+When the budget is tightening, investigate. Slow migrations. Increase sampling. Review the dominant failure categories. When the budget is exhausted, contract.
 
-Try new models.
+Return some actions to approval. Roll back the model. Disable a tool. Shrink permissions. Move into degraded mode.
 
-Expand low-risk autonomy.
-
-Reduce unnecessary friction.
-
-When the budget is tightening, investigate.
-
-Slow migrations.
-
-Increase sampling.
-
-Review the dominant failure categories.
-
-When the budget is exhausted, contract.
-
-Return some actions to approval.
-
-Roll back the model.
-
-Disable a tool.
-
-Shrink permissions.
-
-Move into degraded mode.
-
-Fix the system.
-
-Then expand again.
-
-This is not punishment.
-
-It is steering.
+Fix the system. Then expand again. This is not punishment. It is steering.
 
 The organization becomes able to move fast precisely because it has an agreed way to stop spending risk.
 
@@ -358,15 +266,7 @@ Different answer.
 
 Can it be trusted to make the decision that determines whether someone receives a benefit?
 
-Different answer.
-
-“Trust” should dissolve into architecture.
-
-What is the budget?
-
-What is the boundary?
-
-What is the evidence?
+Different answer. “Trust” should dissolve into architecture. What is the budget? What is the boundary? What is the evidence?
 
 What happens when the system spends too much?
 

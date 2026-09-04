@@ -38,13 +38,7 @@ Sometimes the theory is correct.
 
 The problem is that conversation gives every evaluator a different test.
 
-Different prompts.
-
-Different domains.
-
-Different patience.
-
-Different expectations.
+Different prompts. Different domains. Different patience. Different expectations.
 
 Different memory of what the old system did.
 
@@ -68,37 +62,15 @@ The address with an apartment number.
 
 The customer whose last name contains an apostrophe.
 
-The empty field.
-
-The duplicate attachment.
-
-The normal refund.
-
-The code path everyone uses.
+The empty field. The duplicate attachment. The normal refund. The code path everyone uses.
 
 The policy question that appears fifty times a week.
 
 If the system cannot do ordinary work consistently, its brilliance on exceptional work will not save the operation.
 
-Then add the edges.
+Then add the edges. Cases that failed before. Cases employees know are tricky. Ambiguous inputs. Missing context.
 
-Cases that failed before.
-
-Cases employees know are tricky.
-
-Ambiguous inputs.
-
-Missing context.
-
-Conflicting instructions.
-
-Long documents.
-
-Unusual language.
-
-Adversarial content where relevant.
-
-Tool errors.
+Conflicting instructions. Long documents. Unusual language. Adversarial content where relevant. Tool errors.
 
 External service failures.
 
@@ -112,39 +84,17 @@ Together, ordinary and edge cases create a small map of the local coastline.
 
 The second rule is **score what matters at the system boundary.**
 
-Suppose an agent handles customer requests.
-
-“Answer quality” is too vague.
-
-Break it.
-
-Was the policy applied correctly?
+Suppose an agent handles customer requests. “Answer quality” is too vague. Break it. Was the policy applied correctly?
 
 Was the answer supported by the customer’s record?
 
-Did the system expose private information?
-
-Did it choose the correct tool?
-
-Did it modify the correct account?
-
-Did it know when approval was required?
+Did the system expose private information? Did it choose the correct tool? Did it modify the correct account? Did it know when approval was required?
 
 Did it resolve the issue without creating another?
 
-Did the customer have to come back?
+Did the customer have to come back? How long did it take? How much did it cost? How many cases entered the human queue? These metrics will disagree.
 
-How long did it take?
-
-How much did it cost?
-
-How many cases entered the human queue?
-
-These metrics will disagree.
-
-Good.
-
-That is the real decision.
+Good. That is the real decision.
 
 One model may produce better answers and cost three times more. Another may be slightly less accurate and much faster. A third may be excellent on routine requests and poor at escalation. The system choice depends on the shape of the work.
 
@@ -162,19 +112,9 @@ Dashboards forget it every day.
 
 Accuracy averages unlike errors into one number. A model can improve overall performance while creating a rare failure class the organization cannot accept.
 
-So tag cases by consequence.
+So tag cases by consequence. Benign. Annoying. Recoverable. Material.
 
-Benign.
-
-Annoying.
-
-Recoverable.
-
-Material.
-
-Severe.
-
-Whatever language fits the domain.
+Severe. Whatever language fits the domain.
 
 The labels do not have to be universal. They have to change decisions.
 
@@ -188,15 +128,7 @@ A system that always answers can look impressive and be fragile.
 
 Some of the most valuable behavior in production is the ability to stop.
 
-I do not have the document.
-
-The evidence conflicts.
-
-This transaction is outside my authority.
-
-The tool returned an unexpected state.
-
-The policy does not cover this case.
+I do not have the document. The evidence conflicts. This transaction is outside my authority. The tool returned an unexpected state. The policy does not cover this case.
 
 A person needs to decide.
 
@@ -212,41 +144,15 @@ How often does it stop when it could safely act?
 
 That pair is far more informative than “hallucination rate” for many workflows.
 
-The fifth rule is **version everything.**
+The fifth rule is **version everything.** Model version. Prompt version. Tool schema. Retrieval configuration.
 
-Model version.
-
-Prompt version.
-
-Tool schema.
-
-Retrieval configuration.
-
-Policy version.
-
-Dataset vintage.
-
-Evaluation set.
-
-Scoring rubric.
-
-The date.
+Policy version. Dataset vintage. Evaluation set. Scoring rubric. The date.
 
 This may feel bureaucratic until the system changes.
 
-Then someone asks, “Why did performance drop?”
+Then someone asks, “Why did performance drop?” Without versions, the answer becomes folklore. Maybe the model changed. Maybe the source documents changed. Maybe the prompt changed.
 
-Without versions, the answer becomes folklore.
-
-Maybe the model changed.
-
-Maybe the source documents changed.
-
-Maybe the prompt changed.
-
-Maybe the evaluator changed.
-
-Maybe the cases changed.
+Maybe the evaluator changed. Maybe the cases changed.
 
 Maybe nothing changed and the sample was small.
 
@@ -400,12 +306,4 @@ The organization that has them can adopt faster because it knows how to learn.
 
 The organization without them is forced to choose between hype and caution.
 
-One trusts the demo.
-
-The other delays.
-
-Robust teams build the third option.
-
-They test.
-
-Then they earn an opinion.
+One trusts the demo. The other delays. Robust teams build the third option. They test. Then they earn an opinion.

@@ -50,15 +50,7 @@ The hardest failure modes often grow out of successful operating habits.
 
 A team finds a way to deploy quickly.
 
-It works.
-
-The organization gains confidence.
-
-More changes use the path.
-
-The path becomes normal.
-
-The normal path becomes infrastructure.
+It works. The organization gains confidence. More changes use the path. The path becomes normal. The normal path becomes infrastructure.
 
 Then the organization forgets that the path itself is one of the things that can fail.
 
@@ -98,21 +90,9 @@ How far can it travel before we know?
 
 Teams spend enormous effort on the first question.
 
-Tests.
+Tests. Validation. Code review. Benchmarks. Security analysis.
 
-Validation.
-
-Code review.
-
-Benchmarks.
-
-Security analysis.
-
-Schema checks.
-
-Evals.
-
-All useful.
+Schema checks. Evals. All useful.
 
 The second question is often cheaper and more powerful.
 
@@ -138,25 +118,9 @@ The old limit on bad judgment was often human throughput.
 
 A person could be wrong only so fast.
 
-Automation removes that limit.
+Automation removes that limit. So robust systems need another one. A canary. A staged rollout. A transaction ceiling.
 
-So robust systems need another one.
-
-A canary.
-
-A staged rollout.
-
-A transaction ceiling.
-
-A daily action budget.
-
-A permission boundary.
-
-A segment boundary.
-
-A reversible cohort.
-
-A shadow deployment.
+A daily action budget. A permission boundary. A segment boundary. A reversible cohort. A shadow deployment.
 
 A second signal before commit.
 
@@ -210,21 +174,9 @@ You have a convenience path.
 
 This is easy to miss because healthy systems make every channel look available.
 
-The cloud console works.
+The cloud console works. Remote management works. The identity provider works. The endpoint agent works. The database works.
 
-Remote management works.
-
-The identity provider works.
-
-The endpoint agent works.
-
-The database works.
-
-The network works.
-
-The model works.
-
-The agent can call its tools.
+The network works. The model works. The agent can call its tools.
 
 Then an incident removes one of the prerequisites and the architecture reveals which controls were actually independent.
 
@@ -254,15 +206,7 @@ But differently enough that the event you are protecting against does not automa
 
 Organizations often compensate for automation risk with approval.
 
-Put a human in the loop.
-
-Require a ticket.
-
-Add a committee.
-
-Make the release manager click a button.
-
-That can be useful.
+Put a human in the loop. Require a ticket. Add a committee. Make the release manager click a button. That can be useful.
 
 It can also be a mismatch.
 
@@ -306,15 +250,7 @@ Then it expands across cohorts.
 
 Then it receives broader authority because the evidence supports it.
 
-At every rung, ask four questions.
-
-What new capability did we add?
-
-What new failure became possible?
-
-How far can that failure travel?
-
-How do we take the authority back?
+At every rung, ask four questions. What new capability did we add? What new failure became possible? How far can that failure travel? How do we take the authority back?
 
 That last question is the one teams skip when progress feels good.
 
@@ -322,15 +258,7 @@ Authority is easy to grant incrementally and hard to see once it has become norm
 
 The system begins with permission to draft an email.
 
-Then send to employees.
-
-Then send to customers.
-
-Then respond automatically.
-
-Then issue credits.
-
-Then change subscriptions.
+Then send to employees. Then send to customers. Then respond automatically. Then issue credits. Then change subscriptions.
 
 Each step feels local.
 
@@ -342,19 +270,9 @@ A release ladder makes the authority change explicit.
 
 Rollback is often treated as an emergency engineering feature.
 
-It deserves product thinking.
+It deserves product thinking. What does the operator see? How quickly can they decide? What evidence tells them rollback is necessary? What state is preserved?
 
-What does the operator see?
-
-How quickly can they decide?
-
-What evidence tells them rollback is necessary?
-
-What state is preserved?
-
-What happens to actions already taken?
-
-What does the user experience during degradation?
+What happens to actions already taken? What does the user experience during degradation?
 
 Which commitments cannot be reversed and need compensation instead?
 
@@ -362,57 +280,21 @@ How does the organization know rollback itself worked?
 
 The best rollback is not necessarily restoration to the exact previous state.
 
-Sometimes the previous state is gone.
+Sometimes the previous state is gone. The new model has written data. The agent has sent messages. The system has made trades. The customer has acted on the answer.
 
-The new model has written data.
+The robust design plans for this too. Stop new damage. Preserve evidence. Move to a known degraded mode. Identify irreversible actions.
 
-The agent has sent messages.
-
-The system has made trades.
-
-The customer has acted on the answer.
-
-The robust design plans for this too.
-
-Stop new damage.
-
-Preserve evidence.
-
-Move to a known degraded mode.
-
-Identify irreversible actions.
-
-Repair or compensate where possible.
-
-Then resume carefully.
-
-Recovery is a workflow, not a button.
+Repair or compensate where possible. Then resume carefully. Recovery is a workflow, not a button.
 
 ## The lesson is not “update less”
 
-Security systems must update.
+Security systems must update. AI systems must update. Models will improve. Providers will retire versions. Threats will change.
 
-AI systems must update.
-
-Models will improve.
-
-Providers will retire versions.
-
-Threats will change.
-
-Costs will change.
-
-Regulations will change.
+Costs will change. Regulations will change.
 
 Organizations that become afraid of change will accumulate a different form of fragility.
 
-Old software.
-
-Old assumptions.
-
-Unsupported models.
-
-Unpatched vulnerabilities.
+Old software. Old assumptions. Unsupported models. Unpatched vulnerabilities.
 
 Employees maintaining obsolete processes because nobody wants to touch them.
 

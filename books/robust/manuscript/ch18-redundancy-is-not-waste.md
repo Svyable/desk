@@ -86,21 +86,9 @@ The failure dictates the redundancy.
 
 This sounds elementary and is violated constantly because “backup” becomes a noun before the failure becomes specific.
 
-We have a backup model.
+We have a backup model. For what? We have a human review. Protecting against what? We have two data centers.
 
-For what?
-
-We have a human review.
-
-Protecting against what?
-
-We have two data centers.
-
-Do they share power, network, or identity?
-
-We have documented the process.
-
-Can anyone execute it at current scale?
+Do they share power, network, or identity? We have documented the process. Can anyone execute it at current scale?
 
 The robust organization asks what independence exists in practice.
 
@@ -192,15 +180,7 @@ AI may reduce the amount of slack organizations need in some areas and increase 
 
 If intelligence makes routine execution faster, teams can build schedule buffers without lowering total throughput. If AI makes demand more bursty because work can be generated instantly, downstream human review may need more capacity slack. If models become cheap but provider demand spikes, local capacity may become strategic.
 
-The system changes where slack belongs.
-
-There is **financial redundancy** too.
-
-Cash.
-
-Unused credit.
-
-Multiple revenue streams.
+The system changes where slack belongs. There is **financial redundancy** too. Cash. Unused credit. Multiple revenue streams.
 
 Insurance.
 
@@ -216,15 +196,7 @@ The same is true for people.
 
 A worker with one narrow tool-specific skill and no savings is exposed to a rapid change in demand differently from someone with transferable skills, relationships, and financial runway. Advising everyone simply to “be adaptable” ignores the infrastructure adaptation requires.
 
-Learning takes time.
-
-Switching jobs takes time.
-
-Building a new business takes time.
-
-Runway is personal redundancy.
-
-So are relationships.
+Learning takes time. Switching jobs takes time. Building a new business takes time. Runway is personal redundancy. So are relationships.
 
 So is reputation.
 
@@ -246,7 +218,7 @@ It builds enough alternate routes that disruption does not become ruin for every
 
 There is a temptation here to invoke nature.
 
-Biological systems contain redundancy. Two kidneys. Paired organs. genetic duplication. Diverse ecosystems.
+Biological systems contain redundancy. Two kidneys. Paired organs. Genetic duplication. Diverse ecosystems.
 
 The analogies can illuminate and mislead. Nature is not optimized for corporate margins, and plenty of organisms are exquisitely fragile. The useful point is simpler: systems facing uncertain environments often pay costs for spare capacity, diversity, and repair.
 

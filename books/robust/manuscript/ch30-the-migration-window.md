@@ -1,12 +1,6 @@
 # The Migration Window
 
-Every dependency has a clock.
-
-Some clocks are contractual.
-
-Some are technical.
-
-Some are economic.
+Every dependency has a clock. Some clocks are contractual. Some are technical. Some are economic.
 
 Some are hidden until the dependency changes underneath you.
 
@@ -36,25 +30,9 @@ A migration reveals what the organization actually coupled to the model.
 
 Before the migration, teams often believe the dependency is simple.
 
-We call an API.
+We call an API. We send a prompt. We receive an answer. Then the replacement model arrives. Formatting changes.
 
-We send a prompt.
-
-We receive an answer.
-
-Then the replacement model arrives.
-
-Formatting changes.
-
-Tool selection changes.
-
-Latency changes.
-
-Context behavior changes.
-
-Refusal behavior changes.
-
-The model follows instructions differently.
+Tool selection changes. Latency changes. Context behavior changes. Refusal behavior changes. The model follows instructions differently.
 
 The old few-shot examples become unnecessary or counterproductive.
 
@@ -104,21 +82,9 @@ It has nostalgia.
 
 Migration forces the team to write down what it actually needs.
 
-That is healthy.
+That is healthy. What outputs are required? What errors are unacceptable? What latency matters? What tone is part of the product?
 
-What outputs are required?
-
-What errors are unacceptable?
-
-What latency matters?
-
-What tone is part of the product?
-
-What tool permissions are necessary?
-
-What cases should escalate?
-
-Which variation is harmless?
+What tool permissions are necessary? What cases should escalate? Which variation is harmless?
 
 Which behavior was merely an accident of the old model?
 
@@ -126,15 +92,7 @@ A migration becomes easier when the answer is encoded in tests, schemas, policie
 
 ## Do not preserve the bug because users learned it
 
-Compatibility is useful.
-
-It can also become a trap.
-
-Teams adapt to model behavior.
-
-They write prompts around quirks.
-
-They add parsing logic around odd formatting.
+Compatibility is useful. It can also become a trap. Teams adapt to model behavior. They write prompts around quirks. They add parsing logic around odd formatting.
 
 They create human review habits around known weaknesses.
 
@@ -174,29 +132,11 @@ New system on Monday.
 
 No meaningful period in which the organization can compare the two under real conditions.
 
-Sometimes deadlines make cliffs unavoidable.
+Sometimes deadlines make cliffs unavoidable. Usually they are a planning choice. A better migration creates overlap. Shadow traffic. Dual evaluation.
 
-Usually they are a planning choice.
+A small production cohort. Side-by-side review. A replay of historical cases. A canary by workflow. A limited set of customers.
 
-A better migration creates overlap.
-
-Shadow traffic.
-
-Dual evaluation.
-
-A small production cohort.
-
-Side-by-side review.
-
-A replay of historical cases.
-
-A canary by workflow.
-
-A limited set of customers.
-
-A temporary compatibility layer.
-
-Overlap buys evidence.
+A temporary compatibility layer. Overlap buys evidence.
 
 It also exposes whether the organization’s evaluation reflects reality.
 
@@ -240,19 +180,9 @@ The duplicate data pipeline stays.
 
 Soon the architecture contains the fossil record of every transition.
 
-That is not robustness.
+That is not robustness. It is sediment. A migration should have a deletion plan. What disappears when confidence is high enough? When is the old provider route removed?
 
-It is sediment.
-
-A migration should have a deletion plan.
-
-What disappears when confidence is high enough?
-
-When is the old provider route removed?
-
-When is the compatibility shim retired?
-
-When do duplicate eval results stop running?
+When is the compatibility shim retired? When do duplicate eval results stop running?
 
 When can the team stop preserving a fallback that no longer justifies its cost?
 
@@ -270,15 +200,7 @@ Then it closes them deliberately.
 
 Model migrations often fall into an organizational crack.
 
-Infrastructure owns the API.
-
-Product owns the user experience.
-
-Data owns retrieval.
-
-Security owns permissions.
-
-Legal owns policy constraints.
+Infrastructure owns the API. Product owns the user experience. Data owns retrieval. Security owns permissions. Legal owns policy constraints.
 
 Operations owns the human fallback.
 
@@ -344,19 +266,9 @@ Companies sometimes prove portability by saying, “We could move if we had to.�
 
 That statement gets less credible every year the move is not attempted.
 
-Dependencies deepen.
+Dependencies deepen. People forget. Vendor-specific features become valuable. Data accumulates. Theoretical switching cost becomes real switching cost.
 
-People forget.
-
-Vendor-specific features become valuable.
-
-Data accumulates.
-
-Theoretical switching cost becomes real switching cost.
-
-This is not automatically bad.
-
-A deep dependency may be economically rational.
+This is not automatically bad. A deep dependency may be economically rational.
 
 But the organization should know the difference between *could move* and *could move within the time we can tolerate*.
 

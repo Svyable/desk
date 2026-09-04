@@ -214,15 +214,7 @@ Agentic systems make the point vivid.
 
 A model may be capable of operating a computer. That does not mean it should begin with access to the employee’s entire desktop, password manager, messaging history, finance system, and production console.
 
-Give it a workspace.
-
-Give it the tools the task needs.
-
-Expand after evidence.
-
-Capability can be broad.
-
-Authority can be narrow.
+Give it a workspace. Give it the tools the task needs. Expand after evidence. Capability can be broad. Authority can be narrow.
 
 The architecture should make expansion a deliberate act.
 
@@ -244,25 +236,9 @@ The more uncertain the frontier, the more valuable staged commitment becomes.
 
 This does not mean never making long commitments. Sometimes a long contract secures scarce capacity or favorable economics and is exactly the robust move. Reversibility has a price. If the option is expensive enough, surrendering it can be rational.
 
-Again: robustness is not maximum optionality.
+Again: robustness is not maximum optionality. It is priced optionality. One practical tool is the **reversibility review**. Before a major AI decision, ask: What would make us regret this?
 
-It is priced optionality.
-
-One practical tool is the **reversibility review**.
-
-Before a major AI decision, ask:
-
-What would make us regret this?
-
-How soon could we know?
-
-What state changes during the experiment?
-
-Which of those changes can be undone?
-
-What is the largest blast radius?
-
-What would rollback require?
+How soon could we know? What state changes during the experiment? Which of those changes can be undone? What is the largest blast radius? What would rollback require?
 
 Which data or skills would disappear if we commit fully?
 
@@ -314,14 +290,6 @@ Reversibility is a technology for speed.
 
 It turns uncertainty from a reason to wait into a reason to stage.
 
-Try the thing.
-
-Keep the seam.
-
-Measure what happened.
-
-Commit harder when reality earns it.
-
-The future will still surprise you.
+Try the thing. Keep the seam. Measure what happened. Commit harder when reality earns it. The future will still surprise you.
 
 The architecture’s job is to make surprise an edit rather than a demolition.

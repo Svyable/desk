@@ -30,21 +30,9 @@ The second should become exactly as fast as the consequence allows.
 
 This is not a human-versus-machine distinction. Machines can operate at both speeds. Humans can operate at both speeds. The distinction is between **work that creates options** and **work that consumes them**.
 
-Drafting a message creates an option.
+Drafting a message creates an option. Sending it consumes some optionality. Generating code creates an option. Merging and deploying it consumes more. Building a scenario creates an option.
 
-Sending it consumes some optionality.
-
-Generating code creates an option.
-
-Merging and deploying it consumes more.
-
-Building a scenario creates an option.
-
-Signing the contract commits.
-
-Recommending a purchase creates an option.
-
-Transferring money commits.
+Signing the contract commits. Recommending a purchase creates an option. Transferring money commits.
 
 The robust team designs the workflow so that cheap intelligence expands the option-creating side without accidentally dragging irreversible actions into the same tempo.
 
@@ -116,15 +104,7 @@ The process contains friction without protection.
 
 A robust team asks what failure the approval is supposed to prevent and whether a different control now prevents it better.
 
-Identity verification.
-
-Historical purchase checks.
-
-Fraud scoring.
-
-Amount limits by role.
-
-Sampling and retrospective audit.
+Identity verification. Historical purchase checks. Fraud scoring. Amount limits by role. Sampling and retrospective audit.
 
 Exception routing.
 
@@ -216,15 +196,7 @@ Then commit where reality begins answering.
 
 The architecture of software already offers useful language for this.
 
-Development environment.
-
-Staging.
-
-Canary release.
-
-Feature flag.
-
-Rollback.
+Development environment. Staging. Canary release. Feature flag. Rollback.
 
 These mechanisms let code move quickly without exposing every user to every experiment at once.
 
@@ -254,23 +226,9 @@ The best AI demos create a peculiar sense of inevitability. Once people see the 
 
 But a demonstration shows capability under selected conditions.
 
-A rollout tests the surrounding system.
+A rollout tests the surrounding system. Data quality. Permissions. Exception handling. Human behavior.
 
-Data quality.
-
-Permissions.
-
-Exception handling.
-
-Human behavior.
-
-Customer response.
-
-Cost at volume.
-
-Monitoring.
-
-Recovery.
+Customer response. Cost at volume. Monitoring. Recovery.
 
 The robust leader can be impressed and still ask for a canary.
 
@@ -306,23 +264,9 @@ A rollback lets a team release because the change is not a cliff.
 
 The worst controls do the opposite. They are vague, omnipresent, and discretionary. Nobody knows what is safe, so everything requires permission. AI then becomes another layer of ceremony rather than a source of leverage.
 
-The robust workflow is explicit about tempo.
+The robust workflow is explicit about tempo. Move fast here. Slow down there. This action is reversible. That one commits.
 
-Move fast here.
-
-Slow down there.
-
-This action is reversible.
-
-That one commits.
-
-This model can explore.
-
-That tool call requires authority.
-
-This output can be wrong and cheap.
-
-That output enters the system of record.
+This model can explore. That tool call requires authority. This output can be wrong and cheap. That output enters the system of record.
 
 These distinctions become a shared language for delegation.
 

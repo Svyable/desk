@@ -24,19 +24,9 @@ An employee creates an automated workflow that becomes business-critical without
 
 The institution discovers that capability moved first and governance is trying to catch the train from behind.
 
-One reaction is to centralize.
+One reaction is to centralize. No AI use without approval. One platform. One policy. One committee.
 
-No AI use without approval.
-
-One platform.
-
-One policy.
-
-One committee.
-
-One risk framework.
-
-This can control chaos.
+One risk framework. This can control chaos.
 
 It can also make the institution brittle by forcing every experiment through a gate whose understanding is necessarily behind the frontier.
 
@@ -48,13 +38,7 @@ This creates speed.
 
 It can also create dozens of invisible dependencies, contradictory standards, duplicated contracts, uncontrolled data flows, and systems nobody knows exist until they fail.
 
-The sturdy institution needs both.
-
-Local movement.
-
-Central invariants.
-
-The trick is deciding which is which.
+The sturdy institution needs both. Local movement. Central invariants. The trick is deciding which is which.
 
 This is the institutional version of the two-speed workflow.
 
@@ -94,25 +78,9 @@ The institution also needs a **map**.
 
 Not a perfect inventory of every employee who has ever used a chatbot.
 
-A map of AI-enabled workflows that matter.
+A map of AI-enabled workflows that matter. Where does AI touch customer decisions? Where does it modify systems of record? Where does it use sensitive data? Where does it act through credentials?
 
-Where does AI touch customer decisions?
-
-Where does it modify systems of record?
-
-Where does it use sensitive data?
-
-Where does it act through credentials?
-
-Where is it business-critical?
-
-Where is it involved in regulated activity?
-
-Who owns each workflow?
-
-Which model or provider is used today?
-
-What is the fallback?
+Where is it business-critical? Where is it involved in regulated activity? Who owns each workflow? Which model or provider is used today? What is the fallback?
 
 What evaluation supports the current authority level?
 
@@ -128,25 +96,9 @@ A small team testing a new model on sanitized internal data should not necessari
 
 Conversely, a successful pilot should not inherit permanent permission to scale merely because it was approved once.
 
-Scale changes consequence.
+Scale changes consequence. Volume changes failure. Automation changes human behavior. Integration creates dependency. A robust institution creates a graduation path.
 
-Volume changes failure.
-
-Automation changes human behavior.
-
-Integration creates dependency.
-
-A robust institution creates a graduation path.
-
-Sandbox.
-
-Pilot.
-
-Limited production.
-
-Broader production.
-
-Critical infrastructure.
+Sandbox. Pilot. Limited production. Broader production. Critical infrastructure.
 
 At each stage, the evidence and controls increase in proportion to consequence.
 
@@ -178,11 +130,11 @@ Evals. Production metrics. Incident history. Audits. User outcomes. Not merely a
 
 **What has changed?**
 
-Model version. Data. policy. permissions. scale. users. external environment.
+Model version. Data. Policy. Permissions. Scale. Users. External environment.
 
 **What happens when confidence falls?**
 
-Roll back. reduce authority. increase sampling. enter degraded mode. escalate. pause.
+Roll back. Reduce authority. Increase sampling. Enter degraded mode. Escalate. Pause.
 
 Governance without the fourth answer is documentation, not control.
 
@@ -196,39 +148,15 @@ Sometimes it is organizational scar tissue.
 
 A sturdier incident process asks what failed at the system level.
 
-Was the model outside its evaluated domain?
+Was the model outside its evaluated domain? Was the data wrong? Was a permission too broad? Did the human reviewer lack time? Did the alert fail?
 
-Was the data wrong?
-
-Was a permission too broad?
-
-Did the human reviewer lack time?
-
-Did the alert fail?
-
-Was the policy ambiguous?
-
-Was the fallback untested?
+Was the policy ambiguous? Was the fallback untested?
 
 Did incentives push employees to ignore the control?
 
-Then change the mechanism.
+Then change the mechanism. Add an eval case. Narrow the permission. Clarify the policy. Improve the interface.
 
-Add an eval case.
-
-Narrow the permission.
-
-Clarify the policy.
-
-Improve the interface.
-
-Change the threshold.
-
-Train the role.
-
-Add monitoring.
-
-Remove the brittle step.
+Change the threshold. Train the role. Add monitoring. Remove the brittle step.
 
 The goal is not to prove that the incident cannot recur in exactly the same narrative form.
 
@@ -242,33 +170,13 @@ Negligence exists. Misconduct exists. People sometimes ignore clear controls.
 
 But the institution should not spend a system lesson on an individual explanation when the mechanism remains.
 
-A sturdy institution preserves **decision memory** too.
+A sturdy institution preserves **decision memory** too. Why did we choose this model? Why is the spending limit set there? Why does this workflow require approval? Why is this data prohibited?
 
-Why did we choose this model?
-
-Why is the spending limit set there?
-
-Why does this workflow require approval?
-
-Why is this data prohibited?
-
-Why did we accept the vendor dependence?
-
-Why did we retire the old process?
-
-Policies without reasons fossilize.
+Why did we accept the vendor dependence? Why did we retire the old process? Policies without reasons fossilize.
 
 A future team sees the rule but not the condition that created it. The condition changes. The rule remains. Or the team deletes the rule as outdated and unknowingly reopens the original failure.
 
-A short decision record can prevent both.
-
-Decision.
-
-Reason.
-
-Evidence.
-
-Known tradeoff.
+A short decision record can prevent both. Decision. Reason. Evidence. Known tradeoff.
 
 Review trigger.
 
@@ -300,15 +208,7 @@ This structure is harder to draw than an org chart and more adaptive than one.
 
 It also reflects a truth about AI expertise: much of the important knowledge is local.
 
-The central AI team may know models.
-
-The claims department knows claims.
-
-The nurse knows the ward.
-
-The teacher knows the classroom.
-
-The developer knows the codebase.
+The central AI team may know models. The claims department knows claims. The nurse knows the ward. The teacher knows the classroom. The developer knows the codebase.
 
 Robust deployment combines capability expertise with consequence expertise.
 
@@ -364,19 +264,9 @@ Institutions that cannot learn become brittle because the environment leaves the
 
 Institutions that change authority as quickly as technology becomes fashionable become brittle because nobody knows which promises remain stable.
 
-Sturdiness lives between them.
+Sturdiness lives between them. Change the implementation rapidly. Change the evidence standard when evidence improves. Change the workflow when outcomes support it. Change the policy when its reason changes.
 
-Change the implementation rapidly.
-
-Change the evidence standard when evidence improves.
-
-Change the workflow when outcomes support it.
-
-Change the policy when its reason changes.
-
-Keep the mission visible.
-
-Keep accountability legible.
+Keep the mission visible. Keep accountability legible.
 
 Keep rights from becoming experimental variables merely because a better model arrived.
 
@@ -388,19 +278,9 @@ That may be a compliment.
 
 The great institutional achievement in a period of technological drama is to make adaptation boring.
 
-New model. Run the evals.
+New model. Run the evals. New capability. Test the authority tier. New incident. Update the mechanism. New regulation. Change the policy layer. New provider. Exercise portability.
 
-New capability. Test the authority tier.
-
-New incident. Update the mechanism.
-
-New regulation. Change the policy layer.
-
-New provider. Exercise portability.
-
-No panic.
-
-No worship.
+No panic. No worship.
 
 No frozen committee waiting for the landscape to settle.
 

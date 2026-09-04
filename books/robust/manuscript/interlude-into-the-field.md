@@ -34,19 +34,9 @@ Endpoint security, automated trading, databases, object storage, and model platf
 
 Their incidents do not prove how an AI agent will fail.
 
-They reveal mechanisms worth carrying forward:
+They reveal mechanisms worth carrying forward: blast radius; bounded authority; scope-aware action; recovery independence;
 
-blast radius;
-
-bounded authority;
-
-scope-aware action;
-
-recovery independence;
-
-restores instead of backup theater;
-
-migration as normal operations;
+restores instead of backup theater; migration as normal operations;
 
 and explicit stop rules before momentum becomes policy.
 

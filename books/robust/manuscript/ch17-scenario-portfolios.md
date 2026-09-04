@@ -4,13 +4,7 @@ The future is easiest to predict when you are allowed to choose only one.
 
 The presentation demands a base case. The budget needs a number. The board wants the plan. The hiring model wants headcount. The product road map wants dates. A spreadsheet cannot leave every cell as “it depends.”
 
-So uncertainty gets compressed.
-
-AI capability improves at this rate.
-
-Inference cost falls by that amount.
-
-Customers adopt on this curve.
+So uncertainty gets compressed. AI capability improves at this rate. Inference cost falls by that amount. Customers adopt on this curve.
 
 Agents become reliable enough for this category of work in this quarter.
 
@@ -138,13 +132,7 @@ Where do we have a view strong enough to deserve concentrated exposure?
 
 This structure prevents a common strategic mistake: treating every uncertain question as though it deserves the same level of commitment.
 
-Some uncertainties should be hedged.
-
-Some should be tested.
-
-Some should be ignored.
-
-Some should be bet on.
+Some uncertainties should be hedged. Some should be tested. Some should be ignored. Some should be bet on.
 
 The art is matching commitment to evidence and reversibility.
 
@@ -204,57 +192,21 @@ For AI, one might be **capability**: incremental versus discontinuous improvemen
 
 The other might be **adoption or constraint**: fast institutional adoption versus slow adoption due to trust, economics, regulation, or integration.
 
-Four quadrants appear.
-
-Incremental capability / slow adoption.
-
-Incremental capability / fast adoption.
-
-Discontinuous capability / slow adoption.
-
-Discontinuous capability / fast adoption.
+Four quadrants appear. Incremental capability / slow adoption. Incremental capability / fast adoption. Discontinuous capability / slow adoption. Discontinuous capability / fast adoption.
 
 Now ask what your business looks like in each.
 
-Do not write a novel.
+Do not write a novel. What happens to customer willingness to pay? Which costs change? Which assets become more valuable? Which roles change?
 
-What happens to customer willingness to pay?
-
-Which costs change?
-
-Which assets become more valuable?
-
-Which roles change?
-
-Which competitors appear?
-
-Which dependency becomes dangerous?
-
-Which current investment still pays?
-
-Which one becomes embarrassing?
+Which competitors appear? Which dependency becomes dangerous? Which current investment still pays? Which one becomes embarrassing?
 
 Then identify the moves with the widest usefulness.
 
 This exercise often reveals that companies spend too much time predicting the frontier and too little time building assets that matter across frontiers.
 
-Proprietary customer trust.
+Proprietary customer trust. Clean data. Distribution. A reputation for accountability. Evaluation infrastructure.
 
-Clean data.
-
-Distribution.
-
-A reputation for accountability.
-
-Evaluation infrastructure.
-
-Talent that learns quickly.
-
-Modular systems.
-
-Cash.
-
-The ability to run experiments.
+Talent that learns quickly. Modular systems. Cash. The ability to run experiments.
 
 These can sound boring beside “own the winning model.”
 
@@ -274,31 +226,11 @@ Scenario C: implementation becomes cheap, causing software demand to expand dram
 
 Scenario D: organizational bottlenecks, security, and regulation slow agent autonomy.
 
-What investments pay across these?
+What investments pay across these? System design. Debugging. Security. Understanding users.
 
-System design.
+Working with agents. Reading code. Learning quickly. Owning a domain. What options are cheap?
 
-Debugging.
-
-Security.
-
-Understanding users.
-
-Working with agents.
-
-Reading code.
-
-Learning quickly.
-
-Owning a domain.
-
-What options are cheap?
-
-Build something with the newest agent.
-
-Learn how evals work.
-
-Contribute to an open project.
+Build something with the newest agent. Learn how evals work. Contribute to an open project.
 
 Study a domain where software meets physical or regulated reality.
 
@@ -344,13 +276,7 @@ The larger the institution, the more valuable conditionality becomes because rev
 
 Scenario portfolios also protect against one of the strangest effects of AI news: **temporal whiplash**.
 
-A breakthrough makes the future feel immediate.
-
-A disappointing product makes it feel distant.
-
-A benchmark falls and everyone compresses timelines.
-
-A deployment fails and everyone expands them.
+A breakthrough makes the future feel immediate. A disappointing product makes it feel distant. A benchmark falls and everyone compresses timelines. A deployment fails and everyone expands them.
 
 Strategy should not be a mood ring for the latest demonstration.
 
@@ -358,23 +284,9 @@ The portfolio lets new evidence change weights without rewriting the worldview e
 
 The best scenario system is therefore not a deck.
 
-It is a set of maintained beliefs.
+It is a set of maintained beliefs. What are our current scenario weights? What evidence moved them? Which actions are robust across them? Which options should we fund now?
 
-What are our current scenario weights?
-
-What evidence moved them?
-
-Which actions are robust across them?
-
-Which options should we fund now?
-
-Which bets are we consciously carrying?
-
-What would make us exit the bet?
-
-This can be done on one page.
-
-Complexity does not make the thinking stronger.
+Which bets are we consciously carrying? What would make us exit the bet? This can be done on one page. Complexity does not make the thinking stronger.
 
 The goal is to reduce the number of hidden forecasts embedded in irreversible decisions.
 

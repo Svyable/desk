@@ -14,15 +14,7 @@ The appearance of redundancy disappears as soon as the common dependency becomes
 
 Artificial intelligence makes common dependencies harder to see because the systems can look different at the surface.
 
-Different products.
-
-Different logos.
-
-Different interfaces.
-
-Different prompts.
-
-Different teams.
+Different products. Different logos. Different interfaces. Different prompts. Different teams.
 
 Different contracts.
 
@@ -112,15 +104,7 @@ Two experts reading the same memo.
 
 Two models prompted with the same retrieved context.
 
-Two forecasts built from the same assumptions.
-
-The outputs differ enough to feel independent.
-
-The source of error remains shared.
-
-This is not useless.
-
-Multiple views can still expose variance.
+Two forecasts built from the same assumptions. The outputs differ enough to feel independent. The source of error remains shared. This is not useless. Multiple views can still expose variance.
 
 But do not mistake variation for independence.
 
@@ -130,21 +114,9 @@ As AI becomes embedded in ordinary work, a new kind of monoculture becomes possi
 
 Many people may use the same systems to draft, summarize, research, code, plan, review, and decide.
 
-This can increase average quality.
+This can increase average quality. It can also correlate error. Imagine a thousand employees making independent mistakes. The mistakes are noisy. One person overlooks a clause.
 
-It can also correlate error.
-
-Imagine a thousand employees making independent mistakes.
-
-The mistakes are noisy.
-
-One person overlooks a clause.
-
-Another misreads a chart.
-
-Another uses a weak source.
-
-Another frames the customer problem badly.
+Another misreads a chart. Another uses a weak source. Another frames the customer problem badly.
 
 The organization suffers many small errors, but they are distributed.
 
@@ -182,31 +154,11 @@ It may be epistemic.
 
 When everyone asks similar systems how to think about a problem, the systems can become a shared prior.
 
-Which strategy is sensible?
+Which strategy is sensible? Which risks matter? How should the market be segmented? What are the standard arguments? What should the code look like?
 
-Which risks matter?
+What does a professional memo sound like? A good assistant provides competent defaults. Competent defaults are valuable. They also create convergence. Language converges.
 
-How should the market be segmented?
-
-What are the standard arguments?
-
-What should the code look like?
-
-What does a professional memo sound like?
-
-A good assistant provides competent defaults.
-
-Competent defaults are valuable.
-
-They also create convergence.
-
-Language converges.
-
-Structure converges.
-
-Sources converge.
-
-Arguments converge.
+Structure converges. Sources converge. Arguments converge.
 
 Eventually, what looks like consensus may partly reflect a shared generation process.
 
@@ -218,19 +170,9 @@ Or did ten minds begin from closely related machine-generated frames?
 
 This matters most when independence itself is informative.
 
-Forecasting.
+Forecasting. Security review. Scientific interpretation. Investment judgment. Incident diagnosis.
 
-Security review.
-
-Scientific interpretation.
-
-Investment judgment.
-
-Incident diagnosis.
-
-Hiring decisions.
-
-Strategic planning.
+Hiring decisions. Strategic planning.
 
 A robust organization should sometimes protect independent reasoning before aggregation.
 
@@ -256,15 +198,7 @@ If every channel inherits the same frame before thinking begins, agreement becom
 
 Evaluation is one of the strongest defenses in this book.
 
-It can also become a trap.
-
-A company builds a high-quality eval set.
-
-Teams use it to compare models.
-
-Providers are selected against it.
-
-Prompts are improved against it.
+It can also become a trap. A company builds a high-quality eval set. Teams use it to compare models. Providers are selected against it. Prompts are improved against it.
 
 Guardrails are tuned against it.
 
@@ -272,15 +206,7 @@ Agents are promoted when they perform well on it.
 
 Over time, the organization becomes excellent at the test.
 
-The test becomes a local benchmark.
-
-The benchmark becomes the objective.
-
-Then the real world moves.
-
-Customers change behavior.
-
-Fraudsters adapt.
+The test becomes a local benchmark. The benchmark becomes the objective. Then the real world moves. Customers change behavior. Fraudsters adapt.
 
 The product expands into new cases.
 
@@ -288,13 +214,7 @@ The model becomes better at patterns represented in the eval while still failing
 
 The evaluation has done its job so successfully that it has become part of the common mode.
 
-This is why robust evaluation needs novelty.
-
-Holdouts.
-
-Fresh incidents.
-
-Randomly sampled real cases.
+This is why robust evaluation needs novelty. Holdouts. Fresh incidents. Randomly sampled real cases.
 
 Adversarial cases designed by people outside the workflow team.
 
@@ -356,15 +276,7 @@ But consequential workflows deserve evidence architecture, not merely retrieval.
 
 “Have a human review it” sounds like independent defense.
 
-Often it is not.
-
-The reviewer sees the model answer first.
-
-The answer is fluent.
-
-The source citations look plausible.
-
-The reviewer is under time pressure.
+Often it is not. The reviewer sees the model answer first. The answer is fluent. The source citations look plausible. The reviewer is under time pressure.
 
 The system has been right hundreds of times.
 
@@ -398,25 +310,9 @@ A useful robustness exercise is to choose an important workflow and ask a delibe
 
 **What single thing could make all of our safeguards fail at once?**
 
-The model provider?
+The model provider? The cloud account? The identity layer? The retrieval corpus? The labeling process?
 
-The cloud account?
-
-The identity layer?
-
-The retrieval corpus?
-
-The labeling process?
-
-The evaluation set?
-
-The human reviewer pool?
-
-The policy interpretation?
-
-The assumption about customer behavior?
-
-The shared code path?
+The evaluation set? The human reviewer pool? The policy interpretation? The assumption about customer behavior? The shared code path?
 
 The same external data vendor?
 
@@ -438,15 +334,7 @@ A business can deliberately accept a common mode because independence is too exp
 
 But the dependency should become visible enough to price.
 
-If this fails, what happens?
-
-How long can we operate?
-
-What degraded mode remains?
-
-Who owns the recovery?
-
-When was it tested?
+If this fails, what happens? How long can we operate? What degraded mode remains? Who owns the recovery? When was it tested?
 
 The goal is not to eliminate common-mode failure.
 
@@ -462,15 +350,7 @@ A company does not need every team using a different model, every analyst using 
 
 That would destroy economies of scale and make governance harder.
 
-Standardization exists for good reasons.
-
-Shared tooling improves security.
-
-Common platforms reduce cost.
-
-Central models make evaluation easier.
-
-Standard workflows improve training.
+Standardization exists for good reasons. Shared tooling improves security. Common platforms reduce cost. Central models make evaluation easier. Standard workflows improve training.
 
 The robust question is where diversity buys meaningful protection.
 
@@ -500,15 +380,7 @@ The primary source is ambiguous.
 
 The eval says the system is good overall while the incident record says one rare failure is unacceptable.
 
-A brittle organization experiences this as friction.
-
-Resolve it.
-
-Pick a number.
-
-Standardize the answer.
-
-Move on.
+A brittle organization experiences this as friction. Resolve it. Pick a number. Standardize the answer. Move on.
 
 A robust organization asks whether the disagreement contains information about the boundary.
 
@@ -518,13 +390,7 @@ Maybe the model is underspecified.
 
 Maybe the humans are relying on stale intuition.
 
-Maybe the metric is hiding a subgroup.
-
-Maybe the evidence is weak.
-
-Maybe the policy needs an explicit exception.
-
-Agreement is not always the objective.
+Maybe the metric is hiding a subgroup. Maybe the evidence is weak. Maybe the policy needs an explicit exception. Agreement is not always the objective.
 
 Sometimes the objective is knowing where agreement breaks.
 
@@ -536,15 +402,7 @@ The scarce thing may become a genuinely independent path to contradiction.
 
 The deepest mistake is treating robustness as a count of components.
 
-One provider.
-
-Two providers.
-
-Three models.
-
-Four reviewers.
-
-The number is not the property.
+One provider. Two providers. Three models. Four reviewers. The number is not the property.
 
 The property is whether the system continues to preserve agency when the failure arrives.
 

@@ -4,35 +4,11 @@ The most revealing question to ask about an AI product is not what it does when 
 
 Ask what remains when the best part disappears.
 
-The frontier model is unavailable.
+The frontier model is unavailable. The retrieval system is stale. The tool cannot authenticate. The user’s document is malformed. The budget cap has been reached.
 
-The retrieval system is stale.
+The agent is uncertain. The network is slow. The safety system blocks the intended action. A vendor region goes down. A human approver is not available.
 
-The tool cannot authenticate.
-
-The user’s document is malformed.
-
-The budget cap has been reached.
-
-The agent is uncertain.
-
-The network is slow.
-
-The safety system blocks the intended action.
-
-A vendor region goes down.
-
-A human approver is not available.
-
-What does the product become?
-
-Many systems have only two answers.
-
-Magic.
-
-Nothing.
-
-That is brittleness.
+What does the product become? Many systems have only two answers. Magic. Nothing. That is brittleness.
 
 Graceful degradation is the art of losing capability without losing the whole service.
 
@@ -154,15 +130,7 @@ Continuity at the cost of invisible rule changes is fragile.
 
 A robust degraded mode knows which properties must survive.
 
-Confidentiality.
-
-Authorization.
-
-Data integrity.
-
-Auditability.
-
-Whatever the workflow requires.
+Confidentiality. Authorization. Data integrity. Auditability. Whatever the workflow requires.
 
 Performance can fall while invariants remain.
 
@@ -198,19 +166,9 @@ So graceful degradation requires **exercise**.
 
 A game day does not need theatrical alarms and executives in a war room.
 
-Pick a dependency.
+Pick a dependency. Remove it in a controlled environment. What happens? Can the product detect the failure correctly? Does it choose the expected mode?
 
-Remove it in a controlled environment.
-
-What happens?
-
-Can the product detect the failure correctly?
-
-Does it choose the expected mode?
-
-Does state remain consistent?
-
-Do users understand the limitation?
+Does state remain consistent? Do users understand the limitation?
 
 Can the system return to normal without duplicating actions?
 
@@ -230,15 +188,7 @@ If the agent goes down completely, request volume arriving at the human queue in
 
 A robust degraded mode might therefore be more selective.
 
-Prioritize customers with urgent or high-consequence issues.
-
-Acknowledge routine requests and delay them.
-
-Expose self-service resources.
-
-Use deterministic answers for common questions.
-
-Temporarily narrow service promises.
+Prioritize customers with urgent or high-consequence issues. Acknowledge routine requests and delay them. Expose self-service resources. Use deterministic answers for common questions. Temporarily narrow service promises.
 
 This is load shedding for human attention.
 
@@ -270,13 +220,7 @@ Businesses under stress preserve payroll, cash, critical customers, legal obliga
 
 AI systems need explicit priority when resources or confidence shrink.
 
-Which actions are essential?
-
-Which can wait?
-
-Which can be done at lower quality?
-
-Which should stop entirely?
+Which actions are essential? Which can wait? Which can be done at lower quality? Which should stop entirely?
 
 The worst time to invent these priorities is during the incident.
 
@@ -290,19 +234,9 @@ Imagine the preferred model is available but behaving worse on the workflow. Per
 
 The product should be able to degrade authority without shutting down.
 
-Move from act to recommend.
+Move from act to recommend. Increase human sampling. Narrow permissions. Lower transaction limits. Require stronger evidence.
 
-Increase human sampling.
-
-Narrow permissions.
-
-Lower transaction limits.
-
-Require stronger evidence.
-
-Turn off one tool.
-
-Preserve the rest.
+Turn off one tool. Preserve the rest.
 
 This is a powerful advantage of modular authority. The organization can respond proportionately instead of choosing between “AI on” and “AI off.”
 
@@ -356,25 +290,11 @@ When the primary system fails, people feel pressure to restore normal service im
 
 A rehearsed degraded mode gives the organization somewhere legitimate to stand while the primary path is repaired.
 
-Less capable.
-
-Slower.
-
-Maybe more expensive.
-
-But known.
-
-The principle is worth stating plainly:
+Less capable. Slower. Maybe more expensive. But known. The principle is worth stating plainly:
 
 **A robust system should know how to become a smaller version of itself.**
 
-Not a broken version.
-
-Smaller.
-
-Keep the essential function.
-
-Keep the invariants.
+Not a broken version. Smaller. Keep the essential function. Keep the invariants.
 
 Lose the luxuries in an order you chose while calm.
 

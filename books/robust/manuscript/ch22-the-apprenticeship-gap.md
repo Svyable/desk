@@ -38,15 +38,7 @@ That is the apprenticeship gap.
 
 A profession looks stable when viewed from the top.
 
-There are experienced people.
-
-They possess judgment.
-
-They know what matters.
-
-They can supervise automated work.
-
-They can catch errors.
+There are experienced people. They possess judgment. They know what matters. They can supervise automated work. They can catch errors.
 
 They can distinguish a plausible answer from a dangerous one.
 
@@ -140,15 +132,7 @@ Better assistance can produce worse learning if the learner becomes separated fr
 
 There is a sentimental response to this problem.
 
-Keep the juniors doing it manually.
-
-Make them suffer through the old process.
-
-They need to learn the fundamentals.
-
-Sometimes that is correct.
-
-Often it is lazy curriculum design.
+Keep the juniors doing it manually. Make them suffer through the old process. They need to learn the fundamentals. Sometimes that is correct. Often it is lazy curriculum design.
 
 A firm should not preserve obsolete production methods merely because it failed to separate education from production.
 
@@ -176,25 +160,9 @@ It is also more honest.
 
 One of the simplest ways to preserve learning is to require a prediction before showing the machine answer.
 
-What do you think the issue is?
+What do you think the issue is? Which source will matter? What result do you expect? Which customer response is most likely? Where will the system fail?
 
-Which source will matter?
-
-What result do you expect?
-
-Which customer response is most likely?
-
-Where will the system fail?
-
-What would you recommend?
-
-Then reveal the assistant’s output.
-
-Now the learner has a comparison.
-
-Agreement teaches something.
-
-Disagreement teaches more.
+What would you recommend? Then reveal the assistant’s output. Now the learner has a comparison. Agreement teaches something. Disagreement teaches more.
 
 The important part is that the learner had to form a model of the problem before inheriting the machine’s model of the problem.
 
@@ -228,15 +196,7 @@ Premature convergence destroys it.
 
 Most organizations throw away the best training material they own.
 
-They fix the error and move on.
-
-A bad model output is corrected.
-
-A customer escalation is resolved.
-
-A hallucinated citation is removed.
-
-A tool call fails.
+They fix the error and move on. A bad model output is corrected. A customer escalation is resolved. A hallucinated citation is removed. A tool call fails.
 
 An automation sends the wrong thing to the wrong person.
 
@@ -256,25 +216,9 @@ Not a humiliation archive.
 
 Not a list of people who made mistakes.
 
-A library of mechanisms.
+A library of mechanisms. What failed? Why was the output plausible? What signal should have caused suspicion? What would a novice miss?
 
-What failed?
-
-Why was the output plausible?
-
-What signal should have caused suspicion?
-
-What would a novice miss?
-
-What would an expert notice?
-
-What control caught it?
-
-What control should have caught it sooner?
-
-What changed afterward?
-
-This is error archaeology.
+What would an expert notice? What control caught it? What control should have caught it sooner? What changed afterward? This is error archaeology.
 
 The learner is not merely told the rule.
 
@@ -300,19 +244,9 @@ Another robust training pattern is shadow responsibility.
 
 The machine or experienced person owns the live outcome.
 
-The learner owns a parallel decision.
+The learner owns a parallel decision. Draft the response. Choose the action. Set the severity. Rank the candidates.
 
-Draft the response.
-
-Choose the action.
-
-Set the severity.
-
-Rank the candidates.
-
-Decide whether to escalate.
-
-Make the forecast.
+Decide whether to escalate. Make the forecast.
 
 Nothing happens because of the learner’s choice yet.
 
@@ -332,25 +266,9 @@ People can watch an expert make decisions for months while telling themselves th
 
 A recorded shadow decision makes the gap visible.
 
-I would have approved it.
+I would have approved it. The expert rejected it. Why? I would have escalated. The expert let it pass.
 
-The expert rejected it.
-
-Why?
-
-I would have escalated.
-
-The expert let it pass.
-
-Why?
-
-My forecast was 80 percent.
-
-The realized rate was 45 percent.
-
-Why was I overconfident?
-
-This is how calibration forms.
+Why? My forecast was 80 percent. The realized rate was 45 percent. Why was I overconfident? This is how calibration forms.
 
 AI can make shadow responsibility cheap because the system can generate cases, track judgments, explain divergences, and adapt difficulty.
 
@@ -376,13 +294,7 @@ A film director does not need to operate every camera.
 
 But supervision requires a model of the system.
 
-What can it do?
-
-Where does it fail?
-
-What does good look like?
-
-Which errors are visible?
+What can it do? Where does it fail? What does good look like? Which errors are visible?
 
 Which errors are dangerous precisely because they look good?
 
@@ -494,15 +406,7 @@ But only if the system is designed for learning rather than mere output.
 
 There is a difference between asking an assistant to give you the answer and asking it to make your judgment harder to fool.
 
-A learning-oriented system might say:
-
-Make your call first.
-
-Here are three plausible alternatives.
-
-Which evidence would distinguish them?
-
-You are ignoring this base rate.
+A learning-oriented system might say: Make your call first. Here are three plausible alternatives. Which evidence would distinguish them? You are ignoring this base rate.
 
 Your confidence is higher than your evidence supports.
 
@@ -542,15 +446,7 @@ Sometimes it may do it better.
 
 But an organization that outsources all instruction also weakens the relationship through which standards are transmitted.
 
-Culture is partly taught through correction.
-
-What do we care about here?
-
-What counts as sloppy?
-
-When do we call the customer?
-
-When do we refuse the shortcut?
+Culture is partly taught through correction. What do we care about here? What counts as sloppy? When do we call the customer? When do we refuse the shortcut?
 
 What kind of evidence changes our mind?
 

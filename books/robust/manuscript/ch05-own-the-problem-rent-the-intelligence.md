@@ -36,15 +36,7 @@ The first asks it to produce a market assessment. She copies in background mater
 
 The second begins by writing down the decision the analysis must support. What would change the decision? Which assumptions are uncertain? Which data are current enough to matter? What would count as a disconfirming signal? Then she uses the model aggressively: research lanes, counterarguments, calculations, scenario generation, draft synthesis, fact checking, and revision. She may personally write far less than the first analyst.
 
-She owns more of the work.
-
-The difference is not effort.
-
-It is control of the problem definition.
-
-Problem ownership has several parts.
-
-First, **you know what outcome matters.**
+She owns more of the work. The difference is not effort. It is control of the problem definition. Problem ownership has several parts. First, **you know what outcome matters.**
 
 This sounds trivial until a fluent model begins optimizing for the request instead of the reason behind it.
 
@@ -60,15 +52,7 @@ A robust person keeps the problem visible long enough to reject an impressive ar
 
 Second, **you know what you are unwilling to trade away.**
 
-Speed for accuracy?
-
-Privacy for convenience?
-
-Polish for traceability?
-
-Novelty for consistency?
-
-Cost for latency?
+Speed for accuracy? Privacy for convenience? Polish for traceability? Novelty for consistency? Cost for latency?
 
 The model cannot infer every value from a prompt, especially when the values are in tension. People often discover their actual standard only after seeing an answer violate it.
 
@@ -136,15 +120,7 @@ Some work is safe to hand over almost completely. Formatting notes. Generating a
 
 Other work should contain a point at which the person re-enters.
 
-Before the message goes to the client.
-
-Before the money moves.
-
-Before the accusation is published.
-
-Before the medical decision becomes action.
-
-Before the employee is evaluated.
+Before the message goes to the client. Before the money moves. Before the accusation is published. Before the medical decision becomes action. Before the employee is evaluated.
 
 Before the destructive command runs.
 
@@ -152,23 +128,11 @@ The robust person knows where the commit point is.
 
 This matters more as assistants become agents because the interface can hide the difference between thinking and doing.
 
-A model proposes an action.
-
-Then it can perform the action.
-
-The distance between sentence and consequence collapses.
-
-Ownership means deciding which distances should remain.
+A model proposes an action. Then it can perform the action. The distance between sentence and consequence collapses. Ownership means deciding which distances should remain.
 
 There is a fear underneath all of this that people will become less capable if the machines become more capable.
 
-Some of that fear will be correct.
-
-Skills will atrophy.
-
-Others will stop being worth maintaining.
-
-That is not inherently tragic.
+Some of that fear will be correct. Skills will atrophy. Others will stop being worth maintaining. That is not inherently tragic.
 
 Most educated adults cannot perform arithmetic as quickly as a cheap calculator. Few businesspeople memorize telephone numbers. Programmers use compilers instead of translating every instruction into machine code. Civilization is a history of moving competence into tools and then building new competence on top.
 
@@ -198,19 +162,9 @@ This becomes especially important in organizations that measure visible output.
 
 AI can create a false prosperity of artifacts.
 
-More memos.
+More memos. More slides. More code. More tickets closed. More research summaries.
 
-More slides.
-
-More code.
-
-More tickets closed.
-
-More research summaries.
-
-More messages.
-
-More plans.
+More messages. More plans.
 
 The person who owns the problem is willing to produce fewer artifacts when the problem does not need them.
 
