@@ -42,6 +42,22 @@ The point is not bureaucracy for its own sake. A thousand-page decision log nobo
 
 A useful decision record tells the next person what was believed, what was uncertain, what evidence was available, why one option was chosen, and when the question should be reopened.
 
+It should also identify which data was generated under which policy.
+
+That detail becomes increasingly important in adaptive systems. If a hiring threshold changed twice, a credit product was redesigned, a clinical pathway was narrowed, or a recommendation model altered exposure, later outcomes came from different worlds. Combining them without policy lineage can make a larger dataset and a weaker inference.
+
+Data lineage says where the record came from.
+
+Decision lineage says why that record was allowed to exist.
+
+The two belong together.
+
+A compact decision register can preserve this without becoming an archive nobody reads. The entry does not need to contain every meeting note. It needs the claim, the evidence, the policy version, the important uncertainties, the people or functions with authority, the date of review, and the conditions that reopen the decision.
+
+The record is written for a future colleague who disagrees.
+
+That is a useful test of quality. If the next team can only understand why a policy exists by interviewing the people who created it, the institution has not actually stored the reasoning.
+
 The reopening condition is especially important.
 
 Most institutional rules have no expiration date on confidence.
@@ -91,6 +107,22 @@ But skepticism about scale should produce another comparison, not permanent limb
 The sequence might be pilot, replication, staged rollout, scale evaluation, revision. The exact form varies. The principle is that evidence should alter the next decision enough to generate new evidence under the changed policy.
 
 Learning becomes recursive.
+
+The organization also needs a memory of what did not cross the bridge.
+
+Negative evidence is unusually fragile because failed ideas lose budgets, owners, and meetings. A successful experiment becomes a line of business or a policy. A failed experiment becomes a folder. The archive naturally fills with winners because winners remain active.
+
+This produces a quiet institutional survivorship bias.
+
+A new team asks whether an idea has ever been tried and finds no operating program, so it concludes the territory is open. The previous failure may have been decisive, implementation-specific, or simply inconclusive. Without a searchable record, the organization cannot distinguish those possibilities.
+
+Preserving negative results is therefore not pessimism.
+
+It is a way to stop paying repeatedly for the same uncertainty.
+
+A good negative record should not say only “didn't work.” It should preserve enough context to show what was actually tested. Which population? Which implementation? Which outcome? How much compliance? What period? What external conditions? What would make a future attempt genuinely different rather than a relaunch with new branding?
+
+That record gives future experimentation a higher starting point.
 
 This is different from the popular idea of “move fast and break things.” In high-stakes institutions, breaking things can be unacceptable. The better principle is staged commitment.
 
@@ -170,7 +202,31 @@ Ignorance can be acceptable.
 
 Unrecognized ignorance is the problem.
 
-There is a cultural consequence to recognizing it. Leaders have to stop treating uncertainty as a junior state of knowledge that should disappear before decisions are made.
+There is a practical management consequence: someone must own the ignorance that matters.
+
+Organizations assign owners to revenue, security, hiring, compliance, product metrics, and budgets. Uncertainty often has no equivalent owner. Everyone assumes another function will notice when the evidence becomes stale.
+
+The result is predictable. The operational rule has a team. The unanswered question has a sentence in a risk register.
+
+A learning institution can assign review responsibility without creating a new bureaucracy. A model owner can be responsible for evidence coverage as well as uptime. A policy owner can maintain the renewal conditions. An experiment owner can be required to publish the negative result. A functional leader can identify which external signals would trigger re-evaluation.
+
+The ownership is not “be curious.”
+
+It is “keep this claim revisable.”
+
+That phrase is specific enough to manage.
+
+Review cadence should follow the speed at which the world can change, not a universal annual ritual. A recommendation model may need constant monitoring. A building standard may change slowly but deserve immediate review after a new failure mode. A hiring model may need revalidation after a major labor-market or job-design shift. A public program may need review when the population or delivery channel changes.
+
+The clock is not the main trigger.
+
+Evidence is.
+
+This makes institutional learning event-driven as well as periodic. A threshold can have a scheduled review and a set of conditions that force earlier attention: unusual override rates, new external research, a distribution shift, a legal change, a competitor's result, a cluster of complaints, an unexpected subgroup failure.
+
+The system develops reflexes around contradiction.
+
+There is a cultural consequence to recognizing all of this. Leaders have to stop treating uncertainty as a junior state of knowledge that should disappear before decisions are made.
 
 Some uncertainty remains after competent analysis.
 
@@ -199,6 +255,22 @@ That sentence returns us to the central problem of the book. A system becomes ep
 Learning institutions separate those functions where possible.
 
 They seek outside data. They preserve independent audits. They compare across jurisdictions, teams, vendors, and methods. They create experiments whose assignment process cannot be rewritten afterward. They watch the cases the dominant model would rather ignore.
+
+They also protect the people who carry inconvenient memory.
+
+Staff continuity appeared in the evidence-adoption research for a reason. Institutions often treat turnover as a human-resources issue and underestimate its epistemic cost. A departure can remove relationships, tacit implementation knowledge, caveats, and the memory of why a metric was defined in a peculiar way.
+
+Documentation cannot capture all tacit knowledge.
+
+That makes handoffs part of learning infrastructure.
+
+A handoff can identify unresolved questions, not only current tasks. It can name the fragile assumptions the next person should watch. It can preserve contacts with external evaluators. It can point to failed experiments that are easy to rediscover accidentally. It can say which parts of the system are stable and which are being tolerated pending evidence.
+
+The departing person is transferring uncertainty, not just responsibilities.
+
+This is an unusual way to think about succession planning.
+
+It is also a realistic one.
 
 They are not skeptical because they distrust knowledge.
 
