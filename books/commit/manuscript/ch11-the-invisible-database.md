@@ -24,6 +24,18 @@ Git therefore packs objects.
 
 A packfile combines many objects into a compact representation. Delta compression can store one object in terms of differences from another. An accompanying index lets Git locate an object without scanning the entire pack. Garbage collection and maintenance consolidate loose objects and packs over time.
 
+The word delta can confuse people who have learned that Git stores snapshots rather than a chain of file diffs.
+
+Both statements are true because they describe different layers.
+
+Logically, a tree and the blobs it names describe a state. A commit names that tree. Git does not require a developer to reconstruct the current version by replaying every historical patch in order. Physically, the storage engine is free to compress one object against another when that representation saves space. The delta is a storage choice, not the semantic definition of the version.
+
+That freedom matters. A repack can choose a different delta base tomorrow without changing the object's identity. Two clones can store the same object graph using different pack layouts and still agree perfectly on the commits. A server optimized for transfer can arrange its packs differently from a developer laptop. The content-addressed namespace separates the question “what object is this?” from “how are its bytes compressed here?”
+
+This is a database property in the strongest sense.
+
+The logical record survives physical reorganization.
+
 None of this changes the commit graph a developer sees.
 
 That separation is one of Git's quiet strengths.
@@ -86,6 +98,24 @@ Geometric repacking pushes the same idea further. Instead of repeatedly rewritin
 
 Large installations care because rewriting terabytes to make a storage layout aesthetically tidy is not maintenance. It is an outage plan.
 
+The existence of Scalar makes the maturity of this layer unusually visible. Scalar began as tooling for very large Git repositories and was brought into the Git project. Its value is not a new kind of commit. It configures and orchestrates the surrounding machinery: background maintenance, commit-graph upkeep, multi-pack-index work, and other choices intended to keep a large repository responsive without making the developer become a storage administrator.
+
+This is what mature infrastructure often does to its own complexity.
+
+First, performance features appear as expert knowledge. An operator learns which maintenance command to run, which index to rebuild, which knob to set. Then the system begins to schedule and coordinate those actions itself because asking every user to understand the storage engine defeats the point of having an abstraction.
+
+The better Git becomes at this, the less a developer notices that the repository is a maintained database at all.
+
+A command can remain fast because work happened earlier in the background. A graph query can remain cheap because an auxiliary file was refreshed. Object lookup can remain predictable because packs were consolidated incrementally. The interactive command is short because the database paid some of the cost somewhere else.
+
+That has an operational consequence: performance itself becomes stateful.
+
+Two clones of the same commit graph can feel very different depending on maintenance history. One may have an up-to-date commit-graph, efficient pack layout, warm filesystem caches, and an index shaped for the current working set. Another may contain exactly the same authoritative objects and still feel slow because its derived structures have drifted.
+
+The repository history is the same.
+
+The database health is not.
+
 Git's evolution at scale has therefore been less about replacing the original model than about inserting indirection around expensive assumptions.
 
 Do not traverse every raw commit when an auxiliary graph can answer the question.
@@ -133,6 +163,16 @@ This is an operational principle worth carrying beyond Git.
 When a cache is corrupt, delete the cache.
 
 When the source of truth is corrupt, you need a recovery story.
+
+Content addressing helps identify one class of corruption because an object's bytes must match the name under the repository's hash scheme. Pack indexes and checksums help detect damage in physical storage. Verification commands can walk relationships that ordinary happy-path commands assume are sane.
+
+But not every broken repository is cryptographically corrupted.
+
+A ref can point to the wrong but perfectly valid commit. A force push can discard the history people intended to retain. A partial clone can be healthy while the promisor remote it depends on is unreachable. A backup can faithfully preserve `.git` while omitting an external LFS store required to reconstruct the project.
+
+Database correctness is larger than byte integrity.
+
+It includes the names, availability assumptions, retention policy, and recovery procedures that turn objects into a usable history.
 
 Git's reflogs occupy an interesting middle ground.
 
