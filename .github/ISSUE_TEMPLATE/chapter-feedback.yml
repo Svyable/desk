@@ -15,6 +15,7 @@ body:
       label: Book
       description: Which book is this about?
       options:
+        - abdicating-intelligence
         - adjacency
         - aggregate-consolidate-innovate
         - agentile
@@ -25,6 +26,7 @@ body:
         - asleep-at-the-wheel
         - austerity-measures
         - chokepoint
+        - commit
         - energy-value-intelligence
         - exponential-compression
         - face-the-strange
@@ -36,6 +38,7 @@ body:
         - look-alive
         - make-yourself-useful
         - no-one-read-it
+        - nothing-counts-yet
         - open-source
         - orbital
         - predictable
@@ -58,6 +61,7 @@ body:
         - the-compatibility-dividend
         - the-convergence
         - the-delegation-machine
+        - the-delete-key
         - the-exponentiality
         - the-intelligence-bubble
         - the-intelligence-dilemma
@@ -68,6 +72,7 @@ body:
         - the-never-ending-intelligence
         - the-potentiality
         - the-reliability-tax
+        - the-retry-generation
         - the-search-frontier
         - the-second-order
         - the-swarm-agents-in-the-wild
@@ -75,7 +80,9 @@ body:
         - the-value-stack
         - the-vanishing-bid
         - the-waiting-list
+        - the-weather-we-build
         - the-world-beneath-the-world
+        - this-tech-is-different
         - to-state-the-obvious
         - triumph-of-the-commons
         - ubiquitous
