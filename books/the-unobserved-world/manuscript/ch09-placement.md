@@ -100,6 +100,62 @@ Recent work on college applications in Chile offers a different but related exam
 
 A system that predicts from observed applications is downstream of self-selection.
 
+The Chile study sharpens an important distinction between selection by the institution and selection by the person facing the institution. The unobserved world can be produced before an official gate ever acts.
+
+A student may never submit an application because the school appears unaffordable, unattainable, unfamiliar, or culturally distant. A scholarship may technically be open to everyone while reaching mainly students who know how to navigate the process. An advanced course may accept any qualified student while relying on teacher recommendations that vary in who gets noticed. A program can be formally accessible and empirically invisible to people who do not believe it is meant for them.
+
+This is why application data is not a neutral picture of demand.
+
+Demand is partly constructed by information.
+
+If a college changes the application fee, publishes clearer net-price information, sends personalized admissions probabilities, removes a testing requirement, simplifies a form, or changes outreach, it can change who appears in the pool. Analysts looking only at submitted applications may then attribute the new composition to a change in student preferences when the more immediate cause is that the institution changed the cost or perceived probability of trying.
+
+The same lesson applies to talent programs earlier in schooling. A gifted program may report that relatively few students from one group qualify. But qualification often follows a chain: someone notices the student, someone refers them, the family consents, the student sits for an assessment, the assessment is interpreted, and a seat exists. Missingness can enter at every step.
+
+The final roster is the end of a funnel.
+
+That makes funnel diagnostics as important as final-outcome metrics. How many students were eligible to be considered? How many were informed? How many were referred? How many completed the process? How many were offered placement? How many accepted? How many persisted? If one group disappears early, later performance among those who remain cannot explain the initial loss.
+
+This is a version of the same error credit systems make with thin-file borrowers. Sparse history can be interpreted as low potential when it may instead reflect limited prior access to the mechanisms that generate history.
+
+Education makes the cycle visible over years.
+
+A student denied an advanced course has fewer advanced-course grades. Those grades may later be used as evidence of preparation for another opportunity. Missing one gate can reduce the evidence available at the next. The institution may then describe the downstream decision as meritocratic because it uses an objective record, without noticing that the record itself was partly produced by earlier access.
+
+The cumulative nature of educational credentials means selective labels can compound.
+
+That does not imply every student should be placed into every advanced track. It means a school should distinguish between evidence of inability and absence of opportunity to demonstrate ability.
+
+One practical response is to create repeated chances to update.
+
+A placement made at the beginning of a term should not necessarily become a permanent identity. Movement rules can allow a student who is outperforming expectations to change levels. Bridge programs can provide a lower-cost way to test readiness. Universal screening can reduce dependence on discretionary referral. Short diagnostic modules can generate fresher evidence than a years-old standardized score. Advising can make alternative pathways legible.
+
+These are not all experiments in the research sense. They are institutional designs that keep hypotheses revisable.
+
+The distinction matters because irreversible classification is epistemically expensive. If a wrong decision can be corrected quickly, the institution can afford to learn at the boundary. If a decision locks a student into a multi-year sequence, uncertainty deserves more scrutiny before the gate closes.
+
+This is where reversibility becomes an education policy variable rather than an abstract principle.
+
+Consider two placement systems with identical initial accuracy. In the first, students can move after two weeks if classroom evidence contradicts the placement. In the second, schedules are fixed for the year. The first system has a second observation and a repair mechanism. The second asks the initial prediction to carry the entire burden.
+
+The difference may matter more than a small improvement in the model.
+
+It also changes incentives. Teachers in a flexible system can treat placement as a provisional decision. Students may be more willing to attempt a harder course if retreat is not catastrophic. Administrators can learn where the initial rule fails. A rigid system may encourage everyone to defend the first classification because changing it is administratively painful.
+
+Institutional friction can convert uncertainty into destiny.
+
+That is why education technology should be evaluated as a workflow, not a score. A predictive system that identifies students “at risk” may help if it routes them toward tutoring, advising, or additional attention. The same score may harm if it closes options, lowers expectations, or diverts students from challenging work. Accuracy does not determine the moral meaning of the intervention.
+
+The action attached to the prediction does.
+
+This brings us back to the difference between prediction and policy. A model can forecast the probability that a student passes a course under historical conditions. The college still has to decide what to do with that forecast. Admit? Place? Offer support? Warn? Require remediation? Do nothing? Each policy generates a different future dataset.
+
+A publication-ready evaluation should therefore ask not only whether the model predicts, but whether the policy built around it improves outcomes compared with a defensible alternative.
+
+That requires looking for effects beyond the first semester. A placement policy can raise pass rates by steering marginal students away from hard courses while delaying progress toward a degree. Another policy can lower a gateway-course pass rate slightly while increasing completion because more students attempt the course sooner. The metric chosen determines which tradeoff becomes visible.
+
+A high-quality learning system makes those tradeoffs explicit.
+
 This matters for almost every gate in education. Advanced courses do not contain all students who could succeed in advanced courses; they contain students who were identified, recommended, allowed, informed, and willing to enroll. Extracurricular programs do not reveal the talent of people who never heard about them. Scholarship applicant pools reflect who believed the application was worth the effort.
 
 Opportunity has a discovery function.
