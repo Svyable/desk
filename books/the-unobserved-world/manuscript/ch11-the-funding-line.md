@@ -108,6 +108,72 @@ That sentence may be more honest than a score of 92.4 versus 91.8.
 
 Precision is especially dangerous when selection creates the future evidence. The funded proposal has the chance to justify its score. The unfunded proposal does not. Over time, deterministic ranking can make arbitrary early distinctions look prescient.
 
+The challenge is that a funding lottery is also difficult to evaluate on its own terms.
+
+If a funder introduces randomization among near-tied proposals, what would count as success? More citations? More high-impact papers? More unusual topics? Greater participation by early-career researchers? Less reviewer burden? More trust in the process? A larger variance in outcomes? A higher probability of rare breakthroughs?
+
+Each metric captures a different theory of why the lottery was adopted.
+
+That is important because partial randomization can be justified for at least three distinct reasons. One is epistemic humility: reviewers cannot reliably rank near-equal proposals. Another is procedural fairness: when merit differences are not defensible, chance may be more legitimate than opaque discretion. A third is exploration: variation among fundable projects may reveal ideas or investigators the dominant review process tends to miss.
+
+These reasons overlap but they are not identical.
+
+A lottery could improve procedural fairness without changing scientific output. It could increase topical diversity without improving average citations. It could lower administrative cost while producing the same science. A funder should know which outcome would justify continuing the mechanism.
+
+That creates an opportunity unusual in institutional reform: the lottery can itself be studied.
+
+If eligible proposals are randomly funded, the funded and unfunded groups can in principle create a cleaner comparison than ordinary grant selection. Researchers can follow publications, subsequent grants, career outcomes, collaboration networks, field entry, or project continuation. Not every outcome will be observable—unfunded researchers may obtain money elsewhere—but the design can still reveal more than retrospective comparison of top-ranked winners and lower-ranked losers.
+
+Randomization can therefore produce evidence about randomization.
+
+This is almost too neat, and it should not be oversold. Science careers are long. Researchers adapt. Other funders intervene. Outcomes are noisy. The most important scientific contributions may not fit standardized metrics. But a funding system that changes its allocation rule without planning how to learn from the change would be repeating the mistake this book has described in every domain.
+
+The policy should preserve its own evaluation.
+
+There is also a legitimacy problem that statistics alone cannot solve.
+
+A scientist may accept that reviewers cannot distinguish several proposals and still believe a lottery is disrespectful. Another may find the same lottery more honest than unexplained panel discretion. Applicants may react differently depending on whether the random step is transparent, whether it occurs only after a clear merit threshold, whether the odds are known, and whether the process prevents people from repeatedly buying more chances through multiple submissions.
+
+Procedural design changes behavior upstream.
+
+If applicants know that every fundable proposal enters a lottery, they may spend less effort polishing tiny rhetorical distinctions meant to move a score from 91 to 92. That could reduce wasted grant-writing time. Or they may submit more proposals because marginal polish matters less. Institutions with large administrative staffs might flood the eligible pool. The rule would change the population it is meant to judge.
+
+This is another reason the threshold cannot be treated as neutral.
+
+Suppose a lottery begins only after reviewers label proposals “fundable.” If reviewers know the final choice is random, they may become more or less selective at that stage. Some may lower the bar because they are no longer directly choosing winners. Others may raise it because entry into the pool carries real probability of funding. The human gate can adapt around the random mechanism.
+
+A serious evaluation must therefore observe the whole process, not only the draw.
+
+How many proposals enter? Who submits? How reviewers score? Which fields cross the threshold? Whether reviewer disagreement changes? Whether resubmission behavior shifts? Whether applicants perceive the process as legitimate? Whether research portfolios become broader or merely noisier?
+
+The point is not to build a giant bureaucracy around a simple lottery.
+
+It is to remember that allocation mechanisms create incentives.
+
+Science funding also has a concentration problem that exploration interacts with in subtle ways. A grant to an established laboratory may have high expected output because the laboratory already has equipment, staff, collaborators, and administrative capacity. Funding that laboratory again can therefore be rational on narrow productivity grounds. But the same concentration makes future alternatives harder to evaluate because less infrastructure develops elsewhere.
+
+Capacity is both cause and consequence of funding.
+
+A young lab without equipment looks less productive partly because it has not yet received the resources that make productivity possible. An institution without a grant office may submit weaker proposals partly because it has not accumulated the infrastructure built by prior grants. A field without expensive instruments produces less evidence partly because no one has funded the instruments.
+
+The funding system can mistake accumulated capacity for intrinsic merit.
+
+Again, that does not mean capacity should be ignored. A funder is responsible for feasibility. A laboratory that cannot execute the project should not receive money merely to diversify the portfolio. But feasibility can sometimes be built rather than merely observed.
+
+Seed grants, shared infrastructure, phased awards, and milestone funding can turn a binary funding line into a sequence of evidence-producing commitments.
+
+That is often a better exploration tool than a lottery by itself.
+
+A partial lottery answers the question: among proposals we already believe are worth doing, how should we allocate scarce slots when ranking is unreliable?
+
+A staged grant answers a different question: how can we cheaply learn whether an uncertain proposal deserves a larger commitment?
+
+The distinction matters because some ideas are too underdeveloped to clear a normal threshold but too interesting to dismiss. A small first-stage award can buy the preliminary evidence that allows later comparison. If every program demands mature feasibility before any funding, the institution may never learn about ideas that need resources in order to become legible.
+
+This is the funding equivalent of a small credit line or an interview.
+
+The action is not the final commitment. It is an option on learning.
+
 Science funding also shapes people before proposals are written. Young researchers observe what gets funded and choose fields. Departments hire around grant-rich topics. Universities build facilities where funders signal demand. Doctoral students select advisers with resources. Companies form around funded technologies. A funding priority changes the supply of future applications.
 
 The gate alters the upstream population.
