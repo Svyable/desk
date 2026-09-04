@@ -182,9 +182,7 @@ Balance this against rights that should be durable. The chapter must not imply t
 
 Synthesize a design method without pretending to offer a universal formula. Ask five questions: How fast can the underlying fact change? How likely is undiscovered change? How costly is stale trust? How costly is renewal? How good are revocation and monitoring?
 
-Use comparative examples: minutes for cloud tokens; years for passports; five-year environmental permits; decades for reactor licenses; patent terms shaped by a social bargain rather than a hazard rate. The point is to show that “validity” is a parameter chosen under different constraints.
-
-Introduce adaptive validity carefully: low-risk credentials might last longer; high-risk privileges shorter; evidence of instability could shorten the next interval. Note fairness and gaming risks.
+Use comparative examples across tokens, passports, environmental permits, reactor licenses, patents, warranties, and debt. The point is to show that validity is a parameter chosen under different constraints.
 
 **What would make this false?** Political legitimacy, simplicity, and equal treatment may matter more than individualized risk optimization. A perfectly tailored clock can become opaque or discriminatory.
 
@@ -194,8 +192,6 @@ Follow the money created by recurring validity. Renewal generates predictable de
 
 Avoid conspiracy framing. Recurring checking can be socially useful and expensive to perform. The important question is incentive alignment: who benefits from a shorter term, who pays the friction, and who decides the interval?
 
-Use warranty competition, domain registration, professional renewal, and subscription models as different cases. Keep regulated permission separate from private recurring billing.
-
 **What would make this false?** Competitive markets or statutory term rules may constrain providers from shortening validity simply to collect more fees. Some renewals may be priced below cost or cross-subsidized.
 
 ## Chapter 20 — A Civilization That Rechecks Itself
@@ -204,10 +200,18 @@ Return to the opening object and widen. Expiration is civilization admitting tha
 
 But the conclusion must preserve the counterexamples. The best systems do not maximize expiration. They choose where temporary trust is appropriate, distinguish hard safety boundaries from quality signals, automate low-value renewal, preserve meaningful reassessment, use grace where brittle cliffs would be absurd, and leave some fundamental rights outside routine requalification.
 
-End with a quiet observation rather than instructions. The dates around us are not merely reminders. They are decisions about how long the past is allowed to govern the present.
-
 **What would make this false?** If the framework adds no predictive or design value beyond ordinary domain-specific rules. The final chapter should demonstrate transfer: lessons from one domain should illuminate another without erasing their differences.
+
+## Chapter 21 — The Dead Man's Switch
+
+Extend the framework from passive expiration to active continuation. A dead man's switch reverses the default: silence no longer means persistence; continuation requires evidence that a responsible actor or condition is still present.
+
+Use industrial fail-safe control as the physical precedent, then make the chapter's original contribution carefully: autonomous software may need authority that expires unless an independent principal renews it. The renewal signal must sit above the delegated process; otherwise the agent is merely reauthorizing itself.
+
+Distinguish high-consequence delegated machine authority from durable human status. A citizen should not need a weekly heartbeat to remain a citizen. An autonomous purchasing agent may reasonably need a periodic heartbeat to keep spending someone else's money.
+
+**What would make this false?** If interruption is more dangerous than unattended continuation, or if human confirmation becomes meaningless click-through ritual. Fail-closed is not universally safer. The chapter must preserve that boundary.
 
 ## Epilogue — Tomorrow's Date
 
-Use an ordinary renewal event, ideally one that passes almost invisibly because the system is designed well. The final image should not be apocalypse at midnight. It should be continuity made possible by a small, repeated institutional act: warning, recheck, renewal, replacement, or deliberate expiry.
+Use ordinary dates and renewals to close quietly. The final image should not be apocalypse at midnight. It should be continuity made possible by a small, repeated institutional act: warning, recheck, renewal, replacement, or deliberate expiry. End on the distinction between time arriving automatically and humans deciding what should change when it does.
