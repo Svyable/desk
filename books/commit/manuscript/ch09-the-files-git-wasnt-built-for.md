@@ -26,7 +26,19 @@ This is not a failure of hashing. Git can identify the new bytes perfectly well.
 
 The ecosystem's most durable response has been to separate the coordination object from the heavy object.
 
-Git Large File Storage makes the pattern explicit. Instead of storing the large payload as an ordinary Git blob, the repository stores a small text pointer. The pointer identifies the external object, records its size, and uses a SHA-256 object identifier. A client that understands Git LFS uses that pointer to retrieve the payload from LFS storage. A client that does not has, quite literally, the pointer rather than the thing.
+Git Large File Storage makes the pattern explicit. GitHub announced Git LFS in April 2015 as an open-source extension for a problem distributed version control had never handled comfortably: large binary assets whose history was expensive to clone and whose contents produced little useful textual review. The announcement described the design in deliberately simple terms. Keep a small text pointer in Git. Store the large file elsewhere.
+
+That choice is more important than the brand name.
+
+Git LFS did not try to teach Git that a video was really a special kind of blob, or that model weights deserved a new built-in object type. It treated the ordinary Git repository as the coordination layer and moved bulk storage behind a separate protocol and service. The commit could still say, in effect, “this version of the tree refers to this exact payload,” without forcing every clone to carry the payload as an ordinary Git object.
+
+The design also preserved something subtle: the pointer itself is boring text.
+
+That means it participates in the parts of Git that already work well. A branch can move it. A commit can record it. A merge can treat it as a file. A code review can show that one external object identity replaced another. The heavy bytes travel through a different path, but the decision about which bytes belong to a version remains represented inside ordinary Git history.
+
+This is a recurring architecture in mature systems. The coordination record stays small and durable. The expensive material is fetched, cached, retained, or deleted under rules suited to its scale.
+
+Instead of storing the large payload as an ordinary Git blob, the repository stores a small text pointer. The pointer identifies the external object, records its size, and uses a SHA-256 object identifier. A client that understands Git LFS uses that pointer to retrieve the payload from LFS storage. A client that does not has, quite literally, the pointer rather than the thing.
 
 That sounds like an implementation trick. It is also a statement about what Git is best at.
 

@@ -14,13 +14,47 @@ That makes trust a design problem.
 
 Git's own security hardening over the past several years is easiest to understand as a gradual recognition that repository discovery is not a neutral act. If software walks into an arbitrary directory, decides it has found a repository, reads configuration, and invokes extension points, the line between inspecting data and trusting a program can become dangerously thin.
 
-The `safe.directory` setting is one example. Git normally refuses to treat a repository owned by another user as trusted merely because the current process can read it. An administrator or user can explicitly mark shared repositories as safe. The setting belongs to protected configuration so an untrusted repository cannot simply declare itself trusted.
+A 2022 Git vulnerability made that problem concrete.
 
-This sounds like a small rule about filesystem ownership. It is actually a statement about authority.
+On a multi-user machine, Git historically searched upward from the current directory looking for a repository. That is convenient when a developer is several directories deep inside a project: Git can find the `.git` directory without being told where it is. The same convenience becomes dangerous when part of the upward path is writable by somebody else.
+
+CVE-2022-24765 described a case where an attacker could place a `.git` directory in a shared parent location. On Windows, the public example was stark: an attacker could create `C:\.git\config`. A victim running Git outside another repository could then have Git discover that configuration while traversing upward.
+
+Configuration is not passive.
+
+Some Git settings can name executable helpers. The vulnerability announcement called out `core.fsmonitor` as one example. If attacker-controlled configuration can cause Git to invoke a command, merely running an apparently harmless Git operation in the wrong directory can cross into code execution.
+
+The user does not have to type `./malware`.
+
+They may type `git status`.
+
+They may not type Git at all. Shell prompts, IDEs, and other tools routinely run Git commands in the background to display a branch name or detect repository state.
+
+The vulnerability is useful for this chapter because it strips away the comforting distinction between “I opened the repository” and “I executed the repository.” In a toolchain with enough automatic behavior, discovery itself can become part of execution.
+
+Git 2.35.2 changed the repository search behavior so upward traversal stops when directory ownership changes from the current user. The same release introduced `safe.directory` as an explicit way to mark repositories owned by another user as trusted exceptions.
+
+That is a small-looking configuration feature with a large design principle behind it.
+
+Ambient filesystem reachability is not sufficient evidence of trust.
+
+The `safe.directory` setting remains one example of that principle. Git normally refuses to treat a repository owned by another user as trusted merely because the current process can read it. An administrator or user can explicitly mark shared repositories as safe. The setting belongs to protected configuration so an untrusted repository cannot simply declare itself trusted.
+
+This sounds like a rule about filesystem ownership. It is actually a statement about authority.
 
 The repository is allowed to describe itself, but it is not allowed to decide who should trust it.
 
-Hooks make the reason concrete.
+There is a cost to that decision, and the cost is worth noticing because security hardening rarely lands in a vacuum.
+
+Shared deployment directories, build accounts, network filesystems, containers, and multi-user servers sometimes rely on one user operating on a repository owned by another. After the ownership protections arrived, legitimate automation began encountering “dubious ownership” failures. Operators had to decide whether to change ownership, redesign the workflow, or make a deliberate `safe.directory` exception.
+
+That friction is not evidence that the security boundary was mistaken.
+
+It is evidence that the old workflow had bundled two assumptions together: the process can access this repository, therefore the process should trust this repository's Git configuration. The new behavior forced administrators to separate them.
+
+This is what safer defaults often do. They turn an invisible assumption into a visible policy decision.
+
+Hooks make the reason concrete from another direction.
 
 Git hooks are programs triggered at particular points in Git operations. A pre-commit hook can inspect a proposed commit. A commit-msg hook can reject a message. Server-side hooks can enforce policy during pushes. Other hooks can react to checkout, merge, rewrite, or filesystem monitoring. They are powerful precisely because they are executable code attached to events that developers already perform.
 
@@ -39,6 +73,14 @@ The user changes directories.
 The prompt tries to be helpful.
 
 The repository has already become active.
+
+The 2022 ownership vulnerability and the planned bare-repository change are not the same bug. They belong to the same family of design pressure. Both ask whether Git should infer trust from where repository metadata happens to be found.
+
+The mature answer is becoming more conservative.
+
+Discovery is useful.
+
+Explicit intent is safer.
 
 Security engineering often advances by discovering that a supposedly passive format is not passive. Office documents gained macros. PDFs gained scripting. Web pages gained an application platform. Package manifests gained install scripts. Repositories accumulated enough behavior around them that opening one could no longer be treated as equivalent to opening a text file.
 
