@@ -16,7 +16,23 @@ A merge is therefore more than a command that makes the red marks disappear. It 
 
 The ordinary three-way merge contains the shape of the problem. Git identifies the histories being combined and a common ancestor. It can then compare what each side changed since that ancestor. When the changes do not collide, the result may be assembled automatically. When they do, Git records enough state for a person or tool to inspect the competing versions and produce a resolution.
 
-Modern Git's default `ort` strategy is the product of years of engineering around this operation. It handles rename detection, directory changes, recursive ancestry cases, and a long list of situations that made older merge machinery slower or more surprising. The implementation can improve dramatically while the underlying problem remains recognizable: independent histories have to become one tree without losing the intent that mattered in either.
+The state Git records during a conflicted merge is more precise than the familiar conflict markers make it appear.
+
+For an unmerged path, the index can retain multiple stages: the version from the merge base, the version from the current side, and the version from the other side. The working-tree file is the place where those alternatives are rendered into something a person can edit, often with conflict markers. Underneath, Git has not merely said “this file is broken.” It has preserved the inputs to the unresolved decision.
+
+That matters because tools can reason over those stages without scraping the prose of a conflict marker. A merge UI can show the base and both sides. A custom resolver can inspect the exact blobs. A human can ask what each branch actually changed relative to the common ancestor instead of treating the conflict as two complete documents fighting for ownership of a file.
+
+The distinction is small until a repository has to resolve the same kinds of conflicts repeatedly.
+
+Modern Git's default `ort` strategy adds another revealing detail. When a merge has conflicts, Git can write an `AUTO_MERGE` ref pointing to a tree that captures the working-tree state produced by the automatic part of the merge, including conflict markers where the algorithm could not finish. The unresolved merge therefore has a nameable intermediate state.
+
+That is a subtle extension of Git's old instinct: when work becomes consequential, turn the state into something the object model can identify.
+
+The `AUTO_MERGE` tree is not a final commit. It does not claim the conflict is resolved. It is an anchor for what the merge algorithm produced before human or higher-level tool judgment completed the job. That can help compare the eventual resolution with the automatic starting point and can make otherwise ephemeral conflict work more inspectable.
+
+This is exactly the kind of feature that becomes more valuable as machines participate in resolution. If an agent changes ten conflicted files, a reviewer benefits from knowing which edits came from the mechanical merge and which were introduced by the resolver. The final tree alone answers what survived. An intermediate anchor can help answer what judgment changed.
+
+Modern Git's `ort` strategy is the product of years of engineering around this operation. It handles rename detection, directory changes, recursive ancestry cases, and a long list of situations that made older merge machinery slower or more surprising. The implementation can improve dramatically while the underlying problem remains recognizable: independent histories have to become one tree without losing the intent that mattered in either.
 
 Text gives Git a useful but narrow view of that intent.
 
@@ -67,6 +83,16 @@ The feature says something important about reconciliation: some conflicts are no
 Remembering that decision can save work.
 
 But even `rerere` is cautious. A reused resolution deserves inspection because context can change. Git can replay the hand resolution; it cannot know whether the reasoning that justified it still holds. Automation reduces repetition without eliminating judgment.
+
+There is also a governance lesson hiding inside `rerere`.
+
+The fact that a resolution can be reused does not mean the reason for the resolution is preserved. The mechanism records enough shape to recognize and replay the edit. It does not automatically record that the team chose one API because of a compatibility promise, or that a security reviewer required a particular branch of the conflict, or that one side represented generated code that should never have won.
+
+That is the recurring separation between mechanics and meaning.
+
+Git can remember the edit.
+
+The institution has to remember the reason.
 
 Merge queues attack a different source of repetition.
 
