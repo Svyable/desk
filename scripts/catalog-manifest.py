@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Maintain Desk's versioned Reader catalog manifest from local book folders."""
+"""Maintain Desk discovery inventory and refresh the human dashboard together."""
 from __future__ import annotations
 
 import argparse
 import json
 import re
+import subprocess
+import sys
 from pathlib import Path
 
 SAFE_SLUG = re.compile(r"^[a-z0-9][a-z0-9-]*$")
@@ -40,10 +42,22 @@ def render(slugs: list[str]) -> str:
     return json.dumps({"version": 1, "books": slugs}, indent=2, ensure_ascii=False) + "\n"
 
 
+def refresh_dashboard(root: Path) -> int:
+    command = [sys.executable, str(root / "scripts" / "catalog.py"), "--root", str(root), "--write"]
+    result = subprocess.run(command, check=False)
+    if result.returncode:
+        print("catalog manifest not written because catalog.py --write failed")
+    return result.returncode
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", default=".", help="Desk repository root")
-    parser.add_argument("--write", action="store_true", help="Rewrite catalog.json from local book folders")
+    parser.add_argument(
+        "--write",
+        action="store_true",
+        help="Refresh the README dashboard and catalog.json from local book folders",
+    )
     args = parser.parse_args(argv)
 
     root = Path(args.root).resolve()
@@ -51,6 +65,8 @@ def main(argv: list[str] | None = None) -> int:
     expected = book_slugs(root)
 
     if args.write:
+        if refresh_dashboard(root):
+            return 1
         path.write_text(render(expected), encoding="utf-8")
 
     try:
