@@ -256,6 +256,10 @@ Static compliance can therefore coexist with dynamic risk.
 
 The regulatory system needs change control.
 
+The versioning problem sits on both sides of the desk. In September 2026, the European Commission’s own AI Act service desk showed it in miniature. Its consolidated implementation timeline, which incorporated the Digital Omnibus amendments, put the national regulatory-sandbox milestone at August 2, 2027. The provision-level Article 57 page still displayed the original August 2, 2026 date from the 2024 text.
+
+That is not evidence that the law is unknowable. The Commission described the Omnibus as an effort to simplify implementation, extend time where support tools were not ready, and preserve safeguards. A stale provision page may be a documentation lag rather than a policy failure. But for a company deciding what it must do and when, provenance is no longer clerical trivia. It has to know which rule, amendment, guidance document, deadline, system version, and deployment context it is acting under.
+
 When does a modification require retesting?
 
 Who decides whether a new model version is materially different?
