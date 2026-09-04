@@ -3,12 +3,12 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Complete expanded draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Form** | Narrative nonfiction / AI / cognition / institutions |
-| **Chapters** | 24 of 24 drafted |
-| **Edition** | First Desk draft · September 2026 |
+| **Chapters** | 30 of 30 drafted |
+| **Edition** | Expanded first Desk draft · September 2026 |
 | **Method** | Cognitive science + human-factors history + institutional case studies + falsification notes |
 
 *What Happens When Humanity Hands Over Its Ability to Think to Machines*
@@ -19,9 +19,9 @@
 
 Humans have always offloaded cognition. Writing, maps, ledgers, calculators, libraries, search engines, checklists, colleagues, and institutions all let a mind do more than it could alone. The danger is therefore not outsourcing thought. Civilization is built from outsourced thought. The danger begins when delegation removes the practice required to understand, challenge, repair, or refuse the system doing the work.
 
-The book follows that line through fabricated legal citations, the ancient argument over writing, cognitive-offloading research, London taxi navigation, aviation automation, classrooms, apprenticeships, law, medicine, software, distributed cognition, AI-assisted call centers, superhuman Go, institutional memory, search summaries, personalized answers, and the design of tools that can strengthen rather than replace judgment. Its central claim is that intelligence is not preserved merely because an intelligent answer remains available somewhere. A society retains intelligence only when enough people and institutions can still form models of the world, test claims against reality, learn from error, and act when the machinery is unavailable or wrong.
+The book follows that line through fabricated legal citations, the ancient argument over writing, cognitive-offloading research, London taxi navigation, aviation automation, classrooms, apprenticeships, law, medicine, software, distributed cognition, AI-assisted call centers, superhuman Go, institutional memory, search summaries, personalized answers, the changing signals of expertise, machine consensus, childhood development, automated question formation, responsibility, linguistic and infrastructure dependence, and the design of tools that can strengthen rather than replace judgment. Its central claim is that intelligence is not preserved merely because an intelligent answer remains available somewhere. A society retains intelligence only when enough people and institutions can still form models of the world, test claims against reality, learn from error, and act when the machinery is unavailable or wrong.
 
-The conclusion is not a retreat from AI. It is a design requirement: automate output aggressively where it helps, but preserve the human and institutional capacities on which verification, learning, accountability, and recovery depend.
+The conclusion is not a retreat from AI. It is a design requirement: automate output aggressively where it helps, but preserve the human and institutional capacities on which verification, learning, accountability, recovery, and the continued ability to choose the question itself depend.
 
 ## Contents
 
@@ -49,7 +49,13 @@ The conclusion is not a retreat from AI. It is a design requirement: automate ou
 - [x] [Ch 21 — The New Literacy](manuscript/ch21-the-new-literacy.md)
 - [x] [Ch 22 — The Unplugged Test](manuscript/ch22-the-unplugged-test.md)
 - [x] [Ch 23 — Intelligence Without Abdication](manuscript/ch23-intelligence-without-abdication.md)
-- [x] [Ch 24 — Still Thinking](manuscript/ch24-still-thinking.md)
+- [x] [Ch 24 — The Performance of Knowing](manuscript/ch24-the-performance-of-knowing.md)
+- [x] [Ch 25 — The Council of Machines](manuscript/ch25-the-council-of-machines.md)
+- [x] [Ch 26 — The Childhood Question](manuscript/ch26-the-childhood-question.md)
+- [x] [Ch 27 — The Question Before the Answer](manuscript/ch27-the-question-before-the-answer.md)
+- [x] [Ch 28 — The Human Who Signs](manuscript/ch28-the-human-who-signs.md)
+- [x] [Ch 29 — Cognitive Sovereignty](manuscript/ch29-cognitive-sovereignty.md)
+- [x] [Ch 30 — Still Thinking](manuscript/ch30-still-thinking.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research

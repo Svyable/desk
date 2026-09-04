@@ -232,11 +232,71 @@ These briefs track what each chapter has to establish and what evidence would we
 
 **Falsification note:** The chapter fails if it freezes a permanent “human versus machine” boundary.
 
-## Chapter 24 — Still Thinking
+## Chapter 24 — The Performance of Knowing
+
+**Job:** Examine what happens when polished expert-like output becomes cheap and traditional artifacts become weaker signals of the producer's underlying understanding.
+
+**Evidence to seek:** Processing-fluency research; truth-effect literature; human-AI trust and explanation studies; changing assessment practices.
+
+**Counterevidence:** AI can reduce exclusionary jargon, improve expert communication, and make sophisticated participation available to capable outsiders.
+
+**Falsification note:** Do not claim that fluent prose is inherently deceptive or that older credentials and artifacts were reliable measures of understanding.
+
+## Chapter 25 — The Council of Machines
+
+**Job:** Distinguish nominal multiplicity from functional independence in machine ensembles and agent debates.
+
+**Evidence to seek:** Multi-agent debate research; heterogeneous versus homogeneous ensemble performance; cases of incorrect model consensus; system-resilience literature.
+
+**Counterevidence:** Ensembles, self-consistency, debate, and majority voting can materially improve performance even when independence is imperfect.
+
+**Falsification note:** Do not imply that agreement among models is useless; the relevant variable is how much new information or distinct error structure each member contributes.
+
+## Chapter 26 — The Childhood Question
+
+**Job:** Treat growing up with conversational AI as a developmental design problem while preserving the current lack of long-run causal evidence.
+
+**Evidence to seek:** Bastani et al.; UNESCO education guidance; UNICEF child-centered AI guidance and emerging research on child-chatbot interaction.
+
+**Counterevidence:** AI tutoring can expand access, personalize practice, support disability access, and create abundant feedback and rehearsal.
+
+**Falsification note:** Do not claim that conversational AI has already been shown to damage children's social, emotional, or cognitive development over the long run.
+
+## Chapter 27 — The Question Before the Answer
+
+**Job:** Move upstream from answer quality to problem framing, objective choice, anomaly recognition, and hypothesis generation.
+
+**Evidence to seek:** AI-assisted scientific-discovery literature; research on hypothesis generation; examples where categories or objectives determine what a system can see.
+
+**Counterevidence:** AI can widen the hypothesis space, cross disciplinary boundaries, surface alternatives, and help humans ask questions they would not generate alone.
+
+**Falsification note:** Do not romanticize human intuition or assert that machines cannot generate important questions; the claim is about governance of framing and objective choice.
+
+## Chapter 28 — The Human Who Signs
+
+**Job:** Separate real accountability from ceremonial human sign-off in AI-mediated work.
+
+**Evidence to seek:** Automation-bias and complacency literature; AI risk-management guidance; scientific authorship and professional-responsibility policies; audit and provenance practices.
+
+**Counterevidence:** Fully automated processes with strong monitoring, appeal, and accountable system ownership can be safer than exhausted humans rubber-stamping every case.
+
+**Falsification note:** “Human in the loop” is not treated as sufficient; responsibility must be paired with authority, evidence access, competence, time, and the capacity to change the system.
+
+## Chapter 29 — Cognitive Sovereignty
+
+**Job:** Extend the dependency argument to organizations, states, and language communities without equating sovereignty with technological autarky.
+
+**Evidence to seek:** OECD competition work on cloud, compute, and model concentration; switching and interoperability evidence; UNESCO multilingual AI work; public-sector and national AI infrastructure strategies.
+
+**Counterevidence:** Global model and cloud providers can give small organizations and countries better capabilities than local self-sufficiency, and concentration can coexist with strong competition and portability.
+
+**Falsification note:** Do not use “sovereignty” as a synonym for domestic ownership. The relevant test is agency under interdependence: ability to switch, adapt, verify, preserve records, represent local law or language, and continue essential functions.
+
+## Chapter 30 — Still Thinking
 
 **Job:** End on responsibility rather than superiority: what people and institutions remain responsible for understanding and choosing.
 
-**Evidence to seek:** No new evidence burden; conclusion should accurately compress earlier findings.
+**Evidence to seek:** No new evidence burden; conclusion should accurately compress earlier findings, including the expanded arguments about signals of expertise, machine consensus, children, question formation, accountability, and cognitive sovereignty.
 
 **Counterevidence:** Preserve the possibility that internal human skills can shrink while collective intelligence grows.
 
