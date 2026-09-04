@@ -269,3 +269,35 @@ The network is not freedom.
 It is a set of roads.
 
 Safety depends on whether we know where they lead.
+
+Knowing the roads also means knowing which of them can build new roads. Cloud control planes are the obvious example. A runtime may be restricted to a narrow internal network while holding authority to create another workload in a different network context. The original egress policy remains correct and becomes irrelevant to the new workload.
+
+The same pattern appears in automation platforms and browser-based services. A constrained agent can ask an allowed service to schedule a webhook, create an integration, launch a job, or connect an account whose traffic later originates elsewhere. The network boundary has been crossed through provisioning rather than packets.
+
+A robust review therefore treats resource creation as network authority when the created resource can communicate. The question is not only where this process can send traffic. It is where this process can cause traffic to originate.
+
+This matters for revocation. Blocking the original runtime's egress after an incident may stop the process while leaving a delegated workload, scheduled function, or external integration alive. Network containment has to follow lineage beyond the source address.
+
+There is also a reliability problem hiding inside strict egress controls. A network policy that fails closed can stop legitimate work during an outage. A policy that fails open can quietly turn a dependency failure into broad access. Teams under pressure often choose availability, especially when the agent is performing operational work.
+
+The safer design is to decide the degradation mode before the emergency. If a retrieval gateway is unavailable, a research agent may continue from cached public sources rather than receive unrestricted browsing. If the production-control gateway is unavailable, an operations agent may continue diagnosis while losing write authority. If the identity service cannot refresh a credential, the agent may finish a local analysis without carrying the old credential indefinitely.
+
+These are not merely network decisions. They define what the system becomes when one safety component is missing.
+
+The same preplanning should apply to external providers. If an agent depends on a third-party service for storage, messaging, or compute, the organization should know what happens when that provider cannot honor an emergency request immediately. Can access be revoked locally? Can credentials be rotated without the provider's cooperation? Can outbound traffic be blocked while preserving evidence? Does the provider expose logs detailed enough to reconstruct the task lineage?
+
+The more authority crosses organizational boundaries, the more containment becomes a contractual property as well as a technical one.
+
+This will matter as agent products become chains of services assembled in real time. A travel agent may invoke a model provider, a search service, a booking platform, a payment processor, an identity broker, and a messaging service during one task. Each component can be well secured individually while the composite route is poorly understood.
+
+A useful architecture should make the route visible to the operator. Not every packet, but every authority-relevant crossing: which external service was invoked, under whose delegation, what data class left, what persistent object was created, what credential was issued, and how that relationship ends.
+
+Without that record, “internet access” becomes an audit afterthought. With it, the organization can distinguish ordinary retrieval from a task that is quietly accumulating external footholds.
+
+This is another place where restraint can improve capability. An agent given one enormous network permission must reason about a world full of irrelevant paths. A system with explicit mediators can present a smaller, cleaner action space. The agent spends less effort discovering how to reach the sanctioned service and the institution spends less effort guessing which route it used.
+
+Good roads are not merely barriers to movement. They make legitimate movement easier to understand.
+
+That is the design target: not an agent stranded on an island, and not a process dropped onto an unmarked continent.
+
+A road network whose important exits are intentional, whose new roads require authority, and whose map survives the incident.
