@@ -23,7 +23,7 @@ This is not an argument against prediction. It is an argument for recognizing a 
 
 The book follows that problem from the fundamental problem of causal inference into hiring, lending, medicine, education, recommendation systems, science funding, public policy, and organizational strategy. It asks when randomization is not indecision but instrumentation, when fairness requires exploration rather than equal treatment of a frozen model, and how institutions can preserve enough variation to discover people, treatments, ideas, and policies that their existing evidence has not yet learned how to value.
 
-All twenty chapter drafts are now in place. The Desk copy remains `Drafting` while the manuscript still needs its expansion pass, back matter, final source audit, and catalog/integrity pass before it can be considered a complete Desk-standard book.
+All twenty chapter drafts, front matter, back matter, rights files, research brief, falsification notes, and source ledger are now in place. The Desk copy remains `Drafting` while the manuscript goes through its chapter-length expansion pass, final claim audit, shared catalog synchronization, and integrity checks before it can be considered a complete Desk-standard book.
 
 ## Editorial principles
 
@@ -59,7 +59,7 @@ All twenty chapter drafts are now in place. The Desk copy remains `Drafting` whi
 - [x] [Chapter 18 — Randomness With a Reason](manuscript/ch18-randomness-with-a-reason.md)
 - [x] [Chapter 19 — Institutions That Learn](manuscript/ch19-institutions-that-learn.md)
 - [x] [Chapter 20 — Keep the Future Observable](manuscript/ch20-keep-the-future-observable.md)
-- [ ] [Back Matter — A Field Guide to Missing Evidence](manuscript/back-matter.md)
+- [x] [Back Matter — A Field Guide to Missing Evidence](manuscript/back-matter.md)
 
 ## Research
 
