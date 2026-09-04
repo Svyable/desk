@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 74 book projects · 38 complete drafts · 1 in revision · 35 drafting**
+> **Desk: 75 book projects · 38 complete drafts · 1 in revision · 36 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 33 Desk-only · 0 Shelf-only**
+> **Where they live: 41 in both Desk + Shelf · 34 Desk-only · 0 Shelf-only**
 > **Release review queue: 2 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -123,8 +123,9 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✍️ Drafting | 21 of 21 | 64,856 | The working thesis is that standards are compressed coordination: shared rules at carefully chosen seams let strangers make complementary decisions without bilateral negotiation. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,205 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
-| [**The Delete Key**](books/the-delete-key/) | ✍️ Drafting | 1 of 25 + front matter | 3,256 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
+| [**The Delete Key**](books/the-delete-key/) | ✍️ Drafting | 10 of 25 + front matter | 15,829 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 13 (Prologue + Chapters 1–12) | 29,714 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [**The Hundred-Year Handoff**](books/the-hundred-year-handoff/) | ✍️ Drafting | 4 of 21 drafted | — | Some of civilization's hardest projects have a peculiar customer: a person who is not alive yet. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-handoff/) |
 | [**The Intelligence Bubble**](books/the-intelligence-bubble/) | ✍️ Drafting | 18 of 18 | 56,186 | AI can be economically transformative while many of the investors financing its first great buildout earn disappointing returns. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,013 | The Intelligence Dilemma asks how schools can use abundant machine intelligence to deepen learning without letting polished output become a substitute for student capability. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | 66,001 | The working thesis is that the unpaid social infrastructure of the twentieth century — a stable workplace with the same coworkers for years, a weekly religious congregation, a union hall… | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
