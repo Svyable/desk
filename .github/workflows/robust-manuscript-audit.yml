@@ -11,21 +11,58 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Compute manuscript stats
+      - name: Compute manuscript stats and prose-risk report
         run: |
           python3 - <<'PY'
           import json
           import re
+          from collections import defaultdict
           from pathlib import Path
 
           word_re = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
+          sentence_re = re.compile(r"(?<=[.!?])\s+")
           manuscript = Path("books/robust/manuscript")
           counts = {}
           total = 0
+          paragraphs = defaultdict(list)
+          sentences = defaultdict(list)
+          relative_time_hits = []
+          quote_hits = []
+          pattern_counts = defaultdict(lambda: defaultdict(int))
+
           for path in sorted(manuscript.rglob("*.md")):
-              count = len(word_re.findall(path.read_text(encoding="utf-8")))
-              counts[str(path.relative_to(manuscript))] = count
+              text = path.read_text(encoding="utf-8")
+              rel = str(path.relative_to(manuscript))
+              count = len(word_re.findall(text))
+              counts[rel] = count
               total += count
+
+              for block in re.split(r"\n\s*\n", text):
+                  cleaned = " ".join(line.strip() for line in block.splitlines()).strip()
+                  if not cleaned or cleaned.startswith("#"):
+                      continue
+                  norm = re.sub(r"[^\w’' -]+", "", cleaned.lower())
+                  norm = re.sub(r"\s+", " ", norm).strip()
+                  if len(word_re.findall(norm)) >= 12:
+                      paragraphs[norm].append(rel)
+                  for sent in sentence_re.split(cleaned):
+                      snorm = re.sub(r"[^\w’' -]+", "", sent.lower())
+                      snorm = re.sub(r"\s+", " ", snorm).strip()
+                      if len(word_re.findall(snorm)) >= 8:
+                          sentences[snorm].append(rel)
+
+              for lineno, line in enumerate(text.splitlines(), 1):
+                  low = line.lower()
+                  if re.search(r"\b(today|currently|this year|right now|at present)\b", low):
+                      relative_time_hits.append([rel, lineno, line.strip()])
+                  if ('“' in line or '”' in line or '"' in line) and not line.lstrip().startswith("#"):
+                      quote_hits.append([rel, lineno, line.strip()])
+                  if re.search(r"\bnot\b.{0,100}\b(?:but|instead)\b", low):
+                      pattern_counts[rel]["not_but"] += 1
+                  if line.strip().startswith(("The point is not", "This is not", "That is not", "It is not")):
+                      pattern_counts[rel]["negation_openers"] += 1
+                  if line.strip().startswith(("Ask ", "Do not ", "Keep ", "Stop ")):
+                      pattern_counts[rel]["imperative_openers"] += 1
 
           result = {
               "total_words": total,
@@ -35,15 +72,44 @@ jobs:
               "longest": sorted(counts.items(), key=lambda item: item[1], reverse=True)[:10],
               "files": counts,
           }
-          print(json.dumps(result, indent=2, ensure_ascii=False))
+          prose = {
+              "exact_repeated_paragraphs_across_files": [
+                  {"text": text, "files": sorted(set(files))}
+                  for text, files in paragraphs.items()
+                  if len(set(files)) > 1
+              ][:100],
+              "exact_repeated_sentences_across_files": [
+                  {"text": text, "files": sorted(set(files))}
+                  for text, files in sentences.items()
+                  if len(set(files)) > 1
+              ][:200],
+              "relative_time_hits": relative_time_hits,
+              "quotation_mark_hits": quote_hits,
+              "rhetorical_pattern_counts": {
+                  file: dict(values) for file, values in pattern_counts.items()
+              },
+          }
           Path("robust-manuscript-audit.json").write_text(
-              json.dumps(result, indent=2, ensure_ascii=False) + "\n",
-              encoding="utf-8",
+              json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
           )
+          Path("robust-prose-audit.json").write_text(
+              json.dumps(prose, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+          )
+          print(json.dumps(result, indent=2, ensure_ascii=False))
           PY
 
-      - name: Upload manuscript audit
+      - name: Generate Desk catalog and run Reader audit
+        run: |
+          python3 scripts/catalog.py --write
+          python3 scripts/catalog.py --json > desk-catalog-audit.json
+          cp README.md generated-root-README.md
+
+      - name: Upload publication audit bundle
         uses: actions/upload-artifact@v4
         with:
-          name: robust-manuscript-audit
-          path: robust-manuscript-audit.json
+          name: robust-publication-audit
+          path: |
+            robust-manuscript-audit.json
+            robust-prose-audit.json
+            desk-catalog-audit.json
+            generated-root-README.md
