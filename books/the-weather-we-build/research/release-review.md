@@ -1,94 +1,117 @@
 # Release Review — The Weather We Build
 
 **Reviewed:** 2026-09-03  
-**Desk source under review:** `95de50c88cc73cd0fe7e1fc09ea4bc1fc7e9bd43` plus the bounded readiness remediations in this review branch  
-**Disposition:** **Release-cleared subject only to mechanical publication steps.**
+**Edition under review:** Expanded 16-chapter Desk working edition  
+**Prior Shelf snapshot:** frozen source `819e8187720b945f499ca53793d1cce7ace1abaa`  
+**Disposition:** **Not yet release-cleared; evidence gate passed, editorial gates remain.**
 
-## Scope reviewed
+## Why this review supersedes the earlier decision
 
-The canonical Desk manuscript is in `Complete structural draft` state and contains the complete intended narrative packet: front matter, prologue, Chapters 1–12, epilogue, and back matter. The book README marks every intended manuscript path complete. `reader.json` is present.
+The prior release review cleared the original 12-chapter structural draft for mechanical publication. The manuscript was subsequently expanded with Chapters 13–16. That expansion changed the book's argumentative ending and therefore invalidated any claim that the expanded Desk edition was already release-cleared.
 
-The review read the book README, research plan, front and back matter, and the full chapter arc, with focused verification of the factual lanes that carry the manuscript's strongest engineering, health, climate, and historical claims.
+The existing September 2026 Shelf snapshot remains valid as a historical frozen edition. This review concerns only the later 16-chapter Desk edition.
 
-## Readiness remediations completed in this branch
+## Current scope
 
-### Rights
+The expanded manuscript contains:
 
-The original complete structural draft had no book-level rights packet. This branch adds:
+- front matter;
+- prologue;
+- Chapters 1–16;
+- epilogue;
+- back matter;
+- book-level rights packet;
+- Reader manifest;
+- original publication source ledger;
+- Chapters 13–16 evidence addendum;
+- methodical publication plan.
 
-- `RIGHTS.md` using the repository's `bookself-arr-v1` All Rights Reserved convention;
-- `rights.json` with public-reading permission and the same reserved reproduction, derivative, commercial, AI-training, generative-use, retrieval-grounding, indexing, narration, and translation rights used by current Desk/Shelf releases.
+The book README correctly marks the Desk manuscript as an expanded working draft rather than silently replacing the previously published snapshot.
 
-This removes the rights/matter blocker without changing manuscript prose.
+## Evidence gate for Chapters 13–16
 
-### Publication source ledger
+### Chapter 13 — The Heat Debt
 
-The research plan explicitly required publication-grade primary-source attachment and a chapter ledger. This branch adds `research/source-ledger.md`, verified 2026-09-03, with a factual lane for front matter/prologue, every numbered chapter, and the epilogue/back-matter synthesis.
+U.S. Department of Energy technical material supports the chapter's qualitative claim that high-density computing creates substantial thermal-management requirements and that liquid cooling can move heat from IT equipment into dedicated water loops. DOE's advanced-cooling R&D also supports the narrower claim that rising processor/rack heat flux is an active engineering problem.
 
-The ledger prioritizes authoritative or first-party material from NIST, NASA, WHO, CDC, USDA, DOE, EPA, OSHA, NOAA and Smithsonian collections. One battery dry-room lane uses a manufacturer engineering source and is expressly bounded as chemistry/process-specific rather than universal.
+**Boundary preserved:** no universal claim that every data center requires liquid cooling or that one architecture is optimal everywhere.
 
-The manuscript is notably conservative about hard numbers: its claims are mostly qualitative descriptions of physical dependencies and cross-sector patterns. No unsupported current numerical forecast or time-sensitive market claim was found that requires prose remediation before release.
+### Chapter 14 — The Night Shift of Civilization
 
-### Novelty / predecessor review
+NIST maintenance-management research supports the chapter's central human-systems claim: modern maintenance remains substantially dependent on human problem solving, and sensing/analytics are most useful when integrated with rather than imagined as a simple replacement for human knowledge. DOE condition-based and predictive-maintenance guidance supports the chapter's examples of detecting degradation before failure.
 
-The research plan also required a formal adjacent-framing check. The scan found real predecessors that should remain visible:
+**Boundary preserved:** automation can reduce manual work and improve diagnosis; the manuscript should not imply that maintenance must remain permanently human or non-automated.
 
-- Gail Cooper's _“Manufactured Weather”: A History of Air Conditioning in the United States, 1902–1955_ is a direct lexical predecessor for the phrase “manufactured weather.”
-- Simon Marvin and Jonathan Rutherford's 2018 _Urban Studies_ article, “Controlled environments: An urban research agenda on microclimatic enclosure,” treats controlled microclimatic enclosures as a cross-cutting object of urban research.
-- Artificial greenhouse climates and environmental-control engineering have longstanding technical literatures.
+### Chapter 15 — The Planetary Cleanroom
 
-These findings do not invalidate the manuscript because the canonical text already says the component disciplines are mature, calls “manufactured weather” a framing device rather than a technical category, and locates its contribution in synthesis. The source ledger now records the predecessors explicitly. Release copy must not describe the phrase itself as an original coinage.
+NASA / Fifth National Climate Assessment material supports the chapter's description of Earth as a coupled system involving atmosphere, land, oceans, cryosphere, energy, water, carbon, and other cycles. The National Academies' solar-geoengineering work supports the chapter's insistence that large-scale climate intervention raises technical, ecological, social, ethical, legal, and governance questions simultaneously.
 
-## Factual / conceptual gate findings
+**Boundary preserved:** “planetary cleanroom” is an explicitly dangerous analogy used to teach humility, not a technical classification of Earth. Mitigation, adaptation, carbon removal, weather modification, and sunlight-reflection strategies remain distinct.
 
-### Cleanrooms and precision environments
+### Chapter 16 — The Last Free Input
 
-NIST facility documentation supports the manuscript's claim that high-precision research/fabrication facilities actively manage particles/contamination, temperature, humidity, air quality and vibration. The manuscript appropriately avoids claiming one universal cleanroom specification.
+DOE resilience guidance supports the counter-thesis that efficiency and passive design can widen the period during which buildings remain habitable after loss of active conditioning. NIST mechanical-system reliability work supports the broader design direction toward fault tolerance and robust operation rather than assuming tighter environmental control is always the only path.
 
-### Cold chains
+**Boundary preserved:** robustness is a design alternative at the margin, not a universal substitute for environmental control.
 
-WHO cold-chain guidance supports the core framing that temperature-sensitive products depend on specified and monitored thermal histories. Product-specific approved storage conditions remain controlling; the manuscript does not collapse every cold-chain product into one temperature range.
+## Novelty / terminology boundary
 
-### Humidity / battery dry rooms
+The prior predecessor review remains controlling for the phrase **manufactured weather**: the release must not claim the phrase itself is an original coinage.
 
-Manufacturer engineering material supports the deliberately qualified claim that some lithium-battery materials/process steps require low-dew-point dry-room conditions and that creating those conditions has equipment/energy consequences. The chapter does not universalize this to every chemistry or process.
+The late-book labels **heat debt**, **maintenance paradox**, **planetary cleanroom**, and **last free input** are treated as Sven Hardy Benson's narrative framing devices. Publication copy must not present them as established engineering nomenclature unless an independent literature review establishes otherwise.
 
-### Pressure / controlled air / spacecraft
+## What is now passed
 
-CDC guidance supports directional airflow through pressure differentials in healthcare environments. NASA ECLSS documentation supports the spacecraft example of actively manufactured pressure, air quality, carbon-dioxide removal, humidity and temperature.
+- Manuscript file completeness: **pass** for 16 chapters plus front/prologue/epilogue/back matter.
+- Rights packet: **pass**.
+- Reader manifest: **pass**.
+- Original Chapters 1–12 evidence packet: **pass from prior review**.
+- Chapters 13–16 evidence packet: **pass for editorial progression**.
+- Predecessor/novelty boundary: **pass with explicit qualifications**.
+- Existing frozen Shelf snapshot provenance: **pass / preserved**.
 
-### Commissioning and facility support
+## What remains before release
 
-DOE commissioning guidance supports the claim that performance is not established merely by construction completion: systems are tested/adjusted against intended operation, and recommissioning addresses drift.
+### Developmental gate — open
 
-### Buildings, urban heat and human thermal range
+The expansion changed the ending. A full 16-chapter structural read must determine whether:
 
-DOE and EPA sources support the qualitative connection between space conditioning, building energy, outdoor heat and urban heat-island interactions. OSHA supports the chapter's multifactor treatment of heat stress: temperature alone is insufficient; humidity, radiant heat, air movement, workload, clothing, acclimatization and individual factors matter. The book does not give clinical advice or individualized thresholds.
+- Chapter 12 now functions as a hinge instead of a climax;
+- Chapter 13 duplicates earlier thermal material;
+- Chapter 14 remains tightly tied to manufactured weather rather than becoming a general maintenance essay;
+- Chapter 15 remains proportionate and disciplined at planetary scale;
+- Chapter 16 genuinely strengthens the thesis through counterargument;
+- the epilogue resolves the expanded 16-chapter argument rather than the prior 12-chapter edition.
 
-### Future design climate / industrial geography
+### Line/fact gate — open
 
-NOAA's forward-looking weather data products and NIST's 2026 work on future hazards support the bounded claim that long-lived infrastructure design cannot assume historical environmental distributions remain a sufficient description of future conditions. The book does not predict failure of any named facility.
+After the structural pass, run publication copyedit and claim verification against both source ledgers. Preserve all sector-specific qualifications and Sven Hardy Benson's compressed cadence.
 
-## Falsification review
+### Candidate freeze — open
 
-The back matter already states the strongest countercase: the thesis weakens if advanced systems become systematically more environmentally robust, environmental-control costs shrink toward irrelevance, industrial geography proves insensitive to the support layer, or frontier processes increasingly tolerate ambient variability.
+No new publication candidate SHA has been frozen. Any Shelf publication before a post-edit freeze would be premature.
 
-That is adequate falsification discipline for this edition. The release should preserve the manuscript's more modest thesis when evidence is sector-specific: controlled environments are already an enabling infrastructure layer across multiple consequential sectors, and treating them together exposes dependencies that product-centric analysis can miss.
+### Mechanical validation — open
 
-## Blocker check
+From the frozen candidate, run the repository's current catalog/discovery generation and validation tooling, including `scripts/catalog.py --write` and `scripts/check-desk.py` where those remain the current conventions. Generated metadata must be derived, not estimated by hand.
 
-- Complete/equivalent Desk state: **pass** (`Complete structural draft`).
-- Intended manuscript paths: **pass** (front matter, prologue, 12/12 chapters, epilogue, back matter).
-- Front/back matter: **pass**.
-- Rights: **pass after bounded remediation in this branch**.
-- Research/source packet: **pass after source-ledger remediation in this branch**.
-- Novelty/predecessor check: **pass with explicit lexical/intellectual predecessors recorded**.
-- Unresolved factual/research blocker: **none found**.
-- `Drafting`, `Revision`, `DO NOT RELEASE`, or incomplete-review marker: **none controlling this complete structural draft**.
-- Unintended manuscript prose changes in readiness work: **none**.
+### Shelf transfer — open
+
+The next Shelf snapshot must be copied from the exact frozen Desk candidate, with source equality checked wherever the Shelf representation is intended to preserve manuscript content exactly.
+
+## Current blocker check
+
+- Missing manuscript path: **none**.
+- Missing rights packet: **none**.
+- Missing evidence for Chapters 13–16: **none after addendum**.
+- Structural review after expansion: **open blocker**.
+- Publication line/fact edit: **open blocker**.
+- Frozen candidate SHA: **open blocker**.
+- Repository validation on frozen candidate: **open blocker**.
+- Shelf copy/metadata validation: **open blocker**.
 
 ## Release decision
 
-**Release-cleared subject only to mechanical publication steps.**
+**Do not publish the expanded 16-chapter edition yet.**
 
-After this review PR lands, freeze that committed Desk source, prepare a matched Desk/Shelf release pair from that exact source, preserve Desk as `Complete structural draft`, transform only the Shelf publication status/metadata, transfer the complete manuscript/research/rights/Reader packet, update the public catalog and feedback/discovery surfaces, verify exact copied content against the frozen source, and merge only when both halves remain conflict-free with actual required checks green and no unresolved review blockers.
+Proceed in the order defined in `publication-plan.md`: developmental edit, line/fact edit, freeze one exact Desk candidate, run objective repository checks, prepare a matched Shelf snapshot from that source, and only then issue a final release review changing the disposition to **release-cleared**.
