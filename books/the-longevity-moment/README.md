@@ -55,6 +55,7 @@ The argument has a counterweight throughout. Optionality is expensive. Commitmen
 
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
+- [Interlude briefs and falsification notes](research/interlude-briefs.md)
 - [Source ledger](research/source-ledger.csv)
 
 The core research rule is that longevity claims must survive both hype and pessimism: no biomedical mechanism is treated as a proven human lifespan intervention; no average is allowed to stand in for every occupation or income group; and each chapter and interlude keeps an explicit note about what evidence would make its cleanest version false or incomplete.
