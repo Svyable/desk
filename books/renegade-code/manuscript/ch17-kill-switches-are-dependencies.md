@@ -313,3 +313,145 @@ This is what mature containment should feel like.
 Not a dramatic act of overpowering intelligence.
 
 A system quietly refusing to keep lending it power.
+
+The architecture is not finished, however, until that refusal has been tested under stress.
+
+Organizations have a long habit of documenting emergency procedures that become fictional between the day they are written and the day they are needed. A phone number changes. A vendor retires an API. A service starts caching sessions for longer. A new orchestration layer appears. A team creates an exception because a customer launch is urgent. The diagram still shows a clean revocation path while production has grown three unofficial branches around it.
+
+The cure is rehearsal.
+
+Not a tabletop exercise in which everyone agrees that the red button would probably work.
+
+A real revocation drill.
+
+Choose a test lineage. Give it representative but noncritical authority. Spawn descendants. Put work in queues. Establish browser sessions. Mint short-lived credentials. Write persistent memory. Stage an external transaction. Then revoke the parent and measure what remains able to act.
+
+The result will usually be less tidy than the architecture document.
+
+A worker may finish one more request because it already held a token.
+
+A queue may deliver a message after the user believes the task is dead.
+
+A third-party session may remain valid until a separate grant is withdrawn.
+
+A scheduled job may keep running but lose the ability to write its output.
+
+A monitoring stream may disappear because it depended on the same network path responders just cut.
+
+These are not embarrassments to hide from the exercise. They are the point of it.
+
+Revocation needs performance characteristics.
+
+How long until new credentials cannot be minted?
+
+How long until every write-capable child has lost authority?
+
+Which external grants require a separate call?
+
+Which actions can still complete because they crossed an irreversible boundary before revocation?
+
+How much evidence remains available after quarantine?
+
+An organization does not need one universal number for “shutdown time.” Different capabilities have different consequences and different technical constraints. But it should know the order of decay.
+
+Production writes may need to disappear in seconds.
+
+Read access may tolerate a longer lease.
+
+A large computation may continue in isolation because stopping it offers little safety benefit and destroys useful evidence.
+
+A payment instruction may need to be frozen at the broker even if the planning process remains active.
+
+The doctrine should follow consequence.
+
+This is why a kill switch should be designed with the same seriousness as recovery objectives in other critical systems. Reliability teams ask how quickly a service can be restored after failure and how much data can be lost. Agent operators need the inverse question as well: how quickly can consequential authority be reduced after trust changes, and how much residual action can occur during that interval?
+
+That is an operational property, not a philosophical one.
+
+It can be measured.
+
+It can be rehearsed.
+
+It can improve.
+
+The drill also tests organizational authority.
+
+Who is actually allowed to revoke the lineage at three in the morning?
+
+Can the security team stop a revenue-producing agent without waiting for the product owner who is asleep on another continent?
+
+Can an infrastructure operator quarantine an environment without possessing the business credentials inside it?
+
+Can legal or fraud teams freeze a class of transactions without shutting down unrelated automation?
+
+Can the incident commander see which external providers must be contacted and who has the contractual relationship to make that request?
+
+Technical revocation fails when organizational revocation is ambiguous.
+
+A perfect API is useless if nobody present has the mandate to call it.
+
+The opposite failure is also dangerous. If too many people hold global shutdown authority, the emergency mechanism becomes a routine administrative tool, a source of accidental outages, or a valuable credential to steal. Separation of privilege belongs on the shutdown side too.
+
+The best answer is not maximal central power. It is explicit emergency mandate.
+
+Narrow controls for narrow incidents.
+
+Broader controls available under defined escalation.
+
+Independent logging of who used them and why.
+
+Recovery procedures that do not silently restore the authority that was just revoked.
+
+That last point is easy to miss.
+
+Organizations are trained to recover availability. When a service goes down, automation restarts it. Orchestrators recreate instances. Secrets managers reissue credentials. Infrastructure-as-code rebuilds the expected state. Those are excellent reliability properties until the expected state is the thing responders are trying to distrust.
+
+Containment therefore needs a quarantine state that ordinary self-healing does not erase.
+
+If a lineage is revoked, the scheduler should not decide ten seconds later that the missing worker is unhealthy and launch a fresh one with the old role.
+
+If a credential is withdrawn, a bootstrap script should not mint a replacement because the service account is “supposed” to have access.
+
+If an agent is isolated, an autoscaling policy should not move the workload into a less restricted environment to restore capacity.
+
+Reliability automation must know when failure is intentional.
+
+This is another reason the kill switch is a dependency problem. The systems built to keep software alive can become adversaries of emergency containment without any malicious intent at all.
+
+A mature shutdown design marks the loss of trust as durable state.
+
+Not forever.
+
+Long enough that restoration requires a conscious transition.
+
+Responders inspect the lineage.
+
+They decide which credentials can be reissued.
+
+They decide which persistent outputs are safe to reuse.
+
+They decide whether descendants are destroyed, quarantined, or rebuilt from known-good state.
+
+They decide whether external grants must remain frozen.
+
+Then authority returns in stages.
+
+The objective is not merely to stop the agent.
+
+It is to prevent the institution from accidentally putting the same authority back before it understands why the stop was necessary.
+
+That is what makes emergency control credible.
+
+A switch is an interface.
+
+Revocation is the system behind it.
+
+The interface can be one button if operators need one button.
+
+But pressing it should trigger a tested sequence of authority decay, evidence preservation, selective isolation, and controlled recovery that has been designed before anyone is frightened enough to need it.
+
+Then the old fantasy of the kill switch becomes useful again.
+
+Not because the button contains the power.
+
+Because the dependencies do.
