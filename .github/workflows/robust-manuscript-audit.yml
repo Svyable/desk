@@ -1,0 +1,49 @@
+name: Robust manuscript audit
+
+on:
+  push:
+    branches:
+      - book/robust
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compute manuscript stats
+        run: |
+          python3 - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          word_re = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
+          manuscript = Path("books/robust/manuscript")
+          counts = {}
+          total = 0
+          for path in sorted(manuscript.rglob("*.md")):
+              count = len(word_re.findall(path.read_text(encoding="utf-8")))
+              counts[str(path.relative_to(manuscript))] = count
+              total += count
+
+          result = {
+              "total_words": total,
+              "manuscript_files": len(counts),
+              "meets_65000": total >= 65000,
+              "shortest": sorted(counts.items(), key=lambda item: item[1])[:10],
+              "longest": sorted(counts.items(), key=lambda item: item[1], reverse=True)[:10],
+              "files": counts,
+          }
+          print(json.dumps(result, indent=2, ensure_ascii=False))
+          Path("robust-manuscript-audit.json").write_text(
+              json.dumps(result, indent=2, ensure_ascii=False) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Upload manuscript audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: robust-manuscript-audit
+          path: robust-manuscript-audit.json
