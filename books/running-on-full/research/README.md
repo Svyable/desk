@@ -83,6 +83,42 @@ Make model choice part of infrastructure. A stronger model can be economically w
 
 Falsification note: model routing can fail on distribution shift, uncertainty calibration, or tasks where cheap mistakes are expensive. Do not present published benchmark savings as guaranteed production savings.
 
+### 7. Precision Is a Product Decision
+
+Treat numerical precision as a capacity choice rather than a universally technical preference. Lower-precision weights or activations can reduce memory footprint, memory traffic, and in supported regimes improve throughput. The chapter widens the idea into product precision: compute only as much exactness as the user or downstream system actually needs.
+
+Falsification note: do not imply that fewer bits are always better or lossless. Quantization effects are model-, task-, format-, and hardware-dependent. A lower-precision deployment is only a gain when product-level evaluation shows the quality loss is acceptable and the target hardware actually realizes the expected memory or throughput benefit.
+
+### 8. Keep the Cache Hot
+
+Frame caching as preserving expensive intermediate work. KV caching is essential to practical autoregressive serving; prefix caching can additionally reuse repeated request prefixes. Application caches can reuse higher-level semantic work such as embeddings or deterministic transformations. Stress that cache value depends on reuse probability, avoided cost, memory footprint, placement, and eviction policy.
+
+Falsification note: do not benchmark caching only on synthetic workloads engineered for high hit rates. Prefix reuse can be low in personalized or highly variable traffic. A large cache can reduce active concurrency, and a perfectly even load balancer can destroy locality. Measure avoided work per unit of scarce cache memory, not hit rate alone.
+
+### 9. The Scheduler Is the Factory
+
+Treat cluster and serving schedulers as allocation policy. They decide which work waits, which state remains resident, which priorities are honored, and whether flexible work can fill valleys without harming interactive service. The scheduler's objective should be connected to queue time, deadlines, tail latency, preemption cost, topology, and business priority rather than only device occupancy.
+
+Falsification note: sophisticated scheduling is not automatically superior. Additional policy and state can increase operational complexity and make behavior difficult to predict. In small homogeneous fleets, simple first-come or fixed-pool scheduling can be economically adequate. Preserve the distinction between a real need for guaranteed capacity and wasteful permanent exclusivity.
+
+### 10. Fragmentation
+
+Define fragmentation as capacity that exists in aggregate but not in the shape required by the next workload. Cover KV-cache and allocator fragmentation, rigid hardware partitions, team reservations, model residency, topology, and power as different ways useful capacity can become stranded. Use PagedAttention and MIG as examples of techniques that can reduce one kind of fragmentation while potentially creating another.
+
+Falsification note: do not imply perfect packing is attainable or even desirable. Headroom and contiguous free capacity can have option value. Partitioning and reservations can be correct when isolation or service guarantees matter. The useful question is whether stranded capacity has become large enough that the organization is buying hardware to preserve avoidable holes.
+
+### 11. The Network Is Part of the GPU
+
+Make communication part of the compute path once work spans devices. Introduce collective communication, topology, overlap, host-device transfers, and critical-path reasoning. The central claim is not that networking always dominates but that distributed accelerator performance cannot be understood from accelerator arithmetic in isolation.
+
+Falsification note: avoid treating every multi-GPU workload as network-bound. Communication intensity varies with parallelism strategy, batch size, model architecture, device count, and topology. Measure communication on the critical path, not merely bytes transferred, and distinguish software-generated communication from limits inherent to the physical fabric.
+
+### 12. Pipeline Bubbles
+
+Use pipeline parallelism to show how nominally occupied stages can still lose useful time at startup, shutdown, imbalance, synchronization, and communication boundaries. Then generalize pipeline thinking to data loading, retrieval, prefill/decode handoffs, agents, and other staged AI systems. Emphasize that overlap hides unavoidable waits only when independent work exists.
+
+Falsification note: more microbatches and more complicated schedules can reduce bubbles while increasing communication, memory pressure, kernel inefficiency, or operational complexity. Pipeline parallelism is not automatically good for low-batch or latency-sensitive inference. The cost of the remaining bubble has to justify the complexity required to shrink it.
+
 ## Planned research questions
 
 - Which utilization counters best predict end-to-end useful work for common inference regimes?
