@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 13 of 20 drafted |
+| **Chapters**  | 15 of 20 drafted |
 
 The Hidden War for the Metals That Run the World.
 
@@ -32,8 +32,8 @@ The aim is not to predict which country wins the mineral race. It is to make the
 - [x] [Ch 11 — Boom, Bust, Ghost Town](manuscript/ch11-boom-bust-ghost-town.md)
 - [x] [Ch 12 — The Recycling Illusion and Reality](manuscript/ch12-the-recycling-illusion-and-reality.md)
 - [x] [Ch 13 — Deep Sea and Desperate Measures](manuscript/ch13-deep-sea-and-desperate-measures.md)
-- [ ] [Ch 14 — Friend-Shoring and the New Alliances](manuscript/ch14-friend-shoring-and-the-new-alliances.md)
-- [ ] [Ch 15 — China's Long Game](manuscript/ch15-chinas-long-game.md)
+- [x] [Ch 14 — Friend-Shoring and the New Alliances](manuscript/ch14-friend-shoring-and-the-new-alliances.md)
+- [x] [Ch 15 — China's Long Game](manuscript/ch15-chinas-long-game.md)
 - [ ] [Ch 16 — The Substitution Race](manuscript/ch16-the-substitution-race.md)
 - [ ] [Ch 17 — Water, Waste, and the Hidden Costs](manuscript/ch17-water-waste-and-the-hidden-costs.md)
 - [ ] [Ch 18 — Who Gets Rich, Who Gets Left](manuscript/ch18-who-gets-rich-who-gets-left.md)
