@@ -70,7 +70,7 @@ The state-machine assay will succeed only if its complexity can be compressed in
 
 This is where context of use becomes essential.
 
-A platform does not need to solve neuroscience. It needs to answer a defined question better enough to justify its cost.
+A platform does not need to solve neuroscience. It needs to answer a defined question well enough to justify its cost.
 
 For seizure liability, the context might be whether a candidate compound increases the probability of hyperexcitable network activity under standardized conditions. For developmental neurotoxicity, it might be whether exposure impairs a defined plasticity response during maturation. For a patient-derived epilepsy model, it might be whether one treatment reduces pathological bursting without globally suppressing network function. For disease research, it might be whether a gene correction restores a functional trajectory.
 
@@ -206,10 +206,58 @@ It is also dangerous if used carelessly. A sufficiently flexible dynamic model c
 
 This is the recurring bargain of organic intelligence: richer biology gives the experiment more information and more ways to fool itself.
 
-The point of the state-machine view is not to make neural tissue look computational.
+The next step is to ask whether a state model can travel beyond the experiment that invented it.
 
-It is to force biotechnology to acknowledge that time can be part of the phenotype.
+One laboratory may discover a useful trajectory and build an internal atlas of network behavior: stable baseline, challenged state, pathological escalation, partial recovery, full recovery. That atlas can be valuable even if the labels are local. It becomes infrastructure only when another batch, line, instrument, or site can be mapped into the same functional geometry without heroic recalibration.
+
+This suggests a distinction between a **state atlas** and a **state assay**.
+
+A state atlas is exploratory. It describes recurring regions of behavior in a large dataset and helps scientists form hypotheses. A state assay is prescriptive. It defines in advance which trajectory or transition matters, how it will be measured, and what decision follows.
+
+The first can be rich and messy.
+
+The second has to be narrow enough to validate.
+
+The path from atlas to assay resembles the path from a genomic association to a clinical test. Discovery can use thousands of features and flexible models. Translation demands a smaller rule that survives new samples.
+
+Reference trajectories can help make that reduction.
+
+Instead of one reference value, a platform can maintain expected trajectories for untreated controls, known excitatory compounds, known inhibitory compounds, and defined disease models. A new sample can then be compared with a band of normal responses through time rather than one endpoint. Deviations can be evaluated by magnitude, duration, and direction.
+
+This makes quality control temporal too.
+
+A culture might pass its initial baseline and fail its reference challenge. Another might respond correctly but recover too slowly, signaling that it is outside the validated operating range. A third might show an expected response on the first challenge and drift on the second.
+
+The culture is qualified by how it moves, not only by where it begins.
+
+There is also a statistical complication that ordinary endpoint assays encounter less often: incomplete trajectories.
+
+Some cultures die. Some detach from electrodes. Some are removed because environmental conditions fail. Some become unusable after a strong perturbation. If those runs are simply discarded, the dataset can become biased toward resilient tissue. The most vulnerable biological responses disappear precisely because the experiment ended early.
+
+A stateful assay needs explicit rules for censoring and failure-to-complete.
+
+Was the loss of the sample a technical failure or a biological event? If a compound causes the culture to leave the measurable operating range, that may be a meaningful outcome rather than missing data. If a pump failed, it is not. The platform has to classify the reason before analysis.
+
+Longitudinal clinical research has lived with versions of this problem for decades. Dropout is not always random. Neural wetware inherits the same logic in miniature.
+
+The experimental design therefore benefits from redundancy. Parallel cultures can separate catastrophic technical failures from reproducible biological transitions. Reference channels can expose instrument drift. Predefined rescue criteria can determine whether an experiment continues after an unexpected state change.
+
+The final question is causal.
+
+A state transition can correlate with a treatment without being caused by it. Culture age, media exchange, stimulation history, or hidden batch differences can move at the same time. The richer the trajectory, the easier it becomes to tell a convincing story around a coincidence.
+
+Intervention is the antidote.
+
+Change one controllable variable. Repeat. Reverse it if possible. Test a matched control. Use randomized timing or blinded conditions. See whether the transition follows the perturbation again.
+
+The state model becomes useful when it supports experiments that can distinguish what moved with the system from what moved the system.
+
+This is the point of the metaphor after all.
+
+The goal is not to make neural tissue look computational.
+
+It is to force biotechnology to acknowledge that time can be part of the phenotype, that failure-to-complete can be part of the phenotype, and that the path between measurements can carry information the endpoint erases.
 
 Once time becomes part of the phenotype, a sample cannot be summarized by where it is.
 
-The experiment has to know where it came from and what it is likely to do next.
+The experiment has to know where it came from, why it moved, and what it is likely to do next.
