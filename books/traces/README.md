@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 16 of 24 drafted |
+| **Chapters**  | 20 of 24 drafted |
 
 *Tracking How Machines Learn*
 
@@ -53,13 +53,13 @@ A paleontologist does not need every organism that ever lived in order to infer 
 - [x] [Ch 14 — A Diff Between Minds](manuscript/ch14-a-diff-between-minds.md)
 - [x] [Ch 15 — What Unlearning Cannot Erase](manuscript/ch15-what-unlearning-cannot-erase.md)
 - [x] [Ch 16 — Catastrophic Forgetting](manuscript/ch16-catastrophic-forgetting.md)
+- [x] [Ch 17 — The Trace That Becomes a Privacy Leak](manuscript/ch17-the-trace-that-becomes-a-privacy-leak.md)
+- [x] [Ch 18 — Who Owns the Training History?](manuscript/ch18-who-owns-the-training-history.md)
+- [x] [Ch 19 — Interpretability Becomes Archaeology](manuscript/ch19-interpretability-becomes-archaeology.md)
+- [x] [Ch 20 — The Black Box Gets a Timeline](manuscript/ch20-the-black-box-gets-a-timeline.md)
 
 ## Planned chapters
 
-17. The Trace That Becomes a Privacy Leak
-18. Who Owns the Training History?
-19. Interpretability Becomes Archaeology
-20. The Black Box Gets a Timeline
 21. Models as Scientific Instruments
 22. The Missing Checkpoint Problem
 23. A Chain of Custody for Intelligence
