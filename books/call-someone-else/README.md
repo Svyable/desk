@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Drafting — publication gates not yet cleared |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 18 of 18 drafted |
+| **Chapters** | 20 of 20 first-pass drafted; depth edit in progress |
 | **Method** | Narrative nonfiction + institutional case studies + primary-source research + falsification notes |
 
 Modern culture likes the person who can handle it.
@@ -23,7 +23,7 @@ This book is about that second person, and the architecture that makes reaching 
 
 The argument is not that escalation is always good. Escalation can become theater, buck-passing, intimidation, bureaucratic delay, or a way to turn every small disagreement into a crisis. The useful distinction is between escalation that moves a problem toward the authority, knowledge, capacity, or independence it actually needs, and escalation that merely moves responsibility away from the person currently holding it.
 
-The book follows that distinction through emergency communications, medicine, aviation, software operations, disaster response, courts, manufacturing, spaceflight, diplomacy, specialist referral, customer support, organizational silence, artificial intelligence, handoffs, and ordinary work. Its wager is that one of the most important skills in a complicated civilization is not solving every problem. It is recognizing the moment when continuing alone becomes the dangerous choice.
+The book follows that distinction through emergency communications, medicine, aviation, software operations, disaster response, courts, manufacturing, spaceflight, diplomacy, specialist referral, customer support, organizational silence, artificial intelligence, handoffs, failover, dual control, and ordinary work. Its wager is that one of the most important skills in a complicated civilization is not solving every problem. It is recognizing the moment when continuing alone becomes the dangerous choice.
 
 ## Editorial principles
 
@@ -57,7 +57,24 @@ The book follows that distinction through emergency communications, medicine, av
 - [x] [Chapter 16 — The Handoff Tax](manuscript/ch16-the-handoff-tax.md)
 - [x] [Chapter 17 — The Wrong Person at the Top](manuscript/ch17-the-wrong-person-at-the-top.md)
 - [x] [Chapter 18 — Build the Second Person](manuscript/ch18-build-the-second-person.md)
-- [x] [Back Matter — Notes on Evidence, Design, and Use](manuscript/back-matter.md)
+- [x] [Chapter 19 — The Dead Man’s Switch](manuscript/ch19-the-dead-mans-switch.md)
+- [x] [Chapter 20 — Two Keys](manuscript/ch20-two-keys.md)
+- [ ] Back Matter — Notes on Evidence, Design, and Use
+
+## Publication gates
+
+- [x] Twenty first-pass body chapters exist.
+- [ ] Every body chapter clears the repository’s minimum chapter depth after substantive editing.
+- [ ] Body manuscript clears the repository’s full-book word-count floor.
+- [ ] Research trail and source ledger are complete and mapped chapter by chapter.
+- [ ] Falsification and counterevidence pass is complete.
+- [ ] Rights files are present and consistent.
+- [ ] Back matter is complete.
+- [ ] Root catalog and generated publication surfaces are updated.
+- [ ] Repository validation passes.
+- [ ] Release-shaped pull request is opened and CI is green.
+
+The status changes to **Complete draft** only after the manuscript and publication gates above have been verified, not merely because every chapter has a first pass.
 
 ## Continuity motifs
 
@@ -69,7 +86,9 @@ The book follows that distinction through emergency communications, medicine, av
 - **Scarce experts must be protected from noise.** A route that pages everyone for everything eventually becomes a route nobody trusts.
 - **Culture determines whether formal pathways are real.** A button, hotline, appeals process, or open-door policy is decorative if using it is punished.
 - **Automation changes the boundary, not the need.** As machines take on more first-line decisions, knowing when they should abstain or seek human review becomes more important.
+- **Silence can itself be a signal.** A missing heartbeat, acknowledgment, referral, or response can require escalation before anyone explicitly asks for help.
+- **Some powers should require concurrence.** The second person can be part of the action itself, not merely a rescue after failure.
 
 ## Research discipline
 
-See [research/README.md](research/README.md) and [research/source-ledger.csv](research/source-ledger.csv). Each chapter has a source trail and a falsification note. The book uses official procedural sources and accident investigations where possible, and it distinguishes a compelling institutional story from proof that the same design works everywhere.
+Publication requires `research/README.md` and `research/source-ledger.csv`, with chapter-level source trails and falsification notes. Official procedural sources, accident investigations, standards, and original research are preferred. Compelling institutional stories are not treated as proof that the same design works everywhere.
