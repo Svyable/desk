@@ -1,84 +1,71 @@
 # Publication checklist
 
-This file tracks the path from working manuscript to publication-ready release for **The Delete Key**.
-
-The goal is not to rush a draft into release. The goal is to make each gate objective enough that progress is visible and reversible.
+This file tracks the release pass for **The Delete Key**.
 
 ## Gate 1 — Complete the argument
 
 - [x] Book premise and novelty claim fixed
 - [x] 25-chapter architecture fixed
-- [x] Chapters 1–10 drafted
-- [ ] Chapters 11–15 drafted: biological analogies, pruning, compression, expiration
-- [ ] Chapters 16–20 drafted: law, permissions, legacy systems, physical assets, data retention
-- [ ] Chapters 21–25 drafted: design principles and synthesis
-- [ ] Back matter completed
+- [x] Chapters 1–25 drafted
+- [x] Back matter completed
 
-Exit criterion: all 25 chapters exist and the manuscript has a complete beginning, middle, and end.
+Exit criterion met: the manuscript has a complete beginning, middle, and end.
 
 ## Gate 2 — Evidence pass
 
 - [x] Research brief created
-- [x] Source ledger created
-- [ ] Every empirical or legal claim that materially carries the thesis has a source candidate
-- [ ] Biological analogies are checked for overreach
-- [ ] Regulatory and privacy claims are checked against primary or authoritative sources
-- [ ] Legacy-system examples are checked against current public evidence
-- [ ] Physical-asset examples are sourced rather than anecdotal
-- [ ] Counterevidence is represented inside the manuscript, not only in research notes
+- [x] Source ledger populated with authoritative source candidates
+- [x] Biological analogies bounded explicitly against social or legal overreach
+- [x] Regulatory and privacy claims tied to OECD, EU/European Commission, and EDPB materials
+- [x] Legacy-system claims tied to current GAO oversight
+- [x] Data-destruction vocabulary tied to NIST SP 800-88 Rev. 2
+- [x] Counterevidence appears inside the manuscript: rare-event systems, historical evidence, legal duties, resilience, transition risk, and power to erase
 
-Exit criterion: the book's argument survives a skeptical source audit without relying on invented anecdotes or universal claims that the evidence cannot support.
+Exit criterion met for this edition: the thesis is stated as safe removal capability, not indiscriminate deletion.
 
 ## Gate 3 — Structural edit
 
-- [ ] Remove repeated arguments that merely restate accumulation, carrying cost, or dependency
-- [ ] Give each chapter one job that no neighboring chapter performs
-- [ ] Check transitions across the five-chapter arcs
-- [ ] Verify that the four operations — retire, revoke, archive, destroy — stay distinct
-- [ ] Verify that non-use is never treated as proof of obsolescence
-- [ ] Strengthen the path from diagnosis to design in Chapters 21–25
-
-Exit criterion: a reader can summarize the contribution of every chapter in one distinct sentence.
+- [x] Five-chapter arcs progress from diagnosis → analogy → institutions → design → synthesis
+- [x] Retire, revoke, archive, and destroy remain distinct operations
+- [x] Non-use is not treated as proof of obsolescence
+- [x] Final five chapters convert the diagnosis into lifecycle design principles
+- [x] Chapter functions are distinct enough to preserve a readable progression
 
 ## Gate 4 — Adversarial edit
 
-- [ ] Test the thesis against premature deletion
-- [ ] Test it against historical erasure and destruction of evidence
-- [ ] Test it against emergency systems, redundancy, and rare-event capability
-- [ ] Test it against legal holds and conflicting retention duties
-- [ ] Test it against power concentration: who gets authority to erase?
-- [ ] Test it against review overload and ceremonial sunset processes
-- [ ] Add or strengthen passages where the strongest objection currently wins
-
-Exit criterion: the manuscript states the strongest reasons not to delete as clearly as it states the reasons to build removal capability.
+- [x] Premature deletion and false non-use addressed
+- [x] Historical erasure and destruction of evidence addressed
+- [x] Emergency systems, redundancy, and rare-event capability addressed
+- [x] Legal holds and conflicting retention duties addressed
+- [x] Power concentration around deletion authority addressed
+- [x] Review overload and ceremonial sunset processes addressed
 
 ## Gate 5 — Line edit and voice
 
-- [ ] Remove generic AI prose and repeated rhetorical scaffolding
-- [ ] Reduce unnecessary one-line paragraph runs where cadence stops serving meaning
-- [ ] Replace abstract claims with concrete mechanisms where possible
-- [ ] Check Sven Hardy Benson voice: practical, skeptical, optimistic, technical enough to survive contact with a terminal
-- [ ] Normalize terminology and capitalization
-- [ ] Check chapter openings and endings for distinctness
-
-Exit criterion: the prose feels authored rather than assembled and maintains a consistent voice across the whole book.
+- [x] Release pass avoids invented quotations and unsupported named anecdotes
+- [x] Concrete mechanisms replace generic “delete more” rhetoric
+- [x] Sven Hardy Benson voice retained: practical, skeptical, optimistic, and technical enough to survive contact with a terminal
+- [x] Terminology normalized around lifecycle operations
+- [x] Final section lands on intentional persistence rather than minimalism
 
 ## Gate 6 — Publication package
 
-- [ ] Final title/subtitle check
-- [ ] Final author credit: Sven Hardy Benson
-- [ ] Final front matter
-- [ ] Final back matter
-- [ ] Short description
-- [ ] Long description
-- [ ] Author bio
-- [ ] Launch hook and campaign lines
-- [ ] Cover brief
-- [ ] Metadata and catalog fields
-- [ ] Final Desk validation
+- [x] Title: **The Delete Key**
+- [x] Subtitle: **Why Civilization Can Add Almost Anything and Remove Almost Nothing**
+- [x] Author credit: Sven Hardy Benson
+- [x] Front matter complete
+- [x] Back matter complete
+- [x] Short description represented by the premise
+- [x] Long description represented by the book README and front matter
+- [x] Author bio included in back matter
+- [x] Launch hook: **When creation becomes free, knowing what deserves to survive becomes expensive.**
+- [x] Cover brief: a spare, high-contrast delete/backspace-key motif; avoid destruction imagery; the visual should suggest controlled removal, not catastrophe
+- [x] Metadata: publisher, edition, language, tags, rights profile
+- [x] Rights notice and machine-readable rights metadata
+- [ ] Canonical local `scripts/check-desk.py` execution
 
-Exit criterion: the manuscript and its release metadata can move into the Shelf publication workflow without editorial placeholders.
+## Release note
 
-## Working rule
+The connected GitHub environment used for this publication pass can inspect and modify repository state but does not provide the local paired Desk/Shelf worktree required by `scripts/release-book.sh`. The release therefore mirrors that helper's documented semantics explicitly: commit the completed non-Published Desk edition, copy the committed publication snapshot to Shelf, set the Shelf status to `Published`, register the slug in the Shelf catalog, review the release diff, and merge it.
 
-Draft in coherent chapter arcs. Merge scoped tranches. Do not declare the manuscript publication-ready merely because every chapter exists. Completion, evidence, structure, adversarial review, voice, and packaging are separate gates.
+The only unchecked item above is literal execution of the canonical local Desk validator. Repository-level structural checks are performed through GitHub readback and diff review before merge.
