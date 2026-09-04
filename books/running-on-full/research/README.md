@@ -193,9 +193,9 @@ Falsification note: the closing doctrine must remain conditional. There is no pe
 
 ## Publication gates
 
-The manuscript now has a complete 24-chapter structural pass, but it should remain **Drafting** until the publication gates below are satisfied.
+The manuscript now has a complete 24-chapter structural pass and is in **Revision**. It should not be marked **Complete draft** until the gates below are satisfied.
 
-1. **Depth audit:** verify that the manuscript clears Desk's full-book length expectations and identify chapters that are structurally complete but too compressed.
+1. **Depth audit:** verify the manuscript's exact local word count and identify chapters that are structurally complete but too compressed; deepen substance rather than padding.
 2. **Evidence audit:** check every concrete technical multiplier, hardware number, cloud behavior, and dated product capability against the source ledger; remove or narrow claims that lack stable support.
 3. **Repetition audit:** reduce repeated formulations of the central goodput thesis when a later chapter can advance the argument instead of restating it.
 4. **Continuity audit:** strengthen handoffs between the six-chapter arcs so the book reads as one escalating operating argument rather than a collection of infrastructure essays.
@@ -203,8 +203,8 @@ The manuscript now has a complete 24-chapter structural pass, but it should rema
 6. **Economics pass:** make cost claims distinguish direct accelerator cost, completed-job cost, time-to-result, capacity option value, and product value.
 7. **Terminology pass:** use latency, TTFT, inter-token latency, throughput, utilization, memory bandwidth, capacity, power, and goodput consistently.
 8. **Desk validation:** run `python3 scripts/check-desk.py` in a real checkout before promoting the book to Complete; the GitHub connector used during drafting cannot execute the local repository checker.
-9. **Discovery reconciliation:** merge the book against the latest `main` without overwriting concurrently updated Desk catalog, Reader, sitemap, or feedback surfaces.
-10. **Release review:** only after the above gates pass should the Desk status move from Drafting to Complete draft and enter any Shelf/public-release workflow.
+9. **Discovery reconciliation:** merge the structural/research milestone against the latest `main` without overwriting concurrently updated Desk catalog, Reader, sitemap, or feedback surfaces.
+10. **Release review:** only after the above gates pass should the Desk status move from Revision to Complete draft and enter any Shelf/public-release workflow.
 
 ## Remaining research questions for revision
 
