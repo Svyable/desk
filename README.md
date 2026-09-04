@@ -9,20 +9,22 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 87 book projects · 44 complete drafts · 2 in revision · 41 drafting**
+> **Desk: 87 book projects · 45 complete drafts · 2 in revision · 40 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 42 author projects · 40 released · 2 public drafts/proofs**
-> **Where they live: 42 in both Desk + Shelf · 44 Desk-only · 0 Shelf-only**
-> **Release review queue: 7 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 44 author projects · 42 released · 2 public drafts/proofs**
+> **Where they live: 44 in both Desk + Shelf · 43 Desk-only · 0 Shelf-only**
+> **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
+| [**Abdicating Intelligence**](books/abdicating-intelligence/) | ✅ Complete expanded draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/abdicating-intelligence/) |
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/adjacency/) |
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/agentile/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/americas-got-a-spending-problem/) |
+| [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/artificial-identity/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
@@ -45,6 +47,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-compatibility-dividend/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-delegation-machine/) |
+| [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-delete-key/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 🟡 Public draft | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-exponentiality/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-loneliness-dividend/) |
@@ -62,7 +65,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [APPEAL](books/appeal/), [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -130,7 +133,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✍️ Drafting | 21 of 21 | 64,856 | The working thesis is that standards are compressed coordination: shared rules at carefully chosen seams let strangers make complementary decisions without bilateral negotiation. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,205 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
-| [**The Delete Key**](books/the-delete-key/) | ✍️ Drafting | 10 of 25 + front matter | 15,829 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
+| [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | Front matter, 25 of 25 chapters, back matter | 15,829 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
 | [**The Expiration Machine**](books/the-expiration-machine/) | ✍️ Drafting — structurally complete | 21 of 21 + prologue + epilogue | — | The central thesis is that expiration is one of civilization's hidden control primitives. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 13 (Prologue + Chapters 1–12) | 29,714 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
 | [**The Hundred-Year Handoff**](books/the-hundred-year-handoff/) | ✍️ Drafting | 7 of 21 drafted | — | Some of civilization's hardest projects have a peculiar customer: a person who is not alive yet. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-handoff/) |
