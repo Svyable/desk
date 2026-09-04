@@ -176,39 +176,15 @@ It can also be strategically unnecessary.
 
 That last case is underappreciated.
 
-The IEA estimated in 2026 that rare earths make up a large share of the cost of a permanent magnet but less than one percent of the value of a vehicle. Even a dramatic increase in rare-earth prices therefore adds surprisingly little to the sticker price of the final car. Battery materials have a larger effect, but they too are only one layer in the finished product.
+The IEA's 2026 numbers make the choice less abstract. Rare earths account for roughly 40 percent of the cost of a permanent magnet but less than 1 percent of a vehicle's value. In the agency's illustrative calculation, even tripling rare-earth prices adds only about 0.1 percent to the cost of a car. Critical minerals sit much deeper in battery economics: roughly a quarter of battery-cell cost, but still only about 3 percent of the price of an average electric vehicle. Tripling battery-material prices would raise the price of an EV or storage system by around 5 percent.
 
-If a mineral is cheap in the final system but difficult to substitute, redesign may be the wrong answer.
+That gap between intermediate cost and final-product value changes the strategic answer. If the vulnerable material is cheap in the finished machine and difficult to replace, redesign can be an expensive way to save very little. A manufacturer may be better off paying a premium for a second supplier, carrying more inventory, helping finance another processor, or qualifying another source.
 
-Paying more for a second supplier may be cheaper.
+The point is not independence for its own sake. It is to reduce the expected cost of disruption without spending more on the cure than the chokepoint can plausibly cost.
 
-Holding inventory may be cheaper.
+Sometimes redesign wins. Sometimes redundancy does. Sometimes the rational choice is to tolerate concentration because the alternatives are worse.
 
-Funding a domestic processor may be cheaper.
-
-Signing a long-term offtake agreement may be cheaper.
-
-Qualifying two sources instead of one may be cheaper.
-
-The goal is not to win a philosophical argument about self-sufficiency. It is to reduce the expected cost of disruption.
-
-That turns substitution into a portfolio decision.
-
-For some materials, the best defense is another mine.
-
-For others, another refinery.
-
-For others, recycling.
-
-For others, a different chemistry.
-
-For others, a warehouse with six months of inventory.
-
-And for some, the rational choice is to tolerate concentration because the cost of eliminating it exceeds the risk it creates.
-
-This is harder to sell politically than a slogan about independence. It is also closer to how engineering organizations make serious decisions.
-
-They compare failure modes.
+This is harder to sell politically than a slogan about independence. It is also closer to how engineering organizations make serious decisions: compare the failure modes, then pay for the one you would rather live with.
 
 Suppose a manufacturer uses a rare-earth magnet that costs little relative to the finished machine but comes from a concentrated supply chain. Replacing it requires a motor redesign, new tooling, different controls, more space, and years of qualification. A second magnet source costs thirty percent more.
 
