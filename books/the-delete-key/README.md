@@ -46,11 +46,13 @@
 ## Publication path
 
 - [Publication checklist and editorial gates](PUBLICATION.md)
+- First Shelf edition prepared from frozen Desk source `4bf0dd938bec3464db14c7472b55e3a9996adb35`.
 
 ## Research
 
 - [Research brief, counterevidence, and chapter-to-evidence map](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
+- [Claim-level evidence and risk ledger](research/claim-ledger.csv)
 
 ## Premise
 
@@ -61,3 +63,4 @@ The book is not an argument for indiscriminate deletion. It is an argument for m
 **Launch line:** When creation becomes free, knowing what deserves to survive becomes expensive.
 
 - [Open the working Desk edition](https://svyable.github.io/desk/reader/#/b/the-delete-key/)
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/the-delete-key/)
