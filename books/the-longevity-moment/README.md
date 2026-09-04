@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 22 of 22 drafted |
+| **Chapters** | 22 of 22 drafted + 3 interludes |
 | **Method** | Anticipatory longevity + institutional design + primary/authoritative research + falsification notes |
 
 A life becomes too long for one irreversible plan.
@@ -28,7 +28,9 @@ The argument has a counterweight throughout. Optionality is expensive. Commitmen
 - [x] [Ch 2 — The Forty-Year-Old Problem](manuscript/ch02-forty-year-old-problem.md)
 - [x] [Ch 3 — The Age We Think We Are](manuscript/ch03-age-we-think-we-are.md)
 - [x] [Ch 4 — A Longer Life Has a Price Today](manuscript/ch04-longer-life-has-a-price-today.md)
+- [x] [Interlude — The Stranger Who Gets Your Pension](manuscript/interlude-future-self.md)
 - [x] [Ch 5 — The One-Way Door](manuscript/ch05-one-way-door.md)
+- [x] [Interlude — The Long Contract](manuscript/interlude-long-contract.md)
 - [x] [Ch 6 — Education Has an Expiration Date](manuscript/ch06-education-has-an-expiration-date.md)
 - [x] [Ch 7 — The Career That Needs a Second Beginning](manuscript/ch07-career-needs-a-second-beginning.md)
 - [x] [Ch 8 — Marriage, Again and Again](manuscript/ch08-marriage-again-and-again.md)
@@ -37,6 +39,7 @@ The argument has a counterweight throughout. Optionality is expensive. Commitmen
 - [x] [Ch 11 — Inheritance Arrives Too Late](manuscript/ch11-inheritance-arrives-too-late.md)
 - [x] [Ch 12 — Sixty-Five Is Still a Number](manuscript/ch12-sixty-five-is-still-a-number.md)
 - [x] [Ch 13 — The Employer's Short Memory](manuscript/ch13-employers-short-memory.md)
+- [x] [Interlude — The Succession Bottleneck](manuscript/interlude-succession-bottleneck.md)
 - [x] [Ch 14 — The City with a Longer Day](manuscript/ch14-city-with-a-longer-day.md)
 - [x] [Ch 15 — The Consumer After Senior](manuscript/ch15-consumer-after-senior.md)
 - [x] [Ch 16 — The Optionality Divide](manuscript/ch16-optionality-divide.md)
@@ -54,4 +57,4 @@ The argument has a counterweight throughout. Optionality is expensive. Commitmen
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
 
-The core research rule is that longevity claims must survive both hype and pessimism: no biomedical mechanism is treated as a proven human lifespan intervention; no average is allowed to stand in for every occupation or income group; and each chapter keeps an explicit note about what evidence would make its cleanest version false or incomplete.
+The core research rule is that longevity claims must survive both hype and pessimism: no biomedical mechanism is treated as a proven human lifespan intervention; no average is allowed to stand in for every occupation or income group; and each chapter and interlude keeps an explicit note about what evidence would make its cleanest version false or incomplete.
