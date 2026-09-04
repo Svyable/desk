@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 12 of 20 drafted |
+| **Chapters**  | 20 of 20 drafted |
 
 The Hidden War for the Metals That Run the World.
 
@@ -18,7 +18,7 @@ The aim is not to predict which country wins the mineral race. It is to make the
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The List of Seventeen](manuscript/ch01-the-list-of-seventeen.md)
 - [x] [Ch 2 — Everything Runs on Rock](manuscript/ch02-everything-runs-on-rock.md)
 - [x] [Ch 3 — The Oil Analogy, Examined](manuscript/ch03-the-oil-analogy-examined.md)
@@ -31,15 +31,15 @@ The aim is not to predict which country wins the mineral race. It is to make the
 - [x] [Ch 10 — The Capital Cycle, Underground](manuscript/ch10-the-capital-cycle-underground.md)
 - [x] [Ch 11 — Boom, Bust, Ghost Town](manuscript/ch11-boom-bust-ghost-town.md)
 - [x] [Ch 12 — The Recycling Illusion and Reality](manuscript/ch12-the-recycling-illusion-and-reality.md)
-- [ ] [Ch 13 — Deep Sea and Desperate Measures](manuscript/ch13-deep-sea-and-desperate-measures.md)
-- [ ] [Ch 14 — Friend-Shoring and the New Alliances](manuscript/ch14-friend-shoring-and-the-new-alliances.md)
-- [ ] [Ch 15 — China's Long Game](manuscript/ch15-chinas-long-game.md)
-- [ ] [Ch 16 — The Substitution Race](manuscript/ch16-the-substitution-race.md)
-- [ ] [Ch 17 — Water, Waste, and the Hidden Costs](manuscript/ch17-water-waste-and-the-hidden-costs.md)
-- [ ] [Ch 18 — Who Gets Rich, Who Gets Left](manuscript/ch18-who-gets-rich-who-gets-left.md)
-- [ ] [Ch 19 — The Price of the Future](manuscript/ch19-the-price-of-the-future.md)
-- [ ] [Ch 20 — After the Rush](manuscript/ch20-after-the-rush.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Ch 13 — Deep Sea and Desperate Measures](manuscript/ch13-deep-sea-and-desperate-measures.md)
+- [x] [Ch 14 — Friend-Shoring and the New Alliances](manuscript/ch14-friend-shoring-and-the-new-alliances.md)
+- [x] [Ch 15 — China's Long Game](manuscript/ch15-chinas-long-game.md)
+- [x] [Ch 16 — The Substitution Race](manuscript/ch16-the-substitution-race.md)
+- [x] [Ch 17 — Water, Waste, and the Hidden Costs](manuscript/ch17-water-waste-and-the-hidden-costs.md)
+- [x] [Ch 18 — Who Gets Rich, Who Gets Left](manuscript/ch18-who-gets-rich-who-gets-left.md)
+- [x] [Ch 19 — The Price of the Future](manuscript/ch19-the-price-of-the-future.md)
+- [x] [Ch 20 — After the Rush](manuscript/ch20-after-the-rush.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
