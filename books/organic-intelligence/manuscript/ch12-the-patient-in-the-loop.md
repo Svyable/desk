@@ -156,6 +156,36 @@ If platforms expect to move from research cohorts into patient-specific neural t
 
 The patient is in the loop ethically before they are in it computationally.
 
+There is another practical boundary that personalized-medicine stories often skip: the laboratory can only be clinically useful if its result arrives in the same decision window as the clinician.
+
+A test that predicts the ideal therapy after the patient has already cycled through three medications may still be scientifically valuable and commercially misplaced. Turnaround time is not a logistics detail. It determines which clinical questions can be asked.
+
+That creates three different clocks.
+
+The **biological clock** is how long it takes to create and mature the model. The **clinical clock** is how long the patient and physician can reasonably wait before treatment must begin or change. The **evidence clock** is how long it takes the field to prove that the assay’s prediction is trustworthy enough to act on.
+
+A platform can win the first clock and lose the other two.
+
+This is why pre-banking and cohort infrastructure may matter. For chronic or inherited conditions, cells could be collected and lines created before an acute decision is needed. Rare-disease programs may maintain characterized lines from enrolled patients. Clinical trials can generate patient-derived models alongside treatment, allowing the assay to be validated retrospectively and then prospectively without pretending that each model already guides care.
+
+The operational model may resemble a longitudinal biobank more than an on-demand diagnostic lab.
+
+That introduces fairness questions. If creating and maintaining a patient-specific neural line is expensive, early clinical access could concentrate in well-funded research centers and rare-disease programs with substantial resources. Populations already underrepresented in genomic and stem-cell datasets could be underrepresented again in functional neural models. A classifier trained on a narrow donor base could then look precise while generalizing poorly.
+
+Personalization can reproduce population bias at a more elaborate biological layer.
+
+A serious platform therefore needs diversity not as public-relations language but as assay validation. Donor background can influence differentiation, network phenotype, and drug response. If a proposed clinical cutoff behaves differently across genetic backgrounds, the model has to reveal that before treatment decisions depend on it.
+
+The same is true of sex, age-related biology where preserved, ancestry, disease stage, co-medication, and other sources of variation that may interact with the phenotype under study. Not every variable can be modeled in every assay. The limitation needs to be explicit.
+
+The strongest clinical product may therefore be one that says less.
+
+Instead of “this is your brain in a dish,” it might say: this assay measures a validated network phenotype associated with a defined disorder; in prospective studies, response of patient-derived models to a particular class of interventions predicted a clinically meaningful outcome within a known range of accuracy; the assay is not validated outside that use.
+
+That sentence is less seductive than a digital twin.
+
+It is closer to something a physician can use.
+
 The seventh task is restraint.
 
 The most dangerous personalized-medicine claim is not an obviously false one. It is a claim that is directionally plausible but presented at the wrong level of certainty.
