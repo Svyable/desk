@@ -136,6 +136,28 @@ The right denominator is useful system output per total system cost.
 
 No mature comparison yet exists for general-purpose workloads.
 
+There is a second benchmarking trap: the denominator of *training*.
+
+A biological network can appear data-efficient because it is not beginning from nothing. Its cells arrive with molecular machinery, developmental priors, spontaneous activity, homeostatic regulation, and connectivity shaped by weeks or months of growth. Evolution supplied the rules that make those cells capable of changing at all. Development supplied a large amount of structure before the first laboratory trial begins.
+
+A digital model’s training bill is usually counted explicitly. A wetware system’s biological pretraining is hidden inside cell manufacture and maturation.
+
+This does not erase a genuine advantage if the living network adapts quickly once online. It changes the accounting. A fair comparison has to include the time, material, failed batches, culture infrastructure, and developmental process required to create a usable substrate. Otherwise the benchmark compares a finished biological system with an untrained digital one and calls the difference learning efficiency.
+
+The same issue applies to reproducibility. A machine-learning benchmark is meaningful partly because another team can run the same model, dataset, and evaluation protocol. A wetware benchmark needs additional layers: comparable biological provenance, maturation, electrode access, stimulation calibration, and analysis. If the reported advantage disappears when a second batch is used, it was not yet an architectural advantage.
+
+A useful wetware benchmark therefore needs three scoreboards.
+
+One records **task performance**: accuracy, prediction error, adaptation, retention, or another outcome. One records **biological cost**: culture time, yield, attrition, substrate age, interventions, and usable experiment hours. The third records **system cost**: total energy, equipment, labor, data processing, and failure recovery.
+
+Only the combined scoreboard can support an economic claim.
+
+That standard may appear unfairly demanding compared with early computing experiments. It is the opposite. It protects the field from being judged by a headline it was never ready to support.
+
+A wetware system could lose every general-purpose computing comparison and still become valuable science infrastructure. Conversely, it could win an elegant toy benchmark and remain commercially unusable if the substrate cannot be manufactured, maintained, or reproduced.
+
+The discipline is to know which victory matters.
+
 This uncertainty is not a reason to dismiss the field.
 
 It suggests a better research question: where does biological computation have a unique economic advantage rather than a merely interesting physical one?
