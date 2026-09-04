@@ -6,7 +6,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 1 of 21 drafted |
+| **Chapters** | 4 of 21 drafted |
 
 ## Premise
 
@@ -25,9 +25,9 @@ We usually describe these as problems of durability. That misses the harder part
 ### Part I — The Unmet User
 
 - [x] [Ch 1 — A Message for the Year 12,000](manuscript/ch01-message-for-12000.md)
-- [ ] Ch 2 — The Cathedral Problem
-- [ ] Ch 3 — The Missing Builder
-- [ ] Ch 4 — The Half-Life of Instructions
+- [x] [Ch 2 — The Cathedral Problem](manuscript/ch02-cathedral-problem.md)
+- [x] [Ch 3 — The Missing Builder](manuscript/ch03-missing-builder.md)
+- [x] [Ch 4 — The Half-Life of Instructions](manuscript/ch04-half-life-of-instructions.md)
 
 ### Part II — The Handoff Stack
 
@@ -66,5 +66,8 @@ We usually describe these as problems of durability. That misses the harder part
 - [Book bible](research/book-bible.md)
 - [Research and falsification spine](research/research-spine.md)
 - [Chapter 1 evidence notes](research/ch01-evidence.md)
+- [Chapter 2 evidence notes](research/ch02-evidence.md)
+- [Chapter 3 evidence notes](research/ch03-evidence.md)
+- [Chapter 4 evidence notes](research/ch04-evidence.md)
 - [Source ledger](research/source-ledger.csv)
 - [Cooking queue](research/cooking-queue.md)
