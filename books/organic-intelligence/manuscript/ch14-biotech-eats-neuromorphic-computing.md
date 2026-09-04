@@ -250,6 +250,40 @@ If pharmaceutical companies can integrate neural wetware into existing automated
 
 No outcome requires a general-purpose biological computer.
 
+One architectural choice will matter especially as systems scale: where the loop closes.
+
+A platform can stream raw neural data to a distant cloud, let software decide the next action, and send a command back. That is easy to prototype and expensive in latency and data movement. Or it can close fast loops locally, near the electrodes, while reserving slower analysis for conventional servers.
+
+Neuromorphic hardware is naturally attractive in the second architecture.
+
+A local controller can detect sparse events, enforce stimulation limits, and react on the timescale the experiment requires without transmitting every sample off-device. The cloud can still handle model training, cohort analysis, scheduling, and long-term storage.
+
+The system acquires layers of time.
+
+Microsecond and millisecond control close near the tissue.
+
+Seconds and minutes can be handled by experiment software.
+
+Hours and days belong to adaptive design, manufacturing, and scientific interpretation.
+
+Trying to run every layer at one timescale wastes resources and can make the system fragile.
+
+This temporal hierarchy may become more important than whether the local chip is marketed as neuromorphic. The principle is to move computation to the place where delay, bandwidth, and reliability justify it.
+
+The same split can improve safety. A remote user should not be able to bypass hard local limits merely because a network connection is fast. Device-level controllers can enforce maximum stimulation, environmental bounds, and emergency shutdown independently of higher software.
+
+The living substrate gives edge computing a literal edge: there are interventions that should be impossible to execute unless the hardware next to the cells judges them safe.
+
+That creates a clean division between *policy* and *actuation*.
+
+The cloud can decide what it wants the experiment to do.
+
+The local system decides whether and how that request can be performed on this biological substrate now.
+
+This is familiar in robotics and medical devices. Organic intelligence imports it into wetware.
+
+The result is another reason the category will be hybrid even if biological computation becomes much more capable. The best system is not one in which neurons do every operation. It is one in which each layer carries the kind of uncertainty it handles best.
+
 This is the recurring theme of the book because it is the easiest thing to forget.
 
 The most economically important use of living neurons may be to improve biotechnology, while the most technologically important consequence may be that biotechnology forces several forms of computing to co-design around a living substrate.
