@@ -36,22 +36,20 @@
 
 ## Gate 3 — Developmental edit
 
-Before freezing a publication candidate, perform one end-to-end structural read with these explicit tests:
+- [x] Chapter 12 no longer behaves like the book's final climax; its ending now opens the four questions developed by Chapters 13–16.
+- [x] Chapter 13 retains a distinct job: capability density, thermal obligation, thermal clocks, and thermal strategy rather than the broader urban heat-flow material in Chapters 8 and 10.
+- [x] Chapter 14 earns its place through continuity, tacit operational knowledge, institutional behavior, and the conversion of *can* into *keeps*, rather than repeating Chapter 10's sensing/observability argument.
+- [x] Chapter 15 now opens by naming planetary control as a temptation rather than calling Earth a literal controlled environment; the cleanroom comparison remains an explicitly dangerous analogy used to teach systems humility.
+- [x] Chapter 16 materially constrains the thesis by making robustness a real alternative to tighter control at the margin.
+- [x] The epilogue now resolves heat debt, maintenance/continuity, planetary boundaries, and robustness while preserving the original closing image.
+- [x] Repeated motifs are functioning as deliberate refrains around dependency, boundaries, heat, maintenance, and physicality rather than as structural duplication.
+- [x] The late-book departures from the “begin with a room” principle are deliberate: Chapters 12, 15, and 16 operate as synthesis/counter-thesis chapters rather than new sector case studies.
 
-- [ ] Does Chapter 12 still function as a climax now that Chapters 13–16 follow it, or should its ending become a hinge rather than a finale?
-- [ ] Does Chapter 13 repeat thermal material already covered in Chapters 4, 8, 10, or 12?
-- [ ] Does Chapter 14 earn its place through the manufactured-weather thesis rather than becoming a general essay about maintenance?
-- [ ] Does Chapter 15 remain disciplined and non-grandiose when moving from rooms to planetary systems?
-- [ ] Does Chapter 16 sharpen the thesis through a genuine counterargument rather than merely restating resilience?
-- [ ] Does the epilogue now resolve the full 16-chapter arc rather than the earlier 12-chapter arc?
-- [ ] Are repeated motifs intentional refrains rather than accidental duplication?
-- [ ] Is every chapter opening concrete enough to satisfy the book's own “begin with a room” editorial principle, or is a deliberate exception justified?
-
-**Exit criterion:** no unresolved structural issue that changes chapter order, thesis, or conclusion.
+**Result:** pass. No unresolved developmental issue requires chapter reorder, deletion, or thesis change.
 
 ## Gate 4 — Line and fact edit
 
-Run a publication copyedit against the frozen candidate with these rules:
+Run a publication copyedit against the post-developmental manuscript with these rules:
 
 - [ ] Normalize capitalization, punctuation, quotation style, em dashes, and heading conventions.
 - [ ] Remove accidental repetition and sentence-level throat clearing while preserving Sven Hardy Benson's compressed cadence.
@@ -65,7 +63,7 @@ Run a publication copyedit against the frozen candidate with these rules:
 
 ## Gate 5 — Publication candidate freeze
 
-After Gates 3 and 4 pass:
+After Gate 4 passes:
 
 - [ ] Mark Desk status `Complete expanded draft` or repository-equivalent publication-ready state.
 - [ ] Record the exact candidate commit SHA in this file and the release review.
@@ -101,7 +99,7 @@ The final reviewer must be able to answer yes to all of the following:
 
 - [ ] Is the 16-chapter manuscript the intended edition?
 - [ ] Did every new chapter pass evidence review?
-- [ ] Did the epilogue receive a post-expansion structural check?
+- [x] Did the epilogue receive a post-expansion structural check?
 - [ ] Are rights and public-reading permissions explicit?
 - [ ] Are predecessor/novelty boundaries explicit?
 - [ ] Are generated catalog and discovery surfaces current?
@@ -115,4 +113,4 @@ Only then change the disposition to **release-cleared**.
 
 **Not yet release-cleared.**
 
-The manuscript is complete at the structural-file level and the expansion evidence gate is now closed. The next work is deliberately editorial: developmental read of the 16-chapter arc, then line/fact edit, then freeze and mechanical validation. No further chapter expansion should be folded into this release candidate unless it is important enough to restart the structural gate.
+Structural completeness, expansion evidence, and developmental edit are now passed. The next gate is deliberately narrow: publication line/fact edit. After that, freeze exactly one candidate SHA and move into mechanical validation. No further chapter expansion should enter this edition unless it is important enough to reopen Gate 3.

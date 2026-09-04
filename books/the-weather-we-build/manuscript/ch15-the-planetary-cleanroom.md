@@ -1,10 +1,10 @@
 # Chapter 15 — The Planetary Cleanroom
 
-There is one controlled environment with no wall around it.
+There is one environment that tempts the controlled-environment mind to overreach.
 
 Earth.
 
-The phrase sounds wrong because Earth is the uncontrolled environment from which every room in this book retreats.
+Every room in this book draws a boundary against some part of the world outside it.
 
 Outside the cleanroom is Earth.
 
@@ -12,7 +12,11 @@ Outside the freezer is Earth.
 
 Outside the spacecraft is, for a while, not Earth at all.
 
-But look at the planet from the perspective of life and a different picture appears.
+The temptation is to reverse the picture.
+
+If we can specify the air inside a room, stabilize a chamber, cool a rack, dry a factory, or keep a spacecraft habitable, perhaps the planet itself begins to look like one more environment waiting for competent control.
+
+It is not.
 
 The atmosphere has composition.
 
@@ -34,11 +38,7 @@ The result is not a setpoint.
 
 It is a dynamic range inside which human civilization developed.
 
-This creates a temptation.
-
-If we can control a room, perhaps we can control the planet.
-
-The analogy is dangerous.
+That distinction matters.
 
 A room has walls.
 
@@ -48,7 +48,7 @@ A facility can specify a target.
 
 A technician can replace a valve.
 
-A control system can compare one sensor reading with one setpoint and actuate a machine.
+A control system can compare a sensor reading with a setpoint and actuate a machine.
 
 Earth has no service corridor.
 
@@ -68,7 +68,7 @@ That is exactly why the comparison is useful.
 
 Controlled environments teach humility about control.
 
-Anyone who has operated a real facility knows that even a bounded system surprises you. Sensors drift. Loads change. occupants behave unpredictably. equipment interacts. weather exceeds design assumptions. maintenance introduces disturbances. a fix in one subsystem creates a problem in another.
+Anyone who has operated a real facility knows that even a bounded system surprises you. Sensors drift. Loads change. Occupants behave unpredictably. Equipment interacts. Weather exceeds design assumptions. Maintenance introduces disturbances. A fix in one subsystem creates a problem in another.
 
 And that is inside a box we built.
 
@@ -78,7 +78,7 @@ The engineering lesson is not “do nothing.”
 
 It is “respect coupling.”
 
-This matters as climate intervention moves from emissions reduction and adaptation toward discussions of carbon removal, solar-radiation modification, ecosystem interventions, weather modification, and other deliberate attempts to influence large environmental systems.
+This matters as climate intervention extends beyond emissions reduction and adaptation into discussions of carbon removal, sunlight-reflection strategies, ecosystem interventions, weather modification, and other deliberate attempts to influence environmental systems at large scales.
 
 These proposals differ radically in mechanism, scale, reversibility, governance, risk, and maturity. They should not be collapsed into one category simply because all touch the environment.
 
@@ -118,7 +118,7 @@ It multiplies it.
 
 The same lesson applies to cities.
 
-Urban climate is already partly manufactured, though rarely by one intentional system. Buildings reject heat. pavement absorbs sunlight. trees shade and transpire. vehicles release heat. roofs reflect or absorb radiation. street geometry changes wind. air conditioning changes indoor temperature while moving heat outdoors. water surfaces and vegetation change local energy balances.
+Urban climate is already partly manufactured, though rarely by one intentional system. Buildings reject heat. Pavement absorbs sunlight. Trees shade and transpire. Vehicles release heat. Roofs reflect or absorb radiation. Street geometry changes wind. Air conditioning changes indoor temperature while moving heat outdoors. Water surfaces and vegetation change local energy balances.
 
 The city has weather partly because the city is an environmental machine assembled without a single designer.
 
@@ -160,11 +160,11 @@ Spaceflight teaches the same lesson from the other direction.
 
 Inside a spacecraft, every life-support flow becomes visible because the surrounding environment provides almost nothing a human body needs. Air, water, temperature, waste, carbon dioxide, pressure, and power are explicit systems.
 
-Earth is the giant system that makes those services feel free.
+Earth is the larger system that makes many of those services feel free.
 
-The atmosphere is our first life-support system.
+The atmosphere is our first life-support environment.
 
-The ocean is part of the thermal system.
+The ocean is part of the planetary heat system.
 
 The biosphere participates in chemical cycles.
 
