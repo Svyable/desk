@@ -145,3 +145,49 @@ The brain did not grow itself.
 A small piece of organized neural tissue grew under conditions humans designed, following developmental rules humans only partly understand.
 
 That difference is exactly where the opportunity lives.
+
+But “more complete” cannot become the industry’s default direction.
+
+Every missing component creates an understandable urge to add one. Lacking immune cells? Introduce microglia-like populations. Lacking vascular support? Develop vascularized or perfused systems. Lacking communication between regions? Fuse organoids into assembloids. Lacking sensory input? Connect electrodes or optical stimulation. Lacking maturation? Culture longer or transplant into an animal host.
+
+Each addition can make the model more realistic for some questions.
+
+Each also creates new variables.
+
+A microglial population changes inflammatory signaling and synaptic development but introduces another differentiation process to standardize. A vascular component can improve nutrient delivery while adding endothelial behavior, flow conditions, and interface effects. An assembloid can model migration or long-range interaction while making batch matching and geometry harder. Transplantation can improve maturation but gives up much of the controlled in-vitro environment that made the organoid attractive.
+
+Complexity has a carrying cost.
+
+This is why the future is likely to contain a portfolio of neural models rather than one ascending ladder toward an ever more brain-like object.
+
+A two-dimensional neuronal culture may be the right model for a fast electrophysiological safety screen.
+
+A region-specific organoid may be the right model for a developmental disorder.
+
+An assembloid may be necessary when the disease phenotype depends on interaction between two neural regions.
+
+A vascularized construct may be justified when oxygenation or barrier behavior is central.
+
+A transplanted model may be needed when long-term maturation cannot be achieved otherwise.
+
+The sophisticated choice is sometimes to stop adding biology.
+
+This point matters for moral status too. Ethical debate often imagines capability rising monotonically with complexity. But adding a cell type or region does not automatically create cognition. A larger organoid is not necessarily more integrated. Longer culture is not equivalent to richer function. A model designed for one developmental interaction may become more biologically complex while remaining irrelevant to any plausible consciousness concern.
+
+Capability has to be measured, not inferred from size or vocabulary.
+
+The same is true scientifically.
+
+A certificate of biological state cannot be a checklist of impressive components. It needs to describe the properties that matter to the intended use. For a drug screen, that might include cell composition, viability, baseline activity, response to reference compounds, and reproducibility across replicate organoids. For a developmental model, morphology and lineage markers may matter more. For a closed-loop study, stimulus-response stability and adaptive range become important.
+
+A mature organoid industry will therefore sell *defined incompleteness*.
+
+That sounds less ambitious than building a brain.
+
+It is the more useful product.
+
+A model earns trust when researchers know what it contains, what it leaves out, and which decisions remain valid despite those omissions.
+
+The organoid never needed to become a complete brain.
+
+It needed to become complete enough for the question.
