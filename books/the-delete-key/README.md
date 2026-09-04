@@ -5,8 +5,13 @@
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Drafting |
-| **Chapters** | 10 of 25 drafted + front matter |
+| **Status** | Complete draft |
+| **Chapters** | Front matter, 25 of 25 chapters, back matter |
+| **Format** | Book |
+| **Publisher** | Sven Hardy Benson’s Shelf |
+| **Edition** | First Shelf edition, 2026 |
+| **Language** | English |
+| **Tags** | institutions, technology, artificial intelligence, governance, software, memory |
 
 ## Contents
 
@@ -21,22 +26,22 @@
 - [x] [Ch 8 — Nobody Owns the Off Switch](manuscript/ch08-nobody-owns-the-off-switch.md)
 - [x] [Ch 9 — Records Are Not the Same as Memory](manuscript/ch09-records-are-not-memory.md)
 - [x] [Ch 10 — The Irreversibility Problem](manuscript/ch10-the-irreversibility-problem.md)
-- [ ] [Ch 11 — The Biology of Forgetting](manuscript/ch11-the-biology-of-forgetting.md)
-- [ ] [Ch 12 — Pruning Is a Feature](manuscript/ch12-pruning-is-a-feature.md)
-- [ ] [Ch 13 — The Cell That Knows When to Stop](manuscript/ch13-the-cell-that-knows-when-to-stop.md)
-- [ ] [Ch 14 — Compression, Not Amnesia](manuscript/ch14-compression-not-amnesia.md)
-- [ ] [Ch 15 — The Value of an Expiration Date](manuscript/ch15-the-value-of-an-expiration-date.md)
-- [ ] [Ch 16 — Laws That Outlive Their Reasons](manuscript/ch16-laws-that-outlive-their-reasons.md)
-- [ ] [Ch 17 — Permissions That Survive Their Owners](manuscript/ch17-permissions-that-survive-their-owners.md)
-- [ ] [Ch 18 — The Legacy Machine](manuscript/ch18-the-legacy-machine.md)
-- [ ] [Ch 19 — The Abandoned Asset](manuscript/ch19-the-abandoned-asset.md)
-- [ ] [Ch 20 — The Database That Remembers Too Much](manuscript/ch20-the-database-that-remembers-too-much.md)
-- [ ] [Ch 21 — Sunset by Default](manuscript/ch21-sunset-by-default.md)
-- [ ] [Ch 22 — Deletion With Provenance](manuscript/ch22-deletion-with-provenance.md)
-- [ ] [Ch 23 — The Recycle Bin for Institutions](manuscript/ch23-the-recycle-bin-for-institutions.md)
-- [ ] [Ch 24 — When Creation Becomes Free](manuscript/ch24-when-creation-becomes-free.md)
-- [ ] [Ch 25 — A Civilization That Can Let Go](manuscript/ch25-a-civilization-that-can-let-go.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Ch 11 — The Biology of Forgetting](manuscript/ch11-the-biology-of-forgetting.md)
+- [x] [Ch 12 — Pruning Is a Feature](manuscript/ch12-pruning-is-a-feature.md)
+- [x] [Ch 13 — The Cell That Knows When to Stop](manuscript/ch13-the-cell-that-knows-when-to-stop.md)
+- [x] [Ch 14 — Compression, Not Amnesia](manuscript/ch14-compression-not-amnesia.md)
+- [x] [Ch 15 — The Value of an Expiration Date](manuscript/ch15-the-value-of-an-expiration-date.md)
+- [x] [Ch 16 — Laws That Outlive Their Reasons](manuscript/ch16-laws-that-outlive-their-reasons.md)
+- [x] [Ch 17 — Permissions That Survive Their Owners](manuscript/ch17-permissions-that-survive-their-owners.md)
+- [x] [Ch 18 — The Legacy Machine](manuscript/ch18-the-legacy-machine.md)
+- [x] [Ch 19 — The Abandoned Asset](manuscript/ch19-the-abandoned-asset.md)
+- [x] [Ch 20 — The Database That Remembers Too Much](manuscript/ch20-the-database-that-remembers-too-much.md)
+- [x] [Ch 21 — Sunset by Default](manuscript/ch21-sunset-by-default.md)
+- [x] [Ch 22 — Deletion With Provenance](manuscript/ch22-deletion-with-provenance.md)
+- [x] [Ch 23 — The Recycle Bin for Institutions](manuscript/ch23-the-recycle-bin-for-institutions.md)
+- [x] [Ch 24 — When Creation Becomes Free](manuscript/ch24-when-creation-becomes-free.md)
+- [x] [Ch 25 — A Civilization That Can Let Go](manuscript/ch25-a-civilization-that-can-let-go.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Publication path
 
@@ -53,4 +58,6 @@ Modern civilization is structurally better at adding than removing. Rules, code,
 
 The book is not an argument for indiscriminate deletion. It is an argument for making retirement, revocation, archiving, and safe destruction first-class capabilities.
 
-- [Open the working Desk draft](https://svyable.github.io/desk/reader/#/b/the-delete-key/)
+**Launch line:** When creation becomes free, knowing what deserves to survive becomes expensive.
+
+- [Open the working Desk edition](https://svyable.github.io/desk/reader/#/b/the-delete-key/)

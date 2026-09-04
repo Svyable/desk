@@ -8,7 +8,7 @@
 
 ## Author
 
-Sven Hardy Benson / Sven Hardy Benson
+Sven Hardy Benson
 
 ## Category
 

@@ -3,6 +3,7 @@ import {
   bootstrapRecoveryCopy,
   fetchBootstrapResource,
   installDeskRuntimeBridge,
+  rewriteSharedModuleSpecifiers,
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
@@ -10,7 +11,6 @@ const appUrl = `${upstream}app.js?v=desk-20260901-3`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const quickLookUrl = './library-quick-look.js';
-const settingsHierarchyUrl = './settings-hierarchy.js';
 
 // Local integrity audit markers mirror the compatibility contract enforced in
 // desk-runtime-bridge.js. scripts/check-desk.py checks these without network access.
@@ -19,6 +19,17 @@ const DESK_CATALOG_AUDIT = Object.freeze([
   "window.__IMPRINT?.role === 'desk'",
   'Expected one shared Reader catalog gate',
 ]);
+
+function sharedReaderOwnsDeskCatalogVisibility(source) {
+  return /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)/.test(String(source || ''));
+}
+
+function adaptReaderSource(source) {
+  if (sharedReaderOwnsDeskCatalogVisibility(source)) {
+    return rewriteSharedModuleSpecifiers(source, upstream);
+  }
+  return adaptSharedReaderAppSource(source, upstream);
+}
 
 function installDeskChromePolicy() {
   // Desk already exposes Bookmark, Search, Contents, and Settings in the primary
@@ -141,7 +152,8 @@ try {
   }
 
   const response = await fetchBootstrapResource(appUrl);
-  const adapted = adaptSharedReaderAppSource(await response.text(), upstream);
+  const source = await response.text();
+  const adapted = adaptReaderSource(source);
   if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
   const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type: 'text/javascript' }));
   try {
@@ -150,15 +162,10 @@ try {
     URL.revokeObjectURL(moduleUrl);
   }
 
-  for (const [url, label] of [
-    [quickLookUrl, 'Library quick look'],
-    [settingsHierarchyUrl, 'Settings hierarchy'],
-  ]) {
-    try {
-      await import(url);
-    } catch (error) {
-      console.warn(`${label} could not be loaded`, error);
-    }
+  try {
+    await import(quickLookUrl);
+  } catch (error) {
+    console.warn('Library quick look could not be loaded', error);
   }
 } catch (error) {
   showRecovery(error);
