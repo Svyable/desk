@@ -57,4 +57,8 @@ The question is not whether everything should expire. It is **how long trust sho
 
 The narrative structure is complete. The book remains `Drafting` until the manuscript receives a mechanical word-count audit, short-chapter expansion where necessary, and the full Desk discovery/catalog refresh. Those are publication-quality gates rather than missing conceptual sections.
 
-This Desk merge is therefore a working-edition milestone, not a claim that the Shelf edition has already been released. The added final chapter extends the core framework into agentic software: durable human principals can delegate temporary machine authority that requires independent renewal and dies automatically when continued intent is no longer demonstrated.
+This Desk merge is a working-edition milestone, not a claim that the Shelf edition has already been released. The added final chapter extends the core framework into agentic software: durable human principals can delegate temporary machine authority that requires independent renewal and dies automatically when continued intent is no longer demonstrated.
+
+## Next publication transaction
+
+Before a first Shelf snapshot, run the repository catalog/integrity tooling, resolve any manuscript-length findings, refresh discovery surfaces, and recheck time-sensitive regulatory/technical sources. Desk remains the canonical revision surface until that transaction is complete.
