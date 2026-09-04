@@ -449,3 +449,57 @@ It can be trusted.
 It can even be right almost all the time.
 
 The institution should still retain one place where being right is not decided by the agent itself.
+
+Independence has a cost, and the cost is why organizations are tempted to fake it. Separate evidence stores, administrative accounts, retention systems, and monitor deployments create operational work. Somebody has to maintain them, protect access, test failure modes, and pay for storage. When budgets tighten, duplicated infrastructure looks inefficient.
+
+The duplication is partly the point.
+
+A backup stored under the same credentials and failure domain as the primary copy is not much of a backup. An auditor whose administrative path is identical to the actor's is not much of an auditor. Some redundancy exists because correlated convenience is a risk.
+
+The important question is not whether every component must be separate. That would become unmanageable. It is which facts the institution cannot afford to lose or have rewritten by the same authority it is investigating.
+
+For a coding agent, protected version history and independent test results may be enough for most work. For a payments agent, settlement records and authorization lineage may matter more. For a cloud administrator, identity issuance, policy change, network activity, and resource creation may need stronger independent retention.
+
+Audit architecture should follow consequence just as authorization does.
+
+The auditor also needs a way to prove its own continuity. If an alert appears, responders should know which monitor version produced it, which policy was active, which evidence was available, and whether the monitor had been degraded or partially unavailable. Otherwise a future investigation can mistake a monitoring change for a behavioral change.
+
+This is model governance in miniature. A monitor is software. It will be updated, tuned, replaced, and occasionally wrong. Its own outputs need provenance.
+
+A useful rule is that no high-consequence conclusion should depend on a source whose state cannot be reconstructed. If a monitoring model influenced revocation, preserve the model or version identifier, prompt or policy context where appropriate, input evidence references, and resulting action. The system does not need to retain every internal detail forever. It needs enough to explain why power changed hands.
+
+This becomes especially important when monitoring is adaptive. A system may tighten thresholds after one anomaly, route a task to deeper review, or alter sampling based on prior behavior. The audit process now has state. That state should not become a secret second objective the acting system can accidentally optimize against without anyone understanding how the interaction evolved.
+
+Human audit teams need similar independence from organizational pressure. An agent can be technically well monitored while management quietly rewards the people who dismiss alerts and punishes the people who slow launches. The formal keys remain separate; the practical authority does not.
+
+An effective control function needs permission to make an inconvenient finding stick long enough for evidence to be considered.
+
+This is not unique to AI. Financial auditors, safety engineers, security teams, and quality organizations all struggle when their mandate collides with revenue or schedule. Agent deployment raises the stakes because the system can scale authority much faster than a human process can debate it.
+
+Governance therefore includes escalation routes for the auditor too. Who can override a containment decision? Under what evidence? Does the override expire? Is it visible later? Can the same executive who owns the product silently suppress the finding, or does high-consequence override require another accountable principal?
+
+This is separation of duties around risk acceptance.
+
+There is also a privacy boundary. Independent evidence can become an excuse to collect everything. A system that records every prompt, document, message, tool result, human conversation, and internal thought indefinitely may create a surveillance and data-retention problem larger than the safety benefit.
+
+The answer is not to abandon evidence independence. It is to record authority-relevant facts proportionately.
+
+Which principal acted. Which capability was used. Which consequential object changed. Which destination received data. Which policy authorized the step. Which durable artifact was created. These structured events can answer many containment questions without preserving every private detail of the task.
+
+When deeper content retention is necessary for a high-risk domain, access to the evidence itself can be restricted and audited. The auditor's keys should not become universal curiosity.
+
+That constraint improves system design because it forces teams to distinguish observation from hoarding.
+
+The same distinction matters for customers. A trustworthy agent product should be able to explain what evidence exists about consequential actions and how long it is retained. Users deserve to know whether delegation produces a durable audit record, who can access it, and whether revoking an agent also erases the evidence needed to resolve a dispute.
+
+This is where audit becomes part of the product contract.
+
+A customer may accept more autonomy if the system can later prove what authority was exercised. An enterprise may allow agents into more sensitive workflows if evidence survives independently. An insurer may price a system differently when material transactions are attributable and revocation is verifiable.
+
+The auditor is not merely an internal critic.
+
+It is part of the infrastructure that makes delegation credible to people who were not in the room when the task ran.
+
+That is why its keys matter.
+
+The institution needs one chain of evidence whose legitimacy does not depend on the sentence: trust us, the agent said everything was fine.
