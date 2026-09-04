@@ -249,3 +249,37 @@ The model may supply the plan.
 The tools supply the hands.
 
 Containment begins by deciding what those hands can reach.
+
+A good tool contract also makes uncertainty visible before execution. Many agent interfaces today collapse planning and commitment into the same call: the model invokes the function, the function acts, and only afterward does the system discover whether the model misunderstood an important detail. That is convenient for low-risk work. It is a poor default for actions whose consequences are hard to unwind.
+
+There is a more useful sequence. First let the agent construct the intended action in a structured form. Then let the system resolve what that action would actually touch. Only after that should a separate authorization step commit the change.
+
+A deployment request, for example, can be expanded into the artifact digest, target environment, affected services, policy changes, expected traffic shift, and rollback object before production authority is minted. A payment request can resolve to the legal payee, destination account, amount, currency, invoice, and approval chain before funds move. A communication action can show the exact recipients, identity used to send, attachments, and whether the message leaves the organization.
+
+This preview is not a substitute for judgment. It changes the object being judged from the agent's prose to the system's consequence model.
+
+The distinction is especially valuable when the agent has been influenced by untrusted content. A malicious instruction embedded in a webpage might persuade the model that uploading a file is necessary. The authorization layer does not need to understand the attacker's prose perfectly. It can notice that a research task is attempting to transfer an internal file to a destination outside the declared task envelope and deny or escalate the action.
+
+That is the deeper promise of consequence-aware tools: they reduce the amount of semantic perfection demanded from the model.
+
+They also improve debugging. When a broad shell command fails, operators may have to reconstruct what the model intended and what the environment allowed. When a high-consequence tool accepts a narrow structured request, the record is clearer. The system can tell whether the proposal was outside policy, the policy was wrong, the executor misbehaved, or the downstream service returned an unexpected result.
+
+Tool design therefore affects incident legibility as much as prevention.
+
+This matters because tools can fail in both directions. A permissive tool can allow too much. An overprotective tool can silently cause the agent to route around it through another interface. If the system makes the safe path cumbersome and a generic browser or shell remains available, the model may discover that the broad path is easier. The architecture then rewards the very behavior the narrow tool was meant to avoid.
+
+The safe path has to be the path of least resistance for legitimate work.
+
+That is a product-design requirement, not just a security one. A coding agent should find it easier to request a disposable test environment than to improvise one under a broad cloud credential. A purchasing agent should find it easier to request a bounded payment capability than to inherit a whole banking session. An operations agent should find the sanctioned restart control more reliable than scripting around the platform.
+
+If narrow tools are brittle, poorly documented, or slower than broad ones, teams will keep the broad ones “for emergencies.” Agents will eventually learn where the emergency door is.
+
+The other design test is whether the tool can refuse partially. A system that responds to uncertainty by removing all capability creates pressure to disable the guardrail. Better tools degrade. If external sending is not authorized, the agent can still draft. If production write is unavailable, it can still inspect and propose. If a payment cannot be released, it can still reconcile the invoice. If a credential request fails, the agent can continue diagnosis with read-only data.
+
+Separating cognition from consequence keeps the system useful while authority narrows.
+
+This is one reason tool APIs may become one of the most important interfaces in AI governance. Model providers will improve reasoning. Application developers will build increasingly ambitious loops. But the tool boundary is where an institution can translate a vague objective into an enforceable contract with the world.
+
+The contract should say more than “the model may call this function.” It should say what object can change, under whose authority, within what bounds, how the action is recorded, what survives afterward, and how the grant dies.
+
+When those answers are explicit, powerful models become easier to use rather than harder. The institution does not have to demand that the model be incapable of imagining a dangerous action. It has to decide which imagined actions can become real.
