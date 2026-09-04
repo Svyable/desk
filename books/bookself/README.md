@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete first draft |
+| **Status** | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 20 of 20 drafted |
+| **Chapters** | 24 of 24 drafted |
 
 *The Story of Getting Started*
 
@@ -16,7 +16,7 @@ The book names the accumulation of that evidence a **bookself**: the shelf of se
 
 The central claim is simple enough to test and broad enough to matter: **beginnings manufacture identity evidence.** The practical consequence is that getting started is less about feeling ready than about designing a first trace small and real enough to survive contact with the world. The moral consequence is larger. A life can contain more than one credible self because evidence can be made again.
 
-This is not a celebration of starting everything. The manuscript gives equal weight to continuation, interruption, abandonment, restarting, and quitting well. A healthy bookself is not a museum of unfinished ambition. It is a record of experiments that taught their author what deserved another page.
+This is not a celebration of starting everything. The manuscript gives equal weight to continuation, interruption, abandonment, restarting, quitting well, beginning after success or loss, collective beginnings, and institutions that need to renew themselves. A healthy bookself is not a museum of unfinished ambition. It is a record of experiments that taught their author what deserved another page.
 
 ## Contents
 
@@ -45,11 +45,17 @@ This is not a celebration of starting everything. The manuscript gives equal wei
 - [x] [Ch 15 — Restarts](manuscript/ch15-restarts.md)
 - [x] [Ch 16 — Quitting Well](manuscript/ch16-quitting-well.md)
 
-### Part V — A Life That Keeps Beginning
+### Part V — Revision
 - [x] [Ch 17 — Starting After Success](manuscript/ch17-starting-after-success.md)
 - [x] [Ch 18 — Starting After Loss](manuscript/ch18-starting-after-loss.md)
-- [x] [Ch 19 — Institutions Need First Pages](manuscript/ch19-institutions-need-first-pages.md)
-- [x] [Ch 20 — The First Page Again](manuscript/ch20-the-first-page-again.md)
+- [x] [Ch 19 — Starting Too Late](manuscript/ch19-starting-too-late.md)
+- [x] [Ch 20 — Starting Without Permission](manuscript/ch20-starting-without-permission.md)
+
+### Part VI — Beginning Beyond the Self
+- [x] [Ch 21 — Starting Together](manuscript/ch21-starting-together.md)
+- [x] [Ch 22 — Institutions Need First Pages](manuscript/ch22-institutions-need-first-pages.md)
+- [x] [Ch 23 — The Last First Time](manuscript/ch23-the-last-first-time.md)
+- [x] [Ch 24 — The First Page Again](manuscript/ch24-the-first-page-again.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
