@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 76 book projects · 38 complete drafts · 2 in revision · 36 drafting**
+> **Desk: 80 book projects · 40 complete drafts · 2 in revision · 38 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 35 Desk-only · 0 Shelf-only**
-> **Release review queue: 2 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 41 in both Desk + Shelf · 39 Desk-only · 0 Shelf-only**
+> **Release review queue: 4 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [Commit](books/commit/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -83,6 +83,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 25 of 25 | 39,378 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | 20 of 20 | 59,653 | The book treats intelligence as an allocatable resource rather than a magical property. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | 18 of 18 | 44,609 | America often separates the person saying yes from the full economic price of the decision. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
+| [**APPEAL**](books/appeal/) | ✅ Complete draft | Front matter, prologue, epilogue, back matter; 26 of 26 chapters | — | The central thesis is that as software and artificial intelligence make first decisions cheaper, faster, and more numerous, the scarce institutional resource becomes the second decision: the ability to challenge a consequential answer and obtain a genuinely different review with power to correct it. | [Read →](https://svyable.github.io/desk/reader/#/b/appeal/) |
 | [**Artificial Abundance**](books/artificial-abundance/) | ✍️ Drafting | 8 of 24 | 17,328 | The working thesis is that artificial intelligence does more than increase the supply of useful cognitive work. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-abundance/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
@@ -125,6 +126,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,205 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✍️ Drafting | 10 of 25 + front matter | 15,829 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
+| [**The Expiration Machine**](books/the-expiration-machine/) | ✍️ Drafting — structurally complete | 21 of 21 + prologue + epilogue | — | The central thesis is that expiration is one of civilization's hidden control primitives. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 13 (Prologue + Chapters 1–12) | 29,714 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
 | [**The Hundred-Year Handoff**](books/the-hundred-year-handoff/) | ✍️ Drafting | 4 of 21 drafted | — | Some of civilization's hardest projects have a peculiar customer: a person who is not alive yet. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-handoff/) |
 | [**The Intelligence Bubble**](books/the-intelligence-bubble/) | ✍️ Drafting | 18 of 18 | 56,186 | AI can be economically transformative while many of the investors financing its first great buildout earn disappointing returns. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/) |
@@ -141,6 +143,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Second Order**](books/the-second-order/) | ✍️ Drafting | 20 of 20 | 62,436 | The central argument is that prediction and measurement become governance when decisions are attached to them. | [Read →](https://svyable.github.io/desk/reader/#/b/the-second-order/) |
 | [**The Swarm: Agents in the Wild**](books/the-swarm-agents-in-the-wild/) | ✍️ Drafting | 29 of 29 working chapters | 56,912 | A narrative field guide to synthetic ecology: what changes when agents gain memory, tools, budgets, identity, reputation, and one another, then begin to participate in markets and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-swarm-agents-in-the-wild/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | 19 of 19 | 30,006 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-unbounding/) |
+| [**The Unobserved World**](books/the-unobserved-world/) | ✅ Complete draft | 20 of 20 | — | Every consequential decision creates two histories. One becomes a record. The other disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/the-unobserved-world/) |
 | [**The Value Stack**](books/the-value-stack/) | ✍️ Drafting | 19 of 19 | 36,738 | The central thesis is that value creation and value capture occur at different layers of economic systems, and that bargaining power migrates toward necessary layers that are difficult to… | [Read →](https://svyable.github.io/desk/reader/#/b/the-value-stack/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | 11 of 11 | 16,209 | The working thesis is that liquidity is not a property of an asset but a behavior of the people and machines currently willing to trade it — a standing offer, renewed voluntarily every few… | [Read →](https://svyable.github.io/desk/reader/#/b/the-vanishing-bid/) |
 | [**The Waiting List**](books/the-waiting-list/) | ✍️ Drafting | Front matter, prologue, epilogue, back matter; 20 of 20 chapters | 67,971 | The central thesis is that when a price cannot or should not allocate a scarce good, some other rule always fills the vacuum — a queue, a lottery, a priority rule, or an algorithmic match… | [Read →](https://svyable.github.io/desk/reader/#/b/the-waiting-list/) |
@@ -152,6 +155,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Ubiquitous**](books/ubiquitous/) | ✍️ Drafting | 20 of 20 | 69,795 | The book argues against both easy refuges: one narrow vertical expertise is increasingly callable inside model-and-tool harnesses, but “work with your hands” is not a blanket defense either. | [Read →](https://svyable.github.io/desk/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | 25 of 25 | 72,393 | This book grows out of the public research program in Svyable/quantum-energy. | [Read →](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
 | [**Vectors**](books/vectors/) | ✍️ Drafting | 10 of 25 | 26,767 | The working thesis is that vectors are becoming one of the hidden primitives of modern life. | [Read →](https://svyable.github.io/desk/reader/#/b/vectors/) |
+| [**Vibecariously**](books/vibecariously/) | ✍️ Drafting — full structural draft; expansion and citation pass in progress | 21 of 21 | — | Generative AI changes imagination less by replacing an internal human faculty than by collapsing the distance between an internal possibility and an external representation. | [Read →](https://svyable.github.io/desk/reader/#/b/vibecariously/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | 20 / 20 | 63,911 | This Desk copy remains the canonical working edition and intentionally stays Complete draft. | [Read →](https://svyable.github.io/desk/reader/#/b/wild-speculation/) |
 <!-- DESK_CATALOG:END -->
 
