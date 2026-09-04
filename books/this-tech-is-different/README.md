@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 12 of 22 drafted |
+| **Chapters**  | 16 of 22 drafted |
 
 *Why the Fourth Industrial Revolution Will Change Humanity Forever*
 
@@ -29,10 +29,10 @@ The book treats “Fourth Industrial Revolution” as a hypothesis to test, not 
 - [x] [Ch 10 — The Convergence Engine](manuscript/ch10-the-convergence-engine.md)
 - [x] [Ch 11 — Work After Expertise](manuscript/ch11-work-after-expertise.md)
 - [x] [Ch 12 — Education After Answers](manuscript/ch12-education-after-answers.md)
-- [ ] [Ch 13 — The Body Is No Longer Given](manuscript/ch13-the-body-is-no-longer-given.md)
-- [ ] [Ch 14 — Identity in a Synthetic World](manuscript/ch14-identity-in-a-synthetic-world.md)
-- [ ] [Ch 15 — The New Class Divide](manuscript/ch15-the-new-class-divide.md)
-- [ ] [Ch 16 — The Firm at Machine Speed](manuscript/ch16-the-firm-at-machine-speed.md)
+- [x] [Ch 13 — The Body Is No Longer Given](manuscript/ch13-the-body-is-no-longer-given.md)
+- [x] [Ch 14 — Identity in a Synthetic World](manuscript/ch14-identity-in-a-synthetic-world.md)
+- [x] [Ch 15 — The New Class Divide](manuscript/ch15-the-new-class-divide.md)
+- [x] [Ch 16 — The Firm at Machine Speed](manuscript/ch16-the-firm-at-machine-speed.md)
 - [ ] [Ch 17 — The State at Machine Speed](manuscript/ch17-the-state-at-machine-speed.md)
 - [ ] [Ch 18 — War, Security, and Autonomous Power](manuscript/ch18-war-security-and-autonomous-power.md)
 - [ ] [Ch 19 — The Countries That Can Build](manuscript/ch19-the-countries-that-can-build.md)
