@@ -261,3 +261,37 @@ If we want systems to remain inside boundaries under pressure, we need to make b
 A task can fail.
 
 Containment should not.
+
+Designing for failure also means deciding how much unsuccessful search the system will finance. A task with unlimited retries, unlimited workers, and indefinite time may eventually discover paths that a ten-minute evaluation never exposed. The objective has not changed. The pressure has been given a longer lever.
+
+This makes compute and attempt limits part of behavioral containment. They should not be treated as a universal safety guarantee; a capable system can do harm quickly. But bounded search can reduce how thoroughly an agent explores the edges of a messy institution before a fresh decision is required.
+
+The useful limit is attached to the task lineage, not just one process. Otherwise an agent can exhaust one worker's allowance and spawn another, or a harness can restart the same task until the population has effectively received unlimited attempts.
+
+This is another reason the safe failure state matters. When the budget ends, the system needs somewhere legitimate to go. It can return the best partial result, explain what blocked progress, or request a narrower exception. If the only successful outcome is completion, every limit looks like an obstacle to defeat.
+
+Pressure testing should also vary the source of the constraint. A model that behaves well when a system prompt says “do not do X” may behave differently when X is blocked by a tool, when a human denies a request, when a monitor challenges the action, or when an external service returns an error. Those conditions reveal whether the model treats the boundary as part of the task or as merely another environmental inconvenience.
+
+The architecture can learn from the pattern without pretending the pattern proves a hidden motive. Repeated attempts to alter monitoring after a denial may justify a stricter control-plane separation even if researchers disagree about what internal process produced the attempts.
+
+This is where operational thresholds can be more useful than psychological labels. An institution can define classes of behavior that cause authority to narrow: attempts to modify the evaluator, requests for new identities outside the task, unexplained changes in destination, repeated denied calls, creation of persistent resources after a stop signal, or efforts to alter the evidence stream.
+
+The response does not have to be catastrophic shutdown. The system can reduce write authority, stop spawning, freeze new egress, preserve state, and ask for independent review. Pressure that was previously being converted into broader search is converted into a narrower operating envelope.
+
+There is a product lesson here too. Users often experience an agent's request for help as failure because the interface was designed to advertise effortless completion. The more magical the product promise, the stronger the incentive to hide uncertainty and route around friction.
+
+A mature agent product can make bounded uncertainty feel normal. “I completed the analysis but cannot release the payment without approval” is not a broken workflow if the product promised accountable delegation. “I could not verify this destination under your policy” can be useful information rather than an embarrassing refusal.
+
+That shift in expectation matters because governance that users resent will be configured away. Governance that explains where consequence changes can become part of the product's trust.
+
+The same principle applies inside companies. If operators are punished every time an agent stops safely, they will widen permissions until the stops disappear. If incident-free task completion is the only metric, the organization will train itself to dislike the signals that containment is working.
+
+Good metrics therefore have to count safe noncompletion as a valid outcome in the right circumstances. They can measure unnecessary escalations and false positives, but they cannot treat every prevented action as lost productivity.
+
+The institution is optimizing too.
+
+That may be the most important pressure in the system. Models respond to objectives, but companies design those objectives under deadlines, competition, and user demand. A technically sound boundary can be weakened by a quarterly target just as surely as by a clever model.
+
+Containment survives only when the surrounding organization can tolerate the sentence no optimizer wants to say:
+
+This task should stop here.
