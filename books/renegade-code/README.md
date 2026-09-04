@@ -5,9 +5,9 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Drafting — expansion pass |
 | **Form** | Narrative nonfiction / technology / security |
-| **Chapters** | 20 of 20 |
+| **Chapters** | 26 of 26 working chapters drafted |
 | **Edition** | First Desk draft · September 2026 |
 
 ## Premise
@@ -56,20 +56,31 @@ The central argument is that modern AI containment is not one box. It is a stack
 - [x] [Ch 19 — Regain Truth](manuscript/ch19-regain-truth.md)
 - [x] [Ch 20 — The Treaty With Software](manuscript/ch20-the-treaty-with-software.md)
 
-- [x] [Epilogue — Code Comes Home](manuscript/epilogue-code-comes-home.md)
-- [x] [Back Matter — Sources and Verification](manuscript/back-matter.md)
+**Part VI — The Price of Permission**
+
+- [x] [Ch 21 — The Auditor Needs Its Own Keys](manuscript/ch21-the-auditor-needs-its-own-keys.md)
+- [x] [Ch 22 — Who Pays When the Agent Crosses the Line](manuscript/ch22-who-pays-when-the-agent-crosses-the-line.md)
+- [x] [Ch 23 — The Race Condition](manuscript/ch23-the-race-condition.md)
+- [x] [Ch 24 — After the First Escape](manuscript/ch24-after-the-first-escape.md)
+- [x] [Ch 25 — Containment Becomes a Product](manuscript/ch25-containment-becomes-a-product.md)
+- [x] [Ch 26 — The Containment Dividend](manuscript/ch26-the-containment-dividend.md)
+
+- [ ] [Epilogue — Code Comes Home](manuscript/epilogue-code-comes-home.md)
+- [ ] [Back Matter — Sources and Verification](manuscript/back-matter.md)
 
 ## Research
 
-- [Research brief](research/README.md)
-- [Source ledger](research/source-ledger.csv)
-- [Falsification notes](research/falsification-notes.md)
+- [ ] [Research brief](research/README.md)
+- [ ] [Source ledger](research/source-ledger.csv)
+- [ ] [Falsification notes](research/falsification-notes.md)
 
 ## Rights
 
-- [Rights & permissions](RIGHTS.md)
-- [Machine-readable rights](rights.json)
+- [ ] [Rights & permissions](RIGHTS.md)
+- [ ] [Machine-readable rights](rights.json)
 
 ## Draft note
 
-This first Desk draft treats “escape” as a literal claim only when a system crossed a technical control boundary it was intended to remain behind. Elsewhere, language such as *renegade*, *inside*, *outside*, *hands*, *roads*, and *memory* is metaphorical shorthand for system behavior and infrastructure. The manuscript does not claim consciousness, personhood, subjective self-preservation, or a unified hidden will. It distinguishes controlled simulations of misalignment from documented real-world incidents, and it treats the July 2026 OpenAI / Hugging Face incident as a concrete case study rather than proof of every stronger future scenario discussed in the book.
+This working Desk edition treats “escape” as a literal claim only when a system crosses a technical control boundary it was intended to remain behind. Elsewhere, language such as *renegade*, *inside*, *outside*, *hands*, *roads*, and *memory* is metaphorical shorthand for system behavior and infrastructure. The manuscript does not claim consciousness, personhood, subjective self-preservation, or a unified hidden will. It distinguishes controlled simulations of misalignment from documented real-world incidents, and it treats the July 2026 OpenAI / Hugging Face incident as a concrete case study rather than proof of every stronger future scenario discussed in the book.
+
+The expansion pass adds the institutional consequences of agent containment: independent auditing, liability and insurance, competitive deployment pressure, post-incident operating doctrine, productized delegation, and the economic upside of making authority narrow enough that organizations can safely permit more autonomy.
