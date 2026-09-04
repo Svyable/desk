@@ -141,3 +141,27 @@ A candidate can be weakly supported because the evidence is negative. Another ca
 A mature hiring system should know which kind of ignorance it is acting on.
 
 The interview list is where that knowledge can begin.
+
+The study also exposes a governance problem that is easy to miss when reading only the performance results. An exploration policy changes not just who is seen, but who carries the burden of being informative. If the firm creates an “exploratory slate” and those candidates routinely meet skeptical interviewers, receive poorly matched roles, or are treated as statistical exceptions, the policy can generate misleading labels. The experiment would appear to test candidate quality while actually testing the institution's ability to evaluate unfamiliar people.
+
+That means the exploration stage has to be paired with process quality.
+
+Structured interviews matter because the extra observation is useful only if it is comparable. Interviewer calibration matters because leniency that helps identify a natural experiment is not a desirable long-run operating rule. Work samples matter because they can move evidence closer to the capability the firm actually cares about. Follow-up matters because an interview outcome alone may be too shallow a label.
+
+The institution should also decide in advance what it will do with what it learns.
+
+Suppose an unusual recruiting channel produces strong candidates for two years. Does the company update the screening model so the channel becomes ordinary, or does it preserve the people as permanent “exploration” cases? The latter would be a failure. Exploration is supposed to convert uncertainty into knowledge. Once the evidence becomes dense, the category should lose its uncertainty premium and compete on the richer record.
+
+This gives a practical test for whether an exploration program is real: does the institution's map change?
+
+If the same groups remain “interesting unknowns” year after year, either the organization is not collecting the right outcomes, it is not updating its model, or the exploration label is masking another objective. A learning system should retire discoveries into the mainstream and move its curiosity elsewhere.
+
+The reverse matters too. A category can become newly uncertain after the environment changes. A role is redesigned. A new tool alters which skills matter. A remote team changes the importance of geography. A credential that once predicted performance becomes ubiquitous and loses signal. The map is not finished simply because the firm once learned it.
+
+Hiring is especially vulnerable to stale evidence because jobs mutate faster than many careers do. A person hired into an occupation may still be there when the tasks have changed substantially. Historical “success” can therefore be a label for adaptation to a past version of the role.
+
+A good interview system should ask not only who resembles prior winners, but which evidence is close enough to the future job to deserve trust.
+
+That question makes the interview more than a gate.
+
+It becomes a renewal mechanism for the firm's idea of talent.
