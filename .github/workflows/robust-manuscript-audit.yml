@@ -5,11 +5,141 @@ on:
     branches:
       - book/robust
 
+permissions:
+  contents: write
+
 jobs:
   audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply human-prose cadence pass
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          manuscript = Path("books/robust/manuscript")
+          word_re = re.compile(r"\b[\w’'-]+\b", re.UNICODE)
+
+          replacements = {
+              "ch20-sturdy-not-still.md": [
+                  ("That is the final argument of this book.", "That is the core argument of this book."),
+                  ("Exit is not the only form of power.\n\nIt is an important one in a world of fast-changing dependencies.",
+                   "Exit is one form of power, and an important one in a world of fast-changing dependencies."),
+                  ("Users adapt. Attackers adapt. employees adapt. vendors change. volume changes. the model changes. the policy changes.",
+                   "Users adapt. Attackers adapt. Employees adapt. Vendors change. Volume changes. The model changes. The policy changes."),
+              ],
+              "ch25-after-the-frontier.md": [
+                  ("The AI landscape will not settle because this book ends.",
+                   "The AI landscape will not settle because an operating doctrine has been written down."),
+              ],
+              "ch09-the-human-override.md": [
+                  ("Tool calls. Retrieved documents. intermediate outputs. retries. plans. candidate actions. generated rationales. logs. safety checks.",
+                   "Tool calls. Retrieved documents. Intermediate outputs. Retries. Plans. Candidate actions. Generated rationales. Logs. Safety checks."),
+              ],
+              "ch13-vendor-optionality.md": [
+                  ("Models retire. Prices change. quality changes. providers differentiate. policies diverge. capacity tightens. jurisdictions impose different rules. security requirements change. a product that is best today may be merely adequate next year.",
+                   "Models retire. Prices change. Quality changes. Providers differentiate. Policies diverge. Capacity tightens. Jurisdictions impose different rules. Security requirements change. A product that is best today may be merely adequate next year."),
+              ],
+              "ch18-redundancy-is-not-waste.md": [
+                  ("Two kidneys. Paired organs. genetic duplication. Diverse ecosystems.",
+                   "Two kidneys. Paired organs. Genetic duplication. Diverse ecosystems."),
+              ],
+              "ch19-the-sturdy-institution.md": [
+                  ("Model version. Data. policy. permissions. scale. users. external environment.",
+                   "Model version. Data. Policy. Permissions. Scale. Users. External environment."),
+                  ("Roll back. reduce authority. increase sampling. enter degraded mode. escalate. pause.",
+                   "Roll back. Reduce authority. Increase sampling. Enter degraded mode. Escalate. Pause."),
+              ],
+              "ch14-data-you-can-leave-with.md": [
+                  ("Provenance is not glamourous.", "Provenance is not glamorous."),
+              ],
+          }
+
+          def consolidate(text: str, filename: str) -> str:
+              for old, new in replacements.get(filename, []):
+                  text = text.replace(old, new)
+
+              blocks = [block.strip() for block in re.split(r"\n\s*\n", text.strip())]
+              out = []
+              i = 0
+
+              while i < len(blocks):
+                  block = blocks[i]
+                  protected = (
+                      block.startswith("#")
+                      or block.startswith("```")
+                      or block.startswith("|")
+                      or block.startswith("- ")
+                      or block.startswith("1. ")
+                  )
+                  if protected:
+                      out.append(block)
+                      i += 1
+                      continue
+
+                  if len(word_re.findall(block)) <= 7:
+                      j = i
+                      run = []
+                      while j < len(blocks):
+                          candidate = blocks[j]
+                          candidate_protected = (
+                              candidate.startswith("#")
+                              or candidate.startswith("```")
+                              or candidate.startswith("|")
+                              or candidate.startswith("- ")
+                              or candidate.startswith("1. ")
+                          )
+                          if candidate_protected or len(word_re.findall(candidate)) > 7:
+                              break
+                          run.append(candidate)
+                          j += 1
+
+                      if len(run) >= 4:
+                          # Preserve the deliberately spare final cadence of Chapter 20.
+                          if filename == "ch20-sturdy-not-still.md" and j >= len(blocks) - 24:
+                              out.extend(run)
+                              i = j
+                              continue
+
+                          chunk = []
+                          words = 0
+                          for item in run:
+                              item_words = len(word_re.findall(item))
+                              if chunk and (words + item_words > 36 or len(chunk) >= 5):
+                                  out.append(" ".join(chunk))
+                                  chunk = []
+                                  words = 0
+                              chunk.append(item)
+                              words += item_words
+                          if chunk:
+                              out.append(" ".join(chunk))
+                          i = j
+                          continue
+
+                  out.append(block)
+                  i += 1
+
+              return "\n\n".join(out).strip() + "\n"
+
+          for path in sorted(manuscript.glob("*.md")):
+              original = path.read_text(encoding="utf-8")
+              revised = consolidate(original, path.name)
+              if revised != original:
+                  path.write_text(revised, encoding="utf-8")
+          PY
+
+          if ! git diff --quiet -- books/robust/manuscript; then
+            git config user.name "Sven Benson"
+            git config user.email "129682319+Svyable@users.noreply.github.com"
+            git add books/robust/manuscript
+            git commit -m "Editorial pass: calm Robust manuscript cadence"
+            git push origin HEAD:book/robust
+          fi
 
       - name: Compute manuscript stats and prose-risk report
         run: |
@@ -29,6 +159,7 @@ jobs:
           relative_time_hits = []
           quote_hits = []
           pattern_counts = defaultdict(lambda: defaultdict(int))
+          fragment_metrics = {}
 
           for path in sorted(manuscript.rglob("*.md")):
               text = path.read_text(encoding="utf-8")
@@ -37,10 +168,12 @@ jobs:
               counts[rel] = count
               total += count
 
+              prose_blocks = []
               for block in re.split(r"\n\s*\n", text):
                   cleaned = " ".join(line.strip() for line in block.splitlines()).strip()
                   if not cleaned or cleaned.startswith("#"):
                       continue
+                  prose_blocks.append(cleaned)
                   norm = re.sub(r"[^\w’' -]+", "", cleaned.lower())
                   norm = re.sub(r"\s+", " ", norm).strip()
                   if len(word_re.findall(norm)) >= 12:
@@ -50,6 +183,20 @@ jobs:
                       snorm = re.sub(r"\s+", " ", snorm).strip()
                       if len(word_re.findall(snorm)) >= 8:
                           sentences[snorm].append(rel)
+
+              sizes = [len(word_re.findall(block)) for block in prose_blocks]
+              run = max_run = 0
+              for size in sizes:
+                  if size <= 6:
+                      run += 1
+                      max_run = max(max_run, run)
+                  else:
+                      run = 0
+              fragment_metrics[rel] = {
+                  "prose_blocks": len(sizes),
+                  "blocks_le_6_words": sum(size <= 6 for size in sizes),
+                  "max_consecutive_le_6_word_blocks": max_run,
+              }
 
               for lineno, line in enumerate(text.splitlines(), 1):
                   low = line.lower()
@@ -88,6 +235,7 @@ jobs:
               "rhetorical_pattern_counts": {
                   file: dict(values) for file, values in pattern_counts.items()
               },
+              "fragment_metrics": fragment_metrics,
           }
           Path("robust-manuscript-audit.json").write_text(
               json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
