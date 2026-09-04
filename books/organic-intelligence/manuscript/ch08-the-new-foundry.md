@@ -185,3 +185,77 @@ It will decide whether the headline technology works.
 The organoid is self-organizing.
 
 The industry around it cannot be.
+
+The foundry earns its name only when it can quantify its own yield.
+
+That sounds obvious, but research protocols often report success at the level of a study rather than at the level of a manufacturing funnel. An industrial process needs to know how many starting aggregates become morphologically acceptable organoids, how many of those pass molecular qualification, how many develop the intended electrophysiology, how many remain usable through the experimental window, and how many complete the assay without a technical deviation.
+
+Each stage has a yield.
+
+The product of those yields determines capacity.
+
+A process can look impressive at one step and still be uneconomic overall. If ninety percent of aggregates form organoids but only half later meet the functional specification, the effective yield is not ninety percent. If eighty percent of qualified organoids work on one electrode design but only sixty percent survive shipping and recovery, distribution changes the economics again.
+
+This is why process capability has to be measured against the final use.
+
+The manufacturing specification should be tied to the assay outcome, not merely to what is convenient to inspect early.
+
+A visually uniform organoid can still fail electrophysiologically. A slightly irregular organoid can still produce a reliable disease phenotype. The foundry needs to discover which early measurements actually predict downstream usefulness.
+
+That discovery can be formalized through statistical process control.
+
+A manufacturing run produces distributions: size, morphology, marker expression, firing rate, response to reference stimulation, viability, oxygen stress, and more. Over time, the foundry learns the normal range of each variable and how those variables co-move. A shift in one dimension can reveal reagent drift before the final assay fails.
+
+The point is not to impose semiconductor tolerances on living tissue.
+
+It is to distinguish common-cause biological variation from special-cause process failure.
+
+A donor line that consistently matures more slowly may require a different schedule. A sudden slowdown across every line may indicate a media lot, incubator, operator, or software problem. The same observed phenotype has a different interpretation depending on whether it follows the biology or cuts across it.
+
+Reference lots can help anchor that distinction.
+
+A foundry may maintain well-characterized control cell lines that run alongside patient-derived or experimental lines. If the reference line shifts, the process is suspect. If the reference remains stable while one donor differs, biological explanation becomes more plausible.
+
+The reference does not make human biology uniform.
+
+It gives variability a ruler.
+
+Technology transfer creates the next test.
+
+A process that works inside the laboratory that invented it has not yet become infrastructure. Can another site reproduce it with new operators, new incubators, new robots, and perhaps different reagent lots? Can the assay tolerate small differences without changing its conclusion?
+
+This is where many beautiful biological methods discover how much tacit knowledge they contain.
+
+The original lab knows how a “good” aggregate looks before any formal metric captures it. A technician knows how gently to handle a fragile structure. A senior scientist notices an abnormal culture by an intuition assembled over years. Technology transfer exposes all of that invisible expertise.
+
+The foundry task is to convert as much of it as possible into measurable process rules.
+
+Some tacit knowledge will remain. The goal is not to eliminate expert judgment but to make the process less dependent on one expert being present.
+
+Cross-site transfer also creates a hierarchy of reproducibility.
+
+Within-run repeatability asks whether replicate organoids in one batch behave similarly.
+
+Between-run reproducibility asks whether separate differentiations at the same site agree.
+
+Between-site reproducibility asks whether another facility can produce material that supports the same conclusion.
+
+Between-platform reproducibility asks whether different interfaces or analysis systems preserve the relevant biological effect.
+
+A product may not need to pass all four levels for every use.
+
+A regulated or broadly distributed assay eventually will need more than the first.
+
+This is why batch release becomes a scientific decision rather than a manufacturing formality.
+
+A new lot should enter experiments only after the foundry has evidence that it belongs to the validated process distribution. The release test can include morphology, identity, viability, and a functional reference response. If the test is too weak, bad biology reaches users. If it is too strict, useful biological diversity is discarded and costs rise.
+
+The release specification is therefore a negotiated boundary between reliability and relevance.
+
+Getting that boundary right is one of the highest-leverage tasks in the stack.
+
+Once a foundry can produce qualified neural models predictably across time and sites, every layer above it becomes easier to evaluate. Drug effects become clearer. Machine-learning models become less confounded. Remote platforms can schedule capacity. Regulators can interpret validation studies. Patient variation becomes more believable.
+
+The foundry does not make biology deterministic.
+
+It makes uncertainty accountable.
