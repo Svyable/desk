@@ -1,6 +1,7 @@
 name: Vibecariously release gate
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
