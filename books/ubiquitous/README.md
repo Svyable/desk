@@ -45,6 +45,7 @@ The book argues against both easy refuges: one narrow vertical expertise is incr
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
 - [Release review — 2026-09-01](research/release-review-2026-09-01.md)
+- [Release review — 2026-09-04](research/release-review-2026-09-04.md)
 
 ## Publication note
 
