@@ -188,6 +188,28 @@ It is the more useful product.
 
 A model earns trust when researchers know what it contains, what it leaves out, and which decisions remain valid despite those omissions.
 
+Defined incompleteness also creates a practical validation strategy.
+
+Instead of asking whether an organoid is “brain-like enough,” a developer can state a finite set of critical attributes and deliberately test the boundaries around them. Remove a cell population and see whether the assay still works. Shorten maturation and see which response disappears. Change organoid size and measure whether oxygen stress begins to dominate the phenotype. Compare a simpler spheroid with the full organoid and identify what information the added architecture actually contributes.
+
+These are ablation studies for biological complexity.
+
+They protect the field from assuming that every added layer earns its cost merely because it resembles native tissue more closely.
+
+The result can be counterintuitive. A more elaborate model may perform worse for a narrow assay because it introduces uncontrolled variation. A simpler model may outperform because the relevant mechanism survives the simplification. That is not regression. It is model selection.
+
+The most valuable organoid specification may therefore include an exclusion list as carefully as an inclusion list: which cell types are not represented, which developmental stages are not claimed, which systemic interactions are absent, which functions have not been validated.
+
+That kind of negative specification is rare in marketing and essential in science.
+
+It also makes cross-platform comparisons fairer. Two vendors do not need to produce visually identical organoids if both demonstrate that their models capture the same validated function within a defined range. Standardization can focus on performance rather than forcing every laboratory into one morphology.
+
+The foundry then has a target worth manufacturing toward.
+
+Not resemblance for its own sake.
+
+Reproducible capability.
+
 The organoid never needed to become a complete brain.
 
-It needed to become complete enough for the question.
+It needed to become complete enough for the question, and incomplete in ways the user can see.
