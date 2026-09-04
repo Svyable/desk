@@ -155,3 +155,73 @@ It is that the complexity of maintaining, stimulating, recording, and tracking l
 When that happens, the wet lab does not disappear.
 
 It becomes the data center.
+
+A useful API contract will therefore need an error model unlike the ones software developers know.
+
+A conventional service can return success, timeout, invalid request, insufficient permission, or internal error. A wetware service needs categories that distinguish infrastructure failure from biological outcome.
+
+The pump failed before the compound arrived.
+
+The compound arrived, but the culture was already outside its qualified activity range.
+
+The culture died after dosing, and cell death may itself be the experimental result.
+
+The electrode lost contact halfway through a run.
+
+The stimulation request was valid but exceeded the safe range for this particular culture.
+
+The assay completed, but the reference control failed afterward, making interpretation uncertain.
+
+Those cases cannot all be encoded as “500 Internal Server Error.”
+
+The platform needs to tell the user whether the experiment failed, the infrastructure failed, or biology produced an adverse but potentially meaningful state.
+
+This is a service-level objective with biology inside it.
+
+Uptime alone is insufficient. A platform can be technically available while its biological inventory is unusable. A useful service-level agreement might eventually include the fraction of qualified cultures available, assay completion rate, control-pass rate, median biological age of available substrates, or other application-specific measures.
+
+The exact metrics will differ, but the idea is important: availability has to mean scientifically usable capacity.
+
+Tenant isolation also acquires a physical meaning.
+
+In cloud computing, one customer’s workload should not corrupt another’s. In wetware, one user’s experiment can consume or irreversibly alter a biological resource. Chemical carryover can contaminate fluidic paths. Stimulation can change a culture’s later state. A sample assigned to one study may become ineligible for another.
+
+Isolation therefore requires scheduling rules, physical channel design, cleaning validation, and biological quarantine as well as software permissions.
+
+A multi-tenant wetware platform is not just a shared computer.
+
+It is a shared laboratory whose samples have memories.
+
+This makes experiment portability a more difficult ambition than code portability.
+
+A Python script can be copied from FinalSpark-like infrastructure to another platform, but the stimulation amplitudes, electrode geometry, organoid type, timing, and readout pipeline may differ enough that the same script no longer represents the same experiment.
+
+The industry will eventually need an intermediate description of intent.
+
+Instead of saying “stimulate electrode 12 at 200 microseconds,” a higher-level protocol might say “deliver a calibrated excitatory challenge equal to a defined fraction of this substrate’s measured response range.” The platform would translate that intent into device-specific commands while preserving enough metadata for comparison.
+
+This is how abstraction becomes scientifically useful rather than cosmetically convenient.
+
+The contract says what biological operation is intended.
+
+The implementation says how this platform performed it.
+
+Both records survive.
+
+That separation could make cross-platform benchmarks possible. A laboratory could specify a reference adaptive protocol in device-independent terms, execute it on different interfaces, and compare normalized outcomes. Differences would still exist, but they would become explicit objects of study rather than accidental incompatibilities.
+
+The mature neural API may therefore expose several layers at once.
+
+A low-level hardware layer for researchers developing stimulation methods.
+
+A biological-operation layer for portable protocols.
+
+A validated-assay layer for users who need a defined scientific result.
+
+The same platform can serve all three without pretending they offer the same guarantees.
+
+This is the point at which “developer experience” becomes a scientific variable.
+
+A bad interface encourages users to write irreproducible experiments because essential biological assumptions remain hidden. A good one makes provenance, safe ranges, calibration, and state visible at the moment they matter.
+
+The wet lab becomes the data center only after the API learns that its servers are alive.
