@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 8 of 22 drafted |
+| **Chapters**  | 12 of 22 drafted |
 
 *Why the Fourth Industrial Revolution Will Change Humanity Forever*
 
@@ -25,10 +25,10 @@ The book treats “Fourth Industrial Revolution” as a hypothesis to test, not 
 - [x] [Ch 6 — Software Learns to Act](manuscript/ch06-software-learns-to-act.md)
 - [x] [Ch 7 — Intelligence Gets a Body](manuscript/ch07-intelligence-gets-a-body.md)
 - [x] [Ch 8 — Biology Becomes Writable](manuscript/ch08-biology-becomes-writable.md)
-- [ ] [Ch 9 — Energy Returns to the Center](manuscript/ch09-energy-returns-to-the-center.md)
-- [ ] [Ch 10 — The Convergence Engine](manuscript/ch10-the-convergence-engine.md)
-- [ ] [Ch 11 — Work After Expertise](manuscript/ch11-work-after-expertise.md)
-- [ ] [Ch 12 — Education After Answers](manuscript/ch12-education-after-answers.md)
+- [x] [Ch 9 — Energy Returns to the Center](manuscript/ch09-energy-returns-to-the-center.md)
+- [x] [Ch 10 — The Convergence Engine](manuscript/ch10-the-convergence-engine.md)
+- [x] [Ch 11 — Work After Expertise](manuscript/ch11-work-after-expertise.md)
+- [x] [Ch 12 — Education After Answers](manuscript/ch12-education-after-answers.md)
 - [ ] [Ch 13 — The Body Is No Longer Given](manuscript/ch13-the-body-is-no-longer-given.md)
 - [ ] [Ch 14 — Identity in a Synthetic World](manuscript/ch14-identity-in-a-synthetic-world.md)
 - [ ] [Ch 15 — The New Class Divide](manuscript/ch15-the-new-class-divide.md)
