@@ -75,6 +75,8 @@ Recheck these immediately before a Shelf release because they can change after t
 
 The repository’s `human-prose` standard is the governing editorial standard for this pass: preserve Sven Hardy Benson’s voice while reducing synthetic symmetry, framework density, presentation voice, repetitive aphorisms, and over-neat conclusions.
 
+Preliminary automated scan across all manuscript files found **zero exact repeated prose paragraphs** and **one exact repeated sentence across chapters** (`Exit is not the only form of power`, in Chapters 20 and 24). This is a targeting aid, not a substitute for the human-prose pass. Rhetorical-pattern flags concentrate most heavily in Chapter 31 and the back matter, where imperatives are partly structural and should be judged in context.
+
 - [ ] Run the repository human-prose standard across the complete manuscript rather than chapter-by-chapter in isolation.
 - [ ] Remove repeated rhetorical templates where they become predictable across thirty-one short chapters.
 - [ ] Reduce list-like passages that read as generated enumeration rather than authored argument.
@@ -87,10 +89,11 @@ The repository’s `human-prose` standard is the governing editorial standard fo
 
 - [x] Book README has a complete checked manuscript manifest, including both continuity interludes.
 - [x] Book status is `Revision` while editorial publication gates remain open.
-- [ ] Run `python3 scripts/catalog.py --write` in a full Desk checkout.
-- [ ] Run `python3 scripts/catalog.py --json` and confirm `healthy: true` with zero blocking Reader audit errors.
-- [ ] Confirm root `README.md` catalog includes `Robust`, the correct `Revision` status, `31 of 31` progress, and the exact generated word count.
-- [ ] Confirm Reader opens every manuscript section in canonical order.
+- [x] `python3 scripts/catalog.py --write` completed successfully in the branch audit checkout.
+- [x] `python3 scripts/catalog.py --json` returned `healthy: true` with zero blocking Reader errors: **68 catalog books have Reader-visible manifests and fresh dashboard metadata** in the generated checkout.
+- [x] Generated root catalog resolves `Robust` as `Revision`, `31 of 31`, **66,937 words**.
+- [ ] Commit the generated root `README.md` catalog update to the branch after the final Desk status is chosen.
+- [ ] Confirm Reader opens every manuscript section in canonical order on the committed PR head.
 - [x] Book README contains no stale `/self/` or `/binder/` Reader URLs.
 
 ## 10. Release decision
@@ -110,8 +113,8 @@ Before moving this project to Sven Hardy Benson’s Shelf:
 ## Current blocking items
 
 1. Full-manuscript human-prose / repetition pass after expansion to 31 chapters.
-2. Root catalog regeneration and Reader audit.
+2. Commit final root catalog after Desk status is settled and confirm Reader order on that head.
 3. Final Desk PR cleanup, final-head checks, and merge.
 4. Final volatile-fact refresh on the actual Shelf release date (Shelf gate, not a reason to keep a complete Desk manuscript unmerged).
 
-The manuscript is structurally complete and clears the Desk length standard. It remains in `Revision` until the editorial and repository-integration gates close.
+The manuscript is structurally complete, clears the Desk length standard, and passes the generated catalog/Reader audit. It remains in `Revision` until the editorial and final repository-integration gates close.
