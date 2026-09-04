@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 14 of 22 drafted |
+| **Chapters**  | 17 of 22 drafted |
 
 *How Git Became the Memory of Software—and What Comes Next*
 
@@ -29,12 +29,12 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Ch 12 — The Merge Is the Work](manuscript/ch12-the-merge-is-the-work.md)
 - [x] [Ch 13 — The Security Boundary](manuscript/ch13-the-security-boundary.md)
 - [x] [Ch 14 — The Commit as Evidence](manuscript/ch14-the-commit-as-evidence.md)
+- [x] [Ch 15 — The Agent in the Working Tree](manuscript/ch15-the-agent-in-the-working-tree.md)
+- [x] [Ch 16 — A Thousand Parallel Authors](manuscript/ch16-a-thousand-parallel-authors.md)
+- [x] [Ch 17 — The Semantic Diff Problem](manuscript/ch17-the-semantic-diff-problem.md)
 
 ## Planned chapters
 
-15. The Agent in the Working Tree
-16. A Thousand Parallel Authors
-17. The Semantic Diff Problem
 18. Git 3.0
 19. The Reference Explosion
 20. The Repository You Don't Have
