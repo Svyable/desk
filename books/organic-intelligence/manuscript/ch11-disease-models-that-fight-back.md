@@ -136,6 +136,44 @@ No single answer will validate “organoids” as a category.
 
 Each model will earn or lose credibility in context.
 
+A particularly important test is whether the model can discriminate neighboring explanations, not merely disease from health.
+
+Suppose two different mutations produce similar hyperexcitability. If the assay cannot distinguish their response to mechanism-specific interventions, the phenotype may be too coarse for precision drug discovery. Conversely, if two patients with the same clinical diagnosis produce distinct network responses that track different mechanisms, the model may expose heterogeneity hidden by the diagnostic label.
+
+This is where perturbation becomes a form of identification.
+
+A static phenotype says what looks different.
+
+A panel of carefully chosen interventions can reveal why the difference behaves as it does.
+
+One compound probes sodium-channel dependence. Another probes inhibitory signaling. A gene correction tests causal contribution of a variant. A standardized stimulation challenge probes resilience. The pattern across perturbations can become more informative than any single baseline measurement.
+
+The disease model starts to function like a biological fingerprinting system.
+
+But fingerprints are only useful if they are stable. The same patient line should produce a recognizably similar perturbation profile across independent differentiations. Related disease mechanisms should cluster for biological reasons rather than shared batch history. Unrelated controls should not be forced apart by an overfit classifier.
+
+This is another reason cross-line and cross-site work is indispensable.
+
+A disease-model company can discover an elegant signature in-house. Pharmaceutical adoption requires showing that the signature survives contact with the messy diversity of real development programs.
+
+There is also a hierarchy of rescue evidence.
+
+The weakest rescue changes the assay score.
+
+A stronger rescue changes the score while preserving general neural function.
+
+A stronger one still changes orthogonal molecular or structural measures in the expected direction.
+
+Stronger again, the effect reproduces across multiple patient lines carrying the relevant biology.
+
+Eventually the strongest evidence connects the in-vitro rescue to an outcome beyond the organoid: another validated preclinical system or, where possible, patient response.
+
+The ladder matters because a single network metric can be gamed accidentally by biology. A compound can silence a culture and appear to suppress pathological bursting. It can shift the classifier without restoring the underlying disease process. Orthogonal rescue makes that explanation less likely.
+
+The best disease models will therefore be hard to impress.
+
+They will demand that a treatment improve the pathological feature without destroying the function that made the model worth using.
+
 This has consequences for drug discovery culture. Target-based programs can become attached to a mechanistic story. Once years of work and capital have accumulated around a target, evidence that the system does not recover can be inconvenient. A functional human neural model can introduce a different kind of veto.
 
 The target moved. The network did not.
@@ -208,4 +246,4 @@ The organoid becomes valuable when its incompleteness is known well enough that 
 
 The disease model does not have to think.
 
-It only has to be able to say no.
+It only has to be able to say no—and to say no for the same biological reason twice.
