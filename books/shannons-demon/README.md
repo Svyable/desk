@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson's Desk |
 | **Publication Surface** | Sven Hardy Benson's Shelf |
-| **Chapters**  | 5 of 20 drafted |
+| **Chapters**  | 6 of 20 drafted |
 
 Claude Shannon and the Invention of the Digital Mind.
 
@@ -26,7 +26,7 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 - [x] [Ch 5 — A Symbolic Analysis](manuscript/ch05-a-symbolic-analysis.md)
 - [x] [Ch 6 — An Algebra for Theoretical Genetics](manuscript/ch06-an-algebra-for-theoretical-genetics.md)
 - [x] [Ch 7 — The Institute](manuscript/ch07-the-institute.md)
-- [ ] [Ch 8 — The War Room](manuscript/ch08-the-war-room.md)
+- [x] [Ch 8 — The War Room](manuscript/ch08-the-war-room.md)
 - [ ] [Ch 9 — Tea With Turing](manuscript/ch09-tea-with-turing.md)
 - [ ] [Ch 10 — A Mathematical Theory of Communication](manuscript/ch10-a-mathematical-theory-of-communication.md)
 - [ ] [Ch 11 — The Measure of Uncertainty](manuscript/ch11-the-measure-of-uncertainty.md)
