@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 0 of 20 drafted |
+| **Chapters** | 20 of 20 drafted |
 | **Method** | Narrative nonfiction + causal-inference research + domain case studies + falsification notes |
 
 Every consequential decision creates two histories. One becomes a record. The other disappears.
@@ -23,6 +23,8 @@ This is not an argument against prediction. It is an argument for recognizing a 
 
 The book follows that problem from the fundamental problem of causal inference into hiring, lending, medicine, education, recommendation systems, science funding, public policy, and organizational strategy. It asks when randomization is not indecision but instrumentation, when fairness requires exploration rather than equal treatment of a frozen model, and how institutions can preserve enough variation to discover people, treatments, ideas, and policies that their existing evidence has not yet learned how to value.
 
+All twenty chapter drafts are now in place. The Desk copy remains `Drafting` while the manuscript still needs its expansion pass, back matter, final source audit, and catalog/integrity pass before it can be considered a complete Desk-standard book.
+
 ## Editorial principles
 
 1. **Start with the missing outcome.** Each chapter should make the absent evidence concrete before introducing formal language.
@@ -36,27 +38,27 @@ The book follows that problem from the fundamental problem of causal inference i
 
 ## Contents
 
-- [ ] [Front Matter — The Data We Never Get](manuscript/front-matter.md)
-- [ ] [Chapter 1 — Every Choice Deletes a Dataset](manuscript/ch01-every-choice-deletes-a-dataset.md)
-- [ ] [Chapter 2 — The Fundamental Problem](manuscript/ch02-the-fundamental-problem.md)
-- [ ] [Chapter 3 — When Prediction Becomes Policy](manuscript/ch03-when-prediction-becomes-policy.md)
-- [ ] [Chapter 4 — Learning From the People You Let Through](manuscript/ch04-learning-from-the-people-you-let-through.md)
-- [ ] [Chapter 5 — Success Can Make You Blind](manuscript/ch05-success-can-make-you-blind.md)
-- [ ] [Chapter 6 — The Interview List](manuscript/ch06-the-interview-list.md)
-- [ ] [Chapter 7 — Credit for the Known](manuscript/ch07-credit-for-the-known.md)
-- [ ] [Chapter 8 — The Untested Patient](manuscript/ch08-the-untested-patient.md)
-- [ ] [Chapter 9 — Placement](manuscript/ch09-placement.md)
-- [ ] [Chapter 10 — Discover Weekly](manuscript/ch10-discover-weekly.md)
-- [ ] [Chapter 11 — The Funding Line](manuscript/ch11-the-funding-line.md)
-- [ ] [Chapter 12 — The Pilot That Never Happened](manuscript/ch12-the-pilot-that-never-happened.md)
-- [ ] [Chapter 13 — Feedback Without Exploration](manuscript/ch13-feedback-without-exploration.md)
-- [ ] [Chapter 14 — The Monoculture of Good Decisions](manuscript/ch14-the-monoculture-of-good-decisions.md)
-- [ ] [Chapter 15 — The Vanishing Weird](manuscript/ch15-the-vanishing-weird.md)
-- [ ] [Chapter 16 — When Fairness Requires Curiosity](manuscript/ch16-when-fairness-requires-curiosity.md)
-- [ ] [Chapter 17 — The Politics of the Untested](manuscript/ch17-the-politics-of-the-untested.md)
-- [ ] [Chapter 18 — Randomness With a Reason](manuscript/ch18-randomness-with-a-reason.md)
-- [ ] [Chapter 19 — Institutions That Learn](manuscript/ch19-institutions-that-learn.md)
-- [ ] [Chapter 20 — Keep the Future Observable](manuscript/ch20-keep-the-future-observable.md)
+- [x] [Front Matter — The Data We Never Get](manuscript/front-matter.md)
+- [x] [Chapter 1 — Every Choice Deletes a Dataset](manuscript/ch01-every-choice-deletes-a-dataset.md)
+- [x] [Chapter 2 — The Fundamental Problem](manuscript/ch02-the-fundamental-problem.md)
+- [x] [Chapter 3 — When Prediction Becomes Policy](manuscript/ch03-when-prediction-becomes-policy.md)
+- [x] [Chapter 4 — Learning From the People You Let Through](manuscript/ch04-learning-from-the-people-you-let-through.md)
+- [x] [Chapter 5 — Success Can Make You Blind](manuscript/ch05-success-can-make-you-blind.md)
+- [x] [Chapter 6 — The Interview List](manuscript/ch06-the-interview-list.md)
+- [x] [Chapter 7 — Credit for the Known](manuscript/ch07-credit-for-the-known.md)
+- [x] [Chapter 8 — The Untested Patient](manuscript/ch08-the-untested-patient.md)
+- [x] [Chapter 9 — Placement](manuscript/ch09-placement.md)
+- [x] [Chapter 10 — Discover Weekly](manuscript/ch10-discover-weekly.md)
+- [x] [Chapter 11 — The Funding Line](manuscript/ch11-the-funding-line.md)
+- [x] [Chapter 12 — The Pilot That Never Happened](manuscript/ch12-the-pilot-that-never-happened.md)
+- [x] [Chapter 13 — Feedback Without Exploration](manuscript/ch13-feedback-without-exploration.md)
+- [x] [Chapter 14 — The Monoculture of Good Decisions](manuscript/ch14-the-monoculture-of-good-decisions.md)
+- [x] [Chapter 15 — The Vanishing Weird](manuscript/ch15-the-vanishing-weird.md)
+- [x] [Chapter 16 — When Fairness Requires Curiosity](manuscript/ch16-when-fairness-requires-curiosity.md)
+- [x] [Chapter 17 — The Politics of the Untested](manuscript/ch17-the-politics-of-the-untested.md)
+- [x] [Chapter 18 — Randomness With a Reason](manuscript/ch18-randomness-with-a-reason.md)
+- [x] [Chapter 19 — Institutions That Learn](manuscript/ch19-institutions-that-learn.md)
+- [x] [Chapter 20 — Keep the Future Observable](manuscript/ch20-keep-the-future-observable.md)
 - [ ] [Back Matter — A Field Guide to Missing Evidence](manuscript/back-matter.md)
 
 ## Research
