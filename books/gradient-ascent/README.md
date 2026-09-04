@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 4 of 24 drafted |
+| **Chapters**  | 8 of 24 drafted |
 
 *Hiding Signal in Artificial Noise*
 
@@ -21,13 +21,13 @@ This is deliberately not a handbook for covert communications, evasion, or decep
 - [x] [Ch 2 — The Plausibility Tax](manuscript/ch02-the-plausibility-tax.md)
 - [x] [Ch 3 — The Objective Eats the Signal](manuscript/ch03-the-objective-eats-the-signal.md)
 - [x] [Ch 4 — When Everything Looks Finished](manuscript/ch04-when-everything-looks-finished.md)
+- [x] [Ch 5 — Search After Search](manuscript/ch05-search-after-search.md)
+- [x] [Ch 6 — Synthetic Consensus](manuscript/ch06-synthetic-consensus.md)
+- [x] [Ch 7 — Climbing the Wrong Hill](manuscript/ch07-climbing-the-wrong-hill.md)
+- [x] [Ch 8 — Reward Hacking the Room](manuscript/ch08-reward-hacking-the-room.md)
 
 ## Planned chapters
 
-5. Search After Search
-6. Synthetic Consensus
-7. Climbing the Wrong Hill
-8. Reward Hacking the Room
 9. Goodhart's Machine
 10. The Feedback Loop
 11. Training on the Echo
