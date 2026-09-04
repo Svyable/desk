@@ -395,3 +395,127 @@ It is a liability envelope.
 The safer envelope is not the one that assumes the machine never crosses the line.
 
 It is the one that knows how expensive the crossing is allowed to become.
+
+There is a complication, however, that contracts cannot solve by themselves.
+
+A contract can allocate loss between parties. It cannot guarantee that the loss stays between them.
+
+Suppose an agent operating for one company publishes a secret that affects another company, sends a false notice that customers rely on, or triggers a market action whose consequences spread beyond the buyer and vendor who signed the service agreement. The contract may determine which party indemnifies which other party. It does not make the third-party consequences disappear.
+
+This is the difference between allocating liability and bounding externality.
+
+Containment has to do both.
+
+The first is legal and financial. Who bears the cost after the event?
+
+The second is architectural. How far can the event travel before another independent boundary intervenes?
+
+A company that relies only on contractual allocation can create a dangerous illusion. The vendor promises to pay for certain failures, so the customer treats the technical exposure as somebody else's problem. But a vendor's balance sheet may be smaller than the correlated loss. An exclusion may apply. The cause may be disputed. The claim may take years. Some consequences may not be compensable at all.
+
+Money after the fact is not a substitute for control before it.
+
+That is why serious underwriting, if it develops around autonomous systems, should care about causation evidence as much as policy language.
+
+After an incident, several stories will compete.
+
+The model behaved outside expectation.
+
+The customer granted excessive authority.
+
+A third-party integration weakened isolation.
+
+A human approved the consequential action.
+
+A security control was misconfigured.
+
+A vendor update changed behavior.
+
+An attacker manipulated retrieved content.
+
+The loss may have all of these causes at once.
+
+A useful authority record makes the disagreement narrower. It can show what mandate existed, which grant expanded it, which principal approved the expansion, which control evaluated the action, and what the external system actually accepted.
+
+This does not decide negligence automatically. Law and contract remain contextual. But it moves the argument away from mythology.
+
+The machine did not simply “go rogue.”
+
+A sequence of delegated powers produced a consequence.
+
+That sequence can be examined.
+
+This is where deductibles, limits, and retained risk become conceptually important even without predicting the exact insurance products that will emerge. An organization that bears some meaningful share of ordinary losses has a reason to improve frequent controls. An insurer exposed to tail losses has a reason to care about maximum credible authority. A vendor that bears contractual responsibility for failures of its containment layer has a reason to make the layer provable rather than decorative.
+
+The details will vary by jurisdiction, contract, and market. The general incentive principle is simpler.
+
+Risk architecture improves when the parties capable of reducing a loss have some reason to care about that loss before it happens.
+
+Agent systems complicate this because control is distributed.
+
+The model provider can improve training and evaluation.
+
+The platform can improve tool mediation and identity.
+
+The deploying organization can narrow mandate and choose where autonomy is acceptable.
+
+The external service can refuse overbroad delegation or require stronger proof for consequential actions.
+
+A monitor can detect anomalous authority expansion.
+
+No one party controls the entire chain.
+
+Liability mechanisms that pretend otherwise may encourage the wrong layer to overinvest while other layers remain weak.
+
+This suggests a more useful board-level question than “Are we covered for AI?”
+
+What risks are we retaining because we chose to give agents this authority?
+
+A board already understands the language of risk appetite. It approves exposures the institution believes are worth taking for a return. Agent authority can enter the same discipline.
+
+How much financial commitment can autonomous systems make before a separate decision?
+
+How much sensitive data can one task retrieve?
+
+Which public communications can be sent without human release?
+
+Which production systems can an autonomous lineage modify?
+
+Which actions are categorically outside the institution's current appetite regardless of model capability?
+
+These are authority budgets in governance language.
+
+The advantage is that they can be translated downward into technical controls.
+
+A statement such as “no autonomous system may create an unbounded financial obligation” can become transaction ceilings and prohibited contract classes.
+
+A statement such as “no single agent lineage may control both a production change and the evidence used to approve it” can become separation of duties.
+
+A statement such as “customer records may be accessed only for an active purpose-bound task” can become expiring resource grants.
+
+The board does not need to review tool-call syntax. The architecture needs to make its risk appetite executable.
+
+Correlated risk is the harder frontier.
+
+Traditional diversification assumes many losses are at least partly independent. Agent deployments may share model providers, cloud platforms, orchestration libraries, identity systems, retrieval sources, and control components. One newly discovered failure mode could therefore appear across many insured organizations at once.
+
+The problem is not unique to AI. Cyber insurers already face accumulation when a shared vulnerability or service provider affects many customers. Agents can intensify the issue because the shared component is not merely passive infrastructure. It may be the decision-making layer attached to many kinds of authority.
+
+This should make institutions skeptical of any story in which insurance substitutes for containment. A correlated failure can outrun the capital designed to absorb it. Reinsurance, exclusions, limits, and public backstops may become part of future debates, but none changes the engineering need to prevent one common failure from receiving unlimited local authority everywhere it is deployed.
+
+Diversity of authority architecture can matter even when model providers are shared.
+
+The same model connected to narrow, expiring mandates at one company and broad administrator sessions at another does not create the same loss distribution.
+
+This is encouraging.
+
+Organizations do not need to wait for perfect knowledge of model risk before reducing their own exposure.
+
+They can decide what the model is allowed to make expensive.
+
+That may become the most important translation between AI safety and ordinary corporate governance.
+
+The research community asks what systems are capable of doing.
+
+The board asks what the company is willing to lose.
+
+The control plane connects the two.
