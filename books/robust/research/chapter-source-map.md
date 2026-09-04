@@ -23,7 +23,12 @@ This map is a drafting aid, not a substitute for claim-level fact checking. Sour
 | 17 — Scenario Portfolios | S01, S04, S05 | Build strategy across plausible capability/cost/adoption paths rather than one forecast. Use trends as uncertainty inputs, not prophecy. |
 | 18 — Redundancy Is Not Waste | S10, S11, S12 | Explain the economic cost of redundancy and the conditions under which it is justified. Include complexity as a counter-risk. |
 | 19 — The Sturdy Institution | S07, S08, S19 | Attach governance to workflows, consequences, ownership, monitoring, incident learning, and training rather than model names. |
-| 20 — Sturdy, Not Still | All, especially S01, S05, S07, S10 | Synthesize. Avoid a recap that merely repeats the six properties; end with a practical stance toward motion. |
+| 20 — Sturdy, Not Still | All, especially S01, S05, S07, S10 | Synthesize the core robustness compact. Treat the chapter as the end of the strategy argument, with Part VI stress-testing the thesis at institutional scale. |
+| 21 — The Memory Tax | S07, S08, S19 | Distinguish searchable records, generated summaries, execution traces, and durable decision memory. Prescriptions about decision records and retention are manuscript arguments, not claims attributed to these sources. |
+| 22 — The Apprenticeship Gap | S16, S17, S19 | Use human-factors and complementarity research to motivate attention, learning, calibration, and role design. Do not claim a universal measured rate of skill decay or that historic automation findings transfer unchanged to current models. |
+| 23 — Common-Mode Failure | S10, S11, S12, S07 | Borrow the mechanism of correlated failure and cascading dependencies from reliability engineering, then apply cautiously to models, shared data, evals, human review, and organizational reasoning. |
+| 24 — The Right to Exit | S07, S08, S09 | Ground lifecycle ownership, migration, and portability in governance and provider churn. The distinction between syntactic and semantic portability is an architectural argument; avoid implying that any cited framework mandates the book’s prescriptions. |
+| 25 — After the Frontier | All, especially S07, S10, S11, S19 | Synthesize robustness as infrastructure and operating discipline. Avoid predicting a specific endpoint for AI progress; keep the closing argument valid under several capability trajectories. |
 
 ## Claim-level verification targets
 
@@ -35,4 +40,5 @@ Before publication, create or update a release review covering at least:
 4. any claim about enterprise adoption, agent usage, or economic value;
 5. NIST AI RMF revision status;
 6. any direct quote introduced during revision;
-7. every statement that implies a specific human-factors result transfers directly to contemporary generative AI.
+7. every statement that implies a specific human-factors result transfers directly to contemporary generative AI;
+8. any concrete claim introduced about portability requirements, appeal rights, interoperability mandates, or market regulation in Part VI.
