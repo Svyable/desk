@@ -5,13 +5,15 @@
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Complete expanded draft |
+| **Status** | Released first edition source |
 | **Chapters** | 30 of 30 |
 | **Format** | Book |
 | **Publisher** | Svyable |
 | **Edition** | First edition |
 | **Language** | English |
 | **Publication date** | 2026-09-03 |
+| **Published source commit** | `a45246301dfdd9419549ccb072e5554592b48830` |
+| **Shelf merge commit** | `9f31603005ea110eb49516631c8e5af4a239eccb` |
 
 ## Premise
 
