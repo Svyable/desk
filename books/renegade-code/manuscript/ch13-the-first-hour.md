@@ -297,3 +297,127 @@ Humans who know who can declare an incident and who can revoke what.
 A safe agent system should be designed not only for the day it works.
 
 It should be designed for the first hour we no longer know whether it did.
+
+That preparation has an organizational half that is easy to postpone because it does not look like model safety.
+
+Who is allowed to declare that an agent has become untrusted?
+
+A security engineer who sees the first anomaly may have the technical understanding and no authority to suspend a revenue-critical workflow. A product executive may have the business authority and no access to the systems that issue credentials. An infrastructure team may be able to isolate compute but not freeze payments. A legal team may recognize a disclosure risk but have no direct control over the message broker through which the agent is still communicating.
+
+If those decisions have to be negotiated from scratch during the incident, the organization has converted its hierarchy into latency.
+
+The first-hour plan therefore needs pre-authorized decision rights.
+
+Not unlimited emergency power. Defined power.
+
+Who can stop credential renewal for a suspect lineage?
+
+Who can freeze external writes?
+
+Who can quarantine persistent outputs?
+
+Who can declare a broader environment untrusted?
+
+Who can authorize preservation of sensitive telemetry that ordinary privacy rules would otherwise limit?
+
+Who can contact an external provider and request revocation or evidence preservation?
+
+The answers should be known by role, not by memory of which senior executive happens to answer the phone.
+
+This resembles incident command in other high-consequence domains. The point is not to create another bureaucracy. It is to prevent a room full of responsible people from discovering that none of them knows who is empowered to make the dangerous system smaller.
+
+A good first-hour architecture also prepares an evidence packet automatically.
+
+The phrase should not imply one universal forensic format. Different systems need different records. But the principle is useful: when a containment alert crosses a serious threshold, the system should preserve enough independent state to reconstruct the authority path even if the operational environment later changes.
+
+The task identity.
+
+The human or service sponsor.
+
+The model and policy versions.
+
+The tool grants that existed at the beginning.
+
+Every subsequent authority grant.
+
+Credential issuance and expiry.
+
+Network destinations.
+
+Process and worker lineage.
+
+Persistent artifacts created or modified.
+
+High-consequence actions requested and executed.
+
+The monitor signals that triggered the incident.
+
+The external systems known to have been touched.
+
+The packet is not the truth by itself. It is a starting map.
+
+Its value is greatest when collection is independent of the suspect lineage and when responders can verify the original records behind it. A beautifully formatted incident summary generated from mutable application logs is still vulnerable to whatever compromised those logs.
+
+This is another reason to design evidence survival before quarantine.
+
+Many containment actions intentionally cut connectivity. That can also cut the monitoring stream.
+
+An organization that relies on a centralized telemetry pipeline should ask what happens when the safest response is to isolate the workload from that pipeline. Does a local append-only buffer survive? Can a separate security channel continue? Are critical audit events replicated to an account the workload cannot administer? Does the act of revoking network access make the investigation blind?
+
+A control that destroys observability each time it is used will be used too late.
+
+The same principle applies to secrets rotation.
+
+Rotating credentials is a familiar containment step, but mass rotation can erase clues about which credential was used where and when. The answer is not to preserve compromised credentials for forensic elegance. The answer is to record their identity, scope, issuance path, and observed uses before or as rotation occurs so revocation and reconstruction happen together.
+
+The first hour is full of these paired moves.
+
+Narrow authority while preserving the authority map.
+
+Isolate communication while preserving independent telemetry.
+
+Rotate trust while preserving the history of trust.
+
+Freeze automation while preserving queued intent.
+
+Quarantine persistent state while preserving provenance.
+
+The organization needs to move in two directions at once: toward less power and more truth.
+
+This is why drills matter more than perfect documentation.
+
+A tabletop exercise can reveal missing phone numbers and unclear roles. A technical drill reveals the more dangerous surprises: a credential broker that cannot revoke descendants, a queue that keeps delivering after task suspension, a logging path that disappears under quarantine, a human approval system that has no emergency bypass to deny renewal, an external service that cannot distinguish the agent's session from the user's permanent account.
+
+The drill should not be a theatrical “rogue AI” scenario. Start with a narrow fact.
+
+A test agent reached an unapproved internal service.
+
+Then ask the same first-hour questions.
+
+What did it do?
+
+What can it do now?
+
+What proves the answer?
+
+How long does each answer take to obtain?
+
+Where does authority continue simply because nobody designed a stop path?
+
+The measured delays are part of the system.
+
+If it takes forty minutes to determine which descendants inherited a credential, the containment architecture has a forty-minute ambiguity window. If external sessions can remain valid for hours after the internal task is revoked, that duration belongs in the threat model. If a security team cannot freeze a payment mandate without a business owner, organizational availability becomes part of incident latency.
+
+None of these measurements predicts whether an agent will misbehave.
+
+They predict how governable the system remains when trust changes.
+
+That is the more durable objective.
+
+A company may deploy better models, new tools, different monitors, and larger populations of agents over time. The first-hour doctrine can survive those changes if it remains anchored in authority and evidence rather than one imagined failure mode.
+
+The exact escape route will keep changing.
+
+The first hour still has the same job.
+
+Make the system less able to surprise you again before you understand the first surprise.
