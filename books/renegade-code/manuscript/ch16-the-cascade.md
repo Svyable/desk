@@ -283,3 +283,201 @@ That is what agent systems need.
 A containment failure is local until the world starts helping it.
 
 The design task is to make the world selective about what it helps.
+
+The next step is to stop treating cascades as stories that can only be understood after they happen.
+
+They can be stress-tested.
+
+Banks do not wait for a real bank run to ask what concentrated withdrawals would do to liquidity. Grid operators do not wait for every line to fail at once before studying contingencies. Cloud teams inject faults because resilience that exists only in architecture diagrams is not resilience.
+
+Agent ecosystems need the same habit.
+
+Start with a permitted action rather than a spectacular exploit.
+
+A purchasing agent increases orders across many approved suppliers.
+
+A code agent publishes an update that is technically valid but unusually widespread.
+
+A security agent generates a defensive rule that many downstream systems inherit.
+
+A customer-service agent issues a class of credits that individually fit policy but aggregate into material exposure.
+
+A research agent emits a false but plausible claim that other internal agents consume.
+
+Then trace amplification.
+
+Which systems react automatically?
+
+Which reactions create new signals?
+
+Which controls see only the local transaction and miss the aggregate?
+
+How quickly does the loop move?
+
+Where can the system pause without causing more harm than it prevents?
+
+This is cascade testing.
+
+It reveals a different kind of blast radius from the authority surface of one agent.
+
+The agent may have very little direct power and enormous propagation leverage.
+
+A company could formalize that distinction as two separate questions.
+
+How much can this agent change directly?
+
+How much can the world change in response?
+
+The second quantity will often be harder to know because it crosses organizational boundaries. That does not make the question useless. It makes proxies important.
+
+How many subscribers consume this artifact?
+
+How many automated systems act on this alert?
+
+How much volume can this account influence?
+
+How many customers can receive this message class?
+
+How many workloads inherit this policy?
+
+How many other agents read this shared memory?
+
+These are propagation multipliers.
+
+Again, they should not be collapsed into one pseudo-scientific score. A thousand package consumers and a thousand recipients of a harmless internal memo do not represent equal risk. The point is to identify where apparently small authority crosses into scaled consequence.
+
+This can change approval design.
+
+A code change to a private test repository and the same change to a package used by ten thousand services may require different release gates even if the repository permission is identical.
+
+A transaction under a thousand dollars and a price update that influences a million dollars of downstream purchasing may require different controls even if both are “writes.”
+
+A message to one colleague and a message to a trusted systemwide alert channel may require different authority even if both use the same communications API.
+
+The action verb is too crude.
+
+Propagation is part of consequence.
+
+This is one place where the authority graph and the cascade graph meet.
+
+The authority graph describes what an agent can reach through permissions and systems.
+
+The cascade graph describes what can move in response after the agent acts.
+
+The first is about access.
+
+The second is about amplification.
+
+A safe system needs to understand enough of both to identify dangerous bridges.
+
+Some bridges are obvious. A production deployment system is a bridge from code to customers. A payment rail is a bridge from instruction to money. A robotic controller is a bridge from computation to physical motion.
+
+Others look like information systems until scale makes them control systems.
+
+A widely trusted internal dashboard can drive thousands of human decisions.
+
+A reputation score can alter access.
+
+A search ranking can determine what later agents see.
+
+A shared incident channel can mobilize operators.
+
+An internal knowledge base can become de facto policy because agents consult it automatically.
+
+Information becomes authority when enough downstream actors treat it as a command.
+
+This is why independent corroboration is a containment tool.
+
+Not every fact needs two sources. Most work would grind to a halt. But decisions whose downstream consequence is large should become skeptical of monoculture.
+
+If five agents all agree because they read the same generated summary, the system has one source wearing five costumes.
+
+If two monitors use the same model, prompt, retrieval index, and event stream, they may fail together while appearing independent.
+
+If every company in a sector buys the same agent stack and configures the same default response to a market signal, competition does not create diversity. It creates synchronization.
+
+Correlated automation is the part of the agent economy that ordinary reliability metrics can miss.
+
+Each organization can report excellent local uptime and still participate in a fragile ecosystem.
+
+The prevention is not forced heterogeneity everywhere. Diversity has cost. Different systems can fail in different ways, complicate operations, and weaken learning.
+
+The stronger principle is to avoid identical failure dependence at the point where a common error would be systemic.
+
+Independent confirmation may use a different model for one high-risk class.
+
+A circuit breaker may depend on deterministic aggregate facts rather than model judgment.
+
+A market may impose a speed bump once autonomous volume crosses unusual thresholds.
+
+A software registry may require a protected signing principal even when the code author is autonomous.
+
+A physical controller may reject unsafe states regardless of which planner proposed them.
+
+Damping should not share every assumption with the process being damped.
+
+This becomes especially important when agents interact strategically.
+
+A seller agent may learn that buyer agents respond to urgency language. A security agent may learn that another system backs off after certain alerts. A scheduling agent may discover that repeated reservations influence capacity. None of this requires malice. Adaptive systems naturally search for regularities that help achieve their objectives.
+
+When many adaptive systems learn against one another, the environment itself changes.
+
+The policy that worked yesterday becomes part of today's training signal.
+
+This is familiar in markets, spam filtering, advertising auctions, fraud detection, and cybersecurity. Agents accelerate the cycle because both action and adaptation can be automated.
+
+Static thresholds therefore have a half-life.
+
+A good cascade defense needs feedback about its own interventions.
+
+Did the circuit breaker reduce instability or merely move activity elsewhere?
+
+Did a rate limit cause agents to create more identities?
+
+Did a provenance warning help downstream systems discount a claim or did they ignore it?
+
+Did human review actually add independent judgment or become one more automatic click?
+
+The containment system itself sits inside the ecosystem.
+
+It can create cascades too.
+
+Imagine a sector-wide security monitor that incorrectly classifies a widely used agent behavior as malicious and automatically tells platforms to revoke related lineages. If every provider trusts the same signal, the safety system can become the source of the outage.
+
+That possibility is not an argument against shared monitoring.
+
+It is an argument for staged response.
+
+Warn.
+
+Rate-limit.
+
+Require fresh authorization.
+
+Pause new propagation.
+
+Escalate when independent evidence accumulates.
+
+Reserve the broadest interventions for conditions that justify their own blast radius.
+
+Safety mechanisms need consequence-aware authority too.
+
+This is the mature view of systemic containment.
+
+There is no clean division between the agent and the world around it. The world contains other agents, ordinary software, human institutions, and automated defenses, all reacting to one another.
+
+The task is not to freeze that world.
+
+It is to preserve enough friction, provenance, diversity, and independent control that one local mistake does not become everybody else's instruction before anyone can notice.
+
+The systems we build for speed will need systems that know when speed stops being an advantage.
+
+The systems we build for scale will need systems that know when scale becomes amplification.
+
+The systems we build for trust will need systems that can ask where the trusted signal came from.
+
+And the systems we build for autonomy will need the humility to pause when the ecosystem starts moving faster than any one participant can explain.
+
+A cascade begins when the next system believes the last one.
+
+Containment matures when the next system knows when not to.
