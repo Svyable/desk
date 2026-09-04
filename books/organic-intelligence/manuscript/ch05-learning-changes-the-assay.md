@@ -165,3 +165,47 @@ It will have a before, a during, and an after.
 It will remember what the experiment did to it.
 
 And biotechnology will have to remember too.
+
+There is one more complication: the assay can become toxic through the way it measures toxicity.
+
+A plasticity protocol is itself a biological intervention. Repeated electrical stimulation consumes metabolic resources, alters network state, and can push a culture away from its unstimulated trajectory. A demanding task may reveal vulnerability precisely because it places the network under load, but too much load can create the impairment the experiment then attributes to a chemical.
+
+That means the challenge protocol needs its own dose-response curve.
+
+How intense can stimulation become before healthy controls deteriorate? How many repetitions can a culture tolerate before performance falls from fatigue or homeostatic adaptation? How long does recovery take? Does the challenge interact with the compound nonlinearly, so that a dose harmless at rest becomes damaging under stimulation?
+
+These are not nuisances around the assay.
+
+They define the assay’s operating range.
+
+A useful analogy is a cardiac stress test. The stress is deliberate because resting function may hide disease. The test is useful only because the stress itself is controlled, standardized, and understood well enough to distinguish vulnerability from injury caused by the protocol.
+
+A neural plasticity assay will need the same discipline.
+
+This also changes how reference compounds should be chosen. A good panel would not include only chemicals that kill neurons or produce obvious excitation. It would include interventions expected to affect different levels of the system: baseline excitability, synaptic transmission, adaptation, recovery, and perhaps developmental maturation. The goal would be to map which dimensions of function the assay can distinguish.
+
+Negative controls matter just as much.
+
+If almost any compound produces a statistically significant change somewhere in a high-dimensional neural dataset, the platform will generate endless findings and few decisions. The assay has to establish how much variation occurs without meaningful perturbation, then demand an effect larger or more structured than that background.
+
+This is where predefining the metric becomes essential.
+
+A model can always be trained after the fact to find some difference between exposed and unexposed cultures. That is discovery. Validation begins when the metric and decision rule are locked before the next blinded experiment.
+
+The distinction is uncomfortable because it slows the apparent rate of success.
+
+It is also how a field learns whether its signal is real.
+
+The strongest future result in organic intelligence may therefore look unimpressive on a slide: a predefined plasticity endpoint, measured across independent batches and sites, that reliably shifts with a known class of neuroactive compounds and remains stable with negatives.
+
+No claim of sentience.
+
+No video game.
+
+No general intelligence.
+
+Just a functional measurement that survives contact with replication.
+
+That would change the assay more profoundly than a dramatic one-off demonstration, because it would let another scientist build on the result without inheriting the original laboratory’s intuition.
+
+Learning changes the assay only after the assay learns how to measure learning.
