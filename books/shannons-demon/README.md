@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson's Desk |
 | **Publication Surface** | Sven Hardy Benson's Shelf |
-| **Chapters**  | 20 of 20 drafted |
+| **Chapters**  | 0 of 20 drafted |
 
 Claude Shannon and the Invention of the Digital Mind.
 
@@ -19,26 +19,26 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 ## Contents
 
 - [ ] [Front Matter](manuscript/front-matter.md)
-- [x] [Ch 1 — The Ultimate Machine](manuscript/ch01-the-ultimate-machine.md)
-- [x] [Ch 2 — Gaylord, Michigan](manuscript/ch02-gaylord-michigan.md)
-- [x] [Ch 3 — The Slide Rule and the Switch](manuscript/ch03-the-slide-rule-and-the-switch.md)
-- [x] [Ch 4 — Vannevar Bush's Analog World](manuscript/ch04-vannevar-bushs-analog-world.md)
-- [x] [Ch 5 — A Symbolic Analysis](manuscript/ch05-a-symbolic-analysis.md)
-- [x] [Ch 6 — An Algebra for Theoretical Genetics](manuscript/ch06-an-algebra-for-theoretical-genetics.md)
-- [x] [Ch 7 — The Institute](manuscript/ch07-the-institute.md)
-- [x] [Ch 8 — The War Room](manuscript/ch08-the-war-room.md)
-- [x] [Ch 9 — Tea With Turing](manuscript/ch09-tea-with-turing.md)
-- [x] [Ch 10 — A Mathematical Theory of Communication](manuscript/ch10-a-mathematical-theory-of-communication.md)
-- [x] [Ch 11 — The Measure of Uncertainty](manuscript/ch11-the-measure-of-uncertainty.md)
-- [x] [Ch 12 — Theseus in the Maze](manuscript/ch12-theseus-in-the-maze.md)
-- [x] [Ch 13 — The Chess Problem](manuscript/ch13-the-chess-problem.md)
-- [x] [Ch 14 — Entropy House](manuscript/ch14-entropy-house.md)
-- [x] [Ch 15 — The Wearable Computer](manuscript/ch15-the-wearable-computer.md)
-- [x] [Ch 16 — Shannon's Demon](manuscript/ch16-shannons-demon.md)
-- [x] [Ch 17 — The Reluctant Sage](manuscript/ch17-the-reluctant-sage.md)
-- [x] [Ch 18 — The Bit Becomes the World](manuscript/ch18-the-bit-becomes-the-world.md)
-- [x] [Ch 19 — Entropy and Amnesia](manuscript/ch19-entropy-and-amnesia.md)
-- [x] [Ch 20 — What the Juggler Knew](manuscript/ch20-what-the-juggler-knew.md)
+- [ ] [Ch 1 — The Ultimate Machine](manuscript/ch01-the-ultimate-machine.md)
+- [ ] [Ch 2 — Gaylord, Michigan](manuscript/ch02-gaylord-michigan.md)
+- [ ] [Ch 3 — The Slide Rule and the Switch](manuscript/ch03-the-slide-rule-and-the-switch.md)
+- [ ] [Ch 4 — Vannevar Bush's Analog World](manuscript/ch04-vannevar-bushs-analog-world.md)
+- [ ] [Ch 5 — A Symbolic Analysis](manuscript/ch05-a-symbolic-analysis.md)
+- [ ] [Ch 6 — An Algebra for Theoretical Genetics](manuscript/ch06-an-algebra-for-theoretical-genetics.md)
+- [ ] [Ch 7 — The Institute](manuscript/ch07-the-institute.md)
+- [ ] [Ch 8 — The War Room](manuscript/ch08-the-war-room.md)
+- [ ] [Ch 9 — Tea With Turing](manuscript/ch09-tea-with-turing.md)
+- [ ] [Ch 10 — A Mathematical Theory of Communication](manuscript/ch10-a-mathematical-theory-of-communication.md)
+- [ ] [Ch 11 — The Measure of Uncertainty](manuscript/ch11-the-measure-of-uncertainty.md)
+- [ ] [Ch 12 — Theseus in the Maze](manuscript/ch12-theseus-in-the-maze.md)
+- [ ] [Ch 13 — The Chess Problem](manuscript/ch13-the-chess-problem.md)
+- [ ] [Ch 14 — Entropy House](manuscript/ch14-entropy-house.md)
+- [ ] [Ch 15 — The Wearable Computer](manuscript/ch15-the-wearable-computer.md)
+- [ ] [Ch 16 — Shannon's Demon](manuscript/ch16-shannons-demon.md)
+- [ ] [Ch 17 — The Reluctant Sage](manuscript/ch17-the-reluctant-sage.md)
+- [ ] [Ch 18 — The Bit Becomes the World](manuscript/ch18-the-bit-becomes-the-world.md)
+- [ ] [Ch 19 — Entropy and Amnesia](manuscript/ch19-entropy-and-amnesia.md)
+- [ ] [Ch 20 — What the Juggler Knew](manuscript/ch20-what-the-juggler-knew.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
 
 ## Research
