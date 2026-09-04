@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 85 book projects · 43 complete drafts · 2 in revision · 40 drafting**
+> **Desk: 85 book projects · 44 complete drafts · 2 in revision · 39 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
 > **Where they live: 41 in both Desk + Shelf · 44 Desk-only · 0 Shelf-only**
-> **Release review queue: 7 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Release review queue: 8 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -154,7 +154,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Waiting List**](books/the-waiting-list/) | ✍️ Drafting | Front matter, prologue, epilogue, back matter; 20 of 20 chapters | 67,971 | The central thesis is that when a price cannot or should not allocate a scarce good, some other rule always fills the vacuum — a queue, a lottery, a priority rule, or an algorithmic match… | [Read →](https://svyable.github.io/desk/reader/#/b/the-waiting-list/) |
 | [**The Weather We Build**](books/the-weather-we-build/) | ✅ Complete structural draft · Published on Shelf | 12 of 12 | — | Civilization increasingly depends on manufactured microclimates: bounded environments in which heat, moisture, dust, vibration, pressure, gas composition, microbes, and contamination are held inside narrow operating ranges. | [Read →](https://svyable.github.io/desk/reader/#/b/the-weather-we-build/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | 12 of 12 | 28,564 | The central wager is simple: ordinary perception is full of compressed information. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-beneath-the-world/) |
-| [**This Tech Is Different**](books/this-tech-is-different/) | ✍️ Drafting | 16 of 22 | 55,000 | The working thesis is that this industrial transition becomes historically distinct where machine cognition, agency, embodiment, and biological engineering begin to converge. | [Read →](https://svyable.github.io/desk/reader/#/b/this-tech-is-different/) |
+| [**This Tech Is Different**](books/this-tech-is-different/) | ✅ Complete draft | 22 of 22 | 74,000 | The central claim is that this industrial transition becomes historically distinct where machine cognition, agency, embodiment, and biological engineering begin to converge. | [Read →](https://svyable.github.io/desk/reader/#/b/this-tech-is-different/) |
 | [**To State the Obvious**](books/to-state-the-obvious/) | ✍️ Drafting | 1 working manuscript | 2,454 | Complex systems become sophisticated enough to hide elementary truths. | [Read →](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/) |
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | 20 of 20 | 71,461 | The central thesis is that artificial intelligence changes the economics of helping. | [Read →](https://svyable.github.io/desk/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✍️ Drafting | 20 of 20 | 69,795 | The book argues against both easy refuges: one narrow vertical expertise is increasingly callable inside model-and-tool harnesses, but “work with your hands” is not a blanket defense either. | [Read →](https://svyable.github.io/desk/reader/#/b/ubiquitous/) |
