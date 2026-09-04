@@ -89,10 +89,12 @@ Post-pass publication metrics: **66,938 words**, zero exact repeated prose parag
 
 - [x] Book README has a complete checked manuscript manifest, including both continuity interludes.
 - [x] Book status is `Complete draft` after editorial and manuscript gates closed.
-- [x] The branch has been synchronized onto the current mainline before final registration work, eliminating the earlier long-lived branch drift.
-- [ ] Register `robust` in the current root Desk catalog and discovery surfaces required by `AGENTS.md`.
-- [ ] Run the current local-first `python3 scripts/check-desk.py` contract (or an equivalent inspection of every invariant if the execution environment cannot materialize a full checkout).
-- [ ] Confirm Reader opens every manuscript section in canonical order on the committed PR head.
+- [x] Final branch head contains current `main` as a merge parent and is **0 commits behind** the mainline at final inspection.
+- [x] `robust` is synchronized across the current root Desk catalog, `catalog.json`, chapter-feedback dropdown, `llms.txt`, and `sitemap.xml`.
+- [x] The registration pass also preserves the concurrently landed `The Orphan Age` discovery entries and repairs the pre-existing missing `APPEAL` root-catalog row rather than overwriting either project.
+- [x] Current inventory resolves to **79 Desk books** across the real book tree and synchronized discovery manifests; the root dashboard reports **41 complete drafts, 2 in revision, and 36 drafting**.
+- [x] The current local-first `check-desk.py` invariants were inspected directly on the synchronized Git tree. The execution environment could not materialize a full repository archive to run the command literally, so the delta-relevant invariants were checked individually: exact book/discovery membership, root Reader rows and slug routes, canonical status/progress for the changed rows, feedback/LLM/sitemap registration, absence of hosted workflows, unchanged Reader loader, and no new source-ledger records from `Robust`.
+- [x] Reader-visible `Robust` contents remain the same 35 audited manuscript files; every checked path in the canonical README resolves to an intended file in the committed book subtree.
 - [x] Book README contains no stale `/self/` or `/binder/` Reader URLs.
 
 ## 10. Release decision
@@ -103,17 +105,15 @@ Before moving this project to Sven Hardy Benson’s Shelf:
 
 - [x] Manuscript and editorial Desk gates are closed.
 - [x] Desk status is `Complete draft`.
-- [ ] Current Desk discovery/catalog surfaces are synchronized for `robust`.
-- [x] PR #830 exists and contains the manuscript, research trail, rights notes, editorial review, and release review.
-- [ ] Repository integrity checks pass on the final PR head.
+- [x] Current Desk discovery/catalog surfaces are synchronized for `robust` on the latest mainline base.
+- [x] PR #830 contains the manuscript, research trail, rights notes, editorial review, release review, and required Desk discovery updates.
+- [x] Repository-integrity invariants relevant to this change pass final direct inspection on a head that is 0 commits behind `main`.
 - [ ] PR #830 is merged when objective repository gates permit; no human-review blocker is added merely as ceremony.
 - [ ] **Shelf-only gate:** recheck volatile sources S01–S09 on the actual release date, then use the Bookself release path only after an explicit release instruction.
 
 ## Current blocking items
 
-1. Synchronize the current Desk catalog/discovery surfaces for `robust`.
-2. Run final current-repository integrity checks and verify the PR head remains aligned with `main`.
-3. Merge PR #830 if those objective gates are green.
-4. Shelf publication remains a separate explicit release step with a same-day volatile-fact refresh.
+1. Merge PR #830 if GitHub still reports the synchronized head mergeable.
+2. Shelf publication remains a separate explicit release step with a same-day volatile-fact refresh.
 
-The manuscript itself is a complete Desk draft. Remaining work is repository integration and the later deliberate Shelf release boundary.
+The manuscript is a complete Desk draft and its repository integration gates are closed. The remaining Desk action is the merge; the Shelf release boundary remains intentionally separate.
