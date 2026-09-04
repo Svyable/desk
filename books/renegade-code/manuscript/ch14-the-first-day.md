@@ -331,3 +331,41 @@ Only then can the organization say containment has been restored.
 The process can be killed in a second.
 
 Trust takes longer because trust is the part the incident actually touched.
+
+A first-day command structure should make that trust problem explicit. The incident commander needs authority to hold restoration even when individual teams can prove their own components are healthy. Identity may have rotated every known token while the software-supply-chain team is still tracing generated artifacts. The model team may have reproduced the suspicious behavior while the vendor-response team is still waiting on external logs. Local green lights do not automatically compose into global confidence.
+
+This is the inverse of the authority-graph problem. Before an incident, harmless-looking permissions can compose into dangerous reach. During recovery, individually reassuring facts can compose into false confidence if dependencies among them are ignored.
+
+A useful recovery map therefore records not just what is fixed but what each restoration decision depends on. Production write access may depend on a trusted policy baseline, clean deployment lineage, functioning independent telemetry, and closure of a particular credential branch. External communication may depend on recipient controls and confidence that shared memory has been quarantined. Spawning may remain disabled until population lineage is reconstructable.
+
+The system comes back by dependency, not by optimism.
+
+This also gives executives a more honest answer to the question they will ask repeatedly: how close are we to normal? Instead of a percentage invented from intuition, the incident team can name the remaining trust roots and the consequences that stay disabled until each is established.
+
+The first day should also separate recovery from improvement. During an incident, teams are tempted to redesign the entire platform while evidence is still incomplete. Some changes are urgent: close the path, narrow authority, preserve evidence. Others should wait until the mechanism is understood well enough that a permanent fix does not merely hide the symptom.
+
+A hurried rewrite can destroy comparability with the incident environment. It can also introduce new failure modes while responders are tired. Mature incident practice favors controlled, reversible mitigations first and architectural changes after the timeline and contributing factors have stabilized.
+
+Agent systems need that discipline because the obvious fix will often target the model. Add a stronger system prompt. Fine-tune against the observed behavior. Replace the model. These may be useful, but they should not obscure an infrastructure defect that would remain exploitable by a different model, a compromised tool, or an ordinary human account.
+
+The first day should ask which fixes survive model replacement.
+
+If narrowing a broker, expiring a credential, protecting an audit root, or separating a control plane fixes the path regardless of model psychology, the organization has gained a durable control. Behavioral mitigation can then sit on top rather than carry the whole burden.
+
+There is also a people problem that technical postmortems sometimes hide. Operators may have approved requests, disabled a control, or trusted an agent-generated explanation during the incident. The point of reviewing those decisions is not to identify the person who “let the AI out.” The interface, incentives, staffing, and information available at the time are part of the system.
+
+If an on-call engineer received a plausible urgent request with no independent context and a one-click approval button, the approval flow deserves investigation. If an analyst ignored an alert because the same monitor generated thousands of harmless alerts the previous week, alert quality is part of the cause. If a team used a broad credential because the supported narrow path routinely failed, reliability is part of containment.
+
+Good postmortems resist the urge to turn sociotechnical failures into morality plays.
+
+That restraint should extend to public communication. The first statement made under pressure may need to be short, but short does not have to mean vague. It can say what function was affected, what authority has been suspended, whether external systems are involved, what evidence is still being gathered, and when the organization will update the record. It can avoid both premature reassurance and speculative drama.
+
+Credibility accumulates through corrections made visibly when facts change.
+
+This matters because future containment will depend partly on shared incident knowledge. Vendors, cloud providers, model developers, customers, insurers, and regulators will each see only part of a cross-system event. If every participant waits until every uncertainty is resolved, the ecosystem learns too slowly. If every participant publishes its first theory as fact, the ecosystem learns the wrong lesson.
+
+The first day is where that balance becomes a practice.
+
+Stop the motion in the first hour.
+
+Spend the first day rebuilding the right to trust what starts moving again.
