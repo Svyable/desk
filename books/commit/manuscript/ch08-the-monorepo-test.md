@@ -44,6 +44,42 @@ Git has not responded by abandoning its core model.
 
 It has accumulated machinery.
 
+One of the clearest examples came from Microsoft and the Windows codebase. The problem was not simply that the repository occupied a lot of disk. Microsoft described a codebase with millions of files and a Git experience in which ordinary operations could become dominated by the cost of considering a working tree vastly larger than the set of files one developer actually needed.
+
+That distinction matters.
+
+A machine can have enough storage for a repository and still fail the usability test. Developers feel version control through latency. `status` that takes seconds instead of fractions of a second changes how often people run it. A checkout that requires downloading an enormous historical working set changes onboarding. An operation that has to walk millions of paths becomes a tax paid many times a day.
+
+Microsoft's response was the Git Virtual File System, usually called GVFS. Its architecture attacked the problem by virtualizing the working tree so that Git and the operating system could focus on the files a developer actually needed rather than eagerly materializing every file in the repository. Content could be downloaded as it became necessary instead of treating the complete working set as the price of entry.
+
+The move is revealing because it reaches below the command line.
+
+The old mental picture of a checkout is physical and literal. The repository has a tree. The working directory contains the files in that tree. Git compares the two.
+
+At Windows scale, that literal materialization became expensive enough that Microsoft inserted another layer between the logical tree and the bytes present on disk. The working tree could represent more than it had fully hydrated.
+
+This was not merely a faster ancestry walk or a better packfile index. It was an admission that scale had reached the filesystem boundary.
+
+That boundary is different from the object-graph boundary.
+
+A commit-graph can make ancestry queries cheaper. A multi-pack index can make object lookup across packs cheaper. A reachability bitmap can make set calculations cheaper. None of those improvements prevents the operating system from paying to enumerate a gigantic checkout if the command still has to look at the entire filesystem.
+
+GVFS addressed a different question: how much of the repository must become concrete on this machine right now?
+
+That question would recur across Git's later scaling story.
+
+Sparse checkout asks which tracked paths need to appear in the working tree. Partial clone asks which objects need to be downloaded at all. Filesystem monitors reduce the need to rescan everything after a small change. Background maintenance moves expensive cleanup away from the interactive moment. Server-side and client-side caches try to predict what the developer will need next.
+
+These mechanisms are not interchangeable, and GVFS was not simply another name for partial clone. They emerged from different layers and at different times. But they expose the same constraint: a repository can remain logically one thing while becoming physically selective.
+
+That is a major change in what “having the repository” means.
+
+The original distributed ideal made completeness feel binary. Either the server had the history or the clone did. Monorepo scale introduces a more practical vocabulary: metadata present, objects promised, paths sparse, blobs hydrated, packs cached, refs indexed, working set predicted.
+
+Possession becomes layered.
+
+The important achievement is that the layers can remain hidden enough that a developer still recognizes Git.
+
 Commit-graphs are one example.
 
 Walking commit ancestry is fundamental to Git. Commands ask which commits are reachable from another commit, where branches diverged, what history is relevant to a path, and which objects need to move during transport. In a large repository, repeatedly parsing commit objects and rediscovering graph relationships is wasteful.

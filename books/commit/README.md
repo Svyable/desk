@@ -3,8 +3,13 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Complete draft |
+| **Status**    | Complete draft · publication review |
 | **Chapters**  | 22 of 22 |
+| **Format** | Book |
+| **Publisher** | Svyable |
+| **Edition** | First-edition publication review |
+| **Language** | English |
+| **Draft date** | 2026-09-03 |
 
 *How Git Became the Memory of Software—and What Comes Next*
 
@@ -37,11 +42,13 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Ch 20 — The Repository You Don't Have](manuscript/ch20-the-repository-you-dont-have.md)
 - [x] [Ch 21 — What Replaces Git?](manuscript/ch21-what-replaces-git.md)
 - [x] [Ch 22 — The Versioned World](manuscript/ch22-the-versioned-world.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
 - [Research brief and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Publication checklist](research/publication-checklist.md)
 
 ## Rights
 

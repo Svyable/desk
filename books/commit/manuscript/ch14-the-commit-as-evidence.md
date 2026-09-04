@@ -74,6 +74,46 @@ None of these sentences is equivalent to "the software is safe."
 
 The useful security property comes from composing narrower statements without silently upgrading them.
 
+Modern artifact attestations make the separation between source identity and build provenance unusually concrete.
+
+GitHub's current attestation system, for example, produces cryptographically signed provenance claims for built artifacts. The claim can include the repository, organization, environment, commit SHA, triggering event, and the workflow associated with the artifact. The artifact itself is identified by a digest. A consumer can verify the attestation and ask whether the thing they downloaded was built where the producer says it was built from the source state the producer says it used.
+
+That is information a commit cannot provide by itself.
+
+A commit can anchor the source tree. It cannot tell you that the binary in front of you was actually built from that tree. Somebody can label an arbitrary executable with a commit hash in a filename. A release page can claim that an archive corresponds to a tag. Without a stronger link between source and artifact, the identifier is only an assertion printed next to the bytes.
+
+A build attestation narrows that gap.
+
+It still does not close every gap.
+
+GitHub's own documentation makes the limit explicit: an artifact attestation is not a guarantee that an artifact is secure. It establishes provenance that a verifier can use in policy. A malicious but authorized workflow can faithfully build malicious code. A compromised source branch can produce a perfectly attested artifact. A careless build instruction can be reproduced exactly.
+
+The attestation answers where and how.
+
+It does not answer whether the outcome was wise.
+
+The implementation also reveals that provenance has its own trust infrastructure. GitHub uses Sigstore for artifact attestations. Public-repository attestations can be recorded with a publicly readable transparency log. Private-repository attestations use a GitHub Sigstore instance without the same public log. Verification depends on signatures, identities, timestamps, trust roots, and the policy the consumer applies to the claim.
+
+This is not evidence that provenance is too complicated to use.
+
+It is evidence that the word provenance should not be allowed to float free of mechanism.
+
+A provenance claim has a subject, a signer, an identity model, a statement about a build, and a verification path. Change those pieces and you have changed what the evidence means.
+
+This matters because the software artifact is often where the consequence occurs.
+
+Developers review source commits. Users install packages, binaries, container images, firmware, or mobile applications. The path from one to the other can include compilers, dependency resolution, generated code, build scripts, credentials, caches, signing services, packaging tools, and release infrastructure.
+
+A commit signature protects only one portion of that path.
+
+A build attestation protects a different portion.
+
+A reproducible build can provide still another kind of evidence by allowing independent builders to compare outputs. A package signature can bind a distribution identity to the finished artifact. A transparency log can make publication history more difficult to rewrite quietly.
+
+The strongest systems do not pretend these are synonyms.
+
+They compose them.
+
 Software development spent years with a convenient ambiguity because human authorship was usually inferred from context. Alice's laptop made a commit with Alice's configured name. Alice pushed it using Alice's account. Bob reviewed the pull request. The organization knew Alice and Bob. If the repository was small enough, people often recognized the style of the change and remembered the discussion.
 
 The commit itself carried less identity than the social environment supplied around it.
@@ -150,7 +190,7 @@ Put cryptographic bindings close enough to the object that they can travel when 
 
 Put richer workflow evidence in systems designed to express it, but assume those systems may not live forever.
 
-And never let a convenience label erase the difference between integrity, identity, authorization, review, and safety.
+And never let a convenience label erase the difference between integrity, identity, authorization, review, provenance, and safety.
 
 These distinctions become especially important in incident response.
 
@@ -171,6 +211,10 @@ Which reviews and checks were recorded?
 Did the build actually use that source tree?
 
 Was the distributed artifact produced by the expected builder?
+
+Does the artifact's digest match the subject named in the attestation?
+
+Which workflow identity signed that provenance claim?
 
 Was any credential compromised?
 

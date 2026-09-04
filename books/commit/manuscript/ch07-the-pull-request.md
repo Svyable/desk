@@ -4,7 +4,7 @@ A pull request is not a Git object.
 
 That fact is easy to forget because it has become one of the most familiar objects in software development.
 
-Developers open one. Reviewers comment on it. bots inspect it. Continuous integration attaches results to it. Security systems scan it. Managers count them. Maintainers merge or close them. Teams write policies about who may approve them and how many approvals are enough.
+Developers open one. Reviewers comment on it. Bots inspect it. Continuous integration attaches results to it. Security systems scan it. Managers count them. Maintainers merge or close them. Teams write policies about who may approve them and how many approvals are enough.
 
 Then the repository records none of that directly.
 
@@ -108,6 +108,44 @@ The repository says `main` points here.
 
 The forge says who is permitted to move it and under what conditions.
 
+That constitution immediately creates a second problem: deciding who counts as a competent representative of the code being changed.
+
+Repositories answer this in different ways. Some rely on informal maintainer knowledge. Some assign directories or file patterns to teams. Some require particular reviewers for security-sensitive paths, deployment configuration, payment code, database schemas, or generated interfaces. On GitHub, a CODEOWNERS file can be used with branch-protection rules so that designated owners must approve changes touching the paths for which they are responsible.
+
+That sounds like a simple permission rule until the repository becomes large.
+
+Ownership creates expertise and queues at the same time.
+
+A small team that owns a critical directory may receive every proposal that touches it. If the directory sits low in the dependency graph, unrelated product work can converge on the same reviewers. The rule that protects the code can also make those people the throughput limit for the organization.
+
+The pressure then moves back into the policy.
+
+Should one approval be enough?
+
+Should an author's own team count?
+
+Should stale approvals disappear after the branch changes?
+
+Should administrators be allowed to bypass the rule during an incident?
+
+Should generated files require the same owners as their source definitions?
+
+Should a mechanical dependency update wait for the same review path as a hand-written change to authentication logic?
+
+These are not Git questions. They are institutional questions expressed through a Git-adjacent interface.
+
+The policy also acquires exceptions because reality does not arrive in neat categories.
+
+A production outage can make the normal review path too slow. A security response may need secrecy that ordinary discussion undermines. A maintainer may be unavailable. A repository can inherit a broken required check whose service no longer runs. An organization that allows no bypass at all can discover that its safety mechanism has become an availability risk.
+
+Allowing bypass creates the opposite problem.
+
+A control that can be bypassed is only as strong as the conditions under which the bypass is used and recorded.
+
+That is why review systems accumulate audit trails around the rule itself. The important evidence is no longer merely that a proposal passed. It is whether a requirement was satisfied, dismissed, overridden, or changed while the proposal was in flight.
+
+The more governance lives in the pull request, the more the pull request becomes a record of exceptions as well as compliance.
+
 This is where the social graph becomes more important than the commit graph.
 
 Two commits can have exactly the same ancestry relationship whether one arrived through months of formal review or through an administrator's direct push. Git preserves the resulting graph. The forge preserves the governance record.
@@ -128,7 +166,21 @@ Not perfect evidence.
 
 A review can be superficial. A required approver can click approve without reading deeply. Teams can route around policy. Administrators may have bypass rights. A check may be misconfigured. A branch protection rule may have changed after the fact.
 
-Still, the object captures something Git's core format intentionally does not: the route from proposed change to institutional acceptance.
+There is also a quieter failure mode: approval can decay without anybody doing anything obviously wrong.
+
+A reviewer studies a proposal carefully on Monday and approves it. On Tuesday the author pushes a substantial change in response to somebody else's comment. The platform may dismiss the old approval, preserve it, or require a new review depending on configuration. If the approval remains visually present, the organization can end up with a technically correct record of who clicked approve and a misleading impression of what that person actually examined.
+
+This is not unique to software review. Any approval system that allows the underlying object to change after approval has to bind authority to a version.
+
+Git gives the forge an unusually strong primitive for doing that because commits have identities. The difficult part is policy: deciding when a change is material enough to invalidate prior judgment and when demanding another pass merely wastes scarce attention.
+
+A one-character documentation fix after review and a rewritten authentication path are both new commits.
+
+The graph can tell you they differ.
+
+It cannot tell you whether the difference deserves another human decision.
+
+Still, the pull request captures something Git's core format intentionally does not: the route from proposed change to institutional acceptance.
 
 That route grew more elaborate as repositories grew busier.
 
@@ -139,6 +191,24 @@ In a quiet repository, a pull request can be tested against the latest base bran
 A queue serializes the final act.
 
 The platform can build a temporary merge candidate, run required checks, and advance proposals according to policy. The queue treats merge order as shared state rather than letting every author race for the branch tip.
+
+The subtle point is what the queue does not do.
+
+It does not make independent changes conceptually compatible.
+
+Suppose one proposal renames an internal API and another adds a caller using the old name. Suppose each passes when tested against the base from which it was developed. A merge queue can test a candidate that includes the newer target state and discover the break before the protected branch moves. That is valuable. But the queue has learned nothing about why the two changes disagree. It has converted an integration surprise into a failed candidate.
+
+The organization still has to decide who adapts to whom.
+
+A queue is therefore less like an automatic integrator than a controlled experiment repeated near the branch tip.
+
+It makes order explicit.
+
+It reduces the race in which ten approved proposals all assume they are the next one to merge.
+
+It can prevent a green pull request from becoming red only after it has already landed.
+
+But it cannot decide architecture, preserve intent, or reconcile contradictory product choices.
 
 This is an example of a larger rule.
 
@@ -185,6 +255,36 @@ A security scanner can lag a new exploit class.
 A merge queue can faithfully serialize a bad decision.
 
 Governance systems reduce classes of error. They do not abolish error.
+
+They can also create a misleading binary between governed and ungoverned work.
+
+A proposal that crosses the required path can look legitimate because the path is familiar. A proposal that arrives through a less common route can look suspicious even when it has been examined more carefully. The ritual acquires authority of its own.
+
+That is useful up to the point where teams optimize for satisfying the ritual rather than improving the decision.
+
+A reviewer learns to write “LGTM” because the interface requires an approval.
+
+An author splits a risky change into pieces because smaller proposals move faster, even when the risk exists only in the combined behavior.
+
+A bot comments on every dependency update because the control exists, producing enough noise that humans stop reading the comments.
+
+A required test becomes flaky, and the normal response becomes rerunning it until green rather than investigating why the signal cannot be trusted.
+
+The pull request did not create these behaviors. It gave them a surface.
+
+That surface is powerful because it makes process observable. It is dangerous because observable process is easy to count.
+
+Organizations can measure time to first review, time to merge, number of approvals, number of comments, check duration, queue depth, and pull-request volume. Those measures can reveal genuine bottlenecks. They can also become targets that encourage shallow speed.
+
+A ten-minute review is neither good nor bad in the abstract.
+
+A proposal with twenty comments may be a healthy design discussion or evidence that the change was poorly prepared.
+
+A repository that merges hundreds of pull requests a day may be extraordinarily effective or may be manufacturing tiny administrative units because the metric rewards them.
+
+The forge sees events more easily than it sees understanding.
+
+That gap matters as authorship becomes cheaper.
 
 The interesting question is what happens when the number of proposed changes grows faster than the number of people capable of understanding them.
 

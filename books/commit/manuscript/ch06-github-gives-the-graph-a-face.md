@@ -8,6 +8,16 @@ Git solved the history problem before it solved the social problem.
 
 GitHub's importance begins in that gap.
 
+The earliest GitHub record is useful because it makes the transformation look less inevitable than it does in hindsight. The service grew out of a private beta in early 2008. By late February, the company was already marking its thousandth repository. On April 10, GitHub announced that it was officially live. The same launch note mentioned comments on commits and network graphs among the new features.
+
+Those features are revealing.
+
+A comment on a commit turns an object identifier into a place where people can gather. A network graph turns a set of related repositories and branches into something a person can see rather than reconstruct mentally from remote names and ancestry commands. Neither feature changes the commit object. Neither changes fetch or merge. They change the cost of understanding the social world around the graph.
+
+By the beginning of 2009, GitHub was reporting more than 50,000 public repositories. The number matters less as a growth trophy than as evidence of appetite. Developers had not been waiting for version control to be invented. They had been waiting for some of its social friction to be compressed.
+
+A forge could do that because Git had already made repository possession cheap enough to separate participation from permission. The platform did not need to grant a stranger write access to let that stranger make history. It only needed to make the stranger's independent history visible to the maintainer.
+
 When GitHub launched in 2008, Git was already capable of the technical acts that mattered: clone, branch, commit, fetch, push, merge. The forge did not invent distributed version control. It made a distributed graph legible to people who did not want to live on mailing lists or memorize every repository URL.
 
 A repository acquired a page.
@@ -206,7 +216,13 @@ The risk is concentration.
 
 When too much collaboration context lives in one platform, platform outages, policy changes, acquisitions, pricing changes, account actions, or migration friction matter more. Git's cloneability provides an escape route for source history but not a perfect escape route for the institution that grew around it.
 
-GitHub's 2018 acquisition by Microsoft intensified that conversation, but the more enduring point is independent of ownership.
+The Microsoft acquisition made that concentration newly visible in 2018. Microsoft announced completion of the acquisition on October 26 and said GitHub would continue to operate independently and remain an open platform. The transaction did not alter a commit format, a packfile, or the meaning of a branch. It altered ownership of a social and operational center on which an enormous amount of software coordination depended.
+
+That distinction is the point.
+
+A project hosted on GitHub did not wake up with different Git objects because the company changed hands. A local clone still knew the same commits. A mirror still had the same history. Yet developers had reasonable reasons to care because the thing being acquired was larger than the Git graph: identities, collaboration context, automation, discovery, permissions, and the default meeting place for a huge part of the software world.
+
+Git's architecture made one layer comparatively portable. It did not make the platform around that layer politically or economically irrelevant.
 
 The forge had become infrastructure because developers had put infrastructure into it.
 
