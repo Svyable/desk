@@ -1,5 +1,4 @@
 import {
-  adaptSharedReaderAppSource,
   bootstrapRecoveryCopy,
   fetchBootstrapResource,
   installDeskRuntimeBridge,
@@ -7,27 +6,29 @@ import {
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260901-3`;
+const appUrl = `${upstream}app.js?v=desk-20260904-4`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 
-// Local integrity audit markers mirror the compatibility contract enforced in
-// desk-runtime-bridge.js. scripts/check-desk.py checks these without network access.
+// Shelf now carries Bookself's role-aware catalog policy. Desk should fail closed
+// with a useful recovery message if that shared compatibility contract regresses,
+// rather than parsing and rewriting production app source.
 const DESK_CATALOG_AUDIT = Object.freeze([
-  String.raw`meta\.published`,
-  "window.__IMPRINT?.role === 'desk'",
-  'Expected one shared Reader catalog gate',
+  'catalogEntryVisible',
+  'window.__IMPRINT?.role',
+  'Shared Reader is missing role-aware Desk catalog visibility',
 ]);
 
 function sharedReaderOwnsDeskCatalogVisibility(source) {
-  return /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)/.test(String(source || ''));
+  const input = String(source || '');
+  return /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)/.test(input);
 }
 
 function adaptReaderSource(source) {
-  if (sharedReaderOwnsDeskCatalogVisibility(source)) {
-    return rewriteSharedModuleSpecifiers(source, upstream);
+  if (!sharedReaderOwnsDeskCatalogVisibility(source)) {
+    throw new Error('Shared Reader is missing role-aware Desk catalog visibility; update Bookself/Shelf before loading Desk Reader.');
   }
-  return adaptSharedReaderAppSource(source, upstream);
+  return rewriteSharedModuleSpecifiers(source, upstream);
 }
 
 function installDeskChromePolicy() {
