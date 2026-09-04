@@ -14,7 +14,7 @@ A pump raises pressure.
 
 A human body thinks, lifts, digests, and walks.
 
-Energy enters in useful forms and leaves, sooner or later, with heat somewhere in the accounting.
+Energy enters in useful forms and, through conversion and loss, heat appears somewhere in the accounting.
 
 Civilization has become astonishingly good at hiding this bill.
 
@@ -36,11 +36,11 @@ That works until density rises.
 
 Then heat stops being background and becomes architecture.
 
-A single warm object is easy to cool. Put thousands of warm objects together and the room acquires a metabolism. Put enough computation in racks and the question is no longer whether the computers work. It is whether the facility can continuously carry away the heat produced by their working.
+A single warm object is easy to cool. Put thousands of warm objects together and the room acquires a metabolism. Put enough computation in racks and the question is no longer whether the computers work. It is whether the facility can continuously carry away the heat produced by their operation.
 
 This is the **heat debt**.
 
-Every concentrated capability creates a corresponding obligation to move thermal energy somewhere else.
+Every concentrated capability creates a corresponding obligation to manage thermal energy somewhere in the system.
 
 The obligation can be delayed.
 
@@ -62,11 +62,11 @@ It sounds informational. More calculations in less space. More intelligence per 
 
 Thermally, the same sentence reads differently.
 
-More heat in less space.
+More heat to manage in less space.
 
 Now the pathway out matters.
 
-Air has limits as a heat-transfer medium. Fans have limits. Noise has limits. pressure drop has costs. Chilled-water systems have limits. Pumps have limits. Heat exchangers have limits. The outdoor environment has limits. The electrical system feeding the cooling equipment has limits.
+Air has limits as a heat-transfer medium. Fans have limits. Noise has limits. Pressure drop has costs. Chilled-water systems have limits. Pumps have limits. Heat exchangers have limits. The outdoor environment has limits. The electrical system feeding the cooling equipment has limits.
 
 At some point, the cooling architecture becomes inseparable from the computing architecture.
 
@@ -76,7 +76,7 @@ Again.
 
 This pattern repeats in batteries.
 
-A battery is a chemical object with a thermal life. Charge and discharge create heat. Temperature influences performance, degradation, safety, and charging behavior. A pack is therefore not merely a collection of cells. It is cells plus structure plus sensors plus controls plus a strategy for keeping thermal conditions within acceptable bounds.
+A battery is a chemical object with a thermal life. Charge and discharge can create heat. Temperature influences performance, degradation, safety, and charging behavior. A pack is therefore not merely a collection of cells. It is cells plus structure plus sensors plus controls plus a strategy for keeping thermal conditions within acceptable bounds.
 
 The thermal system consumes mass, volume, money, design attention, and energy.
 
@@ -106,9 +106,9 @@ Refrigeration plants.
 
 Even buildings themselves, as insulation, glazing, people, appliances, lighting, computers, kitchens, solar gain, and ventilation loads combine into a thermal budget.
 
-The useful question is not, “Does this technology produce heat?”
+The useful question is not, “Does this technology produce or move heat?”
 
-Everything does.
+Nearly every energy-intensive system does.
 
 The useful question is, “Where is the thermal bottleneck?”
 
@@ -180,7 +180,7 @@ Thermal strategy asks when, where, how fast, at what cost, with what backup, and
 
 The distinction will matter more as civilization electrifies.
 
-Electrification moves energy through wires into machines that often concentrate useful work indoors. Computation concentrates it further. Dense cities concentrate people and equipment. Climate adaptation increases demand for cooling precisely during periods when grids can be stressed.
+Electrification moves energy through wires into machines that often concentrate useful work indoors. Computation concentrates it further. Dense cities concentrate people and equipment. Climate adaptation can increase demand for cooling precisely during periods when grids are already stressed.
 
 The heat debt grows at the intersection.
 
