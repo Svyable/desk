@@ -1,17 +1,17 @@
 # Abdicating Intelligence
 
+*What Happens When Humanity Hands Over Its Ability to Think to Machines*
+
 | | |
 |---|---|
-| **Author** | Sven Hardy Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Complete expanded draft |
-| **Drafting Source** | Sven Hardy Benson’s Desk |
-| **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Form** | Narrative nonfiction / AI / cognition / institutions |
-| **Chapters** | 30 of 30 drafted |
-| **Edition** | Expanded first Desk draft · September 2026 |
-| **Method** | Cognitive science + human-factors history + institutional case studies + falsification notes |
-
-*What Happens When Humanity Hands Over Its Ability to Think to Machines*
+| **Chapters** | 30 of 30 |
+| **Format** | Book |
+| **Publisher** | Svyable |
+| **Edition** | First edition |
+| **Language** | English |
+| **Publication date** | 2026-09-03 |
 
 ## Premise
 
