@@ -236,26 +236,38 @@ What looked like climate control becomes industrial policy.
 
 What looked like weather becomes architecture with a setpoint.
 
-The next century will demand more of this layer, not less.
+The next century will demand more of this layer in many places, even as better design makes parts of it disappear elsewhere.
 
-More computation means more heat to manage.
+More computation means more heat to manage unless efficiency outruns density.
 
-More electrification means more batteries and power electronics with thermal requirements.
+More electrification means more batteries and power electronics with thermal requirements, while better chemistries and architectures may widen tolerances.
 
 More biotechnology means more controlled biological production.
 
-More precision manufacturing means tighter control of contamination and process conditions.
+More precision manufacturing can mean tighter control of contamination and process conditions, while more robust processes can push the other way.
 
 More climate extremes mean greater pressure on buildings, cold chains, farms, hospitals, grids, and cooling systems.
 
 More space activity means more places where atmosphere is obviously manufactured because none is available outside.
 
-The climate stack will become larger precisely because other technologies are advancing.
+Seeing the climate stack does not finish the argument.
 
-That is the final law of manufactured weather:
+It exposes the debts underneath it.
 
-**Every new capability creates a new environment it expects the world to provide.**
+If capability becomes denser, where does the heat go?
+
+If the room becomes part of the machine, who keeps the room alive after midnight?
+
+If local control works because we can draw a boundary, what happens when the system has no meaningful outside?
+
+And if control itself becomes expensive or fragile, when is the better answer not more manufactured weather but a machine that needs less of it?
+
+One principle survives all four questions:
+
+**Every capability has an environment it expects the world to provide.**
 
 Sometimes the world already does.
 
-When it does not, we build one.
+Sometimes we build one.
+
+And sometimes the deeper invention is learning not to need it.
