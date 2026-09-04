@@ -16,6 +16,7 @@ body:
       description: Which book is this about?
       options:
         - abdicating-intelligence
+        - adaptation-debt
         - adjacency
         - aggregate-consolidate-innovate
         - agentile
