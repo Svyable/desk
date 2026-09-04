@@ -52,6 +52,30 @@ This is why thresholds are so important to researchers. When a rule creates a cu
 
 Each method is, in its own way, an attempt to find a piece of the world where the road not taken leaves a shadow.
 
+The phrase “under assumptions” deserves more respect than it usually receives.
+
+Every causal design has a bridge between observed comparisons and the claim we want to make. Randomization builds one kind of bridge. A discontinuity requires confidence that cases near the threshold are comparable except for treatment. An instrumental variable requires a source of variation that affects the outcome through the treatment in the way the design assumes. Observational adjustment requires that the important confounders are measured well enough for the comparison to be credible.
+
+The assumptions are not defects to be hidden.
+
+They are the price of crossing from one observed history to a statement about another.
+
+This becomes especially important when causal results are moved into a predictive decision system. A study may identify an average effect in one population while a model is asked to make choices for individuals in another. The average effect can be real and still conceal heterogeneity. Some people benefit more, some less, some may be harmed. A treatment effect estimated in one hospital, company, city, or decade may change when the population, delivery, incentives, or technology changes.
+
+Identification and transport are separate problems.
+
+First ask whether the comparison identifies the effect in the study. Then ask whether the effect should travel to the decision now being made.
+
+Prediction systems often collapse these steps because they are built to generalize from patterns. The model receives variables and outputs an estimate for the current case. The interface makes transport look automatic.
+
+Causal knowledge is less obedient.
+
+A tutoring program shown to work when delivered by trained staff may not have the same effect when scaled through a different workforce. A diagnostic threshold evaluated in one hospital may behave differently where disease prevalence, referral patterns, or laboratory capacity differs. A hiring intervention in one occupation may not generalize to another where the job tasks and applicant pool are different.
+
+The right answer is not to refuse generalization.
+
+It is to keep the conditions attached to the result.
+
 The language of potential outcomes can feel bloodless because it compresses lives into symbols. Yet it contains a humane restraint. It refuses to pretend that we know what would have happened to a person under an alternative simply because we know what happened to someone else.
 
 That restraint is becoming more important as predictive systems grow more persuasive.
@@ -90,6 +114,24 @@ Was the original belief correct? Was the performance gap caused by selection? By
 
 An institution can be data-rich and causally poor.
 
+There is a third complication: the policy can change the composition of people who show up before treatment is assigned.
+
+If a company becomes known for hiring only one profile, other candidates may stop applying. If a college signals that admission is unlikely, students may self-select out. If a lender's application process feels intrusive, some borrowers will leave before a score is created. If a public program develops a reputation for denial, eligible people may never apply.
+
+The potential-outcomes framework starts with units and possible treatments.
+
+Real institutions often influence which units enter the frame.
+
+The population itself becomes endogenous to policy.
+
+This means a causal evaluation of the people who remained can miss a second effect: who disappeared before evaluation began. A recruitment policy can change employee outcomes and applicant composition. An admissions policy can change student success and application behavior. A benefit design can change take-up as well as outcomes among recipients.
+
+The institution needs to know which causal question it is asking.
+
+Did the treatment help the people who received it? Did the policy change who received it? Did the policy change who sought it? Did scale alter implementation? These are distinct estimands even if a dashboard collapses them into one headline measure.
+
+This is why a single “impact” number often hides more than it reveals.
+
 The usual answer is better research design. That can mean experiments where ethical, natural experiments where available, explicit logging of decision rules, measurement of near-threshold cases, policy changes rolled out in ways that permit comparison, and careful distinction between predictions and treatment effects. It can also mean humility: some questions remain unresolved.
 
 Humility is not operational paralysis. Decisions must still be made.
@@ -123,6 +165,14 @@ That separation is essential when automated systems enter the room. Models are o
 A model predicts observed employee retention; leaders infer future contribution. A model predicts default conditional on historical lending; leaders infer risk for new applicant populations. A model predicts test ordering; administrators infer clinical need. A model predicts clicks; designers infer preference. Each translation may be useful. Each requires assumptions.
 
 The dangerous moment is when the assumptions disappear from view because the score is convenient.
+
+A careful institution can make the assumptions visible in the decision itself.
+
+It can distinguish a prediction from a treatment-effect estimate. It can label when a score is extrapolating beyond strong support. It can preserve the population and policy under which a result was identified. It can state which outcome horizon the estimate refers to. It can record whether the intervention changes the very variable later used to judge success.
+
+These practices sound modest compared with building a new model.
+
+They prevent enormous category errors.
 
 The missing potential outcome never disappears. It only becomes easier to forget.
 
