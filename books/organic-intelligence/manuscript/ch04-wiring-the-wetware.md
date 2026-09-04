@@ -186,6 +186,28 @@ A platform becomes trustworthy when those questions can be answered without dest
 
 That makes non-destructive metrology one of the hidden prizes of the field. The best quality-control test is often the one that leaves the organoid available for the experiment it was grown to perform.
 
+The same metrology can become a bridge between hardware generations.
+
+A new electrode array may have more channels, lower noise, or a different geometry. That makes direct comparison with older data difficult. If both generations are tested against the same electrical reference signals, biological controls, and standardized stimulation challenges, the platform can estimate which changes reflect improved access and which reflect changed biology.
+
+This is essential once customers have longitudinal datasets.
+
+A better instrument should not make every historical phenotype obsolete merely because it measures more. The company needs a mapping between generations, or at least a clear boundary saying that old and new measurements are not interchangeable.
+
+The problem is familiar to clinical laboratories. A new analyzer can improve performance while forcing reference ranges to be re-established. Neural wetware will face the same issue with the additional complication that the reference material is alive.
+
+Hardware qualification therefore needs biological controls that are stable enough to act as transfer standards.
+
+No organoid will be perfectly identical to another. The goal is not identity. It is an acceptance envelope broad enough to contain ordinary biology and narrow enough to reveal an instrument change.
+
+Cross-platform metrology may eventually create the first serious interoperability market in wetware. A drug company could compare results from two vendors because both report how their interfaces perform against shared reference challenges. An academic group could reproduce a stimulation protocol on a different electrode system without pretending the raw amplitudes are equivalent.
+
+The interface becomes portable at the level of calibrated biological effect rather than device-specific voltage.
+
+That is a harder standard than publishing electrode counts.
+
+It is also a more useful one.
+
 The interface is therefore not merely how the computer reaches the cells.
 
-It is how the experiment earns the right to believe what the cells seem to say.
+It is how the experiment earns the right to believe what the cells seem to say, and how a second instrument earns the right to say it heard the same thing.
