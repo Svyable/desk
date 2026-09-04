@@ -68,22 +68,22 @@ Use GDPR storage limitation and retention schedules to show expiration applied t
 
 Build the case for permanence: public records, scientific data, historical archives, judicial opinions, certain conservation protections, and other institutions whose value comes from continuity. Use the debate over sunset clauses in Antarctic marine protected areas as an example of a case where time-bounding protection may conflict with the time scale of the thing being protected. The book must earn the right to recommend expiry by showing where it does not belong.
 
-## 17 — The Failure at Midnight
+## 17 — The Machine That Must Forget
 
-Return to hard boundaries: certificates, licenses, payment credentials, API keys, contracts, and renewals that fail all at once. Explain why cliff edges are dangerous and why good systems use overlap, grace periods, staged rotation, renewal windows, and explicit fallback. Counterpoint: grace periods can become de facto extensions that weaken the original discipline.
+Bring the principle into agentic systems. Distinguish credential freshness from intent freshness: a token can remain valid after the human purpose behind an instruction has gone stale. Develop capability leasing, mandate expiry, authority ancestry, and propagation of revocation to delegated agents and scheduled work. Counterpoint: excessive reauthorization can destroy the persistence that makes agents useful. The chapter must avoid treating delegation itself as the novelty; the subject is the lifetime of delegated authority.
 
-## 18 — Shorter Is Not Always Safer
+## 18 — The Right to Be Asked Again
 
-Synthesize the failure cases: more frequent renewal can increase load, create alert fatigue, multiply credentials, and concentrate operational risk. Show that the right lifetime depends on the cost of stale authority, the cost of renewal, the reliability of automation, and the consequences of failure — without turning the relationship into a fake equation.
+Apply expiration to consent. The central claim is not that consent should expire on arbitrary calendars, but that material changes in purpose, capability, risk, or control can make an old yes insufficient. Develop event-driven reconsent and the distinction between a historical consent receipt and current permission. Counterpoint: constant reconsent creates fatigue and can become theater when refusal is not realistic.
 
-## 19 — The Machine Permission
+## 19 — The Expiration Budget
 
-Bring the principle into agentic systems. Autonomous software increasingly acts through short-lived access tokens, scoped credentials, leases, approval windows, and revocable delegated authority. The design challenge is to let an agent persist long enough to finish valuable work without making every permission permanent by default. Ground the chapter in existing OAuth/JWT machinery rather than speculative claims about future models.
+Make renewal cost explicit. Every recurring review spends human attention, and too many freshness rituals can reduce actual judgment. Develop the idea of an expiration budget: allocate deliberate review to volatile or consequential states, automate objective revalidation, and count burden imposed outside the institution as well as inside it. Counterpoint: reducing review frequency can preserve attention while increasing stale-state risk; the correct trade depends on the cost of both errors.
 
-## 20 — The Expiration Principle
+## 20 — The Expiration Constitution
 
-State the durable synthesis. A good expiry system identifies what is becoming stale, chooses a lifetime proportionate to the cost of staleness, makes renewal produce real evidence, gives warning and overlap before termination, limits renewal burden, records the decision, and protects the things that should persist. Keep this as prose, not a numbered branded framework. End on institutional humility: we are bad at noticing how many powers continue simply because nobody scheduled an ending.
+State the durable synthesis as a constitution of time rather than a universal preference for shorter lifetimes. Name what expires; identify stale-state and termination harms; account for reversibility; match lifetime to rate of change; prefer informative renewal; budget attention; provide safe boundary crossing; preserve revocation; specify renewal authority; and protect durable rights and archives from accidental temporariness. End on the governing idea: persistence is a decision made by defaults.
 
 ## Epilogue — Leave an Ending in the Design
 
-Close quietly. Return to an ordinary renewal notice or certificate rotation rather than a grand prediction. The final idea is that endings can be a form of care: not destruction, but a refusal to let yesterday own tomorrow without asking again.
+Close quietly on the asymmetry between beginnings and endings. The final idea is that a good expiration system does not maximize endings; it maximizes justified continuation. As machines remove accidental friction and make persistence cheap, deliberate boundaries become more important. End with the instruction to ask how a thing ends at the moment it is created.
