@@ -18,7 +18,7 @@ The aim is not to predict which country wins the mineral race. It is to make the
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The List of Seventeen](manuscript/ch01-the-list-of-seventeen.md)
 - [x] [Ch 2 — Everything Runs on Rock](manuscript/ch02-everything-runs-on-rock.md)
 - [x] [Ch 3 — The Oil Analogy, Examined](manuscript/ch03-the-oil-analogy-examined.md)
@@ -39,7 +39,7 @@ The aim is not to predict which country wins the mineral race. It is to make the
 - [x] [Ch 18 — Who Gets Rich, Who Gets Left](manuscript/ch18-who-gets-rich-who-gets-left.md)
 - [x] [Ch 19 — The Price of the Future](manuscript/ch19-the-price-of-the-future.md)
 - [x] [Ch 20 — After the Rush](manuscript/ch20-after-the-rush.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
