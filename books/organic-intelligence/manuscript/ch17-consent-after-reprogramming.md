@@ -204,6 +204,36 @@ The ethical goal is not to prevent neural tissue from being used.
 
 It is to make the use legible, governed, and proportionate to evidence.
 
+The fourteenth question is governance after transfer.
+
+A donor may consent through one hospital or biobank, while the line later moves through repositories, academic collaborations, contract research organizations, and commercial partners. Every transfer creates a risk that the practical meaning of the original restrictions becomes weaker. A downstream laboratory may know the permitted-use code without knowing why the donor chose it. A company may receive a de-identified line and treat provenance as a compliance field rather than a relationship.
+
+This is where machine-readable permissions can help, but only if governance travels with the cells.
+
+A cell-line record can specify whether commercial use is permitted, whether neural differentiation is permitted, whether transplantation is permitted, whether recontact is allowed, and what privacy obligations apply. Transfer agreements can require downstream recipients to preserve those restrictions. Repositories can audit compliance.
+
+The important point is that consent should not be separated from provenance.
+
+If a line can be traced scientifically from donor to differentiation batch, its ethical permissions should be traceable through the same chain. A platform that can identify which reagent lot touched an organoid but cannot identify which uses the donor permitted has built the wrong kind of precision.
+
+The fifteenth question is international movement.
+
+Cell lines and data cross borders more easily than patients do. Different jurisdictions can apply different rules to privacy, tissue research, commercialization, data transfer, and clinical use. A project that is ethically and legally routine in one country can require additional review in another.
+
+Global wetware services will therefore need governance architectures that know where the biology came from and where the experiment is being run.
+
+Remote access makes the issue sharper. A researcher in one country may send code to a platform in another country containing a neural line derived from a donor in a third. The experiment feels digital to the user, but the ethical chain is physical and jurisdictional.
+
+The API cannot erase the geography of consent.
+
+The sixteenth question is whether donors can meaningfully understand a capability that does not yet exist.
+
+This problem has no perfect solution. A consent form written today cannot explain the exact future behavior of organoids, because researchers themselves do not know it. The answer is not to predict. It is to describe uncertainty honestly and identify the governance mechanism that will handle materially new uses.
+
+A donor can consent to broad neural-model research while being told that future experiments may involve more complex organoids, stimulation, long-term maturation, or integration with computational systems; that specialized review will apply if capabilities cross new scientific or ethical thresholds; and that some future uses may be excluded or require additional permission.
+
+The uncertainty becomes part of the consent rather than a reason to pretend foresight.
+
 This is where the idea of dynamic consent sometimes enters discussions. Digital systems can allow donors to update preferences over time, receive information about new categories of research, and remain connected to repositories.
 
 Dynamic consent has advantages and costs.
