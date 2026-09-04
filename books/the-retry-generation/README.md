@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete first draft |
-| **Chapters** | 8 of 8 + prologue + epilogue + back matter |
+| **Status** | Expanded first draft |
+| **Chapters** | 12 + prologue + epilogue + back matter |
 | **Draft date** | September 3, 2026 |
 
 A cultural-ideas book about a new mismatch in human life: digital systems increasingly teach us that errors are reversible, alternatives are cheap, and another attempt is always available, while the decisions that shape bodies, trust, childhood, careers, institutions, war, ecosystems, and mortality still move in one direction.
@@ -29,6 +29,10 @@ Its central framework is:
 - [x] [Ch 6 — A Life in Beta](manuscript/ch06-a-life-in-beta.md)
 - [x] [Ch 7 — Machines Get Infinite Tries. We Don't.](manuscript/ch07-machines-get-infinite-tries.md)
 - [x] [Ch 8 — The Courage of One-Way Doors](manuscript/ch08-the-courage-of-one-way-doors.md)
+- [x] [Ch 9 — The Undoable Self](manuscript/ch09-the-undoable-self.md)
+- [x] [Ch 10 — The Returns Department](manuscript/ch10-the-returns-department.md)
+- [x] [Ch 11 — The Last Human Draft](manuscript/ch11-the-last-human-draft.md)
+- [x] [Ch 12 — The Right to Be Forgotten by Yourself](manuscript/ch12-the-right-to-be-forgotten-by-yourself.md)
 - [x] [Epilogue — One Life, No Version History](manuscript/epilogue-one-life-no-version-history.md)
 - [x] [Back Matter — Field Guide to a Retry World](manuscript/back-matter.md)
 
@@ -41,6 +45,9 @@ Its central framework is:
 - **Retry asymmetry** — when the decision-maker can reverse a system more easily than the affected person can reverse its consequence.
 - **Option obedience** — preserving possibilities so aggressively that optionality begins to govern the life it was meant to protect.
 - **Integration** — carrying a mistake forward as memory and judgment instead of either permanent shame or fictional erasure.
+- **Cognitive bypass** — obtaining an output while skipping the difficulty that was meant to form a capability.
+- **Useful restraint** — assistance intelligent enough to know when solving immediately would weaken learning or agency.
+- **Chosen distance** — deliberately separating attention from an archive that remains technically retrievable.
 
 ## Research trail
 
@@ -62,6 +69,6 @@ The phrase “The Retry Generation” names a cross-generational cultural condit
 
 ## Publication note
 
-Desk remains the canonical working edition and intentionally remains `Complete first draft`. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `5ee6bdb39c0d120f84a1d12fdaecbdfd01739e40` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
+Desk remains the canonical working edition and intentionally evolves beyond the frozen first Shelf snapshot. The first Sven Hardy Benson’s Shelf snapshot was frozen from Desk commit `5ee6bdb39c0d120f84a1d12fdaecbdfd01739e40` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
 
 - [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/the-retry-generation/)
