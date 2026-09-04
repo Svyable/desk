@@ -208,4 +208,56 @@ Just a functional measurement that survives contact with replication.
 
 That would change the assay more profoundly than a dramatic one-off demonstration, because it would let another scientist build on the result without inheriting the original laboratory’s intuition.
 
-Learning changes the assay only after the assay learns how to measure learning.
+A credible developmental-neurotoxicity program would also need to prove that the dynamic endpoint adds something rather than merely echoing simpler measurements.
+
+Suppose a chemical already produces a strong reduction in viability. A sophisticated closed-loop result showing reduced adaptation may be biologically true and practically redundant. The more interesting case is a compound that leaves viability, gross morphology, and perhaps spontaneous firing near normal while altering a later developmental or plasticity measure in a reproducible way.
+
+That is where complexity could earn its cost.
+
+The assay should therefore be evaluated incrementally. Start with an accepted panel of conventional endpoints. Add the dynamic neural measure. Ask whether prediction of a meaningful reference outcome improves. Then remove the new measure and see what was lost.
+
+If nothing was lost, the closed loop is decorative.
+
+If the dynamic endpoint identifies a class of perturbations the simpler panel systematically misses, it has a reason to exist.
+
+This incremental test is important because advanced platforms have a natural advantage in storytelling. They generate richer data, more dimensions, and more visually compelling traces. Richness can make an assay feel informative even when the additional dimensions do not change classification or prediction.
+
+The burden is to show information gain.
+
+That can be measured in practical terms. Does the dynamic assay improve sensitivity without unacceptable false positives? Does it separate mechanism classes? Does it identify a lower effective concentration? Does it predict later functional outcomes? Does it reduce uncertainty enough that a developer changes a decision?
+
+A mature validation program would answer those questions across several stages.
+
+The first stage establishes **within-run repeatability**: replicate cultures in the same experiment behave within expected limits. The second establishes **between-run reproducibility**: independent differentiations and days produce comparable results. The third establishes **between-line robustness**: the assay works across more than one convenient donor background. The fourth establishes **between-site transfer**: another laboratory can reproduce the method. The fifth establishes **predictive relevance**: the endpoint relates to a trusted external outcome.
+
+Each stage kills a different explanation for apparent success.
+
+Within-run failure suggests the readout is noisy.
+
+Between-run failure suggests the process is unstable.
+
+Between-line failure suggests the assay depends on one genetic background.
+
+Between-site failure suggests hidden craft.
+
+Predictive failure suggests the assay measures something real but unhelpful.
+
+This ladder is less exciting than inventing a new definition of learning.
+
+It is what a company, regulator, or safety scientist eventually needs.
+
+The same ladder could transform the academic field because it forces claims to travel. A plasticity metric that only one laboratory can produce is an observation. A metric that survives different cell lines, electrode systems, and sites begins to look like a measurement.
+
+That distinction is what metrology has always done for science.
+
+It turns a local phenomenon into a shared unit of attention.
+
+Neural wetware will need units of attention that are more abstract than volts and spikes. A “plasticity score” may never become universal, but a defined change in response under a defined challenge can become comparable if the protocol is sufficiently controlled.
+
+This is the technical path by which the philosophical word *learning* can eventually disappear from the assay name.
+
+The platform may report adaptation rate, recovery index, discrimination stability, or another operational quantity.
+
+The language becomes less dramatic as the science becomes more useful.
+
+Learning changes the assay only after the assay learns how to measure learning, prove that the measurement travels, and show that the result changes a decision.
