@@ -3,8 +3,6 @@ import fs from 'node:fs';
 
 const loader = fs.readFileSync(new URL('./app-loader.js', import.meta.url), 'utf8');
 const bridge = fs.readFileSync(new URL('./desk-runtime-bridge.js', import.meta.url), 'utf8');
-const quickLook = fs.readFileSync(new URL('./library-quick-look.js', import.meta.url), 'utf8');
-const quickLookCss = fs.readFileSync(new URL('../css/library-quick-look.css', import.meta.url), 'utf8');
 const worker = fs.readFileSync(new URL('../sw.js', import.meta.url), 'utf8');
 const manifest = JSON.parse(fs.readFileSync(new URL('../manifest.webmanifest', import.meta.url), 'utf8'));
 const catalogManifest = JSON.parse(fs.readFileSync(new URL('../../catalog.json', import.meta.url), 'utf8'));
@@ -26,7 +24,7 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v15';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v16';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
@@ -62,14 +60,19 @@ for (const dependency of [
   assert.match(worker, new RegExp(`'${dependency.replaceAll('.', '\\.')}'`));
 }
 for (const dependency of [
-  './css/library-quick-look.css',
-  './js/library-book-preview-model.js',
-  './js/library-quick-look.js',
+  'css/library-quick-look.css',
+  'js/library-book-preview-model.js',
+  'js/library-quick-look.js',
+  'js/theme-controls.js',
 ]) {
   assert.match(worker, new RegExp(`'${dependency.replaceAll('.', '\\.')}'`));
 }
-assert.ok(worker.indexOf("'./js/library-quick-look.js'") < worker.indexOf('const SHARED_PATHS'));
-assert.doesNotMatch(worker.slice(worker.indexOf('const SHARED_PATHS')), /library-quick-look|library-book-preview/);
+const sharedShell = worker.slice(worker.indexOf('const SHARED_PATHS'));
+const localShell = worker.slice(worker.indexOf('const LOCAL_SHELL'), worker.indexOf('const SHARED_PATHS'));
+assert.match(sharedShell, /library-quick-look/);
+assert.match(sharedShell, /library-book-preview-model/);
+assert.match(sharedShell, /theme-controls/);
+assert.doesNotMatch(localShell, /library-quick-look|library-book-preview|theme-controls/);
 assert.doesNotMatch(worker, /offline-readiness/);
 assert.doesNotMatch(worker, /'css\/one-handed-actions\.css'/);
 assert.match(worker, /BookselfOfflineCache\.publicationWarmPlan\(self\.navigator\?\.connection \|\| \{\}\)/);
@@ -93,8 +96,7 @@ assert.ok(loader.indexOf('await import(viewportStabilityUrl)') < loader.indexOf(
 assert.match(loader, /const nativeShareUrl = `\$\{upstream\}native-share\.js`;/);
 assert.match(loader, /Native sharing could not be loaded/);
 assert.ok(loader.indexOf('await import(nativeShareUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
-assert.match(loader, /const quickLookUrl = '\.\/library-quick-look\.js';/);
-assert.ok(loader.indexOf('await import(moduleUrl)') < loader.indexOf('await import(quickLookUrl)'));
+assert.doesNotMatch(loader, /quickLookUrl|library-quick-look\.js/);
 assert.doesNotMatch(loader, /settingsHierarchyUrl|settings-hierarchy\.js/);
 assert.match(loader, /document\.documentElement\.dataset\.oneHandedActionsReady = 'true'/);
 assert.match(loader, /#readerOneHandedActions/);
@@ -114,12 +116,4 @@ assert.match(bridge, /isDeskPortalReadme/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-assert.doesNotMatch(quickLook, /\.volume-open/);
-assert.doesNotMatch(quickLook, /hasReadingProgress/);
-assert.doesNotMatch(quickLook, /characterData:\s*true/);
-assert.match(quickLook, /observer\.observe\(library, \{ childList: true, subtree: true \}\)/);
-assert.match(quickLookCss, /@media \(hover: none\), \(pointer: coarse\)/);
-assert.match(quickLookCss, /\.volume:not\(\.publication-web-volume\) \.volume-quick-look \{\s*display: none;/);
-assert.match(quickLookCss, /:focus-visible \.volume-quick-look \{\s*display: grid;/);
-
-console.log('Desk PWA source contract: 88 assertions passed');
+console.log('Desk PWA source contract: shared quick look ownership verified');
