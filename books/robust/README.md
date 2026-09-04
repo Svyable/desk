@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Revision |
+| **Status** | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 31 of 31 drafted |
@@ -74,6 +74,7 @@ The manuscript treats AI robustness as an operating philosophy built around six 
 - [Source registry](research/source-registry.md)
 - [Chapter-source map](research/chapter-source-map.md)
 - [Rights notes](research/rights-notes.md)
+- [Editorial review](research/editorial-review.md)
 - [Release review](research/release-review.md)
 
 ## Editorial principles
