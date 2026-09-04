@@ -97,6 +97,18 @@ Mansoury et al. studied simulated multi-round feedback in recommenders and found
 
 The Nature model-collapse paper should carry Chapters 11 and 12. Its strongest relevance here is that low-probability parts of the original distribution can disappear early under indiscriminate recursive training, while retaining original data mitigated degradation in the studied language-model setup. The manuscript should repeatedly distinguish this from curated synthetic augmentation or mixed real/synthetic pipelines.
 
+### 14. Search policy already distinguishes generation from low-value scaled manipulation
+
+Chapters 13 and 14 should reuse the Google Search policy evidence carefully. The useful point is institutional rather than universal: at least one major retrieval system explicitly treats scale, originality, user value, and manipulation as more informative than a simple human-versus-AI origin test. This supports the book's move from artifact count toward marginal information and downstream review burden.
+
+### 15. Confident presentation is not evidence of correctness
+
+For Chapter 15, use NIST's confabulation framing rather than implying an intent to deceive. The profile describes generative systems producing and confidently presenting erroneous or false material or content inconsistent with context. The chapter's broader claim—that confidence is becoming a cheap stylistic surface—should remain an inference built on that narrower risk observation.
+
+### 16. Provenance is a claim about process, not a universal truth badge
+
+Chapter 16 should carry C2PA's deliberately limited scope. Tamper-evident provenance and signed assertions can narrow questions about origin and transformation, but a valid provenance chain does not make a staged scene true, a signed statement correct, or an institution infallible. Likewise, absence of Content Credentials should not be treated as evidence that legacy content is false or untrustworthy.
+
 ## Falsification notes
 
 The thesis weakens if any of the following turn out to dominate:
@@ -136,5 +148,9 @@ The manuscript should look for evidence against its own mechanism. A bestseller 
 - **Ch. 10 — The Feedback Loop:** recommender-system feedback and popularity bias; endogenous behavioral data; exploration versus self-confirmation.
 - **Ch. 11 — Training on the Echo:** Nature model-collapse evidence; recursive synthetic training; data genealogy and value of external observations.
 - **Ch. 12 — Collapse at the Edges:** tail loss, rare-event preservation, minority/exception coverage, and the rising value of edge sensors.
-- **Ch. 13–18:** flooding, manufactured evidence, costly verification, and the economics of real-world observation.
+- **Ch. 13 — The Synthetic Haystack:** marginal information versus document count; independent evidence paths; search under synthetic saturation.
+- **Ch. 14 — Flooding the Channel:** receiver-capacity economics; review burden; layered defensive friction; keep any strategic flooding discussion conceptual and non-operational.
+- **Ch. 15 — The Confidence Costume:** NIST confabulation; fluency versus evidence; earned confidence, longitudinal reputation, and category preservation.
+- **Ch. 16 — Manufactured Evidence:** C2PA provenance boundaries; evidence graphs; citation resolution; information supply chains and reversible compression.
+- **Ch. 17–18:** quiet facts, asymmetry between real-world observation costs and representational costs, and the economics of external evidence.
 - **Ch. 19–24:** provenance, friction, audit design, trusted networks, adversarial evaluation, and institutions that reward surprise rather than conformity.

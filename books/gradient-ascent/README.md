@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | @svyable |
 | **Status**    | Drafting |
-| **Chapters**  | 12 of 24 drafted |
+| **Chapters**  | 16 of 24 drafted |
 
 *Hiding Signal in Artificial Noise*
 
@@ -29,13 +29,13 @@ This is deliberately not a handbook for covert communications, evasion, or decep
 - [x] [Ch 10 — The Feedback Loop](manuscript/ch10-the-feedback-loop.md)
 - [x] [Ch 11 — Training on the Echo](manuscript/ch11-training-on-the-echo.md)
 - [x] [Ch 12 — Collapse at the Edges](manuscript/ch12-collapse-at-the-edges.md)
+- [x] [Ch 13 — The Synthetic Haystack](manuscript/ch13-the-synthetic-haystack.md)
+- [x] [Ch 14 — Flooding the Channel](manuscript/ch14-flooding-the-channel.md)
+- [x] [Ch 15 — The Confidence Costume](manuscript/ch15-the-confidence-costume.md)
+- [x] [Ch 16 — Manufactured Evidence](manuscript/ch16-manufactured-evidence.md)
 
 ## Planned chapters
 
-13. The Synthetic Haystack
-14. Flooding the Channel
-15. The Confidence Costume
-16. Manufactured Evidence
 17. The Quiet Fact
 18. The Cost of Being Real
 19. Provenance Before Persuasion
