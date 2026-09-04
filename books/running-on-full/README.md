@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 6 of 24 drafted |
+| **Chapters**  | 12 of 24 drafted |
 
 *How to Get the Most of Your AI Compute*
 
@@ -23,15 +23,15 @@ This is deliberately not a second *Allocating Intelligence*, which is about rout
 - [x] [Ch 4 — Batch or Die](manuscript/ch04-batch-or-die.md)
 - [x] [Ch 5 — The Long Context Tax](manuscript/ch05-the-long-context-tax.md)
 - [x] [Ch 6 — Stop Using the Biggest Model](manuscript/ch06-stop-using-the-biggest-model.md)
+- [x] [Ch 7 — Precision Is a Product Decision](manuscript/ch07-precision-is-a-product-decision.md)
+- [x] [Ch 8 — Keep the Cache Hot](manuscript/ch08-keep-the-cache-hot.md)
+- [x] [Ch 9 — The Scheduler Is the Factory](manuscript/ch09-the-scheduler-is-the-factory.md)
+- [x] [Ch 10 — Fragmentation](manuscript/ch10-fragmentation.md)
+- [x] [Ch 11 — The Network Is Part of the GPU](manuscript/ch11-the-network-is-part-of-the-gpu.md)
+- [x] [Ch 12 — Pipeline Bubbles](manuscript/ch12-pipeline-bubbles.md)
 
 ## Planned chapters
 
-7. Precision Is a Product Decision
-8. Keep the Cache Hot
-9. The Scheduler Is the Factory
-10. Fragmentation
-11. The Network Is Part of the GPU
-12. Pipeline Bubbles
 13. Data Is a Stage of Compute
 14. Checkpointing the Clock
 15. Power Is Capacity
