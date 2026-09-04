@@ -13,8 +13,8 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 44 Desk-only · 0 Shelf-only**
+> **Shelf: 42 author projects · 40 released · 2 public drafts/proofs**
+> **Where they live: 42 in both Desk + Shelf · 44 Desk-only · 0 Shelf-only**
 > **Release review queue: 7 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -49,6 +49,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
+| [**The Longevity Moment**](books/the-longevity-moment/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-longevity-moment/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-mortality-discount/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/) |
 | [**The Retry Generation**](books/the-retry-generation/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
@@ -102,7 +103,6 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,281 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 of 12 | 10,932 | The book follows ordinary people who notice the unclaimed problem, carry more than their official job requires, and turn small acts of usefulness into trust, access, and eventually freedom. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
-| [**Neuralase**](books/neuralase/) | ✅ Complete draft | 18 of 18 drafted | — | Neuralase argues that productive reasoning loops depend not on repetition but on re-entry plus a discriminating signal: evidence, verification, environmental consequence, or learned additional depth. | [Read →](https://svyable.github.io/desk/reader/#/b/neuralase/) |
 | [**No One Read It**](books/no-one-read-it/) | ✍️ Drafting | 5 of 21 | 15,368 | Generative systems can produce contracts, code, analysis, reports, messages, and options faster than the people named on that work can inspect it. | [Read →](https://svyable.github.io/desk/reader/#/b/no-one-read-it/) |
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✅ Complete first draft | 20 of 20 | — | The provisional spaces that make competence possible: rehearsal rooms, drafts, sandboxes, simulations, apprenticeships, mock trials, pilots, test kitchens, play, and every other place where a person or institution is allowed to be wrong before being required to be right. | [Read →](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | 18 of 18 | 77,279 | The central thesis is that open AI does not abolish ownership; it rearranges it. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
@@ -137,6 +137,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,013 | The Intelligence Dilemma asks how schools can use abundant machine intelligence to deepen learning without letting polished output become a substitute for student capability. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
 | [**Built to Be Alone**](books/the-loneliness-dividend/) | ✅ Complete draft | 19 of 19 | 66,001 | The working thesis is that the unpaid social infrastructure of the twentieth century — a stable workplace with the same coworkers for years, a weekly religious congregation, a union hall… | [Read →](https://svyable.github.io/desk/reader/#/b/the-loneliness-dividend/) |
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | 7 of 7 | 4,573 | A screenshot arrives with a rumor: the next model may work for days or weeks, remember corrections, collaborate with agents and people, move through software at superhuman speed, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-long-running-mind/) |
+| [**The Longevity Moment**](books/the-longevity-moment/) | ✅ Complete draft | 22 of 22 + 3 interludes | — | The book calls this anticipatory longevity: what changes when people and institutions act as though the future contains more usable time than the old life plan assumed. | [Read →](https://svyable.github.io/desk/reader/#/b/the-longevity-moment/) |
 | [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 16 of 18 | 55,417 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | 22 of 22 | 66,547 | The working thesis is that this is a repricing event of the kind societies have handled badly before: correctly recognizing that something fundamental has changed while mispricing the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-mortality-discount/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | 25 of 25 | 90,311 | The book's central claim is deliberately operational rather than metaphysical: persistent intelligence is a durable causal identity, not necessarily a durable cognitive process. | [Read →](https://svyable.github.io/desk/reader/#/b/the-never-ending-intelligence/) |
