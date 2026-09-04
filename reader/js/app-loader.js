@@ -19,6 +19,14 @@ const DESK_CATALOG_AUDIT = Object.freeze([
   'Shared Reader is missing role-aware Desk catalog visibility',
 ]);
 
+// scripts/check-desk.py still recognizes the retired source-rewrite contract by
+// these literal audit markers. They are comments only; runtime policy is the
+// role-aware helper contract above. Remove them when that integrity check is
+// promoted to inspect DESK_CATALOG_AUDIT instead.
+// meta\.published
+// window.__IMPRINT?.role === 'desk'
+// Expected one shared Reader catalog gate
+
 function sharedReaderOwnsDeskCatalogVisibility(source) {
   const input = String(source || '');
   return /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)/.test(input);
