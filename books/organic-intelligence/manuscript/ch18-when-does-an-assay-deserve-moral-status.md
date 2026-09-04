@@ -198,6 +198,36 @@ This is another reason to build detailed telemetry before the ethical requiremen
 
 A platform that cannot reconstruct stimulation history cannot later evaluate whether certain protocols produced stress or long-term changes. Data provenance is not only a scientific asset. It can become an ethical record.
 
+There is also a governance problem created by incentives.
+
+A company is rewarded for showing that its system can do more. A laboratory is rewarded for novelty. A benchmark community is rewarded for harder tasks and higher scores. Ethical oversight is often asked to react after those incentives have already selected for increasing capability.
+
+That timing can be improved.
+
+Capability review can be attached to design milestones rather than headlines. A project can define in advance which changes trigger additional scrutiny: substantially longer maturation, integration of multiple neural regions, continuous closed-loop sensory input, new forms of transplantation, evidence of generalized adaptive behavior, or stimulation regimes outside prior experience. The list should evolve with the science.
+
+This turns ethics into a release gate rather than an emergency brake.
+
+The analogy is not perfect, but software security offers a useful lesson. Mature engineering teams do not wait for proof that a system will be attacked before threat-modeling it. They identify plausible failure modes, build observability, set escalation criteria, and revise controls when new evidence appears. They do not call every hypothetical vulnerability an active breach.
+
+Neural-wetware governance can do the same.
+
+The field can maintain a **capability register**: not a score of consciousness, but a structured record of what the system can currently do, which evidence supports the claim, which capabilities are absent, and which experimental changes would materially alter the ethical analysis. Such a register could accompany major platform generations and long-term research programs.
+
+It would also improve public communication.
+
+Instead of arguing over whether a system is “alive,” “intelligent,” or “sentient,” a company could state that a preparation contains specified neural cell types, exhibits spontaneous and evoked activity, maintains certain adaptive responses under defined protocols, has not shown evidence of pain perception or consciousness, and is subject to additional review if predefined capability thresholds are crossed.
+
+That is less marketable than a sentient computer.
+
+It is more durable than one.
+
+A capability register would not solve the philosophical problem. It would create continuity in the scientific record. If a future system is genuinely more organized than its predecessors, researchers could identify what changed rather than discovering after the fact that every generation had been described with the same superlatives.
+
+This is especially important because ethical thresholds may depend on combinations rather than single features. Long maturation alone may not matter. Closed-loop learning alone may not matter. Multi-region integration alone may not matter. A system combining all three with persistent sensory interaction and increasingly complex internal dynamics could deserve a different review even if no one component is decisive.
+
+Governance needs to see the architecture.
+
 The donor adds another dimension.
 
 Moral status of the organoid and moral interests of the donor are different questions.
