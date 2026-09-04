@@ -1,6 +1,7 @@
 import { fetchText } from 'https://svyable.github.io/shelf/reader/js/base.js';
 import { parseBookReadme, parsePortalCatalog } from 'https://svyable.github.io/shelf/reader/js/catalog.js';
 import { loadProgress } from 'https://svyable.github.io/shelf/reader/js/storage.js';
+import { installGlobalThemeControls } from 'https://svyable.github.io/shelf/reader/js/theme-controls.js';
 import { buildLibraryBookPreview } from './library-book-preview-model.js';
 
 const STYLE_HREF = 'css/library-quick-look.css?v=r1';
@@ -118,6 +119,7 @@ export async function installLibraryQuickLook(root = document) {
 }
 
 function installWhenReady() {
+  installGlobalThemeControls();
   void installLibraryQuickLook();
 }
 
