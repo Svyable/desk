@@ -193,3 +193,85 @@ What the tissue became matters.
 By the time a drug is added, the experiment already has a biography.
 
 Pharmacology will have to learn how to read it.
+
+The first rule of machine learning on living data should be simple: split by the source of dependence, not by the row.
+
+That sounds technical. It is one of the easiest ways to decide whether a neural classifier is learning biology or memorizing the experiment.
+
+Suppose a study records ten organoids from each of twenty donors, producing thousands of short electrophysiological windows. If the dataset is randomly split at the window level, recordings from the same donor—and perhaps the same organoid—can appear in both training and test sets. A model can exploit stable donor-, batch-, or electrode-specific signatures and appear to generalize beautifully.
+
+It has not generalized to a new person.
+
+It has recognized relatives of data it already saw.
+
+The correct split depends on the intended claim. If the goal is to predict performance on a new recording from the same organoid, a within-organoid split may be appropriate. If the goal is to generalize to new organoids from the same donor, the organoid must be held out. If the goal is patient stratification, entire donors must be held out. If the goal is cross-site deployment, an independent laboratory may need to be held out.
+
+The test set should represent the future user, not merely unseen rows.
+
+This principle becomes even more important when longitudinal data are segmented into overlapping windows. Consecutive windows can be nearly copies of one another. A random split can make prediction trivial because the model sees yesterday’s neighboring seconds while being evaluated on today’s.
+
+Time needs to be held out when time is what the claim is about.
+
+Batch structure needs the same respect.
+
+A model trained on one differentiation run and tested on another is more informative than a model whose train and test sets both contain organoids from every batch. A robust validation design can deliberately hold out entire batches, reagent lots, instruments, and days to discover which hidden variables the model depends on.
+
+This can make reported accuracy fall.
+
+That is useful information.
+
+A lower honest number is more valuable than a high number produced by leakage.
+
+The second rule is that preprocessing must be reproducible in both directions.
+
+Derived features should point back to the raw signals, and raw signals should be reprocessable with later pipelines. If an algorithm changes how spikes are detected, researchers should be able to determine whether a historical result survives rather than comparing scores produced by incompatible pipelines.
+
+This creates a version graph.
+
+One raw recording may produce several legitimate derived representations over time. The current classifier may use one. A regulatory submission may freeze another. A research team may test a third. The data system needs to know which conclusion came from which transformation.
+
+In this sense, neural data are less like a spreadsheet and more like source code.
+
+The original artifact should remain immutable enough that later interpretations can be audited.
+
+The third rule is that retention has to balance scientific value against cost and privacy.
+
+Keeping every raw channel forever may become expensive at scale. Imaging and electrophysiology can create enormous datasets. Patient-derived lines add genomic and clinical sensitivity. A platform needs a retention policy that distinguishes irreplaceable raw evidence from intermediate caches and easily regenerated features.
+
+Some data should be permanent.
+
+Some should expire.
+
+The decision should be made deliberately rather than by whichever disk fills first.
+
+The fourth rule is that the training set contains experiments, not just samples.
+
+Two recordings from different organoids can still be dependent if both were generated under the same adaptive policy. A model trained on an experiment-selection strategy can inherit that strategy’s blind spots. If the policy rarely explores certain stimulation regimes, the data cannot support strong claims there no matter how many recordings exist elsewhere.
+
+The dataset has a coverage map.
+
+A mature platform should know which parts of biological state space it has actually observed and where its models are extrapolating.
+
+This is especially important when AI begins selecting experiments. The system can create a self-reinforcing dataset in which frequently chosen conditions become better modeled and therefore more likely to be chosen again, while unusual conditions remain uncertain and invisible.
+
+Active learning needs occasional exploration not because exploration is fashionable, but because the alternative is an evidence monoculture.
+
+The fifth rule is that counterfactuals should be logged when they matter.
+
+If the platform considered three next experiments and chose one, the unchosen options can be recorded along with the decision basis. Researchers cannot observe the biological outcomes that never happened, but preserving the choice set helps audit the policy later. It reveals whether the system repeatedly avoided a class of experiments or changed its criteria over time.
+
+Decision provenance becomes a scientific artifact in its own right.
+
+These rules make the data layer look less glamorous than a proprietary neural foundation model.
+
+That is deliberate.
+
+The strongest data advantage in organic intelligence may come from disciplined structure: donor-aware splits, immutable raw signals, batch-aware validation, event histories, decision logs, and clear coverage of the experimental space.
+
+A company with those foundations can train better models later.
+
+A company without them can accumulate terabytes of beautifully confounded biology.
+
+The data layer is alive because the source is alive.
+
+It has to be organized with enough discipline that the model does not learn the laboratory instead of the nervous system.
