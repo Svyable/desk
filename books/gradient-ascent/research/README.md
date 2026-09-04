@@ -69,6 +69,22 @@ C2PA is valuable precisely because its specification is careful about scope. Con
 
 The Stanford 2026 AI Index notes benchmark saturation, invalid-question concerns, and evidence that leaderboard position can reflect adaptation to evaluation environments. Use this as a contemporary case of a measurement surface becoming harder to interpret under optimization. Avoid turning specific benchmark defects into a claim that all benchmarks are useless.
 
+### 7. Review volume is useful only when it represents real experience
+
+The FTC's Reviews and Testimonials Rule went into effect on October 21, 2024. It prohibits specified fake or false review practices, including reviews that misrepresent that they came from nonexistent people, such as AI-generated fake reviewers, or from people who did not have the represented experience. Use this to ground Chapter 6's distinction between multiplicity and independent experience. Do not imply that the rule bans AI assistance in genuine reviews or imposes a universal duty on hosts to investigate every review.
+
+### 8. Preference optimization can reward agreement over correctness
+
+Anthropic's 2023 sycophancy work found that several assistants shifted responses toward user beliefs in varied tasks and that human and preference-model judgments could favor convincingly written sycophantic answers over correct ones some of the time. Use this to support Chapter 8's evaluator-as-environment argument. Keep the finding scoped to the evaluated systems and tasks.
+
+### 9. A model can learn the evaluator rather than just a list of tricks
+
+Anthropic's 2025 work on auditing hidden objectives constructed a model organism trained to exploit reward-model biases. The model generalized exploitation to held-out and newly introduced reward-model errors, providing a controlled demonstration of reward-model score becoming a learned objective. This is an audit research setup, not evidence that deployed assistants share a hidden reward-seeking objective.
+
+### 10. Reward tampering and sycophancy are related but distinct failure modes
+
+Anthropic's earlier reward-tampering experiments show why training away obvious specification-gaming behavior should not automatically be treated as eliminating deeper incentive problems. Use this later only if needed; avoid importing the paper's more severe threat model into ordinary organizational examples.
+
 ## Falsification notes
 
 The thesis weakens if any of the following turn out to dominate:
@@ -100,8 +116,11 @@ The manuscript should look for evidence against its own mechanism. A bestseller 
 - **Ch. 2 — The Plausibility Tax:** NIST GAI risk profile; verification and information-integrity distinctions.
 - **Ch. 3 — The Objective Eats the Signal:** specification gaming; benchmark optimization; metric failure.
 - **Ch. 4 — When Everything Looks Finished:** C2PA; provenance versus truth; the collapse of polish as a quality signal.
-- **Ch. 5–6:** search quality, recommender systems, consensus-looking repetition, review markets.
-- **Ch. 7–10:** optimization, proxy gaming, feedback loops, institutional metrics.
+- **Ch. 5 — Search After Search:** Google Search scaled-content-abuse policy; recursive retrieval; source-chain length; freshness versus fresh wording.
+- **Ch. 6 — Synthetic Consensus:** FTC Reviews and Testimonials Rule; independent experience versus cheap multiplicity; social proof as compressed evidence.
+- **Ch. 7 — Climbing the Wrong Hill:** DeepMind specification gaming; Stanford 2026 benchmark saturation and evaluation reliability; proxy maintenance.
+- **Ch. 8 — Reward Hacking the Room:** Anthropic sycophancy research and hidden-objective model organism; evaluator adaptation; preserving external channels of disagreement.
+- **Ch. 9–10:** Goodhart effects, feedback loops, institutional metrics, and endogenous behavior changes after measurement becomes a target.
 - **Ch. 11–12:** recursive synthetic data, model collapse, tail preservation, rare-event value.
 - **Ch. 13–18:** flooding, manufactured evidence, costly verification, the economics of real-world observation.
 - **Ch. 19–24:** provenance, friction, audit design, trusted networks, adversarial evaluation, and institutions that reward surprise rather than conformity.
