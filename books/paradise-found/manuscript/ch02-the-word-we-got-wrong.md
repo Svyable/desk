@@ -210,6 +210,58 @@ It is that economics changed categories.
 
 The central political problem of industrial society had been how to distribute access to necessities in a world where producing them required enormous quantities of human labor, capital, land, energy, and coordination. As those costs fell, a new problem emerged: why continue exposing people to deprivation when the deprivation costs more to administer than the baseline costs to provide?
 
+There was one more distinction hiding inside that question.
+
+Economists separate goods in several ways, but two distinctions became especially useful to the abundance argument. One asks whether one person's use prevents another person's use. The other asks whether people can realistically be excluded from access.
+
+A sandwich is rivalrous. If I eat it, you cannot eat the same sandwich. A digital explanation can be far less rivalrous: the same underlying system can explain the same idea to another person without my explanation being taken away. A hospital bed is rivalrous at a particular moment. A vaccination protocol is not. A parcel of land is rivalrous. A software design for a standardized building component can be copied. Electricity is physically consumed, yet a large network can sometimes add one more ordinary household use at tiny marginal cost until the network approaches a constraint.
+
+This sounds like textbook classification. It became public policy.
+
+The closer an essential service moved toward low-rivalry provision, the stranger it became to administer exclusion unit by unit. A school district paying for a capable tutoring system did not save much by preventing the lowest-income student from asking one additional algebra question. A public agency that had already purchased model capacity did not necessarily save money by forcing a citizen to wait for a clerk to explain a form. A network with spare overnight electricity could lose less by serving a basic household load than by building an elaborate apparatus to deny it.
+
+But the same service could move back toward rivalry at the edge.
+
+A tutoring model may be cheap while a human specialist is not. A network may have surplus electricity at noon and scarcity during a heat-wave evening. A medical information service may be abundant while an operating room is full. The practical post-scarcity system therefore had to know not only *what* the service was, but *where the next unit became rivalrous again*.
+
+That boundary is where price starts making sense.
+
+The mistake of the old debate was trying to assign one label to an entire category. Health care is scarce. Education is abundant. Energy is scarce. Information is abundant.
+
+None of those sentences is precise enough.
+
+A category contains layers with different economics.
+
+The post-scarcity institutions that worked best decomposed the service. Make the cheap layer universal. Protect the genuinely scarce layer from waste. Preserve markets or queues where rivalry is real. Expand capacity where expansion is cheaper than rationing. Do not pretend a low-cost digital interface has eliminated the physical system behind it.
+
+This also changed the meaning of waste.
+
+Under scarcity, waste means using too much of the thing. Under abundance, waste can mean spending more to prevent use than the use itself costs.
+
+A city could spend money processing repeated eligibility proofs for a service whose marginal cost had fallen below the administrative cost of exclusion. A company could spend more on metering, billing, collections, customer service, fraud disputes, and disconnections than it saved by denying low-volume use. A hospital could save a small amount by withholding early routine care and later incur a much larger emergency cost.
+
+The accounting system can preserve scarcity after the economic reason has disappeared.
+
+This is why the threshold is behavioral and institutional rather than philosophical.
+
+We know a good has become abundant enough when ordinary people stop organizing their lives around conserving the next unit and institutions can stop organizing themselves around denying the next unit without creating a larger problem elsewhere.
+
+That is a much more demanding test than saying the technology is cheap.
+
+It forces the cost of exclusion onto the same ledger as the cost of provision.
+
+It forces externalities onto the ledger too. Unlimited water is not abundant if the aquifer is collapsing. Unlimited road use is not abundant if every driver's free trip makes everyone else's trip slower. Unlimited synthetic media is not benign if attention and trust become the damaged commons.
+
+The abundance boundary therefore cannot be drawn once and left alone.
+
+It moves with technology, infrastructure, behavior, ecology, and institutions.
+
+A service that deserves metering today may become sensible to bundle tomorrow. A resource that feels limitless may become scarce after demand expands. A positional good may become less positional if supply grows. An ecological sink can tighten even while production gets cheaper.
+
+Post-scarcity was not a destination beyond economics.
+
+It was economics finally becoming specific enough to ask what kind of scarcity it was dealing with.
+
 This is the moment the word finally became accurate enough to keep.
 
 Post-scarcity meant we were after mandatory scarcity.
