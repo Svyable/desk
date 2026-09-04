@@ -5,8 +5,10 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Complete draft |
+| **Status**    | Complete draft · Published on Shelf |
 | **Chapters**  | 20 / 20 |
+| **Publication** | First edition · September 2026 |
+| **Public Reader** | [Read the published Shelf edition →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
 ## Contents
 
@@ -35,4 +37,4 @@
 
 ## Publication note
 
-This Desk copy remains the canonical working edition and intentionally stays `Complete draft`. The first Shelf edition is a deliberate release snapshot frozen from Desk commit `47f7151f2bdd5809d92a57bcd95fa9a723150804` and released on September 2, 2026. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot. [Read the released Shelf edition →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/)
+This Desk copy remains the canonical working edition. The first Shelf edition was released on September 2, 2026 from Desk commit `47f7151f2bdd5809d92a57bcd95fa9a723150804`; its public author attribution was subsequently normalized to Sven Hardy Benson and reconciled back to Desk. Future Desk edits belong to a later edition and do not silently rewrite that released snapshot. [Read the released Shelf edition →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/)
