@@ -98,11 +98,47 @@ That is a higher bar than a press release promising innovation.
 
 It creates accountability for learning.
 
+Accountability begins before the result.
+
+A public experiment should be able to answer ordinary questions in ordinary language. What is changing? Who is affected? Why is the comparison necessary? What risks are known? Who will see the data? What happens if the result is ambiguous? When does the temporary policy end? Who decides whether it scales?
+
+Technical validity without public legibility is politically brittle.
+
+People do not need to become statisticians to have a legitimate interest in how public uncertainty is managed. The state acts with authority that private platforms and firms do not possess. Even low-risk experimentation can feel coercive when participation is not meaningfully optional.
+
+This makes transparency part of the treatment.
+
+If one community believes it has been selected because officials expect it to fail, trust can change behavior and contaminate the result. If staff know a program is temporary and expect cancellation, implementation can weaken. If beneficiaries fear that honest feedback will end a service they value, reported outcomes can change.
+
+Political meaning enters the causal system.
+
+This is another reason experimental government cannot be copied directly from online product testing. A button color does not normally have a constituency. A benefit does. A school policy becomes part of family planning. A transit route changes commutes. The announcement of a trial can alter the environment being measured.
+
+The design has to include those responses rather than treating them as noise.
+
 One underappreciated political value of pilots is that they make revision legitimate. A permanent policy announcement creates an expectation of persistence. A pilot contains an expiration date. Everyone knows the rule can change.
 
 Temporary institutions are easier to learn from because they have not yet become entitlements, contracts, or identities.
 
 Sunset clauses can play a similar role, though they are often ignored or routinely renewed. A real sunset forces reconsideration. Staged authorization requires evidence before expansion. Regulatory sandboxes permit bounded alternatives. Waivers allow local experiments while preserving a national baseline.
+
+These are legal mechanisms for keeping counterfactuals alive.
+
+The strongest versions do more than set a date. They specify what evidence will be reviewed at that date.
+
+Otherwise a sunset can become another ceremony. The program approaches expiration, beneficiaries mobilize, opponents mobilize, and the legislature reenacts the same argument with little better evidence than before. The clock created urgency but not learning.
+
+A learning sunset pairs time with a question.
+
+What must be known before renewal? Which outcomes matter? What data should be available? What would count as evidence for expansion, revision, or closure? If the answer is left until the deadline, political pressure can define the test retroactively.
+
+The same principle applies to emergency powers. Crises often require acting before strong evidence exists. That is not a failure of policy design. The danger is allowing emergency uncertainty to harden into permanent authority without a later burden of evidence.
+
+An emergency can justify speed.
+
+It should not automatically justify epistemic permanence.
+
+Temporary measures can include reporting requirements, independent review, explicit expiration, and a plan for learning once the immediate danger passes. The goal is not to paralyze response. It is to prevent “we had to act without knowing” from quietly becoming “therefore we no longer need to know.”
 
 These are legal mechanisms for keeping counterfactuals alive.
 
@@ -126,6 +162,18 @@ This is not to idealize political conflict. Partisan incentives can distort evid
 
 The unobserved world shrinks when many institutions can look.
 
+Independence also protects the archive.
+
+A government may be willing to publish a favorable pilot and less eager to preserve an embarrassing one. An opposition party may have the reverse incentive. A public repository, inspector general, legislative research service, academic partner, or other institution with continuity across administrations can preserve the record after the political owners change.
+
+This matters because future governments inherit policy debates without inheriting everyone who remembers the old evidence.
+
+A buried null result is politically convenient in the present and expensive in the future.
+
+The next administration may repeat the pilot. A different city may copy the idea. A vendor may sell the same intervention under a new name. Institutional memory becomes a public good.
+
+This is why negative policy evidence deserves durable publication when legal, privacy, and security constraints permit it.
+
 The politics of the untested also includes people excluded before policy formation. A benefit that requires a complicated application receives feedback from successful applicants. People who never apply may be absent from administrative data. A transit meeting hears from residents who have time and knowledge to attend. A public comment process records people aware of the rule. Participation is selected.
 
 Government can mistake the people it hears for the public.
@@ -147,6 +195,22 @@ Simplify the form for a randomized group. Send outreach to a sample. Change the 
 This is the humble face of experimental government.
 
 It does not replace grand political choice. It prevents unnecessary ignorance about how the machinery works.
+
+There is a final political asymmetry around evidence itself.
+
+A policy with a positive result gains a fact that supporters can use. A policy with a negative result creates a fact opponents can use. A policy that is never tested leaves both sides free to preserve their preferred story.
+
+Ambiguity can be politically valuable.
+
+That creates an incentive to remain uncertain when uncertainty protects a coalition.
+
+A mature democratic system needs institutions whose reward runs in the opposite direction: they gain legitimacy from reducing uncertainty even when the answer is inconvenient. Statistical offices, auditors, independent evaluators, courts, scientific agencies, and professional civil services can play parts of this role when their independence is protected.
+
+Their value is not neutrality in the impossible sense of having no values.
+
+It is that their institutional survival does not depend entirely on one policy being right.
+
+That separation creates space for facts that hurt everyone a little.
 
 The larger ambition is cultural. A democracy that cannot admit uncertainty will accumulate policies whose main evidence is their own survival. A democracy that treats every policy as provisional will exhaust citizens and undermine stability.
 
