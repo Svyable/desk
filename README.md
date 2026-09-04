@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 81 book projects · 41 complete drafts · 2 in revision · 38 drafting**
+> **Desk: 82 book projects · 42 complete drafts · 2 in revision · 38 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
-> **Release review queue: 5 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 41 in both Desk + Shelf · 41 Desk-only · 0 Shelf-only**
+> **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -109,6 +109,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 of 23 | 81,073 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | 85,169 | The book begins with the historical purpose of public works and the changing economics of intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right To Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,967 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
+| [**Robust**](books/robust/) | ✅ Complete draft | 31 of 31 drafted | — | The book’s central claim is that robustness is not resistance to change. It is the preservation of agency under surprise. | [Read →](https://svyable.github.io/desk/reader/#/b/robust/) |
 | [**Running On Full**](books/running-on-full/) | 🔁 Revision in progress | 24 of 24 | — | The working thesis is that AI compute is not the hardware you rent or buy. | [Read →](https://svyable.github.io/desk/reader/#/b/running-on-full/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 14 of 25 | 32,637 | The working thesis is simple: scale is not just more. A system that becomes ten times larger often becomes a different kind of system. Costs bend, bottlenecks move, coordination changes… | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
 | [**Second Guess**](books/second-guess/) | ✍️ Drafting | 20 of 20 | 77,252 | The working thesis is that automated recommendation has spread into aviation, medicine, criminal justice, finance, warehouses, and driving faster than anyone has taught the humans working… | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
