@@ -5,8 +5,8 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Complete first draft |
-| **Chapters**  | 20 of 20 drafted |
+| **Status**    | Expanded first draft |
+| **Chapters**  | 25 of 25 drafted |
 | **Format** | Book |
 | **Publisher** | Svyable |
 | **Edition** | First draft edition |
@@ -40,6 +40,11 @@ The book argues that modern life is becoming unusually good at recording, rankin
 - [x] [Ch 18 — Institutions That Can Pilot](manuscript/ch18-institutions-that-can-pilot.md)
 - [x] [Ch 19 — A Culture of Second Attempts](manuscript/ch19-a-culture-of-second-attempts.md)
 - [x] [Ch 20 — When It Counts](manuscript/ch20-when-it-counts.md)
+- [x] [Ch 21 — The Cost of Being Seen Learning](manuscript/ch21-the-cost-of-being-seen-learning.md)
+- [x] [Ch 22 — The Forgetting Machine](manuscript/ch22-the-forgetting-machine.md)
+- [x] [Ch 23 — The Last Human Repetition](manuscript/ch23-the-last-human-repetition.md)
+- [x] [Ch 24 — The Secret Curriculum](manuscript/ch24-the-secret-curriculum.md)
+- [x] [Ch 25 — The Architecture of Courage](manuscript/ch25-the-architecture-of-courage.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
@@ -50,6 +55,6 @@ The book argues that modern life is becoming unusually good at recording, rankin
 
 ## Publication note
 
-Desk remains the canonical working edition and intentionally remains `Complete first draft`. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `c5984a125bd65e38a24c24fe3bdf2e17a7466e8b` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
+Desk remains the canonical working edition. The first Sven Hardy Benson’s Shelf snapshot is frozen from Desk commit `c5984a125bd65e38a24c24fe3bdf2e17a7466e8b` for the September 2026 first-edition release transaction; later Desk revisions do not silently rewrite that released edition.
 
 - [Open the complete Desk draft](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/)
