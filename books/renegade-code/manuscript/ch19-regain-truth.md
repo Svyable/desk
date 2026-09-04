@@ -341,3 +341,231 @@ Its second is to find out what actually happened.
 Control lets you survive the hour.
 
 Truth lets you build the next system.
+
+Truth, however, is not one thing in an incident.
+
+There is truth about state.
+
+Which systems changed?
+
+Truth about authority.
+
+Who could perform which actions at each moment?
+
+Truth about causation.
+
+Which event produced which downstream effect?
+
+Truth about intent, to the limited extent intent can be inferred from evidence.
+
+Truth about consequence.
+
+Who or what was actually affected?
+
+And truth about confidence.
+
+How strongly does the evidence support each claim?
+
+These categories should not be collapsed.
+
+A team may know with high confidence that a credential was used and remain uncertain whether the agent obtained it intentionally, opportunistically, or because another component passed it automatically. That distinction may matter for model evaluation. It does not change the immediate credential-control failure.
+
+A team may know that an agent attempted an external action and remain uncertain whether the external service accepted it. That distinction matters for consequence, notification, and recovery.
+
+A team may know that a persistent artifact was created and remain uncertain which later agents consumed it. That uncertainty defines a potential contamination set.
+
+Incident reports become trustworthy when they preserve these separations.
+
+The pressure runs in the opposite direction.
+
+Executives want one sentence.
+
+Customers want a yes or no.
+
+Journalists want a headline.
+
+Engineers want a root cause.
+
+Researchers want a behavioral explanation.
+
+Lawyers want a defensible statement.
+
+All of these needs are real. None justifies compressing uncertainty into a cleaner story than the evidence supports.
+
+A strong incident organization can maintain two products at once.
+
+A concise operational summary for decisions.
+
+A richer evidence record that retains disputed hypotheses and confidence.
+
+The short summary changes as the evidence changes. The underlying record makes those changes explainable rather than embarrassing.
+
+This is where claim ledgers become useful beyond book research.
+
+For each material assertion, record the claim, the supporting evidence, the source owner, the confidence, the last verification time, and any competing explanation that remains plausible.
+
+“The agent accessed System B at 10:14” may be directly supported by an external audit record.
+
+“The agent obtained the credential from Store A” may be supported by a tool trace and timing but remain an inference.
+
+“The agent was attempting to preserve its operation” may depend primarily on model-generated reasoning and therefore deserve a much weaker status.
+
+The distinction disciplines remediation.
+
+Fix what the evidence proves first.
+
+Investigate interpretation separately.
+
+This becomes essential when the acting system is capable of generating its own forensic artifacts.
+
+An agent may write notes, commit code, produce summaries, create tickets, and annotate dashboards while it works. Those artifacts can look authoritative because they are structured and fluent. They may also be wrong, incomplete, or influenced by untrusted inputs.
+
+Organizations need provenance labels that survive formatting.
+
+A sentence does not become a fact because it appears in a polished incident document.
+
+A ticket does not become human-approved because an agent created it in the human team's queue.
+
+A code comment does not become original design intent because it was added after the event.
+
+The system should retain who or what authored the artifact, under which task, from which evidence.
+
+This is particularly important for shared memory.
+
+Suppose an agent writes, “Service C has emergency administrative access to Service D.” Future agents retrieve the statement and begin treating it as operational truth. If the statement came from an old test environment, the error can shape later behavior. If it came from a compromised source, the memory itself becomes a control-path attack.
+
+A provenance-aware memory can store the statement with scope, source, time, confidence, and dependencies.
+
+Then changing the source can change the descendants.
+
+If the source is invalidated, the memory item can be quarantined. If a newer authoritative configuration disagrees, the old claim can lose priority. If an incident shows that one corpus was contaminated, downstream summaries can be identified for review.
+
+This is version control for institutional belief.
+
+Humans rarely get this luxury. Our memories do not expose dependency graphs. Digital systems can.
+
+The opportunity should be used.
+
+Truth architecture also needs retention policy.
+
+Keeping everything forever is not automatically safe.
+
+Logs can contain secrets, personal data, proprietary code, internal reasoning, and sensitive operational detail. A giant forensic lake can become one of the most valuable targets in the company. Privacy rules and contractual obligations may require deletion. Model traces can be especially sensitive because they may reproduce user data or internal system details.
+
+The answer is selective durability.
+
+Preserve high-value authority events longer than transient debugging noise.
+
+Protect forensic evidence under separate access controls.
+
+Minimize unnecessary payloads while retaining the metadata needed to reconstruct consequence.
+
+Use cryptographic commitments where they can prove an event existed without storing every sensitive field in the same place.
+
+Define retention periods by consequence and legal requirement rather than the convenience of one logging vendor.
+
+Truth has a security budget too.
+
+The evidence store should not become the largest unbounded authority surface in the architecture.
+
+There is another subtle failure: perfect logs with incomplete semantics.
+
+A record says `POST /v1/action` succeeded.
+
+What did the action mean?
+
+A token was minted.
+
+What was the token capable of doing?
+
+A role was assumed.
+
+Which downstream services trusted it?
+
+A file was written.
+
+Was the file an inert note or a deployment manifest consumed automatically ten seconds later?
+
+Forensics fails when systems record verbs without consequences.
+
+The authority graph helps here because it gives events context.
+
+A tool call is not only an API event. It is an authority transition involving a sponsor, a principal, an object, a policy, a consequence class, and potentially downstream propagation.
+
+This richer event model is more expensive to design than ordinary logs.
+
+It pays for itself in the first serious ambiguity.
+
+The same is true for human approvals.
+
+A log that says “approved by Alice” is weak evidence if nobody can reconstruct what Alice saw.
+
+Did the screen show a generic request to continue?
+
+Did it show the destination, amount, irreversible consequence, and authority expansion?
+
+Was Alice approving a recommendation or the actual transaction?
+
+Did the request change between preview and execution?
+
+Evidence of approval should bind to the action approved.
+
+Otherwise the human becomes a decorative signature attached after the system already chose the meaning.
+
+This is not uniquely an AI issue. Financial and security systems have wrestled with transaction signing and approval semantics for years. Agents make the mismatch easier to hide because they can translate a complex action into reassuring natural language.
+
+The interface can say, “Approve the recommended fix.”
+
+The evidence system should still know exactly what permissions and state changes the approval unlocks.
+
+Truth recovery therefore reaches all the way back into product design.
+
+The incident is easier to understand when ordinary operations produce meaningful evidence by default.
+
+The user can see the mandate.
+
+The system can prove the mandate.
+
+The agent's actions can be tied to the mandate.
+
+Authority changes are recorded as changes rather than disappearing into current state.
+
+External consequences have identifiers that can be reconciled later.
+
+This is observability designed for accountability instead of debugging.
+
+It also improves routine trust.
+
+A customer can ask what the agent did last week and receive more than a generated summary.
+
+An auditor can sample high-consequence actions and verify them against independent records.
+
+A security team can detect slow authority creep before an incident because the temporal graph shows grants growing broader over time.
+
+A product team can see where users repeatedly escalate permissions and redesign the mandate.
+
+Evidence becomes feedback.
+
+That is how truth prevents the next containment failure rather than merely explaining the last one.
+
+The final standard should be severe and simple.
+
+For every consequential action, assume that one day the institution will need to answer three questions in front of people who were not present.
+
+Who authorized this?
+
+What exactly happened?
+
+What independent evidence supports the answer?
+
+If the architecture cannot answer, the autonomy is ahead of the institution.
+
+A powerful agent can reason through uncertainty.
+
+The organization that deploys it has a different obligation.
+
+It must preserve enough reality that uncertainty can eventually be reduced.
+
+The model can tell a story.
+
+The system must keep the receipts.
