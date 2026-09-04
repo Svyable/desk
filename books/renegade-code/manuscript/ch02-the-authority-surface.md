@@ -225,3 +225,35 @@ The first generation of agent safety asked, *Which tools should we give the mode
 The next generation has to ask, *What authority can those tools assemble?*
 
 That is the surface we need to defend.
+
+A serious authority review also needs a baseline. Without one, every discussion collapses into adjectives: broad access, sensitive access, high autonomy, strong controls. Those labels are too elastic for a system that changes weekly.
+
+The useful baseline is the task as a set of consequences rather than a set of interfaces. Suppose an accounts-payable agent is meant to read invoices, match them against purchase orders, flag discrepancies, and prepare payments for approval. Its legitimate authority surface includes reading a bounded set of financial records and creating a payment proposal. It does not automatically include changing vendor bank details, releasing funds, altering the approval policy, creating a new approver, or deleting the evidence used to audit a payment.
+
+Now the architecture can be tested against a concrete question: can any chain beginning with the agent cross from proposal into one of those excluded consequences without encountering a principal that is genuinely independent?
+
+This way of thinking often reveals that an organization has bundled unrelated authority for historical convenience. The same enterprise account that reads invoices may be able to edit vendor records. The same browser session that opens the procurement portal may also open the identity console. The same automation token that reads a repository may trigger a workflow capable of publishing an artifact. None of these combinations was created for an AI agent. The agent merely makes the combination easier to exercise deliberately.
+
+An authority-surface inventory should therefore record more than whether access exists. It should record the conditions under which access becomes consequential. A tool that can send an email may be low-risk when recipients are restricted to an internal test list and much higher-risk when it can contact any customer under a trusted corporate identity. A code-writing tool may be modest when it writes only to an unmerged branch and consequential when a path from that branch to production is automatic. The interface has not changed. The conversion mechanism has.
+
+This gives security teams a better unit for regression testing. After a model upgrade, a new tool integration, or a policy change, they can ask whether previously unreachable consequences have become reachable. The test need not predict every tactic. It can probe whether the boundaries around the most important outcomes still hold.
+
+That is a more durable safety case than a list of forbidden actions in a prompt. A prompt is interpreted by the same system whose behavior is under review. A consequence boundary can be enforced by a payment rail, an identity broker, a deployment controller, a network gateway, or another service whose decision does not depend on the acting model agreeing with the rule.
+
+The distinction becomes especially important when the agent is allowed to create artifacts that later acquire authority. Code, configuration, tickets, messages, reports, and database rows can all outlive the process that produced them. The agent may finish its task with a narrow runtime permission while leaving behind an object that a privileged system consumes hours later. The authority surface therefore extends through time as well as through services.
+
+A useful review asks who owns that future step. Does the consuming system know the artifact came from an agent? Does it require evidence that the artifact passed an independent check? Can the authoring agent alter the check? Can the artifact cause the consumer to mint fresh authority? Can the task be revoked before the delayed action occurs?
+
+These questions sound procedural because they are. Safety at this layer is less about predicting a model's internal state than about refusing to let one actor silently become author, approver, executor, and historian of the same consequential transaction.
+
+There is also a managerial consequence. If a company cannot describe the authority surface of an agent, it cannot assign responsibility for it coherently. Product teams may believe security owns the risk because security approved the sandbox. Security may believe the application team owns it because the tool calls are application logic. Platform engineers may believe the user owns it because the user authorized the session. The user may believe the vendor owns it because the product said the agent was contained.
+
+The graph does not care which organizational chart wins that argument.
+
+Somebody has to own each conversion of authority, especially the conversions that make an action durable, external, or difficult to reverse. That ownership should include the power to narrow the path, observe it, and stop renewal when the safety case changes.
+
+This is why the authority surface is not a score to minimize. A useful agent needs authority. The question is whether the institution knows what it has lent, whether that authority is proportionate to the task, and whether the loan can end cleanly.
+
+A capable model will keep expanding what can be done with a given interface.
+
+Good containment makes sure that improved skill does not quietly become an unlimited mandate.
