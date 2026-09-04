@@ -49,9 +49,21 @@ The facility systems that produce the conditions required by the visible product
 ### Geography of precision
 The regional combination of utilities, climate, technical labor, suppliers, maintenance culture, infrastructure, and institutional competence that determines how easily a place can host demanding controlled environments.
 
+### Heat debt
+The book’s framing for the thermal-management obligation created when useful activity concentrates energy conversion into a place, device, rack, vehicle, building, or process. The term does not imply that all systems have the same heat path, timescale, or recoverable waste-heat value.
+
+### Maintenance paradox
+The book’s framing for a familiar reliability problem: successful preventive maintenance can look economically invisible because the desired output is often an interruption that never occurs. It is a narrative label, not an established maintenance-engineering term in this manuscript.
+
+### Planetary cleanroom
+A deliberately cautionary analogy. Earth is not a controlled environment or engineered facility. The phrase is used to contrast the relative legibility of bounded local control with the coupling, governance, uncertainty, and lack of an external service boundary at planetary scale.
+
+### Last free input
+The book’s name for an environmental or institutional background condition that an engineered system treats as available until scarcity, variability, or failure makes the dependency visible. The framing is intended to prompt dependency accounting, not to imply that such inputs literally have zero economic cost.
+
 ---
 
-## Twelve field tests for readers
+## Sixteen field tests for readers
 
 These are observation prompts, not laboratory experiments.
 
@@ -67,6 +79,10 @@ These are observation prompts, not laboratory experiments.
 10. **Ask how failure looks.** Does the system fail visibly, alarm first, degrade gradually, or become untrustworthy before anyone can tell?
 11. **Ask who owns the setpoint.** In a shared building, who gets to define acceptable temperature, ventilation, humidity, or operating hours?
 12. **Draw the nested climate.** Pick one valuable object and map every environment it passes through from production to use.
+13. **Find the heat debt.** Pick one concentrated capability—a server rack, fast charger, kitchen, laboratory instrument, or refrigeration plant—and trace the path by which its heat is moved, stored, rejected, or reused.
+14. **Find the night shift.** Ask who notices when the local environment drifts, who is allowed to intervene, what knowledge is written down, and what happens if the experienced maintainer is unavailable.
+15. **Find the boundary of control.** For one local intervention, identify what sits outside its chosen systems boundary: waste heat, water, power, emissions, maintenance, upstream materials, or downstream consequences.
+16. **Find the free input.** Choose one machine or institution and list the background conditions it assumes will remain dependable. Then ask which assumption could be reduced through robustness rather than tighter control.
 
 ---
 
@@ -74,7 +90,9 @@ These are observation prompts, not laboratory experiments.
 
 The strongest version of this book would be weakened by evidence that advanced technologies systematically become less dependent on controlled environments as they improve; that environmental-control costs shrink to irrelevance across precision industries; that manufacturing location is largely insensitive to environmental infrastructure; or that new frontier processes increasingly tolerate ordinary ambient variation without specialized support.
 
-The more modest thesis can survive those counterexamples: controlled environments are already a major enabling layer for many consequential sectors, and treating them as infrastructure reveals dependencies that ordinary product-centric analysis misses.
+The expanded edition makes that countercase part of the argument rather than leaving it only in the notes. Chapter 16 explicitly treats robustness as an alternative to tighter environmental control at the margin.
+
+The more modest thesis can survive those counterexamples: controlled environments are already a major enabling layer for many consequential sectors, and treating them as infrastructure reveals dependencies that ordinary product-centric analysis can miss.
 
 The publication draft should prefer the modest thesis whenever evidence does not support the strongest one.
 
@@ -86,4 +104,4 @@ The central metaphor is simple enough to remember:
 
 **Every advanced system has a weather forecast.**
 
-The serious work begins after the metaphor, when we ask what the forecast actually contains, who creates those conditions, what they cost, how they fail, and what new capabilities become possible when a piece of the world can be held inside specification.
+The serious work begins after the metaphor, when we ask what the forecast actually contains, who creates those conditions, what they cost, how they fail, what larger systems they depend on, when greater robustness is preferable to tighter control, and what new capabilities become possible when a piece of the world can be held inside specification.

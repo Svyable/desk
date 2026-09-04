@@ -46,15 +46,15 @@ A farm inherits soil, water, temperature, precipitation, pests, sunlight, and se
 
 A factory inherits the reliability of the grid unless it builds another grid inside the fence.
 
-Engineering is partly the art of choosing which inputs are cheap enough to remain external.
+Engineering is partly the art of choosing which inputs are cheap and dependable enough to remain external.
 
-When an external input becomes unreliable, the system has three choices.
+When an external input becomes unreliable, the system has three broad choices.
 
 Adapt to variation.
 
 Manufacture the input.
 
-Or stop depending on it.
+Or reduce dependence on it.
 
 This triad explains a surprising amount of technological history.
 
@@ -78,7 +78,7 @@ Grid outages stopped critical equipment.
 
 We accepted downtime, added storage, installed generators, created redundant feeds, or built local power systems.
 
-Every time civilization manufactures an input that nature once supplied, capability becomes more portable and infrastructure becomes more complicated.
+When civilization manufactures an input that the surrounding environment once supplied directly, capability can become more portable while infrastructure becomes more complicated.
 
 This is the bargain at the heart of the book.
 
@@ -96,7 +96,7 @@ It now depends on life support with stakes no terrestrial building usually faces
 
 A data center can create a tightly managed thermal environment in many climates.
 
-It now depends on enormous systems for power and heat rejection.
+It now depends on substantial systems for power and heat rejection.
 
 The external constraint becomes an internal obligation.
 
@@ -168,9 +168,9 @@ The point is not that every dependency must be internalized.
 
 That would be absurd.
 
-A civilization in which every building generated its own power, purified its own water, fabricated its own parts, grew its own food, manufactured its own gases, and maintained every possible backup would collapse under the weight of self-sufficiency.
+A civilization in which every building generated its own power, purified its own water, fabricated its own parts, grew its own food, manufactured its own gases, and maintained every possible backup would pay an enormous price for self-sufficiency.
 
-Interdependence is efficient.
+Interdependence can be efficient.
 
 The goal is not independence.
 
@@ -224,7 +224,7 @@ The best climate system may be the one that disappears because the product becam
 
 The best cold chain may be a formulation that no longer needs to stay as cold.
 
-The best cooling innovation may be a processor that wastes less energy as heat.
+The best cooling innovation may be a processor or computing architecture that performs more useful work for the same thermal burden.
 
 The best building may be one that remains safe longer without mechanical intervention.
 
@@ -232,13 +232,13 @@ The best factory may be one whose precision comes from process design rather tha
 
 Control and robustness are not enemies.
 
-They are substitutes at the margin.
+They can substitute for one another at the margin.
 
 Civilization advances by learning when to use each.
 
-At first, the environment is free.
+At first, the environment is treated as free.
 
-Then the environment becomes a constraint.
+Then an environmental condition becomes a constraint.
 
 Then we build a machine to control it.
 

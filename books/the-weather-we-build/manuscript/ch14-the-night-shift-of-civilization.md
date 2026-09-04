@@ -164,7 +164,7 @@ That alarm often follows a harmless sequence, but this other alarm means get the
 
 That valve is labeled correctly, but the label does not explain what will happen downstream if you close it too quickly.
 
-Organizations lose this knowledge through turnover, outsourcing, poor documentation, rushed handovers, and the assumption that automation has made memory obsolete.
+Organizations can lose this knowledge through turnover, outsourcing, poor documentation, rushed handovers, and the assumption that automation has made memory obsolete.
 
 Automation changes memory.
 
@@ -172,7 +172,7 @@ It does not eliminate it.
 
 A sophisticated building-management system can record more data than any human operator could once observe. But data without interpretation is a warehouse of weather.
 
-Someone still has to know what normal looks like.
+Someone still has to know what normal looks like, whether that judgment sits with an operator, an engineering team, or an automated diagnostic system whose own limits are understood.
 
 This is why the night shift is also a culture.
 
@@ -212,17 +212,17 @@ Structurally, support is the thing holding something up.
 
 Remove it and the hierarchy becomes clear.
 
-The future will need more people who understand the interface between physical plant and digital control, between refrigeration and networks, between sensors and process requirements, between electrical systems and thermal systems, between environmental standards and real rooms full of imperfect equipment.
+As the climate stack becomes more complex, its reliability increasingly depends on competence across interfaces: physical plant and digital control, refrigeration and networks, sensors and process requirements, electrical systems and thermal systems, environmental standards and real rooms full of imperfect equipment.
 
-These jobs will become more important as the climate stack becomes more complex.
+Automation can move work across those interfaces.
 
-They will also become harder to fake.
+It does not make the interfaces disappear.
 
 A language model can explain a compressor.
 
-It cannot tighten a loose terminal in a plant room at three in the morning unless civilization builds a physical system capable of doing that too.
+A physical intervention still requires a physical system capable of performing it.
 
-Even then, somebody will maintain the robot.
+And whatever performs the work—person, machine, or some combination—belongs to another layer that must itself remain reliable.
 
 There is always another night shift underneath the night shift.
 

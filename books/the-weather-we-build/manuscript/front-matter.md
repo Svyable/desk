@@ -2,11 +2,11 @@
 
 *How Manufactured Microclimates Became the Hidden Infrastructure of Civilization*
 
-*A book about cleanrooms, cold chains, dry rooms, greenhouses, operating theaters, data centers, spacecraft—and the shrinking band of conditions inside which modern life works*
+*A book about cleanrooms, cold chains, dry rooms, greenhouses, operating theaters, data centers, spacecraft—and the hidden environmental conditions inside which modern life works*
 
 **Sven Hardy Benson**
 
-*First Desk draft — September 2026*
+*Expanded Desk draft — September 2026*
 
 ---
 
@@ -24,7 +24,7 @@ Every device has a temperature at which it behaves, a moisture level it can tole
 
 At the edge of technology, the room begins to merge with the machine.
 
-The air handler becomes part of the semiconductor tool. The chiller becomes part of the data center. The freezer network becomes part of the medicine. The dry room becomes part of the battery cell. The greenhouse becomes part of the crop. The clean bench becomes part of the experiment. The thermal loop becomes part of the spacecraft. The floor becomes part of the microscope because footsteps can become data corruption.
+The air handler becomes part of the semiconductor tool. The chiller becomes part of the data center. The freezer network becomes part of the medicine. The dry room becomes part of the battery cell. The greenhouse becomes part of the crop. The clean bench becomes part of the experiment. The thermal loop becomes part of the spacecraft. The floor becomes part of the microscope because footsteps can become measurement noise.
 
 This book calls that surrounding layer **manufactured weather**: deliberately produced local conditions that make a process, organism, instrument, material, or machine possible.
 
@@ -38,15 +38,15 @@ For most of human history, climate set the operating envelope and civilization i
 
 Then we became better at carrying small climates with us.
 
-A heated room in winter. An icehouse in summer. A refrigerated railcar. An operating theater with filtered air. A greenhouse in a cold latitude. A refrigerated truck crossing a desert. A chip fab with air cleaner than the outdoor world. A battery line drier than almost any naturally inhabited place. A spacecraft where pressure, oxygen, carbon dioxide, temperature, and moisture are continuously manufactured because outside there is no breathable weather at all.
+A heated room in winter. An icehouse in summer. A refrigerated railcar. An operating theater with filtered air. A greenhouse in a cold latitude. A refrigerated truck crossing a desert. A chip fab with air cleaner than the outdoor world. A battery line drier than almost any naturally inhabited place. A spacecraft where pressure, oxygen, carbon dioxide, temperature, and moisture are actively managed because outside there is no breathable weather at all.
 
-The better we become at making these small climates, the stranger the geography of civilization becomes. A food can be grown out of season. A medicine can survive a continent. A microscopic pattern can be printed reliably. A city can host people in heat that would otherwise make ordinary work difficult. A server can calculate while throwing off more heat than the room could naturally absorb. A laboratory can create a repeatable world for an experiment that depends on repeatability.
+The better we become at making these small climates, the stranger the geography of civilization becomes. A food can be grown out of season. A medicine can survive a continent. A microscopic pattern can be printed reliably. A city can host people in heat that would otherwise make ordinary work difficult. A server can calculate while releasing heat the room must continuously manage. A laboratory can create a repeatable world for an experiment that depends on repeatability.
 
 That is power.
 
 It is also dependency.
 
-The controlled room needs electricity. Filters clog. seals leak. chillers fail. sensors drift. refrigerants escape. backup generators run out of fuel. water systems foul. maintenance schedules slip. a door stays open too long. a worker carries contamination on a sleeve. a storm knocks out the grid. a drought changes the economics of cooling. a heat wave shrinks the margin between what the outside world delivers and what the inside world must overcome.
+The controlled room needs electricity. Filters clog. Seals leak. Chillers fail. Sensors drift. Refrigerants leak. Backup generators run out of fuel. Water systems foul. Maintenance schedules slip. A door stays open too long. A worker carries contamination on a sleeve. A storm knocks out the grid. A drought changes the economics of cooling. A heat wave shrinks the margin between what the outside world delivers and what the inside world must overcome.
 
 The room can be more fragile precisely because it is more capable.
 
