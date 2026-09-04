@@ -264,6 +264,42 @@ Some fraction of experiments may need to remain exploratory rather than optimize
 
 Automation should increase attention, not narrow it.
 
+There is another form of surprise worth protecting: **negative operational knowledge**.
+
+Self-driving-lab rhetoric naturally emphasizes discoveries—the molecule selected, the phenotype rescued, the protocol optimized. But a large fraction of the value in an automated wetware facility may come from learning what *not* to do. Which stimulation regimes destabilize a culture. Which reagent combinations increase variance. Which early quality metrics look promising but fail to predict later function. Which machine-learning features collapse on a new donor line. Which maintenance shortcuts create slow drift rather than immediate failure.
+
+These negative results are unusually valuable because they are expensive to rediscover biologically.
+
+A software bug can often be reproduced cheaply. A failed ninety-day organoid process may take another ninety days to confirm. A hybrid lab should therefore treat operational failures as first-class data rather than discard them as unpublishable noise.
+
+The institutional memory of failed runs can become part of the platform moat.
+
+That creates a case for a different kind of laboratory knowledge base. Every deviation, intervention, failed batch, rejected sample, unexpected classifier behavior, and recovery attempt can be linked to the biological provenance and software state that produced it. Future experiments can query not only successful protocols but nearby failures.
+
+The system begins to learn from its own history in an organizational sense.
+
+This is where generative AI may become useful in a less glamorous role than hypothesis invention. A model can help investigators search thousands of past deviations for similar patterns, surface which maintenance events preceded a phenotype, or summarize what changed between two assay generations. It can make operational memory queryable.
+
+The constraint is provenance. If the underlying logs are incomplete or the model cannot distinguish verified events from narrative annotations, fluent summaries can manufacture causality. The AI layer should point scientists back to the trace, not replace it.
+
+The hybrid lab therefore needs a hierarchy of records.
+
+Raw instrument events at the bottom.
+
+Validated biological and operational metadata above them.
+
+Derived features and model outputs above that.
+
+Human interpretation above that.
+
+Generative summaries at the top.
+
+Each layer should be able to descend to the evidence beneath it.
+
+This is the opposite of a chatbot pasted onto a laboratory database.
+
+It is an evidence stack.
+
 The hybrid lab will also change publication.
 
 A paper may increasingly describe a platform run rather than a manually executed experiment. Reproducibility could improve if protocols are machine-readable and can be replayed remotely. A published stimulation script, organoid specification, and analysis pipeline could allow another group to rerun the experiment on the same class of infrastructure.
