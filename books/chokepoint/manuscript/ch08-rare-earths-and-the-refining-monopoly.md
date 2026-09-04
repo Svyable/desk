@@ -294,7 +294,7 @@ That price can look absurd beside Chinese spot material in a calm market.
 
 Then the export license does not arrive.
 
-In April 2025, China imposed export controls on seven heavy rare earths, related compounds, and some magnets.
+On April 4, 2025, China's Ministry of Commerce and customs authority put export controls on seven categories of medium- and heavy-rare-earth-related items: samarium, gadolinium, terbium, dysprosium, lutetium, scandium, and yttrium. The notice covered specified metals, alloys, oxides, compounds, targets, and—within some categories—permanent-magnet materials.
 
 The IEA later reported that export volumes fell sharply in April and May. Automakers outside China struggled to secure magnets. Some reduced production or temporarily stopped lines. Licenses were eventually granted and shipments recovered.
 
