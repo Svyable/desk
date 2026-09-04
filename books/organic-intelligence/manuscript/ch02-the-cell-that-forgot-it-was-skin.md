@@ -164,8 +164,56 @@ Once a neural model is used to stop a drug program, stratify patients, or suppor
 
 It becomes causal.
 
+A biological bill of materials also changes how a platform should handle reference lines.
+
+A single “healthy control” is not a neutral point on the map. One donor can carry private variants that affect excitability, differentiation, metabolism, or stress response. If every experimental line is compared with one favorite control because that control differentiates beautifully, the platform can turn one person’s biology into a universal baseline without realizing it.
+
+A serious reference system needs breadth.
+
+Some uses will require panels of control donors rather than one line. Others will rely on isogenic pairs to answer a narrow causal question. Still others may use engineered reference lines with defined perturbations so the assay can be checked against known functional effects. The reference architecture should match the claim being made.
+
+This is where biobanks become more than storage facilities.
+
+A future neural-model biobank could contain deeply characterized lines whose value comes from longitudinal performance across protocols. Researchers would know not only the donor metadata and genotype, but how the line tends to differentiate, which neural identities it produces reliably, how its network activity matures, which quality-control thresholds predict success, and where it tends to fail.
+
+That history can save enormous experimental time.
+
+It can also create a hidden standardization bias. Lines that are easy to culture will be overrepresented because they generate cleaner data and lower costs. Difficult lines may be dropped even if the difficulty reflects meaningful biology. A foundry optimizing only for yield can accidentally select a population of cells that behaves well in the factory rather than a population that represents people well.
+
+The distinction is subtle and central.
+
+Manufacturing wants cooperative biology.
+
+Medicine needs representative biology.
+
+Those goals overlap imperfectly.
+
+One way to protect the second goal is to track failure by donor and subgroup rather than treating failed differentiations as anonymous waste. If certain genetic backgrounds consistently show lower yield under one protocol, the right response may be to adapt the protocol rather than exclude the lines. A platform that boasts ninety-percent yield after discarding every difficult donor has improved manufacturing and damaged representativeness.
+
+The biological bill of materials should therefore include what never became a finished organoid.
+
+Attrition is data.
+
+So is clone selection. So is passage history. So is the fact that one line required a different schedule to reach the same functional range.
+
+This makes the cell-source layer look less like raw material procurement and more like model governance.
+
+The platform has to decide which biological differences it will standardize away, which it will preserve, and which it will make visible to the user.
+
+That decision is upstream of every later claim about personalized medicine.
+
+It is also why patient-specific wetware will probably coexist with standardized reference wetware rather than replace it. A drug developer may want stable generic neural substrates for routine safety assays and donor-diverse or patient-derived models for questions where heterogeneity matters. The same company can rationally operate both.
+
+The first layer of the stack therefore forks before the neurons ever fire.
+
+One branch asks for interchangeability.
+
+The other asks for identity.
+
+Organic intelligence becomes biotechnology when the system knows which branch it is on.
+
 The skin cell did not literally forget what it had been.
 
 Scientists changed which parts of its biological possibility were accessible.
 
-The biotech stack begins by keeping track of what was lost, what was preserved, and what was built afterward.
+The biotech stack begins by keeping track of what was lost, what was preserved, what was selected, and what was built afterward.
