@@ -18,6 +18,7 @@ This file is the low-noise machine-readable map of the Desk. Working drafts can 
 
 The canonical title, author, drafting status, chapter count, and manuscript contents for each project live in that book's README.
 
+- [Abdicating Intelligence](https://svyable.github.io/desk/books/abdicating-intelligence/README.md)
 - [Adjacency](https://svyable.github.io/desk/books/adjacency/README.md)
 - [Aggregate, Consolidate, Innovate](https://svyable.github.io/desk/books/aggregate-consolidate-innovate/README.md)
 - [Agentile](https://svyable.github.io/desk/books/agentile/README.md)
