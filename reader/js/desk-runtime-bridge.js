@@ -17,6 +17,46 @@ function asUrl(value, base) {
   }
 }
 
+export function parsePortalCatalogManifest(value) {
+  let manifest = value;
+  if (typeof value === 'string') {
+    try {
+      manifest = JSON.parse(value);
+    } catch {
+      return null;
+    }
+  }
+  if (!manifest || manifest.version !== 1 || !Array.isArray(manifest.books)) return null;
+  const slugs = [];
+  for (const raw of manifest.books) {
+    const slug = String(raw || '').trim();
+    if (!/^[a-z0-9][a-z0-9-]*$/.test(slug) || slug === '_TEMPLATE') continue;
+    if (!slugs.includes(slug)) slugs.push(slug);
+  }
+  return slugs;
+}
+
+export function applyPortalCatalogManifest(markdown, manifest) {
+  const slugs = parsePortalCatalogManifest(manifest);
+  if (slugs === null) return markdown;
+
+  const rows = slugs.map((slug) => `- [${slug}](books/${slug}/)`).join('\n');
+  const body = rows ? `\n\n${rows}\n` : '\n';
+  const heading = /^##\s+The books\s*$/im;
+  const match = heading.exec(markdown);
+  if (!match) {
+    const spacer = markdown.endsWith('\n') ? '\n' : '\n\n';
+    return `${markdown}${spacer}## The books${body}`;
+  }
+
+  const start = match.index + match[0].length;
+  const next = /^##\s+/m.exec(markdown.slice(start));
+  const end = next ? start + next.index : markdown.length;
+  const suffix = markdown.slice(end);
+  const separator = suffix && !suffix.startsWith('\n') ? '\n' : '';
+  return `${markdown.slice(0, start)}${body}${separator}${suffix}`;
+}
+
 function statusOf(error) {
   const status = Number(error?.status);
   return Number.isFinite(status) ? status : null;
@@ -285,6 +325,31 @@ function rewriteFetchInput(input, global, options) {
   return rewritten;
 }
 
+function isDeskPortalReadme(input, options) {
+  const url = asUrl(input, options.base);
+  const portal = asUrl(options.portalUrl, options.base);
+  return !!url && !!portal && url.origin === portal.origin && url.pathname === portal.pathname;
+}
+
+async function overlayCatalogManifest(response, nativeFetch, global, options) {
+  if (!response?.ok || typeof global.Response !== 'function') return response;
+  let manifestResponse;
+  try {
+    manifestResponse = await nativeFetch(options.catalogUrl, { cache: 'no-cache' });
+  } catch {
+    return response;
+  }
+  if (!manifestResponse.ok) return response;
+
+  const [markdown, manifest] = await Promise.all([response.text(), manifestResponse.text()]);
+  const body = applyPortalCatalogManifest(markdown, manifest);
+  return new global.Response(body, {
+    status: response.status,
+    statusText: response.statusText,
+    headers: response.headers,
+  });
+}
+
 function installManifest(global, moduleUrl) {
   const link = global.document?.querySelector?.('link[rel="manifest"]');
   if (link) link.href = deskManifestUrl(moduleUrl);
@@ -293,7 +358,12 @@ function installManifest(global, moduleUrl) {
 function installFetchBridge(global, options) {
   if (typeof global.fetch !== 'function') return;
   const nativeFetch = global.fetch.bind(global);
-  global.fetch = (input, init) => nativeFetch(rewriteFetchInput(input, global, options), init);
+  global.fetch = async (input, init) => {
+    const rewritten = rewriteFetchInput(input, global, options);
+    const response = await nativeFetch(rewritten, init);
+    if (!isDeskPortalReadme(rewritten, options)) return response;
+    return overlayCatalogManifest(response, nativeFetch, global, options);
+  };
 }
 
 function installRegistrationBridge(global, moduleUrl, options) {
@@ -327,6 +397,8 @@ export function installDeskRuntimeBridge({
   const options = {
     base: global.location?.href || new URL('../', moduleUrl).href,
     origin: global.location?.origin || new URL(moduleUrl).origin,
+    portalUrl: new URL('../../README.md', moduleUrl).href,
+    catalogUrl: new URL('../../catalog.json', moduleUrl).href,
   };
   installManifest(global, moduleUrl);
   installFetchBridge(global, options);
