@@ -3,16 +3,16 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 20 of 22 drafted |
+| **Chapters**  | 22 of 22 drafted |
 
 *Why the Fourth Industrial Revolution Will Change Humanity Forever*
 
-The working thesis is that the Fourth Industrial Revolution is different not because every technology is unprecedented, but because several technologies are crossing old human boundaries at the same time. Steam amplified muscle. Electricity reorganized energy, time, and distance. Computing made information cheap to store, copy, and process. The current convergence adds something more intimate: machines that can perform parts of cognition, software that can take actions, robots that can bring those decisions into the physical world, and biotechnology that can intervene in living systems themselves.
+The book's central claim is that the Fourth Industrial Revolution is different not because every technology is unprecedented, but because several technologies are crossing old human boundaries at the same time. Steam amplified muscle. Electricity reorganized energy, time, and distance. Computing made information cheap to store, copy, and process. The current convergence adds something more intimate: machines that can perform parts of cognition, software that can take actions, robots that can bring those decisions into the physical world, and biotechnology that can intervene in living systems themselves.
 
-The book treats “Fourth Industrial Revolution” as a hypothesis to test, not a slogan to repeat. Its strongest counterargument is serious: much of what looks revolutionary may turn out to be a continuation of digitization, productivity may diffuse slowly, robotics may remain stubborn in unstructured environments, biological engineering may stay expensive and narrow, and institutions may absorb the changes without a clean historical break. The manuscript earns the word *different* only where the evidence survives those objections.
+The book treats “Fourth Industrial Revolution” as a hypothesis to test, not a slogan to repeat. Its strongest counterargument remains serious: much of what looks revolutionary may turn out to be a continuation of digitization, productivity may diffuse slowly, robotics may remain stubborn in unstructured environments, biological engineering may stay expensive and narrow, and institutions may absorb the changes without a clean historical break. The manuscript earns the word *different* only where the evidence survives those objections.
 
 ## Contents
 
@@ -37,13 +37,16 @@ The book treats “Fourth Industrial Revolution” as a hypothesis to test, not 
 - [x] [Ch 18 — War, Security, and Autonomous Power](manuscript/ch18-war-security-and-autonomous-power.md)
 - [x] [Ch 19 — The Countries That Can Build](manuscript/ch19-the-countries-that-can-build.md)
 - [x] [Ch 20 — The Politics of Adaptation Time](manuscript/ch20-the-politics-of-adaptation-time.md)
-- [ ] [Ch 21 — The Things We Should Not Optimize](manuscript/ch21-the-things-we-should-not-optimize.md)
-- [ ] [Ch 22 — What Humanity Is For](manuscript/ch22-what-humanity-is-for.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Ch 21 — The Things We Should Not Optimize](manuscript/ch21-the-things-we-should-not-optimize.md)
+- [x] [Ch 22 — What Humanity Is For](manuscript/ch22-what-humanity-is-for.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
 - [Research brief and chapter architecture](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
+- [Release review — 2026-09-04](research/release-review-2026-09-04.md)
 
-This is an unpublished Desk draft. Nothing in this folder marks or implies a Shelf release.
+This Desk copy is the canonical working source for future revisions. The September 4, 2026 release review clears the complete manuscript for a deliberate first-edition snapshot to Sven Hardy Benson’s Shelf while preserving the book's evidence boundaries and falsification tests.
+
+- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/this-tech-is-different/)
