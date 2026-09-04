@@ -119,23 +119,107 @@ Use pipeline parallelism to show how nominally occupied stages can still lose us
 
 Falsification note: more microbatches and more complicated schedules can reduce bubbles while increasing communication, memory pressure, kernel inefficiency, or operational complexity. Pipeline parallelism is not automatically good for low-batch or latency-sensitive inference. The cost of the remaining bubble has to justify the complexity required to shrink it.
 
-## Planned research questions
+### 13. Data Is a Stage of Compute
 
-- Which utilization counters best predict end-to-end useful work for common inference regimes?
-- How should an operator separate idle time caused by insufficient demand from idle time caused by upstream bottlenecks?
-- At what request rates does batching improve cost enough to justify additional queueing latency?
-- How much fleet capacity is consumed by repeated prefixes, long context, and KV-cache fragmentation in representative deployments?
-- When does prefix caching materially change time to first token or cost per request?
-- How should prefill-heavy and decode-heavy workloads be scheduled together or separated?
-- Which parallelism strategies are limited by communication rather than arithmetic at current accelerator and network speeds?
-- When does GPU partitioning improve fleet utilization, and when does it create rigid slices that reduce scheduling flexibility?
-- How much power headroom should an operator trade for higher clocks, more accelerators, or lower tail latency?
-- When do spot, flex-start, reserved, and on-demand capacity produce the lowest completed-job cost after interruption risk is included?
-- How should training systems value checkpoint frequency against recomputation after failure?
-- Which observability metrics detect straggler, data-loader, network, and memory bottlenecks before operators simply add more GPUs?
-- What is the right unit for agentic workloads whose outputs vary greatly in token count and tool use?
-- How should quality-adjusted cost be measured when model routing changes the distribution of errors rather than just the average score?
-- Which optimization techniques remain robust as accelerator generations, inference kernels, and model architectures change?
+Extend the pipeline boundary upstream. Data loading, parsing, decoding, tokenization, retrieval, cache preparation, and storage layout all determine whether expensive accelerators receive work on time. Use Megatron's large-scale data-loading guidance as a concrete reminder that synchronization and index preparation can idle entire jobs even when raw storage bandwidth is not the obvious problem.
+
+Falsification note: do not imply that all AI workloads are data-starved or that local caching always helps. Some workloads are compute-bound and some datasets are too large, too dynamic, or too infrequently reused for aggressive staging to pay. The chapter should preserve the distinction between moving work off the critical path and merely moving cost into another resource.
+
+### 14. Checkpointing the Clock
+
+Treat checkpoints as insurance on elapsed compute. The trade is between checkpoint overhead, durability, restart time, recomputation after failure, and operational flexibility. Distributed and asynchronous checkpoint systems demonstrate that saving state is itself a parallel I/O workload with choices around resharding and background writes.
+
+Falsification note: more frequent checkpointing is not automatically better. A highly reliable short job can lose more time checkpointing than it saves in expected recovery. Asynchronous saves can reduce critical-path pauses while increasing memory, I/O concurrency, and ambiguity about which checkpoint is actually durable. Recovery must be tested, not assumed.
+
+### 15. Power Is Capacity
+
+Move power from the utility bill into the scheduler. GPU and module power limits, enforced caps, performance states, and topology-level power policies make explicit that a fleet can have nominally free accelerators while lacking safe electrical or thermal headroom. The chapter's objective is useful work per constrained watt when power is the limiting resource, not minimum energy in isolation.
+
+Falsification note: do not claim lower power caps always improve fleet economics. A synchronized training job can slow enough that accelerator-hours or failure exposure increase. The optimal operating point is device-, workload-, rack-, and facility-dependent. Distinguish sustainable fleet power from short benchmark peaks.
+
+### 16. Model Architecture Is Infrastructure
+
+Show that architecture determines memory movement, communication, cache behavior, parallelism choices, failure domains, and runtime variance. Dense, MoE, long-context, multimodal, and agentic systems impose different infrastructure contracts. Expert parallelism is useful evidence that reducing active arithmetic can increase the importance of routing and communication.
+
+Falsification note: do not equate theoretical FLOP reductions with wall-clock savings. Kernel maturity, topology, batching, model balance, and scheduler support can dominate. Also preserve the possibility that an architecture with worse current systems support may become operationally superior as compilers and runtimes mature.
+
+### 17. Speculate
+
+Present speculative decoding as a general systems trade: spend cheap extra work to reduce expensive serial waiting, then verify before commitment. Current vLLM documentation explicitly scopes speculative methods by traffic and workload regime, which supports the chapter's core claim that speculation is conditional rather than a universal speed multiplier.
+
+Falsification note: acceptance rate alone is not sufficient. Draft cost, verification cost, batch interaction, memory, target-model workload, and QPS can reverse the economics. Speculation must degrade cleanly to the authoritative path and should not cross irreversible side-effect boundaries without a transaction model.
+
+### 18. Rent, Buy, or Burst
+
+Evaluate acquisition through completed-job cost, not sticker price. Ownership buys long-run unit economics at the price of commitment and underutilization risk. Renting buys flexibility. Bursting mixes a stable base with elastic peaks. Interruptible capacity is only cheap when checkpointing, restart, and deadline tolerance make interruption cheap.
+
+Falsification note: avoid declaring cloud or owned infrastructure universally cheaper. Utilization, financing, staff, power, data gravity, hardware life, region, interruption, quota, and workload portability all matter. Use scenario analysis rather than one break-even line with false precision.
+
+### 19. Capacity Planning Without Fantasy
+
+Make uncertainty explicit. Plan from workload distributions, service levels, headroom, lead times, joint constraints, substitutions, and scenario triggers rather than one average-demand number. Include software efficiency improvements as potential supply without counting them as guaranteed capacity before they exist.
+
+Falsification note: do not provision for arbitrary worst cases or treat headroom as automatically virtuous. Excess reserve can be expensive. A good plan specifies which tail it intends to serve, what degradation is acceptable, and how forecast error changes the next decision.
+
+### 20. Measure the Queue, Not the GPU
+
+Use queues as the most direct record of unsatisfied demand. Combine queue depth, age, priority, resource shape, and reason-for-waiting with device metrics. The most diagnostic state is often high queue plus low apparent utilization because it points toward fragmentation, topology, power, scheduling, or dependency constraints rather than simple hardware shortage.
+
+Falsification note: queues are not inherently bad. Flexible batch work may rationally wait so expensive hardware can remain highly utilized. Do not reduce queue time by buying idle capacity unless the service objective values the saved time. Clean abandoned or impossible jobs from demand measurements.
+
+### 21. Reliability Is Utilization
+
+Count failed, retried, recomputed, and degraded work as consumed capacity that did not advance the durable result. Tail effects in distributed systems support the broader claim that one slow participant can amplify system-level waiting. Reliability improvements can create effective capacity by reducing recomputation and the reserve needed to survive uncertainty.
+
+Falsification note: redundancy is not automatically efficient. Spares, replicas, health checks, and remediation systems all consume resources and can create failure modes of their own. Measure end-to-end successful work and recovery cost rather than assuming more reliability machinery always improves goodput.
+
+### 22. The Last Ten Percent
+
+Treat late-stage optimization as an investment decision. Broad early wins usually become narrower, more complex, less portable, and harder to measure as the system improves. Local speedups must be translated into end-to-end impact and weighed against maintenance, reliability, flexibility, and engineering opportunity cost.
+
+Falsification note: do not use diminishing returns as an excuse to ignore small gains at massive scale. A one-percent improvement can be economically large on a huge fleet. The point is stronger evidence and a larger base, not a universal stop rule.
+
+### 23. When Faster Is More Expensive
+
+Force every performance claim to carry a cost and every cost claim to carry a time value. More devices can shorten a job while increasing total accelerator-hours. Warm replicas, hedged requests, speculative work, larger caches, and redundancy can deliberately spend capacity to reduce latency or variance. Tail-at-scale evidence supports the idea that extra work can be rational when latency variability is the real constraint.
+
+Falsification note: do not imply that faster should be avoided because it can cost more. Time-to-result can dominate direct compute cost in research, launches, and interactive products. The chapter should make the trade explicit rather than prescribe one side.
+
+### 24. Running On Full
+
+Close with the operating loop: define useful work, name constraints, trace the end-to-end path, find the current bottleneck, remove unnecessary work, schedule and overlap what remains, protect progress with reliability, and remeasure after the bottleneck moves. "Full" means little avoidable waste under the product constraint, not universal 100% hardware activity.
+
+Falsification note: the closing doctrine must remain conditional. There is no permanent best operating point and no technique in the book should be presented as universally correct. The durable claim is methodological: optimize the currently limiting resource against an explicit product objective and stop when the next gain is not worth its cost.
+
+## Publication gates
+
+The manuscript now has a complete 24-chapter structural pass, but it should remain **Drafting** until the publication gates below are satisfied.
+
+1. **Depth audit:** verify that the manuscript clears Desk's full-book length expectations and identify chapters that are structurally complete but too compressed.
+2. **Evidence audit:** check every concrete technical multiplier, hardware number, cloud behavior, and dated product capability against the source ledger; remove or narrow claims that lack stable support.
+3. **Repetition audit:** reduce repeated formulations of the central goodput thesis when a later chapter can advance the argument instead of restating it.
+4. **Continuity audit:** strengthen handoffs between the six-chapter arcs so the book reads as one escalating operating argument rather than a collection of infrastructure essays.
+5. **Operator pass:** add only documented examples or clearly generic scenarios where a concrete operational sequence materially improves comprehension; do not invent production anecdotes.
+6. **Economics pass:** make cost claims distinguish direct accelerator cost, completed-job cost, time-to-result, capacity option value, and product value.
+7. **Terminology pass:** use latency, TTFT, inter-token latency, throughput, utilization, memory bandwidth, capacity, power, and goodput consistently.
+8. **Desk validation:** run `python3 scripts/check-desk.py` in a real checkout before promoting the book to Complete; the GitHub connector used during drafting cannot execute the local repository checker.
+9. **Discovery reconciliation:** merge the book against the latest `main` without overwriting concurrently updated Desk catalog, Reader, sitemap, or feedback surfaces.
+10. **Release review:** only after the above gates pass should the Desk status move from Drafting to Complete draft and enter any Shelf/public-release workflow.
+
+## Remaining research questions for revision
+
+- Which utilization counters best predict end-to-end useful work for representative inference regimes, and where do they fail?
+- At what request rates does batching improve completed-request cost enough to justify additional queueing latency?
+- How much fleet capacity is consumed by repeated prefixes, long context, and KV-cache fragmentation in real deployments?
+- When does prefix caching materially change TTFT or completed-request cost rather than only kernel time?
+- Which parallelism strategies become communication-limited on current accelerator and network generations for representative model shapes?
+- When does GPU partitioning improve usable capacity, and when does it create rigid slices that reduce scheduling flexibility?
+- How should power-aware scheduling trade lower per-device performance against higher rack-level concurrency?
+- What checkpoint interval minimizes completed-job cost under measured failure and restore behavior rather than assumed reliability?
+- Which queue metrics best predict user or researcher pain before fleet-level utilization shows a shortage?
+- What is the right goodput unit for agentic workloads whose token count, tool use, and duration vary dramatically?
+- How should quality-adjusted cost be measured when model routing changes the distribution of errors rather than only the average score?
+- Which optimization techniques remain robust across accelerator generations, inference kernels, model architectures, and traffic shifts?
 
 ## Evidence discipline
 
@@ -148,6 +232,10 @@ Falsification note: more microbatches and more complicated schedules can reduce 
 - Do not assume a larger context window is useful context.
 - Treat model routing and cascades as probabilistic quality/cost systems, not deterministic free savings.
 - Treat quantization as a quality-sensitive engineering choice, not a lossless compression law.
-- Keep cloud instance specifications and availability rules dated; they change.
+- Treat speculative decoding as workload-sensitive and distinguish lower latency from lower total work.
+- Treat checkpoint duration, restart duration, and recomputation as separate costs.
+- Treat power limits as workload- and topology-dependent; never infer fleet savings from a device cap alone.
+- Keep cloud instance specifications, availability rules, and product behavior dated; they change.
+- Use historical distributed-systems evidence such as *The Tail at Scale* for mechanisms, not as a claim that its quantitative examples transfer unchanged to current AI fleets.
 - Avoid invented production anecdotes. When the manuscript needs a scene, use a documented system, published benchmark, or clearly generic operator situation.
 - Preserve the product constraint. A system that uses fewer accelerator cycles but violates latency, quality, or reliability is not automatically more efficient.
