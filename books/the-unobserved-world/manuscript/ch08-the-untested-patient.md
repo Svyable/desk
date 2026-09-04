@@ -114,6 +114,54 @@ It is clinical reality as observed through a pipeline.
 
 This does not make the data suspect. It makes the pipeline part of the scientific object.
 
+There is another asymmetry that diagnostic systems inherit from human attention. The patient who receives a test produces a result whether the result is reassuring or alarming. The patient who is not tested often produces no immediate event at all. This makes over-testing visible in cost and procedure counts while under-testing may remain hidden until a later catastrophe, if it is linked back to the original encounter at all.
+
+The institution can therefore become better at counting what it did than what it failed to do.
+
+That distinction matters for performance metrics. A department can measure test utilization, turnaround time, false-positive rates, length of stay, and immediate return visits. Missed diagnoses that surface weeks later in another hospital may never enter the same dashboard. A model evaluated only against local short-term outcomes can look safe partly because the system loses contact with the cases that would contradict it.
+
+Outcome linkage is therefore not a clerical afterthought.
+
+It is part of the causal design.
+
+A health system that wants to know whether a lower testing threshold is safe needs a follow-up window long enough to capture the harm it is trying to avoid. It needs to know whether patients sought care elsewhere. It needs to decide whether mortality, hospitalization, later diagnosis, symptom persistence, patient-reported outcomes, or some combination represents the relevant endpoint. The choice of label changes the question.
+
+This becomes especially important for conditions with delayed manifestation. A reassuring emergency-department discharge may look correct at twenty-four hours and wrong at thirty days. A screening policy may appear efficient when judged by immediate procedures and harmful when judged by stage at diagnosis. An algorithm may reduce false positives while increasing time to treatment in a subgroup.
+
+The time horizon is another gate on observability.
+
+Prediction systems tend to favor labels that arrive quickly because those labels are easier to train on and monitor. But fast labels are not always the outcomes people care about. A hospital can know whether a patient was admitted tonight before it knows whether the patient was alive and functional six months later. If the system optimizes only what arrives soon, it can become exquisitely responsive to the wrong endpoint.
+
+The same problem appears in clinician behavior. Doctors learn from patients who return. They receive less feedback about patients who recover elsewhere, deteriorate elsewhere, or simply disappear from the system. A physician may therefore develop confidence from a locally observed sample that is systematically incomplete.
+
+This is not a criticism of physicians. It is a feature of the learning environment.
+
+Good institutions compensate for it by building feedback that individual clinicians cannot obtain on their own. Case review, cross-system data, mortality follow-up, quality registries, and delayed-outcome audits reconnect decisions with consequences. The purpose is not surveillance of clinicians. It is correction of an evidence pathway that otherwise rewards memory of visible cases.
+
+This is also where deployment monitoring for medical AI has to go beyond aggregate accuracy. A single overall performance number can conceal a subgroup whose labels are sparse because clinicians historically tested them less often. If model adoption further reduces testing in that subgroup, the system can simultaneously improve average efficiency and degrade its ability to notice a concentrated failure.
+
+A useful audit therefore asks two questions at once: how is the model performing, and where has the policy reduced the density of trustworthy labels?
+
+Those are not the same question.
+
+A model may produce stable output distributions while the clinical evidence underneath them becomes thinner. The institution may not see ordinary statistical drift because the blind spot is maintained by the decision rule itself.
+
+One safeguard is to treat some outcomes as sentinel events. If a patient classified as low risk later experiences a severe related event, the case should travel backward through the pipeline. Was the model wrong? Was the input incomplete? Did the clinician have information the system ignored? Did access barriers delay care? Was the later event genuinely unpredictable? A small number of carefully investigated contradictions can reveal more than a large dashboard of confirming cases.
+
+Contradictions are disproportionately valuable when the system is self-confirming.
+
+That is another theme shared with aviation and engineering. Rare failures receive intense attention not because they dominate the dataset but because they can invalidate assumptions supporting millions of routine operations. Medicine has analogous opportunities. A missed diagnosis in a supposedly safe region of the model can be a clue about the boundary of competence.
+
+The difficult institutional task is to preserve that clue without turning every adverse outcome into proof of negligence. Hindsight bias is powerful. A patient can suffer a bad outcome even when the original decision was reasonable. Learning requires reconstructing the information available at the time, not judging the decision with facts revealed later.
+
+This is why a good review record preserves uncertainty.
+
+What did the clinician know? What did the model know? Which tests were available? What risk estimate applied then? Which alternatives were considered? Was the patient represented in the population on which the model had evidence? What outcome would have been expected under the alternative path?
+
+A review designed only to assign blame will produce defensive documentation.
+
+A review designed to improve observability can produce better future decisions.
+
 The same insight appears in public health screening. If a cancer-screening program reaches one population more effectively than another, detected incidence can rise where screening is better even if underlying disease rates are similar. Improved detection can look like worsening health. Conversely, low recorded incidence in an underserved population can reflect underdiagnosis.
 
 Observation is an intervention.
