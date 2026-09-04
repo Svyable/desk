@@ -163,3 +163,53 @@ The sample has a state. The instrument has a state. The software has a state. Th
 The practical consequence is mundane and profound: the biology needs an operating environment.
 
 Once that environment exists, someone will try to expose it through an API.
+
+The state-machine metaphor has one limit that becomes important here: a real biological network may not have cleanly separable states at all.
+
+Researchers can impose categories—resting, hyperexcitable, adapting, recovered—but the tissue may move through continuous and partially overlapping regimes. A classifier can draw boundaries in that continuum for practical reasons, yet the boundaries belong to the assay, not necessarily to nature.
+
+This matters because the apparent transition can move when the feature set or threshold changes.
+
+Suppose a network is labeled “recovered” when its firing rate returns within ten percent of baseline. Another lab might require restoration of synchrony as well. A third may use a learned multivariate state. All three can be internally consistent and disagree about the same culture.
+
+The solution is not to abandon state models.
+
+It is to make the definition operational.
+
+A validated assay should say exactly what measurements define each state, how thresholds were chosen, and what outcome justified them. If a state is clinically or pharmacologically meaningful, that meaning should survive reasonable changes in analysis.
+
+This is where hysteresis becomes an important idea.
+
+In some systems, the path into a state differs from the path out. A network may cross into hyperexcitability at one stimulation level and require a much lower level to return. A drug may shift the threshold for entering a pathological regime without changing the resting state. Two samples can occupy the same measured state now and still have different futures because they arrived there by different paths.
+
+History becomes a hidden coordinate.
+
+A stateful assay therefore needs more than snapshots of state. It needs transition rules.
+
+How likely is the network to move from baseline to instability under a defined challenge?
+
+How quickly does it return?
+
+Does the transition become easier after repeated exposure?
+
+Does one treatment change the destination, while another changes the path?
+
+These quantities can be more informative than the absolute activity level.
+
+They also create a way to compare models that have different baselines. A patient-derived organoid and a control might begin at different firing rates but show similar resilience under challenge. Or they might look similar at rest and diverge dramatically in transition probability.
+
+The assay can normalize around dynamics rather than around one absolute value.
+
+That possibility is attractive for heterogeneous human models because donor variation can make universal baselines difficult to define.
+
+It is also dangerous if used carelessly. A sufficiently flexible dynamic model can fit almost any trajectory after the fact. The more complex the state representation, the stronger the need for held-out validation and predefined decision rules.
+
+This is the recurring bargain of organic intelligence: richer biology gives the experiment more information and more ways to fool itself.
+
+The point of the state-machine view is not to make neural tissue look computational.
+
+It is to force biotechnology to acknowledge that time can be part of the phenotype.
+
+Once time becomes part of the phenotype, a sample cannot be summarized by where it is.
+
+The experiment has to know where it came from and what it is likely to do next.
