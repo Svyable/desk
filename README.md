@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 80 book projects · 40 complete drafts · 2 in revision · 38 drafting**
+> **Desk: 81 book projects · 41 complete drafts · 2 in revision · 38 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 39 Desk-only · 0 Shelf-only**
-> **Release review queue: 4 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 41 in both Desk + Shelf · 40 Desk-only · 0 Shelf-only**
+> **Release review queue: 5 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Abdicating Intelligence](books/abdicating-intelligence/), [APPEAL](books/appeal/), [Commit](books/commit/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -136,6 +136,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 16 of 18 | 55,417 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | 22 of 22 | 66,547 | The working thesis is that this is a repricing event of the kind societies have handled badly before: correctly recognizing that something fundamental has changed while mispricing the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-mortality-discount/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | 25 of 25 | 90,311 | The book's central claim is deliberately operational rather than metaphysical: persistent intelligence is a durable causal identity, not necessarily a durable cognitive process. | [Read →](https://svyable.github.io/desk/reader/#/b/the-never-ending-intelligence/) |
+| [**The Orphan Age**](books/the-orphan-age/) | ✅ Complete draft | 20 of 20 | — | The central argument is that abundance creates a new class of externality: orphan load. | [Read →](https://svyable.github.io/desk/reader/#/b/the-orphan-age/) |
 | [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter; 35 chapters planned | 891 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
 | [**The Reliability Tax**](books/the-reliability-tax/) | ✍️ Drafting | 18 of 18 | 17,815 | The working thesis is that modern economies systematically undervalue redundancy, slack, reversibility and alternative pathways because their costs are visible every quarter while their… | [Read →](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
 | [**The Retry Generation**](books/the-retry-generation/) | ✅ Complete first draft | 8 of 8 + prologue + epilogue + back matter | — | A cultural-ideas book about the mismatch between digital systems that make errors reversible and consequential life that still moves in one direction. | [Read →](https://svyable.github.io/desk/reader/#/b/the-retry-generation/) |
