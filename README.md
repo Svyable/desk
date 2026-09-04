@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 83 book projects · 42 complete drafts · 2 in revision · 39 drafting**
+> **Desk: 84 book projects · 42 complete drafts · 2 in revision · 40 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
+> **Where they live: 41 in both Desk + Shelf · 43 Desk-only · 0 Shelf-only**
 > **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -85,6 +85,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | 18 of 18 | 44,609 | America often separates the person saying yes from the full economic price of the decision. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
 | [**APPEAL**](books/appeal/) | ✅ Complete draft | Front matter, prologue, epilogue, back matter; 26 of 26 chapters | — | The central thesis is that as software and artificial intelligence make first decisions cheaper, faster, and more numerous, the scarce institutional resource becomes the second decision: the ability to challenge a consequential answer and obtain a genuinely different review with power to correct it. | [Read →](https://svyable.github.io/desk/reader/#/b/appeal/) |
 | [**Artificial Abundance**](books/artificial-abundance/) | ✍️ Drafting | 8 of 24 | 17,328 | The working thesis is that artificial intelligence does more than increase the supply of useful cognitive work. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-abundance/) |
+| [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | 4 of 24 | — | The machine-made version of a person becomes identity infrastructure when it grows consequential enough to classify, predict, price, permit, or act in relation to that person. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-identity/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
