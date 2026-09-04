@@ -1,6 +1,6 @@
 # Publication Checklist — Nothing Counts Yet
 
-This checklist governs the 25-chapter publication candidate. Desk remains the canonical working source; Sven Hardy Benson’s Shelf is a released snapshot, not a live mirror.
+This checklist governs the 25-chapter expanded trade edition release. Desk remains the canonical working source; Sven Hardy Benson’s Shelf is a released snapshot, not a live mirror.
 
 ## Gate 1 — Manuscript integrity
 
@@ -32,14 +32,16 @@ This checklist governs the 25-chapter publication candidate. Desk remains the ca
 
 ## Gate 4 — Edition strategy
 
-- [x] Existing 20-chapter Shelf release remains frozen.
-- [x] 25-chapter Desk manuscript is treated as a new publication candidate rather than a silent rewrite of the released snapshot.
-- [ ] Freeze the exact Desk commit selected for the 25-chapter release.
-- [ ] Create a new complete Shelf snapshot from that frozen commit.
-- [ ] Mark the Shelf snapshot Published while preserving Desk as the working source.
-- [ ] Verify file parity for all publication files against the frozen Desk commit.
-- [ ] Verify catalog/discovery metadata and reader links.
-- [ ] Land Shelf and Desk release-record changes as a coordinated transaction.
+- [x] Existing 20-chapter Shelf release remains recoverable in Git history.
+- [x] 25-chapter Desk manuscript was treated as a new publication candidate rather than a casual live edit.
+- [x] Frozen Desk source selected: `3bd8456867dff274bad33513cb3b58fc11a21aff`.
+- [x] Complete release delta prepared on Shelf from the frozen source.
+- [x] Shelf snapshot marked `Published` while Desk remained the working source.
+- [x] Publication files added/updated from the frozen Desk source; publication metadata transformed for Shelf.
+- [x] Catalog identity and Reader slug verified unchanged.
+- [x] Shelf release CI (`Release feedback coverage`) passed.
+- [x] Shelf release merged in PR #201 at `1c2db855b796f55f6528346978e10ed0d4cf2a19`.
+- [x] Desk release record created.
 
 ## Release rule
 
