@@ -9,7 +9,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 86 book projects · 44 complete drafts · 2 in revision · 40 drafting**
+> **Desk: 87 book projects · 44 complete drafts · 2 in revision · 41 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -79,6 +79,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | Book | Status | Chapters | Words | What it is | Read |
 |---|---|---:|---:|---|---|
 | [**Abdicating Intelligence**](books/abdicating-intelligence/) | ✅ Complete expanded draft | 30 of 30 | — | What happens to people, professions, institutions, and democracies when capable machines become the place where thinking happens by default? | [Read →](https://svyable.github.io/desk/reader/#/b/abdicating-intelligence/) |
+| [**Adaptation Debt**](books/adaptation-debt/) | ✍️ Drafting | 4 of 20 | — | Success creates commitments; commitments create switching costs. The book follows how winning strategies harden into capital, customer, metric, expertise, and institutional obligations that make future change expensive. | [Read →](https://svyable.github.io/desk/reader/#/b/adaptation-debt/) |
 | [**Adjacency**](books/adjacency/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 83,140 | This Desk copy remains the working source for future revisions. The first public edition was intentionally snapshotted to Sven Hardy Benson’s Shelf in September 2026; later Desk edits do… | [Read →](https://svyable.github.io/desk/reader/#/b/adjacency/) |
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 18 complete of 18 planned + interlude | 65,634 | The working thesis is that agentic software creates a new economic capability: delegated intention becoming cheap, persistent, parallel, and programmable. | [Read →](https://svyable.github.io/desk/reader/#/b/agentile/) |
 | [**Aggregate, Consolidate, Innovate**](books/aggregate-consolidate-innovate/) | ✍️ Drafting | 25 of 25 | 39,378 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/aggregate-consolidate-innovate/) |
