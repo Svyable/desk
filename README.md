@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 83 book projects · 42 complete drafts · 2 in revision · 39 drafting**
+> **Desk: 84 book projects · 43 complete drafts · 2 in revision · 39 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 41 author projects · 39 released · 2 public drafts/proofs**
-> **Where they live: 41 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
+> **Shelf: 42 author projects · 40 released · 2 public drafts/proofs**
+> **Where they live: 42 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
 > **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -24,6 +24,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/americas-got-a-spending-problem/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
+| [**Bookself: The Story of Getting Started**](books/bookself/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/bookself/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |
@@ -88,6 +89,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,062 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
+| [**Bookself: The Story of Getting Started**](books/bookself/) | ✅ Complete draft | 24 of 24 | — | Most advice about beginning assumes that a person already exists who knows what to do and merely needs enough motivation to do it. | [Read →](https://svyable.github.io/desk/reader/#/b/bookself/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 drafted | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Commit**](books/commit/) | ✅ Complete draft | 22 of 22 | — | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a numbered sequence… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 76,091 | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
