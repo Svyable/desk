@@ -88,6 +88,60 @@ The crucial feature is that the exploration budget is not renegotiated against t
 
 If it is, it disappears.
 
+The value of that budget is often asymmetric.
+
+Most exploratory bets can fail while the portfolio remains rational if a small number of discoveries are valuable enough. This is familiar in venture capital and basic science, but the logic also applies to lower-stakes search. A playlist can contain many forgettable discoveries because the occasional song that opens an entirely new taste region has durable value. A recruiter can conduct several interviews that do not lead to offers if one new sourcing channel reveals a category of candidate the firm had systematically missed.
+
+Average performance is therefore not always the right test of exploration.
+
+The institution may care about the shape of the outcome distribution: the probability of a rare breakthrough, the discovery of a new segment, the detection of a hidden failure mode, the preservation of an option whose future value is uncertain.
+
+This does not excuse undisciplined spending. A portfolio of bad ideas can always be defended after the fact by invoking the possibility of a jackpot. Good exploration has stopping rules, bounded stakes, and evidence milestones. What changes is the standard of evaluation. The institution asks whether the portfolio is creating information or optionality that the core process would not create on its own.
+
+Optionality is an especially useful word for the weird.
+
+A strange idea does not need to become the new standard immediately. It may only need to remain alive long enough that future evidence can make it more or less valuable. A small grant, prototype, pilot, side project, niche audience, local implementation, or second interview can preserve that option.
+
+The cost of preserving an option can be much lower than the cost of adopting it.
+
+Organizations often miss this because approval systems are binary. A proposal is either funded or not. A product is either on the roadmap or killed. A candidate is either in or out. The choice architecture makes uncertainty expensive by forcing every uncertain option to compete for full-scale commitment.
+
+Intermediate states are a form of epistemic infrastructure.
+
+A prototype says: we do not know enough to launch, but we know enough not to stop. A reserve list says: this candidate is not the current choice, but the evidence is not strong enough to erase them from consideration. A seed grant says: the idea is not ready for a large award, but the question is worth making more observable.
+
+These states prevent early ignorance from becoming permanent exclusion.
+
+They also create a place for weak signals.
+
+Institutions are flooded with weak signals. A handful of customers ask for something odd. One junior employee sees a pattern leadership dismisses. A small scientific literature points in a direction that has not yet attracted a field. A few creators gather an intensely loyal audience without broad reach. One local office succeeds using a practice the central team considers inefficient.
+
+Most weak signals will not become important.
+
+The hard part is preserving enough of them to learn which ones do.
+
+A system optimized only for statistical significance or immediate scale can erase weak signals before they have time to accumulate. A system that treats every weak signal as a strategic revelation becomes chaotic. The middle path is cheap persistence: record the signal, assign a small test where feasible, revisit if independent evidence appears, and avoid forcing a premature verdict.
+
+This is institutional scouting.
+
+Scouts operate differently from operators. The operator is rewarded for reliable execution. The scout is rewarded for finding changes before they are obvious. Combining the roles can be difficult because the same evidence threshold that protects operations from distraction can make scouting useless.
+
+A mature organization can separate them.
+
+The core business exploits. A research group explores. A venture arm runs small bets. A safety team searches for rare failures. A local office is allowed to pilot under guardrails. An editorial desk looks outside the recommendation system. A funding program supports questions without mature evidence.
+
+The separation is not about glamour. It prevents every uncertain possibility from having to beat the core system on the core system's own scoreboard.
+
+The scouts still need accountability. Their job is not to be weird. Their job is to improve the map.
+
+That difference matters because novelty can become a status game. Organizations can reward proposals that sound unconventional while selecting familiar risk underneath. People learn to perform originality. The portfolio fills with ideas that are rhetorically unusual and structurally safe.
+
+True exploration is revealed by what evidence the institution is willing to create, not by the adjectives attached to the proposal.
+
+Who receives a trial? Which odd result gets replicated? Which small market receives product support? Which candidate is given a work sample? Which method receives enough resources to become comparable with the incumbent?
+
+These are costly signals of curiosity.
+
 There is a parallel in ecology. Genetic variation can look inefficient when the environment is stable because the locally optimal traits dominate. Variation becomes valuable when conditions change. The analogy is imperfect—institutions choose actions, genes do not—but it captures the time horizon problem. A system optimized for today's environment may reduce the diversity needed for tomorrow's environment.
 
 Business history is full of firms surprised by changes they could describe only after competitors had demonstrated them. That does not mean the incumbents were blind. They often had prototypes, internal advocates, or early data. The difficulty was comparing an uncertain future business with a successful present one.
