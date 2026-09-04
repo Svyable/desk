@@ -10,7 +10,6 @@ const appUrl = `${upstream}app.js?v=desk-20260901-3`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const quickLookUrl = './library-quick-look.js';
-const settingsHierarchyUrl = './settings-hierarchy.js';
 
 // Local integrity audit markers mirror the compatibility contract enforced in
 // desk-runtime-bridge.js. scripts/check-desk.py checks these without network access.
@@ -150,15 +149,10 @@ try {
     URL.revokeObjectURL(moduleUrl);
   }
 
-  for (const [url, label] of [
-    [quickLookUrl, 'Library quick look'],
-    [settingsHierarchyUrl, 'Settings hierarchy'],
-  ]) {
-    try {
-      await import(url);
-    } catch (error) {
-      console.warn(`${label} could not be loaded`, error);
-    }
+  try {
+    await import(quickLookUrl);
+  } catch (error) {
+    console.warn('Library quick look could not be loaded', error);
   }
 } catch (error) {
   showRecovery(error);
