@@ -15,6 +15,8 @@ assert.match(runtime, /aria-describedby', 'appearanceResetHelp'/);
 assert.match(runtime, /card\.dataset\.settingsHierarchy === 'true'/);
 assert.match(loader, /const settingsHierarchyUrl = '\.\/settings-hierarchy\.js';/);
 assert.ok(loader.indexOf('await import(moduleUrl)') < loader.indexOf('[settingsHierarchyUrl'));
+assert.match(worker, /'\.\/js\/settings-hierarchy\.js'/);
+assert.ok(worker.indexOf("'./js/settings-hierarchy.js'") < worker.indexOf('const SHARED_PATHS'));
 assert.match(worker, /'css\/settings-panel\.css'/);
 
-console.log('Desk settings hierarchy contract: 11 assertions passed');
+console.log('Desk settings hierarchy contract: 13 assertions passed');
