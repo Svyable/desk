@@ -1,0 +1,56 @@
+/* Desk adaptation of Bookself reader/css/library-home.css (2026-09-04).
+   Localized because Desk's lightweight Reader still consumes Shelf assets at runtime.
+   Presentation only: Desk draft visibility and catalog behavior remain owned by app-loader. */
+:root {
+  --desk-library-surface: color-mix(in srgb, var(--bg-elevated) 90%, transparent);
+  --desk-library-line: color-mix(in srgb, var(--border) 74%, transparent);
+}
+body[data-stage="library"] .app-header { min-height:3.35rem; padding-block:.35rem; }
+body[data-stage="library"] .app-header .header-right { display:none; }
+body[data-stage="library"] .logo { width:2.55rem; height:2.55rem; min-width:2.55rem; min-height:2.55rem; border-radius:999px; }
+body[data-stage="library"] .library-view { padding-top:clamp(1.35rem,3vw,2.45rem); }
+body[data-stage="library"] .library-hero { max-width:74rem; padding-bottom:.75rem; }
+body[data-stage="library"] .library-hero h1 { margin-bottom:.55rem; font-size:clamp(2.15rem,4.5vw,3.4rem); line-height:1.02; }
+body[data-stage="library"] .library-lede { max-width:46rem; margin-bottom:.7rem; line-height:1.48; }
+body[data-stage="library"] .write-link { border-bottom:0; color:var(--text-muted); font-family:var(--font-ui); font-size:.76rem; text-decoration:none; }
+body[data-stage="library"] .write-link:focus-visible,
+body[data-stage="library"] #continueCardLink:focus-visible,
+body[data-stage="library"] .pub-filters button:focus-visible { outline:2px solid var(--accent); outline-offset:3px; }
+body[data-stage="library"] .continue-card { display:grid; grid-template-columns:auto minmax(0,1fr) auto; align-items:center; gap:.8rem; width:min(42rem,100%); margin:.4rem 0 1rem; padding:.85rem 1rem; border:1px solid color-mix(in srgb,var(--accent) 34%,var(--desk-library-line)); border-radius:15px; background:var(--desk-library-surface); }
+body[data-stage="library"] .continue-card[hidden] { display:none !important; }
+body[data-stage="library"] .continue-kicker { grid-column:1 / 3; margin:0; font-family:var(--font-ui); font-size:.66rem; font-weight:650; letter-spacing:.11em; text-transform:uppercase; }
+body[data-stage="library"] #continueCardLink { grid-column:1 / 4; display:flex; justify-content:space-between; gap:.8rem; color:var(--text-primary); font-family:var(--font-display); font-size:clamp(1rem,2vw,1.22rem); text-decoration:none; }
+body[data-stage="library"] #continueCardLink::after { content:"Resume ›"; flex:0 0 auto; color:var(--accent); font-family:var(--font-ui); font-size:.75rem; font-weight:650; }
+body[data-stage="library"] .library-bar { position:sticky; top:.65rem; z-index:10; display:grid; grid-template-columns:minmax(12rem,1fr) auto; gap:.65rem; width:min(58rem,100%); margin:.7rem 0 .65rem; padding:.48rem .55rem; border:1px solid var(--desk-library-line); border-radius:14px; background:var(--desk-library-surface); backdrop-filter:blur(18px); }
+body[data-stage="library"] .library-bar input { min-width:0; min-height:2.55rem; border:0; border-radius:10px; }
+body[data-stage="library"] .library-bar .setting-pills { display:flex; gap:.2rem; padding:.18rem; border-radius:11px; }
+body[data-stage="library"] .library-bar .pill { min-height:2.15rem; border-radius:9px; text-transform:none; }
+body[data-stage="library"] .pub-filters { display:flex; width:min(58rem,100%); gap:.38rem; margin:.2rem 0 1.15rem; overflow-x:auto; scrollbar-width:none; }
+body[data-stage="library"] .pub-filters[hidden] { display:none !important; }
+body[data-stage="library"] .pub-filters button { flex:0 0 auto; min-height:2.15rem; border-radius:999px; }
+body[data-stage="library"] #libraryHits { width:min(58rem,100%); max-width:none; border:1px solid var(--desk-library-line); border-radius:13px; background:var(--desk-library-surface); }
+body[data-stage="library"] .stack-title { display:flex; align-items:center; gap:.75rem; text-transform:none; }
+body[data-stage="library"] .stack-title::after { content:""; flex:1; height:1px; background:linear-gradient(90deg,var(--desk-library-line),transparent); }
+@media (max-width:700px) {
+  body[data-stage="library"] .library-view { padding-top:1rem; }
+  body[data-stage="library"] .library-kicker { display:none; }
+  body[data-stage="library"] .library-hero h1 { font-size:clamp(2rem,12vw,2.75rem); }
+  body[data-stage="library"] .library-lede { display:-webkit-box; overflow:hidden; -webkit-box-orient:vertical; -webkit-line-clamp:2; line-clamp:2; }
+  body[data-stage="library"] .library-bar { position:relative; top:auto; grid-template-columns:1fr; }
+  body[data-stage="library"] .library-bar .setting-pills { justify-self:start; }
+  body[data-stage="library"] .continue-card { grid-template-columns:minmax(0,1fr); padding:.75rem .8rem; }
+  body[data-stage="library"] .continue-kicker, body[data-stage="library"] #continueCardLink { grid-column:1; }
+}
+@media (max-height:430px) and (orientation:landscape) {
+  body[data-stage="library"] .library-view { padding-top:.55rem; }
+  body[data-stage="library"] .library-lede { display:none; }
+  body[data-stage="library"] .continue-card { margin-block:.25rem .55rem; padding:.6rem .75rem; }
+}
+@media (prefers-reduced-motion:reduce) {
+  body[data-stage="library"] #continueCardLink::after { transition:none !important; transform:none !important; }
+}
+@media (forced-colors:active) {
+  body[data-stage="library"] .continue-card,
+  body[data-stage="library"] .library-bar,
+  body[data-stage="library"] #libraryHits { border:1px solid CanvasText; background:Canvas; }
+}
