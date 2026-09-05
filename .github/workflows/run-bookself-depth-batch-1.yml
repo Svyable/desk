@@ -1,0 +1,44 @@
+name: Run Bookself depth batch 1
+
+on:
+  push:
+    branches:
+      - revision/bookself-depth-pass
+
+permissions:
+  contents: write
+
+jobs:
+  deepen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recover and run staged prose program
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          source = Path('.github/workflows/bookself-depth-batch-1.yml').read_text(encoding='utf-8')
+          marker = "          python3 - <<'PY'\n"
+          start = source.index(marker) + len(marker)
+          end = source.index("\n          PY\n", start)
+          body = source[start:end]
+          normalized = '\n'.join(line[10:] if line.startswith('          ') else line for line in body.splitlines())
+          Path('/tmp/bookself_batch1.py').write_text(normalized + '\n', encoding='utf-8')
+          PY
+          python3 /tmp/bookself_batch1.py
+      - name: Commit manuscript changes and remove temporary workflows
+        run: |
+          rm .github/workflows/bookself-depth-batch-1.yml
+          rm .github/workflows/run-bookself-depth-batch-1.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books/bookself/manuscript/ch01-the-empty-slot.md
+          git add books/bookself/manuscript/ch02-the-self-before-the-evidence.md
+          git add books/bookself/manuscript/ch03-readiness-is-a-story.md
+          git add books/bookself/manuscript/ch04-the-first-trace.md
+          git add books/bookself/manuscript/ch05-friction.md
+          git add books/bookself/manuscript/ch06-the-wrong-size-of-ready.md
+          git add books/bookself/manuscript/ch07-defaults.md
+          git add .github/workflows/bookself-depth-batch-1.yml .github/workflows/run-bookself-depth-batch-1.yml
+          git commit -m "Deepen Bookself chapters 1-7"
+          git push
