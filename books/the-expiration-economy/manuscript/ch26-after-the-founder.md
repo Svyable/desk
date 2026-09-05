@@ -219,3 +219,19 @@ It is one that knows which human dependencies are temporary, makes their tempora
 The founder’s greatest final contribution may therefore be an act that looks almost like self-erasure.
 
 Build the institution until it no longer needs to ask what you would do.
+
+Public companies sometimes state this dependency more plainly than management literature does. In its 2026 annual report, AppLovin described itself as highly dependent on its co-founder and chief executive, Adam Foroughi, and tied that dependence to vision, strategic direction, culture, products, and technology. The filing treated the possible loss of one person not as sentimental discomfort but as a business risk capable of disrupting operations and performance.
+
+That disclosure is useful precisely because it does not prove the founder model is defective. A company can rationally depend on an unusually capable leader. Investors may prefer that structure while the leader is present. Employees may join because of it. Customers may trust it. The economic question is not whether dependence exists. It is whether the dependence has been priced as temporary or smuggled into the future as if the person were a permanent corporate asset.
+
+A risk factor is also not a succession plan. Writing that a founder matters does not tell a company how pricing judgment, customer trust, product taste, technical ownership, or strategic context will move when the founder does. The operational work starts where the disclosure ends.
+
+That work can be tested before departure. If the founder disappears from the calendar for a month, which decisions stop? Which accounts cannot be transferred? Which customers insist on speaking to one person? Which product calls become impossible because no one can articulate the tradeoff? Which exceptions lack owners? Which executive is formally accountable but still waits for an unofficial answer? A succession plan that cannot survive those questions is a ceremonial document describing an organization that has not yet learned to stand alone.
+
+The same test applies to founder memory preserved by AI. A synthetic archive should be evaluated by asking what happens when it disagrees with the living successor. If the archive is informative, the successor can hear the historical reasoning and choose differently. If the archive is authoritative, the old organization has found a technical way to prevent succession from ever completing.
+
+This gives the chapter a harder counterthesis. Founder dependence can sometimes be the efficient structure, and efforts to distribute it can destroy the very judgment that created the enterprise. The cure can become process for process’s sake. The goal is therefore not to eliminate key-person risk at any cost. It is to know which dependencies are consciously retained, which are being reduced, and which are merely invisible because the founder is still answering the phone.
+
+The decisive transition is not the day the founder leaves.
+
+It is the earlier day when the organization can explain what it owes the founder, what it learned from the founder, and what no longer requires the founder’s continuing permission.
