@@ -18,7 +18,7 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Ultimate Machine](manuscript/ch01-the-ultimate-machine.md)
 - [x] [Ch 2 — Gaylord, Michigan](manuscript/ch02-gaylord-michigan.md)
 - [x] [Ch 3 — The Slide Rule and the Switch](manuscript/ch03-the-slide-rule-and-the-switch.md)
@@ -39,9 +39,10 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 - [x] [Ch 18 — The Bit Becomes the World](manuscript/ch18-the-bit-becomes-the-world.md)
 - [x] [Ch 19 — Entropy and Amnesia](manuscript/ch19-entropy-and-amnesia.md)
 - [x] [Ch 20 — What the Juggler Knew](manuscript/ch20-what-the-juggler-knew.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
 - [Research brief](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Opening-chapter evidence note](research/opening-evidence-2026-09-04.md)
