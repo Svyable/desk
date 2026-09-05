@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 25 drafted |
+| **Chapters**  | 13 of 25 drafted |
 
 ## Premise
 
@@ -25,11 +25,11 @@ That rule lets the familiar national story become strange again. Washington is c
 - [x] [Ch 6 — 1826–1835: Andrew Jackson — Democracy With Teeth](manuscript/ch06-democracy-with-teeth.md)
 - [x] [Ch 7 — 1836–1845: Samuel Morse — The Wire That Shrunk the Republic](manuscript/ch07-the-wire-that-shrunk-the-republic.md)
 - [x] [Ch 8 — 1846–1855: Frederick Douglass — The Argument America Could Not Silence](manuscript/ch08-the-argument-america-could-not-silence.md)
-- [ ] [Ch 9 — 1856–1865: Abraham Lincoln — The Union Changes Its Meaning](manuscript/ch09-the-union-changes-its-meaning.md)
-- [ ] [Ch 10 — 1866–1875: Ulysses S. Grant — The Government Tries to Enforce Freedom](manuscript/ch10-the-government-tries-to-enforce-freedom.md)
-- [ ] [Ch 11 — 1876–1885: Thomas Edison — Night Becomes Infrastructure](manuscript/ch11-night-becomes-infrastructure.md)
-- [ ] [Ch 12 — 1886–1895: J. P. Morgan — The Banker as System](manuscript/ch12-the-banker-as-system.md)
-- [ ] [Ch 13 — 1896–1905: Theodore Roosevelt — The Republic Goes Abroad](manuscript/ch13-the-republic-goes-abroad.md)
+- [x] [Ch 9 — 1856–1865: Abraham Lincoln — The Union Changes Its Meaning](manuscript/ch09-the-union-changes-its-meaning.md)
+- [x] [Ch 10 — 1866–1875: Ulysses S. Grant — The Government Tries to Enforce Freedom](manuscript/ch10-the-government-tries-to-enforce-freedom.md)
+- [x] [Ch 11 — 1876–1885: Thomas Edison — Night Becomes Infrastructure](manuscript/ch11-night-becomes-infrastructure.md)
+- [x] [Ch 12 — 1886–1895: J. P. Morgan — The Banker as System](manuscript/ch12-the-banker-as-system.md)
+- [x] [Ch 13 — 1896–1905: Theodore Roosevelt — The Republic Goes Abroad](manuscript/ch13-the-republic-goes-abroad.md)
 - [ ] [Ch 14 — 1906–1915: Henry Ford — The Price of the Mass Market](manuscript/ch14-the-price-of-the-mass-market.md)
 - [ ] [Ch 15 — 1916–1925: Alice Paul — The Vote That Remade the Electorate](manuscript/ch15-the-vote-that-remade-the-electorate.md)
 - [ ] [Ch 16 — 1926–1935: Franklin D. Roosevelt — The Government Enters the Household](manuscript/ch16-the-government-enters-the-household.md)
@@ -49,3 +49,4 @@ That rule lets the familiar national story become strange again. Washington is c
 - [Research brief and source ledger](research/README.md)
 - [Selection board and counterfactual rules](research/selection-board.md)
 - [Chapters 4–8 evidence ledger](research/ch04-ch08.md)
+- [Chapters 9–13 evidence ledger](research/ch09-ch13.md)
