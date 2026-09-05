@@ -76,6 +76,12 @@ If anything, it exposes them.
 
 A perfect system with impossible key distribution is not a useful answer to every communications problem. Wartime organizations had to move secret material, authenticate users, maintain equipment, train operators, survive mistakes, and communicate under pressure. Every elegant property eventually met a human procedure.
 
+Shannon’s framework also gave the attacker a more precise place in the theory. A cryptanalyst does not merely “try to break the code.” The attacker has observations and prior knowledge. The relevant question becomes how much those observations reduce uncertainty about the possible plaintexts or key. That is a far cleaner statement of the contest than a catalog of tricks.
+
+It also makes the structure of ordinary language a technical liability. If messages were completely unpredictable strings, an interceptor would have less to exploit. Real language is constrained. Some strings are overwhelmingly more plausible than others. As ciphertext accumulates, that structure can help eliminate candidate interpretations.
+
+Shannon described this using concepts such as equivocation and redundancy. The terminology matters less than the shift in viewpoint. Secrecy is partly about preserving a range of plausible alternatives in the mind of the interceptor. Redundancy narrows that range because human messages are not drawn evenly from every sequence the alphabet permits.
+
 This is where a heroic account of Shannon alone would become misleading.
 
 Bell Labs was an institution, not a private study. Wartime communications involved engineers, mathematicians, military organizations, operators, manufacturers, and existing cryptographic traditions. Shannon did not invent secrecy. He did not invent cryptanalysis. He entered a field with deep history and urgent practitioners.
@@ -277,21 +283,3 @@ It is also an unusually good description of responsible biography.
 We know Shannon worked on secrecy systems at Bell Labs during the war. We know his 1949 paper traces its material to a confidential report dated September 1, 1945. We can read the mathematical theory he eventually published.
 
 We do not know enough to populate every wartime room.
-
-So we should not.
-
-The missing scene does not weaken the chapter. It clarifies the conditions under which the work was done.
-
-Some of Shannon's most important thinking occurred in an institution where the normal scientific instinct to publish had to coexist with military secrecy. He responded not by abandoning general theory but by carrying it through the restricted period until it could enter the literature.
-
-Three years after the confidential report, he published the work that would make his name inseparable from information itself.
-
-Before getting there, however, another mathematician passed through Bell Labs during the war.
-
-His name was Alan Turing.
-
-The two men did meet. Later accounts have made the encounter irresistible, as encounters between famous people tend to become. The problem is that fame arrives after the meeting and supplies details the archive may not.
-
-The next chapter has to begin with that difficulty.
-
-Two minds can occupy the same institution without history granting us a transcript.
