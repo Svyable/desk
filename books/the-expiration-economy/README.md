@@ -56,5 +56,6 @@ The economic inversion is simple: when starting becomes nearly free, stopping we
 ## Research trail
 
 - [Research brief](research/README.md)
-- [Chapter briefs and falsification tests](research/chapter-briefs.md)
+- [Chapter briefs and falsification tests, Chapters 1–25](research/chapter-briefs.md)
+- [Chapter briefs and falsification tests, Chapters 26–30](research/chapter-briefs-26-30.md)
 - [Source ledger](research/source-ledger.csv)
