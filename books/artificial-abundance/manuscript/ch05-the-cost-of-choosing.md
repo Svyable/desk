@@ -94,6 +94,44 @@ The new bottleneck is the rule for ending the search.
 
 Economics has a language for this even when ordinary life does not. Search has a cost. Information has value only when it changes a decision enough to justify obtaining and processing it. There is no reason to inspect one more option when the expected improvement is smaller than the cost of inspection.
 
+George Stigler made this point explicit in 1961 in a paper about something much more ordinary than artificial intelligence: learning market prices. Standard economic models often behaved as if buyers simply knew the prices available to them. Stigler treated ignorance as an economic condition and search as an activity that consumes resources. Looking for another price can save money. Looking forever would cost more than the saving.
+
+The paper did not solve the modern problem of a machine capable of producing alternatives on demand. It established the part that abundance does not repeal.
+
+Information is not free merely because the next page is free to generate.
+
+Someone still has to acquire, interpret, compare, and act on it.
+
+A few years earlier, Herbert Simon had attacked the same idealized decision maker from another direction. Real people and organizations do not possess unlimited information or unlimited capacity to calculate. They simplify. They use aspiration levels, routines, rules, and partial representations of the world because exhaustive optimization is not available to them.
+
+This is sometimes summarized as satisficing: finding an option that clears a threshold rather than proving that no better option exists anywhere.
+
+The word can sound like an excuse for mediocrity.
+
+It is often a description of finite life.
+
+A hospital choosing supplies, a family choosing a home, a hiring manager choosing a candidate, and an executive deciding whether to launch a product are all making decisions under limits. The limits are not defects in intelligence. Some are the calendar. Some are the cost of delay. Some are the fact that information arrives after the decision as well as before it.
+
+Artificial intelligence can relax one set of limits without eliminating the need for limits.
+
+That is the important transition.
+
+A system can search more vendors, summarize more reviews, model more scenarios, and compare more attributes than a person could manage unaided. It can improve the quality of a decision precisely by spending cheap computation where human search once stopped too early.
+
+The rational response is not to distrust the search.
+
+It is to notice that the stopping condition has moved.
+
+Before, the meeting ended because nobody had another analysis.
+
+Now the meeting may need to end because another analysis is unlikely to change the action.
+
+Those are very different reasons to stop.
+
+The first is a production constraint.
+
+The second is a judgment.
+
 That sentence is easier to write than to live.
 
 The cost of inspection is not always visible as money.
@@ -133,6 +171,20 @@ The organization still has to reconcile it with the other memos.
 The decision still has consequences.
 
 Generation time can collapse while governance time expands.
+
+There is another cost that cheap analysis can hide: decay.
+
+Some decisions become worse while they wait.
+
+A supplier's capacity disappears. A candidate accepts another job. A market moves. A customer loses patience. A political coalition changes. The team that was excited about the project gets reassigned. An option that was available when the first analysis began may no longer be available when the twentieth analysis ends.
+
+The search itself changes the decision environment.
+
+This matters because generated analysis can create the illusion that the decision is stationary. The model can keep comparing the same alternatives while the world outside the document continues moving.
+
+A stopping rule is therefore not only a defense against cognitive overload.
+
+It is sometimes a way of protecting the value of acting while the opportunity exists.
 
 This is not hypothetical in structure even if every institution will experience it differently. We already know what happens when communication becomes cheap. Email made it easy to send a message to a large group. It did not make the group's collective attention free. The ability to copy another person onto a thread created value and enormous ambient work at the same time.
 
@@ -174,7 +226,19 @@ The point is not bureaucracy.
 
 It is to move part of the choice upstream, before the option generator begins seducing you.
 
-This matters because abundant systems are persuasive even when they are merely responsive.
+The strongest stopping rules are often tied to consequences rather than to a fixed number of options.
+
+Stop when every surviving option meets the requirements and the differences no longer justify delay.
+
+Stop when the next piece of information would not change the action.
+
+Stop when the cost of reversibility is low enough that trying one option will teach more than another hour of comparison.
+
+Stop when the irreversible downside has been investigated enough to fit inside the risk the institution already agreed to bear.
+
+These are not mathematical laws. They are ways of reconnecting search to the purpose of the decision.
+
+That reconnection matters because abundant systems are persuasive even when they are merely responsive.
 
 A model asked to make the case for one option can make the case.
 
@@ -205,6 +269,26 @@ The ranking system does not remove judgment.
 It embeds judgment.
 
 Once embedded, the judgment can become harder to see because it arrives as a sorted list.
+
+There is a promising counterforce here.
+
+The same systems that create more alternatives can reduce the cost of choosing among them. They can cluster duplicates, identify dominated options, expose assumptions, run tests, search for disconfirming evidence, and learn a user's stable preferences. A good system may shrink a thousand possibilities into three genuinely different choices before the person ever sees the list.
+
+If selection technology improves as quickly as generation technology, the choice bottleneck may move again.
+
+That possibility should remain alive.
+
+The argument of this chapter is not that humans will be buried forever beneath machine options. It is that abundance removes an old physical and cognitive reason for stopping, so some other stopping mechanism has to take its place.
+
+It can be automated.
+
+It can be institutional.
+
+It can be personal.
+
+It can be a test.
+
+But it has to exist somewhere.
 
 This is why choosing cannot be reduced to generating enough options and applying a score.
 
