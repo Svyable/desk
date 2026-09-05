@@ -49,6 +49,12 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Ch 22 — The Versioned World](manuscript/ch22-the-versioned-world.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
+## Publication path
+
+- First Shelf edition prepared from frozen Desk source `93338b79303df27390c9fdcb5609e97dad1f220d`.
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/commit/)
+- Desk remains the working edition for future revisions.
+
 ## Research
 
 - [Research brief and falsification notes](research/README.md)
