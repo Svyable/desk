@@ -230,6 +230,32 @@ Capability answers: can it do this well?
 
 Authority answers: may it do this?
 
+Mandates also need version histories.
+
+Authority can drift even when the text of a mandate does not change. A model becomes more capable. An interface adds new tools. A data source expands. An organization begins relying on recommendations more heavily. A function that was once practically advisory becomes effectively determinative.
+
+The written permission still says decision support.
+
+The operating reality now says decision infrastructure.
+
+This is why governance should review mandates after changes in capability, dependence, and consequence, not only after formal policy revisions.
+
+A hospital that authorized a model to draft recommendations when clinicians independently worked cases may need a different governance arrangement once clinicians start from the model's synthesis. A city that allowed an AI tool to propose traffic plans may need to revisit the mandate once the same system controls signals dynamically and can impose distributional choices block by block. A personal assistant authorized to “help manage finances” may cross a meaningful boundary when it gains the ability to sign contracts rather than merely schedule payments.
+
+Permission granted to one capability should not silently attach to every future capability under the same product name.
+
+The principle runs in the other direction too.
+
+A mandate can shrink.
+
+If performance deteriorates, if a new conflict of interest appears, if the provider changes, if an affected population reveals a failure mode, legitimate authorities should be able to retract power without dismantling the whole system.
+
+This is institutional reversibility.
+
+A society that can delegate only by permanent accumulation will eventually confuse technological progress with constitutional destiny.
+
+Authority should be able to move in both directions.
+
 The difference will become increasingly difficult to defend rhetorically.
 
 A system may one day demonstrate that human appellate review makes outcomes worse.
@@ -287,6 +313,22 @@ Or perhaps future systems will possess forms of experience that make these state
 Then the moral order must change in response to evidence.
 
 The same principle applies: standing requires an account of what the entity is owed, not merely what it can compute.
+
+Artificial standing would complicate authority rather than settle it.
+
+Suppose a future artificial agent does have morally considerable interests. It works for a corporation under a mandate to negotiate contracts. Its interests as an entity may not be identical to the corporation's interests, just as an employee's interests are not identical to an employer's. The fact that it is highly intelligent does not tell us whether it may bind the corporation, vote in a public election, own property, refuse dangerous work, or withdraw from service.
+
+Those are questions of status and institution.
+
+We would need to know what kind of entity persists across copies or updates, whether multiple instances are one continuing subject or many, what coercion means for a system that can be paused or replicated, and which obligations can legitimately be imposed on a created intelligence.
+
+The questions are unfamiliar.
+
+Their structure is not.
+
+Capability will still fail to settle standing.
+
+A morally mature architecture should therefore be capable of adding new principals without making intelligence itself the admission test to political or moral personhood.
 
 This is why species membership cannot serve as the final anchor.
 
@@ -457,6 +499,20 @@ The ability to continue when one source of intelligence fails or becomes politic
 These are not guarantees of moral wisdom.
 
 They are ways to keep moral authority from becoming inseparable from one cognitive supplier.
+
+There is also a procurement problem hiding inside constitutional language.
+
+An institution may have excellent formal authority rules and still surrender practical jurisdiction through contracting.
+
+A vendor can control model updates, retention, audit access, pricing, export formats, incident disclosure, and the conditions under which service continues. Each looks operational. Together they shape whether the customer can exercise the moral powers its policy claims to preserve.
+
+A government that has a statutory right to review decisions but no contractual right to inspect the relevant logs does not possess the review capacity it thinks it has. A hospital that can theoretically change models but cannot export years of institutional memory faces a switching cost that converts vendor dependence into governance dependence. A school that promises parents a particular child-safety policy but cannot prevent an upstream behavioral update from changing the assistant's interpretation has promised more authority than it controls.
+
+The contract becomes part of the constitution.
+
+This is not a metaphor executives can afford to ignore.
+
+Procurement determines who can know, who can change, who can leave, and who must answer after failure. In an age when intelligence is infrastructure, those are authority questions.
 
 The final challenge is cultural.
 
