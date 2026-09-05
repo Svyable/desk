@@ -240,6 +240,36 @@ That theory cannot come from convenience alone.
 
 This is private constitutional design.
 
+A new problem appears when the constitution changes without the user changing it.
+
+Personal AI will not be static. Models are updated. Safety policies change. providers merge. legal rules shift. memory systems are redesigned. An assistant that has interpreted Thomas for ten years may receive a new model underneath the same name and interface.
+
+The continuity can be deceptive.
+
+Thomas wakes up to what appears to be the same adviser. It remembers the same history. It speaks in the same voice. Yet the way it resolves conflicts among autonomy, welfare, loyalty, risk, and obligation may have changed.
+
+The constitution has acquired an unelected amendment.
+
+Software updates already change the behavior of tools. A calculator update rarely changes a person's conception of obligation. A moral operating system is different.
+
+If a provider materially changes how a persistent assistant interprets user commitments, the change should not be hidden inside ordinary product maintenance.
+
+The user does not need a hundred-page policy diff.
+
+They do need some way to know that a rule of interpretation changed, what class of decisions it affects, and whether their delegated actions will now behave differently.
+
+This becomes especially important for executable commitments.
+
+Suppose Thomas has instructed the system never to approve a certain category of investment because he considers the underlying industry harmful. A new provider policy narrows what counts as that category. The assistant begins allowing transactions Thomas expected it to block.
+
+Or the reverse. A provider expands a safety rule and the assistant begins refusing transactions Thomas explicitly authorized.
+
+Both changes may have defensible reasons.
+
+Neither should be presented as though Thomas changed his mind.
+
+Constitutional provenance requires distinguishing changes in the person from changes in the interpreter.
+
 The phrase becomes more literal when several people share a system.
 
 Families will have household agents.
@@ -281,6 +311,34 @@ What happens when the assistant believes a household rule is harmful?
 These questions already exist in law and family life. Artificial systems make them operational at a granular level.
 
 The private constitution becomes a small political order.
+
+Shared agents also create the possibility of constitutional capture.
+
+Suppose one partner is more technically skilled and configures the household system. The rules are nominally joint. In practice, one person understands the settings, receives the alerts, defines what counts as an exception, and knows how to amend the defaults.
+
+Nothing in the interface says ruler.
+
+Control has nonetheless become asymmetric.
+
+The same can happen between parent and child, caregiver and disabled adult, employer and worker, landlord and tenant, or financial adviser and client. The party who configures the agent can turn procedural convenience into substantive leverage.
+
+A shared artificial system therefore needs more than multiple logins.
+
+It needs an account of which decisions require joint consent, which rights cannot be delegated by another user, which information remains private, and what happens when principals disagree.
+
+There should be areas where the system refuses to resolve the conflict silently.
+
+A household agent should not infer that the person with the credit card has greater moral standing because that person can complete the transaction.
+
+A care system should not treat the caregiver's convenience as the dependent person's preference merely because the caregiver supplies more data.
+
+A child's weaker legal authority should not erase the child's legitimate interest in developing privacy.
+
+These conflicts are familiar to law because they are conflicts of standing.
+
+The novelty is that a general assistant can mediate them thousands of times a year in tiny decisions no court will ever see.
+
+Constitutional power accumulates through defaults.
 
 Children make this especially difficult because their standing changes over time.
 
@@ -347,6 +405,28 @@ Preserve provenance about which rules came from the user and which came from the
 Allow a new system to inherit without silently rewriting.
 
 Keep the user able to leave the constitutional order without losing the self-record created inside it.
+
+Exit should include the right to become less legible.
+
+Portability can otherwise become another trap. If every new provider receives the complete moral dossier assembled by the last one, continuity turns into permanent profiling.
+
+A person may want to carry forward a commitment without carrying every confession that helped the prior model understand it.
+
+They may want the new system to know that sobriety matters without inheriting every relapse conversation. They may want it to respect a financial boundary without receiving the intimate history of the marriage in which the boundary was created. They may want a clean start on a question their old assistant had come to interpret too confidently.
+
+The right to leave therefore includes selective forgetting.
+
+Memory should be transferable where the user wants continuity and destructible where continuity has become captivity.
+
+That choice will be imperfect. Context helps interpretation. Delete too much and the new adviser may misunderstand the commitment. Preserve everything and the person may never escape an obsolete theory of themselves.
+
+There is no technically pure answer because the tension is moral.
+
+Continuity protects promises.
+
+Forgetting protects transformation.
+
+A private constitution has to make room for both.
 
 The analogy to a constitution has limits.
 
