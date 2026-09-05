@@ -57,6 +57,11 @@ The book uses Sven Hardy Benson's Q23 Quantiacs result as the case study. Quanti
 - [Research brief, provenance, and fact-check queue](research/README.md)
 - [Source ledger](research/source-ledger.csv)
 
+## Rights
+
+- [Rights & permissions](RIGHTS.md)
+- [Machine-readable rights metadata](rights.json)
+
 ## Editorial principle
 
 This is a first-person book, not historical cosplay. It can reconstruct an argument from surviving code, backtests, messages, and public contest records; it cannot reconstruct a feeling, conversation, stock pick, or number that was never recorded. Any later revision should preserve that line.
