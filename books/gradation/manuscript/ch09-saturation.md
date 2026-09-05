@@ -391,3 +391,149 @@ Gradation demands the next question.
 Why did the slope flatten?
 
 Because once we know what saturated, we know what kind of change could matter again.
+
+Capacity does not always fail first by producing a visible queue.
+
+Sometimes quality decays before throughput does.
+
+A restaurant keeps seating tables, but food takes longer and arrives less consistent. A hospital keeps admitting patients, but staff have less time for each one. A customer-support team keeps closing tickets, but answers become templated and second contacts rise. A school keeps the same number of students in classrooms, but individual attention falls. A software team keeps shipping features, but testing thins and defects accumulate.
+
+The headline count remains impressive.
+
+The service underneath it changes.
+
+This is a dangerous form of saturation because the organization can preserve its primary metric by spending quality.
+
+Nobody appears to be waiting because everyone is receiving a little less.
+
+The queue has been converted into dilution.
+
+That creates a choice between visible scarcity and hidden scarcity.
+
+A clinic can make patients wait longer for an appointment or shorten appointments. A university can cap enrollment or increase class size. A company can slow sales or accept more customers while reducing support. A public agency can maintain eligibility while increasing administrative burden so fewer people complete the process.
+
+Scarcity must be allocated somewhere.
+
+If the system refuses to ration quantity, it often rations quality, time or attention.
+
+This is why “we never hit capacity” can be a misleading boast.
+
+Perhaps capacity was protected by making the product worse before the hard limit arrived.
+
+People working inside saturated systems often perform this adjustment invisibly.
+
+Nurses skip breaks. Teachers prepare at night. Engineers defer maintenance. Managers answer email during family time. Employees create workarounds that keep the official process moving. The institution appears to have more capacity because people are temporarily supplying personal slack.
+
+That borrowed capacity has a cost curve.
+
+At first, discretionary effort can absorb unusual demand. Teams rally. People help. The event feels meaningful.
+
+Turn the emergency into the baseline and the reserve disappears.
+
+The organization has mistaken goodwill for installed capacity.
+
+This is one of the most common managerial errors near saturation.
+
+People who care can make a system look healthier than it is.
+
+Their care becomes the buffer.
+
+Then leaders optimize against the observed performance and remove formal slack because informal sacrifice appears to prove it was unnecessary.
+
+Eventually there is no reserve left to borrow.
+
+The failure can then look sudden even though the saturation happened gradually in human bodies.
+
+Priority systems are another response.
+
+When capacity cannot serve everyone equally, institutions decide whose next unit matters most.
+
+Emergency departments triage. Networks prioritize traffic. Customer-service systems route premium accounts differently. Courts schedule urgent matters. Operating systems allocate processor time. Organizations decide which projects get scarce engineering attention.
+
+Priority is a way of bending the saturation curve.
+
+The system protects high-value or high-risk work by allowing lower-priority work to wait.
+
+That can be rational and unfair at the same time.
+
+A premium support tier makes commercial sense and means two customers with the same technical problem receive different waiting times. Medical triage protects patients with urgent need and deliberately makes others wait. A company protects its largest client and teaches smaller clients where they sit in the hierarchy.
+
+Saturation reveals values because scarcity forces ordering.
+
+In abundance, everyone can be important.
+
+Near capacity, the queue asks what “important” actually means.
+
+This is why overload can make hidden status gradients visible. Senior leaders get immediate responses. Frontline staff wait. Profitable customers get exceptions. Unprofitable customers meet policy. Well-connected applicants find the person who can move the case. Everyone else remains in the official queue.
+
+Informal access becomes a second scheduling system.
+
+The institution has one published gradient and one social gradient.
+
+That is not merely a fairness problem. It can corrupt measurement. The official queue looks shorter because powerful cases bypass it. The remaining cases appear slower and more difficult. Managers conclude that ordinary users are the source of delay when the bypass system is consuming scarce capacity out of view.
+
+Saturation creates shadow queues.
+
+Good capacity planning tries to make them visible.
+
+What work was dropped?
+
+What work was rushed?
+
+What demand never arrived because the wait was known?
+
+What employee time was borrowed from nights and weekends?
+
+What maintenance was deferred?
+
+What quality loss preserved the throughput number?
+
+What high-status case jumped the line?
+
+Those questions reveal the true utilization of a system better than a dashboard that reports ninety-two percent.
+
+There is a final paradox.
+
+A system can be saturated and still have idle resources.
+
+The wrong resources.
+
+A hospital has empty rooms but not enough nurses. A company has cash but cannot hire qualified workers quickly. A project has people but lacks one decision-maker whose approval every path requires. A city has housing units but not where jobs and transit make them usable. A computer has idle processors while one serial dependency controls the runtime.
+
+Aggregate slack can coexist with local bottlenecks.
+
+This is why adding “capacity” generically can fail.
+
+Add more of the resource that is not binding and nothing changes.
+
+The art is identifying the marginal constraint.
+
+Sometimes it is physical.
+
+Sometimes it is human.
+
+Sometimes it is trust.
+
+Sometimes it is permission.
+
+Sometimes it is coordination.
+
+Sometimes it is the ability to decide which work should not be done at all.
+
+That last form is easy to overlook.
+
+A saturated organization often responds by trying to become more efficient at every request.
+
+The more powerful move can be subtraction.
+
+Stop producing the report nobody reads. Retire the product whose maintenance consumes the support team. Remove the approval that duplicates another control. Close the meeting that exists because the previous process was never fixed.
+
+Not all bottlenecks need expansion.
+
+Some demand needs deletion.
+
+A mature system does not ask only, “How do we serve one more unit?”
+
+It asks, “Which units still deserve to exist?”
+
+That is saturation becoming judgment.
