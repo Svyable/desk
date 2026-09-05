@@ -289,3 +289,105 @@ It is “where did the limit go?”
 The answer will usually lead to the next curve.
 
 And some curves carry memory.
+
+Queues make the shape of saturation harder to ignore because waiting time can rise much faster than utilization.
+
+A checkout lane at ten percent of capacity feels empty. At fifty percent it can still absorb variation easily. Near full utilization, every small burst matters because there is little unused service capacity available to catch up.
+
+The important point is not one universal queueing formula. Real systems have many servers, priorities, cancellations, batching, variable service times and human adaptation.
+
+The point is structural.
+
+When arrivals are variable and capacity is nearly occupied, the remaining slack has disproportionate value.
+
+This is why a call center staffed to average demand can feel permanently behind. Average demand is not the demand that arrives every minute. Quiet periods do not store unused service for the rush unless the work itself can be delayed. A phone call that arrives during an empty minute is answered. The empty minute cannot be carried forward to answer two callers later.
+
+Capacity expires.
+
+That is a strange property.
+
+Unused electricity-generating capability, an empty seat on a departed flight, an idle surgeon's hour, a vacant restaurant table at noon—many forms of service capacity are perishable. Once the period passes, the unused capacity is gone.
+
+Inventory can buffer some systems.
+
+Time-sensitive service cannot always do so.
+
+This makes saturation partly a synchronization problem.
+
+A hospital may have enough staff hours across a week and still fail during a four-hour surge. A grid may have enough annual energy and still lack power during a peak hour. A warehouse may have enough labor on average and still miss shipment cutoffs because orders arrive together.
+
+The average says sufficient.
+
+The peak says saturated.
+
+That distinction becomes more important as systems optimize themselves around average utilization. Spare capacity is removed because the spreadsheet can prove it is unused most of the time.
+
+Of course it is.
+
+That is what makes it spare.
+
+The harder question is what distribution of arrivals it was protecting against.
+
+Saturation can also provoke rebound.
+
+When a constraint is relaxed, people often use more of the newly cheap resource. Faster roads can encourage longer trips or shift travel times. More efficient computing makes previously extravagant workloads affordable. Better compression encourages more data. Faster communication creates more communication.
+
+The efficiency gain is real.
+
+So is the behavioral response.
+
+This is why moving a ceiling outward does not guarantee a proportional reduction in pressure on the system. Demand can chase capacity.
+
+A team adopts a tool that halves drafting time and initially celebrates the savings. Six months later it produces twice as many documents, explores more options and expects faster iteration. The original bottleneck is gone. The organization's appetite expands into the space.
+
+This is not evidence the tool failed.
+
+It is evidence that demand was partly latent.
+
+A saturated system can hide how much activity people would undertake if the constraint relaxed.
+
+That means saturation suppresses observed demand.
+
+A waiting list is not merely inconvenience. It is information about willingness to consume at current capacity. But even the waiting list can understate demand because some people see the wait and never enter the queue.
+
+The visible queue is the people who stayed.
+
+The invisible queue is the people who left before becoming a statistic.
+
+This matters in healthcare, housing, education, customer support and public services. A system can report stable demand while discouraging would-be users through delay, paperwork or predictable scarcity.
+
+The capacity ceiling changes behavior upstream.
+
+Saturation becomes selection.
+
+Only the most persistent remain.
+
+Then administrators look at the remaining population and conclude that demand is manageable.
+
+This is how a bottleneck can hide itself.
+
+There is also a difference between saturation and habituation.
+
+A receptor can saturate because binding sites are occupied. A person can stop noticing an alarm because repeated exposure changes attention. A market can saturate because nearly every plausible buyer already owns the product. A team can stop responding to executive priority labels because everything has been called a priority.
+
+The curves can look similar from a distance: more input produces less additional response.
+
+The mechanisms are different.
+
+And the remedy depends on the mechanism.
+
+More capacity helps one problem.
+
+More novelty may help another.
+
+Less input may restore sensitivity in a third.
+
+A new market may be needed in a fourth.
+
+Calling all flattening “diminishing returns” can be as lazy as calling every discontinuity a tipping point.
+
+Gradation demands the next question.
+
+Why did the slope flatten?
+
+Because once we know what saturated, we know what kind of change could matter again.
