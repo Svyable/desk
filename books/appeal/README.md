@@ -57,3 +57,8 @@ The central thesis is that as software and artificial intelligence make first de
 ## Publication state
 
 The manuscript is structurally complete and has been expanded beyond the original 20-chapter architecture with a final six-chapter design-and-governance act. Publication readiness is tracked in the research review and repository integrity checks. Desk remains the working edition; the published snapshot is released to Shelf.
+
+First Shelf edition prepared from frozen Desk source `f47197b19b7bfa8c7fdd1dbd8289db01eaaf1529`.
+
+- [Open the working Desk edition](https://svyable.github.io/desk/reader/#/b/appeal/)
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/appeal/)
