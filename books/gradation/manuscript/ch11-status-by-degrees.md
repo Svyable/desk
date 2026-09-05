@@ -307,3 +307,85 @@ How steeply does rank translate into dignity, health, voice, safety and opportun
 A civilized institution does not need to make every rung equal.
 
 It should be able to explain why the space between rungs is as large as it is.
+
+But status has another complication: the relevant ladder can be local.
+
+A person can be affluent by national standards and low status inside a wealthy profession. Another can have modest income and high standing in a community where reputation, age, expertise or service matters more than salary.
+
+Absolute resources and relative rank can move together.
+
+They can also separate.
+
+This is one reason arguments about status become slippery. One person is talking about material capacity. Another is talking about position inside a reference group. A third is talking about formal authority. A fourth is talking about prestige.
+
+The gradients overlap without becoming identical.
+
+A raise can improve material security while leaving rank unchanged if everyone around the person receives the same raise. A promotion can increase rank while adding little immediate income. Moving from a wealthy city to a less expensive region can increase disposable resources and alter social comparison in opposite directions.
+
+The person has not moved on one ladder.
+
+They have moved across several.
+
+Reference groups therefore matter.
+
+Humans do not compare themselves to every person alive with equal weight. Coworkers, neighbors, classmates, relatives, professional peers and visible online communities become practical comparison sets.
+
+Technology changes those sets.
+
+A teenager once compared clothes, popularity and achievement mostly within a school or town. A phone can place global wealth, beauty, performance and status into the same attention stream before breakfast.
+
+The material condition may be unchanged.
+
+The reference distribution widens.
+
+That can steepen perceived status gradients without any change in absolute resources.
+
+This does not prove that social media or comparison causes one universal psychological outcome. People respond differently. Communities provide belonging as well as competition. Aspirational examples can motivate as well as discourage.
+
+The structural point is narrower.
+
+A ranking depends on who is included in the rank.
+
+Change the comparison population and the same person can occupy a different percentile without changing at all.
+
+Institutions exploit this constantly.
+
+Schools choose peer groups. Companies choose promotion cohorts. Awards define eligible populations. Rankings choose comparison sets. Luxury brands create tiers whose meaning depends on exclusion.
+
+The denominator is part of status.
+
+That makes mobility psychologically strange.
+
+A person can improve in absolute terms and feel stationary because the reference group upgrades at the same time. An excellent student enters an elite university and becomes average among exceptional peers. A successful local entrepreneur enters a global market and feels small. A promoted employee joins a senior group where the new title is ordinary.
+
+Success changes the comparison set.
+
+The rung rises and the horizon rises with it.
+
+This is one reason status competition can remain intense even in materially comfortable populations.
+
+The target moves because reaching one category changes the population against which the next judgment is made.
+
+There is no final percentile in a world of nested hierarchies.
+
+That observation can sound bleak.
+
+It can also be freeing.
+
+If material welfare and relative rank are distinct, institutions can decide more deliberately which one a policy is meant to improve.
+
+A health program can target absolute exposure even if status inequality remains. A workplace can improve schedule control and dignity without promising everyone promotion. A school can expand advanced instruction without pretending every student will occupy the top rank.
+
+Not every gradient has to be flattened for every life to improve.
+
+The important work is preventing positional competition from unnecessarily governing things that need not be positional at all.
+
+Dignity does not have to be scarce.
+
+Basic safety does not have to be scarce.
+
+Access to truthful information does not have to be scarce.
+
+The number of executive titles may be limited. Respect for the people without them does not have to be.
+
+That is a design choice about which consequences rank is allowed to control.
