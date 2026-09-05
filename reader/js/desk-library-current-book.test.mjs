@@ -51,8 +51,9 @@ match(css, /prefers-reduced-motion:reduce/);
 doesNotMatch(css, /body\[data-stage="read"\]/);
 doesNotMatch(css, /--reader-page-/);
 match(loader, /desk-library-current-book\.js\?v=bookself-20260905/);
-match(worker, /'\.\/css\/desk-library-current-book\.css'/);
-match(worker, /'\.\/js\/desk-library-current-book-model\.js'/);
-match(worker, /'\.\/js\/desk-library-current-book\.js'/);
+
+// This enhancement is deliberately nonessential to shell installation. A cold
+// offline launch keeps the canonical Continue card instead of failing Reader install.
+doesNotMatch(worker, /desk-library-current-book/);
 
 console.log(`Desk current-book resume promotion: ${assertions} assertions passed`);
