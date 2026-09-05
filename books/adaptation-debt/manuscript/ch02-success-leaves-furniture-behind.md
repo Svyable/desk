@@ -70,6 +70,48 @@ The United States federal government provides unusually visible examples because
 
 In 2025, GAO reported that the federal government spends more than $100 billion annually on information technology and cyber-related investments and that agencies have historically reported roughly four-fifths of that amount going to operations and maintenance. GAO identified eleven critical legacy systems most in need of modernization across ten agencies. Some used outdated programming languages. Some depended on unsupported hardware or software. Some operated with known cybersecurity vulnerabilities. For most of the systems GAO highlighted, modernization plans did not fully document the leading practices GAO expected.
 
+The age range is useful because it destroys another easy category.
+
+The eleven systems were roughly twenty-three to sixty years old.
+
+They were not all ancient in the same way, and they were not all failing in the same way. Eight used legacy programming languages. Four had unsupported hardware, software, or operating systems. Seven had known cybersecurity vulnerabilities. The two Treasury systems in the selected group ran on COBOL and assembly language, where GAO noted a dwindling pool of people with the needed skills. The Environmental Protection Agency system in the group contained obsolete hardware no longer supported by manufacturers and vulnerabilities that could not be fully remediated without modernization.
+
+Together, the eleven systems cost about $754 million each year to operate and maintain.
+
+That number makes the tradeoff more concrete without making it simple.
+
+Seven hundred fifty-four million dollars a year is a reason to modernize.
+
+It is also evidence that the systems are still embedded deeply enough in government operations to consume that much money.
+
+The question is not why nobody has noticed them.
+
+The question is why noticing does not make replacement immediate.
+
+GAO's earlier 2019 review helps here. It identified ten critical systems most in need of modernization. By February 2025, agencies had completed three of those ten modernizations. Four of the seven remaining were expected to finish in the next few years. Two were five or more years away. One still lacked a planned completion date.
+
+That timeline is not evidence that every delay is justified.
+
+It is evidence that replacement itself has a duration.
+
+A system can be officially recognized as a modernization priority and still spend years in the transition because the institution has to preserve the mission while changing the machinery underneath it.
+
+One of GAO's 2025 examples was the National Finance Center system at the Department of Agriculture, a personnel and payroll system first implemented in 1983. GAO reported roughly 85,000 users and annual operating costs above $100 million, with modernization in progress and planned completion in fiscal year 2031.
+
+The point is not that 2031 is necessarily the correct date.
+
+The point is what the date reveals.
+
+A payroll platform cannot be judged like a phone application whose old version can simply lose support. Every pay cycle becomes part of the migration constraint. Data correctness matters. Interfaces matter. Security matters. People still have to be paid while the replacement is incomplete.
+
+This is the important asymmetry of mature infrastructure.
+
+The new system gets judged on what it might improve.
+
+The old system gets judged on what must not stop.
+
+Those are different burdens.
+
 It is easy to read this as a story about government being old.
 
 That misses the harder fact.
@@ -93,6 +135,38 @@ The second is modernization that breaks the service.
 The institution is judged for both.
 
 That double responsibility produces behavior that looks conservative because, in an important sense, it is supposed to be conservative.
+
+Modernization plans reveal how much work sits between those two failure modes.
+
+GAO looked for three basic elements: milestones, a description of the work necessary to modernize, and a plan for what happens to the legacy system. Only three of the eleven selected systems had plans containing all three elements. Six had incomplete plans, and two had no documented modernization plan.
+
+The third element is easy to underestimate.
+
+What happens to the old system?
+
+That sounds like the end of the project.
+
+In many transitions it is the project.
+
+Which records remain authoritative during overlap?
+
+When does the new system become the system of record?
+
+What data must be retained under law or policy?
+
+How long can users fall back to the old workflow?
+
+When can old hardware be retired?
+
+Who certifies that downstream systems no longer depend on it?
+
+What happens if the new system fails after cutover?
+
+The disposition plan is where the institution proves it knows what the old thing was actually doing.
+
+A weak disposition plan is often a sign that dependencies are still being discovered.
+
+That is furniture becoming visible during the move.
 
 Michael Hannan and John Freeman made a related point in their work on structural inertia. Organizations are selected partly for their ability to reproduce structure reliably and to account for their actions. Inertia is therefore not simply a defect imposed on otherwise ideal organizations. The capacity to behave predictably can be part of what makes an organization legitimate.
 
