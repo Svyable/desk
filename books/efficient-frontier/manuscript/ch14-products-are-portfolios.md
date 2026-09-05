@@ -197,3 +197,51 @@ A product is a portfolio whose assets interact, whose customers have different u
 The best product is rarely the one with the most of everything.
 
 It is the one whose sacrifices are deliberate enough that customers can recognize themselves in the bundle.
+
+A product portfolio has another complication that the financial analogy makes easier to see: some features are negatively correlated in burden. A strong platform capability can make several future features cheaper. A common identity layer can reduce duplicated security work. A design system can make consistency easier as the interface grows. A good import/export format can reduce switching anxiety while increasing adoption.
+
+These are not merely features with positive value. They change the covariance of future work.
+
+Architecture therefore belongs in the product frontier because it changes how expensive later choices are. A tightly coupled architecture can make the first few features fast and every later exception expensive. A modular architecture can impose a larger initial cost and lower the marginal cost of variation. The correct architecture depends partly on how much variation the product is likely to need.
+
+The product decision is dynamic.
+
+This is why road maps should include enabling investments even when customers cannot buy them directly. Testing infrastructure, migration tooling, common components, observability, accessibility primitives, and billing foundations can move the feasible set for many visible features.
+
+The danger is that every internal project can claim to be enabling. The burden is reuse.
+
+Which future decisions become cheaper because this exists? How many? What evidence will show the leverage? If the internal platform serves only the feature that justified it, the portfolio argument may have been theater.
+
+Products also contain concentration risk. One highly valuable feature can become the reason the entire product exists. That focus can be an advantage. It can also make the product vulnerable if the feature is commoditized, regulated, copied, or made obsolete.
+
+A portfolio does not need equal weights to be diversified.
+
+It needs awareness of what happens when the dominant source of value changes.
+
+This can shape investment. A company may preserve the core while using adjacent features to create new reasons to stay. Or it may deliberately remain concentrated because every attempt at diversification weakens the product's identity. The frontier is between focus and resilience.
+
+Product lines create a second portfolio layer. A company can serve different frontier points with separate products rather than forcing one product to satisfy everyone. That can reduce compromise inside each product and increase duplication across the line.
+
+Multiple products require separate marketing, support, engineering, data, and migration paths. One product requires more internal complexity to serve different preferences. The correct structure depends on whether the variation can be isolated cleanly.
+
+This is why editions, tiers, models, and sub-brands exist.
+
+They are attempts to partition the preference space.
+
+A good partition keeps the important tradeoffs coherent. A bad one creates arbitrary gates, confusing overlap, and customers who must buy the wrong bundle to get one needed capability.
+
+Customer research should therefore ask not only what people want but which sacrifices cluster together. Do the people who value privacy also value local control? Do the customers who need extreme reliability also need contractual support? Do the buyers who want low price accept limited customization? Preference correlation tells the company whether one product can serve a segment coherently.
+
+This is the demand-side equivalent of architecture.
+
+The final portfolio liability is promise accumulation. Every feature, integration, service level, compatibility guarantee, and historical behavior can become something a customer reasonably expects to continue. A product is not only the code that exists. It is a set of expectations the company has taught the market.
+
+Those expectations constrain future deletion.
+
+This is why the cheapest time to evaluate a promise is before it is made. A small feature can be easy to build and expensive to support for ten years. A compatibility commitment can unlock adoption and slow future redesign. A service level can win enterprise trust and require permanent spare capacity.
+
+The marginal cost of a product decision includes the probability that it becomes part of the product's constitution.
+
+A good product portfolio does not avoid commitments.
+
+It chooses the ones worth becoming hard to remove.

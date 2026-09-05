@@ -235,3 +235,45 @@ The goal is to know when conflict is revealing a real frontier and when the stru
 A team sees one graph.
 
 A company has to see the system of graphs well enough that local intelligence adds up to something better than local victories.
+
+Decision rights are the organization's way of deciding which graph gets to act without reopening the whole system. They are often described in boxes: this role decides, that role advises, another role approves. In practice a decision right is valuable only if the boundary matches the externality.
+
+Give a local team authority over a choice whose costs land mostly locally and the organization gains speed. Give the same team authority over an irreversible system-wide dependency and local intelligence can become system damage. Centralize a trivial choice because it might matter and the organization pays coordination cost every day to protect a rare edge case.
+
+Good decision rights are sparse.
+
+They send few decisions upward, but the ones they send upward are the decisions whose consequences actually cross the delegated frontier.
+
+This is why escalation rate can be a diagnostic. Too many escalations may mean authority is too narrow, policies are unclear, or teams lack shared preference information. Too few can mean hidden costs are being exported without a forum. The number alone does not tell you which. The pattern does.
+
+Repeated escalations on the same tradeoff suggest a missing reusable policy. Repeated late surprises suggest a boundary drawn too locally. Senior leaders approving hundreds of reversible details suggests the center has become a bottleneck.
+
+The organization should not celebrate alignment by meeting count.
+
+Coordination is a cost paid to protect a system value.
+
+That cost deserves an enough line too.
+
+A useful way to redesign coordination is to separate notification from permission. Many people need to know about a decision; far fewer need a veto. Treating awareness as approval turns information flow into latency. A shared log, pre-read, or after-the-fact review can preserve visibility without placing every observer on the critical path.
+
+This distinction can move the frontier between transparency and speed.
+
+The same applies to standards. A standard can encode a repeated frontier choice so teams do not have to re-negotiate it. Security baselines, interface contracts, financial controls, accessibility requirements, service-level classes, and procurement templates all reduce decision cost when the underlying preference is stable.
+
+Standards become harmful when they are impossible to challenge or expensive to update after the frontier moves.
+
+A mature organization therefore gives standards an exception path and a revision path. Exceptions should be costly enough that the default remains meaningful and cheap enough that a changed reality can surface. A rule with no exceptions can become brittle. A rule with effortless exceptions is not a rule.
+
+Internal prices deserve similar suspicion. Charging a team for the cost it imposes elsewhere can align incentives, but internal pricing can create an artificial market whose prices are wrong. A platform team can overcharge scarce capacity and suppress useful demand. A finance model can assign a generic support cost to a customer whose actual burden is different. Teams then optimize around the internal transfer price rather than the system cost.
+
+An internal price should be treated as an estimate of an externality, not as scripture.
+
+When the price changes behavior dramatically, audit whether the underlying cost moved too.
+
+The deepest organizational frontier is between decomposition and integration. Decompose too little and nobody can act without everyone else. Decompose too much and the company becomes a collection of locally efficient components that require heroic coordination to produce one customer outcome.
+
+The best structures make the common path cheap and the unusual cross-boundary trade visible.
+
+That is not organization-chart elegance.
+
+It is feasible-set design applied to people who each see only part of the curve.
