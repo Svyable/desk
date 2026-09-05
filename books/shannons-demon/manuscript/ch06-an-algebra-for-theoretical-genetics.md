@@ -178,6 +178,20 @@ The genetics doctorate is a useful defense against that process because it remin
 
 A young researcher can spend a year on a problem that does not become his monument and still have spent the year well.
 
+There is also a methodological reason to keep the dissertation in the story. It gives us a rare negative control on Shannon's style of abstraction. In the relay work, the formal representation mapped onto an engineered system so cleanly that later generations could forget how contingent the success was. Genetics shows the same appetite for symbolic compression meeting a domain whose useful variables were not chosen by an engineer and whose omitted causes could matter as much as the represented ones.
+
+That difference lets us see what Shannon's method could not guarantee. A good notation cannot manufacture a good model. A model can be internally consistent and still omit the mechanism that dominates the observed world. It can track hereditary combinations while saying little about the environmental and evolutionary pressures that determine which combinations persist. It can simplify a problem without solving the scientific question that another researcher actually cares about.
+
+This is not an argument against mathematical biology. It is an argument against confusing mathematical tractability with explanatory completeness. The distinction is easy to say and hard to practice because a formal system rewards the person working inside it. Once a set of assumptions yields clean transformations, the mathematics begins producing consequences faster than the surrounding science can test whether the setup deserved that confidence.
+
+Shannon's later information theory would avoid part of this danger by narrowing its ambition with unusual discipline. It would not claim to measure importance, truth, beauty, or semantic value. It would ask a sharply bounded engineering question about uncertainty, coding, and communication. The genetics work helps reveal why such boundaries matter. Generality is safest when the theory is precise about what it refuses to explain.
+
+There is a career lesson here too, though it should not be turned into advice more confident than the evidence. Researchers often learn as much from a method that transfers imperfectly as from one that succeeds. A failed transfer can expose which features of the original problem had been doing hidden work. In Shannon's case, relay logic had the advantage of discrete states, designed behavior, and a preexisting symbolic algebra that fit those states exceptionally well. Genetics forced a confrontation with assumptions that were less under the modeler's control.
+
+That experience makes the later economy of information theory easier to appreciate. Shannon's mature achievement was not that he discovered a mathematics capable of swallowing every domain. It was that he found a domain boundary narrow enough for the mathematics to become exact and broad enough for the result to travel.
+
+The genetics dissertation does not foreshadow that result by secretly containing it. It foreshadows it by showing how hard the choice of abstraction really is.
+
 Shannon received his Ph.D. in mathematics from MIT in 1940. The credential closed one formal stage of his education. It did not settle what kind of scientist he was.
 
 If anything, the doctorate made the category harder to name.
