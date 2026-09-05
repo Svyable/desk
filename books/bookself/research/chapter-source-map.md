@@ -27,7 +27,11 @@ This map records the primary empirical neighbors of each chapter. It does not im
 | 21 — Starting Together | `edmondson-1999`, `march-1991` | Psychological safety for learning behavior and collective exploration. |
 | 22 — Institutions Need First Pages | `march-1991`, `edmondson-1999` | Exploration versus exploitation and conditions for learning in teams. |
 | 23 — The Last First Time | `wrosch-et-al-2003`, `march-1991` | Reallocation among goals and the recurring exploration/exploitation problem; mortality claims remain philosophical rather than inferred from these studies. |
-| 24 — The First Page Again | All sources | Synthesis. The closing argument deliberately narrows claims to what the underlying literatures can support. |
+| 24 — The First Page Again | All sources | Synthesis. The argument deliberately narrows claims to what the underlying literatures can support. |
+| 25 — The Cost of a First Try | `march-1991`, `madrian-shea-2001`, authorial synthesis | Exploration has costs and choice architecture changes participation; claims about wealth, care, health, attention, and risk capacity must be treated as institutional/economic analysis rather than inferred from identity research. |
+| 26 — Who Gets to Be a Beginner | `edmondson-1999`, `ibarra-1999`, `march-1991` | Learning climates, provisional role identities, and the organizational tradeoff between exploiting current competence and developing new competence. Claims about apprenticeship design and access require domain-specific evidence when used as concrete examples. |
+| 27 — Beginnings That Bind | `march-1991`, `wrosch-et-al-2003`, authorial normative analysis | Exploration and goal adjustment help define the boundary of the argument; neither source establishes the ethical claims about promises, fiduciary duties, patients, children, employees, or citizens. Those claims are normative and should be sourced from the relevant legal/professional domain when made specifically. |
+| 28 — The Shelf Stays Open | All sources | Final synthesis. The chapter distinguishes traces, patterns, commitments, and outcomes and treats mortality, regret, and authorship as philosophical synthesis rather than empirical findings of the cited literatures. |
 
 ## Claims deliberately left as authorial synthesis
 
@@ -37,6 +41,9 @@ The following ideas are original framing rather than claims attributed to the re
 - a beginning as the purchase of identity-relevant evidence;
 - “the first trace” as the smallest real contact that changes the next decision;
 - keeping an archive of first versions as a defense against hindsight turning contingency into destiny;
-- the claim that a revisable society should create legitimate paths for updated evidence about people to count.
+- the claim that a revisable society should create legitimate paths for updated evidence about people to count;
+- the claim that economic and social margin partly determine how cheaply a person can purchase self-knowledge through experimentation;
+- the distinction between **reversible beginnings**, where preserving option value can improve learning, and **binding beginnings**, where other people acquire legitimate claims on the starter;
+- the claim that institutions reproduce competence partly through the quality of the first consequential work they entrust to novices.
 
 These can be argued, illustrated, challenged, and refined, but they should never be described as findings established by the cited studies.
