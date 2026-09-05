@@ -74,6 +74,12 @@ Shannon asked for the boundary.
 
 For a channel with specified statistical properties, there is a maximum rate at which information can be transmitted with arbitrarily small error, provided suitable coding is used. Below that capacity, reliability can in principle be driven extremely high. Above it, no ingenious code can repeal the limit.
 
+The qualifiers in that sentence matter as much as the conclusion. “Arbitrarily small” is not “zero for every finite message.” “Suitable coding” is not “a practical code is handed to the engineer.” And the channel whose capacity is being discussed is a mathematical model with specified statistical behavior, not every wire, radio link, or storage device that happens to be called a channel.
+
+Shannon’s theorem was an existence result before it was an implementation recipe. It said that codes with the required performance must exist under the model’s conditions. Finding codes that were computationally manageable, low-latency, power-efficient, and robust to the messiness of actual hardware remained a vast engineering program.
+
+That gap between existence and construction is not an embarrassment in the theory. It is one reason the theory was so productive. A proof can tell engineers that a destination is real even when it does not tell them the cheapest road.
+
 The statement is easy to flatten into the slogan that Shannon discovered channel capacity. The more radical point is the relation between noise and coding.
 
 Noise does not automatically impose a proportional amount of unavoidable error. A noisy channel can carry information with vanishingly small error if the rate stays below capacity and the code is sufficiently well designed. The engineer need not demand a physically perfect channel. The code can cooperate with the channel’s statistical structure.
@@ -85,6 +91,8 @@ The practical codes capable of approaching theoretical limits would take decades
 A limit theorem can create an engineering program.
 
 If no one knows whether reliable communication at a given rate is possible, failed designs are ambiguous. Perhaps the implementation is poor. Perhaps the goal itself is impossible. Once a theoretical capacity is known, those possibilities separate. A design below the limit can be judged against what mathematics says should be achievable. A proposed system above the limit can be rejected without building every conceivable version of it.
+
+The theorem also prevents a different mistake: confusing a bad code with a bad channel. If a system performs well below the modeled capacity, the shortfall may lie in coding, decoding, synchronization, hardware, or other implementation choices. The capacity is a ceiling, not a diagnosis. It tells the engineer how much room might remain without specifying where the lost performance went.
 
 This is one reason Shannon’s work traveled so far beyond telephony.
 
@@ -121,6 +129,8 @@ A theory earns generality by preserving structure, not by collecting metaphors.
 The 1948 paper was general because its claims were precise.
 
 It specified mathematical models. It defined quantities. It proved results under stated assumptions. Those assumptions mattered. A theorem about a modeled channel is not a promise that every physical system will behave exactly like the model. Engineering judgment remains necessary to decide whether the abstraction fits the apparatus.
+
+A physical link may fade, drift, burst with interference, change over time, or violate the independence assumptions that made a classroom channel convenient to analyze. Engineers respond by choosing richer models, estimating the channel, adapting transmission, interleaving, adding margins, or accepting a different performance target. None of that contradicts Shannon. It is the work required to decide which Shannon-style model is useful for the apparatus in front of you.
 
 Shannon’s genius was not that he eliminated engineering detail. It was that he found a level at which many details could be temporarily ignored without losing the central constraint.
 
