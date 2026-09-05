@@ -65,6 +65,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Shannon's Demon](https://svyable.github.io/desk/books/shannons-demon/README.md)
 - [Silent Cartel](https://svyable.github.io/desk/books/silent-cartel/README.md)
 - [Single Points of Failure](https://svyable.github.io/desk/books/single-points-of-failure/README.md)
+- [Solar Century](https://svyable.github.io/desk/books/solar-century/README.md)
 - [Source Code](https://svyable.github.io/desk/books/source-code/README.md)
 - [Subsidized Intelligence](https://svyable.github.io/desk/books/subsidized-intelligence/README.md)
 - [Synthetic Intelligence](https://svyable.github.io/desk/books/synthetic-intelligence/README.md)
