@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting |
+| **Status** | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 0 of 22 drafted |
+| **Chapters** | 30 of 30 drafted |
 | **Method** | Narrative science + competing mechanisms + preregisterable falsification tests |
 
 Some nonspeaking autistic people who use letterboards or related spelling methods have described experiences they interpret as telepathy. Among the strangest is a recurring image sometimes called **the Hill**: a place, plane, or shared mental meeting ground where people say they encounter one another without ordinary speech.
@@ -31,39 +31,49 @@ This is a book about what would have to be true.
 
 1. **Dignity is not an experimental variable.** The personhood and rights of nonspeaking participants do not rise or fall with the success of any communication method or paranormal claim.
 2. **Authorship comes before telepathy.** Establish who is generating the spelled message before using that message as evidence about how information arrived.
-3. **Known channels get first refusal.** Visual, auditory, tactile, proprioceptive, motor, autonomic, social, and procedural pathways must be measured or excluded before invoking an unknown carrier.
+3. **Known channels get first refusal.** Visual, auditory, tactile, proprioceptive, motor, autonomic, social, procedural, technological, and inferential pathways must be measured or excluded before invoking an unknown carrier.
 4. **Synchrony is not content.** Two bodies or brains can become temporally aligned because they share stimuli or interact. Semantic transfer requires novel, target-specific information.
 5. **A mechanism must pay its bills.** Every proposed pathway must specify source, encoding, carrier, range, receptor or transducer, bandwidth, timing, noise tolerance, and a perturbation that should weaken it.
 6. **Strong claims require adversarial experiments.** Preregistration, blinding, concealed targets, decoys, sender-absent trials, independent scoring, and multi-lab replication are features, not hostility.
 7. **The Hill is treated as a report, not a conclusion.** Shared mental geography is interesting whether its cause is cultural, cognitive, physiological, or currently unknown.
 8. **Uncertainty stays visible.** Evidence for one rung of the ladder cannot be quietly promoted into evidence for the next.
+9. **Range and bandwidth are mechanism tests.** Distance curves and information capacity should constrain any proposed biological carrier.
+10. **A real anomaly does not need protection from a clean experiment.** The purpose of controls is to make a surviving effect more valuable.
 
 ## Contents
 
-- [ ] [Front Matter — The Place Nobody Can Point To](manuscript/front-matter.md)
-- [ ] [Chapter 1 — The Hill](manuscript/ch01-the-hill.md)
-- [ ] [Chapter 2 — A Mind Without a Mouth](manuscript/ch02-a-mind-without-a-mouth.md)
-- [ ] [Chapter 3 — A Finger, a Board, a Second Person](manuscript/ch03-a-finger-a-board-a-second-person.md)
-- [ ] [Chapter 4 — The Authorship Problem](manuscript/ch04-the-authorship-problem.md)
-- [ ] [Chapter 5 — What Telepathy Would Have to Mean](manuscript/ch05-what-telepathy-would-have-to-mean.md)
-- [ ] [Chapter 6 — The Channels We Forget](manuscript/ch06-the-channels-we-forget.md)
-- [ ] [Chapter 7 — Eyes Before Fingers](manuscript/ch07-eyes-before-fingers.md)
-- [ ] [Chapter 8 — The Motor Bottleneck](manuscript/ch08-the-motor-bottleneck.md)
-- [ ] [Chapter 9 — Two Nervous Systems in One Room](manuscript/ch09-two-nervous-systems-in-one-room.md)
-- [ ] [Chapter 10 — Bodies That Keep Time Together](manuscript/ch10-bodies-that-keep-time-together.md)
-- [ ] [Chapter 11 — The Brain That Predicts Another Brain](manuscript/ch11-the-brain-that-predicts-another-brain.md)
-- [ ] [Chapter 12 — The Synchrony Trap](manuscript/ch12-the-synchrony-trap.md)
-- [ ] [Chapter 13 — The Fields We Actually Emit](manuscript/ch13-the-fields-we-actually-emit.md)
-- [ ] [Chapter 14 — The Electromagnetic Problem](manuscript/ch14-the-electromagnetic-problem.md)
-- [ ] [Chapter 15 — The Quantum Temptation](manuscript/ch15-the-quantum-temptation.md)
-- [ ] [Chapter 16 — A Place That Is Not a Place](manuscript/ch16-a-place-that-is-not-a-place.md)
-- [ ] [Chapter 17 — Dreams, Maps, and Shared Worlds](manuscript/ch17-dreams-maps-and-shared-worlds.md)
-- [ ] [Chapter 18 — The Receiver Hypothesis](manuscript/ch18-the-receiver-hypothesis.md)
-- [ ] [Chapter 19 — The Experiment That Could Change Everything](manuscript/ch19-the-experiment-that-could-change-everything.md)
-- [ ] [Chapter 20 — Building a Lab Around Dignity](manuscript/ch20-building-a-lab-around-dignity.md)
-- [ ] [Chapter 21 — If the Signal Survives](manuscript/ch21-if-the-signal-survives.md)
-- [ ] [Chapter 22 — If It Doesn’t](manuscript/ch22-if-it-doesnt.md)
-- [ ] [Back Matter — A Protocol for the Impossible](manuscript/back-matter.md)
+- [x] [Front Matter — The Place Nobody Can Point To](manuscript/front-matter.md)
+- [x] [Chapter 1 — The Hill](manuscript/ch01-the-hill.md)
+- [x] [Chapter 2 — A Mind Without a Mouth](manuscript/ch02-a-mind-without-a-mouth.md)
+- [x] [Chapter 3 — A Finger, a Board, a Second Person](manuscript/ch03-a-finger-a-board-a-second-person.md)
+- [x] [Chapter 4 — The Authorship Problem](manuscript/ch04-the-authorship-problem.md)
+- [x] [Chapter 5 — What Telepathy Would Have to Mean](manuscript/ch05-what-telepathy-would-have-to-mean.md)
+- [x] [Chapter 6 — The Channels We Forget](manuscript/ch06-the-channels-we-forget.md)
+- [x] [Chapter 7 — Eyes Before Fingers](manuscript/ch07-eyes-before-fingers.md)
+- [x] [Chapter 8 — The Motor Bottleneck](manuscript/ch08-the-motor-bottleneck.md)
+- [x] [Chapter 9 — Two Nervous Systems in One Room](manuscript/ch09-two-nervous-systems-in-one-room.md)
+- [x] [Chapter 10 — Bodies That Keep Time Together](manuscript/ch10-bodies-that-keep-time-together.md)
+- [x] [Chapter 11 — The Brain That Predicts Another Brain](manuscript/ch11-the-brain-that-predicts-another-brain.md)
+- [x] [Chapter 12 — The Synchrony Trap](manuscript/ch12-the-synchrony-trap.md)
+- [x] [Chapter 13 — The Fields We Actually Emit](manuscript/ch13-the-fields-we-actually-emit.md)
+- [x] [Chapter 14 — The Electromagnetic Problem](manuscript/ch14-the-electromagnetic-problem.md)
+- [x] [Chapter 15 — The Quantum Temptation](manuscript/ch15-the-quantum-temptation.md)
+- [x] [Chapter 16 — A Place That Is Not a Place](manuscript/ch16-a-place-that-is-not-a-place.md)
+- [x] [Chapter 17 — Dreams, Maps, and Shared Worlds](manuscript/ch17-dreams-maps-and-shared-worlds.md)
+- [x] [Chapter 18 — The Receiver Hypothesis](manuscript/ch18-the-receiver-hypothesis.md)
+- [x] [Chapter 19 — The Experiment That Could Change Everything](manuscript/ch19-the-experiment-that-could-change-everything.md)
+- [x] [Chapter 20 — Building a Lab Around Dignity](manuscript/ch20-building-a-lab-around-dignity.md)
+- [x] [Chapter 21 — If the Signal Survives](manuscript/ch21-if-the-signal-survives.md)
+- [x] [Chapter 22 — If It Doesn’t](manuscript/ch22-if-it-doesnt.md)
+- [x] [Chapter 23 — The Clever Hans Problem](manuscript/ch23-the-clever-hans-problem.md)
+- [x] [Chapter 24 — The Information Budget](manuscript/ch24-the-information-budget.md)
+- [x] [Chapter 25 — A Biology of Weak Signals](manuscript/ch25-a-biology-of-weak-signals.md)
+- [x] [Chapter 26 — Magnetoreception Without Magic](manuscript/ch26-magnetoreception-without-magic.md)
+- [x] [Chapter 27 — Distance Is a Mechanism](manuscript/ch27-distance-is-a-mechanism.md)
+- [x] [Chapter 28 — The Adversarial Lab](manuscript/ch28-the-adversarial-lab.md)
+- [x] [Chapter 29 — The Hill Challenge](manuscript/ch29-the-hill-challenge.md)
+- [x] [Chapter 30 — The First Honest Unknown](manuscript/ch30-the-first-honest-unknown.md)
+- [x] [Back Matter — A Protocol for the Impossible](manuscript/back-matter.md)
 
 ## Continuity motifs
 
@@ -74,7 +84,10 @@ This is a book about what would have to be true.
 - **The strongest test separates authorship, access, and transfer.** They are three different claims.
 - **The Hill is both subject and method.** It asks whether a shared place is a shared story, a shared cognitive construction, or evidence of shared information.
 - **A negative result is not a verdict on a person.** It is a boundary on a claim.
+- **Distance is physics asking for a receipt.** Range should discriminate mechanisms.
+- **A weak signal still needs a receptor.** Sensitivity without transduction is a metaphor, not a mechanism.
+- **The first revolutionary result should be boring.** One clean reproducible bit matters more than one spectacular uncontrolled demonstration.
 
 ## Research discipline
 
-See [research/README.md](research/README.md). Concrete scientific claims receive a checkable source trail and every chapter carries a falsification note describing what would make its central interpretation weaker, narrower, or wrong.
+See [research/README.md](research/README.md) and the canonical [research/source-ledger.csv](research/source-ledger.csv). Every chapter has a source trail and a falsification note describing what would make its central interpretation weaker, narrower, or wrong. Media and first-person sources document reports only; they are not promoted into evidence for external telepathic transfer.
