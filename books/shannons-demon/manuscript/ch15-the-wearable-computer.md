@@ -74,9 +74,59 @@ The problem had become ergonomics, communications, concealment, probability, and
 
 This is what real systems do to pure mathematics. They add friction.
 
+The friction can be decomposed.
+
+First the observer has to measure the wheel and ball accurately enough for the model to matter.
+
+Then the measurement has to reach the computer without delay or accidental input.
+
+The computer has to transform the observation quickly enough that the answer remains useful before betting closes.
+
+The output has to reach the bettor correctly.
+
+The bettor has to understand the signal and place the wager on time.
+
+The hardware has to survive motion, clothing, heat, repeated use, and concealment.
+
+Finally the wheel being played has to behave enough like the wheel that was modeled for the estimate to retain value.
+
+The famous statistical edge sits at the end of that chain, not at the beginning.
+
+A failure at any link can erase it.
+
+This is an important difference between a model and a system.
+
+A model can be right in isolation.
+
+A system has to remain right enough after sensing error, timing error, human error, component failure, and environmental variation have been added.
+
+If the theoretical advantage is large but the input measurement is noisy, the realized advantage shrinks. If the prediction is good but arrives after bets close, it is economically zero. If the output channel is misunderstood, the machine can convert a good estimate into a bad bet. If the hardware works nine times and fails on the tenth in a way that cannot be detected, the user may not even know which predictions deserve trust.
+
+Reliability therefore becomes part of the mathematics of use, even when it is not part of the predictive equation.
+
+The distinction would become familiar in every later field that tried to move algorithms out of demonstrations and into consequential environments. A medical model can score well and fail if the data pipeline changes. An automated trading strategy can have positive backtested expectation and lose money through latency, costs, or execution. A robot can plan a valid path and still fail because a sensor is miscalibrated. A communication code can approach a theoretical limit and still be useless if the decoder requires more delay or power than the application permits.
+
+The theory is not disproved by the system failure.
+
+The product is still failed.
+
 Shannon knew that already.
 
 A communication theorem can assume a channel model. A working telephone system has amplifiers, relays, maintenance schedules, copper, weather, and budget constraints. A chess program can define an evaluation function. A working chess machine has memory limits, processor speed, and bugs. A roulette model can identify an edge. A wearable computer has wires thin enough to break.
+
+There is also a countercase hiding in the physical wheel.
+
+Not every roulette wheel is predictably biased enough to beat.
+
+The project did not reveal a betting system that defeats the mathematical house edge on an ideal random wheel. It looked for residual predictability in a real mechanical process before the outcome settled. If the wheel, launch conditions, and ball dynamics leave too little usable predictability—or if the observer cannot measure it accurately enough—the advantage disappears.
+
+That boundary matters because gambling stories attract magical thinking.
+
+Shannon and Thorp were not proving that randomness can always be outsmarted.
+
+They were proving that some events labeled random contain a mixture of genuine uncertainty and unmeasured physical state.
+
+The engineering task was to find out which kind of uncertainty they were facing before money was committed.
 
 The final operating version was tested in Shannon's home laboratory in June 1961. Thorp later reported that, in their model, betting on the most favored octant produced an expected advantage of roughly forty-four percent.
 
@@ -109,6 +159,20 @@ The machine worked well enough in a real casino to support the underlying model.
 It failed in another sense: the hardware was too fragile for sustained use.
 
 An investor might call that execution risk. An engineer would simply call it reality.
+
+The hardware failure also clarifies what a prototype proves.
+
+A prototype can establish possibility without establishing deployability.
+
+Those are different milestones.
+
+If a device works once on a bench, the mechanism may be sound. If it works repeatedly under controlled conditions, the design has crossed another threshold. If it works while attached to moving human bodies in an adversarial public environment, another. If it can be maintained, calibrated, repaired, and used without expert supervision, another again.
+
+Technology histories often collapse these thresholds because the first successful demonstration is the dramatic date.
+
+Deployment is usually a sequence of less photogenic problems.
+
+The wearable computer never needed to cross all of them to be historically interesting. Its failure to do so is part of what makes the episode useful. The machine demonstrated that body-worn real-time computation could influence a physical decision before the category had a commercial name. It also demonstrated how little a large theoretical edge matters if the device carrying it is not dependable.
 
 The machine was secret for years.
 
