@@ -408,10 +408,114 @@ Yet it changes competition. A market full of difficult-to-compare tariffs can re
 
 Opacity creates a friction gradient.
 
+There is another price that rarely appears with a currency symbol.
+
+Waiting.
+
+If a service is free but requires a three-hour line, the price is not zero to the person whose time has another use. If an apartment is rent-controlled but requires years on a waiting list, access is rationed by something other than the posted rent. If a permit costs little but requires repeated weekday visits to an office, administrative time becomes part of the tariff.
+
+When money prices are capped, subsidized or removed, scarcity does not always disappear.
+
+It can migrate into queues, lotteries, search effort, relationships, eligibility rules, quality deterioration or informal markets.
+
+This is not an argument against free public services or price controls in general. It is an argument for looking for the full rationing mechanism.
+
+Zero is a price category.
+
+It is not proof of zero cost.
+
+A free digital service may be paid for with attention, data, advertising exposure or dependence. A free workplace benefit may be paid for with lower cash compensation or reduced portability. A free event may be rationed by who hears about it first and can spend the morning refreshing a webpage.
+
+The monetary line can flatten while another gradient steepens.
+
+Economists sometimes call the value of a constrained resource its shadow price: the value of relaxing the constraint by one unit even when no explicit market price is posted.
+
+You do not need the term to recognize the experience.
+
+The last parking space has a shadow price to the driver circling the block.
+
+The last hour before a deadline has a shadow price to the team that cannot buy more time.
+
+A hospital bed has a different value when ten beds are empty than when every bed is occupied.
+
+An immigration slot, a school seat, a transplant organ and a courtroom hour can all have enormous practical value without being allocated by ordinary price.
+
+Scarcity creates a slope whether money names it or not.
+
+This is why “make it free” and “let the market price it” are not complete designs.
+
+Both leave a question about who receives the next scarce unit.
+
+Money is one rationing mechanism.
+
+Queues are another.
+
+Priority rules are another.
+
+Need assessments, lotteries, seniority, merit scores, geographic boundaries and first-come-first-served rules are others.
+
+Each creates its own staircase.
+
+Each makes different people marginal.
+
+The ethics of a price system often hide at that margin.
+
+Who gets the next unit when there is not enough for everyone at the current terms?
+
+A market answers: the person willing and able to pay the marginal price.
+
+A lottery answers: one eligible person by chance.
+
+A needs test answers: the person who crosses a defined severity threshold.
+
+A queue answers: the person who can wait long enough.
+
+A priority rule answers: the person assigned the higher category.
+
+None is neutral.
+
+The word “efficient” cannot carry all the values involved.
+
+Nor can the word “fair.”
+
+The useful analysis asks what gradient each mechanism creates between resources, urgency, patience, information and access.
+
+Two-part tariffs reveal another form of hidden shape.
+
+A customer pays a fixed fee to enter and then a marginal price for use. Membership clubs, utility charges, some software contracts and many financial products contain versions of this architecture.
+
+The fixed fee decides who gets through the door.
+
+The usage price shapes behavior after entry.
+
+A policy can do the same thing unintentionally. A licensing requirement can impose a large fixed cost before a worker earns the first dollar, then little additional cost as work expands. The burden is steepest at entry and comparatively flat afterward.
+
+This can protect quality or public safety.
+
+It can also favor incumbents who already paid the fixed cost.
+
+The shape matters more than the average fee.
+
+A thousand-dollar annual requirement is modest for a business earning a million dollars and prohibitive for a person testing a tiny side business. The nominal rule is equal. The entry gradient is not.
+
+That is why small enterprises, new entrants and marginal participants often experience regulation and pricing differently from established actors.
+
+Fixed costs create thresholds of participation.
+
+Once inside, scale can make them disappear into averages.
+
+The same structure appears in housing. A monthly payment can be affordable while the down payment is not. The household can service the ongoing price and still be excluded by the entry threshold. Education can have manageable annual tuition and an impossible upfront move, deposit or application process. Employment can offer a good wage while requiring a car, credential or unpaid training period before the first paycheck.
+
+Access has a fixed-cost curve.
+
+The price of the next unit is not enough to describe it.
+
 This is why pricing deserves to sit beside policy in a book about cutoffs.
 
 Both convert continuous differences into rules that people must navigate.
 
 Both can make the edge more consequential than the underlying change.
 
-And both reveal their true philosophy not in the headline rate, but in what happens to the next unit.
+Both can hide their real cost in time, entry requirements, attention and constraint rather than the headline number.
+
+And both reveal their true philosophy not in the posted rate, but in what happens to the next scarce unit.
