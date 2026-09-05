@@ -34,6 +34,16 @@ The following distinctions must remain explicit:
 - “Recurrent depth will replace chain-of-thought.” Active research, not established outcome.
 - “The model learns from every loop.” Usually false if weights are unchanged.
 
+## Post-robustness QA — September 2026
+
+The integrated robustness pass strengthens Chapters 2–18 around state dynamics, compute allocation, discriminating difference, friction, branching, world contact, governed memory, latent reasoning, explanation, halting, controllers, economics, overthinking, institutional re-entry, and stopping. Chapters 14–18 were also returned to continuous narrative prose so the late manuscript reads as a book rather than a presentation.
+
+The frontier sources most exposed to recency risk were rechecked against current first-party or official proceedings pages. RELAY is in EACL 2026; the Geiping recurrent-depth paper and Thinking-Optimal Scaling are in NeurIPS 2025; LOTUS is a June 2026 Microsoft Research / arXiv paper; Training-Free Looped Transformers and SpiralFormer are available as 2026 papers; and the overthinking result is in Findings of ACL 2026. The research trail should continue to describe these as evidence of an active frontier rather than a settled winning architecture.
+
+Desk discovery now includes `neuralase` in the generated root `README.md` catalog, `catalog.json`, `llms.txt`, `sitemap.xml`, and the chapter-feedback dropdown. The root catalog refresh reports **71,701 words** across the Neuralase manuscript directory.
+
+That 71,701-word catalog figure is not, by itself, the formal one-shot-book length check because `scripts/catalog.py` counts every Markdown file under `manuscript/`, including front matter and back matter. Before treating length compliance as formally closed, verify the chapter-only total and the per-chapter floor against `docs/book-brief-standard.md`: at least 3,000 words per chapter and at least 65,000 chapter words excluding front matter, back matter, and research.
+
 ## Final pass checklist
 
 - [x] Research sources include positive and negative evidence.
@@ -43,3 +53,7 @@ The following distinctions must remain explicit:
 - [x] 2026 research is framed as frontier evidence, not settled architecture.
 - [x] Stopping and overthinking receive full treatment rather than a footnote.
 - [x] The conclusion preserves uncertainty about which loop architectures will win.
+- [x] Frontier recurrent-depth / overthinking sources were rechecked against official or first-party pages in September 2026.
+- [x] Neuralase is registered in the generated root catalog and machine-readable discovery surfaces.
+- [x] Desk catalog regeneration reports 71,701 words across the manuscript directory.
+- [ ] Verify exact per-chapter counts and the chapter-only manuscript total against `docs/book-brief-standard.md`.

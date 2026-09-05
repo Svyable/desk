@@ -30,6 +30,36 @@ If some symbols are much more likely than others, an efficient representation ca
 
 This was not a recipe for a particular compressor. It was a boundary.
 
+The boundary becomes easier to understand when the unit of attention gets larger than one symbol.
+
+Imagine a source that emits a long sequence. Looking at one symbol at a time can miss structure that appears only across pairs, words, phrases, or longer blocks. A letter may be common in isolation and nearly certain after a particular prefix. Two sources can therefore have the same single-symbol frequencies while producing sequences with very different predictability.
+
+Compression lives in those dependencies.
+
+If every symbol were truly independent and equally likely, there would be little statistical structure to exploit without changing the problem. A compressor can rename outcomes, but it cannot manufacture predictability that the source does not possess. Truly random-looking data is stubborn for exactly this reason: the absence of dependable structure is itself the obstacle.
+
+This is the countercase that keeps compression honest.
+
+A clever algorithm cannot promise to make every possible file shorter. If it did, the shorter descriptions would eventually run out. Some inputs must remain long, and some may become slightly longer once the coding machinery is included. Compression succeeds by assigning shorter descriptions to patterns that occur often enough to deserve them, not by escaping counting.
+
+That makes the statistical model part of the engineering system.
+
+A coder designed around yesterday's distribution can perform poorly when the source changes. A text model trained on one language sees different regularities in another. A compressor tuned to one kind of image may miss structure in another. The theorem supplies a limit relative to a source model; the implementation still has to learn, assume, or adapt to the distribution it actually encounters.
+
+This is where Shannon's abstraction becomes operational rather than magical.
+
+The limit does not eliminate model error.
+
+It tells you what becomes possible when the statistical structure is known well enough to exploit.
+
+That distinction survives into modern probabilistic systems. Cross-entropy, for example, can be read as a penalty for assigning probabilities that do not match the outcomes that actually arrive. A model that confidently expects the wrong thing pays more than one that leaves probability mass where reality appears. The quantity is useful precisely because it separates uncertainty in the world, uncertainty represented by the model, and the cost of mismatch between them.
+
+None of this means a lower cross-entropy model is wiser in every sense.
+
+It means it predicts the specified outcomes better under the specified scoring rule.
+
+The old Shannon discipline still applies: define the object before admiring the number.
+
 The distinction is characteristic of Shannon. Again and again, his most durable results did not tell engineers exactly what machine to build. They told them what no machine could beat and what a sufficiently clever machine ought to approach.
 
 That can be more valuable than a design.
@@ -47,6 +77,28 @@ Those two uses pull in opposite directions. Compression removes predictable stru
 The apparent contradiction disappears when the objective is made explicit.
 
 If the problem is storage or transmission efficiency, unnecessary repetition is expensive. If the problem is survival through noise, some repetition—or, more precisely, some structured coding—is protection. Shannon's framework gave both problems a common language without pretending they were the same problem.
+
+The word repetition can make error correction sound cruder than it is.
+
+Sending every symbol twice is a kind of redundancy, but it is not necessarily a good code. The useful question is how to add structure that lets a receiver distinguish plausible messages after noise has changed some of the transmitted signal. Good redundancy is organized around possible errors.
+
+That creates a second resource tradeoff.
+
+More protective structure consumes capacity. Too little leaves the message fragile. Too much wastes bandwidth that could have carried new information. The point of coding theory is not maximal redundancy. It is enough redundancy, arranged intelligently, to make reliable recovery possible near the limits imposed by the channel.
+
+This is where Shannon's result was almost offensive to engineering intuition.
+
+Noise did not require surrender.
+
+Below the channel's capacity, the theory said, one could in principle make the probability of error arbitrarily small with sufficiently good coding over long enough blocks. The channel could remain noisy while the communication became reliable.
+
+The word arbitrarily is doing important work.
+
+The theorem did not promise zero error from a short code built with finite hardware and finite delay. Real systems face latency, computational cost, memory, changing channels, synchronization failures, and imperfect channel estimates. A theorem about what is achievable asymptotically does not repeal implementation.
+
+But it changes the engineer's ambition.
+
+Before a limit is known, failure can look like fate. After a limit is known, the same failure can become evidence that the code, the model, or the implementation still has room to improve.
 
 This is one reason entropy traveled so well.
 
