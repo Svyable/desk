@@ -6,7 +6,6 @@
   --desk-library-line: color-mix(in srgb, var(--border) 74%, transparent);
 }
 body[data-stage="library"] .app-header { min-height:3.35rem; padding-block:.35rem; }
-body[data-stage="library"] .app-header .header-right { display:none; }
 body[data-stage="library"] .logo { width:2.55rem; height:2.55rem; min-width:2.55rem; min-height:2.55rem; border-radius:999px; }
 body[data-stage="library"] .library-view { padding-top:clamp(1.35rem,3vw,2.45rem); }
 body[data-stage="library"] .library-hero { max-width:74rem; padding-bottom:.75rem; }
