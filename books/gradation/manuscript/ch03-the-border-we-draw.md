@@ -340,6 +340,96 @@ Good science is suspicious too. Researchers report confidence intervals, distrib
 
 Good judgment keeps asking what the line cut through.
 
+There is another way categories distort: they can force several dimensions into one rank.
+
+A student can be strong in mathematical reasoning, weak in timed writing, excellent at collaboration and inconsistent in attendance. A single “high performer” label compresses a vector into a point.
+
+A neighborhood can have high incomes, poor transit, excellent schools, expensive housing and high pollution. Calling it “high opportunity” may illuminate one purpose and obscure another.
+
+A company can be financially healthy, culturally fragile, technically strong and strategically confused. One rating cannot preserve all four gradients.
+
+Composite scores are useful because decisions often need one ordering.
+
+But aggregation creates hidden exchange rates.
+
+How many points of safety compensate for one point of cost?
+
+How much academic achievement offsets disciplinary history?
+
+How much profitability offsets leverage?
+
+How much income offsets distance from services?
+
+Once dimensions are combined, the formula answers those questions whether the institution acknowledges them or not.
+
+That is why arguments about scores often look strangely moral. People are not only arguing about measurement. They are arguing about the weights assigned to unlike goods.
+
+A score can hide philosophy inside arithmetic.
+
+Categories also become stale in a distinctive way.
+
+The underlying condition moves continuously while the label remains until the next review.
+
+A property is assessed once a year. A credit rating updates after an event. A job level changes at promotion time. A diagnosis persists in a record. A risk tier is recalculated monthly.
+
+Between updates, the category is a lagging sample of a moving reality.
+
+This matters most in fast-changing systems.
+
+A business can improve materially before its rating changes and deteriorate materially while the old rating still circulates. A worker can grow beyond a job level while the organization continues pricing the person at yesterday's category. A patient can recover while an old diagnosis remains the first thing downstream systems see.
+
+The category has a half-life.
+
+Good institutional design should know it.
+
+How often does the label deserve renewal?
+
+What new evidence can reopen it?
+
+Does the person have to cross a second threshold to escape the first classification?
+
+Can downstream users see when the category was assigned and from what evidence?
+
+A label without a timestamp can become permanent by accident.
+
+This is classification debt in time rather than uncertainty.
+
+The system remembers the compression longer than the world remembers the state.
+
+There is a deeper consequence when categories travel between institutions.
+
+One system creates a label for one purpose. Another system imports it for a different purpose because the field already exists.
+
+A credit indicator becomes a hiring signal. A school designation becomes a housing-market signal. A neighborhood risk classification becomes an insurance input. A disciplinary label becomes a future eligibility screen.
+
+The category migrates farther than the evidence that justified it.
+
+This is administratively tempting because reused data are cheap.
+
+It is epistemically dangerous because purpose is part of meaning.
+
+A classification good enough to answer one question can be bad evidence for another.
+
+The label survives.
+
+The original question disappears.
+
+That is why data lineage matters as much as data accuracy.
+
+Where did this category come from?
+
+What was it designed to decide?
+
+How uncertain was the original case?
+
+How old is it?
+
+What dimensions did it compress?
+
+What happens if we refuse to import it?
+
+Those questions prevent a border drawn in one room from becoming a wall everywhere else.
+
 Blue and green remain useful words.
 
 So do healthy and sick, pass and fail, safe and unsafe.
