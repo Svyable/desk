@@ -64,13 +64,29 @@ Optimization squeezes slack before it creates supply.
 
 At some point the constraint has to be expanded, substituted, or accepted.
 
+The distinction becomes especially sharp when the physical asset is expensive enough that utilization matters. A factory can become more productive by reducing downtime, changing setup procedures, predicting failures, or sequencing jobs better. A warehouse can use software to shorten travel paths. A hospital can reduce avoidable gaps in a schedule. These improvements are real because the same stock of physical capacity produces more useful service.
+
+But utilization has a ceiling.
+
+When a machine is already running nearly all the hours it can safely run, more demand requires another machine, a different process, or a queue. When a clinician's calendar is full, better reminders do not create a second afternoon. When a popular restaurant turns every table efficiently, the next improvement may require more floor space, different hours, a new location, or disappointing someone who wants a reservation.
+
+Digital systems are unusually good at hiding this transition because the interface remains smooth while the queue lengthens behind it.
+
+The customer still sees a button.
+
+The scarce system underneath starts returning dates instead of capacity.
+
+This matters for artificial intelligence because it can make the button much more persuasive. A system can explain a service beautifully, answer every question, personalize the offer, and remove almost every informational obstacle to demand. If the physical service cannot expand at the same rate, excellent software can create a worse queue.
+
+The bottleneck may be produced by success.
+
 The same lesson appears inside AI infrastructure itself.
 
 The amount of energy required for a particular inference can fall rapidly as chips, models, software, and serving systems improve. It is therefore tempting to assume that efficiency will reduce total physical demand.
 
 It may. It may not.
 
-The International Energy Agency's 2026 assessment described rapidly declining energy use per AI task while total data-centre electricity consumption nevertheless rose 17 percent in 2025. AI-focused facilities grew faster still.
+The International Energy Agency's 2026 assessment described energy use per AI task falling by at least an order of magnitude annually in recent years while total data-centre electricity consumption nevertheless rose 17 percent in 2025. Electricity consumption at AI-focused data centres rose faster still.
 
 There is no paradox once demand is allowed to move.
 
@@ -82,6 +98,30 @@ The useful point is narrower: never infer aggregate physical relief from declini
 
 Artificial abundance can be physically hungry.
 
+The 2026 IEA update makes the hunger visible at a smaller scale too. Advanced AI racks have become dramatically more power-dense. The agency estimated that the power density of AI servers increased elevenfold between 2020 and 2025 and could rise sharply again by 2027. A single advanced rack, roughly the size of a large refrigerator, can demand power on a scale more intuitive when compared with dozens of households than with a laptop.
+
+That concentration changes engineering.
+
+A building designed for conventional computing cannot necessarily absorb a much denser electrical and thermal load merely because there is empty floor space. Power distribution, cooling, backup systems, cabling, transformers, and safety requirements all become part of the scaling problem. The digital workload may be divisible across millions of users. The facility that runs it has concrete limits.
+
+This is a useful inversion of the usual cloud metaphor.
+
+The service looks more abstract as the machinery underneath becomes more intense.
+
+The IEA also warned that rapidly rising power density is testing supply chains for equipment such as transformers and power electronics. Some data-centre projects are encountering grid-connection and approval delays even while technology companies continue announcing larger investment plans.
+
+The constraint is not simply how many kilowatt-hours exist in the world. It is whether the required equipment, connections, sites, and approvals exist where the project needs them.
+
+The physical premium is often a coordination premium among several scarce things at once.
+
+A data centre needs chips and a grid connection and cooling and a site and financing. A new housing development needs land and permits and utilities and contractors and buyers able to finance the homes. A restaurant needs a location and staff and suppliers and licenses and customers at the right hours.
+
+One missing complement can idle all the others.
+
+This is why a physical system can be expensive even when none of its individual inputs looks impossibly scarce in isolation.
+
+Assembly is scarce too.
+
 That hunger is not limited to electricity. Advanced computing depends on semiconductor fabrication, specialized equipment, cooling systems, construction, transmission, water in some facilities, and supply chains whose capacity cannot be summoned by generating another purchase order.
 
 A digital service can scale at software speed until it hits something that scales at factory speed.
@@ -91,6 +131,24 @@ Then factory speed wins.
 The pattern matters for policy because it complicates a familiar story about dematerialization. Richer economies can sometimes produce more value with less material per dollar of output. Digital services can substitute for travel, paper, inventory, and physical prototypes. These are genuine efficiencies.
 
 At the same time, cheap computation can create demand for new physical infrastructure. The direction of total resource use is an empirical question, not a slogan.
+
+There is a second complication. Physical capital persists after the exciting part of the investment is over.
+
+A model can be replaced. A prompt can be rewritten. A software feature can be rolled back.
+
+A building remains where it was built.
+
+A transmission line creates maintenance obligations. A factory has a workforce, environmental footprint, financing structure, and local political relationship. A fleet of vehicles needs parts and repair. A robot installed on a production line becomes part of a safety system and a maintenance schedule.
+
+Physical investment binds the future more tightly than a disposable digital draft.
+
+That can be an advantage. Durable infrastructure creates capabilities that competitors cannot reproduce overnight. It can also become stranded capital when demand, technology, or regulation changes.
+
+The same scarcity that creates a moat can create a trap.
+
+A company with a proprietary dataset may copy it cheaply, subject to rights and security constraints. A company with a hundred specialized facilities cannot move them by changing a configuration file.
+
+Physical advantage comes with physical exposure.
 
 The same caution applies to consumer life.
 
@@ -120,6 +178,26 @@ Ownership of matter is ownership of future work.
 
 That future work is part of the premium too.
 
+Maintenance also reveals why a cheap purchase price can mislead. A physical object has a life cycle. It can require fuel, replacement parts, storage, inspection, calibration, software support, cleaning, insurance, or eventual disposal. The sticker price captures only the moment of acquisition.
+
+Artificial intelligence can lower many of those life-cycle costs. Predictive maintenance may catch failures earlier. Better inventory systems may reduce the need to hold spare parts. Diagnostic tools may help a technician arrive with the right component. Documentation can become easier to search.
+
+Again, the technology can make matter cheaper to manage.
+
+But management does not abolish entropy.
+
+The bearing still wears.
+
+The pipe still corrodes.
+
+The roof still meets the weather.
+
+This is one reason service and repair networks may become more valuable even as design intelligence becomes more widely available. A product whose digital features are easily copied can still earn trust because parts exist, technicians know it, warranties are honored, and someone answers when it fails.
+
+Reliability is physical memory.
+
+It is the installed accumulation of decisions about materials, processes, training, logistics, and responsibility.
+
 There is a cultural temptation to romanticize this. If synthetic goods become cheap, perhaps handmade objects, live performances, local food, analog hobbies, and face-to-face services will become badges of authenticity.
 
 Some will.
@@ -131,6 +209,18 @@ We should be suspicious when scarcity is marketed as virtue by people who profit
 A hand-thrown bowl can carry the trace of a maker's choices and deserve a premium. That does not mean industrial ceramics were a mistake. A live teacher can provide attention no recording can match. That does not mean everyone should be denied inexpensive recorded instruction until a teacher is available.
 
 Artificial abundance should make us more discriminating about the physical, not automatically reverent toward it.
+
+A useful distinction is whether the constraint carries something the buyer actually values.
+
+A hand-built guitar may carry workmanship, repairability, variation, provenance, and a relationship with a maker. Those are possible sources of value. A luxury brand can also make a process slower than necessary, narrate the slowness as craft, and charge for the story.
+
+Difficulty can be evidence. It can also be theater.
+
+The same is true of presence. A meeting in person may allow kinds of trust, observation, spontaneity, or shared experience that matter. It may also be an expensive ritual that could have been a call.
+
+The physical premium is not a command to choose the physical version.
+
+It is a prediction about where cost and scarcity remain once the informational parts become easier to reproduce.
 
 The central economic shift is simpler.
 
