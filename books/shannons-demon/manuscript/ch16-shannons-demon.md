@@ -92,6 +92,42 @@ The strategy sold some risky asset after an increase and bought some after a dec
 
 This is the basic phenomenon people mean when they talk about volatility harvesting or a rebalancing bonus.
 
+The phrase becomes slippery once the toy example is compared with real portfolio mathematics.
+
+Later finance research has had to separate several effects that popular explanations often blend together. Diversification can improve compounded growth because a portfolio combines assets whose returns do not move perfectly together. That effect does not belong exclusively to the act of rebalancing. A portfolio can receive a diversification benefit simply by holding more than one imperfectly correlated source of return.
+
+Rebalancing is a different intervention.
+
+It changes the path of the weights.
+
+A buy-and-hold portfolio allows yesterday's winner to become a larger share of tomorrow's portfolio. A constant-weight portfolio sells enough of the winner, or buys enough of the loser, to restore the target. Those two rules can produce different outcomes even though they begin with the same assets.
+
+It is tempting to call the entire difference a rebalancing return and assume the sign must be positive.
+
+That is too easy.
+
+Consider a market in which one asset rises for years while another stagnates. The buy-and-hold investor allows the winner to dominate. The rebalancing investor repeatedly trims it. If the trend persists, the supposedly disciplined strategy can lag badly because it keeps selling the thing that continues to work.
+
+Nothing is wrong with the arithmetic.
+
+The environment changed the answer.
+
+The demon's most dramatic examples are built around repeated reversals. They give the rule something to harvest. A long one-way move gives the rule something to fight.
+
+This is why finite horizons matter. Over a sufficiently stylized infinite sequence, a constant-mix strategy can display elegant growth properties. A human investor does not own an infinite horizon. Retirement arrives. A liability comes due. A fund loses clients. A family changes its risk tolerance. A business needs cash. A strategy that looks superior after ten thousand hypothetical cycles may underperform for the twenty years that contain the investor's actual life.
+
+The distinction sounds philosophical until money is attached.
+
+Path dependence means timing can dominate the lesson.
+
+The same rule that benefits from oscillation may surrender gains during momentum. The same willingness to buy after declines can be valuable when prices revert and destructive when the asset has suffered permanent impairment. The same commitment to target weights can stabilize risk while reducing exposure to a long-running winner.
+
+Rebalancing is therefore not an independent return source floating above the assets.
+
+It is a trading rule whose consequences depend on the joint behavior of the things being traded.
+
+That is a stronger description because it survives the counterexample.
+
 The word bonus is too cheerful.
 
 Nothing guarantees it in actual markets.
@@ -115,6 +151,32 @@ A strategy that looks attractive in one distribution can fail when the distribut
 The mechanism is real.
 
 The free lunch is not.
+
+Costs create one more design problem that the frictionless example hides: how often to act.
+
+If trading were free, the cleanest demonstration can rebalance every time the portfolio drifts. Real trades have spreads, commissions, market impact, taxes, operational cost, and sometimes legal or liquidity constraints. Once adjustment itself has a price, perfectly restoring the target after every small movement can be irrational.
+
+That is why practical rebalancing often becomes a problem of tolerances rather than exact equality.
+
+A portfolio may be allowed to wander inside a band. Only when the drift becomes large enough does the expected benefit of restoring the allocation justify paying the cost of doing so.
+
+The engineering analogy is better here than in the magical version of the demon.
+
+A control system does not necessarily react to every microscopic fluctuation. If sensors are noisy and adjustment is costly, overreacting can make the system worse. A thermostat with zero tolerance would chatter constantly around its set point. A portfolio with zero tolerance can turn harmless variation into turnover.
+
+The target is therefore not enough.
+
+The policy needs a dead zone, a trigger, or some other rule for deciding when deviation has become meaningful.
+
+That decision changes the strategy.
+
+Monthly rebalancing is not annual rebalancing. Calendar rebalancing is not threshold rebalancing. A wide band trades less and tolerates more risk drift. A narrow band trades more and stays closer to the intended exposure. The best choice depends partly on the costs, volatility, correlations, taxes, and objectives of the investor.
+
+The demon has acquired another hidden payment.
+
+Attention.
+
+Someone has to decide when the rule should fire, when the assumptions should be reconsidered, and when the asset set itself has changed enough that restoring yesterday's target is no longer sensible.
 
 This distinction puts the demon beside another idea that emerged from Shannon's intellectual neighborhood: the Kelly criterion.
 

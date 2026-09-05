@@ -46,3 +46,4 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 - [Research brief](research/README.md)
 - [Source ledger](research/source-ledger.csv)
 - [Opening-chapter evidence note](research/opening-evidence-2026-09-04.md)
+- [Final-act evidence note](research/final-act-evidence-2026-09-05.md)
