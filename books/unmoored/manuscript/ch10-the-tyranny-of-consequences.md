@@ -84,6 +84,50 @@ The problem is deciding which commitments are side constraints and which are hab
 
 No amount of forecasting settles that classification by itself.
 
+There is also a difference between a forecast and a fact about the future.
+
+Even extraordinary predictive systems operate under uncertainty. That sounds obvious until a recommendation is presented with a number.
+
+A probability can feel like an observation.
+
+It is not.
+
+It is an estimate produced by a model of a world that may change partly because people see the estimate.
+
+A prediction that a neighborhood will experience more crime can change patrol patterns, reporting, investment, migration, and political attention. A prediction that a student will fail can change how teachers allocate effort. A forecast that a bank is fragile can help create the run it predicted. A recommendation that a patient is unlikely to benefit from treatment can affect which treatment the patient receives and therefore which outcomes later become training data.
+
+Social prediction is often reflexive.
+
+The forecast enters the system it describes.
+
+Superior intelligence may manage reflexivity better than current tools. It can model behavioral response, strategic adaptation, feedback loops, and uncertainty. It can run counterfactuals that humans cannot manage unaided.
+
+But the underlying moral point remains.
+
+The apparent precision of a consequence does not eliminate the responsibility to ask how that precision was produced.
+
+What population was used?
+
+Which intervention is assumed?
+
+Which behavior changes when the forecast is disclosed?
+
+Whose outcomes are measured?
+
+What counts as harm?
+
+What confidence interval is hidden by the interface?
+
+A system can be superior and still confront genuine uncertainty.
+
+That uncertainty matters because visible consequences exert moral force in proportion not only to their magnitude but to our confidence in them.
+
+Twelve thousand predicted deaths at near certainty is one kind of moral argument.
+
+Twelve thousand deaths in one tail of a wide distribution is another.
+
+If the interface compresses both into the same declarative recommendation, superior analysis can create inferior judgment.
+
 Suppose a machine can demonstrate that torturing one innocent person will prevent a catastrophe with near certainty.
 
 Philosophers have constructed versions of this problem for generations, usually with deliberately artificial conditions. Real torture does not come with reliable omniscience. Information can be wrong. Institutions corrupt. Exceptions expand. People rationalize.
@@ -174,6 +218,36 @@ The unhealthy answer is “none, because the machine knows better.”
 
 Knowing what would improve the metric is not the same as knowing that the metric is entitled to dominate.
 
+There is an even harder case when the prohibited information can be reconstructed indirectly.
+
+Suppose an institution forbids a system from using a protected characteristic. The system does not receive the field. It has thousands of other variables, many weakly correlated with the forbidden one. In combination they reconstruct much of the same information.
+
+The old rule—do not use this column—no longer describes the moral boundary.
+
+The institution has to decide what kind of inference is impermissible, not merely what kind of data entry is forbidden.
+
+That is difficult because predictive power is distributed.
+
+Removing one variable may do almost nothing.
+
+Removing every proxy may destroy useful performance or require excluding information that has legitimate purposes.
+
+Superior intelligence therefore makes rights more technically demanding, not less morally relevant.
+
+The principle has to be translated from a ban on visible data into a rule about permissible reasons for treating people differently.
+
+That is a deeper form of governance.
+
+Why was this person denied?
+
+Because of a prediction.
+
+Why did the prediction matter?
+
+Which facts about the person were normatively allowed to count?
+
+A highly accurate answer can still be based on reasons an institution has no right to use.
+
 This is where optimization becomes moral politics.
 
 Every optimizer needs an objective, even if the objective is complicated and learned. A powerful system can balance many objectives. It can model rights as constraints, fairness as a family of measures, uncertainty as a penalty, procedural legitimacy as a benefit, and distribution as something more sophisticated than a total.
@@ -231,6 +305,32 @@ Superior intelligence can recommend answers to these questions too.
 Then the recursion returns.
 
 On what basis?
+
+There is no purely technical escape from distribution.
+
+Suppose two policies produce the same total benefit.
+
+The first gives small gains to millions and imposes a catastrophic loss on a few hundred people. The second distributes both gains and losses modestly across the population.
+
+An optimizer needs some account of how to compare them.
+
+Total welfare, average welfare, worst-off position, rights constraints, prioritarian weighting, risk aversion, compensation, and procedural fairness can all change the answer.
+
+The model may be brilliant enough to show the consequences of every choice with extraordinary fidelity.
+
+That does not tell us which distribution deserves to be called just.
+
+This is where sophisticated systems may tempt institutions into what could be called ethical laundering by parameter.
+
+The political choice is expressed as a weight.
+
+A decimal appears in a configuration file.
+
+The public sees an optimized recommendation.
+
+The moral dispute has not disappeared.
+
+It has become less legible.
 
 A civilization may respond by moving toward ever more consequential morality because consequences are where the machine's advantage is clearest. This need not happen through explicit philosophical conversion.
 
@@ -332,6 +432,22 @@ If they always do, the principle was never a constraint.
 
 That is the tension superior intelligence will expose.
 
+A legitimate system should therefore show more than the expected benefit of violating a constraint.
+
+It should make visible what sort of moral claim is being overridden and by whom.
+
+If a right is defeasible, what threshold was adopted?
+
+If an emergency exception applies, who declared the emergency and when does the exception expire?
+
+If a privacy boundary is crossed, who can later inspect the justification?
+
+If a person is denied an opportunity because of a predictive factor, can they challenge the factor, the inference, or the policy that made it relevant?
+
+These questions do not weaken consequential reasoning.
+
+They stop consequences from becoming an unanswerable incantation.
+
 The tyranny of consequences is not rule by consequentialists.
 
 It is a world in which prediction becomes so persuasive that every other moral language has to defend its existence on predictive terms.
@@ -343,6 +459,8 @@ We should want better forecasts.
 We should know what our principles cost.
 
 We should stop hiding preventable harm behind noble words.
+
+We should also demand that superior systems show uncertainty, distribution, feedback, and the normative assumptions that turn a forecast into a recommendation.
 
 Then, with the costs visible, we still need to decide which things are not for sale at the price the model has calculated.
 
