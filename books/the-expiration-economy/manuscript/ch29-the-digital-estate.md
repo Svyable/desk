@@ -501,3 +501,51 @@ Not immortality.
 Not deletion.
 
 A controlled handoff from a living operator to a world that must continue without them.
+
+Law already recognizes that the categories inside a digital estate are not interchangeable. The Uniform Law Commission’s Revised Uniform Fiduciary Access to Digital Assets Act extends traditional fiduciary management into digital property, but it deliberately treats private electronic communications differently. A fiduciary may be able to manage things such as files, domains, or virtual currency while access to email, texts, or social-media communications can require the original user’s consent.
+
+That distinction is more important than the specific model law. It rejects the idea that becoming an executor automatically turns every digital trace into ordinary inheritable property. The estate may own an asset while lacking a blanket right to every conversation around it.
+
+Major platforms have begun building the same idea into product design.
+
+Apple’s Legacy Contact system allows a user to designate someone who can seek access to certain Apple Account data after death. The process requires an access key and a death certificate. Even then, access is bounded: purchased media and subscriptions are treated differently, and Keychain data such as passwords and passkeys is excluded. The successor does not simply become the deceased user with the same credential and the same authority.
+
+Google’s Inactive Account Manager takes another route. A user can define an inactivity period, nominate contacts, and choose which categories of data those contacts can receive. Different people can receive different data. The trigger is inactivity rather than a universal legal conclusion about death, and the plan can be changed while the user is alive.
+
+These systems are imperfect and platform-specific, but they reveal a useful design pattern. The transition is expressed before the crisis. The user participates in deciding who receives what. Access is scoped. The successor is not assumed to inherit the entire account as an undifferentiated object.
+
+The platforms also reveal the weakness of platform-based succession. A legacy plan is only as durable as the service implementing it. Product rules can change. Data categories can change. Accounts can be deleted under inactivity policies. The company itself can eventually alter or discontinue the mechanism. A person who believes they have solved digital inheritance by checking one box may have created a plan that depends on another institution’s continued existence.
+
+This is why the digital estate needs at least two layers of memory.
+
+The platform can hold implementation details: access keys, selected data categories, nominated contacts, inactivity triggers.
+
+The person’s broader intent should survive outside the platform: what matters, what must stop, what can be shared, what should remain private, what business responsibilities need continuity, and what synthetic uses are forbidden.
+
+The distinction becomes especially important for personal AI because future assistants may collapse several platforms into one relationship. An assistant could know the location of the will, the domain registrar, the customer list, the family archive, the unfinished manuscript, the recurring bills, and the user’s private fears. That makes it powerful during transition. It also makes indiscriminate inheritance dangerous.
+
+A robust design would not ask one question—“Who gets my AI?”—because the AI is not one thing.
+
+It would ask which capabilities survive.
+
+Can the successor retrieve business records but not private reflections?
+
+Can an executor receive an inventory of obligations without receiving the content of intimate conversations?
+
+Can a family preserve photographs while disabling automations that speak publicly in the deceased person’s name?
+
+Can an archive retain the person’s work while refusing to generate new claims as if the author were still alive?
+
+Those distinctions are technically awkward. They are also the point.
+
+If the system cannot separate memory, property, communication, and authority while the user is alive, death will not magically make the categories clearer.
+
+The counterargument is that most people will never configure all of this. Elaborate digital-estate planning can become another form of administrative burden imposed on ordinary life. A system that asks users to pre-classify every future asset, conversation, and automation may simply be ignored.
+
+So the best design cannot depend entirely on perfect foresight. Defaults matter. High-consequence authority should generally contract at death or verified incapacity unless continuation has been deliberately arranged. Records needed to settle obligations should remain available through lawful processes. Private communications should not be treated as automatically inheritable merely because they are technically retrievable. Synthetic impersonation should require a higher bar than archival preservation.
+
+The precise rules will vary by jurisdiction, product, family, and use.
+
+The deeper principle is stable: death changes the authority structure even when the data remains exactly where it was.
+
+A digital estate is mature when the transition of authority is at least as deliberate as the preservation of memory.
