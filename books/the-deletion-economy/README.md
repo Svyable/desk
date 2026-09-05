@@ -1,6 +1,6 @@
 # The Deletion Economy
 
-## Why the Next Great Industries Will Be Built by Taking Things Away
+*Why the Next Great Industries Will Be Built by Taking Things Away*
 
 | | |
 |---|---|

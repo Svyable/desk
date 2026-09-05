@@ -18,7 +18,7 @@ The aim is not to predict the date of an AI crash. It is to investigate the recu
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Price of Tomorrow](manuscript/ch01-the-price-of-tomorrow.md)
 - [x] [Ch 2 — The Revolution Is Real](manuscript/ch02-the-revolution-is-real.md)
 - [x] [Ch 3 — Railroads, Radios, Routers](manuscript/ch03-railroads-radios-routers.md)

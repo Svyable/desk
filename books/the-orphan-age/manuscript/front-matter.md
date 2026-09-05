@@ -1,4 +1,10 @@
-# Front Matter — The Things We Leave Running
+# The Orphan Age
+
+*What Happens When Creation Gets Cheaper Than Care*
+
+**Sven Hardy Benson**
+
+---
 
 There is a small kind of magic in making something work for the first time.
 

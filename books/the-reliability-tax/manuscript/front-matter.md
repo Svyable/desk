@@ -1,8 +1,10 @@
 # The Reliability Tax
 
-**Why Civilization Pays for Things Not to Happen**
+*Why Civilization Pays for Things Not to Happen*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 There are two invoices for almost every system.
 

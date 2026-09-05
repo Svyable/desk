@@ -2,6 +2,10 @@
 
 *How Founders Sell Tomorrow Before It Exists*
 
+**Sven Hardy Benson**
+
+---
+
 Every startup begins with a description of something that is not yet true.
 
 The company will build the product. Customers will come. Costs will fall. A market that looks small will become large. A technology that barely works in a laboratory will become reliable enough for ordinary use. A handful of people in a rented office will become the organization capable of making all of this happen.

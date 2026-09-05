@@ -1,6 +1,6 @@
 # The Expiration Machine
 
-## How Civilization Learned to Make Trust Temporary
+*How Civilization Learned to Make Trust Temporary*
 
 | | |
 |---|---|

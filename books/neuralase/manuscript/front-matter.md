@@ -2,7 +2,9 @@
 
 *Transformer Loops and the Intelligence of the Second Pass*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 The most consequential answer a machine gives may turn out to be the one it does not give first.
 

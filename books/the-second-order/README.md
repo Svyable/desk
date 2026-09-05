@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| **Authors** | Sven Hard Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Chapters** | 20 of 20 drafted |
 

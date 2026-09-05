@@ -1,4 +1,8 @@
-# What Counts
+# The Measure of Good
+
+**Sven Hardy Benson**
+
+---
 
 We have become very good at counting.
 

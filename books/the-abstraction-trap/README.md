@@ -1,10 +1,10 @@
 # The Abstraction Trap
 
-**How Useful Simplifications Become Dangerous Realities**
+*How Useful Simplifications Become Dangerous Realities*
 
 | | |
 |---|---|
-| **Authors** | Sven Hard Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Chapters** | 23 of 23 drafted |
 

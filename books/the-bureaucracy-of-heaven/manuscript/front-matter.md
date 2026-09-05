@@ -1,5 +1,9 @@
 # The Bureaucracy of Heaven
 
+**Sven Hardy Benson**
+
+---
+
 A good bureaucracy is supposed to remember what a person should not have to remember.
 
 It remembers when the permit expires, which form was filed, who is entitled to what, what standard was applied last time, whether the appeal arrived before the deadline, which inspection failed, which payment cleared, which promise the institution made three years ago. It turns memory into administration so that a society larger than a village can keep its commitments without relying on the mood or recollection of whoever happens to be behind the desk.

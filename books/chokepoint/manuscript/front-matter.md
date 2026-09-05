@@ -1,6 +1,6 @@
 # Chokepoint
 
-## The Hidden War for the Metals That Run the World
+*The Hidden War for the Metals That Run the World*
 
 **Sven Hardy Benson**
 

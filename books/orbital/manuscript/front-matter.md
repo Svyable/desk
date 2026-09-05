@@ -2,6 +2,8 @@
 
 *How Private Industry Came to Dominate Low Earth Orbit*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 *A nonfiction narrative in progress.*
