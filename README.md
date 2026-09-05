@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 49 author projects · 46 released · 3 public drafts/proofs**
-> **Where they live: 49 in both Desk + Shelf · 48 Desk-only · 0 Shelf-only**
-> **Release review queue: 8 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 50 author projects · 47 released · 3 public drafts/proofs**
+> **Where they live: 50 in both Desk + Shelf · 47 Desk-only · 0 Shelf-only**
+> **Release review queue: 7 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -38,6 +38,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/look-alive/) |
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✍️ Released working edition | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/open-source/) |
+| [**Pace of Change**](books/pace-of-change/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/pace-of-change/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/proof-of-human/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
@@ -70,7 +71,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Pace of Change](books/pace-of-change/), [Robust](books/robust/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Robust](books/robust/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
