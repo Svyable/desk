@@ -1,4 +1,4 @@
-name: Front matter alignment audit
+name: Front matter alignment migration
 
 on:
   push:
@@ -6,12 +6,31 @@ on:
       - main
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  audit:
+  align:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Audit title pages
-        run: python3 scripts/align-title-pages.py
+        with:
+          ref: main
+      - name: Create migration branch
+        run: git switch -c aligned-book-title-pages
+      - name: Align title pages
+        run: python3 scripts/align-title-pages.py --write
+      - name: Verify alignment
+        run: |
+          python3 scripts/align-title-pages.py --check
+          git diff --check
+      - name: Commit generated book changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books
+          if git diff --cached --quiet; then
+            echo "No title-page changes to commit."
+            exit 0
+          fi
+          git commit -m "Align book titles and front matter"
+          git push --force origin HEAD:aligned-book-title-pages
