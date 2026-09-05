@@ -604,6 +604,66 @@ The principle is more durable.
 
 Do not ask individuals to bear all the timing risk created by institutions with more information and more capital.
 
+But that principle can be abused too.
+
+Every incumbent can describe its preferred delay as humane adaptation.
+
+A profession can call a barrier to entry a safety standard.
+
+A company can call protection from competition a transition period.
+
+A union can defend a work rule that no longer protects workers so much as a historical allocation of bargaining power.
+
+A local government can stretch consultation until nothing can be built.
+
+A dominant firm can ask regulators to slow a technology that threatens its margin while presenting the request as public caution.
+
+The language of time is morally attractive because it sounds gentler than prohibition.
+
+That makes it useful to people who simply want the future to arrive somewhere else.
+
+A robust adaptation policy therefore needs a test that sympathy alone cannot supply.
+
+What capacity is the extra time supposed to build?
+
+Who receives the benefit of the delay?
+
+Who pays for it?
+
+What evidence would justify ending it early?
+
+What event would justify extending it?
+
+Does the delay increase a worker's ability to move, or merely preserve the employer that currently pays them?
+
+Does a licensing rule produce safer practitioners, or only fewer competitors?
+
+Does a moratorium buy information, or merely postpone a political decision?
+
+Does income support widen search, or make exit from a declining sector harder?
+
+Time becomes adaptation only when something changes during it.
+
+A bridge has to lead somewhere.
+
+This is the uncomfortable limit of compassion in industrial policy.
+
+Protecting people from shocks is not the same as protecting every existing task, firm, credential, location, or business model from change.
+
+Some things should end.
+
+Some firms should fail.
+
+Some skills will lose market value.
+
+Some regions will need a new economic base rather than restoration of the old one.
+
+Pretending otherwise can waste the very time policy is trying to provide.
+
+The humane objective is not permanence.
+
+It is a transition in which people retain enough security, information, and bargaining power to make real choices while the economy is allowed to learn.
+
 Adaptation time also matters internationally.
 
 Rich countries can buy compute, subsidize factories, attract talent, and finance grid upgrades.
