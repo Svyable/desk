@@ -26,13 +26,15 @@ Carcinogen. Nutrient. Pollutant. Medicine.
 
 These labels can carry important information. They can also erase the curve.
 
-Dose-response relationships come in different shapes. Some effects may have thresholds below which available evidence does not show a particular adverse response. Other risk models use non-threshold assumptions. Some responses are graded within an individual. Others are quantal across a population: as dose rises, a larger proportion of people experience an outcome. Some biological responses can be biphasic, with different directions of effect at low and high exposures.
+Dose-response relationships come in different shapes. Some effects may have thresholds below which available evidence does not show a particular adverse response. Other risk models use non-threshold assumptions. Some responses are graded within an individual. Others are quantal across a population: as dose rises, a larger proportion of people experience an outcome. Some biological responses can be biphasic, with different directions or magnitudes of effect across different exposure ranges.
 
 The point is not that every substance follows one exotic curve.
 
 The point is that “more exposure” is incomplete until we know how response changes with more.
 
-The U.S. Environmental Protection Agency explicitly distinguishes graded, quantal and continuous dose responses in its risk-assessment materials. That vocabulary captures something easily lost in ordinary discussion.
+The U.S. Environmental Protection Agency makes this distinction explicit in its risk-assessment materials. A graded response can become more severe within one organism as dose rises. A quantal response can describe a larger fraction of a population experiencing an event. A continuous response can track a biological measurement as exposure changes.
+
+Those categories of response are already a lesson in gradation.
 
 A population can become more likely to experience an event even if the event itself is binary for each person.
 
@@ -74,6 +76,72 @@ The line coordinates behavior.
 
 The curve explains why the coordination exists.
 
+Pharmacology makes the geometry even clearer because useful effect and harmful effect can live on the same curve.
+
+A medicine is not “good” at every dose merely because it is therapeutic at one dose. Too little may do nothing. More can reach a useful range. More still may add little benefit while increasing unwanted effects. For some medicines the useful range is wide. For others it is narrow enough that dose selection and monitoring become central to safe use.
+
+The Food and Drug Administration describes this in the language of dose, concentration and clinical response. The point of dose-response information is practical: identify a starting dose, understand how to adjust it, and recognize when increasing the dose is unlikely to add benefit or is likely to add unacceptable side effects.
+
+That is gradation turned into clinical engineering.
+
+The drug has a name.
+
+The treatment has a curve.
+
+The distinction matters because people often reason from category to intensity.
+
+If one tablet helped, two should help more.
+
+If a nutrient is necessary, more should be healthier.
+
+If exercise reduces risk, more exercise should always reduce more risk.
+
+If transparency improved governance, more disclosure should always improve it further.
+
+The first successful increment is recruited as evidence for every later increment.
+
+This is one of the most persistent errors in human reasoning.
+
+We infer monotonicity from usefulness.
+
+The world does not owe us monotonicity.
+
+The therapeutic window is a reminder that benefit can have an interior.
+
+There can be too little, enough and too much without a clean moral change in the object itself.
+
+The medicine did not become evil at the upper end.
+
+The relation between dose and body changed.
+
+Environmental risk assessment lives with a related problem from the other direction.
+
+Often the data are best at exposures higher than the everyday exposures regulators care about. Scientists and agencies have to infer what the curve does as dose falls. Does risk decline toward a practical threshold? Does it decline continuously? How much uncertainty should be carried into the low-dose region?
+
+Those questions are not semantic.
+
+They determine where lines are drawn.
+
+One important advance in modern risk assessment was moving away from treating a single observed experimental dose as though it contained all the relevant information. Benchmark-dose methods fit models across the observed dose-response data and estimate the dose corresponding to a specified response level, often carrying statistical uncertainty into the resulting point of departure.
+
+The intellectual move is subtle and important.
+
+Do not worship the nearest observed cutoff.
+
+Use the curve.
+
+A traditional experiment may identify a highest tested dose without an observed adverse effect and a lowest tested dose where an effect appears. Those values are partly products of the doses the experiment happened to test. If the researcher had chosen different spacing between doses, the apparent boundary could move.
+
+Curve modeling tries to recover more information from the pattern rather than letting experimental bins masquerade as nature's bins.
+
+This is exactly the distinction gradation asks institutions to make everywhere else.
+
+A measured point can be useful without being sacred.
+
+A category can coordinate action without being ontological.
+
+A line can be conservative without claiming that reality jumps there.
+
 Dose-response thinking becomes useful outside toxicology because it asks a question modern institutions often avoid: what happens as intensity changes?
 
 Consider exercise.
@@ -84,13 +152,15 @@ The advice cannot be infinitely monotonic.
 
 The same thing happens with sunlight.
 
-Human biology uses ultraviolet exposure in ways tied to vitamin D, circadian cues and other processes, while excessive ultraviolet exposure increases skin damage and cancer risk. “Sun is good” and “sun is dangerous” are both slogans trying to replace a dose curve.
+Human biology uses light exposure in ways tied to circadian regulation and other processes, while excessive ultraviolet exposure can damage tissue and increase cancer risk.
+
+“Sun is good” and “sun is dangerous” are both slogans trying to replace several different exposure-response relationships with one category.
 
 Nutrition is full of the same mistake.
 
-The body requires micronutrients. Deficiency harms. More is not always better. Excess can harm. The relevant relation can be U-shaped or otherwise nonlinear.
+The body requires micronutrients. Deficiency harms. More is not always better. Excess can harm. The useful range depends on the nutrient, the person and the context.
 
-This is one reason supplement markets thrive on category thinking. If a nutrient is necessary, the consumer is invited to imagine that adding more must add more health.
+This is one reason supplement marketing so easily exploits category thinking. If a nutrient is necessary, the consumer is invited to imagine that adding more must add more health.
 
 Necessity describes the left side of a curve.
 
@@ -240,7 +310,9 @@ Some create veto thresholds.
 
 The shape of the response cannot be assumed from the convenience of the score.
 
-Toxicology learned this because stakes forced precision about exposure. The same substance, different dose, different response.
+Toxicology learned this because stakes forced precision about exposure.
+
+The same substance, different dose, different response.
 
 Modern governance needs the analogous discipline.
 
@@ -266,11 +338,15 @@ Humans adapt.
 
 A stimulus repeated can produce tolerance, sensitization, learning, compensation or changed expectations. The curve at time one may not be the curve at time ten.
 
-Pain medication can lose effectiveness through tolerance under some conditions. Repeated alarms can become easier to ignore. Repeated advertising can move from unfamiliarity to recognition to irritation. Repeated praise can become background. Repeated crisis language can destroy urgency.
+Repeated alarms can become easier to ignore. Repeated advertising can move from unfamiliarity to recognition to irritation. Repeated praise can become background. Repeated crisis language can destroy urgency. Repeated workload can change what a worker is capable of sustaining.
 
 The system changes because of previous exposure.
 
 Dose becomes history.
+
+And once dose becomes history, we have crossed into a different problem.
+
+The current number no longer tells us everything about the current state.
 
 The next chapter turns from the dose of an input to the gradient of an outcome we are notoriously bad at feeling directly.
 
