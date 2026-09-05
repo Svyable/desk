@@ -50,6 +50,22 @@ The content becomes elastic around a stable core.
 
 This is the attractive version of infinite versions.
 
+The attractive version is not merely hypothetical.
+
+Long before generative AI, researchers were testing whether software that adapted instruction to a learner could outperform a fixed sequence. A 2016 meta-analysis by James Kulik and J. D. Fletcher reviewed fifty controlled evaluations of intelligent tutoring systems. Across those studies, the median achievement gain was substantial compared with conventional instruction.
+
+The result should not be imported carelessly into the present. Those tutoring systems were not today's open-ended generative models. They were generally narrower, more structured, and easier to evaluate. The review also found that measured gains depended partly on the kind of assessment used, with stronger effects on tests built close to the tutoring system than on broader standardized measures.
+
+That limitation is exactly why the evidence belongs here.
+
+Adaptation can help.
+
+But what the system adapts around matters.
+
+If the objective is defined narrowly, the system can become excellent at producing local improvement against the narrow objective. The learner gets better at the tasks the system measures while the institution still has to decide whether those tasks represent the education it intended to provide.
+
+Personalization does not eliminate the need for a common answer to the question: learning what?
+
 The same capability can also dissolve the stable core.
 
 If every person receives a different explanation, how do we know they received the same policy?
@@ -206,6 +222,42 @@ The same interface that removes irrelevant complexity can hide information the p
 
 The difference between personalization and persuasion is partly a question of whose objective controls the adaptation.
 
+This problem also predates generative AI.
+
+The OECD's 2022 review of dark commercial patterns collected evidence on online interfaces designed to steer, deceive, coerce, or manipulate consumers. The examples came from ordinary digital commerce: hidden information, difficult cancellation, misleading urgency, preselected choices, obstruction, and other design practices that can make the provider's preferred action easier than the user's considered preference.
+
+The report does not prove that generative systems are already conducting personalized manipulation at massive scale.
+
+It proves something more basic and more useful.
+
+Digital variation already has an incentive problem.
+
+The provider controls much of the environment through which the user chooses. When the environment can be changed cheaply, optimization can serve the provider's objective while still feeling like convenience to the user.
+
+Generative systems make that environment more elastic.
+
+A fixed dark pattern can be inspected, documented, and banned. A generated sales conversation can vary language, sequence, emphasis, and objection handling across users. A disclosure can remain technically present while the surrounding explanation changes how salient it feels. A cancellation flow can adapt to the reason the customer gives for leaving.
+
+The governance challenge is not that every adaptive system will do this.
+
+It is that the capacity to personalize for comprehension and the capacity to personalize for compliance are technologically adjacent.
+
+The difference lives in the objective and the invariant.
+
+Does the warning have to remain equally legible?
+
+Can the price change?
+
+Can the system omit an option because it predicts the user will not choose it?
+
+Can it use inferred vulnerability to alter persuasion?
+
+Can a customer later reconstruct what was shown and why?
+
+These are not merely interface details once the version is generated at runtime.
+
+They become part of the product's rights and obligations.
+
 That is why infinite versions cannot be governed only by asking whether users prefer them.
 
 People often prefer the thing optimized to capture preference.
@@ -221,6 +273,22 @@ A generated explanation can feel reassuring because it omits uncertainty.
 Optimization learns the local path to a measurable response.
 
 The institution still has to decide whether that response is the right objective.
+
+There is another practical reason to preserve invariants: debugging.
+
+A standardized product can fail in a way that is painful but legible. If ten thousand users see the same broken screen, support can reproduce it. Engineers can inspect the state. Regulators and customers can compare experiences.
+
+A highly adaptive product can fail differently for each person.
+
+One user receives an explanation that omits a warning. Another receives the warning but in language that understates the risk. A third gets a perfectly correct version. The aggregate metrics can look healthy while individual failures become difficult to reproduce.
+
+Personalization therefore creates an observability problem.
+
+The more variation the system is allowed to produce, the more important logs, replay, policy traces, sampling, and tests become. The organization needs to know not only whether the average user succeeded but whether the generator crossed a boundary for a particular user.
+
+This is an operating cost of infinite versions that the cheap generation price can conceal.
+
+The personalized surface can be almost free while the system required to govern it is expensive.
 
 There is also a cultural cost to perfect fit.
 
@@ -277,6 +345,24 @@ The lesson can adapt while the learning objective remains the same.
 The recommendation can adapt while the duty to disclose conflicts remains the same.
 
 The creative work can vary infinitely while the artist preserves a recognizable point of view.
+
+A useful invariant has another property: it gives different people a basis for appeal.
+
+If a citizen believes a generated explanation misstated a benefit rule, there must be an authoritative rule to compare it against. If a student believes an adaptive system diverted them away from advanced material, there must be some inspectable account of the objective and the evidence. If a customer believes the system treated them differently, there must be a record of which differences were permitted.
+
+Without a common reference, personalization can become unchallengeable because every outcome is described as appropriate to the individual.
+
+The right to compare is part of fairness.
+
+Two people do not need identical explanations to deserve confidence that the underlying rule was the same.
+
+This last point separates humane adaptation from arbitrary variation.
+
+Accessibility often requires difference.
+
+Fairness often requires sameness somewhere underneath it.
+
+The design problem is deciding the layer at which each belongs.
 
 This last case matters because abundance does not only create customized utility. It creates customized culture.
 
