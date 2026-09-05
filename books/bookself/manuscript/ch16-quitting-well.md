@@ -322,4 +322,32 @@ I cleaned up what I could.
 
 I kept what was true.
 
+The hardest quits are rarely about the project alone. They are about the audience that learned who you were through it.
+
+A founder can close a company and still have to tell employees, investors, parents, former classmates, and the version of themselves who announced the mission. An athlete can leave competition while strangers continue asking about the next race. A person can leave a profession and discover that dinner-table conversation loses its easiest noun. Continuing had costs, but quitting creates a social editing problem: what replaces the sentence everyone already knows?
+
+This is why identity can behave like sunk cost even when money does not. The person is not merely protecting the hours already spent. They are protecting the coherence those hours purchased.
+
+Quitting well requires making incoherence survivable.
+
+One way is to distinguish the aim from the vehicle. The company may end while the problem still matters. The degree may stop while the field remains interesting. The training plan may end while movement remains valuable. The relationship may end while the capacity for intimacy remains. Not every quit must preserve a higher purpose, but asking whether the vehicle and the aim have been fused can expose artificial choices.
+
+There are also obligations that make quitting unlike private goal disengagement. A person can stop painting with almost no handoff. A manager cannot simply stop managing on Tuesday afternoon. A founder closing a solvent operation may owe notice, documentation, severance, customer support, data handling, or a transition path. A volunteer can leave, but not necessarily without telling the person waiting at the other end of the commitment.
+
+The ethics of quitting depend partly on what claims the beginning created.
+
+This is why a clean internal decision can still require a slow external exit. The project may be over in your mind months before the responsibilities it generated are complete. Honoring those responsibilities is not evidence that the quit was mistaken. It is evidence that beginning had consequences.
+
+A useful quitting threshold is written before desperation if possible. What evidence would make this no longer worth the cost? What financial reserve cannot be crossed? What behavior from a partner is disqualifying? What health signal changes the plan? What opportunity cost would justify reallocating time? Precommitting every threshold is impossible, but naming some of them protects the future decision from the emotional monopoly of the moment.
+
+The threshold should not be mechanical. New information can change what matters. Its purpose is to preserve a trace of the original reasoning before identity and sunk cost become entangled.
+
+There is an opposite danger: turning quitting into a sophisticated excuse for discomfort. Every difficult middle can be redescribed as updated evidence. The work is boring, therefore the fit is wrong. The audience is small, therefore the idea is invalid. The first rejection arrives, therefore the market has spoken.
+
+This is where time horizon matters. Some signals deserve repetition. One bad session is noise. Ten similar sessions may be a pattern. One customer refusal may be idiosyncratic. Fifty may require redesign. Quitting well is not hyper-responsiveness. It is willingness to update once the evidence becomes stronger than the story protecting continuation.
+
+A mature shelf contains projects that ended for different reasons and does not need to flatten them into one moral category. Some were abandoned too early. Some were mercifully stopped. Some were completed enough. Some were transferred. Some ended because the world changed. Some because the person did.
+
+The point is not to become good at quitting. It is to become good at telling the difference between endurance and refusal to learn.
+
 Then I made room.

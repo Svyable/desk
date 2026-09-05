@@ -232,4 +232,38 @@ And you begin anyway—not because the first interruption did not count, but bec
 
 That is not consistency.
 
+A restart also inherits a changed world.
+
+It is tempting to think the only difference between the old attempt and the new one is the person. I am older, wiser, rustier, busier, less afraid. But the environment has been moving too. Prices change. Tools improve. collaborators disappear. Regulations shift. Children grow. Bodies recover or do not. The market that once ignored the idea may now be crowded. A practice that once required special access may now fit in a browser. The room you are returning to may no longer exist in the form you remember.
+
+This means a restart deserves a fresh environmental scan, not merely a fresh promise.
+
+What remains true? Which old constraints have vanished? Which new ones appeared? What knowledge can be reused without pretending the original plan is still current? Restarting from the old task list can be as foolish as restarting a computer from a corrupted state and congratulating yourself for speed.
+
+There is often valuable restart capital hiding in the abandoned attempt. You know vocabulary that once took weeks to learn. You know which tool annoyed you, which hour of the day worked, which collaborator made things easier, which mistake was expensive, which part of the work you secretly loved, and which part you kept outsourcing to a future self. Even if your skill has decayed, the map is not blank.
+
+The important move is to separate retained information from retained obligation.
+
+Because I already spent two years on this does not mean I owe it two more. Because I once promised myself the marathon does not mean my current body must repair the old narrative. Because the company used to matter does not mean reopening it is more honorable than using the acquired skill somewhere else. A restart should be allowed to inherit assets without inheriting every claim the past made on the future.
+
+This is particularly hard when another person is involved. Restarting a relationship, partnership, team, or community project cannot be a unilateral declaration that “we are back.” The interruption may have changed trust. Work may have been redistributed. Someone else may have built a life around the ending. The returning person has new evidence, but so does everyone who lived through the gap.
+
+A relational restart therefore requires a revised contract. What are we actually resuming? What is different this time? Which old grievance needs repair before new work begins? Who bears the cost if the same failure mode returns? What would count as enough evidence to continue?
+
+The same is true of institutions. A program closed after poor adoption cannot be revived by rebranding it. A safety initiative that failed because reporting harmed reporters cannot be restarted with another slogan. A public project that lost legitimacy may need new governance, not renewed publicity. Institutional memory is useful only if it changes the design.
+
+There is also a special emotional trap in the first good days of a restart. Familiarity returns faster than durability. The musician's hands remember more than expected. The recovering runner has one painless session. The old collaborators laugh together. The dormant project produces a burst of pages. This can create the illusion that the gap has been erased.
+
+But re-entry is not recovery.
+
+The capacity to perform once is different from the capacity to sustain. A restart should leave room for a probationary period in which the old competence and the new circumstances are allowed to reveal their actual relationship. Lower the load. Shorten the promise. Reconfirm the desire after the first nostalgia has passed.
+
+The opposite mistake is punishing yourself for the gap by restarting below what the evidence supports. Some people return as if they have no right to remember. They refuse to use old contacts, dismiss prior skill, or treat every retained capacity as illegitimate because consistency was broken. That throws away information for moral theater.
+
+A good restart is neither amnesia nor self-punishment. It is version control.
+
+It records the interruption, preserves what still works, discards what no longer does, and creates a new branch from the actual present rather than from the fantasy that nothing happened.
+
+This is why restarting can be one of the clearest expressions of the bookself. The shelf shows that the old volume existed. The new edition does not need to deny it. It can carry errata.
+
 It is revision.
