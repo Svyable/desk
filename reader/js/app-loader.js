@@ -101,7 +101,6 @@ function showRecovery(error) {
 try {
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
-  try { await import('./desk-library-current-book.js?v=bookself-20260905'); } catch (error) { console.warn('Desk current-book polish could not be loaded', error); }
   try { await import('./desk-cover-actions.js?v=bookself-20260905'); } catch (error) { console.warn('Desk cover action simplification could not be loaded', error); }
   try { await import('./desk-book-opening-handoff.js?v=bookself-20260905'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
   try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
@@ -111,6 +110,7 @@ try {
   if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
   const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type:'text/javascript' }));
   try { await import(moduleUrl); } finally { URL.revokeObjectURL(moduleUrl); }
+  try { await import('./desk-library-current-book.js?v=bookself-20260905'); } catch (error) { console.warn('Desk current-book polish could not be loaded', error); }
 } catch (error) {
   showRecovery(error);
 }
