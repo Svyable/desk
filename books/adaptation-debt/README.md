@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 20 drafted |
+| **Chapters**  | 12 of 20 drafted |
 
 *How Yesterday's Success Becomes Tomorrow's Constraint*
 
@@ -57,13 +57,13 @@ The question is when the constraint still earns its keep.
 - [x] [Ch 6 — Metrics Remember the Old Game](manuscript/ch06-metrics-remember-the-old-game.md)
 - [x] [Ch 7 — The Expert's Handicap](manuscript/ch07-the-experts-handicap.md)
 - [x] [Ch 8 — The Customer You Cannot Fire](manuscript/ch08-the-customer-you-cannot-fire.md)
+- [x] [Ch 9 — The Constituency Around the Rule](manuscript/ch09-the-constituency-around-the-rule.md)
+- [x] [Ch 10 — The Meeting Where Nobody Disagrees](manuscript/ch10-the-meeting-where-nobody-disagrees.md)
+- [x] [Ch 11 — Cannibalize What, Exactly?](manuscript/ch11-cannibalize-what-exactly.md)
+- [x] [Ch 12 — Parallel Systems](manuscript/ch12-parallel-systems.md)
 
 ## Planned chapters
 
-9. The Constituency Around the Rule
-10. The Meeting Where Nobody Disagrees
-11. Cannibalize What, Exactly?
-12. Parallel Systems
 13. The Identity Write-Down
 14. Too Early Is Expensive Too
 15. Small Write-Downs
