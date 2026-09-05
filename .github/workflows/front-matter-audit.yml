@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - align-book-title-pages
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: read
