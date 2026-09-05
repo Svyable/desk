@@ -38,11 +38,13 @@ check(() => assert.match(adapter, /shared\.insertAdjacentElement\('afterend', lo
 check(() => assert.match(adapter, /new MutationObserver\(\(\) =>/));
 check(() => assert.match(adapter, /observer\.disconnect\(\)/));
 check(() => assert.match(adapter, /data\.bookselfPromotion = 'reading-app-gui-292'/));
+check(() => assert.match(adapter, /data\.bookselfDivergence = 'preserve-single-spread'/));
+check(() => assert.match(adapter, /view-toggle\{display:inline-flex!important;\}/));
 check(() => assert.doesNotMatch(adapter, /addEventListener\(['"]click/));
 
 check(() => assert.match(loader, /desk-reading-app\.js\?v=bookself-20260905/));
 check(() => assert.match(loader, /Desk reading-app hierarchy could not be loaded/));
-check(() => assert.match(index, /id="viewModeBtn"/));
+check(() => assert.match(index, /class="view-toggle" id="viewModeBtn"/));
 check(() => assert.match(index, /id="settingsPanel"/));
 
-console.log(`Desk reading-app promotion contract: ${assertions}/30 assertions passed`);
+console.log(`Desk reading-app promotion contract: ${assertions}/32 assertions passed`);
