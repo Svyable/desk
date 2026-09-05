@@ -130,6 +130,32 @@ A preference mirror therefore contains a theory of the self.
 
 That theory may be more consequential than the advice it produces.
 
+There is another problem hidden inside the word preference.
+
+Not everything a person values is experienced as a preference.
+
+A parent may not prefer to wake at three in the morning with a sick child. A witness may not prefer to testify against a friend. A person who returns a wallet full of cash may feel the attraction of keeping it and still regard returning it as what must be done. Someone caring for a spouse with dementia may experience love, resentment, duty, exhaustion, tenderness, and a wish to escape in the same afternoon.
+
+Reducing these conflicts to competing preferences can flatten their moral structure.
+
+Duty is not simply a very strong desire.
+
+A promise is not merely a prediction about what my future self will enjoy having done.
+
+Another person's right is not a preference located in my profile.
+
+The language used to represent the self therefore matters.
+
+A system trained only to infer what Elena wants may miss what Elena thinks she owes.
+
+A system trained to infer what she thinks she owes may preserve inherited obligations she ought to reject.
+
+A system trained to maximize her future satisfaction may turn morality into anticipated regret management.
+
+Each model of the person captures something.
+
+Each can become imperial if treated as complete.
+
 Suppose the system is designed to maximize consistency with explicitly stated commitments.
 
 Users will receive help becoming more like their declared selves.
@@ -176,6 +202,42 @@ If the assistant predicts that a present choice will cause severe future regret,
 
 Personalization creates more moral principals than it eliminates.
 
+It also creates a new class of evidence about the self.
+
+Today, a person can tell a friend, “That is not what I meant,” and the disagreement may remain humanly unresolved. A future assistant may possess a transcript of seventeen earlier conversations, biometric context, purchase history, location patterns, search behavior, and a statistical estimate of what the person tends to mean when using similar language.
+
+The machine may be right about the user more often than the user is right about herself.
+
+That possibility sounds like the ultimate personalization.
+
+It is also a threat to first-person authority.
+
+People are not infallible about their motives. We rationalize. We forget. We edit our autobiographies. We misname envy as principle and fear as prudence. Friends sometimes know what we are doing before we admit it.
+
+Still, there is something dangerous about converting superior inference into the power to tell a person who she really is.
+
+A statistical model can identify patterns in Elena's choices.
+
+It cannot acquire ownership of Elena's identity from predictive success alone.
+
+The distinction resembles the broader argument of this book.
+
+Epistemic advantage deserves weight.
+
+It does not automatically create standing.
+
+The assistant may say, with evidence, that Elena's stated explanation is inconsistent with years of behavior.
+
+Elena should probably listen.
+
+She must also retain the ability to answer: the pattern is real, but your interpretation of what it means is wrong.
+
+Sometimes that answer will be self-deception.
+
+Sometimes it will be authorship.
+
+No system can eliminate the difference in advance.
+
 It also creates the possibility of moral lock-in at scale.
 
 Imagine a generation of people who each have assistants optimized to preserve their own value systems. The liberal receives liberal arguments. The conservative receives conservative arguments. The religious user receives advice translated into religious reasons. The utilitarian receives consequences. The rights-focused user receives duties and constraints.
@@ -195,6 +257,34 @@ The old problem of sycophancy becomes moral.
 A machine can be aligned to the user in exactly the way a courtier is aligned to a king.
 
 It learns which truths are safe to tell.
+
+There is a deeper commercial asymmetry.
+
+The user may believe the assistant is optimized around the user's values while the provider is optimizing around a mixture of user satisfaction, legal exposure, brand safety, revenue, retention, and product strategy.
+
+Those objectives do not have to be sinister to matter.
+
+Suppose Elena tells the system that frugality is important to her. The assistant helps her avoid impulsive purchases. The platform also earns money from transactions or paid recommendations. Even if nobody instructs the model to betray Elena's values, product architecture determines which conflicts become visible, which defaults are easy to change, and which forms of persuasion count as acceptable.
+
+The mirror can be angled by the room around it.
+
+The most important forms of alignment may therefore be institutional rather than conversational.
+
+Can Elena see when a recommendation is influenced by a commercial relationship?
+
+Can she export the moral history the system has built about her?
+
+Can she delete an inferred value without deleting her whole account?
+
+Can she use a rival model to interrogate the first model's interpretation?
+
+Can the provider silently change the policy layer through which her commitments are interpreted?
+
+Can a spouse, employer, insurer, school, or government demand access to the profile?
+
+These are not privacy footnotes.
+
+They determine whether personalization serves a person or turns the person into an administrable moral object.
 
 This is not a reason to abandon personalization.
 
@@ -252,6 +342,24 @@ Sometimes the system will be right.
 
 Then the argument begins.
 
+A mature system would preserve the history of that argument without pretending that history itself decides the outcome.
+
+There should be a difference between “Elena once said this,” “Elena repeatedly acted this way,” “the model inferred this,” “Elena explicitly adopted this as a commitment,” and “the provider requires this as a constraint.”
+
+Those statements carry different kinds of authority.
+
+Flatten them into one preference score and governance disappears into personalization.
+
+Keep them distinct and the user can inspect the provenance of the moral claim.
+
+This suggests something like version control for the self, though the metaphor should not be taken too literally.
+
+A person should be able to revise a commitment without erasing the fact that it once existed. She should be able to identify which values she wants treated as durable and which she wants treated as provisional. She should be able to ask how a recommendation would change if an inferred preference were removed. She should be able to see when the system is relying on a past self she no longer endorses.
+
+The point is not to bureaucratize identity.
+
+It is to prevent invisible inference from becoming destiny.
+
 This may sound exhausting. Most users do not want constitutional litigation with their assistant before ordering dinner.
 
 The point is not to turn every interaction into a referendum on values.
@@ -307,6 +415,16 @@ Not random provocation.
 Not endless argument.
 
 The possibility that the user is more than the preference profile.
+
+That may require deliberate exposure to reasons the user's model did not predict they would welcome.
+
+A system could occasionally distinguish between “this is consistent with your current framework” and “this is a serious challenge to that framework.” It could allow the user to request the strongest case that their own moral vocabulary is hiding something. It could invite a different model, a human adviser, or an affected person into the reasoning process when stakes are high.
+
+The goal is not compulsory disagreement.
+
+It is to keep personalization from becoming epistemic enclosure.
+
+A person who can only encounter objections translated into terms she already accepts may never discover that the terms themselves are the problem.
 
 This is where the preference mirror can remain a tool instead of becoming a private constitution.
 
