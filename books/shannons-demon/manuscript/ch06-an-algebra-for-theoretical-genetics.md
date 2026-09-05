@@ -48,6 +48,12 @@ In a switching network, the logical state of a contact can often be studied whil
 
 The abstraction may still be useful. It simply has to remember what it is.
 
+A model also acquires its authority from assumptions that can disappear once the notation becomes elegant. If mating is treated in a particular way, if a population is idealized, if hereditary categories are represented at one chosen level, the resulting algebra describes the consequences of those premises. It does not silently validate the premises themselves. The more graceful the mathematics, the easier it can be to forget the conditional at the beginning of the sentence.
+
+This problem is not peculiar to genetics. It follows formal modeling everywhere. Equations are excellent at telling us what follows from a set of definitions and assumptions. They are less magical at deciding whether those assumptions capture enough of the world for the question we care about.
+
+The relay work had offered Shannon an unusually forgiving case. The engineer specified the circuit’s intended logical behavior. The abstraction and the artifact had been designed to meet each other. Biology was not obligated to cooperate.
+
 That humility would become important in Shannon's mature work. His information theory was extraordinarily powerful partly because it was extraordinarily disciplined about its object. The theory did not need to decide whether a message was wise, beautiful, true, or important. It measured statistical properties relevant to communication.
 
 Meaning was not disproved. It was bracketed.
@@ -120,6 +126,10 @@ Shannon's stated plan was to continue an investigation that later accounts of hi
 
 The side trip was the road, at least for that moment.
 
+That fact also makes the eventual turn toward communications more interesting. If Shannon had already understood himself primarily as the future founder of a theory of information, the intervening years would be mere staging. His own correspondence shows something messier. A serious young mathematician was choosing among live problems whose future reputations had not yet been assigned.
+
+Careers look like lines only after enough points have accumulated.
+
 At the Institute he would be surrounded by mathematicians whose names later acquired their own gravitational fields. Hermann Weyl was there. John von Neumann was there. Albert Einstein was there. It is easy to convert a directory into a dinner party and a shared campus into a sequence of legendary conversations.
 
 The evidence does not permit that.
@@ -153,6 +163,10 @@ Shannon's own trajectory offers no license for that collapse.
 He worked on genetics and later created information theory, but temporal adjacency is not proof that one secretly contained the other. The responsible claim is narrower. He had direct experience applying algebraic methods to hereditary systems before his mature communication theory, and that experience belonged to a broader habit of testing formal representations against complicated domains.
 
 Anything stronger requires evidence.
+
+The distinction becomes especially important because the language of information is now so natural in biology that it can seem timeless. It is not. Metaphors and mathematical correspondences acquire histories. A later vocabulary can illuminate an earlier problem, but it can also smuggle later understanding into the minds of people who did not possess it.
+
+Shannon’s dissertation should therefore be allowed to remain a 1940 genetics dissertation. Its interest does not depend on turning chromosomes into messages before the historical record does.
 
 That evidentiary restraint is especially important with Shannon because so many later fields wanted him as an ancestor.
 

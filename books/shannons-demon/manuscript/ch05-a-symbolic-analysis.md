@@ -22,6 +22,10 @@ Once that equivalence is established, algebra becomes a design tool.
 
 A complicated expression can sometimes be simplified. The simplified expression can then be translated back into a circuit with fewer contacts or a more efficient arrangement. Conversely, a desired logical condition can be expressed symbolically first and then realized as hardware. Instead of designing by accumulated intuition alone, an engineer can reason from function to structure.
 
+The practical stakes were not cosmetic. Every unnecessary contact was another physical component to buy, wire, inspect, energize, and eventually repair. A symbolic simplification that removed machinery could therefore reduce cost and also shrink the number of places where a real system might fail. The algebra did not abolish maintenance. It gave maintenance fewer objects to worry about.
+
+That distinction is easy to miss from the distance of integrated circuits, where logical functions can be replicated by the millions without a technician hearing a single relay click. In Shannon’s world the logical diagram still became hardware with mass, resistance, tolerances, moving parts, and finite speed. Simplification crossed the boundary from paper to machine.
+
 The move sounds technical because it is technical. That is part of what makes its later influence easy to understate.
 
 The history of computing is full of machines with dramatic silhouettes: cabinets of vacuum tubes, racks of relays, mainframes, personal computers, smartphones, server farms. Shannon’s early contribution is harder to photograph. It is a relationship between descriptions.
@@ -69,6 +73,10 @@ This is an engineer’s version of a mathematical habit: identify invariants.
 What survives when the physical implementation changes?
 
 The logical function survives.
+
+But the survival of the logical function should not be confused with the survival of the machine. A perfect Boolean expression can be embodied badly. Contacts can bounce, coils can burn, power can fail, timing can matter. Shannon’s abstraction specified relationships among states; it did not grant the hardware immunity from physics.
+
+That boundary is part of the achievement rather than a qualification that diminishes it. An abstraction becomes useful when it tells the designer which problems belong at one level and which must be handled somewhere else. Logical correctness and physical reliability are related engineering obligations, not synonyms.
 
 That answer helped create the intellectual architecture of digital systems.
 
@@ -195,6 +203,14 @@ A relay can become a transistor without rewriting Boolean algebra.
 That is the quiet durability of Shannon’s result.
 
 He did not patent a single device that every later computer had to copy. He supplied a way of thinking that could survive every device replacement.
+
+The distinction becomes more consequential as systems grow. Without a symbolic layer, an engineer confronting a large switching network has to carry too much of the apparatus in mind at once. With one, local functions can be reasoned about, combined, tested, and revised without treating the entire machine as an indivisible object. Complexity has not disappeared; it has been partitioned.
+
+That is one of abstraction’s least glamorous powers. It creates places to stand.
+
+Later digital design would develop vastly more sophisticated layers, languages, verification methods, and automated synthesis tools. It would be wrong to pour all of those achievements backward into Shannon’s thesis. But the family resemblance is real: formal description creates a boundary across which engineers can divide labor and reason about machines larger than any one person can hold component by component.
+
+Scale depends as much on such boundaries as on faster hardware.
 
 By the end of the 1930s, the young man from Michigan had therefore done something unusual twice over. He had learned to operate one of the most advanced analog calculating machines of its day, and he had produced a theory that pointed toward a very different computational future.
 
