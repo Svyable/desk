@@ -1,5 +1,13 @@
 # Editorial Review
 
+## Release decision — September 5, 2026
+
+**Release-cleared subject to one explicitly mechanical step:** run `python3 scripts/check-book-length.py neuralase` against an executable checkout of the frozen Desk source and require `healthy: true` with all 18 chapters at or above 3,000 words and at least 65,000 chapter-only words.
+
+No unresolved factual, research, rights, matter, novelty, or editorial blocker remains in this review. The merged exact-length audit records 68,691 chapter-only words and direct same-regex counts above 3,000 words for the three smallest chapter files by byte size; the command above is retained only as the repository-conventional all-chapter mechanical confirmation, not as an open substantive review.
+
+If that command fails on the frozen source, do not release; record the failing chapter count(s) and remediate them on Desk before reconsidering publication. If it passes, this review requires no further human or factual-review gate.
+
 ## Scope review
 
 The book is intentionally about **controlled re-entry in machine reasoning**, not artificial intelligence in general. Every chapter should return to one of five concrete questions: what is re-entered, what changes, what judges the change, how much compute is spent, and what stops the loop.
