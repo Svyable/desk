@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 50 author projects · 47 released · 3 public drafts/proofs**
-> **Where they live: 50 in both Desk + Shelf · 47 Desk-only · 0 Shelf-only**
-> **Release review queue: 7 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 51 author projects · 48 released · 3 public drafts/proofs**
+> **Where they live: 51 in both Desk + Shelf · 46 Desk-only · 0 Shelf-only**
+> **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -43,6 +43,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/restructuring-america/) |
 | [**Right to Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
+| [**Robust**](books/robust/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/robust/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/single-points-of-failure/) |
 | [**Solar Century**](books/solar-century/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/solar-century/) |
@@ -71,7 +72,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Robust](books/robust/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
