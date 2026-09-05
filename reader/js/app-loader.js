@@ -107,6 +107,7 @@ function showRecovery(error) {
 try {
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
+  try { await import('./desk-cover-actions.js?v=bookself-20260905'); } catch (error) { console.warn('Desk cover action simplification could not be loaded', error); }
   const response = await fetchBootstrapResource(appUrl);
   const source = await response.text();
   const adapted = adaptReaderSource(source);
