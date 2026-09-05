@@ -60,9 +60,45 @@ The feature vector does not feel insulted. It does not need to defend itself. It
 
 This is one reason explanation matters so much when automated systems make consequential decisions. U.S. credit law, for example, requires creditors to provide specific reasons for adverse actions. The Consumer Financial Protection Bureau has emphasized that the use of complex algorithms does not create an exemption from that duty. A lender cannot simply say, in effect, the model knows. The person affected is owed a reason accurate enough to make the decision intelligible and contestable.
 
+The legal rule is narrower than a general right to understand every machine that affects you, but it contains an important design principle.
+
+If an institution acts against a person, the institution should not be allowed to make its own opacity the person’s problem.
+
+The CFPB’s guidance makes this concrete. A creditor cannot satisfy the obligation merely by saying an applicant failed an internal standard or missed a qualifying score. The reason has to relate to factors actually considered or scored. That does not make the entire model transparent. It does something more practical: it creates a surface on which correction can begin.
+
+Maybe the information was wrong.
+
+Maybe it belonged to someone else.
+
+Maybe the factor is accurate and the person can change it.
+
+Maybe the factor is accurate and the institution is using it in a way the law does not permit.
+
+Without a reason, none of those possibilities has an entry point.
+
 That requirement contains a moral idea larger than credit.
 
 A person should not be trapped by a version of themselves they cannot inspect.
+
+Inspection alone is not enough.
+
+A perfectly visible profile can still be tyrannical if the person has no way to correct a factual error, challenge an inference, supply context, or ask whether the profile belongs in this decision at all.
+
+Transparency can become theater too.
+
+Here are the 387 variables we used.
+
+Here is the confidence score.
+
+Here is the model card.
+
+Here is the page explaining that the system is statistical and may make mistakes.
+
+All of that can be useful and still leave the affected person with no meaningful move.
+
+The deeper right is contestability.
+
+Not a right to win every contest. A right to have one.
 
 This sounds obvious. It becomes difficult as predictive systems improve.
 
@@ -129,6 +165,44 @@ Is there a correction mechanism?
 Does the institution care about a fact the data structure was never designed to represent?
 
 Can a person submit context without being forced to turn their life into a form field?
+
+There is another difference between a reputation and an operational profile.
+
+A reputation describes you to someone.
+
+An operational profile can change what happens to you.
+
+That distinction sounds small and is enormous.
+
+A recommender predicts what you will watch and then chooses what you are offered. A fraud system predicts whether a transaction is suspicious and then determines whether the transaction proceeds. A risk score can influence how much scrutiny a person receives, which changes how much adverse evidence is generated, which can influence the next score. A customer profile can determine which service path a person enters, and the service path can affect whether the customer stays.
+
+The representation does not merely sit beside reality.
+
+It can participate in producing the reality from which later predictions are made.
+
+This is where a profile becomes performative.
+
+The system says, this person is unlikely to respond.
+
+So the person receives fewer opportunities to respond.
+
+The system says, this account is risky.
+
+So the account is subjected to more friction and scrutiny.
+
+The system says, this customer is high value.
+
+So the customer reaches better support and becomes more likely to remain high value.
+
+The system says, this student is struggling.
+
+That could trigger useful help. It could also lower expectations in ways that change what the student is offered.
+
+The prediction may begin as a description and end as part of the cause.
+
+That does not make predictive systems illegitimate. It means evaluation must ask more than whether the first prediction was accurate. We also have to ask what the institution did because it believed the prediction.
+
+A map that changes the road is a different kind of map.
 
 These questions will matter more as agents begin acting on our behalf.
 
@@ -314,7 +388,7 @@ It says not only who I have been but who I am trying to become.
 
 The version of us other people use often lacks this tense.
 
-Reputation is backward-looking. Credit history is backward-looking. recommendation history is backward-looking. Search history is backward-looking. A résumé is mostly backward-looking. Even a predictive model uses the past to estimate the future.
+Reputation is backward-looking. Credit history is backward-looking. Recommendation history is backward-looking. Search history is backward-looking. A résumé is mostly backward-looking. Even a predictive model uses the past to estimate the future.
 
 A human being can also make a declaration whose main evidence lies ahead.
 
@@ -344,7 +418,7 @@ Machine identity will need equivalent concepts.
 
 Not everything should be permanent because permanence is cheap.
 
-That sentence reverses an old scarcity. For most of human history, forgetting happened naturally. Memory required maintenance. Records decayed. witnesses died. communities changed. Distance created practical anonymity. The moral problem was often how to remember enough.
+That sentence reverses an old scarcity. For most of human history, forgetting happened naturally. Memory required maintenance. Records decayed. Witnesses died. Communities changed. Distance created practical anonymity. The moral problem was often how to remember enough.
 
 Digital systems changed the economics. Storage became easier than forgetting. Replication became easier than recall by a particular human. The moral problem now includes how to stop a cheap memory from becoming an eternal judgment.
 
@@ -355,6 +429,30 @@ The system may not need to remember the embarrassing sentence if it can infer th
 So deletion alone cannot solve the identity problem.
 
 The deeper issue is contestability: whether a person can encounter the operational version of themselves and have any meaningful way to say, this representation is wrong, stale, irrelevant, or being used outside the context that gave it meaning.
+
+There is a second problem after correction: propagation.
+
+A bad fact can be fixed in one database and remain alive everywhere it traveled.
+
+A stale address copied into a risk system becomes evidence of inconsistency. A mistaken identity match produces a fraud flag. The flag is exported as a risk signal. Another system never sees the original mistake; it sees only that a trusted system considered the person risky.
+
+The error acquires institutional ancestry.
+
+Eventually nobody owns it.
+
+System A says it received the signal from System B.
+
+System B says the signal was derived from vendor data.
+
+The vendor says it aggregates multiple sources.
+
+The person is asked to correct a conclusion whose birthplace cannot be located.
+
+This is what makes data lineage a human issue rather than merely a database issue.
+
+If a representation can travel, the ability to correct it has to travel too.
+
+Otherwise the institution has built permanent memory without permanent responsibility.
 
 That right will never be absolute. A person should not be able to edit a fraud record into innocence or rewrite a contractual history because the past is inconvenient. Other parties have interests too.
 
