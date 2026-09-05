@@ -148,6 +148,40 @@ A superior intelligence may reduce the factual gap between the two almost to zer
 
 The moral gap remains.
 
+There is another gap between a preference and a judgment.
+
+A person can prefer lower taxes and, after deliberation, support a tax increase because they accept an argument about public obligation. They can dislike a housing project and still vote for it because they believe other people have claims that outweigh personal inconvenience. They can enter a jury with one intuition and leave with another after hearing evidence. They can discover during debate that the question they thought they were answering was not the important one.
+
+A model that predicts what people would choose under fuller information attempts to capture some of this movement.
+
+That can be extraordinarily useful.
+
+It can also become counterfactual paternalism.
+
+The system says citizens would support the policy if they understood the evidence, were less misinformed, considered the interests of others, and deliberated under ideal conditions.
+
+Perhaps they would.
+
+Who chose the ideal conditions?
+
+Which information counts as relevant?
+
+Which biases are corrected and which commitments are respected?
+
+How long should deliberation continue before the preference is treated as improved?
+
+At what point does modeling a citizen's better judgment become replacing the citizen with a theory of the citizen?
+
+Political philosophy has long wrestled with the difference between what people want and what they would endorse under fair or informed conditions. Artificial intelligence makes the abstraction executable.
+
+A city can query the hypothetical electorate.
+
+That does not make the hypothetical electorate the sovereign.
+
+The model can be a mirror held up to public reasoning: if people accepted these premises, this outcome would follow. It can reveal inconsistency and consequence.
+
+It should not silently upgrade predicted reflective preference into actual consent.
+
 This is why social aggregation in AI alignment is politically difficult.
 
 Researchers have begun examining how diverse human values can be combined into model behavior. The problem resembles social choice in some respects. Different people have incompatible preferences. Aggregation rules produce different outcomes. Intensity, minority rights, strategic reporting, interpersonal comparison, and the domain of admissible choices all matter.
@@ -204,7 +238,35 @@ That improves representation.
 
 It does not transform training into legislation.
 
-The temptation to do so will grow because models can produce moral recommendations that feel culturally grounded.
+The problem becomes stranger once artificial text itself fills the record.
+
+A future model may be trained partly on a world in which prior models drafted policies, comments, essays, customer messages, public submissions, legal arguments, and moral explanations. Machine-mediated language can become evidence about human values even when the machine helped produce the language being measured.
+
+The pseudo-electorate starts echoing itself.
+
+Suppose a platform studies public discussion to infer what moderation rule users consider fair. Many users wrote their posts with assistants that already suggested language shaped by the platform's existing norms. The platform then trains or evaluates another system on those posts and concludes that users broadly endorse the norms reflected in them.
+
+The loop can be subtle.
+
+Governance shapes model behavior.
+
+Model behavior shapes expression.
+
+Expression becomes data about social preference.
+
+The data is used to justify governance.
+
+No conspiracy is required.
+
+Feedback can make an institutional value look socially spontaneous.
+
+This is another reason provenance matters at population scale. A society should know when evidence of public opinion is heavily machine-mediated, just as researchers distinguish responses produced under different survey methods.
+
+Synthetic abundance can otherwise create a false sense of moral mass.
+
+A billion sentences are not a billion citizens.
+
+The temptation to treat them that way will grow because models can produce moral recommendations that feel culturally grounded.
 
 A system can say: across the values represented in this population, the most acceptable compromise is X.
 
