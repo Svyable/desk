@@ -62,7 +62,7 @@ The federal legal structure adds another layer. Under the Uniform Time Act, stat
 
 The politics were still moving while this chapter was being drafted.
 
-On July 14, 2026, the U.S. House of Representatives passed H.R. 139, the Sunshine Protection Act, by 308 votes to 117. The bill would make daylight saving time permanent while preserving existing state exemptions. It went to the Senate the next day. As of early September, the Senate had not passed it and no floor vote was scheduled; the chamber was in its late-summer pro forma period and was not due to resume regular business until mid-September.
+On July 14, 2026, the U.S. House of Representatives passed H.R. 139, the Sunshine Protection Act, by 308 votes to 117. The bill would make daylight saving time permanent while preserving existing state exemptions. It then moved to the Senate, where it had not passed as of September 5; the Senate was in a run of pro forma sessions with regular business scheduled to resume September 14.
 
 This is a useful snapshot because it captures the strange consensus and disagreement around the clock. Large majorities say they dislike changing it. The harder question is what should replace the change.
 
