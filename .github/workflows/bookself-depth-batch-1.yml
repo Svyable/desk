@@ -1,0 +1,256 @@
+name: Temporary Bookself depth batch 1
+
+on:
+  push:
+    branches:
+      - revision/bookself-depth-pass
+
+permissions:
+  contents: write
+
+jobs:
+  deepen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deepen Bookself chapters 1 through 7
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          additions = {
+          'ch01-the-empty-slot.md': """
+The empty slot also carries option value. Before anything has been placed in it, every version of the future can still claim the space. The unwritten book can be elegant, commercial, difficult, beloved, private, brief, monumental, or all of those things in the imagination because none of them has yet had to compete with a sentence. The unstarted company can serve any customer. The unmade move can lead to any life. Possibility feels abundant partly because its alternatives have not yet been forced to exclude one another.
+
+That makes starting a peculiar transaction. You spend some possibility in order to buy information.
+
+This is why the first move can feel larger than its objective size. A one-page draft may take twenty minutes, but it kills thousands of imaginary first pages. Sending one application makes one career route more concrete and the others, for an evening at least, less central. Walking into one class turns a vague desire to learn into an encounter with a particular teacher, schedule, price, room, and level of difficulty. The mind experiences that narrowing as loss even when the information gained is useful.
+
+There is no reason to shame that response. Selection is a real cost. A person with limited money, care capacity, health, reputation, or time may have fewer affordable wrong turns than someone whose life contains more slack. The advice to begin everywhere is therefore as unserious as the advice to begin nowhere. An empty slot is not merely fear waiting to be conquered. Sometimes it is scarce capacity waiting to be allocated.
+
+The useful question is what kind of uncertainty the first move can retire. A good beginning does not have to prove that the project will work. It should make at least one important unknown less imaginary. Do I return to the work after the novelty has passed? Does the customer understand the offer without an explanation? Can my body tolerate the first modest load? Does the collaboration become clearer when an actual task exists? Does the supposed desire survive the calendar?
+
+This reframes courage. Courage is not always a dramatic commitment. Sometimes it is accepting a small, specific loss of fantasy in exchange for a more accurate map.
+
+The distinction matters because some starts are almost completely reversible while others are not. A private sketch, a sample lesson, a prototype, a conversation, a small deposit, or an afternoon of observation can generate evidence without demanding an identity oath. A surgery, a large loan, a public accusation, a resignation without savings, or a decision affecting a dependent can close doors that cannot simply be reopened. Treating all beginnings as morally equivalent confuses experimental contact with irreversible commitment.
+
+The empty slot therefore deserves design. The first mark should be large enough to encounter reality and small enough, where possible, to preserve room for revision. That balance is not timidity. It is a way of making the future more knowable without pretending that the future is cheap.
+
+A shelf is built one occupied space at a time, but an occupied space is not automatically an achievement. It is a record that something was chosen, touched, tested, or lived. The value arrives from what the record lets you see next. A beginning worth keeping is one that converts at least a little uncertainty into evidence you can use.
+""",
+          'ch02-the-self-before-the-evidence.md': """
+The difficulty is that identity evidence is not collected in a neutral laboratory. Other people have already written in the margins.
+
+A child is told she is not mathematical. A new manager inherits the reputation of being too quiet. A worker who has spent ten years in one function discovers that colleagues treat the old title as a forecast of every future competence. A person who once failed publicly finds that the failure remains more socially available than the dozens of ordinary things done well afterward. Before the next attempt begins, the self has already been described by family, institutions, markets, credentials, stereotypes, old evaluations, and previous versions of the person.
+
+Some of those descriptions contain useful information. Others are stale. Some were produced under conditions that no longer exist. Some reflect another person's incentives more than the subject's capacity. The problem is that identity forecasts rarely arrive with expiration dates.
+
+A new attempt can function as a recalibration device, but only if the evidence is interpreted with care. One good day does not prove a permanent trait. One difficult day does not disprove one. The first class may be unusually energizing. The first customer may be unusually generous. The first run may occur in perfect weather. Evidence is strongest when it survives repetition, variation, and contact with the parts of the activity that are not flattering.
+
+This makes self-knowledge less like revelation and more like model maintenance. The model says, I am bad at public speaking. A small speech produces observations. Perhaps the fear was real but the delivery was adequate. Perhaps preparation mattered more than charisma. Perhaps the person dislikes keynote performance but enjoys teaching a room of twenty. The old identity sentence was too coarse. Action does not necessarily reverse it; action can make it more specific.
+
+Specificity is one of the great gifts of beginning. “I am not a business person” can become “I dislike selling vague promises but enjoy solving a concrete customer's problem.” “I am not athletic” can become “I dislike competitive team sports and respond well to long walks with measurable progression.” “I cannot write” can become “I stall when I try to sound finished before I know what I think.” The new sentence may still contain limits. It is simply less lazy.
+
+There is also a politics to which evidence gets believed. A powerful person's first experiment may be called range; a less powerful person's may be called lack of focus. One employee is allowed to learn in public while another is expected to arrive already polished. A mistake can be treated as data for someone with status and as a verdict for someone without it. The production of identity evidence is therefore not enough. People also need environments in which updated evidence can count.
+
+That is why a bookself cannot be only a private motivational metaphor. Shelves are social. Credentials, references, portfolios, demonstrations, probation periods, auditions, apprenticeships, and trial projects are all institutions for deciding whether new evidence about a person will be admitted into the public record. When those institutions are absent, a person can change while the surrounding system continues to address an earlier edition.
+
+The self before the evidence is not empty. It is overfilled with forecasts of uneven quality. Beginning gives those forecasts competition. The point is not to manufacture any identity you please. It is to stop treating an old prediction as the last available measurement.
+""",
+          'ch03-readiness-is-a-story.md': """
+There is, however, a dangerous way to misuse the argument against readiness: to pretend preparation never matters.
+
+Some doors should not be crossed casually. A pilot, surgeon, electrician, parent, fiduciary, climber, or person handling another human being's safety cannot replace competence with enthusiasm. There are domains in which the first unsupervised attempt should come after training, simulation, observation, certification, or repeated practice. “You learn by doing” is true in these settings only if doing includes the protected environments in which errors can be absorbed without transferring unacceptable risk to someone else.
+
+The question is therefore not whether to prepare. It is what preparation can actually know.
+
+Before contact, preparation can teach procedures, vocabulary, constraints, common failure modes, tool use, legal duties, and the shape of a field. It can build baseline capacity. It can reduce avoidable harm. But there remains a class of information that preparation cannot manufacture: how this person, in this environment, with this body, attention span, team, market, schedule, and set of obligations will respond once the activity is real.
+
+Readiness stories become costly when they demand that the second category be settled by the first.
+
+A person reads another book because reading can still feel like progress toward a certainty that only writing will produce. A prospective founder keeps refining the market map because the map cannot answer how strangers react to the offer. A manager waits to feel authoritative before having the first difficult conversation, although authority may partly emerge from surviving difficult conversations with honesty. The preparation is not useless. It has simply crossed the line from reducing known risk to postponing unknown experience.
+
+One way to detect the crossing is to ask what new information the next unit of preparation is expected to create. If another week of study changes the safety profile, improves a prerequisite skill, or exposes a known blind spot, the week may be cheap. If it mainly postpones the moment when an external response becomes possible, the week is buying emotional shelter rather than operational readiness.
+
+That shelter has a benefit. It protects the imagined self from disconfirmation. As long as the restaurant is still a plan, the planner can be a brilliant restaurateur in private. As long as the manuscript remains notes, the writer can be the author of the excellent book that has not yet encountered a paragraph. The readiness story preserves a flattering counterfactual: I would be good at this if I chose to begin.
+
+The price is that counterfactual identities cannot compound. They do not acquire customers, muscle memory, collaborators, revisions, scars, references, or the specific knowledge that comes from a mistake with a name. They remain unchallenged because they remain unmeasured.
+
+Readiness also has a social dimension. Some people receive permission to begin while visibly unfinished. Others learn that they will be judged more harshly for the same beginner errors. That can make extra preparation rational rather than neurotic. A person entering a field where they are isolated or stereotyped may choose to arrive overprepared because the cost of being treated as representative of a group is not imaginary. Advice that calls this perfectionism can erase the asymmetry that produced it.
+
+A humane theory of beginning therefore distinguishes internal readiness theater from external consequence. It asks what the hesitation is protecting. Is it protecting a patient, a child, a livelihood, a legal obligation, a scarce pool of savings? Or is it protecting the story that I might be excellent from the evidence that I am currently new?
+
+Those protections deserve different respect.
+
+There is another clue. Real preparation tends to become more concrete as it proceeds. The learner can say what remains unknown, which standard has not yet been met, which rehearsal still fails, or which resource is missing. Readiness theater becomes more atmospheric. I need to know more. I need to feel certain. I need a better time. I need the plan to be clearer. The finish line recedes because it was never defined.
+
+For consequential beginnings, define the gate. Name the competence, resource, consent, supervision, or safety condition that must exist first. Then, once those conditions are met, stop asking preparation to deliver the emotional experience of having already succeeded.
+
+Nobody can become experienced in advance.
+
+The adult version of readiness is not certainty. It is enough preparation to make the next contact responsible, plus enough humility to let the contact change the plan.
+""",
+          'ch04-the-first-trace.md': """
+Not every trace is equally informative.
+
+A person can become very busy producing traces that prove only that they know how to look busy. A domain name is a trace, but it does not show demand. A new notebook is a trace, but it does not show a writing practice. An announcement is a trace, but it may reveal more about willingness to announce than willingness to continue. A logo, a syllabus, a training plan, a set of tools, a public declaration, and a beautifully organized folder can all be real objects while remaining weak measurements of the question that matters.
+
+The quality of a first trace depends on what it touches.
+
+If the uncertainty is whether a stranger understands the product, the trace must reach a stranger. If the uncertainty is whether the body tolerates movement, the trace must include movement at a responsible load. If the uncertainty is whether two collaborators can make decisions together, the trace must require a decision rather than another conversation about collaboration. If the uncertainty is whether a person wants to write, some words must exist long enough to be revised.
+
+This sounds severe until one notices how merciful it is. A well-designed trace can be small because it is aimed. It does not have to mimic the finished project. It needs to make contact with the relevant unknown.
+
+That idea also helps separate evidence from spectacle. Public beginnings often generate a powerful social trace: other people now know what you said you would do. That can create accountability, support, introductions, and useful pressure. It can also create a substitute reward. The announcement receives attention before the work has acquired enough structure to produce any. The identity is socially recognized ahead of the evidence that was supposed to support it.
+
+For some projects, the better first trace is deliberately boring. A timestamped paragraph. A customer who paid a small amount. A completed practice set. A calendar containing three sessions that actually occurred. A repaired object. A conversation that answered one uncomfortable question. Boring traces are often harder to perform for an audience and easier to learn from.
+
+There is an engineering principle hiding here: instrument the beginning. Decide before the first move what observation would change the next move. The observation can be qualitative. Did I want to return? Where did the process stall? What surprised the other person? Which assumption turned out to be wrong? What resource vanished faster than expected? The purpose is not to turn a life into a dashboard. It is to prevent the first act from disappearing into a vague emotional verdict.
+
+A trace can also disconfirm. This is essential. If every possible outcome will be interpreted as proof that the project deserves continuation, the beginning is not an experiment. It is a ceremony. A useful first trace creates at least one imaginable result that would make you shrink, redesign, postpone, seek training, change partners, or stop.
+
+The right to stop is part of what makes a trace informative. Evidence has little value if the conclusion has been decided in advance.
+
+Over time, traces form a chain. The first is rarely impressive. The significance comes from sequence: draft, response, revision; lesson, practice, correction; application, interview, rejection, changed application; prototype, failure, redesigned prototype. The chain lets a person see not only whether they acted but whether action altered understanding.
+
+This is how a first trace becomes more than proof of motion. It becomes the first object in a record of learning.
+""",
+          'ch05-friction.md': """
+Friction is often discussed as though all resistance were a defect. That is too simple.
+
+Some friction is protection. A medication bottle that resists a child's hand, a review before money moves, a checklist before a dangerous procedure, a cooling-off period before an irreversible decision, or a second person required to authorize a consequential change can make action slower because speed is not the only value. The purpose of these barriers is to force attention, consent, redundancy, or competence into the path.
+
+Other friction is inheritance. The form asks for information the institution already has. The meeting exists because nobody trusts the database. A new employee needs permission from a person who left six months ago. A citizen must learn which office owns a problem that the institution itself cannot route cleanly. A beginning fails not because the desire was weak but because the path contains accumulated administrative sediment.
+
+The distinction matters. “Reduce friction” is bad advice if it removes safeguards and timid advice if it leaves pointless burden untouched.
+
+A better question is what the friction is buying.
+
+If a delay buys safety, informed consent, error detection, fairness, or a necessary transfer of knowledge, the design problem is to preserve the benefit while making the cost legible. If the delay buys nothing except organizational habit, status protection, or the convenience of the system, the burden should not be moralized as a test of commitment.
+
+Friction is also unevenly distributed. Ten minutes is not ten minutes in every life. A form that requires a printer is trivial to someone with an office and expensive to someone using a phone on a bus. A class at six in the evening is convenient to one person and impossible to another because care work begins at five-thirty. A $200 refundable deposit is a nuisance to one household and a hard exclusion to another. A networking event that assumes comfort with a dominant language, dress code, or social script makes some beginners spend attention merely decoding the room.
+
+The visible procedure can therefore be identical while the effective threshold is radically different.
+
+This is one reason motivation is such a poor universal explanation for who begins. Systems frequently observe the people who crossed their threshold and infer desire from the survivors. The people who could not afford the threshold become invisible, and the institution congratulates itself on selecting the most committed.
+
+Personal beginnings contain the same mistake. A person builds a plan around the best version of Tuesday rather than the ordinary one. The shoes are stored where they require three extra decisions. The writing file lives behind a forgotten password. The healthy meal assumes ingredients that are never in the house. The project depends on an uninterrupted two-hour block in a life that reliably produces twenty-minute pieces. Each obstacle looks small in isolation. In sequence, they become a tax collected at the exact moment motivation is weakest.
+
+Friction compounds because every threshold is another opportunity for deferral. Locate the file. Remember the password. Find the notes. Clear the desk. Decide where to begin. Recover the context. Notice a message. Answer it. The work has not become harder; access to the work has become a miniature obstacle course.
+
+Designing the threshold means moving some decisions upstream. Leave the instrument ready. End a session with the next action named. Put the recurring block on the calendar before the week becomes crowded. Precommit modest resources. Make the needed material visible. Create a restart note. Ask one person to expect an artifact rather than a promise. The goal is not to remove discipline. It is to spend discipline on the work instead of repeatedly spending it on admission to the work.
+
+Institutions can do the same. Good onboarding does not merely explain the organization; it shortens the distance between arrival and a legitimate first contribution. Good public service design does not require citizens to understand the bureaucracy's internal chart. Good apprenticeship makes the first safe task obvious. Good software makes the next meaningful action more visible than the machinery behind it.
+
+There is a temptation to interpret smoothness as seriousness. Important work should feel hard, so perhaps the difficult entrance is appropriate. But difficulty belongs in the substance. A violin should be difficult because music is difficult, not because the case requires six keys and the practice room can only be booked by fax. Medicine should be difficult because diagnosis and treatment demand expertise, not because the learner cannot discover which supervisor is permitted to sign the form.
+
+Protect useful friction. Remove ceremonial friction. Compensate for friction that cannot be removed. And notice who is paying it.
+
+The threshold is part of the opportunity. If a system repeatedly tells certain people that they lacked the will to begin, inspect the door before inspecting their character.
+""",
+          'ch06-the-wrong-size-of-ready.md': """
+The size of a first move can be judged by a simple principle: how much useful learning does it purchase for the amount of downside it creates?
+
+This is not a formula. The variables are too human for false precision. But the comparison is valuable because beginners often optimize for a different quantity: how much the first move resembles seriousness.
+
+A large lease looks serious. A public launch looks serious. A six-month training plan looks serious. Quitting a job looks serious. Buying the professional equipment looks serious. The visible size of the commitment becomes a proxy for the invisible size of the desire.
+
+That proxy can be expensive.
+
+If the main uncertainty is whether ten strangers want the service, a long lease does not answer it better than ten honest conversations and a small paid test. If the uncertainty is whether a person enjoys the work after the fantasy wears off, expensive equipment can actually distort the answer by creating pressure to justify the purchase. If the uncertainty is whether two people can collaborate, forming the permanent partnership before completing one bounded project turns a learning question into a governance problem.
+
+The wrong-size beginning bundles uncertainties that could have been separated.
+
+A well-sized start isolates one or two of them. Demand before scale. Technique before speed. Working relationship before ownership. Repeated interest before identity declaration. A month of actual use before a year of subscription. A small audience before a campaign. The sequence does not guarantee success; it makes failure more interpretable.
+
+There are limits. Some opportunities cannot be sampled in miniature. A person cannot half-move across a country in any meaningful sense. A pregnancy is not a reversible pilot. Certain businesses require meaningful fixed capital before the product exists. Some careers demand years of training before a novice can perform the real work. A political candidacy becomes public the moment it becomes real. Life contains cliffs, not only ramps.
+
+When the first meaningful action is necessarily large, the preparation should change shape. The goal becomes reducing uncertainty around the cliff: observe more closely, speak with people who have crossed it, model the financial downside, clarify obligations, build reserves, rehearse adjacent skills, negotiate exit paths where possible, and separate what is truly irreversible from what merely feels embarrassing to reverse.
+
+This is the difference between caution and paralysis. Paralysis asks for a riskless cliff. Caution asks which parts of the risk can be understood or buffered before the jump.
+
+Beginnings can also be too small. A person “works on the book” by changing the font. A company “tests demand” by asking friends whether the idea sounds interesting. A would-be teacher watches another course about teaching. The action is safe because it has been designed not to reach the uncertainty. Tiny steps become a form of insulation.
+
+The right-sized beginning therefore has two boundaries. It is small enough that a disappointing result does not produce disproportionate damage, and real enough that a disappointing result remains possible.
+
+That second condition is what distinguishes an experiment from a ritual.
+
+There is a further complication: the size that is right changes after evidence arrives. A first customer may justify a second. Ten may justify a process. A repeated practice may justify better equipment. A working collaboration may justify shared ownership. A month of training may justify entering an event. The mistake is treating the first-size rule as a permanent philosophy of smallness.
+
+Some people become attached to optionality. They design endless pilots because pilots protect them from the harder question of scale. Every experiment works just well enough to authorize another experiment, but never enough to trigger the larger commitment the experiments were supposedly investigating. The person becomes excellent at beginning without becoming willing to continue.
+
+Evidence should change the size of the bet.
+
+That requires pre-deciding what different results mean. What would justify doubling down? What would justify repeating at the same scale? What would require redesign? What would make stopping responsible? Without these thresholds, successful experiments can be interpreted conservatively forever and failed ones can be rationalized indefinitely.
+
+Organizations suffer from the same problem. Innovation programs can accumulate pilots that are institutionally safe because no core process depends on them. A pilot succeeds in its protected corner, receives applause, and then encounters the procurement rules, legacy systems, incentives, training needs, and political ownership that determine whether it can become ordinary. The experiment proved that the idea could work under pilot conditions. It did not prove that the organization could absorb it.
+
+Scale is a separate experiment.
+
+This is why “start small” needs a second sentence: enlarge when the evidence earns enlargement, and test the new risks that enlargement introduces. A restaurant pop-up can test demand but not a permanent rent burden. A prototype can test function but not mass production. A small team can test a process but not the coordination cost of a hundred people. Each size reveals a different world.
+
+The purpose of right-sizing is not to avoid commitment. It is to postpone commitments that do not yet buy information and accelerate commitments once the information makes their purpose clearer.
+
+A first move should not be impressive. It should be proportionate to what is known, what can be lost, and what needs to be learned next.
+""",
+          'ch07-defaults.md': """
+Defaults operate in layers.
+
+There is the obvious default of the calendar: what happens if nobody intervenes. There is the physical default: which object is nearest, which room is available, which route the body already knows. There is the social default: whom you spend time with and what those people treat as normal. There is the administrative default: which payment renews, which form carries yesterday's answer forward, which account remains selected. There is the identity default: which explanation of yourself appears first when a new choice arrives.
+
+A new beginning has to contend with all of them.
+
+This is why a single act of intention can feel strangely weak. The person says, I will write in the morning, but the phone is beside the bed, the children wake at an uncertain hour, the work calendar begins early, the document has no named next step, and the household has never treated six-thirty as protected writing time. The intention is not facing one competing preference. It is facing a stack of established defaults that were built over years.
+
+The stack explains why good changes can feel artificially expensive at first. The old behavior has infrastructure. It has passwords remembered by the browser, acquaintances who expect it, objects placed conveniently, routes rehearsed, subscriptions paid, and stories already accepted by other people. The new behavior begins without those advantages and is then judged for requiring effort.
+
+One way to make a beginning durable is to build infrastructure faster than identity rhetoric. Give the new behavior a place, cue, budget, recurring time, tool, and restart procedure. Make the next action easier to locate. Reduce the number of fresh negotiations it requires. The point is not to automate the self. It is to stop asking the self to hold the entire arrangement in working memory.
+
+Defaults can also conflict. A person can create a protected hour for exercise while remaining in a workplace that regularly schedules over it. A household can plan to cook while buying food in a pattern that makes cooking implausible. A company can announce experimentation while promotion still rewards only error-free execution. A school can say questions are welcome while classroom status flows to the students who answer quickly. The declared default and the lived default pull in opposite directions.
+
+In those cases, the problem is not merely individual consistency. The environment is emitting a stronger instruction than the stated one.
+
+This matters for institutional change. Leaders often announce a new priority and then wait for culture to follow. But culture is partly the residue of defaults: who attends which meeting, which metric is reviewed first, which expense is automatically approved, which failure requires explanation, whose calendar can be interrupted, what information is visible, and what happens when the new initiative collides with the old quarter's target. If those defaults remain untouched, the old organization keeps voting every day.
+
+Changing a default is therefore an allocation decision. Something else receives less protected time, easier access, automatic funding, or social attention. There is no neutral calendar hiding beneath the choices. The established pattern already distributes opportunity.
+
+That is also why default design can become coercive. Making the desirable path easier is not the same as removing meaningful consent. A system can use defaults to help people carry out their own stated intentions, or it can use inertia to extract money, data, labor, or agreement from people who are unlikely to notice the setting. The ethics depend on whose purpose the default serves and how easy it is to understand and reverse.
+
+For personal beginnings, this suggests a useful test: would I still endorse this default if I encountered it on a tired day? Automatic savings may pass. An automatic public commitment with escalating penalties may not. A recurring practice block may pass. A system that makes quitting deliberately humiliating may not. Good defaults preserve agency while lowering needless decision cost.
+
+There should also be a default for failure.
+
+Most plans design the ideal sequence and leave interruption undefined. Miss one day and the person must improvise a restart while disappointed. Lose a week and the old routine instantly regains home-field advantage. A resilient design specifies the re-entry move in advance: after a missed session, do the ordinary next session; after travel, resume at a reduced load; after a late night, move the work rather than cancel the identity; after a project pause, read the handoff note before making new plans.
+
+This prevents the exception from becoming a new default accidentally.
+
+The same principle applies to teams. If a meeting is cancelled, where does the decision go? If the owner leaves, who inherits the task? If a customer does not respond, what is the next state? If an experiment fails, is the result archived or merely forgotten? Systems become durable when their recovery behavior is as designed as their normal behavior.
+
+Defaults also reveal which identities have been made institutionally easy. The person whose parents know the profession, whose school explains the application, whose employer has a training budget, whose neighborhood contains the facility, or whose network supplies an introduction begins with pathways already worn. Another person may want the same thing and have to invent the route as well as walk it.
+
+Calling both journeys equal exercises of motivation hides the architecture.
+
+A generous institution makes valuable beginnings less dependent on inherited navigation. It publishes the steps, lowers avoidable transaction costs, creates legitimate beginner roles, explains the hidden rules, and builds recovery paths for predictable mistakes. It does not guarantee an outcome. It makes the opportunity real enough to test.
+
+The deepest use of defaults is not getting yourself to perform one desired behavior. It is deciding what kind of life, team, or institution should happen on an ordinary day when nobody feels heroic.
+""",
+          }
+
+          root = Path('books/bookself/manuscript')
+          for filename, addition in additions.items():
+              path = root / filename
+              original = path.read_text(encoding='utf-8').rstrip()
+              head, sep, tail = original.rpartition('\n\n')
+              if not sep:
+                  raise RuntimeError(f'Could not find final paragraph boundary in {filename}')
+              revised = head + '\n\n' + addition.strip() + '\n\n' + tail + '\n'
+              path.write_text(revised, encoding='utf-8')
+          PY
+      - name: Commit depth pass and remove temporary workflow
+        run: |
+          rm .github/workflows/bookself-depth-batch-1.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books/bookself/manuscript/ch0{1,2,3,4,5,6,7}-*.md .github/workflows/bookself-depth-batch-1.yml
+          git commit -m "Deepen Bookself chapters 1-7"
+          git push
