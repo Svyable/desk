@@ -282,6 +282,124 @@ They make the person reachable by reasons, relationships, commitments, and conse
 
 That is enough to build a life around.
 
+But the phrase needs one more correction before it hardens into the book’s final flattering story.
+
+Not everyone has the same power to revise.
+
+A person can notice the script and still be trapped inside it.
+
+A worker can understand that a metric is absurd and still need the job.
+
+A borrower can understand the scoring system and still have no alternative lender.
+
+A student can know a detector is unreliable and still face an institution that treats the score as evidence.
+
+A patient can disagree with an automated pathway and still depend on the only hospital available.
+
+A creator can understand that a platform’s incentives are shaping the work and still depend on the platform for an audience.
+
+A person can know exactly which habit is hurting them and lack money, time, safety, childcare, health, legal status, social support, or simple room to build another life around a new rule.
+
+Awareness is not power.
+
+This matters because “revision under responsibility” could otherwise become a sophisticated way of blaming people for systems they can see but cannot change.
+
+You noticed the script.
+
+Why did you keep following it?
+
+Sometimes the answer is cowardice.
+
+Sometimes inertia.
+
+Sometimes desire.
+
+Sometimes the answer is that rent was due.
+
+A theory of agency that cannot tell the difference is another statue.
+
+Responsibility should track meaningful control.
+
+Not perfectly. Human life will never give us a formula that allocates blame exactly. But the direction matters.
+
+The more authority a person has over the goal, the process, the information, the timing, the exit, and the ability to repair harm, the stronger the case for holding that person responsible for the result.
+
+The less authority they have, the more carefully responsibility has to move upstream toward the people and institutions that designed the conditions.
+
+This does not erase individual agency.
+
+It locates it.
+
+The reviewer forced to approve one hundred machine outputs an hour is not in the same position as the executive who chose the throughput target.
+
+The customer trapped in an automated appeal loop is not in the same position as the institution that decided no human appeal was worth funding.
+
+The worker using a mandated tool is not in the same position as the company that selected, configured, and measured work through it.
+
+The user can still act.
+
+The distribution of responsibility should notice who could act differently without paying an impossible price.
+
+Agency has infrastructure.
+
+Time can be infrastructure.
+
+Money can be infrastructure.
+
+Education can be infrastructure.
+
+Legal rights can be infrastructure.
+
+A union, a professional norm, an appeals process, a family member, a public library, a savings account, a second chance, a safe place to sleep, or a supervisor willing to hear no can all widen the set of scripts a person can realistically revise.
+
+This is not sentimental decoration around personal agency.
+
+It is part of how agency becomes exercisable.
+
+The machine age will make this visible because automation concentrates leverage.
+
+One software decision can alter the defaults facing millions of people.
+
+One procurement decision can reshape how an organization works.
+
+One metric can turn thousands of local choices in the same direction.
+
+One model update can change what counts as suspicious, relevant, urgent, or likely without the affected people ever meeting the person who authorized the change.
+
+Revision therefore cannot remain only an individual virtue.
+
+Institutions have to revise too.
+
+Policies need appeal.
+
+Models need reevaluation.
+
+Metrics need retirement.
+
+Rules need exceptions and, sometimes, abolition.
+
+Organizations need ways to say: this system was ours, it produced harm, and the fact that many individuals clicked approve does not dissolve institutional authorship.
+
+Societies need ways to change laws and norms when new technical arrangements reveal old assumptions that no longer deserve authority.
+
+Collective revision is slower and messier than changing a preference in an app.
+
+It is still revision under responsibility.
+
+The subject is simply plural.
+
+We did this.
+
+We are changing it.
+
+We still owe something to the people who lived under the old rule.
+
+That may be the institutional form of the sentence that has followed this book:
+
+That was us.
+
+It is no longer the instruction.
+
 It may also be enough to build better machines around.
 
 A system designed for a mythic human will fail actual humans.
@@ -296,6 +414,8 @@ If the designer assumes behavioral normality proves legitimacy, unusual humans w
 
 If the designer assumes the user’s current request equals their long-term interest, a perfectly obedient agent can become an efficient accomplice to a bad impulse.
 
+If the designer assumes every user has equal power to refuse, consent will become a button covering unequal dependence.
+
 Design improves when the human is allowed to be human in the unflattering sense.
 
 Forgetful.
@@ -309,6 +429,8 @@ Inconsistent.
 Social.
 
 Finite.
+
+Unequally powerful.
 
 Capable of learning.
 
@@ -428,6 +550,8 @@ Keep provenance because origin changes meaning in some contexts.
 
 Let people revise because prediction is not destiny.
 
+Give people enough power to make revision more than a slogan.
+
 Let people use machines because tool use is not the opposite of human agency.
 
 Let people refuse machines because efficiency is not the only value.
@@ -527,6 +651,12 @@ The work is good, but I cannot honestly say what part was mine.
 The old story breaks.
 
 Then revision begins.
+
+Sometimes alone.
+
+Sometimes only because another person helps.
+
+Sometimes because a law, institution, union, family, community, or tool creates enough room for a different action to become possible.
 
 Not cleanly.
 
