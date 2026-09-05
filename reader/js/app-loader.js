@@ -10,6 +10,7 @@ const appUrl = `${upstream}app.js?v=desk-20260904-4`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const libraryHomeUrl = 'https://svyable.github.io/desk/reader/css/desk-library-home.css?v=bookself-20260904';
+const bookInteriorUrl = 'https://svyable.github.io/desk/reader/css/desk-book-interior.css?v=bookself-20260905';
 
 const DESK_CATALOG_AUDIT = Object.freeze([
   'catalogEntryVisible',
@@ -46,18 +47,20 @@ function installDeskChromePolicy() {
   document.head.appendChild(style);
 }
 
-function installDeskLibraryHome() {
-  if (document.getElementById('deskLibraryHome')) return;
+function installDeskStylesheet(id, href) {
+  if (document.getElementById(id)) return;
   const link = document.createElement('link');
-  link.id = 'deskLibraryHome';
+  link.id = id;
   link.rel = 'stylesheet';
-  link.href = libraryHomeUrl;
+  link.href = href;
   document.head.appendChild(link);
 }
 
 installDeskRuntimeBridge();
 installDeskChromePolicy();
-installDeskLibraryHome();
+installDeskStylesheet('deskLibraryHome', libraryHomeUrl);
+installDeskStylesheet('deskBookInterior', bookInteriorUrl);
+document.documentElement.dataset.bookInterior = 'true';
 
 function installRecoveryStyles() {
   if (document.getElementById('deskBootstrapRecoveryStyle')) return;
