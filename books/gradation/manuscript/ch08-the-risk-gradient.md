@@ -403,3 +403,119 @@ That is where risk reconnects to the central problem of this book.
 Most movement is by degree.
 
 But sometimes the next increment changes the system that generates the increments.
+
+There is another way small probabilities deceive us: repetition.
+
+A risk that is small per attempt can become substantial across enough attempts.
+
+A one-percent chance attached to one isolated event is not the same exposure as a one-percent chance repeated hundreds of times. The exact cumulative probability depends on independence and changing conditions, but the intuition is straightforward. Frequency belongs in the denominator of safety.
+
+This is why occupational exposure cannot be judged only by asking whether one shift is acceptable. Why cybersecurity cannot be judged only by the probability one login attempt succeeds. Why a high-frequency trading system cannot evaluate operational risk only transaction by transaction. Why a driver who takes the same dangerous shortcut every day is not protected by the fact that each individual trip usually ends safely.
+
+Repeated low risk can become ordinary high exposure.
+
+People often feel the opposite because successful repetitions normalize the behavior.
+
+Nothing happened yesterday.
+
+Nothing happened the day before.
+
+Nothing happened for two hundred days.
+
+The absence of failure becomes psychological evidence that the action is safe, even when the probability per exposure has not improved at all.
+
+The streak does not necessarily change the mechanism.
+
+It changes confidence.
+
+This is one reason experienced operators can become either safer or more complacent. Experience can reveal subtle hazards and improve skill. It can also teach that rule violations are survivable because most violations do not immediately produce accidents.
+
+The dangerous lesson is learned from successful failure to fail.
+
+Risk of ruin makes the asymmetry sharper.
+
+Some losses are recoverable.
+
+Others remove the ability to keep playing.
+
+A trader can survive many small losing positions and then take one position large enough to wipe out the capital required for future trades. A company can absorb several failed projects and then bet the balance sheet on one acquisition. A household can tolerate ordinary expenses and be pushed into insolvency by one uninsured catastrophe.
+
+Expected value does not fully describe a process when one outcome ends participation.
+
+The sequence matters.
+
+A strategy that is attractive on average can be intolerable if it carries a meaningful chance of irreversible failure before the average has time to emerge.
+
+This is why buffers matter beyond simple loss absorption.
+
+Capital, savings, spare capacity and redundancy preserve the option to continue after error.
+
+They buy another draw from the distribution.
+
+The same logic belongs in personal and institutional experimentation.
+
+Take risks whose failure you can survive.
+
+That is not the same as avoiding risk.
+
+It is shaping the downside so learning can continue.
+
+A reversible product experiment can fail cheaply. A staged investment can stop after early evidence disappoints. A pilot program can reveal problems before national deployment. A software release with rollback can cross uncertainty with an exit path.
+
+The option to reverse changes the risk gradient before the experiment even begins.
+
+This is why two projects with identical expected benefits can deserve different decisions if one has bounded failure and the other contains a tail capable of destroying the institution.
+
+Risk budgets are one practical response.
+
+An organization cannot treat every project as independent if several draw on the same capacity for loss. Five individually acceptable bets can become an unacceptable portfolio if they fail under the same conditions or all require rescue from the same cash reserve.
+
+The relevant question becomes not only “Is this risk acceptable?”
+
+It is “How much of our ability to absorb risk is already committed?”
+
+This is familiar in finance and less explicit elsewhere.
+
+A leadership team has a change budget. Employees can absorb only so many simultaneous reorganizations before uncertainty becomes the operating environment. A technology organization has an operational risk budget. Migrating the database, replacing authentication and rewriting billing in the same week can turn three manageable changes into one correlated failure surface.
+
+A household has a fragility budget too. Taking on a larger mortgage may be reasonable with stable employment and low other obligations. The same mortgage becomes a different dose when income is volatile, childcare costs are uncertain and savings are thin.
+
+Capacity to bear risk is graded.
+
+This is why “risk tolerance” is incomplete when stated as personality.
+
+Tolerance depends on buffer, time horizon, obligations, alternatives and the reversibility of failure.
+
+A wealthy investor and a retiree can feel equally adventurous and rationally hold different portfolios because the consequence of the same drawdown differs. A startup and a hospital can share an appetite for innovation and rationally require different evidence before changing a critical system.
+
+Risk is relational.
+
+Between event and buffer.
+
+Between probability and repetition.
+
+Between downside and recovery.
+
+Between action and the option to act again.
+
+This brings us to a final distinction.
+
+Safety is not the absence of bad outcomes.
+
+Safety is a condition of the system before the outcome is known.
+
+An unsafe action can succeed.
+
+A safe action can fail.
+
+Judge only the outcome and the lucky reckless operator becomes a genius while the careful operator who encountered a rare failure becomes incompetent.
+
+Good institutions resist that temptation.
+
+They evaluate the quality of the decision using the information and risk structure available at the time, then update from the result without pretending the result was inevitable.
+
+That is one of the hardest habits of gradation.
+
+A binary outcome arrives.
+
+The judgment must remember the probability that existed before it did.
