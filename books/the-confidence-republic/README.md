@@ -36,7 +36,7 @@ The chronology uses America’s 250 years literally. Rather than switching to ca
 
 - [ ] Ch 6 — There Are Men on the Moon — 1826–1835 · the Great Moon Hoax
 - [ ] Ch 7 — The Mermaid Upstairs — 1836–1845 · P. T. Barnum and the Feejee Mermaid
-- [ ] Ch 8 — Salt the Ground — 1846–1855 · Gold Rush mine salting and claim fraud
+- [ ] Ch 8 — Have You Confidence in Me? — 1846–1855 · William Thompson and the birth of the “confidence man”
 - [ ] Ch 9 — Shoddy — 1856–1865 · Civil War procurement fraud
 - [ ] Ch 10 — The Railroad Built Itself Twice — 1866–1875 · Crédit Mobilier
 
