@@ -315,3 +315,103 @@ The market-clearing point is not the whole curve.
 Neither is the sticker.
 
 Look for the staircase.
+
+Some staircases are almost invisible because the advertised price is only the entrance fee.
+
+A mobile plan has a base price, overage rules, roaming rules, device financing and cancellation terms. A mortgage has an interest rate, points, fees, insurance, taxes and refinancing risk. A cloud service has storage prices, request prices, egress prices, support tiers and volume commitments.
+
+The economically relevant object is the tariff, not the headline.
+
+That distinction matters because a tariff can hide its steepest slope where attention is weakest.
+
+The first number is easy to compare.
+
+The marginal number appears only after use changes.
+
+A customer chooses a vendor on the visible fixed fee and later discovers that one particular kind of growth—data transfer, seats, transactions, support incidents—crosses a pricing boundary much faster than expected.
+
+The product was not expensive at the starting point.
+
+It was steep in the direction the customer happened to grow.
+
+This is why pricing architecture can shape product architecture.
+
+Engineers compress data because egress is expensive. Teams archive less because storage is cheap. Companies centralize accounts to capture volume discounts. Customers keep headcount below a tier. Developers redesign workflows around API limits.
+
+The tariff becomes a hidden technical specification.
+
+When enough customers respond, the seller's pricing function begins shaping the ecosystem around the product.
+
+A discount can do the same thing in reverse.
+
+Consider an all-units volume discount: buy 99 units and pay one price per unit; buy 100 and receive the lower price on every unit. The hundredth unit can effectively have a negative marginal price because crossing the threshold reduces the cost of the first ninety-nine as well.
+
+The buyer may purchase more than needed because the staircase contains a downward cliff.
+
+The same geometry appears in “free shipping over $50.” A shopper with a $44 basket may add an item not because the item itself is worth its full price, but because it also removes the shipping charge.
+
+The additional item carries two values.
+
+Its own value.
+
+And its effect on the tariff applied to everything else.
+
+Threshold pricing makes marginal analysis discontinuous.
+
+This matters well beyond consumer tricks because regulatory and tax systems can have the same structure. A threshold can change the treatment of the whole entity rather than only the next unit. When that happens, behavior near the line can become intense because the marginal consequence includes a reclassification of the base.
+
+The design question is whether that jump is intentional.
+
+Sometimes it is. A compliance regime may genuinely need a different architecture once a firm becomes large enough. An enterprise support contract may carry fixed costs that only make sense above a scale threshold. A bulk shipment may become cheaper because logistics change discontinuously when a pallet or truck is filled.
+
+The staircase can reflect a real change in cost.
+
+Other times it is there because the billing system was easier to build that way.
+
+The customer cannot tell from the price alone.
+
+This is why one of the most useful questions in pricing is the same one the book asks everywhere else:
+
+What made the line?
+
+A cost discontinuity?
+
+A capacity constraint?
+
+A segmentation strategy?
+
+A legal rule?
+
+A historical artifact?
+
+A psychological reference point?
+
+A software limitation?
+
+Different origins deserve different judgments.
+
+There is also a tradeoff between complexity and exploitation.
+
+A perfectly smooth personalized price could eliminate cliffs while making the market impossible to understand. Every buyer receives a bespoke number derived from hundreds of variables. The staircase disappears from view, but so does the ability to know whether one is being treated similarly to others.
+
+Simple posted prices sacrifice some revenue extraction in exchange for legibility.
+
+Legibility is a market good.
+
+It lets customers compare, plan and contest.
+
+A complex tariff can be economically efficient and cognitively expensive. The buyer pays part of the price in attention.
+
+That attention cost is rarely shown on the receipt.
+
+Yet it changes competition. A market full of difficult-to-compare tariffs can reduce switching because evaluating alternatives becomes work. The seller does not need an explicit cancellation fee if comparison itself is costly enough.
+
+Opacity creates a friction gradient.
+
+This is why pricing deserves to sit beside policy in a book about cutoffs.
+
+Both convert continuous differences into rules that people must navigate.
+
+Both can make the edge more consequential than the underlying change.
+
+And both reveal their true philosophy not in the headline rate, but in what happens to the next unit.
