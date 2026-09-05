@@ -173,3 +173,31 @@ The borrower is not an experiment. The lender is not a charity. The model is not
 The institution still has to decide under uncertainty.
 
 The best it can do is know which part of the uncertainty came from the world and which part came from doors it closed before evidence had a chance to arrive.
+
+That suggests one more distinction that matters operationally: a lender needs a learning envelope, not a general mandate to loosen credit.
+
+A learning envelope is the narrow region in which the institution is willing to spend some risk budget to reduce uncertainty. It begins after hard consumer-protection and affordability constraints, not before them. It has exposure caps, product limits, monitoring, escalation rules, and a defined reason the information could change future decisions. A case belongs inside the envelope because the lender is uncertain in a decision-relevant way, not because the applicant is simply difficult to score.
+
+The envelope also needs a borrower-side floor. If the only way to learn is to offer a product whose expected burden would be unacceptable even if the loan performs, the experiment should not happen. A repayment label cannot justify the contract that produced it.
+
+This changes how the lender should evaluate an exploratory policy. A conventional model review may ask whether discrimination improved, calibration held, losses stayed within limits, and approval increased. Those are necessary. They do not answer whether the policy created useful evidence.
+
+Did the uncertain region become better understood? Did the new observations change underwriting for later applicants, or did the institution merely accumulate an “experimental” subportfolio that remained institutionally separate? Did some variables stop acting as uncertainty proxies once direct repayment history existed? Did borrower outcomes remain acceptable across the product life, including hardship and refinancing rather than only first-payment default?
+
+A learning policy that never changes the ordinary policy is not learning. It is a side program.
+
+There should therefore be a route from exploratory evidence into normal underwriting and a route back out again when the evidence disappoints. The first prevents permanent second-class treatment of newly observed borrowers. The second prevents optimism from turning a bounded trial into a hidden relaxation of standards.
+
+Reversion matters because economic environments move. An exploratory segment that performs well in a strong labor market may deteriorate under stress. A cash-flow signal that works for salaried workers may transfer poorly to seasonal income. A small-dollar product can generate encouraging labels that say little about larger exposure. Evidence should expand the map only as far as the product and environment support.
+
+This is where model governance and credit policy governance have to meet. If the data-science team owns the score while a separate credit committee owns limits, overrides, hardship policy, and product terms, each group can believe the other owns the feedback loop. Nobody does.
+
+The data-generating policy is the whole contract: who was offered what, at what price, under which limit, with which servicing rules, during which economic conditions, and what happened to the borrower afterward.
+
+A lender that preserves that lineage can distinguish a genuinely informative expansion from a lucky vintage. It can compare what the model predicted with what the product actually produced. It can also explain to regulators and to its own future staff why a boundary moved.
+
+That explanation is part of the discipline. Access decisions are consequential enough that “the model learned it” is not a sufficient reason.
+
+The lender should be able to say what evidence changed, what uncertainty narrowed, what consumer guardrails held, and what would cause the policy to tighten again.
+
+Otherwise the institution has replaced one form of false certainty with another.

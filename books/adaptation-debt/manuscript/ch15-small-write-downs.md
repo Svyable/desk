@@ -518,6 +518,130 @@ Flexibility has a carrying cost.
 
 The question is whether the expected cost of being trapped exceeds it.
 
+There is another cost that deserves the same scrutiny: the cost of pretending an option exists when the organization has no credible way to exercise it.
+
+A pilot can produce a beautiful result and still be strategically useless if the operating company has no budget category for scaling it.
+
+A second supplier can pass qualification and still be irrelevant if contracts give it no path to meaningful volume.
+
+A new product can retain enthusiastic pilot customers and still have no sales channel willing to own it.
+
+A team can learn a new capability and then dissolve because every promotion, staffing model, and utilization target pulls its members back into the old business.
+
+A prototype can prove technical feasibility while the data rights, regulatory permissions, customer contracts, or infrastructure required for deployment remain untouched.
+
+These are observations dressed as options.
+
+They generate knowledge.
+
+They do not necessarily preserve action.
+
+An exercisable organizational option needs a bridge into the institution that would have to use it.
+
+Someone has to own the decision to scale.
+
+Capital has to be movable.
+
+The relevant interface has to exist.
+
+The people who learned the new system have to remain available long enough for the knowledge to matter.
+
+The experiment has to touch enough of the real constraint that success tells us something about deployment rather than only about the laboratory.
+
+This is why a successful pilot can be the beginning of the difficult work rather than the end of uncertainty.
+
+The first experiment may answer, “Can this work?”
+
+The next uncertainty is often, “Can this institution become the kind of institution that can use it?”
+
+That question is larger.
+
+It is also where small write-downs earn their strategic meaning.
+
+A company may have to accept a little channel conflict so the new route becomes real.
+
+It may have to create a small production allocation so the second supplier learns at commercial tolerances.
+
+It may have to move a real customer cohort rather than friendly internal users.
+
+It may have to let a new metric influence one actual decision instead of living beside the old dashboard as an informational curiosity.
+
+It may have to give a new team authority over a narrow production surface instead of keeping it in advisory mode.
+
+The payment becomes useful when it touches the commitment the organization may eventually need to change.
+
+That is the difference between buying information and buying an escape route.
+
+Both have value.
+
+They are not the same thing.
+
+The distinction also changes how experiments should die.
+
+Organizations are often afraid to kill options because termination feels like admitting that earlier spending was wasted.
+
+That is sunk-cost thinking applied to experimentation.
+
+If the purpose of the option was to resolve uncertainty, then a negative answer can be the return.
+
+A supplier cannot meet the tolerance.
+
+Customers will not pay enough.
+
+The new process creates unacceptable risk.
+
+The skill takes too long to acquire.
+
+The migration destroys a workflow more valuable than expected.
+
+The economics work only at a scale the market cannot support.
+
+Those findings are not reasons to keep the option alive so the investment looks successful.
+
+They are reasons to release the resources.
+
+A good option portfolio therefore needs subtraction as much as creation.
+
+Otherwise experiments become another installed base.
+
+Every pilot acquires a sponsor.
+
+Every small team develops a mission.
+
+Every partner relationship creates expectations.
+
+Every prototype gains one customer who wants it preserved.
+
+Every possible future becomes a constituency.
+
+The organization has recreated the problem this book is about, except this time in the name of flexibility.
+
+Optionality can accumulate adaptation debt too.
+
+The cure is not a rigid stage-gate ritual that pretends uncertainty can be reduced to a score.
+
+It is a more basic discipline.
+
+Before paying the premium, know what uncertainty the option is meant to attack.
+
+Know what evidence would justify more commitment.
+
+Know what evidence would make the option less valuable.
+
+Know what must remain alive for exercise to remain possible.
+
+Know when keeping the option open begins costing more than the uncertainty it protects against.
+
+These are not administrative questions appended after innovation.
+
+They are the economics of the small write-down itself.
+
+A cheap option with no exercise path is not cheap if it consumes attention for ten years.
+
+A costly option that preserves a critical capability may be inexpensive if the alternative is an emergency cold start.
+
+The price is meaningful only in relation to the future response it actually preserves.
+
 Chapter 19 will eventually try to put that intuition into an adaptation balance sheet.
 
 For now, the operating principle is enough.

@@ -8,17 +8,15 @@ In commerce, milliseconds can be an advantage.
 
 In medicine, faster diagnosis can save a life.
 
-In government administration, faster processing can end a needless wait.
+In administration, faster processing can end a needless wait.
 
 In war, speed can protect.
 
 It can also compress judgment until judgment becomes ceremonial.
 
-This is why military artificial intelligence belongs near the end of the book rather than near the beginning.
+This is why military artificial intelligence belongs near the end of the book rather than near the beginning. It is the domain where cognition, sensors, software, physical machines, communications, and delegated authority converge under conditions where error can be lethal and irreversible.
 
-It is the domain where the convergence of cognition, sensors, software, physical machines, communications, and authority becomes most consequential.
-
-It is also the domain most vulnerable to exaggeration.
+It is also the domain most vulnerable to sloppy language.
 
 Not every autonomous weapon uses artificial intelligence.
 
@@ -28,27 +26,19 @@ Not every drone is autonomous.
 
 Not every automated defense system represents a machine choosing human targets.
 
-The categories matter because sloppy language creates sloppy ethics.
+The categories matter because moral analysis becomes useless when the technology is described as one undifferentiated thing.
 
-The International Committee of the Red Cross defines autonomous weapon systems, in broad terms, as weapon systems that after activation can select and engage targets without further human intervention.
+The International Committee of the Red Cross describes autonomous weapon systems, in broad terms, as systems that after activation can select and engage targets without further human intervention. Some can rely on relatively simple rules. Artificial intelligence may be incorporated, but autonomy and AI are not synonyms.
 
-Some such systems can use relatively simple, rule-based software.
+The ICRC also treats AI-enabled decision support as a separate concern. Those systems may process large volumes of sensor or intelligence data and recommend actions without themselves applying force.
 
-Artificial intelligence can be incorporated into autonomy, but autonomy and AI are not synonyms.
+One system acts.
 
-The ICRC separately identifies AI-enabled decision-support systems as an important area of concern.
-
-These systems may process large volumes of intelligence or sensor data and provide recommendations to human decision-makers without themselves being the weapon that applies force.
-
-That distinction is essential.
-
-One system can act.
-
-Another can influence the human who acts.
+Another shapes the person who acts.
 
 Both can change war.
 
-The second may be easier to underestimate because the human remains formally in the loop.
+The second can be easier to underestimate because a human remains formally in the loop.
 
 A recommendation appears.
 
@@ -60,157 +50,161 @@ But the real question is what the person can meaningfully know before approving.
 
 How much evidence was compressed into the recommendation?
 
-How quickly must the decision be made?
+How much time exists?
 
-Can the user inspect uncertainty?
+Can uncertainty be inspected?
 
 Can the user challenge the system?
 
-Does the organizational culture reward agreement with machine output?
+Does the interface make disagreement easy?
 
 Is the person reviewing one recommendation or hundreds?
 
-Does the interface make dissent easy?
-
-Is there time to seek another source?
+Can they seek another source?
 
 A human click is not necessarily human judgment.
 
-This problem has appeared elsewhere in the book.
+That problem has appeared throughout this book.
 
-A nominal human reviewer can become a rubber stamp when machine output arrives faster than human attention can absorb it.
+A nominal reviewer becomes a rubber stamp when machine output arrives faster than human attention can absorb.
 
-In warfare, that failure mode is more dangerous because the decision can be lethal and irreversible.
+In war the failure is harder to undo.
 
-SIPRI's 2025 analysis of autonomous weapons and AI-enabled decision-support systems makes this comparison explicit.
+SIPRI and the ICRC have both emphasized that autonomous weapons and AI decision-support systems can alter the human role in the use of force in different ways. The point is not that the technologies are identical. The point is that machine cognition can move upstream in a lethal decision before a physical platform acts autonomously.
 
-The technologies enter different parts of the targeting process, but both can alter the role humans play in decisions about force.
+It can rank.
 
-Both can create risks of unintended harm.
+Classify.
 
-Both raise legal questions under international humanitarian law.
+Fuse information.
 
-The point is not that the systems are identical.
+Prioritize alerts.
 
-The point is that machine cognition can reshape a lethal decision before physical autonomy begins.
+Identify patterns.
 
-This broadens the meaning of autonomous power.
+Recommend targets.
 
-Autonomy is not only a robot deciding what to strike.
+Estimate risk.
 
-It can be a system narrowing what the human sees.
+The human may remain the legal actor while the machine shapes the decision environment.
 
-Ranking targets.
+That is already consequential.
 
-Classifying objects.
+It can also be beneficial.
 
-Identifying patterns.
-
-Predicting behavior.
-
-Prioritizing alerts.
-
-Fusing intelligence.
-
-The human remains the legal actor while the machine shapes the decision environment.
-
-That can improve performance.
-
-Military decisions are made under severe information constraints.
-
-Sensors produce more data than people can read.
-
-Communications arrive from many sources.
-
-Threats develop quickly.
-
-AI can help organize information, detect patterns, and reduce cognitive overload.
-
-A system that identifies an incoming threat faster can protect civilians or service members.
-
-A system that improves navigation can reduce error.
-
-A system that supports logistics can keep supplies moving.
-
-A system that improves maintenance can prevent equipment failure.
-
-A system that helps defend networks can reduce cyber harm.
+Military decisions are made under severe information constraints. Sensors can produce more data than people can read. Communications arrive from many sources. Threats develop quickly. AI can help organize information, identify anomalies, support logistics, improve maintenance, assist navigation, and reduce cognitive overload.
 
 Military AI is not synonymous with killing.
 
-That should be stated clearly because governance becomes harder when every use is treated as equally objectionable.
+That matters because the moral value of automation depends on what is being automated.
 
-The risks depend on function, consequence, reversibility, uncertainty, and proximity to force.
+A system helping route supplies is not equivalent to a system selecting a person for lethal force.
 
-The same layered autonomy map used for companies and governments becomes more important here.
+Autonomous navigation is not autonomous target selection.
 
-Machine assistance in warehouse logistics is not the same as machine recommendation in targeting.
+Cyber defense is not cyber attack.
 
-Autonomous navigation is not the same as autonomous target selection.
-
-Cyber defense is not the same as cyber attack.
-
-A defensive system operating against incoming munitions in an environment without civilians raises different questions from a system selecting people as targets in a city.
+A defensive interceptor acting against an incoming munition in a tightly defined environment raises different questions from a system classifying people in a city.
 
 Context matters.
 
-The ICRC's position reflects this by calling for prohibitions on certain autonomous weapons and strict regulation of others.
+This is also where the strongest case *for* autonomy has to be taken seriously.
 
-It has argued that unpredictable autonomous weapon systems should be ruled out and that systems designed or used to apply force against persons should be prohibited, while other uses should be constrained by limits on targets, duration, geography, scale, situations of use, and requirements for human supervision and intervention.
+Humans are not an ideal control group.
 
-States disagree about aspects of regulation and definitions.
+People become tired.
 
-International negotiation has been slow.
+Afraid.
 
-That disagreement is part of the evidence.
+Angry.
 
-The technology is developing while the legal architecture remains contested.
+Confused.
 
-In August 2026, the United Nations Secretary-General and the president of the ICRC renewed their call for international rules on autonomous weapons, arguing that the gap between technological capability and regulatory constraint had widened.
+They misperceive.
 
-The appeal came ahead of a major review conference under the Convention on Certain Conventional Weapons later in 2026.
+They carry bias.
 
-This is not proof that an autonomous-weapons catastrophe is imminent.
+They can panic.
 
-It is proof that the governance problem is no longer hypothetical.
+They can disobey rules.
+
+They can act out of revenge.
+
+They can make poor decisions under extreme time pressure.
+
+A machine does not become morally superior because it lacks those human weaknesses. It can fail in different ways. But if a bounded autonomous system can detect an incoming object faster, apply a narrow rule more consistently, or operate where human reaction time is physically insufficient, automation may reduce harm.
+
+A system does not need empathy to obey a prohibition.
+
+A human does not reliably obey one merely because they possess empathy.
+
+This is an uncomfortable but necessary point.
+
+The argument for human control cannot rest on the assumption that humans are always more humane.
+
+The real question is whether the total architecture produces better compliance, better discrimination, more reliable restraint, and clearer responsibility than the available alternative.
+
+That comparison can favor humans.
+
+It can also favor automation in narrow contexts.
+
+A defensive system designed only to engage incoming materiel may protect civilians more effectively by acting quickly.
+
+An autonomous platform may allow a force to keep people out of dangerous environments.
+
+A machine may follow a geographic or temporal restriction more consistently than a stressed operator.
+
+A system can be designed to refuse action outside specified conditions.
+
+None of this proves broad autonomy is desirable.
+
+It proves the issue cannot be solved by nostalgia for human fallibility.
+
+The ICRC has called for prohibitions on some autonomous weapon systems and strict regulation of others, including constraints on targets, duration, geography, scale, situations of use, and human supervision. Its position is normative, not a neutral description of what every state accepts. States continue to disagree about definitions, legal requirements, and the appropriate scope of new rules.
+
+In August 2026, the United Nations Secretary-General and the president of the ICRC renewed their call for international rules on autonomous weapons.
+
+That does not prove catastrophe is imminent.
+
+It proves the governance problem is active.
 
 The strongest case for caution begins with unpredictability.
 
-A weapon does not need to be conscious to behave in ways its user did not anticipate.
-
-Complex software can fail.
+A weapon does not need consciousness to behave in ways its user did not anticipate.
 
 Sensors can misclassify.
 
 Data can be incomplete.
 
-Machine-learning systems can behave differently outside the conditions on which they were evaluated.
+Software can fail.
 
-Adversaries can deliberately create unusual inputs.
+Machine-learning systems can behave differently outside the conditions in which they were evaluated.
 
 Communications can be disrupted.
 
-Environments can change.
+Adversaries can deliberately try to confuse systems.
 
-A model can be statistically useful and still be wrong in one consequential case.
+War is an open, adversarial environment.
 
-War is unusually hostile to assumptions of stable operating conditions.
+That is a harsher test than a benchmark.
 
-An industrial robot can work behind a fence in a carefully structured factory.
+An industrial robot can succeed partly because the factory is structured around it.
 
-A battlefield is an adversarial open world.
+A battlefield does not cooperate.
 
-The environment actively tries to confuse the system.
+The environment is not merely uncertain.
 
-That difference should make anyone skeptical of importing commercial performance claims into military autonomy.
+It is trying to make you wrong.
 
-Benchmark reliability is not combat reliability.
+Commercial performance therefore cannot be translated casually into military reliability.
 
-A second risk is scale.
+A model that is useful on average can be disastrous in the one case that matters.
 
-Automation can increase the number of actions a force can consider or execute in a given period.
+The second risk is scale.
 
-That can increase defensive capacity.
+Automation can increase how many actions a force can consider, recommend, or execute in a period of time.
+
+That can improve defense.
 
 It can also increase the speed at which mistakes propagate.
 
@@ -220,53 +214,67 @@ A software error can repeat.
 
 A bad classification can become a pattern.
 
-A flawed target profile can affect many cases.
+A flawed profile can affect many cases.
 
 A compromised system can operate at machine tempo.
 
-The old industrial lesson returns.
+Scale turns local error into systemic error.
 
-Scale turns local failure into systemic failure.
+This is not a reason to reject automation.
 
-This is why rate limits and bounded operating conditions matter in military systems just as they matter elsewhere, though the specific design is properly the domain of qualified military, legal, and technical authorities.
+It is a reason to treat action rate and scope as governance variables.
 
-The principle is enough for this book.
+A system that acts across a narrow boundary is not equivalent to one that can expand its own operational surface.
 
-The faster and broader the action surface, the more important the boundary.
+Bounded autonomy is not a rhetorical compromise.
 
-A third risk is escalation.
+It is a different risk architecture.
 
-Military stability depends partly on time for interpretation.
+The third risk is escalation.
 
-A radar signal can be ambiguous.
+Military stability depends partly on interpretation.
+
+A signal can be ambiguous.
 
 An apparent attack can be a malfunction.
 
-A communications failure can look like hostile intent.
+A communications failure can resemble hostile intent.
 
 A decision-support system can increase confidence without increasing truth.
 
-If opposing forces use systems optimized for rapid response, the time available to clarify ambiguity can shrink.
+If opposing forces adopt systems optimized for rapid response, each side can become individually rational and collectively fragile.
 
-Speed can become strategically rational for each actor while making the overall system more fragile.
+Nobody has to want accidental escalation for an escalatory architecture to emerge.
 
-This is a classic coordination problem.
+The danger is greatest when decisions are both fast and irreversible.
 
-Nobody needs to want accidental escalation for an escalatory architecture to emerge.
+This is why calls to preserve human judgment in nuclear command and control carry special weight.
 
-The danger is greatest where decisions are irreversible and consequences are existential.
+Some actions deserve more time precisely because the consequences are difficult to bound.
 
-This is why the ICRC has argued against AI use in nuclear command and control.
+Yet speed is not always destabilizing either.
 
-The underlying principle is broader than any one institution's position.
+A defensive system that intercepts an incoming threat quickly can reduce pressure for larger retaliation.
 
-Some decisions are too consequential to optimize for response time alone.
+Better information can reduce uncertainty.
 
-A civilization capable of acting faster must also preserve the ability to wait.
+Faster detection can give leaders *more* time to decide at a higher level.
 
-That sounds paradoxical.
+Automation can compress one part of a process and expand deliberative space elsewhere.
 
-It is a central safety capability.
+This distinction matters.
+
+Operational latency and political decision time are not the same thing.
+
+A machine can handle a narrow defensive function quickly while humans retain more time over escalation.
+
+The mature design goal is therefore not simply "slow down."
+
+It is to place speed where speed increases control and preserve time where uncertainty needs judgment.
+
+That is a harder rule.
+
+It is also more useful.
 
 The Fourth Industrial Revolution repeatedly reduces the cost of action.
 
@@ -278,209 +286,175 @@ Place the order.
 
 Move the robot.
 
-Design the molecule.
-
 Recommend the target.
 
-When action becomes cheap, restraint becomes an active function rather than the default created by friction.
+When action becomes cheap, restraint becomes an active function rather than the passive consequence of friction.
 
 War reveals this more starkly than any other domain.
 
-The old world contained delays because people had limited attention, communication was slower, analysis took time, and machines had narrower roles.
+Old delays sometimes existed because people had limited attention, communication was slow, analysis took time, and machines played narrower roles.
 
-Some delays were dangerous.
+Some of those delays were dangerous.
 
 Others created space for reconsideration.
 
-Machine intelligence can remove both kinds.
+Machine intelligence can remove both.
 
-A mature military system therefore needs to distinguish operational latency from deliberative space.
+A responsible military system therefore has to distinguish delay that merely blocks defense from delay that protects against irreversible error.
 
-Remove the first where it protects people.
+That distinction can be designed at several levels.
 
-Preserve the second where uncertainty is irreducible.
+Technical control: can the system be interrupted?
 
-This is not an argument for slow defense.
+Operational control: are mission boundaries clear?
 
-It is an argument against confusing speed with control.
+Informational control: does the user understand the basis and uncertainty of recommendations?
 
-Control has several layers.
+Legal control: is the use consistent with applicable law and rules of engagement?
 
-Technical control.
+Institutional control: who authorizes deployment and reviews outcomes?
 
-Can the system be interrupted?
-
-Operational control.
-
-Are the geographic and temporal boundaries clear?
-
-Informational control.
-
-Does the user understand the basis and uncertainty of recommendations?
-
-Legal control.
-
-Is the use consistent with applicable law and rules of engagement?
-
-Institutional control.
-
-Who authorizes deployment and reviews outcomes?
-
-Political control.
-
-Who is accountable to the public for the policy?
+Political control: who remains accountable for the policy?
 
 The word *autonomous* can obscure these layers by making the machine sound like the only actor.
 
-The machine sits inside a chain of human design and command.
+It is not.
 
-That chain can become thin.
+A model developer builds part of the system.
 
-It should not become invisible.
-
-Accountability becomes difficult when causality is distributed.
-
-A model developer builds the system.
-
-A contractor integrates it.
+A contractor may integrate it.
 
 A military organization deploys it.
 
-An operator activates it.
-
 A commander authorizes a mission.
+
+An operator may activate it.
 
 Sensors provide data.
 
-The system produces an output.
+Software generates outputs.
 
-Another platform applies force.
+Another platform may apply force.
 
 If something goes wrong, each participant can point elsewhere.
 
-This is not unique to AI.
+That is a familiar institutional failure mode.
 
-Modern weapons systems are already complex institutional products.
-
-Machine learning increases the challenge when system behavior is less directly specified and harder to explain.
+Machine learning can make it worse because behavior is less directly specified and causal chains can be harder to reconstruct.
 
 The response cannot be to declare the machine responsible.
 
 A machine is not a legal escape hatch.
 
-Responsibility has to remain with the institutions and people empowered to design, procure, authorize, deploy, and supervise the system.
+Responsibility has to remain with the people and institutions empowered to design, procure, authorize, deploy, and supervise the system.
 
-This may require stronger records of how decisions were made.
-
-Again, provenance enters the physical world.
-
-Which data influenced the recommendation?
+That may require stronger records.
 
 Which model version was used?
+
+Which data informed the output?
 
 Which constraints were active?
 
 What did the operator see?
 
-What alternative information existed?
-
 What authorization applied?
 
-What happened afterward?
+What happened after action?
 
-After-action review is not merely retrospective bureaucracy.
+Provenance enters the physical world.
 
-It is how an adaptive institution learns whether its machine systems are making it safer or merely faster.
+After-action review then becomes more than retrospective bureaucracy. It is how an adaptive institution learns whether machine systems are making it safer or merely faster.
 
-The ICRC's 2026 military-AI guidance emphasizes testing, evaluation, verification, validation, reliable data, bias mitigation, meaningful human engagement, user training, and after-action review for AI decision-support systems.
+The ICRC's 2026 guidance on military AI decision support emphasizes testing, evaluation, reliable data, bias mitigation, meaningful human engagement, training, and review.
 
-These sound similar to responsible-AI practices in civilian systems.
+Those sound similar to civilian responsible-AI practices.
 
-The military context changes their importance.
+The military context changes the consequence of failure.
 
-A biased recommendation in advertising can be harmful.
+A poor recommendation in advertising can cause harm.
 
-A biased recommendation in targeting or detention can contribute to grave harm.
+A poor recommendation involving detention or targeting can contribute to grave harm.
 
-The principle of proportionality cannot be reduced to a model score.
-
-The principle of distinction cannot be satisfied by confidence language alone.
-
-International humanitarian law assigns obligations to parties to conflict.
+Legal principles such as distinction and proportionality remain obligations of parties to conflict.
 
 Machine outputs exist inside those obligations.
 
-They do not supersede them.
+They do not replace them.
 
-This is why the debate over meaningful human control has persisted.
+This is why "meaningful human control" remains both important and insufficient.
 
-The phrase is imperfect.
+The phrase can become ceremonial.
 
-Control can be nominal.
+A human may possess an override they cannot practically use.
 
-A human may technically possess an override they cannot practically use.
+They may be legally responsible for an output they cannot inspect.
 
-A human may be legally responsible for a decision they cannot meaningfully inspect.
+They may have seconds to assess a recommendation assembled from a volume of information no person could independently reconstruct.
 
-A human may have five seconds to assess a machine recommendation built from thousands of data points.
+The architecture can preserve a human button while eliminating human comprehension.
 
-The system can preserve a human button while eliminating human comprehension.
+Meaningful involvement therefore has to be created before the last moment.
 
-Meaningful control therefore depends on system design before the moment of action.
+The system's permitted functions.
 
-Bounded target types.
+Its operating boundaries.
 
-Bounded environments.
+Its evaluation.
 
-Clear mission parameters.
+The interface.
 
-Reliable testing.
+The training.
 
-Training.
+The authority to reject.
 
-Interface design.
+The time available where time can be preserved.
 
-Authority to reject.
+The quality of independent information.
 
-Sufficient time where time is available.
+The human role cannot be rescued at the final click if the rest of the system has made independent judgment impossible.
 
-The human role cannot be rescued at the last millisecond if the entire architecture has made independent judgment impossible.
+There is an opposite failure too.
 
-This insight extends far beyond war.
+A doctrine can require human confirmation so rigidly that the human becomes a bottleneck incapable of keeping up with a threat.
 
-A company cannot create meaningful review by placing an exhausted employee at the end of an automated pipeline.
+Then the formal safeguard makes the system less safe without producing real judgment.
 
-A government cannot create due process by adding an appeal button nobody can use.
+This is the lesson that runs through the whole book.
 
-A school cannot create learning by asking a student to approve an answer they do not understand.
+Human presence is not the objective.
 
-The quality of human involvement is an architectural property.
+Human agency and accountable control are.
 
-War is the domain where pretending otherwise is least defensible.
+Sometimes those require a person to decide.
 
-Cybersecurity introduces another dimension because machine speed is native to the environment.
+Sometimes they require a person to define the boundary in advance and let a machine act inside it.
 
-Networks already operate at speeds no person can follow packet by packet.
+That is especially clear in cyber defense.
 
-Automation is unavoidable in defense.
+Networks already operate at speeds no human can follow packet by packet.
 
-AI can help identify anomalies, prioritize alerts, and respond to rapidly changing threats.
+Automation is unavoidable.
 
-It can also expand offensive capabilities by helping find vulnerabilities, write malicious code, or scale deception.
+AI can help detect anomalies, prioritize alerts, and support response.
 
-The result is not a simple race between attackers and defenders.
+It can also expand offensive capability by helping actors find vulnerabilities, scale deception, or automate parts of malicious work.
 
-Both gain tools.
+Both attackers and defenders gain tools.
 
-The balance depends on architecture.
+The balance depends heavily on the substrate.
 
-A well-maintained system with strong authentication, segmentation, backups, monitoring, and rapid patching may become more resilient with AI assistance.
+Strong authentication.
 
-A brittle system full of legacy software may become easier to attack at scale.
+Segmentation.
 
-The technology magnifies the quality of the substrate.
+Backups.
 
-This is another convergence pattern.
+Monitoring.
+
+Patch discipline.
+
+Access control.
 
 Machine intelligence does not abolish conventional security engineering.
 
@@ -490,101 +464,91 @@ The same is true of information operations.
 
 Generative systems make persuasive content cheaper to produce and personalize.
 
-That can be used for legitimate communication.
+That can support legitimate communication.
 
-It can also support manipulation, impersonation, and influence campaigns.
+It can also support impersonation, manipulation, and influence operations.
 
-But the effectiveness of information operations depends on trust, distribution, social divisions, media systems, and institutions.
+But synthetic content does not manufacture political vulnerability from nothing.
 
-Synthetic content does not manufacture political vulnerability from nothing.
+It exploits trust failures and social divisions that already exist.
 
-It exploits existing seams.
+A resilient information environment therefore needs more than detectors.
 
-A resilient information environment therefore requires more than better detectors.
-
-Trusted institutions.
+Authentication for official communications.
 
 Provenance where useful.
 
 Independent journalism.
 
-Digital literacy.
-
-Strong authentication for official communications.
-
 Rapid correction.
 
-Public habits of skepticism without universal cynicism.
+Institutions worth trusting.
 
-The same identity infrastructure discussed earlier becomes national security infrastructure.
+Public habits of skepticism that do not become universal cynicism.
 
-The convergence of civilian and military technology complicates governance further.
+Again the technology magnifies the quality of the surrounding institution.
 
-Many powerful AI systems are developed for commercial markets.
+Civilian and military technology also increasingly overlap.
 
-Cloud infrastructure serves businesses and governments.
+Cloud infrastructure serves both businesses and governments.
 
-Computer vision, language models, robotics, and autonomous navigation have dual-use applications.
+Computer vision, language models, robotics, and navigation have dual-use applications.
 
-A system built for logistics can support military logistics.
-
-A model built for coding can support cyber defense or offense.
+A model built for coding can support defense or offense.
 
 A commercial satellite image can have strategic value.
 
-A general-purpose model can answer questions across domains.
+A logistics system can support military logistics.
 
-The old boundary between defense industry and civilian technology becomes more porous.
-
-That creates difficult policy tradeoffs around export controls, open publication, security, economic competition, and scientific exchange.
+This porous boundary creates hard tradeoffs around export controls, scientific openness, commercial competition, and security.
 
 Too little control can spread dangerous capability.
 
-Too much control can slow civilian innovation, concentrate power, or fragment science.
+Too much can slow benign innovation, entrench incumbents, fragment research, and weaken the very ecosystem national security depends on.
 
-There is no static line because capability changes.
+There is no permanent line.
 
-Governance has to focus on specific risks rather than treat all advanced technology as military by association.
+Capability changes.
 
-This is another place where the book should resist inevitability.
+Governance has to stay tied to specific risks rather than treating every advanced technology as military by association.
+
+This is another place where inevitability should be resisted.
 
 The existence of autonomous capability does not mean states must deploy the maximum possible autonomy.
 
-Military organizations routinely constrain technology for strategic, legal, ethical, and reliability reasons.
-
-A more capable weapon can be rejected if it is unreliable.
+Military organizations already constrain technology for reliability, legal, strategic, and ethical reasons.
 
 A faster system can be rejected if it creates unacceptable escalation risk.
 
-A commander can prefer slower intelligence if the faster source is untrustworthy.
+A more autonomous platform can be rejected if it is unreliable.
+
+Rules of engagement can restrict actions that technology permits.
 
 Treaties can prohibit classes of weapons.
 
-Rules of engagement can constrain actions beyond what technology permits.
+Professional norms can matter.
 
-Professional military ethics can matter.
+All of these forces can favor restraint.
 
-Human agency remains part of the system.
+The opposite determinism is weak too.
 
-The opposite form of determinism is also weak.
+Existing law does not automatically answer every implementation question.
 
-It is not enough to say existing law will automatically absorb every new system.
+Legal principles may remain valid while new systems make compliance harder to evaluate.
 
-Law depends on facts about how systems work.
+If machines compress decision time, increase action scale, obscure causal chains, and behave in ways not fully anticipated, old obligations can require new technical and institutional procedures to remain meaningful.
 
-If machines compress decision time, increase action scale, obscure causal chains, and operate with forms of unpredictability not well captured by old procedures, implementation of existing obligations can become harder.
+That is why the current international argument matters.
 
-New rules or standards may be needed even when old legal principles remain valid.
+The law may not need a new moral foundation.
 
-That is the argument now taking place internationally.
+It may need new operational guardrails.
 
-The book does not need to resolve it.
+The book's industrial claim is narrower than the claim that AI makes war uniquely terrible.
 
-It needs to identify the industrial mechanism.
+History does not permit that simplification.
 
-Earlier machines amplified destructive force.
-
-Gunpowder.
+Earlier technologies massively amplified destructive power.
 
 Artillery.
 
@@ -594,70 +558,102 @@ Industrial explosives.
 
 Nuclear weapons.
 
-Nothing about machine intelligence makes modern war uniquely terrible by historical comparison.
+Nothing about machine intelligence erases that history.
 
-A claim like that would be obscene to the history.
-
-The candidate difference is more specific.
+The candidate difference is specific.
 
 Engineered cognition can enter the chain that identifies, prioritizes, recommends, coordinates, and in some systems selects actions involving force.
 
 The machine does not only move the weapon.
 
-It can participate upstream in deciding what the weapon is for.
+It can participate upstream in determining what the weapon is for.
 
 That is the boundary crossing.
 
-The thesis weakens if militaries keep AI predominantly in logistics, maintenance, navigation, intelligence organization, and advisory functions while preserving robust human judgment over force.
+The thesis weakens if militaries keep AI predominantly in logistics, maintenance, navigation, intelligence organization, defensive interception, and advisory functions while preserving robust accountable control over lethal force.
 
-It weakens further if autonomous weapons remain tightly constrained to narrow defensive or object-targeting contexts where civilian risk is limited.
+It weakens further if autonomy remains tightly bounded to contexts where target classes are narrow, environments are constrained, and civilian risk is low.
 
 Those outcomes are plausible.
 
 They may be desirable.
 
-The existence of technological possibility is not evidence that the most autonomous architecture will dominate.
+There is also a stronger falsification test.
 
-Reliability, law, public legitimacy, alliance norms, military doctrine, and escalation risk can all favor restraint.
+If narrow autonomous systems consistently reduce civilian harm relative to human-operated alternatives, if machine-speed defenses create more rather than less deliberative time at higher levels, and if accountability remains clear, then the chapter's emphasis on compressed judgment would need to narrow substantially.
 
-But the pressure toward faster decisions will not disappear.
+The technology would still be consequential.
 
-An adversary that acts faster can create a strategic incentive to accelerate.
+Its dominant effect in those settings would be control, not loss of control.
 
-That is the dangerous loop.
+That possibility should be welcomed rather than argued away.
 
-Each side can justify machine-speed decision making as a response to the other's speed.
+The problem is that success in one bounded setting does not license extrapolation to another.
 
-A race can emerge even when nobody believes maximal autonomy is safe.
+A system reliable against a narrow class of objects is not therefore trustworthy in open-ended human targeting.
 
-The governance challenge is therefore collective.
+A decision-support tool useful for sorting information is not therefore entitled to make a lethal recommendation determinative.
 
-Some boundaries work only if multiple actors accept them.
+A defensive success does not establish a general theory of autonomy.
 
-That is why international rules matter in this domain more than in a corporate workflow.
+The relevant unit is the mission, not the label.
 
-A company can choose its own refund threshold.
+That is where a mature doctrine of machine power begins.
 
-One state cannot unilaterally create stable norms for every battlefield.
+Not "AI in war: good or bad."
 
-The Fourth Industrial Revolution changes humanity forever in part because knowledge of autonomous and AI-enabled military systems cannot be undiscovered.
+Which function?
 
-Even if specific uses are prohibited, the underlying capabilities remain part of civilization's technical repertoire.
+Which target class?
 
-That makes restraint an ongoing achievement rather than a one-time design decision.
+Which environment?
 
-We will have to know how to build systems and know where not to use them.
+Which authority?
 
-That is a mature form of technological power.
+Which uncertainty?
 
-Capability without compulsion.
+Which failure mode?
 
-The chapter ends where geopolitics begins.
+Which review?
 
-Restraint is easier for a country that feels secure.
+Which consequences?
 
-Choice is easier for a country that controls its own infrastructure.
+And who remains responsible?
 
-The nations that shape the rules will often be the nations that can build the systems.
+The Fourth Industrial Revolution makes those questions more urgent because machine cognition can now sit inside systems that sense, decide, and act at a scale and tempo human institutions were not built around.
 
-And building, once again, means much more than possessing the idea.
+The answer should not be maximum autonomy.
+
+It should not be maximum human involvement for its own sake either.
+
+It should be maximum accountable control consistent with the mission and the law.
+
+Sometimes that will require a person at the moment of action.
+
+Sometimes it will require stronger boundaries set before action.
+
+Sometimes it will require refusing the capability altogether.
+
+Restraint is not the absence of technology.
+
+It is a capability in its own right.
+
+A civilization that can act faster needs institutions capable of deciding when not to.
+
+War makes that lesson impossible to sentimentalize.
+
+The consequence of a bad corporate workflow can be repaired.
+
+A bad public decision can sometimes be appealed.
+
+A lethal action may be irreversible.
+
+That is why the final resource in machine-speed conflict is not reaction time.
+
+It is judgment about where reaction time belongs.
+
+And that judgment depends, in part, on whether a country has enough technical, industrial, legal, and institutional capacity to choose rather than merely respond.
+
+That is the next question.
+
+Which countries can actually build the systems they are debating?
