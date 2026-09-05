@@ -169,3 +169,49 @@ The marginal price is local to the point, the constraints, the time, and the obj
 A frontier is not a commandment carved into the graph.
 
 It is the current exchange rate of possibility.
+
+The most dangerous marginal calculation is the one that ignores indivisibility. Organizations like to imagine resources arriving in infinitely small units because the mathematics is easier. Real capacity often comes in chunks. You cannot hire 0.13 of a senior specialist for a critical shift, build 0.07 of a substation, open half a regulatory jurisdiction, or add a warehouse without crossing a fixed-cost threshold. The marginal price just before the threshold and just after it can be radically different.
+
+This is why an apparently expensive increment can be cheap when evaluated as part of a bundle. A second production line may look unjustified by today's volume if judged only on the next unit. It may also create redundancy, unlock maintenance windows, shorten lead times, and make a new product family possible. The line has several shadow prices at once.
+
+Conversely, a supposedly cheap increment can drag a large fixed tail behind it. One enterprise customer asks for a custom security control. The engineering change is small. The company then inherits audit work, support expertise, documentation, contractual obligations, and a precedent for future deals. The first estimate priced the feature. The real marginal unit was a permanent operating mode.
+
+Good marginal analysis asks what regime the increment creates.
+
+This is particularly useful in staffing. Managers often ask whether the next person is "worth" a salary as if output scales one body at a time. Some roles are capacity increments. Others change coordination. The first dedicated recruiter can alter how every future hire is found. The first site-reliability engineer can reduce interruption across several development teams. A second manager can reduce one leader's span of control enough to change decision speed throughout a group. The next person may have system effects larger than their individual output.
+
+The reverse happens too. Add enough people to a tightly coupled project and coordination can absorb the capacity. More labor moves the headcount axis outward while the delivery frontier barely moves. The marginal unit is expensive because the system has no clean way to use it.
+
+This is why "hire more" and "cut ten percent" are both weak instructions without a model of the constraint.
+
+The shadow price of a scarce resource also changes when substitution is possible. If a hospital lacks nurses for one class of work, some tasks may be redesigned, automated, delegated, or scheduled differently. If a factory lacks a particular machine, product design can sometimes reduce dependence on that operation. If a company lacks engineering capacity, it can reduce scope, simplify architecture, buy a component, or change the promise.
+
+A high shadow price is an invitation to search for substitutes.
+
+This gives marginal analysis a strategic use. Do not merely pay more for the scarce unit. Ask why the system requires that unit in that form. Scarcity can be real and the dependency can still be redesigned.
+
+There is also a marginal price of attention.
+
+Organizations rarely put executive attention in capital-allocation models, yet it behaves like a severely constrained resource. A small acquisition can consume more leadership bandwidth than a larger stable business. A difficult customer can absorb senior people disproportionate to revenue. A new geography can create enough legal, tax, hiring, and cultural questions to become expensive even if the direct investment is modest.
+
+The next initiative may fail not because money ran out but because attention did.
+
+This explains why a portfolio of individually attractive projects can be collectively dominated. Each project clears its financial hurdle under the assumption that management capacity is free. Run them together and decisions slow, dependencies collide, and important weak signals receive no owner.
+
+The marginal project should therefore be charged for the scarce coordinating resource it consumes.
+
+Personal life makes this visible in a less formal way. The next commitment has a calendar cost and a switching cost. An evening class may occupy three hours and alter meals, sleep, childcare, exercise, and the texture of two surrounding days. A new volunteer role may be meaningful and make every unscheduled evening feel provisional. The unit is not the appointment. It is the pattern the appointment creates.
+
+That is why some choices become obviously different when written into an actual week rather than compared as abstract benefits.
+
+The frontier has to be priced in the units the system experiences.
+
+A final complication is that the marginal price can be negotiated. A supplier offers a lower price at higher volume. An employee trades compensation for schedule control. A regulator permits one compliance route instead of another. A customer accepts a narrower service promise for a lower fee. Bargaining changes the exchange rate without changing technology.
+
+This is a frontier movement produced by contract design.
+
+It reminds us that slopes are not always natural facts. Some are market prices, institutional rules, organizational habits, or bargaining outcomes. A steep tradeoff can invite invention, but it can also invite renegotiation.
+
+When another unit looks impossibly expensive, ask one more question before accepting the slope.
+
+Who set the exchange rate?
