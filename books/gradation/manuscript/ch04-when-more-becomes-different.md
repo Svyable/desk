@@ -284,6 +284,82 @@ Scale can manufacture a tipping point in the data just as surely as a real syste
 
 So the phrase deserves restraint.
 
+There is another reason to distrust a single-number threshold story.
+
+Many systems do not approach a boundary quietly.
+
+Variability can increase. Recovery from small disturbances can slow. A system can spend longer wobbling after a shock because the restoring forces that once pulled it back have weakened.
+
+In some domains, researchers look for such changes as possible early-warning signals of an approaching transition.
+
+The promise is obvious.
+
+If the transition itself is expensive, signs that the system is losing resilience before the transition could be more valuable than a precise forecast of the final crossing point.
+
+The danger is equally obvious.
+
+Noisy systems produce false warnings. Not every rise in variance means a critical transition is near. Not every slow recovery announces a tipping point. Real systems are driven by changing outside forces as well as internal stability.
+
+Early warning can become another category machine if indicators are treated as prophecy.
+
+The better framing is about margin.
+
+How strongly does the system return after a small perturbation?
+
+How much slack remains?
+
+How quickly do queues clear?
+
+How much liquidity remains after ordinary withdrawals?
+
+How many alternative routes exist after one supplier fails?
+
+The threshold itself may be invisible while resilience is measurable.
+
+This shifts attention from predicting the exact cliff to monitoring the distance from comfortable operation.
+
+That is often more actionable.
+
+A pilot does not need to know the exact gust that would make flight unsafe if instruments already show the aircraft operating with little margin. A bank does not need certainty about the depositor who would trigger a run if liquidity buffers are already thin and confidence is deteriorating. A hospital does not need the exact patient count at which service collapses if discharge delays and staffing shortages already show the system is struggling to recover from routine variation.
+
+Margin is the practical language of uncertain thresholds.
+
+It also exposes a conflict between efficiency and resilience.
+
+An organization can improve average efficiency by operating closer to a boundary. Higher utilization, thinner inventory, more leverage, tighter staffing, less redundancy.
+
+Each move can look rational while conditions remain ordinary.
+
+The gain is booked every day.
+
+The increased sensitivity is charged only when the rare disturbance arrives.
+
+This is why threshold risk often hides in accounting.
+
+Routine efficiency appears as realized benefit.
+
+Resilience appears as unused capacity.
+
+The books reward the slope and ignore the cliff until the cliff appears.
+
+The opposite mistake is possible too.
+
+Fear of thresholds can justify limitless precaution. If every system is treated as one unknown increment from catastrophe, nothing can be optimized, experimented with or scaled.
+
+That is not seriousness.
+
+It is paralysis wearing systems language.
+
+A good threshold argument should therefore answer two questions.
+
+What mechanism makes regime change plausible?
+
+What evidence tells us the system is moving into a region where that mechanism matters more?
+
+The first prevents metaphor.
+
+The second prevents panic.
+
 When more becomes different, we should be able to say why.
 
 Sometimes the answer is physical phase.
