@@ -37,6 +37,10 @@ Specific counterevidence to preserve:
 - Apoptosis and other biological turnover mechanisms are analogies, not evidence that companies, laws, or software should behave like cells.
 - Bankruptcy provides a structured fresh start only within specific legal rules and exceptions; it is not a moral license to discard every obligation.
 - AI systems may require unusually long retention of logs, evaluations, model versions, and incident evidence for accountability even when the deployed service is retired.
+- Founder dependence can sometimes be economically efficient; dispersing exceptional judgment into process can destroy value rather than preserve it.
+- Physical reversibility, modularity, and design for disassembly can add cost, material, interfaces, and unused optionality.
+- Platform legacy mechanisms can solve many ordinary digital-estate transitions without requiring a new institutional category.
+- Mature identity and access-management controls may absorb much of the agent-offboarding problem if autonomous systems remain ephemeral, scoped, and enumerable.
 
 ## Evidence lanes
 
@@ -50,27 +54,27 @@ Separate deletion, sanitization, archival preservation, legal retention, and hum
 
 ### III. Physical infrastructure and end-of-life liability
 
-Use nuclear decommissioning, electronic waste, and other long-tail infrastructure cases to examine what happens when the productive life of an asset ends but cost and responsibility continue. Distinguish funded decommissioning from abandonment and avoid treating all infrastructure as disposable.
+Use nuclear decommissioning, electronic waste, design for adaptability and disassembly, and other long-tail infrastructure cases to examine what happens when the productive life of an asset ends but cost and responsibility continue. Distinguish funded decommissioning from abandonment and avoid treating all infrastructure as disposable. EPA design-for-disassembly guidance is useful because it contains both positive design practices and an explicit recognition that full deconstruction is not always feasible.
 
 ### IV. Biology and ecology
 
 Use apoptosis, regulated cell death, prescribed fire, decomposition, and ecological succession only to sharpen questions about turnover. Preserve the limits of analogy. The point is not that nature "proves" expiration; it is that many living systems allocate real mechanisms to removal, recycling, and renewal.
 
-### V. Law, finance, and institutional exit
+### V. Law, finance, institutions, and succession
 
-Study sunset provisions, repeal, bankruptcy discharge, liquidation, reorganization, dissolution, and institutional succession. Ask when formal endings make systems more adaptive and when they merely create procedural theater or shift losses onto weaker parties.
+Study sunset provisions, repeal, bankruptcy discharge, liquidation, reorganization, dissolution, founder dependence, and institutional succession. Ask when formal endings make systems more adaptive and when they merely create procedural theater or shift losses onto weaker parties. Treat public-company key-person disclosures as evidence that person-bound dependence can be economically material, not as proof that founder leadership is inherently defective.
 
 ### VI. Products, customers, and market power
 
 Follow end-of-life support, stranded customers, interoperability, export, repair, data portability, and vendor shutdowns. The critical question is who pays the tail cost when a producer wants to leave before its customers do.
 
-### VII. Artificial intelligence and autonomous agents
+### VII. Artificial intelligence, identity, and autonomous agents
 
-Treat decommissioning as part of the AI lifecycle. NIST AI 600-1 explicitly includes safe decommissioning and identifies dependencies, retention/security, open-source components, and user attachment as considerations. Extend the inquiry to persistent agent identities, delegated credentials, scheduled tasks, memories, and downstream systems that may survive a model or vendor transition.
+Treat decommissioning as part of the AI lifecycle. NIST AI 600-1 explicitly includes safe decommissioning and identifies dependencies, retention/security, open-source components, and user attachment as considerations. Extend the inquiry to persistent agent identities, delegated credentials, scheduled tasks, memories, and downstream systems that may survive a model or vendor transition. Use NIST account-lifecycle controls to separate revoking access from reconciling consequences that survive the credential.
 
-### VIII. The cleanup economy
+### VIII. The cleanup and succession economy
 
-Look for observable demand around cloud and software migration, secure media sanitization, records disposition, e-waste processing, decommissioning, data lifecycle management, digital estates, and AI governance. Avoid unsupported market-size claims. The relevant test is whether end-of-life work becomes a distinct source of cost, specialization, purchasing, and competitive advantage as creation grows cheaper.
+Look for observable demand around cloud and software migration, secure media sanitization, records disposition, e-waste processing, decommissioning, data lifecycle management, digital estates, AI governance, organizational succession, and physical adaptation. Avoid unsupported market-size claims. The relevant test is whether end-of-life work becomes a distinct source of cost, specialization, purchasing, and competitive advantage as creation grows cheaper.
 
 ## Chapter-to-evidence map
 
@@ -101,13 +105,20 @@ Look for observable demand around cloud and software migration, secure media san
 | 23 — The Last Customer | What obligations remain to the final users of a declining product, and how should exit costs be allocated? |
 | 24 — The Business of Cleanup | Which cleanup functions are becoming durable specialties or markets, and which are merely renamed maintenance? |
 | 25 — Design the Exit | Which recurring design choices make endings safer across domains, and which should remain domain-specific rather than universalized? |
+| 26 — After the Founder | Which parts of founder dependence can be transferred, distributed, allowed to expire, or deliberately retained without freezing historical judgment into permanent authority? |
+| 27 — Cities Built to Come Apart | When do serviceability, adaptability, and design for disassembly create valuable future options, and when do they merely add cost or complexity? |
+| 28 — The Company Died, the Agent Kept Working | How should technical access, delegated authority, open commitments, and downstream consequences change when the principal behind an autonomous system changes or disappears? |
+| 29 — The Digital Estate | How should a digital estate separate property, private communication, memory, operational continuity, and posthumous authority rather than treating an account as one inheritable object? |
+| 30 — A Civilization That Can Finish | Does the cross-domain evidence support ending as productive capacity, and does the thesis survive its strongest alternative: that AI makes cleanup scale as quickly as creation? |
 
 ## Source discipline
 
-- Prefer statutes, regulators, standards bodies, government datasets, original academic papers, technical standards, court materials, and first-party lifecycle documentation.
+- Prefer statutes, regulators, standards bodies, government datasets, original academic papers, technical standards, court materials, SEC filings, and first-party lifecycle documentation.
 - Keep legal claims jurisdiction-specific. A right to erasure in the GDPR is not a global right to disappear.
 - Distinguish deletion from sanitization, de-indexing, revocation, archival transfer, and physical destruction.
 - Distinguish a product's announced end-of-life date from the actual disappearance of installed systems and customer dependence.
+- Distinguish credential invalidation from reconciliation of downstream tasks, commitments, and copied state.
+- Distinguish digital property from private communications and from continuing authority to act in another person's name.
 - Avoid invented market-size numbers for cleanup, decommissioning, data lifecycle, or AI retirement.
 - Never use biology or ecology as proof of a social prescription. Use them to expose mechanisms and limits.
 - Preserve cases where old systems continue to create net value and where rapid retirement causes avoidable harm.
@@ -118,7 +129,7 @@ Look for observable demand around cloud and software migration, secure media san
 
 Before the book moves from `Drafting` to `Complete draft`:
 
-1. Every chapter has at least one checkable primary or high-quality research source for its concrete factual claims.
+1. Every chapter has at least one checkable primary or high-quality research source for its concrete factual claims, or in a synthesis chapter every concrete example traces to an already sourced earlier chapter.
 2. Every chapter brief contains explicit counterevidence or a falsification test.
 3. Quantitative claims in the prose can be traced to the source ledger.
 4. No metaphor from biology, ecology, bankruptcy, or technical standards is presented as proof outside its domain.
