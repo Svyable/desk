@@ -303,3 +303,109 @@ Enough willingness to update that trust can recover when the evidence changes.
 The gradient is alive.
 
 So is skill.
+
+There is a difference between being trusted and being depended on.
+
+The difference becomes visible when alternatives disappear.
+
+A company can have enormous market share because customers love it, because switching is expensive, because every colleague uses it, because data are trapped inside it, or because no practical substitute exists. Usage alone cannot distinguish those states.
+
+An employee can stay because leadership is trusted or because health insurance, immigration status, geography or a weak labor market make departure costly. A citizen can comply with an institution because its authority is legitimate in their eyes or because enforcement is powerful.
+
+Dependence can imitate trust behaviorally.
+
+That is why retention, compliance and silence are dangerous proxies.
+
+The person who remains is not necessarily consenting enthusiastically.
+
+The customer who does not complain may have given up.
+
+The employee who stops raising concerns may have learned that concerns are punished.
+
+The citizen who follows a process may believe it is unjust and unavoidable.
+
+Low-friction systems need ways to distinguish confidence from captivity.
+
+Exit is one signal.
+
+Voice is another.
+
+Can people criticize the institution without retaliation?
+
+Can they report a failure and expect repair?
+
+Can they downgrade reliance in one domain without losing access everywhere else?
+
+Can they leave with their data, money, reputation or credentials intact enough to choose again?
+
+An institution that makes exit impossible can produce obedience while spending trust.
+
+This matters for AI systems because convenience creates dependence quickly.
+
+A person delegates drafting, scheduling, memory, research, navigation and decision support. Each successful delegation saves effort. Over time, the user may lose practice in the underlying task or organize work around the tool's availability.
+
+The reliability requirement then rises.
+
+A system that was once optional becomes infrastructure.
+
+The same error rate now has a different consequence because the surrounding human system has adapted to dependence.
+
+Trust has a path.
+
+This is another form of hysteresis.
+
+The user cannot return instantly to the pre-tool state merely because the service is unavailable for an hour. Workflows, expectations and skills have moved.
+
+Designers should therefore care about graceful degradation.
+
+What happens when confidence falls?
+
+Can the user inspect sources?
+
+Can an automated action be reversed?
+
+Can a human take over?
+
+Can the system expose uncertainty before the user crosses from assistance into dependence?
+
+A trustworthy system is not one that never asks to be checked.
+
+It is one that helps the user know when checking matters.
+
+That requires calibration on both sides.
+
+The institution should be calibrated about its own capability.
+
+The user should be calibrated about the institution.
+
+Overtrust is not the only failure.
+
+Undertrust wastes useful capability. A patient who distrusts all medicine can reject treatments whose evidence is strong. An organization that distrusts employees can bury routine work under approvals. A traveler who distrusts every unfamiliar person can make ordinary cooperation impossible.
+
+The ideal point is not skepticism.
+
+It is correspondence.
+
+Reliance should roughly match reliability, adjusted for consequence and reversibility.
+
+That sounds clinical for something as human as trust.
+
+But the human version is familiar.
+
+You give someone the small responsibility before the large one.
+
+You watch what happens.
+
+You increase the stakes gradually.
+
+You do not demand a lifetime guarantee from one good act.
+
+You do not erase a decade of reliability because of one understandable mistake.
+
+You distinguish incompetence from dishonesty, bad luck from negligence, ignorance from concealment.
+
+You update by degree.
+
+Healthy trust is not blind.
+
+It has resolution.
