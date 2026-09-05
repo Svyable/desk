@@ -138,6 +138,7 @@ The manuscript should remain open to those possibilities.
 
 - [Research brief and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Readiness review — 2026-09-04](research/readiness-review-2026-09-04.md)
 
 ## Rights
 
