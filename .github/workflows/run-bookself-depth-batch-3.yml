@@ -1,0 +1,33 @@
+name: Run Bookself depth batch 3
+
+on:
+  push:
+    branches:
+      - revision/bookself-depth-pass
+
+permissions:
+  contents: write
+
+jobs:
+  deepen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deepen Bookself chapters 15 through 21
+        run: python3 .bookself-depth-batch-3.py
+      - name: Commit manuscript changes and remove temporary runner
+        run: |
+          rm .bookself-depth-batch-3.py
+          rm .github/workflows/run-bookself-depth-batch-3.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books/bookself/manuscript/ch15-restarts.md
+          git add books/bookself/manuscript/ch16-quitting-well.md
+          git add books/bookself/manuscript/ch17-starting-after-success.md
+          git add books/bookself/manuscript/ch18-starting-after-loss.md
+          git add books/bookself/manuscript/ch19-starting-too-late.md
+          git add books/bookself/manuscript/ch20-starting-without-permission.md
+          git add books/bookself/manuscript/ch21-starting-together.md
+          git add .bookself-depth-batch-3.py .github/workflows/run-bookself-depth-batch-3.yml
+          git commit -m "Deepen Bookself chapters 15-21"
+          git push
