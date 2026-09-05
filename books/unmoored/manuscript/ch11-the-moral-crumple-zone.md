@@ -104,6 +104,32 @@ Then failure arrives and the ritual becomes a liability assignment mechanism.
 
 The human signature was decorative until someone needed a name.
 
+Research on automation bias has shown versions of this problem long before systems approached anything like superior general intelligence. People can over-rely on automated recommendations, fail to notice errors that contradict other information, or treat the presence of a decision aid as a reason to reduce independent checking. Other studies complicate the picture: humans do not simply obey algorithms. They can underuse them, selectively follow them, reject them after visible mistakes, or defer in some categories while resisting in others.
+
+That messiness is important.
+
+The crumple-zone problem does not require humans to become passive.
+
+It requires institutions to design a role in which the human's nominal responsibility exceeds the human's practical capacity to discharge it.
+
+A skeptical physician can still become a crumple zone if the evidence needed to challenge the model is unavailable.
+
+A cautious caseworker can still become a crumple zone if workload permits thirty seconds of review.
+
+A pilot can still become one if automation controls normal operations so completely that manual skill degrades while emergency responsibility remains.
+
+The failure can occur even when the human is alert and conscientious.
+
+That makes training an incomplete answer.
+
+Telling people to “remain vigilant” is cheap.
+
+Vigilance is a resource.
+
+It depends on attention, practice, information, authority, and a plausible expectation that intervention will be supported rather than punished.
+
+An organization cannot remove those conditions and then restore responsibility with a slide deck.
+
 This problem is often discussed as an automation problem.
 
 It is also a moral-authority problem.
@@ -144,6 +170,32 @@ The law can allocate some of these differently.
 
 The moral point is that responsibility should trace the architecture rather than gather at the last human hand.
 
+Responsibility also needs to be separated from blame.
+
+The distinction is easy to lose after harm.
+
+An institution needs to know who was responsible for monitoring a system, who had authority to change it, who owed an explanation to the affected person, and who must repair the damage. Those are responsibility questions.
+
+Whether any of those people deserves blame is a further question about knowledge, negligence, recklessness, reasonable expectations, and available alternatives.
+
+Conflating the two encourages defensive design.
+
+If every assigned responsibility is understood as a future accusation, organizations will distribute responsibility vaguely enough that no one owns it.
+
+If responsibility can include duties to explain, monitor, compensate, learn, and correct without presuming personal fault, governance becomes more precise.
+
+This matters especially for near misses.
+
+A dangerous recommendation is caught before harm occurs.
+
+Nothing bad happens.
+
+A blame-centered system celebrates the employee and moves on.
+
+A responsibility-centered system asks why the error was possible, why the employee was the only barrier, whether the same failure could recur when someone is tired, and which upstream actor is required to change the process.
+
+Waiting for injury before tracing authority is itself a governance failure.
+
 This becomes more complicated when the system is not merely predicting but giving ethical reasons.
 
 Imagine an autonomous military planning system recommending a target. The system analyzes intelligence, estimates civilian harm, checks rules of engagement, compares alternatives, and assesses military necessity. A human commander authorizes the strike.
@@ -181,6 +233,56 @@ The model “decided” when celebrating capability.
 The human “decided” when allocating blame.
 
 That asymmetry should be treated as a warning sign.
+
+Consider a public-benefits office.
+
+A system reviews applications, cross-checks records, identifies anomalies, and recommends approval, denial, or additional investigation. Its performance is excellent in aggregate. Front-line caseworkers are instructed that they remain the final decision makers.
+
+The interface gives a confidence score and a short explanation.
+
+A denial appears straightforward. The worker has a queue of hundreds of cases. Overriding the recommendation requires opening another screen, entering a written justification, and accepting the possibility of quality review.
+
+The applicant loses assistance.
+
+Months later an appeal reveals that an unusual household arrangement confused the system.
+
+Who made the decision?
+
+The caseworker clicked deny.
+
+The system generated the recommendation.
+
+The agency selected the thresholds.
+
+Leadership set caseloads.
+
+The software team designed the friction around override.
+
+Policy staff decided which errors were considered more costly.
+
+The appeal system determined how long the applicant had to live with the result.
+
+The moral event is spread across time and architecture.
+
+If the agency points only to the caseworker, it misses most of the decision.
+
+If it points only to the algorithm, it hides the policy choices that made the algorithm consequential.
+
+The applicant needs something more useful than a metaphysical answer to who decided.
+
+The applicant needs a path to correction.
+
+That is why appeal is part of responsibility.
+
+A system that can make or strongly shape consequential decisions but offers no practical route for an affected person to contest inputs, inference, policy, or outcome is missing a key part of moral governance.
+
+Appeal does not require that every person receive the result they want.
+
+It requires somewhere for error and disagreement to go.
+
+Without that place, responsibility is backward-looking theater.
+
+It asks who to punish after failure while providing no institution that can hear the person before the failure hardens into a life.
 
 It can work in the other direction too.
 
@@ -227,6 +329,26 @@ The technology that diffuses agency can help trace it.
 This is one place where better systems can produce better morality through administration rather than wisdom.
 
 Responsibility benefits from receipts.
+
+But receipts need readers.
+
+A perfect audit trail that no affected person can access, no regulator can interpret, and no internal owner is required to review is an archive, not accountability.
+
+Provenance becomes morally useful when it connects to duties.
+
+Someone must inspect anomaly rates.
+
+Someone must own appeals.
+
+Someone must have authority to suspend the system.
+
+Someone must decide when a pattern of individually defensible outputs reveals a collectively unacceptable effect.
+
+Someone must be able to require the vendor to answer.
+
+Someone must be responsible for telling the public what changed after a failure.
+
+A ledger without an obligation is only memory.
 
 A moral decision with serious consequences should leave more than an output.
 
