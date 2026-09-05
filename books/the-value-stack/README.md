@@ -1,10 +1,10 @@
 # The Value Stack
 
-**How value moves from matter to capability to access to trust to meaning—and why power returns to the bottom when scarcity changes.**
+*How value moves from matter to capability to access to trust to meaning—and why power returns to the bottom when scarcity changes*
 
 | | |
 |---|---|
-| **Authors** | Sven Hard Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Chapters** | 19 of 19 drafted |
 

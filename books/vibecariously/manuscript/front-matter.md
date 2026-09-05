@@ -2,9 +2,11 @@
 
 *How AI Changed The Way We Imagine*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
+
+---
 
 ## Author's Note
 

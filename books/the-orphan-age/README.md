@@ -1,6 +1,6 @@
 # The Orphan Age
 
-## What Happens When Creation Gets Cheaper Than Care
+*What Happens When Creation Gets Cheaper Than Care*
 
 | | |
 |---|---|

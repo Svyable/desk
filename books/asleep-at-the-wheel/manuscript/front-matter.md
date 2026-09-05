@@ -1,6 +1,6 @@
 # Asleep at the Wheel
 
-## How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask
+*How Civilization Learned to Schedule Around a Biology It Never Bothered to Ask*
 
 **Sven Hardy Benson**
 

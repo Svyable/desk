@@ -2,6 +2,8 @@
 
 **Sven Hardy Benson**
 
+---
+
 An arrow is one of humanity's oldest abstractions.
 
 It says two things at once.

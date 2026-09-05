@@ -1,6 +1,6 @@
 # The Unobserved World
 
-## How Prediction Shrinks the Future by Erasing the Roads We Never Try
+*How Prediction Shrinks the Future by Erasing the Roads We Never Try*
 
 | | |
 |---|---|

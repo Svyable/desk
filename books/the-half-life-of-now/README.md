@@ -1,6 +1,6 @@
 # The Half-Life of Now
 
-**Why Everything We Know Is Getting Old Faster**
+*Why Everything We Know Is Getting Old Faster*
 
 | | |
 |---|---|

@@ -1,4 +1,10 @@
-# The Data We Never Get
+# The Unobserved World
+
+*How Prediction Shrinks the Future by Erasing the Roads We Never Try*
+
+**Sven Hardy Benson**
+
+---
 
 There is a familiar ritual at the end of a consequential decision. The meeting finishes. The applicant hears yes or no. The patient gets a test or does not. The loan is approved or declined. The school makes a placement. The grant committee draws a line through a ranked list. A recommendation system chooses what appears at the top of a screen. Then time passes, outcomes arrive, and somebody opens a spreadsheet.
 

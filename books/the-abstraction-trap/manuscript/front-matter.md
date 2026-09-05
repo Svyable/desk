@@ -1,6 +1,10 @@
-# Front Matter
-
 # The Abstraction Trap
+
+*The Abstraction Trap*
+
+**Sven Hardy Benson**
+
+---
 
 **How Useful Simplifications Become Dangerous Realities**
 

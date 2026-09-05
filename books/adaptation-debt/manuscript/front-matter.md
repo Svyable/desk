@@ -1,5 +1,9 @@
 # Adaptation Debt
 
+**Sven Hardy Benson**
+
+---
+
 A successful system is full of evidence that it should keep doing what it is doing.
 
 Customers return. Machines run. Employees know what to do. Suppliers understand the specification. A regulator recognizes the category. The sales forecast has history behind it. The accounting system knows where to put the revenue. The people who are good at the work become more valuable as they get better at it. The people who manage the work become more credible as they reproduce the result.

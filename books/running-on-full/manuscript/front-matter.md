@@ -1,6 +1,10 @@
-# Running On Full
+# Running on Full
 
 *How to Get the Most of Your AI Compute*
+
+**Sven Hardy Benson**
+
+---
 
 There is a peculiar moment in the life of an expensive machine when everybody can agree it is working and nobody can agree what it is doing.
 

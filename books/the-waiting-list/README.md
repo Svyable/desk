@@ -1,6 +1,6 @@
 # The Waiting List
 
-## How We Really Decide Who Gets What
+*How We Really Decide Who Gets What*
 
 | | |
 |---|---|

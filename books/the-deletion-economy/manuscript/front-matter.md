@@ -1,4 +1,10 @@
-# The Things We Forgot to End
+# The Deletion Economy
+
+*Why the Next Great Industries Will Be Built by Taking Things Away*
+
+**Sven Hardy Benson**
+
+---
 
 There is a ceremony for putting almost anything important into the world.
 

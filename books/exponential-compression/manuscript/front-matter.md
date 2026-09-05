@@ -1,5 +1,9 @@
 # Exponential Compression
 
+**Sven Hardy Benson**
+
+---
+
 For most of history, the distance between an idea and its execution was measured in people, money, and time.
 
 Want to send a message across an ocean? Find a ship. Want to reproduce a book? Find scribes, then a press, then paper, ink, distribution, and buyers. Want to calculate the orbit of a planet? Find mathematicians. Want to build a company? Hire the people who know the things you do not.

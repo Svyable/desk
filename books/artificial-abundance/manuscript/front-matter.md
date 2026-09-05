@@ -2,6 +2,10 @@
 
 *When Intelligence Becomes Cheap, What Becomes Priceless?*
 
+**Sven Hardy Benson**
+
+---
+
 For most of human history, useful intelligence arrived attached to a person.
 
 If you wanted a legal opinion, somebody had to spend years becoming a lawyer. If you wanted a bridge designed, an engineer had to learn enough mathematics, materials science, regulation, and practical judgment to sign the drawings. If you wanted a piece of software, people who knew how to turn an idea into code had to sit down and write it. If you wanted a market analysis, a lesson plan, a translation, a campaign, a contract, a diagnosis, a financial model, a research summary, a logo, a song, or a second opinion, some combination of training, time, attention, and human coordination had to be assembled before the thing could exist.

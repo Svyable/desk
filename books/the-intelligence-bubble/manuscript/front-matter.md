@@ -2,7 +2,9 @@
 
 *How AI Will Transform the Economy—and Why So Many Investors Will Lose Money*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 August 2026
 

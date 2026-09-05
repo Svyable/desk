@@ -1,6 +1,6 @@
 # Second Guess
 
-## How Human Judgment Survives the Age of the Recommendation
+*How Human Judgment Survives the Age of the Recommendation*
 
 **Sven Hardy Benson**
 

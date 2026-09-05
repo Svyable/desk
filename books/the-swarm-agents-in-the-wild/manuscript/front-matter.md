@@ -2,6 +2,8 @@
 
 *A Field Guide to Synthetic Ecology*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 Working Desk edition.

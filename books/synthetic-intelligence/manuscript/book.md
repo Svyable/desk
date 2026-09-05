@@ -1,8 +1,8 @@
-# SYNTHETIC INTELLIGENCE
+# Synthetic Intelligence
 
-### Sven Hard Benson
+*How machine-generated experience may change intelligence from a consumer of the world into a producer of its own curriculum—and open a new era of discovery*
 
-*How machine-generated experience may change intelligence from a consumer of the world into a producer of its own curriculum—and open a new era of discovery.*
+**Sven Hardy Benson**
 
 ---
 

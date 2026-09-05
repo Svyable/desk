@@ -2,7 +2,9 @@
 
 *How the U.S. Can Save the Semiconductor Supply Chain Before It’s Too Late*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 There is a photograph politicians like to take inside semiconductor factories.
 

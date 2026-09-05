@@ -2,6 +2,10 @@
 
 *Tracking How Machines Learn*
 
+**Sven Hardy Benson**
+
+---
+
 A model arrives on a Tuesday.
 
 There is a name for it, a version number, a row of benchmark scores, a context window, a price, perhaps a technical report. People ask what it can do. They ask whether it is better than the model released last month. They ask whether it can code, reason, translate, plan, use tools, refuse harmful requests, follow instructions, remember preferences, or pass an exam that was difficult enough to be interesting six months earlier.

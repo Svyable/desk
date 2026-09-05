@@ -1,4 +1,4 @@
-# Running On Full
+# Running on Full
 
 | | |
 |---|---|

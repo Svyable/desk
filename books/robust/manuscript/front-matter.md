@@ -2,7 +2,9 @@
 
 *What It Means to Be Sturdy in the Ever-Shifting AI Landscape*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 A sturdy chair does not need to know who is going to sit in it.
 

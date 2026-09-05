@@ -1,7 +1,10 @@
-# To State the Obvious:
-## A Field Manual for Seeing What Everyone Knows and Nobody Uses
+# To State the Obvious
+
+*A Field Manual for Seeing What Everyone Knows and Nobody Uses*
 
 **Sven Hardy Benson**
+
+---
 
 > The obvious is not the opposite of intelligence. It is intelligence that has survived contact with reality.
 
