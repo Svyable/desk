@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 87 book projects · 45 complete drafts · 2 in revision · 40 drafting**
+> **Desk: 90 book projects · 46 complete drafts · 2 in revision · 42 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 45 author projects · 43 released · 2 public drafts/proofs**
-> **Where they live: 45 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
-> **Release review queue: 5 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 45 in both Desk + Shelf · 45 Desk-only · 0 Shelf-only**
+> **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -66,7 +66,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Commit](books/commit/), [Neuralase](books/neuralase/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -97,6 +97,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 drafted | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Commit**](books/commit/) | ✅ Complete draft | 22 of 22 | — | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a numbered sequence… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
+| [**DemocrAIcy**](books/democraicy/) | ✍️ Drafting | 11 of 11 | — | Political intelligence becomes abundant: citizens, campaigns, companies, and governments increasingly act through machines that can persuade, decide, negotiate, and administer. | [Read →](https://svyable.github.io/desk/reader/#/b/democraicy/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 76,091 | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
@@ -108,6 +109,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,281 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 of 12 | 10,932 | The book follows ordinary people who notice the unclaimed problem, carry more than their official job requires, and turn small acts of usefulness into trust, access, and eventually freedom. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
+| [**Neuralase**](books/neuralase/) | ✅ Complete draft | 18 of 18 | — | A reasoning system becomes more capable when a return path is paired with a discriminating signal: evidence, verification, tools, constraints, or learned stopping rules. | [Read →](https://svyable.github.io/desk/reader/#/b/neuralase/) |
 | [**No One Read It**](books/no-one-read-it/) | ✍️ Drafting | 5 of 21 | 15,368 | Generative systems can produce contracts, code, analysis, reports, messages, and options faster than the people named on that work can inspect it. | [Read →](https://svyable.github.io/desk/reader/#/b/no-one-read-it/) |
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✅ Complete first draft | 20 of 20 | — | The provisional spaces that make competence possible: rehearsal rooms, drafts, sandboxes, simulations, apprenticeships, mock trials, pilots, test kitchens, play, and every other place where a person or institution is allowed to be wrong before being required to be right. | [Read →](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | 18 of 18 | 77,279 | The central thesis is that open AI does not abolish ownership; it rearranges it. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
@@ -137,6 +139,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | Front matter, 25 of 25 chapters, back matter | 15,829 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
 | [**The Expiration Machine**](books/the-expiration-machine/) | ✍️ Drafting — structurally complete | 21 of 21 + prologue + epilogue | — | The central thesis is that expiration is one of civilization's hidden control primitives. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 13 (Prologue + Chapters 1–12) | 29,714 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
+| [**The Hundred-Year Career**](books/the-hundred-year-career/) | ✍️ Drafting | 10 of 10 | — | A longer economically active life turns the career from one profession into a sequence of reinventions, learning periods, ownership structures, and multiple peaks of contribution. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-career/) |
 | [**The Hundred-Year Handoff**](books/the-hundred-year-handoff/) | ✍️ Drafting | 7 of 21 drafted | — | Some of civilization's hardest projects have a peculiar customer: a person who is not alive yet. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hundred-year-handoff/) |
 | [**The Intelligence Bubble**](books/the-intelligence-bubble/) | ✍️ Drafting | 18 of 18 | 56,186 | AI can be economically transformative while many of the investors financing its first great buildout earn disappointing returns. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/) |
 | [**The Intelligence Dilemma**](books/the-intelligence-dilemma/) | ✅ Complete draft | 20 of 20 | 35,013 | The Intelligence Dilemma asks how schools can use abundant machine intelligence to deepen learning without letting polished output become a substitute for student capability. | [Read →](https://svyable.github.io/desk/reader/#/b/the-intelligence-dilemma/) |
