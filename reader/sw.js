@@ -5,7 +5,7 @@ importScripts(
   'https://svyable.github.io/shelf/reader/js/offline-shell-install.js'
 );
 
-const CACHE = 'svyable-desk-reader-v17';
+const CACHE = 'svyable-desk-reader-v18';
 const CACHE_PREFIX = 'svyable-desk-reader-';
 const SHARED_READER = 'https://svyable.github.io/shelf/reader/';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
@@ -104,6 +104,7 @@ const SHARED_PATHS = [
   'js/library-book-preview-model.js',
   'js/library-quick-look.js',
   'js/theme-controls.js',
+  'js/global-reader-controls.js',
   'js/math.js',
   'js/academic.js',
   'js/base.js',
