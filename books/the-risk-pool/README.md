@@ -33,6 +33,12 @@
 - [x] [Ch 22 — What Can Still Be Insured](manuscript/ch22-what-can-still-be-insured.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
+## Publication path
+
+- First Shelf edition published from frozen Desk source `c1864c8d500b2872b9718772f6d25676871892cc`.
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/)
+- Desk remains the working edition for future revisions.
+
 ## Research
 
 - [Research brief](research/README.md)
