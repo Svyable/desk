@@ -348,6 +348,68 @@ Sometimes a real value is ambiguous because people inside the institution disagr
 
 A superior intelligence should not be used to manufacture agreement that does not exist.
 
+Conviction also has to be exercised before crisis, not discovered inside it.
+
+Institutions already rehearse operational emergencies. Banks run stress tests. Hospitals conduct disaster drills. Security teams practice incident response. Militaries war-game. The purpose is partly to expose procedures that look adequate on paper and fail under pressure.
+
+Moral commitments deserve a similar discipline.
+
+A company that says privacy matters can ask in advance what revenue, regulatory pressure, or safety threat would tempt it to weaken that promise. A university that says academic freedom matters can test the principle against cases where speech is offensive, donor pressure is intense, or the speaker is politically unpopular. A hospital can ask when patient choice should yield to public risk. A public agency can identify which emergency powers are designed to expire and what evidence would justify extending them.
+
+The point is not to script every future dilemma.
+
+It is to find out whether the institution possesses a commitment or merely a favorable attitude toward a value under easy conditions.
+
+Artificial intelligence can make these exercises much better.
+
+A capable system can generate cases that exploit inconsistencies in the institution's own history. It can model the financial cost of keeping a promise. It can present the strongest argument for violating the principle. It can simulate stakeholder reactions without pretending the simulation is participation. It can identify the exact point at which existing policy becomes ambiguous.
+
+This is a productive use of superior intelligence because the system is not being asked to replace conviction.
+
+It is being asked to test it.
+
+The institution still has to answer.
+
+What would we do?
+
+Who would decide?
+
+Which reason would justify the exception?
+
+Would the exception change the principle or merely suspend its application?
+
+How would affected people know?
+
+The answers can be recorded with the same care given to technical controls.
+
+Then, when the real crisis arrives, the institution has something stronger than a generated explanation. It has evidence that people with authority examined the conflict before self-interest selected the convenient interpretation.
+
+This will not eliminate hypocrisy.
+
+It makes hypocrisy easier to identify.
+
+There is another test of conviction: whether the institution can survive disagreement among its own intelligent systems.
+
+Future organizations may not rely on one model. Legal analysis may come from one system, risk from another, ethics from a third, customer impact from a fourth, each powerful enough to generate compelling recommendations.
+
+If they disagree, executives cannot retreat into “the AI says.”
+
+Which AI?
+
+Under which mandate?
+
+Optimizing which objective?
+
+Using which authority?
+
+Plural machine advice could be healthy because it prevents one artificial voice from becoming indistinguishable from institutional reason itself.
+
+It also forces the institution to reveal the layer it cannot outsource: the choice among legitimate but competing considerations.
+
+An institution with convictions can use superior advisers and remain an institution.
+
+An institution without convictions will search for the adviser that lets it stop choosing.
+
 This matters in democracies most of all.
 
 A nation is not one person with one utility function. Citizens hold incompatible moral and religious doctrines. They disagree about equality, family, markets, speech, punishment, borders, property, welfare, obligation, and the good life.
