@@ -312,6 +312,128 @@ The analogy is that second passes become useful when the conditions of judgment 
 
 That is the catalyst.
 
+There is a practical way to keep this idea honest: force every proposed loop through a counterfactual.
+
+Imagine removing the second pass.
+
+What class of mistakes should increase?
+
+Now restore the second pass but remove its distinctive signal. Let the critic see no new evidence. Replace the test result with a generic instruction to “be more careful.” Give every debating agent the same prompt and same temperature. Retrieve documents but hide their provenance. Repeat the recurrent block even though training never taught the model to use additional depth.
+
+If performance barely changes, the supposed catalyst may have been theater.
+
+If performance improves only when the differentiating signal is present, we have learned something stronger about mechanism.
+
+This counterfactual matters because iterative systems are extremely easy to romanticize. A trace with six steps looks more thoughtful than a trace with one. A debate transcript looks more rigorous than a direct answer. A verifier score looks scientific because it is a number. An agent that calls five tools looks diligent.
+
+Appearance is cheap.
+
+The question is whether the extra structure changes the error distribution in a way we can predict.
+
+That prediction does not have to be perfect. Engineering rarely begins with perfect theory. It should at least be specific.
+
+A calculator check should mostly help arithmetic and exact computation, not literary taste.
+
+A freshness retrieval step should mostly help claims whose truth changes with time, not timeless definitions.
+
+A permission check should reduce unauthorized actions, not factual hallucinations.
+
+A diverse search tree should help when early commitment is dangerous, not when the task has one trivial deterministic path.
+
+A memory return should help when prior local experience is relevant, not when the environment has changed enough that the memory is stale.
+
+Specificity is how a concept earns the right to be causal.
+
+It also helps us see when two loops that look different are functionally similar.
+
+Suppose one coding agent runs a test suite after every patch. Another generates a proof obligation for every changed function. A third executes the program against a recorded workload. The mechanisms differ, but each creates a surface that resists a different family of false confidence. Their value can be compared in terms of what errors they expose, what errors they miss, how expensive they are, and how much authority the resulting signal has.
+
+That is a more useful comparison than asking which agent “reflects better.”
+
+The same discipline reveals a distinction between *novel information* and *new pressure*.
+
+A second pass does not always need new facts.
+
+Sometimes the relevant facts were present from the beginning but the first computation did not organize them well. A formal constraint checker may simply force attention onto a condition that was already in the prompt. A recurrent latent pass may reorganize the same representation under learned dynamics. A reviewer may notice an inconsistency in a document without consulting any outside source.
+
+Nothing new entered in the ordinary sense.
+
+But the state encountered a new pressure.
+
+This matters because otherwise Neuralase would collapse into retrieval. The useful difference can be informational, evaluative, representational, temporal, or authoritative.
+
+Informational difference supplies facts.
+
+Evaluative difference supplies a criterion.
+
+Representational difference changes how the same facts are organized.
+
+Temporal difference lets consequences arrive after an action.
+
+Authoritative difference changes what the system is permitted to do with a conclusion.
+
+A well-designed loop may combine several.
+
+Consider an autonomous coding system editing a payment service. The first pass drafts a change. Tests provide evaluative difference. A runtime trace provides informational difference. A second model proposes a different diagnosis, adding representational diversity. A policy layer limits deployment authority. A later production canary provides temporal difference from the real environment.
+
+Calling all of that “self-correction” loses the architecture.
+
+Calling it Neuralase should not hide the architecture either.
+
+The word earns its keep only by making us ask which differences are doing the work.
+
+This leads to a useful failure taxonomy.
+
+A loop can fail because the return path is absent: nothing gets another chance.
+
+It can fail because the signal is weak: the second pass cannot distinguish error from success.
+
+It can fail because the signal is corrupted: the system optimizes the wrong criterion.
+
+It can fail because the signal arrives too late: the damage is already irreversible.
+
+It can fail because the signal has no authority: the system notices the problem and proceeds anyway.
+
+It can fail because the loop never halts: every objection creates another objection.
+
+And it can fail because the cost of correction exceeds the value of the correction.
+
+Those are different engineering failures.
+
+They deserve different remedies.
+
+More capable base models solve some of them and none of the others.
+
+A smarter model can reduce the number of initial errors. It cannot make a stale database current. It cannot turn an unauthenticated action into an authorized one. It cannot make a corrupted reward objective correct by thinking harder about it. It cannot create reversibility after an irreversible action has already happened.
+
+This is why the catalyst belongs at the system level even when the computation happens inside the model.
+
+The model is one place where state changes.
+
+The system is where consequences decide whether that change mattered.
+
+So the strongest version of the Neuralase question is not merely:
+
+What changes on the second pass?
+
+It is:
+
+What changes, who can tell whether the change is better, and what power does that judgment have over what happens next?
+
+That three-part question—difference, discrimination, authority—keeps the term from drifting into mysticism.
+
+It also makes the idea falsifiable in practice.
+
+If a proposed catalyst cannot name its expected benefit, cannot be ablated, cannot identify the failure it should reduce, and cannot explain when it should be ignored, then the mechanism may still be useful.
+
+But the story about it is not yet mature.
+
+The best coined terms are scaffolding.
+
+They help you see a structure that was already there.
+
+Then the structure does the work.
+
 If the word Neuralase survives, I hope it survives in that modest sense.
 
 Not as a new substance inside a model.

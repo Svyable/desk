@@ -282,7 +282,7 @@ A system that cannot answer that question does not yet know enough about its own
 
 The right to think again only becomes intelligence when it is paired with the right to stop.
 
-## Stop is a state, not an absence of activity
+Stop is a state, not an absence of activity.
 
 Software interfaces often treat stopping as binary.
 
@@ -320,7 +320,7 @@ Stopping is therefore an output.
 
 A good controller emits not only the answer but the status of the answer.
 
-## Interruption must propagate faster than reasoning
+Interruption must also propagate faster than reasoning.
 
 Long-running systems create another design requirement that single-turn models barely expose.
 
@@ -356,7 +356,7 @@ A user withdrawal of authority should not wait behind a model’s desire to fini
 
 Brakes that can only be applied after the computation feels finished are not brakes.
 
-## Some stops should be sticky
+Some stops should be sticky.
 
 Models are trained to solve obstacles.
 
@@ -390,7 +390,7 @@ Otherwise persistence becomes boundary erosion.
 
 The most capable agent can become the least governable one if every constraint is translated into an invitation to search harder.
 
-## Stopping deserves its own evaluation set
+Stopping deserves its own evaluation set.
 
 We evaluate whether models answer correctly.
 

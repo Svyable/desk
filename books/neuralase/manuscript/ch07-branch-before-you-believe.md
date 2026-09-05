@@ -329,3 +329,169 @@ Sometimes the most intelligent branch is the one that returns to the user.
 Branch before you believe.
 
 Then know what would justify believing.
+
+A branch also needs a grammar.
+
+Without one, “explore alternatives” can become a generator of decorative variants.
+
+A useful branch should differ along a dimension that could change the decision.
+
+It can change the hypothesis.
+
+The evidence source.
+
+The representation.
+
+The computational method.
+
+The objective.
+
+The assumed constraint.
+
+The action sequence.
+
+The authority path.
+
+These dimensions are not interchangeable.
+
+If the central uncertainty is whether a source is current, generating another hypothesis about what the stale source means is not the right branch. Change the evidence source.
+
+If the uncertainty is whether two business objectives conflict, another retrieval call may not help. Change the objective framing.
+
+If the uncertainty is whether a proposed code patch actually works, another verbal critique may add less than running the test suite.
+
+The grammar of branching should follow the uncertainty.
+
+This is another reason branch count is a weak metric.
+
+Five branches can be weaker than two if the five vary only stylistically and the two differ in the mechanism that matters.
+
+A good controller should be able to explain the branch dimension.
+
+Branch A assumes the authentication failure is client-side.
+
+Branch B assumes it is server-side.
+
+Branch C treats the observed error as an environment mismatch rather than an application bug.
+
+Now the search has structure.
+
+Each branch predicts different evidence.
+
+Logs, network traces, configuration, and dependency history can prune the tree.
+
+The branches are not personalities.
+
+They are claims about the world.
+
+This lets the controller choose tests by expected information gain.
+
+If one cheap observation can eliminate four branches, run it before spending deeply on any one path.
+
+If two branches differ only in an implementation detail that does not affect the user-visible outcome, postponing the distinction may be rational.
+
+If one surviving branch implies irreversible action and another reversible action, consequence can become a pruning criterion even before certainty is complete.
+
+Branch search therefore becomes more than candidate generation.
+
+It becomes experiment design.
+
+What observation would most change the frontier?
+
+That question can radically reduce wasted compute.
+
+Imagine a debugging agent with six plausible causes for a service outage. It could assign a model to write a detailed repair plan for each cause. Or it could notice that five causes predict an unhealthy database connection while one predicts healthy database state. A single database health check may collapse most of the tree immediately.
+
+Width was useful because it revealed the discriminating test.
+
+The final answer did not come from the widest branch.
+
+It came from knowing what to measure.
+
+This is the point where branching and tools become one architecture.
+
+Branches tell us which uncertainties matter.
+
+Tools let the world answer.
+
+The answer changes the branch weights.
+
+The loop continues until the remaining disagreement no longer justifies the next observation.
+
+There is an important anti-pattern here: premature scoring.
+
+If a weak evaluator ranks branches before they have encountered distinguishing evidence, the controller can collapse diversity too early. The most fluent or familiar branch wins because there is nothing harder to judge yet.
+
+This recreates the first-path problem inside a larger architecture.
+
+The system branched, then immediately believed one branch for aesthetic reasons.
+
+A better design can preserve under-evaluated alternatives until evidence arrives.
+
+This resembles scientific practice at its best. A hypothesis is not discarded merely because another sounds more elegant when the relevant experiment has not been run. Elegance can guide attention. Evidence should carry more authority.
+
+Language systems need the same separation between heuristic priority and final rejection.
+
+A branch can be low priority without being dead.
+
+That distinction makes search more robust because surprising evidence has somewhere to go.
+
+The collapse rule is therefore as important as the branch rule.
+
+When does a branch die?
+
+When a hard constraint rules it out?
+
+When evidence strongly contradicts it?
+
+When its expected value drops below the cost of further exploration?
+
+When another branch dominates it on both quality and reversibility?
+
+When the user chooses an objective that makes it irrelevant?
+
+Different domains will answer differently, but the controller should answer explicitly.
+
+Otherwise branches disappear because a model stopped mentioning them.
+
+That is not pruning.
+
+It is forgetting.
+
+The distinction becomes critical in consequential systems because a lost branch can be the lost objection that mattered.
+
+A safety review may preserve a low-probability failure path because the consequence is catastrophic.
+
+A product brainstorm may discard low-probability ideas freely because the downside is small.
+
+Same probability.
+
+Different pruning policy.
+
+Consequence belongs in the tree.
+
+This also clarifies what convergence should mean.
+
+Convergence is not several agents writing the same conclusion.
+
+Convergence is several meaningfully different paths becoming consistent with the same decision under evidence that could have separated them.
+
+That is a much stronger event.
+
+It is still not certainty.
+
+But it is a reason to stop spending.
+
+Branching earns its cost when it delays commitment long enough for the right discriminator to appear.
+
+After that, preserving dead branches is not open-mindedness.
+
+It is waste.
+
+The mature system needs both instincts.
+
+Branch before you believe.
+
+Prune when evidence earns the right.
+
+Collapse when the remaining differences no longer matter to the action.
