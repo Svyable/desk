@@ -44,7 +44,7 @@ Then ask which of those conditions can be built, bought, partnered for, or ignor
 
 Feasible-set design begins with constraints.
 
-Every organization has many constraints, but a few usually shape the frontier disproportionately. Distribution. Capital. Talent. Technology. regulation. Production capacity. customer trust. switching cost. data. geography. time.
+Every organization has many constraints, but a few usually shape the frontier disproportionately. Distribution. Capital. Talent. Technology. Regulation. Production capacity. Customer trust. Switching cost. Data. Geography. Time.
 
 The strategic question is not how to optimize every constraint at once. It is which constraint, if relaxed, changes the set of valuable choices.
 
@@ -199,3 +199,67 @@ Then ask what that new set costs to build and what it makes harder to do.
 A strategy is not a destination on a graph.
 
 It is an attempt to redraw the graph in your favor without hiding the costs of the pencil.
+
+Some strategic constraints are valuable precisely because they prevent the company from wandering into every available option. A narrow customer promise can simplify operations. A limited product surface can concentrate learning. A refusal to enter low-trust business can protect brand and culture. A capital discipline can force business models to prove themselves before they become permanent obligations.
+
+Constraint can be an asset when it produces coherence.
+
+This is different from a binding constraint the company wants to relax. Strategy needs to know which limits are cages and which are rails.
+
+A rail makes a repeated choice cheap. "We do not build custom versions below this contract size" can reduce sales-engineering negotiation. "We do not depend on one supplier for a mission-critical component" can preserve resilience. "We do not enter a market without local regulatory capability" can prevent paper strategies.
+
+The rail narrows the immediate feasible set and can improve the operating frontier by reducing complexity and decision cost.
+
+The danger is that rails become inherited taboos after the mechanism changes. A strategic constraint needs the same obsolescence rule as a strategic asset.
+
+Why does this limit exist? Which advantage does it protect? What evidence would justify removing it?
+
+This creates a useful symmetry. Strategy is partly about relaxing constraints and partly about choosing constraints worth keeping.
+
+The most powerful capabilities often change several frontiers at once. A trusted brand can lower acquisition cost, improve conversion, make partnerships easier, and create forgiveness after mistakes. A strong balance sheet can lower financing cost, support guarantees, preserve options during downturns, and let the company invest when others cannot. A good platform can reduce the marginal cost of multiple products.
+
+Multi-frontier capabilities deserve special attention because their value is easy to understate in project-by-project accounting.
+
+The first use may not justify the investment. The portfolio of uses might.
+
+This is also where strategic assets become dangerous. The company can begin using an asset simply because it exists. A distribution network encourages products that fit the network. A sales force encourages offerings it knows how to sell. A factory encourages designs it can manufacture. A brand encourages categories that feel adjacent.
+
+Capability creates opportunity and bias.
+
+The asset that moved yesterday's frontier can become the lens that hides tomorrow's.
+
+This is why adjacency should be tested from both directions. Does the existing capability genuinely lower the cost of entering the adjacent space? Does the adjacent opportunity also strengthen or preserve the capability? Or is the company forcing a new market to justify an asset it is emotionally unwilling to abandon?
+
+A strategy can be coherent and still be built around a sunk cost.
+
+The strongest feasible-set investments create optionality without demanding use. A relationship opens a channel but does not force every product through it. A data asset can support several decisions. A standard can make substitution easier. A skill can transfer across markets.
+
+This is strategic convexity in plain language: the upside branches multiply faster than the fixed commitment.
+
+The phrase should not become mystical. The evidence is reuse.
+
+How many new choices became feasible because the asset exists? How cheaply can those choices be tested? Does using one branch damage the others or strengthen them?
+
+A capability that creates one narrow option is a project. A capability that repeatedly expands the menu begins to deserve the word strategic.
+
+That distinction also clarifies divestiture. Selling an asset is not merely a financial transaction if the asset supports future options. Keeping it is not automatically strategic if those options are no longer valuable.
+
+A good divestiture analysis asks which future points disappear with the asset and whether the capital, attention, or simplicity gained by selling creates a better frontier elsewhere.
+
+Strategy is allocation across feasible sets, not attachment to every frontier the company once built.
+
+The final strategic test is whether a plan survives the sentence "and then what?"
+
+We enter the market. And then what becomes easier?
+
+We acquire the company. And then what can the combined system do that neither could do before?
+
+We build the platform. And then which marginal costs fall?
+
+We gain scale. And then which constraint relaxes?
+
+If the answer is only "we become larger," the strategy may have described motion without frontier movement.
+
+Size is a coordinate.
+
+Strategy earns its name when size, learning, assets, permissions, or relationships change the geometry around the coordinate.

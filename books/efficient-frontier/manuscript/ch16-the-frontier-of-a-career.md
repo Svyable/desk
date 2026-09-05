@@ -207,3 +207,55 @@ What matters is that the job does not get to draw all the axes merely because it
 A good career is not the highest point on one visible curve.
 
 It is a sequence of chosen tradeoffs that keeps enough of the future feasible to remain yours.
+
+Career search deserves to be treated as an investment rather than an embarrassment between jobs. Search creates information about the market and about the person. A person who never looks because the current role is tolerable may have no idea whether they are near the frontier or deep inside it.
+
+This does not mean constant interviewing. Search has a cost in time, attention, loyalty, and psychological noise. The useful question is how often enough information should be refreshed that the current job remains a choice rather than a default inherited from the last search.
+
+A light-touch market check can reveal that compensation moved, a skill became scarce, remote options expanded, or a once-attractive field weakened. The information can justify staying. Staying after comparison is different from staying because comparison felt disloyal.
+
+Relationship capital complicates the career frontier because it does not belong entirely to the individual. A trusted colleague, mentor, customer, or team can make work unusually valuable. Leaving can sacrifice a network that took years to build. Joining a strong team can create future options far beyond the job description.
+
+Networks are not merely contacts.
+
+They are channels through which reputation and opportunity move.
+
+The value can be highly uneven. One deep relationship may change the feasible set more than hundreds of weak connections. This is why networking advice framed as quantity can be another metric trap.
+
+The marginal relationship matters when it creates trust, learning, or access that would otherwise be costly to build.
+
+Reputation has a similar nonlinearity. Early in a career, proof may have to be supplied repeatedly. After enough credible work, reputation can lower search cost and increase autonomy. People bring opportunities rather than requiring the person to discover all of them. The frontier moves because trust substitutes for repeated verification.
+
+Reputation can also become a constraint. A person known for one skill can be offered only that kind of work. Success in a role can narrow how others imagine the person. A public identity can make experimentation expensive because every beginner move is visible.
+
+The asset creates lock-in.
+
+Changing careers can therefore require deliberately accepting a temporary status loss while building evidence in a new domain. The person moves inward on the old frontier to move toward a different one.
+
+This is career tuition in its most uncomfortable form.
+
+It is easier when financial and psychological buffers exist. Savings pays bills. Relationships provide perspective. A small project provides evidence before a full identity change. An enough line on status makes it possible to be less impressive for a while.
+
+The frontier model helps because it distinguishes a temporary interior position with a learning mechanism from simple deterioration.
+
+Career risk is also bundled inside compensation. A high salary can partly be payment for volatility, concentration, unpleasant conditions, geographic constraints, or a skill with a short expected life. A lower salary can include pensions, stability, predictable time, training, or a credential whose value appears later.
+
+Comparing cash alone can treat risk premia as free money.
+
+The right comparison asks what uncertainty the compensation is paying you to carry.
+
+This does not make risky work irrational. It makes the risk part of the price.
+
+A household adds another layer because one person's frontier can change another's. A promotion may require relocation that affects a partner's career. A schedule that maximizes one person's autonomy can move caregiving work to someone else. Two highly correlated careers can increase household income and household fragility simultaneously.
+
+Career optimization becomes a joint-frontier problem when lives share constraints.
+
+The solution is not that every decision must maximize household income or that one person's ambition must yield. It is that the shared costs belong on the chart before the choice is called individually optimal.
+
+There is no career in isolation once other people reasonably depend on its consequences.
+
+This makes the final enough line more than a personal wellness idea. It is a governance rule for a scarce shared resource: time.
+
+A career can always make a case for the next hour.
+
+The rest of a life often needs a prior claim on some hours before the optimization begins.
