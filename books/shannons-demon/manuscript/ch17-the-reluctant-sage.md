@@ -28,6 +28,44 @@ They are not.
 
 A person can know something and fail to publish it. A laboratory can solve a technical problem and leave only notes. A student can inherit an idea through conversation. A field can rediscover work because the first version never became legible enough to circulate. Publication is not merely a record of thinking; it is a technology for making thinking portable.
 
+Portability has more parts than putting words on paper.
+
+A publishable result has to survive separation from its author.
+
+Definitions must be explicit enough that another reader can tell what the symbols mean. Assumptions have to be exposed so the result can be tested outside the circumstances in which it was discovered. Examples need enough context that the next researcher can distinguish the general mechanism from the lucky case. Prior work has to be named so novelty can be judged and credit does not depend entirely on memory. A claim needs edges: where it applies, where it does not, what would contradict it.
+
+Conversation can carry all of those things beautifully while the people involved share a room.
+
+Then the room empties.
+
+Someone remembers the punch line and forgets the assumption. A student remembers that Shannon had a clever way to think about a problem but not the derivation. A colleague passes along a story that becomes cleaner each time it travels. Priority becomes uncertain because an idea existed in several notebooks and conversations before one version reached print.
+
+Publication is imperfect protection against this decay.
+
+It creates an object that can be inspected by people who were not there.
+
+That object can be wrong. It can omit contributors. It can formalize a result so aggressively that the tacit skill required to reproduce it disappears. Journals can reward fashion and status. A polished paper can make a messy discovery process look falsely linear.
+
+But the written record gives criticism somewhere to land.
+
+A reader can point to an equation and say the assumption fails. Another researcher can reproduce a proof, change a parameter, extend the construction, or show that the claimed novelty already existed. The paper turns private confidence into a public target.
+
+This is why underpublication is not merely a lost citation count.
+
+It can be a loss of inspectability.
+
+An unpublished idea remains dependent on the authority of the person reporting it or the memory of the people who heard it. A published idea can be detached from the founder and become ordinary enough to be attacked.
+
+Shannon's greatest work survived that detachment.
+
+His 1938 switching paper did not require later engineers to trust that Shannon had once seen a connection between Boolean algebra and relays. They could read the construction. The 1948 communication paper did not ask readers to accept his intuition that channels must have limits. It gave them a mathematical framework they could challenge, refine, and use without asking him to mediate every interpretation.
+
+The portability was so successful that much of the field could eventually proceed without Shannon.
+
+That is one of publication's strangest successes.
+
+A foundational paper makes its author less necessary.
+
 Shannon, who had devoted his career to portability of information, was oddly indifferent to maximizing the portability of his own output.
 
 The irony is almost too convenient, so it is worth resisting the temptation to make it moralistic. There is no evidence that he designed his life as an argument against productivity culture. He did not announce a doctrine of strategic underpublication. He did not publish a book called The Case for Leaving Things Unfinished.
@@ -135,6 +173,28 @@ Shannon seems to have trusted his own judgment enough to stop when a problem sto
 That trust could look maddening.
 
 It could also look sane.
+
+There is a second countercase to the usual productivity story.
+
+A founder who remains too central can slow a field in a different way.
+
+If every new result requires the founder's blessing, the theory becomes a court. Students learn to anticipate one person's preferences. Disagreements become questions of loyalty. The founder's vocabulary can harden into doctrine even when later evidence points elsewhere.
+
+Shannon's distance from the center reduced that risk, whether or not he intended to.
+
+Information theory did not have to become the study of what Claude Shannon personally found interesting in the 1960s. Coding theorists could attack constructive problems his existence theorems had left open. Engineers could build systems whose details he never supervised. Mathematicians could generalize the framework. Other disciplines could test extensions—sometimes successfully, sometimes carelessly—without waiting for a founder to administer the border.
+
+Withdrawal can therefore create room as well as silence.
+
+The difficulty is telling the two apart.
+
+A founder who steps back may allow successors to flourish.
+
+A founder who leaves work unpublished may also force successors to rediscover results that could have saved them years.
+
+Both can happen in the same career.
+
+That ambiguity is more useful than the legend of the reluctant sage who transcended ambition.
 
 By the 1960s, information theory had grown far beyond the original paper. The theory attracted applications in communications, coding, statistics, linguistics, biology, economics, and other domains. Some extensions were fruitful. Others stretched the language of information until the mathematical object threatened to become a metaphor for everything.
 
