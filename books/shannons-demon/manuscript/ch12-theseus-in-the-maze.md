@@ -114,6 +114,82 @@ It needs some mechanism by which experience alters future action.
 
 Theseus had one.
 
+But even that definition is broad enough to hide important differences.
+
+A machine can change behavior because it memorized one answer.
+
+It can change behavior because it learned a reusable rule.
+
+It can change behavior because an operator changed its settings.
+
+It can change behavior because a statistical model shifted after many examples.
+
+All four are changes caused by experience in some sense. They are not the same kind of learning.
+
+Theseus sits close to the memorization end of that spectrum.
+
+Once it had explored a particular maze, stored state let it avoid repeating the same search. The achievement was real. The transfer was limited. Knowing one route did not give the machine a general theory of labyrinths. It did not infer that walls in a new maze would probably form useful geometric motifs. It did not learn a strategy that could be carried into a city street or a game board.
+
+That boundary matters because modern descriptions of adaptive systems often slide between memorization and generalization as though improvement on a repeated task proves both.
+
+It does not.
+
+A lookup table can appear brilliant if the test repeats the table.
+
+Generalization begins when the environment changes in a way the stored answer does not directly cover and the system still performs well because it captured something more abstract than the original case.
+
+Theseus's configurable maze makes this distinction visible rather than embarrassing.
+
+Rearrange the walls and the old route loses authority.
+
+The machine has to search again.
+
+That is not a defect in the demonstration. It tells us exactly what was learned.
+
+The stored state belonged to a particular environment.
+
+The device therefore separates three things that people casually combine under the word intelligence.
+
+There is exploration: discovering which paths are open.
+
+There is memory: preserving the result of that discovery.
+
+There is generalization: carrying a useful structure from one environment into another.
+
+Theseus clearly displayed the first two. Its claim to the third was modest.
+
+That decomposition is useful because each capability changes the cost of the others.
+
+A system with no memory must keep paying for exploration. A system with perfect memory of obsolete conditions can avoid exploration precisely when exploration is needed. A system with good generalization can reduce search in a new environment, but only if the abstraction it learned actually survives the change.
+
+Learning is therefore not simply accumulation.
+
+It is a policy for deciding what past experience should still control.
+
+This is the harder problem hiding under the charming mouse.
+
+Store too little and the system repeats mistakes.
+
+Store too much without updating and yesterday's success becomes a trap.
+
+Abstract too aggressively and the system may carry a false rule into situations where the details matter.
+
+The toy does not solve those problems. It makes their smallest version observable.
+
+There is also a systems lesson in the fact that the memory sat beneath the board rather than inside the mouse.
+
+The visible agent and the state that governed it were physically separated.
+
+That means asking whether the mouse "knew" the maze is already the wrong granularity. The useful unit is the assembled system: maze, sensing arrangement, magnetic motion, relay logic, stored state, and visible figurine.
+
+Change one component and the behavior changes.
+
+This matters whenever credit or blame is assigned to an interface that depends on hidden infrastructure. A system can look autonomous because the support around it is invisible. Remove the memory store, the sensors, the network, the human input, or the power source and the apparent agent becomes a shell.
+
+Theseus made the support system easy to reveal because Shannon could lift the metaphorical curtain and point beneath the table.
+
+Modern systems often make that boundary harder to see.
+
 The fact is easy to state and hard to keep modest because the history of artificial intelligence encourages ancestry stories. Once a field becomes important, earlier machines are recruited as prophets. Every automaton becomes a robot; every adaptive circuit becomes machine learning; every game program becomes an early version of today's systems.
 
 The continuity is real, but so are the differences.
