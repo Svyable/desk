@@ -103,6 +103,7 @@ try {
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
   try { await import('./desk-cover-actions.js?v=bookself-20260905'); } catch (error) { console.warn('Desk cover action simplification could not be loaded', error); }
   try { await import('./desk-book-opening-handoff.js?v=bookself-20260905'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
+  try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
   const response = await fetchBootstrapResource(appUrl);
   const source = await response.text();
   const adapted = adaptReaderSource(source);
