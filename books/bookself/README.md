@@ -7,7 +7,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 28 of 28 drafted |
-| **Release Review** | Release-cleared subject to mechanical gates; see [research/release-review.md](research/release-review.md) |
+| **Release Review** | Blocked: manuscript-length gate failed on the frozen September 5, 2026 source; see [research/release-review.md](research/release-review.md) |
 
 *The Story of Getting Started*
 
