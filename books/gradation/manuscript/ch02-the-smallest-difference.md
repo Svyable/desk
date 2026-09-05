@@ -236,6 +236,70 @@ The smallest difference is not a universal quantity.
 
 It is a relationship among a change, a baseline, a perceiver, a context and a cost.
 
+Expertise complicates the relationship because perception can itself be trained.
+
+A novice and an expert can receive the same signal and inhabit different gradients of discrimination.
+
+A new radiology resident may see a gray field where an experienced radiologist sees several meaningful structures. A novice coffee drinker may call two cups similar while a trained taster notices differences in acidity, roast, defect and process. A beginning musician hears the note. A skilled musician hears timing, intonation, attack, room, instrument and the other player adjusting in real time.
+
+The physical difference did not grow.
+
+The observer acquired a finer map.
+
+This is one reason expertise can look mystical from the outside. The expert reacts to differences that are below the novice's practical threshold of attention.
+
+But that does not mean the expert possesses a magical sense.
+
+Training changes what is attended to, which cues are trusted, how noisy evidence is integrated and what comparisons are available from memory. The discrimination becomes meaningful because the expert has categories nested inside categories.
+
+This creates a productive paradox for the book.
+
+Categories can destroy gradation.
+
+Categories can also make finer gradation visible.
+
+A person who knows only “bird” may overlook differences among species. Learn species categories and the forest becomes more detailed. Learn age, plumage, call and behavior and the same category system that compresses the world also reveals distinctions that were previously invisible.
+
+The problem is not classification itself.
+
+It is classification at the wrong resolution for the task.
+
+Experts can fail here too.
+
+Fine discrimination inside a specialty can make irrelevant differences feel important. A wine expert can detect a distinction a dinner guest does not value. An engineer can optimize a performance difference users cannot perceive. A financial model can estimate basis points that disappear inside larger behavioral uncertainty.
+
+Resolution has a cost.
+
+More distinctions create more chances to overfit attention to noise.
+
+The right question is not “can we detect the difference?”
+
+It is “does the difference change anything we care about?”
+
+That returns us from perception to consequence.
+
+Measurement technology continually lowers the smallest detectable difference. Sensors become more precise. Genomic assays detect smaller signals. Financial systems record faster price movements. Software logs finer behavior. Wearables sample the body more often.
+
+The detectable gradient becomes denser.
+
+Action cannot become infinitely dense with it.
+
+A person does not need to change behavior every time a wearable reports a tiny deviation. A physician does not need to intervene on every detectable molecular variation. A manager does not need a meeting for every fluctuation in a live dashboard.
+
+As measurement resolution improves, decision resolution has to become more disciplined, not less.
+
+Otherwise the system confuses the ability to see a difference with the obligation to react to it.
+
+That is one of the central dangers of a quantified world.
+
+We are becoming able to notice more than we know how to interpret.
+
+The smallest measurable difference keeps shrinking.
+
+The smallest meaningful difference does not necessarily shrink with it.
+
+That gap is where judgment lives.
+
 Once we understand that, the next problem becomes unavoidable.
 
 If the world offers gradients and perception offers its own uneven sensitivity, how do we decide where one thing ends and another begins?
