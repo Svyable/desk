@@ -84,6 +84,54 @@ The workshop was therefore not proof that constraints do not matter. It was an e
 
 He spent much of it on play.
 
+Discretionary attention is easy to describe as a personality trait and harder to see as infrastructure.
+
+A workshop needs space that can remain occupied by an unfinished project. It needs parts that can be bought without a committee deciding whether each gear has strategic value. It needs time in which a failed mechanism does not immediately become evidence that the time was misallocated. It needs enough continuity that a device can sit half solved until the builder returns to it.
+
+None of those conditions guarantees interesting work.
+
+They merely make certain kinds of work possible.
+
+That distinction matters because Shannon's freedom can otherwise be converted into mythology. The myth says a truly curious person simply finds time. The record suggests something less flattering to meritocratic intuition: curiosity also benefits from slack, money, status, physical room, institutional tolerance, and other people absorbing the demands that do not appear in the photograph.
+
+Shannon had unusual access to several of those things.
+
+He had already produced work that made his intellectual seriousness difficult to question. Bell Labs and MIT gave him professional homes. His family lived with a workshop full of mechanisms whose deadlines were largely self-imposed. A project did not have to win internal funding against a product roadmap every time he wanted to see whether a linkage would behave.
+
+This does not make the play less genuine.
+
+It makes the conditions of play visible.
+
+There is a modern temptation to imitate the surface behavior of unusual thinkers while ignoring the support system underneath. Buy the notebook. Schedule an unstructured afternoon. Put a workshop table in the office. Declare Friday a day for curiosity. These gestures can help, but they do not recreate discretionary attention if every experiment still has to explain itself on Monday morning.
+
+The hard institutional question is not whether play is good.
+
+It is who gets permission to be unproductive, for how long, and under what evidence of eventual value.
+
+Shannon's case does not answer that question fairly for everyone. His success made him a terrible representative of the median researcher. A person who has already changed a field can afford experiments that would look unserious on a junior colleague's annual review.
+
+That asymmetry is part of the story, not an objection to it.
+
+Exploration is often easiest for the people least in need of another breakthrough.
+
+The institution then faces a paradox. It wants surprising discoveries, but surprise is difficult to procure through a process that demands predictable return. It wants young researchers to take risks, but the people with the least status often pay the highest career price for visible failure. It wants senior researchers to use their freedom well, but freedom can also subsidize indulgence.
+
+There is no clean policy hidden in Shannon's workshop.
+
+Slack can produce discovery.
+
+Slack can also produce nothing.
+
+That is what uncertainty means before the result is known.
+
+The useful countercase is the workshop itself. Many of the objects did not become fields, companies, or even papers. If one insists that Shannon's play was valuable only because some of his earlier play led to great work, the argument becomes circular. We celebrate the useless devices because a famous man made them and then cite the devices as proof that useless work makes people famous.
+
+That is not good evidence.
+
+The stronger claim is smaller: Shannon's life shows that one historically important researcher continued to allocate serious effort to technically demanding activities whose value was not professional output, and that the surrounding institutions and household made room for this behavior over a long period.
+
+Whether another institution should buy the same amount of slack is a separate decision.
+
 That choice becomes more revealing beside the career he could have pursued.
 
 After information theory, Shannon had a name capable of attracting students, conferences, committees, consulting, speeches, honors, and endless invitations to explain his own importance. He accepted some honors and maintained academic affiliations, but the public intellectual role never seems to have become the center of his identity.
@@ -109,6 +157,16 @@ That sounds obvious, but biographies of solitary genius often make the household
 Shannon's toys did not assemble themselves after dinner.
 
 Nor did the freedom to build them emerge from nowhere.
+
+The artifacts that survive create another bias.
+
+A machine that reaches a museum becomes legible to history. The hours spent cleaning the workshop do not. A clever mechanism earns a catalog description. The domestic negotiations that allowed it to occupy a room usually do not. A photograph can preserve the inventor beside the object while leaving everyone who sustained the environment outside the frame.
+
+This is not an accusation against Shannon. It is a limitation of evidence.
+
+A careful biography should notice where the archive becomes structurally quiet.
+
+Betty's documented technical background is enough to prevent the lazy assumption that the household contained one technical mind and a supporting cast. It is not enough to assign her a hidden share of specific inventions without proof. The honest position is to keep both facts visible at once.
 
 The house also exposes a tension in the word productivity.
 
