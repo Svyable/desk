@@ -186,6 +186,36 @@ Superior accuracy is evidence that the advice deserves weight.
 
 It is not consent.
 
+Regret itself is also a complicated target.
+
+A person can regret a choice and still believe they had the right to make it. Someone may regret leaving a secure job to start a failed company while remaining glad that the choice was theirs. A parent may regret moving a family and still reject the idea that a predictive system should have blocked the move. A patient may later wish they had accepted treatment without concluding that refusal should have been impossible.
+
+Regret is evidence about welfare.
+
+It is not a retroactive transfer of authority.
+
+The distinction matters because artificial systems will be able to learn from retrospective judgments at scale. They can identify decisions people later describe as mistakes and use those patterns to steer future users away from similar choices.
+
+That can be helpful.
+
+It can also create a moral trap if every later disappointment is treated as proof that earlier freedom was poorly designed.
+
+A life contains losses that are not policy failures.
+
+Love can end.
+
+A vocation can disappoint.
+
+A risk can fail for reasons no one could control.
+
+A commitment can become costly and still have been worth making.
+
+The absence of regret cannot be the objective of moral life unless moral life is reduced to successful prediction management.
+
+This is another reason superior intelligence needs more than a welfare model.
+
+It needs an account of which bad outcomes are grounds for intervention and which are among the costs a free person is entitled to bear.
+
 Medical ethics offers a useful analogy because modern practice has spent decades moving away from strong paternalism toward informed consent while preserving exceptions.
 
 A physician can know more than the patient.
@@ -261,6 +291,46 @@ Not because randomness is good.
 Because authorship includes revision.
 
 A person needs space to choose something their model does not yet understand.
+
+The concept of competence will therefore become more important, not less.
+
+Autonomy depends partly on whether a person can understand the choice, appreciate consequences, reason about alternatives, and express a decision without coercion. Superior intelligence can help assess and support these capacities.
+
+It can also undermine them if competence is defined as agreement with the superior recommendation.
+
+A patient who chooses the option the model dislikes is not necessarily incompetent.
+
+A citizen who gives greater weight to a value the model ranks lower is not necessarily irrational.
+
+A teenager who rejects a parent's AI-generated plan is not necessarily incapable of judgment.
+
+Competence is the capacity to decide, not the capacity to reach the expert's answer.
+
+This distinction is already difficult in medicine and law. It will become harder when the expert can demonstrate that dissent predicts worse outcomes.
+
+Institutions will need to resist outcome-based hindsight.
+
+If a competent person chooses freely and the bad outcome occurs, the occurrence does not prove the original decision process was defective. Otherwise every exercised freedom becomes conditionally valid only if it ends well.
+
+That principle would swallow autonomy after the fact.
+
+A more mature approach separates the quality of the process from the quality of the outcome.
+
+Was the person informed?
+
+Was manipulation limited?
+
+Did they understand the material consequences?
+
+Were they free to choose?
+
+Were the rights of others adequately protected?
+
+Did the institution have authority to impose additional constraints?
+
+These questions can be answered before the future reveals which option worked.
+
+They give freedom something stronger than luck as a foundation.
 
 This becomes politically explosive when collective choices are involved.
 
@@ -345,6 +415,30 @@ Would that be good parenting?
 Not if the goal is to produce an adult capable of agency.
 
 Development requires a zone of survivable wrongness.
+
+The same logic applies to organizations that claim to preserve professional judgment.
+
+A junior engineer will sometimes make a less efficient design choice than the optimization system would. A young physician will sometimes ask for a test the model correctly predicts will be unnecessary. A new manager will sometimes mishandle a conversation that a coaching system could have scripted better.
+
+Institutions should not tolerate unlimited error merely for educational romance.
+
+But if every meaningful judgment is preempted because the model can do it better, the institution eventually stops producing people capable of carrying responsibility when the model fails, conflicts with another authority, or enters a domain where its mandate ends.
+
+Some forms of supervised error are part of succession planning.
+
+This is familiar in aviation, medicine, engineering, and the military. Trainees gain authority gradually. They make decisions under supervision because future competence cannot be downloaded as a policy document.
+
+Superior intelligence may make training feel inefficient.
+
+Why let the apprentice reason when the system already knows?
+
+Because an institution that never allows developing agents to own bounded decisions may discover that it has preserved human titles while eliminating human capacity.
+
+The same principle can apply to citizens. Self-government is not only a mechanism for selecting optimal policy. It is a practice through which people learn to argue, compromise, organize, lose, revise, and accept responsibility for common decisions.
+
+A perfectly benevolent optimizer could produce better outputs while weakening that practice.
+
+Whether the trade is worth making cannot be settled by the optimizer's output score because the practice itself is one of the things being valued.
 
 This may become an important principle beyond childhood.
 
