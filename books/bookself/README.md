@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Complete draft |
+| **Status** | Complete expanded draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 24 of 24 drafted |
+| **Chapters** | 28 of 28 drafted |
 
 *The Story of Getting Started*
 
@@ -16,7 +16,7 @@ The book names the accumulation of that evidence a **bookself**: the shelf of se
 
 The central claim is simple enough to test and broad enough to matter: **beginnings manufacture identity evidence.** The practical consequence is that getting started is less about feeling ready than about designing a first trace small and real enough to survive contact with the world. The moral consequence is larger. A life can contain more than one credible self because evidence can be made again.
 
-This is not a celebration of starting everything. The manuscript gives equal weight to continuation, interruption, abandonment, restarting, quitting well, beginning after success or loss, collective beginnings, and institutions that need to renew themselves. A healthy bookself is not a museum of unfinished ambition. It is a record of experiments that taught their author what deserved another page.
+This is not a celebration of starting everything. The manuscript gives equal weight to continuation, interruption, abandonment, restarting, quitting well, beginning after success or loss, collective beginnings, and institutions that need to renew themselves. The expanded final section also asks who can afford a first try, who institutions permit to be a beginner, and when a beginning creates obligations that cannot ethically be treated as an experiment. A healthy bookself is not a museum of unfinished ambition. It is a record of encounters that taught their author what deserved another page—and what the next page would cost other people.
 
 ## Contents
 
@@ -55,7 +55,13 @@ This is not a celebration of starting everything. The manuscript gives equal wei
 - [x] [Ch 21 — Starting Together](manuscript/ch21-starting-together.md)
 - [x] [Ch 22 — Institutions Need First Pages](manuscript/ch22-institutions-need-first-pages.md)
 - [x] [Ch 23 — The Last First Time](manuscript/ch23-the-last-first-time.md)
+
+### Part VII — The Price and Responsibility of Beginning
 - [x] [Ch 24 — The First Page Again](manuscript/ch24-the-first-page-again.md)
+- [x] [Ch 25 — The Cost of a First Try](manuscript/ch25-the-cost-of-a-first-try.md)
+- [x] [Ch 26 — Who Gets to Be a Beginner](manuscript/ch26-who-gets-to-be-a-beginner.md)
+- [x] [Ch 27 — Beginnings That Bind](manuscript/ch27-beginnings-that-bind.md)
+- [x] [Ch 28 — The Shelf Stays Open](manuscript/ch28-the-shelf-stays-open.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
@@ -74,3 +80,5 @@ This is not a celebration of starting everything. The manuscript gives equal wei
 5. **Prefer small, inspectable claims.** No invented statistics, no universal number of days, no fake neuroscience, and no motivational certainty disguised as research.
 6. **Keep the title literal.** The bookself is a shelf of selves made legible by attempts. It is a metaphor, not a diagnostic category or scientific construct.
 7. **Protect the right to begin again.** The final promise is not endless hustle. It is that identity can remain revisable because action can produce new evidence.
+8. **Price the first try.** Treat time, money, attention, care, health, reputation, and access as real constraints, not excuses to be rhetorically defeated.
+9. **Respect beginnings that bind.** Reversibility is useful for experiments; obligations to children, patients, employees, partners, citizens, and other people require a different standard.
