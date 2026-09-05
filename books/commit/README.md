@@ -18,6 +18,11 @@ The working thesis is that Git became dominant because it made a few unusually d
 
 Those choices escaped their original emergency. What Linus Torvalds began in April 2005 as a fast content tracker for the Linux kernel became the memory substrate under modern software, open-source coordination, cloud infrastructure, package ecosystems, deployment pipelines, and now machine-generated code. The future chapters ask which parts of that design remain fundamental and which parts are beginning to strain under repository scale, cryptographic migration, supply-chain security, signed provenance, partial data, monorepos, and thousands of human and machine authors acting in parallel.
 
+## Publication
+
+- First Shelf edition frozen from Desk source `d46b1b50a854ad165a61f454ed6b24b6422a4bf7`.
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/commit/)
+
 ## Contents
 
 - [x] [Front Matter](manuscript/front-matter.md)
@@ -48,12 +53,6 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Interlude — The Long Archive](manuscript/interlude-long-archive.md)
 - [x] [Ch 22 — The Versioned World](manuscript/ch22-the-versioned-world.md)
 - [x] [Back Matter](manuscript/back-matter.md)
-
-## Publication path
-
-- First Shelf edition prepared from frozen Desk source `93338b79303df27390c9fdcb5609e97dad1f220d`.
-- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/commit/)
-- Desk remains the working edition for future revisions.
 
 ## Research
 
