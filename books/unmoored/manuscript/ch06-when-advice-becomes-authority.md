@@ -74,6 +74,44 @@ This is why the word “advisory” is a poor safeguard by itself.
 
 What matters is the architecture of refusal.
 
+There is also a ratchet hidden inside institutional evidence.
+
+Suppose managers compare employees who followed the system with employees who departed from it. The first group performs better on average.
+
+That sounds like evidence for stronger deference.
+
+Maybe it is.
+
+But departures are rarely random. People are most likely to override a good system in cases that are unusual, ambiguous, poorly represented in the data, or already difficult. The override group can therefore look worse partly because it contains the hardest cases.
+
+If the institution ignores that selection effect, the system's authority can become self-reinforcing.
+
+Follow the model in routine cases. Deviate in exceptional cases. Observe that deviations fail more often. Conclude that deviation itself is the problem. Tighten the override rule. Generate fewer opportunities to learn when dissent was valuable.
+
+A deference ratchet forms.
+
+The same process can occur through liability rather than statistics.
+
+An insurer asks whether a loss occurred after an employee ignored a validated recommendation. A regulator asks why a standard system was not used. A board asks whether management followed the approved process. Each question is reasonable in isolation.
+
+Together they can make conformity the safest personal strategy even when the institution still insists that judgment remains human.
+
+The relevant freedom is not merely the legal permission to disagree.
+
+It is the practical possibility of disagreement without assuming disproportionate personal risk.
+
+That possibility will matter later, when the book turns to the dissent tax. Here the point is simpler: authority often emerges from the allocation of burden.
+
+Who must explain themselves?
+
+Who receives the presumption?
+
+Who is protected if the decision fails?
+
+Who is exposed?
+
+Those questions can reveal an authority structure more accurately than the policy manual.
+
 Suppose a government agency deploys a model to advise on benefit eligibility. The law still assigns decisions to civil servants. The model reads applications, checks records, identifies missing documentation, summarizes relevant rules, and recommends an outcome.
 
 At first the human worker reviews each case independently.
@@ -183,6 +221,26 @@ If it is presumptively controlling, the institution should define the presumptio
 If it has delegated power, the mandate should specify the scope.
 
 If it has authority, the public should know where that authority came from.
+
+Authority should also be capable of moving backward.
+
+Institutions are good at escalation and often bad at de-escalation. A tool earns trust, receives broader deployment, becomes the standard, and accumulates integrations. Then its environment changes. A population shifts. A law changes. A new failure mode appears. A vendor modifies the model. A once-stable metric becomes gameable.
+
+If authority grew out of demonstrated competence, declining competence should matter too.
+
+That requires an institution to preserve the ability to notice decline.
+
+A system that has become the standard cannot be evaluated only by comparing its current decisions with humans trained to rely on it. The comparison becomes circular.
+
+Independent audits, counterfactual review, appeals, external benchmarks, and preserved alternative expertise become forms of institutional memory.
+
+They answer a question authority otherwise suppresses.
+
+What would we know if the system were wrong?
+
+That is not hostility to the model.
+
+It is a condition of justified trust.
 
 The same applies privately.
 
