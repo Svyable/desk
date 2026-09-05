@@ -2,60 +2,104 @@
 
 The obvious answer is Abigail Adams.
 
-That is why she cannot simply be the answer.
+She has the sentence. On March 31, 1776, writing to John Adams while he was in Philadelphia, she asked him to “remember the ladies” as the new government took shape. The line has survived because it catches the contradiction of the founding before the founding had formally occurred. Men preparing to announce that legitimate government rested on consent were also preparing a political order in which most women would have no direct vote over the people who governed them.
 
-On March 31, 1776, three months before the Declaration of Independence, Adams wrote the sentence that history has turned into a flare fired backward from the future: remember the ladies. It is one of the most durable pieces of political correspondence in American memory because it captures the founding contradiction before the founding had even happened. A country preparing to announce that legitimate government rested on consent was also preparing to leave most women without a formal political voice.
+If this book were organized by symbolic force, Adams would be difficult to dislodge. But the clock here begins on July 4, 1776. Her famous warning arrives three months too early. The artificial boundary is useful because it forces a question that commemoration usually avoids: once the United States actually exists, which woman changes what the new country can do?
 
-But the clock of this book begins on July 4.
+Four years into the answer, Esther de Berdt Reed begins knocking on doors.
 
-Once it starts, the strongest first-decade case moves from a letter to a network.
+By the summer of 1780, the Revolution had become a prolonged administrative emergency. Washington’s army had survived Valley Forge, but survival did not mean the supply problem had been solved. Soldiers could go unpaid. Clothing wore out. States struggled to meet requisitions. Paper money lost value. Congress could declare a need more easily than it could satisfy one. The Continental Army was fighting Britain while the American state was still learning the mechanics of becoming a state.
 
-By 1780 the Revolution was old enough to have lost some of its romance and young enough to fail. George Washington’s army had endured shortages of food, clothing, pay, and supplies. The new nation had declarations and governments, but it did not yet possess the administrative capacity that later Americans would take for granted. A military crisis could become a logistics crisis and then a political crisis because the state itself was unfinished.
+Reed occupied an unusual place inside that unfinished republic. Born in London in 1746, she had grown up in a prosperous British family and married Joseph Reed, an American lawyer who would become a Revolutionary political figure and president of Pennsylvania’s Supreme Executive Council. The war divided her loyalties in the most literal way. Her family remained in Britain while her husband became a prominent American patriot. By 1780, she had lived through evacuation, financial strain, repeated pregnancies, political turbulence, and the ordinary labor of maintaining a household during a war that had made ordinary life uncertain.
 
-Esther de Berdt Reed entered that gap.
+Her response was not to write a private check.
 
-Reed was not born in America. She was born in London, married Joseph Reed, and became first lady of Pennsylvania while the Revolution separated her from much of her English family. In 1780, shortly after giving birth to her sixth child, she helped organize the Ladies Association of Philadelphia. A broadside titled *The Sentiments of an American Woman*, believed to have been written by Reed, argued that women’s patriotism should be active rather than decorative. The argument mattered. The mechanism mattered more.
+In June 1780, a broadside called *The Sentiments of an American Woman* appeared in Philadelphia. It argued that women should participate actively in the Revolutionary cause and proposed a collective contribution for the army. The language was patriotic rather than revolutionary in the modern feminist sense. Reed did not ask women to hold office or rewrite the Constitution. She worked through the legitimacy available to women in her class and time: sacrifice, domestic virtue, service to soldiers, devotion to the nation.
 
-Women canvassed Philadelphia systematically, going house to house and soliciting contributions for Washington’s troops. The surviving subscription records name 1,645 contributors. The effort collected a vast sum in depreciated paper currency as well as specie and other contributions. Reed corresponded with Washington over how the money should be used. The women preferred an extraordinary gift; Washington wanted shirts. The practical need won. Linen was purchased. Women turned political conviction into cloth.
+The organizational design was much more radical than the language made it sound.
 
-The campaign did not remain local. Similar efforts appeared in Maryland, New Jersey, and Virginia, encouraged by Reed and Martha Washington and adapted to local circumstances.
+Philadelphia was divided into districts. At least three dozen women canvassed systematically, going from house to house to solicit contributions. The surviving subscription lists later published by Reed’s grandson record 1,645 contributors. Some gave large amounts. Many gave modest ones. Contributions arrived in depreciated paper currency and in specie; one donor offered a pair of leather breeches. Reed wrote to George Washington on July 4, 1780, reporting what the women had collected and explaining that they had contacted women in other states in hopes that the plan would spread.
 
-That is the reason Reed wins the first decade.
+The date feels almost written for this book. Four years after independence, a woman who had been born British was writing the commander of the Continental Army to report that a women-led civilian network had raised money for his soldiers and was trying to make the method national.
 
-She demonstrates a form of American power before women possess conventional political rights: organized civic capacity. The women were not casting ballots or holding military command. They were identifying a state failure, constructing a distributed collection system, mobilizing households, moving resources, negotiating with the commander in chief, and creating an example other states could copy.
+The total has often been quoted in ways that invite false precision. Reed’s letter reported 200,580 dollars plus £625.6.8 in specie, which she rendered as a total of 300,634 dollars in paper money. Those numbers are real historical figures and poor candidates for a breezy modern-dollar conversion. Revolutionary currency was depreciating severely; exchange rates, purchasing power, commodity prices, and the distinction between paper and specie make any simple multiplication misleading. The more important fact is comparative. The campaign was large enough to attract sustained public notice, large enough for Washington to take seriously, and organized enough to become a model beyond Philadelphia.
 
-It is tempting to describe the work as charity. That word is too weak if it causes us to miss the institutional invention. Charity is what a person gives. A network is what people can do together that they could not do separately.
+The women initially wanted to give the soldiers something extraordinary, a reward beyond what governments were supposed to provide. Washington had a more practical request. He wanted shirts.
 
-The newborn republic needed networks badly.
+The disagreement is useful because it strips sentimentality from the episode. The women imagined an expression of gratitude. The commander saw an inventory problem. Soldiers needed clothing. After discussion, the campaign’s money went into linen and the production of shirts.
 
-Its formal institutions were thin. Credit was uncertain. Transportation was slow. Information moved at human speed. The Army depended on states, contractors, local production, personal relationships, and improvisation. In that environment, a house-to-house women’s campaign could matter not because it was quaint but because it supplied a capability the government itself struggled to provide reliably.
+That is where the historical importance becomes clearer. The Ladies Association was not simply a patriotic pageant or a wartime charity drive. It performed several functions the young government could not perform reliably enough on its own. It gathered information about willingness to contribute, collected resources across neighborhoods, consolidated those resources, negotiated their use with military leadership, procured material, and organized labor to turn material into something soldiers could wear.
 
-Reed did not invent female political activity. Women had boycotted British goods, managed farms and businesses, sustained households, carried intelligence, followed armies, nursed soldiers, produced cloth, and argued about independence long before 1780. Nor did she act alone. Sarah Franklin Bache, Benjamin Franklin’s daughter, continued the Philadelphia effort after Reed died suddenly in September 1780. Hundreds of canvassers and more than a thousand named contributors supplied the scale. Washington’s priorities shaped the final use.
+Charity describes motive. Logistics describes consequence.
 
-The one-woman lens would become dishonest if it made those women disappear.
+The distinction matters because American women had already been economically and politically active throughout the Revolutionary crisis. They participated in boycotts of British goods. They increased household production when imports became scarce. They managed farms and businesses when men were absent. They nursed soldiers, followed armies, carried intelligence, housed troops, endured occupation, and made decisions about allegiance under pressure. Indigenous women, Black women, enslaved women, free women, camp followers, merchants’ wives, farm women, servants, and elite political wives experienced the war differently and contributed under vastly unequal conditions.
 
-The stronger claim is narrower: Reed helped turn diffuse participation into visible organization at a moment when the country’s survival still depended on improvisation.
+No single Philadelphia organization can stand in for all of that.
 
-Abigail Adams remains the strongest runner-up because her language names the constitutional problem with extraordinary clarity. But language and consequence are not identical. Her famous warning was not translated into the founding legal code. Reed’s network, by contrast, moved money, material, labor, and imitation through the wartime republic.
+Reed’s importance lies in turning one kind of women’s participation into a visible, named, replicable civic system.
 
-That difference establishes the book’s method.
+The replication happened quickly. The Philadelphia campaign circulated in print. Women in other states organized related efforts. Reed corresponded with organizers and enlisted the prestige of Martha Washington. The association’s reach should not be exaggerated into a modern national nonprofit with uniform chapters, paid staff, or centralized reporting. Eighteenth-century communication and transport imposed their own scale. Still, the idea traveled: women could organize collectively, canvass systematically, raise substantial resources, and address a national military need.
 
-The most quotable woman is not automatically the most important woman.
+That is political capacity even when nobody calls it politics.
 
-The first decade also reveals a pattern that will repeat for 250 years. American women often acquire political consequence before institutions admit that what they are doing is politics. They organize consumption before they vote. They organize relief before they run agencies. They organize moral campaigns before parties know how to contain them. They build schools before professions welcome them. They create information networks before offices hire them to manage information.
+The early republic depended on voluntary associations partly because government was thin. Americans built churches, mutual-aid societies, fire companies, libraries, charitable associations, banks, local committees, and civic groups that did work later generations might expect a public agency or professional organization to perform. Women’s associations were especially significant because they offered routes into collective public action before formal political rights expanded.
 
-Permission frequently arrives after capacity.
+The mechanism recurs throughout this book. A socially permitted activity becomes a school for a less permitted one. A woman may be allowed to protect a household and discover that protecting households requires lobbying. She may be allowed to teach children and discover that schooling requires budgets, standards, and public authority. She may be allowed to care for wounded soldiers and discover that care requires transportation, procurement, records, and organizational command. The boundary around women’s “sphere” is repeatedly crossed by doing the assigned job seriously enough.
 
-Reed’s broadside framed women’s action in the patriotic language available to her. She did not ask for an equal constitution. She did not build a feminist organization in the modern sense. Her campaign worked partly because it could be described as an extension of women’s sacrifice for husbands, sons, soldiers, and country.
+Reed’s canvass worked this way. Women could plausibly frame the campaign as service to soldiers. Yet a systematic house-to-house canvass teaches almost every basic skill of political organizing. Someone has to divide territory, recruit canvassers, identify likely resistance, make an argument to strangers, record contributions, reconcile accounts, keep people motivated, report progress, use newspapers, communicate with other jurisdictions, and maintain legitimacy when handling other people’s money.
 
-That is not a reason to shrink the achievement. It is a clue to how political change often begins.
+The women were not practicing for politics in the sense that they expected a later campaign manager to grade them. They were doing politics in a form their society could recognize as respectable female patriotism.
 
-People use the legitimacy they have to build the capacity they do not yet officially possess.
+This is why Abigail Adams remains the right runner-up and the wrong winner.
 
-The women of Philadelphia entered homes because the home was considered their sphere. They used that access to assemble a citywide resource network. They spoke the language of service and produced an act of organization.
+Her 1776 letter stated the constitutional problem with extraordinary economy. John Adams’s reply was teasing and dismissive; the founding settlement did not “remember the ladies” by giving women a durable national political claim. New Jersey briefly permitted some property-owning women to vote under its early constitution, but the state narrowed voting to white men in 1807. The federal Constitution left voting qualifications largely to the states. Adams’s sentence survived far better than the reform it requested.
 
-America’s first decade did not yet have a woman citizen in the modern constitutional sense.
+Reed, by contrast, built something that operated in the world immediately in front of her. It moved resources during a war. It created a public example. It widened the range of action respectable women could plausibly undertake for the nation.
 
-It already had women building the country’s missing machinery.
+That does not make Reed a feminist before feminism or a democrat before mass democracy. Her world was stratified by race, wealth, legal status, and class. The Ladies Association included prominent women and ordinary contributors, but the political legitimacy of elite white women did not extend equally to enslaved women or free Black women. The Revolutionary cause itself promised liberty while protecting slavery. Women raising money for the Continental Army were supporting a war whose eventual constitutional order would leave many of them without formal representation and leave hundreds of thousands of Black people enslaved.
 
-**Verdict:** Esther de Berdt Reed wins 1776–1786 because she converted female patriotism from private sentiment into replicable national civic infrastructure at a moment when the Revolution’s survival depended on exactly that kind of capacity.
+Reed’s own household cannot be abstracted from the period’s hierarchies. Joseph Reed was a major public figure; Esther’s access to Washington and to elite Philadelphia networks came partly through marriage and class. Her campaign did not emerge from nowhere, and fame did not distribute itself evenly among the women who performed the work.
+
+The clearest example is Sarah Franklin Bache.
+
+Reed did not live to finish the campaign. She died on September 18, 1780, only thirty-three years old, after an illness that followed the birth of her sixth child earlier that year. Bache, Benjamin Franklin’s daughter, assumed leadership of the Philadelphia effort and oversaw much of the shirt-making that transformed the funds into supplies for soldiers.
+
+If the book measured completion alone, Bache might take the chapter. Reed gets the edge because the original public argument, organizing plan, statewide visibility, correspondence, and effort to spread the model are inseparable from her leadership. But the handoff matters. The association did not collapse when its most visible organizer died. That is one sign that she had built an organization rather than staged an event.
+
+The shirts matter too because they resist the way women’s labor disappears when history looks only for speeches, battles, laws, and elections. A shirt is mundane. An army requires thousands of mundane objects. Somebody has to grow or import the fiber, spin or buy the thread, weave or buy the linen, cut the cloth, sew the garment, transport it, distribute it, replace it when it wears out, and raise the money when the official supply chain fails.
+
+National survival is full of things too ordinary for monuments.
+
+The campaign also reveals the young republic’s dependence on trust. There was no modern national tax administration capable of effortlessly reallocating resources toward military need. Continental finances were unstable. Individuals had to decide whether a public request deserved sacrifice. A canvasser at the door was not simply collecting cash; she was converting social trust into national capacity.
+
+Women were unusually positioned to do that work inside household networks. The same social structure that excluded them from formal politics gave them information and access within neighborhoods. Reed’s innovation was to aggregate that household-level access into a citywide operation.
+
+Seen this way, the first decade of the United States begins with a problem the country will never fully solve: where does public capacity come from when formal institutions are insufficient?
+
+Sometimes from government.
+
+Sometimes from markets.
+
+Sometimes from families, churches, clubs, professions, unions, firms, charities, movements, and networks that occupy the space between the individual and the state.
+
+Women would become central builders of that middle layer. Temperance organizations would train political organizers. Settlement houses would train social workers and administrators. women’s clubs would finance schools, libraries, public health, and civil-rights work. Nursing associations would professionalize care. Suffrage organizations would build nationwide political networks before their members could vote nationally. The recurring story is not that women politely waited for citizenship to arrive. They accumulated civic capability in advance of formal permission.
+
+Esther de Berdt Reed gives the pattern an early, unusually clear form.
+
+There is a temptation, especially in anniversary histories, to turn the women of the Revolution into evidence that the Revolution was more inclusive than it was. That would be a misuse of Reed. Her campaign does not prove that women possessed equal citizenship. It proves the opposite in a more interesting way. A woman could organize a major national-support effort for the army while the political system still had no intention of giving her an equal formal voice.
+
+Capability and recognition were out of sequence.
+
+That sequence helps explain why the argument for women’s rights would eventually become so difficult to contain. Once women had organized schools, churches, reform societies, abolition campaigns, charities, publications, and wartime relief systems, claims of political incapacity became harder to defend. The country repeatedly relied on women’s public competence before admitting what that competence implied.
+
+The first chapter therefore does not begin with the most famous feminist sentence of the founding era. It begins with a ledger, a canvass, a letter to Washington, bolts of linen, and women making rounds through Philadelphia.
+
+That choice is the book’s promise.
+
+Importance will not be awarded to the person we most enjoy quoting. It will be awarded, provisionally and argumentatively, to the person whose action changed what happened next.
+
+Abigail Adams gave America a line it would remember once it was finally ready to hear it.
+
+Esther de Berdt Reed gave the Continental Army shirts while the country was still deciding whether it would survive long enough to have a memory.
+
+**Verdict:** Esther de Berdt Reed wins 1776–1786 because she converted female patriotism from private sentiment into replicable civic infrastructure. Her 1780 campaign organized a systematic canvass, moved substantial resources toward an urgent military need, survived her own death through institutional handoff, and demonstrated that American women could build national capacity years before the political order was prepared to recognize them as full political actors.
