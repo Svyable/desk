@@ -398,6 +398,58 @@ A subsidy justified by a temporary bottleneck can become permanent rent.
 
 The ability to withdraw support is as important as the ability to announce it.
 
+There is a harder objection here than ordinary complaints about government inefficiency.
+
+A state can become so frightened of dependence that it starts purchasing the appearance of sovereignty.
+
+It can duplicate capacity that trusted trade already provides more cheaply.
+
+It can subsidize a domestic supplier whose survival depends permanently on protection.
+
+It can freeze today's architecture in place just as the technology stack is changing.
+
+It can make resilience more expensive while making innovation less competitive.
+
+A country that spends ten units to eliminate a one-unit vulnerability has not necessarily become safer.
+
+It may simply have moved fragility into the budget.
+
+This is why resilience needs a counterfactual.
+
+What failure is being insured against?
+
+How likely is it?
+
+How severe would it be?
+
+How quickly could substitutes appear?
+
+Would inventories, reciprocal alliances, interoperability, or long-term contracts solve the problem more cheaply than domestic production?
+
+Would the protected domestic industry remain useful if the technical standard changes?
+
+Would concentration inside one national champion create a different single point of failure?
+
+Strategic capacity should be judged against alternatives, not against a fantasy of total independence.
+
+The same discipline applies to national-security arguments.
+
+Once a sector receives the word *security*, ordinary scrutiny can weaken.
+
+Costs become harder to question.
+
+Timelines become classified or politically insulated.
+
+Incumbents can present their own balance sheets as public resilience.
+
+That does not make the security concern false.
+
+It makes measurement more important.
+
+A serious policy should be able to say what capability must survive, for how long, under which disruption, at what acceptable cost, and by what substitute routes.
+
+If it cannot answer those questions, “strategic” may be doing more rhetorical work than analytical work.
+
 This is where political institutions become part of technological competitiveness.
 
 A country that can make a decision, test it, observe results, and change course may outperform a country with more money but weaker feedback.
