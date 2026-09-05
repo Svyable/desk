@@ -68,6 +68,40 @@ A rule such as “trust the familiar brand” may be perfectly sensible when the
 
 No shortcut is rational outside context.
 
+There is a higher-order form of rationality hiding here.
+
+Not deciding correctly.
+
+Deciding how much deciding this decision deserves.
+
+Most choices are not worth maximal analysis. Some are.
+
+Spending thirty minutes comparing two brands of paper towels can be less rational than accepting a mediocre default. Spending thirty seconds on a contract that can reshape the next five years can be irrational even if the final choice happens to work out.
+
+The problem is that importance is not always visible before the choice.
+
+A trivial-looking email changes a relationship.
+
+A routine medical symptom turns out not to be routine.
+
+A small permission gives an application access it keeps for years.
+
+A temporary workaround becomes infrastructure.
+
+Rationality therefore includes triage: noticing which questions deserve to escape automatic mode.
+
+This is exactly where machines can help and hurt.
+
+A good system can detect stakes a tired person missed.
+
+A bad system can make a consequential decision feel routine because it presents the same polished interface for everything.
+
+The visual grammar of optimization flattens importance.
+
+One recommendation card can contain a restaurant, a job applicant, a medical alert, a credit decision, or a military target. The interface can make them all feel like rows in a queue.
+
+The human task is partly to refuse that flattening.
+
 This is why the comparison between human and machine rationality is so often poorly framed.
 
 We ask: who is better at deciding?
@@ -140,6 +174,42 @@ A medical model is not simply good. It has sensitivity, specificity, calibration
 
 A recommender is not simply intelligent. It is recommending under a target.
 
+There is another value choice hidden inside error itself.
+
+Two systems can have the same overall accuracy and create very different worlds.
+
+One may tolerate more false positives.
+
+Another may tolerate more false negatives.
+
+The difference is not merely statistical.
+
+It decides who carries uncertainty.
+
+A fraud system that blocks more legitimate customers may reduce one class of loss by making ordinary people absorb more suspicion. A medical screening system can be tuned to catch more cases at the cost of more unnecessary follow-up. A moderation system can remove more harmful content while also removing more lawful or benign speech. A hiring screen can reject more marginal candidates in order to reduce the number of weak hires.
+
+There is no accuracy number that tells us which burden is morally correct.
+
+The threshold is policy wearing mathematics.
+
+This connects rationality to Chapter 17’s problem of proof.
+
+When uncertainty is unavoidable, rational design is not only about minimizing expected error.
+
+It is about deciding who gets the benefit of doubt.
+
+Who can recover from a mistake.
+
+Who is powerful enough to appeal.
+
+Who experiences the false positive as an inconvenience and who experiences it as a closed door.
+
+A perfectly calibrated system does not relieve an institution of these choices.
+
+Calibration can tell you what a score means.
+
+It cannot tell you what you owe the person at that score.
+
 Humans do something similar when we call ourselves rational.
 
 We rarely mention the target.
@@ -193,6 +263,32 @@ Can choose one value and thereby discover another mattered more.
 This is not noise around rationality.
 
 It is what rationality has to operate inside.
+
+Some values do not even behave well as quantities in a tradeoff.
+
+A promise can function as a constraint rather than a preference.
+
+A right can function as a boundary rather than a weight.
+
+A professional duty can rule out an otherwise efficient option.
+
+A person may say: I do not care how attractive the expected value is; this action is not available to me.
+
+Optimization culture finds these statements frustrating because they remove options from comparison.
+
+Human life depends on them.
+
+We already met this in the distinction between preference and commitment. A preference says more of this is better, all else equal. A commitment can say this is not for sale.
+
+That does not make commitments automatically wise. People bind themselves to destructive rules too. Institutions can protect unjust constraints by calling them principles.
+
+But a theory of rationality that recognizes only tradable preferences will misunderstand why people sometimes accept obvious losses rather than violate a line they regard as constitutive.
+
+The rational question is not always “what maximizes?”
+
+Sometimes it is “what remains permitted?”
+
+This matters for machine agents because an optimizer trained to negotiate everything may eventually negotiate the things the person did not mean to put on the table.
 
 The machine becomes useful here not because it eliminates values but because it can separate parts of the problem.
 
@@ -303,6 +399,52 @@ Do not accept a contract above this risk threshold without asking.
 These are rules written by one version of the person for another.
 
 They are rationality made institutional inside the self.
+
+The machine age adds another temptation: reasons themselves become cheap.
+
+A language model can produce a persuasive explanation for almost any plausible choice.
+
+Take the job: growth, income, opportunity.
+
+Do not take the job: family, autonomy, risk.
+
+Move: reinvention, lower costs, new community.
+
+Stay: continuity, support network, hidden switching costs.
+
+The ability to articulate reasons used to be at least weak evidence that somebody had thought through a decision.
+
+It was never strong evidence. Chapter 6 already dismantled that comfort.
+
+Generated explanation weakens it further.
+
+Now a person can make the decision first and obtain an elegant rationale afterward at almost zero cost.
+
+This does not make the rationale false.
+
+It makes fluency even less diagnostic of deliberation.
+
+An institution can do the same thing.
+
+A system produces a recommendation. Another system produces the explanation. The explanation is coherent, individualized, and legally polished. Everyone downstream encounters reasons without encountering the actual process that selected the outcome.
+
+Rationality becomes theater when explanation is optimized separately from decision.
+
+The sentence “we had reasons” is no longer enough.
+
+Were the reasons causally connected to the choice?
+
+Would changing the reason change the outcome?
+
+Could contrary evidence matter?
+
+Was the explanation available before the decision or generated to defend it afterward?
+
+Can somebody name the tradeoff that was accepted?
+
+This is not a demand for perfect transparency into every model or mind. Humans cannot provide that either.
+
+It is a demand that reasons remain capable of doing work rather than merely decorating authority.
 
 The funny thing is that the more we study human irrationality, the less plausible the isolated rational chooser becomes and the more impressive civilization looks.
 
@@ -466,7 +608,9 @@ You are not rational because you can produce a reason.
 
 You are not rational because a model agrees with you.
 
-You are rational, when you are, because you can use reasons under constraint, notice when a shortcut no longer fits, distinguish a proxy from a purpose, and revise an objective without pretending the old objective was never yours.
+You are not rational because every value can be converted into one score.
+
+You are rational, when you are, because you can use reasons under constraint, notice when a shortcut no longer fits, distinguish a proxy from a purpose, decide which uncertainties deserve deeper thought, and revise an objective without pretending the old objective was never yours.
 
 That is not perfect rationality.
 
