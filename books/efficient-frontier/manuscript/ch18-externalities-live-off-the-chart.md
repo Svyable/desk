@@ -209,3 +209,71 @@ Where did the cost go?
 If the answer is nowhere, you may have discovered real progress.
 
 If the answer is someone else, later, the graph was never finished.
+
+The size of an externality is not enough to choose an instrument. The shape matters.
+
+A continuous harm that can be measured reasonably well is different from a catastrophic harm that occurs after a threshold. A localized nuisance is different from a global pollutant. A reversible spillover is different from an irreversible one. A harm caused by millions of tiny actors is different from one caused by a handful of identifiable firms.
+
+The institution should fit the topology.
+
+A price works best when actors can respond at the margin and measurement is good enough. A standard can make more sense when society wants a floor that should not be traded against ordinary gains. Liability can work when causation can be established after harm and the responsible party can pay. Information can help when people can choose and the main failure is ignorance. Public provision can make sense where benefits are diffuse and exclusion is costly.
+
+Every instrument creates its own externalities.
+
+A tax requires administration and can distort adjacent behavior. A standard can freeze one technology. Liability can create litigation cost and defensive behavior. Disclosure can overload people with information. Subsidies can attract rent seeking. Public provision can crowd out experimentation or suffer political allocation.
+
+Internalization is not the disappearance of cost.
+
+It is the deliberate relocation of cost to improve incentives.
+
+That suggests an enough line for externality policy. The goal is not perfect internalization at any cost. The goal is enough alignment that the residual spillover is smaller than the transaction and enforcement cost required to remove it further.
+
+This is a Coasean intuition without pretending transaction costs are zero.
+
+When bargaining is cheap, rights are clear, parties are few, and effects are observable, private agreement can sometimes move the frontier. Neighbors can negotiate access. Firms can contract over quality and delay. Departments can price shared services. When parties are numerous, information asymmetric, bargaining power uneven, or harms hard to trace, private negotiation becomes less capable.
+
+The transaction-cost frontier determines whether the bargain is feasible.
+
+Compensation belongs here too. A development project can create broad gains and concentrated local harms. A reform can increase total surplus and impose losses on a specific group. Compensation can convert a contested move into a wider feasible set if the transfer is credible and administratively possible.
+
+But compensation has three common failure modes.
+
+It can arrive too late. It can compensate the wrong proxy. It can be promised politically and omitted operationally.
+
+A worker losing a job today does not receive equivalent value from a hypothetical regional gain ten years later. A neighborhood affected by noise may not be made whole by a citywide average benefit. A supplier asked to finance a buyer's working capital may not care that the combined firms are more efficient in aggregate.
+
+The location and timing of the cost matter.
+
+Externalities also create moral hazard when one party is insulated from a downside and changes behavior. Insurance can pool valuable risk and weaken incentives if the insured actor does not bear enough marginal cost. Limited liability can encourage useful entrepreneurship and alter risk-taking. Bailout expectations can stabilize a crisis and change future behavior.
+
+These are frontier effects of risk allocation.
+
+The problem is not transfer itself. Risk should often sit with the party best able to diversify or absorb it. The design question is whether enough of the marginal consequence remains with the actor capable of changing the behavior that creates the risk.
+
+This is why deductibles, covenants, capital requirements, warranties, and performance guarantees exist in different domains. They divide risk rather than assigning all of it to one side.
+
+The same logic appears inside a company. If a sales team receives all the credit for revenue and none of the support cost, it will rationally sell complexity. If a platform team bears every migration cost imposed on product teams, it may never make necessary changes. Shared accountability is an attempt to keep enough of the marginal consequence near the decision without making every team responsible for everything.
+
+There is no perfect boundary.
+
+The boundary should be designed so the actor with control over the mechanism sees enough of the consequence to care.
+
+Externality policy becomes especially difficult when the affected party does not yet exist. Future residents, future taxpayers, future customers, and future generations cannot bargain directly. Long-lived capital and environmental decisions can therefore make today's frontier look generous by assigning future costs a weak voice.
+
+Discounting is necessary for comparison and dangerous as concealment.
+
+A sensitivity table is often more honest than one authoritative present value. Show how the result changes under several plausible discount rates and explain why the chosen rate fits the decision. If the entire recommendation reverses under modest changes, the moral and economic weight of the future is load-bearing and should be visible.
+
+A final test is reversibility of the spillover. Some externalities can be compensated or corrected later. Others destroy options. Contamination, extinction, loss of irreplaceable cultural assets, or institutional trust can be expensive or impossible to restore.
+
+Irreversibility raises the burden of evidence because later compensation may not recreate the lost frontier.
+
+This is where externalities meet option value.
+
+The party making the choice may have an option to proceed later. The party bearing an irreversible harm may not have an option to recover later.
+
+A responsible frontier gives those asymmetries more than an asterisk.
+
+Where did the cost go is the first question.
+
+Can the recipient avoid it, price it, bargain over it, recover from it, and be represented before it occurs are the next five.

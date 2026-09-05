@@ -205,3 +205,57 @@ If not, the frontier may be sophisticated and ungoverned.
 The graph begins before the first data point.
 
 It begins with the decision about whose world is allowed onto the page.
+
+Representation creates another frontier before the model begins. A stakeholder can be physically present in a process and still be poorly represented if the process requires expertise, time, language, legal resources, or confidence the stakeholder does not have. Open participation is not the same as equal ability to place an axis on the chart.
+
+This is why institutions use representatives, advocates, ombudsmen, public-interest groups, unions, professional bodies, and procedural rights. These mechanisms can become bureaucratic or captured. Their purpose is to reduce the gap between being affected and being legible to the decision.
+
+Representation itself has an efficiency cost.
+
+A process that hears every possible claimant individually may never finish. A process that hears only organized actors can systematically miss diffuse interests. Future people, nonusers, small suppliers, and people who would enter a market if rules changed are especially difficult because they are absent from the room by construction.
+
+The frontier therefore needs a representation rule proportionate to consequence.
+
+Who is affected materially? Who can already protect their own interest through price, contract, or exit? Who cannot? Which absent group would predictably experience a cost large enough to change the choice?
+
+The goal is not universal veto power. It is to stop low bargaining power from being mistaken for low value.
+
+Compensation is one way to handle a frontier with winners and losers. If a project creates large aggregate gains and concentrated losses, the analysis may show that compensation is possible. The political and institutional question is whether it will actually happen.
+
+Potential compensation and paid compensation are different points.
+
+This distinction matters because economists and managers can casually treat a compensable loss as solved. A factory closure can raise total productivity while imposing severe local costs. A land-use change can create regional gains and property-level losses. A product migration can improve the system while imposing switching costs on a minority of customers.
+
+If compensation is part of the argument, put the compensation mechanism inside the feasible set. Who pays, who qualifies, when is payment made, how is loss measured, and what transaction cost does the mechanism create?
+
+Otherwise the compensation is a hypothetical axis that exists only long enough to make the aggregate result look cleaner.
+
+There is a parallel problem with consent. A person may accept a trade voluntarily and still face weak alternatives. Voluntary exchange is meaningful information about preference under constraint. It does not tell us that the surrounding constraint deserves to remain unchanged.
+
+This distinction prevents two opposite mistakes. One is to dismiss every accepted bargain as coercion because alternatives were imperfect. The other is to treat acceptance as proof that no institutional improvement is possible.
+
+The frontier can respect choice and still ask whether a wider feasible set would produce better choices.
+
+Constitutions also need jurisdiction. A value can be protected at the wrong level. A local team may impose a security rule whose system-wide cost is large. A national rule may override useful local variation. A company principle may be interpreted by every manager differently.
+
+Who can add an axis? Who can turn an objective into a constraint? Who can waive it? Who can revise it?
+
+Those are decision-right questions around the model itself.
+
+A good governance system separates ordinary optimization from constitutional change. The product team can optimize inside privacy constraints. The privacy constraint is revised through a different process with broader authority. A city agency can optimize a route inside statutory accessibility rules. The legislature or court, not the route planner, changes the legal floor.
+
+This separation protects both speed and legitimacy.
+
+If every local choice can reopen first principles, nothing stabilizes. If no higher-level process can revise the principles, obsolete constraints accumulate.
+
+The constitution needs a revision frontier of its own.
+
+The final practical rule is to annotate the axes with provenance. For each material objective or constraint, record where it came from: law, contract, customer evidence, safety standard, executive preference, public mandate, inferred proxy, or historical convention.
+
+Provenance changes how a disagreement should be resolved.
+
+A legal constraint requires legal interpretation or legal change. A customer preference calls for evidence. An executive preference can be owned as judgment. A historical convention deserves a mechanism check. A proxy deserves validation against the outcome it represents.
+
+The graph becomes more honest when every axis carries the answer to one small question.
+
+Who gave this line authority?
