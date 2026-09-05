@@ -197,3 +197,57 @@ The frontier is a picture of possibility. Debt can counterfeit possibility by pu
 Sometimes that is exactly what a good decision requires.
 
 But borrowed frontier should never be mistaken for free frontier.
+
+Stocks create a measurement problem because many do not decline smoothly. A machine can look healthy until a component fails. Trust can remain outwardly stable until a threshold is crossed and behavior changes abruptly. Expertise can leave in a handful of resignations. A security posture can appear adequate until one unpatched dependency becomes the route of attack.
+
+The balance sheet of frontier debt can therefore look empty shortly before the payment is due.
+
+This is why lagging indicators are not enough. If you wait for outages to measure maintenance debt, customer departures to measure trust debt, or failed projects to measure skill debt, the signal arrives after the feasible set has already narrowed.
+
+Leading indicators are imperfect but useful. Maintenance age, backlog growth, change-failure rate, turnover among experienced people, unresolved exceptions, concentration of knowledge, repeated schedule surges, and the ratio of planned to emergency work can reveal whether a stock is being consumed.
+
+The exact indicator differs by system. The principle is to measure the condition of the asset, not only the output flowing from it.
+
+There is also a maturity structure to frontier debt.
+
+Some borrowing comes due quickly. Sleep debt and overloaded queues can punish a system within days. Some arrives over quarters, such as deferred software maintenance or supplier resentment. Some compounds over decades, such as infrastructure condition, environmental depletion, or underinvestment in workforce training.
+
+Different maturities need different governance.
+
+A team can manage short debt through an explicit recovery sprint. A company may need multi-year capital planning for physical assets. A government needs institutions capable of representing beneficiaries and costs beyond an electoral cycle. A person needs enough self-knowledge to distinguish a hard season from a permanent operating model.
+
+The danger rises when the decision maker's horizon is shorter than the debt's maturity.
+
+This is familiar in finance because lenders price maturity and covenant risk. Frontier debt often lacks the counterparty who insists on terms. Nobody automatically sends the organization a statement saying its maintenance principal is rising or its trust covenant has been breached.
+
+That means governance has to create the creditor artificially.
+
+An audit committee, reliability review, safety board, maintenance reserve, technical-debt budget, employee survey, environmental standard, or public reporting requirement can play that role. The mechanism gives the future a representative in the current decision.
+
+Bad governance turns this into ritual. The debt register becomes a list nobody funds. The employee survey records exhaustion and changes nothing. The maintenance reserve is raided every year. The existence of a metric is not repayment.
+
+A credible debt process has seniority.
+
+Some portion of future capacity is actually reserved to restore the stock, and consuming that reserve requires an explicit decision rather than silent drift.
+
+This suggests a sharper distinction between productive and consumptive frontier debt. Productive borrowing temporarily worsens a future stock in order to create a capability that is expected to rebuild the stock or expand the frontier. Consumptive borrowing spends the stock to maintain an output level or appearance without changing the mechanism.
+
+A team works a difficult month to finish automation that removes recurring toil: potentially productive. A team works a difficult month because the staffing model is permanently inadequate: consumptive. A city defers minor work while reconstructing an asset to a lower-maintenance standard: potentially productive. A city defers work every year to make the operating budget fit: consumptive.
+
+The label still requires evidence. A project does not become productive because management says transformation.
+
+The test is whether the future repayment capacity actually improves.
+
+Frontier debt also creates a temptation to refinance rather than repay. A company adds people to manage a brittle process instead of simplifying it. A household raises income to support fixed costs that keep rising. A government borrows again to cover obligations created by earlier borrowing. A software team adds monitoring around exceptions instead of removing the exceptions.
+
+Refinancing can be rational. It can also hide that the underlying frontier never moved.
+
+The cleanest repayment often requires accepting worse current metrics for a time. Maintenance shuts down production. Refactoring slows feature work. Training reduces immediate output. Rest lowers billable hours. Rebuilding trust may require giving the other party terms that look generous compared with the recent past.
+
+This is why frontier debt becomes politically sticky. Repayment looks like deterioration to a dashboard trained on the borrowed level.
+
+A mature system marks the borrowed point as borrowed when it is created. Then returning to sustainable output is not reported as failure. It is the planned end of financing.
+
+Borrowing is a tool.
+
+The mistake is using borrowed performance to redraw the baseline and then acting surprised when the future refuses to service the loan.

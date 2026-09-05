@@ -24,7 +24,7 @@ The difference is often visible in what happens after the decision. Omitted deta
 
 The hidden axis does not disappear because the spreadsheet lacks a column.
 
-Business history is full of measures that became dangerous when promoted from partial indicators to definitions of success. Unit cost can ignore quality. Revenue can ignore margin. Margin can ignore capital intensity. utilization can ignore waiting and resilience. Output can ignore injury. Engagement can ignore whether attention was obtained in a way users later regret. Headcount can ignore capability. Customer acquisition cost can ignore retention. On-time launch can ignore what was launched.
+Business history is full of measures that became dangerous when promoted from partial indicators to definitions of success. Unit cost can ignore quality. Revenue can ignore margin. Margin can ignore capital intensity. Utilization can ignore waiting and resilience. Output can ignore injury. Engagement can ignore whether attention was obtained in a way users later regret. Headcount can ignore capability. Customer acquisition cost can ignore retention. On-time launch can ignore what was launched.
 
 Each metric can be useful in context. Each becomes hazardous when the surrounding objectives fade from view.
 
@@ -183,3 +183,49 @@ The art is not completeness. It is material completeness.
 You will never put every consequence on the chart. You can still refuse to let the most convenient omissions define efficiency.
 
 Before admiring a frontier, ask what had to disappear for the curve to look that good.
+
+There is a practical reason hidden axes stay hidden even when nobody benefits from deception: some dimensions are expensive to observe.
+
+A factory knows unit output every hour and may learn long-run worker injury patterns only after months. A software team can measure deployment frequency automatically and may struggle to measure cognitive load created by the architecture. A school receives test scores on schedule and gets much weaker signals about curiosity, confidence, or whether students learned to avoid difficult subjects. What is cheap to sense acquires institutional weight.
+
+Measurement cost creates a bias toward visible axes.
+
+A good decision system should therefore distinguish "important" from "well instrumented." When a dimension matters but measurement is weak, the answer is not to assign it zero. Use a proxy cautiously, qualitative evidence, ranges, thresholds, audits, or dedicated sampling. Weak measurement should widen uncertainty, not erase the objective.
+
+This is where many dashboards become accidental constitutions. What can be counted weekly becomes governable. What arrives through stories, delayed outcomes, or edge cases becomes negotiable. Managers then confuse the reporting cadence with the ontology of the business.
+
+One remedy is a shadow dashboard: a short list of material dimensions that are not yet measured well enough to belong in the primary scorecard. The point is not to create a second bureaucracy. It is to keep the organization aware of what its main instrumentation does not see.
+
+For a customer-support organization, the primary dashboard might show response time, resolution, cost, and satisfaction. The shadow list might include customer effort, employee burnout, unresolved edge cases, or the extent to which automation is teaching users to abandon the channel. If one shadow signal becomes material, it graduates into a better measure or constraint.
+
+This is a temporary home for ignorance rather than a permanent excuse.
+
+Hidden axes also create asymmetric learning. When an omitted cost is borne by the decision maker, it tends to return quickly. A product team that creates its own on-call burden learns about reliability. A procurement group that carries inventory cost learns about lead-time risk. A manager whose own calendar absorbs the coordination burden learns the cost of organizational complexity.
+
+When the cost lands elsewhere, feedback is slower.
+
+That suggests an organizational design principle: where possible, keep decision rights close enough to consequences that feedback can travel. This is not always possible or fair. Some decisions necessarily affect many people. But extreme separation between chooser and cost bearer is a machine for hidden axes.
+
+Internal chargebacks, shared metrics, joint ownership, liability, and customer feedback are all imperfect attempts to reconnect the graph.
+
+There is also a category of axes that are intentionally kept separate because combining them would be morally misleading. Safety, rights, consent, and legal compliance are often handled as constraints rather than weighted objectives. The model does not say a sufficiently large profit can compensate for violating the floor. It removes that region from the feasible set.
+
+This is not anti-economic. It is a different representation of preference.
+
+The danger comes when a hard value is put into the score with a small weight because the spreadsheet requires every criterion to fit the same formula. The arithmetic creates trades the institution never meant to authorize.
+
+Conversely, a preference can be mislabeled a right or constraint to escape scrutiny. "We must keep this process" may really mean "we dislike the transition." "Customers require this" may mean one large customer requested it. "The regulator requires it" may be an interpretation rather than the text.
+
+Constraint inflation is the mirror image of hidden axes. Instead of removing an objective, it removes alternatives from consideration before they are tested.
+
+A mature frontier process audits both omissions and absolutes.
+
+What are we failing to count?
+
+What have we declared untradeable without checking why?
+
+Both questions matter because the purpose of the model is not to maximize the number of variables. It is to preserve the consequences that can change the decision while keeping the problem small enough to act on.
+
+There is no final dashboard.
+
+There is only a current model and a duty to notice when reality keeps sending invoices to a column that does not exist.
