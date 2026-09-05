@@ -120,6 +120,80 @@ Who decides when a reversible experiment has become an irreversible policy?
 
 Those questions can migrate too. But while they remain unresolved, they are where value collects.
 
+There is a second problem hiding inside option abundance.
+
+The options are not independent.
+
+Ask a system for ten strategies and the ten answers may share the same blind spot because they were produced from the same model, the same context, the same prompt assumptions, and the same missing fact.
+
+Quantity can create the appearance of diversity without the substance of it.
+
+This matters because human decision-makers often use agreement as evidence. If several analysts independently reach the same conclusion, confidence may increase. But ten generated memos from one underlying system are not ten independent analysts simply because the wording differs.
+
+The same problem appears when one model critiques another output from the same family of assumptions.
+
+Self-critique can be useful. A second pass catches obvious mistakes. Separate prompts can expose contradictions. Different models or tools can provide genuinely different checks.
+
+But multiplying generated review is not the same as multiplying independent evidence.
+
+A system can produce an argument, a critique of the argument, a rebuttal to the critique, and a final synthesis while never encountering the missing fact outside its context.
+
+The organization can feel surrounded by analysis and still be epistemically alone.
+
+This is why judgment sometimes begins by asking for a different kind of evidence rather than another opinion.
+
+Open the contract.
+
+Run the test.
+
+Call the customer.
+
+Inspect the machine.
+
+Check the source record.
+
+Look at the raw data.
+
+Ask the person who was there.
+
+Artificial abundance makes textual and analytical transformations cheap. It does not make reality itself infinitely redundant.
+
+The expert decision-maker learns to notice when the next useful step is not another generated argument.
+
+This becomes more important when organizations build chains of agents that can keep a problem in motion. One system proposes. Another evaluates. Another searches. Another executes. The workflow may resolve routine cases with almost no human attention.
+
+That is the point.
+
+But automation can also create momentum.
+
+Once a workflow has spent compute, gathered evidence, and produced a polished recommendation, stopping it can feel like waste. The artifact becomes an anchor. People begin reviewing whether the proposed action is acceptable rather than whether the organization is solving the right problem.
+
+Judgment therefore includes the right to reset the question.
+
+A customer asks for a faster approval process. The organization can optimize the approval workflow and never ask whether the approval is necessary.
+
+A manager asks which applicants should advance. The system can rank them and never ask whether the job description excludes people who could perform the work.
+
+A company asks which customers are likely to churn. The model can improve prediction and never ask why the product is making them leave.
+
+A government asks which applications are suspicious. The system can improve classification and never ask whether the rule generating the applications is too complex.
+
+Abundant intelligence is excellent at accepting a problem statement.
+
+Judgment sometimes earns its value by refusing the problem statement.
+
+This is not uniquely human either. Systems can be designed to challenge objectives, search for alternative framings, or identify inconsistencies between a requested task and a higher-level goal.
+
+The same recursion appears again.
+
+Once reframing becomes reliable, it becomes another capability that can scale.
+
+Then scarcity moves toward whoever chooses among the reframings, or toward the institutional rule that chooses automatically.
+
+The important point is not where the recursion ends.
+
+It is that every layer of automation should make us look for the next decision that has become comparatively expensive.
+
 The Stanford AI Index's 2026 work on responsible AI is useful here mainly as a warning against false confidence. Evaluations continue to show wide variation in model reliability, including hallucination behavior, and results depend heavily on how tasks and benchmarks are framed. A benchmark percentage is not an ordinary-user error rate. It cannot tell a hospital, bank, school, or software company exactly how often its own system will fail.
 
 That uncertainty is itself part of the judgment problem.
@@ -139,6 +213,34 @@ The person who can reliably identify the consequential uncertainty becomes a for
 The future expert may spend less time producing the answer and more time designing the conditions under which an answer is allowed to matter.
 
 That is not glamorous work. It looks like thresholds, checklists, audits, simulations, red teams, exception queues, contracts, and occasionally the unpopular decision to wait.
+
+Exception queues are especially revealing.
+
+Automation is often sold through the average case. Most transactions are routine. Most messages are ordinary. Most claims fall within familiar patterns. Handle those automatically and send the unusual cases to people.
+
+The economics can work beautifully until the queue becomes the job.
+
+Every case remaining in the human queue is there precisely because it was difficult to automate. The average difficulty of human work rises as easy cases leave.
+
+The worker may handle fewer cases and experience more strain.
+
+The manager may see automation rates climbing and assume the remaining team has spare capacity, even though the residual work is more ambiguous, adversarial, emotionally charged, or consequential than the work that disappeared.
+
+Artificial abundance can therefore create a hidden intensity effect.
+
+The quantity of human work falls while the judgment density rises.
+
+This matters for staffing and training. You cannot infer human capacity from the number of cases after automation if the composition of the cases changed.
+
+A support team that once solved password resets and angry billing disputes may automate the resets and retain the disputes. A fraud team may automate obvious cases and receive a smaller stream of sophisticated anomalies. A clinician may automate routine documentation and spend a greater share of the day on patients whose situations resist standardization.
+
+This is not an argument against automation.
+
+It is an argument for measuring the work that remains.
+
+The scarce human hour may become more expensive because every minute contains a higher concentration of unresolved uncertainty.
+
+That is exactly what a bottleneck does.
 
 But abundance changes glamour too.
 
