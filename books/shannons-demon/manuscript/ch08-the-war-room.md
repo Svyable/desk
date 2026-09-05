@@ -76,6 +76,12 @@ If anything, it exposes them.
 
 A perfect system with impossible key distribution is not a useful answer to every communications problem. Wartime organizations had to move secret material, authenticate users, maintain equipment, train operators, survive mistakes, and communicate under pressure. Every elegant property eventually met a human procedure.
 
+Shannon’s framework also gave the attacker a more precise place in the theory. A cryptanalyst does not merely “try to break the code.” The attacker has observations and prior knowledge. The relevant question becomes how much those observations reduce uncertainty about the possible plaintexts or key. That is a far cleaner statement of the contest than a catalog of tricks.
+
+It also makes the structure of ordinary language a technical liability. If messages were completely unpredictable strings, an interceptor would have less to exploit. Real language is constrained. Some strings are overwhelmingly more plausible than others. As ciphertext accumulates, that structure can help eliminate candidate interpretations.
+
+Shannon described this using concepts such as equivocation and redundancy. The terminology matters less than the shift in viewpoint. Secrecy is partly about preserving a range of plausible alternatives in the mind of the interceptor. Redundancy narrows that range because human messages are not drawn evenly from every sequence the alphabet permits.
+
 This is where a heroic account of Shannon alone would become misleading.
 
 Bell Labs was an institution, not a private study. Wartime communications involved engineers, mathematicians, military organizations, operators, manufacturers, and existing cryptographic traditions. Shannon did not invent secrecy. He did not invent cryptanalysis. He entered a field with deep history and urgent practitioners.

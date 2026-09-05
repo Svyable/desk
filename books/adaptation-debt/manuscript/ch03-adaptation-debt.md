@@ -106,6 +106,44 @@ The debt is not what the old system cost.
 
 It is what the rest of the organization learned to expect from it.
 
+That also distinguishes adaptation debt from ordinary switching cost.
+
+A switching cost can exist on day one.
+
+A new payroll system may charge an implementation fee. A supplier contract may include a termination payment. A cloud provider may make data export expensive. A worker changing professions may need a new credential. These can all make change costly without telling us much about adaptation.
+
+Adaptation debt is narrower.
+
+The cost has to be historically produced by successful dependence.
+
+The system worked well enough, or lasted long enough, that additional choices accumulated around it. A replacement therefore has to compete not only with the incumbent system but with a growing web of complements that the incumbent helped create.
+
+This is why the direction of the cost matters.
+
+If migration costs stay roughly constant while the old system continues producing value, the organization may simply have a stable switching cost.
+
+If each year of successful use adds interfaces, specialized skills, customer promises, regulatory classifications, data, contracts, or physical complements faster than it adds future flexibility, then the obligation is thickening.
+
+That is closer to debt accumulation.
+
+The distinction prevents the concept from becoming a label for every inconvenient exit.
+
+It also makes the idea measurable in principle, even if not with one universal number.
+
+The useful question is not, “How expensive would it be to change?”
+
+Almost every serious system is expensive to change.
+
+The more revealing question is, “How is the cost of changing evolving relative to the value of staying?”
+
+That comparison introduces time.
+
+A system can remain profitable while its adaptation position deteriorates.
+
+A factory can still generate cash while retrofit becomes harder because suppliers for alternative technology are scarce. A software platform can still grow while every quarter adds more undocumented integrations. A public program can still deliver benefits while every year creates another administrative layer whose removal would require a separate transition.
+
+The current system can be healthy and the debt can still be rising.
+
 This is why adaptation debt is distributed.
 
 You cannot usually find it in one place.
@@ -241,6 +279,44 @@ Sometimes it is to pay early.
 Sometimes the supposed debt is actually an asset whose value critics have misunderstood.
 
 The task is diagnosis.
+
+The analogy becomes more useful when we ask what counts as debt service.
+
+Sometimes an organization is already paying adaptation debt every year without naming the payment.
+
+It keeps an old interface alive for a shrinking number of customers. It pays premiums for scarce parts. It retains specialists whose knowledge is needed only because the legacy system still exists. It runs reconciliation teams between old and new data models. It subsidizes a low-growth product because another product depends on it. It maintains exceptions whose original rationale has disappeared.
+
+These are carrying costs.
+
+They can be perfectly rational.
+
+The mistake is to classify them as ordinary operating expense forever and never ask whether they are payments on a commitment the organization intends to keep.
+
+A legacy system can therefore look cheap because its adaptation costs are scattered across budgets.
+
+The infrastructure team pays for hardware.
+
+Operations pays for manual reconciliation.
+
+Customer success pays for exceptions.
+
+Risk pays for compensating controls.
+
+Finance pays for duplicate reporting.
+
+Human resources pays retention premiums for scarce expertise.
+
+No single line item says adaptation debt.
+
+The total can still shape strategy.
+
+This is one reason modernization programs are often surprised by their own economics. The replacement project receives one visible budget. The old system's carrying cost is distributed across the institution and has become normal.
+
+The new project looks expensive because its costs are concentrated.
+
+The old path looks cheap because its costs are habitual.
+
+A serious diagnosis has to compare like with like.
 
 The academic literature provides several lenses for the diagnosis.
 
