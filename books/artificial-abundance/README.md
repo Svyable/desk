@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 16 of 24 drafted |
+| **Chapters**  | 20 of 24 drafted |
 
 *When Intelligence Becomes Cheap, What Becomes Priceless?*
 
@@ -31,13 +31,13 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [x] [Ch 14 — The Human Signal](manuscript/ch14-the-human-signal.md)
 - [x] [Ch 15 — Friction as a Feature](manuscript/ch15-friction-as-a-feature.md)
 - [x] [Ch 16 — The Status of Difficulty](manuscript/ch16-the-status-of-difficulty.md)
+- [x] [Ch 17 — Reality Gets Expensive](manuscript/ch17-reality-gets-expensive.md)
+- [x] [Ch 18 — The Physical Premium](manuscript/ch18-the-physical-premium.md)
+- [x] [Ch 19 — The Meaning Shortage](manuscript/ch19-the-meaning-shortage.md)
+- [x] [Ch 20 — Agency After Assistance](manuscript/ch20-agency-after-assistance.md)
 
 ## Planned chapters
 
-17. Reality Gets Expensive
-18. The Physical Premium
-19. The Meaning Shortage
-20. Agency After Assistance
 21. Institutions for Plenty
 22. The Politics of Plenty
 23. Stay Expensively Human
