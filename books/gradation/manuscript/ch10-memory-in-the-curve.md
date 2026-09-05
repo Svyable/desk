@@ -305,3 +305,101 @@ A bridge burned on purpose should be worth more than the option it destroys.
 The curve remembers whether we want it to or not.
 
 That is why the next part of the book turns to human gradients, where memory, comparison and rank make the mathematics less clean and the consequences more intimate.
+
+There is an analytical trap hiding in the word “memory.”
+
+Persistence is not proof of hysteresis.
+
+A variable can stay high after a shock because the original cause is still present, because a new outside cause replaced it, because measurement is slow, or because the system was always sluggish. None of those requires the stronger claim that the path itself changed the response.
+
+Suppose unemployment remains elevated after a recession. That persistence might reflect damaged worker-firm matches, lost skills, changed wage bargaining, weak investment or discouraged workers. Those are path-dependent mechanisms. It might also reflect a second negative shock or a continuing policy constraint. The chart alone cannot tell us which.
+
+The same caution applies to a person, a neighborhood or an ecosystem.
+
+“History matters” can become an all-purpose explanation if the mechanism is not named.
+
+The useful test is counterfactual.
+
+If two systems arrive at the same measured current conditions by different routes, do they behave differently going forward?
+
+If yes, what carries the difference?
+
+A depleted balance sheet?
+
+An installed base?
+
+A changed network?
+
+A learned habit?
+
+A missing species?
+
+A reputation?
+
+A legal obligation?
+
+A physical state variable not captured in the headline measure?
+
+The word “memory” should point to something that still exists.
+
+That discipline matters because path dependence can otherwise become fatalism.
+
+People hear that history shapes the present and translate it into “the present cannot change.”
+
+But many path-dependent systems are changeable. They are simply asymmetric.
+
+A city built around cars can invest in transit, housing density and safer streets. The existing infrastructure raises the cost and slows the transition. It does not make transition metaphysically impossible.
+
+A company with obsolete software can migrate. The installed base, integrations and user habits increase switching cost. They do not make migration inconceivable.
+
+A person with a habit can change it. The existing cues, rewards and identity make the path back different from the path in.
+
+Hysteresis is not destiny.
+
+It is a price on reversal.
+
+Sometimes the right response is to pay it.
+
+Sometimes the price reveals that prevention would have been cheaper.
+
+This gives option value a moral dimension.
+
+Keeping a decision reversible can be worth money even when reversal never occurs. A trial period, modular architecture, pilot program, exit clause, backup supplier or staged investment buys information while preserving alternatives.
+
+The value is invisible when the first plan works.
+
+That invisibility resembles slack.
+
+Unused reversibility looks inefficient until the moment a course correction is needed.
+
+The temptation is to optimize it away.
+
+Lock the contract because the price is lower.
+
+Consolidate onto one supplier because it is simpler.
+
+Remove the rollback path because maintenance is annoying.
+
+Standardize every team because variation costs money.
+
+Each move can improve ordinary efficiency while making the reverse journey steeper.
+
+The path becomes cheaper in one direction and more expensive in the other.
+
+That asymmetry should be part of the original decision, not discovered after commitment.
+
+There are also moments when irreversibility is the feature.
+
+A credible commitment can coordinate behavior precisely because it is costly to reverse. A long-term contract enables investment. A constitution can make transient majorities less able to rewrite basic rules. A marriage vow, a tenure system, a bond covenant or an infrastructure standard can create confidence because the parties believe tomorrow will not reopen every decision made today.
+
+Optionality is not always superior to commitment.
+
+A world with no memory would also have no trust in continuity.
+
+The judgment is about which decisions should remember.
+
+Some systems need a loop.
+
+Some need a reset button.
+
+Some need the courage to know the difference.
