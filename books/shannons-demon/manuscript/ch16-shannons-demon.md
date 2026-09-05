@@ -108,6 +108,8 @@ A persistently falling asset can make repeated buying look less like disciplined
 
 Correlations can rise in crises, reducing the diversification that made rebalancing useful.
 
+Liquidity can vanish exactly when the rule asks for a trade.
+
 A strategy that looks attractive in one distribution can fail when the distribution changes.
 
 The mechanism is real.
@@ -134,13 +136,13 @@ This is not Shannon's Demon.
 
 The two ideas are related because both care about multiplicative growth under uncertainty, but they solve different problems.
 
-Kelly asks: given an edge, how much of your capital should you risk if your objective is to maximize long-run growth without treating ruin as an acceptable side effect?
+Kelly asks: given an edge and a probability model, how much of your capital should you risk if your objective is long-run multiplicative growth?
 
-The demon asks: can a disciplined allocation and rebalancing rule extract growth from fluctuations between components?
+The demon asks: what happens to a portfolio when a rule repeatedly restores a target mixture as component prices move?
 
-One is about position size relative to an advantage.
+One requires a specified advantage over the offered odds. The other can be illustrated without a forecast at all. One chooses position size relative to an estimated opportunity. The other changes exposure because the portfolio has drifted away from a chosen allocation.
 
-The other is about maintaining a target mixture as prices move.
+Treating them as the same idea would erase the thing each one contributes.
 
 They meet in the same place: repeated decisions where arithmetic means are less important than compounded paths.
 
@@ -183,6 +185,8 @@ With the roulette computer, the hidden structure was physical predictability ins
 With Kelly, the hidden structure was the relationship between information and multiplicative capital growth.
 
 With rebalancing, the hidden structure was the path dependence created by maintaining proportions through volatility.
+
+The ancestry among those ideas is real, but ancestry is not identity. Shannon's information theory supplied mathematical language that Kelly could reinterpret in a betting model. That does not make every later portfolio-rebalancing effect an information-theory theorem. The demon needs to stand on its own arithmetic rather than borrowing authority from the word information.
 
 None of these eliminates uncertainty.
 
@@ -261,6 +265,14 @@ This is where the demon stops being a toy and becomes a governance problem.
 A policy must specify what can be owned, target weights, tolerance bands, transaction costs, tax constraints, liquidity needs, and the conditions under which an asset is removed from the system entirely.
 
 Without those decisions, “rebalance” is not a strategy. It is a verb without an object.
+
+The failure cases are easiest to see by making the toy model less friendly.
+
+Let the volatile asset fall repeatedly because its underlying business is permanently impaired. The rule buys more as the evidence worsens. Let two risky assets become highly correlated in a crisis. The supposed diversification offers less material to rebalance. Let transaction costs widen as liquidity disappears. The trades that look harmless on paper become expensive exactly when they are largest. Let the probability model used to justify aggressive Kelly sizing be wrong. The mathematically optimal fraction for the estimated edge can become an efficient way to magnify an estimation error.
+
+None of these examples refutes rebalancing or Kelly's theorem. They locate the assumptions.
+
+That is the more durable habit.
 
 Shannon's own attraction to this kind of problem did not turn him into an evangelist for one portfolio recipe. That restraint is worth preserving because later finance culture loves converting thought experiments into branded formulas.
 
