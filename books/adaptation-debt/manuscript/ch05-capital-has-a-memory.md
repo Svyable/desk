@@ -10,7 +10,29 @@ The striking part was how much of the old world remained economically alive.
 
 GAO identified eleven critical systems, spread across ten agencies, that most needed modernization. They supported functions tied to health care, tax processing, critical infrastructure, and national security. Some relied on programming languages with shrinking pools of experienced maintainers. Some depended on unsupported hardware or software. Several carried known cybersecurity vulnerabilities. Yet they were not abandoned museum pieces. They were still doing work.
 
-Together, those eleven systems cost hundreds of millions of dollars a year to operate and maintain.
+Together, those eleven systems cost about $754 million a year to operate and maintain.
+
+The ages ranged from roughly twenty-three to sixty years.
+
+The range matters because it weakens the easy story that legacy is simply a synonym for ancient. A twenty-three-year-old system and a sixty-year-old system can both become hard to replace for the same reason: enough mission activity has learned to expect them.
+
+GAO's profiles also show how capital memory migrates into labor and risk. Eight of the eleven systems used legacy programming languages. The two Treasury systems in the selected group relied on COBOL and assembly language, and GAO highlighted the shrinking number of people available with those skills. The Environmental Protection Agency system in the group had obsolete hardware that was no longer supported by manufacturers and known vulnerabilities that could not be fully remediated without modernization.
+
+The physical or technical asset is therefore only the first layer.
+
+The second layer is the maintenance ecology.
+
+Who still knows how to repair it?
+
+Who still manufactures the part?
+
+Who still supports the operating system?
+
+Who still remembers what a strange field means?
+
+Who can distinguish a harmless warning from the beginning of a failure?
+
+An asset becomes strategically older when its ecology begins disappearing even if the asset itself keeps working.
 
 The federal government’s broader IT budget made the pattern even clearer. Agencies typically reported spending most of their annual IT money not on building the next generation, but on operating and maintaining what already existed.
 
@@ -54,6 +76,14 @@ Energy systems make this visible because their assets are enormous and slow.
 
 A power station or industrial plant can be built to operate for decades. The International Energy Agency has long emphasized a simple problem in energy transitions: existing assets carry future emissions with them. If a plant continues operating through its normal useful life, its physical existence constrains the path toward lower emissions unless it is retrofitted, operated differently, displaced, or retired early.
 
+The IEA's 2020 analysis of carbon capture made the installed-base logic explicit. In its transition scenario, the early emphasis was on retrofitting existing fossil-fuel power and industrial plants rather than pretending the system would be rebuilt instantly on clean sites. The scenario was not a prediction and should not be treated as one. Its value here is structural: even a model designed around a radically different emissions future had to begin with assets already standing.
+
+That is what capital memory does to scenarios.
+
+It changes the first move.
+
+The future can be different while the transition still starts inside the present.
+
 The constraint is not ideological.
 
 It is mechanical and financial.
@@ -63,6 +93,72 @@ Retiring early may mean writing off productive equipment before its expected eco
 This distinction matters because public debates often compare technologies as if every decision begins on an empty field.
 
 Very few important systems do.
+
+Buildings make the point without requiring a power plant.
+
+The U.S. Department of Energy's residential building-stock work does not describe one universal retrofit. It segments the existing stock by building type, geography, technical package, and cost. That is necessary because “replace the building” is rarely the decision households, owners, utilities, or policymakers actually face.
+
+The existing structure already embodies dozens of choices.
+
+Climate.
+
+Envelope.
+
+Heating system.
+
+Electrical service.
+
+Floor plan.
+
+Water heating.
+
+Roof condition.
+
+Local labor.
+
+Utility rates.
+
+Financing.
+
+Tenant or owner incentives.
+
+A retrofit has to encounter those choices one building at a time.
+
+This is why a technology can be inexpensive at the equipment level and still spread slowly through a building stock.
+
+The device is not the project.
+
+The project includes assessment, installation, electrical or structural work, permits, disruption, financing, contractor capacity, and the question of whether another major component should be replaced at the same time.
+
+Natural turnover therefore becomes strategically important.
+
+A furnace that fails creates a decision window.
+
+A roof replacement creates a different one.
+
+A building sale can create another.
+
+A major renovation can allow several systems to change together.
+
+The same retrofit that looks expensive as a stand-alone intervention may become much cheaper when paired with work that had to happen anyway.
+
+Capital memory has a calendar.
+
+Ignore the calendar and adaptation is unnecessarily expensive.
+
+Wait for every natural boundary and adaptation may be too slow.
+
+That tension is more useful than the command to replace old assets faster.
+
+The question is which turnover moments should be accelerated, which should be used when they arrive, and which assets still create enough value to justify another cycle.
+
+This applies to industrial equipment as well.
+
+A plant shutdown for scheduled maintenance can create a window for retrofit that does not exist during peak production. A contract renewal can create a supplier-switching window. A fleet replacement cycle can change propulsion without discarding vehicles halfway through useful life. A data-center refresh can alter architecture while avoiding an emergency migration. A lease expiration can make relocation or redesign cheaper.
+
+The balance sheet sees depreciation schedules.
+
+Adaptation needs to see decision windows.
 
 A city does not choose transportation from scratch. It has streets, rights-of-way, stations, parking structures, bridges, commuting patterns, zoning rules, and neighborhoods whose property values partly reflect access to the existing network.
 
