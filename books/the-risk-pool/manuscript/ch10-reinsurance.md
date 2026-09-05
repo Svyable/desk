@@ -12,6 +12,16 @@ The insurer buys reinsurance.
 
 Reinsurance is insurance for insurers, though the phrase hides the sophistication of the market. A primary insurer can transfer specified portions of its portfolio risk to a reinsurer in exchange for premium. The agreement may cover a share of every policy, losses above an attachment point, catastrophe losses across an event, or more specialized combinations.
 
+There are two distinctions worth learning early because they organize much of the market.
+
+The first is treaty versus facultative reinsurance. A treaty applies automatically to a defined class of business that fits the agreement. If a property insurer has a treaty covering a specified book of homeowners policies, qualifying risks enter the treaty under its terms without the parties renegotiating each house individually. Facultative reinsurance works one risk at a time. The primary insurer offers a particular factory, tower, aircraft, energy project, or other exposure to a reinsurer, and the reinsurer can accept or reject that specific risk.
+
+The difference is partly about transaction cost. Treaty reinsurance is infrastructure for a portfolio. Facultative reinsurance is bespoke capital for an exposure that may be too large, unusual, or awkward for the automatic program.
+
+The second distinction is proportional versus non-proportional protection. In a proportional agreement, the reinsurer takes an agreed share of premium and an agreed share of loss. A fifty-percent quota share is conceptually simple: the primary insurer cedes part of the economics of the underlying book and the reinsurer participates alongside it. In excess-of-loss reinsurance, the primary insurer keeps losses up to a defined retention and the reinsurer pays above that point, subject to a limit. This is the structure behind much of the catastrophe layering discussed later in the chapter.
+
+These are not mutually exclusive labels. A treaty can be proportional or excess-of-loss. Facultative cover can also be structured in different ways. The vocabulary matters because two insurers can both say they are "buying reinsurance" while doing economically different things. One may be sharing a book from the first dollar. Another may be buying protection only for the rare part of the loss distribution that could threaten capital.
+
 The purpose is not to make the primary insurer harmless.
 
 It is to make extreme loss survivable.

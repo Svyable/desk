@@ -94,7 +94,7 @@
 
 **Claim.** Reinsurance globalizes local catastrophe risk and influences retail availability by changing the marginal cost of the tail carried by primary insurers.
 
-**Evidence anchors.** S04, S17, S18, S30.
+**Evidence anchors.** S04, S17, S18, S30, S37.
 
 **Counterevidence / caution.** Primary insurers choose retention structures and can inefficiently buy reinsurance; wholesale pricing should not be accepted uncritically as a pass-through cost.
 
@@ -104,7 +104,7 @@
 
 **Claim.** Insurance-linked securities broaden catastrophe capacity by moving defined insurance risk into capital markets; trigger design trades speed and transparency against basis risk.
 
-**Evidence anchors.** S17, S18, S25, S26.
+**Evidence anchors.** S17, S18, S25, S26, S38.
 
 **Counterevidence / caution.** High issuance does not prove protection is cheap or adequate. Shared catastrophe models can synchronize market beliefs.
 
@@ -214,7 +214,7 @@
 
 **Claim.** Insurance remains valuable not because every risk is privately insurable but because it creates a layered discipline for deciding what households retain, what private pools carry, what global capital absorbs and what the state ultimately guarantees.
 
-**Evidence anchors.** S01-S36 as synthesis.
+**Evidence anchors.** S01-S38 as synthesis.
 
 **Counterevidence / caution.** Insurance can become extractive, opaque or politically distorted; the institution should not be treated as a neutral oracle or substitute for regulation, prevention, redistribution or public investment.
 

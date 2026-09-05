@@ -28,6 +28,18 @@ TRIA did not nationalize commercial insurance.
 
 It built a federal loss-sharing layer behind it.
 
+That distinction is worth slowing down for because public involvement in insurance takes several different forms that are easy to collapse into the phrase government insurance.
+
+A public primary insurer actually writes policies and stands in the first contractual position with the policyholder. A residual-market plan can do something similar for customers the voluntary market will not take, often with special eligibility, pricing, assessment, or governance rules. A catastrophe backstop such as TRIA is different. Private insurers remain in front. They issue the policies, collect premium, underwrite the business, pay covered claims, and retain a defined amount of loss before the federal layer can respond.
+
+The backstop therefore does not replace the insurance market beneath it. It changes the maximum loss that market has to contemplate on its own balance sheet.
+
+TRIA's machinery makes the point concrete. An insurer has a deductible tied to its prior-year eligible premium. The program itself has an industry trigger, and the federal government shares only qualifying losses above the applicable private layers and subject to the program's rules and cap. Treasury also has recoupment authority: depending on how losses fall relative to statutory thresholds, some federal outlays can later be recovered through surcharges on commercial property-and-casualty policies.
+
+This means the federal promise is neither a conventional annual appropriation nor a blank check. It is a contingent layer with attachment conditions, private co-participation, a limit, and mechanisms that can push part of the cost back into the insurance market after the event.
+
+That architecture matters for incentives. The private insurer cannot hand every terrorism claim to Washington from the first dollar. It still has capital at risk. The federal government is not merely reimbursing whatever the market chooses to write. Participation in the backstop sits inside a contract and statutory structure designed to preserve a private first-loss layer while making the truly extreme tail financeable.
+
 Private insurers continued to write coverage. They retained losses up to specified deductibles and co-shares. Above defined thresholds, the federal government would share qualifying losses from certified acts of terrorism, subject to program rules and an overall cap.
 
 The state became a reinsurer of last resort.
