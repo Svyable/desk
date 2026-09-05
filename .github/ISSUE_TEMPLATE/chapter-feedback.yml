@@ -54,6 +54,7 @@ body:
         - running-on-full
         - scaling-laws
         - second-guess
+        - shannons-demon
         - silent-cartel
         - single-points-of-failure
         - source-code
