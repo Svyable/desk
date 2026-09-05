@@ -393,3 +393,115 @@ That may be the most important difference between a machine that merely classifi
 Classification ends when the label is assigned.
 
 Governance has to watch what the label does next.
+
+A mature threshold machine also needs the ability not to decide.
+
+That sounds like failure because automation is usually sold as decisiveness. Give the system an input and expect an answer.
+
+But uncertainty is not eliminated by demanding a label.
+
+If a medical model has seen nothing like the current patient, if a fraud model is receiving data from a new product category, if a vision system encounters weather outside its training range, forcing the ordinary threshold can convert ignorance into confidence.
+
+Abstention is a legitimate output.
+
+“I do not know; route this case elsewhere” can be the most accurate classification a system makes.
+
+Human experts use this move constantly. A general practitioner refers. A judge recuses. An engineer requests another test. A pilot delays departure. A scientist says the evidence is insufficient.
+
+The institution recognizes that competence has a domain.
+
+Automated systems need the same humility designed into the workflow rather than left to the hope that a probability score will look nervous enough.
+
+Abstention creates its own gradient.
+
+Too much and the automation saves no work.
+
+Too little and the system confidently mishandles edge cases.
+
+The useful design is not “machine or human.” It is a partition of the state space according to what each process can handle well enough.
+
+Some cases are ordinary and reversible. Automate them.
+
+Some are unusual but low stakes. Experiment carefully.
+
+Some are uncertain and high consequence. Escalate.
+
+The categories are not philosophical. They are operational responses to different parts of the error surface.
+
+This is where multiple thresholds can outperform one.
+
+There can be an auto-approve region, an auto-deny region and an intermediate review band. There can be warning, alarm and shutdown. There can be informational, reversible and irreversible actions. The response becomes a staircase instead of a switch.
+
+That does not remove cutoffs.
+
+It makes consequence more proportional to evidence.
+
+Another question is what the machine should do when its components disagree.
+
+Modern systems often combine several measurements, rules or models. One sensor says the pressure is safe. Another says it is rising unusually fast. One fraud model assigns low risk while a rules engine notices an impossible location. One clinician sees reassuring vital signs while a laboratory result looks dangerous.
+
+Agreement is information.
+
+Disagreement is information too.
+
+An institution that compresses the inputs into one final score can discard the fact that the score is the average of conflict.
+
+Five calm indicators plus one catastrophic indicator should not always equal six moderately concerning indicators.
+
+The aggregation rule is part of the threshold machine.
+
+Some signals can compensate for others.
+
+Some should act as vetoes.
+
+Some should trigger another measurement rather than a conclusion.
+
+This is why system design needs a theory of failure, not merely a theory of average prediction.
+
+Engineers distinguish, in many contexts, between failing open and failing closed. When uncertainty or power loss occurs, should the system permit operation or stop it?
+
+A fire door should tend toward a different safe state from a public website. A payment network going down has different consequences from a reactor protection system going down. A medical device cannot copy the fallback logic of an advertising platform.
+
+The failure state is a value judgment embedded in architecture.
+
+Human institutions make the same choice whether they name it or not.
+
+If an eligibility database cannot verify a person's record, does the benefit continue temporarily or stop automatically?
+
+If a background check is delayed, does hiring pause or proceed?
+
+If a content classifier is unavailable, does speech remain visible or disappear until reviewed?
+
+If an identity system cannot confirm someone, does the person lose access to money, travel, medicine or work?
+
+“System unavailable” is not neutral when the default itself allocates risk.
+
+The default says who pays for uncertainty.
+
+That deserves as much scrutiny as the threshold under normal operation.
+
+Audit trails matter for the same reason.
+
+A threshold decision that affects a person should not become a bare category detached from the evidence and rule that produced it. Later reviewers need to know what score was observed, which version of the model or policy was in force, what threshold applied, whether an override occurred and what uncertainty was available at the time.
+
+Otherwise the institution remembers only the answer.
+
+The answer becomes more certain with age because its doubt was discarded.
+
+A borderline 0.51 decision becomes “fraudulent.”
+
+A provisional screening result becomes “high risk.”
+
+An ambiguous assessment becomes “failed.”
+
+The downstream database cannot recover the hesitation that existed at the moment of judgment.
+
+Good threshold machines preserve enough provenance to let future decisions distinguish a confident event from a reluctant one.
+
+This is not clerical neatness.
+
+It is how an institution keeps gradation alive after action became discrete.
+
+The machine must decide.
+
+The institution must remember how close the decision was.
