@@ -36,17 +36,17 @@ His own master's work had taken relay circuits—physical arrangements of switch
 
 This gave them something to discuss that did not require either man to violate wartime secrecy.
 
-Machines could be talked about as mathematics.
+Machines could be talked about as mathematics. Brains could be talked about as machines. Information could be talked about as a problem not yet fully settled. Shannon's later recollection places his developing information-theory ideas among the subjects of their conversations.
 
-Brains could be talked about as machines.
+That point is worth holding carefully. It does not make Turing a coauthor of Shannon's theory, and it does not establish a missing causal link without which the 1948 paper would never have appeared. It tells us something more modest and, in its way, more interesting: Shannon was willing to expose unfinished thinking to another mathematician whose own work had radically clarified what a machine could mean.
 
-Information could be talked about as a problem not yet fully settled.
+Ideas do not have to be transferred intact to matter in conversation. A useful interlocutor can supply a question, an objection, a vocabulary, or simply the rare experience of not having to explain why an abstraction is worth pursuing. The historical record does not allow us to assign particular sentences to Turing or particular revisions to Shannon. We should not pretend otherwise.
 
-Shannon's later recollection places his developing information-theory ideas among the subjects of their conversations. That point is worth holding carefully. It does not make Turing a coauthor of Shannon's theory, and it does not establish a missing causal link without which the 1948 paper would never have appeared. It tells us something more modest and, in its way, more interesting: Shannon was willing to expose unfinished thinking to another mathematician whose own work had radically clarified what a machine could mean.
+The oral history is unusually valuable because Shannon himself narrows the claim. He remembers subjects, frequency, and companions. He also remembers a boundary: cryptographic information did not cross between them. Those positive and negative recollections belong together. If we keep the remembered topics but discard the remembered restriction, we are no longer following the source; we are editing it toward the legend we prefer.
 
-Ideas do not have to be transferred intact to matter in conversation.
+That is a common failure in stories about famous meetings. Later significance pulls harder than contemporary evidence. A lunch becomes a summit. A shared interest becomes collaboration. An undocumented influence becomes a decisive transfer of ideas.
 
-A useful interlocutor can supply a question, an objection, a vocabulary, or simply the rare experience of not having to explain why an abstraction is worth pursuing. The historical record does not allow us to assign particular sentences to Turing or particular revisions to Shannon. We should not pretend otherwise.
+Here the more modest version is stronger. Shannon and Turing could recognize interesting work in each other while remaining partially ignorant of what the other man was actually doing.
 
 But the subjects Shannon remembered are revealing.
 
@@ -62,11 +62,7 @@ They also shared a resistance to the idea that respectable mathematics had to re
 
 This sounds unremarkable now because the prestige of computing has rewritten the past. In the early twentieth century, calculating machinery occupied an awkward intellectual position. Some machines were magnificent engineering achievements, but the abstract study of computation was not yet a mature discipline with departments, conferences, standard textbooks, and generations of professional identity behind it.
 
-Turing's theoretical machine had helped turn calculation itself into a mathematical object.
-
-Shannon's relay work had helped turn logical propositions into engineering tools.
-
-The convergence was not that they had independently invented the same thing. They had learned, from different problems, that the border between logic and machinery was porous.
+Turing's theoretical machine had helped turn calculation itself into a mathematical object. Shannon's relay work had helped turn logical propositions into engineering tools. The convergence was not that they had independently invented the same thing. They had learned, from different problems, that the border between logic and machinery was porous.
 
 War made that lesson practical.
 
