@@ -168,6 +168,18 @@ A library can influence a scientist. A seminar can. A standard of rigor can. So 
 
 The absence of a dramatic anecdote is not the absence of consequence.
 
+It is useful to be precise about what institutional influence can mean in a case like this. It can mean access to people whose questions force a researcher to sharpen his own. It can mean exposure to arguments one never cites because they alter standards rather than supply a theorem. It can mean discovering that a problem considered eccentric in one department is ordinary enough to discuss seriously in another. None of these mechanisms requires a famous lunch.
+
+They are also difficult to document because their evidence is dispersed. A letter can prove what Shannon proposed to work on. A directory can prove who was present. A surviving paper can prove what he later published. The daily recalibration of what counted as an interesting question rarely leaves such a clean artifact. Responsible biography therefore has to distinguish between a plausible mechanism of influence and a claim that a particular influence occurred.
+
+That distinction protects the story from both inflation and false austerity. Refusing to invent a conversation does not require pretending institutions have no effect until a transcript appears. It means keeping the level of certainty matched to the evidence. The Institute can be described as an environment of concentrated mathematical work without assigning Shannon a private intellectual debt to every famous person on the roster.
+
+This matters because reputational gravity distorts archives. Once two people become canonical, later readers search for the moment when their paths crossed. A routine administrative letter is reread as prelude. Shared geography becomes collaboration. Silence becomes an invitation to fill in the scene. The more famous the names, the more pressure there is to turn co-presence into causation.
+
+Shannon's year resists that pressure in a useful way. The strongest surviving document points not toward computers or communication but back toward theoretical genetics. His own stated agenda is evidence against the tidy story we might prefer. The archive is not withholding the obvious plot. It is showing that the plot was not obvious yet.
+
+That makes the Institute year a better example of intellectual uncertainty than any invented encounter could be. Shannon had already produced one extraordinary result and still did not know which line of work would define him. He entered an institution designed to give researchers time before that uncertainty had resolved. The value of the year lies partly in preserving the unresolved state.
+
 By the end of the fellowship, Shannon's trajectory bent toward Bell Labs.
 
 The telephone company had reasons to value somebody who could move between engineering hardware and abstract mathematics. Its networks posed problems in switching, transmission, noise, signaling, and secrecy. These were not small laboratory systems. They were infrastructure.
