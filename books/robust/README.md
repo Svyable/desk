@@ -77,6 +77,10 @@ The manuscript treats AI robustness as an operating philosophy built around six 
 - [Editorial review](research/editorial-review.md)
 - [Release review](research/release-review.md)
 
+## Publication
+
+The first Shelf edition is prepared as an intentional snapshot from Desk commit `333b023c15a5a295e6fd6580efcebfaa1c0334eb`. Desk remains the working edition and retains `Complete draft` status; Shelf publication state is maintained independently in the matched release transaction.
+
 ## Editorial principles
 
 1. **Treat change as a condition, not a plot twist.** The book should not depend on one model, vendor, benchmark, or forecast remaining current.
