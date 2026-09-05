@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 30 of 30 drafted |
+| **Chapters** | 30 of 30 drafted; late-chapter evidence pass complete |
 
 The modern world is exceptionally good at beginnings. We can launch a product, create a file, pass a rule, deploy a model, open an account, spin up a service, publish an artifact, and automate a process faster than any previous civilization. We are much worse at endings.
 
