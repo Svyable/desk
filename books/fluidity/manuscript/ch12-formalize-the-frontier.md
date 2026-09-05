@@ -2,284 +2,438 @@
 
 A proof assistant cannot verify a theorem written in a language it does not know.
 
-That statement is so obvious that it hides the largest practical obstacle in the book.
+That statement is so obvious that it hides one of the largest practical obstacles in this book. If a research group produced a genuinely new Navier–Stokes argument tomorrow, the final obstacle would not be simply typing the proof into Lean. The surrounding formal world would have to know enough analysis to understand what the proof was saying.
 
-If Anthropic decided tomorrow to formalize a complete proof of three-dimensional Navier–Stokes regularity, there is no guarantee the surrounding formal library would contain every theorem, space, operator, compactness argument, singular-integral estimate, localization device, and PDE construction needed in a convenient form. Some ingredients exist. Some can be built from existing mathematics. Some would require serious formal development before the first genuinely new Navier–Stokes idea ever reached the checker.
+When I first framed this problem, that sounded like infrastructure a future AI laboratory would have to build before serious work could begin.
 
-The frontier has to be paved.
+By September 2026, that description was already becoming stale.
 
-This is easy to underestimate because human mathematics has a vast invisible standard library.
+The frontier had started paving itself.
 
-An analyst says “take a standard mollifier.”
+In April, Scott Armstrong and Julia Kempe released a formalization in Lean of the core interior De Giorgi–Nash–Moser theory for uniformly elliptic divergence-form equations. Their development includes local boundedness, weak Harnack, Harnack, and interior Hölder regularity for weak solutions. They described it as the first machine-checked formalization of a major theorem in modern partial differential equations.
 
-Another says “by density.”
+This was not elementary calculus dressed in formal syntax. De Giorgi–Nash–Moser theory is analysis built out of weak solutions, Sobolev spaces, measure estimates, iteration, and quantitative regularity. The formalization required new infrastructure for precisely the kinds of objects that make PDE difficult to put inside a proof assistant.
 
-A paper passes to a weakly convergent subsequence, uses lower semicontinuity, invokes a singular-integral estimate for pressure, localizes with a cutoff, commutes a projection, interpolates between norms, and applies a compactness theorem.
+Two months later Armstrong reported something much larger. Working with Tuomo Kuusi, he formalized substantial parts of contemporary quantitative stochastic homogenization. According to Armstrong, the project contained roughly 449,000 lines of Lean. The code was written by language models under the mathematicians’ supervision, primarily GPT-5.5 with Claude models also involved, and the development had to combine elliptic PDE, probability, random fields, multiscale arguments, and background mathematics that was not already conveniently available in Mathlib.
 
-Every phrase rests on mathematics that may fill a chapter of a textbook.
+The number of lines is not the theorem. It is evidence about labor.
 
-A trained human imports the chapter mentally.
+A body of modern analysis large enough to have looked economically absurd as a manual formalization project can now be attempted with machine labor while experts concentrate on the blueprint, the abstractions, and the places where semantics matter.
 
-Lean needs the theorem.
+Then the story moved still closer to Navier–Stokes.
 
-This is not an argument against formalization. It is a reason to begin before the final proof exists.
+A public Lean project called `leray-hopf` now formalizes Leray–Hopf weak existence for the three-dimensional incompressible Navier–Stokes equations on both the periodic three-torus and whole space. The project says its release surface is free of project-specific axioms and `sorry` placeholders, and it exposes finite-horizon and global-in-time existence statements.
 
-The first phase of an AI Navier–Stokes program should be a formal map of what the field already knows.
+Its README also contains the sentence the entire AI mathematics industry needs to learn how to write.
 
-Not all of it. That would become another infinite project. Start with the spine connecting the Clay statement to the most important modern strategies.
+It does not claim smoothness.
 
-Define the incompressible equations on the periodic domain and on Euclidean space in the exact forms needed.
+It does not claim higher regularity beyond the energy class it has encoded.
 
-Build the divergence-free function spaces.
+It does not claim uniqueness.
 
-Formalize the Leray projection where useful.
+That is not modesty around the edge of the result. It is the mathematical boundary of the result.
 
-Represent the heat semigroup and Stokes evolution.
+Leray’s weak existence theorem is foundational precisely because global weak solutions can be obtained while the regularity problem remains unresolved. A machine-checked version of weak existence therefore does not move the Clay problem from open to solved. It makes the distinction between what is known and what is unknown executable.
 
-Develop the relevant Sobolev, Lebesgue, and critical-space machinery.
+That distinction is a better starting point for an AI attack than a thousand pages of optimistic prose.
 
-Formalize local existence for sufficiently regular data.
+There is another development that would have sounded like administrative detail until agentic mathematics made specification itself dangerous. Independent projects have begun formalizing the Millennium problem statements. The Lean Millennium Prize Problems project, for example, includes a Navier–Stokes declaration intended to follow Fefferman’s Clay formulation and leaves the final proof exactly where it belongs: missing. Google DeepMind’s Formal Conjectures effort has also encoded a Navier–Stokes Millennium statement.
 
-Formalize the energy estimate.
+The existence of several formal targets is useful because no one of them should become sacred merely because it compiles.
 
-Establish weak formulations and approximation results.
+A serious Navier–Stokes program should compare them.
 
-Encode the scaling symmetry.
+Where do the domains differ?
 
-Formalize selected continuation and regularity criteria.
+How is smoothness represented?
 
-Build enough vorticity calculus to express the stretching mechanism.
+What does decay at infinity mean in the formal language?
 
-Formalize the target equivalences the research program expects to use.
+How are divergence-free data encoded?
 
-The purpose is not to recreate every textbook.
+What does the periodic case quantify over?
 
-It is to ensure that when a novel route appears, its novelty is not mixed with a thousand routine gaps.
+Which formulation corresponds exactly to Fefferman’s alternatives?
 
-This separation has an enormous effect on proof search.
+If two formalizations look different, can their equivalence be proved?
 
-Suppose a model invents a promising estimate. If the surrounding analysis infrastructure is already formal, the new work can be isolated. The checker says: everything before this node is known; everything after it follows; here is the unresolved theorem. Human experts can concentrate on one mathematical claim.
+This is not bookkeeping before the mathematics begins. It is part of preventing the machine from solving the wrong problem beautifully.
 
-Without that infrastructure, formalization fails in dozens of places unrelated to the new idea. The system cannot distinguish “your breakthrough is wrong” from “the library does not yet contain the version of Fubini you need.”
+The target should be treated like a cryptographic root of trust.
+
+Proof-generating agents should not own it.
+
+That idea became more urgent in July 2026 when the Lean project itself disclosed two soundness fixes. One bug could allow a malicious meta-program to trick the kernel into accepting a false theorem. A second bug involved nested inductive types and, according to Lean’s release notes, could be exploited even under a Comparator workflow. An independently implemented external checker did not share that particular defect.
+
+The point is not that Lean is untrustworthy. The point is almost the opposite. Mature formal verification is becoming explicit about its trusted computing base.
+
+A green checkmark is produced by software.
+
+High-stakes mathematical verification therefore needs the habits of security engineering as well as the habits of proof.
+
+Keep the trusted theorem statement separate from the submission.
+
+Build untrusted generated code in a sandbox.
+
+Export the proof object.
+
+Check it again outside the generating environment.
+
+Use independently implemented checkers when the stakes justify them.
+
+Pin dependencies.
+
+Record the axiom footprint.
+
+Make the final artifact reproducible on machines controlled by people who had nothing to do with generating it.
+
+Lean’s current documentation describes a Comparator-plus-external-checker workflow as a gold standard for high-risk settings such as proof competitions and untrusted AI. That is almost a design document for the end of this book.
+
+If an Anthropic system one day announced a Navier–Stokes proof, I would not want the proof-generating agents to be able to alter the formal Clay statement, modify the checker, insert a convenient axiom, or choose which version of the theorem the public sees.
+
+The final proof should enter a hostile environment.
+
+The statement is frozen elsewhere.
+
+The proof is treated as untrusted input.
+
+One verifier checks it.
+
+Another implementation checks it again.
+
+Independent mathematicians rebuild the result.
+
+Then everyone turns to the more difficult question: does the formal theorem actually express the mathematics the community thinks it expresses?
+
+Formalization reduces the trusted surface. It does not remove interpretation.
+
+This is why the modern PDE formalizations matter so much. They show that the interpretive burden can be paid incrementally, long before the decisive theorem arrives.
+
+A human analyst has a vast invisible standard library.
+
+“Take a standard mollifier.”
+
+“Pass to a weakly convergent subsequence.”
+
+“By lower semicontinuity.”
+
+“Use the pressure estimate.”
+
+“Localize with a cutoff.”
+
+“Apply the Sobolev embedding.”
+
+“Interpolate.”
+
+“Use compactness.”
+
+A trained reader imports chapters of mathematics behind each phrase. Proof assistants do not import the social meaning of *standard*. They need the definitions, hypotheses, and theorem objects.
+
+That used to make formalization look like a tax paid after discovery.
+
+The 2026 evidence suggests a different model.
+
+Formalization can become part of the research environment itself.
+
+The first phase of an AI Navier–Stokes program should therefore be a formal map of what the field already knows—not every theorem ever written, but the spine connecting the Clay target to plausible modern strategies.
+
+The weak baseline is an obvious place to start. The public Leray–Hopf project suggests that pieces of it already exist in machine-checkable form: divergence-free energy spaces, Galerkin approximation, weak formulations, energy inequalities, passage to limits, and a global weak solution curve.
+
+The next layer is the bridge from weak existence toward regularity.
+
+Local strong existence for sufficiently regular data.
+
+Weak–strong uniqueness where needed.
+
+Continuation principles.
+
+Classical regularity criteria.
+
+Vorticity identities.
+
+Pressure recovery.
+
+The heat and Stokes semigroups.
+
+Critical scaling.
+
+The exact functional spaces in which candidate a priori estimates live.
+
+Then comes the machinery that may or may not be needed by the final proof.
+
+Calderón–Zygmund theory.
+
+Littlewood–Paley decompositions.
+
+Besov and critical Sobolev spaces.
+
+Product estimates.
+
+Commutators.
+
+Localization.
+
+Suitable weak solutions.
+
+Local energy inequalities.
+
+Partial regularity.
+
+Profile decompositions.
+
+Concentration compactness.
+
+Geometric vorticity structure.
+
+There is no reason to formalize all of this indiscriminately. A library can become a monument to activity rather than a tool. The point is to create a green baseline around the most reusable parts of the problem so that genuinely new mathematics does not arrive mixed with ten thousand routine gaps.
+
+Suppose an agent proposes a new scale-critical estimate controlling a vortex-stretching term.
+
+If the surrounding library is ready, the system can isolate the claim. Scaling has already been encoded. The pressure machinery is known. The continuation criterion is formal. The interpolation theorem exists. The implication graph becomes brutally clear: if this estimate holds, these checked lemmas imply global regularity.
+
+Now humans know where to look.
+
+Without the infrastructure, formalization fails everywhere at once. Perhaps the estimate is false. Perhaps the proof assistant lacks the exact Bochner-integral theorem. Perhaps a Sobolev result is available only on a different domain. Perhaps one coercion is awkward. The system cannot distinguish a dead breakthrough from a missing library import.
 
 Research becomes debugging the environment.
 
-Software teams solve the same problem with dependencies and tests. One does not evaluate a new algorithm inside a codebase that cannot compile for unrelated reasons. Mathematical formalization needs the equivalent of a green baseline.
+The goal is not to eliminate debugging. It is to make the unknown mathematical node visible against a background that already compiles.
 
-This is why the unglamorous work of formal library building may be the highest-leverage first investment.
+This is what the Armstrong–Kempe result changes conceptually. It demonstrates that weak-solution PDE regularity can be brought inside Lean in a modern form. The Armstrong–Kuusi work pushes the point further: contemporary research arguments combining several analytical domains can be autoformalized at enormous scale when expert mathematicians control the conceptual plan.
 
-Anthropic’s Fermat formalization gives a sense of the scale. The project reportedly required an enormous body of Lean code and tens of thousands of theorem nodes. Fermat’s Last Theorem sits atop deep algebraic geometry, number theory, and the theory of elliptic curves and modular forms. Formalizing the route meant rebuilding substantial machinery.
+The natural question is whether Navier–Stokes is just more of the same.
 
-Navier–Stokes would stress a different part of formal mathematics.
+It is not.
 
-Measure theory.
+The Clay problem is not waiting for someone to translate a known proof. It is missing mathematics.
 
-Functional analysis.
+This is the boundary the AI story must never blur.
 
-Vector calculus.
+Autoformalization can make the known world machine-readable.
 
-Distribution theory.
+It can expose assumptions.
 
-Fourier analysis.
+It can turn a human proof into a checked object.
 
-Bochner integration.
+It can accelerate library construction.
 
-Weak derivatives.
+It can compare theorem statements.
 
-Sobolev spaces.
+It can help agents search because known lemmas become callable rather than merely retrievable as text.
 
-Compactness.
+None of that proves the missing inequality exists.
 
-Semigroups.
+None of it proves a singular solution exists.
 
-Nonlinear estimates.
+None of it tells us which side of the Millennium alternative is true.
 
-Potential theory.
+Formalization changes the cost of reaching the frontier. It does not guarantee the frontier moves.
 
-Singular integrals.
+That distinction is why I would organize the work in stages.
 
-Parabolic regularity.
+First, freeze a trusted target.
 
-The list is not meant to intimidate. It is meant to make a strategic point.
+Not a target written by the same agents trying to satisfy it. Compare independent encodings of the Clay statement and ask PDE experts and formal methods experts to agree on the semantics. If useful working formulations differ from the canonical target, prove the equivalence rather than letting it live in a README.
 
-The first “Navier–Stokes breakthrough” produced by an AI lab may be a formalization breakthrough whose headline sounds much less exciting.
+Second, establish a weak baseline.
 
-A robust library for nonlinear PDE could alter the economics of the entire field.
+Reproduce or independently rebuild the Leray–Hopf spine inside the project’s chosen library. This is valuable even if a public version exists. Independent reconstruction tests whether the definitions are portable and whether the project understands the theorem it imports.
 
-Once the basic machinery exists, agents can formalize new papers quickly. Regularity criteria that once lived in incompatible notation can be compared mechanically. Hidden assumptions surface. Results become reusable across projects. A theorem proved for Navier–Stokes infrastructure can support Euler, reaction-diffusion systems, dispersive PDE, and other equations.
+Third, formalize the regularity bridge.
 
-This is platform work.
+The local theory and the continuation machinery turn a mysterious statement—“the solution stays smooth forever”—into concrete sufficient conditions. The project should be able to ask a generated idea, mechanically: if this estimate were true, would it actually close the theorem?
 
-Academic mathematics often struggles to fund platform work because credit is attached to new theorems. Open-source communities such as mathlib have created a different culture in which library infrastructure is itself a contribution. AI labs can accelerate that culture if they publish the infrastructure rather than trapping it inside proprietary projects.
+Fourth, formalize negative knowledge.
 
-This is one place where I would draw a hard line for any Millennium effort.
+This may be more important for AI than positive library growth.
 
-The formal frontier should be public.
+Some self-similar blowup scenarios have been ruled out under particular assumptions. Some endpoint estimates fail. Weak solution classes behave badly. Tao’s averaged Navier–Stokes construction warns that broad energy and harmonic-analysis structure does not suffice by itself. Convex-integration results warn that a statement about weak solutions may not mean what a regularity researcher wishes it meant.
 
-Anthropic can keep model weights private. It can keep internal orchestration systems private. It can spend proprietary compute. But the theorem statements, formal definitions, reusable libraries, and final proof artifacts should live in a form independent researchers can inspect and build.
+Turn those failures into executable objections.
 
-A private formalization is a demo.
+If a generated inequality is killed by scaling, the system should know before a person reads it.
 
-A public one becomes mathematics.
+If a proof architecture would also prove a false theorem for a nearby equation, make the nearby equation a regression test.
 
-There are technical reasons for openness beyond legitimacy.
+If a proposed monotone quantity is known not to be monotone, keep the counterexample in the library.
 
-Formal libraries improve through hostile use. Other researchers try to prove different theorems and discover the abstractions are too specialized. They find definitions that make simple statements painful. They contribute more general lemmas. They expose performance bottlenecks. They test whether an apparently canonical formulation is actually compatible with the rest of the ecosystem.
-
-A Navier–Stokes formalization built only to close one theorem may contain brittle choices that distort the target.
-
-A library used by a community is harder to fool.
-
-The target itself should be intentionally boring.
-
-No clever definitions designed to make the proof easy.
-
-No hidden automation in the statement.
-
-No proprietary opaque constants.
-
-Encode a standard formulation as close as practical to the accepted mathematical statement. Then prove equivalences to other useful formulations rather than silently replacing it.
-
-This becomes especially important if the final route uses an unusual solution concept.
-
-Suppose agents discover that global regularity is easiest to prove in a new transformed variable. Fine. Formalize the transformation and prove that regularity in the transformed system implies the Clay statement. Do not let the new variable become a private semantic shortcut.
-
-Every unusual abstraction should pay an equivalence tax.
-
-That tax protects the theorem from specification gaming.
-
-It also produces human understanding.
-
-If a new formal object is genuinely useful, the equivalence proof explains how it relates to the classical theory. Mathematicians can then decide whether the abstraction is conceptually meaningful or merely convenient for automation.
-
-The formal frontier should also include known failures.
-
-Proof assistants are usually thought of as libraries of true theorems. A research system needs a library of refutations and counterexamples too.
-
-This inequality fails at the endpoint.
-
-This candidate monotone quantity is not monotone.
-
-This class of self-similar profiles is impossible under finite-energy assumptions.
-
-This generic argument would also prove regularity for an averaged equation that blows up.
-
-This weak-solution uniqueness statement is false in the claimed class.
-
-Negative knowledge can be represented as theorems just as rigorously as positive knowledge.
-
-A machine that attempts the same dead conjecture should be confronted by a formal counterexample, not a vague search result saying “similar approach considered previously.”
-
-This could transform the research process.
-
-Human fields maintain taboos informally. Experts know certain estimates “cannot work” because of scaling, known examples, or decades of experience. Newcomers often rediscover the reason painfully. An AI system trained on papers may repeat the rediscovery because the negative lore is weakly represented.
+If a candidate singular profile violates finite energy, represent the violation as a theorem, not a memory in somebody’s notes.
 
 Formalize the taboo.
 
-Then the checker becomes a memory of the field’s scars.
+Human mathematical fields carry enormous amounts of negative lore orally. Experts know that certain approaches “cannot work” because of scaling, old counterexamples, or subtle endpoint failures. Language models can retrieve some of this from papers, but retrieval is a weak form of memory. A machine-search institution needs the scar itself attached to the branch it kills.
 
-Another frontier is theorem-statement translation.
+The fifth stage is candidate-specific.
 
-Most research papers will continue to be written in human mathematical language. Agents need to convert those statements into formal objects without inventing hypotheses. This is a natural place for multiple independent models.
+Only when a genuinely new route appears should the project spend heavily on abstractions used nowhere else.
+
+If smoothness wins through a new geometric depletion principle, formalize the geometry.
+
+If blowup wins through a self-similar profile found numerically, formalize the transformed equations, spectral conditions, unstable modes, and the reconstruction back to admissible physical data.
+
+If the route is computer-assisted, insert another layer between numerics and theorem proving.
+
+Validated numerics.
+
+This deserves its own institutional identity. A neural network can find a candidate profile. A high-order spectral solver can refine it. Neither one proves that an exact solution exists nearby. The validated-numerics layer needs interval enclosures, operator bounds, tail estimates, rounding control, inverse estimates, and an a posteriori theorem turning an approximation into the existence of an exact object.
+
+Only then should the object enter the formal graph as something stronger than evidence.
+
+The distinction among these trust levels needs to be visible in the software.
+
+A generated conjecture is not a theorem.
+
+A tiny residual is not a theorem.
+
+A theorem proved informally is not yet a machine-checked theorem.
+
+A theorem accepted by one Lean build is not yet an independently validated high-stakes proof.
+
+An independently checked formal theorem is still not automatically the Clay statement unless the target equivalence is secure.
+
+A formal Clay theorem is still not instantly a Millennium Prize award because mathematical acceptance has an institutional process beyond the proof assistant.
+
+We need a certification ladder because AI collapses language faster than it collapses epistemology.
+
+A model can describe every stage in the same confident English.
+
+The system should refuse to let prose erase the differences.
+
+There is a further reason to formalize early: machine search becomes more useful when mathematics is an API rather than a document collection.
+
+A literature agent can retrieve a regularity criterion from a paper and summarize it. A formal library can expose the exact quantifiers and hypotheses to another agent without relying on the summary. The coordinator can ask whether two criteria are actually comparable. A proof planner can test whether a proposed lemma closes an existing implication. A counterexample agent can target the precise missing premise.
+
+This turns mathematical memory from paragraphs into interfaces.
+
+The idea has a software smell because software engineers learned the same lesson long ago. A function with an exact type can be composed. A paragraph saying roughly what the function does requires a human to interpret it every time.
+
+Formal mathematics is expensive type information for thought.
+
+Agents make the price easier to pay.
+
+They also make bad abstractions more dangerous.
+
+Generate 449,000 lines of Lean around the wrong definitions and you have not built infrastructure. You have built a city around a planning mistake.
+
+This is where formal mathematicians become more valuable as generation gets cheaper.
+
+Their scarce contribution moves upward.
+
+Which definition will compose with the rest of the library?
+
+Which theorem should be generalized before hundreds of agents depend on it?
+
+Which coercion is convenient now but poisonous later?
+
+What belongs in the trusted base?
+
+When is a numerical certificate safe to import?
+
+What axiom audit is acceptable?
+
+How should the periodic and whole-space formulations share infrastructure?
+
+How do we represent almost-everywhere equivalence without making later arguments unbearable?
+
+How do we keep a proof term inspectable enough to reproduce when the generating model changes?
+
+These are architecture questions.
+
+Calling the human expert a “reviewer” understates the role. The expert is part language designer, part mathematician, part constitutional lawyer.
+
+What does the system mean by *solution*?
+
+That question can decide whether six billion tokens produce a theorem or a loophole.
+
+The same applies to theorem-statement extraction from the literature.
+
+Most mathematics will continue to enter the system first as human prose and notation. A model has to translate it. Translation is an epistemic hazard.
 
 One agent extracts the theorem.
 
-Another extracts it separately.
+A second does it independently.
 
 A comparator identifies differences.
 
-A human resolves the ambiguity.
+The original source passage remains attached.
 
-The final formal statement is linked back to the exact source passage.
+A human resolves ambiguity at high-centrality nodes.
 
-This provenance layer is tedious and essential.
+Once the theorem becomes foundational, its provenance should be harder to edit than its proof.
 
-A model can make a theorem easier by accidentally strengthening a premise or weakening a conclusion. In ordinary summarization, the mistake may be minor. In a proof dependency graph, it can poison everything downstream.
+This reverses a common AI instinct. Models usually compress more aggressively as context grows. A theorem graph should do the opposite near its load-bearing points. Preserve exactness. Preserve the original statement. Preserve uncertainty. Preserve the date and version. Preserve why the project believes the formal statement matches the human source.
 
-The system should therefore treat mathematical translation as high-risk when the theorem becomes foundational.
+A million low-value lemmas can be regenerated.
 
-This is a useful inversion of current AI practice. We often ask models to summarize more aggressively as documents get longer. A theorem database should do the opposite at critical nodes: preserve detail, attach source text, and expose uncertainty.
+A corrupted foundational statement can poison the entire graph.
 
-Formalization is compression only after semantics are secure.
+The 2026 Lean kernel bugs make this more than philosophy. The proof checker itself needs provenance, versions, and independent verification. A final Navier–Stokes artifact should say exactly which Lean version checked it, which Mathlib commit it used, which axioms appear in the dependency closure, which Comparator or export process was used, and which independent checker accepted the result.
 
-The frontier also raises a labor question.
+Then somebody else should run the whole thing again.
 
-If agents can formalize known mathematics at enormous speed, what happens to the people who currently do formalization?
+A theorem worth a million dollars should be easier to reproduce than a machine-learning benchmark.
 
-They become more important in a different role.
+The formal frontier should also be public.
 
-Automation shifts effort upward. Instead of proving every routine lemma manually, experts design abstractions, review definitions, curate libraries, diagnose pathological proof search, and decide which interfaces deserve stability. This resembles software engineering after code generation: less value in typing boilerplate, more value in architecture and review.
+I would make that a hard design principle for any serious Millennium attempt.
 
-Formal mathematicians know where the dangerous choices live. They know that a definition that feels natural on paper can become unusable in a library. They know which automation patterns create opaque terms. They understand the trusted computing base. An AI lab that treats them as annotators for model output will build a bad system.
+Anthropic can keep model weights private. It can keep proprietary orchestration systems private. It can spend private compute. But reusable theorem statements, definitions, formal libraries, and final proof artifacts should be inspectable by people who do not need Anthropic’s permission to verify them.
 
-The role is closer to language designer and constitutional lawyer.
+A private formalization can demonstrate capability.
 
-What does the machine mean when it says “solution”?
+A public one can become mathematics.
 
-Which coercions are allowed silently?
+Openness improves the library itself. Other researchers try to use the definitions for different purposes and discover where the abstractions are brittle. They generalize lemmas. They find hidden assumptions. They port parts into other systems. They test build reproducibility. They argue about whether a standard mathematical notion has been encoded in the standard way.
 
-What axioms are permitted?
+This is precisely the kind of disagreement a high-stakes proof needs.
 
-What counts as a trusted computation?
+No company should get to define the theorem, generate the proof, run the only checker, and announce the interpretation.
 
-How are numerical certificates imported?
+The final result has to leave the building.
 
-Which theorem-statement transformations require proof?
+There is a temptation to turn all this infrastructure into a progress meter.
 
-These decisions define the epistemic environment in which agents operate.
+Do not.
 
-Navier–Stokes makes the environment unusually demanding because analysis is full of approximation.
+If fifty thousand known lemmas are green and one red lemma contains the entire conceptual obstruction, the problem is not ninety-nine percent solved.
 
-Weak limits.
+The missing node can still be everything.
 
-Almost-everywhere statements.
+A better measure is the sharpness of the boundary between known and unknown.
 
-Distributions.
+How many ambient assumptions have been made explicit?
 
-Limits of smooth functions.
+How much routine analysis can be called without reinvention?
 
-Passage from finite-dimensional Galerkin approximations to infinite-dimensional solutions.
+How many supposed strategies have been reduced to one concrete conjecture?
 
-Local estimates patched into global conclusions.
+How many false branches have reusable refutations?
 
-Arguments where the object exists first in a weak class and gains regularity later.
+How many independent formalizations agree on the root target?
 
-Formal systems can represent all of this. They simply insist that every bridge be built.
+How much of a candidate numerical construction has rigorous enclosure rather than visual plausibility?
 
-That insistence may reveal something surprising about the human literature.
+How narrow is the region where expert mathematical judgment is still carrying unverified weight?
 
-Formalization projects often uncover small gaps, ambiguous conventions, or lemmas whose “standard” proof is harder to locate than expected. Usually the underlying mathematics is sound. The formalizer is paying down accumulated exposition debt.
+That is real progress even if the Millennium problem remains untouched.
 
-A large Navier–Stokes formalization could become a systematic audit of the field.
+It makes self-deception harder.
 
-That audit might produce new mathematics before the main problem moves.
+For a ninety-year-old problem, that may be one of the most valuable early returns an AI system can buy.
 
-An endpoint theorem may require a missing lemma.
+The original version of this chapter ended with an imagined future: formalize the surrounding theory so that when the decisive insight arrives, the rest of mathematics is ready to compile.
 
-Two standard formulations may need an equivalence proof nobody has written carefully.
+The future arrived earlier than expected.
 
-A constant assumed universal may depend on the domain in a way that matters.
+Major PDE regularity theory has been machine-checked. Contemporary research analysis has been formalized at hundreds of thousands of lines with language models doing the code generation. Leray–Hopf weak existence for three-dimensional Navier–Stokes has a public Lean implementation. The Clay target itself has several formal encodings. The proof-assistant community is already building adversarial verification workflows for AI-generated proofs.
 
-A numerical paper’s theorem may rely on a regularity assumption hidden in implementation.
+None of this solves Navier–Stokes.
 
-These are not scandals. Mature fields contain layers of shared understanding that rarely need to be written from bedrock.
+It does something almost as important for the story of how it might eventually be solved.
 
-AI makes the cost of writing them lower.
+It turns the surrounding formal world from a thought experiment into an engineering program.
 
-The result is a frontier with fewer foggy edges.
+The final unknown is still allowed to be impossibly hard.
 
-There is a risk that all this infrastructure creates the illusion of progress. A lab can spend years formalizing known results and claim the Millennium problem is “30 percent solved” because 30 percent of a dependency graph is green. That metric would be nonsense if the missing node contains the entire conceptual difficulty.
-
-The project must never confuse library completeness with theorem proximity.
-
-Formalization reduces uncertainty about what we know.
-
-It does not guarantee movement on what we do not.
-
-That is enough.
-
-For a problem this old, cleaning the boundary between known and unknown is itself a powerful act.
-
-The decisive insight may still arrive in one line.
-
-When it does, I want the rest of mathematics ready to compile.
+But it is getting fewer places to hide.
