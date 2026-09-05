@@ -315,3 +315,175 @@ Sometimes it is the one that waits for the right difference.
 A loop needs a difference.
 
 And the difference needs to matter.
+
+That final sentence can be made more operational by asking not whether two passes are different, but *how independent their error sources are*.
+
+Independence is not binary.
+
+Two model samples can share weights but differ in sampled trajectory.
+
+Two models can differ in training but share the same retrieved evidence.
+
+A model and a calculator can share the same mistaken input even if their computations are independent.
+
+A verifier can be architecturally separate but trained on labels produced by the same assumptions as the generator.
+
+A human reviewer can be organizationally independent and still inherit the same flawed dashboard.
+
+The right unit is not “different component.”
+
+It is “different failure path.”
+
+This suggests a useful audit exercise for any loop.
+
+List the important ways the first pass can be wrong.
+
+Then, for each proposed second-pass signal, ask whether that signal actually has a route around the same error.
+
+If the first pass can fail because the source is stale, another sample from the same context does not help.
+
+If it can fail because arithmetic is wrong, a calculator may help.
+
+If it can fail because the prompt omitted a policy, a critic reading the same prompt will not discover the missing policy unless it can retrieve it.
+
+If it can fail because the evaluator rewards polished prose, adding more generators under the same evaluator may intensify the problem.
+
+This is a stronger way to think about diversity than counting branches.
+
+You can even imagine a rough matrix.
+
+Rows are failure modes.
+
+Columns are signals or reviewers.
+
+A mark means that the reviewer has a genuinely different way to detect or resist that failure.
+
+The goal is not to fill the matrix with checks.
+
+The goal is to avoid believing you have redundancy where you only have repetition.
+
+Aviation, medicine, security, and finance learned versions of this lesson long before language models. Two sensors built from the same defective component are not two independent safeguards. Two reviewers reading the same misleading record are not full redundancy. Two backups stored in the same location do not provide the protection people imagine when the location itself is the failure.
+
+Reasoning systems need similar skepticism about correlated assurance.
+
+This matters especially because model outputs can look diverse while remaining causally coupled.
+
+One branch writes in formal language.
+
+Another writes casually.
+
+One uses a table.
+
+Another uses bullets.
+
+One sounds skeptical.
+
+Another sounds optimistic.
+
+None of those differences matter if all four rely on the same missing fact.
+
+Surface diversity can disguise epistemic sameness.
+
+The inverse can also happen.
+
+Two systems can produce nearly identical answers through very different routes. A model infers the result probabilistically. A deterministic solver computes it. The wording converges, but the error paths differ. That convergence can be meaningful precisely because the methods are unlike.
+
+So the quality of a second pass depends on two dimensions at once.
+
+How different is the method?
+
+How relevant is the difference to the failure we care about?
+
+Difference without relevance is noise.
+
+Relevance without independence is echo.
+
+The best loops find the intersection.
+
+This gives us a way to talk about a *difference budget*.
+
+Every additional branch, tool, verifier, or memory read costs something. The question is not simply whether another component adds information. It is whether that component adds *non-redundant* information relative to what is already present.
+
+A second source from the same press release may add little.
+
+A primary source may add a lot.
+
+A second model with the same retrieved documents may add little to factual freshness.
+
+A live database query may add a lot.
+
+A second code review from the same static snapshot may add little to runtime uncertainty.
+
+A failing integration test may add a lot.
+
+This is why good controllers should diversify by failure mode before they diversify by persona.
+
+If the uncertainty is factual, change the evidence channel.
+
+If it is computational, change the computational substrate.
+
+If it is interpretive, change the framing or expertise.
+
+If it is about consequence, change the authority or environment.
+
+If it is about time, wait for new state.
+
+The loop becomes more efficient because each return has a job.
+
+There is also a stopping implication.
+
+A system should not continue just because it can still produce difference.
+
+Randomness can generate novelty forever.
+
+What matters is whether the next difference has expected value.
+
+If three independent checks already agree on a low-consequence answer, a fourth near-duplicate check may be waste.
+
+If three correlated model branches agree on a high-consequence answer but no branch has independent evidence, a fourth different *kind* of check may still be valuable.
+
+The number of passes tells us almost nothing by itself.
+
+The information structure tells us more.
+
+This is why “self-correction” is too coarse as a product claim.
+
+A loop can correct by sampling.
+
+By measurement.
+
+By constraint.
+
+By representation.
+
+By memory.
+
+By authority.
+
+By waiting.
+
+By rollback.
+
+By asking someone else.
+
+Those are different ways to manufacture a useful difference.
+
+They should fail differently, cost differently, and be invoked for different reasons.
+
+The mature system will not have one generic retry loop.
+
+It will have a repertoire of return paths and a controller that knows which kind of difference the current uncertainty requires.
+
+That is where the term Neuralase becomes practical.
+
+Not “do it again.”
+
+Do something that changes the error structure.
+
+Then ask whether the change was worth the cost.
+
+A loop needs a difference.
+
+The difference needs to matter.
+
+And the system needs to know *what kind of mistake the difference is capable of breaking*.

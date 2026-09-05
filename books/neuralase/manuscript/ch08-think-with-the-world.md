@@ -353,3 +353,195 @@ The model without the world can hallucinate a door open.
 The world without the model is just a locked door.
 
 The capable system knows the difference between describing the handle and feeling it move.
+
+There is one more discipline that becomes essential when the world can change under the agent: transactional action.
+
+A human user can often repair a mistaken draft before it leaves the screen.
+
+An agent with write access needs a comparable boundary between intention and commitment.
+
+The useful pattern is not mysterious.
+
+Read.
+
+Plan.
+
+Validate.
+
+Commit.
+
+Observe.
+
+The model can participate in all five stages, but they should not collapse into one undifferentiated act.
+
+Consider a purchasing agent asked to order replacement laptops for a team.
+
+On the first pass, it reads the request, inventory policy, budget, employee assignments, and approved vendors. It forms a plan. Before committing, it validates price, quantity, shipping destination, and authority. Then it submits the order. After submission, it verifies that the vendor returned an order identifier and that the recorded quantity matches what was requested.
+
+Each boundary catches a different class of error.
+
+The read stage can fail because data are stale.
+
+The plan can fail because the model misunderstands intent.
+
+Validation can fail because policy or budget blocks the action.
+
+Commit can fail because the external service rejects or partially executes the request.
+
+Observation can fail because the confirmation channel is ambiguous.
+
+Calling the entire sequence “tool use” hides the points where correction can enter.
+
+This is why transactional semantics matter for agents even when nobody uses the database vocabulary.
+
+An action can be atomic or partial.
+
+It can be idempotent or duplicative.
+
+It can be reversible or permanent.
+
+It can return a durable confirmation or only a hopeful message.
+
+These properties change what the controller should do after failure.
+
+Suppose an agent submits a payment request and the network times out.
+
+Blindly retrying may create a duplicate transfer if the first request actually succeeded.
+
+The correct next step is not “try harder.”
+
+It is “determine whether the action committed.”
+
+That may require an idempotency key, a transaction lookup, or an external confirmation record.
+
+The distinction is architectural because language cannot repair ambiguity the environment refuses to resolve.
+
+An agent that cannot tell whether its last irreversible action happened is operating with amnesia at the exact moment memory matters most.
+
+The same problem appears in email, ticketing, bookings, deployments, and record edits.
+
+A send request times out.
+
+A reservation page reloads.
+
+A deployment API returns a gateway error.
+
+A document update reports a conflict.
+
+The model wants to continue, but the environment may already have changed.
+
+The safe loop first reconciles state.
+
+What exists now?
+
+What version exists?
+
+What action identifier exists?
+
+What did the external system record?
+
+Only then should planning resume.
+
+This is Neuralase in one of its purest forms.
+
+The world is not merely feedback after the decision.
+
+It is the authority on whether the decision became real.
+
+This also explains why reversibility is so valuable.
+
+A reversible action creates room for empirical reasoning.
+
+A coding agent can make a small edit, run tests, and revert.
+
+A deployment can expose one percent of traffic, observe metrics, and roll back.
+
+A document editor can stage changes in a branch.
+
+A calendar assistant can draft an event before sending invitations.
+
+Reversibility converts some uncertainty from “reason perfectly before acting” into “act within a bounded envelope and learn.”
+
+That can be safer and more capable than endless pre-action deliberation.
+
+But reversibility itself must be real, not rhetorical.
+
+A “delete” operation that immediately destroys data is different from moving an item to trash.
+
+A financial transfer may be theoretically reversible through a later compensating payment, but that is not the same as rollback.
+
+An email can be followed by a correction, but the first message cannot be unread.
+
+The controller needs a concrete model of consequence, not a vague label like “undoable.”
+
+This gives us another useful hierarchy.
+
+Some actions are observational.
+
+Some are provisional.
+
+Some are committed but reversible.
+
+Some are committed and compensable only through a second action.
+
+Some are effectively irreversible.
+
+The amount of pre-action scrutiny should usually rise as we move down that list.
+
+That is a better use of friction than attaching confirmation dialogs randomly.
+
+The principle also improves autonomy.
+
+If a system can operate freely in observational and provisional states, it can do substantial work without burdening the user. The user’s attention is reserved for boundaries where authority or irreversible consequence actually changes.
+
+This is what mature autonomy should feel like.
+
+Not constant permission prompts.
+
+Not invisible unilateral action.
+
+Freedom inside a reversible envelope.
+
+Friction at the commit boundary.
+
+Evidence after the commit.
+
+That pattern has an important consequence for evaluation.
+
+Agent benchmarks should not score only whether the final task appears complete.
+
+They should inspect state transitions.
+
+Did the system duplicate an action after a timeout?
+
+Did it verify that a booking was actually confirmed?
+
+Did it preserve a working checkpoint before an exploratory change?
+
+Did it distinguish read authority from write authority?
+
+Did it notice that the environment changed between planning and execution?
+
+Did it recover from partial success without compounding the error?
+
+These are properties of practical intelligence because the world is not a static answer key.
+
+It is a stateful participant.
+
+The deepest change in agentic AI may therefore be less glamorous than “models can act.”
+
+It is that action makes reasoning accountable to state transitions.
+
+Before action, the model can be wrong in language.
+
+After action, the world may remember the mistake.
+
+That memory is dangerous when the action is uncontrolled.
+
+It is extraordinarily useful when the system can observe, reconcile, and learn from it.
+
+The world should be allowed to interrupt the story.
+
+The most capable agent is not the one that speaks most confidently about the handle.
+
+It is the one that knows when the handle moved, what changed because it moved, and whether it still has the authority to turn it again.

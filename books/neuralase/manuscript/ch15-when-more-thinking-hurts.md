@@ -252,7 +252,7 @@ More thought is valuable only while the loop remains capable of surprise.
 
 After that, it is just repetition with a larger bill.
 
-## Failure can accumulate even when confidence does not
+Failure can accumulate even when confidence does not.
 
 One reason overthinking is easy to miss is that systems often monitor the wrong observable.
 
@@ -298,7 +298,7 @@ Length is a proxy.
 
 State quality is the target.
 
-## The context can become contaminated by possibility
+The context can also become contaminated by possibility.
 
 Autoregressive reasoning has an unusual vulnerability: hypotheses are written into the same medium from which later reasoning reads.
 
@@ -368,7 +368,7 @@ Reasoning systems need ways to discard dead branches, compress settled facts, pr
 
 Context management is part of epistemic hygiene.
 
-## Search can turn a weak judge into an attack surface
+Search can turn a weak judge into an attack surface.
 
 There is a deeper reason search sometimes gets worse as it gets wider.
 
@@ -404,7 +404,7 @@ Overthinking at scale is therefore partly an institutional problem.
 
 The loop can overfit its own bureaucracy.
 
-## There should be a cost for changing a verified answer
+There should be a cost for changing a verified answer.
 
 A useful design principle falls out of these failures.
 
@@ -448,7 +448,7 @@ The ideal is not endless openness.
 
 It is evidence-sensitive stability.
 
-## The hardest stop signal may be boredom
+The hardest stop signal may be boredom.
 
 There is one surprisingly practical signal of overthinking: nothing materially new is happening.
 

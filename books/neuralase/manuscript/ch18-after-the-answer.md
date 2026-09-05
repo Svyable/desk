@@ -288,9 +288,7 @@ And sometimes the most intelligent second pass is no second pass at all.
 
 The loop earns its place only when there is something left to learn.
 
-## What a mature reasoning system should expose
-
-The argument of this book can be turned into a practical publishing test for systems that claim to reason.
+A mature reasoning system should therefore expose the contract of its loop.
 
 Not “show me every thought.”
 
@@ -362,7 +360,7 @@ The system’s reliability cannot be understood from the base-model name alone.
 
 That is one of the central conclusions of neuralase.
 
-## The second pass changes what scale means
+The second pass also changes what scale means.
 
 For years, scale in machine learning meant bigger training.
 
@@ -406,7 +404,7 @@ That phrase is less catchy than artificial general intelligence.
 
 It may describe more of the engineering future.
 
-## The return path is where responsibility enters
+The return path is also where responsibility enters.
 
 A first-pass model can often be evaluated like a prediction machine.
 
@@ -458,7 +456,7 @@ These are not questions for a neural network alone.
 
 They are questions for the people and institutions that build the loop.
 
-## After the answer comes the institution
+After the answer comes the institution.
 
 The story began with a Transformer.
 

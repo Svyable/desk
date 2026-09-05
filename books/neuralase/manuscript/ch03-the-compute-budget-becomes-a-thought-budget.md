@@ -273,3 +273,141 @@ The field spent years learning how to scale intelligence before the prompt.
 It is now learning how to spend intelligence after the prompt.
 
 The frontier of intelligence is becoming a frontier of allocation.
+
+There is a practical way to make that allocation auditable: record the *reason for spend*.
+
+A system that consumes ten times its normal inference budget should be able to distinguish among causes.
+
+The task was difficult.
+
+The consequence was high.
+
+A verifier failed.
+
+Branches disagreed.
+
+Fresh evidence was missing.
+
+A tool returned an ambiguous state.
+
+A policy required a second check.
+
+These are not interchangeable reasons.
+
+If the system records only total tokens or wall-clock time, teams can see that cost rose without knowing whether the controller became smarter or merely more nervous.
+
+Reason-for-spend telemetry creates a bridge between architecture and economics.
+
+A product team can discover that most expensive sessions are caused by one brittle verifier. An infrastructure team can discover that repeated retrieval dominates cost on tasks where the same source could be cached safely. A safety team can see that high-consequence actions reliably trigger the mandatory check even when the base model grows stronger. A research team can compare whether extra latent depth or an external tool provides more gain for the same budget.
+
+This is how thought budgets become governable rather than mystical.
+
+The same telemetry helps with a harder question: whether the controller allocates compute to the right users and cases.
+
+Adaptive systems can hide unequal service behind one interface. Two people submit similar requests. One triggers deep reasoning; the other stays on the cheap path. That may be correct because one case is harder or riskier. It may also reflect a bad router, unfamiliar language, sparse training data, or a systematic blind spot.
+
+A fixed-compute model can be unfair in its errors.
+
+An adaptive-compute system can be unfair in both its errors and its allocation of corrective effort.
+
+That deserves measurement.
+
+Which inputs receive escalation?
+
+Which fail cheaply?
+
+Which get expensive verification?
+
+Which hit budget ceilings before uncertainty falls?
+
+The fairness question is not “did everyone receive the same number of tokens?”
+
+Equal tokens can be a poor policy when difficulty differs.
+
+The better question is whether the allocation rule tracks legitimate reasons for spending rather than accidental features of the input.
+
+This is another way thought budgets resemble institutional budgets. Allocation reveals priorities.
+
+Where an organization spends review time tells you what it treats as consequential. Where an AI system spends compute tells you what its controller believes is difficult, valuable, dangerous, or uncertain.
+
+Those beliefs can be wrong.
+
+The budget makes them operational.
+
+There is also a queueing problem that disappears in single-query benchmarks.
+
+A reasoning system can decide that one request deserves another thirty seconds in isolation. At scale, thousands of requests may deserve the same thing at once. Now the decision competes with other users, GPU capacity, tool quotas, and deadlines.
+
+Test-time compute becomes scheduling.
+
+A system may need to preserve mandatory verification while reducing optional branches under load. It may defer low-consequence work. It may switch to a smaller model for easy tasks so the expensive model remains available for the hard tail. It may cap exploratory search while refusing to cap authority checks.
+
+This is graceful degradation as a budget policy.
+
+The distinction between optional and constitutional compute matters enormously.
+
+Optional compute exists because more work often improves the answer.
+
+Constitutional compute exists because some checks must occur before certain actions, regardless of how capable the model appears.
+
+A better base model can justify removing optional scaffolding.
+
+It does not automatically justify skipping authorization, transaction reconciliation, or other controls purchased for consequence rather than average accuracy.
+
+Without that distinction, optimization pressure will eventually eat the safeguards.
+
+A team sees that the model almost never fails a check. The check costs latency. Someone removes it. The system becomes faster until the rare case for which the check existed arrives.
+
+The thought budget should therefore carry protected line items.
+
+This verifier is discretionary for low-stakes drafts.
+
+This permission check is not.
+
+This second source is optional for background context.
+
+This transaction confirmation is mandatory after a payment call.
+
+This recurrent-depth pass is purchased only when a difficulty signal fires.
+
+This audit record is written regardless of whether the model thinks it is necessary.
+
+Once phrased this way, inference architecture begins to look less like a single “reasoning mode” and more like a budget with categories.
+
+That is healthier.
+
+It forces teams to say what the spending is for.
+
+There is a final economic mistake worth avoiding: optimizing local cost while exporting global cost.
+
+A fast cheap model response can be expensive if a human must spend twenty minutes correcting it.
+
+A long verified answer can be cheap if it prevents an outage.
+
+An aggressive autonomous agent can save user attention and create expensive cleanup when it acts wrongly.
+
+A cautious agent can save error cost and impose approval fatigue.
+
+The system boundary matters.
+
+The right denominator may include human review, retries, remediation, user abandonment, support burden, and downstream risk—not only inference dollars.
+
+This is why completed work is a better unit than generated tokens, but even completed work can be too narrow if the work creates hidden liabilities.
+
+The thought budget should optimize for the consequence that survives the loop.
+
+That can mean spending more before action.
+
+It can mean spending less because the action is safely reversible.
+
+It can mean buying a different kind of computation entirely.
+
+The mature controller is not the one that thinks longest.
+
+It is the one that can explain why this next unit of computation is the best available purchase.
+
+Parameters are purchased once and amortized across problems.
+
+A thought budget is purchased problem by problem.
+
+The frontier of intelligence is becoming a frontier of allocation.

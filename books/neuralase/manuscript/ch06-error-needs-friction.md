@@ -350,7 +350,289 @@ The answer cannot be left entirely to language-model improvisation in consequent
 
 The control layer needs explicit contracts.
 
-This is where apparently “dumb” software regains importance. Typed errors. Idempotency keys. transaction boundaries. Access controls. Schemas. State machines. Audit logs. These mechanisms are not obsolete in the age of intelligent agents. They become more valuable because natural-language systems are flexible enough to reinterpret almost anything unless the surrounding architecture refuses ambiguity.
+This is where apparently “dumb” software regains importance. Typed errors. Idempotency keys. Transaction boundaries. Access controls. Schemas. State machines. Audit logs. These mechanisms are not obsolete in the age of intelligent agents. They become more valuable because natural-language systems are flexible enough to reinterpret almost anything unless the surrounding architecture refuses ambiguity.
+
+But a contract needs more than a type label.
+
+It needs a known error profile.
+
+A test can miss a defect.
+
+A verifier can reject a correct answer.
+
+A safety filter can produce false alarms.
+
+A retrieval system can fail to surface the one document that matters.
+
+A human reviewer can approve the wrong thing.
+
+Friction itself therefore has two classic failure modes.
+
+It can fail to push when error is present.
+
+Or it can push when error is absent.
+
+The first lets mistakes survive.
+
+The second creates unnecessary correction.
+
+Both matter because a loop responds to friction causally.
+
+A weak check that misses most bad outputs gives false reassurance. An oversensitive check that constantly rejects good outputs can drive the system into endless revision, higher cost, and eventually worse answers. If every correct answer is challenged aggressively enough, some will be talked out of correctness.
+
+This is the verifier version of overthinking.
+
+A good friction surface therefore needs calibration.
+
+Not perfect calibration. A useful understanding of what its signal means.
+
+If a test suite covers only one module, a passing run should not be interpreted as “the system is correct.” It means the tested conditions passed.
+
+If a source checker verifies that a quoted sentence appears in a document, it has not verified that the document itself is true.
+
+If a policy engine says an action is permitted, it has not said the action is wise.
+
+If a model critic says an argument is weak, it has not supplied evidence that the conclusion is false.
+
+The signal should not be allowed to claim a larger jurisdiction than it actually has.
+
+This is one of the most common ways organizations misuse checks. A metric built for one purpose becomes a proxy for the whole outcome. Passing the metric becomes equivalent to success. Soon people optimize the metric and the original purpose disappears.
+
+Reasoning systems are vulnerable to the same collapse because they can act on a score automatically.
+
+A verifier returns 0.92.
+
+The controller sees a large number.
+
+The branch survives.
+
+But 0.92 of what?
+
+Correctness under which distribution?
+
+Confidence calibrated against what baseline?
+
+Does the score mean the answer is likely true, the reasoning looks plausible, the format is acceptable, or the output resembles examples the verifier was trained to approve?
+
+Numbers can hide ambiguity as effectively as prose.
+
+The friction contract should therefore say what the checker is competent to reject.
+
+A syntax checker rejects syntax.
+
+A unit test rejects known behavioral violations.
+
+A source matcher rejects unsupported citations under its matching rules.
+
+A permission service rejects unauthorized actions.
+
+A human subject-matter expert may reject domain reasoning that no narrow tool can encode.
+
+These jurisdictions can overlap, but they should not silently substitute for one another.
+
+This makes disagreement less mysterious.
+
+Suppose a policy engine approves an action and a human reviewer objects.
+
+The signals are not necessarily inconsistent. The policy engine may only answer whether the action is allowed. The reviewer may be answering whether it is appropriate.
+
+Suppose tests pass and a security scanner fails.
+
+The tests and scanner are checking different properties.
+
+Suppose three language-model critics approve a proof and a formal checker rejects it.
+
+If formal validity is the property at issue, the formal checker has a stronger contract.
+
+The system needs an authority lattice, not a popularity contest.
+
+This matters because majority vote feels democratic and therefore reassuring.
+
+But five weak signals do not necessarily outrank one strong one.
+
+Five models agreeing that a multiplication is correct should not overrule a calculator that deterministically recomputes it under the same inputs.
+
+Ten style reviewers should not overrule a hard permission boundary.
+
+A thousand generated rationales should not make a nonexistent source exist.
+
+Signal count is not signal authority.
+
+This is where friction begins to resemble an appeals system.
+
+A strong check should be able to stop an action.
+
+But strong checks can still be wrong.
+
+What happens then?
+
+If the system has no appeal path, the checker becomes absolute. A false positive can freeze legitimate work indefinitely.
+
+If every checker can be casually overridden, the friction becomes ceremonial.
+
+The architecture needs a route by which a disputed signal can be re-examined under a different authority.
+
+A failing automated test can be inspected to determine whether the test is stale.
+
+A policy denial can be escalated to an authorized person who can change the policy state rather than merely ignore it.
+
+A source conflict can be reopened with a primary source.
+
+A fraud flag can receive human adjudication.
+
+An anomalous sensor can be checked against another instrument.
+
+The appeal is another loop, but it should not simply repeat the first one.
+
+Its value comes from changing the authority or evidence.
+
+This is a useful institutional lesson for AI design.
+
+Correction needs correction too.
+
+A verifier cannot be treated as infallible merely because it was introduced to make the generator less fallible.
+
+The second pass can be wrong about the first pass.
+
+The third pass should exist only when it introduces something capable of resolving that disagreement.
+
+Otherwise the architecture becomes an infinite bureaucracy of reviewers reviewing reviewers.
+
+This is why appeals need escalation rules and terminal authorities.
+
+Some disputes can end with a deterministic fact.
+
+Some end with the current policy owner.
+
+Some end with the user whose preference is at stake.
+
+Some remain unresolved and therefore constrain the action rather than forcing a fictional certainty.
+
+That last case is important.
+
+Friction does not have to produce correction.
+
+It can produce bounded uncertainty.
+
+A source checker can reveal that the evidence is insufficient. The correct response may be to weaken the claim, not to search until a desired source appears.
+
+A security review can reveal a residual risk that no additional internal reasoning removes. The correct response may be to reduce the action’s scope.
+
+A medical support system can surface a conflict that requires a clinician. The correct response may be escalation, not autonomous convergence.
+
+Friction earns value when it changes what the system is willing to claim or do.
+
+This suggests a stronger test for any review layer.
+
+Remove it.
+
+What failure becomes more common?
+
+Now keep the layer but randomize its signal.
+
+Does system behavior change dramatically anyway?
+
+If so, the controller may be overreacting to the presence of friction rather than its content.
+
+Now replace the checker with a weaker one.
+
+Which failures return?
+
+Now give the generator opportunities to optimize against the checker repeatedly.
+
+Does the measured success continue to track the underlying objective, or does the system learn the checker’s blind spots?
+
+These are ablation questions.
+
+They turn “we added verification” into a claim that can be tested.
+
+A real friction surface should alter the error distribution in a predictable way.
+
+That predictability matters more than rhetorical sophistication.
+
+A stupid checksum with a narrow guarantee is often easier to trust than a brilliant critic whose score changes for reasons nobody understands.
+
+The ideal system combines both kinds.
+
+Narrow guarantees where narrow guarantees exist.
+
+Flexible judgment where the world refuses to become a schema.
+
+And clear precedence when they disagree.
+
+Timing matters too.
+
+Friction that arrives after irreversible action can become forensic rather than preventive.
+
+A postmortem may explain why money was sent to the wrong account. That is useful for the next transaction. It does not unsend the money.
+
+A citation check after publication can catch an unsupported claim. It cannot guarantee that nobody acted on it before correction.
+
+A monitoring alert after deployment can reveal a failure. The blast radius depends on how much happened before the alert fired.
+
+The value of friction is partly a function of when it enters the loop.
+
+Early friction can prevent.
+
+Midstream friction can redirect.
+
+Late friction can contain, recover, or teach.
+
+All are useful, but they are not substitutes.
+
+This gives the loop a temporal design problem.
+
+Where should the system pay to check?
+
+Checking every intermediate token would be absurd.
+
+Checking nothing until the final irreversible action can be reckless.
+
+The best checkpoints occur where uncertainty and consequence concentrate.
+
+Before a branch becomes expensive.
+
+Before a provisional plan becomes committed state.
+
+Before a claim becomes authoritative.
+
+Before a reversible action becomes irreversible.
+
+After an external action whose success is ambiguous.
+
+After a high-consequence state change that needs monitoring.
+
+Good friction is placed, not sprinkled.
+
+This is another way to separate engineering from ritual.
+
+A system with twenty review passes can be less reliable than one with three well-placed checks if the twenty all inspect the wrong thing at the wrong time.
+
+The right checkpoint changes the future while change is still cheap.
+
+That is what makes it catalytic.
+
+The book’s core idea can now be stated more sharply.
+
+A loop needs a difference.
+
+Error needs friction.
+
+But friction itself needs five properties before it deserves trust.
+
+It must target a known failure.
+
+It must have some independence from that failure.
+
+Its jurisdiction must be understood.
+
+Its timing must arrive while correction still matters.
+
+And its authority must be bounded by an appeal or terminal rule appropriate to the consequence.
+
+Without those properties, “verification” can be another word for delay.
+
+With them, a narrow check can transform a much more capable model.
 
 The future of reliable reasoning will therefore look partly new and partly boring.
 
@@ -360,6 +642,8 @@ Boring systems will tell them when a field is missing, a permission is absent, a
 
 The intelligence comes from the combination.
 
-Error needs friction.
+The first answer is a candidate.
 
-And friction needs a contract.
+Friction decides whether it deserves to survive.
+
+And good friction can itself be challenged without becoming optional.

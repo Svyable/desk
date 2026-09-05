@@ -373,3 +373,191 @@ Less theater. More contact with what can be checked.
 The verbalization trap closes when we ask prose to certify hidden causality.
 
 It opens when we let language do what language does best: make evidence and reasons usable by another mind.
+
+A useful way to operationalize this is to give explanations a contract.
+
+Not a promise of introspective truth.
+
+A contract about what the explanation is allowed to claim.
+
+For a consequential decision, the contract might require five things.
+
+First: the conclusion.
+
+Second: the evidence that materially supports it.
+
+Third: the rule, objective, or criterion that connects the evidence to the conclusion.
+
+Fourth: the important uncertainties or missing facts.
+
+Fifth: the conditions under which the conclusion should be revisited.
+
+Notice what is absent.
+
+The system does not have to claim, “These were the only thoughts that caused my answer.”
+
+It has to produce a usable decision record.
+
+That distinction is powerful because each part can be tested.
+
+Did the cited evidence exist?
+
+Was it current?
+
+Did the stated rule actually govern the action?
+
+Were material conflicts omitted?
+
+Would changing a supposedly decisive fact change the recommendation?
+
+Can another actor reproduce the check without trusting the prose?
+
+Once those questions are available, explanation quality stops being a beauty contest.
+
+It becomes partly an engineering property.
+
+This also exposes a class of failure that fluent systems hide especially well: *reason substitution*.
+
+A model reaches a conclusion for one set of influences and then presents a cleaner set of reasons afterward.
+
+The substitute reasons may even be defensible.
+
+That does not make them harmless.
+
+Imagine an agent rejects a vendor because a hidden heuristic overweights a superficial feature. It then produces a perfectly respectable explanation about price, delivery risk, and policy fit. An auditor who checks only whether the explanation sounds plausible may approve a decision that was not actually controlled by those reasons.
+
+The right test is intervention.
+
+Change the stated reason while holding the irrelevant feature fixed.
+
+Does the decision move?
+
+Change the suspected irrelevant feature while holding the stated reasons fixed.
+
+Does the decision still move?
+
+This is the logic of causal testing applied to explanation.
+
+Not every production system can support elaborate interventions on every decision. But the mindset matters. When an explanation makes a claim about importance, ask whether behavior is sensitive to that factor in the way the explanation implies.
+
+This suggests that explanation audits should include adversarial cases.
+
+Give the model two sources that disagree.
+
+Does it reveal the disagreement or silently choose one?
+
+Give it a policy that points toward one action and a stylistically persuasive memo that points toward another.
+
+Does the explanation identify which source had authority?
+
+Give it a missing fact that should block a confident conclusion.
+
+Does the prose preserve uncertainty or fill the gap?
+
+Give it a tool result that contradicts its first narrative.
+
+Does the explanation update, or does it reinterpret the evidence to protect the original answer?
+
+These are not tests of literary quality.
+
+They are tests of whether the explanation remains corrigible.
+
+Corrigibility is the important word because an explanation is part of a loop.
+
+It is not merely the final ornament on a decision.
+
+A good explanation gives the next actor handles.
+
+A handle can be a source to inspect.
+
+A threshold to challenge.
+
+An assumption to replace.
+
+An uncertainty to resolve.
+
+A rule to appeal.
+
+A tool result to rerun.
+
+The more consequential the decision, the more important those handles become.
+
+This is why “because the model said so” is not an explanation even when followed by three paragraphs of model-generated reasoning.
+
+The authority has to live somewhere outside the prose.
+
+In evidence.
+
+In policy.
+
+In validated computation.
+
+In delegated human judgment.
+
+In a documented objective.
+
+The explanation can point to authority.
+
+It should not manufacture authority by sounding coherent.
+
+There is a product-design implication here too.
+
+Interfaces often reward confident completion. A green check mark. A single recommendation. A polished summary. The unresolved parts are hidden behind expandable panels or omitted entirely because they make the experience feel messy.
+
+But uncertainty is often where the next useful action lives.
+
+“Recommendation: do not deploy” is less actionable than “Do not deploy because two authentication tests fail; the recommendation can be revisited if those tests pass against the current policy version.”
+
+The second statement creates a re-entry condition.
+
+It tells the system and the human what would justify another pass.
+
+That is Neuralase in institutional form.
+
+The explanation is not only a story about the current answer.
+
+It is a specification for how the answer can be corrected.
+
+This is also why explanations should sometimes preserve disagreement instead of resolving it.
+
+If two qualified sources conflict and the system cannot establish which governs, the honest output may be a structured conflict, not a synthesized certainty. The user may prefer one answer. The system may prefer to appear decisive. Neither preference creates evidence.
+
+A mature reasoning system should know when the best explanation is a map of unresolved state.
+
+That is harder to fake with eloquence because unresolved state has edges.
+
+Source A says this.
+
+Source B says that.
+
+The policy hierarchy is unclear.
+
+This missing fact would resolve the conflict.
+
+Until then, authority is limited.
+
+That kind of explanation does more than communicate humility.
+
+It constrains action.
+
+Now the prose participates in governance without pretending to be cognition itself.
+
+The strongest explanation system may therefore look less like a model narrating its mind and more like a compiler producing a decision artifact.
+
+Claims linked to evidence.
+
+Rules linked to actions.
+
+Uncertainty linked to limits.
+
+Appeal linked to a return path.
+
+The natural language remains valuable because people need to understand the artifact.
+
+But the trust comes from the structure underneath.
+
+Words are evidence of what the model said.
+
+A good system also preserves what happened, what was checked, what governed, and what could still change.
+
+That is enough to make explanation useful without asking prose to perform mind reading.

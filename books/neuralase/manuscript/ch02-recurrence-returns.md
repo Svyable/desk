@@ -246,4 +246,130 @@ How much computation is enough for this input?
 
 The answer now determines not only a hidden-state update but the economics, latency, trust, and behavior of deployed intelligence.
 
+There is a deeper technical distinction hiding inside that question: *recurrence count is not the same thing as useful computational depth*.
+
+A system can execute ten iterations while effectively doing the same thing ten times.
+
+The important object is the trajectory of the state.
+
+Does the representation acquire structure that was absent before?
+
+Do uncertain features sharpen?
+
+Do contradictions resolve?
+
+Does the state approach a stable region?
+
+Does another iteration preserve verified properties while improving unresolved ones?
+
+Or does the representation simply drift because the shared block keeps applying pressure after its useful work is done?
+
+This is the recurrent analogue of asking whether a long chain of thought is reasoning or verbosity.
+
+Iteration count is visible.
+
+Progress is not.
+
+A robust recurrent architecture therefore needs something like a notion of state quality, even if that notion is learned rather than explicitly symbolic. Training has to reward trajectories whose later states become more useful for the task. If every training example is seen only at one fixed recurrence count, the model may learn to use iteration number as an implicit layer index. Give it more loops at inference and the supposed general recurrence can become depth extrapolation into unfamiliar territory.
+
+This is one reason variable-depth training matters.
+
+If the same shared block must operate at several recurrence counts during training, it has stronger pressure to learn transformations that remain useful across time rather than transformations tied to one exact position. The state has to survive being revisited.
+
+That survival is a kind of invariance.
+
+The block should change what is unresolved without destroying what is already settled.
+
+That is easy to say and difficult to train.
+
+A useful analogy is iterative numerical optimization. An optimizer takes a current state and applies an update intended to move toward a better one. A well-behaved update rule has a region where repeated application improves the objective. A badly tuned update can oscillate, diverge, or overshoot.
+
+A recurrent-depth neural network is not simply gradient descent in disguise, but the analogy identifies the engineering questions that matter.
+
+What is the effective objective of another step?
+
+What counts as convergence?
+
+What prevents oscillation?
+
+How does the system know when the state has crossed from refinement into damage?
+
+Can the controller preserve the best intermediate state rather than blindly trusting the last one?
+
+These questions connect recurrence directly to halting and checkpointing.
+
+A model that can run longer needs a reason to stop.
+
+A model that can degrade after too much depth needs a way to avoid assuming that later is always better.
+
+This suggests a useful experimental discipline: evaluate recurrent models across a *depth sweep*, not only at the favored operating point.
+
+Run one loop.
+
+Then two.
+
+Then four.
+
+Then eight.
+
+Then beyond the range seen in training.
+
+Track accuracy, calibration, latency, state stability, and failure type.
+
+The shape of the curve tells us what kind of recurrence was learned.
+
+A model whose performance rises and then plateaus has learned something different from one whose performance rises, peaks sharply, and collapses. A model whose hard examples benefit while easy examples stay stable has learned something different from one that degrades easy examples as soon as extra depth is applied.
+
+The ability to *use* additional depth is more important than the ability to *survive* it, but both matter.
+
+This is also where adaptive halting becomes more than an efficiency trick.
+
+If the best recurrence count varies by input, then a halting policy is part of correctness. Stop too early and the difficult state remains unresolved. Stop too late and the system can over-process a solved state. The controller is choosing where on the depth curve this input should land.
+
+That controller can be learned internally, imposed externally, or hybrid.
+
+An internal signal can estimate whether further transformation is useful.
+
+An external budget can impose a hard ceiling.
+
+A verifier can provide a stop condition when a task has a checkable target.
+
+A product can impose latency constraints that no learned confidence signal may exceed.
+
+The recurrence mechanism and the stopping mechanism should therefore be evaluated together.
+
+A model that performs beautifully at eight loops but cannot recognize which inputs need eight loops has solved only half the deployment problem.
+
+The other half is allocation.
+
+There is a further consequence for interpretability.
+
+If recurrent states evolve through several hidden transformations, the relevant unit of analysis may not be a single forward pass. Researchers may need to ask which features appear, disappear, stabilize, or rotate across recurrence. A representation can contain one hypothesis early and a different one later. Causal interventions can be applied at different depths to see whether an early feature survives, gets corrected, or merely gets overwritten.
+
+This is richer than asking what one layer represents.
+
+The state has a history.
+
+That history can reveal whether recurrence is actually performing iterative computation or merely reenacting a deeper static network with shared parameters.
+
+The distinction may never be perfectly clean. A learned recurrent block can behave like a repeated algorithm on one task and like position-dependent feature refinement on another. The point is not to force one metaphor.
+
+The point is to measure dynamics.
+
+This is why recurrence’s return is more interesting than nostalgia for RNNs.
+
+The old architecture taught machine learning to carry state through time.
+
+The new architecture asks whether state can carry unresolved computation through depth.
+
+Those are related ideas under different constraints.
+
+One followed the sequence because the data arrived sequentially.
+
+The other revisits the state because the problem may not be finished.
+
+The important question is no longer whether a network can go around again.
+
+It is whether the next turn changes the state in a way worth paying for.
+
 That is a much more interesting reason to go around again.

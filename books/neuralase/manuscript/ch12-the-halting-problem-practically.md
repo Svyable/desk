@@ -389,3 +389,167 @@ Not with a theorem telling the machine that no more computation could possibly h
 With a disciplined decision that enough has been learned for this action, or that nothing more can be learned until the world changes.
 
 That is why the system should end now.
+
+A practical controller can make that discipline explicit by tracking three clocks at once.
+
+The first is the *epistemic clock*.
+
+How much unresolved uncertainty remains, and is another unit of work likely to reduce it?
+
+The second is the *operational clock*.
+
+How much time, money, compute, or external capacity remains before continuing becomes too expensive?
+
+The third is the *consequence clock*.
+
+How long can the system safely delay before inaction itself becomes a decision?
+
+These clocks do not tick at the same speed.
+
+A research assistant may have a slow consequence clock and a generous operational clock. It can spend more time resolving conflicting sources.
+
+An emergency response system may have a fast consequence clock. The evidence can remain imperfect and still require action.
+
+A low-stakes chat response may have almost no reason to spend heavily on the epistemic clock because the consequence is trivial and the user values speed.
+
+The controller’s job is to compare the clocks, not maximize one of them.
+
+This prevents a common mistake in discussions of “reasoning effort.”
+
+More reasoning is often treated as if it competes only with cost.
+
+It also competes with time-sensitive consequence.
+
+A perfect answer delivered after the decision window can be worse than a good answer delivered in time.
+
+Conversely, a cheap answer that triggers an irreversible mistake can be enormously expensive in retrospect.
+
+The optimal stopping point is therefore contextual in the strongest sense.
+
+It depends on what the next pass might buy and what waiting might cost.
+
+That can be expressed as a simple discipline even when the exact quantities are hard to estimate.
+
+Before another pass, ask:
+
+What uncertainty remains?
+
+What new signal will this pass introduce?
+
+What would count as success?
+
+What is the cost of the pass?
+
+What is the cost of delay?
+
+What happens if the pass produces no new information?
+
+That last question matters because many loops have no failure plan for unproductive continuation.
+
+They retry.
+
+Then retry again.
+
+The system spends more because spending more was the only escalation mechanism implemented.
+
+A robust stop policy includes a plateau condition.
+
+If successive passes do not change evidence, verified state, or the set of viable actions, the system should change mode or stop.
+
+This is different from stopping because a token budget ran out.
+
+A budget ceiling is a safety net.
+
+A plateau rule is an epistemic judgment.
+
+The distinction can save enormous amounts of wasted computation.
+
+Suppose a research agent searches the same query three ways and retrieves the same two sources. The relevant uncertainty remains because no authoritative record is public.
+
+A fourth paraphrased search may be cheap.
+
+It may also be pointless.
+
+The better transition is to label the information boundary and either ask for another source, widen the source class deliberately, or stop with uncertainty.
+
+The same applies to self-critique.
+
+If three critiques restate the same objection without introducing evidence or a new constraint, the loop has become rhetorical churn.
+
+The system is moving through language without moving through state.
+
+That is exactly what Neuralase was meant to expose.
+
+A useful stop rule watches for state change, not merely token production.
+
+This suggests another property: stop rules should be *monotonic with hard evidence*.
+
+If a proof checker validates a proof object, a later unverified prose objection should not automatically erase that validation.
+
+If a transaction system confirms a payment identifier, later model uncertainty should not turn the payment back into “probably unsent.”
+
+If a test suite passes a known requirement, another reflective pass can raise a new concern, but it should have to introduce a reason that outranks or extends the existing evidence.
+
+Otherwise the loop can oscillate forever because nothing is allowed to become settled.
+
+Human institutions solve this with doctrines of finality.
+
+A signed contract governs until amended.
+
+A court decision stands until appealed through a recognized process.
+
+A production artifact has a version.
+
+A database transaction commits.
+
+Finality is rarely metaphysical.
+
+It is procedural.
+
+Reasoning systems need the same procedural finality.
+
+A claim can remain revisable in principle while becoming settled enough for the current action.
+
+That is a better model than pretending the system has reached certainty.
+
+The stop policy should therefore distinguish *settled for now* from *true forever*.
+
+This distinction is especially valuable for long-running agents.
+
+An agent can close a task because the current objective is satisfied while preserving conditions that would reopen it.
+
+A deployment is complete, but monitoring can reopen if error rates cross a threshold.
+
+A reservation is confirmed, but a cancellation notice can reopen travel planning.
+
+A research conclusion is delivered, but a newly published authoritative source can justify revision.
+
+The original task stopped.
+
+The system did not become incapable of changing its mind.
+
+This is re-entry without rumination.
+
+It turns halting from a dead end into a governed boundary.
+
+That boundary is where the next chapters begin to matter most.
+
+If the system knows how to stop, then a later return can be meaningful rather than compulsive.
+
+It can reopen because the world changed.
+
+Because authority changed.
+
+Because evidence changed.
+
+Because consequence changed.
+
+Not because the model simply discovered another sentence to write.
+
+The practical halting problem is therefore inseparable from the quality of re-entry.
+
+A good system knows both sides of the door.
+
+Why this pass should end.
+
+And what would justify opening the loop again.

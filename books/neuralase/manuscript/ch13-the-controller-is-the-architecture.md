@@ -428,4 +428,250 @@ The base model determines much of what is possible.
 
 The controller determines which possibilities become behavior.
 
+A useful way to make the controller less abstract is to imagine it as a state machine with invariants.
+
+The state machine answers, “What can happen next?”
+
+The invariants answer, “What must remain true no matter what happens next?”
+
+This separation is crucial.
+
+A model may be free to choose among search, calculation, retrieval, or another reasoning pass. That is flexible transition logic.
+
+But the system may require that no external payment occurs without authenticated authority, no destructive action occurs without a reversible boundary, no factual claim marked verified survives after its evidence becomes unavailable, and no loop exceeds a resource ceiling.
+
+Those are invariants.
+
+The model can be creative inside them.
+
+It should not be able to reason them away.
+
+This is where many apparently sophisticated agents become fragile. Their safety and correctness rules are written as prose inside the same context as the task. The model is asked to interpret the rule, remember the rule, and obey the rule while optimizing the task.
+
+That may be appropriate for soft preferences.
+
+It is weak architecture for hard guarantees.
+
+If a database field must never cross a tenant boundary, enforce the namespace outside the model.
+
+If a transaction needs a specific signature, validate the signature outside the model.
+
+If a tool is read-only, give it read-only credentials rather than asking the model not to write.
+
+If a retry must stop after three attempts, count outside the model.
+
+The general principle is simple.
+
+Do not spend probabilistic intelligence on facts that can be made deterministic.
+
+This does not diminish the model.
+
+It reserves the model for the parts that actually require judgment.
+
+There is a parallel principle for uncertainty.
+
+Do not force deterministic control where the signal is inherently ambiguous.
+
+A controller deciding whether a research question needs another source may benefit from learned judgment. A controller deciding whether two tool results are semantically contradictory may need a model. A controller deciding whether the marginal value of another branch is high may need probabilistic estimation.
+
+Hard rules and learned policies are complements.
+
+One protects invariants.
+
+The other spends flexibility.
+
+This suggests a controller stack rather than a controller blob.
+
+At the bottom are constitutional constraints: permissions, isolation, rate limits, transaction boundaries, authentication, and irreversible-action rules.
+
+Above them are stateful operational controls: retries, timeouts, caching, version checks, rollback, and memory scopes.
+
+Above those are epistemic controls: retrieval, verification, disagreement detection, uncertainty handling, and source precedence.
+
+Above those are strategic controls: decomposition, routing, branch allocation, model selection, and halting.
+
+The layers interact, but they do not have to share the same implementation or authority.
+
+That matters because different failures should stop at different layers.
+
+A malformed API call should not escalate to a philosophical debate about task intent.
+
+A missing permission should not trigger increasingly clever attempts to bypass the permission.
+
+A disagreement between two reputable sources should not be “fixed” by a retry policy designed for network timeouts.
+
+Controllers become robust when they classify failure before responding to failure.
+
+This is also where cost becomes more interesting than a simple token budget.
+
+Another pass has several costs.
+
+Money.
+
+Latency.
+
+Tool load.
+
+User attention.
+
+Opportunity cost.
+
+Risk exposure.
+
+And sometimes the cost of anchoring the system more deeply to a bad path.
+
+A rational controller should therefore estimate marginal value, not merely count iterations.
+
+Suppose a first-pass answer is low consequence and already high confidence. Another expensive verifier may add little.
+
+Suppose a first-pass answer is high consequence and rests on a fresh external fact. A second source may be worth far more than another internal reflection.
+
+Suppose three branches disagree sharply. Spending another unit of compute on the same branch may be less valuable than changing the kind of computation.
+
+The controller’s real question is not “Should I think more?”
+
+It is “What is the highest-value next transformation of state?”
+
+Sometimes the answer is another model pass.
+
+Sometimes it is a tool.
+
+Sometimes it is a stronger verifier.
+
+Sometimes it is a fresh observation.
+
+Sometimes it is a person.
+
+Sometimes it is nothing.
+
+This framing helps prevent a common pathology: monotonic escalation.
+
+The system encounters difficulty and responds by adding more of everything.
+
+More tokens.
+
+More agents.
+
+More retrieval.
+
+More debate.
+
+More retries.
+
+That architecture can become expensive without becoming discriminating.
+
+A good controller changes mode when the current mode stops producing useful difference.
+
+If internal reasoning has plateaued, consult the world.
+
+If retrieval produces conflicting evidence, verify authority.
+
+If tool failures repeat identically, stop retrying and diagnose the channel.
+
+If all model branches share the same blind spot, add an independent check.
+
+If the remaining uncertainty is a value judgment, escalate to the actor who owns the value judgment.
+
+This is Neuralase expressed as scheduling.
+
+The controller chooses not only whether to re-enter, but how.
+
+That “how” is where architecture becomes visible.
+
+The same principle changes observability requirements.
+
+It is not enough to log that the agent used 18,000 tokens and called three tools.
+
+A useful trace should let us reconstruct why each transition occurred.
+
+The first pass violated a schema.
+
+That triggered repair.
+
+The repair passed structure but conflicted with a source.
+
+That triggered retrieval.
+
+Retrieval produced two incompatible records.
+
+That triggered authority resolution.
+
+Authority remained ambiguous.
+
+That reduced the action class from execute to recommend.
+
+Now the system is inspectable at the level that matters.
+
+We can ask whether the transition policy was sensible.
+
+We can change one rule and replay cases.
+
+We can discover that a verifier fires too often, that a router underestimates a class of difficult tasks, or that an escalation boundary activates too late.
+
+Without transition-level observability, controller tuning becomes superstition.
+
+Teams see that an agent failed and add another instruction.
+
+Then another.
+
+Then another.
+
+The prompt grows because the architecture is invisible.
+
+A visible controller allows the opposite move: simplify.
+
+Remove redundant retries.
+
+Retire prompts whose failure class disappeared.
+
+Move hard rules into deterministic checks.
+
+Collapse branches that add no diversity.
+
+Reserve expensive models for cases where they change outcomes.
+
+This is why controller quality can improve even as controller complexity decreases.
+
+Good architecture is not the maximum number of safeguards or loops.
+
+It is the minimum structure that reliably transforms the right signals into the right next actions.
+
+There is one final implication.
+
+As controllers become learned, they will need evaluation against counterfactual policies.
+
+A controller may appear effective because it spends more compute everywhere. Another may look efficient because it stops early everywhere. Neither tells us whether it allocates intelligently.
+
+The better test asks whether it spends *differentially*.
+
+Does it reserve extra depth for inputs that benefit from depth?
+
+Does it seek fresh evidence when freshness matters?
+
+Does it increase verification when consequence rises?
+
+Does it reduce authority when dependencies fail?
+
+Does it stop when another pass has low expected value?
+
+A controller earns sophistication when its allocation tracks reasons.
+
+That is the architecture in its most compact form.
+
+Reasons enter.
+
+Computation changes mode.
+
+Constraints hold.
+
+Evidence can overrule.
+
+Authority stays bounded.
+
+The loop eventually stops.
+
+The base model determines much of what is possible.
+
+The controller determines which possibilities become behavior.
+
 That is architecture, not glue.

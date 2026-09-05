@@ -206,7 +206,7 @@ The first answer matters.
 
 The architecture of the second answer tells you what the system believes about its own fallibility.
 
-## An appeal needs the original state
+An appeal also needs the original state.
 
 A surprising number of review systems begin by throwing away the thing they need to review.
 
@@ -248,7 +248,7 @@ Appeals are not only correction channels.
 
 They are evaluation data for the controller.
 
-## Reversibility is part of due process
+Reversibility is part of due process too.
 
 The timing of re-entry matters as much as its existence.
 
@@ -294,7 +294,7 @@ The point is that recoverability is a variable we can design.
 
 Where it can be increased, it reduces the burden placed on prediction alone.
 
-## Correction must be allowed to beat confidence
+Correction must also be allowed to beat confidence.
 
 Many automated systems treat confidence as a one-way valve.
 
@@ -326,7 +326,7 @@ A hard permission boundary can outrank a plan that would otherwise accomplish th
 
 Correction becomes real when the loop has an authority model, not just an attention mechanism.
 
-## Fairness includes access to the second pass
+Fairness includes access to the second pass as well.
 
 Adaptive review has an uncomfortable consequence.
 

@@ -369,3 +369,171 @@ When should it stop speaking?
 The right to carry a lesson forward matters.
 
 So does the right to let the lesson die.
+
+One way to see the full problem is to imagine memory as a ledger rather than a diary.
+
+A diary asks what happened.
+
+A ledger asks what changed, under whose authority, and what the current balance is.
+
+For long-running agents, that distinction is profound.
+
+Suppose a procurement agent learns four things over six months.
+
+A supplier was late once.
+
+A contract was amended.
+
+A manager temporarily approved an exception.
+
+A new company policy later revoked that exception.
+
+If those events are stored as four pieces of prose with equal retrieval weight, the agent may surface whichever sentence happens to be semantically closest to the next request. That is not memory. It is historical roulette.
+
+A ledger-like memory preserves state transitions.
+
+The supplier delay remains an episode.
+
+The contract amendment becomes part of the current contractual state.
+
+The manager’s exception carries an effective date and a scope.
+
+The later policy records that the exception no longer governs.
+
+The past is still available, but the system can distinguish history from current authority.
+
+This suggests a design rule: important memory should often be written as a claim plus conditions, not as an isolated sentence.
+
+What is claimed?
+
+Where did the claim come from?
+
+When did it become true?
+
+When does it expire?
+
+What scope does it apply to?
+
+What could supersede it?
+
+How confident are we that it was observed rather than inferred?
+
+That metadata may look bureaucratic next to the elegance of embedding search.
+
+Bureaucracy is often what prevents memory from becoming mythology.
+
+The same principle helps with conflict.
+
+Memory conflicts are not edge cases. They are the normal condition of a system that persists through change.
+
+A user once says, “Use concise answers.” Later the user asks for a comprehensive report. A repository README says one deployment process is current, while a newer release checklist says another. A prior task note says a dependency is broken, but today’s test run passes. A project manager says a deadline moved; the calendar still contains the old date.
+
+The correct behavior is not always “pick the newest memory.”
+
+Newest can be wrong.
+
+It is not always “pick the highest-authority source.”
+
+Authority can be scoped.
+
+It is not always “ask the user.”
+
+That can make an otherwise capable system irritatingly helpless.
+
+A mature memory layer needs conflict semantics.
+
+Some conflicts can be resolved by precedence rules.
+
+Some by fresh observation.
+
+Some by narrowing scope.
+
+Some by preserving both alternatives until a decision point forces resolution.
+
+Some require escalation because the disagreement is itself consequential.
+
+This is another place where Neuralase becomes operational rather than metaphorical.
+
+A conflict is a reason to reopen state.
+
+The system should not smooth disagreement into one fluent paragraph if the disagreement changes what action is safe.
+
+Memory quality can therefore be evaluated through more than retrieval accuracy.
+
+Ask whether the system recalls the right item.
+
+Then ask whether it applies the item within the right scope.
+
+Ask whether stale memories lose influence when fresh evidence arrives.
+
+Ask whether high-authority current instructions override low-authority historical inferences.
+
+Ask whether poisoned content can cross namespace boundaries.
+
+Ask whether deleting a memory actually removes its future causal influence.
+
+Ask whether a compressed summary can be reopened to its evidence when challenged.
+
+These tests are closer to behavioral contracts than to benchmark trivia.
+
+They reveal whether the agent has memory or merely storage.
+
+There is also a deeper reason to care about deletion.
+
+In ordinary software, deleting a row is a state-management operation.
+
+In a reasoning system, deletion is a change to future cognition.
+
+Removing a stale preference can alter tone.
+
+Removing a poisoned instruction can restore safe behavior.
+
+Removing an obsolete project assumption can reopen branches the agent had stopped considering.
+
+Forgetting is not the absence of intelligence.
+
+It is an intervention on the context that intelligence will later receive.
+
+That makes forgetting testable too.
+
+If a user deletes a preference, does the system actually stop acting on it?
+
+If a project is archived, can its memories leak into a new one?
+
+If a policy is superseded, can the old version still reappear without being labeled historical?
+
+If the answer is yes, the system has not implemented forgetting. It has implemented hiding.
+
+The distinction will matter enormously as agents accumulate years of state.
+
+A five-minute assistant can survive sloppy memory because little history exists.
+
+A five-year assistant cannot.
+
+Long-lived agents will encounter renamed projects, changed laws, dead links, revoked permissions, ended relationships, new roles, corrected beliefs, compromised credentials, and users who simply become different people.
+
+Persistence turns every old truth into a candidate future falsehood.
+
+So the objective cannot be maximal recall.
+
+It has to be useful continuity under change.
+
+That is a harder engineering target and a better one.
+
+The mature system should be able to say, in effect:
+
+I remember this happened.
+
+I know why it mattered then.
+
+I know whether it still governs now.
+
+I know what could overrule it.
+
+And I know when I am no longer entitled to use it.
+
+That is what turns storage into experience.
+
+Memory is a return path.
+
+The intelligence is in deciding what deserves to return.

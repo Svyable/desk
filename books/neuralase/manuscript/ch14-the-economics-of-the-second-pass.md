@@ -256,7 +256,7 @@ The mature reasoning system will not merely know how to think longer.
 
 It will know when another dollar of thought is a bad trade.
 
-## The invoice should follow the reasoning path
+The invoice should follow the reasoning path.
 
 Once inference becomes adaptive, average token cost stops being an adequate accounting unit.
 
@@ -334,7 +334,7 @@ The unit is not the token.
 
 The unit is the resolved obligation.
 
-## Latency is not one number
+Latency is not one number either.
 
 Cost and latency are often treated as if they move together. Spend more compute and the user waits longer.
 
@@ -366,9 +366,9 @@ The economic objective is workload-specific.
 
 There is no globally rational reasoning duration.
 
-## Reasoning creates option value
+Reasoning also creates option value.
 
-The second pass can also be valuable before it changes the answer.
+The second pass can be valuable before it changes the answer.
 
 It can preserve options.
 
@@ -412,7 +412,7 @@ This is a powerful complement to test-time scaling. Instead of spending unlimite
 
 The best second pass may be a rollback path.
 
-## The market will price reliability, not contemplation
+The market will ultimately price reliability, not contemplation.
 
 Users do not ultimately care how many tokens a model consumed.
 
