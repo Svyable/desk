@@ -242,4 +242,38 @@ The question is whether it taught you enough to make a second attempt worth the 
 
 That is a far more generous standard.
 
+A bad first version is useful only if the system around it can convert badness into information.
+
+Otherwise bad is merely bad.
+
+This distinction is often lost in creative advice. People are told to make something terrible, ship early, embrace embarrassment, and trust iteration. But iteration is not a magical property of unfinished work. It requires a loop: an artifact, an observation, a judgment about what the observation means, and another attempt that changes something relevant.
+
+A draft read by nobody can improve if the writer has enough developed taste to diagnose it. A novice may need another reader. A prototype can fail in a way that teaches the team something, or it can fail because the test environment was so unrealistic that no inference is possible. A rehearsal can reveal a weak transition, but only if someone notices the transition rather than merely counting that the rehearsal occurred.
+
+The first version therefore needs an error surface. The learner should be able to see where reality and intention diverged.
+
+This is one reason crafts build intermediate representations. Musicians practice passages. Architects model. Programmers test. Athletes drill components. Editors work through drafts. Surgeons simulate. These forms make error visible before the entire performance carries the cost. They are not substitutes for the real environment; they are places where specific failures can be isolated and repeated cheaply enough to learn from.
+
+The word cheaply matters. Some domains can tolerate public bad versions. A private essay that fails is mostly a cost to the writer. A bad medical procedure, unsafe building, misleading financial product, or reckless public policy transfers the beginner's learning cost to other people. In those domains, society creates supervision, standards, review, and restricted scopes precisely because the right to make first versions is not the right to make other people absorb their consequences.
+
+This does not eliminate beginnerhood. It relocates it.
+
+A responsible institution asks where a novice can be genuinely inexperienced without pretending to be expert and without creating disproportionate harm. The answer may be simulation, shadowing, sandbox environments, small delegated tasks, dual sign-off, staged responsibility, or reversible internal work. A profession that has no safe place to be bad will eventually have no place to become good.
+
+There is another trap: early attachment. Once a first version exists, effort can make it feel more valuable simply because it is ours. The paragraph survives because it took a day. The feature remains because the team fought for it. The strategy persists because the founder announced it. The first version was supposed to make reality easier to inspect; instead it becomes a possession to defend.
+
+One defense is to decide in advance what the version is allowed to lose. This prototype can be thrown away. This draft is for structure, not sentences. This first month is for learning the schedule, not proving long-term identity. This pilot is not entitled to scale. Naming disposability before effort accumulates reduces the temptation to turn sunk labor into a new requirement.
+
+At the same time, people need enough attachment to care. A purely disposable project can produce shallow work because nobody expects it to survive. The challenge is provisional seriousness: work hard enough to expose the real problem while retaining permission to replace the artifact that exposed it.
+
+This is why good iteration often feels psychologically strange. You must care about the version and distrust it at the same time.
+
+Public culture makes this harder. Digital systems can preserve the first version indefinitely. A teenager's first performance, a founder's early pitch, a novice writer's crude opinion, or a new employee's clumsy post can become searchable long after the person has revised. The social memory of the artifact can outlive the developmental context in which it was made.
+
+A society that wants learning therefore needs norms for versioning people as well as files. Old evidence should not vanish, especially where accountability matters, but neither should every early artifact be treated as a permanent statement of capacity or belief. Revision must be legible.
+
+The mature first version carries two messages at once: this is real enough to inspect, and it is not yet the whole story.
+
+That combination is more demanding than perfectionism. Perfectionism can keep the work private forever. Provisional seriousness has to let the imperfect object meet a standard, an audience, or a test—and then tolerate what comes back.
+
 It is also harder to fake.

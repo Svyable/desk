@@ -270,4 +270,44 @@ The unfinished mind becomes easier to live with when unfinishedness is chosen ra
 
 You can leave a book open.
 
+Not all unfinished things are equally unfinished.
+
+Some are active: another action is expected soon. Some are waiting: nothing can happen until another person, event, payment, test result, season, or decision arrives. Some are paused by choice. Some have been abandoned in practice but not admitted in language. Some are complete enough but still emotionally open because the ending was ambiguous. Some are dead projects whose artifacts remain visible long after the commitment disappeared.
+
+The mind pays for these states differently.
+
+An active project needs retrieval: what was I doing, what is next, what changed? A waiting project needs a trigger: what event should bring it back into attention? A paused project needs a review date. An abandoned project needs closure. A completed project may need only an archive. When all of them are kept in the same mental category—unfinished—the person has to repeatedly rediscover what each object wants.
+
+That is expensive.
+
+The cost is easiest to notice after time away. Open the laptop after a week and see twelve tabs, five documents, two half-written messages, an unanswered request, and a task list full of verbs with no objects. None is individually overwhelming. Together they produce a fog of incomplete state.
+
+A handoff note is a surprisingly powerful answer. Before stopping, write enough for the future self to re-enter without reconstructing the whole context. What is the current state? What is the next concrete action? What decision has already been made? What question remains open? Where is the relevant material? This is not productivity theater. It is a way of moving context out of biological memory and into the project.
+
+The practice matters more as the number of projects grows. A single unfinished manuscript can live in the head. Ten overlapping responsibilities cannot. People often interpret the resulting cognitive strain as personal disorganization when the real problem is that too many objects have no explicit state.
+
+This is where the bookself needs housekeeping.
+
+An archive without maintenance becomes a second inbox. Every old ambition remains visible enough to trigger recognition but not clear enough to know whether it deserves action. The person encounters a folder and briefly wonders, should I still do that? The question costs almost nothing, which is why hundreds of such questions can accumulate.
+
+Periodic review is less about recommitting than decommissioning. Which projects are still alive? Which are waiting? Which deserve a smaller next step? Which should be marked complete enough? Which should be closed with no apology? Which have obligations to other people that make silent abandonment unacceptable?
+
+The last category is important. Personal project systems can become ethically solipsistic. If an unfinished promise affects a collaborator, client, family member, or community, changing an internal status is not enough. Closure may require communication, transfer, repayment, documentation, or an explicit no.
+
+A clean shelf is not a shelf on which everything is finished. It is one on which the state of each object is honest.
+
+There is also a romantic mythology of unfinishedness. The unfinished book, unreleased recording, unbuilt invention, or permanently pending move can become proof of depth because completion would expose it to ordinary judgment. The open loop protects a special identity: the person with something important in progress.
+
+Completion threatens that identity by making the work finite.
+
+This can explain why some projects expand near the end. A new chapter appears. The scope widens. One more source becomes necessary. The product needs another feature. The finish line moves not because the work objectively requires it but because finishing would convert potential into a bounded object that other people can evaluate.
+
+Recognizing this does not make finishing easy. It clarifies the fear.
+
+An ending is a first version too. It says: this is what the work became under the conditions available. That claim can feel smaller than the infinite project that still might have become anything. But without endings, the shelf cannot teach selection. Everything remains in permanent audition.
+
+The capacity to finish, pause, wait, and abandon deliberately is therefore part of the capacity to begin. They are all forms of state management under limited attention.
+
+An unfinished mind does not need every loop closed. It needs to know which loops are truly open, why, and what has the right to call attention back.
+
 Just know which book it is.

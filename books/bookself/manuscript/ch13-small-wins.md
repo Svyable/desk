@@ -266,4 +266,42 @@ Large outcomes are sparse. If continuation depends on them, the work starves bet
 
 Small wins feed the middle.
 
+Small wins become dangerous when they are easier to count than the thing they are supposed to advance.
+
+A team can celebrate tickets closed while the product becomes harder to use. A student can accumulate study hours while avoiding the problems that reveal misunderstanding. A writer can count words while the argument gets more repetitive. A fundraiser can celebrate meetings while no donor gets closer to a decision. A person can close every easy task on the list and leave the difficult uncertainty untouched.
+
+This is the measurement trap inside progress.
+
+The psychological value of a small win is real precisely because progress changes the felt relationship to the work. But that emotional value can tempt us to manufacture progress signals that are detached from meaningful movement. When the signal becomes the goal, the win stops being evidence and becomes a stimulant.
+
+The cure is not to stop measuring. It is to ask what the win makes more possible.
+
+A useful small win changes the state of the problem. The first interview removes an assumption. The first page creates material to revise. The first month of savings creates a buffer that did not exist. The repaired component makes the next test possible. The difficult phone call resolves an ambiguity that had been consuming attention. The win may be modest, but the landscape after it is different.
+
+This makes dependency a useful test. What can happen now that could not happen before?
+
+Some wins increase capability. A skill was practiced. A tool was learned. A relationship gained trust. Some reduce uncertainty. A response arrived. A constraint became visible. Some create assets. A draft, dataset, reserve, process, or piece of infrastructure now exists. Some create closure. A decision was made and an open loop stopped demanding attention.
+
+These categories are more informative than the generic feeling of being productive.
+
+There is also a sequencing problem. Small wins near the beginning can produce confidence faster than competence. The first praise, first customer, first successful performance, or first visible result may arrive under favorable conditions. If the person interprets that win as proof that the hard parts are solved, the next stage can feel like regression when complexity appears.
+
+A mature progress system expects the metric to change. Early on, showing up may be a genuine win because the threshold is the problem. Later, attendance should become invisible and quality should matter. Early sales prove willingness to pay; later margins, retention, service burden, or repeat demand become more informative. Early exercise consistency matters; later the body may need recovery, technique, and variation rather than simply more streak.
+
+The same unit cannot measure every stage.
+
+Teams often fail here because dashboards survive longer than the uncertainty that created them. A metric is introduced to solve one problem and becomes institutional furniture. People continue optimizing it after the underlying objective has moved. The metric feels objective because it has a number, but its relevance is historical.
+
+Small wins need retirement dates too.
+
+There is a social use of wins that deserves caution. Leaders can publicize small progress to keep a difficult effort alive. That can be honest and useful. It can also become propaganda: every minor milestone is celebrated while the central failure remains unnamed. The audience is asked to convert motion into belief.
+
+The difference is whether the win is placed in context. What remains unresolved? What did the milestone actually establish? What did it not establish? What new risk appears because the project advanced? A trustworthy account of progress keeps the unfinished part visible.
+
+For a person, this protects against the opposite problem as well: discounting every small win because the final outcome has not arrived. The bookself gives intermediate evidence somewhere to live. I did not become fluent, but I learned I can practice consistently for three months. The company did not survive, but I learned I can sell a service to strangers. The relationship did not continue, but I learned I can have the conversation I once avoided.
+
+Those statements do not rescue failure by renaming it success. They separate the outcome from the capacities observed on the way.
+
+The best small wins are not confetti. They are state changes you can point to without pretending the larger work is done.
+
 They tell the person that reality has moved enough to justify another page.
