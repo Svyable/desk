@@ -42,7 +42,15 @@ The frontier sources most exposed to recency risk were rechecked against current
 
 Desk discovery now includes `neuralase` in the generated root `README.md` catalog, `catalog.json`, `llms.txt`, `sitemap.xml`, and the chapter-feedback dropdown. The root catalog refresh reports **71,701 words** across the Neuralase manuscript directory.
 
-That 71,701-word catalog figure is not, by itself, the formal one-shot-book length check because `scripts/catalog.py` counts every Markdown file under `manuscript/`, including front matter and back matter. Before treating length compliance as formally closed, verify the chapter-only total and the per-chapter floor against `docs/book-brief-standard.md`: at least 3,000 words per chapter and at least 65,000 chapter words excluding front matter, back matter, and research.
+Using the same word-token regex as `scripts/catalog.py`, front matter contains **1,725 words** and back matter contains **1,285 words**. Subtracting those from the generated manuscript-directory count yields an exact **68,691 chapter-only words**, clearing the one-shot book minimum of 65,000 chapter words by 3,691 words.
+
+The three smallest chapter files by byte size were also counted directly with that same regex because they were the most plausible floor risks: Chapter 1 has **3,397 words**, Chapter 14 has **3,395 words**, and Chapter 15 has **3,385 words**. All three clear the 3,000-word per-chapter minimum.
+
+Desk now includes `scripts/check-book-length.py`, an opt-in validator that counts only `chNN-*.md` chapter files, excludes front matter and back matter by construction, and enforces the documented one-shot minima. The formal all-chapter command for this manuscript is:
+
+`python3 scripts/check-book-length.py neuralase`
+
+The remaining mechanical gate is to run that command from an executable Desk checkout and confirm all 18 per-chapter counts in one pass. The local execution environment used for this review could not access a repository checkout from GitHub, so this note does not pretend that command was run here.
 
 ## Final pass checklist
 
@@ -56,4 +64,7 @@ That 71,701-word catalog figure is not, by itself, the formal one-shot-book leng
 - [x] Frontier recurrent-depth / overthinking sources were rechecked against official or first-party pages in September 2026.
 - [x] Neuralase is registered in the generated root catalog and machine-readable discovery surfaces.
 - [x] Desk catalog regeneration reports 71,701 words across the manuscript directory.
-- [ ] Verify exact per-chapter counts and the chapter-only manuscript total against `docs/book-brief-standard.md`.
+- [x] Exact chapter-only total is 68,691 words after excluding 1,725 words of front matter and 1,285 words of back matter.
+- [x] The three smallest chapter files by byte size were counted exactly and all exceed 3,000 words: Ch1 3,397; Ch14 3,395; Ch15 3,385.
+- [x] `scripts/check-book-length.py` exists for repeatable one-shot manuscript validation.
+- [ ] Run `python3 scripts/check-book-length.py neuralase` against an executable Desk checkout to verify all 18 per-chapter counts in one pass.
