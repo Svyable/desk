@@ -128,6 +128,18 @@ They were proving that some events labeled random contain a mixture of genuine u
 
 The engineering task was to find out which kind of uncertainty they were facing before money was committed.
 
+Even that distinction is not enough by itself. A process can be governed by ordinary mechanics and still be practically unpredictable. Determinism describes how the system evolves from its state; it does not guarantee that an observer can measure that state precisely enough, early enough, to exploit the evolution.
+
+Roulette makes the gap visible because the useful prediction window is short. Measure too early and the estimate may still be broad. Measure too late and the ball may be nearly determined but the casino will no longer accept a wager. The opportunity lives between those moments, where the remaining motion is constrained enough to narrow the landing region and enough time remains to act.
+
+That is a prediction horizon rather than a philosophical verdict about randomness. The same physical system can move from poorly predictable to usefully predictable to perfectly obvious, while the economic value of the information rises and then abruptly falls to zero when betting closes. More certainty is not always more useful if it arrives after the decision.
+
+Measurement error also grows teeth when the horizon is short. A small mistake in estimating rotational speed or timing may be tolerable if the model only needs to identify a broad region. The same mistake can dominate when the prediction is pushed too far into the future. Better physics cannot compensate indefinitely for uncertain inputs.
+
+This is why the project is more interesting than a demonstration that roulette wheels obey mechanics. Of course they do. The real question was whether a concealed observer-computer-bettor system could acquire enough state, process it quickly enough, and act before the remaining uncertainty lost economic value.
+
+Predictability, in practice, is always predictability for someone, with some instruments, before some deadline.
+
 The final operating version was tested in Shannon's home laboratory in June 1961. Thorp later reported that, in their model, betting on the most favored octant produced an expected advantage of roughly forty-four percent.
 
 The number sounds astonishing because casino advantages are usually measured in low single digits.
