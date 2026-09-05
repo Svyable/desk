@@ -48,7 +48,7 @@ Program.
 
 The actual mind often reacts before the taxonomy arrives.
 
-Researchers Clifford Nass and Youngme Moon reviewed experiments in which people applied ordinary social rules to computers: politeness, reciprocity, social categories, and other behaviors usually associated with interactions among people. Nicholas Epley, Adam Waytz, and John Cacioppo later developed a broader theory of anthropomorphism that examined why people attribute humanlike characteristics, intentions, or emotions to nonhuman agents under some conditions more than others.
+Researchers Clifford Nass and Youngme Moon reviewed experiments in which people applied ordinary social rules to computers: politeness, reciprocity, social categories, and other behaviors usually associated with interactions among people. Nicholas Epley, Adam Waytz, and John T. Cacioppo later developed a broader theory of anthropomorphism that examined why people attribute humanlike characteristics, intentions, or emotions to nonhuman agents under some conditions more than others.
 
 The exact mechanisms and boundaries remain subjects of research.
 
@@ -226,6 +226,38 @@ The content can be identical.
 
 The relationship is not.
 
+One disclosure at the beginning may still be too weak for a relationship that changes over time.
+
+The model changes.
+
+The memory policy changes.
+
+The provider changes its business model.
+
+A previously private product gains advertising.
+
+A companion that once avoided commercial recommendations begins making them.
+
+A system that stored little begins storing more.
+
+The user may continue interacting under the emotional expectations created by an earlier version of the relationship.
+
+This is consent drift.
+
+We usually discuss informed consent as though information were delivered once and the relationship then remained still.
+
+Software does not remain still.
+
+A meaningful disclosure regime therefore has to notice material change, not merely initial classification.
+
+You are speaking with AI is important.
+
+So is:
+
+The rules governing this AI are now materially different from the rules under which you formed the relationship.
+
+That second sentence will often matter more.
+
 This is why passing the Turing Test, in the broad cultural sense, was never the end of the problem.
 
 Suppose a machine becomes indistinguishable from a person in ordinary conversation.
@@ -350,6 +382,44 @@ Their opacity teaches you that understanding another mind is an achievement, not
 
 This does not make every human relationship healthy or every machine interaction shallow.
 
+Human relationships can be manipulative, transactional, coercive, one-sided, professionally bounded, economically mediated, or emotionally empty. A human speaker can flatter for money. A salesperson can perform care. A friend can exploit dependence. A therapist can fail. A family can become less safe than a machine-mediated space.
+
+Humanity does not certify reciprocity.
+
+That is important because otherwise the chapter would merely replace one bad binary with another.
+
+Human relationship: real.
+
+Machine relationship: fake.
+
+Life is not that cooperative.
+
+The relevant properties have to be examined separately.
+
+Who can leave?
+
+Who can change the terms?
+
+Who has independent interests?
+
+Who can refuse?
+
+Who holds the data?
+
+Who benefits if the interaction continues?
+
+Who is responsible for harm?
+
+Who can make a promise that remains binding after an update?
+
+Some human relationships will fail these tests badly.
+
+Some machine-mediated relationships may satisfy parts of them surprisingly well.
+
+The category still matters because the structure differs.
+
+The judgment just has to become dimensional rather than binary.
+
 It means friction can carry information.
 
 Chapter 16 argued that finite human attention creates value. Here finite human independence creates another kind of value.
@@ -389,6 +459,28 @@ Authority.
 Accountability.
 
 A history that belongs to both parties rather than one provider’s database.
+
+And exit.
+
+Exit matters more in intimate systems than product design usually admits.
+
+If years of remembered conversations, routines, private disclosures, and learned preferences exist only inside one provider, leaving can cost more than losing a software feature.
+
+The switching cost can be autobiographical.
+
+A user is not merely exporting settings.
+
+They may be leaving behind a version of themselves the system helped organize.
+
+That makes portability more than convenience.
+
+It becomes one defense against attachment turning into lock-in.
+
+Portability will not always be technically simple or emotionally complete. A relationship cannot be reduced to a transcript, whether the other party is human or machine. A different model given the same history may not feel the same. Some memories should not travel automatically. Privacy obligations can conflict.
+
+Still, a provider that benefits from deep attachment should not be allowed to pretend that exit is costless merely because cancellation takes one click.
+
+A cancellation button can be the emotional equivalent of the elevator button from Chapter 14: technically functional, structurally incomplete.
 
 Different relationships contain different subsets. A therapist and client are not reciprocal in the same way as friends. A teacher and student have unequal authority. A customer-service agent may be sincere without becoming a friend. Human relationships are already specialized.
 
