@@ -13,7 +13,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check current books remain canonical
+      - name: Show any residual title-page drift
         run: |
-          python3 scripts/align-title-pages.py --check
+          python3 scripts/align-title-pages.py --write
           git diff --check
+          git diff --name-only
+          git diff -- books
+          test -z "$(git status --short -- books)"
