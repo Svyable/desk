@@ -58,6 +58,22 @@ The meaningful choices occurred earlier: which objective the system pursues, whi
 
 These are design choices about agency.
 
+There is a long research history behind the danger of ceremonial oversight. Human-factors researchers were studying automation complacency and automation bias well before modern generative systems existed. Raja Parasuraman and Dietrich Manzey reviewed that literature in 2010 and found that people can under-monitor automated systems when attention is divided among multiple tasks. The effect appeared in both inexperienced and expert users, and simple practice was not enough to make it disappear.
+
+The transfer to today's AI systems should be bounded. An aircraft warning system, a clinical decision aid, and a language model are not interchangeable technologies. The tasks, interfaces, error distributions, incentives, and consequences differ.
+
+But the mechanism matters.
+
+Reliable assistance changes where attention goes.
+
+If a system is usually right, checking every output feels wasteful. If the human has other work to do, attention migrates toward the work the automation did not absorb. The better the system becomes, the more rational that migration can look.
+
+Then a rare error arrives precisely where attention has thinned.
+
+This is not an argument for distrusting useful automation. A system that is right ninety-nine times out of a hundred may deserve substantial trust. It is an argument against treating the presence of a nominal human approver as evidence that meaningful control remains intact.
+
+Control depends on what the human can actually notice and do.
+
 Consider an AI system that manages a household's finances. It could be built as an elaborate calculator: the family sets goals, specifies constraints, reviews recommendations, and explicitly approves consequential transfers. It could also be built as an autonomous optimizer that predicts the family's preferences and moves money continuously.
 
 The second system may produce better financial outcomes.
@@ -81,6 +97,46 @@ Artificial abundance therefore makes explanation valuable in a new way.
 When a system can generate and execute many actions cheaply, people need to know which actions deserve scrutiny.
 
 Not every decision requires a philosophical seminar. Most should disappear into reliable infrastructure. The challenge is identifying the decisions whose consequences, uncertainty, novelty, or irreversibility make human attention worthwhile.
+
+The location of that attention cannot be chosen only by asking whether the system is intelligent enough.
+
+A highly capable system may need less supervision on routine work and more careful boundaries around rare consequential actions. A less capable system may be safe in a narrow environment because its permissions are small and its mistakes are easy to undo.
+
+Capability and authority are different variables.
+
+That distinction becomes important as assistants turn into agents.
+
+A drafting tool suggests words. A browsing agent can gather information. A scheduling agent can move meetings. A purchasing agent can spend money. A coding agent can modify production systems. An administrative agent might file forms, send notices, or change records.
+
+The underlying model can be identical while the agency question changes with the authority granted to it.
+
+A typo in a draft is cheap.
+
+A mistaken wire transfer is not.
+
+This is why reversibility deserves more attention than the phrase human in the loop usually receives. If an action can be safely undone, a system can often be given more room to explore. If an action creates irreversible or widely distributed consequences, permission should usually become more deliberate.
+
+A message saved as a draft can be reviewed later. A message sent to ten thousand customers cannot be unsent in the same sense. A calendar invitation can be moved. A public accusation can continue circulating after a correction. A software configuration can sometimes be rolled back. A physical injury cannot.
+
+The point is not that irreversible actions must always require a manual click.
+
+A well-tested automated safety system may need to act faster than a person could. An insulin pump that waited for conscious approval of every adjustment would defeat much of its purpose. Emergency braking exists because the machine can sometimes respond before the driver.
+
+Agency is compatible with pre-authorized automation.
+
+The meaningful decision may have occurred earlier, when the person or institution chose the rule under which the system may act.
+
+That moves the question from intervention to authorship.
+
+Who had the authority to define the objective?
+
+Who consented to the delegation?
+
+Who can change the rule?
+
+Who can see when the rule is behaving badly?
+
+Who bears the consequence when the automation reaches a case the designers did not imagine?
 
 This boundary will move.
 
@@ -132,6 +188,26 @@ Agency can erode without a dramatic failure.
 
 It can erode through convenience that becomes identity by default.
 
+The problem resembles a familiar feature of recommendation systems. A prediction is trained on evidence of past behavior. Past behavior becomes the basis for what is shown next. What is shown next influences future behavior. The loop can be useful because preferences often have continuity. It can also make old choices unusually sticky.
+
+A person who once listened to a genre may keep receiving it. A shopper who once searched for an item may be pursued by its category. A worker who once declined evening meetings may have that preference carried forward after a promotion changes the job.
+
+An agent can make this loop more consequential because it does not merely recommend. It can act.
+
+The old preference becomes a rule unless somebody notices that it should expire.
+
+That is why systems designed for agency need some way to distinguish preference from identity.
+
+People change their minds.
+
+They act inconsistently.
+
+They experiment.
+
+They decide that the efficient version of themselves is not the person they want to become.
+
+A system that optimizes only against behavioral prediction can treat these departures as noise. A system designed to preserve agency has to leave room for them to be information.
+
 There is a counterforce. The same system could make preference change easier. It could show the employee patterns: You have declined every invitation from this group for six months. Is that still what you want? You asked me to prioritize uninterrupted mornings, but your role has changed. Should that rule remain? This decision is unusual compared with your previous choices; would you like to review it?
 
 Assistance can make habits visible instead of merely automating them.
@@ -160,6 +236,22 @@ Artificial intelligence will remove enormous amounts of unnecessary friction. It
 
 The interesting task is to remove mechanical effort without accidentally removing the moments in which people decide what they are doing.
 
+That distinction matters in institutions because individual agency and collective agency are not the same thing.
+
+A company may delegate to an agent in ways that make each employee's work easier while quietly centralizing decision power in the people who configured the system. A school may give teachers excellent automated tools while narrowing the curriculum through centrally chosen defaults. A government agency may speed case processing while making the policy assumptions embedded in the system harder for frontline staff to challenge.
+
+Automation can decentralize execution and centralize objectives at the same time.
+
+This is another reason formal human involvement tells us little by itself.
+
+Thousands of people can remain in the loop while the meaningful policy choice sits upstream in a setting none of them controls.
+
+Conversely, a system can automate most execution while preserving substantial agency if the governing objectives are visible, contestable, revisable, and legitimately chosen.
+
+The question is not how many human hands touch the process.
+
+It is where the power to redirect it lives.
+
 That distinction will not be stable.
 
 Children raised with capable assistants may develop forms of agency that look strange to people who learned to operate software manually. They may be less skilled at producing intermediate artifacts and better at directing complex systems. Or they may become dependent on systems whose defaults they rarely question. Both outcomes are plausible. Different institutions will produce different mixtures.
@@ -167,6 +259,10 @@ Children raised with capable assistants may develop forms of agency that look st
 We should be cautious about declaring one generation diminished because it delegates tasks an earlier generation had to perform itself. People once worried that writing would weaken memory, calculators would weaken arithmetic, and search engines would weaken recall. Sometimes skills do weaken. Sometimes cognitive effort moves elsewhere.
 
 The important question is whether the person can still steer.
+
+Steering does not require holding every control continuously.
+
+It requires knowing which destination is being pursued, retaining the practical ability to change course, and being able to recognize when the vehicle has started following a road you did not choose.
 
 Artificial abundance gives us more capable vehicles.
 
