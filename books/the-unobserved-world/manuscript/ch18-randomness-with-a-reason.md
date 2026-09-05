@@ -229,3 +229,33 @@ When the evidence cannot support a distinction, a carefully bounded lottery can 
 Chance is not the absence of reason.
 
 Sometimes it is the reason we are able to learn.
+
+One question still remains after the statistical design is sound: who pays for the information?
+
+A randomized mechanism can improve knowledge for the institution while imposing concentrated costs on people inside the experiment. The expected social value of learning does not erase that distribution. A user shown a different song bears almost no burden. A student routed into a different course, a borrower offered a different credit product, or a community placed later in a rollout may bear much more.
+
+That means the ethical unit is not only the average treatment effect. It is the burden-benefit relationship created by the assignment rule.
+
+A defensible randomization asks whether the participants are already inside a legitimate scarcity or uncertainty problem, whether each assigned option remains within an acceptable range, whether the burden of learning is proportionate, and whether the people supplying the evidence can plausibly benefit from the improved system rather than only future strangers.
+
+Reciprocity will not always be possible. Some public experiments necessarily produce knowledge whose largest benefits arrive later. But the further the benefits move away from the people carrying the risk, the stronger the justification and oversight should become.
+
+This is another reason to prefer randomization at reversible stages. An interview slot, a seed grant, an audit, a modest rollout order, or a small product variation can often generate information without making chance the author of an irreversible life outcome.
+
+The design should also include an expiry date for ignorance.
+
+Institutions can become attached to randomized programs because the mechanism is easy to defend: uncertainty remains, so keep exploring. But some uncertainty will always remain. If that is enough to justify indefinite experimentation, a temporary learning device becomes a permanent allocation regime without ever making the argument for permanence.
+
+A governed exploration policy therefore needs stopping and narrowing rules. What result would make the random component smaller? What evidence would make one option standard? What contradiction would widen the audit again? What environmental change would reset the question? These decisions do not have to be automatic, but they should exist before institutional habit takes over.
+
+The same applies to the pool. If randomization repeatedly shows that a previously uncertain class performs well, the gate should change so those cases no longer depend on exploratory luck. If it repeatedly shows that a region adds little useful information or causes unacceptable harm, the institution should stop paying for the same lesson.
+
+Exploration is supposed to move the boundary of ordinary knowledge.
+
+If the boundary never moves, chance has become theater.
+
+There is a final safeguard worth keeping separate from the math: randomization should never be used to make an unjustifiable policy look neutral. A lottery can distribute a scarce opportunity fairly among equals. It cannot make the scarcity itself fair. It can create credible evidence about a policy. It cannot decide whether the policy's goal is legitimate.
+
+That distinction keeps randomness in its proper place.
+
+Chance can discipline uncertainty. It cannot absolve power.

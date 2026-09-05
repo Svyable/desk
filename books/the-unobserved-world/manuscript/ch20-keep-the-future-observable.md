@@ -238,6 +238,30 @@ Prediction can make these allocation decisions more efficient.
 
 It can also concentrate them.
 
+Reality allocation therefore deserves to be treated as governance, not merely ranking.
+
+A ranking answers which option appears best. Governance asks who is allowed to construct the option set, which evidence counts, how much validation capacity is reserved for uncertainty, who can challenge the ranking, and what happens to possibilities that repeatedly lose before they reach the world.
+
+Those questions become harder when validation capacity itself is concentrated. A handful of laboratories may control expensive instruments. A small number of firms may possess the compute, customer traffic, manufacturing lines, clinical networks, or distribution channels needed to turn a generated possibility into an observed outcome. The bottleneck is not only the intelligence that proposes or scores options. It is access to the physical and institutional machinery that can make one of them real enough to test.
+
+That machinery can create a second gate underneath the algorithmic one.
+
+A model may recommend a diverse set of experiments while the organization funds only the ones compatible with existing equipment. A drug-discovery system may generate an unusual molecule that loses because the current lab process is easier for familiar chemistry. A policy simulator may identify a promising intervention that no agency has procurement authority to pilot. The allocator can look open while the validation infrastructure remains narrow.
+
+A serious reality-allocation system should therefore preserve an allocation record alongside the experimental record. What possibilities were considered? Which were ruled out by safety or rights? Which were rejected for expected value? Which could not be tested because of capacity? Which were deferred because the necessary measurement did not exist? Which uncertain regions received some protected validation budget anyway?
+
+This is not a demand to archive every generated idea. Generation can become so cheap that most proposals deserve to disappear immediately. The useful record is at the consequential boundary: the point where an option was plausible enough to compete for scarce contact with reality and lost.
+
+That boundary is where institutional priors become visible.
+
+Over time, the record can reveal whether the same kinds of uncertainty are always excluded, whether capacity constraints are masquerading as judgments of merit, and whether the validation portfolio is becoming narrower even as the generation system becomes more imaginative.
+
+There is also a separation-of-powers problem. The system that predicts the highest value has a natural claim to allocate scarce tests. Giving it every test, however, removes the independent evidence needed to learn where its ranking fails. A small portion of validation capacity may therefore need to be controlled by a different rule: external review, uncertainty sampling, random audit, domain-expert dissent, or another model with genuinely different data and assumptions.
+
+The point is not bureaucratic duplication.
+
+It is to ensure that the institution's best predictor does not become the sole proprietor of its future error signal.
+
 This becomes more important as generation gets cheaper than validation.
 
 An AI system can propose thousands of molecules, business strategies, code changes, research hypotheses, designs, legal arguments, educational interventions, or policy variants before a human institution can test a tiny fraction of them. The bottleneck moves downstream.
