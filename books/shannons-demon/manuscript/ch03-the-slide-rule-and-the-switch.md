@@ -34,6 +34,10 @@ His 1937 master’s thesis became the basis of the 1938 paper “A Symbolic Anal
 
 The paper begins from the practical problem. Complex relay circuits were already important in automatic telephone exchanges, motor control, and other electrical systems. Shannon’s concern was how to treat such networks systematically. He built a symbolic representation in which a circuit’s operating conditions could be expressed and manipulated rather than rediscovered each time from a wiring diagram.
 
+The practical force of the method appears when a network has more than one way to complete a path. A draftsman can trace each possibility. A technician can test it. But every additional contact multiplies the number of possible states that might matter. The drawing grows while the underlying logical condition may remain simple. Shannon's notation gave the designer somewhere else to work. The engineer could reduce an expression first, then ask what hardware realized the reduced form.
+
+That sequence matters economically as well as intellectually. Relays occupied space. They cost money. Contacts failed. Wiring took labor. A simplification that removed unnecessary elements was not a blackboard victory; it could make a physical control system cheaper and easier to maintain. The algebra had consequences precisely because it was indifferent to the romance of the machine.
+
 This was exactly the sort of bridge his double education had prepared him to cross. An engineer trained only in devices might have accepted the relay network as a hardware problem. A mathematician uninterested in machinery might have regarded Boole’s algebra as a formal object with no reason to descend into a switchboard. Shannon had enough of each language to recognize the translation.
 
 That translation is one of the recurring patterns of his life.
@@ -56,6 +60,10 @@ In each case, Shannon’s gift was selective indifference.
 
 He became interested in what could be ignored.
 
+The phrase needs a qualification. Ignoring detail works only after the boundary of the problem has been chosen correctly. A contact's metallurgy can be irrelevant to a symbolic proof and decisive to whether a relay works on a humid day. The algebra does not abolish the physical world. It creates a level at which some physical facts can be temporarily set aside. The engineer has to know when to descend again.
+
+That is why abstraction is not the opposite of engineering. Done well, it is a division of labor inside engineering. One representation answers whether the logic is correct. Another answers whether the contacts will switch reliably. Another may answer how much current the device draws. Confusing the levels produces mistakes; separating them makes complicated systems possible.
+
 The differential analyzer was almost the opposite kind of machine. It was gloriously specific. Its wheels, shafts, torque amplifiers, and integrators mattered to how it performed a calculation. Configuring a new problem required attention to the physical arrangement. The machine embodied mathematics through continuous motion. It was analog not only in its components but in its philosophy: mathematical quantities were represented by corresponding physical quantities that varied continuously.
 
 Relay logic offered Shannon another way to think. A switch did not need to preserve a continuous resemblance to the thing it represented. It needed only to be in one of two distinguishable states. Once those states could stand for symbolic values, the physical device became a carrier of logic.
@@ -75,6 +83,10 @@ Later retellings have understandably turned it into an origin story. MIT’s own
 That smaller motive makes the work more interesting, not less.
 
 History usually becomes tidy only after the winners are known. In the late 1930s, analog computing was not an obsolete detour. Bush’s differential analyzer was a major computational achievement. Relay systems were already practical infrastructure. Electronic digital computers had not yet settled the future. Shannon’s work emerged from this mixed environment rather than from a clean march toward the laptop.
+
+Nor did symbolic switching eliminate the engineering traditions that preceded it. A telephone exchange was not suddenly reducible to a page of Boolean expressions. Timing, contact wear, electromechanical delay, power, maintenance, and the architecture of the network remained real. Formalization made one dimension of the problem tractable. It did not make the other dimensions disappear.
+
+That restraint is useful when assigning historical credit. Shannon's paper was foundational because it supplied a general method at exactly the level where a general method was badly needed. It did not single-handedly invent every later logic circuit, and it did not make the telephone engineers around him obsolete. The advance worked because an existing engineering world was rich enough to use it.
 
 The paper also shows a trait that would recur throughout his career: he liked general methods more than ornate solutions.
 

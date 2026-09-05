@@ -96,6 +96,10 @@ A discrete state allows another possibility. If a signal has only to be recogniz
 
 Shannon had not yet built his full theory of noisy communication, but the basic attraction of discrete representation was already present in the relay work surrounding the analyzer.
 
+The comparison should not be pushed farther than the evidence allows. A relay circuit is not automatically error-free because it is discrete, and an analog machine is not useless because its errors are continuous. Relays can chatter, contacts can stick, thresholds can be crossed incorrectly, and mechanical systems can be engineered to remarkable precision. The advantage lies in the possibility of regeneration: once a receiver or switching stage can decide which symbolic state was intended, small physical deviations need not remain attached to the symbol forever.
+
+That possibility becomes more valuable as a system grows. If every stage had to preserve an exact physical magnitude inherited from the previous one, error management would remain coupled to the whole chain. Discrete representation offers places where a system can make a decision and begin again from a recognized state. Later digital engineering would exploit that property relentlessly.
+
 The machine room, then, was not simply a birthplace of digital computing. It was a place where two philosophies of representation were forced into proximity.
 
 One said: preserve the quantity by making a physical quantity resemble it.
@@ -132,7 +136,11 @@ The differential analyzer also exposes another trait that later stories sometime
 
 MIT gave him access to a rare machine. Bush had built a research environment around ambitious engineering. Telephone networks and industrial control had created practical switching problems worth solving. George Boole had supplied a formal language generations earlier. Shannon’s contribution was extraordinary, but it was not self-created from empty air.
 
-This matters because the lone-genius version of his life is particularly seductive. Shannon was private, playful, and capable of doing startling work with little visible drama. He also built eccentric machines in his spare time, which makes him easy to cast as the isolated wizard who simply thought harder than everyone else.
+The institutional setting mattered in a second way. A machine such as the analyzer concentrated different kinds of expertise around one object. Someone had to understand the mathematics of the equations. Someone had to design mechanical elements capable of performing the operations. Someone had to configure and operate the apparatus. Someone had to maintain the electrical and switching systems that made the whole arrangement usable. Shannon's graduate work sat where those specialties touched.
+
+That is a less cinematic explanation for innovation than the isolated genius story, but it fits the record better. Cross-disciplinary breakthroughs require disciplines to cross somewhere. MIT supplied the somewhere. Bush's laboratory supplied a problem dense enough to reward a person who could move between mathematical notation and electrical hardware without treating either as foreign territory.
+
+This matters because the lone-genius version of Shannon’s life is particularly seductive. Shannon was private, playful, and capable of doing startling work with little visible drama. He also built eccentric machines in his spare time, which makes him easy to cast as the isolated wizard who simply thought harder than everyone else.
 
 The early relay work tells a more useful story.
 
