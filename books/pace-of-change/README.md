@@ -41,3 +41,4 @@ The book does not argue that faster is bad or slower is wise. It argues for **te
 
 - [Research brief, prior-art boundary, and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
