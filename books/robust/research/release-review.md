@@ -67,6 +67,8 @@ These sources were rechecked on the actual release date. Details are recorded in
 ## 7. Rights and quotation review
 
 - [x] `research/rights-notes.md` exists.
+- [x] Book-level `RIGHTS.md` exists and records the `bookself-arr-v1` All Rights Reserved policy.
+- [x] Book-level `rights.json` exists as the matching machine-readable rights companion.
 - [x] Drafting policy defaults to paraphrase rather than reproduced source prose.
 - [x] Field-test chapters were written from facts/mechanisms and do not intentionally reproduce long source passages.
 - [x] Final manuscript quotation scan found no markdown blockquotes and no long reproduced third-party quotation; quotation marks are overwhelmingly hypothetical dialogue, example language, or short terms/phrases.
@@ -94,6 +96,7 @@ Post-pass publication metrics: **66,938 words**, zero exact repeated prose parag
 - [x] Reader-visible `Robust` contents remain the same 35 audited manuscript files; every checked path in the canonical README resolves to an intended file in the committed book subtree.
 - [x] Book README contains no stale `/self/` or `/binder/` Reader URLs.
 - [x] The 2026-09-05 release-date source refresh changes research/review bookkeeping only and does not modify manuscript prose.
+- [x] The 2026-09-05 rights remediation adds publication metadata only and does not modify manuscript prose.
 
 ## 10. Release decision
 
@@ -104,6 +107,7 @@ Before moving this project to Sven Hardy Benson’s Shelf:
 - [x] Manuscript and editorial Desk gates are closed.
 - [x] Desk status is `Complete draft`.
 - [x] Current Desk discovery/catalog surfaces are synchronized for `robust`.
+- [x] Required book-level rights metadata is present.
 - [x] Repository-integrity invariants relevant to the manuscript/research package have been reviewed.
 - [x] Same-day volatile-source refresh S01–S09 completed on 2026-09-05 with no manuscript correction required.
 - [x] **Release-cleared:** publish only through the normal tandem Desk/Shelf transaction from a frozen committed Desk source; keep Desk as the working edition and Shelf as the intentional snapshot.
