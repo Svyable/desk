@@ -205,3 +205,57 @@ It can move all three layers of the frontier at once.
 That is why the best investment is sometimes not the option with the highest current return.
 
 It is the option that makes tomorrow's graph less ignorant than today's.
+
+Repetition is not the same thing as learning. A team can perform the same task for years and merely become efficient at preserving the same mistakes. Learning requires a feedback loop strong enough to distinguish what worked, what failed, and which part of the result was luck.
+
+That loop has a cost.
+
+Instrumentation takes time. Postmortems consume attention. Experiments can slow production. Mentoring reduces the expert's immediate output. Documenting a process feels slower than simply doing it. The frontier between current output and future capability is visible inside every learning system.
+
+This means "we are learning" should leave evidence in the process, not only in the story.
+
+Are error classes changing? Is variance falling? Does the same work require fewer expert interventions? Can a new person reach competence faster? Are decisions becoming more decentralized because judgment has spread? Is the capability reusable in a different context?
+
+Those are signs that knowledge is accumulating rather than remaining trapped in individual heroics.
+
+Transfer is the hardest test.
+
+A team may improve because one extraordinary person learned every exception. The local frontier moved and the organizational frontier barely did. If that person leaves, the capability leaves. Tacit knowledge is real and cannot always be written down, but an organization should know how much of its performance depends on people who cannot be substituted.
+
+This creates a frontier between codification and apprenticeship. Some knowledge can be reduced to checklists, tools, and standard interfaces. Some requires supervised practice and judgment. Trying to codify everything can make a complex craft brittle. Refusing to codify anything creates dependence on memory and status.
+
+The right question is which parts of the capability can be made easier to transfer without destroying what requires experience.
+
+Learning rate also matters more than absolute competence in changing environments. A company can begin behind and win if it improves faster. An expert can remain excellent and become obsolete if the environment changes faster than the expertise. A policy institution can make mistakes and still be strong if it detects and corrects them quickly.
+
+The frontier therefore has a derivative.
+
+Where is it moving, and how quickly?
+
+That is a different strategic question from where it sits today. A competitor with worse current economics but a steeper learning curve may be more important than the current leader. A new technology with inferior first-generation performance may matter if each generation removes cost quickly. A person's unfamiliar skill may deserve investment if the learning rate is high and the surrounding market is moving toward it.
+
+This is why early comparisons need a learning horizon.
+
+At the same time, organizations are vulnerable to imagined learning curves. Every immature project can claim it will improve. The honest forecast should specify which mechanism creates learning. Volume creates more observations. Better instrumentation improves diagnosis. Standardization makes experience transferable. Automation captures a repeated sequence. Training raises baseline skill. Competition reveals relative performance.
+
+Without a mechanism, time passing is not learning.
+
+There is also a distributional question inside learning. Who pays the tuition and who owns the resulting capability? Junior people may absorb low-paid training periods. Customers may tolerate imperfect early products. Public institutions may fund research whose benefits are later captured privately. A company may train employees who then take the skill elsewhere.
+
+These transfers are not inherently unfair. They are part of how knowledge spreads. They should be visible because they affect whether a learning strategy remains feasible.
+
+A firm that refuses all employee mobility may retain more knowledge in the short run and become less attractive to the people capable of creating knowledge. A firm that never invests because people may leave can guarantee that nobody learns.
+
+Learning requires accepting some leakage.
+
+That leakage can move the frontier of the whole field. Workers carry methods to new employers. Suppliers teach several customers. Open standards diffuse process knowledge. Scientific publication turns private discovery into public capability.
+
+The organization then has to keep learning rather than treating one period of mastery as permanent rent.
+
+This may be the deepest reason learning belongs in the frontier rather than in a training budget.
+
+Knowledge changes what is feasible, changes who can make the choice, changes the speed of adaptation, and changes the value of old constraints.
+
+A learning organization is not one that knows the most.
+
+It is one whose feasible set keeps changing because experience is converted into capability faster than capability decays.

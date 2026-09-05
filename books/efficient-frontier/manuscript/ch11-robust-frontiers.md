@@ -6,7 +6,7 @@ That sentence sounds like a contradiction only if efficiency is mistaken for cer
 
 Suppose an investment portfolio appears optimal because a small allocation to one asset raises expected return without much estimated risk. The recommendation depends on estimated returns and covariances. Change those estimates within a range that is statistically plausible and the allocation changes dramatically. The exact point is efficient under the estimate and fragile under the uncertainty.
 
-Robust portfolio optimization was developed in part to confront this problem. Rather than acting as if estimated parameters were known perfectly, robust methods can ask how a choice performs across an uncertainty set. Stephen Boyd and collaborators, among others, have written about robust efficient frontiers that reflect worst-case performance across plausible parameter values.
+Robust portfolio optimization was developed in part to confront this problem. Rather than acting as if estimated parameters were known perfectly, robust methods can ask how a choice performs across an uncertainty set. Work by researchers including Dimitris Bertsimas, Laurent El Ghaoui, Daniel Goldfarb, Garud Iyengar, Arkadi Nemirovski, and others has made this a substantial field rather than a footnote to ordinary optimization.
 
 The larger lesson is not financial.
 
@@ -197,3 +197,45 @@ If the future cannot be assigned a clean probability, what nearby point performs
 If the answer to those questions costs something, that cost is not inefficiency by default.
 
 It may be the premium paid for not requiring the future to cooperate.
+
+Robustness is easier to reason about when its budget is explicit. A company can spend on spare capacity, liquidity, supplier diversity, modularity, insurance, inventories, training, and extra time. All of them reduce dependence on particular assumptions. They also compete with one another.
+
+This means resilience spending should be a portfolio rather than a reflex.
+
+If a second supplier and more inventory protect against the same disruption, compare the coverage. If liquidity and insurance both protect a cash-flow shock, ask which failure modes each handles. If modular architecture and a termination clause both reduce vendor lock-in, avoid paying twice for an option whose second copy adds little.
+
+Redundancy can be redundant.
+
+A robustness budget forces the organization to describe the failure mode each buffer is buying. That makes it easier to discover gaps as well. A company may spend heavily on cyber prevention and little on recovery. A household may carry several forms of property insurance and very little liquidity. A city may harden one piece of infrastructure while leaving the dependency that feeds it exposed.
+
+Coverage maps matter more than the number of safeguards.
+
+Stress testing should also test the decision rule, not just the asset. Many plans specify what the system owns and not what people will do under stress. A supply chain has backup vendors but no authority to switch quickly. A company has cash but a board process that cannot approve emergency use. A disaster plan has alternate sites whose staff do not know how to operate them.
+
+The robust frontier is partly procedural.
+
+A capability that cannot be activated under the conditions that make it necessary is not much of a capability.
+
+This is why drills and rehearsals matter. They reveal coordination costs that paper scenarios miss. They also create an uncomfortable form of evidence: the backup may be worse than management assumed. That is useful. A fragile fallback discovered in a drill can still be repaired.
+
+There is another source of robustness: diversity of models. When a decision depends heavily on one forecasting method, one expert, one vendor estimate, or one causal story, disagreement can be protective. Independent models that arrive at the same region of the frontier increase confidence. Independent models that diverge reveal model risk that a single confidence interval can conceal.
+
+The goal is not committee wisdom by default. Ten versions of the same assumption are one assumption with ten authors.
+
+Useful diversity changes the causal story.
+
+One team forecasts demand from historical growth. Another starts from customer budgets. Another models capacity constraints. If all support roughly the same investment, the point is more robust to model choice. If they produce different frontiers, the disagreement tells you where another experiment or a reversible stage may be valuable.
+
+A final discipline is to distinguish robustness from stubbornness. A plan can be designed to survive change and become incapable of responding to change. Excess reserves can protect an obsolete business. Strong standards can preserve compatibility around a technology the market has abandoned. A diversified product portfolio can keep weak products alive because no single failure is fatal.
+
+Robustness should preserve agency, not preserve the current form at any cost.
+
+The stress question is therefore two-sided.
+
+Can this system withstand a changed world?
+
+Can it also stop being itself when the changed world makes that necessary?
+
+The most robust frontier is not the one that makes failure impossible.
+
+It is the one that leaves enough capability, liquidity, knowledge, and decision freedom to keep choosing after failure changes the map.
