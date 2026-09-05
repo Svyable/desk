@@ -114,6 +114,16 @@ Later chess machines became vastly faster and more sophisticated. The Computer H
 
 More computation changed the frontier of selectivity. It did not abolish selectivity.
 
+There is another reason the Deep Blue endpoint is useful. It corrects the flattering instinct to treat human-like selectivity as the obvious destination of machine intelligence. Deep Blue's strength came partly from doing something no human grandmaster could do: applying enormous, reliable search to a carefully engineered evaluation system. The machine did not have to ration attention in the same way a person did because hardware had changed the price of attention.
+
+That is a warning against confusing a resource constraint with a permanent theory of intelligence.
+
+Shannon's Type A and Type B distinction was framed under the computational economics of his time. As those economics moved, the sensible boundary between breadth and selectivity moved with them. A heuristic that is indispensable when a machine can examine thousands of positions may become less valuable when the machine can examine millions. A richer evaluator can justify its cost on one architecture and become a bottleneck on another.
+
+The algorithm is never priced in the abstract.
+
+It runs somewhere.
+
 This is the point that survives chess.
 
 A finite problem can be computationally inaccessible.
