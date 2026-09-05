@@ -24,11 +24,13 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v16';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v17';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
 assert.match(worker, /'\.\.\/catalog\.json'/);
+assert.match(worker, /'\.\/css\/desk-reading-app\.css'/);
+assert.match(worker, /'\.\/js\/desk-reading-app\.js'/);
 assert.match(worker, /'js\/pwa-update\.js'/);
 assert.match(worker, /'js\/native-share\.js'/);
 assert.match(worker, /'css\/settings-panel\.css'/);
@@ -72,6 +74,8 @@ const localShell = worker.slice(worker.indexOf('const LOCAL_SHELL'), worker.inde
 assert.match(sharedShell, /library-quick-look/);
 assert.match(sharedShell, /library-book-preview-model/);
 assert.match(sharedShell, /theme-controls/);
+assert.match(localShell, /desk-reading-app\.css/);
+assert.match(localShell, /desk-reading-app\.js/);
 assert.doesNotMatch(localShell, /library-quick-look|library-book-preview|theme-controls/);
 assert.doesNotMatch(worker, /offline-readiness/);
 assert.doesNotMatch(worker, /'css\/one-handed-actions\.css'/);
@@ -89,13 +93,17 @@ assert.match(worker, /if \(revisionLookup\) \{[\s\S]*event\.waitUntil\(network[\
 assert.match(loader, /installDeskRuntimeBridge/);
 assert.match(loader, /fetchBootstrapResource/);
 assert.ok(loader.indexOf('installDeskRuntimeBridge();') < loader.indexOf('fetchBootstrapResource(appUrl'));
-assert.match(loader, /adaptSharedReaderAppSource/);
+assert.doesNotMatch(loader, /adaptSharedReaderAppSource/);
+assert.match(loader, /DESK_CATALOG_AUDIT/);
+assert.match(loader, /catalogEntryVisible/);
+assert.match(loader, /rewriteSharedModuleSpecifiers\(source, upstream\)/);
 assert.match(loader, /viewport-stability-runtime\.js\?v=r1/);
 assert.match(loader, /Viewport stability could not be loaded/);
 assert.ok(loader.indexOf('await import(viewportStabilityUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
 assert.match(loader, /const nativeShareUrl = `\$\{upstream\}native-share\.js`;/);
 assert.match(loader, /Native sharing could not be loaded/);
 assert.ok(loader.indexOf('await import(nativeShareUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
+assert.match(loader, /desk-reading-app\.js\?v=bookself-20260905/);
 assert.doesNotMatch(loader, /quickLookUrl|library-quick-look\.js/);
 assert.doesNotMatch(loader, /settingsHierarchyUrl|settings-hierarchy\.js/);
 assert.match(loader, /document\.documentElement\.dataset\.oneHandedActionsReady = 'true'/);
@@ -116,4 +124,4 @@ assert.match(bridge, /isDeskPortalReadme/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: shared quick look ownership verified');
+console.log('Desk PWA source contract: reading-app hierarchy cached locally');
