@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 96 book projects · 47 complete drafts · 2 in revision · 47 drafting**
+> **Desk: 97 book projects · 47 complete drafts · 2 in revision · 48 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 47 author projects · 44 released · 3 public drafts/proofs**
-> **Where they live: 47 in both Desk + Shelf · 49 Desk-only · 0 Shelf-only**
+> **Where they live: 47 in both Desk + Shelf · 50 Desk-only · 0 Shelf-only**
 > **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -96,6 +96,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,065 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 48,122 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,984 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
+| [**Autonomy Half-Life**](books/autonomy-half-life/) | ✍️ Drafting | 20 of 20 | — | Every grant of autonomy is made inside a particular world: a purpose, a set of facts, a risk level, a counterpart, a budget, a model of what might happen, and an understanding of who remains accountable. | [Read →](https://svyable.github.io/desk/reader/#/b/autonomy-half-life/) |
 | [**Chiptastrophy**](books/chiptastrophy/) | ✍️ Drafting | 4 of 24 | 11,216 | America has spent years learning that a semiconductor shortage does not have to look like a shortage of semiconductors. | [Read →](https://svyable.github.io/desk/reader/#/b/chiptastrophy/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 | 52,359 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
 | [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | 22 of 22 + 4 interludes | 68,701 | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
