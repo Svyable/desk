@@ -22,12 +22,15 @@ function ensureDeskStylesheet() {
 function keepDeskStylesAfterShared() {
   const local = ensureDeskStylesheet();
   const shared = sharedSettingsStylesheet();
-  if (!shared || shared.nextElementSibling === local) return;
-  shared.insertAdjacentElement('afterend', local);
+  if (!shared) return false;
+  if (shared.nextElementSibling !== local) shared.insertAdjacentElement('afterend', local);
+  return true;
 }
 
-if (typeof document !== 'undefined') {
-  keepDeskStylesAfterShared();
-  const observer = new MutationObserver(keepDeskStylesAfterShared);
+if (typeof document !== 'undefined' && !keepDeskStylesAfterShared()) {
+  const observer = new MutationObserver(() => {
+    if (!keepDeskStylesAfterShared()) return;
+    observer.disconnect();
+  });
   observer.observe(document.head, { childList: true });
 }
