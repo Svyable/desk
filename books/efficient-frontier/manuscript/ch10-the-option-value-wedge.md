@@ -201,3 +201,39 @@ The wedge is the price of not having to be right yet.
 In a world with no uncertainty, that price would often be wasted.
 
 In the world we have, it can be one of the cheapest forms of intelligence.
+
+The most overlooked option is the option to scale, not merely the option to abandon. A small commitment can preserve the right to expand rapidly if evidence turns favorable. Leasing a small facility with expansion rights, negotiating additional supplier capacity, reserving spectrum or land, building a product architecture that can support more volume, or keeping financing access open can all create upside branches.
+
+This matters because a pilot that is easy to stop and impossible to scale has learned something without preserving the ability to use the learning.
+
+Good staging creates two doors: out and forward.
+
+The forward door has a price. Reserved capacity costs money. Modular architecture can be more expensive. A contract with expansion rights may carry a premium. The option should be priced against the value of being able to respond before competitors, prices, or physical constraints change.
+
+There is also an option to defer specification. A team can commit to an interface before choosing the implementation. A building can reserve shafts or structural capacity before the future equipment is known. A company can hire for a capability rather than a narrowly defined project. A policy can define an outcome standard while leaving multiple technologies eligible.
+
+Deferring specification can preserve innovation.
+
+It can also create ambiguity and integration risk. Decisions postponed too long become decisions made under deadline. The option has value only if the future information is likely to improve the specification enough to justify the cost of waiting.
+
+Option value can be destroyed by organizational incentives even when the technical option survives. A platform may technically support migration, but the team that would lead it has been dissolved. A contract may permit termination, but no executive wants to admit the original choice failed. A pilot may have a stop condition, but the vendor has already been announced publicly as a strategic partner.
+
+The real exercise price includes politics.
+
+This is why option design should include the decision right. Who can exercise the option? What evidence is sufficient? What budget exists? What reputational cost attaches to changing course? Is there a date when the choice must be reconsidered rather than merely allowed to continue by inertia?
+
+An option without an exerciser is latent paperwork.
+
+Precommitment can make the option real. Decide before results arrive that if these conditions hold, expansion follows; if those conditions hold, the project stops. The rule will never capture every case, but it reduces the ability of sunk costs to rewrite the test after the fact.
+
+There is a paradox here. Preserving flexibility sometimes requires commitment to the process that governs flexibility.
+
+A company commits to modular interfaces so components remain substitutable. A household commits to maintaining an emergency fund so career choices remain open. A government commits to periodic review so a temporary rule does not become permanent by neglect. The discipline is fixed in order to keep later choices free.
+
+This is not infinite optionality. It is protected agency.
+
+That is the deeper value of the wedge. A decision can be slightly worse on today's two visible axes and better because it leaves the decision maker capable of responding when the map changes.
+
+The asset being purchased is not merely flexibility.
+
+It is the continued right to choose.

@@ -169,3 +169,43 @@ The frontier in a consequential decision is often a coastline in fog. You can es
 But if your plan requires the coastline to be exactly where the pencil drew it, the problem is not that the future is uncertain.
 
 The problem is that your decision cannot tolerate being wrong.
+
+Uncertainty becomes much easier to govern when forecasts are scored after the fact. Most organizations remember outcomes and forget the probability that was attached to them. A project either launched or did not. Revenue either arrived or did not. The original confidence range disappears, so the organization cannot distinguish a calibrated forecaster from a lucky one.
+
+A simple forecast log changes that.
+
+Record the estimate, the range, the assumptions that matter, and the date at which the forecast should be judged. Later, compare what happened with what was believed. The purpose is not to punish error. It is to learn whether ranges are habitually too narrow, whether one domain is systematically optimistic, and whether certain uncertainties are being ignored.
+
+Calibration is a capability.
+
+A team that learns its own error distribution can build more realistic frontiers even if it never predicts perfectly. If launch estimates are routinely thirty percent too short, planning can adjust. If demand forecasts are accurate in stable markets and poor around category shifts, the organization knows when a point estimate deserves less authority.
+
+This is different from merely adding contingency. A blanket twenty-percent buffer can become ritual. Calibration asks why the error occurs and when.
+
+Forecast logs also reveal strategic behavior. If estimates become more confident as they move up the hierarchy, uncertainty is being compressed politically. If every project is just above the investment hurdle, forecasts may be serving approval rather than prediction. If downside scenarios are described vividly and upside scenarios numerically, the institution may be risk averse in presentation rather than in policy.
+
+The fog has incentives.
+
+This means uncertainty should sometimes be governed by separating estimation from ownership of the desired answer. Independent review, reference-class forecasting, pre-mortems, and external comparators can help when stakes justify the cost. None removes bias. They make it harder for one narrative to monopolize the range.
+
+Reference classes are especially useful because a plan can feel unique from inside. The team knows every special detail and forgets that projects with similar complexity, approvals, dependencies, or novelty have a distribution of outcomes. Looking outward does not erase the particulars. It prevents the particulars from becoming a license for impossible precision.
+
+There is also uncertainty about second-order effects. A new product succeeds and changes customer behavior. A policy works and attracts more participants. A cost reduction increases usage enough that total cost rises. A safety improvement creates risk compensation. A new road changes land use around it.
+
+The first-order frontier can move and create a different problem.
+
+This is why scale is itself an uncertainty. A mechanism demonstrated at small volume may alter incentives, congestion, fraud, support burden, or political attention at large volume. The pilot estimates one frontier. Scale may generate another.
+
+A decision should therefore distinguish uncertainty that resolves through time from uncertainty created by success.
+
+The second kind cannot always be learned before acting because the act creates it.
+
+The response is modularity, monitoring, and trigger conditions. If a variable crosses a level at which the preferred option changes, define that breakpoint before the decision. If demand exceeds this level, add capacity. If false positives exceed that rate, widen review. If supplier concentration reaches this threshold, qualify another source. If the pilot reaches this scale, re-run the externality analysis.
+
+Triggers turn sensitivity analysis into governance.
+
+They prevent the original choice from becoming a permanent commitment after the conditions that justified it have changed.
+
+The goal under uncertainty is not to draw a blur and give up.
+
+It is to know which parts of the blur matter, which can be learned, which require robustness, and which should cause the decision to move when reality becomes clearer.
