@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson's Desk |
 | **Publication Surface** | Sven Hardy Benson's Shelf |
-| **Chapters**  | 14 of 20 drafted |
+| **Chapters**  | 16 of 20 drafted |
 
 Claude Shannon and the Invention of the Digital Mind.
 
@@ -35,8 +35,8 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 - [x] [Ch 14 — Entropy House](manuscript/ch14-entropy-house.md)
 - [x] [Ch 15 — The Wearable Computer](manuscript/ch15-the-wearable-computer.md)
 - [x] [Ch 16 — Shannon's Demon](manuscript/ch16-shannons-demon.md)
-- [ ] [Ch 17 — The Reluctant Sage](manuscript/ch17-the-reluctant-sage.md)
-- [ ] [Ch 18 — The Bit Becomes the World](manuscript/ch18-the-bit-becomes-the-world.md)
+- [x] [Ch 17 — The Reluctant Sage](manuscript/ch17-the-reluctant-sage.md)
+- [x] [Ch 18 — The Bit Becomes the World](manuscript/ch18-the-bit-becomes-the-world.md)
 - [ ] [Ch 19 — Entropy and Amnesia](manuscript/ch19-entropy-and-amnesia.md)
 - [ ] [Ch 20 — What the Juggler Knew](manuscript/ch20-what-the-juggler-knew.md)
 - [ ] [Back Matter](manuscript/back-matter.md)
