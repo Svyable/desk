@@ -311,3 +311,85 @@ The line does not justify itself.
 Threshold machines are powerful because they make action possible in a world of degree.
 
 They are dangerous when the action becomes easier to see than the degree that justified it.
+
+There is another failure mode that looks almost like the opposite of a bad threshold.
+
+The detector can be good and the alert can still be bad.
+
+Suppose an event is extremely rare. A screening system can correctly identify most real cases and still produce far more false alarms than true ones if ordinary cases outnumber dangerous cases by enough. The arithmetic is not mysterious, but operational systems repeatedly rediscover it.
+
+This is the base-rate problem.
+
+Imagine a condition present in one person out of a thousand. A detector catches nine of every ten true cases and falsely flags one person out of a hundred who does not have it. In a large population, the false positives can vastly outnumber the true positives even though both performance percentages sound impressive in isolation.
+
+The threshold did not fail because it was insufficiently precise.
+
+It failed because the system ignored the population in which the threshold was operating.
+
+That matters for medical screening, fraud systems, cybersecurity, content moderation and anomaly detection. Rare-event detection cannot be designed from sensitivity alone. Prevalence changes what a positive signal means.
+
+This is why good systems often have stages.
+
+A cheap, sensitive screen creates a candidate set. A more specific second test, investigation or human review resolves the ambiguous cases. The first threshold is not asked to carry the entire consequence.
+
+That architecture preserves something gradation needs badly: proportionality between evidence and action.
+
+Weak evidence can justify attention without justifying punishment.
+
+A model score can justify review without justifying denial.
+
+A sensor anomaly can justify inspection without justifying shutdown.
+
+A student near a mastery threshold can justify more assessment without justifying a permanent track.
+
+The mistake is often not where the first line sits.
+
+It is attaching the final consequence to the first line.
+
+This also changes how we should think about overrides.
+
+Organizations sometimes treat human override as evidence that automation failed. But an override can be a designed third state between automatic approval and automatic rejection. The machine handles the regions where the evidence is strong. The ambiguous band gets a different process.
+
+That is not necessarily less automated.
+
+It is better segmented automation.
+
+The hard part is preventing the review band from becoming a dumping ground that overwhelms human capacity. Move too many cases into review and the second stage saturates. Reviewers rush, rubber-stamp or develop shortcuts that recreate the original threshold informally.
+
+A threshold system therefore has a queue behind it.
+
+Change the threshold and you change not only error rates but workload downstream.
+
+This is one reason model deployment can fail despite good offline metrics. A one-point increase in recall can create thousands of additional alerts. The metric improves. The operations team drowns. Response time lengthens. True cases wait longer. The system becomes worse through an improvement measured at the wrong layer.
+
+The threshold has to be designed with the capacity of the institution that receives its output.
+
+And the line cannot remain fixed merely because it once worked.
+
+Base rates move. Attackers adapt. Economic conditions change. A disease becomes more or less prevalent. Customer behavior shifts. Sensors age. New products enter the population. A model trained on one distribution meets another.
+
+The same threshold now selects a different mixture of cases.
+
+That is why mature systems monitor the consequence of the threshold, not merely the score distribution feeding it.
+
+How many alerts were useful?
+
+How many people were harmed by false positives?
+
+How long did review take?
+
+What changed near the line?
+
+Did the population start gaming the rule?
+
+Did a previously rare event become common enough that the old tradeoff no longer holds?
+
+The threshold is not a monument.
+
+It is a control setting inside a changing environment.
+
+That may be the most important difference between a machine that merely classifies and a machine that governs.
+
+Classification ends when the label is assigned.
+
+Governance has to watch what the label does next.
