@@ -72,11 +72,25 @@ This is why liquidity vanishes in ways that surprise people who model markets as
 
 The gradient of price becomes a cliff in financing conditions.
 
-Traffic contains a less dramatic version.
+Traffic contains a cleaner version because nobody needs a story about beliefs or balance sheets.
 
-A road can absorb additional vehicles with modest delay. As density rises, drivers have less room to adjust speed. Small braking events propagate backward. One driver touches the brake; the following driver brakes a little harder; the next reacts later. A wave forms without a crash or visible obstruction.
+In 2008 Yuki Sugiyama and colleagues published the result of a simple road experiment. Cars drove around a circular track. There was no accident ahead, no lane closure, no tollbooth and no hill. The drivers were asked to move at roughly the same speed and spacing.
 
-The road contains no physical wall at which free flow becomes congestion.
+For a while, the flow held.
+
+Then small fluctuations grew.
+
+A driver slowed a little. The following driver reacted. The next reacted to that reaction. Eventually a jam cluster appeared even though the road itself contained no fixed bottleneck. The congestion propagated backward around the circle.
+
+The result mattered because it separated cause from excuse.
+
+Drivers often arrive at the back of a traffic jam expecting to discover what happened. A wreck. Construction. A closed lane. Sometimes there is no event proportional to the delay.
+
+The event is interaction under density.
+
+A road can absorb additional vehicles with modest delay. As density rises, drivers have less room to adjust speed. Small braking events propagate backward. One driver touches the brake; the following driver may brake a little harder; the next reacts later. A perturbation that would disappear in sparse traffic can amplify near a critical density.
+
+The road contains no painted stripe saying free flow ends here.
 
 The transition emerges from interaction among drivers near capacity.
 
@@ -189,6 +203,22 @@ Connectivity matters.
 The same point on the vertical axis can mean different futures depending on the slope and the feedback.
 
 Social behavior adds another complication: people react not only to conditions but to other people's reactions.
+
+Thomas Schelling made this problem famous in a different setting. His segregation models asked what happens when individuals choose locations partly in response to the composition of their local neighborhood. The important result was not that every person held an extreme preference for separation. It was that relatively modest local decision rules could generate much more dramatic aggregate patterns.
+
+The final map could look as though everyone had demanded segregation.
+
+The local rules did not need to say that.
+
+Movement changed the neighborhoods faced by others. Those changes altered the next round of movement. The pattern fed on its own consequences.
+
+This is one of the most important cautions in social inference.
+
+A dramatic collective outcome does not reveal the intensity of every individual's preference.
+
+The aggregate can be steeper than the people.
+
+That fact reaches far beyond housing.
 
 A restaurant with a line attracts attention because the line itself is evidence of demand. A book becomes easier to notice because other people are reading it. A political candidate appears viable because donors, volunteers, media and voters observe signs of viability. A neighborhood becomes fashionable partly because people with influence decide it is becoming fashionable.
 
@@ -358,7 +388,7 @@ They cannot see the cascade that did not happen.
 
 Efficiency therefore tends to eat resilience slowly.
 
-A budget is trimmed. Inventory is reduced. staffing is tightened. redundant systems are consolidated. The organization performs well. The cuts appear validated. Another margin is removed.
+A budget is trimmed. Inventory is reduced. Staffing is tightened. Redundant systems are consolidated. The organization performs well. The cuts appear validated. Another margin is removed.
 
 Each step can be locally rational.
 
