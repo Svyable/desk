@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 47 author projects · 44 released · 3 public drafts/proofs**
-> **Where they live: 47 in both Desk + Shelf · 49 Desk-only · 0 Shelf-only**
-> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 48 author projects · 45 released · 3 public drafts/proofs**
+> **Where they live: 48 in both Desk + Shelf · 48 Desk-only · 0 Shelf-only**
+> **Release review queue: 9 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -27,6 +27,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Appeal**](books/appeal/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/appeal/) |
 | [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/artificial-identity/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
+| [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/commit/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
 | [**Face the Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/face-the-strange/) |
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/fiscal-wall/) |
@@ -67,7 +68,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Commit](books/commit/), [Neuralase](books/neuralase/), [Robust](books/robust/), [Solar Century](books/solar-century/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Robust](books/robust/), [Solar Century](books/solar-century/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -251,7 +252,7 @@ books/
     RIGHTS.md          ← publication rights when present
     manuscript/        ← the book itself
     research/          ← sources and book-specific notes
-    media/             ← images and other assets
+    media/              ← images and other assets
 ```
 
 `books/_TEMPLATE/` is a starting point, not a real publication and not part of the Reader catalog.
