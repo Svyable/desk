@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 16 of 20 drafted |
+| **Chapters**  | 20 of 20 drafted |
 
 *How Yesterday's Success Becomes Tomorrow's Constraint*
 
@@ -65,13 +65,10 @@ The question is when the constraint still earns its keep.
 - [x] [Ch 14 — Too Early Is Expensive Too](manuscript/ch14-too-early-is-expensive-too.md)
 - [x] [Ch 15 — Small Write-Downs](manuscript/ch15-small-write-downs.md)
 - [x] [Ch 16 — Option Value Inside the Firm](manuscript/ch16-option-value-inside-the-firm.md)
-
-## Planned chapters
-
-17. The Sunset With a Date
-18. Promote the Heretic, Keep the Historian
-19. The Adaptation Balance Sheet
-20. Stay Good at Becoming Different
+- [x] [Ch 17 — The Sunset With a Date](manuscript/ch17-the-sunset-with-a-date.md)
+- [x] [Ch 18 — Promote the Heretic, Keep the Historian](manuscript/ch18-promote-the-heretic-keep-the-historian.md)
+- [x] [Ch 19 — The Adaptation Balance Sheet](manuscript/ch19-the-adaptation-balance-sheet.md)
+- [x] [Ch 20 — Stay Good at Becoming Different](manuscript/ch20-stay-good-at-becoming-different.md)
 
 ## Working thesis
 
@@ -115,7 +112,7 @@ They turn adaptation into an accounting problem nobody has yet learned to put on
 
 This book is about something else: the commitments produced by **success itself**.
 
-The old system is not merely installed. It has been rewarded. People have learned to make it work. Customers have paid for it. careers have formed around it. Metrics have made it legible. Capital has been allocated to improve it. A firm can therefore be excellent at what it does and still accumulate a growing cost of becoming different.
+The old system is not merely installed. It has been rewarded. People have learned to make it work. Customers have paid for it. Careers have formed around it. Metrics have made it legible. Capital has been allocated to improve it. A firm can therefore be excellent at what it does and still accumulate a growing cost of becoming different.
 
 The distinction matters because it changes the prescription. If the problem were ignorance, the answer would be better forecasting. If the problem were laziness, the answer would be urgency. If the problem were merely old technology, the answer would be replacement.
 
