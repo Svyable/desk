@@ -176,6 +176,44 @@ The wealthy do not merely buy warmth.
 
 They buy somebody who can make an exception.
 
+That deserves a more precise name than customer service.
+
+It is access to discretion.
+
+Discretion is expensive because it interrupts standardization. A rule can be applied to a million people cheaply if the millionth case is required to resemble the first. The expensive moment arrives when someone says the rule fits the category and fails the person.
+
+My mother died last week and the deadline passed while I was arranging the funeral.
+
+The address is wrong because I left an abusive household and cannot safely produce the document you are asking for.
+
+The transaction looks strange because I am buying equipment for a new job.
+
+The exam software says I looked away because my disability changes how my eyes move.
+
+The account activity is unusual because I am traveling to care for someone.
+
+These are not arguments that every exception should be granted. They are arguments that some facts cannot be priced correctly by a process that has no route for context to change the decision.
+
+A human being is not automatically good at this. Human discretion can reproduce prejudice, favoritism, fatigue, impatience, corruption, and arbitrary mercy. A clerk can be cruel where a rule would have been fair. A doctor can dismiss a patient. A teacher can play favorites. A loan officer can discriminate. One reason institutions built standardized processes in the first place was to reduce the damage caused by discretionary power.
+
+So the answer cannot be “put a person back everywhere.”
+
+The stronger design is stranger: automate what can be standardized, preserve a real route to judgment where the standardization admits it may be wrong, and make that route available because the case warrants it rather than because the customer purchased platinum status.
+
+The human premium becomes morally troubling when it is really a due-process premium.
+
+Pay more to be heard.
+
+Pay more to reach someone who can waive the rule.
+
+Pay more to have context considered.
+
+Pay more for a second decision by a person who is not bound to repeat the first.
+
+That arrangement does not merely sell warmth. It sells access to institutional mercy.
+
+A society should be cautious about allowing mercy to become an upgrade.
+
 This matters because exceptions are where bureaucratic life becomes human. A rule works for most cases. Then a person arrives whose situation does not fit. The ability to explain context to another person with authority can be the difference between inconvenience and disaster.
 
 An automated system can be designed to handle exceptions too. It can route edge cases, solicit more information, and escalate uncertainty. There is no law of nature requiring machines to be rigid. But organizations often automate precisely to reduce the cost of discretionary human review.
@@ -185,6 +223,38 @@ The human premium can therefore become the exception premium.
 Pay more to be heard.
 
 That deserves scrutiny.
+
+There is another complication hiding below the premium market.
+
+The most visible human labor may become expensive at the same time other human labor becomes cheaper and less visible.
+
+Artificial systems do not arrive from nowhere. Training data must be prepared. Outputs must be evaluated. Safety boundaries must be tested. Difficult examples must be labeled. Harmful content may need to be reviewed. Products described to customers as automated can depend on people performing narrow tasks behind the interface. Mary Gray and Siddharth Suri used the phrase “ghost work” for this larger pattern of human labor made less visible by software that presents a smooth automated surface.
+
+The irony connects directly to the Mechanical Turk from earlier in this book.
+
+At the top of the market, a customer may pay extra to know a named human was really present.
+
+At the bottom, a company may work hard to make the present humans disappear from the story.
+
+The famous architect is human-made luxury.
+
+The anonymous annotator is operational overhead.
+
+The physician’s time is premium.
+
+The moderator’s time is hidden.
+
+The artist’s hand is authenticity.
+
+The worker correcting machine outputs is friction the product would rather not mention.
+
+This is not an argument that every AI system secretly contains a person doing the task in real time. Many do not. It is an argument against telling the labor story only where human presence raises the sale price.
+
+If human provenance is morally meaningful, invisible human contribution counts too.
+
+That makes the economics less comfortable. “Human” can be a luxury label for one class of worker and an inconvenient cost center for another.
+
+The premium therefore has a labor politics as well as a consumer psychology.
 
 It also complicates the easy claim that consumers always prefer humans. They do not.
 
@@ -197,6 +267,18 @@ They may prefer an algorithm to recommend a route and a human to recommend a spo
 They may prefer a bot for an embarrassing question and a person for bad news.
 
 They may prefer automated checkout when the line is long and a human cashier when they need help.
+
+Sometimes the premium may even reverse.
+
+A person asking a stigmatized medical question may prefer the distance of a machine to the possibility of human judgment. Someone disclosing debt, sexual difficulty, addiction, or fear may value an interface precisely because no clerk is watching their face. A teenager may ask a tutoring system the question they are too embarrassed to ask in class. A customer may prefer automated negotiation because the emotional labor of saying no to a salesperson is itself a cost.
+
+Human presence is not always warmth.
+
+It can be surveillance, embarrassment, prejudice, social pressure, or the obligation to perform gratitude.
+
+Automation can sometimes create a privacy premium of its own.
+
+This is another reason not to make “human” the quality label and “machine” the discount label. The goods differ by context. Sometimes the valuable feature is that a person was there. Sometimes the valuable feature is that no person needed to be.
 
 The human premium will therefore be irregular.
 
