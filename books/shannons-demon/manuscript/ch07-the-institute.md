@@ -44,6 +44,12 @@ That is as far as the surviving evidence safely carries the scene.
 
 We do not need to imagine Shannon at Weyl's blackboard. We do not need to seat Einstein at lunch or have von Neumann wander into the conversation with a remark that predicts digital computing. The Institute's own records establish the community. They do not establish every interaction within it.
 
+This distinction is more than a fact-checking nicety. It changes the causal story. If influence requires a documented conversation with a famous person, then intellectual history becomes a relay race of quotable encounters. If influence can also reside in standards, libraries, seminars, expectations, and the range of work treated as normal, then institutions become active without becoming magical.
+
+That second account is harder to dramatize. It is also closer to how research environments often matter.
+
+A young mathematician does not need Einstein to hand him an idea for Einstein's presence to alter the scale against which a place measures serious thought. He does not need a transcript with von Neumann for a community of mathematicians to make abstraction feel less like escape from engineering and more like a legitimate professional destination.
+
 This restraint makes the setting more interesting, not less.
 
 The value of an intellectual institution does not depend on every important person collaborating with every other important person. A place changes the range of questions that seem normal. It changes what sits on the library shelves, what gets discussed in seminars, what kind of ambition feels proportionate to one's surroundings.
