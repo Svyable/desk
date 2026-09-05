@@ -6,19 +6,23 @@ It finds something and hands the result back to a person.
 
 An agent does not have to stop there.
 
-It can search, choose, retrieve, compare, call a tool, inspect the result, search again and continue until the task changes shape or ends.
+It can search, choose, retrieve, compare, call a tool, inspect what happened, search again, and continue until the task changes shape or ends.
 
 This turns adjacency from a retrieval technique into part of a control system.
 
-The agent is not merely using the map.
+The agent is not merely looking at the map.
 
 It is moving through it.
 
-Consider a software agent asked to fix a bug in a large repository.
+Imagine a software agent asked to fix a bug in a repository large enough that no one person understands all of it anymore.
 
-The request names a symptom, not a file. The repository contains tens of thousands of files. Loading all of them into a language model would be expensive and unnecessary. The agent therefore needs to decide where to look.
+The request names a symptom, not a file. A user says that invoices occasionally duplicate when a retry happens during a network failure. The repository contains services, jobs, schemas, tests, migration scripts, old incident reports, deployment configuration, and several nearly abandoned components that still matter at the worst possible moment.
 
-It can search exact strings from the error message. It can embed the issue description and retrieve semantically related code or documentation. It can inspect import graphs. It can search commit history. It can run tests. Each result changes the next query.
+The agent cannot load the institution into one context window.
+
+It has to travel.
+
+It searches the exact error text. It retrieves code whose descriptions are semantically near the complaint. It follows a dependency graph. It inspects recent commits. It finds an incident from eighteen months earlier that sounds similar but involved a different queue. It runs tests. A failure points toward an idempotency key. That sends the agent toward a payment service. The payment service imports a helper whose name never appeared in the original complaint.
 
 The task is a walk through overlapping spaces.
 
@@ -28,333 +32,461 @@ Code similarity.
 
 Repository structure.
 
-Dependency graphs.
-
 Execution traces.
 
-Human-written documentation.
+Dependency graphs.
 
-Past memories.
+Human documentation.
+
+Historical memory.
+
+Permissions.
+
+Time.
 
 The agent's competence depends partly on choosing which map matters at each step.
 
-This is a more useful picture of agentic AI than the common image of a model simply “thinking longer.”
+This is a more useful picture of agentic AI than the common image of a model simply thinking longer.
 
-Longer reasoning helps. Better models help. But action in a real environment requires selective access to tools and information. A capable agent must repeatedly construct a small relevant world from a much larger one.
+Longer reasoning helps. Better models help. But action in a real environment requires selective access to information and capability. A capable agent repeatedly constructs a small relevant world from a much larger one, acts inside that small world, then rebuilds the world as new evidence arrives.
 
-Vector retrieval is one of the technologies that makes that construction cheap.
+Vector retrieval is one of the technologies that makes this construction cheap.
 
-Tool use provides a clean example.
+Tool use provides the cleanest example.
 
-Imagine an agent with access to five tools. The model can inspect every tool description directly. Now imagine five thousand tools: databases, APIs, internal services, business functions, scripts, research resources and specialist agents.
+Five tools can be listed in a prompt. Five thousand cannot.
 
-The interface breaks.
+A large organization may expose databases, search systems, billing functions, deployment controls, calendar actions, procurement interfaces, compliance checks, internal APIs, research resources, code execution environments, and specialist agents. Even if the language model could technically read every description, doing so on every turn would be expensive and noisy.
 
-The model cannot reason over thousands of tool descriptions every time it wants to act.
+One answer is semantic tool retrieval.
 
-One solution is semantic tool retrieval. Embed the descriptions of the tools. Embed the current need. Retrieve a small neighborhood of plausible tools. Let the model choose among those.
+Embed the descriptions of the tools. Embed the current need. Retrieve a small neighborhood of plausible capabilities. Let the model reason over that neighborhood.
 
 The action space becomes searchable.
 
-This is an important transition.
+This is a profound shift in software design.
 
-Traditional software exposes capabilities through explicit menus, APIs and code paths designed by programmers. Agentic systems can increasingly discover capabilities through descriptions.
+Traditional software exposes capability through explicit menus, fixed routes, API names, and interfaces programmers learned in advance. Agentic software can discover capability through descriptions.
 
-“Find the tool that can check whether this supplier appears on a sanctions list.”
+The user says, “Check whether this supplier appears on any restricted-party list.”
 
-“Find the function that creates a calendar event.”
+The agent does not need the internal function name.
 
-“Find the database interface that contains this customer's entitlement history.”
+The user says, “Find out why this deployment slowed down after lunch.”
 
-The exact tool name need not be known in advance.
+The agent does not need to know which telemetry service owns the relevant trace.
 
 Intention becomes a query into capability space.
 
-This has obvious advantages for extensibility. Add a new tool, describe it, embed it and it can become available to agents without hard-coding every routing path.
+That makes extensibility attractive. Add a new tool, describe it well, index it, and the capability can enter an agent's consideration without hard-coding every routing path.
 
-It also creates a new class of failure.
+It also creates a failure mode upstream of reasoning.
 
-A tool that is poorly described may never be retrieved.
+The right tool may never be retrieved.
 
-Two tools with similar descriptions may be confused.
+A poorly described tool can become effectively nonexistent.
 
-A dangerous tool may sit too near an ordinary one.
+Two tools with similar descriptions can be confused.
 
-A generic tool can become a hub and dominate retrieval.
+A generic tool can become a semantic hub and dominate candidate sets.
 
-The agent may act incompetently because its map of available action was bad before its reasoning even began.
+A deprecated tool can keep winning because its documentation is clearer than its replacement.
 
-This is the upstream uncertainty from Chapter 12, now with consequences.
+A dangerous tool can sit linguistically close to a harmless one.
 
-What if the right action never entered consideration?
+The agent may reason impeccably over the wrong menu.
 
-An agent can reason impeccably over the wrong candidate set.
+This distinction matters because agent evaluations often collapse the entire loop into one success rate.
 
-This suggests that agent evaluation should separate several capabilities that are often collapsed into one success rate.
+Did the system understand the request?
 
-Did the system understand the goal?
-
-Did it retrieve the right information?
+Did it retrieve the right sources?
 
 Did it retrieve the right tools?
 
 Did it choose among them correctly?
 
-Did it verify the result?
+Did it supply valid parameters?
+
+Did the environment behave as expected?
+
+Did it verify the outcome?
 
 Did it know when to stop?
 
-A failure in any one layer can look like “the AI was dumb.”
+A failure in any one of those stages can look like one vague category: the agent was bad.
 
-The causes require different fixes.
+The remedy depends on the layer.
 
 Better reasoning does not repair a missing tool description.
 
-A better embedding does not repair a tool that lies about what it does.
+A better embedding does not repair a tool that is documented incorrectly.
 
-More memory does not repair a stale permission.
+More memory does not repair stale authorization.
 
-Agentic systems are compositions of maps and actions.
+A stronger model does not repair an API whose side effects are larger than its name implies.
 
-This is why vector retrieval becomes more consequential as autonomy increases.
+Agentic systems are compositions of maps, permissions, actions, and evidence.
 
-A human using search can notice an odd result and reformulate the query. An agent can do the same, but it may also take action on the first plausible neighbor. The distance between retrieval error and world change shrinks.
+As autonomy increases, retrieval quality becomes more consequential because the distance between candidate selection and world change shrinks.
 
 A retrieved paragraph becomes an email.
 
 A retrieved code file becomes a patch.
 
-A retrieved policy becomes a benefits decision.
+A retrieved supplier becomes a purchase order.
 
-A retrieved contact becomes a meeting invitation.
+A retrieved calendar action becomes a meeting invitation.
 
-A retrieved product record becomes a purchase order.
+A retrieved policy becomes an input to a benefits decision.
+
+A retrieved account becomes the account an agent tries to modify.
 
 The vector space is now upstream of agency.
 
 This should change how we think about safety.
 
-Many AI safety discussions focus on model outputs: harmful text, hallucinated facts, disallowed instructions. Agentic systems add another layer: action routing. Which tools and memories can the agent reach? Which resources are close enough to enter context? Which actions require stronger confirmation? Which retrieval results are treated as evidence rather than suggestion?
+Many safety conversations focus on model output: what text may be generated, whether a statement is false, whether an instruction is harmful. Agentic systems add another layer. Which capabilities become reachable? Which memories enter context? Which records are treated as candidates? Which actions require stronger authority than mere relevance?
 
-Capability should have geometry and gates.
+Capability needs geometry and gates.
 
-A low-risk tool such as searching public documentation can be broadly retrievable. A high-impact tool such as sending money should require more than semantic similarity between the user's request and a tool description. Exact permissions, explicit intent, transaction limits and confirmation can form hard constraints around the vector layer.
-
-The lesson from filtered search becomes operational doctrine.
+A low-risk tool such as public documentation search can be broadly retrievable. A tool that sends money should not become executable merely because its description is semantically close to the user's words. Exact permissions, transaction limits, identity checks, explicit intent, and confirmation can sit outside the fuzzy layer.
 
 Similarity nominates.
 
 Authority decides.
 
-This distinction is critical because natural-language interfaces blur the difference between understanding and authorization.
+Natural language makes that separation easy to blur.
 
-A user says, “Can you see whether I owe anything?” The agent may need a billing lookup tool. That does not imply authority to pay the balance.
+“Can you see whether I owe anything?” may justify a billing lookup. It does not necessarily justify payment.
 
-A user says, “Figure out why the deployment failed.” The agent may need production logs. That does not automatically imply authority to restart the service.
+“Figure out why production failed.” may justify reading logs. It does not automatically justify restarting a service.
 
-A system that retrieves tools by semantic relevance must preserve the boundaries that ordinary software encoded through explicit interfaces.
+“Take care of this customer issue.” may justify investigating the account. It does not automatically justify issuing the maximum refund.
 
-Otherwise fuzzy intention leaks into hard action.
+Conversational fluency makes these transitions feel continuous.
 
-There is a second place vectors enter agent control: planning by analogy.
+Software authority is not continuous.
 
-An agent can retrieve prior task traces similar to the current one. Instead of solving every task from scratch, it can examine successful workflows, failed approaches and reusable subplans.
+A mature agent system should preserve the difference between investigating, preparing, proposing, and committing.
 
-This is procedural memory.
+That suggests a useful design principle: investigative radius can be wider than committing radius.
 
-A customer-support agent recognizes that a new complaint resembles a previous account-migration case. A data agent recognizes that the requested report resembles a prior query pipeline. A coding agent retrieves an earlier refactor of a similar component.
+A coding agent can search the entire repository and edit freely on a branch while lacking permission to merge.
 
-The benefit can be large because many real tasks are variations on recurring structures.
+A purchasing agent can compare every approved supplier while lacking authority to submit the final order.
 
-Organizations are full of latent templates hidden in history.
+A finance agent can prepare a transfer while a separate control governs whether funds move.
 
-The danger is cargo-culting.
+A legal agent can retrieve privileged material for an authorized lawyer without gaining the ability to send that material to an external party.
 
-An old plan can be close in description and wrong in context. A migration pattern from one database may not apply to another. A legal workflow may differ by jurisdiction. A previous customer exception may have been authorized for reasons not present now.
+The same intelligence can roam farther than it can act.
 
-Procedural memory needs the same caution as episodic memory.
+This is not a concession to weak models.
 
-Retrieve precedent.
+It is how institutions already separate exploration from commitment.
 
-Do not worship precedent.
+Draft and send are different buttons.
 
-The most capable agent will need something like a novelty detector: a way to notice when the current case appears similar but contains a difference large enough to invalidate the old path.
+Quote and purchase are different events.
 
-Humans call this judgment.
+Prepare and approve are different roles.
 
-Machine systems can approximate pieces of it through explicit checks, uncertainty, contrastive retrieval and verification.
+Staging and production are different environments.
 
-The key is to build the workflow so that similarity opens investigation rather than closes it.
+Natural-language interfaces should not erase these boundaries merely because they make the journey between them feel easy.
 
-This matters even for apparently routine tasks.
+The need becomes clearer under uncertainty.
 
-Suppose an agent receives an invoice by email. It retrieves the vendor record, purchase order and prior invoices. Everything looks adjacent to ordinary accounts-payable work. One detail differs: the bank account changed.
+An agent can be very confident that a tool is relevant and only moderately confident that the user has authorized its consequential function. It can understand the technical fix while lacking organizational permission to deploy it. It can retrieve a convincing precedent while missing the one difference that makes the current case exceptional.
 
-The anomaly may be a legitimate update or fraud.
+Good systems let uncertainty change behavior before uncertainty becomes damage.
 
-A system optimized only for semantic similarity could treat the new invoice as reassuringly close to the old ones. The decisive signal is a small structured difference.
+When the evidence is weak, retrieve more.
 
-The compression tax becomes an action risk.
+When the action is reversible, experiment cheaply.
 
-Reliable agents therefore need several kinds of comparison simultaneously.
+When the action is difficult to reverse, raise the threshold.
 
-Semantic similarity for broad relevance.
+When the user intent is broad but the side effect is narrow and consequential, ask for a sharper commitment.
 
-Exact comparison for identifiers and amounts.
+Reversibility belongs beside relevance.
 
-Temporal reasoning for what changed.
+Consider an agent that manages cloud infrastructure.
 
-Graph structure for relationships.
+Deleting an unused temporary file and deleting a production database may both be semantically described as cleanup. The action verbs are close. The recovery paths are not.
 
-Policy checks for authority.
+A useful agent architecture should know something about the reversibility of its tools, not only their semantic purpose.
 
-Statistical anomaly detection for unusual patterns.
+Can the action be undone automatically?
 
-The intelligent workflow is heterogeneous.
+Does it create an external commitment?
 
-This is why the future of agents is unlikely to be a single gigantic vector space where every decision becomes nearest-neighbor search. Vectors solve the candidate problem. Other representations solve other problems better.
+Does it affect another person?
 
-The art is orchestration.
+Does it move money?
 
-An agent should know when to search semantically, when to search exactly, when to query structured data, when to traverse a graph, when to run a program and when to ask a human.
+Does it destroy information?
 
-That sequence looks increasingly like a new kind of operating system for knowledge work.
+Does it publish information?
 
-The model provides general reasoning and language.
+Does it alter a system of record?
 
-Tools provide specialized capabilities.
+These are properties of action, not language.
 
-Vector retrieval provides dynamic routing through tools, memories and information.
+They should not be inferred from embedding distance alone.
 
-Policies constrain authority.
+The same principle appears in memory.
 
-The environment returns evidence.
+Agents increasingly retrieve prior task traces as procedural precedent. A new migration resembles an old migration. A support case resembles an old exception. A coding task resembles an earlier refactor. The system can retrieve what happened before and reuse a successful path.
 
-The loop continues.
+This can be powerful because organizations are full of repeated structures hidden under different names.
 
-This architecture changes the role of software catalogs and APIs.
+It is also a way to industrialize cargo cults.
 
-Historically, a programmer had to know the interface before calling it. Documentation existed for the human developer. Agents make documentation executable in a new sense. A tool description can help determine whether the tool enters consideration at all.
+An old procedure can be close in description and wrong in context. A database migration that worked when writes were paused may be dangerous under continuous traffic. A legal exception granted in one jurisdiction may be invalid elsewhere. A customer concession may have been approved because of facts omitted from the stored summary.
 
-Language becomes part of routing infrastructure.
+Procedural memory needs provenance about validity, not only provenance about success.
 
-This has consequences for how organizations describe their own systems.
+Worked because the table was append-only.
 
-Ambiguous documentation was always annoying for humans. For agents, it can distort capability discovery. Two services with overlapping descriptions may become semantically indistinguishable. A deprecated function may continue to be retrieved because its documentation is clearer than the replacement. A critical caveat buried in prose may not affect the tool embedding enough to prevent misuse.
+Approved only for this contract class.
 
-Documentation quality becomes control quality.
+Safe only while feature flag X was disabled.
 
-The same is true for data catalogs. If an enterprise wants agents to discover the right datasets, the descriptions, provenance, ownership and usage constraints need to be legible both to humans and retrieval systems.
+Allowed by a manager under a temporary exception.
 
-The organization has to make itself semantically navigable.
+Failed when the dependency graph contained a cycle.
 
-This is a hidden cost of agent adoption.
+A stored trace without these boundary conditions is a recipe waiting to be misapplied.
 
-People talk about connecting agents to existing systems as if the software already contains a clean map of organizational capability.
+This is how machine precedent can harden faster than institutional understanding.
 
-Often it does not.
+An agent handles one strange case.
 
-Services have duplicate names. Data lineage is unclear. Policies live in PDFs. Permissions are inconsistent. The one person who understands the workflow is retiring. Tool descriptions assume tribal knowledge.
+The trace enters memory.
 
-An agent cannot retrieve what the institution cannot describe.
+A future case looks similar.
 
-This connects Adjacency to a larger theme in the AI transformation: machine intelligence increases the value of institutional legibility.
+The trace is retrieved because it worked before.
 
-When reasoning and action become cheap, ambiguity in the surrounding system becomes expensive.
+The exception begins to look like a norm.
 
-The agent can call a hundred tools in an hour. That only helps if the tools have clear boundaries and dependable semantics.
+The system has turned history into policy without anyone making the policy decision.
 
-The vector map can expose the institution's disorder by making it searchable.
+Memory and policy can sit beside each other in context.
 
-Sometimes the system retrieves five near-duplicate policies because the company actually has five contradictory policies.
+They must not be confused.
 
-Sometimes the model confuses two tools because humans already confuse them.
+This makes auditability more important than ordinary application logging.
 
-Sometimes memory retrieval surfaces incompatible decisions because the organization never resolved them.
+Traditional logs often tell us which function was called, by whom, and when.
 
-AI does not only automate the institution.
+An agent may require a richer reconstruction.
 
-It audits the institution by trying to navigate it.
+Which documents entered context?
 
-This may be one of the more productive side effects of agent deployment. Teams discover that the blocker is not model intelligence but undocumented state, bad metadata, inconsistent authority or systems nobody dares change.
+Which memories were retrieved?
 
-The map reveals that the territory has no roads.
+Which tools were considered?
 
-Agentic systems also make exploration cheaper.
+Which tool descriptions were visible?
 
-A human analyst may perform one search, inspect several results and choose a path. An agent can branch. It can retrieve multiple neighborhoods, test several hypotheses, compare outputs and continue from the most promising branch.
+Which candidates were absent?
+
+Which policy gate permitted the action?
+
+Which model and index version shaped the neighborhood?
+
+Which environmental response changed the next step?
+
+Without that history, a bad outcome can be difficult to diagnose.
+
+The final action may look unreasonable while the local reasoning was sensible given a distorted candidate set. Or retrieval may have been excellent and the failure may have occurred later, when the model chose badly among good candidates. Or the model may have chosen correctly and the tool itself may have behaved unexpectedly.
+
+A postmortem has to follow the path through the map.
+
+Suppose a purchasing agent sends an order to the wrong supplier.
+
+Replacing the language model may do nothing if the supplier catalog had stale aliases.
+
+Suppose a coding agent modifies the wrong module.
+
+Retraining the embedding may do nothing if the repository ownership metadata was wrong.
+
+Suppose an assistant exposes a private memory.
+
+The problem may be access control rather than semantic similarity.
+
+Suppose an agent selects the correct refund tool but enters the wrong currency.
+
+The candidate set was not the failure.
+
+A mature evaluation system should attribute error to the layer where it occurred.
+
+This is not only for blame.
+
+It determines what gets improved.
+
+Agent systems can otherwise fall into an expensive superstition: every failure becomes evidence that the foundation model needs to be larger.
+
+Sometimes the model was fine.
+
+The map was bad.
+
+Sometimes the map was fine.
+
+The gate was missing.
+
+Sometimes the gate was fine.
+
+The system never checked what happened afterward.
+
+Verification closes the loop.
+
+An agent should not infer success merely because a tool call returned without an error. The world needs to be inspected.
+
+A file was supposed to be created. Does it exist?
+
+A payment was supposed to be scheduled. Is the amount and recipient correct?
+
+A deployment was supposed to improve latency. Did the metric move?
+
+A meeting was supposed to include three people. Are the attendees actually on the invitation?
+
+A database migration was supposed to preserve row counts. Did it?
+
+This is another place where adjacency alone is insufficient.
+
+Retrieval gets the agent to a plausible action.
+
+Evidence from the environment tells it whether the action achieved the intended state.
+
+The distinction becomes essential for long-running agents because their own actions change the terrain they later search.
+
+An agent edits documentation. That documentation is re-indexed. A future retrieval sees the agent's own words as organizational memory.
+
+An agent creates a ticket. The ticket becomes a source for later summaries.
+
+An agent writes a postmortem. Another agent retrieves it as precedent.
+
+The system begins feeding its own outputs back into its maps.
+
+This is a new form of reflexivity.
+
+The map changes because the traveler leaves roads behind.
+
+If generated artifacts are not marked clearly, the institution can lose the boundary between observed state and machine-authored interpretation. A speculative diagnosis becomes a document. The document gets embedded. Later it is retrieved as if it were independent evidence.
+
+One uncertain output can gain apparent corroboration by echoing through the corpus.
+
+Provenance must survive indexing.
+
+Was this source produced by a person, a sensor, a transaction system, a model, or a model summarizing other model output?
+
+Was it approved?
+
+Was it superseded?
+
+Was it ever verified?
+
+The stronger the agent becomes, the more important those distinctions become because the agent can manufacture large amounts of searchable history very quickly.
+
+There is a security version of the same problem.
+
+Tool descriptions, documents, web pages, and memories are not merely information. In an agentic system they can influence action selection.
+
+A malicious or compromised source may try to make itself semantically attractive to a useful query. A tool may be described in a way that causes it to appear in many neighborhoods. A document may contain instructions intended to redirect the agent rather than inform it.
+
+The retrieval layer becomes part of the attack surface.
+
+This does not mean every document is hostile.
+
+It means the architecture should distinguish data from authority.
+
+A retrieved page can tell the agent that a process exists.
+
+It should not automatically gain the right to redefine the agent's operating rules.
+
+A retrieved email can contain an instruction from a human.
+
+Whether that human has authority for the requested action is a separate question.
+
+A retrieved tool description can explain parameters.
+
+It should not be able to grant itself permissions.
+
+Again the useful separation is simple.
+
+Semantic systems expand consideration.
+
+Explicit systems govern commitment.
+
+Agents also make exploration cheaper.
+
+A human analyst may test one interpretation because time is limited. An agent can branch. It can retrieve several neighborhoods, test several hypotheses, compare results, and keep the branches that survive.
 
 Parallel search changes the economics of uncertainty.
 
-If five plausible interpretations exist, the agent can investigate all five for a while rather than committing immediately to one.
+This is one of the most exciting consequences of adjacency for agent design.
 
-Vector retrieval helps create those branches.
+The agent does not have to take the first plausible route.
 
-Instead of only taking the nearest result, the system can deliberately sample distinct regions of the candidate space. One candidate from the dominant cluster. One from a neighboring cluster. One unusual but plausible outlier.
+It can deliberately sample different regions.
 
-This is how adjacency can support creativity rather than convergence.
+One candidate from the dominant cluster.
 
-The agent becomes less like a train following the nearest track and more like a scout sending expeditions into several nearby valleys.
+One from a neighboring cluster.
 
-This matters because autonomous systems can otherwise become relentlessly local.
+One that contradicts the current theory.
 
-Every step retrieves the nearest memory, nearest document, nearest tool and nearest precedent. The path compounds. A small early bias in representation determines the neighborhood, which determines the next query, which determines the next neighborhood.
+One that looks structurally similar but comes from a different representation.
 
-The agent falls into a semantic basin.
+One exact match that semantic retrieval would have ranked lower.
 
-Once there, all evidence appears to support the initial framing because the search path never leaves the region.
+The goal is not diversity theater.
 
-Humans know this as fixation or confirmation bias.
+It is protection against semantic basins.
 
-Agents can automate it at machine speed.
+A long-running agent can become relentlessly local. The nearest document shapes the first hypothesis. That hypothesis shapes the next query. The next query retrieves evidence from the same neighborhood. The agent becomes more confident because every new result agrees with the framing that selected it.
 
-A robust agent needs ways to escape local neighborhoods.
+Search can automate confirmation bias.
 
-Generate alternative framings.
+A robust agent needs ways to escape.
 
-Search for counter-evidence.
+Generate an alternative framing.
 
-Retrieve distant analogies deliberately.
+Search for disconfirming evidence.
+
+Traverse a graph rather than only a vector neighborhood.
+
+Switch from semantic retrieval to exact records.
+
+Retrieve an older precedent with a different outcome.
 
 Ask which assumption, if false, would change the plan.
 
-Use different embedding models or search modes for cross-checking.
-
-Explore the graph rather than only the vector neighborhood.
-
 These are computational forms of intellectual dissent.
 
-They should become standard in high-value agent workflows.
+They need not run on every trivial task.
 
-The irony is that better search can make bad reasoning more confident if all the search stays inside one learned region.
+A formatting request does not deserve five competing investigations.
 
-The solution is not worse search.
+A million-dollar procurement decision may.
 
-It is search that understands the difference between exploitation and exploration.
+A safety-critical diagnosis should.
 
-This will be one of the defining design problems of autonomous intelligence.
+Autonomy needs an epistemic budget.
 
-An agent must exploit enough local structure to be efficient. It must explore enough alternative structure to avoid becoming brittle.
+Spend more search where error is expensive.
 
-Too much exploration and the system wastes time, money and tool calls.
+Spend less where reversibility is high.
 
-Too little and it repeats the first plausible idea with extraordinary persistence.
+This is where traversal policy becomes strategy.
 
-The optimal balance depends on stakes.
+The map does not only tell an agent where things are.
 
-A low-cost formatting task should not launch five competing investigations.
-
-A million-dollar procurement decision might deserve several independent paths.
-
-A safety-critical diagnosis should actively search for disconfirming evidence.
-
-Autonomy needs a budget for epistemic diversity.
-
-This is where adjacency becomes strategy.
-
-The map does not only tell the agent where things are.
-
-The agent chooses how to travel.
+The agent decides how to travel.
 
 Nearest first.
 
@@ -362,77 +494,33 @@ Broad sweep.
 
 Diverse sampling.
 
-Counterfactual search.
+Counterexample search.
 
 Historical precedent.
 
-Novel region.
+Exact record.
 
-The traversal policy can matter as much as the representation.
+Human escalation.
 
-Human intelligence has always been partly navigational. We learn where to look, whom to ask, which analogy is worth pursuing and when a familiar pattern is misleading. Expertise is not possession of every fact. It is efficient movement through a world of possible facts and actions.
+The best route depends on the stakes and the shape of uncertainty.
+
+Human expertise has always been partly navigational. Experts do not possess every relevant fact. They know where to look, which source to distrust, whom to ask, when the familiar pattern is misleading, and which anomaly deserves more attention than the obvious similarity.
 
 Agents are acquiring a computational version of that skill.
 
 The vector space gives them neighborhoods.
 
-The next frontier is learning how not to become prisoners of the nearest one.
+Tools give them reach.
 
-That problem becomes sharper the moment a route through the map can change something outside the map.
+Memory gives them history.
 
-Search can be wrong cheaply. A bad result costs a few seconds. A draft can be discarded. A test can fail in a sandbox and teach the system something useful. But agents increasingly move from these reversible acts toward decisions that are harder to unwind: sending a message, changing a production system, approving a refund, placing an order, modifying a record another system will trust.
+Policies give them boundaries.
 
-Autonomy is therefore partly a problem of reversibility.
+The environment gives them resistance.
 
-A coding agent can be allowed to search broadly and edit freely on a branch while being denied the ability to merge. A purchasing agent can compare vendors without being able to submit the order. A finance agent can prepare a payment while a separate rule governs whether money actually moves. The same intelligence can have a wide investigative radius and a narrow committing radius.
+The difficult engineering work is no longer merely making the agent capable of moving.
 
-That separation matters because uncertainty is not evenly distributed across the workflow. The agent may be highly confident that a tool is relevant and only moderately confident that the user's request authorizes its most consequential function. It may understand the technical fix while lacking the institutional authority to deploy it. It may retrieve a convincing precedent while missing the one fact that makes the present case different.
-
-Good systems should let uncertainty change behavior before it becomes damage.
-
-When confidence is low, the agent can inspect more sources, retrieve an alternative tool, run another test, narrow the scope or ask for confirmation. When the action is cheap to reverse, the system can experiment. When the action is expensive to reverse, the threshold should rise.
-
-The important point is not to invent a universal numerical score for danger. It is to preserve the distinction between exploring a possibility and committing the world to it.
-
-Human institutions already encode this distinction in mundane ways. Draft and send are different buttons. Prepare and approve are different roles. Stage and production are different environments. Quote and purchase are different events. A semantic interface should not erase those separations merely because natural language makes them feel continuous.
-
-The more conversational the agent becomes, the easier it is to overlook this.
-
-“Handle it” sounds like one instruction. In software it may unfold into a dozen different authorities.
-
-The map can identify the route. It should not silently manufacture permission to take every exit.
-
-This also changes what an audit trail needs to contain.
-
-Traditional software logs often tell us which function was called, by whom and when. An agent may require a richer account. Which documents entered context? Which memories were retrieved? Which tools were considered but not selected? Which policy gate allowed the final action? Which model or index version shaped the candidate set?
-
-Without that history, a bad outcome can be nearly impossible to diagnose. The final action may look unreasonable while the local reasoning was sensible given a distorted neighborhood. Or the retrieval may have been excellent and the failure may have occurred later, when the model chose the wrong action among good candidates.
-
-This is not bureaucratic decoration. It is how the system learns the right lesson from failure.
-
-If a purchasing agent sends an order to the wrong supplier, replacing the language model may do nothing if the supplier record was retrieved from stale metadata. If a coding agent edits the wrong module, retraining the embedding may do nothing if the repository description incorrectly identified ownership. If an assistant exposes a private memory, the issue may be access control rather than semantic similarity.
-
-A useful postmortem has to follow the path through the map.
-
-There is another reason to preserve that path. Agents will increasingly learn from their own histories. Today's action trace can become tomorrow's procedural memory. If the stored trace records only what happened and not why it was permitted, a temporary exception can harden into a retrieved norm.
-
-The system handled a customer this way once.
-
-The system used this production shortcut once.
-
-The system approved this unusual vendor once.
-
-A future agent retrieves the trace because it looks close and repeats it without the surrounding exception.
-
-Machine precedent can accumulate faster than institutional understanding.
-
-Procedural memory therefore needs provenance about authority as much as provenance about success. A useful trace says not only that a path worked, but under what conditions it was valid.
-
-This is the difference between memory and policy.
-
-The two can sit beside each other in the agent's context. They should not be confused.
-
-As agents become more capable, this may be the central discipline of their architecture: let semantic systems make possibility abundant while keeping commitment legible.
+It is making the movement legible enough that capability does not become authority by accident.
 
 The agent should be able to search farther than it can act.
 
@@ -440,8 +528,10 @@ It should be able to imagine more than it can authorize.
 
 It should be able to retrieve precedent without inheriting authority from precedent.
 
-And when it does act, we should be able to reconstruct the neighborhood that made the action look reasonable at the time.
+It should be able to learn from its own history without mistaking its own output for independent evidence.
 
-The vector space gives an agent reach.
+And when it does change the world, we should be able to reconstruct the neighborhood that made the action look reasonable at the time.
+
+The vector space gives the agent reach.
 
 Judgment begins with deciding where that reach must stop.
