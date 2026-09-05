@@ -68,13 +68,73 @@ Alzheimer’s disease is progressive. Public accounts of his final years are app
 
 Those scenes would satisfy narrative appetite at the cost of a real person.
 
-The absence of such a scene is useful. It forces us to confront the asymmetry between a life and a legacy.
+The medical boundary deserves the same care as the historical one.
+
+Alzheimer’s disease is not merely ordinary forgetfulness increased in degree. The National Institute on Aging describes it as a progressive brain disorder that damages memory and thinking and eventually interferes with basic daily function. Memory loss is common, but the disease also affects language, reasoning, judgment, behavior, and other capacities as it advances.
+
+That broader description matters for the metaphor.
+
+If the illness is reduced to “lost information,” almost everything specifically human about it disappears. A person with Alzheimer’s is not simply a storage medium with a rising error rate. The disease affects the biological machinery through which perception, memory, recognition, action, language, and relationship are lived together.
+
+Even the word memory covers several different acts.
+
+There is learning something new.
+
+There is retaining it.
+
+There is recognizing that it has been encountered before.
+
+There is retrieving it at the right moment.
+
+There is attaching it to a person, place, feeling, obligation, or story.
+
+A hard drive can preserve a sequence of bits without possessing any of those experiences.
+
+This is why the comparison between human memory and digital storage becomes less useful the closer one looks.
+
+Digital systems are designed to separate representation from meaning. A file can be copied exactly without caring why it matters. Biological memory is entangled with the organism using it. The act of remembering can change emotion, attention, decision, identity, and social relationship in the same moment.
+
+Information theory does not fail because it declines to model that entanglement.
+
+It succeeds at another problem.
+
+The danger begins when the success is treated as permission to collapse categories Shannon kept separate.
+
+The absence of a grand final scene is useful. It forces us to confront the asymmetry between a life and a legacy.
 
 Shannon’s mathematics can be copied without loss. One printed equation can become a million printed equations. A proof can survive the death of everyone who first understood it. The pattern can migrate from paper to textbook to software to silicon without requiring the original author to remember that he wrote it.
 
 Human memory does not behave that way.
 
 We externalize some of it. We keep photographs, notebooks, recordings, correspondence, artifacts, source code, and stories told by other people. Those external records are among the reasons a biography can be written. But no archive is a lossless backup of a person. It preserves selections. Some are deliberate; many are accidental. What survives depends on what was written down, what was kept, what institutions collected, what families donated, what historians asked, and what nobody threw away.
+
+The word backup is especially misleading because it implies restorability.
+
+A backup is valuable in computing because the system knows what counts as the thing to be restored. If a disk fails, a copy can replace the lost file because the representation has been defined in advance.
+
+A human life has no comparable specification.
+
+Photographs preserve appearances from selected moments. Letters preserve what somebody chose to write to a particular recipient. A notebook preserves what seemed worth recording. A voice recording preserves sound, not the unspoken associations surrounding it. An archive can be enormous and still omit the joke told once at dinner, the private fear never written down, the intuitive move made at a workbench, the texture of a relationship, the difference between what someone believed publicly and what they had not yet decided privately.
+
+The more data we preserve, the easier it becomes to forget that selection is still occurring.
+
+Digital abundance changes the size of the archive.
+
+It does not abolish the gap between archive and person.
+
+This matters increasingly because modern systems can infer from traces that were never intended as biography. Search histories, messages, location records, photographs, drafts, purchasing patterns, recordings, and social networks can support remarkably detailed models of a person’s habits and preferences.
+
+The resulting model may predict behavior well.
+
+Prediction is not restoration.
+
+A system that can imitate a writing style has reconstructed a statistical pattern in text. A system that can answer questions in a familiar voice has reproduced some observable regularities. Those achievements may be emotionally powerful and technically impressive.
+
+They do not establish continuity of consciousness.
+
+Shannon’s work offers no theorem that turns sufficient data into a person.
+
+If anything, the discipline of his abstractions argues for refusing that leap until the terms have been defined much more carefully.
 
 Shannon’s own archive makes the point particularly well.
 

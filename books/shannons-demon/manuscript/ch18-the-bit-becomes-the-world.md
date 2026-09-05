@@ -38,6 +38,94 @@ The provocation said that everything below the limit might still be available to
 
 That second implication kept generations of engineers dissatisfied.
 
+The path toward the limit was not a straight line and not a march led by Shannon.
+
+Richard Hamming developed practical error-correcting codes around the dawn of the 1950s. His construction made a basic proposition tangible: carefully arranged parity could do more than announce that an error had occurred; it could help locate and correct one. Reed-Solomon codes, introduced a decade later, approached a different class of errors by operating over blocks of symbols and became useful in settings where corruption arrived in bursts rather than as neatly isolated bit flips.
+
+Other families followed. Convolutional codes treated coding as a process with memory. Decoders improved. Hardware improved. Engineers learned to trade redundancy, decoding effort, delay, and energy against one another.
+
+None of these constructions repealed Shannon's theorem.
+
+They gave the theorem machinery.
+
+For a long time, however, the gap between the best practical machinery and the theoretical frontier remained large enough to be irritating. Shannon's proof could say that better performance was possible without telling an engineer how to get it at tolerable computational cost.
+
+That is an unusual kind of frustration.
+
+The theorem prevents resignation.
+
+If the limit were unknown, a mediocre code might look like the best nature allowed. Once Shannon had supplied a capacity, every decibel left on the table became a question. Was the gap fundamental, or did the code simply lack imagination?
+
+In 1993, Claude Berrou, Alain Glavieux, and Punya Thitimajshima introduced turbo codes, and the old question changed abruptly. Their iterative scheme came startlingly close to the Shannon limit in a regime where many engineers had assumed practical coding would remain much farther away. The achievement did not consist of discovering a new limit. It consisted of finding a construction that behaved as though the old existence proof had finally become willing to enter a machine.
+
+The episode is useful because it restores the missing people to the story.
+
+Shannon established the frontier in 1948.
+
+Berrou and Glavieux did not merely walk to a point Shannon had already occupied. They solved a different problem: how to build a code and decoder that could approach that frontier with finite computation and real hardware.
+
+Low-density parity-check codes make the same point from another direction. Robert Gallager described them in the early 1960s, when the computational environment made their practical potential difficult to exploit. Decades later, as algorithms and hardware changed, the family returned with new force. A theoretical construction can therefore be early and still wait a generation for the surrounding machinery to catch up.
+
+This is what a mature technical lineage actually looks like.
+
+Not one genius handing the future a finished blueprint.
+
+A theorem creates a space of possibility. Later researchers discover constructions. Hardware changes which constructions are affordable. Standards bodies choose among them. Manufacturers find ways to implement them reliably. Applications impose new requirements. An idea that looked elegant but impractical in one decade can become ordinary infrastructure in another.
+
+The word inevitable belongs nowhere in that chain.
+
+A different set of researchers could have found different codes. A different hardware curve could have favored different tradeoffs. Standards could have frozen inferior choices. Patents, manufacturing cost, power budgets, and compatibility all shape which near-optimal idea becomes a deployed one.
+
+The Shannon limit does not pick the winner.
+
+It only tells all the competitors where the impossible line is.
+
+That distinction matters for another reason. There is no single universal Shannon formula that every channel simply plugs into.
+
+The familiar bandwidth-and-signal-to-noise expression applies to a particular class of noisy communication problem. Other channels have different structures: fading, memory, erasures, binary inputs, interference, changing state. Each requires a model before capacity can be defined and calculated.
+
+The phrase channel capacity can therefore sound more uniform than the engineering reality.
+
+What survives across the cases is the style of question.
+
+What are the permitted inputs?
+
+What uncertainty does the channel introduce?
+
+What constraints limit signaling?
+
+What rate of reliable distinction is possible under that model?
+
+The model is not administrative detail.
+
+It is part of the theorem.
+
+This is another place where later popular accounts can accidentally turn Shannon into a magician. Saying that he discovered the hard ceiling for communication is broadly right. Saying that every medium in every circumstance has one identical ceiling given by one famous equation is not.
+
+A capacity statement is conditional.
+
+Bandwidth, power, noise statistics, channel memory, coding assumptions, and allowable error all matter.
+
+The same discipline that makes the theorem powerful also limits what can be claimed from it.
+
+Finite machines introduce another gap between principle and use.
+
+Shannon's coding theorem is asymptotic. Its most beautiful guarantees emerge when blocks can become very long and codes sufficiently elaborate. Real systems have deadlines. A video call cannot wait indefinitely for a decoder to become certain. A spacecraft has a power budget. A phone has battery and heat constraints. A storage controller has a latency target. A chip has finite memory and silicon area.
+
+Near-capacity performance is therefore not the only objective.
+
+Sometimes an engineer willingly gives up distance to the Shannon limit to obtain lower latency, lower power use, simpler decoding, easier verification, or more graceful failure. The theoretical frontier remains useful precisely because it lets the compromise be measured rather than hidden.
+
+The best practical system is not always the one numerically closest to capacity.
+
+It is the one whose entire set of constraints makes sense for the job.
+
+This is the same lesson the roulette computer taught in another domain. A model can be right and a system can still fail. Coding theory turned that problem into decades of work.
+
+The distinction between possibility and deployability is not an embarrassment after the theorem.
+
+It is where engineering begins.
+
 A code that wastes ten decibels of signal-to-noise ratio is not merely imperfect in some vague aesthetic sense. It occupies measurable distance from a theoretical frontier. A modem that moves bits more slowly than the channel should allow invites the question: what structure has not yet been exploited? A storage system that cannot tolerate enough errors raises the same challenge.
 
 Shannon supplied the ruler.
