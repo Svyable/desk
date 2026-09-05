@@ -7,7 +7,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 28 of 28 drafted |
-| **Release Review** | Release-cleared subject to mechanical gates; see [research/release-review.md](research/release-review.md) |
+| **Release Review** | Blocked on mechanical length gate: Ch 14 is 1,758 words vs 3,000 minimum; see [research/release-review.md](research/release-review.md) |
 
 *The Story of Getting Started*
 
