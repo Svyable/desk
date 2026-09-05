@@ -1,0 +1,82 @@
+/* Desk adaptation of Bookself's book-opening handoff.
+   Presentation only: no page measurement, typography, route geometry, or controls.
+   Cover action hierarchy is intentionally owned by desk-cover-actions.js. */
+
+html[data-book-opening-handoff="true"] .cover-page {
+  isolation: isolate;
+  filter: drop-shadow(0 24px 34px color-mix(in srgb, var(--shadow) 58%, transparent));
+}
+
+html[data-book-opening-handoff="true"] .cover-page::before,
+html[data-book-opening-handoff="true"] .cover-page::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+html[data-book-opening-handoff="true"] .cover-page::before {
+  z-index: 0;
+  top: .34rem;
+  right: -.42rem;
+  bottom: .3rem;
+  width: .55rem;
+  border-radius: 0 6px 6px 0;
+  background: linear-gradient(90deg, color-mix(in srgb, var(--accent) 44%, #7e6844), rgba(255,255,255,.22) 42%, transparent 100%), repeating-linear-gradient(180deg, #e8d9b8 0 1px, #cdbb95 1px 2px);
+  box-shadow: inset 1px 0 color-mix(in srgb, var(--accent) 42%, transparent), 4px 4px 12px rgba(0,0,0,.2);
+}
+
+html[data-book-opening-handoff="true"] .cover-page::after {
+  z-index: 1;
+  top: .16rem;
+  bottom: .16rem;
+  left: -.28rem;
+  width: .52rem;
+  border-radius: 6px 0 0 6px;
+  background: linear-gradient(90deg, rgba(0,0,0,.56), rgba(255,255,255,.05) 58%, rgba(0,0,0,.2)), var(--book-handoff-cloth, #2a1814);
+  box-shadow: inset -1px 0 color-mix(in srgb, var(--accent) 30%, transparent);
+}
+
+html[data-book-opening-handoff="true"] .cover-page .cover-front {
+  z-index: 2;
+  border-radius: 4px 11px 11px 4px;
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--accent) 82%, transparent), 10px 19px 44px color-mix(in srgb, var(--shadow) 82%, transparent), inset 0 1px rgba(255,255,255,.05), inset 0 0 82px rgba(0,0,0,.31);
+}
+
+html[data-book-opening-handoff="true"] body[data-stage="cover"] .cover-page:not(.opened) .cover-front { animation: deskBookCoverSettle 360ms cubic-bezier(.18,.8,.26,1) both; }
+@keyframes deskBookCoverSettle { from { transform:translateY(5px) scale(.992); } to { transform:none; } }
+
+html[data-book-opening-handoff="true"]:not([data-reader-mode="scroll"]) body[data-stage="read"] .pages-wrapper.active { animation:deskBookPagesArrive 500ms cubic-bezier(.18,.82,.28,1) both; }
+@keyframes deskBookPagesArrive { 0% { opacity:.18; transform:scale(.988); filter:brightness(.92); } 42% { opacity:.72; } 100% { opacity:1; transform:none; filter:none; } }
+
+body.book-handoff-cover-arriving[data-stage="cover"] #coverPage:not(.opened) { opacity:0; transition:none; }
+body.book-handoff-cover-reveal[data-stage="cover"] #coverPage:not(.opened) { transition:opacity 240ms ease-out; }
+
+.book-handoff-clone {
+  position:fixed!important;
+  z-index:120!important;
+  margin:0!important;
+  pointer-events:none!important;
+  transform:none!important;
+  transform-origin:center!important;
+  filter:drop-shadow(0 18px 26px rgba(0,0,0,.35))!important;
+  contain:layout paint;
+  will-change:left,top,width,height,opacity;
+}
+.book-handoff-clone.volume:hover,.book-handoff-clone.volume:nth-child(even) { transform:none!important; }
+.book-handoff-clone.book-handoff-resume { border-radius:7px; overflow:hidden; }
+
+@media (max-width:700px) {
+  html[data-book-opening-handoff="true"] .cover-page::before { right:-.3rem; width:.42rem; }
+  html[data-book-opening-handoff="true"] .cover-page::after { left:-.2rem; width:.38rem; }
+}
+
+@media (forced-colors:active) {
+  html[data-book-opening-handoff="true"] .cover-page::before,html[data-book-opening-handoff="true"] .cover-page::after { display:none; }
+  .book-handoff-clone { outline:2px solid CanvasText; filter:none!important; }
+}
+
+@media (prefers-reduced-motion:reduce) {
+  html[data-book-opening-handoff="true"] body[data-stage="cover"] .cover-page:not(.opened) .cover-front,
+  html[data-book-opening-handoff="true"]:not([data-reader-mode="scroll"]) body[data-stage="read"] .pages-wrapper.active { animation:none; }
+  .book-handoff-clone { display:none!important; }
+}
