@@ -2,16 +2,18 @@
 
 ## Decision — September 5, 2026
 
-**Release-cleared subject to explicitly enumerated mechanical gates.**
+**Remain blocked pending mechanical length remediation.**
 
-No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in this bounded review. The canonical Desk project is a `Complete expanded draft` with 28 of 28 numbered chapters, front matter, back matter, a research brief, chapter-source map, source ledger, falsification notes, `RIGHTS.md`, and `rights.json`.
+No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in the bounded review. The canonical Desk project remains a `Complete expanded draft` with 28 of 28 numbered chapters, front matter, back matter, a research brief, chapter-source map, source ledger, falsification notes, `RIGHTS.md`, and `rights.json`.
 
-Before a first Shelf snapshot, the frozen Desk source must still pass:
+The publication gate is nevertheless not satisfied. Applying the exact tokenizer used by `scripts/check-book-length.py` (`\b[\w’'-]+\b`) to canonical `books/bookself/manuscript/ch14-the-unfinished-mind.md` at frozen Desk source `289afe4806c412c3fb43795afe13c59c7f3a1475` yields **1,758 words**, below the repository minimum of **3,000 words per numbered chapter**. Chapter 14 therefore needs at least **1,242 additional qualifying words** before the all-chapter checker can possibly return `healthy: true`.
 
-1. `python3 scripts/check-book-length.py bookself` — require `healthy: true`, every numbered chapter at or above the repository floor, and the required chapter-only total.
+This is a precise mechanical blocker, not a request for another generic review. Do not release Bookself until Chapter 14 is substantively expanded without padding and the full frozen source then passes both:
+
+1. `python3 scripts/check-book-length.py bookself` — require `healthy: true`, every numbered chapter at or above the repository floor, and the required chapter-only total. The Chapter 14 failure above proves the current frozen source cannot pass. After remediation, use the command to enumerate any additional chapter-floor or total-word failures rather than assuming Chapter 14 is the only one.
 2. `python3 scripts/check-desk.py` — require a clean exit with root catalog, Reader paths, feedback picker, discovery surfaces, status/progress classification, and compatibility guards in agreement.
 
-If either command fails, do not release; record the precise mechanical failure and remediate it on Desk before reconsidering publication. If both pass on a frozen source that still matches this reviewed package, this artifact requires no additional human-review gate.
+No additional human-review gate is introduced. Once the mechanical failures are remediated and both commands pass on a frozen source that still matches the reviewed factual/research/rights package, publication can be reconsidered directly.
 
 ## Package reviewed
 
@@ -50,7 +52,7 @@ The book’s strongest contribution is the synthesis that action can create iden
 
 The final section materially improves the publication boundary by addressing who can afford a first try, who institutions permit to be a beginner, and when beginnings create non-reversible obligations. Publication copy should preserve those constraints rather than flattening the book into generic “just start” advice.
 
-No manuscript prose change is required by this review.
+The current publication blocker does **not** authorize padding Chapter 14. Any expansion should deepen the chapter’s existing argument about unfinished work, attention residue, deliberate status/archiving, restart traces, closure, and obligations to other people, while preserving the source boundaries already reviewed.
 
 ## Final checklist
 
@@ -63,5 +65,6 @@ No manuscript prose change is required by this review.
 - [x] `RIGHTS.md` and `rights.json` are present and coherent.
 - [x] No unresolved factual, research, rights, matter, novelty, or editorial blocker was found.
 - [x] No volatile current-data claim in the reviewed evidence packet requires a separate first-release refresh.
-- [ ] Run `python3 scripts/check-book-length.py bookself` on the frozen Desk source and require a pass.
-- [ ] Run `python3 scripts/check-desk.py` on the same frozen Desk source and require a pass.
+- [x] Concrete current mechanical failure recorded: Chapter 14 = 1,758 words at frozen Desk source `289afe4806c412c3fb43795afe13c59c7f3a1475`, below the 3,000-word minimum.
+- [ ] Substantively remediate Chapter 14 by at least 1,242 qualifying words, then run `python3 scripts/check-book-length.py bookself` on the new frozen Desk source and require a full pass.
+- [ ] Run `python3 scripts/check-desk.py` on the same remediated frozen Desk source and require a pass.
