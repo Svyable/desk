@@ -47,6 +47,7 @@ The argument is not that people are machines. It is that **“not a robot” is 
 ## Research
 
 - [Research brief and source trail](research/README.md)
+- [Robustness pass — Chapters 15–17](research/robustness-pass-2026-09-04.md)
 
 ## Rights
 
