@@ -1,0 +1,42 @@
+chapter,source_id,source_title,url,claim_use,status
+1,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,URI links as relations and Web architecture,checked
+1,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,global identifiers and URI references,checked
+2,S01,As We May Think sections 6-8,https://www.w3.org/History/1945/vbush/vbush7.shtml,pre-Web associative linking concept,checked
+3,S01,As We May Think sections 6-8,https://www.w3.org/History/1945/vbush/vbush7.shtml,memex permanent joins and trails,checked
+4,S02,Nelson ACM 1965,https://doi.org/10.1145/800197.806036,early published hypertext system and nonsequential structures,checked
+4,S03,Computer History Museum hypertext history,https://www.computerhistory.org/revolution/the-web/20/373,Nelson van Dam HES and hypertext lineage,checked
+5,S04,Computer History Museum 1968 timeline,https://www.computerhistory.org/timeline/1968/,NLS demonstration linking and collaboration,checked
+5,S04b,CHM Engelbart retrospective,https://computerhistory.org/blog/net-50-did-engelbarts-mother-of-all-demos-launch-the-connected-world/,Engelbart context and augmentation,checked
+6,S05,CERN birth of the Web,https://home.cern/science/computing/the-birth-of-the-web/,1989 invention and 1993 public-domain release,checked
+6,S05b,CERN short history of the Web,https://home.cern/science/computing/the-birth-of-the-web/short-history-web/,1990 browser server and early Web design,checked
+6,S06,CERN inventors retrospective,https://home.cern/accolade-for-inventors-of-the-world-wide-web/,CERN information-sharing problem and Cailliau role,checked
+7,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,global naming and shared information space,checked
+7,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,identification hierarchy late binding,checked
+7,S09,Cool URIs don't change,https://www.w3.org/Provider/Style/URI.html,persistence and URI design,checked
+8,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,third-party linking and shared identifiers,checked
+8,S05,CERN birth of the Web,https://home.cern/science/computing/the-birth-of-the-web/,open Web dissemination,checked
+9,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,identifier versus interaction semantics,checked
+9,S14,Apple Universal Links,https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content,URLs as app routing and browser fallback,checked
+9,S15,Android App Links,https://developer.android.com/training/app-links/about,verified URLs opening app content,checked
+10,S10,Brin and Page Anatomy of a Large-Scale Hypertextual Web Search Engine,https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/,hyperlink structure used for search ranking,checked
+10,S11,Google Books history,https://books.google.com/googlebooks/about/history.html,BackRub and citation-analysis context,checked
+11,S12,Google Search spam policies,https://developers.google.com/search/docs/essentials/spam-policies,link spam and ranking manipulation,checked
+11,S12b,Google 2022 link spam update,https://developers.google.com/search/blog/2022/12/december-22-link-spam-update,paid and unnatural link detection,checked
+12,S10,Brin and Page Anatomy of a Large-Scale Hypertextual Web Search Engine,https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/,link topology as information,checked
+12,S12c,Google link tagging and spam update,https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update,commercial link qualification and link signals,checked
+13,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,URI interpretation and security considerations,checked
+13,S12,Google Search spam policies,https://developers.google.com/search/docs/essentials/spam-policies,deceptive and manipulative linking patterns,checked
+14,S09,Cool URIs don't change,https://www.w3.org/Provider/Style/URI.html,dangling links and persistence obligations,checked
+14,S13,Perma.cc About,https://perma.cc/about,link rot and archival response,checked
+15,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,open linked-resource baseline,checked
+16,S14,Apple Universal Links,https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content,deep links bridging web and native apps,checked
+16,S15,Android App Links,https://developer.android.com/training/app-links/about,verified deep links and domain association,checked
+17,S13,Perma.cc About,https://perma.cc/about,persistent legal citations and link rot,checked
+17,S16,Cool URIs for the Semantic Web,https://www.w3.org/TR/cooluris/,HTTP identifiers for machine-readable resources,checked
+18,S10,Brin and Page Anatomy of a Large-Scale Hypertextual Web Search Engine,https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/,historical search-as-navigation baseline,checked
+19,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,agents interactions and linked resources,checked
+19,S14,Apple Universal Links,https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content,links as cross-application action routes,checked
+19,S15,Android App Links,https://developer.android.com/training/app-links/about,links as verified machine-routed intents,checked
+20,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,linked resources as shared information space,checked
+20,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,global reusable identifiers,checked
+20,S09,Cool URIs don't change,https://www.w3.org/Provider/Style/URI.html,durable addresses as institutional commitment,checked
