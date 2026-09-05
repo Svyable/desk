@@ -80,6 +80,36 @@ The first error gets most of the attention because it threatens the system’s p
 
 The second threatens the person.
 
+Those two mistakes are not merely technical quantities. They are policy choices disguised as thresholds.
+
+A fraud system can be made more aggressive. More suspicious transactions will be stopped. More legitimate transactions will be interrupted too. A detector can be tuned to catch more generated text. More human text will move into the zone of suspicion. A proctoring system can lower the threshold for unusual behavior. More possible cheating will be surfaced. More ordinary variation will be surfaced with it.
+
+There is no threshold at which uncertainty disappears.
+
+Somebody chooses where uncertainty becomes intervention.
+
+That choice should depend on the cost of being wrong in each direction.
+
+Missing a bot on a low-stakes discussion board is not the same failure as falsely accusing a student of academic dishonesty. Allowing one suspicious login to proceed is not the same as permanently freezing someone’s only bank account. Requiring an extra verification step before a wire transfer is not the same as denying a person access to a public benefit because their face does not match cleanly enough.
+
+The system’s objective function does not contain the whole moral equation.
+
+False positives have biographies.
+
+They arrive late to work. Miss exams. Lose money. Spend hours proving identity. Call support. Find documents. Ask a doctor for a letter. Explain a disability. Defend a piece of writing they actually wrote. Become suspicious in the eyes of an institution because the first system was suspicious of them.
+
+The burden of error can compound.
+
+A flag becomes an investigation.
+
+The investigation becomes a record.
+
+The record becomes evidence for the next decision.
+
+A probabilistic suspicion can harden into an administrative fact without anyone ever deciding that the underlying inference was actually true.
+
+That is why verification needs a theory of burden of proof, not merely a confidence score.
+
 When the stakes are low, the second error is annoying. A CAPTCHA refuses to believe you saw the traffic light. You try again. When the stakes are high, false suspicion becomes punishment.
 
 AI-writing detectors provided an early warning.
@@ -88,7 +118,9 @@ When widely available generative language models entered schools, one obvious re
 
 The technical problem proved much uglier than the administrative need.
 
-OpenAI released its own experimental classifier in early 2023 and withdrew it that July because of its low accuracy. In the evaluation OpenAI published with the tool, the classifier correctly identified only a minority of AI-written text as likely AI-written and also mislabeled some human writing. The company explicitly warned that it should not be used as a primary decision-making tool.
+OpenAI released its own experimental classifier in early 2023 and withdrew it that July because of its low accuracy. In the evaluation OpenAI published with the tool, the classifier correctly identified 26 percent of AI-written text in its challenge set as “likely AI-written” while incorrectly labeling 9 percent of human-written text as AI-written. The company warned against using the classifier as a primary decision-making tool.
+
+Those numbers matter less as a permanent benchmark than as a reminder of what a detector is. It is not a lie detector for authorship. It is a statistical instrument operating under a particular distribution, against adversaries who can adapt, on texts whose provenance may contain mixtures of drafting, editing, translation, templates, assistive tools, and human revision.
 
 Even more troubling, researchers Weixin Liang, Mert Yuksekgonul, Yining Mao, Eric Wu, and James Zou reported that several GPT detectors they evaluated disproportionately misclassified writing by non-native English authors. In their test set, more constrained language patterns could resemble the statistical properties detectors associated with generated text.
 
@@ -170,6 +202,38 @@ People with disabilities, unusual names, atypical documents, weak internet conne
 
 For them, the exception flow is the product.
 
+That sentence changes how a verification system should be evaluated.
+
+The average completion rate is not enough. The average false-positive rate is not enough. The company needs to know who enters the exception flow, how long they stay there, what evidence is demanded, whether the process is accessible, whether a real person can resolve ambiguity, and what happens when the person cannot produce the system’s preferred form of proof.
+
+A two-minute inconvenience for ninety-eight percent of users can coexist with a two-week administrative trap for the remaining two percent.
+
+An average can hide the product experienced by the people most exposed to its mistakes.
+
+The Florida Gateway College case is useful precisely because the software flag was not the only failure. The Department of Education’s Office for Civil Rights described an institutional failure around the flag: the student sought an exception related to disability, the designated disability-services process was not properly involved in the decision, and the college did not provide a reasonable alternative before the dispute escalated. The lesson is larger than one proctoring vendor. A model can be uncertain; the institution still decides what uncertainty does to a person.
+
+That is where due process enters the engineering diagram.
+
+Who sees the flag?
+
+What do they know about its reliability?
+
+What is the immediate consequence?
+
+Does the person receive notice?
+
+Can the person see enough evidence to respond?
+
+Is there an alternative method of verification?
+
+Can a reviewer reverse the decision without institutional penalty?
+
+Does the reviewer have authority independent of the system that produced the flag?
+
+Does the record say “suspected,” or does it quietly become “cheated”?
+
+These are procedural questions, but procedure is part of the technology once the technology governs access.
+
 If the exception flow is humiliating, expensive, slow, or nonexistent, the verification system has made participation conditional on looking ordinary to the model.
 
 This is where “proof of human” can become a sorting machine for standard humans.
@@ -210,7 +274,15 @@ The question is proportionality.
 
 How much of a person should an institution be allowed to observe in order to establish the fact it legitimately needs?
 
-Europe’s AI Act offers one useful contemporary example of a line being drawn. Among its prohibited practices are certain uses of AI to infer emotions in workplaces and educational institutions, subject to limited medical or safety exceptions. The regulation’s recitals point to concerns about scientific reliability, generalizability, discrimination, and the power imbalance in those settings.
+Europe’s AI Act offers one useful contemporary example of a line being drawn. Article 5 prohibits specified uses of AI systems to infer emotions in workplaces and educational institutions, apart from medical or safety purposes. The regulation’s recitals do not treat emotion recognition as a magical window into private mental states. They emphasize concerns about limited reliability, specificity, generalizability, discrimination, intrusiveness, and the imbalance of power in work and education.
+
+That combination is important.
+
+A technology can be imperfect without being prohibited.
+
+A power relationship can be unequal without making measurement impossible.
+
+The concern sharpens when an uncertain inference is aimed inward—at emotion or intention—and the institution controlling the environment can attach consequences to the score.
 
 The law does not say employers and schools may never observe behavior.
 
@@ -362,6 +434,16 @@ The answer is not trust without verification.
 
 It is verification with a theory of human cost.
 
+That theory should include expiration.
+
+Evidence collected for one decision should not automatically become permanent character evidence. A suspicious login from five years ago should not become a lifelong identity trait. A student once flagged by a detector should not carry an invisible scar into every later assignment. A temporary fraud hold should not silently train future systems to treat the account holder as inherently risky. A workplace anomaly should not migrate into a durable behavioral profile unless there is a legitimate reason, a known rule, and a path to correction.
+
+Human beings change. So do sensors, models, standards, and attack patterns.
+
+A verification result has a context and a date.
+
+The infrastructure should remember that.
+
 What happens when the system is wrong?
 
 Who is most likely to look anomalous?
@@ -381,6 +463,34 @@ Can the institution explain why the proof is necessary?
 Does the strength of the proof match the consequence of failure?
 
 Can a person appeal to someone with actual authority?
+
+And one question institutions ask too rarely:
+
+What would count as enough evidence to clear the person?
+
+Suspicion is easy to accumulate. Exoneration needs an exit condition.
+
+A fraud system that can only become more suspicious is not a verification system. It is a ratchet.
+
+A detector that can produce a flag but offers no principled way to overturn the flag has converted uncertainty into an accusation with no burden of proof.
+
+A useful system needs closure states that are not merely “we stopped looking.”
+
+Verified.
+
+Resolved.
+
+False positive.
+
+Insufficient evidence.
+
+These distinctions matter because the next system may read the record too.
+
+Procedural dignity sounds softer than cybersecurity until you notice how much security depends on cooperation. People route around systems that humiliate them. They reuse accounts. Share credentials. Avoid reporting errors. Abandon services. Invent workarounds. Ask someone else to pass the test for them. A verification regime that treats every edge case as an adversary can create the behavior it was designed to prevent.
+
+Good security does not require trusting everyone.
+
+It requires knowing what claim is being tested, what evidence is proportionate, how uncertainty is handled, and how a legitimate person gets back in when the test fails.
 
 These questions should be asked before the first person is falsely accused, not after the press release.
 
