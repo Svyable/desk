@@ -71,3 +71,13 @@ These briefs extend the working research controls for *The Expiration Economy*. 
 **Avoid:** A universal expiration doctrine. The conclusion must keep the distinction between deliberate durability and accidental persistence, between technical deletion and legitimate authority to end, and between memory that deserves preservation and authority that should no longer operate.
 
 **Final note:** The last idea should be that mature abundance is not maximum production. It is circulation: the ability to create, preserve, transfer, revise, and finish without forcing the future to remain governed by every prior act of creation.
+
+## Late-chapter evidence pass status
+
+- Chapter 26: grounded in a current SEC key-person disclosure and bounded against anti-founder overreach.
+- Chapter 27: grounded in EPA adaptability/disassembly guidance with feasibility and lifecycle-cost limits preserved.
+- Chapter 28: grounded in NIST account and subscriber lifecycle standards while separating credential revocation from consequence reconciliation.
+- Chapter 29: grounded in RUFADAA, Apple Legacy Contact, and Google Inactive Account Manager while preserving privacy and platform-dependence limits.
+- Chapter 30: retained as synthesis rather than padded with a new late-stage case; every concrete thread is expected to resolve to earlier sourced material.
+
+By the conservative repository-size proxy used during drafting, Chapters 26–29 are now above 20 KB and Chapter 30 is approximately 20 KB. Exact word count remains a publication-stage validation item rather than a prose target.
