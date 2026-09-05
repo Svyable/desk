@@ -14,7 +14,7 @@ chapter,source_id,source_title,url,claim_use,status
 7,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,identification hierarchy late binding,checked
 7,S09,Cool URIs don't change,https://www.w3.org/Provider/Style/URI.html,persistence and URI design,checked
 8,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,third-party linking and shared identifiers,checked
-8,S05,CERN birth of the Web,https://home.cern/science/computing/the-birth-of-the-web/,open Web dissemination,checked
+8,S19,W3C intellectual rights linking policy,https://www.w3.org/copyright/intellectual-rights/,no permission required merely to link to W3C public resources,checked
 9,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,identifier versus interaction semantics,checked
 9,S14,Apple Universal Links,https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content,URLs as app routing and browser fallback,checked
 9,S15,Android App Links,https://developer.android.com/training/app-links/about,verified URLs opening app content,checked
@@ -25,14 +25,17 @@ chapter,source_id,source_title,url,claim_use,status
 12,S10,Brin and Page Anatomy of a Large-Scale Hypertextual Web Search Engine,https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/,link topology as information,checked
 12,S12c,Google link tagging and spam update,https://developers.google.com/search/blog/2021/07/link-tagging-and-link-spam-update,commercial link qualification and link signals,checked
 13,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,URI interpretation and security considerations,checked
-13,S12,Google Search spam policies,https://developers.google.com/search/docs/essentials/spam-policies,deceptive and manipulative linking patterns,checked
+13,S20,OWASP unvalidated redirects and forwards,https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html,trusted-looking redirects as phishing and exploit-chain risk,checked
 14,S09,Cool URIs don't change,https://www.w3.org/Provider/Style/URI.html,dangling links and persistence obligations,checked
 14,S13,Perma.cc About,https://perma.cc/about,link rot and archival response,checked
-15,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,open linked-resource baseline,checked
+14,S18,Harvard New York Times linkrot study,https://hls.harvard.edu/bibliography/the-paper-of-record-meets-an-ephemeral-web-an-examination-of-linkrot-and-content-drift-within-the-new-york-times/,empirical link rot and content drift findings,checked
+15,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,open linked-resource baseline for platform contrast,checked
+16,S19,W3C Deep Linking finding,https://www.w3.org/2001/tag/doc/deeplinking-20030217.html,deep linking and Web architecture,checked
 16,S14,Apple Universal Links,https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content,deep links bridging web and native apps,checked
 16,S15,Android App Links,https://developer.android.com/training/app-links/about,verified deep links and domain association,checked
 17,S13,Perma.cc About,https://perma.cc/about,persistent legal citations and link rot,checked
 17,S16,Cool URIs for the Semantic Web,https://www.w3.org/TR/cooluris/,HTTP identifiers for machine-readable resources,checked
+17,S21,DOI Handbook,https://www.doi.org/doi-handbook/html/,persistent identifiers and resolution backed by social infrastructure,checked
 18,S10,Brin and Page Anatomy of a Large-Scale Hypertextual Web Search Engine,https://research.google/pubs/the-anatomy-of-a-large-scale-hypertextual-web-search-engine/,historical search-as-navigation baseline,checked
 19,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,agents interactions and linked resources,checked
 19,S14,Apple Universal Links,https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content,links as cross-application action routes,checked
@@ -40,3 +43,4 @@ chapter,source_id,source_title,url,claim_use,status
 20,S07,Architecture of the World Wide Web,https://www.w3.org/TR/webarch/,linked resources as shared information space,checked
 20,S08,RFC 3986 URI Generic Syntax,https://www.rfc-editor.org/rfc/rfc3986.html,global reusable identifiers,checked
 20,S09,Cool URIs don't change,https://www.w3.org/Provider/Style/URI.html,durable addresses as institutional commitment,checked
+20,S21,DOI Handbook,https://www.doi.org/doi-handbook/html/,institutional persistence as model for stronger high-stakes edges,checked
