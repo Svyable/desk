@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 48 author projects · 45 released · 3 public drafts/proofs**
-> **Where they live: 48 in both Desk + Shelf · 49 Desk-only · 0 Shelf-only**
-> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 49 author projects · 46 released · 3 public drafts/proofs**
+> **Where they live: 49 in both Desk + Shelf · 48 Desk-only · 0 Shelf-only**
+> **Release review queue: 8 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -44,6 +44,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Right to Try**](books/right-to-try/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/right-to-try/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/single-points-of-failure/) |
+| [**Solar Century**](books/solar-century/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/solar-century/) |
 | [**The Agentic Consumer Economy: Digital Capitalism in the 2030s**](books/the-agentic-consumer-economy/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-agentic-consumer-economy/) |
 | [**The Cancer Key**](books/the-cancer-key/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-cancer-key/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-collective/) |
@@ -63,12 +64,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-vanishing-bid/) |
 | [**The Weather We Build**](books/the-weather-we-build/) | ✍️ Expanded working draft · publication edit | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/) |
 | [**The World Beneath the World**](books/the-world-beneath-the-world/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-world-beneath-the-world/) |
+| [**This Tech Is Different**](books/this-tech-is-different/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/this-tech-is-different/) |
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/ubiquitous/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Pace of Change](books/pace-of-change/), [Robust](books/robust/), [Solar Century](books/solar-century/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Pace of Change](books/pace-of-change/), [Robust](books/robust/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
