@@ -310,6 +310,78 @@ Some create veto thresholds.
 
 The shape of the response cannot be assumed from the convenience of the score.
 
+Dose is also a function of time.
+
+Ten units delivered in ten seconds can be a different exposure from ten units distributed over ten hours.
+
+The arithmetic total is equal.
+
+The system has time to absorb, metabolize, repair, clear, cool, adapt or recover in one case and not the other.
+
+A loud sound for an instant and the same sound sustained for hours are not equivalent experiences. A workload spike followed by rest differs from the same number of work hours imposed without recovery for weeks. A server receiving one thousand requests over an hour and one thousand requests in a second sees the same count and a different capacity problem.
+
+Peak matters.
+
+Duration matters.
+
+Spacing matters.
+
+Recovery matters.
+
+This is why “total dose” can be a useful summary and a dangerous simplification.
+
+The body does not merely add exposure into one bucket. Biological processes operate on timescales. Some compounds are cleared quickly. Others accumulate. Some damage can be repaired. Some effects compound before repair catches up. Some responses depend on peak concentration more than cumulative amount. Others depend on long-term accumulation.
+
+The correct unit of exposure follows the mechanism.
+
+Organizations have the same problem when they count only totals.
+
+Forty hours of work can describe five ordinary days, two brutal days plus recovery, or a week fragmented into constant interruptions that leave no sustained attention. Ten meetings can be ten short decisions or ten hours of performative reporting. One hundred customer tickets can arrive steadily or all at once after an outage.
+
+The total is not the experience.
+
+The temporal pattern is part of the dose.
+
+This is why recovery capacity deserves to sit beside exposure.
+
+A person who receives a stressor and returns to baseline before the next one occupies a different curve from someone whose next stressor arrives while the first is still being processed. The second system begins each event from a changed state.
+
+Repeated “small” demands can therefore become a chronic high dose without any single dramatic event.
+
+The manager sees ordinary requests.
+
+The employee experiences no recovery interval.
+
+The regulator sees exposures individually below limits.
+
+The community experiences several sources continuously.
+
+The hospital sees each shift as manageable.
+
+The staff experiences months without slack.
+
+Dose accumulates in the gaps that were missing.
+
+Route matters too.
+
+The same quantity entering through different pathways can produce different concentrations, timing and affected tissues. In ordinary life, the structural analogue is the channel through which pressure or information arrives.
+
+A difficult message delivered privately is not the same dose as the same words delivered publicly. One interruption in a protected hour is not the same as one interruption during an already fragmented period. One piece of criticism from a stranger is not the same as one from the person who controls promotion.
+
+Context changes the effective dose because it changes where the input lands.
+
+This should make us skeptical of policy models that assume one nominal intervention carries one stable intensity for everyone.
+
+A tax credit requiring a complicated application is a smaller practical dose of assistance for people with less time, language access or administrative confidence. A training program delivered online has a different effective exposure for someone with a quiet room and reliable broadband than for someone watching on a phone during a commute. A medication prescribed is not the same as a medication absorbed if adherence, food, timing or interactions differ.
+
+Delivered dose and received dose can separate.
+
+That gap is often where implementation fails.
+
+A policy says how much was offered.
+
+An evaluation needs to ask how much reached the mechanism capable of producing the intended effect.
+
 Toxicology learned this because stakes forced precision about exposure.
 
 The same substance, different dose, different response.
@@ -327,6 +399,8 @@ The same workload, different duration, different response.
 The same information, different volume, different response.
 
 The same social pressure, different frequency, different response.
+
+The same nominal total, different timing, route and recovery, different response.
 
 Categories hide dosage.
 
