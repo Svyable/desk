@@ -178,7 +178,71 @@ We remember the entrant whose bet matched the future.
 
 We forget the entrants that bet on futures that never arrived.
 
+This produces a severe retrospective bias.
+
+The winner's commitment looks like conviction because the market later selected it.
+
+The failed entrant's identical commitment looks like recklessness, if it is remembered at all.
+
+The incumbent is judged differently.
+
+It is compared not with one failed startup but with the entire set of futures somebody can name after the fact.
+
+Why did it not invest in this one?
+
+Why did it not acquire that company?
+
+Why did it not see that market?
+
+The hindsight portfolio contains only the opportunities that survived long enough to become obvious.
+
+The real portfolio contained thousands of signals, most of which were noise.
+
+This asymmetry matters because an incumbent's problem is not simply to recognize possibility.
+
+It has to allocate scarce capital among mutually inconsistent possibilities while continuing to operate the business that finances the search.
+
+A startup solves a different problem.
+
+Its financing, identity, hiring, and survival are already tied to one possibility. Concentration can create speed because the startup does not have to maintain internal neutrality among futures.
+
+It can be gloriously wrong.
+
+The incumbent is expected to be selectively right.
+
+That is a harder standard than business mythology admits.
+
 An incumbent faces a portfolio problem under uncertainty. It cannot treat every plausible discontinuity as destiny. If it abandons profitable businesses too early, it can destroy the resources that would have allowed it to adapt later. If it waits for certainty, the transition cost may become too high.
+
+The useful comparison is therefore not courage versus caution.
+
+It is concentrated exposure versus managed optionality.
+
+The startup often has concentrated exposure by necessity.
+
+The incumbent can sometimes afford a portfolio of smaller exposures: prototypes, minority investments, partnerships, internal teams, acquisitions, compatibility work, new channels, and small businesses whose purpose is partly to keep a path open.
+
+That portfolio can become theater. An innovation lab can absorb money without changing the operating company. A pilot can remain a pilot forever. A corporate venture investment can become a substitute for learning how the technology changes the core.
+
+But the portfolio can also be the incumbent's genuine advantage.
+
+It can use current cash flow to buy information before making an irreversible commitment.
+
+It can test more than one future at once.
+
+It can allow evidence to change the allocation.
+
+The entrant has freedom from the past.
+
+The incumbent can have freedom purchased by the past.
+
+That distinction becomes important later when we discuss option value inside the firm.
+
+For now, it corrects the morality play.
+
+Sometimes the large company is not timid because it refuses to bet the company on one weak signal.
+
+Sometimes it is badly designed because it has no way to place a small meaningful bet at all.
 
 This is where the phrase **cannibalize yourself** becomes less useful than it sounds.
 
