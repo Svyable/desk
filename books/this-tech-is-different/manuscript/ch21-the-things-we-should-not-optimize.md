@@ -174,6 +174,82 @@ Optimization says find the best point in the permitted space.
 
 Rights help define the permitted space.
 
+But rights do not eliminate the hard part.
+
+Rights can conflict.
+
+Privacy can conflict with public safety.
+
+Autonomy can conflict with protection from serious harm.
+
+Equal treatment can conflict with efforts to correct unequal starting conditions.
+
+A patient's right to choose can collide with a clinician's duty not to provide a treatment that is unsafe or futile.
+
+A worker's interest in privacy can collide with another worker's interest in a safe workplace.
+
+A community's ability to delay infrastructure can collide with another community's need for power, housing, transport, or jobs.
+
+Calling something a right does not make the tradeoff disappear.
+
+It changes the terms of the tradeoff.
+
+The decision now requires justification strong enough to cross a protected boundary.
+
+That is why rights need institutions around them.
+
+Courts.
+
+Procedures.
+
+Standards of evidence.
+
+Appeals.
+
+Elected lawmaking.
+
+Professional duties.
+
+Public explanation.
+
+The point is not that a human being possesses a moral intuition a machine could never approximate.
+
+Human beings have defended slavery, torture, discrimination, corruption, censorship, and war with great confidence.
+
+Human judgment is not automatically humane because a human supplied it.
+
+Nor is a machine recommendation automatically dehumanizing because a model supplied it.
+
+A statistical system can expose discriminatory patterns a human institution normalized for decades.
+
+A model can make a public benefit easier to access.
+
+Automation can remove arbitrary discretion from a process in which people were treated differently depending on which desk handled the case.
+
+Decision support can reduce fatigue, inconsistency, and clerical error.
+
+Sometimes the machine makes the human institution more humane.
+
+That possibility matters because otherwise this chapter becomes nostalgia disguised as ethics.
+
+The relevant question is not whether the final act contains a human hand.
+
+It is whether the system preserves legitimate authority, contestability, responsibility, and the values the institution is supposed to serve.
+
+A human signature at the end of a bad automated process is weak protection.
+
+A well-designed automated process with clear limits, auditable evidence, meaningful appeal, and accountable human governance can be better than the discretionary system it replaced.
+
+The moral standard has to be comparative.
+
+Compared with what?
+
+The old process may be slow, biased, inaccessible, humiliating, expensive, or corrupt.
+
+The benchmark for a new system cannot be an imaginary human institution that never makes mistakes.
+
+It has to be the real institution we have, including its errors.
+
 This distinction becomes crucial as machine systems get better at finding tradeoffs humans would not have seen.
 
 A powerful optimizer can discover that a small harm to one group produces a large measured benefit elsewhere.
@@ -567,6 +643,38 @@ A worker should sometimes be unmeasured.
 A citizen should sometimes remain illegible to the state.
 
 A life should sometimes be inefficient.
+
+There is a cost to preserving these spaces.
+
+A human appeal channel costs money.
+
+A low-surveillance workplace may sacrifice some measurable productivity.
+
+A teacher spending time with one struggling student may reduce average throughput.
+
+A public process with real contestation takes longer than automatic execution.
+
+A non-machine route can be slower, more expensive, and harder to staff.
+
+If the book treats these costs as imaginary, the argument becomes easy to praise and easy to ignore.
+
+The serious claim is not that dignity always wins at zero cost.
+
+It is that some costs are worth paying because the thing purchased is agency, legitimacy, resilience, or participation rather than output.
+
+That choice still has to be defended.
+
+A requirement for human service can become a luxury mandate that raises prices for people who would prefer a cheaper automated option.
+
+A ban on machine assistance can entrench professional scarcity.
+
+A privacy rule can make some forms of fraud detection harder.
+
+A slow process can become a shield for insiders who know how to navigate it.
+
+The point is not to sanctify friction.
+
+It is to know what the friction protects and whether there is a better way to protect it.
 
 The danger in an age of machine intelligence is not that optimization will become evil.
 
