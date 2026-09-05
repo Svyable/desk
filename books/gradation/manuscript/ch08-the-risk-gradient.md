@@ -307,3 +307,99 @@ The curve moves.
 And sometimes, after all that attention to rising risk, the response stops rising much at all.
 
 The system saturates.
+
+Before leaving risk, there is one distinction worth protecting because modern scoring systems blur it constantly.
+
+Ranking is not calibration.
+
+A model can be excellent at placing higher-risk cases above lower-risk cases and poor at telling us what the probabilities actually mean. If the people assigned 0.20 risk experience the event only five percent of the time, the ranking may still be useful while the number is badly calibrated.
+
+The distinction matters because thresholds can depend on absolute probability, not merely order.
+
+A lender choosing which applications deserve manual review may need ranking.
+
+A hospital deciding whether an expected treatment benefit exceeds a known treatment harm may need something closer to calibrated probability.
+
+An insurer pricing a contract needs an estimate tied to expected loss, not simply a list from safest to riskiest.
+
+The interface can hide this.
+
+A number written as 0.83 looks like probability even when it is only a score normalized to resemble one.
+
+The decimal place borrows the authority of arithmetic.
+
+Good governance asks what the score has been validated to mean.
+
+Does 0.83 mean eighty-three events in a hundred comparable cases?
+
+Does it mean “higher than most cases”?
+
+Does it mean confidence in a classification under one training distribution?
+
+Does it mean nothing interpretable outside the model's internal ranking?
+
+These are not technical niceties once consequences attach.
+
+A miscalibrated score can move thousands of cases across an action threshold when the environment shifts.
+
+That is model drift expressed as policy drift.
+
+The rule stays still.
+
+The meaning of the input moves underneath it.
+
+Risk also becomes treacherous when separate probabilities are treated as independent simply because they were estimated separately.
+
+A household can survive a job loss if savings remain intact, survive a medical expense if income remains intact, and survive a rent increase if nothing else changes. The dangerous state is the overlap.
+
+A business can absorb a supplier failure, a currency move or a demand shock individually. If all three are tied to the same geopolitical event, the portfolio of “separate” risks is one correlated exposure wearing three labels.
+
+The same is true in finance, infrastructure and climate.
+
+Diversification works when failures are not perfectly synchronized.
+
+It fails quietly when supposedly different assets share a hidden driver.
+
+A company believes it has ten suppliers and learns that nine depend on the same subcomponent factory. A bank believes it has many borrowers and learns that their collateral depends on the same real-estate market. A city believes it has redundant communication systems and learns that all of them require the same electrical substation.
+
+Count is not independence.
+
+This is why tail risk is often architectural.
+
+The catastrophe is not one improbable component failure. It is a common cause that reaches several components together.
+
+A system can look diversified by category and concentrated by mechanism.
+
+Gradation asks for the mechanism.
+
+That requirement also changes how we interpret “one percent risk.”
+
+One percent of what period?
+
+Conditional on what state?
+
+Estimated from which population?
+
+Assuming which protections remain in place?
+
+A one-percent annual failure probability repeated across decades is not the same object as a one-percent lifetime probability. A one-percent risk under normal operations says little about a stressed regime if the stress changes the process generating failure.
+
+Risk estimates are conditional sentences with the conditions often deleted.
+
+The deletion makes them portable.
+
+It also makes them easy to misuse.
+
+This is why stress testing is conceptually important even when the scenarios are imperfect. It asks the system to stop averaging over ordinary days and imagine a region of the curve where relationships can change.
+
+Liquidity that appears ample can disappear when many actors demand it simultaneously. Correlations can rise. Market depth can fall. Customers can behave differently. Suppliers can fail together. The model itself can lose relevance because the world has entered a regime poorly represented in historical data.
+
+The tail is not always a scaled-up ordinary day.
+
+Sometimes it is a different mechanism.
+
+That is where risk reconnects to the central problem of this book.
+
+Most movement is by degree.
+
+But sometimes the next increment changes the system that generates the increments.
