@@ -8,6 +8,7 @@
 | **Status** | Complete draft |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
+| **Shelf Release** | Published September 5, 2026 from Desk snapshot `0e50f4775264747da5f7fd386d7500a91ceed8d1`; [read on Shelf](https://svyable.github.io/shelf/reader/#/b/the-orphan-age/) |
 | **Chapters** | 20 of 20 drafted |
 | **Method** | Narrative nonfiction + cross-domain case studies + primary-source research + falsification notes |
 | **Release Review** | Release-cleared subject only to ordinary mechanical publication steps; see [research/release-review.md](research/release-review.md) |
