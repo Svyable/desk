@@ -102,6 +102,92 @@ When the system behaves exactly as designed and the outcome is still bad, who ow
 
 Those questions can eventually receive technical components, but they are questions about authority and consequence.
 
+There is a financial way to see the same problem.
+
+Responsibility needs a balance sheet.
+
+A promise matters differently when the promisor has something at risk.
+
+A warranty is useful because the seller agrees to absorb a defined failure cost. Insurance matters because a pool of capital stands behind uncertain losses. A professional license matters partly because the license can be disciplined or withdrawn. A public company filing carries weight because named officers and an organization enter a legal system with assets, duties, and sanctions.
+
+These mechanisms are imperfect. Rich organizations can survive mistakes that would destroy smaller ones. Insurance can create moral hazard. Licensing can protect incumbents. Contracts can shift risk toward parties with less bargaining power.
+
+But each mechanism answers a question a generated output cannot answer by itself.
+
+What happens after the error?
+
+A model can produce a confidence score. A confidence score is not compensation.
+
+It can produce an audit trail. An audit trail is not restitution.
+
+It can explain why an action was recommended. An explanation is not a party that can repair the harm.
+
+This is why responsibility has a capacity constraint.
+
+A person can meaningfully supervise only so much consequential activity. A firm can warranty only so much risk before it needs more capital, better controls, higher prices, reinsurance, or narrower promises. A regulator can oversee only so many cases before it needs rules that reduce the number requiring individual attention.
+
+Artificial abundance can push directly against these limits.
+
+Imagine a professional who once issued twenty consequential recommendations a month and can now issue two hundred. If each recommendation receives the same nominal signature, has the supply of responsibility increased tenfold?
+
+Not necessarily.
+
+The name appears ten times as often. The person's ability to investigate, monitor, learn from outcomes, and absorb losses has not necessarily changed.
+
+The signature can be diluted.
+
+Markets already understand versions of this. A rating means less if the rater approves everything. A guarantee is worth less if the guarantor lacks resources to honor it. An audit opinion depends on the process and independence behind the opinion, not on the ease of printing the report.
+
+Artificial abundance will make these distinctions more important because the cost of producing the object that carries the assurance keeps falling.
+
+The report becomes cheap.
+
+The assurance process does not become cheap at the same rate.
+
+This creates an incentive to counterfeit responsibility socially without counterfeiting it legally.
+
+A generated artifact can be made to look reviewed.
+
+It can include citations, warnings, professional language, a signature block, a checklist, and the visual grammar of institutional seriousness. A workflow can require a human click and record that click as approval.
+
+Everything can look accountable.
+
+The real test appears later, when the result is challenged.
+
+Can the organization show who had authority?
+
+Can it reconstruct which system and data produced the recommendation?
+
+Can it explain why the threshold was set where it was?
+
+Can the affected person appeal?
+
+Can the harm be repaired?
+
+Did anyone have both the information and the incentive to stop the action beforehand?
+
+This is the difference between responsibility as decoration and responsibility as infrastructure.
+
+The distinction also matters when systems act through other systems.
+
+A model may generate code that another tool tests, a deployment system releases, a monitoring system observes, and an agent later modifies. No single human may have touched the final change.
+
+It is tempting to say responsibility has therefore disappeared into the network.
+
+Institutions cannot afford that conclusion.
+
+They have to decide which organization owns the system boundary, which changes are permitted automatically, which failures trigger rollback, which vendor commitments are contractual, and which risks remain with the operator.
+
+As automation chains lengthen, responsibility becomes less about authorship and more about system ownership.
+
+Who built the conditions under which this action was allowed to occur?
+
+That question can reach a provider, deployer, operator, manager, board, regulator, insurer, or some combination. The answer will vary by domain and law. It will change as institutions adapt.
+
+The important economic point is that the answer must be manufactured through governance.
+
+It does not emerge automatically from capability.
+
 This is why responsibility may become a premium service.
 
 When anyone can generate a plausible answer, the valuable sentence may become: I have checked this, and I will stand behind it.
