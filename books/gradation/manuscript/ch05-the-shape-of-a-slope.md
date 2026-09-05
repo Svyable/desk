@@ -320,6 +320,84 @@ Gradation does not make forecasting easy.
 
 It makes lazy forecasting harder.
 
+There is another distinction that helps when units themselves are misleading.
+
+Sometimes the relevant slope is absolute.
+
+Sometimes it is proportional.
+
+If a company gains one hundred customers from a base of one thousand, that change means something different from gaining one hundred customers from a base of one hundred million. If a household's income rises by ten thousand dollars, the proportional change depends on the starting point. If a network loses one millisecond of latency, the practical significance depends on the original response time and the task.
+
+This is why percentage change and absolute change can tell different stories without either being dishonest.
+
+They answer different questions.
+
+Elasticity is one formal way economics handles this: how much one variable changes proportionally in response to a proportional change in another. The usefulness is not the vocabulary. It is the reminder that a slope depends partly on the units chosen.
+
+A graph can look steep because the axis is narrow.
+
+A policy can look generous in dollars and small as a share of income.
+
+A risk can look tiny per person and enormous across a population.
+
+A company can report rapid percentage growth from a tiny base and modest absolute growth from a large one.
+
+Scale is part of shape.
+
+This becomes especially important when comparing groups with different baselines.
+
+A ten-point test-score gain may be transformative if one group began far below a proficiency threshold and less consequential if another group already had near-perfect performance. A one-day reduction in processing time is dramatic for a two-day process and nearly irrelevant for a one-year process.
+
+Equal slopes in one unit can be unequal slopes in experience.
+
+But there is a more serious problem than units.
+
+A descriptive slope is not automatically a causal slope.
+
+Suppose higher advertising spend is associated with higher sales. Companies may spend more precisely when they expect demand to be strong. The observed relationship combines the effect of advertising with the conditions that caused managers to buy the advertising.
+
+Suppose wealth is associated with better health. Income can improve living conditions and access to care, while health can also affect earning ability, and both can be shaped by education, neighborhood, family background and many other factors.
+
+The line through the data does not tell us which direction the mechanism runs.
+
+This matters because intervention asks a causal question.
+
+If we move the input, what happens to the output?
+
+A slope estimated from passive observation may not answer it.
+
+The distinction is one of the reasons experiments, natural experiments and careful quasi-experimental methods matter. They try to isolate movement in the input that is not simply a reflection of movement elsewhere in the system.
+
+Gradation without causality can become curve worship.
+
+We see a smooth relationship and imagine that pushing along the x-axis will slide the world along the fitted line.
+
+Sometimes it will.
+
+Sometimes the relationship disappears under intervention because the curve was describing sorting rather than response.
+
+And sometimes intervention changes the curve itself.
+
+A subsidy increases adoption, which expands production, which lowers cost, which makes later adoption easier. A congestion charge changes driving patterns, which changes congestion, which changes the value of avoiding the charge. A training program changes skill, which changes which tasks a worker is assigned, which changes future learning.
+
+The response function is not always passive.
+
+Action can reshape it.
+
+This makes policy especially difficult near systems with feedback.
+
+The estimated slope tells us what happened under yesterday's rules.
+
+Changing the rules can alter expectations, composition and behavior enough that tomorrow's slope is different.
+
+That does not make empirical estimates useless.
+
+It makes them local in policy space as well as local in the variable.
+
+A slope belongs to conditions.
+
+Those conditions should travel with the number.
+
 Before asking where the line goes, ask why it has its current slope.
 
 Then ask what could change the slope.
