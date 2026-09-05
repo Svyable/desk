@@ -196,6 +196,12 @@ Both can happen in the same career.
 
 That ambiguity is more useful than the legend of the reluctant sage who transcended ambition.
 
+There is another ambiguity the record requires us to preserve. A decline in publication is observable. Its cause is harder to assign. Later accounts of Shannon's life include the onset of Alzheimer's disease, but the existence of later illness does not license a biographer to use it as a universal explanation for every earlier unfinished manuscript, abandoned project, or retreat from professional visibility. Chronology matters. So does the difference between a documented diagnosis and a motive inferred backward from it.
+
+The safer account is less satisfying because it refuses a single cause. Shannon had long shown a tendency to move on when the interesting part of a problem felt finished. He also aged. His professional environment changed. His field became larger than any founder could personally contain. Later, illness narrowed his life in ways that should not be romanticized as philosophical withdrawal.
+
+Those facts can coexist without being collapsed into one story.
+
 By the 1960s, information theory had grown far beyond the original paper. The theory attracted applications in communications, coding, statistics, linguistics, biology, economics, and other domains. Some extensions were fruitful. Others stretched the language of information until the mathematical object threatened to become a metaphor for everything.
 
 Shannon was wary of the inflation.
