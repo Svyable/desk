@@ -2,6 +2,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 
 const css = fs.readFileSync(new URL('../css/desk-reading-app.css', import.meta.url), 'utf8');
+const libraryCss = fs.readFileSync(new URL('../css/desk-library-home.css', import.meta.url), 'utf8');
 const adapter = fs.readFileSync(new URL('./desk-reading-app.js', import.meta.url), 'utf8');
 const loader = fs.readFileSync(new URL('./app-loader.js', import.meta.url), 'utf8');
 const index = fs.readFileSync(new URL('../index.html', import.meta.url), 'utf8');
@@ -33,6 +34,11 @@ check(() => assert.match(css, /@media \(prefers-reduced-motion: reduce\)/));
 check(() => assert.doesNotMatch(css, /--reader-page-(?:top|bottom|pad|radius)/));
 check(() => assert.doesNotMatch(css, /\.page-inner\s*\{/));
 
+// Bookself #300 now owns app-level Light/Dark + Settings visibility. Desk's
+// library hierarchy must not hide the entire shared header-right control group.
+check(() => assert.doesNotMatch(libraryCss, /\.app-header \.header-right\s*\{\s*display\s*:\s*none/));
+check(() => assert.match(index, /id="settingsBtn"[\s\S]*<circle cx="12" cy="12" r="3"\/>/));
+
 check(() => assert.match(adapter, /\/reader\\\/css\\\/settings-panel\\\.css/));
 check(() => assert.match(adapter, /shared\.insertAdjacentElement\('afterend', local\)/));
 check(() => assert.match(adapter, /new MutationObserver\(\(\) =>/));
@@ -47,4 +53,4 @@ check(() => assert.match(loader, /Desk reading-app hierarchy could not be loaded
 check(() => assert.match(index, /class="view-toggle" id="viewModeBtn"/));
 check(() => assert.match(index, /id="settingsPanel"/));
 
-console.log(`Desk reading-app promotion contract: ${assertions}/32 assertions passed`);
+console.log(`Desk reading-app promotion contract: ${assertions}/34 assertions passed`);
