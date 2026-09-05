@@ -38,6 +38,8 @@ A biography owes its subject more than symmetry.
 
 By the time the public information age accelerated around him, Shannon had already withdrawn from much of its professional ceremony. He had left Bell Labs as a full-time employee decades earlier, spent years at MIT, retired, and published less than admirers wished he would. Yet “withdrawal” is an imperfect word for what happened. It can make a life look empty merely because the person stopped producing the kinds of artifacts institutions count most easily.
 
+The chronology needs the same caution as the metaphor. MIT’s obituary establishes the diagnosis, the long illness, and the circumstances of Shannon’s death; it does not give us a clinical timeline precise enough to explain every earlier professional choice. His reluctance to publish, his dislike of ceremony, and his habit of leaving work unfinished are documented well before the final illness. Alzheimer’s belongs to the late biography. It should not be pulled backward to become a universal cause for decades of behavior that already had other explanations and, in some cases, no explanation we can prove.
+
 Shannon continued to make things.
 
 The surviving collection donated by his family to MIT contains the evidence: mechanical devices, calculating contraptions, juggling apparatus, games, and the residue of a mind that liked to test an idea by giving it moving parts. His famous hallway unicycle and juggling were not an eccentric footnote attached by later biographers to make a mathematician colorful. They belonged to the same appetite that had led him from relay circuits to genetics, cryptography, chess, maze-solving machines, roulette, and investment problems.
