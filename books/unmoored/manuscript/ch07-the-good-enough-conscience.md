@@ -182,6 +182,34 @@ They may become less morally involved than the process suggests.
 
 This can happen even when the answers are good.
 
+The loss would not necessarily look like ignorance.
+
+It may look like calibration debt.
+
+A professional who uses an excellent system every day can become very good at recognizing ordinary outputs while losing sensitivity to the limits of the process that produces them. The system supplies the categories, precedents, exceptions, and draft reasoning. The human learns what a plausible result looks like without repeatedly reconstructing why it is plausible.
+
+This is not simple deskilling.
+
+The professional may become more capable overall. A junior clinician can see rare patterns earlier. A teacher can notice accessibility problems. A manager can learn to identify conflicts of interest that previously went unnoticed. The tool can teach while it assists.
+
+The same workflow can produce upskilling in one layer and atrophy in another.
+
+A user becomes better at comparing options but worse at generating them.
+
+Better at spotting a contradiction once highlighted but worse at noticing the moral issue before the system labels it.
+
+Better at reading reasons but less practiced at discovering which reason is missing.
+
+Better at operating inside the model's map and less certain how to tell when the map is wrong.
+
+The risk therefore cannot be measured by asking whether users know less after adopting AI.
+
+They may know much more.
+
+The question is which capacities become dependent on continued access to the system.
+
+That matters because institutions fail, products change, incentives drift, policies are updated, networks go down, and authorities can become corrupt. A conscience that functions only while one service remains trustworthy is a fragile kind of conscience.
+
 A useful analogy comes from language.
 
 Many people can understand words they would struggle to produce. Recognition is easier than generation. A person who reads a strong sentence can know that it works without being able to write one from scratch.
@@ -273,6 +301,38 @@ A self-critique is not an appeal if the same institution controls the result.
 A diverse ensemble can reduce correlated error without giving affected people standing.
 
 The distinction between epistemic quality and moral authority keeps returning because every technical improvement solves the first problem more readily than the second.
+
+A stronger design would create deliberate moral interruption at selected moments.
+
+Not constant friction.
+
+Constant friction becomes noise, and noise is trained away.
+
+Interruption should appear where the system detects a change in kind rather than merely a change in difficulty.
+
+A private choice becomes a decision imposed on someone else.
+
+A recommendation crosses from reversible to irreversible.
+
+A routine rule collides with a right.
+
+A user asks the system to justify harming an absent person who has no voice in the conversation.
+
+A professional moves from advice to coercion.
+
+At those boundaries, the interface can slow down enough to expose the shift.
+
+Who will bear the cost?
+
+Who is entitled to an explanation?
+
+What authority permits this action?
+
+What fact, if changed, would alter the recommendation?
+
+The point is not to force moral homework onto every click.
+
+It is to keep the system from smoothing over the moments when responsibility changes hands.
 
 This is where the “good-enough conscience” becomes a political concern.
 
