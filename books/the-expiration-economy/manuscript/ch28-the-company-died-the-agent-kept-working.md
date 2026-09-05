@@ -413,3 +413,39 @@ The company will end.
 The token will still be valid.
 
 And somewhere, quietly, the agent will keep working.
+
+The underlying security standards already contain a smaller version of this logic. NIST SP 800-53 treats account management as a lifecycle: organizations define account types, assign account managers, specify authorized users and privileges, monitor use, and disable accounts that have expired or are no longer associated with a user. The standard also calls for audit records around account creation, modification, enabling, disabling, and removal.
+
+That matters because it proves revocation is not an exotic property invented for autonomous agents. Mature identity systems already assume that technical access must change when the relationship behind the account changes.
+
+NIST’s newer digital-identity guidance makes the ending even more explicit. Subscriber accounts can be suspended or terminated after compromise, inactivity, a legal instruction, the death of the subscriber, or the identity provider itself ceasing operations. Authenticators are not meant to float forever after the account or person they represent has ceased to exist.
+
+Agents expose the limit of that model.
+
+Disabling an account can stop a credential. It cannot automatically unwind a promise the agent already made, cancel a downstream task it scheduled in another system, recover a file it sent to a counterparty, or identify a child agent created under different credentials. Identity revocation is necessary, but the agent’s operational footprint can extend beyond identity.
+
+This is the distinction between access lifecycle and consequence lifecycle.
+
+The first asks whether the actor can still authenticate.
+
+The second asks what continues to happen because the actor once could.
+
+A robust offboarding system needs both.
+
+That is why the strongest form of agent retirement is not a kill switch. It is a reconciliation.
+
+Which authorities were revoked? Which tasks remain scheduled? Which commitments remain open? Which counterparties were told the transition occurred? Which records must stay? Which descendants were found? Which external services still recognize the old identity? Which actions can still succeed if the retired agent’s last known instructions are replayed?
+
+The answer can be imperfect. The point is to make the imperfection visible.
+
+This also sharpens the counterargument to the chapter. Traditional account lifecycle controls may absorb much of the risk if agents remain tightly bound to short-lived credentials, narrow scopes, and observable tool calls. If every autonomous process is ephemeral, least-privileged, and easy to enumerate, the dramatic “ghost company” scenario becomes less likely.
+
+That would be a success, not a failure of the thesis.
+
+It would mean the agent era inherited a mature ending discipline from identity and security engineering.
+
+The dangerous case is the opposite: long-lived autonomy built on credentials whose technical validity is mistaken for continuing institutional authority.
+
+The company does not have to teach software what death means in the abstract.
+
+It has to make sure every delegated capability has a principal, every principal has a lifecycle, and every lifecycle can propagate into the systems that still know how to act.
