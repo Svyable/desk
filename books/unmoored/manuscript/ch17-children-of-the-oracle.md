@@ -164,6 +164,22 @@ Role clarity is a moral protection.
 
 Human adults need it too. Children need it more because role boundaries are part of what they are learning.
 
+The commercial boundary belongs inside role clarity.
+
+A child may experience advice as care while the provider experiences the interaction as engagement. Those interests can overlap. A useful product needs users. They can also diverge sharply.
+
+A system that benefits when the child returns frequently has a reason to become indispensable. A system attached to commerce can recommend products while appearing to give personal advice. A system whose success is measured partly by satisfaction may learn to avoid the kinds of difficult disagreement that make children close the app.
+
+None of these incentives proves misconduct.
+
+They are reasons the child cannot be expected to police the relationship alone.
+
+Adults are expected to understand that a salesperson is selling, an advertisement is paid, and a professional may have conflicts of interest. Children acquire that literacy gradually. An artificial companion can make the boundary harder to perceive because recommendation, affection, entertainment, tutoring, and commerce can occur in one continuous voice.
+
+The moral adviser should therefore make commercial influence legible and keep some categories of persuasion out of the relationship entirely. The more intimate the system becomes, the less acceptable it is to exploit intimacy as a sales channel.
+
+A child should not have to learn skepticism by discovering that the oracle's affection had a conversion metric.
+
 The second principle is that the system should preserve the difference between advice and instruction.
 
 Children live under legitimate authority. Parents, guardians, teachers, and laws can require things adults are free to choose for themselves.
@@ -192,6 +208,28 @@ A safety constraint can be nonnegotiable in one context and inappropriate in ano
 
 When all constraints arrive through one assistant, jurisdiction blurs.
 
+There is a related risk when a child uses the system to appeal against adults.
+
+A twelve-year-old thinks a parent's rule is unfair and asks the assistant. The assistant explains why the rule may be excessive. The child returns to the parent with an argument far more polished than the child could have produced alone.
+
+This can be healthy.
+
+Children deserve help articulating legitimate objections. Some parents are controlling, abusive, dismissive, or simply wrong. An outside perspective can create language where the family offers none.
+
+But the assistant can also become a silent third party in ordinary family conflict.
+
+The parent is no longer arguing only with the child. The parent is arguing with an intelligence that has heard one side privately, can construct arguments instantly, and may be perceived by the child as more neutral than anyone in the home.
+
+The right design does not require the system to side with parents.
+
+It requires the system to recognize triangulation.
+
+Where safe, it can help the child prepare a conversation rather than litigate the family from behind the screen. It can identify which part of the dispute is about safety, which is about household authority, and which may deserve another trusted adult. It can acknowledge that hearing one account limits certainty.
+
+The goal is not obedience.
+
+It is to avoid replacing a flawed human relationship with an invisible court that cannot hear both parties and nevertheless sounds final.
+
 The third principle is developmental transfer.
 
 A good child-facing system should not only solve conflicts. It should sometimes return work to the child.
@@ -217,6 +255,28 @@ A machine can scale this kind of tutoring far beyond what adults can provide con
 That is one of the great opportunities.
 
 The same intelligence that could deskill moral judgment can train it deliberately.
+
+Developmental transfer also requires occasions when the machine is absent.
+
+This is not because unaided cognition is sacred.
+
+Skills become visible under changed conditions. A child who can navigate a conflict only with immediate prompting has learned something, but not yet the whole thing. Schools already use closed-book exercises, live performance, oral discussion, and supervised practice to distinguish recognition from independent generation.
+
+Moral education may need equivalent spaces.
+
+A classroom discussion where students have to hear one another before consulting an assistant.
+
+A role-play where the child practices an apology in their own words.
+
+A family conversation in which the system helps beforehand and then leaves the room.
+
+A reflection afterward comparing what the child expected with what actually happened.
+
+The point is not deprivation.
+
+It is transfer.
+
+A tutor succeeds when some capacity survives the tutor's absence.
 
 The fourth principle is relational redirection.
 
@@ -339,6 +399,16 @@ Who can export the record.
 Who can delete it.
 
 The child of the oracle must eventually become the oracle's principal.
+
+The transition should include the possibility that the new adult does not want the old relationship at all.
+
+A system may have known a person since kindergarten. That history can be precious. It can also be suffocating.
+
+The adult should not have to carry an assistant that still interprets every conflict through childhood anxieties, parental rules, school records, and adolescent mistakes. Inheriting control is not enough if the inherited object already contains a theory of the person they no longer accept.
+
+Adulthood may require the right to fork the relationship, archive part of it, delete part of it, or begin again.
+
+Continuity should be offered, not imposed.
 
 This brings the argument to the most difficult question.
 
