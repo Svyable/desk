@@ -283,3 +283,21 @@ It is also an unusually good description of responsible biography.
 We know Shannon worked on secrecy systems at Bell Labs during the war. We know his 1949 paper traces its material to a confidential report dated September 1, 1945. We can read the mathematical theory he eventually published.
 
 We do not know enough to populate every wartime room.
+
+So we should not.
+
+The missing scene does not weaken the chapter. It clarifies the conditions under which the work was done.
+
+Some of Shannon's most important thinking occurred in an institution where the normal scientific instinct to publish had to coexist with military secrecy. He responded not by abandoning general theory but by carrying it through the restricted period until it could enter the literature.
+
+Three years after the confidential report, he published the work that would make his name inseparable from information itself.
+
+Before getting there, however, another mathematician passed through Bell Labs during the war.
+
+His name was Alan Turing.
+
+The two men did meet. Later accounts have made the encounter irresistible, as encounters between famous people tend to become. The problem is that fame arrives after the meeting and supplies details the archive may not.
+
+The next chapter has to begin with that difficulty.
+
+Two minds can occupy the same institution without history granting us a transcript.
