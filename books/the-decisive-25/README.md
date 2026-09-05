@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 3 of 25 drafted |
+| **Chapters**  | 8 of 25 drafted |
 
 ## Premise
 
@@ -12,7 +12,7 @@ America's 250 years can be divided into twenty-five ten-year turns. For each one
 
 The answer is not the best person, the most famous person, the person with the highest office, or the person we most want on a monument. It is the hinge person. Some expanded freedom. Some narrowed it. Some built institutions. Some broke them. Some were not even citizens of the United States. Importance is treated as a counterfactual claim about consequence, not a medal for virtue.
 
-That rule lets the familiar national story become strange again. Washington is chosen less for winning than for walking away. Hamilton matters because he turned promises into a financial state. Toussaint Louverture enters an American history because the revolution in Saint-Domingue helped destroy Napoleon's North American project and changed the scale of the United States. Later chapters will make the same wager across courts, wires, slavery, corporations, votes, war, civil rights, software, terrorism, the smartphone, and the permanent campaign.
+That rule lets the familiar national story become strange again. Washington is chosen less for winning than for walking away. Hamilton matters because he turned promises into a financial state. Toussaint Louverture enters an American history because the revolution in Saint-Domingue helped destroy Napoleon's North American project and changed the scale of the United States. Later chapters make the same wager across courts, wires, slavery, corporations, votes, war, civil rights, software, terrorism, the smartphone, and the permanent campaign.
 
 ## Contents
 
@@ -20,11 +20,11 @@ That rule lets the familiar national story become strange again. Washington is c
 - [x] [Ch 1 — 1776–1785: George Washington — The Man Who Walked Away](manuscript/ch01-the-man-who-walked-away.md)
 - [x] [Ch 2 — 1786–1795: Alexander Hamilton — The Debt That Became a Nation](manuscript/ch02-the-debt-that-became-a-nation.md)
 - [x] [Ch 3 — 1796–1805: Toussaint Louverture — The Revolution Next Door](manuscript/ch03-the-revolution-next-door.md)
-- [ ] [Ch 4 — 1806–1815: Tecumseh — The Country That Might Have Been](manuscript/ch04-the-country-that-might-have-been.md)
-- [ ] [Ch 5 — 1816–1825: John Marshall — The Court Finds Its Power](manuscript/ch05-the-court-finds-its-power.md)
-- [ ] [Ch 6 — 1826–1835: Andrew Jackson — Democracy With Teeth](manuscript/ch06-democracy-with-teeth.md)
-- [ ] [Ch 7 — 1836–1845: Samuel Morse — The Wire That Shrunk the Republic](manuscript/ch07-the-wire-that-shrunk-the-republic.md)
-- [ ] [Ch 8 — 1846–1855: Frederick Douglass — The Argument America Could Not Silence](manuscript/ch08-the-argument-america-could-not-silence.md)
+- [x] [Ch 4 — 1806–1815: Tecumseh — The Country That Might Have Been](manuscript/ch04-the-country-that-might-have-been.md)
+- [x] [Ch 5 — 1816–1825: John Marshall — The Court Finds Its Power](manuscript/ch05-the-court-finds-its-power.md)
+- [x] [Ch 6 — 1826–1835: Andrew Jackson — Democracy With Teeth](manuscript/ch06-democracy-with-teeth.md)
+- [x] [Ch 7 — 1836–1845: Samuel Morse — The Wire That Shrunk the Republic](manuscript/ch07-the-wire-that-shrunk-the-republic.md)
+- [x] [Ch 8 — 1846–1855: Frederick Douglass — The Argument America Could Not Silence](manuscript/ch08-the-argument-america-could-not-silence.md)
 - [ ] [Ch 9 — 1856–1865: Abraham Lincoln — The Union Changes Its Meaning](manuscript/ch09-the-union-changes-its-meaning.md)
 - [ ] [Ch 10 — 1866–1875: Ulysses S. Grant — The Government Tries to Enforce Freedom](manuscript/ch10-the-government-tries-to-enforce-freedom.md)
 - [ ] [Ch 11 — 1876–1885: Thomas Edison — Night Becomes Infrastructure](manuscript/ch11-night-becomes-infrastructure.md)
@@ -48,3 +48,4 @@ That rule lets the familiar national story become strange again. Washington is c
 
 - [Research brief and source ledger](research/README.md)
 - [Selection board and counterfactual rules](research/selection-board.md)
+- [Chapters 4–8 evidence ledger](research/ch04-ch08.md)
