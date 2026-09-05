@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 5 of 20 drafted |
+| **Chapters**  | 6 of 20 drafted |
 
 *How Yesterday's Success Becomes Tomorrow's Constraint*
 
@@ -54,10 +54,10 @@ The question is when the constraint still earns its keep.
 - [x] [Ch 3 — Adaptation Debt](manuscript/ch03-adaptation-debt.md)
 - [x] [Ch 4 — Why the Newcomer Looks Brave](manuscript/ch04-why-the-newcomer-looks-brave.md)
 - [x] [Ch 5 — Capital Has a Memory](manuscript/ch05-capital-has-a-memory.md)
+- [x] [Ch 6 — Metrics Remember the Old Game](manuscript/ch06-metrics-remember-the-old-game.md)
 
 ## Planned chapters
 
-6. Metrics Remember the Old Game
 7. The Expert's Handicap
 8. The Customer You Cannot Fire
 9. The Constituency Around the Rule
