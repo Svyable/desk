@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 6 of 20 drafted |
+| **Chapters** | 9 of 20 drafted |
 | **Method** | Narrative science + operational definitions + falsification notes |
 
 The universe already contains systems that remember, correct, allocate, adapt, and solve without knowing that they do. We know this because Earth is in the universe.
@@ -30,9 +30,9 @@ This is not a claim that planets are conscious, that slime molds secretly think 
 - [x] [Chapter 4 — A City With No Mayor](manuscript/ch04-a-city-with-no-mayor.md)
 - [x] [Chapter 5 — The Intelligence of Damage](manuscript/ch05-the-intelligence-of-damage.md)
 - [x] [Chapter 6 — The Organism That Became a Map](manuscript/ch06-the-organism-that-became-a-map.md)
-- [ ] Chapter 7 — Memory Without a Mind
-- [ ] Chapter 8 — Goals Without a Ghost
-- [ ] Chapter 9 — When Matter Keeps Score
+- [x] [Chapter 7 — Memory Without a Mind](manuscript/ch07-memory-without-a-mind.md)
+- [x] [Chapter 8 — Goals Without a Ghost](manuscript/ch08-goals-without-a-ghost.md)
+- [x] [Chapter 9 — When Matter Keeps Score](manuscript/ch09-when-matter-keeps-score.md)
 - [ ] Chapter 10 — The False Positive Problem
 - [ ] Chapter 11 — The Edge of Life
 - [ ] Chapter 12 — The Planet as a Sensor
