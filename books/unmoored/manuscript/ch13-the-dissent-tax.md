@@ -362,6 +362,48 @@ This is especially dangerous in early-stage problems where the evidence is neces
 
 The organization receives cleaner data and poorer warning.
 
+There is a further asymmetry when the machine learns from the institution's own history.
+
+Suppose a hospital's model is retrained on prior decisions. Clinicians usually follow the recommendation. Departures are rare and heavily documented. The resulting record contains thousands of cases in which the model-shaped process produced the accepted outcome and a much smaller set of contested cases in which humans intervened.
+
+The next model inherits that history.
+
+Institutional conformity becomes training data.
+
+The past presumption is no longer merely a workflow rule. It is embedded in the evidence from which the future system learns what normal judgment looks like.
+
+This can create a quiet circularity.
+
+The system recommends what the institution has tended to do. The institution follows because the system is validated against what competent practice has tended to produce. The resulting decisions strengthen the data pattern. Over time, a contingent settlement can acquire the appearance of empirical necessity.
+
+The problem is not unique to AI. Precedent and professional culture have always reproduced themselves.
+
+Artificial systems can accelerate the process and make it less visible because statistical regularity looks different from tradition.
+
+A practice can stop looking inherited and start looking discovered.
+
+Dissent then performs another function.
+
+It preserves counterfactual institutional memory.
+
+A recorded disagreement says: there was another way to understand this case.
+
+That record should not be treated only as evidence about whether the dissenter was right. It can be evidence that the institution's categories were contested at all.
+
+Future reviewers may need to know that a rule once looked morally unstable before the data made it look normal.
+
+This is why a robust system should preserve some dissents even when they lose.
+
+Courts do this openly through dissenting opinions. Science does it through failed hypotheses, replication, and critique. Engineering does it through incident reports and hazard logs. Democratic institutions do it through opposition and recorded votes.
+
+The losing view is not granted equal authority forever.
+
+It remains legible.
+
+A machine-mediated institution needs an equivalent practice.
+
+Otherwise compression will remove precisely the history needed to understand how today's objective became yesterday's controversy.
+
 There is a design response.
 
 Some dissent should be protected from individual performance scoring unless there is evidence of abuse.
@@ -389,6 +431,22 @@ Dissent should not be romanticized as inherently human and therefore noble.
 The institution should learn from failed dissent as well as successful dissent.
 
 The important thing is that disagreement remains evidentiary rather than shameful.
+
+There is also a difference between dissent and sabotage.
+
+An employee who repeatedly ignores a validated system without reasons is not exercising a sacred prerogative. A public official who rejects evidence because it is politically inconvenient is not defending democracy. A physician who overrides a model to preserve a personal prejudice is not protecting professional judgment.
+
+The institution needs standards.
+
+But the standards should test the quality and relevance of the dissent rather than demand that dissenters prove the final answer before receiving a hearing.
+
+The first burden can be modest: identify the concern, the affected value, the missing fact, or the reason the normal presumption may not apply.
+
+The second burden can rise with the stakes: gather evidence, obtain independent review, document the tradeoff.
+
+What should not happen is a single impossible burden placed at the entrance: defeat the superior intelligence before you are allowed to question it.
+
+That standard would preserve theoretical freedom while eliminating practical challenge.
 
 This becomes a moral requirement when humans retain responsibility.
 
