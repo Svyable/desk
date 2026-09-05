@@ -8,13 +8,13 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 25 of 25 drafted |
+| **Chapters** | 30 of 30 drafted |
 
 The modern world is exceptionally good at beginnings. We can launch a product, create a file, pass a rule, deploy a model, open an account, spin up a service, publish an artifact, and automate a process faster than any previous civilization. We are much worse at endings.
 
 The working thesis of *The Expiration Economy* is that this imbalance becomes economically decisive when creation gets cheap. Generative AI does not merely increase the supply of text, code, images, plans, agents, workflows, and decisions. It increases the stock of things that somebody must later inspect, maintain, secure, archive, migrate, retire, repeal, delete, decommission, forgive, transfer, or deliberately forget. The hidden cost of abundance is the burden of everything that remains alive after its usefulness has passed.
 
-This book follows the end-of-life problem across software, personal data, law, infrastructure, biology, ecology, memory, bankruptcy, markets, organizations, security standards, artificial intelligence, succession, reversibility, user exit rights, long-tail support, and the businesses that will emerge to make cleanup as scalable as creation. Its claim is not that everything should be disposable. Some things should last for centuries. The harder design question is whether a system knows the difference between what deserves preservation and what merely persists because nobody owns the work of ending it.
+This book follows the end-of-life problem across software, personal data, law, infrastructure, biology, ecology, memory, bankruptcy, markets, organizations, security standards, artificial intelligence, succession, reversibility, user exit rights, long-tail support, founder dependence, urban systems, autonomous authority, digital estates, and the businesses that will emerge to make cleanup as scalable as creation. Its claim is not that everything should be disposable. Some things should last for centuries. The harder design question is whether a system knows the difference between what deserves preservation and what merely persists because nobody owns the work of ending it.
 
 The economic inversion is simple: when starting becomes nearly free, stopping well becomes scarce.
 
@@ -46,6 +46,11 @@ The economic inversion is simple: when starting becomes nearly free, stopping we
 - [x] [Ch 23 — The Last Customer](manuscript/ch23-the-last-customer.md)
 - [x] [Ch 24 — The Business of Cleanup](manuscript/ch24-the-business-of-cleanup.md)
 - [x] [Ch 25 — Design the Exit](manuscript/ch25-design-the-exit.md)
+- [x] [Ch 26 — After the Founder](manuscript/ch26-after-the-founder.md)
+- [x] [Ch 27 — Cities Built to Come Apart](manuscript/ch27-cities-built-to-come-apart.md)
+- [x] [Ch 28 — The Company Died, the Agent Kept Working](manuscript/ch28-the-company-died-the-agent-kept-working.md)
+- [x] [Ch 29 — The Digital Estate](manuscript/ch29-the-digital-estate.md)
+- [x] [Ch 30 — A Civilization That Can Finish](manuscript/ch30-a-civilization-that-can-finish.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research trail
