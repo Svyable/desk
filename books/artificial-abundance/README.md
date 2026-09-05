@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 12 of 24 drafted |
+| **Chapters**  | 16 of 24 drafted |
 
 *When Intelligence Becomes Cheap, What Becomes Priceless?*
 
@@ -27,13 +27,13 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [x] [Ch 10 — Commodity Expertise](manuscript/ch10-commodity-expertise.md)
 - [x] [Ch 11 — Responsibility Does Not Scale](manuscript/ch11-responsibility-does-not-scale.md)
 - [x] [Ch 12 — The Judgment Bottleneck](manuscript/ch12-the-judgment-bottleneck.md)
+- [x] [Ch 13 — Attention Has Not Scaled](manuscript/ch13-attention-has-not-scaled.md)
+- [x] [Ch 14 — The Human Signal](manuscript/ch14-the-human-signal.md)
+- [x] [Ch 15 — Friction as a Feature](manuscript/ch15-friction-as-a-feature.md)
+- [x] [Ch 16 — The Status of Difficulty](manuscript/ch16-the-status-of-difficulty.md)
 
 ## Planned chapters
 
-13. Attention Has Not Scaled
-14. The Human Signal
-15. Friction as a Feature
-16. The Status of Difficulty
 17. Reality Gets Expensive
 18. The Physical Premium
 19. The Meaning Shortage
