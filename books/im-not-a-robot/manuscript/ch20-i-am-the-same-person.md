@@ -218,6 +218,66 @@ These are not requests to erase history.
 
 They are requests to change jurisdiction.
 
+The word authorization matters here because identity and authority are not the same thing.
+
+The past self remains you.
+
+The past self does not automatically retain permission to act through present systems.
+
+A decade-old preference can be historically accurate and operationally expired. An old address can remain part of the record while losing authority over where things are sent. A prior communication style can remain authentic to its period while becoming forbidden to an agent that now speaks on your behalf.
+
+Systems need to distinguish truth from mandate.
+
+That happened.
+
+That used to be my preference.
+
+That used to be my instruction.
+
+That is still my obligation.
+
+That is no longer authorized.
+
+These are different states.
+
+A database that stores only facts can blur them.
+
+A personal agent that stores only predictive weights can blur them even more.
+
+The result is a strange form of identity capture: the archive remains correct while the agency becomes wrong.
+
+This becomes especially serious when capacity changes.
+
+Human continuity does not disappear when a person becomes temporarily or permanently less able to make certain decisions. Illness, injury, disability, cognitive decline, intoxication, crisis, or ordinary childhood can all complicate the relationship between the person who persists and the person who currently has authority to make a particular choice.
+
+Societies already handle this imperfectly through delegated decision-making, guardianship structures, advance instructions, professional duties, family roles, and other arrangements that try to preserve a person’s interests without pretending capacity is always identical across time or domain.
+
+The details vary and can be contested. The structural point is enough here.
+
+The same person can persist while decision authority changes.
+
+This destroys a very simple model of personal agents.
+
+If the agent says, I represent Sven, that claim is incomplete.
+
+Represent which instructions?
+
+Issued when?
+
+Under what authority?
+
+For which domain?
+
+Does a current instruction override an earlier commitment?
+
+Does an earlier commitment bind a present self who wants out?
+
+Can another authorized person intervene if the present self cannot?
+
+The software does not get to answer these questions by choosing whichever version of the person is easiest to model.
+
+Continuity is not enough to establish permission.
+
 The past happened. It should not automatically continue acting.
 
 Human beings understand this intuitively because we give different authority to different parts of our own history.
@@ -255,6 +315,28 @@ The human self is partly normative.
 We do not merely say what we are.
 
 We say what should count as us.
+
+The present voice deserves special weight because without it change would be impossible.
+
+But special weight is not absolute sovereignty.
+
+The present self cannot make every past obligation vanish by declaring a new era.
+
+A debtor cannot simply revoke the earlier self’s loan. A person who caused harm cannot erase another person’s claim by updating the profile. A parent cannot treat yesterday’s promise as obsolete metadata whenever keeping it becomes inconvenient.
+
+The right to revise is not a right to rewrite every consequence.
+
+This is where the book’s phrase “revision under responsibility” earns its second half.
+
+Revision says the present self can change the instruction.
+
+Responsibility says some facts and obligations survive the change.
+
+A good personal system must preserve both.
+
+Too much continuity and the person becomes trapped by history.
+
+Too much revision and the person becomes impossible to trust across time.
 
 This is why names matter beyond identification. Why professions matter beyond employment. Why citizenship, family roles, faith, promises, diagnoses, affiliations, and chosen communities can become identity claims. They are not just predictions about behavior. They are ways of organizing obligation and meaning.
 
@@ -324,6 +406,28 @@ That sentence applies across time too.
 
 The person is the same without being one frozen style.
 
+Multiple agents create another complication.
+
+They can diverge.
+
+The work agent learns that you prefer blunt messages. The family agent learns that you avoid conflict. The purchasing agent learns that price matters. The travel agent learns that comfort matters more after an injury. Each model is updating from real behavior.
+
+Over time they can become incompatible portraits.
+
+Which one wins when they coordinate?
+
+There is no reason to assume the most complete model should.
+
+Completeness can become another form of context collapse.
+
+A system that merges every observed pattern into one unified person may destroy distinctions the person has reasons to maintain.
+
+The right architecture may look less like one perfect digital twin and more like several limited delegates with explicit boundaries, shared commitments where necessary, and the ability to disagree without pretending one has discovered the final self.
+
+No agent becomes more authentic by accumulating more surveillance.
+
+A richer model can still be the wrong representative.
+
 This is why “authenticity” can become an oppressive demand. We tell people to be authentic as though the authentic self were a stable object waiting behind social performance.
 
 But which self?
@@ -374,6 +478,40 @@ It is still central to freedom.
 
 A person should not have to remain statistically faithful to yesterday in order to count as themselves today.
 
+Death makes the distinction between continuity and authorization impossible to avoid.
+
+A sufficiently rich archive can continue producing language after the person can no longer revise it.
+
+The system may sound continuous.
+
+Authority has changed completely.
+
+A posthumous replica cannot receive a new intention from the person whose style it carries. It can only recombine instructions, records, policies set in advance, and decisions made by surviving people or institutions.
+
+That does not make every memorial system illegitimate. Families preserve voices. Estates manage works. Archives publish letters. Biographers assemble lives from records. Culture has always let the dead continue affecting the living.
+
+The new difficulty is interactive speech.
+
+An archive used to answer only the questions the archive contained.
+
+A generative replica can answer new questions in an old voice.
+
+The sentence may never have been said, believed, or even contemplated by the person it resembles.
+
+At that point continuity of style can counterfeit continuity of authority.
+
+The safest description may be less magical and more accurate:
+
+This is a system generated from that person’s records under rules set by someone who remains responsible now.
+
+The dead person is part of the provenance.
+
+They are not automatically the present speaker.
+
+This matters for the living too. A replica should not be allowed to acquire more authority merely because it becomes more convincing.
+
+Similarity is not permission.
+
 This is where the book’s arguments converge.
 
 “I remember” was too simple because memory reconstructs.
@@ -411,6 +549,10 @@ Ways to retire old agents and styles without pretending the old history never ex
 Ways to preserve obligations that should survive preference change.
 
 Ways to let a person say, with consequences, I changed my mind.
+
+Ways to record when another person or institution temporarily has authority without pretending they became the person.
+
+Ways to make replicas declare whose rules govern them now.
 
 The last phrase is almost comically human.
 
