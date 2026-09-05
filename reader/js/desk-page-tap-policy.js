@@ -57,7 +57,7 @@ function initialize() {
   document.documentElement.dataset.deskPageTapPolicy = 'true';
   installStyles();
   surface.addEventListener('click', onPageClick, true);
-  queueMicrotask(tuneHint);
+  window.setTimeout(tuneHint, 0);
 }
 
 if (typeof document !== 'undefined') {
