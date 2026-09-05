@@ -62,6 +62,10 @@ The first pass and the later pass then become different computational problems.
 
 On the first encounter, the machine lacks a stored route. It must search. Search costs movement because ignorance costs movement. Wrong turns are not merely failures; they are observations that reduce uncertainty about the maze.
 
+The cost is worth making concrete. At an unexplored junction, a machine that lacks a map cannot know which open corridor belongs to the successful route merely by wishing to be efficient. It has to commit to a branch, observe what follows, and sometimes pay to return. A dead end therefore costs more than the distance into it: the solver must also undo that distance before another alternative becomes available. The geometry turns missing knowledge into extra motion.
+
+Memory changes the accounting. Once the apparatus has marked an unsuccessful choice or retained the successful one, a later traversal need not purchase the same fact again. The saved movement is the practical value of the stored state.
+
 After the machine has learned the route, the problem changes. It no longer needs to rediscover every choice. Stored state substitutes for exploration.
 
 This is the same economy Shannon had been quantifying elsewhere in a different form.
