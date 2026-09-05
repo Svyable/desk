@@ -166,4 +166,22 @@ At that point the problem changes.
 
 You do not need to become the future self.
 
+The empty slot also carries option value. Before anything has been placed in it, every version of the future can still claim the space. The unwritten book can be elegant, commercial, difficult, beloved, private, brief, monumental, or all of those things in the imagination because none of them has yet had to compete with a sentence. The unstarted company can serve any customer. The unmade move can lead to any life. Possibility feels abundant partly because its alternatives have not yet been forced to exclude one another.
+
+That makes starting a peculiar transaction. You spend some possibility in order to buy information.
+
+This is why the first move can feel larger than its objective size. A one-page draft may take twenty minutes, but it kills thousands of imaginary first pages. Sending one application makes one career route more concrete and the others, for an evening at least, less central. Walking into one class turns a vague desire to learn into an encounter with a particular teacher, schedule, price, room, and level of difficulty. The mind experiences that narrowing as loss even when the information gained is useful.
+
+There is no reason to shame that response. Selection is a real cost. A person with limited money, care capacity, health, reputation, or time may have fewer affordable wrong turns than someone whose life contains more slack. The advice to begin everywhere is therefore as unserious as the advice to begin nowhere. An empty slot is not merely fear waiting to be conquered. Sometimes it is scarce capacity waiting to be allocated.
+
+The useful question is what kind of uncertainty the first move can retire. A good beginning does not have to prove that the project will work. It should make at least one important unknown less imaginary. Do I return to the work after the novelty has passed? Does the customer understand the offer without an explanation? Can my body tolerate the first modest load? Does the collaboration become clearer when an actual task exists? Does the supposed desire survive the calendar?
+
+This reframes courage. Courage is not always a dramatic commitment. Sometimes it is accepting a small, specific loss of fantasy in exchange for a more accurate map.
+
+The distinction matters because some starts are almost completely reversible while others are not. A private sketch, a sample lesson, a prototype, a conversation, a small deposit, or an afternoon of observation can generate evidence without demanding an identity oath. A surgery, a large loan, a public accusation, a resignation without savings, or a decision affecting a dependent can close doors that cannot simply be reopened. Treating all beginnings as morally equivalent confuses experimental contact with irreversible commitment.
+
+The empty slot therefore deserves design. The first mark should be large enough to encounter reality and small enough, where possible, to preserve room for revision. That balance is not timidity. It is a way of making the future more knowable without pretending that the future is cheap.
+
+A shelf is built one occupied space at a time, but an occupied space is not automatically an achievement. It is a record that something was chosen, touched, tested, or lived. The value arrives from what the record lets you see next. A beginning worth keeping is one that converts at least a little uncertainty into evidence you can use.
+
 You need to leave the first trace.

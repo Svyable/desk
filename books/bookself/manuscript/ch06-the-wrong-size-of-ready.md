@@ -194,4 +194,48 @@ Once that sentence becomes credible, the size of the start can increase without 
 
 The person has stopped trying to be ready for the whole future.
 
+The size of a first move can be judged by a simple principle: how much useful learning does it purchase for the amount of downside it creates?
+
+This is not a formula. The variables are too human for false precision. But the comparison is valuable because beginners often optimize for a different quantity: how much the first move resembles seriousness.
+
+A large lease looks serious. A public launch looks serious. A six-month training plan looks serious. Quitting a job looks serious. Buying the professional equipment looks serious. The visible size of the commitment becomes a proxy for the invisible size of the desire.
+
+That proxy can be expensive.
+
+If the main uncertainty is whether ten strangers want the service, a long lease does not answer it better than ten honest conversations and a small paid test. If the uncertainty is whether a person enjoys the work after the fantasy wears off, expensive equipment can actually distort the answer by creating pressure to justify the purchase. If the uncertainty is whether two people can collaborate, forming the permanent partnership before completing one bounded project turns a learning question into a governance problem.
+
+The wrong-size beginning bundles uncertainties that could have been separated.
+
+A well-sized start isolates one or two of them. Demand before scale. Technique before speed. Working relationship before ownership. Repeated interest before identity declaration. A month of actual use before a year of subscription. A small audience before a campaign. The sequence does not guarantee success; it makes failure more interpretable.
+
+There are limits. Some opportunities cannot be sampled in miniature. A person cannot half-move across a country in any meaningful sense. A pregnancy is not a reversible pilot. Certain businesses require meaningful fixed capital before the product exists. Some careers demand years of training before a novice can perform the real work. A political candidacy becomes public the moment it becomes real. Life contains cliffs, not only ramps.
+
+When the first meaningful action is necessarily large, the preparation should change shape. The goal becomes reducing uncertainty around the cliff: observe more closely, speak with people who have crossed it, model the financial downside, clarify obligations, build reserves, rehearse adjacent skills, negotiate exit paths where possible, and separate what is truly irreversible from what merely feels embarrassing to reverse.
+
+This is the difference between caution and paralysis. Paralysis asks for a riskless cliff. Caution asks which parts of the risk can be understood or buffered before the jump.
+
+Beginnings can also be too small. A person “works on the book” by changing the font. A company “tests demand” by asking friends whether the idea sounds interesting. A would-be teacher watches another course about teaching. The action is safe because it has been designed not to reach the uncertainty. Tiny steps become a form of insulation.
+
+The right-sized beginning therefore has two boundaries. It is small enough that a disappointing result does not produce disproportionate damage, and real enough that a disappointing result remains possible.
+
+That second condition is what distinguishes an experiment from a ritual.
+
+There is a further complication: the size that is right changes after evidence arrives. A first customer may justify a second. Ten may justify a process. A repeated practice may justify better equipment. A working collaboration may justify shared ownership. A month of training may justify entering an event. The mistake is treating the first-size rule as a permanent philosophy of smallness.
+
+Some people become attached to optionality. They design endless pilots because pilots protect them from the harder question of scale. Every experiment works just well enough to authorize another experiment, but never enough to trigger the larger commitment the experiments were supposedly investigating. The person becomes excellent at beginning without becoming willing to continue.
+
+Evidence should change the size of the bet.
+
+That requires pre-deciding what different results mean. What would justify doubling down? What would justify repeating at the same scale? What would require redesign? What would make stopping responsible? Without these thresholds, successful experiments can be interpreted conservatively forever and failed ones can be rationalized indefinitely.
+
+Organizations suffer from the same problem. Innovation programs can accumulate pilots that are institutionally safe because no core process depends on them. A pilot succeeds in its protected corner, receives applause, and then encounters the procurement rules, legacy systems, incentives, training needs, and political ownership that determine whether it can become ordinary. The experiment proved that the idea could work under pilot conditions. It did not prove that the organization could absorb it.
+
+Scale is a separate experiment.
+
+This is why “start small” needs a second sentence: enlarge when the evidence earns enlargement, and test the new risks that enlargement introduces. A restaurant pop-up can test demand but not a permanent rent burden. A prototype can test function but not mass production. A small team can test a process but not the coordination cost of a hundred people. Each size reveals a different world.
+
+The purpose of right-sizing is not to avoid commitment. It is to postpone commitments that do not yet buy information and accelerate commitments once the information makes their purpose clearer.
+
+A first move should not be impressive. It should be proportionate to what is known, what can be lost, and what needs to be learned next.
+
 They are ready for a question of the right size.

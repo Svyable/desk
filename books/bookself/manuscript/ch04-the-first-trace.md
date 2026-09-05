@@ -200,4 +200,28 @@ That is why beginnings deserve archives.
 
 Not because every start is historic.
 
+Not every trace is equally informative.
+
+A person can become very busy producing traces that prove only that they know how to look busy. A domain name is a trace, but it does not show demand. A new notebook is a trace, but it does not show a writing practice. An announcement is a trace, but it may reveal more about willingness to announce than willingness to continue. A logo, a syllabus, a training plan, a set of tools, a public declaration, and a beautifully organized folder can all be real objects while remaining weak measurements of the question that matters.
+
+The quality of a first trace depends on what it touches.
+
+If the uncertainty is whether a stranger understands the product, the trace must reach a stranger. If the uncertainty is whether the body tolerates movement, the trace must include movement at a responsible load. If the uncertainty is whether two collaborators can make decisions together, the trace must require a decision rather than another conversation about collaboration. If the uncertainty is whether a person wants to write, some words must exist long enough to be revised.
+
+This sounds severe until one notices how merciful it is. A well-designed trace can be small because it is aimed. It does not have to mimic the finished project. It needs to make contact with the relevant unknown.
+
+That idea also helps separate evidence from spectacle. Public beginnings often generate a powerful social trace: other people now know what you said you would do. That can create accountability, support, introductions, and useful pressure. It can also create a substitute reward. The announcement receives attention before the work has acquired enough structure to produce any. The identity is socially recognized ahead of the evidence that was supposed to support it.
+
+For some projects, the better first trace is deliberately boring. A timestamped paragraph. A customer who paid a small amount. A completed practice set. A calendar containing three sessions that actually occurred. A repaired object. A conversation that answered one uncomfortable question. Boring traces are often harder to perform for an audience and easier to learn from.
+
+There is an engineering principle hiding here: instrument the beginning. Decide before the first move what observation would change the next move. The observation can be qualitative. Did I want to return? Where did the process stall? What surprised the other person? Which assumption turned out to be wrong? What resource vanished faster than expected? The purpose is not to turn a life into a dashboard. It is to prevent the first act from disappearing into a vague emotional verdict.
+
+A trace can also disconfirm. This is essential. If every possible outcome will be interpreted as proof that the project deserves continuation, the beginning is not an experiment. It is a ceremony. A useful first trace creates at least one imaginable result that would make you shrink, redesign, postpone, seek training, change partners, or stop.
+
+The right to stop is part of what makes a trace informative. Evidence has little value if the conclusion has been decided in advance.
+
+Over time, traces form a chain. The first is rarely impressive. The significance comes from sequence: draft, response, revision; lesson, practice, correction; application, interview, rejection, changed application; prototype, failure, redesigned prototype. The chain lets a person see not only whether they acted but whether action altered understanding.
+
+This is how a first trace becomes more than proof of motion. It becomes the first object in a record of learning.
+
 Because every self-story becomes tempted to pretend the first page already knew the ending.

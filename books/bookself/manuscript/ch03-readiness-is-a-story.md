@@ -184,4 +184,36 @@ Ask what new evidence you expect another week of preparation to produce.
 
 If the answer is specific, prepare.
 
+There is, however, a dangerous way to misuse the argument against readiness: to pretend preparation never matters.
+
+Some doors should not be crossed casually. A pilot, surgeon, electrician, parent, fiduciary, climber, or person handling another human being's safety cannot replace competence with enthusiasm. There are domains in which the first unsupervised attempt should come after training, simulation, observation, certification, or repeated practice. “You learn by doing” is true in these settings only if doing includes the protected environments in which errors can be absorbed without transferring unacceptable risk to someone else.
+
+The question is therefore not whether to prepare. It is what preparation can actually know.
+
+Before contact, preparation can teach procedures, vocabulary, constraints, common failure modes, tool use, legal duties, and the shape of a field. It can build baseline capacity. It can reduce avoidable harm. But there remains a class of information that preparation cannot manufacture: how this person, in this environment, with this body, attention span, team, market, schedule, and set of obligations will respond once the activity is real.
+
+Readiness stories become costly when they demand that the second category be settled by the first.
+
+A person reads another book because reading can still feel like progress toward a certainty that only writing will produce. A prospective founder keeps refining the market map because the map cannot answer how strangers react to the offer. A manager waits to feel authoritative before having the first difficult conversation, although authority may partly emerge from surviving difficult conversations with honesty. The preparation is not useless. It has simply crossed the line from reducing known risk to postponing unknown experience.
+
+One way to detect the crossing is to ask what new information the next unit of preparation is expected to create. If another week of study changes the safety profile, improves a prerequisite skill, or exposes a known blind spot, the week may be cheap. If it mainly postpones the moment when an external response becomes possible, the week is buying emotional shelter rather than operational readiness.
+
+That shelter has a benefit. It protects the imagined self from disconfirmation. As long as the restaurant is still a plan, the planner can be a brilliant restaurateur in private. As long as the manuscript remains notes, the writer can be the author of the excellent book that has not yet encountered a paragraph. The readiness story preserves a flattering counterfactual: I would be good at this if I chose to begin.
+
+The price is that counterfactual identities cannot compound. They do not acquire customers, muscle memory, collaborators, revisions, scars, references, or the specific knowledge that comes from a mistake with a name. They remain unchallenged because they remain unmeasured.
+
+Readiness also has a social dimension. Some people receive permission to begin while visibly unfinished. Others learn that they will be judged more harshly for the same beginner errors. That can make extra preparation rational rather than neurotic. A person entering a field where they are isolated or stereotyped may choose to arrive overprepared because the cost of being treated as representative of a group is not imaginary. Advice that calls this perfectionism can erase the asymmetry that produced it.
+
+A humane theory of beginning therefore distinguishes internal readiness theater from external consequence. It asks what the hesitation is protecting. Is it protecting a patient, a child, a livelihood, a legal obligation, a scarce pool of savings? Or is it protecting the story that I might be excellent from the evidence that I am currently new?
+
+Those protections deserve different respect.
+
+There is another clue. Real preparation tends to become more concrete as it proceeds. The learner can say what remains unknown, which standard has not yet been met, which rehearsal still fails, or which resource is missing. Readiness theater becomes more atmospheric. I need to know more. I need to feel certain. I need a better time. I need the plan to be clearer. The finish line recedes because it was never defined.
+
+For consequential beginnings, define the gate. Name the competence, resource, consent, supervision, or safety condition that must exist first. Then, once those conditions are met, stop asking preparation to deliver the emotional experience of having already succeeded.
+
+Nobody can become experienced in advance.
+
+The adult version of readiness is not certainty. It is enough preparation to make the next contact responsible, plus enough humility to let the contact change the plan.
+
 If the answer is only “I hope I feel more ready,” you may already know where the next evidence lives.

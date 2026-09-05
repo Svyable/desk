@@ -190,4 +190,36 @@ You do the action more often. Because you do it more often, there is more eviden
 
 One day “I am trying to write” becomes “I write in the mornings.”
 
+Friction is often discussed as though all resistance were a defect. That is too simple.
+
+Some friction is protection. A medication bottle that resists a child's hand, a review before money moves, a checklist before a dangerous procedure, a cooling-off period before an irreversible decision, or a second person required to authorize a consequential change can make action slower because speed is not the only value. The purpose of these barriers is to force attention, consent, redundancy, or competence into the path.
+
+Other friction is inheritance. The form asks for information the institution already has. The meeting exists because nobody trusts the database. A new employee needs permission from a person who left six months ago. A citizen must learn which office owns a problem that the institution itself cannot route cleanly. A beginning fails not because the desire was weak but because the path contains accumulated administrative sediment.
+
+The distinction matters. “Reduce friction” is bad advice if it removes safeguards and timid advice if it leaves pointless burden untouched.
+
+A better question is what the friction is buying.
+
+If a delay buys safety, informed consent, error detection, fairness, or a necessary transfer of knowledge, the design problem is to preserve the benefit while making the cost legible. If the delay buys nothing except organizational habit, status protection, or the convenience of the system, the burden should not be moralized as a test of commitment.
+
+Friction is also unevenly distributed. Ten minutes is not ten minutes in every life. A form that requires a printer is trivial to someone with an office and expensive to someone using a phone on a bus. A class at six in the evening is convenient to one person and impossible to another because care work begins at five-thirty. A $200 refundable deposit is a nuisance to one household and a hard exclusion to another. A networking event that assumes comfort with a dominant language, dress code, or social script makes some beginners spend attention merely decoding the room.
+
+The visible procedure can therefore be identical while the effective threshold is radically different.
+
+This is one reason motivation is such a poor universal explanation for who begins. Systems frequently observe the people who crossed their threshold and infer desire from the survivors. The people who could not afford the threshold become invisible, and the institution congratulates itself on selecting the most committed.
+
+Personal beginnings contain the same mistake. A person builds a plan around the best version of Tuesday rather than the ordinary one. The shoes are stored where they require three extra decisions. The writing file lives behind a forgotten password. The healthy meal assumes ingredients that are never in the house. The project depends on an uninterrupted two-hour block in a life that reliably produces twenty-minute pieces. Each obstacle looks small in isolation. In sequence, they become a tax collected at the exact moment motivation is weakest.
+
+Friction compounds because every threshold is another opportunity for deferral. Locate the file. Remember the password. Find the notes. Clear the desk. Decide where to begin. Recover the context. Notice a message. Answer it. The work has not become harder; access to the work has become a miniature obstacle course.
+
+Designing the threshold means moving some decisions upstream. Leave the instrument ready. End a session with the next action named. Put the recurring block on the calendar before the week becomes crowded. Precommit modest resources. Make the needed material visible. Create a restart note. Ask one person to expect an artifact rather than a promise. The goal is not to remove discipline. It is to spend discipline on the work instead of repeatedly spending it on admission to the work.
+
+Institutions can do the same. Good onboarding does not merely explain the organization; it shortens the distance between arrival and a legitimate first contribution. Good public service design does not require citizens to understand the bureaucracy's internal chart. Good apprenticeship makes the first safe task obvious. Good software makes the next meaningful action more visible than the machinery behind it.
+
+There is a temptation to interpret smoothness as seriousness. Important work should feel hard, so perhaps the difficult entrance is appropriate. But difficulty belongs in the substance. A violin should be difficult because music is difficult, not because the case requires six keys and the practice room can only be booked by fax. Medicine should be difficult because diagnosis and treatment demand expertise, not because the learner cannot discover which supervisor is permitted to sign the form.
+
+Protect useful friction. Remove ceremonial friction. Compensate for friction that cannot be removed. And notice who is paying it.
+
+The threshold is part of the opportunity. If a system repeatedly tells certain people that they lacked the will to begin, inspect the door before inspecting their character.
+
 The sentence changes after the path does.

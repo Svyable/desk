@@ -170,4 +170,22 @@ Then you choose what new observation is worth purchasing.
 
 The self before the evidence is not a fraud waiting to be exposed.
 
+The difficulty is that identity evidence is not collected in a neutral laboratory. Other people have already written in the margins.
+
+A child is told she is not mathematical. A new manager inherits the reputation of being too quiet. A worker who has spent ten years in one function discovers that colleagues treat the old title as a forecast of every future competence. A person who once failed publicly finds that the failure remains more socially available than the dozens of ordinary things done well afterward. Before the next attempt begins, the self has already been described by family, institutions, markets, credentials, stereotypes, old evaluations, and previous versions of the person.
+
+Some of those descriptions contain useful information. Others are stale. Some were produced under conditions that no longer exist. Some reflect another person's incentives more than the subject's capacity. The problem is that identity forecasts rarely arrive with expiration dates.
+
+A new attempt can function as a recalibration device, but only if the evidence is interpreted with care. One good day does not prove a permanent trait. One difficult day does not disprove one. The first class may be unusually energizing. The first customer may be unusually generous. The first run may occur in perfect weather. Evidence is strongest when it survives repetition, variation, and contact with the parts of the activity that are not flattering.
+
+This makes self-knowledge less like revelation and more like model maintenance. The model says, I am bad at public speaking. A small speech produces observations. Perhaps the fear was real but the delivery was adequate. Perhaps preparation mattered more than charisma. Perhaps the person dislikes keynote performance but enjoys teaching a room of twenty. The old identity sentence was too coarse. Action does not necessarily reverse it; action can make it more specific.
+
+Specificity is one of the great gifts of beginning. “I am not a business person” can become “I dislike selling vague promises but enjoy solving a concrete customer's problem.” “I am not athletic” can become “I dislike competitive team sports and respond well to long walks with measurable progression.” “I cannot write” can become “I stall when I try to sound finished before I know what I think.” The new sentence may still contain limits. It is simply less lazy.
+
+There is also a politics to which evidence gets believed. A powerful person's first experiment may be called range; a less powerful person's may be called lack of focus. One employee is allowed to learn in public while another is expected to arrive already polished. A mistake can be treated as data for someone with status and as a verdict for someone without it. The production of identity evidence is therefore not enough. People also need environments in which updated evidence can count.
+
+That is why a bookself cannot be only a private motivational metaphor. Shelves are social. Credentials, references, portfolios, demonstrations, probation periods, auditions, apprenticeships, and trial projects are all institutions for deciding whether new evidence about a person will be admitted into the public record. When those institutions are absent, a person can change while the surrounding system continues to address an earlier edition.
+
+The self before the evidence is not empty. It is overfilled with forecasts of uneven quality. Beginning gives those forecasts competition. The point is not to manufacture any identity you please. It is to stop treating an old prediction as the last available measurement.
+
 It is a question waiting for a better sample.
