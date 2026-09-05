@@ -22,37 +22,31 @@ The same automation that clears a backlog can scale an error.
 
 The same model that helps a public servant understand a case can become a barrier between a citizen and the person legally responsible for deciding it.
 
-Speed is valuable in government because waiting can be cruel.
+But the argument cannot stop there, because slowness can be coercive too.
 
-A delayed disability benefit is not an abstract inefficiency.
+A disability benefit delayed for months can be functionally denied.
 
-A delayed permit can destroy a small business.
+A permit trapped in an indefinite queue can kill a small business without anyone formally rejecting it.
 
-A delayed court date can keep a person in uncertainty.
+A court date postponed repeatedly can keep a person in uncertainty that has real economic and psychological cost.
 
-A delayed tax refund can matter to a household living close to the edge.
+A tax refund delayed can matter to a household living close to the edge.
 
-A delayed infrastructure approval can hold up housing, energy, transport, or industry.
+A housing approval that takes years can constrain supply as effectively as a direct prohibition.
 
-The state has real queues.
+Government failure is not only the wrongful exercise of power.
 
-Machine intelligence can help reduce them.
+It is also the failure to exercise legitimate power competently.
 
-The evidence says governments are already trying.
+That is the first reason machine intelligence belongs inside the state.
 
-The OECD's 2026 Digital Government Outlook reports that AI is used in at least one area of government in 35 of 36 surveyed OECD countries.
+The OECD's 2026 Digital Government Outlook reports that AI is used in at least one area of government in almost every surveyed OECD country. Use is strongest in internal processes and public services and remains more limited in policymaking and oversight, where the stakes, data requirements, and legitimacy questions are harder.
 
-Use is strongest in internal processes and public services.
-
-It remains more limited in policymaking and oversight, where the stakes and demands for data quality, transparency, and assurance are higher.
-
-That pattern makes sense.
-
-Start where the action is easier to reverse.
-
-Translate documents.
+The pattern is sensible.
 
 Search records.
+
+Translate documents.
 
 Summarize case files.
 
@@ -62,31 +56,19 @@ Draft routine correspondence.
 
 Help staff find policy.
 
+Reduce clerical burden.
+
 Improve internal knowledge management.
 
-Assist with service delivery.
+Government can gain capacity before giving machines anything that resembles sovereign discretion.
 
-The state can gain capacity before giving machines sovereign authority.
+The United States Government Accountability Office found similar acceleration across selected federal agencies. Reported AI use cases rose sharply between 2023 and 2024, including a large increase in generative-AI applications. The same work documented familiar constraints: policy compliance, privacy, acquisition, expertise, and governance.
 
-The United States Government Accountability Office found a similar acceleration in federal agencies.
+The evidence is not that government has become autonomous.
 
-Across the 11 selected agencies with AI inventories it reviewed, reported AI use cases increased from 571 in 2023 to 1,110 in 2024.
+It is that machine cognition is moving into public administration.
 
-Reported generative-AI use cases rose from 32 to 282.
-
-That is rapid growth from a small base.
-
-It is not evidence that the federal government has automated itself.
-
-The same GAO work documents obstacles around policy compliance, privacy, expertise, acquisition, and the difficulty of governing a technology that changes quickly.
-
-The important fact is not that government is about to become autonomous.
-
-It is that machine cognition is moving inside public administration.
-
-That changes the state's production function.
-
-Government is unusually information-heavy.
+That matters because the modern state is unusually information heavy.
 
 Applications.
 
@@ -118,35 +100,31 @@ Benefits determinations.
 
 Correspondence.
 
-Much of the modern state is people processing symbolic representations of reality in order to determine what the institution should do.
+A large part of government is people processing symbolic representations of reality in order to decide what the institution should do.
 
-That makes public administration highly exposed to systems that can process language and structured data.
+Systems that can process language and structured data therefore arrive at a natural point of leverage.
 
-But government information processing differs from private information processing in one essential way.
+The difference from private information processing is that the citizen often cannot walk away.
 
-The citizen often cannot walk away.
+If a shopping recommendation is poor, a user can often choose another store.
 
-If a recommendation engine on a shopping site is poor, the user can often choose another store.
+If a benefits system is poor, an applicant may have no substitute.
 
-If a benefits system is poor, the applicant may have no substitute.
+If immigration administration is poor, the person cannot choose another sovereign with jurisdiction over the case.
 
-If an immigration system is poor, the person cannot choose another sovereign.
+If a court administration system is poor, the defendant cannot opt out.
 
-If a court administration system is poor, the defendant cannot opt out of jurisdiction.
+Monopoly power changes the acceptable architecture of error.
 
-Monopoly power changes the acceptable error rate.
-
-This is why due process matters.
-
-Due process is partly a technology for slowing state power down.
+This is where due process enters.
 
 Notice.
 
 Reasons.
 
-A hearing.
-
 Evidence.
+
+A hearing.
 
 An opportunity to respond.
 
@@ -154,101 +132,111 @@ An appeal.
 
 A record.
 
-Review by a different authority.
+Review by another authority.
 
-These steps can look inefficient from the perspective of throughput.
+These procedures can look inefficient from the perspective of throughput because they often are inefficient at throughput.
 
-They exist because government decisions can be difficult to escape and difficult to reverse.
+They optimize for something else.
+
+Legitimacy.
+
+Contestability.
+
+Protection against arbitrary power.
+
+The ability to correct a mistake before or after it becomes consequential.
 
 A machine-speed state that treats due process as latency to eliminate can become efficiently unjust.
 
-This is the danger of importing private-sector optimization language into public authority without translation.
+That warning is necessary.
 
-A company may optimize conversion.
+It is not sufficient.
 
-A government cannot simply optimize compliance.
+Human discretion is not automatically due process.
 
-A platform may optimize engagement.
+A citizen can wait three hours to see a human and still be treated arbitrarily. Two officials can apply the same rule differently. A caseworker can be exhausted. A local office can develop informal practices that diverge from law. Bias can enter through judgment long before a model appears. A person with better social fluency, more time, a lawyer, or confidence navigating bureaucracy can receive a better outcome from a supposedly human system.
 
-A government cannot simply optimize obedience.
+Automation can sometimes reduce those inequities.
 
-A delivery network may minimize handling time.
+A well-designed system can apply an explicit rule consistently.
 
-A justice system cannot minimize hearing time without asking what the hearing is for.
+It can detect that similar cases are being treated differently.
 
-The objective function is political and legal.
+It can surface missing evidence before a denial.
 
-The state exists under constraints intentionally created by law.
+It can provide translation continuously.
 
-Those constraints are not bugs in the operating system.
+It can create a record of why a decision happened.
 
-They are part of the operating system.
+It can make an appeal easier to file.
 
-This creates a productive design principle.
+It can give a public servant more time for the cases that genuinely require judgment.
 
-Automate preparation before judgment.
+The choice is not humane humans versus inhumane machines.
 
-Automate searching before deciding.
+The real comparison is between institutional architectures.
 
-Automate routine routing before coercive action.
+A badly designed human bureaucracy can be opaque, inconsistent, slow, and inaccessible.
 
-Use machine speed to increase the quality of the record a human sees.
+A badly designed automated bureaucracy can be opaque, consistent in the wrong way, fast, and impossible to escape.
 
-Use it to find inconsistent treatment.
+A well-designed public system has to take the best properties of both.
 
-Use it to surface missing documents.
+This is why the relevant distinctions are not simply human and machine.
 
-Use it to explain complex requirements in plain language.
+They are discretion and rule.
 
-Use it to translate.
+Consequence and convenience.
 
-Use it to reduce clerical burden.
+Reversibility and irreversibility.
 
-Then be more careful as the system approaches a decision that changes a person's rights, money, liberty, or legal status.
+Contestability and opacity.
 
-That is not a universal rule.
+A traditional eligibility system can apply a formula defined in law. Software has done that for decades. A predictive model can infer risk from patterns that are not written directly into the statute.
 
-Some low-stakes public decisions can be fully automated.
+Both can be wrong.
 
-A calculation defined by law may be deterministic enough that software has long performed it.
+The errors differ.
 
-The relevant distinction is not human versus machine.
+The rule-based system may be easier to map back to law.
 
-It is discretion versus rule, consequence versus convenience, reversibility versus irreversibility, and contestability versus opacity.
+The learned system may capture useful complexity the explicit rule misses.
 
-Machine learning becomes more difficult to govern when the rule itself is learned from data rather than fully specified in advance.
+Government has to decide when that extra predictive power justifies the loss of interpretability or the risk of inference from patterns that should not legally matter.
 
-A traditional eligibility system can apply an explicit formula.
+That is not an engineering decision alone.
 
-A predictive model can infer risk from patterns.
+It is a constitutional question in miniature.
 
-The first can still be wrong because the data are wrong or the code is wrong.
+What may the state take into account?
 
-But the reason for the decision may be easier to map to the rule.
+Which facts are relevant?
 
-The second can produce a score whose relationship to public law is harder to explain.
+Which correlations are forbidden?
 
-That matters because a state owes reasons in ways a private recommender often does not.
+What explanation does the citizen deserve?
 
-Explanation is therefore not a decorative feature of public AI.
+What evidence is enough before the state acts?
 
-It can be part of legitimacy.
+These questions existed before AI.
+
+AI makes them harder to avoid because it can discover predictive relationships faster than law can decide whether they are legitimate.
+
+A state owes reasons in ways a private recommender often does not.
 
 A citizen who loses a benefit needs to know what fact or rule caused the loss.
 
 A business denied a permit needs a path to correction.
 
-A traveler flagged by a system needs safeguards against mistaken identity.
+A traveler misidentified by a system needs safeguards against that error hardening into status.
 
-A taxpayer challenged by an automated process needs a way to establish that the underlying data are wrong.
+A taxpayer challenged by automation needs a way to show that the underlying data are wrong.
 
 An appeal cannot function if nobody can reconstruct the decision.
 
-This is one reason audit logs matter.
+This is one reason the machine-speed state should produce a richer administrative record rather than a thinner one.
 
-The machine-speed state should produce a richer administrative record, not a thinner one.
-
-Which model contributed?
+Which system contributed?
 
 Which data were used?
 
@@ -256,89 +244,73 @@ Which policy version applied?
 
 Was the output advisory or determinative?
 
-Which human accepted or changed it?
+Which person accepted, rejected, or changed it?
 
-What confidence or uncertainty was present?
+What uncertainty was known?
 
 What recourse was offered?
 
-The machine economy's identity and provenance problem reappears as public law.
-
 Traceability is how delegated cognition becomes reviewable.
 
-Yet traceability alone does not solve fairness.
+But traceability is not justice.
 
-A perfectly logged system can consistently apply a bad policy.
+A perfectly logged system can apply a bad policy.
 
 An explainable model can encode an unjust objective.
 
-A transparent algorithm can still use biased data.
+A transparent algorithm can use legally irrelevant variables.
 
 The state cannot outsource normative choices to technical clarity.
 
-That is the central political risk of machine intelligence in government.
+This is the central political risk of machine intelligence in government.
 
-A system can make a disputed policy look like a neutral prediction.
+A disputed policy can begin to look like a neutral prediction.
 
 What counts as fraud risk?
 
 Which neighborhood receives inspection?
 
-Whose application receives extra scrutiny?
+Which application gets extra scrutiny?
 
 Which public resource is allocated first?
 
-What level of error is acceptable?
+What false-positive rate is acceptable?
 
-Which false positive is worse than which false negative?
+Who bears the cost of a false negative?
 
-Those are not purely statistical questions.
+Those are distributional choices.
 
-They distribute burdens among people.
-
-The model can calculate a tradeoff.
+A model can quantify the tradeoff.
 
 It cannot make the tradeoff democratically legitimate by calculation alone.
 
-The more capable the system becomes, the easier it may be for officials to hide politics inside engineering.
+"According to the model" is not an explanation of authority.
 
-“According to the model” can become a modern version of “the computer says no.”
-
-That phrase is dangerous because it dissolves responsibility.
-
-The model did not acquire sovereign authority by itself.
-
-Someone selected it.
+Someone selected the system.
 
 Someone procured it.
 
 Someone chose the data.
 
-Someone decided which threshold mattered.
+Someone defined the objective.
 
-Someone wrote or interpreted the policy.
+Someone chose the threshold.
 
 Someone gave the system access to the workflow.
 
-Public responsibility should remain attached to those choices.
+Responsibility should remain attached to those decisions.
 
 This is where procurement becomes constitutional in the small-c sense.
 
-A government that buys an AI system is not merely purchasing software.
+A government buying an AI system may be purchasing part of its decision architecture.
 
-It can be purchasing a decision architecture.
+GAO's 2026 work on federal AI acquisitions found agencies struggling with access to technical expertise and with understanding AI-related costs. That is not merely a procurement inconvenience.
 
-GAO's 2026 work on federal AI acquisitions found agencies struggling with access to technical expertise and with understanding AI-related costs.
+It is a sovereignty problem.
 
-That is a capacity problem.
+A state that cannot evaluate what it buys can become dependent on the supplier for the meaning of its own administration.
 
-If the public sector cannot evaluate what it buys, private vendors can shape public administration through contract terms, proprietary systems, and technical defaults.
-
-The state becomes dependent on an intelligence supply chain it does not fully understand.
-
-This is not automatically bad.
-
-Governments have always bought complex technology from private firms.
+Governments have always purchased complex technology from private firms.
 
 Aircraft.
 
@@ -350,113 +322,173 @@ Medical equipment.
 
 Cloud services.
 
-The question is whether the state retains enough capability to govern the supplier.
+The issue is not public versus private production.
+
+The issue is whether the state retains enough capability to govern the supplier.
 
 Can it audit performance?
 
-Can it move providers?
+Can it change providers?
 
-Can it preserve records?
+Can it preserve records when a contract ends?
+
+Can it understand total cost?
 
 Can it require security?
 
-Can it understand costs?
+Can it prevent one vendor's proprietary structure from becoming the de facto structure of public law?
 
-Can it prevent vendor lock-in around a core public function?
+Can it continue service if the provider changes terms?
 
-Can it keep sensitive data under appropriate control?
+Can it protect sensitive data?
 
-Can it maintain service if the vendor changes direction?
-
-Sovereignty increasingly includes technical competence.
+Technical competence becomes part of public capacity.
 
 That does not mean every government needs to train a frontier model.
 
 It means government cannot govern a system it is structurally incapable of interrogating.
 
-The OECD's 2026 assessment makes the capacity gap visible internationally.
+This creates a paradox.
 
-Nearly all surveyed countries have strategies for AI in government and most have an institution responsible for public-sector AI governance.
+AI can make the state more capable while also making it more dependent.
 
-But practical conditions for scaling remain uneven.
+A small agency can suddenly perform analysis it could not afford before.
 
-Data governance.
+The same agency may become reliant on an external model, cloud provider, identity layer, or integration vendor.
 
-Infrastructure.
+Capability rises.
 
-Skills.
+Control may fall.
 
-Procurement.
+The correct policy response is not autarky.
 
-Organizational capacity.
+It is optionality.
 
-Impact measurement.
+Interoperable interfaces.
 
-The existence of an AI strategy is not the existence of an AI state.
+Portable records.
 
-Policy is easier to publish than capability is to build.
+Clear exit terms.
 
-This mirrors the private sector.
+Independent evaluation.
 
-Buying access is not redesign.
+Multiple suppliers where the function is critical.
 
-The state has an additional problem: fragmented authority.
+Enough internal expertise to know when the vendor is wrong.
 
-A national government may contain thousands of agencies, offices, local jurisdictions, contractors, legacy systems, and legal regimes.
+This is the public version of the class divide from the previous chapter.
 
-One department can modernize while another runs software written decades earlier.
+Access is not sovereignty.
 
-A city can deploy a new service while a court relies on paper.
+The machine-speed state has another temptation: surveillance.
 
-A benefits agency can use machine assistance while the data it needs sit in incompatible systems.
+Governments already possess powers and datasets private organizations do not. Machine learning can make administrative records more searchable and inferentially useful. That can improve fraud detection, tax administration, public health, infrastructure planning, and security.
 
-The public sector is not one firm.
+It can also reduce the cost of population monitoring.
 
-It is a federation of institutions accumulated over time.
+The technical ability to connect records does not establish the legitimacy of connecting them.
 
-That makes machine-speed transformation patchy.
+Privacy is not merely a data-security problem.
 
-The patchiness can be good.
+It is a limit on institutional knowledge.
 
-It creates experimentation.
+GAO's 2026 review of federal AI privacy guidance found important gaps and resource constraints. The concern becomes larger as models can infer sensitive facts that were never written explicitly into one field.
 
-It creates local brakes.
+A government can know more without collecting a new database.
 
-A failed pilot does not automatically become national policy.
+It can derive more from the databases it already has.
 
-But it also creates inequality.
+That changes the meaning of data minimization.
 
-Citizens can experience different administrative capacity depending on where they live.
+The machine-speed state can know more quickly.
 
-One jurisdiction answers quickly.
+It should not automatically know more things.
 
-Another has a six-month backlog.
+Yet privacy also has a countercase.
 
-One offers multilingual assistance.
+Data separation can protect citizens.
 
-Another does not.
+It can also force them to prove the same fact repeatedly to different agencies.
 
-One can audit its systems.
+A person can spend weeks carrying information from one arm of government to another because the state refuses or is unable to connect its own records.
 
-Another buys a black box.
+That can be humiliating and exclusionary.
 
-State capacity becomes a geographic variable.
+The answer is not maximum integration or maximum separation.
 
-This will matter as AI raises expectations.
+It is purpose-bound integration.
 
-If people receive immediate service from private systems, waiting weeks for a government response feels increasingly intolerable.
+Use data for a defined public function.
 
-The reference point changes.
+Make the use legible.
 
-Citizens may reasonably expect the public sector to use available tools to reduce unnecessary friction.
+Limit reuse.
 
-The danger is that political pressure for speed can outrun governance.
+Log access.
 
-The right comparison is not “government should work like a startup.”
+Give citizens correction rights.
 
-The right question is which delays protect rights and which delays merely reflect obsolete process.
+Delete or segregate information when the purpose ends.
 
-Those categories should be separated aggressively.
+The design problem is to gain the capacity benefits of connected government without turning the citizen into a permanently queryable subject.
+
+The same tension appears in predictive systems.
+
+Prediction can shift intervention earlier in time.
+
+A risk score can identify a case that deserves attention.
+
+It can also make probability feel like proof.
+
+A person can be treated as if a predicted event already occurred.
+
+Law has to preserve the difference between prediction and evidence.
+
+A model can estimate.
+
+The state still needs a lawful basis to act.
+
+This is especially important because machine systems can produce confidence faster than institutions can produce understanding.
+
+The interface may present a clean score.
+
+Reality remains messy.
+
+One of the strongest arguments for automation in government is consistency.
+
+One of the strongest arguments against it is consistency.
+
+A human bureaucracy can be arbitrary because people vary.
+
+An automated bureaucracy can make one interpretation universal.
+
+The first creates unequal treatment.
+
+The second can make a single mistake impossible to escape.
+
+This is why the machine-speed state needs variation in the right place.
+
+Consistent rules.
+
+Consistent records.
+
+Consistent access.
+
+Consistent notice.
+
+But independent review.
+
+Real appeal.
+
+Authority to make an exception where law permits it.
+
+The right to correct the underlying facts.
+
+A system becomes dangerous when its consistency extends beyond the legitimacy of the rule it is applying.
+
+This also means due process cannot become a fetish for delay.
+
+Procedure is valuable when it gives a person a meaningful chance to affect the outcome.
 
 A form that asks for information the government already possesses is not due process.
 
@@ -466,161 +498,113 @@ Manual re-entry between incompatible systems is not constitutional government.
 
 A person calling the same office five times because nobody can find the record is not a safeguard.
 
-Machine intelligence can remove this friction without threatening liberty.
+A hearing scheduled after the harm is irreversible may be formally available and practically useless.
 
-Doing so can strengthen legitimacy.
+The state should remove obsolete friction aggressively.
 
-People judge institutions partly by whether they work.
+Doing so can strengthen rights by making them usable.
 
-Competence is political capital.
+Appeal is not real if the queue is six months.
 
-But competence without contestability can become technocracy.
+Notice is not useful if it arrives after the deadline.
 
-A system that delivers benefits quickly while making errors impossible to appeal is not necessarily better government.
+A legal entitlement is not meaningful if only people with lawyers can navigate the process.
 
-The state needs both capacity and recourse.
+Machine intelligence can make public rights more practical by reducing the administrative cost of exercising them.
 
-This is an unusual dual requirement.
+That is the strongest pro-automation case in the chapter.
 
-Private automation often tries to make the happy path frictionless.
+The best machine-speed state may not be the one that decides fastest.
 
-Public automation has to design the unhappy path just as carefully.
+It may be the one that makes lawful action and lawful challenge both cheaper.
 
-What happens when the model is wrong?
+This requires an exception path designed as carefully as the happy path.
 
 What happens when the data are missing?
 
-What happens when the citizen cannot use the digital interface?
-
-What happens when a person does not speak the dominant language?
+What happens when a person cannot use the digital interface?
 
 What happens when the case does not fit the categories?
 
-What happens when someone needs a human being?
+What happens when the citizen needs a human?
 
-The quality of the exception path may define the justice of the system.
+What happens when the model and the statute appear to disagree?
 
-This becomes more important as automation removes routine work.
+What happens when urgency means the ordinary appeal arrives too late?
 
-The remaining public servant may face a caseload composed disproportionately of difficult cases.
+As automation removes routine work, public servants may inherit a caseload disproportionately composed of difficult exceptions.
 
-That is the same exception-layer problem the firm faces, but with higher stakes.
+That is not a reason to eliminate the human layer.
 
-The worker needs more authority, training, and time, not less.
+It is a reason to fund it honestly.
 
-A machine-speed front end can create a human bottleneck at the moment of appeal.
+The residual worker needs more authority, training, and time.
 
-If the institution does not fund that layer, formal rights become queues.
+A machine-speed front end can create a human bottleneck at the moment of recourse.
 
-There is also a surveillance temptation.
+If the institution does not staff that layer, formal rights become queues.
 
-The state possesses powers and data that private organizations do not.
+This is the public-sector version of ceremonial oversight.
 
-AI can make large administrative datasets more searchable and inferentially useful.
+Government has another role the firm does not.
 
-That can improve fraud detection, tax administration, public health, infrastructure planning, and security.
+It uses AI and governs AI at the same time.
 
-It can also make population monitoring cheaper.
+Those roles can conflict.
 
-The technical ability to connect records does not settle whether the records should be connected.
+The state can demand transparency from private systems while relying on opaque systems itself.
 
-Privacy is not merely an engineering constraint.
+It can restrict private surveillance while expanding public surveillance.
 
-It is a limit on institutional knowledge.
+It can require companies to manage bias while invoking urgency for its own deployments.
 
-GAO's 2026 review of federal AI privacy guidance found important gaps and noted that agencies do not always have the tools and resources needed to protect privacy while using AI.
-
-The concern becomes larger as models can infer sensitive facts not explicitly stored in one field.
-
-Data minimization and purpose limitation therefore become more important, not less.
-
-The machine-speed state can know more quickly.
-
-It should not automatically know more things.
-
-Democratic government depends on bounded power.
-
-The same logic applies to predictive systems in policing, intelligence, benefits, taxation, and border control.
-
-Better prediction can be useful.
-
-Prediction can also shift intervention earlier in time.
-
-The state acts because a system estimates what might happen rather than because something already happened.
-
-That changes the relationship between evidence and authority.
-
-A high risk score can start to feel like guilt.
-
-A probabilistic inference can become an administrative fact.
-
-The system may be calibrated on average while being devastatingly wrong for one person.
-
-Law has to preserve the difference between prediction and proof.
-
-This is another place where machine cognition should not erase old categories merely because it can calculate new ones.
-
-Government also creates the rules under which private machine systems operate.
-
-That gives the state two roles at once.
-
-User of AI.
-
-Governor of AI.
-
-The roles can conflict.
-
-A government may demand transparency from companies while relying on opaque systems itself.
-
-It may restrict private surveillance while expanding public surveillance.
-
-It may require companies to manage bias while deploying models under emergency pressure.
-
-Credible governance will require the state to accept constraints on its own use, not only regulate others.
+Credible governance requires the state to accept constraints on itself.
 
 That is part of legitimacy.
 
 The state cannot ask citizens to trust machine systems because government says so.
 
-It has to earn trust through performance, openness appropriate to the stakes, independent oversight, and meaningful recourse.
+It has to earn trust through performance, appropriate transparency, independent oversight, and meaningful recourse.
 
-This will take time.
+This is where slowness returns in a different form.
 
-The technology will move faster than administrative law.
+Law should not update at model-release frequency.
 
-That mismatch is not entirely fixable.
+Models are volatile.
 
-Laws are slow partly because they are general, contested, and durable.
+Rights should be durable.
 
-Models change quickly partly because they are technical artifacts under concentrated control.
+A responsible state should write principles and procedures that survive technical generations.
 
-A responsible state should not try to make law update at model-release frequency.
+Auditability.
 
-It should write principles and procedures robust enough to survive several technical generations.
+Purpose limitation.
 
-Rights should be stable even when systems change.
+Record keeping.
 
-Transparency requirements can focus on functions and consequences rather than brand names.
+Appeal.
 
-Procurement can require auditability and exit options.
+Procurement exit.
 
-Appeal rights can apply regardless of which model produced the recommendation.
+Independent review.
+
+Legal authority attached to functions rather than vendor names.
 
 The durable layer should govern the volatile layer.
 
-This is where the machine-speed state differs from the machine-speed firm most sharply.
+That is a deeper form of speed than regulatory churn.
 
-A company can pivot.
+A stable rule lets institutions and vendors move quickly because the boundary is known.
 
-A constitutional order should not pivot every week.
+The machine-speed state therefore should not resemble a startup.
 
-A company can abandon a product.
+A startup can abandon a product.
 
 A state cannot abandon citizens whose cases are inconvenient.
 
-A company can optimize for a narrow mission.
+A company can optimize a narrow mission.
 
-A state has plural obligations that often conflict.
+A state has plural obligations that conflict.
 
 Efficiency.
 
@@ -642,42 +626,76 @@ Public health.
 
 Environmental protection.
 
-The political process exists partly because these objectives cannot be collapsed into one metric.
+Political processes exist partly because these values cannot be collapsed into one objective function.
 
-Machine intelligence can help model tradeoffs.
+Machine intelligence can help model the tradeoffs.
 
-It cannot eliminate the legitimacy problem of choosing among them.
+It cannot make the tradeoffs legitimate.
 
-That is the chapter's falsification test.
+There is a final counterargument the chapter has to survive.
 
-If AI remains mostly a productivity layer inside government—better search, drafting, translation, routing, and analysis—while consequential discretion remains firmly human and legally bounded, the state may become more capable without becoming fundamentally different.
+What if the technology mostly makes government boringly better?
 
-That would still be valuable.
+Better search.
 
-The stronger thesis depends on machine systems entering the causal chain of public authority deeply enough that authorization, explanation, appeal, and sovereignty have to be redesigned around them.
+Faster translation.
 
-The evidence today is early.
+Shorter queues.
 
-Use is spreading.
+Cleaner records.
 
-Governance is uneven.
+More consistent calculations.
 
-High-stakes adoption is slower.
+More accessible forms.
 
-That caution may persist.
+Better fraud detection.
 
-It may be rational for it to persist.
+Better procurement analysis.
 
-But the pressure toward greater use will remain because governments face the same abundance of machine cognition as firms while carrying larger backlogs and tighter budgets.
+Better internal knowledge.
 
-The question is not whether the state should become fast everywhere.
+What if consequential discretion remains legally human, appeal remains robust, vendors remain replaceable, and privacy law adapts?
 
-It is whether it can become fast without becoming careless with power.
+In that world, the machine-speed state may become more capable without becoming a fundamentally different sovereign form.
 
-That question becomes most severe in the one domain where state error cannot always be appealed after the fact.
+That outcome is plausible.
 
-War.
+It may be the best one.
 
-A benefits decision can be reversed.
+The stronger thesis depends on machine systems entering the causal chain of public authority deeply enough that authorization, explanation, appeal, privacy, procurement, and sovereignty have to be redesigned around them.
+
+If that does not happen, the chapter narrows.
+
+The technology still matters.
+
+The constitutional transformation does not.
+
+The opposite possibility is more difficult.
+
+Machine systems become good enough that governments increasingly rely on them not merely to prepare decisions but to rank, prioritize, predict, recommend, and in bounded domains act. Public servants become supervisors of machine workflows. Citizens encounter automated systems at the point where rights, money, permits, mobility, or legal status change.
+
+Then the design of those systems becomes part of public law whether statutes acknowledge it or not.
+
+The state does not become a machine.
+
+It becomes an institution whose power is increasingly mediated by machines.
+
+That is enough to change the meaning of capacity.
+
+A capable state is no longer only one with competent officials.
+
+It also needs technical systems that are fast enough to serve people, constrained enough to respect them, and legible enough to challenge.
+
+Machine speed without recourse is coercion.
+
+Recourse without capacity is paperwork.
+
+The state has to build both.
+
+And when the same machine cognition moves from administration into security and war, the consequences become harder to reverse.
+
+A denied benefit can be restored.
+
+A permit can be reconsidered.
 
 A missile cannot be recalled after impact.
