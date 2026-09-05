@@ -24,7 +24,7 @@ If ten million people want the same digital image, the system can serve them at 
 
 This is where abundance begins to reveal scarcity rather than abolish it.
 
-For decades, digital technology lowered the cost of representing things. Music became files. Maps became screens. meetings became video windows. Books became downloads. Photographs became pixels. Generative systems extend that process from distribution into production. They can manufacture plausible representations that never had a physical original at all.
+For decades, digital technology lowered the cost of representing things. Music became files. Maps became screens. Meetings became video windows. Books became downloads. Photographs became pixels. Generative systems extend that process from distribution into production. They can manufacture plausible representations that never had a physical original at all.
 
 Representation can therefore become abundant faster than experience.
 
@@ -52,7 +52,21 @@ Abundant coordination can send more demand toward a scarce endpoint.
 
 AI infrastructure itself demonstrates the pattern with unusual clarity. Computation is globally distributed, yet electricity and grid connections are stubbornly local. A data centre cannot consume an abstract global average of power. It connects somewhere. Its demand arrives on a particular network with particular substations, generators, transmission constraints, neighbors, regulators, and construction schedules.
 
-The IEA has emphasized this geographic concentration. Data centres can remain a modest share of world electricity while becoming a large and difficult new load in specific regions.
+The IEA has emphasized this geographic concentration. Data centres can remain a modest share of world electricity while becoming a large and difficult new load in specific regions. In the United States, nearly half of existing data-centre capacity is concentrated in five regional clusters. That is enough concentration for a globally small percentage to become locally consequential.
+
+The timing mismatch matters as much as the percentage. The IEA notes that a data centre can sometimes move from project to operation in roughly two or three years while parts of the wider energy system require longer planning and construction cycles. A software company can decide that demand justifies a new facility faster than a transmission line, transformer supply chain, generation project, or permitting process can necessarily respond.
+
+Two clocks start running.
+
+One belongs to demand. It speeds up when models become more useful, inference becomes cheaper, investors commit capital, and customers discover new applications.
+
+The other belongs to infrastructure. It moves at the pace of land, steel, factories, engineering crews, interconnection studies, public hearings, equipment deliveries, and institutions that have to absorb the consequences.
+
+A shortage can emerge even when everyone involved correctly predicted long-run supply growth. The demand clock simply arrives first.
+
+This is why a debate framed only around total national electricity can miss the practical bottleneck. A country may have enough annual generation in aggregate and still lack the right capacity in the right place at the right hour. A grid connection is not a barrel of electricity that can be shipped from wherever surplus happens to exist. Networks have topology. Equipment has ratings. Construction has sequence.
+
+The physical world contains not just quantities but locations and dependencies.
 
 Global abundance can produce local scarcity.
 
@@ -85,6 +99,46 @@ The distinction will become increasingly important.
 A model can produce a plan for a new transmission line in moments. The line still requires rights of way, environmental review, financing, equipment, construction crews, interconnection decisions, and political consent. A model can propose a drug candidate. Molecules still have to be synthesized, tested, manufactured, and evaluated in living systems. A model can generate code for a warehouse robot. Motors, sensors, batteries, safety systems, floors, workers, insurance, and maintenance remain.
 
 The physical world is where proposals encounter vetoes.
+
+This creates a subtle change in the meaning of productivity. If an engineer can produce ten plausible designs in the time once required for one, the organization has not necessarily become ten times more capable. It has become ten times more capable at reaching the next constraint.
+
+Perhaps that constraint is testing.
+
+Perhaps it is capital approval.
+
+Perhaps it is a supplier that can manufacture only two prototypes this month.
+
+Perhaps it is a regulator who must review all ten.
+
+Perhaps it is a team that now has to decide which nine ideas not to pursue.
+
+The productive gain is real. So is the migration of the bottleneck.
+
+This is one reason organizations can feel strangely unchanged after adopting powerful tools. A department cuts drafting time by half and then discovers that legal review has not changed. A design team generates options overnight and waits weeks for a physical sample. A construction project uses better planning software but still cannot pour concrete before the site is ready. A hospital produces documentation faster but has no additional beds.
+
+Nothing about this means the technology failed.
+
+It means the unit being optimized was not the whole system.
+
+The distinction between representation and transformation becomes especially useful here. Representation tells us what could be done, what might happen, what an object could look like, how a process could be arranged, what a diagnosis might be, or how a structure might perform.
+
+Transformation changes the world so that one of those possibilities becomes actual.
+
+Generative AI is exceptionally strong at expanding representation. It can make possibility cheap enough to flood an institution with it.
+
+Transformation inherits the constraints that representation escaped.
+
+A city can generate a thousand renderings of affordable housing. It still has to choose sites, finance projects, approve them, source materials, find builders, connect utilities, and navigate political opposition. A company can simulate a supply chain under dozens of scenarios. It still depends on ships, ports, factories, weather, contracts, and people who may have priorities of their own.
+
+This difference also helps explain why some forms of digital substitution are so valuable. A video meeting does not merely represent a meeting; in many cases it performs the function well enough that no physical trip is needed. A software prototype can reveal an interface problem before anything expensive is manufactured. Remote monitoring can replace a site visit. Digital twins can reduce the number of physical experiments required.
+
+When substitution works, scarcity really does recede.
+
+The mistake is assuming that every representation is a substitute.
+
+A digital model of a bridge can reduce design risk. It does not carry traffic. A synthetic training scenario can prepare a firefighter. It does not extinguish a fire. A virtual inspection can sometimes replace a physical inspection, but only after somebody has established that the sensors, images, and procedures are reliable enough for the consequence at stake.
+
+The dividing line is empirical and task-specific.
 
 That is one reason reality may become relatively more expensive as simulation becomes cheaper.
 
@@ -121,6 +175,18 @@ That can create new inequality as well as new value. If high-quality digital gui
 Knowledge of abundance is not abundance itself.
 
 There is a political temptation here to blame the new technology for every old bottleneck it reveals. That would be a mistake. Housing shortages, grid constraints, medical capacity, transport congestion, and permitting delays have histories that predate generative AI. Better cognitive tools may help address them. They may also increase demand or expose the costs more clearly.
+
+There is an equal temptation to assume that better cognition must dissolve those bottlenecks once enough intelligence is applied. That claim is too strong for a different reason. Some constraints are information problems, and better models can help. Others are conflicts over who pays, who moves, who bears risk, whose neighborhood changes, which project receives land, and which goal outranks another.
+
+An optimization tool cannot eliminate a political tradeoff by describing it more eloquently.
+
+A better forecast cannot manufacture consent.
+
+A more efficient design cannot make two incompatible uses occupy the same parcel of land at the same time.
+
+The physical world is expensive partly because it is shared.
+
+Digital copies can diverge. Physical consequences collide.
 
 The useful question is not whether AI makes the physical world scarce.
 
