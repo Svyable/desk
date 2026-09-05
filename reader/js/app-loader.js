@@ -110,6 +110,7 @@ try {
   if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
   const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type:'text/javascript' }));
   try { await import(moduleUrl); } finally { URL.revokeObjectURL(moduleUrl); }
+  try { await import('./desk-library-current-book.js?v=bookself-20260905'); } catch (error) { console.warn('Desk current-book polish could not be loaded', error); }
 } catch (error) {
   showRecovery(error);
 }
