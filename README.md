@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 96 book projects · 47 complete drafts · 2 in revision · 47 drafting**
+> **Desk: 97 book projects · 48 complete drafts · 2 in revision · 47 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 48 author projects · 45 released · 3 public drafts/proofs**
-> **Where they live: 48 in both Desk + Shelf · 48 Desk-only · 0 Shelf-only**
-> **Release review queue: 9 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 48 in both Desk + Shelf · 49 Desk-only · 0 Shelf-only**
+> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -68,7 +68,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Robust](books/robust/), [Solar Century](books/solar-century/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Pace of Change](books/pace-of-change/), [Robust](books/robust/), [Solar Century](books/solar-century/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -117,6 +117,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✍️ Released working edition | 25 of 25 | 23,097 | The book argues that modern life is becoming unusually good at recording, ranking, publishing, and judging people before they have finished becoming capable. | [Read →](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | 18 of 18 | 77,279 | The central thesis is that open AI does not abolish ownership; it rearranges it. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
 | [**Orbital**](books/orbital/) | ✍️ Drafting | Prologue + 11 complete chapters; 21 chapters planned | 31,608 | A narrative history of how low Earth orbit changed from a government-run domain of bespoke spacecraft into an industrial layer increasingly launched, manufactured, networked, and operated… | [Read →](https://svyable.github.io/desk/reader/#/b/orbital/) |
+| [**Pace of Change**](books/pace-of-change/) | ✅ Complete first draft | 20 of 20 | 67,000 | The book does not argue that faster is bad or slower is wise. It argues for temporal fit: matching the rate of change to the rate at which the surrounding system can still learn and recover. | [Read →](https://svyable.github.io/desk/reader/#/b/pace-of-change/) |
 | [**Predictable**](books/predictable/) | ✍️ Drafting | 12 of 12 | 28,051 | The working thesis is that societies repeatedly make the same mistake around transformative technologies: they correctly recognize that something important has arrived, then misprice how… | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 of 29 | 67,065 | The book argues that the resulting scarcity is not content, which has never been more abundant, but verifiable authenticity: proof of where a piece of media came from, and proof that a… | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 of 23 | 81,215 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
@@ -252,7 +253,7 @@ books/
     RIGHTS.md          ← publication rights when present
     manuscript/        ← the book itself
     research/          ← sources and book-specific notes
-    media/              ← images and other assets
+    media/             ← images and other assets
 ```
 
 `books/_TEMPLATE/` is a starting point, not a real publication and not part of the Reader catalog.
