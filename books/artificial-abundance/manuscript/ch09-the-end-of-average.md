@@ -58,6 +58,88 @@ This is why the end of average will arrive unevenly.
 
 Digital surfaces will move first because their marginal variation is cheapest. Explanations, drafts, recommendations, interfaces, simulations, and configurations can change without moving a truck or retraining a factory. Physical products will change more slowly where variation creates inventory, tooling, certification, repair, or supply-chain costs. Institutions will change slowest where the average is doing political or organizational work that is easy to mistake for a production constraint.
 
+There is another distinction hidden inside the word average.
+
+Averages are useful measurements.
+
+They become dangerous when a measurement is mistaken for a person.
+
+A city needs to know average water demand to size infrastructure. An insurer needs population statistics to price risk. A school system needs aggregate information to know whether reading outcomes are improving. A manufacturer needs distributions of body size to decide which products to make.
+
+None of this disappears because personalization becomes cheaper.
+
+The change occurs when the statistical summary migrates from planning into treatment. A system sees that the average customer behaves one way and therefore assumes this customer will. A school knows the median student learned a concept by October and treats the calendar as evidence that every child should have. A bank groups a person into a segment because serving the person directly was historically too expensive.
+
+Cheap adaptive systems make the substitution easier to notice.
+
+They can ask one more question.
+
+They can inspect one more piece of context.
+
+They can test whether the default explanation worked before forcing the user to live with it.
+
+This sounds like an unambiguous improvement until the cost of collecting context enters the picture.
+
+Personalization is hungry.
+
+A generic service can know less about you. A service that continuously adapts wants signals: what you clicked, what confused you, what you bought, what you ignored, what language you use, how long you hesitated, what worked last time, and perhaps information you never intended to turn into a service input.
+
+The end of average can therefore create a new bargain.
+
+Give the system more of yourself and receive less generic treatment.
+
+Sometimes that bargain is excellent. A tutoring system should know which problems a student missed if the point is to teach the student. An accessibility tool may need to know how a person reads, sees, hears, or moves in order to adapt well.
+
+Sometimes the bargain is predatory. A seller that learns the exact framing most likely to overcome your hesitation is not merely personalizing service. It may be personalizing pressure.
+
+The same technical capability supports both.
+
+This means that personalization does not simply replace standardization. It creates demand for a new standard: rules about what may vary and what information may be used to vary it.
+
+The paradox is useful.
+
+As surfaces become more individualized, the underlying constraints may need to become more explicit and more common.
+
+A school can personalize practice while holding the learning objective steady. A bank can personalize explanation while holding eligibility rules steady. A government can personalize language while holding legal rights steady. A retailer can personalize recommendations while refusing to personalize the truth of a product claim.
+
+The more flexible the interface, the more important it becomes to know which layer is not supposed to flex.
+
+This is where average and equality part company.
+
+Equal treatment has never required identical sentences.
+
+A wheelchair ramp and a staircase are different interfaces to the same building. Translation gives different words in pursuit of the same underlying access. A good teacher has always explained the same concept differently to different students without believing that one student deserved a different law of mathematics.
+
+Artificial intelligence can extend that kind of accommodation cheaply.
+
+It can also create differential treatment too subtle to contest.
+
+A customer may never know that another customer was shown a more generous retention offer. A citizen may not know that the system used a different explanation of a public program for a different demographic profile. A worker may not know that a generated training path quietly directs colleagues toward different future roles.
+
+Standardization made unfairness visible in one peculiar way: everyone could point at the same form.
+
+Personalization can make the form disappear.
+
+That makes audit harder.
+
+The organization no longer reviews one artifact. It reviews a process capable of producing countless artifacts.
+
+The same management problem appeared in the previous chapter with infinite versions. Here it becomes a social problem. If every person receives a different surface, institutions need enough common structure to prove that variation did not become arbitrary power.
+
+This is one reason old averages will survive even where they are technically unnecessary.
+
+A standard is a coordination device.
+
+It is also an audit device.
+
+A fixed exam may measure students crudely, but everyone can inspect the same questions. A common price can ignore differences in willingness to pay, but customers can compare it. A standard form may be unpleasant, but an advocate can learn it once and help many people navigate it.
+
+Personalization can improve the experience while weakening these shared reference points.
+
+The design problem is not average versus personalized.
+
+It is deciding where shared reference remains valuable after individualized production becomes cheap.
+
 The distinction creates an uncomfortable question for any standardized service: what is the standard protecting?
 
 Sometimes the answer is fairness.
