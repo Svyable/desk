@@ -510,6 +510,102 @@ It is often the fastest route to confident action.
 
 Evidence arrives without requiring the institution to defend a public prophecy.
 
+Waiting itself has a depreciation schedule.
+
+This is the piece of option logic organizations most often omit.
+
+The textbook attraction of waiting is that uncertainty may resolve before an irreversible investment is made. But time does not only reveal information. It changes the institution that is doing the waiting.
+
+Engineers leave.
+
+Supplier relationships weaken.
+
+Customers learn a competitor's workflow.
+
+Standards settle around someone else's design.
+
+Regulators build familiarity with another operating model.
+
+Data accumulate in the legacy format.
+
+The old asset receives another round of improvements because it still has to work.
+
+A business unit becomes even better at meeting the old metric.
+
+In other words, the value of waiting depends on two moving quantities.
+
+One is the information arriving from the outside world.
+
+The other is the organization's remaining ability to act on that information.
+
+Waiting is most valuable when the first is improving faster than the second is deteriorating.
+
+If market uncertainty is falling rapidly while exercise capacity remains intact, patience can be valuable.
+
+If the market is becoming clearer but every month makes entry slower, more expensive, or less credible, the apparent option may be decaying faster than uncertainty is resolving.
+
+This changes how an institution should think about timing.
+
+The clocks are not synchronized.
+
+Technology has a clock: cost, reliability, standards, performance.
+
+Customers have a clock: awareness, willingness to switch, installed workflows, contract renewals.
+
+The organization has a clock: skills, architecture, leadership attention, capital capacity.
+
+Assets and obligations have clocks too: depreciation, leases, support promises, regulatory deadlines, certification cycles.
+
+A transition becomes attractive when enough of these clocks align.
+
+They rarely strike the hour together.
+
+That is why a single launch date can create false precision.
+
+The meaningful work often happens earlier: a contract ends without renewal, a supplier gets qualified, a new interface is made possible, a customer cohort becomes portable, a team learns the new system, a capital cycle reaches replacement age.
+
+These are windows in which an otherwise expensive decision becomes less irreversible.
+
+Missing them can matter more than missing a forecast by six months.
+
+This also explains why the cheapest adaptation can occur when nobody feels urgency.
+
+A worker can be retrained while the old skill still pays.
+
+A building can be upgraded during an already-planned renovation.
+
+A system can be migrated when its support contract is ending anyway.
+
+A customer can be moved at renewal rather than mid-contract.
+
+A factory can be redesigned when equipment is already due for replacement.
+
+The institution is not predicting the future perfectly.
+
+It is using ordinary turnover to lower the price of being wrong about timing.
+
+The opposite happens when every commitment is renewed automatically.
+
+Another five-year contract.
+
+Another hardware cycle.
+
+Another hiring class trained only in the old method.
+
+Another customer promise with no exit date.
+
+Each renewal is locally ordinary.
+
+Together they can close the future option while leaders continue saying they are waiting for clarity.
+
+This is why active waiting has to include a renewal discipline.
+
+The question is not only what should we start?
+
+It is what should we avoid recommitting to while uncertainty remains meaningful?
+
+That is often the least dramatic and most consequential timing decision.
+
 There is another counterargument.
 
 Some transitions do not allow leisurely experimentation.
