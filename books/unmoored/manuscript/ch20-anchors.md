@@ -268,6 +268,76 @@ A right to appeal when every reviewer depends on the same model is weak.
 
 Moral autonomy depends on infrastructure.
 
+The anchors will conflict with one another.
+
+That is not evidence that they have failed.
+
+Consent can conflict with responsibility. A user may authorize an agent to take a risk that an institution has a duty not to externalize onto others. Rights can conflict with public reason when a legitimate privacy interest limits how fully a government can explain the evidence behind a decision. Relationship can conflict with equality when loyalty favors someone close over someone equally deserving. Pluralism can conflict with rights when a community practice burdens a person who did not freely accept it. Refusal can conflict with mandate when a professional has undertaken a role whose duties limit personal discretion.
+
+The point of anchors is not to generate one automatic answer.
+
+It is to prevent one kind of claim from swallowing the others without acknowledgment.
+
+Superior intelligence will be excellent at proposing resolutions to these conflicts. It can show precedent, consequences, legal constraints, stakeholder burdens, and likely second-order effects.
+
+The governance question remains visible if the system also shows which anchor is being subordinated and under whose authority.
+
+A hospital may override a family's preference because the patient's own directive controls.
+
+A court may restrict disclosure because a right to confidentiality outweighs a demand for complete explanation.
+
+A legislature may limit individual choice to prevent serious external harm.
+
+A parent may restrict a young child's autonomy while creating a path for greater independence over time.
+
+These decisions can be right or wrong.
+
+They are morally different from an optimization in which consent, rights, responsibility, relationship, and public justification disappear into one score.
+
+Conflict among anchors is a feature because it keeps the source of the tradeoff legible.
+
+They can also be weaponized.
+
+“Consent” can be manufactured through manipulative interface design.
+
+“Rights” can become a slogan used to block every competing claim.
+
+“Responsibility” can be pushed downward onto the least powerful person.
+
+“Public reason” can become an endless stream of generated explanations that no citizen can meaningfully challenge.
+
+“Pluralism” can excuse abuse.
+
+“Contestability” can be satisfied by an appeal path too expensive or slow to use.
+
+“Relationship” can justify nepotism.
+
+“Mandate” can be drafted so broadly that it becomes blank-check delegation.
+
+“Refusal” can exist formally while technical dependence makes refusal impossible.
+
+This is why anchors need operational tests rather than ceremonial invocation.
+
+Can consent actually be withdrawn?
+
+Can the right change the outcome?
+
+Does responsibility attach to someone with power?
+
+Can the person receiving a public reason challenge the premise or only read it?
+
+Does pluralism include the unpopular minority?
+
+Can an appeal reach a genuinely different authority?
+
+Does relationship create a duty as well as a privilege?
+
+Can the mandate be narrowed?
+
+Can refusal be exercised without destroying the institution's ability to function?
+
+The answers reveal whether the anchor bears weight.
+
 These anchors do not solve morality.
 
 They prevent morality from dissolving into intelligence.
@@ -299,6 +369,38 @@ Agents are gaining the ability to act.
 The boundary between tool and participant is becoming operationally important before philosophy settles what kind of participant the machine is.
 
 That is enough to begin building anchors.
+
+Building them will require institutional experiments rather than a single constitutional moment.
+
+Different domains can test different arrangements. Hospitals can separate recommendation, consent, and override more explicitly. Agencies can build appeals that challenge both inference and policy. Schools can create child-facing systems whose authority changes with age. Companies can preserve minority reports and reasons for policy changes. Personal assistants can expose the provenance of commitments and make delegation revocable. Governments can require continuity plans for critical intelligence infrastructure just as they do for other essential systems.
+
+Some experiments will fail.
+
+The important thing is to preserve the ability to learn without letting temporary convenience harden into invisible sovereignty.
+
+This is why reversibility keeps appearing throughout the book.
+
+A decision can be appealed.
+
+A mandate can be narrowed.
+
+A provider can be changed.
+
+A model can be challenged by another model or institution.
+
+A personal commitment can be amended.
+
+A child can inherit control from a parent.
+
+A public rule can be revised through a known process.
+
+Reversibility is not indecision.
+
+It is protection against treating today's superior answer as the permanent source of authority.
+
+Some decisions are irreversible, of course. A life can be lost. A relationship can be broken. A war can begin. A child can be removed from a home. A sentence can consume years.
+
+The more irreversible the consequence, the more important it becomes to know not only why the system recommends the action but what legitimate authority is carrying the decision across the point of no return.
 
 The worst response would be a campaign to preserve human moral superiority by denying machine competence.
 
