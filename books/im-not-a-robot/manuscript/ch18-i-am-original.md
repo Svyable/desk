@@ -56,7 +56,7 @@ Originality is often adjacency plus refusal.
 
 This is why imitation and originality have never been simple opposites.
 
-Apprentices copy. Students imitate. Musicians learn standards. painters make studies. Architects absorb precedents. Children reproduce phrases before they can generate the kinds of departures adults praise as voice.
+Apprentices copy. Students imitate. Musicians learn standards. Painters make studies. Architects absorb precedents. Children reproduce phrases before they can generate the kinds of departures adults praise as voice.
 
 The problem is not influence.
 
@@ -244,6 +244,146 @@ That is allowed.
 
 The danger is pretending process does not matter when the audience reasonably cares about it, or pretending one process has automatic moral superiority independent of context.
 
+Abundance introduces a second problem that process labels do not solve.
+
+Selection can look like authorship because selection is suddenly scarce.
+
+If a system gives me ten thousand candidates and I choose one, my choice matters. But the fact that my choice mattered does not tell us how much of the resulting expression was mine.
+
+There is a temptation here to inflate curation until it swallows creation.
+
+I picked it, therefore I made it.
+
+That sentence is too convenient.
+
+Museums have curators. Publishers have editors. Record labels have A&R staff. Film has casting, producing, directing, editing, cinematography, writing, and performance because selection and creation are different contributions even when each can be decisive.
+
+Generative systems make the distinction harder because one person can occupy several of those roles in minutes.
+
+The right question is not whether selection counts.
+
+It does.
+
+The right question is what changed because this person was here.
+
+Remove the person from the process.
+
+Does the work still exist in roughly the same form?
+
+Would another user asking the same broad thing have received something interchangeable?
+
+Did the person define the problem, impose the constraint, reject the obvious solution, combine incompatible requirements, alter the expression, or accept a risk the system had no reason to choose?
+
+This counterfactual is imperfect. Creativity is not a laboratory experiment. But it is a useful antidote to ceremonial authorship because it asks for the human difference rather than the human presence.
+
+Sometimes the difference is enormous.
+
+A filmmaker can choose one take from fifty and change the emotional center of a scene.
+
+An editor can remove a paragraph and rescue an argument.
+
+A scientist can recognize that one anomalous result deserves another year of work.
+
+A designer can reject ninety-nine acceptable versions because one hidden constraint matters more than visual polish.
+
+Selection is not small simply because it contains fewer keystrokes.
+
+But selection becomes thin when the standard is merely preference among interchangeable outputs.
+
+I like this one.
+
+That may be enough for consumption.
+
+It is not automatically a theory of originality.
+
+This is why constraint becomes more important under abundance.
+
+When production is expensive, the first acceptable candidate can feel precious because replacing it costs time.
+
+When production is cheap, the creator can afford to ask a harsher question:
+
+What must be true of the final work that the generator does not know to care about unless I insist?
+
+A particular audience.
+
+A factual burden.
+
+A material limitation.
+
+A private memory.
+
+A local history.
+
+A moral refusal.
+
+A budget.
+
+A body.
+
+A promise.
+
+A decision not to optimize the obvious metric.
+
+These constraints do more than narrow the search space.
+
+They reveal why the work has this shape.
+
+Originality under abundance may therefore depend less on producing unusual surfaces and more on choosing non-generic constraints that survive contact with reality.
+
+The output can still look simple.
+
+The originality may live in what it refused to ignore.
+
+There is also a distribution problem hiding inside abundance.
+
+If everyone can make plausible work faster, the world does not merely contain more candidates.
+
+It contains more competition for attention.
+
+The cost of production falls faster than the amount of human attention available to receive the result.
+
+This changes creative economics in a way arguments about authorship sometimes miss.
+
+A flood of adequate work can make genuinely unusual work harder to discover even if the unusual work remains possible.
+
+The bottleneck moves downstream.
+
+Search.
+
+Trust.
+
+Reputation.
+
+Curation.
+
+Communities willing to spend time.
+
+A creator may become more original and less visible at the same time because the surrounding channel is saturated with competent alternatives.
+
+This does not mean abundance is bad. Cheap tools lower barriers. People who could not afford equipment, training, collaborators, or professional production can make things that previously remained imaginary. New voices can enter because execution costs fall.
+
+But lower barriers to making are not the same as equal access to attention.
+
+Distribution can become the new gatekeeper.
+
+The person with a large audience, strong platform relationship, recognizable brand, or money to purchase discovery may benefit more from cheap generation than the unknown creator who gained the same productive power.
+
+Technology can democratize production while concentrating reach.
+
+Both can be true.
+
+This matters because originality is socially recognized.
+
+An idea that exists privately can be original. A culture only reorganizes around work it encounters.
+
+The machine age will therefore produce a strange split between originality as an act and originality as a market category.
+
+The act may become more accessible.
+
+Recognition may become more competitive.
+
+We should not confuse the second problem with proof that the first disappeared.
+
 Originality becomes especially interesting when the tool knows the creator’s own history.
 
 Imagine a model trained or conditioned on everything you have written, drawn, coded, recorded, or designed. It can generate plausible continuations of your style. It knows your favorite structures, recurring metaphors, common chord changes, visual habits, naming patterns, pacing, color preferences, and the kinds of errors you repeatedly make.
@@ -343,6 +483,8 @@ You are not original because you suffered more than the machine.
 You are not original because your first draft came from your fingers.
 
 You are not original because a detector says human.
+
+You are not original merely because you selected one result from an ocean the system made cheap.
 
 You may be original when inheritance passes through a judgment specific enough to change what was inherited.
 
