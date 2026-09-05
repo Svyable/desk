@@ -56,3 +56,44 @@ Falsification / counterevidence: audiences may increasingly value outcomes and t
 - Do not turn the IKEA effect or effort heuristic into a universal law of value.
 - Keep the 2023 mixed replication next to the original effort-heuristic finding.
 - Treat difficulty as a possible status signal, not a moral virtue.
+
+## Deepening map for the next manuscript pass
+
+The four chapters already carry the right empirical controls. The next revision should therefore deepen mechanisms and consequences rather than add more named studies for decoration.
+
+### Chapter 13
+
+Strengthen the distinction between **attention as time** and **attention as decision authority**. A model can compress ten thousand items into ten, but the compression does not abolish scarcity; it moves value toward whoever specifies ranking objectives, controls escalation, and decides what deserves interruption. The chapter should make this migration explicit without drifting into the separate Search Frontier manuscript. The strongest added material would follow one organizational chain from cheap generation to expensive review: more analyses create more claims on a manager, regulator, customer, or other finite receiver. Avoid a montage of examples.
+
+The existing collective-attention evidence is sufficient. Do not add popular claims about shrinking human attention spans unless they can be tied to a rigorous individual-level measure. The chapter's defensible claim is about competition for finite reception, not neurological deterioration.
+
+### Chapter 14
+
+Deepen the difference between **human origin**, **human presence**, and **human commitment**. The chapter is strongest when it argues that the premium can attach to a finite person putting reputation, liability, time, or relationship behind an output. It is weaker when it approaches a general provenance-infrastructure argument, which belongs to *Proof of Human*.
+
+The revision should also sharpen the distributional countercase already present: human review is attractive as an elective premium in art, craft, performance, and relationship, but access to an accountable human is not merely a luxury attribute when the automated system can deny benefits, misdiagnose a patient, or impose another consequential decision. That boundary keeps the chapter from romanticizing expensive humanity.
+
+### Chapter 15
+
+Make **reversibility** the chapter's most concrete design test. A pause is valuable when it gives someone informed authority to change a consequential path before harm becomes difficult to undo. This is more precise than treating delay itself as protective. The surgical-checklist evidence should remain paired with the Ontario result so the manuscript shows that a ritual can preserve the appearance of review after its function has disappeared.
+
+The AI-specific extension should emphasize that falling action cost can increase the number of actions requiring control. Cheap drafting is not itself the risk; cheap execution, repeated execution, and delegated execution change the expected cost of weak permissions. Keep the chapter centered on repricing: as action gets cheaper, permission boundaries, auditability, exception handling, and meaningful refusal become more valuable complements.
+
+### Chapter 16
+
+Separate **training difficulty**, **protective difficulty**, and **status difficulty** earlier and more firmly. The chapter currently reaches this distinction, but it should govern the argument rather than appear as a late clarification. Training difficulty changes the person doing the work; protective difficulty changes the probability or reversibility of error; status difficulty communicates something to an audience. Only the third category depends primarily on signaling.
+
+Preserve the mixed replication of the effort heuristic close to the original result. The point is not that observers reliably reward effort. It is that effort can become one cue among several when quality or commitment is hard to observe. The strongest economic consequence is therefore not a universal handmade premium but the creation of markets in **chosen costly process** after the functional output becomes cheap.
+
+The class boundary should remain explicit. Chosen difficulty can be leisure, craft, training, identity, or status; imposed difficulty can be exclusion, underinvestment, or drudgery. Artificial abundance should not turn avoidable hardship into a moral test for workers or consumers.
+
+## Coherence test
+
+Read as a sequence, Chapters 13–16 should move through four different scarce complements without collapsing them into one vague human premium:
+
+1. Generation expands faster than finite reception, repricing attention and control over selection.
+2. Cheap fluent surfaces weaken old inferences about effort and origin, repricing credible human commitment in selected contexts.
+3. Cheap action makes consequential mistakes easier to execute at scale, repricing meaningful checkpoints and reversibility.
+4. Once functional difficulty is optional, chosen difficulty can acquire training, experiential, or status value—but only when the cost serves a legible purpose.
+
+If a revision paragraph does not advance one of those four mechanisms, it is probably repetition or belongs in an adjacent Desk book.
