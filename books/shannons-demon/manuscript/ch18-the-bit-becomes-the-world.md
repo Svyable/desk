@@ -220,7 +220,11 @@ The log penalties used in cross-entropy make confident mistakes expensive.
 
 That structure belongs naturally to the mathematical world Shannon helped make standard.
 
-But the distance from Bell Labs in 1948 to a data center training a large model is enormous.
+But even here the lineage needs another boundary. Cross-entropy as used in statistical learning is not a proprietary Shannon artifact that passed unchanged from Bell Labs into neural networks. Its modern use sits in a larger mathematical lineage involving probability, likelihood, statistical decision, optimization, and later machine-learning practice. The shared mathematics is real; a single-file genealogy is not.
+
+The distinction matters because words can create counterfeit causation. If two fields both use entropy, it does not follow that one was historically produced by the other. If a modern objective can be written with information-theoretic notation, that does not prove Shannon anticipated the system that uses it. Mathematical compatibility is weaker than intellectual descent, and intellectual descent is weaker than invention.
+
+The distance from Bell Labs in 1948 to a data center training a large model is enormous.
 
 The bridge contains millions of other people's decisions.
 
