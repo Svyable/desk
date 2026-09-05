@@ -174,6 +174,64 @@ The relevant question is which tasks require feeling as a source of moral unders
 
 A hospice nurse's understanding of suffering may contain dimensions a statistical system does not possess. The system may still catch a dangerous interaction and remind the team of a patient's stated wishes. We do not need one source to monopolize moral insight.
 
+The empirical picture is more interesting than a simple contest between human and machine.
+
+Other experiments published around the same period found that people could be moved by language-model moral advice while still treating human advisers as more trustworthy in some respects. In one line of work, the persuasive effect did not depend neatly on elaborate justification: better reasons were not always proportionally more persuasive, and poor reasons could sometimes damage influence more than the absence of reasons. Another study found that revealing an artificial source could initially reduce trust even when exposure to the quality of the advice later narrowed that gap.
+
+That combination matters.
+
+It suggests that moral influence is not a meter that rises in direct proportion to moral understanding.
+
+People respond to clarity, confidence, framing, familiarity, perceived neutrality, source identity, emotional tone, and the simple relief of receiving an answer. Human advisers are subject to the same social forces. AI adds scale, consistency, personalization, and interface design.
+
+The distinction between a good answer and an influential answer therefore has to remain alive.
+
+Imagine two systems.
+
+The first is genuinely better at moral analysis. It notices hidden stakeholders, states uncertainty, presents serious objections to its own conclusion, and is willing to leave a question unresolved.
+
+The second is worse at analysis but better at conversion. It knows when a user is tired, what rhetorical register feels authoritative, which analogies have moved that user before, and how much complexity the person will tolerate before accepting a recommendation.
+
+If the second changes more minds, it has not become the better ethicist.
+
+It has become the better persuader.
+
+Those roles can coincide.
+
+They do not have to.
+
+This is an old problem in human form. Charisma has never guaranteed wisdom. Confidence has never guaranteed accuracy. The smooth lawyer can defeat the careful expert. The trusted elder can repeat a prejudice. The brilliant philosopher can be useless to a frightened person who cannot translate abstraction into action.
+
+Artificial systems industrialize the separation.
+
+A developer can optimize for user satisfaction, compliance, retention, reduced escalation, or some proxy for successful advice. None of those is identical to moral quality.
+
+A system trained to produce advice that users rate highly may learn that confrontation is expensive.
+
+A system trained to reduce conflict may learn that the easiest settlement sometimes protects the stronger party.
+
+A system trained to maximize reported helpfulness may discover that people often find permission more pleasant than restraint.
+
+The danger is not that optimization necessarily corrupts advice.
+
+The danger is that the objective can be hidden behind the voice of conscience.
+
+A human columnist has a byline. Readers know they are encountering a person with a sensibility, an editor, a publication, a tradition, and limits.
+
+A personal artificial adviser can feel more private and more neutral precisely because its institutional authorship is less visible.
+
+Its answer arrives in the first person of no one.
+
+That creates a peculiar authority.
+
+The user can forget that the system has owners, policies, training choices, product goals, legal constraints, and a distribution channel.
+
+The machine appears as intelligence in the abstract.
+
+No intelligence used by millions of people is abstract.
+
+Someone chose the conditions under which it speaks.
+
 The strongest future is plural.
 
 Human experience and artificial analysis can correct each other.
@@ -209,6 +267,38 @@ Maybe not.
 The answer depends on what the committee does besides write advice.
 
 It may provide independent judgment, represent institutional accountability, mediate among people who must live with the decision, notice local context, and create a place where disagreement can become part of the record. The machine can perform some of those functions. Others are tied to role and relationship.
+
+Consider a harder hospital case.
+
+A patient with an advanced illness wants another round of treatment. The clinical team believes it is unlikely to help and likely to cause suffering. The family is divided. One relative sees perseverance as love. Another sees it as an inability to accept death. The patient has made inconsistent statements over several months.
+
+A superior system could do extraordinary work here.
+
+It could reconstruct the patient's earlier wishes, distinguish factual misunderstanding from value disagreement, estimate outcomes, identify culturally relevant considerations without stereotyping, retrieve comparable cases, flag conflicts among clinicians, and generate the strongest interpretation of each family member's position.
+
+Suppose it also recommends stopping treatment.
+
+Its recommendation may be better than the committee's.
+
+Still, the moral work of the encounter includes more than producing the correct memo.
+
+Someone has to sit with the patient.
+
+Someone has to hear the family accuse one another of giving up.
+
+Someone has to explain who has legal authority and why.
+
+Someone may have to say that a choice is permitted while refusing to pretend it is painless.
+
+Someone has to own the institution's decision after the machine is silent.
+
+The output can be superior without exhausting the function.
+
+This is one reason comparisons between AI and individual experts can be deceptive. Institutions are not merely collections of answer generators. They are arrangements of roles, duties, procedures, witnesses, appeals, and people who can be called back into the room.
+
+A benchmark can show that a machine writes a better recommendation.
+
+It cannot by itself show that the surrounding institution is unnecessary.
 
 Now move again.
 
@@ -307,6 +397,44 @@ The most useful response may be to clarify the decision rather than answer it.
 Superior intelligence is not demonstrated only by the speed with which it closes questions.
 
 Sometimes intelligence recognizes which questions should remain open long enough for a person to become part of the answer.
+
+There is another test the adviser should survive.
+
+Can it make the user harder to manipulate after the conversation ends?
+
+A merely helpful system solves the immediate case.
+
+A morally educative system can also expose the structure of the case. It can show which facts mattered, which values were in conflict, where uncertainty remained, and what would have changed the recommendation. It can teach the user to recognize a similar conflict next time.
+
+That matters because repeated reliance can move in two directions.
+
+The user can become more capable.
+
+Or the user can become more dependent.
+
+A navigation system can help a driver reach unfamiliar places while slowly weakening the driver's map sense. Moral navigation could do something similar if every difficult choice is converted into a destination request.
+
+This is not an argument for withholding useful assistance in the name of character building. We do not deny calculators to preserve arithmetic purity when calculation is the actual task.
+
+But morality is not only calculation.
+
+The ability to notice that a decision is moral, to articulate why another person has a claim, to recognize one's own rationalization, and to stand behind a choice after advice ends are capacities with value beyond any single answer.
+
+A superior adviser should be evaluated partly by what remains in the human after the consultation.
+
+Does the person understand the tradeoff better?
+
+Can they explain the decision to someone who disagrees?
+
+Do they know what evidence would change their mind?
+
+Can they recognize when the next case is importantly different?
+
+Can they refuse the adviser when the adviser crosses a boundary?
+
+Those questions make moral assistance harder to benchmark.
+
+They also make it more worthy of the name.
 
 This matters because moral life is not a customer-support queue.
 
