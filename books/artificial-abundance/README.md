@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 24 drafted |
+| **Chapters**  | 12 of 24 drafted |
 
 *When Intelligence Becomes Cheap, What Becomes Priceless?*
 
@@ -23,13 +23,13 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [x] [Ch 6 — The Trust Premium](manuscript/ch06-the-trust-premium.md)
 - [x] [Ch 7 — Proof of Effort](manuscript/ch07-proof-of-effort.md)
 - [x] [Ch 8 — Infinite Versions](manuscript/ch08-infinite-versions.md)
+- [x] [Ch 9 — The End of Average](manuscript/ch09-the-end-of-average.md)
+- [x] [Ch 10 — Commodity Expertise](manuscript/ch10-commodity-expertise.md)
+- [x] [Ch 11 — Responsibility Does Not Scale](manuscript/ch11-responsibility-does-not-scale.md)
+- [x] [Ch 12 — The Judgment Bottleneck](manuscript/ch12-the-judgment-bottleneck.md)
 
 ## Planned chapters
 
-9. The End of Average
-10. Commodity Expertise
-11. Responsibility Does Not Scale
-12. The Judgment Bottleneck
 13. Attention Has Not Scaled
 14. The Human Signal
 15. Friction as a Feature
