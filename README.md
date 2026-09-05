@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 97 book projects · 48 complete drafts · 2 in revision · 47 drafting**
+> **Desk: 98 book projects · 49 complete drafts · 2 in revision · 47 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 48 author projects · 45 released · 3 public drafts/proofs**
-> **Where they live: 48 in both Desk + Shelf · 49 Desk-only · 0 Shelf-only**
-> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 48 in both Desk + Shelf · 50 Desk-only · 0 Shelf-only**
+> **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -68,7 +68,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Pace of Change](books/pace-of-change/), [Robust](books/robust/), [Solar Century](books/solar-century/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [Pace of Change](books/pace-of-change/), [Robust](books/robust/), [Solar Century](books/solar-century/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/), [This Tech Is Different](books/this-tech-is-different/), [Unmoored](books/unmoored/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -177,6 +177,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Traces**](books/traces/) | ✍️ Drafting | 20 of 24 | 47,232 | The central thesis of Traces is that the next stage of machine understanding will become increasingly temporal and forensic. | [Read →](https://svyable.github.io/desk/reader/#/b/traces/) |
 | [**Triumph of the Commons**](books/triumph-of-the-commons/) | ✅ Complete draft | 20 of 20 | 71,461 | The central thesis is that artificial intelligence changes the economics of helping. | [Read →](https://svyable.github.io/desk/reader/#/b/triumph-of-the-commons/) |
 | [**Ubiquitous**](books/ubiquitous/) | ✅ Complete draft | 20 of 20 | 70,511 | The book argues against both easy refuges: one narrow vertical expertise is increasingly callable inside model-and-tool harnesses, but “work with your hands” is not a blanket defense either. | [Read →](https://svyable.github.io/desk/reader/#/b/ubiquitous/) |
+| [**Unmoored**](books/unmoored/) | ✅ Complete first draft | 20 of 20 | 69,000 | Unmoored asks what happens when superior intelligence gives the better moral answer: how to give epistemic superiority its due without allowing prediction, consistency, and usefulness to become moral or political authority by default. | [Read →](https://svyable.github.io/desk/reader/#/b/unmoored/) |
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | 25 of 25 | 72,408 | This book grows out of the public research program in Svyable/quantum-energy. | [Read →](https://svyable.github.io/desk/reader/#/b/useful-noise/) |
 | [**Vectors**](books/vectors/) | ✍️ Drafting | 10 of 25 | 26,767 | The working thesis is that vectors are becoming one of the hidden primitives of modern life. | [Read →](https://svyable.github.io/desk/reader/#/b/vectors/) |
 | [**Vibecariously**](books/vibecariously/) | ✍️ Drafting — full structural draft; expansion and citation pass in progress | 21 of 21 | 58,862 | Generative AI changes imagination less by replacing an internal human faculty than by collapsing the distance between an internal possibility and an external representation. | [Read →](https://svyable.github.io/desk/reader/#/b/vibecariously/) |
