@@ -35,7 +35,8 @@ check(() => assert.doesNotMatch(css, /\.page-inner\s*\{/));
 
 check(() => assert.match(adapter, /\/reader\\\/css\\\/settings-panel\\\.css/));
 check(() => assert.match(adapter, /shared\.insertAdjacentElement\('afterend', local\)/));
-check(() => assert.match(adapter, /new MutationObserver\(keepDeskStylesAfterShared\)/));
+check(() => assert.match(adapter, /new MutationObserver\(\(\) =>/));
+check(() => assert.match(adapter, /observer\.disconnect\(\)/));
 check(() => assert.match(adapter, /data\.bookselfPromotion = 'reading-app-gui-292'/));
 check(() => assert.doesNotMatch(adapter, /addEventListener\(['"]click/));
 
@@ -44,4 +45,4 @@ check(() => assert.match(loader, /Desk reading-app hierarchy could not be loaded
 check(() => assert.match(index, /id="viewModeBtn"/));
 check(() => assert.match(index, /id="settingsPanel"/));
 
-console.log(`Desk reading-app promotion contract: ${assertions}/29 assertions passed`);
+console.log(`Desk reading-app promotion contract: ${assertions}/30 assertions passed`);
