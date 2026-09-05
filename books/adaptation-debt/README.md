@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 12 of 20 drafted |
+| **Chapters**  | 16 of 20 drafted |
 
 *How Yesterday's Success Becomes Tomorrow's Constraint*
 
@@ -61,13 +61,13 @@ The question is when the constraint still earns its keep.
 - [x] [Ch 10 — The Meeting Where Nobody Disagrees](manuscript/ch10-the-meeting-where-nobody-disagrees.md)
 - [x] [Ch 11 — Cannibalize What, Exactly?](manuscript/ch11-cannibalize-what-exactly.md)
 - [x] [Ch 12 — Parallel Systems](manuscript/ch12-parallel-systems.md)
+- [x] [Ch 13 — The Identity Write-Down](manuscript/ch13-the-identity-write-down.md)
+- [x] [Ch 14 — Too Early Is Expensive Too](manuscript/ch14-too-early-is-expensive-too.md)
+- [x] [Ch 15 — Small Write-Downs](manuscript/ch15-small-write-downs.md)
+- [x] [Ch 16 — Option Value Inside the Firm](manuscript/ch16-option-value-inside-the-firm.md)
 
 ## Planned chapters
 
-13. The Identity Write-Down
-14. Too Early Is Expensive Too
-15. Small Write-Downs
-16. Option Value Inside the Firm
 17. The Sunset With a Date
 18. Promote the Heretic, Keep the Historian
 19. The Adaptation Balance Sheet
