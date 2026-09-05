@@ -2,16 +2,15 @@
 
 ## Decision — September 5, 2026
 
-**Release-cleared subject to explicitly enumerated mechanical gates.**
+**Remain blocked pending manuscript-length remediation.**
 
-No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in this bounded review. The canonical Desk project is a `Complete expanded draft` with 28 of 28 numbered chapters, front matter, back matter, a research brief, chapter-source map, source ledger, falsification notes, `RIGHTS.md`, and `rights.json`.
+The bounded factual, research, rights, matter, novelty, and editorial review remains clear. The canonical Desk project is a `Complete expanded draft` with 28 of 28 numbered chapters, front matter, back matter, a research brief, chapter-source map, source ledger, falsification notes, `RIGHTS.md`, and `rights.json`.
 
-Before a first Shelf snapshot, the frozen Desk source must still pass:
+The first mechanical gate has now produced a concrete failure on frozen Desk source `289afe4806c412c3fb43795afe13c59c7f3a1475`: `books/bookself/manuscript/ch14-the-unfinished-mind.md` contains **1,758 words** under the exact `scripts/check-book-length.py` token regex, below the repository floor of **3,000 words per numbered chapter**. The decoded file is 11,263 bytes and matches canonical blob `24a9aa9b2b9581d9e38c938f8b76c6da29d300b3`, so this is not an extraction or stale-source mismatch.
 
-1. `python3 scripts/check-book-length.py bookself` — require `healthy: true`, every numbered chapter at or above the repository floor, and the required chapter-only total.
-2. `python3 scripts/check-desk.py` — require a clean exit with root catalog, Reader paths, feedback picker, discovery surfaces, status/progress classification, and compatibility guards in agreement.
+Because one below-floor numbered chapter is sufficient for `healthy: false`, Bookself is not eligible for a first Shelf snapshot from this frozen source. Do not solve this in publication bookkeeping. The remediation is substantive Desk manuscript work: deepen below-floor chapters coherently, then rerun the complete length checker and require every numbered chapter to clear 3,000 words and the numbered-chapter total to clear 65,000 words. Only after that passes should `python3 scripts/check-desk.py` be treated as the final repository-integrity gate.
 
-If either command fails, do not release; record the precise mechanical failure and remediate it on Desk before reconsidering publication. If both pass on a frozen source that still matches this reviewed package, this artifact requires no additional human-review gate.
+No additional human-review gate is introduced. After substantive length remediation, re-read the changed prose against the factual/research boundaries below before restoring release clearance.
 
 ## Package reviewed
 
@@ -50,7 +49,7 @@ The book’s strongest contribution is the synthesis that action can create iden
 
 The final section materially improves the publication boundary by addressing who can afford a first try, who institutions permit to be a beginner, and when beginnings create non-reversible obligations. Publication copy should preserve those constraints rather than flattening the book into generic “just start” advice.
 
-No manuscript prose change is required by this review.
+The original bounded review required no manuscript prose change for factual/editorial reasons. The newly demonstrated repository length failure now requires substantive depth work before release; that work must preserve these boundaries rather than padding mechanically.
 
 ## Final checklist
 
@@ -61,7 +60,9 @@ No manuscript prose change is required by this review.
 - [x] Source ledger is present and identifies bounded uses for the scholarly sources.
 - [x] Falsification notes preserve material counterclaims and alternative explanations.
 - [x] `RIGHTS.md` and `rights.json` are present and coherent.
-- [x] No unresolved factual, research, rights, matter, novelty, or editorial blocker was found.
+- [x] No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in the reviewed prose.
 - [x] No volatile current-data claim in the reviewed evidence packet requires a separate first-release refresh.
-- [ ] Run `python3 scripts/check-book-length.py bookself` on the frozen Desk source and require a pass.
-- [ ] Run `python3 scripts/check-desk.py` on the same frozen Desk source and require a pass.
+- [x] Reproduced the length-check tokenization on canonical Chapter 14 at frozen source `289afe4806c412c3fb43795afe13c59c7f3a1475`: 1,758 words; **fails** the 3,000-word chapter floor.
+- [ ] Deepen every below-floor numbered chapter on Desk without padding or weakening the evidence boundaries.
+- [ ] Rerun `python3 scripts/check-book-length.py bookself` on the remediated frozen Desk source and require `healthy: true`.
+- [ ] Run `python3 scripts/check-desk.py` on that same passing frozen Desk source and require a clean exit.
