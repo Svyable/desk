@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 1 of 18 drafted + prologue |
+| **Chapters** | 4 of 18 drafted + prologue |
 | **Edition** | First field edition candidate |
 | **Language** | English |
 
@@ -23,9 +23,9 @@ The first field edition publishes the argument and opening research path while t
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Prologue — The Seating Chart](manuscript/prologue-the-seating-chart.md)
 - [x] [Ch 1 — The Map That Misleads](manuscript/ch01-the-map-that-misleads.md)
-- [ ] [Ch 2 — Alignment by Issue](manuscript/ch02-alignment-by-issue.md)
-- [ ] [Ch 3 — The Sources of Leverage](manuscript/ch03-the-sources-of-leverage.md)
-- [ ] [Ch 4 — India and the Refusal to Be Recruited](manuscript/ch04-india-and-the-refusal-to-be-recruited.md)
+- [x] [Ch 2 — Alignment by Issue](manuscript/ch02-alignment-by-issue.md)
+- [x] [Ch 3 — The Sources of Leverage](manuscript/ch03-the-sources-of-leverage.md)
+- [x] [Ch 4 — India and the Refusal to Be Recruited](manuscript/ch04-india-and-the-refusal-to-be-recruited.md)
 - [ ] [Ch 5 — The Gulf as a Capital Power](manuscript/ch05-the-gulf-as-a-capital-power.md)
 - [ ] [Ch 6 — Indonesia and the Maritime Middle](manuscript/ch06-indonesia-and-the-maritime-middle.md)
 - [ ] [Ch 7 — Turkey at the Hinge](manuscript/ch07-turkey-at-the-hinge.md)
