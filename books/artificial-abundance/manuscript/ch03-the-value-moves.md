@@ -44,6 +44,18 @@ Those defects are part of the product.
 
 The event is scarce because it happens once, in one place, among a finite group of people. The recording can be reproduced. The night cannot.
 
+It is tempting to turn this into a neat law: recorded music gets cheap, therefore live music becomes more valuable.
+
+The evidence is less tidy and more useful.
+
+Julie Holland Mortimer, Chris Nosko, and Alan Sorensen studied the period when file sharing sharply reduced the effective scarcity of recorded music. They found evidence that file sharing reduced album sales while increasing live-performance revenue for smaller artists, plausibly because wider exposure helped listeners discover them. For large, already well-known artists, the live-revenue effect was negligible.
+
+The complement existed, but it did not compensate everyone in the same way.
+
+This is exactly the kind of detail a theory of value migration needs.
+
+Cheap distribution can increase the value of an adjacent scarce experience for some producers without creating a universal replacement profit pool. Discovery matters more to an unknown band than to an artist who already has an audience. A complement can grow while the original market still loses revenue. The people who benefit from the migration need not be the people who lost the old scarcity.
+
 This does not prove that every digital abundance creates a premium for the physical world. It shows a recurring economic move: when one layer becomes easy to reproduce, value can migrate toward a layer that remains difficult to reproduce.
 
 That layer may sit upstream.
@@ -79,6 +91,52 @@ Brands that could reliably attract an audience gained power.
 Individuals who could hold attention gained power.
 
 The scarce asset moved from the ability to place information into the world toward the ability to route attention through an overfull world.
+
+But the newspaper business offers a warning against making migration sound too comforting.
+
+Classified advertising used to be a remarkably profitable companion to printed news. A local newspaper did not merely sell reporting. It bundled reporting, distribution, local attention, and a marketplace for jobs, apartments, cars, services, and used furniture. The physical newspaper was valuable partly because so many buyers and sellers were already looking at the same pages.
+
+The internet unbundled that marketplace.
+
+By 2000, U.S. newspaper classified advertising generated about $19.6 billion. By 2010, according to Newspaper Association of America figures collected by the Federal Communications Commission, the total had fallen to about $5.6 billion. The recession mattered. Employment and housing collapsed during part of that decade. But the FCC also documented the migration of categories toward specialized online services and Craigslist, where many listings could be posted at little or no cost.
+
+The old scarcity was not merely printing capacity.
+
+It was the newspaper's control of a local matching market.
+
+Once buyers and sellers could find each other elsewhere, a lucrative complement to journalism moved away from the institution that had funded journalism with it.
+
+This is value migration without conservation.
+
+The newspaper still had reporters. It still had a brand. It still had local knowledge. It could publish more cheaply online than it could deliver newsprint to every doorstep.
+
+Yet one of the businesses that had paid for all of those things was being dismantled by abundance in a neighboring layer.
+
+The lost profit did not obediently reappear inside the newsroom under a new name.
+
+Some of it became consumer surplus from cheaper listings. Some became revenue for search, specialty marketplaces, and digital advertising platforms. Some vanished in the recession. Some became businesses that did not need journalism at all.
+
+A society can gain a cheaper matching market while a newspaper loses the cross-subsidy that supported local reporting.
+
+Both statements can be true at once.
+
+That is why the phrase value moves should not be heard as money moves neatly from one pocket to another.
+
+Value creation can increase while value capture changes radically.
+
+A formerly bundled product can split into pieces with very different economics.
+
+A complement can become the core business.
+
+A former core business can become a loss leader.
+
+The user can gain while the incumbent fails.
+
+The incumbent can gain productivity while losing pricing power.
+
+A new intermediary can capture value without producing the thing that first created the market.
+
+Abundance changes bargaining positions because it changes which layer can still say no.
 
 Artificial intelligence pushes the same dynamic deeper into production.
 
@@ -152,6 +210,20 @@ The ability to produce is only one layer of an economy.
 
 Once production gets easier, the other layers become easier to see.
 
+This does not mean every complementary layer becomes a monopoly.
+
+A bottleneck can attract investment precisely because it is profitable. New distributors appear. Verification tools improve. Standards make data portable. Open-source systems reduce dependence on one provider. Competitors attack the layer earning the easiest rent.
+
+Scarcity invites supply.
+
+The timing matters.
+
+A complement can be extraordinarily valuable during the period after one bottleneck collapses and before another layer adapts. That period may last weeks in software and decades in infrastructure. A company can build a fortune inside a temporary mismatch even if competition eventually erodes it.
+
+The value map is dynamic.
+
+Artificial intelligence can move the bottleneck twice before an organization has finished reorganizing around the first move.
+
 This has strategic consequences for companies.
 
 A firm should be suspicious of any advantage described primarily as "we can generate this now" when competitors can buy the same capability.
@@ -180,6 +252,16 @@ The ability to verify the result cheaply?
 
 The important asset may be whatever the model cannot commoditize because it exists outside the model.
 
+But even that answer needs another question.
+
+For how long?
+
+A proprietary workflow can become a product category. A verification service can be automated. A brand can be damaged. A regulatory license can become less valuable when rules change. A physical network can be bypassed. A dataset can decay. A distribution advantage can disappear when users migrate to a new interface.
+
+The scarce complement is not a permanent refuge.
+
+It is the current constraint.
+
 This can sound like a comforting defense of incumbents: do not worry, something will remain scarce. That is not the point.
 
 Sometimes the migrating value is smaller than the value that disappeared.
@@ -189,6 +271,20 @@ A newspaper can lose an enormously profitable classified-ad business and gain a 
 Migration is not conservation.
 
 The old profit pool does not have to reappear somewhere else at the same size.
+
+Nor does the old employment pool.
+
+A technology can make a service cheaper, increase total consumption of the service, and still reduce the number of people needed to produce it. Another technology can lower the price of one component and increase demand for workers in a complement. Aggregate employment is the result of many such movements, not an automatic corollary of productivity.
+
+The same caution applies to status.
+
+If a skill becomes easier to perform, the social prestige attached to displaying that skill may fall even when society gets more of the underlying benefit. Another skill may acquire status because it remains difficult to fake. Or status may detach from usefulness entirely and move toward visible scarcity: the handmade, the live, the inaccessible, the deliberately inefficient.
+
+Economic value and symbolic value can migrate in different directions.
+
+That distinction will matter later in the book.
+
+For now, the method is enough.
 
 What does persist is the need to ask where the next constraint lies.
 
