@@ -4,7 +4,7 @@
 
 **Claim.** Homeowners insurance is part of the financing architecture of housing, not an optional accessory after purchase; declining affordability or availability can affect mortgageability and household balance sheets before physical loss occurs.
 
-**Evidence anchors.** S01, S02, S03, S04.
+**Evidence anchors.** S01, S02, S03, S04, S35.
 
 **Counterevidence / caution.** Many homeowners still obtain ordinary coverage, and insurance pressure is geographically uneven. A premium increase can reflect rebuilding costs, litigation, market structure or portfolio management as well as physical hazard.
 
@@ -164,7 +164,7 @@
 
 **Claim.** Premium debates combine three different questions—what risk costs, what households can afford and what society wants to subsidize—and policy becomes clearer when those questions are separated.
 
-**Evidence anchors.** S01, S02, S05, S08, S24.
+**Evidence anchors.** S01, S02, S05, S08, S24, S36.
 
 **Counterevidence / caution.** Separating subsidy from price can be administratively difficult and may not protect households from sudden asset repricing.
 
@@ -214,7 +214,7 @@
 
 **Claim.** Insurance remains valuable not because every risk is privately insurable but because it creates a layered discipline for deciding what households retain, what private pools carry, what global capital absorbs and what the state ultimately guarantees.
 
-**Evidence anchors.** S01-S34 as synthesis.
+**Evidence anchors.** S01-S36 as synthesis.
 
 **Counterevidence / caution.** Insurance can become extractive, opaque or politically distorted; the institution should not be treated as a neutral oracle or substitute for regulation, prevention, redistribution or public investment.
 
