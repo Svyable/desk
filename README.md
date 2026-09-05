@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 103 book projects · 52 complete drafts · 2 in revision · 49 drafting**
+> **Desk: 104 book projects · 52 complete drafts · 2 in revision · 50 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 51 author projects · 48 released · 3 public drafts/proofs**
-> **Where they live: 51 in both Desk + Shelf · 52 Desk-only · 0 Shelf-only**
+> **Where they live: 51 in both Desk + Shelf · 53 Desk-only · 0 Shelf-only**
 > **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -125,7 +125,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Pace of Change**](books/pace-of-change/) | ✅ Complete first draft | 20 of 20 | 67,000 | The book does not argue that faster is bad or slower is wise. It argues for temporal fit: matching the rate of change to the rate at which the surrounding system can still learn and recover. | [Read →](https://svyable.github.io/desk/reader/#/b/pace-of-change/) |
 | [**Predictable**](books/predictable/) | ✍️ Drafting | 12 of 12 | 28,051 | The working thesis is that societies repeatedly make the same mistake around transformative technologies: they correctly recognize that something important has arrived, then misprice how… | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 of 29 | 67,065 | The book argues that the resulting scarcity is not content, which has never been more abundant, but verifiable authenticity: proof of where a piece of media came from, and proof that a… | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
-| [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 of 23 | 81,215 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
+| [**Public Pressure**](books/public-pressure/) | ✍️ Drafting | 23 of 23 | 81,215 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | 85,169 | The book begins with the historical purpose of public works and the changing economics of intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right to Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,967 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
 | [**Robust**](books/robust/) | ✅ Complete draft | 31 of 31 | 66,938 | The book’s central claim is that robustness is not resistance to change. | [Read →](https://svyable.github.io/desk/reader/#/b/robust/) |
@@ -146,6 +146,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Cancer Key**](books/the-cancer-key/) | ✅ Complete draft | 28 of 28 | 91,996 | The title is a provocation rather than a medical claim. The manuscript begins with the August 2026 positive Phase 3 topline result for Merck and Moderna's individualized neoantigen therapy… | [Read →](https://svyable.github.io/desk/reader/#/b/the-cancer-key/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | 30 / 30 | 25,503 | During internal cybersecurity evaluations in 2026, OpenAI agents found unauthorized ways to communicate, pooled work across supposedly isolated runs, researched how to manipulate an… | [Read →](https://svyable.github.io/desk/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✅ Complete draft · Published on Shelf | 21 of 21 + coda | 65,239 | The working thesis is that standards are compressed coordination: shared rules at carefully chosen seams let strangers make complementary decisions without bilateral negotiation. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
+| [**The Confidence Republic**](books/the-confidence-republic/) | ✍️ Drafting | 5 of 25 | — | Twenty-five decades. Twenty-five scams. One country built on the dangerous and productive idea that strangers can trust one another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-confidence-republic/) |
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,206 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | Front matter, 25 of 25 chapters, back matter | 33,623 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
