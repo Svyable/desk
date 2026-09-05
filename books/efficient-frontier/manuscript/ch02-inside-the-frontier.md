@@ -167,3 +167,43 @@ Good operators learn to ask all three. They do not waste invention on a problem 
 The first frontier skill is therefore not sophistication.
 
 It is the ability to recognize when you are paying for nothing.
+
+There is a less visible form of interior waste that appears when two parties could both be better off but coordination fails. A customer wants a lower price, a supplier wants more predictable demand, and a longer commitment could produce both. Two departments each maintain separate data pipelines because nobody owns a shared interface. Two hospitals each hold expensive spare capacity because a regional sharing agreement does not exist. The dominated point survives not because the better point is technically impossible but because the bargain required to reach it is institutionally unavailable.
+
+This is a Coasean kind of lesson without assuming away transaction costs. Potential mutual gain does not execute itself. Search, negotiation, trust, contracting, measurement, enforcement, and politics can consume the surplus before anyone captures it.
+
+The frontier can therefore sit inside the theoretical frontier because coordination is part of feasibility.
+
+This is important in mergers, partnerships, standards, labor agreements, and household decisions. People can agree that a better arrangement exists and still fail to reach it because the path distributes risk unevenly. One side may have to move first. One side may fear renegotiation after making an investment. One side may not trust the other's information. A change can be Pareto-improving in the final state and still be blocked by an unsafe transition.
+
+The improvement project then becomes a design problem around commitment.
+
+Escrow, guarantees, staged contracts, shared savings, service-level agreements, trials, and reversible pilots are all ways of making a mutually better point actually feasible. The idea is not that every conflict has a clever contract. It is that some apparent tradeoffs are really failures to coordinate the move.
+
+There is also waste created by queues.
+
+A system can have enough total capacity and still deliver poor service because variability and scheduling interact badly. A clinic can have enough clinician hours in aggregate and still create long waits at peaks. A restaurant can have enough kitchen capacity on average and still fail when orders arrive together. A computer service can have enough processing power over the day and still time out during bursts.
+
+Average capacity is not feasible capacity when arrivals are uneven and buffers are tight.
+
+This is why high utilization is not automatically efficient. Near saturation, waiting can rise sharply. A manager who pushes utilization from ninety percent to ninety-eight percent may appear to use resources better while imposing enormous delay on everyone who needs the resource. The system has moved outward on one axis and inward on another.
+
+Slack can be a frontier resource rather than waste.
+
+That conclusion should not become a blanket defense of idle capacity. Some systems carry slack because forecasting is poor, processes are undisciplined, or political ownership prevents reallocation. The useful distinction is between slack that absorbs variability and slack that serves no material function.
+
+This is another reason an interior audit needs mechanism. If you remove the idle-looking capacity, what failure mode gets worse? If the answer is none under realistic demand, it may be waste. If the answer is queue explosion during ordinary variability, the capacity was buying responsiveness.
+
+Interior improvement is often less about squeezing harder than about understanding why the system needs the resources it appears not to use.
+
+Finally, dominated choices can persist because the person who pays for the move is not the person who receives the gain. A landlord may have little incentive to install efficient equipment when tenants pay utilities. A department may resist automation if its budget shrinks when productivity rises. A worker may not suggest a process improvement if the reward is a higher quota and fewer colleagues. A supplier may not invest in quality if the buyer captures the savings and can switch immediately afterward.
+
+The system can know the better point and still reward everyone for staying inside the frontier.
+
+That is an incentive-design problem.
+
+When repeated waste survives smart people and visible evidence, ask who would lose from removing it. The answer may explain more than another training session.
+
+A true move toward the frontier usually needs three things to line up: the better point must be real, the path to it must be feasible, and the people who control the path must have a reason to take it.
+
+Leave out any one and waste can become surprisingly durable.

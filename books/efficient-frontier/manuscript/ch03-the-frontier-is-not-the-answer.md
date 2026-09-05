@@ -185,3 +185,33 @@ A model can sometimes show that an option everybody hates is dominated.
 Then somebody still has to choose.
 
 That choice should not be treated as the failure of optimization. It is the moment the real objective function walks into the room.
+
+Preference itself can be structured more carefully than a single set of weights. One useful distinction is between compensatory and noncompensatory preferences. In a compensatory model, enough gain on one objective can make up for loss on another. In a noncompensatory rule, some losses cannot be bought off that way. A product may be unacceptable if it violates a privacy floor no matter how fast it is. A job may be unacceptable if it requires a move the household has ruled out. An investment may be unacceptable if it creates a liquidity risk beyond a defined limit.
+
+The distinction matters because weighted scores are compensatory by construction. Give a criterion a finite weight and another criterion can eventually overpower it. That is not always what the decision maker means.
+
+Threshold models often match real judgment better. First remove options that fail the minimum. Then compare the survivors. This is how many safety, legal, credit, and engineering decisions already work. The constraint defines admissibility; preference operates inside the admissible region.
+
+There is also lexicographic preference, where one objective receives priority until a condition is met and only then does another matter. A family may say, "We need to remain within one hour of this caregiver; among those options, we prefer the best school fit." A company may say, "The product must meet this security standard; among compliant designs, optimize user experience and cost." The ordering is explicit rather than hidden inside a score.
+
+These approaches do not remove judgment. They make its structure visible.
+
+That visibility is valuable during disagreement. Two people can appear to have different weights when one of them actually has a threshold. The first says, "I value cost at thirty percent." The second says, "Below this reliability level I will not ship at any price." No compromise over weights will settle the argument because the preference models differ.
+
+Naming the form of preference can end a surprisingly large amount of circular debate.
+
+Preference can also be contingent on state. A company may prefer growth in normal conditions and liquidity during a financing shock. A household may prefer higher-return assets while employed and more cash during a career transition. A public system may prioritize throughput under ordinary demand and equity of access during emergency rationing.
+
+The same decision maker can rationally choose different frontier points when the state changes.
+
+This is why policies and playbooks can be useful. They precommit to different preferences under defined conditions. A risk limit tightens when volatility rises. A disaster plan reallocates resources when surge thresholds are crossed. A company preserves a cash floor and becomes more aggressive above it.
+
+The preference is not inconsistent. It is conditional.
+
+Finally, some decisions are collective and cannot be represented faithfully as one utility function without losing the conflict that matters. A board, family, partnership, electorate, or community contains several people whose frontier points differ. Aggregating them into one score is a governance choice in itself.
+
+Majority vote, unanimity, veto rights, delegated authority, bargaining, compensation, and constitutional constraints are different ways of turning multiple preferences into action. Each has its own frontier between speed, legitimacy, minority protection, accountability, and decisiveness.
+
+This is why the phrase "the organization prefers" should be used carefully. Organizations choose. The preference behind the choice may be delegated, negotiated, imposed, inherited, or averaged.
+
+The frontier can clarify the substance of the trade. Governance decides how a group is allowed to own it.
