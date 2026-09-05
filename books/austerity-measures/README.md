@@ -15,7 +15,6 @@ Artificial intelligence can make public administration dramatically cheaper. The
 
 ## Contents
 
-
 - [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Spreadsheet Improves First](manuscript/ch01-the-spreadsheet-improves-first.md)
 - [x] [Ch 2 — The Asset the Ledger Cannot See](manuscript/ch02-the-asset-the-ledger-cannot-see.md)
