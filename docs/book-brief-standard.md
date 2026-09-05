@@ -29,6 +29,28 @@ memory.
   `llms.txt`, `sitemap.xml`, `index.html`, and the `Book` dropdown in
   `.github/ISSUE_TEMPLATE/chapter-feedback.yml`.
 
+## Validate the length mechanically
+
+For a complete one-shot draft, run:
+
+```bash
+python3 scripts/check-book-length.py <book-slug>
+```
+
+The checker uses the same word-token regex as the Desk catalog, counts only
+chapter files named like `ch01-title.md`, and excludes front matter, back
+matter, research notes, and other manuscript Markdown by construction. It
+fails if the book has fewer than 18 chapters, any chapter is below 3,000
+words, or the chapter-only total is below 65,000 words. It also reports how
+many chapters land in the 3,500–4,500 editorial target band without treating
+that preferred range as a hard global failure condition.
+
+Use `--json` when the result needs to feed another automation. This validator
+is intentionally opt-in per book rather than part of the global Desk check,
+because the repository also contains shorter, partial, legacy, and
+experimental manuscripts that are not governed by the one-shot full-book
+standard.
+
 ## Why the bar is this high
 
 The existing complete drafts in this Binder that were written incrementally
