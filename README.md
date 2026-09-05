@@ -9,13 +9,13 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 97 book projects · 48 complete drafts · 2 in revision · 47 drafting**
+> **Desk: 103 book projects · 53 complete drafts · 2 in revision · 48 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 51 author projects · 48 released · 3 public drafts/proofs**
-> **Where they live: 51 in both Desk + Shelf · 46 Desk-only · 0 Shelf-only**
-> **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 51 in both Desk + Shelf · 52 Desk-only · 0 Shelf-only**
+> **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -72,7 +72,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Neuralase](books/neuralase/), [The Alliance Advantage](books/the-alliance-advantage/), [The Expiration Machine](books/the-expiration-machine/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Taiwan Threshold](books/the-taiwan-threshold/), [The Unobserved World](books/the-unobserved-world/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -96,7 +96,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | 20 of 20 | 62,231 | The book treats intelligence as an allocatable resource rather than a magical property. | [Read →](https://svyable.github.io/desk/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | 18 of 18 | 44,612 | America often separates the person saying yes from the full economic price of the decision. | [Read →](https://svyable.github.io/desk/reader/#/b/americas-got-a-spending-problem/) |
 | [**Appeal**](books/appeal/) | ✅ Complete draft | Front matter, prologue, epilogue, back matter; 26 of 26 chapters | 58,787 | The central thesis is that as software and artificial intelligence make first decisions cheaper, faster, and more numerous, the scarce institutional resource becomes the second decision… | [Read →](https://svyable.github.io/desk/reader/#/b/appeal/) |
-| [**Artificial Abundance**](books/artificial-abundance/) | ✍️ Drafting | 8 of 24 | 17,331 | The working thesis is that artificial intelligence does more than increase the supply of useful cognitive work. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-abundance/) |
+| [**Artificial Abundance**](books/artificial-abundance/) | ✍️ Drafting | 24 of 24 | — | The working thesis is that artificial intelligence does more than increase the supply of useful cognitive work. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-abundance/) |
 | [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | 4 of 24 | 13,463 | The central argument is that identity is crossing a threshold from description to execution. | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-identity/) |
 | [**Artificial Promises**](books/artificial-promises/) | ✍️ Drafting | 5 of 24 | 13,065 | 6. The Date on the Slide 7. Almost Ready 8. The Demo 9. The Road Map Becomes a Contract 10. The Founder as Chief Believer 11. Bad News Has a Price 12. The Loyalty Test 13. The Information… | [Read →](https://svyable.github.io/desk/reader/#/b/artificial-promises/) |
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 48,122 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
@@ -185,6 +185,12 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Vectors**](books/vectors/) | ✍️ Drafting | 10 of 25 | 26,767 | The working thesis is that vectors are becoming one of the hidden primitives of modern life. | [Read →](https://svyable.github.io/desk/reader/#/b/vectors/) |
 | [**Vibecariously**](books/vibecariously/) | ✍️ Drafting — full structural draft; expansion and citation pass in progress | 21 of 21 | 58,862 | Generative AI changes imagination less by replacing an internal human faculty than by collapsing the distance between an internal possibility and an external representation. | [Read →](https://svyable.github.io/desk/reader/#/b/vibecariously/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | 20 / 20 | 63,911 | This Desk copy remains the canonical working edition. The first Shelf edition was released on September 2, 2026 from Desk commit 47f7151f2bdd5809d92a57bcd95fa9a723150804; its public author… | [Read →](https://svyable.github.io/desk/reader/#/b/wild-speculation/) |
+| [**The Alliance Advantage**](books/the-alliance-advantage/) | ✅ Complete draft | 18 of 18 + prologue | — | Alliances create durable power when political promises become interoperable systems across data, models, communications, logistics, standards, and people. | [Read →](https://svyable.github.io/desk/reader/#/b/the-alliance-advantage/) |
+| [**The Hunger Switch**](books/the-hunger-switch/) | ✍️ Drafting | 20 of 20 + prologue + epilogue + back matter | 65,988 | Narrative nonfiction about the GLP-1 obesity-drug era, held as both an evidence-backed medical breakthrough and a scarcity-driven commercial transformation with uneven costs. | [Read →](https://svyable.github.io/desk/reader/#/b/the-hunger-switch/) |
+| [**The Last Human Channel**](books/the-last-human-channel/) | ✅ Complete draft | 18 of 18 + prologue | — | AI makes many supporting functions of statecraft abundant while making trusted human judgment, authentication, attention, and authorized intent more strategically valuable. | [Read →](https://svyable.github.io/desk/reader/#/b/the-last-human-channel/) |
+| [**The Taiwan Threshold**](books/the-taiwan-threshold/) | ✅ Complete draft | 18 of 18 + prologue | — | The dangerous path to a Taiwan conflict may be a sequence of coercive gray-zone moves whose cumulative effects make escalation easier and off-ramps harder to see. | [Read →](https://svyable.github.io/desk/reader/#/b/the-taiwan-threshold/) |
+| [**The Warning Problem**](books/the-warning-problem/) | ✅ Complete draft | 18 of 18 + prologue | — | AI can improve nuclear warning while also making the most dangerous decision environment faster, more complex, and more vulnerable to false confidence. | [Read →](https://svyable.github.io/desk/reader/#/b/the-warning-problem/) |
+| [**The World Won’t Choose Sides**](books/the-world-wont-choose-sides/) | ✅ Complete draft | 18 of 18 + prologue | — | The book argues that selective alignment by pivotal middle powers can matter more than a clean division into permanent American and Chinese blocs. | [Read →](https://svyable.github.io/desk/reader/#/b/the-world-wont-choose-sides/) |
 <!-- DESK_CATALOG:END -->
 
 ### Keep the dashboard honest
