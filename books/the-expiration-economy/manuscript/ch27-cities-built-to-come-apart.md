@@ -289,3 +289,29 @@ The strongest buildings may be the ones that make room for their own alteration.
 The strongest infrastructure may be the infrastructure whose next state was considered before its first state was celebrated.
 
 And the most durable city may be the one that does not confuse durability with refusal to change.
+
+The abstract design argument already has a literal counterpart. The U.S. Environmental Protection Agency’s guidance on construction and demolition materials recommends designing buildings for adaptability, disassembly, and reuse. The details are almost aggressively practical: preserve as-built information, use modular components where appropriate, keep connections visible and accessible, prefer fasteners that can be undone, and plan for workers who will eventually repair or take the building apart.
+
+Those recommendations matter because they turn “future flexibility” from a slogan into physical geometry. A connection hidden behind irreversible finishes is not merely inconvenient. It is a decision to make the next intervention more destructive. A component that can be unbolted carries a different future than one permanently bonded into a composite assembly. Documentation that stays with the asset is not clerical residue. It is part of the building’s ability to change state.
+
+The same EPA guidance also supplies the necessary brake. Complete deconstruction is not always feasible. Some buildings are poorly suited to recovery. Structural condition, hazardous materials, construction type, time, labor, and the resale value of recovered components all matter. Partial deconstruction or conventional demolition may be the rational choice. An expiration-aware city does not worship salvage. It preserves the ability to choose intelligently among reuse, partial recovery, and destruction.
+
+This makes deconstruction a useful counterexample to the fantasy that reversibility can be added later. Buildings not designed to come apart can sometimes still be carefully dismantled, but the work is harder because the original construction optimized another objective. The exit still exists; it is simply more expensive.
+
+That is the economic heart of design for endings. The cost of optionality is often visible at birth, while the value of optionality appears years later under conditions nobody can predict. A bolt can look less elegant than an adhesive. An accessible service chase can look like wasted floor area. A standard component can look less optimized than a bespoke one. The future option loses easily when the budget compares only today’s efficiency.
+
+The counterargument deserves equal weight. Design for disassembly can become its own ideology. Extra joints can create failure points. Modularity can increase material use. Accessible systems can consume space. A building that tries to accommodate every imaginable future can become mediocre in the present. The option to change has value only when its cost is proportionate to the uncertainty it addresses.
+
+So the robust version of the principle is not “everything should come apart.”
+
+It is that long-lived assets should reveal which parts are expected to change sooner than others, and the design should avoid making those unequal lifetimes unnecessarily hostage to one another.
+
+A century-scale structure may rationally contain twenty-year equipment. A fifty-year utility corridor may rationally contain five-year digital controls. The design failure is not the mismatch. The failure is pretending there is no mismatch until replacement day arrives.
+
+A city that understands expiration therefore carries time in its architecture. Some layers are intended to persist. Some are expected to turn over. Some are deliberately recoverable. Some are sacrificed. Some are documented because nobody expects the original builders to be present when the next decision is made.
+
+That is a more demanding idea of durability than mere survival.
+
+Survival asks whether the thing is still standing.
+
+Durability asks whether the thing can remain useful while its parts, purposes, and stewards change.
