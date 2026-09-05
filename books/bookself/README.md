@@ -7,6 +7,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 28 of 28 drafted |
+| **Release Review** | Release-cleared subject to mechanical gates; see [research/release-review.md](research/release-review.md) |
 
 *The Story of Getting Started*
 
@@ -70,6 +71,7 @@ This is not a celebration of starting everything. The manuscript gives equal wei
 - [Chapter-source map](research/chapter-source-map.md)
 - [Source ledger](research/source-ledger.csv)
 - [Falsification notes](research/falsification-notes.md)
+- [Release review](research/release-review.md)
 
 ## Editorial principles
 
