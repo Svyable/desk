@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 9 of 20 drafted |
+| **Chapters** | 12 of 20 drafted |
 | **Method** | Narrative science + operational definitions + falsification notes |
 
 The universe already contains systems that remember, correct, allocate, adapt, and solve without knowing that they do. We know this because Earth is in the universe.
@@ -33,9 +33,9 @@ This is not a claim that planets are conscious, that slime molds secretly think 
 - [x] [Chapter 7 — Memory Without a Mind](manuscript/ch07-memory-without-a-mind.md)
 - [x] [Chapter 8 — Goals Without a Ghost](manuscript/ch08-goals-without-a-ghost.md)
 - [x] [Chapter 9 — When Matter Keeps Score](manuscript/ch09-when-matter-keeps-score.md)
-- [ ] Chapter 10 — The False Positive Problem
-- [ ] Chapter 11 — The Edge of Life
-- [ ] Chapter 12 — The Planet as a Sensor
+- [x] [Chapter 10 — The False Positive Problem](manuscript/ch10-the-false-positive-problem.md)
+- [x] [Chapter 11 — The Edge of Life](manuscript/ch11-the-edge-of-life.md)
+- [x] [Chapter 12 — The Planet as a Sensor](manuscript/ch12-the-planet-as-a-sensor.md)
 - [ ] Chapter 13 — The Civilization Bias
 - [ ] Chapter 14 — The Silent Galaxy
 - [ ] Chapter 15 — What SETI Is Not Looking For
