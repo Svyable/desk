@@ -14,8 +14,8 @@ const check = (run) => {
 };
 
 check(() => assert.match(css, /Reading app shell/));
-check(() => assert.match(css, /#settingsBtn::before/));
-check(() => assert.match(css, /content: "Aa"/));
+check(() => assert.doesNotMatch(css, /#settingsBtn::before/));
+check(() => assert.doesNotMatch(css, /content: "Aa"/));
 check(() => assert.match(css, /body\[data-stage="read"\] \.reading-time \{\s*display: none;/));
 check(() => assert.match(css, /\.page-nav \.view-toggle \{\s*display: none !important;/));
 check(() => assert.match(css, /\.progress-bar-container\[data-reader-seekable="true"\] \{/));
@@ -34,8 +34,8 @@ check(() => assert.match(css, /@media \(prefers-reduced-motion: reduce\)/));
 check(() => assert.doesNotMatch(css, /--reader-page-(?:top|bottom|pad|radius)/));
 check(() => assert.doesNotMatch(css, /\.page-inner\s*\{/));
 
-// Bookself #300 now owns app-level Light/Dark + Settings visibility. Desk's
-// library hierarchy must not hide the entire shared header-right control group.
+// Bookself #300 owns app-level Light/Dark + Settings visibility and glyphs.
+// Desk's local presentation layers must not fight that shared contract.
 check(() => assert.doesNotMatch(libraryCss, /\.app-header \.header-right\s*\{\s*display\s*:\s*none/));
 check(() => assert.match(index, /id="settingsBtn"[\s\S]*<circle cx="12" cy="12" r="3"\/>/));
 
