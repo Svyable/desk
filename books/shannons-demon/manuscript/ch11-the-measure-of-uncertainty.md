@@ -12,6 +12,10 @@ Now suppose the source can produce either of two symbols with equal probability.
 
 Make one symbol much more likely than the other and the average uncertainty falls. Most of the time the source tells you what you expected. The rare symbol is more surprising, but the source as a whole is more predictable.
 
+Put numbers on the imbalance and the idea becomes less mystical. Imagine a source that emits A three quarters of the time and B one quarter of the time. If you insist on guessing before every symbol, A is the sensible guess. You will be right often. Yet B has not disappeared; when it arrives it resolves more uncertainty precisely because it was less expected. Shannon's measure averages those unequal surprises according to how often each occurs. The result is below the one bit produced by an even fifty-fifty source, but above zero. Predictability has reduced the average information without eliminating the possibility of surprise.
+
+The same example also shows why entropy is relative to a stated model. An observer who knows the three-to-one distribution begins each trial with different expectations from an observer who wrongly assumes the two symbols are equally likely. The emitted mark is identical for both. What differs is the probability structure against which the observation is evaluated.
+
 This is where the everyday meaning of information begins to mislead. A predictable sentence may be profound. A uniformly random sequence may be meaningless. Shannon's measure does not rank their wisdom. It measures the uncertainty resolved by observing an outcome drawn from a specified statistical source.
 
 That narrowing was the source of the theory's power.
@@ -147,6 +151,10 @@ This makes entropy partly a statement about the model one has chosen.
 The source is not merely a pile of symbols waiting to reveal its true number. An analyst must specify the relevant outcomes and probability law. A model that ignores dependencies can assign a different entropy rate from one that captures them.
 
 That is not a defect. It is a reminder that measurement requires a question.
+
+Conditional uncertainty makes the dependence sharper. Before seeing the first part of a message, many continuations may be plausible. After seeing it, the set of plausible continuations can collapse. The remaining entropy is therefore not merely a property of the next symbol in isolation. It depends on what has already been observed. Context earns its value by changing the distribution of what can come next.
+
+This also explains why two observers can extract different amounts of new information from the same event without requiring the event itself to change. One may already know the relevant context; the other may not. Information theory can represent that difference by conditioning on what is known rather than pretending uncertainty exists in a vacuum.
 
 Shannon was unusually good at choosing questions narrow enough to become mathematical without becoming trivial.
 
