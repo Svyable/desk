@@ -4,7 +4,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 18 of 18 drafted |
+| **Chapters** | 18 chapters + 2 epilogues drafted |
 
 *How I Won Fourth Place in the Q23 Quantiacs Stock-Picking Contest*
 
@@ -16,7 +16,9 @@ First place invites mythology. Fourth place leaves evidence.
 
 The central argument is simple: alpha is not a precious metal you discover. It is what remains after enough bad ideas have been sifted out.
 
-The book uses Sven Hardy Benson's Q23 Quantiacs result as the case study. Quantiacs' published winner table lists **Svyable** in the fourth allocation slot for the **Q23 S&P 500 Long-Short** contest, corresponding to a **$100,000 allocation**. The manuscript deliberately distinguishes that verified result from reconstructed research history. Where an exact metric, final winning submission name, or causal claim is not supported by the surviving record, the prose does not invent one.
+The book begins with Sven Hardy Benson's Q23 Quantiacs result. Quantiacs' published winner table lists **Svyable** in the fourth allocation slot for the **Q23 S&P 500 Long-Short** contest, corresponding to a **$100,000 allocation**. Two later epilogues continue the experiment rather than freezing the story at its most flattering moment: Q24 records a no-allocation Crypto Top-10 contest in which Svyable's best public strategy finished 30th, and Q25 records the stricter pre-live research process as of September 2026.
+
+The manuscript deliberately distinguishes verified contest results, public platform snapshots, and reconstructed research history. Where an exact metric, final submission mapping, or causal claim is not supported by the surviving record, the prose does not invent one.
 
 ## Contents
 
@@ -52,6 +54,11 @@ The book uses Sven Hardy Benson's Q23 Quantiacs result as the case study. Quanti
 - [x] [Ch 18 — Fourth Place Portfolio](manuscript/ch18-fourth-place-portfolio.md)
 - [x] [Back Matter — The Sifter Scorecard](manuscript/back-matter.md)
 
+### Epilogues — The Sifter After Q23
+
+- [x] [Epilogue I — Q24: The Backtest Is Not the Contest](manuscript/epilogue-q24-the-backtest-is-not-the-contest.md)
+- [x] [Epilogue II — Q25: Before the Bell](manuscript/epilogue-q25-before-the-bell.md)
+
 ## Research
 
 - [Research brief, provenance, and fact-check queue](research/README.md)
@@ -64,4 +71,4 @@ The book uses Sven Hardy Benson's Q23 Quantiacs result as the case study. Quanti
 
 ## Editorial principle
 
-This is a first-person book, not historical cosplay. It can reconstruct an argument from surviving code, backtests, messages, and public contest records; it cannot reconstruct a feeling, conversation, stock pick, or number that was never recorded. Any later revision should preserve that line.
+This is a first-person book, not historical cosplay. It can reconstruct an argument from surviving code, backtests, messages, research archives, and public contest records; it cannot reconstruct a feeling, conversation, stock pick, strategy mapping, or number that was never recorded. Any later revision should preserve that line.
