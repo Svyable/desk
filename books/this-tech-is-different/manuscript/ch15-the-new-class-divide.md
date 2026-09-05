@@ -1,370 +1,186 @@
 # The New Class Divide
 
-Every industrial revolution creates a new answer to an old question.
+Every industrial revolution creates a new answer to an old question: what do you need to control in order to command production?
 
-What do you need to own in order to command production?
+For agriculture, land mattered. In the first industrial revolution, machinery and factories mattered. Railways, oil fields, electrical networks, patents, distribution systems, software, data, and finance each became important in different combinations. None of these layers disappeared when the next one arrived. They accumulated.
 
-Land mattered.
+The new stack adds another layer around intelligence itself.
 
-Then machines mattered.
-
-Factories mattered.
-
-Railways mattered.
-
-Oil fields mattered.
-
-Electrical networks mattered.
-
-Patents mattered.
-
-Distribution mattered.
-
-Software mattered.
-
-Data mattered.
-
-The new stack does not replace these assets.
-
-It adds another layer of scarce complements around increasingly abundant intelligence.
-
-This is why the class politics of artificial intelligence cannot be reduced to who has access to a chatbot.
-
-Access matters.
-
-Ownership matters more when access is cheap.
-
-A person may have free access to a powerful model and still own none of the infrastructure that determines how that model becomes economically consequential.
+That does not mean intelligence becomes the scarce asset. The opposite may happen. Models can make some kinds of analysis, drafting, coding, translation, planning, and explanation dramatically cheaper. If useful cognition becomes more abundant, power may migrate toward whatever remains difficult to obtain after the cognition is cheap.
 
 Compute.
 
 Energy.
 
-Data centers.
-
-Semiconductor supply chains.
-
-Robots.
-
-Laboratories.
-
-Biological intellectual property.
+Manufacturing.
 
 Distribution.
 
-Capital.
+Regulatory permission.
 
-Credentials.
-
-Permissions.
+Trusted data.
 
 Customer relationships.
 
-Regulatory approval.
+Physical infrastructure.
 
-Time to adapt.
+Capital.
 
-The new divide may run through those complements.
+Time.
 
-This is not a prediction that inequality must rise.
+The ability to absorb a mistake.
 
-That would be too easy and probably wrong in some domains.
+The class politics of artificial intelligence therefore cannot be read from chatbot access alone. A person can have free access to an extraordinary model and still lack the means to turn its advice into consequential action. A founder can generate a credible product plan without the cash to manufacture. A researcher can identify promising molecules without access to laboratories, clinical trials, or regulated production. A worker can learn a new skill while lacking the runway to accept a lower wage during transition. A small company can automate marketing while depending on a platform that controls customer discovery.
 
-General-purpose technologies can spread capabilities downward.
+Cheap cognition can lower the entrance fee to a problem without lowering every fee that follows.
 
-A calculator gave ordinary people access to arithmetic once requiring more labor.
+That is the argument for a new class divide.
 
-A personal computer gave small firms tools previously associated with large organizations.
+It is not, however, an argument that inequality must rise.
 
-The internet gave individuals global distribution.
+That claim would be much too easy. General-purpose technologies can spread capabilities downward as well as concentrating ownership upward. Calculators made arithmetic cheap. Personal computers put capabilities once associated with institutional computing on ordinary desks. The internet gave small firms and individuals global distribution. Open-source software allowed tiny teams to build on infrastructure they did not invent. Generative AI can extend that pattern into areas that once required expensive professional time.
 
-Open-source software let tiny teams build on infrastructure they did not invent.
+A person who cannot afford a private tutor can ask for explanations at midnight.
 
-Generative AI can do something similar for expertise.
+A small business can produce a first draft before paying a lawyer or marketer.
 
-A person who cannot afford a private tutor can receive explanations.
+A programmer can enter an unfamiliar codebase with help.
 
-A small business can draft materials that once required outside specialists.
+A patient can arrive at an appointment with better questions.
 
-A programmer can reach into unfamiliar domains.
+A citizen can interrogate a public document that would otherwise remain functionally unread.
 
-A patient can formulate better questions for a clinician.
+A founder can prototype before raising money.
 
-A citizen can summarize a document that would otherwise be inaccessible.
+Those are real transfers of practical capability.
 
-A founder can prototype with a smaller team.
+The distributional question begins one layer later: how much of the value created by that capability can the user actually keep?
 
-The capability can be democratizing.
+Stanford's 2026 AI Index describes a market in which corporate investment accelerated sharply while the infrastructure beneath frontier systems remained highly concentrated. Compute capacity expanded rapidly, but the physical systems that produce advanced chips, host large models, and supply them with power are not weightless. A model can be copied or accessed across a network. A leading-edge fabrication ecosystem cannot. A research paper can travel instantly. A power plant cannot.
 
-The question is what happens one layer later.
-
-Can the person act on the capability?
-
-This is where abundance meets ownership.
-
-A model may help design a new product.
-
-Manufacturing still costs money.
-
-A model may help identify a promising molecule.
-
-Clinical development still costs money.
-
-A model may write useful code.
-
-Distribution and customer acquisition still matter.
-
-A model may generate a business plan.
-
-Capital and execution still matter.
-
-A model may offer legal information.
-
-Licenses and courts still determine who can perform certain acts.
-
-Cheap cognition can lower the entrance fee to a problem without lowering every fee that comes after it.
-
-That can widen participation at the top of the funnel while leaving control of execution concentrated.
-
-The structure is already visible in the AI industry itself.
-
-Stanford's 2026 AI Index reports that global corporate AI investment more than doubled in 2025, with private investment growing 127.5 percent and generative AI capturing nearly half of private AI funding.
-
-The United States led private investment by a very large margin.
-
-At the infrastructure layer, Stanford estimates global AI compute capacity grew roughly 3.3 times per year from 2022, reaching 17.1 million H100-equivalents.
-
-The United States leads in AI data centers.
-
-A single Taiwanese foundry fabricates most leading AI chips.
-
-These facts do not prove a permanent oligopoly.
-
-They show that the supposedly weightless intelligence economy rests on concentrated physical systems.
-
-The model can be copied.
-
-The fabrication ecosystem cannot.
-
-The code can travel instantly.
-
-A power plant cannot.
-
-A research paper can be downloaded anywhere.
-
-A leading-edge semiconductor fab cannot be downloaded at all.
-
-This is one of the central class tensions of the Fourth Industrial Revolution.
+This creates a peculiar asymmetry.
 
 Knowledge can diffuse faster than capacity.
 
-The person may know what to do while lacking the means to do it.
+A teenager can understand advanced engineering with help from a model while living in a place where reliable electricity is still uncertain. A small biotech team can use world-class computational tools while remaining dependent on a handful of laboratories and manufacturing partners. A local firm can obtain sophisticated strategic advice while negotiating with a platform that owns the channel to its customers.
 
-That is not new in human history.
+The intelligence may be abundant.
 
-A farmer can understand industrial agriculture without owning machinery.
+The leverage is still somewhere else.
 
-An inventor can understand manufacturing without owning a factory.
+But even that sentence needs pressure applied to it. Ownership is not a magic key either.
 
-A chemist can know a process without controlling a plant.
+Capital can be scarce without its owners capturing all the surplus. Competition can force infrastructure providers to lower prices. Open models can erode proprietary advantage. Public investment can widen access. Standardization can turn once-exclusive capabilities into commodities. New firms can attack incumbents precisely because they do not have to reproduce the old cost structure. Workers can capture part of productivity growth through wages, bargaining, mobility, or ownership. Consumers can capture enormous value through lower prices even when they own no productive asset directly.
 
-The new feature is the speed at which cognitive capability itself can diffuse while physical execution remains capital-intensive.
+A society can become materially more equal in access to capability while remaining unequal in ownership.
 
-The gap can become more visible.
+It can also become more equal in consumption while becoming more unequal in wealth.
 
-A teenager may have access to a model that can explain advanced engineering while living in a region without reliable electricity.
+Those are not the same outcome.
 
-A small biotech team may have extraordinary computational tools and still need access to specialized laboratories and manufacturing.
+This matters because class analysis becomes sloppy when every gain to capital is counted and every gain to users is ignored. A technology that lowers the price of expert assistance from hundreds of dollars an hour to nearly nothing has changed welfare even if a small number of firms own the infrastructure. The political question is whether the concentration required to produce the service eventually becomes the power to set terms across the rest of society.
 
-A local business may gain world-class marketing assistance while remaining dependent on a platform that controls customer discovery.
+Concentration matters most when exit becomes difficult.
 
-Abundant advice does not equal abundant leverage.
+If three model providers compete aggressively and switching is easy, concentration may be economically uncomfortable without becoming socially dominant. If one provider controls the model, cloud, identity layer, distribution channel, payment rail, proprietary data, and workplace workflow, the same market share means something else. Power accumulates when control of one necessary layer can be used to foreclose the next.
 
-Leverage sits at the bottleneck.
+This is why the relevant unit is not the company.
 
-That bottleneck can move.
+It is the bottleneck.
 
-If frontier models become cheap and interchangeable, the owners of models may capture less value than expected.
+Industrial revolutions move bottlenecks.
 
-Power may migrate toward chips, cloud infrastructure, proprietary data, distribution, energy, or regulated execution.
+At one moment the scarce input may be frontier models. Later it may be chips. Later still, electricity, data rights, trusted distribution, specialized manufacturing, regulation, or human verification. Predictions that simply project today's largest technology companies into the future ignore the way general-purpose technologies reorder value chains.
 
-If open models become good enough, companies can reduce dependence on a small group of providers.
+Railroads created fortunes and then became infrastructure for other fortunes.
 
-If specialized hardware lowers inference costs, compute scarcity can ease.
+Telecommunications networks became indispensable while value migrated into software and services.
 
-If governments build public infrastructure, access can broaden.
+Personal computing moved bargaining power among hardware manufacturers, operating systems, application vendors, internet platforms, and cloud providers.
 
-If competition remains strong, much of the gain can flow to users through lower prices.
+AI is unlikely to freeze the value chain at the point where the public first noticed it.
 
-The class structure is not fixed by the technology.
+Class enters through bargaining power more than through ownership in the abstract.
 
-It is shaped by which layer remains scarce.
+A worker has leverage when their contribution is scarce, credible, and difficult to route around. A company has leverage when it controls a necessary input. A country has leverage when critical infrastructure cannot be cheaply substituted. A platform has leverage when access to customers runs through it. A profession has leverage when law, trust, or institutional design reserves decisions to its members.
 
-This is why predictions based on today's most valuable companies are fragile.
+Machine intelligence can weaken some forms of scarcity.
 
-Industrial revolutions reorder value chains.
+That does not imply a simple transfer from labor to capital.
 
-The winner at the beginning does not always own the mature market.
+It can raise the value of complements that are themselves supplied by labor.
 
-Railroads created fortunes but also made other industries possible.
+The more candidate designs a model can generate, the more valuable an experienced laboratory team may become if experiments are the bottleneck. The more code a system can produce, the more valuable product judgment, security, verification, and systems integration may become if those constrain deployment. The faster a data center can consume compute, the more valuable electricians, grid engineers, cooling specialists, and maintenance technicians may become if physical expansion is slow.
 
-Telecommunications networks became essential infrastructure while enormous value accumulated in services built on top of them.
+The old white-collar and blue-collar hierarchy therefore becomes less informative.
 
-Personal computing moved value among hardware, operating systems, software, internet services, and cloud platforms over decades.
+A highly credentialed worker performing codified symbolic tasks may face more substitution pressure than a technician responsible for a physical system in a messy environment. A corporate analyst can gain extraordinary productivity from AI while a licensed electrician remains difficult to replace. A researcher can generate more hypotheses while the operator who can produce trustworthy experimental evidence becomes the rate limit.
 
-AI will likely do the same.
+This does not mean the status hierarchy simply reverses.
 
-The question is not simply who owns the best model.
+It means status and scarcity can drift apart.
 
-It is who owns the necessary layer that others cannot cheaply route around.
+That lag can be painful. Education systems continue steering students toward occupations that were historically protected by information barriers. Families make expensive choices based on prestige signals formed under an older economy. At the same time, infrastructure skills can remain undersupplied because institutions still treat them as second tier.
 
-Class enters through bargaining power.
+People make life decisions inside that delay.
 
-A worker has leverage when their contribution is scarce and difficult to substitute.
+Runway then becomes a class asset.
 
-A company has leverage when it controls an input others need.
+A wealthy worker can retrain, move, experiment with new tools, survive a period of lower income, start a company, or simply wait for a better opportunity. A worker living paycheck to paycheck can read the same technological signal and have almost none of those options.
 
-A country has leverage when it controls infrastructure others cannot easily replace.
+The difference is not intelligence.
 
-A platform has leverage when access to customers runs through it.
+It is the cost of being wrong.
 
-A professional has leverage when law or trust reserves a decision to them.
-
-Machine intelligence can reduce scarcity in some kinds of expertise.
-
-That may weaken the bargaining power attached to those tasks.
-
-At the same time, it can increase the value of physical, institutional, or relational complements.
-
-The class divide can therefore cut across old white-collar and blue-collar categories.
-
-A person with an elite degree performing highly codified symbolic work may face more substitution pressure than a technician maintaining a physical system in a constrained environment.
-
-A corporate lawyer may gain enormous productivity from AI while a licensed electrician remains essential to a data-center buildout.
-
-A researcher may generate more candidate designs while a laboratory operator becomes the bottleneck.
-
-The hierarchy does not simply invert.
-
-It becomes less legible.
-
-This matters because educational and social status often lag economic scarcity.
-
-A society can continue steering people toward occupations that used to be protected by information barriers even as those barriers weaken.
-
-Meanwhile, infrastructure skills remain undersupplied because they were culturally treated as second tier.
-
-The transition can create status arbitrage.
-
-Jobs become valuable before institutions learn to respect them.
-
-Jobs lose scarcity before institutions stop signaling that they are secure.
-
-People make life decisions inside that lag.
-
-This is where adaptation time becomes a class asset.
-
-A wealthy worker can retrain.
-
-Take time off.
-
-Move cities.
-
-Experiment with new tools.
-
-Absorb a period of lower income.
-
-Start a company.
-
-Buy equipment.
-
-Hire help.
-
-A worker living paycheck to paycheck cannot respond to the same technological signal with the same freedom.
-
-Two people can have identical access to AI and radically different ability to exploit it.
-
-The complement is runway.
-
-This may be one of the least appreciated forms of inequality in technological transitions.
-
-The rich can afford to be early and wrong.
-
-They can test several futures.
-
-The poor are often required to be right on the first attempt.
+The wealthy can test several futures. The poor are often required to choose correctly on the first attempt.
 
 Optionality is capital.
 
-The Fourth Industrial Revolution may increase the return to optionality because the future path is uncertain.
+This is one reason access alone will not equalize a rapid technological transition. Two people can have identical models on their phones and radically different ability to exploit them because one has savings, mobility, childcare, credentials, equipment, legal permission, professional networks, or a stable place to work.
 
-A person who can move between occupations, regions, or business models has more ways to respond when a capability changes quickly.
+The problem is not merely who can learn.
 
-A person with a narrow credential, debt, caregiving responsibilities, limited mobility, or no savings can be trapped inside a declining task bundle.
+It is who can afford to reallocate what they have learned.
 
-The problem is not simply skill.
+Existing social structures also shape exposure before the technology arrives. The International Labour Organization reported in 2026 that female-dominated occupations were substantially more exposed to generative AI than male-dominated occupations, reflecting women's concentration in clerical, administrative, and business-support work, while women remained underrepresented in AI-related roles.
 
-It is freedom to reallocate skill.
+That does not make AI inherently male or inherently harmful to women. It shows how a new capability enters an old occupational map.
 
-Gender offers one example of how existing labor structure can shape exposure.
+Technology does not begin from zero.
 
-The International Labour Organization reported in 2026 that female-dominated occupations were almost twice as likely to be exposed to generative AI as male-dominated occupations, 29 percent versus 16 percent, reflecting concentration in clerical, administrative, and business-support work.
-
-Women also remained underrepresented in AI-related roles.
-
-This does not mean AI is inherently a technology that disadvantages women.
-
-It means technological exposure arrives through an existing occupational map.
-
-History is path dependent.
-
-A new capability enters a labor market already divided by gender, race, geography, credential, income, and sector.
-
-The technology interacts with those divisions.
-
-It does not start from zero.
+It enters societies already divided by income, gender, race, geography, credential, disability, family responsibility, citizenship, and sector. Those structures influence who receives the gain, who bears the disruption, and who can move.
 
 The same is true internationally.
 
-A cloud service can cross borders instantly.
+Cloud services can cross borders instantly. Industrial capacity cannot.
 
-Industrial capacity cannot.
+A country with reliable grids, capital markets, universities, advanced manufacturing, laboratories, stable institutions, and access to semiconductors can convert cheap cognition into physical production differently from a country without those complements.
 
-Countries with strong grids, data centers, capital markets, universities, semiconductor access, advanced manufacturing, and predictable institutions can convert AI capability into production differently from countries without those complements.
+Yet the conclusion should not be that poorer countries are condemned to dependence.
 
-This does not make poorer countries permanent losers.
+The opposite possibility is important.
 
-They may benefit enormously from cheap expert services.
+A technology that sharply lowers the price of cognition may be unusually valuable where expert labor is scarce. Translation, tutoring, software development, agricultural advice, clinical support, government administration, and small-business services can all become more available without reproducing the entire industrial base of a rich country.
 
-Translation.
+A small economy does not need to manufacture every chip to benefit from AI.
 
-Education.
+A small firm does not need to own a data center to become more productive.
 
-Medical support.
+A household does not need equity in a model company to gain from lower information costs.
 
-Agricultural advice.
+Specialization and trade remain powerful equalizers.
 
-Software development.
+The harder question is where dependence removes meaningful choice.
 
-Government administration.
+A country can become more capable and more dependent at the same time. A firm can become more productive while becoming locked into one provider. A worker can gain a powerful assistant while losing bargaining power because the assistant makes their task bundle easier to substitute. A student can gain access to world-class tutoring while becoming dependent on a system they cannot evaluate.
 
-Small-business capability.
+Capability and control can move in opposite directions.
 
-A technology that lowers the price of cognition can be unusually valuable where expertise is scarce.
+At household scale, that distinction may become more important than simple adoption.
 
-But the ability to consume intelligence and the ability to produce the infrastructure behind it are different forms of power.
+Some people will experience AI mainly as agency. They will use it to learn, negotiate, compare, create, automate, and build.
 
-A country can become more capable while also becoming more dependent.
-
-That tension will matter geopolitically later in the book.
-
-At the household level, the new divide may be quieter.
-
-Some families will treat AI as an active capability multiplier.
-
-They will use it to learn, plan, negotiate, compare, automate, and build.
-
-Others will encounter it mainly as a system making decisions about them.
+Others will experience it mainly as classification.
 
 A hiring filter.
 
@@ -380,253 +196,129 @@ A customer-service gate.
 
 An algorithmic manager.
 
-Both groups live in an AI economy.
+Both groups live in an AI economy. Only one primarily experiences the technology as something they command.
 
-Only one experiences the technology primarily as agency.
+Do you deploy the system, or does the system evaluate you?
 
-This is a meaningful class distinction.
+Can you inspect the basis of a decision, or only receive the result?
 
-Do you command the system, or does the system classify you?
+Can you appeal?
 
-Do you deploy agents, or do agents evaluate you?
+Can you switch providers?
 
-Do you own the data, or are you the data?
+Can you take your data with you?
 
-Can you appeal an automated decision, or merely receive it?
+Can you use the tool independently of the institution that introduced it?
 
-Can you inspect the model, or only live with its output?
+The divide is partly about the direction of control.
 
-The divide is partly about direction of control.
+That direction is not fixed. Public institutions can give citizens analytical tools rather than only use tools on citizens. Workers can receive productivity systems rather than merely be measured by them. Students can receive tutoring rather than only automated assessment. Patients can receive more control over health information. Small firms can gain access through open standards, shared infrastructure, and competitive markets.
 
-That direction can change through design.
+One-way systems are not technologically inevitable.
 
-Public institutions can give citizens tools rather than only use tools on citizens.
-
-Workers can receive access to productivity systems rather than being measured by them from above.
-
-Students can use tutors rather than only being scored by automated assessment.
-
-Patients can control health data rather than merely generating it for platforms.
-
-Small firms can gain access to infrastructure through open standards and competitive markets.
-
-The technology does not require a one-way hierarchy.
-
-But one-way systems are often easier for powerful institutions to build.
-
-That is why governance matters before inequality hardens into architecture.
+They are often institutionally convenient.
 
 There is another class boundary around verification.
 
-As machine-generated output becomes abundant, trustworthy evaluation becomes valuable.
+As machine-generated output becomes abundant, trustworthy evaluation becomes more valuable. People with strong domain knowledge can use AI differently because they can recognize when a fluent answer is wrong, incomplete, or irrelevant. People without that foundation may benefit from the tool and still become dependent on its confidence.
 
-People with strong domain knowledge can use AI better because they can detect mistakes.
+This creates a genuine paradox.
 
-People with legal, financial, scientific, or technical literacy can interrogate a model instead of accepting fluent output.
+AI can democratize access to expertise while increasing the return to enough expertise to supervise AI.
 
-The less a person knows, the more they may depend on the tool's confidence.
-
-This creates a paradox.
-
-AI democratizes access to expertise while rewarding people who already possess enough expertise to supervise it.
-
-That does not make the democratization fake.
-
-A novice can still learn faster.
-
-It means access is not the final equalizer.
+That does not make democratization fake. A novice can learn faster. A small firm can attempt work it previously could not afford. But access is not the final equalizer.
 
 The ability to verify is a complement.
 
-Education therefore becomes part of class policy.
+Education therefore remains class policy.
 
-A society that distributes AI tools without building human judgment may distribute dependence.
+A society that distributes AI tools without strengthening human foundations may distribute dependence. A society that builds strong foundations can distribute leverage.
 
-A society that builds strong foundations can distribute leverage.
+Data creates another divide, although the word ownership can mislead here too.
 
-The same technology produces different outcomes.
+A company with years of operational history can build systems that understand its processes better than a competitor using only public information. A hospital with high-quality clinical data may improve research or decision support. A manufacturer with long sensor histories can improve maintenance. A platform can use interaction data to refine products.
 
-Ownership of data creates another divide.
+Data can behave like accumulated industrial experience.
 
-A company with proprietary operational history can build systems that understand its internal workflows better than a competitor using only public information.
+But the people who generate data do not necessarily share in the value produced from it. Workers create process traces. Patients create medical records. Consumers create behavioral histories. Authors create texts. Programmers create code. Artists create images.
 
-A hospital with high-quality clinical data may improve research or decision support.
+The model economy converts past human activity into productive input.
 
-A manufacturer with years of sensor data can optimize equipment.
+The resulting fights over consent, privacy, compensation, and property are real, but they cannot be resolved with one slogan. Public facts are not private medical records. A published book is not a confidential message. Employee work product exists inside a different relationship from personal expression.
 
-A platform with billions of user interactions can refine products.
+The class issue is often less "who owns data?" than "who has enough bargaining power to set the terms under which data are used?"
 
-Data can function like accumulated industrial experience.
-
-But data ownership is contested because the people generating the data may not share proportionally in the value created from it.
-
-Workers create process traces.
-
-Patients create health records.
-
-Consumers create behavioral histories.
-
-Authors create texts.
-
-Programmers create code.
-
-Artists create images.
-
-The model economy converts past human activity into a new productive input.
-
-That creates legitimate fights over consent, compensation, privacy, and property.
-
-There is no single morally obvious answer across all data types.
-
-Public facts are not the same as private medical records.
-
-Published books are not the same as confidential communications.
-
-Employee work product exists inside contractual relationships different from personal expression.
-
-The class issue is who has enough power to set the terms.
-
-The strongest institutions can negotiate.
+Strong institutions negotiate.
 
 Individuals often click accept.
 
-That asymmetry is older than AI.
+Biotechnology adds another layer. If machine intelligence makes molecular search cheaper, value may migrate toward validated targets, delivery systems, clinical evidence, manufacturing, regulatory approval, or proprietary biological data. Again, cheaper cognition does not eliminate the difficult complement.
 
-Machine learning increases the value at stake.
+Permission to act remains scarce.
 
-Biotechnology adds another ownership layer.
+This is why the phrase *democratization of AI* needs two meanings kept separate.
 
-Validated targets.
+One is low-cost access to capability.
 
-Editing platforms.
+That is already consequential.
 
-Manufacturing processes.
+The other is democratic control over systems that shape people's lives.
 
-Clinical data.
-
-Biobanks.
-
-Delivery systems.
-
-These assets can become extraordinarily valuable because biological execution remains difficult.
-
-If AI makes molecular design cheaper, the scarce complement may move toward proprietary delivery, clinical evidence, or manufacturing.
-
-Again, intelligence becomes abundant while permission to act remains scarce.
-
-The class divide follows the permission.
-
-This is why the phrase *democratization of AI* should be used carefully.
-
-Democratization can mean low-cost access to capability.
-
-That is real and important.
-
-It can also imply democratic control over the systems shaping life.
-
-That is a much stronger claim.
-
-A free chatbot does not establish democratic governance of compute infrastructure.
-
-An open model does not give a community a power grid.
-
-A public API does not give workers ownership of productivity gains.
+A free model does not give a community a power grid. An open model does not give workers ownership of productivity gains. A public API does not give citizens authority over the institution using it.
 
 Consumer access and political power are different things.
 
-The technology may expand the first while concentrating the second.
+The technology may broaden the first while concentrating the second.
 
-Or competition and public policy may broaden both.
+Or competition, institutions, and public policy may broaden both.
 
 The outcome remains open.
 
-This is the chapter's central refusal.
+There is a deeper counterargument to the whole chapter.
 
-Inequality is not a feature hard-coded into artificial intelligence.
+Perhaps the focus on ownership and control mistakes the source of future inequality.
 
-Neither is equality.
+What if intelligence becomes so cheap and capable that entrepreneurial execution itself becomes easier? What if one person can operate a business that once required fifty? What if software agents reduce the importance of inherited organizational scale? What if open technical ecosystems allow small firms to rent every necessary complement? What if consumers capture most of the productivity gain through lower prices? What if the old concentration of professional privilege weakens faster than new infrastructure rents form?
 
-The distributional outcome emerges from architecture.
+In that world, the technology could be strongly equalizing even if the underlying compute remains capital intensive.
 
-Who owns the model?
+A person does not need to own a power station to benefit from electricity.
 
-Who owns the complementary capital?
+They need affordable, reliable access on terms that do not make the supplier their ruler.
 
-How competitive is the market?
+That is the more precise test.
 
-Can users switch providers?
+Ownership matters when ownership creates durable power over terms.
 
-Are standards open?
+Where infrastructure behaves like a competitive utility, access can substitute for ownership. Where switching is real, standards are open, prices fall, and users retain exit, concentrated capital does not necessarily produce concentrated social authority.
 
-Can workers bargain?
+This is why public policy should be careful not to confuse visible scale with abuse.
 
-Can small firms access infrastructure?
+Large infrastructure can be efficient because fixed costs are high. Breaking it into smaller pieces can raise prices without increasing freedom. A dominant provider can be disciplined by credible competition even before market share changes. A regulated utility can be privately owned while operating under public obligations. A cooperative can be locally owned and still badly governed.
 
-Are public institutions competent enough to procure well?
+Structure matters.
 
-Is education broad enough to create informed users?
+So does behavior.
 
-Can people move when their task bundle changes?
+The same caution applies to labor. A company that captures more profit after adopting AI has not necessarily taken that gain from workers. It may have created new output, lowered prices, or expanded demand. A worker whose task becomes easier is not automatically worse off. If productivity gains raise wages, shorten workweeks, improve safety, or make previously inaccessible services affordable, the distribution can improve without every worker acquiring a data center.
 
-Are gains taxed or shared?
+The right question is not whether capital earns more.
 
-Is healthcare attached to a job that may disappear?
+It is whether capability broadens meaningful agency faster than bargaining power narrows.
 
-Can a person challenge an automated decision?
+That makes the chapter's claim falsifiable.
 
-Does antitrust prevent control of one bottleneck from expanding into the next?
+The new class divide is overstated if useful AI becomes broadly substitutable; if infrastructure providers compete hard enough that rents collapse; if open standards keep switching cheap; if labor captures substantial productivity gains; if cheap cognition creates many new firms rather than mainly reinforcing incumbents; and if people experience AI more often as a tool they command than as a system that classifies them.
 
-These questions look political because they are.
+That outcome is plausible.
 
-Industrial revolutions create new productive systems.
+It would not abolish inequality.
 
-Class is the argument over who stands where inside them.
+It would mean this particular technology had weakened more barriers than it created.
 
-The future may be more equal in some surprising ways.
+The opposite outcome is also plausible: intelligence becomes cheap, but the complements required to act remain concentrated; people can generate options but not execute them; institutions use models downward more effectively than individuals can use them upward; and control over a few physical or legal bottlenecks becomes control over the terms of participation.
 
-A rural student can receive world-class explanations.
-
-A tiny company can use capabilities once requiring a corporate department.
-
-A disabled person can gain a powerful interface.
-
-A non-native speaker can communicate across language barriers.
-
-A worker can become more productive without waiting for an employer to train them.
-
-A citizen can analyze a government document.
-
-A patient can prepare better for a medical appointment.
-
-Cheap intelligence can distribute practical power.
-
-That possibility deserves protection from both monopoly and cynicism.
-
-The danger is not that the technology fails to spread.
-
-It may spread extremely widely.
-
-The danger is that the ability to *use* intelligence becomes common while the ability to *set the terms* of its deployment remains narrow.
-
-That would create a strange society.
-
-Everyone has an assistant.
-
-Few people control the infrastructure their assistants depend on.
-
-Everyone can generate plans.
-
-Fewer people own the capital required to execute them.
-
-Everyone can ask for legal, medical, technical, or financial information.
-
-Institutions still decide whose actions count.
-
-Everyone gets more cognitive leverage.
-
-Ownership of physical and institutional leverage becomes the decisive scarcity.
-
-That is the new class divide worth watching.
+That is the class divide worth watching.
 
 Not intelligence versus ignorance.
 
