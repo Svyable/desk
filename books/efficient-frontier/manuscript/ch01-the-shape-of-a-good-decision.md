@@ -139,3 +139,51 @@ You can ask what would have to become true for the curve to move.
 Those questions do not guarantee a good answer. They do something more modest and often more valuable.
 
 They stop different kinds of problems from pretending to be the same one.
+
+There is another distinction that becomes important once real organizations start using this language. The feasible set is not the same thing as the menu somebody happened to bring into the meeting.
+
+A procurement team may present three vendors because those are the vendors it found. A hiring manager may compare four candidates because those are the people who applied. A city may debate two road designs because those are the designs that survived an earlier process. The frontier drawn from those options can be perfectly efficient and still sit far inside a frontier that a better search would have revealed.
+
+Search is part of the decision.
+
+That means a choice can fail before optimization begins. The team can optimize over an impoverished set of alternatives. It can compare buy versus build without considering partnership. It can compare two office locations without considering a different work model. It can compare cutting a service with raising its price without considering redesign. It can rank investment projects without asking whether a different project should exist.
+
+A model cannot recommend an option nobody allowed into the feasible set.
+
+The practical consequence is that difficult decisions need an explicit search phase and a stop rule for that search. Search too little and you can become efficiently wrong. Search forever and the cost of discovering one more option can exceed the value it might add.
+
+The amount of search should depend on consequence, reversibility, and the quality of the current frontier. A routine reversible purchase does not deserve months of option generation. A twenty-year capital commitment deserves more imagination than the first three proposals in the inbox.
+
+This is one place where diversity of perspective has mechanical value rather than decorative value. People with different experience generate different feasible alternatives. An operator may see a process change that a strategist misses. A customer may reveal that an assumed feature is unnecessary. A lawyer may identify a contractual structure that converts a hard constraint into a negotiable one. An engineer may know that a technical limit is no longer binding. A person from outside the industry may ask why a costly convention exists at all.
+
+Different minds can expand the menu before anyone calculates the edge.
+
+That does not mean every brainstorming exercise moves the frontier. Most ideas are infeasible, inferior, or expensive. Their value is that dominance analysis can happen after the search rather than before it. A good process is generous while generating alternatives and severe while testing them.
+
+The distinction also clarifies what experts are for. Expertise can improve the coordinates and the menu. It can reveal hidden constraints, estimate consequences, and identify options amateurs do not know are possible. Expertise is less well suited to silently deciding which sacrifice everyone else should prefer.
+
+This division of labor is useful in boardrooms and kitchens alike.
+
+A contractor can tell a family that moving a wall is feasible, what it will cost, and what structural consequences follow. The contractor cannot decide whether a larger kitchen is worth giving up the spare room. An engineer can tell a product team that a reliability target requires a certain architecture and operating burden. The engineer cannot alone decide how much launch speed the company should trade for that reliability if both choices satisfy safety and law.
+
+The frontier is where factual competence meets accountable preference.
+
+One more complication matters. Sometimes an option is dominated only because the organization lacks the ability to execute it well. A process design may be better in theory and worse in the hands of a team that has not learned it. A technology may offer lower cost and higher performance at maturity and create worse outcomes during transition. A policy may look superior in a paper model and fail because the administrative state cannot deliver it.
+
+Capability is part of feasibility.
+
+That means the same option can be interior for one organization and frontier-moving for another. A restaurant with a disciplined kitchen can profit from a menu structure that overwhelms a less practiced team. A company with reliable deployment can release more frequently without buying the same operational risk. A household with financial slack can choose a career experiment that would be reckless under a tighter obligation set.
+
+The graph belongs to the chooser's actual capabilities, not to an abstract ideal actor.
+
+This prevents a common form of bad benchmarking. Leaders look at a high-performing peer and copy its point without copying the conditions that support the point. They lower inventory because the peer did, ignoring supplier reliability. They decentralize decisions because the peer moves fast, ignoring the peer's stronger shared standards. They add leverage because a competitor has stable cash flows, ignoring their own volatility.
+
+The copied coordinate arrives without the frontier that made it sensible.
+
+A better benchmark asks what capability explains the difference. If that capability can be learned or acquired, the comparison becomes a frontier-moving project. If it cannot, the point is evidence about another feasible set, not a command.
+
+This is why the frontier is not merely a selection device. It is a diagnostic surface. It reveals where better search, better capability, clearer preference, or a wider accounting boundary is needed.
+
+The graph looks like an answer only from far away.
+
+Up close, it is a set of questions about what is possible, what is valued, what is known, and what has been left out.
