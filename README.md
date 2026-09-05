@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 87 book projects · 45 complete drafts · 2 in revision · 40 drafting**
+> **Desk: 89 book projects · 46 complete drafts · 2 in revision · 41 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 45 author projects · 43 released · 2 public drafts/proofs**
-> **Where they live: 45 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
+> **Shelf: 46 author projects · 44 released · 2 public drafts/proofs**
+> **Where they live: 46 in both Desk + Shelf · 43 Desk-only · 0 Shelf-only**
 > **Release review queue: 5 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -57,6 +57,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-mortality-discount/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/) |
 | [**The Retry Generation**](books/the-retry-generation/) | ✅ Complete first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
+| [**The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt**](books/the-risk-pool/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
 | [**The Vanishing Bid**](books/the-vanishing-bid/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-vanishing-bid/) |
 | [**The Weather We Build**](books/the-weather-we-build/) | ✅ Complete structural draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-weather-we-build/) |
@@ -66,7 +67,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Commit](books/commit/), [Neuralase](books/neuralase/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -96,7 +97,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Asleep at the Wheel**](books/asleep-at-the-wheel/) | ✍️ Drafting | 22 of 22 | 42,614 | The working thesis is that sleep behaves like a hard, measurable biological constraint — closer to gravity than to a personal preference — and that a long, well-documented list of… | [Read →](https://svyable.github.io/desk/reader/#/b/asleep-at-the-wheel/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | 12 / 12 | 15,969 | Artificial intelligence can make public administration dramatically cheaper. | [Read →](https://svyable.github.io/desk/reader/#/b/austerity-measures/) |
 | [**Chokepoint**](books/chokepoint/) | ✍️ Drafting | 20 of 20 drafted | 21,156 | The working thesis is that the twenty-first century is being rebuilt around a short list of elements — copper, lithium, cobalt, nickel, and the seventeen rare earths — the way the… | [Read →](https://svyable.github.io/desk/reader/#/b/chokepoint/) |
-| [**Commit**](books/commit/) | ✅ Complete draft | 22 of 22 | — | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a numbered sequence… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
+| [**Commit**](books/commit/) | ✅ Complete expanded draft · publication candidate | 22 of 22 + 4 interludes | — | The working thesis is that Git became dominant because it made a few unusually durable bets: content should have identity independent of location, history should be a graph rather than a numbered sequence… | [Read →](https://svyable.github.io/desk/reader/#/b/commit/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | 22 of 22 | 76,091 | A narrative nonfiction book about the three ledgers underneath technological civilization: physical capacity, intelligence, and the systems by which people decide what is worth doing. | [Read →](https://svyable.github.io/desk/reader/#/b/energy-value-intelligence/) |
 | [**Exponential Compression**](books/exponential-compression/) | ✍️ Drafting | Front matter; 26 chapters planned | 884 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/exponential-compression/) |
 | [**Face The Strange**](books/face-the-strange/) | ✅ Complete draft · Published on Shelf | 25 of 25 | 64,858 | Face The Strange is about the human moment of meeting advanced intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/face-the-strange/) |
@@ -108,6 +109,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
 | [**Look Alive**](books/look-alive/) | ✅ Complete draft | 21 of 21 | 56,281 | This book examines strategic and quasi-strategic deception in contemporary AI systems: sycophancy, specification gaming, reward hacking, hidden backdoors, capability sandbagging, alignment… | [Read →](https://svyable.github.io/desk/reader/#/b/look-alive/) |
 | [**Make Yourself Useful**](books/make-yourself-useful/) | ✍️ Drafting | 3 of 12 | 10,932 | The book follows ordinary people who notice the unclaimed problem, carry more than their official job requires, and turn small acts of usefulness into trust, access, and eventually freedom. | [Read →](https://svyable.github.io/desk/reader/#/b/make-yourself-useful/) |
+| [**Neuralase**](books/neuralase/) | ✅ Complete draft | 18 of 18 | — | A reasoning system becomes more capable when a return path is paired with a discriminating signal: evidence, verification, tools, constraints, or learned stopping rules. | [Read →](https://svyable.github.io/desk/reader/#/b/neuralase/) |
 | [**No One Read It**](books/no-one-read-it/) | ✍️ Drafting | 5 of 21 | 15,368 | Generative systems can produce contracts, code, analysis, reports, messages, and options faster than the people named on that work can inspect it. | [Read →](https://svyable.github.io/desk/reader/#/b/no-one-read-it/) |
 | [**Nothing Counts Yet**](books/nothing-counts-yet/) | ✅ Complete first draft | 20 of 20 | — | The provisional spaces that make competence possible: rehearsal rooms, drafts, sandboxes, simulations, apprenticeships, mock trials, pilots, test kitchens, play, and every other place where a person or institution is allowed to be wrong before being required to be right. | [Read →](https://svyable.github.io/desk/reader/#/b/nothing-counts-yet/) |
 | [**Open Source**](books/open-source/) | ✅ Complete draft | 18 of 18 | 77,279 | The central thesis is that open AI does not abolish ownership; it rearranges it. | [Read →](https://svyable.github.io/desk/reader/#/b/open-source/) |
@@ -121,6 +123,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Running On Full**](books/running-on-full/) | 🔁 Revision in progress | 24 of 24 | — | The working thesis is that AI compute is not the hardware you rent or buy. | [Read →](https://svyable.github.io/desk/reader/#/b/running-on-full/) |
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 14 of 25 | 32,637 | The working thesis is simple: scale is not just more. A system that becomes ten times larger often becomes a different kind of system. Costs bend, bottlenecks move, coordination changes… | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
 | [**Second Guess**](books/second-guess/) | ✍️ Drafting | 20 of 20 | 77,252 | The working thesis is that automated recommendation has spread into aviation, medicine, criminal justice, finance, warehouses, and driving faster than anyone has taught the humans working… | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
+| [**Shannon's Demon**](books/shannons-demon/) | ✍️ Drafting | 20 of 20 drafted | — | Claude Shannon and the invention of the digital mind: information theory, uncertainty, cryptography, computing, and the playful engineer behind the bit. | [Read →](https://svyable.github.io/desk/reader/#/b/shannons-demon/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | 21 of 21 | 65,532 | The working thesis is that American and European antitrust law were built around a single, century-old assumption: that fixing a price requires an agreement, that an agreement requires… | [Read →](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | 12 of 12 | 17,847 | The working thesis is that global scale has stopped being the main source of economic power. | [Read →](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
 | [**Source Code**](books/source-code/) | ✍️ Drafting | 8 of 24 | 16,671 | The working thesis is that general AI capability will diffuse rapidly across companies, while truthful comprehension of a company's own product and tooling code remains scarce. | [Read →](https://svyable.github.io/desk/reader/#/b/source-code/) |
