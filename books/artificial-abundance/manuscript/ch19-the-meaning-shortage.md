@@ -62,6 +62,26 @@ More options can be liberating.
 
 They can also make commitment harder.
 
+The evidence on choice itself is useful precisely because it resists a simple slogan. Consumer researchers have spent years arguing about whether more options reliably make people worse off. A 2015 meta-analysis by Alexander Chernev, Ulf Böckenholt, and Joseph Goodman examined ninety-nine observations involving more than seven thousand participants. The important result was not that large assortments are always bad. It was that the burden depends on conditions.
+
+Choice overload became more likely when the decision itself was difficult, the set of options was complex, people were uncertain about their preferences, or they were trying to minimize the effort of choosing.
+
+That is a much more interesting result for artificial abundance than the popular phrase about a paradox of choice.
+
+More possibilities are not inherently paralyzing.
+
+They become costly when the chooser lacks a stable way to value them.
+
+A person who knows exactly what she wants may benefit from seeing twenty versions because one of them fits better. A person who does not yet know what she wants can experience the same twenty versions as twenty demands to construct a preference.
+
+Generative systems can operate on both sides of that line.
+
+They can help articulate criteria: What matters most? Which tradeoffs are unacceptable? What have you enjoyed before? Which constraint is real and which one is habit?
+
+They can also keep producing alternatives before those criteria have had time to harden.
+
+The system that makes choice easier can make choosing less final.
+
 Commitment is the strange act of making the option set smaller on purpose.
 
 You choose one city and lose the others. You marry one person and close other futures. You spend five years learning something that may not pay. You decide this problem deserves your Saturday. You finish one book instead of generating premises for twenty.
@@ -94,6 +114,36 @@ Artificial intelligence may help us use time better. It cannot make an individua
 
 The machine can expand the menu faster than it expands the meal.
 
+There is another reason meaning becomes more visible when production gets easier.
+
+Difficulty used to provide feedback.
+
+A person who spent three years learning the violin received repeated evidence that the activity mattered enough to return to. A founder who survived months of customer rejection learned something about the persistence of the commitment, even if the business ultimately failed. A scholar who kept reading after the first easy answer discovered whether the question retained its hold.
+
+None of this means difficulty creates meaning. People can persist for terrible reasons. They can remain trapped by sunk costs, status, fear, or the desire not to disappoint others. Easy activities can be deeply meaningful from the first minute.
+
+But repeated effort forces an intention to be renewed.
+
+Automation can remove some of those renewal points.
+
+If a system can take a weak preference and carry it a long way without asking again, a passing impulse can acquire the appearance of commitment. A casual thought becomes a polished proposal. A mild curiosity becomes a complete plan. A half-formed opinion becomes an articulate essay.
+
+The output may look more decided than the person feels.
+
+This is not a defect in the output. It is a mismatch between the maturity of the artifact and the maturity of the intention behind it.
+
+Artificial intelligence can make the outside of a decision develop faster than the inside.
+
+That is useful when the artifact helps the person think. Writing a plan can reveal that the plan is foolish. Seeing ten versions can expose a preference. A prototype can turn a vague idea into something that can be judged.
+
+The danger appears when polish is mistaken for conviction.
+
+Organizations are especially vulnerable because polished artifacts travel well.
+
+A rough idea shared in conversation carries its uncertainty with it. A forty-page strategy document, complete with market analysis and implementation plan, can acquire authority simply because it looks like the product of substantial work. If documents become cheap to produce, institutional readers will need to become less impressed by document-shaped effort.
+
+The question shifts from How much work went into this? to What decision does this deserve?
+
 This creates a new responsibility for organizations too.
 
 A company with cheap generation can produce far more initiatives than it can execute. Every team can create proposals, analyses, product concepts, campaigns, experiments, and internal tools. The danger is not a shortage of ideas. It is organizational indigestion.
@@ -120,6 +170,30 @@ The marginal artifact is cheap enough that nobody feels the cost of making it.
 
 The cost appears downstream as attention.
 
+A peculiar inversion follows.
+
+When production was expensive, organizations sometimes used the act of production as proof that an idea was serious. A proposal that required weeks of analysis had already survived a small test: somebody had persuaded people to spend weeks on it.
+
+When the same artifact can be generated in an afternoon, that signal weakens.
+
+The institution has to replace effort with a better test.
+
+Who is willing to own the decision?
+
+What scarce resource will be committed?
+
+What will stop if this starts?
+
+What evidence would make the organization abandon it?
+
+These questions are harder to fake because they force the possibility back into contact with consequence.
+
+That contact is where meaning often becomes legible.
+
+A goal begins to matter differently when it consumes calendar time, budget, political capital, reputation, or an obligation to another person. Those are not the only forms of meaning, but they make preference costly enough that institutions have to rank it.
+
+Artificial abundance does not remove the need for ranking. It removes some of the excuses for postponing it.
+
 This is why the meaning shortage connects directly to the book's earlier chapters on judgment and attention. Meaning is partly the act of assigning weight. This matters more than that. This obligation outranks that opportunity. This person deserves my presence. This project is worth finishing even though another idea now looks shinier.
 
 A model can assist these judgments. It can remind us of stated priorities. It can reveal inconsistencies. It can simulate consequences. It can ask questions we forgot to ask.
@@ -144,7 +218,25 @@ A writer who can generate a chapter in minutes still has to decide whether the c
 
 The hard part migrates from possibility toward commitment.
 
-There is counterevidence worth taking seriously. Assistance may not merely create more options; it can help people clarify what they care about. A conversational system can make reflection accessible to someone who would never hire a coach or counselor. A creative tool can let a person discover an interest through making rather than through abstract choice. A translator can let someone participate in a community that gives life more meaning, not less.
+There is a danger in stating this too romantically. Commitment can be wrong. A person can stay with a harmful job because leaving feels like failure. A company can continue a doomed project because too much identity has attached to it. A country can mistake consistency for wisdom.
+
+The value of commitment is not that it makes reversal shameful.
+
+It is that it turns preference into something testable by reality.
+
+Once you choose a project, reality can answer. The customers do not arrive. The work is better than expected. The relationship grows. The city feels wrong after six months. The skill becomes absorbing. The supposedly meaningful pursuit becomes an expensive way to avoid a different obligation.
+
+An unchosen possibility cannot teach very much.
+
+Infinite optionality can therefore become a way of avoiding information.
+
+You preserve every future and learn none of them.
+
+A good assistant may help by lowering the cost of trying one path far enough to get evidence. That is the strongest counterpoint to the whole chapter. Artificial abundance can make experimentation cheaper, and cheaper experiments can improve commitment rather than undermine it.
+
+The person does not have to choose a career from twenty descriptions. She can simulate tasks, build a small project, talk through scenarios, learn enough vocabulary to ask better questions, and then update her view.
+
+More options combined with cheaper experimentation can produce better choices.
 
 The technology can widen the space in which meaning is found.
 
