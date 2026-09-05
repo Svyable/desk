@@ -30,10 +30,8 @@ Use for: Hypertext Editing System, Nelson's influence, clickable-link concepts, 
 
 ## S04 — Douglas Engelbart / NLS / 1968 demonstration
 
-Computer History Museum timeline and retrospective.
-
 - https://www.computerhistory.org/timeline/1968/
-- https://computerhistory.org/blog/net-50-did-engelbart-s-mother-of-all-demos-launch-the-connected-world/
+- https://computerhistory.org/blog/net-50-did-engelbarts-mother-of-all-demos-launch-the-connected-world/
 
 Use for: NLS, linked addressable text, collaboration, pointing device, and the 1968 public demonstration. Avoid the simplified myth that Engelbart “invented everything” shown in the demo; the system was a team effort built over time.
 
@@ -53,9 +51,9 @@ Use for: the practical CERN information problem, hiding network addresses behind
 ## S07 — W3C, Architecture of the World Wide Web
 
 - https://www.w3.org/TR/webarch/
-- historical working draft used during initial research: https://www.w3.org/TR/WD-webarch-20031001/
+- https://www.w3.org/TR/WD-webarch-20031001/
 
-Use for: identification, interaction, representation, URI-based naming, and the definition of a link as a relation formed when one resource refers to another using a URI. Especially important for the book's claim that global naming lowers the cost of communication between independent communities.
+Use for: identification, interaction, representation, URI-based naming, and the definition of a link as a relation formed when one resource refers to another using a URI. Especially important for the claim that global naming lowers the cost of communication between independent communities.
 
 ## S08 — RFC 3986, Uniform Resource Identifier (URI): Generic Syntax
 
@@ -96,13 +94,13 @@ Use for: evidence that links became economically valuable ranking signals, the r
 
 - https://perma.cc/about
 
-Use for: link rot, the archival response to unstable citations, and the cited finding that in a sample of legal journals roughly 70% of links in citations from 1999–2011 no longer pointed to the same material. Trace the underlying study before using the statistic in publication copy if the chapter relies heavily on it.
+Use for: link rot, the archival response to unstable citations, and legal/scholarly preservation practice. Statistics from secondary summaries should be traced to the underlying study before publication if relied upon quantitatively.
 
 ## S14 — Apple Universal Links
 
 - https://developer.apple.com/documentation/xcode/allowing-apps-and-websites-to-link-to-your-content
 
-Use for: HTTP(S) URLs opening specific app content, verified association between site and app, and graceful fallback to the browser when an app is absent. This demonstrates the persistence of Web addressing even inside native-app ecosystems.
+Use for: HTTP(S) URLs opening specific app content, verified association between site and app, and browser fallback when an app is absent. This demonstrates the persistence of Web addressing inside native-app ecosystems.
 
 ## S15 — Android App Links
 
@@ -116,28 +114,55 @@ Use for: verified website URLs routed to app content, domain verification, and t
 
 Use for: using HTTP URIs to identify things as well as documents, redirect and representation patterns, and the broader idea that stable identifiers can support machine-readable relationships.
 
-## S17 — Historical Mosaic material
-
-Computer History Museum and CERN provide the preferred broad historical anchors. Supplemental historical material:
+## S17 — Historical browser / Web adoption material
 
 - https://www.computerhistory.org/timeline/networking-the-web/
 - https://home.cern/science/computing/the-birth-of-the-web/short-history-web/
 
-Use for: browser adoption context and the movement from research systems toward mass use. Avoid the false claim that Mosaic was the first Web browser.
+Use for: browser adoption context and movement from research systems toward mass use. Avoid the false claim that Mosaic was the first Web browser.
 
-## S18 — Repository and protocol sources to add during revision
+## S18 — Harvard Law School, New York Times link rot and content drift study (2021)
 
-Publication-quality revision should add primary sources for:
+Jonathan Zittrain, John Bowers & Clare Stanton, *The Paper of Record Meets an Ephemeral Web: An Examination of Linkrot and Content Drift within The New York Times*.
 
-- the original 1989 CERN proposal and 1990 proposal with Robert Cailliau;
-- HTML anchor semantics and the evolution of `rel` values;
-- HTTP redirect semantics;
-- legal cases concerning deep linking and inline linking;
-- DOI / Handle persistence and scholarly citation infrastructure;
-- academic measurements of Web link rot outside legal scholarship;
-- contemporary evidence for platform treatment of outbound links;
-- contemporary AI answer systems and citation behavior if named products remain in the manuscript.
+- https://hls.harvard.edu/bibliography/the-paper-of-record-meets-an-ephemeral-web-an-examination-of-linkrot-and-content-drift-within-the-new-york-times/
+- https://cyber.harvard.edu/publication/2021/paper-record-meets-ephemeral-web
+
+Use for: empirical evidence that links can decay either by failing outright or by continuing to resolve after the cited content has changed. The study examines New York Times links from the launch of the Times website through mid-2019 and reports substantial deterioration over time.
+
+## S19 — W3C TAG, “Deep Linking” in the World Wide Web (2003)
+
+- https://www.w3.org/2001/tag/doc/deeplinking-20030217.html
+- https://www.w3.org/copyright/intellectual-rights/
+
+Use for: the architectural position that Web resources are identified by URIs and that ordinary reference to public Web resources should not be confused with access control. The W3C's own site policy explicitly states that no permission is required merely to link to its site while separately prohibiting misrepresentation.
+
+## S20 — OWASP, unvalidated redirects / open redirects
+
+- https://cheatsheetseries.owasp.org/cheatsheets/Unvalidated_Redirects_and_Forwards_Cheat_Sheet.html
+- https://owasp.org/www-community/attacks/open_redirect
+
+Use for: the concrete security case in which an application accepts an untrusted redirect target, allowing a trusted-looking URL to send a user to an attacker-controlled destination or participate in a larger exploit chain. Do not generalize this single class into all hyperlink security failures.
+
+## S21 — DOI Foundation, DOI Handbook
+
+- https://www.doi.org/doi-handbook/html/
+- https://www-new.doi.org/the-identifier/resources/handbook/
+
+Use for: DOI names as globally unique persistent identifiers, resolution through the Handle System, and persistence as a combination of technical resolution plus social infrastructure, policies, agreements, and registrant maintenance. This is the preferred primary source for the chapter's point that persistence is institutional rather than magical.
+
+## S22 — Sources still required for publication revision
+
+Publication-quality revision should add or strengthen primary sources for:
+
+- the original 1989 CERN proposal and 1990 proposal with Robert Cailliau rather than relying only on CERN retrospectives;
+- HTML anchor semantics and evolution of `rel` values;
+- HTTP redirect semantics alongside security guidance;
+- representative legal cases on linking and inline linking if the final manuscript names or analyzes cases;
+- the Handle System/Crossref implementation layer if the DOI discussion grows beyond its present conceptual use;
+- contemporary platform treatment of outbound links if specific companies or ranking policies are named;
+- contemporary AI answer-system citation behavior if specific products are named.
 
 ## Research discipline
 
-The central argument is interpretive. Sources establish the history and technical properties; they do not “prove” that the link changed civilization. The manuscript must keep causal language proportional. Prefer “enabled,” “made cheap,” “made legible,” “made scalable,” or “became a substrate for” when a stronger claim would erase other causes.
+The central argument is interpretive. Sources establish the history and technical properties; they do not “prove” that the link changed civilization. Keep causal language proportional. Prefer “enabled,” “made cheap,” “made legible,” “made scalable,” or “became a substrate for” when a stronger claim would erase other causes.
