@@ -48,7 +48,7 @@ A second form of counterfeit frontier comes from proxy substitution.
 
 An objective is difficult to measure, so the organization chooses a proxy. The proxy becomes a target. Over time the proxy and the objective diverge.
 
-Schools care about learning and measure test scores. Hospitals care about health and measure selected clinical outcomes. companies care about customer value and measure engagement, retention, or net promoter scores. Governments care about welfare and measure economic output. Researchers care about scientific contribution and count publications or citations. Managers care about productive capacity and track utilization.
+Schools care about learning and measure test scores. Hospitals care about health and measure selected clinical outcomes. Companies care about customer value and measure engagement, retention, or net promoter scores. Governments care about welfare and measure economic output. Researchers care about scientific contribution and count publications or citations. Managers care about productive capacity and track utilization.
 
 Proxies are unavoidable. The trouble begins when the frontier is optimized in proxy space and assumed to have improved in outcome space.
 
@@ -185,3 +185,39 @@ A counterfeit frontier is not exposed by clever suspicion alone. It is exposed b
 The most dangerous graph is not the one with bad math.
 
 It is the one with impeccable math around the wrong problem.
+
+Counterfeit detection becomes more difficult when the baseline is also manipulated. A proposal can look like a frontier expansion because it is compared with a weak version of the status quo. The new process receives competent staffing and executive attention; the old process is represented by its worst quarter. The new technology is modeled at mature scale; the incumbent system is priced with every legacy cost. The comparison is technically populated and structurally unfair.
+
+A credible frontier needs a counterfactual baseline, not merely a current snapshot.
+
+What would the old system achieve after the same amount of investment, learning, or management attention? What would happen if we did nothing but also did not freeze in place? Which costs belong to transition rather than steady state? Which benefits are temporary because the new option is receiving unusual support?
+
+This matters especially in transformation programs. The future option is often drawn as a stable destination while the incumbent is measured during decline. A fair comparison should show transition paths for both.
+
+Selection can counterfeit progress at smaller scales too. A model is evaluated on easier cases after difficult cases are routed to people. Automation appears more accurate because the comparison excludes the cases it refuses. A new clinic reports better throughput because complex patients are sent elsewhere. A school improves an average by changing who remains in the denominator.
+
+The intervention may still create value. The claim has changed.
+
+It is no longer "we improved the frontier for the same problem." It may be "we partitioned the problem so this subsystem can operate efficiently on a narrower set." That can be excellent system design if the excluded cases are handled well. It becomes counterfeit when the residual system disappears from the measurement.
+
+This is why every impressive ratio should be accompanied by a population statement.
+
+For whom? Under which cases? At what volume? With what exclusions?
+
+A related problem appears in benchmarking artificial systems and people. A machine can outperform a person on a defined task while depending on human preparation, exception handling, data labeling, infrastructure, and recovery outside the benchmark. A person can outperform a machine when the measurement includes ambiguity and adaptation. The useful question is not who "wins" in the abstract. It is where the system boundary is drawn and which work moved outside it.
+
+Benchmark theater is counterfeit-frontier theater with a leaderboard.
+
+The strongest antidote is an adversarial replication. Give a skeptical team the same claim and ask them to reconstruct the boundary, baseline, population, time horizon, and subsidy. If the improvement survives, confidence should rise. If the advantage disappears as soon as one omitted cost returns, the claim has done useful work by failing early.
+
+This is different from assigning someone to invent objections. The skeptic needs a falsifiable task: identify a plausible accounting change that reverses dominance, then test whether it is material.
+
+A mature organization should welcome that test before committing capital and resent it only after the marketing copy has hardened.
+
+There is a final tell. Counterfeit frontiers often require unusually precise language about benefits and unusually vague language about costs. Revenue is quantified; organizational disruption is "manageable." Speed is measured; reliability risk is "acceptable." Savings are scheduled; transition capability is "to be developed."
+
+Asymmetry of precision is evidence about where the model is weakest.
+
+When one side of the trade has numbers and the other has adjectives, do not assume the numbers are more important.
+
+Assume the adjectives are where the unpaid bill may be hiding.

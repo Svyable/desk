@@ -179,3 +179,53 @@ That permission is valuable because resources saved at one frontier reappear on 
 Enough is not the opposite of ambition.
 
 It is how ambition avoids eating its own budget.
+
+Enough is easier to govern as a band than as a single point. A single threshold creates the temptation to manage exactly to the number. A band can distinguish unacceptable, sufficient, and exceptional performance.
+
+Below the floor, improvement receives priority because the mission is not being met. Inside the sufficient band, tradeoffs with other objectives become legitimate. Above the upper edge, additional improvement requires a specific reason because the marginal resources probably belong elsewhere.
+
+The band makes room for noise.
+
+A service with a fifteen-minute target should not reorganize itself every time one week averages sixteen. A system operating near a hard safety threshold, by contrast, may need a buffer because measurement and conditions vary. Enough should be defined with the uncertainty of the metric in mind.
+
+This prevents threshold fetishism.
+
+The point of enough is not to turn one optimization problem into a new target game. It is to create a stopping rule robust enough that ordinary variance does not trigger constant reallocation.
+
+Enough can also differ by segment. A hospital may need different response requirements for different clinical urgency. A cloud provider can offer different reliability tiers. A logistics company may promise different delivery speeds by service level. A household may require much more certainty for housing than for vacation plans.
+
+One universal threshold is attractive administratively and often wrong substantively.
+
+Tiered enough lines can preserve resources by matching service intensity to consequence.
+
+They can also create unfairness when the lower tier is imposed on people with less power rather than chosen or justified by need. A two-tier system is not efficient merely because it is segmented. The question remains who gets which line and why.
+
+This is especially important in public systems. A school, court, hospital, or transit network may be tempted to define "acceptable" service in aggregate while a particular group consistently sits below it. The average crosses the enough line and the distribution does not.
+
+Sufficiency has to be checked at the level where the mission is owed.
+
+The enough line also changes competition. In markets, an objective that has crossed sufficiency for customers may still matter competitively if a rival uses it as a signal. A camera can be good enough for ordinary use while specification races continue. A delivery network can be fast enough for customer need while firms compete on speed because the number is easy to advertise. A fund can be adequately diversified while clients chase a recent return ranking.
+
+Competitive pressure can push systems beyond user sufficiency.
+
+Sometimes that race produces innovation that later matters. Sometimes it consumes resources in positional competition. The distinction is whether the extra unit creates durable value or merely preserves relative status.
+
+This is why an enough line is ultimately a portfolio-allocation concept. Stopping on one dimension is not inactivity. It releases scarce resources for another dimension whose marginal return is higher.
+
+A company that stops shaving milliseconds can invest in accessibility. A household that decides the current house is enough can invest in financial freedom. A city that stops widening one road can improve transit reliability elsewhere. A researcher who stops polishing a settled method can explore another question.
+
+Enough is the point where the opportunity cost becomes more interesting than the improvement.
+
+There is also courage in declaring enough because many institutions reward visible maximization and do not reward the opportunity preserved by stopping. An executive can point to market share gained, not to complexity avoided. A professional can point to the promotion accepted, not to the family schedule preserved. A product team can demo the feature built, not the maintenance burden never created.
+
+The gains from enough are often counterfactual.
+
+That makes the discipline vulnerable unless the released resource is deliberately reallocated. "We are done optimizing this" should be followed by "therefore this is what we will do instead."
+
+Otherwise enough can become a polite name for drift.
+
+A good enough line has a mission basis, a measurement tolerance, a review condition, and a competing use for the resources it saves.
+
+That is much more demanding than saying good enough.
+
+It is a decision about where ambition should move next.
