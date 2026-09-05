@@ -207,3 +207,43 @@ Does it hide uncertainty behind decimal scores? Does it resolve disagreement thr
 The answer determines more than fairness among applicants.
 
 It determines which branches of science get the chance to become facts.
+
+A stronger funding system would go one step further and keep two ledgers at once. The first is the ordinary spending ledger: where the money went, whether milestones were met, whether the work was executed competently. The second is an uncertainty ledger: which kinds of questions the portfolio is buying information about, where evidence remains thin, and which scientific possibilities are repeatedly losing at the same gate.
+
+Those ledgers answer different questions.
+
+A program can be financially well managed and epistemically narrow. Every funded project can finish on time while the portfolio quietly stops sampling certain methods, institutions, regions, or classes of problem. Conversely, a portfolio can contain several failed exploratory projects and still have purchased valuable information about where not to invest next.
+
+The uncertainty ledger makes those outcomes visible before hindsight rewrites them as obvious.
+
+This is especially important because science funding has a tendency to count outputs rather than option value. A grant that produces five papers is easy to defend. A small award that reveals a new method is infeasible may look weak even if it prevents a larger waste. A pilot dataset that shows a promising idea needs a different instrument may not generate many citations while still changing the next decision. An exploratory project can be valuable because it changes the map, not because it wins the same productivity contest as a mature laboratory.
+
+Portfolio governance should therefore distinguish at least three kinds of failure.
+
+There is execution failure: the researchers did not do what competent work required. There is hypothesis failure: the work was well executed and the idea did not hold up. And there is portfolio failure: the funder repeatedly allocated exploration money in ways that produced little new information because the projects were too similar, the milestones were badly chosen, or the learning never changed later funding decisions.
+
+Only the first of these is straightforwardly a reason to distrust the investigators.
+
+Hypothesis failure is often the point of research. Portfolio failure belongs to the institution.
+
+That distinction changes how a funder should review an exploratory program. If every uncertain project is judged ex post by whether it became a success story, the funder will learn to avoid honest uncertainty. Program managers will select projects that can survive retrospective scrutiny. Applicants will describe exploratory work as nearly certain. The exploration portfolio will slowly become exploitation with adventurous vocabulary.
+
+A better review asks whether the uncertainty was real, whether the project was designed to resolve it, whether the evidence was collected well, and whether the result—positive or negative—changed what the funder or field did next.
+
+The last clause is the hardest.
+
+Institutions are good at funding experiments and surprisingly weak at retiring beliefs. A null result can be published and then ignored. A pilot can fail and a larger program can proceed for political reasons. A lottery can reveal that reviewer rank predicts less than expected and the old ranking culture can return because it feels more professional. Evidence does not automatically become policy.
+
+The funding agency therefore needs a memory mechanism connecting exploratory results to later allocation. Which calls changed because of prior learning? Which thresholds moved? Which once-uncertain methods became ordinary? Which programs were closed because repeated tests failed? Which fields received more infrastructure because small awards revealed latent capacity?
+
+If those links cannot be traced, the system may be generating evidence without learning from it.
+
+There is also a case for preserving some unsuccessful proposals as data, not merely discarding them as administrative exhaust. Panels could record structured reasons why a meritorious proposal fell below the line, especially when the reason was uncertainty rather than a fatal flaw. Over time, the agency could see whether the same categories of uncertainty recur. Perhaps interdisciplinary proposals repeatedly die because no panel owns them. Perhaps new investigators clear quality thresholds but lose at the final ranking stage. Perhaps certain methods are judged “not ready” for a decade while the evidence needed to make them ready is never funded.
+
+The rejected proposal archive can reveal the shape of institutional hesitation.
+
+Privacy, burden, and gaming concerns mean such records should not become another giant scoring apparatus. The point is not to preserve every reviewer thought forever. It is to keep enough structure that the organization can distinguish a portfolio shaped by evidence from one shaped by repeated habit.
+
+The funding line will always exclude more possibilities than it admits. Scarcity guarantees that.
+
+The mature question is whether the excluded possibilities remain entirely silent, or whether the institution preserves enough memory of its uncertainty to know where a future exploration budget might be most valuable.
