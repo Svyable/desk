@@ -248,6 +248,90 @@ Resolution creates opportunity for better decisions.
 
 It does not eliminate the need to choose what matters.
 
+Measurement has another hidden degree: time.
+
+A thermometer is not only located somewhere. It samples at some moment and some frequency.
+
+A single reading can miss a fever that rose and fell overnight. A monthly unemployment figure can miss the churn hidden inside the month. An annual income number can make two households look identical even if one earns steadily and the other moves through months of scarcity and abundance. A quarterly performance review can compress a year whose important change occurred in the final six weeks.
+
+Sampling turns a moving curve into points.
+
+The points are not false.
+
+They are incomplete in a specific way.
+
+A system that samples too slowly can miss transitions. A system that samples too quickly can mistake noise for movement. The correct frequency depends on how quickly the underlying process can change and how costly it is to react.
+
+This is familiar in physical monitoring. A rapidly changing machine needs sensors capable of seeing the relevant dynamics. It is less familiar in institutions, which often inherit reporting rhythms from accounting calendars, school years, election cycles or software defaults rather than from the phenomenon being measured.
+
+The quarter becomes a fact of business because businesses report by quarter.
+
+The semester becomes a fact of education because schools grade by semester.
+
+The annual eligibility review becomes a fact of poverty administration because the form is annual.
+
+The calendar imposes resolution.
+
+Then people optimize around the resolution.
+
+Revenue is pulled into the quarter. Students study for the exam window. Organizations delay a bad announcement until a reporting moment passes. Households plan paperwork around recertification dates. The sampling scheme begins changing the thing sampled.
+
+This is one reason measurement should be treated as part of system design rather than a neutral camera pointed at reality.
+
+Where is the sensor?
+
+When does it look?
+
+How often?
+
+How does it round?
+
+What happens to values between observations?
+
+What do people gain by appearing one way at the observation moment?
+
+A threshold applied to a snapshot can be especially brittle when the underlying state is volatile.
+
+Imagine two households with the same average annual income. One receives a predictable paycheck every two weeks. The other earns irregularly through seasonal contracts. A rule based on one month's income can move the second household in and out of eligibility even if its longer-term resources are similar.
+
+The number changed.
+
+The person's underlying need may not have changed nearly as much.
+
+This is where averaging can be humane rather than merely statistical. A rolling window can prevent transient noise from forcing abrupt treatment. But smoothing has a cost too. If a person's circumstances deteriorate suddenly, a long average can make the system slow to recognize the emergency.
+
+Fast recognition and stable classification pull in opposite directions.
+
+That is a control problem.
+
+Good design makes the trade visible.
+
+There is a similar tension between accuracy and legibility.
+
+A single wall thermostat is crude and understandable. A building model using dozens of sensors can be more accurate and harder to contest. If the model decides that one room receives less heating because predicted occupancy is low, the person sitting there may experience a highly optimized system as arbitrary.
+
+The same thing happens when institutions replace simple cutoffs with complex prediction.
+
+The cliff may become smoother while the reasoning becomes less visible.
+
+Gradation therefore cannot mean “always use the finest possible model.”
+
+The right resolution is the finest resolution that improves the decision enough to justify its cost, uncertainty and loss of legibility.
+
+A thousand decimal places are not wisdom.
+
+Sometimes one more bit of context is more valuable than another digit.
+
+Is the room cooling or warming?
+
+Is the patient improving or deteriorating?
+
+Is the household's income stable or volatile?
+
+Is the student learning quickly or merely sitting near a score threshold?
+
+Direction can matter more than precision.
+
 That is nearly the whole book hiding in a device mounted on the wall.
 
 The world offers continuous variables whether or not our vocabulary has enough words for them.
@@ -264,7 +348,9 @@ Equal differences in the input do not guarantee equal differences in the outcome
 
 The same measured point may not mean the same state if history matters.
 
-And a precise measurement can still be only a proxy for the field we actually care about.
+A precise measurement can still be only a proxy for the field we actually care about.
+
+And every measurement has a location, a frequency and a resolution that decide which differences become visible at all.
 
 There is one more lesson.
 
