@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 44 author projects · 42 released · 2 public drafts/proofs**
-> **Where they live: 44 in both Desk + Shelf · 43 Desk-only · 0 Shelf-only**
-> **Release review queue: 6 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 45 author projects · 43 released · 2 public drafts/proofs**
+> **Where they live: 45 in both Desk + Shelf · 42 Desk-only · 0 Shelf-only**
+> **Release review queue: 5 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -24,6 +24,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Agentile**](books/agentile/) | ✍️ Drafting | 🟡 Public proof | [Shelf →](https://svyable.github.io/shelf/reader/#/b/agentile/) |
 | [**Allocating Intelligence**](books/allocating-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/allocating-intelligence/) |
 | [**America's Got a Spending Problem**](books/americas-got-a-spending-problem/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/americas-got-a-spending-problem/) |
+| [**APPEAL**](books/appeal/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/appeal/) |
 | [**Artificial Identity**](books/artificial-identity/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/artificial-identity/) |
 | [**Austerity Measures**](books/austerity-measures/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/austerity-measures/) |
 | [**Energy, Value & Intelligence**](books/energy-value-intelligence/) | ✍️ Drafting | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/energy-value-intelligence/) |
@@ -65,7 +66,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [APPEAL](books/appeal/), [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Commit](books/commit/), [Robust](books/robust/), [The Orphan Age](books/the-orphan-age/), [The Risk Pool](books/the-risk-pool/), [The Unobserved World](books/the-unobserved-world/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -284,4 +285,4 @@ For the edition model, see [Revising a published book](https://github.com/Svyabl
 
 ## Public discovery surface
 
-When Desk Pages is enabled, the working-proof site also exposes [`llms.txt`](https://svyable.github.io/desk/llms.txt), [`robots.txt`](https://svyable.github.io/desk/robots.txt), [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml), and [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md).
+When Desk Pages is enabled, the working-proof site also exposes [`llms.txt`](https://svyable.github.io/desk/llms.txt), [`robots.txt`](https://svyable.github.io/desk/robots.txt), [`sitemap.xml`](https://svyable.github.io/desk/sitemap.xml), and [`AGENTS.md`](https://svyable.github.io/desk/AGENTS.md`).
