@@ -124,6 +124,14 @@ Information theory became powerful partly because Shannon refused to solve the e
 
 Those questions were smaller than communication and large enough to transform engineering.
 
+It helps to make that narrowing concrete. Imagine two people trying to communicate across a line that occasionally corrupts a signal. They care about the sentence being sent; perhaps it is trivial, perhaps urgent. At the engineering layer, however, the immediate problem is different. Which signal sequences are possible? How often does the source choose among them? How does noise alter what reaches the receiver? What extra structure could make the intended sequence recoverable despite those alterations?
+
+The engineer can answer those questions without deciding whether the sentence is true, kind, grammatical, politically wise, or worth sending. None of those human properties has ceased to exist. They have been placed outside the boundary of the problem being solved. That is the bargain abstraction offers: give up the ambition to explain everything, and in return obtain a problem precise enough to attack.
+
+The bargain always has a bill. A model that deliberately ignores meaning cannot later be cited as proof that meaning is irrelevant. A model that treats a relay as a logical state cannot tell you whether a corroded contact will fail on Tuesday. A model that treats a roulette wheel as measurable dynamics cannot guarantee that the measurements will be timely or the hidden computer reliable. The omitted detail returns whenever the question changes.
+
+Shannon’s strongest abstractions survived because their boundaries were productive, not because the discarded world disappeared. They let engineers solve one layer cleanly and then hand the remaining problems to another layer. The distinction is less glamorous than a claim to universal explanation, but it is far more useful. It is also one reason his work scaled beyond the particular machines around him: the abstraction did not depend on preserving every feature of those machines.
+
 This habit of narrowing without trivializing will follow him through the book. In switching circuits, the physical relay becomes a logical state. In cryptography, the adversary’s uncertainty becomes something that can be analyzed. In chess, intelligence becomes partly a problem of searching a tree without searching all of it. In roulette, prediction becomes mechanics plus measurement plus timing. In investing, repeated uncertainty becomes a question about allocation and growth.
 
 Not every reduction works. Every abstraction loses something. Shannon’s genius was not that he could ignore details indiscriminately. It was that he was unusually good at finding which details a particular question could survive without.
