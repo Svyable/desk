@@ -6,7 +6,7 @@
 | **Status**    | Drafting |
 | **Drafting Source** | Sven Hardy Benson's Desk |
 | **Publication Surface** | Sven Hardy Benson's Shelf |
-| **Chapters**  | 8 of 20 drafted |
+| **Chapters**  | 10 of 20 drafted |
 
 Claude Shannon and the Invention of the Digital Mind.
 
@@ -29,8 +29,8 @@ The aim is not hagiography. Shannon's genius came bundled with a documented aver
 - [x] [Ch 8 — The War Room](manuscript/ch08-the-war-room.md)
 - [x] [Ch 9 — Tea With Turing](manuscript/ch09-tea-with-turing.md)
 - [x] [Ch 10 — A Mathematical Theory of Communication](manuscript/ch10-a-mathematical-theory-of-communication.md)
-- [ ] [Ch 11 — The Measure of Uncertainty](manuscript/ch11-the-measure-of-uncertainty.md)
-- [ ] [Ch 12 — Theseus in the Maze](manuscript/ch12-theseus-in-the-maze.md)
+- [x] [Ch 11 — The Measure of Uncertainty](manuscript/ch11-the-measure-of-uncertainty.md)
+- [x] [Ch 12 — Theseus in the Maze](manuscript/ch12-theseus-in-the-maze.md)
 - [ ] [Ch 13 — The Chess Problem](manuscript/ch13-the-chess-problem.md)
 - [ ] [Ch 14 — Entropy House](manuscript/ch14-entropy-house.md)
 - [ ] [Ch 15 — The Wearable Computer](manuscript/ch15-the-wearable-computer.md)
