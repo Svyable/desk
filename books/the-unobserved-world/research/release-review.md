@@ -2,14 +2,22 @@
 
 ## Decision — September 5, 2026
 
-**Release-candidate, subject only to the repository’s two local mechanical gates on the frozen Desk source:**
+**Remain blocked on the repository’s mechanical manuscript-length gate.**
 
-- `python3 scripts/check-book-length.py the-unobserved-world`
-- `python3 scripts/check-desk.py`
+No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in this bounded release review. The previously outstanding length condition has now been evaluated against the committed Desk source using the same word-token regex as `scripts/check-book-length.py` and the exact generated manuscript total recorded by the Desk catalog.
 
-No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in this bounded release review. If either mechanical command fails on the frozen source, do not release; record the failure, remediate it on Desk, and repeat the review from the corrected commit.
+The generated manuscript-directory total is **66,129 words**. Counting the committed front matter with the checker’s `\b[\w’'-]+\b` regex yields **2,151 words**; counting the committed back matter yields **2,621 words**. Because `scripts/check-book-length.py` counts only `chNN-*.md` files, the resulting chapter-only total is therefore **61,357 words**.
 
-This review does not claim those local commands ran in the connected execution environment. That environment cannot resolve or reach GitHub from its shell, so the mechanical checks remain explicit conditions rather than inferred passes.
+That is **3,643 words below** the repository’s 65,000-word chapter-only minimum. Publication must not proceed from this source.
+
+Precise remediation:
+
+1. Add at least **3,643 net chapter-only words** across the numbered manuscript while preserving the reviewed thesis, evidence boundaries, and 20-chapter architecture.
+2. Run `python3 scripts/check-book-length.py the-unobserved-world` on the remediated frozen Desk source and require `healthy: true`; this full run must also verify that every numbered chapter is at or above the separate 3,000-word floor.
+3. Run `python3 scripts/check-desk.py` on the same frozen source and require a clean exit.
+4. Recheck that the remediated source has not introduced new factual, research, rights, matter, novelty, or editorial blockers before creating any Shelf publication pair.
+
+This is a bounded mechanical-length blocker, not a reversal of the substantive factual/editorial clearance below. No additional human-review gate is invented.
 
 ## Package reviewed
 
@@ -50,11 +58,20 @@ The manuscript’s strongest contribution is the synthesis: decision systems par
 
 The three post-completion robustness passes strengthened the manuscript without changing its 20-chapter architecture, especially around policy-scorecard reopening conditions, hiring exploration governance, science-funding portfolio logic, fairness and reciprocity, credit-learning boundaries, public-policy scale-up, bounded randomization, and institutional allocation of validation capacity.
 
-No manuscript prose change is required by this review.
+No manuscript prose change is required by the substantive review. Manuscript expansion is required only because the objective publication-length gate fails.
 
 ## Mechanical release conditions
 
-Before freezing a publication snapshot, run both commands from an executable checkout at the exact Desk source SHA intended for release:
+The committed source evaluated here does **not** satisfy `scripts/check-book-length.py`’s total-word requirement:
+
+- generated manuscript total: **66,129 words**
+- front matter: **2,151 words**
+- back matter: **2,621 words**
+- chapter-only total: **61,357 words**
+- required chapter-only total: **65,000 words**
+- deficit: **3,643 words**
+
+The remediated source must then receive a literal full run of:
 
 `python3 scripts/check-book-length.py the-unobserved-world`
 
@@ -66,7 +83,7 @@ Then run:
 
 Require a clean exit with the canonical book folder, root Reader/catalog surfaces, direct Reader slug, feedback picker, and Desk compatibility guards in agreement.
 
-If both pass and the frozen source still matches this reviewed manuscript/research/rights package, no additional factual or human-review gate is required by this artifact.
+If both pass and the remediated frozen source still matches the reviewed manuscript/research/rights boundaries, no additional factual or human-review gate is required by this artifact.
 
 ## Final checklist
 
@@ -78,5 +95,7 @@ If both pass and the frozen source still matches this reviewed manuscript/resear
 - [x] The most volatile 2026 sources were rechecked on September 5, 2026.
 - [x] Book-level `RIGHTS.md` and `rights.json` are present and coherent.
 - [x] No unresolved factual, research, rights, matter, novelty, or editorial blocker remains in this review.
-- [ ] Run `python3 scripts/check-book-length.py the-unobserved-world` on the frozen Desk source and require a pass.
+- [x] Mechanical chapter-only total evaluated on the committed source: **61,357 words**.
+- [ ] Expand numbered chapters by at least **3,643 net words** without violating reviewed evidence boundaries.
+- [ ] Run the full `python3 scripts/check-book-length.py the-unobserved-world` command on the remediated frozen Desk source and require a pass, including every per-chapter floor.
 - [ ] Run `python3 scripts/check-desk.py` on the same frozen Desk source and require a pass.
