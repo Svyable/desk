@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 20 of 24 drafted |
+| **Chapters**  | 24 of 24 drafted |
 
 *When Intelligence Becomes Cheap, What Becomes Priceless?*
 
@@ -35,13 +35,10 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [x] [Ch 18 — The Physical Premium](manuscript/ch18-the-physical-premium.md)
 - [x] [Ch 19 — The Meaning Shortage](manuscript/ch19-the-meaning-shortage.md)
 - [x] [Ch 20 — Agency After Assistance](manuscript/ch20-agency-after-assistance.md)
-
-## Planned chapters
-
-21. Institutions for Plenty
-22. The Politics of Plenty
-23. Stay Expensively Human
-24. The Last Scarce Thing
+- [x] [Ch 21 — Institutions for Plenty](manuscript/ch21-institutions-for-plenty.md)
+- [x] [Ch 22 — The Politics of Plenty](manuscript/ch22-the-politics-of-plenty.md)
+- [x] [Ch 23 — Stay Expensively Human](manuscript/ch23-stay-expensively-human.md)
+- [x] [Ch 24 — The Last Scarce Thing](manuscript/ch24-the-last-scarce-thing.md)
 
 ## Research
 
