@@ -1,14 +1,16 @@
 # Chapter Research Briefs — 26–30
 
-These briefs extend the working research controls for *The Expiration Economy*. They are not chapter outlines. Their job is to keep the late-book expansion distinct from earlier chapters, identify evidence still needed, and preserve counterarguments before any publication pass.
+These briefs extend the working research controls for *The Expiration Economy*. They are not chapter outlines. Their job is to keep the late-book expansion distinct from earlier chapters, record the evidence now incorporated, and preserve counterarguments before any publication pass.
 
 ## Chapter 26 — After the Founder
 
 **Job:** Separate founder succession from the broader inheritance problem by examining organizations whose operating model is partly embodied in one person’s judgment, relationships, preferences, credentials, and tacit history.
 
-**Evidence to deepen:** Founder succession studies; key-person risk; governance transitions; role-based versus person-bound ownership of operational systems; documentation and knowledge-transfer practices; cases where founder departure improved institutionalization and cases where it destroyed unusual judgment capacity.
+**Evidence now incorporated:** AppLovin’s 2026 SEC annual report explicitly treats dependence on co-founder and CEO Adam Foroughi as a material risk tied to vision, strategy, culture, products, and technology. The chapter uses that disclosure as evidence that founder dependence can be economically real and formally recognized. It then tests succession operationally through person-bound accounts, customer relationships, undocumented decision boundaries, and synthetic founder archives.
 
 **Counterevidence / falsification:** Founder dependence is not always pathological. Exceptional centralized judgment can outperform formal process, and some organizations lose coherence when succession professionalizes away the qualities that made them distinctive. If evidence shows that distributed institutionalization systematically destroys more value than it preserves in the relevant class of firms, narrow the chapter from “de-personalize the institution” to “make person-bound dependencies legible and deliberately chosen.”
+
+**Publication check:** Do not generalize one SEC disclosure into a universal founder-risk claim. Preserve the distinction between recognizing key-person risk and proving that a particular governance structure is inefficient.
 
 **Avoid:** Founder worship, anti-founder bureaucracy, or claiming charisma can be transferred through documentation. Do not treat a synthetic founder model as equivalent to the living founder’s adaptive judgment.
 
@@ -18,11 +20,13 @@ These briefs extend the working research controls for *The Expiration Economy*. 
 
 **Job:** Show how expiration design changes when the object is physical, long-lived, layered, expensive to alter, and socially embedded. Focus on serviceability, adaptive reuse, material separation, documentation, lifecycle mismatch, and the difference between durability and rigidity.
 
-**Evidence to deepen:** Design-for-disassembly literature; adaptive reuse; building material passports; lifecycle-costing practices; infrastructure maintenance and decommissioning; examples of structures whose accessible service layers or modular construction materially lowered later alteration costs; examples where reuse was worse than replacement.
+**Evidence now incorporated:** U.S. EPA guidance on construction and demolition materials explicitly recommends design for adaptability, disassembly, and reuse, including as-built documentation, modular components, visible and accessible connections, reversible fasteners, and planning for later repair and disassembly. The same guidance states that full deconstruction is not always feasible, providing an important limit to the argument.
 
-**Counterevidence / falsification:** Reversibility can raise first cost, use more material, reduce efficiency, or purchase options that are never exercised. Some tightly optimized permanent structures may outperform flexible ones over their full life. If flexibility routinely costs more than the realistic value of future adaptation, the chapter should emphasize selective optionality rather than universal design-for-change.
+**Counterevidence / falsification:** Reversibility can raise first cost, use more material, reduce efficiency, add interfaces or failure points, and purchase options that are never exercised. Some tightly optimized permanent structures may outperform flexible ones over their full life. If flexibility routinely costs more than the realistic value of future adaptation, the chapter should emphasize selective optionality rather than universal design-for-change.
 
-**Avoid:** “Demolition is bad” or “old buildings are always greener.” Physical lifecycle outcomes depend on materials, structural condition, location, future use, energy performance, and local disposal/reuse systems.
+**Publication check:** Keep claims at the design-principle level unless a project-specific lifecycle comparison is sourced. Do not imply that all adaptive reuse or deconstruction is environmentally or economically superior to replacement.
+
+**Avoid:** “Demolition is bad” or “old buildings are always greener.” Physical lifecycle outcomes depend on materials, structural condition, location, future use, energy performance, labor, hazards, and local disposal/reuse systems.
 
 **Handoff:** The city chapter establishes that long-lived systems contain layers with different expiration clocks. The next chapter applies the same idea to organizations whose legal authority can expire before their software processes do.
 
@@ -30,9 +34,11 @@ These briefs extend the working research controls for *The Expiration Economy*. 
 
 **Job:** Distinguish technical capability from continuing authority. Explore how agents, service accounts, schedulers, delegated credentials, and automated commitments should change state when an employee leaves, a role changes, a product sunsets, a company is acquired, enters insolvency, or dissolves.
 
-**Evidence to deepen:** Identity-governance and service-account lifecycle practices; authorization and revocation standards; corporate wind-down and receivership processes; AI agent governance; examples of orphaned automation and credential persistence; NIST AI lifecycle/decommissioning guidance where relevant.
+**Evidence now incorporated:** NIST SP 800-53 Rev. 5 account-management controls provide the conventional lifecycle baseline: named account management, defined authorization, disabling expired or no-longer-associated accounts, and auditing account changes. NIST SP 800-63A-4 extends the lifecycle to suspension and termination triggered by events including inactivity, compromise, legal instruction, death, or cessation of identity services. The chapter uses these standards to distinguish **access lifecycle** from **consequence lifecycle**.
 
-**Counterevidence / falsification:** Immediate revocation can itself cause harm by interrupting customer service, security monitoring, asset preservation, backups, or required records. Some wind-downs require controlled continuity. If autonomous systems can reliably inherit authority through existing role-based governance without special agent lifecycle mechanisms, the chapter’s novelty should narrow to consequence-aware revocation and handoff.
+**Counterevidence / falsification:** Immediate revocation can itself cause harm by interrupting customer service, security monitoring, asset preservation, backups, or required records. Some wind-downs require controlled continuity. If agents remain ephemeral, narrowly scoped, least-privileged, fully enumerable, and tightly bound to existing role-based governance, traditional identity lifecycle controls may absorb much of the supposed new risk.
+
+**Publication check:** Do not claim NIST standards already govern every autonomous-agent consequence. Their evidentiary role is narrower: mature identity systems already treat authorization as something that changes and ends. The chapter’s added claim concerns downstream commitments and state that can survive credential revocation.
 
 **Avoid:** Science-fiction claims about immortal corporations. The practical problem is mundane: software can keep acting because credentials remain valid after the social or legal basis for the action changes.
 
@@ -42,9 +48,11 @@ These briefs extend the working research controls for *The Expiration Economy*. 
 
 **Job:** Treat death and incapacity as lifecycle transitions for accounts, archives, businesses, automations, personal AI, digital identity, and delegated authority. Separate access from legal or moral authority.
 
-**Evidence to deepen:** Revised Uniform Fiduciary Access to Digital Assets Act and state adoption patterns; major-platform legacy and memorialization mechanisms; estate-planning practice for digital assets; account transfer limitations; posthumous-data and synthetic-voice/likeness debates; executor duties for online businesses and recurring services.
+**Evidence now incorporated:** Revised Uniform Fiduciary Access to Digital Assets Act materials distinguish fiduciary management of digital assets from access to private electronic communications. Apple Legacy Contact requires advance designation, an access key, and proof of death while excluding categories such as Keychain secrets and certain purchased content. Google Inactive Account Manager allows a user to set inactivity triggers, designate contacts, and choose which data categories each contact may receive. Together these examples support selective continuity rather than blanket account inheritance.
 
-**Counterevidence / falsification:** Digital-estate planning can overreach into other people’s privacy, contracts, licensed content, or communications. More inheritance is not automatically better. If platform-specific legacy systems already solve most ordinary succession problems, narrow the claim toward AI memory, active automation, and multi-service businesses where static account transfer is inadequate.
+**Counterevidence / falsification:** Digital-estate planning can overreach into other people’s privacy, contracts, licensed content, or communications. More inheritance is not automatically better. Platform-specific legacy systems already solve many ordinary succession cases, and elaborate pre-classification can become an administrative burden most users will ignore. If ordinary platform defaults prove sufficient, narrow the chapter toward personal AI, active automation, synthetic identity, and multi-service businesses where static account transfer is inadequate.
+
+**Publication check:** Keep legal statements jurisdiction-specific and product descriptions date-sensitive. Do not imply Apple or Google mechanisms confer general legal authority. Platform policy is evidence of product design, not inheritance law.
 
 **Avoid:** Legal advice, universal claims about heirs’ rights, or treating possession of passwords as permission. Do not claim that every private record should transfer to family or that posthumous simulation is inherently unethical.
 
@@ -54,10 +62,12 @@ These briefs extend the working research controls for *The Expiration Economy*. 
 
 **Job:** Close the book by reframing endings as productive capacity and freedom over time. Preserve the core falsification path: AI may make retirement, migration, classification, and cleanup cheap enough that ending ceases to be scarce.
 
-**Evidence to deepen:** Primarily synthesis from prior chapters. Any new empirical claim should be traceable to earlier evidence rather than introduced late. Use examples only where the source trail is already strong or where the claim is explicitly conceptual.
+**Evidence now incorporated:** Primarily synthesis from the sourced cases developed across the book: bankruptcy discharge, records disposition, protocol deprecation, reactor decommissioning, media sanitization, AI decommissioning, fiduciary access, account revocation, founder dependence, design for disassembly, and selective digital legacy. The final chapter intentionally does not introduce a new empirical centerpiece.
 
-**Counterevidence / falsification:** The book’s strongest thesis weakens if creation abundance does not materially increase maintenance/retirement load, or if automated cleanup scales as fast as creation without generating a new legitimacy bottleneck. The closing argument should state this rather than hiding it.
+**Counterevidence / falsification:** The book’s strongest thesis weakens if creation abundance does not materially increase maintenance/retirement load, or if automated cleanup scales as fast as creation without generating a new legitimacy bottleneck. The chapter states this directly. A second failure mode would be evidence that strong ending mechanisms systematically destroy more option value, continuity, rights, or trust than the persistence they replace.
 
-**Avoid:** A universal expiration doctrine. The conclusion must keep the distinction between deliberate durability and accidental persistence, and between technical deletion and legitimate authority to end.
+**Publication check:** Every concrete example in the conclusion must trace backward to a source already carried in the ledger or to clearly conceptual prose. Do not let synthesis turn earlier bounded evidence into universal proof.
+
+**Avoid:** A universal expiration doctrine. The conclusion must keep the distinction between deliberate durability and accidental persistence, between technical deletion and legitimate authority to end, and between memory that deserves preservation and authority that should no longer operate.
 
 **Final note:** The last idea should be that mature abundance is not maximum production. It is circulation: the ability to create, preserve, transfer, revise, and finish without forcing the future to remain governed by every prior act of creation.
