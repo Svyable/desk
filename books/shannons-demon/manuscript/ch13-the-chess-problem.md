@@ -22,6 +22,64 @@ Shannon's 1950 paper, “Programming a Computer for Playing Chess,” had first 
 
 The distinction became famous as Type A and Type B strategy.
 
+The labels hide a practical disagreement about where intelligence should live.
+
+A Type A program spends its sophistication after search. It generates every legal continuation to some fixed depth and then asks an evaluation function to judge the positions at the frontier. The policy is democratic in a peculiar sense: every legal move receives computation whether it deserves it or not. The machine's advantage is reliability. A surprising move does not disappear merely because a heuristic failed to admire it early.
+
+The weakness is arithmetic.
+
+Give each position thirty plausible legal moves and a search only a few moves deep already expands into a number of positions that becomes punishing for early hardware. Add another ply and the cost multiplies again. The machine does not become confused. It becomes late.
+
+Type B moves the judgment earlier.
+
+Instead of expanding every legal possibility, the program tries to recognize which moves are worth following. Checks, captures, threats, tactical continuations, moves that satisfy positional criteria: some branches receive attention and others die near the root.
+
+That sounds more intelligent because it resembles expert human play.
+
+It is also more dangerous.
+
+The branch you prune cannot rescue you later.
+
+A move can look absurd precisely because its value appears several moves after the sacrifice. An evaluation rule that prizes material can discard a temporary loss before discovering the mating attack it enables. A selective search can become very fast at proving the assumptions already built into its selection policy.
+
+This is the first important countercase to the slogan that intelligence is knowing what to ignore.
+
+Ignoring is valuable only when the filter deserves trust.
+
+Sometimes the safer strategy is to spend computation on possibilities a human-style heuristic would dismiss. Later computer chess repeatedly benefited from hardware that made wider and deeper search affordable. The history therefore did not simply vindicate Type B selectivity over Type A breadth. It changed the price of both.
+
+Shannon's paper is interesting because the tradeoff is already visible before the machines were capable enough to settle it empirically.
+
+Search depth and evaluation quality substitute for one another imperfectly.
+
+A weak evaluator can sometimes be rescued by looking farther ahead. A strong evaluator can save enormous computation by recognizing positional features before the consequences are fully calculated. But neither is free. Deeper search costs time. Richer evaluation costs time too, and its weights encode assumptions about what makes a position good.
+
+A program therefore has at least three budgets, not one.
+
+How many branches can it consider?
+
+How far can it follow them?
+
+How much work can it spend judging each position?
+
+Those budgets compete.
+
+A machine that evaluates every position with exquisite sophistication may have no time left to search. A machine that races through millions of positions with a crude score can see far and understand little at each stopping point. The engineering problem is not “more computation.” It is allocation of computation.
+
+That makes the evaluation function one of the most revealing objects in the paper.
+
+Before a game ends, the machine does not know the true value of a position in the strict sense of a solved game. It has a proxy. Material balance can be counted. Mobility can be estimated. King exposure can be penalized. Pawn structure can be represented. These quantities are not chess itself. They are measurements chosen because the program needs a verdict before the future is known.
+
+The resemblance to institutional decision making is almost too easy, so keep it narrow.
+
+The chess program has a clearly defined objective: win the game. Its proxy can therefore be judged against eventual outcomes in a way that many real-world metrics cannot. Even then, a reasonable proxy can mislead. A position that looks better numerically can be strategically lost. A material advantage can be irrelevant if the king is trapped.
+
+If evaluation is difficult in a game with explicit rules and a fixed objective, the problem becomes harder—not easier—when the objective itself is disputed.
+
+That is one reason Shannon chose chess rather than a vague demonstration of “thinking.”
+
+The board held the purpose still long enough to study the machinery of choice.
+
 It is easy, with modern hardware in mind, to hear this as a primitive argument about processor speed. Shannon was after something more interesting. A machine playing chess needed a way to assign value to positions before the game had ended. Material mattered. Mobility mattered. King safety mattered. Pawn structure mattered. The program had to turn features of a position into a numerical judgment and then use that judgment to decide which futures deserved attention.
 
 A machine could not see everything.
