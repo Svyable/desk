@@ -112,6 +112,44 @@ If the employee is genuinely expected to independently evaluate the machine, the
 
 The design should admit which one it is.
 
+There is another way control becomes ceremonial: the person can refuse one action but cannot realistically refuse the system.
+
+A worker may be allowed to override a recommendation while having no authority to stop using the tool that generates recommendations. A customer may decline one personalized suggestion while having no practical way to prevent the platform from building the profile behind it. A manager may reject a score while the score remains mandatory evidence in every review. A doctor may disagree with a workflow while the hospital has already organized staffing, documentation, reimbursement, and liability around the workflow.
+
+The local veto is real.
+
+The larger dependency is real too.
+
+This matters because control includes exit.
+
+Not absolute exit from every institution. Nobody has meaningful control over civilization by threatening to leave it. But at the scale where a person or organization claims to be governing a tool, there should be some answer to a basic question: what happens if we decide this arrangement no longer serves us?
+
+Can we pause it?
+
+Can we fall back to another process?
+
+Can we export the records required to leave?
+
+Can we compare the new system with the old one?
+
+Can we survive a week without it?
+
+Can we change vendors without rebuilding the organization from scratch?
+
+A system can begin as assistance and become infrastructure before anybody formally decides that dependence is acceptable.
+
+Convenience accelerates the transition because every successful use creates another reason not to return to the old method. Staff stop practicing the manual process. Documentation moves into the new platform. Historical records accumulate there. Customers adapt. Budgets shift. Expertise leaves.
+
+Eventually the organization still has a choice in theory.
+
+In practice, the choice has acquired a price large enough to function like constraint.
+
+This is not unique to AI. Infrastructure has always created lock-in. The machine age simply makes it easier for decision infrastructure to become invisible because the dependency lives partly in workflow and cognition rather than concrete machinery.
+
+A person can retain control over each click while losing control over whether clicking remains optional.
+
+That should count.
+
 None of this requires removing humans from consequential systems. It requires taking human authority seriously enough to specify it.
 
 Can the person say no?
@@ -132,6 +170,8 @@ Does the reviewer know when the system is outside the conditions in which it per
 
 Can the automated action be reversed?
 
+Can the system itself be paused, rolled back, or replaced when the pattern of errors changes?
+
 These questions describe control much better than the existence of a button.
 
 Reversibility deserves special attention because humans are terrible at being perfectly right on the first attempt and surprisingly good at building systems that assume they should be.
@@ -141,6 +181,32 @@ A reversible decision can tolerate uncertainty. An irreversible one cannot. The 
 We often talk about AI safety as if the central question were whether a model is intelligent enough to be dangerous. A more ordinary question is whether the surrounding system lets people recover from mistakes.
 
 Control is frequently less about preventing every error than about retaining the ability to notice and correct one before it becomes final.
+
+Rollback is one form of control that interfaces rarely celebrate because rollback admits that authority includes undoing what authority previously approved.
+
+Organizations are often comfortable with approval and strangely uncomfortable with reversal.
+
+Approval fits the story of competence.
+
+Rollback records that the system, the person, or both were wrong.
+
+But a process that cannot reverse a bad automated action may be less controlled than a process that makes a few more errors and repairs them quickly. The error rate alone does not describe governance. The time between error and recovery matters. The cost of recovery matters. Whether the harmed person can trigger recovery matters.
+
+The ability to stop should therefore exist at more than one timescale.
+
+Stop this action.
+
+Pause this class of actions.
+
+Return to the previous model or policy.
+
+Disable the automation while evidence is reviewed.
+
+End the arrangement altogether.
+
+A giant red emergency button is not enough if ordinary operators are punished for touching it, nobody remembers the fallback process, or the system can technically be stopped only after the consequence has become irreversible.
+
+Control needs latency appropriate to consequence.
 
 That is also how humans manage themselves.
 
@@ -186,7 +252,33 @@ A person who refuses useful automation because it once made a visible error can 
 
 That confidence should not be static.
 
-Systems change. Data changes. environments change. People change their goals. A model updated last month may behave differently from the one a policy was written around last year. A recommender trained to maximize engagement can become misaligned with a person who decides they want to spend less time engaged. A workplace tool introduced as assistance can gradually become the place where performance is measured. A convenience becomes infrastructure; infrastructure becomes dependence; dependence becomes governance.
+Systems change. Data changes. Environments change. People change their goals. A model updated last month may behave differently from the one a policy was written around last year. A recommender trained to maximize engagement can become misaligned with a person who decides they want to spend less time engaged. A workplace tool introduced as assistance can gradually become the place where performance is measured. A convenience becomes infrastructure; infrastructure becomes dependence; dependence becomes governance.
+
+This introduces a control problem that has nothing to do with whether the person is attentive enough.
+
+The thing being controlled can change beneath the approval.
+
+An organization may test one model, write procedures around it, train staff, and approve its use. Months later the model is updated. The interface remains familiar. The product name remains the same. The human reviewer follows the same policy. Yet the distribution of errors, the style of recommendations, or the conditions under which the system becomes uncertain may have shifted.
+
+The old approval survives visually.
+
+Does it survive substantively?
+
+Control requires some relationship between authority and version.
+
+If the thing changes materially, governance has to notice.
+
+That does not mean every software update needs a board meeting. It means “we approved the system” cannot be a permanent sentence when the system is not permanent.
+
+There should be a way to know what changed, compare behavior where it matters, and decide whether the earlier mandate still fits.
+
+Otherwise control becomes grandfathered consent.
+
+We agreed once.
+
+Therefore whatever this becomes remains authorized.
+
+Human relationships would recognize the absurdity immediately. Permission to do one thing under one set of conditions does not automatically become permission for every future variation. Technical systems can obscure that intuition because change arrives as maintenance.
 
 Control can leak away without a dramatic moment of surrender.
 
@@ -269,6 +361,10 @@ You may control the terms under which something acts for you.
 You may control whether a recommendation becomes an action.
 
 You may control whether an error can be corrected.
+
+You may control whether the system can be paused when its behavior changes.
+
+You may control whether dependence remains reversible.
 
 You may control which value the system is supposed to optimize, and whether that value still deserves authority tomorrow.
 
