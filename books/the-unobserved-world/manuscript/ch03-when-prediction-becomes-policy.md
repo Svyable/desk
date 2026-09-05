@@ -165,3 +165,43 @@ Deployment is when a model starts editing the world that will teach its successo
 A prediction that nobody acts on may be judged like a forecast. A prediction that allocates opportunity is different. It is legislation written in probabilities.
 
 It deserves the same question we should ask of any policy: after this rule has governed for a while, what evidence will still exist to tell us that another rule might have been better?
+
+That question becomes sharper when the organization asks what exactly it is trying to optimize after deployment. A predictive model can improve while the policy built around it gets worse. The model may rank risk more accurately, for example, while a new threshold creates too many false rejections, overwhelms an appeals team, or changes the applicant pool in a way that reduces long-run value. A recommender can improve click prediction while the resulting feed makes users less satisfied over a month. A hiring score can better predict which previously hired workers received strong reviews while the policy using it becomes brittle as the job changes.
+
+Prediction quality and policy value are related. They are not the same quantity.
+
+This distinction sounds elementary until a dashboard collapses them. Teams often inherit metrics from the modeling stage because those metrics are available early and can be computed cleanly. Once deployment begins, the real objective is usually messier. It includes capacity, cost, downstream behavior, fairness constraints, strategic response, delayed outcomes, and the value of information created for future decisions. The clean model metric remains visible while the policy objective becomes distributed across several departments.
+
+The danger is organizational, not mathematical. The part of the system that can be measured every week can quietly become the part that is optimized every week.
+
+A robust deployment therefore needs a policy scorecard, not only a model scorecard. The policy scorecard asks which actions changed, which populations became more or less observable, where overrides concentrate, whether the uncertainty distribution is drifting, how many decisions occur outside historical support, and what evidence would trigger reconsideration. It also records costs that a model-development metric may never see: complaints, appeals, opportunity loss, operational congestion, delayed failures, and the disappearance of alternative pathways.
+
+This makes room for a useful discipline: precommit to reopening conditions before a system looks successful.
+
+A team deploying a new ranking rule can state in advance what would force review. Perhaps an external benchmark deteriorates. Perhaps disagreement with human experts becomes concentrated in a new subgroup. Perhaps the share of decisions made in low-support regions rises. Perhaps downstream outcomes change after a product redesign. Perhaps an independent audit finds a growing gap between selected and unselected populations. The trigger does not have to dictate the answer. It has to reopen the question.
+
+Without reopening conditions, success is sticky. Every month of stable operation makes the rule feel more natural, even when the stability is partly produced by the rule itself.
+
+There is also a difference between observing more outcomes and preserving a valid comparison. An institution can collect enormous amounts of data after deployment and still lose the ability to answer the question it cares about. If everyone receives the same policy, more rows may simply reproduce the same selection mechanism. The dataset grows while the counterfactual support shrinks.
+
+This is why small holdouts, randomized audits, staggered rollouts, and naturally occurring external comparisons can be disproportionately valuable. Their purpose is not to maximize uncertainty. It is to preserve some region in which the dominant policy does not choose every observation.
+
+The institution is buying a reference point.
+
+That reference point should be sized to the stakes. A music platform can afford broad low-cost exploration. A medical system may require tightly governed prospective evaluation, independent oversight, and strong clinical constraints. A lender may use small exposures, product limits, or external bureau outcomes. A hiring system may reserve interview capacity rather than employment slots. The mechanism changes because the cost of being wrong changes.
+
+What remains constant is the need to know where evidence comes from.
+
+A mature policy record should make it possible to answer a future analyst's most inconvenient questions. Why did this person see this option? Which threshold was active? What alternatives were available? Was the decision inside the region supported by prior data or an extrapolation beyond it? Which cases would a previous policy have treated differently? What information was missing at decision time? What later outcome became observable, and because of which action?
+
+These questions sound expensive until the institution needs them after a failure and discovers the answers were never recorded.
+
+Then the missing lineage becomes part of the failure.
+
+The strongest predictive systems will make this discipline more important, not less. As model accuracy rises, organizations will feel more justified in collapsing variation around the model's preferred action. The apparent opportunity cost of testing alternatives will increase. It will become easier to say that the model has already considered the possibilities.
+
+But a model can consider an alternative without generating the evidence that would prove its estimate wrong.
+
+That is the line a learning institution has to defend.
+
+A prediction can replace some experiments. It cannot be allowed to abolish every route by which prediction itself is tested.
