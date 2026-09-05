@@ -44,9 +44,9 @@
 
 **Claim.** Pools become unstable through underpricing, adverse selection, changed legal interpretation, moral hazard, reserve error or unexpected accumulation; growth can conceal rather than cure mispricing.
 
-**Evidence anchors.** S12, S15, S21, S24.
+**Evidence anchors.** S12, S15, S21, S24, S39, S40.
 
-**Counterevidence / caution.** Hardening markets can attract new capital and later recover; a temporary availability problem is not necessarily permanent pool failure.
+**Counterevidence / caution.** Hardening markets can attract new capital and later recover; a temporary availability problem is not necessarily permanent pool failure. Risk-based-capital thresholds are early-warning tools rather than complete measures of solvency, and guaranty mechanisms are limited safety nets rather than substitutes for sound pricing, reserving and capital.
 
 **Falsification test.** The chapter would weaken if persistent underpricing and deteriorating selection did not eventually appear through losses, capital stress, reduced coverage or exit.
 
@@ -214,7 +214,7 @@
 
 **Claim.** Insurance remains valuable not because every risk is privately insurable but because it creates a layered discipline for deciding what households retain, what private pools carry, what global capital absorbs and what the state ultimately guarantees.
 
-**Evidence anchors.** S01-S38 as synthesis.
+**Evidence anchors.** S01-S40 as synthesis.
 
 **Counterevidence / caution.** Insurance can become extractive, opaque or politically distorted; the institution should not be treated as a neutral oracle or substitute for regulation, prevention, redistribution or public investment.
 

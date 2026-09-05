@@ -56,6 +56,10 @@ Lloyd's and FM institutional histories support the historical narrative around m
 
 NAIC material on the McCarran-Ferguson Act is used to orient readers to the unusual American division of insurance authority. The relevant historical sequence is *Paul v. Virginia* in 1869, *United States v. South-Eastern Underwriters Association* in 1944, and Congress's enactment of McCarran-Ferguson in 1945 preserving the states' primary role in regulating and taxing the business of insurance unless Congress clearly provides otherwise. This source is used for institutional history, not as neutral evidence that state-based regulation is superior to federal regulation. The manuscript separately notes that federal law and federal programs still reach mortgages, flood, terrorism, pensions, health, competition, disaster finance and other parts of the insurance system.
 
+### 12. Solvency, receivership and the promise behind the policy
+
+NAIC material on risk-based capital and guaranty mechanisms is used to separate three ideas readers can otherwise collapse into one. Claim reserves are estimates of insurer liabilities; capital is the additional cushion available for adverse deviation and other risks; and risk-based-capital rules provide statutory intervention thresholds intended to identify weakly capitalized insurers before insolvency. If an insurer nevertheless fails, state receivership and guaranty mechanisms can protect eligible policyholders and covered claims subject to state law and statutory limits. These sources are used to explain the architecture of solvency protection, not to imply that RBC alone proves an insurer is safe or that guaranty associations make all policyholders whole in every failure.
+
 ## Sourcing convention
 
 Concrete figures, dates, program rules and claims about current institutional status should map to a source-ledger row. Conceptual explanations of pooling, adverse selection, moral hazard, deductibles, reinsurance and capital layers are common insurance economics, but the chapter briefs still identify professional or official anchors where useful.
