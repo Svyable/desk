@@ -18,6 +18,44 @@ It does ruin the easiest version of the story.
 
 A company earning most of its revenue from digital businesses cannot be described accurately as one that simply refused to go digital. Kodak had spent years investing in digital imaging, printing, sensors, software, intellectual property, consumer inkjet, commercial inkjet, and digital cameras. Its 2011 annual report described pressure in digital cameras as well as continuing industry declines in film-related businesses. In early 2012 it announced plans to phase out dedicated capture devices, including digital cameras, pocket video cameras, and digital picture frames.
 
+The bankruptcy announcement contained another number that makes the simple fable even harder to sustain.
+
+Kodak said that since 2003 it had closed thirteen manufacturing plants and 130 processing laboratories and reduced its workforce by 47,000 people.
+
+This was not an organization preserving every piece of the film era because it could not bear to change.
+
+It had already been taking the old system apart.
+
+The company also said its digital imaging patent portfolio had generated more than three billion dollars in licensing revenue since 2003. At the moment of the Chapter 11 filing, it had secured a $950 million debtor-in-possession financing facility, subject to court approval, to support liquidity and working capital through reorganization.
+
+Those facts should change the shape of the question.
+
+A company can close plants, shrink its workforce, build digital businesses, license digital patents, and still fail to replace the economic structure that made the old company powerful.
+
+Transformation is not measured by the amount of old furniture thrown away.
+
+The missing question is what the new room can support.
+
+Seventy-five percent of revenue sounds like a transition almost complete until revenue is separated from economic architecture.
+
+A digital dollar is not automatically a film dollar with a different delivery mechanism.
+
+Different businesses can carry different margins, capital needs, competitive intensity, working-capital requirements, replacement cycles, customer relationships, and bargaining power. A firm can migrate the label attached to its revenue while losing the system that once made each dollar unusually valuable.
+
+This distinction matters far beyond Kodak.
+
+A newspaper can move most of its audience online and still fail to reproduce print advertising economics. A retailer can move transactions to an app and discover that the new channel changes logistics and price competition. A software company can move customers to subscriptions and change when revenue is recognized. A manufacturer can sell a technologically superior product whose service requirements or supply chain reduce the economics that made the older product attractive.
+
+The percentage of activity that has become new does not tell you whether the old profit engine has been replaced.
+
+Kodak's case makes that visible because digital was not merely another product category. It removed repeated physical consumption from large parts of photography.
+
+A roll of film was used up.
+
+A digital image was not.
+
+The difference reached backward through the entire system.
+
 The company saw digital photography.
 
 The more interesting question is why seeing it was not enough.
@@ -59,6 +97,44 @@ It was a transition problem.
 The old business continued generating revenue while declining. The new businesses needed investment while competing in markets with different economics. Film manufacturing carried large fixed assets and specialized knowledge. The digital-camera market brought intense competition and falling prices. Inkjet required capital and customer adoption. Intellectual property could produce licensing income, but a patent portfolio is not a replacement for an operating system of factories, retailers, recurring consumables, and consumer habit.
 
 The company entered the transition with history attached.
+
+The shutdown numbers reveal another feature of adaptation debt: paying some of it does not guarantee the transition succeeds.
+
+Closing a plant is not the same thing as replacing the capability the plant financed.
+
+Eliminating a job is not the same thing as transferring the useful knowledge that job carried.
+
+Selling or licensing intellectual property can create liquidity without creating a durable operating business. Cutting fixed cost can extend the runway while also shrinking the organization that has to build the future.
+
+There is no single meter showing whether the old system is being retired faster than the new one is becoming competent.
+
+That makes the middle of a transition difficult to read.
+
+A company can look bloated because the old cost base remains.
+
+It can also look hollowed out because it cut the old system faster than replacement capabilities matured.
+
+Both diagnoses can be correct at different moments.
+
+This is why restructuring statistics should not be mistaken for proof of adaptation.
+
+They describe movement.
+
+The strategic question is whether the movement creates a viable destination.
+
+Kodak's 2012 filing described Chapter 11 partly as a way to bolster liquidity, resolve legacy liabilities, monetize non-strategic intellectual property, and focus on valuable business lines. Those are the verbs of a company trying to make the old balance sheet compatible with a different future.
+
+The need for court-supervised reorganization tells us that the bridge itself had become a financial object.
+
+Transformation required cash before transformation produced enough cash.
+
+That timing problem is one of adaptation debt's most important features.
+
+A future business can be strategically attractive and still arrive too late to finance the journey from the current one.
+
+A company can own technology that points in the right direction and lack the economic sequence that gets it there.
+
+The gap between those two things is where balance sheets become strategy.
 
 History appears on financial statements as assets and liabilities, but a balance sheet captures only part of it.
 
