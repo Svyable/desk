@@ -182,6 +182,34 @@ They can also be misunderstood.
 
 A patient just below a diagnostic criterion can still have meaningful risk. A patient just above it can differ only slightly from the patient below. Measurement varies. Context matters. Multiple risk factors interact. A number can be important without being sufficient.
 
+One of the most revealing medical examples uses birth weight.
+
+For decades, newborns under 1,500 grams have often been classified as very low birth weight, a category associated with more intensive medical attention. Douglas Almond, Joseph Doyle, Amanda Kowalski and Heidi Williams asked what happened on either side of that line. They used the fact that 1,499 grams and 1,501 grams describe infants who are nearly identical in weight but can receive different treatment because one sits inside a recognized risk category and the other does not.
+
+The pattern was extraordinary precisely because the weight difference was so ordinary.
+
+Using large U.S. birth datasets, the researchers found that infants just below the 1,500-gram threshold received more intensive care and had lower one-year mortality than infants just above it, even though, in general, mortality risk improves as birth weight rises.
+
+The lighter babies did better at the margin because the line changed what medicine did.
+
+The cutoff did not merely classify risk.
+
+It altered treatment, and treatment altered outcome.
+
+This is a near-perfect illustration of why thresholds cannot be interpreted by staring at the variable alone. A gram did not carry a magical biological effect. The classification attached institutional behavior to the gram.
+
+The discontinuity was partly made by medicine.
+
+That does not make the threshold foolish. The extra treatment appeared to save lives near the boundary. The case instead reveals something more interesting: an administrative category can be arbitrary in its exact placement and still be consequential, even beneficial, because systems act on it.
+
+It also exposes the moral difficulty of local cliffs.
+
+If a baby just below the line receives care that improves survival, what should we conclude about the baby just above it?
+
+The correct answer is not automatically to treat every infant identically. Intensive care has costs and risks, and medical resources are finite. The answer is that the edge contains information about the rule.
+
+When a tiny difference in an underlying measure produces a measurable jump in treatment and outcome, the institution has learned something about the value of what happens after the cutoff.
+
 Good medicine therefore often uses thresholds as invitations to further judgment rather than as replacements for judgment.
 
 Poor administration does the opposite.
@@ -208,7 +236,7 @@ The distinction between constructed and natural thresholds is therefore unstable
 
 A line can begin as administrative and end by reorganizing behavior around itself.
 
-Tax thresholds influence timing. Benefit rules influence hours and reported income. school boundaries influence housing demand. Bank capital rules influence balance-sheet choices. Corporate headcount thresholds can influence outsourcing or firm structure. Exam cutoffs influence how students allocate study time.
+Tax thresholds influence timing. Benefit rules influence hours and reported income. School boundaries influence housing demand. Bank capital rules influence balance-sheet choices. Corporate headcount thresholds can influence outsourcing or firm structure. Exam cutoffs influence how students allocate study time.
 
 People do not passively receive thresholds.
 
@@ -235,6 +263,10 @@ There is another strange benefit to sharp cutoffs.
 Researchers can use them.
 
 When treatment changes at a known threshold and people just above and below are otherwise comparable enough, the discontinuity can create an opportunity to estimate causal effects. A scholarship rule based on a score, a program based on age, a policy based on population or an intervention based on income can produce something close to a local experiment near the line.
+
+The newborn study used exactly this logic.
+
+The 1,500-gram threshold was medically consequential enough to change treatment but narrow enough that infants on either side could be compared locally. The same arbitrariness that made the cutoff philosophically uncomfortable made it empirically useful.
 
 The statistical method is valuable because the policy is discontinuous.
 
