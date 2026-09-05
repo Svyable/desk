@@ -221,3 +221,67 @@ It looks for institutional inventions that weaken old tradeoffs.
 And it accepts the most democratic sentence an optimizer can say.
 
 Several of these options are efficient. We still have to choose what kind of trade we are willing to make.
+
+Durability deserves a harder test than whether a policy survives the next election. A durable policy can remain in law and fail in administration. It can survive politically while agencies lack capacity, courts narrow implementation, funding erodes, regulated actors route around it, or citizens learn to distrust the mechanism.
+
+Implementation is part of the feasible set.
+
+A policy should therefore be stress-tested across institutions, not merely voters. Does the administering agency have the people and systems? Can the rule be enforced at tolerable cost? Are courts likely to understand the delegated authority the same way? Does the funding mechanism persist? Can state, local, or private actors comply without creating a new bottleneck?
+
+A law that cannot be administered is a paper frontier point.
+
+This is the public version of false feasibility.
+
+Political design can improve durability by reducing the number of load-bearing discretionary acts. Automatic eligibility, formulas, stable funding, clear standards, and interoperable systems can lower administrative friction. They can also reduce adaptability when unusual cases arise.
+
+Rules and discretion sit on a frontier.
+
+Rules improve consistency, predictability, and resistance to favoritism. Discretion improves local adaptation and allows judgment where reality exceeds the rule. Too much discretion can create unequal treatment and uncertainty. Too little can turn a good general rule into a machine for absurd edge cases.
+
+The right point depends on the cost of error and the quality of local information.
+
+Policy experiments can help, but the word experiment should be used carefully. A local pilot can reveal implementation burden, participation, behavioral response, and administrative failure. It may not reveal national-scale market response, political backlash, migration between jurisdictions, or effects that emerge only after long investment cycles.
+
+Scale changes the public frontier too.
+
+A small subsidy can reach high-value participants. A large subsidy can raise input prices or attract low-value participation. A modest regulation can be absorbed by existing firms. A complex national regime can change industry structure. A pilot should identify which mechanisms are likely to change at scale rather than assuming the same coordinates stretch outward.
+
+Sunsets and review clauses can preserve option value, but they can also create policy uncertainty that prevents investment. A temporary tax credit, permit, or standard may produce less response because businesses believe the rule will vanish. The option retained by government can become an option cost imposed on everyone else.
+
+Public reversibility has two sides.
+
+Government wants the ability to correct mistakes. Citizens and businesses may need enough commitment to plan around the rule.
+
+That is why credible review rules can be better than arbitrary temporariness. State in advance what evidence triggers continuation, adjustment, or expiration. The policy remains revisable without making every future period a fresh political auction.
+
+There is also a frontier between universality and targeting. Universal programs can be simpler, more legible, and less stigmatizing. Targeted programs can spend scarce resources on people with greater need. Targeting requires information, creates eligibility boundaries, and can exclude people through administrative friction. Universality spends on people who might not need the transfer.
+
+Neither side owns efficiency.
+
+The choice depends on the cost of screening, the distributional objective, behavioral effects, fiscal capacity, and the political value of broad participation.
+
+The same logic applies to regulation. A broad simple standard can be easier to administer and overburden low-risk cases. A finely risk-adjusted rule can better match harm and become complex enough to game.
+
+Administrative complexity is a hidden axis in public policy because the people who write the rule rarely experience every compliance interaction it creates.
+
+Good policy analysis should therefore include citizen time, application burden, agency staffing, appeal load, data needs, and enforcement—not as decorative implementation notes but as costs that can reverse the frontier.
+
+This is where public frontier thinking becomes less ideological and more demanding.
+
+Every proposal has to survive three versions of itself.
+
+The policy in the model.
+
+The policy in the institution.
+
+The policy in the behavior of people responding to it.
+
+If the frontier only improves in the first version, the politics are theater no matter how elegant the analysis.
+
+The final public test is reversibility of legitimacy. A government can sometimes reverse a rule quickly and take years to rebuild trust after applying it badly. A policy can be financially repaired and institutionally scarred. A community can be compensated and remain skeptical of the next project.
+
+Trust is part of state capacity because future policies depend on cooperation.
+
+That makes honesty about tradeoffs more than a communication virtue.
+
+It is investment in the feasible set of the next decision.
