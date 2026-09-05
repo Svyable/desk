@@ -313,3 +313,121 @@ That is why skill can look sudden from the outside.
 The audience sees the performance when the capability crosses a visible threshold.
 
 The musician hears the thousands of adjustments before it.
+
+But a learning curve is incomplete if it shows only acquisition.
+
+Knowledge also decays.
+
+A person can perform well immediately after training and poorly months later. A team can master a procedure it rarely uses and discover during the emergency that the memory is thinner than the certificate suggested. An organization can solve a problem once and then lose the people who knew how.
+
+Retention gives the curve a second axis.
+
+The question is not merely how fast performance rises.
+
+It is how much survives after time passes and context changes.
+
+This is where repetition can be misleading. Repeating the same exercise several times in one sitting can create fluency that feels like mastery because the answer remains warm in working memory. Space the attempts apart and retrieval becomes harder. Change the surface form and transfer becomes visible. Remove the prompt and the learner discovers whether the procedure was remembered or merely recognized.
+
+The uncomfortable test of learning is distance.
+
+Distance in time.
+
+Distance from the example.
+
+Distance from the teacher.
+
+Distance from the tool that scaffolded the first success.
+
+A capability that survives those distances is different from one that exists only inside the training environment.
+
+Organizations routinely pay for the easier measurement.
+
+Completion rate.
+
+Quiz score.
+
+Hours trained.
+
+Certificates issued.
+
+Those metrics arrive immediately. Transfer appears later, mixed with everything else that happened in the job.
+
+The reporting system therefore favors the proxy over the outcome.
+
+This is another threshold problem. A worker passes the assessment and becomes “qualified.” The category is administratively useful. It can also end curiosity about the gradient after qualification.
+
+How does performance look under pressure?
+
+What happens after six months without practice?
+
+Can the person recognize a novel version of the hazard?
+
+Can the skill be explained to somebody else?
+
+Can the learner detect when the memorized procedure no longer fits?
+
+These are more expensive questions.
+
+They are also the questions that separate durable learning from temporary compliance.
+
+Transfer may be the hardest part because it exposes what exactly was learned.
+
+A student solves ten equations that share the same visible form and appears competent. Change the wording, mix problem types, or embed the same structure in an unfamiliar setting and performance can fall sharply. The learner may have learned a cue rather than a concept.
+
+Experts often forget how much of their own competence is cue sensitivity.
+
+They enter a room and notice what matters before they can explain why. They discard irrelevant details quickly. They know which anomaly deserves investigation. Years of examples have changed the weighting of attention.
+
+This is why expert instruction can fail when it presents the final abstraction without the gradient of examples that made the abstraction meaningful.
+
+The expert gives the rule.
+
+The novice lacks the perceptual history that tells them when the rule applies.
+
+Learning is therefore partly compression earned by exposure.
+
+The expert can hold a complicated situation under a short label because the label points to a dense internal structure. Give the same label to a novice and it can become empty vocabulary.
+
+This matters in organizations that mistake shared terminology for shared understanding.
+
+Everyone attends the strategy meeting. Everyone repeats the new principle. The language converges faster than the mental models.
+
+A month later, teams apply the principle in incompatible ways.
+
+The organization has category agreement without gradient agreement.
+
+Real organizational learning requires something to persist outside individual heads.
+
+A checklist changes.
+
+A tool changes.
+
+A design standard changes.
+
+A purchasing rule changes.
+
+A postmortem alters architecture.
+
+A new person can enter later and benefit from the discovery without knowing the original story.
+
+That is learning embedded in the environment.
+
+It is powerful because it survives turnover.
+
+It is dangerous because embedded lessons can outlive their conditions.
+
+The same checklist that captures hard-won wisdom can become bureaucratic remanence when nobody remembers which failure it was designed to prevent.
+
+Learning and hysteresis meet there.
+
+The organization remembers by changing the path available to future action.
+
+Which means forgetting is not always failure either.
+
+Some things should decay.
+
+An obsolete workaround should stop being taught. A temporary emergency process should not harden into ritual. A market assumption that was once reliable may become actively misleading. Expertise requires deletion as well as accumulation.
+
+The deepest learner is not the person with the longest memory.
+
+It is the person, team or institution that keeps updating what deserves to be remembered.
