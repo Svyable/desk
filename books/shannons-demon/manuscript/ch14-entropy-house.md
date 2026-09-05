@@ -132,6 +132,16 @@ The stronger claim is smaller: Shannon's life shows that one historically import
 
 Whether another institution should buy the same amount of slack is a separate decision.
 
+Bell Labs is particularly easy to romanticize here because later history lets us select the spectacular outputs and forget the accounting problem that existed beforehand. A laboratory with room for open-ended research can produce foundational science. It can also spend money on investigations that never become products, papers anyone remembers, or ideas that justify their cost. The institution has to tolerate both outcomes before it knows which is which.
+
+That tolerance was not metaphysical. It had an economic setting. Bell Labs belonged to a regulated telecommunications system with unusual scale, long planning horizons, and research resources that most firms never possessed. Those conditions do not reduce the achievements made there. They make simple prescriptions from those achievements less portable.
+
+“Give smart people freedom” is easy advice when the famous successes have already been selected.
+
+The harder question is how much unsuccessful freedom an institution is prepared to finance before the famous success exists.
+
+Shannon's workshop pushes the same question into domestic space. A half-built machine can remain on a bench because nobody has demanded that the bench earn rent by Friday. A puzzle can be resumed months later because the parts have not been cleared away. The continuity looks like temperament from inside the biography; materially, it also depends on possession of a room.
+
 That choice becomes more revealing beside the career he could have pursued.
 
 After information theory, Shannon had a name capable of attracting students, conferences, committees, consulting, speeches, honors, and endless invitations to explain his own importance. He accepted some honors and maintained academic affiliations, but the public intellectual role never seems to have become the center of his identity.
@@ -181,6 +191,10 @@ There is no reason to romanticize unfinished work simply because a genius left i
 Shannon himself benefited from publication. The 1938 switching paper and the 1948 communication paper changed fields because they escaped his desk.
 
 A drawer full of brilliant drafts cannot do the same job.
+
+A second cost is succession. Tacit knowledge dies easily. A mechanism that works because its builder knows which screw to tighten or which assumption is safe may be delightful as a personal artifact and useless as a platform for other researchers. Institutions that overlearn the romance of tinkering can discover that they have subsidized knowledge nobody else can reproduce.
+
+Completion is not merely bureaucracy. Sometimes it is the act that makes private understanding transferable.
 
 The workshop therefore does not settle an argument between play and output. It sharpens it.
 
