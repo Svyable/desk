@@ -1,4 +1,4 @@
-name: Temporary direct Handoff catalog refresh
+name: Temporary sibling-aware Handoff catalog refresh
 
 on:
   push:
@@ -12,16 +12,34 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Desk trigger branch
+        uses: actions/checkout@v4
         with:
+          path: trigger
+          fetch-depth: 1
+      - name: Checkout Desk main working copy
+        uses: actions/checkout@v4
+        with:
+          repository: Svyable/desk
+          ref: main
+          path: desk
           fetch-depth: 0
+      - name: Checkout Shelf main
+        uses: actions/checkout@v4
+        with:
+          repository: Svyable/shelf
+          ref: main
+          path: shelf
+          fetch-depth: 1
+          persist-credentials: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - name: Regenerate from latest main and fast-forward safely
+      - name: Regenerate Desk and Shelf metadata from latest tips
         shell: bash
         run: |
           set -u
+          cd desk
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -29,9 +47,11 @@ jobs:
             echo "Attempt $attempt"
             git fetch origin main
             git checkout -B catalog-refresh origin/main
+            git -C ../shelf fetch origin main
+            git -C ../shelf checkout -B main origin/main
 
             set +e
-            python3 scripts/catalog.py --write
+            python3 scripts/catalog.py --write --shelf-root ../shelf
             catalog_status=$?
             set -e
             echo "catalog.py exit status: $catalog_status"
@@ -42,14 +62,14 @@ jobs:
               exit 0
             fi
 
-            git commit -m "Refresh Desk catalog after Hundred-Year Handoff update"
+            git commit -m "Refresh Desk and Shelf metadata after Hundred-Year Handoff proof"
             if git push origin HEAD:main; then
-              echo "Catalog refresh landed on main"
+              echo "Sibling-aware catalog refresh landed on main"
               exit 0
             fi
 
-            echo "main advanced; regenerating from latest tip"
+            echo "main advanced; regenerating from latest Desk and Shelf tips"
           done
 
-          echo "Could not fast-forward catalog refresh after bounded retries"
+          echo "Could not fast-forward sibling-aware refresh after bounded retries"
           exit 1
