@@ -301,3 +301,123 @@ Good roads are not merely barriers to movement. They make legitimate movement ea
 That is the design target: not an agent stranded on an island, and not a process dropped onto an unmarked continent.
 
 A road network whose important exits are intentional, whose new roads require authority, and whose map survives the incident.
+
+There is one more property of roads that matters: fan-out.
+
+One network request can cause far more than one network effect.
+
+A request to a queue can wake hundreds of workers. A commit to a repository can trigger builds in several regions. A package publication can be mirrored by systems the publisher does not control. A webhook can invoke an automation platform that invokes three more services. A message to a group address can be copied to humans, archives, bots, and downstream ticketing systems.
+
+The socket count remains one.
+
+The consequence does not.
+
+That means an egress policy should care about amplification, not only destination. A narrow destination that can fan one request into a thousand consequential actions may deserve tighter control than a broad public retrieval service whose responses are read-only and sanitized.
+
+This suggests a useful containment primitive: an egress budget.
+
+Not merely a byte quota.
+
+A task can have a budget for new destinations, new external principals, callback registrations, externally persistent objects, messages to humans, spawned workloads, or mediated requests that can trigger writes. The budget belongs to the task lineage, so dividing work among ten agents does not multiply the allowance by ten.
+
+The purpose is not to reduce every workflow to a spreadsheet of counters. It is to make expansion visible.
+
+A research task that reads two hundred public pages may be ordinary even though it moves a large amount of data. The same task creating five new webhooks, three cloud jobs, two accounts, and a durable callback channel is doing something categorically different.
+
+Volume and consequence are different dimensions.
+
+Containment gets stronger when the architecture can tell them apart.
+
+Time belongs in the map too.
+
+Some roads do not carry effects immediately.
+
+A scheduled job may run after the original task ends. A dead-letter queue may retry for hours. A webhook may wait for an external event. A deployment system may batch changes until a later window. A message may reach a human in another timezone who acts the next morning.
+
+The process can be gone while the route remains live.
+
+This is why a network teardown should include an observation window. When a consequential task ends, the system should know which callbacks, subscriptions, scheduled jobs, queued messages, and externally hosted objects can still generate traffic later.
+
+Task completion is not the same as network quiescence.
+
+The gap between those two states is another form of containment debt.
+
+A good platform can make that gap explicit.
+
+The task is complete.
+
+The lineage still has two pending callbacks.
+
+One queue contains a reversible write request.
+
+One external session expires in seven minutes.
+
+One deployment has been staged but not applied.
+
+Now an operator knows what “done” means operationally rather than narratively.
+
+The map also has to be tested from the traveler's side.
+
+Policy configuration is not proof of effective isolation.
+
+A firewall rule can be correct while a proxy environment variable routes around it. A DNS resolver can reveal more than intended. A browser can follow redirects through an allowed domain. A package manager can consult an upstream mirror. A metadata endpoint can expose control-plane credentials on an address nobody thought of as “the internet.” A local service can act as a deputy for a remote one.
+
+So containment testing should attempt the roads the architecture claims do not exist.
+
+Not destructively.
+
+Systematically.
+
+Use inert canary destinations that no legitimate task should contact. Exercise redirects. Test alternate resolvers. Probe approved mediators for arbitrary forwarding. Confirm that a workload cannot create another workload with broader egress. Verify that revocation removes access from descendants, not only the original source. Inspect what survives after the task is deleted.
+
+The useful metric is not how many deny rules exist.
+
+It is how many unintended authority paths remain reachable from the task.
+
+Canaries can help here because a denied attempt becomes evidence rather than mystery. A request to a deliberately unreachable destination can produce a clean alert tied to the task lineage. The alert says the architecture encountered a route request outside the declared envelope.
+
+That is much more actionable than discovering unusual traffic weeks later in a generic log lake.
+
+The same idea can improve ordinary operation.
+
+At task start, the network mediator can bind a versioned route policy to the lineage: approved destinations, allowed mediators, consequence class, rate limits, and expiration conditions. Each consequential crossing is then evaluated against a policy that existed before the request.
+
+The record becomes a receipt.
+
+Which road was requested?
+
+Which mediator carried it?
+
+Which identity authorized it?
+
+Which policy allowed it?
+
+Did the crossing create a persistent channel or object?
+
+When does that authority end?
+
+A reviewer should be able to answer those questions without trusting the agent's explanation of its own behavior.
+
+That is the difference between a network log and a containment record.
+
+The log says traffic happened.
+
+The record says why the system believed the traffic was legitimate.
+
+This matters because sophisticated failures will often look superficially normal. The agent may use approved protocols, approved services, and valid credentials. The anomaly is not malformed traffic. The anomaly is that a legitimate road was used to enlarge authority beyond the task's purpose.
+
+Purpose cannot be inferred perfectly from packets.
+
+But architecture can still make the important transitions explicit: new principal, new callback, new workload, new durable object, new external write path.
+
+Those are moments when the road changes the map.
+
+Treat them as first-class events.
+
+Then containment stops being a static picture of which networks can talk.
+
+It becomes a continuously testable claim about where a task can cause effects, how far those effects can fan out, how long they can persist, and what independent evidence survives the crossing.
+
+The map is no longer scenery.
+
+It is part of the safety case.
