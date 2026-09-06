@@ -7,7 +7,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters**  | 18 of 18 + prologue |
-| **Release Review** | Blocked: Chapters 4–18 still need claim-level source coverage and current-claim verification before mechanical release gates |
+| **Release Review** | Blocked: Chapters 4–7 claim-level review complete; Chapters 8–18 still need claim-level source coverage and current-claim verification before mechanical release gates |
 
 *Diplomacy at Machine Speed.*
 
@@ -47,4 +47,5 @@ The complete Desk draft is designed as trade nonfiction with a classroom afterli
 - [Research brief](research/README.md)
 - [Chapter briefs](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release evidence map — Chapters 4–7](research/release-evidence-map-2026-09-06.md)
 - [Release review](research/release-review.md)
