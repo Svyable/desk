@@ -139,3 +139,87 @@ Together they establish the pattern for the century ahead. American athletes wil
 The score will matter.
 
 The story around the score will matter more.
+
+## The challenger test: infrastructure versus the event
+
+The nineteenth century had no ESPN to tell us which athlete mattered most on December 31. Richmond and Molineaux therefore force a more useful question than “who had the better résumé?”
+
+What kind of influence are we trying to measure?
+
+Richmond’s strongest case is not a championship. The National Portrait Gallery in London describes him as one of the most accomplished and respected boxers of the early nineteenth century, but the biography becomes more interesting after the fighting line. He becomes a trainer. He builds a boxing academy. His celebrity carries him into elite public life. He becomes a teacher of the sport rather than merely a user of it.
+
+That makes Richmond an unusually early example of athletic knowledge becoming institutional capital.
+
+If the player’s only value disappears when the legs slow, the sports economy has consumed the body and moved on. If technique, judgment, relationships, reputation, and teaching survive the competitive peak, the athlete can become part of the machinery that produces the next generation.
+
+Richmond does that.
+
+His case for the 1800s therefore defeats a hypothetical rival with more individual victories but less downstream effect. A better fighter can be less important if the fighter leaves no new route, no durable school of knowledge, no network, and no public model that changes what comes next.
+
+Molineaux wins the 1810s for almost the opposite reason.
+
+His two championship challenges become too large to remain private athletic events. The spectacle creates the importance. Contemporary racial and national anxiety attaches itself to the possibility that an American-born Black challenger could become champion of England. The fight is valuable precisely because the public believes the outcome might say something about a hierarchy the sport cannot logically settle.
+
+That mismatch—between what a contest can prove and what spectators ask it to prove—will recur for the next two centuries.
+
+Jesse Owens can win four gold medals without defeating racism.
+
+Joe Louis can knock out Max Schmeling without defeating fascism.
+
+Billie Jean King can beat Bobby Riggs without proving every proposition about sex and athletic performance.
+
+The result is narrower than the story.
+
+The story still changes culture.
+
+Molineaux is our first clear transatlantic example of that mechanism.
+
+The location matters economically too. The best competitive market available to an American-born Black fighter was not necessarily in the United States. That is a reminder that talent markets are shaped by institutions, not national romance. Athletes move when opportunity is unevenly distributed.
+
+Modern fans recognize the pattern in a different form. Baseball players move across the Pacific and the Caribbean. Basketball players leave home for American colleges or professional leagues abroad. Soccer players cross continents before adulthood. Boxers train in cities far from where they were born. Tennis players build transnational coaching and residency arrangements. The nation still claims the champion after the labor market has already become global.
+
+Richmond and Molineaux were doing a primitive version before modern sports migration had a name.
+
+Their careers also expose the role of patronage before salaries become standardized. A league contract creates a visible exchange: labor for compensation under rules. Prizefighting depended on a messier ecology of backers, bettors, taverns, aristocrats, promoters, trainers, and side wagers. That made relationships themselves a form of capital.
+
+Richmond learned the ecology.
+
+Molineaux entered it with Richmond’s guidance.
+
+The trainer therefore did not simply teach a left hand or a defensive move. He translated the institution.
+
+Where do you fight?
+
+Who can make the match?
+
+Which patrons matter?
+
+What customs govern the ring?
+
+How does a foreign-born Black challenger become legible to an English audience?
+
+Those are professional questions, not merely athletic ones.
+
+The chapter’s two-decade structure lets us watch the network produce an event. Richmond builds a place inside the sport. Molineaux uses that place to reach the champion. The first athlete’s importance is accumulated; the second athlete’s is concentrated.
+
+This is why a single ranking formula would fail.
+
+One kind of greatness compounds quietly.
+
+Another detonates in public.
+
+Both belong in a history of importance.
+
+The archive again demands restraint. The first Cribb-Molineaux fight has accumulated disputed details about rounds, interruptions, long counts, and crowd conduct. The exact sequence is less important than later boxing mythology often suggests. The secure facts already do the work: Molineaux was a credible American-born Black challenger, Richmond trained him, the fights drew enormous attention, and their racial and national meaning was understood by contemporaries.
+
+The story does not improve when uncertain details become certain through repetition.
+
+That is another kind of sporting discipline.
+
+Do not chase the anecdote when the mechanism is already visible.
+
+Richmond and Molineaux show that American sports history had become international before it became nationally organized.
+
+The athlete crossed the ocean before the league crossed the continent.
+
+And long before the modern sports industry learned to call a coach, promoter, manager, and media strategist different professions, these two men were already living inside the network those professions would later formalize.
