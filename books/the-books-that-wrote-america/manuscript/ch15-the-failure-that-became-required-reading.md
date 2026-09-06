@@ -164,6 +164,68 @@ But all importance is retrospective.
 
 Gatsby simply makes the delay visible.
 
+The afterlife also demonstrates a distinction between popularity and availability.
+
+A book can be excellent and still fail to become culturally central if readers cannot encounter it cheaply, repeatedly, and in settings that create reasons to talk about it. The Armed Services Editions supplied one form of availability. Paperback publishing supplied another. The classroom supplied the most durable form of all.
+
+Once a novel becomes assigned reading, it enters a renewal machine. Publishers have reason to keep editions in print. Teachers build lesson plans. Study guides appear. Essays accumulate. Students discuss the same symbols their parents or grandparents may have discussed. Adaptations become easier to market because the audience already knows the title.
+
+This is not proof that *Gatsby* is only important because schools forced it on teenagers.
+
+It is evidence that institutional circulation and literary quality can compound each other.
+
+A short novel with concentrated imagery is unusually compatible with the school calendar. A teacher can reasonably ask students to read the entire work, return to passages, trace Nick’s reliability, compare East Egg and West Egg, examine race and class, and debate whether Gatsby deserves admiration. The book is difficult enough to sustain interpretation without being so long that a curriculum must devote a semester to it.
+
+Teachability is a technology of survival.
+
+The same mechanism can hide alternatives.
+
+Every week spent on *Gatsby* is a week not spent on *The New Negro*, *My Ántonia*, *Babbitt*, or dozens of other books that could organize American memory differently. Curricula create scarcity. Canon formation is therefore not just preservation; it is allocation.
+
+This makes the selection morally uncomfortable in a useful way.
+
+Choosing *Gatsby* here does not mean the canon chose perfectly. It means the canon itself became one of the channels through which the novel mattered.
+
+A counterfactual clarifies the claim.
+
+If Fitzgerald had never written *The Great Gatsby*, the United States would still have developed a language of aspiration, class mobility, conspicuous consumption, and disappointment. Thorstein Veblen had already written about conspicuous consumption. Dreiser, Lewis, Cather, Wharton, and later writers offered powerful accounts of class and striving. The phrase “American Dream” would still have entered public vocabulary through other routes.
+
+Nor would the 1920s lack a literary witness. The decade produced an extraordinary field of writers.
+
+What disappears is one unusually compressed national symbol system.
+
+The green light.
+
+The parties.
+
+The valley of ashes.
+
+The eyes above the road.
+
+The self-invented man whose money cannot purchase retrospective belonging.
+
+Those images became portable enough that journalists, politicians, advertisers, filmmakers, teachers, and ordinary readers could use “Gatsby” as an adjective. Once a character’s name can describe a contemporary person, a book has entered the language beyond reading.
+
+The Gatsby label is often sloppy. A lavish party is called Gatsby-esque even if no tragedy or class exclusion is in sight. A mansion is marketed through the glamour the novel was criticizing. Luxury brands can borrow imagery from a book about the insufficiency of luxury.
+
+That commercial inversion is not a failure of the novel.
+
+It is another afterlife.
+
+Culture is capable of turning critique into décor.
+
+The same process happened to the “American Dream.” The phrase can mean equal opportunity, homeownership, entrepreneurship, immigration, upward mobility, consumer abundance, or simply a desired life. Because it is elastic, politicians across ideologies can claim it. Gatsby’s tragedy is repeatedly enlisted as evidence that the dream is broken, corrupted, exclusionary, alive, or in need of recovery.
+
+The novel remains useful because it does not resolve the argument.
+
+Gatsby’s ambition is not ridiculous.
+
+His object is.
+
+He correctly perceives that identities can be remade and incorrectly believes the past can be commanded to ratify the new one. The American promise of reinvention is real enough to motivate him and incomplete enough to destroy him.
+
+That tension is stronger than a sermon either for or against success.
+
 The lesson for any living writer is humbling and useless in equal measure.
 
 You cannot reliably know your afterlife.
