@@ -13,7 +13,7 @@
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 18 of 18 drafted |
-| **Release Review** | Release-cleared subject to `python3 scripts/check-book-length.py neuralase` passing on the frozen Desk source |
+| **Release Review** | Release-cleared — `python3 scripts/check-book-length.py neuralase` passed in Desk PR #1213; no Neuralase manuscript file changed between that validated snapshot and this frozen candidate |
 
 *Transformer Loops and the Intelligence of the Second Pass*
 

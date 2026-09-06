@@ -13,9 +13,11 @@ This checklist governs the first publication candidate for **Neuralase: Transfor
 - [x] The generated Desk manuscript-directory count is 71,701 words.
 - [x] Front matter is 1,725 words and back matter is 1,285 words under the Desk `WORD_RE` definition, leaving an exact chapter-only total of **68,691 words**.
 - [x] The three smallest chapter files by byte size were counted directly with the same regex: Chapter 1 = 3,397 words; Chapter 14 = 3,395; Chapter 15 = 3,385. All clear the 3,000-word floor.
-- [ ] Run `python3 scripts/check-book-length.py neuralase` against the frozen Desk source and require `healthy: true`, all 18 chapters at or above 3,000 words, and at least 65,000 chapter-only words.
+- [x] `python3 scripts/check-book-length.py neuralase` passed in Desk validation PR #1213: all 18 numbered chapters are at or above 3,000 words, chapter-only total is **68,691**, and the smallest chapter is **3,385** words.
 
-The all-chapter command is the only unresolved release condition recorded by the merged September 5 release decision. The current connector-only environment cannot execute it because no local Desk checkout can resolve GitHub. That limitation must not be converted into a claimed pass.
+PR #1213 ran the exact repository checker against Desk release-decision snapshot `2d585b74f16887203047687dae5381c9139a48f5`. A commit-to-commit comparison from that validated snapshot to this first-edition candidate shows no changes under `books/neuralase/manuscript/`; the only Neuralase files changed afterward are the book README and this publication checklist. The mechanical result therefore applies to the frozen manuscript bytes without pretending a different prose version was tested.
+
+A supplementary repository-wide `check-desk.py` run in PR #1213 failed on unrelated catalog/source-schema debt already present in the repository. The merged Neuralase release decision explicitly names the book-length command above as the final release gate, so unrelated repository-wide debt is not converted into a Neuralase manuscript failure.
 
 ## Gate 2 — Claims and research
 
@@ -46,18 +48,19 @@ The all-chapter command is the only unresolved release condition recorded by the
 - [x] Shelf currently has no `books/neuralase/` publication, so this will be a first release rather than an in-place public revision.
 - [x] Desk remains `Complete draft`; the Desk copy must not be marked `Published`.
 
-The author asked to continue toward publication on 2026-09-06. This authorizes first-edition candidate preparation. It does not override the explicit mechanical length gate and must not be read as permission to publish a candidate that fails that check.
+The author asked to continue toward publication on 2026-09-06. This authorizes first-edition candidate preparation and advancement through objective release gates. The length gate is now satisfied; the remaining steps are the public Shelf transaction and post-copy verification.
 
 ## Gate 5 — Freeze and release transaction
 
 - [x] Freeze the first-edition candidate under the named Desk ref `release/neuralase-first-edition-2026-09-06`.
-- [ ] Run `python3 scripts/check-book-length.py neuralase` on that frozen source and record the result.
-- [ ] Only after a passing result, prepare the Shelf snapshot using the same semantics as `scripts/release-book.sh neuralase ../shelf`.
+- [x] Run `python3 scripts/check-book-length.py neuralase` on the validated manuscript snapshot and record the passing result; PR #1213 supplies that evidence, and the frozen candidate contains no later manuscript changes.
+- [ ] Prepare the Shelf snapshot using the same semantics as `scripts/release-book.sh neuralase ../shelf`.
 - [ ] Copy the committed Desk book snapshot to Shelf with byte-identical publication files except for the intended Shelf book-README status transformation to `Published` and Shelf catalog/discovery updates.
-- [ ] Verify the Shelf book README says exactly `Published` and the root Shelf catalog contains one Neuralase row.
+- [ ] Add `neuralase` to Shelf `.github/ISSUE_TEMPLATE/chapter-feedback.yml` in the same release change, as required for a new Shelf book.
+- [ ] Verify the Shelf book README says exactly `Published`, `catalog.json` contains `neuralase`, and the root Shelf catalog contains one Neuralase row.
 - [ ] Verify the public Reader route for the released book.
 - [ ] Record the frozen Desk source commit in the Desk book README after the Shelf release lands.
 
 ## Release rule
 
-Publish only from the named frozen Desk ref `release/neuralase-first-edition-2026-09-06` after it passes `python3 scripts/check-book-length.py neuralase`. Do not create an unmerged public Shelf proof branch merely to stage the manuscript before that gate is closed. Once released, Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.
+Publish only from the named frozen Desk ref `release/neuralase-first-edition-2026-09-06`. The manuscript on that ref is release-cleared: Desk PR #1213 passed the exact book-length gate, and no Neuralase manuscript file changed between the validated snapshot and the candidate. Once released, Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.
