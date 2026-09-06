@@ -1,0 +1,78 @@
+name: Fix Reader catalog health
+
+on:
+  push:
+    branches:
+      - fix-reader-catalog-health
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix-reader-catalog-health
+          fetch-depth: 1
+
+      - name: Restore The Deletion Economy Reader checklist
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          book = Path('books/the-deletion-economy')
+          readme = book / 'README.md'
+          text = readme.read_text(encoding='utf-8').rstrip()
+          if '## Contents' in text:
+              raise SystemExit('The Deletion Economy already has a Contents section; aborting rather than duplicating it')
+
+          manuscript = book / 'manuscript'
+          chapters = sorted(
+              manuscript.glob('ch*.md'),
+              key=lambda path: int(re.match(r'ch(\d+)', path.name, re.I).group(1)),
+          )
+          ordered = [manuscript / 'front-matter.md', *chapters, manuscript / 'back-matter.md']
+          if len(chapters) != 19 or any(not path.exists() for path in ordered):
+              raise SystemExit(f'Unexpected manuscript shape: {len(chapters)} chapters')
+
+          def label(path):
+              first = path.read_text(encoding='utf-8').splitlines()[0].strip()
+              if not first.startswith('# '):
+                  raise SystemExit(f'Missing H1 in {path}')
+              title = first[2:].strip()
+              title = re.sub(r'^Chapter\s+(\d+)\s+—\s+', r'Ch \1 — ', title)
+              return title
+
+          lines = ['## Contents', '']
+          for path in ordered:
+              lines.append(f'- [x] [{label(path)}](manuscript/{path.name})')
+
+          readme.write_text(text + '\n\n' + '\n'.join(lines) + '\n', encoding='utf-8')
+          PY
+
+      - name: Regenerate root catalog
+        run: python3 scripts/catalog.py --write
+
+      - name: Require a healthy Reader catalog
+        run: |
+          python3 scripts/catalog.py
+          grep -Fq '(books/hallucinations/)' README.md
+          grep -Fq '(books/the-expiration-economy/)' README.md
+          grep -Fq '(books/the-deletion-economy/)' README.md
+          grep -Fq '[Front Matter](manuscript/front-matter.md)' books/the-deletion-economy/README.md
+          test "$(grep -Ec '^- \[x\] \[' books/the-deletion-economy/README.md)" -eq 21
+          node desk/catalog-contract.test.mjs
+          node reader/js/desk-pwa-contract.test.mjs
+          git diff --check
+
+      - name: Commit catalog repair
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md books/the-deletion-economy/README.md
+          git commit -m "Restore a healthy Reader catalog"
+          git push origin HEAD:fix-reader-catalog-health
