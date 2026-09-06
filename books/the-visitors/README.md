@@ -54,6 +54,7 @@ The arc begins in 1778 with Conrad Alexandre Gérard, the first French minister 
 - [Research brief, selection method, prior-art boundary, and falsification notes](research/README.md)
 - [Selection ledger](research/selection-ledger.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
 
 ## Publication state
 
