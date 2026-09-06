@@ -72,5 +72,6 @@ We usually describe these as problems of durability. That misses the harder part
 - [Chapter 5 evidence notes](research/ch05-evidence.md)
 - [Chapter 6 evidence notes](research/ch06-evidence.md)
 - [Chapter 7 evidence notes](research/ch07-evidence.md)
+- [Chapter 8 evidence notes](research/ch08-evidence.md)
 - [Source ledger](research/source-ledger.csv)
 - [Cooking queue](research/cooking-queue.md)

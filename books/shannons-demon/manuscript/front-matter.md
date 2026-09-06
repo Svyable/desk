@@ -1,6 +1,6 @@
 # Shannon's Demon
 
-## Claude Shannon and the Invention of the Digital Mind
+*Claude Shannon and the Invention of the Digital Mind*
 
 **Sven Hardy Benson**
 

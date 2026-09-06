@@ -11,6 +11,7 @@
 | **Chapters** | 18 of 18 + prologue |
 | **Edition** | First complete draft |
 | **Language** | English |
+| **Release Review** | Remains blocked; see [research/release-review.md](research/release-review.md) |
 
 The central thesis is that the defining geopolitical fact of the next decade is not a clean division between American and Chinese blocs but the growing leverage of states wealthy, populous, strategic, or connected enough to refuse permanent alignment and bargain issue by issue.
 
@@ -46,3 +47,4 @@ This Desk edition completes the 18-chapter argument as a first full manuscript w
 
 - [Research brief, chapter map, and falsification tests](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)

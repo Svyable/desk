@@ -138,6 +138,64 @@ Freedom to make mistakes without losing a livelihood.
 
 The owner of complementary scarcity can capture value from abundant capability.
 
+That capture is not predetermined either.
+
+A productivity gain has to land somewhere.
+
+It can become a lower price for customers. It can become a higher margin for the firm. It can become higher pay, fewer hours, more output, a better product, or enough slack to attempt work that was previously uneconomic. Often it becomes several of these at once, in proportions that change over time.
+
+The technology alone does not tell us the proportions.
+
+Competition matters. If many firms gain the same efficiency and customers can switch easily, some of the gain may be competed into lower prices. If one firm owns a difficult-to-copy complement, the gain may stay with the owner. If demand expands when price falls, cheaper production can create more work even while fewer labor hours are required per unit. If demand is already saturated, the same productivity increase can reduce labor demand instead.
+
+Bargaining matters too.
+
+A worker who uses an assistant to produce twice as much has not automatically doubled the value of the worker's claim on the resulting revenue. The firm may see the tool as capital it purchased. The worker may see the improved output as evidence of greater contribution. Customers may simply expect faster service at the old price. Competitors may force the price down before either side captures much of the surplus.
+
+This is why arguments about whether AI will "benefit workers" or "benefit capital" can become too clean to be useful.
+
+The answer can differ by occupation, firm, market, and year.
+
+It can also change as adoption spreads.
+
+Early users may earn rents from knowing how to use a scarce capability. Later the capability becomes ordinary and the premium moves toward whatever remains difficult: relationships, distribution, proprietary data, regulatory permission, physical assets, or judgment at the edge of the system.
+
+The politics follows that movement.
+
+Transition costs do not necessarily arrive on the same clock as benefits.
+
+A consumer can enjoy a cheaper service immediately. A worker whose task loses value may need months or years to acquire a different source of bargaining power. A company can install software in a quarter. A school system cannot produce experienced mid-career workers on the same schedule. A community can lose an employer faster than it can attract another one.
+
+Long-run gains can therefore coexist with short-run losses that are neither imaginary nor trivial.
+
+This is where political arguments often talk past one another. One side points to the eventual expansion of capability. The other points to people who cannot live in an eventual average.
+
+Both clocks are real.
+
+A transition that looks efficient in a ten-year chart can still be brutal in the second year. A policy that preserves every current role can protect the second year by preventing the ten-year adjustment altogether.
+
+The hard problem is separating protection of people from protection of a particular production method.
+
+Those are not the same thing.
+
+A society can decide that people should not bear every cost of technological transition alone without promising that every old task will remain economically scarce. Firms can invest in training without pretending they know exactly which future job will exist. Insurance, savings, portable benefits, education, labor contracts, community institutions, and public programs can all distribute risk in different ways without freezing the workflow itself.
+
+None of these mechanisms is free of tradeoffs. Assistance can subsidize incumbents. Training can be mistimed or irrelevant. Benefits can weaken incentives or simply arrive too late. Firms can call a layoff "transformation" while shifting the cost onto workers. Workers and professions can invoke transition harm to defend rents that no longer serve customers.
+
+There is no distribution mechanism that makes technological change painless by definition.
+
+But there is also no reason to pretend that the pain is a natural property of the technology rather than partly a result of how risk is assigned.
+
+This matters because abundance changes not only income but security.
+
+The person deciding whether to experiment with a new tool behaves differently if one failure threatens the rent. The small firm behaves differently if a failed deployment can be rolled back cheaply. The worker behaves differently if learning a new role does not require gambling the household's entire financial stability.
+
+Risk-bearing capacity is another complementary asset.
+
+People with more of it can adopt earlier, wait longer, and survive more mistakes.
+
+That advantage can compound even when the underlying tool is free.
+
 This is where the politics becomes familiar economics.
 
 When a new input gets cheaper, the returns do not automatically flow to the people who use the input most visibly. They can flow to whoever owns the bottleneck around it.

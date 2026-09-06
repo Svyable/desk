@@ -150,6 +150,22 @@ A company with a proprietary dataset may copy it cheaply, subject to rights and 
 
 Physical advantage comes with physical exposure.
 
+The exposure is partly financial. Capacity has to exist before it can be used, which means somebody has to carry it while demand is uncertain. A service business can keep an extra vehicle, another technician on call, spare inventory, or an underbooked hour in the schedule. A manufacturer can maintain redundant equipment or supplier relationships. Those choices look inefficient when nothing goes wrong.
+
+They look different when something does.
+
+This is the awkward economics of resilience. A system optimized for average demand treats spare capacity as waste. A system designed to survive peaks, failures, maintenance, and late deliveries treats some of that same capacity as insurance. The premium is not only the cost of matter. It is the cost of having matter available before the need becomes obvious.
+
+That distinction matters because artificial intelligence can make forecasts and schedules better without making uncertainty disappear. A more accurate forecast may justify carrying less slack. It may also reveal that the expensive tail of the distribution still matters. If the consequence of running out is large enough, the last few percentage points of utilization can be the most expensive ones to chase.
+
+There is no universal correct amount of slack. A warehouse handling replaceable consumer goods can tolerate a different failure rate from an intensive-care unit. A streaming service can degrade differently from a water system. What looks like idle capacity on a spreadsheet may be a purchased option to respond when the ordinary plan stops being ordinary.
+
+Physical systems also expose the importance of complements more brutally than software metaphors suggest. Owning a machine is not the same as owning productive capacity if the operator, replacement part, electrical connection, permit, loading dock, or upstream material is missing. The effective capacity of the system is set by the complement that fails first.
+
+This makes expansion lumpy. A business may be able to serve ten more customers with almost no new capital, then discover that customer eleven requires another shift, another vehicle, another room, or another regulatory approval. Marginal cost does not always rise smoothly. Sometimes it jumps.
+
+Cheap cognition can make those jumps easier to anticipate. It cannot negotiate them out of existence.
+
 The same caution applies to consumer life.
 
 As generated media becomes abundant, some people may spend more on experiences precisely because screens are saturated. Others may prefer increasingly rich virtual experiences and travel less. Some physical objects may gain status because their provenance and manufacture are costly. Others may lose value because a digital substitute is good enough.

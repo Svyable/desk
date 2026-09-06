@@ -1,4 +1,6 @@
-# Bookself: The Story of Getting Started
+# Bookself
+
+*The Story of Getting Started*
 
 | | |
 |---|---|
@@ -8,8 +10,6 @@
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 28 of 28 drafted |
 | **Release Review** | Blocked: manuscript-length gate failed on the frozen September 5, 2026 source; see [research/release-review.md](research/release-review.md) |
-
-*The Story of Getting Started*
 
 Most advice about beginning assumes that a person already exists who knows what to do and merely needs enough motivation to do it. **Bookself** begins somewhere stranger: before action, identity is partly conjecture. We think we know whether we are writers, founders, runners, students, parents, builders, citizens, or people capable of changing our lives. But much of that certainty is retrospective. A first attempt produces evidence that no amount of private intention can supply.
 

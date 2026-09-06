@@ -35,8 +35,28 @@ function hideAuthoringTools() {
   if (studio) studio.hidden = true;
 }
 
+function applyWorkspaceIdentity(policy) {
+  document.title = policy.documentTitle;
+
+  const description = document.querySelector('meta[name="description"]');
+  if (description) description.setAttribute('content', policy.documentDescription);
+
+  const brandEyebrow = document.querySelector('.desk-brand .eyebrow');
+  if (brandEyebrow) brandEyebrow.textContent = policy.brandEyebrow;
+
+  const home = document.querySelector('.desk-mark');
+  if (home) home.setAttribute('aria-label', policy.homeLabel);
+
+  const skip = document.querySelector('.skip-link');
+  if (skip) skip.textContent = policy.skipLinkLabel;
+
+  const footer = document.querySelector('.desk-footer p');
+  if (footer) footer.textContent = policy.footerText;
+}
+
 function applyWorkspacePolicy(policy) {
   document.body.classList.toggle('desk-local-workspace', policy.localDesk);
+  applyWorkspaceIdentity(policy);
 
   const hero = document.querySelector('.desk-hero');
   if (hero) hero.hidden = policy.hideLandingHero;
@@ -62,12 +82,16 @@ async function applyAuthoringBoundary(remoteInspection) {
     const response = await fetch(new URL('../imprint.json', import.meta.url), { cache: 'no-store' });
     if (!response.ok) return;
     const imprint = await response.json();
-    applyWorkspacePolicy(authoringRolePolicy({ role: imprint.role, remoteInspection: false }));
+    applyWorkspacePolicy(authoringRolePolicy({
+      role: imprint.role,
+      remoteInspection: false,
+      identity: { owner: imprint.brandOwner || imprint.owner, name: imprint.name },
+    }));
     if (imprint.role === 'shelf') hideAuthoringTools();
   } catch {
-    // The Svyable repository is itself a Desk. Keep the already-applied local
-    // policy if role metadata is temporarily unavailable rather than flashing
-    // generic platform controls back into view.
+    // This repository is itself a Desk. Keep the already-applied local policy
+    // if role metadata is temporarily unavailable rather than flashing generic
+    // platform controls back into view.
   }
 }
 

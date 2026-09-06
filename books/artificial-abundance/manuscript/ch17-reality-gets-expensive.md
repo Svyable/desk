@@ -86,6 +86,38 @@ Once the search cost approaches zero, the queue becomes the product.
 
 You can see versions of this in ticketing, reservations, housing, immigration appointments, school admissions, medical specialists, and any other system where demand can be digitized faster than supply can expand. Software makes desire legible. The physical world decides how much can be fulfilled.
 
+At that point, access is no longer just a question of supply. It is a question of allocation.
+
+A scarce appointment can be sold to the highest bidder, assigned by lottery, reserved for people who meet a rule, distributed through a waiting list, held back for emergencies, or captured by whoever can refresh a page fastest. Each method answers a different question about who should bear scarcity. None creates another appointment.
+
+This distinction matters because a system can look efficient while moving the real cost somewhere less visible. A restaurant that releases every table through a perfectly optimized booking interface may eliminate empty seats and still leave regular customers competing with automated reservation tools. A clinic can reduce idle specialist time while forcing patients to absorb more uncertainty in a long queue. A grid operator can allocate scarce connection capacity by a clear rule while projects spend years carrying land and financing costs as they wait.
+
+The queue has an incidence. Somebody holds the uncertainty.
+
+When cognition is expensive, some possible claims on scarce capacity are never formulated. The renovation is not designed. The trip is not planned. The application is not completed. The small firm does not hire an expert to identify the opportunity. Lowering cognitive cost can be liberating precisely because it lets more people enter those contests.
+
+But broader entry changes the politics of the bottleneck. If ten times as many people can prepare a competent application for the same hundred slots, the institution has achieved access to application without achieving access to the thing being applied for. That may still be an improvement. It may also make the rationing rule more consequential than the quality of the paperwork around it.
+
+This is where capacity rights begin to matter.
+
+A right to generate a plan is not a right to the electrician's Tuesday afternoon. A right to request a connection is not a right to immediate megawatts. A right to submit a case is not a right to instant adjudication. Once cheap cognition makes demand easier to express, institutions need rules for what a claim on scarce capacity actually means: a place in line, a guaranteed service level, a tradable reservation, a priority class, a refundable option, or merely permission to ask.
+
+Those are not interface details. They determine who can plan around the shortage.
+
+A wealthy firm can often tolerate an uncertain queue differently from a household, a small business, or a public service. It may reserve redundant capacity, carry several options at once, hire staff to monitor openings, or pay for an alternative. A person with less slack may need a date she can trust more than a theoretically faster average wait.
+
+The value of capacity therefore includes predictability.
+
+This is easy to miss when digital systems optimize utilization. A fully booked calendar looks productive. A grid running near its limit looks efficient. A warehouse with little spare space looks lean. Yet systems with no margin become brittle when demand is variable, equipment fails, weather changes, or a genuinely urgent case arrives.
+
+Slack is expensive because it is unused until the moment it is not.
+
+Artificial abundance can make that tradeoff sharper. Better forecasts, scheduling, and coordination may let institutions operate safely with less spare capacity. That is a real gain. But optimization cannot make uncertainty disappear. If a system converts every improvement in prediction into higher utilization, it may consume the resilience the prediction created.
+
+The question is not whether spare capacity is virtuous. Empty capacity can be wasteful, and badly designed priority rules can become a shelter for incumbents. The question is who owns the option created by slack and what event is important enough to exercise it.
+
+That is a governance problem attached to a physical constraint.
+
 Generative systems make desire cheaper to formulate too.
 
 A person who once needed an architect to imagine a renovation can generate dozens of concepts. A small manufacturer can explore many product designs. A family can produce a detailed itinerary. A city can simulate development options. A patient can arrive at an appointment with a long list of possible diagnoses and questions.

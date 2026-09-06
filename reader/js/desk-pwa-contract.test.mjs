@@ -4,11 +4,12 @@ import fs from 'node:fs';
 const loader = fs.readFileSync(new URL('./app-loader.js', import.meta.url), 'utf8');
 const bridge = fs.readFileSync(new URL('./desk-runtime-bridge.js', import.meta.url), 'utf8');
 const worker = fs.readFileSync(new URL('../sw.js', import.meta.url), 'utf8');
+const libraryCss = fs.readFileSync(new URL('../css/desk-library-home.css', import.meta.url), 'utf8');
 const manifest = JSON.parse(fs.readFileSync(new URL('../manifest.webmanifest', import.meta.url), 'utf8'));
 const catalogManifest = JSON.parse(fs.readFileSync(new URL('../../catalog.json', import.meta.url), 'utf8'));
 
 assert.equal(manifest.id, './');
-assert.equal(manifest.name, 'Svyable Desk Reader');
+assert.equal(manifest.name, 'Sven Hardy Benson’s Desk');
 assert.equal(manifest.start_url, './');
 assert.equal(manifest.scope, './');
 assert.equal(catalogManifest.version, 1);
@@ -24,12 +25,14 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v18';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v21';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
 assert.match(worker, /'\.\.\/catalog\.json'/);
+assert.match(worker, /'\.\/css\/desk-library-home\.css'/);
 assert.match(worker, /'\.\/css\/desk-reading-app\.css'/);
+assert.match(worker, /'\.\/css\/desk-reading-form-factor\.css'/);
 assert.match(worker, /'\.\/js\/desk-reading-app\.js'/);
 assert.match(worker, /'js\/pwa-update\.js'/);
 assert.match(worker, /'js\/native-share\.js'/);
@@ -70,13 +73,25 @@ for (const dependency of [
 ]) {
   assert.match(worker, new RegExp(`'${dependency.replaceAll('.', '\\.')}'`));
 }
+for (const subtitleDependency of [
+  'css/style.css',
+  'js/app.js',
+  'js/catalog.js',
+]) {
+  assert.match(worker, new RegExp(`'${subtitleDependency.replaceAll('.', '\\.')}'`));
+}
 const sharedShell = worker.slice(worker.indexOf('const SHARED_PATHS'));
 const localShell = worker.slice(worker.indexOf('const LOCAL_SHELL'), worker.indexOf('const SHARED_PATHS'));
 assert.match(sharedShell, /library-quick-look/);
 assert.match(sharedShell, /library-book-preview-model/);
 assert.match(sharedShell, /theme-controls/);
 assert.match(sharedShell, /global-reader-controls/);
+assert.match(sharedShell, /css\/style\.css/);
+assert.match(sharedShell, /js\/app\.js/);
+assert.match(sharedShell, /js\/catalog\.js/);
+assert.match(localShell, /desk-library-home\.css/);
 assert.match(localShell, /desk-reading-app\.css/);
+assert.match(localShell, /desk-reading-form-factor\.css/);
 assert.match(localShell, /desk-reading-app\.js/);
 assert.doesNotMatch(localShell, /library-quick-look|library-book-preview|theme-controls|global-reader-controls/);
 assert.doesNotMatch(worker, /offline-readiness/);
@@ -99,12 +114,13 @@ assert.doesNotMatch(loader, /adaptSharedReaderAppSource/);
 assert.match(loader, /DESK_CATALOG_AUDIT/);
 assert.match(loader, /catalogEntryVisible/);
 assert.match(loader, /rewriteSharedModuleSpecifiers\(source, upstream\)/);
+assert.match(loader, /app\.js\?v=desk-20260906-subtitle-catalog-1/);
 assert.match(loader, /viewport-stability-runtime\.js\?v=r1/);
 assert.match(loader, /Viewport stability could not be loaded/);
-assert.ok(loader.indexOf('await import(viewportStabilityUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
+assert.match(loader, /const appAcquisition = fetchBootstrapResource\(appUrl\)\.then/);
+assert.match(loader, /await appAcquisition/);
 assert.match(loader, /const nativeShareUrl = `\$\{upstream\}native-share\.js`;/);
 assert.match(loader, /Native sharing could not be loaded/);
-assert.ok(loader.indexOf('await import(nativeShareUrl)') < loader.indexOf('fetchBootstrapResource(appUrl'));
 assert.match(loader, /desk-reading-app\.js\?v=bookself-20260905/);
 assert.doesNotMatch(loader, /quickLookUrl|library-quick-look\.js/);
 assert.doesNotMatch(loader, /settingsHierarchyUrl|settings-hierarchy\.js/);
@@ -129,4 +145,10 @@ assert.match(bridge, /isDeskPortalReadme/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: global Reader controls are cold-offline safe');
+assert.match(libraryCss, /body\[data-stage="library"\] \.volume-subtitle \{/);
+assert.match(libraryCss, /-webkit-line-clamp:\s*3/);
+assert.match(libraryCss, /font-style:\s*italic/);
+assert.match(libraryCss, /body\[data-stage="library"\] \.volume\.has-art \.volume-subtitle/);
+assert.doesNotMatch(libraryCss, /\.page-inner\s*\{|\.pages-wrapper\s*\{|localStorage|sessionStorage/);
+
+console.log('Desk PWA source contract: subtitle-aware shared catalog and canonical Reader shell are cold-offline safe');

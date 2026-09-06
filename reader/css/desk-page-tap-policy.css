@@ -17,6 +17,16 @@
   }
 }
 
+/* Bookself #298 deliberately removes edge cues on phone-sized viewports: the
+   tap zones remain active, but narrow screens do not gain another visual
+   affordance competing with center-tap chrome. */
+@media (max-width: 700px) {
+  body[data-stage="read"][data-reader-immersive="manual"].reader-chrome-visible
+    #pagesWrapper .nav-gesture-preview {
+    opacity: 0;
+  }
+}
+
 @media (forced-colors: active) {
   body[data-stage="read"][data-reader-immersive="manual"].reader-chrome-visible
     #pagesWrapper .nav-gesture-preview {

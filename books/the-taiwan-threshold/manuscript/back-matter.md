@@ -1,5 +1,5 @@
 # Back Matter
 
-## A note on the field edition
+## Edition note
 
-This first field edition publishes the argument, full chapter architecture, opening prose, and research path while the complete trade manuscript remains under development on Sven Hardy Benson’s Desk. Later Desk revisions do not silently rewrite this edition on Sven Hardy Benson’s Shelf.
+This Desk manuscript is the complete first working edition. A Shelf release is a deliberate snapshot; later Desk revisions do not silently rewrite a released edition.

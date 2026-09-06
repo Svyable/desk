@@ -252,12 +252,8 @@ The first phase was proving that domestic manufacturing capacity deserved seriou
 
 The next phase is learning where that investment can still fail.
 
-That work is less photogenic.
+That work is less photogenic. It means mapping second- and third-tier suppliers; qualifying alternate parts before procurement wants them; paying attention to mature-node capacity; building packaging and test; training technicians; ensuring power and water; tracking critical minerals and specialty chemicals; coordinating with allies; maintaining supplier diversity where the market would otherwise consolidate it away; and creating demand for domestic and allied production after subsidies end.
 
-It involves mapping second- and third-tier suppliers. Qualifying alternate parts before procurement wants them. Paying attention to mature-node capacity. Building packaging and test. Training technicians. Ensuring power and water. Tracking critical minerals and specialty chemicals. Coordinating with allies. Maintaining supplier diversity where the market would naturally consolidate it away. Creating demand for domestic and allied production after subsidies end.
+The point is to notice the cheap dependency before it becomes an expensive delay.
 
-It means treating a forty-dollar problem as a forty-thousand-dollar problem when the consequence justifies it.
-
-Not because the part became expensive.
-
-Because the clock did.
+A forty-dollar part does not need to become costly to become strategic. It only needs to be hard to replace when the clock is running.

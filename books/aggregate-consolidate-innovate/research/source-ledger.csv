@@ -1,0 +1,2 @@
+id,year,author_or_institution,title,source_type,book_use,url
+ACI001,2024,"National Institute of Standards and Technology","Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile (NIST AI 600-1)","primary authoritative government guidance","Chapter 18 — supports the distinction between fluent synthesis and trustworthy provenance; names confabulation and information-integrity risks while providing a bounded counterpoint rather than treating all AI retrieval as unreliable","https://doi.org/10.6028/NIST.AI.600-1"

@@ -20,7 +20,7 @@ The book does not assume autonomous launch authority and must not imply deployme
 
 The book should change if AI integration measurably reduces warning error and expands deliberation without introducing offsetting vulnerabilities. Preserve evidence that machine assistance can reduce human bias and fatigue. Do not assume opacity is inherent to every AI system or that faster analysis necessarily causes faster launch decisions.
 
-Historic false alarms require careful sourcing; later retellings often simplify what operators actually saw and what procedures followed.
+Historic false alarms require careful sourcing; later retellings often simplify what operators actually saw and what procedures followed. See [Chapter 2 historical false-alert note](ch02-historical-false-alerts.md) for primary/declassified records on the November 1979 and June 1980 NORAD incidents and the counterevidence those records provide against a simple machine-versus-hero story.
 
 ## Chapter evidence map
 

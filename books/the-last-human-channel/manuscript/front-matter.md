@@ -1,8 +1,10 @@
 # The Last Human Channel
 
-## Diplomacy at Machine Speed
+*Diplomacy at Machine Speed*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 Working manuscript — Sven Hardy Benson’s Desk
 

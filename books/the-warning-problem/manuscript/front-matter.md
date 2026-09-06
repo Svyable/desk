@@ -2,7 +2,9 @@
 
 *Nuclear Deterrence in the Age of AI*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 First field edition candidate, September 2026.
 

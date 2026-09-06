@@ -256,7 +256,53 @@ Some will use abundance to increase surveillance, intensify work, flood employee
 
 Plenty can produce congestion.
 
-That is another reason institutions remain.
+Congestion changes what good governance looks like.
+
+When generating a request was expensive, the request itself carried a little information. Someone had invested enough effort to fill the form, prepare the proposal, assemble the exhibits, or write the appeal. That was never a fair test of merit, but it acted as a throttle. Cheap generation removes the throttle.
+
+A procurement office can receive more complete bids. A grant program can receive more polished applications. A manager can receive more proposals from every team. A regulator can receive more comments that are individually coherent and collectively impossible to read one by one. Better assistance may allow people who previously struggled with formal process to participate, which is an important gain. It can also allow every participant to multiply submissions at nearly no cost.
+
+The institution cannot answer abundance by asking humans to read faster forever.
+
+It has to redesign the queue.
+
+That means separating cases by consequence, reversibility, novelty, and uncertainty. A low-stakes request that can be checked automatically and reversed cheaply does not need the same attention as a decision that can deny a person a benefit, move a large amount of money, or create an irreversible safety risk. The old workflow may have routed both through the same desk because the desk was already there. Artificial abundance makes that uniformity harder to justify.
+
+This is not a recipe for eliminating people from consequential decisions. It is a way of preserving human attention for the places where attention can still change the outcome.
+
+A useful institution will increasingly ask not, "Did a person touch this?" but, "What would make this case deserve more scrutiny?"
+
+The answer may be an unusual pattern. A conflict among records. A large downside. A person invoking an appeal. A model operating outside the conditions in which it was tested. A decision that cannot be unwound later.
+
+The queue becomes part of the policy.
+
+That is uncomfortable because routing power is real power. Whoever defines what counts as routine also defines which cases receive scarce attention. An automated triage system can reduce delay and still encode bad priorities. A risk threshold can be sensible in aggregate and brutal to the person who falls just below it.
+
+So the institution needs something more durable than a clever classifier.
+
+It needs an authoritative record of the rule, the version of the system applying it, the exceptions that were recognized, and the path by which a person can force a second look. In an abundant system, records stop being administrative exhaust and become coordination capital. They let different people and tools know what happened without reconstructing the institution from generated prose each time.
+
+This is also why governance can make an organization faster rather than slower.
+
+A company that knows which actions are reversible can delegate them aggressively. A system can operate inside a defined spending limit, test an idea in a sandbox, roll back a deployment, or answer a routine request without waiting for a committee. Clear boundaries reduce the number of decisions that need to be escalated.
+
+The alternative is often not freedom.
+
+It is fear.
+
+When nobody knows which automated actions are permitted, every action becomes a special case. When nobody knows which record is authoritative, people create parallel spreadsheets. When nobody knows who owns a failure, managers add approvals until responsibility feels distributed enough to be safe.
+
+Good institutional design creates room for experimentation by making failure bounded.
+
+That is a different picture from governance as a brake. It treats permissions, logs, limits, appeals, and rollback as infrastructure for speed. The goal is not to make every action safe in the abstract. It is to know which risks can be taken cheaply and which cannot.
+
+Abundance also makes decentralization more practical in some settings. If more people can obtain competent analysis, the center does not need to monopolize every answer. Local teams can act within clear constraints. Citizens can understand rules without hiring specialists. Small firms can perform work once reserved for headquarters or outside advisers.
+
+That can weaken institutions that survived by controlling information.
+
+It can strengthen institutions that survive by maintaining shared rules while allowing many people to act.
+
+The distinction matters. An institution for plenty does not need to become larger merely because coordination remains valuable. It may become thinner at the center and more explicit about the few things that must remain common.
 
 When everyone can generate a proposal, someone still has to decide which proposal gets a budget.
 

@@ -11,6 +11,7 @@
 | **Chapters** | 18 of 18 + prologue |
 | **Edition** | First complete draft |
 | **Language** | English |
+| **Release Review** | Remains blocked; see [research/release-review.md](research/release-review.md) |
 
 The central thesis is that artificial intelligence can improve the ability of nuclear powers to detect, fuse, and interpret warning data while simultaneously making the most dangerous decision environment on earth faster, more complex, and more vulnerable to false confidence.
 
@@ -46,3 +47,4 @@ This Desk edition completes the 18-chapter argument as a first full manuscript. 
 
 - [Research brief, chapter map, and falsification tests](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
