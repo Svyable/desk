@@ -55,6 +55,7 @@ match(loader, /desk-book-opening-handoff\.js\?v=bookself-20260906/);
 doesNotMatch(loader, /desk-cover-actions\.js/, 'retired split cover-action adapter must stay absent');
 
 match(css, /body\[data-stage="cover"\] \.cover-dock/);
+match(css, /\.cover-dock > #startOverBtn/);
 match(css, /\.cover-more > summary/);
 match(css, /\.cover-more-menu/);
 match(css, /@media \(max-width:700px\)/);
