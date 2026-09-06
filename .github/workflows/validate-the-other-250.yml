@@ -14,6 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Exact book length
+        id: length
+        continue-on-error: true
         run: python3 scripts/check-book-length.py the-other-250 --json
       - name: Desk integrity
         run: python3 scripts/check-desk.py
+      - name: Fail if length failed
+        if: steps.length.outcome != 'success'
+        run: exit 1
