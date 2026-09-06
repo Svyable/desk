@@ -148,7 +148,7 @@ function identifierLinks(isbn, doi, explicitLinks) {
   }
 
   const cleanDoi = String(doi || '').trim().replace(/^https?:\/\/(?:dx\.)?doi\.org\//i, '');
-  if (!labels.has('doi') && /^10\.\d{4,9}\/.test(cleanDoi)) {
+  if (!labels.has('doi') && /^10\.\d{4,9}\/.+/.test(cleanDoi)) {
     links.push({ label: 'DOI', url: `https://doi.org/${cleanDoi}` });
   }
 
