@@ -221,3 +221,135 @@ Mathematics only needs it to exist.
 Search only needs to find it once.
 
 Verification has to make it exist forever.
+
+A publication-ready version of the negative story needs one more distinction: *existence of a profile* and *existence of blowup data* are not the same object, even when they are separated by only a few lines in an informal narrative.
+
+A transformed stationary profile may solve an exact renormalized equation. That establishes an object in the transformed world. To obtain a counterexample, one must show that the original time-dependent Navier–Stokes dynamics can be placed on a trajectory that approaches the profile with the required rate, that the change of variables remains legitimate, and that the reconstructed initial data belong to the Clay class.
+
+This is where spectral information becomes operational.
+
+Linearize the renormalized dynamics around the candidate profile. Stable directions decay toward it. Unstable directions grow away. Neutral directions may come from symmetries such as translation or scaling and must be fixed by normalization. The dimension and structure of the unstable subspace determine what kind of tuning theorem is required.
+
+If there are finitely many unstable directions, one can imagine a codimension-finite stable manifold. A computer-assisted proof might then combine validated spectral bounds with a topological or contraction argument to show that carefully chosen initial data land on that manifold. The mathematical burden is no longer “the simulation seems attracted to a singular profile.” It is “there exists an exact orbit in the infinite-dimensional phase space with this asymptotic behavior.”
+
+The phrase *infinite-dimensional* should remove any residual complacency.
+
+A numerical discretization turns the PDE into a large finite system. A rigorous proof has to control the modes the discretization omitted. Tail estimates are therefore not housekeeping. They are part of the theorem.
+
+Suppose the numerical profile is represented spectrally. The computation resolves the first N modes to extraordinary precision. What guarantees that the unresolved tail cannot change the linearized spectrum, destroy invertibility, or introduce a direction that invalidates the enclosure? A computer-assisted argument needs analytic bounds on that tail, typically exploiting decay, elliptic estimates, or weighted function spaces designed so the infinite remainder can be controlled uniformly.
+
+This is why rigorous numerics often looks less glamorous than numerical discovery.
+
+Discovery shows the profile.
+
+Certification spends months proving that everything outside the picture is harmless.
+
+An AI system could be unusually valuable in this tedious region. It can search for norms in which the linearized operator has a favorable inverse bound. It can split finite and infinite blocks in different ways. It can optimize radii-polynomial or contraction constants. It can test basis choices. It can derive tail inequalities symbolically and ask a proof assistant to verify the bookkeeping. The objective is not to make the theorem “more AI.” It is to reduce the human cost of finding a rigorous enclosure that actually closes.
+
+Interval arithmetic introduces its own enemy: dependency explosion. Reusing the same uncertain quantity in a computation can make interval bounds widen catastrophically even when the true error is small. High dimensionality makes this worse. A naive validated version of a numerically successful calculation may fail simply because the enclosure is too pessimistic.
+
+That is a research problem, not an implementation annoyance.
+
+The choice of coordinates, decomposition, and analytic estimate can determine whether a proof is computationally feasible. Machine search can explore these choices aggressively, but it should optimize the *rigorous* bound, not the floating-point residual. A profile with a slightly worse numerical residual may be far easier to certify if its linearization is better conditioned or its tail has cleaner structure.
+
+This reverses the usual machine-learning objective.
+
+The best candidate is not the one that looks closest to exact under a training loss.
+
+It is the one whose exactness can be proved.
+
+The same principle applies to the initial data. A neural search may produce a baroque field that drives exceptional growth. Before investing in certification, the institution should ask whether the field can be simplified. Can coefficients be rounded to rational values without destroying the mechanism? Can symmetry be introduced without crossing into a previously excluded class? Can the initial data be represented by a finite analytic formula plus a rigorously bounded remainder?
+
+Proof likes compression.
+
+A simple seed can make every downstream obligation easier: divergence-free verification, smoothness, decay, reproducibility, formal encoding, and independent checking. The optimization objective should therefore include *proof cost*.
+
+This is a place where human taste and machine search can meet productively. The machine finds the ugly needle. The mathematician asks what can be removed while keeping the needle sharp. Agents perform thousands of ablations. The result may be a counterexample family simple enough to write in a paper even if the first discovered specimen was not.
+
+There is also a failure mode unique to existential problems: the machine can overfit to the discretization.
+
+An optimizer rewarded for vorticity growth may discover fields that exploit grid anisotropy, aliasing, truncation, boundary treatment, or a weakness in the time integrator. As the optimizer becomes more capable, this risk increases. It is the numerical analogue of an agent exploiting a loophole in an evaluation.
+
+So the blowup laboratory needs adversarial environment diversity.
+
+Different discretizations.
+
+Different bases.
+
+Different precision.
+
+Independent codebases.
+
+Whole-space and periodic formulations only when the mathematical correspondence is explicit.
+
+Conservation and energy diagnostics.
+
+Resolution studies chosen by critics, not by the team that generated the candidate.
+
+A candidate that becomes stronger only inside one numerical environment should be treated like a theorem that passes only its author’s private checker.
+
+The strongest evidence before proof would be convergence of independent representations toward the same renormalized object and the same spectral picture.
+
+Even that remains evidence.
+
+Then comes the formal target comparator.
+
+A blowup project is especially vulnerable to statement drift because there are many ways to prove a singularity in a nearby problem: Euler instead of Navier–Stokes, a modified dissipation, a restricted symmetry class with nonstandard conditions, a domain different from the Clay alternatives, rough initial data instead of smooth data, or a notion of breakdown weaker than the one required to defeat the positive statement.
+
+The system should therefore derive a machine-readable checklist from the official formulation and attach it to the candidate from the first day.
+
+Equation exact?
+
+Dimension exact?
+
+Domain admissible?
+
+Forcing correct?
+
+Initial data smooth?
+
+Divergence free?
+
+Decay or periodicity correct?
+
+Finite-time failure established in the required regularity sense?
+
+Every box should link to a proof object or a human-audited theorem.
+
+This is where the final artifact begins to look less like a paper and more like a release.
+
+There is a specification. There are source files. There are reproducible builds. There are numerical certificates. There is an axiom ledger. There are independent checker results. There is a human explanation. There is a list of what the result does not claim.
+
+Mathematics has always had versions of these things. AI-scale proofs make the release discipline explicit.
+
+If the negative resolution is computer-assisted, the community will also have to decide how much computation belongs inside the trusted claim. A proof can rely on a massive computation if the computation produces a compact certificate that small independent programs can verify. That is preferable to asking everyone to reproduce the entire expensive search.
+
+Search can be proprietary and enormous.
+
+Verification should be cheap enough to decentralize.
+
+This asymmetry may become one of the defining principles of machine mathematics. Anthropic could spend extraordinary compute discovering the counterexample. The mathematical community should not need Anthropic-scale compute to believe it.
+
+If belief requires renting the original laboratory’s cluster, the epistemic architecture is wrong.
+
+The ideal counterexample has a narrow trust surface: a mathematically precise initial datum or certified family, finite proof artifacts, externally checkable interval or spectral certificates, and a formal implication to the Clay target. Independent teams can then rebuild the argument with different tools.
+
+That is what turns an industrial discovery into public mathematics.
+
+And if no candidate survives this funnel?
+
+That outcome is informative too.
+
+A systematic search may rule out broad families of self-similar or renormalized scenarios, not by theorem at first but by accumulating failures that suggest which no-go results are worth proving. Computer-assisted methods may certify nonexistence of profiles in parameter regions. Adversarial optimization may repeatedly discover that extreme-growth trajectories turn away from singular scaling. Formal comparison may show that every candidate mechanism triggers a known regularity criterion before breakdown.
+
+None of this proves smoothness.
+
+It can, however, make the negative hypothesis more expensive.
+
+The blowup program and the regularity program are not separate teams in the end. Each supplies adversarial data to the other. A near-singular computation stress-tests a proposed smoothness estimate. A new regularity criterion eliminates candidate blowup families. A failed enclosure exposes conditioning that may have analytical meaning. A rigidity theorem tells the numerical search which asymptotic regimes are impossible.
+
+The strongest institution would run both endings simultaneously.
+
+It would not fall in love with the monster.
+
+It would try to build it and kill it at the same time.
