@@ -104,7 +104,63 @@ Future magnetic machines will likely be similar. A reprogrammable soft robot mat
 
 Geometry is where many of those improvements meet because every layer ultimately has to occupy space.
 
-The phrase *geometry is the machine* is not literally true. Materials, currents, software and objectives matter. But geometry is where their arguments are settled.
+There is another quantity that belongs beside field strength and controlled volume: *spatial bandwidth*.
+
+A field source cannot usually create arbitrarily fine patterns at arbitrary distance. Small spatial features in a field decay rapidly as the observation point moves away from the source. The practical meaning is simple. If a designer wants to control two magnetic targets separated by a tiny distance, the sources that distinguish them generally need to be close, finely patterned, or assisted by target-specific properties. Coarse remote coils are excellent for creating large smooth fields and poor at drawing tiny independent magnetic pixels deep inside a workspace.
+
+This is the magnetic equivalent of resolution.
+
+The idea changes how one should imagine programmable field surfaces. A million independently commanded current elements do not automatically produce a million independent force points several centimeters away. Their fields overlap. Fine patterns blur with distance. The medium between source and target acts like a spatial low-pass filter even when it is simply air.
+
+That does not make high-resolution control impossible. It changes the architecture required to obtain it.
+
+One strategy is proximity: bring patterned sources close to the target. Another is multiplexing by target response: give different objects different resonant, magnetic, geometric, or temporal signatures so the same global field affects them differently. A third is physical confinement: guide flux through cores, pole pieces, microchannels, or structured materials. A fourth is mechanical movement: move a smaller source around the workspace rather than trying to energize every location independently.
+
+Each strategy spends a different resource to buy resolution.
+
+Proximity spends workspace access. Multiplexing spends material complexity. Flux guidance spends structure. Mechanical movement spends time.
+
+This is why magnetic architecture cannot be copied from display technology. An LED screen can address pixels because conductors route electrical current directly to each site. A magnetic surface has no such natural isolation. The field from one source spreads into its neighbors. The control problem is therefore closer to beamforming, acoustic arrays, or radio antenna synthesis than to turning isolated lamps on and off.
+
+That comparison introduces conditioning.
+
+Suppose two coil combinations produce almost the same field in the region where a target sits. Mathematically, the inverse problem can become ill-conditioned: a tiny requested change in the target field may require a large change in source currents. Noise in calibration can create large errors in the computed solution. A controller that ignores conditioning may produce beautiful field maps in simulation and an unstable, hot apparatus in the laboratory.
+
+Good magnetecture therefore designs not only for reach but for controllability.
+
+The source basis should be sufficiently distinct in the relevant workspace that useful field changes can be produced without enormous current cancellation. This may mean adding coils whose individual efficiency looks poor because they improve the independence of available field modes. It may mean sacrificing theoretical peak field for better-conditioned control across the workspace.
+
+A similar issue appears in sensing. A field produced by one source can often be reconstructed from several sensors, but if all sensors occupy nearly equivalent positions, the inverse problem contains little information. Geometry determines observability as well as controllability.
+
+That symmetry is important.
+
+Where should actuators be placed so their effects span the desired field space? Where should sensors be placed so different disturbances leave distinguishable signatures? The two questions can be designed together. A machine with beautifully placed coils and poorly placed sensors remains hard to control. A machine with excellent sensors and weakly independent actuators remains hard to command.
+
+The empty space between them becomes an information channel in both directions.
+
+Manufacturing tolerance then enters as a geometric uncertainty rather than a mere quality-control number.
+
+If a coil shifts by half a millimeter, its field map shifts. If a permanent magnet is installed a degree off-axis, the field basis changes. If a soft magnetic core has an air gap larger than expected, reluctance changes. In high-field systems, structural deformation under load can alter the geometry after current is applied. The machine can literally bend its own field source while operating.
+
+This means high-performance magnetic systems may need *in-operation geometry* rather than only as-built drawings.
+
+The controller can partly recover by calibration. Measure the real field, infer effective source maps, and use those maps instead of ideal CAD geometry. But calibration has a domain. A source map measured cold may change when the coil heats. A ferromagnetic structure may follow a different hysteresis path under another load. A fixture may creep.
+
+Geometry becomes state.
+
+That statement marks a deeper transition. We began this chapter treating geometry as the fixed architecture that determines possible fields. In the most demanding machines, geometry itself can move, expand, strain, or be reconfigured. The controller then manages a family of reachable sets rather than one.
+
+A moving permanent magnet is the simplest example. Robotic magnet systems deliberately reposition a strong source so a smaller quantity of magnetic material can create many different field distributions. Instead of changing current in a fixed coil array, the machine changes geometry directly. This can reduce resistive loss and increase field strength at the cost of mechanical inertia, collision risk and slower dynamics.
+
+The trade is revealing. There is no single privileged way to program a field. One can change current, change magnetization, change source position, change permeability, change temperature, or change the target.
+
+Magnetecture asks which variable is cheapest to move for the application.
+
+That question can reverse conventional design. If coils are too hot, move permanent magnets. If mechanical motion is too slow, use coils. If high current is undesirable at chip scale, tune anisotropy with voltage. If global fields lack spatial selectivity, encode selectivity in the target. If a source must remain passive, redesign the path through soft magnetic material.
+
+The architecture is the allocation of change.
+
+This is why the phrase *geometry is the machine* is not literally true. Materials, currents, software and objectives matter. But geometry is where their arguments are settled.
 
 A magnetic field cannot be ordered like a cloud service. It must come from something somewhere. A magnetic target cannot respond in the abstract. It has a shape, an orientation, an anisotropy and a distance from the source. The controller cannot choose an arbitrary vector field. It chooses from the fields the hardware can make.
 
