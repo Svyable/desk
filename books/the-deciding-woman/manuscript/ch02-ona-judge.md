@@ -52,6 +52,50 @@ Judge set terms anyway.
 
 The Washingtons’ refusal did not restore their control. Another effort to seize her was attempted later through Martha Washington’s nephew, Burwell Bassett Jr. Judge received warning and avoided capture. Senator John Langdon, according to accounts, helped ensure she knew of the danger. Local relationships, geography, free Black assistance, and the political sensitivity of the case all constrained the practical reach of the nation’s most powerful man.
 
+The birthday boundary makes the chronology unusually important here. Judge’s act of self-emancipation and the Washington household’s public advertisement both fall before July 4, 1796. The more elaborate recovery correspondence with federal officials in New Hampshire came later in 1796, and the Bassett attempt came still later. Those episodes belong in the chapter as downstream evidence of what the escape set in motion, not as achievements smuggled backward into the winning interval.
+
+That restriction actually sharpens the case.
+
+By July 4, the irreversible fact was not that Washington had already exhausted every means of recapture. It was that the president’s household had lost physical control of Judge and had been forced into public notice. Three days after her departure, the advertisement described her body, clothes, possible route, and ability to pay passage. The notice warned shipmasters not to help her and offered ten dollars for her recovery. Its wording insisted that there had been no provocation.
+
+The paper was doing two jobs at once.
+
+It was an instrument of capture, meant to circulate information that could turn strangers into enforcement agents. It was also an accidental record of enslaver surprise. The household that had organized Judge’s labor closely enough to know her appearance and wardrobe had failed to perceive her intention. The claim of “no provocation” therefore tells us less about Judge than about the limits of the Washingtons’ own interpretation. They could see service and apparently not the desire to end it.
+
+The advertisement also demonstrates why escape was a network problem rather than a solitary sprint. A person fleeing slavery had to move through a world in which information could travel ahead of her. Ports, roads, inns, newspapers, customs officials, ship captains, and local acquaintances could become parts of a recovery system. Success required counter-networks: people willing to keep silent, carry possessions, arrange transportation, offer shelter, or simply decline to assist the claimant.
+
+Judge later said she had friends among Philadelphia’s Black community and had moved her belongings before leaving. That detail is modest and decisive. The popular image of escape often begins when the fugitive crosses a threshold. The practical escape begins earlier, when somebody agrees not to betray the plan.
+
+This gives the chapter a second kind of power to examine. Washington’s household possessed law, status, money, and national prestige. Judge’s side possessed secrecy, mobility, and social ties the household did not fully control. Those resources were not equal. If discovered, Judge faced consequences Washington did not. But asymmetry does not mean the weaker party has no leverage. It means the leverage has to come from places the stronger party cannot easily command.
+
+Philadelphia’s free Black community mattered in that sense even when the surviving record does not identify every helper. The city contained churches, families, workers, sailors, mutual-aid institutions, and households through which information and assistance could move. The absence of names is not permission to invent a rescue committee around Judge. It is evidence of an archival limit: successful clandestine help often survives precisely because it was not formally documented.
+
+That limit is worth preserving. A biography built from an enslaver’s records and later interviews will almost always know more about the people trying to recover a fugitive than about everyone who helped the fugitive disappear. Washington wrote letters. Officials retained correspondence. Newspapers printed advertisements. The people protecting Judge had reasons not to create comparable paperwork.
+
+The archive therefore inherits the surveillance priorities of power.
+
+Judge’s story partly reverses them because she lived long enough to speak to abolitionist interviewers decades later. Her recollections give historians a rare first-person route into motives the presidential records could only guess at. Even then, memory, transcription, editorial choices, and the distance of decades require care. The safer method is to let the Washington papers establish what the household tried to do and Judge’s interviews establish what she said about her own decision, without forcing either source to answer questions it cannot answer.
+
+That discipline changes the moral texture of the chapter. The household’s claim that she had no provocation and Judge’s later explanation that she wanted liberty are not two equally plausible descriptions of the same employment dispute. One side asserted ownership over the other person. The uncertainty lies in details of memory, assistance, timing, and motive—not in whether slavery constituted coercion.
+
+Judith Sargent Murray remains the most intellectually formidable rival because her 1790 essay attacks another structure of presumed natural hierarchy. Murray argued, in effect, that society confused denied education with deficient ability. The claim would echo through later fights over women’s schooling and professional access. Emma Willard’s chapter will show what happens when that argument becomes an institution.
+
+But Murray’s mechanism is persuasion. Judge’s is withdrawal.
+
+Those mechanisms leave different counterfactuals. Without Murray’s particular essay, arguments for women’s intellectual equality still existed in transatlantic political thought and would continue to develop. Her wording and publication mattered, but the intellectual current did not depend on one text. Without Judge’s decision on May 21, there is no Ona Judge escape from the president’s household, no May 24 advertisement, and no later presidential recovery problem attached to her person.
+
+Counterfactual force does not make Judge’s action nationally larger than Murray’s ideas. It makes the causal chain more personal and less substitutable.
+
+The chapter’s place immediately after Esther Reed also creates a useful reversal. Reed converted household trust into public capacity for a national cause. Judge used household familiarity in the opposite direction. The Washingtons believed they knew the young woman who attended Martha Washington closely enough to assume continuity. Judge used that assumption as cover while arranging to leave.
+
+One woman’s domestic position became a network for service.
+
+Another woman’s domestic position became an opportunity for exit.
+
+Both stories expose how much early American public life rested on activities classified as private. The founding generation did not keep politics in a separate room from households. Households produced labor, inheritance, property, reputation, hospitality, patronage, and social connection. In a slaveholding elite household, they also produced coercive control. To look only at constitutional chambers is to miss part of the machinery that made those chambers possible.
+
+Judge’s escape makes that machinery visible because one of its supposed components refused to remain in place.
+
 Judge remained free for the rest of her life.
 
 It is essential not to inflate that outcome. She did not invalidate the Fugitive Slave Act. She did not establish a court precedent. She did not end slavery in New Hampshire, Pennsylvania, Virginia, or anywhere else. The legal system overwhelmingly favored enslavers. Washington’s inability to recover one woman did not make the federal government weak in general or slavery unenforceable in particular.
