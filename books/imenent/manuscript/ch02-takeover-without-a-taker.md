@@ -256,6 +256,12 @@ Sometimes the right answer is to automate.
 
 The risk comes from answering each one without asking what happens to re-entry in aggregate.
 
+The decision is rarely called a transfer of control. It arrives as procurement, staffing, interface design, vendor support, service-level commitments, and permission changes. A manual path is removed because almost nobody uses it. A dashboard stops exposing low-level state because the agent handles it. A vendor drops the old integration. An experienced operator retires and the replacement role is never opened. Customers learn to expect a response time that the fallback team cannot meet.
+
+None of those changes has to be reckless. Together they retire the complements that made withdrawal practical.
+
+This is the important accumulation. Installing the agent created a new capability. Redesigning the institution around the capability created the dependence.
+
 A takeover without a taker is an aggregate phenomenon.
 
 No individual decision has to be catastrophic.
@@ -439,6 +445,10 @@ Which commitments continue running after revocation?
 Which other systems assume the delegate will still be there?
 
 A takeover without a taker occurs when enough of those answers become uncomfortable at once.
+
+That condition is not inevitable. The same institutions that retire fallback can decide to buy it. Insurers can price recoverability. Regulators and counterparties can demand tested degraded modes. Customers can pay resilient providers. Modular systems can make substitution cheaper. Failures can turn yesterday's apparent waste into tomorrow's competitive feature.
+
+The pressure runs both ways. The danger is not that dependence always wins. It is that the private cost of keeping a slower fallback is visible every quarter while much of the resilience benefit appears only when several things go wrong together.
 
 There may never be a throne.
 
