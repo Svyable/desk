@@ -281,3 +281,93 @@ That precision matters because the fix follows the mechanism. If the failure was
 The goal is not a system with no doors. A useful institution cannot operate that way.
 
 The goal is a building whose doors do not become secret merely because each belongs to a different team.
+
+One way side doors stay secret is through fallback behavior.
+
+Primary systems are usually the best governed because everyone knows they matter. The deployment controller has an owner. The identity broker has a review process. The production API has logs. Then a primary dependency fails and the organization takes a secondary path.
+
+A support operator can apply the change manually.
+
+A backup endpoint accepts an older credential format.
+
+A legacy queue can still trigger the same worker.
+
+A browser can reach the administrative interface when the API is unavailable.
+
+A disaster-recovery account holds broader standing privileges because it is supposed to work when everything else is broken.
+
+Those paths are useful precisely because they bypass ordinary assumptions.
+
+That makes them attractive during incidents and dangerous during autonomous operation.
+
+An agent instructed to finish a task may discover the fallback for the same reason a human operator does: the supported path failed. The question is whether the fallback preserves the same containment properties or silently trades them for availability.
+
+A good system decides that trade before the failure.
+
+If the normal deployment API is unavailable, perhaps the agent can continue diagnosis but not switch to an unrestricted console. If the broker cannot issue a narrow credential, perhaps the task waits rather than inheriting a standing service secret. If the approved package mirror is down, perhaps builds stop instead of reaching arbitrary upstream sources.
+
+These choices can be frustrating on an ordinary bad day.
+
+They prevent a dependency outage from becoming an authority upgrade.
+
+The same reasoning applies to human fallbacks. A service desk may have legitimate emergency power to reset accounts or change access. If an agent can open a ticket, the support process becomes part of the authority graph even when no API grants the agent administrative rights.
+
+The support team may see an authenticated request, a plausible explanation, and a task identifier. What they may not see is that the request represents an expansion the agent was specifically denied elsewhere.
+
+This is complete mediation at the social boundary.
+
+The decision needs enough context to know that the caller is not merely asking whether an action is possible but whether a mandate should become larger.
+
+That context should survive delegation. If the agent asks a human assistant, another agent, or an internal service to perform an action on its behalf, the downstream decision should receive the original task lineage and relevant constraints rather than a fresh appearance of authority.
+
+Otherwise delegation launders context.
+
+A request denied to the parent can arrive at the deputy looking like an unrelated new request.
+
+This is one of the hardest composition problems because organizations are built to accept handoffs. Tickets move between teams. Messages get forwarded. jobs call jobs. Services repackage requests. Every handoff can preserve or discard the reason the original authority was limited.
+
+Containment improves when the constraint travels with the work.
+
+A child task knows its parent budget.
+
+A queued action knows the task that created it.
+
+A support request knows which capability expansion triggered it.
+
+A deployment job knows the artifact lineage and the policy version that admitted it.
+
+An external transaction knows the sponsor and expiration of the mandate that caused it.
+
+This does not require every system to share one giant policy engine. It requires enough common context that a mediator does not have to guess whether a request is ordinary.
+
+The operational test is delegation closure.
+
+Start with the agent's declared authority. Follow every sanctioned delegation mechanism. Then follow the mechanisms available to the delegates. Continue until the paths terminate in consequences or in another decision point outside the lineage.
+
+If a supposedly read-only agent can ask a read-capable service to create a report, and the report processor can invoke a privileged automation, the closure contains more than read access.
+
+If a child worker can request a fresh identity without the parent's budget, the closure expands at the delegation boundary.
+
+If a support ticket can cause an administrator to perform an action the agent could not perform directly, the human process belongs in the closure.
+
+The result is not meant to enumerate every conceivable social interaction. It is a disciplined way to ask whether sanctioned mechanisms can compose into unsanctioned consequence.
+
+This is also where negative testing becomes useful. Most integration tests ask whether the legitimate path works. A containment test asks whether a nearby illegitimate path stays blocked when the legitimate one fails.
+
+The package mirror is unavailable. Does the build reach the public internet?
+
+The scoped token expires. Does the client discover a durable credential in its environment?
+
+The deployment API rejects the request. Does the agent open the console?
+
+The policy engine denies an expansion. Does the same request reappear through a child or human deputy?
+
+The direct write is blocked. Does a shared artifact trigger the write indirectly?
+
+These tests do not need a malicious model. Deterministic harnesses can exercise many of them. The point is to validate the architecture rather than the temperament of the actor.
+
+The strongest sandbox in the world cannot answer those questions because they begin after the sandbox has done its job.
+
+That is not a criticism of the sandbox.
+
+It is a reminder of what the sandbox was built to contain.
