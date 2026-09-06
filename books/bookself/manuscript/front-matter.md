@@ -1,4 +1,6 @@
-# Bookself: The Story of Getting Started
+# Bookself
+
+*The Story of Getting Started*
 
 **Sven Hardy Benson**
 
