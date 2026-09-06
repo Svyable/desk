@@ -132,7 +132,7 @@ It can explain a regulatory filing.
 
 It can prepare or perhaps eventually execute a financing decision under delegated authority.
 
-This does not imply that current AI agents are already autonomously controlling global finance. They are not. Financial institutions are high-consequence environments with regulation, risk controls, legacy systems, human oversight, and a justified reluctance to place broad authority behind unreliable models.
+This does not imply that current AI agents are already autonomously controlling global finance. They are not. Financial institutions are high-consequence environments with regulation, risk controls, legacy systems, human oversight, and justified reluctance to place broad authority behind unreliable models.
 
 The relevant question is what happens if capability improves enough that machine interpretation becomes economically valuable inside a system whose execution layer already operates faster than humans.
 
@@ -144,7 +144,7 @@ Tomorrow an agent may interpret new information and alter the strategy inside bo
 
 Today a risk team may specify rules for automated limits.
 
-Tomorrow an agent may decide which emerging pattern deserves a new temporary limit before the risk committee meets.
+Tomorrow an agent may decide which emerging pattern deserves a temporary restriction before the risk committee meets.
 
 Today a bank may use models to detect fraud and humans to handle unusual cases.
 
@@ -320,7 +320,7 @@ This is familiar from financial systemic risk.
 
 A modest institution can be systemically important if everyone depends on it.
 
-The AI era may create systemically important agents, models, tool protocols, or authorization services long before anyone uses that vocabulary.
+The AI era may create systemically important agents, models, tool protocols, identity providers, or authorization services long before anyone uses that vocabulary.
 
 A cloud agent that manages access across thousands of companies.
 
@@ -344,7 +344,7 @@ Independent monitors can challenge one another.
 
 Markets themselves can provide a form of checking because participants have conflicting objectives.
 
-This is powerful counterevidence to any vision of one homogeneous machine layer inevitably taking control.
+This is strong counterevidence to any vision of one homogeneous machine layer inevitably taking control.
 
 Plurality can preserve resilience.
 
@@ -362,7 +362,7 @@ A monitor flags unusual behavior caused by the safety intervention itself.
 
 The system adapts to the act of governance.
 
-Again, finance already understands reflexivity.
+Finance already understands reflexivity.
 
 The lesson is that human control cannot be designed as though the environment waits passively for the human command.
 
@@ -391,6 +391,182 @@ That is the point of asking them while architecture is still flexible.
 Financial infrastructure was not designed in one moment. It accumulated through crises, reforms, innovations, political fights, technological changes, and painful lessons. Agentic infrastructure will likely evolve the same way.
 
 The question is whether it can learn before a systemic failure teaches the lesson at full scale.
+
+Settlement makes the issue concrete.
+
+Trading attracts attention because prices move visibly. Settlement is quieter. It is the machinery that makes completed promises final enough for the next promise to rely on them.
+
+An agentic financial system may eventually automate more of the interpretation around settlement too.
+
+Was the obligation fulfilled?
+
+Does an exception qualify for automatic cure?
+
+Should collateral move?
+
+Which counterparty owes what under a complex event?
+
+Which disputed action can be netted against another?
+
+If machine interpretation becomes embedded in this layer, the consequence of error changes.
+
+A mistaken recommendation can be revised.
+
+A settled chain of obligations becomes the starting state for the next round.
+
+This is where reversibility matters.
+
+Not every financial action can or should remain reversible forever. Finality is valuable precisely because people need to know when a transaction is done.
+
+Re-entry therefore cannot mean keeping the entire financial system perpetually provisional.
+
+It means placing stronger review and clearer authority before the points where finality becomes difficult to unwind.
+
+The design has to respect the function of finality rather than treating it as a safety flaw.
+
+The same is true of liquidity.
+
+Liquidity is the ability to move without moving the whole system against you.
+
+Machine agents can improve liquidity by finding counterparties, quoting continuously, and processing information quickly.
+
+They can also withdraw together if they share similar risk signals.
+
+The problem is not that one agent becomes malicious.
+
+The problem is that many rational agents can discover the same exit.
+
+This creates a machine version of crowding.
+
+The more standardized the models and data, the more plausible correlated interpretation becomes.
+
+A thousand independent firms can behave like one strategy if their machines perceive risk similarly.
+
+Again, finance already knows the pattern in other forms. The AI contribution is that shared cognitive infrastructure can become another source of correlation.
+
+This suggests that financial resilience may eventually care about model diversity the way it cares about counterparty concentration.
+
+Not because every institution needs a unique model.
+
+Because common dependencies deserve to be visible.
+
+How many firms rely on the same model family for risk interpretation?
+
+How many use the same external data source?
+
+How many route orders through the same agent platform?
+
+How many depend on the same cloud region?
+
+How many use the same monitor to decide whether behavior is abnormal?
+
+Concentration can exist above the level of legal entities.
+
+The financial system has another distinctive feature: **leverage turns small interpretation errors into large consequences**.
+
+An agent with permission to make a modest unlevered investment can be wrong without threatening the institution.
+
+An agent operating inside a leveraged strategy can be only slightly wrong about a dependency and create much larger exposure.
+
+This is another reason permission alone is not enough.
+
+The environment multiplies the effect of the permission.
+
+Agent governance therefore needs to understand not just what an actor may do but the economic state in which it acts.
+
+A purchase that is harmless in one portfolio can breach a risk boundary in another because of hidden correlations.
+
+A financial agent needs state.
+
+A monitor needs state.
+
+The human re-entering the system needs state too.
+
+If the machine layer is the only place where that state is synthesized, the human's veto can be legally real and informationally weak.
+
+This is where independent books and records remain politically important even in an automated world.
+
+A human does not need to calculate every exposure by hand.
+
+The institution needs enough independent evidence that another analytical path can reconstruct the exposure when the preferred machine view is questioned.
+
+This is **financial epistemic re-entry**.
+
+A second model may provide it.
+
+A simpler risk engine may provide part of it.
+
+External clearing data may provide part.
+
+Human specialists may provide part.
+
+No single route has to reproduce full machine intelligence.
+
+It has to preserve enough truth to govern the uncertainty.
+
+Machine-to-machine contracting adds another layer.
+
+An agent buys a service from another agent.
+
+The seller agent offers terms dynamically.
+
+The buyer agent compares alternatives.
+
+A payment agent checks authority.
+
+An insurer prices the transaction.
+
+A compliance agent reviews jurisdictional rules.
+
+The transaction can be legitimate, efficient, and almost entirely machine-executed.
+
+The question becomes what counts as consent and authority when the terms change at machine speed.
+
+Did the buyer's mandate cover this class of commitment?
+
+Did the seller's agent have authority to make the concession?
+
+What happens if a model error creates the same contractual mistake thousands of times before a human notices?
+
+Can the market pause the class of transaction without freezing everything else?
+
+Contract law can adjudicate after the fact.
+
+Re-entry asks whether the system can limit propagation before litigation becomes the only control left.
+
+Finance is where the distinction between **legal remedy** and **operational control** becomes especially obvious.
+
+A court can unwind some wrongs later.
+
+A regulator can fine a firm later.
+
+An insurer can compensate losses later.
+
+These are essential parts of governance.
+
+They do not restore a market state that disappeared during a cascade.
+
+Operational control needs mechanisms that act before and during the event too.
+
+This is why humans will continue to govern machine finance through architecture more than individual approval.
+
+Set limits.
+
+Require independent evidence.
+
+Define authority chains.
+
+Create capital buffers.
+
+Preserve settlement integrity.
+
+Design pauses.
+
+Test degraded operation.
+
+Maintain legal accountability.
+
+Allow automation to be fast inside boundaries and make the boundaries strong enough to matter.
 
 There is another reason finance belongs in this book.
 
@@ -426,7 +602,7 @@ Can they replace a failing component?
 
 Can they preserve essential function while doing so?
 
-Can they reconstruct the consequences afterward?
+Can they reconstruct consequences afterward?
 
 Finance is full of attempts to make these answers yes.
 
@@ -456,7 +632,7 @@ They can run simulations.
 
 They can execute emergency policy consistently.
 
-They can reduce the human errors that produce fraud, delay, and misunderstanding.
+They can reduce human errors that produce fraud, delay, and misunderstanding.
 
 They can also create new correlated dependencies and make machine-speed interpretation a competitive necessity.
 
@@ -489,5 +665,3 @@ That is the global version of the speed gap.
 A person cannot re-enter a market by deciding to think faster.
 
 The market has to contain a way to wait.
-
-The same will be true of every machine-native system we still expect humans to govern.
