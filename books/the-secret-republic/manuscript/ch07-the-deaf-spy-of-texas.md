@@ -221,3 +221,77 @@ Smith stands at the hinge: the local scout whose knowledge could shape a campaig
 He could not hear well.
 
 Houston trusted what he saw.
+
+The surviving record gives that trust more shape than the legend usually does.
+
+Smith was not simply a scout who appears at San Jacinto at the convenient moment when a bridge needs destroying. He had been doing intelligence work across the crisis.
+
+During the fighting at Béxar in 1835, he was already known for reconnaissance and dangerous movement around Mexican positions. Later Texas accounts preserve official praise for his vigilance and describe his services as a spy as difficult for the army to spare. William Barret Travis trusted him as a messenger. In February 1836, before the Alamo became a shrine, Smith carried a letter from Travis out of San Antonio.
+
+That detail matters because it restores the ordinary work surrounding the extraordinary event.
+
+The Alamo is remembered as a siege.
+
+A siege is also an information problem.
+
+The people inside need to tell people outside what they face, what they need, and how long they may hold. The people outside need to know whether relief is possible, whether the position still exists, and what the enemy is doing after it falls.
+
+After the Alamo was lost, Houston sent Smith and Henry Karnes back toward San Antonio on March 13 to determine what had happened. The mission was not ceremonial. Houston needed confirmation of a disaster whose details were still traveling through rumor, refugees, and enemy movement.
+
+The scouts returned with Susanna Dickinson and her daughter Angelina, survivors whose presence turned uncertain news into testimony from the scene.
+
+Intelligence is often imagined as discovering what the enemy wants hidden.
+
+Sometimes it is confirming what everyone fears may already be true.
+
+That distinction affects command. An unconfirmed report can be ignored, doubted, or delayed. A trusted scout returning with living witnesses collapses ambiguity.
+
+The same pattern continued as Houston withdrew eastward. A retreating force is hungry for information because retreat creates two opposite dangers at once. Move too slowly and the pursuing enemy catches you. Move too quickly and you may abandon useful ground, lose cohesion, or surrender the chance to strike an isolated force.
+
+Scouting defines the space between those errors.
+
+Smith's capture of a Mexican courier during the San Jacinto campaign is therefore more important than the romantic image of the daring intercept. A dispatch is a piece of the adversary's command system. If authentic and timely, it can show where orders are flowing and what Santa Anna expects subordinate forces to do.
+
+But the courier story also demonstrates why historical intelligence claims should be ranked by what the evidence can actually bear. Later retellings often use captured dispatches as a narrative hinge: the paper reveals the enemy plan, the commander understands everything, the battle follows.
+
+The archive rarely permits that clean sequence.
+
+We can say Smith captured a courier carrying important dispatches.
+
+We can say Houston trusted Smith with repeated reconnaissance and messenger duties.
+
+We can say the Texian command benefited from information about Mexican movement and dispositions.
+
+We should be more careful before assigning one document the role of deciding San Jacinto.
+
+The same restraint applies to Vince's Bridge.
+
+Texas memory has argued over whose idea it was to destroy the crossing. Later accounts credit Smith, Houston, and others in different proportions. The Handbook of Texas concludes that Smith probably proposed destroying the bridge, Houston authorized the action after discussion, and Smith's party ultimately burned it when cutting it with axes proved impractical. Other participants remembered the sequence differently.
+
+A myth wants one author.
+
+An operation often has several.
+
+Idea, authorization, execution, and consequence are different forms of agency.
+
+That is a useful intelligence lesson in its own right. The collector who discovers an opportunity is not necessarily the commander who decides to act on it. The commander who approves an operation is not the operative who carries it out. Later histories often attach the whole chain to the most famous name.
+
+Espionage is unusually susceptible to this because secrecy already removes many contributors from the public record.
+
+Smith became famous enough to absorb credit.
+
+Others became footnotes.
+
+The bridge itself can also absorb too much causal weight. Its destruction restricted movement across Vince's Bayou and appears to have complicated escape after the battle. But it did not make Mexican defeat inevitable. Santa Anna had separated from other Mexican forces. Houston chose the time of attack. Texian troops achieved surprise against a camp not prepared for the sudden assault. The battlefield became chaos rapidly.
+
+A burned bridge turns chaos into a trap only after the army has been broken.
+
+That order matters.
+
+This book is selecting the most important intelligence story of a decade, not awarding credit for the decade's outcome. Smith earns the 1830s because he shows what intelligence looked like at the edge of an expanding American world: personal, local, mobile, trusted, badly documented, inseparable from reconnaissance, and embedded in a political conflict whose borders had not yet settled.
+
+There are more glamorous ways to define espionage.
+
+None would explain this era as well.
+
+Before intelligence became an office, it was often a person the commander believed would come back with the truth.
