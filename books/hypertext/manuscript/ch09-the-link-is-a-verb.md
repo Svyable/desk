@@ -298,12 +298,96 @@ The edge becomes operational.
 
 That operational character is the hinge between hypertext and modern software.
 
-It also prepares the next transformation in the story.
+The action hidden behind a link also changes what it means for an interface to be predictable.
 
-Once links could be followed by machines, machines could study the graph of which links existed.
+A reader looking at underlined text in a document has a relatively narrow expectation: another representation will probably appear. A user tapping a modern link may trigger a browser, a native application, an authentication flow, a download, a meeting client, a payment state, or an operating-system chooser. The visible affordance stayed compact while the action space widened.
 
-A user clicking an edge asks, “Where does this go?”
+This creates an asymmetry between interface simplicity and consequence complexity.
 
-A search engine looking at billions of edges can ask a different question.
+The user still makes one gesture.
 
-“What does the existence of this link tell me?”
+The system may perform many transitions.
+
+Good software manages that asymmetry by keeping high-consequence actions distinguishable from low-consequence navigation. A link can take a user to the page where a purchase can be confirmed; the final purchase should not be indistinguishable from ordinary browsing. A password-reset link can establish a special session; the system should constrain what that session is allowed to do. A file link can initiate a download; the browser can expose the file type and apply security checks.
+
+The Web's history is full of moments when implementers discovered that friction belongs at the boundary of consequence rather than at every edge.
+
+If every link produced a warning, users would learn to ignore warnings.
+
+If no link ever produced a warning, hostile transitions would inherit too much trust.
+
+The design problem is selective friction.
+
+This is another way to distinguish navigation from authority. Navigation should remain cheap because cheap traversal is the point. Authority changes should become explicit when the action meaningfully alters state, grants access, spends money, sends information, or crosses another important boundary.
+
+Agents make the principle even more important because they can follow many transitions without a human seeing each one.
+
+A human browser can rely partly on the user's perception: this page looks unfamiliar; this button says delete; this checkout shows a total. An agent needs structural signals about which edge is merely informational and which edge leads toward an irreversible effect.
+
+That suggests a future in which action-capable links are accompanied by richer machine-readable context.
+
+Not because every link should become a formal API.
+
+Because software acting for a person needs to know which transitions deserve confirmation, which require credentials, which may expose information, and which are safe to explore speculatively.
+
+The underlying architecture already contains a clue: identification and interaction are separate concepts. An identifier tells the system what resource is being referred to. The method, protocol, application, permissions, and surrounding state determine what interaction is available.
+
+Treating the URL itself as the whole action model collapses too much.
+
+A mature agentic Web should preserve the link's universality while refusing to treat every reachable destination as an authorized operation.
+
+This is exactly the lesson humans learned through capability URLs. A secret-bearing link can be convenient, but possession of the link becomes part of the security model. The system must decide whether that is acceptable for the consequence involved.
+
+A shared photo album may tolerate it.
+
+A bank transfer should demand more.
+
+A one-time account-recovery flow can use it under expiration and additional controls.
+
+A permanent administrative credential should not be casually encoded in something optimized for forwarding.
+
+The link's greatest strength—portability—is a liability when portability is not what the authority should have.
+
+Commerce created a different kind of portability. Referral information could travel from publisher to merchant, allowing value to be attributed across institutional boundaries. That is why affiliate linking became so powerful: two businesses did not need to become one company to share the economics of a transaction. The edge itself became the handoff point for attribution.
+
+This is structurally similar to the Web's broader coordination model.
+
+Keep the systems separate.
+
+Carry enough state across the boundary to continue the task.
+
+The difficult question is always how much state counts as enough.
+
+Too little and the user has to reconstruct context manually.
+
+Too much and the link becomes fragile, revealing, or dangerous.
+
+A clean product URL is durable and shareable. A URL containing a long session token may reproduce the exact state but should not be shared. A search URL can preserve a query usefully. A checkout URL can preserve a cart state whose meaning may expire quickly. A signed download address may intentionally work only for minutes.
+
+All are links.
+
+Their time horizons and authority differ.
+
+This is why the future of hypertext depends partly on recognizing that not every edge should be judged by the same standards of persistence. Chapter seven argued that durable public identifiers are valuable because strangers build dependencies on them. Here the complementary point is that action links sometimes should expire because their power is contextual.
+
+Persistence is good for identity.
+
+Expiration can be good for authority.
+
+Confusing the two creates security and usability failures.
+
+A strong system may therefore expose more than one identifier around the same object: a stable public address for the resource, a temporary authenticated route for a particular action, and an immutable identifier for a historical version. Humans may see one interface. Machines can understand the distinctions beneath it.
+
+This layered design preserves the hyperlink's essential economy. The source can still say “continue there.” The surrounding systems can decide what *there* permits.
+
+That is how the noun became a verb without becoming one universal command language.
+
+The link did not need to contain every action.
+
+It needed to be the handoff through which another system could take over.
+
+Once machines could perform that handoff reliably, they could do something else with the same edges: ignore the human action entirely and study the pattern.
+
+A user asks, “Where does this go?”
+
+A search engine asks, “Why did all these people point here?”
