@@ -148,7 +148,7 @@ function identifierLinks(isbn, doi, explicitLinks) {
   }
 
   const cleanDoi = String(doi || '').trim().replace(/^https?:\/\/(?:dx\.)?doi\.org\//i, '');
-  if (!labels.has('doi') && /^10\.\d{4,9}\/.+/.test(cleanDoi)) {
+  if (!labels.has('doi') && /^10\.\d{4,9}\/.test(cleanDoi)) {
     links.push({ label: 'DOI', url: `https://doi.org/${cleanDoi}` });
   }
 
@@ -159,7 +159,7 @@ export function parseBookReadme(markdown, slug) {
   const titleMatch = markdown.match(/^#\s+(.+)$/m);
   const title = titleMatch ? titleMatch[1].trim() : slug;
   const status = cell(markdown, 'Status');
-  const authorsRaw = cell(markdown, 'Authors');
+  const authorsRaw = cell(markdown, 'Authors') || cell(markdown, 'Author');
   const authors = plainInlineText(authorsRaw);
   const chaptersCell = cell(markdown, 'Chapters');
   const formatLabel = cell(markdown, 'Format');
