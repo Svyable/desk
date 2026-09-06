@@ -20,6 +20,128 @@ The company could contain Chevrolet, Pontiac, Oldsmobile, Buick, Cadillac, and o
 
 This was bureaucracy adapted to variety.
 
+The structure was not born from a clean theory of management.
+
+It was born from disorder.
+
+William C. Durant had assembled General Motors by acquiring companies faster than he had integrated them. The resulting enterprise contained car makers, parts producers, accessory businesses, and other operations linked by ownership but not yet by a sufficiently coherent system for deciding who controlled product plans, capital, inventories, or performance.
+
+Scale had outrun governance.
+
+That weakness became dangerous during the postwar downturn of 1920. Demand shifted, inventories and production plans proved difficult to control, and the corporation entered a severe financial crisis. Pierre S. du Pont assumed a stronger leadership role, and Sloan helped design a structure that could preserve entrepreneurial energy in the divisions without allowing the whole company to behave like a loose federation of unrelated acquisitions.
+
+This is the institutional problem underneath the famous management formula.
+
+Decentralization sounds attractive because people close to a product know things headquarters does not.
+
+Centralization sounds attractive because headquarters can see the balance sheet of the whole company.
+
+Both arguments are correct.
+
+The question is where to put the boundary.
+
+GM’s answer was to separate different kinds of decision.
+
+Operating divisions would have substantial responsibility for products, manufacturing, and markets. Central committees and corporate officers would set broader policy, compare results, coordinate overlapping interests, and decide where the corporation’s capital should go.
+
+The center did not need to design every car.
+
+It needed to decide whether the car division’s use of capital made sense relative to the alternatives.
+
+That required information.
+
+Financial reporting became the nervous system of decentralization.
+
+A decentralized company without comparable measurements is not a system. It is a collection.
+
+The center needed to know sales, costs, inventories, capital employed, expected demand, and returns in forms that allowed one division to be judged against another. Once those measures existed, executives could grant operational autonomy while still enforcing corporate discipline through budgets and capital allocation.
+
+This is why the GM model became so transferable.
+
+It was not an automobile trick.
+
+It was a solution to the information problem created when one legal corporation contains many different businesses.
+
+The corporation learned to govern through numbers.
+
+That internal architecture then made a second innovation possible: a product ladder.
+
+If Chevrolet, Buick, Cadillac, and the other car lines were merely separate firms accidentally sharing an owner, they could collide with one another, leave gaps in the market, or chase the same customer. A corporate product policy could instead assign each brand a position.
+
+The customer entered at one rung and could imagine climbing.
+
+Chevrolet served the lower-priced mass market. Other marques occupied successively more expensive territory, with Cadillac at the high end. GM’s own corporate history traces the formalization of this strategy to the 1920s and to Sloan’s goal of covering distinct price segments rather than competing with itself at random.
+
+That sounds obvious because the strategy was copied so widely.
+
+At the time it was a solution to a difficult coordination problem.
+
+Variety usually increases complexity.
+
+GM turned complexity into segmentation.
+
+A different price class could justify a different product identity, dealer proposition, styling language, and buyer aspiration while still sharing corporate finance, research, purchasing relationships, and strategic oversight.
+
+The ladder also converted income growth into a retention strategy.
+
+A household did not need to leave General Motors when it became wealthier.
+
+It could move within the institution.
+
+The corporation was no longer selling one machine to one market.
+
+It was designing a path through markets.
+
+Finance strengthened the path.
+
+General Motors Acceptance Corporation had been established in 1919 to finance sales of GM vehicles. That mattered because automobiles were expensive relative to household cash on hand, and banks were not always eager to finance them on convenient terms. Installment finance turned the purchase price into a sequence of payments.
+
+The corporation could therefore coordinate three decisions that might otherwise belong to different institutions.
+
+What should the factory make?
+
+Which customer should the brand target?
+
+How should the customer pay?
+
+Manufacturing, segmentation, and credit became parts of one commercial system.
+
+That integration did not mean every function was literally performed by the same office. It meant the corporation could design them to reinforce one another.
+
+The Federal Trade Commission later noted how unusual GMAC’s manufacturer-controlled financing position became as automobile finance developed. Competitors created or used finance companies too, but GM’s early willingness to make consumer credit part of the sales architecture gave the corporation a mechanism for translating product strategy into monthly affordability.
+
+The monthly payment became a second price tag.
+
+A buyer could dislike the full price and still accept the payment schedule.
+
+That changed competition.
+
+Manufacturers no longer competed only on sticker price, engineering, and dealer proximity. They competed on the financial shape of ownership.
+
+GM also built institutions for learning about the physical product.
+
+Its Milford Proving Ground opened in 1924, moving vehicle testing away from an exclusively public-road practice and into a dedicated environment where cars could be evaluated systematically across controlled conditions. GM’s own history describes more than a million and a half test miles during Milford’s first full year.
+
+The proving ground belongs in the same chapter as the balance sheet and product ladder because all three are forms of abstraction.
+
+The financial system turned divisions into comparable returns.
+
+The product plan turned buyers into price segments.
+
+The proving ground turned driving into repeatable tests.
+
+A large corporation becomes governable when messy reality can be converted into categories that management can compare.
+
+That is the strength of bureaucracy.
+
+It is also the danger.
+
+A metric can make unlike things look more comparable than they are. A price segment can become a stereotype of a customer. A financial return can encourage executives to underinvest in capabilities whose value is difficult to quantify. A standardized test can miss conditions outside the track.
+
+GM’s achievement was not that its categories were perfect.
+
+It was that they were useful enough to coordinate a corporation whose complexity had nearly outrun its management.
+
 The Pennsylvania Railroad had shown how hierarchy could coordinate a network.
 
 General Motors showed how hierarchy could coordinate difference.
