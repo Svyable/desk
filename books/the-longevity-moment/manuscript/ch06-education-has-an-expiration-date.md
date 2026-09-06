@@ -211,3 +211,93 @@ The same way a health system assumes one appointment will not be the last.
 The degree should remain valuable.
 
 It should stop pretending to be final.
+
+The financing model has to change with the educational model.
+
+A system can invite adults back repeatedly and still make return irrational if every re-entry is priced like a second adolescence. Tuition is only the visible cost. The larger expense for many adults is income forgone while learning. Add childcare, eldercare, transportation, reduced retirement contributions, and the risk that the credential will not translate into a job, and a nominally affordable program can become a very expensive bet.
+
+This is why employer-funded learning matters so much. When training is embedded in paid work, the learner does not have to finance the entire bridge alone. The employer carries some risk and gains some of the return. Public funding can play the same role where the transition produces broader benefits or where firms have too little incentive to invest in portable skills that workers may take elsewhere.
+
+The incentive problem is real.
+
+An employer may underinvest in broadly useful training because the employee can leave. A worker may underinvest because the employer may not reward the new skill. A lender may hesitate because the return depends on employment. A university can be paid whether the transition succeeds or not.
+
+Everyone can rationally wait for someone else to finance the bridge.
+
+The result is underinvestment exactly where a longer working life increases the potential payoff.
+
+A long-life education system therefore needs risk-sharing, not only course catalogs.
+
+The shape can vary. Employers can pay directly. Public programs can subsidize training in sectors with demonstrated demand. Individuals can contribute where the expected private return is high. Unions or professional bodies can pool training across employers. Institutions can make credentials portable enough that the value survives a job change.
+
+No financing model is universally correct. The important point is that recurring education cannot remain a private emergency purchase made after a job has already disappeared.
+
+Maintenance works better before failure.
+
+This is obvious in aviation and medicine because the cost of stale knowledge is visible. In ordinary occupations, the decay can be harder to notice. A worker remains competent enough for today’s process, then a tool, regulation, customer expectation, or business model changes quickly. The training gap that accumulated slowly is revealed all at once.
+
+The worker appears to become obsolete on Tuesday.
+
+The learning deficit may have been forming for years.
+
+This suggests a different rhythm. Instead of waiting for a career crisis, a long-life system could create periodic educational review points. Not mandatory degrees. A serious chance to ask what has changed in the occupation, what skills remain portable, what knowledge is becoming stale, and what adjacent roles are opening.
+
+The review is useful even when the answer is stay where you are.
+
+Re-entry infrastructure is not valuable only to people who leave. It changes the bargaining position of people who remain because the next path is more believable.
+
+That has implications for credential design. A short credential is useful when it captures a coherent capability and employers recognize it. It becomes noise when institutions slice ordinary learning into dozens of branded badges whose meaning is unclear outside the issuing platform.
+
+Modularity needs an architecture.
+
+A learner should be able to accumulate pieces without assembling an accidental junk drawer. Credits should stack where the underlying learning truly connects. Old credits should not be preserved merely because they exist. New requirements should not erase old work merely because the catalog changed.
+
+The balance is preservation with renewal.
+
+That is the educational version of the entire book.
+
+What should remain valid?
+
+What needs updating?
+
+What should be allowed to expire?
+
+What should be recoverable after time away?
+
+A degree answers these questions once, near the beginning. A long life needs institutions that can answer them repeatedly.
+
+The problem is especially sharp for workers whose prior expertise is highly contextual. A manager with twenty-five years in one company may have extraordinary judgment and a weak external credential for that judgment. Internal systems, relationships, proprietary processes, and company-specific authority can hide how much of the expertise will travel.
+
+Education at midcareer can serve as translation.
+
+It can help the worker identify which knowledge is general, which is obsolete, and which needs to be expressed in a form another employer recognizes. This is less glamorous than learning an entirely new field. It may be more valuable for most adults.
+
+The second beginning often starts by making the first career legible outside its original container.
+
+That is one reason assessment matters as much as instruction. An experienced adult may not need months of teaching before a new employer trusts a skill. The adult may need a credible way to demonstrate it. Challenge exams, supervised demonstrations, portfolio review, competency-based assessment, and other mechanisms can shorten the distance between accumulated knowledge and recognized knowledge.
+
+These mechanisms can also fail. Assessments can be narrow, biased, or gameable. Employers can ignore them. Institutions can use “competency” language to lower costs without providing enough teaching. Flexibility is not automatically quality.
+
+The same standard should apply here as elsewhere in the book: preserve the value of the transition without pretending the transition has no cost.
+
+There is also a social reason to keep education mixed by age.
+
+A classroom containing only people at the same life stage can be efficient. A classroom with a wider age range can contain different forms of ignorance and experience. The younger learner may know a current tool. The older learner may understand how organizations fail when a tool meets incentives, budgets, and people. Neither perspective automatically outranks the other.
+
+The learning becomes reciprocal.
+
+This is not an argument that every course needs age diversity or that older students should be used as unpaid mentors. It is an argument against treating age heterogeneity as a scheduling anomaly.
+
+A society expecting longer, less linear lives should expect classrooms to contain people who arrived by different routes.
+
+The labor market should expect the same of entry points.
+
+The truly radical change would not be millions of people collecting more certificates.
+
+It would be the disappearance of the assumption that serious learning belongs before serious adulthood.
+
+Once that assumption weakens, a fifty-eight-year-old taking a difficult course stops looking inspiring.
+
+It starts looking ordinary.
+
+That is when lifelong learning becomes infrastructure rather than a slogan.
