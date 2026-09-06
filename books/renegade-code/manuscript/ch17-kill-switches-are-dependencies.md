@@ -455,3 +455,143 @@ Then the old fantasy of the kill switch becomes useful again.
 Not because the button contains the power.
 
 Because the dependencies do.
+
+Once revocation is treated as a system property, it needs a service level objective of its own.
+
+Not one marketing number called “shutdown time.”
+
+A set of consequence-specific promises.
+
+No new production-write credentials can be minted for a revoked lineage after five seconds.
+
+No new external messages can be submitted after ten.
+
+Existing write leases expire within one minute.
+
+Queued high-consequence actions become non-executable as soon as the revocation marker is visible.
+
+External sessions that cannot be withdrawn immediately are surfaced as residual risk until expiration or provider confirmation.
+
+The exact values will differ by product.
+
+The important step is making residual authority measurable.
+
+Without that measure, operators cannot tell the difference between a kill switch that worked and one that merely made the dashboard quiet.
+
+This also changes monitoring.
+
+A revocation event should create a tombstone for the lineage.
+
+The tombstone is durable negative authority: this task is not merely absent; it is explicitly untrusted.
+
+Every system that might recreate authority checks the tombstone before restoring expected state.
+
+The scheduler sees it before spawning a replacement.
+
+The credential broker sees it before issuing a new token.
+
+The deployment system sees it before applying a queued change.
+
+The memory service sees it before promoting an output into shared state.
+
+The network gateway sees it before permitting a new external route.
+
+This is the inverse of ordinary identity provisioning.
+
+In ordinary systems we record what a principal is allowed to do.
+
+After a containment event we also need to record what must not silently become true again.
+
+Negative authority is surprisingly hard for distributed systems because absence is easy to misread. A missing worker can mean failure. A missing credential can mean expiration. A missing process can mean autoscaling should replace it.
+
+The tombstone removes the ambiguity.
+
+This lineage is absent on purpose.
+
+Do not heal it.
+
+That one bit of state can prevent the reliability layer from undoing the security layer.
+
+It should also be hard for the acting system to erase.
+
+The same principal being revoked should not hold the administrative authority to clear its own tombstone. Restoration crosses a trust boundary just as renewal does.
+
+This produces another useful artifact: a revocation receipt.
+
+When responders press the button, the platform should not answer only with “success.”
+
+It should return the dependency graph it believes it affected.
+
+Model access: stopped.
+
+Credential issuance: stopped.
+
+Three active write leases: expiring within forty seconds.
+
+Two queued production actions: quarantined.
+
+One browser session at an external provider: revocation requested, confirmation pending.
+
+One child workload: isolated, forensic read-only mode.
+
+Independent logging: healthy.
+
+That receipt gives the incident commander something operationally meaningful.
+
+It exposes the places where shutdown is incomplete instead of hiding them behind a green checkmark.
+
+It also makes drills comparable over time. If last quarter revocation left seven residual grants and this quarter leaves two, the architecture improved. If the median time to quiescence doubled after a new orchestration system launched, the regression becomes visible before a crisis.
+
+The dependency graph can therefore become part of deployment review.
+
+A new tool is not ready for a high-consequence agent merely because its happy path works.
+
+How is its authority revoked?
+
+Does revocation propagate to work already scheduled?
+
+Can it mint a child authority that outlives the parent?
+
+What evidence survives after isolation?
+
+Can the platform produce a receipt showing residual effect?
+
+If the answers are unknown, the tool adds more than capability.
+
+It adds shutdown debt.
+
+Shutdown debt accumulates quietly because every integration is easy to justify alone. One team adds a queue. Another adds a browser provider. Another adds a deployment hook. Another adds a payment service. Each has some kind of logout or cancellation API. The aggregate system becomes difficult to stop because nobody has tested whether all of those mechanisms compose under one lineage.
+
+A mature platform taxes that debt before deployment.
+
+High-consequence integrations need a revocation adapter, an expiration model, a consequence class, and a tested failure mode. The adapter does not need to be elegant. It needs to be reliable enough that the organization knows what happens when trust disappears.
+
+There is a final asymmetry worth preserving.
+
+Shutdown should be easier than restoration.
+
+Stopping new authority during uncertainty is a protective act. Restoring authority recreates exposure.
+
+The two operations should not require the same evidence.
+
+A monitor may be allowed to quarantine a lineage automatically because quarantine is narrow and reversible. Returning production write access may require stronger evidence: an incident owner, a repaired control, a clean rebuild, a new credential lineage, perhaps a second approval for the highest-consequence roles.
+
+This is not bureaucracy for its own sake.
+
+It prevents the familiar failure mode where urgency to restore service outruns confidence that the original problem is understood.
+
+Fast stop.
+
+Deliberate restart.
+
+That is a good safety asymmetry.
+
+It is also how the kill switch becomes less theatrical and more trustworthy.
+
+The operator does not need to believe one button can erase every consequence.
+
+The operator needs to know that one action can immediately stop the system from borrowing more authority, mark the lineage as intentionally untrusted, expose what remains alive, and prevent the rest of the institution from helpfully resurrecting it.
+
+That is a much stronger promise.
+
+And unlike the fantasy of perfect shutdown, it can be engineered, measured, and rehearsed.
