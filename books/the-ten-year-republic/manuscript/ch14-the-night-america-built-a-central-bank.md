@@ -96,6 +96,56 @@ The result was neither a single European-style central bank nor a loose private 
 
 It was an American hybrid.
 
+That hybrid solved one political problem by creating another institutional one.
+
+Who, exactly, would make monetary policy?
+
+The original system divided authority among the Federal Reserve Board in Washington and the twelve regional Reserve Banks. Regional banks had their own directors and presidents, developed different views of local conditions, and could favor different discount-rate policies. New York remained the country's dominant financial center and therefore exercised influence no map of twelve districts could erase. Washington possessed formal supervisory power but did not initially operate as the single commanding monetary-policy center familiar to later generations.
+
+The ambiguity was partly intentional.
+
+A centralized institution powerful enough to control reserves and currency looked politically dangerous in a country that had spent decades attacking concentrated banking power. A purely regional system, however, could reproduce the fragmentation reformers were trying to solve.
+
+The Fed's architecture therefore distributed disagreement inside the institution rather than eliminating it.
+
+That mattered when crises arrived.
+
+The early Reserve Banks initially focused heavily on the discount window: commercial banks could bring eligible short-term paper to a Reserve Bank and receive reserve funds. The theory assumed that supporting sound commercial credit would make currency and reserves more elastic with the needs of trade.
+
+But the economy did not remain inside that clean textbook model.
+
+Financial markets dealt in government securities, acceptances, call loans, foreign exchange, gold, and other instruments. Reserve Banks learned that purchases and sales in open markets could alter bank reserves and money-market conditions even when no commercial bank arrived at a discount window asking for help.
+
+Modern open-market policy was therefore not simply delivered fully formed by the 1913 statute.
+
+The institution discovered part of its future operating system by using the powers available to it.
+
+World War I accelerated that learning almost immediately.
+
+The European war began before the Federal Reserve Banks opened for business in November 1914. American financial markets faced disruption as European investors sought liquidity and gold flows shifted. The New York Stock Exchange closed for months in 1914, an extraordinary reminder that market continuity could not be assumed during global crisis.
+
+Then American neutrality turned into belligerency in 1917.
+
+The federal government needed to finance a war on a scale far beyond ordinary peacetime budgets. Liberty Loan campaigns sold government debt to the public. Banks financed customers purchasing bonds. The Federal Reserve supported the Treasury market and made it easier for the banking system to absorb wartime government borrowing.
+
+A central bank created to stabilize commercial finance became part of the fiscal machinery of war almost immediately.
+
+That experience changed the institution.
+
+Central banks can be described as independent because modern political systems often try to insulate day-to-day monetary decisions from elected officials. War reveals how conditional that independence can be. When the Treasury must borrow enormous sums quickly, interest rates and bond markets become national-security questions. Monetary and fiscal policy move closer together because the state is asking the financial system to mobilize resources for survival.
+
+The Fed would confront that tension again in World War II and after.
+
+The postwar recession of 1920–1921 supplied another lesson. Inflation had accelerated during and after the war. Federal Reserve Banks raised discount rates as officials attempted to restrain credit and protect the monetary system. Prices fell sharply and unemployment rose in a severe but relatively short downturn.
+
+The episode mattered because it demonstrated the distributional reality of monetary stabilization decades before Volcker.
+
+A central bank can restore monetary discipline through decisions that look like interest-rate adjustments in Washington and feel like unemployment, falling farm prices, business failures, and debt pressure elsewhere.
+
+The institutional question was no longer whether the United States had a central bank.
+
+It was who would bear the consequences when the central bank used its power.
+
 Wilson signed the Federal Reserve Act on December 23, 1913.
 
 The date sits awkwardly near Christmas, which contributes to myths that Congress secretly passed the law when nobody was watching. In reality, central-bank reform had been debated publicly for years. The legislative process was contentious and well known.
