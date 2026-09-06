@@ -34,6 +34,24 @@ Naval power therefore begins years before a fleet exists.
 
 It begins in the economic decision to sustain shipbuilding knowledge during periods when no battle is forcing the issue.
 
+That decision is politically awkward because peacetime capacity often looks like inefficiency.
+
+A dry dock not fully occupied can look underused.
+
+A supplier maintained for components ordered only occasionally can look uncompetitive.
+
+Workers retained through a slow procurement cycle can look expensive.
+
+A design bureau that spends years on ships never built can look bureaucratic.
+
+Then a crisis arrives and all of those apparently inefficient reserves acquire a different name.
+
+Readiness.
+
+This is the industrial version of redundancy. A nation that optimizes every defense-production asset for current peacetime demand may discover that it has optimized away the ability to surge.
+
+The 1880s did not use today's language of supply-chain resilience. The procurement problem was already the same.
+
 The ABCD program was imperfect. That is part of its value as a case study. Early contracts generated controversy, construction delays, and disputes about quality and machinery. The Navy and private shipbuilders were both relearning what modern naval construction required. American industry had enormous strengths, but building warships to contemporary standards demanded a specific integration of metallurgy, engines, armament, armor, design, and government oversight.
 
 Industrialization does not automatically produce military competence.
@@ -50,7 +68,23 @@ The principle was identical.
 
 The New Navy program helped create a demand around which firms and skills could organize.
 
-It also required a strategic argument.
+It also created a relationship between government specifications and private learning. The Navy could demand a capability on paper. Shipbuilders had to discover how to produce it reliably. When the government changed a specification, the yard absorbed consequences in sequencing, machinery, materials, and cost. When a contractor failed, the Navy had to decide whether the fault lay in execution, unrealistic requirements, weak oversight, or a domestic industrial base still learning the technology.
+
+Procurement is a negotiation with reality.
+
+The government cannot command experience into existence by writing a stricter contract.
+
+This is why the first ships of a new industrial generation are often expensive in ways that make later critics furious. The first unit is buying not only the object but the mistakes, tooling, supplier qualification, workforce learning, testing procedures, and institutional knowledge that lower the cost of later units.
+
+Learning is hidden inside the invoice.
+
+The problem is that contractors can hide ordinary inefficiency there too.
+
+That ambiguity makes industrial policy politically difficult. A government that tolerates every overrun in the name of learning invites waste. A government that punishes every failed experiment creates organizations afraid to attempt difficult transitions.
+
+The ABCD ships existed inside this uncomfortable space.
+
+They also required a strategic argument.
 
 Why did the United States need a modern navy at all?
 
@@ -83,6 +117,16 @@ Not a straight path.
 Not an inevitable one.
 
 A capability does not force a government to use it. But it makes uses plausible that previously would have been impractical.
+
+That distinction is important because technological histories can turn capability into destiny. The United States did not annex Hawaii, acquire the Philippines, or fight Spain because steel cruisers existed. Political decisions, commercial interests, humanitarian arguments, racial ideology, strategic competition, and domestic politics all mattered.
+
+The ships changed the menu.
+
+An overseas policy that would have required borrowing another country's navy in 1840 could be executed with American force by 1898.
+
+Capability makes some ambitions credible enough to become political proposals.
+
+That is a subtler causal role than inevitability and often a more accurate one.
 
 The ship's propulsion system illustrates the point at the technical level. Steam power freed naval movement from total dependence on wind, but coal dependence created a new geography. A coal-burning navy needed fuel accessible along its routes. Coaling stations became strategic assets. Ports mattered not only as places to visit but as energy infrastructure.
 
@@ -122,6 +166,12 @@ It can also hide disruption.
 
 Calling both vessels ships makes replacement sound incremental. The economic reality is closer to rebuilding an industry.
 
+A transition this large also changes who holds authority inside the organization. Engineers become harder to treat as supporting specialists when the ship's survival depends constantly on machinery. Technical bureaus gain influence. Procurement officers become strategically consequential. Private firms acquire knowledge the government needs but does not entirely control.
+
+The more technological the Navy becomes, the more sea power depends on relationships ashore among institutions the fleet cannot carry with it.
+
+That dependence is easy to forget because the finished warship looks self-contained.
+
 The United States in the 1880s was doing that rebuilding while the political system remained uncertain how large the final fleet should become.
 
 *Dolphin* served as a dispatch vessel and presidential yacht at points in her career, among other duties. Her varied service fits the transitional period. She was a modern steel vessel without being a pure expression of the line-of-battle fleet Mahan's readers might imagine.
@@ -129,6 +179,12 @@ The United States in the 1880s was doing that rebuilding while the political sys
 The New Navy soon produced more formidable ships.
 
 Armored cruisers and battleships followed. Naval yards and private industry gained experience. Congress appropriated more. Technology advanced. By the 1890s the United States possessed a fleet capable of operations that would have been difficult to imagine when *Dolphin* was ordered.
+
+This is why *Chicago*, the strongest ABCD alternative, still loses the selection. *Chicago* looked more like the combat fleet that would follow. *Dolphin* makes the institutional beginning easier to see because her modesty prevents the story from pretending the New Navy arrived fully formed.
+
+The first modern step was not yet the mature answer.
+
+That is usually how rebuilding works.
 
 Then one ship exploded in Havana Harbor.
 
