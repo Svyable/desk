@@ -72,6 +72,82 @@ A small organization can create materials in languages it could never have econo
 
 A model can explore variants whose expected value is too low to justify allocating a human expert in advance.
 
+The word machine can be misleading here because the system is not one machine.
+
+It is a stack of commitments made at different timescales.
+
+A chip fabrication plant may take years to finance, permit, build, qualify, and bring to yield. A data center is planned before the prompt that eventually consumes its capacity exists. Models are trained in large campaigns, then served across millions of interactions. Software schedules workloads across hardware purchased months or years earlier. The user arrives at the end of this chain and asks for a limerick.
+
+The absurdity is instructive.
+
+A great industrial apparatus can be economically justified because each individual use is small.
+
+This is what scale does. It converts lumpy investment into smooth experience.
+
+The power grid does something similar. A household does not build a generator before turning on a lamp. The system pools generation, transmission, reserves, maintenance, and financing so that the user can make a tiny decision at the edge. The marginal act feels simple because the network has already absorbed the complicated decisions.
+
+AI services are beginning to offer cognition in that form.
+
+The user does not recruit a researcher, negotiate a contract, reserve a week of labor, or decide in advance how many answers will be needed. Capacity waits behind an interface. The transaction shrinks from procuring expertise to asking a question.
+
+That change in transaction shape matters almost as much as the change in price.
+
+A capability can be cheap in theory and still scarce in practice if accessing it requires procurement, scheduling, specialized knowledge, or a large minimum purchase. Professional services have always had this problem. An expert may be able to solve a small problem in ten minutes, but the surrounding transaction can make a ten-minute engagement irrational.
+
+Generative systems remove much of that minimum efficient purchase.
+
+You can buy, or receive, five minutes of cognitive work without hiring anyone for five minutes.
+
+You can ask one question without maintaining a relationship with a supplier.
+
+You can abandon the interaction after a weak answer without explaining why the project was canceled.
+
+The abundance machine therefore lowers transaction costs as well as production costs.
+
+This is one reason small uses matter. A technology does not need to replace a large professional engagement to create value. It can enter the spaces between engagements.
+
+The unanswered email.
+
+The confusing clause.
+
+The spreadsheet formula that is not worth a support ticket.
+
+The unfamiliar concept encountered at midnight.
+
+The tiny script that would save twenty minutes but never enough to justify a development project.
+
+The machine makes these small units economically addressable.
+
+That creates a very large surface area for demand.
+
+It also makes capacity planning difficult.
+
+Demand for human expertise is constrained by friction. There are only so many appointments people will schedule, proposals they will request, and projects they will budget. Remove the friction and usage can grow in ways that were invisible in the old market because the underlying desires were never expressed as transactions.
+
+The abundance machine has to be built for demand that cheapness itself helps create.
+
+This is why falling unit costs do not automatically mean falling total infrastructure spending.
+
+A provider can make an inference cheaper and then discover that customers request far more inference. Models become more capable, so users entrust them with longer tasks. Interfaces become easier, so more people use them. Developers build new products because the cost crossed a threshold. A lower price unlocks workloads that did not exist at the higher price.
+
+The system chases its own demand curve.
+
+That can produce a strange industrial picture: enormous capital expenditures devoted to making the marginal cognitive act feel trivial.
+
+The fixed-cost side grows while the user-side price falls.
+
+There is no law saying this arrangement remains profitable for every provider. Capacity can be overbuilt. Demand forecasts can be wrong. Competition can push prices below attractive returns. Hardware can become obsolete faster than expected. A new architecture can strand an old one. Capital markets can subsidize prices while companies fight for adoption.
+
+The abundance experienced by the user does not prove the abundance machine is a good investment.
+
+This distinction matters because otherwise every discussion of cheap AI gets pulled into an argument about whether current spending is sustainable.
+
+It might be. It might not be.
+
+The book does not need every data-center investment to earn its cost for the user-side repricing to be real. Nor does a period of subsidized pricing prove that low marginal cognitive costs are an illusion. The durable question is whether competition, engineering, utilization, and scale can keep pushing enough tasks below the threshold at which people stop rationing them as professional labor.
+
+That answer can differ by task and by provider.
+
 This does not guarantee that personalization is good. A personalized system can become manipulative, isolating, inconsistent, discriminatory, or simply annoying. Standardization often exists for reasons other than cost. A common school curriculum can create shared knowledge. A standard legal form can reduce ambiguity. A uniform safety procedure can prevent improvisation in situations where improvisation is dangerous. A mass-market product can be easier to repair because everybody owns the same version.
 
 Cheap specificity removes one reason for standardization. It does not remove all of them.
@@ -157,6 +233,24 @@ A synthetic image supplies visual polish. A photographer supplies evidence that 
 A recommendation engine supplies options. A person supplies the decision and lives with the consequence.
 
 The complement becomes more visible as the generated component gets cheaper.
+
+There is a further complication. Once the bundle separates, the cheap component can increase demand for the expensive complement.
+
+A person who receives a free first-pass explanation of a legal problem may discover that the problem is serious enough to justify a lawyer. A model that generates many product designs can create more work for testing. Cheap architectural concepts can increase demand for engineering review. Better medical information can lead a patient to seek care rather than substitute for care.
+
+This is not guaranteed. Sometimes the generated component will replace enough work that the complement shrinks too.
+
+But the possibility matters because automation is often discussed as if tasks subtract cleanly from a job.
+
+In a system, making one stage cheaper can increase flow through the next stage.
+
+A restaurant kitchen that doubles its cooking capacity may need more servers. A port that unloads ships faster can push congestion into rail. A company that generates more qualified sales leads can discover that account management is now the constraint.
+
+The abundance machine does not merely remove labor from a process.
+
+It changes the rate at which work arrives at every other part of the process.
+
+That is why the bottleneck keeps moving.
 
 This is the central mistake in many automation arguments. They assume that if one part of a job becomes cheap, the whole job becomes cheap in the same proportion. Sometimes that happens. Often the task bundle simply reorganizes around the remaining constraint.
 

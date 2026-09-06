@@ -56,6 +56,10 @@ A worker can now draft faster, summarize faster, generate alternatives faster, s
 
 Or they may raise the expected volume of work until the evening is full again.
 
+There is now evidence for the more hopeful branch of that fork. In a six-month randomized field experiment across 66 firms and 7,137 knowledge workers, employees were randomly given access to a generative-AI tool embedded in the software they already used for email, meetings, and writing. Among treated workers who used the tool, researchers found about two fewer hours of email per week in the latter half of the experiment and less work outside regular hours. They did not detect a corresponding shift in the quantity or composition of tasks from individual-level AI access.
+
+That is a meaningful counterexample, not a universal verdict. Some of the researchers worked for Microsoft, whose product was being studied, and the experiment captured one tool in one period of adoption. Organization-wide deployment could change expectations in ways individual access did not. But the result matters because it shows that recovered time does not have to be immediately swallowed by more work.
+
 The outcome is not a property of the model. It is a property of the institution using it.
 
 Productivity technology has always contained this ambiguity. A faster process can buy leisure or buy throughput. Markets and managers often prefer throughput because throughput appears on a dashboard. Recovered sleep rarely does.

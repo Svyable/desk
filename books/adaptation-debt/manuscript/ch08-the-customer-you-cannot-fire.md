@@ -16,7 +16,7 @@ In July 2011 the company separated its DVD-by-mail and streaming plans, raising 
 
 The customer reaction was severe.
 
-Netflix later told investors that the response to the price change, and to a lesser degree the branding decision, had been very negative. Cancellations rose. Gross subscriber additions fell. The company abandoned the Qwikster separation.
+Netflix later told investors that the response to the price change, and to a lesser degree the branding decision, had been very negative. The numbers made the damage harder to euphemize. Domestic subscribers fell from 24.6 million at the end of June to 23.8 million at the end of September. The quarter produced a net loss of 805,000 domestic subscribers after adding nearly two million in the previous quarter. Gross additions fell too. The company abandoned the Qwikster separation.
 
 The strategic direction did not disappear.
 

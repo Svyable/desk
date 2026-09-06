@@ -5,7 +5,7 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting — structurally complete |
+| **Status** | Drafting |
 | **Chapters** | 21 of 21 drafted + prologue + epilogue |
 | **Language** | English |
 | **Rights** | All Rights Reserved |

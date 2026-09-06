@@ -62,6 +62,20 @@ The first pass and the later pass then become different computational problems.
 
 On the first encounter, the machine lacks a stored route. It must search. Search costs movement because ignorance costs movement. Wrong turns are not merely failures; they are observations that reduce uncertainty about the maze.
 
+The cost is worth making concrete. At an unexplored junction, a machine that lacks a map cannot know which open corridor belongs to the successful route merely by wishing to be efficient. It has to commit to a branch, observe what follows, and sometimes pay to return. A dead end therefore costs more than the distance into it: the solver must also undo that distance before another alternative becomes available. The geometry turns missing knowledge into extra motion.
+
+Memory changes the accounting. Once the apparatus has marked an unsuccessful choice or retained the successful one, a later traversal need not purchase the same fact again. The saved movement is the practical value of the stored state.
+
+But memory is useful only because the apparatus has chosen a representation of what happened. The physical journey contains far more detail than the solver needs: the exact duration of each movement, the microscopic path of the magnet, vibrations in the table, the visitor standing nearby. None of those facts help choose the next corridor. What matters is a much smaller record tied to the maze's decision points.
+
+That reduction is easy to overlook because the visible performance seems spatial. The mouse appears to learn the maze as a place. The mechanism does something narrower: it preserves distinctions that are relevant to future choices. A state is valuable not because it faithfully recreates the past, but because it changes what the system has to test next.
+
+This gives Theseus a second connection to Shannon's larger work. Communication theory also depends on representation. A channel does not need a photographic account of the world that produced a message; it needs signals that preserve the distinctions required at the destination. The maze machine likewise does not need to remember the experience of getting lost. It needs enough state to avoid paying for the same uncertainty again.
+
+The comparison has limits. A maze route is not a coded message, and the relay state under the board is not Shannon entropy embodied in hardware. The useful resemblance lies in the engineering question: what is the minimum distinction the system must preserve for later behavior to improve?
+
+That question forces a tradeoff. Store too little and the machine repeats work. Store details that never affect a decision and memory becomes baggage. Store a conclusion without any way to notice that the maze has changed and efficiency turns brittle. Even this tiny machine therefore makes memory look less like an archive and more like a commitment about which features of the past will matter again.
+
 After the machine has learned the route, the problem changes. It no longer needs to rediscover every choice. Stored state substitutes for exploration.
 
 This is the same economy Shannon had been quantifying elsewhere in a different form.

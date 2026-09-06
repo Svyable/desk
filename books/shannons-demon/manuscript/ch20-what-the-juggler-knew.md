@@ -20,6 +20,10 @@ He did not hold a field until every consequence had been extracted. He entered p
 
 The difference did not always seem to determine how much pleasure he took in them.
 
+That claim does not have to be inferred entirely from the gadgets. In a later interview, Shannon described his own working life as one led by interest rather than by careful calculation of usefulness, and acknowledged spending large amounts of time on things he regarded as useless. The remark is valuable because it narrows the interpretation. Play was not merely a persona attached to him by colleagues after he became famous. He recognized the lack of obvious payoff himself.
+
+It still does not turn every toy into a philosophy. A person can enjoy useless work without proposing uselessness as a universal good.
+
 That is the uncomfortable fact at the center of his biography.
 
 Modern accounts of great technical figures are usually organized around accumulation. More papers. More patents. More companies. More products. More citations. More followers. The score rises until death interrupts the graph. Shannon’s career does not cooperate. His most consequential publication appeared when he was thirty-two. He lived for more than half a century after it. The later decades contained important work, honors, experiments, machines, students, games, and ideas, but they did not form a second information theory.
@@ -203,6 +207,10 @@ The juggler cannot optimize for holding every ball. If he tries, the performance
 There is no evidence Shannon intended juggling as a theory of life. Turning it into one would violate the discipline this book has tried to maintain.
 
 But a reader is allowed to notice a resemblance.
+
+That resemblance became unusually visible at the 1985 International Information Theory Symposium in Brighton. Shannon, by then a near-mythic figure to younger researchers in the field he had created, appeared at the meeting and was persuaded to address the banquet. He spoke briefly and then juggled. The scene matters because it is documented, and because it resists improvement. There is no need to invent a final aphorism. The founder of information theory stood before a room full of information theorists and finished with three balls in the air.
+
+The gesture was not a theorem. It did not resolve the tension between rigor and play. It simply put both in the same room.
 
 Shannon’s most enduring work concerns constraints, uncertainty, representation, and the possibility of reliable action despite imperfect conditions. His personal life was full of voluntary incompleteness. He did not publish every idea. He did not convert every invention into a product. He did not turn every curiosity into a program of research. He let projects leave his hands.
 

@@ -10,6 +10,7 @@
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 20 of 20 drafted |
 | **Method** | Narrative nonfiction + causal-inference research + domain case studies + falsification notes |
+| **Release Review** | Blocked on the mechanical chapter-length gate; see [research/release-review.md](research/release-review.md) |
 
 Every consequential decision creates two histories. One becomes a record. The other disappears.
 
@@ -65,6 +66,7 @@ The complete Desk draft includes front matter, twenty chapters, back matter, a d
 
 - [Research brief, chapter source trails, and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
 
 ## Rights
 

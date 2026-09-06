@@ -6,24 +6,18 @@ import {
 } from './desk-runtime-bridge.js';
 
 const upstream = 'https://svyable.github.io/shelf/reader/js/';
-const appUrl = `${upstream}app.js?v=desk-20260904-4`;
+const appUrl = `${upstream}app.js?v=desk-20260905-titlepage-1`;
 const viewportStabilityUrl = `${upstream}viewport-stability-runtime.js?v=r1`;
 const nativeShareUrl = `${upstream}native-share.js`;
 const libraryHomeUrl = 'https://svyable.github.io/desk/reader/css/desk-library-home.css?v=bookself-20260904';
+const bookInteriorUrl = 'https://svyable.github.io/desk/reader/css/desk-book-interior.css?v=bookself-20260905';
+const bookOpeningHandoffUrl = 'https://svyable.github.io/desk/reader/css/desk-book-opening-handoff.css?v=bookself-20260906';
 
 const DESK_CATALOG_AUDIT = Object.freeze([
   'catalogEntryVisible',
   'window.__IMPRINT?.role',
   'Shared Reader is missing role-aware Desk catalog visibility',
 ]);
-
-// scripts/check-desk.py still recognizes the retired source-rewrite contract by
-// these literal audit markers. They are comments only; runtime policy is the
-// role-aware helper contract above. Remove them when that integrity check is
-// promoted to inspect DESK_CATALOG_AUDIT instead.
-// meta\.published
-// window.__IMPRINT?.role === 'desk'
-// Expected one shared Reader catalog gate
 
 function sharedReaderOwnsDeskCatalogVisibility(source) {
   const input = String(source || '');
@@ -46,18 +40,21 @@ function installDeskChromePolicy() {
   document.head.appendChild(style);
 }
 
-function installDeskLibraryHome() {
-  if (document.getElementById('deskLibraryHome')) return;
+function installDeskStylesheet(id, href) {
+  if (document.getElementById(id)) return;
   const link = document.createElement('link');
-  link.id = 'deskLibraryHome';
+  link.id = id;
   link.rel = 'stylesheet';
-  link.href = libraryHomeUrl;
+  link.href = href;
   document.head.appendChild(link);
 }
 
 installDeskRuntimeBridge();
 installDeskChromePolicy();
-installDeskLibraryHome();
+installDeskStylesheet('deskLibraryHome', libraryHomeUrl);
+installDeskStylesheet('deskBookInterior', bookInteriorUrl);
+installDeskStylesheet('deskBookOpeningHandoff', bookOpeningHandoffUrl);
+document.documentElement.dataset.bookInterior = 'true';
 
 function installRecoveryStyles() {
   if (document.getElementById('deskBootstrapRecoveryStyle')) return;
@@ -102,14 +99,23 @@ function showRecovery(error) {
 }
 
 try {
+  const appAcquisition = fetchBootstrapResource(appUrl).then(
+    (response) => ({ response, error: null }),
+    (error) => ({ response: null, error })
+  );
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
-  const response = await fetchBootstrapResource(appUrl);
+  try { await import('./desk-app-shell-polish.js?v=bookself-20260906'); } catch (error) { console.warn('Desk Reader app-shell polish could not be loaded', error); }
+  try { await import('./desk-book-opening-handoff.js?v=bookself-20260906'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
+  try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
+  const { response, error: appAcquisitionError } = await appAcquisition;
+  if (!response) throw appAcquisitionError || new Error('Shared Reader app could not be acquired.');
   const source = await response.text();
   const adapted = adaptReaderSource(source);
   if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
   const moduleUrl = URL.createObjectURL(new Blob([adapted.source], { type:'text/javascript' }));
   try { await import(moduleUrl); } finally { URL.revokeObjectURL(moduleUrl); }
+  try { await import('./desk-library-current-book.js?v=bookself-20260906'); } catch (error) { console.warn('Desk current-book polish could not be loaded', error); }
 } catch (error) {
   showRecovery(error);
 }

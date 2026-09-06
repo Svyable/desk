@@ -1,4 +1,6 @@
-# The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt
+# The Risk Pool
+
+*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*
 
 **Sven Hardy Benson**
 
@@ -43,6 +45,18 @@ The primary insurer may then buy reinsurance. A regional company that can comfor
 The structure is not a neat ladder in every line of insurance. Health, life, auto, cyber, workers' compensation, flood, and commercial property each have their own legal and financial machinery. A large corporation may self-insure losses a household could never absorb. A government can borrow after a disaster where a small business cannot. A public program can sit beside private coverage rather than above it. The useful point is simpler: when a loss is transferred, it has not disappeared. It has arrived on somebody else's balance sheet.
 
 The retail policy is the visible edge of a wholesale capital system.
+
+Two balance-sheet words deserve to be separated before the book goes further: reserves and capital.
+
+Reserves are liabilities. They are the insurer's estimates of what it already owes, or is likely to owe, under claims that have occurred even when the final bill is not yet known. A claim can be reported and still take years to settle. Other claims may have happened but not yet been reported. The insurer has to estimate both. Calling that estimate a reserve can make it sound like cash sitting in a labeled vault. It is better understood as an accounting recognition that part of the company's assets already belongs, economically, to future claim payments.
+
+Capital is different. It is the cushion beyond those expected obligations. Capital absorbs the possibility that reserves prove too small, catastrophe losses exceed the ordinary range, investments fall in value, counterparties fail, or the company is simply wrong about the risks it has written. A well-reserved insurer can still be undercapitalized for the volatility of its book. A well-capitalized insurer can still get into trouble if it persistently understates its claim liabilities. The two protections answer different questions.
+
+This is why solvency regulation is not merely a check that the insurer has money today. U.S. state regulators use risk-based-capital rules to compare an insurer's capital with the size and riskiness of its operations and to trigger progressively stronger intervention when the cushion becomes too thin. The system is designed as an early-warning mechanism, not a league table for ranking insurers. The goal is to intervene while there is still an institution to repair.
+
+If that repair fails, the vocabulary changes again. A troubled insurer can enter receivership. Regulators and courts may attempt rehabilitation; if the company cannot be restored, liquidation can follow. State guaranty associations and funds can then protect eligible policyholders and covered claims subject to the limits and rules of state law. They are a safety net after failure, not a substitute for requiring insurers to remain solvent in the first place.
+
+That order matters. The insurance system tries to protect the promise before it protects the failed company. Pricing, reserves, capital, reinsurance, supervision, receivership, and guaranty mechanisms are separate defenses arranged around one question: will the policyholder still be paid when the institution that sold the promise is under stress?
 
 A mortgage makes that system unusually concrete because the insurance relationship continues after the closing table has been cleared.
 

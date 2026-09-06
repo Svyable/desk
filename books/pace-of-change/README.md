@@ -1,6 +1,6 @@
 # Pace of Change
 
-**Why the Future Breaks When Our Clocks Fall Out of Sync.**
+*Why the Future Breaks When Our Clocks Fall Out of Sync*
 
 | | |
 |---|---|
@@ -41,3 +41,11 @@ The book does not argue that faster is bad or slower is wise. It argues for **te
 
 - [Research brief, prior-art boundary, and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
+
+## Publication state
+
+Desk remains the canonical working edition. The first Shelf edition is frozen from Desk commit `2cd12053d90c9b876c2baaa60c1b9167802abfa4`; later Desk changes remain working-edition changes unless separately released.
+
+- [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/pace-of-change/)
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/pace-of-change/)

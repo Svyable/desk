@@ -34,45 +34,21 @@ Austerity determines whether government remains strong on that side of the table
 
 New technology does not arrive evenly.
 
-Affluent people often experience it as convenience.
+For an affluent household, automation often arrives wrapped in choice: a wealth-management tool, a travel assistant, software that handles paperwork before it becomes a problem. Someone who dislikes the machine can often pay a person to intervene.
 
-Poorer people often experience it as administration.
+In a means-tested public service, the same technology can arrive as the gate itself. The eligibility check is automated. The first explanation comes from a chatbot. Escalation may exist, but the person using the service has less ability to leave the system and buy another route.
 
-The wealthy receive an AI wealth manager.
-
-The poor receive an AI eligibility check.
-
-The wealthy receive a concierge.
-
-The poor receive a chatbot.
-
-This is not inevitable, and the comparison can become glib if pushed too far. Automated public services can be vastly better than the systems they replace. A good digital assistant can explain eligibility at midnight, translate a confusing form, remind someone about missing evidence, prevent an unnecessary trip across town, or help a person navigate a bureaucracy that was never particularly humane when it was entirely staffed by humans.
+This is not inevitable, and even this contrast can become glib if pushed too far. Automated public services can be vastly better than the systems they replace. A good digital assistant can explain eligibility at midnight, translate a confusing form, remind someone about missing evidence, prevent an unnecessary trip across town, or help a person navigate a bureaucracy that was never particularly humane when it was entirely staffed by humans.
 
 The problem is the direction of the fiscal incentive.
 
 Under austerity, automation is especially attractive where it can remove labor costs from high-volume services. Those services are often the ones used most by people who have little ability to purchase an alternative.
 
-A wealthy household can hire an accountant when the tax portal becomes confusing.
-
-A company hires counsel when regulation becomes complicated.
-
-A professional hires an immigration specialist.
-
-A property owner hires a planning consultant.
-
-The person without money encounters the interface alone.
+A confusing tax portal is an inconvenience to a household that can hire an accountant. Complicated regulation sends a company to counsel; immigration or planning trouble sends a well-resourced applicant to a specialist. The person without money encounters the interface alone.
 
 If governments are not careful, the machine will become the default public servant for people with the least private bargaining power, while human expertise remains available to those who can purchase it outside the state.
 
-This is why the familiar phrase “human in the loop” is not enough.
-
-Which human?
-
-Available to whom?
-
-At what stage?
-
-With what authority?
+That makes the familiar phrase “human in the loop” incomplete. The question is whether a person can reach someone with enough time, context and authority to change the outcome.
 
 A human whose role is merely to confirm the machine’s recommendation is not meaningful oversight. A human with thirty seconds to review a complex case is not meaningful discretion. A human theoretically reachable after four failed chatbot sessions is not meaningful access.
 

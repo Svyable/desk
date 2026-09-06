@@ -62,7 +62,19 @@ An editor develops taste by reading thousands of sentences and seeing which ones
 
 Taste is compressed experience.
 
-It is also social.
+The compression matters because the expert rarely retrieves every lesson explicitly.
+
+A senior engineer can dislike a design before being able to articulate the whole argument against it. A physician can notice that a case does not fit the usual pattern. An editor can feel a paragraph sag before identifying the repeated abstraction causing it. This does not make intuition mystical. Much of what looks like intuition is experience compressed below the level of a checklist.
+
+That compression is useful and dangerous.
+
+Experts can overlearn the past. A veteran can reject an unfamiliar solution because it violates conventions that no longer matter. An investor can mistake pattern recognition for a law. A manager can call prejudice judgment. Taste deserves deference only when it remains corrigible by evidence.
+
+The scarce good is therefore not confidence.
+
+It is discrimination that can survive contact with results.
+
+Taste is also social.
 
 What counts as good depends partly on the people who will use, hear, buy, trust, interpret, regulate, repair, or live with the result. A chair is not merely an arrangement of shapes. Someone has to sit in it. A policy is not merely a consistent argument. People have to respond to it. A product name is not merely novel. Customers have to say it aloud, remember it, search for it, and perhaps defend the purchase to somebody else.
 
@@ -172,7 +184,7 @@ The history of choices becomes more valuable.
 
 This is already visible in coding. A generated program can look sophisticated while containing subtle errors or maintenance problems. The question shifts from "can you produce code?" toward "can you define the problem, inspect the result, understand the failure, choose the architecture, and be responsible for what ships?" Anthropic's 2026 research on agentic coding found a related division of labor in its own usage data: people tended to make more of the planning decisions while the system made more of the execution decisions. Expertise still improved outcomes and allowed users to delegate more effectively.
 
-That pattern will not generalize cleanly to every profession. But it offers a useful picture of the transition.
+That pattern will not generalize cleanly to every profession. Anthropic observes one product ecosystem, and coding is unusually rich in tests, repositories, and executable feedback. But it offers a useful picture of the transition.
 
 The valuable expert does not necessarily disappear when execution becomes easier.
 
@@ -186,6 +198,98 @@ A writer who never struggles through a first draft may have fewer opportunities 
 
 A society can become rich in finished objects and poor in people who know how the objects became good.
 
+That claim needs more than an appealing apprenticeship story.
+
+An experiment in high-school mathematics provides a bounded example of the mechanism. Hamsa Bastani and colleagues studied nearly one thousand students in Turkey using GPT-4-based assistance. Students given a general-purpose AI interface performed substantially better while the tool was available. But when the tool was removed for a later unassisted exam, that group performed worse than students who had never had AI access.
+
+The striking part of the study is what happened in the second treatment.
+
+Another group used a tutor designed with teacher-informed guardrails. Instead of simply supplying answers, the system was structured to provide hints and preserve more of the student's own problem solving. Those students improved even more during assisted practice, while the later learning penalty was largely eliminated.
+
+The lesson is not that AI makes people stupid.
+
+The same experiment points in the opposite direction when the assistance is designed differently.
+
+The useful distinction is between performance borrowed from the tool and skill being formed in the person.
+
+Those can rise together.
+
+They can also diverge.
+
+The experiment does not prove that junior lawyers, programmers, designers, or physicians will be deskilled by AI. It took place in one high school, in one subject, with a 2023 deployment of GPT-4, and measured short-term learning rather than a professional career. A workplace is not a mathematics classroom. Experienced workers bring context, incentives, collaboration, and responsibility that students in an experiment do not.
+
+But the mechanism deserves attention because it clarifies what apprenticeship was doing.
+
+Practice is not valuable merely because it consumes hours.
+
+It is valuable when the learner has to attempt, predict, notice error, diagnose why the prediction failed, and revise an internal model.
+
+A tool can remove the clerical burden while preserving those acts.
+
+Or it can remove the acts themselves.
+
+The difference may not be visible in the immediate output.
+
+Two students can submit the same correct answer. One may have reconstructed the concept. The other may have received a polished completion. Two junior programmers can ship the same patch. One may understand why the system failed and which alternative was rejected. The other may know only that the tests passed.
+
+The artifact does not tell you how much judgment was formed while producing it.
+
+This creates a new design problem for education and work.
+
+If abundant assistance makes novice output more valuable immediately, organizations have a strong incentive to use it. Customers benefit from fewer rookie mistakes. Managers get more throughput. Juniors can contribute to harder work sooner.
+
+The cost, if there is one, may arrive years later when the organization needs people capable of handling cases the tool cannot resolve.
+
+That delay makes apprenticeship easy to underinvest in.
+
+A firm captures today's productivity gain directly. The future shortage of independent judgment is diffuse, uncertain, and may occur after the employee has left.
+
+This is a familiar economic structure. Organizations underinvest in things whose benefits are delayed, hard to measure, or portable to another employer.
+
+Artificial abundance can intensify the problem because the short-term output looks so good.
+
+The obvious response is not to ban the tool from junior work.
+
+That would preserve effort rather than preserve learning.
+
+A better response is to redesign the work around the acts that form judgment.
+
+Ask the junior to predict before seeing the generated answer.
+
+Require an explanation of why one option was rejected.
+
+Expose the model to adversarial cases and have the learner diagnose the failure.
+
+Let the system generate many examples while making the person state the principle that separates them.
+
+Use assistance to increase the number of feedback cycles rather than to eliminate the cycle.
+
+These are not universal prescriptions. Different fields form expertise differently. Some routine work is genuinely wasteful and teaches very little. A generation of professionals should not be forced to reproduce obsolete drudgery because their mentors suffered through it.
+
+The goal is not to preserve the old task.
+
+It is to preserve whatever learning function the old task accidentally served.
+
+This reframes the apprenticeship question.
+
+When AI removes a junior task, the institution should ask what information that task used to feed back into the learner.
+
+Did it teach the vocabulary of the field?
+
+Did it expose edge cases?
+
+Did it force the learner to notice conflicting constraints?
+
+Did it create contact with customers?
+
+Did it reveal how long implementation actually takes?
+
+Did it make mistakes cheap enough to learn from under supervision?
+
+If the answer is nothing, automate it without nostalgia.
+
+If the answer is something important, build another route to the same experience.
+
 This is not inevitable. Tools can also accelerate learning by increasing feedback, exposing alternatives, and letting beginners attempt work previously beyond their reach. The same abundance that enables laziness can enable deliberate practice at extraordinary scale.
 
 The difference lies in how the tool is used.
@@ -197,6 +301,10 @@ Or do you use it to generate contrast, expose assumptions, critique choices, and
 The second path is harder because it preserves a role for discomfort.
 
 That discomfort may be part of the scarce good.
+
+Not because difficulty is sacred.
+
+Because judgment requires a place where your prediction can be wrong before somebody else's answer rescues you from finding out.
 
 When making becomes easy, caring enough to choose becomes work.
 

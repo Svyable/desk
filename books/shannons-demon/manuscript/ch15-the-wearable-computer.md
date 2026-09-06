@@ -16,7 +16,7 @@ A physical roulette wheel is not abstract.
 
 It has mass, friction, bearings, tilt, a rotor, a ball, pockets, separators, and a finite amount of time between the croupier's launch and the moment bets close. The ball decelerates. The wheel rotates. If those motions can be measured early enough, perhaps the landing region can be narrowed before the outcome is known.
 
-Thorp had the basic idea before meeting Shannon. Shannon had the workshop, the taste for the problem, and the engineering temperament to make it physical.
+Thorp had the basic idea before meeting Shannon. That priority matters. The later fame of Shannon and the irresistible neatness of putting an information theorist in a casino can pull the story toward him, but Thorp's own technical retrospective is clear that he had conceived the roulette-prediction project first. Shannon brought something different: a basement laboratory, formidable engineering instincts, and an appetite for turning the proposition into hardware.
 
 They met in 1960. What followed looks, in retrospect, like a compressed version of Shannon's whole career.
 
@@ -128,15 +128,29 @@ They were proving that some events labeled random contain a mixture of genuine u
 
 The engineering task was to find out which kind of uncertainty they were facing before money was committed.
 
+Even that distinction is not enough by itself. A process can be governed by ordinary mechanics and still be practically unpredictable. Determinism describes how the system evolves from its state; it does not guarantee that an observer can measure that state precisely enough, early enough, to exploit the evolution.
+
+Roulette makes the gap visible because the useful prediction window is short. Measure too early and the estimate may still be broad. Measure too late and the ball may be nearly determined but the casino will no longer accept a wager. The opportunity lives between those moments, where the remaining motion is constrained enough to narrow the landing region and enough time remains to act.
+
+That is a prediction horizon rather than a philosophical verdict about randomness. The same physical system can move from poorly predictable to usefully predictable to perfectly obvious, while the economic value of the information rises and then abruptly falls to zero when betting closes. More certainty is not always more useful if it arrives after the decision.
+
+Measurement error also grows teeth when the horizon is short. A small mistake in estimating rotational speed or timing may be tolerable if the model only needs to identify a broad region. The same mistake can dominate when the prediction is pushed too far into the future. Better physics cannot compensate indefinitely for uncertain inputs.
+
+This is why the project is more interesting than a demonstration that roulette wheels obey mechanics. Of course they do. The real question was whether a concealed observer-computer-bettor system could acquire enough state, process it quickly enough, and act before the remaining uncertainty lost economic value.
+
+Predictability, in practice, is always predictability for someone, with some instruments, before some deadline.
+
 The final operating version was tested in Shannon's home laboratory in June 1961. Thorp later reported that, in their model, betting on the most favored octant produced an expected advantage of roughly forty-four percent.
 
 The number sounds astonishing because casino advantages are usually measured in low single digits.
 
 It needs context.
 
-The forty-four percent figure was not a guarantee that every trip would produce forty-four cents of profit per dollar wagered. It was a model-based expected advantage under the conditions the machine was designed to exploit. Real casinos added timing error, equipment fragility, wheel variation, human mistakes, and small sample sizes. A powerful mathematical edge can be swallowed by operational failure if the system cannot stay alive long enough to use it.
+The forty-four percent figure was not a realized return from their Las Vegas trip and should not be read as one. It was a model-based expected advantage for bets on the favored octant under the conditions they were trying to exploit. The distinction between expected edge and realized profit is not bookkeeping trivia. It is the difference between a probability model and a sequence of actual wagers.
 
-That is more or less what happened.
+A favorable expectation can coexist with a losing night. A tiny sample can be dominated by ordinary variance. A device that fails before enough bets are placed may never give its modeled advantage time to emerge. Real casinos also add timing error, equipment fragility, wheel variation, human mistakes, and the awkward fact that the operators are trying not to look like operators.
+
+The laboratory figure therefore belongs to the model, not to the casino cashier.
 
 In the summer of 1961, the Shannons and Thorps took the machine to Las Vegas. According to Thorp's later account, the predictions they received were consistent with the expected laboratory advantage when the equipment worked. But a small hardware problem prevented sustained serious betting.
 

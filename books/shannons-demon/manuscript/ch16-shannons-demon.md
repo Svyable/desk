@@ -80,6 +80,16 @@ The asset's price has completed a round trip.
 
 The portfolio has not.
 
+The share count makes the mechanism harder to mystify. If the risky asset began at one dollar per share, the original fifty-cent allocation bought half a share. After the price doubled to two dollars, rebalancing the one-dollar risky position down to seventy-five cents left the portfolio holding three-eighths of a share and seventy-five cents in cash.
+
+When the price returned to one dollar, those three-eighths of a share were worth thirty-seven and a half cents. The cash was still seventy-five cents. Rebalancing the new total of one dollar twelve and a half cents put fifty-six and a quarter cents back into the asset, which at the restored one-dollar price meant owning 0.5625 shares.
+
+The price had returned to its starting point, but the portfolio now owned more of the asset than the half-share it began with and still held more cash than the original fifty cents. Nothing was created between the quotes. The trading rule changed the number of units held at each price.
+
+The same point can be seen in the compounded portfolio returns. The first move takes a fifty-fifty portfolio from one dollar to one dollar fifty, a gross return of 1.5. After rebalancing, the reverse move takes the portfolio from one dollar fifty to one dollar twelve and a half, a gross return of 0.75. Those two portfolio returns multiply to 1.125 even though the risky asset's own gross returns, 2 and 0.5, multiply to 1.
+
+That arithmetic also shows why the story is not a license to celebrate volatility by itself. The gain appears because the path reverses after the portfolio has trimmed the winner. If the asset keeps rising, the shares sold during rebalancing become foregone exposure. If it keeps falling, the new purchases keep absorbing losses. The rule benefits from a particular relationship between movement and reversal; it does not manufacture positive drift out of any sufficiently violent path.
+
 Where did the gain come from?
 
 Not from predicting the path.
@@ -91,6 +101,42 @@ It came from changing exposure along the path.
 The strategy sold some risky asset after an increase and bought some after a decline. Constant rebalancing converted price oscillation into changes in share count.
 
 This is the basic phenomenon people mean when they talk about volatility harvesting or a rebalancing bonus.
+
+The phrase becomes slippery once the toy example is compared with real portfolio mathematics.
+
+Later finance research has had to separate several effects that popular explanations often blend together. Diversification can improve compounded growth because a portfolio combines assets whose returns do not move perfectly together. That effect does not belong exclusively to the act of rebalancing. A portfolio can receive a diversification benefit simply by holding more than one imperfectly correlated source of return.
+
+Rebalancing is a different intervention.
+
+It changes the path of the weights.
+
+A buy-and-hold portfolio allows yesterday's winner to become a larger share of tomorrow's portfolio. A constant-weight portfolio sells enough of the winner, or buys enough of the loser, to restore the target. Those two rules can produce different outcomes even though they begin with the same assets.
+
+It is tempting to call the entire difference a rebalancing return and assume the sign must be positive.
+
+That is too easy.
+
+Consider a market in which one asset rises for years while another stagnates. The buy-and-hold investor allows the winner to dominate. The rebalancing investor repeatedly trims it. If the trend persists, the supposedly disciplined strategy can lag badly because it keeps selling the thing that continues to work.
+
+Nothing is wrong with the arithmetic.
+
+The environment changed the answer.
+
+The demon's most dramatic examples are built around repeated reversals. They give the rule something to harvest. A long one-way move gives the rule something to fight.
+
+This is why finite horizons matter. Over a sufficiently stylized infinite sequence, a constant-mix strategy can display elegant growth properties. A human investor does not own an infinite horizon. Retirement arrives. A liability comes due. A fund loses clients. A family changes its risk tolerance. A business needs cash. A strategy that looks superior after ten thousand hypothetical cycles may underperform for the twenty years that contain the investor's actual life.
+
+The distinction sounds philosophical until money is attached.
+
+Path dependence means timing can dominate the lesson.
+
+The same rule that benefits from oscillation may surrender gains during momentum. The same willingness to buy after declines can be valuable when prices revert and destructive when the asset has suffered permanent impairment. The same commitment to target weights can stabilize risk while reducing exposure to a long-running winner.
+
+Rebalancing is therefore not an independent return source floating above the assets.
+
+It is a trading rule whose consequences depend on the joint behavior of the things being traded.
+
+That is a stronger description because it survives the counterexample.
 
 The word bonus is too cheerful.
 
@@ -108,11 +154,39 @@ A persistently falling asset can make repeated buying look less like disciplined
 
 Correlations can rise in crises, reducing the diversification that made rebalancing useful.
 
+Liquidity can vanish exactly when the rule asks for a trade.
+
 A strategy that looks attractive in one distribution can fail when the distribution changes.
 
 The mechanism is real.
 
 The free lunch is not.
+
+Costs create one more design problem that the frictionless example hides: how often to act.
+
+If trading were free, the cleanest demonstration can rebalance every time the portfolio drifts. Real trades have spreads, commissions, market impact, taxes, operational cost, and sometimes legal or liquidity constraints. Once adjustment itself has a price, perfectly restoring the target after every small movement can be irrational.
+
+That is why practical rebalancing often becomes a problem of tolerances rather than exact equality.
+
+A portfolio may be allowed to wander inside a band. Only when the drift becomes large enough does the expected benefit of restoring the allocation justify paying the cost of doing so.
+
+The engineering analogy is better here than in the magical version of the demon.
+
+A control system does not necessarily react to every microscopic fluctuation. If sensors are noisy and adjustment is costly, overreacting can make the system worse. A thermostat with zero tolerance would chatter constantly around its set point. A portfolio with zero tolerance can turn harmless variation into turnover.
+
+The target is therefore not enough.
+
+The policy needs a dead zone, a trigger, or some other rule for deciding when deviation has become meaningful.
+
+That decision changes the strategy.
+
+Monthly rebalancing is not annual rebalancing. Calendar rebalancing is not threshold rebalancing. A wide band trades less and tolerates more risk drift. A narrow band trades more and stays closer to the intended exposure. The best choice depends partly on the costs, volatility, correlations, taxes, and objectives of the investor.
+
+The demon has acquired another hidden payment.
+
+Attention.
+
+Someone has to decide when the rule should fire, when the assumptions should be reconsidered, and when the asset set itself has changed enough that restoring yesterday's target is no longer sensible.
 
 This distinction puts the demon beside another idea that emerged from Shannon's intellectual neighborhood: the Kelly criterion.
 
@@ -134,13 +208,13 @@ This is not Shannon's Demon.
 
 The two ideas are related because both care about multiplicative growth under uncertainty, but they solve different problems.
 
-Kelly asks: given an edge, how much of your capital should you risk if your objective is to maximize long-run growth without treating ruin as an acceptable side effect?
+Kelly asks: given an edge and a probability model, how much of your capital should you risk if your objective is long-run multiplicative growth?
 
-The demon asks: can a disciplined allocation and rebalancing rule extract growth from fluctuations between components?
+The demon asks: what happens to a portfolio when a rule repeatedly restores a target mixture as component prices move?
 
-One is about position size relative to an advantage.
+One requires a specified advantage over the offered odds. The other can be illustrated without a forecast at all. One chooses position size relative to an estimated opportunity. The other changes exposure because the portfolio has drifted away from a chosen allocation.
 
-The other is about maintaining a target mixture as prices move.
+Treating them as the same idea would erase the thing each one contributes.
 
 They meet in the same place: repeated decisions where arithmetic means are less important than compounded paths.
 
@@ -183,6 +257,8 @@ With the roulette computer, the hidden structure was physical predictability ins
 With Kelly, the hidden structure was the relationship between information and multiplicative capital growth.
 
 With rebalancing, the hidden structure was the path dependence created by maintaining proportions through volatility.
+
+The ancestry among those ideas is real, but ancestry is not identity. Shannon's information theory supplied mathematical language that Kelly could reinterpret in a betting model. That does not make every later portfolio-rebalancing effect an information-theory theorem. The demon needs to stand on its own arithmetic rather than borrowing authority from the word information.
 
 None of these eliminates uncertainty.
 
@@ -261,6 +337,14 @@ This is where the demon stops being a toy and becomes a governance problem.
 A policy must specify what can be owned, target weights, tolerance bands, transaction costs, tax constraints, liquidity needs, and the conditions under which an asset is removed from the system entirely.
 
 Without those decisions, “rebalance” is not a strategy. It is a verb without an object.
+
+The failure cases are easiest to see by making the toy model less friendly.
+
+Let the volatile asset fall repeatedly because its underlying business is permanently impaired. The rule buys more as the evidence worsens. Let two risky assets become highly correlated in a crisis. The supposed diversification offers less material to rebalance. Let transaction costs widen as liquidity disappears. The trades that look harmless on paper become expensive exactly when they are largest. Let the probability model used to justify aggressive Kelly sizing be wrong. The mathematically optimal fraction for the estimated edge can become an efficient way to magnify an estimation error.
+
+None of these examples refutes rebalancing or Kelly's theorem. They locate the assumptions.
+
+That is the more durable habit.
 
 Shannon's own attraction to this kind of problem did not turn him into an evangelist for one portfolio recipe. That restraint is worth preserving because later finance culture loves converting thought experiments into branded formulas.
 

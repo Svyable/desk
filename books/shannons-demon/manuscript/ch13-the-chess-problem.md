@@ -66,9 +66,23 @@ Those budgets compete.
 
 A machine that evaluates every position with exquisite sophistication may have no time left to search. A machine that races through millions of positions with a crude score can see far and understand little at each stopping point. The engineering problem is not “more computation.” It is allocation of computation.
 
+There is another budget hidden inside those three: when to stop. A search tree has no natural sign saying that the machine has now looked far enough for the evaluation to be trustworthy. If it stops while a forcing sequence is unresolved, the frontier can be actively misleading. A position may look comfortable one move before a tactical collapse, or terrible one move before the apparent sacrifice pays off.
+
+That means a fixed depth is not merely a quantity of effort. It is a claim about where consequences become visible. The same nominal depth can be adequate in a quiet position and dangerously shallow in a forcing one. A practical program therefore has to care not only about how far it searches, but about what kind of position sits at the boundary.
+
+The point is broader than a technical wrinkle. Every bounded decision process eventually substitutes a provisional judgment for an unavailable final answer. The danger is greatest when the stopping rule and the evaluation rule fail together: the system stops at exactly the moment its proxy is least reliable.
+
+Chess makes that failure unusually easy to expose. Continue the line and the board itself can refute the earlier score.
+
 That makes the evaluation function one of the most revealing objects in the paper.
 
 Before a game ends, the machine does not know the true value of a position in the strict sense of a solved game. It has a proxy. Material balance can be counted. Mobility can be estimated. King exposure can be penalized. Pawn structure can be represented. These quantities are not chess itself. They are measurements chosen because the program needs a verdict before the future is known.
+
+The proxy is doing two jobs at once. It ranks positions, and it permits the machine to stop. Without some estimate of unfinished positions, every branch would demand continuation toward the end of the game. Evaluation is therefore not decoration placed on top of search. It is what turns an impossible exhaustive procedure into a bounded one.
+
+But a proxy also creates a surface for systematic error. If two positions receive the same score for different reasons, the program may treat them as interchangeable even when one contains a vulnerability the chosen features do not represent. Adding another feature can fix one blind spot while increasing computation or introducing another weight that must be calibrated. More descriptive detail is not automatically better if the extra cost reduces the depth available to test consequences.
+
+The tension is structural. Search asks the future to reveal whether a position is good. Evaluation asks the present to stand in for that future. A chess program lives between those two forms of evidence.
 
 The resemblance to institutional decision making is almost too easy, so keep it narrow.
 
@@ -113,6 +127,16 @@ That qualification matters because computer history attracts origin myths. Once 
 Later chess machines became vastly faster and more sophisticated. The Computer History Museum notes that the fundamental pattern Shannon outlined remained recognizable in subsequent systems. By the time IBM's Deep Blue defeated Garry Kasparov in a match in 1997, hardware could examine positions at a rate Shannon could scarcely have used in 1950. Yet raw speed did not repeal the original problem. The tree was still too large to search all the way to the end from ordinary positions.
 
 More computation changed the frontier of selectivity. It did not abolish selectivity.
+
+There is another reason the Deep Blue endpoint is useful. It corrects the flattering instinct to treat human-like selectivity as the obvious destination of machine intelligence. Deep Blue's strength came partly from doing something no human grandmaster could do: applying enormous, reliable search to a carefully engineered evaluation system. The machine did not have to ration attention in the same way a person did because hardware had changed the price of attention.
+
+That is a warning against confusing a resource constraint with a permanent theory of intelligence.
+
+Shannon's Type A and Type B distinction was framed under the computational economics of his time. As those economics moved, the sensible boundary between breadth and selectivity moved with them. A heuristic that is indispensable when a machine can examine thousands of positions may become less valuable when the machine can examine millions. A richer evaluator can justify its cost on one architecture and become a bottleneck on another.
+
+The algorithm is never priced in the abstract.
+
+It runs somewhere.
 
 This is the point that survives chess.
 

@@ -130,6 +130,12 @@ Consider telegraphy.
 
 A small repertoire of signals can represent language. Timing becomes symbol. Symbol becomes message. The system works because sender and receiver share rules for translating between physical events and abstract meaning.
 
+The interesting engineering difficulty appears as soon as the physical signal is less than perfect. A pulse can be weakened or distorted; interference can make one event resemble another. The receiver still has to decide what symbolic event occurred. That decision creates a boundary between the continuous messiness of the world and the discrete alphabet used by the communication system. Long before Shannon formalized noisy channels, telegraphy made the practical existence of that boundary impossible to miss.
+
+The boundary also separates representation from transport. Morse symbols are not the wire, and the wire is not the language. A message can be translated into a symbolic sequence, the sequence into electrical events, and those events back into symbols at the other end. Each translation has its own possible failures. A broken conductor is not the same problem as an ambiguous code; an operator’s transcription error is not the same problem as electrical interference. Treating communication as one undifferentiated act hides those distinctions.
+
+Shannon’s mature theory would formalize only some of them. That limitation was productive. It allowed the channel to be studied without pretending that every human failure of communication was a channel failure. The physical systems around his youth therefore matter less as prophecy than as examples of a world already layered: meaning, symbols, signals, apparatus, and people were connected, but they were not identical.
+
 Consider an Erector set.
 
 A finite collection of standardized parts can be recombined into many machines. The same component acquires different functions depending on arrangement.

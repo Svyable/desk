@@ -50,6 +50,34 @@ What can we infer from seeing it?
 
 Less than we used to.
 
+Economics has an old model for this kind of problem, although it was developed for a very different setting.
+
+In 1973, Michael Spence described education as a possible signal in a labor market where employers could not directly observe a worker's productivity before hiring. The important mechanism was not that the signal had to create the underlying quality. A signal could influence beliefs if it was sufficiently costly in a way that differed across types of workers.
+
+The model became famous enough that signaling is now used casually for almost any visible behavior. That casual use can blur the useful part.
+
+A signal matters only because the receiver believes the cost structure makes imitation difficult enough to carry information.
+
+Change the cost structure and the signal can decay.
+
+Artificial intelligence changes cost structures.
+
+A polished memo once suggested that somebody could organize an argument, use professional language, and devote time to the task. A working prototype suggested access to programming skill. A set of polished visual concepts suggested design labor. A personalized sales note suggested that somebody had researched the recipient.
+
+None of these inferences was ever guaranteed.
+
+They were probabilistic shortcuts.
+
+When the artifact becomes dramatically cheaper to produce, the shortcut weakens before institutions have necessarily built a replacement.
+
+That is the economic version of proof of effort.
+
+It does not say effort is honest.
+
+It says cost sometimes helped make a signal informative.
+
+Remove the cost and the receiver has to find evidence closer to the thing actually being measured.
+
 Consider education.
 
 An essay has always been an imperfect measure of understanding. A student can memorize, imitate, receive help, misunderstand the prompt, write badly despite understanding the material, or write beautifully while reasoning poorly. Teachers know this.
@@ -129,6 +157,30 @@ There is a bad version of proof-of-effort culture in which every person has to d
 Effort is not sacred.
 
 The question is whether the process produced the capability, care, or relationship the institution is trying to measure.
+
+This is where signal replacement can become wasteful.
+
+When an old signal gets cheap, institutions often feel pressure to make the next signal expensive enough to be credible.
+
+The university adds another credential.
+
+The employer adds another interview.
+
+The profession adds another certification.
+
+The applicant builds a more elaborate portfolio.
+
+The customer demands a more theatrical display of service.
+
+The creator performs more visible labor because invisible labor is difficult to price.
+
+Some of these responses improve measurement.
+
+Some merely move the tollbooth.
+
+A harder test is not necessarily a better test. A longer hiring process can consume more candidate time without predicting job performance more accurately. A requirement that work be performed manually can make fraud harder while also excluding people who use tools well. A credential can protect a public standard or become a way for insiders to defend a rent.
+
+The failure of an old signal creates a design problem, not a command to manufacture new hardship.
 
 This distinction becomes especially important in creative work.
 
@@ -323,6 +375,26 @@ Needlessly manual processes maintained because automation would weaken a status 
 Tests that become harder without becoming more relevant.
 
 Societies do this when old signals fail. We build new tollbooths because we still need to sort people and products, and sorting systems are rarely free.
+
+There is another possible response that is quieter and often better.
+
+Stop signaling when the thing can be measured directly.
+
+If a piece of software can be tested against the behavior that matters, the employer may need less evidence about how many hours the programmer spent producing it.
+
+If a student can explain a concept, transfer it to an unfamiliar problem, and defend the reasoning, the school may need less inference from the polish of a take-home essay.
+
+If a product survives standardized safety tests and performs reliably in use, the buyer may care less about the prestige of the workshop that made it.
+
+If a service provider offers meaningful guarantees and observable outcomes, some reputation premium can give way to performance evidence.
+
+Direct verification is a solvent for costly signaling.
+
+It does not work everywhere. Many qualities are hard to measure before commitment, and some are hard to measure even afterward. Judgment, loyalty, creativity, character, leadership, and care resist clean tests. Measures can be gamed. A proxy can become another signal with its own distortions.
+
+But the direction matters.
+
+Artificial abundance can force institutions to replace weak proxies with better evidence instead of simply inventing more expensive proxies.
 
 The danger is confusing difficulty with value.
 

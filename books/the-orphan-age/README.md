@@ -10,6 +10,8 @@
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 20 of 20 drafted |
 | **Method** | Narrative nonfiction + cross-domain case studies + primary-source research + falsification notes |
+| **Release Review** | Release-cleared subject only to ordinary mechanical publication steps; see [research/release-review.md](research/release-review.md) |
+| **Shelf Snapshot** | First-edition publication transaction frozen from Desk `f2c930a0ad127d79469e503b4342ee645c5c6cac`; counterpart Shelf PR #225 |
 
 We are entering an age in which making a thing can take minutes and caring for it can take decades.
 
@@ -52,4 +54,4 @@ The final chapters turn from diagnosis to design. They look at decommissioning f
 
 ## Research discipline
 
-See [research/README.md](research/README.md) and [research/source-ledger.csv](research/source-ledger.csv). The research trail separates observed evidence from the book’s proposed concept of orphan load. Each chapter brief includes a falsification note describing evidence that would weaken or reverse the argument.
+See [research/README.md](research/README.md), [research/source-ledger.csv](research/source-ledger.csv), and the [release review](research/release-review.md). The research trail separates observed evidence from the book’s proposed concept of orphan load. Each chapter brief includes a falsification note describing evidence that would weaken or reverse the argument.

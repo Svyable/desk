@@ -122,6 +122,16 @@ Slack can produce discovery.
 
 Slack can also produce nothing.
 
+And productive slack requires permission to stop. Exploration is not only the freedom to begin projects that have no obvious return. It is also the freedom to abandon them once the interesting part has been learned. Without that second freedom, a workshop becomes an archive of obligations. Every half-working mechanism starts demanding justification because time already spent on it becomes an argument for spending more.
+
+That is the quieter risk inside institutional programs for open-ended research. An organization can protect a project from premature judgment and still trap itself through sunk cost. The first year produces no result, so the second year is defended as the chance to recover the first. Soon the institution is no longer funding uncertainty; it is funding its reluctance to admit that uncertainty resolved badly.
+
+A genuine experimental culture therefore needs two kinds of tolerance that pull in opposite directions. It must let promising work survive periods when its value is illegible, and it must let researchers walk away without converting every abandoned attempt into a reputational failure. The hard judgment lies between those cases. There is no metric that can make it in advance.
+
+Shannon's workshop contained both evidence and disappearance. Some machines survived. Other projects remained incomplete or left little trace. The point is not that every abandoned object was wise to abandon. It is that a life organized around curiosity necessarily accumulates decisions not to continue. Attention is finite even when external deadlines are weak.
+
+Freedom without abandonment is only a larger backlog.
+
 That is what uncertainty means before the result is known.
 
 The useful countercase is the workshop itself. Many of the objects did not become fields, companies, or even papers. If one insists that Shannon's play was valuable only because some of his earlier play led to great work, the argument becomes circular. We celebrate the useless devices because a famous man made them and then cite the devices as proof that useless work makes people famous.
@@ -131,6 +141,16 @@ That is not good evidence.
 The stronger claim is smaller: Shannon's life shows that one historically important researcher continued to allocate serious effort to technically demanding activities whose value was not professional output, and that the surrounding institutions and household made room for this behavior over a long period.
 
 Whether another institution should buy the same amount of slack is a separate decision.
+
+Bell Labs is particularly easy to romanticize here because later history lets us select the spectacular outputs and forget the accounting problem that existed beforehand. A laboratory with room for open-ended research can produce foundational science. It can also spend money on investigations that never become products, papers anyone remembers, or ideas that justify their cost. The institution has to tolerate both outcomes before it knows which is which.
+
+That tolerance was not metaphysical. It had an economic setting. Bell Labs belonged to a regulated telecommunications system with unusual scale, long planning horizons, and research resources that most firms never possessed. Those conditions do not reduce the achievements made there. They make simple prescriptions from those achievements less portable.
+
+“Give smart people freedom” is easy advice when the famous successes have already been selected.
+
+The harder question is how much unsuccessful freedom an institution is prepared to finance before the famous success exists.
+
+Shannon's workshop pushes the same question into domestic space. A half-built machine can remain on a bench because nobody has demanded that the bench earn rent by Friday. A puzzle can be resumed months later because the parts have not been cleared away. The continuity looks like temperament from inside the biography; materially, it also depends on possession of a room.
 
 That choice becomes more revealing beside the career he could have pursued.
 
@@ -181,6 +201,10 @@ There is no reason to romanticize unfinished work simply because a genius left i
 Shannon himself benefited from publication. The 1938 switching paper and the 1948 communication paper changed fields because they escaped his desk.
 
 A drawer full of brilliant drafts cannot do the same job.
+
+A second cost is succession. Tacit knowledge dies easily. A mechanism that works because its builder knows which screw to tighten or which assumption is safe may be delightful as a personal artifact and useless as a platform for other researchers. Institutions that overlearn the romance of tinkering can discover that they have subsidized knowledge nobody else can reproduce.
+
+Completion is not merely bureaucracy. Sometimes it is the act that makes private understanding transferable.
 
 The workshop therefore does not settle an argument between play and output. It sharpens it.
 
