@@ -58,6 +58,92 @@ The early Social Security Board had to enroll employers, process applications, e
 
 The Post Office helped distribute applications because it already had the physical network Social Security lacked.
 
+That sentence contains one of the great administrative improvisations of the New Deal.
+
+The old-age insurance taxes were scheduled to begin in January 1937. Before wages could be credited to individual accounts, the government had to identify the workers whose wages would be reported. The new Board faced a registration universe of roughly 26 million workers and more than 2 million employers.
+
+The deadline was not theoretical.
+
+Payroll records would start arriving whether the bureaucracy was ready or not.
+
+The Board initially imagined building much of the enumeration system through its own field organization. In June 1936 it settled on the nine-digit account-number scheme and authorized a network of district, branch, and enumeration offices. But hiring, civil-service procedures, real estate, equipment, and organization moved more slowly than the calendar.
+
+By January 1937, only a fraction of the planned offices were open.
+
+So the new institution borrowed an old one.
+
+The Post Office Department had roughly 45,000 facilities and more than 350,000 employees. Its carriers already visited households. Its local offices knew businesses. It had routes, buildings, clerks, sorting practices, and a public expectation that paper deposited in one place would reliably reach another.
+
+Social Security did not need to invent a national last-mile network.
+
+It needed to repurpose one.
+
+The Board and the Post Office reached an agreement in September 1936 after earlier resistance. The operational plan turned local post offices into the front end of a new federal identity system. Employer applications went out first. Employers reported how many workers they had. Employee forms followed. Workers could return them through employers, labor organizations, letter carriers, or post offices.
+
+More than a thousand postal facilities became typing centers for the initial operation.
+
+Postal employees took the information on the applications and paired it with preassigned account numbers. The detachable portion became the Social Security card. The underlying record moved into a central administrative system that had to preserve the link between person and number for decades.
+
+This is what state capacity looks like before computers.
+
+It looks like paper moving through another agency’s routes.
+
+It looks like clerks typing names correctly.
+
+It looks like numbered forms issued in blocks, duplicate records, filing cabinets, and procedures for correcting mistakes.
+
+It looks boring until one form is attached to the wrong person.
+
+Then the entire promise of an earned benefit becomes an accounting dispute.
+
+The scale of the operation was extraordinary. More than 22 million completed employee applications had arrived by December 22, 1936, less than a month after the first employee forms were distributed. During the first four months of the campaign, nearly 26 million Social Security numbers and more than 2.6 million employer identification numbers were assigned.
+
+The numbers matter less as a feat of clerical speed than as proof of institutional interoperability.
+
+The Social Security Board wrote the rules.
+
+The Treasury created the tax-reporting obligation.
+
+Employers supplied workforce information.
+
+Workers supplied identifying information.
+
+The Post Office supplied physical reach.
+
+A centralized recordkeeping operation turned the millions of local encounters into accounts that could receive wage credits.
+
+No participant alone possessed the whole system.
+
+The institution existed in the handoffs.
+
+That dependence also created risk.
+
+The initial registration process emphasized simplicity and coverage over modern standards of identity verification. The point of the number was to locate an earnings record, not to prove that the person presenting the card decades later was unquestionably the person to whom the number had first been issued.
+
+That design was rational for the original problem.
+
+It became dangerous after the number escaped its original purpose.
+
+The same nine digits later became useful to banks, employers, tax authorities, lenders, universities, health systems, and other organizations. An account locator gradually became a de facto credential.
+
+The system inherited a security burden it had never been designed to bear.
+
+This is a recurring rule of institutional infrastructure.
+
+A standard that works becomes attractive.
+
+Attraction creates reuse.
+
+Reuse creates dependencies.
+
+Dependencies turn a convenient identifier into critical infrastructure.
+
+The enumeration campaign also shows why administrative history should not be reduced to the agency named on the law.
+
+If the Post Office had refused or failed, Social Security’s first payroll year would have begun with millions of workers insufficiently connected to the records on which their future benefits depended. The older communication institution made the newer social-insurance institution operational.
+
+The state grew by recombination.
+
 The institution of the 1800s became infrastructure for the institution of the 1930s.
 
 This is how states actually grow.
