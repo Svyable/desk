@@ -211,3 +211,91 @@ A promise that can survive decades has to contain a method for becoming new with
 That may be the hidden reason some long marriages are impressive. Not because two people correctly predicted each other at the beginning.
 
 Because they kept meeting again.
+
+Retirement deserves special attention because it can expose whether the marriage was built around shared life or merely coordinated schedules.
+
+For decades, two people may see each other mainly before work, after work, on weekends, and during vacations. Jobs supply separate colleagues, status, rhythms, and stories. Then one or both stop working and the household suddenly has more shared hours than at any point since the relationship began.
+
+The change can be welcome and destabilizing at the same time.
+
+One spouse imagined travel. The other imagined home. One expected shared projects. The other expected independent days. One thinks retirement means relief from schedules. The other recreates a schedule immediately. If only one retires, household labor can be renegotiated again: the person at home appears more available, whether or not that was part of the bargain.
+
+The transition is not simply financial.
+
+It is a redesign of proximity.
+
+A long retirement makes that redesign consequential. Couples who never discussed what ordinary Tuesday would look like may discover that they had a retirement date and no retirement relationship.
+
+This is another reason intermediate states can help. Reduced work, separate projects, volunteering, part-time roles, travel, caregiving, and individual friendships can create a less abrupt transition than two careers ending into the same kitchen.
+
+There is no correct amount of togetherness.
+
+The important thing is that the old distribution of time should not survive by inertia merely because both people stopped earning wages.
+
+The same applies when health diverges.
+
+One spouse can remain vigorous while the other develops limitations years earlier. The healthier spouse may become caregiver, driver, administrator, and advocate while still experiencing the relationship as marriage. The ill spouse may fear becoming a burden or losing authority. Both can feel guilty for wanting things the new arrangement makes harder.
+
+Longer life increases the probability that couples will spend meaningful years in unequal health.
+
+That is not a failure of the relationship. It is a condition the relationship may have to absorb.
+
+The difficulty is that caregiving can slowly consume the parts of the marriage that made care meaningful in the first place. The caregiver becomes manager. The spouse receiving care becomes patient. Conversation is dominated by appointments, medications, sleep, transport, and risk. Friends stop visiting because the logistics are harder. Paid help may be unavailable or unaffordable.
+
+The marriage can disappear into the care system.
+
+Respite matters partly because it creates rest. It also protects the identity of the relationship from becoming only care.
+
+This is a subtle form of healthspan. The question is not only how many years two people remain alive together. It is how many roles remain available inside those years.
+
+A couple can preserve some of them through adaptation: outside help, accessible housing, separate social time, clear financial planning, shared decision-making where possible, and the willingness to let the healthier spouse continue parts of a life that do not include caregiving.
+
+None makes serious illness easy.
+
+The point is to resist the idea that love requires collapsing both lives into the illness of one.
+
+Longevity also creates more time for inequality inside marriage to compound.
+
+A spouse who leaves paid work for children or care can lose years of earnings, retirement contributions, promotions, professional contacts, and Social Security accrual. The household may rationally choose the arrangement because one person earns more. Over decades, the initial earnings difference can justify more caregiving specialization, which then widens the earnings difference further.
+
+The arrangement can be loving and economically asymmetric.
+
+That asymmetry matters at divorce, widowhood, or disability because household resources that felt shared can become legally or practically harder for one person to access.
+
+A long marriage needs to count unpaid contribution while the marriage is healthy, not only when lawyers or survivors reconstruct it later.
+
+This does not require turning every household chore into an invoice. It does require recognizing that a decision for one spouse to absorb more unpaid work can alter that spouse’s future bargaining power and retirement security.
+
+The longer the horizon, the larger the possible compounding.
+
+Financial legibility is one defense. Retirement assets can be discussed as household security even when titled individually. Both spouses can understand benefits and survivor rules. Insurance can reflect the economic value of unpaid labor as well as wages. Career re-entry can be planned before a long absence becomes permanent.
+
+Again, the relationship remains personal while the consequences are institutional.
+
+There is a similar asymmetry around social networks. One spouse may manage the couple’s friendships and family calendar. When that spouse dies or becomes ill, the other can discover that a large social world existed through someone else’s labor. The loss is not merely grief. It is loss of infrastructure.
+
+Long marriages distribute invisible jobs.
+
+Someone remembers birthdays. Someone maintains kinship ties. Someone handles finances. Someone knows the insurance. Someone cooks. Someone keeps friendships alive. Someone calls the contractor. Someone knows the children’s medical histories. The division can be efficient while both people are present and dangerous when one suddenly is not.
+
+Redundancy is not distrust.
+
+It is continuity planning for a relationship in which mortality is one of the terms.
+
+A couple can teach each other enough of the household system that either can survive the loss of the other without becoming administratively helpless. That is a strange form of love because it prepares for the day the relationship ends.
+
+It can also be one of the most practical.
+
+The longer life makes these preparations more important because widowhood can itself be a long stage. A person who loses a spouse at seventy may live twenty years after the funeral. The future is not merely an aftermath.
+
+It is another life chapter that the marriage can either leave more navigable or less.
+
+This is where commitment becomes generous beyond its own duration.
+
+A strong marriage does not only build a shared life.
+
+It leaves each person capable of carrying life alone if that becomes necessary.
+
+That is not a hedge against love.
+
+It is part of what love owes time.
