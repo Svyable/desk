@@ -55,6 +55,7 @@ The central thesis is that as software and artificial intelligence make first de
 
 - [Research brief](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
+- [Chapter 24 — deadline design and bounded grace](research/ch24-deadline-grace.md)
 - [Source ledger](research/source-ledger.csv)
 - [Publication readiness review](research/readiness-review-2026-09-03.md)
 
