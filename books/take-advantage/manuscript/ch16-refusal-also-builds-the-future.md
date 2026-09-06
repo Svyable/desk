@@ -394,6 +394,66 @@ Not every skeptic hates the future.
 
 Some are describing the price the future is asking them to pay.
 
+There is another reason refusal deserves to be treated as information rather than absence: observed adopters are a selected population.
+
+Once a producer studies only the people who entered, it can become excellent at explaining why entrants like the product while knowing almost nothing about why the larger market stayed away. Usage analytics deepen the problem. The people who generate the richest telemetry are precisely the people who crossed the adoption threshold. The missing users do not click, complain or create sessions.
+
+The product becomes data-rich about acceptance and data-poor about rejection.
+
+This can create a dangerous internal illusion of customer intimacy.
+
+A team may know exactly which feature engaged existing users on Tuesday afternoon while remaining ignorant of the contract clause, trust concern, setup burden or social norm that prevented ten times as many people from becoming users at all.
+
+The better the instrumentation inside the product, the easier it is to forget the uninstrumented outside.
+
+Early markets need a deliberate refusal channel.
+
+Interview the lost prospect after the sales process ends.
+
+Record why a pilot did not proceed.
+
+Distinguish “not now” from “never” from “not under these terms.”
+
+Ask the employee using the workaround what the official system made expensive.
+
+Study the integration people declined to build.
+
+Treat churn and non-conversion as hypotheses to investigate, not percentages to optimize blindly.
+
+This does not mean every no deserves obedience. Customers can misunderstand products. Incumbents can resist useful change because change threatens status or income. A requirement can be impossible, contradictory or too idiosyncratic to serve. The point is not that refusal is correct.
+
+The point is that refusal contains information from a part of the market adoption itself tends to erase from view.
+
+There is a political version of the same selection problem.
+
+The people who benefit earliest from a technology are often organized before the people who bear diffuse costs. A new service has users who love it, employees whose livelihoods depend on it and investors who can explain its benefits clearly. The non-user may experience only congestion, noise, privacy loss, changed neighborhood conditions or a new burden of verification.
+
+The beneficiaries have an app and a mailing list.
+
+The bystanders have irritation.
+
+If institutions hear only adoption, the future can look more consensual than it is.
+
+Refusal becomes the mechanism by which externalized costs acquire a constituency of their own.
+
+This is why a ban, strike, boycott, procurement rejection or standards demand can be technologically productive even when it is commercially painful. It forces a cost that was previously outside the product back into the product’s design problem.
+
+The scooter must solve parking.
+
+The camera must solve legibility and consent.
+
+The agent must solve authorization.
+
+The platform must solve portability.
+
+The employer must solve accountability.
+
+The future becomes harder to build in one form and easier to accept in another.
+
+That is not anti-innovation.
+
+It is innovation encountering the full set of people whose lives the innovation changes.
+
 Early adopters have more power over this movement than they often realize because producers need them before producers need everyone.
 
 The immature market is hungry for proof.
