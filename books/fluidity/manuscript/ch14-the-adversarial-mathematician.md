@@ -235,3 +235,137 @@ AI makes it affordable to practice at scale.
 The machines will produce more mistakes than any mathematical community in history.
 
 If we build the institution correctly, they may also become very good at finding them.
+
+There is a useful way to make the adversarial program less dependent on rhetoric: convert every review class into executable tests wherever possible.
+
+Target attack becomes a theorem-delta report.
+
+Scaling attack becomes automatic dimensional metadata and rescaling tests.
+
+Regularity attack becomes a dependency check on the function spaces required by each manipulation.
+
+Nearby-world attack becomes a library of adversarial equations and known countermodels.
+
+Extremizer attack becomes optimization code stored with the proof branch.
+
+Literature attack becomes source-linked theorem comparison.
+
+Formal attack becomes actual kernel checking.
+
+Computational attack becomes reproducible numerical suites.
+
+Interpretation attack becomes a claims manifest generated from the exact root theorem.
+
+The more criticism can be made executable, the less the project depends on whether a reviewer happens to remember the right objection on the right afternoon.
+
+This is not a proposal to automate peer review out of existence. It is a proposal to automate the repetitive parts of skepticism so human reviewers can spend their attention on the objections that require taste.
+
+A PDE expert should not have to waste a day discovering that a generated proof used the wrong scaling exponent. The machine can catch that.
+
+The expert should spend the day asking whether the new cancellation has genuine leverage.
+
+This division of labor is important because proof spam changes the economics of criticism. If models can generate a thousand plausible approaches, human experts cannot manually refute them one by one. A critic system that merely writes natural-language reviews will drown with the prover system.
+
+Adversarial capacity has to scale with generative capacity.
+
+One way is to make the generator pay a verification deposit.
+
+Every new high-level claim arrives with evidence proportional to its ambition. A local lemma might need a formal proof or a short check. A proposed global strategy needs scaling analysis, literature comparison, and at least one adversarial model test before it enters the expert queue. A claimed numerical singularity needs independent discretization, precision sweeps, admissibility checks, and a stated path to rigorous certification. A Millennium solution candidate needs all of these plus external checkers and independent human review.
+
+The deposit makes cheap claims more expensive to promote.
+
+Generation can remain cheap.
+
+Attention cannot.
+
+This is a governance mechanism for a future in which “write a plausible proof” costs almost nothing.
+
+The red team should also maintain a museum of historical false positives.
+
+Famous open problems attract incorrect proofs from brilliant people as well as amateurs. The mistakes are varied: hidden circularity, unjustified interchange of limits, misuse of compactness, a false inequality at an endpoint, changing the problem during normalization, assuming a minimizer exists, numerical evidence mistaken for exactness.
+
+A machine can learn more from these failures if they are encoded structurally rather than mocked as bad mathematics.
+
+What was the first invalid step?
+
+Why was it persuasive?
+
+Which automated test would have caught it?
+
+Can the failure be generalized into a template?
+
+A good red-team corpus contains sophisticated mistakes, because the dangerous future errors will be sophisticated too.
+
+The hardest category will be valid mathematics with invalid significance.
+
+Suppose a model proves an elegant new regularity theorem under an assumption that appears mild. The proof is flawless. Reviewers praise it. Only later does someone notice the assumption is already stronger than a classical criterion in disguise. Nothing is false, yet the claimed progress was illusory.
+
+This is why novelty review and implication review belong inside adversarial mathematics.
+
+The system should ask not only “is the theorem true?” but “where does it sit in the lattice of known results?”
+
+Does it weaken a hypothesis?
+
+Strengthen a conclusion?
+
+Reach a new critical endpoint?
+
+Remove symmetry?
+
+Make a constant explicit?
+
+Formalize something previously informal?
+
+Or merely rename an old condition?
+
+A theorem can be correct and still fail the research test.
+
+The distinction becomes crucial when agents optimize for publishable output. A system rewarded for “new theorems” will discover endless syntactic novelty unless the institution measures semantic movement.
+
+That lesson transfers from academic incentives directly into agent design.
+
+The adversarial mathematician should therefore be allowed to return three verdicts.
+
+False.
+
+True but not new.
+
+True and materially moves the frontier.
+
+The third verdict should be rare.
+
+There is another social defense worth importing from security engineering: responsible disclosure before celebration. If an internal team believes it has a full solution, the first external contact should not be a publicity campaign. It should be a small number of independent experts given everything needed to attack the result under conditions that do not require loyalty to the lab.
+
+Their incentives should be explicit.
+
+Finding a fatal flaw is a success.
+
+Finding a target mismatch is a success.
+
+Showing that the formal checker was used unsafely is a success.
+
+Reproducing the result is a success.
+
+Ambiguity is not a success.
+
+A lab that truly believes its proof should prefer the harshest competent review it can obtain.
+
+The ultimate red team is then public mathematics. Once the artifacts are released, the number of potential adversaries becomes enormous. Other labs can point their models at the proof. Formal-methods researchers can distrust the kernel boundary. Numerical analysts can rebuild the certificate. Historians of the field can find precedents. Graduate students can ask naive questions that reveal assumptions experts stopped noticing.
+
+This is not a threat to authorship.
+
+It is how a result becomes durable.
+
+The paradox of a famous proof is that the strongest claim of intellectual achievement should trigger the strongest effort to make the authors unnecessary to belief.
+
+If the theorem can only be defended by the people who produced it, it is not ready.
+
+The adversarial mathematician’s final job is to make the original team dispensable.
+
+Anyone should be able to rebuild the conclusion without trusting Anthropic, Claude, the internal cluster, or the personalities involved.
+
+When that happens, opposition has done its work.
+
+The theorem no longer belongs to the argument.
+
+It belongs to mathematics.
