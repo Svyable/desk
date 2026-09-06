@@ -251,3 +251,121 @@ It has gained a theorem.
 Many agents can make the search faster.
 
 Only one theorem can make them all right.
+
+The newest multi-agent evidence strengthens the caution here. Anthropic’s own work on multi-agent systems has emphasized that adding agents can create coordination failures rather than automatic gains. In other agentic research settings, models can also exploit weaknesses in evaluations or shared assumptions. Mathematics is unusually clean about the consequence: a coordinated swarm can be efficiently wrong.
+
+So the theorem graph needs an independence graph beside it.
+
+For every important claim, record not only who or what proved it, but which supposedly independent checks actually share a source of error.
+
+Two Claude instances may share architecture and training data.
+
+Two Lean checks may share the same kernel.
+
+Two numerical solvers may share the same discretization library.
+
+Two literature agents may retrieve from the same database and inherit the same misstatement.
+
+Two human reviewers may come from the same research tradition and overlook the same modeling choice.
+
+Independence is not a count of reviewers. It is a map of common causes.
+
+This matters because confidence from repeated checking is only justified when the checks can fail differently. Ten identical reviewers add less evidence than one reviewer using a genuinely different representation.
+
+A serious Navier–Stokes program could therefore assign an independence score to every high-value node.
+
+The original proof agent supplies one path.
+
+A second model family attempts a proof from the statement only.
+
+A counterexample agent sees the claim without the proof transcript.
+
+A human analyst checks the critical estimate in their preferred notation.
+
+A separate formalization team encodes the statement independently.
+
+A different proof checker validates the exported proof object.
+
+For numerical results, another codebase reproduces the computation with another basis or discretization.
+
+The claim becomes more trusted as its evidence graph becomes more heterogeneous.
+
+This is not bureaucracy for its own sake. It solves a mathematical version of correlated failure.
+
+The architecture also needs quarantine.
+
+Suppose a literature agent imports a theorem from a paper and misstates one hypothesis. Ten downstream agents use it. Several formally prove results from the misstated theorem because the false statement entered the graph as an assumption rather than a proved library theorem. The branch can become internally consistent and externally false.
+
+Every imported claim should therefore begin in a low-trust zone.
+
+Source attached.
+
+Statement extracted.
+
+Independent extraction compared.
+
+Human or formal verification performed for high-centrality nodes.
+
+Only then is the theorem promoted into reusable infrastructure.
+
+Research institutions already perform versions of this informally. We trust a standard theorem differently from a claim in a new preprint. We trust a remembered lemma differently from a checked citation. The machine system needs those social distinctions rendered as explicit states.
+
+The same is true of generated conjectures.
+
+A conjecture should not contaminate downstream reasoning simply because many agents find it plausible. It remains conjectural until a proof node or validated counterexample changes its status. Language models are especially vulnerable to belief propagation through context: once a proposition appears repeatedly in shared notes, later agents may treat it as background truth.
+
+The graph must refuse that social drift.
+
+Truth status is not decided by repetition.
+
+This is where a database becomes constitutional. The field “proved” is not editable by a coordinator because the team feels confident. It is derived from evidence. The field “refuted” points to a counterexample or contradiction. The field “numerically supported” cannot silently become “proved.”
+
+A multi-agent mathematical institution needs this kind of rigidity because its conversational layer is fluid.
+
+Agents summarize. Summaries compress. Compression drops qualifiers. A theorem valid for small data becomes “global regularity result” in an executive note. A singularity in a related model becomes “fluid blowup.” The database should preserve the exact claim even when language around it gets sloppy.
+
+Many agents also create a scheduling problem that resembles distributed computing. If a central lemma changes, thousands of tasks may become stale. Some agents may still be working from old assumptions. Their outputs can land after the revision and look current.
+
+Version every mathematical dependency.
+
+A proof result is attached to the exact versions of the statements it used. If a foundational node changes, downstream work is invalidated or marked stale automatically. An agent cannot merge a result proved against yesterday’s theorem into today’s graph without replaying the relevant checks.
+
+This sounds like software because the theorem project is becoming software-shaped.
+
+The insight is that mathematical collaboration has always had hidden versioning. Authors revise definitions. Referees discover gaps. Lemmas get strengthened. Notation changes. Humans manage this through conversation and careful rewriting. Machine-scale collaboration needs the state transitions to be explicit.
+
+The most interesting allocation metric may therefore be neither tokens nor theorem count.
+
+It may be *verified uncertainty reduction*.
+
+A branch begins with many possibilities. A counterexample eliminates half. A formal equivalence collapses three apparently different criteria into one. A numerical experiment shows a proposed profile is resolution-dependent and kills a costly direction. A new lemma turns a conjectural edge into a proved one. A source audit reveals that a supposed novelty is known and removes duplication.
+
+Each action reduces uncertainty in a way the institution can record.
+
+This is healthier than rewarding agents for positive output because research contains valuable negative results. A reviewer that destroys a beloved proof may contribute more than a prover that adds ten low-value lemmas.
+
+The coordinating system should be able to see that.
+
+Humans are not naturally good at institutionalizing destruction. Careers, ownership, and sunk costs make it hard. Machines do not remove those incentives because humans still run the lab, but explicit metrics can at least reveal whether the project is learning from rejection.
+
+The final theorem graph should therefore look less like a triumphal tree and more like a battlefield map.
+
+Proved nodes.
+
+Refuted nodes.
+
+Abandoned nodes.
+
+Competing routes.
+
+Independent replications.
+
+Known shared dependencies.
+
+Human decisions.
+
+The winning path will be tiny compared with the territory explored.
+
+That asymmetry is not waste.
+
+It is what research looks like when the unsuccessful thoughts are finally cheap enough to keep.
