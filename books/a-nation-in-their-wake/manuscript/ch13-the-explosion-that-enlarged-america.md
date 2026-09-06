@@ -295,3 +295,31 @@ It was going to be seen.
 After *Maine*, the United States had learned how much power an image could carry.
 
 Roosevelt intended to choose the image himself.
+
+## The Ship Did Not Cause the War Alone
+
+The most dangerous version of the *Maine* story is also the easiest to remember: ship explodes, newspapers demand revenge, America goes to war.
+
+Every arrow in that sequence exists. The causal chain is still too simple.
+
+Cuban rebellion, Spanish counterinsurgency, American commercial interests, expansionist arguments, humanitarian outrage, partisan politics, diplomatic failures, and strategic ambitions all predated the blast. President McKinley continued negotiating afterward. Spain made concessions. Congress and the public were not controlled by one newspaper slogan.
+
+The explosion changed the velocity and emotional structure of a crisis that already existed.
+
+That distinction is the reason *Maine* beats a strong rival: USS *Olympia*, Admiral George Dewey's flagship at Manila Bay. *Olympia* could represent the demonstrated combat capability of the New Navy and the sudden reach of American power into the Philippines. Her victory is cleaner evidence of what the United States could do.
+
+*Maine* is more consequential because she shows how a democracy decides what it believes it must do before the evidence is settled.
+
+The unresolved cause is not an inconvenience to work around. It is the analytical core. A responsible account must hold two ideas at once: Americans had legitimate reasons to care about Cuba independent of the explosion, and the politically useful certainty assigned to Spanish responsibility ran ahead of what investigators could prove.
+
+The counterfactual is therefore disciplined rather than absolute. Without the explosion, war might still have come in 1898. It might have come later. A negotiated settlement might have lasted longer. The domestic coalition for intervention would have had to rely more heavily on conditions in Cuba and less on a direct image of American victimhood.
+
+The ship's importance lies in changing the burden of argument.
+
+Before the blast, interventionists had to prove why the United States should act.
+
+After the blast, restraint increasingly had to explain why the United States should not.
+
+That is a profound political shift for any democracy, and it can occur long before a declaration of war.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

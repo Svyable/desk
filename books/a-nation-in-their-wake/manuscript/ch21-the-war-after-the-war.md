@@ -279,3 +279,35 @@ That is why the incident belongs here.
 The war was over.
 
 The reflexes were not.
+
+## The Timeline Was the Enemy Too
+
+The *Mayaguez* crisis unfolded on several clocks that did not synchronize.
+
+The crew was being moved and eventually released on a Cambodian timetable. Intelligence reports moved through collection, interpretation, transmission, and senior review on an American timetable. Marines and Air Force crews prepared an assault on an operational timetable. The White House made decisions on a political timetable shaped by the memory of Vietnam and fear that delay would advertise weakness.
+
+A piece of information could therefore be accurate and still arrive too late to change the operation it described.
+
+That is not simply an intelligence failure. It is a systems-latency problem.
+
+The Koh Tang assault demonstrated the cost. Landing forces expected lighter resistance than they encountered. Helicopters flew into intense fire. The merchant crew was not on the island. At roughly the same time, the Khmer Rouge were moving toward releasing the sailors, who were recovered from a Thai fishing boat.
+
+The strongest rival for the 1970s is USS *Nimitz*, commissioned in 1975. Nuclear-powered supercarriers would become the dominant visual symbol of American naval power for the next half century. Choosing *Nimitz* would make the decade about retained capacity after Vietnam.
+
+*Mayaguez* wins because it asks whether capacity and judgment were aligned.
+
+The United States could move Marines, helicopters, naval ships, tactical aircraft, and command attention with remarkable speed. The operation showed that speed becomes dangerous when the shared picture is wrong. A powerful state can execute the wrong plan more efficiently than a weak one.
+
+The casualty accounting makes that abstraction concrete. Forty crew members were recovered. Forty-one U.S. service members died in the operation and associated losses, including deaths before and during the Koh Tang fighting and three Marines left behind who were later killed. The equality of the numbers is not a moral equation, but it forces the objective to be examined rather than assumed.
+
+The counterfactual cannot be clean. Waiting longer might have allowed the crew's release to become clear and avoided the island assault. Waiting might also have created other risks if the Khmer Rouge had moved or harmed the sailors. Policymakers had to act under uncertainty.
+
+The better lesson is procedural: under uncertainty, keep irreversible commitments proportional to what is actually known, and design channels that can stop an operation when the factual picture changes.
+
+That lesson outlived the specific battle. Later failures, especially the 1980 Desert One rescue attempt, reinforced concerns about joint command, planning, aviation, and interservice coordination. The reforms of the 1980s had many causes. *Mayaguez* belonged to the accumulation of evidence that service excellence alone did not guarantee joint performance.
+
+The warship is absent from the title because the merchant vessel created the test.
+
+A commercial ship with forty sailors aboard caused the national-security system to reveal itself under pressure.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

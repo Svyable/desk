@@ -215,3 +215,37 @@ The ship is my choice for the 1920s because it embodies the way a rule intended 
 The battleship age tried to negotiate limits.
 
 The runway moved to sea.
+
+## Neutrality Had a Balance Sheet
+
+American neutrality in 1915 was not an empty space between belligerents. It had trade flows, bank loans, passenger bookings, insurance contracts, export orders, and shipping routes.
+
+That material reality made legal neutrality harder to sustain politically. Britain and France could buy enormous quantities from American producers. Germany's ability to trade across the Atlantic was constrained by British sea power. American financial exposure to the Allied economies increased as the war continued. None of this meant the United States was secretly at war before 1917. It meant that formal neutrality operated inside an economy whose connections were uneven.
+
+German submarine strategy targeted the network because the network mattered.
+
+The strongest rival for the 1910s is a troop transport such as USS *Leviathan*, which eventually carried American soldiers to Europe and could represent the logistics of intervention rather than the politics of entering. A battleship associated with the U.S. fleet would make the decade about preparedness. *Lusitania* wins because the passenger liner makes the threshold problem visible before the country crosses it.
+
+The ship also exposes an argument democracies repeatedly face: what risks may citizens impose on national policy through private action? William Jennings Bryan believed Americans should avoid belligerent vessels and that Wilson's diplomatic stance was moving the country toward war. Wilson defended neutral rights more strongly. Behind the disagreement was a question about whose behavior should adjust when a belligerent threatens civilians.
+
+Telling citizens to stay away from danger may reduce immediate risk. It can also allow the threatening power to define where neutral rights exist in practice.
+
+Insisting on the right may preserve principle. It can also commit the government to escalation if the right is violated again.
+
+There is no cost-free position.
+
+The counterfactual helps prevent the familiar myth. If U-20 had never torpedoed *Lusitania*, the United States might still have entered World War I after Germany resumed unrestricted submarine warfare and after the Zimmermann Telegram. The structural conflict between German strategy and American neutral commerce remained. The sinking mattered because it changed public memory, raised the diplomatic stakes around later submarine attacks, and made civilian vulnerability part of the political vocabulary of the war.
+
+It was an accelerant and a reference point, not a two-year fuse with a predetermined explosion.
+
+The technological lesson is equally important. Submarines created a mismatch between inherited prize-law expectations and the survival requirements of the attacking platform. Germany's answer was to change behavior at sea. The political cost of that answer eventually became strategic.
+
+A tactic that sinks tonnage can still lose the coalition war.
+
+The 1910s are the decade when the United States learned that the Atlantic could no longer function as a political moat once American citizens, credit, cargo, and law were moving through a contested system.
+
+The ocean remained wide.
+
+Neutrality had become narrow.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

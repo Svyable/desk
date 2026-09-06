@@ -203,3 +203,29 @@ The United States had spent the 1830s confronting whether law could recognize pe
 The 1840s would ask whether a government could integrate a new coast across a continent.
 
 Again, the fastest route ran through water.
+
+## What the Court Could See—and What It Could Avoid Seeing
+
+The *Amistad* decision is easy to recruit into a reassuring story about American law correcting injustice. The legal victory was real. Its boundaries are the more revealing part.
+
+The defendants could win because the case turned on whether they had been illegally kidnapped from Africa and fraudulently represented as people lawfully enslaved in Cuba. Once the courts accepted that factual account, Spanish property claims weakened dramatically. The decision did not require the Supreme Court to decide that slavery itself was incompatible with the Constitution.
+
+The distinction kept the victory narrow enough to fit inside a slaveholding republic.
+
+That is why a serious rival for the 1830s—the domestic coastal slave ship—is important even though no single vessel offers as famous a name. By the 1830s, the internal slave trade moved enslaved people from the Upper South toward expanding cotton regions in the Deep South by land and sea. A ship from that traffic would reveal the scale of lawful American coercion more directly than *Amistad* does.
+
+*Amistad* wins because the revolt and litigation force the categories to collide in public. The state had to ask whether the people before it were property, criminals, victims of an illegal trade, or free persons entitled to resist kidnapping. Their ability to testify through translators changed what evidence the system could recognize.
+
+That point deserves emphasis. Translation was not a courtesy added after the legal issue was understood. Translation helped determine what the legal issue was. Without a credible account from the Mende captives, forged or misleading papers could have organized the case around the claims of men who asserted ownership.
+
+Institutions frequently mistake legibility for truth. The party with documents, lawyers, language, and official familiarity begins with an advantage because the system can process that party's story. Making the other side legible is itself a form of legal power.
+
+The counterfactual is bleak. Had the schooner been intercepted in a jurisdiction with less organized abolitionist support, had no translators been found, or had the factual record of recent African origin been harder to establish, the same human beings might have encountered a very different legal outcome. Rights on paper mattered. So did the infrastructure that made facts provable.
+
+This is also why John Quincy Adams should remain important without becoming the savior of the chapter. His reputation and advocacy mattered at the Supreme Court. The earlier organizational work—fundraising, investigation, translation, counsel, public attention—made the argument possible.
+
+A legal system is not simply judges deciding principles. It is a supply chain for evidence.
+
+*Amistad* belongs to the decade because the people aboard interrupted that supply chain and forced it to carry their account instead of only the account written about them.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

@@ -271,3 +271,35 @@ The boxes would do more to reorganize the peacetime world economy than most batt
 The Liberty ship had taught America to make ships like units.
 
 *Ideal X* would teach the world to make cargo into units too.
+
+## The Fleet Was a Factory Schedule
+
+The famous production anecdotes can distort the Liberty ship story if they turn industrial mobilization into a race for the quickest launch. The SS *Robert E. Peary* publicity feat—assembled in less than five days—was impressive precisely because it was exceptional.
+
+The strategic achievement was the ordinary ship becoming faster.
+
+Across the program, yards learned to prefabricate sections, reorganize work, train new employees, schedule suppliers, and move bottlenecks. Thousands of hulls emerged not because every crew broke a record but because the system made repetition less expensive in time and labor.
+
+The strongest rival for the 1940s is USS *Enterprise*, one of the most decorated American warships of World War II and a magnificent vehicle for telling the carrier war in the Pacific. USS *Arizona* would make the decade about Pearl Harbor and national mobilization. Either is more famous than *Patrick Henry*.
+
+The merchant ship wins because victory depended on carrying more than the battle fleet.
+
+The United States had to move food, fuel, trucks, ammunition, locomotives, aircraft, spare parts, and people across submarine-threatened oceans. The industrial advantage of the continental economy became strategically meaningful only after logistics converted output into delivered supply.
+
+This is a useful counterweight to the mythology of the arsenal of democracy. An arsenal is a warehouse until transport works.
+
+The Liberty program also created a difficult quality problem. Welding and prefabrication accelerated production, while brittle fractures in some ships revealed the danger of scaling a design and process faster than failure modes were understood. Investigations into steel toughness, stress concentration, notch sensitivity, and structural design helped improve practice.
+
+Mass production makes feedback speed strategic.
+
+If a standardized design contains a flaw, standardization reproduces it. If the system detects the flaw quickly and changes material or detail design, the same standardization propagates the fix.
+
+The counterfactual is therefore about throughput under loss. Had American shipbuilding remained closer to bespoke prewar practice, the Allies would still have had merchant vessels, but replacement would have been slower and submarine attrition more dangerous. Liberty ships were not elegant answers to every maritime need. They were an answer to the arithmetic of a global war.
+
+That arithmetic changed the labor market at home. New shipyards and expanded yards drew women, Black workers, migrants, and inexperienced industrial labor into jobs whose training had to be redesigned for scale. Housing, transportation, child care, and local public services became production inputs because a worker who could not live near the yard could not help build the ship.
+
+The war taught the United States that industrial policy is social infrastructure under another name when the deadline is real enough.
+
+*Patrick Henry* is the first unit in that lesson.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

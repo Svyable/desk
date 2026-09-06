@@ -167,3 +167,25 @@ That is the unfinished lesson inside *Constitution*'s oak.
 Institutions can create capability.
 
 Capability does not abolish vulnerability.
+
+## What Six Frigates Could and Could Not Buy
+
+The six-frigate program can sound grander in retrospect than it looked against the scale of the maritime world. Britain maintained a navy measured in hundreds of commissioned warships. France remained a major naval power. The United States was authorizing six expensive vessels while still arguing about whether all six should even be completed if the immediate diplomatic crisis eased.
+
+That mismatch is useful because it clarifies what *Constitution* was for. The objective was not command of the Atlantic. It was selective leverage.
+
+A heavy American frigate could make some predatory calculations more expensive. It could escort merchantmen, capture privateers, punish weaker cruisers, protect diplomatic movement, and force an opponent to devote more capable ships to any encounter. The Humphreys design embodied an economics of scarcity: if the republic could afford only a few major vessels, each should be unusually useful across the fights the country was most likely to choose.
+
+That logic has a modern echo in debates over exquisite military platforms. A small number of highly capable systems can produce outsized effects, but scarcity creates its own vulnerability. Maintenance removes a larger share of the force. One loss matters more. Crews and spare parts become concentrated. Political leaders can overestimate what a handful of impressive platforms can accomplish because the platforms look powerful individually.
+
+The early frigates never solved the basic arithmetic of American sea power. They bought room to maneuver while the country learned what kind of navy it wanted.
+
+A serious rival for the 1790s is USS *Constellation*, which won celebrated victories during the Quasi-War and could claim a cleaner combat case for the decade. *Constitution* wins because her importance begins before her later victories. She is the surviving artifact of the procurement choice itself: Congress accepting that federal sovereignty required an industrial capability that could not be summoned after a merchant ship was already in trouble.
+
+The counterfactual is therefore institutional. If *Constitution* had never won a famous fight, the 1794 decision would still matter. If the entire six-frigate program had been cancelled after diplomacy improved, the United States would have entered later maritime crises with less industrial experience, fewer trained officers, and weaker proof that the federal government could turn appropriations into complex machines.
+
+That is the quieter foundation beneath “Old Ironsides.” The ship's eventual fame makes preservation easier. Her deeper importance is that she embodies the moment the republic decided maritime insecurity was not merely a problem for individual merchants to insure around.
+
+The state would build capacity before it knew exactly which war would justify it.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

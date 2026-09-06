@@ -263,3 +263,25 @@ Modern naval power had finally arrived.
 So had modern mass politics.
 
 The combination would prove combustible.
+
+## Why a Small Ship Can Mark a Large Turn
+
+The case against choosing *Dolphin* is obvious. She was not the most powerful new American warship, did not fight the decade's defining naval battle, and did not by herself establish a doctrine. A ranking based on combat value would select something else.
+
+That objection is the reason she works.
+
+The 1880s are not the decade in which American sea power reaches maturity. They are the decade in which the procurement system begins moving again after years of relative stagnation. *Dolphin* was the first completed vessel in a program whose greater importance lay in relearning.
+
+Procurement learning is cumulative and perishable at the same time. A yard learns how to integrate machinery, steel structure, guns, wiring, and naval requirements by doing the work. Inspectors learn which failures matter. Designers learn what domestic suppliers can actually produce. Contractors learn how to price uncertainty. Congress learns how long authorization takes to become a commissioned ship.
+
+Stop ordering for long enough and those relationships decay.
+
+This is why the counterfactual should be framed around delay rather than the loss of one hull. If *Dolphin* herself had never existed but *Atlanta*, *Boston*, and *Chicago* proceeded on schedule, the New Navy still begins. If Congress had postponed the entire modernization effort for another decade, the United States would have entered the 1898 crisis with a weaker industrial and operational base.
+
+The ship is therefore evidence of timing.
+
+The strongest rival is *Chicago*, whose size and later service make her a more obvious symbol of the new steel fleet. *Dolphin* wins because the first completed unit reveals the threshold where aspiration becomes actual production. The future fleet stopped being a speech and became a delivered object.
+
+That is a small event with a large shadow.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

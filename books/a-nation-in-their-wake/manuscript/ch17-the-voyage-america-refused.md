@@ -257,3 +257,33 @@ The passengers of *St. Louis* had needed a country willing to alter an admission
 The Allies would soon need a country willing to alter an entire production system.
 
 This time, the answer would be yes.
+
+## The Quota Was Not Full in the Moral Sense
+
+The *St. Louis* episode is sometimes compressed into a claim that the United States had literally exhausted every legal immigration place available to German Jews. The reality was more bureaucratic and therefore more revealing.
+
+The national-origins quota system limited visas by nationality and operated through consular processing, waiting lists, documentary requirements, financial tests, and administrative discretion. A quota number was not a seat on a lifeboat that automatically went to the person in greatest danger. Applicants could wait while officials demanded evidence designed for ordinary migration in circumstances that were becoming extraordinary.
+
+That difference matters because the crisis was not simply arithmetic. It was administrative priority.
+
+The strongest maritime rival for the 1930s is an American naval vessel demonstrating the country's growing preparedness, or perhaps a merchant ship tied to Depression-era trade. *St. Louis* wins because it shows state capacity through refusal rather than action. The machinery worked. The ship crossed safely. The passengers reached the hemisphere. Governments still failed to convert physical proximity into refuge.
+
+The Evian Conference the previous year had already displayed the international version of the same problem. Governments expressed concern for Jewish refugees while few offered admissions on a scale remotely proportional to the danger. Each state had reasons—economic distress, domestic opposition, restrictive law, fears of precedent. Collectively those reasons closed routes.
+
+This is where counterfactual reasoning has to be careful. Admitting the 937 passengers of one ship would not have solved the European refugee crisis. It would not have dismantled Nazi persecution. The number was tiny relative to the people seeking escape.
+
+That is not a defense of refusal.
+
+It is why the case is morally clear. Because one ship could not solve the whole crisis, accepting it would not have required pretending the United States could accept everyone. It required deciding that an emergency visible in front of the government justified an exception, accelerated processing, temporary refuge, or another lawful mechanism.
+
+The deeper institutional question is what emergency systems are for. A rule designed for ordinary migration conditions can become destructive when officials apply it mechanically to persecution. Yet unlimited discretion can become arbitrary or corrupt. The challenge is to build explicit emergency authority with accountability rather than rely on either rigid rules or heroic improvisation.
+
+The United States would later develop refugee-specific institutions partly under the shadow of wartime displacement and the Holocaust. Those later systems remained imperfect, but they acknowledged a category the 1939 process handled badly: a person may need admission because return itself is the danger.
+
+*St. Louis* belongs to the decade because it turns that principle into a ship-sized test.
+
+The passengers did not need America to predict the Holocaust in detail.
+
+They needed officials to believe the persecution already visible was serious enough to change procedure.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

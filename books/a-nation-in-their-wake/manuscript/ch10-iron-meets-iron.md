@@ -249,3 +249,27 @@ On the Pacific, steamships would introduce another one.
 Who did the newly reconstructed nation believe could become American?
 
 A ship from China would help force the answer.
+
+## The Duel Was Not the Whole Revolution
+
+A famous battle creates a misleading temptation: make the collision at Hampton Roads the instant the world's navies became modern. The evidence is messier and more interesting.
+
+European powers had already launched armored steam warships. Naval engineers were experimenting with iron, armor, shell guns, steam propulsion, and turrets before *Monitor* appeared. Wooden warships did not vanish after March 1862. Different missions continued to reward different designs.
+
+What Hampton Roads did was remove deniability for the American public and procurement system.
+
+The strongest rival for the decade is therefore not another ironclad. CSS *Alabama* could win on the economic argument. Her commerce-raiding cruise destroyed or captured scores of Union merchant vessels, drove insurance costs upward, pushed American shipping toward foreign flags, and generated postwar claims against Britain. A river gunboat such as USS *Carondelet* could win on the operational argument because control of western rivers affected major land campaigns and the Confederacy's geography.
+
+*Monitor* wins because it changed the problem every future naval planner had to solve.
+
+That is a different type of consequence from tonnage sunk. A technology can be historically important when it changes the minimum acceptable answer even if the first implementation is imperfect. After Hampton Roads, designing a first-class navy around the assumption that armor could be ignored became much harder.
+
+The ship's own loss keeps the claim honest. *Monitor* was dangerous in heavy seas and foundered before the year ended. The famous design was proof of concept, not a finished destination. The postwar Navy still had to decide among competing turret arrangements, hull forms, armor schemes, propulsion systems, and missions.
+
+The counterfactual therefore strengthens rather than weakens the choice. If *Monitor* had failed to arrive before *Virginia* returned to Hampton Roads, Union wooden ships might have suffered further losses and the psychological effect of Confederate ironclad superiority could have grown. Yet ironclad adoption would still have accelerated because the underlying technologies and threats already existed. *Monitor* mattered because it compressed learning into a nationally visible engagement and gave the Union an immediate answer when delay had become dangerous.
+
+The duel did not invent the future.
+
+It made the old procurement logic politically indefensible.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

@@ -181,3 +181,23 @@ The merchant ship goes first.
 The warship follows.
 
 That sequence will repeat in different forms for the rest of American history.
+
+## Why This Voyage, Not Just This Destination
+
+The strongest alternative for the 1780s is not another China trader. It is a ship closer to the political founding itself: a vessel carrying diplomats, war debt, or the ordinary Atlantic commerce on which the Confederation depended. Those choices would make the decade look more constitutional and less global.
+
+That is exactly why *Empress of China* wins.
+
+The voyage reveals a country whose economic geography was already outrunning its political machinery. The Articles government could not reliably tax citizens directly, interstate commercial rules remained fragmented, and the Constitution was still years away. Yet private American capital could organize a vessel, cargo, crew, insurance, and months of uncertainty around a market on the far side of the world. The asymmetry is revealing. Commercial actors were already behaving as if the United States possessed a global future before the federal state had the tools to manage one.
+
+There is a counterfactual worth testing. Suppose *Empress of China* had lost money badly, or suppose Canton merchants had shown little interest in American ginseng. The direct China trade would not necessarily have vanished. Other merchants would have kept searching for profitable routes, and the Atlantic economy was too competitive for Americans to remain permanently absent from Asian commerce. The ship is therefore not important because without her America never reaches China. She is important because the voyage lowered uncertainty at the moment a new republic most needed evidence that political separation from Britain did not require commercial isolation.
+
+That distinction also keeps the chapter from becoming a fable about entrepreneurial inevitability. Markets do not simply appear when adventurous people sail toward them. They depend on law, credit, information, trusted intermediaries, port rules, and physical protection. The first voyage could operate through improvisation. Repetition created demands for consuls, treaties, naval presence, customs administration, and better information. Private success generated public work.
+
+The sequence is the point. The United States did not become globally commercial because it first built a powerful state and then sent merchants outward. In important cases the merchants went first, encountered the limits of private capability, and gave the state reasons to follow.
+
+That makes *Empress of China* the right bridge from revolution to constitution. The previous decade asked whether the flag would be taken seriously in battle. This decade asks whether the same flag could clear a harbor, make a contract, sell an unfamiliar American product, buy what Americans wanted, and return with a profit.
+
+A republic becomes real in ledgers as well as treaties.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

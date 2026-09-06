@@ -189,3 +189,31 @@ The question was whether the people aboard her would be treated as cargo.
 The United States had spent fifty years learning how to protect the freedom of American ships.
 
 Now a ship would force it to confront the freedom of human beings.
+
+## The State Learns the Pacific Before It Owns a Pacific Coast
+
+The phrase “first U.S. naval vessel to circumnavigate the globe” risks turning *Vincennes* into a trivia answer. The voyage matters because of what had to become routine for the first to be repeatable.
+
+The ship left New York in 1826, crossed into the Pacific, protected American merchants and whalers, reached Macao, moved through the Philippines and Indian Ocean, rounded Africa, and returned in 1830. The route placed a federal warship inside commercial geographies that the United States did not politically control and, in the Pacific, did not yet border with a continental coastline.
+
+A serious rival for the 1820s is a steamboat on the Mississippi system. Those vessels probably changed more American lives immediately by compressing travel time, widening markets, and helping knit the interior into a commercial economy. They also served an expansion bound up with slavery and Native dispossession. If the book were a history of domestic transport, a river steamer would be the stronger choice.
+
+*Vincennes* wins because the chapter asks when overseas interest becomes state habit.
+
+One distant voyage can be adventure. Repeated cruises create expectations. Merchants assume protection may arrive. Officers acquire regional knowledge. The Navy accumulates charts. Consuls and captains develop relationships. Congress receives requests shaped by people who now make livelihoods in waters earlier generations treated as remote.
+
+The resulting commitments are incremental enough to escape notice. No vote declares that the Pacific has become part of American strategy forever. A series of operational decisions makes the statement indirectly.
+
+The counterfactual is revealing. If *Vincennes* had never circumnavigated, American commerce would still have expanded into the Pacific. Whalers and traders were already there. The Navy would eventually have followed. The ship's importance is therefore not causal monopoly. It is documentary clarity: this one hull makes visible how early the federal government learned to think in routes that exceeded its territory.
+
+The information gathered on voyages mattered as much as the flag. Charts, observations, corrected positions, and practical knowledge reduced uncertainty for later movement. The Navy's later surveying and scientific missions grew from the same operating need. A state that wants to move repeatedly across difficult geography eventually becomes a producer of knowledge about that geography.
+
+That is why *Vincennes* later fit naturally into the United States Exploring Expedition. The missions—protection, surveying, science, prestige—were different, but the platform and institutional competencies overlapped.
+
+A warship can carry guns and measurements at the same time.
+
+The 1820s United States remained weak by later standards, yet weakness did not prevent reach. It made reach selective. *Vincennes* shows the country beginning to convert selective reach into memory, and memory into a permanent expectation that American interests could exist anywhere American ships could profitably go.
+
+The coastline would catch up later.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

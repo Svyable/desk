@@ -263,3 +263,25 @@ Nine years later the United States would demonstrate to itself how quickly a pow
 A wooden navy could become obsolete in a day.
 
 The lesson would be delivered in iron.
+
+## The Japanese View Is Not a Footnote
+
+A ship-selection book centered on America carries a recurring risk: treating every foreign shore as scenery on which American consequences unfold. *Susquehanna* is where that habit would do the most damage.
+
+Japanese officials did not encounter Perry's squadron without context. The Tokugawa government knew Western powers were expanding in Asia. News of China's defeat in the Opium War was especially alarming because it demonstrated what happened when a maritime-industrial power could impose terms on an Asian state. Japanese scholars and officials had studied Western technology through controlled contacts for years. Perry's arrival made an external trend immediate, but it did not create Japanese awareness from nothing.
+
+That matters to the causation claim. The Meiji transformation cannot be credited to four American black ships. Internal political conflict, fiscal pressures, domain competition, intellectual currents, later treaty disputes, and many Japanese choices drove the collapse of the shogunate and the construction of the modern state. Perry is a shock inside that story, not its author.
+
+The ship still wins the decade because shocks change coalitions. *Susquehanna* supplied visible evidence that delay carried risk. Modernization advocates could point to the squadron. Defenders of the old order had to explain how coastal sovereignty would survive against machines the existing defense system could not confidently defeat.
+
+The counterfactual is therefore not “without Perry, Japan remains closed forever.” That is implausible. Russian, British, Dutch, and other pressures were already approaching. The better question is whether a different opening—slower, less coercive, led by another power—would have produced a different timetable and domestic political sequence.
+
+Probably.
+
+That is enough to make the encounter consequential without turning it into a creation myth.
+
+The American significance is equally specific. The mission established that a Pacific commercial concern could become a presidential objective carried by a modern naval squadron. Coal, sailors, diplomacy, presidential authority, and industrial hardware were coordinated across an ocean in order to alter another state's policy. The republic had moved a long way from asking whether foreign ports would recognize its merchant flag.
+
+It was now arriving with terms.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

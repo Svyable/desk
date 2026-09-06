@@ -319,3 +319,25 @@ Helicopters lifted Neil Armstrong, Buzz Aldrin, and Michael Collins aboard the c
 The most technologically ambitious journey in human history ended with sailors hauling a capsule out of the water.
 
 The Moon landing had an ocean beneath it.
+
+## Why Not Nautilus?
+
+The most formidable rival for the 1950s is USS *Nautilus*, the first operational nuclear-powered submarine. Nuclear propulsion changed undersea endurance and helped create the strategic submarine force that became central to Cold War deterrence. By the standards of technological novelty and national security, *Nautilus* has an obvious claim.
+
+*Ideal X* wins because its innovation escaped the maritime sector.
+
+Containerization changed the cost structure of trade far beyond shipping companies. It changed where warehouses were built, which urban waterfronts declined, which ports expanded, how railroads designed intermodal service, how trucking connected to ocean freight, and eventually where manufacturers could locate production relative to customers.
+
+The counterfactual is also stronger. Standardized intermodal freight would almost certainly have developed without Malcolm McLean's specific converted tanker; many organizations were experimenting with containers. But timing and system design matter. *Ideal X* demonstrated a commercially legible integration of truck bodies and ship carriage that helped accelerate investment around a common idea: reduce the number of times the goods themselves are touched.
+
+The box was not the miracle.
+
+Agreement around the box was.
+
+That makes the ship a better expression of the decade's civilian America than a breakthrough submarine. The United States was becoming a mass-consumption, highway-building, distribution-intensive economy. Containerization linked that domestic trucking world to ocean transport and eventually to a global manufacturing system.
+
+The military would exploit the system. Consumers would live inside it.
+
+That breadth gives *Ideal X* the decade.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

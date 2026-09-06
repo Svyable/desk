@@ -465,3 +465,87 @@ We draw America from the land inward because the land stays still enough for map
 The ships keep moving.
 
 Their wakes do not.
+
+## Millimeters and Billions
+
+The completed NTSB investigation made the initiating failure unnervingly small. Wire-label banding prevented one signal wire from being fully inserted into a terminal-block spring-clamp gate. The inadequate connection caused a breaker to open unexpectedly and began the blackout sequence that deprived *Dali* of propulsion and steering as the ship approached the Francis Scott Key Bridge.
+
+The scale mismatch is the chapter's final image.
+
+A connection measured in millimeters participates in a casualty measured in lives, a collapsed interstate bridge, months of disrupted traffic, emergency federal spending, port delays, insurance claims, litigation, and supply-chain consequences.
+
+Complex systems allow tiny failures to travel far when protective layers do not stop them.
+
+The NTSB's final work also pushed the analysis beyond the ship. Investigators examined the bridge's vulnerability to vessel collision and the adequacy of protections around a critical support. The lesson is not that every bridge can be engineered against every conceivable impact. It is that infrastructure standards have to evolve as the vehicles using the infrastructure change in scale.
+
+The Key Bridge opened in 1977. Container ships grew dramatically in the decades that followed. The *Ideal X* chapter described the beginning of the standardized box system. *Dali* shows what happens when the mature system meets infrastructure whose protection assumptions were formed in an earlier shipping era.
+
+That connection is why *Dali* wins the incomplete 2020s so far, despite formidable rivals. The grounding of *Ever Given* in the Suez Canal in 2021 briefly blocked one of the world's most important trade routes and revealed global supply-chain concentration spectacularly. The COVID-era cruise-ship outbreaks made vessels symbols of epidemiological risk and stranded mobility. Attacks on commercial shipping in the Red Sea have forced rerouting and revived the strategic meaning of sea-lane security.
+
+Those events are globally significant.
+
+*Dali* is more revealing for the American 250-year argument because the entire book meets in Baltimore.
+
+There is an internationally crewed merchant ship. There are standardized containers. There is a port connected to rail and highway networks. There are pilots and tug arrangements. There is electrical automation. There is aging public infrastructure. There are road workers on a night shift maintaining the physical network while most consumers sleep. There are federal investigators reconstructing seconds of failure after the fact. There are legal regimes distributing liability across owners, operators, charterers, insurers, governments, and contractors.
+
+And there is the oldest American maritime question in a new form: what institutions have to exist behind ordinary movement so that ordinary movement remains ordinary?
+
+The counterfactual cannot be reduced to the loose wire. A better-seated connection could have prevented this initiating blackout, but resilient systems are designed around the assumption that individual components will fail eventually. Additional electrical protection, different redundancy behavior, more effective bridge collision protection, or more time and distance might have interrupted the causal chain elsewhere.
+
+That is why mature safety investigations resist the phrase “the cause” when it encourages a search for one guilty part.
+
+The wire started the sequence.
+
+The disaster required a system in which the sequence could reach a bridge.
+
+## The Workers Under the Network
+
+Six highway workers died when the bridge collapsed. They were repairing pavement while Baltimore slept.
+
+Their presence changes the moral frame of the infrastructure story. Supply chains are often described through inventories, tonnage, transit time, and economic loss. Bridges and ports appear as nodes. Workers become labor inputs.
+
+Catastrophe returns names and bodies to the diagram.
+
+The people maintaining the road were part of the same system as the ship moving containers beneath them. Neither group controlled the entire risk. The ship's crew depended on electrical equipment and maintenance. The workers depended on bridge engineering, traffic controls, pilots, vessel operators, and emergency warning reaching the span in time.
+
+Modern infrastructure distributes agency so widely that most participants can do their jobs correctly and still depend on strangers doing theirs.
+
+That dependence is not a defect. It is how specialization creates prosperity.
+
+The price is that trust has to be engineered.
+
+Over 250 years, the ships in this book move from improvised sail to automated container transport. The hulls become larger, faster, more specialized, and more reliable. The systems around them become vastly more capable. They also become harder for any one person to understand end to end.
+
+The final American achievement is therefore not autonomy.
+
+It is coordination.
+
+The final American vulnerability is the same thing.
+
+A nation in their wake is a nation connected by systems whose success looks like nothing happening.
+
+A ship clears the bridge.
+
+A box reaches the warehouse.
+
+A sailor refuels.
+
+A refugee is processed lawfully.
+
+A spill never occurs.
+
+A forecast becomes a safe route.
+
+A wire stays seated.
+
+Ordinary life is the accumulated result of failures that were stopped before they became stories.
+
+This book has been about the ships that escaped that anonymity.
+
+They matter because something happened around them large enough to reveal the machinery normally hidden beneath the waterline of national life.
+
+The wake is what remains visible after the hull has passed.
+
+The country is what remains connected when it has not.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

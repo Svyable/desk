@@ -293,3 +293,29 @@ What does America discover about a system only after the system washes onto shor
 *Exxon Valdez* wins the 1980s because its 1989 grounding transformed a regional industrial disaster into a national redesign of oil-spill liability, preparedness, and tanker construction.
 
 The vessel's most consequential cargo was the regulatory architecture that followed.
+
+## The Law Followed the Oil
+
+The Oil Pollution Act of 1990 did not emerge from a regulatory vacuum. Federal law already prohibited discharges and assigned cleanup responsibilities. States had rules. Industry had contingency plans. Double-hull proposals were not invented after March 1989.
+
+The grounding changed the political threshold for accepting those arrangements as sufficient.
+
+That is why causation should be stated carefully. *Exxon Valdez* did not invent environmental liability. It made a particular category of maritime risk vivid enough to break through institutional inertia.
+
+The strongest rival for the 1980s is USS *Stark*, struck by two Iraqi Exocet missiles in the Persian Gulf in 1987. Thirty-seven American sailors were killed, and the incident exposed the risks of operating sophisticated warships in constrained waters amid ambiguous threat identification. A revitalized battleship such as USS *New Jersey* could represent the Reagan naval buildup.
+
+The tanker wins because the response changed rules applied across an industry.
+
+Liability is itself an engineering instrument. When operators expect to bear more of the cleanup and damage cost, prevention has greater financial value. When regulators require response plans that must be credible before a voyage, preparation moves earlier in the chain. When double hulls become mandatory for new vessels and single-hull tankers phase out, a disaster changes the physical architecture of future ships.
+
+That is unusual downstream reach for one casualty.
+
+The counterfactual is plausible but slower. Major oil-spill legislation probably would have strengthened eventually as environmental regulation matured and other accidents occurred. Without the scale, visibility, and public anger of Prince William Sound, the exact timing and design of the 1990 law would likely have differed.
+
+The ship therefore matters as a political accelerator with engineering consequences.
+
+The deeper point is that industrial systems often look inexpensive because tail risk is excluded from the normal transaction. A gallon of fuel at a station does not display the probability-weighted cost of a tanker grounding in Alaska. Environmental law tries, imperfectly, to push some of that hidden cost back toward the system generating it.
+
+*Exxon Valdez* made the hidden ledger visible.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

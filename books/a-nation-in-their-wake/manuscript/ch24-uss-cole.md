@@ -309,3 +309,33 @@ And the attack left a question hanging over the next eleven months:
 What does a warning look like before history agrees to call it one?
 
 USS *Cole* wins the 2000s because the 2000 attack in Aden exposed the asymmetric vulnerabilities of American global power before September 11 made them undeniable, forcing changes in force protection while revealing the harder institutional problem of turning known threats into action before catastrophe.
+
+## A Destroyer Has to Become Vulnerable to Remain Global
+
+The paradox of USS *Cole* begins with fuel.
+
+A modern warship can strike targets far away, track aircraft and missiles, communicate through global networks, and move at high speed. None of those capabilities removes the need to replenish. To remain globally present, the ship has to approach ports, tankers, boats, pilots, tugs, and local infrastructure.
+
+Power projection requires moments of intimacy.
+
+The attackers in Aden exploited one.
+
+The strongest rival for the 2000s is USS *Abraham Lincoln*, whose flight deck carried the “Mission Accomplished” banner during President George W. Bush's 2003 visit. That image became a symbol of the gap between early claims of success in Iraq and the long war that followed. USS *New York*, built partly with steel from the World Trade Center site, offers a different story about memory made physical.
+
+*Cole* wins because the attack preceded the framework through which Americans later understood it.
+
+In October 2000 there was no Department of Homeland Security, no post-9/11 intelligence reorganization, and no global war on terror. Al-Qaeda was known and dangerous, but the national-security state had not reorganized itself around transnational jihadist networks as the principal threat.
+
+That makes the incident a warning without requiring the false claim that September 11 could certainly have been prevented had leaders interpreted it differently.
+
+The counterfactual is too complex for that confidence. A larger retaliatory strike might have disrupted al-Qaeda or produced new political effects. Intelligence reforms might have improved information sharing or missed the relevant plot anyway. History does not permit a clean experiment.
+
+The operational lesson is firmer. Force protection had to treat small craft, harbor routines, standoff distance, local threat reporting, and watchstanding as parts of combat readiness rather than administrative details. A billion-dollar platform could be endangered by a comparatively cheap attack because the enemy refused to compete in the platform's preferred domain.
+
+The crew's damage-control response completes the story. Redundancy, training, and decentralized action kept the ship afloat after the blast opened a roughly forty-foot hole near the waterline. The high-technology destroyer survived through people performing basic physical tasks under terrible conditions.
+
+Resilience is what remains after the sophisticated layer breaks.
+
+That is why *Cole* belongs to the decade. It reveals both sides of American global power at once: extraordinary reach and the unavoidable exposure created by maintaining that reach.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

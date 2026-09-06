@@ -197,3 +197,37 @@ The distinction matters.
 War can force innovation.
 
 Peace has to decide whether to keep paying for it.
+
+## The Route Makes the Border
+
+A scheduled transpacific liner did something a one-time voyage could not: it made repeated arrival ordinary.
+
+That ordinariness changed law.
+
+When a ship arrives once with unfamiliar passengers, officials can treat the case as exceptional. When steamships carry people on a schedule, governments need repeatable categories. Passenger lists, certificates, inspection practices, treaty definitions, port procedures, court rules, and detention arrangements begin to harden around the traffic.
+
+SS *City of Peking* belongs to that process even though no single voyage created Chinese exclusion.
+
+The strongest rival for the 1870s is probably a ship associated with Reconstruction or western conquest, but the decade's maritime transformation is more legible in the Pacific route. The transcontinental railroad had just made the continental map feel newly connected. Pacific Mail made San Francisco part of a transoceanic circuit at the same moment. The national network was extending east and west simultaneously.
+
+That created a political contradiction. California businesses and infrastructure had benefited from Chinese labor, while a growing anti-Chinese movement described Chinese workers as a threat to wages, racial order, and citizenship. The system wanted movement and restriction at the same time.
+
+Steamships made the contradiction administrative. Exclusion is easy to advocate in a speech. Enforcement requires deciding which person standing on a deck belongs in which legal category.
+
+The Page Act of 1875 targeted entry by people deemed undesirable and was enforced especially harshly against Chinese women, often through assumptions about prostitution. The Chinese Exclusion Act followed in 1882. Together with later laws and cases, these measures helped transform the federal government into a more active immigration gatekeeper.
+
+Ports became constitutional laboratories because international arrivals forced national questions. Can a state exclude? Can the federal government? What proof of status counts? What happens to a person while the dispute is litigated? Does treaty language constrain domestic law? How does citizenship acquired by birth change the analysis?
+
+The answers built institutions that outlived the original anti-Chinese campaign.
+
+The counterfactual is straightforward. Chinese exclusion politics would have existed without *City of Peking*. The ship does not get causal credit for racism, labor conflict, or federal immigration law. It wins because the route concentrated all three. A modern American-built liner carrying Asian passengers and goods into San Francisco is the physical system around which Americans tried to write one rule for commerce and another for people.
+
+That distinction becomes even more important when placed beside *Ideal X* eighty years later. The twentieth-century United States would celebrate standardized boxes moving frictionlessly through ports while continuing to subject human movement to increasingly elaborate authorization.
+
+The nineteenth-century border was already learning that asymmetry.
+
+Goods were traffic to facilitate.
+
+Some people were traffic to stop.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

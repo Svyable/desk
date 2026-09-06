@@ -177,3 +177,25 @@ That makes her the right vessel for the next decade.
 Nations are not only changed by the systems that work.
 
 Sometimes the most revealing ship is the one that arrives before its time.
+
+## The Failure Hidden Inside a Famous Grievance
+
+The Chesapeake-Leopard affair is often useful to Americans because it casts the country as the injured party. Britain fired. Americans died. Sailors were removed. The sovereignty claim is easy to understand.
+
+Readiness makes the story less comfortable.
+
+*Chesapeake* was not a merchant vessel surprised without weapons. She was a national warship carrying guns the state had purchased precisely because maritime rights sometimes required force behind them. Yet she left port in a condition that made those guns largely irrelevant when the encounter came. The gap between ownership and readiness was not philosophical. It was visible in the inability to answer more than symbolically.
+
+That distinction matters for the selection test. USS *Constitution* could be chosen again for the 1800s because she served during the Barbary conflicts, and USS *Philadelphia* offers a dramatic story of capture and destruction at Tripoli. Those ships would make the decade about projecting power against North African states. *Chesapeake* makes it about the harder problem: how a young republic behaves when the threat comes from a much stronger power and when its own institution fails at the moment of contact.
+
+The event also supplies a counterfactual that restrains the usual road-to-war narrative. If *Chesapeake* had been fully ready and exchanged an effective broadside with *Leopard*, the immediate outcome might have been tactically less humiliating and strategically more dangerous. Americans might have celebrated resistance while both governments faced casualties that made de-escalation harder. Preparedness improves deterrence, but once violence begins it can also increase the scale of the crisis.
+
+That is why readiness cannot be separated from command judgment. A prepared ship gives leaders options. It does not choose the option for them.
+
+Jefferson's resort to economic coercion after the affair showed another limit. The United States could impose an embargo by law more easily than it could make the embargo hurt Britain and France more than American producers, merchants, sailors, and port towns. The experiment turned sovereignty inward. Instead of forcing foreign navies to respect American commerce, the government restricted American commerce itself.
+
+The failure was productive in one narrow sense: it taught the republic that economic interdependence is not automatically leverage. Leverage depends on who can absorb the interruption, how quickly trade can reroute, how enforcement works, and whether domestic political support survives the pain.
+
+Those questions recur in sanctions policy two centuries later. *Chesapeake* belongs at their early American origin because the broadside exposed the same basic problem from another angle. Rights, weapons, laws, and markets all matter. None is self-enforcing.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

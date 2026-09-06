@@ -199,3 +199,33 @@ Smoke from a ship stopped meaning fire.
 It started meaning schedule.
 
 That change in interpretation may be the quietest evidence of technological victory.
+
+## A Technology Can Be Right and a Business Can Still Be Wrong
+
+The cleanest way to overstate *Savannah* is to call the 1819 crossing the birth of transatlantic steam travel and stop there. The cleaner claim is also the less useful one.
+
+The vessel burned fuel for only part of the crossing. She retained a full sailing rig. She did not create a profitable scheduled steam service between America and Europe. Her machinery was removed after the experiment. In commercial terms the system that later conquered ocean travel was not ready.
+
+That is exactly the point of choosing her.
+
+The stronger rival for the decade is one of the steamboats transforming American rivers, where propulsion independent of current created immediate economic value. River steam changed settlement and trade at scale earlier than ocean steam did. If the criterion were measured domestic economic impact inside the 1810s alone, the riverboat probably wins.
+
+*Savannah* wins the book's decade because it exposes a more durable problem: how to recognize a technology whose engineering trajectory is correct while its first business model is premature.
+
+Several variables had to move together. Engines had to become more efficient and reliable. Fuel networks had to spread. Hull design had to adapt. Marine engineering had to become a profession. Investors had to believe regular service could attract passengers, mail, and cargo. Ports needed coal and repair capacity. Insurance and operating experience had to turn an unfamiliar risk into something that could be priced.
+
+No single inventor controlled that stack.
+
+This is why first-mover stories are so often misleading. A pioneer pays to discover which complements do not yet exist. Later entrants inherit the information, buy improved machinery, and operate in a market whose customers have already learned what the new service can do. The first firm may fail while the technology succeeds magnificently.
+
+There is also a strategic implication hidden in the economics. Steam exchanged dependence on weather for dependence on fuel. A sailing navy needed wind and skilled seamanship. A steam navy needed coal in the right places, which meant agreements, depots, colliers, and foreign ports. Greater tactical control created a larger logistical system behind it.
+
+That pattern will recur throughout the book. Containerization reduces cargo-handling friction and increases dependence on standardized terminals. Nuclear propulsion increases endurance and raises the specialization of maintenance. Digital navigation improves information and creates new questions about software, sensors, power, and human interpretation.
+
+The new technology does not remove dependency. It chooses a different dependency.
+
+*Savannah* is therefore most important not as the victorious ancestor of every later steamship but as a failed hybrid that makes transition visible. Her paddle wheels and sails coexist because technological eras overlap. The future rarely replaces the past on the day a demonstration works.
+
+For a while, the future has to carry the past with it.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

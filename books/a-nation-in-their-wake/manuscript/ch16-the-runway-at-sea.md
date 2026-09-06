@@ -271,3 +271,31 @@ In 1939 the country faced a different test of state capacity: whether it would u
 Power is not measured only by what a country can reach.
 
 It is measured by what it chooses to receive.
+
+## The Carrier Was Not Born at Lexington
+
+The first American aircraft carrier was USS *Langley*, converted from the collier *Jupiter* and commissioned as a carrier in 1922. Any chapter that presents *Lexington* as the beginning of American carrier aviation would be wrong.
+
+*Langley* is the strongest rival for the decade precisely because she establishes the first. She allowed the Navy to learn basic flight-deck operations, carrier landings, handling, and procedures on a platform whose experimental character was explicit.
+
+*Lexington* wins because she changes the scale of the experiment.
+
+A small converted collier can demonstrate that aircraft can operate from a moving deck. A large fast carrier forces the Navy to ask what happens when aviation becomes a major component of fleet power. More aircraft mean more deck cycles, fuel, maintenance, spare parts, munitions, pilots, radios, and command decisions. Scale turns a trick into an institution.
+
+The treaty origin adds another reason. The hull had been intended for a battlecruiser because that was where prestige and capital investment were flowing. Arms control made the original form less useful and permitted conversion. The Navy received a platform large enough to explore a different future because diplomacy stranded an expensive piece of the old one.
+
+That kind of path dependence matters in technology. Organizations rarely design the future on a clean sheet. They inherit sunk costs, treaties, buildings, skills, appropriations, and partially completed hardware. Innovation often begins by asking what the old investment can become.
+
+The counterfactual is therefore practical. Without the Washington Treaty, *Lexington* might have entered service as a battlecruiser, and American carrier experimentation would have relied more heavily on smaller platforms until new construction caught up. Carrier aviation still advances, but the Navy loses years of experience operating a very large air group at sea.
+
+Those years mattered because the next war did not allow time for basic experimentation.
+
+Peacetime exercises supplied failures without enemy fire. Deck crews learned sequencing. Aviators learned navigation and recovery. Commanders learned that the carrier's striking range made scouting and information central. The Navy did not emerge from the 1920s with perfect doctrine, but it entered the 1940s with a professional community that had already made and corrected mistakes.
+
+That is why *Lexington* is more important than being first.
+
+First proves possibility.
+
+Scale teaches consequences.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

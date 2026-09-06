@@ -349,3 +349,33 @@ A safety manual can prescribe a response.
 The physical system still needs enough margin to survive the mistake.
 
 *El Faro* wins the 2010s because its loss showed that the information age had not solved the oldest maritime problem: people still have to decide what the information means before the sea makes the decision for them.
+
+## The Forecast Was Not the Same as the Decision
+
+The sinking of *El Faro* is sometimes summarized as a weather-information failure. That is incomplete.
+
+The ship had access to weather information, but information arrived through different products, at different update intervals, with different levels of detail. The captain's route decisions, the timing of updates, the interpretation of Hurricane Joaquin's movement, propulsion reliability, flooding, and the ship's condition interacted.
+
+The NTSB's final finding centered on the captain's insufficient action to avoid the hurricane, failure to use the most current weather information, and late decision to muster the crew. Those findings matter because they distinguish data availability from operational use.
+
+A system can possess the right information somewhere and still act on an obsolete model.
+
+The strongest rival for the 2010s is a Navy ship associated with a collision or operational failure, such as USS *Fitzgerald* or USS *John S. McCain* in 2017. Those accidents produced major reviews of training, watchstanding, fatigue, and surface-force readiness. They would make the decade about military operational tempo.
+
+*El Faro* wins because the casualty connects commercial shipping, aging hardware, hurricane forecasting, corporate decision-making, regulatory oversight, and black-box evidence in one event.
+
+The voyage also complicates a modern faith in better data. Forecasting technology had improved dramatically since earlier maritime disasters. Satellites watched the storm. Models existed. Communications systems moved forecasts to ships.
+
+Better prediction did not guarantee a safer outcome.
+
+This is not an argument against data. It is an argument about the final mile between information and authority. Someone has to decide whether the forecast justifies slowing, diverting, or accepting commercial cost. That decision occurs inside organizational incentives, schedules, confidence, hierarchy, and uncertainty.
+
+The voyage data recorder gave investigators unusual access to that human process. Bridge audio preserved discussions and changing conditions with an intimacy older wreck investigations rarely possess. The record made clear that catastrophe develops through sequences of ordinary decisions before the final emergency.
+
+The counterfactual is therefore procedural. A different route decision made earlier could likely have placed the ship farther from the hurricane's most dangerous conditions. Once propulsion was lost and flooding worsened in extreme weather, options narrowed brutally.
+
+Safety margins are most valuable before they feel necessary.
+
+That is the lesson the ship carries into the next decade. *Dali* will lose propulsion near a bridge with almost no time to recover. *El Faro* had more time, more distance, and more weather information. The tragedy came from not converting those resources into sufficient margin while margin still existed.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

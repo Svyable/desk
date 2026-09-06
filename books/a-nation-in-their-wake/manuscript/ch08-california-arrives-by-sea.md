@@ -189,3 +189,33 @@ The other carried a letter from the president and guns into the waters of a sove
 Infrastructure and empire often share machinery.
 
 The difference is who gets to say no.
+
+## A Gold Rush Is a Logistics Shock
+
+The usual visual grammar of the California Gold Rush is individual: a miner, a pan, a claim, a wagon heading west. The economic reality was collective and logistical. Tens of thousands of people moved toward a region whose housing, food supply, tools, transport, money, courts, docks, and local government had been built for a much smaller population.
+
+Gold created wealth underground and scarcity everywhere else.
+
+That is the condition in which SS *California* becomes historically useful. The steamer did not discover gold and did not carry the first migrants to the territory. It represented something more durable: a scheduled system trying to form around a demand shock whose size had not existed when the vessel was ordered.
+
+The strongest rival for the 1840s is USS *Princeton*, the technologically innovative warship whose 1844 gun explosion killed Secretary of State Abel Upshur and other prominent officials, altering presidential politics and the Texas annexation context. Another is a naval vessel from the Mexican-American War, which would make the decade about conquest rather than integration.
+
+*California* wins because acquisition is only the first half of territorial power. The second half is connection.
+
+A government can sign a treaty in Washington in a day. It cannot instantly make mail cross a continent, make courts function, provision troops, move settlers, or create a market. Before the transcontinental railroad, steamship links through Panama and around South America helped perform that connective work. The Pacific coast became administratively American partly through routes that left American territory for most of their length.
+
+The odd geography matters. It demonstrates that networks do not honor the visual simplicity of maps. The shortest political line is not necessarily the fastest transport line. Panama became strategically important to the United States because a narrow foreign isthmus could reduce the effective distance between two American coasts.
+
+That logic would eventually justify a railroad, diplomatic pressure, intervention, and the canal.
+
+There is also a labor consequence hidden in the arrival scene. San Francisco's demand for workers rose so quickly that sailors abandoning ships for the mines became part of the port's problem. The transport system delivered people into an economy whose opportunity could then strip the transport system of labor. Growth consumed the capacity that enabled growth.
+
+Boom economies still behave this way. Housing contractors cannot build quickly because construction workers cannot afford local housing. Logistics hubs struggle to hire because logistics growth raises regional costs. Infrastructure projects attract workers while competing with the services those workers need.
+
+The counterfactual helps establish the ship's importance. California would have boomed without SS *California*. Other ships and overland routes would have carried migrants. The vessel wins because it makes federal-private coordination visible at the moment the Pacific coast became an urgent national systems problem. A mail contract, a private company, a steamship, and a mineral discovery converged into a network the federal government would spend generations making faster.
+
+The Gold Rush did not merely fill California.
+
+It pulled the country toward the infrastructure required to keep California attached.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

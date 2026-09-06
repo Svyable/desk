@@ -297,3 +297,35 @@ On July 24, 1969, the Moon landing came home through a Navy flight deck.
 That was not an afterthought.
 
 It was the final stage of the mission.
+
+## Recovery Was a Design Requirement, Not a Ceremony
+
+NASA's public objective was not merely to land people on the Moon. Kennedy's formulation included returning them safely to Earth. The last verb changed engineering all the way down.
+
+A capsule that splashed into the Pacific needed flotation, location beacons, recovery forces, medical procedures, weather forecasting, communications, and contingency plans. For Apollo 11, bad weather forced managers to move the planned splashdown point by roughly 250 miles. USS *Hornet* had to reposition and still arrive where the spacecraft would come down.
+
+That is operational infrastructure responding to a changing input.
+
+The recovery sequence was precise. Aircraft established contact. Swimmers stabilized the command module. The astronauts donned biological isolation garments, transferred by raft and helicopter, and entered the Mobile Quarantine Facility aboard the carrier. *Columbia* was lifted aboard later, connected through a controlled transfer arrangement, and handled as part of the same back-contamination protocol.
+
+The quarantine precautions eventually proved unnecessary, but uncertainty made them rational at the time. NASA could estimate that lunar pathogens were unlikely and still decide the cost of being wrong justified containment.
+
+That is a useful contrast with several disaster chapters later in the book. High-reliability systems do not wait for certainty that a hazard exists before considering how to isolate it. They ask what failure would cost and how cheaply a protective layer can be added.
+
+The strongest rival for the 1960s is USS *Enterprise*, the first nuclear-powered aircraft carrier, commissioned in 1961. She embodies the decade's military technology and the global reach of American naval aviation. A Polaris ballistic-missile submarine could make an even stronger case for strategic importance because sea-based nuclear deterrence reshaped superpower stability.
+
+*Hornet* wins for a different reason: she reveals the hidden stack under the decade's most celebrated nonmilitary achievement.
+
+The carrier was old relative to Apollo. Her hull belonged to World War II. Her recovery mission depended on Cold War helicopters, communications, medical knowledge, weather forecasting, and naval experience. The Moon landing came home through infrastructure accumulated for other purposes.
+
+That is how national capacity often works. A new program does not build every supporting capability from zero. It rents competence from institutions whose original missions are different.
+
+The counterfactual makes the ship's role appropriately modest. If *Hornet* had been unavailable, another carrier and recovery force could have performed the mission. The ship is not irreplaceable. The capability is.
+
+That is precisely why she belongs in this book. A mature state proves strength when extraordinary success does not depend on one irreplaceable object. The Navy could assign a platform, train the crew, move it toward the target, adapt to weather, recover the astronauts, handle quarantine, and return the system to ordinary service.
+
+The Moon landing looked singular.
+
+Its recovery was deliberately repeatable.
+
+<!-- PUB-AUGMENT-2026-09-06 -->

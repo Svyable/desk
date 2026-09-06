@@ -265,3 +265,27 @@ Woodrow Wilson would discover that global connection also meant distant wars cou
 A nation can send ships into the world.
 
 It cannot guarantee the world will leave those ships alone.
+
+## The Fleet Was Also an Audit
+
+A world cruise is a performance only if the performers can finish it.
+
+That gave Roosevelt's spectacle an operational edge. Sixteen battleships moving together over great distances created demands that home-station exercises could conceal. Coal had to arrive before bunkers emptied. Machinery had to survive sustained use. Crews had to remain healthy and disciplined. Port visits had to be coordinated with diplomacy. Repairs had to be managed without dissolving the schedule.
+
+The fleet therefore tested the support architecture behind the battleship image.
+
+That is why *Connecticut* beats USS *Louisiana* or another individual member of the force: the flagship is shorthand for a system whose real unit of analysis is the fleet and its logistics. A single battleship could be impressive in harbor. Sixteen moving around the world asked whether American industrial power could remain coherent at distance.
+
+The strongest counterfactual concerns the Panama Canal. Had the canal already been open, the fleet's transit between oceans would have been easier and the logistical lesson less stark. Going around South America forced the United States to experience the strategic cost the canal was intended to remove. The cruise became an accidental advertisement for infrastructure still under construction.
+
+It also showed that military demonstrations have multiple audiences. Japan mattered, but so did Congress, American voters, allies, shipbuilders, naval officers, and other governments deciding how seriously to treat American claims. A signal is never received by only the audience named in the strategy memo.
+
+That makes the white paint more than decoration. The fleet needed to look peaceful enough for ceremony and armed enough for inference. Roosevelt wanted presence to perform coercive work without producing the crisis an overt threat might create.
+
+The distinction is fragile.
+
+A force sent to reassure one government can alarm another. A deployment intended for foreign consumption can become domestic political theater. An exercise meant to prove readiness can expose maintenance problems. Presence is communication, but the sender does not control every interpretation.
+
+The Great White Fleet succeeded partly because it gave the United States evidence about itself.
+
+<!-- PUB-AUGMENT-2026-09-06 -->
