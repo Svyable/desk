@@ -289,3 +289,77 @@ The product improves if information can cross the boundary in both directions.
 That is why the most valuable early customer may not be the one who praises the product.
 
 It may be the one who breaks it carefully enough that everyone understands why.
+
+The economics of failure become even clearer when the customer is an institution rather than a person.
+
+A person can submit a bug and move on. An institution has to absorb the bug into operations. The failure may create a ticket, but it may also create a new approval step, a fallback process, a training note, a vendor-management meeting, a legal review and a line in the next procurement contract.
+
+One defect can generate an organizational response larger than the defect itself.
+
+That response is information too.
+
+Suppose a new analytics tool works well except during the monthly close, when a dependency times out under the company’s heaviest workload. Engineering can fix the timeout. Finance learns that the tool needs a fallback during close. Procurement learns to ask future vendors about peak-load guarantees. The vendor learns that “average uptime” was the wrong measure for this customer. Another customer later receives a product and a contract shaped by the first customer’s bad Tuesday.
+
+The failure has propagated into institutions.
+
+This propagation is one reason serious industries accumulate checklists.
+
+A checklist often looks bureaucratic from the outside because the incident that created each line has disappeared. Someone once learned the expensive way that a backup had never been restored, that a supplier certificate was stale, that an alarm was inaudible in protective equipment, that an interface silently rounded a value, that a shift change lost ownership of an abnormal condition.
+
+Mature operations are full of fossilized bug reports.
+
+Early adoption accelerates fossil formation because unfamiliar systems encounter old organizations whose routines were built around different assumptions.
+
+The new product does not have to be defective in a narrow sense. It can simply collide with an established process.
+
+A cloud service can be reliable but incompatible with a company’s incident-response model.
+
+A machine can perform its core task perfectly but require maintenance skills the local labor market lacks.
+
+An AI assistant can produce accurate answers while creating ambiguity about who is authorized to act on them.
+
+The mismatch appears first as inconvenience.
+
+If the adopter is paying attention, inconvenience becomes a design requirement.
+
+This is why the best launch customers often maintain two ledgers.
+
+One records product defects.
+
+The other records adoption defects.
+
+Product defects ask what the vendor must fix.
+
+Adoption defects ask what the customer must change.
+
+The distinction prevents a common failure of early deployments in which each side blames the other for every friction. The vendor says the customer’s process is old. The customer says the product is immature. Both can be right.
+
+Technological adoption is partly the work of deciding where the interface between them should move.
+
+Sometimes the vendor should adapt.
+
+Sometimes the customer should.
+
+Sometimes the friction reveals that the supposed improvement is not worth its organizational cost.
+
+That last outcome belongs in the bug report economy too.
+
+A failed pilot can be valuable when it kills a bad idea cheaply.
+
+The producer may prefer a story in which every experiment becomes expansion, but the social value of experimentation includes stopping. A customer that discovers the new system creates more supervision than it removes has learned something real. An organization that learns a process cannot be automated safely with the available technology has not wasted the pilot if it preserves the evidence and avoids a larger failure.
+
+The return path can therefore end in no.
+
+That possibility makes the feedback trustworthy.
+
+A system in which every bug report becomes a reason to invest more is not learning.
+
+It is fundraising.
+
+Real learning permits the product to lose the argument.
+
+That is why the early adopter’s most useful contribution may be neither praise nor complaint.
+
+It may be a clear boundary: this works here, fails there, and should not be asked to do more until something changes.
+
+Those boundaries are what turn experimental technology into reliable infrastructure.
