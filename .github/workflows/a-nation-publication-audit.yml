@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   manuscript-gates:
@@ -15,6 +15,25 @@ jobs:
     steps:
       - name: Check out branch
         uses: actions/checkout@v4
+        with:
+          ref: book/a-nation-in-their-wake
+
+      - name: Apply idempotent publication augmentation
+        run: python3 scripts/tmp-augment-a-nation.py
+
+      - name: Commit augmentation if needed
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git diff --quiet -- books/a-nation-in-their-wake/manuscript; then
+            echo "No manuscript augmentation changes needed."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add books/a-nation-in-their-wake/manuscript
+            git commit -m "Augment A Nation in Their Wake to publication depth"
+            git push origin HEAD:book/a-nation-in-their-wake
+          fi
 
       - name: Chapter word counts
         shell: bash
