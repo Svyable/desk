@@ -369,3 +369,33 @@ That is the new company town.
 It is not built around where the workers live.
 
 It is built around where the electrons arrive.
+
+A publication-ready local bargain needs one more ledger: **concentration risk**.
+
+A county can measure how much revenue comes from the industry, how much comes from one operator, how much depends on equipment whose assessed value may decline, and how much recurring public spending assumes that revenue persists. The exercise is not anti-growth. Banks stress-test borrowers they hope will succeed. Local governments can stress-test taxpayers they hope will stay.
+
+The useful questions are simple.
+
+What happens to the operating budget if data-center revenue falls twenty percent?
+
+How much of the windfall is funding permanent salaries rather than one-time capital?
+
+How much debt was issued on the assumption that later phases of a campus would be built?
+
+Does the locality have reserves large enough to absorb a project cancellation without immediately raising taxes on everybody else?
+
+Could another industrial use occupy the site and use the electrical infrastructure if the original operator leaves?
+
+Those questions turn fiscal dependence into something governable.
+
+They also create a better use for host-community agreements. Instead of negotiating only the visible impacts of the first construction phase, a locality can negotiate **lifecycle obligations**: decommissioning or redevelopment responsibilities, noise and water performance over time, road restoration, reporting on delayed phases, and perhaps community payments that change if the project under-delivers against commitments used to justify public support.
+
+The point is not to make development riskless. It is to keep the public from underwriting a private master plan without knowing which parts are contractual and which are aspiration.
+
+There is a symmetrical benefit for the company. Clear local rules reduce political volatility. A developer that knows the noise standard, water requirements, road obligations, tax treatment, and expansion conditions before investing can price the project more accurately. Predictable governance is an economic-development asset too.
+
+The best host community is therefore not the place that says yes most cheaply.
+
+It is the place where both sides know what the yes means for twenty years.
+
+That is how the new company town avoids repeating the oldest mistake of the old one: confusing dependence with partnership.
