@@ -164,7 +164,7 @@ Perhaps a vendor model becomes unavailable.
 
 Perhaps a court orders a category of automated processing suspended while a legal question is resolved.
 
-The minister says, "Humans will take over."
+The minister says, “Humans will take over.”
 
 Can they?
 
@@ -310,6 +310,60 @@ AI can increase that capacity dramatically.
 
 That makes preserving recoverability more important, not less.
 
+The same logic applies to **appeal**.
+
+An automated process can be fast and fair on average and still require a credible path for the person whose case falls outside the average.
+
+An appeal is not meaningful merely because a button says appeal.
+
+Who reads it?
+
+Can that person see the primary evidence?
+
+Can the reviewer depart from the machine's framing?
+
+Can the agency execute the corrected outcome without routing the correction back through the same flawed system?
+
+How long does the correction take?
+
+Does the original decision continue causing harm while review is pending?
+
+These are re-entry questions at the scale of one citizen.
+
+A functioning appeal is a miniature human return path.
+
+It allows public authority to re-enter an automated case, reconstruct what happened, and make a different outcome real.
+
+If the appeal system merely asks another model to reconsider the first model's output under the same data and policy, the state may have created procedural repetition rather than contestability.
+
+Machine assistance can strengthen appeals. It can gather records, translate documents, identify conflicting precedents, and help reviewers find unusual facts. The critical feature is that the reviewer retains a route outside the original machine judgment.
+
+This is **procedural re-entry**.
+
+The phrase matters because public control is often distributed through procedure rather than direct command.
+
+Notice.
+
+Hearing.
+
+Reason.
+
+Record.
+
+Appeal.
+
+Review.
+
+Judicial remedy.
+
+These mechanisms are slow partly because they allow a person to contest the state's interpretation of the person.
+
+AI can make procedure faster without making it thinner.
+
+It can also make procedure look intact while moving its substance into machine-to-machine review.
+
+The difference will matter more than whether a human name remains at the bottom of the letter.
+
 The most dramatic form of the state-behind-the-interface problem appears in emergency response.
 
 Disasters generate more information than humans can absorb.
@@ -442,6 +496,44 @@ If those functions matter, they need a deliberate replacement.
 
 Otherwise efficiency can spend institutional memory as though it were free.
 
+A public institution also differs from a firm because some forms of **provider exit are morally unavailable**.
+
+A company can stop serving an unprofitable niche.
+
+The state often cannot abandon a citizen because the citizen is expensive to process.
+
+A machine system optimized for throughput may naturally improve the easy majority first. The difficult cases consume more time, more evidence, more ambiguity, and more human review.
+
+Those are precisely the cases where public legitimacy is often tested.
+
+The re-entry architecture should therefore be designed around the tails, not only the average case.
+
+Can the institution handle the person with missing documents?
+
+The person whose records conflict?
+
+The person without digital access?
+
+The person whose language is poorly supported?
+
+The person who does not fit the model's normal categories?
+
+The person whose legal right turns on an unusual fact?
+
+If the automated state works beautifully for ninety-eight percent and has no resilient route for the remaining two percent, the missing capacity is not a rounding error. It is part of the constitutional function.
+
+This makes **manual contingency** different in government from nostalgia for an old workflow.
+
+The manual path may be the path through which equality before the law remains operational for unusual cases.
+
+It may be small.
+
+It may be specialized.
+
+It may itself use AI assistance.
+
+It needs to remain genuinely capable of producing an outcome the primary automated system would not.
+
 The autonomous state also raises a democratic tempo problem.
 
 Democracy is not optimized for immediate adaptation.
@@ -466,7 +558,7 @@ An agentic administrative system can execute policy changes instantly across mil
 
 That can make government responsive.
 
-It can also make democratic correction arrive after the consequences have propagated.
+It can also make democratic correction arrive after consequences have propagated.
 
 A policy parameter changes on Friday.
 
@@ -541,6 +633,8 @@ They can train human teams.
 They can preserve independent data access.
 
 They can test outages.
+
+They can preserve appeal systems able to depart from the machine's frame.
 
 They can avoid giving one vendor or model family control over action, monitoring, and explanation.
 
