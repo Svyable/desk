@@ -150,6 +150,10 @@ It is yesterday.
 
 Then yesterday disappears.
 
+The disappearance is usually an adaptation problem rather than an installation problem. An organization can deploy an agent and remain perfectly capable of operating without it. Dependence thickens later, when the organization changes staffing because the agent exists, promises customers a service level that assumes machine throughput, redesigns interfaces for machine consumption, negotiates contracts around machine response times, and stops paying to preserve capacity it no longer uses. Adoption creates the option. Adaptation can retire the option of going back.
+
+This distinction matters because it changes what should be measured. Counting agents tells you how much automation has been installed. It does not tell you how much independent operating capacity has survived around them. A heavily automated institution can remain re-enterable if it preserves practiced fallback, independent observability, and enough time to use both. A lightly automated institution can become surprisingly captive if one narrow automated function sits at the only point through which the rest of the organization can see or act.
+
 This is where the word *immanent* does its work.
 
 The threat is not a machine army forming on the other side of a wall.
@@ -225,6 +229,10 @@ If an agent has become the dispatcher for a continent-scale logistics network, t
 The second distinction is between **authority** and **tempo**.
 
 A human can possess the right to decide and still be unable to decide quickly enough.
+
+Formal authority is therefore only one stock of control. Operational capability is another. The chief executive may retain every legal power while the people, interfaces, credentials, practiced knowledge, and spare capacity required to exercise those powers have decayed. Nothing has been stolen from the org chart. Something has disappeared from the institution.
+
+The gap becomes decisive when time is short. A fallback that restores human operation in six hours may be excellent for a process whose important commitments settle tomorrow. It is ceremonial for a process whose consequential state changes in seconds. Re-entry is not merely a capability. It is a capability with a deadline set by the system being governed.
 
 This already happens in cybersecurity. An automated attack can scan, probe, exploit, move laterally, or rotate infrastructure faster than a human team can investigate every event. The response is more automation. Detection systems block traffic. endpoint systems isolate machines. cloud systems revoke credentials. security platforms correlate alerts and open or close incidents.
 
@@ -373,6 +381,10 @@ The argument of this book is not that the threshold is inevitable.
 It is that the threshold exists whether or not we choose to measure it.
 
 And the most dangerous time to notice a lost fallback is after the system has asked you to use it.
+
+Automation can also push in the opposite direction. It can make state more legible, keep better records, run recovery simulations cheaply, detect anomalies sooner, preserve procedural knowledge, and give operators more practice with rare conditions than an unaided organization could afford. A machine layer that produces those gains while the institution keeps an independent route to them can make re-entry easier rather than harder.
+
+The risk appears when the gains are consumed. Better observability becomes justification for fewer operators. Better simulation becomes a substitute for exercising the real fallback. Faster recovery supports tighter staffing and less spare capacity. The technology creates resilience, and the institution spends the resilience on efficiency until the margin is thin again. Whether automation strengthens or weakens control depends partly on what the organization does with the capacity it frees.
 
 That is why *imminent* belongs in the title too.
 
