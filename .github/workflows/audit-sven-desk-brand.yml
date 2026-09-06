@@ -1,0 +1,28 @@
+name: Audit Sven Desk branding
+
+on:
+  push:
+    branches:
+      - brand-sven-desk-public-surfaces
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: brand-sven-desk-public-surfaces
+          fetch-depth: 1
+      - name: Find legacy public branding
+        run: |
+          echo '=== Svyable Desk / Svyable books ==='
+          git grep -n -I -E 'Svyable Desk|Svyable books' || true
+          echo
+          echo '=== Sven Benson without Hardy ==='
+          git grep -n -I -E 'Sven Benson' -- ':!books/**' ':!.github/**' || true
+          echo
+          echo '=== Svyable Shelf ==='
+          git grep -n -I -E 'Svyable Shelf' -- ':!books/**' ':!.github/**' || true
