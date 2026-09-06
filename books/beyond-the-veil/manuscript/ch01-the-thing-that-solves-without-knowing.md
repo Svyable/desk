@@ -16,6 +16,60 @@ Strip away the romance, however, and the interesting fact survives.
 
 A system with no central planner changed its own geometry in response to local conditions and resource locations. It reinforced useful paths, abandoned less useful ones, and arrived at a network that performed well under several competing constraints. The organism did not merely grow. Its growth was conditional. The pattern it produced depended on the problem it encountered.
 
+The mechanism makes the result more interesting, not less.
+
+*Physarum* in its plasmodial stage is one giant cell containing many nuclei. Material moves through a network of tubes. Rhythmic contractions drive internal flow. Paths carrying useful traffic can be reinforced while less useful paths shrink. The precise biology is richer than any one engineering summary, but the broad consequence is easy to see: the organism can redistribute the physical capacity of its own network according to what that network is doing.
+
+This is different from laying down a complete plan and then building it.
+
+The plan, if that word is allowed at all, exists only in the changing relationship between local flows and the structure that carries them.
+
+The researchers did something revealing after watching the organism. They abstracted the behavior into a mathematical network rule. Links that carried more flow could strengthen; links carrying less could decay. Repeated locally, that kind of rule could generate efficient networks without a central algorithm explicitly enumerating every possible design and choosing one.
+
+The engineering lesson was not that railway agencies should hire slime molds.
+
+It was that distributed adaptation can search a design space physically.
+
+That phrase—search a design space—sounds suspiciously intellectual. It is worth slowing down again.
+
+A search need not contain a symbolic list of alternatives. Natural selection searches in one sense without imagining possible species. A chemical reaction explores configurations without contemplating chemistry. A river finds a route downhill without testing hypotheses. The danger is using the language of search so loosely that every unfolding physical process becomes a mathematician.
+
+The useful distinction is what happens when the world pushes back.
+
+A river follows constraints, but if its channel changes we do not generally expect the water to preserve information about a prior successful route in order to improve a later routing decision. A soap film can form a minimal-looking surface, but the elegance comes from physical law operating on the present configuration. A crystal can repair some defects because its local interactions favor a lattice. None of these facts needs a cognitive category.
+
+*Physarum* becomes more interesting because the geometry is part of a living control problem. The network exists to move resources through the organism. The organism changes the network while using it. Past flow affects present structure; present structure affects future flow. If resources move, the pattern can reorganize. If a route becomes costly, material can be reassigned. The system does not merely fall into one low-energy shape and stop. It remains active inside a changing environment.
+
+This does not prove intellect by declaration. It tells us what stronger evidence would have to look like.
+
+One attractive pattern is weak evidence.
+
+A family of conditional responses is stronger.
+
+A pattern that survives one configuration may be coincidence. A system that repeatedly reorganizes when resources, obstacles, or costs change begins to reveal a policy rather than a pose. The word *policy* is another borrowed term, but here it means something modest: a repeatable relationship between conditions and responses.
+
+This book will return to that standard again and again. If we want to talk about competence without consciousness, we should care less about a single spectacular outcome and more about counterfactual behavior.
+
+What would the system do if the food moved?
+
+What would it do if one connection failed?
+
+What happens after repeated exposure?
+
+Does a prior state change the next response?
+
+Can the system preserve performance when the easiest route disappears?
+
+A photograph of order is easy to anthropomorphize. A perturbation experiment is harder to fool.
+
+That is one reason the earlier maze experiments with *Physarum* mattered. When the organism was allowed to spread through a maze and food sources were positioned at separated locations, the initially distributed network could be pruned until a relatively short connection remained between the food. Popular accounts sometimes turn this into a cartoon of a slime mold “solving a maze” the way a rat might. The safer description is still remarkable: growth, flow, and pruning produced a functional path through a constrained geometry without a nervous system.
+
+Later work on habituation made the case stranger in a different way. Repeated exposure to an innocuous but aversive condition could reduce avoidance, with features researchers used to distinguish habituation from simple exhaustion. That evidence belongs later in the book because it raises separate questions about learning and memory. For now it serves as a warning against freezing the organism into one famous Tokyo image.
+
+The network is not the whole story.
+
+The organism changes with experience.
+
 We have been trained to reserve a special kind of respect for behavior that comes with an explanation attached.
 
 A human engineer sketches alternatives, estimates cost, discusses redundancy, models passenger demand, and can tell you why one route should be preferred to another. The explanation is part of what convinces us that intelligence occurred. We see an internal model leaking into language.
@@ -49,6 +103,32 @@ No single item is magical. Homeostatic control, after all, is common in biology 
 The more interesting systems are not simply stable. They are conditional.
 
 They keep score.
+
+There is another boundary worth drawing before the phrase *non-sapient intellect* has a chance to escape into everything.
+
+Competence is domain-bound.
+
+The slime mold’s success in a transport problem does not imply that it could recognize a face, infer a motive, add two numbers, or distinguish a joke from a threat. Human beings are impressed by generality because our own cognition travels unusually far between domains. We can use language to turn one problem into another, carry abstractions from geometry into physics, or apply a lesson from a game to a negotiation. That flexibility is one part of what makes human intelligence distinctive.
+
+Evolution rarely promises generality.
+
+It rewards workable behavior in particular environments. A bacterium can be exquisitely competent at chemotaxis and useless at a chessboard. An immune system can discriminate molecular patterns while having no concept of space. A slime mold can reallocate a transport network without possessing anything resembling a general theory of networks.
+
+Calling these systems competent should therefore make our language more precise, not more flattering.
+
+The question is not whether a slime mold is “smart.”
+
+The question is which problem class its physical organization can handle, how flexibly, at what cost, and under which perturbations.
+
+That formulation changes the burden of proof. It replaces applause with measurement.
+
+Suppose two systems generate similarly efficient networks. One does so through a fixed physical relaxation that always produces the same kind of pattern from the same immediate boundary conditions. The other carries state from prior conditions, reallocates capacity as resource use changes, and alters later behavior after repeated exposure. The final diagrams might look alike. The internal histories would not.
+
+From a distance, appearance can hide the difference.
+
+That will become an astronomical problem later.
+
+A telescope often gives us outcomes rather than mechanisms. We see a spectrum, a light curve, a distribution of temperature, perhaps a seasonal change. We do not get to lift the lid and interrupt an ion channel. If non-sapient intellect is to become more than a terrestrial metaphor, we will eventually need to ask which kinds of remote observation can distinguish a living adaptive process from a beautiful passive one.
 
 The slime mold is a useful opening case because it is visually obvious enough to disrupt intuition but modest enough to keep us honest. Nobody needs to believe that *Physarum* is conscious to notice what it can do. In fact, assuming consciousness would weaken the argument by adding a claim we do not need.
 

@@ -2,7 +2,7 @@
 
 There is a photograph of a flower taken in ultraviolet light that can make a familiar garden look suddenly designed for someone else.
 
-Patterns appear where human vision saw a uniform petal. Dark centers become landing guides. Contrasts emerge that were present all along but absent from the world as we experienced it.
+Patterns appear where human vision saw a uniform petal. Contrasts emerge that were present all along but absent from the world as we experienced it.
 
 Nothing about the flower changed.
 
@@ -14,7 +14,7 @@ It is not a wall around hidden intelligence. It is the combination of our senses
 
 Every organism lives inside some version of this problem.
 
-Sensory ecologists use the old term *Umwelt* for the perceptual world relevant to an organism. Different species sample different portions of the physical environment. Their receptors differ. Their nervous systems differ. Their bodies differ. Their evolutionary problems differ. A signal that dominates one animal’s world may not exist phenomenologically for another.
+Sensory ecologists use the old term *Umwelt* for the perceptual world relevant to an organism. Different species sample different portions of the physical environment. Their receptors differ. Their bodies differ. Their nervous systems, where they have them, differ. Their evolutionary problems differ. A signal that dominates one animal’s world may be absent from another animal’s experience.
 
 A bat and a human can occupy the same room without inhabiting the same sensory room.
 
@@ -40,7 +40,7 @@ The universe that reaches a detector is always smaller than the universe that ex
 
 The danger begins when we forget the subtraction.
 
-Humans are especially vulnerable because some of our strongest detectors were built for social life.
+Human beings are especially vulnerable because some of our strongest detectors were built for social life.
 
 Faces matter to us.
 
@@ -52,7 +52,9 @@ Contingent responses matter.
 
 Movement that appears purposeful matters.
 
-These cues are useful because other humans and animals have been among the most consequential objects in our environment for a very long time. A rustle in grass may be wind or a predator. A gaze may predict cooperation, threat, desire, deception, or indifference. Social cognition is not a decorative layer on human intelligence. It is one of its deep organizing pressures.
+These cues are useful because other humans and animals have been among the most consequential objects in our environment for a very long time. A gaze can predict cooperation, threat, desire, deception, or indifference. A rustle in grass may be wind or a predator. A voice can carry information about a person who is out of sight.
+
+Social cognition is not a decorative layer on human intelligence. It is one of the systems through which we decide that something on the other side of an observation deserves to be treated as an agent.
 
 So when we encounter a new system, we ask social questions almost automatically.
 
@@ -64,11 +66,9 @@ Does it know I am here?
 
 Can it talk to me?
 
-Would it recognize itself?
-
 Can it explain what it did?
 
-These questions are excellent when the system is a person.
+These questions are excellent when the system is another person.
 
 They become less reliable as universal detectors of competence.
 
@@ -78,7 +78,7 @@ A bacterial population does not explain its signaling network.
 
 An immune system cannot tell you what it retained from a prior infection.
 
-A slime mold has no face to make its network optimization feel intentional.
+A slime mold has no face to make its transport behavior feel intentional.
 
 The absence of social legibility is easy to confuse with the absence of capability.
 
@@ -86,9 +86,9 @@ The reverse error is equally familiar.
 
 When a machine produces fluent language, social legibility arrives before ontology.
 
-It addresses us in words. It answers questions. It uses first-person grammar. It can produce sympathy, argument, jokes, apologies, and explanations. The interface presses almost every button by which humans usually infer another mind.
+It addresses us in words. It answers questions. It uses first-person grammar. It can produce sympathy, argument, jokes, apologies, and explanations. The interface presses many of the buttons by which humans usually infer another mind.
 
-Capability is real in many such systems. Consciousness remains a different claim.
+Measured capability may be real. Consciousness remains a different claim.
 
 The social detector fires anyway.
 
@@ -104,17 +104,27 @@ The correction is not to become suspicious of language or sentimental about cell
 
 It is to separate the detector from the thing detected.
 
-Comparative psychology has been living with a version of this problem for more than a century.
+Comparative cognition has been living with a version of this problem for more than a century.
 
-Lloyd Morgan’s famous canon is often summarized as a warning not to explain animal behavior with a higher psychological process if a lower one will do. The slogan has been interpreted, criticized, defended, simplified, and sometimes used as a cudgel. Recent surveys of comparative-cognition researchers show that practitioners still value parsimony while disagreeing about exactly how the canon should constrain explanation.
+An animal performs a behavior that looks clever. Researchers then face a harder question than whether the animal succeeded: what mechanism was required for the success?
 
-That disagreement is healthy.
+Planning may be one explanation.
 
-The original problem never disappeared.
+Associative learning may be another.
 
-A clever animal performs a behavior. Researchers have to decide whether the behavior requires causal reasoning, imitation, planning, associative learning, conditioned response, local enhancement, perceptual bias, or some other mechanism. The same output can sometimes be produced by mechanisms of very different complexity.
+Perceptual bias, local enhancement, conditioned response, imitation, or a simpler heuristic may produce similar outward behavior under some conditions.
 
-You cannot read the mechanism directly from how impressive the behavior looks.
+The impressive output does not reveal the mechanism by itself.
+
+Modern comparative-cognition researchers have become increasingly explicit about this difficulty. Experimental design, replication, species-specific sensory capacities, prior experience, cueing, and publication bias can all affect what looks like a demonstration of a high-level capacity. A task designed by humans can accidentally test familiarity with human task design as much as the capacity named in the paper.
+
+This is not an argument for always choosing the least interesting interpretation.
+
+It is an argument for making alternatives compete.
+
+If one account says an animal formed a causal model and another says it learned a narrow association, design the next experiment so the accounts predict different outcomes.
+
+If they never predict different outcomes, the argument has become vocabulary.
 
 That sentence belongs in astrobiology too.
 
@@ -162,13 +172,13 @@ The veil thins when the question becomes comparative.
 
 This book has tried to make that move from the beginning.
 
-A slime mold network is interesting not because it looks like a railway map, but because perturbation and resource geometry change how the network forms.
+A slime mold network is interesting not because it looks like a railway map, but because resource geometry, flow, and perturbation change how the network forms.
 
-Bacterial chemotaxis is interesting not because we enjoy calling it memory, but because retained molecular state changes later movement.
+Bacterial chemotaxis is interesting not because we enjoy calling it memory, but because retained molecular state changes later movement and the mechanism can be perturbed.
 
 Immune memory is interesting not because immune cells remember like people, but because prior exposure alters a future response through measurable biological changes.
 
-Regeneration is interesting not because a tissue pictures a body plan, but because damaged systems can correct toward organized anatomical outcomes across perturbations.
+Regeneration is interesting not because a tissue pictures a body plan, but because damaged systems can correct toward organized anatomical outcomes across different perturbations.
 
 The language is secondary.
 
@@ -220,23 +230,39 @@ A tool used in front of us.
 
 A puzzle solved while we watch.
 
-Slow competence is emotionally flat.
+Fast response feels cognitive because our own deliberate actions often happen in that range.
 
-A forest reallocating resources over seasons does not look quick-witted.
+Slow competence is emotionally flatter.
 
-A developmental system constructing anatomy over days or months does not look like problem solving in the way a crow opening a box does.
+A developmental system constructing anatomy over days does not look like problem solving in the way a crow opening a box does.
 
 An immune repertoire changing after exposure lacks the theater of a visible choice.
 
-Yet speed is not a definition of adaptive control.
+A microbial community reorganizing metabolism over hours is easy to file under chemistry even when the response depends on communication and prior state.
+
+Speed is not a definition of adaptive control.
 
 It is a property of one implementation.
 
-The same bias appears astronomically.
+This bias matters in the other direction too.
 
-A radio pulse is legible because it is event-like.
+A fast reaction can look smart because it looks decisive.
 
-A civilization might produce a signal with a beginning and an end. A telescope can record it. A computer can flag it. A human can listen to a sonification and feel the drama.
+But speed may be evidence of a rigid reflex. A slower response may integrate more variables. The relevant question is not how quickly the system acts compared with us. It is whether the timing matches the problem it faces.
+
+A bacterium comparing chemical concentrations needs a memory measured over seconds because its world changes over seconds.
+
+An immune system can benefit from memory that lasts far longer because the relevant event may recur after months or years.
+
+A regenerating tissue may need to coordinate over the entire period of repair.
+
+An ecology can encode consequences across seasons.
+
+The appropriate clock belongs to the mechanism, not the observer.
+
+Astronomy magnifies this problem.
+
+A radio pulse is legible because it is event-like. It arrives, can be time stamped, searched in frequency, compared against interference, and perhaps repeated.
 
 A biosphere is slower.
 
@@ -308,6 +334,32 @@ What perturbation?
 
 What capacity?
 
+The boundary problem is more than philosophy. It changes experiments.
+
+Suppose a cell fails when isolated but succeeds inside a tissue. Is the capability cellular or tissue-level?
+
+Suppose individual bacteria follow simple local rules but a biofilm coordinates metabolic states over distances no cell can sample directly. Which level deserves the description of coordination?
+
+Suppose an immune response depends on cell populations distributed among organs and on molecular state that no single cell contains. Where is the memory?
+
+The answer may be different for different functions.
+
+Natural systems can be nested agents without being nested persons.
+
+That phrase matters because it allows us to take system boundaries seriously without imagining a stack of little consciousnesses inside one another.
+
+A cell has some autonomous regulation and is also constrained by a tissue.
+
+A tissue has local control and is also constrained by an organism.
+
+An organism acts independently and may also participate in a colony whose collective behavior depends on many individuals.
+
+The relevant boundary is the one across which the causal loop closes for the capacity being measured.
+
+Human intuition prefers one permanent boundary because persons usually give us one.
+
+Biology is less tidy.
+
 A planetary atmosphere is not an organism.
 
 A biosphere is not obviously an agent.
@@ -342,11 +394,9 @@ Distributed processes are harder to narrate.
 
 The history of science repeatedly moved important explanations away from visible objects and toward relations.
 
-Gravity is not a visible tether.
-
 Temperature is not a fluid stored in matter.
 
-A gene is not a tiny blueprint picture of a trait.
+A gene is not a tiny picture of a trait.
 
 An ecosystem is not reducible to one representative species.
 
@@ -422,11 +472,7 @@ That would still matter.
 
 A category does not have to be visible from Earth to be scientifically useful.
 
-Geologists did not reject plate tectonics because continents move too slowly to watch in one afternoon.
-
-Developmental biologists do not reject positional information because it cannot be read directly from a photograph.
-
-The correct measurement follows the causal timescale.
+The correct measurement follows the causal timescale and spatial scale.
 
 The veil can be technological too.
 
@@ -446,7 +492,7 @@ A phenomenon that requires combining several kinds of evidence can remain concep
 
 Non-sapient intellect is almost designed to suffer from this problem.
 
-Its candidate cases are scattered across microbiology, immunology, developmental biology, neuroscience, soft-matter physics, collective behavior, artificial intelligence, origins-of-life research, planetary science, and astrobiology.
+Its candidate cases are scattered across microbiology, immunology, developmental biology, soft-matter physics, collective behavior, artificial intelligence, origins-of-life research, planetary science, and astrobiology.
 
 Each field has better words for its local mechanism than this book does.
 
@@ -461,6 +507,42 @@ Can we identify dimensions that remain meaningful when the chemistry changes?
 Can the same evidence standard distinguish adaptive control from passive order in cells, materials, machines, and planetary signals?
 
 If not, the category fails.
+
+There is a useful analogy in instrumentation.
+
+A spectrometer does not care what a molecule means. It responds to relationships between matter and radiation. Those relationships are portable enough to study an unfamiliar atmosphere.
+
+An operational theory of adaptive competence needs the conceptual equivalent: relationships that can be measured without assuming the mechanism in advance.
+
+History dependence.
+
+Perturbation response.
+
+Selective correction.
+
+Information flow.
+
+Reallocation under constraint.
+
+Experience-dependent change.
+
+These are not proof of intellect individually. They are candidate dimensions that can be tested before we know whether the substrate resembles any organism on Earth.
+
+That is why the book has spent so much time on counterexamples.
+
+Hysteretic materials teach us that history dependence is not enough.
+
+Self-organizing physics teaches us that elegant structure is not enough.
+
+Abiotic atmospheric chemistry teaches us that disequilibrium is not enough.
+
+Machine competence teaches us that impressive performance is not evidence of consciousness.
+
+SETI null results teach us that failure to detect one signal class is not evidence of universal absence.
+
+Each negative case removes something from the detector.
+
+What remains becomes harder to fool.
 
 This brings the veil back to language.
 
@@ -520,7 +602,7 @@ That standard starts with the humility sensory ecology teaches.
 
 The world contains more signal than any organism can receive.
 
-It continues with the humility comparative psychology teaches.
+It continues with the humility comparative cognition teaches.
 
 Impressive behavior does not tell us which mechanism produced it.
 
@@ -544,8 +626,8 @@ Ours included.
 
 The final question is therefore not whether we can imagine non-sapient intellect.
 
-Earth has already supplied enough examples to make imagination unnecessary.
+Earth has already supplied enough mechanisms to make the category physically plausible.
 
 The final question is harder.
 
-If it existed somewhere else, what would count as evidence?
+What would count as evidence?
