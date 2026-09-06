@@ -44,7 +44,33 @@ The named case can obscure the coalition.
 
 Behind every caption were parents willing to risk local retaliation, children made into constitutional test cases, teachers, ministers, organizers, lawyers, donors, and communities carrying consequences that appellate judges would not share.
 
-The Supreme Court first heard arguments in 1952.
+The attack on school segregation also had important predecessors outside the exact Black-white framework that *Brown* would decide.
+
+In California, Mexican American families challenged school segregation in *Mendez v. Westminster* during the 1940s. The federal litigation did not produce the same nationwide constitutional holding *Brown* later would, and the legal categories differed. But the case showed that families in the postwar West were already attacking the idea that public authorities could sort children by ancestry and then defend the separation as ordinary administration.
+
+Housing law was moving too.
+
+In *Shelley v. Kraemer* in 1948, the Supreme Court held that courts could not constitutionally enforce racially restrictive private covenants. The covenants themselves had been written by private property owners, but judicial enforcement was state action. The decision did not end residential segregation. Real-estate practices, lending discrimination, neighborhood violence, zoning, federal mortgage policy, local custom, and household wealth continued to produce deeply segregated metropolitan areas.
+
+That distinction became crucial for schools.
+
+A school system can stop assigning children explicitly by race and still serve neighborhoods created through decades of racial exclusion.
+
+The postwar United States was building suburbs at enormous speed. Federal mortgage insurance and veterans' benefits helped millions of families buy homes, while Black families often faced discriminatory underwriting, exclusion from new subdivisions, unequal access to credit, and hostility when they tried to enter white neighborhoods. The GI Bill was federal law, but many of its practical benefits moved through local colleges, banks, real-estate markets, and state institutions that could discriminate.
+
+The result was a widening gap between formal national citizenship and the geography in which citizenship was lived.
+
+White families who obtained subsidized mortgages in appreciating suburbs could accumulate home equity and pass wealth forward. Black families excluded from the same markets lost not only a house in one year but the compound effect of decades of asset appreciation, school access, neighborhood services, and inheritance.
+
+Schools sat inside that geography.
+
+That is why *Brown* could be both revolutionary and incomplete from the day it was announced.
+
+The Court could prohibit a state from ordering Black children to one school and white children to another because of race. It could not, in one opinion, unwind the housing market, municipal boundaries, tax bases, lending system, or wealth distribution that made school populations unequal even after explicit racial assignment disappeared.
+
+The distinction between **de jure** segregation created by law and segregation produced through a mixture of public and private decisions would become one of the central remedial arguments of the next generation.
+
+The Supreme Court first heard arguments in *Brown* in 1952.
 
 The justices were divided and asked for reargument on historical questions concerning the Fourteenth Amendment and public education. Then Chief Justice Fred Vinson died in 1953. President Dwight Eisenhower appointed California governor Earl Warren as chief justice.
 
