@@ -2,7 +2,11 @@
 
 Artificial intelligence makes data sound like fuel.
 
-Collect more of it. Feed the machine. Get better decisions.
+Collect more of it.
+
+Feed the machine.
+
+Get better decisions.
 
 Alliances discover quickly that data is less like fuel than territory.
 
@@ -16,55 +20,455 @@ The alliance sees five jurisdictions.
 
 This is why data comes before decisions.
 
-An alliance that wants AI-enabled command, logistics, intelligence, or targeting must first decide what information can move and under which rules.
+An alliance that wants AI-enabled command, logistics, intelligence, targeting, maintenance, or planning must first decide what information can move and under which rules.
 
-The temptation is to solve the problem by centralizing.
+That sounds bureaucratic until the first crisis.
 
-Put the data in one place. Create one authoritative architecture. Require partners to contribute.
+Then the rule becomes a speed limit.
 
-Centralization can work in narrow domains, but it creates three strategic problems.
+A coalition may have the sensor.
 
-The first is sovereignty. Governments are reluctant to surrender control over sensitive national data, especially when the data reveals collection capabilities or domestic information.
+It may have the analyst.
 
-The second is security. A single data lake can become a single attractive target.
+It may have the model.
 
-The third is dependency. If one state or vendor controls access, the alliance’s information power becomes conditional on that node.
+It may have the unit that can act.
+
+If the data cannot move between them, the capability does not exist at coalition speed.
+
+The first problem is ownership.
+
+Who owns a piece of data after it has been transformed?
+
+A raw sensor feed may belong clearly to one state.
+
+A fused track may incorporate contributions from several.
+
+A model output may be derived from data none of the users are allowed to see directly.
+
+A maintenance prediction may combine commercial records, national inventories, and operational usage.
+
+The final product can have several parents.
+
+That creates a simple but consequential question.
+
+Who can authorize its use?
+
+Traditional information-sharing agreements often assume a document lifecycle.
+
+A record is created.
+
+It receives a classification.
+
+It is shared with named recipients.
+
+Machine systems complicate that model.
+
+Data is queried, transformed, embedded, summarized, joined, cached, logged, and used to update other systems.
+
+The information leaves traces even when the original record does not move.
+
+This means alliances need rules for derived data.
+
+Not just the source.
+
+What happens when one ally permits use of its data for a specific mission but not for later training?
+
+What happens when the mission ends?
+
+What happens when the data was wrong?
+
+Can the derived output be corrected?
+
+Can a model forget what the source taught it?
+
+These are not edge cases.
+
+They are the new data lifecycle.
+
+The second problem is purpose.
+
+Sharing is not binary.
+
+An ally may allow data to support air defense but not targeting.
+
+It may permit a partner to query the data but not retain it.
+
+It may allow a derived alert to be shared more widely than the underlying source.
+
+It may permit use in one theater but not another.
+
+It may allow operational inference but prohibit model training.
+
+These distinctions need to be machine-readable if they are expected to work at machine speed.
+
+A policy buried in a memorandum does not control an API automatically.
+
+The alliance therefore needs policy attached to the data.
+
+Who may use it.
+
+For what.
+
+For how long.
+
+Under which mission.
+
+At what classification.
+
+With which onward-sharing restrictions.
+
+Whether it may be used for training.
+
+Whether it may be retained.
+
+Whether it may be combined with particular other datasets.
+
+The more these permissions depend on manual interpretation, the less scalable the network becomes.
+
+The third problem is identity.
+
+Data is only useful when the system knows who is asking.
+
+Coalitions are full of temporary relationships.
+
+Units rotate.
+
+Officers change jobs.
+
+Contractors enter and leave.
+
+Partners join one mission but not another.
+
+Clearances differ by country.
+
+Roles change during crisis.
+
+The network therefore needs identity that is portable enough for coalition work and narrow enough to preserve national control.
+
+That is difficult.
+
+A user may be trusted by their own government but not automatically entitled to another country’s data.
+
+An ally may recognize the person but not the role.
+
+A role may be valid in one command and not another.
+
+This means identity has to carry context.
+
+Who are you?
+
+Who vouches for you?
+
+What mission are you part of?
+
+What function are you performing?
+
+How long does the permission last?
+
+Who can revoke it?
+
+These questions are part of operational design.
+
+The fourth problem is discoverability.
+
+An alliance can possess enormous amounts of data and still fail because nobody knows what exists.
+
+This is a metadata problem.
+
+What is the source?
+
+When was it collected?
+
+What geography does it cover?
+
+How current is it?
+
+What classification applies?
+
+What restrictions apply?
+
+What format is it in?
+
+How reliable has the source been historically?
+
+Can it be queried remotely?
+
+Who should be contacted if access is denied?
+
+Without good metadata, users solve the problem by building private inventories.
+
+Private inventories recreate fragmentation.
+
+They also create hidden dependence on individuals who know where the information lives.
+
+A mature alliance should treat discoverability as infrastructure.
+
+The user may not be allowed to see the data.
+
+The user may still need to know that the data exists and that an access process is available.
+
+This is the difference between secrecy and invisibility.
+
+Secrecy can be governed.
+
+Invisibility cannot be planned around.
+
+The fifth problem is provenance.
+
+AI systems are especially vulnerable to data without lineage.
+
+Where did the claim come from?
+
+Which sensor?
+
+Which analyst?
+
+Which commercial feed?
+
+Which partner?
+
+Which transformation?
+
+Which model?
+
+Which version?
+
+A coalition may see the same observation repeated through several systems and mistake repetition for independent confirmation.
+
+A commercial data source can feed several national products that later appear to agree.
+
+A model can summarize a report, another system can ingest the summary, and the original uncertainty can disappear.
+
+Provenance protects the alliance from synthetic consensus.
+
+It also protects trust among partners.
+
+If a country is asked to act on information it cannot inspect fully, it needs enough lineage to understand why the assessment deserves weight.
+
+The sixth problem is correction.
+
+Bad data is inevitable.
+
+The strategic question is whether the network can retract it.
+
+A source is later judged unreliable.
+
+A sensor calibration was wrong.
+
+A commercial feed contained duplicated records.
+
+A cyberattack corrupted a database.
+
+An analyst mislabeled an event.
+
+In a traditional document system, a correction can be issued.
+
+In a machine system, the bad data may already have influenced cached outputs, trained models, automated rules, and downstream assessments.
+
+The network needs correction propagation.
+
+What products used the source?
+
+Which models were trained on it?
+
+Which decisions were influenced?
+
+Which partners received derivatives?
+
+Can affected outputs be flagged?
+
+This is data lineage used defensively.
+
+The seventh problem is denial.
+
+Allies often think about sharing in terms of permission.
+
+They should also think about what happens when permission disappears.
+
+A partner withdraws access.
+
+A legal authority expires.
+
+A network segment is compromised.
+
+A political dispute narrows cooperation.
+
+A provider becomes unavailable.
+
+Can the coalition continue?
+
+Data resilience means knowing which dependencies are critical before they fail.
+
+A workflow that collapses because one feed disappears may be efficient but brittle.
+
+A strong system should expose dependency concentration.
+
+Which decisions depend on one country’s collection?
+
+Which logistics functions depend on one commercial database?
+
+Which AI service depends on one corpus?
+
+Which allied contribution has no substitute?
+
+The answer should shape contingency planning.
+
+The eighth problem is asymmetry.
+
+Not every ally contributes equally in every domain.
+
+One may provide unique intelligence.
+
+Another may provide geography.
+
+Another may provide logistics data.
+
+Another may provide compute.
+
+Another may provide industrial information.
+
+This creates bargaining questions inside the network.
+
+A country contributing high-value data may want stronger control over how it is used.
+
+A country contributing less data may still be asked to assume significant operational risk based on shared assessments.
+
+The alliance needs reciprocity that is functional rather than perfectly symmetrical.
+
+The objective is not equal bytes.
+
+It is a bargain in which every participant receives enough value and enough control to keep contributing.
+
+That bargain can fail if the largest data holders treat sharing as charity.
+
+It can also fail if partners demand access without protecting the sources that make access possible.
+
+The network has to convert national advantage without destroying the incentive to produce it.
+
+The temptation is to solve all of this through centralization.
+
+Put the data in one place.
+
+Create one authoritative architecture.
+
+Require partners to contribute.
+
+Centralization can work in narrow domains.
+
+It can also create three strategic problems.
+
+The first is sovereignty.
+
+Governments are reluctant to surrender control over sensitive national data, especially when the data reveals collection capabilities, domestic information, industrial details, or political vulnerabilities.
+
+The second is security.
+
+A single data lake can become a single attractive target.
+
+The third is dependency.
+
+If one state or vendor controls access, the alliance’s information power becomes conditional on that node.
 
 Federation is the alternative.
 
-In a federated system, data can remain under national control while being discoverable and usable through agreed interfaces and permissions. The difficult work shifts from moving everything into one repository to creating common rules for identity, metadata, access, provenance, and audit.
+In a federated system, data can remain under national control while being discoverable and usable through agreed interfaces and permissions.
+
+The difficult work shifts from moving everything into one repository to creating common rules for identity, metadata, access, provenance, audit, and revocation.
 
 This is less elegant than centralization.
 
 It is often more politically durable.
 
-AI raises another issue: training rights.
+Federation also allows differentiated sharing.
 
-An ally may be willing to share data for a specific operational purpose without agreeing that the same data can be retained indefinitely or used to train a model. A government may permit inference in a secure environment but prohibit copying the underlying records.
+A partner can expose a query endpoint without exposing the full database.
+
+A national system can return a derived answer rather than raw records.
+
+A model can run inside a sovereign environment and export only approved outputs.
+
+The network can therefore share capability without requiring universal data surrender.
+
+That is a better fit for alliances because alliances are federations politically before they are federations technically.
+
+AI raises another issue.
+
+Training rights.
+
+An ally may be willing to share data for a specific operational purpose without agreeing that the same data can be retained indefinitely or used to train a model.
+
+A government may permit inference in a secure environment but prohibit copying the underlying records.
 
 These distinctions matter because machine learning changes the lifecycle of information.
 
-Once data influences a model, removing it can be difficult. A partner can revoke access to a file more easily than it can revoke what a model learned from the file.
+Once data influences a model, removing it can be difficult.
+
+A partner can revoke access to a file more easily than it can revoke what a model learned from the file.
+
+This can create a form of strategic irreversibility.
+
+The network consumes the contribution once and retains some value even after the partner withdraws permission.
+
+That may discourage sharing if the rules are unclear.
 
 Alliances therefore need data agreements written for machine use rather than human browsing.
 
-Who may use the data?
+They need to distinguish inference from training.
 
-For what task?
+Temporary use from retention.
 
-For how long?
+Raw access from derived output.
 
-Can it be used for training?
+Model adaptation from retrieval.
 
-Can outputs be shared with a third ally?
+Mission-specific rights from general rights.
 
-What happens when the source is later judged unreliable?
+The distinctions should be enforceable technically where possible.
 
-These questions sound legal because they are.
+The final problem is exercises.
 
-They are also operational.
+A declaration of information sharing is not evidence of information sharing.
 
-A commander cannot exploit a shared model if nobody knows whether the model’s output can be passed to the unit that needs it.
+The network has to test the actual path.
+
+The user logs in.
+
+The identity is recognized.
+
+The dataset is discovered.
+
+The policy engine checks the request.
+
+The data is queried.
+
+The provenance survives.
+
+The output is marked correctly.
+
+The product can be passed to the next authorized user.
+
+The audit trail records what happened.
+
+Then the exercise should break something.
+
+Deny the request.
+
+Remove a feed.
+
+Expire a credential.
+
+Disconnect a partner.
+
+Corrupt a record.
+
+Change the classification.
+
+Withdraw training permission.
+
+See whether the mission still functions and whether the system fails visibly.
+
+This is how data governance becomes operational readiness.
 
 The strategic objective is not maximal sharing.
 
@@ -72,8 +476,14 @@ It is predictable sharing.
 
 Partners need to know what they can rely on before a crisis begins.
 
-That requires exercises in which data actually moves, permissions fail, users are denied, feeds degrade, and policies are tested against real workflows.
+They need to know which data will be available, which will not, which permissions are durable, which can disappear, and which workflows degrade safely when they do.
 
-A declaration of information sharing is not evidence of information sharing.
+That predictability is a form of deterrence because it turns coalition promises into expected capability.
 
-The alliance advantage is built when the network knows the difference.
+AI does not eliminate the politics of data.
+
+It makes the politics executable.
+
+The alliance advantage begins before the model runs.
+
+It begins with whether the network can move meaning across sovereign boundaries without losing control of who owns it, who can use it, and what happens when the answer changes.
