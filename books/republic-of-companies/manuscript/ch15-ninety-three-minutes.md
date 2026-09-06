@@ -102,6 +102,78 @@ The assembly line is almost an argument against the heroic-founder story.
 
 Its power comes from nobody having to build the whole car.
 
+## The Line Changed the Meaning of Skill
+
+The moving line is often described as deskilling because a complex craft was broken into smaller tasks.
+
+That is true from one vantage point.
+
+It is incomplete from another.
+
+Skill did not vanish from the production system. It moved toward toolmaking, process engineering, maintenance, scheduling, quality control, machine design, and the managerial work of balancing thousands of interdependent operations. The worker at one station might need less knowledge of the entire automobile while the organization needed far more knowledge of the entire process.
+
+This transfer changed who held bargaining power over productive knowledge.
+
+In a craft system, expertise can live substantially inside the worker. A master can leave and take a large amount of productive capability away. In a Fordist system, expertise is increasingly embedded in fixtures, gauges, sequence, plant layout, documents, and specialized support roles.
+
+The company owns more of the memory.
+
+That makes replacement easier at some jobs and makes the organization more dependent on a different class of technical specialists elsewhere.
+
+This is one reason modern arguments about automation often repeat Ford-era tensions. Technology rarely removes skill evenly. It redistributes which skills are scarce and which are standardized.
+
+The assembly line was not the end of human expertise.
+
+It was a reallocation of expertise toward the system.
+
+## Throughput Creates Its Own Fragility
+
+Flow systems produce extraordinary efficiency when every upstream input arrives when needed.
+
+They also expose the factory to interruption.
+
+A craft worker with a pile of parts may continue working around one missing component. A tightly synchronized line can stop when a crucial part fails to arrive. Higher throughput increases the value of coordination because downtime at one point can idle many workers and machines downstream.
+
+Ford therefore traded one kind of waste for another kind of vulnerability.
+
+The company reduced walking, waiting, excess motion, and work-in-process. In return, it became more sensitive to the timing and reliability of supply.
+
+This is a pattern that will return in Walmart and Amazon.
+
+The better the system becomes at eliminating slack, the more expensive disruption can become.
+
+Efficiency and resilience are not opposites, but they are not automatically the same thing either.
+
+A firm can remove inventory until the saved carrying cost is smaller than the expected cost of interruption. It can increase line speed until quality or worker fatigue becomes the binding constraint. It can standardize one component so thoroughly that failure at the supplier becomes systemic.
+
+Ford's production revolution therefore teaches a second lesson beside speed.
+
+The faster the line, the more the line needs everything around it to behave predictably.
+
+## Why Ford, Not Standard Oil's Heirs?
+
+The 1910s still contained enormous firms descended from the nineteenth-century consolidation era, and the federal government’s 1911 breakup of Standard Oil made antitrust one of the decade's defining corporate events. AT&T was expanding communications. General Electric was electrifying homes and industry. War production elevated chemicals, steel, ships, and finance.
+
+Ford wins because it changed the economic argument about abundance.
+
+The older monopoly question asked what happened when a company controlled too much supply.
+
+Ford's production question asked what happened when a company learned to make so much supply that a formerly elite product could reach a mass market.
+
+This was not merely lower price.
+
+It was a new relationship between engineering and demand.
+
+Production innovation could create consumers by crossing an affordability threshold. Once the threshold was crossed, volume could finance more process improvement, which lowered costs further.
+
+The company had built a machine for making its own market larger.
+
+That logic would become foundational to consumer electronics, appliances, semiconductors, solar panels, and many other industries where scale and learning drive costs down.
+
+The line was therefore not just a factory technique.
+
+It was a theory of growth.
+
 The 1910s also included the First World War, which demonstrated the military importance of industrial scale. Ford participated in war production despite Henry Ford’s personal pacifist efforts earlier in the conflict. American factories supplied Allied demand before U.S. entry and then mobilized after 1917. The war intensified the relationship between large manufacturers and the federal government, a relationship that would become even more central during World War II.
 
 Mass production had become national capacity.
