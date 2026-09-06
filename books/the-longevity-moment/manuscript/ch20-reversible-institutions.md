@@ -355,3 +355,139 @@ The work is in the middle.
 Build doors that close.
 
 Do not weld all of them shut.
+
+There is a second test that is less elegant and perhaps more useful: who pays for reversibility before anyone needs it?
+
+A ramp is visible when a person uses it. The cost of keeping the ramp available is usually distributed across people who may never need it. That is true of insurance, public transit, spare capacity in hospitals, accessible design, unemployment systems, and many forms of social infrastructure. The person who never loses a job subsidizes the person who does. The person who never uses a wheelchair still benefits from a building designed to admit one. The worker who never takes a caregiving leave helps sustain a rule that becomes essential to someone else.
+
+This is not a flaw.
+
+It is the economics of preparedness.
+
+The political difficulty is that unused preparedness resembles waste. A bus route with empty seats is easy to cut. A return-to-work program with modest enrollment looks inefficient. An accessible feature that few current residents need can appear optional. A pension rule that preserves partial-work choices may cost administrative money for a minority of users.
+
+Optimization pressures institutions toward the single most common path.
+
+Longevity pushes in the opposite direction because the common path becomes less stable over a long horizon.
+
+A system can be efficient at the median and brutal at transition points.
+
+The more transitions a life contains, the more often the person experiences the system at its edges rather than its center.
+
+That is one reason long-life design can feel expensive when evaluated department by department and sensible when evaluated across a life. The institution sees an exception. The person sees Tuesday.
+
+A caregiver returning to work after three years does not experience herself as an edge case. A sixty-eight-year-old entering a classroom does not feel statistically unusual from the inside. A driver who gives up the car but still needs groceries is not conducting a transportation experiment. A professional whose license lapsed during illness is not asking the system for philosophical flexibility.
+
+They are trying to continue.
+
+The word continuation is important because it keeps reversibility from sounding like indulgence. Most re-entry is not a fantasy of becoming someone entirely new. It is an attempt to preserve useful parts of an old life after one condition changes.
+
+The caregiver wants the profession back, not a motivational reinvention story.
+
+The older resident wants the neighborhood without the stairs.
+
+The retiree wants a project without surrendering the retirement floor.
+
+The worker wants a less physical role without losing twenty years of accumulated knowledge.
+
+The patient wants independence with assistance, not a return to the body of thirty years ago.
+
+Institutions often make these modest requests expensive because their categories are too coarse.
+
+One way to improve them is to separate state from entitlement. A person can cease being a full-time employee while retaining some earned rights. A student can stop being enrolled while keeping an intelligible record of completed learning. A retiree can stop full-time work without becoming ineligible for future contribution. A patient can need help with one activity without surrendering decision-making across the rest of life.
+
+The category can change while the accumulated state remains.
+
+This is already how many good systems behave. The insight is not technologically novel. It is administrative.
+
+The difficult part is deciding which state should persist.
+
+Not everything should.
+
+Skills decay. Licenses protect the public. Benefits designed for need should change when need changes. A job role cannot be held indefinitely for someone who has left. A university cannot promise that every old course will satisfy every new requirement. A pension system cannot allow arbitrary claiming combinations without considering solvency and fairness.
+
+Preservation has to be selective.
+
+This is where reversibility becomes governance rather than a slogan.
+
+The institution needs a theory of what is durable.
+
+Competence may require renewal.
+
+Contribution history may deserve preservation.
+
+Identity should usually persist.
+
+Accrued rights should be difficult to erase casually.
+
+Privileges tied to a current role may not persist.
+
+Records should survive longer than the status they describe.
+
+Appeal rights should survive a first denial.
+
+The distinction between state and role is easy to say and hard to implement because systems have grown around older assumptions. Databases encode categories. Contracts assume sequences. funding formulas count people at specific moments. Agencies have jurisdictional boundaries. Employers design benefits around full-time attachment. Universities price semesters rather than decades of intermittent learning.
+
+Reversibility therefore has switching costs of its own.
+
+That should make reform slower and more deliberate, not less necessary.
+
+Another danger is that institutions can use the language of flexibility to transfer risk downward. Gig work is flexible in one sense and precarious in another. A portable benefit can free a worker from one employer or justify giving employers fewer obligations. Phased retirement can create choice or become a polite method of reducing older workers’ hours. Modular education can make re-entry easier or shift the burden of assembling a coherent qualification onto the student.
+
+The same design feature can liberate or externalize.
+
+The test is who holds the downside.
+
+If flexibility means the institution can change terms at will while the individual absorbs the uncertainty, that is not reversibility. It is asymmetry.
+
+A reversible institution should preserve meaningful choices on both sides. The person can exit, return, appeal, or change intensity. The institution can still enforce standards, prices, capacity limits, and obligations that make the system viable.
+
+This is why rights matter more than options.
+
+An option offered at discretion can disappear at the moment it becomes inconvenient. A defined re-entry pathway, portable entitlement, appeal process, or earned credit has more durability because it is not merely a favor from the current administrator.
+
+Long lives magnify the value of durable rights because the person may need to rely on them years after the original relationship began.
+
+Memory matters too.
+
+An institution that welcomes re-entry has to remember accurately. Lost records, incompatible systems, missing contribution histories, unexplained benefit calculations, and expired credentials can convert a theoretical right into an administrative ordeal. The longer the interval, the more important provenance becomes.
+
+This is another unglamorous lesson from longevity.
+
+Recordkeeping is freedom infrastructure.
+
+A person cannot prove an old entitlement, skill, contribution, or status if the system has forgotten it. The burden then shifts to the individual to reconstruct years of life from paper, memory, and whatever organizations still exist.
+
+The people with advisers and meticulous files can often recover.
+
+Others lose state because the institution lost memory.
+
+Reversibility therefore depends on stewardship as much as design. A return path that exists in policy but cannot reconstruct the past is not a return path.
+
+This suggests a practical hierarchy.
+
+First, avoid unnecessary one-way doors.
+
+Second, where a door must close, preserve the state that should survive it.
+
+Third, make the route back legible before people need it.
+
+Fourth, maintain records long enough for the route to remain real.
+
+Fifth, review whether the route is usable by people without extraordinary money, time, or expertise.
+
+None of these requires predicting radical longevity.
+
+They respond to ordinary duration.
+
+People already outlive employers, software systems, benefit administrators, neighborhoods, professional norms, and sometimes the institutions that hold their records. A longer life only increases the chance that the person will need continuity across an institutional discontinuity.
+
+That is the deeper reason reversibility belongs near the end of this book.
+
+The long future is not merely a biological extension.
+
+It is a sequence of systems that will change underneath the same person.
+
+The humane institution does not promise never to change.
+
+It promises not to make the person disappear when it does.
