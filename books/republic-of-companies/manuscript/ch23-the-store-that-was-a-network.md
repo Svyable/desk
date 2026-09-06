@@ -262,6 +262,58 @@ The company did not sell software.
 
 It behaved like a software company in the way it converted events into data and data into control.
 
+## Data Sharing Changed the Boundary of the Firm
+
+Retail Link did something more subtle than give suppliers better reports.
+
+It changed who could be responsible for inventory decisions.
+
+If a supplier could see sales and stock information quickly enough, the supplier could help manage replenishment rather than waiting for a buyer at Walmart to translate every store event into a purchase order. Information moved the coordination boundary outward.
+
+The supplier remained a separate company.
+
+Operationally, it could begin behaving like part of Walmart’s nervous system.
+
+This is important because the boundaries of a corporation are not defined only by ownership. Contracts, standards, shared data, software access, and dependency can create tightly coordinated systems among legally separate firms.
+
+A manufacturer connected to Walmart’s data had more visibility into demand and less freedom to ignore Walmart’s expectations. The retailer gained some of the coordination benefits of vertical integration without owning every factory.
+
+This is platform governance in physical commerce.
+
+The supplier gets access to the market.
+
+The platform gets compliance with the system.
+
+Amazon Marketplace would later make the same bargain more explicit for millions of merchants. Cloud platforms would do it through APIs. App stores would do it through developer rules.
+
+Walmart’s network showed that software can integrate companies without merging them.
+
+## Low Prices Became an Institutional Expectation
+
+Walmart also changed the moral vocabulary around price.
+
+Cheap goods have always been attractive. What changed was the expectation that a giant retailer should continuously remove cost from the system and pass enough of the savings through to consumers that low price became part of the company’s legitimacy.
+
+This made criticism difficult in a specific way.
+
+A town could dislike the effect of a store on local merchants and still contain thousands of households that saved money by shopping there. A worker could object to wages and still use the employee discount or depend on low-cost groceries. A supplier could resent bargaining pressure and still need the volume.
+
+The benefits and costs were distributed across different roles often occupied by the same person.
+
+This is why the company became politically durable.
+
+Its efficiency was experienced immediately at checkout.
+
+Many of the costs appeared elsewhere: in supplier margins, labor bargaining, land use, environmental effects, or the long adjustment of manufacturing communities.
+
+The price tag summarized one part of the system extremely well.
+
+It did not summarize the whole system.
+
+The same problem appears in later platform businesses. Free search does not display the value of user data. Fast delivery does not display warehouse intensity. Cheap rides do not display driver economics. A visible consumer price can be accurate and still incomplete as a measure of social cost.
+
+Walmart made the cheap price a powerful political fact.
+
 ## The Runner-Ups
 
 The 1990s contain stronger glamour candidates.
