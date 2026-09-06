@@ -104,6 +104,14 @@ A thousand customized political messages can still impose fact-checking costs on
 
 The economics can become perverse: the cheaper it becomes to create a claim, the more expensive it can become to maintain a trustworthy environment around claims.
 
+Consumer reviews offer a useful case because the receiving-side cost is easy to see. A review is supposed to compress someone else's experience into a small piece of evidence: this seller delivered, this hotel was clean, this product failed after a week. The Federal Trade Commission's rule on consumer reviews and testimonials, effective in October 2024, prohibits specified forms of fake or false reviews and testimonials, including some that misrepresent a nonexistent person as the reviewer, along with purchased sentiment, undisclosed insider reviews, deceptive company-controlled review sites, certain suppression practices, and fake social indicators.
+
+The point is not that generative AI invented fake reviews. It did not. Nor does the rule establish that online reviews have become useless. Platforms can verify purchases, strengthen provenance, detect anomalous behavior, improve moderation, and make reputation harder to counterfeit. Cheap generation can improve filters as well as increase what needs filtering.
+
+The narrower point is about where the work goes. When plausible testimony is cheap to manufacture, somebody else has to spend effort deciding which testimony deserves belief. The platform may absorb that expense in detection systems. Regulators may absorb some through enforcement. Sellers may spend more defending legitimate reputations. Buyers may spend more time cross-checking sources or retreat toward brands and reviewers they already know. The sender's marginal cost can fall while the environment's authentication cost rises.
+
+That is an attention tax even when no individual reads every fake review. Filtering is not free merely because it happens upstream.
+
 The receiving side becomes infrastructure.
 
 This is why filters gain value.
