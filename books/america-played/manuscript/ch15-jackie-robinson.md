@@ -241,3 +241,61 @@ The country then discovered the game continued.
 Better, in fact.
 
 That ordinary fact was revolutionary enough.
+
+There is an institutional detail beneath the familiar story that deserves more weight: integration converted the Negro Leagues from parallel major sporting businesses into an economy under pressure. The moral success of opening Major League Baseball did not distribute benefits evenly across Black baseball. White major-league clubs gained access to Black stars; Black-owned teams and the communities built around them faced a different future as talent and attention migrated.
+
+That does not weaken the case for integration. It complicates the distributional story. A barrier can fall in a way that expands opportunity for individual workers while destroying institutions those workers had built under exclusion. Progress can transfer value.
+
+This matters because the heroic version of Robinson sometimes treats the Negro Leagues mainly as a waiting room for the major leagues. They were not. They were teams, businesses, travel networks, fan cultures, newspapers, rivalries, jobs, and civic institutions created because the white major leagues denied access. When the better-funded dominant league finally opened, it could absorb players more easily than it absorbed the Black institutions that had sustained them.
+
+The ownership question therefore changes form. Black athletes gained access to higher-paying major-league careers, but the integration of playing labor did not automatically integrate ownership and control. That imbalance would persist across American sports: rosters diversify faster than executive suites, coaching ranks, media ownership, agency, and capital.
+
+Robinson understood enough of this broader structure to resist being reduced to a happy ending. His later criticism of baseball’s racial hierarchy above the playing field was not ingratitude. It was evidence that the first victory had created a vantage point from which the remaining exclusions could be seen more clearly.
+
+That tendency is another reason institutions sometimes become uncomfortable with their pioneers. The person who proves change is possible also proves that “impossible” was previously a choice. Once one barrier falls, neighboring barriers lose some of their protective mythology.
+
+If a Black player can thrive in the National League, why not a Black manager? If a Black manager can succeed, why not a general manager? If Black talent creates value, why should capital and governance remain concentrated elsewhere? The pioneer converts abstract fairness claims into operational questions.
+
+Robinson’s importance in the 1950s also rests on repetition as a technology of social change. Opening Day in 1947 was singular. A decade of box scores is cumulative. The more often the formerly excluded player appears in ordinary competitive context, the harder it becomes to preserve the fantasy that his presence is unnatural.
+
+This is one reason sports can sometimes alter social perception without asking fans to pass an ideological examination first. The fan wants the Dodgers to win. Robinson helps. The category “Black major leaguer” gradually acquires thousands of mundane associations: double plays, stolen bases, slumps, pennant races, injuries, arguments, victories. The person becomes legible as a full participant rather than a permanent racial event.
+
+That ordinary legibility has limits. Fans can cheer a player and maintain prejudice elsewhere. Integration of entertainment can coexist with segregation in housing or employment. But a public institution that repeatedly demonstrates interracial dependence creates evidence that a rigid hierarchy must work harder to explain away.
+
+Robinson also changed the bargaining position of every club owner who had resisted integration. Before 1947, exclusion was an industry norm: no owner paid an obvious competitive price because rivals followed the same rule. Once Brooklyn broke the cartel-like agreement, prejudice acquired an opportunity cost. Every Black star another club signed became evidence of talent a holdout club was choosing to forgo.
+
+That mechanism matters because it is different from moral persuasion. It turns exclusion from a shared convention into a self-imposed handicap. The Boston Red Sox’s late integration becomes especially revealing under this frame: the issue was not whether the market had supplied enough evidence that Black players could excel. The evidence was overwhelming. Persistence of exclusion after that point shows the strength of institutional preference.
+
+Robinson made the preference expensive enough to identify.
+
+The strongest challenger for the 1950s is Willie Mays. If the book were selecting the greatest player whose peak defined the decade, Mays could win. His combination of hitting, power, speed, defense, throwing, durability, and visual charisma made him one of baseball’s most complete stars. He also embodied the post-integration major leagues more naturally than Robinson eventually could: not as the first Black man under constant experimental scrutiny, but as a superstar whose excellence became the main story.
+
+That is precisely why Robinson remains more important.
+
+Mays demonstrates what became possible after the door opened. Robinson changed the architecture of the door.
+
+There is a paradox in honoring the pioneer over the player whose talent may have been greater. Sports culture usually insists that the scoreboard should decide. Historical importance asks a different question: whose presence changed the set of people who could reach the scoreboard at all?
+
+Robinson’s influence is therefore partly invisible in every later box score. When Aaron, Mays, Banks, Frank Robinson, Bob Gibson, and later generations of Black stars appear in Major League Baseball records, the absence of an asterisk saying “this roster is integrated” is itself evidence of normalization. The structural change succeeds when it stops needing to announce itself every day.
+
+The story also illuminates the difference between access and agency. During the earliest phase, Robinson had to accept a special behavioral bargain because Rickey believed retaliation could end the experiment. As his status became secure, he reclaimed more of the ordinary athlete’s right to complain, argue, and be imperfect.
+
+That movement matters in this book’s long ownership arc.
+
+Austin Curtis’s body had been legally owned. Abe Hawkins could be famous while enslaved. Robinson was legally free and professionally paid, yet the cost of entry included temporary constraints on public reaction that white peers did not share. Ali would push the claim further by asserting that neither boxing institutions nor the federal government could define the proper use of his body without his moral consent. Biles would later make a different version of the same claim inside the Olympics.
+
+The line is not equivalence. The forms of coercion are radically different.
+
+The line is expanding agency.
+
+Robinson’s career marks the moment an athlete could change an institution by entering it and then, once established, refuse to remain the institution’s carefully managed symbol.
+
+His political complexity after baseball reinforces the point. A nation that later turns Robinson into a universal civil-rights icon can forget that he made choices, misjudged people, changed positions, formed alliances, broke alliances, and participated in politics as an individual rather than a monument. That messiness is citizenship.
+
+The deepest victory was not that America eventually agreed every Jackie Robinson opinion had been correct.
+
+It was that the country could no longer plausibly insist his role was only to entertain it.
+
+The door he walked through was not simply a door into baseball.
+
+It was a door from performance into public agency, and he refused to close it behind him.
