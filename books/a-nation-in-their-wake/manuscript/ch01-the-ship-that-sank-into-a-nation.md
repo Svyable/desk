@@ -132,6 +132,8 @@ It contains the contradictions at the start.
 
 The ship is American and French. Merchant and warship. Victorious and lost. National symbol and multinational workplace. Evidence of individual command and evidence of dependence on alliance. It expands the young republic's reputation while demonstrating how little permanent naval infrastructure the republic yet controls.
 
+A serious rival for the decade is the Continental Navy's *Alfred*, aboard which John Paul Jones served and which belonged more cleanly to the creation of an American naval institution. Another is *Ranger*, the smaller ship Jones used for raids in British waters before taking command of *Bonhomme Richard*. Either could support a story about the Navy's birth. I choose *Bonhomme Richard* because the point of the 1770s is not simply that Americans created a navy. It is that a weak, improvised coalition could create strategic and reputational effects far beyond the material value of the platform it possessed. If the criterion were institutional genealogy alone, *Alfred* might win. Under the book's criterion—downstream consequence across politics, memory, alliance, and national capacity—the ship that sank is harder to replace.
+
 Most of all, it makes independence look like something other than a document.
 
 Independence had to travel.
