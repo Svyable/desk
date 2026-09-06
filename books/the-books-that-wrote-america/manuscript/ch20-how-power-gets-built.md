@@ -242,6 +242,114 @@ That problem is not solved.
 
 It has become more urgent as the country debates housing shortages, transit, clean energy, transmission lines, climate adaptation, semiconductor plants, ports, and public works whose benefits require construction at scale.
 
+The enduring insight begins with a financial instrument more boring than a mayoral speech.
+
+A public authority can turn revenue into independence.
+
+If an institution controls a bridge or tunnel that produces tolls, those tolls can support bonds. The bonds finance construction. Construction produces new revenue or new political constituencies. Dedicated revenue can reduce dependence on annual appropriations. Legal structure can make the institution difficult for a newly elected official to dismantle quickly.
+
+None of this is automatically sinister.
+
+Governments create authorities and dedicated revenue precisely because long-lived infrastructure is hard to finance if every project must survive the full turbulence of electoral politics each year. A bridge takes longer than a budget cycle. A transit system should not stop operating because the mayor loses an election. Bondholders require predictable repayment. Professional staffs preserve expertise.
+
+The institutional design solves real problems.
+
+It also stores power.
+
+That is the lesson Caro made unusually vivid.
+
+The same feature that protects infrastructure from short-term political interference can protect decision-makers from democratic correction. The same revenue stream that makes long-term planning possible can make an institution less dependent on legislators. The same technical expertise that helps a project succeed can make critics appear unserious simply because they lack the vocabulary of engineering or finance.
+
+Power often grows from a solution to a legitimate problem.
+
+This is a more useful lesson than the simpler one that ambitious men accumulate offices.
+
+If the institution exists only because somebody is corrupt, reform is easy: remove the person.
+
+If the institution exists because democracy genuinely needs continuity, expertise, credit, and administrative capacity, reform becomes harder. The task is to preserve the capability while changing the accountability.
+
+Caro's book matters because it keeps the reader in that difficulty long enough to feel it.
+
+There is a second difficulty.
+
+Communities can resist destructive projects for good reasons and still create collective paralysis when every project is judged only by its local cost. A transmission line has to cross somebody's view. Housing changes somebody's neighborhood. Rail construction creates noise. A renewable-energy project occupies land. A shelter, treatment facility, bus lane, school, or power substation has a location.
+
+The politics of infrastructure therefore has two morally serious stories available at all times.
+
+One is the Moses story: concentrated planners override people who bear the cost.
+
+The other is the veto story: dispersed interests block projects whose benefits are broad, leaving everyone with higher prices, longer commutes, dirtier energy, or inadequate public capacity.
+
+The country has moved between these fears for decades.
+
+In the years after *The Power Broker*, suspicion of centralized planning became one ingredient in stronger environmental review, community participation, historic preservation, litigation, and local control. Those institutions protected places that earlier builders might have destroyed casually. They also added procedures that later critics would blame for delay and scarcity.
+
+Caro did not write a manual for today's permitting debate.
+
+His work helps explain why the debate is so difficult to resolve.
+
+Every procedural protection has a history of abuse behind it.
+
+Every procedural veto has a future project it may prevent.
+
+To say "build" is not to answer who decides.
+
+To say "community control" is not to answer who counts as the community or who bears the cost of saying no.
+
+The Moses question survives because there is no permanent institutional setting called enough power.
+
+Power is relational.
+
+It depends on the task, the stakes, the distribution of costs, the quality of information, the possibility of correction, and the ability of outsiders to challenge the people inside the system.
+
+This is where the book's journalistic method becomes political theory.
+
+Caro followed documents because official titles could not tell him enough. He followed money because budgets reveal priorities more reliably than ceremonial language. He followed displaced residents because aggregate benefits can conceal concentrated harm. He followed time because power that looks modest in one episode can become overwhelming through accumulation.
+
+That method can be carried into almost any institution.
+
+If a company says a decision is inevitable, ask who made the alternatives expensive.
+
+If an agency says a rule is technical, ask who bears the distributional cost.
+
+If an elected official claims control, ask which contracts, statutes, boards, debt obligations, professional staffs, or outside constituencies limit the office.
+
+If a charismatic leader seems all-powerful, ask which institutions are lending that person their capacity.
+
+That is a deeper inheritance than a single portrait of Robert Moses.
+
+It also prevents the book from becoming a simple anti-builder catechism.
+
+Moses's most important advantage was not contempt for democracy.
+
+It was capacity.
+
+He could move from plan to money to land to contract to construction. He understood sequence. He knew that power accumulates when a person can convert an idea into a finished physical fact while opponents are still arguing about process.
+
+Modern reformers who admire democratic participation but cannot produce anything eventually create their own legitimacy problem. Citizens do not experience procedural virtue as sufficient if housing remains unaffordable, trains do not arrive, the grid cannot connect new power, or public works cost too much to finish.
+
+The challenge is not to choose permanently between Jacobs and Moses, neighborhood and region, participation and capacity.
+
+It is to build institutions capable of learning before the concrete hardens.
+
+That means decisions must be contestable early enough to matter and stable enough to execute once made. It means compensation for concentrated losses cannot be an afterthought. It means technical expertise must be strong enough to build and transparent enough to challenge. It means elected officials need real control without reducing every long-lived project to the next election.
+
+Those design problems sound dry.
+
+They are the architecture of self-government.
+
+This is why the book retains such force fifty years after publication. The details belong to New York. The institutional grammar travels.
+
+A public authority can still hide in plain sight.
+
+A financing structure can still decide more than a speech.
+
+A road, a housing plan, a data center, a power line, a flood wall, or a transit extension can still distribute benefits broadly and costs brutally locally.
+
+A citizen can still discover that the person whose name appeared on the ballot is not the person with practical control over the decision.
+
+That discovery is the moment *The Power Broker* prepared readers to recognize.
+
 The book published in 1974 therefore remains contemporary for a reason.
 
 It does not merely tell us that power corrupts.
