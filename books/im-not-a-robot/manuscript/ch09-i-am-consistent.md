@@ -366,6 +366,102 @@ A coach sometimes interrupts it.
 
 A good tool may need to know which role it is playing.
 
+There is another problem with consistency that prediction systems make easier to see.
+
+Trust does not actually require a person to repeat the same behavior forever.
+
+It requires something closer to reliable reasons for the changes that matter.
+
+Consider a friend who is always available. For years, every call is answered. Every favor is accepted. This looks like magnificent consistency until the pattern becomes unsustainable. The friend finally says no.
+
+If our theory of trust is merely behavioral repetition, the refusal is evidence of decline.
+
+If our theory of trust includes boundaries, the refusal may be evidence that the relationship is becoming more honest.
+
+The same distinction appears in institutions. A good constitution is stable, but not because amendment is impossible. A good contract creates expectations, but contracts can contain renegotiation clauses because the parties know the world may change. A good scientific standard should not change with fashion, but it should be corrigible when evidence reveals a defect.
+
+Stability earns trust partly by making revision legible.
+
+This suggests a useful distinction between consistency and integrity.
+
+Consistency asks whether the present resembles the past.
+
+Integrity asks whether the present can be connected to commitments that survive legitimate revision.
+
+The two often overlap. They do not always.
+
+A person who keeps repeating a bad promise can be consistent and lack integrity. A person who breaks with an old position after confronting evidence can be inconsistent and display it.
+
+This matters for automated profiles because prediction naturally rewards the first quantity. Integrity is harder to infer from behavior alone.
+
+Suppose a system learns that an employee has accepted every late-night request for three years. It predicts that the employee will accept another. The prediction may be excellent. Then the employee has a child, changes a caregiving arrangement, or simply decides the old pattern was unhealthy.
+
+The system has not become inaccurate in any mysterious way. The data describe the past correctly.
+
+The world has changed in a way the past did not contain.
+
+Now imagine the prediction is not merely descriptive. The scheduling system begins assigning the employee more late-night work because they are the person most likely to accept it. The old consistency starts reproducing the conditions that created it.
+
+A habit becomes workload allocation.
+
+A preference becomes policy.
+
+A model of the person becomes part of the environment the person must change in order to become different.
+
+This is why update mechanisms cannot be treated as cosmetic preferences in systems that allocate opportunities or burdens. A recommendation profile can be annoying when stale. A work profile, credit profile, health profile, risk profile, or educational profile can become consequential.
+
+The question is not only whether the model will eventually notice the new behavior.
+
+It is whether the person gets enough room to produce the new behavior while the old model is still in force.
+
+That is the institutional version of the gym problem.
+
+A person needs a first exception before there can be a new pattern.
+
+Institutions often distrust first exceptions for understandable reasons. A lender wants evidence. An employer wants reliability. A family member who has heard the same apology six times is entitled to skepticism. The past should not disappear because the present makes a declaration.
+
+But if every system requires the new identity to have an established history before it will permit the behavior that could establish the history, change becomes circularly impossible.
+
+You cannot get the opportunity because you have not demonstrated the trait.
+
+You cannot demonstrate the trait because you cannot get the opportunity.
+
+Human societies have invented partial exits from this loop.
+
+Probation can end.
+
+Licenses can be restored.
+
+Bankruptcy can create a new financial beginning without pretending the old debts never existed.
+
+Educational systems can permit retaking, re-entry, or transfer.
+
+Employers can hire for potential rather than only prior identical experience.
+
+Relationships can choose to treat a new action as evidence before it is statistically convincing.
+
+None of these arrangements guarantees that change is real.
+
+They make change possible to test.
+
+That is different.
+
+A predictive system optimized only for immediate accuracy may resist such arrangements because giving unusual weight to weak new evidence can reduce short-term predictive performance.
+
+A society may rationally choose the reduction.
+
+We already do this whenever we decide that rehabilitation, experimentation, second chances, or entry-level opportunity matter enough to tolerate uncertainty.
+
+The most accurate prediction is not always the most legitimate instruction.
+
+That sentence reaches beyond personalization.
+
+It is one of the places where human values have to govern predictive systems rather than the other way around.
+
+A model may correctly say that I am likely to repeat myself.
+
+A person, institution, or relationship may still decide to create conditions in which I can prove it wrong.
+
 The same is true of self-story.
 
 “I am consistent” is useful when it means my commitments survive mood.
