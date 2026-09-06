@@ -251,3 +251,57 @@ But it contains the entire argument.
 The human entered the animal’s channel.
 
 Then waited to see what the animal would do with it.
+
+The wait deserves more attention because it separates invitation from control.
+
+Humans routinely compress the interval after a signal. We call a cat, repeat the name, pat the furniture, reach, lean forward, and finally stand up—all before the animal has completed whatever decision our first cue created. The resulting sequence contains so many human actions that we cannot know which one mattered.
+
+The cat experiences a different problem: the cue keeps changing while it is still deciding what to do.
+
+A pause makes the interaction experimentally cleaner and socially different.
+
+Call once.
+
+Look away slightly.
+
+Wait.
+
+If the cat orients an ear, turns its head, approaches, remains, or leaves, the response has room to exist.
+
+This is a tiny version of what good animal communication technology should do. A system should not bombard the animal with escalating prompts because no immediate response appears. It should model the latency appropriate to the individual and context.
+
+Response time is information.
+
+A familiar cat that usually approaches within ten seconds and suddenly does not may be telling us something through delay before any dramatic signal appears. The animal may be distracted, uncertain, uncomfortable, tired, or simply uninterested. We do not know which. But deviation from the private baseline is often more informative than comparison with a generic species norm.
+
+This is where individualized data can help without pretending to translate emotion.
+
+A camera or wearable system could learn that one cat normally responds to a familiar voice with an ear turn, then an approach, under a certain evening routine. If that sequence changes sharply over several days, the useful output is not *I am sad*.
+
+The useful output is: this familiar response pattern has changed.
+
+That is a smaller claim and potentially a more valuable one.
+
+Veterinary medicine already depends on this logic when owners report that a cat is “not acting like herself.” The phrase is scientifically imprecise but often observationally rich. The owner possesses a longitudinal baseline unavailable in the clinic.
+
+A relational model could preserve that advantage while forcing the human interpretation to remain testable.
+
+The system does not need to decide what the change means.
+
+It can preserve the fact of change for someone competent to investigate it.
+
+This is a recurring theme in the book: better communication sometimes means resisting the urge to complete the sentence.
+
+Cats are exceptionally good teachers of that restraint because their most informative responses are often small.
+
+An ear.
+
+A pause.
+
+A shift in distance.
+
+An approach that stops one step earlier than usual.
+
+A look that does not become a walk toward us.
+
+The human receiver has to become sensitive enough that the animal does not need to turn every preference into a performance.
