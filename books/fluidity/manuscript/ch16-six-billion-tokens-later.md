@@ -263,3 +263,101 @@ That tension is what makes the next era of mathematics interesting.
 We are about to become rich in effort.
 
 We have not yet proved that we know how to spend it.
+
+The publication version of this argument needs one more accounting category: *verification debt*.
+
+Every time the system produces an artifact faster than it can be checked, it borrows against future trust.
+
+A thousand conjectures with no triage create verification debt.
+
+A million-line formal development that only one internal environment can build creates verification debt.
+
+A numerical candidate dependent on one private solver creates verification debt.
+
+A literature graph filled by unreviewed theorem extraction creates verification debt.
+
+The debt can grow even while the dashboard looks productive.
+
+This is the mathematical analogue of technical debt in software. Fast local progress accumulates hidden obligations that eventually slow the whole project. The difference is that unpayable verification debt does not merely make maintenance expensive. It makes the research unusable.
+
+The coordinator should therefore price new work partly by the debt it creates.
+
+A speculative numerical experiment is cheap because its epistemic status is low and nobody downstream treats it as fact. A formal library theorem is expensive to admit because hundreds of branches may depend on it. A root-level claim is extremely expensive because the institution must pay for independent checking, statement audits, reproducible builds, and external review.
+
+Trust should become more costly as claims move upward.
+
+That sounds obvious, yet generative systems naturally invert the pressure. The most exciting claims receive the most attention and therefore the greatest incentive to promote quickly. A good institution slows down precisely where the excitement rises.
+
+This suggests a research budget with two ledgers.
+
+Search capital buys attempts.
+
+Trust capital buys belief.
+
+Tokens, GPUs, and automated agents mostly expand search capital. Independent experts, checker diversity, source verification, rigorous numerics, and time build trust capital. A project can be rich in one and bankrupt in the other.
+
+The ratio matters more than the absolute amount.
+
+A six-billion-token proof accompanied by thin external verification may be less valuable than a smaller artifact that five independent groups can rebuild.
+
+This is where open-source formal infrastructure becomes economically important. A theorem formalized in a widely used library has more reusable trust capital than one trapped in a proprietary environment. The definitions have been exercised by strangers. The abstractions have encountered uses the original authors did not anticipate. The build process is visible. Bugs are discovered by a larger population.
+
+A private lab can still contribute proprietary search. It simply should not expect proprietary search to substitute for public verification.
+
+This distinction also changes how to evaluate progress before the Millennium theorem closes.
+
+Suppose a year of work produces no decisive proof but adds machine-checked Leray–Hopf theory, formalized regularity criteria, a rigorous numerical toolkit for unstable profiles, and a library of counterexamples to common generated inequalities. The headline target is untouched.
+
+The project may nevertheless have earned an excellent return because future research—inside and outside the lab—now begins with better infrastructure.
+
+Suppose instead the year produces ten million plausible proof sketches and a leaderboard showing improving internal “promisingness” scores. The target may appear closer in a presentation while the scientific asset is negligible.
+
+Output volume is the wrong denominator.
+
+Reusable reduction in uncertainty is better.
+
+The economics of machine mathematics therefore reward a strange form of restraint. Spend enormous compute where verification is cheap and compounding. Spend human attention only after automated filters have done their work. Refuse to scale branches that create more verification debt than knowledge. Publish infrastructure that allows outsiders to turn your sunk search cost into their lower future cost.
+
+This resembles the economics of platform engineering more than the economics of a lone genius.
+
+A theorem library is infrastructure.
+
+A rigorous-numerics framework is infrastructure.
+
+A corpus of formal counterexamples is infrastructure.
+
+A target-comparison schema is infrastructure.
+
+An independence graph is infrastructure.
+
+The final proof may be one application running on top.
+
+There is a further implication for scientific credit. If a lab spends industrial resources building the platform and a university mathematician uses the public infrastructure to discover the decisive lemma, who “solved” Navier–Stokes? The question becomes less meaningful as labor decomposes.
+
+The answer should probably look like modern experimental science: credit the conceptual authorship of the theorem, the builders of indispensable infrastructure, the computational teams, the formalization contributors, and the institutions that made the work possible without pretending every contribution is the same.
+
+This is not dilution. It is accurate accounting.
+
+The romantic single-name theorem will survive culturally because humans like stories. The underlying production system may look increasingly collective.
+
+Six billion tokens makes that visible because no one wants to personify the tokens themselves.
+
+The meaningful unit is the organized system that turns them into reusable mathematical state.
+
+The final economic question is therefore not “how expensive was the proof?”
+
+It is “what became cheaper after the proof?”
+
+Did formal PDE become easier?
+
+Did rigorous numerical certification improve?
+
+Did future models learn to reject common dead ends sooner?
+
+Did the community gain a trustworthy theorem graph?
+
+Can another open problem reuse the architecture?
+
+A proof that answers only one famous question is already valuable.
+
+A proving institution that lowers the cost of answering the next hundred is the larger prize.
