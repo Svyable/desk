@@ -157,3 +157,93 @@ At Union Course, the language said North and South.
 At Louisville, later memory wanted it to say slavery and freedom.
 
 In both places, a jockey had to cross the finish line before anybody else could decide what the race meant.
+
+## The challenger test: spectacle versus memory
+
+Purdy and Cato are deliberately paired because the two decades ask opposite evidentiary questions.
+
+The 1820s give us too much public spectacle to ignore.
+
+The 1830s give us just enough surviving evidence to see how spectacle becomes legend.
+
+Purdy’s case is comparatively sturdy. The National Museum of Racing and Hall of Fame preserves the central elements of the 1823 match: the famous North-South framing, the enormous estimated crowd, Sir Henry’s first-heat victory, Purdy’s takeover of American Eclipse, and the two heats that followed. The exact head count should never become sacred. “Estimated sixty thousand” is historically responsible in a way “60,000” printed without qualification is not.
+
+The importance does not depend on whether the real number was fifty-five thousand, sixty thousand, or somewhat more.
+
+It depends on scale relative to the era.
+
+Tens of thousands of people traveled to a sporting event in 1823 because the uncertainty mattered enough to organize money, identity, and movement around it. That is already a national sports economy in embryo.
+
+Purdy’s strongest challenger is therefore not another person so much as the claim that the horse deserves the decade. American Eclipse was the name attached to breeding, ownership, and the public North-South symbolism. If this were a book about the most important sporting entity, the horse might win.
+
+But a horse does not manage the social burden of the race.
+
+Purdy arrives after the first heat has been lost. He has to interpret the animal, the rival, the distance, and the accumulated fatigue. That is the form of human agency the book is selecting.
+
+The famous horse creates the stage.
+
+The jockey has to solve the problem on it.
+
+Cato’s case is much less comfortable, which is exactly why it belongs in the book.
+
+A strong modern public-history source, PBS’s *The Legacy of Black Horsemen*, places Cato on Wagner in the 1839 Louisville match races and emphasizes that the race drew national attention. That supports the competitive role. It does not settle the later story that the victory itself produced his freedom.
+
+This distinction is now a formal publication rule for the chapter.
+
+Race fact: supported.
+
+Jockey role: supported.
+
+National attention: supported.
+
+Perfect emancipation ending: disputed.
+
+The chapter becomes stronger when those four lines are separated.
+
+Why? Because historical memory is itself one of the institutions shaping athletic importance. People do not merely remember results. They edit them toward useful morals.
+
+A race can become “the day merit won freedom” because that story satisfies a national appetite for justice that arrives through individual excellence. The story says the system works if the exceptional person performs well enough.
+
+That is a comforting proposition for institutions because it turns structural injustice into a test of individual deservingness.
+
+Win, and freedom follows.
+
+Play perfectly, and integration follows.
+
+Be twice as good, and prejudice disappears.
+
+American sports history repeatedly disproves the formula.
+
+Even when excellence opens a door, somebody has to decide whether the door stays open. Black jockey dominance in the nineteenth century did not prevent white-controlled racing institutions from narrowing access later. Jackie Robinson’s success mattered because competitive dependence eventually made return to the old color line far more costly. Billie Jean King’s victories mattered because organization converted individual credibility into durable structure.
+
+Cato’s legend is therefore not a disposable mistake around the edges of the chapter.
+
+It is a clue to the stories Americans like sports to tell.
+
+That is why a rival with a cleaner statistical record might still lose the 1830s selection. A ranking based purely on surviving wins would reward the people and sports whose institutions preserved data most effectively. Cato’s importance lies partly in showing why that preservation is uneven and why later memory can become more confident precisely where original evidence is weakest.
+
+The paired decades also reveal two different technologies of attention.
+
+Union Course is physical aggregation. People travel to the event.
+
+The Wagner-Grey Eagle story becomes narrative aggregation. The race continues to acquire meaning through paintings, print, oral retelling, books, museums, and documentaries long after the crowd has left.
+
+Modern sports do both at once. A stadium gathers bodies while television, clips, commentary, memes, documentaries, and statistics give the event a second life. The early republic had fewer channels, but the distinction already existed.
+
+Purdy owns the live moment.
+
+Cato owns the afterlife of the moment.
+
+Neither selection is a claim that no other athlete in the decade was more physically gifted.
+
+They are claims about what American sport was becoming.
+
+In the 1820s, it could gather a nation-sized audience before electronic media.
+
+In the 1830s, it could turn a Black jockey’s performance into a story powerful enough that later generations kept improving the moral ending.
+
+The first development creates mass sport.
+
+The second creates sports mythology.
+
+Modern America will build an industry out of both.
