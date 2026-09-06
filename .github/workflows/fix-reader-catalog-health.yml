@@ -40,12 +40,15 @@ jobs:
               raise SystemExit(f'Unexpected manuscript shape: {len(chapters)} chapters')
 
           def label(path):
+              if path.name == 'front-matter.md':
+                  return 'Front Matter'
+              if path.name == 'back-matter.md':
+                  return 'Back Matter'
               first = path.read_text(encoding='utf-8').splitlines()[0].strip()
               if not first.startswith('# '):
                   raise SystemExit(f'Missing H1 in {path}')
               title = first[2:].strip()
-              title = re.sub(r'^Chapter\s+(\d+)\s+—\s+', r'Ch \1 — ', title)
-              return title
+              return re.sub(r'^Chapter\s+(\d+)\s+—\s+', r'Ch \1 — ', title)
 
           lines = ['## Contents', '']
           for path in ordered:
@@ -60,11 +63,28 @@ jobs:
       - name: Require a healthy Reader catalog
         run: |
           python3 scripts/catalog.py
-          grep -Fq '(books/hallucinations/)' README.md
-          grep -Fq '(books/the-expiration-economy/)' README.md
-          grep -Fq '(books/the-deletion-economy/)' README.md
-          grep -Fq '[Front Matter](manuscript/front-matter.md)' books/the-deletion-economy/README.md
-          test "$(grep -Ec '^- \[x\] \[' books/the-deletion-economy/README.md)" -eq 21
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          root = Path('README.md').read_text(encoding='utf-8')
+          for slug in ('hallucinations', 'the-expiration-economy', 'the-deletion-economy'):
+              needle = f'](books/{slug}/)'
+              assert needle in root, f'{slug} missing from generated root catalog'
+
+          deletion = Path('books/the-deletion-economy/README.md').read_text(encoding='utf-8')
+          entries = re.findall(r'^- \[x\] \[([^\]]+)\]\((manuscript/[^)]+)\)$', deletion, re.M)
+          assert len(entries) == 21, f'expected 21 Reader entries, found {len(entries)}'
+          assert entries[0] == ('Front Matter', 'manuscript/front-matter.md')
+          assert entries[-1] == ('Back Matter', 'manuscript/back-matter.md')
+          chapter_paths = [path for _, path in entries[1:-1]]
+          assert len(chapter_paths) == 19
+          assert len(set(chapter_paths)) == 19
+          for number, (title, path) in enumerate(entries[1:-1], start=1):
+              assert title.startswith(f'Ch {number} — '), (number, title)
+              assert path.startswith(f'manuscript/ch{number:02d}-'), (number, path)
+          print('Deletion Economy Reader checklist: 21 canonical entries')
+          PY
           node desk/catalog-contract.test.mjs
           node reader/js/desk-pwa-contract.test.mjs
           git diff --check
