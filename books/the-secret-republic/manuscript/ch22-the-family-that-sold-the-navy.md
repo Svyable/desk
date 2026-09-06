@@ -341,3 +341,129 @@ A key custodian can be weaker than either.
 John Walker did not invent a new cryptanalytic method.
 
 He made one unnecessary.
+
+The scale of the compromise becomes clearer when set against the other espionage arrests of 1985.
+
+The FBI's own retrospective calls the period the Year of the Spy and describes Walker's ring as compromising at least one million classified messages over more than seventeen years. The same page places his case beside Pollard, Pelton, Sharon Scranage, Larry Wu-tai Chin, and others whose access came from different corners of the American security establishment.
+
+The cases did not reveal one broken office.
+
+They revealed the geometry of a large intelligence state.
+
+The Navy had communications specialists.
+
+The NSA had collection specialists.
+
+The CIA had officers and support personnel overseas.
+
+Defense organizations had analysts.
+
+Each specialization created a different inventory of secrets and a different insider who could sell them.
+
+As the national-security system became more capable, it also became more divisible.
+
+No foreign service needed one penetration capable of seeing everything.
+
+Several narrower penetrations could assemble a picture.
+
+This is aggregation from the attacker's side.
+
+Defenders use compartmentation because no single employee should possess all sensitive information. Attackers can respond by recruiting more than one employee.
+
+Walker did that inside one domain.
+
+His ring is therefore a miniature version of a foreign intelligence service's broader strategy: collect complementary fragments from people whose individual access may seem containable.
+
+The family structure made that aggregation unusually efficient.
+
+Arthur Walker worked in defense-related employment and passed material through his brother. Michael Walker's naval service created another access point. Jerry Whitworth extended the ring's reach after John Walker left active duty. The FBI records the result in a few lines, but the institutional lesson is larger.
+
+The handler did not need to establish a separate trusted relationship with every recruited American.
+
+Walker could recruit and mediate.
+
+The Soviets had recruited a recruiter.
+
+That is a force multiplier in human intelligence.
+
+It also transfers risk. A principal source who recruits others can conceal facts from the foreign service, skim payments, exaggerate access, or expose the entire network through one personal collapse. The service gains scale while depending more heavily on a person it does not control.
+
+The Walker network eventually failed through exactly that kind of personal seam.
+
+Barbara Walker's tip to the FBI is usually told as the dramatic moral reversal: an ex-wife finally exposes the spy. The more useful point is that intimate relationships contain information formal security systems may not.
+
+A spouse sees spending, absences, secretive behavior, strange communications, unexplained travel, fear, anger, and the private stories used to explain them.
+
+A security office sees forms.
+
+Neither perspective is sufficient alone.
+
+The danger is obvious in both directions. A resentful former spouse can make a false accusation. A security office that ignores spouses because they are emotional or biased can miss information no audit log contains.
+
+Counterintelligence has to accept imperfect witnesses without becoming captive to them.
+
+The FBI did not arrest Walker because Barbara accused him.
+
+It used her information to investigate.
+
+That distinction is the procedural heart of the case.
+
+Tip becomes hypothesis.
+
+Hypothesis becomes surveillance.
+
+Surveillance becomes observed behavior.
+
+Observed behavior becomes recoverable evidence.
+
+The May 1985 dead drop mattered because it converted a long-hidden pattern into an act investigators could document directly.
+
+The progression resembles the best parts of intelligence analysis: do not confuse an allegation with proof, but do not discard an allegation merely because the source is complicated.
+
+Source evaluation is not source worship.
+
+It is disciplined use of imperfect access.
+
+The Walker story also clarifies why communications security is a system rather than a device. The FBI says Soviet handlers gave Walker a mechanism that could record settings from cryptographic equipment. The detail sounds like gadgetry from a spy museum. In operational terms, it demonstrates that an adversary can use a human source to bridge the final technical gap.
+
+The source has physical access.
+
+The foreign service has engineering expertise.
+
+The device connects them.
+
+Neither side alone may possess the full capability.
+
+Together they defeat the defense.
+
+This hybrid pattern now appears everywhere in cyber espionage. A network intrusion provides access; stolen credentials provide identity; malware automates collection; a human operator decides what matters. The boundary between human and technical intelligence is less rigid than organizational charts suggest.
+
+Walker was not a hacker.
+
+He was a human exploit against a cryptographic system.
+
+The adversary supplied tooling.
+
+The phrase could describe a twenty-first-century intrusion almost unchanged.
+
+That continuity is why the chapter belongs next to Ames and Hanssen rather than inside a museum of Cold War oddities.
+
+The objects age.
+
+The attack path survives.
+
+Find the person who has the privilege the system cannot function without.
+
+Turn privilege into access for someone else.
+
+Stay quiet long enough that normal operations become the collection stream.
+
+The Navy's encryption was designed to stop an enemy listening outside the network.
+
+Walker made the enemy part of the key-management process.
+
+That is what betrayal does at its most effective.
+
+It does not always smash the lock.
+
+It changes who the lock recognizes.
