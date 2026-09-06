@@ -11,7 +11,7 @@
 | **Chapters** | 20 of 20 drafted |
 | **Method** | Narrative nonfiction + cross-domain case studies + primary-source research + falsification notes |
 | **Release Review** | Release-cleared subject only to ordinary mechanical publication steps; see [research/release-review.md](research/release-review.md) |
-| **Shelf Snapshot** | First-edition publication transaction frozen from Desk `36e08345ba046b1659b158952237ca93bb418b5d`; counterpart Shelf PR #225 |
+| **Shelf Snapshot** | First-edition publication transaction frozen from Desk `f2c930a0ad127d79469e503b4342ee645c5c6cac`; counterpart Shelf PR #225 |
 
 We are entering an age in which making a thing can take minutes and caring for it can take decades.
 
