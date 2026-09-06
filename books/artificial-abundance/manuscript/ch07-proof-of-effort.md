@@ -78,6 +78,16 @@ It says cost sometimes helped make a signal informative.
 
 Remove the cost and the receiver has to find evidence closer to the thing actually being measured.
 
+There is an important asymmetry here. The sender receives the productivity gain first. The receiver inherits the verification problem.
+
+If a job applicant can produce a polished work sample in minutes, the applicant saves time. The employer does not automatically save the same amount. It may now have to inspect more samples, ask different questions, run a live exercise, check references more carefully, or test whether the candidate can adapt the work when a premise changes.
+
+Cheap signaling can therefore move cost across the transaction rather than simply remove it.
+
+That incidence matters. A school may save students hours of drafting and spend more teacher hours establishing what was learned. A marketplace may make listing creation nearly free and spend more on moderation and fraud detection. A company may automate personalized outreach and impose more screening work on everyone receiving it.
+
+The abundance is real. So is the receiving-side tax.
+
 Consider education.
 
 An essay has always been an imperfect measure of understanding. A student can memorize, imitate, receive help, misunderstand the prompt, write badly despite understanding the material, or write beautifully while reasoning poorly. Teachers know this.
@@ -181,6 +191,12 @@ Some merely move the tollbooth.
 A harder test is not necessarily a better test. A longer hiring process can consume more candidate time without predicting job performance more accurately. A requirement that work be performed manually can make fraud harder while also excluding people who use tools well. A credential can protect a public standard or become a way for insiders to defend a rent.
 
 The failure of an old signal creates a design problem, not a command to manufacture new hardship.
+
+The cost of a replacement signal should be counted on both sides. A three-hour live exercise may give an employer better evidence than a take-home sample, but it also charges every candidate three hours. A new credential may restore confidence while shifting money and time toward the credentialing institution. A detailed process log may help an evaluator and quietly turn ordinary work into permanent audition.
+
+The right comparison is not old signal versus new signal in the abstract. It is the information gained from the replacement against the burden required to produce and inspect it.
+
+A signal can become more difficult and less informative at the same time.
 
 This distinction becomes especially important in creative work.
 
