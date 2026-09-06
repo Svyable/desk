@@ -185,3 +185,89 @@ Jim Creighton embodied all four changes.
 Then his death gave baseball something else every national mythology seems to require: a brilliant young figure who can never decline.
 
 He remains twenty-one years old forever, throwing harder than the rules expected and forcing the game to catch up.
+
+## The challenger test: the player who changes everyone else’s job
+
+The strongest 1860s alternative is not one person. It is the argument that institutions matter more than innovators.
+
+Baseball was spreading because clubs organized, rules standardized, tours connected cities, newspapers covered games, and the Civil War moved players and practices across regions. Harry Wright and other organizers would soon make professional team baseball more durable. Rowing drew major crowds. Racing remained important. Boxing continued to produce public spectacle.
+
+Why give the decade to a twenty-one-year-old whose career ended before professional baseball fully arrived?
+
+Because Creighton changes the competitive problem every future team has to solve.
+
+That is a special form of importance.
+
+An organizer can create a schedule. An owner can fund a club. A rules committee can write a book. The athlete who discovers a new advantage can force all three to react.
+
+Once pitching becomes an attacking weapon, clubs need better pitchers. Hitters need new approaches. Catchers must manage more difficult deliveries. Umpires must distinguish legal pitching from illegal throwing. Rulemakers have to decide how much dominance the sport wants to permit. Spectators begin to care about a confrontation that previously functioned more as setup than showdown.
+
+The innovation cascades.
+
+This is why “adaptation debt” is a useful way to think about sports change. Creighton imposes a cost on everyone who wants to remain competitive. You can complain that the technique violates the spirit of the game. You can try to outlaw it. You can imitate it. What you cannot do indefinitely is pretend the new advantage does not exist.
+
+Sports history is full of these moments.
+
+The jump shot forces defenders upward.
+
+The forward pass stretches football horizontally and vertically.
+
+The Fosbury Flop changes how high jumpers imagine the bar.
+
+Three-point volume changes basketball roster construction.
+
+A dominant serve changes return position.
+
+A two-way baseball star can change how clubs think about roster value.
+
+The innovation becomes important when the rest of the sport starts spending resources to answer it.
+
+Creighton passes that test.
+
+His case also exposes the difference between a rule and the purpose people assumed the rule served. Early pitching rules described a delivery within a game culture that expected the pitcher to initiate play. Creighton operated near the edge of the text in a way that challenged the expectation. This is common in competitive systems. Participants optimize the literal rule until the rule reveals an unstated assumption.
+
+Then the institution has a choice.
+
+Protect the assumption.
+
+Rewrite the rule.
+
+Or accept the new game.
+
+The most important innovators force that choice.
+
+Creighton also accelerates the professional question because unusually valuable skill strains amateur language. If one player can change attendance, competitive results, touring appeal, and a club’s reputation, the fiction that everyone is merely participating for gentlemanly recreation becomes economically unstable.
+
+Payment tends to arrive before ideology admits it.
+
+Jobs are arranged.
+
+Expenses appear.
+
+Compensation becomes indirect.
+
+The institution keeps saying amateur because the word protects a social ideal even after the market has begun pricing talent.
+
+This pattern is important enough to survive far beyond baseball. Jim Thorpe will later discover that institutions can punish an athlete for accepting money while earning revenue and prestige from the athlete’s supposedly pure performance. College sports will spend generations defending a version of the same asymmetry. The details change; the tension between valuable performance and restricted compensation does not.
+
+Creighton gives the book an early American example before amateurism becomes a fully developed governing ideology.
+
+His death complicates the selection because mythology can exaggerate influence. A young star who dies becomes protected from ordinary decline and wrapped in a story too perfect for later generations to resist. The home-run rupture tale gives him narrative power that a long career might not have produced.
+
+That is precisely why the chapter separates the death legend from the pitching case.
+
+If tomorrow a medical historian conclusively disproved the famous home-run mechanism, Creighton would still own the decade in this book.
+
+If tomorrow researchers demonstrated that his supposedly revolutionary pitching style had actually been common for years and generated little contemporary adaptation, the selection would weaken dramatically.
+
+That distinction identifies the load-bearing claim.
+
+The legend is memorable.
+
+The changed job description is historical.
+
+Creighton’s importance therefore survives the uncertainty around the most cinematic part of his life.
+
+He does not need to die from baseball to matter.
+
+He only needs to have made baseball change while he was alive.
