@@ -240,6 +240,30 @@ It is an argument for measuring the work that remains.
 
 The scarce human hour may become more expensive because every minute contains a higher concentration of unresolved uncertainty.
 
+The queue also changes the information available to the institution.
+
+When people handled the ordinary cases, they continuously sampled the ordinary world. They saw what normal looked like this week. They noticed when a familiar complaint changed wording, when a routine exception became less routine, when a supposedly rare workaround started appearing every afternoon. That background exposure helped them recognize an anomaly because they still knew the baseline.
+
+A highly automated system can remove that exposure. Humans see only the cases the machine already considers strange. The arrangement is efficient, but it can make the reviewers dependent on the same classification boundary they are supposed to supervise.
+
+This creates a monitoring problem. If the environment drifts slowly, the exception queue may not announce the drift. The model can continue routing cases according to yesterday's definition of normal while the people responsible for oversight have fewer direct encounters with the cases labeled normal.
+
+Good oversight therefore needs deliberate sampling, not merely escalation.
+
+Some ordinary cases should be inspected even when the system is confident. Some automated approvals should be audited after the fact. Reviewers need access to the denominator, not only the failures. Otherwise the institution learns a distorted lesson from its own queue: everything humans see is difficult, and everything humans do not see must be fine.
+
+That lesson is convenient and unsafe.
+
+There is a related capacity problem. A queue is not merely a count of cases. It is a distribution of service times. Ten routine questions that each take three minutes are not equivalent to ten ambiguous disputes that each require an hour, two phone calls, and a manager. Once automation strips out the predictable work, headcount formulas based on historical case volume can become nonsense.
+
+The organization has to budget for variance as well as averages.
+
+That may mean keeping apparent slack. A team responsible for rare, consequential exceptions can look underutilized on a calm day and become indispensable on a bad one. Efficiency measures that punish the slack can quietly destroy the institution's ability to absorb a burst of difficult cases.
+
+The same logic is familiar in emergency rooms, incident response, and other systems built around uncertain arrivals. Capacity that is unused at noon is not necessarily waste if it is what prevents collapse at four.
+
+Artificial abundance makes this kind of capacity planning a cognitive problem too. If machines take the smooth center of the distribution, the human organization increasingly exists for the tails.
+
 That is exactly what a bottleneck does.
 
 But abundance changes glamour too.
