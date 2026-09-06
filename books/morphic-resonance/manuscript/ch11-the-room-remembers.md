@@ -243,3 +243,53 @@ The room remembers.
 That is useful when the room learned something worth keeping.
 
 It becomes a problem when everyone inside has changed and the furniture is still running the meeting.
+
+There is another way to notice the room's memory: find the person for whom the room does not work.
+
+A design often reveals its assumptions most clearly at the edge. A counter height that disappears into the background for one person becomes an obstacle for another. A staircase that reads as circulation to some people reads as exclusion to others. A form that treats one kind of name, family, address, or body as ordinary can turn everybody else into an exception workflow.
+
+The “normal user” is frequently a historical artifact.
+
+Once a design has been copied enough times, the body or behavior it assumed can begin to look like a fact of nature rather than a design choice. Manufacturers build complementary products around it. regulations refer to it. Training material presumes it. Cost estimates use it as baseline. Later designers inherit the dimensions and may never see the person who was omitted from the original room.
+
+This is preserved consequence in a particularly intimate form.
+
+The environment does not merely remember a prior solution. It remembers who the prior solution was for.
+
+That observation changes what redesign means. Accessibility is not simply the addition of an accommodation after the “real” design is finished. In many cases it is evidence that the supposedly neutral room had been carrying an old model of the user all along.
+
+Software behaves the same way. A mandatory field may assume everybody possesses a particular identifier. A scheduling system may assume time is divided into standard blocks. A workflow may assume a transaction has one owner. An account system may assume a stable address. When the world presents a case outside those assumptions, employees often describe the case as complicated.
+
+Sometimes the case is not complicated.
+
+The schema is narrow.
+
+This distinction matters because complexity gets attributed to the person who does not fit rather than to the historical architecture that made one path cheap and every other path expensive.
+
+Defaults provide a clean demonstration of this kind of quiet power. Eric Johnson and Daniel Goldstein's well-known work on organ-donation defaults helped make default effects widely discussed, though later work has complicated simplistic country-to-country stories about why donation systems differ. The careful lesson is not that one default produces one universal behavioral magnitude. It is that apparently passive starting conditions can materially change decisions in some contexts.
+
+A default is environmental memory at the moment of choice.
+
+It says: unless you spend effort, continue from here.
+
+That effort may be tiny in any one instance. Over millions of decisions, tiny effort becomes architecture.
+
+This is why reversibility matters in design. Some environmental memories are easy to change. Move the chairs. Change the preselected option. Rename a field. Others have accumulated so many complements that redesign becomes a capital project. Move a highway. Replace a national standard. Rebuild a hospital wing. Rewrite software depended on by hundreds of systems.
+
+The cost of forgetting depends on how deeply memory has been embedded.
+
+That gives us a practical way to distinguish a preference from a trap. Change the environment temporarily and see what behavior changes with it. Hide the popularity count. Move the furniture. Reverse the default. Offer a route with equal friction. Remove the inherited category from the form. The intervention will not answer every causal question, but it tells us whether the supposedly natural pattern was being subsidized by its surroundings.
+
+This is also why experimental rooms deserve suspicion. The apparatus may contain a history of adjustments made during pilot runs. The instructions may have been clarified after early participants misunderstood them. The “neutral” position of an object may be the placement that produced cleaner data last time. None of this is misconduct. It is normal research craft.
+
+But craft is memory.
+
+When later subjects improve, the room may have improved first.
+
+A theory of unknown transmission has to distinguish the subject's inheritance from the experiment's inheritance.
+
+The cleanest experiment is therefore not necessarily the emptiest room. It is the room whose relevant history has been made visible enough to control.
+
+That is harder.
+
+It is also where the room finally stops pretending to be background.
