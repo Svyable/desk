@@ -24,6 +24,76 @@ Evolution therefore occurs in a world partly engineered by previous life.
 
 This complicates the image of natural selection as an organism standing before a fixed test. The test changes. Sometimes the organism helped write it.
 
+The distinction between environmental modification and ecological inheritance is worth keeping clear because the words can otherwise expand until they mean everything organisms do. In the niche-construction literature, the first step is that an organism alters features of its environment. The second is that the alteration persists long enough, or recurs reliably enough, to become part of the selective or developmental environment encountered later. The legacy is what makes the history consequential.
+
+A footprint in wet soil is an environmental modification.
+
+A network of trails that repeatedly redirects movement is closer to inheritance.
+
+A bird moves a twig and changes a location for a moment.
+
+A nest changes the microenvironment in which offspring develop.
+
+An organism consumes food and leaves less behind.
+
+A population repeatedly changes resource distributions, soil chemistry, vegetation, or habitat structure in ways that affect later organisms.
+
+The boundary is not always clean, which is why the mechanism has to be specified instead of merely named.
+
+John Odling-Smee, Douglas Erwin, Eric Palkovacs, Marcus Feldman, and Kevin Laland emphasized this legacy dimension in their practical guide to niche construction. They used *ecological inheritance* for the inherited environmental consequences of prior niche construction and argued that these legacies can create ecological and evolutionary feedbacks with detectable signatures.
+
+That is a much narrower claim than “organisms direct their own evolution.”
+
+An organism can change a condition without anticipating the evolutionary consequences. A beaver need not understand hydrology. An earthworm need not possess a theory of soil. A tree that changes shade and litter chemistry is not choosing the species that will later thrive nearby.
+
+Intent is unnecessary.
+
+Consequences are enough.
+
+This matters because human intuition tends to equate construction with a constructor holding a plan. In niche construction, the causal work can be entirely local. A behavior changes a physical condition. The physical condition changes survival, development, or interaction. Later generations encounter the modified state.
+
+The environment becomes an intermediary between past and future.
+
+That is exactly the kind of intermediary a theory of morphic resonance must rule out before treating recurrence as nonlocal.
+
+Suppose a behavior appears in descendants even when direct teaching is absent. If the relevant habitat was modified by previous generations, the descendants may be responding independently to a shared inherited environment. Their similar behavior does not require them to retrieve a collective behavioral memory. The world presents similar cues because earlier organisms helped preserve those cues.
+
+This is a form of causal relay.
+
+Past organism.
+
+Changed environment.
+
+Later organism.
+
+The middle term can be overlooked because the environment is treated as background rather than as part of the inheritance system.
+
+The same error appears in laboratory work. A cage, apparatus, substrate, microbial community, odor profile, handling routine, or local material can carry state forward between experimental generations. An experiment designed to test inheritance is only as clean as its reset.
+
+Resetting the animal while preserving the room is not a full reset.
+
+Resetting the room while preserving the experimenter's learned technique is not a full reset either.
+
+The problem grows as systems become more complex because environmental inheritance can be redundant. Several traces may support the same behavior. Remove one and another recreates the cue. The recurrence then looks robust enough to invite an invisible explanation when the visible explanation was simply distributed.
+
+This is why niche construction belongs in this book without being evidence for Sheldrake's hypothesis. It teaches a discipline of looking between generations.
+
+What did the first generation leave in the world?
+
+How long did it last?
+
+Who encountered it?
+
+Did the legacy change development, behavior, or selection?
+
+If the legacy is experimentally removed, does the recurrence weaken?
+
+These questions turn “the environment matters” into a causal program.
+
+They also reveal the difference between inheritance and copying. A later organism does not need to imitate a predecessor. It can independently respond to a condition the predecessor created. Similarity of outcome can therefore arise without social learning, genetic change, or direct contact.
+
+That is a more subtle ordinary channel than most debates allow.
+
 The idea matters for morphic resonance because repetition can become easier through environmental continuity alone. An animal behavior may recur because predecessors created a structure that elicits or supports it. A migration route may persist because physical landmarks, learned social routes, resource patterns, and landscape changes reinforce it. A plant community may reproduce conditions favorable to similar plants. A human occupation may run in families because tools, networks, expectations, and local opportunities are inherited alongside any biological predisposition.
 
 The next generation starts closer to the old answer.
