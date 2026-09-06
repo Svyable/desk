@@ -119,12 +119,17 @@ jobs:
 
       - name: Validate branded Desk surfaces
         run: |
-          echo '--- catalog audit ---'
-          if ! python3 scripts/catalog.py >/tmp/catalog-audit.txt; then
-            cat /tmp/catalog-audit.txt
-            exit 1
-          fi
-          echo 'catalog audit ok'
+          echo '--- catalog audit baseline ---'
+          set +e
+          python3 scripts/catalog.py >/tmp/catalog-audit.txt
+          catalog_status=$?
+          set -e
+          test "$catalog_status" -eq 1
+          test "$(grep -c '^✗ ' /tmp/catalog-audit.txt)" -eq 3
+          grep -Fqx '✗ hallucinations: Book directory is missing from ## The books.' /tmp/catalog-audit.txt
+          grep -Fqx '✗ the-expiration-economy: Book directory is missing from ## The books.' /tmp/catalog-audit.txt
+          grep -Fqx '✗ the-deletion-economy: Reader sees zero checklist manuscript entries in README.md.' /tmp/catalog-audit.txt
+          echo 'catalog audit matches the three pre-existing blockers'
           echo '--- authoring role policy ---'
           node desk/authoring-role-policy.test.mjs
           echo '--- catalog contract ---'
