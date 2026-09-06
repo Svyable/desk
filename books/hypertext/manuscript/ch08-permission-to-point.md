@@ -277,3 +277,103 @@ Once that happened, permissionless pointing acquired a second life.
 A link no longer only told the reader where to go.
 
 It began telling machines what might matter.
+
+The W3C's later architectural discussion of deep linking makes the underlying principle unusually explicit. If a useful resource has a URI, ordinary Web architecture expects that resource to be referable. If access should be restricted, the target can use actual access controls. The fact that an owner would prefer visitors to enter through another page is not, by itself, an addressing mechanism.
+
+This distinction between reference and access is easy to blur because physical metaphors invite us to do so. A deep link sounds like somebody sneaking through a side door. But a public URI is not a locked side door in a building. It is a published name that a client may attempt to resolve.
+
+The target still governs what happens after the request arrives.
+
+It can require authentication.
+
+It can return an error.
+
+It can redirect.
+
+It can enforce payment.
+
+It can withdraw the resource.
+
+It can serve different representations under different conditions.
+
+What the ordinary link does not give the target is ownership of the source author's act of reference.
+
+That separation has an analogue in ordinary speech. A company cannot generally prevent a critic from naming it merely because the company dislikes the criticism. A book cannot decide which later books are allowed to mention its title. A public address can be written down by people who do not own the building.
+
+Hyperlinking turns that referential freedom into an executable mechanism.
+
+The analogy is imperfect because a live link can transfer attention at scale and can interact with software in ways a printed name cannot. The additional power creates legitimate security, privacy, and commercial concerns. But the baseline remains important: naming a public target and obtaining access to a protected target are different actions.
+
+This helps explain why “permission to point” should not be romanticized into “permission to take.” A link does not automatically grant the source a right to copy the target's copyrighted material, bypass authentication, impersonate the target, or evade other rules that apply to access and use. It grants far less and, architecturally, far more specific freedom: the source can express the relation.
+
+That narrow freedom produces surprising institutional leverage because relationships themselves create value.
+
+A comparison site does not need to manufacture every product it compares. It needs to identify products accurately enough to construct useful relations among them.
+
+A bibliographic index does not need to own every paper. It needs durable identifiers and metadata.
+
+A critic does not need to republish the entire speech being criticized. A direct reference can let the reader inspect the source.
+
+A teacher does not need to build a new encyclopedia. A syllabus can assemble a path through existing material.
+
+The edge creates a derivative structure without requiring the edge creator to own all the nodes.
+
+This is why the line “the curator owns the edges” deserves a second reading.
+
+Curation creates value through selection and arrangement. A playlist can be valuable even though the curator did not record the songs. A reading list can be valuable even though the professor did not write every paper. A directory can be valuable even though the editor does not operate the destinations.
+
+Hypertext makes that value machine-operable.
+
+The curator's contribution becomes a graph other people can traverse.
+
+This also explains why disputes about framing are inseparable from linking. The source chooses the anchor text, neighboring claims, order, and omissions. Two pages can link to the same target and construct opposite meanings around it. One calls it “the definitive report.” Another calls it “the report at the center of the dispute.”
+
+The target cannot control that framing without controlling the source.
+
+This is a feature for criticism and a vulnerability for reputation.
+
+A company may hate the anchor text attached to a link it cannot prevent. A person may be accurately linked from a context that radically changes how others perceive the material. A public record may become newly consequential when a large publisher makes it adjacent to millions of readers.
+
+The Web separates public availability from social visibility.
+
+Permissionless linking can collapse the distance between the two.
+
+That is why ethical linking involves more than checking whether a URL works. Authors make choices about context, scale, privacy, and likely consequences. A technically public page can contain personal information whose amplification causes harm. A source can be public for one audience and unexpectedly exposed to another.
+
+Architecture permits the edge.
+
+Judgment still governs whether to create it.
+
+The same is true for machine agents. An agent may be technically capable of following an address, extracting content, and linking it into a report. That capability does not settle whether the resulting exposure, reuse, or action is appropriate. Permission to retrieve is not automatically permission to republish. Public addressability is not a universal waiver of context.
+
+The Web's great reduction was bilateral coordination, not ethical responsibility.
+
+This is worth preserving because technology discussions often swing between two bad extremes. One says open linking is inherently virtuous because openness is good. The other says every cross-boundary use should be mediated through explicit agreements because owners deserve control.
+
+Both erase the most interesting design property.
+
+The link creates a deliberately weak relationship.
+
+Weak enough that the source can author it independently.
+
+Weak enough that the target remains autonomous.
+
+Weak enough that later institutions must supply stronger rules when consequence demands them.
+
+The result is not harmony.
+
+It is a system in which disagreement can remain connected.
+
+That may be the hyperlink's most important political achievement.
+
+The critic and the criticized do not need to join the same platform.
+
+The evidence and the interpretation do not need the same owner.
+
+The seller and the reviewer do not need the same database.
+
+The government and the newspaper do not need the same publishing system.
+
+They can remain separate and still become one edge apart.
+
+Once machines began assigning value to those edges, separation would acquire a price.
