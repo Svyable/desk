@@ -4,9 +4,16 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Complete draft |
+| **Format** | Book |
+| **Publisher** | Svyable |
+| **Edition** | First edition |
+| **Language** | English |
+| **Draft date** | 2026-09-04 |
+| **Candidate date** | 2026-09-06 |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 18 of 18 drafted |
+| **Release Review** | First edition released — canonical freeze `688016d3fa1031038dd6bf6bfba8c8a4845df351`; frozen-source length gate passed in Desk PR #1213 |
 
 *Transformer Loops and the Intelligence of the Second Pass*
 
@@ -17,6 +24,13 @@ The book introduces **neuralase** as Sven Hardy Benson’s term for the mechanis
 The central claim is that the frontier of reasoning is moving from a simple question — *How large is the model?* — toward a second question: *What is allowed to happen between the first representation of a problem and the final answer?* Parameters still matter. Data still matter. Training still matters. But inference is becoming an active computational process whose depth, branching, tools, memory, verification, and stopping rules can be designed.
 
 “Neuralase” is a coined conceptual term in this manuscript, not an established biological process, scientific field, model architecture, or claim of priority over the underlying research traditions cited in the research trail.
+
+## Publication
+
+- First Shelf edition frozen from Desk source `688016d3fa1031038dd6bf6bfba8c8a4845df351`.
+- Canonical Shelf reconciliation: `fc17e6d946221974a18c5561dd1b0b5d8e44171d` (Shelf #241), following the initial Shelf release in #239.
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/neuralase/)
+- Desk remains the working edition for future revisions; Shelf is the frozen public first edition.
 
 ## Contents
 
@@ -59,6 +73,7 @@ The central claim is that the frontier of reasoning is moving from a simple ques
 - [Chapter-source map](research/chapter-source-map.md)
 - [Falsification notes](research/falsification-notes.md)
 - [Editorial review](research/editorial-review.md)
+- [Publication checklist](research/publication-checklist.md)
 
 ## Editorial principles
 

@@ -16,13 +16,15 @@ function doesNotMatch(value, pattern) { assertions += 1; assert.doesNotMatch(val
 const presentationUrl = 'https://svyable.github.io/shelf/reader/js/presentation.js';
 const coverUrl = 'https://svyable.github.io/shelf/reader/js/cover-presentation.js';
 
-match(newPublication, new RegExp(presentationUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
-match(readerDesign, new RegExp(presentationUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
-match(coverDesign, new RegExp(coverUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
+match(newPublication, /from '\.\/reader-presentation-contract\.js'/);
+match(readerDesign, /from '\.\/reader-presentation-contract\.js'/);
+match(coverDesign, /from '\.\/cover-presentation-contract\.js'/);
 
-match(html, /<script type="importmap">/);
-match(html, /"https:\/\/svyable\.github\.io\/shelf\/reader\/js\/presentation\.js": "\.\/reader-presentation-contract\.js"/);
-match(html, /"https:\/\/svyable\.github\.io\/shelf\/reader\/js\/cover-presentation\.js": "\.\/cover-presentation-contract\.js"/);
+doesNotMatch(newPublication, new RegExp(presentationUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
+doesNotMatch(readerDesign, new RegExp(presentationUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
+doesNotMatch(coverDesign, new RegExp(coverUrl.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')));
+doesNotMatch(html, /<script type="importmap">/);
+doesNotMatch(html, /svyable\.github\.io\/shelf\/reader\/js\/(?:presentation|cover-presentation)\.js/);
 
 // The promoted contract layer must remain pure and local. Network/document/storage
 // behavior belongs to the shared Reader or the studios, not these schema modules.

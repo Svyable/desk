@@ -308,64 +308,18 @@ They should not be confused.
 
 ## The no-virality standard
 
-A mature institution should aspire to a simple standard:
+A mature institution should aspire to a simple standard: a person should not need to become content in order to obtain review.
 
-A person should not need to become content in order to obtain review.
+The ordinary route should let someone reach a reviewer with the evidence, authority, and time needed to decide the case without first assembling an audience. Fame, an employee friend, a journalist, or an executive email address will always create extra leverage; the test is whether that leverage changes access to meaningful review.
 
-They should not need a large audience.
-
-They should not need a journalist.
-
-They should not need an employee friend.
-
-They should not need an executive email address scraped from the internet.
-
-They should not need to threaten reputational damage just to reach someone capable of reading the evidence.
-
-The official path should be the best path for ordinary cases.
-
-Public escalation should remain available for systemic failure, abuse of power, or institutional refusal to learn.
-
-But it should be exceptional because the appeal system works, not routine because the appeal system does not.
+Public escalation still has a job when the rule itself is bad, the institution is abusing power, or the formal process refuses to learn. It should be a way to challenge the system, not the routine price of correcting an individual error.
 
 ## From lottery to architecture
 
-Every hidden successful escalation contains a blueprint.
+A successful backchannel intervention is useful evidence. It shows which fact unlocked the case, which person had authority to reopen it, where the official route stalled, and what had to be repaired afterward. Those are design clues.
 
-Who noticed the case?
+The institution does not need to give everyone an executive. It needs to make the capabilities that solved the exceptional case reachable by rule: a route for unusual evidence, a reviewer with enough authority, an escalation trigger tied to stakes or contradiction, and a record of what changed.
 
-What information did they obtain?
+Discretion will remain. Escalation will remain. Public pressure should remain. The improvement is to make ordinary correction depend less on social proximity and public spectacle.
 
-What authority did they use?
-
-What rule did they interpret?
-
-What evidence changed the answer?
-
-How quickly did they act?
-
-What downstream systems did they repair?
-
-That sequence can often be formalized.
-
-The institution can build a route that gives ordinary people access to the same essential capabilities without giving everyone access to an executive.
-
-That is how a shadow appellate system becomes a public one.
-
-The goal is not to eliminate discretion.
-
-It is to distribute access to discretion by relevant criteria rather than social proximity.
-
-The goal is not to eliminate escalation.
-
-It is to make escalation legible.
-
-The goal is not to eliminate public pressure.
-
-It is to stop requiring public pressure for private correction.
-
-When the loudest case is the fastest case, the institution is not merely hearing appeals.
-
-It is auctioning correction for attention.
-
-Civilization can do better than that.
+When the loudest case is the fastest case, attention has become part of the price of correction. An appeal system earns its name when a quiet case can reach the same serious review.

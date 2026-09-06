@@ -27,11 +27,17 @@ The test for each chapter is: **Does this chapter explain a new scarcity, premiu
 
 Start with the observable fall in inference cost at a fixed capability threshold. Distinguish expensive fixed infrastructure from cheap marginal output, then show why falling marginal cost expands demand into tasks that previously had no human-service market at all.
 
+The chapter should keep several prices separate. Provider inference cost, user subscription or metered price, user time, verification cost, and expected error cost can diverge. Artificial abundance requires generation to become cheap enough to change behavior; it does not require responsibility or verification to become cheap at the same rate.
+
 Falsification note: if price-performance improvement stalls for a sustained period, usage remains heavily rationed by price, or capable systems remain too unreliable for meaningful incremental work, the abundance framing weakens and should be narrowed to specific domains.
 
 ### 2. The Abundance Machine
 
 Explain the industrial backstage: chips, data centers, electricity, capital, and engineering. The chapter's job is to prevent "cheap intelligence" from becoming a claim that cognition has escaped physical scarcity. The key mechanism is high fixed cost plus low marginal cost, combined with cheap variation and personalization.
+
+A second mechanism is transaction size. A human professional may be able to answer a small question quickly while procurement, scheduling, minimum engagement size, and coordination make the transaction uneconomic. A model can make five minutes of cognitive work addressable without hiring someone for five minutes. This lowers transaction cost as well as production cost and helps explain demand from uses that had no previous invoice.
+
+Keep this chapter distinct from Chapters 17–18: the opening chapter explains the production architecture of downstream abundance. The later physical chapters examine what happens when abundant digital demand collides with power, facilities, embodied services, location, maintenance, and other physical constraints.
 
 Falsification note: if infrastructure scarcity dominates end-user economics to the point that marginal cognitive work remains expensive, then the book should treat abundance as a temporary subsidy regime rather than a durable economic condition.
 
@@ -39,13 +45,19 @@ Falsification note: if infrastructure scarcity dominates end-user economics to t
 
 Use earlier abundance transitions to establish the method: when one layer gets cheap, find the complementary bottleneck. Photography, recorded music, digital publishing, software, and professional services provide analogies, but the chapter must avoid claiming that value is conserved or that every displaced profit pool reappears elsewhere.
 
+The recorded-music case should remain conditional: Mortimer, Nosko, and Sorensen found that file sharing reduced album sales while increasing live-performance revenues for smaller artists, with negligible live-revenue effects for large established artists. This supports complement migration for some producers, not a universal law that live revenue replaces recorded revenue.
+
+The newspaper-classified case supplies the opposite pressure. FCC reporting using Newspaper Association of America data shows U.S. newspaper classified revenue falling from about $19.6 billion in 2000 to $5.6 billion in 2010 as recession effects combined with migration toward Craigslist and specialized online marketplaces. The chapter should use this as evidence that unbundling can destroy an incumbent cross-subsidy even when consumers gain cheaper matching and value moves to adjacent services. Do not attribute the full decline to one website or to digitization alone.
+
 Falsification note: some markets may simply shrink. The thesis is migration of relative advantage, not conservation of revenue or employment.
 
 ### 4. The Taste Economy
 
 Define taste as discrimination among plausible alternatives after formal requirements are satisfied. Show why cheap generation increases the importance of rejection, coherent direction, and contact with consequences. Preserve the training problem: if junior production work disappears, professions may lose one of the routes by which judgment was formed.
 
-Falsification note: selection itself can be automated. The chapter should therefore locate human taste mainly at the choice of objective, frame, tradeoff, and responsibility—not assume humans remain superior at ranking every output.
+The chapter can use Bastani et al. only as a bounded mechanism. In one high-school mathematics experiment, standard GPT-4 access raised assisted-practice performance but was followed by worse unassisted exam performance, while a teacher-informed guarded tutor improved practice and largely avoided the learning penalty. This supports the distinction between borrowed performance and skill formation; it does not prove professional deskilling.
+
+Falsification note: selection itself can be automated. The chapter should therefore locate human taste mainly at the choice of objective, frame, tradeoff, and responsibility—not assume humans remain superior at ranking every output. Tool design can also improve learning, so the apprenticeship argument should target assistance that removes prediction, diagnosis, and reconstruction rather than assistance in general.
 
 ## Planned research questions
 
@@ -66,6 +78,8 @@ Falsification note: selection itself can be automated. The chapter should theref
 
 The 2025 AI Index provides the fixed-performance inference-cost comparison used in Chapter 1: a model reaching the GPT-3.5-equivalent MMLU threshold fell from roughly $20 per million tokens in November 2022 to $0.07 by October 2024. The 2026 report provides newer context on capability, adoption, data centers, compute capacity, consumer surplus, and the continued jaggedness of model performance.
 
+The 2026 economy chapter summarizes longitudinal U.S. discrete-choice experiments from late 2024 (N=1,400) and early 2026 (N=2,000) that estimate annual consumer surplus from generative-AI access rising from about $112 billion to $172 billion. Use this to separate value-to-user from price and provider revenue. The estimate is survey-based welfare measurement, not cash expenditure, GDP, labor replacement value, or guaranteed social return.
+
 - https://hai.stanford.edu/ai-index/2025-ai-index-report/research-and-development
 - https://hai.stanford.edu/ai-index/2026-ai-index-report
 - https://hai.stanford.edu/ai-index/2026-ai-index-report/research-and-development
@@ -75,6 +89,8 @@ The 2025 AI Index provides the fixed-performance inference-cost comparison used 
 ### METR task horizons
 
 METR's task-completion time-horizon work is useful for describing longer agentic work without pretending there is one clean boundary between "can" and "cannot." The page was last updated May 8, 2026 and reports success probabilistically against tasks measured by human-expert completion time.
+
+The metric is a task-difficulty measure, not the elapsed time an AI can autonomously operate. The current task suite is concentrated in software engineering, machine learning, and cybersecurity, and METR warns that measurements above 16 human-expert hours are unreliable with the present suite. Keep these limitations in the manuscript whenever the time horizon is used to suggest expanding capability.
 
 - https://metr.org/time-horizons/
 
@@ -86,6 +102,16 @@ Use with explicit limitation: these datasets describe Claude usage, not the whol
 - https://www.anthropic.com/research/claude-code-expertise
 - https://www.anthropic.com/research/economic-index-june-2026-report
 
+### Historical value-migration controls
+
+Mortimer, Nosko, and Sorensen examine digital distribution, recorded music, and live performance. Their result is useful because it resists a neat complement story: file sharing reduced album sales and increased live-performance revenues for smaller artists, while large established artists did not show the same live-revenue effect. Use the result to show conditional migration, not conservation of industry revenue.
+
+- https://doi.org/10.3386/w16507
+
+The Federal Communications Commission's 2011 report *The Information Needs of Communities* records Newspaper Association of America data showing U.S. classified-ad revenue falling from about $19.6 billion in 2000 to $5.6 billion in 2010. The report discusses migration to Craigslist and specialized sites alongside the recession and broader advertising declines. Use this to show that a cheaper digital matching layer can strip a profitable cross-subsidy from an incumbent institution; do not claim one platform caused the entire decline.
+
+- https://docs.fcc.gov/public/attachments/DOC-307406A1.pdf
+
 ### Productivity evidence
 
 Brynjolfsson, Li, and Raymond's customer-support study remains a useful early causal estimate of generative AI assistance at work. The reported average productivity gain was about 14%, with larger gains for novice and lower-skilled workers. Treat this as evidence from one setting, not a universal productivity multiplier.
@@ -93,6 +119,15 @@ Brynjolfsson, Li, and Raymond's customer-support study remains a useful early ca
 - https://www.nber.org/papers/w31161
 
 The broader literature also includes Noy and Zhang's writing-task experiment and the BCG knowledge-work field experiment. These can support later chapters on changing production costs and expertise, subject to their domain limits.
+
+### Learning under assistance
+
+Bastani et al. provide a causal mechanism for Chapter 4's training problem. In a randomized field experiment involving nearly 1,000 high-school mathematics students in Turkey, standard GPT-4 assistance improved performance while the tool was available but was followed by lower unassisted exam performance. A teacher-informed guarded tutor improved assisted performance while largely eliminating the later learning penalty.
+
+This is not workplace evidence and should not be generalized into a claim that AI deskills professionals. It supports the narrower distinction between immediate output and independent skill formation, while showing that tool design can preserve or improve learning.
+
+- https://doi.org/10.1073/pnas.2422633122
+- See [Chapter 4 learning guardrails](ch04-learning-guardrails.md)
 
 ## Evidence discipline
 
@@ -103,4 +138,6 @@ The broader literature also includes Noy and Zhang's writing-task experiment and
 - Distinguish cheap generation from cheap verification, cheap responsibility, and cheap physical execution.
 - Do not use historical abundance analogies as proof that AI will reproduce the same labor or industry outcome.
 - Preserve counterexamples where standardization, human review, or deliberate friction remains valuable even when customization becomes cheap.
+- Do not treat historical complement effects as proof that lost profit pools or jobs are conserved elsewhere.
+- Do not generalize a high-school learning experiment directly to professional apprenticeship.
 - Avoid invented quotations, fictional scenes, and precise anecdotes that do not have a source trail.

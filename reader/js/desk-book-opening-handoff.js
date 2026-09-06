@@ -1,5 +1,15 @@
-// Desk adapter for Bookself's optional shelf/resume -> cover/read handoff.
-// Shared Shelf runtime remains canonical; this module owns presentation continuity only.
+// Desk adapter for Bookself #295's optional shelf/resume -> cover/read handoff.
+// Shared Shelf runtime remains canonical; this module owns only the temporary
+// physical continuity and cover-action hierarchy that Shelf does not yet carry.
+const COVER_MORE_ACTION_IDS = Object.freeze([
+  'copyPreviewBtn',
+  'citeBtn',
+  'feedbackBtn',
+  'sourceLink',
+  'historyLink',
+  'rightsLink',
+]);
+
 let pending = null;
 let cleanupTimer = 0;
 
@@ -50,6 +60,42 @@ function syncCoverMaterial() {
   if (page && cloth) page.style.setProperty('--book-handoff-cloth',cloth);
 }
 
+function installCoverDockHierarchy() {
+  const dock = document.getElementById('coverDock');
+  if (!dock || dock.dataset.bookHandoffReady === 'true') return null;
+  const actions = COVER_MORE_ACTION_IDS.map((id) => document.getElementById(id)).filter(Boolean);
+  if (!actions.length) return null;
+  dock.dataset.bookHandoffReady = 'true';
+
+  const details = document.createElement('details');
+  details.className = 'cover-more';
+  const summary = document.createElement('summary');
+  summary.textContent = 'More';
+  summary.setAttribute('aria-label', 'More book actions');
+  const menu = document.createElement('div');
+  menu.className = 'cover-more-menu';
+  menu.setAttribute('role', 'group');
+  menu.setAttribute('aria-label', 'Book actions');
+  actions.forEach((action) => menu.appendChild(action));
+  details.append(summary, menu);
+  dock.appendChild(details);
+
+  details.addEventListener('toggle', () => {
+    if (details.open) menu.querySelector(':is(button,a):not([hidden])')?.focus({ preventScroll: true });
+  });
+  menu.addEventListener('click', (event) => {
+    if (event.target.closest('a,button')) queueMicrotask(() => { details.open = false; });
+  });
+  details.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && details.open) {
+      event.preventDefault();
+      details.open = false;
+      summary.focus({ preventScroll: true });
+    }
+  });
+  return details;
+}
+
 async function settlePending() {
   if (!pending) return;
   const stage = document.body.dataset.stage;
@@ -83,9 +129,14 @@ async function settlePending() {
 
 function initialize() {
   document.documentElement.dataset.bookOpeningHandoff = 'true';
+  const coverActions = installCoverDockHierarchy();
   syncCoverMaterial();
   document.addEventListener('click',captureSource,true);
-  const observer = new MutationObserver(() => { syncCoverMaterial(); void settlePending(); });
+  const observer = new MutationObserver(() => {
+    if (document.body.dataset.stage !== 'cover' && coverActions?.open) coverActions.open = false;
+    syncCoverMaterial();
+    void settlePending();
+  });
   observer.observe(document.body,{attributes:true,attributeFilter:['data-stage']});
   window.addEventListener('popstate',cleanupPending);
 }

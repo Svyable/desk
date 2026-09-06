@@ -5,12 +5,13 @@ each chapter is a page, and GitHub keeps every version.
 
 This walkthrough uses the GitHub website on a computer.
 
-This repository is the **private Desk** in a
+This repository is **Sven Hardy Benson’s working Desk** in a
 [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
-setup. The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf).
-This Svyable Desk also has an intentionally public working-draft Reader at
-`https://svyable.github.io/desk/reader/`. That preview is public even though
-the Git repository is private.
+setup. Deliberately released editions live in
+[Sven Hardy Benson’s Shelf](https://github.com/Svyable/shelf). The Desk
+repository and its working-draft Reader at
+`https://svyable.github.io/desk/reader/` are intentionally public. Presence
+here means work in motion, not publication.
 
 ## In one minute
 

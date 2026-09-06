@@ -112,6 +112,28 @@
   }
 }
 
+/* On phones and coarse pointers this remains a jump surface, not a second
+   persistent toolbar competing with the manuscript filters. */
+@media (max-width: 700px), (pointer: coarse) {
+  .workspace-map {
+    position: relative;
+    top: auto;
+    z-index: auto;
+    box-shadow: none;
+  }
+
+  .workspace-map ~ .desk-controls {
+    top: calc(3.8rem + max(.35rem, env(safe-area-inset-top)));
+  }
+
+  #summaryGrid,
+  #readerDesignStudio,
+  #newPublicationStudio,
+  #manuscriptList {
+    scroll-margin-top: 4.8rem;
+  }
+}
+
 @media (max-width: 560px) {
   .workspace-map {
     gap: .2rem;
@@ -120,18 +142,26 @@
   }
 
   .workspace-map-label { display: none; }
-  .workspace-map button { min-height: 2.35rem; padding-inline: .62rem; }
+  .workspace-map button { min-height: 2.75rem; padding-inline: .62rem; }
   .workspace-map-find span { display: none; }
   .workspace-map-find kbd { border: 0; background: transparent; padding: 0; }
-
-  #summaryGrid,
-  #readerDesignStudio,
-  #newPublicationStudio,
-  #manuscriptList {
-    scroll-margin-top: 7.8rem;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {
   .workspace-map * { scroll-behavior: auto !important; }
+}
+
+@media (forced-colors: active) {
+  .workspace-map {
+    border-color: CanvasText;
+    background: Canvas;
+    box-shadow: none;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+
+  .workspace-map button:focus-visible {
+    outline: 2px solid Highlight;
+    outline-offset: 2px;
+  }
 }

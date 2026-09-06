@@ -186,7 +186,19 @@ Information theory did not have to become the study of what Claude Shannon perso
 
 Withdrawal can therefore create room as well as silence.
 
-The difficulty is telling the two apart.
+It also changes where authority lives. While a founder remains constantly present, people can appeal to the person: ask what a definition was supposed to mean, whether an extension feels legitimate, whether a new result still belongs inside the original program. When the founder recedes, that convenience disappears. The papers, proofs, conventions, and accumulated practice have to carry more of the load.
+
+That transfer can be healthy. A mature field should not require permanent access to its originator in order to decide ordinary technical questions. Researchers need to be able to disagree with the founder, repair the founder's omissions, and discover consequences the founder never imagined. Otherwise a theory remains partly personal property.
+
+But the same independence removes a source of friction against bad interpretation. If the written boundary is thin, or if later users prefer a memorable metaphor to a precise definition, the founder's silence can be filled by confident simplification. A term travels because it is useful, then because it is fashionable, then because it seems to explain everything. The field becomes larger while the original object becomes harder to see.
+
+Information theory was especially vulnerable to this because its vocabulary was powerful outside engineering. Entropy, information, signal, noise, redundancy: each word already had ordinary meanings rich enough to invite analogy. Shannon's withdrawal did not cause the later metaphorical expansion, but it meant the expansion could not be governed by a permanent court of Shannon.
+
+That is probably better for science and worse for anyone hoping for clean borders.
+
+A field needs enough independence to outgrow its founder and enough textual discipline to know when an attractive extension has left the mathematics behind. The two requirements pull in different directions, and no amount of founder charisma can solve the tension indefinitely.
+
+The difficulty is telling room from silence.
 
 A founder who steps back may allow successors to flourish.
 

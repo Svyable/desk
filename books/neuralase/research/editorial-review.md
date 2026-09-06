@@ -1,5 +1,13 @@
 # Editorial Review
 
+## Release decision — September 5, 2026
+
+**Release-cleared.** Desk validation PR #1213 ran `python3 scripts/check-book-length.py neuralase` against release-decision snapshot `2d585b74f16887203047687dae5381c9139a48f5` and passed: all 18 numbered chapters are at or above 3,000 words, chapter-only total is **68,691 words**, and the smallest chapter is **3,385 words**.
+
+No unresolved factual, research, rights, matter, novelty, editorial, or manuscript-length blocker remains in this review. A commit-to-commit comparison from the validated snapshot to the frozen first-edition candidate shows no changes under `books/neuralase/manuscript/`; only release metadata and checklist files changed. The passing mechanical result therefore applies to the frozen manuscript bytes.
+
+A supplementary repository-wide `check-desk.py` run in PR #1213 failed on unrelated catalog/source-schema debt already present in the repository. The merged Neuralase release decision named the book-length command above as the final release gate, so that unrelated repository-wide debt is not treated as a Neuralase manuscript failure.
+
 ## Scope review
 
 The book is intentionally about **controlled re-entry in machine reasoning**, not artificial intelligence in general. Every chapter should return to one of five concrete questions: what is re-entered, what changes, what judges the change, how much compute is spent, and what stops the loop.
@@ -46,11 +54,11 @@ Using the same word-token regex as `scripts/catalog.py`, front matter contains *
 
 The three smallest chapter files by byte size were also counted directly with that same regex because they were the most plausible floor risks: Chapter 1 has **3,397 words**, Chapter 14 has **3,395 words**, and Chapter 15 has **3,385 words**. All three clear the 3,000-word per-chapter minimum.
 
-Desk now includes `scripts/check-book-length.py`, an opt-in validator that counts only `chNN-*.md` chapter files, excludes front matter and back matter by construction, and enforces the documented one-shot minima. The formal all-chapter command for this manuscript is:
+Desk includes `scripts/check-book-length.py`, an opt-in validator that counts only `chNN-*.md` chapter files, excludes front matter and back matter by construction, and enforces the documented one-shot minima. Desk PR #1213 subsequently ran the formal command for this manuscript:
 
 `python3 scripts/check-book-length.py neuralase`
 
-The remaining mechanical gate is to run that command from an executable Desk checkout and confirm all 18 per-chapter counts in one pass. The local execution environment used for this review could not access a repository checkout from GitHub, so this note does not pretend that command was run here.
+The command passed. It confirmed all 18 numbered chapters are at or above 3,000 words, the chapter-only total is **68,691 words**, and the smallest chapter is **3,385 words**. No Neuralase manuscript file changed between that validated release-decision snapshot and the frozen first-edition candidate, so the result remains applicable to the candidate’s manuscript bytes.
 
 ## Final pass checklist
 
@@ -67,4 +75,4 @@ The remaining mechanical gate is to run that command from an executable Desk che
 - [x] Exact chapter-only total is 68,691 words after excluding 1,725 words of front matter and 1,285 words of back matter.
 - [x] The three smallest chapter files by byte size were counted exactly and all exceed 3,000 words: Ch1 3,397; Ch14 3,395; Ch15 3,385.
 - [x] `scripts/check-book-length.py` exists for repeatable one-shot manuscript validation.
-- [ ] Run `python3 scripts/check-book-length.py neuralase` against an executable Desk checkout to verify all 18 per-chapter counts in one pass.
+- [x] `python3 scripts/check-book-length.py neuralase` passed in Desk PR #1213: 18 of 18 chapters meet the floor, chapter-only total is 68,691, and the smallest chapter is 3,385 words.

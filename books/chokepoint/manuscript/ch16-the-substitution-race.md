@@ -6,27 +6,21 @@ The logic was persuasive. Rechargeable batteries needed cobalt. Much of the worl
 
 Then engineers changed the arithmetic.
 
-Lithium-iron-phosphate batteries do not use cobalt in the cathode. They do not use nickel there either. The chemistry was not new, and for years its lower energy density made it look like a compromise suited to applications where weight and range mattered less. But chemistry does not compete on one specification. Cost matters. Safety matters. Cycle life matters. Manufacturing scale matters. So does the amount of range customers actually need rather than the amount that looks best in a brochure.
+Lithium iron phosphate batteries do not use cobalt in the cathode. They do not use nickel there either. The chemistry was not new, and for years its lower energy density made it look like a compromise suited to applications where weight and range mattered less.
 
-By 2025, LFP had moved far beyond its old role as the cheaper alternative. The International Energy Agency reported that it powered two-thirds of electric-car sales in the emerging and developing markets it tracked. In stationary battery storage, where weight matters far less than in a moving vehicle, LFP accounted for roughly nine-tenths of global deployments.
+But chemistry does not compete on one specification. Cost matters. Safety matters. Cycle life matters. Manufacturing scale matters. So does the amount of range customers actually need rather than the amount that looks best in a brochure.
 
-The consequences reached upstream.
+By 2025, LFP had moved far beyond its old role as the cheap alternative. The International Energy Agency reported that it powered two-thirds of electric-car sales in the emerging and developing markets it tracked. In stationary storage, where weight matters far less, LFP accounted for roughly nine-tenths of global deployments.
 
-In its 2026 critical-minerals outlook, the IEA lowered the expected growth of cobalt demand through 2040 in part because LFP had spread so quickly.
-
-That is an unusual kind of supply-chain event.
+The consequences reached upstream. In its 2026 critical-minerals outlook, the IEA lowered expected cobalt-demand growth through 2040 in part because LFP had spread so quickly.
 
 No giant cobalt deposit was discovered.
 
-No new Congolese province appeared on the map.
-
 The demand forecast changed because the product changed.
 
-This is the other side of every chokepoint in this book. A mine attacks scarcity by increasing supply. An engineer can attack it by changing demand.
+That is the other side of every chokepoint in this book. A mine attacks scarcity by increasing supply. An engineer can attack it by changing demand.
 
-The second route can be much faster.
-
-A major mine may take a decade or more to discover, permit, finance, build, commission, and ramp. A mature alternative chemistry can move through an industrial system in a few product generations once cost and performance cross the right threshold. That does not make substitution easy. It makes it strategically different.
+The second route can be faster once an alternative technology is mature enough to scale. That does not make substitution easy. It makes it strategically different.
 
 Governments tend to see mineral dependence on a map. Engineers see it in a bill of materials.
 
@@ -34,228 +28,138 @@ The map asks where cobalt comes from.
 
 The bill of materials asks whether the cathode needs cobalt at all.
 
-Those are not competing questions. They are two ways of changing the same exposure.
-
-The temptation is to turn LFP into a comforting story about technological escape. A mineral gets expensive or politically dangerous; clever people replace it; the constraint disappears.
+The temptation is to turn LFP into a comforting story about technological escape: a mineral becomes expensive or politically awkward, clever people replace it, and the constraint disappears.
 
 That is not what happened.
 
-LFP still needs lithium. It still needs graphite in conventional lithium-ion architectures. Its cathode depends on phosphorus inputs, including battery-grade purified phosphoric acid. Copper remains essential elsewhere in the battery and electrical system. The factories that make the cells require equipment, know-how, qualified suppliers, and energy.
+LFP still needs lithium. It still needs graphite in conventional lithium-ion architectures. Its cathode depends on phosphorus inputs, including battery-grade purified phosphoric acid. Copper remains important throughout the battery and electrical system. The factories still need equipment, energy, process knowledge, and qualified suppliers.
 
-The periodic table did not disappear when the cathode recipe changed.
+The periodic table did not disappear.
 
 The chokepoint moved.
 
-That movement matters because some of the replacement supply chains are concentrated in the same country that dominated the materials they replaced. The IEA warned in 2025 that China produced about three-quarters of the purified phosphoric acid used for LFP batteries. China was also dominant in graphite processing and battery manufacturing.
+The IEA warned in 2025 that China produced about three-quarters of the purified phosphoric acid used for LFP batteries. China also dominated graphite processing and battery manufacturing.
 
-A carmaker can therefore reduce its exposure to Congolese cobalt and Indonesian nickel while remaining deeply exposed to Chinese processing.
+A carmaker can reduce exposure to Congolese cobalt and Indonesian nickel while remaining deeply exposed to Chinese processing.
 
 From the engineer's perspective, the substitution worked.
 
 From the trade ministry's perspective, the answer is more complicated.
 
-This distinction is easy to miss because mineral security is often discussed as though the objective were to minimize the number of critical materials in a product. That is rarely the actual engineering objective. The objective is to deliver a service at an acceptable combination of cost, performance, safety, manufacturability, reliability, and supply risk.
+That distinction matters because mineral security is often discussed as though the objective were simply to minimize the number of critical materials in a product. Engineers are trying to deliver a service at an acceptable combination of cost, performance, safety, manufacturability, reliability, and supply risk.
 
 Supply risk is one variable among several.
 
 Sometimes it becomes important enough to change the design.
 
-Sometimes it does not.
+Permanent magnets make the tradeoff visible. High-performance neodymium-iron-boron magnets are used because they are very good at what they do. Other motor architectures exist. Induction motors can avoid permanent rare-earth magnets. Switched-reluctance machines can avoid them. Ferrite magnets use more abundant materials.
 
-Consider permanent magnets.
+The existence of an alternative is not the same as equivalence.
 
-High-performance neodymium-iron-boron magnets use rare earths because they are very good at what they do. In electric motors, wind turbines, industrial equipment, and defense systems, they can provide high magnetic strength in a compact package. Engineers have long known other motor architectures. Induction motors do not require permanent rare-earth magnets. Switched-reluctance machines can avoid them. Ferrite magnets use far more abundant materials.
-
-The existence of an alternative, however, is not the same as equivalence.
-
-A motor has to fit somewhere. It has to deliver torque across a useful speed range. It has to manage heat. It has to hit an efficiency target. Its control electronics have to behave properly. It has to be manufacturable at the required cost and volume. Noise and vibration may matter. Weight may matter. Space may matter a great deal.
+A motor has to fit somewhere. It has to deliver torque across a useful speed range, manage heat, hit an efficiency target, behave with its control electronics, meet noise and vibration requirements, and be manufacturable at the required cost and volume.
 
 A rare-earth-free design can be excellent in one application and a poor substitute in another.
 
-This is why announcements about a new motor that eliminates rare earths deserve both attention and restraint. The relevant questions are not only whether the motor works, but which rare earths it eliminates, whether it is in serial production, what product uses it, what performance tradeoffs it makes, and whether its manufacturing process scales.
+That is why a prototype proves possibility while a million units prove an industry.
 
-A prototype proves possibility.
+The same discipline applies to sodium-ion batteries.
 
-A million units prove an industry.
+Sodium is abundant and widely available, which makes the chemistry strategically attractive in applications where its performance is sufficient. By 2026, major Chinese producers were moving beyond laboratory work and into real scale-up, and the first sodium-ion electric cars had appeared.
 
-The same discipline applies to batteries.
-
-Sodium-ion chemistry is attractive partly because sodium is abundant and widely available. It offers a route around lithium exposure in applications where its performance is sufficient. By 2026, major Chinese battery producers were moving beyond laboratory work and into real scale-up. The first sodium-ion electric cars had already appeared.
-
-But sodium-ion does not repeal electrochemistry.
-
-Its lower energy density still matters in vehicles where mass and range are valuable. When lithium prices are low, the economic incentive to accept that tradeoff weakens. And the upstream chain does not become geopolitically neutral merely because sodium itself is common. Cathode materials, hard-carbon anodes, high-purity manganese compounds in some designs, cell manufacturing, equipment, and technical knowledge remain industrial products rather than gifts of geology.
-
-The IEA's analysis makes the paradox especially clear. Sodium-ion can diversify some raw-material inputs through widely available chemicals and feedstocks, while the downstream manufacturing chain remains heavily concentrated in China.
+But sodium-ion does not repeal electrochemistry. Lower energy density still matters where mass and range are valuable. When lithium prices are low, the incentive to accept that tradeoff weakens. Cathode materials, hard-carbon anodes, cell manufacturing, equipment, and technical knowledge remain industrial products rather than gifts of geology.
 
 A substitute can diversify geology without diversifying industry.
 
-That is the lesson Chapter 15 made from the other direction. China does not need to mine every mineral in order to dominate the chain that turns minerals into products. Substitution can change the mine and leave the factory map largely intact.
-
-This is why demand forecasts for critical minerals should be read differently from forecasts for oil.
-
-Oil can be substituted too, of course. Engines become electric. Heat pumps replace furnaces. Trains replace flights. Efficiency reduces fuel use. But within a given gasoline car, the chemical identity of gasoline is not a design variable in the same way that a battery cathode can switch from nickel-manganese-cobalt to lithium iron phosphate.
-
-Mineral demand is unusually entangled with engineering choice.
-
-A forecast for cobalt is partly a forecast for battery chemistry.
-
-A forecast for neodymium is partly a forecast for motor architecture.
-
-A forecast for copper is partly a forecast for grid design, conductor choice, equipment efficiency, and how much electrification occurs.
-
-A forecast for lithium is partly a forecast for the balance among lithium-ion, sodium-ion, storage duration, recycling, vehicle size, and mobility itself.
+That is why critical-mineral forecasts need to be read partly as engineering forecasts. A forecast for cobalt is partly a forecast for battery chemistry. A forecast for neodymium is partly a forecast for motor architecture. A forecast for copper is partly a forecast for grid design, conductor choice, equipment efficiency, and electrification. A forecast for lithium depends partly on lithium-ion versus sodium-ion, storage duration, recycling, vehicle size, and mobility itself.
 
 The tonnage may look like geology.
 
 Some of it is design.
 
-That creates a strategic problem for miners.
+That creates a difficult feedback for miners. A company considering a multibillion-dollar project has to estimate demand many years ahead, while the customers whose demand justifies the project may be redesigning products during the permitting process.
 
-A company considering a multibillion-dollar project has to estimate demand many years ahead. The mine may not reach full production until the next decade. Yet the customers whose demand justifies the project may be redesigning their products during the permitting process.
+The higher the mineral price rises, the stronger the incentive to thrift and substitute can become.
 
-The higher the mineral price rises, the stronger that incentive can become.
+High prices are supposed to summon new supply. They also summon new recipes.
 
-This is the cruel feedback at the heart of some commodity booms. High prices are supposed to summon new supply. They also summon thrift and substitution. By the time the new mine arrives, the demand curve that made it look essential may have shifted.
+By the time the mine arrives, the demand curve that made it look essential may have shifted.
 
-Cobalt offers the cleanest recent example because the shift was visible enough to alter long-range forecasts. But the mechanism is older than batteries.
+Manufacturers have always done this. Copper can give way to aluminum in some electrical applications. Catalyst loadings respond to relative prices. Scarce alloying elements can be reduced, recovered, or replaced when the engineering effort becomes worth paying for.
 
-Manufacturers have always redesigned around expensive or unavailable inputs. Copper can give way to aluminum in some electrical applications. Palladium and platinum loadings in catalysts respond to relative prices and technical constraints. Scarce alloying elements can be reduced, recovered, or replaced when the economics justify the engineering effort.
-
-War accelerates this instinct.
+War accelerates the instinct.
 
 So do embargoes.
 
-A secure supply chain lets designers optimize for performance and cost. A threatened supply chain puts availability on the specification sheet.
+A secure supply chain lets designers optimize for performance and cost. A threatened one puts availability on the specification sheet.
 
-That can produce worse products in narrow engineering terms and better systems in strategic terms.
+The result can be a worse component in narrow engineering terms and a better system strategically. An alternative motor may be larger. A different battery may store less energy per kilogram. A substitute alloy may be harder to machine. A second-source component may cost more.
 
-An alternative motor may be larger.
-
-A substitute alloy may be harder to machine.
-
-A different battery may store less energy per kilogram.
-
-A second-source component may cost more.
-
-Resilience is often purchased by accepting an inefficiency that would look irrational in a world where supply is guaranteed.
+Resilience often looks like inefficiency until the original route fails.
 
 This is why the phrase critical mineral can mislead. Criticality is not a permanent property of an element. It emerges from a relationship among a material, a technology, a supplier network, and a moment in time.
 
-Cobalt can be critical to one cathode and irrelevant to another.
+Cobalt can be critical to one cathode and absent from another. Dysprosium can be essential to one magnet design and unnecessary in a different motor architecture. Lithium can be central to one storage system and marginal to another chemistry.
 
-Dysprosium can be critical to a magnet design that needs its temperature performance and unnecessary in a different motor architecture.
+The system makes the element critical.
 
-Lithium can be central to electric vehicles while far less important to a storage system built around another chemistry.
+Sometimes the system can make it less so.
 
-The element does not know it is critical.
+The word *sometimes* carries most of the argument.
 
-The system makes it so.
+Several materials resist easy substitution because alternatives perform poorly, cost too much, create new constraints elsewhere, or simply do not arrive on the schedule a crisis demands. The IEA's 2026 risk assessment still identified materials including gallium, magnet rare earths, yttrium, graphite, tungsten, tellurium, cobalt, and germanium as exposed to serious vulnerabilities, with limited substitution potential contributing to the risk for some.
 
-That means criticality can sometimes be engineered downward.
+There is no law saying scarcity produces a substitute on schedule.
 
-The word sometimes carries most of the argument.
+Research can fail. A substitute can work in a laboratory and fail in a factory. It can require another constrained input. It can be technically adequate and still arrive too late.
 
-Several minerals resist easy substitution because the replacement performs poorly, costs too much, or creates unacceptable changes elsewhere in the system. The IEA's 2026 risk assessment placed materials including gallium, magnet rare earths, yttrium, graphite, tungsten, tellurium, cobalt, and germanium among those exposed to serious supply vulnerabilities, with limited substitution potential contributing to the risk for some strategic minor minerals.
+Sometimes redesign is not even the cheapest strategic response.
 
-This is where the cornucopian version of substitution fails.
+The IEA's 2026 numbers make that choice concrete. Rare earths account for roughly 40 percent of the cost of a permanent magnet but less than 1 percent of a vehicle's value. In the agency's illustrative calculation, even tripling rare-earth prices adds only about 0.1 percent to the cost of a car. Critical minerals sit much deeper in battery economics—roughly a quarter of battery-cell cost but still only about 3 percent of the price of an average electric vehicle. Tripling battery-material prices would raise the price of an EV or storage system by around 5 percent.
 
-There is no general law saying scarcity produces a substitute on schedule.
+If a vulnerable material is cheap in the finished machine and difficult to replace, redesign can be an expensive way to save very little. Paying a premium for a second supplier, holding more inventory, or helping finance another processor may be cheaper.
 
-Research can fail.
+Now change the case. Suppose the constrained materials represent a large share of cell cost and an established alternative chemistry already meets the customer's performance needs at scale.
 
-A substitute can exist but be too expensive.
-
-It can work in a laboratory and fail in a factory.
-
-It can perform well but require another constrained input.
-
-It can be technically adequate and still arrive too late for a supply shock happening now.
-
-It can also be strategically unnecessary.
-
-That last case is underappreciated.
-
-The IEA's 2026 numbers make the choice less abstract. Rare earths account for roughly 40 percent of the cost of a permanent magnet but less than 1 percent of a vehicle's value. In the agency's illustrative calculation, even tripling rare-earth prices adds only about 0.1 percent to the cost of a car. Critical minerals sit much deeper in battery economics: roughly a quarter of battery-cell cost, but still only about 3 percent of the price of an average electric vehicle. Tripling battery-material prices would raise the price of an EV or storage system by around 5 percent.
-
-That gap between intermediate cost and final-product value changes the strategic answer. If the vulnerable material is cheap in the finished machine and difficult to replace, redesign can be an expensive way to save very little. A manufacturer may be better off paying a premium for a second supplier, carrying more inventory, helping finance another processor, or qualifying another source.
-
-The point is not independence for its own sake. It is to reduce the expected cost of disruption without spending more on the cure than the chokepoint can plausibly cost.
-
-Sometimes redesign wins. Sometimes redundancy does. Sometimes the rational choice is to tolerate concentration because the alternatives are worse.
-
-This is harder to sell politically than a slogan about independence. It is also closer to how engineering organizations make serious decisions: compare the failure modes, then pay for the one you would rather live with.
-
-Suppose a manufacturer uses a rare-earth magnet that costs little relative to the finished machine but comes from a concentrated supply chain. Replacing it requires a motor redesign, new tooling, different controls, more space, and years of qualification. A second magnet source costs thirty percent more.
-
-The expensive magnet may be the cheap solution.
-
-Now suppose a battery maker uses a cathode whose constrained materials account for a large share of cell cost, while an established alternative chemistry is already being produced at enormous scale and meets the customer's range requirement.
-
-Redesign becomes far more attractive.
+Redesign becomes much more attractive.
 
 The answer depends on the application.
 
-This sounds obvious until national policy tries to treat all critical minerals alike.
+That sounds obvious until national policy tries to treat all critical minerals alike.
 
-Lists are administratively useful. They tell governments where to look. But the actual vulnerability sits one level below the list, in the product architecture and the industrial process. A country that wants to reduce mineral risk needs metallurgists and battery chemists in the conversation alongside diplomats and mining officials.
+Lists tell governments where to look. The actual vulnerability sits one level lower, in product architecture and industrial process. A country that wants to reduce mineral risk needs metallurgists, motor engineers, and battery chemists in the conversation alongside mining officials and diplomats.
 
-It needs people who can answer a question more precise than Where do we buy this?
+It needs people who can answer a question more precise than *Where do we buy this?*
 
-They have to ask Why do we need it?
+Why do we need it?
 
-That question can be destabilizing to an incumbent supplier.
+That question disciplines even a dominant supplier. A chokepoint has value only while traffic must pass through it. If prices rise too far or restrictions become too disruptive, customers gain reasons to fund alternatives that looked irrational under stable supply.
 
-A chokepoint has value only while traffic must pass through it.
+Japan's response to the 2010 rare-earth shock followed this pattern. Diversification, recycling, thrifting, and substitution all became more valuable after the vulnerability was exposed. The supply chain did not become independent overnight. It became less passive.
 
-The threat of substitution therefore disciplines even a dominant producer. If prices rise too far or export restrictions become too disruptive, customers gain reasons to spend money on alternatives that looked uneconomic under stable supply. The dominant supplier can extract leverage, but excessive use of that leverage can finance the route around it.
+China faces the same incentives. Chinese manufacturers want to reduce costly inputs, improve material efficiency, and develop chemistries that fit domestic supply advantages. LFP's rise was not a Western escape from Chinese dominance; Chinese companies were central to making LFP cheap and abundant.
 
-Japan's response to the 2010 rare-earth shock followed this pattern. Diversification, recycling, thrifting, and substitution all became more valuable after the vulnerability was made visible. The supply chain did not become independent overnight. It became less passive.
+That is another reason the geopolitics resist clean teams.
 
-China understands this problem because Chinese manufacturers face it too.
-
-They have powerful reasons to reduce costly inputs, improve material efficiency, and develop chemistries that fit domestic supply advantages. LFP's rise was not a Western escape from Chinese dominance. Chinese companies were central to making LFP cheap and abundant.
-
-This is another reason the geopolitics resist clean teams.
-
-A technology that reduces dependence on one Chinese-controlled input can be commercialized most successfully by Chinese firms.
-
-A chemistry that reduces cobalt demand can increase demand for Chinese-made cells.
-
-A rare-earth-free motor can reduce demand for Chinese magnets while relying on Chinese power electronics or manufacturing equipment.
+A chemistry can reduce cobalt demand and increase demand for Chinese-made cells. A rare-earth-free motor can reduce exposure to Chinese magnets while relying on Chinese power electronics or manufacturing equipment.
 
 Industrial power is modular. Removing one module does not erase the rest.
 
-The substitution race is therefore not a race to a mineral-free economy.
+The substitution race is therefore not a race toward a mineral-free economy.
 
 There is no such destination in an electrified industrial civilization.
 
-It is a race to keep redesigning the dependency map faster than any single dependency becomes intolerable.
+It is a race to keep redesigning the dependency map faster than any one dependency becomes intolerable.
 
-That is a more modest ambition than independence.
+LFP matters because it proves demand is not a fixed number handed down by geology. Sodium-ion matters because it shows how a new chemistry can move from curiosity toward industrial production while retaining meaningful limitations. Rare-earth-free motors matter because they separate technical possibility from application-specific substitution. The stubborn materials matter because they stop the argument from becoming magical thinking.
 
-It may also be achievable.
+Engineers are not only consumers of mineral supply.
 
-LFP matters because it proves that demand is not a fixed number handed down by geology. Sodium-ion matters because it shows how quickly a new chemistry can move from curiosity toward industrial production while still carrying real limitations. Rare-earth-free motors matter because they reveal the difference between technical possibility and application-specific substitution. The stubborn materials matter because they prevent the argument from becoming magical thinking.
+They help decide which deposits matter.
 
-Together they change how the mineral race should be understood.
-
-Countries are not competing only to own deposits.
-
-Companies are not competing only to secure contracts.
-
-Engineers are competing to decide which deposits matter.
-
-And every successful redesign creates another question.
-
-If cobalt is replaced by iron and phosphorus, what is the environmental burden of the new chain?
-
-If lithium is replaced by sodium, where are the new wastes generated?
-
-If a motor uses more common materials but more of them, what does that do to energy, land, water, and processing?
+Every successful redesign still leaves a bill somewhere else: more common material, more processing, different waste, different energy use, another industrial cluster.
 
 Substitution changes the bill of materials.
 
 It does not settle the bill.
 
-The next chapter follows that bill into the water, waste, tailings, chemicals, and communities that sit behind the clean technologies whose material recipes keep changing.
+The next chapter follows that bill into water, tailings, waste, and the communities that sit behind the materials whose recipes keep changing.

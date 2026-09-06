@@ -1,8 +1,10 @@
-# The Example Book
+# Your Book Title
 
-A demonstration of how a book lives in Bookself.
+**Sven Hardy Benson**
 
-© 2026 Your Name. All rights reserved.
+© YEAR Sven Hardy Benson. All Rights Reserved.
+
+---
 
 ## Dedication
 

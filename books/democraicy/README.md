@@ -28,6 +28,11 @@ The working thesis is not government by artificial intelligence. It is a democra
 - [x] [Ch 11 — The Human Veto](manuscript/ch11-the-human-veto.md)
 - [x] [Conclusion — Democracy After Intelligence](manuscript/back-matter.md)
 
+## Research
+
+- [Research brief and Chapter 4 evidence map](research/README.md)
+- [Source ledger](research/source-ledger.csv)
+
 ## Working thesis
 
 Artificial intelligence does not merely move political information faster. It can interpret information, generate arguments, administer rules, negotiate with other systems, and personalize communication at a scale no human institution can match.

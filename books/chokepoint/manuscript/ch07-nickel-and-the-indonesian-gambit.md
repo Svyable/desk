@@ -8,294 +8,122 @@ Raw nickel ore could no longer legally leave the country.
 
 Indonesia had been tightening mineral-export rules for years, with exemptions and reversals along the way. But the 2020 ban drew the line clearly enough for the World Trade Organization to describe it as what it was: a prohibition on nickel-ore exports paired with a requirement that the ore be processed domestically.
 
-The policy looked, from Brussels, like a trade barrier.
+From Brussels, it looked like a trade barrier.
 
-From Jakarta, it looked like an industrial strategy.
+From Jakarta, it looked like industrial policy.
 
-Indonesia had spent decades exporting natural resources whose highest-value processing happened somewhere else. Dig the ore. Load the ship. Watch a richer industrial economy turn it into stainless steel, chemicals, components, or finished products.
-
-Nickel offered a chance to change the sequence.
-
-If foreign buyers wanted Indonesian ore, Indonesia would make them want Indonesian processing too.
-
-This was the gambit.
+Indonesia had spent decades exporting natural resources whose highest-value processing happened somewhere else. Nickel offered a chance to change the sequence. If foreign buyers wanted Indonesian ore, Indonesia would make them want Indonesian processing too.
 
 Do not ask the market politely to build smelters.
 
 Remove the option of taking the ore away.
 
-The bet worked well enough to frighten almost everyone who believed commodity markets were governed mainly by geology.
+The bet worked quickly enough to disturb anyone who believed commodity markets were governed mainly by geology. By 2023, according to the International Energy Agency, Indonesia accounted for more than half of global mined nickel output. Its share of refined nickel had risen from 23 percent in 2020 to 37 percent in 2023. USGS estimates show Indonesian mine production increasing again in 2025 as new operations ramped.
 
-In 2020, Indonesia already mattered in nickel. By 2023, according to the International Energy Agency, it accounted for more than half of global mined nickel output. Its share of refined nickel had also risen sharply, from 23 percent in 2020 to 37 percent in 2023.
-
-The direction continued.
-
-The U.S. Geological Survey estimated that world nickel mine production reached about 3.9 million tonnes in 2025 and that Indonesian output increased again as new operations ramped.
-
-This was not the discovery of a new continent of ore in five years.
+This was not the discovery of a new continent of ore.
 
 It was the conversion of resource abundance into industrial capacity.
 
-That distinction matters.
+Countries rich in minerals often talk about moving downstream. The phrase is bloodless. In practice it means furnaces, pressure vessels, chemical circuits, ports, power plants, roads, laboratories, waste systems, financing structures, technical crews, and buyers willing to qualify the output.
 
-Countries with large mineral deposits often speak about moving downstream. The phrase has the beige sound of a policy conference. In practice it means something much more physical.
+Indonesia's rule pulled those things toward the ore.
 
-A mine is not a stainless-steel plant.
+Chinese capital and engineering moved especially fast. That complicates any simple story about national control. The IEA's ownership analysis found Chinese companies accounting for roughly 40 percent of nickel mine production even though much of the ore was being dug in Indonesia; Indonesian-headquartered companies held less than 10 percent in the same analysis.
 
-A laterite deposit is not battery-grade nickel sulfate.
+Indonesia gained jurisdiction over the physical chokepoint without automatically gaining ownership of every layer built around it.
 
-Between them are furnaces, pressure vessels, chemical circuits, ports, power plants, roads, laboratories, waste systems, financing structures, technical crews, permits, and buyers willing to qualify the output.
-
-Indonesia's policy pulled those things toward the ore.
-
-Chinese capital and engineering moved particularly fast.
-
-The ownership picture makes the geography more complicated than the flag on the mine gate. The IEA's analysis of nickel production by company ownership found that Chinese companies accounted for roughly 40 percent of nickel mine production even though the ore itself was overwhelmingly being dug in Indonesia. Indonesian-headquartered companies held less than 10 percent in the same analysis.
-
-So Indonesia gained jurisdiction over the physical chokepoint without automatically gaining ownership of every layer built around it.
-
-That is one of the book's recurring themes.
-
-A country can own the geology and still negotiate with the people who own the capital, technology, customers, and operating knowledge.
-
-Indonesia's answer was to improve its bargaining position by making location non-negotiable.
+Its answer was to make location non-negotiable.
 
 If the ore could not leave, the furnace had to come closer.
 
-This is how industrial parks such as Morowali became symbols of a new kind of mineral power.
+Industrial parks such as Morowali became the visible result: mines feeding smelters, smelters feeding stainless steel and nickel intermediates, dedicated ports, worker housing, power generation, chemical plants, and roads thick with trucks.
 
-The image is not a lonely mine at the end of a dirt road.
+Once a cluster exists, it becomes a resource in its own right. A new plant can share logistics. Suppliers can serve several customers. Workers carry experience from one facility to another. Banks gain comparable projects to finance. Buyers know where to look.
 
-It is a dense industrial system: mines feeding smelters, smelters feeding stainless steel and nickel intermediates, dedicated ports, worker housing, power generation, chemical plants, roads thick with trucks, and new facilities arriving beside older ones because the infrastructure is already there.
+Indonesia did not merely add a processing step. It began building an ecosystem around the inability to export raw ore.
 
-Once that cluster exists, the economics begin to reinforce themselves.
+The European Union challenged the policy at the WTO in 2019. The panel later found the export ban and domestic-processing requirement inconsistent with the relevant GATT obligation and rejected Indonesia's claim that the measures were temporary restrictions needed to prevent a critical shortage. Indonesia appealed in December 2022 into a system whose appellate mechanism was not functioning normally.
 
-A new plant can share logistics.
+The legal dispute mattered. The industrial timing mattered more.
 
-A supplier can serve several customers.
+By the time trade lawyers had finished describing what Indonesia should not have done, companies had already spent billions of dollars doing what the policy wanted. Furnaces were built. Roads widened. Contracts were signed. Workers were trained.
 
-Workers carry experience from one facility to another.
+A legal ruling can condemn a policy. It cannot rewind capital already poured into concrete.
 
-Buyers know where to look.
+That is one of the uncomfortable facts of industrial policy: adjudication and industrial geography run on different clocks.
 
-Banks have comparable projects to finance.
+Indonesia's government treats the new geography as evidence of success. Its investment ministry now describes downstreaming as a central development program rather than a temporary emergency measure, with mineral projects accounting for a large share of reported downstream investment.
 
-The ore is still important, but the cluster becomes a second resource.
+Investment is not the same thing as broad prosperity.
 
-This is what the phrase downstreaming misses.
+A giant industrial park can create jobs while importing equipment, expertise, debt, and intermediate inputs. Tax incentives can reduce the public share of early gains. Local wages can rise while housing costs rise faster. A region can become strategically important without becoming institutionally stronger.
 
-Indonesia did not merely add a processing step.
-
-It began building an ecosystem around the inability to export raw ore.
-
-The European Union challenged the policy at the WTO in 2019.
-
-The legal argument was straightforward. The General Agreement on Tariffs and Trade generally prohibits quantitative restrictions on exports. Indonesia argued, among other things, that its measures were justified because they protected an essential product from an imminent critical shortage and supported sustainable resource management.
-
-The WTO panel was not persuaded.
-
-It found that the export ban and domestic processing requirement were inconsistent with the relevant GATT obligation and that Indonesia had not shown the measures were temporary restrictions needed to prevent a critical shortage.
-
-Indonesia appealed in December 2022 into a system whose appellate mechanism was not functioning normally.
-
-The legal dispute mattered.
-
-The industrial facts mattered more.
-
-By the time trade lawyers had finished describing what Indonesia should not have done, companies had already spent billions of dollars doing what the policy wanted.
-
-This creates an uncomfortable lesson for rules-based trade.
-
-A policy can be legally vulnerable and economically transformative at the same time.
-
-That does not make the rules irrelevant.
-
-It means the timing of industrial change can outrun the timing of adjudication.
-
-Once furnaces are built, roads widened, contracts signed, and workers trained, a legal ruling does not rewind the capital stock.
-
-The new industrial geography becomes a fact that later policy has to negotiate with.
-
-Indonesia's government sees this as evidence that the strategy worked.
-
-Its investment ministry now describes downstreaming not as a temporary emergency measure but as a central national development program. In 2025, the ministry reported hundreds of trillions of rupiah in downstream investment, with mineral projects the largest component. Central Sulawesi and North Maluku, the two regions most associated with nickel processing, ranked among the country's largest downstream-investment destinations.
-
-Those numbers should not be accepted uncritically merely because a ministry published them.
-
-Investment is not the same as broad prosperity.
-
-A large industrial project can create jobs while importing equipment, expatriate expertise, debt, and intermediate inputs. Tax incentives can reduce the public share of early gains. Local wages can rise while housing costs rise faster. A region can become strategically important without becoming institutionally stronger.
-
-Still, it would be a mistake to describe the policy as nothing but resource nationalism.
-
-Factories exist that did not exist before.
-
-Processing happens inside Indonesia that once happened elsewhere.
-
-Export composition changed.
-
-The government acquired a new class of investors whose business models depend on maintaining Indonesian operations rather than merely buying Indonesian ore.
+Still, factories now exist that did not exist before. Processing happens inside Indonesia that once happened elsewhere. Investors whose business models depend on Indonesian operations have a different relationship with the country from traders who merely bought ore.
 
 That is bargaining power made of concrete.
 
 It also came with a great deal of coal.
 
-Nickel processing is energy intensive. Indonesia built much of its new capacity quickly in places where reliable industrial power was scarce. The fastest answer was often captive coal generation: power plants built to serve industrial parks and smelters rather than the public grid.
+Nickel processing is energy intensive. Much of the new capacity appeared in places where reliable industrial power was scarce, and captive coal plants became the fastest solution. Global Energy Monitor and the Centre for Research on Energy and Clean Air estimated roughly 19 to 20 gigawatts of operating captive coal capacity in Indonesia by the end of 2025, with nickel and other metals driving much of the recent growth.
 
-This produces one of the strangest images in the energy transition.
+The image is difficult to ignore: a metal prized for batteries in lower-carbon transport processed in industrial complexes supplied by new coal plants.
 
-A metal prized because it can sit inside batteries for lower-carbon transport is processed in industrial complexes supplied by new coal plants.
+This is not a uniquely Indonesian contradiction. Earlier industrial powers built steel, chemical, and power industries under environmental standards they would not now accept. There is hypocrisy in demanding that a poorer resource state remain an exporter of raw material because industrialization is dirty.
 
-Global Energy Monitor and the Centre for Research on Energy and Clean Air estimated that Indonesia had roughly 19 to 20 gigawatts of operating captive coal capacity by the end of 2025, with nickel and other metals driving much of the recent growth.
+There is equal hypocrisy in calling every new smelter part of a green transition while ignoring the smokestack beside it.
 
-The exact environmental burden varies by process, ore type, power source, and facility.
+The policy has to answer two questions at once: did it create durable domestic capability, and what did that capability cost?
 
-The contradiction does not.
+Nickel prices complicate the answer further because Indonesia's expansion helped create the opposite of the scarcity story.
 
-The cleaner the final car becomes, the more closely someone has to inspect the furnace that made the battery material.
+New supply arrived fast enough to punish higher-cost producers elsewhere. Australian operations went into care and maintenance. Other producers cut output. Projects outside Indonesia became harder to finance.
 
-This is not a uniquely Indonesian problem.
+This is what dominance can look like in a commodity market when it is built through abundance rather than restraint.
 
-All mineral processing consumes energy. All industrialization has environmental costs. Countries that became wealthy earlier often built their own steel, chemical, and power industries under standards they would not now accept from poorer countries.
+OPEC's most famous act of power was to reduce supply. Indonesia restricted raw ore while enabling much larger processed output. The goal was not to make nickel scarce. It was to make Indonesia difficult to bypass.
 
-There is an easy hypocrisy in demanding that Indonesia remain an exporter of raw material because its attempt to industrialize is dirty.
+A Canadian or Australian project therefore competes not only with its own geology and labor costs but with the next Indonesian furnace.
 
-There is an equally easy hypocrisy in calling every new smelter part of a green transition while ignoring the smokestack beside it.
+That kind of leverage carries its own counterforce.
 
-Both stories are too convenient.
+Lithium iron phosphate batteries use no nickel in the cathode. Their rapid growth has weakened older forecasts that assumed most electric vehicles would converge on nickel-rich chemistries. Indonesia's own investment ministry acknowledged the risk in 2025.
 
-Indonesia has a legitimate argument that a resource-rich country should capture more value from its resources.
+Nickel is better insulated than cobalt because stainless steel remains a huge source of demand, and superalloys and other industrial uses matter. But the lesson is the same: the more valuable a bottleneck becomes, the more attractive it becomes to design around it.
 
-Critics have a legitimate argument that value added is not automatically value shared, and that a mineral used in low-carbon technology does not become low-carbon by association.
+The stronger counterargument to Indonesia's strategy is therefore not that it failed.
 
-The policy has to survive both tests.
+It is that success is harder to own than to initiate.
 
-Did it create durable domestic capability?
+Chinese firms supplied large amounts of capital, equipment, and operating capability. Coal-heavy power can become a liability as buyers care more about embedded emissions. Trade disputes can narrow market access. Commodity prices can collapse after a wave of investment. Local communities can decide that jobs and tax receipts do not compensate for pollution, land pressure, or unsafe work.
 
-And what did that capability cost?
+A ban can force a furnace to arrive. It cannot guarantee the furnace remains competitive for twenty years.
 
-Nickel prices provide another complication.
+That requires cheaper and cleaner power, reliable logistics, skilled workers, credible regulation, stable contracts, and downstream customers who stay for reasons beyond being trapped by the ore.
 
-The strategy was so successful at bringing supply to market that it helped create the opposite of the scarcity story.
+The first act of industrial policy is theatrical. A minister signs a rule.
 
-Indonesia expanded production at a speed that punished higher-cost competitors.
+The second act is maintenance.
 
-Australian nickel operations went into care and maintenance. Other producers cut output. Prices weakened enough to make projects elsewhere look uneconomic.
+Indonesia's gamble is that temporary coercion at the border can create durable capability inside the country. There is evidence in its favor: the processing base, investment, and production are real. The geography of the nickel market changed with astonishing speed.
 
-This is what dominance can look like in a commodity market.
+There is evidence against the cleanest version too. Ownership remains international. Coal remains deeply entangled with processing. Oversupply has damaged producers elsewhere and can damage Indonesian projects as well. Battery substitution keeps moving.
 
-Not a cartel raising price.
+The result is more useful than a simple verdict.
 
-A producer expanding so aggressively that everyone else's economics deteriorate.
-
-Scarcity is not the only path to leverage.
-
-Abundance can be strategic too.
-
-If one country becomes the place where marginal supply arrives fastest and cheapest, it can shape the investment decisions of mines on the other side of the world.
-
-A Canadian project does not compete only with Canadian geology.
-
-It competes with the next Indonesian furnace.
-
-This is where the oil analogy breaks again.
-
-OPEC's most famous act of power was restraint.
-
-Indonesia's nickel power has largely been built through expansion.
-
-The country restricted raw exports while enabling much larger processed output.
-
-The goal was not to make nickel scarce.
-
-It was to make Indonesia difficult to bypass.
-
-That is a different form of chokepoint.
-
-It also contains its own counterforce.
-
-Nickel is important for many battery chemistries, but not all of them.
-
-Lithium iron phosphate batteries do not use nickel in the cathode. Their rise has already weakened older projections that assumed most electric vehicles would converge on nickel-rich chemistries.
-
-Indonesia's own investment ministry acknowledged this risk in 2025 when discussing the global shift toward LFP and what it could mean for nickel competitiveness.
-
-This is the same trap the DRC faces with cobalt.
-
-The more valuable a bottleneck becomes, the more attractive it becomes to design around it.
-
-But nickel has a wider industrial base than cobalt.
-
-Stainless steel remains a huge source of demand. Superalloys and other uses matter. Battery demand can shift without making nickel irrelevant.
-
-This gives Indonesia more room than a single-product supplier would have.
-
-It also makes the country's industrial strategy less dependent on one forecast about electric vehicles.
-
-The stronger counterargument to the entire Indonesian story is therefore not that the policy failed.
-
-It is that success may be harder to own than to initiate.
-
-Chinese firms supplied large amounts of capital, equipment, and operating capability. Coal-heavy power can become a liability as buyers care more about embedded emissions. Battery chemistry can move away from nickel at the margin. Trade disputes can narrow market access. Commodity prices can collapse after a wave of investment. Local communities can decide that jobs and tax receipts do not compensate for pollution, land pressure, or unsafe work.
-
-The industrial cluster must keep evolving after the policy shock that created it.
-
-A ban can force a furnace to arrive.
-
-It cannot guarantee the furnace remains competitive for twenty years.
-
-That requires cheaper power, better logistics, skilled workers, credible regulation, cleaner production, stable contracts, and a reason for downstream customers to remain once they are no longer trapped by the ore.
-
-This is where industrial policy becomes less theatrical.
-
-The first act is easy to see.
-
-A minister signs a rule.
-
-The second act is a decade of maintenance.
-
-Indonesia's gamble is that the country can use temporary coercion at the border to create permanent capability inside it.
-
-There is evidence in its favor.
-
-The processing base is real. Investment is real. Production is real. The geography of the nickel market changed with astonishing speed.
-
-There is evidence against the cleanest version of the story too.
-
-Ownership remains international. Coal remains deeply entangled with processing. The WTO dispute exposed the trade-off between national industrial strategy and common trade rules. Nickel oversupply has damaged producers elsewhere and could damage Indonesian projects if expansion outruns demand. Battery substitution keeps moving.
-
-The result is more interesting than either verdict.
-
-Indonesia demonstrated that a resource state does not have to accept the industrial structure it inherited.
-
-It can intervene.
-
-It can force capital to move.
-
-It can turn ore into a bargaining chip rather than merely a product.
+A resource state does not have to accept the industrial structure it inherited. It can use control over ore to alter where capital is deployed.
 
 But intervention does not eliminate dependence.
 
 It rearranges it.
 
-Indonesia became less dependent on foreign smelters by becoming more entangled with foreign investors, industrial parks, power systems, and downstream markets.
+Indonesia became less dependent on foreign smelters by becoming more entangled with foreign investors, industrial parks, power systems, and downstream markets. That may still be a better bargain. It is not independence.
 
-That may still be a better bargain.
-
-It is simply not independence.
-
-Nickel therefore changes the question this book has been asking.
-
-The important chokepoint is not always the country with the ore.
-
-It can be the country that controls the step the ore must pass through before anyone can use it.
+Nickel therefore changes the question. The important chokepoint is not always the country with the ore. It can be the place that becomes hardest to bypass after the ore has been turned into an industrial cluster.
 
 Indonesia tried to capture that step by law.
 
-China built an even more formidable version through accumulated industrial capability.
+China built an even more formidable version through accumulated capability.
 
-The clearest example is a group of elements whose names sound obscure until the factory that needs them cannot get them.
-
-Rare earths are mined in several countries.
+Rare earths make the difference visible because they are mined in several countries.
 
 Separating them is another matter.

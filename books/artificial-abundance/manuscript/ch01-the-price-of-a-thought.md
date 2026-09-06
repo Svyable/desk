@@ -60,6 +60,50 @@ Can you generate one hundred candidates and rank them?
 
 The questions multiply because asking them becomes inexpensive.
 
+A useful way to see the change is to separate the price printed on the service from the value of access to it.
+
+For many digital products, those numbers have never been the same. Search can be free to the user and enormously valuable. A map application can charge nothing at the moment it prevents a missed flight. Open-source software can carry no license fee while supporting systems whose failure would be extraordinarily costly. Zero is a price, not a measure of usefulness.
+
+Generative AI makes the distinction unusually visible because so much early consumer use has been free or close to free.
+
+Stanford's 2026 AI Index summarized a longitudinal study that tried to measure the gap directly. Researchers asked U.S. users how much compensation they would require to give up access to all generative AI tools for a month. In late 2024, the study included 1,400 people; by early 2026, a second wave included 2,000. The resulting estimate of annual U.S. consumer surplus rose from about $112 billion to $172 billion as adoption and reported value increased.
+
+The estimate should not be mistaken for a cash register total. Nobody collected $172 billion in subscription payments. Willingness to accept compensation is not revenue, profit, GDP, or the replacement cost of human labor. Survey-based welfare estimates have assumptions. People may value an object differently when asked what they would accept to give it up than when asked what they would pay to acquire it.
+
+But the exercise makes the economic point better than another argument about subscription prices.
+
+A cheap service can sit above a large reservoir of value that its provider does not fully capture.
+
+That gap affects behavior.
+
+If a person values access far above the marginal cost of one more use, the natural response is not to conserve uses. It is to spend the cheap resource wherever the expected benefit is merely positive.
+
+That is a different decision rule from hiring a professional.
+
+Hiring an expert usually begins with a threshold. Is this problem important enough to justify the rate? Is the project large enough to procure? Is the uncertainty expensive enough to pay for advice? Do we have budget this quarter? The transaction itself selects for importance.
+
+The threshold also contains costs that never appear on the expert's hourly rate. Someone has to identify the right person, explain the problem, schedule the work, negotiate scope, authorize spending, wait for delivery, and decide whether a small question deserves all of that machinery. A ten-minute answer can be economically sensible and still be trapped behind a minimum viable engagement measured in days or thousands of dollars.
+
+Cheap generation attacks that minimum transaction size. It makes a five-minute explanation, a disposable translation, one more scenario, or a rough first pass worth attempting before anyone knows whether the result deserves a larger process. This is not merely substitution inside an existing market. It is an expansion along the margin of attempts.
+
+A nearly free model weakens that filter.
+
+Now the user can ask before knowing whether the question matters.
+
+This sounds like a small procedural change. It is not.
+
+A company can ask the model to examine every routine contract instead of only the unusual ones. A programmer can request a critique of every function rather than waiting for a code review bottleneck. A student can ask for another explanation after every wrong answer. A household can compare insurance language, appliance specifications, school forms, travel options, and bills that previously would have been accepted with little analysis because professional attention was too expensive to buy for such small decisions.
+
+The low price expands intelligence into low-stakes territory.
+
+Some of that territory will turn out not to deserve the electricity.
+
+Cheapness creates waste as well as surplus. People can generate reports nobody reads, code nobody maintains, images nobody wants, and alternatives that consume more review time than they save. A model can make it economical to produce cognitive litter at a scale that would have been financially irrational when every page required human labor.
+
+That is not a rebuttal to abundance. It is one of its consequences.
+
+A resource can be abundant and badly allocated.
+
 This does not mean the answers become equally valuable. In fact, it produces the opposite problem. Once it is cheap to generate candidates, the cost moves into evaluation.
 
 A company with one proposed strategy can argue about the strategy. A company with one thousand machine-generated strategies has a search problem.
@@ -72,11 +116,49 @@ This is the first migration of value in the book.
 
 Production becomes cheaper. Selection becomes more important.
 
+But even the phrase production becomes cheaper hides several prices.
+
+There is the provider's cost of generating another answer.
+
+There is the user's monetary price for requesting it.
+
+There is the user's time spent specifying, waiting, reading, checking, and deciding whether to act.
+
+There is the expected cost of an error.
+
+There is the institutional cost of allowing the system to touch a consequential workflow at all.
+
+These prices can move in different directions.
+
+A legal draft may cost pennies to generate and hours to verify. A code patch may cost almost nothing to propose and days to debug if it fails in a way the tests do not catch. A medical explanation may be cheap to produce while the cost of relying on the wrong one remains enormous. A hundred options may be cheap to request and expensive to compare.
+
+The cheapest component can therefore cease to be the economically decisive one. If review dominates the transaction, another drop in inference cost may barely change the price of a trustworthy outcome. If failures are obvious and reversible, the same price drop can unlock many more attempts. The abundance threshold is not one number for intelligence. It is the point at which generation, checking, error, and coordination together make another attempt worth taking.
+
+Artificial abundance begins when the generation price falls enough to change behavior. It does not require every surrounding price to fall with it.
+
+That is why the book is about repricing rather than free intelligence.
+
 You can see an early version of this in software.
 
 For decades, software development was constrained by the number of people who could translate intent into working code. The constraint still exists, but tools increasingly let programmers generate, inspect, refactor, test, and explain code with machine assistance. More recent agentic systems can remain on tasks long enough that the unit of work starts to shift from a suggestion in an editor toward a delegated objective.
 
 The measurement is still young and narrow, but it is moving. METR's evaluations track the length of software tasks that frontier systems can complete with a given probability of success. The important point is not a single headline number, which will age quickly. It is that the evaluated horizon has been extending. Systems are being asked to hold more context, make more intermediate decisions, recover from errors, and finish work that would have occupied a skilled person for longer periods.
+
+METR itself is careful about the interpretation. Its time horizon does not measure how long an agent can sit autonomously at a computer. It estimates the human-expert duration of tasks at which the system reaches a stated success probability, using a task suite concentrated in software engineering, machine learning, and cybersecurity. Measurements on very long tasks are less reliable because the suite contains fewer of them.
+
+That caution belongs inside the abundance story.
+
+Capability is not a liquid that rises evenly in a tank. It arrives as a widening set of tasks for which another attempt becomes cheap enough and reliable enough to be worth making.
+
+The economic threshold can therefore move before the technical frontier looks universal.
+
+A system that succeeds half the time at a reversible coding task can already be useful if each attempt is cheap and the failure is obvious. The same success rate would be intolerable for a consequential decision that cannot be checked until after damage occurs.
+
+Price and reliability multiply each other.
+
+Cheap failure can be part of abundance.
+
+Expensive failure can keep a task scarce.
 
 That does not turn software engineering into a free good. It changes what is worth attempting.
 

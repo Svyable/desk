@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the Svyable Desk book dashboard and audit Reader-facing manifests.
+"""Generate the Sven Hardy Benson’s Desk book dashboard and audit Reader-facing manifests.
 
 Local-first by design: this script reads repository files and, when available,
 a sibling Shelf checkout. It needs no network access or third-party packages.
@@ -104,7 +104,7 @@ def clean_summary(text: str, limit: int = 190) -> str:
     text = re.sub(r"[*_`]+", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     if not text:
-        return "Working manuscript in Svyable Desk."
+        return "Working manuscript in Sven Hardy Benson’s Desk."
     sentence = re.split(r"(?<=[.!?])\s+", text, maxsplit=1)[0]
     candidate = sentence if 70 <= len(sentence) <= limit else text
     if len(candidate) <= limit:
@@ -157,19 +157,26 @@ def status_for(markdown: str) -> str:
     value = table_cell(markdown, "Status") or "Drafting"
     value = re.sub(r"^[✅🔁✍️🟡]+\s*", "", value).strip()
     low = value.lower()
-    if "complete" in low:
-        return f"✅ {value}"
+    # Controlling workflow states outrank descriptive words such as
+    # "structurally complete". A Drafting or Revision label must never be
+    # promoted merely because the same cell also contains "complete".
+    if "drafting" in low:
+        return f"✍️ {value}"
     if "revision" in low or "editing" in low:
         return f"🔁 {value}"
+    if "complete" in low:
+        return f"✅ {value}"
     return f"✍️ {value}"
 
 
 def status_key(value: str) -> str:
     low = value.lower()
-    if "complete" in low:
-        return "complete"
+    if "drafting" in low:
+        return "drafting"
     if "revision" in low or "editing" in low:
         return "revision"
+    if "complete" in low:
+        return "complete"
     return "drafting"
 
 

@@ -80,6 +80,16 @@ The asset's price has completed a round trip.
 
 The portfolio has not.
 
+The share count makes the mechanism harder to mystify. If the risky asset began at one dollar per share, the original fifty-cent allocation bought half a share. After the price doubled to two dollars, rebalancing the one-dollar risky position down to seventy-five cents left the portfolio holding three-eighths of a share and seventy-five cents in cash.
+
+When the price returned to one dollar, those three-eighths of a share were worth thirty-seven and a half cents. The cash was still seventy-five cents. Rebalancing the new total of one dollar twelve and a half cents put fifty-six and a quarter cents back into the asset, which at the restored one-dollar price meant owning 0.5625 shares.
+
+The price had returned to its starting point, but the portfolio now owned more of the asset than the half-share it began with and still held more cash than the original fifty cents. Nothing was created between the quotes. The trading rule changed the number of units held at each price.
+
+The same point can be seen in the compounded portfolio returns. The first move takes a fifty-fifty portfolio from one dollar to one dollar fifty, a gross return of 1.5. After rebalancing, the reverse move takes the portfolio from one dollar fifty to one dollar twelve and a half, a gross return of 0.75. Those two portfolio returns multiply to 1.125 even though the risky asset's own gross returns, 2 and 0.5, multiply to 1.
+
+That arithmetic also shows why the story is not a license to celebrate volatility by itself. The gain appears because the path reverses after the portfolio has trimmed the winner. If the asset keeps rising, the shares sold during rebalancing become foregone exposure. If it keeps falling, the new purchases keep absorbing losses. The rule benefits from a particular relationship between movement and reversal; it does not manufacture positive drift out of any sufficiently violent path.
+
 Where did the gain come from?
 
 Not from predicting the path.

@@ -1,6 +1,6 @@
-# Svyable Desk
+# Sven Hardy Benson’s Desk
 
-> Working drafts of Svyable books. Desk is a writing and revision surface; released editions live on Svyable Shelf.
+> Working drafts of Sven Hardy Benson’s books. Desk is a writing and revision surface; released editions live on Sven Hardy Benson’s Shelf.
 
 This file is the low-noise machine-readable map of the Desk. Working drafts can change at any time. Do not infer publication from presence here.
 
@@ -31,6 +31,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Artificial Promises](https://svyable.github.io/desk/books/artificial-promises/README.md)
 - [Asleep at the Wheel](https://svyable.github.io/desk/books/asleep-at-the-wheel/README.md)
 - [Austerity Measures](https://svyable.github.io/desk/books/austerity-measures/README.md)
+- [Autonomy Half-Life](https://svyable.github.io/desk/books/autonomy-half-life/README.md)
 - [Bookself: The Story of Getting Started](https://svyable.github.io/desk/books/bookself/README.md)
 - [Chokepoint](https://svyable.github.io/desk/books/chokepoint/README.md)
 - [Commit](https://svyable.github.io/desk/books/commit/README.md)
@@ -63,6 +64,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Scaling Laws](https://svyable.github.io/desk/books/scaling-laws/README.md)
 - [Second Guess](https://svyable.github.io/desk/books/second-guess/README.md)
 - [Shannon's Demon](https://svyable.github.io/desk/books/shannons-demon/README.md)
+- [Sifting for Alpha](https://svyable.github.io/desk/books/sifting-for-alpha/README.md)
 - [Silent Cartel](https://svyable.github.io/desk/books/silent-cartel/README.md)
 - [Single Points of Failure](https://svyable.github.io/desk/books/single-points-of-failure/README.md)
 - [Solar Century](https://svyable.github.io/desk/books/solar-century/README.md)
@@ -75,11 +77,15 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Cancer Key](https://svyable.github.io/desk/books/the-cancer-key/README.md)
 - [The Collective](https://svyable.github.io/desk/books/the-collective/README.md)
 - [The Compatibility Dividend](https://svyable.github.io/desk/books/the-compatibility-dividend/README.md)
+- [The Confidence Republic](https://svyable.github.io/desk/books/the-confidence-republic/README.md)
 - [The Convergence](https://svyable.github.io/desk/books/the-convergence/README.md)
 - [The Delegation Machine](https://svyable.github.io/desk/books/the-delegation-machine/README.md)
 - [The Delete Key](https://svyable.github.io/desk/books/the-delete-key/README.md)
+- [The Deletion Economy](https://svyable.github.io/desk/books/the-deletion-economy/README.md)
+- [The Expiration Economy](https://svyable.github.io/desk/books/the-expiration-economy/README.md)
 - [The Expiration Machine](https://svyable.github.io/desk/books/the-expiration-machine/README.md)
 - [The Exponentiality](https://svyable.github.io/desk/books/the-exponentiality/README.md)
+- [The Half-Life of Now](https://svyable.github.io/desk/books/the-half-life-of-now/README.md)
 - [The Hundred-Year Career](https://svyable.github.io/desk/books/the-hundred-year-career/README.md)
 - [The Hundred-Year Handoff](https://svyable.github.io/desk/books/the-hundred-year-handoff/README.md)
 - [The Intelligence Bubble](https://svyable.github.io/desk/books/the-intelligence-bubble/README.md)
@@ -92,6 +98,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Orphan Age](https://svyable.github.io/desk/books/the-orphan-age/README.md)
 - [The Potentiality](https://svyable.github.io/desk/books/the-potentiality/README.md)
 - [The Reliability Tax](https://svyable.github.io/desk/books/the-reliability-tax/README.md)
+- [The Republic in Motion](https://svyable.github.io/desk/books/the-republic-in-motion/README.md)
 - [The Retry Generation](https://svyable.github.io/desk/books/the-retry-generation/README.md)
 - [The Risk Pool](https://svyable.github.io/desk/books/the-risk-pool/README.md)
 - [The Search Frontier](https://svyable.github.io/desk/books/the-search-frontier/README.md)
@@ -112,6 +119,15 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Vectors](https://svyable.github.io/desk/books/vectors/README.md)
 - [Vibecariously](https://svyable.github.io/desk/books/vibecariously/README.md)
 - [Wild Speculation](https://svyable.github.io/desk/books/wild-speculation/README.md)
+- [Chiptastrophy](https://svyable.github.io/desk/books/chiptastrophy/README.md)
+- [The Deletion Economy](https://svyable.github.io/desk/books/the-deletion-economy/README.md)
+- [Traces](https://svyable.github.io/desk/books/traces/README.md)
+- [The Alliance Advantage](https://svyable.github.io/desk/books/the-alliance-advantage/README.md)
+- [The Hunger Switch](https://svyable.github.io/desk/books/the-hunger-switch/README.md)
+- [The Last Human Channel](https://svyable.github.io/desk/books/the-last-human-channel/README.md)
+- [The Taiwan Threshold](https://svyable.github.io/desk/books/the-taiwan-threshold/README.md)
+- [The Warning Problem](https://svyable.github.io/desk/books/the-warning-problem/README.md)
+- [The World Won’t Choose Sides](https://svyable.github.io/desk/books/the-world-wont-choose-sides/README.md)
 
 ## Reading a book
 
@@ -121,4 +137,4 @@ A Desk Reader route has the form:
 
 `https://svyable.github.io/desk/reader/#/b/<slug>/`
 
-The Reader route is a working proof, not a publication marker. Released editions are separate snapshots on Svyable Shelf.
+The Reader route is a working proof, not a publication marker. Released editions are separate snapshots on Sven Hardy Benson’s Shelf.

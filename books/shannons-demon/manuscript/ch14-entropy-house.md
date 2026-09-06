@@ -122,6 +122,16 @@ Slack can produce discovery.
 
 Slack can also produce nothing.
 
+And productive slack requires permission to stop. Exploration is not only the freedom to begin projects that have no obvious return. It is also the freedom to abandon them once the interesting part has been learned. Without that second freedom, a workshop becomes an archive of obligations. Every half-working mechanism starts demanding justification because time already spent on it becomes an argument for spending more.
+
+That is the quieter risk inside institutional programs for open-ended research. An organization can protect a project from premature judgment and still trap itself through sunk cost. The first year produces no result, so the second year is defended as the chance to recover the first. Soon the institution is no longer funding uncertainty; it is funding its reluctance to admit that uncertainty resolved badly.
+
+A genuine experimental culture therefore needs two kinds of tolerance that pull in opposite directions. It must let promising work survive periods when its value is illegible, and it must let researchers walk away without converting every abandoned attempt into a reputational failure. The hard judgment lies between those cases. There is no metric that can make it in advance.
+
+Shannon's workshop contained both evidence and disappearance. Some machines survived. Other projects remained incomplete or left little trace. The point is not that every abandoned object was wise to abandon. It is that a life organized around curiosity necessarily accumulates decisions not to continue. Attention is finite even when external deadlines are weak.
+
+Freedom without abandonment is only a larger backlog.
+
 That is what uncertainty means before the result is known.
 
 The useful countercase is the workshop itself. Many of the objects did not become fields, companies, or even papers. If one insists that Shannon's play was valuable only because some of his earlier play led to great work, the argument becomes circular. We celebrate the useless devices because a famous man made them and then cite the devices as proof that useless work makes people famous.

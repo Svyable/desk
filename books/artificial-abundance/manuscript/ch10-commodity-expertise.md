@@ -106,6 +106,166 @@ When generation is scarce, expertise can hide inside output.
 
 When generation is abundant, expertise has to become more legible.
 
+One way to make it legible is to look at the failures an expert has learned not to cause.
+
+Beginners often imagine expertise as a larger library of correct answers.
+
+It is partly a library of expensive mistakes.
+
+The senior engineer has seen the migration that locked a database for forty minutes. The experienced trial lawyer has watched a clever question open a door the witness should never have been given. The physician has seen the benign-looking presentation that turned out to be the dangerous exception. The editor has watched a sentence that seemed vivid in isolation distort an entire chapter.
+
+Many of these lessons are negative.
+
+Do not do that.
+
+Not here.
+
+Not yet.
+
+Not without checking this other thing first.
+
+A generative system can absorb patterns from records of other people's experience, including negative experience. That is part of its power. The useful question is whether the system has captured the boundary that matters in this case and whether the user can tell when it has not.
+
+This creates a new form of expertise: knowing which part of the machine's competence is borrowed from reliable precedent and which part is merely plausible completion.
+
+The distinction is difficult because both arrive in the same voice.
+
+A human junior usually signals uncertainty socially. The junior asks a question, hesitates, shows the work, or admits not having seen the problem before. A generative system may produce a polished answer in an unfamiliar domain with the same fluency it uses in a familiar one.
+
+The expert has to infer the uncertainty from the problem rather than from the speaker.
+
+That can increase the value of domain knowledge even as it decreases the value of routine production.
+
+The result is not a simple hierarchy in which experts win and novices lose.
+
+Novices may gain more immediate output from the tool precisely because they have more routine production to compress. Experts may gain more from delegating low-value work and focusing on edge cases. Or experts may fail to adapt because the work that once signaled their status becomes cheap and they keep selling the old bundle.
+
+Markets can punish expertise that refuses to unbundle itself.
+
+A tax professional who charges a premium for entering numbers that software can enter accurately is defending a vanished scarcity. A designer who offers only the ability to produce competent visual variations will face competition from systems that can produce hundreds. A programmer whose value consists entirely of remembering common syntax is exposed when syntax becomes available on demand.
+
+The uncomfortable word commodity belongs here.
+
+Commodity does not mean worthless.
+
+It means substitutable.
+
+Wheat is valuable. Electricity is valuable. Memory chips are valuable. Their markets become difficult for any one producer when buyers consider units interchangeable.
+
+A professional deliverable becomes commodity-like when the buyer stops caring who produced the routine version because many sources can produce an acceptable one.
+
+The professional response is not necessarily to make the deliverable more ornate.
+
+It is to identify where substitutability ends.
+
+Sometimes it ends at context.
+
+The system knows the general pattern; the expert knows why this organization cannot use it.
+
+Sometimes it ends at integration.
+
+The answer is available; the expert can reconcile it with operations, incentives, law, and the constraints nobody wrote into the prompt.
+
+Sometimes it ends at diagnosis.
+
+The obvious problem has a cheap solution; the expert discovers that the obvious problem is not the real one.
+
+Sometimes it ends at responsibility.
+
+Many people can suggest the action. One person is willing and authorized to stand behind it.
+
+Sometimes it does not end at all.
+
+The routine product was the entire product.
+
+That possibility matters because talk of moving uphill can become professional self-comfort. Not every displaced task reveals a more noble task waiting above it. Some work simply becomes cheaper. Some roles shrink. Some firms need fewer people to produce the same volume. Demand may expand enough to offset the change in one market and not in another.
+
+The evidence we have on particular tools cannot settle these labor-market outcomes in advance.
+
+It can show mechanisms.
+
+Compression of performance gaps on some tasks.
+
+Higher output for some workers.
+
+Uneven gains by experience.
+
+The possibility that assisted performance outruns learning.
+
+The rest depends on demand, prices, organizational redesign, competition, and whether new tasks appear quickly enough to absorb released capacity.
+
+This is why firms cannot treat the apprenticeship problem as a sentimental objection to productivity.
+
+If routine work contained training value, the firm needs another way to produce that learning.
+
+That could mean deliberate unassisted practice in a narrow setting, review of model errors, simulations of rare cases, rotation through incidents, requiring a junior to explain why a generated answer is safe, or designing tools that reveal intermediate reasoning and evidence rather than merely delivering the finished artifact.
+
+The goal is not to make work hard again.
+
+It is to preserve the information that useful difficulty used to deliver.
+
+An apprenticeship built around artificial abundance may therefore look less like doing every low-level task manually and more like being exposed deliberately to the boundaries of automated competence.
+
+The novice should see what breaks.
+
+The novice should see what the senior notices.
+
+The novice should learn which apparently ordinary cases deserve escalation.
+
+If that can be taught faster than the old apprenticeship taught it, expertise may form more efficiently rather than decay.
+
+That is the optimistic version, and it is plausible.
+
+The pessimistic version is also plausible: firms capture the immediate productivity gain, remove the slow training work, reduce junior hiring, and discover years later that the pipeline of people capable of supervising unusual cases has narrowed.
+
+The organization will not know which story it is living from a quarterly productivity chart.
+
+Skill formation has a longer clock.
+
+That creates a balance-sheet problem that ordinary productivity accounting handles badly.
+
+A junior assignment has two outputs. One is the work product delivered today. The other is a somewhat more capable worker tomorrow. The first output is visible to the client and easy to price. The second sits inside the employee and may not pay off for years. When software can produce the first output cheaply, a firm can rationally stop purchasing the assignment while accidentally stopping investment in the second output as well.
+
+The incentives are especially awkward because the firm that pays for training may not be the firm that eventually captures its return. A junior lawyer can leave. An engineer can be recruited away. A hospital can train a clinician who later practices elsewhere. Employers have always faced this problem, but automation can sharpen it by making the immediate production case for junior work weaker before an alternative training institution exists.
+
+That does not mean every company should preserve old staffing ratios as a public service. It means the apprenticeship pipeline is an economic asset that can be consumed without appearing as depreciation.
+
+You can see the danger in a team that becomes wonderfully efficient at normal cases. The tool drafts the routine change, explains the unfamiliar library, writes the test, summarizes the incident, and suggests the fix. Senior people review. Fewer juniors are needed to move the queue. For several years the arrangement can look strictly better.
+
+Then the senior people leave.
+
+The question is not whether the remaining workers can produce ordinary output with the tool. They probably can. The question is whether enough of them have accumulated the pattern library required to recognize the abnormal case, challenge a plausible suggestion, or redesign the system when the old assumptions stop holding.
+
+This is why a healthy apprenticeship cannot be measured only by how much unassisted work a novice performs. The more useful measure is whether responsibility expands.
+
+Can the junior explain the failure rather than merely repair it?
+
+Can she predict which change will be dangerous before the test suite says so?
+
+Can she identify what evidence would make the generated answer unacceptable?
+
+Can she handle a wider class of exceptions without escalation?
+
+Can she teach the next person why the local rule exists?
+
+Those are signs that capability is accumulating even if the keyboard work is increasingly shared with a machine.
+
+The same distinction changes how experts should think about their own value. If an expert's advantage can be expressed entirely as a reusable instruction, template, or example, the advantage is likely to diffuse. Once encoded, it can travel without the person. The expert may still benefit by encoding it first, but the market should not be expected to preserve the old premium indefinitely.
+
+Harder advantages are relational and institutional. Knowing which executive will actually veto the proposal. Knowing that a supplier's published lead time is not the lead time this factory experiences in winter. Knowing which symptom in this patient is unusual because you saw the patient before. Knowing which compromise opposing counsel can accept without losing face. Knowing which failure the organization can survive and which one will end the company.
+
+Some of that knowledge can also be captured. More of it will be. The boundary is not sacred.
+
+But the capture process itself reveals what the organization has been buying from expertise besides fluent production: memory, context, exception handling, trust, authority, and the ability to absorb consequences.
+
+That is the deeper unbundling artificial abundance forces.
+
+A profession must separate production, training, judgment, status, and responsibility instead of assuming they will continue to travel together because they did in the old workflow.
+
+When generation is scarce, expertise can hide inside output.
+
+When generation is abundant, expertise has to become more legible.
+
 That may be uncomfortable for professions that have long used production difficulty as evidence of value. If a client can generate a plausible first draft alone, saying that the professional version took twelve hours will not restore the old price. The professional has to explain what was noticed, verified, rejected, insured, interpreted, or taken responsibility for.
 
 Some experts will hate this because it feels like commodification.
