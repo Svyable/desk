@@ -159,3 +159,67 @@ By the time we began asking how much screen time was too much, the deeper questi
 It was no longer how long we looked at the phone.
 
 It was how many parts of life had learned to wait behind the glass.
+
+There is another reason to begin with the 2007 interface rather than with later social media scandals. The first iPhone announcement reveals how much of the eventual condition was latent in a product that did not yet contain the machinery we now blame most often. There was no App Store on launch day. Instagram did not exist. TikTok did not exist. The modern push-notification economy had not matured. Yet the design already solved the prerequisite problem: it created a credible place where future services could live without requiring new hardware for each one.
+
+That distinction matters because history tends to assign responsibility to the most visible offender at the end of a chain. If a teenager spends an evening on a social feed in 2026, the feed is visible and the operating system is mostly invisible. If a worker checks a late message, the employer is visible and the pocket computer that made after-hours reachability effortless is background infrastructure. If a traveler cannot board without a digital credential, the airline is visible and the decision to concentrate identity, communication, payment, and display on one body-carried machine disappears into normality.
+
+Platforms become historically powerful when their assumptions stop looking like assumptions.
+
+The QWERTY keyboard offers a mild analogy. Once a layout is learned, once training, hardware, software, and social expectation accumulate around it, its persistence cannot be explained by asking whether every key remains optimally placed. The cost of changing systems includes everything already organized around the old one. The smartphone form acquired a similar path dependence at a much larger social scale. Applications were designed for it. Businesses built check-in flows around it. Schools assumed parents could be messaged through it. Banks moved verification into it. Restaurants placed menus behind codes it could read. Employers put authentication tokens on it. Friends stopped making plans with the same precision because everyone could update everyone else while moving.
+
+Each adaptation made sense locally.
+
+Together they changed what it meant to be reachable.
+
+Reachability had once been tied to place. A household phone rang in a household. An office number rang at an office. A pager signaled that somebody wanted contact, but it did not contain the contact itself. Mobile phones weakened those boundaries before the iPhone, of course. The smartphone completed a more radical change by making reachability not only portable but multifunctional. The same device could tell you who wanted you, what they had sent, where they were, how to respond, what document they meant, what route would take you to them, and whether the bank would authorize the purchase you needed on the way.
+
+The distinction between being reachable and being operational began to collapse.
+
+This is why the moral language of self-control often arrives too late in the analysis. An individual can silence a notification. An individual cannot single-handedly restore a paper ticket option that a venue has removed, change an employer’s authentication policy, convince every friend to coordinate plans before leaving home, or make a school stop using an app for announcements. Personal habits exist inside institutional defaults.
+
+The screen acquired authority partly because institutions delegated authority to it.
+
+That does not make the user powerless. It does make the problem collective in places where advice is usually private. The person who wants to carry a simpler phone may discover that simplicity is incompatible with the transit pass, the workplace login, the parking meter, the building entrance, the banking challenge, or the family’s location-sharing expectations. The person can still resist, but resistance has become administrative work.
+
+A technology has crossed an important threshold when opting out begins generating paperwork.
+
+The iPhone did not cross that threshold by itself. Android devices, telecom networks, cloud services, app developers, employers, schools, governments, banks, retailers, and consumers all helped build the surrounding system. Apple’s influence was to make one particular arrangement of that system feel coherent: one personal object, one responsive screen, one software layer capable of becoming the next thing.
+
+The coherence was beautiful.
+
+That beauty mattered.
+
+A device can become infrastructural while remaining ugly and resented; plenty do. The smartphone did something more powerful. It made infrastructure pleasurable to handle. The route animated beneath a finger. Photographs expanded with a gesture. Music, messages, weather, search, and maps moved through transitions designed to conceal the machinery beneath them. Difficult systems arrived with polished surfaces.
+
+The glass did not merely hide buttons. It hid complexity.
+
+And hidden complexity is easy to invite everywhere.
+
+Think about how different the social story might have been if every digital function still required visible equipment. Imagine carrying a camera, GPS unit, pager, work terminal, payment reader, television, ticket wallet, music player, authenticator, and social-media console into a restaurant. The absurdity would make the intrusion obvious. We would negotiate which machines belonged at the table because their physical presence would demand negotiation.
+
+Convergence concealed the negotiation by making all the machines look like one small rectangle.
+
+The phone on the table could be there for the babysitter.
+
+Or the score.
+
+Or the map home.
+
+Or the boss.
+
+Or the camera.
+
+Or the bank.
+
+Or the person sitting across from you, because the photograph you just took of them is also inside it.
+
+This ambiguity gave the device unusual social permission. Its legitimate purposes defended its illegitimate interruptions. Nobody could know from across the table whether the glance was necessary, affectionate, practical, compulsive, or rude. The user often did not know either until after the screen opened.
+
+The great cultural achievement of the smartphone was therefore not putting a computer in the pocket. Portable computers already existed. It was making the pocket computer the socially approved doorway to so many unrelated obligations that approaching the doorway rarely needed justification.
+
+Once the doorway became normal, every business had an incentive to stand near it.
+
+The next chapter follows that move. The phone stopped being merely a product Apple could finish. It became real estate other companies could occupy, update, monetize, and use to call the owner back.
+
+The sheet of glass had become a city lot.
