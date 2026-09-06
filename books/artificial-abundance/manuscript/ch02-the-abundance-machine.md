@@ -136,6 +136,10 @@ That can produce a strange industrial picture: enormous capital expenditures dev
 
 The fixed-cost side grows while the user-side price falls.
 
+That split is easier to understand if capacity and output are treated as different economic objects. Chips, land, power, cooling, networking, and financing are rival inputs: one data center cannot serve infinite demand merely because its product is digital. But once a unit of capacity is built and available, the economics of the next request depend on how efficiently that capacity can be used. Batching, routing work to smaller models, caching repeated computation, improving software, raising hardware utilization, and scheduling workloads all act on the cost of the next unit without making the upstream scarcity disappear.
+
+This is why cheap units can coexist with enormous aggregate resource use. Better price-performance can lower the cost of serving one request while higher capability, longer contexts, more users, redundancy, and longer-running workloads push total demand upward. Abundance at the edge is compatible with congestion, investment races, and scarcity backstage.
+
 There is no law saying this arrangement remains profitable for every provider. Capacity can be overbuilt. Demand forecasts can be wrong. Competition can push prices below attractive returns. Hardware can become obsolete faster than expected. A new architecture can strand an old one. Capital markets can subsidize prices while companies fight for adoption.
 
 The abundance experienced by the user does not prove the abundance machine is a good investment.
