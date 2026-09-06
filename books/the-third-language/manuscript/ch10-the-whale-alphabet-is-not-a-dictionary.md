@@ -301,3 +301,53 @@ Why should another species be simpler?
 The whale alphabet, if that is what we eventually decide to call it, may be a magnificent beginning.
 
 The mistake would be thinking the alphabet is the conversation.
+
+There is a second mistake hidden in the alphabet metaphor: an alphabet makes us imagine a finite inventory of units that can be discovered once and then reused everywhere.
+
+Culture makes that assumption dangerous.
+
+Sperm whale vocal clans are important because communication patterns can mark large social traditions. If repertoires vary culturally, a model trained on one clan may not generalize cleanly to another. A coda category that looks stable from a global dataset may actually contain locally meaningful variants. The same acoustic feature could carry different social weight depending on a whale’s developmental history.
+
+Human translation systems face this problem too. A model trained on standardized text can struggle with dialect, slang, code-switching, irony, local references, and communities poorly represented in the data. The difference is that human speakers can tell us when the translation feels wrong.
+
+Whales cannot give us that feedback in words.
+
+Their behavioral response is all the more important.
+
+This suggests that “generalization” in animal communication should be treated cautiously. In machine learning, a system that works across populations is usually considered better. In biology, population specificity may itself be the phenomenon.
+
+A model that refuses to flatten clan differences might be scientifically superior to one that produces a universal label with slightly higher benchmark accuracy.
+
+The goal is not always invariance.
+
+Sometimes the goal is to discover which variation matters.
+
+That changes how datasets should be built. Researchers need provenance: who was recorded, in which social unit, with what equipment, in what behavioral context, across which years, and under what observational conditions. A giant unlabeled ocean of clicks is useful for representation learning, but semantic claims require a map back to lives.
+
+Data without biography can reveal structure.
+
+Meaning may require biography.
+
+This is the whale-sized version of the private dialect.
+
+A human household can build a code over years. A whale social unit can build vocal traditions over generations. The scale is different, but the methodological lesson is the same: history can be part of the signal’s function.
+
+The future “translator” may therefore need several layers of memory.
+
+Species memory: what patterns recur broadly.
+
+Clan memory: what this cultural group does.
+
+Individual memory: how this whale differs.
+
+Relationship memory: how these particular whales interact.
+
+Immediate context: what is happening now.
+
+A sentence on a screen will hide all five unless the interface is designed to preserve them.
+
+That is why the strongest animal AI may look less like translation software and more like a scientific instrument with memory.
+
+It will not merely answer *what did the whale say?*
+
+It will help us ask *what in this whale’s world made this signal matter here?*
