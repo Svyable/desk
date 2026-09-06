@@ -341,3 +341,115 @@ What looks like foresight from the outside may simply be accumulated practice.
 The early adopter did not know the future.
 
 She paid enough attention while the future was expensive to become unusually capable once it was cheap.
+
+Experience curves have another trap: cumulative production usually rises with time, so the two can be confused.
+
+A technology may become cheaper over ten years because factories learned from cumulative output. Or because an unrelated scientific breakthrough arrived in year eight. Or because input prices collapsed. Or because a new country entered production at a different cost structure. Or because companies cut margins to win market share. The line goes down either way.
+
+For the adopter, the causal distinction matters because only some mechanisms can be accelerated by adoption.
+
+Buying more units can create more production experience.
+
+It cannot guarantee a scientific breakthrough.
+
+Demand can attract suppliers.
+
+It cannot abolish a scarce element.
+
+Deployment can improve installer productivity.
+
+It cannot by itself change a zoning law.
+
+A good learning-curve story therefore names the path from one more adoption to one more opportunity for improvement.
+
+Without that path, the curve is description pretending to be strategy.
+
+There is a useful test hidden in operational data.
+
+Ask what becomes less variable with experience.
+
+Early production is often not merely expensive. It is unpredictable. One unit takes three hours to assemble, the next takes seven because a fixture is wrong, the next fails inspection, the next waits on a supplier. The average cost is high, but the variance is what terrifies managers and financiers.
+
+Learning often compresses the distribution before it dramatically lowers the average.
+
+Work becomes repeatable.
+
+Repeatability matters because a business can price, schedule and finance a process it understands. Customers can sign contracts around a delivery date. Insurers can underwrite a known failure range. Managers can decide how much buffer to keep.
+
+The early adopter can therefore help pay down uncertainty even before headline cost falls.
+
+That is one reason the first serious deployments matter. They create enough repetitions to turn anecdotes into distributions.
+
+A single failure is a story.
+
+A thousand failures can become a maintenance interval.
+
+A single installation delay is an exception.
+
+A hundred projects reveal which permitting step is systematically slow.
+
+A single battery degradation profile is a curiosity.
+
+A fleet begins to produce a warranty model.
+
+The system becomes governable because variation becomes measurable.
+
+This is an underrated stage between prototype and mass market.
+
+The product is no longer merely capable.
+
+It is becoming predictable.
+
+Predictability can unlock customers who care less about the best-case performance than about avoiding the worst case.
+
+A factory manager may happily choose a slightly less capable robot if the integration schedule is dependable. A utility may prefer a technology with predictable maintenance over one with superior laboratory efficiency and uncertain field behavior. An enterprise may choose a model with fewer spectacular capabilities because governance and latency are stable enough to build a process around.
+
+The mainstream often buys variance reduction.
+
+Early adopters generate the repetitions that reveal whether variance can be reduced.
+
+This also explains why some markets appear stuck despite impressive technical progress.
+
+The average improves while the tails remain ugly.
+
+A new system works beautifully ninety-five percent of the time and fails in ways too expensive for the buyer to tolerate. More adoption can help if the failures are learnable. It can simply create more damage if they are not.
+
+The question becomes whether the tail is shrinking.
+
+Are severe failures becoming rarer?
+
+Are recovery procedures becoming standard?
+
+Are estimates becoming tighter?
+
+Are support escalations becoming routine rather than heroic?
+
+This is what a learning market looks like from the inside.
+
+It is not always spectacular improvement.
+
+Sometimes it is the disappearance of surprises.
+
+That disappearance is valuable because surprises are expensive to insure, schedule, finance and delegate.
+
+The mature product feels cheap partly because the surrounding world no longer has to hold as much slack for uncertainty.
+
+A learning curve is therefore a risk curve too.
+
+The early adopter pays at the steep end of both.
+
+She pays more money and absorbs more surprise.
+
+If the system is genuinely learning, later adopters should receive some return on that pain: lower cost, tighter variance, better support or easier recovery.
+
+If they do not, the early market may be repeating rather than learning.
+
+Repetition is not learning by itself.
+
+The same mistake can be made ten thousand times.
+
+A feedback loop must convert experience into changed practice.
+
+That is the final diagnostic.
+
+Watch whether the system remembers.
