@@ -99,12 +99,17 @@ function showRecovery(error) {
 }
 
 try {
+  const appAcquisition = fetchBootstrapResource(appUrl).then(
+    (response) => ({ response, error: null }),
+    (error) => ({ response: null, error })
+  );
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
   try { await import('./desk-cover-actions.js?v=bookself-20260905'); } catch (error) { console.warn('Desk cover action simplification could not be loaded', error); }
   try { await import('./desk-book-opening-handoff.js?v=bookself-20260905'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
   try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
-  const response = await fetchBootstrapResource(appUrl);
+  const { response, error: appAcquisitionError } = await appAcquisition;
+  if (!response) throw appAcquisitionError || new Error('Shared Reader app could not be acquired.');
   const source = await response.text();
   const adapted = adaptReaderSource(source);
   if (DESK_CATALOG_AUDIT.length !== 3) throw new Error('Desk catalog audit contract is incomplete.');
