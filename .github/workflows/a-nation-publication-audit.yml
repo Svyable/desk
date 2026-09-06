@@ -1,0 +1,34 @@
+name: A Nation in Their Wake publication audit
+
+on:
+  push:
+    branches:
+      - book/a-nation-in-their-wake
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  manuscript-gates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+
+      - name: Chapter word counts
+        shell: bash
+        run: |
+          set -euo pipefail
+          printf '%-56s %10s\n' 'Chapter' 'Words'
+          printf '%-56s %10s\n' '-------' '-----'
+          total=0
+          while IFS= read -r file; do
+            words=$(wc -w < "$file" | tr -d ' ')
+            printf '%-56s %10d\n' "$(basename "$file")" "$words"
+            total=$((total + words))
+          done < <(find books/a-nation-in-their-wake/manuscript -maxdepth 1 -type f -name 'ch*.md' | sort)
+          echo "CHAPTER_TOTAL_WORDS=$total"
+
+      - name: Canonical book-length gate
+        run: python3 scripts/check-book-length.py a-nation-in-their-wake
