@@ -136,11 +136,11 @@ The security team sees a third.
 
 The maintenance team knows a piece of history nobody else has.
 
-An agent able to synthesize the views can find relationships humans miss.
+An agent able to synthesize those views can find relationships humans miss.
 
 It can surface the right problem sooner.
 
-It can reduce the very fragmentation that makes emergencies dangerous.
+It can reduce the fragmentation that makes emergencies dangerous.
 
 The re-entry problem appears because connective layers are hard to remove.
 
@@ -198,7 +198,7 @@ AI dependence may become a form of **operational intelligence debt**.
 
 An organization adopts an intelligent layer because the layer creates value.
 
-The organization then redesigns around the value.
+The organization redesigns around the value.
 
 Eventually removing the layer requires repaying years of accumulated changes in staffing, interfaces, timing, and process.
 
@@ -208,7 +208,7 @@ Debt finances useful things.
 
 The risk is losing the capacity to refinance.
 
-Critical infrastructure makes this particularly dangerous because the surrounding systems depend on continuity.
+Critical infrastructure makes this particularly dangerous because surrounding systems depend on continuity.
 
 A social network can endure a bad day.
 
@@ -238,7 +238,7 @@ The operator faces uncertainty rather than outage.
 
 Do we keep using a system whose integrity is in question because shutting it down causes known harm?
 
-Security teams face versions of this decision already. A suspected compromised system can be essential. Isolation can stop an attacker and stop the business at the same time.
+Security teams already face versions of this decision. A suspected compromised system can be essential. Isolation can stop an attacker and stop the business at the same time.
 
 The safer architecture is one in which critical function can continue under reduced trust.
 
@@ -318,7 +318,7 @@ A hospital preserving extra administrative capacity looks inefficient until the 
 
 Markets can underprice rare systemic risks because the individual firm captures the savings while society shares some of the failure cost.
 
-This is not a unique property of AI. It is a recurring reason governments regulate critical infrastructure.
+This is not unique to AI. It is a recurring reason governments regulate critical infrastructure.
 
 Agentic re-entry may become another public-good problem.
 
@@ -358,11 +358,11 @@ Perhaps not.
 
 That alone does not imply loss of control. Pilots cannot calculate aerodynamic flows in real time either. Control can rest on trusted instruments.
 
-The question is whether the instruments themselves can be removed or challenged.
+The question is whether the instruments themselves can be challenged or removed.
 
 If every independent view of the grid is generated through the same machine layer, the operator's authority depends on the layer's representation of reality.
 
-Redundancy should therefore include epistemic redundancy.
+Redundancy should therefore include **epistemic redundancy**.
 
 Different sensors.
 
@@ -414,6 +414,34 @@ Diversity can be expensive.
 
 It can also be the difference between a local mistake and a common-mode failure.
 
+This is one place where geopolitical arguments about sovereign AI intersect with the re-entry problem.
+
+A country may reasonably want domestic control over critical models, compute, and data infrastructure.
+
+Domestic ownership can reduce some dependencies.
+
+It does not automatically create recoverability.
+
+A state can own its model, own its cloud, own its energy system, and still become operationally unable to run critical functions without the machine layer.
+
+Sovereignty over the supplier is not the same as sovereignty over the operating mode.
+
+A nationally controlled AI system can become just as indispensable as a foreign one.
+
+The re-entry question therefore cuts across geopolitical ownership.
+
+Can the country operate essential functions if the intelligent layer becomes unavailable or untrusted?
+
+Can it substitute another system?
+
+Can it slow the network?
+
+Can human operators recover the relevant state?
+
+Can critical functions continue while the political leadership decides what to do?
+
+A flag on the server does not answer those questions.
+
 The physical world provides another kind of diversity.
 
 A generator does not care what a language model says if a hardwired protection trips first.
@@ -438,7 +466,7 @@ It can perhaps route around a software policy.
 
 It cannot route around every well-designed physical boundary without gaining a different class of access.
 
-This is one reason the global takeover threat is not uniform across domains.
+This is one reason the takeover threat is not uniform across domains.
 
 Physical systems can preserve hard limits that information systems lack.
 
@@ -452,11 +480,113 @@ It does not need to move a truck if it can change the schedule every truck follo
 
 It does not need to open a valve if it can change the maintenance ticket that keeps the valve closed.
 
+It does not need to switch a breaker if it can change the software configuration that determines when the operator receives an alarm.
+
 Control can be indirect.
 
-That is why authority maps need to follow causal paths, not just obvious actuators.
+That is why authority maps must follow causal paths, not just obvious actuators.
 
-The critical-infrastructure version of re-entry can be stated simply.
+A system may appear read-only and still control a decision by determining what information reaches the operator.
+
+A model may lack permission to change infrastructure and still shape infrastructure through planning, prioritization, forecasting, or procurement.
+
+The line between advice and action blurs when advice becomes the default input to machine-speed operations.
+
+This creates another kind of criticality: **epistemic criticality**.
+
+The system does not move the equipment.
+
+It determines what everyone believes the equipment is doing.
+
+That can be enough.
+
+A control room whose entire world model is machine-generated may retain physical buttons and lose independent perception.
+
+Re-entry therefore requires access not only to controls but to evidence.
+
+Raw sensor paths.
+
+Independent measurements.
+
+Alternate analytics.
+
+Human-readable state.
+
+A route from the summarized machine view back to the world.
+
+This matters during uncertainty more than during obvious failure.
+
+If the AI layer crashes, operators know they have lost it.
+
+If the AI layer remains available but is suspected of systematic error, every display becomes questionable.
+
+The operator needs somewhere else to stand.
+
+A second concern is recovery time.
+
+Critical infrastructure is not merely important. It moves continuously.
+
+The grid cannot wait while a committee reconstructs the last six hours of state.
+
+A cloud platform cannot freeze every customer while a model investigation proceeds.
+
+A logistics network cannot stop all movement and remain a logistics network.
+
+Re-entry must therefore be faster than the domain's damage clock.
+
+That does not mean humans must act at machine speed.
+
+It means the system should have predesigned ways to slow consequences until humans can act.
+
+Limit transaction size.
+
+Freeze new authority creation.
+
+Move from optimization to conservative operation.
+
+Reduce cross-system coupling.
+
+Use simpler control laws.
+
+Preserve essential service while suspending nonessential activity.
+
+This is critical-infrastructure **deceleration**.
+
+The best degraded mode does not reproduce full machine performance.
+
+It buys time.
+
+Time is the resource humans need most when they re-enter a machine-speed system.
+
+This is where training becomes infrastructure too.
+
+A control room full of operators who have never seen the degraded interface is not a fallback.
+
+A manual procedure nobody has practiced is documentation, not capacity.
+
+A second provider that has never been integrated is a procurement option, not a recovery system.
+
+A spare model whose credentials depend on the failed identity service is not independent.
+
+Critical sectors know this logic from disaster recovery.
+
+AI extends the object that must be recovered.
+
+Not only servers.
+
+Not only data.
+
+Cognition.
+
+Decision flow.
+
+Authority.
+
+Interpretation.
+
+The institution needs to know what minimum cognitive function must survive when the best available intelligence becomes unavailable or untrusted.
+
+That is the machine-room version of the re-entry threshold.
 
 Can humans preserve safe essential function when the highest layer of machine intelligence is removed?
 
