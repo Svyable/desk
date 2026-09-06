@@ -150,16 +150,88 @@ The United States did not encounter Israel for the first time in 1964.
 
 It encountered a new version of its own commitment.
 
-Before Eshkol's visit, Israel was already a state America had recognized, assisted, debated, and pressured.
+The relationship's movement can be seen in what Eshkol asked for and what Johnson would not promise.
 
-After the decade, it was increasingly a state America armed, coordinated with, and treated as a central strategic partner.
+Israeli leaders wanted a clearer American commitment to Israel's security in a region where military balances could change quickly. Johnson's administration was prepared to strengthen practical cooperation, but formal guarantees raised questions that went beyond Israel. A public security commitment could alter Arab calculations, affect relations with Jordan and Saudi Arabia, complicate efforts to limit Soviet influence, and reduce American flexibility if a crisis began through actions Washington did not control.
 
-The difference was built through many decisions.
+The difference between reassurance and guarantee was therefore central.
 
-The White House visit was one of the moments that taught both governments to behave as though the closer relationship might last.
+A president can say that a friend's security matters without agreeing in advance to every future use of force.
 
-Diplomacy often works that way.
+This is one reason the later relationship should not be projected backward. The political language of the 1960s did not yet contain the assumptions that became common after decades of military aid, congressional legislation, intelligence ties, diplomatic coordination, and repeated wars.
 
-The important event is not always the signed alliance.
+Eshkol's visit is valuable because the limits are still audible.
 
-Sometimes it is the day the guest begins to look permanent.
+So is the nuclear disagreement.
+
+Dimona was not a side issue imported into an otherwise harmonious summit. Nuclear proliferation sat at the center of American strategic thinking in the 1960s. Kennedy had treated the spread of nuclear weapons as a serious threat to international security. Johnson inherited that concern while confronting an Israeli government that believed existential vulnerability justified preserving options other states wanted closed.
+
+American officials pushed for visits to the Dimona facility and sought assurances about its purposes. Israeli leaders guarded information and resisted outside constraints they believed could weaken deterrence.
+
+The two countries were discovering an enduring feature of close security relationships: allies can share intelligence while withholding the information they consider most sensitive.
+
+That does not necessarily mean the relationship is false.
+
+It means alliance never abolishes sovereignty.
+
+The United States had learned the same thing in its earliest alliance with France. Dependence can be profound without becoming obedience. Israel's security leadership had even stronger reasons to insist on independent judgment because the state's leaders understood national survival through the memory of catastrophe and a geography they considered unforgiving.
+
+American officials could sympathize with that fear and still worry about the regional consequences of an Israeli nuclear capability.
+
+Both concerns were real.
+
+That is what makes the relationship historically durable and analytically difficult.
+
+The Six-Day War three years later changed the terms of the discussion but did not simplify them.
+
+The speed of Israel's victory transformed its image from vulnerable state to regional military power. American strategic assessments increasingly considered what Israel could contribute to containing Soviet-supported states. At the same time, the territories captured in 1967 created the core political problem that later generations would inherit: how Israel's security, Palestinian national claims, Arab state interests, Jerusalem, refugees, settlements, and occupied territory could be reconciled in a legitimate political order.
+
+The closer American relationship did not solve that conflict.
+
+It made the United States more deeply responsible for trying to manage it.
+
+This is the hidden cost of becoming indispensable to a partner.
+
+A country acquires leverage and obligation together.
+
+Weapons create influence but also association with the ways the weapons are used. Diplomatic protection can preserve negotiating space but can also make the protecting state answer for policies it does not control. Financial support creates access while creating expectations. An ally's enemies become more attentive to the patron.
+
+The U.S.-Israel relationship would eventually contain all of these dynamics.
+
+They were not fully visible in 1964.
+
+The visit helped create the path along which they would become visible.
+
+The decade also reminds us that American Middle East policy was never only U.S.-Israel policy.
+
+Johnson's administration dealt with Egypt, Jordan, Saudi Arabia, Iran, Lebanon, Syria, Iraq, Turkey, and the superpower dimension of the region. King Hussein of Jordan maintained a complicated relationship with Washington. The shah of Iran was becoming a major American security partner. Nasser commanded immense political influence despite strained relations with the United States. Soviet arms and diplomacy shaped the calculations of multiple Arab governments.
+
+Choosing Eshkol therefore risks reproducing the later American habit of seeing the Middle East primarily through Israel.
+
+The risk is real enough to name.
+
+He still wins because the relationship under construction in 1964 would become unusually durable across American administrations and unusually central to domestic political debate. That later centrality cannot be used as proof that it was inevitable, but it does make the moment of normalization worth recovering.
+
+The strongest case against Eshkol is that a visitor tied more directly to Vietnam may better represent the 1960s. American war in Southeast Asia consumed the Johnson presidency, divided American society, killed enormous numbers of Vietnamese and other people across the region, and altered trust in government for a generation. South Vietnamese leaders, allied leaders, and foreign officials connected to the war interacted repeatedly with Washington.
+
+Why not choose one of them?
+
+Because no single foreign visitor compresses the Vietnam relationship as cleanly as Eshkol compresses the shift in U.S.-Israel ties. The war's most consequential foreign actors often mattered through battlefield and diplomatic processes not reducible to a decisive American visit.
+
+The constraint of this book matters.
+
+It is not choosing the most important foreign-policy problem in each decade.
+
+It is choosing the visitor whose encounter reveals the most consequential change.
+
+In June 1964, Eshkol arrived as the leader of a country America had recognized, aided, debated, and sometimes pressured.
+
+He left a relationship that had become a little more routine, a little more direct, and a little more difficult to imagine reversing.
+
+Three years later, war would accelerate the movement.
+
+Decades later, the intimacy would seem old enough to have no beginning.
+
+That is how durable relationships hide their construction.
+
+The 1964 visit deserves attention because the construction was still visible.
