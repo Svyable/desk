@@ -163,3 +163,123 @@ Keep enough freedom to escape the ones that do not.
 No calculator can solve that allocation.
 
 But every calculator is already pricing the longer life today.
+
+The arithmetic also has a timing problem that simple “save more” advice tends to hide.
+
+A retirement plan can have the same average investment return across thirty years and produce very different lived outcomes depending on when losses and gains arrive. A bad market early in retirement can force withdrawals from a depleted base. A bad market while someone is still earning may be painful and easier to wait through. The point is not to prescribe a portfolio. It is to notice that duration risk interacts with sequence risk, employment risk, housing risk, health risk, and family need.
+
+The risks do not arrive one at a time because spreadsheets give them separate rows.
+
+A person can lose a job during a market downturn while a parent develops care needs. A housing move can become necessary after interest rates change. An illness can reduce earnings at the same moment medical spending rises. One spouse can die shortly after retirement, changing income, taxes, housing needs, and the amount of household labor the survivor must now buy or perform alone.
+
+Longevity increases exposure to combinations.
+
+That is another reason liquidity matters. A reserve does not exist because cash is the highest-return asset. It exists because the future can demand money before the highest-return asset is convenient to sell. The financial value is partly the ability to choose timing.
+
+The same logic applies to work capacity. Human capital is an asset that can fail or change form. A household that expects earnings until seventy but encounters disability at sixty-two faces a different problem from one that voluntarily retires at sixty-two with sufficient resources. The age is identical. The option structure is not.
+
+This is why planning around a retirement date can be less robust than planning around ranges of earning capacity.
+
+The date belongs to the calendar.
+
+Capacity belongs to the person and the job.
+
+A person can protect some of this uncertainty privately through savings, insurance, diversification, and conservative assumptions. Private protection has limits. Markets cannot efficiently insure every form of life-course mismatch, and some products are complex enough that the person buying protection can introduce a new risk by misunderstanding what was purchased.
+
+That is one reason social insurance remains central to longevity even when the public conversation sounds increasingly individualistic.
+
+Social Security, public health coverage, disability systems, unemployment insurance, paid-leave structures, and other pooled arrangements do something no individual plan can do fully: spread timing risk across people whose bad years arrive at different times. The system is imperfect, political, and subject to fiscal constraints. The pooling function is still real.
+
+A longer life can increase the value of that pooling because it creates more years in which an individual forecast can be wrong.
+
+It can also increase the cost.
+
+That is the unavoidable political tension. Longevity makes insurance more valuable while making some long-duration promises more expensive to finance.
+
+The mature argument cannot pretend that every protection can simply be expanded. Somebody funds the pool. Contributions, taxes, benefit formulas, eligibility rules, investment returns, labor-force participation, productivity, and demographics all determine whether the promise remains credible.
+
+The question is which risks are reasonable to leave with the individual and which become destructive when left there.
+
+Extreme survival is one candidate because no person can know how long they will live. Disability is another because health can change without consent. Caregiving is harder because the need is predictable in aggregate and unevenly distributed across families. Career transition sits in between: partly chosen, partly imposed by technology, health, geography, discrimination, and industry change.
+
+The longer the horizon, the more these categories blur.
+
+A worker who voluntarily leaves a profession at forty-five may look like a lifestyle chooser. Ten years later the decision can be understood as an adaptation to a field that was shrinking. A parent who reduces work for caregiving may appear to have chosen lower earnings. The care need itself was not optional. A household that uses home equity late in life may seem to be consuming wealth. It may also be converting an illiquid asset into the care and flexibility the asset was accumulated to provide.
+
+Financial language can make these choices look cleaner than they are.
+
+The word “choice” often means somebody had more than one bad option.
+
+This is particularly visible in claiming decisions. An actuarially adjusted benefit schedule can be fair in a narrow mathematical sense while people arrive at the decision with different health, employment, savings, family obligations, and survival expectations. A person who claims earlier because work has ended and cash is needed is making a choice. It is not the same choice as a wealthy person deciding whether to optimize expected lifetime benefits.
+
+Longevity advice that ignores this difference becomes a morality play about patience.
+
+The patient saver wins.
+
+The early spender loses.
+
+Real life is messier. Some people transfer resources to children while those resources have high marginal value. Some help parents. Some pay for health care. Some finance education that raises later earnings. Some spend on experiences that become impossible after health changes. Some overspend. Some underspend. Some die with assets they were afraid to use. Some live longer than expected and wish they had kept more.
+
+No rule resolves all of these cases because money is serving several versions of life at once.
+
+This is why the concept of a “retirement number” is psychologically attractive and analytically incomplete. A single target suggests the uncertainty can be collapsed. Reach the number and the future becomes safe.
+
+The future does not agree to that contract.
+
+The number depends on spending, returns, inflation, taxes, health, housing, family, public benefits, work, and time. Each can move. A target can be useful as a planning tool. It becomes dangerous when it disguises the assumptions underneath it.
+
+The more useful question is what the plan can survive.
+
+Can it survive work ending earlier?
+
+Can it survive one spouse living much longer?
+
+Can it survive a housing change?
+
+Can it survive helping a child without destroying the parents’ security?
+
+Can it survive a period of care?
+
+Can it survive the possibility that the person remains healthy and active long enough to want more spending rather than less?
+
+A long life can fail financially through deprivation as well as insolvency.
+
+The person who spends too little for twenty healthy retirement years because every dollar is being protected against an uncertain final decade has paid a real price for longevity risk. The lost travel, generosity, leisure, or time with family does not appear as a negative account balance. It is still a cost.
+
+This is why planning has to make room for reversible spending where possible.
+
+Some decisions can be staged. A home modification can be made before a full move. Work can sometimes be reduced before it is stopped. Support to adult children can be spread rather than transferred at one dramatic moment. Education can be tested with one course before a whole degree. A sabbatical can reveal whether a career exit is temporary or permanent.
+
+Staging buys information.
+
+Information has value because later decisions are made with fewer unknowns.
+
+This is the financial version of reversibility. The person does not keep every dollar liquid forever. She avoids committing every dollar before the relevant uncertainty has resolved.
+
+The same idea can inform family transfers. An inheritance delivered only at death is simple for the donor and often badly timed for the recipient. An early transfer may help with housing, education, childcare, or a business when those needs are acute. It can also reduce the older person’s protection against care costs and extreme longevity.
+
+The correct timing is not a slogan.
+
+It depends on both generations’ uncertainty.
+
+Longer lives make this intergenerational bargaining more explicit because resources can remain concentrated in the older generation for more years while the younger generation passes through its most capital-intensive stages. Families with enough wealth can solve some of this privately. Families without wealth cannot redistribute what does not exist.
+
+Again, the longevity effect is partly a wealth effect.
+
+The household with assets can choose when to turn future security into present opportunity. The household living close to current income cannot.
+
+That is why public infrastructure changes the private price of longevity. Affordable health care reduces the reserve a household needs against medical catastrophe. Reliable public transit reduces the amount of private mobility capital needed after driving stops. Accessible housing supply reduces the cost of changing homes. Paid leave reduces the income shock of caregiving. A credible pension floor reduces the amount of individual longevity risk that must be self-insured.
+
+Public design changes the amount of private capital required to buy a survivable future.
+
+This does not make public provision free. It changes who pools the risk and when the cost appears.
+
+That distinction belongs in every serious longevity conversation because otherwise “plan for a longer life” becomes a command issued to households without regard to the system in which they are planning.
+
+The price of longevity is not one retirement account balance.
+
+It is the price of keeping enough future selves solvent, healthy enough, mobile enough, connected enough, and flexible enough that an error in one forecast does not consume the rest of the life.
+
+The exact amount cannot be known.
+
+The architecture can still be improved.
