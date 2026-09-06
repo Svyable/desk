@@ -227,3 +227,105 @@ That tolerance would prove decisive.
 The next step in the story did not require building the richest possible hypertext environment.
 
 It required building one that could survive contact with other people's computers.
+
+The demo deserves one more look from the perspective of collaboration rather than spectacle.
+
+The striking feature was not simply that a person could point at text on a screen. A television viewer could point at text on a screen. The difference was that the text belonged to an environment in which the pointing could change state, expose structure, and connect one participant's work to another participant's work.
+
+That is a different model of a computer.
+
+The machine becomes a shared workspace for relations.
+
+This matters because organizations fail at the joins between artifacts more often than they fail at producing artifacts. A team can have excellent documents and poor memory. It can have sophisticated dashboards and unclear decisions. It can have a complete issue tracker and no reliable relationship between issues and customer outcomes. It can have thousands of recorded meetings whose conclusions cannot be located later.
+
+The missing object is often not another document.
+
+It is the edge that says why this document exists.
+
+Engelbart's augmentation frame directs attention toward that problem because the unit of performance is not the isolated employee. It is the person, the tools, the procedures, the language, and the surrounding group functioning together.
+
+When one part of that system changes, the value of another part can change too.
+
+A faster editor is useful if writing is the bottleneck.
+
+A better link structure is useful if finding decisions is the bottleneck.
+
+A better search engine is useful if the graph has become too large to navigate manually.
+
+A better archive is useful if the graph outlives the people who created it.
+
+A better provenance system is useful if machines begin generating the paths.
+
+This is why augmentation is a better lens for hypertext than convenience alone. Convenience asks how many seconds a click saves. Augmentation asks what a group can now accomplish because the relation can be stored, traversed, and shared.
+
+Take an engineering incident involving a complicated service. The system fails on Friday night. The responding team inspects alerts, traces logs, identifies a recent deployment, finds the pull request behind the deployment, reads the design discussion linked from the pull request, and discovers that an assumption made months earlier no longer holds. The fix changes code. The postmortem links the original alert, the relevant metrics, the faulty change, the remediation, and follow-up tasks.
+
+The links have not solved the technical problem by themselves.
+
+They have changed the cost of reconstructing the problem across time and people.
+
+That cost matters again when a similar incident appears six months later and the original responders are absent. The second team can inherit a path instead of repeating archaeology from zero.
+
+Institutional memory is therefore partly a topology problem.
+
+Organizations remember what their artifacts let later people reconnect.
+
+This also explains why merely recording everything is not enough. Cheap storage encourages companies to preserve every chat, call, ticket, document, dashboard, and code revision. The result can be an information landfill. If relationships among the records are missing, more storage increases the search space faster than it increases understanding.
+
+Engelbart's work points toward structure as the antidote to accumulation.
+
+Not one universal taxonomy.
+
+Usable relations.
+
+A later reader needs to know what led to what, which artifact superseded which, which evidence supported which decision, and where the work continued. These are edges with operational consequences.
+
+Modern collaboration software frequently reconstructs them after the fact. Search indexes messages. AI summaries infer decisions. analytics systems identify dependencies. project tools guess related work. These methods are valuable, but they are compensating for a familiar problem: many relationships were present in the work yet never authored explicitly.
+
+An explicit link has an advantage over an inferred relationship.
+
+It records somebody's local judgment at the moment the connection mattered.
+
+An inferred relation has a different advantage.
+
+It can discover structure nobody thought to record.
+
+Strong knowledge systems need both and should not pretend they are the same. “The author linked these two items” is evidence of an intentional relation. “The system predicts these two items are related” is an inference. The first can be wrong. The second can be right. Their provenance differs.
+
+That distinction becomes essential when AI assists with organizational memory. A model may notice that two tickets describe the same underlying bug. Useful. It should not silently rewrite history so that the inferred relation appears to have been part of the original decision process.
+
+The graph needs authorship.
+
+This is another way the 1968 demonstration reaches forward. Engelbart was not simply placing content on a screen. He was building an environment where operations on knowledge could become part of shared work. The history of who did what and how material related was not incidental to the work; it was part of the system's ability to improve collective performance.
+
+The same principle applies to human-machine teams.
+
+An agent that changes a document should leave a relation to the instruction that authorized the change.
+
+An agent that opens a pull request should preserve the issue or goal that motivated it.
+
+An agent that summarizes a report should preserve source relations strong enough for another person to inspect.
+
+An agent that rejects a proposed action because a policy forbids it should be able to point at the policy version it used.
+
+This is augmentation with provenance.
+
+Without provenance, automation can increase throughput while decreasing organizational understanding. Work happens faster, but fewer people know why the system did what it did.
+
+That would be the opposite of Engelbart's ambition.
+
+The lesson is not that modern software should imitate NLS. Interfaces, networks, hardware, and users changed too much for that prescription to be useful. The lesson is that the object worth optimizing is larger than the visible action.
+
+The click matters because of the system around the click.
+
+The document matters because of the relations around the document.
+
+The machine matters because of the human organization around the machine.
+
+The demo became famous because so many future-looking interface elements could be seen at once.
+
+Its deeper inheritance is harder to photograph.
+
+It is the idea that better links can make a group smarter than better files alone.
+
+The Web would take that idea out of one carefully designed environment and expose it to a disorderly planet.
