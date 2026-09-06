@@ -515,3 +515,55 @@ It is a biological and psychological condition the next day depends on.
 A society capable of networking every hour does not become wise by using every hour.
 
 The mature technology will know when reachability should end without requiring the exhausted user to negotiate the entire internet every night.
+
+There is a problem with calling this the night shift: for millions of people, night is when the actual shift begins.
+
+Nurses, warehouse workers, drivers, security staff, hospitality workers, factory workers, emergency crews, caregivers, parents with newborns, and people coordinating across time zones do not share one universal bedtime. A useful boundary cannot be defined as “after ten.”
+
+The relevant unit is the protected recovery interval.
+
+Whatever hours a person has available to sleep, the system should be able to recognize that ordinary claims have lost jurisdiction there.
+
+That means digital well-being cannot be built only around culturally conventional daytime schedules. A focus mode that assumes everyone sleeps at night is another example of technology mistaking an average for a person.
+
+Shift workers already live against social clocks. Deliveries arrive while they sleep. Friends message during their morning. Schools call during their recovery hours. The phone can make this mismatch worse because every institution reaches the same endpoint regardless of the recipient’s schedule.
+
+It can also make the mismatch easier to manage if boundaries are programmable.
+
+This is where personalization has a humane use.
+
+Not: learn which notification is most likely to make the user tap.
+
+Learn when the user has declared that tapping should not be required.
+
+Not: infer that silence means disengagement and send something stronger.
+
+Treat silence as the chosen state.
+
+A mature communication system could make recovery visible without making private schedules public. Routine senders would know only that the message can wait. Emergency channels would remain. The person would not have to defend sleep individually against every sender.
+
+The distinction matters because sleep is a collective achievement more than self-help culture admits.
+
+We sleep because other people agree, for a while, not to need us.
+
+Families take turns with a newborn. Hospitals create on-call rotations. Teams cover one another. Communities make quiet-hour rules. A worker’s sleep depends on staffing, schedules, housing, caregiving, and institutional restraint as much as on whether the screen is gray.
+
+The phone cannot solve those structures.
+
+It can refuse to make them worse.
+
+This is the deeper meaning of closing time in a networked world.
+
+Closing no longer means the network stops.
+
+It means the network recognizes that a particular person is temporarily not a public resource.
+
+That recognition is one of the boundaries the smartphone era has not yet fully learned to respect.
+
+The future of sleep technology should therefore be less obsessed with measuring the sleeper and more capable of protecting them.
+
+The phone already knows astonishing amounts about the person carrying it.
+
+The humane breakthrough may be simpler.
+
+For eight hours, know enough to leave them alone.
