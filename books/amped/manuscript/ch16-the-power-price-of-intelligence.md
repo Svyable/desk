@@ -417,3 +417,39 @@ Somebody pays when the project changes.
 A fair tariff can make those somebodies visible.
 
 It cannot make them disappear.
+
+There is one more reason incidence matters: the benefits are also passed through.
+
+A data center that pays a large utility bill can increase utility revenue and spread fixed system costs across more sales. A county that receives equipment-tax revenue can lower other local taxes or fund services without raising them. A long-term corporate power contract can support a generator that would otherwise retire. New transmission can lower congestion after it is built. A strengthened substation can make later industrial development cheaper.
+
+The same project can therefore raise one cost and lower another.
+
+A household may pay more for generation while paying less in local property tax. A manufacturer may face a higher capacity price but gain access to transmission that did not exist before. A state may give up sales-tax revenue to attract the campus and later collect income, property, or consumption-related revenue through other channels. The public ledger has several columns.
+
+This does not justify netting everything into one heroic estimate of “economic impact.” Those studies can become exercises in assumptions. It does mean that a credible consumer-protection analysis should track **offsetting channels** rather than stopping at the electric bill.
+
+The cleanest way to do that is to separate transfer from resource cost.
+
+A tax paid by the data center and used to lower another tax is largely a transfer within the public system. A new turbine, transformer, transmission line, or fuel purchase uses real resources. A higher wholesale price can transfer income from consumers to generators in the short run while also signaling that new supply is needed. A tax incentive can transfer value to the developer without changing the physical cost of the substation at all.
+
+These are different economic objects.
+
+Confusing them makes every argument sound larger than it is.
+
+The publication version of the data-center debate should therefore resist one seductive number: “the amount households pay for AI.” There is no honest single figure without defining geography, time horizon, counterfactual, tax effects, market structure, and which infrastructure would have been built anyway.
+
+The better discipline is to show the mechanism.
+
+Which bill rose?
+
+Which asset caused it?
+
+Which customer commitment reduced it?
+
+Which public revenue offset it?
+
+Which scarcity remained after all transfers were counted?
+
+That framework does not promise a politically comfortable answer.
+
+It produces an answer that can survive contact with the next rate case.
