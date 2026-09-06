@@ -104,9 +104,59 @@ This kind of endurance is different from a book being assigned in school. Assign
 
 Irving achieved both.
 
+The transatlantic market also reveals an institutional problem that would shape American literature for decades: prestige and payment crossed borders differently.
+
+A British author could be famous in the United States while receiving little from unauthorized American editions. An American author could struggle at home and seek British publication partly because London still functioned as a center of literary certification. Copyright law, shipping, publishing capital, review culture, and bookselling all shaped which national literatures could afford to become professional.
+
+Irving’s career therefore belongs to the economics of authorship, not only the aesthetics of national identity.
+
+The writer who can earn enough to keep writing has a different chance of influence from the writer whose work survives only around another occupation. Professionalization does not guarantee greatness, and many great writers worked under severe economic constraint. But a culture that wants literature eventually has to build markets, patronage, institutions, or rights that make sustained literary labor possible.
+
+Irving was early evidence that an American imaginative writer could become a recognizable professional figure across the Atlantic.
+
+That mattered for writers who followed even when their paths differed.
+
+The international success also changed the meaning of American borrowing. A derivative culture merely copies. A confident culture can borrow so openly that the transformed version becomes exportable in return. European folktale structures move into the Catskills; the Headless Horseman eventually travels back out through translations, illustrations, films, and popular culture as an American icon.
+
+Cultural exchange becomes circular.
+
+That circularity is more honest than the myth of national purity.
+
+The United States itself was already a multilingual, multiethnic, Indigenous, African, European, Caribbean, and increasingly continental society. Its literature would never have one uncontaminated source. The interesting question is which mixtures institutions chose to label “American” and which mixtures they ignored or suppressed.
+
+Irving’s success reveals both the possibility and the boundary. His Dutch New York could become picturesque national inheritance while living Indigenous sovereignty was pushed to the edges of the same national imagination.
+
+The folklore machine can preserve one past while obscuring another.
+
+That makes the afterlife of place important. Sleepy Hollow today is not merely a literary setting. The story can support tourism, local branding, Halloween economies, school traditions, historic interpretation, and visual culture. A fictional place becomes an economic and civic asset attached to a real geography.
+
+This is another job books can acquire after publication.
+
+A story can make a place legible to outsiders.
+
+Sometimes that legibility protects local memory. Sometimes it freezes a place inside the one story outsiders know. The actual Hudson Valley contains histories of Indigenous peoples, Dutch and English colonization, slavery, agriculture, industry, immigration, suburbs, environmental change, and modern communities far beyond Irving’s legends.
+
+The literary brand is powerful precisely because it is simpler.
+
 There were serious alternatives in this decade. The first installments of James Fenimore Cooper’s career arrived near its end, with *The Pioneers* appearing in 1823 and *The Last of the Mohicans* just beyond the boundary in 1826. William Cullen Bryant’s poetry helped establish American literary seriousness. Religious publishing, schoolbooks, political writing, and reform literature circulated widely. The Bible remained a far more consequential text in ordinary American life than any new book.
 
 But the premise asks for the most important book *of* the decade, not the most read book *during* it. *The Sketch Book* is the moment when American imaginative writing visibly crosses from local promise into transatlantic legitimacy while simultaneously manufacturing two of the country’s most durable stories.
+
+A counterfactual keeps the “first” claim from becoming another Weems-like origin myth.
+
+If Irving had never published *The Sketch Book*, American literature would still have developed. Cooper, Bryant, Poe, Hawthorne, Emerson, Melville, Black writers, women writers, Indigenous oral and written traditions, newspapers, sermons, popular theater, and immigrant voices would all continue creating forms that did not require Irving’s permission. European readers would eventually encounter American literature through other writers.
+
+The republic did not need one expatriate to acquire a culture.
+
+What changes is the timing and shape of an early proof.
+
+The United States loses a writer who could show both American and British audiences that local material could travel without being stripped of place. It loses two unusually durable folklore machines. Another author may eventually occupy the role, but the early transatlantic literary market receives a different signal about what “American writing” can mean.
+
+Irving’s distinctive contribution is therefore not creation from nothing.
+
+It is exportability.
+
+He made American memory portable.
 
 The international success also complicates the familiar nationalist demand for self-sufficiency. Irving did not prove America had outgrown Europe. He proved an American writer could enter the larger literary world without disappearing into it.
 
