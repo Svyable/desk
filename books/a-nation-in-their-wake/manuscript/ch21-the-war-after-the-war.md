@@ -166,7 +166,63 @@ A modern state can possess more information than any previous government and sti
 
 More data does not guarantee the correct model.
 
-That insight remains contemporary.
+The geography made the information problem worse.
+
+Koh Tang was not a familiar American battlefield. Intelligence estimates of the Khmer force there proved badly wrong. The island sat inside a rapidly changing region where U.S. diplomatic presence had collapsed and where the new Cambodian regime was difficult to read. Aircraft could photograph, track, and attack objects; they could not easily reveal intentions or make a prisoner location certain.
+
+This is a category error militaries face repeatedly.
+
+Sensors are excellent at some facts.
+
+They are weak at others.
+
+A radar can tell you where a boat is.
+
+It cannot tell you why the boat is moving.
+
+An image can show armed men on an island.
+
+It may not tell you whether the hostages are among them.
+
+The more technically sophisticated an information system becomes, the easier it is to confuse precision in measurement with certainty in interpretation.
+
+The crisis also damaged a relationship the United States needed.
+
+Thailand had explicitly denied permission for U.S. combat operations to be mounted from Thai territory. American forces nevertheless used Thai bases after obtaining cooperation through military channels. The decision angered Thailand's civilian government and contributed to the rapid end of the remaining American military presence there.
+
+A rescue operation intended to restore credibility with adversaries created a credibility problem with an ally.
+
+That is the kind of tradeoff slogans about resolve usually omit.
+
+Credibility is not a single balance in one account.
+
+Different audiences observe different behavior.
+
+An adversary may see willingness to use force.
+
+An ally may see willingness to disregard its government.
+
+Congress may see executive overreach.
+
+The public may see rescued citizens.
+
+The military may see planning failures.
+
+The same operation can produce all five interpretations at once.
+
+This is why “sending a message” is a dangerous strategic phrase.
+
+The sender does not control the inbox.
+
+The War Powers Resolution, passed over President Nixon's veto in 1973, had already reflected congressional effort to constrain unilateral presidential warmaking after Vietnam. The *Mayaguez* crisis occurred in the unsettled constitutional landscape created by that struggle. Ford reported actions to Congress, but the speed of the operation again demonstrated how much practical initiative an executive possesses when military forces are already deployed and a crisis appears to demand immediate action.
+
+Ships make that initiative easier because they are mobile, self-contained, and often already nearby.
+
+Naval power can be moved into a crisis without crossing a land border visibly at first.
+
+That lower threshold is useful.
+
+It can also allow escalation to outrun deliberation.
 
 The 1970s transformed naval strategy in other ways. Nuclear submarines, carriers, Soviet fleet expansion, oil shocks, and the growth of container shipping all changed the maritime environment. USS *Nimitz* entered service in 1975, beginning a carrier class that would define American naval power for decades.
 
@@ -212,7 +268,7 @@ It carried a credibility crisis.
 
 The sailors came home.
 
-The Marines and airmen who died did not.
+The Marines, sailors, and airmen who died did not.
 
 The country declared victory.
 
