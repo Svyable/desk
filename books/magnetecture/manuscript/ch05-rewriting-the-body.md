@@ -128,6 +128,86 @@ Technology often arrives unevenly because the same capability has different econ
 
 Magnetecture will be no different.
 
+Rewriting also creates a thermodynamic bookkeeping problem that software metaphors tend to hide.
+
+Changing persistent magnetic state means crossing an energy barrier. The barrier is what made the old state persistent in the first place. A rewrite mechanism therefore has to supply enough field, heat, strain, current or mechanical rearrangement to cross that barrier deliberately while keeping nearby state intact. The more aggressively the system protects retention, the more expensive rewriting tends to become.
+
+This makes rewrite energy a first-class specification.
+
+A useful reprogrammable body should be characterized not only by the field required to actuate it but by the energy and apparatus required to change its program, the time required for the change, and the number of reliable rewrite cycles. A material that can be rewritten once after manufacture is different from one that can be rewritten every minute for years.
+
+The distinction resembles erasable versus one-time programmable memory, but the physical consequences are larger. Rewriting can alter stress, temperature, particle alignment, adhesion or geometry. It can age the body.
+
+Endurance therefore belongs beside reconfigurability.
+
+A reprogrammable machine may need a rewrite budget: perhaps thousands of configuration changes are safe, perhaps tens, perhaps only one emergency reconfiguration is economically justified. The value of programmability does not require infinite writes. A spacecraft component that can change configuration twice after launch may be far more valuable than a fixed one if those two decisions avoid carrying redundant hardware.
+
+This helps identify an application class that rarely appears in flashy demonstrations: *contingency hardware*.
+
+A remote or inaccessible system could carry a magnetic body whose default configuration handles normal operation and whose persistent state can be altered if the mission changes. The rewrite may be slow. It may require a dedicated high-field zone. It may never be used. Its value is option value under uncertainty.
+
+Spacecraft, deep-sea instruments, sealed reactors and remote infrastructure are environments where physical replacement is expensive. A device that can be reconfigured after deployment without opening the system could justify a high programming cost that would be absurd in a consumer product.
+
+This is a different market from continuous shape-changing robotics.
+
+It suggests that the first useful reprogrammable magnetic products may look almost boring. A valve geometry can be reassigned. A flow path changes. A fixture changes holding pattern. An antenna support changes shape. A sealed mechanism switches between two stable functions. The customer does not care whether the object looks alive. The customer cares that one shipped part covers two failure scenarios.
+
+The economics of deferred commitment are often strongest where logistics are hardest.
+
+Rewriting also raises the problem of partial state.
+
+Software updates can fail halfway through. So can physical reconfiguration. If a magnetization procedure is interrupted by power loss, motion, temperature drift or sensor failure, the body may end up in a configuration that was never validated. The machine therefore needs an atomicity strategy: either the old state remains valid until the new one is fully established, or the controller can detect and recover from intermediate states.
+
+Physical systems rarely provide perfect atomic updates.
+
+A local region may switch before its neighbor. Heating can vary across the body. Magnetic units can move out of sequence. Recovery therefore depends on observability. The reprogramming station should verify the result rather than assuming the command succeeded.
+
+This is the physical equivalent of read-after-write verification.
+
+It also suggests a safe-state protocol. Before rewriting, move the body into a mechanically benign posture. Reduce external loads. Establish a known field environment. Apply the programming sequence. Measure the resulting state. Exercise it under a low-energy test field. Only then return it to service.
+
+That sequence turns reprogramming from a magical instant into a maintenance operation.
+
+For some applications that is exactly right.
+
+The word *runtime* can mislead because it sounds like every field update should happen at digital speed. Physical configuration has many timescales. A magnetic bearing controller may update in milliseconds. A soft robot may change shape in fractions of a second or seconds. A persistent magnetization rewrite may take longer and be performed only between tasks. A cryogenic field system may take minutes or hours to ramp.
+
+Programmability is not synonymous with speed.
+
+It means the decision can be revisited at an operationally useful time.
+
+That definition is broader and more honest. A bridge with adjustable dampers is programmable on the timescale of storms. A telescope with actuated mirror segments is programmable on the timescale of observations. A reconfigurable magnetic body can be programmable even if its persistent state changes only between missions.
+
+This temporal framing also clarifies the role of a compiler-like layer.
+
+An operator should not need to draw the desired magnetization vector inside every voxel. The operator wants a behavior: curl here, anchor there, roll under this field sequence. A design system could search a library of validated magnetic states and produce a programming procedure compatible with the material, field source and safety limits.
+
+Calling that a *compiler* is an analogy, not an established software category. The useful idea is translation from functional intent to a physically realizable state plus a verification plan.
+
+The translation must know the machine's history.
+
+A body that has been rewritten many times may have different coercivity or mechanical stiffness from a fresh one. A region that was heated repeatedly may have aged. A tear repaired in the field may change reachable shapes. The programming procedure should therefore operate on the current physical instance, not an ideal timeless design.
+
+This is why the digital twin matters more when hardware becomes mutable.
+
+The twin should know which configuration is supposed to be present, when it was written, how it was verified, how many cycles the material has experienced, and what deviations have been observed. The metadata becomes part of the functional machine.
+
+Without that record, reconfigurability can destroy traceability. Two physically identical-looking parts on a bench may have different internal magnetic programs and therefore different safe responses to the same field.
+
+Labels on the outside are not enough if the state can change after labeling.
+
+This can lead to physical identity checks at the moment of use. A tool enters a field station. The station measures its magnetic signature, queries its configuration record, performs a weak diagnostic motion and confirms that the observed response matches the declared state. Only then does it load the high-energy control profile.
+
+That kind of handshake is speculative as a standard and straightforward as a systems requirement.
+
+The more function becomes mutable, the more identity has to be measured rather than assumed.
+
+This also changes ownership. A manufacturer may sell the substrate while another company sells certified configurations. A service organization may perform rewrites. A regulator may approve only certain combinations. A customer may develop private configurations that alter warranty or safety assumptions.
+
+Physical hardware begins to acquire something like a configuration ecosystem.
+
+The analogy to software should stop before we imagine an app store for arbitrary bodies. Most magnetic reconfigurable devices will be specialized and heavily constrained. But the economic shift is real whenever value moves from a one-time manufactured geometry into a reusable substrate plus state.
+
 The important shift is that physical state is becoming a later decision.
 
 For centuries, manufacturing has been an exercise in making decisions durable. We choose shape, material, orientation and assembly, then lock them into matter because durability is what gives the object its function. Reprogrammable magnetic matter does not overthrow that logic. It creates a second category of decision: durable enough to persist, accessible enough to revise.
