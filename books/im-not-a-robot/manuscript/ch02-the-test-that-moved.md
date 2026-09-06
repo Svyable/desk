@@ -96,6 +96,46 @@ But performance can become a trap.
 
 If a person deliberately makes writing worse to prove a machine did not produce it, then the test has begun to govern the artifact. If an artist includes visible imperfection because smoothness now reads as synthetic, the market for authenticity has started shaping aesthetics. If an employee drags work out so speed does not trigger suspicion, the institution has turned efficiency into evidence against legitimacy. If a student believes the safest way to demonstrate authorship is to preserve mistakes, then we have created a system in which human error functions as a credential.
 
+The test changes the thing it measures.
+
+That point deserves more weight than it usually gets.
+
+An examination can be useful even though students study for it. A security check can be useful even though attackers adapt. A hiring interview can reveal information even though candidates rehearse. Measurement does not become meaningless the moment people respond to it.
+
+But once response becomes part of the environment, the institution has to stop pretending the test observes an untouched subject.
+
+A student who knows prose is being screened for machine-like regularity may alter prose.
+
+A worker who knows idle time is monitored may create activity.
+
+A creator who knows process evidence will be demanded may preserve drafts differently.
+
+A platform user who knows certain behavior triggers fraud review may learn the approved rhythm of legitimacy.
+
+The test begins producing the behavior later used to validate the test.
+
+That feedback can create false confidence.
+
+Look, humans write like this.
+
+Of course they do. We rewarded them for doing so.
+
+This is one reason benchmarks become dangerous when they quietly turn into definitions. A benchmark is useful when it measures performance on a specified problem. It becomes an identity machine when success on the benchmark starts standing in for a larger category the benchmark never had authority to settle.
+
+Intelligence becomes a score.
+
+Learning becomes an exam result.
+
+Productivity becomes a count.
+
+Authenticity becomes a detector probability.
+
+Humanity becomes a pattern.
+
+The simplification is attractive because institutions need decisions.
+
+But the test should remain smaller than the person.
+
 We will come back to error in the next chapter because it deserves more than a passing mention. For now, notice the structure.
 
 A test of humanness creates a performance of humanness.
@@ -237,6 +277,46 @@ If your work becomes more valuable when you can prove a person made it, are you 
 If schools and employers require increasing amounts of process evidence to prove that humans did the work, how much surveillance will we accept in exchange for confidence?
 
 If every test can be gamed, what counts as proof?
+
+There is one more difficulty with tests that imitate human judgment: passing them does not settle the relationship behind the performance.
+
+Suppose a system converses so well that an evaluator cannot distinguish it from a person during the encounter.
+
+That tells us something important about performance.
+
+It does not tell us who owns the system, what data the interaction generates, whether the system can make binding promises, whether it has interests of its own, whether the user has been told what they are interacting with, or who is responsible when the conversation causes harm.
+
+A successful imitation can reduce the relevance of surface detection while increasing the importance of provenance and governance.
+
+This is almost the opposite of the popular reading of the Turing test.
+
+Once imitation becomes good enough, the test is not finished.
+
+The test becomes less important.
+
+The social system still needs to know what kind of relationship exists.
+
+A synthetic customer-service agent may not need to sound synthetic in every sentence, but the customer may need to know that no individual employee is personally promising an exception. A political message may be fluent either way, but the recipient may care whether one campaign generated a million individualized versions. A companion system may be comforting, but the user may need to know whether its incentives reward continued engagement.
+
+Indistinguishability does not erase context.
+
+It makes context harder to infer from the artifact alone.
+
+That is the important shift.
+
+For much of history, the artifact carried clues about the process because production methods were scarce. A handwritten letter implied a hand. A live voice implied a person nearby or connected through a channel. A photograph implied some physical scene before the camera, even though framing and manipulation were always possible. A polished essay usually implied substantial human effort somewhere in the chain.
+
+Generative systems loosen these inferences.
+
+The artifact becomes a worse receipt for the process.
+
+This is not cultural collapse.
+
+It means we will need better receipts where process matters and less obsession with them where it does not.
+
+A weather forecast does not become morally suspect because nobody personally typed every sentence. A condolence note may carry a different expectation. A legal filing, student examination, campaign message, medical instruction, and work of art each create different reasons to care about process.
+
+One universal human-test cannot serve them all.
 
 The wrong answer is to keep moving the line and calling whatever remains behind it the essence of humanity.
 
