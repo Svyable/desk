@@ -10,6 +10,7 @@
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 22 of 22 drafted + 3 interludes |
 | **Method** | Anticipatory longevity + institutional design + primary/authoritative research + falsification notes |
+| **Release Review** | Remains blocked; see [research/release-review.md](research/release-review.md) |
 
 A life becomes too long for one irreversible plan.
 
@@ -57,5 +58,6 @@ The argument has a counterweight throughout. Optionality is expensive. Commitmen
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Interlude briefs and falsification notes](research/interlude-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
 
 The core research rule is that longevity claims must survive both hype and pessimism: no biomedical mechanism is treated as a proven human lifespan intervention; no average is allowed to stand in for every occupation or income group; and each chapter and interlude keeps an explicit note about what evidence would make its cleanest version false or incomplete.
