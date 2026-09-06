@@ -217,3 +217,113 @@ The theorem cares whether every line is earned.
 That is why an answer is cheap and a proof is expensive.
 
 And why, in the age of abundant answers, the expense may finally be something machines are good at paying.
+
+There is a third product a publication-scale AI proof should produce besides certificate and proof story: a *claims manifest*.
+
+The manifest is deliberately boring. It says exactly what has been established, at what level of verification, and what has not.
+
+The root theorem.
+
+The accepted definitions.
+
+The axiom footprint.
+
+Which components are fully formal.
+
+Which components are computer-assisted and what certificates they use.
+
+Which claims are explanatory rather than logical dependencies.
+
+Which numerical experiments were discovery aids only.
+
+Which human choices entered the construction.
+
+Which results are new and which are formalizations of known mathematics.
+
+Which parts have been independently reproduced.
+
+This document matters because the final proof will exist in several languages at once. Lean has one statement. The journal paper has another surface. The press release has another. A talk has another. An executive summary has another. Every translation is an opportunity to inflate the claim.
+
+The manifest acts as a checksum on language.
+
+A sentence in a press release says the result “proves global regularity.” The claims system asks which formal theorem licenses that sentence. A talk says the key mechanism is a new geometric depletion law. The graph asks whether that law is actually necessary to the proof or merely one explanation generated after the fact. A paper calls a computational lemma “rigorous.” The manifest points to the certificate and independent checker.
+
+This becomes more important when the proof is too large for any one person to own cognitively.
+
+Traditional authorship provides a kind of implicit integrity guarantee: the authors are expected to know what their paper claims. In a machine-scale proof, even the human team may not have read every generated intermediate theorem. Responsibility has to move from personal memory into explicit provenance.
+
+That does not reduce human responsibility.
+
+It makes the limits of memory honest.
+
+A second publication artifact should be the *minimal trusted route*.
+
+The discovery graph may contain millions of nodes. The accepted theorem should identify the smallest dependency cone needed for the result. Remove exploratory branches. Remove alternative proofs. Remove unused generated lemmas. Freeze exact versions of libraries and checkers. Export the proof object in a form that another group can rebuild without the internal research environment.
+
+This is the mathematical equivalent of shipping a release build instead of a development machine.
+
+It matters because enormous research repositories accumulate accidental dependencies. A theorem may compile because an imported module exposes a helper theorem nobody intended to trust. A generated proof may depend on a convenience axiom introduced during experimentation. A numerical certificate may point to a file created by a stale pipeline.
+
+The release cone forces the lab to discover what the proof actually needs.
+
+The smaller that cone becomes, the stronger the result’s portability.
+
+This is where reproducibility and conceptual understanding unexpectedly reinforce each other. Dependency minimization often reveals the genuine mechanism. If ninety percent of the project can be deleted and the theorem still checks, those deleted lines were search history rather than mathematical essence. The remaining dependencies tell us where the leverage lives.
+
+An AI system can help perform this proof distillation automatically.
+
+Try deleting a lemma.
+
+Rebuild.
+
+Replace a specialized theorem with a standard library result.
+
+Rebuild.
+
+Ask for an alternate proof of a central node from fewer assumptions.
+
+Rebuild.
+
+Find duplicate definitions.
+
+Prove equivalence and collapse them.
+
+The result is not merely a smaller codebase. It is a more intelligible theorem.
+
+There is a danger in the opposite direction: explanatory compression can become fictional. A model takes a huge valid proof and produces a ten-page “conceptual proof” that skips precisely the hard steps the formal artifact had to manage.
+
+So compression itself must be checked.
+
+Every sentence in the short proof should point to a verified cluster in the long proof. Every “standard argument” should name the theorem that makes it standard. Every metaphor should be labeled as metaphor. If the compact story omits a computational case split essential to validity, it should say so rather than pretend the concept alone closes the theorem.
+
+This is a new kind of expository discipline.
+
+The machine can produce the certificate.
+
+The machine can also produce the explanation.
+
+Neither should be allowed to certify the other without independent structure.
+
+A fourth product may be a *counterfactual proof map*.
+
+Which assumptions could be weakened while preserving the result?
+
+Which lemmas fail if viscosity is removed?
+
+Which parts depend on three dimensions?
+
+Which arguments survive on the torus and whole space?
+
+Which part would break in Tao’s averaged equation?
+
+This map turns the final proof into a research instrument. It tells the community why the theorem is specific to Navier–Stokes and where its methods may transfer.
+
+If global regularity is proved, the counterfactual map may teach more than the yes/no answer. If blowup is constructed, it can show which structural modifications kill the singularity and which leave it intact.
+
+A theorem becomes a laboratory after it is solved.
+
+This is why I resist the image of an AI system printing a final answer and ending the story. The best proof architecture would make closure the beginning of a second phase: distillation, explanation, perturbation, generalization, and independent reconstruction.
+
+A proof is not an answer because an answer stops when the question is closed.
+
+A good proof creates better questions.
