@@ -12,9 +12,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Check out frozen PR source
+      - name: Check out frozen Neuralase release source
         uses: actions/checkout@v4
+        with:
+          ref: 2d585b74f16887203047687dae5381c9139a48f5
       - name: Validate Neuralase chapter length
         run: python3 scripts/check-book-length.py neuralase
-      - name: Validate Desk integrity
+      - name: Validate frozen Desk integrity
         run: python3 scripts/check-desk.py
