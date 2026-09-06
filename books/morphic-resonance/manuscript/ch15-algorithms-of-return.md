@@ -48,6 +48,74 @@ Research on recommender systems has documented popularity bias, in which already
 
 The trail gets paved because people use the trail after it was paved.
 
+A 2020 study by Masoud Mansoury and colleagues makes the loop unusually explicit. The researchers did not claim to have measured the inner workings of every commercial recommendation platform. They built an offline simulation in which users interact repeatedly with several recommendation algorithms, the simulated reactions are added back to the data, and the recommenders operate again on a history partly produced by their own earlier choices.
+
+That setup matters because ordinary evaluation often freezes the dataset. A recommender is tested on a historical record as if deployment will leave the record unchanged. The simulation asks the harder question: what happens when prediction becomes intervention and intervention becomes training data?
+
+In their experiments, popularity bias could intensify across repeated cycles. Aggregate diversity declined in the simulated recommendations. The representation of users' tastes shifted over time, and the authors reported stronger effects for users in a minority group in their setup.
+
+Those findings should not be inflated into a universal law of recommendation. They depend on the algorithms, data, behavioral assumptions, and simulation design. A platform can explicitly optimize for exploration, diversity, novelty, fairness, long-term satisfaction, or other goals. A recommender can surface obscure material that a user would never have found unaided. Different feedback mechanisms can produce different trajectories.
+
+The paper is valuable for a narrower reason.
+
+It demonstrates how a closed loop can manufacture stronger evidence for its own prior.
+
+The recommender favors popular items.
+
+Users are exposed to those items.
+
+Their responses are logged.
+
+The next model sees a world in which popular items received more opportunities to produce responses.
+
+The historical imbalance has reproduced itself through measurement.
+
+This is not simply bias in the model.
+
+It is bias in which future becomes observable.
+
+That distinction is crucial.
+
+A system can never collect behavioral evidence about an option nobody was shown. The absence of interaction is then ambiguous. Did the user dislike the item? Or did the system never allow the preference to become visible?
+
+The unshown alternative becomes a missing counterfactual.
+
+This is where algorithmic history becomes more powerful than a passive archive. An archive can overrepresent one category, but a ranking system built from the archive can allocate new opportunities in the same direction. The old distribution begins producing the evidence that will justify its continuation.
+
+A 2024 survey of popularity bias in recommender systems underscores why the phenomenon should be treated as a research problem rather than a single result. The literature contains different definitions, measurements, mitigation strategies, and experimental settings. Much of the work is computational, which means real-world effects depend on how users actually respond to recommendations and on platform-specific design choices.
+
+That limitation is useful, not embarrassing.
+
+It prevents the book from turning “feedback loops exist” into “algorithms inevitably homogenize everyone.”
+
+The more precise claim is stronger: when exposure, response, logging, and retraining form a loop, historical popularity can become a cause of future observability. Whether that cause dominates depends on the system.
+
+A newer line of work has begun looking at those dynamics across user groups and repeated recommendation cycles. The point is not that one 2026 study settles the field. It is that researchers increasingly treat recommendation as a longitudinal process rather than a one-shot ranking problem. A system that looks acceptable at the first interaction can produce a different distribution after hundreds of interactions because users and models co-adapt.
+
+That is resonance infrastructure in motion.
+
+The infrastructure is not static data behind a model.
+
+It is the loop connecting exposure to behavior to data to later exposure.
+
+Once that loop is visible, design questions become experimental questions.
+
+What if popularity signals are hidden?
+
+What if some exposure is randomized?
+
+What if old interactions decay faster?
+
+What if the objective includes aggregate diversity?
+
+What if niche-oriented users are evaluated separately rather than averaged into a population metric?
+
+What if success is measured over months instead of clicks in the next minute?
+
+Each intervention changes how much historical repetition is allowed to purchase future repetition.
+
+The result is a practical science of engineered resonance.
+
 Now imagine the same logic operating across millions of decisions every day.
 
 A product ranks because it sold.
