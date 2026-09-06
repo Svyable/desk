@@ -10,191 +10,427 @@ Services become unavailable.
 
 Credentials are compromised.
 
-Public websites disappear.
-
 Logistics systems slow.
 
 Communications become less trustworthy.
 
 The attacker may remain uncertain.
 
-This makes cyber activity a natural companion to gray-zone coercion.
+This makes cyber activity a natural companion to gray-zone coercion around Taiwan.
 
 A campaign can create friction before any physical confrontation.
 
-It can test defenses, gather intelligence, pre-position access, map response procedures, consume incident-response capacity, or simply increase the defender's uncertainty about which systems will work during a crisis.
+It can gather intelligence, pre-position access, map response procedures, consume incident-response capacity, manipulate public confidence, or make the defender question which systems will work when a larger crisis arrives.
 
 The most dangerous effect may be doubt.
-
-If operators suspect that warning feeds, communications, or public information systems are compromised, they may hesitate even when the underlying data is real.
 
 Cyberattack does not need to fabricate the whole picture.
 
 It can make the picture contestable.
 
-This is why cyber power is often misunderstood when measured only through disruption.
+That is enough to alter political behavior.
 
-A visible outage is one effect.
+## Access is not effect
 
-A hidden compromise may matter more.
+Cyber discussions often collapse several stages into one word: compromise.
 
-If an adversary has access to a network but does nothing, the access can still influence behavior once discovered.
+That hides the strategic sequence.
 
-Operators begin to wonder what was seen.
+An adversary may discover a vulnerability.
 
-What was changed.
+Gain initial access.
 
-What remains persistent.
+Escalate privileges.
 
-Which credentials are still safe.
+Move laterally.
 
-Which backup systems share the same weakness.
+Establish persistence.
 
-The uncertainty can outlast the intrusion.
+Map dependencies.
 
-That is strategically useful because a defender under time pressure may be forced to choose between using a system it does not fully trust and abandoning a system it still needs.
+Reach a consequential function.
 
-This is the cyber threshold problem.
+Prepare an action.
 
-The line between espionage, preparation, coercion, and attack is not always visible from the technical event alone.
+Execute it.
+
+Maintain or abandon access.
+
+Each step changes risk.
+
+Not every intrusion reaches the final stages.
+
+Not every persistent presence is intended for immediate disruption.
+
+Not every destructive effect requires deep persistence.
+
+The defender therefore needs an **access-to-effect ladder** rather than a binary compromised/not-compromised label.
+
+This matters politically.
+
+A discovered foothold in a public-facing ministry is not equivalent to persistent administrative access inside a port logistics system.
+
+A stolen password is not equivalent to the ability to alter emergency authentication.
+
+Malware on one workstation is not equivalent to the ability to corrupt a national command picture.
+
+The strategic category should depend on function, persistence, privilege, timing, recoverability, and plausible consequence.
+
+Technical severity and political severity are related.
+
+They are not identical.
+
+## Dormant access changes the opening of a crisis
+
+Cyber conflict can begin long before leaders believe a crisis has begun.
+
+An adversary seeking options may establish access months or years in advance.
+
+Most of the time, the access may look like espionage.
+
+The strategic warning sign is not necessarily the intrusion itself.
+
+It may be a change in how access is used.
+
+New credential harvesting.
+
+Movement toward operational technology.
+
+Collection against continuity plans.
+
+Mapping of backup systems.
+
+Changes in persistence mechanisms.
+
+Preparation to disable logging.
+
+Access to emergency communications.
+
+These shifts can matter more than the original breach date.
+
+This creates a temporal problem for warning.
+
+A crisis may contain cyber capabilities accumulated in peacetime.
+
+The first visible military move can therefore arrive after the cyber preparation is already mature.
+
+The defender cannot treat cyber as a supporting action that begins after the first aircraft moves.
+
+Cyber preparedness is part of the pre-crisis balance.
+
+## The cyber threshold is functional
+
+The line between espionage, preparation, coercion, and attack is not visible from the technical event alone.
 
 The same access can support several purposes.
 
-A foothold in a logistics network may be intelligence collection today and disruption capacity tomorrow.
+A foothold in a logistics network may collect information today and support disruption tomorrow.
 
-Malware inside a telecommunications provider may never be activated.
+A compromised telecommunications account may be used to observe rather than alter.
 
-A compromised administrator account may be used to observe rather than alter.
+A persistent implant may never be activated.
 
 Intent cannot be read directly from presence.
 
-But presence still changes risk.
+But presence still changes the decision environment.
 
-That means the defender needs a language for intermediate states.
+The defender needs language for intermediate states.
 
-Not every intrusion is war.
+Routine intrusion.
 
-Not every intrusion is routine espionage.
+Sensitive access.
 
-Some create latent strategic capability.
+Latent operational capability.
 
-Some target functions whose compromise would matter disproportionately during a crisis.
+Active coercive interference.
 
-The classification should therefore depend on function, persistence, access level, timing, and plausible effect rather than raw technical sophistication alone.
+Strategic disruption.
 
-A small intrusion into a strategically sensitive system may matter more than a large disruption of a public website.
+These categories should not be legal conclusions by themselves.
 
-Classification depends on function.
+They are decision aids.
 
-This matters for Taiwan because a crisis would already place enormous pressure on communications and public trust.
+They help a government ask how much the cyber event changes the crisis rather than whether it crosses one magical line.
 
-The defender should therefore treat cyber resilience as continuity of government, not merely network security.
+This is especially useful around Taiwan because gray-zone pressure depends on contested classification.
 
-Can agencies communicate if normal systems fail?
+The attacker benefits if every cyber event looks too small to change policy.
+
+The defender risks escalation if every intrusion is treated as war.
+
+Functional classification creates room between those errors.
+
+## The campaign sequence matters
+
+A cyber event can look different depending on when it occurs.
+
+The same denial-of-service attack during an ordinary week may be a nuisance.
+
+During a maritime inspection crisis, it may be part of a coercive sequence.
+
+The same credential compromise found in isolation may look like espionage.
+
+Discovered simultaneously with suspicious activity across ports, telecom providers, and emergency communication systems, it can carry different strategic weight.
+
+Sequence creates meaning.
+
+A mature warning process should therefore examine the **campaign timeline**.
+
+What changed first?
+
+Which accesses predated the crisis?
+
+Which effects appeared only after political escalation?
+
+Which systems were targeted in a sequence that creates operational advantage?
+
+Which incidents are merely discovered because monitoring increased?
+
+This last question matters.
+
+Crisis monitoring becomes more intense.
+
+Analysts see things they would have missed in peacetime.
+
+Discovery can therefore rise without adversary activity rising proportionately.
+
+If every newly discovered intrusion is interpreted as newly initiated crisis behavior, the state can manufacture escalation through better visibility.
+
+The timeline must distinguish **time of compromise** from **time of discovery** and **time of activation**.
+
+Those are three different clocks.
+
+## Cyber and physical pressure can form one coercive system
+
+A week of elevated maritime activity.
+
+A surge in phishing against government accounts.
+
+A suspicious telecom compromise.
+
+Payment-service outages.
+
+Rumors that emergency systems are failing.
+
+None alone proves a coordinated campaign.
+
+Together they may change the interpretation of the pressure.
+
+The defender needs fusion without narrative capture.
+
+Humans are good at finding patterns.
+
+Models are good at finding patterns.
+
+Both can overfit.
+
+A useful cross-domain assessment should ask whether the events share infrastructure, timing, target logic, operational benefit, known tradecraft, or command relationships.
+
+It should also ask what evidence would show the events are unrelated.
+
+Possible hypotheses should remain visible.
+
+Coordinated coercion.
+
+Routine espionage discovered under heightened monitoring.
+
+Independent criminal activity.
+
+Opportunistic hacktivism.
+
+Domestic technical failure.
+
+Adversary probing unrelated to the immediate military sequence.
+
+The goal is not indecision.
+
+It is to select early actions that remain useful across several plausible explanations.
+
+Increase monitoring.
+
+Strengthen authentication.
+
+Isolate vulnerable pathways.
+
+Protect clean backups.
+
+Warn critical operators.
+
+Coordinate with partners.
+
+These are resilience actions that do not require premature certainty.
+
+## Resilience before attribution
+
+Attribution and restoration run on different clocks.
+
+A system can fail in seconds.
+
+A technical team can begin containment in minutes.
+
+A clean restoration may take hours or days.
+
+A high-confidence attribution judgment may take longer.
+
+A political decision to accuse another state may require stronger evidence than the engineering decision to harden a vulnerable network.
+
+Policy should not force these clocks into one sequence.
+
+The first question is operational.
+
+What still works?
+
+The second is restorative.
+
+How quickly can trusted function return?
+
+The third is analytic.
+
+What caused the incident?
+
+The fourth is political.
+
+What behavior should change because of it?
+
+The fifth is coercive.
+
+Should costs be imposed, and at what confidence level?
+
+A mature state can move through the early questions without pretending the later ones are settled.
+
+This is **resilience before attribution**.
+
+It is strategically valuable because gray-zone campaigns exploit the delay between effect and proof.
+
+The defender can deny leverage while preserving evidentiary discipline.
+
+## Recovery is a deterrence metric
+
+Cybersecurity is often measured through prevention.
+
+How many attacks were blocked?
+
+How many vulnerabilities were patched?
+
+How many systems were compliant?
+
+These measures matter.
+
+They are incomplete in a high-end contest.
+
+Some prevention will fail.
+
+The more important question becomes recovery.
+
+How long until the service is trusted again?
+
+How much function survives during restoration?
+
+How many users can continue through alternate paths?
+
+How much forensic evidence is preserved?
+
+How quickly can credentials be rotated?
+
+How long before a clean administrative domain is available?
+
+This suggests a **recovery curve**.
+
+At the moment of compromise, capability falls.
+
+The shape of the return matters.
+
+A system that loses ninety percent of function and restores it slowly is vulnerable to political shock.
+
+A system that loses thirty percent and returns quickly may deny the coercer most of the payoff.
+
+The recovery curve is therefore part of deterrence by denial.
+
+It turns cyber resilience into something measurable.
+
+## Graceful failure is sovereignty
+
+Taiwan should treat cyber resilience as continuity of government rather than merely network security.
+
+Can agencies communicate if ordinary systems fail?
 
 Can military units authenticate orders?
 
 Can banks and payment systems function?
 
-Can ports move cargo if scheduling systems are unavailable?
+Can ports move cargo if scheduling tools are unavailable?
 
 Can hospitals operate if identity services degrade?
 
 Can the public distinguish official emergency information from impersonation?
 
-Can infrastructure operators restore service from clean systems?
-
 Can authorities communicate with foreign partners through alternate channels?
 
-These questions connect directly to deterrence.
-
-A coercer gains less from cyber pressure if critical services fail gracefully.
-
-Graceful failure is the central design principle.
-
-Cybersecurity culture often aspires to prevention.
-
-Prevent the intrusion.
-
-Prevent the exploit.
-
-Prevent the compromise.
-
-That remains necessary.
-
-It is not sufficient.
-
-A state facing a sophisticated adversary has to assume that some prevention will fail.
-
-Resilience begins where prevention ends.
-
-What happens after one credential is stolen?
-
-After one provider is compromised?
-
-After one model starts behaving strangely?
-
-After one data center is isolated?
-
-After one government email system is untrusted?
-
-The network should degrade in compartments rather than cascade across the state.
-
-Segmentation therefore becomes strategic.
-
-A compromised civilian network should not automatically endanger military command.
-
-A compromised ministry account should not authenticate emergency orders.
-
-A compromised vendor should not provide unrestricted pathways into critical infrastructure.
-
-A public-information platform should have a separate emergency-authentication layer.
+The system should degrade in compartments rather than cascade across the state.
 
 This is the cyber equivalent of watertight compartments on a ship.
 
 The attacker may penetrate one space.
 
-The whole system should not sink.
+The whole state should not sink.
 
-Identity is especially important.
+Graceful failure means losing convenience before losing authority.
 
-Modern networks often concentrate trust in credentials.
+Losing bandwidth before losing authentication.
 
-If the identity provider fails, many applications fail together.
+Losing automation before losing command.
 
-If administrator credentials are compromised, the attacker can move widely without destroying anything obvious.
+Losing central coordination before losing all local function.
 
-This creates common-mode risk.
+The order of degradation should be designed.
 
-A resilient architecture should therefore ask which identities are too powerful.
+Otherwise the crisis chooses it.
 
-Which privileges can be segmented.
+## Identity is a national-security dependency
 
-Which emergency functions need offline or out-of-band authentication.
+Modern digital systems concentrate trust in identity.
 
-Which administrative actions require multiple people.
+One credential can unlock many applications.
 
-Which credentials can be rotated quickly during crisis.
+One identity provider can become a common dependency across government and industry.
 
-This sounds like enterprise security.
+This is efficient.
 
-At national scale, it becomes continuity of sovereignty.
+It can also create common-mode risk.
+
+A resilient architecture should ask which identities are too powerful.
+
+Which administrative privileges can be segmented?
+
+Which emergency actions require two people?
+
+Which credentials can be rotated quickly?
+
+Which critical systems require out-of-band authentication?
+
+What happens if the normal identity provider is unavailable but not necessarily compromised?
+
+This sounds like enterprise architecture.
+
+At national scale, it is continuity of sovereignty.
 
 The ability to know which order is real is a state function.
 
-Synthetic media makes this more important.
+Identity should therefore be treated like power or communications: critical infrastructure whose failure changes political authority.
 
-A cyber intrusion can be paired with information operations.
+## The public channel is part of command resilience
 
-Hack an account.
+Cyber intrusion and synthetic media can be paired.
 
-Publish a fabricated message through a real channel.
+Compromise a real account.
+
+Publish a false emergency message.
 
 Disrupt the correction mechanism.
 
-Flood social platforms with screenshots.
+Flood platforms with screenshots.
 
-Create enough confusion that citizens and foreign partners do not know whether the government itself has changed policy.
+Create enough confusion that citizens and partners do not know whether policy has changed.
 
 The attacker does not need perfect deception.
 
@@ -208,323 +444,401 @@ Journalists publish.
 
 Allies call.
 
-The information environment fills the gap before the state can restore authority.
+The information environment fills the gap before the government restores authority.
 
-This makes authentication a public good.
+This makes public authentication part of cyber defense.
 
-Governments need emergency communications systems whose legitimacy survives platform compromise.
+Known backup channels.
 
-Cryptographic signatures may help.
+Cryptographic verification where practical.
 
-Known backup websites may help.
+Embassy relays.
 
-Broadcast channels may help.
+Partner confirmation.
 
-Embassies and partner governments can help relay authenticated statements.
+Broadcast redundancy.
 
-The exact mechanism matters less than redundancy and rehearsal.
-
-Citizens should not encounter the emergency-authentication system for the first time during the emergency.
+Pre-crisis public familiarity.
 
 Trust must be preloaded.
 
-The same principle applies inside the government.
+An emergency channel that citizens first learn about during the emergency is a fragile channel.
 
-If officials rely on ordinary messaging tools in peace and obscure backups in crisis, the backup may fail because nobody knows how to use it.
+## Commercial infrastructure expands the battlefield without becoming military
 
-A continuity channel that is never exercised is a theory.
+Critical services depend on cloud providers, telecom firms, software vendors, cybersecurity companies, logistics platforms, banks, and data centers.
 
-Cyber resilience therefore depends on habits.
+That does not make every commercial network a military target.
 
-Regular credential rotation.
+It does mean national continuity crosses organizational boundaries.
 
-Offline backups.
+A government can harden its ministry and still depend on a compromised vendor.
 
-Restoration drills.
+A port can maintain local systems and still rely on international shipping data.
 
-Manual workarounds.
+A hospital can preserve clinical networks and still lose payment, identity, or communications services.
 
-Cross-agency exercises.
+Resilience therefore requires public-private planning.
 
-Clean-room procedures.
+Which services are critical?
 
-Independent logging.
+Which dependencies cross sectors?
 
-Red-team testing.
+Who has authority to isolate them?
 
-Public communication rehearsal.
+Who can communicate during a compromise?
 
-These practices are not glamorous.
+Which firms have clean restoration environments?
 
-They are the difference between a technical incident and a strategic incident.
+Which contracts support emergency capacity?
 
-AI will operate on both sides.
+Which foreign providers can continue during geopolitical restrictions?
 
-Defenders can use models to detect anomalies, analyze code, prioritize alerts, correlate activity across networks, generate remediation steps, and search large logs faster than human teams can.
+The goal is not to militarize the private sector.
+
+It is to recognize that coercion can exploit the seams between public responsibility and private ownership.
+
+## AI can expand defense—and accelerate self-inflicted damage
+
+Defenders can use models to analyze code, correlate anomalies, prioritize alerts, search logs, draft remediation steps, and compare activity across networks.
 
 This can expand defensive capacity significantly.
 
-Taiwan's problem, like that of many governments, is not simply lack of data.
+The data problem is enormous.
 
-It is too much data and too little attention.
+AI can help turn telemetry into attention.
 
-AI can help convert telemetry into focus.
-
-But machine defense creates new attack surfaces.
-
-A model can be manipulated through data.
-
-A vendor update can be compromised.
+But machine defense creates a new category of risk: **automated overreaction**.
 
 A security assistant can hallucinate a remediation step.
 
-An automated tool can disable a service more effectively than the attacker did.
+An automated containment tool can isolate a service that was still functioning.
 
-An overconfident classifier can bury the rare alert inside a sea of low-priority events.
+A classifier can downgrade the rare alert that mattered.
 
-Automation can accelerate mistakes as well as response.
+A model can treat adversarially generated noise as evidence of a larger campaign.
 
-This is why AI-assisted cyber defense should be evaluated by incident behavior, not benchmark accuracy alone.
+An optimization system can disable the defender more efficiently than the attacker did.
 
-Can operators understand why the system escalated an alert?
+This is why AI-assisted cyber defense should be evaluated by incident behavior rather than benchmark accuracy alone.
 
-Can they challenge it?
+Can operators see the original evidence?
 
-Can they see the original evidence?
+Can they challenge the model?
 
-Can the tool operate without sending sensitive data to an external service?
+Can they reverse the action?
 
-Can it be isolated if compromised?
+Can they isolate the tool itself?
 
-Can responders switch to another tool?
+Can sensitive data remain inside trusted infrastructure?
 
-Can the state continue when the model is unavailable?
+Can responders switch to a simpler process when the model is suspect?
 
 The central requirement is reversibility.
 
-Cyber defense in crisis will involve decisions made with incomplete information.
+## Reversible response should come first
 
-Block the account.
+Cyber response involves decisions made under incomplete information.
 
-Disconnect the network.
+Block an account.
+
+Isolate a host.
+
+Disconnect a network.
 
 Revoke credentials.
 
-Shut down a service.
+Restore a backup.
 
-Restore from backup.
+Wipe a system.
 
 Publicly attribute.
 
-Each action has costs.
+Impose costs.
 
-Automation should make low-regret actions easier without making irreversible actions invisible.
+These actions differ in reversibility.
 
-For example, isolating one suspicious endpoint may be reversible.
+A good crisis architecture ranks them accordingly.
 
-Wiping a system may destroy forensic evidence.
+Low-regret, reversible actions can occur at lower confidence.
 
-Disabling a national service may stop an intrusion and create public panic.
+High-cost or politically irreversible actions should require stronger evidence and higher authority.
 
-Publishing attribution may rally partners and close diplomatic space.
+This creates a **response ladder**.
 
-The cyber response therefore needs the same escalation discipline as military operations.
+Technical containment.
 
-Technical urgency should not erase political judgment.
+Operational protection.
 
-This becomes especially important when cyber activity accompanies military pressure.
+Public warning.
 
-Imagine a week of elevated maritime activity.
+Coalition coordination.
 
-Then government websites experience denial-of-service attacks.
+Formal attribution.
 
-A telecom provider reports suspicious access.
+Economic or diplomatic response.
 
-Banks see phishing campaigns.
+Military signaling.
 
-A military network notices anomalous traffic.
+The rungs should not be automatic.
 
-None of these events alone proves a coordinated campaign.
+Their purpose is to prevent technical urgency from silently becoming political escalation.
 
-Together they may change the interpretation of the military activity.
+## Temporal fingerprints can matter as much as malware fingerprints
 
-The defender needs fusion without narrative capture.
+Cyber attribution often focuses on code, infrastructure, and tradecraft.
 
-That is difficult.
+In a crisis, timing can reveal strategic meaning.
 
-Humans are good at finding patterns.
+Which systems were touched just before a maritime announcement?
 
-Models are good at finding patterns.
+Which access was activated after a political deadline?
 
-Both can overfit.
+Which incidents stopped when military pressure eased?
 
-The correct process should ask whether the events share infrastructure, timing, target logic, operational benefit, or known tradecraft.
+Which targets align with the coercer's likely operational needs?
 
-It should also ask what evidence would show that the events are unrelated.
+These temporal fingerprints can help distinguish opportunistic crime from coordinated strategic activity.
 
-This is crucial because a crisis can make coincidence look intentional.
+They are not proof by themselves.
 
-False fusion can escalate just as surely as missed fusion can surprise.
+They should be combined with technical evidence.
 
-The system should therefore preserve competing hypotheses.
+But timing is part of the campaign structure.
 
-Coordinated coercion.
+The defender needs tools that can reconstruct this sequence without turning correlation into certainty.
 
-Independent criminal activity.
+The question is not simply who wrote the malware.
 
-Routine espionage discovered because monitoring increased.
+It is who benefited from the timing and whether the sequence reflects coordinated purpose.
 
-Domestic technical failure.
+## Cyber deception can target the defender's model of itself
 
-Opportunistic hacktivism.
+An attacker does not always need to hide.
 
-Adversary probing unrelated to immediate military activity.
+Sometimes it benefits from being discovered.
 
-The goal is not indecision.
+A visible intrusion can force the defender to disconnect systems.
 
-It is calibrated action that remains valid across several hypotheses where possible.
+A planted artifact can make responders distrust a supplier.
 
-Strengthen authentication regardless.
+A false flag can consume intelligence attention.
 
-Increase monitoring regardless.
+A deliberately noisy campaign can make routine failures look hostile.
 
-Isolate vulnerable systems regardless.
+The target is not only the network.
 
-Warn critical operators regardless.
+It is the defender's confidence model.
 
-Coordinate with partners regardless.
+This creates an adversarial problem for AI-assisted fusion.
 
-These steps improve security without requiring premature certainty.
+If the defender's analytic system learns that certain signatures indicate high threat, an attacker may inject those signatures to manipulate prioritization.
 
-This is resilience before attribution again.
+The model can be attacked through the evidence it is designed to interpret.
 
-Partners are particularly important in cyber because infrastructure crosses borders and adversary activity often appears in multiple networks.
+A robust process therefore needs to ask whether an indicator could have been planted precisely because the defender values it.
 
-One country may see command infrastructure.
+Strategic warning is not ordinary classification when the adversary can study the classifier.
+
+## Shared cyber warning enlarges Taiwan's effective scale
+
+Cyber infrastructure crosses borders.
+
+One partner may see command infrastructure.
 
 Another may see malware samples.
 
-A cloud provider may see account activity.
+A cloud provider may see account behavior.
 
-A telecom company may see routing anomalies.
+A telecom firm may see routing anomalies.
 
-A cybersecurity firm may identify a campaign pattern.
+A cybersecurity company may recognize a campaign pattern.
 
-No single actor holds the complete picture.
+No single actor holds the whole picture.
 
-Alliance information sharing can therefore change the defender's effective scale.
+Information sharing can therefore give Taiwan the observational scale of a wider network.
 
-But sharing creates its own risk.
-
-Sensitive indicators can reveal collection methods.
-
-Raw logs can expose personal information.
-
-Attribution judgments can become politicized.
-
-A rushed coalition may amplify a weak assessment.
-
-The solution is structured sharing.
+But coalition sharing needs discipline.
 
 Separate technical indicators from political attribution where possible.
-
-Share behavior and mitigations quickly.
 
 Label confidence.
 
 Preserve provenance.
 
-Distinguish what is observed from what is inferred.
+Distinguish observation from inference.
 
-These habits matter in every intelligence problem.
+Share mitigations quickly.
 
-Cyber makes them urgent because the volume is high and the clocks are short.
+Protect collection methods appropriately.
 
-The defender also has to think about pre-positioned access.
+A rushed coalition can amplify a weak assessment just as a fragmented one can miss a strong one.
 
-A crisis may begin before the crisis is visible.
+The network advantage comes from combining evidence without manufacturing consensus.
 
-An adversary seeking options could compromise networks months or years earlier.
+## The clean-room problem
 
-The strategic warning sign may not be the intrusion itself.
+Recovery from serious compromise requires somewhere trusted to recover into.
 
-It may be a change in how dormant access is used.
+That sounds obvious.
 
-This is difficult to detect because persistent access can resemble espionage until it does not.
+Organizations often discover that backups, administrative tools, identity services, documentation, and restoration infrastructure share the same compromised environment.
 
-That uncertainty argues for designing critical systems so the existence of access does not automatically confer catastrophic capability.
+The backup exists.
 
-Limit privileges.
+The pathway to restore it is not trusted.
 
-Require multiple approvals.
+This is why clean-room capability matters.
 
-Keep essential backups offline.
+Separate administrative credentials.
 
-Separate safety systems.
+Offline or logically isolated backups.
 
-Monitor administrative behavior.
+Known-good software.
 
-Design for rapid credential replacement.
+Independent logging.
 
-Reduce single points of control.
+Alternate communications.
 
-The architecture should assume an adversary gets in somewhere.
+Prearranged vendor support.
 
-The strategic question is what the adversary can do next.
+The ability to build a trusted enclave while the main network remains suspect.
 
-Cyber before kinetic also affects civilian morale.
+This is expensive and rarely visible during ordinary operations.
 
-A population experiencing payment failures, transport delays, rumor floods, and unreliable government sites may feel that conflict has already begun even when physical violence has not.
+Its value appears when confidence collapses.
 
-That psychological effect can be intentional.
+The state should measure not only backup availability but **time to trusted restoration**.
 
-The defender's answer should not be to pretend everything is normal.
+The word trusted matters.
 
-It should demonstrate continuity.
+A service can return before confidence returns.
 
-Services restored.
+## Recovery drills are political exercises
 
-Payments routed.
+A technical restoration exercise can reveal strategic weaknesses.
 
-Public messages authenticated.
+What if the ordinary identity provider is unavailable?
 
-Incidents explained with appropriate uncertainty.
+What if the crisis team cannot use the usual messaging platform?
 
-Citizens given useful actions rather than vague reassurance.
+What if one ministry's clean network cannot exchange data with another's?
 
-Resilience becomes visible through recovery.
+What if a foreign cloud service is unavailable?
 
-A system that never fails is not credible.
+What if the government can restore service but cannot convince citizens the restored channel is authentic?
 
-A system that fails and recovers quickly can be.
+These are not only IT questions.
 
-This changes the coercer's calculus.
+They involve authority, public confidence, legal powers, and partner coordination.
 
-The aim of a gray-zone cyber campaign is often to make the defender feel fragile.
+Selected national exercises should therefore integrate cyber restoration with military, civil-defense, financial, and communications scenarios.
 
-Recovery teaches the opposite lesson.
+The objective is to discover where technical recovery waits for political permission.
 
-The state can absorb pressure without granting the attacker political control over the tempo.
+That delay can be as consequential as the exploit.
 
-That is deterrence by denial.
+## The transition-warning problem
 
-Cyber before kinetic is dangerous because it can make every later event harder to interpret.
+The strategic challenge is not detecting every cyber intrusion.
 
-It can blur authority.
+It is detecting when routine hostile activity changes character.
+
+What would signal movement from collection toward coercion?
+
+Access shifting toward critical operational functions.
+
+Preparation to disable recovery mechanisms.
+
+Coordinated targeting of communications and logistics.
+
+Activation synchronized with physical pressure.
+
+Attempts to manipulate public authentication.
+
+Destructive or irreversible actions replacing quiet persistence.
+
+These indicators should be treated as transition evidence rather than automatic proof of imminent war.
+
+The distinction mirrors the air-and-maritime problem.
+
+Volume can be routine.
+
+Transition changes strategic meaning.
+
+The cyber warning system needs long memory as much as real-time alerting.
+
+## The counterargument: cyber effects may be too unreliable for coercion
+
+There is a serious reason not to overstate the cyber component of a Taiwan crisis.
+
+Cyber operations can be unpredictable.
+
+Access can fail.
+
+Malware can be discovered early.
+
+Networks can behave differently from test environments.
+
+Civilian systems may recover faster than expected.
+
+Destructive operations can reveal capabilities that took years to prepare.
+
+An attacker may therefore prefer to preserve access for intelligence rather than spend it on uncertain disruption.
+
+This matters.
+
+Cyber should not become a magic prelude assumed to disable the defender on command.
+
+The correct conclusion is narrower.
+
+Cyber's strategic value often lies in creating options, uncertainty, and friction rather than guaranteed paralysis.
+
+The book should resist scenarios in which every compromised network behaves exactly as the attacker planned.
+
+The defender gets a vote.
+
+Software gets a vote.
+
+Chance gets a vote.
+
+That uncertainty is itself part of the threshold problem.
+
+## What would make the thesis false?
+
+This chapter's argument should weaken if cyber incidents around coercive crises remain largely separable from political and military decision-making.
+
+If critical services restore so quickly that cyber pressure rarely changes public confidence or operational options, the coercive value may be smaller than assumed.
+
+If pre-positioned access proves too unreliable to support meaningful crisis action, latent capability may matter less.
+
+If strong attribution can usually be reached faster than operational recovery, the proposed separation of clocks may be overstated.
+
+If automated defensive systems consistently improve response without significant false containment or narrative lock-in, the emphasis on reversibility may be too cautious.
+
+And if cyber activity does not materially alter interpretation of concurrent military pressure, it belongs nearer the technical periphery than the strategic center.
+
+These are observable tests.
+
+Cyber should matter in the book only where it changes the coercive system.
+
+## Cyber before kinetic means trusted continuity before certainty
+
+Cyber pressure can blur authority.
 
 Corrupt confidence.
 
 Consume attention.
 
-Expose routines.
-
 Pre-position access.
-
-Amplify rumors.
 
 Slow logistics.
 
-Create doubts about data that remain after the technical incident ends.
+Amplify rumors.
+
+Expose dependencies.
+
+Create doubts about data that survive after the technical incident ends.
 
 The best defense is therefore larger than cybersecurity.
 
@@ -536,8 +850,18 @@ Preserve the ability to authenticate.
 
 Preserve the ability to restore.
 
-Preserve the ability to decide under uncertainty.
+Preserve the ability to decide while attribution remains incomplete.
 
-Then a cyber operation can still hurt.
+Preserve the ability to tell whether activity changed character.
+
+Preserve the ability to respond reversibly before responding irreversibly.
+
+Then cyber can still hurt.
 
 It is less likely to decide what the next political move must be.
+
+That is the threshold objective.
+
+Not perfect defense.
+
+A state that remains capable of choosing after its networks have been pressured.
