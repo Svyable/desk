@@ -68,6 +68,32 @@ Here the answer is specific. Recent chemical history changes the cell’s future
 
 That is enough.
 
+There is an additional subtlety that makes this tiny circuit more instructive than the phrase *chemical memory* suggests.
+
+Memory and forgetting are being solved together.
+
+If the cell retained every past concentration with equal weight, old conditions would eventually become a burden. The environment through which a bacterium swims is not stationary. A useful comparison needs a moving reference. Recent history has to matter enough to judge whether conditions are improving, but not so much that yesterday’s chemical world dominates the current one.
+
+The adaptation machinery helps create that moving baseline.
+
+This is easy to miss because human memory is usually discussed as storage. We praise the person who remembers more. We treat forgetting as loss. But an adaptive controller has to decide, through its physical dynamics, how much past to retain.
+
+Too little persistence and there is nothing to compare.
+
+Too much persistence and the system becomes loyal to a world that has already changed.
+
+The timescale of memory is therefore part of the competence.
+
+A bacterial circuit tuned to seconds is not an inferior version of a human memory that lasts decades. It is a solution matched to a different problem. The same organism would gain nothing from remembering the exact attractant concentration it encountered three weeks earlier if that state no longer predicts what lies one body length ahead.
+
+This matters later when we compare substrates.
+
+Immune memory can remain useful over much longer intervals because recurring pathogens create a different temporal problem. Developmental states can persist across cell divisions because anatomy demands continuity. Neural learning can retain associations long enough to guide behavior across days or years. Culture can preserve information beyond individual lifetimes.
+
+The word *memory* is portable only when the timescale and function travel with it.
+
+Otherwise it becomes a metaphor so broad that a dent in metal and a childhood recollection look like the same phenomenon.
+
 The distinction matters because nervous systems can seduce us into treating intelligence as a substance produced by a particular organ. A brain is so visibly associated with thought that it becomes tempting to imagine a bright line: before brains, mere chemistry; after brains, cognition.
 
 Biology rarely offers lines that clean.
@@ -120,7 +146,7 @@ Without that specification, memory becomes a compliment.
 
 With it, memory becomes a measurable relationship.
 
-The timescale matters because every adaptive system faces a matching problem. Remember too briefly and the signal vanishes before it can guide action. Remember too long and stale conditions contaminate the present. A bacterium in a turbulent chemical environment needs a different temporal window from an immune system preparing for a pathogen that may return months later.
+The timescale matters because every adaptive system faces a matching problem. Remember too briefly and the signal vanishes before it can guide action. Remember too long and stale conditions contaminate the present. A bacterium in a changing chemical environment needs a different temporal window from an immune system preparing for a pathogen that may return months later.
 
 Even forgetting can be functional.
 
@@ -189,6 +215,16 @@ Flight has precursors without being identical to every earlier aerodynamic funct
 The brain was late and transformative.
 
 Those statements can both be true.
+
+There is a practical way to see the difference between ancestry and identity.
+
+Take a capacity that appears in simple form before nervous systems: sensitivity to a changing environment. A bacterium can alter motion when a chemical gradient changes. A nervous system can integrate many changing signals at once. A human can represent a change that is not presently occurring, imagine several futures, communicate one of them to another person, and build an institution designed around a forecast.
+
+The ancestral relation does not erase the new operations.
+
+Each layer expands what can be retained, combined, detached from immediate input, and acted upon.
+
+The mistake is treating the final layer as if nothing below it counted as control at all.
 
 This is more than a philosophical point because separability changes probability.
 
