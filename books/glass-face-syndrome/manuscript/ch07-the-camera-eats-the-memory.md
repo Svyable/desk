@@ -275,3 +275,127 @@ The camera does not eat the memory.
 It changes who is responsible for remembering.
 
 And once the phone becomes responsible, the hand starts reaching for it before the moment has decided what it means.
+
+The size of the archive creates a problem older family albums rarely had: abundance can make retrieval harder even as capture becomes easier.
+
+A shoebox of two hundred photographs is incomplete, but a person can look through it. A library of seventy thousand images may contain nearly every important scene and still leave the owner unable to find the one picture they want without search, face recognition, dates, locations, or automated grouping. The camera solves scarcity and creates indexing.
+
+The phone then solves indexing too.
+
+This is another way a single function expands into dependence. First the device becomes the best camera. Then it becomes the place where the photographs live. Then it becomes the search engine for the photographs. Then it recognizes faces and locations. Then it assembles memories. Then it edits, shares, backs up, and displays them. Losing the device may not lose the cloud archive, but losing access to the account can feel like losing a personal museum.
+
+The museum has no curator except software and the exhausted owner.
+
+Curation used to happen before capture because film was scarce. Now it often happens afterward, if it happens at all.
+
+This reversal changes the labor of memory.
+
+Instead of deciding which twelve moments deserve twelve exposures, we take one hundred images and later face the task of deciding which three deserve attention. Because storage is cheap, the easiest answer is to decide nothing and keep everything.
+
+Keeping everything sounds like perfect memory.
+
+It is not.
+
+Memory is not only storage. It is selection, retrieval, interpretation, retelling, and forgetting.
+
+Forgetting has a role that digital archives complicate. Human relationships often survive because embarrassing details blur, old arguments lose exact wording, former identities become less available, and pain changes shape. Digital records can preserve precision after its social usefulness has ended.
+
+The old message remains searchable.
+
+The old photograph remains timestamped.
+
+The old location remains in metadata.
+
+The exact sentence can be retrieved during the next fight.
+
+The archive can become an appeals court for relationships that once had to live with imperfect recollection.
+
+Precision is not always justice.
+
+Two people can reread the same message and still disagree about what it meant because context, tone, fear, and expectation were never fully captured. The record settles wording, not meaning.
+
+This is the social version of the camera frame problem. More evidence does not remove interpretation.
+
+The abundance of images also changes what counts as loss. A generation raised with ubiquitous cameras may expect visual records of ordinary childhood that earlier generations simply do not possess. The absence of a photograph can feel like a missing piece rather than the historical norm.
+
+That expectation can increase the impulse to capture.
+
+If every other parent has a complete archive, skipping the photograph can feel negligent. If every trip can be documented, leaving the camera in the pocket can feel like choosing future amnesia. Social abundance changes the baseline against which personal restraint is judged.
+
+The pressure is subtle because nobody has to demand the image.
+
+The future self is imagined as the audience.
+
+You may want this later.
+
+That sentence is powerful because it is often true.
+
+The child will grow.
+
+The parent will die.
+
+The house will be sold.
+
+The body will change.
+
+The friendship will scatter across cities.
+
+The ordinary Tuesday may become precious only after it is gone.
+
+The camera’s promise is that today can be insured against disappearance.
+
+No wonder people raise it.
+
+But insurance has a paradox. Once the policy is available, choosing not to insure can feel irresponsible even when the premium is paid in attention rather than money.
+
+The premium is small each time.
+
+Take out the phone.
+
+Frame.
+
+Check.
+
+Perhaps retake.
+
+Perhaps send.
+
+Perhaps receive responses.
+
+The moment survives. The moment also changes.
+
+This is why advice to “put the camera away and live” is too simple. Sometimes taking the photograph is part of living. Sometimes the photograph becomes a gift whose value grows for decades. Sometimes documenting abuse or danger is more important than undivided presence. Sometimes a person with limited memory needs the archive. Sometimes recording a grandparent’s voice is one of the wisest uses of a phone.
+
+The mature question is not whether to photograph.
+
+It is whether capture is serving memory or replacing the decision to pay attention.
+
+One useful signal is whether the person can stop after they have what they need.
+
+A single photograph can preserve the scene and return the photographer to it. Twenty attempts to optimize the same scene may move the goal from memory to production. Neither is automatically wrong, but they are different activities and deserve different names.
+
+The phone tends to blur them because the same camera serves the parent, witness, artist, influencer, tourist, employee, seller, flirt, historian, and anxious self-inspector.
+
+One lens carries every motive.
+
+That is the convergence problem again.
+
+The phone does not merely contain memory.
+
+It contains the audience for memory, the tools for editing memory, the system for resurfacing memory, and the metrics that can judge memory after publication.
+
+No earlier family camera asked whether the birthday photograph performed well.
+
+Once the archive acquires an audience, preservation can slide into optimization without a clear boundary.
+
+The person begins to remember not only the event but the image of the event that circulated best.
+
+That may be the strangest version of the camera eating the memory: not forgetting the day, but allowing one polished frame to become the day’s official representation because it is the version most often revisited.
+
+Human memory has always been reconstructed through stories and artifacts. The smartphone simply accelerates which artifact wins.
+
+The photograph is not the enemy of memory.
+
+It is a participant in memory with unprecedented reach.
+
+The task is to remember that participants can influence the story they preserve.
