@@ -224,6 +224,60 @@ The “I” is not a perfectly consistent point. It is a continuity project.
 
 A decision can be mine because I endorse it across time, because I set up the structure that carries it forward, because I accept responsibility when the structure acts, because I retain some meaningful ability to revise it, and because I understand what I delegated.
 
+This is also why consent can decay even when no one violates the original instruction.
+
+A person selects a default in one environment.
+
+The environment changes.
+
+The company adds features. The agent gains new capabilities. The cost structure changes. A recommendation becomes an action. A convenience becomes infrastructure. A setting chosen casually years ago starts governing decisions with stakes the user never imagined when they clicked it.
+
+The system can remain perfectly faithful to the literal old choice while becoming unfaithful to the person’s present purposes.
+
+That is not necessarily misconduct.
+
+It is a problem of stale authorization.
+
+We already recognize versions of this outside software. A standing instruction to an adviser can become inappropriate after a life change. A power of attorney can have limits. A recurring prescription is reviewed because the patient and circumstances may change. Contracts can contain renewal terms because ongoing obligation is not always treated as one eternal decision.
+
+Delegated AI will need similar concepts.
+
+Some permissions should be durable.
+
+Some should expire.
+
+Some should be renewed when capability expands.
+
+Some should require confirmation when consequences become materially different.
+
+Some should remain revocable even when revocation is inconvenient for the provider.
+
+A system that says “you chose this once” can be formally correct and practically hostile to agency.
+
+Meaningful choice includes a theory of when the choice must be asked again.
+
+This complicates the fashionable language of frictionless experiences.
+
+Friction is not always the enemy of autonomy.
+
+A pause before sending money can protect a person from fraud. A confirmation before deleting an archive can protect against an irreversible mistake. A review before an agent accepts unfamiliar legal terms can preserve authority. A cooling-off period can create distance from pressure.
+
+The same extra click that is manipulative in one context can be protective in another.
+
+The question is who benefits from the friction.
+
+If cancellation takes seven screens because the company wants you to give up, friction works against your stated choice.
+
+If a million-dollar transfer requires a second confirmation because you asked the system to protect you from catastrophic mistakes, friction works for it.
+
+Choice architecture cannot therefore be judged by counting clicks.
+
+It has to be judged against purposes.
+
+This is the part interface language tends to hide. “User choice” sounds neutral. But a choice environment encodes theories about which actions should be easy, which should be slow, which should be visible, which should require deliberation, and which should happen when nobody acts.
+
+There is no interface without values somewhere in the arrangement.
+
 The same questions become urgent when machines act for us.
 
 If an AI system schedules meetings, negotiates purchases, answers routine messages, filters opportunities, or makes recommendations under delegated authority, which actions count as mine?
