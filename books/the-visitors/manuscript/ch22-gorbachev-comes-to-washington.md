@@ -262,13 +262,79 @@ The Washington summit created that belief in 1987.
 
 It could not guarantee it forever.
 
-That limitation returns us to the chapter's opening.
+The path to the treaty also deserves more attention because it shows what summit failure can produce when negotiators refuse to treat failure as final.
 
-Gorbachev came to Washington when the Cold War felt permanent.
+Reykjavík in October 1986 had ended dramatically. Reagan and Gorbachev came close to sweeping nuclear reductions before disagreement over the Strategic Defense Initiative helped prevent a final deal. The meeting generated headlines about a collapse. Officials on both sides could have interpreted the collapse as proof that the leaders had reached the outer edge of possible agreement.
 
-He and Reagan did not end it in three days.
+Instead, the near-agreement clarified which pieces were separable.
 
-They demonstrated that one piece of permanence could be negotiated away.
+Intermediate-range missiles became one of them.
+
+This is an important lesson in negotiation because political audiences prefer packages with clean endings. Either a summit succeeds or it fails. Either the leaders agree or they do not. Diplomacy is more iterative. A failed comprehensive bargain can reveal a smaller bargain both sides are willing to make.
+
+The INF Treaty was smaller than the ambitions discussed at Reykjavík.
+
+It was more real.
+
+That trade—less scope for more enforceability—is one of the recurring ways institutions are built.
+
+The Washington visit also tested Reagan inside his own political coalition. Conservatives who had spent years arguing that Soviet agreements were deceptive had reasons to distrust a treaty with a new Soviet leader whose reforms might prove temporary. Some military analysts worried about the balance of forces. European allies had their own concerns about what removal of American intermediate-range systems meant for extended deterrence.
+
+A president known for anti-communist rhetoric therefore had to make the case for eliminating weapons he had once supported deploying.
+
+This is politically harder than it appears after the agreement becomes conventional wisdom.
+
+Leaders acquire reputations by taking positions. Successful negotiation sometimes requires them to revise the policies associated with those reputations without persuading supporters that the underlying objective has been abandoned.
+
+Reagan's ability to argue that arms reductions were compatible with strength mattered to ratification.
+
+Gorbachev faced a mirror-image problem.
+
+The Soviet military establishment had invested in systems the treaty would destroy. Officials trained under a strategic culture of secrecy had to permit inspections. Ideologues who regarded the United States as structurally aggressive had to accept constraints negotiated with it.
+
+Gorbachev's political authority was strong enough to push through changes, but not unlimited. His reforms were already creating resistance inside the Soviet system. Every concession abroad could become evidence for opponents who believed he was weakening the state.
+
+The summit therefore depended on domestic political risk in both capitals.
+
+That risk is invisible in photographs of two leaders smiling.
+
+It is part of what makes the treaty consequential.
+
+Gorbachev's behavior outside the formal sessions contributed to the visit's effect on American opinion. At one point his motorcade stopped and he stepped out to greet people along a Washington street. The scene was spontaneous enough to appear dramatically different from the armored image Americans associated with Soviet leadership.
+
+One should be careful with such moments.
+
+A public walk does not liberalize a political system. It does not erase Soviet repression, the war in Afghanistan, or the absence of competitive national elections. It does show that Gorbachev understood the political value of direct public contact in a media environment where perception could create room for negotiation.
+
+He was practicing foreign policy through personality.
+
+That skill would become part of the reason many Western audiences saw him more favorably than many Soviet citizens eventually did.
+
+The contrast matters.
+
+International approval can be politically useless or even damaging if domestic constituencies believe their leader is earning foreign praise by surrendering national interests. Gorbachev's later popularity abroad coexisted with severe economic disruption, nationalist conflict, and political opposition at home.
+
+A dignitary can succeed spectacularly as a visitor and fail to preserve the system he represents.
+
+This is perhaps the deepest warning in the chapter.
+
+Americans understandably treated Gorbachev as the face of a changing Soviet Union. The changes were real. The Soviet Union was larger than Gorbachev's intentions. Economic weakness, national movements, institutional rigidity, reform dynamics, Eastern European upheaval, and domestic political struggles would push events beyond the outcome he sought.
+
+The visitor can reveal a system in motion without controlling the motion.
+
+That distinction protects the history from another myth: that Reagan and Gorbachev simply decided together to end the Cold War.
+
+They changed the relationship enormously. They did not own every force that ended the old order.
+
+The strongest runner-up for the decade is Margaret Thatcher, whose repeated visits and unusual relationship with Reagan influenced transatlantic economic and security politics and who famously regarded Gorbachev as someone the West could do business with before Washington's relationship with him matured. Helmut Kohl also deserves serious consideration because West Germany sat at the center of the European order that would soon be transformed by reunification. Japanese prime minister Yasuhiro Nakasone represented a relationship in which alliance and economic rivalry coexisted intensely.
+
+None matches the measurable result of the Washington summit.
+
+An entire class of nuclear delivery systems was scheduled for destruction under intrusive verification agreed by the principal adversaries.
+
+The Cold War still existed on December 10, 1987, when Gorbachev left.
+
+But it no longer possessed the same claim on the future.
 
 The missiles were physical.
 
