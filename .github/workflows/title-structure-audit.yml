@@ -1,4 +1,4 @@
-name: Audit book title structure
+name: Split clear inline subtitles
 
 on:
   push:
@@ -6,73 +6,101 @@ on:
       - title-structure-audit
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  audit:
+  align:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: title-structure-audit
-      - name: Find title/subtitle candidates
+      - name: Split four clear title and subtitle pairs
         run: |
           python3 - <<'PY'
-          import re
           from pathlib import Path
 
-          books = Path('books')
-          rows = []
-          for book in sorted(books.iterdir()):
-              if not book.is_dir() or book.name.startswith(('_', 'style-', '.')):
-                  continue
-              readme = book / 'README.md'
-              if not readme.is_file():
-                  continue
-              text = readme.read_text(encoding='utf-8')
-              title_match = re.search(r'^#\s+(.+?)\s*$', text, re.M)
-              if not title_match:
-                  continue
-              title = title_match.group(1).strip()
-              after = text[title_match.end():].splitlines()
-              subtitle = ''
-              for line in after:
-                  line = line.strip()
-                  if not line:
-                      continue
-                  if line.startswith('|') or line.startswith('## '):
-                      break
-                  m = re.fullmatch(r'\*([^*].*?)\*', line) or re.fullmatch(r'_([^_].*?)_', line)
-                  if m:
-                      subtitle = m.group(1).strip()
-                  break
-              words = len(re.findall(r"\b[\w’'-]+\b", title))
-              chars = len(title)
-              colon = ':' in title
-              if colon or chars >= 55 or words >= 9:
-                  front = book / 'manuscript' / 'front-matter.md'
-                  if not front.is_file():
-                      numbered = sorted((book / 'manuscript').glob('*front-matter*.md')) if (book / 'manuscript').is_dir() else []
-                      front = numbered[0] if numbered else None
-                  front_h1 = ''
-                  front_sub = ''
-                  if front and front.is_file():
-                      ft = front.read_text(encoding='utf-8')
-                      fm = re.search(r'^#\s+(.+?)\s*$', ft, re.M)
-                      front_h1 = fm.group(1).strip() if fm else ''
-                      if fm:
-                          for line in ft[fm.end():].splitlines():
-                              line = line.strip()
-                              if not line:
-                                  continue
-                              m = re.fullmatch(r'\*([^*].*?)\*', line) or re.fullmatch(r'_([^_].*?)_', line)
-                              if m:
-                                  front_sub = m.group(1).strip()
-                              break
-                  rows.append((book.name, chars, words, 'yes' if colon else 'no', title, subtitle, front_h1, front_sub))
+          def replace_exact(path, old, new):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              if old not in text:
+                  raise SystemExit(f'expected text not found in {path}: {old!r}')
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
 
-          print(f'candidates: {len(rows)}')
-          print('slug\tchars\twords\tcolon\tREADME title\tREADME subtitle\tfront H1\tfront subtitle')
-          for row in rows:
-              print('\t'.join(str(value).replace('\t',' ') for value in row))
+          # Bookself already names its subtitle later in the README; move it into the title stack.
+          replace_exact(
+              'books/bookself/README.md',
+              '# Bookself: The Story of Getting Started\n\n| | |',
+              '# Bookself\n\n*The Story of Getting Started*\n\n| | |',
+          )
+          replace_exact(
+              'books/bookself/README.md',
+              '\n*The Story of Getting Started*\n\nMost advice about beginning',
+              '\nMost advice about beginning',
+          )
+          replace_exact(
+              'books/bookself/manuscript/front-matter.md',
+              '# Bookself: The Story of Getting Started\n\n**Sven Hardy Benson**',
+              '# Bookself\n\n*The Story of Getting Started*\n\n**Sven Hardy Benson**',
+          )
+
+          # Hallucinations already repeats the post-colon phrase as its manuscript subtitle.
+          replace_exact(
+              'books/hallucinations/README.md',
+              '# Hallucinations: How AI Leads Us Astray\n\n| | |',
+              '# Hallucinations\n\n*How AI Leads Us Astray*\n\n| | |',
+          )
+          replace_exact(
+              'books/hallucinations/manuscript/front-matter.md',
+              '# Hallucinations: How AI Leads Us Astray\n\n*How AI Leads Us Astray*',
+              '# Hallucinations\n\n*How AI Leads Us Astray*',
+          )
+
+          # These two published titles have clearly descriptive post-colon clauses.
+          replace_exact(
+              'books/the-agentic-consumer-economy/README.md',
+              '# The Agentic Consumer Economy: Digital Capitalism in the 2030s\n\n| | |',
+              '# The Agentic Consumer Economy\n\n*Digital Capitalism in the 2030s*\n\n| | |',
+          )
+          replace_exact(
+              'books/the-agentic-consumer-economy/manuscript/front-matter.md',
+              '# The Agentic Consumer Economy: Digital Capitalism in the 2030s\n\n**Sven Hardy Benson**',
+              '# The Agentic Consumer Economy\n\n*Digital Capitalism in the 2030s*\n\n**Sven Hardy Benson**',
+          )
+          replace_exact(
+              'books/the-risk-pool/README.md',
+              '# The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt\n\n| | |',
+              '# The Risk Pool\n\n*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*\n\n| | |',
+          )
+          replace_exact(
+              'books/the-risk-pool/manuscript/front-matter.md',
+              '# The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt\n\n**Sven Hardy Benson**',
+              '# The Risk Pool\n\n*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*\n\n**Sven Hardy Benson**',
+          )
           PY
+      - name: Validate title structure
+        run: |
+          python3 scripts/align-title-pages.py --check
+          python3 - <<'PY'
+          from pathlib import Path
+          expectations = {
+              'books/bookself/README.md': ('# Bookself\n', '*The Story of Getting Started*'),
+              'books/hallucinations/README.md': ('# Hallucinations\n', '*How AI Leads Us Astray*'),
+              'books/the-agentic-consumer-economy/README.md': ('# The Agentic Consumer Economy\n', '*Digital Capitalism in the 2030s*'),
+              'books/the-risk-pool/README.md': ('# The Risk Pool\n', '*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*'),
+          }
+          for path, (title, subtitle) in expectations.items():
+              text = Path(path).read_text(encoding='utf-8')
+              assert text.startswith(title + '\n' + subtitle + '\n'), path
+          swarm = Path('books/the-swarm-agents-in-the-wild/README.md').read_text(encoding='utf-8')
+          assert swarm.startswith('# The Swarm: Agents in the Wild\n'), 'The Swarm title must remain intact'
+          PY
+          git diff --check
+      - name: Commit editorial title splits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add books/bookself books/hallucinations books/the-agentic-consumer-economy books/the-risk-pool
+          git commit -m "Separate four clear titles from their subtitles"
+          git push origin HEAD:title-structure-audit
