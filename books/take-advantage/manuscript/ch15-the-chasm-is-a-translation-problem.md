@@ -354,6 +354,132 @@ Finance.
 
 Trust.
 
-The future crosses when somebody builds them.
+One way to see the chasm more clearly is to look at who pays for those missing functions.
+
+In the earliest market, the customer often does.
+
+The customer configures the software, trains colleagues, writes integration code, builds a risk policy, explains the product to finance and searches community forums when something fails. The producer can report a compelling gross margin partly because the buyer is performing work that a mature category would assign to vendors, consultants, support organizations, standards or the product itself.
+
+This creates an adoption subsidy hidden inside the customer.
+
+The technology looks cheaper than it is because enthusiast labor is not priced.
+
+Mainstream buyers withdraw that subsidy.
+
+They do not want to become unpaid systems integrators merely to receive the advertised benefit. Their refusal can appear like conservatism, but economically it is a demand for the category to internalize more of its own operating cost.
+
+The chasm therefore opens when volunteer labor stops scaling.
+
+This is why total cost of ownership often rises in importance precisely as headline unit cost falls. The core product can become cheaper while the market begins counting training, integration, review, compliance, downtime and switching more carefully.
+
+A producer that celebrates cheapness without seeing this accounting transition can be surprised by stalled adoption.
+
+The later market is not rejecting the cheaper product.
+
+It is finally pricing the whole system.
+
+This perspective changes how we interpret “services ecosystems” around young technologies.
+
+Consultants, implementation partners and managed-service providers are not evidence that the core product failed to become simple enough. Sometimes they are the bridge that makes complexity purchasable. They convert expert labor from an accidental burden on each customer into a specialized market.
+
+That is a form of productization outside the product.
+
+A technology can cross the chasm without every hard task disappearing if the hard tasks become standardized enough to buy.
+
+This is how institutional thickness forms.
+
+The first customer solves a problem privately.
+
+The tenth customer hires somebody who has seen it before.
+
+The hundredth customer chooses among firms that specialize in solving it.
+
+The thousandth customer receives the solution as part of a contract and never learns the problem existed.
+
+The burden migrated from user ingenuity into market infrastructure.
+
+That migration is one of the clearest signs that a category is growing up.
+
+Another is the quality of failure.
+
+Frontier failures are mysterious.
+
+Nobody knows whether the product, integration, user, vendor or whole category is at fault. Each incident becomes an investigation into first principles.
+
+Mature failures are classified.
+
+There is a known error code, standard remediation, warranty path, rollback procedure or specialist to call. The technology has accumulated enough history that surprise becomes taxonomy.
+
+This matters to mainstream adoption because institutions are often more frightened by unclassifiable risk than by frequent but understood risk. A known failure can be budgeted, insured and assigned. An unknown failure threatens governance itself.
+
+Translation therefore includes turning mystery into categories.
+
+Early adopters contribute by naming what broke.
+
+Bridge customers contribute by forcing the category to make those names operational.
+
+Mainstream customers arrive when the names are stable enough to become procedures.
+
+The same process occurs socially. The frontier argues about whether a new behavior is acceptable at all. The bridge period develops context-specific norms. The mainstream receives etiquette that no longer feels like policy.
+
+The future crosses when enough uncertainty has been compressed into defaults.
+
+That does not mean all uncertainty is gone.
+
+It means ordinary participation no longer requires personal theories about every unresolved question.
+
+This gives us a practical definition of mainstream readiness.
+
+A technology is becoming mainstream-ready when a competent ordinary user can receive most of the value without becoming a member of the technology’s subculture.
+
+The user can remain a nurse, accountant, teacher, driver, designer or warehouse manager rather than acquiring a second identity as an enthusiast.
+
+The tool fits the profession instead of demanding that the profession fit the tool.
+
+This is why the best translation often looks like subtraction.
+
+Fewer concepts to understand.
+
+Fewer decisions to make.
+
+Fewer exceptions to manage.
+
+Fewer reasons to contact the vendor.
+
+Fewer moments when a person has to remember that the technology is new.
+
+The capability survives the subtraction.
+
+The ceremony does not.
+
+For an early adopter, watching this process can be emotionally strange. The tool that once required expertise becomes accessible to people who know less. The adopter’s hard-won shortcuts become default behavior. The social prestige of mastery declines.
+
+This is exactly what successful diffusion should do.
+
+The question is whether the adopter converted the temporary scarcity into something durable before the scarcity disappeared.
+
+Knowledge of the user problem can remain valuable.
+
+Relationships can remain valuable.
+
+Judgment about where the system fails can remain valuable.
+
+A collection of obscure menu tricks will not.
+
+The chasm is therefore a warning about what kind of expertise to accumulate.
+
+Learn the transition, not merely the interface.
+
+Learn why the mainstream is waiting.
+
+Learn which missing complement will become a business.
+
+Learn which risk is going to be standardized and which must remain case specific.
+
+Learn what the product can remove from the user without removing the reason anyone cared.
+
+That is translation work.
+
+The future crosses when somebody builds it.
 
 Early adopters can be those somebodies.
