@@ -176,6 +176,34 @@ The postal controversy was cruder because the physical object either arrived or 
 
 That clarity makes the politics easier to see.
 
+The Smithsonian’s postal history preserves a useful operational detail. The Anti-Slavery Society did not simply dump anonymous pamphlets into sacks. Organizers built recipient lists from newspapers, city directories, and other published sources, then aimed materials at religious and civic leaders in the South. This was targeted persuasion before anyone had a marketing database.
+
+That makes the tactic more sophisticated than the phrase “mail campaign” suggests. The movement was trying to identify nodes in local opinion networks—people whose conversion, outrage, or even public rejection might move the argument farther. The mail was not only a broadcast technology. It was a way to address particular intermediaries inside hostile territory.
+
+Charleston exposed the vulnerability in the design. When the steamer Columbia arrived in July 1835 carrying sacks of abolition material, Postmaster Alfred Huger withheld the disputed mail rather than distribute it into a city already mobilizing against the campaign. The choke point was no longer the northern printing press. It was one official at the receiving end of a national network.
+
+This is the political lesson of infrastructure: scale creates leverage and dependency at the same time.
+
+The abolitionists gained national reach because they did not need to build a private delivery system. That meant they depended on a public system whose administrators operated inside local political communities. Every movement that borrows infrastructure inherits the infrastructure’s governors.
+
+A century and a half later, activists would discover the same fact about broadcast licenses, cable systems, credit-card networks, internet hosting, app stores, search engines, and social platforms. A tool that makes distribution cheap can also create a small number of places where distribution can be stopped.
+
+The postal controversy was especially revealing because the infrastructure was federal. The United States was still trying to become a nation across distance, and the mails were one of the practical systems making national public life possible. Newspapers circulated through postal arrangements. Political information moved. Commercial correspondence moved. Families stayed connected. Federal presence arrived in towns that rarely saw another national officer.
+
+To exclude abolitionism from that system was therefore not equivalent to one private printer refusing a job. It raised the question of whether national belonging included the right to use national infrastructure for an argument that one region considered existentially dangerous.
+
+Jackson’s proposed response sharpened the problem. He urged federal restrictions on incendiary antislavery publications. Congress did not give him the broad prohibition he wanted. Yet the absence of a national censorship statute did not restore neutral delivery. Local suppression could continue through administrative discretion and political intimidation.
+
+This gap between statute and practice is one of the book’s recurring institutional themes. Rights are often lost not by repeal but in the space where nobody with authority insists that a formal rule be carried through.
+
+That is why the campaign belongs beside later episodes that seem very different. Section 504 was law before disability activists occupied a federal office to make regulations real. Voting rights could exist formally while registrars blocked applicants. Police policies can prohibit misconduct while disciplinary systems fail to enforce them. A network’s published rules can promise neutrality while discretionary enforcement produces patterned exclusion.
+
+The abolition mail fight is an early national example of the politics of implementation.
+
+Its strongest rival for the decade, Nat Turner’s 1831 rebellion, changed slaveholding law and white fear with enormous force. The reason the mail campaign edges it in this book is not moral or dramatic. Turner’s revolt belongs centrally to the history of resistance to slavery, but Gabriel’s conspiracy already forced the book to confront armed Black rebellion in the previous decade. The 1835 campaign adds a different piece to the American repertoire: industrial-scale political communication and the counterpolitics of distribution control.
+
+That novelty has an unusually long afterlife.
+
 Abolitionists placed material into a national network. Local authorities interrupted the network because the ideas threatened a regional power structure. The federal government declined to insist that distribution remain politically neutral.
 
 That is the whole modern problem in nineteenth-century clothes.
