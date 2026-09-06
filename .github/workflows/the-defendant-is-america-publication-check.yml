@@ -1,0 +1,24 @@
+name: The Defendant Is America publication check
+
+on:
+  push:
+    branches:
+      - draft/the-defendant-is-america
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+
+      - name: Check book length
+        run: python3 scripts/check-book-length.py the-defendant-is-america --json
+
+      - name: Audit Desk catalog
+        if: always()
+        run: python3 scripts/catalog.py --json
