@@ -1,8 +1,8 @@
 # Sifting for Alpha
 
-## How I Won Fourth Place in the Q23 Quantiacs Stock-Picking Contest
+*How I Won Fourth Place in the Q23 Quantiacs Stock-Picking Contest*
 
-### Sven Hardy Benson
+**Sven Hardy Benson**
 
 ---
 

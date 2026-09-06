@@ -1,8 +1,8 @@
 # DemocrAIcy
 
-**Sven Hardy Benson**
-
 *Governing a World Where Machines Can Persuade, Decide, Negotiate, and Govern*
+
+**Sven Hardy Benson**
 
 ---
 

@@ -1,6 +1,8 @@
 # Bookself: The Story of Getting Started
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 There is a moment before nearly every consequential thing when it still looks ridiculous.
 
