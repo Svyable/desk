@@ -257,3 +257,45 @@ Somewhere, one elephant responds more strongly because that call was for her.
 The astonishing thing is not that the signal can be translated into a familiar human category.
 
 The astonishing thing is that, before we knew how to listen, someone was already being addressed.
+
+There is a final caution hidden in the word *someone*.
+
+Individual recognition can make conservation more emotionally powerful, but it can also narrow our attention toward animals we can identify. Humans are drawn to named elephants, photographed whales, celebrity bears, and other individuals whose biographies become legible. That can help public engagement. It can also create a hierarchy in which anonymous animals seem less morally significant.
+
+A communication science obsessed with individual labels could unintentionally reinforce the same bias.
+
+The point of discovering name-like address should not be that only named animals count.
+
+The point is that social life is organized around distinctions we once failed to see.
+
+Some of those distinctions will be individual. Others will concern family, age, role, rank, location, history, or context. A rich science should follow whatever categories the animals themselves preserve rather than selecting only the ones with human emotional appeal.
+
+This matters methodologically too. A model may detect a receiver-specific acoustic pattern because one family group occupies one acoustic niche, or because a caller’s relationship to the receiver changes vocal production in a broader way. Researchers have to keep asking whether the discovered category is the one the animal is using or merely one correlated with it.
+
+The 2025 correction to the elephant paper is useful in that respect. Corrections are not stains to hide from a popular audience. They are evidence that science has a repair mechanism.
+
+A claim was strong enough to attract scrutiny.
+
+Part of the analysis needed adjustment.
+
+The record changed.
+
+The central qualitative result remained important, while the boundaries around it became clearer.
+
+That is exactly how this book wants humans to behave in communication with animals: notice, act, receive correction, revise.
+
+Science itself has a third-language problem.
+
+The paper speaks.
+
+The evidence replies.
+
+The authors update.
+
+A field becomes more reliable not because it never overreaches, but because overreach can be corrected without destroying the underlying curiosity.
+
+The elephant gets a vote in the experiment.
+
+The correction gets a vote in the literature.
+
+Both are forms of listening.
