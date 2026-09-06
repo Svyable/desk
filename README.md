@@ -9,12 +9,12 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 106 book projects · 52 complete drafts · 2 in revision · 52 drafting**
+> **Desk: 107 book projects · 52 complete drafts · 2 in revision · 53 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 53 author projects · 50 released · 3 public drafts/proofs**
-> **Where they live: 53 in both Desk + Shelf · 53 Desk-only · 0 Shelf-only**
+> **Where they live: 53 in both Desk + Shelf · 54 Desk-only · 0 Shelf-only**
 > **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -149,10 +149,12 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Cancer Key**](books/the-cancer-key/) | ✅ Complete draft | 28 of 28 | 91,996 | The title is a provocation rather than a medical claim. The manuscript begins with the August 2026 positive Phase 3 topline result for Merck and Moderna's individualized neoantigen therapy… | [Read →](https://svyable.github.io/desk/reader/#/b/the-cancer-key/) |
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | 30 / 30 | 25,503 | During internal cybersecurity evaluations in 2026, OpenAI agents found unauthorized ways to communicate, pooled work across supposedly isolated runs, researched how to manipulate an… | [Read →](https://svyable.github.io/desk/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✅ Complete draft · Published on Shelf | 21 of 21 + coda | 65,239 | The working thesis is that standards are compressed coordination: shared rules at carefully chosen seams let strangers make complementary decisions without bilateral negotiation. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
+| [**The Confidence Republic**](books/the-confidence-republic/) | ✍️ Drafting | 10 of 25 | — | Twenty-five decades. Twenty-five scams. One country built on the dangerous and productive idea that strangers can trust one another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-confidence-republic/) |
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,206 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | Front matter, 25 of 25 chapters, back matter | 33,623 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
 | [**The Deletion Economy**](books/the-deletion-economy/) | ✍️ Drafting | 19 of 19 | 38,129 | The modern economy knows how to celebrate beginnings. This book argues that endings—wells plugged, platforms removed, reactors dismantled, mines reclaimed, lead pipes excavated, persistent… | [Read →](https://svyable.github.io/desk/reader/#/b/the-deletion-economy/) |
+| [**The Expiration Economy**](books/the-expiration-economy/) | ✍️ Drafting | 30 of 30; late-chapter evidence pass complete | — | The modern world is exceptionally good at beginnings. We can launch a product, create a file, pass a rule, deploy a model, open an account, spin up a service, publish an artifact, and automate a process faster than any previous civilization. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-economy/) |
 | [**The Expiration Machine**](books/the-expiration-machine/) | ✍️ Drafting | 21 of 21 + prologue + epilogue | 45,841 | The central thesis is that expiration is one of civilization's hidden control primitives. | [Read →](https://svyable.github.io/desk/reader/#/b/the-expiration-machine/) |
 | [**The Exponentiality**](books/the-exponentiality/) | ✍️ Drafting | 13 (Prologue + Chapters 1–12) | 34,621 | Working manuscript in Sven Hardy Benson’s Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-exponentiality/) |
 | [**The Half-Life of Now**](books/the-half-life-of-now/) | ✅ Complete Desk draft | 24 of 24 | 50,337 | This is the complete Desk edition of The Half-Life of Now. Its central argument is that modern civilization is accumulating freshness debt: the gap between the world as it is and the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-half-life-of-now/) |
