@@ -148,6 +148,54 @@ Both can be true.
 
 The distinction matters when people interpret repeated success as evidence of inevitability. A standard wins. Investors say the market discovered the best standard. Perhaps. Or early advantage attracted complementary investment, which increased compatibility, which made the standard increasingly rational to choose. Increasing returns transformed a contingent lead into durable dominance.
 
+W. Brian Arthur formalized one version of this problem in his 1989 model of competing technologies under increasing returns. The model is intentionally abstract. Agents choose between technologies whose attractiveness can improve as adoption grows. Learning, installed base, compatibility, or other benefits can make an adopted technology more valuable to later adopters. Under those conditions, early historical events can push the process toward one path and make reversal difficult.
+
+The striking part of the model is not that markets are irrational.
+
+The later adopter can make a perfectly sensible choice.
+
+If one technology has accumulated more users, more experience, and more complementary support, choosing it can be rational now even if another path might have produced a better long-run outcome had adoption unfolded differently.
+
+The market is not failing to see history.
+
+It is responding to history.
+
+That distinction matters because the word *lock-in* is often used as an accusation. Arthur's model shows a more uncomfortable possibility. A path can become persistent through reasonable local choices. No conspiracy is required. No participant needs to prefer inefficiency. The advantage lives in increasing returns to adoption.
+
+This is exactly the kind of ordinary mechanism that can be mistaken for a mysterious pull toward repetition.
+
+The previous adopters do not influence the new adopter by similarity alone. They changed the payoff landscape.
+
+They created experience.
+
+They increased compatibility.
+
+They changed expectations about what later adopters will choose.
+
+The old pattern became a better local bet because the old pattern had happened.
+
+That is resonance infrastructure in economic form.
+
+Arthur's paper is also a warning against turning path dependence into folklore. It does not say every dominant technology is inferior, every early accident determines the future, or every market with network effects becomes permanently locked. The mechanism requires increasing returns of a particular kind, and real markets contain entry, innovation, multi-homing, regulation, adapters, price competition, and other forces that can weaken or reverse a path.
+
+The useful move is therefore diagnostic.
+
+When a market seems to keep returning to a pattern, ask where the increasing returns are.
+
+Does adoption improve the product through learning?
+
+Does installed base create compatibility value?
+
+Do complements become cheaper as the ecosystem grows?
+
+Do expectations about other participants make coordination self-reinforcing?
+
+Do switching costs rise after investment?
+
+If none of those mechanisms is present, “lock-in” may be a story rather than an explanation.
+
+If they are present, historical persistence can be predicted without giving the market a memory separate from its institutions.
+
 The market did not reveal destiny.
 
 It manufactured path dependence.
@@ -161,6 +209,32 @@ The new participant resembles prior participants because joining the established
 This is the social version of a valley deepening as more activity passes through it.
 
 Again, the old pattern gains friends.
+
+There is a second economic memory that runs in the opposite direction from increasing returns: capacity cycles.
+
+An attractive market invites imitation. High prices and margins tell producers that scarcity is valuable. Capital finances expansion. Workers train. Suppliers scale. Competitors enter. The response can take years. By the time new capacity arrives, the market may no longer resemble the conditions that justified the investment.
+
+Here success contains the seed of its own weakening.
+
+The past is still active, but repetition does not reinforce indefinitely. It changes supply enough to undermine the original advantage.
+
+This is why a serious theory of resonance needs negative feedback as well as positive feedback.
+
+Some traces deepen a path.
+
+Others fill it in.
+
+A market remembers scarcity by building capacity until scarcity is less scarce. It remembers high profits by attracting competitors who reduce future profits. It remembers a shortage through contracts and investment that can later create excess.
+
+History changes the next state without always making the same state more likely.
+
+This is one of the limits of the word *resonance*. It naturally suggests reinforcement. Real systems contain damping.
+
+That is why the book's concept has to remain broader than a slogan. Resonance infrastructure can lower or raise recurrence costs. A new refinery, factory, warehouse, or data center may reinforce a technology's ecosystem while weakening the scarcity economics that made the investment attractive.
+
+The same infrastructure can strengthen adoption and weaken returns.
+
+Markets are useful precisely because they refuse neat morals.
 
 Markets also externalize memory through accounting.
 
