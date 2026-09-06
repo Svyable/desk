@@ -275,3 +275,99 @@ A finite day is surrounded by systems that continuously generate reasons to re-o
 The red dot is small because it does not need to be large.
 
 It only needs to leave the world slightly unfinished.
+
+There is a second cost hiding beneath the first: interruption changes the value of silence.
+
+Silence used to mean, at least more often, that nobody was currently asking anything of you. Under a notification regime, silence can mean that the system is quiet, that the system is muted, that the phone is disconnected, that you missed something, or simply that nothing has arrived yet. The user must learn which silence they are experiencing.
+
+That sounds trivial until the phone becomes the route for emergencies, work, family, money, travel, and identity. Then quiet itself becomes ambiguous.
+
+A parent who turns the phone off for dinner may not experience two hours of peace. They may experience two hours of wondering whether the child who is out has tried to reach them. A worker who mutes a team channel may enjoy concentration while carrying a small background question about whether everyone else is still responding. A patient awaiting results can silence the sound without silencing the expectation.
+
+The technological control and the psychological state are not identical.
+
+This is why better notification settings solve only part of the problem. They regulate delivery. They cannot automatically dissolve obligation.
+
+Obligation is social.
+
+If everyone in a workplace responds within minutes, the person who responds tomorrow is making a statement even when no written rule requires speed. If a family group expects acknowledgment, silence can communicate displeasure. If a romantic conversation is happening through messages, a read receipt can turn timing into evidence. If a seller promises instant support, customers adapt to instant support. The machine changes the tempo and people infer meaning from the tempo.
+
+Once timing carries meaning, latency becomes emotional.
+
+How long did they take to reply?
+
+Why are they online but not answering?
+
+Why did the manager react to that message and not mine?
+
+Why did everyone see the announcement except me?
+
+The smartphone did not invent sensitivity to response time. A delayed letter could torment someone in 1850. The difference is observability. Modern communication systems can expose delivery, reading, typing, presence, activity, reaction, and last-seen status. They turn absence into data.
+
+That data creates a new class of micro-interpretation.
+
+A person can know not only that no reply has arrived but that the message was delivered. Perhaps read. Perhaps the other person is typing. Perhaps the typing indicator disappeared. Perhaps the person posted elsewhere in the meantime.
+
+The red dot is one member of a larger family of status signals that make social uncertainty measurable without resolving it.
+
+Measurement can reduce uncertainty.
+
+It can also give uncertainty more surfaces to inhabit.
+
+This helps explain why some of the most effective boundaries are not individual settings but shared expectations. A team that agrees messages sent after six do not require a response until morning reduces more than sound. It changes the meaning of silence. A family that identifies one emergency channel allows other channels to become less urgent. Friends who make a plan that nobody needs to narrate their delay minute by minute restore some freedom to be briefly unreachable.
+
+The deepest notification control is permission not to respond.
+
+Software cannot grant that permission by itself.
+
+Institutions can.
+
+Relationships can.
+
+Norms can.
+
+That is why the future of digital attention cannot be solved entirely by better menus. A well-designed Focus mode is useful, but it still asks an individual to defend a boundary against a culture of reachability. The stronger move is to reduce the number of things culturally entitled to cross the boundary.
+
+This distinction becomes clearer if we compare the phone with older emergency systems. A siren is powerful partly because it is rare. Society attempts to reserve it for conditions serious enough to justify interruption. If every restaurant, employer, retailer, acquaintance, publisher, game, political campaign, and shipping company could activate the town siren whenever it had something new, residents would eventually have two choices: live in a state of alert or learn to ignore the siren.
+
+Smartphones created a private version of this allocation problem.
+
+We solved it through personalization instead of scarcity.
+
+Each person configures their own sirens.
+
+That is flexible. It is also labor.
+
+The labor grows as software grows. New app, new permission. New group, new mute decision. New job, new communication norm. New wearable, new relay of alerts. New operating-system feature, new menu through which the user negotiates the conditions of being reachable.
+
+The administrative burden is itself evidence that attention has become infrastructure.
+
+Nobody maintains a settings panel for the newspaper on the kitchen table.
+
+The red dot therefore represents more than temptation. It represents delegated priority. Somebody else generated an event. A system decided it qualified for display. An operating system delivered a symbol. A user now has to decide whether the event deserves incorporation into the present moment.
+
+The entire chain may take less than a second.
+
+That speed is why it feels natural.
+
+But the decision remains.
+
+Who gets to make now about somewhere else?
+
+The notification era answered: almost anyone, provisionally, until the user says no.
+
+Glass Face Syndrome begins to weaken when the default reverses.
+
+The world can remain connected without every connection being interruptive.
+
+Information can wait.
+
+Messages can wait.
+
+Work can wait.
+
+A person can be reachable without being continuously callable.
+
+The difference sounds semantic until you live inside it.
+
+Then it feels like getting the room back.
