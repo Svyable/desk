@@ -348,6 +348,102 @@ That knowledge is temporary advantage because the world keeps changing.
 
 Temporary advantage is still advantage.
 
+The most valuable local knowledge is often about sequence.
+
+Organizations like to discuss adoption as a binary state: we have deployed the technology or we have not. Real institutional change is a dependency graph. One capability becomes safe only after another capability exists. One workflow becomes valuable only after permissions, data quality or training have been repaired. A successful adopter learns the order in which the surrounding institution has to move.
+
+That order is difficult to copy because it is partly path dependent.
+
+Imagine two companies introducing the same analytical system. One discovers that analysts can use it immediately but managers cannot interpret the new outputs consistently. It responds by creating a review process, then a shared vocabulary, then management training. The other company begins by buying more licenses. Six months later both can truthfully say they adopted the same product, but one has changed the decision system around it and the other has multiplied access to confusion.
+
+The advantage belonged to sequencing.
+
+This is why the internal adoption curve should be measured by dependencies retired, not seats provisioned.
+
+A license count is easy to report. It does not tell you whether the organization has reduced uncertainty about security, workflow, accountability, measurement, training, vendor exit or value. An institution can have ten thousand licensed users and remain a beginner.
+
+Conversely, a small deployment can create disproportionate readiness if it resolves a difficult institutional dependency that later teams would otherwise have to rediscover.
+
+A single legal agreement can matter more than a thousand trial accounts.
+
+A reusable connector can matter more than a hundred demonstrations.
+
+A good evaluation harness can matter more than another model comparison.
+
+A written policy that employees actually understand can matter more than an innovation summit.
+
+This suggests that institutional early adoption produces public goods inside the firm.
+
+The first team pays to create capabilities later teams reuse. Its project budget absorbs legal review, security architecture, procurement negotiation and integration work that benefit the rest of the organization. If leaders evaluate the first team only on its narrow project return, they may systematically underinvest in the shared learning.
+
+The economics resemble the external spillovers discussed earlier in the book.
+
+The first rooftop solar buyer can contribute infinitesimally to an industry’s learning curve. The first internal deployment can contribute materially to an organization’s adoption curve.
+
+The benefits arrive elsewhere.
+
+Good institutions recognize this and account for frontier work differently. They do not excuse weak projects by calling everything learning, but they are willing to value infrastructure that will be reused by later projects. They ask what was made cheaper for the next team.
+
+That question is one of the cleanest tests of whether an experiment truly built capability.
+
+What became easier after we did this once?
+
+If the answer is nothing, the organization consumed an experiment.
+
+If the answer is security review, integration, evaluation, training, procurement, governance, vendor negotiation or operational understanding, the experiment produced an institutional asset.
+
+Those assets compound when they are documented and owned.
+
+Otherwise the learning remains trapped inside the people who happened to participate. They change jobs, the pilot team dissolves and the next group begins again. The company appears to have years of innovation activity while possessing surprisingly little institutional memory.
+
+This is adoption amnesia.
+
+It is common because organizations preserve decisions better than they preserve reasoning. A contract remains. The debate that shaped the contract disappears. A policy remains. The failure that motivated the policy becomes folklore. A pilot closes. The conditions under which it failed never reach the next team.
+
+A strong early-adoption system keeps a decision trail.
+
+What did we believe when we started?
+
+What evidence changed the decision?
+
+Which constraints were local?
+
+Which vendor promises proved reliable?
+
+Which workarounds should never be repeated?
+
+What would have to change before we revisit the rejected use case?
+
+This record turns failed experiments into options rather than graves.
+
+A technology that was wrong in 2026 may become right in 2028 because cost, reliability, regulation or surrounding infrastructure changed. The institution should not have to repeat the entire discovery process to notice that the threshold moved.
+
+This is another reason being early can matter without being first.
+
+The institution that tested carefully and stopped may be better positioned than the institution that never looked. It knows what would have to become true.
+
+Waiting can therefore be an active strategy rather than ignorance.
+
+There is a difference between “we are not adopting this” and “we tested this, identified the binding constraints, and will re-evaluate when two of them move.”
+
+The second organization has transformed abstention into a monitored option.
+
+That is what disciplined institutions do with uncertainty.
+
+They convert vague anticipation into thresholds.
+
+They do not need every executive to share one view of the future. They need enough agreement about what evidence would justify the next commitment.
+
+This lowers the political cost of changing direction.
+
+If the evidence crosses the threshold, adoption is not an ideological victory for the enthusiasts. If it fails, stopping is not a humiliation for the sponsor. The institution agreed in advance what it was trying to learn.
+
+That procedural humility is a competitive capability.
+
+It lets organizations move sooner because they do not require certainty before beginning, and stop sooner because they do not require failure to become catastrophic before admitting it.
+
+The future tends to punish both forms of rigidity.
+
 Institutions do not need to predict the final form of a technology to benefit from arriving before consensus.
 
 They need enough discipline to make being early a learning process rather than a branding exercise.
