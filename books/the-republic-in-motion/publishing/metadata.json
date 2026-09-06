@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "title": "The Republic in Motion",
+  "subtitle": "250 Years of America in 25 Vehicles",
+  "author": "Sven Hardy Benson",
+  "language": "en-US",
+  "status": "drafting",
+  "copyright": {
+    "owner": "Sven Hardy Benson",
+    "year": 2026,
+    "notice": "© 2026 Sven Hardy Benson. All Rights Reserved."
+  },
+  "rightsProfile": "bookself-arr-v1",
+  "publication": {
+    "publisher": null,
+    "imprint": null,
+    "publicationDate": null,
+    "isbn13": null,
+    "trimSize": null,
+    "pageCount": null,
+    "listPrice": null,
+    "currency": null
+  },
+  "positioning": {
+    "primaryCategory": "American history through transportation and technology",
+    "hook": "America did not merely build vehicles. It built versions of itself around what those vehicles made reachable.",
+    "period": "1776-2026",
+    "chapterArchitecture": "25 consecutive ten-year windows covering 1776-1785 through 2016-2025",
+    "selectionTests": [
+      "reach",
+      "throughput",
+      "system formation",
+      "second-order consequence",
+      "persistence"
+    ]
+  },
+  "formats": {
+    "print": "planned",
+    "ebook": "planned",
+    "audio": "undecided"
+  },
+  "notes": "Null publication identifiers are intentional and must not be populated until real values are assigned."
+}
