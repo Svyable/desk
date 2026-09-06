@@ -247,3 +247,113 @@ It also increases the cost of waiting past usefulness.
 The right moment is not determined by a birthday or a death certificate.
 
 It is determined by what the transfer is for.
+
+There is a further complication: the donor and recipient can value the same dollar differently not only because of age, but because of uncertainty.
+
+A seventy-five-year-old with a paid-off home and substantial savings may appear to have surplus wealth. The balance sheet does not reveal the tail risk of a long period of care, a major housing change, market losses, or the death of a spouse whose pension or practical labor supported the household. The older person may therefore hold assets that look underused to the next generation and feel like the only barrier against dependency to the person who owns them.
+
+Both views can be rational.
+
+The younger adult sees a house deposit that could eliminate years of rent or high-cost borrowing.
+
+The older adult sees a reserve against a future that cannot be insured perfectly.
+
+The disagreement is not necessarily selfishness versus generosity. It is different exposure to different risks.
+
+Longevity stretches the period in which this tension can persist.
+
+That matters because unused capital can still shape family behavior. An adult child who expects a future inheritance may save, borrow, or choose housing differently even without receiving money today. The expectation can be wrong. Assets can be consumed by care, markets can fall, a will can change, remarriage can alter claims, or the parent can simply live much longer than expected.
+
+Expected inheritance is therefore another form of subjective longevity planning.
+
+The child is making present decisions based on a forecast of somebody else’s lifespan and somebody else’s balance sheet.
+
+That is a fragile foundation.
+
+The same problem appears inside family businesses. Ownership can remain with a founder well into old age while the next generation performs more of the work. Delaying transfer may protect the founder, preserve strategic control, and avoid an inexperienced successor taking over too early. It can also leave the successor with responsibility but insufficient authority to invest, borrow, hire, or change direction.
+
+The business becomes the family’s version of the succession bottleneck.
+
+A long founder life should create more time to prepare the transition.
+
+It can instead create more years in which everyone assumes the transition can wait.
+
+This is where staged transfer has value. Authority can move before ownership. Ownership can move before every economic benefit moves. A successor can gain defined decision rights while the founder retains protections. The exact structure depends on law, taxes, business type, family relationships, and professional advice. The principle is simply that death is a poor project-management system.
+
+The same is true for family homes that several heirs are expected to share. A house can be emotionally indivisible and financially divisible only by sale. One child may live there. Another may need cash. A third may want to preserve the property because of memory. Longer parental ownership can postpone the conflict without reducing it.
+
+Advance discussion does not guarantee harmony.
+
+It does reduce the number of surprises grief has to carry.
+
+The distributional effects extend beyond wealthy estates. A family with a modest home may still have a meaningful asset relative to the next generation’s income. Whether that home is transferred debt-free, sold for care, borrowed against, or divided among several heirs can materially change younger households’ futures.
+
+This is why the phrase “great wealth transfer” can be misleading when it suggests a uniform windfall flowing down generations. Wealth is highly concentrated. Many households will receive little. Some heirs will receive assets only after years of supporting parents. Some inherit a house in a place they cannot use. Some receive money at sixty-five and immediately direct it to their own children because the capital is more useful one generation further down.
+
+Longevity can cause wealth to skip a generation informally.
+
+The legal recipient is the child.
+
+The practical beneficiary is the grandchild.
+
+That can make sense. It also strengthens the role of family wealth in determining who gets help with education, childcare, housing, or business formation during the expensive early decades.
+
+The timing problem therefore becomes a public one even when every private decision is loving.
+
+A society in which more opportunity depends on grandparents’ balance sheets is not merely experiencing family generosity.
+
+It is allocating access through ancestry.
+
+Public systems can reduce the stakes of inheritance timing without dictating family decisions. Affordable education makes tuition less dependent on grandparents. Housing supply makes a down payment less decisive. Childcare support reduces the value of having a retired relative nearby. Health and care systems reduce the amount older adults must reserve privately against catastrophe. Pension security can make early transfers safer for some households.
+
+None abolishes wealth inequality.
+
+They change how much one family transfer can determine a life trajectory.
+
+That is an important distinction because inheritance policy often begins at the tax code. The tax code matters. So does the cost of the things younger households are trying to buy.
+
+If a first home requires extraordinary capital, family wealth becomes more important. If professional education requires large debt, family wealth becomes more important. If childcare consumes a major share of income, grandparent time and money become more important.
+
+The private transfer is partly a response to public prices.
+
+Longer lives make the response more complicated because the donor’s own horizon is longer too.
+
+This brings the argument back to uncertainty.
+
+A family cannot know the ideal transfer schedule in advance. It can create review points.
+
+At seventy, the parent may decide the reserve is still too uncertain.
+
+At seventy-five, a gift for education may be clearly affordable.
+
+At eighty, a housing move may release equity and change the balance again.
+
+After a spouse dies, the survivor’s needs may change sharply.
+
+After a diagnosis, caution may increase.
+
+After years of stable health, the family may reassess.
+
+The relevant alternative to one final inheritance is not one giant early gift.
+
+It is a sequence of decisions made with updated information.
+
+That is how the rest of a long life is managed too.
+
+The inheritance becomes less like an event and more like an intergenerational balance sheet reviewed over time.
+
+The emotional challenge is that review can sound like counting down someone’s life.
+
+It should not.
+
+The purpose is to give the living person more control over what the resources accomplish while preserving enough security for the future that remains.
+
+A parent may prefer seeing a grandchild graduate because of help given now rather than leaving a larger account balance later. Another may value the assurance that no child will have to fund future care. Both can be coherent uses of wealth.
+
+The mistake is allowing the death certificate to decide by default because no one wanted to discuss the timing while everyone was alive.
+
+Longevity gives families more years to transfer resources with intention.
+
+It also gives them more years to avoid the conversation.
+
+The extra time is only useful if somebody eventually uses it.
