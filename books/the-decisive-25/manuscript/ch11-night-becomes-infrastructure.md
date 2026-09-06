@@ -30,6 +30,10 @@ As a young operator and inventor, he had worked on devices that improved telegra
 
 He also learned that patents could be a business architecture.
 
+A patent can be described as a legal right around an invention. In a network industry it can become something more: a way of deciding which components other firms may make, which designs interoperate, which improvements require licenses, and which technical path attracts financing. The legal ownership of a component can therefore shape the growth of the surrounding system.
+
+That is one reason the history of infrastructure cannot be reduced to the history of science. A better device does not automatically win. Capital, standards, patents, public permissions, installed equipment, customer habits, and complementary businesses all influence which technical architecture becomes real.
+
 By 1876, Edison established a laboratory at Menlo Park, New Jersey, that became famous not only for what it invented but for how it organized invention.
 
 The romantic image of the lone inventor in a workshop hides the real innovation.
@@ -39,6 +43,14 @@ Menlo Park employed machinists, experimenters, draftsmen, chemists, and assistan
 That model would spread far beyond Edison.
 
 Corporate research laboratories in chemicals, communications, electricity, pharmaceuticals, computing, and materials would later institutionalize the same basic idea. A company could build a place whose product was not one object but a pipeline of technical solutions.
+
+The implication is easy to miss because laboratories look like buildings.
+
+They are also coordination technologies.
+
+A difficult problem can be decomposed. One team can test materials while another builds instruments and another measures performance. Failures can be recorded instead of rediscovered. Machine tools can be shared. Specialists can work close enough that one experiment changes another before a formal publication exists. Capital can be committed to a program rather than a single device.
+
+The laboratory therefore reduces the distance between ideas inside an organization just as the telegraph reduced the distance between messages across geography.
 
 Edison's first spectacular Menlo Park success was the phonograph in 1877.
 
@@ -63,6 +75,12 @@ A central station could not simply push electricity into an undefined city. Edis
 This is what system builders see that object inventors can miss.
 
 Every component changes the requirements of another.
+
+A brighter lamp that wastes too much power changes the economics of the generator. A distribution design that requires too much copper changes the economics of the station. A generator that works beautifully at one load can be unattractive if customer demand varies. A meter that is inaccurate turns engineering success into a billing failure. A socket that is difficult to use raises the cost of adoption. A dangerous wire can destroy public trust faster than advertising can rebuild it.
+
+The system has no single point at which invention ends and operations begin.
+
+That is why the incandescent lamp should be understood as an entry point into a network rather than the network's purpose.
 
 Menlo Park demonstrated incandescent lighting publicly at the end of 1879. Visitors arrived by train to see buildings and grounds illuminated electrically. The spectacle helped convince investors and reporters that Edison's promise was no longer a laboratory boast.
 
@@ -90,7 +108,29 @@ The switch hides the network.
 
 Behind it sit generation, transmission or distribution, fuel, maintenance, capital investment, engineering standards, meters, rights of way, regulation, and human labor. The easier electricity became to use, the less visible its industrial organization became.
 
-Edison's companies helped establish that organization.
+The invisibility is not cosmetic. It changes adoption.
+
+A technology that requires every customer to understand the technology remains a specialist technology. Infrastructure succeeds when the customer can use the benefit without understanding the machinery that produces it. The user does not calculate conductor resistance. The user does not synchronize generators. The user does not negotiate a separate fuel contract before turning on a lamp.
+
+Edison was helping convert electricity from an engineering project into a service relationship.
+
+That conversion creates a new business problem: the expensive network is built before the next customer turns on a lamp.
+
+Utilities carry large fixed costs. Generating equipment, underground conduits or wires, buildings, meters, and crews have to exist before revenue from a particular switch arrives. The economics therefore reward density. A compact district with many potential customers can justify infrastructure that a scattered customer base cannot.
+
+This helps explain why Pearl Street mattered as a place as much as a machine.
+
+The system was being tested in a neighborhood where demand could be concentrated. Once the category proved itself there, later systems could attack the problem of extending the radius, lowering cost, raising voltage, serving different loads, and interconnecting larger territories.
+
+An infrastructure business also has to care about when customers use it.
+
+A generating station sized for the moment of greatest demand may sit partly idle at other times. That makes the pattern of demand economically important. Lighting produces a strong evening use, but a broader electrical system becomes more valuable when other machines use power at other hours. The eventual spread of motors and appliances would improve the usefulness of the network not simply by selling more electricity but by diversifying what the network was for.
+
+This is one reason general-purpose infrastructures compound.
+
+The first useful application pays for part of the network. The network then lowers the cost of the next application. The next application creates more reasons to extend the network. Adoption becomes self-reinforcing.
+
+Edison's companies helped establish the early organization around that loop.
 
 He needed financiers. J. Pierpont Morgan and other investors provided capital. He needed manufacturing capacity for lamps and electrical equipment. He needed local permissions to lay wires. He needed customers to replace gas lighting despite the unfamiliarity and expense. He needed a commercial rate structure.
 
@@ -136,13 +176,27 @@ Westinghouse could build AC systems partly because customers, cities, and financ
 
 Edison helped make the category ordinary.
 
-What did that category change?
+The standards competition also reveals an important limit on founder power.
+
+Once infrastructure exists, users and complementary technologies begin imposing their own demands. A system designed around the founder's preferred architecture can encounter a physical or economic boundary. Competitors do not need to defeat the founder's personality. They need to offer a network that serves more territory, reduces costs, or solves a constraint the existing design cannot overcome.
+
+Edison could shape the starting point without controlling the destination.
+
+That distinction will recur later in the book with Gates and Jobs. Platform builders gain power because others organize around the platform. Their success then creates incentives for competitors to attack the platform's limitations.
+
+What did the electrical category change?
 
 At first, light.
 
 Electric lighting reduced dependence on open flames and gas lamps, with implications for fire risk, indoor air, heat, working conditions, and the design of buildings. It extended useful indoor illumination and made large commercial spaces easier to light. Factories could organize shifts differently. Stores could display goods after dark. Streets and public spaces could become brighter.
 
-But the deeper consequence was that once a wire entered a building for light, the building had acquired a general energy interface.
+The economic consequence of brighter and more controllable light was not simply “more night.” It was more discretion over time.
+
+A factory, office, store, theater, or household could decide that useful activity did not have to follow the availability of daylight or the inconveniences of flame in the same way. The change was gradual and uneven, and workers did not necessarily experience longer operating hours as liberation. Employers could use better light to extend production. Cities could turn illumination into expectations about commerce and public order.
+
+Infrastructure increases capability without deciding who receives the benefit.
+
+The deeper consequence was that once a wire entered a building for light, the building had acquired a general energy interface.
 
 Electric motors, fans, elevators, appliances, refrigeration, communication devices, office machines, and later electronics could all exploit the same general-purpose energy system in different ways.
 
@@ -168,6 +222,14 @@ Telephone networks needed electrical infrastructure of their own and became one 
 
 This is an argument from persistence and scope, not from the romance of one inventor.
 
+But the case is closer than the sentence makes it sound.
+
+A telephone network changes the cost of coordination between people. A power network changes the cost of supplying energy to machines and spaces. Both produce enormous second-order effects. Bell's network becomes part of business organization, emergency response, social life, finance, journalism, and government. If the decade were weighted more heavily toward information coordination than general-purpose energy, Bell could win.
+
+George Westinghouse is a different kind of rival because he challenges Edison's technical durability. If the architecture that ultimately scales is associated with the competitor, perhaps the competitor should receive the decade.
+
+The answer depends on the time window. Westinghouse's decisive AC expansion belongs more strongly to the next phase of electrification. Edison wins 1876–1885 because he crosses the commercial central-station threshold early enough to make the category real. A later chapter about which person most shaped the mature power grid might choose differently.
+
 Andrew Carnegie is another contender because the Bessemer process and steel expansion helped create the material base for railroads, bridges, buildings, and industrial scale. But Carnegie's greatest dominance came later. Jay Gould reshaped railroads and finance, though often through speculative control rather than a technological platform.
 
 Edison sits at the moment a new general-purpose technology crosses from demonstration into service.
@@ -178,9 +240,21 @@ Remove Edison and electric lighting still arrives.
 
 Swan works in Britain. Westinghouse emerges. Siemens, Brush, Thomson-Houston, and other companies develop electrical systems. Scientific knowledge is moving too quickly for one man to suppress electrification by being absent.
 
-The question is timing and commercialization.
+The question is timing, system integration, and commercialization.
 
 Without Edison, the American transition to incandescent central-station service might proceed through more fragmented regional experiments. Gas lighting might retain urban dominance longer. Investors might take more time to believe in a household-scale electrical utility. Different patents and technical standards could organize the early industry. A competing company might build the first iconic central station under a different system.
+
+Perhaps the delay is short.
+
+That is the hardest version of the objection.
+
+If another company could duplicate the commercial category within two or three years, does Edison deserve the decade more than Bell, whose telephone network was also emerging, or than an industrialist whose organization could not be reproduced as easily?
+
+The answer rests on compounding.
+
+A few years at the start of a network transition can matter more than a few years after the network is mature. Early demonstration changes investor belief. Investor belief finances manufacturing. Manufacturing lowers component cost. Installed equipment creates technicians, standards, customer expectations, and legal disputes. Those create information for the next entrant. The first system does not merely occupy calendar time. It changes the environment in which all later systems compete.
+
+Edison's personal removal therefore does not erase electrification. It plausibly changes the path by which electrification crosses from experiment to institution in the United States.
 
 The world still lights electrically.
 
@@ -192,7 +266,7 @@ Once a service exists, imagination changes.
 
 Before Pearl Street, the question was whether a practical electric-light system could serve a neighborhood.
 
-After Pearl Street, the question was how far the system could spread.
+After Pearl Street, the question was how far the system could spread, what architecture would replace its limits, what other machines would attach to it, and who would govern the resulting utility.
 
 Those are completely different questions for capital, engineering, and politics.
 
@@ -203,6 +277,8 @@ A laboratory could industrialize invention.
 A company could industrialize the laboratory's output.
 
 A utility could industrialize access to the output.
+
+A standard could coordinate manufacturers who never met one another.
 
 And a customer could experience the entire chain as a switch on the wall.
 
