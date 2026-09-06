@@ -195,3 +195,101 @@ The goal is not to make everybody move.
 It is to make staying, adapting, and moving all real options.
 
 A house earns the word permanent by changing enough to let its people change too.
+
+The policy conversation becomes more difficult when the house works financially for reasons that make it harder to leave.
+
+A homeowner with a mortgage far below current market rates can face a substantial monthly penalty for moving even into a smaller property. A long-time owner may also carry a low property-tax basis in jurisdictions where taxes rise slowly while the home is held. The household can want less space and still face a higher monthly housing cost after downsizing.
+
+That is a strange form of lock-in.
+
+The market price says the household is wealthy.
+
+The cash-flow comparison says stay put.
+
+The body may say leave.
+
+The three signals can disagree for years.
+
+This is why the word downsizing can make the transition sound easier than it is. The older household is not merely exchanging square footage. It may be exchanging a known tax bill, a known mortgage, known maintenance problems, known neighbors, known doctors, and a familiar route through daily life for a smaller but financially or socially riskier arrangement.
+
+A smaller house is not necessarily a smaller commitment.
+
+The transaction can also be irreversible in a way that matters psychologically. Once a long-held home is sold, returning may be impossible. Prices may rise. The old neighborhood may have little rental stock. The new arrangement may prove isolating. A person who is uncertain about future care needs therefore has a rational reason to delay.
+
+The delay is often described as resistance to change.
+
+Sometimes it is a demand for a reversible test the housing market does not offer.
+
+Imagine instead that the same neighborhood contains an apartment building, a few duplexes, smaller houses, accessible rentals, and accessory units. An older resident could move locally, rent before selling, remain close to friends, or test a different housing form while the social environment stays constant. The decision becomes less final because fewer variables change at once.
+
+Variety reduces the size of the experiment.
+
+That matters in a long life because the information arrives gradually. At sixty-five, the person may know that yard work is annoying and not know whether mobility will ever become a serious limitation. At seventy-two, the person may know that driving at night is becoming uncomfortable and not know whether daytime driving will remain easy for another decade. At seventy-eight, a spouse may die and transform the financial and emotional logic of the house overnight.
+
+No one gets the full late-life forecast at the moment a housing decision is made.
+
+A good market therefore permits staged moves rather than demanding prophecy.
+
+Renting can play this role, though it brings a different set of risks. Renters avoid some maintenance and can move more easily. They also have less control over modifications, can face rent increases, and may have weaker tenure security. An older renter whose income is fixed can be highly mobile in theory and unable to afford any available alternative in practice.
+
+Homeownership creates one kind of lock-in.
+
+Rental scarcity creates another.
+
+This is why the longevity housing problem cannot be reduced to persuading homeowners to move. The receiving side of the market has to exist, and it has to be affordable enough that the move does not destroy financial security.
+
+Care adds another layer because the home is often where formal systems expect unpaid systems to operate.
+
+A hospital can discharge a patient into “home,” but home may mean a narrow bathroom, a second-floor bedroom, no nearby relative, and a spouse who is seventy-eight. The word makes the destination sound like infrastructure. Sometimes it is just an address.
+
+The practical capacity of a home depends on who is there, what they can do, and how outside help can enter.
+
+A spare bedroom can become a care asset. So can a ground-floor bathroom. So can a curb without a step, a parking space near the door, an elevator that fits mobility equipment, or a layout that permits a caregiver to sleep without eliminating all privacy.
+
+These details sound small until the household is deciding whether a person can return home at all.
+
+Housing policy and care policy meet at the doorway.
+
+They also meet in household labor. A home that is “affordable” on a mortgage calculator may be expensive to operate if maintaining it requires hours of unpaid work that an older resident or caregiver can no longer provide. Yard work, snow removal, cleaning, repairs, shopping, and transportation all belong in the real cost of the dwelling.
+
+When capacity changes, formerly invisible labor becomes a cash expense or a family obligation.
+
+That change can make a house unaffordable without changing the mortgage by a dollar.
+
+This is another reason net worth is a poor description of housing security late in life. The asset value says what the property might yield if sold. It says little about the recurring labor needed to inhabit it safely.
+
+A long-life housing strategy therefore has to price maintenance of both building and person.
+
+Climate risk makes the duration problem even sharper. A home chosen at forty may be occupied into a very different insurance market, flood regime, heat environment, or wildfire risk decades later. Older households can be less able to absorb rising insurance premiums, major retrofits, repeated evacuation, or rebuilding. Moving away can mean losing social infrastructure exactly when that infrastructure matters more.
+
+The house is long-lived enough to encounter more than one climate.
+
+That does not mean every homeowner should forecast environmental conditions thirty years ahead. It means the old assumption that the home is a stable background asset deserves more skepticism. The building, the neighborhood, the insurance system, and the resident can all change at different speeds.
+
+Longevity multiplies the combinations.
+
+There is a moral hazard in treating every future housing problem as something people should have anticipated. A couple who bought a reasonable home at forty may not have failed because the neighborhood later lost transit, insurance became expensive, a spouse developed dementia, or accessible replacements were never built. The long horizon creates events that are individually foreseeable only in the abstract.
+
+Good systems do not require perfect foresight from households.
+
+They create ways to recover when the forecast is wrong.
+
+That can mean housing vouchers usable in more neighborhoods, financing for accessibility modifications, property-tax structures that do not punish every move, support for home repairs, tenant protections, more varied local housing, and transportation that makes a smaller radius of driving less consequential.
+
+Each policy has costs and tradeoffs. Some can raise property values. Some benefit owners more than renters. Some shift costs to taxpayers. Some can encourage people to remain in homes that still do not fit. The point is not that every aging-in-place subsidy is wise.
+
+The point is that housing should be judged by transitions as well as occupancy.
+
+A market can be excellent at helping people buy the house that fits age forty and poor at helping the same person inhabit age seventy.
+
+The failure appears late enough that the original transaction still looks successful.
+
+Longevity changes the audit period.
+
+We have to ask not only whether the house was affordable when purchased, but whether the surrounding system gives the resident somewhere to go when the house, body, household, or neighborhood changes.
+
+That is the housing version of optionality.
+
+Not endless moving.
+
+The ability to change one part of home without losing every other part that made it home.
