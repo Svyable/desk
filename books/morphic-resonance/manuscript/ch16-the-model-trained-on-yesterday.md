@@ -184,6 +184,86 @@ Not merely records of what was said.
 
 A machine altered by what was said.
 
+The distinction between generalization and memorization matters here because the two preserve the past differently.
+
+In generalization, examples collectively shape a rule-like statistical disposition. The exact training sentence need not return. A model exposed to many examples of a genre can learn enough structure to produce a new instance that follows familiar conventions without reproducing one source verbatim.
+
+Memorization is different. Research by Nicholas Carlini and colleagues demonstrated that some language models can emit exact or near-exact sequences from training data under suitable prompting, including material that is sufficiently distinctive or repeated to become extractable. Later work tried to quantify how memorization changes with factors such as model capacity, duplicated data, and prompt context.
+
+That finding does not reduce language models to databases.
+
+It complicates the archive.
+
+Some of the past survives as diffuse statistical influence.
+
+Some survives sharply enough to be reproduced.
+
+The boundary between the two depends on training data, architecture, optimization, repetition, and the way the model is queried.
+
+This gives the book a concrete lesson about recurrence: repetition can change not only the probability that a pattern's *kind* returns, but the probability that a particular pattern returns with high fidelity.
+
+Dataset duplication is especially revealing. If the same sequence appears many times in training, the system receives repeated pressure toward it. Katherine Lee and collaborators studied deduplication and found that removing near-duplicate training examples can reduce memorized text while improving aspects of model training. The exact effects depend on dataset and setup, but the conceptual point is clean.
+
+Repetition inside the archive changes the strength of the trace.
+
+Then an intervention that reduces repetition changes later behavior.
+
+This is the sort of causal structure a theory of resonance should want.
+
+We know the carrier.
+
+We can alter the dose.
+
+We can observe the output.
+
+No invisible field is required.
+
+The model also teaches a harder lesson about provenance. A generated passage may reflect millions of training examples, a few highly repeated ones, a retrieved document supplied at inference time, a system instruction, a user's prior context, or a tool result. From the outside, these causal pathways can produce similarly fluent text.
+
+The surface does not reveal the source architecture.
+
+This is exactly the problem we have encountered throughout the book. Similar outcomes can be supported by different memories.
+
+A researcher who sees familiar wording should not jump immediately to either “the model copied” or “the model generalized.” The claim has to be tested against the system, data access, and output behavior available in that case.
+
+A person experiencing the model cannot usually perform that audit. The system therefore creates a peculiar epistemic asymmetry: historical influence is enormous while causal lineage is often opaque.
+
+The answer sounds present tense.
+
+Its causes are historical and distributed.
+
+This is one reason debates about attribution become difficult. A book can cite another book. A student can say where a quotation came from. A database can return a record with provenance. A model's ordinary generated sentence may not possess a single source to cite even though it would not exist in that form without the training ecology.
+
+The inheritance is real and the genealogy may be many-to-one.
+
+That condition resembles culture more than conventional storage.
+
+A speaker does not cite every prior conversation that helped form their grammar. A musician cannot identify every performance that shaped their sense of timing. Yet human forgetting, embodiment, limited output scale, and social authorship norms make the institutional consequences different from those of a machine that can generate at industrial volume.
+
+Scale changes what provenance is for.
+
+For models, provenance is not only credit. It is also debugging, rights management, contamination control, scientific reproducibility, and the ability to distinguish independent evidence from material that has circulated through the same training ecosystem.
+
+This matters acutely when models are used in research.
+
+Suppose five systems produce the same obscure factual claim. That agreement looks reassuring if the systems are independent witnesses. It is much less reassuring if they were trained on overlapping corpora containing the same error or if one system's output entered later systems' training data.
+
+Agreement can be inherited.
+
+The number of voices is not the number of independent sources.
+
+This is morphic-looking recurrence produced by shared ancestry.
+
+It raises a modern version of the denominator problem: how many genuinely independent informational lineages produced the repeated claim?
+
+The same question will increasingly matter outside AI. Synthetic articles can be indexed by search engines. Generated summaries can be copied into other documents. Model outputs can be quoted without attribution. Repeated formulations can become common enough to look established.
+
+The echo can manufacture prevalence.
+
+That is why the second-order archive needs metadata as much as memory.
+
+A culture able to retain everything but unable to distinguish original observation from repeated synthesis may become informationally rich and epistemically poor.
+
 This raises a difficult ethical question. What does it mean for a culture to remain present through learned influence when attribution disappears?
 
 Human creativity has always depended on absorbed influences whose sources are partly forgotten. Yet industrial-scale training creates different stakes because collection is automated, reproduction is cheap, and the resulting systems can compete economically with the people whose work contributed to the training ecology.
