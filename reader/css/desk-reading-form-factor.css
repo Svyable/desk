@@ -1,0 +1,294 @@
+/* Responsive reading-shell polish for Desk.
+   Presentation only: no manuscript metrics, page boxes, routes, or Reader state. */
+:root {
+  --desk-reader-chrome-surface: color-mix(in srgb, var(--bg-elevated) 84%, transparent);
+  --desk-reader-chrome-surface-strong: color-mix(in srgb, var(--bg-elevated) 94%, transparent);
+  --desk-reader-chrome-border: color-mix(in srgb, var(--border) 56%, transparent);
+  --desk-reader-chrome-shadow: 0 14px 42px color-mix(in srgb, var(--shadow) 20%, transparent);
+}
+
+body[data-stage="read"] .app-header {
+  padding-inline-start: max(.75rem, env(safe-area-inset-left));
+  padding-inline-end: max(.75rem, env(safe-area-inset-right));
+  border-bottom-color: var(--desk-reader-chrome-border);
+  background:
+    linear-gradient(180deg, color-mix(in srgb, var(--bg-elevated) 96%, transparent), color-mix(in srgb, var(--bg-elevated) 78%, transparent)),
+    var(--desk-reader-chrome-surface);
+  -webkit-backdrop-filter: blur(18px) saturate(1.08);
+  backdrop-filter: blur(18px) saturate(1.08);
+  box-shadow: 0 7px 26px color-mix(in srgb, var(--shadow) 16%, transparent);
+}
+
+body[data-stage="read"] :is(.header-btn, .logo, .page-nav .nav-btn) {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+body[data-stage="read"] :is(.header-btn, .logo) {
+  border: 1px solid transparent;
+  background: color-mix(in srgb, var(--bg-secondary) 28%, transparent);
+  transition:
+    background-color 150ms ease,
+    border-color 150ms ease,
+    color 150ms ease,
+    transform 150ms ease;
+}
+
+body[data-stage="read"] :is(.header-btn, .logo):focus-visible {
+  border-color: color-mix(in srgb, var(--accent) 68%, var(--border));
+  outline: 2px solid color-mix(in srgb, var(--accent) 72%, transparent);
+  outline-offset: 2px;
+}
+
+body[data-stage="read"] .page-nav {
+  isolation: isolate;
+}
+
+body[data-stage="read"] .page-nav::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: .06rem max(.55rem, calc(50% - 22rem)) 0;
+  border: 1px solid var(--desk-reader-chrome-border);
+  border-bottom: 0;
+  border-radius: 20px 20px 0 0;
+  background: var(--desk-reader-chrome-surface);
+  -webkit-backdrop-filter: blur(18px) saturate(1.08);
+  backdrop-filter: blur(18px) saturate(1.08);
+  box-shadow: 0 -12px 34px color-mix(in srgb, var(--shadow) 18%, transparent);
+  pointer-events: none;
+}
+
+body[data-stage="read"] .page-nav .nav-btn {
+  border-color: color-mix(in srgb, var(--border) 34%, transparent);
+  background: color-mix(in srgb, var(--bg-secondary) 54%, transparent);
+  transition:
+    background-color 150ms ease,
+    border-color 150ms ease,
+    color 150ms ease,
+    transform 150ms ease;
+}
+
+body[data-stage="read"] .page-nav .nav-btn:focus-visible {
+  border-color: color-mix(in srgb, var(--accent) 68%, var(--border));
+  outline: 2px solid color-mix(in srgb, var(--accent) 72%, transparent);
+  outline-offset: 2px;
+}
+
+body[data-stage="read"] .page-chapter {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Settings keep the phone bottom-sheet pattern, but use the available canvas on
+   tablets, landscape phones, and desktop instead of covering the entire book. */
+#settingsPanel .settings-card {
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+  -webkit-overflow-scrolling: touch;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  body[data-stage="read"] :is(.header-btn, .logo):hover,
+  body[data-stage="read"] .page-nav .nav-btn:hover {
+    border-color: color-mix(in srgb, var(--border) 54%, transparent);
+    background: color-mix(in srgb, var(--accent-glow) 48%, var(--desk-reader-chrome-surface));
+    transform: translateY(-1px);
+  }
+}
+
+@media (min-width: 1100px) {
+  body[data-stage="read"] .app-header {
+    padding-inline-start: max(1.25rem, calc((100vw - 82rem) / 2));
+    padding-inline-end: max(1.25rem, calc((100vw - 82rem) / 2));
+  }
+
+  body[data-stage="read"] .progress-bar-container[data-reader-seekable="true"] {
+    left: max(6rem, calc((100vw - 60rem) / 2));
+    right: max(6rem, calc((100vw - 60rem) / 2));
+  }
+
+  body[data-stage="read"] .page-nav::before {
+    inset-inline: max(1rem, calc(50% - 22rem));
+  }
+}
+
+@media (min-width: 760px) and (min-height: 560px) {
+  #settingsPanel {
+    place-items: stretch end;
+    padding: 0;
+  }
+
+  #settingsPanel .settings-card {
+    width: min(31rem, 44vw);
+    max-width: 31rem;
+    height: 100dvh;
+    max-height: 100dvh;
+    padding-top: max(1.7rem, calc(1.05rem + env(safe-area-inset-top)));
+    padding-right: max(1.3rem, calc(.9rem + env(safe-area-inset-right)));
+    padding-bottom: max(1.15rem, calc(.8rem + env(safe-area-inset-bottom)));
+    padding-left: 1.35rem;
+    border: 0;
+    border-left: 1px solid var(--desk-reader-chrome-border);
+    border-radius: 24px 0 0 24px;
+    background: var(--desk-reader-chrome-surface-strong);
+    box-shadow: -26px 0 72px color-mix(in srgb, var(--shadow) 40%, transparent);
+    overflow: auto;
+  }
+
+  #settingsPanel .settings-card::before {
+    top: 50%;
+    left: .52rem;
+    width: .28rem;
+    height: 2.9rem;
+    transform: translateY(-50%);
+  }
+}
+
+@media (max-width: 700px) {
+  body[data-stage="read"] .app-header {
+    padding-inline-start: max(.42rem, env(safe-area-inset-left));
+    padding-inline-end: max(.42rem, env(safe-area-inset-right));
+  }
+
+  body[data-stage="read"] :is(.header-btn, .logo, .page-nav .nav-btn) {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  body[data-stage="read"] .header-right {
+    gap: 0;
+  }
+
+  body[data-stage="read"] .page-nav::before {
+    inset-inline: max(.38rem, env(safe-area-inset-left)) max(.38rem, env(safe-area-inset-right));
+    border-radius: 18px 18px 0 0;
+  }
+
+  body[data-stage="read"] .page-nav .nav-center {
+    max-width: calc(100vw - 7.5rem - env(safe-area-inset-left) - env(safe-area-inset-right));
+  }
+
+  body[data-stage="read"] .progress-bar-container[data-reader-seekable="true"] {
+    left: max(3rem, calc(env(safe-area-inset-left) + 2.55rem));
+    right: max(3rem, calc(env(safe-area-inset-right) + 2.55rem));
+  }
+}
+
+@media (max-width: 560px) {
+  body[data-stage="read"] .reader-context-chapter {
+    display: none;
+  }
+
+  body[data-stage="read"] .page-chapter {
+    max-width: 34vw;
+  }
+}
+
+/* Short landscape is where generic web chrome most obviously crowds the book.
+   Keep controls available, but remove redundant labels and use a compact side tray. */
+@media (max-height: 540px) and (orientation: landscape) {
+  body[data-stage="read"] .reader-context,
+  body[data-stage="read"] .page-chapter {
+    display: none;
+  }
+
+  body[data-stage="read"] .header-right {
+    gap: 0;
+  }
+
+  body[data-stage="read"] .page-nav::before {
+    inset-inline: max(.7rem, calc(env(safe-area-inset-left) + .35rem)) max(.7rem, calc(env(safe-area-inset-right) + .35rem));
+    border-radius: 16px 16px 0 0;
+  }
+
+  body[data-stage="read"] .page-nav .nav-center {
+    min-width: 6rem;
+    max-width: 32vw;
+  }
+
+  body[data-stage="read"] .progress-bar-container[data-reader-seekable="true"] {
+    left: max(4rem, calc(env(safe-area-inset-left) + 3.1rem));
+    right: max(4rem, calc(env(safe-area-inset-right) + 3.1rem));
+  }
+
+  #settingsPanel {
+    place-items: stretch end;
+  }
+
+  #settingsPanel .settings-card {
+    width: min(27rem, 54vw);
+    max-width: 27rem;
+    height: 100dvh;
+    max-height: 100dvh;
+    padding-top: max(1.2rem, calc(.7rem + env(safe-area-inset-top)));
+    padding-right: max(1rem, calc(.65rem + env(safe-area-inset-right)));
+    padding-bottom: max(.85rem, calc(.55rem + env(safe-area-inset-bottom)));
+    padding-left: 1.15rem;
+    border: 0;
+    border-left: 1px solid var(--desk-reader-chrome-border);
+    border-radius: 20px 0 0 20px;
+    overflow: auto;
+  }
+
+  #settingsPanel .settings-card::before {
+    top: 50%;
+    left: .42rem;
+    width: .24rem;
+    height: 2.3rem;
+    transform: translateY(-50%);
+  }
+
+  #settingsPanel .settings-card > h3 {
+    margin-bottom: .55rem;
+  }
+
+  #settingsPanel .settings-section {
+    padding-block: .55rem;
+  }
+
+  #settingsPanel .setting-row {
+    margin-bottom: .48rem;
+  }
+
+  #settingsPanel .atmosphere-panel {
+    margin-bottom: .45rem;
+  }
+}
+
+@media (pointer: coarse) {
+  body[data-stage="read"] :is(.header-btn, .logo, .page-nav .nav-btn) {
+    min-width: 44px;
+    min-height: 44px;
+  }
+}
+
+@supports not ((-webkit-backdrop-filter: blur(1px)) or (backdrop-filter: blur(1px))) {
+  body[data-stage="read"] .app-header,
+  body[data-stage="read"] .page-nav::before,
+  #settingsPanel .settings-card {
+    background: var(--bg-elevated);
+  }
+}
+
+@media (forced-colors: active) {
+  body[data-stage="read"] .app-header,
+  body[data-stage="read"] .page-nav::before,
+  body[data-stage="read"] :is(.header-btn, .logo, .page-nav .nav-btn),
+  #settingsPanel .settings-card {
+    border-color: CanvasText;
+    background: Canvas;
+    color: CanvasText;
+    box-shadow: none;
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body[data-stage="read"] :is(.header-btn, .logo, .page-nav .nav-btn) {
+    transition: none !important;
+    transform: none !important;
+  }
+}
