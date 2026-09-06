@@ -187,3 +187,53 @@ Twenty-five years later, it was sending its own armed hull across the same ocean
 The weapon had become a vehicle.
 
 So had the country.
+
+The hull itself makes the argument about systems more concrete than the phrase “blue-water navy” does.
+
+Naval History and Heritage Command describes Constitution as one of six frigates authorized by the 1794 naval legislation “in defense of commerce.” Joshua Humphreys' design aimed for ships that were unusually strong and heavily armed for frigates, able to fight favorably against ships of their class while avoiding the line-of-battle ships of a major fleet. Constitution's hull was built with closely spaced live-oak frames and thick planking. The result later helped generate the “Old Ironsides” name, but in the 1800s the more important quality was endurance.
+
+Endurance is made of maintenance.
+
+Before Constitution sailed for the Mediterranean in 1803, its underwater copper sheathing needed replacement. The Navy's history records that Paul Revere's rolling mill supplied thousands of sheets of copper for the refit. The detail is almost comically mundane beside the famous image of a frigate under full sail.
+
+It is also exactly the detail that explains naval power.
+
+Copper sheathing helped protect a wooden hull below the waterline from marine growth and damage that could slow the ship and consume maintenance time. A vessel designed to remain overseas could not treat fouling as an aesthetic problem. Speed was tactical freedom. If the hull lost performance, the captain's options narrowed.
+
+So the weapon's reach began in a Massachusetts rolling mill.
+
+The same ship had already demonstrated another form of endurance during the Quasi-War. Naval History and Heritage Command credits Captain Silas Talbot's command with an early successful use of underway replenishment, using a stores ship to keep Constitution at sea for 347 days out of 366 in 1799. The number belongs to an earlier conflict, but it reveals the institutional problem the 1803 deployment inherited: the useful warship is not the one that can sail far once. It is the one the system can keep operating.
+
+That is a much harder standard.
+
+A voyage is an event.
+
+Presence is a schedule.
+
+The distinction will recur at larger scales. A bomber can fly a long-range mission; a strategic air force must generate sorties repeatedly. An aircraft carrier can cross an ocean; a carrier force must sustain aviation fuel, weapons, spare parts, escorts and trained crews. A drone can orbit a target; a remote-strike system must sustain satellite bandwidth, sensor operators, intelligence exploitation, maintenance and relief crews around the clock.
+
+Constitution is an early version of availability as combat power.
+
+The ship's famous guns matter, but the percentage of days it can remain ready to employ them matters more.
+
+This is also why the original-six-frigates program deserves to be understood as a portfolio rather than a collection of heroic hulls. Congress did not authorize Constitution alone. It authorized a small class of warships meant to give the republic options across several theaters. Ships could be repaired while others sailed. Commanders could assemble squadrons. Loss of one vessel, painful as it might be, need not erase the entire capability.
+
+Philadelphia's capture in 1803 proved the point in reverse.
+
+A navy built around only one irreplaceable object would have been strategically brittle. The loss of Philadelphia was humiliating and operationally serious, but Preble still had Constitution and other vessels with which to continue pressure. Decatur's raid destroyed the captured frigate; the larger campaign continued.
+
+Resilience begins before redundancy feels efficient.
+
+That sentence could be written about almost every defense-industrial problem in the final chapters of this book. Spare munitions, extra production lines, dispersed bases and allied capacity all look expensive when nothing is going wrong. Their value appears abruptly when a system loses a ship, a factory, a runway or an inventory.
+
+The United States in the 1800s could not afford redundancy on the scale later generations would take for granted. It was already learning the principle.
+
+The frigate that crosses the ocean is only the visible piece.
+
+Behind it must be another ship carrying stores, a yard able to repair it, a mill rolling copper, a treasury paying crews, officers trusted to act beyond immediate instructions, diplomats able to convert pressure into terms, and enough other hulls that one grounding does not end the war.
+
+That is why Constitution belongs here rather than solely in the War of 1812 chapter its legend seems to demand.
+
+The strategic innovation came before the famous broadsides.
+
+America had learned to keep a weapon far from home long enough for distance itself to become usable power.
