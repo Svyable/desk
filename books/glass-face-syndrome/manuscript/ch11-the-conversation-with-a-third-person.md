@@ -293,3 +293,131 @@ The result is a table with a silent third party that represents everyone else.
 Every relationship outside the room waits behind the glass.
 
 The discipline of presence is deciding, together, when they are allowed in.
+
+Shared attention is more fragile than shared location.
+
+That distinction became easier to see after smartphones because people could be physically co-present while participating in different social worlds with almost no visible separation. A family can occupy one couch while each member inhabits a separate feed, conversation, game, or video. Before portable networked screens, private attention usually required more obvious equipment or distance. A book, newspaper, television, stereo, or desktop computer announced the activity to everyone else.
+
+The phone privatizes the doorway.
+
+Earbuds can privatize it further.
+
+This matters for coordination because social groups rely on small signals to know when interaction is available. Two people in a room once needed relatively little negotiation to begin talking. Now each may be in a private channel whose boundaries are invisible. Interrupting someone who is staring at a phone can feel oddly uncertain.
+
+Are they reading something important?
+
+Working?
+
+Watching a video?
+
+Writing to someone?
+
+Waiting for a reply?
+
+The device makes solitude portable inside company.
+
+Portable solitude is useful. Teenagers sharing a house need privacy. Partners do not need to entertain one another continuously. A crowded train becomes more bearable when everyone can create a small personal world. The ability to retreat without leaving can preserve relationships as often as it strains them.
+
+The problem comes when retreat loses a visible beginning and end.
+
+A book can be closed and placed on the table. A phone can be locked and still contain unfinished conversation. The person returns physically while part of attention remains elsewhere, waiting for the next cue.
+
+This is one reason the phone can produce what feels like partial presence even after it is put down.
+
+The interruption has an afterlife.
+
+A difficult work message is still being mentally answered.
+
+A social post has changed the person’s mood.
+
+A romantic reply is being anticipated.
+
+A headline has introduced fear.
+
+The device is no longer active, but the remote context has entered the room.
+
+No etiquette rule can fully prevent that. A newspaper article can alter mood too. A letter can reopen a conflict. Human beings carry thoughts across contexts.
+
+The smartphone increases the frequency with which contexts can enter one another.
+
+Frequency changes what relationships have to negotiate.
+
+A useful concept here is not simply attention but repair. Conversations are full of small ruptures: someone looks away, misses a sentence, misunderstands tone, becomes distracted, checks a child, remembers an obligation. Healthy interaction repairs these ruptures constantly.
+
+Sorry, I missed that.
+
+Say it again.
+
+I need thirty seconds to answer this.
+
+That was rude; put it away.
+
+Show me what you’re looking at.
+
+Repair restores shared reality.
+
+The phone becomes damaging when interruptions accumulate without repair and the interrupted person must repeatedly pretend not to notice. Resentment then attaches not to any one glance but to the pattern of being demoted without acknowledgment.
+
+This helps explain why shared phone use can feel different from private phone use even when the same screen is involved. If one partner says, “Look at this photograph,” the device becomes part of joint attention. If the partner silently turns toward the same screen to read an unrelated thread, the device competes with joint attention.
+
+The pixels are not the variable.
+
+The social orientation is.
+
+Research on phubbing is beginning to reflect this distinction. The literature has repeatedly found negative associations between perceived partner phone distraction and relationship satisfaction, but newer reviews also warn that the field relies heavily on cross-sectional self-report, overlapping definitions, and measures that can pathologize ordinary technology use. That methodological caution improves the argument rather than weakening it.
+
+We do not need to prove that every phone glance damages intimacy.
+
+We need to understand why some glances communicate exclusion and others do not.
+
+One clue is responsiveness.
+
+People want evidence that a partner noticed what they said, understood the emotional weight, and can be reached in return. A phone can reduce that evidence when it captures eyes and timing. It can also increase responsiveness by giving someone access to information, translation, photographs, or distant family that enriches the conversation.
+
+The same tool moves both directions.
+
+This is why universal etiquette fails.
+
+“Never use a phone at dinner” is simple enough to enforce and may be valuable for a household. It is not a complete theory of presence. A family could obey the rule and remain emotionally absent. Another family could spend an hour sharing videos, photographs, maps, and messages on one screen while having a vivid conversation.
+
+The more durable principle is intentional shared priority.
+
+Who or what is this moment for?
+
+If the answer is the people here, remote claims should need a reason to enter.
+
+If the answer is partly the person on the video call, the room can expand deliberately.
+
+If someone is on call for an emergency, the exception can be named.
+
+Once priority is explicit, the phone stops operating as a mysterious rival.
+
+This becomes more important as devices become less visible. Smart glasses may allow a person to receive information without looking down. Earbuds can deliver a message while eye contact remains intact. AI assistants may participate silently in conversation through transcription or prompts.
+
+The old visual rule—eyes off the phone—will no longer be enough.
+
+We will need a social rule about computational participation.
+
+Is this conversation being recorded?
+
+Is an assistant listening?
+
+Are messages appearing in the field of view?
+
+Is someone else remotely present?
+
+The smartphone era gave us an unusually visible version of a problem that may soon become invisible.
+
+The third person at the table used to glow.
+
+The next one may not.
+
+That makes the lesson urgent.
+
+Presence cannot be inferred from posture alone.
+
+It has to be governed by trust, disclosure, and shared norms about who gets access to the moment.
+
+The dinner table was never sacred because glass was absent.
+
+It was sacred, when it was, because people agreed for a while about who was in the room.
