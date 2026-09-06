@@ -145,3 +145,61 @@ A pattern came back.
 Something made that return easier.
 
 The mystery begins not when we name the force, but when we trace the path.
+
+The word *independent* will do a surprising amount of work in the pages that follow.
+
+When two events resemble each other, the emotional force of the resemblance depends heavily on whether we believe the events arose independently. Two friends wearing the same common color is not astonishing. Two strangers arriving with the same obscure phrase, unusual drawing, or technical solution can feel different because the mind silently multiplies improbabilities under an assumption of separation.
+
+The assumption is often the weak point.
+
+Independence is not a visual property. Two people can sit on opposite sides of the planet and share the same search engine, training corpus, software defaults, professional literature, economic incentives, interface conventions, and news cycle. Two laboratories can have different addresses while buying from the same supplier and using descendants of the same protocol. Two companies can believe they developed a practice internally while both hired from the same consulting ecosystem.
+
+Distance is not independence.
+
+Lack of direct contact is not independence.
+
+Lack of remembered contact is not independence.
+
+This matters because apparent independent recurrence is one of the strongest intuitive arguments for a hidden connection. It is also one of the easiest intuitions to overstate in a networked civilization.
+
+The correct question is not merely whether A contacted B.
+
+It is whether A and B share ancestors in the causal graph.
+
+That ancestor might be a person. It might be a paper, a school, a standard, a market signal, a dataset, a physical constraint, a supplier, or a model. The shared ancestor can be far enough upstream that nobody involved recognizes it as transmission.
+
+This is why simultaneous invention often becomes easier near the moment when enabling conditions mature. Several groups can independently assemble the last step because earlier generations already made the first ninety-nine steps public, standardized, purchasable, or intellectually obvious.
+
+The final insight belongs to each group.
+
+The readiness belongs to the field.
+
+There is no contradiction.
+
+A similar pattern appears in ordinary life. Once a new phrase spreads widely enough, several people may believe they coined it because they absorbed its ingredients rather than the exact phrase. Once a product convention saturates interfaces, designers reproduce it without recalling a source. Once a style becomes part of the visual environment, creators can converge without tracing influence to one work.
+
+Distributed exposure creates sincere originality inside inherited possibility.
+
+This does not explain every convergence.
+
+It changes what would count as evidence for one that ordinary transmission cannot explain.
+
+A serious anomaly must survive causal ancestry, not merely social distance.
+
+That is a harder standard than asking whether the participants know each other. It is also a more modern one.
+
+The internet, global supply chains, professional standardization, and machine learning have made hidden common ancestry more common, not less. The world's causal graph has become denser while subjective experience can still feel private.
+
+This is one reason the central question of the book has become newly urgent.
+
+We are building systems that increase the reach of the past while reducing the visibility of how that reach occurs.
+
+The next recurrence may feel spontaneous precisely because the infrastructure worked so well that nobody had to notice it.
+
+The pattern that came back may have traveled farther than we think.
+
+Or it may not have traveled at all in the ordinary sense. The same constraints may have made the same solution newly reachable in several places at once.
+
+Those are different mechanisms.
+
+The book will insist on telling them apart.
