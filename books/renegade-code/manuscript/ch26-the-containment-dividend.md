@@ -431,3 +431,157 @@ That is the commercial end state worth aiming for.
 Not intelligence made timid.
 
 Authority made precise.
+
+The dividend becomes even clearer when we stop treating safety controls as pure overhead and start treating them as productive capital.
+
+A broker that can issue task-scoped credentials is infrastructure the next hundred agents can reuse.
+
+A lineage-aware audit system lowers the cost of investigating every future workflow.
+
+A payment mandate API makes one purchasing agent safer, then becomes a platform primitive for travel, procurement, reimbursements, and vendor management.
+
+A reliable quarantine path improves one containment incident and also makes ordinary rollbacks more precise.
+
+The first implementation is expensive.
+
+The marginal use becomes cheaper.
+
+That is the opposite of manual oversight.
+
+Human approval often scales linearly with activity. Double the number of consequential agent actions and, unless the approval model changes, somebody has to review roughly twice as much. The control becomes a labor bottleneck exactly when the technology starts succeeding.
+
+Infrastructure controls can scale differently.
+
+A mandate system that knows the budget does not become tired after the ten-thousandth transaction.
+
+A policy gateway does not begin clicking “approve” from habit.
+
+A lineage record does not forget why an action existed because the shift changed.
+
+Humans remain essential for judgment, exceptions, accountability, and genuinely ambiguous transitions. But they can spend that attention where it has economic value instead of being used as a generic substitute for missing architecture.
+
+This produces an attention dividend alongside the containment dividend.
+
+The organization can spend scarce human judgment on unusual consequences rather than routine permission plumbing.
+
+That may turn out to be one of the most important productivity effects of safe autonomy.
+
+The common fear is that safety slows deployment.
+
+Bad safety does.
+
+A bespoke approval meeting for every new workflow is slow. A security review that cannot describe the authority envelope is slow. An incident process that requires rotating an entire department's credentials because one agent cannot be revoked independently is slow. A compliance program that must reconstruct provenance by interviewing people is slow.
+
+Good containment replaces recurring negotiation with reusable machinery.
+
+The first deployment pays for the primitive.
+
+The later deployments inherit it.
+
+This is how regulation and procurement can become more sophisticated too.
+
+A buyer should not have to ask whether a vendor's model is “safe” in the abstract. The buyer can ask what mandate controls exist, what evidence is independently preserved, how quickly authority can be withdrawn, which actions are irreversible, and whether the buyer can set limits that remain meaningful across delegated tools.
+
+Those questions create a market for verifiable properties.
+
+Once buyers reward those properties, vendors have a reason to compete on them.
+
+A payment platform can advertise one-transaction delegation with deterministic limits.
+
+A cloud provider can compete on lineage-aware revocation latency.
+
+An enterprise application can make read, propose, approve, and execute separate machine permissions instead of collapsing them into a human role.
+
+An insurer can distinguish a company whose agents operate under measurable exposure caps from one that relies on standing credentials and policy prose.
+
+Containment becomes legible enough to price.
+
+Pricing changes behavior.
+
+This is where a private engineering virtue can become a public externality.
+
+When one company deploys a poorly contained agent, the downside may not stop at the company. The agent can contact suppliers, customers, public infrastructure, open-source projects, financial networks, and other institutions. Weak delegation exports uncertainty.
+
+Strong delegation does the opposite.
+
+It tells counterparties who sponsored the action, what authority existed, how long it lasts, and where recourse lives. The institution becomes easier to trust because its agents arrive carrying bounded mandates rather than borrowed human identities.
+
+That could become a competitive signal in its own right.
+
+Imagine two automated counterparties negotiating a routine commercial transaction. One can prove that it may commit up to a fixed amount, for a defined purpose, until a defined time, under an accountable sponsor. The other appears through a browser session belonging to an employee and claims it is authorized.
+
+Which one will mature institutions prefer to transact with?
+
+The answer points toward an economy in which containment is not hidden behind the agent.
+
+It travels with the agent as part of its credibility.
+
+The trust object is no longer “this AI is aligned.”
+
+It is “this action is inside a mandate I can understand and verify.”
+
+That is a smaller claim.
+
+It is also a much more useful one for commerce.
+
+The same logic may create a new kind of benchmark.
+
+Not a benchmark asking only what the model can accomplish.
+
+A benchmark asking what the system can accomplish while authority is constrained, observable, expiring, and revocable.
+
+Can the agent complete the task without requesting unnecessary scopes?
+
+Can it recover from a denied authority expansion by finding a narrower legitimate path?
+
+Can it preserve performance when credentials are short-lived?
+
+Can it coordinate subagents without exceeding the parent mandate?
+
+Can it produce enough independent evidence that consequential actions remain auditable?
+
+These are capability questions too.
+
+A system that performs well only when given broad standing authority is less operationally capable than its benchmark score suggests.
+
+The market will eventually notice.
+
+The most valuable agents may not be the ones that can do the most with unlimited access.
+
+They may be the ones that can do the most inside precise limits.
+
+That is a different optimization target for model builders, tool designers, and product teams.
+
+It rewards planning that is aware of consequence.
+
+It rewards asking for the minimum additional authority required.
+
+It rewards architectures that separate proposal from execution.
+
+It rewards graceful degradation when a permission is unavailable.
+
+It rewards systems that can explain why an expansion is necessary without being able to grant it themselves.
+
+Containment then stops sitting outside capability as a brake.
+
+It becomes part of what capability means in the real world.
+
+The final economic comparison is therefore not between autonomy and safety.
+
+It is between brittle autonomy and governed autonomy.
+
+Brittle autonomy can look faster in a demo because every door is already open.
+
+Governed autonomy looks slower until the organization begins operating at scale.
+
+Then the difference appears in fewer emergency freezes, narrower incidents, faster audits, cheaper experiments, more reusable approvals, more trustworthy counterparties, and a larger class of actions that can happen without a human babysitting every click.
+
+That is where the dividend compounds.
+
+The institution does not merely lose less when the agent fails.
+
+It earns more because the agent can be trusted with a larger share of useful work.
+
+Containment is valuable on the bad day.
+
+Its dividend is collected on all the ordinary days when nobody has to be afraid of using the system.
