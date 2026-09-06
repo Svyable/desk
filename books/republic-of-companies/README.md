@@ -51,8 +51,7 @@ The 2020s selection is intentionally provisional. As of September 2026, NVIDIA b
 
 ## Research
 
-- [Research brief and falsification notes](research/README.md)
-- [Source ledger](research/source-ledger.csv)
+- [Research brief and source trail](research/README.md)
 
 ## Rights
 
