@@ -181,3 +181,69 @@ In three-dimensional Navier–Stokes, we do not know whether the equation always
 In AI mathematics, we are about to find out whether verification can control generation strongly enough to preserve truth.
 
 The stretching term is where both stories stop being comfortable.
+
+There is a second way to see the criticality problem that is less visual and more brutal. Imagine zooming into a hypothetical singularity. A good estimate should not become less informative merely because the observer has changed scale. If the inequality that supposedly prevents blowup grows weaker every time the microscope zooms in, then the proof is trying to police the dangerous regime with a law whose authority disappears at the crime scene.
+
+This is why critical spaces carry such psychological weight in the subject. They are not magical spaces in which the theorem must be solved. They are spaces whose norms remain balanced under the natural rescaling of the equation, so a bound there has a chance of following a concentration process without becoming automatically irrelevant. Subcritical control is even stronger when available. Supercritical control may still matter, but only if some additional geometry, cancellation, intermittency, or local mechanism compensates for the bad scaling.
+
+An AI proof-search system should therefore carry scaling as metadata attached to every mathematical object it generates. Not a note in a report. A type of warning.
+
+A candidate functional enters the graph. The system computes how it transforms. A proposed interpolation step enters. The exponents are checked against scale. A numerical profile appears. Its normalization is compared with the same transformation. A regularity criterion is retrieved from the literature. Its criticality is recorded next to its hypotheses. A proposed contradiction argument uses compactness. The system asks whether the compactness survives the rescaling sequence that would arise near a singular point.
+
+This would turn a habit of expert analysts into infrastructure.
+
+The gain is not merely catching arithmetic mistakes. Scaling can expose a false research story before the details consume anyone. A generated argument may contain twenty locally correct inequalities and still be strategically doomed because every passage to a smaller scale pays a factor the proof never recovers. A language model can make such an argument read beautifully. A scaling ledger makes the debt visible.
+
+Vorticity geometry supplies another ledger.
+
+Magnitude alone does not tell the whole story because the stretching term depends on the relation between the vorticity direction and the strain. Two regions with the same vorticity magnitude can have very different production. This opens a family of questions about coherence: how rapidly can vortex direction turn in a region where magnitude is large? Can intense vorticity remain aligned with the strain direction that amplifies it? Can incompressibility and the nonlocal Biot–Savart-type relationship between velocity and vorticity create self-limiting geometry?
+
+Researchers have built regularity conditions around versions of these questions for decades. None has closed the general problem. Their importance for AI is methodological. They demonstrate that a useful observable may be relational rather than scalar.
+
+Models are naturally tempted to search for one number to bound. Maximum vorticity. Enstrophy. A critical norm. The geometry suggests richer candidates: distributions of alignment angles, scale-dependent coherence, conditional quantities concentrated on regions of large vorticity, or decompositions separating interactions that amplify from those that cancel.
+
+This is where numerical search could become genuinely creative rather than merely confirmatory.
+
+Take large ensembles of high-resolution smooth flows. Do not ask only which runs exhibit the greatest vorticity growth. Ask which local geometric statistics consistently precede growth and which precede depletion. Search for dimensionless combinations that remain stable across rescalings and across different initial data. Use symbolic agents to differentiate those combinations along the PDE. Reject anything whose apparent sign is a numerical accident. Then challenge the survivors on adversarial synthetic fields chosen to maximize the supposedly controlled term.
+
+The objective is not to infer a theorem from data.
+
+It is to let data propose what mathematics should try to prove.
+
+There is an important analogy with the Beale–Kato–Majda criterion for the three-dimensional Euler equation. In that neighboring inviscid problem, breakdown of a smooth solution is tied to divergence of a time integral of the supremum norm of vorticity. Navier–Stokes has its own continuation and regularity criteria, with viscosity changing the analysis substantially, but the general research pattern is instructive: reduce an amorphous singularity question to the behavior of a quantity that has clear physical and mathematical meaning.
+
+An AI system should learn criteria as conditional sensors.
+
+Each sensor says: catastrophe cannot occur unless this meter misbehaves.
+
+No individual sensor solves the problem. A sufficiently rich panel might reveal that every plausible blowup scenario has to trigger several meters in a coordinated way. The search can then move from “prove global regularity” to “is there a dynamical configuration capable of satisfying all of these necessary conditions simultaneously?”
+
+That question is much better suited to computation.
+
+One can search for approximate flows that push several critical quantities toward their dangerous regimes at once. If no candidate appears, that is not proof. If candidates do appear, they become stress tests for proposed inequalities. A proof idea that succeeds only on generic flows but fails exactly on the numerically discovered near-extremizers is not the proof we need.
+
+The pressure field complicates every geometric story because it makes the equation nonlocal. In incompressible flow, pressure is determined by the velocity field through an elliptic relation. A violent configuration in one location can influence the pressure response elsewhere. This is one reason local pictures of vortex tubes can mislead. The equation does not decompose into independent little fluid parcels whose stretching can be judged in isolation.
+
+For a research agent, nonlocality is another reason to move between representations. Physical space makes geometry visible. Fourier space makes scale interactions visible. Vorticity emphasizes rotation. Velocity-pressure formulation keeps the constraint explicit. Littlewood–Paley decompositions isolate frequency bands. No single representation owns the truth.
+
+The machine advantage may be that changing representation is cheap.
+
+The machine danger is that changing representation is where hidden assumptions breed.
+
+Every translation should therefore carry an equivalence proof or a declared domain of validity. The system should know when a Fourier argument assumes the whole space or periodicity, when an integration by parts uses decay, when a pressure representation invokes a singular-integral theorem, when a vorticity statement presupposes enough differentiability to take curls in the classical sense.
+
+The stretching term is not merely a term in an equation.
+
+It is an interface where physics, geometry, scaling, function spaces, and representation all meet.
+
+That is why it remains such a productive target after decades of work. It supplies many ways to be almost right.
+
+A future AI system will be able to generate those almost-right arguments faster than any human community in history. The useful system will be the one that recognizes which almost is fatal.
+
+If the final smoothness proof exists, I suspect it will make vortex stretching look less like an uncontrolled source term and more like a mechanism whose most dangerous configurations carry their own cost somewhere else in the equation. Perhaps that cost is geometric. Perhaps spectral. Perhaps it appears only after a decomposition nobody currently regards as natural. Perhaps the truth is instead that no such universal compensation exists and a singular flow can be constructed.
+
+Either way, the decisive step will have to respect the scale at which the stretching becomes dangerous.
+
+There is no escaping into a coarser estimate.
+
+The microscope is part of the theorem.
