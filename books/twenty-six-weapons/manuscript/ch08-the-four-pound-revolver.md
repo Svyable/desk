@@ -235,3 +235,87 @@ Samuel Colt entered the decade as an inventor whose firearms company had collaps
 He left it on the way to becoming an industrialist.
 
 The bridge between those identities weighed more than four pounds and fit, barely, in a holster.
+
+The Army's own artifact history makes the scale and timing unusually concrete. The weapon weighed about four pounds nine ounces, carried six .44-caliber chambers, and emerged from Walker's 1846 recommendations after his experience with earlier Colts. The government contract covered roughly one thousand revolvers for mounted service, with a small additional production beyond that.
+
+This was not mass production by later American standards.
+
+It was enough production to change which company would be available for the next order.
+
+That is the key industrial asymmetry. A government does not have to buy millions of units to alter a market. It can validate a supplier at a moment when validation is scarce. A first meaningful contract can finance tooling, prove that procurement officers will accept the product category, train workers, reveal defects, and make follow-on capital easier to obtain.
+
+The thousand Walkers were therefore partly weapons and partly credentials.
+
+Colt could now point to the U.S. Army as a customer.
+
+The Army could point to a fielded revolver rather than a patent claim.
+
+Other buyers could treat the mechanism as less speculative.
+
+A market begins to coordinate around evidence.
+
+The evidence was not uniformly flattering.
+
+Smithsonian research notes that the Army's first experience with the Walker exposed serious safety and training issues. Some soldiers had never handled a revolver. Some cylinders ruptured. The combination of heavy powder charges, nineteenth-century metallurgy, and unfamiliar operating practices created hazards. There were also reports of multiple chambers discharging when users mishandled the weapon.
+
+The defects did not erase the category.
+
+They taught the category what needed fixing.
+
+This is what separates a failed innovation from a learning platform. The Paterson's shortcomings had been entangled with a company that was running out of money. The Walker's shortcomings appeared inside a customer relationship that generated the next design. The commercial system now had enough continuity to improve rather than simply collapse.
+
+Colt's follow-on Dragoon revolvers reduced some of the Walker's problems. They did not represent a retreat from the repeating handgun. They represented confidence that the core idea was valuable enough to refine.
+
+That is a profound threshold in technology adoption.
+
+Before the threshold, a defect is evidence the entire concept may be wrong.
+
+After the threshold, the same defect is a line item for the next version.
+
+The difference is not mechanical.
+
+It is institutional belief.
+
+The government had moved from asking whether a revolver was worth buying at all to asking how a revolver should be improved.
+
+Colt had moved from asking whether he could stay in the gun business to deciding what kind of gun business to build.
+
+The Walker order sits exactly at that hinge.
+
+Its significance also depends on a manufacturing irony. Eli Whitney's name had already become entangled with American stories about interchangeable parts, often more cleanly than the historical evidence warrants. Decades later, Colt turned to Whitney's son and the Whitney armory to manufacture the contract that revived him. The public story of the genius inventor again depended on somebody else's shop floor.
+
+American arms history keeps doing this.
+
+The name on the gun is not the whole production system.
+
+The famous designer does not machine every part.
+
+The branded company may not own the capacity that saves it.
+
+Manufacturing networks appear whenever mythology is pushed hard enough.
+
+That fact matters especially in the 1840s because the country was expanding geographically faster than many of its institutions could mature. Mounted forces were operating over great distances. Supply lines were long. Communications were slow. A weapon that gave one rider several immediate shots had practical value precisely because the surrounding system could not always provide instant reinforcement.
+
+The revolver concentrated a small amount of reserve capability in the individual.
+
+Later American weapons often do the reverse: they make the individual look powerful while actually making him more dependent on distant systems. A modern soldier carrying a precision-enabled weapon may rely on satellite navigation, batteries, encrypted radios, digital maps, maintenance pipelines, and a national industrial base that is invisible from the firing position.
+
+The Walker belonged to a more physically self-contained era.
+
+Even so, its historical importance came from the system around it.
+
+A user who remembered the failed first model.
+
+A war that created urgency.
+
+An Army willing to place an order.
+
+A contractor with available machinery.
+
+A patent holder prepared to try again.
+
+A government purchase large enough to turn failure into iteration.
+
+The revolver's six chambers are the easiest part to see.
+
+The resurrection mechanism sits outside the gun.
