@@ -132,7 +132,73 @@ A magnetic bit is static until written. A spin wave is inherently dynamic. Its f
 
 That property makes them interesting for reservoir computing, where temporal context is the point.
 
-The next chapter turns to that architecture in detail. The important transition has already occurred.
+One of the hardest problems for any wave computer is *cascadability*.
+
+A single interferometer can perform an elegant operation. A processor needs the output of one operation to become the input of another without the signal disappearing or becoming ambiguous. Digital logic solves this with restoration. A transistor stage accepts a degraded input within a valid range and produces a fresh output near a standard voltage level. Noise does not simply accumulate forever.
+
+Purely passive wave networks have no automatic equivalent.
+
+Every path loses amplitude. Phase error accumulates. Split a wave into two branches and each receives less energy. Recombine many stages and the final signal can become too weak to distinguish from noise. Amplification can restore amplitude, but the amplifier brings power, noise, nonlinearity and integration cost.
+
+This is why a beautiful two-stage demonstration is not automatically a scalable logic family.
+
+A practical magnonic architecture may avoid deep cascades and instead perform a substantial transform in one propagation region. That pushes the technology toward filters, spectral processors, correlators and accelerators rather than a transistor-for-transistor replacement.
+
+The architecture should fit the physics.
+
+Wave velocity introduces another subtle constraint. Frequency tells us how quickly a local oscillation repeats. Group velocity tells us how quickly information carried by a wave packet propagates. A material can support a very high resonance frequency while useful signals still travel at speeds and distances set by its dispersion and damping.
+
+High frequency is not the same thing as low latency.
+
+A tiny device can still be fast because the path is short. This again rewards local specialization. A wave that decays after tens of micrometers may be useless as a chip-wide interconnect and excellent for a compact processor whose entire operation fits inside that distance.
+
+The relevant quantity is work per propagation length.
+
+If the medium performs a useful transformation continuously as the wave travels, damping can be tolerated because the signal has accomplished something before it dies. If the medium is being used merely as a wire, damping is pure loss.
+
+This distinction is why comparing magnonics to copper only on transmission distance misses the point.
+
+The more compelling comparison is to a sequence of electronic components that would implement the same filter or transform.
+
+Wavelength also becomes a design resource. Shorter wavelengths can support finer spatial structures and denser interference networks, but exciting and detecting them can become harder. A transducer has physical dimensions and coupling efficiency. An antenna efficient at one wavelength may be poorly matched to another.
+
+The smallest wave is not automatically the most useful wave.
+
+The optimum emerges from the triangle of wavelength, damping and transduction.
+
+This makes transducers one of the most important and least glamorous layers in magnonics. An electronic system must convert voltage or current into a spin-wave excitation and convert the resulting dynamics back into an electrical signal unless the next stage is also magnetic. Inductive antennas are conceptually simple and can become inefficient at nanoscale. Spin-torque mechanisms offer another route. Magnetoelectric coupling may eventually provide more local voltage-controlled excitation. Optical methods are powerful in laboratories and often expensive as embedded interfaces.
+
+The winning architecture may be determined by the converter rather than the medium.
+
+This is common in energy and information systems. Hydrogen can store energy, but electrolyzers and fuel cells determine much of the round-trip efficiency. Optical communication can carry enormous bandwidth, but modulators and detectors determine interfaces. Quantum states can perform specialized operations, but control and readout dominate the machine around them.
+
+A physical layer is only as useful as its transduction boundary.
+
+Magnonic systems also have a possible advantage precisely because they can couple to several neighboring domains. Magnons interact with microwave photons, phonons and magnetic textures. Hybrid systems can translate among spin, electromagnetic and mechanical excitations. In quantum experiments, strongly coupled magnon-photon systems are studied as controllable collective modes. In classical devices, magnetoelastic coupling can make strain another tuning channel.
+
+Every coupling creates a bridge and a loss path.
+
+This is where magnetecture earns its systems emphasis. A hybrid device should not be celebrated for having many couplings. It should use the minimum set of couplings that performs the task efficiently.
+
+Control creates another tension. A global bias magnetic field can tune an entire magnonic circuit conveniently and consumes space or magnet infrastructure. Local current lines can tune small regions and produce heat. Voltage-controlled magnetoelectric elements could provide lower-power local tuning if materials and interfaces become strong enough. Permanent magnetic patterns can define passive routing with no runtime energy and no runtime flexibility.
+
+The field landscape can therefore be divided into fixed, slowly programmable and rapidly variable regions.
+
+That hierarchy resembles the body-state hierarchy in magnetic soft matter. Some of the circuit is manufactured. Some is configured between tasks. Some is modulated during each operation.
+
+Reconfigurability should be assigned only where its value exceeds its cost.
+
+A filter in a radio that always rejects the same band does not need a fully programmable magnetic landscape. A scientific instrument scanning many frequency ranges might. A neuromorphic processor adapting to a changing sensor stream might benefit from tunable dynamics. A fixed high-volume product may prefer a passive patterned structure because reproducibility beats flexibility.
+
+This makes programmability a business variable as much as a physical one.
+
+Calibration can also be designed into the signal itself. Instead of pausing the device for a separate test, a system can inject reference tones through unused frequency channels and monitor their phase and amplitude. Drift in the references reveals changes in the magnetic transfer function. The controller can correct operating parameters while useful signals continue to flow.
+
+Telecommunications already uses pilots and training sequences for related reasons. A future wave processor could adopt the same philosophy: never assume the medium is ideal; continuously estimate it.
+
+That is another path by which mature signal engineering can domesticate exotic physics.
+
+The next chapter turns to reservoir computing, where imperfection is used more aggressively. The important transition has already occurred.
 
 We began with a magnet as a solid object. Then magnetic state became a bit. Then magnetic texture became a movable information object.
 
