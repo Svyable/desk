@@ -1,0 +1,19 @@
+name: Validate The Other 250
+
+on:
+  pull_request:
+    paths:
+      - 'books/the-other-250/**'
+      - 'scripts/check-book-length.py'
+      - 'scripts/check-desk.py'
+      - '.github/workflows/validate-the-other-250.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Exact book length
+        run: python3 scripts/check-book-length.py the-other-250 --json
+      - name: Desk integrity
+        run: python3 scripts/check-desk.py
