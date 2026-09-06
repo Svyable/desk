@@ -2,7 +2,7 @@ import {
   READER_PRESENTATION_OPTIONS,
   READER_PRESENTATION_VERSION,
   normalizeReaderPresentation,
-} from 'https://svyable.github.io/shelf/reader/js/presentation.js';
+} from './reader-presentation-contract.js';
 
 const THEME_META = {
   light: { label: 'Paper', page: '#F7F3EC', ink: '#2B2621', accent: '#8F623A' },
