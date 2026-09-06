@@ -1,15 +1,54 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {
-  chapterResumeLabel,
-  relativeSavedLabel,
-  slugFromContinueHref,
-} from './desk-library-current-book-model.js';
 
 let assertions = 0;
 const equal = (...args) => { assertions += 1; assert.equal(...args); };
 const match = (...args) => { assertions += 1; assert.match(...args); };
 const doesNotMatch = (...args) => { assertions += 1; assert.doesNotMatch(...args); };
+
+const sourceUrl = new URL('./desk-library-current-book.js', import.meta.url);
+const source = fs.readFileSync(sourceUrl, 'utf8');
+const css = fs.readFileSync(new URL('../css/desk-library-current-book.css', import.meta.url), 'utf8');
+const loader = fs.readFileSync(new URL('./app-loader.js', import.meta.url), 'utf8');
+const worker = fs.readFileSync(new URL('../sw.js', import.meta.url), 'utf8');
+
+function exportedFunctionSource(name) {
+  const marker = `export function ${name}`;
+  const start = source.indexOf(marker);
+  if (start < 0) throw new Error(`missing exported helper ${name}`);
+  const bodyStart = source.indexOf('{', start);
+  if (bodyStart < 0) throw new Error(`missing body for exported helper ${name}`);
+  let depth = 0;
+  for (let index = bodyStart; index < source.length; index += 1) {
+    if (source[index] === '{') depth += 1;
+    if (source[index] === '}') {
+      depth -= 1;
+      if (depth === 0) return source.slice(start, index + 1).replace(/^export\s+/, '');
+    }
+  }
+  throw new Error(`unterminated exported helper ${name}`);
+}
+
+const canonicalParseHash = (hash = '#/') => {
+  const raw = (hash || '#/').replace(/^#/, '');
+  const parts = raw.split('/').filter(Boolean);
+  if (parts[0] !== 'b' || !parts[1]) return { slug: null };
+  return { slug: decodeURIComponent(parts[1]) };
+};
+
+const helperSource = [
+  'relativeSavedLabel',
+  'chapterResumeLabel',
+  'slugFromContinueHref',
+].map(exportedFunctionSource).join('\n\n');
+const {
+  relativeSavedLabel,
+  chapterResumeLabel,
+  slugFromContinueHref,
+} = Function(
+  'parseHash',
+  `"use strict";\n${helperSource}\nreturn { relativeSavedLabel, chapterResumeLabel, slugFromContinueHref };`
+)(canonicalParseHash);
 
 const now = Date.UTC(2026, 8, 5, 20, 0, 0);
 equal(relativeSavedLabel(now - 20_000, now), 'Saved just now');
@@ -26,21 +65,28 @@ const meta = { contents: [
 equal(chapterResumeLabel(meta, { chapter: 'chapter-one' }), 'The first room · 2 of 3');
 equal(chapterResumeLabel(meta, { chapter: 'missing' }), '');
 equal(slugFromContinueHref('#/b/warm-library/chapter-one/42'), 'warm-library');
+equal(slugFromContinueHref('#/b/warm%20library/chapter-one/42'), 'warm library');
 equal(slugFromContinueHref('#/'), '');
-
-const source = fs.readFileSync(new URL('./desk-library-current-book.js', import.meta.url), 'utf8');
-const css = fs.readFileSync(new URL('../css/desk-library-current-book.css', import.meta.url), 'utf8');
-const loader = fs.readFileSync(new URL('./app-loader.js', import.meta.url), 'utf8');
-const worker = fs.readFileSync(new URL('../sw.js', import.meta.url), 'utf8');
 
 match(source, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/base\.js/);
 match(source, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/catalog\.js/);
+match(source, /import \{ parseHash \} from 'https:\/\/svyable\.github\.io\/shelf\/reader\/js\/router\.js';/);
 match(source, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/progress-position\.js/);
+doesNotMatch(source, /desk-library-current-book-model/);
+doesNotMatch(source, /function finite\(/);
+match(source, /export function relativeSavedLabel/);
+match(source, /const saved = Number\(savedAt\)/);
+match(source, /const elapsed = Math\.max\(0, now - saved\)/);
+match(source, /export function chapterResumeLabel/);
+match(source, /export function slugFromContinueHref/);
+match(source, /const route = parseHash\(String\(href \|\| ''\)\)/);
 match(source, /firstExisting\(coverCandidates\(slug\)\)/);
 match(source, /requestIdleCallback/);
 match(source, /setAttribute\('aria-label'/);
 match(source, /card\.dataset\.currentBookReady = 'fallback'/);
 match(source, /document\.body\.dataset\.stage !== 'library'/);
+
+equal(fs.existsSync(new URL('./desk-library-current-book-model.js', import.meta.url)), false);
 match(css, /\.continue-book-object/);
 match(css, /\.continue-book-meter-fill/);
 match(css, /#continueCardLink:focus-visible/);
@@ -50,10 +96,10 @@ match(css, /forced-colors:active/);
 match(css, /prefers-reduced-motion:reduce/);
 doesNotMatch(css, /body\[data-stage="read"\]/);
 doesNotMatch(css, /--reader-page-/);
-match(loader, /desk-library-current-book\.js\?v=bookself-20260905/);
+match(loader, /desk-library-current-book\.js\?v=bookself-20260906/);
 
-// This enhancement is deliberately nonessential to shell installation. A cold
+// This enhancement remains deliberately nonessential to shell installation. A cold
 // offline launch keeps the canonical Continue card instead of failing Reader install.
 doesNotMatch(worker, /desk-library-current-book/);
 
-console.log(`Desk current-book resume promotion: ${assertions} assertions passed`);
+console.log(`Desk current-book adapter contract: ${assertions} assertions passed`);
