@@ -110,6 +110,36 @@ Shays’ men lost the right to name what happened. Their opponents won the state
 
 But they did not disappear from the constitutional order they helped frighten into existence.
 
+The temptation here is to turn sequence into causation. Nationalists had been arguing for a stronger union before the Massachusetts crisis. The Annapolis Convention met in September 1786, while the western unrest was developing, and called for a broader convention. Problems with interstate commerce, public credit, requisitions, diplomacy, and the Confederation’s inability to act collectively were already pushing leaders toward institutional revision. Philadelphia was not invented by the men outside Massachusetts courthouses.
+
+Shays’ Rebellion did something more precise. It changed the emotional evidence available to people already making the argument. Weak government was no longer only a ledger of unpaid requisitions or a diplomatic embarrassment. It could be pictured as courts unable to sit, an arsenal under threat, a state scrambling to finance force, and a former commander in chief reading alarming reports from friends. Political theory acquired an event.
+
+That distinction matters because movements are often credited with creating changes that were already incubating. The stronger historical claim is frequently acceleration. A protest supplies urgency, a deadline, a constituency, a symbol, or a demonstration effect to an argument that institutions already contain. The Tea Party did not invent colonial constitutional resistance. Shays did not invent constitutional reform. Montgomery would not invent the legal attack on bus segregation. ACT UP would not invent AIDS science. Importance lies in changing the probability and speed of institutional movement, not in receiving sole authorship for everything that follows.
+
+Washington’s reaction illustrates the mechanism. His private correspondence registered anxiety about the disorder and the standing of republican government. Those letters are valuable because they show how a prominent observer processed the crisis, not because his alarm proves the Regulators were wrong. An elite source tells us what frightened an elite. That fear becomes historically consequential when the frightened person has influence over institutional design.
+
+The same evidence can therefore support two different propositions. Western farmers faced real material pressures and believed Massachusetts government was insufficiently responsive. National leaders saw armed court closures and feared that republican government lacked adequate capacity. Both propositions can be true. The constitutional settlement that followed answered the second more decisively than the first.
+
+This asymmetry is one reason the rebellion wins the 1780s. It connected local hardship to national state-building in a way few other protests of the decade did. The Pennsylvania Line mutiny of 1781 and the soldiers’ protest in Philadelphia in 1783 had already shown that veterans and soldiers could confront public authorities over pay and conditions. State-level movements pressed debt and tax relief elsewhere. Antislavery activism continued to test the Revolution’s language. Indigenous nations resisted U.S. expansion with consequences far greater than the conventional category of domestic protest can comfortably hold. The decade was not waiting for Daniel Shays to discover dissent.
+
+But Shays’ Rebellion entered the founding argument at exactly the moment the architecture of the republic was being reopened. Timing multiplied its influence.
+
+That is another rule worth carrying forward. Historical importance is not the same thing as moral or organizational quality. A movement can matter enormously because it collides with an institution at a moment when the institution is unusually revisable. The same protest five years earlier or five years later may produce less. Political systems have windows in which pressure travels farther.
+
+The Massachusetts crisis arrived inside one of the largest such windows in American history.
+
+The response also shows that suppression and concession can coexist. The state did not choose between enforcing court authority and changing policy. It did both over time. Armed resistance was defeated, leaders were prosecuted, and order was restored. Then elections and legislation altered the governing coalition and softened parts of the economic regime that had fed unrest. This dual response is easy to miss because histories prefer a verdict: either the rebels were crushed or the people were heard.
+
+Republics often survive by doing some of each.
+
+The difficult question is sequence. If relief comes only after coercion, citizens may learn that disruption is what makes government listen. If relief comes too readily in response to armed obstruction, officials may fear teaching that force outranks ballots. Every administration facing disruptive protest inherits some version of this dilemma.
+
+The lesson is not that one side had a formula. It is that institutions teach future protesters through the consequences they attach to tactics.
+
+Shays’ Rebellion taught several lessons at once. Courthouse obstruction could stop immediate legal harm. Escalation toward an arsenal could trigger lethal force. Elite fear could travel nationally. Electoral turnover could produce policy relief. And a rebellion aimed partly against burdensome government could strengthen the case for a government with more coercive and fiscal capacity.
+
+That last lesson is the one movements can never fully control.
+
 The United States that emerged from the 1780s was stronger than the confederation that entered them. It had also received an early warning: citizens who believe government is closing its doors to them may eventually close the courthouse doors themselves.
 
 That is not a defense of armed obstruction. It is a description of the political sequence.
