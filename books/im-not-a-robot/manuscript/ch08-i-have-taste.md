@@ -228,6 +228,108 @@ Feedback loops can be helpful. A language-learning app observes errors, selects 
 
 The ethical problem depends on whether the direction of change aligns with the person’s interest and whether the person can see or contest what is happening.
 
+There is a technical version of this concern too. Researchers studying recommendation feedback have shown how a system can become confounded by the fact that it learns from data generated under its own prior recommendations. The user’s behavior is not sampled from some untouched preference landscape. It arrives after ranking, exposure, position, repetition, and prior model choices have already shaped what could be selected.
+
+This matters because a recommender can become increasingly confident while the evidence becomes increasingly endogenous.
+
+The model says, you keep choosing this.
+
+The user says, you keep showing me this.
+
+Both are right.
+
+The system has learned a preference partly from a world it helped arrange.
+
+Human social life has always contained this structure. A child praised for drawing draws more. A teenager introduced to one scene through friends spends more time in that scene. A city resident learns the restaurants within walking distance. A reader follows the writers reviewed by the publications they already read. Exposure and preference are braided long before algorithms arrive.
+
+The difference is that algorithmic systems can tighten the braid quickly, privately, and at enormous scale.
+
+A newspaper editor once made one front page for many readers. A recommendation system can make millions of front pages, each informed by a history of prior response. A record-store clerk might remember that you like jazz. A platform can remember every skip, replay, search, save, and abandonment, then update the next shelf before you return.
+
+Personalization increases relevance.
+
+It can also reduce the number of accidents that used to leak through shared environments.
+
+The song playing because somebody else chose it.
+
+The newspaper story beside the one you came for.
+
+The book visible on a friend’s table.
+
+The restaurant selected because your first choice was closed.
+
+The boring lecture that contains one idea you did not know to request.
+
+Accident is a terrible optimization objective.
+
+It is also one of the ways a life acquires material it would never have specified in advance.
+
+A system designed only around known preference can therefore serve the current person so efficiently that it undersupplies the future person.
+
+This is an exploration problem in the ordinary sense before it is a technical one.
+
+How much of my attention should go toward things I am unlikely to choose today because they might change what I can choose tomorrow?
+
+There is no universal answer.
+
+Some evenings I want exactly the familiar show.
+
+Sometimes comfort is the point.
+
+A person recovering from a difficult day does not owe the culture an adventurous streaming session. Convenience is a real good. Familiarity is a real good. Personalization can rescue people from irrelevant abundance and help obscure creators find audiences that old gatekeepers would never have served.
+
+The counterargument matters.
+
+A less personalized world was not automatically a more diverse one. Broadcast systems could be narrow. Retail shelf space excluded almost everything. Critics and institutions had their own blind spots. Geography constrained discovery brutally. A recommender can expose a listener in a small town to music from a scene they would never have encountered locally. It can surface a book after the physical store stopped carrying it. It can help niche communities find one another.
+
+So the choice is not algorithmic tunnel versus glorious pre-algorithmic openness.
+
+It is one selection system versus another, with different powers and incentives.
+
+The useful design question is whether the person can influence the mode of selection.
+
+Give me comfort tonight.
+
+Surprise me this weekend.
+
+Show me why this is outside my usual pattern.
+
+Let me temporarily erase the profile.
+
+Build a playlist from somebody unlike me.
+
+Do not optimize this session from my history.
+
+Tell me what I am not seeing.
+
+These controls would make recommendation less magical and more legible.
+
+That may be a feature.
+
+The best personal systems may need more than a taste profile. They may need a declared exploration budget.
+
+Not a number necessarily.
+
+A stance.
+
+How much should this system protect my established preferences, and how much should it help me test them?
+
+The answer will differ by domain. I want my allergy constraints treated as hard rules. I do not want my reading habits treated that way. I may want a travel system to remember that I hate overnight flights and a music system to occasionally ignore what I think I hate.
+
+A system that calls all of these “preferences” loses important structure.
+
+Some are comforts.
+
+Some are commitments.
+
+Some are constraints.
+
+Some are identities.
+
+Some are prejudices I would like help weakening.
+
+Some are simply yesterday.
+
 Taste systems rarely state the direction so plainly.
 
 They simply recommend.
