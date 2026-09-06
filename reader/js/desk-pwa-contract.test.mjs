@@ -8,7 +8,7 @@ const manifest = JSON.parse(fs.readFileSync(new URL('../manifest.webmanifest', i
 const catalogManifest = JSON.parse(fs.readFileSync(new URL('../../catalog.json', import.meta.url), 'utf8'));
 
 assert.equal(manifest.id, './');
-assert.equal(manifest.name, 'Svyable Desk Reader');
+assert.equal(manifest.name, 'Sven Hardy Benson’s Desk');
 assert.equal(manifest.start_url, './');
 assert.equal(manifest.scope, './');
 assert.equal(catalogManifest.version, 1);

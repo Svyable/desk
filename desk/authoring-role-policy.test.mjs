@@ -18,12 +18,12 @@ equal(desk.hideLandingHero, true);
 equal(desk.hidePublishedSummary, true);
 equal(desk.hidePublishedFilter, true);
 equal(desk.readySummaryLabel, 'Ready to release');
-equal(desk.documentTitle, 'Publishing Desk · Svyable');
-equal(desk.documentDescription, 'Svyable Desk is the local-first authoring workspace for working manuscripts before deliberate release.');
-equal(desk.brandEyebrow, 'Svyable');
-equal(desk.homeLabel, 'Svyable home');
+equal(desk.documentTitle, 'Publishing Desk · Sven Hardy Benson');
+equal(desk.documentDescription, 'Sven Hardy Benson’s Desk is the local-first authoring workspace for working manuscripts before deliberate release.');
+equal(desk.brandEyebrow, 'Sven Hardy Benson');
+equal(desk.homeLabel, 'Sven Hardy Benson home');
 equal(desk.skipLinkLabel, 'Skip to publishing workspace');
-equal(desk.footerText, 'Svyable Desk reads repository content only. Manuscript edits still happen through normal Git commits and pull requests.');
+equal(desk.footerText, 'Sven Hardy Benson’s Desk reads repository content only. Manuscript edits still happen through normal Git commits and pull requests.');
 
 const remoteDesk = authoringRolePolicy({ role: 'desk', remoteInspection: true });
 equal(remoteDesk.localDesk, false);
@@ -64,8 +64,8 @@ equal(initialLocal.localDesk, true);
 equal(initialLocal.hideLandingHero, true);
 equal(initialLocal.hidePublishedSummary, true);
 equal(initialLocal.readySummaryLabel, 'Ready to release');
-equal(initialLocal.documentTitle, 'Publishing Desk · Svyable');
-equal(initialLocal.brandEyebrow, 'Svyable');
+equal(initialLocal.documentTitle, 'Publishing Desk · Sven Hardy Benson');
+equal(initialLocal.brandEyebrow, 'Sven Hardy Benson');
 
 const initialRemote = initialAuthoringRolePolicy({ remoteInspection: true });
 equal(initialRemote.localDesk, false);

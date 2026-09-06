@@ -12,7 +12,7 @@ function equal(actual, expected) { assertions += 1; assert.equal(actual, expecte
 function deepEqual(actual, expected) { assertions += 1; assert.deepEqual(actual, expected); }
 function ok(value) { assertions += 1; assert.ok(value); }
 
-const portal = `# Svyable Desk
+const portal = `# Sven Hardy Benson’s Desk
 
 ## The books
 

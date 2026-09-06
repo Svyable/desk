@@ -1,6 +1,6 @@
-# Svyable Desk
+# Sven Hardy Benson’s Desk
 
-> Working drafts of Svyable books. Desk is a writing and revision surface; released editions live on Svyable Shelf.
+> Working drafts of Sven Hardy Benson’s books. Desk is a writing and revision surface; released editions live on Sven Hardy Benson’s Shelf.
 
 This file is the low-noise machine-readable map of the Desk. Working drafts can change at any time. Do not infer publication from presence here.
 
@@ -134,4 +134,4 @@ A Desk Reader route has the form:
 
 `https://svyable.github.io/desk/reader/#/b/<slug>/`
 
-The Reader route is a working proof, not a publication marker. Released editions are separate snapshots on Svyable Shelf.
+The Reader route is a working proof, not a publication marker. Released editions are separate snapshots on Sven Hardy Benson’s Shelf.

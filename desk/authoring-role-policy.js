@@ -7,14 +7,14 @@ const GENERIC_IDENTITY = Object.freeze({
   footerText: 'Bookself Publishing Desk reads repository content only. Manuscript edits still happen through normal Git commits and pull requests.',
 });
 
-const SVYABLE_DESK_IDENTITY = Object.freeze({
-  owner: 'Svyable',
-  name: 'Svyable Desk',
+const SVEN_DESK_IDENTITY = Object.freeze({
+  owner: 'Sven Hardy Benson',
+  name: 'Sven Hardy Benson’s Desk',
 });
 
 function localIdentity(identity = {}) {
-  const owner = String(identity.owner || SVYABLE_DESK_IDENTITY.owner).trim() || SVYABLE_DESK_IDENTITY.owner;
-  const name = String(identity.name || SVYABLE_DESK_IDENTITY.name).trim() || SVYABLE_DESK_IDENTITY.name;
+  const owner = String(identity.owner || SVEN_DESK_IDENTITY.owner).trim() || SVEN_DESK_IDENTITY.owner;
+  const name = String(identity.name || SVEN_DESK_IDENTITY.name).trim() || SVEN_DESK_IDENTITY.name;
   return Object.freeze({
     documentTitle: `Publishing Desk · ${owner}`,
     documentDescription: `${name} is the local-first authoring workspace for working manuscripts before deliberate release.`,
@@ -44,6 +44,6 @@ export function initialAuthoringRolePolicy({ remoteInspection = false } = {}) {
   return authoringRolePolicy({
     role: remoteInspection ? 'instance' : 'desk',
     remoteInspection,
-    identity: remoteInspection ? {} : SVYABLE_DESK_IDENTITY,
+    identity: remoteInspection ? {} : SVEN_DESK_IDENTITY,
   });
 }
