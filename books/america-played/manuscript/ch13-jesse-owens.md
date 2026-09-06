@@ -209,3 +209,39 @@ A country can ask an athlete to represent freedom in public and deny him freedom
 The image is still heroic.
 
 The contradiction is the history.
+
+There is a second reason Berlin survives so powerfully: the stopwatch narrowed the room available for propaganda. A regime could decide who belonged in a school, neighborhood, profession, party, or army. It could not, in the moment of a sanctioned Olympic final, make Owens’s time slower by decree. The event’s legitimacy depended on accepting the measurement. That is why sport can become politically useful to people excluded elsewhere. It offers bounded spaces where a result has to be acknowledged even when the person producing it is not treated equally outside the boundary.
+
+This does not make sport naturally just. Access to the starting line is political. Coaching, travel, selection, nutrition, facilities, and amateur eligibility all distribute opportunity before the clock begins. The apparent purity of the result can hide unequal routes into the result. Owens’s achievement is more impressive, not less, when the conditions around it are restored to the picture.
+
+The same distinction helps explain why the Berlin story is larger than the familiar claim that he embarrassed Hitler. A personal humiliation narrative makes the dictator the audience whose reaction validates the athlete. Owens does not need Hitler’s face to establish importance. His four victories mattered to competitors, spectators, Black newspapers, American newspapers, Olympic record keeping, and generations of people who later used the event to argue about race and citizenship. The meaning was distributed, not bestowed by one man in a reviewing stand.
+
+The strongest challenger for the decade is Joe Louis, and the comparison makes the selection sharper. Louis’s 1938 destruction of Schmeling may have produced an even more concentrated American mass audience, and boxing’s one-on-one structure made its racial symbolism brutally legible. Louis also held the heavyweight championship, the most culturally charged individual title in American sport. If the question were the single most politically explosive American sporting event of the late 1930s, Louis has a formidable case.
+
+Owens still wins the decade because Berlin connected more systems at once. He stood inside an explicitly international competition organized by a dictatorship for propaganda; he represented the United States in uniform; his success touched four events rather than one bout; the boycott dispute had already made participation a political question before he arrived; and the contradiction between foreign racism and American segregation traveled home with him. Louis’s story leads directly into the war. Owens’s story shows the world just before it.
+
+There is also a media distinction. Ruth had taught American mass culture how to serialize a sports star over a season. Berlin showed how an event could create a globally portable image almost instantly. Photographs and film of Owens did not require a viewer to understand baseball statistics or the economics of a league. Running and jumping translated across languages. The Olympic podium made national identity visible on the same frame as the athlete. That combination would become one of the most powerful formats in twentieth-century sports.
+
+The athlete’s body was becoming part of foreign policy whether governments admitted it or not.
+
+Later U.S. administrations would understand sport as a diplomatic resource. Olympic boycotts would become tools of statecraft. Tours, exchanges, medal counts, and international competitions would be read as signs of national vitality. Athletes would be asked to perform not only against opponents but against rival social systems. Owens did not invent sports diplomacy, but his Berlin victories demonstrated its potency to an American public on a scale difficult to ignore.
+
+The irony is that the diplomatic value of Black athletes increased before the United States fully honored Black citizenship. The country could point outward to a multiracial Olympic team as evidence about American possibility while Black Americans pointed inward to segregation as evidence about American failure. International visibility strengthened both arguments.
+
+That two-way pressure becomes a hidden force in later sports integration. A nation claiming leadership of a democratic world has a reputational problem when its most famous Black citizens can describe unequal treatment at home. The athlete’s fame makes the testimony harder to localize or dismiss. Owens was not a civil-rights organizer in the mold of later figures, but his existence inside the national image altered the image’s credibility.
+
+His economic difficulties after Berlin add a final institutional test. If the four gold medals had been produced inside a professional league, their commercial value might have been captured through salary negotiations, gate receipts, endorsements, or a long season of paid appearances. Amateur track created a different arrangement. The Olympic movement wanted the athlete’s labor to remain symbolically pure while organizers, newspapers, equipment makers, travel systems, and host cities could all benefit from the attention around the Games.
+
+The distinction between amateur and professional therefore decided who could turn fame into durable income. This is not an argument that every later professional athlete became financially secure. Joe Louis himself would demonstrate otherwise. It is an argument that compensation rules are part of sports history, not bookkeeping beside it.
+
+Owens’s career asks a question that will recur until the end of this book: when the public says an athlete belongs to everyone, who owns the economic value created by that belonging?
+
+In Austin Curtis’s era, the answer could be horrifyingly literal: another person legally owned the athlete. In Owens’s era, the athlete was free, internationally famous, and constrained by an amateur system that could celebrate his medals while limiting the obvious professional market for the performance. By Jordan’s era, the athlete would become a global licensing platform. By Biles’s era, the argument would extend beyond money into whether any institution could presume a claim on the next performance at all.
+
+Seen across that arc, Owens is not merely the man who ran faster than Nazi ideology expected.
+
+He is the athlete who revealed how many different kinds of ownership can surround a free person: national ownership of the symbol, institutional ownership of eligibility, media ownership of the story, and public ownership of the moral.
+
+He crossed four finish lines in Berlin.
+
+America spent much longer deciding what it owed him for carrying so much across them.
