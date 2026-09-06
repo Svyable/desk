@@ -9,13 +9,13 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 107 book projects · 52 complete drafts · 2 in revision · 53 drafting**
+> **Desk: 108 book projects · 53 complete drafts · 2 in revision · 53 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 53 author projects · 50 released · 3 public drafts/proofs**
-> **Where they live: 53 in both Desk + Shelf · 54 Desk-only · 0 Shelf-only**
-> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Where they live: 53 in both Desk + Shelf · 55 Desk-only · 0 Shelf-only**
+> **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -73,7 +73,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Bookself: The Story of Getting Started](books/bookself/), [Neuralase](books/neuralase/), [The Alliance Advantage](books/the-alliance-advantage/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [The Unobserved World](books/the-unobserved-world/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Bookself: The Story of Getting Started](books/bookself/), [Imenent](books/imenent/), [Neuralase](books/neuralase/), [The Alliance Advantage](books/the-alliance-advantage/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [The Unobserved World](books/the-unobserved-world/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**
@@ -114,6 +114,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Fiscal Wall**](books/fiscal-wall/) | ✅ Complete draft | 18 of 18 | 65,159 | The United States does not face a single $10 trillion bill arriving on one morning. | [Read →](https://svyable.github.io/desk/reader/#/b/fiscal-wall/) |
 | [**Gatekeepers**](books/gatekeepers/) | ✅ Complete draft | 21 of 21 | 74,700 | The book's central argument is that modern power often sits at transitions: between outside and inside, applicant and approved, developer and customer, patient and treatment, worker and… | [Read →](https://svyable.github.io/desk/reader/#/b/gatekeepers/) |
 | [**Gradient Ascent**](books/gradient-ascent/) | ✍️ Drafting | 16 of 24 | 35,469 | The working thesis is that generative AI changes the information problem from scarcity to saturation. | [Read →](https://svyable.github.io/desk/reader/#/b/gradient-ascent/) |
+| [**Imenent**](books/imenent/) | ✅ Complete first draft | 20 of 20 | — | Imenent is a deliberate collision of two words that are usually kept apart: imminent, something approaching, and immanent, something already inside the system. | [Read →](https://svyable.github.io/desk/reader/#/b/imenent/) |
 | [**Intelligence State**](books/intelligence-state/) | ✅ Complete draft · Published on Shelf | 17 of 17 + prologue + conclusion | 43,255 | Intelligence State follows that transformation across the Americas and asks a harder question than who builds the best model: who can make intelligence abundant without making sovereignty… | [Read →](https://svyable.github.io/desk/reader/#/b/intelligence-state/) |
 | [**Keep Cooking**](books/keep-cooking/) | ✅ Complete draft + living afterword | 25 of 25 | 65,845 | The manuscript now carries an afterword for the August 30, 2026 threshold: the moment long-horizon, correction-remembering, collaborating agents became plausible enough to change the… | [Read →](https://svyable.github.io/desk/reader/#/b/keep-cooking/) |
 | [**Leveraging Luck**](books/leveraging-luck/) | 🔁 Revision in progress | 10 of 10; first integrated narrative pass underway | 25,970 | Working manuscript in Sven Hardy Benson’s Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/leveraging-luck/) |
