@@ -1,225 +1,191 @@
 # Xi at the Center
 
-Xi Jinping came to the United States before many Americans knew how much of the next decade would come to revolve around him.
+When Xi Jinping stood beside Barack Obama in the Rose Garden on September 25, 2015, the presidents announced an agreement that sounded narrow enough to be technical.
 
-In February 2012 he was still China’s vice president and heir apparent. He met President Barack Obama in the Oval Office, spent time with Vice President Joe Biden, visited the Pentagon, talked with American and Chinese business leaders, went to Iowa, and continued to California.
+Neither government, they said, would conduct or knowingly support cyber-enabled theft of intellectual property for the commercial advantage of companies or sectors.
 
-The itinerary was diplomatic theater, but it was also a theory of the relationship.
+The sentence was remarkable because of what had to be true before two presidents could say it publicly.
 
-Washington represented state power.
+The United States and China had become economically entangled enough that theft of business information in cyberspace could rise to the level of a presidential summit. American companies depended on Chinese factories, suppliers, customers, and investment. Chinese growth had depended in part on access to American markets, capital, education, technology, and an international trading order the United States had helped build. The two governments were cooperating on climate change and the Iran nuclear negotiations while confronting one another over cyber activity, maritime claims, military risk, human rights, market access, and the rules governing technology.
 
-Iowa represented agriculture and personal connection.
+The relationship no longer fit a simple word.
 
-California represented commerce and the Pacific economy.
+Partner was too warm.
 
-The underlying assumption was that familiarity, trade, institutional contact, and repeated engagement could help two increasingly consequential powers manage their differences without turning competition into confrontation.
+Enemy was too crude.
 
-Xi returned in 2015 as China’s president for a state visit.
+Competitor was incomplete.
 
-By then the relationship had grown both more important and more difficult.
+The countries were becoming each other's problem inside systems they had built together.
 
-American companies wanted access to China’s market and worried about unequal treatment. Chinese investment and manufacturing were deeply entangled with American supply chains. The two governments cooperated on some global issues while clashing over maritime claims, human rights, military activity, technology, and cyber-enabled theft.
+That is why Xi Jinping is the most important foreign dignitary of the 2010s.
 
-The visit produced a striking agreement.
+His American visits did not create the transformation in U.S.-China relations. They made the transformation visible before American politics had settled on the vocabulary for it.
 
-Obama and Xi announced that neither government would conduct or knowingly support cyber-enabled theft of intellectual property for commercial advantage. They also established mechanisms for cybercrime cooperation and dialogue.
+Xi had visited the United States before becoming president. In February 2012, as vice president and presumed successor to Hu Jintao, he met President Obama and Vice President Joe Biden, traveled to Iowa, and went to California. The Iowa stop carried personal history. Xi had visited the state in 1985 as a provincial official and retained relationships from the trip. The return offered an unusually warm image of continuity: a rising Chinese leader reconnecting with ordinary Americans he had met decades earlier.
 
-For a moment, one of the newest strategic problems in the world appeared governable through an old diplomatic form.
+The symbolism fit an older American hope.
 
-Two presidents sat together and drew a line.
+Engagement would create familiarity. Familiarity would create trust. Trade, educational exchange, investment, tourism, and institutional contact would thicken the relationship until confrontation became too costly and reform inside China became more likely.
 
-The line did not end the argument.
+That theory had never been as simple or universal as later critics sometimes described it. American administrations had always combined engagement with military alliances in Asia, human-rights pressure, export controls, Taiwan policy, and hedging against strategic risk. Chinese leaders had never accepted that economic integration required political convergence with the United States.
 
-That is why the visit matters.
+Still, by the time Xi became general secretary of the Chinese Communist Party in 2012 and president in 2013, economic interdependence had become one of the central facts of both countries' politics.
 
-Xi’s American appearances during the 2010s reveal the country at the exact moment when its governing theory of China was becoming unstable.
+Xi arrived at the center of it.
 
-For decades, U.S. policy had combined deterrence and engagement. Washington maintained security commitments in Asia, preserved its unofficial relationship with Taiwan, criticized human-rights abuses, and competed with Beijing in important areas. At the same time, successive administrations encouraged trade, investment, educational exchange, diplomatic cooperation, and China’s integration into global institutions.
+Obama hosted him at Sunnylands in California in June 2013 for an unusually informal summit. There was no large state dinner, no long ceremonial procession, and less protocol than a normal visit. The point was to create time for strategic conversation between leaders whose countries would shape much of the century.
 
-The strategy did not require believing that China would become a copy of the United States.
+The setting reflected anxiety about the relationship's scale.
 
-But many Americans did expect economic integration to create incentives for predictable rules, a more open society, or at least a relationship in which interdependence would constrain conflict.
+Washington wanted to understand what kind of leader Xi would be. Beijing wanted recognition that China had become too important to be treated as a subordinate participant in an American-designed order. Chinese officials spoke of a new model of major-country relations, language intended partly to suggest that conflict between a rising and established power was not inevitable if each respected the other's core interests.
 
-Xi’s rise made that expectation harder to sustain.
+The phrase carried different implications in each capital.
 
-Under his leadership, political authority became more centralized. The Chinese Communist Party reinforced its role across state and society. Beijing became more assertive in the South China Sea. Surveillance and censorship capabilities expanded. The government pursued ambitious industrial and technological policies. American officials and companies increasingly argued that Chinese state power and market access were being used in ways that disadvantaged foreign competitors and transferred technology.
+Americans heard a request for cooperation but worried that "core interests" could become a demand for deference on Taiwan, the South China Sea, domestic political control, and regional hierarchy. Chinese officials heard American references to a rules-based order and often suspected that the rules had been designed to preserve American primacy.
 
-Meanwhile the two economies became more intertwined.
+Both governments believed the other wanted cooperation on terms favorable to itself.
 
-This was the paradox of the decade.
+That is normal diplomacy.
 
-The United States and China were becoming more suspicious of one another while remaining deeply dependent on one another.
+The unusual part was the density of dependence beneath the disagreement.
 
-Xi’s visits put that contradiction in the room.
+The Soviet Union had been a military superpower but never became deeply integrated into the American consumer economy. Khrushchev could tour an Iowa farm while the U.S. and Soviet economic systems remained largely separate. China was different. By the 2010s, products in American homes contained Chinese labor and components. American corporations earned money in China and relied on Chinese production. Chinese students filled American universities. Treasury securities linked national finances. Technology supply chains crossed the Pacific repeatedly before a finished device reached a customer.
 
-The 2012 trip emphasized relationship-building.
+The rival was inside the balance sheet.
 
-The future Chinese leader met the future American president’s most important diplomatic interlocutors, toured the institutions of national power, revisited Iowa connections dating to an earlier agricultural visit, and participated in business events built around the assumption that commercial ties were stabilizing ties.
+This changed the meaning of diplomacy.
 
-Three years later, the 2015 state visit still contained all the pageantry of cooperation.
+A confrontation over China could no longer be imagined simply as two governments moving military pieces outside ordinary life. A tariff could change retail prices. An export control could reshape semiconductor investment. A cyber intrusion could affect a private company. A dispute over a mobile application could become a national-security question. A pandemic, as the next decade would demonstrate, could turn supply chains into political arguments about dependence.
 
-But cybersecurity had moved to the center of the agenda.
+Xi's visits belong to the decade when American leaders began realizing that integration itself could be a source of vulnerability.
 
-So had the question of whether the economic relationship was fair.
+The 2015 state visit captured the transition perfectly because cooperation and suspicion occupied the same schedule.
 
-The American argument was changing from “How do we deepen integration?” to “What happens when integration creates strategic vulnerability?”
+Obama and Xi announced progress on climate change. The previous year's joint announcement had helped create momentum toward the Paris climate agreement, and the 2015 visit reaffirmed that both countries considered their cooperation essential to a successful global outcome. As the two largest greenhouse-gas emitters, they could not plausibly address climate change at scale while refusing to work together.
 
-The answer did not arrive during the visit.
+At the same time, Obama publicly raised cyber theft, human rights, maritime disputes, and market access.
 
-It arrived across the rest of the decade.
+The cyber agreement became the clearest artifact of the visit because it tried to draw a norm through a domain where traditional categories had become unstable.
 
-The Trump administration imposed tariffs on large categories of Chinese imports beginning in 2018 and increasingly framed China not simply as a difficult partner but as a strategic competitor. Technology restrictions, investment screening, supply-chain security, industrial policy, and concern over telecommunications equipment all became more central.
+Governments spy.
 
-The relationship had not suddenly become hostile.
+The United States did not claim otherwise.
 
-It had become newly legible as competition.
+The distinction American officials tried to establish was between national-security espionage and theft of confidential business information for commercial gain. Washington argued that state-backed cyber theft designed to advantage domestic companies crossed a line different from traditional intelligence collection.
 
-That distinction matters.
+Xi stood beside Obama and accepted the norm publicly.
 
-China had always pursued its own interests.
+The agreement mattered even though later arguments over Chinese cyber activity did not disappear. It created a standard against which behavior could be judged and a mechanism for further dialogue. The Obama administration reported some progress afterward while continuing to raise concerns.
 
-The United States had always done the same.
+A norm does not need perfect compliance to matter.
 
-The shift was in American interpretation.
+It needs enough acceptance that violation becomes something a government feels compelled to deny, justify, or conceal.
 
-Xi’s presidency made it harder for U.S. policymakers to sustain the idea that deeper economic ties would gradually reduce the political significance of the differences.
+The summit therefore revealed a larger American strategy toward China near the end of the engagement era.
 
-Instead, the ties themselves became instruments of power.
+Cooperate where interests overlap. Confront specific harmful behavior. Build rules rather than treat the whole relationship as a single ideological conflict. Maintain alliances and military presence in Asia. Encourage China to participate in global institutions while resisting attempts to change rules in ways Washington considered coercive or exclusionary.
 
-Semiconductors could be strategic.
+The strategy was difficult because every part affected the others.
 
-Telecommunications equipment could be strategic.
+American companies wanted market access and intellectual-property protection. National-security officials worried about technology transfer and military modernization. Climate negotiators needed Beijing. Human-rights advocates wanted stronger pressure over censorship, political detention, Tibet, Xinjiang, and civil society. Asian allies wanted reassurance that economic ties would not cause Washington to accommodate Chinese coercion.
 
-Cloud services could be strategic.
+China had its own incompatible demands.
 
-Rare earths could be strategic.
+Xi wanted continued economic growth and access to global markets while strengthening Communist Party control. He pursued military modernization and a more assertive regional posture while arguing that China's rise was peaceful. He promoted initiatives such as the Belt and Road and institutions that increased Chinese influence. Domestically, he centralized power, intensified ideological discipline, and rejected the assumption that greater prosperity would naturally produce Western-style political liberalization.
 
-Shipping routes could be strategic.
+The American theory of convergence weakened in his presence.
 
-University research could be strategic.
+Not because Xi personally disproved a law of history.
 
-Supply chains could be strategic.
+There was no law.
 
-Interdependence did not disappear.
+Economic modernization can coexist with authoritarian political control. International integration can strengthen a state without making it more politically similar to the countries providing markets and investment. Trade can create constituencies for peace while also creating resources for military competition.
 
-It became securitized.
+The 2010s forced Americans to relearn these propositions because China had become too powerful for the implications to remain theoretical.
 
-The 2015 cyber agreement is a useful miniature of the whole problem.
+Xi's domestic consolidation mattered directly to the American relationship.
 
-Diplomacy can change behavior.
+A more centralized Chinese political system reduced the distinction foreign governments could make between the preferences of the leader and the trajectory of the state. Anti-corruption campaigns removed genuine abuses while also eliminating rivals. Party authority expanded across business and society. Civil society narrowed. The abolition of presidential term limits in 2018 signaled that leadership succession would not follow the pattern many outsiders had come to expect.
 
-States can establish norms and mechanisms even when they distrust one another.
+American businesses that had assumed China's economic opening would keep moving in one political direction began reassessing the risk.
 
-But verification is difficult, attribution is difficult, and categories are difficult. Traditional espionage is not identical to commercial theft. A government can promise not to steal intellectual property for domestic firms while still pursuing aggressive industrial policy through legal, regulatory, investment, or coercive means.
+The strategic environment changed too.
 
-The agreement therefore did not fail simply because conflict continued.
+China expanded and militarized artificial islands in the South China Sea despite Xi's 2015 statement that China did not intend to pursue militarization of the Spratly Islands. Beijing's maritime claims collided with those of neighboring states and with American insistence on freedom of navigation. U.S. military operations near disputed features became recurring demonstrations that neither government accepted the other's preferred interpretation of regional order.
 
-It demonstrated the narrowness of what bilateral commitments could solve.
+Taiwan remained even more consequential.
 
-The deeper competition involved incompatible systems of political economy as much as individual acts of cyber intrusion.
+American policy continued to balance unofficial support for Taiwan, arms sales, the Taiwan Relations Act, and the longstanding one-China policy framework. Beijing treated unification as a core national objective and refused to renounce force. The more capable China's military became, the more dangerous ambiguity around Taiwan became.
 
-Xi’s visit also forced Americans to confront a recurring illusion in foreign policy: the belief that personal familiarity between leaders can substitute for structural analysis.
+Xi did not create the Taiwan dispute.
 
-Biden had spent significant time with Xi.
+His tenure made the balance around it less comfortable.
 
-Obama had met him repeatedly.
+By the second half of the decade, the American political consensus on China was changing unusually quickly.
 
-Trump would later cultivate his own personal diplomacy with Xi.
+The election of Donald Trump in 2016 accelerated the shift. Trump attacked China's trade practices, manufacturing surplus with the United States, intellectual-property policies, and industrial strategy. His administration imposed tariffs and reframed China more explicitly as a strategic competitor. Democrats who opposed many aspects of Trump's foreign policy increasingly shared concerns about Chinese economic coercion, technology, human rights, and military power.
 
-Personal relationships can reduce misunderstanding. They can create channels during crisis. They can clarify what another leader values.
+Competition became bipartisan before agreement on strategy became bipartisan.
 
-They cannot erase conflicts of interest.
+That is an important distinction.
 
-A good conversation does not settle Taiwan.
+Washington could agree that the old assumptions were inadequate without agreeing on the replacement.
 
-A state dinner does not reconcile industrial policy.
+Should the United States reduce economic dependence aggressively or preserve integration where it creates mutual benefit? Should technology controls be narrow and security-focused or broad enough to slow Chinese development? Which industries are strategic? How much military risk should America accept over Taiwan? Can climate cooperation survive rivalry? Does pressure strengthen hard-line politics in Beijing or deter coercion? How should allies be asked to choose when their largest trading partner may be China and their principal security partner the United States?
 
-A summit does not remove the military implications of disputed seas.
+These questions were becoming central by the decade's end.
 
-The relationship remained too large for chemistry.
+Xi is the right visitor because his American appearances show the moment before the answers hardened.
 
-That is one reason Xi wins the 2010s in this book.
+In 2015 the White House could still stage a state dinner and announce climate cooperation, cyber norms, economic dialogue, military confidence-building measures, and continued work toward an investment treaty while publicly acknowledging serious disputes.
 
-The visitor mattered not because his presence produced one discrete American law or alliance.
+A few years later, the relationship was entering a trade war.
 
-His visits became stages on which the United States revised its model of the world.
+The distance between those moments is not evidence that the 2015 diplomacy was naïve or useless.
 
-The strongest competitor is Pope Francis, whose 2015 visit to Washington, New York, and Philadelphia gave moral and political force to debates over climate, poverty, migration, and public life. Another is Narendra Modi, whose U.S. visits reflected the rapid elevation of the U.S.-India relationship. Benjamin Netanyahu’s 2015 address to Congress, delivered over the Obama administration’s objections, exposed a remarkable struggle over Iran policy, alliance politics, and the separation of congressional and executive diplomacy.
+It is evidence that diplomacy occurs inside moving systems.
 
-Xi’s case is broader.
+The cyber agreement addressed a real problem. Climate cooperation contributed to a real global agreement. Military dialogues reduced some risk. Economic talks reflected genuine interdependence.
 
-No other visiting foreign leader in the decade sat so squarely at the intersection of trade, technology, security, climate, manufacturing, finance, education, supply chains, military competition, and the future structure of world power.
+None of those successes guaranteed the overall relationship would remain cooperative.
 
-The visit itself did not create those stakes.
+Foreign relations are not bank accounts in which enough successful meetings accumulate into permanent friendship.
 
-It concentrated them.
+Power changes. Leadership changes. Technology changes. Domestic politics changes. The interests underneath the meetings can move faster than the rituals above them.
 
-That is the method of *The Visitors*.
+Xi's visits also expose the limits of personal diplomacy.
 
-A foreign dignitary is important when the encounter changes what Americans can no longer avoid seeing.
+Obama wanted candid strategic conversation. Trump later cultivated his own personal relationship with Xi, hosting him at Mar-a-Lago in 2017 and speaking warmly of him even as the administration escalated trade conflict. American presidents repeatedly hoped that direct leader contact could stabilize the relationship.
 
-By the end of the 2010s, China had become impossible to treat as a foreign-policy silo.
+It sometimes could.
 
-It was an economic issue.
+A phone call or summit can clarify intentions, stop a specific escalation, or produce a bargain. But leader chemistry cannot reconcile structural disputes over regional power, technology, political systems, and economic rules.
 
-A technology issue.
+Prince Henry had charmed Americans in 1902 while U.S.-German strategic rivalry grew underneath the visit. Xi presents a modern version of the same warning under conditions of far deeper economic connection.
 
-A labor issue.
+Charm is not strategy.
 
-A university issue.
+Neither is hostility.
 
-A military issue.
+The challenge is recognizing what kind of relationship exists before rhetoric forces it into the wrong category.
 
-A climate issue.
+The strongest runner-up for the 2010s is Pope Francis.
 
-A human-rights issue.
+His 2015 visit was extraordinary. He addressed Congress, spoke about immigration, poverty, climate, religious liberty, family, and the responsibilities of political life, then traveled to New York and Philadelphia. As the first pope to address a joint meeting of Congress, he occupied a moral position few visitors could match. His visit connected foreign leadership to domestic cultural conflict with unusual reach.
 
-A domestic political issue.
+German Chancellor Angela Merkel is another contender because the eurozone crisis, Russia, NATO, trade, and the future of the transatlantic order made her one of Washington's most consequential allied partners.
 
-An industrial-policy issue.
+Xi wins because no bilateral relationship touched as many categories of American power at once.
 
-An election issue.
+Trade. Technology. Finance. Climate. Cybersecurity. Manufacturing. Universities. Military strategy. Human rights. Supply chains. The future of the Pacific.
 
-The relationship had moved toward the center of American statecraft.
+The visitor was not simply another leader asking America for something.
 
-So had Xi.
+He represented a country becoming capable of changing the environment in which America made choices.
 
-The title of this chapter has another meaning.
+That is the threshold between important partner and systemic rival.
 
-Xi was consolidating power at the center of China’s political system while China itself was moving toward the center of American strategic thinking.
+The United States spent the 2010s crossing it.
 
-Those two movements reinforced one another.
-
-A more centralized Chinese leadership made U.S. policymakers focus more intensely on one leader’s direction.
-
-A more consequential China made Xi’s choices matter more to Americans who had never followed Chinese politics closely.
-
-The danger is to personalize China too much.
-
-The country’s rise did not begin with Xi. Its economic transformation, military modernization, export power, urbanization, and global integration were decades in the making. Many tensions with the United States predated his presidency. Chinese institutions, businesses, local governments, military organizations, citizens, and factions cannot be reduced to one man.
-
-But leaders matter when they alter the operating assumptions of institutions.
-
-Xi’s centralization, strategic ambition, and governing style changed how American officials interpreted the trajectory of the relationship.
-
-The 2012 visitor arrived as a man Americans hoped to understand.
-
-The 2015 visitor arrived as a partner Americans increasingly needed to constrain as well as engage.
-
-By the decade’s end, the question had changed again.
-
-It was no longer whether the United States could manage China’s rise through integration alone.
-
-It was how the United States could compete with a country to which it remained economically attached.
-
-That is a harder question because both halves are true.
-
-Competition without interdependence would be simpler.
-
-Interdependence without competition would be simpler.
-
-The United States had both.
-
-Xi’s visits made the contradiction visible before American policy fully reorganized around it.
-
-**Verdict:** Xi Jinping wins the 2010s because his 2012 and 2015 U.S. visits captured the moment when America’s long strategy of engagement with China stopped looking like a sufficient theory of the relationship, moving China—and Xi himself—to the center of debates over trade, technology, security, and the structure of world power.
+Xi Jinping was standing in the center while it happened.
