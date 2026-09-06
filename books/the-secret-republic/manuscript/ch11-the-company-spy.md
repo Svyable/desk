@@ -217,3 +217,117 @@ Then the state hanged men using, in part, what he reported.
 Espionage did not need a foreign enemy to become consequential.
 
 It only needed a powerful client and someone willing to listen from inside the room.
+
+The surviving Pinkerton papers add an evidentiary complication that belongs inside the story rather than in a footnote.
+
+The Library of Congress preserves a January 24, 1875, operative report sent to Franklin B. Gowen, the railroad and coal executive who backed the investigation. The report records the movements and activities of McParland while he was still living under his assumed identity. It is the kind of source historians want from clandestine work: contemporary, operational, and close to the event.
+
+Yet the same archival guide warns that relatively few documents in the Molly Maguires criminal case files are original contemporaneous records.
+
+That imbalance matters.
+
+The most famous private espionage case of the American nineteenth century survives through an archive that is both rich and incomplete.
+
+What remains is not a neutral transcript of the coal fields. It is partly the working memory of the detective organization employed to penetrate them.
+
+This is a familiar intelligence problem wearing an archival disguise.
+
+The service collects what its mission tells it to collect.
+
+The archive later preserves what the service collected.
+
+The historian can then mistake the service's field of vision for the whole landscape.
+
+If Pinkerton agents recorded suspicious meetings in detail but did not record ordinary union activity with equal care, the surviving file naturally makes clandestine conspiracy look more central. If employers' coercive practices appear mainly as background rather than as investigative targets, the archive will not balance them automatically.
+
+The solution is not to discard the Pinkerton reports.
+
+They are indispensable.
+
+The solution is to read them as intelligence reporting.
+
+Who tasked the collector?
+
+What did the collector have access to?
+
+What did the collector believe the client wanted?
+
+What could the collector not see?
+
+Which statements were direct observation and which were hearsay?
+
+Which later actions depended on those distinctions?
+
+Those questions are exactly the ones an intelligence analyst should ask before using a source.
+
+A historian should ask them too.
+
+The evidentiary pipeline becomes especially important because McParland's undercover reports did not remain internal corporate information. His knowledge crossed into prosecutions.
+
+That move changes the standard.
+
+A private client can make business decisions on information that would never satisfy a criminal court. It can reassign guards, fire an employee, alter routes, or spend more on security because an operative reports a threat. A prosecution requires evidence that can be introduced, challenged, and tied to specific offenses and defendants.
+
+Undercover intelligence therefore has to be translated into legal proof.
+
+That translation is never automatic.
+
+An operative may know that men are dangerous without being able to prove a particular murder. He may have heard a confession in circumstances disputed later. He may have watched planning but not execution. His credibility may depend on a false identity he maintained by lying constantly to the defendants.
+
+The spy's professional excellence becomes the defense lawyer's obvious attack.
+
+You lied to gain their trust.
+
+Why should the jury trust you now?
+
+Modern undercover testimony still carries this tension. Courts permit deception by investigators in many circumstances because infiltration would otherwise be impossible. The fact-finder must then decide when a practiced deceiver has returned to truth.
+
+McParland's testimony placed that problem before nineteenth-century juries without the procedural architecture modern courts built around complex undercover investigations.
+
+The broader prosecution environment deepened the controversy. Gowen was not merely a passive corporate victim receiving Pinkerton reports. He was a powerful executive and lawyer deeply involved in the campaign against the alleged Mollies. Private railroad police, Pinkerton operatives, local law enforcement, prosecutors, and political power overlapped in ways that make it difficult to draw the clean institutional lines a modern reader expects.
+
+That does not invalidate every conviction.
+
+It makes the concentration of power part of the historical fact pattern.
+
+Kevin Kenny's later scholarship is valuable precisely because it refuses both available myths. The Molly Maguires were not simply fictional monsters invented by corporations, nor can the violence in the region be explained away as an employer conspiracy. Irish-American fraternal, political, labor, and clandestine relationships overlapped. Some men associated with the Ancient Order of Hibernians were implicated in serious violence. Economic exploitation, ethnic antagonism, local political power, and retaliatory killing could all be true at once.
+
+That untidiness is not a defect in the chapter.
+
+It is the reason the case matters.
+
+Espionage becomes most dangerous to historical judgment when intelligence supplies a clean picture of a dirty conflict.
+
+The operative has to simplify in order to report.
+
+The client simplifies again in order to act.
+
+The prosecutor simplifies again in order to present a case.
+
+The newspaper simplifies again in order to tell the public who the villains are.
+
+Later memory inherits the compression.
+
+A serious history has to reverse it.
+
+That process also changes how we understand McParland himself.
+
+He was not merely a brave infiltrator or a corporate stooge. He was a professional operative working inside a system that rewarded access and actionable reporting. His skills were real. His personal risk was real. The violence he investigated was real. The power asymmetry surrounding his work was real.
+
+One truth does not cancel the next.
+
+That is the discipline espionage history requires more often than spy legend permits.
+
+The most revealing fact may be that the country did not need a federal domestic intelligence service to create this dilemma.
+
+Private capital had already built one version of it.
+
+It had recruiters, handlers, undercover identities, reports, files, clients, informants, and institutional memory.
+
+It could put a man inside a secretive organization and keep him there long enough to become evidence against the people who trusted him.
+
+By the end of the 1870s, the United States had learned that intelligence power could grow wherever uncertainty and money met.
+
+The government would spend the next century deciding what rules should apply when that power belonged to the state.
+
+The private version had arrived first.
