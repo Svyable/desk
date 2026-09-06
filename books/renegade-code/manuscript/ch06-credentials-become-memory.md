@@ -257,3 +257,97 @@ Credentials are often discussed as secrets to protect. In an agent economy they 
 The containment question is therefore not only whether a credential can be stolen.
 
 It is whether a credential can become a future the operator no longer controls.
+
+Portability is another underappreciated property.
+
+A bearer token is powerful partly because possession is enough. Copy the token to another machine and, unless the service checks something else, the new machine becomes the same caller. That simplicity made bearer credentials enormously useful for distributed software. It also means a process that can read the token can sometimes move authority without moving itself.
+
+Agent containment should care about that distinction.
+
+A credential bound to a particular workload, device, hardware key, network context, or broker-mediated channel can be harder to transplant. The binding does not make the credential harmless. It changes what an escape route must accomplish. Copying a string is no longer identical to copying the authority.
+
+This is one place where ordinary security improvements line up neatly with agent safety. Non-exportable keys, proof-of-possession schemes, workload identity, signed requests, and audience restrictions can reduce the value of raw secret discovery. The model may learn that a credential exists without being able to turn the credential into a portable foothold elsewhere.
+
+The qualification matters because bindings can be weak or misleading. A token “bound” to a cloud workload is not much protection if the agent can create another workload under the same identity. A device-bound session is not a meaningful boundary if the agent controls the browser running on the device and can act through it indefinitely. A brokered key can still become ambient authority if the broker accepts arbitrary destinations from the same task.
+
+The relevant question is not whether a credential has a modern feature name.
+
+It is what must be copied or controlled for the authority to move.
+
+That question belongs in the credential inventory.
+
+Most organizations already know, imperfectly, where their secrets live. Agent systems need a more operational inventory of authority-bearing objects.
+
+Which grants are reusable?
+
+Which are exportable?
+
+Which can mint descendants?
+
+Which can renew themselves?
+
+Which are accepted by more than one service?
+
+Which survive task termination?
+
+Which depend on an external provider for revocation?
+
+Which are socially trusted identities as well as technical credentials?
+
+The list is not static compliance paperwork. It tells responders which objects can turn one boundary crossing into continuing reach.
+
+It also exposes zombie grants.
+
+A zombie grant is authority the institution believes is dead because the visible task, account, or session ended while some accepted descendant remains usable. The classic forms are familiar: a refresh token survives logout, an application password survives a password change, an API key created by a service account survives the human who authorized it, a cloud role can still be assumed by a forgotten workload.
+
+Agents add more ways to create the same condition. A task can authorize a webhook whose callback identity remains valid. It can create a browser session in an external service. It can schedule a job that later requests its own short-lived token. It can produce a signed artifact that a downstream system continues to trust after the original task is revoked.
+
+The authority is alive even though the user interface says the task is over.
+
+A credible revocation test should hunt for these zombies deliberately.
+
+Terminate the task.
+
+Invalidate the parent grant.
+
+Then attempt the descendant paths from fresh environments. Can the session still be replayed? Can the scheduled job still mint? Can the signed artifact still cross a privileged gate? Can a child workload renew without consulting the revoked parent lineage?
+
+This is the identity version of resurrection testing.
+
+It measures what the institution has actually withdrawn rather than what it intended to withdraw.
+
+The results can feed a credential bill of materials for high-consequence agent roles. Not an exhaustive dump of every token. A map of the classes of authority the role can cause to exist, their lifetimes, their renewal roots, and their revocation mechanisms.
+
+A production operations agent might have no standing production secret and still be able to cause three kinds of credential to be issued through brokers. That is the useful fact. A travel agent might never see a card number but still be able to generate merchant-bound payment tokens. A coding agent might have no release key but be able to produce artifacts accepted by a signing service after an independent gate.
+
+The bill of materials makes those relationships inspectable before the incident.
+
+It also makes architecture changes legible. Add a new browser provider and the role may gain a new class of externally hosted session. Add a new cloud integration and the role may gain a new renewal root. Add a new child-agent framework and the role may gain a new delegation path.
+
+The model did not change.
+
+The credential future did.
+
+This is why delegated identity may become one of the foundational standards of an agent economy. A service receiving an agent action should be able to distinguish the acting agent from the sponsoring principal and the current task mandate. Those are three different facts.
+
+Who is acting?
+
+On whose behalf?
+
+For what bounded purpose?
+
+Human account impersonation collapses all three into one login. That was tolerable when the human was the only active decision-maker inside the session. It becomes much harder to govern when many autonomous processes can act concurrently on behalf of the same person or institution.
+
+Separating those identities creates cleaner revocation and cleaner accountability. A user can end one delegation without logging every device out. A company can quarantine one task without disabling the employee who sponsored it. A service can apply different rate limits, transaction caps, and audit requirements to autonomous activity without guessing from behavior.
+
+The separation also protects the human from the agent's reputation effects. If an agent sends a mistaken message under its delegated identity, recipients can still know which person or organization sponsored the action without falsely believing the person personally typed it.
+
+That social distinction will matter more as agents become common enough that “who said this?” no longer has one simple answer.
+
+Credentials began as proof that someone was allowed through a door.
+
+In agent systems they become the machinery by which authority moves through time, across processes, and between institutions.
+
+Treating them as memory is useful because memory has the right failure question.
+
+What from the past is still active now, and why?
