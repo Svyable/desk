@@ -1,29 +1,43 @@
 # Release review — The Taiwan Threshold
 
-**Reviewed:** 2026-09-05  
-**Desk source:** `706f2ff9c6a98769c9388cb50826ebead97f8a13`  
+**Reviewed:** 2026-09-06  
+**Desk source under review:** `4a45ab0db697317bc5773f5d3162584159e769d6`  
 **Decision:** **Remain blocked — do not release to Shelf.**
 
-## Controlling blocker: canonical manuscript state is still under development
+## What is now established
 
-The book README says `Complete draft`, with front matter, prologue, 18 numbered chapters, and back matter checked. The research brief and source ledger also preserve useful distinctions between observed events, official exercises, and scenario analysis.
+- The canonical README says `Complete draft`, with front matter, prologue, 18 numbered chapters, and back matter checked.
+- `RIGHTS.md` and `rights.json` are present.
+- The research brief and source ledger preserve the controlling distinctions between capability and intent, exercises and operations, and scenario analysis and observed events.
+- A September 6 release-evidence pass inspected the front matter, prologue, Chapters 1–5, and the completed late-book Chapters 15–18 against current authoritative evidence. Those sections are developed trade-manuscript prose rather than placeholders, and no factual manuscript correction was required in that tranche.
+- Current Taiwan MND activity reporting and current allied policy statements were added to the source ledger with explicit boundaries against treating recurring activity as proof of invasion intent or treating partner concern as an automatic contingency commitment.
 
-However, the current canonical `manuscript/back-matter.md` explicitly says:
+See [release-evidence-pass-2026-09-06.md](release-evidence-pass-2026-09-06.md).
 
-> This first field edition publishes the argument, full chapter architecture, opening prose, and research path while the complete trade manuscript remains under development on Sven Hardy Benson’s Desk.
+## Controlling blocker: complete the claim-level pass before retiring the field-edition note
 
-That statement is a direct manuscript-level assertion that the trade manuscript is still under development. It controls over the higher-level `Complete draft` label for release purposes. A Shelf publication must not be created by merely deleting or rewording this note without first establishing that the underlying manuscript state has actually changed.
+The current `manuscript/back-matter.md` still says that the complete trade manuscript remains under development. The inspected opening and late-book chapters provide concrete evidence that this description is stale in at least part of the manuscript, but the repository should not delete the note based on metadata or a partial audit alone.
 
-## Why this also needs a fresh factual pass
+The remaining substantive gate is now precise: perform the same current-source claim-level review for **Chapters 6–14**, covering the inspection regime, air/maritime pressure, undersea cables, cyber activity and attribution, financial coercion, semiconductor dependencies, Japan, the Philippines, and Washington's classification/response problem.
 
-This is a contemporary, high-stakes Taiwan deterrence manuscript covering exercises, quarantine/inspection scenarios, cyber operations, undersea infrastructure, financial coercion, semiconductors, Japan, the Philippines, and AI-assisted classification. Those claims can age quickly. The existing research packet is a useful foundation, but no current book-local release clearance supersedes the under-development marker.
+For each chapter, preserve these boundaries:
 
-## Required remediation
+- capability is not intent;
+- exercise/training is not operational decision;
+- scenario analysis is not an observed event;
+- announced strategy or access is not proof of operational deployment or effectiveness;
+- partner relevance is not an automatic commitment to a Taiwan contingency;
+- commercial or infrastructure effects should not be upgraded into legal conclusions without appropriate authority.
 
-1. Determine whether the field-edition note is still substantively accurate.
-2. If the manuscript is still incomplete, finish the trade manuscript and preserve the observed-event/scenario boundary throughout.
-3. If the manuscript is now genuinely complete, perform a full manuscript-to-source audit using current primary/authoritative sources for material factual claims; only then replace the stale field-edition language.
-4. Run the normal mechanical and Desk integrity/catalog checks required by current repository instructions.
-5. Record a new release decision from the remediated committed source.
+If Chapters 6–14 are green, then re-evaluate the stale field-edition sentence and record a full substantive release decision from the remediated frozen Desk source.
 
-Until then, this project remains **Desk-complete for workflow purposes but not release-cleared**.
+## Mechanical gates after substantive review
+
+If and only if the full factual/research pass is green:
+
+1. run the repository-conventional book-length validation applicable to this manuscript;
+2. run `python3 scripts/check-desk.py` and any current catalog/discovery checks;
+3. freeze one committed Desk source;
+4. prepare the linked Desk/Shelf publication pair from that exact snapshot.
+
+No additional human-review requirement is imposed. The remaining blocker is evidentiary completeness plus the ordinary repository mechanical checks.
