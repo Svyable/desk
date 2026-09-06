@@ -136,7 +136,85 @@ Generative AI did not invent this. It merely became another participant in the s
 
 Once that is visible, “human error” starts to look less like a fingerprint and more like one style of evidence among many, often ambiguous and easy to manipulate.
 
-So what should matter instead?
+Error also has a distribution, and distributions matter more than averages when consequences are uneven.
+
+Imagine two systems with the same overall error rate.
+
+One makes small mistakes across almost everybody.
+
+The other is extremely accurate for most people and repeatedly wrong for a narrow group whose language, body, documents, work patterns, or circumstances sit outside the common case.
+
+The headline number can be identical.
+
+The social system is not.
+
+This is why an error rate is never the whole policy question. Somebody chooses which error matters more. Somebody chooses the threshold. Somebody decides whether uncertainty produces a warning, a delay, a denial, or an accusation. Somebody decides whether a person can recover when the system is wrong.
+
+The cost of error belongs to a biography.
+
+A mistaken movie recommendation wastes two hours.
+
+A mistaken fraud flag may freeze money needed for rent.
+
+A mistaken plagiarism accusation can alter a student’s record.
+
+A mistaken medical classification can delay care.
+
+A mistaken hiring filter can become invisible because the applicant never learns the opportunity existed.
+
+The same statistical word—error—covers radically different human events.
+
+This is one reason institutions need error budgets with moral dimensions, not merely technical ones.
+
+What happens when we are wrong?
+
+Who absorbs the cost?
+
+Can the action be reversed?
+
+Is a false positive merely friction, or does it carry stigma?
+
+Does the person learn that a model was involved?
+
+Can they present context the model did not have?
+
+Does correction repair the downstream record, or does the original flag keep traveling?
+
+A system that answers none of these questions has not solved error by becoming accurate.
+
+It has only made error rarer and perhaps harder to contest.
+
+There is a dangerous psychological effect in very reliable systems too.
+
+When the tool is wrong only occasionally, the human reviewer may become less prepared to disagree. The machine earns trust honestly by being right. That trust then changes the conditions under which the rare failure is encountered.
+
+The odd result is that better automation can make the remaining error more organizationally difficult.
+
+The person reviewing it has fewer examples of failure.
+
+The institution has more confidence in the pipeline.
+
+The affected person looks more exceptional because “the system is almost always right.”
+
+Reliability can become social evidence against the person challenging it.
+
+This is not an argument for keeping systems unreliable so humans stay alert.
+
+It is an argument for designing correction as a normal part of reliable systems rather than as an embarrassing exception.
+
+Airplanes have checklists not because pilots are expected to fail constantly but because rare failures matter. Financial systems reconcile accounts not because every entry is wrong but because small mismatches can compound. Scientific methods preserve replication and correction because confidence should remain revisable.
+
+A mature AI system should have the same humility around its residual errors.
+
+The system can be excellent.
+
+The appeal can still be real.
+
+The correction can still propagate.
+
+The person can still be treated as a person rather than as noise in the metric.
+
+So what should matter instead of error-as-proof?
 
 The temptation is to answer with a list of uniquely human virtues and start another retreat. Judgment. Empathy. Creativity. Accountability. Context. Relationship. Each word can matter. None should be used carelessly as a permanent benchmark that machines are forbidden to approach.
 
