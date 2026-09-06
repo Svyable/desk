@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 103 book projects · 52 complete drafts · 2 in revision · 49 drafting**
+> **Desk: 105 book projects · 52 complete drafts · 2 in revision · 51 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 51 author projects · 48 released · 3 public drafts/proofs**
-> **Where they live: 51 in both Desk + Shelf · 52 Desk-only · 0 Shelf-only**
+> **Where they live: 51 in both Desk + Shelf · 54 Desk-only · 0 Shelf-only**
 > **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -133,6 +133,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Scaling Laws**](books/scaling-laws/) | ✍️ Drafting | 14 of 25 | 32,637 | The working thesis is simple: scale is not just more. A system that becomes ten times larger often becomes a different kind of system. Costs bend, bottlenecks move, coordination changes… | [Read →](https://svyable.github.io/desk/reader/#/b/scaling-laws/) |
 | [**Second Guess**](books/second-guess/) | ✍️ Drafting | 20 of 20 | 77,252 | The working thesis is that automated recommendation has spread into aviation, medicine, criminal justice, finance, warehouses, and driving faster than anyone has taught the humans working… | [Read →](https://svyable.github.io/desk/reader/#/b/second-guess/) |
 | [**Shannon's Demon**](books/shannons-demon/) | ✍️ Drafting | 20 of 20 | 53,828 | The working thesis is that one obscure, playful, almost pathologically curious engineer wrote the paper that the entire rest of this catalog quietly assumes: that information can be… | [Read →](https://svyable.github.io/desk/reader/#/b/shannons-demon/) |
+| [**Sifting for Alpha**](books/sifting-for-alpha/) | ✍️ Drafting | 18 chapters + 2 epilogues | — | Alpha is not a precious metal you discover. It is what remains after enough bad ideas have been sifted out. | [Read →](https://svyable.github.io/desk/reader/#/b/sifting-for-alpha/) |
 | [**Silent Cartel**](books/silent-cartel/) | ✅ Complete draft | 21 of 21 | 65,535 | The working thesis is that American and European antitrust law were built around a single, century-old assumption: that fixing a price requires an agreement, that an agreement requires… | [Read →](https://svyable.github.io/desk/reader/#/b/silent-cartel/) |
 | [**Single Points of Failure**](books/single-points-of-failure/) | ✅ Complete draft | 12 of 12 | 17,850 | The working thesis is that global scale has stopped being the main source of economic power. | [Read →](https://svyable.github.io/desk/reader/#/b/single-points-of-failure/) |
 | [**Solar Century**](books/solar-century/) | ✅ Complete draft | Front matter, back matter; 24 of 24 chapters | 36,135 | The novelty target is the synthesis: the panel is the visible object, while the revolution is everything the panel forces the rest of the infrastructure to become. | [Read →](https://svyable.github.io/desk/reader/#/b/solar-century/) |
@@ -168,6 +169,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Orphan Age**](books/the-orphan-age/) | ✅ Complete draft | 20 of 20 | 49,039 | The central argument of The Orphan Age is that abundance creates a new class of externality: orphan load. | [Read →](https://svyable.github.io/desk/reader/#/b/the-orphan-age/) |
 | [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter; 35 chapters planned | 894 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
 | [**The Reliability Tax**](books/the-reliability-tax/) | ✍️ Drafting | 18 of 18 | 17,815 | The working thesis is that modern economies systematically undervalue redundancy, slack, reversibility and alternative pathways because their costs are visible every quarter while their… | [Read →](https://svyable.github.io/desk/reader/#/b/the-reliability-tax/) |
+| [**The Republic in Motion**](books/the-republic-in-motion/) | ✍️ Drafting | 4 of 25 | — | The Republic in Motion tells the 250-year American story through twenty-five ten-year periods, each using one vehicle to explain what changed. | [Read →](https://svyable.github.io/desk/reader/#/b/the-republic-in-motion/) |
 | [**The Retry Generation**](books/the-retry-generation/) | ✍️ Expanded first draft | 12 + prologue + epilogue + back matter | 23,523 | The book is not anti-retry. Its thesis is that civilization should make cheap mistakes cheap, build real second chances where repair is possible, and add friction, preparation, and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-retry-generation/) |
 | [**The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt**](books/the-risk-pool/) | ✅ Complete draft | 22 of 22 | 68,752 | Working manuscript in Svyable Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-risk-pool/) |
 | [**The Search Frontier**](books/the-search-frontier/) | ✍️ Drafting | 20 of 20 | 66,372 | The central argument is that as generating options becomes cheaper, advantage migrates toward the systems that can decide which possibilities deserve attention, test them against reality… | [Read →](https://svyable.github.io/desk/reader/#/b/the-search-frontier/) |
