@@ -120,6 +120,36 @@ The Constitution had been ratified. That did not automatically make its authorit
 
 Washington’s militia did that.
 
+The legal choreography of the response deserves attention because it reveals what kind of sovereignty the administration wanted to perform. Washington did not simply order soldiers west at the first sign of hostility. Federal law required a judicial finding that ordinary enforcement could not handle the obstruction before militia power could be invoked. Associate Justice James Wilson certified in August 1794 that combinations in western Pennsylvania were too powerful for the ordinary judicial process. Washington then issued the required proclamation ordering insurgents to disperse before the larger military movement proceeded.
+
+Those steps did not make the coercion apolitical. They made its claim to legitimacy procedural.
+
+That distinction became one of the defining ambitions of the constitutional state. Force would not be presented as the ruler’s personal answer to insult. It would be force routed through statutes, judicial certification, presidential proclamation, militia authority, and an articulated duty to execute law. The western rebels could reject the substance and scale of the response, but the administration was demonstrating that republican coercion would wear legal clothes.
+
+This is an important contrast with the imperial crisis of the previous generation. Colonial protesters had complained that power was distant, unrepresentative, and constitutionally unbounded. The federal government answered western resistance by saying, in effect: this law was enacted under your Constitution, the courts are available, the elected government has legal authority, and opposition has crossed from politics into combinations too powerful for ordinary process.
+
+That argument is stronger than “the king commands it.” It is not invulnerable.
+
+Procedure can legitimate force without making the underlying policy wise. A law can be constitutional and badly designed. A judicial certification can be legally proper and still leave affected communities convinced that the state never understood them. A president can comply with statutory prerequisites and still choose a display of power larger than critics think necessary.
+
+The whiskey crisis therefore adds a third category to the book’s developing vocabulary. The Tea Party asked when illegality can acquire legitimacy. Shays asked when popular resistance against representative government becomes coercive faction. Whiskey asks when legal procedure is enough to make state coercion legitimate.
+
+American history never settles any of the three permanently.
+
+The confrontation at Bower Hill helps explain why the administration believed the ordinary line had been crossed. In July 1794, armed groups moved against John Neville’s property after federal process had been served on alleged violators. The confrontation escalated over two days; men died, defenders surrendered, and buildings were pillaged and burned. A subsequent meeting did not erase the escalation. The government could point to a concrete sequence in which enforcement officers and supporters of the tax were being driven from effective service by organized violence.
+
+The rebels could point to their own sequence: years of grievances, petitions, amendments to the tax that did not remove the burden they opposed, distant legal process, and a federal system that appeared willing to use the full machinery of law to protect a fiscal program associated with eastern finance.
+
+Both sides told the timeline from the point at which they believed legitimacy began.
+
+That is what political conflict usually does.
+
+The strongest runner-up for the 1790s is not one event so much as the broader resistance to Federalist power at the decade’s end. The Alien and Sedition Acts generated petitions, newspaper warfare, state resolutions, prosecutions, and electoral backlash. Fries’s Rebellion in Pennsylvania in 1799 again turned federal taxation into organized resistance. Those conflicts matter because they helped make civil liberties and partisan opposition permanent parts of national politics.
+
+The Whiskey Rebellion wins because it came earlier and forced the most basic institutional test. Before Americans could argue over whether the federal government was abusing its powers, they had to discover whether it could execute them at all.
+
+Washington’s answer was yes.
+
 The spectacle also carried danger. If every regional refusal were treated as insurrection, republican politics would narrow into submission. If every organized resistance could nullify federal law, national government would become a suggestion. The young United States had to locate a line between protected opposition and rebellion without a long domestic tradition to guide it.
 
 It never found a permanent line.
