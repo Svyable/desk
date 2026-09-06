@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 4 of 25 drafted |
+| **Chapters**  | 8 of 25 drafted |
 
 *250 Years of America in 25 Vehicles*
 
@@ -39,13 +39,13 @@ An important vehicle can enlarge freedom and coercion at the same time. A wagon 
 - [x] [Ch 2 — 1786–1795: The Republic Gets a Schedule](manuscript/ch02-the-republic-gets-a-schedule.md) — the mail stagecoach
 - [x] [Ch 3 — 1796–1805: Up the Missouri](manuscript/ch03-up-the-missouri.md) — Lewis and Clark's keelboat
 - [x] [Ch 4 — 1806–1815: The River Learns to Run Both Ways](manuscript/ch04-the-river-learns-to-run-both-ways.md) — the North River Steamboat
-- [ ] Ch 5 — 1816–1825: A Boat Across New York — the Erie Canal packet boat
+- [x] [Ch 5 — 1816–1825: A Boat Across New York](manuscript/ch05-a-boat-across-new-york.md) — the Erie Canal packet boat
 
 ### Part II — Rails, Trails, and a Continental State
 
-- [ ] Ch 6 — 1826–1835: Five Hours Between Two Cities — the John Bull locomotive
-- [ ] Ch 7 — 1836–1845: The House on Wheels — the prairie schooner
-- [ ] Ch 8 — 1846–1855: Racing Gold Around the World — *Flying Cloud*
+- [x] [Ch 6 — 1826–1835: Five Hours Between Two Cities](manuscript/ch06-five-hours-between-two-cities.md) — the John Bull locomotive
+- [x] [Ch 7 — 1836–1845: The House on Wheels](manuscript/ch07-the-house-on-wheels.md) — the prairie schooner
+- [x] [Ch 8 — 1846–1855: Racing Gold Around the World](manuscript/ch08-racing-gold-around-the-world.md) — *Flying Cloud*
 - [ ] Ch 9 — 1856–1865: The Ship with Almost No Sides — USS *Monitor*
 - [ ] Ch 10 — 1866–1875: Sleep Across a Continent — the Pullman sleeping car
 
