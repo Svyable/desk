@@ -77,6 +77,7 @@ The central argument is that modern AI containment is not one box. It is a stack
 - [x] [Research brief](research/README.md)
 - [x] [Source ledger](research/source-ledger.csv)
 - [x] [Falsification notes](research/falsification-notes.md)
+- [x] [Release review](research/release-review.md)
 
 ## Rights
 
