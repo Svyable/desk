@@ -18,7 +18,7 @@ It is not one computer.
 
 It is a socio-technical system.
 
-That phrase matters because AI enters systems differently from hardware.
+That distinction matters because AI enters systems differently from hardware.
 
 A new sensor can be added at one point.
 
@@ -40,129 +40,177 @@ Decision support.
 
 Software maintenance.
 
-The risk is not necessarily an autonomous launch button.
+The near-term risk is not necessarily an autonomous launch button.
 
-It is gradual functional dependence.
+It is gradual functional dependence inside a system whose safety depends on knowing where authority actually resides.
 
-A recommendation system becomes so useful that operators stop practicing without it.
+## Map functions before debating labels
 
-A planning tool becomes the only way to generate options on the expected timeline.
+The question “Is AI in the command system?” is too broad to be useful.
 
-A cybersecurity system automatically blocks traffic that later turns out to include critical communications.
+The better question is what machine systems can touch.
 
-A model sorts warning feeds so effectively that operators rarely inspect what falls below the threshold.
+Which inputs can they read?
 
-No single deployment transfers authority.
+Which outputs can they shape?
 
-The architecture shifts anyway.
+Can they suppress information?
 
-This is why governance should map functions rather than labels.
+Can they reorder priorities?
 
-Instead of asking, “Is AI in the nuclear command system?” ask what the system can touch.
+Can they recommend posture changes?
 
-Which inputs can it read?
+Can they alter routing?
 
-Which outputs can it shape?
+Can they modify code supporting communications?
 
-Can it suppress information?
+Can they generate executable instructions?
 
-Can it reorder priorities?
+Can operators bypass them?
 
-Can it generate executable instructions?
+What happens when they disappear?
 
-Can it change routing?
-
-Can it recommend posture changes?
-
-Can it modify software supporting communications?
-
-Can a human operator bypass it?
-
-What happens if it is unavailable?
-
-These questions reveal hidden control.
+This is a **functional map**.
 
 A system can remain formally human-controlled while becoming practically machine-dependent.
 
 Dependency is not the same as authority.
 
-It can be just as consequential.
+It can still shape authority by controlling what humans see, how quickly they see it, and which options arrive first.
 
-The first command-system problem is visibility.
+## Build an authority topology
 
-AI can expand it.
+Every consequential command function should have an **authority topology**.
 
-A machine can monitor more communications paths, sensor anomalies, cyber indicators, software states, and operational data than a human team can hold in working memory.
+Not an organization chart.
+
+A map of who or what can change the state of the system.
+
+Who can originate a warning assessment?
+
+Who can change readiness?
+
+Who can route a message?
+
+Who can authenticate an order?
+
+Who can block traffic?
+
+Who can change model thresholds?
+
+Who can suspend an automated tool?
+
+Who can activate degraded mode?
+
+Who can authorize a software update?
+
+Who can restore a previous version?
+
+The topology should show both human authorities and machine-mediated chokepoints.
+
+If a machine cannot authorize an action but can make the authorized human effectively blind to alternatives, it still occupies a strategically important position.
+
+## The command chain is also an attention chain
+
+AI can expand visibility by monitoring more signals, cyber events, software states, communications paths, and operational data than a human team can hold in working memory.
 
 That can increase resilience.
 
-It can help identify failing components earlier.
+The danger appears when expanded machine visibility becomes narrowed human visibility.
 
-It can route attention toward unusual patterns.
+If operators see only what the model surfaces, the model becomes an attention gatekeeper.
 
-It can detect contradictions among feeds.
+The command system then depends not merely on whether the model is accurate but on what it decides is worth human attention.
 
-The gain is real.
+This creates an **attention chain** parallel to the formal command chain.
 
-The risk appears when expanded machine visibility becomes narrowed human visibility.
+What enters the screen?
 
-If operators see only what the model surfaces, the model has become a gatekeeper.
+What is filtered?
 
-The command system then depends not merely on whether the model is accurate but on what the model decides is worth human attention.
+What is ranked first?
 
-This is a control function even if the software has no authority to act.
+What is hidden behind a confidence threshold?
 
-The architecture should therefore preserve inspectability below the recommendation layer.
+What can the operator retrieve manually?
 
-Operators need ways to see raw or alternate feeds.
+The architecture should treat those questions as command questions, not user-interface questions.
 
-They need to know what was filtered.
+## Preserve inspectability beneath the recommendation layer
 
-They need to understand why one alert ranked above another.
+Operators need access to enough underlying evidence to challenge the machine.
 
-They need to be able to request the evidence the system deprioritized.
+Raw feeds where appropriate.
 
-Without that ability, machine assistance becomes machine mediation.
+Alternate feeds.
 
-The second problem is communications.
+Filter histories.
 
-A command system is useful only if authority can reach forces and forces can communicate enough status back to authority.
+Suppressed alerts.
 
-AI can help route communications around damage, detect network anomalies, allocate bandwidth, prioritize traffic, and identify malicious interference.
+Source provenance.
 
-But prioritization itself is power.
+Model version.
 
-Which message gets through first?
+Changed thresholds.
 
-Which packet is discarded?
+The goal is not to drown humans in data again.
 
-Which network path is trusted?
+It is to preserve a route below the recommendation layer when the recommendation becomes suspect.
 
-Which anomaly causes a connection to be isolated?
+Without that route, assistance becomes mediation.
 
-An automated cyber-defense system may protect the network by cutting off something it believes is compromised.
+And mediation can become hidden control.
 
-If the thing it cuts off is a critical command path, protection becomes denial.
+## Positive and negative control must coexist
 
-This means cyber automation in nuclear command systems has to be evaluated against two failure modes at once.
+Strategic command has two simultaneous obligations.
 
-Unauthorized access.
+**Positive control:** authorized leaders must be able to communicate and act when necessary.
 
-And authorized communication prevented by the defense.
+**Negative control:** unauthorized, accidental, spoofed, or unjustified action must be prevented.
 
-Most cybersecurity optimizes toward blocking hostile activity.
+Many automated systems optimize one side.
 
-Strategic command systems also have to preserve positive control.
+A security tool may block aggressively to protect negative control.
 
-The authorized user must still be able to act.
+A routing tool may maximize delivery speed to improve positive control.
 
-Security that creates paralysis can be a strategic failure.
+The command architecture has to preserve both.
 
-The third problem is authentication.
+A cyber-defense system that stops an attack but also severs a critical authenticated command path can be a strategic failure.
 
-A command system must know that an order is real.
+A system that guarantees message delivery but accepts weak authentication can be a strategic failure in the opposite direction.
 
-Synthetic media and machine-generated communications increase the importance of authentication because surface plausibility is becoming cheap.
+Every machine-assisted control should therefore be evaluated against both axes.
+
+## Create a positive-negative control matrix
+
+For each machine function, ask:
+
+What does it do to authorized action?
+
+What does it do to unauthorized action?
+
+What happens when it falsely blocks?
+
+What happens when it falsely allows?
+
+How is the error detected?
+
+How quickly can a human override it?
+
+Does the override itself require a compromised network?
+
+Can the system fail closed without preventing necessary political control?
+
+Can it fail open without creating unacceptable risk?
+
+This **control matrix** exposes safety tradeoffs that a generic accuracy score hides.
+
+## Authentication cannot become behavioral inference
+
+Synthetic media and machine-generated communications make surface plausibility cheap.
 
 A voice can sound right.
 
@@ -170,109 +218,199 @@ A message can look right.
 
 A document can use the right language.
 
-The answer is not to ask operators to judge realism better.
+The answer is not to train operators to become better judges of realism.
 
-It is to make authorization cryptographically and procedurally legible.
+It is to make authority technically and procedurally legible.
 
-AI can assist with anomaly detection around authentication.
+AI can help detect anomalies around authentication.
 
 It should not become the source of authentication.
 
-“Model believes this message is genuine” is not equivalent to “the authorized chain issued this order.”
+“Model believes this message is genuine” is not equivalent to “the authorized chain issued this message.”
 
-The distinction has to remain absolute.
+Strategic command must depend on verifiable authority, not behavioral resemblance.
 
-Strategic command should depend on verifiable authority, not behavioral resemblance.
+## Separate identity, authenticity, and authority
 
-The fourth problem is degraded mode.
+These concepts are related and distinct.
 
-Every advanced capability creates a temptation.
+**Identity:** who sent the message?
 
-If it works well enough, the old method feels wasteful.
+**Authenticity:** has the message been altered and does it genuinely originate from that identity?
 
-Manual procedures decay.
+**Authority:** is that identity empowered to issue this instruction under current conditions?
 
-Alternative paths are exercised less often.
+A command system can verify identity and authenticity while still receiving an unauthorized order.
 
-Human expertise becomes thinner.
+It can receive an authorized instruction through a degraded channel whose authenticity is harder to establish.
+
+The architecture should never collapse the three.
+
+Machine assistance can help with each support task.
+
+The final authority relation remains institutional.
+
+## Communications triage is command power
+
+AI can help allocate bandwidth, route around damage, prioritize traffic, and detect malicious activity.
+
+Prioritization itself is consequential.
+
+Which message gets through first?
+
+Which packet is discarded?
+
+Which network path is trusted?
+
+Which anomaly causes isolation?
+
+A system that automatically deprioritizes a critical message can shape the decision environment without possessing formal command authority.
+
+The command architecture therefore needs a **communications priority doctrine**.
+
+Which traffic classes can be reordered automatically?
+
+Which cannot?
+
+When does a machine need human confirmation before isolating a path?
+
+What emergency override exists?
+
+How does the system behave when traffic labels themselves may be compromised?
+
+Those questions belong in exercises, not only design documents.
+
+## Degraded mode is a command mode, not a failure footnote
+
+Advanced systems create skill atrophy when their success makes old procedures look wasteful.
+
+Manual interpretation decays.
+
+Alternate routes are exercised less.
+
+Human expertise narrows.
 
 Then the system fails.
 
-A safe command architecture should ask not only how well AI performs when available but what the organization becomes when it is unavailable.
+A resilient command architecture should define **degraded command modes** explicitly.
 
-Can operators still interpret warning feeds?
+Full machine support.
 
-Can communications still be routed?
+Reduced support.
 
-Can plans still be generated?
+Local support only.
 
-Can cyber defenders still distinguish compromise from failure?
+Manual analysis.
 
-Can senior leaders still receive a coherent picture?
+Disconnected communications.
 
-Can the system operate more slowly without losing control?
+Limited sensor availability.
 
-The fallback should not be a museum piece.
+Each mode should specify what functions remain possible, what authorities change, what confidence is reduced, and which actions become unavailable.
 
-It should be exercised competence.
+Degraded mode should be designed before the emergency.
 
-This is expensive.
+## Measure time to trusted degraded operation
 
-Redundant skill looks inefficient when automation works.
+Fallback is not real because a binder says it exists.
 
-That inefficiency is part of resilience.
+The important metric is **time to trusted degraded operation**.
 
-The fifth problem is authority creep.
+How long after loss or suspension of an AI-supported function until operators can continue the mission in a known, practiced, auditable mode?
 
-Automation often expands by solving small problems.
+Minutes?
+
+Hours?
+
+Days?
+
+If the fallback takes longer than the decision window, it is not a fallback for that function.
+
+This metric forces the institution to practice the path rather than admire the plan.
+
+## Authority creep should be treated as configuration drift
+
+Automation often expands in small steps.
 
 First the system recommends.
 
 Then it pre-populates.
 
-Then it executes when the human does not object.
+Then it executes unless the human objects.
 
-Then the human is expected to intervene only on exceptions.
+Then the human becomes an exception handler.
 
-Over time, the default changes.
+No single change appears constitutional.
 
-The machine becomes the actor and the human becomes the monitor.
+The default has still migrated.
 
-This can happen without any formal decision to transfer authority.
+This is **authority creep**.
 
-Command systems need explicit boundaries against this migration.
+The command system should treat authority boundaries like configuration.
 
-Which actions may be executed automatically?
+Version them.
 
-Which require confirmation?
+Audit them.
 
-Which require two-person control?
+Require explicit approval to expand them.
 
-Which require a named authority?
+Test the previous boundary after software changes.
 
-Which are prohibited from automated execution entirely?
+A system should not acquire a new action path because an interface redesign made the approval button easier to skip.
 
-The closer the action gets to irreversible strategic consequence, the clearer the boundary should become.
+## Build an authority-change log
 
-This is functional containment.
+Every change that affects what a model can suppress, trigger, recommend, or execute should enter an **authority-change log**.
 
-Not anti-automation.
+What changed?
 
-Automation can be aggressive in reversible support tasks.
+Who approved it?
 
-Log management.
+What safety case supports it?
 
-Network diagnostics.
+What training changed?
 
-Routine cyber triage.
+What rollback exists?
 
-Data formatting.
+Which exercises tested the new boundary?
 
-Maintenance forecasting.
+Did the change alter human workload?
 
-The architecture should become deliberately conservative as machine output approaches posture, targeting, escalation, or launch authority.
+Did it shift the default from human action to human veto?
 
-The sixth problem is software change.
+This creates institutional memory around gradual automation.
+
+## Save machine speed early and spend human time late
+
+The strongest argument for AI in command systems is that it can save time.
+
+Faster anomaly detection.
+
+Faster data fusion.
+
+Faster retrieval.
+
+Faster cyber triage.
+
+Faster option generation.
+
+The strategic question is where that saved time goes.
+
+If every improvement simply moves the final decision earlier, the system becomes faster without becoming safer.
+
+A better architecture uses machine speed early in the chain to create deliberation near irreversible consequence.
+
+Call this **time conversion**.
+
+Minutes saved in search become minutes for independent confirmation.
+
+Minutes saved in data processing become minutes for adversary communication.
+
+Minutes saved in planning become minutes for senior challenge.
+
+The system should measure whether that conversion actually occurs.
+
+## Model change is part of the operational environment
 
 Hardware command systems were never static.
 
@@ -280,23 +418,21 @@ Software makes change faster.
 
 Models make it faster still.
 
-A model can be updated.
+Weights change.
 
-A retrieval corpus can change.
+Retrieval corpora change.
 
-A dependency can change.
+Dependencies change.
 
-A threshold can be tuned.
+Thresholds change.
 
-A security patch can alter behavior.
+Security patches alter behavior.
 
-A vendor service can change upstream.
+Vendors change upstream services.
 
-This creates configuration risk.
+The system tested last month may not be the system operating today.
 
-The system tested last month may not be exactly the system operating today.
-
-Strategic command therefore needs version control not only for code but for behavior.
+Strategic command therefore needs behavior-aware configuration management.
 
 Which model version is running?
 
@@ -306,57 +442,91 @@ Which thresholds changed?
 
 Which evaluation suite was passed?
 
-What rollback exists?
-
 Who authorized the change?
 
-Can the previous version be restored quickly?
+What rollback exists?
 
-Continuous software improvement is normal in modern systems.
-
-Nuclear command cannot treat every improvement as operationally trivial.
+Can the previous known-safe state be restored quickly?
 
 Change itself is a risk surface.
 
-The seventh problem is common-mode failure.
+## Create command update classes
 
-AI can create hidden coupling across components.
+Not all updates deserve the same process.
 
-Several tools may use the same foundation model.
+Security patch.
 
-Several applications may depend on the same cloud service.
+Data refresh.
 
-Several analytic systems may use the same training corpus.
+Model replacement.
 
-Several cyber-defense tools may share a detection library.
+Threshold change.
 
-The system can look diverse at the interface while depending on one common substrate.
+New external tool access.
 
-That matters because resilience often assumes independence.
+Authority expansion.
 
-Two systems provide redundancy only if they do not fail for the same reason.
+Interface change that alters human behavior.
 
-The architecture needs dependency maps.
+These should be separate **update classes** with different validation requirements.
 
-Which tools share models?
+The closer the change moves to warning interpretation, communications control, readiness, or strategic recommendation, the stronger the review should become.
 
-Which share vendors?
+This keeps the command system from treating continuous software delivery as if consequence were uniform.
 
-Which share data?
+## Common-mode failure can hide beneath interface diversity
 
-Which share identity systems?
+Several tools can look independent while depending on one foundation model.
 
-Which share code?
+Several applications can share a cloud service.
 
-Which share network routes?
+Several cyber tools can use the same detection library.
 
-Diversity should be measured beneath the application layer.
+Several analytic systems can use the same training corpus.
 
-Otherwise the command system may discover its monoculture only after the failure.
+The command system can appear redundant and still contain one common substrate.
 
-The eighth problem is adversarial influence.
+The architecture needs a **dependency graph** below the application layer.
 
-An attacker does not need to seize control of the command system to create strategic danger.
+Models.
+
+Vendors.
+
+Data sources.
+
+Identity systems.
+
+Code libraries.
+
+Network routes.
+
+Time services.
+
+Update channels.
+
+Diversity should be measured by failure independence, not icon count.
+
+## Build a common-mode exposure metric
+
+For each critical command function, ask how many nominally independent paths share one hidden dependency.
+
+If three warning tools all depend on the same data normalization service, that service deserves strategic attention.
+
+If two communications backups share one certificate authority, the backup may be cosmetic.
+
+If several cyber systems depend on one model family, an adversarial input may degrade all of them at once.
+
+A **common-mode exposure metric** makes those concentrations visible.
+
+The goal is not zero commonality.
+
+Some standardization is valuable.
+
+The goal is to know where one failure can become system-wide.
+
+## Attackers can target confidence instead of control
+
+An adversary does not need to seize the command system to create danger.
 
 It may be enough to degrade trust.
 
@@ -368,33 +538,45 @@ Manipulate a software dependency.
 
 Spoof an external indicator.
 
-Create enough false positives that operators begin discounting alerts.
+Create false positives until operators discount alerts.
 
-Create enough doubt about model behavior that humans hesitate to use the system.
+Create enough doubt about model behavior that humans hesitate to use the system at all.
 
-The attacker can target confidence rather than control.
+The attacker can target **confidence availability**.
 
-This is why auditability matters.
+This is a distinct resource.
 
-The system should be able to explain which inputs produced an output.
+A technically functioning system that nobody trusts is operationally degraded.
 
-It should preserve logs that can be trusted independently of the potentially compromised component.
+## Measure time to restored trust
 
-It should allow cross-checks from systems built differently.
+Cyber recovery usually measures restored service.
 
-It should support quarantine of suspect tools without taking the whole command architecture offline.
+Strategic command should also measure **time to restored trust**.
 
-Cyber resilience is partly the ability to keep functioning while distrusting a component.
+How long after suspected compromise until operators can rely on the function again?
 
-The ninth problem is human workload.
+What evidence is required?
 
-One argument for AI is that strategic command environments produce more data than people can process.
+Which independent logs survive?
 
-That is true.
+Can the system prove which outputs were affected?
 
-The wrong response is to make the machine produce one answer.
+Can a suspect component be quarantined without disabling the whole architecture?
 
-The better response is to use the machine to structure attention while preserving disagreement.
+This metric changes incident response.
+
+Recovery is not complete when packets flow.
+
+It is complete when authorized users can act with justified confidence.
+
+## Human workload is part of control
+
+AI can reduce information overload.
+
+The wrong design produces one clean answer.
+
+The better design structures attention while preserving disagreement.
 
 Summarize.
 
@@ -412,13 +594,41 @@ Retrieve precedent.
 
 The human should receive less noise without receiving less uncertainty than the evidence warrants.
 
-That is the design target.
+This is difficult.
 
-The system fails when it makes the picture cleaner than reality.
+An interface that hides uncertainty can transfer effective control toward the machine.
 
-The tenth problem is organizational authority.
+An interface that exposes everything can overwhelm the human and transfer control through overload.
 
-A model may be technically managed by one organization while its output affects several.
+The architecture must manage both.
+
+## Create a human-control budget
+
+Every machine-assisted function consumes some human attention.
+
+Reviewing recommendations.
+
+Checking exceptions.
+
+Investigating anomalies.
+
+Auditing model changes.
+
+Practicing fallback.
+
+The system should track a **human-control budget**.
+
+How much skilled attention is required to keep the function genuinely human-supervised?
+
+If the budget exceeds the staff available under crisis conditions, formal supervision may be fictional.
+
+This is a practical test of meaningful human control.
+
+A human cannot meaningfully supervise ten thousand machine decisions per minute simply because an override button exists.
+
+## Named ownership prevents distributed irresponsibility
+
+A model may be technically managed by one office while its output affects several others.
 
 Who owns the risk?
 
@@ -432,41 +642,185 @@ The cyber unit?
 
 The vendor?
 
-The senior leader who approved deployment?
-
-Distributed technical responsibility can create accountability gaps.
+Distributed technical responsibility can create an accountability gap.
 
 Everyone owns one piece.
 
-Nobody owns the system behavior.
+Nobody owns system behavior.
 
-Strategic command needs named responsibility at the function level.
+Strategic command needs named responsibility at the **function level**.
 
-Who is accountable for warning fusion?
+Who owns warning fusion?
 
-Who is accountable for model evaluation?
+Who owns evaluation?
 
-Who is accountable for fallback readiness?
+Who owns fallback readiness?
 
-Who can suspend the system?
-
-Who can override the recommendation?
+Who can suspend the model?
 
 Who investigates unexpected behavior?
 
-The answers need to be clear before an incident.
+Who certifies restored trust after compromise?
 
-The opposite is governance by improvisation.
+Those answers need to exist before the incident.
+
+## Suspension authority is part of command authority
+
+A useful system becomes difficult to turn off.
+
+Operators rely on it.
+
+Leaders expect its output.
+
+Workflows are built around it.
+
+This creates institutional inertia.
+
+Someone therefore needs explicit authority to suspend or narrow the system when trust degrades.
+
+Suspension should not require proof of catastrophic failure.
+
+Unexpected behavior may justify temporary isolation.
+
+The institution should practice this authority.
+
+If the command system cannot function after one popular AI service is suspended, the dependency itself is a safety finding.
+
+## Exercise failure combinations, not isolated failures
+
+Real crises can stack problems.
+
+A sensor anomaly during a cyber incident.
+
+A communications outage after a model update.
+
+A disputed authentication event while one alternate path is degraded.
+
+A high-confidence warning when the challenge model is unavailable.
+
+A vendor outage during leadership transition.
+
+Exercises should test **compound failure**.
+
+The purpose is to discover interactions among safeguards.
+
+A fallback that works alone may fail when another dependency is also missing.
+
+Strategic resilience is about combinations.
+
+## Build a command-system state machine
+
+The command architecture should know which state it is in.
+
+Normal.
+
+Elevated monitoring.
+
+Degraded data.
+
+Suspected cyber compromise.
+
+Model suspended.
+
+Communications degraded.
+
+Manual fallback.
+
+Restoration.
+
+Each state should define:
+
+What is trusted?
+
+What is not?
+
+Which actions are allowed?
+
+Which require extra confirmation?
+
+Which automated functions are disabled?
+
+Which authorities can transition the system to the next state?
+
+A state machine makes crisis behavior more legible than improvising every safeguard under pressure.
+
+## Metrics should test control, not sophistication
+
+A command system should not be judged by how advanced its AI is.
+
+Track metrics that reveal whether control survives.
+
+Time to trusted degraded operation.
+
+Time to restored trust after compromise.
+
+Common-mode exposure.
+
+Percentage of critical functions with tested manual or alternate modes.
+
+Number of authority-boundary changes since the last validation.
+
+Human-control workload during peak stress.
+
+Time required to suspend a suspect model.
+
+Percentage of consequential outputs with reconstructable provenance.
+
+Frequency of exercises in which operators successfully challenge the machine.
+
+Time conversion from machine speed into human deliberation.
+
+These are closer to the mission than benchmark accuracy alone.
+
+## A strong counterargument: more automation can reduce human error
+
+There is a serious case for deeper automation.
+
+Humans fatigue.
+
+Misread data.
+
+Miss anomalies.
+
+Communicate imperfectly.
+
+Freeze under stress.
+
+Automation can make some functions safer precisely by removing unreliable manual steps.
+
+That argument should be taken seriously.
+
+The question is not human good, machine bad.
+
+It is where automation reduces error without creating brittle dependence or obscuring authority.
+
+Routine, reversible, high-volume support functions may justify aggressive automation.
+
+As consequence approaches irreversible strategic choice, the architecture should demand more legibility, more independent confirmation, and more explicit human authority.
+
+The boundary should be justified by function, not ideology.
+
+## Falsifying the command-system thesis
+
+The argument of this chapter would weaken if human fallback consistently introduced more danger than machine dependence, if authority mapping failed to predict meaningful risk, if manual or alternate modes proved impractical at operational tempo, or if deeper automation reliably improved both positive and negative control without creating common-mode fragility.
+
+Those results would justify more automation in selected functions.
+
+The thesis strengthens if hidden dependencies repeatedly degrade resilience, if authority creep occurs without formal policy change, if machine filtering narrows human awareness, and if tested degraded modes preserve control during technical failure.
+
+The claim should remain empirical.
+
+## The final test is whether responsibility remains legible
 
 AI can strengthen command resilience.
 
-It can help detect cyber intrusion.
+Detect cyber intrusion.
 
 Route communications around damage.
 
 Identify sensor anomalies.
 
-Reduce information overload.
+Reduce overload.
 
 Find contradictions.
 
@@ -476,62 +830,24 @@ Test plans.
 
 Those benefits should be pursued.
 
-But every benefit should be evaluated through the command system’s dual requirement.
-
-Positive control.
-
-Negative control.
-
-The ability to act when properly authorized.
-
-The ability not to act when authorization is absent or the picture is uncertain.
-
-Many systems optimize one side.
-
-A faster workflow improves positive control.
-
-A stricter security filter may improve negative control.
-
-The command architecture must preserve both at once.
-
-This creates deliberate friction near irreversible action.
-
-More independent confirmation.
-
-More explicit authentication.
-
-More visible uncertainty.
-
-More human authority.
-
-More tested fallback.
-
-This may look slower than the technology allows.
-
-That is the point.
-
-The machine can save time earlier in the chain so that the institution can spend time near the consequence.
-
-The command system is ultimately a chain of responsibility.
-
-Every technical component should make that chain easier to understand, not harder.
-
-The strategic test for AI in nuclear command is therefore not whether the model is advanced.
-
-It is whether the architecture remains legible when the model is wrong, unavailable, compromised, or persuasive.
+The strategic test is whether the architecture remains legible when the machine is wrong, unavailable, compromised, or persuasive.
 
 Can the humans still see?
 
-Can they still communicate?
+Communicate?
 
-Can they still authenticate?
+Authenticate?
 
-Can they still challenge?
+Challenge?
 
-Can they still act if authorized?
+Act if properly authorized?
 
-Can they still refuse to act if uncertain?
+Refuse to act when authorization or evidence is insufficient?
 
-If the answer to any of those questions depends on the machine behaving perfectly, the system has confused capability with control.
+Suspend a suspect system?
 
-AI belongs in the command system only when it strengthens the human chain of responsibility under both normal operation and failure.
+Restore trusted operation?
+
+If any of those functions depends on the machine behaving perfectly, the system has confused capability with control.
+
+AI belongs in the command system only when it strengthens the human chain of responsibility under normal operation, degraded operation, and failure.
