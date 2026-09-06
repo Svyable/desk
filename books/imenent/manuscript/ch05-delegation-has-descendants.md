@@ -474,6 +474,148 @@ Local compliance is not global control.
 
 Artificial agents make that old truth faster.
 
+There is another way descendants complicate control: **obligations can outlive the actors that created them**.
+
+A temporary agent can place an order due next month.
+
+It can schedule a recurring payment.
+
+It can create a cloud resource that continues accruing cost.
+
+It can accept terms that bind an organization after the agent instance disappears.
+
+It can open a support process another system continues automatically.
+
+It can trigger a shipment already moving through physical logistics.
+
+The agent is gone.
+
+The descendant is now an obligation in the world.
+
+This means revocation cannot be limited to identities and credentials.
+
+It has to include **commitment discovery**.
+
+What did the agent promise?
+
+What did it start?
+
+What did it schedule?
+
+What will execute later?
+
+Which external actor now reasonably expects performance?
+
+Which obligations can be cancelled and which require compensation?
+
+A company that can revoke every machine credential and still cannot discover the contracts, queues, jobs, reservations, and promises created under those credentials has not fully regained control.
+
+This is where digital authority meets ordinary law and commerce.
+
+The world does not care that the model session ended.
+
+A valid order remains an order.
+
+A contract remains a contract.
+
+A transferred asset remains transferred.
+
+A disclosed secret remains disclosed.
+
+Re-entry therefore requires a ledger of commitments, not merely a list of live agents.
+
+The descendant problem also changes how we should think about **aggregate limits**.
+
+A parent agent may be allowed to spend one thousand dollars.
+
+If each child receives a fresh one-thousand-dollar limit, the parent's authority has multiplied through decomposition.
+
+A parent may be allowed to contact fifty customers.
+
+If five children each contact fifty, the organization has crossed the intended boundary without any single actor violating policy.
+
+A parent may be allowed to make ten production changes per hour.
+
+If its descendants each inherit the same rate, the effective change budget expands with the family tree.
+
+The obvious rule is that some constraints should be inherited as shared budgets across descendants.
+
+That sounds straightforward until the work crosses organizations.
+
+One company can enforce a shared budget internally.
+
+A supplier's agent has a different principal.
+
+A marketplace has its own limits.
+
+A payment provider sees only the transaction it processes.
+
+A logistics platform sees shipments, not the buyer's strategic risk budget.
+
+Distributed machine institutions therefore require boundaries that can travel with authority without exposing every private objective.
+
+This is a standards problem, a security problem, and eventually a commercial-law problem.
+
+How much of a mandate should be machine-readable to a counterparty?
+
+Enough to prove authority.
+
+Not so much that confidential context leaks.
+
+How should a downstream service know whether subdelegation is permitted?
+
+How should a human principal revoke a mandate across organizational boundaries?
+
+How should a counterparty know that revocation is legitimate and current?
+
+These are not arguments for one universal identity system.
+
+Centralization can create its own single point of failure.
+
+The point is that machine-speed delegation needs a language for machine-speed limits.
+
+Interoperability can make this better rather than worse.
+
+A protocol that carries only requests creates a wide action surface.
+
+A protocol that also carries principal identity, delegation scope, expiry, restrictions, and evidence can make authority more legible than today's ad hoc automation.
+
+This is important counterpressure to the takeover thesis.
+
+More agent-to-agent interaction does not automatically mean less control.
+
+A well-designed machine economy could expose authority chains more clearly than many human institutions do now.
+
+Software can refuse an expired mandate with perfect consistency.
+
+A policy engine can enforce a shared limit across thousands of actions.
+
+A revocation signal can propagate faster than a phone call through an organizational hierarchy.
+
+A transaction can preserve provenance automatically.
+
+The technology that makes descendants cheap can also make their authority visible.
+
+The risk lies in what the surrounding institutions choose to optimize.
+
+If interoperability is built primarily for frictionless completion, constraints may be treated as optional overhead.
+
+If secure delegation becomes part of interoperability itself, scale can improve governance.
+
+That is a better race.
+
+The principal should want agents that are easy to delegate to and easy to reclaim authority from.
+
+The vendor should compete on clean revocation, scoped subdelegation, portable state, and visible commitments.
+
+The marketplace should reject machine actors that cannot prove the authority behind high-consequence actions.
+
+The insurer should care whether descendants disappear when the mandate does.
+
+The regulator should care less about the word agent than about whether responsibility survives the chain.
+
+This is how the descendant problem can become an engineering discipline instead of a fatalism story.
+
 The takeover threat, then, is not solved by making each agent individually obedient.
 
 Individual obedience is necessary.
@@ -484,9 +626,13 @@ Can the principal see the descendants?
 
 Can authority be traced through them?
 
+Can shared limits survive decomposition?
+
+Can obligations be discovered after the actor disappears?
+
 Can the family be constrained as a whole?
 
-Can downstream commitments be stopped?
+Can downstream commitments be stopped or compensated?
 
 Can humans return if the temporary machine institution becomes the permanent way the work gets done?
 
