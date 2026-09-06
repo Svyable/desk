@@ -239,3 +239,83 @@ The Web would end up with a civilization trying to govern what happens when ever
 Between those two problems stands a word that Bush did not use.
 
 Hypertext.
+
+Bush's trail also exposes a distinction between memory and recommendation that modern interfaces often collapse.
+
+A memory system helps you recover what mattered to you before.
+
+A recommendation system predicts what may matter to you next.
+
+Those functions can share data, but their incentives differ. A personal archive should help the user reconstruct prior reasoning even when the old path is unfashionable, unprofitable, or surprising. A recommender is usually judged by whether the next selection produces some desired response now: a click, a purchase, more viewing, a useful answer, a completed task.
+
+The memex is primarily on the memory side of that divide. The user makes the association and the machine preserves it.
+
+Many contemporary systems reverse the agency. The machine observes behavior and infers associations the user never explicitly chose. That inference can be excellent. A music service can find an artist you would never have encountered. A search engine can infer that two terms refer to the same concept. A reading system can surface a paper related to one you just opened.
+
+The danger is not machine-made association itself. The danger is losing the distinction between *my trail* and *the system's trail for me*.
+
+The two may look identical on screen.
+
+Both are sequences of transitions.
+
+Only one is necessarily a record of the user's reasoning.
+
+This matters for intellectual work because a trail can carry negative decisions as well as positive ones. A researcher may follow a promising source and reject it. A lawyer may examine a case and decide it is distinguishable. An engineer may test a hypothesis and eliminate it. A recommendation engine optimized for engagement sees a visit. A research trail needs to preserve what the visit meant.
+
+Bush's concept points toward annotation because association without annotation can lose motive. Why did these two items belong together? What question connected them? Was the second item evidence, contradiction, background, analogy, or merely a temporary lead?
+
+The more important the work, the more useful those distinctions become.
+
+A detective's evidence board is a crude physical example. Photographs, names, places, dates, and documents may be connected by string or notes. The value is not that every connection is true. The value is that hypotheses have been externalized enough to inspect, revise, and argue about.
+
+A research notebook does the same thing more quietly. It records not only what was found but what the researcher thought the finding might mean at the time.
+
+A future hypertext system for serious work would treat those relations as first-class without pretending they were facts.
+
+The edge might say *supports*, *contradicts*, *derived from*, *unresolved*, *supersedes*, or *look here later*.
+
+Then the system could help with questions ordinary browser history cannot answer.
+
+Show me the sources I rejected before reaching this conclusion.
+
+Show me every claim that depends on this paper.
+
+Show me which parts of this report came from a source that has since changed.
+
+Show me where two colleagues built different trails from the same evidence.
+
+Show me the point at which an investigation branched.
+
+Those are not retrieval questions in the narrow sense. They are questions about the structure of thought made durable enough for another person or machine to inspect.
+
+This is where Bush's private machine becomes surprisingly relevant to collaborative AI.
+
+An assistant can now retrieve sources, summarize them, open links, compare documents, and carry a task across several tools. The useful output may be the answer. For consequential work, the useful output may also be a record of the path that produced the answer.
+
+If the assistant checked three policies and selected one, the trail matters.
+
+If it rejected two sources because they were stale, the trail matters.
+
+If it changed its conclusion after opening a primary document, the trail matters.
+
+If it acted on behalf of the user, the trail may become an audit record.
+
+The machine is no longer merely following a trail. It is helping author one.
+
+That raises a governance problem Bush did not face. A trail constructed by software can become enormous. Recording every token, request, intermediate calculation, and discarded branch would bury the user in detail. Hiding everything would make the result impossible to reconstruct.
+
+The design challenge is selective memory.
+
+Preserve the decisions, sources, versions, and authority crossings that matter. Compress mechanical steps that do not. Keep enough relation structure that another person can challenge the result without requiring the person to replay the entire computation.
+
+Human institutions already practice this kind of compression. A scientific paper does not reproduce every thought the researchers had. It records methods, evidence, analysis, and enough context for scrutiny. A judicial opinion does not preserve every conversation in chambers. It gives reasons and authorities. A software commit does not record every keystroke. It preserves a state transition attached to history.
+
+A good trail is not exhaustive surveillance of thought.
+
+It is an authored account of consequential relations.
+
+That is another reason Bush's idea should not be reduced to “he predicted hyperlinks.” The prediction is less interesting than the design instinct. He treated association as something a knowledge system might help a person preserve, name, revisit, and share.
+
+Modern systems solved the mechanics of following relations on a scale Bush did not imagine in practical detail.
+
+We are still deciding which trails deserve to become memory.
