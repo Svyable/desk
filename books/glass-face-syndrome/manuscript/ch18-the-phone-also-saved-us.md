@@ -387,3 +387,105 @@ The person in danger has another way out.
 The phone also saved us.
 
 That is precisely why learning to live with it is harder than learning to hate it.
+
+The benefits are not evenly distributed, and that is another reason broad judgments fail.
+
+A smartphone can be most valuable where older infrastructure is weakest. If a bank branch is far away, mobile banking matters more. If public transportation information is confusing, live routing matters more. If specialist medical knowledge is distant, access to information and telehealth can matter more. If a family is geographically dispersed, cheap messaging and video matter more. If a person has been excluded from traditional publishing or professional networks, direct distribution can matter more.
+
+The phone often compresses distance.
+
+Distance is a cost that wealth used to solve more easily.
+
+Travel, long-distance calls, private tutors, assistants, specialized devices, cameras, reference libraries, taxis, financial services, and information intermediaries were all easier to obtain with money. The smartphone did not equalize the world, but it put low-cost versions of many capabilities into a mass-market object.
+
+That is a welfare gain worth naming because nostalgia tends to remember the old tools and forget who could afford them.
+
+The pre-smartphone world contained more friction partly because services were less available.
+
+Some friction protected attention.
+
+Some friction was simply exclusion.
+
+The challenge is to distinguish the two.
+
+A printed boarding pass can be a useful fallback. Requiring everyone to stand in a ticket line is not a moral improvement.
+
+A separate alarm clock can protect sleep. Requiring a blind user to carry multiple specialized devices when one accessible phone works better is not a return to humanity.
+
+A paper map can build spatial understanding. Being unable to reroute around a wildfire or road closure is not character-building.
+
+The same book that argues for boundaries has to avoid turning inconvenience into virtue.
+
+There is also a quiet safety function in the ordinary record the phone creates.
+
+A text message can document a promise.
+
+A photograph can document damage.
+
+Location history can help reconstruct where someone was.
+
+A recording can preserve instructions.
+
+A calendar can establish timing.
+
+A bank notification can expose fraud quickly.
+
+These forms of evidence can protect people in disputes, emergencies, abuse cases, insurance claims, and medical situations.
+
+They can also become tools of surveillance.
+
+The phone protects by remembering and threatens by remembering.
+
+That duality runs through nearly every benefit.
+
+Location sharing can reassure a family and enable coercive control.
+
+A camera can document abuse and violate privacy.
+
+Health tracking can support care and expose intimate data.
+
+Messaging can sustain a vulnerable person and enable harassment.
+
+Banking can expand access and accelerate fraud.
+
+Translation can bridge language gaps and create new dependence on automated interpretation.
+
+The correct response to dual-use capability is governance, not denial.
+
+We do this elsewhere without confusion. Cars create mobility and danger, so we build roads, licensing, seat belts, insurance, design standards, and social rules. Electricity can kill, so we insulate wires rather than returning to candles. Medicine can harm, so we study dosage, interaction, indication, and consent.
+
+The smartphone deserves the same maturity.
+
+It is too useful for a purity movement and too powerful for laissez-faire romanticism.
+
+This is why the phone’s best future may look less dramatic than its invention.
+
+The next breakthrough is not necessarily another astonishing capability.
+
+It may be making existing capabilities easier to use without exposing the user to unrelated claims.
+
+Open the ticket without opening the feed.
+
+Get directions without entering a recommendation market.
+
+Receive the family emergency without receiving the promotion.
+
+Use the camera without being nudged toward publication.
+
+Authenticate for work without carrying work’s ordinary conversation into the night.
+
+Pay without making every commercial relationship eligible to interrupt later.
+
+The design problem after convergence is selective access.
+
+What deserves the hand right now?
+
+The answer should depend more on the person’s intention than on which service is most skilled at creating urgency.
+
+The smartphone’s achievements make that demand reasonable because the hardware is already powerful enough.
+
+Maturity is not less capability.
+
+Maturity is capability that knows its jurisdiction.
+
+That is the version of the future worth preserving: not a retreat from the pocket computer, but a pocket computer that gives more of its power to the person carrying it and less automatic authority to everything that has learned how to live behind the glass.
