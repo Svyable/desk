@@ -52,6 +52,7 @@ That rule lets the familiar national story become strange again. Washington is c
 - [Chapters 9–13 evidence ledger](research/ch09-ch13.md)
 - [Chapters 14–18 evidence ledger](research/ch14-ch18.md)
 - [Chapters 19–25 evidence ledger](research/ch19-ch25.md)
+- [Release review](research/release-review.md)
 
 ## Publication gate
 
