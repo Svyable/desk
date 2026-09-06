@@ -343,3 +343,57 @@ Eventually the habit becomes the barrier a newer pattern must cross.
 Nothing in that cycle guarantees progress.
 
 It only guarantees that history changes the price of possibility.
+
+The awkward middle deserves its own name in any serious account of change, even if we do not turn it into another formal framework.
+
+A transition has a period when the old infrastructure has begun to lose usefulness and the new infrastructure is not yet complete. Redundancy rises. Costs can temporarily increase. People have to know two systems. Exceptions multiply because the boundary between them is moving.
+
+This interval is where many apparently irrational reversals occur.
+
+A company launches a new process, performance drops, and leadership concludes the old one was better. A city adds an alternative mode before the surrounding land use adapts, observes modest early use, and calls the experiment a failure. A new technical standard is judged before tools, training, and compatible products exist. A person learning a new skill reverts under stress because the old one remains automatic.
+
+The failure may be real.
+
+Or the measurement may have been taken while the bridge was still under construction.
+
+This does not justify endless patience with bad transitions. The awkward middle can become a permanent excuse too. A new system that never improves, never attracts complements, and never reduces its transition tax may simply be inferior.
+
+The question is what evidence should change during the transition.
+
+Are errors declining as people learn?
+
+Are complementary tools appearing?
+
+Is migration getting cheaper for each new participant?
+
+Are adapters becoming less necessary?
+
+Is the new system beginning to carry its own maintenance knowledge?
+
+A successful transition should gradually stop needing exceptional protection.
+
+It should begin manufacturing its own resonance infrastructure.
+
+That observation offers a cleaner test than optimism. Newness alone deserves neither worship nor subsidy forever. The purpose of temporary protection is to let an immature pattern reveal whether it can become self-supporting under fair conditions.
+
+This matters for scientific heresies too. A controversial research program can reasonably need special funding for decisive replication because ordinary incentives underprovide it. But if years of support produce no stable effect, no tightening predictions, and no accumulation of reliable method, “lack of infrastructure” stops being a complete explanation.
+
+Transition support should purchase information.
+
+If the information never arrives, the activation barrier may not be the central problem.
+
+There is also a distinction between lowering barriers and shifting costs onto someone else.
+
+A technology can look easy to adopt because infrastructure externalizes pollution, unpaid labor, security risk, or future maintenance. A policy can lower activation energy for one group by raising it for another. A platform can make publishing effortless while making attention brutally scarce.
+
+Every cost surface has a boundary.
+
+Ask where the friction went.
+
+This is important because “making the new easier” sounds automatically progressive. It is not. Resonance infrastructure can subsidize harmful novelty as easily as beneficial novelty. The moral question is not merely whether a system changes but which costs it records and which it hides.
+
+A mature transition therefore needs accounting broad enough to see its displaced burdens.
+
+The activation energy metaphor is useful only if it keeps us looking for real obstacles rather than becoming a flattering explanation for every failure. Sometimes the barrier is coordination. Sometimes the idea is bad. Sometimes both are true.
+
+The work is to tell them apart before history makes the answer look inevitable.
