@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 105 book projects · 52 complete drafts · 2 in revision · 51 drafting**
+> **Desk: 106 book projects · 53 complete drafts · 2 in revision · 51 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 53 author projects · 50 released · 3 public drafts/proofs**
-> **Where they live: 53 in both Desk + Shelf · 52 Desk-only · 0 Shelf-only**
+> **Where they live: 53 in both Desk + Shelf · 53 Desk-only · 0 Shelf-only**
 > **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
