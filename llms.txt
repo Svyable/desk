@@ -104,6 +104,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Search Frontier](https://svyable.github.io/desk/books/the-search-frontier/README.md)
 - [The Second Order](https://svyable.github.io/desk/books/the-second-order/README.md)
 - [The Swarm: Agents in the Wild](https://svyable.github.io/desk/books/the-swarm-agents-in-the-wild/README.md)
+- [The Ten-Year Republic](https://svyable.github.io/desk/books/the-ten-year-republic/README.md)
 - [The Unbounding](https://svyable.github.io/desk/books/the-unbounding/README.md)
 - [The Unobserved World](https://svyable.github.io/desk/books/the-unobserved-world/README.md)
 - [The Value Stack](https://svyable.github.io/desk/books/the-value-stack/README.md)
