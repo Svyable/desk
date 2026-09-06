@@ -17,10 +17,35 @@ jobs:
         with:
           ref: 2e716f684591c51f81c79a05faa4e3dfe31847e5
       - name: Validate Taiwan Threshold chapter length
-        run: python3 scripts/check-book-length.py the-taiwan-threshold
+        id: length
+        continue-on-error: true
+        run: |
+          python3 scripts/check-book-length.py the-taiwan-threshold > /tmp/taiwan-length.txt 2>&1
+          status=$?
+          cat /tmp/taiwan-length.txt
+          exit $status
       - name: Check out current Desk main
         uses: actions/checkout@v4
         with:
           ref: c207010f28e1a6aed80218c73f1f7adf59cfc8b9
       - name: Validate current Desk integrity
-        run: python3 scripts/check-desk.py
+        id: integrity
+        continue-on-error: true
+        run: |
+          python3 scripts/check-desk.py > /tmp/desk-integrity.txt 2>&1
+          status=$?
+          cat /tmp/desk-integrity.txt
+          exit $status
+      - name: Upload validation output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: taiwan-threshold-release-gates
+          path: |
+            /tmp/taiwan-length.txt
+            /tmp/desk-integrity.txt
+      - name: Enforce validation results
+        if: always()
+        run: |
+          test "${{ steps.length.outcome }}" = success
+          test "${{ steps.integrity.outcome }}" = success
