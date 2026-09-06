@@ -184,7 +184,7 @@ Serena belongs at the center of that shift.
 
 She also changed the language around departure. In 2022, when she stepped away from regular tour competition, she publicly resisted the conventional retirement framing and described the move as an evolution toward other parts of life and business.
 
-That language now looks even more interesting because it did not become a permanent full stop. In 2026, at forty-four, she returned to the professional tennis stage in doubles.
+That language became even more interesting in 2026. At forty-four, nearly four years after her 2022 farewell, she returned to WTA competition in doubles at Queen’s Club, accepted a Wimbledon singles wild card, played mixed doubles at the U.S. Open, and reunited with Venus for U.S. Open women’s doubles.
 
 The return does not change the 2010s selection.
 
@@ -229,3 +229,51 @@ The struggle was no longer for permission to exist in the sport.
 It was for the right to exist without becoming comfortable for everybody watching.
 
 Serena Williams won that argument simply by refusing to make comfort the standard.
+
+The strongest challenger for the 2010s is LeBron James, and the comparison clarifies why Serena wins. James was a championship center of gravity, changed the modern economics of player mobility, demonstrated how a superstar could exert leverage over roster construction and free agency, built media and business interests beyond endorsements, and used his platform politically. His 2010 decision to leave Cleveland for Miami became a spectacle about whether fans believed the athlete owed a franchise something beyond the contract.
+
+That is a major ownership story.
+
+Serena’s case is broader because the decade required her to renegotiate not one employment relationship but the cultural terms attached to a woman athlete’s body across age, race, fashion, pregnancy, health, anger, and motherhood while remaining the sport’s competitive standard. James changed what an NBA superstar could control within a league. Serena changed what audiences had to accept a woman superstar could be.
+
+Another challenger is Simone Biles herself. Her dominance began in the 2010s, and by pure gymnastics achievement she already had a decade-defining claim before Tokyo. She takes the 2020s because that later decade adds something historically rarer than medals: a public rejection of the idea that an institution is entitled to performance when the athlete judges the performance unsafe.
+
+The placement lets the chapters form a handoff rather than force two extraordinary Black women into a single symbolic slot.
+
+Serena’s technical influence also deserves more than the word power. Power that cannot be placed is error. A serve that is merely fast becomes predictable. Williams’s greatness came from converting physical capacity into decision advantage: disguise, placement, first-ball aggression, and the ability to raise serve quality under pressure. Her return game punished second serves aggressively enough to change how opponents experienced their own service games.
+
+This is an important correction to the physical stereotype. The body produced options. The player chose among them.
+
+As tennis analytics matured, the strategic richness became easier to describe. Point construction could be decomposed into serve direction, return depth, rally length, court position, and shot tolerance. The older language of overwhelming power was not false; it was incomplete. Serena’s longevity makes the incompleteness obvious because pure explosiveness tends to decline with age. She kept winning by adapting patterns, scheduling, movement, and shot selection as well as by remaining physically formidable.
+
+Longevity is intelligence under changing constraints.
+
+The motherhood chapter makes that intelligence institutional. Pregnancy is not an injury, yet sports systems often treated the absence as though the athlete had simply stopped supplying labor. Rankings, sponsorship protections, seeding, medical care, and scheduling all had to reckon with a career interruption that belonged to ordinary human life and yet could disproportionately affect women’s economic position.
+
+Serena’s fame ensured that every weakness in the system was visible at unusual scale. That visibility benefited debates larger than her own career, but it also placed a burden on her to represent mothers, Black women, athletes with health complications, and women seeking career continuity. No individual should be required to carry all of those constituencies.
+
+Importance often means being assigned them anyway.
+
+Her 2017 Australian Open title while pregnant became culturally irresistible because it seemed to collapse categories the public had treated separately: pregnant body and championship body. The historical lesson should not be that pregnant athletes ought to compete through any condition. That would turn one person’s circumstance into another coercive standard. The lesson is narrower: pregnancy does not erase athletic identity, and institutions should not assume the person’s competitive future has ended.
+
+Her 2026 return makes that point vivid in a different way. The standard career narrative had already closed the book in 2022. She had “evolved away.” Business and family life expanded. Then she chose to compete again. The comeback was not required to justify her legacy and did not need to produce a twenty-fourth major to be meaningful.
+
+The act exposed how much retirement language belongs to observers rather than athletes. Fans want ceremony because ceremony gives memory a clean edge. Broadcasters want “last match.” Brands want farewell campaigns. Hall-of-fame timelines prefer finality.
+
+A person can choose ambiguity instead.
+
+That choice links Serena to the book’s deepest theme. The early athlete could be physically owned. The nineteenth-century professional fought for the right to earn. The twentieth-century star fought for access, speech, organization, and commercial leverage. By Serena’s era, control includes narrative time: when a career begins, what interrupts it, what counts as leaving, and whether leaving must be permanent.
+
+Ownership has become temporal.
+
+Who owns the calendar of the athlete’s body?
+
+The tour has a calendar. Sponsors have campaign calendars. media have seasons. fans have expectations. biology has its own timetable.
+
+Serena’s career refused to let any one of them become sovereign.
+
+That refusal may be the most modern form of her importance.
+
+Jordan taught the industry that the athlete could become a brand.
+
+Serena demonstrated that the brand did not have to consume the person.
