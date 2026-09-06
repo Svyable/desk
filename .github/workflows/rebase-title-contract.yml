@@ -18,6 +18,20 @@ jobs:
           ref: canonical-book-contract-v2
       - name: Carry forward the validated normalizer
         run: curl -fsSL https://raw.githubusercontent.com/Svyable/desk/canonical-book-starter/scripts/align-title-pages.py -o scripts/align-title-pages.py
+      - name: Fix acronym handling and restore semantic title casing
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('scripts/align-title-pages.py')
+          text = path.read_text(encoding='utf-8')
+          old = "    upper_key = core.upper()\n    if upper_key in ACRONYMS:\n        rendered = upper_key\n"
+          new = "    upper_key = core.upper()\n    if core in ACRONYMS or (all_caps and upper_key in ACRONYMS):\n        rendered = upper_key\n"
+          if old not in text:
+              raise SystemExit('expected acronym rule not found')
+          path.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
+          git fetch origin main --depth=1
+          git checkout FETCH_HEAD -- books/hallucinations
       - name: Apply canonical title-page rules to current main snapshot
         run: python3 scripts/align-title-pages.py --write
       - name: Verify title-page contract
@@ -37,5 +51,5 @@ jobs:
             echo "No title-page changes to commit."
             exit 0
           fi
-          git commit -m "Harden canonical book title-page contract"
+          git commit -m "Fix semantic title casing and revalidate front matter"
           git push origin HEAD:canonical-book-contract-v2
