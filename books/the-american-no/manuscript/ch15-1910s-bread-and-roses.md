@@ -230,6 +230,56 @@ That achievement was fragile.
 
 It was also real.
 
+The operational scale was extraordinary even by the standards of the strikes surrounding it. Federal and museum sources describe roughly twenty-five thousand workers participating across Lawrence’s mills. The coalition represented dozens of nationalities and languages. That breadth was not a demographic flourish. It meant every decision had a transaction cost.
+
+A demand agreed in English could fail in Italian. A rumor moving through one neighborhood could reach another too late. A settlement offered to one group could fracture the strike if others believed they had been abandoned. Translation was therefore a form of anti-fragmentation infrastructure.
+
+The strike committee’s representative design made this practical. Delegates from nationality groups carried information back and forth. Organizers used multiple languages in mass meetings. The system reduced the ability of owners to settle selectively with one constituency and leave the others isolated.
+
+This is federalism inside a movement.
+
+The coalition does not erase its parts. It creates a procedure through which the parts can act together.
+
+That structure is one reason Lawrence travels well into the twenty-first century. Many modern movements operate across race, language, religion, geography, occupation, and organizational identity. They often celebrate coalition diversity while underinvesting in the boring machinery that lets difference survive a crisis.
+
+Lawrence’s lesson is less photogenic.
+
+Pay the interpreter.
+
+Make the relief system legible.
+
+Build a committee people trust before the rumor arrives.
+
+The children’s exodus reveals the same organizational intelligence. Sending children to sympathetic families in New York, Vermont, and elsewhere reduced immediate household costs while turning solidarity into a network beyond Lawrence. Receiving communities did not simply sign petitions. They housed children.
+
+That is a high-commitment form of allyship.
+
+When authorities blocked another departure at the Lawrence train station, the state attacked not merely a publicity stunt but a material support system that was extending the strike’s endurance. The political backlash was severe because the intervention exposed exactly what authorities were trying to prevent: outside communities making the local strike sustainable.
+
+Support networks change bargaining power because they change time.
+
+An employer trying to wait out workers depends on hunger arriving before compromise. Strike kitchens, relief funds, host families, and outside donations slow that clock. The movement is therefore fighting over duration as much as wages.
+
+Lawrence won enough time to force negotiation.
+
+The settlement illustrates why victory needs ranges rather than one celebratory number. Different mills and jobs received different increases. National Park Service historical material on the wider 1912 New England textile revolt describes Lawrence gains commonly ranging from about five to seventeen percent, with additional concessions. The exact benefit depended on where a person worked and what that person earned.
+
+That variability matters. A strike can be collectively victorious and individually uneven. People return to different departments, rates, supervisors, and vulnerabilities. The slogan “we won” can conceal the worker whose gain was smallest.
+
+This is another reason durable organization matters after a strike. Someone has to enforce the settlement once the cameras leave.
+
+The strongest runner-up for the 1910s may be the 1913 Woman Suffrage Procession in Washington, which deliberately placed a national demand for voting rights on the capital’s ceremonial stage and drew violence from hostile spectators. Another is the 1917 Silent Parade in New York, where thousands of Black Americans marched against lynching and racial terror in disciplined silence. The 1919 Seattle General Strike offered an even more expansive experiment in labor coordination.
+
+Any of these could anchor the decade.
+
+Lawrence wins because it solves the most difficult organizational problem the industrial age had created: how to make people deliberately divided by language, nationality, skill, and sex behave as one bargaining body without pretending those differences do not exist.
+
+That mechanism will recur far beyond labor.
+
+The civil-rights coalition in Birmingham will need churches, students, lawyers, business pressure, national media, and federal leverage. The Section 504 occupation will need attendants, interpreters, food, political allies, and disability communities with different needs. The 2006 immigrant marches will need radio, churches, unions, students, families, and networks across legal status.
+
+Lawrence is an early master class in that form of coalition infrastructure.
+
 The strike’s most important legacy is therefore not a romantic slogan or even a wage settlement.
 
 It is proof that fragmentation is not destiny.
