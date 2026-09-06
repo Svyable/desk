@@ -4,7 +4,7 @@
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Drafting |
-| **Chapters** | 18 chapters + 2 epilogues drafted |
+| **Chapters** | 18 chapters + 2 epilogues + 3 supplements drafted |
 
 *How I Won Fourth Place in the Q23 Quantiacs Stock-Picking Contest*
 
@@ -16,7 +16,7 @@ First place invites mythology. Fourth place leaves evidence.
 
 The central argument is simple: alpha is not a precious metal you discover. It is what remains after enough bad ideas have been sifted out.
 
-The book begins with Sven Hardy Benson's Q23 Quantiacs result. Quantiacs' published winner table lists **Svyable** in the fourth allocation slot for the **Q23 S&P 500 Long-Short** contest, corresponding to a **$100,000 allocation**. Two later epilogues continue the experiment rather than freezing the story at its most flattering moment: Q24 records a no-allocation Crypto Top-10 contest in which Svyable's best public strategy finished 30th, and Q25 records the stricter pre-live research process as of September 2026.
+The book begins with Sven Hardy Benson's Q23 Quantiacs result. Quantiacs' published winner table lists **Svyable** in the fourth allocation slot for the **Q23 S&P 500 Long-Short** contest, corresponding to a **$100,000 allocation**. Later material refuses to freeze the story at its most flattering moment: Q24 records a no-allocation Crypto Top-10 contest in which Svyable's best public strategy finished 30th; Q25 records the stricter pre-live research process, including a September 6 archive expansion in which twenty additional historically qualifying files mostly increased redundancy rather than independent alpha.
 
 The manuscript deliberately distinguishes verified contest results, public platform snapshots, and reconstructed research history. Where an exact metric, final submission mapping, or causal claim is not supported by the surviving record, the prose does not invent one.
 
@@ -54,10 +54,13 @@ The manuscript deliberately distinguishes verified contest results, public platf
 - [x] [Ch 18 — Fourth Place Portfolio](manuscript/ch18-fourth-place-portfolio.md)
 - [x] [Back Matter — The Sifter Scorecard](manuscript/back-matter.md)
 
-### Epilogues — The Sifter After Q23
+### After Q23 — The Continuing Experiment
 
+- [x] [Interlude — Three Contests, Three Kinds of Evidence](manuscript/interlude-three-contests-three-kinds-of-evidence.md)
 - [x] [Epilogue I — Q24: The Backtest Is Not the Contest](manuscript/epilogue-q24-the-backtest-is-not-the-contest.md)
 - [x] [Epilogue II — Q25: Before the Bell](manuscript/epilogue-q25-before-the-bell.md)
+- [x] [Field Note — September 6, 2026: Thirty Files, One Problem](manuscript/field-note-2026-09-06-thirty-files-one-problem.md)
+- [x] [Appendix — The Alpha Sifter Research Protocol](manuscript/appendix-alpha-sifter-research-protocol.md)
 
 ## Research
 
