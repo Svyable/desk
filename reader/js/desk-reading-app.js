@@ -1,6 +1,8 @@
 const STYLE_ID = 'deskReadingApp';
+const FORM_FACTOR_STYLE_ID = 'deskReadingFormFactor';
 const COMPAT_STYLE_ID = 'deskReadingAppCompatibility';
 const STYLE_HREF = new URL('../css/desk-reading-app.css?v=bookself-20260905', import.meta.url).href;
+const FORM_FACTOR_STYLE_HREF = new URL('../css/desk-reading-form-factor.css?v=desk-20260906-1', import.meta.url).href;
 const SHARED_SETTINGS_STYLE = /\/reader\/css\/settings-panel\.css(?:\?|$)/;
 
 function sharedSettingsStylesheet() {
@@ -20,6 +22,18 @@ function ensureDeskStylesheet() {
   return link;
 }
 
+function ensureDeskFormFactorStylesheet() {
+  let link = document.getElementById(FORM_FACTOR_STYLE_ID);
+  if (link) return link;
+  link = document.createElement('link');
+  link.id = FORM_FACTOR_STYLE_ID;
+  link.rel = 'stylesheet';
+  link.href = FORM_FACTOR_STYLE_HREF;
+  link.dataset.deskReaderPolish = 'immersive-form-factor-20260906';
+  document.head.appendChild(link);
+  return link;
+}
+
 function ensureDeskCompatibilityStyles() {
   if (document.getElementById(COMPAT_STYLE_ID)) return;
   const style = document.createElement('style');
@@ -31,13 +45,15 @@ function ensureDeskCompatibilityStyles() {
 
 function keepDeskStylesAfterShared() {
   const local = ensureDeskStylesheet();
+  const formFactor = ensureDeskFormFactorStylesheet();
   ensureDeskCompatibilityStyles();
   const shared = sharedSettingsStylesheet();
   if (!shared) return false;
   if (shared.nextElementSibling !== local) shared.insertAdjacentElement('afterend', local);
+  if (local.nextElementSibling !== formFactor) local.insertAdjacentElement('afterend', formFactor);
   const compatibility = document.getElementById(COMPAT_STYLE_ID);
-  if (compatibility && local.nextElementSibling !== compatibility) {
-    local.insertAdjacentElement('afterend', compatibility);
+  if (compatibility && formFactor.nextElementSibling !== compatibility) {
+    formFactor.insertAdjacentElement('afterend', compatibility);
   }
   return true;
 }
