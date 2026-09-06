@@ -332,6 +332,112 @@ If it wins, you are early.
 
 If it loses, you still know the territory.
 
+There is a second labor-market effect that matters as much as hiring: adoption changes what managers can reasonably demand from existing workers.
+
+Once a capability becomes common enough, expectations move.
+
+When spreadsheets were scarce expertise, being able to manipulate a large worksheet could differentiate a worker. Later the same capability became assumed in many office jobs. When digital research tools became ordinary, employers stopped treating basic online search as a specialist service. The productivity gain did not remain entirely with the person who learned early. Part of it became the new baseline.
+
+Early adoption can therefore produce an advantage that later turns into an obligation.
+
+The worker who learns a tool early may gain time, status or output. As the tool diffuses, the employer may simply expect more output in the same time. The private surplus is competed away through workplace norms.
+
+This is another reason to convert early advantage into harder assets while the surplus exists.
+
+Use saved time to deepen domain expertise.
+
+Build customer relationships.
+
+Take on harder problems.
+
+Create reusable systems.
+
+Become the person who can supervise or redesign the process rather than merely perform the now-automated step faster.
+
+Otherwise the advantage can disappear into the job description.
+
+This is not uniquely an AI problem. Productivity tools repeatedly reset expectations. Email made communication faster and then increased how much communication people were expected to process. Smartphones made workers reachable and then changed norms around availability. Collaboration software lowered coordination cost and then multiplied channels, documents and meetings.
+
+A capability can save effort and increase demand for the output of that effort at the same time.
+
+The labor-market future is shaped by both effects.
+
+This is why “technology replaces jobs” and “technology creates jobs” are too coarse as organizing questions. Adoption decomposes jobs.
+
+Some tasks become cheaper.
+
+Some tasks become more valuable because cheaper complements increase demand for them.
+
+Some responsibilities move upward into judgment and coordination.
+
+Some work appears because the new technology itself must be governed, integrated, repaired or explained.
+
+The unit of change is often the bundle of tasks inside a role, not the title printed on the badge.
+
+Early adopters can see this decomposition before labor statistics do.
+
+The person using an AI coding assistant notices which part of programming becomes faster and which part becomes more important because more code can now be produced. The clinician using a documentation tool notices whether time moves toward patients or toward reviewing generated notes. The marketer using synthetic media notices whether the bottleneck becomes generation, selection, brand judgment or distribution.
+
+These observations are labor-market intelligence.
+
+They tell you where human scarcity is moving.
+
+A career strategy based on early adoption should follow scarcity, not novelty.
+
+What becomes harder to obtain as this tool succeeds?
+
+Trusted judgment?
+
+Accountability?
+
+Taste?
+
+Integration knowledge?
+
+Customer access?
+
+Physical execution?
+
+Regulatory permission?
+
+The valuable work often sits where the new abundance meets an old constraint.
+
+That is the labor version of the residual-cost principle from earlier chapters.
+
+The technology lowers one price and exposes another.
+
+Workers who understand the newly exposed scarcity can move before formal training systems catch up.
+
+Organizations can do the same in reverse. Instead of asking only which roles a technology could reduce, they can ask which complementary capabilities will become limiting if adoption works. If AI produces more software, security review may become scarcer. If automation expands experimentation, product judgment may become scarcer. If autonomous purchasing grows, identity, authorization and dispute handling may become scarcer.
+
+Hiring for the future is partly hiring around the success case.
+
+This is an important discipline because companies often plan only for failure.
+
+What if the model is inaccurate?
+
+What if employees refuse it?
+
+What if regulators object?
+
+They should also ask what happens if adoption goes better than expected.
+
+Who reviews ten times as much output?
+
+Who handles the new exception volume?
+
+Who owns the integrations?
+
+Who teaches the rest of the organization?
+
+Who decides when an old process can finally be retired?
+
+Success creates work.
+
+Early adopters encounter it first.
+
+That work becomes titles, teams and eventually institutions if the capability persists.
+
 This is how adoption becomes a labor market and how a labor market becomes part of the technology.
 
 The future needs people who can operate it before operating it is ordinary.
