@@ -11,7 +11,7 @@
 
 | | |
 |---|---|
-| **Authors**   | @your-github-username |
+| **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
 | **Chapters**  | 0 of N drafted |
 

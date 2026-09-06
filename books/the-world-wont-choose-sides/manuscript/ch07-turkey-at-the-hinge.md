@@ -34,6 +34,24 @@ They need to be credible enough to change the price of saying no.
 
 This is the gap between exit and exclusivity that defines much of middle-power strategy.
 
+But an exit option is useful only if it can be exercised without destroying the asset that makes bargaining possible.
+
+Turkey’s leverage inside NATO depends partly on still being inside NATO.
+
+A threat to diversify suppliers can improve terms.
+
+A move that permanently severs interoperability can reduce future bargaining power.
+
+An institutional veto can produce concessions.
+
+A pattern of vetoes that persuades partners to design around Turkey can erode the value of the veto.
+
+This creates a hinge problem.
+
+Leverage comes from the possibility of movement.
+
+Too much movement can detach the hinge from the structure that gives it force.
+
 ## Geography keeps generating options
 
 Turkey’s location makes complete alignment unusually costly.
@@ -49,6 +67,46 @@ The Caucasus and Central Asia create linguistic, historical, commercial, and str
 No single partnership can solve all of these problems for Ankara.
 
 That makes portfolio foreign policy rational even when it appears inconsistent from outside.
+
+Geography also creates obligations that a distant state can avoid.
+
+A Black Sea crisis affects shipping, energy, military access, and regional security directly.
+
+A conflict in Syria can create refugee, border, terrorism, and domestic political consequences inside Turkey.
+
+Eastern Mediterranean disputes touch energy, sovereignty, and alliance relationships simultaneously.
+
+The portfolio is not only ambition.
+
+It is a response to multiple theaters that cannot be outsourced to one patron.
+
+## The geography premium
+
+Geographic leverage is often described as if a state can charge rent forever for occupying useful territory.
+
+In practice, the premium depends on alternatives.
+
+Can allies use other bases?
+
+Can trade routes shift?
+
+Can pipelines be rerouted?
+
+Can intelligence be collected elsewhere?
+
+Can diplomacy proceed without Ankara?
+
+Turkey’s geographic leverage is high where substitution is expensive and lower where partners can route around it.
+
+This creates a geographic substitution test.
+
+How much time, money, or military effectiveness does the coalition lose if Turkish cooperation is absent?
+
+That is a more useful measure than saying Turkey is “strategically located.”
+
+Location creates potential.
+
+Substitution cost creates leverage.
 
 ## Russia: compete and cooperate
 
@@ -67,6 +125,44 @@ It also creates risk.
 A relationship built from several bargains can become difficult to manage if one theater suddenly becomes existential. Economic ties can turn into leverage. Energy dependence can constrain policy. A tactical accommodation can be interpreted by allies as strategic drift.
 
 Selective alignment works until the domains stop staying separate.
+
+The key variable is coupling.
+
+How quickly can a disagreement in one theater spread into energy, trade, tourism, arms, or diplomatic cooperation?
+
+The more tightly coupled the portfolio becomes, the less room Ankara has to compartmentalize.
+
+This makes crisis coupling a better test than ordinary peacetime cooperation.
+
+## Compartmentalization needs firebreaks
+
+A state cannot rely on political skill alone to keep domains separate.
+
+It needs institutional firebreaks.
+
+Different contracts.
+
+Different agencies.
+
+Diversified suppliers.
+
+Legal boundaries.
+
+Alternative financing.
+
+Independent military capabilities.
+
+Separate communication channels.
+
+These structures limit the ability of one dispute to consume the whole relationship.
+
+Without them, compartmentalization is rhetorical.
+
+A government can say energy and security are separate.
+
+If one supplier controls enough energy to impose immediate political cost, the separation is thin.
+
+The portfolio needs architecture.
 
 ## The S-400 lesson
 
@@ -89,6 +185,60 @@ Strategic autonomy is therefore not maximized by buying from the largest possibl
 It is maximized by preserving useful alternatives without destroying the interoperability that gives existing partnerships value.
 
 That is a much harder optimization problem.
+
+The S-400 case is strategically useful because it makes switching costs visible in both directions.
+
+Buying outside the alliance can reduce dependence on alliance suppliers.
+
+It can also create a new supplier relationship and narrow access to allied systems.
+
+The state has exchanged one dependency profile for another.
+
+The correct question is not whether the purchase was “independent.”
+
+It is whether the resulting portfolio left Turkey with more usable future choices.
+
+That is the autonomy test.
+
+## Procurement creates alignment through time
+
+A defense purchase is not a one-time political signal.
+
+It creates a lifecycle.
+
+Training.
+
+Maintenance.
+
+Software.
+
+Ammunition.
+
+Upgrades.
+
+Spare parts.
+
+Security procedures.
+
+Doctrine.
+
+A supplier relationship can outlast the government that signed it.
+
+This is why defense procurement is alignment stretched through time.
+
+Turkey’s domestic defense-industrial development matters partly because it can shorten that time dependency.
+
+The more functions that can be performed domestically, the lower the cost of future disagreement with an external supplier.
+
+But indigenous branding is not enough.
+
+The relevant question is the dependency stack.
+
+Which engines, sensors, chips, materials, design tools, and software remain external?
+
+Domestic assembly can coexist with foreign chokepoints.
+
+Autonomy should be measured below the label.
 
 ## NATO as asset, not identity
 
@@ -114,6 +264,52 @@ It is that Ankara can use the possibility of overlapping institutional membershi
 
 The objective may be less to choose a new camp than to refuse the idea that the old camp determines every other affiliation.
 
+The evidence boundary matters.
+
+Interest in another institution is not equivalent to accession.
+
+Accession would not automatically erase NATO membership.
+
+And membership in overlapping organizations would not prove that those organizations have become strategically equivalent.
+
+The analytical point is optionality, not bloc conversion.
+
+## Institutions are portfolios too
+
+States can join institutions for different functions.
+
+Security.
+
+Trade.
+
+Development finance.
+
+Regional diplomacy.
+
+Political signaling.
+
+Access to leaders.
+
+A state can value one institution for military integration and another for diplomatic reach without treating them as substitutes.
+
+This is institutional portfolio strategy.
+
+The cost appears when institutional obligations conflict.
+
+Sanctions expectations.
+
+Security rules.
+
+Technology restrictions.
+
+Voting commitments.
+
+Intelligence trust.
+
+The more obligations couple, the harder overlapping membership becomes.
+
+Turkey is therefore a useful test of how far institutional pluralism can go before one system demands exclusivity.
+
 ## The alliance’s frustration is part of the leverage
 
 Allies prefer predictability for good reason.
@@ -138,6 +334,16 @@ Leverage depends on being difficult to replace without becoming impossible to tr
 
 That is the hinge.
 
+This can be expressed as a trust-substitutability frontier.
+
+More unpredictability can increase bargaining leverage up to the point where partners invest in substitutes.
+
+Once substitutes mature, the same unpredictability produces less leverage and more isolation.
+
+The state therefore has to bargain before it teaches the network how to live without it.
+
+That is one of the most difficult timing problems in middle-power statecraft.
+
 ## The veto as currency
 
 Institutions create procedural power.
@@ -159,6 +365,44 @@ It can also produce resentment if partners believe the veto is being used on unr
 Procedural leverage works best when the coalition still sees the bargain as legitimate.
 
 Otherwise the institution begins looking for workarounds.
+
+A veto therefore has a yield curve.
+
+The first use can reveal indispensability.
+
+Repeated use can increase the discount applied to future cooperation.
+
+The question is not whether veto power exists.
+
+It is whether using it now increases or decreases the value of having it later.
+
+That is intertemporal bargaining.
+
+## Issue linkage is powerful and dangerous
+
+A state can use leverage in one domain to bargain in another.
+
+Alliance procedure for arms policy.
+
+Migration for European relations.
+
+Market access for diplomatic support.
+
+Energy for regional accommodation.
+
+This is issue linkage.
+
+Middle powers often gain leverage precisely because different great powers care about different parts of their portfolio.
+
+The danger is overlinkage.
+
+If every dispute becomes connected to every other dispute, compartmentalization collapses.
+
+Partners begin treating the whole relationship as one contested bargain.
+
+Selective alignment then becomes harder because the state itself has coupled the domains it wanted to keep separate.
+
+A disciplined portfolio therefore needs rules about which issues are worth linking and which should remain fenced.
 
 ## Energy and financial constraints
 
@@ -182,6 +426,26 @@ A diversified set of dependencies is not automatically autonomy.
 
 It can simply be a more complicated dependence map.
 
+This is where liquidity matters.
+
+Some dependencies can be replaced slowly.
+
+A market can shift over years.
+
+An industrial supplier can be substituted with investment.
+
+A financial crisis compresses the clock.
+
+The actor able to provide immediate liquidity can gain influence disproportionate to its long-run share of the economy.
+
+Strategic autonomy therefore has a maturity structure.
+
+Which vulnerabilities matter today?
+
+Which can be fixed over five years?
+
+A state can be diversified at the long horizon and exposed at the short one.
+
 ## Defense industry as optionality
 
 Turkey’s growing domestic defense industry is strategically important because local production can reduce the cost of political disagreement.
@@ -197,6 +461,22 @@ But partial capability matters.
 It gives Turkey more ways to absorb an embargo, substitute a component, offer security partnerships to third countries, and convert industrial relationships into diplomatic ones.
 
 This is how technology policy becomes foreign-policy optionality.
+
+Exports add another layer.
+
+A state that becomes a supplier gains relationships with buyers.
+
+Training, maintenance, co-production, and battlefield reputation can turn industrial capability into diplomatic access.
+
+The country is no longer only negotiating with suppliers.
+
+It has customers.
+
+That changes the portfolio.
+
+But export success can create new dependencies on foreign markets and components.
+
+Again, autonomy is a graph, not a label.
 
 ## Mediation as position
 
@@ -216,6 +496,20 @@ The relationship portfolio creates diplomatic utility.
 
 Utility becomes leverage.
 
+Mediation leverage depends on preserving credibility with both sides without pretending to be neutral on every issue.
+
+A mediator can have interests.
+
+It cannot be useful if one side believes the channel is merely an extension of the other side’s strategy.
+
+This creates a diplomatic trust frontier similar to the alliance one.
+
+Too much alignment can close the channel.
+
+Too much distance from allies can weaken the assets that made the mediator valuable.
+
+The hinge works because it remains attached to more than one structure.
+
 ## Domestic politics is foreign policy
 
 Turkey’s external bargaining is inseparable from domestic political incentives.
@@ -233,6 +527,20 @@ They calculate material incentives and miss the domestic value of refusal.
 Respect is not decoration in these bargains.
 
 It affects the political price of cooperation.
+
+The domestic value of refusal can itself become a bargaining asset.
+
+A government can credibly tell partners that certain terms will not survive at home.
+
+Sometimes the constraint is real.
+
+Sometimes leaders shape the constraint through rhetoric and then become trapped by it.
+
+Strategic autonomy can therefore create its own domestic lock-in.
+
+The more political legitimacy depends on visible independence, the harder quiet compromise becomes.
+
+That is a cost of autonomy narratives.
 
 ## The overextension risk
 
@@ -256,6 +564,74 @@ Optionality is not infinite.
 
 It has maintenance costs.
 
+This suggests a bargaining-density limit.
+
+How many simultaneously contested relationships can the state manage without creating contradictions?
+
+How many issue linkages can bureaucracies track?
+
+How many supplier ecosystems can the military sustain?
+
+How many regional commitments can political leadership monitor closely enough to prevent one bargain from undermining another?
+
+State capacity sets the ceiling on portfolio complexity.
+
+Autonomy requires administration.
+
+## The route-around test
+
+A middle power should ask a difficult question about every leverage point.
+
+What will partners do if they stop accepting the bargain?
+
+Build another base?
+
+Find another supplier?
+
+Create a smaller coalition?
+
+Move the logistics route?
+
+Reduce intelligence sharing?
+
+Change the financing relationship?
+
+The cost of substitution is Turkey’s leverage.
+
+The speed of substitution is Turkey’s warning indicator.
+
+Once partners begin paying the cost to route around a hinge, future leverage declines even before the alternative is complete.
+
+This is why overuse of leverage can be self-liquidating.
+
+A successful bargaining tactic today can finance the partner’s escape tomorrow.
+
+## The autonomy scorecard
+
+Turkey’s strategy can be evaluated through concrete questions.
+
+How many critical military functions remain dependent on a single foreign supplier?
+
+How quickly can partners substitute for Turkish facilities or procedural cooperation?
+
+How often does bargaining produce durable concessions rather than temporary delay?
+
+How much alliance access is lost through incompatible procurement?
+
+How concentrated are short-horizon financial and energy vulnerabilities?
+
+How much domestic defense production can operate through external supply disruption?
+
+How many regional relationships remain compartmentalized during major crises?
+
+How often does a veto create a favorable bargain without accelerating institutional workarounds?
+
+How much mediation utility survives sharper alignment in one theater?
+
+How much administrative capacity exists to manage the portfolio?
+
+These measures make the hinge testable.
+
 ## What would make the thesis false?
 
 Turkey is a useful test of the book because it could support either conclusion.
@@ -265,6 +641,8 @@ If NATO membership ultimately constrains Ankara to align with the alliance acros
 If economic and technology dependencies repeatedly force Turkey to choose one ecosystem, optionality may prove shallower than rhetoric suggests.
 
 If bargaining tactics steadily reduce alliance benefits faster than they produce concessions, autonomy can become self-defeating.
+
+If allies and partners can route around Turkish leverage cheaply enough, geography and procedural power will matter less than the hinge metaphor implies.
 
 But if Turkey continues to preserve meaningful cooperation across rival systems while retaining the strategic benefits of NATO membership, it is strong evidence that alignment can remain divisible even inside a formal alliance.
 
@@ -286,4 +664,6 @@ It is measured by whether the portfolio preserves the ability to choose.
 
 An ally with alternatives is still an ally.
 
-The question is how many alternatives it can add before the alliance stops believing the first relationship is real.
+The question is how many alternatives it can add before the alternatives consume the interoperability, trust, institutional leverage, and domestic capacity that made the original alliance valuable.
+
+The hinge is powerful only while it can still turn.

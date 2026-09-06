@@ -1,8 +1,8 @@
 # Your Book Title
 
-**Your Name**
+**Sven Hardy Benson**
 
-© YEAR Your Name. All Rights Reserved.
+© YEAR Sven Hardy Benson. All Rights Reserved.
 
 ---
 

@@ -189,3 +189,235 @@ That awareness changes the meaning of a quiet chart.
 No result may mean no disease.
 
 It may also mean no test.
+
+A health system can also lose observability when the patient leaves the system entirely.
+
+That sounds obvious until you look at how many performance measures are built from encounters that return to the same database. A patient visits one emergency department, receives no advanced test, and goes home. If the symptoms resolve, the original hospital may never know. If the symptoms worsen and the patient goes to another hospital, the original hospital may also never know. If the patient moves, loses insurance, changes doctors, or decides not to seek care again, the record ends for reasons that have little to do with biology.
+
+The missingness is not random.
+
+People with more stable access, better transportation, stronger insurance coverage, more trust in clinicians, and more ability to take time away from work may be easier to follow. People whose care is fragmented across systems can be harder to observe. A model trained on one institution's records can therefore inherit not only clinical selection but continuity-of-care selection.
+
+This matters because a quiet record can mean several different things.
+
+It can mean the patient stayed well.
+
+It can mean the patient recovered without further care.
+
+It can mean the patient was treated somewhere else.
+
+It can mean the patient could not return.
+
+It can mean the outcome happened outside the institution's field of view.
+
+Those possibilities should not be collapsed into one convenient label.
+
+The problem becomes sharper when a health system uses absence itself as a target. Suppose a model is trained to predict thirty-day readmission. A patient who returns to the same hospital is easy to count. A patient admitted to another hospital may be harder to link. The model can be technically correct about the data warehouse and wrong about the patient's actual trajectory.
+
+That distinction sounds bureaucratic until a system begins optimizing against the label.
+
+If leadership rewards lower recorded readmission, the institution needs confidence that the measure tracks real readmission rather than only recapture inside its own network. If a diagnostic model is judged by later diagnoses, the institution needs to know how much later care it can see. If a follow-up program is evaluated by who returns, the system needs to know whether non-return represents health, disengagement, or migration.
+
+The observation boundary is part of the outcome definition.
+
+This is one reason cross-system linkage can be scientifically valuable. It can reconnect a decision with consequences that occurred elsewhere. But linkage is not free of cost or controversy. It creates privacy obligations, governance questions, matching errors, and the possibility that information collected for one purpose will be reused for another. The answer cannot be simply to connect every record to every other record.
+
+The narrower principle is that institutions should know when their outcome measure ends at an administrative border.
+
+That knowledge can change how confidently they interpret the result.
+
+A hospital with incomplete external follow-up may still use its own data. It may be the best evidence available. But the analysis should distinguish “no adverse event observed here” from “no adverse event occurred.” A model card, quality report, or internal review that preserves that sentence has already prevented one category error.
+
+There is another way observability erodes: the definition of the label can change while the name stays the same.
+
+Medicine is full of categories that depend on thresholds, coding conventions, testing technology, clinical practice, and reimbursement rules. A diagnosis recorded in one period may not be operationally identical to the same diagnosis recorded years later. A laboratory assay may become more sensitive. A guideline may change who qualifies for a test. A billing code may be used differently. A new device may make a previously difficult measurement routine.
+
+The database column keeps its name.
+
+The process that fills it changes.
+
+A learning system needs to treat that change as part of the data generating process, not as background noise.
+
+Imagine a model monitoring whether low-risk patients later receive a particular diagnosis. Halfway through deployment, the health system adopts a more sensitive test. Recorded incidence rises. The model may appear to deteriorate even if patient biology has not changed. Or the opposite can happen: a new guideline discourages testing in a low-risk population, recorded diagnoses fall, and the system appears safer because fewer definitive labels are produced.
+
+The model is looking at a moving measurement regime.
+
+This is familiar to epidemiologists and clinical researchers, but automated systems make it operationally urgent because retraining can absorb the new pattern without explaining it. The system updates. Performance recovers. The institution can move on without noticing that the meaning of the target shifted.
+
+A useful learning record therefore preserves not only the model version but the measurement regime around it.
+
+Which tests were standard?
+
+Which guidelines governed ordering?
+
+Which codes were used?
+
+Which follow-up channels were available?
+
+Which population was eligible?
+
+Which data sources were linked?
+
+Which outcomes were delayed?
+
+The answers do not have to live in the model itself. They have to remain recoverable.
+
+Otherwise a future team may compare two periods and attribute the difference to patients or algorithms when the measurement system changed underneath both.
+
+This is label debt.
+
+The phrase is not meant as another grand framework. It describes an ordinary maintenance problem. Labels are treated as if they were durable facts, but many are products of workflows that drift. The longer a model remains in service, the more likely the machinery that creates its labels will change.
+
+Software teams expect dependency drift. Clinical AI teams need to expect label drift for the same reason.
+
+A dependency can keep returning the same field while changing what the field means.
+
+The safest response is not permanent skepticism. It is versioned context.
+
+When a decision system is retrained, the institution can ask whether the outcome definition is still comparable. When a major testing policy changes, it can mark the break. When external linkage improves, it can expect apparent outcome rates to move. When a subgroup's measurement density changes, it can distinguish better observation from worse health.
+
+These are mundane disciplines.
+
+They are also how a system avoids becoming confident in an artifact of its own instrumentation.
+
+The patient-level consequences are easiest to see near thresholds.
+
+A threshold compresses a continuous uncertainty into an action. Above this risk, test. Below it, do not. Above this score, escalate. Below it, discharge. The threshold may be sensible. Without thresholds, medicine would drown in tests and referrals.
+
+But thresholds create neighborhoods.
+
+A patient just below the line may be almost indistinguishable from a patient just above it. If the action above the line creates a definitive label and the action below it does not, the dataset can develop a sharp difference in knowledge exactly where the clinical difference is small.
+
+That is valuable information about the system.
+
+It suggests that near-threshold cases deserve special attention in evaluation, even when they do not deserve different clinical treatment. Researchers may use natural variation, policy changes, or carefully governed studies to learn around the boundary. Quality teams can monitor later outcomes near the cutoff. Model developers can report uncertainty and support density rather than only the point score.
+
+The goal is not to undermine the threshold.
+
+It is to keep the threshold measurable.
+
+A threshold that cannot be evaluated after deployment gradually becomes tradition.
+
+Medicine has many traditions that began as reasonable responses to evidence available at the time. Some remain excellent. Some persist after technology, populations, costs, or alternatives change. A learning system needs a way to tell the difference without waiting for a dramatic failure.
+
+That means the institution must preserve some disagreement with itself.
+
+This disagreement can be statistical. A benchmark model produces a different estimate. A subgroup analysis shows instability. A calibration check reveals drift.
+
+It can be clinical. Specialists consistently override the recommendation in a narrow situation and can articulate why.
+
+It can be external. Another health system using a different pathway reports different outcomes.
+
+It can be temporal. The same rule performs differently after a change in disease prevalence or testing technology.
+
+It can be patient-reported. People describe consequences that the structured record does not capture.
+
+None of these signals is automatically correct.
+
+Their value is that they create a route by which the dominant system can be questioned.
+
+There is a temptation to treat disagreement as a defect to be engineered away. In production systems, unnecessary disagreement creates friction. Two clinicians giving contradictory advice can confuse a patient. Two models giving different scores can slow a workflow. A hospital cannot hold a philosophy seminar over every discharge.
+
+The operational answer is triage.
+
+Routine agreement can remain routine.
+
+Persistent, consequential disagreement can be sampled for review.
+
+The sampling itself can be designed. Not every override needs a committee. Not every later diagnosis needs a root-cause investigation. The institution can select cases where the disagreement is large, where the outcome is severe, where the patient lies in a sparse region of the data, or where several similar cases accumulate.
+
+This turns disagreement from anecdote into an evidence stream.
+
+It also protects clinicians from a bad incentive. If every override is treated as insubordination, clinicians learn to follow the model even when they notice something real. If every override is celebrated as human wisdom, the model becomes optional and the institution cannot learn whether the deviation helped.
+
+Logging plus outcomes gives both sides a chance to be wrong.
+
+That is healthier than deciding in advance which side owns judgment.
+
+The problem gets harder when the model influences what clinicians notice.
+
+Decision support changes attention. A risk flag can pull a rare diagnosis into view. A low-risk label can make an alternative explanation feel less urgent. The clinician is not interacting with the same case they would have seen without the model; the model is part of the cognitive environment.
+
+This means comparisons between “human” and “AI” can become misleading after deployment.
+
+The relevant unit is often a coupled system: patient, clinician, model, workflow, test availability, incentives, and follow-up.
+
+If outcomes improve, the institution still needs to know why. Was the model more accurate? Did it cause clinicians to gather better information? Did it standardize a good process? Did it simply increase testing? Did it change which patients received specialist attention?
+
+Different mechanisms have different failure modes.
+
+A system that works because it prompts better history-taking may fail when the interface changes. A system that works because it increases testing may lose value when testing becomes expensive or harmful. A system that works because experienced clinicians know when to ignore it may fail when deployed to a setting with less expertise.
+
+Mechanism is part of transport.
+
+This is why successful deployment in one hospital is not the end of evaluation.
+
+The new hospital may have different staffing, different laboratory turnaround, different prevalence, different access to follow-up, different coding, different patient trust, and different incentives. The model can be identical while the decision system is not.
+
+The unobserved world travels with the workflow.
+
+There is also a question of who gets to define the harm worth observing.
+
+Clinical systems naturally privilege outcomes that are measurable and medically legible: mortality, hospitalization, diagnosis, laboratory values, procedures, length of stay. Those matter. Patients may care about other outcomes too: pain, ability to work, time spent navigating care, anxiety after an incidental finding, the burden of repeated appointments, or whether they understood what happened.
+
+Some of these can be measured. Some are expensive to collect. Some are subjective in ways that make automated systems uncomfortable.
+
+Leaving them out does not make them unreal.
+
+A decision rule optimized against a narrow clinical endpoint can move burden into a dimension the dashboard does not watch. Fewer tests may reduce false positives and cost while increasing uncertainty experienced by patients. More tests may catch disease earlier while creating cascades that dominate people's time and attention. A recommendation can be medically defensible and still impose a burden worth naming.
+
+This does not mean every model needs to optimize every value.
+
+It means evaluation should distinguish the objective from the whole outcome.
+
+A model is usually built to improve something specific. The health system remains responsible for the surrounding effects.
+
+That responsibility returns us to the ethical limit on observability.
+
+The institution will always want more labels than it is entitled to collect. Better follow-up would improve evaluation. More testing would reduce uncertainty. More linkage would fill gaps. More monitoring would reveal behavior after care.
+
+Patients are not required to become complete datasets so that the institution can learn perfectly.
+
+The system therefore has to learn under principled blindness.
+
+That is a useful phrase because it prevents a common mistake: assuming every missing value is a technical defect.
+
+Some data is missing because measurement is costly.
+
+Some because the patient left.
+
+Some because another institution owns it.
+
+Some because nobody knew to collect it.
+
+Some because privacy rules correctly block the collection.
+
+Some because consent was not given.
+
+These forms of missingness have different remedies.
+
+A technical defect may justify better instrumentation.
+
+A fragmented-care gap may justify interoperable but governed exchange.
+
+A rights boundary may justify leaving the field blank.
+
+The learning system must know which kind of blank it is looking at.
+
+Otherwise “more data” becomes a way of erasing the reasons data was absent.
+
+Medicine teaches the broader lesson with unusual force.
+
+Observability is not the same as visibility at any cost.
+
+A good clinical system preserves enough feedback to discover when its thresholds, labels, models, and workflows are wrong, while refusing forms of experimentation and surveillance that violate the people it is supposed to serve.
+
+That balance is not solved once.
+
+It has to be maintained as the system changes.
+
+The patient who was not tested today will remain partly unknowable.
+
+The institution's responsibility is not to eliminate that uncertainty.
+
+It is to avoid turning uncertainty created by its own choices into certainty about the world.

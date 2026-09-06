@@ -82,6 +82,10 @@ That is a different decision rule from hiring a professional.
 
 Hiring an expert usually begins with a threshold. Is this problem important enough to justify the rate? Is the project large enough to procure? Is the uncertainty expensive enough to pay for advice? Do we have budget this quarter? The transaction itself selects for importance.
 
+The threshold also contains costs that never appear on the expert's hourly rate. Someone has to identify the right person, explain the problem, schedule the work, negotiate scope, authorize spending, wait for delivery, and decide whether a small question deserves all of that machinery. A ten-minute answer can be economically sensible and still be trapped behind a minimum viable engagement measured in days or thousands of dollars.
+
+Cheap generation attacks that minimum transaction size. It makes a five-minute explanation, a disposable translation, one more scenario, or a rough first pass worth attempting before anyone knows whether the result deserves a larger process. This is not merely substitution inside an existing market. It is an expansion along the margin of attempts.
+
 A nearly free model weakens that filter.
 
 Now the user can ask before knowing whether the question matters.
@@ -127,6 +131,8 @@ There is the institutional cost of allowing the system to touch a consequential 
 These prices can move in different directions.
 
 A legal draft may cost pennies to generate and hours to verify. A code patch may cost almost nothing to propose and days to debug if it fails in a way the tests do not catch. A medical explanation may be cheap to produce while the cost of relying on the wrong one remains enormous. A hundred options may be cheap to request and expensive to compare.
+
+The cheapest component can therefore cease to be the economically decisive one. If review dominates the transaction, another drop in inference cost may barely change the price of a trustworthy outcome. If failures are obvious and reversible, the same price drop can unlock many more attempts. The abundance threshold is not one number for intelligence. It is the point at which generation, checking, error, and coordination together make another attempt worth taking.
 
 Artificial abundance begins when the generation price falls enough to change behavior. It does not require every surrounding price to fall with it.
 

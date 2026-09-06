@@ -1,11 +1,21 @@
 {
   "id": "./",
-  "name": "Svyable Desk Reader",
-  "short_name": "Desk Reader",
+  "name": "Sven Hardy Benson’s Desk",
+  "short_name": "Desk",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#0c0b0a",
   "theme_color": "#0c0b0a",
-  "description": "Read Svyable working drafts and complete manuscripts in the Desk Reader."
+  "icons": [
+    {
+      "src": "app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["books", "education", "productivity"],
+  "description": "Working drafts, complete manuscripts, research, and next editions by Sven Hardy Benson before deliberate release."
 }

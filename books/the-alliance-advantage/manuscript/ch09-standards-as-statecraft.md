@@ -56,7 +56,67 @@ They need enough common grammar that difference does not become isolation.
 
 Standards are that grammar.
 
-But grammar can become empire.
+## The narrow-waist principle
+
+The strongest standard is often the smallest standard that creates the largest field of compatible innovation.
+
+This is the narrow-waist principle.
+
+Standardize too little and systems cannot connect.
+
+Standardize too much and the network freezes around one architecture.
+
+The narrow waist identifies the interface that must remain stable while allowing variation on both sides.
+
+In digital systems this can mean message format, identity, provenance, or transport protocol rather than the internal model.
+
+In logistics it can mean container dimensions, fuel specifications, or documentation formats rather than one common truck.
+
+In weapons it can mean interfaces, safety constraints, and data links rather than one national design.
+
+The strategic benefit is optionality.
+
+A partner can replace an implementation without leaving the ecosystem.
+
+A new supplier can join without redesigning the whole network.
+
+A smaller ally can contribute a component rather than an entire vertically integrated system.
+
+This is how a standard can increase both interoperability and sovereignty at the same time.
+
+## Standards create markets
+
+A common interface is not only a technical decision.
+
+It creates demand aggregation.
+
+If twenty countries require the same interface, a supplier can build one compatible product for a larger market.
+
+That lowers the cost of entry.
+
+It can also redirect industrial investment.
+
+Firms hire engineers for the standard.
+
+Testing laboratories emerge around it.
+
+Training programs teach it.
+
+Certification firms specialize in it.
+
+The standard becomes an industrial ecosystem.
+
+This is why standards policy can shape the defense industrial base without a government explicitly choosing every winning company.
+
+The state writes or adopts the doorway.
+
+Industry competes to build what can pass through it.
+
+That can be healthier than selecting one full-stack vendor and asking allies to follow.
+
+But only if the doorway remains genuinely contestable.
+
+## Grammar can become empire
 
 A standard written around one country’s proprietary architecture can turn interoperability into dependence.
 
@@ -84,47 +144,239 @@ Can the standard evolve without permission from the actor that benefited from th
 
 These are sovereignty questions hidden inside technical committees.
 
-They are also industrial-policy questions.
+The cleanest test is substitution.
 
-A standard can create a market.
+Can the alliance replace one vendor without changing the interface?
 
-When multiple governments converge on an interface, firms can invest against a larger addressable demand.
+If not, the standard may be a proprietary ecosystem wearing the language of interoperability.
 
-A small company no longer needs to sell a complete weapons system to matter.
+## The reference implementation problem
 
-It can build one compatible component.
+Reference implementations are useful because they show what a standard means in practice.
 
-This lowers entry barriers and can increase competition.
+They are dangerous when the example becomes the only implementation anyone can realistically use.
 
-But only if certification does not become its own moat.
+A reference model can become a de facto mandate.
 
-A standard that takes three years and millions of dollars to certify may be open in theory and closed in practice.
+The documentation says alternatives are permitted.
 
-This is where alliances often confuse rigor with slowness.
+Procurement officials choose the known implementation because it is already certified.
 
-Some tests must be demanding.
+Exercises use it because it is available.
 
-Safety and security are not optional.
+Vendors optimize around it because customers expect compatibility.
 
-The question is whether compliance is measurable, repeatable, and proportionate.
+Soon the reference becomes the standard and the standard becomes the vendor.
 
-If every country interprets the same standard differently, the alliance has produced paperwork rather than interoperability.
+This is path dependence.
 
-A useful standard therefore needs a testing ecosystem.
+Alliances should therefore treat reference implementations as test tools, not privileged permanent winners.
 
-Common test environments.
+Alternative implementations should be deliberately exercised.
 
-Reference implementations.
+The ability to substitute should be demonstrated, not assumed.
 
-Shared evaluation methods.
+## Certification is a strategic chokepoint
 
-Clear failure criteria.
+A standard can be open in theory and closed in practice if certification is slow, expensive, opaque, or controlled by one actor.
 
-Reciprocal recognition of certification where possible.
+Certification therefore deserves the same scrutiny as the specification itself.
 
-The objective is not to eliminate national oversight.
+Who can test?
 
-It is to stop twenty nations from proving the same thing twenty different ways when the strategic value comes from connection.
+Who can approve?
+
+How long does approval take?
+
+What evidence is required?
+
+Are equivalent tests recognized across countries?
+
+Can a company challenge a failed result?
+
+Can emergency certification occur during crisis?
+
+Are smaller firms able to afford the process?
+
+If the alliance wants innovation from small companies and smaller allies, certification cost matters strategically.
+
+A three-year compliance pipeline can neutralize the advantage of a startup whose technology changes every six months.
+
+The network may have created an open door that nobody new can walk through before the opportunity disappears.
+
+## Rigor versus latency
+
+Some standards protect life, security, and strategic systems.
+
+Testing should be demanding.
+
+The problem is not rigor.
+
+It is unexamined latency.
+
+Every month of certification delay is a cost.
+
+Sometimes the cost is justified.
+
+Sometimes it comes from duplicated national processes, sequential paperwork, incompatible evidence formats, or a requirement whose safety value is no longer clear.
+
+A mature standards regime should measure certification latency as a design variable.
+
+How much time is spent proving safety?
+
+How much proving the same safety several times?
+
+How much waiting for authority?
+
+How much translating between national test systems?
+
+Interoperability should include interoperability of assurance.
+
+If one ally has already demonstrated a property through an accepted method, the network should know when others can rely on the evidence rather than repeat the entire exercise.
+
+Reciprocal certification is stored time.
+
+## Standards have version histories
+
+A standard is not one document.
+
+It is a sequence.
+
+Version 1 creates compatibility.
+
+Version 2 fixes defects.
+
+Version 3 adds features.
+
+One country updates quickly.
+
+Another cannot update because a legacy platform depends on the older interface.
+
+A third cannot afford the upgrade.
+
+A fourth refuses because the new version changes a security assumption.
+
+The network now has a compatibility problem created by improvement.
+
+Version governance is therefore strategic governance.
+
+How long must backward compatibility last?
+
+Who can deprecate a feature?
+
+What happens when a vulnerability requires an urgent breaking change?
+
+Can old and new versions coexist safely?
+
+Which allies bear the cost of migration?
+
+A standard that cannot evolve becomes obsolete.
+
+A standard that evolves without protecting the network can fragment it.
+
+The alliance needs an update constitution.
+
+## Emergency standards
+
+War and crisis create demands faster than peacetime governance.
+
+A new threat appears.
+
+A partner contributes an unfamiliar system.
+
+A commercial technology must be integrated quickly.
+
+An interface is found to be vulnerable.
+
+The normal standards process may be too slow.
+
+This creates a need for temporary standards.
+
+A provisional interface.
+
+A restricted waiver.
+
+A coalition-specific profile.
+
+A time-limited certification.
+
+Emergency standardization should be designed before the emergency.
+
+Who can authorize an exception?
+
+What minimum evidence is required?
+
+How is the temporary solution isolated?
+
+When does it expire?
+
+How does the coalition avoid letting emergency technical debt become the permanent architecture?
+
+The absence of an emergency path does not eliminate improvisation.
+
+It guarantees improvisation will occur without governance.
+
+## Standards and common-mode failure
+
+Commonality reduces friction.
+
+It can also synchronize vulnerability.
+
+If every ally uses the same cryptographic library, one defect can spread across the network.
+
+If every logistics system uses the same data schema and implementation, one poisoned field can create coalition-wide error.
+
+If every AI system is evaluated against the same benchmark, they may share blind spots the benchmark does not capture.
+
+If every platform depends on the same identity provider, an outage can become strategic.
+
+This is the common-mode problem.
+
+The standard should align interfaces without unnecessarily aligning failure causes.
+
+That means testing diversity deliberately.
+
+Can different implementations pass the same interface test?
+
+Do they fail differently?
+
+Can the network operate when one implementation is withdrawn?
+
+A standard should create interoperability among differences, not erase every difference.
+
+## Standards as supplier discipline
+
+If every ally relies on a different proprietary stack, suppliers can bargain country by country.
+
+If the coalition requires portable data, documented interfaces, exportable configuration, and replacement paths, supplier power falls.
+
+Portability is sovereignty.
+
+This matters especially in cloud, AI, and software-heavy systems where switching cost can become enormous.
+
+Data accumulates.
+
+Workflows harden.
+
+Users learn one interface.
+
+Applications depend on one platform.
+
+A nominally commercial decision becomes a long-term security relationship.
+
+Standards can reduce dependence if they preserve exit.
+
+Exit does not have to be cheap.
+
+It has to be possible within a strategically relevant time.
+
+This suggests an exit-time metric.
+
+How long would it take to replace the supplier without losing the mission?
+
+If the answer is longer than the crisis horizon, the network has a strategic dependency regardless of what the procurement contract says.
+
+## AI should standardize the seam, not the mind
 
 AI makes this problem sharper.
 
@@ -162,6 +414,40 @@ A standard can make uncertainty interoperable.
 
 That is more useful than forcing everyone to share one black box.
 
+It also protects against model monoculture.
+
+Independent models can disagree while using a common grammar for the disagreement.
+
+That is a stronger coalition property than universal convergence.
+
+## Evaluation standards are political
+
+AI evaluation looks technical.
+
+The benchmark determines what the system is optimized to prove.
+
+If the test set emphasizes routine accuracy, rare strategic failures can disappear.
+
+If the evaluation rewards speed, models may compress uncertainty.
+
+If one country defines acceptable risk, that country's political tolerance can become the alliance default.
+
+Evaluation frameworks therefore distribute power.
+
+A shared AI standard should make room for mission-specific thresholds and national risk boundaries while preserving enough common structure for results to be compared.
+
+What does “passed” mean?
+
+Passed for open-source summarization is different from passed for logistics prioritization.
+
+Passed for logistics is different from passed for warning support.
+
+The standard needs functional categories.
+
+Otherwise one certificate becomes a misleading general license.
+
+## Autonomous systems need behavioral interfaces
+
 The same principle applies to autonomous systems.
 
 Allies may build different vehicles, sensors, and control software.
@@ -172,29 +458,25 @@ The goal is not technological sameness.
 
 It is predictable interaction.
 
-Predictability is a strategic asset.
+For autonomous systems, behavior itself may be part of the interface.
 
-It lets a coalition compose forces quickly.
+How does the system indicate intent?
 
-It lets one member understand what another member’s system will do near it.
+What does it do when communication is lost?
 
-It reduces the need for bespoke integration during a crisis.
+How does it yield right of way?
 
-It also creates a platform for experimentation.
+What safety envelope does it preserve around allied platforms?
 
-Once the interface is stable, more actors can innovate beneath it.
+Which commands can it accept from a partner?
 
-That is why open protocols often outlive closed systems.
+How does a human abort the mission?
 
-They move the competitive frontier.
+A vehicle can be mechanically compatible and operationally dangerous if these behavioral rules differ.
 
-Firms compete on implementation rather than ownership of the doorway.
+The alliance needs machine-to-machine rules of the road.
 
-Alliances should want the same outcome where security permits it.
-
-Stable doorways.
-
-Competitive rooms.
+## Security and openness are not binary
 
 This does not mean every standard should be public.
 
@@ -228,6 +510,12 @@ This is not openness as ideology.
 
 It is openness as network design.
 
+The question is not “open or closed?”
+
+It is “open to whom, for what purpose, at what layer, with what security consequence?”
+
+## Standards create diplomatic gravity
+
 Standards also create diplomatic gravity outside formal alliances.
 
 A country may not want a treaty relationship but may want access to a technical ecosystem.
@@ -254,63 +542,33 @@ The second approach is slower.
 
 It can be more durable.
 
-There is also a defensive side.
+Technical adoption can also become a bridge for states that want cooperation without ideological alignment.
 
-Standards can prevent adversaries from turning fragmentation into leverage.
+That makes standards a lower-political-temperature instrument of network expansion.
 
-If every ally relies on a different proprietary stack, a supplier can bargain country by country.
+## Standards can also exclude
 
-If the coalition requires interoperable interfaces and portable data, supplier power falls.
+The same gravity can become coercive.
 
-Portability is sovereignty.
+A powerful ecosystem can write standards that competitors cannot meet economically.
 
-The ability to replace one vendor without redesigning the whole network is strategic freedom.
+Security requirements can become industrial barriers.
 
-This is particularly important in cloud and AI infrastructure where switching costs can become enormous.
+Compliance costs can exclude lower-income partners.
 
-Data accumulates.
+A trusted-supplier rule can narrow procurement before alternatives exist.
 
-Workflows harden.
+The alliance should therefore distinguish legitimate security exclusion from disguised market protection.
 
-Users learn one interface.
+That distinction will never be perfectly objective.
 
-Applications depend on one platform.
+It can be made more credible through transparent criteria, independent testing, reciprocal obligations, and transition support for partners expected to change systems.
 
-A nominally commercial decision becomes a long-term security relationship.
+A standard that demands expensive migration without helping partners absorb the cost can create political resentment even if the security case is sound.
 
-Standards can reduce that dependence by making exit technically possible.
+Statecraft includes the financing of compliance.
 
-Exit may still be expensive.
-
-But expensive is different from impossible.
-
-The politics of standards therefore contains a paradox.
-
-The alliance needs enough commonality to act together.
-
-It needs enough diversity to avoid common failure and domination by one supplier.
-
-The answer is not maximal standardization.
-
-It is selective standardization.
-
-Standardize what must connect.
-
-Standardize what must be authenticated.
-
-Standardize what must be understood under pressure.
-
-Do not standardize every internal design choice merely because uniformity feels clean.
-
-Clean systems can become brittle systems.
-
-A coalition is not a single enterprise architecture.
-
-It is a federation of sovereign actors that needs to behave coherently at specific moments.
-
-The standard should serve that reality rather than erase it.
-
-This is why the process of writing standards matters almost as much as the document.
+## Smaller allies need authorship
 
 If smaller allies participate, the resulting interface is more likely to reflect varied constraints.
 
@@ -320,9 +578,59 @@ If operators participate, the standard is more likely to solve an actual problem
 
 If only the largest procurement organizations write the rules, the network may reproduce their assumptions at alliance scale.
 
-The strongest standard is not the one with the most pages.
+Authorship matters because standards encode defaults.
 
-It is the one many actors can use correctly.
+A smaller ally may have a bandwidth constraint the largest member never experiences.
+
+A different legal regime.
+
+A different industrial base.
+
+A more limited classification infrastructure.
+
+A platform that cannot carry the preferred software stack.
+
+If those constraints appear only after adoption, the standard creates a two-tier network.
+
+Participation in standards governance is therefore participation in alliance power.
+
+## The standards auction
+
+Outside powers understand this.
+
+Countries increasingly face competing technical ecosystems.
+
+Telecommunications.
+
+Cloud.
+
+AI.
+
+Digital identity.
+
+Cybersecurity.
+
+Payment infrastructure.
+
+Defense systems.
+
+The choice of standard can determine future switching costs long before governments describe the choice as geopolitical.
+
+This creates a standards auction.
+
+Competing networks offer price, financing, technology transfer, security, market access, or political flexibility in exchange for ecosystem adoption.
+
+Middle powers can exploit the competition.
+
+Alliances should recognize that the technical quality of a standard is only one part of the offer.
+
+The package matters.
+
+A technically superior standard with expensive compliance and restrictive politics can lose to a more permissive ecosystem.
+
+Statecraft is the entire bargain around the interface.
+
+## Exercise the standard
 
 Standards should therefore be tested in exercises, not only approved in committees.
 
@@ -344,17 +652,90 @@ Test backward compatibility.
 
 Test emergency substitution.
 
+Test whether two independently certified implementations actually behave the same at the seam.
+
+Test the migration path away from the preferred supplier.
+
+Test a compromised reference implementation.
+
+Test whether a partner using the old version remains operational.
+
 A standard earns strategic value through repeated use.
 
 Otherwise it is an aspiration written in technical language.
+
+## A standard needs a seam ledger
+
+Exercises should produce a seam ledger.
+
+Which interface failed?
+
+Was the failure in the specification, implementation, certification, documentation, training, or governance?
+
+Was the failure local or common across several systems?
+
+Which partner owns the fix?
+
+When will the fix be retested?
+
+Did the workaround create a proprietary dependency?
+
+This matters because standards organizations can become good at revising documents without closing operational failures.
+
+The ledger connects paper governance to field performance.
+
+A standard that repeatedly fails at the same seam is not mature because the committee approved a new revision.
+
+It is mature when the failure stops recurring.
+
+## Metrics for standards statecraft
+
+A network should be able to measure whether its standards are producing strategic value.
+
+Useful indicators include:
+
+- time required for a new supplier to achieve compliance;
+- number of independent compliant implementations;
+- percentage of critical interfaces with reciprocal certification;
+- time required to migrate between major versions;
+- proportion of old systems that remain safely interoperable during transition;
+- number of single-vendor dependencies hidden behind ostensibly common standards;
+- exit time from the dominant supplier;
+- cost of certification for small firms relative to large incumbents;
+- frequency of exercise-discovered seam failures;
+- time to close those failures;
+- number of partners able to propose and govern changes;
+- common-mode failures attributable to excessive implementation uniformity.
+
+These metrics make the politics visible.
+
+The goal is not to maximize the number of standards.
+
+It is to maximize usable connection while minimizing lock-in and correlated failure.
+
+## What would make the thesis weaker?
+
+The claim that standards are statecraft should weaken if alliances gain little strategic benefit from common interfaces relative to simply buying the same complete systems.
+
+It should weaken if supplier lock-in remains high even with portable, well-governed standards.
+
+It should weaken if standards adoption outside alliances rarely changes future interoperability or bargaining options.
+
+It should weaken if diverse implementations produce more operational failure than resilience.
+
+Those are empirical questions.
+
+The point is not to elevate committee work into grand strategy by rhetoric.
+
+It is to notice when technical rules change who can join, who can supply, how fast systems can connect, and how expensive it is to leave.
+
+That is statecraft.
 
 The country that helps write these standards gains influence.
 
 The alliance that writes them well gains something larger.
 
 It gains a network that can evolve without becoming incoherent.
-
-That is the statecraft.
 
 Not technical dominance.
 
@@ -364,4 +745,4 @@ A common language that makes cooperation easier than fragmentation while leaving
 
 The best standard does not tell every ally what to build.
 
-It makes sure what they build can still belong to the same fight.
+It makes sure what they build can still belong to the same fight—and that no single doorway becomes the prison through which every future choice must pass.

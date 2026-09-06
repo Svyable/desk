@@ -2,7 +2,9 @@
 
 *Deterrence in the Gray Zone*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 First field edition candidate, September 2026.
 

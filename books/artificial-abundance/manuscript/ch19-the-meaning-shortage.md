@@ -232,6 +232,44 @@ Infinite optionality can therefore become a way of avoiding information.
 
 You preserve every future and learn none of them.
 
+This makes commitment an information-producing act as much as a moral or emotional one. Before a choice is exercised, many important facts remain inaccessible. A simulation can tell you what a job description contains; it cannot tell you what the third month of doing the work feels like. A model can compare neighborhoods; it cannot discover which inconveniences become tolerable once a place becomes home. An organization can forecast customer response; at some point somebody has to ship something and let customers answer.
+
+Keeping an option alive has value because the future is uncertain. But an option also has a carrying cost. It occupies attention. It has to be remembered, compared, refreshed, defended, or consciously ignored. In an organization, a plausible initiative can require recurring meetings, updated numbers, legal questions, staffing scenarios, and explanations for why it has not started. Nothing has been built, yet the option is already consuming capacity.
+
+This is easy to miss when proposal generation is nearly free. The expense moves from producing possibilities to maintaining a legible portfolio of them.
+
+A company can therefore become overloaded before it approves anything. Ten teams each generate ten credible initiatives. The resulting hundred possibilities are not free simply because their first drafts were. Someone has to notice duplicates, identify dependencies, decide which assumptions have expired, and retire the ideas that no longer deserve consideration. An option that nobody is willing to kill can become a small permanent tax on institutional memory.
+
+The same problem appears in personal decisions in a quieter form. A person can keep several possible moves, careers, projects, or courses of study mentally active because assistance makes each one easy to elaborate. Every option can have a plan, a budget, a reading list, and a persuasive account of the person one might become. The plans become clearer while the chooser becomes no more committed.
+
+Cheap exploration is still valuable. The mistake is to confuse reversible exploration with a substitute for every kind of commitment.
+
+Some evidence can be acquired cheaply and reversibly. You can take a short course before changing careers, rent in a neighborhood before buying, build a small prototype before funding a factory, or spend a weekend on a project before reorganizing your life around it. Artificial intelligence can make these probes much better. It can lower the price of reaching the point where reality has something useful to say.
+
+Other evidence arrives only after duration. Trust in a team, fluency in a craft, knowledge of a place, the consequences of maintaining a system, and the character of a long obligation reveal themselves over time. No amount of polished preview compresses all of that experience into the selection stage.
+
+This gives optionality a limit. The value of another simulation falls when the next uncertainty can only be reduced by living with a choice.
+
+Abundant assistance also complicates the formation of preferences themselves. A system that remembers what you liked last year can protect you from novelty for novelty's sake. It can remind you that every previous attempt to optimize for prestige made you miserable, or that you repeatedly return to a certain kind of work after distractions pass. Memory can make stated priorities harder to abandon impulsively.
+
+The same memory can narrow the menu. If an assistant learns from yesterday's choices and uses them to decide what deserves to be shown tomorrow, preference can become recursive. What was once a tentative pattern starts shaping the evidence from which the next preference is inferred. The system becomes very good at helping you want what it already knows how to recognize.
+
+There is no general rule that says remembered preference is liberating or confining. Sometimes the useful assistant is the one that filters aggressively. Sometimes it is the one that notices the filter has become stale.
+
+The practical problem is deciding when search should end.
+
+In a world of expensive search, exhaustion often supplied the stopping rule. The store closed. The library stack ended. The analyst ran out of time. The prototype budget was spent. Those limits could be arbitrary and unfair, but they forced a decision.
+
+When another option costs almost nothing to generate, stopping has to become more deliberate. A deadline can do it. So can a fixed exploration budget, a threshold of evidence, a reversible trial, or a statement of what must be displaced if the new option is chosen. None of these rules guarantees a good decision. They prevent the search process from consuming the very time, attention, or money it was meant to allocate.
+
+A stopping rule is therefore not a theory of the good life. It is administrative modesty applied to abundance.
+
+The rule says that uncertainty does not have to reach zero before action begins.
+
+That matters because generative systems are exceptionally capable of making continued search feel productive. The next comparison really may be better. The next scenario may expose a risk. The next draft may clarify a preference. There is no obvious point at which the machine becomes unable to help.
+
+The limit has to come from the chooser's scarce resources and the consequence being decided.
+
 A good assistant may help by lowering the cost of trying one path far enough to get evidence. That is the strongest counterpoint to the whole chapter. Artificial abundance can make experimentation cheaper, and cheaper experiments can improve commitment rather than undermine it.
 
 The person does not have to choose a career from twenty descriptions. She can simulate tasks, build a small project, talk through scenarios, learn enough vocabulary to ask better questions, and then update her view.

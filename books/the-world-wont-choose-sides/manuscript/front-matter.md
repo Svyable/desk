@@ -2,7 +2,9 @@
 
 *Middle Powers and the New Balance of Power*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 First field edition candidate, September 2026.
 

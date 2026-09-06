@@ -222,7 +222,43 @@ The organization will not know which story it is living from a quarterly product
 
 Skill formation has a longer clock.
 
-This is the deeper unbundling artificial abundance forces.
+That creates a balance-sheet problem that ordinary productivity accounting handles badly.
+
+A junior assignment has two outputs. One is the work product delivered today. The other is a somewhat more capable worker tomorrow. The first output is visible to the client and easy to price. The second sits inside the employee and may not pay off for years. When software can produce the first output cheaply, a firm can rationally stop purchasing the assignment while accidentally stopping investment in the second output as well.
+
+The incentives are especially awkward because the firm that pays for training may not be the firm that eventually captures its return. A junior lawyer can leave. An engineer can be recruited away. A hospital can train a clinician who later practices elsewhere. Employers have always faced this problem, but automation can sharpen it by making the immediate production case for junior work weaker before an alternative training institution exists.
+
+That does not mean every company should preserve old staffing ratios as a public service. It means the apprenticeship pipeline is an economic asset that can be consumed without appearing as depreciation.
+
+You can see the danger in a team that becomes wonderfully efficient at normal cases. The tool drafts the routine change, explains the unfamiliar library, writes the test, summarizes the incident, and suggests the fix. Senior people review. Fewer juniors are needed to move the queue. For several years the arrangement can look strictly better.
+
+Then the senior people leave.
+
+The question is not whether the remaining workers can produce ordinary output with the tool. They probably can. The question is whether enough of them have accumulated the pattern library required to recognize the abnormal case, challenge a plausible suggestion, or redesign the system when the old assumptions stop holding.
+
+This is why a healthy apprenticeship cannot be measured only by how much unassisted work a novice performs. The more useful measure is whether responsibility expands.
+
+Can the junior explain the failure rather than merely repair it?
+
+Can she predict which change will be dangerous before the test suite says so?
+
+Can she identify what evidence would make the generated answer unacceptable?
+
+Can she handle a wider class of exceptions without escalation?
+
+Can she teach the next person why the local rule exists?
+
+Those are signs that capability is accumulating even if the keyboard work is increasingly shared with a machine.
+
+The same distinction changes how experts should think about their own value. If an expert's advantage can be expressed entirely as a reusable instruction, template, or example, the advantage is likely to diffuse. Once encoded, it can travel without the person. The expert may still benefit by encoding it first, but the market should not be expected to preserve the old premium indefinitely.
+
+Harder advantages are relational and institutional. Knowing which executive will actually veto the proposal. Knowing that a supplier's published lead time is not the lead time this factory experiences in winter. Knowing which symptom in this patient is unusual because you saw the patient before. Knowing which compromise opposing counsel can accept without losing face. Knowing which failure the organization can survive and which one will end the company.
+
+Some of that knowledge can also be captured. More of it will be. The boundary is not sacred.
+
+But the capture process itself reveals what the organization has been buying from expertise besides fluent production: memory, context, exception handling, trust, authority, and the ability to absorb consequences.
+
+That is the deeper unbundling artificial abundance forces.
 
 A profession must separate production, training, judgment, status, and responsibility instead of assuming they will continue to travel together because they did in the old workflow.
 
