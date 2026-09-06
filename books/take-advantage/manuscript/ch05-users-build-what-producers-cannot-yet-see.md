@@ -325,3 +325,87 @@ And once enough of them solve the same future problem in the present, the produc
 Not a forecast.
 
 A prototype made by demand itself.
+
+The danger in this idea is that every workaround begins to look prophetic.
+
+Most are not.
+
+Organizations are full of local repairs to local problems. A spreadsheet can exist because the official software is badly configured, not because a new industry is waiting to be born. A developer can write a wrapper because reading the documentation was inconvenient. A group chat can replace a workflow tool because the team is avoiding discipline rather than discovering a superior coordination model.
+
+The producer searching for lead users therefore needs a filter.
+
+The first filter is recurrence.
+
+Does the same workaround appear independently in different places?
+
+Independent reinvention is costly evidence. If several organizations that do not know one another build roughly the same missing layer, the missing layer deserves attention. They may choose different implementations, but the repeated structure of the need matters more than the code.
+
+The second filter is sacrifice.
+
+What did the user give up to make the workaround exist?
+
+A ten-minute shortcut is weak evidence. A team that allocates an engineer for three months has made the need expensive enough to become legible. A factory that builds custom tooling around a recurring defect has revealed more than a customer saying a feature would be nice.
+
+The third filter is persistence.
+
+Does the workaround survive after novelty disappears?
+
+Users abandon many improvised tools once the immediate crisis passes. Others become infrastructure nobody dares remove. Persistence suggests the workaround is attached to a durable job.
+
+The fourth filter is spread.
+
+Do other people copy it without being ordered to?
+
+A solution that travels is beginning to separate from its inventor. This matters because productization is the process of making a solution useful to strangers. Unprompted copying is an early rehearsal.
+
+The fifth filter is dissatisfaction with the workaround itself.
+
+This sounds contradictory, but it is often the strongest signal.
+
+People can depend on a crude solution and hate maintaining it. They want the function, not the artifact. The spreadsheet is indispensable and terrifying. The script saves hours and breaks every time an upstream format changes. The manual checklist catches failures and consumes half a shift.
+
+That combination—high value and high irritation—is fertile ground for a product.
+
+The user has already proved the function deserves to exist.
+
+The producer can compete against the pain of maintaining the homemade version.
+
+This is a different market from persuading people they need an unfamiliar behavior.
+
+The behavior already exists.
+
+The user is waiting for civilization to catch up.
+
+There is also a moral dimension to whose workarounds producers choose to see.
+
+Markets notice some lead users more easily than others. Wealthy customers can pay for prototypes. Large firms can get vendor executives into the room. Technically skilled communities can publish their modifications. People with disabilities, informal workers, small organizations or users in lower-income markets may solve advanced problems without creating signals that conventional product teams monitor.
+
+A market can therefore mistake visibility for importance.
+
+The future may be arriving somewhere without a procurement budget.
+
+Design history contains many examples in which adaptations created for disability or constraint became broadly useful later. The deeper principle is not that every accessibility workaround will become mass-market technology. It is that constraint exposes assumptions. A user who cannot perform the default gesture, see the default interface, hear the alert, hold the device, maintain a constant connection or pay the expected price reveals which parts of a design were treated as universal only because most designers shared them.
+
+Constraint is a form of information.
+
+Lead users often possess more of it.
+
+The producer who learns from them is borrowing reality from an environment more demanding than the average one.
+
+That can create robust products if the producer translates carefully.
+
+It can create absurd products if the producer ships the workaround unchanged.
+
+Translation is the final step.
+
+A user innovation is an answer to one user’s economics. A product must survive many users’ economics. The homemade device can require an expert because the expert built it. The commercial device needs installation instructions. The internal script can assume trusted inputs. The product needs security boundaries. The laboratory apparatus can be recalibrated by the scientist who designed it. The commercial instrument needs service intervals and replacement parts.
+
+Productization is civilization adding handles to a private solution.
+
+That process often removes exactly the parts early users found tolerable because their need was so strong.
+
+The irony is productive.
+
+The lead user invents because she can tolerate complexity.
+
+The mainstream product succeeds by making sure the next person does not have to.
