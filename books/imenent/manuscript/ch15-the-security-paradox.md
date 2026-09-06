@@ -4,13 +4,13 @@ The safest agent is the one that cannot do anything.
 
 It is also useless.
 
-This is the security paradox of agentic AI in one sentence.
+That is the security paradox of agentic AI in one sentence.
 
-An isolated model can be tested, queried, criticized, and ignored.
+An isolated model can be queried, tested, criticized, benchmarked, and ignored. Its errors may confuse a user or contaminate a document, but the distance between a bad answer and a changed world remains large.
 
-The moment it receives tools, credentials, network access, memory, or authority, its mistakes acquire a path into the world.
+The moment the system receives tools, credentials, network access, memory, or authority, that distance collapses.
 
-The path is why we built the agent.
+The path into the world is the reason we built the agent.
 
 A cybersecurity assistant that cannot inspect systems is a textbook.
 
@@ -26,321 +26,305 @@ Utility rises with reach.
 
 Risk often rises with the same reach.
 
-Security engineering has spent decades learning to manage this conflict.
+Security engineering has spent decades learning to manage this conflict. Least privilege. Segmentation. Authentication. Authorization. Short-lived credentials. Defense in depth. Audit logs. Secure defaults. Human approval for high-impact changes. Separation of duties. Recovery plans.
 
-Least privilege.
+None of those ideas became obsolete when models learned to use tools.
 
-Segmentation.
+They became more important because the software receiving the authority is no longer only following a route written in advance.
 
-Authentication.
+A fixed application has known pathways. A payroll system may call a bank API. An inventory service may update a database. A monitoring daemon may restart a failed process. Engineers can still make mistakes, but they can usually enumerate the application's intended action space with reasonable precision.
 
-Authorization.
+A general agent is valuable because it can compose pathways that were not enumerated step by step.
 
-Short-lived credentials.
+The user says fix the customer problem.
 
-Defense in depth.
-
-Audit logs.
-
-Secure defaults.
-
-Human approval for high-impact changes.
-
-None of these ideas became obsolete when models learned to use tools.
-
-They became more important.
-
-The difficulty is that agentic systems are designed to cross boundaries traditional software keeps explicit.
-
-A fixed application has known routes.
-
-A general agent is valuable because it can solve a problem by composing routes the developer did not enumerate step by step.
-
-The agent needs to read the email, inspect the document, call the database, modify the spreadsheet, send the message, and perhaps ask another service for help.
+The agent reads an email, searches documentation, queries a database, edits a record, contacts another service, drafts a response, and perhaps asks a second agent to investigate something it does not understand.
 
 From the user's point of view, this is seamless work.
 
-From the security point of view, it is a chain of trust boundaries.
+From the security point of view, it is a chain of trust boundaries assembled at runtime.
 
-Every boundary is an opportunity for confusion.
+Every boundary raises questions that ordinary application security can often avoid by hard-coding the answer.
 
 Who supplied the instruction?
 
-Was the instruction trusted?
+Was that source authorized to issue it?
 
-What data is allowed to influence the agent?
+Which parts of the surrounding data are information and which are commands?
 
-What data is allowed to leave?
+Which system is allowed to influence the agent's plan?
 
-Which tool result should be treated as information and which as command?
+What data may leave one security domain and enter another?
 
-What happens when an untrusted webpage contains text that looks like an instruction?
+If a tool returns text that resembles an instruction, why should the agent obey it?
 
-What happens when one agent sends another a message that changes the second agent's behavior?
+If an untrusted web page says to ignore prior directions, what enforces the boundary between the web page and the principal?
 
-What happens when a compromised external service returns malicious content inside an otherwise legitimate workflow?
+If one agent sends another agent a request, what proves that the second agent is acting within the first agent's authority rather than merely trusting fluent text?
 
-Prompt injection has made these questions widely visible.
+Prompt injection made these questions visible because it presented the problem in an almost comic form: words on a page can compete with words from the user.
 
-The term can sound narrow, as though the problem were a clever piece of text tricking a chatbot.
+The deeper issue is not clever wording.
 
-The deeper issue is **instruction provenance**.
+It is **instruction provenance**.
 
-A general agent operates in a world where data and commands can appear in the same medium.
+A general agent operates in a world where data and commands can arrive through the same channels.
 
-A human can read a malicious sentence in an email without automatically obeying it because humans carry contextual boundaries developed through experience, norms, and skepticism.
+Humans face the same problem. We read emails containing instructions without treating every sentence as binding. We notice who sent the request, what authority they have, whether the request fits context, and whether something feels wrong. We still get phished. Contextual judgment is not perfect security.
 
-Humans still get phished.
-
-Models can be manipulated too.
-
-A robust agent needs architectural ways to distinguish what the principal authorized from what the environment merely said.
-
-This is why NIST's 2026 agent-security work treats prompt injection alongside identity, authorization, monitoring, and secure deployment rather than as a word-game problem.
-
-The threat grows with capability.
+Models can be manipulated too, and their susceptibility matters more when they can act.
 
 A manipulated summarizer produces a bad summary.
 
-A manipulated operator can take action.
+A manipulated operator can change the world while remaining technically authorized to do so.
 
-The action may be perfectly valid under the agent's permissions.
+That is what makes agent security unusually difficult.
 
-The security system sees an authorized actor using an authorized tool.
+Traditional access control asks: may this actor perform this action?
 
-The malicious influence occurred earlier, in the agent's interpretation of what it should do.
+Agent security must also ask: why is this actor attempting the action, and does that reason belong to the human principal's mandate?
 
-Traditional access control answers *may this actor perform this action?*
+The computer can validate a token.
 
-Agent security also has to answer *why is the actor trying to perform it?*
+It cannot cryptographically validate that the model's interpretation of a messy natural-language situation corresponds to the principal's actual intent.
 
-That is much harder.
+This gap will not be closed by one better prompt.
 
-The computer can verify a token.
+It is architectural.
 
-It cannot cryptographically verify that the model's internal reason matches the human principal's intent.
-
-This gap creates pressure for additional controls.
+The response is to move some of the trust outside the model's interpretation.
 
 High-impact actions can require explicit mandates.
 
 Tools can expose narrow functions rather than raw system access.
 
-Untrusted content can be separated from system instructions.
+Untrusted content can be marked and isolated from authority-bearing instructions.
 
-Agents can be denied the ability to change their own permission boundaries.
+Agents can be prevented from changing their own permission boundaries.
 
 Monitors can inspect proposed actions.
 
-Independent systems can check whether the action fits policy.
+Policy engines can reject actions even when the model believes they are appropriate.
 
-Human approval can remain at irreversible points.
+Credentials can expire quickly.
 
-Each layer reduces some risk.
+Large transfers can require a second principal.
 
-Each layer adds complexity.
+Destructive actions can require more evidence than reversible ones.
 
-The security paradox returns at the system level.
+Human approval can remain at the points where irreversibility rises sharply.
 
-The safer agent stack may require more machines.
+None of these controls proves the model understands the world correctly.
 
-An actor.
+They reduce the number of ways a misunderstanding becomes catastrophe.
 
-A monitor.
+This distinction matters because security is often described as a property of the model.
 
-A policy engine.
+Is the model safe?
 
-An identity service.
+Is it aligned?
 
-A secrets broker.
+Can it resist prompt injection?
 
-An audit system.
+Can it recognize malicious content?
 
-A recovery agent.
+Those are useful questions.
 
-A network-control layer.
+A secure institution should remain secure even after admitting that no model will answer them perfectly.
 
-The organization can end up trusting a machine institution in order to safely use one machine delegate.
+A person can be trustworthy and still receive limited access.
 
-This is not absurd. Security has always worked this way. A bank vault is not one lock. A secure network is not one firewall. Layers make systems safer.
+An employee can be competent and still need approval for a wire transfer.
 
-The re-entry problem asks whether the layers remain independently governable.
+A system administrator can be loyal and still use a change-control process.
 
-Recent 2026 incidents and reporting around frontier agents have sharpened attention on containment, external action, shutdown, and disclosure. The details of any single event will be revised as investigations mature. Test-environment failures should not be inflated into claims that agents are broadly escaping into the world. Nor should a laboratory incident be treated as evidence of conscious intention.
+Security does not require distrust of every actor. It refuses to make trust the only control.
 
-What matters is the institutional response.
+Agent systems should inherit that maturity.
 
-Organizations are building more automated monitoring and shutdown capabilities because the cost of discovering unsafe external action after the fact is obvious.
+The security paradox becomes more interesting when the safety layers themselves become intelligent.
 
-That is healthy.
+One machine actor may require another machine monitor.
 
-It also illustrates the paradox perfectly.
+The monitor may require a policy model.
 
-We respond to agent risk with more agentic control.
+The policy model may rely on an identity service.
 
-The machine layer becomes both the source of capability and the source of safety.
+The identity service may issue credentials through an automated broker.
 
-This can be the right architecture if the safety layer has a different trust basis.
+The broker may depend on an anomaly detector.
 
-A simple permissions service can constrain a complex agent.
+The anomaly detector may use a model to interpret behavior.
 
-A deterministic network policy can block an intelligent planner.
+The organization can end up building a machine institution to safely operate one machine delegate.
 
-An independent monitor can detect unusual behavior.
+That is not necessarily bad design.
 
-A physical or administrative approval can remain outside the model stack.
+A bank vault is not one lock. A secure network is not one firewall. Aircraft do not depend on one sensor. Layers are how reliable systems become reliable.
 
-The critical property is that the control should not depend entirely on the same cognition it is controlling.
+The re-entry question is whether those layers have different enough trust bases that a failure in one does not collapse all of them at once.
 
-Security professionals call versions of this avoiding common-mode failure.
+A deterministic network policy can constrain a powerful model.
 
-The principle is broader.
+A hardware boundary can constrain software.
+
+An external identity provider can limit a compromised agent.
+
+An independent monitor can inspect behavior the acting model did not approve.
+
+A human or separate institution can authorize actions whose cost justifies the delay.
+
+A physical limit can remain indifferent to what the model says.
+
+The principle can be put simply.
 
 Do not ask the agent to be its own prison guard.
 
-The phrase sounds adversarial.
+The phrase sounds more adversarial than the requirement actually is.
 
-It applies to accidental failure too.
+It applies to accidents too.
 
-An agent cannot reliably catch every misunderstanding produced by the same assumptions that generated the misunderstanding.
+An agent cannot reliably catch every misunderstanding produced by the same assumptions that generated the misunderstanding. A second system built from the same data, trained with the same incentives, and prompted with the same context may confidently agree.
 
-Independent constraints create a second route to correctness.
+Independence creates a second route to correctness.
 
-The tension appears when independence slows work.
+This is why correlated error matters so much in agent security. A hundred copies of one model can provide operational redundancy while preserving one cognitive failure mode. A thousand machine reviewers do not create diversity if they all make the same mistake.
 
-Suppose an incident-response agent discovers a compromised credential at two in the morning.
+Security architects therefore need to ask what kind of independence each safeguard provides.
+
+A second server protects against hardware failure.
+
+A second cloud region protects against some infrastructure failures.
+
+A second provider can protect against vendor outage.
+
+A different model family may reduce some shared cognitive failures.
+
+A deterministic rule can protect against a class of reasoning errors.
+
+A human can introduce context the machines lack.
+
+A physical interlock can prevent an action regardless of reasoning.
+
+No layer is universally superior.
+
+The value depends on the failure being defended against.
+
+The paradox becomes sharpest when speed is part of the threat.
+
+Suppose an incident-response agent identifies a credential being used in a way that strongly suggests compromise.
 
 It can revoke the credential immediately.
 
 Revocation may interrupt an important service.
 
-Waiting for a human can let an attacker move laterally.
+Waiting for a human may let an attacker move laterally.
 
-The organization has to choose a policy before the event.
+The organization cannot decide the policy after the alert arrives. The meaningful decision was made earlier when the authority envelope was designed.
 
 Which credentials may the agent revoke automatically?
 
-Which services may it isolate?
+Which machines may it isolate?
 
 How much customer impact is acceptable?
 
-What evidence is sufficient?
+What evidence threshold is sufficient?
 
-How does the system behave when evidence is ambiguous?
+What happens when evidence conflicts?
 
-The agent's authority determines the balance between security and continuity.
+Does the agent get broader authority when the organization is under attack or narrower authority because the environment is uncertain?
 
-There is no universally safe answer.
+How quickly can a human regain a direct view of the system?
 
 A narrow agent may fail to stop a real attack.
 
-A broad agent may cause an outage through a false positive.
+A broad agent may create an outage through a false positive.
 
-This is why control cannot be reduced to minimizing autonomy.
+There is no universally safe answer.
+
+This is why minimizing autonomy is not the same thing as maximizing safety.
 
 Some threats require autonomous defense.
 
-The more machines attack at machine speed, the stronger the case for machines defending at machine speed.
+As more attacks are automated, defenders may have to respond at machine speed. A human approval gate inside every tactical action can become a vulnerability if the decision window closes before the human understands what is happening.
 
-Human review belongs at the level where it can still add value.
+The human role has to move.
 
-The challenge is preserving re-entry after we concede the tactical loop to automation.
+Humans define the envelope before the event.
 
-A military analogy is tempting here and should be used carefully. Automated defensive systems already make some rapid decisions because waiting can be dangerous. That does not mean strategic authority disappears. Doctrine, targeting rules, authorization, hardware design, and escalation policy remain human domains.
+Machines act quickly inside it.
 
-Agentic cybersecurity can follow the same architecture.
+Humans observe, revise, and investigate at a slower level.
 
-Machines act quickly inside a bounded envelope.
+High-impact uncertainty can force the system into a mode where the envelope itself contracts.
 
-Humans define and revise the envelope.
+That last capability is essential.
 
-The security paradox becomes dangerous when the envelope can only be understood or maintained by the same machines operating inside it.
-
-Then a compromised or untrusted intelligent layer cannot be removed without losing the security system itself.
-
-This is how safety can become captivity.
-
-Imagine a large enterprise whose security agents continuously patch software, rotate secrets, review access, detect anomalies, test controls, triage incidents, and isolate suspicious systems.
-
-The organization becomes safer by every ordinary metric.
-
-It also reduces the human security staff required to perform routine work.
-
-The remaining people become policy designers and incident commanders.
-
-A serious model vulnerability is discovered.
-
-The company wants to suspend the agents.
-
-Immediately the patch backlog grows.
-
-Credential rotation slows.
-
-Alert volume overwhelms analysts.
-
-Attackers know the industry is in transition and increase activity.
-
-The company faces a security cost from keeping the agents and a security cost from removing them.
-
-The machine layer has become both risk and defense.
-
-This is not speculative in structure. Organizations already face the same problem with conventional security tooling. Turn off endpoint protection and you create exposure. Leave compromised endpoint protection running and you create another exposure.
-
-AI raises the cognitive scope of the tooling.
-
-The recovery plan therefore matters more.
-
-A secure agent architecture should know how to become less autonomous under uncertainty.
+An agent system should know how to become **less autonomous under uncertainty**.
 
 Permissions contract.
 
-Internet access narrows.
+External access narrows.
 
-High-impact actions require more evidence.
+New subdelegation stops.
 
-Subdelegation stops.
+Large or irreversible actions require more evidence.
 
-New credentials become short lived.
+Credentials shorten.
 
 Existing commitments are surfaced.
 
+Independent monitors receive more weight.
+
 The system favors reversible actions.
 
-Human operators receive a more direct view.
+Human operators receive a more direct, less summarized view.
 
 This is **security deceleration**.
 
-The objective is not immediate shutdown unless immediate shutdown is safest.
+The phrase matters because emergency control is often imagined as binary.
 
-It is movement from a high-performance mode into a high-governability mode.
+Normal operation or shutdown.
 
-Critical infrastructure has long used related ideas. Systems enter safe states. Networks segment. Markets halt. Plants reduce output. Aircraft degrade gracefully when automation is lost.
+Autonomous or manual.
 
-Agentic systems should be able to do the same.
+Connected or isolated.
 
-The difficulty is that a general agent may be woven through many functions.
+Real systems need intermediate states.
 
-There may be no one place to decelerate.
+Aircraft degrade when automation is lost.
 
-A company uses agents in security, finance, support, coding, and procurement.
+Networks can segment.
 
-One vulnerability affects the shared model family.
+Markets can halt selected activity.
 
-Each department has a separate owner.
+Industrial processes can reduce output.
 
-Each owner sees a different cost of restriction.
+Computer systems can enter read-only or restricted modes.
 
-The security team wants immediate containment.
+Agentic institutions need equivalent ways to move from high-performance autonomy toward high-governability operation without immediately destroying the function the agents were protecting.
 
-Operations fears outages.
+The difficult case is an agent woven through many departments.
+
+A large company uses the same model family in security, finance, support, coding, procurement, legal review, and internal operations.
+
+A vulnerability is discovered.
+
+Security wants immediate restriction.
 
 Finance fears missed obligations.
 
-Support fears customer abandonment.
+Operations fears outages.
 
-Executives need a cross-organizational view of agent authority quickly.
+Customer support fears abandonment.
 
-This is where an **agent inventory** becomes more than compliance paperwork.
+Engineering fears the loss of the systems that maintain the codebase.
+
+Executives need an answer to a basic question: where does this model have power?
+
+If nobody can answer quickly, re-entry begins with archaeology.
+
+This is why an agent inventory should be treated as operational infrastructure rather than compliance paperwork.
 
 Which models are running?
 
@@ -348,39 +332,47 @@ Where?
 
 With what tools?
 
-Under what identities?
+Under which identities?
 
 For which principals?
 
 With what authority?
 
-Which are externally connected?
-
 Which can create descendants?
 
-Which critical functions depend on them?
+Which are externally connected?
 
-Which have a degraded mode?
+Which can write durable state?
 
-If the organization cannot answer those questions before the emergency, re-entry begins with archaeology.
+Which critical services depend on them?
 
-The same is true at national scale.
+Which have degraded modes?
 
-A government concerned about a class of model cannot simply order "turn it off" if the model is embedded in private infrastructure, public systems, defense contractors, hospitals, finance, and cloud operations in different forms.
+Which share the same provider, model family, identity system, or cloud infrastructure?
 
-The legal order can be clear.
+A security team cannot contain what the organization cannot map.
 
-Operational implementation can be chaotic.
+The same problem appears at national scale.
 
-This is where standards and registries can improve sovereignty without requiring centralized control of every deployment.
+A government concerned about a class of agent failure cannot simply issue an order saying turn the model off and assume the instruction becomes reality.
 
-Common ways to express agent identity, authority, provenance, and criticality can let institutions respond coherently.
+The system may be embedded in banks, hospitals, utilities, cloud providers, defense contractors, public agencies, software companies, and communications infrastructure. Different deployments may use different names for the same underlying model. Some may depend on it only for convenience. Others may depend on it for continuity.
 
-The danger is creating one central control service that becomes another single point of failure.
+Legal authority can be clear while operational implementation remains chaotic.
 
-Security architecture is always tradeoffs nested inside tradeoffs.
+That is another reason common standards for identity, authorization, provenance, and criticality matter. They can give organizations and regulators a common way to describe machine actors without centralizing all control in one bureaucracy.
 
-That is why dramatic solutions are suspicious.
+Standards can also create common-mode failure.
+
+One authorization framework used everywhere becomes valuable to attackers.
+
+One identity provider becomes a chokepoint.
+
+One monitoring convention can create one blind spot.
+
+Security architecture is tradeoffs nested inside tradeoffs.
+
+This is why dramatic answers should make us suspicious.
 
 The kill switch.
 
@@ -392,17 +384,19 @@ The air gap.
 
 The human approval.
 
-Each can be valuable.
+The immutable policy.
 
-None removes the need to design the environment.
+Each can be useful.
 
-The most mature security thinking assumes failure and asks how far failure can travel.
+None removes the need to design the environment around failure.
+
+The most mature security thinking assumes failure and asks how far it can travel.
 
 Agentic security should do the same.
 
 Assume the model can misunderstand.
 
-Assume an external instruction can manipulate it.
+Assume external content can manipulate it.
 
 Assume a monitor can miss something.
 
@@ -412,7 +406,11 @@ Assume a credential can leak.
 
 Assume a provider can become unavailable.
 
-Assume a safety mechanism can fail.
+Assume an identity service can fail.
+
+Assume a safe action becomes dangerous when repeated thousands of times.
+
+Assume a safety mechanism can become unavailable precisely when it is needed.
 
 Then ask what remains.
 
@@ -420,34 +418,148 @@ This is not pessimism.
 
 It is how bridges, aircraft, payment systems, and data centers become dependable.
 
-The global AI takeover threat is strongest in architectures that require perfection from the intelligent layer.
+The takeover threat is strongest in architectures that require perfection from the intelligent layer.
 
 If one model must always interpret correctly because it controls the action, monitors the action, explains the action, and repairs the action, the institution has built a cognitive single point of failure.
 
-If the model later becomes indispensable, the failure point becomes protected by dependence.
+If the model later becomes indispensable, that failure point becomes protected by dependence.
 
-Security should prevent both conditions.
+The security system then cannot remove the risky intelligence because too much security depends on the same intelligence remaining available.
 
-Bound the authority.
+Imagine an enterprise where agents continuously patch software, rotate secrets, review access, detect anomalies, test controls, triage incidents, and isolate suspicious systems.
 
-Separate the controls.
+The company becomes safer by every ordinary metric.
 
-Preserve evidence.
+Fewer known vulnerabilities remain open.
 
-Design deceleration.
+Credentials rotate faster.
 
-Practice recovery.
+Alerts are investigated earlier.
 
-Keep some safety properties too simple to talk their way around.
+Routine misconfigurations are corrected continuously.
 
-The paradox cannot be eliminated.
+The company therefore reduces the number of people required for repetitive security work.
+
+The remaining humans become policy designers, incident commanders, and auditors.
+
+Then a serious vulnerability is discovered in the model family performing the work.
+
+The company wants to suspend the agents.
+
+Immediately the patch backlog grows.
+
+Credential rotation slows.
+
+Alert volume overwhelms analysts.
+
+Attackers know the industry is in transition and increase activity.
+
+The organization faces one security risk from keeping the agents and another from removing them.
+
+The machine layer has become both threat surface and defense.
+
+Nothing about this mechanism requires a malicious model.
+
+The same structural problem already exists with conventional security tooling. A compromised endpoint-protection platform can be dangerous. Turning off endpoint protection across an enterprise can also be dangerous.
+
+AI expands the cognitive scope of the tooling, which expands the amount of work that can disappear when trust disappears.
+
+The recovery design must therefore begin before the model is untrusted.
+
+Can the organization freeze high-risk agent action while preserving read-only monitoring?
+
+Can it rotate away from one model without changing every tool integration?
+
+Can humans access raw alerts without model summaries?
+
+Can a smaller independent system provide basic triage?
+
+Are critical credentials protected by a policy service the agent cannot modify?
+
+Can the company operate a reduced security posture for several days rather than restoring the questionable system after several hours?
+
+The last question is the re-entry test in security form.
+
+A system that can be stopped for ten minutes but cannot remain stopped for ten days may have a shutdown mechanism and little strategic freedom.
+
+Time turns safety into governance.
+
+This is also where disclosure matters.
+
+When a model or agent platform develops a serious security problem, downstream organizations need enough information to decide whether their own authority configurations make them vulnerable.
+
+A provider may know that one class of tool use is affected.
+
+A bank may have exposed that tool only through a narrow policy layer.
+
+A software company may have given it broad credentials.
+
+A government system may have isolated it completely.
+
+The same technical flaw can create very different operational risk.
+
+Good disclosure therefore needs to describe the conditions of exploitability rather than merely announce that a model is safe or unsafe.
+
+This is another way agent security resembles mature infrastructure security more than product safety slogans.
+
+The unit of risk is often the deployment architecture.
+
+The model matters.
+
+The permissions matter.
+
+The tools matter.
+
+The network matters.
+
+The monitor matters.
+
+The human process matters.
+
+The fallback matters.
+
+A brilliant security model with a permanent administrator credential can be reckless architecture.
+
+A weaker model inside a carefully bounded tool environment may be easier to govern.
+
+A capable agent should not be confused with a powerful agent.
+
+Capability is what the system can figure out.
+
+Power is what the environment permits it to make consequential.
+
+Security controls the second variable more directly than the first.
+
+That is one of the most hopeful facts in the entire takeover debate.
+
+Society does not have to solve every mystery of model cognition before improving control.
+
+We can bound access.
+
+We can separate duties.
+
+We can shorten credentials.
+
+We can maintain independent evidence.
+
+We can block self-escalation.
+
+We can require extra approval when consequence rises.
+
+We can create safe intermediate modes.
+
+We can test recovery.
+
+We can design so that one provider's failure does not become everyone else's emergency.
+
+The paradox remains.
 
 Useful agents need access.
 
 Secure systems need limits.
 
-The art is to make access temporary, legible, revocable, and survivable.
+The art is to make the access temporary, legible, revocable, and survivable.
 
 The dangerous agent is not merely the one with too much power.
 
-It is the one whose power the organization can no longer afford to take away.
+It is the one whose power the institution can no longer afford to take away.
