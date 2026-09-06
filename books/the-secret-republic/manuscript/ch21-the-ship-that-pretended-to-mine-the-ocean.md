@@ -287,3 +287,91 @@ That contrast defines the Cold War intelligence state better than either story a
 In the 1970s, America built a ship because a Soviet secret was four or five kilometers below the ocean.
 
 In the next decade, Moscow would obtain some of America's most sensitive naval communications information from a man who walked through a door.
+
+There is one more reason AZORIAN belongs here, and it begins with a mistake in the name.
+
+For years the operation was widely called Project JENNIFER. Declassified CIA history later clarified that AZORIAN was the project name; JENNIFER referred to a security compartment associated with the program. The error is small enough to sound pedantic until one notices what produced it.
+
+The public learned the story through fragments.
+
+A fragment had a label.
+
+The label migrated to the whole.
+
+Then repetition hardened the mistake into memory.
+
+That is exactly how secret history often enters culture. Outsiders reconstruct an operation from leaks, partial records, congressional hints, litigation, memoir, and institutional statements. A vivid detail supplies a name. The name becomes searchable. Later writers inherit it from earlier writers. Soon the mistake has more citations than the correction.
+
+Espionage history has an unusually strong version of this problem because secrecy prevents ordinary error correction. When an archive is closed, the government cannot easily say, “That part is wrong,” without revealing which adjacent parts are right.
+
+The JENNIFER error therefore belongs beside the Mary Bowser legend from Richmond. The scale could hardly be more different—a Black woman moving through a Confederate city, a ship attempting to lift a Soviet submarine from the abyss—but the historical problem is the same.
+
+The gap around a secret attracts narrative.
+
+AZORIAN's exposure is equally instructive because the operation was not blown by a Soviet master spy discovering the engineering program.
+
+The chain began with a burglary.
+
+In June 1974, before the Glomar sailed for the recovery site, thieves broke into an office connected to Hughes's Summa Corporation in Los Angeles and stole documents. One of those documents linked Hughes to the CIA and the Glomar Explorer. The Agency wanted the material recovered. It contacted the FBI. The FBI involved the Los Angeles Police Department.
+
+An effort to contain the leak created more institutional contact with the secret.
+
+That is another security paradox.
+
+Once a sensitive item leaves control, recovery requires telling additional people what matters about it. The response broadens the circle at the very moment security wants the circle narrowed.
+
+Rumors followed.
+
+CIA Director William Colby appealed directly to journalists who had learned enough to threaten the operation, asking them not to publish. For a time, restraint held. Then on February 7, 1975, the *Los Angeles Times* published a story connecting the burglary, Hughes, the CIA, and the ship. Jack Anderson later broadcast the story nationally in March.
+
+The lost section of K-129 was still on the ocean floor.
+
+CIA planners wanted to go back.
+
+Now they had a different engineering problem: no machine can rebuild a cover story once the adversary knows what the machine is for.
+
+By late June, according to the CIA's own history, the Soviets had assigned a ship to monitor and guard the recovery site. The White House canceled further recovery operations.
+
+The second mission died because the first mission's explanation no longer worked.
+
+That gives AZORIAN an unusually clean demonstration of the relationship between secrecy and capability.
+
+Before exposure, the United States possessed a ship capable of returning to the target.
+
+After exposure, it still possessed the same ship.
+
+Its engines worked.
+
+Its capture system existed.
+
+Its engineers still knew what to do.
+
+Yet the operational capability had changed because the adversary's knowledge had changed.
+
+Hardware is not capability by itself.
+
+Capability includes what the other side believes about the hardware.
+
+This point matters far beyond deception operations. A surveillance technique loses value when the target understands it well enough to change behavior. A compromised cryptographic exploit can disappear when software is patched. A human source's access can evaporate once the adversary knows the source exists. Intelligence advantage lives partly in asymmetric awareness.
+
+AZORIAN cost money because steel is expensive.
+
+Its rarest asset was surprise.
+
+Once surprise was gone, the ship became almost exactly what it had pretended to be: an extraordinary piece of deep-ocean engineering in search of another purpose.
+
+The vessel eventually found one. After later commercial use and years out of service, it returned to work in deep-sea drilling. The cover story had been invented for intelligence, but the engineering proved useful outside intelligence.
+
+That inversion is fitting.
+
+A fake commercial future helped create a real commercial afterlife.
+
+The mission had begun by using industry as camouflage for espionage.
+
+It ended with the espionage platform becoming industry.
+
+Very few spy stories have an object large enough to survive its own secret.
+
+The Glomar Explorer did.
+
+The submarine fragment did not.
