@@ -8,6 +8,10 @@ import('./cover-design.js').catch((error) => {
   console.warn('Cover design studio could not be loaded', error);
 });
 
+import('./research-surface.js').catch((error) => {
+  console.warn('Publication research surface could not be loaded', error);
+});
+
 const $ = (id) => document.getElementById(id);
 
 function installDeskPolish() {
