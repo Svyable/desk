@@ -201,3 +201,79 @@ That second judgment took an election, a transfer of power, pardons, decades of 
 The young republic had put a congressman in jail for criticizing its leaders.
 
 Then it had to decide whether the greater danger was the criticism or the jail.
+
+## Four days from indictment to verdict
+
+The speed of Lyon's case deserves more attention than it usually receives.
+
+A federal grand jury indicted him on October 5, 1798. A deputy marshal arrested him the next day. He appeared in court on October 7 and pleaded not guilty. His trial began October 9 before Supreme Court Justice William Paterson and District Judge Samuel Hitchcock sitting on circuit.
+
+The jury returned its guilty verdict that same day.
+
+Four days separated indictment from conviction.
+
+Fast justice is not necessarily bad justice. Evidence can be simple. A defendant may want speed. Delay can itself punish. Modern criminal systems often fail people by moving too slowly rather than too quickly. But speed changes what a political prosecution feels like when the statute is new, the constitutional objection is unsettled, and the defendant is trying to remain an elected participant in the political system that passed the law.
+
+Lyon represented himself, with assistance from Vermont jurist Israel Smith. The government was represented by the federal district attorney. The trial was not taking place inside a mature body of First Amendment doctrine in which a defense lawyer could cite generations of decisions defining viewpoint discrimination, actual malice, incitement, or strict scrutiny. Those doctrinal tools did not exist.
+
+The uncertainty gave the trial judge enormous interpretive power.
+
+What did “freedom of the press” mean in 1798?
+
+Federalists could point to an older understanding in which freedom of the press principally forbade prior licensing but did not necessarily immunize publishers from punishment after publication for certain libels. The Sedition Act even included features its supporters characterized as safeguards, including allowing truth as a defense and placing some questions before juries.
+
+That is why the law's defenders did not experience themselves simply as people repealing the First Amendment by statute.
+
+They possessed a legal theory.
+
+The theory was wrong enough in its political consequences that later constitutional culture overwhelmingly rejected the experiment, but understanding the theory matters because civil-liberties failures are rarely committed by officials who announce that liberty no longer counts. They are more often committed by officials who redefine liberty until the desired policy fits inside it.
+
+The Sedition Act also exposes the importance of selective prosecution. A criminal law can be written in general terms and applied inside a political pattern. The federal government did not need to prosecute every harsh statement to alter the information environment. A handful of cases against visible opposition figures could teach printers and editors that criticism carried a new legal price.
+
+Matthew Lyon was particularly valuable as a target because he made the government's argument easy to personalize. He was already notorious for a physical confrontation in Congress. He wrote with little restraint. A defender of the prosecution could say the law was being used not against sober disagreement but against malicious falsehood and dangerous agitation.
+
+That distinction is one of censorship's oldest comforts.
+
+We are not silencing opposition, only irresponsible opposition.
+
+We are not punishing criticism, only false criticism.
+
+We are not afraid of politics, only disorder.
+
+The problem is not that those categories are meaningless. False statements can injure. Threats can be dangerous. Fraud can be committed through words. The problem is who receives the power to decide that criticism of the government has crossed the line when the government itself is the object of criticism.
+
+Lyon's case makes the conflict almost diagrammatic.
+
+Congress enacted the offense.
+
+Federal prosecutors charged a member of the congressional opposition.
+
+Federal judges applied the new statute.
+
+Federal marshals confined the convicted speaker.
+
+The government was complainant, lawmaker, prosecutor, adjudicative system, and jailer.
+
+The constitutional answer eventually became not that government may never punish expressive conduct but that criticism of public officials requires protections far stronger than the Sedition Act's architects were willing to recognize.
+
+That answer took time.
+
+In Lyon's own case, the fastest corrective institution was not a court.
+
+It was the voter.
+
+His constituents could observe the same speech the federal government had criminalized and return him to office anyway. Their decision did not vacate the judgment. It exposed a democratic contradiction the legal system had not resolved. If the representative's political community wanted him to keep speaking for it, prison had become a federal intervention in representation even if the House seat itself remained formally intact.
+
+The new republic had designed elections as a way to remove bad politicians.
+
+The Sedition Act offered the governing coalition another way to remove or burden bad opponents.
+
+Only one of those mechanisms required persuading the opponent's voters.
+
+That difference is why the Lyon trial belongs not only to free-speech history but to the history of peaceful political competition.
+
+A ruling party learns democracy most deeply when it accepts that being called corrupt, foolish, dangerous, or unfit does not entitle it to criminalize the speaker.
+
+The 1790s had not yet learned the lesson.
+
+Lyon's jail cell became part of the curriculum.
