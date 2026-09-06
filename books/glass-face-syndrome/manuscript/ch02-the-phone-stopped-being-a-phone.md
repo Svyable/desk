@@ -227,3 +227,93 @@ That was the deeper convergence.
 The hardware had become a question mark with a screen.
 
 The answer could be almost anything.
+
+Convergence also changed what failure meant.
+
+When a specialized tool breaks, a category of activity breaks with it. A dead camera is a photography problem. A lost map is a navigation problem. A missing wallet is a money problem. A forgotten key is an access problem. A dead smartphone can become all of those problems at once, and the combination produces a dependence that is more revealing than any single minute of entertainment.
+
+This is why travelers carry portable batteries with a seriousness once reserved for spare film or cash. The battery is not merely extra power. It is redundancy for a personal infrastructure stack. Charge preserves the map, ticket, translator, camera, ride, hotel confirmation, bank, family contact, and authentication system simultaneously.
+
+The same consolidation makes loss emotionally disproportionate to the object’s physical size. A phone dropped into water can trigger a rapid inventory of invisible dependencies. Are the photographs backed up? Can the bank account be reached another way? Does the work login require the device? How will a ride be summoned? Who knows the numbers that used to live in memory? Can the cloud account be recovered without the very phone used to verify it?
+
+A person who answers those questions easily has built alternatives. Many people discover the alternatives only after failure.
+
+The smartphone therefore resembles other infrastructures in a way consumer electronics rarely did: reliability changes behavior upstream. When electricity is reliable, buildings stop keeping independent lighting systems. When municipal water is reliable, households stop maintaining wells. When cloud storage is reliable, people stop keeping local copies. When the phone is almost always charged, connected, synchronized, and accepted, businesses can safely remove parallel paths.
+
+The path disappears because it is rarely used.
+
+Then the rare failure becomes more expensive.
+
+This is not an argument for preserving every obsolete backup. Redundancy has costs. Paper tickets require printers and staffing. Cash handling creates expense and risk. Physical keys can be lost. Human clerks make errors. The important point is that convenience can quietly transform optional technology into a single point of failure. A mature society usually notices that transition in bridges, power grids, payment systems, and hospitals. Personal digital infrastructure reached similar importance without much ceremony.
+
+The ceremony was replaced by updates.
+
+One year the phone could store a boarding pass.
+
+Another year the airline strongly preferred it.
+
+One year a bank offered mobile deposit.
+
+Another year branches became rarer and the app became the ordinary interface.
+
+One year a restaurant offered a digital menu.
+
+Another year the printed menu disappeared from some tables.
+
+One year an employer allowed mobile authentication.
+
+Another year the login flow assumed it.
+
+Each step could be defended on its own economics. Together they changed the practical definition of participation.
+
+To be a fully operational adult increasingly meant to maintain a charged, connected, updated, authenticated personal computer close to the body.
+
+That sentence sounds more dramatic than the daily experience because the daily experience is usually smooth.
+
+Smoothness is the camouflage of infrastructure.
+
+You do not think about the cellular network while the message arrives. You do not think about the secure element while tapping to pay. You do not think about satellite signals while the blue dot follows the road. You do not think about cloud synchronization while a photograph appears on another device. You experience the result as one object working.
+
+This unity is partly an illusion created by industrial coordination. The phone depends on carriers, satellites, payment networks, cloud providers, operating systems, app developers, identity systems, content services, electrical grids, semiconductor supply chains, and institutions willing to recognize the screen as legitimate evidence. The rectangle is the visible tip of a large invisible arrangement.
+
+Glass Face Syndrome is partly what happens when that arrangement becomes psychologically represented as one thing.
+
+The hand reaches for “the phone” even when the underlying need is not telephony and not one need. The phrase compresses a society into an object.
+
+This compression has consequences for memory too. We stop remembering not only facts but procedures because procedures migrate into services. Few drivers need to know how to unfold a road atlas across a steering wheel. Fewer travelers need to know an airline confirmation number. Fewer people memorize phone numbers. Fewer diners need to know the address of the restaurant if the reservation app can hand it to the map.
+
+That outsourcing can be rational. Human memory has always used external supports: writing, ledgers, calendars, signs, libraries, other people. The mistake is to confuse outsourcing with loss in every case. Civilization is built from external memory.
+
+What is new is the concentration of external memory onto an object that also contains interruption.
+
+The notebook does not notice that you opened it and offer a sale.
+
+The paper calendar does not reveal that somebody is typing.
+
+The road atlas does not surface a photograph from six years ago because an algorithm predicts emotional relevance.
+
+The smartphone’s external memory is active. It can answer, recommend, remind, rank, and solicit.
+
+That activity makes the object more useful and more difficult to treat as neutral storage.
+
+The convergence story therefore has two halves.
+
+First, the phone absorbed tools.
+
+Then the absorbed tools acquired agency through software and networks.
+
+The camera could suggest memories. The map could suggest destinations. The wallet could suggest purchases. The calendar could summon meetings. The messaging system could expose presence. The newsstand could refresh without ending. The music player could recommend the next song forever.
+
+A Swiss Army knife remains inert until someone opens a blade.
+
+The smartphone became a Swiss Army knife whose blades could knock from inside the handle.
+
+That is where usefulness turns into a competition for attention without ceasing to be useful.
+
+The device remains worthy of carrying because it solves so many problems. The same concentration that justifies carriage gives every resident service privileged proximity to the user. The phone does not need to defeat our resistance from outside. It is already inside the circle of things we have agreed are necessary.
+
+The next step was to let more outsiders move in.
+
+The hardware had become a question mark with a screen.
+
+The App Store would let millions of developers propose answers.
