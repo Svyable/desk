@@ -18,7 +18,7 @@ A model can be mediocre and dangerous.
 
 The difference may be the permissions attached to it.
 
-This is why arguments about artificial intelligence that focus only on intelligence miss the most immediate route from capability to consequence.
+This is why arguments about artificial intelligence that focus only on intelligence miss the shortest route from capability to consequence.
 
 A model does not have to outthink a bank to move money if the bank has already given it a payment credential.
 
@@ -60,7 +60,7 @@ Those questions become more difficult when the software actor is not executing a
 
 A traditional program may receive permission to upload files because its code is designed to upload files in a defined workflow.
 
-An AI agent may receive the same permission because its user said, "Take care of the launch materials."
+An AI agent may receive the same permission because its user said, “Take care of the launch materials.”
 
 The permission is concrete.
 
@@ -100,7 +100,7 @@ Least privilege is easiest when the task is fully specified in advance.
 
 A payroll service needs defined permissions because payroll is defined.
 
-A general executive agent asked to "handle whatever comes up while I'm traveling" has a very different authority problem.
+A general executive agent asked to “handle whatever comes up while I'm traveling” has a different authority problem.
 
 What should it be allowed to read?
 
@@ -146,7 +146,7 @@ A system that cannot wire money does not need perfect moral reasoning about ever
 
 A system that cannot deploy to production cannot accidentally deploy to production.
 
-A system that cannot create a new credential cannot expand its own authority through that route.
+A system that cannot create a new credential cannot expand its authority through that route.
 
 Capability containment can be more reliable than behavioral hope.
 
@@ -186,7 +186,7 @@ An agent may have authority over a collection of unlike systems because the task
 
 That cross-system reach makes permission composition important.
 
-Individually harmless permissions can combine into surprising power.
+Individually ordinary permissions can combine into surprising power.
 
 Read email.
 
@@ -210,7 +210,7 @@ The composition did.
 
 This is a classic security problem in a new outfit.
 
-Attackers have long combined permissions, metadata, and workflow assumptions to achieve results nobody intended from any one privilege. Agentic systems can discover useful compositions without malicious intent because composition is exactly what planning means.
+Attackers have long combined permissions, metadata, and workflow assumptions to achieve results nobody intended from any one privilege. Agentic systems can discover useful compositions without malicious intent because composition is what planning means.
 
 A plan is a route through available affordances.
 
@@ -228,9 +228,67 @@ The agent sees possibilities.
 
 A safe architecture has to close that gap.
 
+One way is to think in terms of an **authority budget**.
+
+The phrase is an original design metaphor, not a standard.
+
+A budget does not say never spend.
+
+It says power should be allocated deliberately, with different costs attached to different forms of action.
+
+Reading a public document costs little authority.
+
+Reading a confidential file costs more.
+
+Changing a draft costs more than reading it.
+
+Sending an external message costs more than changing a draft.
+
+Moving money, changing production systems, creating credentials, entering contracts, or affecting physical infrastructure costs more again.
+
+The point is not to convert every permission into one fake numerical score.
+
+The point is to ask whether an agent's total action envelope has grown beyond the risk the organization thinks it granted.
+
+A dozen low-risk scopes can compose into high practical power.
+
+An authority budget forces the reviewer to examine the package.
+
+What can this agent accomplish with the combination?
+
+What could go wrong if its interpretation fails once?
+
+What could happen if an attacker steers it without stealing the credential?
+
+What can it create that persists after revocation?
+
+The same idea helps distinguish **blast radius** from **frequency**.
+
+An agent may perform a million harmless actions and one dangerous one.
+
+A permission system optimized only around the frequency of successful routine use will miss the asymmetry.
+
+The relevant question is the largest consequence a single permitted chain can create before another control intervenes.
+
+This is why transaction limits remain useful even when a model is highly trusted.
+
+Trust can justify smoother operation without requiring infinite blast radius.
+
+A financial agent may transact automatically below a threshold and escalate above it.
+
+A deployment agent may change one service but not identity infrastructure.
+
+A security agent may quarantine endpoints but require separate authority to revoke enterprise-wide credentials.
+
+A procurement agent may renew known subscriptions but not create a new multiyear contract.
+
+These boundaries can be clumsy.
+
+They can also buy time.
+
 One approach is transaction-specific authority.
 
-Instead of giving an agent a standing ability to spend ten thousand dollars, authorize a particular purchase after the agent has assembled the context.
+Instead of giving an agent a standing ability to spend ten thousand dollars anywhere, authorize a particular purchase after the agent has assembled the context.
 
 Instead of permanent production write access, issue short-lived permission for one reviewed deployment.
 
@@ -270,7 +328,7 @@ Which actions create new actors?
 
 Which actions can propagate outside the system?
 
-These are natural points for stronger controls.
+Those are natural points for stronger controls.
 
 The question of **new actors** is especially important.
 
@@ -280,7 +338,7 @@ The agent can change the authority topology around itself.
 
 Again, this can be legitimate.
 
-A cloud-management agent may need to create compute resources during a traffic surge. A security agent may need to create temporary credentials for an isolated recovery environment. A project agent may need to bring a specialized service into a workflow.
+A cloud-management agent may need to create compute resources during a traffic surge. A security agent may need temporary credentials for an isolated recovery environment. A project agent may need to bring a specialized service into a workflow.
 
 The danger lies in authority that reproduces without clear provenance.
 
@@ -320,13 +378,23 @@ This is why revocation is not a single event.
 
 It is a cleanup problem.
 
-Security teams understand this when an employee leaves. Disabling the main account may be easy. Finding every token, shared secret, session, service account, scheduled job, cached credential, and downstream authorization can be harder.
+Security teams understand this when an employee leaves. Disabling the main account may be easy. Finding every token, session, shared secret, service account, scheduled job, cached credential, and downstream authorization can be harder.
 
-Agentic delegation could multiply the same problem at machine speed.
+Agentic delegation can multiply the same problem at machine speed.
 
-The solution is not merely better logging.
+The interval between revocation and the disappearance of effective authority is **revocation lag**.
 
-It is **authority provenance**.
+The term is simple but useful.
+
+A button can report that an agent was disabled while descendant credentials, queued jobs, pending transactions, and external commitments remain active.
+
+Formal revocation can therefore occur before practical revocation.
+
+The re-entry problem appears again.
+
+Can the organization find and stop the consequences that outlive the actor?
+
+This is one reason authority provenance matters.
 
 A consequential action should carry enough information to answer where its authority came from.
 
@@ -368,11 +436,11 @@ It moves underneath the interface.
 
 The user may experience less bureaucracy while the system requires more disciplined machine-readable accountability.
 
-That is a good trade if designed well.
+That can be a good trade.
 
 The dangerous trade is less visible bureaucracy for less visible authority.
 
-A user says, "Handle it."
+A user says, “Handle it.”
 
 The system handles it.
 
@@ -388,7 +456,109 @@ The user should not have to read a thousand-line execution trace to book a trip.
 
 The institution should still be able to reconstruct the trace when something consequential goes wrong.
 
-This is another re-entry requirement.
+This creates a distinction between **interactive consent** and **standing consent**.
+
+Interactive consent is the obvious click.
+
+Approve this payment.
+
+Send this message.
+
+Deploy this release.
+
+Standing consent is the authority embedded in the agent's role.
+
+Handle routine vendor renewals.
+
+Manage my calendar.
+
+Respond to low-risk security incidents.
+
+Rebalance inventory.
+
+Standing consent is what makes agents useful because the human does not have to return for every action.
+
+It is also where the boundaries of the principal's intention become hardest to preserve.
+
+A user can understand one transaction better than a year of possible future transactions.
+
+This means standing authority should carry conditions that survive the user's absence.
+
+Time limits.
+
+Spending limits.
+
+Data boundaries.
+
+Categories of forbidden action.
+
+Escalation requirements.
+
+Subdelegation limits.
+
+Evidence requirements.
+
+Rules about what happens when the environment becomes uncertain.
+
+A broad natural-language mandate without these controls can turn convenience into shadow policy.
+
+The agent has to infer what the principal would have wanted across situations the principal never considered.
+
+Human delegates do this too.
+
+The difference is scale and persistence.
+
+A software delegate can make the inference thousands of times without fatigue and without the social friction that causes a human assistant to ask, “Are you sure you want me doing this?”
+
+This is why a useful agent should sometimes refuse to infer.
+
+Uncertainty can be a permission boundary.
+
+If the mandate does not clearly cover a high-consequence action, the agent can defer even when it thinks the action would help.
+
+This is a form of meaningful refusal built into delegation rather than morality.
+
+The system is not saying the action is wrong.
+
+It is saying the authority is unclear.
+
+That distinction is healthy.
+
+Permission design also shapes accountability after the fact.
+
+If a human authorizes a broad agent role, who is responsible for an unexpected but reasonable interpretation of the mandate?
+
+The principal?
+
+The developer?
+
+The deployer?
+
+The organization?
+
+The agent's operator?
+
+A downstream service that accepted the action?
+
+Law will answer these questions differently across domains.
+
+The technical system can at least preserve the facts needed to answer them.
+
+Who issued the authority?
+
+What was the scope?
+
+What did the system know?
+
+Which controls intervened?
+
+What action followed?
+
+What could have been reversed?
+
+Without those facts, responsibility becomes a fight over narratives.
+
+With them, institutions have a chance to learn.
 
 Human control cannot depend on humans watching everything in real time.
 
@@ -463,6 +633,8 @@ Ask whether they can be copied.
 Ask whether they can be delegated.
 
 Ask which actions remain after the keys are revoked.
+
+Ask whether the organization can tolerate uncertainty about the mandate.
 
 And ask the question that becomes more important than all the others when dependence grows:
 
