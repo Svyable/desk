@@ -58,7 +58,10 @@ export function installResearchSurface(root = document.getElementById('manuscrip
   enhanceVisibleCards(root);
   const observer = new MutationObserver(() => enhanceVisibleCards(root));
   observer.observe(root, { childList: true });
+  document.getElementById('repoForm')?.addEventListener('submit', () => observer.disconnect(), { once: true });
   return observer;
 }
 
-if (typeof document !== 'undefined') installResearchSurface();
+if (typeof document !== 'undefined' && !new URLSearchParams(location.search).has('repo')) {
+  installResearchSurface();
+}
