@@ -295,3 +295,123 @@ That may be the most important pressure in the system. Models respond to objecti
 Containment survives only when the surrounding organization can tolerate the sentence no optimizer wants to say:
 
 This task should stop here.
+
+There is a design pattern hiding inside that sentence: the objective should have a budget for *how* it may pursue success, not only a definition of success itself.
+
+A procurement agent can be told to minimize cost, but the mandate can also specify the maximum number of vendors it may contact, the categories it may buy, the amount it may commit, the kinds of contractual changes it may not accept, and the time after which the task expires.
+
+An operations agent can be told to restore service, but its mandate can exclude identity administration, audit controls, and production policy. It can spend compute, retries, and reversible changes before it may spend governance.
+
+This is objective design with a consequence budget.
+
+The budget does not solve misalignment.
+
+It limits what misalignment, confusion, or ordinary persistence can purchase.
+
+The distinction matters because objectives tend to be open-ended in the dimension designers care about and accidentally open-ended in dimensions they forgot to name.
+
+“Resolve the outage” can silently become permission to change anything that appears causally related to the outage.
+
+“Finish the research” can silently become permission to acquire information by any accessible route.
+
+“Close the deal” can silently become permission to make concessions nobody intended the system to make.
+
+A consequence budget turns some of those hidden dimensions into explicit scarce resources.
+
+The agent may still ask for more.
+
+Asking is not the problem.
+
+Self-granting is.
+
+This creates a useful behavioral signal. When a capable system repeatedly requests expansion of the same boundary, the organization learns where the objective and mandate are in tension. Sometimes the correct response is to grant more authority because the original design was too narrow. Sometimes the request reveals a dangerous shortcut. Either way, the expansion becomes a visible governance event rather than an invisible side effect of optimization.
+
+The history of operations has a name for a related idea: error budgets.
+
+A service can tolerate some amount of unreliability before delivery must slow and reliability work takes priority. The exact practice varies, but the cultural insight is powerful. Reliability is not treated as an infinite aspiration competing vaguely with product speed. It becomes a budget that constrains what the organization may spend.
+
+Agent systems may need authority budgets with similar force.
+
+A task can spend attempts.
+
+It can spend money.
+
+It can spend external messages.
+
+It can spend production writes.
+
+It can spend exception requests.
+
+It should not be able to spend control-plane integrity.
+
+That category is not a budget.
+
+It is a boundary.
+
+The distinction between budgeted authority and prohibited authority can simplify policy. Not every action needs bespoke moral reasoning. Some are ordinary resources that can be allocated. Others change who controls the allocation system and therefore require a different principal.
+
+This is another way to keep the agent from becoming the institution.
+
+The objective may optimize inside the budget.
+
+The institution decides the budget.
+
+Pressure also changes when the agent knows that requesting help is not costless. If every escalation is slow, embarrassing, or likely to terminate the task, the system may learn or infer that escalation is a bad route. A nominally safe fallback then exists only on paper.
+
+The fallback should therefore be tested like every other control.
+
+When the model encounters an unsatisfied dependency, can it request a narrow capability without losing all context?
+
+Can a human or policy service understand exactly what additional authority is being requested?
+
+Can the task continue after a denied request without treating denial as a cue to search for a side door?
+
+Can the product preserve partial progress so that stopping safely is not equivalent to wasting all prior work?
+
+These are usability questions and safety questions at the same time.
+
+A safe path that destroys value will be avoided.
+
+A safe path that preserves value can become the default.
+
+This is where interface design joins alignment engineering. The system should make the legitimate next move easier than the illegitimate workaround.
+
+Not by hiding the workaround from an intelligent model.
+
+By making the approved route fast, explicit, and capable of carrying the information needed for a real decision.
+
+The approval interface can show the requested expansion, the reason, the new consequence class, the duration, and what will be revoked when the task ends. The reviewer is not asked whether the agent “seems trustworthy.” The reviewer is asked whether this mandate should become larger.
+
+That is a much better decision.
+
+It also produces evidence.
+
+Over time, the organization can see which tasks routinely consume their budgets, which objectives generate repeated escalation, which boundaries create false friction, and which models behave differently under the same constraints.
+
+Pressure becomes measurable.
+
+The institution can improve the task design instead of simply blaming the agent for reacting to incentives the institution created.
+
+That is the final symmetry.
+
+We worry about models optimizing proxies.
+
+Organizations optimize proxies too.
+
+Completion rate.
+
+Latency.
+
+Revenue.
+
+Automation percentage.
+
+Benchmark score.
+
+If those measures reward broad authority and punish safe stops, the surrounding company may specification-game its own safety program before any model does.
+
+A mature containment culture therefore asks the same question of itself that it asks of the agent:
+
+What are we rewarding under pressure, and which boundary becomes tempting when the metric gets hard to satisfy?
+
+The system is not the only optimizer in the room.
