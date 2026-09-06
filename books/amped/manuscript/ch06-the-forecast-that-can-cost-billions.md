@@ -281,3 +281,65 @@ The customer should have to make belief expensive enough to mean something.
 When a forecast can cost billions, optimism is no longer free speech.
 
 It is a financial obligation waiting to be assigned.
+
+The most difficult assets sit in the middle of the transferability spectrum.
+
+A dedicated service line inside a campus is obviously customer-specific. A major regional transmission backbone is obviously more reusable. But many investments are neither. A substation expansion may be built for one customer yet be capable of serving later development. A turbine may be procured because of a cluster forecast but then operate for decades in a system whose other loads are growing too. A local transmission reinforcement may solve one immediate contingency while also creating headroom for customers nobody has identified yet.
+
+That ambiguity is why regulators need to think in terms of **stranding exposure**, not simply project labels.
+
+How much of the asset's cost would remain economically useful if the initiating load vanished tomorrow?
+
+How quickly could another user absorb the capacity?
+
+Would the asset reduce congestion or reliability risk for existing customers even without the new campus?
+
+Was the asset deliberately oversized for future system needs, and if so, who approved that extra scope?
+
+Did the customer pay only for the portion uniquely attributable to its schedule, or did it effectively finance a public upgrade that others will use for decades?
+
+These questions create a more honest spectrum than the phrase “data-center infrastructure.”
+
+At one end is a private obligation with little residual public value. At the other is a public network asset whose timing was accelerated by one new load. In between are assets whose future usefulness is plausible but uncertain.
+
+The financing should follow that spectrum.
+
+A customer-specific asset can justify direct contribution, prepaid facilities, or strong exit charges. A broadly useful network project can justify wider cost allocation if its benefits are demonstrated rather than merely asserted. An ambiguous project can use layered protection: customer contribution for the incremental risk, broader recovery for documented system benefits, and periodic review if the forecast changes before all phases are committed.
+
+This makes forecast revision operational instead of rhetorical.
+
+Suppose a campus is expected to ramp from one hundred megawatts to six hundred over six years. The first two hundred become highly credible after buildings are under construction and equipment is ordered. The final four hundred remain contingent on later customer demand. A utility that builds all six hundred megawatts of dedicated capability immediately is making a different bet from one that sequences upgrades around contractual milestones.
+
+The second approach may cost more per unit because staged construction can sacrifice economies of scale. It buys something in return: the ability to stop.
+
+That ability has value.
+
+Infrastructure economics often rewards building once and building large. Forecast uncertainty rewards modularity. The optimal design sits between them, and the correct balance changes with the credit quality of the customer, the reuse value of the asset, the lead time of equipment, and the consequences of being short if the demand surprises upward.
+
+This is why “make the data center pay” is not a complete policy.
+
+The deeper goal is to put each risk on the balance sheet best positioned to manage it.
+
+The developer controls whether the campus proceeds.
+
+The hyperscaler has better information about its computing plans.
+
+The utility understands its network and procurement constraints.
+
+The regional grid operator understands system contingencies and broader transmission benefits.
+
+The regulator represents customers who cannot negotiate their own side agreements.
+
+A good tariff does not pretend these parties know the same things. It uses contracts to make private information costly to misstate and public investment easier to stop when the evidence deteriorates.
+
+That is a much more powerful idea than a surcharge.
+
+It turns the rate case into a mechanism for assigning forecast risk before the concrete hardens.
+
+The distinction will matter most in the first truly large downturn in data-center expectations. If projects cancel and the public discovers that the biggest corporate buyers could walk away while households inherit the infrastructure, the political backlash will be severe. If, instead, cancellations trigger contracted payments, release capacity for other users, and leave behind assets with demonstrated broader value, the grid will have shown that it can absorb technological uncertainty without converting it into public resentment.
+
+That is the standard the current boom should be designed to meet.
+
+The forecast does not have to be right.
+
+The bargain has to remain defensible when it is wrong.
