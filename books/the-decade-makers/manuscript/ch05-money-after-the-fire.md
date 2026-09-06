@@ -26,9 +26,75 @@ This was money with geography attached.
 
 A national economy works more easily when a dollar in one place resembles a dollar elsewhere. The Second Bank helped push toward that condition by creating a network with federal reach and by disciplining some state bank behavior through redemption demands.
 
+The institution was large by the standards of the young republic. Its authorized capitalization was $35 million, compared with $10 million for the First Bank. It began business in Philadelphia in January 1817 and eventually operated through a network of branches. The federal government appointed five of its twenty-five directors while private shareholders elected the rest. It served as the government’s fiscal agent, holding public deposits, making federal payments, and helping the Treasury move money across a country whose local banking systems did not naturally clear one another’s obligations at par.
+
+The structure mattered because a government payment is only as national as the system capable of delivering it.
+
+Imagine the Treasury owing money in one city while collecting customs revenue in another. Without a national institution, the government might need to move specie physically, sell drafts at uncertain discounts, or rely on local banks whose notes could be worth less outside their home region. A branch network allowed the Bank to offset claims internally and present state-bank notes for redemption rather than accepting indefinitely that every local institution could expand its paper without consequence.
+
+This was monetary integration by accounting.
+
+It was also leverage over the state banks.
+
+When a local bank issued notes, those notes were promises to redeem in specie. If nobody demanded redemption, the bank could issue more paper relative to its gold and silver reserves. The Second Bank, because it received large volumes of state-bank notes through federal transactions and ordinary business, could return those notes to the issuing banks and ask for specie.
+
+The request made the promise real.
+
+A state bank that had expanded aggressively could suddenly discover that its liquid reserves were insufficient. The national institution therefore acted as a disciplinarian not by passing a regulation but by exercising the rights of a creditor.
+
+This mechanism is one reason the Bank is so difficult to classify in modern categories.
+
+It was not simply a regulator.
+
+It was a market participant whose scale gave its ordinary transactions regulatory effects.
+
+That can be an efficient form of discipline. It can also be brutal when the institution administering discipline has itself contributed to the excess.
+
 The process was not smooth.
 
-The bank’s early management was troubled, and credit expansion after the war contributed to speculative pressures. Then came contraction. The Panic of 1819 became the young nation’s first major peacetime financial crisis. Land prices fell. Credit tightened. businesses failed. Debtors suffered. The Bank became a target of popular anger because the institution charged with stabilizing money was also an institution capable of calling loans, demanding specie, and intensifying local pain.
+The Bank’s first president, William Jones, had political experience but limited success as a banker. Under his leadership the institution expanded credit aggressively at a time of postwar speculation and then reversed course. Branches were not tightly controlled. Loans expanded. State banks also increased lending. Public-land sales and western speculation became intertwined with easy credit.
+
+The Bank therefore entered the boom not as an outside referee but as one of its important participants.
+
+Then came contraction.
+
+The Panic of 1819 became the young nation’s first major peacetime financial crisis. Land prices fell. Credit tightened. Businesses failed. Debtors suffered. The Bank became a target of popular anger because the institution charged with stabilizing money was also an institution capable of calling loans, demanding specie, and intensifying local pain.
+
+The change in leadership made the discipline visible.
+
+Jones resigned in 1819. Shareholders selected Langdon Cheves, a South Carolinian who had served as speaker of the House, to repair the Bank’s condition. Cheves attacked the problem with the instincts of a creditor trying to survive.
+
+He reduced the Bank’s note circulation sharply, made fewer loans, tightened control over branches, foreclosed on mortgages, and presented state-bank notes for specie redemption. Federal Reserve historical research describes Cheves as cutting the number of Second Bank notes in circulation roughly in half.
+
+From the Bank’s balance sheet, the policy could look like rescue.
+
+From the debtor’s farm, it looked like liquidation.
+
+The same loan that had made a land purchase possible during expansion became the instrument through which property was lost during contraction. A state bank that had treated its own paper as circulating money now had to produce gold and silver when a large national counterparty arrived with notes for redemption.
+
+Institutions reveal their theory of money when the theory becomes painful.
+
+Cheves’s Bank believed convertibility and solvency mattered more than preserving the credit conditions that had supported the boom. Many borrowers believed the institution was destroying livelihoods to protect eastern creditors and its own shareholders.
+
+Both descriptions captured part of the same process.
+
+The Bank did need repair. It had been badly managed. A national financial institution that could not redeem its own obligations would not restore monetary confidence.
+
+The repair also magnified contraction. Federal Reserve historians note that the worldwide downturn had causes beyond the Bank, but the Bank’s policies worsened the American slump.
+
+This is an important correction to a common institutional story.
+
+The Second Bank did not arrive after the Panic as a wise stabilizer fixing irresponsible local banks.
+
+It helped create the conditions it then disciplined.
+
+That sequence makes the institution more modern, not less.
+
+Central financial institutions repeatedly confront crises in which their own prior policies, prevailing doctrines, or regulatory blind spots contributed to the vulnerability. The question is not whether they remained pure before intervention.
+
+The question is whether they can learn fast enough to stop the system from failing without making the cure worse than the disease.
+
+The Second Bank was still learning the question.
 
 This is the central paradox of financial institutions.
 
@@ -47,6 +113,24 @@ The decision became one of the foundational statements of national power.
 Yet from an institutional perspective, the case matters for a simpler reason: the Bank was important enough that states tried to control it and the Supreme Court had to decide who could control whom.
 
 Power attracts jurisdictional conflict.
+
+Maryland’s tax was not an abstract classroom exercise about the Necessary and Proper Clause. It was a state responding to a federally chartered corporation operating inside its territory with advantages local institutions could not possess on the same terms.
+
+The constitutional question followed the economic fact.
+
+Once Congress created an institution capable of moving money across states and disciplining local banks, a state’s power to tax that institution became a question about whether the national financial system could be subordinated to any one state through which it happened to operate.
+
+Marshall’s answer made the national institution harder to obstruct locally.
+
+That legal protection increased the Bank’s capacity.
+
+It also increased the legitimacy problem.
+
+A corporation partly owned by private investors now possessed a federal charter, public deposits, national reach, and constitutional protection from certain state interference. Critics did not need to imagine concentrated privilege. The structure was concentrated by design.
+
+The defense was that national problems require institutions that cannot be vetoed by every locality they touch.
+
+The criticism was that the cure created an entity distant from ordinary democratic control.
 
 The Bank’s reach made it a national financial institution in a country whose political culture still contained deep suspicion of national financial institutions. That suspicion would later culminate in Andrew Jackson’s Bank War in the 1830s. The institution that wins the 1810s would not survive the 1830s.
 
@@ -80,7 +164,13 @@ The question was which danger seemed greater: fragmentation or concentration.
 
 The War of 1812 moved that balance toward concentration because fragmentation had just failed under pressure.
 
-This pattern repeats across American history. A crisis exposes the weakness of decentralized arrangements; reform creates a stronger coordinating institution; the new institution accumulates power; a later political movement attacks the concentration. Banking regulation, securities law, national security, environmental policy, public health, and digital platforms all move through versions of this cycle.
+The Panic of 1819 began moving the political balance back.
+
+That swing is the deeper institutional cycle.
+
+A crisis caused partly by fragmentation produces a coordinator. The coordinator accumulates enough power to become a new source of risk. Its failures produce demands for decentralization. The decentralized system later discovers why the coordinator had been created.
+
+American banking would repeat the cycle for another century.
 
 The institution of one decade becomes the overreach story of another.
 
@@ -101,6 +191,18 @@ A purely federal bureau might have looked politically impossible. A loose collec
 The 1810s had strong rival institutions.
 
 The U.S. Army and Navy fought a war that ended without the national defeat many had feared. State militias played complicated and sometimes controversial roles. The Supreme Court under Marshall strengthened federal constitutional doctrine. Congress responded to war with tariffs and economic measures that would shape national development. The textile factories emerging in New England helped establish an industrial model that would transform labor and production.
+
+The Supreme Court is a particularly strong runner-up because McCulloch gave the federal government a constitutional language for implied powers that would outlive the Bank itself.
+
+Why not give the decade to the Court?
+
+Because doctrine followed an operating problem the financial system had made urgent.
+
+A national government could possess implied powers on paper and still lack a functioning way to transmit money, discipline notes, and manage public deposits across a geographically fragmented banking system.
+
+The Court protected the institution.
+
+The Bank performed the coordination.
 
 Why give the decade to a bank chartered after much of the fighting was over?
 
