@@ -80,17 +80,87 @@ The difficulty of registering exposed the structure of disenfranchisement. Viole
 
 Failure at the registrar’s office became proof of institutional failure at the national level.
 
-The 1964 Freedom Summer project brought hundreds of volunteers, many of them white students from outside Mississippi, into voter-registration, education, and community projects. The murders of James Chaney, Andrew Goodman, and Michael Schwerner drew national attention to a violence Black Mississippians had faced for years.
+Then the organizers tried something more radical than asking the existing system to admit them.
 
-Attention, however, created another institutional problem.
+They built a parallel system.
 
-Whose danger becomes news?
+White officials often defended Mississippi’s tiny Black registration numbers as evidence of apathy. If Black citizens were not on the rolls, the argument went, perhaps they simply did not want to participate.
 
-Whose leadership becomes visible?
+SNCC and the Council of Federated Organizations attacked that claim experimentally.
 
-SNCC organizers wrestled with the benefits and distortions of bringing privileged outsiders into a movement rooted in local Black communities.
+In 1963, organizers created a “freedom registration” process in Black communities that removed the hostile courthouse registrar from the transaction. Roughly 80,000 Black Mississippians registered in the movement’s parallel system. A Freedom Vote followed, offering an alternative gubernatorial ticket headed by NAACP leader Aaron Henry with Tougaloo College chaplain Edwin King as the candidate for lieutenant governor.
 
-The institution was constantly negotiating its own relationship to publicity.
+The ballots had no legal power.
+
+They had evidentiary power.
+
+If tens of thousands of people would register and vote when the threat structure was changed, then low official registration could no longer be plausibly described as mere indifference.
+
+The movement had turned a political claim into a field experiment.
+
+This was one of SNCC’s most consequential institutional inventions.
+
+When an official metric is produced by a hostile system, build a second measurement process.
+
+The new process does not automatically replace the official one.
+
+It can reveal what the official one is measuring besides the thing it claims to measure.
+
+Mississippi’s registration statistics were supposed to measure political participation.
+
+They also measured intimidation.
+
+The Freedom Vote separated the two.
+
+That experience led toward the Mississippi Freedom Democratic Party.
+
+In April 1964, Black Mississippians and movement organizers created the MFDP as an interracial political party open to people excluded from meaningful participation in the state’s regular Democratic organization. The strategy was not merely to protest outside the party.
+
+It was to reproduce the party’s own representative machinery.
+
+Over the summer, activists tried to attend the regular party’s precinct meetings. They encountered meetings moved without notice, meetings declared over before they arrived, and outright exclusion. So the Freedom Democrats organized parallel precinct, county, and state processes of their own.
+
+This is what made the later convention challenge more than theater.
+
+The MFDP could say: we did not merely demand seats. We organized constituents, held meetings, selected representatives, and built a delegation through procedures intended to perform the democratic function the official party had denied Black citizens.
+
+The fight had moved from morality to institutional legitimacy.
+
+Which delegation had the better claim to represent Democrats in Mississippi?
+
+The legally recognized one produced by a racially exclusionary state party?
+
+Or the insurgent one built through open participation but lacking formal recognition?
+
+That question forced the national Democratic Party to confront the source of its own authority.
+
+A national convention is not simply a television event.
+
+It is a certification system.
+
+It decides which local organizations count as the party.
+
+The MFDP challenged the input.
+
+The 1964 Freedom Summer project enlarged that challenge. The National Archives describes roughly one thousand out-of-state volunteers working alongside thousands of Black Mississippians in voting-rights organizing, meetings, Freedom Schools, libraries, housing, and other community projects.
+
+The outside volunteers were not the movement.
+
+Their usefulness came from being added to an existing local organizing structure.
+
+They brought labor, education, money, family connections, media attention, and—in a brutally unequal public sphere—the political fact that violence against white northern students might receive attention violence against Black Mississippians had long been denied.
+
+That asymmetry was both strategic resource and moral indictment.
+
+The murders of James Chaney, Andrew Goodman, and Michael Schwerner made it impossible to ignore. The national attention given to their disappearance and deaths exposed a hierarchy of whose suffering the country recognized quickly.
+
+SNCC organizers had to use that attention without allowing it to redefine a movement built by local Black people.
+
+This is another institutional tradeoff.
+
+Outside capacity can increase leverage while displacing authority.
+
+A movement can need allies and still need to prevent the allies from becoming the story.
 
 The Mississippi Freedom Democratic Party, formed in 1964, challenged the legitimacy of Mississippi’s all-white regular Democratic delegation at the national party convention. The MFDP argued that a party delegation chosen through a racially exclusionary political system could not legitimately represent the state’s Democrats.
 
@@ -98,11 +168,11 @@ This was institutional jujitsu.
 
 Instead of asking only for moral sympathy, activists challenged the rules by which another institution certified representation.
 
-The national Democratic Party offered a compromise that MFDP leaders considered inadequate. Fannie Lou Hamer’s testimony about violence and disenfranchisement became nationally significant.
+Fannie Lou Hamer’s testimony described the violence and retaliation surrounding Black political participation. The national party offered a compromise that MFDP leaders considered inadequate, and the Freedom Democrats did not win full seating in 1964.
 
-The challenge did not win full seating in 1964.
+But losing the immediate credential was not the same as losing the institutional argument.
 
-It helped change party rules and exposed the contradiction between a national party claiming democratic legitimacy and a state organization built on exclusion.
+The challenge created pressure for later changes in party rules and delegation standards. The national party could not indefinitely claim broad democratic legitimacy while accepting state delegations built through categorical racial exclusion.
 
 Institutions can lose a vote and still change the rules of the next vote.
 
