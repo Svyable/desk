@@ -3,10 +3,10 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Drafting |
+| **Status**    | Drafting · publication preparation |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 0 of 26 drafted |
+| **Chapters**  | 26 of 26 drafted |
 
 Twenty-Six Overlooked Events That Made America.
 
@@ -18,37 +18,53 @@ The selections are arguments, not facts. Every chapter therefore carries a resea
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
-- [ ] [Ch 1 — 1770s: The War Became International](manuscript/ch01-the-war-became-international.md)
-- [ ] [Ch 2 — 1780s: The Day the Army Chose the Republic](manuscript/ch02-the-day-the-army-chose-the-republic.md)
-- [ ] [Ch 3 — 1790s: The Debt That Made a Nation](manuscript/ch03-the-debt-that-made-a-nation.md)
-- [ ] [Ch 4 — 1800s: The Door Closed, the Market Stayed Open](manuscript/ch04-the-door-closed-the-market-stayed-open.md)
-- [ ] [Ch 5 — 1810s: The Summer That Did Not Come](manuscript/ch05-the-summer-that-did-not-come.md)
-- [ ] [Ch 6 — 1820s: A Ditch Across New York](manuscript/ch06-a-ditch-across-new-york.md)
-- [ ] [Ch 7 — 1830s: The Petitions They Would Not Read](manuscript/ch07-the-petitions-they-would-not-read.md)
-- [ ] [Ch 8 — 1840s: Forty Miles Faster Than Time](manuscript/ch08-forty-miles-faster-than-time.md)
-- [ ] [Ch 9 — 1850s: Sixty-Nine Feet Down](manuscript/ch09-sixty-nine-feet-down.md)
-- [ ] [Ch 10 — 1860s: The Colleges Hidden Inside a War](manuscript/ch10-the-colleges-hidden-inside-a-war.md)
-- [ ] [Ch 11 — 1870s: The Government Starts Watching the Sky](manuscript/ch11-the-government-starts-watching-the-sky.md)
-- [ ] [Ch 12 — 1880s: A Job Seeker Shoots the President](manuscript/ch12-a-job-seeker-shoots-the-president.md)
-- [ ] [Ch 13 — 1890s: The Islands That Changed the Map](manuscript/ch13-the-islands-that-changed-the-map.md)
-- [ ] [Ch 14 — 1900s: What Was Really in the Bottle](manuscript/ch14-what-was-really-in-the-bottle.md)
-- [ ] [Ch 15 — 1910s: Citizens Without a State](manuscript/ch15-citizens-without-a-state.md)
-- [ ] [Ch 16 — 1920s: America Chooses Its Ancestry](manuscript/ch16-america-chooses-its-ancestry.md)
-- [ ] [Ch 17 — 1930s: The Forty-Four-Hour Week](manuscript/ch17-the-forty-four-hour-week.md)
-- [ ] [Ch 18 — 1940s: The Hospitals We Forgot We Built](manuscript/ch18-the-hospitals-we-forgot-we-built.md)
-- [ ] [Ch 19 — 1950s: Sputnik Enters the Classroom](manuscript/ch19-sputnik-enters-the-classroom.md)
-- [ ] [Ch 20 — 1960s: The Law That Remade the Family Tree](manuscript/ch20-the-law-that-remade-the-family-tree.md)
-- [ ] [Ch 21 — 1970s: The Broken Promise at Studebaker](manuscript/ch21-the-broken-promise-at-studebaker.md)
-- [ ] [Ch 22 — 1980s: A Navigation Error Becomes a Public Utility](manuscript/ch22-a-navigation-error-becomes-a-public-utility.md)
-- [ ] [Ch 23 — 1990s: The Law Behind the Network](manuscript/ch23-the-law-behind-the-network.md)
-- [ ] [Ch 24 — 2000s: The Day Medicine Went Digital](manuscript/ch24-the-day-medicine-went-digital.md)
-- [ ] [Ch 25 — 2010s: The Dragon at the Station](manuscript/ch25-the-dragon-at-the-station.md)
-- [ ] [Ch 26 — 2020s: The Return of the Factory State](manuscript/ch26-the-return-of-the-factory-state.md)
-- [ ] [Back Matter / Coda](manuscript/back-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
+- [x] [Ch 1 — 1770s: The War Became International](manuscript/ch01-the-war-became-international.md)
+- [x] [Ch 2 — 1780s: The Day the Army Chose the Republic](manuscript/ch02-the-day-the-army-chose-the-republic.md)
+- [x] [Ch 3 — 1790s: The Debt That Made a Nation](manuscript/ch03-the-debt-that-made-a-nation.md)
+- [x] [Ch 4 — 1800s: The Door Closed, the Market Stayed Open](manuscript/ch04-the-door-closed-the-market-stayed-open.md)
+- [x] [Ch 5 — 1810s: The Summer That Did Not Come](manuscript/ch05-the-summer-that-did-not-come.md)
+- [x] [Ch 6 — 1820s: A Ditch Across New York](manuscript/ch06-a-ditch-across-new-york.md)
+- [x] [Ch 7 — 1830s: The Petitions They Would Not Read](manuscript/ch07-the-petitions-they-would-not-read.md)
+- [x] [Ch 8 — 1840s: Forty Miles Faster Than Time](manuscript/ch08-forty-miles-faster-than-time.md)
+- [x] [Ch 9 — 1850s: Sixty-Nine Feet Down](manuscript/ch09-sixty-nine-feet-down.md)
+- [x] [Ch 10 — 1860s: The Colleges Hidden Inside a War](manuscript/ch10-the-colleges-hidden-inside-a-war.md)
+- [x] [Ch 11 — 1870s: The Government Starts Watching the Sky](manuscript/ch11-the-government-starts-watching-the-sky.md)
+- [x] [Ch 12 — 1880s: A Job Seeker Shoots the President](manuscript/ch12-a-job-seeker-shoots-the-president.md)
+- [x] [Ch 13 — 1890s: The Islands That Changed the Map](manuscript/ch13-the-islands-that-changed-the-map.md)
+- [x] [Ch 14 — 1900s: What Was Really in the Bottle](manuscript/ch14-what-was-really-in-the-bottle.md)
+- [x] [Ch 15 — 1910s: Citizens Without a State](manuscript/ch15-citizens-without-a-state.md)
+- [x] [Ch 16 — 1920s: America Chooses Its Ancestry](manuscript/ch16-america-chooses-its-ancestry.md)
+- [x] [Ch 17 — 1930s: The Forty-Four-Hour Week](manuscript/ch17-the-forty-four-hour-week.md)
+- [x] [Ch 18 — 1940s: The Hospitals We Forgot We Built](manuscript/ch18-the-hospitals-we-forgot-we-built.md)
+- [x] [Ch 19 — 1950s: Sputnik Enters the Classroom](manuscript/ch19-sputnik-enters-the-classroom.md)
+- [x] [Ch 20 — 1960s: The Law That Remade the Family Tree](manuscript/ch20-the-law-that-remade-the-family-tree.md)
+- [x] [Ch 21 — 1970s: The Broken Promise at Studebaker](manuscript/ch21-the-broken-promise-at-studebaker.md)
+- [x] [Ch 22 — 1980s: A Navigation Error Becomes a Public Utility](manuscript/ch22-a-navigation-error-becomes-a-public-utility.md)
+- [x] [Ch 23 — 1990s: The Law Behind the Network](manuscript/ch23-the-law-behind-the-network.md)
+- [x] [Ch 24 — 2000s: The Day Medicine Went Digital](manuscript/ch24-the-day-medicine-went-digital.md)
+- [x] [Ch 25 — 2010s: The Dragon at the Station](manuscript/ch25-the-dragon-at-the-station.md)
+- [x] [Ch 26 — 2020s: The Return of the Factory State](manuscript/ch26-the-return-of-the-factory-state.md)
+- [x] [Back Matter / Coda](manuscript/back-matter.md)
 
 ## Research
 
 - [Research brief](research/README.md)
-- [Chapter briefs and falsification notes](research/chapter-briefs.md)
-- [Source ledger](research/source-ledger.csv)
+- Chapter briefs and falsification notes — required before release; not yet committed
+- Structured source ledger — required before release; not yet committed
+
+## Rights
+
+- [Rights and permissions](RIGHTS.md)
+- [Machine-readable rights record](rights.json)
+
+## Publication gate
+
+Before release to Sven Hardy Benson’s Shelf:
+
+1. Run `python3 scripts/check-book-length.py the-other-250` on a frozen Desk checkout and deepen every chapter below 3,000 words.
+2. Commit chapter-level evidence/falsification notes and a structured source ledger with checkable support for every chapter’s central claims.
+3. Run `python3 scripts/check-desk.py` and resolve catalog/Reader mismatches.
+4. Commit the final Desk publication snapshot before using the local `scripts/release-book.sh` flow.
+
+Desk status remains Drafting until those gates pass. Shelf publication is a separate explicit release action.
