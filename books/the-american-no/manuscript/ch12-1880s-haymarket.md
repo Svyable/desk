@@ -216,6 +216,42 @@ The bomb did not create the tension.
 
 It selected the story through which the tension would be remembered.
 
+The court record makes the selection problem even more disturbing. Thirty-one men were initially indicted in the aftermath, but eight defendants went to trial together. The prosecution did not need to identify which defendant had thrown the bomb. It argued a common design in which incendiary advocacy, meetings, printed material, and organizational relationships could establish legal responsibility for the killing.
+
+That theory gave the trial a reach far beyond Haymarket Square.
+
+If accepted broadly, it meant a movement leader could face the gravest criminal liability for violence committed by another person when the state persuaded a jury that the movement’s ideas had prepared the act. The trial thus threatened not only anarchists who advocated force but the boundary between political association and criminal conspiracy.
+
+This is why later arguments about the case often focus less on whether individual defendants held radical views—they plainly did—than on whether those views and associations were enough to justify murder convictions.
+
+The distinction is one democratic systems must keep making. Political movements can contain people who advocate illegal acts. Some leaders may know of specific plans; others may not. Conspiracy law is necessary because groups can organize crime collectively. It is dangerous because association offers prosecutors a bridge from an unpopular person to an act the evidence may not connect directly.
+
+Haymarket sits on that bridge.
+
+The Library of Congress collection preserves more than three thousand pages of trial testimony and evidence. That documentary abundance is useful and humbling. It means the case has been reargued for generations not because there is no evidence, but because evidence does not automatically resolve the normative question of how political speech, organizational membership, and criminal causation should fit together.
+
+The legal process ended in hanging for Albert Parsons, August Spies, George Engel, and Adolph Fischer on November 11, 1887. Louis Lingg died in jail the day before. Oscar Neebe received a prison sentence; Michael Schwab and Samuel Fielden had their death sentences commuted. Six years later Altgeld pardoned Neebe, Schwab, and Fielden.
+
+The sequence gave both sides material for memory. The state could point to convictions and appellate review. Radicals could point to executions after a prosecution that never identified the bomber. Altgeld could point to what he considered fundamental unfairness in the trial. No later pardon could return the executed men to life.
+
+This is one reason contested political trials remain politically alive after courts finish them. The state’s irreversible acts raise the cost of error.
+
+The funeral for the executed men reportedly drew a crowd of more than one hundred thousand. Whatever each mourner believed about anarchism, the scale transformed defendants condemned as dangerous radicals into public martyrs for a substantial constituency. Repression had again produced organization through memory.
+
+The strongest runner-up for the 1880s is the broader eight-hour strike wave itself. One could argue that choosing Haymarket allows a bomb to overshadow the hundreds of thousands of workers whose May 1886 actions had nothing to do with it. That objection is serious.
+
+Haymarket wins precisely because the overshadowing became historically consequential.
+
+The event shows how a mass labor demand can be detached from its participants and redefined through one act of violence. The backlash affected organizing, public sympathy, policing, and the reputation of radical labor. At the same time, international worker movements turned Haymarket into a durable symbol tied back to the eight-hour cause.
+
+The protest’s importance therefore lies in a double inheritance: it damaged the movement’s immediate American narrative and enlarged its global memory.
+
+That is a stranger outcome than a simple victory and more useful to this book.
+
+The next decade will bring Pullman, where federal injunctions and troops confront a labor boycott through more formal state machinery. Haymarket prepares that chapter by showing why authorities entered the 1890s already willing to read large-scale labor conflict as a problem of public order rather than merely private bargaining.
+
+A bomb had made the presumption easier.
+
 That is why Haymarket is the protest of the 1880s.
 
 It teaches a brutal lesson that every later movement will face:
