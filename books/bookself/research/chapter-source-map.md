@@ -17,7 +17,7 @@ This map records the primary empirical neighbors of each chapter. It does not im
 | 11 — Private Starts | `ibarra-1999`, `oyserman-2009` | Identity experimentation, role models, feedback, and context. |
 | 12 — Borrowed Rooms | `oyserman-2009`, `ibarra-1999`, `edmondson-1999` | Context-sensitive identity, role experimentation, and environments for interpersonal learning risk. |
 | 13 — Small Wins | `weick-1984`, `nunes-dreze-2006`, `leroy-2009` | Concrete wins, progress framing, and the cognitive cost of unfinished transitions. |
-| 14 — The Unfinished Mind | `leroy-2009`, `lally-et-al-2010` | Attention residue and a caution against treating a lapse as total reset. |
+| 14 — The Unfinished Mind | `leroy-2009`, `masicampo-baumeister-2011`, `lally-et-al-2010` | Attention residue; bounded evidence that specific resumption plans can reduce intrusive activation from unfulfilled goals; caution against treating a lapse as total reset. |
 | 15 — Restarts | `lally-et-al-2010`, `wrosch-et-al-2003`, `ibarra-1999` | Lapses, reengagement, and identity experimentation after change. |
 | 16 — Quitting Well | `wrosch-et-al-2003`, `norton-mochon-ariely-2012` | Adaptive goal disengagement/reengagement; attachment to created objects as a limited analogy. |
 | 17 — Starting After Success | `ibarra-1999`, `march-1991` | Provisional selves and the exploration/exploitation tension after competence accumulates. |
