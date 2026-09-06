@@ -199,3 +199,103 @@ The 1850s gave the Supreme Court an opportunity to decide one family's case with
 The Court tried to decide the country instead.
 
 The country refused to stay decided.
+
+## Before the Supreme Court, there was the courthouse
+
+The Scotts' choice to sue becomes less mysterious when placed inside St. Louis legal culture.
+
+They were not inventing freedom litigation from nothing. Hundreds of enslaved people brought freedom suits in the St. Louis courts over the nineteenth century. The Old Courthouse that later became physically associated with the Dred Scott story was already a place where enslaved plaintiffs, lawyers, judges, juries, and white defendants repeatedly argued over status.
+
+That tradition matters because it changes the first image of the case.
+
+Dred and Harriet did not begin as symbols walking toward inevitable national defeat.
+
+They began as litigants entering a process other people had used successfully.
+
+Their separate petitions were filed in April 1846. The courts soon handled the two claims together because the underlying facts and legal questions overlapped. That consolidation is one reason Harriet's independent legal action became easier to lose inside her husband's name, even though her status was at least as consequential for the family's future.
+
+The first trial went badly for a reason that would look maddeningly ordinary in any courthouse.
+
+Evidence.
+
+The Scotts' lawyers had to prove facts about their legal ownership and prior residence. Their first effort failed because testimony necessary to establish part of the ownership chain was treated as hearsay. They had not lost because a judge had yet announced that Black people could never be citizens or that Congress lacked power over slavery in the territories. They lost because a freedom claim built on a particular record had not crossed an evidentiary rule.
+
+Then they received another trial.
+
+In 1850, a St. Louis jury found for them.
+
+That verdict deserves to be held in the mind longer than most histories allow. For a period of time, a court had heard the Scotts' case and concluded they were entitled to freedom. The legal machinery had done what they asked it to do.
+
+The Missouri Supreme Court's 1852 reversal therefore did not simply continue an unbroken tradition of judicial hostility. It marked a change against a background in which Missouri had once been willing to recognize versions of the principle usually summarized as “once free, always free.” The sectional crisis was altering the legal climate inside which old precedents were read.
+
+Politics did not need to march into the courtroom carrying a party banner to change law.
+
+A court can reinterpret precedent because the society around the precedent has changed what the rule feels like it costs.
+
+For a slave state increasingly defensive about outside attacks on slavery, recognizing freedom acquired through residence elsewhere did more than decide one family. It allowed another jurisdiction's antislavery rule to weaken Missouri property claims after the people returned home.
+
+The Scotts' case made federalism personal.
+
+They had lived at Fort Snelling, where Harriet had built a life, married, and become a mother. Later constitutional argument would describe territory, congressional authority, state citizenship, and property with the vocabulary of government. The family experienced the same structure as geography imposed on bodies.
+
+What did the law say they had become while they lived there?
+
+Could Missouri undo it?
+
+Could a person's status change when a border was crossed and then change back when another was crossed?
+
+For property law, mobility was a conflict-of-laws problem.
+
+For the Scotts, it was whether their daughters could be sold.
+
+The move to federal court made the case more dangerous because it added another jurisdictional layer. Dred Scott sued John F. A. Sandford on the theory that federal diversity jurisdiction existed between citizens of different states. The lawsuit therefore required the courts to answer a threshold question about Scott's citizenship before reaching the freedom issue in the form his lawyers wanted.
+
+The Supreme Court could have treated that jurisdictional problem as a reason to decide less.
+
+Instead, it decided more.
+
+That is the transformation at the center of the case: an evidentiary loss becomes a retrial; a retrial becomes a freedom verdict; a state appeal reverses it; a federal case introduces citizenship; an appellate court expands into the constitutionality of territorial restriction on slavery.
+
+Each institutional step increases the radius of the answer.
+
+By the end, the legal system is no longer only deciding whether Dred and Harriet Scott are free.
+
+It is deciding who belongs to the national political community and what Congress may do about slavery across federal territory.
+
+The case got bigger as the plaintiffs' control over it got smaller.
+
+## Freedom after losing
+
+The strangest final turn is that the Scotts became free only months after the Supreme Court said Dred Scott could not obtain freedom through the claim it had rejected.
+
+Irene Emerson had remarried Calvin Chaffee, a Massachusetts congressman opposed to slavery. The Scott family was eventually transferred back to the Blow family, which had earlier enslaved Dred. Taylor Blow formally emancipated Dred and Harriet on May 26, 1857.
+
+The date sits only weeks after the Supreme Court decision.
+
+That proximity creates a historical paradox. The most infamous proslavery judicial decision in American history did not leave the named family enslaved for the rest of their lives.
+
+It left the constitutional rule in place.
+
+Private manumission could free four people. It could not undo the Court's theory of citizenship or congressional power.
+
+That distinction is why law is more than outcomes for named litigants. A party can receive practical relief through a route entirely outside the judgment while the judgment continues harming strangers.
+
+Dred Scott's period of legal freedom was short. He died of tuberculosis in 1858, less than a year after emancipation. Harriet lived until 1876. She worked as a laundress in St. Louis and outlived slavery itself, the Civil War, the Thirteenth Amendment, and the Fourteenth Amendment's constitutional repudiation of the citizenship regime the Court had announced in her family's case.
+
+Her life crossed the correction.
+
+That fact gives the chapter an ending different from the usual one.
+
+The Supreme Court's error is often narrated at the scale of the nation: sectional backlash, Lincoln, war, Reconstruction amendments.
+
+Harriet Scott experienced the same constitutional transformation as time.
+
+She had entered court as an enslaved woman asking a state judiciary to recognize freedom acquired elsewhere.
+
+She lived long enough to inhabit a Constitution that defined national citizenship in terms broad enough to make the core racial exclusion of *Dred Scott* impossible to maintain as law.
+
+The country took war and amendments to reach a proposition her family had already been asking courts to recognize for decades.
+
+The correction was enormous.
+
+The wait was personal.
