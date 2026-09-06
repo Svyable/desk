@@ -273,3 +273,43 @@ Two species have begun taking turns in a channel that originally belonged to one
 The first rule of that conversation should be the same rule that applies when somebody tells you a name.
 
 Remember that it belongs to someone.
+
+There is also a technical reason to protect that ownership: identity labels can make models look better than they are.
+
+If one dolphin produces most of its signature whistles in one recording location and another individual in a different location, a model can appear to recognize vocal identity while partly recognizing place. If social groups are recorded with different equipment, equipment can become a shortcut. If individuals differ in the contexts in which they were sampled, context can masquerade as identity or identity as meaning.
+
+The more personal the signal, the more carefully data must be split.
+
+A rigorous system should test whether identity features generalize across days, microphones, locations, social groups, and behavioral contexts. It should ask whether copied signature whistles are recognized as the addressee’s label when produced by someone else, because that is precisely what makes the phenomenon more than acoustic fingerprinting.
+
+This is where behavioral validation again becomes indispensable.
+
+A classifier can tell us it has found an individual.
+
+The dolphin can tell us whether the manipulated signal functions as individual address.
+
+Those are different achievements.
+
+The distinction will matter commercially too. A future marine-monitoring company may sell “individual whale and dolphin recognition” based on acoustics. That can be useful for conservation, but it may also expose sensitive locations, movement patterns, or social associations. The animal did not choose to make its identity machine-readable to humans.
+
+Communication data therefore becomes a kind of location and relationship data.
+
+Humans recognize the sensitivity immediately in our own lives. A list of who called whom and when can reveal more than the content of the calls. Social networks are information.
+
+Animal social networks can be information too—information with potential conservation value and potential misuse.
+
+The closer we move toward animal names, the more we will need an ethic of animal identifiers.
+
+Who can query the database?
+
+Can data reveal where endangered animals gather?
+
+Can commercial operators use an individual’s familiar call to attract it?
+
+Can a model generate an address signal for an animal whose history it does not understand?
+
+The scientific achievement of recognizing individuals does not answer these governance questions.
+
+It creates them.
+
+A name is never only a label once someone knows how to use it.
