@@ -106,6 +106,30 @@ A constitution is not self-enforcing wisdom. It is a set of offices, permissions
 
 The essays survived because later Americans kept needing to ask what the machine was for.
 
+A counterfactual clarifies what kind of influence that survival represents.
+
+If the essays had never been written, New York might still have ratified. By the time its convention voted, the Constitution had already secured enough state ratifications to take effect, and New Yorkers faced the consequences of remaining outside a new federal union. Hamilton and other supporters would still have campaigned. Anti-Federalists would still have demanded protections. The Bill of Rights would still have had powerful political support from multiple states.
+
+The federal government does not depend on Publius for existence.
+
+What changes is the archive through which later generations interpret the choice.
+
+Without *The Federalist*, judges and scholars lose an unusually systematic set of contemporaneous arguments from prominent supporters. The Constitution remains. Ratification debates remain. Convention records, letters, newspapers, state debates, Anti-Federalist essays, and later practice remain. Interpretation may become less dominated by three advocates and more dependent on that wider, messier record.
+
+That possibility should make modern readers careful about the collection’s authority.
+
+The book’s success at surviving can distort the historical field. Texts preserved, collected, indexed, cited, and assigned become easier to treat as representative than texts scattered across newspapers or less convenient archives. Availability creates interpretive gravity.
+
+Publius is therefore powerful partly because Publius is easy to find.
+
+This is an institutional afterlife every canon creates. A source enters the syllabus. Search tools index it. Courts cite earlier courts citing it. Law students learn which numbers are famous. Political writers reach for the same passages. Repetition converts one historical voice into a default reference point.
+
+The solution is not to stop reading *The Federalist*.
+
+It is to read its rivals beside it.
+
+A constitution born from argument should be interpreted through argument.
+
 There is a final irony. Hamilton hoped the series would help New Yorkers ratify the Constitution. It did that work, if incompletely and alongside many other forces. But the larger victory was one no campaign strategist could safely plan: the argument outlived the election.
 
 Newspapers are written against deadlines. Political persuasion is usually consumed by the event it serves. Yesterday’s editorial becomes packing material. The Federalist essays should have been vulnerable to that fate. The ratification fight ended. The pseudonym could have retired.
