@@ -210,6 +210,138 @@ They shared the same managerial ambition.
 
 Turn complexity into a repeatable unit.
 
+## Franchising as a Capital Technology
+
+The franchise contract did more than recruit local operators.
+
+It changed the financial geometry of expansion.
+
+A company-owned chain must raise the money for each new location, hire managers centrally, and absorb the full operating risk of every store. A franchise system can ask local entrepreneurs to contribute capital, labor, and local attention while the parent company supplies the brand, methods, procurement relationships, and operating rules.
+
+This is a powerful division of risk.
+
+The franchisee owns enough of the economics to care intensely about one location. The franchisor owns enough of the system to care intensely about what that location does to every other location.
+
+The arrangement tries to combine two forms of motivation that usually live in different kinds of firms.
+
+Local ownership creates vigilance.
+
+Central standards create consistency.
+
+The tension never disappears because the parties do not have identical incentives. A franchisee may want a local promotion or supplier that improves one restaurant's economics. The parent may reject it because the variation would weaken the national promise. A franchisee may want to defer remodeling. The parent may believe an aging location damages the brand. A parent may introduce a product that complicates kitchen operations while expecting local operators to execute it.
+
+Franchising is therefore governance by contract.
+
+The franchise agreement becomes a constitution for a small business that is independent enough to supply capital and dependent enough to obey a larger system.
+
+That model spread through hotels, fitness centers, real estate, automotive service, retail, education, and countless other industries. McDonald's did not invent the arrangement, but it demonstrated how far contractually organized uniformity could scale.
+
+The corporation did not need to own every cash register to control the customer experience around it.
+
+## Real Estate Solved the Enforcement Problem
+
+The real-estate strategy made that governance harder to escape.
+
+A trademark license creates leverage because the operator needs the brand. Control of the site can create leverage because the operator needs the location too.
+
+This is why the frequently repeated observation that McDonald's is partly a real-estate business is more than a clever fact about its balance sheet. Real estate helped align a sprawling network of nominally independent operators around the standards of one company.
+
+Location selection also became a form of accumulated intelligence.
+
+A successful restaurant site depends on traffic flows, visibility, access, surrounding development, household patterns, competitors, parking, and expectations about how an area will grow. Each opening gives the company more evidence about which combinations work. A chain can turn thousands of local experiments into a centralized site-selection capability that an independent restaurant cannot easily match.
+
+The land beneath the arches therefore did three jobs.
+
+It generated economics.
+
+It disciplined operators.
+
+It encoded the company's view of American geography.
+
+As suburbs and highway corridors expanded, McDonald's became unusually good at predicting where standardized demand would appear.
+
+The company did not merely follow suburbia.
+
+It learned how to read it.
+
+## Suppliers Had to Become McDonald's-Compatible
+
+A national promise of sameness moves upstream.
+
+If fries must taste similar in Illinois and Arizona, the problem eventually reaches potato varieties, storage temperatures, cutting equipment, frying procedures, oil, packaging, and the timing between cooking and serving. If buns must fit a standardized sandwich, bakers must produce to dimensions and tolerances that make the kitchen system reliable. Equipment suppliers must design machines around throughput and cleaning requirements.
+
+The restaurant's operating specification becomes an industrial specification.
+
+This creates a less visible form of network effect.
+
+As suppliers invest in meeting McDonald's volume and standards, the company gains partners capable of supporting more locations. More locations justify larger and more specialized supplier investments. Larger supplier capacity can reduce costs and improve consistency, which makes further expansion easier.
+
+The feedback loop runs backward from the customer.
+
+Ford's factory standardized parts so cars could flow down a line.
+
+McDonald's standardized inputs so meals could flow through thousands of small lines distributed across the country.
+
+The system did not eliminate supplier expertise. It reorganized expertise around a common specification.
+
+This is another reason the hamburger itself is the wrong unit of analysis.
+
+The more consequential product was interoperability.
+
+A potato farm, processor, distributor, fryer, worker, timer, wrapper, franchise agreement, and sign all had to cooperate closely enough that the customer experienced one brand.
+
+## The Worker Became an Interface
+
+The service worker occupied a peculiar position inside this system.
+
+Customers experienced the restaurant through people, but management tried to reduce how much the experience depended on any one person's discretion. Menus were limited. Portions were defined. Workstations were arranged. Tasks could be timed. Scripts and service expectations narrowed variation.
+
+The goal was not to remove the worker.
+
+It was to make the worker replaceable without making the service feel unreliable.
+
+That distinction became central to the postwar service economy.
+
+Industrial factories had separated craft knowledge into specialized production tasks. Fast-food systems applied a related logic to customer interaction. A teenager with limited work experience could enter a structured environment and become productive quickly because much of the knowledge was embedded in layout, equipment, procedure, and supervision.
+
+For a first-time worker, this could be valuable. The system offered an accessible entry point into paid employment and basic operational experience.
+
+For labor bargaining power, the same accessibility could be a weakness. If replacement is easy, the individual worker has less leverage over wages and conditions.
+
+The standardized service job therefore carried the same double character as other systems in this book.
+
+It expanded access and concentrated control.
+
+That combination would reappear in warehouses managed by scanners, call centers managed by scripts, ride-hailing platforms managed by apps, and fulfillment systems managed by algorithms.
+
+McDonald's was not an algorithmic workplace.
+
+It helped make the underlying managerial ambition familiar: move knowledge into the system so the system can coordinate people at scale.
+
+## The Counterfactual: Fast Food Without McDonald's
+
+America would have eaten fast food without McDonald's.
+
+White Castle had standardized hamburgers earlier. Drive-ins, diners, Howard Johnson's, Kentucky Fried Chicken, Burger King, and many other chains or formats were already developing ways to serve mobile postwar consumers. Highways and suburbanization would have encouraged roadside food whether Ray Kroc ever visited San Bernardino or not.
+
+That is precisely why the selection cannot rest on invention.
+
+McDonald's wins because it combined operating design, franchising, real estate, supplier standardization, training, brand, and site selection into a system that became globally legible.
+
+The counterfactual fast-food industry probably still becomes large.
+
+The stronger uncertainty is whether one company becomes such a clear managerial template for the replication of service businesses.
+
+The arches made the organizational idea visible.
+
+That matters because competitors learned from the winner even while competing against it.
+
+A chain restaurant did not need to copy McDonald's menu to absorb the lesson that every uncontrolled variation might be a cost, every recurring task might be documented, and every location might be designed as one unit in a national system rather than a freestanding restaurant.
+
+The company set expectations for an industry it did not own.
+
+That is one of the best tests of importance in this book.
+
 The 1950s have strong corporate alternatives. General Motors remained a giant. IBM was already building the computer business that would define the next decade. Disney created a new form of entertainment infrastructure with Disneyland. Boeing and other aerospace companies were remaking technology and the West. Retail chains were expanding with suburbia.
 
 McDonald's wins this decade for a different reason.
