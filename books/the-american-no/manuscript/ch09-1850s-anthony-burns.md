@@ -176,6 +176,42 @@ A statute was enforced.
 
 That was enough to militarize the street.
 
+The mechanics of Burns’s arrest make the institutional point even sharper. He was initially taken on a false robbery pretext and held overnight before the fugitive proceeding became public. The 1850 law did not give an alleged fugitive the ordinary jury protection a Massachusetts resident might associate with a serious deprivation of liberty. A federal commissioner could decide whether a claimant had established the right to carry a person south.
+
+This procedural architecture mattered because it compressed an enormous moral question into an administrative hearing. Slavery did not need a jury of Bostonians to agree with it. It needed federal process to function faster than local resistance could organize.
+
+The Burns case disrupted that speed.
+
+Lawyers intervened. Meetings formed. The courthouse became a fortress. President Franklin Pierce approved the use of federal troops after the failed rescue. What officials hoped could be processed as a legal claim became a nine-day public argument over whether federal legality and local legitimacy had come apart.
+
+That time expansion is one reason the protest mattered. Delay can be a movement victory when the institution depends on quiet routine. Every additional day gave newspapers more space, organizers another meeting, undecided citizens another look at the courthouse, and officials another opportunity to reveal how seriously they regarded the threat of resistance.
+
+The government eventually won the race. It did not win invisibility.
+
+There is a revealing comparison on the same street. In 1851, federal officers had returned another freedom seeker, Thomas Sims, to slavery through Boston. Authorities moved Sims toward Long Wharf before dawn, and a much smaller group of abolitionists witnessed the rendition. Three years later Burns was marched in daylight through a city where resistance had grown dramatically. The law had not become weaker. The public capacity to contest its execution had become stronger.
+
+Protest therefore has a cumulative dimension that event-by-event history can miss. A failed rescue can train the next vigilance committee. A public outrage can create donors, lawyers, meeting habits, and local memory. The number of people who show up next time is partly the residue of all the times before.
+
+Burns’s case also collided with another reform movement in a way almost too neat for fiction. The first Woman’s Rights Convention held in Boston was scheduled for June 2, 1854—the same day federal authorities marched Burns down State Street. Organizers including Lucy Stone, William Lloyd Garrison, Abby Kelley Foster, and Wendell Phillips had planned the women’s rights meeting before the rendition crisis overtook the city.
+
+The overlap is not a trivia fact. It shows how reform movements shared people, language, institutions, and moral emergencies. The women’s rights convention called for control of earnings, equal educational provision, jury rights, and political representation. Outside, a Black man was being denied freedom through a federal process built to serve slave property claims.
+
+The causes were distinct. The networks were entangled.
+
+This is how movement ecosystems develop. An abolitionist is also a women’s-rights advocate. A church hosts several causes. A newspaper prints arguments that cross movements. A legal principle learned in one struggle becomes usable in another. Alliances can deepen and later fracture, but the circulation of tactics and people remains.
+
+The coincidence also helps explain why the Burns protest wins the decade over a conventional “great man” event. John Brown’s Harpers Ferry raid in 1859 is the obvious rival. It was more dramatic, more militarily explicit, and closer to the outbreak of civil war. Brown became a martyr to some and a terrorist to others. His raid made the possibility of armed antislavery insurrection impossible to dismiss.
+
+Burns wins because the federal government itself supplies the spectacle. The state is not reacting to an attempted seizure of an arsenal. It is carrying out a routine statute in a supposedly free city and discovering that routine administration now requires military protection.
+
+That distinction exposes the constitutional crisis more completely.
+
+Harpers Ferry asks what abolitionists may do against slavery.
+
+Burns asks what the United States is willing to do for slavery.
+
+The answer was visible from one end of State Street to the other.
+
 There is a durable lesson in that sequence. Institutions often imagine crisis as something protesters bring from outside. But crisis can be produced by ordinary enforcement when the underlying rule has lost legitimacy with a substantial public.
 
 The protest does not create the contradiction.
