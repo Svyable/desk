@@ -375,3 +375,87 @@ A dog standing quietly by the door may already have said more to the right perso
 The future of talking with animals will not be measured by how many English words we can make them produce.
 
 It will be measured by how many reliable ways we give them to change our next move.
+
+There is a further design problem that button enthusiasm tends to hide: vocabularies are chosen by humans.
+
+The human decides that OUTSIDE deserves a button.
+
+The human decides that LOVE, MAD, FRIEND, LATER, and WHY belong on the board.
+
+The human decides whether STOP exists at all.
+
+The animal can only communicate through distinctions the designer made available, plus whatever unconventional uses it can force into them.
+
+That is not unique to animal interfaces. Every menu limits users. Every form defines which answers count. Every bureaucratic category makes some experiences easy to report and others almost impossible.
+
+Buttons are a miniature politics of vocabulary.
+
+A third-language interface should therefore ask not only whether the animal can learn the human’s options but whether the options reflect outcomes the animal repeatedly tries to influence.
+
+Instead of beginning with a list of charming English words, observe where interaction repeatedly breaks.
+
+Does the animal struggle to request access?
+
+To end touch?
+
+To choose between activities?
+
+To indicate uncertainty?
+
+To recruit help?
+
+To request social contact or separation?
+
+The most useful vocabulary may emerge from unresolved coordination problems rather than from human curiosity about what the animal is thinking.
+
+This suggests a radical simplification.
+
+Start with verbs before emotions.
+
+Open.
+
+Stop.
+
+Come.
+
+Go.
+
+Play.
+
+Help.
+
+Again.
+
+Done.
+
+These terms map more readily onto observable consequences. If the animal uses them reliably, richer distinctions can be tested later. A system grounded in actions gives both sides something to verify.
+
+The same logic applies to AI. Before asking a model to infer *jealousy*, ask whether it can predict which human action resolves the sequence. Before inferring *sadness*, ask whether social contact, distance, access, rest, or another intervention changes the behavior. The lower-level model may not be emotionally satisfying, but it can be empirically accountable.
+
+There is also a social-science opportunity here. Soundboard households are distributed experiments in how humans change when animals gain a conspicuous initiation channel. Researchers could study the humans as carefully as the dogs.
+
+Do owners become more attentive to natural body signals after installing a board?
+
+Do they become less attentive because the button is easier to notice?
+
+Do they respond more quickly to some requests and ignore others?
+
+Do abstract labels increase anthropomorphic interpretation?
+
+Do households differ in how reliably button presses produce consequences?
+
+Does the dog’s use change when one family member is present rather than another?
+
+A board is not just a cognitive test for the dog.
+
+It is a perturbation of a relationship.
+
+That may be its greatest scientific value.
+
+If researchers treat the household as a coupled system, buttons can reveal how explicit interfaces interact with older, quieter channels. Perhaps the dog presses less once the human learns to recognize a pre-button gesture. Perhaps the board becomes a repair channel used mainly when gaze or movement fails. Perhaps one human responds to the board while another responds to natural signals, producing partner-specific use.
+
+Those outcomes would support the third-language idea far more strongly than one viral three-button phrase.
+
+The board would no longer be judged by whether it made the dog sound human.
+
+It would be judged by whether it changed the architecture of being understood.
