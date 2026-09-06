@@ -174,10 +174,90 @@ That is the mature lesson of the visit.
 
 Diplomacy matters most when it is not mistaken for magic.
 
-Khrushchev came to America as the leader of an enemy system.
+There was another American audience Khrushchev could not avoid: a country in the middle of its own racial crisis.
 
-He left having been argued with, photographed, fed, escorted, mocked, studied, televised, and denied Disneyland.
+The Soviet Union had long used American segregation and racial violence as propaganda against U.S. claims to lead the free world. The argument was opportunistic, but the facts it exploited were real. Brown v. Board of Education was only five years old. Federal troops had enforced school desegregation in Little Rock in 1957. Sit-ins would begin spreading across the South within months of Khrushchev's departure.
+
+American officials understood that domestic racial inequality carried international cost.
+
+A Soviet leader moving visibly through the United States made that cost harder to compartmentalize. Washington could showcase abundance, scientific achievement, and political openness while knowing the visitor represented a government eager to point toward every contradiction in the display.
+
+This did not make Soviet criticism disinterested or Soviet society free of ethnic hierarchy and repression.
+
+It made American civil rights part of superpower competition.
+
+The Cold War helped create incentives for federal officials to regard racial injustice not only as a domestic constitutional problem but as damage to American credibility among newly independent countries in Africa and Asia. Civil-rights activists did not need the Cold War to justify equality. Their claim was moral and constitutional on its own. But international scrutiny altered the environment in which the federal government calculated the price of delay.
+
+Khrushchev's tour belonged to that scrutiny.
+
+So did the foreign journalists and diplomats watching him.
+
+The countries Washington most wanted to influence were not limited to NATO allies. Decolonization was creating new states whose leaders did not automatically accept either superpower's story. India, Indonesia, Ghana, Egypt, and others pursued policies that resisted simple bloc discipline. Their governments watched how the United States treated its own citizens while listening to Soviet promises of anti-imperial solidarity.
+
+The American showroom therefore had a global jury.
+
+This helps explain why the Khrushchev visit was more than bilateral diplomacy. Every stop participated in a competition for the political imagination of countries not present in the room.
+
+The Soviet premier was also measuring Eisenhower.
+
+The American president's style could be deceptive to adversaries who equated theatrical intensity with resolve. Eisenhower often preferred controlled language and strategic ambiguity. His experience as Supreme Allied Commander had taught him the difference between public drama and organized force. He had ended the Korean War without expanding it into a broader conflict and resisted repeated pressures for direct military action in crises where escalation could become uncontrollable.
+
+Khrushchev was more flamboyant.
+
+Their contrast produced a useful test of summitry.
+
+Could two leaders who performed strength differently recognize actual limits in one another?
+
+Berlin made the question urgent. Khrushchev had demanded changes to the status of the city and sought to force Western powers out of West Berlin. The United States was unwilling to surrender access and credibility there. A crisis over a geographically exposed city could have engaged alliance commitments and nuclear forces quickly.
+
+Camp David did not solve Berlin.
+
+It did something less visible: both sides left with a better sense that the other preferred bargaining to immediate collision.
+
+That kind of information has value even when it cannot be signed.
+
+The subsequent U-2 disaster illustrates the opposite mechanism. Trust need not be deep to be damaged. Eisenhower had authorized reconnaissance because the United States needed intelligence about Soviet capabilities and feared a surprise attack or hidden missile advantage. The flights served a real security function. When one was exposed on the eve of summit diplomacy, the operation also demonstrated how one part of a security system can sabotage another.
+
+Intelligence reduced uncertainty about Soviet weapons while increasing political distrust.
+
+There was no universal way to optimize both.
+
+This is one reason nuclear competition produced such elaborate machinery over time: reconnaissance, arms-control verification, diplomatic channels, crisis communications, and eventually satellite systems capable of monitoring compliance without the same political risk as piloted overflights.
+
+The 1959 visit sits before that machinery matured.
+
+The leaders were improvising forms of contact under conditions in which a single reconnaissance flight, bomber incident, border crisis, or misread deployment could reorder the relationship.
+
+Khrushchev's own future demonstrates how unstable leader-centered diplomacy can be.
+
+He would preside over the Berlin Wall's construction in 1961 and the Cuban Missile Crisis in 1962. He would be removed from power in 1964. The man who had toured America as the face of Soviet communism would disappear from the leadership while the Soviet state continued.
+
+This is an important limit on the chapter's method.
+
+A visitor can make a rival legible without making the rival reducible to him.
+
+Khrushchev's personality mattered. So did the Politburo, Soviet military leadership, ideology, economic constraints, alliance commitments, intelligence assessments, bureaucratic interests, and the strategic geography inherited from the Second World War.
+
+American officials who mistook a leader for the whole system would misunderstand the next leader.
+
+The strongest alternative for the 1950s is not trivial.
+
+Jawaharlal Nehru visited the United States as the prime minister of newly independent India and embodied the challenge of nonalignment to an American foreign policy increasingly organized around blocs. Konrad Adenauer represented the West German state whose security and eventual rearmament sat at the center of NATO strategy. Queen Elizabeth II's 1957 state visit reinforced a major alliance and gave a young monarchy a highly visible place in American public life.
+
+Any of them could support a different theory of the decade.
+
+Khrushchev wins because the Cold War's central danger was not whether allies liked America enough.
+
+It was whether the principal adversaries could compete without miscalculating themselves into annihilation.
+
+In September 1959, the answer was not known.
+
+The Soviet premier came to America as the leader of an enemy system. He left having been argued with, photographed, fed, escorted, mocked, studied, televised, taken through farms and factories, and denied Disneyland.
 
 The missiles remained.
 
 But the enemy was no longer only a silhouette.
+
+For a nuclear age, that was not peace.
+
+It was one of the preconditions for surviving without it.
