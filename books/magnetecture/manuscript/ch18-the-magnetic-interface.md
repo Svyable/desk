@@ -172,6 +172,108 @@ Software's contribution is not to make the field virtual.
 
 It is to make a scarce, coupled physical resource shareable and safe.
 
+Multi-target control shows how quickly this becomes a real resource-allocation problem.
+
+Imagine two magnetic bodies in the same workspace. A uniform field used to rotate one may rotate the other. A gradient that pulls one target can exert some force on its neighbor. Unless the objects have different magnetic responses, occupy geometrically separable regions, or can be constrained mechanically, the controller cannot grant them perfect independent commands.
+
+The field is broadcast by default.
+
+This is a crucial difference from wired actuation. A motor driver can route current to one motor through dedicated conductors. A magnetic field fills space and couples according to physics rather than addressing labels.
+
+Independent control therefore has to be engineered.
+
+Targets can be given different magnetic moments or anisotropies. They can be placed in different regions where field gradients differ. Frequencies can separate responses if materials or structures are selective. One target can be immobilized mechanically while another moves. Operations can be time-multiplexed.
+
+Addressing moves into material, geometry, spectrum or schedule.
+
+This makes target identity more than metadata. It can be a physical design feature that enables multiplexing.
+
+A medical platform might distinguish devices by geometry and magnetic moment. A microfluidic system could use beads with different responses. A reconfigurable surface could separate tasks spatially. The control plane needs to know not only *what* each device is but which degrees of freedom are actually independent in the current field basis.
+
+That independence can change as targets move.
+
+Two bodies far apart may be controllable with different local gradients. Move them together and the source geometry may no longer distinguish them. The controller's reachable set is therefore state-dependent.
+
+The system needs to reason about future controllability, not only current position.
+
+A planner might avoid a route that brings two devices into a region where they can no longer be separated. This is the magnetic equivalent of avoiding a robotic singularity: a geometric configuration where command authority collapses.
+
+Reachability has topology.
+
+Power and temperature make the scheduling problem even more concrete. A coil may safely produce a large field for a short pulse and not continuously. The platform can treat thermal headroom as a consumable resource. An intense maneuver spends that headroom. Cooling replenishes it.
+
+The controller has a physical budget account.
+
+This is familiar in battery-powered electronics, where processors boost performance briefly and throttle as temperature rises. A magnetic workspace can do the same: high-gradient burst, lower-power hold, sensing interval, cooldown.
+
+The interface should expose performance envelopes rather than pretending every command is indefinitely sustainable.
+
+A task may therefore have several completion plans. Move quickly and spend thermal budget. Move slowly and preserve margin. Use a strong pulse followed by passive magnetic retention. Change geometry mechanically instead of driving coils harder.
+
+Optimization becomes economic inside the machine.
+
+This suggests another abstraction above raw motion: *service quality*.
+
+An application could request a target position with a deadline and maximum uncertainty rather than specifying the trajectory. The control plane chooses a field strategy consistent with thermal, power and interference constraints. If the system is hot, it may offer a slower feasible plan. If another target occupies the workspace, it may schedule around it.
+
+The physical machine negotiates capability.
+
+This is closer to how complex infrastructure is managed than to how a simple actuator is commanded.
+
+The same principle can govern sensing. A high-power actuation phase can blind sensitive magnetometers. Rather than treat that as an accident, the scheduler can define explicit actuation and observation windows. The digital twin propagates the target state through the blind interval, then measurement corrects the prediction when sensing resumes.
+
+The system alternates confidence and authority.
+
+If the predicted uncertainty grows too quickly during a blind interval, the allowed actuation duration shrinks. Better models or additional nonmagnetic sensors can extend it. Sensing architecture therefore changes achievable motion performance.
+
+Control and observability become co-designed resources.
+
+A physical interface also needs units and coordinate frames that cannot be hand-waved away. A field vector reported in the magnet's coordinate system is useless to an application planning in patient or robot coordinates unless transformations are known. A gradient tensor cannot be collapsed into a single “strength” number without losing directionality.
+
+Standards would need rigorous conventions.
+
+Which coordinate frame is authoritative? Where is the target's reference point? How is magnetization orientation represented? Are field limits absolute or relative to a device axis? Which bandwidth applies to a calibration? At what temperature was the response model measured?
+
+Interoperability begins with boring precision.
+
+The same is true of uncertainty metadata. A device descriptor that declares a magnetic moment as one exact number may be unsafe if manufacturing variation is significant. The interface may need distributions or tolerances. A controller can then plan to a worst-case or probabilistic envelope.
+
+Physical types should include confidence.
+
+System identification can narrow those tolerances at runtime. Apply a small diagnostic field, observe response, and estimate the actual device parameters. The descriptor supplies safe priors; calibration supplies instance-specific values.
+
+This creates a handshake between factory and field.
+
+The manufacturer does not need to predict every physical parameter exactly if the platform can measure some of them before high-energy operation. The platform does not need to discover everything from scratch because the descriptor defines safe bounds and test procedures.
+
+That is how interfaces reduce coordination cost.
+
+The concept resembles plug-and-play only at a distance. A real magnetic device may need seconds or minutes of calibration, may require a particular workspace geometry, and may expose only a few certified functions. Generality is bounded by physics.
+
+Bounded plug-and-play is still a major advance over bespoke integration.
+
+There is another reason to make refusal part of the interface.
+
+Physical systems are often pressured to return a command even when the requested outcome is poorly conditioned. An inverse solver can produce mathematically large currents for a nearly unreachable field. A planner can extrapolate a model beyond its calibration volume. A learned controller can output an action under conditions it never saw in training.
+
+The right result can be `unreachable`.
+
+That is not a software error. It is an honest physical answer.
+
+A good magnetic API should make impossibility legible early enough that higher layers can choose another plan: reposition the source, move the patient, switch tools, wait for cooling, accept lower precision, or use a mechanical alternative.
+
+Graceful refusal increases system capability because it keeps the machine inside the region where its promises mean something.
+
+The control plane should also distinguish reversible from persistent commands.
+
+`orient` may change only while a field is applied. `program` may alter a magnetic state that survives power loss. `heat` may change material or biological state irreversibly. `demagnetize` may affect calibration permanently. These are not equivalent actuator calls with different parameters.
+
+Command semantics should carry consequence.
+
+A persistent operation can require stronger authorization, explicit verification and a recovery plan. A transient operation can be allowed under a different safety policy. This maps the state hierarchy from earlier chapters into the interface itself.
+
+The machine should know when it is changing what the machine *is*.
+
 This chapter is the hinge of the book because the prior chapters supplied the pieces. Reprogrammable magnetic matter creates mutable state. Spin systems create informational state. Quantum sensors improve observability. High-field conductors expand actuation. Magnetoelectric materials create local control. Medical robots reveal the need for closed-loop operation.
 
 The magnetic interface is what allows those pieces to become a platform rather than a collection of effects.
