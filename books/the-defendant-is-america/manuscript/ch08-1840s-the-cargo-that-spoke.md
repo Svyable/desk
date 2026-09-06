@@ -227,3 +227,73 @@ For the men and children who returned across the Atlantic, narrow was enough to 
 History often asks law for a revolution and receives a remedy.
 
 A remedy can still be freedom.
+
+## The paperwork was part of the crime
+
+The decisive factual question became legible because the ownership papers did not match the people.
+
+The Spanish claim depended on treating the Africans as people lawfully enslaved within Cuba rather than recent captives brought across the Atlantic in violation of prohibitions on the international slave trade. That distinction created an incentive for traffickers to launder illegal importation into domestic slavery through documentation.
+
+The case therefore did not pit oral memory against paper in a simple way.
+
+It pitted one paper trail against another body of evidence capable of showing that the paper trail had been manufactured around a false status.
+
+The Africans' lawyers argued that the men and children were native Africans who had been born free, kidnapped, transported to Cuba, and falsely presented as lawful Cuban slaves. Federal court records preserved by the National Archives show how the litigation accumulated competing libels, answers, warrants, treaty claims, salvage demands, and factual assertions around that core question.
+
+This bureaucratic density is morally revealing.
+
+Kidnapping is a physical act.
+
+Converting kidnapping into ownership requires administration.
+
+Somebody records a name. Somebody accepts a certificate. Somebody recognizes a sale. Somebody treats the certificate as proof sufficient to move a person across another border. The violence becomes durable because institutions agree to read the documents in a particular way.
+
+The *Amistad* defense attacked that administrative chain.
+
+One of the case's important evidentiary achievements was making the captives' African origins provable to people who could not understand their language when they arrived. Abolitionist supporters searched for someone capable of communicating with them. Yale professor Josiah Willard Gibbs reportedly learned to count in Mende and went to New York docks calling out the numbers until he found sailors who recognized the language. Those interpreters helped make the captives' accounts accessible to counsel and court.
+
+The detail sounds almost whimsical until its stakes are restored.
+
+A man's freedom depended partly on whether strangers could find a linguistic bridge before a court accepted documents saying he was someone else.
+
+Translation became evidence infrastructure.
+
+That is different from rhetoric. John Quincy Adams's eventual Supreme Court argument is memorable because a former president standing before the justices gives the story dramatic shape. The quieter work happened earlier: locating interpreters, identifying African origins, reconstructing the voyage, testing Spanish documents, and establishing that the people before the court fit the category of illegally imported Africans rather than lawful property.
+
+Without that work, the moral truth that kidnapping is wrong might never have reached the legal question in a usable form.
+
+This is what “access to justice” often means in practice.
+
+Not merely access to a courthouse.
+
+Access to translation.
+
+Access to someone who can investigate provenance.
+
+Access to lawyers capable of noticing which document must be attacked.
+
+Access to time while the case moves through multiple courts.
+
+Access to supporters willing to finance the process and eventually the journey home.
+
+The captives had a strong underlying claim. Strength alone was not self-executing.
+
+The American government, meanwhile, did more than passively honor Spain's diplomatic concern. The Van Buren administration took positions in the litigation consistent with returning the Africans under treaty and statutory theories if the courts accepted the relevant premises. That involvement makes the judicial result more important because the court was not simply resolving a private dispute between abolitionists and Spanish planters.
+
+It was testing an executive interpretation of international obligation.
+
+The distinction between treaty compliance and factual deference is crucial.
+
+A government can have a real duty to honor a treaty without being required to accept every foreign certificate or ownership assertion as true. Treaties operate on facts. If the people were not lawful Spanish slaves, a treaty provision protecting Spanish property could not make them so by diplomatic insistence.
+
+Courts are particularly valuable at that seam.
+
+They do not have to decide that diplomacy is unimportant.
+
+They have to ask whether the diplomatic rule actually applies to the facts proved.
+
+The case therefore supplies an early example of a theme that will recur whenever executive officials invoke an external necessity—war, treaty, security, intelligence—to justify a consequence for an individual. Institutional respect is not the same thing as factual surrender.
+
+The *Amistad* court respected the existence of law between nations.
+
+It refused to let the law complete a kidnapping that the evidence exposed.
