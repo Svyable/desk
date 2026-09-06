@@ -213,3 +213,49 @@ It was the gun a tired government could afford to keep using.
 That may sound like faint praise.
 
 History is full of empires built with equipment that was merely good enough.
+
+The production record shows how a thrift measure became an installed architecture.
+
+Springfield's history of the Trapdoor begins with the postwar decision not to scrap enormous numbers of usable .58-caliber rifle-muskets. The first Allin conversion run numbered about five thousand Model 1865 arms. The system was then revised repeatedly: caliber reduced, extraction improved, barrels changed, and eventually the Model 1873 emerged as a newly manufactured .45-70 weapon rather than a converted Civil War musket.
+
+That evolution matters because the word “conversion” can suggest a temporary expedient.
+
+The expedient became a family.
+
+Once Springfield had tooling, experience, training, ammunition arrangements, spare parts, and institutional confidence around the hinged breech, the cost of abandoning it rose. Improvement made continuation rational one decision at a time.
+
+Path dependence rarely arrives as one bad choice.
+
+It arrives as a sequence of sensible ones.
+
+The 1873 itself was not simply old hardware given another hinge. NPS notes that it was the first Springfield rifle built with a steel barrel and that its new .45-70 cartridge reflected a significant change in ammunition. The government could therefore modernize metallurgy and ballistics while retaining a single-shot operating concept.
+
+This is a useful correction to the idea that military modernization always occurs by replacing whole platforms.
+
+Architectures can contain both old and new.
+
+A Cold War bomber can receive modern sensors and precision weapons. A decades-old ship can receive new missiles and radar. A conventional bomb body can receive a GPS guidance tail kit. An old launcher can fire a new rocket. The age of the visible platform does not tell us the age of every capability inside it.
+
+The Trapdoor was an old idea being progressively rebuilt into a new system.
+
+The production numbers show how deeply the system settled in. NPS lists about eighty-five thousand early Model 1873 and 1877 rifles, roughly 160,000 Model 1879 rifles, more than 230,000 Model 1884 rifles, and additional carbines, cadet weapons, and later variants. Across two decades the .45-caliber Trapdoor family approached half a million arms.
+
+A single-shot design no longer looks like a temporary compromise when a state makes it by the hundreds of thousands.
+
+It becomes doctrine in inventory form.
+
+That helps explain why “why didn't the Army just buy Winchesters?” is the wrong question. The commercial repeater and the service rifle belonged to different systems of cost, ammunition, maintenance, range expectations, supply and institutional experience. The Army could have chosen differently; procurement history is not fate. But a product comparison that ignores installed capacity makes the government's decision look more foolish than it was.
+
+The more interesting question is when the installed system became harder to leave than to improve.
+
+By the 1880s, the answer was increasingly visible. Magazine-fed bolt actions and smokeless powder were changing what major armies expected from infantry arms. Springfield continued refining sights, bullets, bayonets and details because those were changes the existing architecture could absorb. Eventually incremental improvement ran into a boundary: a single-shot black-powder system could not become a modern magazine rifle merely by another minor modification.
+
+The Krag chapter will begin at that boundary.
+
+The trapdoor must finally close so a different action can open.
+
+The 1870s are important because the system had not yet reached that point. The Army was modernizing within constraints that were real, political and often rational. It carried that compromise into wars whose larger political purpose was the coercive consolidation of the continental state.
+
+The rifle's adequacy was enough.
+
+The government's endurance did the rest.
