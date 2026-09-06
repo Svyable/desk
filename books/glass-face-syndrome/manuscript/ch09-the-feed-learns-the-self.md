@@ -325,3 +325,141 @@ It recommends.
 It reflects other people’s reflections.
 
 Then it holds the face long enough to learn what keeps the face there.
+
+Metrics change not only what a person posts but what they can later remember about why they posted it.
+
+Suppose someone shares a photograph because they love it. The photograph performs poorly. The next time they consider a similar image, the memory of low response sits beside the original affection. Or a casual joke unexpectedly travels. The person learns that the joke has market value and begins producing variations. A public identity can drift through hundreds of such tiny updates without any single moment feeling like a decision about identity.
+
+This is not necessarily corruption.
+
+A comedian should learn which jokes work. A teacher should learn what students understand. A business should notice what customers want. Feedback is how craft improves.
+
+The problem appears when the measurable audience displaces audiences that are less measurable but more important.
+
+A post that reaches fifty thousand strangers can outperform a message that matters deeply to one friend if the dashboard is the only instrument on the table.
+
+The dashboard cannot know the friend matters more unless the system has been told what “more” means.
+
+Digital platforms are forced to use proxies because meaning is difficult to compute.
+
+Clicks.
+
+Views.
+
+Minutes.
+
+Shares.
+
+Replies.
+
+Retention.
+
+Conversion.
+
+These are not fake. They are measurements of real behavior. The error comes when the existence of a clean measurement causes institutions or users to treat the measured thing as the whole objective.
+
+This is Goodhart’s law translated into a pocket mirror: once the proxy becomes a target, behavior begins changing around the proxy.
+
+A creator discovers that outrage travels and may become angrier in public than in private.
+
+A teenager discovers that one style of photograph gets approval and may narrow presentation toward that style.
+
+A company discovers that anxiety-inducing headlines produce opens and may frame more stories as urgent.
+
+A professional discovers that constant posting creates visibility and may turn expertise into a performance schedule.
+
+The system does not need to command any of this. The number teaches.
+
+Numbers also create false comparability.
+
+Two hundred likes on one person’s account and two hundred on another’s may represent different audience sizes, relationships, algorithms, posting histories, and meanings. A thousand followers may be close friends, strangers, customers, dormant accounts, or bots. A view can mean fascination, hostility, accident, autoplay, or sincere attention.
+
+Yet the interface presents the same unit.
+
+Standardized units are powerful because they flatten context.
+
+Money does this intentionally. A dollar allows unlike goods to be compared in a market. Social metrics perform a rougher version of the same operation on attention. They translate different forms of response into counts that can be ranked.
+
+Once attention has a price-like representation, people can begin accumulating it as if more were self-evidently better.
+
+But attention has quality.
+
+Being known by ten people is different from being seen by ten thousand.
+
+Being trusted is different from being followed.
+
+Being loved is different from being reacted to.
+
+Being useful is different from being viral.
+
+The phone places these experiences near one another on the same glass, which can make their differences harder to feel.
+
+This is why removing public like counts or hiding metrics can matter for some users without solving the deeper system. A metric can disappear from public view while ranking still occurs privately. A creator may still receive analytics. The system may still optimize distribution from engagement. Social comparison can move from visible numbers to inferred status.
+
+The issue is not one numeral.
+
+It is a culture in which more dimensions of social life become observable enough to optimize.
+
+The same logic enters dating in especially intimate form. Attraction has always involved selection. People have always judged one another quickly and unfairly. Mobile dating turns parts of that selection into a repeated interface with photographs, prompts, match counts, response timing, and large pools of alternatives.
+
+That can expand opportunity enormously. People can meet across neighborhoods, professions, communities, and social circles that would never have intersected. For marginalized groups or people in small communities, that expansion can be life-changing.
+
+It can also make the self feel like a listing.
+
+Which image leads?
+
+Which prompt converts?
+
+How many matches?
+
+Why did the conversation disappear?
+
+Is there someone better one swipe away?
+
+The interface does not create romantic uncertainty. It quantifies and scales parts of it.
+
+This is the pattern again.
+
+The phone takes a human ambiguity and gives it machinery.
+
+The machinery returns evidence.
+
+The evidence changes the next human act.
+
+Over time the user may become difficult to separate from the feedback system because identity has always been partly social. We learn who we are from how others respond. The smartphone did not invent that dependence. It made the response stream continuous, searchable, comparable, and available in solitude.
+
+That last word matters.
+
+The old social mirror usually required social presence.
+
+The new one can evaluate you when nobody else is in the room.
+
+A person can lie alone in darkness while carrying an audience large enough to fill a stadium.
+
+The audience may not be thinking about them at all.
+
+The metrics remain.
+
+This creates a peculiar form of co-presence: alone with quantified traces of other people’s attention.
+
+Glass Face Syndrome is not only the face turning away from the room.
+
+Sometimes there is no one else in the room.
+
+The face turns toward the glass because that is where the social world has been stored.
+
+The healthier future will not require eliminating feedback. Humans need response. Creators need audiences. Friends need signals. Communities need recognition.
+
+The task is to preserve distinctions the dashboard flattens.
+
+Which people matter?
+
+Which responses contain information rather than applause?
+
+Which numbers serve the work and which cause the work to serve the numbers?
+
+Which recommendations expand the self and which merely intensify the easiest prediction?
+
+A feed that learns the self can be useful.
+
+A self that learns only from the feed becomes smaller.
