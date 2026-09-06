@@ -1,8 +1,8 @@
-# THE HUNGER SWITCH
+# The Hunger Switch
 
-## How One Molecule Took Over Appetite, Industry, and the Global Body
+*How One Molecule Took Over Appetite, Industry, and the Global Body*
 
-### Sven Hardy Benson
+**Sven Hardy Benson**
 
 ---
 

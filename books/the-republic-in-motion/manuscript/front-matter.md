@@ -1,8 +1,8 @@
 # The Republic in Motion
 
-## 250 Years of America in 25 Vehicles
+*250 Years of America in 25 Vehicles*
 
-### Sven Hardy Benson
+**Sven Hardy Benson**
 
 © 2026 Sven Hardy Benson. All Rights Reserved.
 

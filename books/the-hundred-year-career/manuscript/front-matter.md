@@ -1,8 +1,8 @@
 # The Hundred-Year Career
 
-**Sven Hardy Benson**
-
 *Work, Identity, and Reinvention in a Life That No Longer Has One Profession*
+
+**Sven Hardy Benson**
 
 ---
 

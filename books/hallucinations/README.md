@@ -1,4 +1,4 @@
-# Hallucinations: How AI Leads Us Astray
+# Hallucinations: How AI Leads US Astray
 
 | | |
 |---|---|
