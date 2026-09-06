@@ -287,3 +287,93 @@ Between those dates, workers had already learned the lesson regulation was meant
 A pension is not secure because the booklet says it is.
 
 It is secure only when the system behind the booklet can survive the employer.
+
+The phrase “deferred compensation” deserves to be taken literally.
+
+A pension can look like generosity because the money arrives after the work. In economic substance, workers and employers often treat it as part of the compensation bargain. The worker gives labor today. The employer promises a stream of income later. The delay makes the promise unusually vulnerable because the person who has performed the work cannot retrieve the years if the institution fails to honor the bargain.
+
+You can quit a job that cuts your wage next Friday.
+
+You cannot redo twenty years at a different company after discovering at sixty-two that the retirement formula was built on weak funding.
+
+The asymmetry is why ordinary contract language was not enough.
+
+Long promises require governance.
+
+Funding standards are part of that governance, but funding itself is not a simple quantity. A pension liability depends on assumptions about the future: how long retirees will live, what salary growth will be, what investment returns the plan will earn, what interest rate should be used to value obligations, and whether the workforce is growing or shrinking.
+
+Small changes in assumptions can move large amounts of money across decades.
+
+That creates temptation.
+
+An employer under pressure can prefer assumptions that make the plan appear better funded. A booming stock market can make obligations feel cheap. A declining industry can postpone contributions in the hope that business conditions recover. A plan with many active workers can look comfortable until layoffs change the ratio between contributors and retirees.
+
+The promise is actuarial before it is moral.
+
+ERISA did not eliminate that uncertainty. It forced more of it into rules, reports, minimum contributions and oversight.
+
+The insurance backstop created its own difficulty.
+
+Insurance protects people from catastrophe because risk is pooled. It can also change behavior if the insured party assumes someone else will absorb the worst outcome. This is the familiar problem of moral hazard. A pension insurer must therefore protect workers without making underfunding attractive to employers or plans.
+
+PBGC premiums, funding rules and guarantee limits exist inside that tension.
+
+A guarantee that covered every benefit without limit would be extraordinarily reassuring to workers and potentially dangerous to the insurance system. A guarantee that covered too little would fail the political purpose revealed at Studebaker. The result is a bounded promise layered beneath another promise.
+
+That architecture is more common than Americans realize.
+
+Banks promise depositors access to money. Deposit insurance stands behind the promise up to a limit. Insurers promise claims; state guarantee systems stand behind some failures. Brokerage customers rely on custody and protection rules. Mortgage markets depend on government-sponsored and federally insured institutions. Private trust is often stabilized by a public or quasi-public floor.
+
+The American economy is not organized by choosing between markets and guarantees.
+
+It is organized by deciding which guarantees make markets possible.
+
+ERISA belongs in this book because pensions were a large piece of a private welfare state that grew after World War II.
+
+Americans often associate social policy with programs administered directly by government: Social Security, Medicare, Medicaid, unemployment insurance. But employers became distributors of social protection too. A job could provide health insurance, disability coverage, life insurance and retirement income. Tax policy encouraged the arrangement. Unions bargained for it. Large firms used benefits to compete for and retain labor.
+
+This structure allowed the United States to provide substantial social benefits without putting all of them on a government balance sheet.
+
+It also tied security to employment.
+
+Lose the employer and several protections can weaken at once.
+
+That bargain worked best for workers attached to large, durable organizations with stable careers. It worked less well for people moving among employers, working part time, employed by small firms, excluded from unions or concentrated in sectors where benefits were thin.
+
+ERISA made part of the private welfare state safer without making it universal.
+
+That distinction matters in evaluating the law.
+
+A federal pension floor protects participants in covered plans. It does not give a pension to someone whose employer never offers one. Regulation can strengthen a ladder without putting the ladder in every house.
+
+The later rise of the 401(k) widened a different form of retirement saving while shifting more responsibility onto individuals. Portability improved: an account can move more readily with a worker than a traditional pension tied to decades at one firm. But portability comes with exposure. Workers must contribute enough, invest reasonably, avoid excessive fees, resist panic, and hope markets and lifespan cooperate.
+
+The cultural shift is visible in vocabulary.
+
+The pension says: this is what you will receive.
+
+The account says: this is what you have accumulated.
+
+One is a promise about income.
+
+The other is a pile of assets from which income must be made.
+
+Those are different psychological contracts.
+
+The transition helps explain why Studebaker still matters even to workers who have never expected a defined-benefit pension. The case forced the country to decide whether benefits earned through employment were merely voluntary corporate customs or obligations important enough to regulate as a distinct category of property and trust.
+
+ERISA’s fiduciary rules answered part of that question emphatically.
+
+The person managing plan assets owes duties to participants because the assets are not ordinary corporate property. That sounds obvious after fifty years of regulation. It was the kind of obviousness law had to create.
+
+Under-appreciated events often work this way.
+
+They make an expectation so normal that later generations forget the expectation was contested.
+
+Today, a pension participant who learns that a plan manager used retirement assets for personal enrichment does not need a theory of why that feels wrong. The fiduciary idea is culturally intuitive even if the legal details are not.
+
+The money is for the workers.
+
+The simplicity of that sentence hides the machinery required to enforce it.
+
+Studebaker gave the machinery a human reason to exist.
