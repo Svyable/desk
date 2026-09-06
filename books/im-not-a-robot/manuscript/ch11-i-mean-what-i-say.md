@@ -272,6 +272,128 @@ The tool does not decide which process occurs.
 
 Practice does.
 
+There is another reason “meaning” cannot be located entirely inside production.
+
+Some utterances do things because a community has agreed that the authorized person saying them changes the social world.
+
+I resign.
+
+I accept.
+
+I plead guilty.
+
+I object.
+
+I now pronounce you married.
+
+You are fired.
+
+The importance of these sentences does not come from literary originality. It comes from standing, context, and recognized authority.
+
+A random stranger can utter identical words and nothing happens.
+
+A person in the relevant role can utter them and property moves, employment ends, obligations begin, or legal consequences follow.
+
+This matters for delegated systems because language models increasingly sit inside workflows where words are adjacent to action.
+
+A drafting assistant suggests an email. Low stakes.
+
+An agent negotiates a refund. More consequential.
+
+An automated system communicates a benefits decision. More consequential still.
+
+A software agent accepts terms, schedules a procedure, places an order, cancels an account, or sends a binding instruction.
+
+At that point the question “does the model mean it?” can distract from a more operational question.
+
+Who authorized this speech act to count?
+
+The answer needs to be legible before something goes wrong.
+
+If an agent says “I accept” on my behalf, the institution receiving the acceptance should know what scope of authority the agent actually has. If a company bot promises a refund, the company should not be able to treat the promise as meaningless merely because no employee typed the sentence. If a generated medical message tells a patient to change something consequential, there should be an accountable clinical process behind the instruction rather than a disclaimer floating underneath it.
+
+Meaning and authority meet at delegation.
+
+This is not new either. Assistants have sent messages for executives. Lawyers have spoken for clients. press secretaries have represented governments. Agents have entered contracts for principals. Civilization has long experience with speech whose speaker and author are not the same person.
+
+What changes is volume and ambiguity.
+
+Software can speak for a person thousands of times without the person witnessing each utterance.
+
+That makes the mandate more important than the keystroke.
+
+What may the system say?
+
+In which contexts?
+
+With what financial limit?
+
+Can it apologize?
+
+Can it promise?
+
+Can it threaten legal action?
+
+Can it disclose private information because the disclosure makes the conversation easier?
+
+Can it use “I” when acting for me?
+
+When must it identify itself as delegated software rather than let the recipient infer direct personal attention?
+
+These are not questions about grammar.
+
+They are questions about jurisdiction.
+
+The word “I” becomes especially interesting.
+
+A generated message can say, “I reviewed your application.”
+
+Who is I?
+
+If no person reviewed it, the pronoun can smuggle a human process into the sentence. If an institution reviewed it through an automated system operating under a declared policy, perhaps “we reviewed” names an institutional act. The wording should not force a metaphysical theory of organizations. It should make the relevant responsibility visible.
+
+Language can counterfeit process without containing a factual falsehood in the narrowest sense.
+
+“We’re sorry this happened” may be true as corporate language while no individual feels sorrow.
+
+“I took a close look” is different if nobody looked closely.
+
+“I thought you’d like this” is different when a recommender inferred a probability.
+
+“Your doctor recommends” is different when a model generated a suggestion no doctor examined.
+
+The recipient uses language to infer how much human attention, judgment, and authority sits behind the text.
+
+Generative systems can make those inferences unreliable.
+
+That is why disclosure should follow the social signal, not just the presence of a tool.
+
+We do not need a confession every time software fixes punctuation.
+
+We do need more care when automation changes what the recipient reasonably believes happened on the other side of the sentence.
+
+This gives “I mean what I say” a second discipline.
+
+Do not merely inspect the proposition.
+
+Inspect the implied process.
+
+Did I actually review this?
+
+Did somebody with authority approve it?
+
+Does “personal” mean personal?
+
+Does “we decided” name a decision process somebody can explain?
+
+If the sentence makes a promise, who can keep it?
+
+If it makes a threat, who is willing to own it?
+
+If it asks for trust, what relationship is being represented?
+
+A world of cheap words will require expensive precision about these questions.
+
 Institutions will need to become much more specific about this. “No AI” and “AI allowed” are crude labels when assistance can range from spellcheck to ideation, transcription, translation, outlining, drafting, fact retrieval, rewriting, critique, simulation, and full autonomous production.
 
 The educational question is what the student is supposed to learn.
