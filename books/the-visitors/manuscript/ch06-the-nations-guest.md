@@ -158,6 +158,50 @@ Congress ultimately awarded Lafayette money and land in recognition of his servi
 
 The republic was thanking a friend and balancing a ledger.
 
+The tour also became a logistical demonstration of federal scale. Lafayette’s movement required local committees, state officials, municipal hosts, transportation providers, militia units, civic associations, and private citizens to coordinate a ritual without a single national bureaucracy scripting every stop. The same decentralized civic capacity Tocqueville would later notice as a characteristic of American life was already visible in the way communities organized the guest’s reception.
+
+That decentralized structure mattered politically.
+
+A national symbol acquired legitimacy because local people made it their own. The federal government could invite Lafayette, but it could not manufacture the emotional force of a veteran stepping forward in a county seat or a town constructing an arch with its own money and labor. National memory was being produced from below as well as from Washington.
+
+That does not make the ritual spontaneous in some pure sense. Local elites often organized ceremonies, newspapers amplified them, and communities competed for prestige. Civic participation can be both genuine and orchestrated. The point is that the tour showed how a thin federal state could still generate a thick national spectacle through voluntary and local institutions.
+
+The infrastructure of travel added another layer. Lafayette’s route crossed a country in the middle of a transportation revolution. Steamboats shortened some journeys. Turnpikes and canals changed the relationship between places. The Erie Canal opened while Lafayette was in the United States, and his movements intersected with a society discovering that physical connection could be a form of political connection.
+
+A national tour is only possible at the scale the transportation system permits.
+
+In 1776, news moved slowly enough that distant communities experienced political events with significant delay. By the 1820s, Americans could coordinate a yearlong celebrity tour across twenty-four states with a speed and regularity unimaginable to the revolutionary generation. The visitor became a measure of infrastructure because the itinerary revealed which places the nation could reach and how quickly.
+
+This helps explain why the tour’s map mattered as much as its speeches.
+
+Every arrival told a community that it was connected to the center of the national story. A state admitted after the Revolution did not need an ancestor at Yorktown to possess Lafayette for a day. The geography of commemoration could absorb later states into an earlier founding.
+
+That work was especially important in the West, where claims to national belonging competed with regional interests and where the federal government had repeatedly struggled to make its authority tangible. Gardoqui’s decade had shown westerners suspicious that Atlantic politicians might sacrifice the Mississippi. Lafayette’s tour offered a different kind of federal relationship: not a bargain imposed from the coast but a revered guest physically arriving in the community.
+
+Ceremony cannot substitute for policy. It can alter the emotional field in which policy operates.
+
+The antislavery tension deserves to be pushed further because Lafayette’s moral authority was unusually hard to dismiss. Americans could regard European criticism of slavery as hypocrisy, especially when it came from empires with their own histories of exploitation. Lafayette was different. He had risked his life for American independence. His criticism could not be brushed aside as hostility to the republic.
+
+That did not make emancipation politically easy. It made the contradiction harder to hide behind nationalism.
+
+Lafayette’s own antislavery projects were limited and did not dismantle the larger Atlantic structures of bondage. He was not an abolitionist in every later sense of the term. But he understood that a republic built on natural rights could not make human property morally coherent merely by calling slavery a domestic institution.
+
+His reception therefore contained an implicit bargain between memory and discomfort. Americans wanted the revolutionary Lafayette enough to tolerate the antislavery Lafayette without allowing the latter to define the entire celebration.
+
+That is how public memory often survives contradiction: it includes the inconvenient fact while controlling its prominence.
+
+A counterfactual helps clarify what the tour accomplished. Had Lafayette died before returning, the revolutionary generation would still have been commemorated. Monuments, biographies, anniversaries, and the deaths of Adams and Jefferson in 1826 would have deepened the cult of the founding. But the country would have lost an unusually national, embodied rehearsal for mourning the generation while it was still partly alive.
+
+No other surviving figure could have played exactly the same role.
+
+An American founder would have been entangled in domestic faction and regional memory. A foreign veteran could stand slightly outside those divisions while remaining emotionally inside the Revolution. Lafayette’s biography solved a political design problem nobody had consciously designed him to solve.
+
+The tour also created a precedent for commemorative diplomacy that would matter long after the original strategic relationship changed. Foreign policy is not only negotiation over present interests. It is stewardship of inherited stories. Anniversaries, graves, battlefields, old alliances, wartime sacrifices, and shared founders can become assets governments spend in later relationships.
+
+The United States and France would disagree repeatedly after Lafayette. None of those disagreements erased Yorktown. Historical memory created a reservoir diplomats could draw from without pretending it determined every policy.
+
+This book ends with a similar use of inherited memory in 2026, when the British crown could participate in an American anniversary once defined by resistance to that crown. Lafayette’s tour shows an earlier version of the mechanism. A visitor carries history into the present, and the host decides which parts of the history to activate.
+
 The other plausible foreign dignitaries of the 1820s were consequential in more conventional diplomatic ways. Representatives of newly independent Latin American republics arrived as the United States debated recognition and the political meaning of hemispheric independence. British diplomacy shaped the environment in which the Monroe Doctrine was articulated. European powers watched the Americas as colonial systems changed.
 
 But none of those figures produced the national encounter Lafayette did.
