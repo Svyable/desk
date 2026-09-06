@@ -407,3 +407,23 @@ So it has started asking the market to prove which projects are serious, which l
 The most important Texas innovation in the data-center race may therefore be neither a power plant nor a server farm.
 
 It may be the decision to stop pretending that a line is enough when the problem is a crowd.
+
+The next question is what happens **after the batch**.
+
+A study can reveal that several projects fit, several require upgrades, and several cannot be served on their requested schedules. That still leaves a sequencing problem. Which commitments justify ordering equipment first? How long does an approved project retain scarce capacity if its construction slips? When does unused headroom return to the pool? Can a project transfer its position to another developer, or would that turn the queue into a market in electrical options?
+
+These rules determine whether batching becomes a one-time study technique or a genuine allocation institution.
+
+Capacity that is scarce enough to study in batches is too valuable to remain reserved indefinitely without evidence of progress. A mature process therefore needs **decay rules**. A project that misses milestones can lose part of its reservation, move to a later cohort, or post additional security to keep the option alive. The exact remedy matters less than the principle: queue position should weaken when the underlying project stops becoming more real.
+
+That creates a counterweight to first-mover advantage. The developer that filed earliest does not own the future forever. The developer that keeps investing, meeting milestones, and accepting the cost of commitment earns a stronger claim.
+
+This is especially important in a technology cycle where hardware and corporate plans can change faster than transmission. A project that looked strategic eighteen months ago may be redesigned, reduced, or moved before the electrical upgrades are complete. The system should be able to absorb that new information without restarting the entire planning process from zero.
+
+The best batch process will therefore behave more like a rolling portfolio than a courtroom docket. Projects enter, mature, change service class, drop out, and free capacity for others. The grid continuously re-evaluates the combination rather than pretending the cohort frozen on one study date is destiny.
+
+That is the institutional skill Texas is really trying to build.
+
+Not the ability to say yes or no to one spectacular data center.
+
+The ability to keep a fast-moving industrial boom synchronized with a physical network whose most important assets move much more slowly.
