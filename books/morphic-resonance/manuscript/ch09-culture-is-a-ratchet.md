@@ -231,3 +231,67 @@ Every library, school, archive, standard, ritual, tool, and network is an admiss
 The strange thing is not that the past shapes us.
 
 The strange thing is how thoroughly we have engineered the past to remain available.
+
+Availability, however, is not the same as transmission.
+
+A library may contain a solution nobody reads. A craft manual can survive while the craft disappears because the words are insufficient to reproduce the hand movements, material judgment, supplier knowledge, and workshop routines that made the method work. A software repository can preserve code that becomes unusable when its dependencies vanish. An archive can outlive the interpretive community capable of making sense of it.
+
+Culture therefore has bottlenecks.
+
+This is one reason laboratory studies of cumulative culture are useful. Researchers can construct simple tasks, let one participant's output become the next participant's starting point, and observe what survives or improves across transmission chains. The experiments are necessarily tiny compared with civilization, but they make a crucial point visible: the outcome depends not only on the quality of an innovation but on whether the transmission system can preserve what matters about it.
+
+A solution too difficult to copy may die with its inventor.
+
+A slightly worse solution that is easy to teach can spread.
+
+That asymmetry changes what cultural history contains.
+
+We often look at surviving practices and infer that they survived because they were best. Some did. Others may have been easier to imitate, easier to institutionalize, better aligned with authority, or simply attached to a population large enough to keep the chain from breaking.
+
+The archive is biased toward the transmissible.
+
+This matters when cultural recurrence is used as evidence for a deeper memory. A pattern that appears again and again may be unusually easy to reconstruct from partial cues. Symmetry, rhyme, repeated motifs, standardized dimensions, familiar story structures, and modular technical designs can all have transmission advantages because errors are easier to notice or repair. The pattern can seem to insist on returning when its form simply survives copying well.
+
+Error correction is a hidden part of cultural memory.
+
+A familiar word misspelled by one letter is often still understood. A melody can be recognized when one note is wrong. A ritual has expected stages that help participants recover if somebody forgets a line. A software protocol rejects malformed input. A measuring standard lets distant manufacturers detect incompatible parts. In each case, structure helps later users reconstruct an intended pattern from imperfect transmission.
+
+The past does not have to arrive intact if the present knows how to repair it.
+
+That is another reason culture can look more faithful than individual memory. The group supplies redundancy.
+
+Yet redundancy can also make mistakes durable. Once enough copies contain the same error, correction becomes harder because consensus itself becomes evidence. A mistaken citation propagates. A simplified historical story appears in several textbooks. A professional myth is repeated by teachers who learned it from earlier teachers. The number of repetitions grows while the number of independent origins remains one.
+
+Cultural accumulation can therefore strengthen truth and error with similar machinery.
+
+Selection helps only when the environment reliably rewards the thing we care about.
+
+A practice selected for speed need not be safe. A story selected for memorability need not be accurate. A platform convention selected for engagement need not improve understanding. A bureaucratic procedure selected for auditability may become hostile to unusual cases.
+
+The ratchet has no universal direction because culture has no universal objective function.
+
+This is why talk of collective intelligence should remain specific. A community may be collectively excellent at navigation and collectively bad at preserving dissent. A market may aggregate some dispersed information and amplify fashion. A scientific field may accumulate reliable methods while inheriting a bad category from an earlier era. The same society can store extraordinary competence beside extraordinary blindness.
+
+What survives depends on the memory ecology.
+
+Population size matters in some cultural systems because more people can mean more opportunities to preserve rare skills and generate variants. Network structure matters because isolated groups can lose access to techniques while tightly connected groups can synchronize quickly. Institutions matter because schools, guilds, journals, standards bodies, and firms determine who teaches whom and what counts as legitimate knowledge. Material environments matter because some skills require specialized tools or resources that cannot be carried in words alone.
+
+The unit of inheritance is therefore often larger than the idea.
+
+To inherit a technique may require inheriting a community.
+
+To inherit a community may require inheriting an economy.
+
+To inherit an economy may require roads, energy, law, measurements, and trust.
+
+By the time the chain is visible, the word *culture* can sound almost insultingly small for the machinery involved.
+
+This is where the morphic-resonance question becomes most difficult in humans. We are not merely exposed to past examples. We inhabit systems constructed to keep examples reproducible. A later generation can perform an action with no conscious knowledge of its origin because the training path, tools, vocabulary, and quality controls are already in place.
+
+The apparent miracle is not that a civilization remembers.
+
+The apparent miracle is that it can make remembering feel like starting from scratch.
+
+A student opens a blank page and believes the problem begins there.
+
+It rarely does.
