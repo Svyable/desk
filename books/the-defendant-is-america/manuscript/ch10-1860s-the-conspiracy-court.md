@@ -231,3 +231,57 @@ A legal system learns some lessons after the person who paid for them is gone.
 The 1860s leave us with a question that never becomes obsolete:
 
 How ordinary must justice remain when the crime feels like an attack on the country itself?
+
+## The same conspiracy, a different courtroom
+
+John Surratt gives the chapter a comparison the government of 1865 could not know it would eventually provide.
+
+He escaped the initial manhunt, left the United States, and was captured later. By the time federal authorities put him on trial in 1867, the war had receded another two years and the government used an ordinary civilian court in Washington.
+
+That procedural choice created something close to a natural contrast, though never a controlled one.
+
+The evidence was not identical. The defendant was different. Witness memories had changed. Political conditions had changed. The legal questions were not replicas. Still, the country prosecuted a man alleged to have been deeply connected to Booth's conspiracy through the civilian system the administration had considered inadequate or inappropriate for his mother and the other 1865 defendants.
+
+The civilian jury did not convict him.
+
+It hung.
+
+That outcome does not prove a military commission would have convicted an innocent John Surratt or that a civilian jury would certainly have acquitted Mary Surratt. History cannot rerun the cases with the defendants swapped.
+
+The contrast establishes something more limited and more important: ordinary criminal process did not make prosecution impossible.
+
+The government could put assassination-conspiracy evidence before a civilian jury.
+
+The jury could hear it, deliberate, disagree, and fail to produce the finality prosecutors wanted.
+
+That last possibility is precisely what emergency forums are often designed, consciously or not, to reduce.
+
+A hung jury is frustrating. It expends time and money without resolving guilt. It may require another trial. It can look like institutional weakness when the public believes a dangerous person has escaped judgment.
+
+It is also evidence that disagreement has somewhere to go.
+
+A system that treats disagreement as a defect will naturally prefer decision rules that make disagreement easier to overcome.
+
+A system that treats uncertainty as a legitimate limit on punishment has to tolerate the possibility that no verdict emerges.
+
+The Surratt comparison therefore shifts the question from “which forum gets the right answer?” to “which forms of unresolved doubt is the government willing to live with?”
+
+In 1865, the answer was not much.
+
+The president had been murdered. The nation had just survived rebellion. Officials wanted a complete explanatory structure: Booth, the attack on Seward, the planned attack on Johnson, Confederate connections, facilitators, safe houses, weapons, messengers. Conspiracy law and a military commission offered a way to assemble those pieces into one adjudicative narrative.
+
+A civilian jury in 1867 demonstrated the price of a different architecture.
+
+Twelve citizens could refuse to become one mind.
+
+That refusal did not vindicate the defendant in history.
+
+It limited what the state could do next on the basis of that trial.
+
+There is an institutional humility inside the hung jury that is easy to miss. The state says it may punish only after a specified form of agreement. If the agreement does not arrive, government power pauses rather than simply changing the threshold until it gets the answer it wants.
+
+Military commissions can contain their own protections and voting rules. The relevant point is not that soldiers cannot judge fairly. It is that choosing the forum changes the architecture of doubt.
+
+That was true in 1865.
+
+It remains true whenever government decides that an extraordinary defendant belongs in an extraordinary court.
