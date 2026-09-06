@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 5 of 25 drafted |
+| **Chapters** | 10 of 25 drafted |
 
 Twenty-five decades. Twenty-five scams. One country built on the dangerous and productive idea that strangers can trust one another.
 
@@ -34,11 +34,11 @@ The chronology uses America’s 250 years literally. Rather than switching to ca
 
 ### Part II — Spectacle
 
-- [ ] Ch 6 — There Are Men on the Moon — 1826–1835 · the Great Moon Hoax
-- [ ] Ch 7 — The Mermaid Upstairs — 1836–1845 · P. T. Barnum and the Feejee Mermaid
-- [ ] Ch 8 — Have You Confidence in Me? — 1846–1855 · William Thompson and the birth of the “confidence man”
-- [ ] Ch 9 — Shoddy — 1856–1865 · Civil War procurement fraud
-- [ ] Ch 10 — The Railroad Built Itself Twice — 1866–1875 · Crédit Mobilier
+- [x] [Ch 6 — There Are Men on the Moon](manuscript/ch06-there-are-men-on-the-moon.md) — 1826–1835 · the Great Moon Hoax
+- [x] [Ch 7 — The Mermaid Upstairs](manuscript/ch07-the-mermaid-upstairs.md) — 1836–1845 · P. T. Barnum and the Feejee Mermaid
+- [x] [Ch 8 — Have You Confidence in Me?](manuscript/ch08-have-you-confidence-in-me.md) — 1846–1855 · William Thompson and the birth of the “confidence man”
+- [x] [Ch 9 — Shoddy](manuscript/ch09-shoddy.md) — 1856–1865 · Civil War procurement fraud
+- [x] [Ch 10 — The Railroad Built Itself Twice](manuscript/ch10-the-railroad-built-itself-twice.md) — 1866–1875 · Crédit Mobilier
 
 ### Part III — Scale
 
@@ -68,6 +68,6 @@ The chronology uses America’s 250 years literally. Rather than switching to ca
 
 ## Research
 
-The thesis test, decade-selection rules, falsification conditions, chapter evidence map, runners-up, and source ledger live in [research/](research/README.md). The current opening act is sourced primarily to the Library of Congress, Founders Online, Smithsonian’s National Museum of American History, Federal Reserve historical material, the Federal Deposit Insurance Corporation’s banking-history project, the Museum of the City of New York, and the New Georgia Encyclopedia’s documented account of the Yazoo scandal.
+The thesis test, decade-selection rules, falsification conditions, chapter evidence map, runners-up, and source ledger live in [research/](research/README.md). The first ten chapters are now grounded in institutional and primary-source material including the Library of Congress, Founders Online, Smithsonian, Federal Reserve historical material, the Federal Deposit Insurance Corporation, the Museum of the City of New York, the New Georgia Encyclopedia, the National Archives, the U.S. House Historian, Barnum’s surviving correspondence and autobiography, and scholarship on the emergence of the “confidence man.”
 
 The later chapter slate is an editorial working architecture, not a license to write ahead of the record. Each candidate must survive a primary-source or high-quality institutional close read before its chapter is drafted. If a candidate turns out to be less deceptive, less consequential, or less representative of its trust system than a runner-up, the book changes candidates rather than forcing the evidence to fit the outline.
