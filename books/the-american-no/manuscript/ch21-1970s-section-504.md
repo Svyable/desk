@@ -1,4 +1,4 @@
-# 1970s: Section 504 — We Will Not Leave
+# Chapter 21 — 1970s: Section 504 — We Will Not Leave
 
 By April 1977, people with disabilities had spent years waiting for the federal government to finish a sentence Congress had already written.
 
@@ -24,15 +24,15 @@ San Francisco did not.
 
 There, demonstrators occupied the regional offices of HEW and stayed.
 
-The occupation would last nearly a month.
+The occupation would last twenty-five days.
 
-That fact alone can flatten the story into a record: the longest occupation of a federal building in United States history up to that point, or one of the longest, depending on how the category is defined.
+That fact alone can flatten the story into a record: one of the longest occupations of a federal building in American history.
 
 The more important fact is what the occupiers made visible.
 
 They showed that disability rights was not a request for benevolence.
 
-It was a demand for civil rights enforcement.
+It was a demand for civil-rights enforcement.
 
 The coalition inside the building included people with many kinds of disabilities and many kinds of political experience. Some used wheelchairs. Some were blind. Some were deaf. Some had developmental or psychiatric disabilities. Some had been shaped by the independent-living movement emerging in the Bay Area, particularly around Berkeley. Some were experienced organizers. Others were not.
 
@@ -66,13 +66,25 @@ The practical difficulty of occupying a federal office made the argument unavoid
 
 A broader network helped keep it alive.
 
-Community organizations, labor allies, churches, and political groups provided support. The Black Panther Party supplied meals during the occupation, a detail that reveals how disability activism intersected with the wider coalition politics of the Bay Area. Supporters helped with logistics and public pressure. Members of Congress and local politicians became involved. News coverage carried the confrontation beyond the building.
+Community organizations, labor allies, churches, and political groups provided support. The Black Panther Party supplied meals during the occupation, a detail that matters for more than movement trivia. The Panthers' food support linked a disability-rights occupation to a Black radical organization whose own community programs had treated food, health, education, and survival as political infrastructure. The alliance did not mean every participant shared the Panthers' ideology. It meant a coalition could form around the material requirement that people inside a federal building had to eat if their protest was going to continue.
+
+That is what solidarity often looks like before it becomes a photograph in a history book.
+
+Not agreement on everything.
+
+A delivery schedule.
+
+The occupation also exposed a prejudice hidden inside conventional ideas about political action. Protest mythology prefers bodies that can march all day, sleep anywhere, climb stairs, endure arrest without medication, hear a megaphone, read a leaflet, and survive a building not designed for them. The 504 protesters could not pretend those assumptions were neutral because their own coalition would fracture if care and access were treated as secondary logistics.
+
+They had to build the political community they were demanding.
+
+Interpreting, attendant care, medication, food, communication, rest, and assistance were not services added after the politics. They were part of the politics.
+
+That made the occupation a demonstration in two senses. It protested the government's delay, and it demonstrated that collective dependence was compatible with self-government.
 
 The occupiers were not simply waiting for Washington.
 
 They were changing Washington's cost of delay.
-
-This is the central mechanism of protest.
 
 Officials can postpone an administrative decision when postponement is quiet. Delay can be described as review, consultation, drafting, caution, or technical work.
 
@@ -84,7 +96,7 @@ Every meal delivered to protesters says they are still there.
 
 Every press conference forces the government to explain why it has not acted.
 
-Every photograph turns a regulation into a moral question.
+Every photograph turns a regulation into a public question.
 
 The protesters understood the asymmetry.
 
@@ -110,9 +122,23 @@ Program eligibility mattered.
 
 Rules that looked neutral on paper could still exclude disabled people in practice.
 
+That move from formal equality to operational access is where the law became expensive, and therefore where resistance became predictable.
+
+It is easy to endorse a principle that says a disabled student should not be discriminated against.
+
+It is harder when the principle becomes a ramp, an elevator, an interpreter, a modified testing procedure, accessible transportation, a change in staffing, an altered program rule, or a renovation budget.
+
+The institution's objection may not be hatred.
+
+It may be cost.
+
+That does not make the objection imaginary. Resources are finite. Buildings are old. Some requested modifications can change a program substantially. Administrators have to decide what is feasible.
+
+Disability law's importance is partly that it makes those tradeoffs visible as legal questions rather than allowing exclusion to masquerade as the natural state of the world.
+
 The concept of reasonable accommodation, developed through disability law and policy, pushed institutions toward a different question. Instead of asking only whether a person could fit an existing system, institutions increasingly had to ask whether the system could be modified without fundamentally altering the program or imposing undue burdens.
 
-That is a profound redistribution of responsibility.
+That is a redistribution of responsibility.
 
 Before disability-rights law, many barriers were socially invisible because the person confronting them was expected to adapt, depend on family, accept segregation, or stay away.
 
@@ -161,6 +187,16 @@ Before: private hardship.
 After: public obligation.
 
 The 504 movement helped move disability across those boundaries.
+
+That movement was broader than the occupation. The independent-living movement had been challenging institutionalization and paternalistic control. Disabled veterans, students, blind activists, Deaf organizers, wheelchair users, parents, lawyers, and policy advocates came through different political traditions. Their interests did not always align neatly. A blind person confronting access to printed information and a wheelchair user confronting architecture encountered different barriers. A person living in an institution faced different stakes from someone fighting for workplace accommodation.
+
+Section 504 offered a common legal grammar without erasing those differences.
+
+That is one reason the civil-rights frame was so powerful.
+
+It did not require every disability to be the same.
+
+It required the government to recognize exclusion as something institutions could create.
 
 The later Americans with Disabilities Act of 1990 would extend the framework much further. The ADA addressed employment, state and local government, public accommodations, transportation, telecommunications, and other domains beyond the narrower federal-funding hook of Section 504.
 
@@ -218,22 +254,54 @@ A person can need an interpreter and still speak for herself.
 
 A person can need an attendant and still organize a federal occupation.
 
-The 1970s contained many louder American refusals: antiwar protest, tax revolt, prison uprisings, environmental fights, labor conflict, feminist organizing, gay liberation, battles over busing and school desegregation, the aftermath of Watergate.
+The 1970s contained many louder American refusals: the last great surges of Vietnam-era antiwar protest, prison uprisings and prison-rights organizing, environmental fights, labor conflict, feminist organizing, gay liberation, battles over busing and school desegregation, Native sovereignty campaigns, tax revolt, and the political aftershocks of Watergate.
 
-Section 504 is easier to miss because the immediate demand was administrative.
+The antiwar movement has the strongest scale claim. Gay liberation has a powerful claim for cultural and identity consequence. The occupation at Wounded Knee in 1973 has a powerful claim around Indigenous sovereignty and federal power. The decade does not lack candidates.
+
+Section 504 wins under this book's test because the protest made a durable administrative bridge between civil-rights principle and the ordinary design of institutions. It changed the place where discrimination could be found.
+
+Not only in an insult.
+
+Not only in explicit exclusion.
+
+In the staircase.
+
+In the form.
+
+In the bus.
+
+In the testing rule.
+
+In the absence of an interpreter.
+
+In the assumption that a citizen would simply not arrive.
+
+That is an unusually deep institutional afterlife for a protest whose immediate demand sounded almost clerical.
 
 Sign the regulations.
 
-But that narrow demand carried a larger refusal.
+The narrowness of the demand was part of its strength. Activists did not need the secretary to endorse an entire theory of disability. They needed him to put the government's authority behind a rule Congress had already enacted.
 
-Disabled Americans were refusing to accept the role assigned to them by buildings, bureaucracies, schools, hospitals, transit systems, and public language.
+The counterfactual is therefore revealing.
 
-They were refusing the idea that exclusion was natural simply because it had been designed into ordinary life.
+Would disability rights have advanced without the San Francisco occupation?
 
-They were refusing to wait politely for rights Congress had already enacted.
+Yes. The statutory language existed. The independent-living movement existed. Lawyers and advocates were already building doctrine. The Carter administration was not going to erase disability policy from history.
+
+But delay is itself a policy.
+
+Every year a regulation remains unsigned is another year in which schools, hospitals, universities, and other federally funded institutions can argue that their obligations remain uncertain. The occupation compressed time.
+
+That is a form of victory protest histories often miss because there is no new statute to point to.
+
+The law was already on the books.
+
+The protesters made the government turn it on.
 
 The American no is not always a crowd in a street.
 
 Sometimes it is a group of people entering an office and deciding not to leave.
 
 In April 1977, that refusal made a few pages of federal regulation into part of the country's civil-rights architecture.
+
+More importantly, it changed the citizen imagined by the architecture itself.
