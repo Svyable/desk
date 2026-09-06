@@ -4,326 +4,128 @@ In February 2025, the Democratic Republic of the Congo did something commodity p
 
 It stopped exports.
 
-The suspension was temporary. The government said it wanted to address oversupply and low prices in the cobalt market. The immediate logic was simple enough: the country produced most of the world's mined cobalt, yet the price of the metal had fallen so far that the value of that dominance felt strangely small.
+The suspension was temporary. The government said it wanted to address oversupply and low prices in the cobalt market. The logic was hard to miss: the DRC produced most of the world's mined cobalt, yet prices had fallen so far that the value of that dominance felt strangely small.
 
 If concentration is power, why did the dominant producer feel powerless?
 
-The answer is the central problem of cobalt.
+Because geology is only one layer of the chain.
 
-The Democratic Republic of the Congo controls geology.
-
-It does not control the entire chain built on top of it.
-
-For years, the country has supplied roughly three quarters of global mined cobalt. The U.S. Geological Survey estimated the DRC at about 75 percent of world production in 2024. China, meanwhile, built the processing, ownership, financing, trading, and battery relationships that determine where much of that cobalt goes next.
-
-By 2024, USGS reporting on China's mineral industry noted that Chinese companies operated or funded fifteen of nineteen existing cobalt mines in the DRC.
-
-That is an extraordinary sentence.
-
-It is also easy to misunderstand.
+For years, the DRC has supplied roughly three quarters of global mined cobalt. The U.S. Geological Survey estimated its share at about 75 percent in 2024. China, meanwhile, built much of the ownership, processing, financing, trading, cathode, battery, and manufacturing network that determines where cobalt goes next. USGS reporting on China's mineral industry noted that Chinese companies operated or funded fifteen of nineteen existing cobalt mines in the DRC by 2024.
 
 The mines are in Congo.
 
 The leverage is distributed.
 
-Some sits with the Congolese state, which controls permits, taxes, export policy, and the legal framework around the resource. Some sits with mine operators. Some sits with Chinese refiners and battery manufacturers. Some sits with traders who can move inventory across time. Some sits with automakers that can redesign chemistry. Some sits with consumers who have no idea cobalt is inside the devices they buy.
+The Congolese state controls permits, taxes, export policy, and the legal framework around the resource. Mine operators control production decisions. Refiners and battery makers control downstream conversion. Traders can move inventory through time. Automakers can change chemistry.
 
-The supply chain is concentrated without being singular.
+That last option matters because cobalt is usually not mined on its own terms. Much of it arrives as a by-product of copper or nickel production. In the Congolese Copperbelt, a mine can remain highly attractive because of copper even when cobalt prices are weak.
 
-That makes it powerful and brittle at once.
-
-Cobalt usually does not arrive from a mine built only for cobalt.
-
-Much of it is produced as a by-product of copper or nickel mining. In the Congolese Copperbelt, cobalt is commonly recovered alongside copper. That means a cobalt price signal does not always produce the response a simple supply curve would predict. A mine may keep operating because copper economics are attractive even when cobalt is oversupplied. The operator can change how much cobalt it processes, stores, or sells, but the geology ties the two markets together.
-
-The DRC's 2025 export suspension made that relationship visible.
-
-CMOC, the Chinese mining group that operates Tenke Fungurume and Kisanfu, kept producing while exports were restricted. Glencore did the same at Katanga and Mutanda. Material could accumulate inside the country even while the world market received less of it.
+The DRC's 2025 export suspension exposed that structure. CMOC kept producing at Tenke Fungurume and Kisanfu while exports were restricted. Glencore did the same at Katanga and Mutanda. Material could accumulate inside the country while the world market received less of it.
 
 Production and export became separate variables.
 
-By late 2025, the DRC replaced the blanket suspension with a quota system. Glencore's 2025 production report described cobalt inventories being held in-country and said the company expected to prioritize copper production while quotas remained in effect. The restriction changed the economics of a by-product without closing the copper mines that created it.
+By late 2025, the DRC replaced the blanket suspension with a quota system. Glencore described cobalt inventories being held in-country and said it expected to prioritize copper production while quotas remained in place. The state was restricting the by-product without closing the mines that created it.
 
-That is a more sophisticated form of market power than simply turning off a mine.
+That can support prices. It can also provoke a response.
 
-It is also harder to sustain.
+Restrict exports too little and the market may barely notice. Restrict them too much and customers accelerate substitution, recycling, inventory management, and alternative supply. A producer exercising leverage is negotiating with the future demand it may destroy.
 
-Restrict exports too little and the price effect may disappoint.
+The DRC has strong reason to test that boundary. Its enormous resource position has never translated cleanly into broad prosperity.
 
-Restrict them too much and customers accelerate substitution, inventory management, recycling, or alternative supply.
+That fact is often turned into a familiar morality play: a photograph of a child near a mine, a corporate responsible-sourcing promise, a distant consumer asked to feel implicated, then the story moves on.
 
-A producer trying to exercise leverage is always negotiating with the future demand it may destroy.
+The facts deserve more care.
 
-The DRC has additional reason to test that boundary because the scale of its resource position has never translated cleanly into broad prosperity.
+Child labor in Congolese mining is real. The U.S. Department of Labor's 2024 findings on the worst forms of child labor say children perform dangerous tasks in cobalt and copper mining, including carrying heavy loads, digging, sifting, sorting, transporting, washing, and underground work. The report also describes serious enforcement gaps and continued vulnerability among poor and conflict-affected families.
 
-Cobalt is one of the most valuable ingredients in the modern battery story, but many Congolese communities near the source remain poor. Roads can be inadequate. Public services can be weak. Informal mining provides cash income in places where formal employment is scarce. Large industrial mines operate beside artisanal and small-scale mining networks that can involve traders, cooperatives, families, local authorities, and workers digging under conditions that bear little resemblance to the polished battery factories downstream.
+The International Labour Organization has continued cobalt-specific monitoring and remediation programs because the problem has not been solved. Its GALAB project, launched in 2024 with U.S. Department of Labor funding, focuses on due diligence, monitoring, remediation, and private-sector accountability. In 2026, the ILO and the Responsible Minerals Initiative announced another partnership aimed at strengthening child-labor prevention and remediation.
 
-This is where the cobalt story is usually flattened into a morality play.
+Those efforts are evidence of work, not evidence of completion.
 
-A photograph of a child near a mine appears.
+The artisanal sector is difficult precisely because it is not one thing. Some miners work in designated sites or cooperatives. Others work informally on industrial concessions. Material can move through traders before entering larger processing channels. Formal and informal supply can touch each other in ways that make chain-of-custody systems hard to enforce.
 
-A Western company promises responsible sourcing.
+The easiest procurement response is exclusion: buy only from large industrial mines and draw a clean boundary around artisanal material.
 
-A consumer is asked to feel implicated.
+That can reduce one risk while worsening another.
 
-Then the story moves on.
-
-The facts deserve more care than that.
-
-Child labor in Congolese mining is real.
-
-The U.S. Department of Labor's 2024 findings on the worst forms of child labor state that children in the DRC perform dangerous tasks in cobalt and copper mining, including carrying heavy loads, digging, sifting, sorting, transporting, washing, and working underground. The report also describes serious enforcement gaps, inadequate resources, and continued vulnerability among children in poor and conflict-affected communities.
-
-The International Labour Organization has continued cobalt-specific programs because the problem has not been solved. Its GALAB project, launched in 2024 with U.S. Department of Labor funding, focuses on monitoring, remediation, due diligence, and private-sector accountability in artisanal cobalt mining. In 2026, the ILO and the Responsible Minerals Initiative announced another partnership aimed at strengthening child-labor prevention and remediation in mineral supply chains.
-
-These efforts matter for two reasons.
-
-First, they show that responsible sourcing is not imaginary. Governments, companies, unions, international organizations, and local institutions have built systems to identify abuses and improve conditions.
-
-Second, the fact that those systems are still being expanded shows that certification language should not be confused with completion.
-
-A due-diligence program is evidence of effort.
-
-It is not evidence that every bag of ore is clean.
-
-The artisanal sector is especially difficult because it is not one thing.
-
-Some miners work in designated sites or cooperatives. Others work informally on concessions held by industrial companies. Some wash or sort ore. Others descend into hand-dug pits. Material can pass through traders before entering larger processing channels. Formal and informal supply can touch each other in ways that make chain-of-custody systems difficult to enforce.
-
-The easiest corporate response is exclusion.
-
-Buy only from large industrial mines.
-
-Ban artisanal material.
-
-Create a clean boundary.
-
-That can reduce one kind of risk while worsening another.
-
-Artisanal and small-scale mining is an important source of income for many Congolese households. If responsible-sourcing rules simply push those miners out of formal markets, the work does not necessarily disappear. It can move into less visible channels, where prices are worse and oversight is weaker.
+Artisanal and small-scale mining is an important source of income for many Congolese households. If formal buyers simply walk away, the work does not necessarily disappear. It can move into less visible channels with weaker oversight and worse prices.
 
 A supply chain can become cleaner on paper by making the people at the bottom harder to see.
 
-That is not the same as improving their lives.
+The more difficult goal is formalization: legal sites, safer practices, traceable purchases, child-labor monitoring, fairer access to buyers, and alternatives for families whose children work because household income is insufficient.
 
-The difficult goal is formalization: legal sites, safer practices, traceable purchases, fairer market access, child-labor monitoring, and alternatives for families whose children work because household income is insufficient.
+Formalization sounds administrative. In practice, it means deciding who gets access to ore, land, licenses, buyers, and protection.
 
-Formalization sounds administrative.
+Those are questions of power too.
 
-In practice, it means deciding who gets access to ore, land, licenses, buyers, and protection.
+The artisanal image can also obscure where most cobalt volume increasingly comes from: large mechanized operations.
 
-Those are questions of power.
+Tenke Fungurume in Lualaba Province produces copper and cobalt on a scale that looks nothing like a hand-dug pit. CMOC holds an 80 percent interest. Nearby Kisanfu adds another major source. In 2025, CMOC reported about 117,500 tonnes of cobalt production across its operations. Glencore's Katanga and Mutanda operations add another large block.
 
-The distinction between artisanal and industrial cobalt also matters because the largest volumes increasingly come from giant mechanized operations.
+The market is concentrated by country and, within that country, by company.
 
-Tenke Fungurume is one of them.
+That concentration grew through transactions that looked more commercial than geopolitical when they happened. CMOC's 2016 purchase of a controlling stake in Tenke Fungurume from Freeport-McMoRan became emblematic because it transferred one of the world's most important cobalt-copper assets into a Chinese mining group while China's battery industry was scaling rapidly.
 
-The mine sits in Lualaba Province in the southern DRC and produces copper and cobalt on a scale that makes the artisanal image an incomplete picture of Congolese mining. CMOC holds an 80 percent interest. Its nearby Kisanfu operation adds another large source. In 2025, CMOC reported total cobalt production of about 117,500 tonnes across its operations, a volume large enough by itself to rival the output of many countries' entire mining sectors.
+Retrospect can make every acquisition look like part of a master plan. It was not. Companies sell assets because they need cash, reduce debt, change strategy, or prefer other projects. Chinese mining companies compete with one another and make bad investments too. Congolese officials bargain over taxes, royalties, and ownership rather than merely receiving outside decisions.
 
-Glencore's Katanga and Mutanda operations add another major block of industrial supply.
+But repeated commercial decisions can still produce a strategic outcome.
 
-The cobalt market is therefore concentrated twice.
+Once miners, traders, refiners, cathode makers, cell manufacturers, and automakers are connected by contracts, logistics, and operating experience, a rival cannot recreate the network by opening one mine.
 
-First by country.
+The mine is the beginning. The network is the advantage.
 
-Then by company.
+Congo has spent years trying to capture more of that advantage at home. The government has renegotiated mining agreements, pressed companies over tax and royalty disputes, sought more domestic processing, and used export policy to influence prices.
 
-That concentration grew through a series of transactions that mattered more geopolitically than they appeared to at the time.
+Outside the country these moves are often filed under resource nationalism. The label can conceal the obvious question: what would a rational producer state do if it supplied most of a strategically important mineral and remained poor?
 
-Western mining groups once held some of the most important Congolese assets. Chinese firms bought, financed, or expanded them while China's battery industry was becoming the manufacturing center of the electric-vehicle supply chain.
+The harder question is whether the available instruments actually improve the bargain.
 
-CMOC's purchase of a controlling stake in Tenke Fungurume from Freeport-McMoRan in 2016 became one of the emblematic deals. What looked like an asset sale by one mining company became, in retrospect, part of a wider transfer of strategic position.
+An export restriction can lift prices and reduce near-term foreign-exchange earnings. A quota can create scarcity and encourage customers to redesign away from the mineral. Higher taxes can raise public revenue and deter investment if badly structured. A local-processing mandate can create industry or strand an expensive plant without reliable power and infrastructure.
 
-Retrospect can make every acquisition look planned.
+State leverage is real. So are implementation constraints.
 
-It was not.
+Cobalt's 2025–2026 price move showed both sides. The IEA reported that prices rose roughly 130 percent after the DRC restricted exports. A policy decision in Kinshasa changed the global market.
 
-Companies sell assets because they need cash, want to reduce debt, change strategy, or prefer other projects. Buyers act for commercial reasons as well as national ones. Chinese mining companies compete with one another and can make bad investments. Congolese officials bargain over taxes, royalties, and ownership rather than simply accepting outside control.
+At the same time, cobalt demand growth had already moderated relative to older expectations because lithium iron phosphate batteries expanded rapidly.
 
-Still, repeated commercial decisions can create a strategic outcome even when no single decision was made for grand strategic reasons.
+That is the consumer's answer to producer leverage: use less cobalt.
 
-That is how supply chains become difficult to unwind.
+LFP batteries do not use nickel or cobalt in the cathode. They have become attractive in lower-cost electric vehicles, buses, and stationary storage. Nickel-manganese-cobalt chemistries still matter where energy density, weight, or performance favor them. Consumer electronics, aerospace, and superalloys create additional demand. The IEA's 2026 outlook still expects meaningful cobalt consumption and actually projects a wider potential supply gap after the DRC quota reduced expected available output.
 
-Once Chinese-owned miners, traders, refiners, cathode makers, cell manufacturers, and automakers are linked by contracts and logistics, a rival cannot create an equivalent network by opening one mine.
-
-The mine is the beginning.
-
-The network is the advantage.
-
-Congo has tried to capture more of that advantage at home.
-
-The government has renegotiated mining agreements, pressed companies over royalty and tax disputes, sought more domestic processing, and used export policy to influence cobalt prices. These moves are often described outside the country as resource nationalism.
-
-That phrase can be accurate and still conceal the obvious question.
-
-What would a rational producer country do if it supplied most of a strategically important mineral and remained poor?
-
-Accept the existing bargain forever?
-
-The harder question is whether the instruments available actually improve the bargain.
-
-An export ban can raise prices, but it can also reduce immediate foreign-exchange earnings.
-
-A quota can create scarcity, but it can also encourage customers to redesign away from the mineral.
-
-Higher taxes can increase public revenue, but poorly designed fiscal terms can deter investment.
-
-Mandating local processing can create industry, or create an expensive plant without reliable power and infrastructure.
-
-State leverage is real.
-
-So are implementation constraints.
-
-Cobalt's 2025 price move demonstrated both sides.
-
-The IEA reported that cobalt prices rose sharply after the DRC restricted exports, by roughly 130 percent into early 2026. A policy decision in Kinshasa changed the global market.
-
-The same IEA outlook also noted that cobalt demand growth has moderated relative to older expectations because lithium iron phosphate batteries have expanded so quickly.
-
-This is the consumer's answer to producer leverage.
-
-Use less cobalt.
-
-LFP batteries do not use nickel or cobalt in the cathode. For lower-cost electric vehicles, buses, and stationary storage, their economics have become increasingly attractive. Chinese battery makers pushed LFP into mass production, and automakers elsewhere followed.
-
-For years, cobalt was described as indispensable to the electric-vehicle future.
-
-Then engineers changed the future.
-
-Not completely.
-
-Nickel-manganese-cobalt chemistries still matter, especially where energy density, weight, or performance requirements favor them. Consumer electronics still use cobalt-bearing chemistries. Aerospace and superalloy applications create non-battery demand. The IEA still expects meaningful cobalt consumption growth, and its 2026 outlook actually projects a wider potential supply gap after the DRC's quota policy reduced expected available output.
-
-But the chemistry shift breaks the simplest scarcity narrative.
+But the chemistry shift breaks the simplest version of mineral power.
 
 Demand is not fixed.
 
-Neither is intensity.
+A country can dominate today's supply and discover that customers are designing tomorrow's product around that dominance.
 
-A country can dominate today's supply and discover that the market is designing tomorrow's product around that dominance.
+The more painful a chokepoint becomes, the more valuable it becomes to engineer around it. That does not make substitution free or immediate. LFP brings different performance and material tradeoffs. Sodium-ion and other chemistries have their own constraints. Qualification and manufacturing scale take time.
 
-This is one of the recurring limits on mineral power.
-
-Oil is burned for energy and has substitutes that often require rebuilding entire systems.
-
-Battery minerals sit inside engineered products whose recipes can change much faster.
-
-A cathode can be redesigned before a new mine is permitted.
-
-That does not make substitution free. LFP trades some energy-density advantages for lower cost and different material needs. Sodium-ion batteries may reduce pressure on lithium and cobalt in some uses but bring their own engineering constraints. High-manganese or cobalt-reduced chemistries still require manufacturing scale and qualification.
-
-Yet the direction is clear enough.
-
-The more painful a chokepoint becomes, the more valuable it is to engineer around it.
-
-Cobalt producers know this.
-
-So do refiners.
-
-So do automakers.
-
-That is why the DRC's export policy has to be judged over years rather than weeks. A higher cobalt price can improve national income today and accelerate cobalt thrift tomorrow. A lower price can weaken producers today and make cobalt-rich chemistries more attractive tomorrow.
+Still, the DRC's export policy has to be judged over years rather than weeks. A higher cobalt price can improve producer income now while accelerating cobalt thrift later. A lower price can weaken producers now while making cobalt-rich chemistries more attractive.
 
 There is no stable victory condition.
 
-The ethical side of the market has the same problem.
+The same is true of responsible sourcing. Traceability, certification, monitoring, and remediation can improve conditions. They can also create incentives to manufacture paperwork, mix ore, or hide the parts of the chain that do not meet the standard.
 
-Companies want traceability because consumers, regulators, and investors increasingly demand it. Large industrial mines can provide more controlled supply than informal sites. Certification can reward better practice. Monitoring can identify children and connect them with remediation services.
+That does not make due diligence pointless. It means due diligence is a process rather than a property a bag of ore acquires after a form is signed.
 
-But the more the formal market pays for proof, the more valuable it becomes to manufacture proof.
+Cobalt concentrates several contradictions in one element. It is mined in a country with immense mineral wealth and persistent poverty. It supports technologies marketed as cleaner while carrying a history of dangerous labor and environmental harm. It gives the Congolese state extraordinary mine share while foreign firms control large parts of production and downstream processing. It can be strategic enough to move diplomacy and substitutable enough to change battery chemistry.
 
-Documents can be falsified.
+The useful question is not whether cobalt is good or bad.
 
-Ore can be mixed.
+It is who can move the costs.
 
-Audits can miss what happens between visits.
+Automakers can move chemistry. Mining companies can move capital. Traders can move inventory. Governments can move export rules. Families living near artisanal sites have fewer things they can move.
 
-A clean procurement policy can create incentives to hide the messy part of the chain rather than fix it.
+That asymmetry is the ethical center of the cobalt story.
 
-This does not make due diligence pointless.
-
-It makes due diligence work.
-
-The phrase responsible sourcing often sounds as though responsibility is a property the mineral acquires once a form has been completed.
-
-It is better understood as a process of repeatedly asking where the material came from, who handled it, what incentives they faced, and what happened to people who could not meet the formal standard.
-
-That is slower and less comforting.
-
-It is also more honest.
-
-Congo's cobalt has become a symbol because so many contradictions sit inside one element.
-
-It is mined in a country with immense mineral wealth and persistent poverty.
-
-It supports technologies marketed as cleaner while carrying a history of dangerous labor and environmental damage.
-
-It gives the Congolese state extraordinary market share while foreign firms control large parts of production and processing.
-
-It can be strategic enough for governments to fight over and substitutable enough for chemists to reduce its importance.
-
-It can support artisanal livelihoods and expose artisanal workers to grave risks.
-
-It can be produced in industrial mines with formal safety systems and still sit inside a national political economy where communities argue that too little value stays local.
-
-Any book that turns those contradictions into a simple villain has stopped doing analysis.
-
-The relevant question is not whether cobalt is bad.
-
-It is who has the ability to move the costs.
-
-Automakers can move chemistry.
-
-Mining companies can move capital.
-
-Traders can move inventory.
-
-Governments can move export rules.
-
-Families living near artisanal sites have fewer things they can move.
-
-That asymmetry is the real ethical chokepoint.
-
-A supply chain becomes resilient when it has alternatives.
-
-People become vulnerable when they do not.
-
-The DRC's effort to gain more control over cobalt is, at its core, an attempt to create alternatives for a producer country that has too often been treated as the place where the ore comes from and the bargaining ends.
-
-Whether export quotas can accomplish that is uncertain.
-
-Whether Chinese ownership is inherently exploitative is too simple a question. Chinese companies have invested billions of dollars, expanded production, built infrastructure, and in some cases pursued external mining certifications. Western companies have their own long record of extracting African resources under unequal conditions. Congolese political institutions are not passive victims; they make choices, negotiate contracts, and bear responsibility for how public revenue is used.
-
-The moral geometry is crowded.
-
-That is exactly why cobalt deserves a chapter rather than a slogan.
-
-The market's next experiment is already underway.
-
-The DRC is using concentration to defend price.
-
-Battery makers are using chemistry to defend themselves from concentration.
-
-Mining companies are using scale to lower unit costs.
-
-Responsible-sourcing programs are trying to make informal supply visible without destroying the livelihoods attached to it.
+The DRC is trying to use geological concentration to improve its bargaining position. Battery makers are trying to reduce the leverage created by that concentration. Mining companies are using scale to lower unit costs. Responsible-sourcing programs are trying to make informal supply visible without destroying the livelihoods attached to it.
 
 Each side is reacting to the others.
 
-That is what a chokepoint does.
+Cobalt's importance may decline relative to the most breathless forecasts of the early electric-vehicle boom. That would not prove the chokepoint never mattered. It would show that the chokepoint mattered enough to change technology, policy, contracts, and investment.
 
-It does not freeze the system.
+The next metal shows a producer state taking a different route.
 
-It forces the system to move.
+Indonesia did not try to defend nickel's price by keeping processed metal off the market.
 
-Cobalt's importance may decline relative to the most breathless forecasts of the early electric-vehicle boom. That would not make the years of concentration irrelevant. It would show the opposite: the concentration mattered enough to change technology, policy, contracts, and investment.
-
-The strongest chokepoint is not always the one that remains forever.
-
-Sometimes it is the one expensive enough to make the world build a road around it.
-
-The next metal in this story shows how fast that road can be built when a government is willing to force the traffic in one direction.
-
-Indonesia looked at nickel ore leaving its shores and decided that exporting rock was not enough.
-
-Then it banned the exit.
+It looked at raw ore leaving its shores and decided the processing should move instead.
