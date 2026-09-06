@@ -110,6 +110,56 @@ Both are memory. Only one automatically exerts causal pressure.
 
 Cities contain both.
 
+A useful way to see the difference is to imagine removing knowledge while leaving structure intact.
+
+Suppose everyone living in a district forgot why a strange diagonal street cuts through an otherwise regular grid. The geometry would still redirect traffic. Parcel corners would still be unusual. Buildings would still meet the street at awkward angles. Utility runs and entrances might still follow the inherited alignment. Businesses would still respond to the foot traffic the geometry produces.
+
+The historical explanation could vanish from every mind while the historical effect remained in thousands of daily decisions.
+
+Now reverse the experiment. Preserve perfect historical knowledge but remove the operational trace. The diagonal disappears, parcels are replatted, utilities are rebuilt, and access patterns change. Residents may remember the old route intensely, but memory alone no longer channels movement in the same way.
+
+This distinction is why urban memory cannot be reduced to monuments, archives, or public consciousness.
+
+Some of a city's strongest memories are things nobody commemorates because they are still being used.
+
+A sewer alignment can outlive the engineering assumptions that selected it. A freight corridor can become a development boundary after freight disappears. A waterfront edge can be fixed by fill that later generations experience as natural land. A set of property dimensions can favor one building type until construction finance, code, and market expectation all learn the same geometry.
+
+The trace recruits complements because every new project wants to avoid paying to move the old one.
+
+This turns maintenance into a historical force.
+
+Cities spend enormous effort keeping yesterday functional. Roads are resurfaced. bridges are inspected. pipes are replaced along existing rights-of-way. electrical capacity is upgraded in places where networks already run. Transit vehicles are purchased to fit existing platforms, clearances, power systems, and maintenance facilities.
+
+Maintenance sounds conservative because it is.
+
+Its job is to preserve service.
+
+But every maintenance decision also renews part of the inherited path. Replacing a pipe in the same corridor is not merely keeping water flowing. It extends the life of the spatial choice that put the pipe there. Rebuilding a bridge can preserve a traffic pattern for another generation. Renovating a station can deepen the value of the network around it.
+
+The cost of history is paid in maintenance budgets.
+
+This is another reason urban path dependence can persist without anyone consciously defending the original plan. The alternative often requires not simply choosing differently but abandoning still-useful capital. A road may be badly placed for the future and still economically valuable today. A building may encode obsolete work patterns and still be expensive to replace. A low-density utility network may make denser redevelopment costly even if the new density would later support better service.
+
+The incumbent pattern can be wrong at the margin and rational in the aggregate because so much other value has adapted to it.
+
+This is the same increasing-returns logic that appears in institutions and technologies, but cities add mass, land, and legal durability.
+
+Concrete makes switching costs visible.
+
+Property law distributes them.
+
+Politics decides who pays.
+
+That last part matters because urban transition costs are not neutral. A project that produces a citywide benefit can impose concentrated loss on particular residents or businesses. A neighborhood that has already absorbed prior infrastructure burdens may distrust another plan promising future efficiency. An incumbent system may be environmentally or economically costly overall while providing predictability to people who cannot afford transition risk.
+
+A serious account of urban resonance cannot treat resistance as ignorance of the better equilibrium.
+
+People live in the transition.
+
+That is where policy becomes different from diagramming.
+
+If a new pattern is worth building, the question is not only what final map looks better. It is how to cross from one map to another without pretending the existing city's human commitments are empty space.
+
 Sometimes the marker is created because the operational trace is being erased. A factory becomes apartments and receives a plaque describing industrial history. The symbolic memory grows as the material memory shrinks. Other times the building remains and silently carries the old geometry into a new use.
 
 Preservation and recurrence are not the same.
