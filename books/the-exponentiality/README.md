@@ -3,8 +3,12 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Drafting |
-| **Chapters**  | 13 drafted (Prologue + Chapters 1–12) |
+| **Status**    | Complete draft · publication candidate |
+| **Chapters**  | Prologue + Chapters 1–12 + back matter |
+
+The complete draft follows what happens when rapidly improving intelligence collides with systems that do not move on the same curve. Its emphasis is not a single prediction date but the migration of bottlenecks: from cognitive production toward judgment, verification, trust, physical throughput, institutional absorption, legitimate authority, and adaptation time.
+
+The manuscript is structurally complete and has an explicit publication/falsification pass. It remains a Desk publication candidate until an explicit reviewed snapshot is promoted to Sven Hardy Benson’s Shelf.
 
 ## Contents
 
@@ -22,4 +26,8 @@
 - [x] [Chapter 10: The Human Premium](manuscript/ch10-the-human-premium.md)
 - [x] [Chapter 11: The Scarcity After Intelligence](manuscript/ch11-the-scarcity-after-intelligence.md)
 - [x] [Chapter 12: The Institutions That Cannot Exponentiate](manuscript/ch12-the-institutions-that-cannot-exponentiate.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Back Matter](manuscript/back-matter.md)
+
+## Publication pass
+
+- [Publication thesis, falsification boundaries, and release gate](research/publication-pass.md)
