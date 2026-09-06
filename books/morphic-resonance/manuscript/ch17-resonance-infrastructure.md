@@ -347,3 +347,109 @@ Before saying a pattern came from nowhere, inventory the roads, bodies, habits, 
 Then remove them where you can.
 
 If the pattern still comes back, the question has earned another chapter.
+
+There is a minimum causal anatomy beneath all of these examples that is useful precisely because it is not a grand theory.
+
+Something must carry a consequence of the earlier event.
+
+That consequence must survive long enough to meet the later system.
+
+And the surviving state must alter what happens next.
+
+These three requirements sound almost trivial. They are powerful because each can fail separately.
+
+A trace can be produced and decay before it matters. A trace can persist without influencing later behavior. An influence can occur without being specific to the earlier pattern. A road remains after traffic changes, but perhaps the road no longer determines where people go. A regulation remains on paper but is ignored in practice. A trained parameter persists while a later update overwhelms its effect.
+
+Persistence is not influence.
+
+Influence is not recurrence.
+
+Recurrence is not proof of one particular carrier.
+
+This is why a serious inventory of resonance infrastructure should include time.
+
+How quickly does the trace decay?
+
+How often is it refreshed?
+
+Does one exposure leave a weak residue while repeated exposures stabilize it?
+
+Can the state survive a generation, a staff turnover, a software migration, a market cycle, a period of disuse?
+
+The half-life metaphor is useful as long as nobody mistakes it for a claim that all social memories decay exponentially. The point is to stop treating memory as simply present or absent. Influence has duration.
+
+Duration often depends on reinforcement.
+
+A footpath grows over when nobody walks it. A procedure survives turnover when the form still requires it. A technical standard survives because new devices keep implementing it. A reputation persists because new stories repeat the old label. A recommender signal stays consequential because every round of exposure generates fresh interaction data.
+
+Some memories are durable because their original trace is hard to erase.
+
+Others are durable because the system keeps rewriting them.
+
+The distinction matters for intervention. Removing the old cause does little if current activity now reproduces the same state. A discriminatory rule can be repealed while property, wealth, expectations, and institutional routines continue carrying its consequences. A ranking feature can be removed while users already trained by years of exposure keep producing similar behavior.
+
+The carrier can migrate.
+
+History can hand itself from one mechanism to another.
+
+That makes causal archaeology more difficult and more realistic. Origins explain how a pattern began. Maintenance explains why it remains. The two explanations need not match.
+
+A platform may begin with a hand-designed category and later preserve it through learned user behavior. A neighborhood may begin with legal exclusion and later preserve some of the resulting pattern through prices and social networks. A scientific convention may begin as one laboratory's pragmatic choice and later survive because instruments, journals, and teaching are built around it.
+
+The pattern has changed vehicles without breaking continuity.
+
+This is one reason removing a single suspected channel can produce disappointing results. The system has redundancy not only across places but across time.
+
+A better intervention asks where reinforcement happens now.
+
+Which present process is paying for yesterday's pattern today?
+
+That question turns resonance infrastructure from description into diagnosis.
+
+It also suggests the inverse concept already glimpsed in the city chapter: anti-resonance infrastructure.
+
+A guardrail makes a previously common trajectory harder. A software linter makes an old coding error less likely. A medication interaction warning interrupts a familiar but dangerous sequence. A sunset clause forces a rule to justify continued existence. A randomized exploration policy gives low-history alternatives some exposure they would not receive under pure exploitation.
+
+These systems remember the past by refusing to reproduce it.
+
+The memory is carried forward as resistance.
+
+This is important because a simplistic theory of recurrence tends to assume that memory and repetition point in the same direction. Mature systems often use memory to create a negative feedback loop.
+
+An accident produces a safer design.
+
+A crisis produces a buffer.
+
+A bias audit changes a classifier.
+
+A failed experiment changes a protocol.
+
+The old pattern remains causally present because later systems have been redesigned not to resemble it.
+
+History can preserve itself as prohibition.
+
+That possibility gives us another test of explanation. If a system changes after failure and the failed pattern becomes less common, any general account in which mere repetition always strengthens future repetition is incomplete. A theory of natural habit would need room for inhibitory memory, interference, decay, and competing histories.
+
+Ordinary resonance infrastructure has all four.
+
+The world is not just a machine for remembering.
+
+It is a contest among memories with different carriers, lifetimes, reinforcements, and vetoes.
+
+Once we see that, the phrase “the past influences the present” becomes almost useless by itself. The valuable questions are narrower.
+
+Which past?
+
+Through what surviving state?
+
+For how long?
+
+Reinforced by what?
+
+Competing with which other memory?
+
+And what intervention changes the result?
+
+Those questions are demanding enough to make the ordinary world interesting.
+
+They are also the price of admission for anything extraordinary.
