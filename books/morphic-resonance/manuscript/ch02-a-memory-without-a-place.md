@@ -157,3 +157,51 @@ The world is full of memory without a single place where the memory sits.
 That is not the end of the mystery.
 
 It is where the mystery becomes difficult enough to deserve the name.
+
+There is one more complication, and it matters because distributed memory can fail in ways a single archive cannot.
+
+When a memory is spread across several supports, no support needs to contain the whole thing. That gives the system resilience. A person forgets a date but a calendar restores it. A novice does not know a manufacturing tolerance but a fixture enforces it. A crew member cannot reconstruct the history behind a checklist item, yet the item still changes behavior. The information required for successful action can be reconstructed from pieces that are individually incomplete.
+
+The same arrangement can also conceal where an error entered.
+
+Suppose an organization carries an incorrect customer category for years. The label appears in a database, shapes reports, influences staffing, guides sales training, and eventually becomes part of the vocabulary employees use to describe the market. A new employee may hear the category from several apparently independent sources: a dashboard, a manager, a training deck, and the behavior of colleagues. The agreement among those sources feels like corroboration. In fact they may all descend from one old classification decision.
+
+Distributed memory can manufacture independent-looking witnesses to itself.
+
+That possibility matters well beyond organizations. A factual error can migrate from one publication into databases and summaries, then return through search results that appear to represent several sources. A rumor can be copied into many accounts and later look widely attested. A measurement convention can become embedded in multiple instruments. A model can learn a pattern from duplicated material and then reproduce it with a confidence that reflects repetition in the training environment rather than independent confirmation in the world.
+
+The number of places a trace appears is therefore not always the number of times the underlying event happened.
+
+This is a subtle but important distinction for any investigation of recurrence. What looks like many memories may be one memory with many descendants.
+
+The reverse is possible too. A pattern can survive even after every obvious record disappears because enough of its consequences remain coupled. Imagine a footpath no longer visible on a map. Property entrances still face it. A line of mature trees still follows it. Drainage was designed around it. A bus stop sits near where it met the road. No single artifact announces the old path, yet several current structures make its former existence recoverable.
+
+Causal archaeology often works by triangulating these residues. The past is inferred from the shape of what remains.
+
+Science does this constantly. Geology reconstructs vanished environments from rocks. Evolutionary biology reconstructs lineages from shared traits and sequences. Astronomy infers events from radiation arriving long afterward. Archaeology reads settlement patterns, material remains, and wear. None of these disciplines needs the past to be stored as a complete picture. It needs traces whose formation can be modeled.
+
+That last phrase is the safeguard.
+
+A trace is strongest as evidence when we understand how the event could have produced it and what else could have produced it instead. A groove may indicate repeated motion, unless a manufacturing process created the groove. A shared phrase may indicate copying, unless the phrase is conventional enough to arise independently. Similar structures may indicate common ancestry, unless strong constraints repeatedly produce the same solution. The observation becomes informative through comparison among mechanisms.
+
+Morphic resonance would have to enter that same competition.
+
+It would not be enough to say that two later systems resemble earlier systems. We would need a reason to expect the resemblance under morphic resonance that differs from the expectation under common ancestry, environmental inheritance, shared constraints, communication, measurement, selection, or chance. Otherwise the theory names the residue without identifying its cause.
+
+This is why a richer account of ordinary memory makes the extraordinary hypothesis harder to test and more meaningful if it survives.
+
+Every newly identified carrier removes some mystery. It also improves the experiment. Once we know that duplicated information can create fake independence, we can design against duplication. Once we know that environments preserve state, we can reset environments. Once we know that people unconsciously cue one another, we can blind conditions. Once we know that instruments drift, we can calibrate and randomize. Ordinary explanations are not obstacles placed in front of wonder. They are the machinery that cleans the glass.
+
+A residual effect is interesting only after the glass is clean enough to see it.
+
+That standard also protects the ordinary world from being underestimated. There is a persistent cultural habit of treating a known mechanism as somehow less profound than an unknown one. A neural circuit is dismissed as “just neurons.” A tradition is “just culture.” An algorithm is “just code.” A path-dependent institution is “just bureaucracy.” The word *just* performs an enormous amount of intellectual shrinking.
+
+But a distributed memory that survives the people who created it, changes later behavior, reconstructs itself across damaged components, and produces coordinated action without a central keeper is not a lesser mystery because its parts can be named.
+
+Mechanism is not disenchantment.
+
+It is what lets astonishment become specific.
+
+A memory without a place may turn out to have many places, none sufficient alone and all causally connected. That is the baseline against which any deeper form of resonance has to be judged.
+
+The mystery begins after we have finished pretending that only a box can remember.
