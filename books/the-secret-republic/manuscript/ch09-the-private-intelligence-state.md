@@ -217,3 +217,93 @@ The first permanent intelligence organization available to many American clients
 It was a business.
 
 America privatized part of the secret before it professionalized the state.
+
+The surviving archive makes the sequence unusually concrete.
+
+The Library of Congress holds a copy of an 1855 contract between Pinkerton and the Illinois Central Railroad. The names around that contract are almost too perfect in hindsight. Abraham Lincoln served as legal counsel to the railroad. George B. McClellan, before the Civil War made him commander of the Army of the Potomac, had a security role with the company. When national crisis arrived, men who already knew Pinkerton through railroad business had reason to know what kind of capability he could offer.
+
+Networks precede institutions.
+
+A later government contract can begin with somebody remembering the investigator from the railroad.
+
+This is one way private capacity enters state service without a formal procurement theory. Trust transfers from one problem to another.
+
+The railroad had asked: can this man protect a line and investigate losses?
+
+The wartime government would ask: can he protect the president and tell a general what the enemy is doing?
+
+The questions are not identical.
+
+The relationship made the second question possible.
+
+That distinction matters because Pinkerton's later Civil War intelligence failures sometimes encourage a retrospective dismissal of the whole institution. McClellan's exaggerated estimates of Confederate strength are an important warning about analysis, but they do not erase the organizational innovation that made Pinkerton useful in the first place.
+
+Collection capacity and analytic quality are separable.
+
+An organization can be excellent at getting reports and poor at estimating what the reports mean.
+
+A detective culture can also import assumptions from criminal investigation into military intelligence. A detective searches for a culprit. Military intelligence often has to estimate an adversary system whose size and intentions cannot be reduced to one guilty person. Methods that work beautifully in one domain can produce false precision in another.
+
+The 1850s agency had not been built for order-of-battle analysis.
+
+It had been built to solve cases.
+
+Its archive shows what “built” meant.
+
+The Library of Congress collection contains correspondence, reports, code books, criminal rosters, procedural material, training manuals, financial records, indexes, maps, photographs, and case files. Those holdings mostly date from later decades, but their categories reveal the mature form of an organization whose core problem had already emerged in the railroad era.
+
+Names had to be indexed.
+
+Reports had to be stored.
+
+Operatives needed procedures.
+
+Codes had to be shared without being exposed.
+
+Clients needed accounts.
+
+Cases had to survive the memory of the detective assigned to them.
+
+Intelligence becomes institutional when those things exist whether or not Allan Pinkerton is personally in the room.
+
+There is an archival warning here too.
+
+Many of the agency's Chicago records burned in the Great Chicago Fire of 1871. The surviving Library of Congress collection is large—tens of thousands of items—but it is not a complete corporate memory. Branch-office files are generally absent, and the surviving material overrepresents later years and famous cases.
+
+The missing records matter because Pinkerton history became mythology early.
+
+An agency that sold secrecy also sold a public image.
+
+Allan Pinkerton published accounts of cases. Newspapers turned detective work into entertainment. Later books repeated stories whose documentary footing varied. The absence created by the fire makes it easier for the printed legend to fill the space left by destroyed office files.
+
+This book therefore has to treat Pinkerton differently from a government office whose records were preserved systematically.
+
+The archive itself is evidence of selection.
+
+What survives is not the same thing as what happened.
+
+Kate Warne illustrates the point. The Library of Congress identifies her as the first female private detective in the United States and documents her later involvement in the effort to move Lincoln safely through Baltimore. Yet the Pinkerton collection contains relatively little about her personally. The agency's 1871 fire destroyed much of the Chicago-office record. A woman whose work depended on operating without ordinary visibility also left an archival trail thinned by accident.
+
+Secrecy and fire make similar historians.
+
+Both remove context.
+
+The temptation is to replace it with a clean story.
+
+The responsible alternative is to say what the record supports and stop where it stops.
+
+That discipline is especially important in private intelligence because the client relationship already shapes which records were created. A corporation hires a detective to investigate a problem. The file is organized around the client's question. People who appear in it may be rendered as suspects, employees, informants, threats, or witnesses because those are the categories useful to the paying institution.
+
+The archive inherits the gaze of the client.
+
+A future historian reading only the case file can accidentally inherit it too.
+
+This is why the private intelligence state is not merely a story about detectives doing state-like work.
+
+It is a story about who gets to create the record by which other people are known.
+
+Railroads were learning to see workers, thieves, passengers, and risks across distance.
+
+Pinkerton gave them a pair of institutional eyes.
+
+The people being watched did not get the same view back.
