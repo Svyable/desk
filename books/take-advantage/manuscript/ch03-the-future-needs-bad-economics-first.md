@@ -287,3 +287,75 @@ The question is whether using, producing and supporting version one changes the 
 When the answer is yes, an early customer is not simply overpaying.
 
 The customer is purchasing the experience from which the market may learn to charge less.
+
+The learning curve deserves one more look because its visual simplicity is dangerous.
+
+A smooth line of declining cost invites a smooth story of progress. Yet every point on the line hides organizations making different kinds of mistakes. A factory manager changes a workstation. A supplier discovers a tolerance can be relaxed. A design team eliminates a part. A financing market becomes comfortable enough with the asset to lower the cost of capital. An installation crew learns to finish the same job in fewer hours. A regulator standardizes a test that used to be negotiated project by project.
+
+Some of those gains belong to manufacturing.
+
+Some belong to coordination.
+
+Some belong to finance.
+
+Some belong to knowledge spreading through an industry.
+
+This matters because deployment can lower the delivered cost of a technology even when the factory cost barely changes. A solar module can become only slightly cheaper while permitting, labor, design software, financing and installation become much easier. A battery can improve modestly at the cell level while pack integration, thermal management, warranties and supply contracts become more predictable. The customer experiences the system price, not the isolated component curve.
+
+Early adoption can contribute to these surrounding curves too.
+
+A lender finances the first few projects conservatively because recovery values are uncertain. Years of operating history accumulate. Default and performance data improve. Another lender enters. Competition changes the financing terms. The technology has not learned anything in the anthropomorphic sense, but the financial system has learned how to price it.
+
+An insurer goes through the same process.
+
+A repair shop does too.
+
+So does a permitting office.
+
+The maturing economics of a technology are often distributed across institutions that do not appear on the product’s bill of materials.
+
+This is why the first customer can be paying for more than the producer’s learning.
+
+The first customer can be paying for the ecosystem’s ignorance.
+
+Ignorance carries a premium.
+
+A bank demands more security when it does not know the risk. A contractor charges more when every installation is novel. A supplier quotes conservatively when volumes are uncertain. An insurer prices a wide distribution because little claims history exists. A buyer keeps spare equipment because reliability is unknown.
+
+As evidence accumulates, some of those premiums shrink.
+
+The future becomes cheaper because it becomes less mysterious.
+
+This mechanism also puts a limit on the value of early adoption. Once the major uncertainties have been priced down, another unit adds less information. The thousandth identical installation in a familiar environment teaches less than the first ten. The learning curve flattens not only because technical gains become harder, but because the easy institutional ignorance has already been removed.
+
+The adopter’s contribution is largest near uncertainty, not simply near chronology.
+
+A technology can be old and still enter a new early market. A battery chemistry used in consumer electronics for years can become an early technology when applied at grid scale. A sensor mature in factories can become experimental in hospitals. Software familiar to individual users can become immature when a bank asks it to satisfy audit, security and continuity requirements.
+
+Early is relative to the system being asked to absorb the technology.
+
+That is why a calendar is a poor guide to adoption advantage.
+
+The useful question is: where is the learning frontier now?
+
+The frontier may be manufacturing.
+
+It may be regulation.
+
+It may be labor.
+
+It may be finance.
+
+It may be social permission.
+
+It may be a new application that turns an old component into an unfamiliar system.
+
+Find the frontier, and you find the place where early participation can still change the economics for whoever comes next.
+
+That makes bad economics easier to interpret.
+
+Sometimes high cost means the technology is fundamentally mismatched to the problem.
+
+Sometimes high cost is a bill for ignorance that repeated use can reduce.
+
+The early adopter’s difficult task is telling those cases apart before the market has enough history to make the answer obvious.
