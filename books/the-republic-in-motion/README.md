@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Drafting |
-| **Chapters**  | 8 of 25 drafted |
+| **Status**    | Drafting / publication development |
+| **Chapters**  | 12 of 25 drafted |
 
 *250 Years of America in 25 Vehicles*
 
@@ -46,13 +46,13 @@ An important vehicle can enlarge freedom and coercion at the same time. A wagon 
 - [x] [Ch 6 — 1826–1835: Five Hours Between Two Cities](manuscript/ch06-five-hours-between-two-cities.md) — the John Bull locomotive
 - [x] [Ch 7 — 1836–1845: The House on Wheels](manuscript/ch07-the-house-on-wheels.md) — the prairie schooner
 - [x] [Ch 8 — 1846–1855: Racing Gold Around the World](manuscript/ch08-racing-gold-around-the-world.md) — *Flying Cloud*
-- [ ] Ch 9 — 1856–1865: The Ship with Almost No Sides — USS *Monitor*
-- [ ] Ch 10 — 1866–1875: Sleep Across a Continent — the Pullman sleeping car
+- [x] [Ch 9 — 1856–1865: The Ship with Almost No Sides](manuscript/ch09-the-ship-with-almost-no-sides.md) — USS *Monitor*
+- [x] [Ch 10 — 1866–1875: Sleep Across a Continent](manuscript/ch10-sleep-across-a-continent.md) — the Pullman sleeping car
 
 ### Part III — Personal Mobility Becomes Mass Mobility
 
-- [ ] Ch 11 — 1876–1885: The Machine You Powered Yourself — the bicycle
-- [ ] Ch 12 — 1886–1895: The City Learns to Commute — the electric streetcar
+- [x] [Ch 11 — 1876–1885: The Machine You Powered Yourself](manuscript/ch11-the-machine-you-powered-yourself.md) — the bicycle
+- [x] [Ch 12 — 1886–1895: The City Learns to Commute](manuscript/ch12-the-city-learns-to-commute.md) — the electric streetcar
 - [ ] Ch 13 — 1896–1905: Before Ford, There Was Olds — the Curved Dash Oldsmobile
 - [ ] Ch 14 — 1906–1915: Fifteen Million Doors — the Ford Model T
 - [ ] Ch 15 — 1916–1925: The Horse Leaves the Farm — the Fordson tractor
@@ -221,10 +221,16 @@ For 2016–2025, the Tesla Model 3 is a serious challenger. If reusable orbital 
 
 The table of contents is a thesis under audit, not a shrine.
 
+## Publication development
+
+- [Publication dossier, jacket copy, cover brief, editorial gates](publishing/README.md)
+- [Machine-readable publication metadata](publishing/metadata.json)
+
 ## Research
 
 - [Research brief, selection method, runner-ups, and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Chapters 9–12 publication source notes](research/ch09-ch12-publication-sources.md)
 
 ## Rights
 
