@@ -2,21 +2,13 @@
 
 Strategists have always built imaginary enemies.
 
-War games, intelligence estimates, red teams, diplomatic cables, and academic models all try to answer the same question.
+War games, intelligence estimates, red teams, diplomatic cables, academic models, and military exercises all try to answer the same question:
 
 What will the other side do?
 
 Artificial intelligence makes the imaginary enemy interactive.
 
-A model can be prompted with speeches, doctrine, historical behavior, economic constraints, military capabilities, elite politics, bureaucratic structure, and known interests.
-
-It can generate likely responses to sanctions, deployments, negotiations, exercises, export controls, or crises.
-
-It can simulate factions.
-
-It can run the same scenario repeatedly with different assumptions.
-
-It can speak in a voice that sounds like the adversary.
+A model can be grounded in speeches, doctrine, historical behavior, economic constraints, military capabilities, elite politics, bureaucratic structure, and known interests. It can generate likely responses to sanctions, deployments, negotiations, exercises, export controls, or crises. It can simulate factions. It can run the same scenario repeatedly with different assumptions. It can speak in a voice that sounds like the adversary.
 
 This feels like a new form of access.
 
@@ -24,15 +16,17 @@ It is not access to the adversary.
 
 It is access to a model of the adversary.
 
-The distinction sounds obvious until the model starts producing fluent answers.
+That distinction is the beginning of safe use.
+
+## Fluency is not access
 
 Humans are vulnerable to anthropomorphism.
 
-We treat coherent language as evidence of coherent thought.
+Coherent language feels like coherent thought.
 
-A simulation that says, “Beijing would interpret this as…” or “Moscow is likely to…” can feel more authoritative than an analyst saying, “There are at least four plausible interpretations and we do not know which one dominates.”
+A system that says, “Beijing would interpret this as…” or “Moscow is likely to…” can feel more authoritative than an analyst saying, “There are several plausible interpretations and we do not know which one dominates.”
 
-The machine’s confidence can hide the same uncertainty that existed before the machine arrived.
+The machine’s fluency can hide the same uncertainty that existed before the machine arrived.
 
 The danger is mirror-imaging with better prose.
 
@@ -40,181 +34,197 @@ A model trained primarily on one side’s public analysis may reproduce that sid
 
 It may infer rationality from outcomes.
 
-It may flatten internal disagreement.
+Flatten internal disagreement.
 
-It may treat doctrine as behavior.
+Treat doctrine as behavior.
 
-It may treat rhetoric as intention.
+Treat rhetoric as intention.
 
-It may assume the adversary has the same information we have.
+Assume the adversary has the same information we have.
 
-It may assume the adversary understands our signal the way we intended it.
+Assume the adversary understands our signal the way we intended it.
 
 The result can be exquisitely detailed and strategically wrong.
 
-This is especially dangerous because specificity creates credibility.
+Representational richness is not epistemic access.
 
-A vague model output is easy to challenge.
+That sentence should travel with every adversary simulation.
 
-A detailed one can feel like intelligence.
+## Build an adversary model card
 
-It names ministries.
+Every serious simulation should carry a **model card for the adversary model**.
 
-It predicts factions.
+Not a generic technical description.
 
-It describes likely arguments inside leadership meetings.
+A record of the political assumptions that produced the simulation.
 
-The detail can exceed the evidence.
+Which sources shaped it?
 
-The first rule of adversary modeling should therefore be simple.
+Which time period dominates the evidence?
 
-Never confuse representational richness with epistemic access.
+Which institutions are represented?
 
-The model may generate a plausible internal debate.
+Which institutions are missing?
 
-That does not mean the debate is occurring.
+Which assumptions about rationality are embedded?
 
-The model may produce a likely policy sequence.
+Which doctrine is treated as operative?
 
-That does not mean the sequence has been chosen.
+Which language sources were available?
 
-The system should label simulation as simulation.
+Which factional or bureaucratic disagreements are represented?
 
-That sounds trivial.
+Which are compressed?
 
-It is not.
+Which behaviors are observed and which are inferred?
 
-In a fast-moving crisis, generated text can travel through an institution faster than its caveats.
+Which outputs are especially sensitive to one contested assumption?
 
-A scenario becomes a briefing point.
+The purpose is not to make every simulation slow.
+
+It is to stop the generated answer from arriving without its political ancestry.
+
+## Never ship the voice without the provenance
+
+A generated adversary voice is especially persuasive.
+
+It can produce an internal memo.
+
+A leader’s imagined statement.
+
+A factional argument.
+
+A plausible private message.
+
+That can be useful for red teaming.
+
+It can also be dangerously theatrical.
+
+The more realistic the voice, the more aggressively provenance should travel with it.
+
+Generated scenario.
+
+Not intelligence reporting.
+
+Grounded in these sources.
+
+Depends on these assumptions.
+
+Reviewed by these experts.
+
+Confidence in representational realism is not confidence that the event is occurring.
+
+The institution should make that distinction difficult to erase when text moves into a briefing chain.
+
+## The first failure mode is scenario laundering
+
+A simulation becomes a briefing point.
 
 The briefing point becomes a talking point.
 
 The talking point becomes “what we think they will do.”
 
-By the time the sentence reaches the principal, its origin as a generated hypothesis can disappear.
+The source as generated hypothesis disappears.
 
-Provenance therefore matters for simulation as much as for intelligence.
+This is **scenario laundering**.
 
-Where did this adversary model come from?
+It is similar to source laundering in intelligence analysis, except the source was never an observation in the first place.
 
-Which sources shaped it?
+The system should therefore preserve a simulation watermark in the analytic workflow.
 
-Which assumptions were supplied?
+Not necessarily a literal visible watermark.
 
-Which were inferred?
+A provenance tag that survives copying, summarization, and downstream model use.
 
-Which model family generated the answer?
+A generated hypothesis should never become observational evidence merely because another system repeated it.
 
-Was the output reproduced by another model?
-
-Did human experts review it?
-
-Was the adversary’s internal diversity represented or compressed?
-
-These questions should travel with the output.
-
-Used correctly, adversary models can be excellent engines of surprise.
-
-The right question is not, “What will the adversary do?”
-
-It is, “How many plausible ways could the adversary interpret this?”
-
-That turns prediction into hypothesis generation.
-
-A government considering a military exercise, export control, diplomatic statement, or sanctions package can ask a system to construct multiple interpretations from the perspective of different institutions and factions.
-
-One response might see deterrence.
-
-Another might see preparation for attack.
-
-Another might see domestic politics.
-
-Another might see bluff.
-
-Another might see an opportunity to split an alliance.
-
-Another might interpret the same move through bureaucratic interests rather than national strategy.
-
-The value comes from the map of possible interpretation.
-
-Not from pretending the map is the territory.
-
-This suggests a different architecture for strategic simulation.
-
-Do not build one adversary model.
-
-Build an adversary ensemble.
-
-Use different data sources.
-
-Different model families.
-
-Different assumptions.
-
-Different time horizons.
-
-Different institutional framings.
-
-Force the outputs to expose why they differ.
-
-Ask what evidence would discriminate among them.
-
-Preserve minority scenarios when their probability is uncertain but their consequence is high.
-
-The ensemble should make disagreement visible.
-
-Consensus among models is not automatically evidence because models can share training data, analytical literature, and cultural assumptions.
-
-Five systems repeating the same Western analytical frame do not equal five independent perspectives.
-
-Independence has to be designed.
-
-That may require deliberate source separation.
-
-One model grounded primarily in official statements.
-
-Another in observed behavior.
-
-Another in economic constraints.
-
-Another in historical crisis patterns.
-
-Another in regional expertise.
-
-Another focused on bureaucratic incentives.
-
-The purpose is not to vote among them.
-
-It is to reveal how conclusions change when the lens changes.
-
-This is adversarial epistemology.
-
-The system attacks its own picture.
-
-The goal is not to create a digital twin of a government.
+## One adversary model is a category error
 
 Governments are not unitary objects.
 
-They are coalitions of institutions, leaders, habits, incentives, fears, factions, and incomplete information.
+They are coalitions of leaders, institutions, habits, interests, fears, factions, legal authorities, bureaucratic routines, and incomplete information.
 
-Their behavior changes under stress.
+Their internal disagreements matter.
 
-They deceive.
+A foreign ministry can interpret a signal differently from a military command.
 
-They misunderstand themselves.
+A central government can understand a local commander imperfectly.
 
-They make mistakes.
+An economic bureaucracy can resist a strategy favored by a security institution.
 
-They make decisions late.
+A leader can be undecided while subordinates act.
 
-They sometimes act before consensus exists and rationalize afterward.
+A model that produces one national persona therefore compresses the very political complexity diplomacy exists to understand.
 
-A simulation that assumes a coherent adversary may therefore fail because the real adversary is internally incoherent.
+The answer is not one adversary model.
 
-That suggests another design principle.
+It is an **adversary ensemble**.
 
-Model disagreement inside the state, not just disagreement between states.
+## Build the ensemble around different causal lenses
+
+Do not merely ask several models the same question.
+
+That produces repeated prose, not necessarily independent analysis.
+
+Build lenses that fail differently.
+
+One grounded primarily in observed behavior.
+
+One grounded in official doctrine and statements.
+
+One focused on material constraints.
+
+One focused on bureaucratic incentives.
+
+One focused on domestic political legitimacy.
+
+One focused on alliance dynamics.
+
+One focused on historical crisis behavior.
+
+One focused on the possibility of deception.
+
+The purpose is not to vote among the outputs.
+
+It is to identify how the answer changes when the causal lens changes.
+
+That is more informative than artificial consensus.
+
+## Consensus can be a common-mode error
+
+Five models agreeing does not mean five independent perspectives.
+
+They may share training data.
+
+The same analytical literature.
+
+The same historical cases.
+
+The same language imbalance.
+
+The same cultural assumptions.
+
+The same missing sources.
+
+The same vendor family.
+
+The ensemble therefore needs a **perspective-independence map**.
+
+Which models share evidence?
+
+Which share assumptions?
+
+Which share failure modes?
+
+Which are genuinely different enough that convergence becomes informative?
+
+This is the same network lesson that appears elsewhere in the book.
+
+Redundancy is useful only when failure is not perfectly correlated.
+
+## Model internal disagreement, not merely national preference
+
+A useful adversary model should ask:
 
 What does the military want?
 
@@ -222,27 +232,33 @@ What does the foreign ministry fear?
 
 What does the economic bureaucracy resist?
 
-What incentives affect local commanders?
+What incentives shape local commanders?
 
-Which faction benefits from escalation?
+Which institution benefits from escalation?
 
-Which institution benefits from delay?
+Which benefits from delay?
+
+Which faction gains from public confrontation?
+
+Which faction gains from a private settlement?
 
 What information might the leader not be receiving?
 
-These questions generate more useful uncertainty than a single national persona.
+Who controls access to the leader?
 
-The same event can mean different things to different parts of the adversary system.
+Who interprets foreign intelligence?
 
-A public threat may reassure one faction and alarm another.
+Who can veto implementation?
 
-A sanctions package may strengthen the institution it was designed to weaken.
+These questions are more valuable than a single sentence about national intent because they reveal the political machinery through which intent has to become action.
 
-A military exercise may be interpreted differently by national leaders and local commanders.
+## Transmission is part of the adversary model
 
-A backchannel message may reach one political network but not another.
+Signals do not act on states.
 
-The adversary model should therefore include transmission.
+They act on people inside institutions.
+
+The model should therefore represent transmission.
 
 Who sees the signal?
 
@@ -252,41 +268,243 @@ With what delay?
 
 Under what translation?
 
-With which domestic incentives shaping interpretation?
+With what bureaucratic framing?
+
+Which domestic incentives shape interpretation?
+
+Does the signal reach the faction that matters?
+
+Does a public statement reach the same audience as a private message?
+
+Does a technical warning reach political leadership or stop inside the bureaucracy?
 
 This is where diplomacy and modeling meet.
 
-Signals do not act on states.
+A perfectly designed signal can fail because the wrong person received it, the right person received it late, or the message arrived inside an institutional frame that changed its meaning.
 
-They act on people inside institutions.
+## Build a signal path map
 
-A model that skips that layer can produce clean strategic logic while missing political reality.
+For major diplomatic or military signals, planners should create a **signal path map**.
 
-Time creates another problem.
+Sender.
 
-A model accurate in routine competition may fail in the crisis where it matters most.
+Channel.
 
-The rare event is precisely the event with the least training data.
+Intermediary.
+
+Expected recipient.
+
+Likely bureaucratic interpreter.
+
+Potential distortion.
+
+Time to political decision.
+
+Observable response.
+
+This map forces the government to stop treating messages as self-delivering.
+
+It also reveals where a backchannel can matter.
+
+A direct political channel can sometimes bypass a bureaucratic frame that makes every signal look hostile.
+
+## Model what the adversary thinks we think
+
+The first-order question is what the adversary thinks.
+
+The second-order question is what the adversary thinks **we** think.
+
+The third-order question is what it expects us to infer from its behavior.
+
+This recursion matters because states signal through assumptions about interpretation.
+
+An exercise may be designed to look like preparation.
+
+A deployment may be designed to look reversible.
+
+A public threat may be intended primarily for a domestic audience but crafted to exploit a foreign warning criterion.
+
+A de-escalatory move may be calibrated to remain visible enough that the other side’s intelligence system notices.
+
+AI makes recursive modeling cheaper.
+
+It also makes recursive overconfidence easier.
+
+The system should therefore stop the recursion where evidence disappears.
+
+Beyond a certain level, the model is generating theory about theory.
+
+That can be useful for creativity.
+
+It should not be mistaken for knowledge.
+
+## The adversary may model the model
+
+If machine-assisted analysis becomes routine, adversaries may deliberately shape behavior for automated interpretation.
+
+Public language can be written for model parsing as well as human reading.
+
+Exercises can imitate known warning signatures.
+
+Cyber activity can be designed to manipulate anomaly detection.
+
+A false pattern can be repeated until automated systems treat it as a baseline.
+
+A visible concession can be optimized to satisfy a monitoring threshold without changing the underlying strategy.
+
+This creates a new reflexive question:
+
+If the adversary knew the structure of our model, how could it exploit the model’s assumptions?
+
+That should be a standing red-team prompt.
+
+The model becomes part of the strategic environment rather than an observer outside it.
+
+## Build a model-exploitation register
+
+Every important adversary model should have a **model-exploitation register**.
+
+Which assumptions are easy to manipulate?
+
+Which indicators are public enough that an adversary could spoof them?
+
+Which data sources can be contaminated?
+
+Which thresholds are predictable?
+
+Which language patterns strongly influence the model?
+
+Which absent indicators create false reassurance?
+
+Which dependencies could be targeted to make several models fail together?
+
+This turns the adversary model inward.
+
+The system should know how it can be gamed.
+
+## Prediction is the weakest use case
+
+The temptation is to ask the model for a forecast.
+
+What will the adversary do next?
+
+That may be the least defensible high-level use.
+
+The stronger uses are different.
+
+Generate competing interpretations.
+
+Surface hidden assumptions.
+
+Identify indicators that distinguish among scenarios.
+
+Search historical analogies and show where they break.
+
+Map institutional incentives.
+
+Explore how different factions might interpret the same signal.
+
+Identify how our own action could be read under several frames.
+
+Stress-test a policy against several plausible adversary responses.
+
+The value is in expanding and structuring the hypothesis space.
+
+Not in pretending the system has discovered the future.
+
+## Turn every scenario into a prediction test
+
+A scenario becomes analytically useful when it produces observable implications.
+
+If this interpretation is correct, what should we expect next?
+
+Which actor should move?
+
+Which public statement should appear?
+
+Which military behavior should change?
+
+Which economic preparation should become visible?
+
+Which diplomatic channel should activate?
+
+Which indicator would weaken the scenario?
+
+Which would distinguish it from the closest alternative?
+
+The model should attach these **discriminating indicators** to every major scenario.
+
+That converts simulation into collection guidance.
+
+The model becomes useful not because it predicts perfectly but because it tells the intelligence and diplomatic systems what to look for.
+
+## Scenario abundance creates scenario inflation
+
+AI can generate alternatives cheaply.
+
+That is an advantage until the system creates more scenarios than the institution can use.
+
+A human team that once considered three pathways can now generate thirty.
+
+Or three hundred.
+
+The constraint moves from generation to selection.
+
+Scenarios should therefore be ranked by three dimensions.
+
+Plausibility.
+
+Consequence.
+
+Discriminability.
+
+A low-probability scenario with catastrophic consequence may deserve monitoring.
+
+A highly imaginative scenario with no observable implications may not.
+
+A moderate scenario with clear discriminating indicators may deserve disproportionate collection effort because the institution can actually learn whether it is unfolding.
+
+## Create a scenario budget
+
+Attention is scarce.
+
+The institution needs a **scenario budget**.
+
+How many live adversary hypotheses can be monitored meaningfully?
+
+Which scenarios deserve dedicated indicators?
+
+Which can remain archive possibilities?
+
+Which should be retired because repeated evidence fails to support them?
+
+Without a budget, scenario generation becomes intellectual hoarding.
+
+Everything remains possible.
+
+Nothing becomes actionable.
+
+A strong adversary model should help the institution discard weak scenarios as readily as it generates new ones.
+
+## Context regimes matter
+
+A model accurate in routine competition may fail in acute crisis.
 
 Stress changes decision-making.
 
 Information quality degrades.
 
-Leaders may centralize authority.
+Leaders centralize authority.
 
-Normal bureaucratic channels can be bypassed.
+Normal bureaucratic channels are bypassed.
 
-Military units may operate under different rules.
+Military units operate under different procedures.
 
 Fear changes risk tolerance.
 
 Domestic audiences become more salient.
 
-A model trained on routine behavior may extrapolate the normal into the abnormal.
-
-That can be dangerous.
-
-The system should therefore distinguish regime behavior by context.
+The model should therefore distinguish **behavioral regimes**.
 
 Routine competition.
 
@@ -300,201 +518,269 @@ Leadership transition.
 
 Alliance rupture.
 
-The same actor may behave differently across these states.
+Economic emergency.
 
-The model should not pretend the transition probabilities are known if they are not.
+The same actor may behave differently in each.
 
-AI can still improve red teaming because it lowers the cost of generating alternatives.
+The system should not pretend the transition probabilities are known when they are not.
 
-A human team that once had time to explore three scenarios may examine thirty.
+It should make the regime assumption explicit.
 
-Historical analogies can be retrieved faster.
+## Doctrine is a prior, not a script
 
-Contradictory evidence can be surfaced.
+Doctrine matters.
 
-Analysts can ask the model to attack their own assumptions.
+Public strategy matters.
 
-The system can generate the strongest case that the adversary interprets our action in exactly the opposite way we intend.
+Historical practice matters.
 
-That is valuable.
+But doctrine should not be converted into a deterministic decision rule.
 
-But abundance creates a new problem.
+The model should treat doctrine as one prior among several sources of evidence.
 
-Scenario inflation.
+Observed behavior can diverge from declaratory policy.
 
-If the system can generate endless possibilities, decision-makers can drown in them.
+Institutions can interpret doctrine differently.
 
-The challenge shifts from generating alternatives to selecting which alternatives deserve attention.
+Political leaders can override it.
 
-Selection should depend on consequence, plausibility, and discriminating evidence.
+Crisis conditions can change the meaning of doctrinal language.
 
-A low-probability scenario with catastrophic consequence may deserve monitoring.
+The safe question is not “What does doctrine say they will do?”
 
-A highly imaginative scenario with no observable implications may not.
+It is “How does doctrine constrain, enable, or signal the range of plausible choices?”
 
-The model should therefore connect every major scenario to indicators.
+That distinction protects the model from turning public text into a fictional launch checklist or policy algorithm.
 
-If this interpretation is correct, what should we expect to see next?
+## Language depth changes the model
 
-What would weaken it?
+Adversary modeling is vulnerable to source imbalance.
 
-Which observation would distinguish it from the alternatives?
+If most accessible analysis is written in English, the model may reproduce outside interpretations of the adversary while sounding like the adversary itself.
 
-This turns simulation into collection guidance.
+Local-language official documents help.
 
-The adversary model becomes useful not because it predicts perfectly but because it tells intelligence systems what to look for.
+So do regional sources.
 
-That is a more defensible role.
+So do dissident or independent sources where available and reliable.
 
-The institution must also reward contradiction.
+So do historical records, economic data, and observed behavior.
 
-If leaders use the model to validate an existing policy, simulation becomes theater.
+The objective is not to find one “authentic” source.
 
-A system that reliably produces the answer the principal prefers is more dangerous than no system at all because it converts preference into apparent analysis.
+It is to reduce the chance that the adversary model is simply our own discourse reflected back at us.
 
-The governance problem therefore begins before the prompt.
+## Use diplomatic reporting as a corrective layer
 
-Who owns the model?
+Open-source abundance can make relationship-based diplomatic reporting look less important.
 
-Who can challenge it?
+The opposite may be true.
 
-Are the assumptions recorded?
+A diplomat can report how a message landed.
 
-Can analysts reproduce the output?
+Which phrase drew attention.
 
-Does the system show uncertainty?
+Which official seemed constrained.
 
-Can senior officials see when a conclusion depends on one contested premise?
+Which institution was absent.
 
-Can experts outside the sponsoring office inspect the logic?
+Which concern surfaced privately but not publicly.
 
-Can the model be tasked explicitly to argue against the policy preference of the user?
+Which explanation appeared politically usable.
 
-These are mundane questions.
+This information is difficult to infer from public text alone.
 
-They are the difference between a tool and an oracle.
+It gives the adversary model a corrective layer based on human political contact.
 
-There is a related classification problem.
+The machine can organize the reporting.
 
-A model may use classified intelligence to construct a richer simulation.
+It cannot replace the fact that somebody had the conversation.
 
-That can improve relevance.
+## Backchannels can test the model
 
-It can also make the output harder to share.
+A backchannel is not only a negotiation mechanism.
 
-The institution may then face a paradox.
+It is an instrument for **model validation**.
 
-The best adversary model is available only to a narrow group, while the diplomats and allies responsible for shaping signals cannot see the reasoning behind it.
+The analytic system predicts that a signal will be interpreted one way.
 
-This argues for layered products.
+A trusted interlocutor reports that the message landed differently.
 
-A high-side simulation may remain restricted.
+That discrepancy is valuable.
 
-A lower-classification version should preserve the core hypotheses, assumptions, and uncertainty without exposing protected sources.
+It reveals a failure in the model of the adversary.
 
-Otherwise the model can increase analytical sophistication while decreasing coalition understanding.
+A mature system should treat such feedback as evidence for model revision, not as an awkward anecdote that complicates the clean analytic story.
 
-The diplomatic benefit of adversary modeling is empathy without sympathy.
+This is one reason human channels become more valuable as machine models become more capable.
 
-Understanding how another government may perceive a move does not require endorsing that perception.
+The channel supplies evidence about interpretation that the model cannot manufacture from its own prior assumptions.
 
-It simply creates a wider map of possible reactions.
+## Separate empathy from sympathy
 
-That map can expose avoidable escalation.
+The diplomatic benefit of adversary modeling is empathy without endorsement.
+
+Understanding how another government may perceive a move does not require accepting that perception as morally or legally correct.
+
+It simply expands the reaction map.
 
 A signal intended as reassurance may be read as weakness.
 
-A signal intended as deterrence may look like preparation.
+A deterrent move may look like preparation for attack.
 
-A private warning may be more credible than a public threat.
+A concession may be politically unusable to the faction that needs to defend it domestically.
 
-A concession designed to create an off-ramp may be invisible to the faction that needs to defend it domestically.
+A public warning may harden the very position a private message could soften.
 
-The machine can help generate these possibilities.
+The model helps surface these possibilities.
 
-Only the human system can decide which are politically real.
+Human judgment decides which are politically real enough to shape policy.
 
-The most useful adversary model may therefore be the one that makes the policymaker ask a better diplomatic question.
+## The best model asks what they think we are doing
 
-Not “How do we make them do what we want?”
+Governments naturally ask how to make the adversary respond.
 
-But “What do they think we are doing?”
+A more useful first question is often:
 
-That question is often harder.
+What do they think we are doing?
 
-It forces the state to confront the possibility that its signal is not self-interpreting.
+That question forces the state to confront the fact that its own intent is not self-interpreting.
 
-Strategic communication fails partly because governments assume their own intent is visible.
+The adversary sees action through history, fear, doctrine, intelligence gaps, domestic politics, and its own models of us.
 
-It is not.
+If we assume our signal is obvious because our intent is obvious to us, we have already failed the empathy test.
 
-The adversary sees action through doctrine, fear, history, domestic politics, intelligence gaps, and its own models of us.
+## Model policy effects, not only adversary reactions
 
-This creates recursion.
+A strong simulation should track second-order effects.
 
-We model them.
+A sanctions package may change internal factional power.
 
-They model us.
+A military deployment may alter alliance politics.
 
-We know they model us.
+A public threat may narrow the adversary leader’s domestic room for compromise.
 
-They know we model them.
+A technology restriction may strengthen the institution charged with substitution.
 
-Each side can begin shaping behavior for the other side’s model.
+A concession may weaken a hard-line narrative or validate it.
 
-A deployment can be designed to trigger an expected inference.
+The relevant question is not only what response follows.
 
-A deception can target known warning criteria.
+It is what political environment our action helps create inside the adversary system.
 
-A public statement can be written for machine parsing as well as human reading.
+That is harder to model.
 
-The strategic environment becomes partly a contest over model expectations.
+It is also closer to diplomacy.
 
-This is not entirely new.
+## Build an adversary-model scoreboard
 
-States have always manipulated intelligence.
+The institution should evaluate its models over time.
 
-What changes is speed and scale.
+Not by asking whether they “predicted the adversary.”
 
-If machine-assisted analysis becomes common, actors may deliberately engineer signatures for automated systems.
+Use more disciplined metrics.
 
-That means adversary modeling must include the possibility that observed behavior is designed for the model itself.
+Did the ensemble identify the interpretation that later became relevant?
 
-The system should ask a reflexive question.
+Did it surface the key contradiction early?
 
-If the adversary knew we were using this model, how could it exploit the model’s assumptions?
+Did it generate discriminating indicators that improved collection?
 
-That question turns red teaming inward.
+Did it misread doctrine as behavior?
 
-It makes the model part of the scenario rather than an observer outside it.
+Did it underrepresent internal disagreement?
 
-The final discipline is humility.
+Did diplomatic reporting materially change the model?
 
-A model can help discover possibilities.
+Did the model help identify a de-escalatory signal that would otherwise have been missed?
 
-It can help retrieve history.
+Did it create false confidence?
 
-It can help compare interpretations.
+Did scenario laundering occur?
 
-It can help identify indicators.
+The scoreboard should reward useful uncertainty management, not theatrical prediction accuracy.
 
-It can help structure red teams.
+## A model should be retired when it stops surprising us
 
-It can help leaders understand that their own signal may be read differently.
+An adversary model can become intellectually stale even if it remains technically functional.
+
+If it always reproduces the institution’s dominant view, it may no longer be doing useful adversarial work.
+
+If it never generates a hypothesis experts consider worth testing, it may be noise.
+
+If it repeatedly misses major changes in observed behavior, its assumptions may be obsolete.
+
+If its source base no longer reflects the adversary’s current environment, it should be re-grounded or retired.
+
+A model that cannot surprise the organization is at risk of becoming an automated confirmation mechanism.
+
+## The central governance question is who can contradict the oracle
+
+The technical system can be excellent and the institution can still fail.
+
+If leaders use the model to validate an existing policy, simulation becomes theater.
+
+A system that reliably produces the answer the principal prefers is more dangerous than no system because it converts preference into apparent analysis.
+
+The governance problem begins before the prompt.
+
+Who owns the model?
+
+Who can inspect the assumptions?
+
+Who can challenge the output?
+
+Can analysts reproduce it?
+
+Can a different team run the same scenario under different premises?
+
+Can senior officials see when a conclusion depends on one contested assumption?
+
+Can the model be tasked explicitly to argue against the user’s preferred policy?
+
+These are the differences between a tool and an oracle.
+
+## Falsifying the adversary-model thesis
+
+The argument of this chapter would weaken if adversary ensembles consistently added noise without improving collection, if human experts rarely learned anything from model-generated alternatives, if scenario provenance proved too difficult to preserve in real workflows, or if recursive modeling encouraged more confusion than useful empathy.
+
+Those outcomes would suggest a narrower role for AI: retrieval, translation, and structured red-team support rather than rich adversary simulation.
+
+The thesis strengthens if multiple causal lenses expose assumptions that single teams miss, if discriminating indicators improve collection, if diplomatic feedback corrects machine-generated narratives, and if policy simulations identify avoidable escalation before real signals are sent.
+
+The claim should remain testable.
+
+## The model is useful when certainty gets harder and preparation gets better
+
+AI can help discover possibilities.
+
+Retrieve history.
+
+Compare interpretations.
+
+Map institutions.
+
+Generate indicators.
+
+Stress-test signals.
+
+Expose mirror-imaging.
 
 It cannot grant access to another government’s mind.
 
 The adversary may be undecided.
 
-The adversary may be divided.
+Divided.
 
-The adversary may be lying.
+Deceptive.
 
-The adversary may misunderstand its own situation.
+Misinformed.
 
-The adversary may do something nobody modeled because the decision emerges from a circumstance that did not exist before the crisis.
+Internally incoherent.
 
-That is not a failure of modeling.
+It may do something nobody modeled because the decision emerges from a circumstance that did not exist before the crisis.
+
+That is not a defect unique to AI.
 
 It is a fact about politics.
 

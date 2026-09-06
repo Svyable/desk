@@ -2,7 +2,7 @@
 
 Gray-zone competition is often described as activity below the threshold of war.
 
-That description is accurate and incomplete.
+That is accurate and incomplete.
 
 It makes grayness sound like a level on a ladder.
 
@@ -14,25 +14,33 @@ Somewhere in between.
 
 For a coercive state, grayness can be a strategy in itself.
 
-Ambiguity changes the defender’s problem.
+The point is not merely to remain below a military threshold.
+
+It is to exploit the defender’s need to classify, coordinate, justify, finance, communicate, and sustain a response before the coercer has created one obvious event large enough to make those tasks easy.
+
+Grayness changes the defender’s problem.
 
 A missile attack is easy to classify even if the response is difficult.
 
-A patrol, inspection, cyber intrusion, legal notice, maritime exercise, customs action, or commercial restriction can be individually explainable in several ways.
+A patrol, inspection, cyber intrusion, legal notice, maritime exercise, customs action, infrastructure disruption, or commercial restriction can be individually explainable in several ways.
 
 That interpretive space has strategic value.
 
 It delays coalition formation.
 
-Partners may agree that a full invasion requires a response while disagreeing sharply over a boarding, quarantine measure, cable incident, or repeated air and maritime pressure.
+It fragments institutional response.
 
-The coercer gains room from the gap between “this is serious” and “this clearly crosses our line.”
+It encourages private actors to move before governments do.
 
-That gap is not empty.
+It lets the status quo change while policymakers debate which category applies.
 
-It is maneuver space.
+Grayness is therefore not simply low-intensity coercion.
 
-Gray-zone strategy works by exploiting differences among institutions.
+It is a method for turning ambiguity, administrative procedure, and time into strategic leverage.
+
+## The gray zone is a decision-system attack
+
+The coercer does not need to defeat one unified defender because the defender is not unified yet.
 
 Military organizations may see a pattern of pressure.
 
@@ -44,49 +52,57 @@ Diplomats may see a signaling contest.
 
 Insurers may see elevated uncertainty.
 
+Cyber defenders may see an intrusion whose strategic purpose is not yet clear.
+
 Allies may see different treaty implications.
 
-The same act therefore enters several systems at once.
+The same event enters several systems at once.
 
 Those systems move at different speeds.
 
-That fragmentation is part of the coercive advantage.
+Gray-zone strategy exploits the difference.
 
-The action does not need to defeat one unified defender because the defender is not unified yet.
+The target is not only territory or access.
 
-This is why gray-zone strategy is often administrative.
+It is the defender’s **decision architecture**.
 
-Administrative acts look smaller than military acts.
+How long until the incident is recognized as part of a pattern?
 
-A new notice.
+Which agency owns the response?
 
-A new inspection rule.
+Which legal authority applies?
 
-A new operating zone.
+Which allies need to be consulted?
 
-A new registration requirement.
+Which evidence can be shared?
 
-A new law-enforcement practice.
+Which private actors have already adjusted behavior?
 
-A new pattern of patrols.
+The longer those questions remain unresolved, the more room the coercer has to consolidate the new fact.
 
-These actions can create durable effects without dramatic force.
+## Measure classification latency
 
-The defender has to decide whether the act is important enough to resist before the importance is obvious.
+A state should therefore track **classification latency**.
 
-That is the temporal advantage of grayness.
+How long from observed event to a shared interagency understanding of what materially changed?
 
-The coercer acts first.
+Not necessarily one perfect legal label.
 
-The defender debates the category.
+A common operational description.
 
-The status quo moves while the debate continues.
+The clock should begin when the event produces real effect, not when senior officials first discuss it.
 
-Gray-zone strategy therefore works through accumulation.
+The longer the latency, the more gray-zone value the coercer extracts.
 
-Each action can be small enough to survive.
+A useful after-action question is simple:
 
-The sequence changes the environment.
+How much of the strategic effect occurred before the government agreed what the event was?
+
+That number exposes semantic delay as an operational vulnerability.
+
+## Grayness works through accumulation
+
+The individual act often matters less than the sequence.
 
 An exercise normalizes a larger military presence.
 
@@ -96,17 +112,89 @@ A boarding establishes a precedent.
 
 Repeated patrols increase operating familiarity.
 
-Commercial actors begin to change routes or insurance behavior before governments formally concede anything.
+Commercial actors change routes or insurance behavior before governments concede anything formally.
 
-A cyber campaign can test access without producing a visible military event.
+A cyber campaign tests access without producing a visible military event.
 
-A diplomatic protest can become less urgent after the fifth repetition even though the pattern has become more important.
+A temporary operating restriction becomes recurring.
 
 The status quo moves without one cinematic moment.
 
-This creates reversal asymmetry.
+The coercer’s advantage comes from **accumulation without decisive punctuation**.
 
-It may take only one limited action to create a new fact.
+If every act can be treated as isolated, the sequence becomes invisible.
+
+## Maintain a baseline ledger
+
+Gray-zone strategy benefits from institutional forgetfulness.
+
+Staff rotate.
+
+Headlines move on.
+
+A one-time measure becomes background noise.
+
+A recurring exercise becomes normal.
+
+A temporary restriction remains in place.
+
+The defender can lose the previous baseline without formally agreeing to lose it.
+
+This makes a **baseline ledger** strategically important.
+
+What was normal six months ago?
+
+What is normal now?
+
+Which operating areas changed?
+
+Which enforcement practices are new?
+
+Which incidents were protested?
+
+Which temporary rules became recurring?
+
+Which commercial behaviors changed?
+
+Which cyber or infrastructure disruptions repeated?
+
+The ledger is not history for its own sake.
+
+It is an instrument for detecting normalization.
+
+## Build a gray-zone ratchet index
+
+Not every change is equally sticky.
+
+Some disappear when the incident ends.
+
+Others create a new precedent that is more expensive to reverse than to establish.
+
+The defender should track a **ratchet index** across incidents.
+
+For each action:
+
+How easy was it for the coercer to create?
+
+How expensive would reversal be?
+
+Did commercial actors adapt?
+
+Did a legal claim become an operating practice?
+
+Did the action create new physical presence?
+
+Did it alter expectations?
+
+Did the defender’s nonresponse make recurrence easier?
+
+A high-ratchet action deserves more attention than a dramatic but temporary signal.
+
+This keeps strategy focused on durability rather than spectacle.
+
+## Reversal asymmetry is the heart of the problem
+
+It may take one limited action to create a new fact.
 
 Undoing that fact can require a much larger action.
 
@@ -116,119 +204,165 @@ If inspections become routine, stopping them may require escorts, sanctions, phy
 
 If patrols become normal in a new area, restoring the previous pattern can look like escalation.
 
-If commercial firms adapt to a new risk regime, reversing their behavior may require government guarantees or direct support.
+If commercial firms adapt to a new risk regime, reversing their behavior may require government guarantees.
 
 The defender is asked to pay more to reverse than the coercer paid to create.
 
-That is the strategic logic of the gray zone.
+This is **reversal asymmetry**.
 
-It turns the status quo into a ratchet.
+A successful threshold strategy should reduce it.
 
-The coercer does not need to win the final confrontation.
+Make coercive changes harder to normalize.
 
-It needs each small move to be slightly easier to sustain than to reverse.
+Make limited reversals cheaper.
 
-Over time, the asymmetry compounds.
+Make private confidence easier to restore.
 
-This is why memory matters.
+Make allied responses modular enough that every correction does not require maximal escalation.
 
-Gray-zone pressure can succeed through institutional forgetfulness.
+## The coercer is testing for rollback cost
 
-Staff rotate.
+Repeated gray-zone activity is also reconnaissance.
 
-Headlines move on.
+The coercer learns:
 
-One incident becomes background noise.
+How quickly is the action detected?
 
-A temporary measure remains in place.
+Which office responds?
 
-A one-time exercise becomes a recurring operating pattern.
+Which ally calls first?
 
-The defender can lose the previous baseline without formally agreeing to lose it.
+How long does legal review take?
 
-A serious threshold strategy therefore needs a record of change.
+Which commercial actors panic?
 
-What was normal six months ago?
+Which public narratives gain traction?
 
-What is normal now?
+Which military assets move?
 
-Which practices are new?
+How expensive would the defender find reversal?
 
-Which incidents were protested?
+This means every incident can be a test of **rollback cost**.
 
-Which temporary measures became recurring?
+The coercer is not only asking whether the action succeeds.
 
-Which commercial behaviors changed?
+It is learning what future action would be costly for the defender to undo.
 
-This is not historical trivia.
+The defender should assume its procedures are being studied.
 
-It is how a government distinguishes persistent coercion from routine noise.
+## Build a rollback ladder
 
-The next mechanism is uncertainty about intent.
+A binary choice between protest and force is exactly what gray-zone strategy wants.
 
-Gray-zone actions are often designed so that the defender cannot prove the larger purpose from the individual act.
+The defender needs a **rollback ladder**.
 
-Was the cyber intrusion preparation for a crisis or routine espionage?
+Fact clarification.
+
+Public documentation.
+
+Commercial reassurance.
+
+Legal challenge.
+
+Targeted economic cost.
+
+Cyber defense and restoration.
+
+Maritime monitoring.
+
+Visible coalition presence.
+
+Operational countermeasures.
+
+Escalatory steps only where necessary.
+
+The ladder should connect response intensity to the coercive effect, not merely the nominal label.
+
+The purpose is to reduce the gap between “too small to fight over” and “too important to ignore.”
+
+## Effects matter when intent is ambiguous
+
+Gray-zone actions often force the defender to argue about motive.
+
+Was the cyber intrusion preparation for crisis or routine espionage?
 
 Was the exercise rehearsal, signaling, or training?
 
 Was the inspection meant to create a precedent or simply test reaction?
 
-The coercer benefits from forcing the defender to argue about motive.
-
-The defender should resist that trap.
-
 Intent matters.
 
-Effects matter too.
+The defender should not make recognition of coercive effect depend on proving intent first.
 
-A policy can be organized around observable consequences even when motive remains uncertain.
+Ask instead:
 
-Did the action restrict commerce?
+Did commerce become less free?
 
-Did it change navigational behavior?
+Did navigational behavior change?
 
-Did it create a recurring enforcement practice?
+Did a recurring enforcement practice appear?
 
-Did it increase military access?
+Did critical infrastructure become less reliable?
 
-Did it degrade infrastructure?
+Did military access expand?
 
-Did it impose costs on civilians?
+Did a private market begin pricing a new risk?
 
-Did it shift the operating baseline?
+Did the operating baseline shift?
 
-Effect-based classification reduces the coercer’s ability to hide behind ambiguity of intent.
+Effect-based analysis reduces the coercer’s ability to hide behind ambiguity of motive.
 
-This does not mean every effect deserves the same response.
+## Build an effect matrix
 
-It means the defender does not have to solve the adversary’s mind before recognizing that the environment changed.
+Every significant incident should be assessed across several effect dimensions.
 
-The next mechanism is coalition lag.
+**Access:** did movement become harder?
 
-Different partners have different thresholds because they have different laws, interests, geography, and political constraints.
+**Continuity:** did infrastructure or services degrade?
+
+**Jurisdiction:** did a new claim to authority become operational?
+
+**Commercial behavior:** did firms reroute, delay, or withdraw?
+
+**Military familiarity:** did the coercer gain operating knowledge or presence?
+
+**Coalition cohesion:** did partners interpret the event differently?
+
+**Public confidence:** did uncertainty create domestic pressure?
+
+**Precedent:** would nonresponse make recurrence easier?
+
+The effect matrix allows different tactics to be compared without forcing them into one legal box.
+
+A cyber disruption and a maritime inspection can create similar strategic effects even when the mechanisms differ.
+
+## Coalition lag is a weapon
+
+Different partners have different laws, interests, geography, and political constraints.
 
 A gray-zone strategy can target those differences.
 
-Choose an action that matters greatly to Taiwan but appears peripheral to a distant ally.
+Choose an action that matters greatly to Taiwan but appears peripheral to a distant partner.
 
-Choose a legal frame that allows one partner to call the act coercion while another calls it law enforcement.
+Choose a legal frame one ally calls coercion and another calls law enforcement.
 
 Choose a commercial mechanism that affects companies before governments.
 
 Choose a maritime tactic that makes military response look disproportionate.
 
-The objective is not necessarily to split the coalition permanently.
+The objective may not be to split the coalition permanently.
 
-It may be enough to slow it.
+Delay can be enough.
 
-Delay creates operational value.
+This is **coalition lag**.
 
-The coercer can consolidate the new fact while allies negotiate language.
+The coercer wants one ambiguous act to produce several separate political debates.
 
-This is why coalition planning below the war threshold is as important as planning for war.
+The defender wants several political systems to produce enough coordinated effect that ambiguity no longer equals paralysis.
 
-Partners should not need identical legal conclusions.
+## Coalition speed does not require one label
+
+Partners do not need identical legal conclusions to coordinate.
 
 They need compatible response pathways.
 
@@ -244,15 +378,41 @@ Another may provide diplomatic backing.
 
 A modular coalition can respond proportionally without pretending every state has the same red line.
 
-That reduces the value of grayness.
+This is strategically important because a demand for perfect semantic consensus can become the coercer’s best delaying mechanism.
 
-The coercer wants one ambiguous act to produce five different political debates.
+Agree first on what changed materially.
 
-The defender wants five political systems to produce enough coordinated effect that ambiguity no longer equals paralysis.
+Then assemble the response around effect.
 
-Commercial actors are part of this system.
+## Pre-negotiate consultation triggers
 
-Gray-zone strategy can transmit through markets faster than through military force.
+Coalition lag can be reduced by pre-negotiating **consultation triggers**.
+
+Not automatic military commitments.
+
+Events that automatically produce shared review.
+
+Repeated interference with commercial access.
+
+Significant disruption of critical infrastructure.
+
+New recurring enforcement patterns.
+
+Material changes in exercise behavior.
+
+Cyber activity that affects essential public functions.
+
+Interference with undersea communications.
+
+The trigger says, “We consult now.”
+
+It does not predetermine the outcome.
+
+That alone stores time.
+
+## Commercial actors can deliver the coercive effect
+
+Gray-zone strategy can transmit through markets faster than through force.
 
 An insurer changes a risk model.
 
@@ -264,7 +424,11 @@ A supplier delays investment.
 
 A technology firm restricts operations.
 
-These choices can magnify coercion without direct orders from the state.
+The state may impose only a narrow measure.
+
+The market amplifies it.
+
+This is **private amplification**.
 
 The defender therefore needs commercial resilience as part of deterrence.
 
@@ -280,11 +444,31 @@ Continuity planning.
 
 Authenticated public information.
 
-The less private actors panic under ambiguity, the less leverage the coercer receives from creating it.
+The less private actors panic under ambiguity, the less return the coercer receives from producing uncertainty.
 
-The same is true of infrastructure.
+## Track private amplification latency
 
-Cable incidents, cyber disruptions, communications outages, or logistics interference can create strategic effects before attribution is complete.
+Governments should measure how quickly private behavior changes after an incident.
+
+How long before carriers reroute?
+
+Before insurers adjust premiums?
+
+Before banks tighten compliance?
+
+Before suppliers delay shipments?
+
+This is **private amplification latency**.
+
+If the private clock runs faster than the government response clock, the state can lose economic ground before policy catches up.
+
+The answer is not to order firms to ignore risk.
+
+It is to make reliable public information, legal guidance, financial support, and continuity tools available fast enough to affect rational private decisions.
+
+## Infrastructure resilience denies gray-zone return
+
+Cable incidents, cyber disruptions, communications outages, and logistics interference can create strategic effects before attribution is complete.
 
 A resilient system restores service first and argues about blame second.
 
@@ -292,67 +476,163 @@ That reverses the coercive logic.
 
 If ambiguity no longer produces prolonged disruption, ambiguity becomes less valuable.
 
-Resilience therefore functions as gray-zone deterrence.
+Resilience functions as gray-zone deterrence because it reduces return on limited coercion.
 
-It denies return on limited coercion.
+The coercer can still impose cost.
 
-The next mechanism is learning.
+It gets less strategic leverage from that cost.
 
-Repeated gray-zone activity gives the coercer information.
+## Restoration time is a deterrence metric
 
-How quickly does Taiwan detect the action?
+Infrastructure policy should therefore track **time to trusted restoration**.
 
-Which agency responds?
+Not merely time until service resumes.
 
-Which allies call?
+Time until the government and users trust that the restored service is safe enough to rely on.
 
-How long does classification take?
+A compromised network that comes back online in two hours but remains distrusted for two weeks has not truly recovered.
 
-What commercial behavior changes?
+The gray-zone contest often targets confidence as much as function.
 
-What rhetoric appears?
+Restoration must address both.
 
-What military assets move?
+## The gray zone is a learning competition
 
-Every incident can be reconnaissance of the decision system.
+Repeated activity gives both sides information.
 
-The defender should assume it is being studied.
+The coercer learns the defender’s thresholds.
 
-That means response patterns should be prepared without becoming perfectly predictable.
+The defender learns the coercer’s methods.
 
-A rigid ladder can be gamed.
+This means the outcome of an incident includes what each side learned for next time.
+
+A response can succeed tactically and fail strategically if it reveals a deterministic playbook.
+
+A response can look modest and still be valuable if it reduces future vulnerability.
+
+The defender should therefore conduct a **learning audit** after each significant incident.
+
+What did we reveal?
+
+What did we learn?
+
+Which procedure should change?
+
+Which private dependency surprised us?
+
+Which ally moved faster or slower than expected?
+
+Which adversary tactic is now less useful because we adapted?
+
+The gray zone is adaptive.
+
+The defender must be too.
+
+## Bounded unpredictability beats a rigid script
+
+A rigid response ladder can be gamed.
 
 No ladder produces delay.
 
-The solution is bounded unpredictability.
+The answer is **bounded unpredictability**.
 
-Known categories.
+Known categories of harm.
 
 Known authorities.
 
+Known consultation triggers.
+
 Known families of response.
 
-Flexible choice inside them.
+Flexible selection inside them.
 
-This preserves decision speed without handing the coercer a deterministic script.
+This gives the defender speed without giving the coercer a deterministic script.
 
-AI changes the learning contest.
+The coercer should know that certain effects will produce cost.
 
-Machine systems can detect patterns across many small incidents that human institutions may treat separately.
+It need not know the exact instrument in advance.
 
-They can compare patrol locations, inspection procedures, legal notices, cyber events, commercial reactions, and public messaging.
+## Gray-zone strategy has a calibration window
 
-This can help the defender recognize accumulation earlier.
+Grayness can backfire.
 
-But AI can also amplify false pattern recognition.
+Repeated pressure can strengthen Taiwan’s resilience.
+
+Accelerate foreign cooperation.
+
+Make allied planning more explicit.
+
+Shift public opinion.
+
+Expose coercive methods.
+
+Teach the defender where the seams are before a larger crisis.
+
+A tactic intended to normalize pressure can normalize resistance.
+
+The coercer therefore operates inside a **calibration window**.
+
+Too little pressure changes nothing.
+
+Too much destroys ambiguity.
+
+Too repetitive a pattern becomes legible.
+
+Too visible a commercial effect creates coalition clarity.
+
+The defender’s objective is partly to narrow that window.
+
+Make even calibrated pressure expensive.
+
+Make patterns visible sooner.
+
+Make resilience improve after each incident.
+
+Make allied consultation faster.
+
+The harder calibration becomes, the weaker the gray-zone advantage.
+
+## Measure adaptation asymmetry
+
+The competition can be described through **adaptation asymmetry**.
+
+After each incident, who improved more?
+
+Did the coercer learn a new vulnerability?
+
+Or did the defender close one?
+
+Did the commercial sector become more fragile?
+
+Or more resilient?
+
+Did coalition consultation become slower?
+
+Or faster?
+
+Did the status quo shift toward the coercer?
+
+Or did the attempt generate new resistance?
+
+Gray-zone strategy succeeds over time if coercive learning outpaces defensive adaptation.
+
+The defender’s strategic objective is to reverse that inequality.
+
+## AI can detect accumulation and invent it
+
+Machine systems can compare patrols, inspection practices, legal notices, cyber events, commercial reactions, and public messaging across long periods.
+
+They can reveal accumulation human institutions might treat as isolated incidents.
+
+That is valuable.
+
+AI can also produce false pattern recognition.
 
 A system optimized to find escalation may find escalation everywhere.
 
 The gray zone contains real noise.
 
-The solution is not to avoid machine analysis.
-
-It is to make pattern claims falsifiable.
+Pattern claims therefore need explicit tests.
 
 What changed relative to baseline?
 
@@ -362,71 +642,37 @@ Which indicators are independent?
 
 What alternative explanation fits the same data?
 
-What observation would show that the pattern is temporary rather than strategic?
+What observation would show the pattern is temporary rather than strategic?
 
 This keeps anomaly detection from becoming intent detection by default.
 
-Grayness can also backfire.
+## Build a pattern confidence stack
 
-Repeated pressure can strengthen Taiwan’s resilience.
+A useful machine-assisted assessment should separate three levels.
 
-It can accelerate foreign cooperation.
+**Observation confidence:** are the events real and accurately measured?
 
-It can make allied planning more explicit.
+**Pattern confidence:** do the events represent a persistent change rather than noise?
 
-It can shift public opinion.
+**Intent confidence:** how much evidence supports a larger coercive purpose?
 
-It can expose coercive methods.
+These should not be collapsed.
 
-It can teach the defender where the seams are before a larger crisis.
+The defender can respond to a verified harmful pattern even when intent confidence remains low.
 
-A tactic intended to normalize pressure may instead normalize resistance.
+That preserves proportionality without requiring false certainty.
 
-This is why the strategy depends on calibration.
+## Legal grayness should not become operational paralysis
 
-Too little pressure changes nothing.
+Classification matters because labels activate different authorities.
 
-Too much destroys ambiguity.
+A quarantine is not simply a blockade with softer language.
 
-Too repetitive a pattern becomes recognizable.
+An inspection may be a claim to jurisdiction.
 
-Too visible a coercive effect creates coalition clarity.
+A cyber incident can matter because of the function targeted, not merely technical severity.
 
-The defender’s objective is therefore not only to withstand pressure.
-
-It is to make calibration harder for the coercer.
-
-Respond in ways that impose costs without always producing the same signal.
-
-Expose patterns publicly when exposure helps coalition formation.
-
-Keep some responses private when public reaction would give the coercer useful feedback.
-
-Strengthen resilience in the domain being tested.
-
-Change procedures after incidents so the same tactic yields less information next time.
-
-Gray-zone competition is adaptive.
-
-The defender should be adaptive too.
-
-This is why classification matters so much.
-
-The same physical event can activate different legal authorities, commercial risk models, military procedures, and alliance expectations depending on what governments call it.
-
-A quarantine is not merely a blockade with softer language.
-
-The label is part of the operation.
-
-An inspection is not merely a delay.
-
-It may be a claim to authority.
-
-A cyber incident is not defined only by technical severity.
-
-It matters which function was targeted and what uncertainty the intrusion creates.
-
-Classification should therefore be layered.
+The classification should therefore be layered.
 
 What physically happened?
 
@@ -436,46 +682,102 @@ What precedent does it attempt to establish?
 
 Which authority claims to justify it?
 
-Which response options become available under each classification?
+Which response options become available under different legal interpretations?
 
 This keeps naming connected to consequence.
 
-The central question for deterrence is therefore not only: what line will Beijing cross?
+It also lets the government act proportionally while legal analysis continues.
 
-It is also: which lines have Taiwan and its partners already agreed to recognize?
+## Build threshold families, not one red line
 
-A deterrent threshold that exists only for invasion leaves a wide field underneath it.
+A deterrent strategy focused only on invasion leaves a wide field underneath it.
 
 Gray-zone strategy lives in that field.
 
-The defender needs a system of thresholds rather than one red line.
+The defender needs **threshold families**.
 
-Thresholds for persistent air and maritime pressure.
+Persistent air and maritime pressure.
 
-Thresholds for inspections.
+Inspections and interference with commerce.
 
-Thresholds for commercial restrictions.
+Commercial restrictions.
 
-Thresholds for infrastructure disruption.
+Critical infrastructure disruption.
 
-Thresholds for cyber compromise of critical functions.
+Cyber compromise of essential functions.
 
-Thresholds for changes in exercise behavior.
+Changes in exercise behavior.
 
-Thresholds for legal claims becoming operational enforcement.
+Legal claims becoming operational enforcement.
 
 The thresholds do not all need military responses.
 
-They need prepared consequences.
+They need prepared consequences and consultation paths.
 
 The purpose is to stop ambiguity from becoming immunity.
 
-The strategic contest is over whether small acts can accumulate faster than the defender can classify, absorb, and reverse them.
+## Thresholds should have reset conditions
 
-Gray is a strategy when the coercer controls that tempo.
+A response architecture also needs **reset conditions**.
 
-It becomes less effective when the defender can recognize patterns early, respond proportionally, preserve commercial confidence, coordinate allies, and remember the baseline being defended.
+What behavior would restore the previous state?
 
-The gray zone is not a place below war.
+End inspections?
 
-It is a contest over who gets to move the line before anyone agrees the line moved.
+Withdraw a recurring operating restriction?
+
+Restore access?
+
+Repair or compensate for infrastructure interference?
+
+Stop a specific cyber campaign?
+
+A threshold without a reset condition can produce escalation without a clear stopping rule.
+
+Gray-zone deterrence should define not only what triggers cost but what behavior allows that cost to stop.
+
+This makes proportional pressure more credible and de-escalation more usable.
+
+## Exercise the ugly seams
+
+Exercises should not focus only on combat escalation.
+
+Run the ambiguous cases.
+
+A single inspection followed by private shipping avoidance.
+
+A cyber incident with uncertain attribution but real service loss.
+
+A recurring exercise whose legal status is unchanged but whose operating pattern is new.
+
+A cable outage accompanied by contradictory commercial and military reporting.
+
+An allied government that agrees on the effect but not the label.
+
+A market panic before the cabinet meets.
+
+The test is whether the decision system can classify enough, consult enough, communicate enough, and act enough before the status quo moves irreversibly.
+
+## Falsifying the gray-zone thesis
+
+The thesis of this chapter would weaken if ambiguous coercive actions rarely generated meaningful coalition delay, if private amplification proved negligible, if small cumulative acts were usually easy to reverse, or if prepared effect-based thresholds consistently caused overreaction rather than reducing paralysis.
+
+Those outcomes would suggest gray-zone advantage is overstated and that defenders should focus more heavily on conventional deterrence and resilience alone.
+
+The thesis strengthens if classification latency repeatedly creates exploitable delay, if reversal costs grow faster than initiation costs, if private markets amplify uncertainty, and if modular coalition responses reduce the durability of coercive gains.
+
+The argument should remain testable.
+
+## The contest is over who moves the baseline
+
+The central question is not only what line a coercer will cross.
+
+It is which lines Taiwan and its partners are prepared to recognize before they are crossed slowly.
+
+Gray-zone strategy succeeds when small acts accumulate faster than the defender can classify, absorb, coordinate, and reverse them.
+
+It weakens when the defender can recognize patterns early, keep a baseline ledger, measure ratchet effects, consult allies quickly, reassure private actors, restore infrastructure, impose proportional costs, and define clear reset conditions.
+
+The gray zone is not simply a place below war.
+
+It is a contest over who gets to move the line before everyone agrees the line moved.
