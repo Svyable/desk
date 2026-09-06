@@ -534,7 +534,125 @@ The defining property is simpler: the tool waits until the person has a reason t
 
 For two decades, the smartphone moved in the opposite direction. It became better at producing reasons of its own.
 
-The post-glass age will be decided by whether our next machines learn restraint faster than our last ones did.
+There is one more right the post-glass world will need to recover: the right to be absent without becoming dysfunctional.
+
+The right sounds sentimental until infrastructure removes it.
+
+A person should be able to miss an ordinary message without being treated as negligent.
+
+A worker should be able to sleep without being considered insufficiently committed.
+
+A child should be able to attend class without maintaining a live social presence.
+
+A traveler should be able to board with a backup that does not depend on one battery.
+
+A customer should be able to buy something without consenting to a permanent channel back into attention.
+
+A citizen should be able to receive public services without owning the newest interface.
+
+Absence is a form of resilience.
+
+A system that works only when every participant remains continuously connected is efficient in the same way a supply chain with no spare inventory is efficient: until one link is unavailable.
+
+The smartphone era trained institutions to assume a nearly perfect last mile to the person. The phone is charged. The account works. The notification arrives. The user sees it. The user can respond.
+
+Real life breaks each assumption.
+
+Batteries fail.
+
+Networks fail.
+
+Accounts are locked.
+
+People are asleep.
+
+People are grieving.
+
+People are driving.
+
+People are caring for children.
+
+People deliberately do not want to be reachable.
+
+Mature systems design for those states rather than treating them as user error.
+
+This is especially important when AI agents begin acting as proxies. Delegation can preserve absence if the agent guards it well.
+
+The user is sleeping, so routine requests wait.
+
+The user is with family, so only predeclared emergencies interrupt.
+
+The user is offline, so the ticket remains available locally.
+
+The user does not want commercial recommendations, so completed tasks do not turn into sales funnels.
+
+The user wants a human decision here, so the agent stops.
+
+Delegation can also eliminate absence completely.
+
+The agent keeps answering, buying, negotiating, scheduling, and representing the person continuously. The human becomes permanently present through software even while physically elsewhere.
+
+That sounds like liberation from administration.
+
+It also creates a new ambiguity: when is the person actually participating?
+
+If an agent replies to a message at 3 a.m., has the social expectation of response disappeared or merely become automated?
+
+If an employee’s agent attends every meeting, has meeting overload been solved or hidden?
+
+If a shopper’s agent continuously searches for better offers, has commerce become efficient or permanent?
+
+The post-glass age will need endings for delegated action as much as for screens.
+
+An agent should know not only what it may do, but when its jurisdiction expires.
+
+Until the flight is booked.
+
+Until the invoice is paid.
+
+Until morning.
+
+Until the child gets home.
+
+Until the user asks again.
+
+Completion needs to become a first-class design state.
+
+The smartphone era was built around sessions that could always become another session. The agentic era will be tempted to build intentions that can always become another intention.
+
+The infinite feed can become an infinite errand.
+
+That would be Glass Face Syndrome without the face.
+
+The lesson of the rectangle is that convenience compounds into structure. A feature used often becomes a habit. A habit shared by millions becomes an expectation. An expectation adopted by institutions becomes infrastructure. Infrastructure becomes difficult to refuse because refusal now carries costs unrelated to the original feature.
+
+The sequence can happen again with agents, glasses, or ambient systems.
+
+We have one advantage this time.
+
+We have seen it once.
+
+We know to ask about defaults before they become etiquette.
+
+We know to ask about stopping before continuation feels natural.
+
+We know to ask who can interrupt before interruption becomes a permission inherited forever.
+
+We know to ask whether a convenience deletes an alternative path.
+
+We know that a benefit can be real and a dependency costly at the same time.
+
+We know that personal discipline cannot repair every institutional expectation.
+
+We know that metrics can measure use without measuring value.
+
+We know that the most important boundary may be the one nobody notices until it is gone.
+
+That knowledge is the inheritance of the glass age.
+
+The next great interface should not merely be more intelligent than the smartphone.
+
+It should be more willing to stop.
 
 Someday the familiar public posture may disappear.
 
