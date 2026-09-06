@@ -343,3 +343,31 @@ Now the customers are lining up too.
 The grid's next challenge is not deciding which side deserves priority.
 
 It is building a process in which neither side can turn cheap paperwork into an expensive obligation for everyone behind it.
+
+There is another reason the load queue matters: it changes the value of **truthful withdrawal**.
+
+In a poorly designed queue, a developer has an incentive to remain until the last possible moment. Leaving early can mean surrendering a scarce position. The project may keep an option alive even after its probability of construction has fallen, because the private cost of waiting is small while the private value of preserving the slot is large. From the grid's perspective, that stale project contaminates the forecast and the studies behind it.
+
+A better process rewards early truth.
+
+That can sound backwards. Why reward a company for canceling? Because the grid is not trying to maximize the number of names in a queue. It is trying to maximize the accuracy of the future it is preparing to serve. A clean withdrawal before major equipment is ordered can save more money than a punitive fee collected after an unnecessary substation is built.
+
+This suggests that readiness requirements should be paired with **off-ramps**. A developer that learns its project no longer works should be able to surrender capacity cleanly, with consequences proportional to costs already caused rather than penalties so severe that the rational move is to hide bad news. The system wants commitment from viable projects and candor from failing ones.
+
+That is a subtle design problem because the queue also creates strategic behavior among competitors. A developer may care where rival projects sit. A landowner may value a site's apparent access to power. A customer may fear that releasing capacity means it cannot return later. Transparency that improves system planning can expose commercially sensitive information.
+
+The answer cannot be to make the process opaque again. It is to define the information the system actually needs. Identity of the accountable customer. Requested ramp. Financial readiness. Site control. Milestones. Flexibility commitments. Withdrawal status. Enough to plan the network without turning the queue into a public map of every corporate strategy.
+
+This is where load integration begins to resemble capital-market infrastructure. The valuable output is not merely a ranked list. It is a continuously updated estimate of which claims on scarce capacity deserve to influence real investment.
+
+That estimate will never be perfect.
+
+It can be much better than a pile of forms.
+
+If the data-center boom leaves behind a demand-side interconnection process that prices optionality, rewards truthful updates, studies clusters rather than fantasies of isolation, and makes service obligations explicit, the reform will outlast the current generation of AI hardware.
+
+Hydrogen plants, semiconductor fabs, advanced manufacturing, electric fleets, carbon-removal facilities, and industrial electrification will all benefit from a grid that knows how to ask a giant new customer a question more precise than: how many megawatts do you want?
+
+The durable question is:
+
+How much of the future are you prepared to stand behind?
