@@ -351,3 +351,71 @@ Can the interface make it easier for the animal to say, in whatever form its bod
 We may never translate that sentence.
 
 We can still build a world in which the correction works.
+
+Repair also gives us a way to distinguish two superficially similar systems: one in which an animal has learned to get a result and one in which the animal has learned to communicate with a particular partner.
+
+Imagine a dog trained to ring a bell for outside access. If the usual person does not respond, the dog rings again. That may be simple persistence. Now replace the person with someone who never responds to the bell but does respond when the dog approaches and touches a knee. If the dog gradually recruits the new human through the new channel while continuing to use the bell with the old human, partner history has entered the system.
+
+The animal is not merely performing the strongest behavior.
+
+It is navigating receivers.
+
+A similar design could be used experimentally with horses, parrots, goats, or zoo animals. Establish two human partners with different reliable response contingencies. Then create controlled misunderstandings. Does the animal repeat, escalate, switch modality, or select the human whose history predicts success?
+
+The result would not prove language.
+
+It would reveal something more directly relevant to the third-language thesis: whether repair is audience-specific.
+
+This matters because most consumer claims about animal communication focus on successful “messages.” Success is visually satisfying. Repair is harder to package. Yet a system that produces many correct-looking outcomes without any capacity to handle misunderstanding may be brittle pattern matching rather than robust communication.
+
+Human language would be unusable without repair.
+
+A pet interface should therefore be judged partly by the same standard.
+
+Can the animal indicate that the interpretation was wrong?
+
+Can the human ask for clarification without imposing the answer?
+
+Can the interface represent an unresolved state instead of forcing a label?
+
+Can either participant end the exchange?
+
+These questions suggest a design that looks less like translation software and more like a conversation protocol.
+
+The first output is provisional.
+
+The second turn tests it.
+
+The third turn updates.
+
+The sequence ends when uncertainty has fallen enough for a low-cost action or when the animal disengages.
+
+This may sound computational because it is. It also describes good ordinary interaction.
+
+Humans can become more scientific with animals simply by slowing the moment between interpretation and action.
+
+The dog paces near the door.
+
+Hypothesis: outside.
+
+Move toward the door.
+
+The dog walks instead toward the water bowl.
+
+Revision.
+
+That tiny failure prevented a false story from becoming a habit.
+
+Now imagine a thousand such sequences recorded over months. A personalized model could begin estimating not just what signals predict outcomes but which human responses produce informative clarification. It could learn that one dog redirects through movement, another through repeated gaze, another through sound, and another gives up quickly.
+
+The model would be learning the animal’s repair style.
+
+That may be more valuable than learning a vocabulary.
+
+Vocabulary tells us what a signal usually predicts.
+
+Repair tells us how the animal handles our ignorance.
+
+Every cross-species relationship contains a lot of ignorance.
+
+A mature communication system should be built around it rather than pretending it has disappeared.
