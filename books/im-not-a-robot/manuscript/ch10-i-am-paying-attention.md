@@ -238,6 +238,108 @@ Not intelligence.
 
 Attention.
 
+There is a second-order problem here that becomes more important once agents begin acting for us.
+
+Delegation can save attention and also conceal what attention would have discovered.
+
+Suppose an agent reads every routine email, rejects obvious solicitations, schedules meetings, summarizes documents, and surfaces only the items it believes require you.
+
+The relief could be enormous.
+
+So could the dependency.
+
+You are no longer deciding what deserves attention directly.
+
+You are deciding—or perhaps once decided—the policy by which something else decides.
+
+That is not automatically a loss of agency. Civilization runs on filters. Editors filter. Assistants filter. friends filter. Search engines filter. Secretaries, chiefs of staff, nurses, librarians, and managers have long protected other people from raw information streams.
+
+The important question is whether the filter remains corrigible.
+
+What did it suppress?
+
+Why did this item reach me?
+
+What classes of message are never shown?
+
+Can I inspect the discarded pile without turning every day into an audit?
+
+Can the agent recognize that a low-probability item has high consequence?
+
+Can I tell it that a relationship, person, or subject deserves attention even when the historical data say otherwise?
+
+An attention assistant is not merely a productivity tool.
+
+It is a governor of salience.
+
+That gives it quiet power over what becomes real enough to think about.
+
+A missed advertisement is trivial.
+
+A missed message from a friend may not be.
+
+A missed legal notice, subtle warning, early symptom, weak signal from an employee, or unfamiliar idea can become consequential precisely because it did not resemble the things the system had learned to prioritize.
+
+Efficiency naturally favors known importance.
+
+Life often changes because of something whose importance was not known yet.
+
+The problem resembles recommendation but with higher stakes. A recommender chooses what culture enters view. An attention agent may choose which obligations, relationships, anomalies, and warnings enter consciousness at all.
+
+This is why human attention cannot be protected merely by minimizing incoming volume.
+
+Protection needs an exploration policy too.
+
+Show me some things that do not look urgent but are becoming unusual.
+
+Tell me what category of requests I have not personally inspected in months.
+
+Surface a sample of what you are filtering so I can notice drift.
+
+Warn me when the criteria for “important” have changed because my behavior changed.
+
+Give relationships I explicitly value a different rule from messages I merely answer often.
+
+These are mundane design choices with philosophical consequences.
+
+They distinguish “save me time” from “decide what my time is for.”
+
+The same distinction belongs inside organizations.
+
+Executives have always relied on dashboards and staff to decide what reaches them. AI can make the filter more aggressive and more personalized. A leader may receive beautifully compressed reality while losing contact with the awkward evidence the compression removed.
+
+The dashboard says customer sentiment is stable.
+
+The summary says the launch is on track.
+
+The agent says no messages require intervention.
+
+Everything is calm because the system has learned the shape of calm.
+
+Then the ignored edge case becomes the story.
+
+Good governance therefore needs deliberate paths by which low-status, low-frequency, or model-disfavored information can bypass the filter.
+
+Escalation is an attention technology.
+
+Whistleblowing is an attention technology.
+
+Appeal is an attention technology.
+
+A red-team review is an attention technology.
+
+A friend saying “put your phone down and listen to me” is one too.
+
+All are mechanisms for forcing salience against the current ranking.
+
+This makes attention less private than the phrase “my attention” suggests.
+
+We allocate it personally, but institutions construct channels that determine what can reach us and with what urgency.
+
+A person can guard an hour and still live inside a system whose defaults decide what appears during the other twenty-three.
+
+Attention is therefore both a personal practice and an institutional design problem.
+
 This matters for authorship too.
 
 When generation becomes cheap, the cost of reading remains human-scale.
