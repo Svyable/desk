@@ -130,6 +130,48 @@ The eventual settlement with Tunis did not deliver every demand Mellimelli broug
 
 That is closer to the normal condition of international relations than triumph.
 
+There was also a constitutional problem underneath the naval one. The Constitution divided war powers, treaty powers, appropriations, and executive command across institutions. Jefferson could deploy naval force within authorities Congress had granted, but sustained operations required money and law. The First Barbary War became an early test of how a republic that distrusted standing military power would conduct distant coercion without pretending the president possessed a blank check.
+
+Mellimelli arrived after those arguments had begun to acquire precedent.
+
+The encounter therefore sits at the birth of an American pattern that would expand dramatically: limited military operations undertaken in support of commerce and diplomacy, authorized through a mixture of statute, appropriation, executive initiative, and negotiated settlement. The later scale would be incomparable. The institutional tension was already present.
+
+How much force could a president use to protect American interests before the country had entered a formally declared war? What did Congress need to authorize? Could naval pressure remain limited, or would each captured vessel create another obligation to escalate? The Barbary conflict made those questions practical before the United States had accumulated much constitutional habit.
+
+The diplomatic mission mattered because force without a political endpoint is merely motion.
+
+Mellimelli represented one possible endpoint: a revised relationship in which both governments could claim enough satisfaction to avoid renewed fighting. That was not capitulation to an antiquated tribute system. Nor was it the clean destruction of that system. It was the more familiar sequence in which military pressure changes the zone of agreement and diplomacy determines what happens inside it.
+
+The economics deserve equal attention. A navy is expensive. So are ransoms, lost cargoes, disrupted insurance, detained sailors, and tribute. The early American argument was partly about which costs were visible and which were delayed. Tribute produces a humiliating invoice. Naval capacity produces taxes, appropriations, maintenance, salaries, shipbuilding, and the possibility of casualties. Merchants feel the cost of insecurity directly; taxpayers may feel the cost of security diffusely.
+
+Jefferson’s preference for resistance therefore depended on the country’s willingness to finance the means of resistance.
+
+That is a more durable lesson than the slogan that America refused to pay. States often announce principles before they have priced them. The Barbary experience forced the republic to price freedom of navigation in ships, crews, logistics, and diplomatic attention. Mellimelli’s presence in Washington was part of the invoice.
+
+His visit also exposes a problem with the category “Barbary pirates,” which can flatten several North African polities into a single menacing actor. Tunis, Tripoli, Algiers, and Morocco had distinct rulers, interests, treaties, and relations with European powers. Americans experienced a regional system, but diplomacy still had to occur government by government. Success against Tripoli did not automatically bind Tunis. A settlement with one ruler did not erase another ruler’s claims.
+
+Mellimelli’s individuality matters because it resists the flattening.
+
+He was not “Islam” arriving in Washington. He was not “Barbary” personified. He was the accredited representative of the Bey of Tunis, carrying a specific grievance and operating within a specific diplomatic relationship. The dinner becomes more historically useful when we keep that specificity. A Muslim practice affected the schedule because a Tunisian diplomat with leverage was in the house.
+
+The narrower frame also prevents a comfortable national myth in which the United States appears uniquely tolerant simply because Jefferson accommodated the fast. Hospitality toward a powerful guest is not proof of equal treatment toward vulnerable people. The same society that could adjust dinner for an envoy could deny political, social, and legal equality to Muslims or other minorities without comparable leverage. Diplomatic courtesy and domestic pluralism are related only indirectly.
+
+What the scene does prove is smaller and more interesting: the executive household could adapt its routine when the work of government required it.
+
+That capacity to adapt is a form of competence.
+
+A new country tends to treat protocol as evidence of its own dignity. Mature diplomacy eventually teaches that dignity sometimes requires flexibility instead. The host who insists every guest conform to local habit may be displaying confidence, or merely provincialism. Jefferson did not surrender an American principle by moving dinner. He removed an unnecessary obstacle from a negotiation.
+
+Mellimelli’s visit is full of that distinction between the essential and the performative.
+
+The United States cared about the security of its commerce and the limits of Tunisian demands. It did not need to care whether a diplomatic meal occurred at the usual hour. Learning which customs protect sovereignty and which customs merely flatter it is one of the subtler disciplines of statecraft.
+
+The counterfactual is modest but real. Had the Tunis dispute escalated immediately into another war, the young navy would have faced an additional Mediterranean opponent while the administration was trying to reduce the expense and uncertainty of the Tripolitan conflict. Another conflict might have strengthened demands for naval capacity, increased costs, or altered Jefferson’s broader effort to keep the federal establishment limited. Avoiding that outcome did not transform American history by itself. It preserved room for a government with many other pressures to choose where it spent force.
+
+The opposite counterfactual matters too. Had the United States treated military success against Tripoli as permission to refuse ordinary diplomatic accommodation with Tunis, it might have learned the wrong lesson from coercion. Power that cannot distinguish between deterrence and domination creates new enemies faster than it settles old disputes. Mellimelli’s mission demonstrated that the republic could use naval force and still receive a complaining envoy, pay the costs of hosting him, alter the dinner hour, and negotiate.
+
+That combination would recur throughout American history.
+
 There were other strong candidates for the 1800s. British minister Anthony Merry became entangled in Aaron Burr’s intrigues and the complicated politics of Jefferson’s hostility toward Britain. French and Spanish representatives remained important as the Louisiana Purchase transformed the continent and disputes over its boundaries continued. The Haitian Revolution and American policy toward Saint-Domingue/Haiti involved foreign figures whose significance is difficult to overstate. Napoleon himself reshaped American history without visiting by deciding to sell Louisiana.
 
 But this book is about dignitaries whose encounter with the United States compresses a decade’s problem into a human scene.
