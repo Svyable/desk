@@ -245,3 +245,71 @@ A few officers deciding that the United States should not wait for gunfire befor
 The first durable American intelligence revolution did not arrive wearing a disguise.
 
 It arrived as paperwork.
+
+And the paperwork had an architect.
+
+Lieutenant Theodorus Bailey Myers Mason reported on June 15, 1882, to organize and lead the new office. The distinction matters because institutions do not materialize simply because an order has named them. Somebody has to decide what questions they will ask, what information deserves to be retained, how reports will be classified, who will collect them, and how the resulting knowledge will reach officers who can use it.
+
+Mason had spent part of the late 1870s in Europe studying naval developments. He belonged to a generation of officers who could see an uncomfortable mismatch. The United States was an industrial power with a navy that had fallen behind the technological changes reshaping European fleets. Knowing that a gap existed was one thing. Knowing exactly what foreign navies were doing about armor, propulsion, guns, torpedoes, organization, and training required persistent observation.
+
+ONI turned that observation into a job.
+
+The early scale was almost comic compared with the intelligence state that followed. A historical account of the naval attaché system records that in 1883 the office employed nine junior officers. Nine officers did not constitute omniscience. They did constitute continuity.
+
+The office also began publishing what it learned.
+
+Its early “Information from Abroad” war series examined the French operations in Tunisia, the Pacific war among Chile, Peru, and Bolivia, British operations in Egypt, and later the Chilean revolution of 1891. A “General Information Series” beginning in 1883 covered subjects that ranged well beyond immediate American contingencies. The point was not that the United States expected to fight every country being studied. The point was that other people's wars were laboratories.
+
+A navy could learn from a battle without having fired in it.
+
+That is another feature of permanent intelligence that improvisation tends to miss. Wartime intelligence serves the fight in front of it. Peacetime intelligence can study somebody else's fight for lessons about the next one.
+
+The attaché system extended the office's eyes.
+
+Lieutenant Commander French E. Chadwick went to London late in 1882 as the first official American naval attaché there. Britain was the obvious classroom. The Royal Navy represented the standard against which serious maritime powers measured themselves, and British shipyards, engineering, doctrine, and imperial operations generated a constant stream of material worth understanding.
+
+Chadwick's assignment also shows how different early attaché work was from the lavish image later attached to diplomatic intelligence. A modern Naval History and Heritage Command study notes that the first attachés initially lacked dedicated funds or even a special stipend; limited congressional funding came only in 1888. They depended heavily on professional access, observation, travel, technical competence, exchange, and the willingness of people to talk to a naval officer who knew what questions to ask.
+
+Intelligence often begins as expertise with a passport.
+
+A technically ignorant collector can stand next to a new warship and learn almost nothing. A naval officer who understands engines, guns, armor, and tactics can notice which detail matters, ask a question that sounds ordinary, and recognize when the answer changes an assumption back home.
+
+That is why the attaché system and ONI belonged together.
+
+The attaché converted access into reports.
+
+The office converted reports into memory.
+
+The Navy converted memory into decisions.
+
+The chain was imperfect from the beginning. Attachés could be dazzled by foreign prestige, misled by hosts, denied access, or tempted to report what Washington wanted to hear. Technical information could age quickly. A beautifully cataloged fact could still be wrong. No filing system solves judgment.
+
+But the existence of the chain changed what failure meant.
+
+Before 1882, the United States might fail to know because nobody had been assigned to find out.
+
+After 1882, it could fail despite having assigned somebody.
+
+That is progress of a peculiar bureaucratic kind. Responsibility becomes visible.
+
+The office also began feeding a broader professional culture that was emerging around the Navy. The Naval War College, founded in 1884, would use information gathered by ONI in war planning during the 1890s. Naval officers writing and debating strategy could draw on a body of foreign technical and operational information that had been collected for institutional use rather than personal curiosity.
+
+Intelligence was moving closer to planning.
+
+That relationship would become one of the permanent tensions of the profession. Analysts need to understand the plans their work is supposed to inform. They also need enough distance to tell planners when the assumptions inside those plans are wrong. Intelligence that becomes merely an annex to planning can turn into confirmation. Intelligence that ignores planning can become beautifully accurate irrelevance.
+
+The first ONI did not solve that problem.
+
+It created a place where the problem could exist.
+
+By the time war with Spain arrived in 1898, the United States would have officers abroad, accumulated files, technical studies, and an organization expected to answer questions about a foreign fleet. The answers would not all be correct. That fact is more important than a triumphalist origin story.
+
+A permanent intelligence service does not abolish uncertainty.
+
+It makes uncertainty somebody's responsibility.
+
+That is what General Order No. 292 finally changed.
+
+The republic had spent a century improvising its secrets.
+
+In 1882, it gave them an office.
