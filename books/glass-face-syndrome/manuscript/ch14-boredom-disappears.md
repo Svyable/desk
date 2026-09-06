@@ -345,3 +345,85 @@ Neither is its elimination free.
 A culture that fills every seam teaches people that every seam needs filling.
 
 The glass face appears before the empty moment has even introduced itself.
+
+There is an economic reason the conquest of boredom feels more total than earlier media revolutions. The marginal cost of supplying one more unit of digital stimulation is often tiny compared with producing one more physical object or filling one more hour of broadcast schedule. A feed does not have to decide in the morning exactly what everyone will watch at 4:17 in the afternoon. It can assemble the next item when the moment arrives.
+
+That transforms boredom from a human state into a demand signal.
+
+The user opens the phone because nothing is happening.
+
+The system learns that nothing happening is a market.
+
+The better the system gets at serving that market, the less often nothing is allowed to happen long enough to remain unmonetized.
+
+This is not a secret plot. It is an ordinary business response to available demand. People want stimulation. Companies become good at supplying it. The fact that the supply has side effects does not make the desire fake.
+
+But markets can be efficient at satisfying an impulse without answering whether satisfying the impulse every time improves a life.
+
+Food markets learned this problem with abundance. Energy-dense food is useful. Cheap calories solve real scarcity. Once abundance arrives, the question changes from whether calories can be obtained to how a person and society manage continuous availability.
+
+Information and stimulation have crossed a similar threshold.
+
+The historical achievement is abundance.
+
+The new difficulty is appetite.
+
+There is a difference, however, between food and information that makes the smartphone problem stranger. Satiety places a physiological limit on eating, however imperfectly. Information has weaker stopping signals. A person can become exhausted without feeling finished because the next item remains novel.
+
+The anti-boredom machine therefore runs into an asymmetry.
+
+The supply can continue after the benefit has faded.
+
+That is the moment many users recognize as scrolling without enjoying. The activity began as relief. It continues as inertia. The person is no longer bored in the original sense because attention is occupied, but neither are they meaningfully engaged.
+
+This intermediate state deserves more attention.
+
+It is not pleasure.
+
+It is not boredom.
+
+It is occupied dissatisfaction.
+
+The smartphone is exceptionally capable of producing it because the threshold for changing content is lower than the threshold for ending content. If the current item is weak, swipe. If the whole experience is weak, stopping requires a different decision.
+
+The distinction seems small until repeated hundreds of times.
+
+A weak book may be put down because the object itself is failing to justify continuation. A weak feed can replace its own failure instantly. The next item receives the chance to redeem the previous one.
+
+Maybe the next one.
+
+The phrase is enough to keep the room open.
+
+This helps explain why time can disappear without strong memory of what filled it. The sequence was composed of fragments individually too slight to encode deeply. The user was occupied continuously while preserving little sense of a coherent episode.
+
+That texture is different from an evening spent watching a film, reading a novel, playing a complex game, or having a long conversation, even if the clock reports the same two hours.
+
+Again, duration is the wrong unit by itself.
+
+The difference is whether attention had an object long enough for experience to accumulate.
+
+Boredom sometimes performs a selection function here. If the alternatives are limited, a person may have to commit to one activity long enough for it to become interesting. A novel has time to deepen. A walk develops a rhythm. A difficult conversation gets past small talk. A hobby survives the first awkward attempts.
+
+The smartphone gives the first disappointing minute many competitors.
+
+That makes exploration easy and commitment harder to earn.
+
+The response should not be to abolish competition. Plenty of books are bad. Plenty of hobbies are wrong for us. Easy exit saves enormous time.
+
+The task is to distinguish discovery from permanent sampling.
+
+Discovery asks, what deserves more of me?
+
+Permanent sampling asks, what else is there?
+
+The infinite room is optimized for the second question because it always has an answer.
+
+A person trying to recover boredom is therefore not really trying to become bored.
+
+They are trying to recover the point at which the external menu goes quiet enough for preference to become audible.
+
+What do I actually want to do now?
+
+That question is slower than a feed.
+
+It may be worth the wait.
