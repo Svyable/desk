@@ -128,7 +128,7 @@ One makes better folklore.
 
 The other may tell us more about power.
 
-This becomes explicit in the next chapter on the 1810s, where the Kentucky rifle will be selected precisely because of the gap between memory and battlefield reality at New Orleans. American popular culture would celebrate frontier marksmen as the men who stopped the British. National Park Service research on the battle emphasizes the central role of artillery and prepared defenses. The myth is itself historically important because it helped attach military virtue to the independent American shooter.
+This becomes explicit in the chapter on the 1810s, where the Kentucky rifle will be selected precisely because of the gap between memory and battlefield reality at New Orleans. American popular culture would celebrate frontier marksmen as the men who stopped the British. National Park Service research on the battle emphasizes the central role of artillery and prepared defenses. The myth is itself historically important because it helped attach military virtue to the independent American shooter.
 
 Yorktown provides the earlier correction.
 
@@ -172,7 +172,51 @@ The cannon firing from the allied lines was not uniquely American. Much of the e
 
 That is a more durable story than the one about a perfect shot.
 
-It also travels better through the next 240 years.
+There is another way to see why the siege train deserves the decade, and it lies in the calendar of the bombardment rather than in the surrender ceremony.
+
+The allied armies arrived before the guns could do their decisive work. On September 28 the combined force moved from Williamsburg toward Yorktown. The British abandoned some outer positions the next day. Engineers then had to decide where to place the siege lines. Troops spent days making gabions and fascines, bundles and baskets of material that turned dirt into fortification. The first parallel was not opened until the night of October 6.
+
+The batteries were ready on October 9.
+
+That delay is the system becoming a weapon.
+
+Nothing about a cannon's barrel changed during those days. Its destructive potential existed from the moment it reached Virginia. What changed was the infrastructure around it. Men dug. Materials moved. Powder and projectiles were positioned. Firing locations were prepared so crews could operate under enemy fire. Lines of communication were established. The weapon became more capable because the battlefield was physically reorganized to support it.
+
+The National Park Service chronology records the French opening fire at three in the afternoon on October 9, followed by the first American gun around five. More batteries joined. French hot shot set the British ship Charon ablaze. The next day brought word that Clinton's relief force would take weeks, not days, to arrive. On October 11 the allies began the second parallel. On October 14 American and French assault troops captured Redoubts 9 and 10, allowing the siege line to close still farther.
+
+That infantry action belongs inside the artillery story.
+
+The redoubts were not trophies. They were obstacles to bringing the destructive system closer. Once taken, the new line let allied batteries fire at shorter range into the British defenses. A spectacular assault served a less cinematic purpose: improve the geometry for the guns.
+
+The British understood the danger. On October 16 they launched a sortie intended in part to spike allied cannon. The raid achieved too little and too briefly. By then Cornwallis was under point-blank artillery pressure, his fortifications were deteriorating, casualties were accumulating, and promised relief had not appeared.
+
+The siege train was not simply firing at men.
+
+It was destroying options.
+
+This is why the French fleet and the artillery should not be treated as rival explanations in a simple ranking. Naval power closed the larger box. Siege artillery made the box progressively smaller. Infantry captured the points required to tighten it. Logistics kept the mechanism running. Weather helped prevent escape. The victory emerged from the interaction.
+
+The chapter chooses the guns because they make that interaction visible in a single object class. An eighteen-pounder on a prepared battery is obviously useless without everything around it. Its dependence is impossible to pretend away.
+
+That lesson will become harder to see when American weapons grow more technologically impressive. A stealth aircraft can look self-sufficient in a photograph. It is not. A precision bomb can look intelligent. It is not. A rocket launcher can look like the weapon while the scarce item is actually the missile magazine, the targeting network, or the production line replenishing both.
+
+Yorktown gives the reader an advantage before the technology becomes seductive.
+
+Nobody mistakes a siege cannon for an autonomous actor.
+
+You can see the horses it needs.
+
+You can see the trench it needs.
+
+You can see the crew clustered around it.
+
+You can see the ammunition piled nearby.
+
+You can see the allies who brought expertise the Americans did not yet possess in enough depth.
+
+Two and a half centuries later, much of that dependency will move out of the frame.
+
+The principle will not.
 
 Again and again, the most important American weapon will turn out not to be the object with the most impressive specification. It will be the object that forces a larger system to appear around it.
 
