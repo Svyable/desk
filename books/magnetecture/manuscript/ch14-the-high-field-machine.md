@@ -118,6 +118,92 @@ The repetition across scales is not accidental.
 
 It is why magnetecture is a systems idea rather than a materials category.
 
+The force problem can be made more intuitive by thinking in terms of magnetic pressure.
+
+A magnetic field stores energy in space. As the field grows, that energy density grows roughly with the square of the field in vacuum. The mechanical structure has to react to forces associated with that stored field. Double the field and the structural challenge can grow far faster than a casual “twice as strong” intuition suggests.
+
+This is one reason high-field machines become structural engineering problems so quickly.
+
+A coil designer cannot simply reserve more current margin and solve stress afterward. The conductor may be strong in one direction and vulnerable in another. The supporting steel or composite can carry stress and reduce the fraction of the winding pack that is active superconductor. Add enough structure and the engineering current density—the current divided by the full structural cross section—falls.
+
+The high-performance material gets diluted by the structure needed to survive its performance.
+
+This is analogous to a rocket tank. A propellant with exceptional energy density is only useful after the mass of the tank, insulation, valves and structure is included. High-field magnets have their own packaging fraction.
+
+REBCO's tape geometry sharpens the problem. The superconducting layer is extremely thin compared with the full composite tape. Substrate and stabilizer exist to make the conductor manufacturable and survivable. Cabling many tapes together creates another hierarchy of mechanics and current sharing. The magnet is built from engineered composites long before it becomes a coil.
+
+That manufacturing hierarchy matters to cost.
+
+A laboratory can buy a modest length of exceptional conductor and build an insert magnet. A commercial system may require kilometers of tape with consistent critical current, mechanical properties and defects below a threshold. Yield across length becomes a system variable.
+
+A single weak section in a long conductor can limit the current of a much larger coil.
+
+This is why conductor quality maps can matter as much as average performance. Manufacturers and magnet builders need to know not only the nominal current capability but where local weak points sit and whether winding places them in dangerous stress or field orientations.
+
+The coil can be designed around the conductor's actual map rather than its datasheet average.
+
+That is another form of physical configuration management.
+
+Field quality introduces a different conflict. A conductor can carry extraordinary current and generate an imperfect field because current within the tape does not distribute exactly as a simple filament model assumes. Screening currents induced in wide superconducting tapes can create persistent magnetization that distorts the target field. In an accelerator or MRI magnet, small field errors can matter enormously even when the central field magnitude is excellent.
+
+The stronger conductor can create a more difficult precision problem.
+
+Solutions include winding geometry, conductor orientation, active correction and cycling protocols that reduce or characterize persistent-current effects. The magnet may need a commissioning history: ramp it through a sequence, measure the resulting field, update correction terms, and preserve those terms as part of operation.
+
+A high-field magnet has memory even when the application wants repeatability.
+
+Joints deserve similar attention because a conductor with near-zero resistance can be connected by a joint with nonzero resistance. In a large magnet, tiny resistive losses can become meaningful heat at cryogenic temperature. Persistent-current operation requires particularly good joints if the field must remain stable without a continuously powered supply.
+
+The weakest electrical interface can set the thermal budget.
+
+Cryogenics magnifies ordinary watts. Removing one watt at a deeply cryogenic temperature can require far more than one watt of electrical input at room temperature because refrigeration itself has finite efficiency and a large thermodynamic burden. A heat leak that would be trivial in room-temperature machinery can dominate a magnet's operating cost.
+
+This changes design priorities.
+
+A current lead from room temperature is not merely a wire. It is a thermal bridge. Mechanical supports are not merely structures. They conduct heat inward. Instrument wires, radiation and joints all create parasitic loads.
+
+The cryostat is part of the magnet.
+
+Modern cryocoolers can eliminate routine liquid-cryogen handling in some systems, changing maintenance and siting. They can also introduce vibration, electrical consumption and finite cooling capacity. A scientific instrument sensitive to vibration may care about a different cryogenic architecture than a power machine.
+
+Once again, “same field” does not mean same magnet.
+
+Quench protection becomes more difficult as energy density and conductor value rise.
+
+A traditional protection strategy detects a resistive voltage, triggers a dump or heater, and spreads energy so no small region overheats. With slowly propagating normal zones in REBCO, the warning signal can remain small while a hotspot grows locally. Protection therefore benefits from sensors that observe temperature or strain more directly and from winding architectures that allow current redistribution.
+
+But a more self-protecting magnet can be slower to charge or harder to control precisely.
+
+No-insulation windings illustrate this trade elegantly. Radial current paths can bypass a disturbance, yet during ramping some current takes shortcuts between turns rather than following the intended spiral immediately. The field can lag the power-supply current. A controller needs a dynamic model of current redistribution rather than assuming coil current is a single number.
+
+The magnet acquires an internal state the power supply cannot see directly.
+
+That is exactly the kind of hidden state the magnetecture control plane is meant to manage.
+
+For fusion magnets, maintainability becomes especially consequential. A reactor environment can expose components to neutron damage and activation. A coil that is theoretically compact but impossible to inspect or replace can impose enormous lifetime cost. Demountable joints, modular sectors and accessible cryogenic connections may sacrifice electrical elegance to improve maintainability.
+
+The best magnet is the one the plant can live with.
+
+For accelerators, reproducibility and field quality can dominate absolute field. A thousand magnets around a ring must behave consistently enough that a beam remains controlled. One record dipole is less important than a production process capable of building many magnets with predictable harmonics, alignment and training behavior.
+
+Scale changes from tesla to factory yield.
+
+MRI presents the same lesson through service. A hospital does not buy a superconducting material. It buys uptime, imaging quality, bore access, installation requirements and predictable maintenance. A magnet that demands specialized interventions too often can lose even if its field is technically superior.
+
+Commercialization converts material performance into serviceability.
+
+This is why compactness needs a more careful definition.
+
+A high-field coil may be smaller while its power supply, cryogenic plant, fringe-field exclusion zone or structural containment remains large. The useful metric is footprint of the complete installed capability.
+
+Sometimes a smaller core changes that complete footprint dramatically. Sometimes it does not.
+
+The same caution applies to fusion. A stronger magnetic field can reduce plasma dimensions in some designs and can move reactor economics in a favorable direction. It does not automatically shrink turbine systems, maintenance equipment, shielding, heat-rejection systems or grid connection. Compact fusion is compact in selected layers first.
+
+The field moves the bottleneck rather than abolishing it.
+
+That may still be transformational. Reducing one enormous bottleneck can make experimentation faster, financing easier or facilities more geographically flexible even if other systems remain large. Architectural progress does not require every subsystem to scale together.
+
 High-temperature superconductors may eventually make high fields cheaper, smaller and more accessible. Conductor manufacturing is improving. Field uniformity techniques are improving. Researchers continue developing prototype dipoles and insert magnets. But there is no law that says every application wants the strongest available field.
 
 Often the breakthrough will be enough field in a much smaller package.
