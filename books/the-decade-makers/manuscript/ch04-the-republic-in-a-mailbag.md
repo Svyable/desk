@@ -14,6 +14,42 @@ That policy was not neutral plumbing.
 
 A government that subsidizes the movement of newspapers is making a decision about the infrastructure of democracy. The Post Office allowed editors to exchange publications, spread political arguments, and reach readers at a cost the underlying geography would otherwise have made prohibitive. It helped turn distant events into common events.
 
+The price schedule reveals the policy more clearly than the rhetoric.
+
+Under the 1792 law, a newspaper sent to a subscriber cost one cent for a trip of up to one hundred miles and one and a half cents beyond that distance. Newspaper printers could exchange copies with one another without postage, making it cheap for editors to reprint news from other places.
+
+A single letter was far more expensive.
+
+Beginning in 1792, letter postage ranged from six cents for the shortest distance band to twenty-five cents for a letter traveling more than 450 miles. Rates changed in 1799, but the basic point remained: Congress priced political and commercial information differently depending on the form in which it traveled.
+
+The early republic did not create a neutral network and then watch content happen to flow across it.
+
+It subsidized one category of content because lawmakers believed circulation of news served republican government.
+
+The architecture of the network therefore contained a theory of citizenship.
+
+That theory was implemented at startling scale.
+
+In 1790, the national postal network contained only about seventy-five post offices and 1,875 miles of post roads. By 1800, it had 903 post offices and 20,817 miles of post roads. By 1810, the number of offices had climbed to about 2,300 and the road network to 36,406 miles.
+
+The 1800s were not merely a decade when Americans used the mail more often.
+
+They were a decade when the federal government nearly tripled the number of local nodes in a network that had already expanded enormously during the 1790s.
+
+That change altered what a “national” institution meant.
+
+A department in the capital can issue rules without being present in ordinary communities. A post office had a counter, a postmaster, a schedule, incoming and outgoing bags, and a place on a route. The federal system became locally visible through repeated service.
+
+The network’s reach did not mean the service was cheap for every use.
+
+Twenty-five cents for a long-distance letter could be significant relative to ordinary wages. Recipients often paid postage. People folded one sheet carefully because another sheet could increase the charge. Private correspondence therefore carried a much heavier price than subsidized newspapers.
+
+This created a striking asymmetry.
+
+The government made it cheaper for a citizen to receive a newspaper full of political arguments than to maintain a long personal correspondence with a distant relative.
+
+The distinction makes sense only if the Post Office is understood as civic infrastructure rather than a delivery company expected to price every item by cost alone.
+
 This mattered acutely in the first peaceful transfer of power between rival national parties.
 
 The election of 1800 is often told through Jefferson, Adams, Hamilton, Burr, and the Electoral College crisis. It was also an information contest. Partisan newspapers attacked opponents with a ferocity that makes nostalgia for a polite founding era difficult to sustain. Editors were political actors. Pamphlets and letters moved arguments across state lines. The federal government itself had used the Sedition Act against critics during the Adams administration.
@@ -21,6 +57,24 @@ The election of 1800 is often told through Jefferson, Adams, Hamilton, Burr, and
 A republic was discovering that mass politics required a distribution system.
 
 The Post Office supplied one.
+
+The editor-to-editor exchange rule created an early form of syndication without a syndicate.
+
+A newspaper in one city could receive papers from elsewhere, clip reports, arguments, foreign news, election results, speeches, advertisements, or letters, and reproduce them for local readers. The resulting information ecosystem could spread the same item far beyond the circulation of the newspaper in which it first appeared.
+
+The Post Office did not choose which paragraph should go viral.
+
+It lowered the cost of copying the source.
+
+That mechanism is institutionally important because it separated production from distribution.
+
+An editor did not need a correspondent in every town. The network itself created a pool of material from which editors could select. A report generated in Washington or Philadelphia could become local news in a distant place because newspapers moved among printers under rules designed to encourage exchange.
+
+Modern information networks often produce the same separation at different speeds.
+
+A platform does not need to create the article it ranks. A search engine does not need to write the page it indexes. A postal network did not need to produce the newspaper it subsidized.
+
+The power lies partly in controlling the terms under which other people’s information moves.
 
 The institution’s importance becomes clearer when we remember the country’s physical scale. Roads were slow and often poor. Rivers and coastal shipping connected some markets better than overland routes. A message that seems instantaneous in hindsight could spend days or weeks moving between political centers.
 
@@ -45,6 +99,12 @@ The Post Office also expanded federal presence westward. As settlers moved, post
 Infrastructure always draws a map of importance.
 
 Canals would do it. Railroads would do it. Highways would do it. Broadband would do it. The Post Office was an early national demonstration that network design creates winners and losers without passing a law that says who should win.
+
+The rapid increase in offices helps explain why postal patronage later became so politically valuable.
+
+Every new office created not only another network node but another federal appointment. The postmaster possessed local information, handled communications, met residents, and occupied a position that could confer status and income. As parties became more organized, a distributed service network became a distributed patronage network.
+
+Administrative scale generated political scale.
 
 The institution also became a patronage machine.
 
@@ -118,7 +178,7 @@ When it works often enough, strangers stop thinking about the question.
 
 That is institutional success.
 
-The system was far from frictionless. Delivery could be slow. Roads washed out. Contractors failed. offices opened and closed. political appointments affected competence. Yet the network became a stable fact of American life.
+The system was far from frictionless. Delivery could be slow. Roads washed out. Contractors failed. Offices opened and closed. Political appointments affected competence. Yet the network became a stable fact of American life.
 
 Its physical artifacts were modest compared with later infrastructure. A canal announces itself by cutting through land. A railroad shakes the ground. A highway pours concrete across neighborhoods. Postal infrastructure is partly organizational: routes, schedules, rates, contracts, sorting, appointments, addresses.
 
