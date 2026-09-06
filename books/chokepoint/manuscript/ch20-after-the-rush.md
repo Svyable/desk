@@ -144,35 +144,11 @@ Institutional memory does too.
 
 That is how a chokepoint becomes less absolute even when geology does not change.
 
-There is a temptation at the end of a book like this to announce a winner.
+No actor gets a permanent ending. China's processing ecosystem is formidable, and that dominance gives customers a reason to diversify. Allied subsidies can build alternatives without guaranteeing that every subsidized plant survives. Producer countries can bargain harder while buyers substitute, recycle, wait, or finance another route. Recycling can diversify feedstock and concentrate processing at the same time.
 
-China built the strongest refining position, so perhaps China wins. The United States and its allies are spending heavily on diversification, so perhaps they catch up. Producer countries are asserting more control, so perhaps leverage shifts toward the mine. Recycling grows, so perhaps the old map becomes irrelevant.
+The map keeps moving because everyone on it reacts.
 
-None of those endings survives contact with the system.
-
-China's processing ecosystem is formidable and difficult to reproduce, but dominance gives customers reasons to diversify. Allied subsidies can build capacity, but not all subsidized capacity will survive. Producer countries have leverage, but buyers can substitute, recycle, wait, or finance alternatives. Recycling will become more important and can itself concentrate. New technology can remove one mineral from a design and make another newly strategic.
-
-There is no final map.
-
-That is not a failure of prediction. It is the nature of a system whose participants respond to pressure.
-
-The oil age never settled into one permanent arrangement either. New fields appeared. OPEC changed strategy. Efficiency improved. Shale altered supply. Wars and sanctions rerouted trade. Strategic reserves were built and released.
-
-The useful skill was not memorizing one map of power.
-
-It was noticing when the map moved.
-
-Critical minerals demand the same habit with an added complication: materials can often be recovered, thrifted, substituted, or shifted into a different stage of the chain.
-
-Chokepoints are concentrations of geology, capability, capital, infrastructure, policy, and demand. Some begin in the crust. Many become powerful only because processing and manufacturing accumulate around them. They can last for decades.
-
-They can weaken when a second route becomes credible.
-
-Not every second route deserves to exist. Some are too expensive, too dirty, too small, too politically convenient, or dependent on the same hidden bottleneck.
-
-The point is not duplication for its own sake.
-
-It is optionality that works.
+The useful skill is noticing when it moves.
 
 The battery at the recycler is a small example. Its lithium does not remember whether it came from Chile, Australia, Argentina, or somewhere else. The material has already crossed the geopolitical map once. Now infrastructure determines whether it can cross again.
 
