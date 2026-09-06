@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |
-| **Status** | Complete first draft |
+| **Status** | Expanded first draft · deepening pass |
 | **Chapters** | 25 of 25 drafted |
 
 ## Contents
