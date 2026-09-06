@@ -20,13 +20,13 @@ That requires an evidence standard.
 
 Astrobiology has been forced to think unusually hard about standards because its most important claims are vulnerable to both excitement and scarcity.
 
-A possible biosignature may arrive before anyone can travel to the world that produced it. The data may be limited to light that crossed tens or hundreds of trillions of kilometers. A sample from another planetary body may contain structures or chemistry with several plausible histories. A single announcement can be heard by the public as “life discovered” even when the paper says something much narrower.
+A possible biosignature may arrive before anyone can travel to the world that produced it. The data may be limited to light that crossed interstellar space. A sample from another planetary body may contain structures or chemistry with several plausible histories. A single announcement can be heard by the public as “life discovered” even when the underlying paper says something much narrower.
 
-NASA scientists and the broader astrobiology community have spent years discussing how confidence in life-detection evidence should accumulate. One proposed approach, the Confidence of Life Detection scale, was offered as a proof of concept rather than a final law. Community workshops have emphasized a more general process: establish that the signal is real, identify what produced the measurement, investigate contamination and abiotic alternatives, ask whether biology could plausibly produce it in the observed environment, and seek independent lines of evidence.
+NASA scientists and the broader astrobiology community have spent years discussing how confidence in life-detection evidence should accumulate. One proposed Confidence of Life Detection framework was explicitly offered as a starting point rather than a final law. The larger lesson is more durable than any numbered scale: establish that the signal is real, identify what produced the measurement, investigate contamination and abiotic alternatives, ask whether biology could plausibly produce it in the observed environment, and seek independent lines of evidence.
 
-Even that effort has critics.
+Even that approach has critics.
 
-Some researchers have argued that a numerical confidence ladder can create false precision or be misused in public communication. Philosophers of astrobiology have pointed to the problem of unconceived alternatives: the strongest hypothesis in your current menu may still be wrong because the real explanation has not occurred to you.
+A confidence ladder can create false precision. Public communication can turn a provisional level into a verdict. Philosophers of astrobiology have emphasized the problem of unconceived alternatives: the strongest hypothesis in the menu may still be wrong because the real explanation has not occurred to us.
 
 These objections do not weaken the need for standards.
 
@@ -38,7 +38,7 @@ It can make overstatement harder.
 
 That is exactly what non-sapient intellect needs.
 
-The phrase has a built-in publicity problem. It sounds larger than many of the phenomena it is meant to describe. A bacterium changing its tumbling probability according to recent chemistry is a beautiful result, but “intellect” can make the result sound like a tiny philosopher. A regenerating tissue restoring anatomy is a remarkable control problem, but “goal” can make it sound as though the tissue contains an image of the body it intends to build. A machine finding a winning move can be genuinely competent while giving us no direct evidence about subjective experience.
+The phrase has a built-in publicity problem. It sounds larger than many of the phenomena it is meant to describe. A bacterium changing its movement according to recent chemistry is a beautiful result, but *intellect* can make the result sound like a tiny philosopher. A regenerating tissue restoring anatomy is a remarkable control problem, but *goal* can make it sound as though the tissue contains an image of the body it intends to build. A machine finding a winning move can be genuinely competent while giving us no direct evidence about subjective experience.
 
 The standard must therefore run against the seduction of the term.
 
@@ -60,6 +60,16 @@ The novelty is not in the rule.
 
 It is in applying the same rule to phenomena we are tempted to interpret differently because of how much they resemble us.
 
+Reproducibility also needs the right level of description.
+
+Suppose a slime mold sometimes creates an efficient path. Reproducing “something efficient-looking happened” is weaker than reproducing how network cost, redundancy, and route choice change when the environment changes.
+
+Suppose a microorganism reduces its response after repeated exposure. Reproducing reduced response is weaker than showing that the change is stimulus-specific, recovers after time, and cannot be explained by exhaustion or damage.
+
+Suppose an alien atmosphere varies after a stellar disturbance. Reproducing the variation is weaker than showing a repeatable relationship between the forcing, the history of the system, and a recovery trajectory that competing abiotic models fail to explain.
+
+A standard becomes useful when it says which part of the phenomenon must recur.
+
 The second requirement is history dependence that does causal work.
 
 Everything has a past.
@@ -75,6 +85,22 @@ A shape-memory alloy also has history-dependent response.
 That is why history dependence cannot stand alone.
 
 The counterexample is useful. It prevents the definition from becoming a synonym for hysteresis.
+
+A good evidence program therefore asks not simply whether the past matters, but how it matters.
+
+What physical variable carries the past forward?
+
+How long does it persist?
+
+Does manipulating that variable alter future response?
+
+Is the retained state relevant to a functional challenge, or is it merely a trace an outside observer can read?
+
+Does the system weight recent and older history differently?
+
+Can the stored state be overwritten?
+
+These questions turn “memory” from atmosphere into mechanism.
 
 The third requirement is selective correction under perturbation.
 
@@ -112,9 +138,15 @@ Repeat the challenge.
 
 The system’s response under failure tells us more than its performance under ideal conditions.
 
+A publication-friendly version of the argument would be tempted to call this “the intelligence test.” It is not one test. It is a family of interventions designed to separate a conditional controller from a passive trajectory.
+
+The distinction matters because every domain will require different perturbations. A tissue can be cut. A microbial network can be chemically altered. A machine can lose a sensor. An ecology can experience drought. A planet may only offer naturally occurring disturbances that telescopes happen to observe.
+
+The logic travels farther than the apparatus.
+
 The fourth requirement is a physically plausible information pathway.
 
-“Information” is one of the easiest words to abuse because everything in science can be described as containing information about something else.
+*Information* is one of the easiest words to abuse because everything in science can be described as containing information about something else.
 
 A tree ring contains information about past growth conditions. A spectrum contains information about the source that produced it. A fossil contains information about an organism. That does not mean the tree ring, spectrum, or fossil is processing information for its own purposes.
 
@@ -124,7 +156,7 @@ In bacterial chemotaxis, receptor modification participates in temporal comparis
 
 In immune memory, changed populations and molecular states participate in altered future response.
 
-In bacterial biofilms, electrical and chemical signaling can causally influence activity across spatially separated cells.
+In bacterial biofilms, electrical and chemical signaling can causally influence activity across separated cells.
 
 In engineered systems, stored parameters, sensor readings, internal state, and memory can influence later policy.
 
@@ -133,6 +165,14 @@ The substrate can differ radically.
 The causal requirement should not.
 
 If we cannot say how the retained state reaches the response, we may still have an interesting correlation, but we should not promote it into evidence of memory-like control yet.
+
+At extraterrestrial scales this requirement becomes difficult but not meaningless.
+
+A telescope may never identify the molecule carrying memory inside an alien organism. It may still constrain pathways at larger scales. If atmospheric response is the claimed output, models should identify which biological or geochemical fluxes could produce it, how quickly those fluxes can change, what energy and material budgets they require, and which environmental signals could plausibly drive the change.
+
+The information pathway can be modeled at the scale we can observe even when the microscopic implementation is unknown.
+
+A claim that skips that causal middle and jumps directly from “the atmosphere changed” to “the biosphere adapted” has not earned the word.
 
 The fifth requirement is performance relative to an explicit problem, not to our aesthetic sense of cleverness.
 
@@ -158,7 +198,13 @@ That is good.
 
 A precise small claim is worth more than an atmospheric large one.
 
-The sixth requirement is transfer or flexibility, when the claim implies more than a fixed adaptation.
+The criterion also prevents survival from becoming a universal excuse.
+
+It is easy to say that every organism is “trying to survive.” Natural selection does favor traits that contribute to reproductive success in particular environments, but that does not mean every short-term response should be evaluated against a vague global goal called survival. A bacterium moving up an attractant gradient has a nearer measurable function. A planarian regenerating a head has a morphological outcome. An immune response can be measured against pathogen control and physiological cost.
+
+Use the narrowest performance measure the experiment can actually support.
+
+The sixth requirement is transfer or flexibility when the claim implies more than a fixed adaptation.
 
 This criterion has to be used carefully because specialization is not failure. Many evolved systems are exceptionally competent within narrow domains. The immune system does not need to play chess. A bacterium does not need to solve mazes designed for rodents.
 
@@ -172,9 +218,25 @@ If we call a controller adaptive, can it find a new route when the familiar rout
 
 If we call a planetary pattern evidence of regulation, does the recovery trajectory change appropriately under different disturbances?
 
-Generalization is not required for every form of non-sapient intellect.
+Generality is not required for every form of non-sapient intellect.
 
 It is evidence about how broad the competence is.
+
+This suggests a useful way to report claims: as profiles rather than rankings.
+
+How much history does the system retain?
+
+How many perturbation types can it handle?
+
+How far does a learned change transfer?
+
+How many components coordinate?
+
+How quickly does performance degrade outside the familiar regime?
+
+What is the energetic cost?
+
+A profile keeps a specialized system from being called “less intelligent” simply because it is unlike a person, while also preventing a narrow success from being marketed as general intelligence.
 
 The seventh requirement is the serious construction of abiotic and noncognitive alternatives.
 
@@ -190,7 +252,7 @@ Physical networks can optimize flows without learning.
 
 Chemical reaction systems can oscillate, self-organize, and preserve state.
 
-A machine can produce goal-directed behavior because engineers built the goal into it.
+A machine can produce goal-directed behavior because engineers built the objective into it.
 
 None of these alternatives is an annoyance to be cleared away before the exciting interpretation begins.
 
@@ -199,6 +261,18 @@ They are the experiment.
 A claim earns confidence by surviving competitors.
 
 The phrase *unconceived alternatives* should remain uncomfortable. Even after every known false positive has been tested, an unknown one may remain. This is especially important when the observation is unprecedented. The more unlike our training data a world is, the less confident we should be that our catalog of alternatives is complete.
+
+This changes how evidence should be communicated.
+
+Instead of saying, “We have ruled out nonbiological explanations,” say which explanations were modeled and what assumptions those models require.
+
+Instead of saying, “Only life can do this,” say which known abiotic processes fail under the observed conditions and where the uncertainty remains.
+
+Instead of saying, “The system learned,” say what changed with experience and which fatigue, damage, sensitization, or fixed-response explanations were tested.
+
+The grammar becomes less exciting.
+
+The science becomes stronger.
 
 This is one reason a detection of life, intelligence, or non-sapient intellect is unlikely to arrive responsibly as a single decisive measurement.
 
@@ -218,7 +292,25 @@ A different measurement detects a consequence expected under the same hypothesis
 
 The claim becomes stronger not because one measurement grows louder, but because several measurements become harder to explain together under the alternatives.
 
-For non-sapient intellect, that means the remote astronomical case must be held to a higher bar than the terrestrial laboratory case.
+That leads to the eighth requirement: prediction before celebration.
+
+A good explanation should risk being wrong about the next observation.
+
+If we think a microbial community is coordinating through a particular channel, interrupting the channel should produce a specific failure.
+
+If we think a material’s apparent memory is simple hysteresis, changing the loading history should produce a predicted loop.
+
+If we think an atmosphere’s variation reflects a passive photochemical cycle, a change in stellar forcing should propagate according to the model’s timescales.
+
+If we think an adaptive biosphere contributes to the response, the living model should predict some feature the abiotic model does not.
+
+Prediction disciplines interpretation because it forces the hypothesis to leave the observation that inspired it.
+
+Many seductive stories are excellent at explaining what already happened.
+
+Fewer survive an appointment with the future.
+
+For non-sapient intellect, the remote astronomical case must be held to a higher bar than the terrestrial laboratory case.
 
 On Earth, we can manipulate a biofilm.
 
@@ -294,6 +386,22 @@ They are questions about control.
 
 A robotic mission could, in principle, ask some of them without ever trying to decide whether the organism has an inner life.
 
+The evidence hierarchy on such a mission would matter.
+
+First establish that the object or process is not contamination or instrument error.
+
+Then establish that the chemistry or structure is plausibly biological.
+
+Then characterize response over time.
+
+Then perturb when ethically and technically appropriate.
+
+Then identify retained state and communication pathways.
+
+Only after those steps should a comparative label such as non-sapient intellect enter the conversation.
+
+The label should summarize evidence, not substitute for it.
+
 This distinction matters ethically as well as scientifically.
 
 Competence does not settle moral status.
@@ -332,7 +440,7 @@ That is a real possibility.
 
 Perhaps future work will show that the similarities emphasized here are superficial.
 
-Perhaps “non-sapient intellect” will collapse into a loose collection of homeostasis, learning, distributed control, and self-organization, each better studied separately.
+Perhaps *non-sapient intellect* will collapse into a loose collection of homeostasis, learning, distributed control, and self-organization, each better studied separately.
 
 Perhaps the astronomical extension will prove observationally empty.
 
@@ -436,12 +544,14 @@ A consciousness claim should not be smuggled in by grammar.
 
 The veil does not lift all at once.
 
-We replace one kind of ignorance with a better question, then build an instrument capable of asking it.
+We replace one kind of ignorance with a narrower kind.
 
-That may be the only ending available to a book about intellect in the universe before we have detected any beyond Earth.
+That is what progress often looks like.
 
-It is enough.
+The first mistake was assuming intelligence had to know that it was intelligent.
 
-A detector does not have to know what it will find.
+The second would be assuming that, once we corrected the first mistake, everything interesting became intelligence.
 
-It only has to know what would count.
+The universe deserves a better detector than either assumption.
+
+So do we.
