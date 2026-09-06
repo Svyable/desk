@@ -367,3 +367,65 @@ Addiction is the wrong word when it turns every user into a patient and every pi
 It stops being obviously wrong when a person can no longer make their own intention stick despite serious consequences.
 
 The work is knowing which story we are in.
+
+A useful distinction comes from asking where the cost appears.
+
+If a person uses the phone for four hours and the use advances what they value, duration alone tells us almost nothing. If twenty minutes repeatedly displaces sleep, causes a crash risk, triggers uncontrolled spending, or destroys the same argument with a partner every night, the smaller number may matter more.
+
+Harm is not proportional to minutes.
+
+Neither is loss of control.
+
+This is why threshold thinking can mislead. There is no scientifically serious hour count after which an ordinary phone becomes an addictive substance. The relevant threshold is functional: when use begins overriding important intentions and continues despite costs the person themselves recognizes as significant.
+
+Even then, the phone may not be the right target.
+
+A person who compulsively checks work messages in an abusive workplace can remove the application and still have the abusive workplace. A teenager repeatedly refreshing social metrics may be responding to a peer environment that punishes disappearance. A person gambling through a phone may need gambling-specific safeguards and treatment. A person doomscrolling through acute anxiety may need help with anxiety as well as the feed.
+
+The hardware unifies the posture while hiding the diagnosis.
+
+That is why a clinical metaphor can become socially dangerous when applied too broadly. It encourages us to treat heterogeneous distress as one disease of modernity.
+
+The same mistake has appeared in earlier media panics. New technologies arrive, behavior changes visibly, and vocabulary from pathology rushes in before mechanisms are sorted. Sometimes the concern later proves justified in part. Sometimes the label obscures more than it clarifies. Usually the mature understanding becomes more specific than the panic.
+
+Specificity should be the ambition here.
+
+There is also a policy consequence. If regulators decide that “smartphones are addictive,” the object is too general to govern intelligently. The same device provides emergency communication, disability access, maps, authentication, social media, gambling, education, work, photography, and banking. Restrictions aimed at the container will create enormous collateral effects.
+
+If the concern is a particular design pattern, age group, commercial practice, or high-risk activity, the intervention can follow the risk.
+
+That is not regulatory weakness.
+
+It is regulatory competence.
+
+A child’s default notifications can differ from an adult’s.
+
+A gambling service can face controls that a calculator does not.
+
+An employer can be constrained in after-hours demands without disabling family messaging.
+
+A social platform can change public metrics without removing the camera.
+
+An operating system can make interruption permissions more granular without pretending every notification is harmful.
+
+The more precisely we name the mechanism, the less we need the magical claim that one rectangle explains everything.
+
+The cultural subtitle can remain broad because its subject is cultural dependence.
+
+Culture really did reorganize around the iPhone form.
+
+The scientific chapters have to remain narrow because people did not all reorganize in the same way.
+
+That tension is not a weakness in the book.
+
+It is the point.
+
+The world can be dependent without every person being disordered.
+
+A population can share infrastructure while vulnerability concentrates in particular people, products, ages, moments, and motives.
+
+The public argument becomes healthier once those statements can coexist.
+
+Then the word addiction stops functioning as a verdict.
+
+It becomes a question whose answer depends on what, exactly, the person cannot stop doing, why they keep doing it, and what happens when they try.
