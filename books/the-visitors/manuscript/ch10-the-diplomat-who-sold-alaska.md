@@ -146,6 +146,68 @@ Stoeckl’s treaty was about what the surviving United States might become.
 
 It shifted the map toward the Pacific and Arctic. It reduced European territorial presence in North America. It created a border with Russia’s future successor across the Bering region. It forced the United States to govern new Indigenous peoples and new distance. It became economically and strategically valuable in ways neither government could fully foresee.
 
+The purchase also reveals how diplomatic transactions are financed politically as well as monetarily. Senate approval was only part of the story. Congress had to appropriate the money. Ratification and payment were different institutional acts, especially in a period when the relationship between President Andrew Johnson and Congress was poisoned by Reconstruction conflict.
+
+A treaty can therefore be valid internationally and still depend on domestic institutions willing to fund performance.
+
+That distinction is easy to miss in stories that compress acquisition into a handshake and a check. The executive negotiates. The Senate consents. The House participates through appropriations. Political opponents can dislike the administration while still decide that the national bargain should be honored.
+
+Stoeckl’s success required navigating that fragmented sovereignty.
+
+He was unusually well positioned to do so because years in Washington had taught him that formal rank alone did not move the American system. Relationships, newspapers, congressional sentiment, social access, and timing mattered. A resident minister who understood the capital could help his government estimate not only what Seward wanted but what the broader political system might actually deliver.
+
+This is a form of diplomatic intelligence that disappears from treaty texts.
+
+The overnight bargaining gets the anecdote. The long residence gets the result.
+
+Russia’s willingness to sell also fits a wider logic of imperial portfolio management. Empires do not value every possession equally forever. A colony can be useful when its commerce is profitable or its strategic position defensible and become a liability when technology, rivalry, or fiscal pressure changes. Selling does not necessarily mean the seller has ceased to believe the territory has value. It can mean another asset is more valuable than the cost of holding this one.
+
+The Crimean War had already demonstrated Russia’s vulnerability to British and French maritime power. Russian America sat far from the empire’s main military centers and beside British North America. In another Anglo-Russian conflict, defending Alaska would have been difficult. If Britain could take the territory anyway, selling it to a country Britain might prefer not to strengthen could be a rational hedge.
+
+That logic makes the purchase less like a bargain-bin accident and more like an options trade under strategic uncertainty.
+
+Russia converted a vulnerable asset into cash and a friendlier North American balance. The United States purchased a distant option on Pacific and Arctic power. Neither side knew exactly what the option would pay.
+
+The price should also be read relative to alternative uses of public money. Seven-point-two million dollars was not nothing to a government emerging from civil war. Reconstruction, veterans’ obligations, debt, infrastructure, and ordinary administration all competed for resources. Critics could reasonably ask why a distant territory deserved funds when the domestic republic had enormous unfinished work.
+
+That question gives “Seward’s Folly” more dignity than hindsight usually allows.
+
+Opportunity cost is not foolishness.
+
+Every public investment looks obvious after the upside arrives and questionable before it does. A historically profitable purchase can still have been a debatable allocation at the moment of decision. Good history preserves the uncertainty that made the debate rational.
+
+The same applies to the label “cheap.” Comparing purchase price to later oil wealth commits a time-travel error. The future value depended on technologies, markets, legal institutions, infrastructure, military investment, and resource discoveries that did not yet exist. A barrel of oil under inaccessible ground is not equivalent to present revenue. A strategic air route has little value before aviation.
+
+Alaska became more valuable because Americans and the world built systems that made its location and resources useful.
+
+The bargain was partly discovered and partly created.
+
+American governance after the transfer illustrates the point. Sovereignty arrived faster than institutional capacity. Military administration and customs presence did not amount to a mature civil polity. Congress was slow to design government suited to the territory. Legal uncertainty affected commerce and residents. The gap between acquisition and incorporation exposed the limits of the same federal power whose wartime expansion had made the purchase possible.
+
+A state can be strong enough to buy territory and weak at governing it justly.
+
+For Alaska Native communities, that gap was not abstract. American authority brought new legal claims, missionaries, traders, military officials, commercial exploitation, and later schools and policies that disrupted Indigenous cultures and sovereignty. The transfer date can look clean in a diplomatic chronology while social conquest continues for decades.
+
+This is why territorial history cannot stop when the flag changes.
+
+The treaty transferred international title as recognized by the participating states. It did not settle every property right, Indigenous claim, social relationship, or question of political membership inside the territory. Those issues moved from foreign relations into domestic governance, where they could be ignored more easily by people far from Alaska.
+
+The same pattern appeared after earlier acquisitions. Florida became domestic and Seminole conflict intensified. Mexican territories became domestic and questions of citizenship, land title, slavery, and Native sovereignty followed. Expansion repeatedly converted international ambiguity into internal obligations.
+
+Stoeckl’s sale was therefore the beginning of an American administrative problem, not the end of a Russian diplomatic one.
+
+There is also a revealing counterfactual in the later Russian Revolution. Had Russia retained Alaska through 1917, the collapse of the imperial government would have raised extraordinary questions about a Russian possession separated from the rest of the country by the Pacific and British North America. Civil war, foreign intervention, and the emergence of the Soviet state could have produced a contested Arctic frontier on the North American continent.
+
+No 1867 negotiator could have predicted that sequence.
+
+The possibility simply demonstrates how the sale removed one future source of geopolitical instability from North America while creating another long-term fact: the United States and Russia would face each other across the Bering Strait rather than share a continental land frontier farther east.
+
+Later Cold War planners benefited from the geography and worried about it simultaneously. Alaska offered bases, surveillance, and defense depth while sitting close to Soviet territory. Strategic value is often the twin of strategic exposure.
+
+The purchase moved the United States closer to Asia as well as farther north. Seward’s Pacific imagination connected Alaska to a broader belief that American commerce would grow across the ocean. That vision helps place the acquisition beside later annexations and interventions in the Pacific without pretending the sequence was predetermined.
+
+Alaska was a bridge in imagination before it became one in logistics.
+
 The transaction is sometimes called the last great bargain of Manifest Destiny.
 
 That description fits if it is stripped of inevitability.
