@@ -52,6 +52,86 @@ The First Bank was a separate corporation, not simply a Treasury bureau. It is a
 
 The department gave the new federal government an operating system for money.
 
+The Panic of 1792 supplied an early live test of that operating system.
+
+The crisis began inside the financial architecture the new government had just helped create. Federal debt securities had become more credible and therefore more tradable. Shares connected to the new Bank of the United States attracted speculation. William Duer and other financiers borrowed heavily while attempting to profit from rising securities prices. Then credit tightened. Duer failed. Securities fell sharply. Banks became cautious precisely when merchants and speculators needed liquidity most.
+
+The panic is important because it strips away the difference between a financial plan and a financial institution.
+
+A plan says what should happen when markets are calm.
+
+An institution has to decide what to do on March 19 when a bank says it cannot safely lend and the next customs payment is coming due.
+
+Hamilton’s surviving correspondence shows the Treasury trying to keep the system from freezing without pretending bad debts were good ones.
+
+He wrote William Seton, cashier of the Bank of New York, that he had heard the bank was providing too little accommodation during the distress. Hamilton encouraged prudent lending and told Seton that the new New York branch of the Bank of the United States was expected to cooperate with his bank. He specifically suggested considering loans to parties who could pledge federal securities as collateral.
+
+The collateral mattered.
+
+Hamilton was not arguing that every borrower should be rescued. He was trying to distinguish a shortage of liquidity from a total absence of value.
+
+A market in public debt gave the Treasury something it could use as a bridge. Securities created to fund the Revolution could now support credit during a panic.
+
+The new fiscal system had begun to become financial infrastructure.
+
+Hamilton also used the government’s own cash-flow position to reduce pressure on banks. Merchants in New York had customs duties coming due. If the Treasury immediately swept those receipts away from the local banking system, a tax collection could intensify the liquidity shortage at exactly the wrong moment. Hamilton assured Seton that customs funds could remain in the bank for a period rather than being abruptly withdrawn.
+
+That maneuver is easy to miss because it does not look like a dramatic bailout.
+
+It was balance-sheet timing.
+
+The same dollars could be public revenue and private-bank liquidity depending on when the Treasury moved them.
+
+Hamilton communicated similarly with the Bank of the United States. He reminded its directors that merchants facing unusually large customs payments could use short-dated bank notes acceptable to the government and urged reasonable accommodation during the crisis.
+
+The Treasury was coordinating institutions that remained legally distinct.
+
+The Bank of New York had its own directors.
+
+The Bank of the United States had its own charter and balance sheet.
+
+Customs collectors had statutory duties.
+
+Merchants had taxes due.
+
+Holders of federal securities had private portfolios.
+
+The Treasury’s power came partly from seeing how the obligations connected.
+
+That is what a switchboard does.
+
+Government purchases of public securities added another tool. Through the statutory machinery for managing the public debt, officials could support the market by buying federal securities during distress. Modern economists have compared Hamilton’s response to an early form of lender-of-last-resort or crisis-management policy, although the institutional setting was far removed from a modern central bank.
+
+The comparison should not be pushed too far.
+
+There was no Federal Reserve. There was no deposit insurance. Securities markets were small by later standards. Hamilton was improvising with a Treasury, a few banks, customs flows, and federal debt instruments in a young republic.
+
+That is why the episode matters.
+
+The financial state had become just developed enough to intervene in a crisis produced partly by its own development.
+
+The episode also exposes the moral hazard problem almost immediately.
+
+If government stabilizes a market whenever speculation goes wrong, speculators may take larger risks. If it refuses to act because speculators deserve their losses, otherwise sound merchants and banks can be pulled into a liquidation spiral.
+
+The distinction between rescuing a market and rescuing a gambler is politically obvious and operationally difficult.
+
+Hamilton’s instinct was to preserve good collateral, functioning banks, and public credit without guaranteeing every private position.
+
+That is still the central argument of crisis finance.
+
+The Treasury’s success in 1792 was not that nobody lost money.
+
+Duer went to jail. Speculators failed. Prices fell.
+
+The institutional objective was narrower: prevent private failure from destroying the credit machinery on which the new public system depended.
+
+The panic therefore belongs in the same chapter as debt assumption and customs administration.
+
+Public credit was no longer only a promise that the United States would pay interest on time.
+
+It had become a set of instruments, banks, cash flows, and relationships that could be used to keep other promises functioning under stress.
+
 That operating system immediately created political opposition.
 
 The United States was not born with stable parties. The financial program helped divide political elites into emerging Federalist and Republican camps. Hamilton’s vision favored stronger national capacity, public credit, commerce, and a closer relationship between government and financial development. Jefferson and Madison feared concentrations of political and financial power, worried about the implications for republican society, and organized against the administration’s direction.
@@ -94,7 +174,7 @@ Because the decade’s scarce resource was not constitutional text. The country 
 
 The scarce resource was state capacity that people outside the government would trust enough to transact with.
 
-Creditors had to believe interest would be paid. Merchants had to know customs rules. foreign governments had to assess whether American obligations were serious. States had to understand how their debts fit into the federal system. Investors needed tradable instruments. Citizens had to encounter a government capable of turning legislation into administration.
+Creditors had to believe interest would be paid. Merchants had to know customs rules. Foreign governments had to assess whether American obligations were serious. States had to understand how their debts fit into the federal system. Investors needed tradable instruments. Citizens had to encounter a government capable of turning legislation into administration.
 
 Treasury sat at all of those intersections.
 
