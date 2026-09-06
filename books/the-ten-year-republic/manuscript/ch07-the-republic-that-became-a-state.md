@@ -12,31 +12,75 @@ The runner-up is the telegraph. Samuel Morse's famous 1844 demonstration between
 
 The story cannot begin in 1836 as if Texas appeared from nowhere.
 
-Under Spanish and then Mexican sovereignty, the region had long been inhabited by Native nations, Tejano communities, soldiers, ranchers, traders, and settlers. After Mexico won independence from Spain in 1821, its government sought to populate and develop the northern frontier partly through immigration. Empresario contracts brought settlers, many from the United States, into Mexican Texas.
+Under Spanish and then Mexican sovereignty, the region had long been inhabited by Native nations, Tejano communities, soldiers, ranchers, traders, missionaries, and settlers. The territory was not a vacuum waiting for American population. It was a borderland where multiple governments claimed authority and often possessed far less power on the ground than maps implied.
+
+Comanche power was central. The Comanche empire, as some historians have described the broad regional system of military, diplomatic, and commercial dominance, shaped movement and settlement across large parts of the southern Plains. Apache groups, Caddo peoples, Karankawa communities, and others had their own territories and strategies. Spanish and later Mexican governments negotiated, fought, traded, and attempted to settle a region where state sovereignty remained uneven.
+
+The American migration into Texas therefore entered an existing political world.
+
+After Mexico won independence from Spain in 1821, its government sought to populate and develop the northern frontier partly through immigration. Empresario contracts granted individuals the right to recruit and settle families under conditions set by Mexican authorities.
 
 Stephen F. Austin became the most famous empresario. Thousands of Anglo-American migrants followed. They entered a sovereign country with its own laws and political disputes, not an ungoverned extension of the United States.
 
+The settlers were expected to become Mexican citizens and to live under Mexican law. Some did so seriously. Others maintained stronger cultural, commercial, and political attachments to the United States. Spanish-language law, Catholic requirements, customs rules, and Mexican political institutions could feel distant or negotiable to migrants accustomed to a different system.
+
+Migration created facts on the ground faster than central government could integrate them.
+
+That pattern should already be familiar from earlier chapters. Settlers move first. legal institutions follow. then politics treats settlement as evidence of sovereignty.
+
 Slavery quickly became one of the central tensions.
 
-Mexico moved against slavery through national policy, while many American settlers in Texas came from slaveholding states and wanted to preserve enslaved labor. Legal workarounds and exemptions complicated the picture, but the underlying conflict was clear: a growing Anglo-American population carried economic practices and racial assumptions that did not sit comfortably inside Mexico's evolving legal order.
+Mexico moved against slavery through national policy, while many American settlers in Texas came from slaveholding states and wanted to preserve enslaved labor. Legal workarounds and exemptions complicated the picture. Some enslavers converted slavery contracts into long-term indenture on paper. local authorities and settlers resisted enforcement of antislavery provisions. The Mexican government itself changed policies under pressure.
+
+The underlying conflict remained clear: a growing Anglo-American population carried an economic system tied to human bondage into a country moving in another legal direction.
+
+Cotton made the conflict more than ideological.
+
+The soils and climate of eastern Texas offered plantation possibilities similar to Louisiana and Mississippi. American migrants brought enslaved people because land without labor did not generate the wealth they imagined. Enslaved people cleared forests, planted crops, built houses, cooked, raised children, tended livestock, and created the economic base of many settlements while having no political voice in the question of independence.
+
+The Texas story is often narrated through men discussing liberty while other people are legally property in the same settlements.
+
+That contradiction belongs at the center, not in a footnote.
 
 Political tension also grew over immigration restrictions, customs enforcement, local autonomy, and the centralization of power under President Antonio López de Santa Anna.
 
-It is tempting to reduce the Texas Revolution to either a heroic war for liberty or a slaveholders' conspiracy. Neither is sufficient.
+Mexico itself was politically unstable. Federalists and centralists fought over the structure of government. Several regions resisted centralization. The Texas Revolution occurred inside that wider constitutional crisis.
 
-Texian rebels included people with different motives. Some opposed Santa Anna's centralization and identified with Mexican federalist principles. Some wanted local self-government. Some had economic interests tied to land and slavery. Tejanos such as Juan Seguín fought against Santa Anna alongside Anglo settlers. The revolution occurred inside a broader Mexican political crisis, not simply as a racial border war between two already formed nations.
+This is why reducing the revolt to either a heroic war for liberty or a slaveholders' conspiracy fails.
 
-But slavery mattered, and later American memory often minimized it because the cleaner story was independence.
+Texian rebels included people with different motives. Some opposed Santa Anna's centralization and identified with Mexican federalist principles. Some wanted local self-government. Some had economic interests tied to land and slavery. Some had arrived recently and saw Texas primarily through American expansionist assumptions.
 
-In October 1835 armed conflict began. The siege and fall of the Alamo in March 1836 became the revolution's most famous episode, especially after nearly all of the defenders were killed. Days later, Mexican forces executed hundreds of captured Texian prisoners at Goliad. The events fed a powerful martyr narrative.
+Tejanos such as Juan Seguín fought against Santa Anna alongside Anglo settlers. José Antonio Navarro, a prominent Tejano political figure, supported independence and later annexation while also navigating a political order in which Anglo dominance increasingly marginalized Tejano citizens.
 
-The decisive battle came at San Jacinto on April 21, 1836, when forces under Sam Houston surprised and defeated Santa Anna's army. Santa Anna was captured. Agreements followed under disputed conditions, and Texas claimed independence.
+The revolution's coalition did not determine the social order victory produced.
+
+That distinction is important. Revolutions often unite factions against a common government. Once independence is won, the coalition discovers that it never agreed fully about the new state.
+
+In October 1835 armed conflict began.
+
+The siege and fall of the Alamo in March 1836 became the revolution's most famous episode, especially after nearly all of the defenders were killed. Later American memory turned the old mission into a shrine and converted the defenders into symbols of sacrifice.
+
+The symbol can obscure the strategic picture.
+
+The Alamo was one engagement in a wider campaign. Some defenders were recent arrivals. Mexican forces were fighting to restore national authority over a rebelling province. Tejanos fought on both sides of the conflict.
+
+Days after the Alamo, Mexican forces executed hundreds of captured Texian prisoners at Goliad. The events fed a powerful martyr narrative summarized in battle cries remembered from the war.
+
+The decisive battle came at San Jacinto on April 21, 1836.
+
+Forces under Sam Houston surprised and defeated Santa Anna's army in a short and violent attack. Santa Anna was captured. Agreements followed under disputed conditions, and Texas claimed independence.
 
 Mexico did not accept the Republic of Texas as permanently lost.
 
-That unresolved fact is crucial. For nearly a decade, Texas existed as an independent republic recognized by the United States and some foreign governments, while Mexico continued to reject its sovereignty and occasionally launched military incursions. The boundary Texas claimed at the Rio Grande was also disputed; Mexico considered the Nueces River farther north to be the boundary of Texas.
+That unresolved fact is crucial.
 
-Annexation would therefore import a live international dispute into the United States.
+For nearly a decade, Texas existed as an independent republic recognized by the United States and some foreign governments, while Mexico continued to reject its sovereignty and occasionally launched military incursions. The boundary Texas claimed at the Rio Grande was also disputed; Mexico considered the Nueces River farther north to mark the traditional boundary of Texas.
+
+The territory between the two rivers was not an abstract strip.
+
+Communities, ranches, and movement existed inside it. A border claim written by one government did not automatically become a fact for the people living there.
+
+Annexation would import that dispute into the United States.
 
 Texas wanted annexation early. The United States hesitated.
 
@@ -44,39 +88,75 @@ Why hesitate over territory in an expansionist country?
 
 Because Texas was politically radioactive.
 
-Admitting it would add a large slaveholding territory to the Union. Northern antislavery politicians feared the expansion of what they increasingly described as the “Slave Power.” Southern expansionists saw Texas as an opportunity to protect slavery and increase southern political weight. Mexico warned that annexation would be treated as an act of aggression. Presidents had to balance territorial ambition against sectional stability and the risk of war.
+Admitting it would add a large slaveholding territory to the Union. Northern antislavery politicians feared the expansion of what they increasingly described as the “Slave Power.” Southern expansionists saw Texas as an opportunity to protect slavery and increase southern political weight. Mexico warned that annexation would be treated as an act of aggression.
 
-Andrew Jackson, who recognized Texas near the end of his presidency, did not immediately secure annexation. Martin Van Buren avoided it. John Tyler, who became president after William Henry Harrison's death in 1841, made annexation a major objective.
+Presidents had to balance territorial ambition against sectional stability and the risk of war.
+
+Andrew Jackson, who recognized Texas near the end of his presidency, did not immediately secure annexation. Martin Van Buren avoided it in part because he feared war with Mexico and the domestic slavery controversy. John Tyler, who became president after William Henry Harrison's death in 1841, made annexation a major objective.
 
 Tyler had weak standing inside the Whig Party and little conventional political base. Texas offered both a national project and a potential legacy.
 
-His administration negotiated an annexation treaty in 1844. The Senate rejected it decisively.
+His administration pursued a treaty of annexation in 1844.
+
+The diplomatic campaign had a strongly sectional tone. Secretary of State John C. Calhoun, an outspoken defender of slavery, tied annexation to protection of southern slaveholding interests in official correspondence that made it harder for supporters to present Texas as a neutral national project.
+
+The Senate rejected the treaty decisively.
 
 That vote should have ended the project under the normal treaty route.
 
-Instead, annexation moved through ordinary legislation. Congress adopted a joint resolution requiring only majority approval in each chamber rather than the two-thirds Senate vote needed for a treaty. Tyler signed it in March 1845, shortly before leaving office. Texas accepted the offer, and President James K. Polk completed the process later that year.
+Instead, annexation moved through ordinary legislation.
 
-This procedural path mattered because it demonstrated the flexibility of American expansion. When one constitutional route failed, political actors found another.
+Congress adopted a joint resolution requiring only majority approval in each chamber rather than the two-thirds Senate vote needed for a treaty. Tyler signed it in March 1845, shortly before leaving office. Texas accepted the offer, and President James K. Polk completed the process later that year.
+
+This procedural path mattered because it demonstrated the flexibility of American expansion.
+
+When one constitutional route failed, political actors found another.
+
+Critics questioned whether Congress could constitutionally annex a foreign state through joint resolution rather than treaty. Supporters defended congressional authority and the political necessity of the route.
+
+The Constitution did not contain a clause saying exactly how an independent republic should be absorbed.
+
+The precedent was improvised.
+
+American growth repeatedly depended on constitutional improvisation. Jefferson had stretched his own strict-construction principles for Louisiana. Texas showed another generation doing the same when geography presented an opportunity too valuable to lose.
 
 The annexation also became entangled with the election of 1844.
 
-Polk, a Democrat and expansionist, defeated Whig candidate Henry Clay. The campaign involved Texas and Oregon, tariffs, slavery, party loyalties, and regional interests. Polk's victory was later read as a mandate for expansion. His administration would act accordingly.
+Polk, a Democrat and expansionist, defeated Whig candidate Henry Clay. The campaign involved Texas and Oregon, tariffs, slavery, party loyalties, and regional interests. Polk's victory was later read by supporters as a mandate for expansion.
+
+His administration would act accordingly.
 
 The ideology that came to be called Manifest Destiny gave moral language to that expansion.
 
-The phrase, popularized in 1845 by journalist John L. O'Sullivan, suggested that continental expansion was not simply advantageous but providential—a fulfillment of national destiny tied to the spread of American institutions. It converted strategic appetite into historical inevitability.
+The phrase, popularized in 1845 by journalist John L. O'Sullivan, suggested that continental expansion was not simply advantageous but providential—a fulfillment of national destiny tied to the spread of American institutions.
+
+It converted strategic appetite into historical inevitability.
 
 Inevitability is one of empire's favorite alibis.
 
-If expansion is destiny, then people already living on desired land become obstacles to a future that has supposedly already been decided. Native sovereignty, Mexican sovereignty, and local political rights can then be treated as temporary complications rather than competing claims.
+If expansion is destiny, then people already living on desired land become obstacles to a future supposedly already decided. Native sovereignty, Mexican sovereignty, and local political rights can be treated as temporary complications rather than competing claims.
 
 Texas made that logic tangible.
 
-The Republic of Texas had its own government, debt, diplomacy, military problems, and internal politics. It also had a population that included enslaved Black people, free Black people under legal restrictions, Tejanos whose status shifted amid Anglo political dominance, and Native nations confronting settlement and warfare.
+The Republic of Texas had its own government, debt, diplomacy, military problems, currency, land policy, and internal politics. It struggled financially. It sought recognition and loans. It negotiated with foreign powers. It fought Native nations and Mexico while attempting to administer an enormous claimed territory with a relatively small population.
 
-Annexation did not simply attach acreage. It absorbed these social conflicts into the United States.
+Independence was expensive.
 
-Slavery was written deeply into the Republic of Texas. Its constitution protected slavery and restricted emancipation. Enslaved labor expanded with cotton production as migrants from the American South arrived. Annexation therefore promised not merely another slave state but the possibility of carving additional slave states from Texas under terms contemplated by the annexation resolution.
+That economic weakness helped make annexation attractive.
+
+Joining the United States offered access to a stronger fiscal and military state. American assumption of Texas's public debt became part of later boundary settlements. U.S. troops could defend the republic's claims more effectively than Texas forces alone.
+
+Annexation was therefore not simply America grabbing land.
+
+It was also Texas choosing a larger state because sovereignty had costs.
+
+Those costs were distributed inside the republic.
+
+Texas's population included enslaved Black people, free Black people under legal restrictions, Tejanos whose status shifted amid Anglo political dominance, and Native nations confronting settlement and warfare.
+
+Slavery was written deeply into the Republic of Texas. Its constitution protected slavery and restricted emancipation. Enslaved labor expanded with cotton production as migrants from the American South arrived.
+
+Annexation therefore promised not merely another slave state but the possibility of carving additional slave states from Texas under terms contemplated by the annexation resolution.
 
 That possibility magnified northern fear.
 
@@ -84,21 +164,33 @@ The Missouri Compromise had managed the Louisiana Purchase with a geographic rul
 
 The border was equally explosive.
 
-Texas claimed the Rio Grande as its southern boundary. Mexico maintained that Texas extended only to the Nueces. The land between the two rivers became a disputed zone. When the United States annexed Texas, it effectively adopted Texas's territorial claim.
+Texas claimed the Rio Grande as its southern boundary. Mexico maintained that Texas extended only to the Nueces. The land between the two rivers became a disputed zone.
+
+When the United States annexed Texas, it effectively adopted Texas's territorial claim.
 
 Polk also wanted California and New Mexico.
 
-Diplomacy with Mexico failed. In 1846, U.S. troops under General Zachary Taylor moved into the disputed area near the Rio Grande. Mexican forces attacked an American patrol. Polk told Congress that Mexico had shed American blood on American soil.
+He sent diplomat John Slidell to Mexico in an effort to resolve claims and negotiate possible territorial purchases. The mission failed amid Mexican political turmoil and hostility to the loss of Texas.
+
+Polk then ordered U.S. troops under General Zachary Taylor to move from the Nueces toward the Rio Grande.
+
+The decision placed American and Mexican forces in the disputed area.
+
+In April 1846 Mexican forces attacked an American patrol north of the Rio Grande. Polk told Congress that Mexico had crossed the boundary of the United States, invaded American territory, and shed American blood on American soil.
 
 Whether the soil was unambiguously American was precisely the question.
 
 Congress declared war.
 
-Annexation did not make war mathematically inevitable. Political choices intervened at every step. Polk could have handled the border differently. Mexico's government had its own instability and strategic choices. Negotiations might have produced another path. But absorbing Texas made the disputed border a U.S. dispute and placed American and Mexican forces in direct confrontation.
+Annexation did not make war mathematically inevitable. Political choices intervened at every step. Polk could have handled the border differently. Mexico's government had its own instability and strategic choices. Negotiations might have produced another path.
+
+But absorbing Texas made the disputed border a U.S. dispute and placed American and Mexican forces in direct confrontation.
 
 That is causal reach.
 
-The war would produce an even larger territorial transfer in the Treaty of Guadalupe Hidalgo, the subject of the next chapter. California, New Mexico, and vast western lands would come under U.S. control. The slavery question would return with enormous force because Americans had to decide whether the institution could expand into territory acquired from Mexico.
+The war would produce an even larger territorial transfer in the Treaty of Guadalupe Hidalgo, the subject of the next chapter. California, New Mexico, and vast western lands would come under U.S. control.
+
+The slavery question would return with enormous force because Americans had to decide whether the institution could expand into territory acquired from Mexico.
 
 Texas therefore functioned as a hinge between two expansions: the acquisition of one republic and the conquest of a much larger western domain.
 
@@ -116,11 +208,23 @@ The United States had a larger population, stronger fiscal capacity, expanding c
 
 Power translated ideology into territory.
 
-Texas also transformed the status of Tejanos who had supported the revolution. Some had fought for independence from Santa Anna expecting a plural political order in which they would remain citizens and landholders. As Anglo migration increased, many Tejano families faced violence, discrimination, political marginalization, and challenges to land titles.
+Texas also transformed the status of Tejanos who had supported the revolution.
 
-A revolution can include people in the founding coalition and exclude them from the society that victory produces.
+Some had fought for independence from Santa Anna expecting a plural political order in which they would remain citizens and landholders. As Anglo migration increased, many Tejano families faced violence, discrimination, political marginalization, and challenges to land titles.
 
-The same is true of Native peoples. Comanche power shaped Texas for decades. The Republic of Texas pursued policies ranging from diplomacy to war against Native nations. Annexation brought U.S. military and administrative resources into those conflicts, eventually contributing to the erosion of Indigenous control across the southern Plains.
+The revolution's founding coalition did not protect equal status after victory.
+
+This pattern would recur in California and New Mexico after the Mexican Cession. Formal treaty rights and citizenship promises entered legal systems where language, money, race, and access to courts determined how much those promises were worth.
+
+A revolution can include people in the founding moment and exclude them from the society the victory produces.
+
+Native peoples experienced an even more direct expansion of state power.
+
+The Republic of Texas pursued policies ranging from diplomacy to war against Native nations. President Sam Houston generally favored negotiation more than his rival Mirabeau Lamar, whose administration pursued aggressive campaigns and removal policies.
+
+The contrast shows that expansionist outcomes were not inevitable in every detail. Leaders made choices about violence, treaty, trade, and settlement.
+
+Annexation brought U.S. military and administrative resources into those conflicts, eventually contributing to the erosion of Indigenous control across the southern Plains.
 
 Again, a boundary change on a national map contained multiple local wars over sovereignty.
 
@@ -130,9 +234,15 @@ On May 24, 1844, Samuel Morse sent a message from the U.S. Capitol to Alfred Vai
 
 The consequences would be enormous.
 
-News agencies emerged. Commodity prices could move between cities rapidly. Railroads used telegraphy for coordination and safety. Military commanders gained new possibilities for control. Political information nationalized. Financial markets became more tightly connected. The telegraph helped create a country in which events could become national experiences before physical participants could travel between regions.
+News agencies emerged. Commodity prices could move between cities rapidly. Railroads used telegraphy for coordination and safety. military commanders gained new possibilities for control. political information nationalized. financial markets became more tightly connected.
+
+The telegraph helped create a country in which events could become national experiences before physical participants could travel between regions.
 
 It changed what distance meant.
+
+The technology would eventually alter the meaning of the federal state itself. Washington could receive information faster. military command could extend farther. companies could coordinate branches. election news could move across states in hours rather than days.
+
+The continental republic was acquiring a nervous system.
 
 If this book were about technological systems rather than the political construction of the republic, the telegraph might take the decade.
 
@@ -144,17 +254,25 @@ The telegraph changed the speed at which the country communicated about its conf
 
 Texas changed the conflicts themselves.
 
-The annexation also revealed a deeper shift in American confidence. In 1803, Jefferson had worried that purchasing Louisiana might exceed constitutional authority. By 1845, expansion had become a positive political ideology. The question was no longer simply whether the United States could constitutionally acquire land. It was whether the country should stop before reaching the Pacific.
+The annexation also revealed a deeper shift in American confidence.
+
+In 1803, Jefferson had worried that purchasing Louisiana might exceed constitutional authority. By 1845, expansion had become a positive political ideology. The question was no longer simply whether the United States could constitutionally acquire land.
+
+It was whether the country should stop before reaching the Pacific.
 
 That change in expectation matters.
 
 Countries often expand first in imagination. Once a territorial future becomes normal in political speech, refusing the next acquisition can be framed as weakness rather than restraint.
 
-The Oregon boundary dispute with Britain showed the same mood. Expansionists demanded the whole Oregon Country with the slogan “Fifty-four Forty or Fight,” though the eventual agreement compromised at the forty-ninth parallel. Polk was willing to negotiate with Britain while taking a harder line toward Mexico, a choice reflecting the relative power of the two adversaries.
+The Oregon boundary dispute with Britain showed the same mood. Expansionists demanded the whole Oregon Country with the slogan “Fifty-four Forty or Fight,” though the eventual agreement compromised at the forty-ninth parallel.
+
+Polk was willing to negotiate with Britain while taking a harder line toward Mexico, a choice reflecting the relative power of the two adversaries.
 
 Destiny proved negotiable when the opponent was strong enough.
 
-Texas also demonstrates how domestic political institutions can make foreign policy an extension of sectional conflict. Southern support for annexation was inseparable from slavery for many politicians. Northern opposition often mixed antislavery principle with fear of southern political power. The future of a foreign republic became a Senate balance question.
+Texas also demonstrates how domestic political institutions can make foreign policy an extension of sectional conflict.
+
+Southern support for annexation was inseparable from slavery for many politicians. Northern opposition often mixed antislavery principle with fear of southern political power. The future of a foreign republic became a Senate balance question.
 
 That pattern would recur. Foreign wars and territorial acquisitions repeatedly alter domestic political coalitions because new land creates new voters, states, economic interests, and legal questions.
 
