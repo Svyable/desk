@@ -209,3 +209,55 @@ The past is acting and consciousness is late to the meeting.
 The body does not merely remember what happened.
 
 It rehearses what is likely to happen again.
+
+But rehearsal does not simply carve one permanent groove. Remembering itself can become another event in the history of the system.
+
+Research on memory reconsolidation has made that point especially important. The details remain an active scientific subject, and it would be a mistake to summarize the literature as “every memory is rewritten every time it is recalled.” The narrower lesson is enough for this book: under some conditions, a retrieved memory can become modifiable before it is stabilized again. Remembering can participate in changing what will later be remembered.
+
+That complicates the archive metaphor even further.
+
+A file in a cabinet can be read without altering the paper. A living memory can be influenced by the act of retrieval, by new context, by later information, and by the state in which recall occurs. The history of the memory includes some of its own uses.
+
+This is another kind of feedback.
+
+Imagine a story told at family gatherings for twenty years. Each telling is shaped by what listeners already know, what has become funny, what has become embarrassing, who is now absent, and which detail makes the room respond. The narrator is not necessarily lying. The story is living inside a social retrieval environment. Repetition can stabilize some elements precisely because they are repeatedly rehearsed while allowing others to fade.
+
+The family memory becomes more coherent as the original event becomes more distant.
+
+That sentence should make us cautious whenever repeated testimony is treated as a simple stack of independent observations. Several people can remember together. They can also influence one another's memory. Agreement may increase because the group has repeatedly reconstructed the event in common.
+
+Again, this does not mean shared memories are false. It means their causal history matters.
+
+The same point appears in skill learning. Practice transfers unevenly. A pianist who masters one passage does not automatically gain equal fluency on every passage with the same notes. A person can become excellent at a familiar route and still struggle in a new city. Expertise often combines general structure with highly specific adaptation.
+
+This specificity is useful for testing broad claims about resonance.
+
+If repeated experience simply strengthens “similar patterns,” how narrow is similar? Does learning transfer to a changed context, a changed sensory cue, a changed sequence, or only the practiced configuration? Ordinary learning gives us a detailed baseline in which transfer can weaken sharply when the relevant structure changes.
+
+A proposed additional memory mechanism should do more than predict improvement. It should predict the pattern of generalization.
+
+That is a much harder test.
+
+The body also forgets selectively. Skills become rusty. Details disappear. A previously automatic action can require conscious reconstruction after years away. Yet relearning is sometimes faster than initial learning because some altered readiness survived even when fluent performance did not.
+
+This distinction between performance and retained disposition matters. Failure to produce a behavior today does not prove every trace of prior learning is gone. Conversely, fluent performance does not tell us which trace carried the skill forward. The visible action is an endpoint produced by several hidden states.
+
+That is why “memory” should not be treated as a single quantity.
+
+There are memories that can be described, memories that appear as skill, memories expressed as physiological readiness, memories distributed into tools and environments, and histories that survive only as changes in what becomes easy or difficult. They overlap without being interchangeable.
+
+Morphic resonance enters a world already crowded with these layers.
+
+The scientific question is not whether a later organism acts as though the past matters. It almost certainly does, through many channels. The question is whether an influence remains after the relevant states have been measured, randomized, separated, and controlled.
+
+The body makes that test demanding because the body is not a blank receiver waiting to reveal a field.
+
+It arrives rehearsed.
+
+It arrives partially forgotten.
+
+It arrives with some histories accessible to consciousness and others visible only in performance.
+
+That is not a flaw in the experiment.
+
+It is the phenomenon any deeper theory has to beat.
