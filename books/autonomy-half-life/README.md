@@ -4,6 +4,12 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
+| **Format** | Book |
+| **Publisher** | Svyable |
+| **Edition** | First edition |
+| **Language** | English |
+| **Draft date** | 2026-09-05 |
+| **Candidate date** | 2026-09-06 |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters**  | 20 of 20 drafted |
@@ -41,8 +47,10 @@ The argument applies to AI agents, corporate delegation, emergency powers, milit
 - [x] [Ch 20 — The Right to Continue](manuscript/ch20-the-right-to-continue.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
-## Research
+## Research and publication trail
 
 - [Research brief](research/README.md)
 - [Chapter briefs](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
+- [Publication checklist](research/publication-checklist.md)
