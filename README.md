@@ -9,7 +9,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 107 book projects · 52 complete drafts · 2 in revision · 53 drafting**
+> **Desk: 108 book projects · 52 complete drafts · 2 in revision · 54 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -169,6 +169,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Longevity Moment**](books/the-longevity-moment/) | ✅ Complete draft | 22 of 22 + 3 interludes | 58,887 | The book calls this anticipatory longevity. It is not a prediction that everybody will live to 120. The scientific chapters explicitly preserve uncertainty around aging biology and… | [Read →](https://svyable.github.io/desk/reader/#/b/the-longevity-moment/) |
 | [**The Measure of Good**](books/the-measure-of-good/) | ✍️ Drafting | 16 of 18 | 55,422 | A book about metrics, judgment, and the point where measurement stops and moral choice begins. | [Read →](https://svyable.github.io/desk/reader/#/b/the-measure-of-good/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | 22 of 22 | 66,547 | The working thesis is that this is a repricing event of the kind societies have handled badly before: correctly recognizing that something fundamental has changed while mispricing the… | [Read →](https://svyable.github.io/desk/reader/#/b/the-mortality-discount/) |
+| [**The Murder That Mattered Most**](books/the-murder-that-mattered-most/) | ✍️ Drafting | 26 of 26 | ~70,000 | The premise is deliberately arguable. For each calendar decade from the 1770s through the 2020s, the book chooses the killing whose consequences traveled furthest through American life. | [Read →](https://svyable.github.io/desk/reader/#/b/the-murder-that-mattered-most/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | 25 of 25 | 90,311 | The book's central claim is deliberately operational rather than metaphysical: persistent intelligence is a durable causal identity, not necessarily a durable cognitive process. | [Read →](https://svyable.github.io/desk/reader/#/b/the-never-ending-intelligence/) |
 | [**The Orphan Age**](books/the-orphan-age/) | ✅ Complete draft | 20 of 20 | 49,039 | The central argument of The Orphan Age is that abundance creates a new class of externality: orphan load. | [Read →](https://svyable.github.io/desk/reader/#/b/the-orphan-age/) |
 | [**The Potentiality**](books/the-potentiality/) | ✍️ Drafting | Front matter; 35 chapters planned | 894 | Working manuscript in Sven Hardy Benson’s Desk. | [Read →](https://svyable.github.io/desk/reader/#/b/the-potentiality/) |
