@@ -297,3 +297,31 @@ The reactor next door is not merely a source of electricity for the data center.
 The data center may be the reason the reactor exists.
 
 And once the reactor exists, it belongs to the physical future of the grid long after the server generation that justified it has been replaced.
+
+The most valuable nuclear option may therefore be neither “build a new reactor” nor “do nothing.” It may be preserving and upgrading **option-rich nuclear sites** while demand becomes clearer.
+
+An operating plant can pursue life-extension investment. A site can study uprates. A retired site can preserve enough of its workforce, records, grid connection, security boundary, and physical infrastructure that a restart remains possible rather than becoming prohibitively difficult. None of this guarantees a future project. It keeps the option from decaying unnecessarily.
+
+That distinction matters because nuclear optionality disappears unevenly. A shuttered server hall can be repurposed quickly. A nuclear workforce that disperses, specialized equipment that is removed, licenses that lapse, and supply relationships that vanish can make a later restart dramatically harder. The option has maintenance costs even when no one has decided to exercise it.
+
+Data-center demand changes the value of paying those maintenance costs.
+
+A utility or plant owner that once saw only an aging asset can now ask whether the site has strategic value as one of a limited number of places where hundreds of megawatts of firm low-carbon generation can plausibly exist on a known grid connection. That does not justify keeping every uneconomic plant alive indefinitely. It just means the abandonment decision should account for the value of a future buyer whose demand profile did not exist when the plant first became marginal.
+
+The same logic applies to the grid interconnection around the plant. A retired generation site often sits at a point where the transmission system was designed to move a large quantity of power. Reusing that node for a restart, a new generator, storage, or even a nearby data center can be easier than creating an equivalent connection in a greenfield location.
+
+The asset is not only the reactor.
+
+It is the **electrical address**.
+
+This is one reason the data-center boom may produce a map of reuse alongside a map of new construction. Old coal sites, retired industrial facilities, nuclear stations, and other electrically important locations can become valuable because their grid relationships already exist. The fastest path to new digital infrastructure may run through places built for the old industrial economy.
+
+That is a better kind of continuity than nostalgia. The point is not to preserve every legacy asset because it is old. It is to recognize which parts of the old system are expensive to recreate and still useful under a new demand regime.
+
+Nuclear makes that principle impossible to ignore because so much value is embedded in the site before a single new megawatt is produced.
+
+The data center changes the demand case.
+
+The existing site changes the supply clock.
+
+The best projects will be the ones where those two facts meet without pretending either side has eliminated the other’s risk.
