@@ -513,3 +513,169 @@ That is the longevity moment.
 The calendar does not get longer on that day.
 
 The future does.
+
+There is a temptation at the end of a book like this to turn the argument into a checklist.
+
+Save more. Retrain. Move earlier. Exercise. Write the documents. Buy flexibility. Question age rules. Keep the house adaptable. Build the second career before the first one collapses.
+
+Some of that advice may be useful. It also risks returning the burden to the individual precisely where the book has argued that institutions matter.
+
+A person cannot personally create a labor market that hires older workers. She cannot build a transit network, rewrite pension law, make a university affordable, guarantee accessible housing, or conjure paid caregiving out of a depleted household budget. Private preparation can reduce exposure. It cannot substitute for public design.
+
+The longevity moment is therefore not a personal-responsibility moment disguised as futurism.
+
+It is a coordination problem.
+
+Individuals make plans using the options institutions make available. Institutions make rules using assumptions about how individuals will behave. When the assumptions age faster than the people, both sides become trapped in a loop. The person stays in the job because insurance is there. The employer interprets staying as evidence that people prefer linear careers. The university serves young full-time students because older adults rarely enroll. Older adults rarely enroll because the university is designed around young full-time students. The housing market builds for the household that can finance what is already common. Households adapt privately because better alternatives remain scarce.
+
+A long-life society has to interrupt these loops somewhere.
+
+Often the interruption is less dramatic than a new institution. It is a rule that stops erasing prior progress.
+
+A credential can stack rather than expire.
+
+A benefit can travel rather than reset.
+
+A pension can allow partial claiming without turning work into a contradiction.
+
+A zoning code can permit a smaller home inside the same community.
+
+A professional license can offer a realistic path back after caregiving.
+
+A transit system can preserve access after driving ends.
+
+A hiring process can examine current ability rather than infer future tenure from age.
+
+The common feature is continuity through change.
+
+That is the property the old three-stage life often provided accidentally. When education happened once, career happened once, housing changed predictably, and retirement happened once, continuity did not need much architecture. The stages themselves supplied it. The school handed the person to the employer. The employer handed the person to the pension. The pension handed the person to retirement.
+
+The handoffs were crude and exclusionary, but they were legible.
+
+A multistage life creates more handoffs.
+
+Every handoff becomes a place where rights, savings, identity, status, skill, and social connection can be lost.
+
+This is why the real cost of longevity is not simply financing more years.
+
+It is financing more transitions without forcing people to start over each time.
+
+That cost can be measured in money, but also in paperwork, uncertainty, stigma, lost seniority, fragmented care, repeated proof, and the emotional exhaustion of becoming a beginner in systems that are designed to reward uninterrupted participation.
+
+The wealthy can buy continuity. They can hire an adviser who remembers the tax history, a lawyer who preserves the estate plan, a coach who translates credentials, a concierge service that coordinates care, a contractor who changes the house, a car service that replaces driving, a private program that welcomes midcareer students.
+
+Everyone else relies more heavily on institutional memory.
+
+When that memory fails, the person pays.
+
+This gives the book a harder standard for judging reform. It is not enough for a new option to exist. The option has to preserve enough accumulated state that ordinary people can use it.
+
+A reskilling program that requires leaving paid work for two years is technically an option and practically unavailable to many adults.
+
+A phased-retirement policy that strips benefits is technically flexible and economically coercive.
+
+An accessible apartment thirty miles away is technically housing supply and socially a forced relocation.
+
+An online medical portal is technically access and can become another barrier if the person cannot use it reliably.
+
+A long future full of nominal choices can still be a narrow life.
+
+The quality of the transition matters more than the number of buttons on the menu.
+
+There is also a cultural transition the book has only partly named: the loss of the idea that adulthood eventually settles.
+
+The old script promised that enough correct decisions would produce a stable configuration. Finish school. Find the work. Find the person. Buy the home. Raise the children. Save for retirement. Stability would arrive as the reward for sequencing the stages correctly.
+
+For many people it never did. For others it arrived and then expired.
+
+A longer life makes the expiration harder to dismiss as failure.
+
+The profession can become obsolete while the worker is still capable. The children can leave while the parents remain together for decades. A home can fit perfectly for twenty years and badly for the next twenty. A spouse can become a caregiver. A retiree can become a worker again. A healthy person can become disabled and later recover enough to re-enter a life that the system had already closed.
+
+The instability is not necessarily evidence of bad choices.
+
+Sometimes duration itself changes the fit.
+
+That observation can be liberating because it reduces the moral weight placed on prediction. A twenty-five-year-old does not have to correctly forecast a sixty-year career. A couple does not have to design the entire second half of a marriage at the wedding. A city does not have to predict every future technology. An institution does not have to know the final retirement age for people born today.
+
+It has to preserve the ability to revise without destroying what should remain.
+
+This is a less heroic view of foresight.
+
+Good planning is not always choosing the right future.
+
+Sometimes it is refusing to make the wrong future impossible to escape.
+
+That is why the longevity moment belongs before the breakthrough. Biomedical progress may change the horizon dramatically. Demography may change it gradually. Individual health may make it shorter than expected. None of those possibilities cancels the design lesson because the lesson comes from uncertainty, not from one forecast.
+
+A system that works only if people live exactly as long, stay exactly as healthy, work exactly as continuously, and remain exactly as geographically stable as the model assumes is fragile even when the forecast is accurate on average.
+
+A system that tolerates deviation is better prepared for ordinary life.
+
+This is where the book’s argument meets humility.
+
+No one knows the final shape of longevity.
+
+There may be major biomedical gains. There may be disappointing plateaus. Healthy life may improve faster than lifespan in some places and slower in others. Artificial intelligence may make later-career work easier for some people and eliminate work for others. Families may become more multigenerational or more geographically dispersed. Cities may adapt quickly or remain built around assumptions that no longer fit.
+
+The uncertainty is real enough that certainty itself should not be the design requirement.
+
+The future gets longer first because expectation changes before biology does.
+
+But the future also gets blurrier.
+
+More possible years create more possible paths.
+
+That is why flexibility is valuable and why flexibility needs limits. A life with no commitments becomes thin. A life with no exits can become a trap. A humane system has to hold both truths at once.
+
+It should make commitment possible without making adaptation shameful.
+
+It should make exit possible without making exit compulsory.
+
+It should let people work longer without treating longer work as a debt owed for surviving.
+
+It should let people stop without treating retirement as disappearance.
+
+It should let age matter without letting age explain everything.
+
+It should let health decline without turning dependence into the loss of personhood.
+
+It should let families help without assuming families can absorb unlimited care.
+
+It should let wealth create comfort without making wealth the admission ticket to a survivable transition.
+
+These are not promises a book can keep for a reader.
+
+They are standards against which a long-life society can be judged.
+
+The most important question is still the one the old plan avoids.
+
+What happens if this lasts longer than expected?
+
+The career.
+
+The marriage.
+
+The mortgage.
+
+The caregiving role.
+
+The policy.
+
+The city.
+
+The institution.
+
+The body.
+
+Sometimes the answer will be: keep going.
+
+Sometimes: change the terms.
+
+Sometimes: stop.
+
+Sometimes: begin again.
+
+The achievement is not choosing the same answer for everyone.
+
+It is building a world in which more than one answer remains legitimate when the future arrives.
