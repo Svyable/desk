@@ -110,7 +110,75 @@ A reprogrammable soft robot will still have mass, friction, fatigue and a finite
 
 Every new interface is also a new attack surface.
 
-Yet those limits do not reduce the intellectual significance. They clarify it.
+One physical trade deserves more attention because it governs almost every magnetic soft material: adding magnetic material changes the mechanics you were trying to preserve.
+
+A pure elastomer can be exceptionally soft and extensible. Fill it with hard magnetic particles and the composite gains magnetic moment, but it also gains mass, stiffness, interfaces, defects and processing constraints. Increase particle concentration to get more magnetic torque and the body may become less compliant. Reduce loading to preserve softness and the available magnetic force may fall below what the application needs. The designer is not choosing “softness” and “magnetism” independently. The composite creates a curve between them.
+
+Particle shape matters too. Spherical particles mix and flow differently from flakes or elongated particles. Particle alignment can create anisotropic response. Surface treatment changes bonding between particle and polymer. Agglomeration creates local regions whose stiffness and magnetization differ from the intended continuum. The same nominal recipe can produce different mechanics if mixing or curing changes.
+
+This makes fabrication part of the model.
+
+A simulation that assumes a perfectly uniform distribution of magnetic particles can predict a shape no real casting can reproduce. The useful design problem is therefore not “find the ideal magnetization field” but “find a magnetization field that can be manufactured with the available particle size, printer resolution, curing process and tolerances.”
+
+The constraint can be productive. Discrete magnetic voxels may be easier to verify than a continuously varying ideal field. Modular tiles may be less elegant than a smooth composite and easier to replace. A lower-resolution pattern may produce a shape robustly across manufacturing variation while a theoretically perfect fine pattern fails outside one sample.
+
+Robustness should be an optimization objective.
+
+That changes the way inverse design is judged. The best pattern is not the one whose nominal simulation lands closest to the target shape. It is the one whose distribution of possible fabricated bodies still performs acceptably. In other words, the designer should optimize over uncertainty, not only over geometry.
+
+This is already ordinary thinking in mature engineering. Aircraft are not designed for the mean gust. Bridges are not designed for the average steel specimen. Electronics include process corners. Soft magnetic robots will need equivalent tolerance envelopes for modulus, particle loading, magnetization, thickness, friction and field-source error.
+
+The body is probabilistic before the controller ever sees it.
+
+That fact gives feedback control a more specific role. Feedback is not merely for navigating an unknown environment. It can compensate for the fact that the fabricated object is never exactly the object in the model.
+
+Consider a soft gripper whose fingers are magnetically programmed to wrap around a delicate fruit. A feed-forward design might apply one field and assume the fingers close to a known curvature. A closed-loop design observes contact or shape and adjusts field gradually. The latter can tolerate variation in fruit size, surface friction, elastomer stiffness and magnetization. The controller buys back some of the precision manufacturing did not provide.
+
+There is a limit. Feedback can correct motion only if the hardware retains authority. If one finger is badly demagnetized or a tear changes the structure, no control law can restore the missing material. The system needs fault detection as well as adaptation.
+
+This suggests a new performance metric: *recoverable variation*.
+
+How far can the real body differ from its design before sensing and control can no longer reach the desired behavior? A platform with slightly worse nominal performance and a large recoverable region may be much more useful than one with spectacular nominal motion and almost no tolerance for variation.
+
+Soft robots also force us to define what “position” means.
+
+A rigid robot can often be represented by joint angles and a pose. A continuously deformable body has vastly more degrees of freedom. Tracking every point is unnecessary and usually impossible. The controller needs a reduced description: tip position, curvature, contact state, centerline, principal deformation modes or another set of coordinates that captures what the task cares about.
+
+This is a modeling choice with physical consequences.
+
+If a catheter-like robot is navigating a lumen, tip position and orientation may matter most. If a gripper is conforming to an object, contact distribution may matter more than exact global shape. If a soft sheet is becoming an optical surface, local curvature error may dominate. The same magnetic material requires a different state representation for each application.
+
+The program is therefore not merely the magnetization pattern.
+
+It is the mapping between a compact task description and a high-dimensional body.
+
+That mapping can sometimes exploit multistability. Soft structures can possess multiple mechanically stable shapes separated by energy barriers. Magnetism can bias the body from one stable configuration toward another. Once the transition occurs, the structure may remain in the new shape with little or no continuing field. This is attractive because actuation energy is concentrated in the transition rather than spent holding every position continuously.
+
+The price is hysteresis and path dependence.
+
+A multistable body may snap unexpectedly if the barrier is crossed. The return path may require a different field. Small manufacturing differences can change transition thresholds. The same property that gives the machine mechanical memory makes precise continuous control harder.
+
+This is another example of the book's recurring rule: memory and controllability are often the same energy landscape viewed from opposite sides.
+
+At small scales, environmental forces also reorder priorities. Gravity becomes less important, surface adhesion more important. A soft magnetic millimeter-scale robot may stick to a wet surface because capillary or adhesive forces rival the intended magnetic force. A device that rolls perfectly on dry glass may fail in mucus. Friction that enables crawling in one environment can immobilize the same gait in another.
+
+The magnetic field is not acting on an isolated body. It is negotiating with contact mechanics.
+
+This is why locomotion videos should be read as demonstrations of a coupled system: body, surface, fluid, field source and control sequence. Change one and the gait may disappear.
+
+For commercial design, that observation leads to application-specific test libraries. A medical crawler would need realistic tissue analogues, fluids, temperature, curvature and contamination. An industrial gripper would need dust, wear, object variability and long cycle counts. A space mechanism would need vacuum, radiation, extreme temperature and long storage before activation.
+
+The magnetic material's most impressive deformation is only one row in the test matrix.
+
+This is also where soft matter can surprise conventional robotics in a useful direction. A rigid mechanism often requires exact geometry because its parts have to mate. A soft body can sometimes tolerate geometric uncertainty by conforming. The same compliance that makes it difficult to model can make it forgiving in contact.
+
+Magnetic control is valuable when it can steer that forgiveness without replacing it with stiffness.
+
+A well-designed soft magnetic machine should not aspire to become a rigid robot controlled badly. It should use softness as a capability: safe contact, distributed deformation, squeezing through openings, adapting to uncertain shape, storing mechanical energy, or changing effective geometry without assembled joints.
+
+This makes task selection decisive.
+
+If the application requires millimeter-perfect positioning under large load, a conventional rigid actuator may be superior. If the application rewards conformability, sealing, small scale, remote actuation or reduced part count, magnetic soft matter has a reason to exist.
 
 The breakthrough is not that a magnetic field makes rubber dance. That has been possible in various forms for a long time. The breakthrough is the increasing ability to choose the relationship between field and shape deliberately, calculate it backward from a target, manufacture it at finer resolution, observe it, and in some systems rewrite it.
 
