@@ -118,6 +118,102 @@ Inverse magnetic problems are often nonunique. Measuring a field outside an obje
 
 No sensor removes the need for a model.
 
+The first additional constraint is backaction.
+
+A sensor is not always a passive eye. Some magnetic sensors require bias currents, optical power, microwave drive or nearby materials that can perturb the very system being observed. A scanning probe can mechanically approach a sample closely enough to alter local conditions. A conductive sensor structure can distort a changing field. A ferromagnetic sensor can introduce its own field.
+
+Measurement changes architecture when the target is sensitive enough.
+
+This is familiar in quantum physics, but it is not exclusively quantum. Put a thermometer with large thermal mass into a tiny droplet and it changes the droplet's temperature. Attach a stiff strain gauge to a delicate beam and it changes the beam. Magnetometry has its own version of the same problem.
+
+The ideal sensor is strong enough to read and weak enough not to matter.
+
+That balance can favor remote sensors even when closer sensors have better raw signal. A medical device may prefer external imaging because adding a sensor to the robot changes size or biocompatibility. A spintronic circuit may infer state electrically rather than place a local magnetic probe beside every bit. A high-field magnet may use fiber-optic strain sensing partly because conventional electronics are difficult to place in the most intense field region.
+
+Observability has an intrusion budget.
+
+The second constraint is dynamic range.
+
+A sensor capable of resolving an extraordinarily weak field can saturate in the presence of a much stronger background. This is a particular problem when one system both generates and measures magnetic fields. The actuator may produce millitesla or tesla-scale fields while the target's informative response is many orders of magnitude smaller.
+
+Subtracting the commanded field digitally only works if the sensor remains linear and unsaturated while measuring it.
+
+Sometimes the correct architecture is to null the large background physically. Apply an opposing field near the sensor so the net field falls inside its dynamic range. The sensor then measures small deviations around zero even though the overall workspace contains a strong field.
+
+This is closed-loop nulling: rather than measuring a large number precisely, cancel most of it and measure the remainder.
+
+Precision instruments use versions of this principle because difference measurements can outperform absolute measurements.
+
+The same idea can appear spatially. Place a gradiometer so a uniform distant field affects two sensing elements almost equally. Subtract their outputs and the common field disappears while a nearby source produces a difference.
+
+Geometry performs signal processing before software sees the data.
+
+That is magnetecture in sensing form.
+
+Sensor arrays create another design problem: correlation.
+
+Ten identical sensors placed close together do not necessarily provide ten times the information. If they share the same noise source, calibration drift or field orientation, their errors can move together. Redundancy helps most when sensors observe the system from meaningfully different geometries or use different physical principles.
+
+A mature magnetic machine may combine field sensors, electrical measurements, optical position tracking and mechanical state estimation precisely because the failure modes differ.
+
+Heterogeneous observability is more robust than repetition.
+
+This matters for high-consequence control. If a medical robot appears stationary in camera imagery but its magnetic signature indicates a change in orientation, the disagreement is not an inconvenience to average away. It is evidence that the state model may be wrong.
+
+Contradiction is a sensor output.
+
+A trustworthy control plane should preserve that contradiction until it is resolved rather than forcing all measurements into one smooth estimate.
+
+This is where uncertainty becomes operational rather than statistical decoration. The system can maintain several hypotheses about the target state, reduce force while ambiguity remains, and select an observation designed to distinguish the hypotheses.
+
+Sensing can become an action.
+
+A controller may deliberately apply a small diagnostic field and observe how the target responds. The response reveals magnetic moment, orientation, contact or mechanical constraint. Instead of merely reading the environment, the machine probes it.
+
+Robotics already uses active perception: move a camera, touch an object, change lighting. Magnetic systems can use active field probing.
+
+This is particularly valuable because static inverse magnetic measurements can be nonunique. Two internal magnetization configurations may produce similar external fields under one condition. Perturb the system with a known field and their responses may differ.
+
+The control input becomes a measurement question.
+
+That idea connects sensing to system identification. A new magnetic device enters a workspace with imperfectly known properties. The platform applies a sequence of low-energy fields, measures motion or emitted field, and estimates the parameters needed for control. The device does not need perfect factory characterization if the system can identify it safely at runtime.
+
+This can reduce manufacturing burden and increase adaptability.
+
+It can also create a dangerous temptation to learn too aggressively. A system should not discover the switching threshold of an implanted medical device by crossing it experimentally. Identification has to remain inside a certified safe excitation envelope.
+
+Learning from matter still needs permission.
+
+Field sensing also creates privacy and security questions that are more ordinary than they sound. Magnetic emissions from electronics can reveal current activity. Researchers have long studied electromagnetic side channels. As magnetometers become smaller and more sensitive, it becomes easier to measure weak signatures at short distance.
+
+This does not imply that quantum sensors can remotely read arbitrary encrypted computers through walls. Distance, shielding, noise, geometry and required prior knowledge remain strong constraints. The useful lesson is narrower: physical information processing leaks physical signals.
+
+A system that relies on magnetic telemetry should decide which fields are meant to be observable and which are not.
+
+The same technology can serve diagnostics and adversarial measurement.
+
+Industrial field imaging may become especially valuable because it can create observability without instrumenting every conductor internally. A power module under test can be scanned from outside. Compare its measured field map with the expected map. Local differences identify candidate faults before destructive analysis.
+
+Over time, a manufacturer could build a library of magnetic fingerprints for known failure modes.
+
+This is a promising form of nondestructive testing because it turns a by-product of normal operation into information. The device does not need to emit a special diagnostic signal; current already generates the field.
+
+The challenge is inversion and localization. A field measured several millimeters away blends contributions from many current paths. Higher spatial resolution requires closer sensing and often slower scanning or denser arrays. Production inspection values speed. Failure analysis values detail. The same sensor technology will need different architectures for each.
+
+Sensing has its own throughput economics.
+
+A beautiful nanoscale image that takes an hour per square micrometer is an excellent research tool and a terrible factory inspection method. A coarser wide-field image obtained in seconds may be more valuable industrially. The best measurement is the one that closes the decision at the required speed.
+
+This is why quantum magnetometry should not be assessed by sensitivity records alone.
+
+A technology can succeed by being less sensitive and much easier to deploy.
+
+Optically pumped magnetometers, NV centers, SQUIDs, Hall sensors, fluxgates and magnetoresistive sensors each occupy different trade spaces. Magnetecture needs all of them because the architecture begins with the field to be observed, not with a preferred sensor brand.
+
+The mature question is: what is the minimum measurement infrastructure that makes the desired control trustworthy?
+
+No sensor removes the need for a model.
+
 But sensing can change the model from an assumption into a hypothesis that is repeatedly tested.
 
 This is the larger importance of quantum and advanced magnetometry.
