@@ -323,3 +323,37 @@ The better question is becoming:
 How much power do you need us to guarantee?
 
 The difference between those numbers is a resource.
+
+The resource also needs a **performance history**.
+
+A new gas turbine can be tested before the grid gives it full confidence. A battery can demonstrate response. A demand resource deserves the same path from promise to proof. The first year of a flexible data-center tariff should not necessarily receive the same planning credit as a campus that has responded successfully through several real events.
+
+That suggests a graduated model.
+
+A new participant receives provisional credit based on engineering studies, automated controls, and test results. Successful performance increases the amount planners are willing to count in future seasons. Repeated failure reduces the credit or removes the resource from the program. The tariff becomes adaptive to evidence rather than fixed around the optimistic capability claimed on day one.
+
+This is especially important because the economic temptation runs in both directions. The customer wants the largest possible flexibility credit because it can reduce charges or accelerate connection. The utility may want to count large flexibility numbers because they make a difficult resource plan look easier. Both sides can therefore prefer the same optimistic assumption for different reasons.
+
+Performance history disciplines the optimism.
+
+The relevant metric is not merely how many megawatts the facility reduced in one event. It is availability across the event set the system actually fears. Did the campus respond during extreme heat? During a cold snap? After a prior event had already depleted batteries? Was the response sustained for the contracted duration? Did load rebound immediately afterward and create another local peak? Did geographic shifting simply move the stress to a neighboring region?
+
+A resource earns value by being useful under the condition that makes it scarce.
+
+This principle also helps resolve the argument over whether flexible service is a giveaway to technology companies. If the discounted rate or faster connection is tied to verified performance that allows the utility to avoid real capacity costs, the bargain can benefit everyone. If the customer receives the discount while the grid still builds as though the load were fully firm, the program has created a subsidy without creating a resource.
+
+The avoided investment has to be real.
+
+That does not mean every flexible megawatt must cancel a specific power plant. Reliability planning works through portfolios and probabilities. It does mean the utility should be able to show how the contracted behavior changes its forecast, reserve requirement, transmission plan, or timing of upgrades.
+
+Otherwise the word resource is ceremonial.
+
+The data-center era can make it operational.
+
+A mature system may eventually assign something like a reliability rating to large flexible loads—not as a consumer credit score, but as a history of delivered electrical performance. Customers with strong records can earn more valuable service options. New entrants can qualify by proving controls and then build credibility over time.
+
+That would be a remarkable inversion.
+
+The grid would no longer see every customer only as demand to be met.
+
+It would see some customers as counterparties whose reliability can be earned.
