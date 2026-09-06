@@ -124,6 +124,14 @@ That is why the phrase value moves should not be heard as money moves neatly fro
 
 Value creation can increase while value capture changes radically.
 
+The distinction becomes clearer if you ask who pays for the new bottleneck.
+
+Suppose verification becomes more important because generation is cheap. That does not tell you who captures a verification premium. The producer may hire reviewers. The platform may absorb moderation costs. The buyer may spend more time cross-checking. An insurer may demand evidence. A regulator may require documentation. A community may perform unpaid filtering because nobody has found a business model for the work.
+
+Scarcity can therefore appear as money, delay, exclusion, uncompensated labor, or risk.
+
+The existence of a bottleneck does not guarantee a profitable market around it.
+
 A formerly bundled product can split into pieces with very different economics.
 
 A complement can become the core business.
@@ -211,6 +219,8 @@ The ability to produce is only one layer of an economy.
 Once production gets easier, the other layers become easier to see.
 
 This does not mean every complementary layer becomes a monopoly.
+
+A scarcity can shape behavior without giving any one actor durable pricing power. Attention may be scarce while publishers compete so aggressively that little of its value is captured. Trust may be scarce while consumers rely on friends, professional norms, or public institutions rather than paying a certifier. Physical presence may be scarce while many providers can supply it. A bottleneck matters economically because it constrains throughput; a moat matters strategically because rivals cannot easily attack it. The two are easy to confuse during a transition.
 
 A bottleneck can attract investment precisely because it is profitable. New distributors appear. Verification tools improve. Standards make data portable. Open-source systems reduce dependence on one provider. Competitors attack the layer earning the easiest rent.
 
