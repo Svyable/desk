@@ -317,3 +317,71 @@ Bats live in a social world where voices are directed at particular others under
 The next scientific step is not to write dialogue for them.
 
 It is to take the argument seriously enough to notice who is arguing with whom.
+
+There is a deeper statistical lesson in the roost.
+
+Suppose a model predicts the addressee of a call above chance. That result is only as interesting as the alternatives it has ruled out. Perhaps the caller always quarrels with one neighbor in one corner of the enclosure, and the model has learned echoes from that corner. Perhaps one interaction type happens mostly at a certain time, and equipment noise marks the time. Perhaps individuals differ so strongly in voice that a model appears to classify context simply because particular individuals dominate particular contexts.
+
+The more dimensions a call contains, the easier it becomes for a system to be right for the wrong reason.
+
+This is not an argument against large datasets. It is an argument for splitting them intelligently.
+
+Train on some individuals and test on others.
+
+Train in one recording period and test later.
+
+Move microphones.
+
+Separate caller identity from social context.
+
+Ask whether a feature that predicts addressee still works when caller and location change.
+
+Then, where ethically possible, use playback to see whether animals discriminate the manipulated feature.
+
+Machine-learning performance becomes biologically meaningful only when the shortcut doors are closed.
+
+This problem has a direct analogue in close human-animal relationships. A person may believe she knows what a dog’s vocalization means when she is actually using the entire scene: the time, location, object, direction of gaze, and what usually happens next. Remove the scene and the sound becomes ambiguous.
+
+That is not necessarily a failure of human understanding.
+
+It may be evidence that the communication itself is contextual.
+
+The mistake is claiming the sound alone carries what the whole interaction carried.
+
+A bat corpus, because it can be annotated at such scale, gives researchers a chance to separate these layers more carefully than household anecdotes allow. It can ask how much information sits in acoustics and how much sits in social circumstance.
+
+The answer will probably be both.
+
+That “both” is precisely what consumer translators will resist because interfaces prefer one input and one output. The microphone hears a sound. The app returns a sentence.
+
+A scientifically serious system may need to refuse when context is missing.
+
+No location data.
+
+No known caller identity.
+
+No social history.
+
+No confidence that this sound functions the same way in this population.
+
+Insufficient evidence.
+
+That is an ugly product experience and a beautiful scientific one.
+
+It means the system knows which world it does not possess.
+
+The bat argument therefore becomes an argument about humility in machine design.
+
+A model should not be rewarded merely for answering.
+
+It should be rewarded for knowing when the animal has not given us enough to answer responsibly.
+
+Humans are poor at this too. We dislike unresolved social signals. We would rather call the dog jealous, the horse stubborn, the cat spiteful, or the bat angry than hold several hypotheses at once.
+
+But ambiguity is not ignorance if it is structured.
+
+We can know that a vocalization is directed, that it differs by partner and context, that it predicts a class of outcome, and still not know which human word deserves to replace it.
+
+That middle state is where good science lives.
+
+And it may be where the first genuinely useful animal AI lives too.
