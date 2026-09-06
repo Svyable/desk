@@ -205,3 +205,91 @@ A seam opens.
 The purpose of a seam is not to encourage leaving.
 
 It is to make staying a choice.
+
+There is another reason to care about one-way doors: the option to reverse often disappears before the formal right does.
+
+A person can legally change careers at sixty-five. The practical path may have narrowed at fifty-five when employers stopped investing, when a license lapsed, when savings became earmarked for retirement, or when caregiving made a full-time course impossible. A family can legally sell a house at eighty. The practical path may have narrowed years earlier when mobility declined, possessions accumulated, local alternatives failed to appear, or the surviving spouse became unable to manage a move alone.
+
+Irreversibility has a shadow period.
+
+The door remains visible while the hinges rust.
+
+This matters because advice usually arrives too late. Change careers once the work becomes intolerable. Move after the stairs become unsafe. Discuss succession after a health scare. Rebuild the relationship after years of neglect. By then the nominally reversible decision may require a much larger act of courage, money, or coordination than it would have five years earlier.
+
+Review points have value partly because they expose the shadow period.
+
+A review does not require change. It asks whether the cost of change is rising faster than the benefit of waiting.
+
+That question appears in finance whenever an option has an expiration date. Human options are rarely labeled so neatly. A fertility window is one obvious exception. A professional network can decay without a date. A house can become harder to sell after a local market weakens. A skill can become obsolete. A relationship can lose repairable trust slowly. A person can remain physically capable of a move while losing the appetite for a large disruption.
+
+The option remains possible in theory and less usable in practice.
+
+Longevity can make this especially deceptive because the overall horizon is long. There may be twenty-five years ahead and only two years in which a particular transition remains easy.
+
+More time in life does not mean more time for every decision.
+
+This is why reversibility should be paired with timing.
+
+A good system does not merely permit exit. It makes the cost of exit legible early enough that the person can act before crisis.
+
+Employers can do this with transparent internal mobility rather than waiting for redundancy. Universities can publish serious adult re-entry paths before people lose jobs. Housing systems can create local alternatives before frailty makes moving urgent. Families can share financial and care knowledge before incapacity. Retirement systems can show partial-work pathways before the only choices feel like full-time work or complete exit.
+
+The institution is not predicting the event.
+
+It is keeping the route maintained.
+
+Maintenance is what separates an actual option from a line in a policy manual.
+
+This is also why some forms of portability matter more than they appear. Health coverage, retirement savings, credentials, professional records, benefits, and identity documentation can travel with the person or remain attached to the institution being left. When they remain attached, leaving one role can mean losing assets accumulated for other purposes.
+
+The job becomes a bundle.
+
+The house becomes a bundle.
+
+The marriage can become a bundle.
+
+The city can become a bundle.
+
+Bundles create efficiency because one relationship coordinates many needs. They create lock-in because changing one element requires renegotiating all the others.
+
+Unbundling is not always better. Employer-provided benefits can be efficient. Marriage can create valuable legal and economic protections. Homeownership can bundle shelter and saving. A neighborhood can bundle transportation, friendship, school, and care.
+
+The longevity question is whether the bundle has a failure path.
+
+If the job ends, does health security vanish immediately?
+
+If the spouse dies, can the survivor manage the household?
+
+If driving stops, does the neighborhood still work?
+
+If the house is sold, can community survive the move?
+
+The larger the bundle, the more important the seam.
+
+One-way doors are therefore often created not by one irreversible decision but by several reversible systems linked so tightly that changing one destabilizes the rest.
+
+That is why individual courage is an incomplete answer. A person may be willing to change jobs and unwilling to risk a child’s health coverage. Willing to move and unwilling to lose the only nearby caregiver. Willing to retrain and unable to give up the income needed to pay the mortgage.
+
+The lock is systemic.
+
+The key has to be partly systemic too.
+
+This does not absolve people from making decisions. It improves the quality of the decision by reducing irrelevant penalties.
+
+A person deciding whether to leave a profession should weigh the profession, the economics, the identity, and the available alternatives. She should not have to treat loss of unrelated medical coverage as evidence that the profession is still right.
+
+A person deciding whether to remain in a house should weigh cost, memory, location, fit, and care. He should not have to stay because the community prohibited every smaller home within reach.
+
+Reversibility removes noise from commitment.
+
+It lets staying mean more because staying is less often the residue of trapped assets and missing exits.
+
+That is the paradox the chapter has been circling.
+
+A good exit can strengthen a commitment.
+
+When people know a system has a fair path out, the decision to remain carries more information about the value of remaining.
+
+The door does not cheapen the room.
+
+Sometimes it is what makes the room inhabitable for a long time.
