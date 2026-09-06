@@ -243,3 +243,95 @@ That structure.
 The surprise will be how much machinery was required to make “of course” visible.
 
 And how many failed machine ideas had to be buried before one deserved the phrase.
+
+The most useful way to sharpen this positive ending is to ask what a candidate proof must *not* do.
+
+It cannot merely convert one open norm bound into another open norm bound. It cannot prove a continuation criterion and call the continuation condition an estimate. It cannot close because a constant is small if that constant depends on the unknown solution at the dangerous scale. It cannot use compactness that disappears under the rescaling required by a hypothetical singularity. It cannot obtain regularity by assuming the solution belongs to a class whose membership already encodes the desired regularity.
+
+These sound like obvious prohibitions. They are precisely the kind of circularity that becomes difficult to see inside a hundred-page argument assembled from individually respectable pieces.
+
+An AI institution can operationalize the prohibitions.
+
+Every proposed a priori estimate can carry a dependency certificate listing which quantities on the right-hand side are controlled solely by initial data and which remain solution-dependent. Every compactness step can declare the topology, normalization, and rescaling under which precompactness is asserted. Every use of a regularity criterion can point to the node expected to discharge its premise. A proof branch whose only path back to the root passes through itself is marked circular before anyone reads the prose.
+
+This may sound like bookkeeping around the real insight.
+
+Bookkeeping is what lets the insight be real.
+
+There is a particular class of positive strategies in which this discipline becomes decisive: minimal-counterexample arguments. Suppose one assumes global regularity fails and looks for a solution that is minimal with respect to an appropriate critical size. If such an object can be shown to exist, it may inherit compactness or rigidity properties unavailable to arbitrary large solutions. One then tries to prove that the minimal object cannot exist.
+
+This template has succeeded spectacularly in other nonlinear PDE. In Navier–Stokes it runs into the usual hard edges: choosing the right critical framework, obtaining compactness, handling pressure and nonlocality, and proving a rigidity theorem strong enough to eliminate the survivor.
+
+Machine search could help on all four edges, but especially the last.
+
+Once a candidate minimal object has a finite list of properties, the theorem graph can search the space of Liouville-type results that would kill it. It can mine backward-uniqueness methods, local energy inequalities, decay theorems, and unique-continuation tools. It can ask which combination of properties is still insufficient by constructing or retrieving counterexamples. It can formalize the implication chain until the remaining gap is one exact rigidity statement.
+
+The important point is that a positive proof need not control every turbulent flow directly.
+
+It may instead prove that any hypothetical failure would concentrate into an impossible object.
+
+That shift—from controlling all behavior to excluding a canonical bad behavior—is conceptually suited to an institution that can search and classify large spaces of intermediate objects.
+
+Another promising way to think about the missing leverage is dynamic self-improvement of estimates. An estimate may be too weak globally but become stronger when the solution enters a dangerous regime. Perhaps concentration forces alignment. Perhaps alignment improves a singular-integral bound. Perhaps an improved bound reduces stretching before blowup completes. The control would then be conditional in the useful sense: the closer the flow gets to the geometry required for singularity, the more the equation activates a mechanism that prevents it.
+
+This kind of feedback is hard to see with static norm inequalities.
+
+It is easier to search numerically because one can condition on extreme events. Take simulations engineered for large vorticity growth. Track not only norms but the conditional geometry of the most intense regions. Ask which dimensionless observables become more ordered as intensity rises. Then try to derive those trends from the exact equation.
+
+The machine should be ruthless about selection effects. A trend found in one family of initial data is not a law. A quantity measured in an under-resolved region is suspect. A geometry visible after imposing symmetry may be absent generally. The numerical work earns attention only by generating a statement that can be attacked without the simulation.
+
+This is where formalization and numerics can reinforce one another rather than inhabit separate chapters.
+
+The numerical system proposes: whenever a local scale parameter falls below a threshold relative to vorticity magnitude, a certain alignment defect also falls.
+
+The symbolic system derives an evolution inequality for the defect.
+
+The literature system finds nearby coherence criteria.
+
+The adversarial system constructs fields satisfying the same instantaneous constraints but violating the proposed trend.
+
+The theorem prover identifies which dynamical hypothesis those fields fail.
+
+The human analyst notices the missing constraint is transported by incompressibility.
+
+The conjecture becomes sharper.
+
+This is what an AI mathematical institution is for: not to replace one hard proof with more text, but to convert movement among representations into a controlled search for leverage.
+
+A smoothness theorem would also force a reckoning with the difference between *qualitative* and *quantitative* regularity. Clay asks for the existence-and-smoothness conclusion. A proof may establish it through estimates whose constants are astronomically bad. That is still a solution. But an AI system should immediately ask a second question: what quantitative bounds does the proof actually yield?
+
+How large can critical norms become as a function of the initial data?
+
+How badly do high derivatives grow before dissipation restores control?
+
+Are there explicit scales below which a certain structure must appear?
+
+Can the argument be turned into certified numerical error bounds over long time?
+
+The first theorem may answer none of these cleanly. The proof architecture may nevertheless reveal where quantitative information was thrown away.
+
+This matters because one of the largest scientific dividends of a positive result could come after the prize. If the proof identifies a new scale-dependent coercive mechanism, numerical analysts may be able to build diagnostics around it. If it shows that dangerous concentrations must trigger a measurable geometric response, simulations can test how close real turbulent flows come to the extremal regime. If it supplies computable continuation bounds, rigorous numerics may extend certified integration windows.
+
+None of that is guaranteed.
+
+The proof could be existential and remote from computation.
+
+But an agentic research system is unusually well placed to extract secondary theorems from a successful proof because it already owns the dependency graph. Once the root closes, it can traverse the graph backward and ask which assumptions were stronger than necessary, which constants can be sharpened, and which lemmas transfer to related PDE.
+
+This makes publication of the proof graph scientifically important. A conventional paper is a compressed path. The graph remembers branches, alternate lemmas, failed routes, and quantitative variants that the paper omits. Releasing at least the mathematically relevant portions would allow the community to mine the discovery process rather than only inspect its final artifact.
+
+There is a risk here too. The lab may be tempted to publish an overwhelming archive and call transparency achieved. Ten million generated notes can hide a result as effectively as secrecy.
+
+Good publication is compression with provenance.
+
+The final theorem should have a human route short enough to discuss. The formal proof should have a reproducible build. The discovery archive should expose the important dead ends and alternative paths without demanding that every reader become an archaeologist. The quantitative corollaries should be separated from the existence theorem rather than smuggled into claims about practical turbulence.
+
+If smoothness wins, the deepest lesson may be that the equation was never balanced the way our introductory metaphors implied.
+
+Perhaps dissipation does not simply outrun stretching. Perhaps the geometry of stretching makes the most dangerous cascade dynamically inaccessible. Perhaps pressure, incompressibility, and diffusion conspire to create a barrier visible only in a critical representation. Perhaps a minimal blowup object is impossible for a reason that looks obvious only after it is named.
+
+That is the standard I would set for the machine-generated breakthrough.
+
+Not that it surprises us.
+
+That after enough verification, it teaches us why we should have been surprised before.
