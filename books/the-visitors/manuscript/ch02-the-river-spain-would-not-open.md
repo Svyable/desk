@@ -132,6 +132,48 @@ Gérard in the 1770s had represented the world’s answer to whether the United 
 
 The answer was not yet reassuring.
 
+The diplomatic question also had a constitutional arithmetic that made the dispute harder than a simple East-versus-West story. Under the Articles, major treaties required the consent of nine states. Supporters of the proposed bargain could not convert commercial logic into law merely by winning a normal majority. The supermajority requirement gave opponents leverage while also showing how foreign negotiations became entangled with the internal architecture of the Confederation. Gardoqui could bargain with Jay, but he could not bargain around the American voting rule.
+
+That mattered because Spain was negotiating with a government whose negotiator and legislature were not the same political actor. Jay could conclude that a concession was prudent. Southern delegates could conclude that it was intolerable. Western settlers, not directly represented as a separate national constituency, could create pressure through state politics, petitions, rumor, migration, and threats of disaffection. The diplomatic process translated all of these layers imperfectly.
+
+A stronger central government would not eliminate that problem. The Constitution would merely reorganize it.
+
+Foreign policy in a republic is always partly a problem of authorization. A diplomat wants to know whether the person across the table can deliver the bargain. The person across the table wants to know whether the bargain can survive legislators, regions, courts, elections, and public opposition. Gardoqui’s negotiations were an early demonstration that international credibility depends on domestic institutions capable of producing consent.
+
+The river also reveals the economic meaning of transportation before railroads and canals changed the continent. Bulk agricultural goods lose value quickly when transportation costs consume the margin. To tell western farmers that an eastern route remained available was not necessarily to offer a real substitute for downstream navigation. Geography did not simply make the Mississippi desirable. It made access to the river part of the economic viability of settlement itself.
+
+That helps explain why western anger could shade into questions of allegiance. Governments earn loyalty partly by making ordinary life workable. A farmer does not need to become a constitutional theorist to notice that the union claiming his land cannot secure the commercial outlet on which his crop depends. If Spain could offer access that Congress could not, sovereignty became experiential rather than rhetorical.
+
+This was the strategic danger behind Spanish intrigue in the West.
+
+The Spanish government did not need to conquer Kentucky. It could imagine using trade, pensions, permissions, and selective favor to encourage influential westerners to think of Spain as a necessary economic partner. The possibility of political detachment grew from the same fact Gardoqui represented in New York: Spain controlled an indispensable gateway.
+
+The episode therefore belongs to the history of American union as much as to the history of American diplomacy.
+
+The Constitution is often remembered through arguments over representation, taxation, executive power, and the failures revealed by Shays’ Rebellion. The Mississippi dispute adds another perspective. The union had to be credible at its edges. It had to convince people far from the Atlantic political centers that national institutions would not permanently exchange their interests for advantages elsewhere.
+
+That problem would recur whenever American expansion produced regions whose economic orientation differed from the older core. Western farmers, plantation districts, Pacific ports, industrial cities, energy regions, border states, and technology corridors would all ask variations of the same question: when Washington defines the national interest, whose map is it using?
+
+Gardoqui did not invent American sectionalism, but he showed that foreign governments could turn geography into a bargaining instrument inside it.
+
+There is a further counterfactual worth keeping narrow. Had Congress accepted the proposed long suspension of Mississippi navigation, western settlement would not have stopped. Population pressure, land speculation, and migration were already powerful. But the political meaning of settlement could have changed. A federal government seen as voluntarily closing the principal commercial outlet might have intensified separatist sentiment, encouraged more accommodation with Spain, or delayed the formation of a national consensus that western expansion was a federal interest rather than a regional demand.
+
+The opposite counterfactual matters too. Had the weak Confederation attempted to force the river open militarily, it would have risked a conflict for which its fiscal and military institutions were poorly prepared. The unattractive choice between concession and coercion was exactly the kind of choice that exposed the gap between American territorial ambition and American state capacity.
+
+Jay’s compromise can therefore look more intelligible without becoming more acceptable to the people asked to bear it.
+
+That is one of the virtues of the episode. Nobody needs to be stupid for the system to be unstable. Spain had a rational interest in using control of the river. Atlantic merchants had rational reasons to value a commercial agreement. Westerners had rational reasons to reject a bargain that discounted their future. Congress had rational reasons to fear both disunion and war. The crisis came from interests that could not all be satisfied at once.
+
+Gardoqui’s presence made that scarcity visible.
+
+A decade later Pinckney’s Treaty would secure what the Confederation could not. It is tempting to read that later success as proof that patience alone vindicated Jay. But the political environment had changed: the United States had a new federal government, European power relations had shifted, and Spain faced a different strategic calculation. Time favored the Americans only because institutions, population, and international circumstances changed with it.
+
+The lesson is not that one should always wait for leverage.
+
+It is that leverage has sources.
+
+Population can be leverage. Revenue can be leverage. Military capacity can be leverage. Commercial access can be leverage. Institutional coherence can be leverage. A diplomat such as Gardoqui reveals which of these a country actually possesses rather than merely claims.
+
 The country could claim the Mississippi as its boundary while Spain controlled its commercial meaning. It could speak of western lands while western settlers doubted whether eastern politicians would defend them. It could send and receive diplomats while lacking the governmental machinery needed to convert negotiation into durable national policy.
 
 The river ran through all of those contradictions.
