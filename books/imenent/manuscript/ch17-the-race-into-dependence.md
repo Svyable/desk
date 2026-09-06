@@ -495,3 +495,267 @@ The global AI takeover threat will become much harder to prevent if the safest c
 The most important design problem may therefore be economic rather than philosophical.
 
 Make the systems we can regain control of outperform the systems we cannot.
+
+That sounds like a product challenge.
+
+It is also a market-design challenge.
+
+The benefits of recoverability often belong partly to people who are not choosing the architecture.
+
+A cloud provider pays for redundant human-operable controls.
+
+Its customers benefit when an incident does not become a regional outage.
+
+A bank pays to maintain a slower fallback.
+
+Depositors, counterparties, and the public benefit if the fallback prevents a disorderly failure.
+
+A hospital pays to preserve staff competence.
+
+Patients benefit on the day the automated system cannot be trusted.
+
+The buyer and the beneficiary do not always match.
+
+That weakens the ordinary market signal.
+
+This is where liability, insurance, procurement, and disclosure can change the economics without dictating one technical design.
+
+If a critical provider must disclose whether it has tested operation without its principal agent layer, buyers can compare.
+
+If an insurer prices untested dependence as risk, management sees a recurring cost rather than a distant hypothetical.
+
+If a government contract requires recoverability evidence, vendors have a reason to make re-entry a product feature.
+
+If boards are expected to understand material automation concentration, resilience moves into governance rather than remaining a technical preference.
+
+The intervention is not "use less AI."
+
+It is "make hidden dependence legible enough that somebody has to price it."
+
+That matters because the race can produce a familiar accounting illusion.
+
+The organization records the savings from automation.
+
+It does not record the option value it surrendered when it removed fallback capacity.
+
+The quarterly statement captures fewer employees, lower latency, higher throughput, and perhaps better margins.
+
+It does not contain a line called **ability to operate after revocation**.
+
+The option disappears from the balance sheet because accounting is not designed to price it.
+
+Yet the option can be enormously valuable.
+
+A factory pays for insurance against fire even though the insurance produces nothing on ordinary days.
+
+A government keeps emergency authority it hopes never to use.
+
+A bank holds capital it would rather deploy.
+
+A network keeps spare routes that sit idle.
+
+A recoverable AI institution is holding a similar option.
+
+The option is the freedom to say no later.
+
+This gives the race into dependence a political economy.
+
+Actors who gain from acceleration may be different from actors who bear the cost of lost re-entry.
+
+An executive receives the productivity benefit now.
+
+A future management team inherits the dependency.
+
+A vendor gains recurring revenue from deep integration.
+
+The customer bears migration cost later.
+
+Citizens receive faster public services.
+
+A later administration inherits a machine architecture it did not choose.
+
+A worker gains leverage from automation.
+
+The profession as a whole may lose the training ladder that produces future experts.
+
+No participant needs bad intentions.
+
+Time separates the benefit from the liability.
+
+This is how institutional lock-in often forms.
+
+The answer is not to freeze institutions in their current shape for the sake of hypothetical future operators.
+
+That would make adaptation impossible.
+
+The answer is to preserve **transition capacity**.
+
+A new model can replace an old one.
+
+A new provider can enter.
+
+A human team can operate a degraded service.
+
+A regulation can be implemented without depending entirely on the regulated system to translate it.
+
+A profession can change its training path without eliminating practical expertise.
+
+A country can adopt more capable systems without making one supplier, protocol, or operating model synonymous with national capability.
+
+Transition capacity is a way to make progress reversible enough to remain governable.
+
+This also changes the geopolitical conversation about sovereignty.
+
+Countries increasingly care about domestic compute, models, data, cloud capacity, and technical talent because dependence on foreign suppliers can create strategic vulnerability.
+
+That concern is understandable.
+
+But domestic ownership answers only one class of dependence.
+
+A country can replace foreign dependence with domestic machine dependence.
+
+The flag above the data center changes.
+
+The re-entry problem does not.
+
+A sovereign system that no human institution can operate without the intelligent layer is sovereign in one sense and constrained in another.
+
+The relevant strategic question is not simply who owns the model.
+
+Who can govern the system if the model must be constrained?
+
+Who can inspect it through independent channels?
+
+Who can replace it?
+
+Who can keep essential functions alive during replacement?
+
+Who controls the standards through which agents transact with the rest of the world?
+
+Sovereignty increasingly lives in fallback paths.
+
+The race also creates a timing problem for democratic governance.
+
+Markets can adopt a technology in months.
+
+Professions can reorganize in years.
+
+Regulation can take longer.
+
+By the time a public institution recognizes a dependency, the dependency may be embedded in staffing, contracts, customer expectations, and infrastructure.
+
+A late rule can be legally strong and practically weak because compliance now requires rebuilding capacity that no longer exists.
+
+This is another version of the re-entry threshold.
+
+Governance does not only need authority over systems.
+
+It needs to arrive before the cost of exercising authority becomes prohibitive.
+
+That is why early standards can matter more than late prohibitions.
+
+A standard for portable authority is boring when every agent system is young.
+
+It becomes powerful after millions of delegated relationships depend on it.
+
+A norm for independent logging is cheap before organizations redesign their evidence systems around one provider.
+
+A requirement for degraded modes is easier before the human operating layer disappears.
+
+A training expectation is easier before the profession forgets the underlying work.
+
+The race is won or lost partly through defaults established before anybody feels locked in.
+
+This is the hopeful part.
+
+Dependence is not destiny.
+
+Competition does not always reward fragility.
+
+Markets learn.
+
+Insurers learn.
+
+Customers learn.
+
+Regulators learn.
+
+Engineers learn.
+
+Industries can turn invisible safety properties into visible quality.
+
+The task is to make that learning happen before one failure has to become the curriculum.
+
+A mature agent economy could compete on recoverability the way mature infrastructure competes on uptime.
+
+Providers could advertise clean revocation.
+
+Enterprises could test model portability.
+
+Critical systems could publish recovery exercises.
+
+Insurance could distinguish organizations that practice re-entry from those that merely document it.
+
+Workers could be trained not only to use agents but to operate through degraded modes.
+
+Public procurement could reward systems that preserve independent evidence and transition capacity.
+
+None of this requires slowing intelligence itself.
+
+It requires refusing to confuse maximum dependence with maximum performance.
+
+The race into dependence becomes dangerous when every actor believes resilience is somebody else's job.
+
+The company expects the vendor to solve it.
+
+The vendor expects the customer to maintain fallback.
+
+The regulator expects the industry to preserve skills.
+
+The industry expects government to coordinate emergencies.
+
+The government expects the market to provide alternatives.
+
+The market expects switching to remain possible because competitors exist.
+
+Then a crisis reveals that the competitors share the same models, the same cloud, the same protocols, and the same machine-speed assumptions.
+
+Everybody preserved authority.
+
+Nobody preserved return.
+
+The alternative is not central command.
+
+It is distributed responsibility for keeping exits real.
+
+A provider preserves portability.
+
+A customer practices migration.
+
+A regulator preserves interoperability.
+
+An insurer prices concentration.
+
+A board tests revocation.
+
+A profession maintains competence.
+
+A state preserves degraded public capacity.
+
+Different actors carry different pieces of the same option.
+
+That is how a race can be redirected without pretending competition will stop.
+
+The important question is not whether the world will race.
+
+It will.
+
+The question is what counts as winning.
+
+If winning means only more autonomy, lower cost, and faster execution, dependence will look like progress until the day it looks like constraint.
+
+If winning includes the ability to change our minds later, the race can produce systems that are powerful because they remain governable.
+
+The strongest civilization is not the one that never delegates.
+
+It is the one that can delegate deeply without making return impossible.
