@@ -1,0 +1,13 @@
+name: Temporary Desk baseline check
+on:
+  push:
+    branches: [tmp/wta-main-baseline-check]
+jobs:
+  baseline:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Remove temporary workflow from working tree
+        run: rm .github/workflows/tmp-baseline-check.yml
+      - name: Run current main integrity checker
+        run: python3 scripts/check-desk.py
