@@ -25,6 +25,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [Agentile](https://svyable.github.io/desk/books/agentile/README.md)
 - [Allocating Intelligence](https://svyable.github.io/desk/books/allocating-intelligence/README.md)
 - [America's Got a Spending Problem](https://svyable.github.io/desk/books/americas-got-a-spending-problem/README.md)
+- [Amped](https://svyable.github.io/desk/books/amped/README.md)
 - [APPEAL](https://svyable.github.io/desk/books/appeal/README.md)
 - [Artificial Abundance](https://svyable.github.io/desk/books/artificial-abundance/README.md)
 - [Artificial Identity](https://svyable.github.io/desk/books/artificial-identity/README.md)
