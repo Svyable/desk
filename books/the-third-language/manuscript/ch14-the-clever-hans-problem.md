@@ -313,3 +313,49 @@ We should welcome the correction.
 If a dog does not mean what we thought, the dog has not disappointed us.
 
 We have received a reply.
+
+The same discipline should be applied not only after a dramatic claim appears, but before the data is collected.
+
+Study design is communication design.
+
+If the owner knows which outcome researchers expect, the owner becomes a possible channel. If the experimenter controls reward delivery manually, timing becomes a possible channel. If buttons remain in fixed spatial positions, location becomes a possible channel. If all examples of one behavior are recorded in one room, the room becomes a possible channel.
+
+The experiment is full of unintended speakers.
+
+A strong design asks which of them the animal could be listening to.
+
+This way of thinking changes the tone of skepticism. Instead of accusing owners, trainers, or researchers of fooling themselves, we acknowledge that animals are very good at exploiting available information. The burden is on the experiment to make the intended information distinguishable from the unintended information.
+
+That is a more respectful version of control.
+
+It assumes the animal may notice more than we do.
+
+The same principle applies to AI models. A model does not “cheat” when it learns a shortcut. It optimizes the information available. The researcher failed to make the shortcut irrelevant to the test.
+
+Hans and machine learning share that uncomfortable innocence.
+
+Both can succeed under the scoring rule while missing the human theory of success.
+
+This is why benchmark design matters so much for animal communication AI.
+
+A leaderboard can reward classification accuracy while every competing model exploits individual identity rather than context. Another benchmark can reward next-call prediction while models learn recording session regularities. A third can reward human-rated translation plausibility, which would be almost useless because human raters do not know the source language.
+
+The metric can create the illusion it was meant to measure.
+
+A better benchmark would make the claimed biological interpretation necessary for success.
+
+If a model claims receiver-specific address, evaluate on new callers and controlled receiver changes.
+
+If it claims context, test across individuals and locations.
+
+If it claims semantic function, include receiver-response experiments where ethically feasible.
+
+If it claims a private dialect, test prospective predictions on future interactions rather than retrospective stories chosen after the fact.
+
+The Clever Hans problem is therefore not merely a warning about accidental body cues.
+
+It is a general theory of misplaced success.
+
+An animal, a human, or a model can solve the task we built without solving the problem we imagined.
+
+The only defense is to make our interpretation vulnerable to the next turn.
