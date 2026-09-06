@@ -9,7 +9,7 @@ Desk is the working library for Sven Hardy Benson’s books: drafts, complete ma
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 115 book projects · 58 complete drafts · 2 in revision · 55 drafting**
+> **Desk: 116 book projects · 59 complete drafts · 2 in revision · 55 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
@@ -131,6 +131,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**Predictable**](books/predictable/) | ✍️ Drafting | 12 of 12 | 28,051 | The working thesis is that societies repeatedly make the same mistake around transformative technologies: they correctly recognize that something important has arrived, then misprice how… | [Read →](https://svyable.github.io/desk/reader/#/b/predictable/) |
 | [**Proof of Human**](books/proof-of-human/) | ✅ Complete draft | 29 of 29 | 67,065 | The book argues that the resulting scarcity is not content, which has never been more abundant, but verifiable authenticity: proof of where a piece of media came from, and proof that a… | [Read →](https://svyable.github.io/desk/reader/#/b/proof-of-human/) |
 | [**Public Pressure**](books/public-pressure/) | ✅ Complete draft | 23 of 23 | 81,215 | The working thesis is that AI did not invent distrust of technology companies, politicians, insurers, employers, financial institutions, or other centers of power. | [Read →](https://svyable.github.io/desk/reader/#/b/public-pressure/) |
+| [**Renegade Code**](books/renegade-code/) | ✅ Complete draft | 26 of 26 | — | Renegade Code asks a narrower and more practical question than whether artificial intelligence will ever “rebel”: what happens when an AI system crosses a boundary its operators believed would hold? | [Read →](https://svyable.github.io/desk/reader/#/b/renegade-code/) |
 | [**Restructuring America**](books/restructuring-america/) | ✅ Complete draft | 20 of 20 | 85,169 | The book begins with the historical purpose of public works and the changing economics of intelligence. | [Read →](https://svyable.github.io/desk/reader/#/b/restructuring-america/) |
 | [**Right to Try**](books/right-to-try/) | ✅ Complete draft | 20 of 20 | 66,967 | The book rejects the easy story that innovation lives wherever regulation disappears. | [Read →](https://svyable.github.io/desk/reader/#/b/right-to-try/) |
 | [**Robust**](books/robust/) | ✅ Complete draft | 31 of 31 | 66,938 | The book’s central claim is that robustness is not resistance to change. | [Read →](https://svyable.github.io/desk/reader/#/b/robust/) |
