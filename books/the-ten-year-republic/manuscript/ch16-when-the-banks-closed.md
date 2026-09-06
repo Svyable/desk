@@ -40,6 +40,24 @@ The rational individual response was to get out early.
 
 The collective result was to make failure more likely.
 
+The international monetary system made the domestic contraction harder to escape.
+
+Under the gold standard, major currencies were tied to gold at official rates. That arrangement supplied a form of monetary discipline and exchange-rate predictability in normal times, but in crisis it linked national financial systems through gold flows and constrained central banks worried about preserving convertibility.
+
+If investors feared a currency might be devalued, they could move funds into gold or stronger currencies. A central bank defending gold reserves could respond by keeping interest rates higher than domestic unemployment or bank distress alone might justify. Countries were therefore not free to treat depression as an entirely national problem.
+
+Deflation crossed borders.
+
+War debts and German reparations added another unstable layer. American lenders had financed European recovery during the 1920s. European governments faced their own political and financial strains. When American lending contracted, pressures moved through a system already carrying unresolved obligations from World War I.
+
+The Depression became global partly because finance already was.
+
+This matters to the chapter's choice of March 1933. Roosevelt did not merely inherit failing American banks. He inherited a monetary regime in which saving the domestic system required decisions about gold, the dollar, foreign confidence, and whether old rules still deserved priority when they amplified collapse.
+
+The United States eventually suspended the ordinary domestic convertibility arrangements of the gold standard and changed the dollar's official gold value. That move was controversial because it treated monetary rules once presented as anchors of credibility as variables of recovery policy.
+
+A crisis becomes a hinge when rules that seemed outside politics are pulled back inside it.
+
 This is the bank-run problem the Federal Reserve had been created in part to address. Yet the Fed did not prevent the monetary contraction. Its decentralized structure, adherence to gold-standard constraints, internal disagreements, policy doctrine, and mistaken judgments all contributed to an inadequate response.
 
 The institution existed.
@@ -63,6 +81,20 @@ The Depression was a macroeconomic event lived as private shame.
 A person who lost a job because aggregate demand collapsed still had to tell a spouse the paycheck was gone.
 
 That gap between structural cause and individual experience matters politically. If millions of people experience the same “personal failure” at once, the explanation eventually moves from character to system.
+
+The burden was also distributed unequally before federal relief ever arrived.
+
+Black workers were often among the first dismissed from jobs and faced discrimination in both private employment and public programs. Mexican and Mexican American communities experienced intense economic pressure and coercive repatriation campaigns in some places. Women were sometimes accused of taking jobs from male breadwinners even when their families depended on their wages. Farmers confronted falling commodity prices, foreclosure, tenancy, and displacement long before the urban banking crisis reached its final stage.
+
+Then drought and environmental disaster struck parts of the Great Plains.
+
+The Dust Bowl was not simply “the Depression with bad weather.” Drought interacted with farming practices, debt, land use, and high winds to destroy crops and topsoil in heavily affected regions. Families migrated west, especially toward California, where agricultural labor markets and local hostility produced another version of the crisis.
+
+Economic collapse was therefore not one national experience evenly shared.
+
+It was a federal problem assembled from regional catastrophes.
+
+That helps explain why the New Deal became institutionally complicated. Washington could create money, credit, statutes, and national programs, but relief still had to reach people through states, counties, banks, employers, landowners, and local administrators. Federal capacity increased while implementation remained geographically uneven.
 
 The election of 1932 turned on that shift.
 
