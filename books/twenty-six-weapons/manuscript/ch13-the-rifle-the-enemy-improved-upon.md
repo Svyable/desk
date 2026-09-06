@@ -213,3 +213,69 @@ It would have failed by refusing.
 The rifle that did not remain standard helped Springfield build the rifle that did.
 
 Sometimes the most important weapon of a decade is the one that teaches the customer to replace it.
+
+The production numbers show why that lesson was expensive enough to matter.
+
+Springfield's records put Krag production at nearly half a million rifles across the 1890s and early 1900s. The factory was not experimenting with a handful of imports. It had retooled a national armory around a licensed foreign design, built gauges and processes, trained workers, and changed the Army's ammunition system. By the time combat exposed the next standard, the Krag was already an industrial fact.
+
+That is the procurement trap in its pure form.
+
+A weapon can be wrong for the future and still be too real in the present to disappear immediately.
+
+The Army therefore lived with overlap. Regulars in the Spanish-American War used Krags, while some National Guard formations still carried Trapdoors. Later, Krags remained in inventories while the Model 1903 entered production. Old standards do not vanish when the adoption memorandum is signed.
+
+They migrate down the hierarchy.
+
+Reserve units inherit them.
+
+Training systems continue to use them.
+
+Depots continue to stock parts.
+
+Wars can call them back.
+
+This is why a military's real equipment state is almost always messier than its official “standard weapon” suggests.
+
+The Krag also marks a particularly revealing break in Springfield's story. NPS calls it the first effective repeating rifle adopted by the U.S. military and notes that American arms makers were not leading the development of magazine-fed military rifles. The federal armory that had spent a century building national pride around domestic manufacture was now licensing a Norwegian system because the world had moved ahead.
+
+That could have produced institutional defensiveness.
+
+Instead, it produced a useful kind of humility.
+
+The Spanish war deepened it.
+
+Springfield's detailed history does not simply say the Mauser was “better.” It identifies specific differences American officers observed: a stronger bolt with two locking lugs, a higher-velocity cartridge with greater energy and maximum range, and rapid loading from a metal charger. Those are not mystical properties of foreign genius. They are design decisions that can be studied.
+
+The next rifle becomes a report on the previous battle.
+
+The Model 1903's development is therefore an example of competitive intelligence in steel. American engineers examined the performance of an adversary's system, identified which features mattered, combined them with lessons from the Krag and existing Springfield practice, and created a new service rifle.
+
+The resulting patent disputes are almost comically appropriate.
+
+A country that had once copied the Charleville because it needed a practical standard now found itself paying for features associated with Mauser patents while producing a weapon celebrated as the Springfield.
+
+The name on the receiver never contained the whole ancestry.
+
+Nor does it today.
+
+Modern weapon systems integrate foreign components, allied requirements, licensed technologies, open standards, commercial processors, and intellectual property accumulated across companies and countries. The nationalist image of a weapon as a self-contained proof of domestic genius becomes less accurate as systems become more complex.
+
+The Krag lets the book make that point before complexity becomes electronic.
+
+It also adds a sharper meaning to the word “enemy” in the chapter title.
+
+Spain did not improve the American rifle on purpose.
+
+The Mauser improved it by being encountered.
+
+An adversary's capability can become part of your research-and-development process without any cooperation at all.
+
+That is one reason military competition accelerates technology and one reason the acceleration is so wasteful. Each side pays to learn because the other side's improvement changes the cost of standing still.
+
+The Krag was modern enough to force the Army out of the Trapdoor era.
+
+The Mauser was modern enough to force the Army out of the Krag era.
+
+The lesson of the 1890s is not that the Army chose badly.
+
+It is that choice has an expiration date.
