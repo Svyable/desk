@@ -34,6 +34,14 @@ The history of suffrage is therefore not a straight line from Stanton and Susan 
 
 It is a coalition history with exclusions inside the coalition.
 
+Black women's club organizations made that contradiction impossible to ignore. The National Association of Colored Women and local clubs treated suffrage as one part of a larger program involving education, anti-lynching work, public health, child welfare, employment, and community institution building. Political rights were not separable from the conditions under which Black families lived.
+
+That wider agenda also explains why the word “women” can be misleading when used as if all women occupied the same legal or social position.
+
+A wealthy white reformer, a Black domestic worker in the South, an immigrant garment worker in New York, a Native woman whose citizenship status depended on federal policy, and an Asian immigrant barred from naturalization could all be excluded from power in different ways. Sex linked their legal position in one dimension. Race, citizenship, labor, class, geography, and marital law separated their practical options in others.
+
+A constitutional amendment could remove the common sex barrier without producing a common political experience.
+
 By the late nineteenth and early twentieth centuries, several western states and territories had already enfranchised women in state elections. Wyoming Territory granted women voting rights in 1869 and retained them upon statehood. Colorado voters approved women's suffrage in 1893. Other western states followed.
 
 These state victories mattered as demonstrations.
@@ -43,6 +51,14 @@ They allowed supporters to argue that women's voting would not produce the socia
 State-by-state strategy had limits, however. In regions where legislatures or male electorates strongly opposed suffrage, progress could be slow or impossible. A constitutional amendment offered a national solution, just as Reconstruction amendments had used federal constitutional power to override certain state voting restrictions.
 
 The federalist question returned: when is a right important enough to remove from state control?
+
+The answer divided even suffragists.
+
+Some organizers believed state campaigns built durable local coalitions and made national victory politically safer. Others saw state-by-state work as an endless series of contests in which opponents needed to win only often enough to delay equality for another generation. Southern politics made the federal question especially explosive because white leaders understood that a national amendment could also increase the number of Black citizens legally entitled to register.
+
+Some white southern suffragists tried to reassure segregationists that white supremacy could survive women's enfranchisement through the same racial voting restrictions already used against Black men. Others opposed a federal amendment precisely because they feared national authority over voting.
+
+The fight over women's suffrage therefore inherited Reconstruction's unresolved struggle over who controls the ballot: states or the national Constitution.
 
 By the 1910s, the suffrage movement had developed competing tactical organizations.
 
@@ -121,6 +137,18 @@ The expectation that women should produce a coherent “women's vote” treated 
 The amendment nevertheless changed campaigning and party organization. Politicians had to appeal to an expanded electorate. Women's political organizations redirected energy toward legislation, voter education, peace activism, labor reform, maternal and child welfare, prohibition, anti-prohibition, civil rights, and other causes.
 
 The League of Women Voters emerged from the suffrage movement as an organization focused on political education and participation.
+
+The first elections after ratification also exposed how different legal eligibility was from immediate political participation.
+
+Registering millions of new voters required local administration, party outreach, information, and in some places changes to election procedures. Turnout did not instantly become universal among newly eligible women. Family expectations, political habit, transportation, local registration rules, work, childcare, and the belief that politics remained a male domain could all shape whether a legal right was exercised.
+
+Parties had to learn how to campaign to women without assuming that a wife simply reproduced her husband's vote.
+
+Women officeholders and party officials gained visibility, but political institutions did not suddenly become gender-balanced. Candidate recruitment, fundraising, patronage networks, professional careers, and social expectations still favored men.
+
+The amendment opened the door to formal participation faster than political organizations redistributed power inside the room.
+
+That gap would persist.
 
 Other activists pursued an Equal Rights Amendment, first introduced in Congress in 1923, arguing that formal equality required removing sex-based legal distinctions. Some women reformers opposed that strategy because they feared it would invalidate protective labor laws for women.
 
