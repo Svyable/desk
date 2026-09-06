@@ -313,3 +313,41 @@ They cannot create the gigawatts the country needs.
 They can make the gigawatts arrive at a more useful hour.
 
 Sometimes that is enough to change what has to be built next.
+
+The publication-level question is not simply how many batteries a campus installs. It is how much **firm obligation** the battery can reliably remove from the public system.
+
+That number can be much smaller than the nameplate rating. A four-hundred-megawatt battery may have to reserve part of its state of charge for private ride-through. Its output may be derated by temperature, warranty limits, or minimum state-of-charge requirements. The system peak may last longer than the contracted discharge duration. A second stressed hour may arrive before the battery has had a safe opportunity to recharge.
+
+Reliability planning therefore needs a duration-adjusted answer rather than a press-release answer.
+
+What is the battery expected to deliver during the actual event sequence the grid fears?
+
+Can it respond on the first hot afternoon and the second one?
+
+Can it recharge overnight if the system remains tight?
+
+What happens during a multi-day winter event when solar output is low and gas supply is constrained?
+
+If the battery is part of the campus's emergency architecture, how much energy must remain unavailable to the grid so the customer can still meet its own uptime standard?
+
+These questions make storage credit less glamorous and more useful.
+
+They also reveal a possibility that matters enormously for data centers: **capacity subscription can be paired with energy autonomy for only the critical hours**.
+
+A campus may not need the grid to guarantee its absolute maximum demand every minute of the year. If onsite storage can cover a shortfall while flexible workloads reduce consumption, the firm subscription can be smaller than the physical peak. The battery is then not merely shaving a bill. It is helping define the service contract itself.
+
+That can change infrastructure decisions upstream.
+
+Suppose a campus has a maximum electrical design load of five hundred megawatts but can guarantee that its grid import never exceeds four hundred during declared constrained hours because storage and workload controls cover the rest. If the promise is tested and enforceable, the utility can plan around a different number. One hundred megawatts of battery-backed flexibility can become one hundred megawatts of avoided firm obligation.
+
+The distinction between energy and capacity is doing real economic work.
+
+This is also where state-of-charge rules become governance. If the grid is counting on the battery at 6 p.m., the customer cannot freely empty it at 4 p.m. because wholesale prices were attractive. If the customer needs the battery for private resilience, the grid cannot assume the entire device is available. The contract has to allocate the stored energy before the emergency begins.
+
+That is a small example of the larger theme of this book.
+
+The technology is often less novel than the institution required to make it dependable.
+
+Batteries are already good at moving electricity through time.
+
+The data-center era is forcing the grid to get better at deciding **whose time they are allowed to move**.
