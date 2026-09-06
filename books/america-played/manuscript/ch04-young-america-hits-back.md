@@ -143,3 +143,93 @@ A bare-knuckle fighter could draw people across state lines, fill newspapers, ac
 The country was learning to watch itself fight.
 
 Tom Hyer was the man in the ring when it learned.
+
+## The challenger test: why the 1840s are not a horse-racing decade
+
+The strongest objection to Hyer is historical inertia.
+
+Horse racing had deeper institutions, deeper money, and a longer claim on American attention. If the previous chapters are dominated by jockeys and match races, why leave the track in the 1840s for one illegal or semi-legal prizefight?
+
+Because importance is not market share alone.
+
+The Hyer-Sullivan fight reveals a new density of individual celebrity, media conflict, ethnic symbolism, and logistical entrepreneurship around one human athlete. Racing could make a horse famous and a jockey respected. Prizefighting could make the man himself the entire poster.
+
+That concentration changes the economics of attention.
+
+A horse owner can sell breeding value after a victory. A promoter can sell the next fight because the public wants to see what happens to the same man. The athlete’s personality becomes inventory.
+
+This difference helps explain why boxing became such an efficient engine of modern celebrity. It requires almost no translation. The public does not need to know every strategic convention to understand that two men have agreed to settle a dispute under rules. Names become enough.
+
+Hyer versus Sullivan.
+
+The pairing itself is the product.
+
+That product carried the social categories the public assigned to each fighter. Hyer’s native-born identity and Sullivan’s Irish immigrant identity gave the event a political charge that no official party platform had to manufacture from scratch. The country was already arguing over immigration, urban power, religion, labor, and national belonging. Boxing did not create those divisions.
+
+It packaged them.
+
+Packaging matters because it determines who encounters the argument. A legislative speech reaches one audience. A bare-knuckle championship reaches another. Sport brings people into a social dispute through suspense rather than civic duty.
+
+That is one of its most durable political powers.
+
+The fan does not have to agree to attend a seminar on immigration.
+
+He wants to know who wins.
+
+The argument rides inside the entertainment.
+
+Hyer’s challenger case also includes the early rise of baseball. The game was spreading, clubs were organizing, and the Knickerbocker rules had already begun standardizing play. But baseball in the 1840s had not yet produced an individual national star whose public meaning exceeded the local club system. Its institutional future was enormous; its celebrity present was not yet Hyer’s.
+
+This distinction prevents another retrospective error. The sport that dominates later memory does not automatically get every earlier decade as prehistory.
+
+Baseball will get its turn when a player changes the game itself.
+
+Jim Creighton arrives in the 1860s.
+
+Hyer owns the 1840s because boxing is doing something baseball has not yet learned to do at the same national scale: sell one athlete as a human argument.
+
+The illegal status of the fight strengthens rather than weakens the case. A mature league schedules a game inside an accepted legal framework. Hyer’s event required participants to construct the framework temporarily—location, transport, security, backers, communication, and enough uncertainty about enforcement to keep the contest alive.
+
+The sport was not simply under-regulated.
+
+It was entrepreneurial around regulation.
+
+Modern sports businesses often hide the amount of institutional labor required to create “the game.” Television contracts, venue agreements, insurance, security, medical protocols, licensing, travel, ticketing, gambling integrity, labor law, and sponsorship disappear behind a scheduled start time.
+
+Hyer’s era exposes the scaffolding because the scaffolding is crude.
+
+Somebody has to find the place.
+
+Somebody has to get the crowd there.
+
+Somebody has to persuade the fighters the purse will exist.
+
+Somebody has to manage the possibility that authorities intervene.
+
+The champion’s scarcity makes all of that work economically rational.
+
+This is athlete value before franchise value fully matures.
+
+The person is the scarce asset around which the institution is improvised.
+
+John L. Sullivan will later inherit a better distribution system. Babe Ruth will inherit a league season and daily media. Michael Jordan will inherit global broadcasting and branded products. Tom Hyer stands much earlier in the chain, when the star already has enough value that infrastructure gets built around the appearance.
+
+That is why the fight matters beyond the violence.
+
+It demonstrates that American sports attention has become mobile capital.
+
+Newspapers can raise it.
+
+Transportation can move it.
+
+Promoters can concentrate it.
+
+Wagers can monetize it.
+
+Political identity can intensify it.
+
+And one athlete can become the point at which all five systems meet.
+
+That makes Hyer more than a champion of his rules era.
+
+It makes him a prototype of the American sports celebrity as contested public property.
