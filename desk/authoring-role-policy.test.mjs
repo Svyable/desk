@@ -76,7 +76,10 @@ equal(initialRemote.brandEyebrow, 'Bookself');
 const boundary = fs.readFileSync(new URL('./authoring-boundary.js', import.meta.url), 'utf8');
 const roleCss = fs.readFileSync(new URL('./authoring-role.css', import.meta.url), 'utf8');
 const index = fs.readFileSync(new URL('./index.html', import.meta.url), 'utf8');
+const imprint = JSON.parse(fs.readFileSync(new URL('../imprint.json', import.meta.url), 'utf8'));
 
+equal(imprint.brandOwner, 'Sven Hardy Benson');
+equal(imprint.owner, 'Svyable');
 match(boundary, /authoringRolePolicy/);
 match(boundary, /initialAuthoringRolePolicy/);
 match(boundary, /applyWorkspacePolicy\(initialAuthoringRolePolicy\(\{ remoteInspection \}\)\)/);
@@ -93,7 +96,7 @@ match(boundary, /\.desk-brand \.eyebrow/);
 match(boundary, /\.desk-mark/);
 match(boundary, /\.skip-link/);
 match(boundary, /\.desk-footer p/);
-match(boundary, /identity: \{ owner: imprint\.owner, name: imprint\.name \}/);
+match(boundary, /identity: \{ owner: imprint\.brandOwner \|\| imprint\.owner, name: imprint\.name \}/);
 
 match(roleCss, /repeat\(3, minmax\(0, 1fr\)\)/);
 match(roleCss, /\.desk-local-workspace #startBookLink\s*\{[^}]*display:\s*none/s);
