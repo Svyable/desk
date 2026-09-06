@@ -311,3 +311,73 @@ Their advantage is not merely access to the new capability.
 It is the opportunity to notice that choosing a tool means choosing a neighborhood.
 
 And neighborhoods become cities when enough other people decide to build beside you.
+
+Standards also have constitutions, even when nobody calls them that.
+
+Someone decides how the rule changes.
+
+Someone decides which implementation counts as compliant.
+
+Someone controls the trademark, test suite, repository, patent pool, certification mark or reference implementation. Some standards are maintained by open communities. Others are defined through industry bodies. Others are published interfaces whose practical governance remains concentrated in one company.
+
+Two technologies can be equally compatible today and carry very different political risk tomorrow.
+
+That risk is easy for early adopters to ignore because governance failures often arrive after technical success.
+
+The interface works.
+
+Developers build.
+
+Customers integrate.
+
+Then the steward changes a fee, removes a capability, restricts a class of application or alters the certification process. The installed base discovers that compatibility did not mean shared control.
+
+This is not an argument that every standard should be democratically governed.
+
+It is an argument that governance is part of compatibility.
+
+A stable interface controlled by one firm can be more useful than a theoretically open standard with no competent steward. A consortium can move slowly enough to frustrate innovation. An open-source project can be dominated by a small group in practice. Formal openness and practical power do not always match.
+
+The adopter’s question is simpler.
+
+Who can make my compatible investment incompatible later?
+
+The answer tells you where the dependency lives.
+
+This turns exit into a design dimension.
+
+A system can be compatible on entry and hostile on exit. It happily imports your files, contacts, catalogs or code and makes exporting them incomplete or expensive. An API can be easy to integrate and impossible to replace because the integration depends on dozens of proprietary extensions. A format can be documented yet so complex that only one vendor implements the obscure features your organization uses.
+
+Compatibility should therefore be tested in both directions.
+
+Can I join?
+
+Can I leave?
+
+Early adopters have unusual leverage over the second question because the dependence has not yet accumulated.
+
+They can refuse proprietary data traps before data volumes become enormous. They can design abstraction layers before dozens of teams depend on direct integrations. They can negotiate contractual export rights while the vendor still wants the reference customer badly. They can select a standard partly because multiple independent implementations already exist.
+
+These choices can look like unnecessary engineering during the honeymoon.
+
+They become valuable when the honeymoon ends.
+
+There is a broader market consequence.
+
+Easy exit disciplines producers.
+
+A customer that can move is harder to exploit. Competitors can enter because switching does not require reconstructing the customer’s entire history. Complement makers can support multiple systems because shared seams reduce duplicated work.
+
+Compatibility can therefore create competition around a shared base rather than competition among incompatible islands.
+
+Sometimes that is exactly what a young technology needs.
+
+The market can explore many implementations without forcing every adopter to bet the whole ecosystem on one company.
+
+The standard becomes a floor for coordination rather than a ceiling on invention.
+
+That is one of the healthiest futures early adopters can vote for.
+
+Not perfect uniformity.
+
+Enough sameness that difference can compete.
