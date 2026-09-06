@@ -134,6 +134,76 @@ The catch is that a simulator is flexible and precise. The physical system compu
 
 Specialization is the bargain.
 
+The bargain becomes clearer when the reservoir's timescale is compared with the signal's timescale.
+
+A reservoir that forgets in nanoseconds is poorly matched to a vibration pattern whose useful history spans seconds unless some encoding stretches or samples the signal. A reservoir that relaxes over seconds is poorly matched to a microwave waveform that changes billions of times faster. The material's fading memory needs to overlap the temporal structure of the task.
+
+This is not a minor tuning parameter. It is the reason one physical reservoir can be excellent for one data stream and useless for another.
+
+The input interface can rescale time, but rescaling costs hardware. A fast electronic frontend can compress a slow signal into pulses. A delay line can spread fast signals. Time multiplexing can make one nonlinear node imitate a larger network. Each technique adds apparatus whose energy and latency belong in the comparison.
+
+Task matching therefore starts before training.
+
+A sensible designer asks: What memory horizon does the task need? What bandwidth does the sensor produce? What nonlinearities separate the classes? How much output precision matters? Only then should the magnetic substrate be chosen.
+
+This reverses a common research sequence in which a fascinating material is found first and a benchmark is chosen afterward because it happens to run.
+
+Technology matures when the problem starts choosing the material.
+
+Training introduces another important asymmetry between a physical reservoir and a conventional neural network. In many reservoir architectures, the complex internal dynamics are not trained in the same way as every weight in a deep network. The readout is trained while the reservoir remains fixed or is tuned through a smaller number of physical controls.
+
+That can make training simple and can also limit adaptation.
+
+If the reservoir's dynamics are a poor fit for the task, no linear readout can invent missing information. Reconfigurable magnetic reservoirs are appealing because they may allow the underlying dynamics to move toward the task before the readout is fitted.
+
+But every additional tunable parameter turns the simple reservoir into a harder optimization problem.
+
+There is an optimum amount of configurability. Too little and the hardware is inflexible. Too much and the system loses the reason for using a naturally computing material in the first place because a controller has to search an enormous physical parameter space.
+
+This is the hardware version of overparameterization without cheap gradients.
+
+A digital neural network can compute derivatives and update millions of weights rapidly. A physical reservoir may require field sweeps, measurements and settling time for each candidate configuration. Training cost can therefore be dominated by experiments rather than arithmetic.
+
+Surrogate models can help. Characterize the device, build an approximate digital model, search promising configurations in simulation, and test only a small set physically. The model will not perfectly reproduce the reservoir, but it can narrow the search.
+
+The physical system and its digital shadow can train each other.
+
+This is one place where machine learning genuinely earns a role in next-generation magnetic hardware. Not as a magical designer, but as a way to reduce the number of expensive physical trials.
+
+Drift complicates the arrangement after deployment.
+
+Temperature changes resonance. Aging changes material parameters. Bias circuitry drifts. A reservoir trained in January may present a slightly different transfer function in July. If the task is tolerant, the readout may continue to work. If not, the system must recalibrate or retrain.
+
+This creates a maintenance interval analogous to recalibrating an industrial sensor.
+
+How often that interval occurs can decide the product. A reservoir that saves microwatts during inference and requires an hour of laboratory recalibration every day is not an edge-computing triumph. A device that self-calibrates during ordinary operation could be much more attractive.
+
+Reference inputs are one route. Periodically feed known patterns and measure the response. If the mapping moves, update the digital readout. Another route is online learning in which the readout adapts gradually to distribution and hardware drift. That introduces the risk that the system adapts to a fault and normalizes it.
+
+A trustworthy reservoir needs a distinction between expected drift and damage.
+
+This is another example of why physical computing cannot be assessed only by benchmark accuracy.
+
+Precision also deserves realism. A physical reservoir is naturally analog even if the input and output interfaces are digital. Its internal state is not represented by exact floating-point numbers. Noise and finite sensor resolution limit how many distinguishable features the readout can extract.
+
+For classification, that may be fine. The task needs a decision boundary, not a scientific reconstruction of every internal variable. For numerical computing requiring many accurate digits, the same reservoir could be a poor fit.
+
+The right workload is one in which useful information survives low-precision physical transformation.
+
+This is why anomaly detection is an appealing conceptual target. A machine-health monitor may need to distinguish ordinary vibration from a family of abnormal patterns, not reproduce the waveform to twelve decimal places. A physical reservoir close to the sensor can compress temporal structure into a few diagnostic features and wake a larger processor only when necessary.
+
+The energy calculation then changes. The reservoir does not have to beat a GPU running once. It has to beat the standby and data-movement cost of monitoring continuously.
+
+Duty cycle is architecture.
+
+A magnetic reservoir may be mediocre when active and valuable if it allows the expensive digital system to remain asleep most of the time. Nonvolatile magnetic tuning can help preserve configuration during those sleep periods.
+
+This creates a plausible division of labor: physical dynamics for always-on filtering, digital computation for rare high-complexity decisions.
+
+The result would not look like a magnetic computer to the user. It would look like a sensor with unusually efficient local judgment.
+
+That is often how specialized computing becomes infrastructure.
+
 The future of magnetic physical computing will depend on whether there are enough valuable tasks inside that bargain.
 
 I suspect the first meaningful deployments, if they arrive, will be unimpressive to people waiting for a magnetic supercomputer. They may be adaptive RF filters, anomaly detectors near industrial sensors, low-power temporal classifiers or control primitives embedded in devices that still look mostly electronic.
