@@ -187,3 +187,21 @@ One invention reached too far and failed.
 The next looked ordinary and quietly changed what a machine could be.
 
 America would need both kinds.
+
+There is one more reason the mill deserves to outrank more glamorous 1780s machinery: Evans made the process portable in writing. *The Young Mill-Wright and Miller’s Guide* came later, but publication turned shop knowledge into something closer to a reproducible industrial method. A machine can diffuse when someone copies the object. A system diffuses more effectively when its logic can be described, diagrammed, taught, criticized, and adapted.
+
+That difference matters because early American manufacturing was geographically scattered. There was no national engineering firm installing one uniform mill everywhere. Millwrights worked in local conditions, with different streams, structures, customers, and materials. A guide could carry principles farther than Evans could travel and allow skilled readers to translate them into their own mills.
+
+The book therefore became part of the invention. Not because prose moved grain, but because documentation lowered the cost of imitation.
+
+Modern engineers would recognize the role immediately. A brilliant internal tool that only its creator understands is fragile. A documented interface or process becomes organizational knowledge. Open-source software, technical standards, maintenance manuals, operating procedures, and scientific methods all exploit the same fact: repeatability depends on transmitting instructions, not merely demonstrating outcomes.
+
+Evans also helps distinguish automation from autonomy. His mill could move material through a predetermined sequence without asking a worker to carry each load. It could not decide what flour to make, negotiate with a farmer, notice a new market, redesign itself after a broken gear, or choose a different objective. The machine executed structure supplied by people.
+
+That boundary remained surprisingly durable. Twentieth-century industrial automation became vastly more sophisticated through sensors and feedback, yet most systems still operated inside objectives defined elsewhere. The excitement around modern AI comes partly from pressure on that old boundary: systems can now interpret less-structured inputs, generate alternatives, and sometimes choose intermediate actions rather than merely follow a fixed mechanical path.
+
+The comparison makes Evans more, not less, relevant. The first automation revolution taught us how powerful it is to remove the human from the predictable handoff. The current one asks what happens when the handoff itself is no longer fully predictable.
+
+The same warning travels across the centuries. When a process appears to run by itself, look for the humans who defined the acceptable inputs, built the mechanism, repair the exceptions, and own the output. Automation does not abolish those questions.
+
+It rearranges where they are asked.
