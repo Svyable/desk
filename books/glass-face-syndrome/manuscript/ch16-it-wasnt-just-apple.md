@@ -395,3 +395,89 @@ The world learned to reorganize around a device architecture that many companies
 Once the reorganization was complete, dependence no longer required persuasion.
 
 The ticket was already behind the glass.
+
+There is another actor in the ecosystem that deserves more attention because it often disappears into the word “user”: government.
+
+Public institutions increasingly built mobile access into civic life. Transit agencies added mobile tickets. Health systems added patient portals and appointment messaging. Emergency agencies used wireless alerts. Tax, parking, identity, benefits, and public-service interfaces became easier to reach from phones. In many cases this improved access dramatically. A person no longer had to take time off work to stand at a counter or find a desktop computer.
+
+But when public access becomes smartphone-first, convenience acquires an equity question.
+
+Who has a current device?
+
+Who can afford data?
+
+Who has reliable charging?
+
+Who can navigate app stores and authentication flows?
+
+Who shares a phone?
+
+Who has a disability the interface does or does not accommodate?
+
+Who has an address, bank account, or identity credential required by the surrounding service?
+
+The smartphone can lower barriers and create new ones at the same time.
+
+That matters to this book because infrastructural dependence is not evenly distributed. A wealthy user can respond to phone overload by buying a smartwatch, second device, dedicated camera, paper planner, home assistant, or minimalist phone. They can outsource logistics to other people. A low-income worker may carry one device because it is the cheapest way to combine internet access, job search, banking, family communication, navigation, and work scheduling.
+
+The same convergence that creates overload also creates affordability.
+
+One powerful object can be cheaper than ten specialized objects.
+
+So fragmentation is not a universally desirable solution.
+
+This is why nostalgia for the pre-smartphone toolkit can become class-blind. A separate camera, GPS unit, music player, landline, laptop, newspaper subscription, physical bank branch, taxi dispatcher, and printed ticket system consumed money, space, time, and infrastructure. The smartphone consolidated capabilities that were once less accessible to people without resources.
+
+The burden is to preserve that democratization while improving boundaries.
+
+A good post-smartphone design should not require wealth to buy freedom from interruption.
+
+It should make attention protection a default capability of the common infrastructure.
+
+The same applies to accessibility. Voice control, screen readers, magnification, haptics, hearing-device integration, live captions, translation, navigation, and emergency features can make the smartphone unusually important for people with disabilities. A blanket call to “use a dumbphone” can mean asking some users to surrender independence other people take for granted.
+
+The moral problem is therefore not smartphone versus no smartphone.
+
+It is whether powerful general-purpose access has to arrive bundled with generalized claims on attention.
+
+Those things became historically coupled.
+
+They are not logically inseparable.
+
+A platform can support a screen reader without promotional notifications.
+
+A phone can provide transit without an infinite feed.
+
+A family can remain reachable without public metrics.
+
+A worker can authenticate without carrying the office into every hour.
+
+Separating these layers is the design project after convergence.
+
+The ecosystem that built Glass Face Syndrome can also weaken it because responsibility is layered in both directions.
+
+Operating systems can change defaults.
+
+Platforms can change incentives and metrics.
+
+Employers can change response norms.
+
+Schools can define device environments.
+
+Governments can preserve non-smartphone access and regulate certain practices.
+
+Developers can design stopping cues.
+
+Users can reshape local habits.
+
+Families can create shared boundaries.
+
+No one intervention will reverse a system nobody built alone.
+
+That is not a reason for fatalism.
+
+It is a map of leverage.
+
+The world behind the glass was assembled layer by layer.
+
+It can be edited the same way.
