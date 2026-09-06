@@ -194,4 +194,76 @@ It would cut across a barrier rather than push against a current.
 
 And when it opened, the economic map of the young country would tilt toward a city at the Atlantic end of a trench.
 
+The key to understanding early steam navigation is that the engine was only one part of a reliability stack.
+
+A profitable route needed a hull suited to its water, machinery that could survive repeated operation, fuel available often enough to keep the vessel moving, crews who could manage both navigation and machinery, landings where passengers and freight could transfer, and customers willing to trust the timetable. A failure anywhere in that chain could turn the celebrated power of steam into a stranded boat.
+
+This is why the steamboat’s history looks different from the inventor’s workshop once the machine enters service.
+
+The workshop asks: can the engine move the vessel?
+
+The market asks: can the vessel complete enough trips, cheaply and safely enough, that people reorganize around it?
+
+Those are different technical questions.
+
+Reliability is cumulative. A piston seal that leaks slightly, a boiler that consumes too much fuel, a hull drawing too much water, an unreliable fuel stop, or a route vulnerable to seasonal conditions may each be tolerable once. Repeated together, they can make a service uneconomic.
+
+The commercial steamboat therefore emerged through iteration across the whole vessel and route rather than through one triumphant engine design.
+
+Western rivers intensified the challenge.
+
+The Mississippi system was broad, powerful, shallow in places, variable, and filled with hazards. Channels shifted. Sandbars formed. Snags could tear into hulls. Seasonal water levels changed which routes were practical. Boats built for those rivers evolved toward different proportions and operating assumptions than deep-draft ocean vessels.
+
+This is adaptation in the literal engineering sense.
+
+The technology had to fit the environment rather than merely overpower it.
+
+That is a useful correction to the language of “conquering” the river. Steam power reduced one constraint, but successful operators still had to read the water. Pilots developed specialized local knowledge of channels, landmarks, currents, and hazards. Mechanical power increased the value of human expertise rather than eliminating it.
+
+The pilot’s knowledge and the engineer’s knowledge were different and complementary.
+
+One understood the route.
+
+One understood the machine.
+
+The service needed both.
+
+That division of expertise is an early example of a pattern that industrial systems will amplify. Railroads require locomotive engineers, dispatchers, track crews, bridge engineers, telegraph operators, and schedulers. Electrical grids require generation, transmission, protection, load balancing, and field maintenance. Computer networks require hardware, protocols, routing, security, and operations.
+
+As technology scales, no single person holds the whole system in working memory.
+
+Coordination among specialists becomes part of the technology.
+
+Safety reveals the same point from the negative side.
+
+A boiler explosion is often described as a mechanical failure, but the causes of catastrophe can include design, materials, maintenance, inspection, operating pressure, incentives, training, and competitive behavior. If a captain or owner can gain time by pushing machinery harder, then the economic system reaches into the engineering margin.
+
+The machine has a red line.
+
+The market creates reasons to cross it.
+
+That is why regulation eventually becomes part of the technological system rather than an external annoyance attached afterward. Inspection standards, licensing rules, operating practices, and liability can change the expected behavior of owners and crews. A boiler built under one set of incentives is not socially equivalent to the same boiler operated under another.
+
+This relationship between engineering and incentives will return repeatedly.
+
+Automobile safety depends on vehicle design and traffic law. Aviation safety depends on aircraft, maintenance, air-traffic control, training, investigation, and regulation. Nuclear safety depends on reactor physics and organizational culture. AI reliability will depend on model capability and the institutions deciding where models may act without supervision.
+
+Safety is a system property.
+
+The early steamboat made Americans learn that lesson publicly because failures could be spectacular.
+
+The same visibility helped build trust when service worked. A passenger who completed a fast upstream trip did not need to understand thermodynamics to understand that the economic geography had changed. Merchants could compare arrival times. Towns could see more regular traffic. Investors could imagine routes previously constrained by one-way economics.
+
+Demonstrated reliability converts technical possibility into social expectation.
+
+That conversion is why the steamboat earns its decade even before western traffic reaches later scale.
+
+The important threshold is not that every river was transformed by 1815.
+
+It is that Americans had seen enough to know the current could be bought off with machinery, fuel, capital, and organization.
+
+Once a physical constraint has a price, entrepreneurs and governments can begin arguing over who should pay it.
+
+That argument is the beginning of infrastructure.
+
 **What would prove this choice wrong?** The steamboat loses if its commercial scale before 1815 proves too small to justify treating the capability threshold as more important than realized adoption. A strong case can be made that the integrated textile factory, expanding cotton system, or road network changed more actual production and employment during this interval. The steamboat also loses if its key effects should properly be assigned to 1816–1825, when western river service accelerated. I keep it here because 1807–1811 establishes the crucial break: powered commercial navigation became credible in both Atlantic and interior river contexts. The country had learned that current was no longer destiny, even if it would spend the next decades learning how dangerous and expensive that freedom could be.
