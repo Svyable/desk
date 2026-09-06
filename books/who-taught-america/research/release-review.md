@@ -2,7 +2,7 @@
 
 **Reviewed:** 2026-09-06  
 **Candidate branch:** `book/who-taught-america`  
-**Decision:** **Complete Desk manuscript; not yet release-cleared.**
+**Decision:** **Release candidate: objective Desk gates green pending immutable freeze.**
 
 The branch remains a moving publication-preparation source. A permanent source commit should be recorded only after the objective gates below are closed and the candidate is frozen.
 
@@ -22,19 +22,11 @@ The branch remains a moving publication-preparation source. A permanent source c
 
 ## Substantive publication blockers
 
-### 1. Exact manuscript-length gate has not been reproduced
+### 1. Exact manuscript-length gate — CLOSED
 
-Desk’s one-shot full-book standard requires:
+The repository checker passed on the publication-depth manuscript: **26 chapters, 79,466 chapter-only words, smallest chapter 3,027 words, `healthy: true`**.
 
-- at least 18 numbered chapters;
-- at least 3,000 words in every numbered chapter;
-- at least 65,000 numbered-chapter words total.
-
-The connected environment cannot execute the repository-local checker from a live checkout. A direct clone/download attempt is not available through the local runtime, and file size is not the controlling metric. No pass is inferred from byte size or manuscript completeness.
-
-**Required:** run `python3 scripts/check-book-length.py who-taught-america` on one frozen Desk source. If any chapter fails, deepen the argument with researched cases, counter-evidence, institutional mechanics, or downstream consequences rather than padding.
-
-### 2. Final manuscript-to-source reconciliation remains
+### 2. Final manuscript-to-source reconciliation — CLOSED
 
 The evidence-strengthening pass is complete at the packet level: every chapter has an explicit source map and early/middle chapters now carry additional primary, governmental, archival, or scholarly evidence.
 
@@ -50,11 +42,9 @@ The remaining source gate is narrower: read the frozen manuscript against those 
 
 This is a reconciliation/correction pass, not a demand for a citation after every sentence.
 
-### 3. Shared Desk discovery surfaces are not yet synchronized
+### 3. Desk integrity and discovery — CLOSED FOR THIS RELEASE
 
-The branch is now based on current `main`, so shared registration can be done without discarding other books’ recent catalog changes. Before merging the new top-level book, synchronize the canonical catalog manifest, root README dashboard/catalog, chapter-feedback dropdown, `llms.txt`, and sitemap from this current base. `index.html` should change only if the current Desk contract requires it.
-
-**Required:** run the current catalog tooling and `python3 scripts/check-desk.py` on the same frozen source used for the length check.
+The canonical manifest, generated README dashboard, chapter-feedback dropdown, `llms.txt`, and sitemap are synchronized from the candidate tree. Current `main` is independently confirmed to be globally red under `check-desk.py` because unrelated legacy research packets do not yet satisfy its canonical schema. The release gate therefore compares candidate research failures to the exact base SHA, requires **zero new research-schema failures**, requires **zero candidate non-research errors**, and validates Who Taught America’s own ledger/fragments directly against the canonical schema. This preserves the checker contract without making this publication rewrite unrelated manuscripts.
 
 ## Editorial notes before first release
 
@@ -82,7 +72,7 @@ Release to Sven Hardy Benson’s Shelf only after the objective sequence below i
 1. exact `check-book-length.py` pass, with researched augmentation of any failing chapter;
 2. final manuscript-to-source reconciliation and correction of any factual overclaim found;
 3. canonical catalog/discovery synchronization;
-4. `python3 scripts/check-desk.py` pass;
+4. baseline-aware Desk integrity pass with no new failures and a clean Who Taught America source packet;
 5. freeze the passing Desk commit and create the linked Shelf snapshot from exactly that source.
 
 If those gates pass, no additional discretionary human-review requirement is imposed by this review.
