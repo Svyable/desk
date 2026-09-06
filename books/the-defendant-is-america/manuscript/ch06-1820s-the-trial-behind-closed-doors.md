@@ -172,6 +172,88 @@ They cannot save the defendants.
 
 They can prevent certainty from being inherited too cheaply.
 
+## The archive goes on trial
+
+The most revealing development in the Vesey story happened long after everyone in the courtroom was dead.
+
+The surviving papers themselves became defendants.
+
+For generations, historians trying to reconstruct the alleged conspiracy leaned heavily on the printed *Official Report* issued in Charleston in 1822. The title promised something stronger than it could deliver. It was official, certainly. It was a report. But a report is not the same thing as an audio recording, a stenographic transcript, or a modern trial record produced under rules requiring both sides to see and challenge the evidence. Its authority came partly from proximity to the proceedings and partly from the state power behind the men who compiled it.
+
+Late-twentieth-century archival work reopened the evidentiary problem. Edward A. Pearson's 1999 *Designs against Charleston* gathered extensive manuscript material associated with the proceedings and presented what appeared to be a much fuller trial record. The publication was important precisely because it moved readers closer to the surviving evidence and away from reliance on the polished 1822 narrative alone.
+
+Then the records were challenged again.
+
+Historian Michael P. Johnson compared surviving manuscripts and argued that what scholars had treated as something close to verbatim testimony was itself the product of copying, revision, selection, and later reconstruction. The apparent precision of a sentence on a page could disguise the uncertain route by which spoken words became handwriting, one manuscript became another, and a courtroom exchange became a historical quotation.
+
+Other historians pushed back against Johnson's larger conclusions about the conspiracy. The result was not a neat replacement of one consensus by another. It was a historiographical fight over sources, transcription, inference, motive, and the degree of confidence the archive can bear.
+
+That fight improves this chapter.
+
+It means the responsible writer cannot use uncertainty only when it helps one side. If the evidence of a large, coherent conspiracy is weaker than older histories assumed, that matters. If the counterclaim that the conspiracy was substantially manufactured also outruns what the sources can establish, that matters too.
+
+The temptation is to turn uncertainty into acquittal.
+
+History is not entitled to do that automatically.
+
+A criminal jury instructed to require proof beyond a reasonable doubt must acquit when the prosecution fails that standard. A historian two centuries later has a different task. The historian is not deciding whether the state may hang Denmark Vesey. That terrible decision was already made. The historian is deciding how confidently to describe an event whose evidence was produced by an unequal process and preserved unevenly.
+
+Those are related judgments, but they are not identical.
+
+The distinction is useful far beyond Charleston.
+
+Consider what later chapters will ask us to do with the evidence in other notorious cases. In Haymarket, we will need to separate radical advocacy from proof tying particular defendants to a bomb. In Leo Frank's case, we will need to separate profound procedural and mob-pressure failures from a claim that a later pardon officially established innocence; it did not. In Korematsu, later archival discoveries will expose government representations the original Supreme Court did not confront in the way later courts could. In the O. J. Simpson trial, laboratory science will arrive through police collection practices, human testimony, contamination arguments, statistics, and institutional credibility. The recurring question is not whether documents exist. It is what inferential weight they deserve.
+
+The Vesey archive is an unusually pure version of the problem because the process that generated the evidence is itself part of the accusation against the process.
+
+The special court began meeting in June 1822 with magistrates and freeholders drawn from the society that believed itself endangered. It heard testimony in secret. The accused did not enter the room as political equals challenging a neutral sovereign. The social hierarchy that made the alleged uprising conceivable also structured the tribunal evaluating it.
+
+That does not tell us that every witness lied.
+
+It tells us that the conditions of testimony matter.
+
+An enslaved witness could possess real knowledge and still be under extraordinary pressure. An official could sincerely believe a conspiracy existed and still ask questions that shaped the answers. A clerk could record testimony carefully and still compress, reorder, or clarify speech in ways that later readers mistake for verbatim precision. A printed report could contain true facts and still arrange them into a narrative designed to justify the court's own actions.
+
+There is no contradiction in holding all of those possibilities at once.
+
+That is what a mature archive requires.
+
+It also changes the way we understand secrecy.
+
+Secrecy is usually defended as protection: protect informants, protect an investigation, prevent accomplices from learning what the state knows, prevent panic. Those can be legitimate interests. But secrecy also removes a source of error correction. A public proceeding permits observers to notice inconsistency. It allows competing accounts to circulate. It gives reporters, family members, lawyers, political opponents, and later historians additional traces from which to reconstruct what occurred.
+
+A closed proceeding can be efficient because it reduces interference.
+
+It can also become epistemically brittle.
+
+When the same institution investigates, hears, judges, punishes, and then supplies the definitive published account, every mistake has a chance to reinforce the next one.
+
+That is the deeper reason the Vesey proceedings belong here rather than as a generic chapter about slave resistance. The case is not only about whether a rebellion was planned. It is about the technology by which a state turns suspicion into record, record into verdict, verdict into policy, and policy into history.
+
+The sequence can become self-validating.
+
+A conspiracy is feared.
+
+A special tribunal is created because the danger is said to be exceptional.
+
+The tribunal produces convictions.
+
+The convictions are then cited as proof that the original fear was justified.
+
+The official report converts the convictions into a coherent narrative.
+
+The narrative becomes evidence for harsher control of the population from which the defendants came.
+
+Later readers inherit the narrative and may mistake its institutional completeness for factual completeness.
+
+This is not a reason to believe the opposite of the record.
+
+It is a reason to resist the easiest sentence in historical writing: *the records show*.
+
+Records do not show by themselves.
+
+People made them.
+
 The Vesey trials also belong in a 250-year sequence because they interrupt any comfortable story generated by Quock Walker's freedom case.
 
 In Massachusetts in the 1780s, constitutional language helps make slavery legally untenable.
