@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting · full 26-chapter first manuscript |
+| **Status** | Drafting · publication candidate · length verification pending |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
 | **Chapters** | 26 of 26 drafted |
@@ -54,3 +54,20 @@ The final 2020s winner—generative artificial intelligence—is explicitly prov
 - [Research methodology and source policy](research/README.md)
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source ledger](research/source-ledger.csv)
+
+## Rights
+
+- [Rights and permissions](RIGHTS.md)
+- [Machine-readable rights](rights.json)
+
+## Publication gates
+
+The narrative first draft, research trail, source ledger, and rights metadata are present. Before this Desk manuscript can be marked complete or released to Sven Hardy Benson’s Shelf, run the local repository gates and resolve every failure:
+
+```bash
+python3 scripts/check-book-length.py great-american-upgrade
+python3 scripts/catalog.py --write
+python3 scripts/check-desk.py
+```
+
+The first command enforces the one-shot manuscript minimums, including at least 3,000 words per numbered chapter and at least 65,000 chapter-only words. The 2020s chapter also requires a fresh current-information check immediately before release because its winner is intentionally provisional.
