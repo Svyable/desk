@@ -1,6 +1,6 @@
 # Publication Checklist — Who Taught America?
 
-This checklist governs the first publication candidate for **Who Taught America? — Twenty-Six Schools, 250 Years, and the Classrooms That Made a Nation**. Desk remains the canonical working source. Sven Hardy Benson’s Shelf will hold a frozen released snapshot, not a live mirror.
+This checklist governs the first publication candidate and release record for **Who Taught America? — Twenty-Six Schools, 250 Years, and the Classrooms That Made a Nation**. Desk remains the canonical working source. Sven Hardy Benson’s Shelf holds a frozen released snapshot, not a live mirror.
 
 ## Gate 1 — Manuscript integrity and scope
 
@@ -11,7 +11,7 @@ This checklist governs the first publication candidate for **Who Taught America?
 - [x] Research brief, canonical source ledger, chapter-source map, falsifiability notes, and release review present.
 - [x] Run `python3 scripts/check-book-length.py who-taught-america` and require `healthy: true`, every numbered chapter at or above 3,000 words, and at least 65,000 chapter-only words. Passing report: 26 chapters, 79,466 chapter-only words, smallest chapter 3,027 words.
 
-The connected environment used for this publication-preparation pass cannot execute the local checker from a live checkout. File size is not a substitute for the repository’s `WORD_RE` count, so no mechanical length pass is inferred.
+The exact repository length checker was later run on the frozen release source and passed: **26 numbered chapters, 79,466 chapter-only words, smallest chapter 3,027 words**. No mechanical length result is inferred from file size.
 
 ## Gate 2 — Claims and research
 
@@ -58,22 +58,32 @@ The branch was merged forward onto current `main` before these shared registrati
 - [x] Language is **English**.
 - [x] Complete-draft date is recorded as **2026-09-06**.
 - [x] Publication-candidate preparation began **2026-09-06**.
-- [x] Desk status is **Complete draft · publication review** rather than `Published`.
-- [x] No Shelf snapshot has been created by this publication-preparation branch.
+- [x] Desk remains the working edition and is not marked `Published`.
+- [x] Shelf carries the frozen first released edition with status exactly `Published`.
 
-The author asked to continue toward publication on 2026-09-06. This authorizes candidate preparation and objective release-gate work. It does not override a failing length, integrity, rights, or source check.
+The author asked to continue toward publication on 2026-09-06. The objective release gates were satisfied and the first Shelf edition is now released.
 
 ## Gate 6 — Freeze and release transaction
 
-- [ ] Freeze the first-edition candidate under a named Desk ref only after the manuscript/source/catalog gates above are green.
-- [ ] Run `python3 scripts/check-book-length.py who-taught-america` on that frozen source and record the result.
-- [x] Run the baseline-aware Desk integrity gate on the frozen candidate and record that it introduces zero new research-schema failures while all candidate discovery/navigation checks are clean.
-- [ ] Only after both commands pass, prepare the Shelf snapshot using the repository’s current release semantics.
-- [ ] Copy the committed Desk book snapshot to Shelf with byte-identical publication files except for the intended Shelf book-README status transformation and Shelf catalog/discovery updates.
-- [ ] Verify the Shelf book README says exactly `Published` and the root Shelf catalog contains exactly one `who-taught-america` entry.
-- [ ] Verify the public Reader route.
-- [ ] Record the frozen Desk source commit in the Desk book’s release notes after the Shelf release lands.
+- [x] Freeze the first-edition candidate under Desk ref `release/who-taught-america-first-edition-2026-09-06`, commit `1ea139b81bb4822f438c98942676d8b334a38a99`.
+- [x] Run `python3 scripts/check-book-length.py who-taught-america` on that frozen source: 26 chapters, 79,466 chapter-only words, smallest chapter 3,027 words.
+- [x] Run the baseline-aware Desk integrity gate on the frozen candidate and record zero new research-schema failures, zero candidate non-research errors, and a canonical Who Taught America source packet.
+- [x] Prepare the Shelf snapshot using the repository’s `scripts/release-book.py` semantics from the exact frozen Desk source.
+- [x] Copy the committed Desk book snapshot to Shelf with **42 non-README publication files byte-identical** to the frozen source; transform only the Shelf book README to `Published` plus normal Shelf catalog/feedback registration.
+- [x] Verify `catalog.json` contains `who-taught-america` exactly once and the root Shelf README contains the Reader route exactly once.
+- [x] Verify Shelf feedback coverage: all 55 released publication slugs covered on the release candidate and on merged `main`.
+- [x] Merge Shelf PR #242 as first-edition release commit `57d4cedf89af84156aabbd6fea3758e576424ae6`.
+- [x] Record the frozen Desk source and released Shelf route in the Desk book README.
+
+## Release record
+
+- Desk release-gate merge: Desk PR #1210, squash merge `0c31a5e92b61aaf4ca06b7ace9aafceb05134b48`.
+- Canonical frozen Desk source: `1ea139b81bb4822f438c98942676d8b334a38a99`.
+- Shelf first-edition release: Shelf PR #242, squash merge `57d4cedf89af84156aabbd6fea3758e576424ae6`.
+- Manuscript tree on the frozen Desk source: `91e4697ccab60b1cafbecd443ffcd168c6e68074`.
+- Research tree on the frozen Desk source: `7e25d99837912f60e36c082deb586426ea0dd19c`.
+- Released Reader route: `https://svyable.github.io/shelf/reader/#/b/who-taught-america/`.
 
 ## Release rule
 
-Do not publish from a moving branch. Publish only from the named frozen Desk candidate after the exact book-length check passes and the baseline-aware Desk integrity gate proves zero new regressions, including a clean canonical source packet for this book. No discretionary human-review blocker is added: once the objective gates recorded here are green, the first-edition release may proceed under the repository’s normal merge and release protections.
+The first edition is released from the named frozen Desk ref `release/who-taught-america-first-edition-2026-09-06`, source commit `1ea139b81bb4822f438c98942676d8b334a38a99`. Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.

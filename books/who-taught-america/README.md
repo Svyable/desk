@@ -2,11 +2,18 @@
 
 | | |
 |---|---|
-| **Author**    | Sven Hardy Benson |
-| **Status**    | Complete draft · publication review |
+| **Author** | Sven Hardy Benson |
+| **Status** | Complete draft |
+| **Format** | Book |
+| **Publisher** | Svyable |
+| **Edition** | First edition |
+| **Language** | English |
+| **Draft date** | 2026-09-06 |
+| **Candidate date** | 2026-09-06 |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters**  | 26 of 26 drafted |
+| **Chapters** | 26 of 26 drafted |
+| **Release Review** | First edition released — canonical freeze `1ea139b81bb4822f438c98942676d8b334a38a99`; Desk release gates merged in PR #1210 |
 
 Twenty-Six Schools, 250 Years, and the Classrooms That Made a Nation.
 
@@ -20,7 +27,14 @@ The 250-year span from 1776 through 2026 touches twenty-six named calendar decad
 
 The back matter includes a full shadow list: one serious rival school for every decade, with the case for why it could have replaced the selected institution. The point is to make disagreement part of the reading experience rather than disguise judgment as a ranking formula.
 
-The complete manuscript is now in publication review. Early and middle chapter evidence packets have been strengthened with additional primary, governmental, archival, and scholarly sources. Shelf publication remains behind objective gates only: the exact repository length check, final manuscript-to-source reconciliation, current catalog/discovery synchronization, and `scripts/check-desk.py` on the same frozen source.
+The complete manuscript passed first-edition release review. Early and middle chapter evidence packets were strengthened with additional primary, governmental, archival, and scholarly sources, and the frozen candidate cleared the exact repository length check, manuscript-to-source reconciliation, discovery synchronization, and baseline-aware Desk integrity gate before release.
+
+## Publication
+
+- First Shelf edition frozen from Desk source `1ea139b81bb4822f438c98942676d8b334a38a99`.
+- Shelf first-edition release: `57d4cedf89af84156aabbd6fea3758e576424ae6` (Shelf PR #242).
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/who-taught-america/)
+- Desk remains the working edition for future revisions; Shelf is the frozen public first edition.
 
 ## Contents
 
