@@ -120,6 +120,120 @@ Brands become powerful when they attach functional products to social anxiety.
 
 That power deserves neither automatic condemnation nor celebration. Advertising can provide information and finance entertainment. It can also manufacture dissatisfaction. The economic achievement is precisely that the company learns to influence meaning around an object whose chemistry alone cannot explain its market share.
 
+## The Brand Manager as an Internal Founder
+
+McElroy’s idea solved a psychological problem inside large organizations as much as an administrative one.
+
+A product owned by everybody can become nobody’s obsession.
+
+The factory cares about efficient production. Sales cares about accounts. Finance cares about margins. Advertising cares about campaigns. Research cares about product performance. Each function can perform well while the brand as a whole drifts because no one person wakes up responsible for the total result.
+
+The brand manager concentrates accountability.
+
+That person does not literally own the brand, but the role tries to recreate some of the urgency of ownership. Sales weakness becomes the manager’s problem. A competitor’s campaign becomes the manager’s problem. Packaging, pricing, distribution, research, and advertising become pieces of one commercial argument rather than disconnected departmental outputs.
+
+This is internal entrepreneurship with a corporate balance sheet behind it.
+
+The model became powerful because it addressed a recurring weakness of bureaucracy: specialization can make every function locally rational while the customer experience becomes globally incoherent.
+
+The brand manager exists to hold the whole in mind.
+
+Modern product managers in technology companies inherit part of this logic. They often own no engineers, designers, salespeople, or infrastructure directly, yet they are expected to coordinate those functions around a product outcome. The vocabulary changed from brand to product. The organizational problem remained.
+
+Who is responsible for the thing the customer actually experiences?
+
+P&G gave that question a job title.
+
+## Radio Turned Attention Into Inventory
+
+A radio network had a finite broadcast schedule.
+
+That schedule could be divided, sold, sponsored, and programmed. Attention therefore became inventory in a literal commercial sense: a company could purchase a recurring place in the listener’s day.
+
+P&G’s sponsorship strategy was powerful because recurrence builds memory differently from occasional advertising. A serialized drama invites the audience to return. The brand financing the drama benefits from the habit even when the program is not a continuous product pitch.
+
+The advertiser therefore invests in a relationship rather than a single impression.
+
+This is structurally similar to the subscription logic later used by media platforms, except the consumer pays with attention rather than money. The sponsor subsidizes the content because the content keeps an audience available.
+
+The more reliable the audience habit, the more valuable the surrounding commercial access becomes.
+
+This changed advertising from a message placed beside culture into part of the financing structure of culture.
+
+The arrangement created obvious tensions. A sponsor paying for a program might care about the content around its brand. Broadcasters cared about audience size and advertiser relationships. Creators cared about stories. Listeners wanted entertainment. None of the parties possessed identical incentives.
+
+Commercial media was therefore born with governance problems that digital platforms would later intensify.
+
+Who controls the content when attention finances the system?
+
+How much influence should the sponsor have?
+
+What happens when the material that attracts the largest audience conflicts with the reputation the advertiser wants?
+
+P&G did not solve those questions.
+
+Its radio strategy helped make them normal.
+
+## The Shelf and the Mind Became Competing Bottlenecks
+
+A packaged-goods company can win the consumer’s preference and still lose if the product is not available at the store.
+
+A retailer can control shelf space and still lose if shoppers demand a brand it refuses to stock.
+
+This creates two bottlenecks.
+
+Physical distribution controls what can be bought.
+
+Mental availability influences what shoppers ask to buy.
+
+P&G’s brand system strengthened the second bottleneck as a defense against the first.
+
+If Ivory or a later P&G brand became sufficiently trusted, retailers needed access to that demand. The manufacturer gained bargaining power because the consumer carried the preference into the store.
+
+This is why brand investment can function like infrastructure for a producer.
+
+A factory can be copied. A formula can sometimes be approximated. Shelf relationships can change. A large stock of consumer memory travels differently. It exists outside the company, distributed across households.
+
+The brand becomes an installed base in people’s minds.
+
+That metaphor is not perfect, but it explains why advertising can create durable economic value despite producing no physical asset on the company’s balance sheet. A familiar name lowers the cost of future persuasion.
+
+The next purchase begins with prior memory.
+
+P&G learned to treat that memory as something managers could cultivate deliberately.
+
+## Why P&G, Not RCA?
+
+The strongest rival for the 1930s is RCA.
+
+Radio transformed mass communication, culture, politics, entertainment, and advertising. A company associated directly with the technology that put a live national voice inside the home has an obvious claim to the decade.
+
+P&G wins for a narrower reason tied to this book’s thesis.
+
+RCA helped build the medium.
+
+P&G showed companies what to do with the medium once it existed.
+
+It combined brand management, consumer research, recurring sponsored content, and professional managerial careers into a system that could survive across changing media technologies.
+
+Radio would give way partly to television. Television would give way partly to cable, streaming, search, social feeds, and creator platforms. The specific distribution channel kept changing.
+
+The corporate capability P&G built was more portable.
+
+Know the consumer.
+
+Own a differentiated promise.
+
+Assign a manager to defend it.
+
+Finance attention where the consumer spends time.
+
+Measure the response.
+
+Repeat.
+
+That operating system would remain legible to a marketing executive decades after the radio set itself became historical furniture.
+
 By the end of the 1930s, Europe was at war and the United States was moving toward a mobilization that would transform industry again. Consumer companies would shift production. Automobile factories would make military equipment. Chemical companies would supply materials. The federal government would become the largest customer many firms had ever seen.
 
 The company of the 1940s would be chosen not for a household brand but for a machine whose development compressed science, production, logistics, military doctrine, and government finance into one industrial system.
