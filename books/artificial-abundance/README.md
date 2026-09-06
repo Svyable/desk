@@ -39,6 +39,7 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [x] [Ch 22 — The Politics of Plenty](manuscript/ch22-the-politics-of-plenty.md)
 - [x] [Ch 23 — Stay Expensively Human](manuscript/ch23-stay-expensively-human.md)
 - [x] [Ch 24 — The Last Scarce Thing](manuscript/ch24-the-last-scarce-thing.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 
