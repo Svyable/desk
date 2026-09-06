@@ -214,7 +214,37 @@ The protester does not always reject the national ideal.
 
 Sometimes the protester becomes its most inconvenient reader.
 
-That is what happened at Seneca Falls.
+The compressed origin story becomes more interesting when the actual planning calendar is restored. On July 9, five women—Mott, Wright, Hunt, M’Clintock, and Stanton—met socially in Waterloo and decided to call a convention. They published a notice inviting the public to discuss the social, civil, and religious condition and rights of women. Ten days after that planning meeting, the convention opened.
+
+That is astonishingly fast if one imagines movements as organizations that begin with offices, staff, databases, and branded campaigns.
+
+It is less mysterious when one sees the preexisting network. The five organizers did not have ten days to build trust from zero. They had years of reform relationships, family ties, Quaker connections, abolitionist experience, local reputation, and access to print. Short notice is not evidence of spontaneous politics. It is evidence of stored social capital.
+
+More than three hundred people came to Wesleyan Chapel. One hundred signed the declaration. The gap between attendance and signature is politically revealing. Signing meant attaching a name to a radical public document that newspapers could reproduce. The National Park Service notes that some people may have feared ridicule, domestic consequences, danger, or simply remained unconvinced.
+
+A crowd and a list of signers therefore measure different things.
+
+Attendance can mean curiosity, sympathy, opposition, uncertainty, or solidarity. A signature raises the cost of participation because it leaves a durable trace. Movements constantly manage this ladder of commitment: read, attend, donate, sign, march, strike, risk arrest, accept public identification. The number naturally shrinks as the cost rises.
+
+Seneca Falls gave later movements a model for turning that ladder into organization. The convention generated a document, names, resolutions, press attention, controversy, and a reason to meet again. The next convention did not have to persuade participants that “women’s rights” was a coherent public category from scratch. The category now had a text and a date.
+
+This is why the convention’s small scale is not an argument against its selection. The relevant unit is not how many bodies occupied one building. It is how much future organizing infrastructure the event compressed into a reusable form.
+
+The strongest runner-up for the 1840s may be resistance to the Mexican-American War. Abolitionists, Whigs, religious dissenters, and figures such as Henry David Thoreau attacked a war many believed would expand slave territory. Thoreau’s refusal to pay a poll tax and his later essay on resistance to civil government became enormously influential in the global history of civil disobedience.
+
+That is a serious rival because the tactic and text traveled far beyond the immediate policy dispute.
+
+Seneca Falls wins because its inheritance is broader inside American institutional life. It supplied a movement with a constitutional grammar that would persist through voting rights, property law, education, employment, family law, and public authority. The convention turned many domains of subordination into one political category and did so by appropriating the country’s highest-status political language.
+
+The comparison clarifies the selection rule. Thoreau may have produced the more portable theory of individual civil disobedience. Seneca Falls produced the more durable collective platform for transforming who counted as a full political person.
+
+And the convention did this without pretending the declaration was self-executing.
+
+The people at Seneca Falls knew that paper did not equal power. The suffrage resolution was controversial precisely because it asked how a declaration becomes authority. A grievance could be eloquent and ignored. A right could be self-evident and unenforced. The vote was the mechanism through which women might eventually participate in choosing the lawmakers, judges, and executives who controlled the other grievances.
+
+This is why the chapter ends where it began: with borrowed words.
+
+The borrowed language was not an ornament. It was an attempt to seize jurisdiction over the meaning of America.
 
 The women gathered there did not have the political power to make equality law.
 
