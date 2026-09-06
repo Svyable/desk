@@ -324,6 +324,76 @@ People who dislike the technology category still choose the product because it s
 
 Those are stronger signals than a passionate launch community.
 
+There is another failure mode that looks almost like success: the future can arrive and still strand the early adopter.
+
+A person can be correct about the capability, correct about the timing, and wrong about where value will settle.
+
+The web became enormous, but many early web businesses disappeared. Smartphones became central, while early handset leaders lost position. Cloud computing grew while individual infrastructure products were absorbed, copied or commoditized. Artificial intelligence can become ubiquitous without rewarding every company, worker or investor who adopted one early implementation.
+
+Category truth and capture are different questions.
+
+This matters because early-adopter stories often collapse them.
+
+“I knew this was the future” is presented as evidence that the bet was good. But a future can be obvious at the capability level and destructive at the asset level. Competition can drive prices toward zero. Standards can make vendors interchangeable. Open-source alternatives can diffuse a capability broadly while eroding one company’s moat. The technology wins and the investment loses.
+
+An adopter therefore has to ask what kind of advantage early participation can actually preserve.
+
+Is it access?
+
+Skill?
+
+Customer relationships?
+
+A proprietary dataset?
+
+A physical location?
+
+A regulatory license?
+
+A reputation for competent implementation?
+
+Or merely familiarity with a product everybody will soon receive for free?
+
+The answer determines whether being right early produces any private return.
+
+This is one reason transferable learning matters so much in the portfolio later in the book. You want an experiment to leave an asset after the prediction has been resolved. Otherwise you have converted uncertainty into trivia.
+
+The same principle applies to firms.
+
+A company can adopt a frontier technology, spend heavily integrating it, teach the vendor what the market needs and still find that competitors receive the improved version at lower cost a year later. The company has subsidized the market unless it transformed the early learning into something harder to copy.
+
+That something might be a redesigned process, a data advantage, a new customer experience, organizational speed or an accumulated body of judgment. It cannot simply be “we had the tool first.”
+
+Tools diffuse.
+
+The advantage must migrate before the tool does.
+
+There is also a deeper warning in wrong early adoption: positive feedback can delay correction.
+
+A technology attracts users. Users attract capital. Capital funds marketing and subsidies. Subsidies attract more users. The larger user count attracts complements. The complements create apparent validation. Every layer makes the system look more inevitable even if the underlying economics remain dependent on continuous subsidy.
+
+At that point the feedback loop is not lying.
+
+It is just amplifying a condition that may not survive when support is removed.
+
+This is why the book keeps asking what happens when the next subsidy, novelty premium or special accommodation disappears.
+
+Can the system carry its own weight?
+
+Can users still justify it when the price is honest?
+
+Can complements survive without grants from the platform?
+
+Can the product retain people after the social status of being early vanishes?
+
+Can the organization operate it without heroic staff?
+
+These are de-subsidization tests.
+
+A future that survives them has moved from advocacy toward institution.
+
+A future that fails them may still contain a valuable capability. It simply has not earned the architecture built around it.
+
 This is how to stay early without becoming gullible.
 
 Treat enthusiasm as fuel, not proof.
