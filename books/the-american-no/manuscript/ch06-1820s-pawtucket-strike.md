@@ -160,7 +160,41 @@ Political importance is not measured in days.
 
 A few days in 1824 showed that the factory system had created its own opposition form at almost the same moment it was creating a new labor regime.
 
-That pattern would accelerate. Lowell’s women workers would organize and strike in the 1830s and 1840s. Skilled trades would form societies. Workers would campaign for shorter hours. Industrial conflict would expand with railroads, coal, steel, meatpacking, textiles, automobiles, shipping, public employment, and service work.
+The surviving chronology lets us see the confrontation more sharply. In late May, mill owners announced a package that extended the workday by an hour, cut the pay of power-loom weavers by roughly a quarter, and reduced mealtime. About a hundred women walked out. The stoppage spread through Pawtucket’s textile economy and drew other workers and community members into the streets. The strike ran from May 26 into early June.
+
+That sequence matters because the dispute was not an abstract conflict between “labor” and “capital.” Management changed three dimensions of daily life at once: time at work, time away from the machine, and compensation. The workers’ answer was equally concrete. They did not publish an industrial philosophy and then look for a tactic. The terms changed; the labor stopped.
+
+The action also blurred the later boundary between a workplace strike and a community protest. Crowds went to manufacturers’ homes. People shouted, pressured, and interfered with attempts to keep production moving. Mill property was damaged. On June 1, an incendiary device caused a fire at one mill. The historical record does not let us assign every action confidently to the women who initiated the walkout or to a unified strike leadership.
+
+That uncertainty is important.
+
+A labor stoppage can attract a surrounding crowd whose tactics are more aggressive than those of the original workers. Employers and newspapers may then treat the most dramatic act as the meaning of the entire strike. Workers may benefit from community pressure they do not fully control. The problem that later movements face—who speaks for the action when participation expands—was present almost as soon as industrial protest appeared.
+
+The settlement is another useful absence. The mills reopened on June 3, but the exact terms of the compromise do not survive clearly enough to narrate a neat win-loss scoreboard. That frustrates the desire for a satisfying ending.
+
+It also improves the chapter.
+
+If we needed a documented wage victory to justify Pawtucket’s importance, the case would be weaker. The event matters because the tactic proved socially available. Workers had demonstrated that coordinated withdrawal could shut multiple mills, recruit community support, and force owners into a settlement process even before a stable labor organization existed to institutionalize the victory.
+
+That is the difference between an outcome and a repertoire.
+
+A repertoire survives when later people know an action can be attempted. Lowell women walking out in the 1830s did not need a direct organizational lineage from every Pawtucket striker for the logic of the “turnout” to become part of industrial culture. Textile towns communicated. Owners watched one another. Workers watched one another. Newspapers carried stories. The factory system reproduced similar grievances across places, making similar tactics intelligible.
+
+Industrialization was therefore creating two networks simultaneously. Capital and machinery diffused across towns. So did the knowledge of how to resist them.
+
+This is why the strongest runner-ups of the 1820s are less compelling as the decade’s central protest even when they matter politically. Artisans and mechanics were organizing around hours, wages, and political representation in several cities. Workingmen’s parties appeared near the end of the decade. Indigenous resistance to removal and land pressure continued under conditions that often fit war or diplomacy better than the domestic protest category. Antislavery and free Black organizing expanded.
+
+Pawtucket wins because it captures a structural transition at the moment it becomes visible: the United States is becoming an industrial wage economy, and the new economic form immediately generates a collective refusal suited to it.
+
+The strike is not merely “first” as trivia. Firsts are dangerous claims because earlier examples can always be found by changing definitions. Sailors had struck. Artisans had combined. Enslaved laborers had resisted work. Collective work stoppage was not invented from nothing in Rhode Island.
+
+The more defensible claim is narrower and more interesting. Pawtucket is a landmark early factory strike in the emerging American textile system, led initially by women wage workers and remembered by the National Park Service as the first U.S. wage-workers’ strike and the first led by women.
+
+That formulation preserves the historical significance without pretending the archive began in 1824.
+
+It also keeps the people who initiated the strike from becoming decorative “mill girls” in a story really about industrial development. They were young women working power looms. Their employer’s calculation depended partly on treating them as a labor category whose wages and time could be adjusted. Their collective action made that calculation fail long enough to require negotiation.
+
+That is agency in its least sentimental form.
 
 The strike would become so familiar that Americans could forget someone had to discover its logic.
 
