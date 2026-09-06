@@ -30,6 +30,15 @@ There is no numerical score. The categories are prompts for judgment, not pseudo
 
 A September 2026 web check found existing books and articles organized around American turning points and the 250th anniversary, including general “moments that made America” treatments. The manuscript therefore does **not** claim that no one has written a turning-points history or an America-at-250 book. Its specific organizing device is narrower: twenty-five consecutive ten-year windows beginning with 1776 rather than conventional calendar decades, with one defended selection and one explicit rival for each window.
 
+## Research files
+
+- [`source-ledger.csv`](source-ledger.csv) — primary and authoritative institutional sources for the factual spine of all 25 selected events.
+- [`chapter-briefs.md`](chapter-briefs.md) — selection rationale, runner-up, and falsification question for every chapter.
+- [`secondary-reading.md`](secondary-reading.md) — a chapter-by-chapter serious secondary-history audit map, with a named interpretive test for every selection.
+- [`release-review-2026-09-06.md`](release-review-2026-09-06.md) — publication-preparation gate, unresolved risks, and Desk-to-Shelf release boundary.
+
 ## Research status
 
-The initial source ledger establishes at least one authoritative source for every selected event and is sufficient for a first narrative pass. Before publication, each chapter should receive a deeper source audit with at least one serious secondary history, primary-source verification for scene-level detail, and a check of contested causal claims.
+The initial factual spine now has a corresponding secondary-history work selected for every chapter. That advances the book from “institutional sources only” to an explicit publication audit plan, but selection is not the same as completion: the final edit still needs to record where secondary reading changes a causal claim, runner-up, or wording.
+
+Highest-risk chapters remain the ones whose event choice is itself a historiographical argument—Missouri, removal, Texas, the 1877 settlement, antitrust, 1898, Volcker, the Cold War's end, 2008, and the still-provisional 2016–2025 window. Scene-level details and exact quotations must continue to be checked directly against primary sources before Shelf release.
