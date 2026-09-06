@@ -120,6 +120,20 @@ No ministry of mythology was required.
 
 Markets and institutions can build legends through alignment.
 
+The institutional afterlife is especially visible in school culture. A classroom needs material that can be remembered, retold, drawn, recited, and attached to a moral. A complex debate over military command or executive precedent is difficult for a young child. A hatchet and a confession fit on one page.
+
+That fit matters because curriculum is a selection machine. The anecdote’s compactness made it cheap to reproduce and easy to adapt. A textbook could shorten it. An illustrator could show it. A teacher could ask for the lesson. A holiday program could stage it. An advertiser could borrow the image without reproducing the book. Each translation removed more of Weems while preserving the structure.
+
+The story therefore demonstrates a kind of cultural compression ratio. A long life becomes one scene. A scene becomes two objects: tree and hatchet. The objects become a moral: honesty. The moral becomes Washington.
+
+Compression is powerful because it lowers the cost of transmission.
+
+It is dangerous because whatever does not fit the compressed package disappears.
+
+That is why later historical institutions have had to perform decompression. Museums restore names of enslaved workers. Editors publish correspondence. Scholars reconstruct financial arrangements, political conflicts, military decisions, plantation management, and the lives of people around Washington. Public history expands one-symbol memory back into a crowded world.
+
+The work can feel like revisionism only if the simplified story is mistaken for the original history. In reality, every public history is revision in the literal sense: looking again as evidence, questions, and methods improve.
+
 The cherry tree also points toward an American discomfort with political complexity. We often ask whether a historical figure was good or bad when the more useful question is what the person did, under what conditions, to whom, with what consequences, and how their choices changed. Moral judgment remains necessary. Binary biography is simply poor equipment for making it.
 
 Weems offered the opposite equipment: the anecdote that settles character.
@@ -147,6 +161,20 @@ If the cherry tree had always been presented as a fable about Washington, there 
 That dissolution matters because public trust depends partly on the distinction between stories we value and claims we can verify.
 
 A nation needs both. It needs imagination capable of attaching meaning to the past. It also needs historical methods capable of telling us when the meaning has outrun the evidence.
+
+A counterfactual makes Weems’s claim easier to measure.
+
+If the cherry-tree story had never appeared, Washington would still have become the central civic hero of the early republic. Cities, counties, monuments, portraits, holidays, biographies, public ceremonies, political speeches, and the capital itself would still have carried his name and image. His resignation of military command and departure from the presidency supplied genuine material for a republican legend stronger than most invented anecdotes.
+
+The national mythology does not depend on Weems.
+
+What changes is its most efficient childhood emblem.
+
+Without the cherry tree, another story might have been selected to carry honesty or self-command backward into Washington’s youth. Perhaps a documented adult act would have remained central instead. Perhaps schoolbooks would have had a less cinematic moral lesson. The founder would still be idealized; the exact iconography would differ.
+
+This narrower counterfactual strengthens the selection. Weems did not manufacture reverence for Washington from nothing. He supplied a nearly perfect transmission device for a reverence already in search of stories.
+
+That is a recurring pattern in this book. The most consequential text often meets an appetite that predates it and gives the appetite a form easy to reproduce.
 
 The mature response to Weems is therefore not to erase him. It is to keep the book in the story.
 
