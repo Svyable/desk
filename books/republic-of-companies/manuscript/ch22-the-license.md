@@ -252,6 +252,158 @@ Seattle's later importance in software, e-commerce, and cloud computing cannot b
 
 Microsoft made the region much more capable of producing those industries.
 
+## The OEM Became Microsoft's Distribution Network
+
+The most powerful feature of the licensing model was that other companies paid to distribute Microsoft’s platform.
+
+A traditional manufacturer has to finance the channel that moves its product. It builds factories, warehouses, sales offices, dealerships, advertising, and inventory. Microsoft could allow computer manufacturers to perform much of that physical work while the operating system rode inside the machine.
+
+Every hardware company trying to win the PC market could therefore strengthen Microsoft even while competing fiercely with other Microsoft licensees.
+
+This created an unusual strategic separation.
+
+Dell could fight Compaq.
+
+Compaq could fight IBM.
+
+Regional clone makers could fight all three on price.
+
+Microsoft could benefit from the category expanding regardless of which licensed manufacturer won the sale.
+
+The platform owner had turned the hardware industry's rivalry into distribution.
+
+This is more than a clever contract structure. It is a recurring model in digital business. Credit-card networks benefit when banks compete to issue cards on the same rails. App platforms benefit when hardware and software companies build around their interfaces. Cloud providers benefit when consultants and software vendors bring customers onto their infrastructure.
+
+The company at the layer beneath competition can profit from competition above it.
+
+That is one of the safest places in a market to stand.
+
+## Developers Became the Other Customer
+
+Microsoft also had a constituency that ordinary PC buyers rarely saw.
+
+Developers.
+
+An operating system succeeds partly by making programmers willing to target it. A large installed base promises a large market for applications. Better tools and documented interfaces lower development costs. More applications make the operating system more useful to users, which expands the installed base, which attracts more developers.
+
+This is a two-sided platform before that language became common in business strategy.
+
+The operating-system company serves users and developers simultaneously. Neither side is sufficient alone.
+
+A technically elegant platform with no applications can fail.
+
+A large application catalog tied to an obsolete platform can slow migration.
+
+Microsoft's advantage came from understanding that developer attention was a scarce asset worth cultivating.
+
+The company did not need to write every important business program itself. It needed to make Windows and DOS attractive enough that other companies would write them.
+
+That made software abundance part of Microsoft’s product without Microsoft paying every software developer’s salary.
+
+Again, outsiders supplied part of the platform's value.
+
+This is the pattern that later powers mobile app stores and cloud ecosystems. A platform becomes historically important when other people invest their own time and capital to make the platform more useful.
+
+The license was therefore only one legal document in a broader system of permissions.
+
+Hardware makers received permission to distribute the operating system.
+
+Developers received interfaces through which to build applications.
+
+Users received compatibility across machines.
+
+Microsoft sat at the point where those permissions met.
+
+## Cheap Copies, Expensive Coordination
+
+Software is often described as a business with near-zero marginal cost.
+
+That description is true and incomplete.
+
+Copying another disk is cheap. Coordinating a platform used by millions of people is not.
+
+Compatibility creates obligations.
+
+Old applications expect old behaviors. Hardware drivers need stable interfaces. Corporate customers resist changes that break workflows. Security flaws require updates. New features interact with assumptions embedded in software written years earlier.
+
+Success therefore produces technical debt at ecosystem scale.
+
+The platform owner cannot simply rewrite everything from scratch whenever engineering fashion changes because the installed base is precisely what makes the platform valuable.
+
+Microsoft's economic advantage became a technical constraint.
+
+The company was paid because old investment kept working.
+
+That meant old investment had a claim on the future design of the system.
+
+This is one of the hidden prices of compatibility. The customer gains continuity. The platform owner inherits history.
+
+Modern operating systems, web browsers, cloud APIs, and enterprise databases all carry versions of this burden. Backward compatibility can look like clutter to a new engineer and like capital preservation to a customer.
+
+IBM had made the same promise with System/360.
+
+Microsoft made it at personal-computer scale.
+
+## Why Not Apple?
+
+The strongest challenge to Microsoft's selection is Apple.
+
+The Macintosh, introduced in 1984, made graphical computing dramatically more legible to ordinary users and influenced the direction of the personal computer. Apple integrated hardware and software tightly, treating the entire experience as one designed object rather than a set of licensed layers.
+
+That strategy had important advantages.
+
+Control can produce coherence.
+
+The company can optimize hardware and software together, define the interface more completely, and avoid some of the compatibility chaos created by a diverse clone market.
+
+The strategic trade was reach.
+
+Microsoft's operating system could spread across machines built by many companies. Apple’s approach asked the customer to buy into Apple's integrated system.
+
+The 1980s therefore staged an argument that continues today.
+
+Is the stronger platform vertically integrated or broadly licensed?
+
+There is no universal answer. Apple would later prove that integration can produce enormous value in mobile computing. Microsoft proved that licensing can dominate when the market wants many manufacturers competing around a common software standard.
+
+For this decade, the licensed layer wins because it changed the structure of the industry.
+
+Apple created an influential product.
+
+Microsoft created a position from which other manufacturers' growth became Microsoft's growth.
+
+## The Antitrust Afterlife Was Built Into the Success
+
+The platform's later antitrust troubles are sometimes narrated as though Microsoft became a different company in the 1990s.
+
+The relevant power had been accumulating much earlier.
+
+Once Windows became the default environment for most personal computers, Microsoft could influence which applications reached users, which interfaces developers depended on, and which software arrived preinstalled. The browser dispute that became central to the federal antitrust case was important because the internet threatened to move application value above the operating system.
+
+If software could run through a browser across multiple operating systems, the layer Microsoft controlled might become less strategically central.
+
+The antitrust conflict was therefore not an unrelated episode of corporate aggression.
+
+It arose from the same architecture that made the 1980s licensing strategy brilliant.
+
+Platform owners worry about layers that make their platform interchangeable.
+
+Competitors worry that the platform owner can use control of the current layer to stop the next layer from becoming independent.
+
+Users benefit from integration until integration narrows future choice.
+
+These tensions do not have simple permanent resolutions because each new technology changes which layer matters most.
+
+Microsoft itself would later have to adapt when the web, mobile devices, and cloud computing shifted power away from the desktop operating system.
+
+The company survived partly by learning that the valuable license could move again.
+
+Software subscriptions and cloud services would become new recurring relationships.
+
+The lesson was not to worship Windows.
+
+The lesson was to own a durable layer of customer dependency and keep redefining the layer before someone else did.
+
 The 1980s corporate field is crowded. Walmart was building the retail system that would dominate the next chapter. Apple helped define personal computing and graphical interfaces. GE became associated with a new model of shareholder-oriented corporate management under Jack Welch. Financial firms transformed mergers and capital markets. Cable television changed media. FedEx expanded time-sensitive logistics.
 
 Microsoft wins because it changed where value sat inside the computer.
@@ -276,4 +428,4 @@ That is the business model that defined the decade.
 
 The license was not paperwork around the product.
 
-The license was the product architecture.
+The license was the product architecture—and eventually a map showing where power had moved.
