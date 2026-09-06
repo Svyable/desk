@@ -255,3 +255,75 @@ A birthday can trigger an entitlement.
 It should not have to trigger an identity.
 
 A society capable of imagining a longer life should be capable of imagining more than one way to end a career.
+
+The cleanest argument for keeping a universal age is not that sixty-five, sixty-seven, or any other number describes the human body well. It is that universality can protect people from being individually examined at the moment they are most vulnerable. A bright line does not ask a warehouse worker to prove pain to a panel. It does not ask a cashier to demonstrate that forty years on her feet have reduced her capacity by some officially acceptable amount. It does not turn every retirement into an application for mercy.
+
+That protection matters.
+
+Capacity-based systems sound humane until somebody has to decide whose capacity counts. Tests can privilege the kinds of impairment that are easy to document. They can miss exhaustion, cumulative strain, unstable schedules, or the way a tolerable task at fifty becomes punishing when performed eight hours a day at sixty-eight. An individualized system can replace the crude injustice of a birthday with the intimate injustice of having to make a case about one’s body to an institution that saves money by saying no.
+
+So the alternative to age cannot simply be more assessment.
+
+Contribution history offers a different lens. Two people can both be sixty-five while having radically different relationships to work. One entered paid employment at eighteen and has contributed for nearly five decades. Another spent most of their twenties in graduate training and entered a well-paid profession at thirty. A system that sees only age treats those histories as equivalent. A system that sees only contribution years can be unfair in the other direction, especially to people whose unpaid caregiving, disability, unemployment, or informal work reduced their recorded contributions.
+
+Every replacement proxy carries a biography inside it.
+
+The point is not to discover the perfect metric. There probably is none. It is to stop pretending that the existing metric is neutral merely because it is familiar.
+
+This becomes especially important when governments respond to population aging by asking for longer working lives. The aggregate logic is understandable. If people survive longer and spend more years receiving benefits, then some combination of higher contributions, lower benefits, later claiming, more workers, higher productivity, or fiscal transfers has to absorb the change. There is no policy trick that makes the arithmetic vanish.
+
+But the phrase “work longer” contains a distributional decision.
+
+Who can?
+
+Who has to?
+
+Who gets paid enough to make the extra years worthwhile?
+
+Who controls hours?
+
+Who has a job that still exists?
+
+Who is caring for an older parent, a spouse, or grandchildren at the same time?
+
+The affluent professional often has the widest set of answers. Work can become part-time. A consulting role can replace management. A home office can replace a commute. Savings can cover an interval. A credential can be refreshed. A bad employer can be left.
+
+The worker with less margin may encounter the opposite version of flexibility: irregular hours, unstable scheduling, physically demanding work, weaker bargaining power, and fewer assets with which to buy a pause. Telling both people that longevity has created “more choice” mistakes the existence of years for the possession of options.
+
+This is why a later retirement age can be simultaneously sensible in a pension model and regressive in lived experience.
+
+The disagreement is not necessarily about the demographic facts. It is about which layer of the system should absorb them.
+
+A society can ask people to contribute for longer on average while still creating earlier exits for dangerous or physically punishing work. It can make partial pensions compatible with part-time work. It can credit some caregiving periods. It can reduce penalties that turn a temporary retirement into a permanent labor-market disappearance. It can protect older workers from being pushed out at fifty-eight and then told, nine years later, that the public system expects them to keep working.
+
+None of these choices is free. Each creates administrative costs, boundary disputes, and opportunities for gaming. That is the counterargument the long-life conversation sometimes avoids. A system with dozens of occupational exceptions can become politically brittle. A phased-retirement program can become a way to downgrade older employees. A generous early-exit rule can encourage employers to externalize the cost of bad job design onto the public pension system. A contribution-year rule can punish care. A capacity test can punish the hard-to-measure. A universal age can punish the worn-out.
+
+The honest policy problem is choosing among imperfect simplifications.
+
+That is still an improvement over treating one simplification as biology.
+
+There is another reason to preserve a visible retirement right even as life becomes more multistage. Long lives generate new claims on time. A person in their late sixties may still have substantial productive capacity and also have an eighty-eight-year-old parent who needs help. A sixty-two-year-old may need to stop a physical job while remaining capable of a different one. A seventy-year-old may want a two-year period outside paid work and then return to a project that matters. The old model compressed these possibilities into one irreversible transition because the expected remainder of life was shorter and institutions were built around fewer stages.
+
+A longer horizon turns the transition itself into infrastructure.
+
+Good infrastructure does not force everyone to use the same route. It makes more than one route possible without making people fall through gaps between systems.
+
+That may mean preserving age-based entitlements while loosening age-based identities. It may mean protecting a floor at a clear age while making work, education, partial retirement, care, and re-entry easier on both sides of it. The universal rule can remain a right without remaining a prophecy.
+
+That distinction is easy to miss because retirement policy is discussed as if it were only about the final chapter of work. In a long life, the design of retirement reaches backward. It affects whether a fifty-five-year-old dares to retrain, whether a sixty-year-old can change employers, whether a family can absorb a caregiving crisis, and whether an employer sees a sixty-three-year-old as someone with a short runway or a decade of useful contribution.
+
+The endpoint changes behavior long before anyone reaches it.
+
+That is the longevity moment in miniature.
+
+A number printed near the end of a life plan reaches backward and organizes the decades before it.
+
+If the number changes, the plan changes.
+
+If the number becomes a range, the plan may become more flexible.
+
+If the number remains fixed while the lives around it diversify, the mismatch grows.
+
+The task is not to abolish sixty-five.
+
+It is to know what we are asking sixty-five to do.
