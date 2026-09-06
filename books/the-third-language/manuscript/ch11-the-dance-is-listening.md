@@ -253,3 +253,53 @@ That idea should permanently change the way we think about talking with animals.
 The next time a machine presents a clean translation, ask the bee’s question.
 
 Who was listening?
+
+There is a second bee question hiding underneath the first: *what did the receiver already know?*
+
+Human communication changes constantly with presumed knowledge. Directions to a local are different from directions to a visitor. A specialist receives a compressed explanation that would be useless to a novice. A family member can be told “the usual place” because years of history do half the communicative work.
+
+Animal researchers have often treated prior experience as a confound to control. In many experiments that is exactly right. If a bee already knows a feeder location, the scientist needs to account for that knowledge before attributing navigation to a dance. But in real communication, prior knowledge is not noise around the message. It is one of the resources the message uses.
+
+This is a subtle but important shift for the third-language idea.
+
+Shared history does not merely add more signals. It can reduce how much signaling is necessary.
+
+A human and dog who walk the same route every evening need fewer explicit cues than a pair entering a new environment. A horse and familiar handler may complete a husbandry routine with minimal prompting because both know the sequence. A parrot that has learned a household’s rhythms can recruit attention with a fragment that would mean nothing to a stranger.
+
+The bee colony gives us a biological version of the same compression. The audience is not empty. Communication can be calibrated to what receivers already possess.
+
+That suggests another way to evaluate future animal AI. Most models are rewarded for producing the same correct label from the same input regardless of who receives it. A relational system may need the opposite ability: vary the information presented according to what the particular human or animal already knows.
+
+Suppose a model detects a familiar request pattern from a dog. To the owner, it may need only a quiet alert because the owner already knows the pattern. To a pet sitter, it may need to show the full sequence and likely interpretations. The underlying animal behavior is the same. The useful message differs because the receivers have different histories.
+
+That is not a weakness in translation.
+
+It is what communication does.
+
+The colony also reminds us that receivers can choose not to act. A dance can be informative without recruiting every follower. Competing resource information, motivation, colony needs, weather, or prior knowledge can alter what a bee does next. Reception is not obedience.
+
+This point has followed us from cats to horses to buttons because humans repeatedly confuse understanding with compliance. The bee makes the mistake impossible to maintain. No sensible account of the dance requires every follower to fly where the dancer indicated. Information can enter a decision without dictating it.
+
+That is a more mature definition of listening for humans too.
+
+If an animal’s signal changes our estimate of the situation but does not always determine our action, the communication may still have worked. A dog signals for outside access during a dangerous storm. The human understands and delays. A horse shows discomfort during an emergency procedure that cannot simply stop. The handler changes technique and monitors more closely. A zoo animal declines one interaction and staff reschedule when possible.
+
+Listening is not servitude to the signal.
+
+It is evidence entering the decision.
+
+That formulation becomes important because critics of animal agency sometimes frame the choice as absurd: either humans obey every animal preference or communication has no practical meaning. The bee offers a cleaner model. Receivers integrate information with other information.
+
+The ethical question is whether the signal counts.
+
+The scientific question is whether we can tell that it counted.
+
+In both cases, the reply remains the evidence.
+
+The waggle dance survived a century of scrutiny because researchers did not stop at admiring its form. They followed bees into the world, manipulated conditions, challenged interpretations, and kept asking what receivers did next.
+
+That is the standard the new animal-communication boom should inherit.
+
+We do not need less ambition.
+
+We need the bee’s patience with consequence.
