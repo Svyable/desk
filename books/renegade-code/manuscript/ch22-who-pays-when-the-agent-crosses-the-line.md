@@ -519,3 +519,139 @@ The research community asks what systems are capable of doing.
 The board asks what the company is willing to lose.
 
 The control plane connects the two.
+
+Contracts will eventually have to become more specific about the controls themselves.
+
+A promise that an agent is “human supervised” is weak if the contract never defines what supervision means. A promise that the agent uses “least privilege” is weak if the service can still inherit a broad customer session. A promise of “rapid revocation” is weak if no party can say whether rapid means seconds, minutes, or the next billing cycle.
+
+The commercially useful promises will be closer to testable system properties.
+
+No autonomous payment above this threshold without a separately authenticated approval.
+
+No task credential renewable beyond this duration without fresh policy evaluation.
+
+No child agent able to exceed the parent mandate through the platform's delegation mechanism.
+
+No production change approved solely from evidence controlled by the acting agent.
+
+No revoked lineage able to create new write-capable descendants after the revocation state propagates.
+
+The wording will vary. The shift is from adjectives to obligations.
+
+That shift matters because obligations can be audited before a loss and litigated after one. They can be demonstrated in procurement. They can be tested during diligence. They can be monitored as service-level properties. They can be priced.
+
+A containment control with no measurable performance characteristic is difficult to distinguish from a policy aspiration.
+
+This does not mean every safety property should become a contractual guarantee. Some depend on emerging science. Some are probabilistic. Some cannot be reduced honestly to one metric. Contracts that pretend otherwise can create false confidence and perverse incentives.
+
+The better pattern is to contract strongly around the parts the system actually controls.
+
+Credential lifetime.
+
+Transaction ceilings.
+
+Identity separation.
+
+Audit retention.
+
+Revocation behavior.
+
+External data handling.
+
+Approval semantics.
+
+Lineage propagation.
+
+These are engineering properties before they are legal ones.
+
+The contract can make them expensive to neglect.
+
+Evidence then becomes part of claims handling.
+
+Imagine an autonomous purchasing agent that commits to a transaction outside the buyer's intended mandate. The parties may disagree about whether the buyer configured the system incorrectly, whether the platform expanded a scope, whether a human approved an exception, or whether the merchant accepted authority the agent did not possess.
+
+A conventional log can show that an API call occurred.
+
+A mandate receipt can show more.
+
+Who sponsored the task.
+
+What the authority envelope was at the time.
+
+Which expansion requests were denied or approved.
+
+Which policy version admitted the transaction.
+
+Which external party received the delegated assertion.
+
+Whether the transaction exceeded a deterministic limit or depended on a semantic judgment.
+
+Whether the lineage had already been revoked.
+
+The receipt does not determine liability by itself.
+
+It makes causation less negotiable.
+
+That can lower the cost of disputes as well as the frequency of losses. Claims become easier to triage. Customers can distinguish unauthorized autonomous action from ordinary account compromise. Vendors can identify whether the failure sits in the model, the policy translation, the enforcement point, or the customer's own configuration.
+
+This creates a commercial reason to preserve evidence even when no regulator demands it.
+
+Disagreement is expensive.
+
+The same evidence can improve pricing before the event. Instead of underwriting “uses AI agents,” an insurer or enterprise buyer can inspect actual authority topology. Which agents can make irreversible commitments? Which have open egress? Which have standing credentials? Which control planes can they alter? Which roles can be revoked selectively? Which actions are independently evidenced?
+
+The inventory resembles exposure mapping more than model evaluation.
+
+That is appropriate.
+
+A fire insurer cares about what burns, how the building is compartmented, how quickly suppression works, and how much property sits behind the same wall. It does not need a theory of flame motivation.
+
+An agent underwriter can ask analogous questions about authority.
+
+What can move?
+
+What can propagate?
+
+What can survive shutdown?
+
+What shares one failure mode?
+
+Where is the independent barrier?
+
+This way of pricing risk may create uncomfortable but useful comparisons inside companies. Two business units can use the same model under different authority architectures and receive different risk treatment. A flashy autonomous workflow with broad standing access may become more expensive than a quieter system using task-bound delegation. The cost makes architecture visible to management.
+
+That visibility can improve capital allocation.
+
+If a workflow creates enormous expected value but requires a large authority envelope, the company can choose to invest in stronger containment rather than arguing vaguely about whether the model is trustworthy enough. The control becomes part of the project's economics.
+
+Build the broker.
+
+Add the revocation path.
+
+Separate the audit root.
+
+Reduce the maximum credible loss.
+
+Then delegate more.
+
+This is a healthier investment loop than buying ever more general human review because nobody can express the exposure technically.
+
+There is also a boundary to what should be insurable.
+
+Some authority may be so poorly bounded that pricing it creates moral hazard rather than discipline. If an agent can create unbounded obligations, administer its own identity, alter its own audit evidence, and persist outside the deploying organization's revocation domain, the problem is not that the premium has not been calculated cleverly enough.
+
+The architecture may simply be immature for that role.
+
+Insurance works best when the loss is uncertain but the exposure is intelligible.
+
+Containment makes the exposure intelligible.
+
+That is the deeper economic contribution.
+
+It does not promise that every crossing can be reimbursed.
+
+It creates a system in which the institution can say what it put at risk, what was supposed to stop propagation, what evidence proves the boundary, and how quickly future authority can be withdrawn.
+
+The invoice still arrives.
+
+The difference is that it no longer has to be a surprise about what the organization had actually authorized.
