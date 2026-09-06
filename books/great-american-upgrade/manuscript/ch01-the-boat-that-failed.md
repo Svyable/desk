@@ -147,3 +147,27 @@ The Turtle offers a healthier national myth.
 The machine went into the water. The operator tried. The target survived. The future did not arrive on schedule.
 
 Then other people kept working on the problem.
+
+Bushnell’s explosive work matters to that ending as much as the hull does. He was also experimenting with what later generations would call underwater mines—charges meant to attack ships without exchanging broadside fire. The language around such weapons changed over time; “torpedo” itself would mean different things before settling on the self-propelled weapon familiar today. The enduring idea was to separate destructive force from a gun crew standing in direct view of its target. Water could become not only a route but a hiding place for a weapon.
+
+That shift changed naval defense long before submarines became dependable. A harbor protected by submerged explosives imposes uncertainty on an attacker. A large fleet may still be stronger, but strength must slow down, sweep, inspect, reroute, or accept risk. This is the economics of denial rather than conquest. The weaker side does not have to own the sea. It only has to make using the sea more expensive.
+
+The distinction is useful far beyond naval warfare. Some inventions create positive capacity: move faster, lift more, calculate more. Others create negative capacity: make an adversary unable to use something freely. Mines deny water. Air defenses deny airspace. Cyber defenses can deny access. Encryption can deny information. The Turtle bundled both ambitions. It wanted to move somewhere the enemy could not easily see and then make an expensive ship vulnerable there.
+
+That combination also explains why the object is more interesting than a merely ingenious diving bell. Submergence by itself is a curiosity and a tool. Submergence joined to navigation, propulsion, a human interface, and a mission becomes a platform. The parts acquire meaning from the task they are being asked to perform together.
+
+Bushnell’s machine was therefore an early lesson in systems engineering before the profession existed. Every subsystem consumed the operator’s scarce resources. More ballast control meant more attention. More propulsion meant more physical effort and air consumption. More time beneath the surface meant less margin for escape. A weapon heavy enough to matter made handling harder. A hull strong enough to resist pressure added weight. Nothing could be optimized independently because every improvement changed another constraint.
+
+Later engineering organizations would formalize this kind of tradeoff with calculations, requirements, test plans, simulations, and specialized teams. Bushnell had a workshop and a war. The underlying problem was the same: a machine is not the sum of locally clever parts if the parts cannot succeed together.
+
+There is a political lesson in the Turtle’s obscurity too. The young republic eventually built institutions that made ambitious technical failure easier to absorb: arsenals, naval yards, patent law, universities, government laboratories, military procurement systems, industrial research organizations, venture capital, and large corporations. Bushnell worked before most of that support existed in mature form. His experiment was unusually dependent on individual sponsorship, secrecy, craft, and the willingness of military leaders to try an odd device during crisis.
+
+Two centuries later, Americans would argue endlessly about whether invention comes from government or markets, universities or firms, solitary founders or large teams. The Turtle predates the categories. It reminds us that the essential question is often simpler: who is willing to bear the cost of an uncertain attempt long enough to learn something useful?
+
+That willingness is not automatically wise. Governments can fund follies. Investors can chase fashions. Inventors can mistake stubbornness for evidence. A failed prototype does not deserve historical importance simply because someone was brave enough to build it. The Turtle earns attention because the technical questions it exposed remained valuable after its military result disappeared.
+
+This gives us a better counterfactual than imagining that modern submarines somehow vanish without Bushnell. They would not. Underwater navigation and attack were attractive enough that other inventors in other countries kept pursuing them. The real counterfactual asks what the 1770s look like if no American experimenter is willing to convert the idea into an operational wartime system at all. We lose an unusually early demonstration that the new country would treat technical asymmetry as a serious answer to material weakness.
+
+That instinct will recur through the book. Sometimes it produces abundance. Sometimes terror. Often both.
+
+The first winner leaves no booming industry behind it, no fortune, no factory town, no standard used by millions. It leaves something less tangible and more appropriate for a beginning: permission to attempt a machine whose surrounding century is not yet ready for it.
