@@ -1,23 +1,32 @@
 # Release Review — The Unobserved World
 
-## Decision — September 5, 2026
+## Decision — September 6, 2026
 
-**Remain blocked on the repository’s mechanical manuscript-length gate.**
+**Release-cleared on substantive factual/editorial grounds; remain blocked only until the repository’s literal mechanical checks pass on the remediated frozen source.**
 
-No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in this bounded release review. The previously outstanding length condition has now been evaluated against the committed Desk source using the same word-token regex as `scripts/check-book-length.py` and the exact generated manuscript total recorded by the Desk catalog.
+The September 5 review found no unresolved factual, research, rights, matter, novelty, or editorial blocker. Its only substantive publication blocker was an exact chapter-only length deficit: the committed source contained **61,357 numbered-chapter words**, **3,643 words below** the repository’s 65,000-word minimum.
 
-The generated manuscript-directory total is **66,129 words**. Counting the committed front matter with the checker’s `\b[\w’'-]+\b` regex yields **2,151 words**; counting the committed back matter yields **2,621 words**. Because `scripts/check-book-length.py` counts only `chNN-*.md` files, the resulting chapter-only total is therefore **61,357 words**.
+That deficit has now received bounded Desk remediation on branch `remediate/unobserved-world-length-20260906`, based on Desk main `e8e96ff54b262bc165ec3d56f223d5005b086516`.
 
-That is **3,643 words below** the repository’s 65,000-word chapter-only minimum. Publication must not proceed from this source.
+Using the same `\b[\w’'-]+\b` token regex as `scripts/check-book-length.py`, the remediation adds exactly **4,123 net numbered-chapter words**:
 
-Precise remediation:
+- Chapter 2, `ch02-the-fundamental-problem.md`: **+450 words** extending the distinction between a decision category, an observed outcome, and a causal claim, with no new dated empirical claim;
+- Chapter 5, `ch05-success-can-make-you-blind.md`: **+1,365 words** extending the existing exploration/exploitation argument through proposal legibility, circular proof, external variation, strategic reopening rules, and evidence monopoly, with no new dated empirical claim;
+- Chapter 8, `ch08-the-untested-patient.md`: **+2,308 words** extending the existing selective-observation argument through fragmented follow-up, measurement-regime drift, near-threshold observability, disagreement as evidence, patient-defined outcomes, and principled privacy/consent limits, with no new dated empirical claim.
 
-1. Add at least **3,643 net chapter-only words** across the numbered manuscript while preserving the reviewed thesis, evidence boundaries, and 20-chapter architecture.
-2. Run `python3 scripts/check-book-length.py the-unobserved-world` on the remediated frozen Desk source and require `healthy: true`; this full run must also verify that every numbered chapter is at or above the separate 3,000-word floor.
-3. Run `python3 scripts/check-desk.py` on the same frozen source and require a clean exit.
-4. Recheck that the remediated source has not introduced new factual, research, rights, matter, novelty, or editorial blockers before creating any Shelf publication pair.
+Against the previously audited **61,357-word** chapter-only baseline, the remediated source therefore projects to **65,480 numbered-chapter words**, a **480-word margin** above the 65,000-word total threshold. The 20-chapter architecture, front matter, back matter, rights package, research packet, and checked README paths are unchanged.
 
-This is a bounded mechanical-length blocker, not a reversal of the substantive factual/editorial clearance below. No additional human-review gate is invented.
+This arithmetic is not substituted for the repository’s checker. Before publication, the remediated committed source must still receive literal successful runs of:
+
+`python3 scripts/check-book-length.py the-unobserved-world`
+
+and
+
+`python3 scripts/check-desk.py`
+
+The length checker must report `healthy: true`, at least 18 numbered chapters, every numbered chapter at or above 3,000 words, and at least 65,000 numbered-chapter words. The Desk integrity check must exit cleanly. If either command fails, do not release; record and remediate the actual failure.
+
+No separate human-review gate is created by this review.
 
 ## Package reviewed
 
@@ -56,22 +65,26 @@ No contradiction requiring manuscript remediation was found in those refreshes.
 
 The manuscript’s strongest contribution is the synthesis: decision systems partly determine which outcomes become observable and therefore which evidence future systems can learn from. The release should preserve the book’s narrower claim that this matters when selection affects exposure, access, treatment, measurement, or opportunity; it should not turn that insight into a general argument for randomization or experimentation everywhere.
 
-The three post-completion robustness passes strengthened the manuscript without changing its 20-chapter architecture, especially around policy-scorecard reopening conditions, hiring exploration governance, science-funding portfolio logic, fairness and reciprocity, credit-learning boundaries, public-policy scale-up, bounded randomization, and institutional allocation of validation capacity.
+The post-completion robustness passes strengthened the manuscript without changing its 20-chapter architecture, especially around policy-scorecard reopening conditions, hiring exploration governance, science-funding portfolio logic, fairness and reciprocity, credit-learning boundaries, public-policy scale-up, bounded randomization, and institutional allocation of validation capacity.
 
-No manuscript prose change is required by the substantive review. Manuscript expansion is required only because the objective publication-length gate fails.
+The September 6 length remediation continues that argument rather than padding it. Chapter 2 makes decision provenance explicit; Chapter 5 develops how mature institutions can make alternatives illegible before they can produce evidence; Chapter 8 deepens the distinction between a quiet clinical record and an observed healthy outcome while preserving privacy, consent, and patient welfare as independent constraints. The additions do not introduce new vendor metrics, policy dates, clinical-effect estimates, or other volatile quantitative claims.
+
+No further manuscript prose change is required by the substantive review unless the literal mechanical checks identify a specific failure.
 
 ## Mechanical release conditions
 
-The committed source evaluated here does **not** satisfy `scripts/check-book-length.py`’s total-word requirement:
+The original reviewed source failed the total-word requirement:
 
 - generated manuscript total: **66,129 words**
 - front matter: **2,151 words**
 - back matter: **2,621 words**
-- chapter-only total: **61,357 words**
+- original chapter-only total: **61,357 words**
 - required chapter-only total: **65,000 words**
-- deficit: **3,643 words**
+- original deficit: **3,643 words**
 
-The remediated source must then receive a literal full run of:
+The bounded remediation adds **4,123 chapter-only words**, yielding a projected remediated total of **65,480 words** under the checker’s regex.
+
+The remediated frozen source must now receive a literal full run of:
 
 `python3 scripts/check-book-length.py the-unobserved-world`
 
@@ -95,7 +108,7 @@ If both pass and the remediated frozen source still matches the reviewed manuscr
 - [x] The most volatile 2026 sources were rechecked on September 5, 2026.
 - [x] Book-level `RIGHTS.md` and `rights.json` are present and coherent.
 - [x] No unresolved factual, research, rights, matter, novelty, or editorial blocker remains in this review.
-- [x] Mechanical chapter-only total evaluated on the committed source: **61,357 words**.
-- [ ] Expand numbered chapters by at least **3,643 net words** without violating reviewed evidence boundaries.
+- [x] Original mechanical chapter-only total evaluated: **61,357 words**.
+- [x] Bounded chapter-only expansion completed: **+4,123 words**, projecting **65,480 words** total.
 - [ ] Run the full `python3 scripts/check-book-length.py the-unobserved-world` command on the remediated frozen Desk source and require a pass, including every per-chapter floor.
 - [ ] Run `python3 scripts/check-desk.py` on the same frozen Desk source and require a pass.
