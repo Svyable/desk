@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "Svyable Desk Reader",
-  "short_name": "Desk Reader",
+  "name": "Sven Hardy Benson’s Desk",
+  "short_name": "Desk",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -17,5 +17,5 @@
     }
   ],
   "categories": ["books", "education", "productivity"],
-  "description": "Read Svyable working drafts and complete manuscripts in the Desk Reader."
+  "description": "Working drafts, complete manuscripts, research, and next editions by Sven Hardy Benson before deliberate release."
 }
