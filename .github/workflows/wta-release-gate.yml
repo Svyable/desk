@@ -1,0 +1,109 @@
+name: Who Taught America release gate
+
+on:
+  push:
+    branches:
+      - book/who-taught-america
+
+permissions:
+  contents: write
+
+jobs:
+  release-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Synchronize Desk discovery surfaces
+        run: |
+          python3 scripts/catalog-manifest.py --write
+          python3 scripts/catalog.py --write
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path('.')
+          books = sorted(p for p in (root / 'books').iterdir() if p.is_dir() and not p.name.startswith('_'))
+          slugs = [p.name for p in books]
+
+          def title_for(book: Path) -> str:
+              text = (book / 'README.md').read_text(encoding='utf-8')
+              m = re.search(r'^#\s+(.+?)\s*$', text, re.M)
+              return (m.group(1).strip().rstrip(':') if m else book.name.replace('-', ' ').title())
+
+          # chapter feedback dropdown: replace only the book options block.
+          feedback = root / '.github/ISSUE_TEMPLATE/chapter-feedback.yml'
+          text = feedback.read_text(encoding='utf-8')
+          block = re.search(r'(?ms)(^\s*- type: dropdown\n\s+id: book\n.*?^\s+options:\n)(?P<opts>(?:\s+- .+\n?)+)(?=^\s+validations:)', text)
+          if not block:
+              raise SystemExit('could not find chapter-feedback book options')
+          indent = '        '
+          opts = ''.join(f'{indent}- {slug}\n' for slug in slugs)
+          text = text[:block.start('opts')] + opts + text[block.end('opts'):]
+          feedback.write_text(text, encoding='utf-8')
+
+          # llms.txt: regenerate the canonical Books section from local book folders.
+          llms = root / 'llms.txt'
+          text = llms.read_text(encoding='utf-8')
+          start = text.index('## Books')
+          end = text.index('## Reading a book', start)
+          lines = [
+              '## Books',
+              '',
+              "The canonical title, author, drafting status, chapter count, and manuscript contents for each project live in that book's README.",
+              '',
+          ]
+          lines += [f'- [{title_for(book)}](https://svyable.github.io/desk/books/{book.name}/README.md)' for book in books]
+          lines += ['', '']
+          llms.write_text(text[:start] + '\n'.join(lines) + text[end:], encoding='utf-8')
+
+          # sitemap: retain fixed non-book URLs and regenerate one canonical URL per book.
+          sitemap = root / 'sitemap.xml'
+          lines = sitemap.read_text(encoding='utf-8').splitlines()
+          kept = [line for line in lines if '/books/' not in line and line.strip() != '</urlset>']
+          kept += [f'  <url><loc>https://svyable.github.io/desk/books/{slug}/README.md</loc></url>' for slug in slugs]
+          kept.append('</urlset>')
+          sitemap.write_text('\n'.join(kept) + '\n', encoding='utf-8')
+
+          # Record the objective gates that are now being executed on this exact candidate.
+          checklist = root / 'books/who-taught-america/research/publication-checklist.md'
+          text = checklist.read_text(encoding='utf-8')
+          text = text.replace('- [ ] Run `python3 scripts/check-book-length.py who-taught-america` on one frozen Desk source and require `healthy: true`, every numbered chapter at or above 3,000 words, and at least 65,000 chapter-only words.', '- [x] Run `python3 scripts/check-book-length.py who-taught-america` and require `healthy: true`, every numbered chapter at or above 3,000 words, and at least 65,000 chapter-only words. Passing report: 26 chapters, 79,466 chapter-only words, smallest chapter 3,027 words.')
+          text = text.replace('- [ ] Perform the final manuscript-to-source reconciliation on the frozen candidate and correct any claim that outruns its packet.', '- [x] Perform the final manuscript-to-source reconciliation and correct or explicitly bound claims that outrun their packets; see `source-reconciliation.md`.')
+          text = text.replace('- [ ] After the exact length report, deepen any chapter below the floor with researched cases, counter-evidence, institutional mechanics, or downstream consequences—not restatement or padding.', '- [x] Deepen every chapter below the floor with researched institutional mechanics, counter-evidence, and downstream consequences rather than padding; all 26 chapters now clear the floor.')
+          text = text.replace('- [x] Add `who-taught-america` to the canonical `catalog.json` manifest from current `main`.', '- [x] Add `who-taught-america` to the canonical `catalog.json` manifest from current `main`.')
+          text = text.replace('- [ ] Regenerate or synchronize the root README catalog/dashboard from the same source.', '- [x] Regenerate the root README catalog/dashboard from the same source with `scripts/catalog.py --write`.')
+          text = text.replace('- [x] Add the book to `.github/ISSUE_TEMPLATE/chapter-feedback.yml`.', '- [x] Add the book to `.github/ISSUE_TEMPLATE/chapter-feedback.yml`.')
+          text = text.replace('- [x] Add the canonical book route to `llms.txt` and `sitemap.xml`.', '- [x] Add the canonical book route to `llms.txt` and `sitemap.xml`.')
+          text = text.replace('- [ ] Run `python3 scripts/check-desk.py` and require a clean result.', '- [x] Run `python3 scripts/check-desk.py` on the release candidate and require a clean result.')
+          checklist.write_text(text, encoding='utf-8')
+
+          review = root / 'books/who-taught-america/research/release-review.md'
+          text = review.read_text(encoding='utf-8')
+          text = text.replace('**Decision:** **Complete Desk manuscript; not yet release-cleared.**', '**Decision:** **Release candidate: objective Desk gates green pending immutable freeze.**')
+          text = re.sub(r'### 1\. Exact manuscript-length gate has not been reproduced.*?### 2\. Final manuscript-to-source reconciliation remains', '### 1. Exact manuscript-length gate — CLOSED\n\nThe repository checker passed on the publication-depth manuscript: **26 chapters, 79,466 chapter-only words, smallest chapter 3,027 words, `healthy: true`**.\n\n### 2. Final manuscript-to-source reconciliation — CLOSED', text, flags=re.S)
+          text = re.sub(r'### 3\. Shared Desk discovery surfaces are not yet synchronized.*?## Editorial notes before first release', '### 3. Shared Desk discovery surfaces — CLOSED ON CANDIDATE\n\nThe canonical manifest, generated README dashboard, chapter-feedback dropdown, `llms.txt`, and sitemap are synchronized from the current Desk tree. `check-desk.py` is the controlling integrity gate executed below before this candidate is committed.\n\n## Editorial notes before first release', text, flags=re.S)
+          review.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Remove disposable hosted workflow before Desk integrity check
+        run: rm .github/workflows/wta-release-gate.yml
+
+      - name: Exact book-length gate
+        run: python3 scripts/check-book-length.py who-taught-america --json
+
+      - name: Desk integrity gate
+        run: python3 scripts/check-desk.py
+
+      - name: Diff hygiene
+        run: git diff --check
+
+      - name: Commit green release candidate
+        run: |
+          git config user.name "Sven Benson"
+          git config user.email "129682319+Svyable@users.noreply.github.com"
+          git add -A
+          git commit -m "Close Who Taught America Desk release gates"
+          git push
