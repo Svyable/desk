@@ -431,3 +431,113 @@ The people who cannot reinvent remind us what optionality is for.
 Not endless motion.
 
 Protection against being trapped when motion becomes necessary.
+
+There is another class of people who complicates the reinvention story: those who can change in principle but cannot afford the period between identities.
+
+Most successful transition stories skip this interval because the interesting narrative begins with departure and ends with arrival. The hard part is often the middle. The old wage has stopped or shrunk. The new wage has not arrived. Training has started but is not complete. A credential is pending. A probation period offers less security. A move requires deposits before an old lease ends. A new occupation starts at a lower rung. Childcare has to be rearranged before the first paycheck lands.
+
+The transition has negative cash flow.
+
+People with savings can buy the interval.
+
+People without savings have to eliminate it.
+
+That is why some apparently cautious decisions are rational. Staying in a declining occupation can make sense if leaving requires three months without income. Declining a training program can make sense if the tuition is subsidized but the lost shifts are not. Remaining in a badly fitting house can make sense if a move would consume the small emergency fund protecting the household from everything else.
+
+The barrier is not unwillingness to change.
+
+It is the financing of the bridge.
+
+This matters for policy because many transition programs subsidize the destination and ignore the crossing. Tuition assistance pays for the class but not the Tuesday afternoon that must be freed to attend it. A relocation grant helps with a truck but not with the spouse’s lost job. A phased-retirement option exists but lowers earnings before the household has enough assets to absorb it. A care benefit pays a provider for a few hours while the family still has to coordinate the remaining twenty.
+
+A serious long-life system has to notice transition liquidity.
+
+The phrase sounds financial because part of the problem is financial. It also includes time, predictable scheduling, transportation, health coverage, information, and administrative capacity. A person may have enough money and no hours. Enough hours and no care. Enough care and no nearby program. Enough training and no employer willing to hire at the new age and wage.
+
+The pieces have to overlap.
+
+This is why the person who cannot reinvent often disappears from data before the policy can see what happened. She did not enroll, so the program records no failure. He did not apply, so the employer records no discrimination. The family did not move, so the housing market sees no demand. The caregiver reduced hours instead of leaving entirely, so the cost appears as lower earnings rather than a care-system failure.
+
+Constraint often looks like preference in administrative data.
+
+That is a dangerous mistake in a book about optionality.
+
+If people repeatedly choose continuity, the choice may express attachment. It may also reveal that the alternatives are too expensive, too uncertain, or too poorly connected to be real.
+
+The only way to tell is to examine the transition cost rather than celebrate the formal existence of an option.
+
+Older workers face a particular version of this problem because the market can discount the value of a second beginning at exactly the moment the individual sees a large remaining horizon. A fifty-seven-year-old may rationally believe that ten or fifteen more working years justify a serious retraining investment. An employer may look at the same person and imagine a short runway. The worker’s horizon and the institution’s horizon disagree.
+
+That disagreement is one of the central tensions of anticipatory longevity.
+
+The person acts on the future she expects to have.
+
+The institution acts on the future it expects her to have.
+
+When the institution’s forecast is shorter, it can prevent the person from realizing the longer one.
+
+Age discrimination is therefore more than a fairness problem in this context. It can become a mechanism that converts possible longevity into unusable longevity. Years exist, health exists, willingness exists, and the labor market refuses to value the combination.
+
+This is why exhortations to work longer can be especially perverse when they arrive without hiring reform. A government can extend the age at which full benefits are available. It cannot, by doing that alone, make an employer want a sixty-one-year-old applicant. The policy can create an obligation without creating a market.
+
+The person bears the contradiction.
+
+There is a parallel contradiction in caregiving. Longer family survival can produce more years of relationship and more years of responsibility. The caregiver may be asked to remain attached to work because the retirement system needs longer careers while also being relied upon privately because formal care is scarce or unaffordable.
+
+Two institutions optimize against the same hours.
+
+The labor market needs the worker.
+
+The family needs the caregiver.
+
+The public budget often benefits when the caregiver resolves the conflict privately.
+
+The individual loses the option that everyone else assumes exists.
+
+A long-life society cannot eliminate these collisions. It can decide whether their cost is visible and shared.
+
+That is a more realistic ambition than universal reinvention.
+
+Paid caregiving credits, portable benefits, predictable schedules, part-time professional roles, re-entry paths, local training, disability accommodation, and accessible transport do not turn every constrained person into a mobile one. They reduce the number of constraints that compound unnecessarily.
+
+The goal is not to make the person frictionless.
+
+It is to stop institutions from adding friction to a life that already has enough.
+
+This also changes how we should read failure. A person who tries a second career and returns to the first has not necessarily wasted the experiment. A caregiver who leaves work and later returns at a lower level has not demonstrated a lack of ambition. A worker who declines retraining because the household cannot finance the interval has not revealed a preference for obsolescence.
+
+Transitions produce information even when they do not produce triumph.
+
+The culture of reinvention tends to preserve only the triumphant cases because they are easier to tell. A more mature longevity culture would make room for partial transitions, abandoned transitions, and reversible experiments.
+
+Try the course without mortgaging the house.
+
+Reduce hours without surrendering the profession.
+
+Take a six-month project without losing all benefits.
+
+Move to a smaller home without leaving the county.
+
+Test retirement without becoming permanently unemployable.
+
+The ability to make a small move matters most to people who cannot survive a large one.
+
+This is where reversibility becomes redistributive rather than merely elegant. A wealthy person can create reversibility privately by maintaining cash, multiple homes, advisers, networks, and redundant options. Public systems create a version for everyone else when they let people test a transition without risking every accumulated asset.
+
+That is the part of optionality that deserves political attention.
+
+Not the freedom to keep every door open forever.
+
+The freedom to open one door without every other door slamming shut.
+
+There will still be people for whom even that is not enough.
+
+Some bodies will not permit another decade of work. Some illnesses will progress. Some families will require care that no scheduling reform makes light. Some places will lose industries faster than training can replace them. Some people will reach an age at which the next beginning is simply not what they want.
+
+A humane longevity argument has to end before it turns these realities into design defects.
+
+The point of better systems is not to defeat finitude.
+
+It is to distinguish the limits life imposes from the limits institutions impose casually.
+
+We should remove more of the second without pretending we can remove the first.
