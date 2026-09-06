@@ -211,3 +211,91 @@ An isolated numerical discovery can be forgotten, misinterpreted, or oversold. A
 The most important screen in the Navier–Stokes lab may therefore not be the one displaying the candidate singularity.
 
 It may be the one displaying everything that would have to be true before the lab is allowed to believe it.
+
+That screen should begin before the optimizer runs.
+
+A serious singularity search needs a pre-registered failure matrix. Not because pure mathematics requires preregistration in the clinical-trial sense, but because optimization systems are extraordinarily good at exploiting whatever success metric we give them. If “success” means large vorticity growth, the optimizer may learn numerical pathologies. If it means a tiny residual, it may concentrate error where the loss barely samples. If it means apparent self-similarity, it may exploit the normalization.
+
+Define the ways the candidate is allowed to fail before seeing the candidate.
+
+Resolution dependence.
+
+Basis dependence.
+
+Domain truncation.
+
+Loss-function dependence.
+
+Violation between collocation points.
+
+Condition-number explosion.
+
+Sensitivity to floating-point precision.
+
+Hidden symmetry constraints.
+
+Failure of decay.
+
+Incorrect reconstruction of pressure.
+
+An unstable mode omitted from the parameterization.
+
+A theorem already excluding the profile class.
+
+Then automate the attacks.
+
+This changes the machine-learning problem. The search agent is no longer optimizing one objective. It is trying to survive a suite of adversaries whose tests approximate the later proof obligations.
+
+The strongest candidate may not be the profile with the smallest raw residual. It may be the profile whose residual stays small under representation changes, whose linearization has a tractable spectral gap, whose tail is easy to bound, and whose defining parameters can be enclosed rigorously.
+
+Proof cost belongs in the objective function.
+
+This is a surprisingly important design principle. Machine learning normally optimizes predictive or approximation quality. Computer-assisted mathematics cares about certifiability. A slightly less accurate approximation in floating point can be a far better mathematical candidate if its structure makes the rigorous inverse bounds clean.
+
+One can imagine agents learning this distinction over many failed certification attempts.
+
+A candidate dies because interval bounds blow up in one coordinate system.
+
+The system records the conditioning pattern.
+
+Another candidate with similar numerical quality is represented in a weighted basis and becomes certifiable.
+
+The choice of basis becomes reusable knowledge.
+
+A third candidate reveals that the unstable spectrum is easier to separate after fixing a symmetry with a different phase condition.
+
+The research stack improves not only at finding profiles but at finding profiles mathematics can hold onto.
+
+This is where the phrase *failure is the dataset* becomes literal numerical analysis. Failed enclosures teach the system about the geometry of proof.
+
+There is another hard issue: false universality in rescaled plots. Near a rapidly growing event, many different flows can look similar after normalization simply because the normalization removes the obvious differences. A model may cluster them and infer one universal profile that does not actually govern the dynamics.
+
+The cure is to make universality predictive.
+
+If two trajectories approach the same renormalized object, the inferred object should predict their next rescaled behavior, spectral perturbations, and scaling corrections outside the fitting window. Hold out time intervals. Hold out initial-data families. Change the normalization. Ask whether the same reduced dynamics survives.
+
+Again, none of this proves a theorem.
+
+It produces a candidate worthy of theorem-scale expenditure.
+
+The search should also include *anti-singularity* experiments. Instead of only optimizing for growth, train adversaries to find perturbations that destroy the apparent blowup mechanism. Which perturbations are most effective? Which leave the growth intact? Does the candidate sit on a codimension-one surface, a higher-codimension manifold, or no coherent manifold at all?
+
+This empirical stability map can guide the later exact stability theorem. If numerical tuning repeatedly needs three parameters, the proof team has an early hint about the unstable dimension it may need to certify. If a supposedly unstable profile survives broad perturbations, perhaps the model is not measuring the right symmetry or the object is dynamically more robust than expected.
+
+The important habit is bidirectional search.
+
+Find the monster.
+
+Find what kills the monster.
+
+A candidate that survives both searches deserves increasingly expensive verification.
+
+This is another reason an Anthropic-style language-and-tool agent could matter without being the underlying numerical representation. The hard work spans papers, code, plots, transforms, spectra, proof obligations, and failed experiments. The agent’s comparative advantage is maintaining the loop across all of them while preserving enough provenance that the team can reconstruct why one profile survived and another died.
+
+A numerical lab without memory is just compute.
+
+A numerical lab with structured failure becomes mathematics in preparation.
+
+The first true Navier–Stokes singularity, if one exists, may arrive looking disappointingly like a numerical artifact.
+
+That is exactly why the institution has to be built to hate artifacts more than it loves breakthroughs.
