@@ -134,19 +134,39 @@ The process changes what outsiders think the place is for.
 
 Hawaiian history repeatedly resists that reduction. The islands were not made meaningful by American use. They had meaning, society, and sovereignty before American annexation. The United States changed their political context and then incorporated the resulting geography into its own national identity.
 
-This book's subtitle says the selected events “made America.” Annexation is one of the chapters that forces the verb to work in both directions.
+The logistical consequences deserve their own place in the story because empires are not only maps. They are chains of supply.
 
-America made itself larger by making another polity smaller.
+A navy operating across the Pacific needs fuel, food, repair, fresh water, communications, storage, and protected anchorages. A commercial network needs predictable ports and cables. An army moving toward the Philippines needs places where ships can provision and orders can move. Hawai‘i's strategic value came from converting distance into stages.
 
-That expansion shaped military reach, commerce, constitutional doctrine, migration, and Pacific strategy. It also created obligations and conflicts that remain unresolved.
+This is easy to miss when looking at a flat map. The Pacific appears as empty blue space with dots scattered across it. To a steam navy, the spaces between the dots were operational constraints. Coal determined range. Maintenance determined readiness. Telegraph cables determined how quickly governments could know what fleets were doing. A mid-Pacific possession did not erase distance, but it made distance governable.
 
-The 1890s contain many plausible selections: the Sherman Antitrust Act, the Panic of 1893, Pullman Strike, Plessy v. Ferguson, the closing of the western frontier, the Spanish-American War itself. Choosing Hawai‘i over Plessy especially demands humility because legalized segregation and racial terror defined American life for generations.
+That is one reason the 1898 turn had consequences larger than the land area acquired.
+
+Hawai‘i became part of an American logistical system that later included Guam, the Philippines, and other positions. The system was never static. Control of the Philippines ended after World War II. Guam remained a U.S. territory. Other bases and alliances took on different roles. Yet the basic strategic logic survived: American power in Asia depended on a network of places far from the continental United States.
+
+The twentieth-century Pacific order was built from ships and aircraft, but also from jurisdiction.
+
+A base on foreign soil can be renegotiated. A treaty can expire. A host government can change policy. Sovereign territory offers a different degree of control. Annexation therefore altered not just where American forces could stop but how securely the United States could assume future access.
+
+The cost of that security was imposed on people whose sovereignty had been displaced.
+
+The same transaction also reshaped political economy inside the islands. Annexation removed the tariff boundary separating Hawaiian sugar from the American market and deepened the power of plantation agriculture. Large landholdings, corporate concentration, and imported labor already characterized the economy, but formal incorporation connected those structures more tightly to U.S. law and demand.
+
+The plantation system produced its own counterforces. Workers from Japan, the Philippines, Portugal, China, Puerto Rico, and elsewhere developed communities that did not remain politically passive. Labor organizing and multiethnic coalition-building later became important parts of territorial and state politics. The society annexed in 1898 was not simply frozen under the people who had engineered annexation.
+
+Political membership changes the people doing politics.
+
+That is another downstream consequence difficult to capture in the word “annexation.” The act brought the islands under American sovereignty, but it also brought a population into American political argument. Hawai‘i would eventually send senators and representatives to Congress. Its residents would serve in the U.S. military, vote in presidential elections after statehood, shape labor law, and contribute to national culture. A policy initially driven by strategic and commercial elites created a future electorate those elites could not fully design.
+
+Empire can produce incorporation, and incorporation can change the empire's center.
+
+The 1890s contain many plausible selections: the Sherman Antitrust Act, the Panic of 1893, the Pullman Strike, *Plessy v. Ferguson*, the closing of the western frontier, and the Spanish-American War itself. Choosing Hawai‘i over *Plessy* especially demands humility because legalized segregation and racial terror defined American life for generations.
 
 The case for annexation is not that it mattered more than Jim Crow.
 
 It is that it changed the scale and location of the American project in a way national memory often compresses into a prelude to statehood.
 
-After 1898, the country had a strategic center thousands of miles from the mainland. It had demonstrated that overseas territory could be acquired through congressional resolution after a treaty lacked votes. It had ignored organized Native opposition. It had strengthened a Pacific military posture that would define later wars.
+After 1898, the country had a strategic center thousands of miles from the mainland. It had demonstrated that overseas territory could be acquired through congressional resolution after a treaty lacked votes. It had ignored organized Native opposition. It had strengthened a Pacific military posture that would define later wars. It had turned distance into a logistics problem the federal government now had sovereign territory to solve.
 
 The American map looked almost the same on a classroom wall if the inset box for Hawai‘i was small enough.
 
