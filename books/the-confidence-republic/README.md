@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 10 of 25 drafted |
+| **Chapters** | 15 of 25 drafted |
 
 Twenty-five decades. Twenty-five scams. One country built on the dangerous and productive idea that strangers can trust one another.
 
@@ -42,11 +42,11 @@ The chronology uses America’s 250 years literally. Rather than switching to ca
 
 ### Part III — Scale
 
-- [ ] Ch 11 — The Machine Behind the Locked Door — 1876–1885 · the Electric Sugar Refining Company
-- [ ] Ch 12 — A Ticket to Nowhere — 1886–1895 · the Louisiana State Lottery machine
-- [ ] Ch 13 — Carnegie’s Secret Daughter — 1896–1905 · Cassie Chadwick
-- [ ] Ch 14 — Wireless Riches — 1906–1915 · United Wireless Telegraph Company
-- [ ] Ch 15 — Forty-Five Days — 1916–1925 · Charles Ponzi
+- [x] [Ch 11 — The Machine Behind the Locked Door](manuscript/ch11-the-machine-behind-the-locked-door.md) — 1876–1885 · the Electric Sugar Refining Company
+- [x] [Ch 12 — A Ticket to Nowhere](manuscript/ch12-a-ticket-to-nowhere.md) — 1886–1895 · the Louisiana State Lottery machine
+- [x] [Ch 13 — Carnegie’s Secret Daughter](manuscript/ch13-carnegies-secret-daughter.md) — 1896–1905 · Cassie Chadwick
+- [x] [Ch 14 — Wireless Riches](manuscript/ch14-wireless-riches.md) — 1906–1915 · United Wireless Telegraph Company
+- [x] [Ch 15 — Forty-Five Days](manuscript/ch15-forty-five-days.md) — 1916–1925 · Charles Ponzi
 
 ### Part IV — Verification
 
@@ -68,6 +68,6 @@ The chronology uses America’s 250 years literally. Rather than switching to ca
 
 ## Research
 
-The thesis test, decade-selection rules, falsification conditions, chapter evidence map, runners-up, and source ledger live in [research/](research/README.md). The first ten chapters are now grounded in institutional and primary-source material including the Library of Congress, Founders Online, Smithsonian, Federal Reserve historical material, the Federal Deposit Insurance Corporation, the Museum of the City of New York, the New Georgia Encyclopedia, the National Archives, the U.S. House Historian, Barnum’s surviving correspondence and autobiography, and scholarship on the emergence of the “confidence man.”
+The thesis test, decade-selection rules, falsification conditions, chapter evidence map, runners-up, and source ledger live in [research/](research/README.md). The first fifteen chapters are now grounded in institutional, legal, scholarly, and primary-source material including the Library of Congress, Founders Online, Smithsonian, Federal Reserve historical material, the Federal Deposit Insurance Corporation, the Museum of the City of New York, the New Georgia Encyclopedia, the National Archives, the U.S. House Historian, federal court opinions, postal-inspection history, Barnum’s surviving correspondence and autobiography, contemporaneous newspapers, and scholarship on the emergence of the “confidence man” and the Electric Sugar fraud.
 
 The later chapter slate is an editorial working architecture, not a license to write ahead of the record. Each candidate must survive a primary-source or high-quality institutional close read before its chapter is drafted. If a candidate turns out to be less deceptive, less consequential, or less representative of its trust system than a runner-up, the book changes candidates rather than forcing the evidence to fit the outline.
