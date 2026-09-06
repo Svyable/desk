@@ -40,6 +40,12 @@ Artificial intelligence increases the number of specification-compliant objects.
 
 That is precisely why taste becomes more visible.
 
+There is an economic distinction hiding inside that sentence. Generation and evaluation are different production stages. When the first becomes cheaper faster than the second, the share of a project's cost devoted to evaluation can rise even if evaluation itself does not become more expensive. A team that once paid to produce three serious concepts might now produce thirty almost for free and then discover that comparison, testing, legal review, customer research, and executive attention have become the expensive part of the exercise.
+
+The extra options are valuable only when the expected gain from searching farther exceeds the cost of judging what the search produces. Past that point, another plausible option is not free. It consumes the scarce complement.
+
+This is why abundance can create a stopping problem as well as a selection problem. Under expensive production, the budget often stopped the search. Under cheap generation, somebody has to decide when the search has become good enough.
+
 Imagine two organizations using equally capable models.
 
 The first asks for a strategy, receives one, polishes the presentation, and implements it.
