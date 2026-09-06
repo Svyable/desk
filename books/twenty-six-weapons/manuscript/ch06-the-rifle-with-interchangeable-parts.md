@@ -213,3 +213,63 @@ That is why the rifle with interchangeable parts is the weapon of the 1820s.
 The barrel pointed at an enemy.
 
 The manufacturing method pointed at the century.
+
+The part of Hall's story that most resembles modern technology procurement is not the successful rifle. It is the period in which the machinery looked like an expensive failure.
+
+The National Park Service's armory study preserves criticism from inside the government that Hall was too much of an innovator to be trusted with public funds and that his first thousand rifles might cost more than fifty dollars each before completion. Hall did not deny the short-term cost. His defense was a scale argument: once the machinery existed, he said, it could serve one hundred thousand guns as well as one thousand.
+
+That is the economics of fixed cost stated before economists made it familiar to policy debates.
+
+A machine built for one thousand rifles can look extravagant when its cost is divided by one thousand. If the same machine, method, gauge system, and trained workforce can support a vastly larger run, the arithmetic changes. The difficulty is that someone has to authorize the expense before the scale arrives.
+
+That is why strategic industrial capacity so often appears wasteful in peacetime.
+
+A dormant ammunition line is expensive relative to zero current demand. A shipyard with unused capacity looks inefficient. A second supplier for a component can cost more than buying everything from the cheapest incumbent. A test facility can sit idle. Skilled workers can appear to be overhead.
+
+Then a crisis changes the denominator.
+
+Hall's machinery was a miniature version of that problem. The federal government was paying not merely for rifles but for an option on future production.
+
+The option had to survive skepticism long enough to become useful.
+
+Hall's own 1822 letter to Secretary of War John C. Calhoun is valuable because it captures the ambition before later historians named the system. He said he had established methods for making arms alike according to a fixed model and doing so with workers who did not each have to be complete traditional gunsmiths. The claim was bold enough that it should not be accepted solely because Hall made it. Later officials and surviving machinery provide stronger evidence.
+
+By 1832 Colonel George Talcott of the Ordnance Department was describing Hall's manufactory as exceptional in the uniformity of its parts and the degree to which machinery had displaced hand dependence. NPS credits Hall with developing drop hammers, drilling machines, stock-making machines, balanced pulleys, and specialized cutting machinery; his straight-cutting machine became an ancestor of the modern milling machine.
+
+The list is more important than it looks.
+
+Interchangeability is not one machine.
+
+It is a factory architecture.
+
+A single clever cutter cannot create uniform rifles if the drilling operation varies, if the stock dimensions wander, if the gauges disagree, or if inspection accepts deviations the next operation cannot absorb. Precision must propagate through the process.
+
+That is why Hall's achievement could not simply be copied by looking at one finished rifle.
+
+A rival could measure the object and still miss the production logic.
+
+Industrial knowledge often lives in sequence, setup, tooling, maintenance, worker judgment, and accumulated correction rather than in the final artifact. Modern governments rediscover this whenever they assume a supply chain can be relocated merely by purchasing drawings. The drawing describes what the part should be. It does not automatically recreate the people and processes that learned how to make it reliably.
+
+Harpers Ferry became a place where such knowledge accumulated.
+
+The broader armory produced more than six hundred thousand muskets, rifles, and pistols between 1801 and the Civil War, according to the National Park Service. Hall's Rifle Works occupied only part of that system. Its disproportionate importance came from changing the question asked inside the system.
+
+The old question was: can this craftsman make a good gun?
+
+The new question was: can this process keep making the same good gun after the craftsman changes?
+
+The second question scales.
+
+It also threatens established skill and authority, which helps explain why mechanization was never merely a technical transition. A factory that embeds knowledge in machines and gauges changes who controls quality, who can enter the workforce, how labor is divided, and which expertise becomes scarce. The master fitter loses some monopoly over the final act. The toolmaker and process designer gain importance. Management gains a stronger claim to define the sequence.
+
+The social conflict belongs inside the weapon.
+
+So does the uncertainty.
+
+Even the Springfield Armory's later historical study cautions against describing early interchangeability as instant or absolute. Material evidence suggests that some early supposedly interchangeable arms still required handwork, and Springfield did not establish a comprehensive practical gauging system until the 1830s. Hall belongs in a transition, not at the end of one.
+
+That qualification makes the achievement more credible.
+
+The important weapon of the decade does not have to perfect the future.
+
+It has to make the future's problem visible early enough that institutions begin learning how to solve it.
