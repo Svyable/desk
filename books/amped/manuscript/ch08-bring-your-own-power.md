@@ -293,3 +293,47 @@ It is the moment the story stops pretending that connection is binary.
 A data center does not have to choose between being a passive customer and a private island.
 
 It can become something more interesting: a giant load that knows what parts of the grid it truly needs and is prepared to pay for them.
+
+The next step is to measure independence in failures rather than averages.
+
+A campus can produce ninety-nine percent of its annual electricity itself and still be almost completely dependent on the public system if the missing one percent arrives in a few enormous emergencies. Another campus can buy much more ordinary grid energy but impose a smaller reliability obligation because it is willing and able to disconnect when the system is stressed. Annual self-supply is therefore a weak measure of contingency independence.
+
+The relevant inventory looks different.
+
+How large is the largest instantaneous import the campus can demand after an onsite generator trips?
+
+How long can batteries carry critical load before another resource must start?
+
+Can onsite generation restart without outside power, or does the private system itself need the grid for black-start assistance?
+
+Is the fuel supply independent of the same weather event stressing the regional system?
+
+Can the campus survive a pipeline constraint, a transformer failure, and a generator outage at the same time?
+
+Which workloads are shed first, and is that sequence automatic or subject to a human approval that may arrive too slowly?
+
+Those questions turn “bring your own power” into **bring your own failure plan**.
+
+That is a harder standard and a more useful one.
+
+It also exposes correlated risk. A gas turbine looks dependable until the regional emergency is caused partly by a gas-system constraint. A battery looks independent until a prolonged outage exceeds its duration. A second generator looks redundant until both units share a transformer, switchyard, fuel line, cooling system, or software controller. A geographically separate cloud region looks like an escape route until the same heat wave or winter storm stresses both power systems.
+
+Redundancy has to fail differently to be valuable.
+
+Grid planners already think this way because reliability standards are built around contingencies, not marketing diagrams. Large private power systems should be evaluated with the same instinct. What common-mode failure remains hidden behind apparently separate resources?
+
+The answer can change the price of standby service. A campus with tested islanding controls, diverse onsite resources, adequate fuel, and enforceable load shedding should not necessarily pay the same backup charge as a campus whose “private power” disappears instantly when one shared switchyard fails. The physical obligation is different.
+
+Performance testing can make the distinction observable. A customer claiming two hundred megawatts of interruptibility can prove it periodically. A campus claiming island capability can demonstrate transition under controlled conditions. Batteries receiving reliability credit can be required to maintain state of charge during defined risk windows. Onsite generation counted toward a reduced grid obligation can carry availability and maintenance requirements.
+
+This makes the private system legible to the public one without requiring the grid operator to manage the customer's internal plant.
+
+The boundary becomes a contract with evidence.
+
+That is the model worth scaling. Not a fantasy in which giant digital factories vanish from the grid, and not a rule that treats every sophisticated campus like an ordinary passive load. The customer can own more of its reliability stack while the grid prices the residual obligation precisely.
+
+The public network then becomes what networks are best at being: shared insurance against failures that are too expensive for every participant to duplicate alone.
+
+Private power is valuable when it reduces the claim on that insurance.
+
+It is not independence merely because the meter is quiet on a normal day.
