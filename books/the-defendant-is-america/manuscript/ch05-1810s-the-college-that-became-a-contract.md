@@ -187,3 +187,77 @@ It would also give future generations of lawyers endless work deciding when cont
 The most important trials are not always the ones with the loudest crowds.
 
 Sometimes a country's future is hiding in who gets to keep the seal.
+
+## The rival case
+
+There is an obvious objection to giving Dartmouth the 1810s.
+
+*McCulloch v. Maryland* was decided in the same Supreme Court term.
+
+If the question were simply which constitutional case from the decade appears most often in courses on American government, *McCulloch* might win. It confronted the Second Bank of the United States, Maryland's effort to tax it, Congress's implied powers, and the supremacy of federal law over hostile state action. Marshall's opinion helped define the breadth of national power. The argument that the country could not function if each state could tax or disable federal instrumentalities was foundational.
+
+So why keep Dartmouth?
+
+Because this book is not a ranking of appellate doctrines.
+
+It is a history told through people and institutions placed under adjudicative pressure, and the Dartmouth dispute reveals something *McCulloch* makes easier to miss: constitutional government does not only distribute authority between Washington and the states. It also decides when a political majority loses the power to rewrite a private institution it can physically reach.
+
+The distinction matters.
+
+In *McCulloch*, the protected institution is federal. Its defense follows from the constitutional structure of national supremacy.
+
+In Dartmouth, the protected institution is private. Its defense follows from treating a charter as a contract whose obligations survive a change in state politics.
+
+That is a different kind of constitutional move. It does not merely tell New Hampshire that Washington outranks it on a federal subject. It tells New Hampshire that an earlier grant has taken something off the ordinary menu of legislative revision.
+
+The state's own past act has become a present restraint.
+
+That temporal feature is what makes the case so modern.
+
+Much of institutional life depends on governments being able to bind themselves in limited ways. A bond must still mean something after an election. A pension promise cannot be treated as an applause line whose content resets with a new administration. A nonprofit needs to know whether donated property remains dedicated to its legal purpose. A university that has built laboratories, libraries, faculty careers, and student expectations around a governing charter cannot be operated as though every legislative session creates it anew.
+
+Continuity makes planning possible.
+
+Continuity also creates inherited power.
+
+The objection to Dartmouth was never silly. Suppose a government grants a privilege badly. Suppose an old charter becomes obsolete, exclusionary, or politically captured. Suppose the institution begins performing a function the public considers too important to leave insulated from democratic change. If every charter provision becomes constitutionalized as a contract, one generation can place durable limits on another with surprisingly little room for adjustment.
+
+States learned from the decision.
+
+One response was not to abolish corporations but to redesign the terms under which they were created. Legislatures could reserve powers of alteration. General incorporation statutes could replace some special legislative bargains. Corporate existence could become more standardized and less dependent on bespoke political grants. Regulation could be written around the charter rather than imagined as an unlimited power to rewrite it.
+
+The interesting consequence of a constitutional constraint is often the institutional innovation it induces.
+
+A rule says: you cannot solve the problem that way.
+
+Government finds another way.
+
+That is why constitutional limits need not produce governmental paralysis. They can change the form of government action. The same pattern will recur when criminal-procedure rulings force states to provide counsel, when free-speech rules prohibit one method of censorship but leave other regulatory tools, and when equal-protection doctrine eliminates classifications that governments then replace with facially different mechanisms.
+
+The replacement can be better.
+
+It can also be evasive.
+
+Constitutional law never eliminates strategy.
+
+Dartmouth therefore belongs to the history of adaptation as much as the history of rights. The Court protected the old charter. States responded by becoming more sophisticated about the legal architecture of future charters. Private institutions gained security. Public institutions retained other tools. The boundary became more explicit because a conflict had forced everyone to locate it.
+
+That is a quieter kind of constitutional development than a president defying a court or a jury sending someone to prison.
+
+It may be more durable.
+
+The corporation is one of civilization's great time machines. It allows a purpose, pool of assets, set of obligations, and decision structure to persist after particular participants die, retire, sell, or lose elections. The device is powerful because human lifetimes are short and large projects are long.
+
+Dartmouth asked what political turnover could do to that time machine.
+
+The answer was not nothing.
+
+It was not anything either.
+
+That middle position—private continuity protected, public power forced to find lawful routes around it—became part of the operating system of American institutional life.
+
+There are louder cases from the 1810s.
+
+There may be a more canonical one.
+
+But if the book's question is which trial best exposes what America was quietly learning how to become, the college keeps its seat.
