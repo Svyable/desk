@@ -205,3 +205,79 @@ To demonstrate an unknown inheritance channel, researchers must not merely show 
 The archive is larger than the genome.
 
 It is also more local, material, historical, and interesting than mystery allows.
+
+One of the most revealing facts about inheritance is how much of the past biology actively refuses to carry forward.
+
+Inheritance is selective not only because some information survives and some is lost by accident. In many biological processes, resetting is part of normal development. A new organism is not simply the previous organism copied with every molecular state preserved. Regulatory states are reorganized. Cells specialize again from an early developmental state. Germ-line and embryonic processes can erase or rebuild marks that were important in the parent's tissues.
+
+That makes forgetting part of inheritance.
+
+The point is easy to miss because the visible organism looks so continuous with its lineage. A mammal resembles its parents in thousands of ways. We focus on the resemblance and underestimate how much molecular state had to be discarded, reconstructed, or re-established on the way.
+
+A robust inheritance system does not preserve everything.
+
+It preserves enough structure to rebuild what matters.
+
+This distinction between carrying a finished state and carrying a capacity to reconstruct the state appears throughout biology. A tissue repairs itself without storing a miniature picture of every intact cell. A developing embryo generates spatial organization through interacting signals and regulatory processes. An immune system can retain functional readiness without maintaining the exact conditions of the first exposure.
+
+Reconstruction is a form of memory with compression.
+
+That observation changes the burden on any theory that proposes a second archive. If a familiar form reappears after many molecular details have been reset, the recurrence does not automatically imply that the missing details were stored elsewhere. The organism may possess rules and inherited conditions capable of regenerating the form.
+
+A snowflake analogy would be too simple because organisms inherit vastly richer machinery, but it captures one principle: repeated form can arise from repeated generative constraints rather than a stored photograph of the previous form.
+
+This is why robustness and convergence require care.
+
+Biological systems can arrive at similar outcomes despite variation in components or environment. Development can compensate for some disturbances. Evolution can sometimes produce superficially similar solutions in separate lineages facing similar constraints. Neither fact means history is irrelevant. It means the mapping from cause to visible form can be many-to-one.
+
+The adult phenotype is a compressed endpoint.
+
+Different paths may lead there.
+
+If an experiment tests for an unknown influence only by comparing endpoints, it can miss the ordinary mechanisms that produced the convergence. Two organisms may look similarly organized while having arrived there through different regulatory routes. Conversely, two organisms with nearly identical genomes can diverge because development and environment pushed them through different histories.
+
+The visible resemblance is therefore not the whole causal record.
+
+This matters especially for claims of inherited acquired experience. Human families offer almost the worst possible natural experiment if the goal is to isolate one transmission channel. Relatives share ancestry, households, social class, food, geography, stressors, stories, expectations, and often institutions. Prenatal and postnatal environments are coupled. Parents respond to their own experiences by changing behavior toward children. Children evoke responses from parents. The channels braid together before a researcher measures the outcome.
+
+A multigenerational correlation can be real and still leave the mechanism unresolved.
+
+That is why narrow experimental demonstrations are more valuable than broad suggestive resemblance. If a specific molecular mark can be manipulated, tracked, reset, and associated with a predictable descendant effect under controlled conditions, the claim becomes mechanistic. If the effect disappears when the mark is removed, confidence rises. If the effect remains, the experiment points toward another carrier rather than immediately toward a field.
+
+The same standard should apply to morphic resonance.
+
+An unknown inheritance channel should earn its place by surviving interventions on the known channels.
+
+Change the inherited sequence where appropriate.
+
+Cross-foster when ethically and scientifically appropriate to separate parental environment from ancestry.
+
+Standardize or deliberately vary housing.
+
+Separate social learning.
+
+Randomize handling and experimenter identity.
+
+Track maternal effects.
+
+Measure the states most likely to carry the proposed ordinary memory.
+
+Then ask what remains.
+
+The purpose is not to make the anomaly disappear. It is to find out whether the anomaly belonged to biology we had not measured yet.
+
+A surviving residual would become more interesting with every controlled carrier removed.
+
+This also gives us a better way to interpret biological “memory” language. When researchers say a cell remembers an exposure or a tissue remembers a state, the useful question is not whether the word is metaphorical. The useful question is what future response has changed, how long the change persists, and which physical processes maintain or reconstruct it.
+
+Memory becomes a research program when it has a half-life and a mechanism.
+
+Morphic resonance, if it describes something real, should eventually become equally mundane in the best sense. It should acquire boundaries. It should have conditions under which it weakens. It should have measurements that distinguish stronger from weaker coupling. It should stop being able to explain every recurrence equally well.
+
+That is what happens to successful mysteries.
+
+They become specific enough to be boring to the people who learned them last.
+
+Biology already contains many such formerly mysterious inheritances. The lesson is not that another one is impossible.
+
+The lesson is that the next one has to compete with a crowded archive and an organism extraordinarily good at rebuilding itself from what it already carries.
