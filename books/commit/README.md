@@ -3,13 +3,14 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Complete draft · publication review |
-| **Chapters**  | 22 of 22 |
+| **Status**    | Complete expanded draft · publication candidate |
+| **Chapters**  | 22 of 22 + 4 interludes |
 | **Format** | Book |
 | **Publisher** | Svyable |
-| **Edition** | First-edition publication review |
+| **Edition** | First edition |
 | **Language** | English |
 | **Draft date** | 2026-09-03 |
+| **Candidate date** | 2026-09-04 |
 
 *How Git Became the Memory of Software—and What Comes Next*
 
@@ -41,8 +42,18 @@ Those choices escaped their original emergency. What Linus Torvalds began in Apr
 - [x] [Ch 19 — The Reference Explosion](manuscript/ch19-the-reference-explosion.md)
 - [x] [Ch 20 — The Repository You Don't Have](manuscript/ch20-the-repository-you-dont-have.md)
 - [x] [Ch 21 — What Replaces Git?](manuscript/ch21-what-replaces-git.md)
+- [x] [Interlude — The History Outside the Repository](manuscript/interlude-history-outside-the-repository.md)
+- [x] [Interlude — The Provenance Graph](manuscript/interlude-provenance-graph.md)
+- [x] [Interlude — The Branch Factory](manuscript/interlude-branch-factory.md)
+- [x] [Interlude — The Long Archive](manuscript/interlude-long-archive.md)
 - [x] [Ch 22 — The Versioned World](manuscript/ch22-the-versioned-world.md)
 - [x] [Back Matter](manuscript/back-matter.md)
+
+## Publication path
+
+- First Shelf edition prepared from frozen Desk source `93338b79303df27390c9fdcb5609e97dad1f220d`.
+- [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/commit/)
+- Desk remains the working edition for future revisions.
 
 ## Research
 

@@ -4,7 +4,7 @@
 |---|---|
 | **Author**    | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 12 of 24 drafted |
+| **Chapters**  | 20 of 24 drafted |
 
 *Tracking How Machines Learn*
 
@@ -49,17 +49,17 @@ A paleontologist does not need every organism that ever lived in order to infer 
 - [x] [Ch 10 — Generalization Has Ancestry](manuscript/ch10-generalization-has-ancestry.md)
 - [x] [Ch 11 — The Fine-Tuning Layer of History](manuscript/ch11-the-fine-tuning-layer-of-history.md)
 - [x] [Ch 12 — Reward Leaves Residue](manuscript/ch12-reward-leaves-residue.md)
+- [x] [Ch 13 — The Human Feedback Fossil](manuscript/ch13-the-human-feedback-fossil.md)
+- [x] [Ch 14 — A Diff Between Minds](manuscript/ch14-a-diff-between-minds.md)
+- [x] [Ch 15 — What Unlearning Cannot Erase](manuscript/ch15-what-unlearning-cannot-erase.md)
+- [x] [Ch 16 — Catastrophic Forgetting](manuscript/ch16-catastrophic-forgetting.md)
+- [x] [Ch 17 — The Trace That Becomes a Privacy Leak](manuscript/ch17-the-trace-that-becomes-a-privacy-leak.md)
+- [x] [Ch 18 — Who Owns the Training History?](manuscript/ch18-who-owns-the-training-history.md)
+- [x] [Ch 19 — Interpretability Becomes Archaeology](manuscript/ch19-interpretability-becomes-archaeology.md)
+- [x] [Ch 20 — The Black Box Gets a Timeline](manuscript/ch20-the-black-box-gets-a-timeline.md)
 
 ## Planned chapters
 
-13. The Human Feedback Fossil
-14. A Diff Between Minds
-15. What Unlearning Cannot Erase
-16. Catastrophic Forgetting
-17. The Trace That Becomes a Privacy Leak
-18. Who Owns the Training History?
-19. Interpretability Becomes Archaeology
-20. The Black Box Gets a Timeline
 21. Models as Scientific Instruments
 22. The Missing Checkpoint Problem
 23. A Chain of Custody for Intelligence

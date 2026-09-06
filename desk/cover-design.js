@@ -4,7 +4,7 @@ import {
   coverStyleState,
   normalizeCoverPresentation,
   resolveCoverPresentation,
-} from 'https://svyable.github.io/shelf/reader/js/cover-presentation.js';
+} from './cover-presentation-contract.js';
 
 const $ = (id) => document.getElementById(id);
 let currentCover = { ...COVER_PRESENTATION_DEFAULTS };

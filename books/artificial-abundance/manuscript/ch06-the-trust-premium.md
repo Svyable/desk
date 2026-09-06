@@ -98,6 +98,36 @@ You may trust a stranger's online review when buying a phone case and ignore the
 
 Trust is scoped.
 
+Research on algorithms makes this scope unusually visible because the results refuse to cooperate with a simple story about humans trusting humans.
+
+In experiments published in 2015, Berkeley Dietvorst, Joseph Simmons, and Cade Massey found that people could become reluctant to use an algorithm after watching it make mistakes. The striking part was not merely that errors damaged confidence. People sometimes abandoned the algorithm even when it still outperformed the human forecasters available to them.
+
+An error from a machine can feel diagnostic in a way an error from a person does not.
+
+We already know people make mistakes. We have categories for them: bad day, difficult case, limited information, ordinary fallibility. A machine can arrive with a different expectation. If it is supposed to be systematic, a visible error can make the whole system feel suspect.
+
+This response has been called algorithm aversion.
+
+It is not a law.
+
+Four years later, Jennifer Logg, Julia Minson, and Don Moore published experiments with almost the opposite headline. When participants received comparable advice from an algorithm and from a person, they often put more weight on the algorithmic advice. People can appreciate algorithmic judgment as well as avoid it.
+
+The two findings are more useful together than either is alone.
+
+There is no fixed human premium hidden inside the psychology.
+
+Trust depends on the task, the comparison, the user's knowledge, the visibility of errors, expectations, and the way advice enters the decision. A person may prefer a model to an unknown stranger while preferring a trusted professional to the same model. The same person can welcome an algorithm for forecasting and reject it after one memorable failure. A system can gain trust through consistent performance and lose it through a failure that reveals a category of risk the user did not realize was present.
+
+That instability matters economically.
+
+If trust were simply a preference for humans, the strategic answer would be obvious: put a person in front of the machine-generated output and sell the human label.
+
+If trust were simply a preference for algorithms, the answer would be equally obvious: remove people and advertise objectivity.
+
+Neither is durable.
+
+The harder question is what evidence lets a user calibrate confidence to the actual consequence.
+
 Artificial intelligence will force institutions to make that scope explicit.
 
 This is harder than it appears because modern systems are general enough to invite overgeneralization. A model that writes excellent code, explains physics, translates legal language, and plans a trip can create the impression of one broad competence. Fluency helps the illusion because the interface is consistent across domains. The answer about dinner and the answer about a medication interaction arrive in the same typography.
@@ -182,6 +212,24 @@ The reliable service is larger than the core technology.
 
 Artificial intelligence will grow similar surrounding institutions, though not necessarily in the same form.
 
+Trust also has a maintenance cost.
+
+A reputation is not a permanent asset once earned. A model changes. A company changes its policies. A professional moves into an unfamiliar area. A workflow that was safe at ten transactions a week may behave differently at ten thousand. New adversaries appear. New data enters. A shortcut that was harmless in a pilot becomes dangerous when it is copied across an organization.
+
+This is why past performance cannot be the only trust mechanism for a system that keeps changing.
+
+The institution needs to know what changed, what was retested, which old assumptions still apply, and which confidence has to be earned again.
+
+The version number becomes part of the trust relationship.
+
+So does scope.
+
+A model can be excellent at extracting values from routine documents and poor at noticing the one clause that makes a particular document exceptional. A professional can be excellent in one jurisdiction and dangerously confident in another. A procedure can be reliable under normal load and fail during a crisis.
+
+Trust that cannot say where it ends is usually marketing.
+
+A mature trust architecture therefore includes a boundary around its own confidence.
+
 This may produce an unexpected reversal in how we think about brands.
 
 For years, digital technology reduced the value of some intermediaries by making information directly accessible. People could compare prices, read reviews, book travel, publish writing, and reach audiences without asking traditional gatekeepers.
@@ -225,6 +273,24 @@ If a translation can be checked quickly by another reliable system and sampled b
 If a manufacturing design can be simulated, stress-tested, and measured after production, performance evidence may replace part of the old reputation premium.
 
 Trust can migrate from person to process.
+
+It can also migrate from confidence to warranty.
+
+A buyer does not have to believe a system is infallible if the seller has designed the transaction so failure is tolerable. Money-back guarantees, rollback, redundancy, insurance, escrow, human escalation, and staged deployment all change the amount of trust required before action.
+
+This is an important possibility because the strongest trust system may not be the one that persuades the user to believe more.
+
+It may be the one that makes belief less necessary.
+
+A reversible action needs less faith.
+
+A well-insured risk needs less faith.
+
+A testable output needs less faith.
+
+A process with independent checks needs less faith.
+
+Abundance can therefore create markets not only for trusted answers but for architectures that reduce the amount of trust any single answer has to carry.
 
 But many important decisions resist complete verification.
 

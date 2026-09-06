@@ -177,3 +177,27 @@ This is more useful than generating fifty beautiful center points.
 Infinite mood boards create infinite agreement cheaply.
 
 The craft is learning which disagreements deserve pictures.
+
+## References should sometimes stay real
+
+Synthetic references are excellent when the question is possibility. They are weaker when the question is precedent.
+
+If a designer needs to know how a material ages, a generated photograph of weathered copper is not a substitute for looking at copper that has actually weathered. If a planner needs to understand how people use a plaza at night, a synthetic crowd is not observation. If a product team wants to know how a handle feels after repeated use, a beautiful reference image contains almost none of the relevant information.
+
+This sounds obvious, yet reference workflows can blur the distinction because generated and retrieved images sit beside one another on the same board. One image says, *someone built this*. Another says, *a model found this visually plausible*. Their surfaces may be equally persuasive while their evidentiary value is completely different.
+
+A good board can label the difference.
+
+**Existing.** This object, place, material, or behavior has been observed.
+
+**Generated.** This is a hypothesis about an aesthetic or arrangement.
+
+**Tested.** This quality survived some encounter with users, materials, cost, or operation.
+
+The labels are plain enough to feel bureaucratic. That is useful. Creative teams need a little bureaucracy when images become better at impersonating evidence.
+
+The infinite mood board should not become an infinite blur between what the world has already demonstrated and what the project merely hopes might work.
+
+Generation can expand the horizon.
+
+Reality still has to mark where the ground begins.

@@ -1,6 +1,6 @@
 # Source Code
 
-**Grep, Agents, and the New Science of Understanding Software.**
+*Grep, Agents, and the New Science of Understanding Software*
 
 | | |
 |---|---|
@@ -12,7 +12,7 @@ The working thesis is that general AI capability will diffuse rapidly across com
 
 ## Contents
 
-- [ ] [Front Matter](manuscript/front-matter.md)
+- [x] [Front Matter](manuscript/front-matter.md)
 - [x] [Ch 1 — The Great Diffusion](manuscript/ch01-the-great-diffusion.md)
 - [x] [Ch 2 — The City Under the City](manuscript/ch02-the-city-under-the-city.md)
 - [x] [Ch 3 — Grep Before You Guess](manuscript/ch03-grep-before-you-guess.md)

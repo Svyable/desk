@@ -1,5 +1,9 @@
 # This Tech Is Different
 
+**Sven Hardy Benson**
+
+---
+
 A steam engine did not need to understand the mill.
 
 It needed to turn.

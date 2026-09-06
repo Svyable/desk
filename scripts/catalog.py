@@ -157,19 +157,26 @@ def status_for(markdown: str) -> str:
     value = table_cell(markdown, "Status") or "Drafting"
     value = re.sub(r"^[✅🔁✍️🟡]+\s*", "", value).strip()
     low = value.lower()
-    if "complete" in low:
-        return f"✅ {value}"
+    # Controlling workflow states outrank descriptive words such as
+    # "structurally complete". A Drafting or Revision label must never be
+    # promoted merely because the same cell also contains "complete".
+    if "drafting" in low:
+        return f"✍️ {value}"
     if "revision" in low or "editing" in low:
         return f"🔁 {value}"
+    if "complete" in low:
+        return f"✅ {value}"
     return f"✍️ {value}"
 
 
 def status_key(value: str) -> str:
     low = value.lower()
-    if "complete" in low:
-        return "complete"
+    if "drafting" in low:
+        return "drafting"
     if "revision" in low or "editing" in low:
         return "revision"
+    if "complete" in low:
+        return "complete"
     return "drafting"
 
 

@@ -1,6 +1,6 @@
-# To State the Obvious:
+# To State the Obvious
 
-**A Field Manual for Seeing What Everyone Knows and Nobody Uses**
+*A Field Manual for Seeing What Everyone Knows and Nobody Uses*
 
 | | |
 |---|---|

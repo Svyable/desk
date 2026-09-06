@@ -2,7 +2,9 @@
 
 *Energy and the Advance of the Human Race*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 Most of the time, energy disappears when civilization works.
 

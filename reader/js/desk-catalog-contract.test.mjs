@@ -1,61 +1,47 @@
 import assert from 'node:assert/strict';
-import {
-  adaptDeskCatalogVisibility,
-  adaptSharedReaderAppSource,
-} from './desk-runtime-bridge.js';
+import { readFile } from 'node:fs/promises';
 
-const app = `
-import { parseBookReadme } from './catalog.js';
-import('./pagination-scheduler.js');
-function applyPrefs() {
-  document.body.classList.toggle('is-draft', !!(app.book && !app.book.published));
-}
+const loader = await readFile(new URL('./app-loader.js', import.meta.url), 'utf8');
+let assertions = 0;
+const check = (run) => {
+  run();
+  assertions += 1;
+};
+
+check(() => assert.match(loader, /catalogEntryVisible\\\(\\s\*meta/));
+check(() => assert.match(loader, /window\\\.__IMPRINT/));
+check(() => assert.match(loader, /Shared Reader is missing role-aware Desk catalog visibility/));
+check(() => assert.match(loader, /rewriteSharedModuleSpecifiers\(source, upstream\)/));
+check(() => assert.doesNotMatch(loader, /adaptSharedReaderAppSource/));
+check(() => assert.doesNotMatch(loader, /adaptDeskCatalogVisibility/));
+check(() => assert.doesNotMatch(loader, /meta\\\.published \\|\\| window/));
+
+const auditMatch = loader.match(/const\s+DESK_CATALOG_AUDIT\s*=\s*Object\.freeze\(\[(?<body>.*?)\]\);/s);
+check(() => assert.ok(auditMatch));
+const auditValues = [...auditMatch.groups.body.matchAll(/['"]([^'"]+)['"]/g)].map((match) => match[1]);
+check(() => assert.deepEqual(auditValues, [
+  'catalogEntryVisible',
+  'window.__IMPRINT?.role',
+  'Shared Reader is missing role-aware Desk catalog visibility',
+]));
+check(() => assert.doesNotMatch(loader, /meta\\\.published/));
+check(() => assert.doesNotMatch(loader, /window\.__IMPRINT\?\.role === 'desk'/));
+check(() => assert.doesNotMatch(loader, /Expected one shared Reader catalog gate/));
+
+const compatibleSharedApp = `
+import { catalogEntryVisible } from './catalog.js';
 async function loadCatalog() {
-  const entries = [];
-  for (const slug of slugs) {
-    const meta = parseBookReadme(slug);
-    if ( meta.published ) entries.push( meta );
-  }
-  return entries;
-}
-async function loadBook(slug) {
-  const meta = parseBookReadme(slug);
-  return { ...meta };
+  const meta = {};
+  if (catalogEntryVisible(meta, window.__IMPRINT?.role)) entries.push(meta);
 }`;
+const incompatibleSharedApp = `
+async function loadCatalog() {
+  const meta = {};
+  if (meta.published) entries.push(meta);
+}`;
+const contract = /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)/;
 
-const catalog = adaptDeskCatalogVisibility(app);
-assert.equal(catalog.catalogGates, 1);
-assert.match(catalog.source, /meta\.published \|\| window\.__IMPRINT\?\.role === 'desk'/);
-assert.match(catalog.source, /!app\.book\.published/);
-assert.match(catalog.source, /async function loadBook/);
-assert.doesNotMatch(catalog.source, /if \( meta\.published \) entries\.push\( meta \)/);
+check(() => assert.match(compatibleSharedApp, contract));
+check(() => assert.doesNotMatch(incompatibleSharedApp, contract));
 
-const adapted = adaptSharedReaderAppSource(app, 'https://svyable.github.io/shelf/reader/js/');
-assert.equal(adapted.staticImports, 1);
-assert.equal(adapted.dynamicImports, 1);
-assert.equal(adapted.catalogGates, 1);
-assert.match(adapted.source, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/catalog\.js/);
-assert.match(adapted.source, /https:\/\/svyable\.github\.io\/shelf\/reader\/js\/pagination-scheduler\.js/);
-assert.match(adapted.source, /!app\.book\.published/);
-
-assert.throws(
-  () => adaptDeskCatalogVisibility('async function somethingElse() {}'),
-  /loadCatalog\(\) contract was not found/
-);
-assert.throws(
-  () => adaptDeskCatalogVisibility('async function loadCatalog() { return []; }'),
-  /found 0/
-);
-assert.throws(
-  () => adaptDeskCatalogVisibility(`async function loadCatalog() {
-    if (meta.published) entries.push(meta);
-    if (meta.published) entries.push(meta);
-  }`),
-  /found 2/
-);
-assert.throws(
-  () => adaptSharedReaderAppSource('async function loadCatalog() { if (meta.published) entries.push(meta); }', 'x/'),
-  /imports were not recognized/
-);
-
-console.log('Desk catalog compatibility contract: 15 assertions passed');
+console.log(`Desk shared catalog ownership contract: ${assertions}/14 assertions passed`);

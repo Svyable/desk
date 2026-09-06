@@ -1,8 +1,10 @@
 # The Value Stack
 
-## How Value Moves from Matter to Meaning
+*How Value Moves from Matter to Meaning*
 
-### Sven Hard Benson
+**Sven Hardy Benson**
+
+---
 
 A working Desk edition.
 

@@ -2,6 +2,10 @@
 
 *How Twenty Dollars Bought the Frontier — and Who Paid the Rest*
 
+**Sven Hardy Benson**
+
+---
+
 There is a small recurring charge on millions of credit-card statements that would have been difficult to explain a few years ago.
 
 Twenty dollars.

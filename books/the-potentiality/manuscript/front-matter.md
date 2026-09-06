@@ -1,5 +1,9 @@
 # The Potentiality
 
+**Sven Hardy Benson**
+
+---
+
 Human beings have always been able to imagine more than they could do.
 
 That gap may be our oldest frustration.

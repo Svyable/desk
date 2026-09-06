@@ -5,7 +5,7 @@ importScripts(
   'https://svyable.github.io/shelf/reader/js/offline-shell-install.js'
 );
 
-const CACHE = 'svyable-desk-reader-v15';
+const CACHE = 'svyable-desk-reader-v20';
 const CACHE_PREFIX = 'svyable-desk-reader-';
 const SHARED_READER = 'https://svyable.github.io/shelf/reader/';
 const KATEX_CDN = 'https://cdn.jsdelivr.net/npm/katex@0.18.4/dist/katex.min.js';
@@ -15,11 +15,12 @@ const LOCAL_SHELL = [
   './index.html',
   './manifest.webmanifest',
   '../catalog.json',
-  './css/library-quick-look.css',
   './js/app-loader.js',
   './js/desk-runtime-bridge.js',
-  './js/library-book-preview-model.js',
-  './js/library-quick-look.js',
+  './css/desk-library-home.css',
+  './css/desk-reading-app.css',
+  './css/desk-reading-form-factor.css',
+  './js/desk-reading-app.js',
 ];
 
 const SHARED_PATHS = [
@@ -52,6 +53,7 @@ const SHARED_PATHS = [
   'css/media.css',
   'css/media-resilience.css',
   'css/formats.css',
+  'css/library-quick-look.css',
   'css/math.css',
   'css/academic.css',
   'vendor/marked.min.js',
@@ -101,6 +103,10 @@ const SHARED_PATHS = [
   'js/content-scroll-region-model.js',
   'js/content-scroll-regions.js',
   'js/formats.js',
+  'js/library-book-preview-model.js',
+  'js/library-quick-look.js',
+  'js/theme-controls.js',
+  'js/global-reader-controls.js',
   'js/math.js',
   'js/academic.js',
   'js/base.js',

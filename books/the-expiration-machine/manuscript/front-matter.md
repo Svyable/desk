@@ -1,4 +1,10 @@
-# Front Matter
+# The Expiration Machine
+
+*How Civilization Learned to Make Trust Temporary*
+
+**Sven Hardy Benson**
+
+---
 
 There are dates that describe what happened. Birthdays. Elections. Accidents. Closings. Launches. They point backward at an event and say: this was the day.
 

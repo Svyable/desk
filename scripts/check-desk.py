@@ -305,13 +305,39 @@ sitemap_text = SITEMAP.read_text(encoding="utf-8")
 compare("sitemap book catalog", book_dirs, public_readme_slugs(sitemap_text))
 
 loader_text = LOADER.read_text(encoding="utf-8")
+audit_match = re.search(
+    r"const\s+DESK_CATALOG_AUDIT\s*=\s*Object\.freeze\(\[(?P<body>.*?)\]\);",
+    loader_text,
+    flags=re.DOTALL,
+)
+expected_catalog_audit = [
+    "catalogEntryVisible",
+    "window.__IMPRINT?.role",
+    "Shared Reader is missing role-aware Desk catalog visibility",
+]
+if not audit_match:
+    fail("Reader loader is missing DESK_CATALOG_AUDIT")
+else:
+    catalog_audit = re.findall(r"['\"]([^'\"]+)['\"]", audit_match.group("body"))
+    if catalog_audit != expected_catalog_audit:
+        fail(
+            "Reader loader DESK_CATALOG_AUDIT does not match the shared role-aware catalog contract"
+        )
+
 for required in (
-    "meta\\.published",
+    r"catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s*\)",
+    "rewriteSharedModuleSpecifiers(source, upstream)",
+):
+    if required not in loader_text:
+        fail(f"Reader loader is missing active catalog compatibility guard {required!r}")
+
+for retired in (
+    r"meta\.published",
     "window.__IMPRINT?.role === 'desk'",
     "Expected one shared Reader catalog gate",
 ):
-    if required not in loader_text:
-        fail(f"Reader loader is missing compatibility guard {required!r}")
+    if retired in loader_text:
+        fail(f"Reader loader still carries retired catalog compatibility marker {retired!r}")
 
 ledger_count = 0
 source_count = 0

@@ -4,7 +4,7 @@
 
 *Chokepoint* is a book about a distinction that mineral geopolitics makes easy to blur: the difference between where a resource is found and where its leverage actually sits.
 
-Copper, lithium, cobalt, nickel, and the rare earths are not scarce the way diamonds are scarce. They are concentrated — in specific ore bodies, in specific refining plants, in specific countries that spent decades building the capacity to process what everyone else merely digs up. The book does not argue that a mineral cartel is about to seize the global economy, or that markets and substitution will quietly dissolve the problem before it matters. It traces the actual machinery connecting a mine in the Andes, a smelter in Sulawesi, a separation plant in Inner Mongolia, and a data center or a battery factory on the other side of the world.
+These materials are abundant enough in the crust that geology alone rarely explains the leverage. The chokepoint usually appears later: in workable ore bodies, processing capacity, qualified chemical products, infrastructure, permits, and the years of capital needed to connect them. That is why a mine in the Andes, a smelter in Sulawesi, or a separation plant in Inner Mongolia can matter more than a headline reserve total. *Chokepoint* follows those bottlenecks without pretending they amount to a new OPEC or that markets will dissolve them on schedule.
 
 ## Notes and Sources
 

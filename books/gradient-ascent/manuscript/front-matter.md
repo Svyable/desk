@@ -2,6 +2,10 @@
 
 *Hiding Signal in Artificial Noise*
 
+**@svyable**
+
+---
+
 There is an old way to hide a fact.
 
 You remove it.

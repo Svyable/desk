@@ -2,6 +2,8 @@
 
 **Sven Hardy Benson**
 
+---
+
 A strange thing happens when something gets bigger.
 
 At first, the change feels quantitative. Twice the users. Ten times the data. A hundred times the compute. A city with another million people. A company with another thousand employees. A model with another order of magnitude of parameters.

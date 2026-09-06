@@ -12,9 +12,9 @@ Research was refreshed through September 2026. Time-sensitive figures are dated 
 
 ## Evidence lanes
 
-### 1. Property insurance and household affordability
+### 1. Property insurance, mortgages and household affordability
 
-Primary evidence comes from the U.S. Treasury Federal Insurance Office and the Federal Reserve. These sources establish rising homeowners-insurance stress, regional variation, uninsured households, and the connection between expected loss and availability. They do not prove that climate change is the sole cause of every premium increase; exposure growth, inflation, litigation, reinsurance, insurer strategy and regulation can also matter.
+Primary evidence comes from the U.S. Treasury Federal Insurance Office, the Federal Reserve and the Consumer Financial Protection Bureau. These sources establish rising homeowners-insurance stress, regional variation, uninsured households, the connection between expected loss and availability, and the mortgage-servicing mechanics that keep hazard insurance embedded in housing costs after closing. CFPB material is used specifically for escrow and force-placed-insurance context: many borrowers pay insurance through escrow, and federal servicing rules govern when a servicer may charge for lender-obtained coverage after required insurance lapses. These sources do not prove that climate change is the sole cause of every premium increase; exposure growth, inflation, litigation, reinsurance, insurer strategy and regulation can also matter.
 
 ### 2. Residual markets and public participation
 
@@ -51,6 +51,14 @@ Actuarial Standards Board materials are used to anchor adverse selection, credib
 ### 10. Insurance as prevention
 
 Lloyd's and FM institutional histories support the historical narrative around marine underwriting and loss-prevention engineering. Swiss Re Institute work supports current discussion of protection gaps and projected adaptation benefit-cost ratios. Current mitigation arguments still rely on the broader logic that a loss avoided can improve insurability when the reduction is measurable and recognized in pricing. Institutional histories and industry research are treated as interested sources and not as independent proof of the institutions' own excellence.
+
+### 11. U.S. regulatory architecture
+
+NAIC material on the McCarran-Ferguson Act is used to orient readers to the unusual American division of insurance authority. The relevant historical sequence is *Paul v. Virginia* in 1869, *United States v. South-Eastern Underwriters Association* in 1944, and Congress's enactment of McCarran-Ferguson in 1945 preserving the states' primary role in regulating and taxing the business of insurance unless Congress clearly provides otherwise. This source is used for institutional history, not as neutral evidence that state-based regulation is superior to federal regulation. The manuscript separately notes that federal law and federal programs still reach mortgages, flood, terrorism, pensions, health, competition, disaster finance and other parts of the insurance system.
+
+### 12. Solvency, receivership and the promise behind the policy
+
+NAIC material on risk-based capital and guaranty mechanisms is used to separate three ideas readers can otherwise collapse into one. Claim reserves are estimates of insurer liabilities; capital is the additional cushion available for adverse deviation and other risks; and risk-based-capital rules provide statutory intervention thresholds intended to identify weakly capitalized insurers before insolvency. If an insurer nevertheless fails, state receivership and guaranty mechanisms can protect eligible policyholders and covered claims subject to state law and statutory limits. These sources are used to explain the architecture of solvency protection, not to imply that RBC alone proves an insurer is safe or that guaranty associations make all policyholders whole in every failure.
 
 ## Sourcing convention
 

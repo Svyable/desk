@@ -1,0 +1,35 @@
+/* Desk adaptation of Bookself deliberate coarse-pointer page-turn zones.
+   Shared Shelf navigation remains canonical; this layer aligns only contextual cues. */
+
+@media (pointer: coarse) {
+  .nav-gesture-preview.prev {
+    width: 20%;
+  }
+
+  .nav-gesture-preview.next {
+    width: 28%;
+  }
+
+  body[data-stage="read"][data-reader-immersive="manual"].reader-chrome-visible
+    #pagesWrapper.active:not(.nav-drag-prev):not(.nav-drag-next):not([data-nav-buffered])
+    .nav-gesture-preview {
+    opacity: .085;
+  }
+}
+
+/* Bookself #298 deliberately removes edge cues on phone-sized viewports: the
+   tap zones remain active, but narrow screens do not gain another visual
+   affordance competing with center-tap chrome. */
+@media (max-width: 700px) {
+  body[data-stage="read"][data-reader-immersive="manual"].reader-chrome-visible
+    #pagesWrapper .nav-gesture-preview {
+    opacity: 0;
+  }
+}
+
+@media (forced-colors: active) {
+  body[data-stage="read"][data-reader-immersive="manual"].reader-chrome-visible
+    #pagesWrapper .nav-gesture-preview {
+    opacity: 0;
+  }
+}

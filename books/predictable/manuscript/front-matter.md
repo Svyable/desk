@@ -1,6 +1,6 @@
 # Predictable
 
-## AI, Prediction Markets, and the Next Great Bubble
+*AI, Prediction Markets, and the Next Great Bubble*
 
 **Sven Hardy Benson**
 

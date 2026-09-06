@@ -232,9 +232,9 @@ The decimal is not lying.
 
 It is merely obedient.
 
-This matters because human beings are susceptible to anchoring. A precise initial figure can shape later estimates even when the precision is arbitrary. Negotiations begin around it. Valuations reference it. Hiring plans inherit it.
+Numerical precision can change how people respond to an anchor. In five experiments, Chris Janiszewski and Dan Uy found that people adjusted less from precise anchors than from rounded ones. But precision is not a universal credibility trick. Later negotiation experiments found a more awkward result: extreme precision strengthened anchoring among amateurs, while experts sometimes treated it as evidence that the speaker did not understand the domain.
 
-The organization starts moving around a number that may have entered the world as a formatting artifact.
+That is closer to the startup problem than a simple warning about anchoring. $84.7 million can make uncertainty look engineered. To a novice, the extra digit may feel like knowledge. To someone who knows where the estimate is fragile, it may look like costume jewelry. Either way, the useful question is what earns the digit.
 
 One practical discipline is to match displayed precision to actual knowledge.
 

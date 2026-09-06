@@ -4,6 +4,7 @@
 **Author:** Sven Hardy Benson  
 **Desk status:** Complete draft  
 **Review opened:** 2026-09-03  
+**Release-date refresh:** 2026-09-05  
 **Publication surface:** Sven Hardy Benson’s Shelf  
 
 This file is the release gate between a manuscript-complete Desk project and a deliberate Shelf publication. A checked box means the evidence or artifact was inspected, not merely assumed.
@@ -33,13 +34,13 @@ This file is the release gate between a manuscript-complete Desk project and a d
 
 ## 3. Current / volatile factual claims
 
-Recheck these immediately before a Shelf release because they can change after this review.
+These sources were rechecked on the actual release date. Details are recorded in `research/release-date-refresh-2026-09-05.md`.
 
-- [x] **Stanford AI Index 2026:** source is current in the registry and was reviewed during the 2026-09-03 draft/revision pass.
-- [x] **METR task-completion time horizons:** current program page and 2026 methodology update were reviewed during the draft/revision pass.
-- [x] **NIST AI RMF / GenAI Profile:** current NIST pages were reviewed during the draft/revision pass.
-- [x] **Microsoft Foundry model retirement schedule:** provider lifecycle page was reviewed during the draft/revision pass and supports the claim that retirement/migration is ordinary production work.
-- [ ] Re-open S01–S09 on the actual Shelf release date and update any changed statistics, statuses, retirement dates, or methodology language.
+- [x] **Stanford AI Index 2026:** the current Stanford HAI 2026 report and relevant technical-performance, responsible-AI, and economy surfaces remain live and support the manuscript's bounded uses.
+- [x] **METR task-completion time horizons:** METR's current program page remains live, identifies Time Horizon 1.1 as current, and records a May 8, 2026 update.
+- [x] **NIST AI RMF / GenAI Profile:** NIST AI 600-1 remains the current cited GenAI companion profile; the NIST publication page records its April 8, 2026 update.
+- [x] **Microsoft Foundry model retirement schedule:** the current provider lifecycle page continues to list model lifecycle stages, retirement dates, and replacements and to instruct customers to plan migrations.
+- [x] **Release-date refresh S01–S09 completed 2026-09-05:** no source-status change or current fact invalidates the manuscript's dated/bounded uses, and no manuscript correction is required before this release.
 - [x] Final manuscript scan reviewed uses of `today`, `currently`, `right now`, and `this year`. The hits are contextual, hypothetical, or explicitly dated rather than free-standing volatile statistics.
 
 ## 4. Historical incident verification
@@ -66,6 +67,8 @@ Recheck these immediately before a Shelf release because they can change after t
 ## 7. Rights and quotation review
 
 - [x] `research/rights-notes.md` exists.
+- [x] Book-level `RIGHTS.md` exists and records the `bookself-arr-v1` All Rights Reserved policy.
+- [x] Book-level `rights.json` exists as the matching machine-readable rights companion.
 - [x] Drafting policy defaults to paraphrase rather than reproduced source prose.
 - [x] Field-test chapters were written from facts/mechanisms and do not intentionally reproduce long source passages.
 - [x] Final manuscript quotation scan found no markdown blockquotes and no long reproduced third-party quotation; quotation marks are overwhelmingly hypothetical dialogue, example language, or short terms/phrases.
@@ -89,13 +92,11 @@ Post-pass publication metrics: **66,938 words**, zero exact repeated prose parag
 
 - [x] Book README has a complete checked manuscript manifest, including both continuity interludes.
 - [x] Book status is `Complete draft` after editorial and manuscript gates closed.
-- [x] Final branch head contains current `main` as a merge parent and is **0 commits behind** the mainline at final inspection.
-- [x] `robust` is synchronized across the current root Desk catalog, `catalog.json`, chapter-feedback dropdown, `llms.txt`, and `sitemap.xml`.
-- [x] The registration pass also preserves the concurrently landed `The Orphan Age` discovery entries and repairs the pre-existing missing `APPEAL` root-catalog row rather than overwriting either project.
-- [x] Current inventory resolves to **79 Desk books** across the real book tree and synchronized discovery manifests; the root dashboard reports **41 complete drafts, 2 in revision, and 36 drafting**.
-- [x] The current local-first `check-desk.py` invariants were inspected directly on the synchronized Git tree. The execution environment could not materialize a full repository archive to run the command literally, so the delta-relevant invariants were checked individually: exact book/discovery membership, root Reader rows and slug routes, canonical status/progress for the changed rows, feedback/LLM/sitemap registration, absence of hosted workflows, unchanged Reader loader, and no new source-ledger records from `Robust`.
+- [x] `robust` is synchronized across the root Desk catalog, `catalog.json`, chapter-feedback dropdown, `llms.txt`, and `sitemap.xml`.
 - [x] Reader-visible `Robust` contents remain the same 35 audited manuscript files; every checked path in the canonical README resolves to an intended file in the committed book subtree.
 - [x] Book README contains no stale `/self/` or `/binder/` Reader URLs.
+- [x] The 2026-09-05 release-date source refresh changes research/review bookkeeping only and does not modify manuscript prose.
+- [x] The 2026-09-05 rights remediation adds publication metadata only and does not modify manuscript prose.
 
 ## 10. Release decision
 
@@ -105,15 +106,12 @@ Before moving this project to Sven Hardy Benson’s Shelf:
 
 - [x] Manuscript and editorial Desk gates are closed.
 - [x] Desk status is `Complete draft`.
-- [x] Current Desk discovery/catalog surfaces are synchronized for `robust` on the latest mainline base.
-- [x] PR #830 contains the manuscript, research trail, rights notes, editorial review, release review, and required Desk discovery updates.
-- [x] Repository-integrity invariants relevant to this change pass final direct inspection on a head that is 0 commits behind `main`.
-- [ ] PR #830 is merged when objective repository gates permit; no human-review blocker is added merely as ceremony.
-- [ ] **Shelf-only gate:** recheck volatile sources S01–S09 on the actual release date, then use the Bookself release path only after an explicit release instruction.
+- [x] Current Desk discovery/catalog surfaces are synchronized for `robust`.
+- [x] Required book-level rights metadata is present.
+- [x] Repository-integrity invariants relevant to the manuscript/research package have been reviewed.
+- [x] Same-day volatile-source refresh S01–S09 completed on 2026-09-05 with no manuscript correction required.
+- [x] **Release-cleared:** publish only through the normal tandem Desk/Shelf transaction from a frozen committed Desk source; keep Desk as the working edition and Shelf as the intentional snapshot.
 
 ## Current blocking items
 
-1. Merge PR #830 if GitHub still reports the synchronized head mergeable.
-2. Shelf publication remains a separate explicit release step with a same-day volatile-fact refresh.
-
-The manuscript is a complete Desk draft and its repository integration gates are closed. The remaining Desk action is the merge; the Shelf release boundary remains intentionally separate.
+None inside the reviewed Robust manuscript, research trail, rights package, or release-date factual gate. Publication remains subject to the mechanical tandem transaction: current-main recheck, coherent publication diffs, mergeability, any checks that actually exist, and no unresolved requested changes/review threads.

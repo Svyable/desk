@@ -98,9 +98,9 @@ Stockpiles still matter.
 
 They simply have to be built around the actual industrial bottleneck.
 
-That is the first place the oil analogy improves when examined rather than repeated.
+The oil analogy improves when examined rather than repeated.
 
-The second is substitution.
+Substitution widens the gap further.
 
 Oil consumers can respond to a high oil price by driving less, buying a more efficient car, changing fuels, or redesigning transport systems. But a barrel burned is gone. Every day requires another barrel.
 
@@ -122,7 +122,7 @@ Substitution is not disappearance.
 
 It is migration.
 
-The third difference is the source of concentration.
+Concentration itself also comes from a different place.
 
 OPEC's power grew from control over a large share of a relatively standardized commodity. A barrel of crude is not perfectly interchangeable with every other barrel, but the global oil market connects grades and producers through refineries, transport networks, futures markets, and substitution among suppliers.
 
@@ -140,7 +140,7 @@ OPEC did not have to teach its competitors how to refine oil from first principl
 
 A country trying to recreate a rare-earth separation chain may need plants, environmental permits, customer qualification, process engineers, waste systems, proprietary know-how, long-term offtake agreements, and years of operating experience before buyers trust its material.
 
-The fourth difference is that mineral markets can be much smaller.
+Scale creates another difference: mineral markets can be much smaller.
 
 Small markets create their own strategic paradox.
 

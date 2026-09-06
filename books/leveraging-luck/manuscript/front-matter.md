@@ -1,6 +1,6 @@
 # Leveraging Luck
 
-## An Optimistic Guide to Life
+*An Optimistic Guide to Life*
 
 **Sven Hardy Benson**
 

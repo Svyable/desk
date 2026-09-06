@@ -1,10 +1,10 @@
 # Synthetic Intelligence
 
-**How machine-generated experience may change intelligence from a consumer of the world into a producer of its own curriculum—and open a new era of discovery.**
+*How machine-generated experience may change intelligence from a consumer of the world into a producer of its own curriculum—and open a new era of discovery*
 
 | | |
 |---|---|
-| **Authors** | Sven Hard Benson |
+| **Authors** | Sven Hardy Benson |
 | **Status** | Drafting |
 | **Chapters** | 70 of 70 drafted |
 

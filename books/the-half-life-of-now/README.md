@@ -1,12 +1,13 @@
 # The Half-Life of Now
 
-**Why Everything We Know Is Getting Old Faster**
+*Why Everything We Know Is Getting Old Faster*
 
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
 | **Status** | Complete Desk draft |
 | **Chapters** | 24 of 24 |
+| **Release Review** | Blocked: generated manuscript total is 50,337 words, below the 65,000 numbered-chapter minimum; claim-level freshness review and dated source replacement remain before mechanical validation |
 
 ## Contents
 
@@ -41,6 +42,8 @@
 
 - [Research trail and counterevidence standard](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
+- [Falsification and scope boundaries](research/falsification-boundaries.md)
+- [Release-readiness review](research/editorial-review.md)
 
 ## Publication status
 

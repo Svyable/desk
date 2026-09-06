@@ -219,3 +219,39 @@ Experimentation is one way to keep policy counterfactuals alive.
 Not all of them. Not forever. Not without ethical boundaries.
 
 Just enough that “we have never done it that way” stops masquerading as evidence that it would not work.
+
+The missing piece in many governments is not willingness to run a pilot. It is a scale ladder that defines what kind of evidence buys the next increment of commitment.
+
+Without a ladder, the first positive result creates a political vacuum. Advocates point to the pilot and demand national adoption. Skeptics point to its narrow setting and demand another pilot. Both positions can continue indefinitely because the institution never stated what evidence would be sufficient for which step.
+
+A scale ladder makes those steps explicit enough to govern. A first stage can ask whether the mechanism appears at all under close supervision. A second can test whether ordinary staff reproduce it. A third can introduce less favorable sites, larger caseloads, different regions, or more realistic procurement constraints. Later stages can test durability, cost, substitution effects, and whether the policy still works after the attention surrounding a pilot disappears.
+
+The ladder should not be mechanically identical across programs. A text-message reminder and a new criminal-justice regime do not deserve the same evidence burden. The point is proportionality: the more irreversible, expensive, rights-sensitive, or system-wide the policy, the stronger the case for evidence at the next scale.
+
+This creates a useful distinction between evidence of effect and evidence of readiness.
+
+A policy can have a credible causal effect and still be unready for scale. The delivery system may not be able to reach the target population. Costs may rise nonlinearly. A vendor market may be too thin. The program may depend on staff discretion that disappears under standardization. A national launch can therefore fail without falsifying the underlying mechanism.
+
+The reverse is possible too. An agency can demonstrate excellent operational readiness for a program whose effect is too small to justify continuation. Competent implementation does not rescue an ineffective idea.
+
+Keeping those questions separate makes it harder to hide behind either one.
+
+A mature pilot record should therefore preserve more than an estimated treatment effect. It should preserve the operating conditions that made the estimate possible: staffing ratios, training time, caseload, procurement delays, eligibility rules, local adaptations, participant take-up, fidelity, cost, and the pieces that researchers supplied but ordinary administration would have to own later.
+
+Those details are often treated as implementation clutter. They are part of the causal story.
+
+The same record should include the decision made after the evidence. Did the agency stop, redesign, repeat, expand, or scale? Why? Which uncertainty was considered resolved and which remained? A future government needs the reasoning as much as the result.
+
+Otherwise the archive becomes another graveyard of PDFs that cannot answer the question a later official actually has: what did we believe this evidence was strong enough to justify?
+
+There is also a governance reason to separate the team that wants a program from the authority that decides whether it advances up the ladder. The two can overlap, but they should not be identical by default. Program owners naturally accumulate knowledge, commitment, and identity around the intervention. Those are useful for execution and dangerous for stopping.
+
+An independent review point can ask whether the evidence bought the next scale without requiring the program team to prosecute its own cancellation.
+
+This is not distrust of civil servants. It is recognition that stopping is institutionally harder than continuing.
+
+The strongest pilot systems therefore make both expansion and termination ordinary outcomes. A successful test earns more reality. A failed test can save money, avoid harm, and close a question for a while. A mixed result can narrow the mechanism or identify the population for which another trial is worth the cost.
+
+The purpose of a pilot is not to manufacture a success story.
+
+It is to decide what deserves the next dose of reality.

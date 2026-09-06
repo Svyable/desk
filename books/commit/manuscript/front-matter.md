@@ -2,7 +2,9 @@
 
 *How Git Became the Memory of Software—and What Comes Next*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 September 2026
 

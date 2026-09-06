@@ -2,6 +2,8 @@
 
 **Sven Hardy Benson**
 
+---
+
 There is a warehouse in every ambitious mind.
 
 At first it is almost empty. A few books. A handful of stories. A useful trick learned from somebody older. A failure whose meaning has not yet arrived. Then the shelves begin to fill. Notes accumulate. Tabs remain open. Photographs, transcripts, datasets, quotations, half-built prototypes, introductions, saved posts, papers, tools, passwords, models, and possibilities enter faster than they leave.

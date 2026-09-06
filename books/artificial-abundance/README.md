@@ -4,7 +4,7 @@
 |---|---|
 | **Authors**   | Sven Hardy Benson |
 | **Status**    | Drafting |
-| **Chapters**  | 8 of 24 drafted |
+| **Chapters**  | 24 of 24 drafted |
 
 *When Intelligence Becomes Cheap, What Becomes Priceless?*
 
@@ -23,25 +23,23 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [x] [Ch 6 — The Trust Premium](manuscript/ch06-the-trust-premium.md)
 - [x] [Ch 7 — Proof of Effort](manuscript/ch07-proof-of-effort.md)
 - [x] [Ch 8 — Infinite Versions](manuscript/ch08-infinite-versions.md)
-
-## Planned chapters
-
-9. The End of Average
-10. Commodity Expertise
-11. Responsibility Does Not Scale
-12. The Judgment Bottleneck
-13. Attention Has Not Scaled
-14. The Human Signal
-15. Friction as a Feature
-16. The Status of Difficulty
-17. Reality Gets Expensive
-18. The Physical Premium
-19. The Meaning Shortage
-20. Agency After Assistance
-21. Institutions for Plenty
-22. The Politics of Plenty
-23. Stay Expensively Human
-24. The Last Scarce Thing
+- [x] [Ch 9 — The End of Average](manuscript/ch09-the-end-of-average.md)
+- [x] [Ch 10 — Commodity Expertise](manuscript/ch10-commodity-expertise.md)
+- [x] [Ch 11 — Responsibility Does Not Scale](manuscript/ch11-responsibility-does-not-scale.md)
+- [x] [Ch 12 — The Judgment Bottleneck](manuscript/ch12-the-judgment-bottleneck.md)
+- [x] [Ch 13 — Attention Has Not Scaled](manuscript/ch13-attention-has-not-scaled.md)
+- [x] [Ch 14 — The Human Signal](manuscript/ch14-the-human-signal.md)
+- [x] [Ch 15 — Friction as a Feature](manuscript/ch15-friction-as-a-feature.md)
+- [x] [Ch 16 — The Status of Difficulty](manuscript/ch16-the-status-of-difficulty.md)
+- [x] [Ch 17 — Reality Gets Expensive](manuscript/ch17-reality-gets-expensive.md)
+- [x] [Ch 18 — The Physical Premium](manuscript/ch18-the-physical-premium.md)
+- [x] [Ch 19 — The Meaning Shortage](manuscript/ch19-the-meaning-shortage.md)
+- [x] [Ch 20 — Agency After Assistance](manuscript/ch20-agency-after-assistance.md)
+- [x] [Ch 21 — Institutions for Plenty](manuscript/ch21-institutions-for-plenty.md)
+- [x] [Ch 22 — The Politics of Plenty](manuscript/ch22-the-politics-of-plenty.md)
+- [x] [Ch 23 — Stay Expensively Human](manuscript/ch23-stay-expensively-human.md)
+- [x] [Ch 24 — The Last Scarce Thing](manuscript/ch24-the-last-scarce-thing.md)
+- [x] [Back Matter](manuscript/back-matter.md)
 
 ## Research
 

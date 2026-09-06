@@ -1,8 +1,10 @@
 # The Half-Life of Now
 
-**Why Everything We Know Is Getting Old Faster**
+*Why Everything We Know Is Getting Old Faster*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 ## Author's note
 

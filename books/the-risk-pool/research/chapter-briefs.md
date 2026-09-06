@@ -4,7 +4,7 @@
 
 **Claim.** Homeowners insurance is part of the financing architecture of housing, not an optional accessory after purchase; declining affordability or availability can affect mortgageability and household balance sheets before physical loss occurs.
 
-**Evidence anchors.** S01, S02, S03, S04.
+**Evidence anchors.** S01, S02, S03, S04, S35.
 
 **Counterevidence / caution.** Many homeowners still obtain ordinary coverage, and insurance pressure is geographically uneven. A premium increase can reflect rebuilding costs, litigation, market structure or portfolio management as well as physical hazard.
 
@@ -44,9 +44,9 @@
 
 **Claim.** Pools become unstable through underpricing, adverse selection, changed legal interpretation, moral hazard, reserve error or unexpected accumulation; growth can conceal rather than cure mispricing.
 
-**Evidence anchors.** S12, S15, S21, S24.
+**Evidence anchors.** S12, S15, S21, S24, S39, S40.
 
-**Counterevidence / caution.** Hardening markets can attract new capital and later recover; a temporary availability problem is not necessarily permanent pool failure.
+**Counterevidence / caution.** Hardening markets can attract new capital and later recover; a temporary availability problem is not necessarily permanent pool failure. Risk-based-capital thresholds are early-warning tools rather than complete measures of solvency, and guaranty mechanisms are limited safety nets rather than substitutes for sound pricing, reserving and capital.
 
 **Falsification test.** The chapter would weaken if persistent underpricing and deteriorating selection did not eventually appear through losses, capital stress, reduced coverage or exit.
 
@@ -94,7 +94,7 @@
 
 **Claim.** Reinsurance globalizes local catastrophe risk and influences retail availability by changing the marginal cost of the tail carried by primary insurers.
 
-**Evidence anchors.** S04, S17, S18, S30.
+**Evidence anchors.** S04, S17, S18, S30, S37.
 
 **Counterevidence / caution.** Primary insurers choose retention structures and can inefficiently buy reinsurance; wholesale pricing should not be accepted uncritically as a pass-through cost.
 
@@ -104,7 +104,7 @@
 
 **Claim.** Insurance-linked securities broaden catastrophe capacity by moving defined insurance risk into capital markets; trigger design trades speed and transparency against basis risk.
 
-**Evidence anchors.** S17, S18, S25, S26.
+**Evidence anchors.** S17, S18, S25, S26, S38.
 
 **Counterevidence / caution.** High issuance does not prove protection is cheap or adequate. Shared catastrophe models can synchronize market beliefs.
 
@@ -164,7 +164,7 @@
 
 **Claim.** Premium debates combine three different questions—what risk costs, what households can afford and what society wants to subsidize—and policy becomes clearer when those questions are separated.
 
-**Evidence anchors.** S01, S02, S05, S08, S24.
+**Evidence anchors.** S01, S02, S05, S08, S24, S36.
 
 **Counterevidence / caution.** Separating subsidy from price can be administratively difficult and may not protect households from sudden asset repricing.
 
@@ -214,7 +214,7 @@
 
 **Claim.** Insurance remains valuable not because every risk is privately insurable but because it creates a layered discipline for deciding what households retain, what private pools carry, what global capital absorbs and what the state ultimately guarantees.
 
-**Evidence anchors.** S01-S34 as synthesis.
+**Evidence anchors.** S01-S40 as synthesis.
 
 **Counterevidence / caution.** Insurance can become extractive, opaque or politically distorted; the institution should not be treated as a neutral oracle or substitute for regulation, prevention, redistribution or public investment.
 
