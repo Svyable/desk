@@ -225,3 +225,69 @@ What would count as evidence?
 A result specified before it appears. A similarity metric chosen before the fit. A control capable of failing for the right reason. A method that blocks ordinary transmission rather than merely assuming it absent. A sample large enough to matter. A replication performed by people who do not share the same hopes. A null result permitted to injure the theory. A positive result that becomes more precise under pressure instead of more evasive.
 
 And after all that, a pattern that still comes back.
+
+There is one more standard that controversial research needs: the evidence should improve when the method improves.
+
+This is different from demanding that every replication produce a larger effect. Real effects can vary. Better controls can reduce measured magnitude by removing bias. The important direction is conceptual rather than numerical. As methods become cleaner, the explanation should become clearer.
+
+A positive result that survives preregistration is more informative than one discovered among many analyses.
+
+A result that survives independent scoring is more informative than one dependent on judgment by someone who knows the condition.
+
+An effect that follows a predicted dose relationship is more informative than a binary surprise.
+
+A replication that uses a new team and setting is more informative about generality than a repetition performed by the original laboratory alone.
+
+Methodological pressure should compress uncertainty.
+
+When pressure instead causes the claim to become more elastic—new exceptions, new definitions of similarity, new invisible moderators invented after each failure—the research program is moving in the wrong direction.
+
+This principle is useful because neither statistical significance nor replication is a magic stamp.
+
+A tiny bias can replicate if the same procedure reproduces it. A software bug can replicate beautifully. A shared supplier can produce the same contamination in several laboratories. A widely used scoring convention can preserve the same artifact.
+
+Replication is strongest when relevant dependencies change.
+
+Different experimenters.
+
+Different equipment where possible.
+
+Different sites.
+
+Independent implementation of the analysis.
+
+New stimulus families generated under the same preregistered rule.
+
+The goal is not variation for its own sake. It is to discover whether the result belongs to the proposed phenomenon or to a hidden feature of one implementation.
+
+This is why transparent provenance and independent replication belong together. Provenance tells us which dependencies were shared. Replication tells us what survives when some of them change.
+
+A controversial effect also benefits from what might be called hostile robustness.
+
+Can the finding survive a team motivated to find leakage?
+
+Can it survive an analyst who prefers the null but has agreed to the analysis plan?
+
+Can it survive a supporter who confirms that the protocol still preserves the supposed conditions for the effect?
+
+The ideal is not emotional neutrality. Researchers are human. The ideal is a design in which differing expectations have fewer places to act.
+
+This is the scientific version of checks and balances.
+
+It becomes especially important when a theory contains an “experimenter effect” or other claim that belief itself may influence outcomes. Such a possibility cannot simply be dismissed, but neither can it be allowed to explain away every failed skeptical replication. If experimenter state matters, then it becomes another variable to measure, manipulate, blind, or randomize.
+
+A scientific moderator must eventually become an experimental factor.
+
+Otherwise it is an escape hatch.
+
+The same principle applies to claims that an effect disappears under excessive control. Maybe a phenomenon genuinely depends on context that sterile experiments remove. Many real biological and social effects do. The response is to identify the relevant context and vary it deliberately, not to declare controlled inquiry inherently incapable of observing the phenomenon.
+
+The theory has to say which part of the context matters.
+
+That demand is not reductionism.
+
+It is what lets a contextual phenomenon become knowledge.
+
+Evidence becomes strong when alternatives lose room to breathe without the target claim gaining unlimited room to move.
+
+That is the contract this book will carry forward.
