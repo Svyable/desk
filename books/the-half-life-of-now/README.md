@@ -7,7 +7,7 @@
 | **Author** | Sven Hardy Benson |
 | **Status** | Complete Desk draft |
 | **Chapters** | 24 of 24 |
-| **Release Review** | Blocked pending source-ledger normalization, claim-level freshness review, and mechanical/integrity checks |
+| **Release Review** | Blocked: generated manuscript total is 50,337 words, below the 65,000 numbered-chapter minimum; research packet also needs normalization and claim-level freshness review |
 
 ## Contents
 
