@@ -202,6 +202,114 @@ He wanted electronic literature to exploit the machine rather than cosplay paper
 
 The Web delivered enough of that dream to change civilization and omitted enough to keep the argument alive.
 
+Before leaving Nelson, it helps to look at another part of the hypertext lineage because it keeps the history from collapsing into one charismatic personality. At Brown University, Andries van Dam and collaborators worked on early hypertext systems including the Hypertext Editing System. Their work belongs to a research tradition in which electronic text was not merely imagined but implemented, used, revised, and taught.
+
+That distinction matters because implementation forces abstractions to encounter users.
+
+A theorist can say that a text should be nonsequential. A working system has to decide how the reader sees a link, how an author creates one, how destinations are identified, what happens when material changes, how large documents are navigated, and how the machine responds when the structure becomes complicated.
+
+Every one of those choices converts a philosophy of connection into an interface.
+
+This is where hypertext stopped being only a metaphor for associative thought and became an engineering discipline.
+
+The engineering discipline quickly learned that nonlinearity has costs.
+
+A graph can preserve relationships that a sequence hides, but a graph can also make orientation difficult. Readers need cues about where they are, where they came from, and whether following one branch will make it hard to recover the original context. Later Web users would recognize the symptoms as too many open tabs, lost scroll position, forgotten origins, and the mild panic of not remembering which path produced the useful page now on screen.
+
+The problem is not peculiar to bad interfaces. It follows from increasing the number of possible routes.
+
+A highway network provides more freedom than one road and creates more opportunities to become lost.
+
+Hypertext systems therefore need navigation aids in addition to links. History, breadcrumbs, maps, backlinks, overviews, visited-link states, search, and structural views are all ways of answering a question the edge itself cannot answer: where am I in relation to the rest?
+
+The Web's familiar visited-link styling was a tiny response to that problem. The browser could visually distinguish a destination the user had already traversed. The convention was imperfect and became less reliable as styling and privacy concerns changed, but the underlying need is obvious. A reader navigating a network benefits from memory about prior movement.
+
+This is a practical version of Bush's trail.
+
+Nelson's richer vision pushed even harder on the idea that relationships should remain inspectable. If a quotation came from somewhere, the system should be able to retain the connection. If a document changed, the system should not pretend earlier relationships never existed. If an author reused another author's work, the reuse should have structural meaning.
+
+The Web usually left those concerns to application layers.
+
+That decision made the Web easier to adopt and made the application layer permanently busy.
+
+Wikis added revision history.
+
+Version-control systems made states immutable enough to compare.
+
+Content-management systems added canonical URLs and redirects.
+
+Archives created temporal snapshots.
+
+Citation systems added persistent identifiers.
+
+Knowledge tools added backlinks.
+
+Social systems added mentions and notifications.
+
+Publishing platforms added embeds and attribution.
+
+Each can be read as an attempt to thicken one relationship the universal hyperlink kept thin.
+
+The important lesson is not that Nelson was right and the Web was wrong, or the reverse. The useful lesson is architectural: the richer the guarantee, the narrower the community that can realistically agree to maintain it.
+
+A university research group can define a sophisticated document model because its users operate inside one environment. A global Web connecting governments, companies, hobbyists, schools, newsrooms, laboratories, and individuals has to tolerate participants that share almost nothing except a few protocols and naming conventions.
+
+The Web won the large network by lowering the semantic admission price.
+
+Nelson keeps asking what was lost at the border.
+
+One loss is reciprocal visibility.
+
+If I link to you on the ordinary Web, your server does not automatically receive a durable semantic statement saying that my document now refers to yours. You may discover the link through logs, analytics, search crawlers, notification protocols, or outside services. But the base relation is authored on my side.
+
+That asymmetry is part of what makes the link permissionless. It also means that the target's view of its own neighborhood is incomplete.
+
+A knowledge tool with bidirectional links can answer “what refers here?” immediately because all nodes participate in one managed graph. The open Web requires reconstruction because no single owner sees every edge.
+
+The missing backlink is therefore not merely a feature omission. It is the cost of decentralized authorship.
+
+Another loss is explicit version identity. If I point to a living page, the target can change beneath my link. A richer system can bind the relation to a particular version while also exposing the current one. The Web can do this through versioned URLs, hashes, archives, and application-specific mechanisms, but not every publisher does.
+
+Again the omitted guarantee creates later institutional work.
+
+This pattern is important for the AI era because machine-generated text puts pressure on exactly the properties earlier hypertext researchers cared about.
+
+When a system summarizes ten sources into one answer, provenance is a relationship problem.
+
+When a model quotes or transforms material, transclusion's old concern with reuse reappears in new form.
+
+When a generated document changes continuously, version identity becomes important.
+
+When one agent's output becomes another agent's input, the ability to inspect relationships across transformations becomes an audit problem.
+
+The old hypertext questions did not fail because the Web simplified them.
+
+They waited above the winning layer.
+
+That is what makes Nelson more than a colorful prehistory figure. His ambition is a standing reminder that reach and intelligibility are different achievements.
+
+The Web achieved reach beyond anything the early hypertext community could demonstrate at comparable scale.
+
+The next generation of knowledge systems has to recover intelligibility without surrendering that reach.
+
+That will require richer relations selectively, not a universal bureaucracy around every link.
+
+A casual reference can remain cheap.
+
+A consequential transformation should remember more.
+
+A public link can remain permissionless.
+
+A claim used for a medical, legal, scientific, or financial decision may need versioned provenance.
+
+A reader can remain free to branch.
+
+A system helping the reader should preserve enough orientation that branching does not become amnesia.
+
+That layered compromise is less pure than either extreme.
+
+It is probably how useful infrastructure matures.
+
 The next major figure in the story approached the same territory from another direction.
 
 Douglas Engelbart was less interested in liberating literature than in improving what groups of people could accomplish together when problems became too complicated for unaided minds.
