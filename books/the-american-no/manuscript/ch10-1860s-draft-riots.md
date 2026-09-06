@@ -206,7 +206,45 @@ In New York, the people who bore some of the worst costs were not the officials 
 
 They were Black neighbors.
 
-That fact is the chapter’s verdict.
+The administrative details of the Enrollment Act show why class resentment was so combustible without making the riot’s racial targets any less chosen. Congress subjected most able-bodied men between twenty and forty-five to enrollment, with exemptions for specified family and physical circumstances. The law did not simply create a lottery; it built a federal bureaucracy, the Provost Marshal General’s Bureau, to classify, enroll, notify, examine, exempt, and process men across districts.
+
+That bureaucracy made national manpower policy intimate.
+
+A man could see his name on an enrollment list. He could receive an order to report. He could watch a neighbor buy a substitute. The three-hundred-dollar commutation provision translated inequality into an amount everybody could understand. Whether its designers intended a class privilege or a mechanism for limiting the cost of substitutes mattered less politically than the fact that wealth visibly changed options.
+
+The National Archives records show how ordinary and elaborate the machinery became: consolidated enrollment lists, exemption records, registers of substitutes, commutation payments, medical examinations, and men who failed to report. This is the state as paperwork before it becomes the state as soldiers.
+
+The riot began by attacking that paperwork machine.
+
+The first New York drawing on July 11 produced more than a thousand names without violence. Monday changed the situation. Hundreds of workers stayed away from jobs and gathered outside the Ninth District provost marshal’s office. The draft office was attacked and burned. Federal officials suspended the drawing as the city lost control.
+
+That sequence makes the later racial violence even more damning because the original target was available and visible. The crowd knew where the draft machinery was. It destroyed it. Then participants chose other targets.
+
+The Smithsonian’s account of the riots records the mob moving against police stations, newspapers, Union supporters, businesses, and Black residents. The Colored Orphan Asylum housed more than two hundred children who escaped before the building was destroyed. Contemporary accounts and later scholarship disagree over exact victim numbers, which is why this chapter should resist a sensationally precise total. The Library of Congress uses 105 killed in its Civil War exhibition; other historical accounts give different figures. The uncertainty does not change the character of the violence.
+
+It does change how responsibly we write it.
+
+False precision can become a way of performing seriousness. In mass violence, records are often incomplete, victims may go uncounted, and contemporary reports may exaggerate or miss deaths. The correct discipline is to preserve the range of credible evidence while being exact about what is not disputed: Black New Yorkers were hunted, beaten, lynched, and driven from homes; the orphan asylum was burned; the riot lasted days; police and troops fought to restore control.
+
+The attack also had a demographic consequence that a death count alone cannot capture. Black residents fled the city during and after the violence. Families lost homes, jobs, property, neighborhood security, and faith that authorities could protect them. A riot can reorder a city without passing a law.
+
+This is another reason the event wins the decade. Emancipation is usually narrated as a great expansion of freedom. The Draft Riots show that emancipation could produce violent counter-mobilization in places far from the Confederacy. Legal liberation in one jurisdiction can be experienced by a threatened status group elsewhere as a challenge to social hierarchy.
+
+Backlash is not an epilogue to reform.
+
+It is part of the reform process.
+
+The 1860s contain enormous alternative candidates. Enslaved people fleeing plantations and entering Union lines transformed wartime policy from below. Black soldiers fought for freedom and citizenship. Freedpeople held conventions, organized schools, churches, political associations, and labor action. Antiwar Democrats mobilized against Lincoln administration policies. Women abolitionists and suffragists reorganized around emancipation and constitutional change. Any “most important” choice that ignored those emancipatory actions would be incomplete.
+
+The Draft Riots win for a different reason: they reveal the cost of assuming that protest naturally bends toward expanded rights.
+
+The decade that abolished slavery also produced a mass urban uprising by people who feared the racial implications of abolition.
+
+That contradiction is not peripheral to American democracy. It is one of its recurring engines. Gains for one group are narrated by opponents as losses for another. Political entrepreneurs convert status anxiety into collective action. A grievance that might produce redistribution is redirected into exclusion.
+
+Later chapters will meet the same structure in different forms.
+
+That is why the riot remains in the book despite the discomfort of calling it a protest. Excluding it would make the category morally flattering and analytically weak.
 
 The draft continued. The Union army continued fighting. Emancipation continued altering the war. The riot was suppressed.
 
