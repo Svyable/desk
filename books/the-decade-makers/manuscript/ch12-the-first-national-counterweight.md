@@ -36,6 +36,14 @@ Their breakthrough in the public imagination came partly from successful railroa
 
 Membership surged.
 
+The National Park Service estimates that the organization grew from about 110,000 members in 1885 to roughly 720,000 by July 1886.
+
+The change is so fast that it should be read as an institutional stress test, not merely a triumph.
+
+A small movement can decide who belongs, train organizers, collect dues, and settle disputes through relationships. A movement that adds hundreds of thousands of members in a year inherits local organizations faster than it can create common procedure.
+
+The Knights became nationally powerful before they had become nationally governable.
+
 The symbolism mattered almost as much as the material result.
 
 A giant corporation could be resisted by an organization larger than one shop.
@@ -74,6 +82,64 @@ A small organization can rely on personal trust. A national one needs rules for 
 
 The Knights became famous before they became administratively settled.
 
+The railroad conflicts of 1885 and 1886 form an unusually clean experiment in what organization can and cannot do.
+
+The first confrontation taught workers that coordinated refusal could defeat a system controlled by one of the country’s most formidable financiers.
+
+The second taught them that a network is only as strong as its dependencies.
+
+In early 1886, the Texas & Pacific Railway was in federal receivership. That legal fact changed the terrain. Railroad managers could argue that a strike against the road interfered not merely with a private owner but with property operating under federal court authority. Courts could issue injunctions. Marshals and other armed forces of law could be brought into the dispute.
+
+Labor organization had discovered that its counterparty was sometimes larger than the corporation.
+
+It was corporation plus court.
+
+The Great Southwest Strike began after the firing of a Knights member in Marshall, Texas, and spread across Gould-controlled lines through Texas, Arkansas, Missouri, Kansas, and Illinois. Roughly 200,000 Knights participated according to the National Park Service’s historical account.
+
+The scale looked like strength.
+
+Operationally, the strike had a fatal weakness.
+
+The Knights did not control all the labor required to stop a railroad.
+
+Separate railroad brotherhoods represented many of the engineers, conductors, and other workers who actually ran trains. Their support was incomplete. If trains could continue moving, a strike by shop workers and other employees could impose costs without fully shutting the network.
+
+The corporation was vertically dependent on multiple occupations.
+
+Labor was institutionally fragmented across them.
+
+This is the mirror image of the Knights’ promise.
+
+A broad labor organization was supposed to overcome craft boundaries. Yet in the decisive railroad test, important worker groups remained outside the same chain of command.
+
+The result turned a labor dispute into a systems problem.
+
+Strikers tried to immobilize trains and occupy railroad facilities. Conflict escalated with replacement workers, guards, local authorities, federal marshals, and courts. Injunctions ordered strikers off railroad property. Violence alienated some communities whose sympathy the Knights needed.
+
+National leaders also faced a control problem.
+
+A mass organization can declare that its strategy is peaceful and still be judged by what dispersed members do under pressure. Powderly could prefer negotiation. Local assemblies could prefer direct action. Workers facing replacement might sabotage equipment even if such tactics damaged the national organization’s position.
+
+The brand was centralized.
+
+Behavior was not.
+
+That asymmetry is one of the most important institutional lessons in the book.
+
+Platforms, political parties, churches, franchises, militaries, and social movements all confront versions of it. The center benefits from the scale created by local actors and then inherits liability for local actions it cannot perfectly command.
+
+The 1886 railroad strike therefore was not simply a loss at the bargaining table.
+
+It exposed a mismatch between the Knights’ national identity and its operational control.
+
+The organization could mobilize an extraordinary number of workers.
+
+It could not always make the relevant workers act together, make local assemblies follow national strategy, or prevent employers from routing their response through courts and state power.
+
+The counterweight existed.
+
+Its transmission system was incomplete.
+
 Then came 1886.
 
 Labor unrest spread across the country. The movement for an eight-hour day mobilized workers. On May 4 in Chicago, a labor rally at Haymarket Square, called after police had killed workers during a confrontation at the McCormick plant the previous day, ended in catastrophe when someone threw a bomb as police moved to disperse the gathering. Gunfire followed. Police officers and civilians died.
@@ -90,7 +156,7 @@ The Haymarket affair was followed by a controversial trial and executions that b
 
 The Knights’ position weakened.
 
-A second conflict with Gould’s railroads in 1886 also went badly. Employers became more organized. Membership declined after the peak.
+The failed second conflict with Gould’s railroads had already exposed strategic weakness. Employers became more organized. Membership declined after the peak.
 
 The American Federation of Labor, founded that same year under leaders including Samuel Gompers, developed a different model centered more heavily on skilled craft unions and concrete bargaining over wages, hours, and working conditions.
 
@@ -102,7 +168,9 @@ The Knights were a transitional form that demonstrated both the possibility and 
 
 Their relative inclusiveness also needs qualification.
 
-The organization’s record on race was mixed. Some assemblies organized Black and white workers together in a period of severe racial exclusion, an important departure from many institutions of the era. Yet the Knights also participated in or tolerated anti-Chinese politics, and some members supported exclusionary policies rooted in racist labor competition. Local practices varied widely.
+The organization’s record on race was mixed. Some assemblies organized Black and white workers together in a period of severe racial exclusion, an important departure from many institutions of the era. The 1886 Knights convention in Richmond included Black delegates, and the public presence of Black leadership within a national labor organization was itself significant in the post-Reconstruction South.
+
+Yet the Knights also participated in or tolerated anti-Chinese politics, and some members supported exclusionary policies rooted in racist labor competition. Local practices varied widely.
 
 An institution can be progressive relative to its time and still reproduce brutal boundaries.
 
