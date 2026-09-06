@@ -229,3 +229,69 @@ The audience changed.
 The idea of who could stand in the middle of the sport changed.
 
 That is more consequential than a trophy count, even when the trophy count is absurd.
+
+There is a useful way to distinguish Tiger’s commercial impact from Jordan’s. Jordan showed that an athlete could become a global consumer platform while playing a team sport whose league was itself globalizing. Woods showed that one individual could materially change the value proposition of an entire mature sport from inside a weekly field.
+
+Golf tournaments did not have the protective narrative of a franchise rivalry. They had leaderboards. When Tiger was absent, the product could feel different because the viewer’s organizing character was missing. This exposed both the power and danger of superstar concentration more starkly than a team league usually does.
+
+A league can replace one star with another story. An individual sport can become dependent on the singular person who taught occasional viewers when to tune in.
+
+That dependence affects everybody’s incentives. Broadcasters promote Tiger because audiences respond. Tournament sponsors value his presence. Other golfers receive more exposure when grouped with him. Course officials think about how the venue will challenge his power. Young players train against a benchmark defined partly by him. The athlete becomes an environmental condition.
+
+This is where dominance begins to resemble infrastructure.
+
+The “Tiger-proofing” idea is useful even when specific course changes had multiple causes because it captures the psychological scale of the response. Golf architecture had always evolved with equipment and players. Woods personified a new distance problem so vividly that the sport could discuss its own design through his name.
+
+Very few athletes become verbs or engineering problems.
+
+Creighton’s pitching forced baseball to rethink what delivery could be. Ruth’s home runs shifted offensive imagination. Woods’s power and precision forced golf to ask whether historical course geometry still produced the intended test.
+
+The question had no permanent answer because equipment, agronomy, fitness, and player technique continued changing. That is the point. An athlete important enough to trigger redesign does not need to be the sole cause of the underlying trend. The athlete can be the event that makes the system acknowledge the trend.
+
+Woods also accelerated the analytic modernization of golf indirectly. Once distance, fitness, and course strategy became central public topics, the sport had stronger incentives to quantify what had previously been handled through intuition and tradition. Later generations would use launch monitors, strokes-gained analysis, biomechanical data, and increasingly sophisticated training systems. Woods did not invent those tools. His era helped create the competitive anxiety that made marginal gains worth finding.
+
+The field studies the person it cannot beat.
+
+That process can shrink the advantage. A dominant athlete reveals where the sport’s current frontier lies. Rivals copy training methods, recruit specialized coaches, change equipment, and select younger athletes against a higher standard. The star creates his own competitive future.
+
+This is why the Tiger effect should not be reduced to television ratings or prize money. He changed the developmental target. A promising junior golfer in the 2000s could no longer imagine elite preparation exactly as a promising junior in the 1980s had. The model of what the professional body should be had moved.
+
+Race complicates the developmental story because inspiration does not guarantee access. A child can see Woods and still live far from an affordable course. Equipment can remain expensive. Private clubs can remain socially closed even after legal barriers disappear. Time itself is a resource: golf requires long practice sessions and long rounds.
+
+The difference between representation and infrastructure becomes measurable in these constraints.
+
+This is why claims that Tiger “diversified golf” need precision. He diversified the most visible image at the top of golf and broadened audiences. The composition of participation, club membership, elite pipelines, and executive control changed more slowly and unevenly. A star can open imagination faster than institutions open gates.
+
+That pattern recurs in every barrier chapter of this book. Oliver Lewis wins the first Kentucky Derby, but Black jockeys are later pushed out. Jackie Robinson integrates Major League Baseball, but ownership and management remain much less integrated. King helps build women’s professional tennis, but women’s sports more broadly continue fighting for distribution and investment. Progress at the pinnacle can coexist with scarcity underneath.
+
+Woods is therefore both evidence and warning.
+
+The evidence: inherited sporting images can change dramatically in one generation.
+
+The warning: visibility is not the same as access.
+
+The strongest challenger for the 2000s is Michael Phelps if the criterion is pure performance on a global American stage. Eight gold medals at the 2008 Beijing Olympics compressed dominance into one of the most spectacular medal runs in Olympic history. Phelps changed swimming’s visibility, inspired participation, and became one of the most decorated Olympians ever.
+
+Tom Brady is the stronger institutional challenger across the whole decade. His early championships helped create the NFL dynasty that would shape American football for two decades, and quarterback value sits near the center of the country’s largest sports economy.
+
+Woods still wins because the causal footprint is broader. Phelps changed Olympic swimming more than the underlying economics of American sport. Brady’s deepest longevity case extends beyond the 2000s. Woods changed golf’s training culture, course response, television economics, sponsorship scale, racial image, youth expectations, and the commercial logic of one-person audience dependence within the decade itself.
+
+His 2008 U.S. Open victory supplies the decade with a fitting competitive climax. Woods won a major while playing through serious leg damage, an achievement that became part of his legend. The story is tempting because it flatters an old sports ethic: real champions ignore the body and continue.
+
+The rest of Woods’s career makes that ethic harder to romanticize.
+
+Injury has a bill.
+
+Pain can be overcome in a moment without being conquered as a biological fact. One of the book’s final turns will question the assumption that playing through danger is always the highest form of courage. Simone Biles will make that question explicit when a loss of aerial orientation turns continuation itself into a safety risk.
+
+Tiger’s generation was still largely celebrated for the opposite lesson: the body hurts, the champion finds a way.
+
+Both stories can contain courage.
+
+They should not be collapsed into one rule.
+
+That is another reason Tiger belongs before Serena and Biles. The ownership history is moving toward a new frontier. Commercially, the athlete has never had more leverage. Culturally, the athlete is still expected to prove greatness through availability.
+
+Woods made golf richer, faster, stronger, younger, more global, and more dependent on one human being.
+
+The next question is what that human being owes the machine when the body says no.
