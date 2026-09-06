@@ -182,6 +182,48 @@ It survives because executives now use the metrics for performance management.
 
 The ghost learns new jobs.
 
+Pierson's increasing-returns account is useful precisely because it refuses to treat persistence as mere stubbornness. In politics, he argued, processes can become self-reinforcing because actors adapt to rules, organizations invest around them, expectations coordinate around them, and reversal imposes costs that were not present at the beginning. Timing matters because a choice made before those complements exist is not the same choice encountered after they have accumulated.
+
+This changes how we should narrate institutional history.
+
+The first decision may have been close.
+
+The tenth renewal may not be.
+
+At the beginning, several options can be viable. After people acquire specialized skills, organizations build procedures, vendors enter, beneficiaries organize, and legal interpretations settle, the apparent preference for the incumbent grows partly because the incumbent now owns the transition costs.
+
+The later vote is taking place on a different field.
+
+This is one of the reasons counterfactual history is difficult. Asking what would happen if today's institution simply chose another option ignores the fact that the alternative did not receive decades of complementary investment. A new pension design, regulatory architecture, procurement system, educational credential, or payment process is not being compared with the historical incumbent as both looked on day one. It is being compared with an incumbent whose weaknesses are familiar and whose dependencies are paid for.
+
+The ghost owns infrastructure.
+
+That does not mean reform is impossible. It means reform has to identify which reinforcing loops keep a pattern alive.
+
+Sometimes the loop is coordination. Everyone uses the same procedure because everyone else uses it.
+
+Sometimes it is learning. Staff have become efficient at one system and will initially be less efficient in another.
+
+Sometimes it is adaptation. Outside organizations have built products and contracts around the existing rule.
+
+Sometimes it is power. A group with concentrated benefits has more reason to defend the status quo than diffuse losers have to organize against it.
+
+Sometimes it is uncertainty. Nobody can prove the replacement will handle every edge case because the replacement has not yet accumulated the edge cases.
+
+These mechanisms suggest different reforms. A coordination problem needs migration support. A learning problem needs training and transition time. A power problem needs political change. An uncertainty problem may need pilots and reversible experiments. Treating all of them as “culture” obscures the intervention.
+
+The same distinction helps explain why organizations sometimes change suddenly after years of immobility. The institution did not necessarily wake up. A complement changed. A technology matured. A court decision removed a constraint. A crisis made transition costs acceptable. A new coalition formed. A retiring generation weakened a constituency. A replacement system finally became interoperable enough to cross the threshold.
+
+Path dependence is not permanent dependence.
+
+A path remains expensive to leave until something changes the cost.
+
+That is why institutional history contains punctuations. Long periods of stability can coexist with rapid reorganization. The existence of inertia does not mean the institution contains an essence that always returns it to the same state.
+
+The state can be changed.
+
+But the state has to be changed where it is actually stored.
+
 This matters whenever people search for one hidden cause behind a recurring pattern. History can hand a pattern from mechanism to mechanism. The chain stays continuous even while the reason changes.
 
 Morphic resonance proposes a direct similarity-based influence from prior systems. Institutional recurrence shows how indirect influence can become almost indefinitely extended through relay. The old decision affects a policy. The policy affects a database. The database affects incentives. The incentives affect people who never heard of the original decision.
@@ -200,7 +242,7 @@ The organization does not need an essence to reproduce itself.
 
 It needs enough preserved state.
 
-The same insight helps explain why leadership changes often produce less change than promised. Leaders occupy inherited systems. They can alter them, but not all at once. Contracts remain. Budgets are committed. staff has specific skills. Software has specific capabilities. Laws define authority. Customers expect continuity. Suppliers depend on schedules.
+The same insight helps explain why leadership changes often produce less change than promised. Leaders occupy inherited systems. They can alter them, but not all at once. Contracts remain. Budgets are committed. Staff have specific skills. Software has specific capabilities. Laws define authority. Customers expect continuity. Suppliers depend on schedules.
 
 The institution limits the leader's degrees of freedom.
 
@@ -227,6 +269,22 @@ Not simply *do this*.
 Also *this is what happened, this is the evidence, this is the condition under which the rule was adopted, and this is what would justify changing it.*
 
 That form of memory is more expensive. It is also more adaptable because future people can distinguish principle from accident.
+
+There is a practical difference between a rule with provenance and a rule with ancestry only.
+
+Ancestry says the rule has been here a long time.
+
+Provenance says what problem it was meant to solve, what evidence justified it, what tradeoff it accepted, who had authority to create it, what assumptions were true at the time, and what observations should trigger review.
+
+That information turns institutional memory from command into argument.
+
+A later generation can disagree intelligently.
+
+Without provenance, old rules acquire moral authority from survival. They are treated as if durability itself proved necessity. This is one of the institutional versions of the similarity problem: a present case resembles the cases the rule was built for, but nobody remembers which dimensions of resemblance mattered.
+
+A provenance-rich institution can ask whether today's situation is similar in the causal dimensions rather than only in the category name.
+
+That is a better kind of memory.
 
 Science tries to do something similar through methods and citations. Engineering does it through incident reports and design rationale. Law does it imperfectly through opinions that explain holdings rather than merely announce outcomes. Software teams preserve reasoning in design documents and commit histories when they are disciplined enough.
 
