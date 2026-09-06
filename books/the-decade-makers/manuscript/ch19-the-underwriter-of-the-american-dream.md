@@ -44,6 +44,28 @@ When a federal institution writes those assumptions into underwriting rules, pri
 
 That is where the American dream acquired a map.
 
+The FHA’s underwriting manual makes the mechanism unusually visible.
+
+The 1938 manual instructed underwriting staff to compare an applicant’s risk with a valuation of the property and its surroundings. The mortgage-insurance decision therefore did not stop at the household’s income or the physical condition of the building.
+
+The neighborhood itself became part of the collateral.
+
+That move seems financially logical at first. A lender cares about the value of the property securing a loan. A house whose resale value collapses creates greater loss if the borrower defaults. Streets, utilities, access, nearby land uses, local demand, and the condition of surrounding properties all affect resale value.
+
+But once the government made “neighborhood stability” an underwriting variable, social judgments could be written into financial risk.
+
+The historical manual explicitly included racial discrimination among those judgments.
+
+This is the difference between prejudice and institutionalized prejudice.
+
+A prejudiced loan officer can deny one borrower.
+
+An underwriting manual can teach thousands of actors which kinds of neighborhoods should be treated as risky, make those judgments appear technical, and transmit them through a national insurance system.
+
+The vocabulary changes.
+
+The effect scales.
+
 The map was racially discriminatory.
 
 FHA underwriting practices and manuals historically treated racial composition as a factor in neighborhood stability and supported policies that reinforced segregation. The agency did not create every form of housing discrimination, and it is important not to conflate the FHA mechanically with the Home Owners’ Loan Corporation’s residential security maps, another New Deal institution frequently associated with the history of redlining. Private lenders, real-estate boards, developers, local zoning, racially restrictive covenants, violence, and discrimination all contributed to segregation.
@@ -65,6 +87,54 @@ The rule need not say, “this family’s grandchildren should have less wealth.
 It can say, “this mortgage does not meet our risk standard.”
 
 Then millions of similar decisions make a wealth gap.
+
+The underwriting machine also worked through builders.
+
+A developer planning hundreds of homes had a strong reason to ask a question before laying a street or pouring a foundation: will the eventual buyers be able to obtain insured mortgages here?
+
+That changed the order of causation.
+
+Federal policy did not merely approve or reject finished homes one at a time.
+
+The expectation of approval could shape subdivision design, lot sizes, infrastructure, construction standards, and the intended market before the houses existed.
+
+The insurer moved upstream.
+
+This is why the FHA should be understood as a market-making institution rather than only a safety net for lenders.
+
+Insurance altered the price of risk.
+
+When a private lender knew that a qualifying mortgage carried federal insurance, the lender could offer terms that would have been harder to justify if the entire default risk remained private. Longer maturities and amortization made monthly payments more manageable. Standardization made loans easier to compare, originate, and hold.
+
+The household experienced the result as affordability.
+
+The lender experienced it as altered risk.
+
+The developer experienced it as a larger pool of financeable customers.
+
+The federal government experienced it as contingent liability rather than direct construction.
+
+The same policy looked different on each balance sheet.
+
+By the opening of the 1950s, the scale was no longer marginal.
+
+President Harry Truman’s budget message for fiscal 1950 estimated that more than one-third of new housing starts in the coming fiscal year would be financed with FHA-insured mortgages, while veterans’ loan guarantees would continue alongside them.
+
+That estimate is useful because it shows the institution’s position in the market before the decade’s suburban expansion had fully played out.
+
+FHA was not regulating a niche product.
+
+It was helping define the financing conditions for a large share of new housing.
+
+The national tenure statistics moved with the postwar transformation. The Census Bureau reports that homeownership stood at about 55 percent in 1950 and topped 60 percent by 1960. No single institution deserves all the credit: rising incomes, the GI Bill, household formation, construction, tax policy, highways, savings institutions, and demographic change all mattered.
+
+But the direction of change tells us what was at stake.
+
+Millions of households were crossing from renting into ownership while the rules governing mortgage eligibility and property valuation were also shaping which households and neighborhoods could make that transition most easily.
+
+The benefit and the exclusion were not separate stories.
+
+They were produced by the same institutional scale.
 
 The 1950s housing boom also depended on geography created by automobiles and highways.
 
@@ -170,7 +240,7 @@ Institutions create constituencies by embedding expectations in property.
 
 This is why housing reform is difficult long after the original FHA manuals change.
 
-The racial rules evolved. Explicit federal support for discriminatory practices was dismantled through policy and law, including the Fair Housing Act of 1968 and other reforms. Yet wealth and geography produced under earlier regimes did not reset to zero when the rule changed.
+The racial rules evolved. Explicit federal support for discriminatory practices was dismantled through policy and law, including President Kennedy’s 1962 executive order concerning discrimination in federally assisted housing and the Fair Housing Act of 1968. Yet wealth and geography produced under earlier regimes did not reset to zero when the rule changed.
 
 Institutional history leaves balances.
 
