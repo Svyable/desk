@@ -211,3 +211,99 @@ A state tried a missionary to prove it governed Cherokee land.
 The Supreme Court said the state did not.
 
 Then America demonstrated the terrible distance between being right in court and being safe in the country.
+
+## A mandate without a marshal
+
+The enforcement problem becomes clearer when the chronology is slowed down.
+
+The Supreme Court did not merely publish a philosophical essay about Cherokee sovereignty. It reversed the state judgment. A mandate issued directing that the Georgia proceedings against Worcester and fellow missionary Elizur Butler cease and that the men be released from the conviction.
+
+Georgia did not do that because the Supreme Court had said so.
+
+The state court refused to carry the mandate into effect. Georgia officials remained committed to the jurisdictional claim the Supreme Court had rejected. President Jackson did not intervene to compel compliance. Worcester and Butler remained prisoners after winning at the nation's highest court.
+
+That interval matters more than the apocryphal one-liner attributed to Jackson.
+
+The popular quotation compresses institutional failure into presidential swagger. The record is less theatrical and more instructive. The Court had spoken in the form the constitutional system gave it. The state did not comply. The president possessed political and coercive capacities the judiciary lacked and chose not to use them to force Georgia's obedience.
+
+There was no single dramatic moment when constitutional law was declared dead.
+
+There was a series of non-actions.
+
+That is how institutional failure usually looks from inside the system.
+
+A document arrives.
+
+An official declines to move.
+
+Another office waits.
+
+Political incentives point elsewhere.
+
+The judgment remains valid while the people entitled to its benefit remain confined.
+
+The missionaries' eventual release makes the story even more useful because release came through politics, not clean judicial enforcement. By late 1832 the national political environment had changed. South Carolina's nullification challenge over federal tariffs created a different state-versus-federal confrontation. The Jackson administration had reasons not to encourage a general theory that states could simply disregard federal authority whenever they disliked it. Georgia, meanwhile, had advanced its practical control over Cherokee lands.
+
+The legislature repealed the law under which Worcester and Butler had been convicted. Governor Wilson Lumpkin pardoned them in January 1833 after they agreed to stop pressing the case and leave their continued confinement to the state's discretion.
+
+The language of the pardon is revealing even without quoting it.
+
+Georgia did not present itself as a losing litigant finally obeying the Supreme Court. The governor framed release as an act of state magnanimity after the missionaries had ceased pursuing the federal judgment.
+
+Power rewrote compliance as generosity.
+
+That maneuver is worth noticing because institutions care about the story attached to retreat. A government can change course while refusing the premise that compelled the change. It can settle rather than concede. It can pardon rather than obey. It can repeal a challenged law while insisting the challenger was wrong. The practical result may improve while the constitutional conflict remains unresolved in political culture.
+
+For Worcester and Butler, release mattered. They were no longer serving four-year hard-labor sentences.
+
+For the Cherokee Nation, the underlying machinery continued.
+
+Georgia's claim to control the land did not disappear because the missionary statute was repealed. Land redistribution and the political pressure for removal proceeded. Cherokee political leadership itself divided over how to respond to mounting coercion. In 1835, a minority faction signed the Treaty of New Echota, purporting to cede eastern Cherokee lands and accept removal. The treaty faced opposition from the majority of the Cherokee Nation and from its principal leadership, but the United States Senate ratified it.
+
+The legal form of consent had been obtained under conditions in which the legitimacy of the consenting representatives was fiercely disputed.
+
+That is another kind of trial.
+
+Not a criminal trial, but a test of what government will count as agreement when it wants an outcome badly enough.
+
+By 1838, federal troops and state militias were used to gather Cherokee people for forced migration west. The removal occurred after Jackson had left office, under Martin Van Buren, which is another reason the story should not be reduced to one president's personality. Jackson's policy and political commitments were crucial; the institutional project outlived his term.
+
+The Trail of Tears is often narrated as the event that proves *Worcester* did not matter.
+
+That conclusion is too simple.
+
+If the opinion had not mattered, Georgia would not have resisted it so aggressively. National officials would not have faced an enforcement problem. Lawyers would not still cite the case as a foundational statement of tribal sovereignty and limits on state jurisdiction. The case became part of federal Indian law's long doctrinal history even while its immediate protective force proved catastrophically inadequate.
+
+A legal rule can matter and fail at the same time.
+
+That is one of the hardest categories for people to accept because we prefer outcomes that sort cleanly.
+
+Victory or defeat.
+
+Law or lawlessness.
+
+Compliance or defiance.
+
+*Worcester* gives us a legally powerful victory, a personally delayed release, a politically reframed pardon, an enduring sovereignty principle, and a national removal policy that devastated the people whose political status the opinion had recognized.
+
+All of those are true.
+
+The case also helps explain why constitutional enforcement becomes a habit rather than a switch. The judiciary has accumulated authority partly because officials have repeatedly treated judgments as binding even when they dislike them. Each act of compliance strengthens an expectation that the next judgment will also be obeyed. Each celebrated defiance threatens more than the immediate case because it teaches other officials to calculate whether obedience is optional.
+
+The system survives some defiance. It cannot normalize unlimited defiance and remain the same system.
+
+Georgia in the early 1830s discovered that a Supreme Court judgment could be legally adverse without immediately dislodging state policy. The Cherokee Nation discovered the terrible side of the same fact.
+
+A constitutional right that depends on somebody else's willingness to enforce it is not imaginary.
+
+It is vulnerable.
+
+That vulnerability is why later chapters will keep returning to institutions around the courtroom. Reconstruction rights will depend on federal prosecutors and federal troops as well as constitutional amendments. School desegregation orders will require executive and judicial follow-through. Criminal-procedure rights will require states to fund lawyers, train officials, preserve evidence, and retry cases. Presidential subpoenas will matter only if institutions treat judicial process as stronger than officeholder preference.
+
+A mandate is a legal command.
+
+Its practical strength is the sum of everyone who has learned that commands of that kind are not optional.
+
+In 1832, the Supreme Court issued the command.
+
+Georgia taught the country how much else was required.
