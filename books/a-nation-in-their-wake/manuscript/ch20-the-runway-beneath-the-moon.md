@@ -359,3 +359,7 @@ Apollo's most famous photograph shows one human alone on another world. The reco
 He came home through a crowd.
 
 <!-- PUB-AUGMENT-ROUND3-2026-09-06 -->
+
+The recovery network also made success transferable. Apollo 12 would splash down later in 1969 and be recovered by the same carrier. That repetition matters more than ceremonial novelty. A capability that works once may be luck supported by skill; a capability designed to be repeated becomes institutional knowledge. The United States did not merely bring Apollo 11 home. It had built a system ready to bring the next crew home too.
+
+<!-- PUB-AUGMENT-ROUND4-2026-09-06 -->
