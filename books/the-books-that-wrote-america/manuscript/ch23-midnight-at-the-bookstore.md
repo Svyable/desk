@@ -276,6 +276,74 @@ Once that had happened, every major publisher could imagine the next one.
 
 The category's ceiling moved.
 
+Scholastic's own record of the American launch helps put that movement in proportion. The company published *Sorcerer's Stone* in the United States in September 1998 with an initial printing of 50,000 copies. Two decades later, Scholastic reported more than 180 million Harry Potter books sold in the United States and more than 500 million worldwide. By the series' twenty-fifth American anniversary, the publisher's worldwide figure had passed 600 million.
+
+Publisher figures deserve the same caution as every sales number in this book. They are not literacy studies. They do not tell us how many copies were finished, reread, borrowed, shared, or left unopened. They also describe the series, not the first volume alone.
+
+But they show the conversion from acquisition bet to industrial scale.
+
+Fifty thousand copies is a publisher deciding that a book has promise.
+
+Hundreds of millions is a global distribution system discovering that the audience can reproduce itself across generations.
+
+The American title change is a small but revealing part of that machinery. The British *Philosopher's Stone* became *Sorcerer's Stone* for the U.S. market. The story did not change in any consequential way, but the packaging did. Global publishing is full of such adjustments: covers, titles, spelling, trim sizes, release dates, marketing copy, and retail strategy. The romantic image of a book traveling unchanged from writer to reader hides an enormous amount of local commercial translation.
+
+Harry Potter became a global object through local decisions.
+
+The censorship record gives us a different form of scale.
+
+The American Library Association reported the series as the most frequently challenged set of books for 2000 through 2005 and later ranked it first among reported challenges for the entire 2000–2009 decade. Those numbers measure reports received by the ALA, not every complaint in the country. They should not be converted into a precise national rate of opposition.
+
+What they establish is persistence.
+
+This was not one outraged parent producing one news cycle. The series repeatedly forced schools and libraries to answer the same governance question across different communities: who gets to decide what other people's children may find on a public shelf?
+
+That question gives the Harry Potter story a constitutional echo the books themselves never needed to contain. Public libraries and schools are institutions where pluralism becomes administrative. A collection has finite space. A curriculum has finite time. Selection is inevitable. Removal is therefore always easier to defend as merely another selection decision—until the reason for removal exposes a conflict over religion, sexuality, race, violence, politics, or parental authority.
+
+A famous book makes that conflict legible.
+
+When nearly everyone recognizes the title, a local complaint becomes a national example.
+
+The same visibility also changed publishing risk. Controversy did not necessarily suppress sales. In a fragmented media environment, opposition could become publicity, and an attempted removal could signal to other readers that a book mattered. The dynamic was older than Harry Potter, but the series demonstrated it at franchise scale.
+
+There is a useful comparison here with *Huckleberry Finn*.
+
+Twain's novel became a school controversy partly because institutions canonized it. Harry Potter became a school controversy before any comparable literary canon had time to form. Popularity came first. Institutional conflict followed almost immediately.
+
+That reversal matters.
+
+The school was no longer only deciding which old books deserved preservation.
+
+It was responding to a living mass culture that children had already chosen for themselves.
+
+The series therefore reduced the gatekeeping advantage of adult institutions. A teacher did not need to introduce Harry Potter to a classroom that was already trading the books. A librarian did not create the demand. The challenge was often the opposite: how to manage waiting lists, multiple copies, parent objections, and a readership moving faster than normal acquisition cycles.
+
+This is another reason the midnight line belongs at the center of the chapter.
+
+The line represents readers coordinating institutions from below.
+
+Retailers changed hours because the audience demanded it.
+
+Publishers guarded release dates because the audience cared.
+
+News organizations covered a book because crowds made the crowd itself news.
+
+Libraries ordered additional copies because readers were waiting.
+
+Studios accelerated adaptations because the installed audience reduced commercial uncertainty.
+
+The consumer was not passively receiving a campaign.
+
+The consumer was part of the infrastructure that made the campaign rational.
+
+That participatory mechanism would become ordinary in later digital culture. Fans would trend hashtags, organize streaming campaigns, rescue canceled shows, swarm preorders, and transform niche properties into global ones. In the late 1990s, the same feedback loop still had a strongly physical expression.
+
+You could see it outside the bookstore.
+
+The internet did not replace the line.
+
+It helped create the line.
+
 ## Why Midnight Matters
 
 The most important scene is not at Hogwarts.
