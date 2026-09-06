@@ -207,3 +207,71 @@ That is why the blue underline is worth another look.
 It was never merely a shortcut to the next page.
 
 It was a visible handle on an invisible graph.
+
+There is another reason the visual handle mattered. The underline trained people to believe that text could contain an action without ceasing to be text.
+
+That sounds almost trivial after decades of graphical interfaces. It was not trivial as a cultural transition. A button already looked like a control. A menu already announced that the screen expected a choice. A linked phrase could remain part of an ordinary sentence while also becoming an interface. Reading and operating the machine occupied the same surface.
+
+That fusion changed writing.
+
+An author no longer had to step outside the sentence to issue a command such as “type this address” or “open that file.” The command could be attached to the phrase whose meaning justified the transition. “Annual report” could be both language and route. “Previous experiment” could be both a description and a machine-operable connection. The user acted through semantics rather than through the address itself.
+
+This is one reason anchor text matters more than its modest appearance suggests. The link has two descriptions at once. The URI is the machine-facing description of where the relation points. The surrounding language is the human-facing description of why the relation might be worth following. Good linking aligns the two. Deceptive linking pulls them apart.
+
+The dual representation created an unusually productive interface contract. Humans could write in the language of concepts while machines acted in the language of identifiers.
+
+A documentation page can say “configuration reference,” not `https://example.org/docs/v4/reference/configuration.html`. A journalist can say “the filing,” not recite the path through a government server. A friend can say “the restaurant,” not make another friend decode a map query. The ugly machinery remains recoverable when needed, but prose carries the foreground.
+
+That design choice has a social consequence: the author becomes responsible for naming the edge.
+
+A link labeled “here” tells the reader almost nothing until the sentence around it is parsed. A link labeled “independent audit” makes a claim about the destination before the click. A link labeled “evidence” makes an even stronger claim. The anchor is not neutral packaging. It frames the relation.
+
+Search engines eventually noticed this too. The words other people used when linking to a page could provide information about the page that the page's own author did not control completely. The human label on the edge became another machine signal. Once again a feature created for readable prose acquired a second computational life.
+
+This dual use—human meaning plus machine structure—is rare enough to deserve emphasis. Many information systems make users choose between free expression and formal data entry. A database form wants fields. A programming language wants syntax. Ordinary prose wants sentences. Hypertext let a writer add a formal relation without abandoning ordinary prose.
+
+That made graph authorship available to people who would never have called what they were doing graph authorship.
+
+A teenager building a fan page could create edges.
+
+A professor publishing a reading list could create edges.
+
+A small business owner making a page of local resources could create edges.
+
+A dissident publishing documents could create edges.
+
+A hobbyist cataloging a collection could create edges.
+
+The syntax was teachable. The consequence was global.
+
+This matters because technologies scale socially when the smallest useful act is cheap enough to perform without institutional support. You do not need to build a search engine to improve the Web's graph. You need to create one meaningful link. You do not need to own the destination. You do not need to know who will consume the relation later. You make a local editorial decision and add one edge to a structure much larger than your page.
+
+The Web accumulated by accretion.
+
+No architect drew the finished graph because there was no finished graph. The network kept changing as people published and pointed. This made the Web difficult to govern and impossible for any one institution to understand completely. It also made the Web capable of absorbing new communities without requiring a redesign of the whole.
+
+A new scientific field could appear and publish its own sites. A new city could put municipal records online. A new software project could expose documentation. The rest of the Web did not need a schema migration. Links could begin forming around the new nodes immediately.
+
+This is what thin infrastructure buys: the cost of admitting the unforeseen stays low.
+
+It also explains why the blue underline was more than an accessibility convention or a bit of browser nostalgia. The visual convention made an architectural freedom legible to ordinary readers. It told them that the current document had edges and that those edges belonged to the experience of reading.
+
+Later interfaces became more decorative. Links became cards, buttons, images, previews, chips, thumbnails, QR codes, app routes, and invisible click targets. The browser's default blue could be overridden by style sheets. Mobile screens removed hover. Voice assistants could follow references without rendering an underline at all.
+
+The visible form diversified because the relation had become independent of its costume.
+
+That is the sign that the invention had matured.
+
+The blue underline taught a generation what the relation could do. Once the lesson was learned, software could hide the lesson inside other interfaces.
+
+But the conceptual bargain remains worth preserving. A user should be able to recognize when a representation contains an exit, understand enough about the exit to decide whether to take it, and retain the option to inspect where it leads. When interfaces obscure those facts, they do not eliminate hypertext. They make the graph less legible to the person moving through it.
+
+The difference matters because legibility is a form of agency.
+
+A visible link tells the reader that the current page is not the whole environment. It advertises dependence, context, and possibility. A source can point outward and admit that the evidence lives elsewhere. A company can point to a policy it did not write. A writer can invite contradiction by handing the reader the object being interpreted.
+
+That small door in the sentence became one of the Web's most durable political gestures.
+
+You may leave.
+
+The rest of the book is about what happened after everyone learned how.
