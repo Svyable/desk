@@ -174,6 +174,34 @@ The democratic question is therefore not whether emergency powers are ever neces
 
 It is how a republic preserves the ability to distinguish necessity from fear while events are moving too fast for hindsight.
 
+The war also altered the fiscal relationship between ordinary households and Washington in a way that outlasted mobilization.
+
+Before the conflict, the federal income tax touched a much narrower share of the population. Wartime revenue legislation broadened the tax base dramatically, and the introduction of current withholding in 1943 made federal income taxation an ordinary paycheck experience for millions of workers. War bonds recruited households into federal finance from another direction, turning savings campaigns into both funding mechanisms and civic rituals.
+
+That change can look administrative beside Midway or Normandy. It was not minor.
+
+A government capable of drawing revenue continuously from a mass industrial workforce possessed a different kind of state capacity from one financed primarily through tariffs and taxes concentrated on a smaller group. The postwar federal government would inherit not only factories and military bases but a fiscal system capable of supporting Social Security expansion, highways, defense, research, veterans' benefits, and eventually Medicare and Medicaid.
+
+Total war widened the tax state before the welfare state widened again.
+
+Labor policy showed the same reach. Major unions generally accepted wartime no-strike pledges while federal boards intervened in wages and disputes. The arrangement did not eliminate strikes or worker conflict, and inflation controls created their own tensions. It did demonstrate that Washington could become a direct participant in the relationship among employers, unions, wages, prices, and production when national output was treated as a security problem.
+
+Agriculture and migration changed with it.
+
+Military service and industrial jobs pulled workers away from farms at the same moment the armed forces and Allies needed extraordinary quantities of food. Mechanization accelerated. The United States and Mexico created the wartime Bracero Program in 1942, bringing Mexican laborers into U.S. agriculture and later other work under a system that would continue long after the emergency that created it. The program supplied labor while also producing exploitation, wage disputes, discrimination, and a durable argument over how American prosperity depends on workers whose political standing is weaker than their economic importance.
+
+Wartime mobility redrew cities as well. Defense production expanded Los Angeles, the San Francisco Bay Area, Seattle, Detroit, and other industrial centers. Black migration intensified racial conflict over jobs and housing. Mexican American communities confronted discrimination and episodes of violence. Housing shortages became severe around defense plants. Federal spending rearranged population because factories, shipyards, bases, laboratories, and contracts rearranged opportunity.
+
+The state was not merely buying weapons.
+
+It was moving the economy's center of gravity.
+
+That is another reason Pearl Harbor outranks the bombings for this window. Hiroshima and Nagasaki changed the strategic future of humanity. Pearl Harbor set in motion a mobilization that changed who paid federal taxes, where Americans lived, which industries grew, how science was financed, how labor was governed, how civil-rights claims gained leverage, and how the United States would finance and administer global power after victory.
+
+The attack lasted hours.
+
+The machinery it activated survived peace.
+
 By 1945, the United States had survived depression and world war, helped defeat fascist powers, built an atomic bomb, and emerged at the center of global institutions.
 
 Its own racial order remained legally segregated.
