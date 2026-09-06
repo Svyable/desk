@@ -299,3 +299,119 @@ He sold them anyway.
 The most damaging knowledge he carried out of the CIA was not a secret about the Soviet Union.
 
 It was the list of Soviet citizens who had trusted the United States enough to betray theirs.
+
+The list was not the end of the damage.
+
+It changed the reliability of what came after.
+
+A later Senate intelligence review found that the CIA had another problem once sources compromised by Ames began disappearing: it did not adequately validate some of the reporting that Moscow continued to allow through channels the Agency knew or suspected might be under hostile control. That is the second-order counterintelligence disaster.
+
+A mole does not only tell the adversary which sources to arrest.
+
+The adversary can choose which sources not to arrest.
+
+A compromised channel can be left alive deliberately.
+
+A source who appears to survive may now be reporting under adversary direction. The service receiving the intelligence faces an ugly choice. Cut off everything associated with possible compromise and lose information that may still be genuine. Continue reading and risk allowing the adversary to write part of the intelligence picture.
+
+This is perception management at human scale.
+
+The dead source tells you one thing with certainty: the adversary found him.
+
+The living source after a penetration can be harder to interpret.
+
+Was he missed?
+
+Protected by circumstance?
+
+Turned?
+
+Allowed to continue because his reports are useful to Moscow?
+
+Ames therefore attacked not only access but confidence.
+
+Once a service knows its source network has been penetrated, every surviving report acquires a shadow. The analyst has to ask not only whether the source is credible, but whether the adversary knows the source is credible and has decided to exploit that credibility.
+
+Technical collection can face deception too. Camouflage can fool imagery. Decoys can confuse radar. An adversary can transmit false signals. Human penetration adds a more intimate possibility: the other side may control a person whose past truthful reporting earned the trust needed to make later false reporting persuasive.
+
+The CIA's failures after the source losses mattered to Congress because they showed that damage assessment is part of counterintelligence, not paperwork after the real event.
+
+If the organization mismeasures what was compromised, it can continue making policy from contaminated information.
+
+This is one reason the Ames case produced more than personnel embarrassment.
+
+It produced legislation.
+
+The Senate Select Committee on Intelligence concluded that the CIA's counterintelligence function had been weak and that the Agency had failed to correct known structural problems. The committee criticized the failure to address Ames's suitability and security problems, the decision to allow him sensitive access despite warning signs, the slow and under-resourced investigation of compromised cases, poor CIA-FBI coordination, and failures to notify congressional oversight bodies about significant intelligence losses.
+
+Those findings matter because they move the case beyond the comforting genre of bad employee stories.
+
+If Ames were only a uniquely corrupt man, arresting him would solve the lesson.
+
+Congress found organizational conditions that allowed the uniquely corrupt man to remain dangerous.
+
+The policy response included requirements intended to force faster coordination between intelligence agencies when classified information appeared to have been disclosed to a foreign power. The Intelligence Authorization Act for Fiscal Year 1995 required intelligence-agency heads to advise the FBI when it became apparent that classified information was or might have been disclosed without authorization to a foreign government or its agent. The same post-Ames period also produced broader standards governing access to classified information.
+
+A spy had exposed a seam between institutions.
+
+The law tried to stitch it.
+
+That seam is easy to understand in retrospect. CIA officers run foreign intelligence operations. The FBI investigates espionage in the United States. A suspected mole inside the CIA can therefore sit precisely where operational knowledge, personnel security, criminal investigation, and institutional pride overlap.
+
+Nobody lacks jurisdiction.
+
+Everyone can still lack the whole picture.
+
+The recurring American answer to that problem is information sharing.
+
+The recurring risk of information sharing is more access.
+
+That tension will dominate the chapters ahead.
+
+Ames showed the cost of keeping counterintelligence clues fragmented across offices.
+
+Hanssen would show the cost of allowing a trusted insider to search widely across a connected system.
+
+After September 11, the country would be told that agencies had to share more information so that dots could be connected.
+
+That was true.
+
+Ames makes the qualifier unavoidable: the person connecting the dots must also be someone the system can afford to trust.
+
+This is why financial scrutiny became such a durable post-Ames symbol. His unexplained wealth looked, after the fact, like a dot no one had connected. Yet the real failure was not that the CIA lacked one magical indicator. It was that personnel concerns, operational losses, access, money, and institutional assumptions were not assembled fast enough into a case strong enough to overcome innocent explanations.
+
+Counterintelligence is synthesis under suspicion.
+
+Too little suspicion and the mole survives.
+
+Too much and the institution destroys trust among the innocent people it depends on.
+
+The balance cannot be automated away.
+
+A bank record can flag an anomaly.
+
+A computer can log access.
+
+A polygraph can produce questions and physiological readings.
+
+A security officer can interview colleagues.
+
+None of those things alone proves allegiance.
+
+The institution still has to judge.
+
+Ames's case is frightening partly because the clues eventually looked so obvious.
+
+That is hindsight doing what hindsight always does: stripping uncertainty from the past.
+
+The CIA of 1994 could finally arrange the evidence around a guilty man.
+
+The CIA of 1986 had losses, hypotheses, personalities, incomplete financial visibility, rival explanations, and an adversary actively trying to shape what it believed.
+
+The lesson is not that the answer should have been obvious.
+
+The lesson is that the cost of being slow was measured in people.
+
+That is a heavier standard.
+
+It is also the right one.
