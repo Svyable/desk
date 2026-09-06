@@ -320,6 +320,94 @@ Responsibility without credit is exploitation.
 
 Good systems try to align them.
 
+There is a practical way to make that alignment less rhetorical.
+
+Preserve enough of the causal chain that a later reviewer can reconstruct who did what.
+
+Not every keystroke.
+
+Not a surveillance film of creation.
+
+Enough to distinguish roles that matter.
+
+Which sources were consulted?
+
+Which outputs were generated?
+
+Which claims were verified?
+
+Who approved the consequential step?
+
+What tests ran?
+
+What changed after review?
+
+Where did the work cross from suggestion into action?
+
+This is provenance as working memory rather than purity proof.
+
+It serves a different purpose from an AI detector. A detector looks at the finished artifact and guesses backward. A process record can preserve selected facts as they happen.
+
+The record will still be incomplete.
+
+People can falsify records. Tools can omit important steps. Sensitive creative work may deserve privacy. A notebook should not become a panopticon merely because provenance is useful.
+
+The goal is not total observability.
+
+It is enough legibility to support the claim being made.
+
+A regulated decision may need more process evidence than a birthday card. A scientific analysis may need reproducible data and code. A novel may need almost none unless the publisher or reader was promised a particular production method. A student assessment may need evidence tailored to the learning objective.
+
+Again, context governs.
+
+This matters because a future of abundant generation will tempt organizations toward two bad extremes.
+
+One is no provenance at all: trust the final output and hope somebody owns it.
+
+The other is exhaustive provenance: record everything so nobody can ever deny how the work happened.
+
+The first can make accountability disappear.
+
+The second can make experimentation impossible.
+
+Good work often contains ugly intermediate states.
+
+Unverified notes.
+
+Bad hypotheses.
+
+Copied quotations waiting to be sourced.
+
+Half-formed arguments.
+
+Private names.
+
+Wrong code.
+
+Ideas that should never leave the room.
+
+Creators need enough private space to make bad work before making good work. Reviewers need enough evidence to trust claims when the stakes require it.
+
+Those needs are not enemies.
+
+They require selective provenance.
+
+The same principle applies to agents doing work for people. If an agent negotiates a purchase, edits a document, changes a database, or sends a consequential message, the useful record is not a theatrical transcript of every internal step. It is a ledger of authority and action.
+
+What mandate did it have?
+
+What did it actually do?
+
+Where did it exceed or approach a boundary?
+
+What can be reversed?
+
+Who is accountable now?
+
+This turns “my work” into something stronger than possession.
+
+It becomes a claim that I can reconstruct my role.
+
 This will matter for the people whose labor sits behind AI as well. If a product markets itself as autonomous while relying on poorly paid human reviewers to handle the difficult residue, the distribution of credit and responsibility is distorted in the other direction. The machine gets the headline. The people get the exceptions.
 
 The Mechanical Turk returns.
