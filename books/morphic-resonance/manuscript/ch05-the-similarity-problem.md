@@ -177,3 +177,53 @@ The radical question is no longer merely whether similar things influence simila
 They obviously can.
 
 The question is which similarity, through which channel, chosen by whom, and with what right to shape what comes next.
+
+That question becomes sharper when the same pair of things can be made near or far simply by changing the representation.
+
+Take two books. If we represent them by author, they may be distant. By publication year, close. By vocabulary, perhaps close again. By plot structure, audience, sales channel, binding, political argument, sentence length, or the sequence of topics, their relationship keeps moving. None of these descriptions is automatically fraudulent. Each answers a different question.
+
+The trouble begins when the question is chosen after the desired neighbors are visible.
+
+Modern data systems make this temptation concrete. A representation compresses a complicated object into features that matter for a task. Change the features and the neighborhood changes. A hiring system that emphasizes years of experience creates one set of near neighbors. Emphasize demonstrated work samples and another set appears. A music system built around co-listening patterns may place songs together that a musicologist would separate. A medical classifier may discover predictive combinations that do not resemble familiar diagnostic categories.
+
+Similarity is therefore partly a property of the objects and partly a property of the question being asked of them.
+
+For ordinary predictive systems, that is acceptable as long as performance is evaluated honestly. If a representation predicts the outcome it was designed to predict, it can be useful without claiming to reveal the one true geometry of the world.
+
+A theory of morphic resonance has a harder burden because similarity is supposed to carry causal influence, not merely assist classification.
+
+That suggests a particularly revealing experimental design. Instead of comparing “similar” and “dissimilar” systems as if those were natural boxes, construct cases that are deliberately similar on one dimension and dissimilar on another.
+
+Imagine a learned sequence expressed in two different physical forms. Or the same visual form paired with two different temporal structures. Or genetically similar organisms trained on structurally different tasks while more distantly related organisms encounter tasks with the same abstract sequence. The point is not that these exact examples are necessarily practical. The point is to create conflict among candidate similarities.
+
+A theory that says only “similarity matters” cannot resolve the conflict.
+
+A mature theory should be able to rank the dimensions before the result is known.
+
+This is how scientific definitions earn reality. Temperature became more than the feeling of hot and cold because measurement linked the concept to reproducible physical relations. Genetic relatedness became more than family resemblance because inheritance could be traced through mechanisms and sequences. In each case an intuitive category became more constrained as the science improved.
+
+A genuine science of morphic similarity would need the same narrowing.
+
+Perhaps that narrowing would reveal that the effect tracks a specific structural relation. Perhaps it would reveal that what looked like resonance was ordinary transmission aligned with one feature. Perhaps no stable metric would survive replication. Any of those outcomes would be more informative than a theory able to change its notion of likeness after every experiment.
+
+There is also a moral version of the same test.
+
+Institutions routinely decide that people are alike in ways that affect what happens to them. Insurance groups risks. Schools sort students. employers classify applicants. Platforms cluster users. Law places cases into categories. Some grouping is unavoidable because decisions have to generalize beyond one unique case at a time.
+
+But every useful category also discards information.
+
+The person becomes legible to the system through selected dimensions.
+
+Once the classification carries consequences, the omitted dimensions stop being merely philosophical. A person can be denied because the model's neighborhood is wrong for the question that matters. A neighborhood can be treated as dangerous because historical data made geography a proxy for conditions that have changed. A new artistic work can be invisible because it does not fit the category through which audiences are reached.
+
+The mistake is not generalization itself. Learning requires generalization. The mistake is forgetting that a similarity metric was built for a purpose and then treating its output as essence.
+
+Morphic language can make the same mistake in metaphysical form. To say two systems “resonate” because they are alike sounds explanatory only while the chosen dimensions remain hidden.
+
+Bring the dimensions into the light and the theory has to work harder.
+
+That is good.
+
+A claim that survives explicit conflict among similarity measures would be much more interesting than a hundred anecdotes that merely look alike after the fact.
+
+The future of this question depends less on finding more resemblance than on forcing resemblance to choose sides.
