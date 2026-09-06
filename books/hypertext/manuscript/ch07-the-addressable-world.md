@@ -257,3 +257,93 @@ It is the boundary object that lets one institution say to another, one person s
 After that, the link can say something more consequential.
 
 Go there.
+
+Persistent-identification systems make the social side of naming especially visible. The DOI system used in scholarly publishing is useful here not because it replaces the Web but because it formalizes a promise the ordinary Web leaves loose. A DOI name is intended to identify an object persistently even when the current network location changes. Resolution infrastructure directs the identifier toward current information about the object, and participating institutions take on obligations to maintain the relationship.
+
+The technology helps.
+
+The institution makes persistence credible.
+
+This distinction protects us from magical thinking about identifiers. No character string preserves itself. Someone maintains the registry. Someone updates the target. Someone pays for infrastructure. Someone decides what happens when a publisher disappears or metadata changes. A persistent identifier is durable because a community organizes around keeping it durable.
+
+The same is true of domains, only with different obligations. A newspaper can preserve article URLs for decades because its engineers maintain redirects, its owners keep the domain, and its editorial systems treat old addresses as public commitments. Another publisher can break ten years of links during a redesign because nobody inside the organization is responsible for external dependence.
+
+The syntax can be equally valid in both cases.
+
+The governance differs.
+
+This is why the word *address* can mislead if we imagine physical permanence. A street address is attached to geography that resists casual change. A Web address is attached to institutional control. The server can move without the address changing, which is a strength. The institution can disappear while the address remains syntactically plausible, which is a weakness.
+
+Digital naming therefore separates continuity from material location more radically than postal naming does.
+
+A URI can keep identifying the same conceptual resource while every physical machine involved in serving it changes.
+
+That abstraction is powerful because organizations change constantly. Hardware fails. data centers move. cloud providers change. applications are rewritten. databases are migrated. The public identifier can shield external users from internal churn.
+
+This is an information version of an institutional front desk. The office may reorganize behind the door. Outsiders keep using the same public contact point.
+
+The analogy also reveals the burden. If nobody keeps forwarding the mail, the front desk stops being useful.
+
+There is another reason global naming matters for links: it lets relations be authored before the future use of the target is known.
+
+When a researcher publishes a dataset at a durable identifier, she cannot know which future papers, courses, audits, visualizations, models, or critiques will point to it. The name makes those future relations possible without requiring her to predict them.
+
+This is optionality encoded as addressability.
+
+The more stable the public name, the more cheaply unknown future actors can build around the object.
+
+That makes naming an investment decision. A disposable campaign URL says, implicitly, do not build much on this. A carefully maintained public identifier says the publisher expects the object to participate in a longer-lived graph.
+
+Users rarely receive those signals explicitly. Everything appears clickable. The interface does not tell us which edges are backed by institutions with a ten-year horizon and which are backed by a temporary content-management route.
+
+A mature Web could make durability more legible.
+
+A scholarly citation tool can recognize a DOI and prefer it over a temporary publisher URL.
+
+An archive can preserve a snapshot alongside the live address.
+
+A software system can expose immutable versions as well as moving aliases.
+
+A government site can publish stable document identifiers independent of its current design.
+
+A news organization can maintain permanent article routes through redesigns.
+
+These practices strengthen the graph without requiring the base URI system to enforce permanence universally.
+
+The same layered approach is useful for privacy and deletion. Not every address should persist forever. A private invitation link may be designed to expire. A password-reset link should expire. A temporary export may disappear after use. A person's sensitive information may need to be removed.
+
+The mistake is not impermanence.
+
+It is unmarked impermanence in contexts where other actors reasonably build durable relations.
+
+A system should know what kind of name it is issuing.
+
+This is increasingly important for AI and agents because machines are prolific consumers of identifiers. An agent can store a link in a task, cite it in a report, use it to retrieve a policy later, or hand it to another system. If the identifier names only a transient session state, the relation may fail immediately outside the original context.
+
+Machine-readable work therefore pressures software toward clearer distinctions among stable object identity, current location, temporary capability, user-specific state, and historical version.
+
+The browser let humans blur those distinctions for years because a person could often recover when a link behaved unexpectedly. Agents need stronger semantics if they are to operate reliably across time.
+
+The deepest property of an address is not that it tells a machine where to send packets.
+
+It gives a relationship somewhere to land.
+
+Without a stable target identity, edges dissolve into instructions.
+
+Go to the newspaper and search the headline.
+
+Open the project tool and find task 847.
+
+Launch the app and navigate to yesterday's order.
+
+Look in the archive for the version from last March.
+
+These instructions can work. They are expensive because every recipient must reconstruct the route.
+
+A good identifier compiles the route into a handle.
+
+That handle can outlive interfaces, software versions, and organizational charts if the institution maintaining it chooses to honor the promise.
+
+The Web made handles cheap enough to cover the world.
+
+The next chapter is about what people discovered once they were allowed to point those handles at one another without asking first.
