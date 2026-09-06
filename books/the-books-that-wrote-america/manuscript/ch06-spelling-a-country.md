@@ -118,6 +118,50 @@ That divergence included words borrowed from Indigenous languages and other sour
 
 Words carry ghosts.
 
+The institutional afterlife becomes clearest when Webster stops being Webster.
+
+After his death, editors revised the dictionary, new proprietors built a publishing business around it, and the name accumulated authority independent of the founder’s exact definitions. This is not merely a trademark story. It is a transition from authored reference work to maintained standard.
+
+Maintained standards have different virtues from monuments.
+
+A monument preserves. A dictionary must absorb change.
+
+New technologies generate new vocabulary. Immigration and cultural exchange add words. Scientific discovery revises meanings. Old senses become archaic. Slang becomes standard or disappears. Social movements contest labels once treated as ordinary. Pronunciations shift. Usage changes faster than any one editor can command.
+
+A useful dictionary therefore has to update without pretending that change is corruption.
+
+This creates a tension Webster himself embodied. He wanted enough prescriptive authority to stabilize American usage, but the long-run institution bearing his name had to become increasingly descriptive about what speakers actually do.
+
+The distinction between prescriptive and descriptive lexicography sounds technical. It is political in everyday life.
+
+Does the dictionary tell people how educated English ought to be used, or does it document how English is used? If enough speakers adopt a form once considered an error, when does the error become usage? Whose speech counts as evidence? Which regional, racial, occupational, or informal forms deserve entries rather than correction marks?
+
+The answer determines whether a reference work behaves as gatekeeper, recorder, or both.
+
+Modern dictionaries increasingly reveal their authority by explaining usage rather than simply issuing commands. That evolution is part of Webster’s afterlife even when it departs from his own preferences.
+
+Software has now moved the standard into another layer. Spellcheck, autocorrect, search engines, predictive text, grammar tools, voice recognition, and large language models all make decisions about “normal” language at immense scale. The red underline is a tiny descendant of the schoolmaster and dictionary editor.
+
+The consequences are familiar. A system can help millions write more consistently. It can also mishandle names, dialects, multilingual usage, new words, or communities underrepresented in its training data. Standards become automated, and automation can make a contingent choice feel more objective than a printed dictionary ever did.
+
+Webster’s chapter therefore reaches directly into the digital age.
+
+Who gets to define the default?
+
+A counterfactual keeps his role in proportion.
+
+If Webster’s 1828 dictionary had never appeared, American English would still have diverged from British English. Printers, teachers, immigrants, regional speech, politics, commerce, and geography were already producing differences. Other dictionaries and schoolbooks would compete to standardize usage. Some “American” spellings predated Webster; others might have won through different routes.
+
+The country would not speak British English forever because one lexicographer was absent.
+
+What changes is the institutional focal point.
+
+American linguistic independence loses its most ambitious early monument and one of its strongest educational distribution systems. The name “Webster” does not become shorthand for dictionary. Another publisher or authority may occupy that role, perhaps with different spelling choices and a different theory of what makes usage legitimate.
+
+That is enough to matter because standardization is path dependent. Once a school system, printer, or household adopts a convention, later users inherit it as the low-friction option.
+
+Small editorial choices can compound across generations.
+
 There were major competitors for the decade. James Fenimore Cooper’s *The Last of the Mohicans* appeared in 1826, just inside the span, and became one of the most internationally influential early American novels. It helped create durable myths of the frontier while also participating in distorted representations of Native peoples. Ralph Waldo Emerson’s first major books were still ahead. William Lloyd Garrison’s abolitionist newspaper began publication in 1831, but a newspaper is outside this book’s rules. Alexis de Tocqueville arrived in America in 1831, though *Democracy in America* would appear just beyond this decade’s boundary in 1835 and 1840 depending on volume.
 
 Cooper is the obvious literary winner.
