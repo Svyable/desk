@@ -353,3 +353,115 @@ Do they want me?
 The phone has become very good at producing numbers around the question.
 
 It has not become good at answering it.
+
+Metrics also alter the memory of success because they create an external score that can compete with the experience itself.
+
+A musician can leave a performance feeling that the room was alive and later discover that the clip posted from the show received little response. Which signal wins? A writer can receive a private message from one reader whose life changed while the public post appears to underperform. A young person can have a wonderful birthday and feel disappointed because photographs from it did not circulate as widely as another person’s.
+
+The measurable afterlife can revise the felt event.
+
+This is a peculiar inversion. The experience happens first. The metric arrives later. Yet the later number can become evidence about what the earlier experience was worth.
+
+Markets work this way because prices intentionally summarize distributed judgments. Human meaning does not compress as cleanly.
+
+A low-response photograph may have been seen by the only person who mattered.
+
+A tiny audience can contain the right audience.
+
+A popular post can create attention the author regrets.
+
+Scale and value sometimes move together and sometimes do not.
+
+The smartphone makes scale visible enough that it can become the default interpretation before a person remembers to ask what the original goal was.
+
+What did I want from this?
+
+That question is a useful antidote to metric drift.
+
+If the goal was to tell a sibling good news, one reply may be complete success.
+
+If the goal was to sell tickets, reach matters.
+
+If the goal was to meet a partner, match volume is useful only until it produces a relationship worth leaving the market for.
+
+If the goal was to make art, audience response is evidence but not the only standard of the work.
+
+Metrics become dangerous when they continue optimizing after the underlying intention has already been satisfied.
+
+This is another reason dating interfaces are revealing. The user’s ideal outcome may be to become an ex-user. The platform’s ongoing business can depend on maintaining a population of active users. That does not mean companies want relationships to fail; many explicitly market themselves on successful matches. It does mean user completion and platform continuation can sit in tension.
+
+The same tension exists in other products.
+
+The best navigation session ends at the destination.
+
+The best banking session ends after the transaction.
+
+The best health reminder disappears after the medication is taken.
+
+The best social metric may sometimes be the one that stops mattering after it has served the decision.
+
+Yet digital systems are unusually good at preserving scores.
+
+Historical counts remain on profiles. Followers accumulate. Streaks grow. Achievement becomes a number with a memory.
+
+A streak deserves special attention because it converts absence into loss.
+
+Two people who have exchanged messages for 237 consecutive days are no longer deciding only whether to communicate today. They are deciding whether to destroy 237 days of accumulated numerical continuity. The metric makes past behavior exert pressure on the next behavior.
+
+This can be delightful. Rituals hold friendships together. A shared streak can be a joke, a sign of affection, a reason to say hello.
+
+It can also turn a relationship into maintenance work.
+
+The question changes from “Do I have something to say?” to “Can I let the number die?”
+
+The number borrows emotional value from the relationship and returns behavioral pressure to it.
+
+This pattern appears throughout quantified life.
+
+Exercise rings.
+
+Learning streaks.
+
+Follower milestones.
+
+Daily check-ins.
+
+Message counts.
+
+The metric can motivate behavior that the person genuinely values. It can also survive after the value has weakened because losing accumulated progress feels costly.
+
+Measurement creates history, and history creates attachment.
+
+The mature response is not to strip numbers from every system. Quantification is one of the great tools of self-knowledge. Athletes need times. Businesses need revenue. Teachers need some measures of learning. Creators need evidence of reach. People trying to change habits may benefit from a streak precisely because continuity matters.
+
+The more important discipline is to keep the measure subordinate to the thing.
+
+When the score and the experience disagree, ask which one was supposed to serve which.
+
+That question becomes harder when the score sits on the same screen as the face.
+
+The glass is seductive because it can make desire look objective.
+
+Forty-seven matches.
+
+Twelve thousand views.
+
+Three unread messages.
+
+A seven-day streak.
+
+The number is precise.
+
+The need behind it remains human, ambiguous, and often impossible to settle by counting.
+
+Glass Face Syndrome is partly the mistake of returning to the instrument because the instrument is precise, even when the question is not measurable.
+
+Do they want me?
+
+Did I matter?
+
+Was that enough?
+
+The phone can count around the edges forever.
+
+At some point the answer has to leave the glass.
