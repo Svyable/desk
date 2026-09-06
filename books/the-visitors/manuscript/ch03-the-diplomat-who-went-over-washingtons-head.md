@@ -150,6 +150,38 @@ That distinction is another mark of state capacity. A government that cannot enf
 
 The Washington administration did not solve the problem permanently. No democracy can. But it established a precedent that an envoy is accredited to a government, not licensed to operate a parallel foreign policy through the public.
 
+The crisis also forced the administration to confront a less glamorous question: what did neutrality require on the waterfront? A proclamation in Philadelphia meant little if customs collectors, port officials, judges, shipowners, sailors, and local political leaders did not know what conduct crossed the line. Could a belligerent repair a warship in an American port? Could it bring a captured ship in as a prize? Could it recruit Americans? Could an American-owned vessel be converted into a French privateer after entering port? Each question translated high constitutional principle into a decision somebody had to make at a dock.
+
+That administrative layer is where sovereignty becomes observable.
+
+The United States had only recently created a federal customs service and federal courts capable of operating across the states. Genêt’s activity tested whether those new institutions could act consistently when local enthusiasm ran in another direction. A neutral policy that changed from Charleston to Philadelphia would not be neutral in any meaningful international sense. Britain judged American conduct by what happened to British ships, not by the elegance of Washington’s constitutional reasoning.
+
+The affair therefore connected executive authority to bureaucratic reach.
+
+Washington could announce a policy. Hamilton, Jefferson, and other officials could debate its meaning. But enforcement required an apparatus strong enough to make the policy true outside the cabinet room. The need to stop enlistments, control ports, adjudicate prizes, and communicate uniform rules helped turn neutrality from an opinion into administration.
+
+This is one reason the 1794 legislation matters. Law provided a more durable basis for punishing conduct that could embroil the country in war. It also reduced the need to improvise each incident as though the Constitution itself were on trial every time a ship sailed. Institutional maturity often looks like a crisis becoming routine enough to have a form, a statute, an office, and a procedure.
+
+Genêt arrived before the routine existed.
+
+He also exposed the problem of treaty succession after revolution. The United States had made its 1778 agreements with the French monarchy. By 1793 that monarchy was gone. Did a treaty with France survive the destruction of the regime that signed it? The Washington administration accepted that the treaties remained relevant, but that did not answer what they required in a new European war. Recognition of the French Republic, treaty interpretation, and neutrality had to be separated from approval of every French demand.
+
+That distinction would become foundational to state-to-state diplomacy. Governments change. Regimes fall. Revolutions replace constitutions. States nevertheless need rules for deciding which obligations persist. If every domestic upheaval erased every treaty automatically, international order would become radically unstable. If every old treaty compelled behavior regardless of changed circumstances or text, sovereignty would become equally brittle.
+
+Genêt forced the young republic to practice the distinction before it had much experience doing so.
+
+The affair also sharpens the counterfactual. Suppose Washington had tolerated French privateering and recruitment because public sympathy made enforcement politically costly. Britain would have had strong grounds to treat American territory as materially assisting its enemy. Commercial retaliation or war could have followed at a moment when the United States remained militarily weak and economically exposed. The country might have entered the European conflict not through a congressional decision or an attack requiring response, but through accumulated local acts the federal government failed to control.
+
+That possibility explains why neutrality could not remain rhetorical.
+
+The opposite counterfactual is also useful. Suppose the administration had responded to Genêt by suppressing pro-French speech rather than distinguishing speech from unauthorized military action. The government might have defended sovereignty by narrowing domestic political liberty. The actual crisis did not resolve this tension for all time—the later Alien and Sedition Acts would show how quickly Federalist fears of foreign influence could bleed into repression—but the Genêt affair itself established a more defensible line. Americans could praise France, organize politically, and attack the administration while still being forbidden to turn American ports into operational bases for a foreign war.
+
+That line is harder than either extreme.
+
+It asks a democracy to tolerate persuasion while regulating action. It asks officials to distinguish unpopular speech from conduct that changes the country’s legal position toward another state. Modern arguments about foreign influence, lobbying, propaganda, cyber activity, sanctions evasion, and material support still circle that distinction.
+
+Genêt’s technology was a privateer rather than a bot network. The constitutional problem is recognizable anyway.
+
 Among the other contenders for the 1790s, British minister George Hammond deserves attention as the first British diplomatic representative to the United States under the new constitutional order. The Jay Treaty negotiations and Anglo-American tensions were enormously consequential. French representatives after Genêt, including Jean Antoine Joseph Fauchet, also mattered. The XYZ Affair later in the decade involved French intermediaries whose demands pushed the United States toward the Quasi-War.
 
 Yet Genêt best captures the decade’s central institutional problem because his personal conduct forced multiple unsettled questions to converge.
