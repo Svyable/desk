@@ -219,3 +219,91 @@ Not claiming understanding.
 Just sitting there, waiting for the sentence “therefore the result follows.”
 
 Then asking for the object.
+
+There is a complication that became impossible to ignore in 2026: the compiler itself is software.
+
+Lean’s kernel is designed to be small and auditable, but “small” does not mean metaphysically perfect. Lean disclosed soundness bugs in 2026, including one class of issue that could undermine assumptions about checking in hostile settings. The details matter to formal-methods specialists, but the lesson for this book is simple: a trusted kernel is a dramatically smaller trust surface than millions of generated proof lines, not a supernatural guarantee that the implementation can never fail.
+
+That should improve the architecture rather than weaken confidence in formal methods.
+
+A high-stakes machine-generated proof needs checker diversity.
+
+Generate in one environment.
+
+Export a proof object or other sufficiently explicit artifact.
+
+Check it with the primary kernel.
+
+Run a comparator where available.
+
+Use an independently implemented external checker capable of failing differently.
+
+Pin versions and record hashes.
+
+Build in clean environments controlled by other groups.
+
+If the proof includes computational reflection or native computation, document exactly what enters the trusted base.
+
+This is the same logic used everywhere else in the book: correlated agreement is weaker than independent agreement.
+
+Formal verification does not end the chain of trust. It compresses the chain until independent checking becomes affordable.
+
+That is a tremendous achievement.
+
+Imagine the alternative. An AI system writes a twelve-million-line natural-language proof. The only way to verify it is to have humans read the twelve million lines. The generator has increased proof-production capacity by orders of magnitude while leaving proof-verification capacity human-scale. The result is useless abundance.
+
+A formal object changes the economics. The expensive generator can produce a huge artifact. A small checker can validate the logical object cheaply. A second independent checker can repeat the task. Human reviewers concentrate on target semantics, axiom choices, conceptual novelty, and the few interfaces where computation enters.
+
+This is how machine mathematics avoids becoming an arms race in unreadable prose.
+
+The compiler also creates a new research signal: *where formalization resists*.
+
+Some resistance is accidental. The library lacks a theorem. An abstraction is awkward. Automation is weak.
+
+Other resistance exposes real mathematics. A human proof says “standard compactness” but the formalizer cannot state a topology in which the sequence is precompact. A local energy argument suppresses a boundary term whose control depends on the domain. A limiting argument uses a selection principle with hypotheses nobody had written down.
+
+The system should distinguish infrastructure friction from conceptual friction.
+
+One agent class can diagnose missing-library problems: the required theorem is true, standard, and absent. Another can diagnose semantic problems: the informal argument requires a claim whose truth is not established. The two kinds of blockage should not share a status label.
+
+This matters for research management. Throwing more theorem-proving agents at a conceptual gap will create noise. Throwing PDE experts at routine library plumbing wastes human attention.
+
+The compiler can help route work.
+
+Formal developments also offer a powerful way to test whether a “new idea” is really new. Suppose a generated proof introduces a functional under unfamiliar notation. Once formalized, theorem search can discover that its key estimate follows from an existing library theorem after a change of variables. The conceptual novelty shrinks. That is useful information before publication claims inflate.
+
+Or the reverse happens. Formalization reveals that an apparently standard argument cannot be obtained from the current theory without one genuinely new lemma. The novelty becomes sharper.
+
+The checker thus participates in novelty triage indirectly by forcing equivalences into explicit form.
+
+There is another engineering practice mathematics should borrow: fuzzing.
+
+Software fuzzers bombard programs with strange inputs designed to trigger bugs. A mathematical analogue can bombard formal theorem statements with perturbations.
+
+Remove one hypothesis. Does the theorem still compile through an overlooked stronger lemma?
+
+Change a strict inequality to non-strict. Which dependency breaks?
+
+Swap periodic and whole-space domains. Does a hidden abstraction make them accidentally identical?
+
+Replace a smooth input type with the exact Clay class. Where do proof obligations appear?
+
+This is not proving the desired theorem. It is testing the formal specification for brittleness and accidental strength.
+
+A target package should survive such adversarial mutation with understandable failures.
+
+The same applies to computational certificates. Change precision, checker implementation, serialization, architecture, and machine. If the result is mathematically exact, the certificate should remain verifiable across those environmental changes.
+
+Portability becomes a proxy for trust.
+
+The ultimate goal is a theorem artifact that future mathematicians can verify after the original models, operating systems, cloud accounts, and corporate teams are gone.
+
+Think a century ahead.
+
+Will someone be able to recover the statement, rebuild the proof with documented tools or port it to successors, and understand the trusted assumptions?
+
+Mathematics normally aspires to that timescale almost unconsciously. Euclid’s proofs outlived every institution around them. An AI-generated proof dependent on a proprietary 2026 service should aspire to the same durability.
+
+The formal artifact is not merely a way to satisfy today’s checker.
+
+It is a way to make machine-produced mathematics survive its machines.
