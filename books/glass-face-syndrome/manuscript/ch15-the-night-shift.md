@@ -441,3 +441,77 @@ Let the world close selectively.
 The smartphone made closing time optional.
 
 Sleep still requires one.
+
+There is a larger historical pattern hiding in the nightstand. Technologies that extend productive or social time have often been celebrated first for overcoming natural or institutional limits. Artificial light extended the evening. Radio and television filled the night with scheduled culture. Electricity made domestic life less dependent on daylight. Twenty-four-hour commerce made cities less tied to closing time.
+
+The smartphone extends not just wakeful activity but participation.
+
+The person can remain socially and economically present after the body has entered a room designed for withdrawal.
+
+That is a different kind of extension.
+
+Electric light lets you read at midnight. The smartphone lets midnight ask something of you.
+
+The distinction is agency.
+
+A lamp waits to be turned on.
+
+A connected device can contain live claims from elsewhere.
+
+This is why night design should focus not only on luminance but on summons. A perfectly dim screen can still deliver the message that changes the next hour. A bright e-reader may keep someone awake through a novel, but it does not usually contain the boss, former partner, market, family crisis, and breaking news in adjacent tabs.
+
+The content topology matters.
+
+A sleep intervention that changes screen color while leaving every social and work channel open may improve one mechanism while leaving the stronger behavioral route untouched.
+
+This is another reason research based on “screen exposure” needs interpretation. Two hours of video calling with a partner across an ocean, two hours of doomscrolling, two hours of reading an ebook, and two hours of work chat are all luminous screen use. Their effects on arousal, emotion, obligation, and bedtime can differ substantially.
+
+The common variable is that the phone gives each activity bedroom access.
+
+That suggests a better unit for the night: not screen minutes, but boundary crossings.
+
+How many times did the day reopen after the person intended it to close?
+
+One message may be enough if it reactivates work anxiety for forty minutes.
+
+An hour of a calm audiobook may help someone sleep.
+
+The clock alone cannot distinguish them.
+
+The same is true in the morning. A five-second notification can decide the emotional weather of the first hour. A long stretch reading a chosen book on the same device may preserve the morning the person wanted.
+
+The device is not the unit.
+
+The transition is.
+
+This gives households and individuals more options than “no phones in bedrooms.” They can ask which functions deserve to cross the sleep boundary.
+
+Alarm: yes.
+
+Emergency calls: yes.
+
+Routine work chat: no.
+
+Promotions: no.
+
+News alerts: perhaps no.
+
+A long-distance partner: perhaps yes.
+
+A white-noise application: yes.
+
+A feed with no ending: probably not if the stated goal is sleep.
+
+The exact list will differ. The important move is to replace default access with jurisdiction.
+
+The bedroom should have a constitution.
+
+That sounds grand for a nightstand setting. The smartphone made it necessary by turning one object into a border crossing for the whole world.
+
+Rest is not the absence of productivity.
+
+It is a biological and psychological condition the next day depends on.
+
+A society capable of networking every hour does not become wise by using every hour.
+
+The mature technology will know when reachability should end without requiring the exhausted user to negotiate the entire internet every night.
