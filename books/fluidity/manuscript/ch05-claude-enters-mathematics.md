@@ -273,3 +273,79 @@ Repeat until either the graph closes or the research produces something valuable
 This is not a prediction that it will work.
 
 It is the first time the words *how it could work* can be written without magic.
+
+There is one further distinction that changes how the Fermat result should be read: reconstruction at scale can itself improve discovery infrastructure.
+
+A formalization is not only a checked monument to a theorem already known. It creates a searchable, typed, executable map of mathematical dependencies. Definitions that once lived in prose become objects agents can manipulate. Lemmas that were implicit become reusable interfaces. Proof obligations that human experts discharged through context become explicit edges.
+
+That matters because research agents need a world in which they can ask precise counterfactual questions.
+
+What breaks if this hypothesis is weakened?
+
+Which downstream theorems depend on this lemma?
+
+Can this intermediate result be generalized without increasing the axiom footprint?
+
+Is there another proof of this node that avoids a library component we do not trust?
+
+Which parts of the proof use the arithmetic nature of the problem and which are generic formal infrastructure?
+
+A huge formalization makes those questions computationally tractable in a way a PDF does not.
+
+The same mechanism is beginning to appear outside number theory. By 2026, large machine-assisted Lean developments were reaching modern PDE and stochastic analysis. A public project formalized global Leray–Hopf weak existence for three-dimensional incompressible Navier–Stokes while explicitly refusing to claim smoothness or uniqueness. That is exactly the kind of boundary-aware artifact this book wants.
+
+The important sentence is not “AI has formalized Navier–Stokes.”
+
+It is “part of the known Navier–Stokes theory now has a machine-checkable frontier.”
+
+Once weak existence sits inside a formal environment, a new smoothness argument can connect to a trusted baseline instead of rebuilding the definition of a weak solution from scratch. A regularity criterion can be attached above it. A candidate theorem can show exactly where it strengthens the known result. The formal system can display the open edge between “global weak solution exists” and “the solution stays smooth and unique in the required sense.”
+
+That open edge is a better research object than the phrase *Millennium problem*.
+
+Anthropic’s role in this ecosystem is therefore less exclusive than the title may suggest. The company is the protagonist, not the owner of machine mathematics. OpenAI has reported model-generated research advances with formal certificates. DeepMind has developed formal and semi-formal mathematics systems and contributed to AI-assisted fluid singularity discovery through collaborators. Academic formalizers are building PDE infrastructure. Open-source communities maintain Mathlib and independent checkers.
+
+This competition improves the premise.
+
+A future Anthropic Navier–Stokes proof should be attacked by systems Anthropic did not train.
+
+If OpenAI can independently reprove a central lemma, that is useful. If a DeepMind system finds a counterexample, more useful. If an open Lean community rebuilds the theorem statement and finds a mismatch, invaluable. The goal is not to preserve Anthropic’s victory condition. It is to destroy every version of the claim that is not mathematics.
+
+This changes what “Claude enters mathematics” means.
+
+It does not mean Claude walks into a silent room and becomes the mathematician.
+
+It means Claude enters an adversarial civilization of proofs, libraries, other models, reviewers, journals, numerical analysts, and institutions whose job is to refuse premature certainty.
+
+That is a much harder environment than a benchmark.
+
+It is also a healthier one.
+
+Benchmarks reward producing a known answer. Research communities reward results that survive other people trying to make them false. A model can score highly on one and fail catastrophically at the other because the second requires provenance, novelty judgment, target discipline, and the ability to live with unresolved uncertainty.
+
+The Riemann episode is encouraging precisely because the grand target did not collapse. The attempt yielded something narrower that human mathematicians could inspect. That pattern is scientifically credible. Most ambitious research programs should produce adjacent results before they produce the headline theorem.
+
+Navier–Stokes gives us a way to measure whether the institution is learning from those adjacent results.
+
+Does a new criterion narrow the catastrophe specification?
+
+Does a formalized theorem remove ambiguity from the dependency graph?
+
+Does a failed numerical singularity produce a reusable no-go condition?
+
+Does a new PDE library reduce the cost of formalizing the next paper?
+
+Does a model-generated lemma survive independent proof?
+
+Does a six-billion-token run leave the system less likely to waste the next six billion in the same way?
+
+If the answer is no, scale is theater.
+
+If the answer is yes, even an unsolved Millennium problem can generate compounding scientific capital.
+
+That may be the most important lesson of Anthropic’s first visible entrance into serious mathematics.
+
+The result is not that intelligence has become a theorem vending machine.
+
+The result is that mathematical labor can now be organized at a scale where verification, memory, and coordination become first-class research variables.
+
+Navier–Stokes is where we find out whether those variables can help produce an idea nobody has yet had.
