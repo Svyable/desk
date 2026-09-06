@@ -2,22 +2,27 @@
 
 ## Release decision — September 5, 2026
 
-**Remain blocked pending bounded research and mechanical remediation.**
+**Remain blocked pending bounded research and manuscript expansion.**
 
-The manuscript is structurally complete: the canonical README declares a Complete Desk draft with 24 of 24 numbered chapters, and its checked Reader manifest includes front matter, all 24 chapters, and back matter. Front and back matter are present. This review also adds the repository-standard `bookself-arr-v1` rights package that was previously missing.
+The manuscript is structurally complete: the canonical README declares a Complete Desk draft with 24 of 24 numbered chapters, and its checked Reader manifest includes front matter, all 24 chapters, and back matter. Front and back matter are present. The repository-standard `bookself-arr-v1` rights package is now present.
 
-The release is not yet cleared because the current research packet does not support a publication-grade claim audit. The source ledger is a useful thematic bibliography, but it uses the older columns `domain,source,url,use,falsification_note` rather than Desk's canonical source-ledger schema, and many rows point to institution homepages rather than dated source documents. That is especially material for a book whose thesis depends on freshness and whose chapters cover medicine, economic data, AI governance, news, conflict, climate, law, and politics.
+Two objective blocker classes remain.
+
+First, the current research packet does not support a publication-grade claim audit. The source ledger is a useful thematic bibliography, but it uses the older columns `domain,source,url,use,falsification_note` rather than Desk's canonical source-ledger schema, and many rows point to institution homepages rather than dated source documents. That is especially material for a book whose thesis depends on freshness and whose chapters cover medicine, economic data, AI governance, news, conflict, climate, law, and politics.
+
+Second, the mechanical full-book standard is not currently reachable without manuscript expansion. The generated Desk catalog records **50,337 words for the entire manuscript directory**, including front and back matter. The standard release gate requires at least **65,000 numbered-chapter words**, so the chapter-only total is necessarily below the minimum by more than 14,663 words. An all-chapter length run is still required after expansion, but the current snapshot is already mechanically blocked on total length.
 
 ## Concrete remediations
 
-1. **Normalize the source ledger.** Migrate `research/source-ledger.csv` to Desk's canonical seven fields: `id,year,author_or_institution,title,source_type,book_use,url`, preserving the existing falsification boundaries in a companion review/falsification note rather than dropping them.
-2. **Replace generic landing pages for material claims.** For time-sensitive chapters, attach dated, claim-level primary or authoritative sources rather than relying on FDA, CDC, Census, BLS, FRED, SEC, FEMA, NCES, NOAA, NIST, or similar homepages as if the institution itself proved a specific proposition.
-3. **Run a claim-level freshness pass.** At minimum recheck Chapters 6–17 and 19–22 for material dated/current claims, with special attention to clinical guidance, revised economic statistics, model drift/AI governance, media correction norms, autonomous-weapons governance, climate observations, public-policy timing, and data-rights claims. Record the strongest counterevidence or scope limit for each material claim that survives.
-4. **Add a chapter/source map or equivalent factual-review record.** The release packet needs enough traceability to show which evidence supports which chapter and which claims are intentionally conceptual rather than empirical.
-5. **Run the mechanical book gate on the frozen candidate.** Require `scripts/check-book-length.py the-half-life-of-now` to pass the standard chapter-count, per-chapter minimum, and chapter-only total thresholds.
-6. **Run Desk repository integrity on the same frozen candidate.** Require `python3 scripts/check-desk.py` to pass after the source-ledger migration and any catalog regeneration required by the final release candidate.
+1. **Expand the manuscript substantively.** Add at least enough chapter prose to bring numbered-chapter words to 65,000 while preserving the argument and avoiding padding. Because the current 50,337-word catalog count includes front/back matter, the required chapter expansion is greater than 14,663 words.
+2. **Normalize the source ledger.** Migrate `research/source-ledger.csv` to Desk's canonical seven fields: `id,year,author_or_institution,title,source_type,book_use,url`, preserving the existing falsification boundaries in a companion review/falsification note rather than dropping them.
+3. **Replace generic landing pages for material claims.** For time-sensitive chapters, attach dated, claim-level primary or authoritative sources rather than relying on FDA, CDC, Census, BLS, FRED, SEC, FEMA, NCES, NOAA, NIST, or similar homepages as if the institution itself proved a specific proposition.
+4. **Run a claim-level freshness pass.** At minimum recheck Chapters 6–17 and 19–22 for material dated/current claims, with special attention to clinical guidance, revised economic statistics, model drift/AI governance, media correction norms, autonomous-weapons governance, climate observations, public-policy timing, and data-rights claims. Record the strongest counterevidence or scope limit for each material claim that survives.
+5. **Add a chapter/source map or equivalent factual-review record.** The release packet needs enough traceability to show which evidence supports which chapter and which claims are intentionally conceptual rather than empirical.
+6. **Run the mechanical book gate on the expanded frozen candidate.** Require `scripts/check-book-length.py the-half-life-of-now` to pass the standard chapter-count, per-chapter minimum, and chapter-only total thresholds.
+7. **Run Desk repository integrity on the same frozen candidate.** Require `python3 scripts/check-desk.py` to pass after the source-ledger migration and any catalog regeneration required by the final release candidate.
 
-If items 1–4 complete without identifying a substantive blocker, and items 5–6 pass on one frozen Desk SHA, this review may be updated to release-cleared. No separate human-review requirement is created by this note.
+If items 1–5 complete without identifying a substantive blocker, and items 6–7 pass on one frozen Desk SHA, this review may be updated to release-cleared. No separate human-review requirement is created by this note.
 
 ## Scope and novelty boundary
 
@@ -29,8 +34,8 @@ The adjacent concepts already named in the packet — Samuel Arbesman's changing
 
 - Front matter: present.
 - Back matter / epilogue: present.
-- Rights notice: added in this readiness pass.
-- Machine-readable rights metadata: added in this readiness pass.
+- Rights notice: present.
+- Machine-readable rights metadata: present.
 - Copyright owner: Sven Hardy Benson.
 - Rights profile: `bookself-arr-v1`.
 
