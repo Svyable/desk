@@ -261,3 +261,57 @@ Then ask whether we can build an overlap without erasing the difference.
 A message made of skin does not need to become speech to reach us.
 
 We may need to invent a new body for the conversation.
+
+That new body will create new scientific obligations because every interface has affordances and blind spots.
+
+A human keyboard assumes fingers, vision, learned symbols, and the ability to tolerate a flat surface at arm’s length. None of those assumptions is neutral. Animal interfaces are even more constrained. A device can fail because the target is too small, the contrast is poor, the sound is outside a comfortable range, the surface is unpleasant, the response latency is confusing, or the consequence is not worth the effort.
+
+When a human user fails to use a product, designers usually blame usability eventually.
+
+When an animal fails to use a device, humans are tempted to blame cognition.
+
+That is a dangerous asymmetry.
+
+Before concluding that an animal cannot communicate through an interface, we should ask whether we built an interface the animal can perceive, operate, and trust.
+
+This sounds like ordinary design research because it is. The difference is that the user cannot fill out a survey afterward.
+
+The animal’s pattern of approach, withdrawal, repetition, abandonment, accidental activation, persistence, and successful consequence becomes the usability report.
+
+That means the third language should borrow one of the best habits from human-centered design: treat failure as information about the interface, not only about the user.
+
+Imagine a dolphin research device that produces synthetic whistles but requires the animal to approach within a range it usually avoids. Failure to engage may say nothing about the signal. Imagine a horse choice interface installed in a location associated with restraint. The site itself may overwhelm the intended option. Imagine a parrot touchscreen whose visual elements make sense to human eyes but not to avian perception.
+
+The medium enters the message before the animal has made a choice.
+
+A truly interspecies interface therefore needs at least two rounds of validation.
+
+First: can the animal perceive and operate the channel reliably without the semantic task?
+
+Second: once the channel is usable, do learned signals produce the intended reciprocal consequences?
+
+Only then should we begin making claims about symbolic understanding.
+
+This distinction could prevent years of confusion. Researchers often ask sophisticated cognitive questions through apparatus that imposes hidden sensory or motivational demands. The same risk will multiply when engineers arrive with beautiful hardware and large models.
+
+The cuttlefish should be the mascot for refusing one-size-fits-all design.
+
+It reminds us that communication can be distributed across the body in ways no standardized human interface anticipates.
+
+It also reminds us that the receiver can be physically located relative to the signal. A display meant for one side of the body is not merely information; it is addressed in space.
+
+Future systems may need to preserve such geometry rather than convert everything into a broadcast token. A robotic display could orient toward one animal and remain neutral toward another. An acoustic system could beam or localize sound. An electric interface could operate only within a short field. A visual cue could be positioned where one individual, but not another, can see it.
+
+That is not technical ornamentation.
+
+It is part of meaning.
+
+Humans have built digital communication around the idea that content can be separated from recipient. We copy, forward, repost, archive, and broadcast messages effortlessly. Animal systems may punish that assumption. The same signal delivered to the wrong audience can have a different effect or create a conflict that never existed in the original exchange.
+
+A receiver-specific elephant call, a copied dolphin signature whistle, a territorial bird signal, or a split cuttlefish display all contain versions of the same lesson.
+
+Who gets the message is part of the message.
+
+The third language will therefore require a technology of address as much as a technology of decoding.
+
+And because humans will build the machines, we will have to become responsible for the audiences our machines create.
