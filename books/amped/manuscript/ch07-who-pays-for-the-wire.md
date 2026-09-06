@@ -271,3 +271,31 @@ It is healthier than pretending electricity infrastructure is free because the c
 The kilowatt-hour is only what passes through the wire.
 
 The expensive part is deciding who had to believe in the wire before it was there.
+
+A further complication appears when the line is useful but the **timing** is not. Suppose a regional corridor would probably have been built in 2038 under ordinary growth, but a cluster of data centers makes it necessary in 2029. Saying the data centers caused the whole line exaggerates their responsibility. Saying the system would have needed it anyway understates what changed. The economic effect is the acceleration itself.
+
+Advancing a multibillion-dollar asset by nine years has a real cost. Capital is tied up sooner. Customers begin paying depreciation and return sooner. Siting battles arrive sooner. Equipment must be secured sooner. On the other hand, the earlier line may unlock generation, reduce congestion, and attract other industrial users sooner as well.
+
+This is why **time-shifted cost causation** deserves to become a standard part of large-load analysis.
+
+The regulator can ask a counterfactual question: under a reasonable no-project forecast, when would this asset have been needed? The answer will never be exact, but even a range is useful. It separates the cost of bringing an investment forward from the cost of creating an asset that otherwise had no plausible system need.
+
+That distinction can produce better bargains. The initiating customer can contribute toward the acceleration risk. The broader system can pay for benefits that are demonstrably broader. If later customers arrive and use the capacity, some mechanisms can credit or rebalance the first customer's contribution rather than letting the first mover finance everyone forever.
+
+The same logic can prevent a different injustice: charging a new customer for decades of deferred maintenance that the system already needed. If a utility has tolerated an aging or constrained corridor and a data center finally pushes it past the threshold, the customer should not automatically inherit the entire bill for a preexisting weakness. “Triggered by” and “caused by” are not always the same thing.
+
+This matters because cost allocation changes behavior upstream. A developer deciding among sites will prefer places where existing infrastructure has headroom. A utility that can show transparent upgrade rules gives developers a clearer price signal. A regulator that distinguishes dedicated, accelerated, and broadly beneficial investment reduces the incentive for every participant to exaggerate its side of the story.
+
+The customer cannot plausibly claim the line is public whenever the bill arrives and private whenever capacity is scarce.
+
+The utility cannot plausibly claim the line is customer-specific when assigning costs and systemwide when defending the investment later.
+
+Consistency is part of fairness.
+
+The best cost-allocation regime therefore does more than collect enough money. It creates a record of why an asset was approved, which benefits justified broader sharing, which risks the initiating customer agreed to absorb, and what happens if later events change the beneficiary map.
+
+Thirty years from now, nobody should have to reconstruct the bargain from a press release.
+
+The wire will still be there.
+
+The reasons for building it should survive too.
