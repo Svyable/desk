@@ -201,3 +201,71 @@ The Model 1861 was one of the first times the United States had to do that under
 The factories answered.
 
 So did the battlefields.
+
+The numbers sharpen the distinction between having industry and mobilizing it.
+
+Springfield Armory's own historical interpretation credits the armory with producing roughly eight hundred thousand interchangeable rifle-muskets during the Civil War. The Smithsonian, counting the Model 1861 family across Springfield and approximately twenty private contractors, gives an estimate around one million weapons. Those numbers need not be forced into false precision; model changes and contract variants complicate the ledger. What matters is the magnitude and the architecture behind it.
+
+A government factory that began the 1790s with forty workers and hundreds of muskets had become the reference point for a national production network delivering rifles by the hundreds of thousands.
+
+That was not simply “more manufacturing.”
+
+It was manufacturing that could expand without abandoning a common pattern.
+
+Interchangeability becomes strategically important at exactly the moment surge begins. If every contractor's rifle is a locally unique craft object, distributed production creates a repair nightmare. If government gauges, drawings, inspection and patterns hold tolerances closely enough, the state can add factories without multiplying incompatibility at the same rate.
+
+The Civil War did not achieve perfect uniformity. Emergency arms purchases produced astonishing variety. Imported Enfields remained crucial. Units could carry different weapons. Ammunition supply could still be confusing. The point is not that standardization eliminated friction.
+
+It made large-scale coordination less impossible.
+
+The private contractors also reveal an uncomfortable feature of emergency industrial policy. War creates manufacturers faster than peacetime markets would. A contract can finance a factory, and the promise of a contract can attract speculators who know more about politics than production. Some firms deliver. Some fail. Some overcharge. Some need advances. Inspectors become gatekeepers between urgency and quality.
+
+The mixed record is not evidence that contracting itself was a mistake.
+
+It is the price of trying to expand output faster than existing institutions were designed to grow.
+
+The Confederacy faced the same problem with much less room for error.
+
+Springfield's NPS history estimates that the South entered the war with roughly 285,000 to 300,000 military firearms accumulated through state arsenals, earlier federal transfers, purchases and other sources. That stock was substantial enough for a short conflict. It was not a substitute for the ability to replenish a long one. The same NPS account estimates Confederate domestic shoulder-arms production over the war at roughly 107,000.
+
+The comparison should be handled cautiously; imported arms, captured weapons and repaired stocks were enormously important to Confederate supply. It still exposes the asymmetry.
+
+Inventory can conceal industrial weakness at the beginning of a war.
+
+A warehouse is a snapshot.
+
+A factory is a rate.
+
+The distinction becomes more important the longer the conflict lasts.
+
+The Confederacy understood the problem so well that machinery from the captured Harpers Ferry Armory became strategic loot. Virginia forces seized equipment that could help establish Confederate production at Richmond and elsewhere. The tools mattered because the South could not improvise mature arms-making machinery merely by possessing iron and skilled workers.
+
+Here John Hall's chapter returns in a harsher form.
+
+Machine tools are transferable state capacity.
+
+A milling machine captured from an armory can be worth more over four years than a rack of finished rifles captured beside it because the rifle is consumed once while the machine keeps generating capability.
+
+This is why industrial warfare creates targets far from the front. Factories, bridges, rail junctions, depots, ports and machine shops become military objectives because they determine the future flow of force. The Civil War was not the first conflict to recognize that fact, but the scale of American rail, manufacturing and mobilization made it increasingly explicit.
+
+The Model 1861 gives the abstraction a human scale.
+
+One rifle can be held.
+
+A million cannot.
+
+The number forces us to imagine buildings, shifts, tool wear, timber supply, barrels, locks, inspectors, boxes, invoices, railcars and hands repeating the same operations until national policy becomes inventory.
+
+The rifle-musket's muzzleloader mechanism can look obsolete beside the repeater.
+
+Its production system looks less obsolete with every decade that follows.
+
+World War I will ask whether American industry can create modern automatic weapons quickly enough after entering late.
+
+World War II will ask whether peacetime standards and factories can expand into global abundance.
+
+The 2020s will ask a familiar question in a new technological vocabulary: how many precision munitions can the factories actually replace per month?
+
+The mechanism changes.
+
+The rate remains strategy.
