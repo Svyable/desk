@@ -61,21 +61,36 @@ The selections most likely to attract legitimate challenge are also among the bo
 - **2000s — HITECH:** electronic records already existed. The hinge is acceleration toward national infrastructure through incentives, certification, and use requirements.
 - **2020s — CHIPS:** the decade and implementation are unfinished; the strongest current claim is the return of explicit capacity-building industrial policy, not a guaranteed manufacturing renaissance.
 
+## Mechanical validation — September 6, 2026
+
+The exact repository checker was run against Desk main `f0d41eed0d379b436db2fa83a7c20229fc7692f5`.
+
+- 26 numbered chapters are present.
+- Chapter-only total is **68,901 words**, above the 65,000-word book minimum.
+- Only Chapters 18 and 23–26 meet the 3,000-word chapter floor.
+- **21 chapters are below 3,000 words**, ranging from 2,279 to 2,910 words.
+- The largest deficits are Chapter 11 (721 words), Chapter 22 (679), Chapter 15 (664), Chapter 6 (662), Chapter 8 (661), Chapter 14 (661), and Chapter 12 (657).
+
+This is substantive depth debt, not a mechanical formatting defect. The manuscript must be deepened chapter by chapter; padding is not an acceptable remediation.
+
+The same validation run also showed that current Desk main fails `scripts/check-desk.py` for repository-wide research-schema debt and, specifically for this title, because `books/the-other-250/research/source-ledger.csv` still uses the older `source_id,chapter,accessed_date,publication_date,...` schema rather than the current canonical seven-column source-ledger schema. The temporary validation workflow itself was not merged and was closed after recording the results.
+
 ## Release decision
 
-**Desk manuscript decision: READY FOR COMPLETE-DRAFT STATUS.**
+**Desk manuscript decision: COMPLETE DRAFT, REMAINS A PUBLICATION CANDIDATE.**
 
-The book has a complete narrative arc, twenty-six chapter selections, a research trail, explicit counterclaims, rights metadata, front matter, and a substantive coda. No known structural manuscript blocker remains.
+The book has a complete narrative arc, twenty-six chapter selections, a research trail, explicit counterclaims, rights metadata, front matter, and a substantive coda. No known factual or structural manuscript blocker remains.
 
-**Shelf decision: PUBLICATION CANDIDATE, subject to repository integration and rendered-reader checks.**
+**Shelf decision: REMAIN BLOCKED pending precise objective remediations.**
 
 Before a Shelf snapshot is labeled a released first edition:
 
-1. Merge the complete Desk manuscript onto the current `main` without overwriting newer catalog state.
-2. Regenerate the Desk catalog from the canonical book README using the repository’s current catalog tool.
-3. Verify the Desk Reader discovers all twenty-eight manuscript surfaces: front matter, twenty-six chapters, and back matter.
-4. Verify Markdown rendering, navigation order, title/subtitle/author metadata, and rights links.
-5. Snapshot to Shelf using the current Bookself/Shelf release mechanism rather than manually inventing a parallel publication format.
-6. Record the edition’s factual horizon for Chapter 26 as September 6, 2026.
+1. Deepen all twenty-one sub-3,000-word chapters until every numbered chapter clears 3,000 words without padding or filler.
+2. Re-run `python3 scripts/check-book-length.py the-other-250` on one frozen Desk source and require `healthy: true`.
+3. Migrate `research/source-ledger.csv` to the current Desk source-ledger schema without losing chapter mapping, source dates, claim/use detail, URLs, or caution notes.
+4. Reconcile then-current Desk catalog/discovery state and run `python3 scripts/check-desk.py` on the same candidate source; the candidate must introduce no unresolved title-specific integrity failure.
+5. Verify the Desk Reader discovers all twenty-eight manuscript surfaces: front matter, twenty-six chapters, and back matter, with correct order and metadata.
+6. Snapshot to Shelf using the current Bookself/Shelf release mechanism rather than manually inventing a parallel publication format.
+7. Record the edition’s factual horizon for Chapter 26 as September 6, 2026.
 
-If those integration checks pass, there is no editorial reason in this review to hold the first edition.
+The release review remains substantively favorable, but publication clearance is not granted until those objective gates pass.

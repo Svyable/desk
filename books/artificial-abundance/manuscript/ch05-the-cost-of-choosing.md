@@ -172,6 +172,12 @@ The decision still has consequences.
 
 Generation time can collapse while governance time expands.
 
+The important cost may therefore move across the organizational chart rather than disappear. The person requesting another analysis experiences almost no marginal production cost. The people who must read, reconcile, approve, defend, and implement it pay the rest. Cheap generation can make a request privately rational while making the decision process collectively worse.
+
+That is a cost-incidence problem. The machine lowers the price faced by the sender without necessarily lowering the price faced by the institution.
+
+Once that happens, organizations need some way to make the downstream burden visible. Otherwise the easiest person to satisfy—the requester—can keep creating work for the scarcest people in the loop.
+
 There is another cost that cheap analysis can hide: decay.
 
 Some decisions become worse while they wait.

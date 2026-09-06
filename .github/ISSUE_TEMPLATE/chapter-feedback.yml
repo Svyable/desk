@@ -20,6 +20,7 @@ body:
         - adjacency
         - agentile
         - aggregate-consolidate-innovate
+        - algorithmic-influence
         - allocating-intelligence
         - americas-got-a-spending-problem
         - appeal
@@ -33,6 +34,7 @@ body:
         - chiptastrophy
         - chokepoint
         - commit
+        - deceptatron
         - democraicy
         - energy-value-intelligence
         - exponential-compression
@@ -40,7 +42,7 @@ body:
         - fiscal-wall
         - gatekeepers
         - gradient-ascent
-        - imenent
+        - hallucinations
         - intelligence-state
         - keep-cooking
         - leveraging-luck
@@ -98,6 +100,7 @@ body:
         - the-mortality-discount
         - the-never-ending-intelligence
         - the-orphan-age
+        - the-other-250
         - the-potentiality
         - the-reliability-tax
         - the-republic-in-motion
@@ -111,6 +114,7 @@ body:
         - the-unobserved-world
         - the-value-stack
         - the-vanishing-bid
+        - the-visitors
         - the-waiting-list
         - the-warning-problem
         - the-weather-we-build
@@ -124,32 +128,7 @@ body:
         - useful-noise
         - vectors
         - vibecariously
+        - who-taught-america
         - wild-speculation
-    validations:
-      required: true
-  - type: input
-    id: location
-    attributes:
-      label: Where in the book?
-      description: Chapter name, or a few words from the passage.
-      placeholder: e.g. Chapter 2, the paragraph starting with…
-    validations:
-      required: true
-  - type: dropdown
-    id: kind
-    attributes:
-      label: What kind of feedback?
-      options:
-        - Typo
-        - Clarity
-        - Structure
-        - Bigger idea
-    validations:
-      required: true
-  - type: textarea
-    id: details
-    attributes:
-      label: Details
-      description: What would you change, and why?
     validations:
       required: true

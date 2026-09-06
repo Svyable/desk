@@ -143,6 +143,7 @@ It may be the machine that learns which fragment of reality is enough.
 
 - [Research brief and falsification notes](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
 
 ## Rights
 
