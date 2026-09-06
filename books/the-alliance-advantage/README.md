@@ -11,7 +11,7 @@
 | **Chapters** | 18 of 18 + prologue |
 | **Edition** | First complete draft |
 | **Language** | English |
-| **Release Review** | Remain blocked pending the bounded implementation-evidence remediations in `research/editorial-review.md` |
+| **Release Review** | Remain blocked pending the bounded Chapters 7–18 claim-level pass and mechanical validation in `research/editorial-review.md`; implementation-evidence remediation completed September 6, 2026 |
 
 The central thesis is that alliances create durable power only when political promises become interoperable systems. In the AI age that means more than common weapons: data, models, clouds, identity, communications, logistics, standards, munitions, industrial capacity, permissions, testing, and the human ability to operate together under pressure.
 
@@ -46,5 +46,6 @@ This Desk edition completes the 18-chapter argument as a first full manuscript w
 ## Research
 
 - [Research brief, chapter map, and falsification tests](research/README.md)
+- [Implementation evidence remediation — September 6, 2026](research/implementation-evidence-2026-09-06.md)
 - [Source ledger](research/source-ledger.csv)
 - [Editorial release review](research/editorial-review.md)
