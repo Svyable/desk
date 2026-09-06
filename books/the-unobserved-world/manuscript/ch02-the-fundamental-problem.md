@@ -181,3 +181,35 @@ That is why the unobserved world is not a philosophical curiosity at the edge of
 We cannot watch two histories for the same person.
 
 But we can design institutions that remain capable of being surprised by history they did not expect.
+
+There is one more consequence of the fundamental problem that becomes important once decisions are automated: institutions can confuse a missing comparison with a settled category.
+
+A threshold creates names. Approved and declined. Admitted and rejected. Tested and untested. Funded and unfunded. The names are operationally useful because an institution has to do something. But once the decision has been made, the category can begin to look descriptive rather than procedural.
+
+The rejected applicant becomes a “non-hire.” The declined borrower becomes “high risk.” The untested patient becomes “low concern.” The unfunded proposal becomes “low priority.”
+
+Those labels may summarize a reasonable decision. They do not reveal the outcome under the path that was not taken.
+
+This matters when records travel farther than the decision that created them. A later manager may see the disposition without seeing the uncertainty around it. A future model may ingest the category as if it were a fact about the person rather than the residue of an earlier policy. A dashboard may count the decision cleanly while forgetting how close the case was to the line.
+
+The institution has converted a choice into a feature.
+
+That conversion is sometimes unavoidable. Historical decisions are part of the world. A previous denial can affect later behavior; an earlier placement can change coursework; a prior diagnosis can alter treatment. The decision becomes causal history.
+
+But causal history is different from intrinsic identity.
+
+A careful data system can preserve that distinction by retaining enough context to reconstruct how the category was produced. What rule applied? What threshold? What evidence was available? How uncertain was the estimate? Was the case near the boundary? Was the policy later changed? Did another institution observe an outcome the original decision prevented this institution from seeing?
+
+These questions do not require every organization to become a causal-inference laboratory. They require the record to admit that decisions have provenance.
+
+Without provenance, yesterday's policy can harden into tomorrow's ground truth.
+
+That is especially dangerous when the decision system improves. A more accurate model can create cleaner categories and stronger confidence, which makes later users even less likely to ask how the label was generated. The better the system looks, the easier it becomes to forget that the category still sits on one observed branch of a two-branch question.
+
+The remedy is not to distrust the category.
+
+It is to remember what kind of thing it is.
+
+A decision is an action taken under uncertainty. An outcome is what followed. A causal claim is an argument about what would have changed under another action. Keeping those three objects separate sounds elementary.
+
+It is also one of the hardest forms of discipline in a world full of scores.
