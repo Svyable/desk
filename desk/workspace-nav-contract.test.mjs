@@ -21,12 +21,12 @@ match(js, /prefers-reduced-motion/);
 // the workspace map into a second persistent chrome bar on phones/touch.
 match(js, /Mac\|iPhone\|iPad/);
 match(js, /'Ctrl K'/);
-match(css, /@media \(max-width:700px\), \(pointer:coarse\)[\s\S]*position:relative;[\s\S]*top:auto;/);
-match(css, /@media \(max-width:560px\)[\s\S]*min-height:2\.75rem/);
+match(css, /@media \(max-width:\s*700px\), \(pointer:\s*coarse\)[\s\S]*position:\s*relative;[\s\S]*top:\s*auto;/);
+match(css, /@media \(max-width:\s*560px\)[\s\S]*min-height:\s*2\.75rem/);
 
 // Accessibility remains explicit while this stays presentation/navigation only.
-match(css, /@media \(forced-colors:active\)/);
-match(css, /outline:2px solid Highlight/);
+match(css, /@media \(forced-colors:\s*active\)/);
+match(css, /outline:\s*2px solid Highlight/);
 no(js, /localStorage|sessionStorage/);
 no(js, /fetch\(|XMLHttpRequest/);
 no(css, /\.page-inner|\.page-surface|--page-/);
