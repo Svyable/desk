@@ -1,4 +1,4 @@
-# 2000s: A Day Without an Immigrant — We Are Already Here
+# Chapter 24 — 2000s: A Day Without an Immigrant — We Are Already Here
 
 In the spring of 2006, millions of immigrants and their supporters marched through American cities.
 
@@ -24,7 +24,15 @@ We are already here.
 
 That was the American no of the 2000s.
 
-The protests did not begin on May 1. They built through February, March, and April across cities and states, with enormous demonstrations in Chicago, Los Angeles, Dallas, Phoenix, Washington, and many smaller communities. High-school students walked out. Churches mobilized congregations. Spanish-language radio hosts and other media figures spread information. Labor unions, immigrant-rights organizations, neighborhood groups, families, employers, and activists built coalitions that varied from place to place.
+The protests did not begin on May 1. They built through February, March, and April across cities and states, with enormous demonstrations in Chicago, Los Angeles, Dallas, Phoenix, Washington, and many smaller communities. The Smithsonian's later collection record describes an estimated 3.5 to 5 million people participating in more than 250 demonstrations across 43 states during the spring mobilization.
+
+That scale matters, but the geography matters more.
+
+The political imagination of immigration often begins at the border.
+
+The marches began in neighborhoods.
+
+High-school students walked out. Churches mobilized congregations. Spanish-language radio hosts and other media figures spread information. Labor unions, immigrant-rights organizations, neighborhood groups, families, employers, and activists built coalitions that varied from place to place.
 
 By May 1, the movement attempted something more ambitious.
 
@@ -112,9 +120,43 @@ We are protesting because we believe the country's rules are partly ours to argu
 
 That is an American claim.
 
+It also reveals a tension in movements organized partly by people who cannot vote. American democracy treats the ballot as the ordinary instrument of political equality, but millions of residents are not eligible voters. Some are lawful permanent residents. Some are undocumented. Some are too young. Yet laws govern all of them.
+
+Protest becomes more important where electoral voice is weakest.
+
+That does not mean residency and citizenship are identical categories. A country can reserve voting for citizens while recognizing that noncitizens possess constitutional rights, family interests, economic power, and the practical capacity to organize. The 2006 movement operated inside that distinction rather than eliminating it.
+
+People without ballots built a constituency through people, institutions, and relationships that did have them.
+
+Parents mobilized children.
+
+Workers mobilized unions.
+
+Parishioners mobilized churches.
+
+Students mobilized schools.
+
+Spanish-language media mobilized audiences that national English-language outlets did not reach as quickly.
+
 The demonstrations were unusually large because multiple networks overlapped.
 
 Spanish-language radio was especially important in some cities, giving organizers a rapid communication channel into households and workplaces. Churches framed immigration as a moral and family issue. Unions recognized a large workforce whose legal vulnerability could weaken labor standards for everyone. Student walkouts brought a younger generation into the streets. Advocacy organizations supplied legal and political infrastructure.
+
+This communications system deserves more attention than it usually receives.
+
+A national movement does not appear merely because millions of people share a grievance.
+
+They have to hear that something is happening.
+
+They have to know when.
+
+They have to believe other people will come.
+
+They have to trust the route, the organizer, the church, the radio host, the teacher, the union, the neighbor, or the family member transmitting the call.
+
+Spanish-language radio helped create that common clock.
+
+The medium was not social media in the later Ferguson sense. It was still networked political infrastructure because hosts could turn local information into collective timing.
 
 The coalition was decentralized.
 
@@ -142,6 +184,24 @@ It can also show the limits of power if economic effects are smaller than organi
 
 The May 1 action produced all of those interpretations.
 
+An undocumented employee being asked to skip work faced a different risk from a citizen activist joining a march after work.
+
+Participation could mean lost wages.
+
+It could mean employer retaliation.
+
+It could increase visibility to authorities.
+
+Students risked school discipline. Small immigrant-owned businesses faced a complicated choice: close in solidarity and lose a day's revenue, or remain open and be accused of weakening the boycott.
+
+A Day Without an Immigrant therefore tested not only the country's dependence on immigrants but the movement's ability to ask vulnerable people to make that dependence visible at personal cost.
+
+That is a serious burden.
+
+Movements often celebrate sacrifice because the sacrifice proves commitment.
+
+The organizer has to ask whether the sacrifice is strategically justified.
+
 The demonstrations did not result in the comprehensive immigration reform many participants wanted.
 
 The Senate passed a different immigration bill in 2006 that combined enforcement with legalization pathways and guest-worker provisions, but the House and Senate never produced final legislation.
@@ -154,11 +214,33 @@ That failure matters.
 
 A protest can be historically important without achieving its full legislative goal.
 
-The 2006 movement changed the political identity of immigration.
+But historical importance should not become a consolation prize that makes failure impossible to name.
+
+Millions marched.
+
+Congress still did not solve the problem.
+
+That gap is part of the story.
+
+Mass mobilization can establish a constituency and still fail to assemble the legislative coalition needed for a durable statute. Immigration reform required agreement on enforcement, legalization, future legal immigration, labor-market rules, family migration, employer responsibility, and the treatment of people already present. A march could create urgency. It could not write a compromise acceptable to the House, Senate, president, organized labor, business interests, restrictionists, immigrant advocates, and voters with incompatible views.
+
+The 2006 movement changed the political identity of immigration anyway.
 
 Latino civic organizations expanded. Young participants entered politics. Organizers gained experience. Politicians saw that immigrant communities could mobilize at extraordinary scale. The debates helped shape later campaigns around the DREAM Act, Deferred Action for Childhood Arrivals, local sanctuary policies, driver's licenses, deportation, and comprehensive reform.
 
 A generation learned the route from family status to public action.
+
+The DREAMer movement would sharpen that lesson by turning undocumented young people into public narrators of their own legal condition. “Undocumented and unafraid” pushed visibility even further than 2006 because participants disclosed the very status that made them vulnerable.
+
+DACA in 2012 emerged through a different legal mechanism—executive action after congressional failure—but the political constituency capable of demanding such action did not begin in a White House conference room.
+
+The inheritance from 2006 was organizational as much as ideological.
+
+People knew how to march.
+
+They knew how to use churches, radio, schools, families, and legal networks.
+
+They knew how to translate immigration status into a personal story and a public claim.
 
 That route resembles earlier chapters in this book.
 
@@ -196,7 +278,19 @@ The strongest labor standard can be undermined if part of the workforce is too v
 
 The issue was especially important after decades of union decline and economic restructuring. Employers in agriculture, construction, hospitality, food processing, domestic work, and service industries relied heavily on immigrant labor. The country wanted flexible labor supply while repeatedly failing to create a durable political settlement around legal status.
 
-The marches forced the contradiction into streets.
+That mismatch can be useful to actors who benefit from ambiguity.
+
+Employers can gain workers who are legally vulnerable.
+
+Consumers can gain lower-cost services without seeing the legal risk embedded in the price.
+
+Politicians can condemn unlawful immigration while districts and industries remain economically dependent on it.
+
+Advocates can demand legalization without always agreeing on what future enforcement should look like if legalization succeeds.
+
+A broken equilibrium can survive because different institutions receive different benefits from its brokenness.
+
+The marches forced that contradiction into streets.
 
 They also forced a difficult conversation about illegal entry and rule of law.
 
@@ -230,11 +324,11 @@ No, invisibility is not consent.
 
 The years after 2006 demonstrated how unresolved the issue remained.
 
-The federal government expanded enforcement. Deportations rose under both Republican and Democratic administrations. Congress repeatedly failed to pass comprehensive reform. States adopted sharply different policies. Arizona's SB 1070 became a national flashpoint in 2010. The DREAMer movement made undocumented young people a distinct political constituency. President Barack Obama created DACA in 2012 through executive action after legislative failure.
+The federal government expanded enforcement. Deportations rose under both Republican and Democratic administrations. Congress repeatedly failed to pass comprehensive reform. States adopted sharply different policies. Arizona's SB 1070 became a national flashpoint in 2010. The DREAMer movement made undocumented young people a distinct political constituency. President Barack Obama created DACA in 2012 after legislative failure.
 
 Immigration increasingly became one of the country's central partisan divides.
 
-Donald Trump's 2016 campaign placed restriction, a border wall, and mass enforcement at the center of national politics. Family separation, asylum, refugee admissions, sanctuary cities, and border emergencies would dominate later debates.
+Donald Trump's 2016 campaign placed restriction, a border wall, and mass enforcement at the center of national politics. Family separation, asylum, refugee admissions, sanctuary cities, border emergencies, interior enforcement, and the future of DACA would dominate later debates.
 
 The 2006 coalition therefore did not close an era.
 
@@ -256,9 +350,15 @@ The family sees a person.
 
 The movement tried to make all three visible at once.
 
-The strongest alternative for the 2000s American no might be the massive protests against the Iraq War, which mobilized millions globally before the 2003 invasion. Anti-globalization activism continued from Seattle. LGBTQ activists challenged marriage exclusions. Hurricane Katrina survivors and community organizations fought abandonment and displacement. The Tea Party emerged at the decade's end as a major protest against taxes, spending, and federal power.
+The strongest alternative for the 2000s American no is the massive antiwar protest before and during the Iraq War. Demonstrations in 2003 formed part of a global mobilization of remarkable scale. Their claim was clear and historically important: a government should not mistake the ability to invade for the legitimacy or prudence of invading.
 
-The immigrant-rights marches win because they turned a population often defined by legal absence into one of the largest visible protest constituencies in modern American history.
+They also lost the immediate policy fight. The war began.
+
+That does not disqualify them. Failure can be consequential, especially when later public opinion turns against a policy and the protest becomes evidence that alternatives existed at the time.
+
+The Tea Party is another formidable challenger at the decade's end because it converted opposition to taxes, spending, bailouts, and federal power into an electoral force that would reshape the Republican Party. LGBTQ organizing around marriage had a stronger eventual legal victory than the immigrant marches. Hurricane Katrina generated protest around abandonment, race, reconstruction, and displacement.
+
+The immigrant-rights marches win this book's ballot because they turned a population often defined by legal absence into one of the largest visible protest constituencies in modern American history and left an organizing infrastructure that survived legislative defeat.
 
 The action did not say immigrants could someday become part of America.
 
@@ -292,10 +392,40 @@ The legal system had not caught up to the social system.
 
 The marchers refused to let that lag remain invisible.
 
+The counterfactual makes the chapter's claim narrower and stronger.
+
+Would H.R. 4437 have become law without the marches?
+
+We cannot know. The legislative process already contained strong disagreement, and bills die for many reasons.
+
+Would immigration have become a central national conflict without the marches?
+
+Certainly. Demography, border enforcement, labor demand, family migration, asylum, and partisan strategy guaranteed that.
+
+What the marches changed was who could plausibly be represented as the object of that conflict.
+
+After spring 2006, no serious politician could imagine the undocumented population only as people hiding beyond civic life.
+
+Millions had appeared in public together.
+
+They had organizations.
+
+They had children.
+
+They had employers.
+
+They had churches.
+
+They had media.
+
+They had allies.
+
+They had opponents now forced to answer a visible constituency rather than only a category in statute.
+
 A Day Without an Immigrant was a thought experiment enacted in public.
 
 What would America notice if the people it debated as outsiders disappeared for one day?
 
 The answer was the movement's claim.
 
-More than it thought.
+More than it wanted to admit.
