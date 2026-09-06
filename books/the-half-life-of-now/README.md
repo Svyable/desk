@@ -7,6 +7,7 @@
 | **Author** | Sven Hardy Benson |
 | **Status** | Complete Desk draft |
 | **Chapters** | 24 of 24 |
+| **Release Review** | Blocked pending source-ledger normalization, claim-level freshness review, and mechanical/integrity checks |
 
 ## Contents
 
@@ -41,6 +42,7 @@
 
 - [Research trail and counterevidence standard](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
+- [Release-readiness review](research/editorial-review.md)
 
 ## Publication status
 
