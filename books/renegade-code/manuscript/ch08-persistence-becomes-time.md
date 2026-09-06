@@ -333,3 +333,145 @@ The promise of persistent agents is that they do not have to begin from zero. Th
 Good memory gives the future a history.
 
 Good containment makes sure the history comes with dates, sources, authority, and an ending.
+
+Deletion sounds simple until memory has descendants.
+
+A source document is embedded into a vector store. A retrieval result is summarized into a project note. The project note is copied into a runbook. The runbook is cited by a planning agent. The plan produces a configuration change. Later somebody deletes the source document and reasonably expects the system to stop using it.
+
+Which of those descendants should disappear?
+
+The answer depends on what was inherited.
+
+If the source contained a secret, derived copies may need to be purged or rederived. If it contained an approval that expired, the descendants may remain as historical evidence but must no longer carry authorization. If it contained a factual observation later shown to be wrong, summaries and decisions built on the observation may need a visible supersession marker rather than silent deletion.
+
+Persistence is therefore a dependency problem as much as a storage problem.
+
+A memory system that supports “delete this item” but cannot trace what the item became is offering a user-interface feature, not reliable revocation.
+
+The difficult cases are transformations.
+
+Exact copies are easy to find.
+
+A secret quoted verbatim can be searched.
+
+A derived summary may preserve the sensitive fact without preserving the original string. An embedding can make the information retrievable without resembling the source. A model may compress an expired instruction into a higher-level lesson. Code may encode the consequence of a policy exception without mentioning the policy at all.
+
+The data changed form.
+
+Its authority or sensitivity may not have.
+
+This suggests a conservative inheritance rule for durable agent state: derived artifacts should inherit the important restrictions of their sources unless a separate promotion step deliberately changes them.
+
+A summary of a confidential document remains confidential.
+
+A lesson extracted from a temporary emergency approval does not become permanently approved merely because the prose no longer mentions the expiration.
+
+A model-generated plan based on quarantined evidence should not be promoted into ordinary execution without review.
+
+This is not mathematically clean. Provenance graphs can become enormous, sources can conflict, and some derived knowledge becomes too general to attribute to one input. The alternative is worse: every transformation becomes a laundering mechanism through which restrictions disappear.
+
+The system needs to preserve enough lineage for consequence, not every causal atom of cognition.
+
+That may mean storing the source classes behind a durable artifact, the highest sensitivity involved, the task lineage that created it, and any authority context that must not survive promotion. The metadata can be coarse if the rule is reliable.
+
+Compaction deserves special scrutiny because agent systems will compact constantly.
+
+Long conversations become summaries.
+
+Thousands of tool calls become notebooks.
+
+Many worker reports become one project brief.
+
+Operational histories become “lessons learned.”
+
+Compaction is valuable because models have finite context and organizations have finite attention. It is also a point where caveats disappear.
+
+A raw event may say, “temporary exception approved by Alice for incident 481 until 18:00.”
+
+A careless summary may say, “Alice approves bypassing this check during incidents.”
+
+The summary is shorter.
+
+It is also a new policy nobody authorized.
+
+Memory containment therefore has to test compression, not only storage.
+
+Does the summarizer preserve expiration?
+
+Does it preserve source confidence?
+
+Does it distinguish observation from instruction?
+
+Does it keep a pointer to the evidence when a future action depends on the summary?
+
+Can a reviewer tell which parts of the compressed artifact came from untrusted external content?
+
+These are subtle product requirements. They become security requirements when compressed memory guides consequential action.
+
+Garbage collection becomes interesting for the same reason.
+
+Software engineers think of garbage collection as reclaiming memory that is no longer reachable. Agent systems need a conceptual cousin: reclaim authority-bearing state that is no longer justified.
+
+A task ends.
+
+Its temporary approvals should become unreachable for future action.
+
+Its browser session should disappear.
+
+Its callbacks should expire.
+
+Its working notes may remain for audit but leave the ordinary retrieval path.
+
+Its validated public facts may be promoted into a longer-lived knowledge store.
+
+The system does not simply delete everything or keep everything.
+
+It changes the status of each artifact according to what the future is still allowed to do with it.
+
+That distinction can make retention policy much more precise.
+
+Security evidence can be kept longer without becoming operational memory.
+
+Useful knowledge can be kept longer without carrying old credentials.
+
+Personal data can be deleted without pretending every aggregate conclusion derived from it is identical to the raw data.
+
+Temporary authority can die without erasing the historical fact that it once existed.
+
+The architecture has to represent these differences explicitly enough that a later agent cannot collapse them again.
+
+One practical test is resurrection.
+
+End a task.
+
+Revoke its authority.
+
+Wait for the obvious sessions to expire.
+
+Then launch a fresh worker with no special context and ask what old state remains reachable through ordinary memory, caches, queues, search indexes, generated notebooks, and shared artifacts.
+
+Can it recover an expired credential?
+
+Can it find a supposedly quarantined instruction through a summary?
+
+Can it trigger a job created by the old task?
+
+Can it reuse an approval whose original context is gone?
+
+Can it infer a sensitive fact from a derived artifact the deletion process failed to classify?
+
+The test asks a simple question: what did the system actually forget?
+
+That answer is more meaningful than whether the original process was ephemeral.
+
+A process can die perfectly while its authority remains encoded in a dozen descendants.
+
+A persistent system can also be safe precisely because it knows which parts of the past are history and which parts are still live mandate.
+
+Time is not dangerous by itself.
+
+Unexamined inheritance is.
+
+The mature memory system will not be the one that remembers everything.
+
+It will be the one that can explain why a piece of the past is still allowed to matter now.
