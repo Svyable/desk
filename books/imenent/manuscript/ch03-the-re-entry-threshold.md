@@ -338,6 +338,10 @@ A human fallback does not have to be competitive.
 
 It has to be survivable.
 
+That suggests a more demanding test than asking whether a manual mode appears in the architecture diagram. Start the system cold. Remove the intelligent layer before it has explained the current state. Can a qualified team discover what is live, recover the necessary credentials, and resume the essential function through an independent path? If the fallback requires the failed agent to summarize the failure, provision the recovery environment, or reveal the credentials needed to replace it, the independence is partly fictional.
+
+A second test is less dramatic: deliberately run degraded. Lower throughput. Freeze nonessential changes. Narrow permissions. Let the human organization operate long enough to discover which knowledge has become ceremonial. A fallback that exists only at full theoretical staffing is not the fallback the institution actually owns.
+
 The seventh condition is evidence.
 
 A system can be interrupted and still remain uncontrollable in another sense if nobody can reconstruct what happened.
@@ -557,6 +561,10 @@ Then economically irrational under normal conditions.
 Then technically uncertain during abnormal conditions.
 
 The danger is waiting until the last stage to decide that recoverability was valuable.
+
+There is an economic test hidden inside that gradient. A fallback can be technically available and still cease to be usable because exercising it violates service commitments, market expectations, staffing budgets, or political promises built around automated performance. At that point the override survives in engineering terms while exit has become institutionally unaffordable.
+
+That does not make the threshold irreversible. Recoverability can get cheaper too. Better logging can expose state. Simulation can give operators more practice. Modular architectures can make substitution less painful. Automated diagnostics can improve recovery without controlling the recovery path. The thesis weakens wherever those gains are preserved as independent capacity rather than traded away for another increment of utilization.
 
 The better approach is to ask earlier.
 
