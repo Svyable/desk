@@ -24,11 +24,12 @@ for (const helper of [
   assert.match(worker, new RegExp(`shelf/reader/js/${helper.replaceAll('.', '\\.')}`));
 }
 
-assert.match(worker, /const CACHE = 'svyable-desk-reader-v18';/);
+assert.match(worker, /const CACHE = 'svyable-desk-reader-v19';/);
 assert.match(worker, /const CACHE_PREFIX = 'svyable-desk-reader-';/);
 assert.match(worker, /key\.startsWith\(CACHE_PREFIX\) && key !== CACHE/);
 assert.match(worker, /const CORE_SHELL = LOCAL_SHELL;/);
 assert.match(worker, /'\.\.\/catalog\.json'/);
+assert.match(worker, /'\.\/css\/desk-library-home\.css'/);
 assert.match(worker, /'\.\/css\/desk-reading-app\.css'/);
 assert.match(worker, /'\.\/js\/desk-reading-app\.js'/);
 assert.match(worker, /'js\/pwa-update\.js'/);
@@ -76,6 +77,7 @@ assert.match(sharedShell, /library-quick-look/);
 assert.match(sharedShell, /library-book-preview-model/);
 assert.match(sharedShell, /theme-controls/);
 assert.match(sharedShell, /global-reader-controls/);
+assert.match(localShell, /desk-library-home\.css/);
 assert.match(localShell, /desk-reading-app\.css/);
 assert.match(localShell, /desk-reading-app\.js/);
 assert.doesNotMatch(localShell, /library-quick-look|library-book-preview|theme-controls|global-reader-controls/);
@@ -129,4 +131,4 @@ assert.match(bridge, /isDeskPortalReadme/);
 assert.doesNotMatch(bridge, /BOOKSELF_OFFLINE_READINESS/);
 assert.doesNotMatch(loader, /serviceWorkerPattern/);
 
-console.log('Desk PWA source contract: global Reader controls are cold-offline safe');
+console.log('Desk PWA source contract: canonical Reader controls and library hierarchy are cold-offline safe');
