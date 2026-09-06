@@ -177,3 +177,27 @@ Sometimes it does both for different people at the same time.
 The hardest question is not whether a technology is good or bad. It is who acquires new power because it exists.
 
 In the 1790s, a machine with wire teeth and a rotating cylinder answered that question with terrible clarity.
+
+The gin also forces a more precise question about where productivity gains go. The machine made one processing step radically faster, but the benefit did not arrive as leisure for the people whose lives supplied the cotton system. Planters could process larger crops. Merchants could finance and move more fiber. Textile manufacturers gained a larger stream of raw material. Consumers eventually encountered cheaper and more abundant cotton goods. Enslaved field workers encountered an expanding demand for the crop and, with it, intensified extraction from their bodies.
+
+The same gain can therefore appear as convenience at one end of a supply chain and coercion at another.
+
+Modern production often hides this distribution by splitting it across geography and institutions. A low retail price does not tell us whether the saving came from a better machine, lower wages, weaker environmental rules, economies of scale, monopoly purchasing power, public subsidy, or some combination. The cotton gin is unusually stark because the labor regime was explicit in law. It teaches a habit worth carrying into every later chapter: whenever an invention makes something cheaper, follow the saving backward.
+
+The financial system followed it too. Cotton was not simply a crop exchanged for cash at a local market. It became collateral, export revenue, input for distant mills, cargo for shippers, business for insurers, and a basis for credit. Enslaved people themselves were mortgaged, sold, inherited, and used as financial assets within the legal order. The technical efficiency of ginning therefore entered contracts and balance sheets far beyond the machine shed.
+
+This is what it means for an invention to alter a system rather than a task. The device does not have to touch every institution directly. It changes a price or capacity that other institutions already care about, and their responses multiply the effect.
+
+The machine’s simplicity can make this hard to see. A visitor can understand a cotton gin by watching fiber and seed separate. The political economy it helped energize requires following cotton through fields, river ports, warehouses, banks, ships, British and New England mills, legislatures, slave markets, and contested western land.
+
+That widening circle is the real measure of importance.
+
+It also clarifies why the runner-up, Slater’s textile machinery, loses despite being central to American industrialization. Slater helped move Britain’s factory knowledge into American production. The gin altered the commodity system feeding factories on both sides of the Atlantic while strengthening an institution that would eventually tear the United States apart.
+
+One technology copied an industrial method.
+
+The other changed the stakes of the republic.
+
+The distinction does not make the gin more ingenious. It makes its consequences larger.
+
+That is the uncomfortable rule of this book: the trophy goes to importance, not innocence.
