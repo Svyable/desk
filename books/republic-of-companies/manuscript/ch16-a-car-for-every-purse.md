@@ -112,7 +112,105 @@ This principle would become central to electronics. A household can only buy its
 
 GM’s annual model anticipated the subscription logic psychologically: the product stays current only temporarily.
 
-The decade’s strongest rival for this book might be RCA. Radio created a national electronic medium, advertising market, and shared culture with enormous political consequences. Another candidate is General Electric, whose appliances and research organization linked electricity to the consumer economy. DuPont, expanded far beyond gunpowder, was becoming a modern chemical company. Yet GM wins because it combined management, finance, branding, industrial scale, and consumption into one organizational system that other corporations studied explicitly.
+## Headquarters Became a Capital Market
+
+The most important room at General Motors was increasingly not the room where a car was designed.
+
+It was the room where executives compared divisions.
+
+Decentralization only works if the center can decide which decentralized unit deserves more capital. That requires a common language. Revenue alone is not enough. A larger division will usually produce more revenue than a smaller one. Profit alone is not enough if one unit requires vastly more investment to produce the profit.
+
+Financial controls gave headquarters a way to compare unlike businesses through ratios and returns.
+
+The conceptual leap was profound.
+
+A corporation could contain multiple operating worlds and still govern them through a common financial framework. Cadillac managers did not need to run Chevrolet. Chevrolet managers did not need to run Buick. Headquarters did not need to design every engine. The center needed enough information to decide whether each unit was using corporate capital well.
+
+The corporation became an internal capital market.
+
+That model allowed firms to become larger without forcing every senior executive to understand every local operation in detail. It also created a new source of power for finance inside the enterprise. What can be expressed in comparable numbers becomes easier for headquarters to govern. What cannot be expressed risks losing the argument.
+
+The benefit is discipline.
+
+The danger is that measurement can make unlike things look more comparable than they really are.
+
+A division investing in a long technical transition may temporarily look weak. A mature division harvesting an old product may look efficient until the future arrives. Managers who know the scorecard can optimize the scorecard.
+
+GM did not solve these problems permanently.
+
+It made them manageable enough for the multidivisional corporation to spread.
+
+## Dealers Were the Human Edge of the System
+
+GM’s corporate architecture extended beyond factories and headquarters into independently owned dealerships.
+
+The dealer was simultaneously a local entrepreneur and the face of a national manufacturer. Dealers supplied capital, local market knowledge, service capacity, used-car expertise, and customer relationships. GM supplied products, brands, advertising, financing structures, and a production system no local merchant could reproduce.
+
+This relationship resembled franchising before the fast-food model became famous.
+
+The corporation could reach towns across the country without owning every retail property or employing every salesperson directly. Local businesspeople translated national brands into local trust.
+
+The arrangement also generated conflict because manufacturer and dealer incentives could diverge.
+
+Factories wanted volume.
+
+Dealers cared about local demand, inventory carrying costs, margins, and service relationships. New models could excite customers and create old inventory. Corporate pricing decisions could alter dealership economics. The national company depended on thousands of local balance sheets it did not completely control.
+
+Again, scale required governance across legal boundaries.
+
+The modern corporation increasingly operated through networks of partly independent businesses held together by contracts, standards, finance, and brand.
+
+McDonald's would later make this architecture famous in restaurants. GM was already living a version of it in automobiles.
+
+## Consumer Credit Became a Demand Engine
+
+GMAC did more than make cars affordable.
+
+It made future wages legible to the seller.
+
+An automobile buyer did not need to possess the full price today if the finance system believed the buyer could make payments over time. This enlarged the market immediately and turned repayment behavior into part of the corporation's economic model.
+
+Credit therefore linked factory output to household expectations about the future.
+
+A family confident in employment could buy earlier. A dealer could move more inventory. The manufacturer could sustain higher production. Finance converted anticipated income into current demand.
+
+The same mechanism that smooths consumption also increases fragility when income collapses.
+
+The Great Depression would make that obvious.
+
+A system built around future payments assumes the future arrives close enough to plan. When unemployment surges and asset prices fall, installment obligations do not disappear merely because confidence did.
+
+GM's consumer-finance model was therefore part of the 1920s achievement and part of the decade's broader vulnerability.
+
+The modern economy would embrace this bargain repeatedly because the benefits are immediate and visible.
+
+Cars, appliances, homes, education, credit cards, and later subscription services all invite households to pull future purchasing power toward the present.
+
+GM helped industrialize the practice around one of the century's defining consumer goods.
+
+## Why GM, Not RCA?
+
+RCA is the strongest counterfactual because radio may have changed American culture more rapidly than any automobile company did during the decade.
+
+Radio created simultaneous national attention. It brought news, music, advertising, sports, and political speech into homes. It helped create celebrity at electronic speed and provided the commercial foundation for broadcasting.
+
+If this book were organized around media and culture, RCA would be hard to dislodge.
+
+GM wins because its innovation was portable across industries in a different way.
+
+The company demonstrated how a giant corporation could manage distinct products, distinct brands, decentralized operating units, consumer finance, local distribution, and central capital allocation inside one system.
+
+That architecture became a template for modern management.
+
+RCA changed what Americans heard.
+
+GM changed how large companies could be organized.
+
+The latter is less visible and more directly aligned with this book's argument about companies as operating systems.
+
+The decade’s other candidates remain formidable. General Electric linked electricity to appliances and research. DuPont was becoming a modern chemical company. Ford remained a manufacturing giant even as its Model T formula aged.
+
+GM wins because it combined management, finance, branding, industrial scale, and consumption into one organizational system that other corporations could study and imitate.
 
 Sloan’s achievement was not a car.
 
