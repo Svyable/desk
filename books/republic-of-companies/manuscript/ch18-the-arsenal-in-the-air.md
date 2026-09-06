@@ -108,7 +108,95 @@ Aerospace is unforgiving because erosion becomes visible in physical failure.
 
 Many other industries can hide managerial deterioration for years behind brand, pricing power, or market growth.
 
-The strongest rival for the 1940s is arguably General Motors, which became a central component of the wartime production machine and converted automobile plants toward military output on a scale few companies could match. DuPont’s role in wartime materials and the Manhattan Project was significant. IBM’s punched-card machines supported administration and computation. Bell Labs contributed critical communications and radar research.
+## Procurement Became a Way to Allocate Risk
+
+The B-29 program also shows why government procurement can behave differently from venture capital or ordinary corporate investment.
+
+A private investor ultimately needs the project to create a financial return. A wartime government may accept a negative financial return if the project creates strategic capability quickly enough. The relevant payoff is not profit from the bomber. It is what the bomber makes possible in war.
+
+This distinction lets the state finance technical paths that would look irrational under ordinary consumer demand.
+
+Multiple prototypes can fail. Factories can be built before demand is commercially proven. Suppliers can be paid to develop specialized processes. Designs can change after production has begun. Redundant capacity can be maintained because resilience has value even if utilization looks inefficient.
+
+The government is buying option value under uncertainty.
+
+That does not mean waste stops mattering. Public procurement can overpay, reward political connections, preserve weak programs, and hide poor performance behind secrecy or patriotic rhetoric. The point is that some apparent inefficiency is the price of buying capability before the market would.
+
+The 1940s made this risk allocation central to American innovation.
+
+The state financed uncertainty.
+
+Private firms accumulated skills, plants, and intellectual capital while executing the contracts.
+
+The boundary between subsidy and capability development became difficult to draw because the same dollar could do both.
+
+## Concurrency Became a Management Problem
+
+Producing while designing sounds like a failure of planning until the deadline matters enough.
+
+In peacetime manufacturing, a company usually prefers a stable design before large-scale production. Tooling, training, documentation, and supply contracts all become cheaper when engineers stop changing the object.
+
+The B-29 program did not enjoy that luxury.
+
+The pressure to field capability quickly meant that engineering and production overlapped. The organization had to manage configuration: which aircraft contained which version of which component, which modifications were required, which drawings were current, and whether a change in one system created consequences elsewhere.
+
+This is an information problem disguised as manufacturing.
+
+A physical product changes only when information about the change reaches every place that matters.
+
+The more suppliers and factories involved, the harder that becomes.
+
+A late engineering revision can be perfectly correct in Seattle and still fail in practice if a supplier in another state builds from yesterday’s drawing.
+
+Configuration control therefore became part of the product.
+
+Modern software companies recognize the same problem through version control and deployment systems. Aerospace confronted it with blueprints, specifications, inspection records, and physical parts whose mistakes could not be fixed by an instant software update.
+
+Boeing’s wartime scale forced the organization to make technical truth portable.
+
+## The Supplier Network Became a Strategic Asset
+
+The government could finance factories, but factories without suppliers are monuments.
+
+Aircraft production depended on a web of companies capable of delivering engines, aluminum, instruments, tires, fasteners, electrical systems, machine tools, and thousands of specialized parts at the required quality and volume.
+
+That network survived the individual program.
+
+Suppliers learned aerospace standards. Workers learned precision production. Managers learned military contracting. Universities and laboratories trained engineers who could move among companies. Regions accumulated a density of capability that made the next aircraft easier to build than the first.
+
+Industrial capacity therefore became geographically sticky.
+
+Once Seattle or Southern California possessed a deep aerospace labor market and supplier ecosystem, another aerospace company had reasons to locate nearby. Skills and suppliers attracted projects. Projects deepened skills and suppliers.
+
+The Cold War would turn this wartime accumulation into a durable regional advantage.
+
+The company creates the cluster.
+
+The cluster then strengthens the company.
+
+This is the aerospace version of Silicon Valley’s later semiconductor ecosystem.
+
+Different technologies, same institutional compounding.
+
+## Why Boeing, Not General Motors?
+
+General Motors has an extraordinary claim to the 1940s.
+
+Its scale of wartime conversion demonstrated that civilian manufacturing capacity could be redirected toward national mobilization. The company produced military vehicles, aircraft components, engines, weapons, and other matériel through a system already practiced at mass production.
+
+If the decade’s question were simply who manufactured the most impressive volume, GM would be difficult to displace.
+
+Boeing wins because aerospace forced a different organizational leap.
+
+The automobile industry already knew how to make standardized objects at huge volume. The bomber program had to combine volume with a level of technical novelty, systems integration, supplier coordination, documentation, and government-financed concurrency that made the corporation behave like a temporary national laboratory and industrial network at once.
+
+GM demonstrated mobilization.
+
+Boeing demonstrated the emerging defense-technology state.
+
+That model would outlive the war more directly. The Cold War, space race, jet age, missile programs, satellites, and later digital technologies would all develop inside a public-private system where the federal government purchased advanced capabilities from firms that maintained large technical organizations between programs.
+
+The strongest other candidates remain important. DuPont’s role in wartime materials and the Manhattan Project was significant. IBM’s punched-card machines supported administration and computation. Bell Labs contributed critical communications and radar research.
 
 Boeing wins because the bomber program condenses the decade’s economic transformation into one object: government finance, scientific advance, giant factories, female industrial labor, racial conflict, global war, supply-chain management, and the beginning of a permanent aerospace state.
 
