@@ -287,3 +287,87 @@ That is the answer worth waiting for.
 The goal is not to protect the universe from strangeness.
 
 It is to make strangeness unmistakable when it arrives.
+
+A decisive program also needs a stopping rule.
+
+Without one, a failed experiment can be followed by a slightly altered experiment forever. The task changes. The similarity definition moves. The required dose increases. A new contextual condition is added. Each revision may be reasonable in isolation, but together they can make the hypothesis impossible to injure.
+
+The research consortium should therefore agree before the first large replication on what a sequence of failures would mean.
+
+Perhaps a particular effect size is the minimum worth pursuing because anything smaller would require impractically large samples or would be too vulnerable to residual bias. Perhaps three independently run, adequately powered replications failing to show the preregistered direction would trigger suspension of that protocol. Perhaps a new version of the theory could be proposed afterward, but it would be treated as a new hypothesis rather than retroactively saving the old test.
+
+This sounds procedural because it is.
+
+Good method often looks boring at the exact point where belief becomes expensive.
+
+The same agreement should specify what a positive sequence would mean. One significant result should not unlock a metaphysics. Two matching results should not automatically establish a new force. A staged program can define milestones: exploratory anomaly, preregistered replication, multi-site reproduction, successful manipulation of predicted moderators, and only then serious mechanism hunting.
+
+The hierarchy protects the finding from its own publicity.
+
+Controversial results are especially vulnerable to becoming famous before they become stable. Public attention changes who repeats them, how participants learn about them, what researchers expect, and what incentives surround replication. The phenomenon becomes entangled with its story.
+
+A clean program should keep early phases as boring as possible.
+
+Registered materials should be timestamped.
+
+Analysis code should be frozen before unblinding where practical.
+
+Exclusion criteria should be set before outcomes are visible.
+
+The primary endpoint should be singular enough that a failed result cannot be rescued by wandering through dozens of secondary measures.
+
+Raw data and deviations should be preserved.
+
+Independent analysts can reproduce the result from the same files.
+
+These practices do not guarantee truth. They narrow the space in which human flexibility can manufacture certainty.
+
+There is also a special problem for morphic resonance that ordinary replication studies rarely face: the theory itself may predict that replication changes the phenomenon.
+
+If repetition genuinely increases future probability, then the act of testing could alter later tests. That is scientifically interesting and methodologically dangerous.
+
+The obvious response is not to abandon replication. It is to make the alleged accumulation part of the design.
+
+Predeclare exposure cohorts.
+
+Vary the number of prior instances deliberately.
+
+Maintain matched target and control families.
+
+Use new stimuli whose target assignment is randomized only after creation.
+
+If a cumulative field is real, increasing repetition should generate a directional pattern distinguishable from calendar time, experimenter practice, publicity, or equipment drift.
+
+A theory about experimental history should predict experimental history.
+
+That is much stronger than pointing afterward to a study that improved over the years.
+
+Temporal order can be weaponized too.
+
+Suppose identical protocols are scheduled across sites with target assignments concealed until predetermined times. Some sites generate prior exposure; others remain untouched controls. Later cohorts are opened according to a schedule fixed in advance. If the effect depends on the actual past rather than information available in the system, future target assignment cannot retroactively improve earlier performance.
+
+This sounds obvious, but temporal asymmetry is a gift. It gives the theory something to exclude.
+
+The same is true of similarity. Build stimulus families where surface appearance and abstract structure disagree. If resonance follows structure, say so beforehand. If it follows visual resemblance, predict that instead. If the theory has no basis for choosing, the experiment has exposed a missing piece of the theory rather than a failure of imagination by the researchers.
+
+The research program should prefer such conflicts because they force explanation to choose.
+
+A convincing anomaly is not merely a difference from zero.
+
+It has a fingerprint.
+
+Dose, similarity, delay, interference, ordering, and perhaps distance together form that fingerprint. A hidden conventional pathway may imitate one feature. It becomes harder for the same artifact to imitate all of them in the predicted directions across independent sites.
+
+This is how an anomaly becomes a phenomenon rather than a statistical survivor.
+
+And if the fingerprint fails to appear, that failure is not an embarrassment. It is information about which parts of the original theory should be abandoned.
+
+The deepest scientific respect for a controversial idea is to give it a chance to become narrower.
+
+Perhaps morphic resonance, if anything survives, would apply only to one domain and not to the grand collection of examples historically attached to the name. Perhaps a residual would turn out to be an ordinary effect nobody had modeled. Perhaps the entire line would dissolve.
+
+Science does not owe an idea the size it entered with.
+
+It owes the evidence a model no larger than the evidence can carry.
+
+That is what the known channels failing would finally mean: not that researchers ran out of ordinary stories, but that an effect kept the same recognizable shape after the ordinary stories were turned into experiments and made to lose.
