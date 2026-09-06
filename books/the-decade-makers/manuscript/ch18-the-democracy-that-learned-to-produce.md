@@ -38,6 +38,94 @@ The institution did not eliminate markets.
 
 It overlaid them with mission.
 
+The most revealing example was the Controlled Materials Plan.
+
+By late 1942, priority labels alone had become an inadequate way to coordinate a production system in which too many orders could all claim urgency. A priority can tell a mill that one order outranks another. It cannot make steel, copper, or aluminum appear when total authorized demand exceeds total supply.
+
+The problem was arithmetic before it was bureaucratic.
+
+The War Production Board therefore moved toward a system that treated the three critical metals—steel, copper, and aluminum—as common denominators for a huge range of industrial programs. The Controlled Materials Plan was announced in November 1942 and came into operation in 1943. The Board’s own 1944 report called it the core of its industrial-mobilization direction.
+
+The mechanism is worth following because it shows what wartime planning actually meant.
+
+For each coming quarter, the Board estimated how much of the critical metals would be available.
+
+That estimate created a ceiling.
+
+The Requirements Committee then divided the available supply among thirteen designated claimant agencies. Some represented direct military demand, including the War and Navy Departments, the Maritime Commission, and aircraft authorities. Others represented export, transport, petroleum, food, housing, utilities, essential civilian requirements, and industrial needs.
+
+The claimant agency did not simply receive a symbolic priority.
+
+It received an allotment.
+
+From there, production authorizations and material allotments flowed to prime contractors. Prime contractors could in turn allot material to subcontractors and suppliers making components for the authorized end product. Eventually those orders reached steel mills, aluminum producers, copper suppliers, and warehouses.
+
+The chain ran in both directions.
+
+A military program created a demand for an end product.
+
+The end product implied a bill of materials.
+
+Those material requirements were aggregated upward against the national supply constraint.
+
+The resulting allotments flowed downward as authority to produce.
+
+This transformed an economy of competing purchase orders into something closer to a material budget.
+
+A company could have money, a customer, workers, and machinery and still be unable to obtain a controlled metal unless the planned use fit inside an authorized program.
+
+That is the institutional meaning of scarcity.
+
+The government did not merely pay more than a civilian buyer.
+
+It determined which claims on the material were legitimate.
+
+The plan’s forms and procedures reveal how much wartime coordination depended on paperwork. Firms and agencies submitted bills of materials, production schedules, applications, and reports. Controlled-material orders carried identifiers connecting them to authorized programs. Producers had rules governing which orders they could accept and when deliveries could occur.
+
+The paperwork was not incidental bureaucracy layered on top of production.
+
+It was the routing protocol.
+
+Without a common way to express demand, a national planner could not distinguish a real shortage from duplicate orders, speculative ordering, or programs whose requirements had already changed.
+
+The same logic appears in modern computing systems.
+
+A queue works only when requests can be identified, compared, and scheduled.
+
+The War Production Board built a queue for physical industry.
+
+That queue was imperfect.
+
+Military requirements changed. Contractors overestimated needs to protect themselves against shortages. Inventories accumulated in some places while other plants waited. A program could be officially important and still discover that one missing component stopped an entire production line. The Board had to revise allocations as new information arrived.
+
+This is why a controlled-material system was not central planning in the cartoon sense of one omniscient office deciding every factory action.
+
+It was a negotiated hierarchy of estimates.
+
+Claimant agencies knew their missions better than the central Board.
+
+Prime contractors knew their products better than claimant agencies.
+
+Subcontractors knew component constraints that prime contractors might miss.
+
+Mills knew actual production conditions.
+
+The Board’s job was to make those layers speak a common language of scarce material.
+
+That is a different achievement from knowing everything.
+
+It is building a protocol through which partial knowledge can be reconciled.
+
+The system also had to know when to relax itself.
+
+By 1944, the Board was not only allocating scarce inputs but dealing with idle or excess controlled materials created when programs were cut back, contracts were canceled, or requirements shifted. Rules governed how warehouses and distributors could return those materials to usable circulation.
+
+Mobilization therefore required reverse logistics as well as expansion.
+
+A war economy that only knows how to add priorities will eventually trap resources in obsolete plans.
+
+The ability to cancel, reassign, and release became part of production capacity.
+
 This distinction helps explain the American mobilization model.
 
 The United States did not nationalize its entire industrial base. It used federal purchasing power, finance, regulation, priorities, tax policy, and contracts to induce private firms to behave as parts of a national production system.
