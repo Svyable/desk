@@ -305,3 +305,91 @@ The first purchases establish that exchange can happen at all.
 The next chapter asks why those first exchanges so often look economically ridiculous.
 
 The answer is that many important technologies need somebody willing to buy before the economics become good enough for everyone else.
+
+There is another distinction worth making before leaving the order book behind.
+
+Commitment has a maturity curve of its own.
+
+At the beginning, a deposit can matter because almost no other evidence exists. Ten paid pilots in an undefined category may be more informative than ten thousand free sign-ups. Later, when the product has thousands of repeat customers and measurable retention, the same kind of pilot says much less. Evidence changes value as the market acquires memory.
+
+This is why the first customers can have disproportionate influence without spending disproportionate money.
+
+They arrive when the denominator is small.
+
+If a startup has no institutional customers and one hospital agrees to deploy the product in a live workflow, the hospital changes what the company can truthfully say about itself. It also changes what the next hospital can ask. The second buyer no longer has to decide whether anyone like it can deploy the system. It can ask whether the first deployment worked, what broke, how long integration took and whom to call.
+
+The first contract creates a reference point.
+
+Reference points reduce uncertainty unevenly.
+
+A famous logo may reduce reputational uncertainty while doing little to prove unit economics. A technically demanding buyer may prove reliability but be too unusual to demonstrate mainstream usability. A long-term offtake agreement can reduce financing uncertainty while saying little about whether customers outside the contract will eventually pay the same price.
+
+The sophisticated reader of an early market therefore asks not merely whether commitment exists, but which uncertainty it resolves.
+
+This is where the language of traction often becomes too vague.
+
+A company can have financial traction without usage traction. It can have usage traction without willingness to pay. It can have developer traction without end-user demand. It can have publicity traction without retention. It can have one giant customer and no repeatable sales process.
+
+Each state is real.
+
+Each supports a different next move.
+
+If the producer mistakes one for another, the feedback loop can finance the wrong expansion.
+
+The discipline applies to adopters too.
+
+An early buyer should ask what her commitment is helping make true.
+
+Is the deposit funding tooling that lowers future unit cost?
+
+Is the multiyear contract financing a specialized team that will make the service more reliable?
+
+Is the pilot producing generalizable evidence, or is the vendor building a bespoke branch that no other customer can use?
+
+Is the community’s money creating common infrastructure, or merely keeping a fragile company alive one campaign at a time?
+
+These questions do not require cynicism.
+
+They require causal accounting.
+
+A particularly revealing form of commitment is the contract that outsiders are willing to lend against.
+
+Once a buyer’s promise is credible enough to support financing, adoption has crossed another threshold. The buyer is no longer only predicting demand. The buyer’s future payments can help pull capital expenditure into the present. Factories, power projects, data centers, aircraft and other capital-intensive systems often depend on some version of this transformation. A promise to purchase becomes part of the collateral story around production.
+
+That does not make the future safe.
+
+It makes the future financeable.
+
+Financeability is one of the most important intermediate states in technological change because many technologies fail in the gap between technical possibility and capital structure. The prototype works. The next factory costs billions. The entrepreneur cannot fund it from personal optimism. Investors want evidence that output will be sold. Buyers want evidence that output will exist.
+
+Contracts can bridge part of the gap.
+
+The contract is adoption arriving before delivery.
+
+This pre-delivery adoption has a peculiar moral hazard. The buyer wants the producer to survive, which can make the buyer more tolerant of delays or excuses than an ordinary customer would be. The producer knows early customers are unusually committed, which can weaken pressure to simplify. A community that identifies strongly with the product may defend the company against criticism that later customers would treat as disqualifying.
+
+Commitment can therefore corrupt the signal that commitment created.
+
+The early customer begins as evidence.
+
+Then the early customer becomes invested in preserving the meaning of the evidence.
+
+This is one reason independent measures matter as markets mature. Repeat purchase, retention, gross margin, defect rate, service cost, renewal, resale value and referrals tell different stories than reservations. The market gradually replaces symbolic commitment with operational evidence.
+
+The best early adopters welcome that transition.
+
+They do not need the first signal to remain sacred.
+
+They want the thing to earn better signals.
+
+That is the final difference between a purchase as a message and a purchase as mythology.
+
+A message can be updated.
+
+Mythology cannot.
+
+The first thousand buyers say this deserves another turn.
+
+The next production run gets to answer whether that turn was worth taking.
+
+Then the market speaks again.
