@@ -126,6 +126,68 @@ The history of electronics rewards technologies that cooperate with existing inf
 
 This should be encouraging rather than disappointing.
 
+One reason altermagnetism is a useful case study is that it separates three kinds of novelty that popular technology writing often collapses.
+
+The first is *conceptual novelty*. A symmetry classification may reveal that states previously scattered across older categories share a common mathematical structure. That changes theory and gives researchers a better vocabulary.
+
+The second is *experimental novelty*. A predicted signature is measured convincingly in a real material, ideally through several independent probes. That turns a classification into an empirical research program.
+
+The third is *engineering novelty*. The state can be created, switched, read and integrated under conditions that matter to a device.
+
+Those stages can be years apart.
+
+A new scientific category can be genuine even if its first proposed applications fail. Conversely, a useful device effect can emerge before scientists agree on the most elegant conceptual taxonomy. Technology does not wait for language to settle, but language can accelerate search once it does.
+
+This is why the current argument should resist both extremes. Calling altermagnetism “just relabeled antiferromagnetism” can miss the value of the symmetry distinction. Calling it a ready-made successor to ferromagnetic electronics can skip most of the engineering.
+
+The productive middle is to ask what the classification lets designers do differently.
+
+Material search is one answer. Once the relevant symmetry operations are specified, computational databases of crystal structures and magnetic order can be screened for candidates. That does not eliminate synthesis. A predicted compound may be unstable, difficult to grow, contaminated by secondary phases or magnetically different from the ideal calculation. But theory can reduce the search space from “all materials” to “materials whose symmetries permit the desired behavior.”
+
+This is materials discovery as constrained navigation.
+
+The next filter is temperature. A magnetic order useful only far below room temperature may still matter in cryogenic electronics or scientific instruments, but it faces a different market. The next filter is film quality. A bulk crystal that exhibits a beautiful effect may be difficult to deposit as a thin layer compatible with device fabrication. The next filter is switching. A state that can be observed but not controlled is scientifically rich and architecturally inert.
+
+Every filter reduces the candidate list.
+
+That attrition is not failure. It is how a field discovers its technological core.
+
+The attraction of terahertz-scale dynamics deserves the same discipline. A magnetic system with intrinsic modes at very high frequency does not automatically become a terahertz processor. Information has to be injected into the mode, modulated, transported or transformed, and detected. The linewidth matters. Coupling efficiency matters. Heat matters. Clocking and synchronization matter. A fast internal degree of freedom can sit inside a slow device if the interfaces are slow.
+
+The transistor offers the reverse lesson. Its microscopic carrier dynamics can be extremely fast, but practical circuits operate at frequencies set by capacitance, interconnect and power limits. Device speed is an architecture, not a material constant.
+
+Altermagnetic spintronics will face the same conversion from intrinsic timescale to useful bandwidth.
+
+Stray-field reduction is similarly conditional. A compensated magnetic state can reduce one source of interaction among neighboring devices, but the structure may still generate fields at surfaces, domain boundaries or defects. Read and write currents create their own electromagnetic environment. Eliminating net magnetization does not make the device electromagnetically invisible.
+
+The real benefit would be a larger density or cleaner signal environment at acceptable control cost.
+
+That “at acceptable cost” clause is where competitors enter.
+
+Ferromagnetic spintronics is not standing still. Conventional antiferromagnetic devices, heavy-metal spin-orbit systems, two-dimensional magnets, ferroelectrics, phase-change memories and CMOS all continue to improve. An altermagnet does not compete against a frozen 2020 benchmark. It competes against whatever the alternative stack can deliver when the device is ready.
+
+This creates a moving target familiar from every emerging hardware field.
+
+A laboratory technology can improve for ten years and lose ground economically because the incumbent improved faster. The relevant comparison is rate of system improvement, not novelty of mechanism.
+
+That is one reason magnetecture emphasizes interfaces. A material with a modest intrinsic advantage can win if it integrates cleanly into an existing manufacturing and circuit ecosystem. A material with a spectacular intrinsic effect can lose if it requires unfamiliar substrates, difficult contacts, low yields or elaborate readout.
+
+Compatibility can dominate physics.
+
+There is also a possibility that altermagnets matter most as components inside hybrid devices rather than as memory cells with their own marketing category. A layer could generate spin-polarized current. Another material could store state. A ferroelectric could provide voltage control. A conventional transistor could provide gain and isolation.
+
+If that happens, the scientific label may disappear from the product while the physics survives inside it.
+
+That is often what success looks like. Consumers do not buy a phone because it contains a tunnel magnetoresistance effect. They buy storage, sensing and communication. An enabling mechanism becomes invisible when engineers package it well.
+
+The same invisibility should govern claims about “altermagnetic computers.” A future system may use altermagnetic materials without any reason to call the computer altermagnetic. The useful question is which operation became better because that magnetic order was available.
+
+This is a powerful antidote to platform hype.
+
+The scientific field deserves to be evaluated on whether it discovers and explains real magnetic states. The engineering field deserves to be evaluated on whether those states create useful interfaces. The market deserves to be evaluated on whether those interfaces improve a product enough to survive competition.
+
+Three tests, not one.
+
 Magnetecture is not a manifesto for an all-magnetic civilization. It is an argument that magnetic order is becoming a more expressive design resource.
 
 A compensated material with spin-split electronic structure is one example of that expression.
