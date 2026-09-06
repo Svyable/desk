@@ -320,6 +320,80 @@ A payment agent blocked by merchants may gain a verifiable authorization protoco
 
 The future moves in response to the boundary.
 
+There is a market-design implication here that is easy to miss: exit can be a complement to entry.
+
+Producers often treat portability, cancellation, interoperability and data export as features that make leaving easier and therefore weaken retention. In the narrow sense they do. They can also make initial adoption safer.
+
+A customer who knows a trial can be reversed may be willing to try sooner.
+
+A developer who knows a standard is portable may invest more confidently.
+
+An enterprise that can retrieve its data in a usable form may accept a younger vendor because vendor failure is less catastrophic.
+
+A consumer who can cancel without destroying years of accumulated work has less reason to postpone the experiment.
+
+The exit route can increase entry.
+
+This is the same logic by which limited liability can encourage investment or a refund policy can encourage purchase. Bounding downside changes willingness to participate.
+
+The best refusal may therefore be a demand for reversibility rather than a demand for certainty.
+
+Do not prove the company will exist forever.
+
+Prove I can survive if it does not.
+
+Do not promise the model will never fail.
+
+Give me a way to inspect, override and recover.
+
+Do not promise the standard will never change.
+
+Give me a migration path.
+
+This is architecture designed for uncertainty rather than rhetoric designed to deny it.
+
+Such conditions can accelerate healthy early adoption because they lower the stakes of being wrong.
+
+They also discipline producers. A company that must earn retention continuously cannot rely as easily on captivity. A platform that allows data to leave has to create reasons to stay. An ecosystem with adapters has to compete on usefulness rather than incompatibility alone.
+
+The result may be a less defensible business in the narrow sense and a more adoptable category in the broad sense.
+
+This creates a genuine tension between private capture and market formation.
+
+A producer may prefer lock-in once a customer arrives.
+
+The category may grow faster if customers are less afraid of arriving.
+
+Early adopters are often the only customers with enough leverage to negotiate this before the trade becomes invisible.
+
+They should use it.
+
+There is also a refusal problem inside institutions.
+
+Employees can decline to use a formally adopted system while appearing compliant. They keep the old spreadsheet, copy information manually or perform the required step only to satisfy reporting. Leadership records adoption because the license is active and the process chart changed.
+
+The real workflow refuses.
+
+This shadow refusal is important because it reveals that institutional adoption cannot be commanded merely by purchasing. People route around systems that impose more cost than value or conflict with the way work actually happens.
+
+The workaround is a vote.
+
+Managers can punish the workaround and preserve the official future, or study it and learn what the official future failed to understand.
+
+Sometimes the workaround is unsafe and must be eliminated. Sometimes it is the prototype of a better process.
+
+The same principle holds: refusal is information before it becomes opposition.
+
+A mature adoption program gives people a way to articulate conditional no without forcing them into sabotage or silence. Employees can say which control makes the tool unusable. Customers can say which term blocks procurement. Developers can say which platform rule destroys the business case.
+
+The producer or institution can then distinguish a negotiable boundary from a fundamental incompatibility.
+
+That distinction prevents a lot of false conflict.
+
+Not every skeptic hates the future.
+
+Some are describing the price the future is asking them to pay.
+
 Early adopters have more power over this movement than they often realize because producers need them before producers need everyone.
 
 The immature market is hungry for proof.
