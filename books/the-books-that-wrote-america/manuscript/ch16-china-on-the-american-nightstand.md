@@ -150,6 +150,82 @@ This project is not required to obey that prestige.
 
 Importance asks what a book did.
 
+The translation problem becomes clearest if we imagine the alternatives available to an American reader in 1931.
+
+A reader who wanted to know China could encounter missionary reports, newspaper coverage, travel writing, diplomatic analysis, commercial advertising, political propaganda, and popular fiction. Each medium selected a China useful to its own purpose. Missionary accounts could emphasize souls, suffering, conversion, and institutions. Business writing could emphasize markets. diplomatic writing could emphasize states. Newspapers often emphasized crisis. Racist popular culture could reduce Chinese people to types.
+
+Buck selected a household.
+
+That choice did not make her neutral.
+
+It changed the unit of attention.
+
+Instead of beginning with “China” and moving downward, the reader begins with hunger, work, marriage, birth, land, and family, then encounters larger social forces as they enter those lives. The country is not first an abstraction requiring explanation. It is a place where people need dinner.
+
+This is one reason the novel could generate empathy across enormous cultural distance without requiring the reader to master Chinese politics. The technique also explains its limitation. A household can humanize a population and conceal the diversity of the population at the same time.
+
+The emotional bridge is strongest exactly where the sociological map is weakest.
+
+That paradox belongs to many books in this history. *Uncle Tom’s Cabin* changed antislavery feeling while simplifying Black life. *Roots* later gave family form to slavery’s history while generating serious factual disputes. *Hillbilly Elegy* would make one family legible and then be asked to explain a region and a class. Narrative concentrates attention by reducing complexity.
+
+The ethical question is what happens after the concentration works.
+
+Does the reader treat the story as an opening or a conclusion?
+
+If *The Good Earth* sends a reader toward Chinese history, Chinese writers, immigration history, war, politics, and the lives of Chinese Americans, the bridge has opened a route. If it becomes the reader’s sufficient knowledge of China, the bridge has become a border.
+
+The American publishing system often encouraged the second use because Buck’s authority was unusually marketable. She could be interviewed, reviewed, awarded, adapted, and presented as someone who could explain China. The institutional imbalance that limited Chinese and Chinese American voices made the demand on her larger still.
+
+This is not a reason to deny what she knew.
+
+It is a reason to ask why the market preferred one kind of knower.
+
+White American familiarity with another society was often treated as universal expertise in ways that expertise from people inside that society was not. Publishing, journalism, universities, philanthropy, and government all participated in deciding whose account would be legible to mainstream audiences.
+
+The book’s consequence therefore lies partly in the gate through which it passed.
+
+The Hollywood adaptation makes the mechanism visible. A studio could spend heavily to create a sympathetic story about Chinese characters while casting white stars in central roles. The industry wanted the emotional value of Chinese humanity and the commercial reassurance of performers it believed American audiences already accepted.
+
+Representation was expanded and constrained in the same production.
+
+This is not merely hypocrisy. It is how institutions change unevenly. One assumption becomes negotiable before another one does.
+
+The same unevenness appeared in politics. Wartime alliance with China helped make exclusion law strategically embarrassing, but repeal did not erase the racial architecture of American immigration policy or anti-Asian prejudice. Sympathy toward China could coexist with discrimination against Chinese Americans. Admiration for an overseas ally could coexist with suspicion of neighbors.
+
+National feeling does not move as one block.
+
+A novel can shift one layer without moving the rest.
+
+A counterfactual helps keep the claim disciplined.
+
+If *The Good Earth* had never appeared, American views of China would still have changed dramatically in the 1930s and 1940s. Japanese aggression, missionary networks, diplomacy, wartime alliance, journalists, Chinese political advocacy, and Chinese American communities all supplied powerful reasons for Americans to pay attention. The repeal of exclusion would still have had strategic and political drivers independent of Buck.
+
+Chinese humanity did not require a white novelist to exist, and Chinese American arguments against discrimination did not require her permission.
+
+What changes without the novel is the scale of domestic intimacy delivered through a mass-market book before those geopolitical shifts fully matured.
+
+Millions fewer readers would have entered a Chinese household through the same widely shared story. Another book might eventually have supplied a bridge. It would not necessarily have crossed the class, gender, literary, religious, and commercial audiences Buck reached at once.
+
+This is why immediate sales matter more here than they did for Gatsby.
+
+Gatsby demonstrates delayed canonization.
+
+*The Good Earth* demonstrates simultaneous saturation.
+
+A bestseller, Pulitzer Prize, Nobel Prize, book clubs, reviews, and film adaptation created a reinforcing loop of attention. Each institution certified the book to the next audience. Popularity gave prestige evidence of reach. Prestige gave popularity evidence of seriousness.
+
+That loop made Buck difficult to avoid.
+
+The later decline in her elite literary reputation is therefore instructive. A writer can be culturally central and later fall outside the preferred story of literary innovation. Modernist difficulty, formal experimentation, and influence on other writers became important measures of prestige. Buck’s accessibility could count against her in the very institutions that once celebrated her.
+
+But accessibility had been part of the mechanism of consequence.
+
+A book written only for specialists would not have put Wang Lung and O-lan into so many American homes.
+
+The question of importance cannot simply inherit the taste of later literary departments.
+
+That is one reason this chapter stays.
+
 *The Good Earth* placed a Chinese peasant family on millions of American nightstands during a decade when Americans were frightened about their own land, food, work, and future. It made readers recognize common human stakes across a cultural distance that racism and exclusion had worked hard to maintain.
 
 The recognition was incomplete and mediated through a white American author.
