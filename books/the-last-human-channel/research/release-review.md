@@ -2,42 +2,61 @@
 
 ## Decision — September 6, 2026
 
-**Remain blocked.** The manuscript is complete and the rights package is present. Claim-level review is now complete through Chapter 7, but Chapters 8–18 still require explicit source mapping and current-claim verification before mechanical publication gates.
+**Release-cleared on factual, research, rights, matter, and editorial grounds; objective mechanical publication gates remain.**
 
-This decision is tied to Desk source `a8538e1756319e4ca2338a4e999e5f75c396ff0f` plus the focused Chapters 4–7 review recorded in [release-evidence-map-2026-09-06.md](release-evidence-map-2026-09-06.md).
+The manuscript is complete, the rights package is present, and claim-level publication review now covers the full book. Prologue and Chapters 1–3 are mapped in the canonical source ledger; Chapters 4–7, 8–12, and 13–18 have focused release-evidence maps reviewing their current canonical text.
 
-## What is already ready
+This substantive decision is tied to Desk source `426ede5539a9fed5777acfacaf78816a884f15ea` plus the focused review artifacts created from that source. It does not mark Desk `Published` and does not waive mechanical validation.
+
+## What is ready
 
 - Book README says `Complete draft` with 18 of 18 numbered chapters plus prologue, front matter, and back matter checked into the Reader manifest.
 - `RIGHTS.md` and `rights.json` are present and identify Sven Hardy Benson as author/copyright owner under the `bookself-arr-v1` rights profile.
-- The research packet includes a research brief, book brief, chapter briefs, a normalized source ledger, and a bounded release-evidence map.
-- The thesis is bounded appropriately: the book does not claim that AI inevitably causes diplomatic crisis or that machine output substitutes for political authority.
-- Prologue and Chapters 1–3 already have detailed source coverage in the canonical ledger.
-- **Chapters 4–7 now have a completed claim-level release pass.** Current practitioner and institutional sources were checked where the chapters make claims about diplomatic AI assistance, media authentication, senior decision support, alliance digital experimentation, and AI governance. No manuscript correction was required in those four chapters.
+- The research packet includes a research brief, book brief, chapter briefs, a normalized source ledger, and claim-level release maps spanning Chapters 4–18.
+- The thesis remains bounded: the book does not claim that AI inevitably causes diplomatic crisis, that machine output substitutes for political authority, that strategy documents prove deployment, or that experiments prove measured foreign-policy effectiveness.
+- No reviewed current factual claim requires manuscript remediation before mechanical release validation.
 
-## Chapters 4–7 findings
+## Claim-level review coverage
 
-The September 6 evidence map records the controlling boundaries rather than upgrading strategy, experimentation, or official self-description into measured effectiveness:
+### Prologue and Chapters 1–3
 
-- Chapter 4 distinguishes useful machine translation from the political and institutional context that lives outside the sentence. Current diplomatic practitioner evidence supports AI-assisted analysis and drafting but does not establish a measured machine-translation failure rate; the chapter does not claim one.
-- Chapter 5 is supported by DARPA media-forensics work and C2PA provenance standards while explicitly preserving the distinction between provenance, truth, identity, constituency, and political effect.
-- Chapter 6 now has direct senior-diplomat practitioner evidence from Singapore alongside NIST governance material. The chapter does not claim heads of government routinely use unmediated AI policy systems or that AI improves outcomes by itself.
-- Chapter 7 is mapped to deterrence research, NATO AI governance, and current NATO digital/interoperability experimentation. Those sources support the existence of active testing and governance work, not a claim that adversary models reliably predict future intent.
+The canonical source ledger provides detailed historical, archival, government, authentication, and early diplomatic-AI evidence. The Cuban Missile Crisis records preserve differences between U.S. and Soviet accounts rather than forcing a single retrospective narrative.
 
-## Remaining blocking evidence gaps
+### Chapters 4–7
 
-1. **Chapters 8–18 still need claim-level source coverage.** They retain chapter briefs and useful research seeds, but publication clearance requires explicit supporting and counterevidence for their material factual/current claims rather than assuming the Chapters 1–7 evidence generalizes automatically.
-2. **The remaining publication research priorities must be resolved where material.** These include a current U.S.–China strategic-communication chronology, practitioner evidence on AI-assisted mediation, comparative small-state evidence, current alliance implementation boundaries, and primary/authoritative support for protocols and military-AI risk-reduction claims used later in the book.
-3. **Current-deployment language must remain separated from strategy and experimentation.** The Chapters 4–7 pass closed this issue for its tranche; the same discipline still has to be applied to Chapters 8–18.
-4. **Later changed chapters require evidence review against their current text.** The Chapter 7 expansion is now covered. Any Chapters 8–18 that changed after the original research seeds must be reviewed in their current canonical form rather than assumed covered by older notes.
+[Release evidence map — Chapters 4–7](release-evidence-map-2026-09-06.md) reviews translation/context, synthetic publics, senior decision support, adversary modeling, NATO experimentation, authentication, and governance. It distinguishes strategy, practitioner self-description, experimentation, and measured effect. No manuscript correction was required.
 
-## Precise remediation
+### Chapters 8–12
 
-Before reconsidering release:
+[Release evidence map — Chapters 8–12](release-evidence-map-08-12-2026-09-06.md) reviews crisis time, backchannels, negotiation search, alliance interoperability, and commercial/open-source intelligence. It records the U.S.–China military-communications evidence through the latest official chronology found in the bounded check rather than implying continuous 2026 operation; uses current NATO CWIX/TIDE implementation evidence without treating exercises as combat performance; and treats current AI-assisted mediation work as developing practice rather than demonstrated interstate outcome improvement. No manuscript correction was required.
 
-1. Extend the release evidence map or equivalent chapter-source map through Chapters 8–18, recording supporting evidence, strongest counterevidence, and the exact boundary between observed deployment, announced strategy, experimentation, scenario analysis, and authorial synthesis.
-2. Recheck material current claims against authoritative/primary sources, especially U.S.–China crisis communication, NATO implementation, synthetic-media/authentication where reused, diplomatic mediation, small-state AI use, commercial intelligence/OSINT, risk-reduction protocols, and responsible military-AI initiatives.
-3. Narrow or remove any claim that cannot be supported rather than carrying a vague research TODO into release.
-4. Once substantive review is green, run the standard mechanical length gate and `python3 scripts/check-desk.py` on one frozen Desk source before creating a Desk/Shelf publication pair.
+### Chapters 13–18
 
-No additional human-review gate is imposed by this review. The blocker is now narrower and concrete: **Chapters 8–18 claim-level evidence review, followed by objective mechanical validation.**
+[Release evidence map — Chapters 13–18](release-evidence-map-13-18-2026-09-06.md) reviews small-state capacity, the authoritarian-speed countercase, procedural confidence-building, military-AI risk reduction, professional diplomatic work, and the concluding authority/responsibility synthesis. Current Singapore practitioner evidence supports the bounded claim that generative systems already assist senior diplomatic work; historical and current institutional evidence supports narrow protocols and ongoing military-AI norm-building; none is upgraded into a universal performance claim. No manuscript correction was required.
+
+## Controlling evidence boundaries
+
+The final review preserves these distinctions throughout the book:
+
+- announced strategy is not observed deployment;
+- an exercise or pilot is not measured wartime effectiveness;
+- official self-description is evidence of claimed practice, not an independent outcome study;
+- commercial GEOINT can expand observable-information access without replacing local political context or secure human sources;
+- AI can expand technical bargaining/search space without creating political authority, trust, legitimacy, or implementation capacity;
+- centralization can create real speed advantages without proving superior correction or decision quality;
+- provenance and authentication can establish origin or authorized process without proving truth, wisdom, or future compliance;
+- military-AI declarations and multilateral negotiations are real governance activity but are not comprehensive, verified arms-control regimes;
+- the final human-responsibility boundary is an institutional design claim, not a claim that humans are inherently better analysts than machines.
+
+## Mechanical publication gates
+
+The substantive review is green, but publication remains blocked until one frozen committed Desk source passes both repository-conventional commands:
+
+1. `python3 scripts/check-book-length.py the-last-human-channel`
+2. `python3 scripts/check-desk.py`
+
+If either command reports an actual failure, remediate that concrete failure and re-run it. Do not substitute file-size estimates, partial counts, or a hosted CI gate.
+
+Only after both commands pass should a matched Desk/Shelf publication pair be created from the same frozen Desk commit, with Desk remaining the working edition and Shelf receiving the intentional publication snapshot.
+
+No additional human-review gate is imposed.
