@@ -215,3 +215,65 @@ A nation that had once defined naval power by what could be seen on the horizon 
 The boat's greatest achievement was not disappearing beneath the water.
 
 It was making the Navy follow.
+
+The time between rejection and purchase is worth restoring because it shows how much institutional opinion had to move.
+
+Holland first submitted a submarine design to the U.S. Navy in 1875. The Navy rejected it as impractical. He kept working. Two decades later, after a succession of experiments and disappointments, the privately built Holland was launched in the late 1890s and subjected to tests persuasive enough that the Navy bought it on April 11, 1900.
+
+That is twenty-five years between an idea arriving at the institution and the institution making it property.
+
+The delay can be read two ways.
+
+The Navy was slow.
+
+Holland's technology was not ready.
+
+Both can be true.
+
+This is a more useful pattern than the inventor-versus-bureaucrat morality play. An institution that adopts every plausible prototype wastes money and lives. An institution that waits for certainty may discover that the future belongs to someone else. The procurement problem is to know when technical immaturity has fallen below strategic risk.
+
+Holland's 1897 boat crossed that line.
+
+The Navy's response after purchase shows that officials understood they were buying more than one hull. Six more submarines of the type were ordered. Holland went to Annapolis and trained cadets, officers, and enlisted personnel. The boat was used to gather data for submarines already under construction or consideration. A 166-mile surface run from Annapolis to Norfolk in January 1901 became an experiment in endurance as much as a transfer between ports.
+
+The first submarine was therefore immediately treated as a prototype for a force.
+
+That is the institutional threshold the earlier Turtle and Hunley never crossed for the U.S. Navy. Both had demonstrated possibilities. Neither created a durable Navy community with procurement authority, training pipelines, follow-on classes, and careers.
+
+Holland did.
+
+The distinction resembles the difference between Colt's Paterson and Walker chapters. A prototype can prove that a mechanism works. A procurement program proves that somebody intends to live with the consequences.
+
+The consequences were intimate for submariners.
+
+Holland's complement was seven. Every man aboard was physically close to propulsion, batteries, weapons, ballast, controls, noise, heat, and the consequences of somebody else's error. Large surface ships could divide labor across hundreds of sailors. The small submarine compressed the organization into the machine.
+
+That compression changed training.
+
+The Navy could not simply assign generic sailors and expect experience to fill the gaps. The weapon demanded a specialized community whose technical knowledge was inseparable from survival. Qualification became part of combat readiness because one incompetent operator could endanger the whole crew before an enemy appeared.
+
+This is an early example of weapons turning personnel policy into technical design.
+
+A sophisticated weapon does not merely cost more money.
+
+It may require a different kind of person, a different career path, different screening, different schools, different maintenance culture, and a different tolerance for procedural discipline.
+
+The Navy's first submarine helped create all of those questions before it answered any of them completely.
+
+The propulsion problem alone ensured that the force would keep changing. Holland's gasoline engine was practical enough to reach the adoption threshold and dangerous enough that the Navy could not treat it as the final answer. Gasoline fumes inside a confined hull created fire and health risks. Batteries were heavy and inefficient. The design had solved “can we operate underwater?” without solving “what is the safest and most effective way to do this for years?”
+
+Again the first successful system creates the requirements for its successor.
+
+Diesel-electric submarines would improve the compromise.
+
+Nuclear propulsion would eventually erase much of it.
+
+The strategic weapon of the 1960s ballistic-missile submarine would be unrecognizable in scale, endurance and payload while remaining conceptually descended from the 1900 decision to make undersea operations a permanent Navy responsibility.
+
+That is why the Holland belongs to this decade despite doing so little fighting.
+
+The decisive action was administrative.
+
+The Navy stopped asking whether a useful submarine could exist.
+
+It started asking how many, how to train for them, and what the next one should do better.
