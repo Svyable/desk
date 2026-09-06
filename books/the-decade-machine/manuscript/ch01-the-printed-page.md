@@ -166,4 +166,80 @@ The press did it with pressure, ink, paper, and type.
 
 That was enough to win the first decade.
 
+There is one more reason to linger with the press before leaving the founding decade: printing was never just a machine in a room. It was an economy of scarce materials and skilled judgment.
+
+Type wore down. Paper cost money. Ink had to behave consistently enough to transfer a legible impression. Compositors had to turn manuscript into lines of metal type while deciding what to do with cramped space, damaged sorts, unusual spellings, corrections, and last-minute changes. Pressmen had to ink and pull sheets repeatedly. Apprentices and journeymen moved through shops where production knowledge lived in habits that did not appear on the title page.
+
+That materiality imposed choices on politics.
+
+A printer with limited paper could not reproduce everything. A newspaper with a fixed number of pages could not carry every letter, notice, casualty list, foreign report, advertisement, legislative act, and political essay offered to it. Editors and printers became bottlenecks because reproduction was cheaper than hand copying but not free. Their choices determined which arguments acquired more copies and which remained local.
+
+The technology therefore created a new gatekeeper even as it reduced an older gate.
+
+This will happen repeatedly in the book. The telegraph makes messages faster and gives network owners power over access. Radio makes national distribution cheap and gives license holders and networks unusual control over attention. The internet makes publishing cheap and gives discovery platforms extraordinary influence. Generative AI makes production cheap and raises the value of selection, verification, and trusted distribution.
+
+A cheaper copy does not eliminate scarcity.
+
+It moves scarcity somewhere else.
+
+In the 1770s, one of those scarcities was paper itself. Wartime disrupted trade and placed stress on supplies. Rags, mills, imported material, transport, and local production all mattered to whether a printer could turn political demand into physical sheets. The grand language of independence rested on an industrial base humble enough to overlook: fibers beaten into pulp, dried into paper, cut, stacked, carried, purchased, and finally fed into a press.
+
+That dependence makes the printed revolution less magical and more interesting.
+
+Ideas do not spread because history wants them to spread. They spread through supply chains.
+
+The same is true of the newspaper exchange system. Printers did not need a single centrally managed national newsroom. They copied from one another. A report printed in one town could travel as a physical newspaper to another printer, who might reprint all or part of it. This created a decentralized replication network in which information jumped from press to press.
+
+The process was lossy.
+
+Headings changed. Spelling changed. Editors shortened. Context disappeared. Rumor entered the chain. A printer could favor a partisan account. A late report might be overtaken by a newer one before reaching distant readers. Yet the system had redundancy. Many papers could carry versions of the same event, and readers could compare accounts when multiple papers reached them.
+
+That structure looks surprisingly modern.
+
+There was no master database containing “the news.” There were nodes with local copies, incomplete information, incentives, errors, and relationships with other nodes. The system achieved national reach through repeated local acts of copying.
+
+Its weakness was also its strength.
+
+A government could pressure a printer. An army could interrupt a route. A shop could burn or run out of paper. But there was no single switch that turned off colonial print culture everywhere. The network could reroute socially because other printers could reset the words.
+
+This is why the oral life of print matters so much too.
+
+The number of people touched by a printed page was larger than the number who personally read that page. A broadside nailed in a public place could become a gathering point. A newspaper could be shared. A tavern could turn one purchased copy into a roomful of listeners. A minister or official could read a text aloud. Soldiers could hear orders or declarations through organized reading.
+
+One physical copy could therefore produce many human receptions without another pass through the press.
+
+Printing and speech were complements, not rivals.
+
+The page stabilized the wording. The voice widened the audience.
+
+That matters when thinking about literacy. It is tempting to imagine a clean division between literate citizens inside print culture and everyone else outside it. The real information environment was more porous. People encountered print indirectly through readers, public notices, images, symbols, prices, names, and conversations sparked by documents they did not personally decode line by line.
+
+A communications technology changes society partly through secondary users.
+
+The person who never owns a car can live in a city rebuilt for cars. The person who never buys a radio can live inside politics reorganized around broadcasting. The person who never creates a social-media account can work for an institution responding to social-media pressure. Adoption statistics alone can understate system reach.
+
+Founding-era print worked the same way.
+
+Its political reach exceeded its subscriber list.
+
+The darker side is equally important. A runaway advertisement could circulate a detailed description of an enslaved person’s body, skills, clothing, speech, and likely destination, turning the press into an instrument of pursuit. Commercial notices could normalize buying and selling human beings by placing them inside the ordinary information architecture of the marketplace. Loyalist printers could be threatened because political movements understood that controlling a press meant controlling replication capacity.
+
+The machine did not merely carry lofty arguments about liberty.
+
+It helped administer the contradictions of the society making those arguments.
+
+That is precisely why the printed page belongs at the beginning of this book. The first technology does not offer a clean morality tale in which better communication produces better politics. It offers a more durable rule: the technology that expands coordination expands the capability of institutions and people with very different purposes.
+
+A press can spread a declaration.
+
+It can spread a price.
+
+It can spread a law.
+
+It can spread a lie.
+
+The historical question is not whether copies are good.
+
+It is what becomes possible when copies become easier to make.
+
 **What would prove this choice wrong?** If the founding-era information system is better understood as a logistics achievement than a reproduction achievement—if postal routes, riders, committees of correspondence, and face-to-face institutions did most of the causal work while printing merely formatted messages already moving effectively—then the press is too grand a winner. The other serious challenge is military technology: if “importance” is defined by the immediate survival of the Revolution rather than the construction of a reproducible political order, firearms and naval capability become difficult to beat. I choose the printed page because independence had to become a shared text before it could become a durable state, but the choice rests on a definition of importance that values coordination as much as combat.
