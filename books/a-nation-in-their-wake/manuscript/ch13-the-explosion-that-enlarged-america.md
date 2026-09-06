@@ -22,6 +22,20 @@ The explosion supplied one.
 
 Newspapers competed aggressively for readers, and sensational coverage amplified claims about Spanish responsibility before evidence justified certainty. The phrase “Remember the Maine” became a rallying cry. Public outrage narrowed the political space for patience.
 
+The newspaper story is often told too neatly too.
+
+“Yellow journalism” becomes a villain with a printing press, and the war becomes an early example of media manipulation. Sensational newspapers did matter. Their headlines, illustrations, circulation wars, and aggressive advocacy helped create an atmosphere in which confident accusations moved faster than careful qualification.
+
+But newspapers did not invent Cuban suffering, American strategic interest, congressional pressure, Cuban activism, or decades of conflict with Spain.
+
+Media amplification needs something to amplify.
+
+This distinction matters because blaming “the media” can become another way to simplify mass politics. Readers bought papers because the story engaged fears and values they already possessed. Politicians used coverage and were influenced by it. Publishers competed for attention. Cuban advocates understood American public opinion and tried to shape it. Government officials leaked, briefed, denied, and responded.
+
+The information environment was a system too.
+
+The explosion entered that system at exactly the kind of moment it handled badly: emotionally urgent, strategically important, and technically uncertain.
+
 Investigations followed, but the physical cause of the explosion has remained disputed across generations. The original American naval inquiry concluded that an external mine had caused an explosion that detonated the ship's magazines. Later analysis produced competing theories, including an internal coal-bunker fire leading to magazine detonation. Subsequent studies have continued to disagree over the evidence.
 
 The uncertainty matters because it separates two historical questions that are often collapsed.
@@ -35,6 +49,18 @@ The second question has a much clearer answer.
 The disaster accelerated an already dangerous crisis.
 
 President William McKinley did not rush instantly into war. He continued seeking a diplomatic resolution and pressed Spain for changes in Cuba. Spain made concessions. Yet American demands and public pressure continued. Congress eventually authorized armed intervention, and the United States declared war in April 1898.
+
+The delay between explosion and war deserves more attention than the slogan.
+
+It shows that leaders still had agency after the symbol formed.
+
+McKinley had political space, however narrowing, to test diplomacy, gather information, and decide whether the larger Cuba problem justified intervention independently of the exact cause of the blast. Congress had its own views. Spain had choices. Cuban revolutionaries had objectives not identical to Washington's.
+
+A crisis creates pressure.
+
+It does not remove decision.
+
+This is important because later officials often describe choices made under public anger as if the anger itself decided. Democratic leadership is precisely the work of acting while citizens are angry without assuming anger supplies strategy.
 
 The Spanish-American War was not caused by one explosion.
 
@@ -72,6 +98,12 @@ Radio, television, cable news, online media, and social platforms each accelerat
 
 The first explanation can reach millions before investigators reach the scene.
 
+Modern governments have more tools for handling the gap and more ways to make it worse. Satellite imagery, sensors, forensic laboratories, intelligence collection, and instant communications can accelerate evidence. Officials, pundits, anonymous accounts, manipulated images, and algorithmic distribution can accelerate claims faster still.
+
+The technology changes.
+
+The political appetite for a culprit does not.
+
 *Maine* is therefore not only a chapter about an old battleship.
 
 It is a chapter about national decision-making when emotion has a shorter transmission time than evidence.
@@ -94,7 +126,21 @@ That is why the chapter title calls *Maine* the explosion that enlarged America.
 
 The ship did not mechanically produce the territorial outcome. It accelerated a war whose settlement enlarged the jurisdiction and strategic responsibilities of the United States far beyond the continent.
 
-The Philippines made the change especially stark.
+The strongest rival for the 1890s is USS *Olympia*, Commodore George Dewey's flagship at Manila Bay. If the decade were being chosen by naval performance alone, *Olympia* has an excellent claim. She is the ship of decisive action rather than ambiguous destruction. Her squadron's victory made American power in the Philippines a military fact.
+
+*Maine* wins because uncertainty proved more consequential than clarity.
+
+*Olympia* shows what the New Navy could do.
+
+*Maine* shows why the political system decided to use it and what happened when one emotionally compressed event accelerated decisions whose consequences extended far beyond Cuba.
+
+The distinction is the book's method in miniature.
+
+The most important ship is not necessarily the one that performs the most important maritime feat.
+
+It is the one that opens the decade most widely.
+
+The Philippines made the enlargement especially stark.
 
 Filipino revolutionaries had fought Spanish rule and expected independence. After Spain transferred the islands to the United States, conflict broke out between American forces and the Philippine Republic. The Philippine-American War was long, brutal, and accompanied by atrocities, civilian suffering, and debates over the legitimacy of American rule.
 
@@ -125,6 +171,22 @@ Success creates constituencies.
 A capability proven in war becomes easier to fund afterward because its usefulness is no longer hypothetical. Victories produce heroes, traditions, veterans, ship names, congressional districts, procurement programs, and strategic doctrines.
 
 The fleet becomes politically harder to shrink.
+
+Empire added another ratchet.
+
+Once the United States governed islands across the Pacific and Caribbean, advocates of naval power could point to the territories themselves as interests requiring protection. The acquisition that naval capability helped make possible became an argument for more naval capability.
+
+This is a self-reinforcing strategic loop.
+
+Possessions require routes.
+
+Routes require bases and protection.
+
+Bases and protection make farther operations possible.
+
+Farther operations create new interests.
+
+None of the steps is automatic. Together they can make retrenchment increasingly expensive because withdrawal now means deciding which existing commitment to abandon.
 
 Theodore Roosevelt understood this connection unusually well.
 
@@ -183,6 +245,10 @@ A sound policy should survive the loss of its most emotionally powerful anecdote
 That is a useful test far beyond this episode.
 
 If the argument for action collapses when one dramatic claim becomes uncertain, the argument was too dependent on the claim.
+
+The same test can be applied in reverse. If the larger case for action remains strong even after the dramatic claim weakens, policymakers should say so explicitly rather than preserving a convenient story because it mobilizes support.
+
+Democratic consent is strongest when the public is asked to support the real argument.
 
 *Maine* became famous because she made a complicated case simple.
 
