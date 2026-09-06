@@ -74,6 +74,40 @@ The campaign also reveals the young republic’s dependence on trust. There was 
 
 Women were unusually positioned to do that work inside household networks. The same social structure that excluded them from formal politics gave them information and access within neighborhoods. Reed’s innovation was to aggregate that household-level access into a citywide operation.
 
+The association’s spread beyond Pennsylvania makes the word “national” worth handling carefully. The United States of 1780 was a confederation at war, not a consolidated administrative state. A plan did not become national because a central office issued identical instructions to every locality. It became national by correspondence, newspaper circulation, personal reputation, imitation, and adaptation. The Library of Congress traces related women’s drives in Maryland, New Jersey, and Virginia, encouraged by Reed and Martha Washington. Those efforts did not duplicate Philadelphia in every detail. They translated the idea into local conditions.
+
+That is what a network looks like before professional networking exists.
+
+The mechanism also helps distinguish Reed from Sarah Franklin Bache without diminishing Bache. After Reed’s death, Philadelphia women had to decide whether the project had died with its initiator. It did not. Bache and others continued purchasing, cutting, and sewing linen. By late December, Bache forwarded more than two thousand shirts to Washington. The result gives the chapter a rare organizational test: can a project survive the loss of the person whose name is attached to it?
+
+If the answer had been no, Reed’s importance would be closer to charisma. The women’s continuation suggests procedure, shared purpose, and distributed competence. Somebody knew what had been promised. Somebody knew where the money was. Somebody could procure the cloth. Somebody could organize the work. The finished shirts could be gathered, counted, and delivered without Reed standing in the room.
+
+That is a small definition of institutional life.
+
+The contrast with the federal government is easy to overstate. Washington and Congress were not useless; the Continental Army had quartermasters, commissaries, state supply systems, contracts, and officers struggling constantly to provision the force. The women did not replace the military supply chain. Their work mattered because that chain operated under severe fiscal and administrative stress. Voluntary capacity could fill specific gaps when public capacity was insufficient.
+
+This distinction will matter later in the book. Reformers often become historically visible where a state fails, but the existence of the reformer does not prove that government should disappear. Dorothea Dix would expose conditions in jails and asylums partly to demand more public responsibility. Jane Addams’s settlement work would generate information that reformers carried into municipal and state policy. Frances Perkins would move in the opposite direction entirely, taking reform knowledge into federal administration. Reed belongs near the beginning of that long movement because her network sits outside government while solving a problem government recognizes as its own.
+
+The episode also clarifies what “public” meant for women before voting rights. Public action did not begin at the ballot box. The women canvassing Philadelphia entered other households, handled money that was not their own, made a collective claim in print, corresponded across state lines, negotiated with the commander in chief, and allowed their work to be reported in newspapers. None of those acts made them equal citizens. All of them exceeded a purely private domestic role.
+
+The distinction between political right and political practice is essential. Rights determine what a person may demand from the constitutional order. Practice determines what skills, habits, relationships, and expectations already exist before the right arrives. Women who learn to keep subscription books, manage committees, organize districts, write appeals, and account for funds do not become voters by doing so. They do become harder to describe as incapable of public responsibility.
+
+Reed’s broadside used the conventions of her time rather than rejecting them. Its argument drew on female virtue, patriotic sacrifice, and exemplary women from history. That rhetoric could preserve hierarchy even as it widened action. A woman might claim authority because she was a virtuous wife or mother rather than because sex should be irrelevant to citizenship. The bargain created room and a ceiling at the same time.
+
+Later women’s movements would repeatedly face the same strategic choice. Should women demand access by emphasizing qualities society already approves in women, or insist that the categories themselves are unjust? Maternalist reform could protect children and workers while reinforcing the idea that women’s legitimate public authority came from motherhood. Temperance organizing could open civic space while tying women’s politics to moral guardianship. Reed’s patriotic service is an early version of this double movement: accommodation creates leverage, and leverage can eventually expose the limits of the accommodation.
+
+This is where Mercy Otis Warren becomes a more serious rival than a list of famous Revolutionary women might suggest. Warren wrote political satire and later a history of the Revolution, and she moved within elite political networks as an intellectual participant rather than only as a hostess or fundraiser. Her work demonstrates that women could interpret national politics as well as support it. Yet much of the consequence that makes Warren a major figure is dispersed across a long writing life. Reed’s 1780 campaign is unusually concentrated inside the birthday window and unusually easy to trace from proposal to organization to material output.
+
+Sarah Franklin Bache presents the opposite problem. Her claim is concentrated and practical. She finished the work. The reason Reed remains the winner is not that initiating always matters more than executing. It is that the Philadelphia drive’s public argument and organizational design preceded Reed’s death, and the fact that Bache could inherit the operation is evidence for the design rather than evidence against it. A good organization should be able to survive the founder.
+
+That is also why the number of contributors matters more than celebrity names on the subscription list. A network of 1,645 recorded donors means the project’s force cannot be explained by a few elite women giving large sums. Its legitimacy came partly from aggregation. Many separate household decisions became one public fact.
+
+Aggregation is one of democracy’s hidden technologies.
+
+Votes aggregate preferences. Petitions aggregate signatures. Unions aggregate workers. Boycotts aggregate refusals. Donations aggregate resources. A single contribution may be negligible; a system for collecting thousands can alter what an institution is capable of doing. Reed’s campaign belongs in that family of technologies even though its participants lacked equal democratic rights.
+
+The young republic was learning that collective action could create capacity faster than formal authority could sometimes supply it. Women learned the lesson too.
+
 Seen this way, the first decade of the United States begins with a problem the country will never fully solve: where does public capacity come from when formal institutions are insufficient?
 
 Sometimes from government.
