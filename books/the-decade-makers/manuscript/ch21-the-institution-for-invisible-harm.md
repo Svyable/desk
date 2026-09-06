@@ -217,3 +217,55 @@ Once a harm has a docket, it can be measured, contested, regulated, litigated, w
 It has entered the institution.
 
 That may be the moment society begins to see it.
+
+The chapter becomes stronger if we stay with one pollutant long enough to watch the institution change behavior.
+
+Lead is useful because nobody needed a theory of environmental aesthetics to understand the stakes. Lead was added to gasoline in the twentieth century to improve engine performance by reducing knocking. It was also a neurotoxin. The harms of lead exposure were not newly discovered in the 1970s, but motor fuel had created a mechanism for distributing lead through exhaust into air, dust, soil, and bodies on a vast scale.
+
+The regulatory problem was unusually difficult for politics because the damage was cumulative and widely dispersed. There was no single poisoned river to photograph. Millions of cars emitted small amounts that became a population exposure.
+
+EPA began regulating lead in gasoline under the Clean Air Act framework in the 1970s. The agency’s phase-down interacted with another technological change: catalytic converters, introduced to meet automobile-emissions standards, could be damaged by leaded fuel. Pollution control in one domain therefore strengthened the case for changing fuel chemistry in another.
+
+This is how institutional change compounds. A standard for tailpipe pollution changes automotive engineering. New engineering changes fuel requirements. Fuel rules change refinery investment and retail infrastructure. The entire private system reorganizes around a public standard.
+
+The resulting benefits took time to become visible. Blood-lead levels in the population fell dramatically over subsequent decades as lead was removed from gasoline and other sources were addressed. The policy’s later success can make the original fight seem obvious.
+
+It was not obvious to every interested institution at the time.
+
+Industry disputed timelines, costs, technical feasibility, and some scientific claims. Regulators had to defend their authority in court and refine rules. Companies adapted. Engineers found alternatives. Consumers bought cars that complied without needing to understand the atmospheric chemistry behind the fuel pump.
+
+The institution succeeded when compliance became ordinary.
+
+The same decade produced another instructive case in Love Canal, a neighborhood in Niagara Falls, New York, where buried chemical waste became the focus of intense public concern in the late 1970s. Residents, including activist Lois Gibbs and others, demanded government attention to health risks and relocation. State and federal responses exposed how poorly existing institutions were equipped to assign responsibility for hazardous sites created by past disposal practices and changing land use.
+
+Love Canal helped build political support for the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, better known as Superfund, just beyond the decade’s formal edge.
+
+That sequence matters to this book’s method.
+
+An institution becomes decisive not only by solving known problems. It becomes decisive by creating a jurisdiction into which new problems can be placed.
+
+Before EPA, a contaminated site could be a local health matter, a property dispute, an industrial-relations issue, a state regulatory problem, or simply an abandoned mess. After EPA, there was an emerging federal environmental vocabulary capable of asking who contaminated the land, how exposure should be measured, who should pay, and what cleanup meant.
+
+The institution converted a neighborhood’s fear into a category of national policy.
+
+The most difficult counterargument to the EPA choice is not that regulation costs money. Every serious regulatory institution does.
+
+It is that the 1970s may have been more fundamentally shaped by institutions of energy and money than by environmental regulation.
+
+The oil shocks changed inflation, transportation, foreign policy, industrial competitiveness, and household behavior. The Federal Reserve’s struggle with inflation, culminating in Volcker’s appointment in 1979, set up one of the most consequential monetary shifts in modern American history. Congress’s response to Watergate changed oversight, campaign finance, intelligence scrutiny, and expectations around executive secrecy.
+
+Those institutions governed visible crises.
+
+EPA governed a slower category of crisis whose absence of drama was part of the problem.
+
+That distinction is why it still wins.
+
+The institution taught the federal government how to represent people who were not at the bargaining table and costs that were not on the invoice.
+
+That skill became increasingly important as the economy grew more technologically capable.
+
+The more chemistry, energy, agriculture, mining, manufacturing, and transportation can do, the larger the gap can become between a private transaction and its public consequences.
+
+EPA was the institution built for the gap.
+
+And because the gap is never fully closed, the argument over EPA can never fully end.
