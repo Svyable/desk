@@ -169,3 +169,63 @@ Those questions survive any verdict on morphic resonance.
 A heresy is most valuable when it forces orthodoxy to become more precise.
 
 This one forces us to ask where the world's memory actually is.
+
+There is a useful asymmetry in how a radical claim should be treated once the social theater is stripped away.
+
+The hypothesis does not need a complete mechanism before anyone is allowed to investigate it. Science has often encountered effects before the accepted explanation was available. A stable, replicable phenomenon can be worth studying even while its mechanism remains uncertain.
+
+But uncertainty about mechanism raises the burden on the phenomenon itself.
+
+If the proposed cause cannot yet be measured directly, the effect has to become unusually well characterized. It should recur under predeclared conditions. It should survive changes of laboratory. It should have a dose or gradient when the theory predicts one. It should fail where the theory says it should fail. Competing explanations should become less plausible as controls improve rather than multiplying indefinitely around every positive result.
+
+This distinction is important because critics sometimes demand too much at the beginning and enthusiasts demand too little at the end.
+
+A critic may say, “There is no known physical mechanism, therefore the effect cannot exist.” That is stronger than the evidence warrants. Unknown mechanisms are possible.
+
+An enthusiast may say, “The mechanism is unknown, therefore conventional objections do not matter.” That is weaker than science requires. Unknown mechanisms do not receive immunity from controls.
+
+The middle position is not a compromise between camps. It is a sequencing rule.
+
+Establish the phenomenon first.
+
+Then argue about the mechanism.
+
+Morphic resonance has not crossed that first threshold in a way that commands broad scientific acceptance. That statement should not be confused with a claim that every experiment ever associated with the idea has been fraudulent or worthless. The point is that the evidentiary package has not become strong enough, reproducible enough, and discriminating enough to force the rest of biology and physics to add the proposed channel.
+
+That is the standard a theory this consequential should want.
+
+A small, unstable anomaly can support more experiments.
+
+A new force of nature requires more than an anomaly.
+
+It requires a pattern that becomes harder to dismiss as methods improve.
+
+There is another social trap around heresy: identity can attach itself to the verdict.
+
+Once a person becomes known as a defender of a controversial idea, a failed experiment threatens more than a prediction. Once another person becomes known as a prominent skeptic, a successful replication can threaten more than a model. Public debate rewards consistency of persona. Science rewards the ability to change one's mind when evidence changes.
+
+Those incentives are not the same.
+
+The best experiment is therefore one whose result both sides have agreed in advance to respect. Not because agreement guarantees truth, but because it exposes the places where disagreement otherwise escapes into interpretation after the fact.
+
+What outcome would raise the skeptic's probability?
+
+What outcome would lower the proponent's?
+
+What result would both sides call ambiguous?
+
+Those questions are often more revealing than asking who is “open-minded.”
+
+Open-mindedness without update rules can become a personality claim.
+
+A scientific disagreement needs a path by which the parties could stop disagreeing.
+
+This book will return to that idea in its proposed experiments. It matters here because a genuine heresy deserves an exit from permanent heresy. If the effect is real, the path should lead toward ordinary science: repeatable measurements, better models, instruments, boundaries, and eventually applications or deeper theory. If the effect is not real, the path should allow the claim to lose scope rather than expanding to protect itself.
+
+Permanent ambiguity is not a victory for either side.
+
+It is a failure to design a decisive enough question.
+
+The most respectful thing we can do with Sheldrake's proposal is therefore not to protect it from science.
+
+It is to make science difficult enough that a surviving result would matter.
