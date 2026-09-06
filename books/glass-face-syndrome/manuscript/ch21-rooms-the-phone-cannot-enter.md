@@ -483,3 +483,147 @@ A conversation that can tolerate being unreachable for an hour.
 Rooms that do not hate the phone.
 
 Rooms that simply know when it is not invited.
+
+A durable room rule also needs legitimacy.
+
+People follow boundaries more readily when they understand what the boundary protects, when the rule applies to the powerful as well as the less powerful, and when exceptions are visible rather than arbitrary.
+
+This is where many device policies fail.
+
+The executive asks everyone to put phones away and then keeps one beside the notebook because important people may call.
+
+The parent confiscates the teenager’s phone while scrolling through work messages.
+
+The teacher prohibits student devices while school systems require students to use phones for authentication outside class.
+
+The restaurant asks diners to disconnect and provides only a QR-code menu.
+
+The contradiction teaches that the rule is status, not principle.
+
+A legitimate rule should survive reversal.
+
+Would the person imposing it accept the same limit when the limit becomes inconvenient to them?
+
+If not, the room has not created sovereignty. It has created hierarchy.
+
+This matters because the most powerful people are often the source of the interruption norms everyone else adapts to. A senior executive can safely ignore many messages that a junior employee feels compelled to answer. A parent can insist a child wait while expecting the child to respond immediately. A school can demand focus while sending administrative alerts throughout the day.
+
+Attention rules are credible only when the institution is willing to pay some of the cost.
+
+That cost may be tiny.
+
+Print the menu.
+
+Create an emergency number.
+
+Delay routine messages.
+
+Provide a clock.
+
+Tell parents exactly how to reach the office during class.
+
+Tell employees which channel constitutes a genuine emergency.
+
+Give guests a physical ticket option.
+
+The cost matters less than who bears it.
+
+If every phone-free policy simply transfers inconvenience onto the person being asked to disconnect, the smartphone will return because the smartphone was solving something real.
+
+The best rooms remove the reason for checking before condemning the check.
+
+There is a useful distinction here between prohibition and provision.
+
+Prohibition says: do not use the device.
+
+Provision asks: what function was the device performing, and can the room provide another route?
+
+A classroom that bans phones but leaves students without a way to contact home in an emergency creates predictable resistance.
+
+A classroom with a clear office contact path, documented accommodations, visible clocks, and predictable breaks can make the rule less costly.
+
+A meeting that prohibits phones for two hours without a break may ignore caregiving responsibilities.
+
+A meeting that protects forty-five focused minutes and then pauses creates a different bargain.
+
+A family dinner that requires every person to be unreachable for ninety minutes may be unrealistic in one household and easy in another.
+
+A twenty-minute shared boundary can still be real.
+
+The goal is not maximum purity.
+
+It is enough sovereignty for the room to have a character of its own.
+
+That character is something smartphones quietly flattened.
+
+The same posture can now appear in almost every setting because the same device can serve almost every setting. The church, airport, classroom, bedroom, bus, office, and park all contain the same glowing rectangle and many of the same channels behind it.
+
+Rooms used to differ partly because their tools differed.
+
+The smartphone homogenized the tool layer.
+
+Collective norms can reintroduce difference.
+
+This is a reading room.
+
+This is a playing field.
+
+This is a meal.
+
+This is sleep.
+
+This is work.
+
+This is a place where recording requires consent.
+
+This is a place where emergencies may enter but promotions may not.
+
+A civilization does not become less free because every context is not governed by identical defaults.
+
+Context is how freedom becomes usable.
+
+Traffic lanes constrain movement so roads can work. Libraries constrain noise so reading can happen. Courts constrain speech order so proceedings can happen. A room can constrain digital interruption so attention can happen.
+
+The question is proportionality.
+
+Does the rule protect something the people inside actually value?
+
+Does it preserve necessary access?
+
+Does it apply fairly?
+
+Can exceptions be explained?
+
+Is the cost lower than the benefit?
+
+Does the room provide alternatives for functions it asks people to surrender?
+
+Those questions are more useful than an abstract fight over whether phones are good or bad.
+
+They also prepare us for the post-phone world.
+
+When computing moves into glasses, earbuds, watches, rooms, and agents, storage baskets will not be enough. The boundary will have to become semantic.
+
+No recording in this conversation.
+
+No external assistance during this examination.
+
+No employer alerts during this family interval.
+
+No recommendation system during this walk.
+
+No automated messages sent in my name while I am with these people.
+
+The room will need to govern capabilities rather than objects.
+
+That is a harder form of etiquette because the technology may be invisible.
+
+It is also a more honest one.
+
+The phone was never the ultimate issue.
+
+Jurisdiction was.
+
+Who gets to enter the moment?
+
+A healthy technological culture will answer that question before the interruption arrives.
