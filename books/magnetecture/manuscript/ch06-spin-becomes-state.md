@@ -124,6 +124,78 @@ Spintronics made the electron's magnetic degree of freedom technologically addre
 
 It is whether magnetic state has become programmable enough to deserve a larger role in the architecture of machines.
 
+The next step in answering that question is to stop treating a bit as an isolated device.
+
+A memory cell lives in an array. An array lives beside sense amplifiers, write drivers, row and column selection, error correction, power delivery and interconnect. That hierarchy determines whether the physical advantage of one magnetic junction survives at scale.
+
+Take readout. A magnetic tunnel junction changes resistance between states, but the read circuit must distinguish those states with margin despite device-to-device variation, temperature drift and electrical noise. Increase the read voltage and the signal can improve while the risk of disturbing the stored state may also increase. Reduce voltage and the bit becomes harder to sense reliably.
+
+The cell therefore has a read window, not simply a resistance ratio.
+
+Writing has a similar distribution. Identical nominal pulses do not necessarily switch every device at exactly the same current or time. Thermal fluctuations, edge roughness, layer thickness and material variation create switching distributions. A reliable memory controller sets margins or verifies writes, spending energy and time to overcome physical uncertainty.
+
+This is where stochasticity becomes a design choice.
+
+For conventional memory, a randomly switching bit is a failure mode to suppress. For probabilistic computing, the same thermally assisted switching can be intentionally operated near a regime where state transitions have useful probabilities. A designer can represent uncertain variables or sampling behavior using physics that digital hardware would otherwise emulate with pseudorandom generators and arithmetic.
+
+The same magnetic junction can therefore belong to two architectures with opposite opinions about noise.
+
+This is an important pattern in magnetecture. There is no intrinsically good magnetic behavior outside an objective. Persistence, hysteresis, stochasticity, coupling and nonlinearity become resources only when the application wants them.
+
+It also explains why benchmark discipline is difficult. One paper can report a low-energy probabilistic device and another can report a highly stable memory cell. The numbers are not directly comparable because the desired error rates are different. The first architecture may count randomness as useful output; the second counts it as data corruption.
+
+System metrics have to carry the task definition.
+
+The possibility of “normally off” computing illustrates another architectural advantage of nonvolatility. A conventional processor loses volatile state when power disappears, so keeping context alive requires powered memory or checkpointing to nonvolatile storage. A system containing nonvolatile state closer to computation could power down more aggressively between bursts of activity and resume without reconstructing as much state.
+
+This is especially attractive for intermittent or energy-harvesting devices.
+
+Imagine a sensor node powered by small, irregular amounts of environmental energy. A volatile controller must either maintain enough stored energy to preserve state or reboot repeatedly. Nonvolatile logic and memory can preserve progress through power interruptions. The system becomes tolerant of power as a sporadic resource.
+
+Magnetic state is not the only way to build such devices, and competing nonvolatile memories exist. The point is architectural: persistence changes power management.
+
+A state that survives darkness lets the computer treat electricity as an event rather than a continuous condition.
+
+The same property matters in safety. A control system may want a known retained configuration after power loss. Magnetic memory can preserve parameters, calibration or last-known state locally. But persistence can also preserve corrupted state. Nonvolatility removes automatic forgetting, so recovery procedures have to distinguish valuable history from errors that should be cleared.
+
+Persistent machines need deliberate reset semantics.
+
+This is a subtle echo of the reprogrammable soft body. Once physical state persists, shutdown no longer guarantees a return to a neutral condition. The system needs a defined relationship among power cycle, state retention and safe initialization.
+
+At chip scale, interconnect can dominate even when the magnetic device is excellent.
+
+A memory element a few tens of nanometers wide can sit beneath metal lines whose capacitance and resistance cost more energy to charge than the bit itself needs to switch. Long wires create latency. Peripheral transistors occupy area. If a proposal quotes only the magnetic switching event, it can undercount the real operation by orders of architectural significance even without any dishonesty.
+
+The useful metric is energy at the interface the application actually uses.
+
+For memory, that may be energy per completed read or write including drivers. For in-memory computing, it may be energy per useful vector operation including data conversion. For oscillators, it may be energy per classified sample including synchronization and readout.
+
+This is why magnetic computing research increasingly needs circuit and architecture co-design rather than device physics alone.
+
+The question “Can this state switch?” was sufficient at an early stage. The next question is “Can a million of them work together?”
+
+A million devices create new phenomena. Statistical tails matter. A one-in-a-million failure becomes routine. Thermal gradients appear across the chip. Fabrication variation becomes spatial. Calibration overhead becomes a storage problem of its own. Error correction can convert a rare physical event into acceptable digital reliability, but it consumes area and energy.
+
+Scaling does not merely multiply the single-device result.
+
+The same is true for analog magnetic weights. A laboratory may tune a device across many conductance levels, suggesting compact neural-network weights. But useful inference requires those levels to remain separated under noise and drift, to be programmed accurately, and to survive enough updates. If only a handful of effective levels remain after variation, the algorithm has to adapt to that reality.
+
+Co-design can make a weaker device useful. Neural networks can be trained with hardware-aware noise. Redundant cells can represent one weight. Calibration can measure each device's transfer function. Mixed-signal circuits can compensate for offsets.
+
+Again, software can absorb some material imperfection, but not without cost.
+
+This leads to a more precise definition of programmable magnetic state: the state must be addressable at the system's required error rate.
+
+A state that can be switched once under a microscope is a scientific result. A state that can be written by an array controller, sensed through standard circuitry, retained for the required interval, corrected when necessary and manufactured at yield is a technological primitive.
+
+The gap between those categories is where most of the work lives.
+
+Standard interfaces help close it. Once a magnetic memory obeys an electrical contract expected by a processor, higher layers no longer care how the bit is physically retained. That invisibility is success. The magnetic mechanism earns an architectural role precisely by ceasing to demand attention from application software.
+
+Unconventional magnetic computing may take longer because the desired behaviors are less standardized. How should an operating system address an oscillator network? What is the instruction for a physical reservoir? How should a compiler expose stochastic magnetic sampling? Those questions are premature until the hardware advantages become repeatable, but they identify the platform threshold.
+
+A new device becomes a computing layer when its useful physics has an interface stable enough that other people can build on top of it.
+
 A bit that remembers without power is one answer.
 
 A body that remembers how to bend is another.
