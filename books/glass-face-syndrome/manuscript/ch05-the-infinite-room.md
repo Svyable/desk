@@ -315,3 +315,111 @@ The mistake is to interpret every failure to stop as proof of personal weakness.
 The room was built without a back wall.
 
 Of course some of us keep walking.
+
+The older world contained more endings than we noticed because endings were built into logistics.
+
+A store closed at nine because employees went home and the building had doors. A television schedule forced a viewer to wait a week for the next episode. A newspaper could be refreshed only by buying tomorrow’s paper. A record side ended because the groove ran out. A library imposed due dates. A letter took time because physical objects moved through distance.
+
+Many of these limits were frustrating. Innovation rightly attacked them.
+
+The mistake is assuming that every removed limit had only the value of the inconvenience it eliminated.
+
+Some limits also rationed attention.
+
+They created moments in which desire had to cool because fulfillment was temporarily unavailable. The store was closed. The friend was asleep and unreachable. The episode had not aired. The answer required a trip to the library. The photograph could not be seen until the film was developed. Waiting imposed a gap between wanting and getting.
+
+The smartphone compressed thousands of such gaps.
+
+Compression often feels like progress because it is progress in the narrow task. The message arrives faster. The answer appears faster. The purchase happens faster. The next episode starts faster. The ride comes faster. The photograph is visible faster. The next person can be evaluated faster.
+
+But speed changes behavior because delay was doing work even when nobody designed it as a safeguard.
+
+Delay lets preference change.
+
+You may no longer want the purchase tomorrow.
+
+The angry reply may look different after an hour.
+
+The argument may not need another article.
+
+The late-night question may be less urgent in morning light.
+
+A person you miss may become easier not to contact after the first wave of feeling passes.
+
+The infinite room makes acting at the peak of impulse unusually easy.
+
+This does not mean friction is always virtuous. Delay can deny medical information, prevent emergency contact, exclude people from financial services, and waste life in bureaucracy. The point is narrower: when we remove friction indiscriminately, we remove both useless obstacles and useful pauses.
+
+Then we ask individuals to recreate the useful pauses through discipline.
+
+Wait before buying.
+
+Do not reply angry.
+
+Stop after one episode.
+
+Put the phone across the room.
+
+Do not check the ex’s profile.
+
+Set a timer.
+
+Use an app limit.
+
+The irony is hard to miss. Software removes the natural stopping rule; software then sells or supplies an artificial stopping rule.
+
+This is not hypocrisy so much as technological maturation. We often discover the hidden function of an old constraint only after replacing it. The automobile created mobility and then required traffic laws, lanes, signals, licenses, guardrails, and seat belts. Electricity created extraordinary flexibility and required standards, breakers, insulation, and codes. A powerful capability arrives first. Social architecture catches up.
+
+The smartphone is still in that catching-up period.
+
+We are learning which edges should be restored deliberately.
+
+A service can ask whether autoplay should be the default.
+
+A feed can create a stopping cue.
+
+An operating system can batch low-priority alerts.
+
+A school can decide that homework should not require late-night messaging.
+
+An employer can define response windows.
+
+A household can make bedrooms less permeable.
+
+A person can choose to carry cash or a physical key as a small alternative path.
+
+None of these measures returns the old world. They reintroduce selected edges inside the new one.
+
+The distinction between an edge and a prohibition matters.
+
+An edge says: this activity has reached a boundary; continuing requires another choice.
+
+A prohibition says: you may not continue.
+
+The best digital boundaries may often be edges rather than bans. End the feed after twenty new items and offer a deliberate button to continue. Stop autoplay and let the viewer choose another episode. Deliver the work message in the morning unless the sender marks a true emergency. Remove the badge while keeping the application available. Ask the user whether a late-night purchase can wait until daylight.
+
+These are small designs, but they restore the moment in which enough can become visible.
+
+The problem with the infinite room is not abundance itself.
+
+Abundance is one of the great achievements of modern networks.
+
+The problem is abundance without punctuation.
+
+Language without punctuation becomes difficult not because the words are bad but because the reader loses structure. A life mediated by continuously available software has a similar problem. The experiences may be valuable. The user still needs commas, periods, paragraph breaks, doors, and nights.
+
+The physical phone gives misleading reassurance because it has an obvious edge. You can see where the glass stops.
+
+The software does not stop there.
+
+A six-inch rectangle can contain a news cycle that never closes, a market that trades around the world, friends in every time zone, entertainment produced faster than one life can consume it, stores that never lock, and work systems whose servers do not sleep.
+
+The edge we need is therefore not around the device.
+
+It is around the claim each system is allowed to make on time.
+
+That is harder to see and more important to design.
+
+The infinite room will remain.
+
+The mature question is whether it can learn where to put doors.
