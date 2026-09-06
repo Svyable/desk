@@ -55,7 +55,7 @@ The author asked to continue toward publication on 2026-09-06. This authorizes f
 
 ## Gate 5 — Freeze and release transaction
 
-- [ ] Freeze a named Desk commit/ref for the first-edition candidate after this publication-prep change lands.
+- [x] Freeze the first-edition candidate under the named Desk ref `release/autonomy-half-life-first-edition-2026-09-06`.
 - [ ] Run `python3 scripts/check-book-length.py autonomy-half-life` on that frozen source and record the result.
 - [ ] If the gate passes, promote the Desk status from `Drafting` to the appropriate complete/publication-candidate state without changing Shelf yet.
 - [ ] Prepare the Shelf snapshot using the same semantics as `scripts/release-book.sh autonomy-half-life ../shelf`.
@@ -66,4 +66,4 @@ The author asked to continue toward publication on 2026-09-06. This authorizes f
 
 ## Release rule
 
-Publish only from a named frozen Desk ref that passes `python3 scripts/check-book-length.py autonomy-half-life`. Do not create an unmerged public Shelf proof branch merely to stage the manuscript before that gate is closed. Once released, Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.
+Publish only from the named frozen Desk ref `release/autonomy-half-life-first-edition-2026-09-06` after it passes `python3 scripts/check-book-length.py autonomy-half-life`. Do not create an unmerged public Shelf proof branch merely to stage the manuscript before that gate is closed. Once released, Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.
