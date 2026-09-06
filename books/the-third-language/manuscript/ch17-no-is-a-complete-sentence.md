@@ -377,3 +377,65 @@ No button spoke.
 No model classified an emotion.
 
 The conversation worked because no was allowed to be a turn instead of a defeat.
+
+The difficult cases begin when a human says, reasonably, that the animal cannot always choose.
+
+A veterinary team cannot simply abandon urgent treatment because a frightened dog backs away. A conservationist may need to restrain an injured wild animal. A working horse may have to move out of a roadway. A farm must sometimes perform procedures animals would not select. Even a household dog cannot have unrestricted access to traffic because it wants the gate open.
+
+Those cases are not exceptions to the argument.
+
+They reveal what the argument is actually about.
+
+Communication does not transfer final authority automatically. It changes how authority should be exercised under uncertainty.
+
+If a procedure is necessary, the animal’s refusal can still affect timing, analgesia, sedation, restraint, environment, personnel, preparation, or follow-up. If the animal cannot have the requested outcome, the human can still make the denial more predictable and less confusing. If a safety limit overrides preference, the animal can still be given choice inside the limit.
+
+This is the difference between treating refusal as command and treating it as information with standing.
+
+Human institutions already understand versions of this. A patient can report pain even when surgery must continue. A worker can report a hazard even when production cannot stop instantly. A pilot can receive an alarm that does not dictate one mechanical response but changes the decision environment.
+
+The warning matters because competent authority is supposed to incorporate it.
+
+Animal communication deserves the same seriousness without pretending the legal categories are identical.
+
+This is why the phrase “no is a complete sentence” is rhetorically useful and scientifically incomplete.
+
+The animal’s behavior may not encode a proposition equivalent to the word *no*. It may indicate avoidance, uncertainty, pain, fear, competing motivation, fatigue, or lack of comprehension. The human should not leap from one behavior to a human linguistic concept.
+
+But from the perspective of the interaction, the first practical fact can still be negative: continuation did not occur smoothly.
+
+That should slow interpretation down.
+
+A good system treats a break in cooperation as diagnostic before treating it as defiance.
+
+This principle could be engineered.
+
+Imagine an animal-care interface that records not merely successful task completion but *friction points*: latency before approach, repeated withdrawal, aborted stationing, changes in posture, increased force required, changes in vocalization, and the number of times a pause signal occurred. Over time it could show that one procedure is becoming harder with one animal even before an overt incident.
+
+The human team would receive an early-warning history.
+
+The value would not be that AI knows the animal’s feelings.
+
+The value would be that the system notices the relationship becoming less cooperative.
+
+That is a measurable phenomenon.
+
+It can trigger human investigation before escalation.
+
+The same metric could expose a subtle ethical failure in highly trained animals. Suppose compliance remains excellent while voluntary approach declines and pause signals increase. A performance-only system reports success. A communication-aware system reports degradation.
+
+Which system knows more?
+
+The answer depends on what we think the relationship is for.
+
+If the goal is output, compliance is enough.
+
+If the goal includes welfare and durable cooperation, the ignored signals are part of performance.
+
+This is where publication talk about “animals finally having a voice” needs to be especially disciplined. The hard question will never be whether the animal can produce an output humans understand.
+
+The hard question is whether understanding creates a duty to become interruptible.
+
+A person, company, laboratory, farm, zoo, trainer, or government that cannot be interrupted by animal information may still become very good at decoding animals.
+
+It will not have built a conversation.
