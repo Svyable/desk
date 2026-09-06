@@ -92,9 +92,73 @@ Do not use a later institution’s own celebratory history as sole proof that th
 
 ## Source-coverage state
 
-The present augmentation pass has primary-source coverage concentrated in Chapters 21–26. Chapters 1–20 were drafted from established historical material but their source ledger still needs a systematic backward pass before the manuscript can be treated as research-complete under the Desk one-shot standard.
+The source ledger now has direct evidence coverage for Chapters **5, 6, 12, 13, 14, 16, 17, 18, 19, 20, and 21–26**. The remaining systematic backward-source pass is concentrated in Chapters **1–4, 7–11, and 15**.
 
-That incompleteness is deliberate and explicit. A drafted chapter is not a release-ready chapter.
+Coverage does not mean final verification. Before release, legal holdings still need opinion-level checking, scanned archival material should be inspected page-by-page before quotation, and chapters dealing with slavery, removal, Reconstruction, segregation, labor violence, racial exclusion, and civil rights need specialist-historiography checks against the book’s institutional framing.
+
+A drafted or sourced chapter is not automatically a release-ready chapter.
+
+## Historical evidence checks completed in this pass
+
+### Chapter 5 — Second Bank of the United States
+
+Federal Reserve histories and National Monetary Commission material support the $35 million charter structure, federal ownership stake, note-redemption/clearing mechanism, early William Jones-era overexpansion, Langdon Cheves contraction and the Bank’s role in magnifying the Panic of 1819.
+
+Countercase to keep: the Bank’s stabilizing function did not prevent it from contributing to contraction; the Marshall Court may better represent the durable institutional consequence of the decade.
+
+### Chapter 6 — Erie Canal Commission
+
+Contemporary and near-contemporary canal records support the Canal Fund/debt-service architecture, substantial completion-era debt, toll receipts before the full route opened and the central role of operating revenue in validating public infrastructure finance.
+
+Countercase to keep: Erie’s success encouraged imitation that often failed; public infrastructure can socialize risk while concentrating gains and can accelerate territorial dispossession.
+
+### Chapter 12 — Knights of Labor
+
+National Park Service and Library of Congress records support the organization’s explosive 1885–86 membership growth, the contrast between the successful 1885 railroad action and failed Great Southwest Strike of 1886, the problem of incomplete cooperation from railroad brotherhoods, and the intervention of federal receivership/injunction authority.
+
+Countercase to keep: the Knights’ rapid decline strengthens the AFL/ICC runner-up argument; broad countervailing organization generated scale faster than it generated reliable command.
+
+### Chapter 13 — J.P. Morgan & Co.
+
+Morgan syndicate records and the later Pujo investigation establish an 1895 Erie reorganization, follow-on financing and Morgan’s role as a voting trustee. The case supports the chapter’s argument that reorganization combined financial restructuring with governance rights rather than merely supplying loans.
+
+Countercase to keep: creditor coordination can preserve a necessary network while transferring authority toward financiers whose interests do not match workers, shippers or communities.
+
+### Chapter 14 — Bureau of Chemistry
+
+FDA institutional records support the original 1906 enforcement tools of seizure and criminal prosecution and document the Board of Food and Drug Inspection and Referee Board, which show that the politics of expert administration quickly became a politics over who controlled scientific judgment.
+
+Countercase to keep: scientific standards can reduce information asymmetry and also create entry costs, institutional capture risk and false certainty.
+
+### Chapter 16 — General Motors
+
+GM’s archival corporate history, Federal Trade Commission material and scholarship on Sloan-era organization support the link between the 1920 crisis, divisional autonomy with central coordination, price-segment product policy, GMAC installment finance and dedicated proving-ground/testing infrastructure.
+
+Countercase to keep: GM’s own history is not independent evidence of social benefit; the Federal Reserve or radio networks may explain the decade more broadly than managerial variety.
+
+### Chapter 17 — Social Security Board
+
+Social Security Administration records document the 1936 enumeration problem: roughly 26 million workers and more than 2 million employers had to be connected to wage records before the new system had a mature field network. The Board borrowed the Post Office’s roughly 45,000 facilities, turning an older communications network into the front end of national identity/account infrastructure.
+
+Countercase to keep: FDIC, SEC, NLRB and FHA each have stronger claims if the decade is judged by crisis stabilization rather than durable citizen-state recordkeeping.
+
+### Chapter 18 — War Production Board
+
+Contemporary War Production Board material supports the Controlled Materials Plan as a core mobilization mechanism. Steel, copper and aluminum became common denominators: central estimates constrained aggregate claims, allotments moved through claimant agencies and prime contractors, and authorized demands propagated through suppliers to mills and warehouses.
+
+Countercase to keep: the Manhattan Project may be the more reusable model if research-production integration, rather than economy-wide scarcity allocation, is treated as the decisive wartime institution.
+
+### Chapter 19 — Federal Housing Administration
+
+HUD preserves the 1938 FHA underwriting manual and explicitly flags its discriminatory policies. Truman-era budget records establish the large role expected for FHA-insured mortgages in postwar housing finance, while Census data document the broader rise in homeownership without attributing that rise to FHA alone.
+
+Countercase to keep: highways and Brown may have stronger claims if physical geography or constitutional civil rights are weighted above mortgage-market design.
+
+### Chapter 20 — SNCC
+
+The SNCC Digital Gateway and National Archives support the mechanism now emphasized in the chapter: hostile official registration statistics were challenged by parallel freedom registration/voting; MFDP then reproduced precinct, county and state representative processes to contest which organization could legitimately represent Mississippi Democrats.
+
+Countercase to keep: SNCC cannot receive sole credit for the Civil Rights Act or Voting Rights Act; Congress, SCLC, the courts, local organizations and federal enforcement remain essential rival mechanisms.
 
 ## Modern evidence checks completed in this pass
 
@@ -136,13 +200,14 @@ Countercase to keep: Nvidia may own the more durable scarcity through compute; t
 
 ## Research work still required before release candidacy
 
-- Build a full source ledger for Chapters 1–20, with at least one primary or authoritative source for each central historical mechanism and explicit sources for disputed numerical claims.
+- Build the remaining full source ledger for Chapters **1–4, 7–11, and 15**, with at least one primary or authoritative source for each central historical mechanism and explicit sources for disputed numerical claims.
 - Recheck every court holding against the opinion or a reliable constitutional-law archive rather than retrospective summaries.
 - Recheck slavery, removal, Reconstruction, segregation, labor violence, racial exclusion, and civil-rights claims against specialist historical scholarship so institutional framing does not flatten lived history.
 - Separate invention dates from institutional adoption dates in telegraph, patent, railroad, automobile, radio, computing, and internet chapters.
 - Verify company-specific claims through filings or archival company records where possible; use company histories as evidence of the company’s stated model, not independent proof of social effect.
 - Revisit the 2020s chapter immediately before any release decision because the decade is live and the institutional winner can change.
 - Mechanically validate chapter word counts under `scripts/check-book-length.py` after the substantive augmentation pass. Do not pad a short chapter merely to satisfy the floor.
+- Perform a final continuity/copyedit pass after research changes are frozen so chapter openings, decade transitions, repeated aphorisms and terminology are consistent across the full manuscript.
 
 ## Editorial guardrails
 
