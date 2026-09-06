@@ -110,6 +110,36 @@ Newburgh sits behind them as a warning from the old system.
 
 Independence had created a state weak enough to disappoint the people who had fought for it. The response could have been an army demanding political primacy. Instead, military pressure was redirected back toward civil politics, and the weakness itself became evidence for institutional reform.
 
-A republic is not secured when it wins a war. It is secured, provisionally and repeatedly, when the people with the power to override its rules decide not to.
+The later Constitution turned part of the Newburgh lesson into structure.
 
-In March 1783, before the Constitution gave civilian control its later architecture, the United States rehearsed that decision.
+Civilian control in the new system would not depend on one clause saying that soldiers must behave. Authority was divided. Congress would raise and support armies, appropriate money, make rules for the armed forces, and possess other war powers. The president would serve as commander in chief. Officers would hold commissions under law. Military funding and organization would depend on institutions whose legitimacy came from the civilian constitutional order.
+
+That design did not remove every danger.
+
+It did make military power legally derivative.
+
+The army would be powerful because civilian institutions had authorized it to be powerful. Its budget, ranks, missions, and leadership would exist inside statutes and appropriations rather than as an independent estate of the realm.
+
+Newburgh helps explain why that distinction mattered so much to the founding generation.
+
+The young republic feared standing armies partly because Britons and Americans had long associated permanent military forces with executive power, taxation, and threats to liberty. Yet the experience of the Revolution also proved that a country could not assume citizen militia alone would solve every military problem. The Constitution had to create a government strong enough to defend itself without creating an army constitutionally superior to the government.
+
+That tension never disappeared.
+
+During the Whiskey Rebellion in the 1790s, the federal government would demonstrate a new capacity to mobilize force in support of law. In the Civil War, Lincoln would command an army larger than the founders could have imagined while Congress, courts, elections, and constitutional controversy continued around him. After World War II, the United States would maintain a permanent national-security establishment whose scale would have alarmed many eighteenth-century republicans.
+
+The norm established at Newburgh had to survive institutions unlike the small Continental Army that first tested it.
+
+It largely did because civilian control became more than Washington's example. It became recruitment practice, professional ethos, appropriations law, appointment authority, legislative oversight, electoral legitimacy, and a habit of treating military command as a role inside the state rather than a claim above it.
+
+Habits matter because not every constitutional crisis arrives with an obvious legal answer.
+
+Newburgh itself did not. The Articles of Confederation did not contain a detailed manual for what officers should do when Congress could not pay them. Washington's intervention worked through honor, persuasion, loyalty, and reputation before later constitutional architecture existed.
+
+That should make the episode more, not less, important.
+
+Written rules are strongest when political actors have already learned why the unwritten boundary matters.
+
+A republic is not secured when it wins a war. It is secured, provisionally and repeatedly, when the people with the power to override its rules decide not to—and when the civilian institutions on the other side of that restraint become capable enough to meet their obligations.
+
+In March 1783, before the Constitution gave civilian control its later architecture, the United States rehearsed both halves of that bargain.
