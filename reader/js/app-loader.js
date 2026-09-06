@@ -105,6 +105,7 @@ try {
   );
   try { await import(viewportStabilityUrl); } catch (error) { console.warn('Viewport stability could not be loaded', error); }
   try { await import(nativeShareUrl); } catch (error) { console.warn('Native sharing could not be loaded', error); }
+  try { await import('./desk-app-shell-polish.js?v=bookself-20260906'); } catch (error) { console.warn('Desk Reader app-shell polish could not be loaded', error); }
   try { await import('./desk-book-opening-handoff.js?v=bookself-20260906'); } catch (error) { console.warn('Desk book-opening handoff could not be loaded', error); }
   try { await import('./desk-reading-app.js?v=bookself-20260905'); } catch (error) { console.warn('Desk reading-app hierarchy could not be loaded', error); }
   const { response, error: appAcquisitionError } = await appAcquisition;
