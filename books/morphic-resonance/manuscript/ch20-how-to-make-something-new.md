@@ -399,3 +399,59 @@ What needs permission to fade?
 And where, in a world full of inherited gradients, are we willing to pay the activation energy for something nobody has taught the world how to want yet?
 
 That is how something new begins.
+
+There is one more difficulty with novelty that deserves a quieter ending than a list of tools.
+
+New things do not stay new if they succeed.
+
+The first prototype becomes a process. The unusual term becomes a category. The once-strange aesthetic becomes a style with references, teachers, markets, and imitators. The scientific anomaly becomes a method. The insurgent organization develops procedures. The new path acquires signs.
+
+Success creates resonance infrastructure around novelty.
+
+That is not a corruption of the new thing. It is how a fragile departure becomes usable by people who were not present at its invention.
+
+The paradox is that every successful act of novelty begins constructing the conditions that will later make it conventional.
+
+A creator who despises infrastructure may therefore be able to originate but not transmit. A movement that refuses institutionalization may preserve purity and lose continuity. A technology that cannot become compatible, teachable, manufacturable, or maintainable may remain a demonstration rather than become a world.
+
+The problem is not to keep novelty permanently wild.
+
+The problem is to institutionalize it without closing the search that produced it.
+
+That requires another kind of memory: memory of the uncertainty that existed before success.
+
+After an innovation works, hindsight quickly makes the path look obvious. The failed alternatives disappear from the story. The accidents become strategy. The contingent decision becomes principle. New entrants receive a clean narrative that hides how much was not known.
+
+Then the institution teaches the success as though repeating its visible steps will reproduce the original discovery.
+
+This is how innovation itself can become cargo cult.
+
+A company copies the meeting style of a famous company without inheriting its market timing. A laboratory imitates the organizational form of a breakthrough group without reproducing its question. A city copies a celebrated district without the economic history that made the district viable. A writer copies the surface of a book whose deeper novelty came from a new argument.
+
+Resonance infrastructure preserves outcomes more easily than origins of insight.
+
+Provenance can help here too, but only if it records dead ends and uncertainty rather than polishing them away. A useful design history includes what failed and why. A scientific record values negative results. An organization remembers which constraints were contingent. A creator preserves enough of the search process to distinguish a principle from a lucky circumstance.
+
+That kind of memory keeps success editable.
+
+The new should eventually become infrastructure.
+
+But good infrastructure contains seams.
+
+It leaves migration paths.
+
+It allows exceptions to teach the rule something.
+
+It marks which assumptions belong to an earlier environment.
+
+It can be dismantled without destroying everything built on top of it.
+
+That may be the mature form of creativity: not a permanent rebellion against the past, but a way of building the future so that it does not become impossible to leave.
+
+The first pattern needs protection because it has no infrastructure.
+
+The successful pattern needs humility because soon it will.
+
+Somewhere between those two moments, novelty becomes memory.
+
+Then the cycle begins again.
