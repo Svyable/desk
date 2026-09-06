@@ -219,3 +219,107 @@ The consequences pointed forward.
 The law did not simply reopen a door.
 
 It changed who could become the family waiting on the other side.
+
+The most interesting part of the 1965 law may be the distance between intention and mechanism.
+
+Legislators write categories. People create networks.
+
+A statute can say that close relatives deserve preference because keeping families together is humane and politically defensible. It cannot know which nationalities will use those preferences most heavily twenty years later. The first immigrant from a place without an established American community faces a very different calculation from the thousandth. The first has to discover employers, housing, schools, religious institutions, translators, lawyers and social networks. The thousandth may arrive to cousins, a congregation, a business district and somebody who knows exactly which bus to take from the airport.
+
+Migration becomes easier after migration.
+
+That is not a loophole. It is ordinary social behavior.
+
+Economists can model network effects. Politicians can give them charged names. Families experience them as help.
+
+A nephew sleeps on a couch while looking for work. A church announces an apartment vacancy. A doctor tells a former classmate that the hospital is hiring. A restaurant owner knows which supplier will extend credit. An older sibling explains the paperwork. Information that would otherwise be expensive becomes personal.
+
+The law did not create these forms of mutual aid. It made more families eligible to use them across borders.
+
+That helps explain why the reform’s demographic consequences differed from some of the predictions made at passage. Policymakers were looking at the composition of the country as it existed. The law changed the process that would generate the next composition.
+
+The difference is subtle and enormous.
+
+Population policy is nonlinear because people have children, marry, move, sponsor relatives and form communities. A thousand visas are not merely a thousand entries. They are nodes in future networks.
+
+This is why the family system cannot be understood only through the political shorthand that later surrounded it. Critics sometimes use the phrase "chain migration" to imply an automatic or limitless cascade. Supporters sometimes speak as if family reunification has no distributive tradeoffs. Both compress a complicated system.
+
+Family sponsorship is bounded by statutory categories, numerical caps, country limits, waiting times, income requirements and legal status. Some relatives qualify readily; others can wait years or decades; many relations do not create a qualifying category at all. Yet the network effect is real. Admitting one person can increase the probability that another family member will eventually qualify and want to come.
+
+That is precisely why the 1965 design was consequential.
+
+The law also reveals how badly the phrase “open door” describes immigration policy.
+
+The United States did not stop selecting.
+
+It selected differently.
+
+One regime favored national ancestry. The new regime gave greater weight to family bonds and certain skills. Later laws would add, subtract and rearrange categories for refugees, diversity immigrants, temporary workers and others. Every admissions system is an argument about which connection to America counts.
+
+Blood relationship?
+
+Marriage?
+
+Education?
+
+Employment?
+
+Persecution?
+
+Investment?
+
+Lottery?
+
+Prior residence?
+
+National need?
+
+There is no category-free immigration law. There are only categories whose moral and economic premises become less visible after they are institutionalized.
+
+Family preference looked especially compelling in 1965 because it appeared neutral with respect to ancestry. The government would no longer assign a larger quota to a person because her ancestors came from Britain rather than Italy, India or Korea. If she had the qualifying relationship or skill, the formal hierarchy was different.
+
+Neutral rules can still create uneven outcomes.
+
+Countries with large established American communities gain one advantage. Countries with high demand for emigration gain another. Countries whose educational systems produce workers desired by American employers gain another. Geography matters. Political crises matter. U.S. foreign policy matters. Airline prices matter. Existing discrimination inside the United States matters.
+
+The statute created the channel. The world supplied the flow.
+
+The Western Hemisphere limits show the other half of the story.
+
+Before 1965, the quota system’s harsh national-origins structure applied differently to countries in the Western Hemisphere. Reform abolished one discriminatory architecture while introducing broad numerical constraints that newly affected migration from nearby countries, including Mexico. Later legislation adjusted the details, but the change helped create a durable mismatch between legal quotas, labor demand, family ties and a border across which migration had long operated differently from transatlantic immigration.
+
+That does not mean the 1965 act “caused” later unauthorized immigration in any simple sense. Wage differences, employer demand, enforcement policy, demographic growth, repeated economic crises, prior guest-worker arrangements and family networks all mattered.
+
+It does mean that legal architecture and border politics cannot be separated.
+
+A border is partly a line on the ground and partly a queue created in law.
+
+The longer the queue and the stronger the reason to cross, the more pressure builds outside the authorized system.
+
+This is one reason immigration arguments become morally tangled so quickly. People often debate enforcement as if the legal categories beneath it were natural facts. They are policy choices. Conversely, they debate legal pathways as if the government could create any number of them without political or administrative consequence. It cannot.
+
+The 1965 law did not resolve the tension. It rearranged it.
+
+Its influence on American professional life is easier to see but just as structurally important.
+
+Hospitals in many regions came to depend heavily on foreign-born physicians and nurses. Universities recruited graduate students from around the world. Research laboratories became international workplaces. Technology companies built teams whose members had been educated on several continents. Immigrant entrepreneurs created firms that hired people born in the United States and abroad.
+
+The country’s talent strategy became partly an admissions strategy.
+
+That creates another dependency hidden inside a national success story. If American innovation relies on attracting people trained elsewhere, then universities, visa policy, openness, wages, scientific freedom and political climate become elements of economic infrastructure. A country can have world-class laboratories and still weaken them if the people who might work there conclude they are unwelcome or cannot navigate the legal system.
+
+Immigration policy therefore became a competitiveness policy even when Congress discussed it in the language of family and fairness.
+
+That is the larger pattern of this book again: institutions do things their authors did not fully intend.
+
+The Morrill Act became a research-university network no single senator could map in 1862. The federal weather service became aviation and disaster infrastructure its founders could not imagine. GPS became a timing layer beneath finance and smartphones. HITECH became the data substrate for medical AI.
+
+The 1965 immigration law became a demographic engine.
+
+The word “engine” should not imply determinism. People are not inputs. They choose whether to migrate, whether to stay, whom to marry, where to live and what identities to carry forward. Children do not reproduce their parents’ cultures mechanically. Assimilation and pluralism happen together, differently in every family.
+
+That human unpredictability is why the law’s long reach is so striking.
+
+Congress changed the admission rules.
+
+Millions of people did the rest.
