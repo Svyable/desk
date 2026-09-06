@@ -1,5 +1,9 @@
 # The Visitors
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-visitors/)
+<!-- bookself-reader-links:end -->
+
 **250 Years of Foreign Dignitaries Who Changed America, One Decade at a Time**
 
 | | |

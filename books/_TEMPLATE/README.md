@@ -4,6 +4,8 @@
   The manuscript files are example prose — overwrite them.
   Front matter uses a worked title ("The Example Book"); the hub title
   below this comment is the fill-in-the-blank you replace first.
+  Reader links are inserted from the folder slug by scripts/sync-reader-links.py
+  once the publication is cataloged; do not hand-maintain them.
   Delete this comment when you are ready.
 -->
 

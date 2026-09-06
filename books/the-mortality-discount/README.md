@@ -1,5 +1,9 @@
 # The Mortality Discount
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-mortality-discount/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-mortality-discount/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |

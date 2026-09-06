@@ -2,6 +2,10 @@
 
 *Why the Next Great Industries Will Be Built by Taking Things Away*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-deletion-economy/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

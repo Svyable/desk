@@ -1,5 +1,9 @@
 # Neuralase
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/neuralase/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/neuralase/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

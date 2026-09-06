@@ -2,6 +2,10 @@
 
 *A Field Manual for Seeing What Everyone Knows and Nobody Uses*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/to-state-the-obvious/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

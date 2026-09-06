@@ -1,5 +1,9 @@
 # Right to Try
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/right-to-try/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/right-to-try/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

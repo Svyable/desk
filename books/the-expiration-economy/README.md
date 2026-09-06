@@ -1,5 +1,9 @@
 # The Expiration Economy
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-expiration-economy/)
+<!-- bookself-reader-links:end -->
+
 **Why the Future Belongs to Things That Know How to End.**
 
 | | |

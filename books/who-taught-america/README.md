@@ -1,5 +1,9 @@
 # Who Taught America?
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/who-taught-america/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/who-taught-america/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

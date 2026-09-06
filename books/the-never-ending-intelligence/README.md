@@ -2,6 +2,10 @@
 
 *When Agents Stop Being Invocations and Become Evolving Systems*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-never-ending-intelligence/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

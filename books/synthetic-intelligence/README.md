@@ -2,6 +2,10 @@
 
 *How machine-generated experience may change intelligence from a consumer of the world into a producer of its own curriculum—and open a new era of discovery*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/synthetic-intelligence/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |

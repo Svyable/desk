@@ -1,5 +1,9 @@
 # The Cancer Key
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-cancer-key/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-cancer-key/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
