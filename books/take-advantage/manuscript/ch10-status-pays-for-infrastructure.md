@@ -301,3 +301,81 @@ If it fails, the technology remains a niche or disappears.
 The first customer did not purchase the future.
 
 The first customer purchased time for the future to improve.
+
+There is another way status can fund infrastructure: it can concentrate attention faster than utility alone would.
+
+An invisible improvement often diffuses quietly. A visible object carries its own advertisement. A strange car parked outside a restaurant, a headset worn in public, a device glowing on a conference table—these things invite questions. The owner becomes an unpaid demonstration.
+
+That has economic value when the category is hard to explain.
+
+People can read about a technology for years without forming a concrete sense of it. Seeing a colleague use it turns abstraction into social evidence. The product acquires a body in the observer’s world.
+
+Status amplifies this effect because status makes the body noticeable.
+
+The observer may not want the product yet.
+
+She learns that somebody like this is willing to use it.
+
+That can reduce one kind of uncertainty while creating another. The product may become associated so strongly with a particular identity that mainstream users reject it precisely because they do not want the identity.
+
+The badge becomes baggage.
+
+Early electric cars can be interpreted politically. A wearable can become a symbol of techno-elitism. A software tool can become associated with a professional tribe. A social platform can acquire the cultural tone of its first user base so strongly that other groups feel they are entering somebody else’s room.
+
+Status creates attention and segmentation at the same time.
+
+This is another reason the premium bridge has to be crossed rather than inhabited forever.
+
+The producer eventually has to detach the capability from the identity that first financed it.
+
+That can require changing the story, not only the price.
+
+The sports car becomes transportation.
+
+The executive device becomes an ordinary work tool.
+
+The enthusiast network becomes infrastructure.
+
+The AI assistant becomes a feature nobody announces because every office has one.
+
+Normality often requires lowering the social temperature.
+
+The hardest part is that the early community may resist exactly this transition.
+
+Scarcity created status. Complexity created expertise. Public argument created belonging. When the product becomes easier, cheaper and more ordinary, the community loses some of what made early membership special.
+
+The company can respond by preserving needless complexity to flatter the experts, or by continually inventing a frontier tier so early adopters still have somewhere to go.
+
+Both choices have consequences.
+
+A product that preserves expert complexity may fail to broaden. A company that chases its frontier users forever can neglect the boring reliability that pays the bills. A company that turns fully mainstream can alienate the community that helped it learn.
+
+There is no clean solution because different customers are buying different products through the same object.
+
+One buys capability.
+
+One buys identity.
+
+One buys influence.
+
+One buys convenience.
+
+One buys a glimpse of what may become ordinary later.
+
+Early markets work when those motives overlap enough to finance development without dictating the final form.
+
+This gives the adopter one more test.
+
+If the product becomes completely ordinary tomorrow, what part of your reason for using it survives?
+
+If nothing survives, you bought distinction.
+
+That can be fine.
+
+If capability, learning or workflow value survives, status may have been a useful side payment rather than the foundation.
+
+The distinction matters because status is the first benefit successful diffusion destroys.
+
+A technology that can survive that destruction has a chance to become infrastructure.
+
+One that cannot was infrastructure only in the story.
