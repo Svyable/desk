@@ -263,3 +263,119 @@ Yet the history is easiest to misunderstand if we skip one quiet prerequisite.
 Before a page could link to another page, before search could crawl it, before a platform could preview it, before an app could claim it, the target needed a name that made sense outside the machine that stored it.
 
 The link changed everything because the address changed first.
+
+The phrase “the Web chose less” can sound like the triumph of minimalism, as though a group of architects sat down, listed every sophisticated hypertext feature, and wisely crossed most of them out. History was less tidy. Constraints, inherited protocols, implementation practicality, competing ideas, and the need to make a working system all shaped what emerged.
+
+The result is still worth describing as a choice because adoption hardened the omissions into expectations.
+
+Once millions of pages depended on one-way links, adding a requirement that every target acknowledge every source would no longer be a feature upgrade. It would change the social contract. Once publishers could create addresses under their own domains without consulting a central document registry, replacing that freedom with centralized approval would alter who controlled publication. Once browsers could follow links across arbitrary sites, requiring commercial agreements between endpoints would turn an open network into a federation of negotiated partnerships.
+
+Architecture becomes political after people build lives on it.
+
+The early decisions matter less because they were perfect than because later participants inherited them as freedoms and limitations.
+
+One-way linking is a good example. From the perspective of a richly integrated hypertext system, not knowing what points to a document looks impoverished. From the perspective of a critic, it is liberating. The critic can publish a link to a corporation's public statement without requiring the corporation to accept a backlink record. The source authors its edge locally.
+
+The missing reciprocity creates a reconstruction industry later. Search engines crawl to discover inbound links. analytics products estimate referrals. social protocols attempt notifications. Yet the source's ability to point remains independent.
+
+This is the Web repeatedly trading information for autonomy.
+
+The 1993 CERN release decision amplified the same pattern at the level of implementation. A low-friction architecture spreads farther when legal and economic permission is also low-friction. A university department deciding whether to run Web software could evaluate the technology without negotiating a royalty agreement with CERN for ordinary use. Developers could implement and extend. Other organizations could build compatible software.
+
+That did not eliminate every commercial interest. Browsers, hosting, network access, domain registration, advertising, commerce, and software all became businesses. The important point is that the basic ability to implement and participate in the Web was not organized around a per-link or per-page toll controlled by the institution where the system began.
+
+This distinction is useful when evaluating later platforms.
+
+A platform may publish APIs and still preserve the right to revoke access unilaterally.
+
+An app store may enable a huge developer ecosystem while taking a role in distribution, payment, and policy.
+
+A cloud service may expose standard protocols while pricing data movement in ways that influence architecture.
+
+“Open” is never one property.
+
+The Web combined several forms of openness imperfectly: public specifications, decentralized publication, delegated naming, loose coupling, and implementation conditions that reduced barriers. Remove one and the character of the system changes.
+
+The hyperlink sits where these forms meet.
+
+An open specification without addressable public resources produces no large graph.
+
+Public resources without permission-light linking produce islands.
+
+Permission-light linking without interoperable clients produces references few people can follow.
+
+Clients without stable naming produce fragile routes.
+
+The Web was a stack of mutually reinforcing affordances.
+
+This is why monocausal histories fail. Saying “the hyperlink changed everything” is useful only if the sentence means the hyperlink became a catalytic primitive inside that stack, not that every other layer was incidental.
+
+The same discipline matters when comparing the Web to systems that came before and after it. A proprietary online service could offer better integrated discussion, identity, payments, and navigation than early Web sites. It could also define the boundary of participation more tightly. A modern collaboration suite can make documents, comments, permissions, and backlinks more coherent than the open Web. It can also make those relationships dependent on one vendor's namespace.
+
+The Web's peculiar strength is not that it always provides the best local experience.
+
+It is that local systems can remain local and still refer to one another globally.
+
+That turns heterogeneity from a defect into a condition the architecture expects.
+
+CERN was a fitting birthplace because heterogeneity was the problem in miniature. Different teams, machines, and information systems needed to coexist. The answer was not to persuade every group to migrate into one master database. It was to create enough shared addressability that relationships could cross the differences.
+
+That idea scales beyond science.
+
+Governments do not run the same software as newspapers.
+
+Newspapers do not run the same software as universities.
+
+Universities do not run the same software as shops.
+
+Shops do not run the same software as hobbyists.
+
+Hobbyists do not share one data model with museums.
+
+The Web does not require them to.
+
+It gives each enough of a public face that the others can point.
+
+The cost is disorder.
+
+The reward is composition without surrender.
+
+That phrase—composition without surrender—may be the most useful way to understand what the Web's thinness bought. A resource can participate in a larger information environment without surrendering its storage, software, editorial policy, ownership, or internal schema to the source that links it.
+
+The source gains a relation.
+
+The target keeps autonomy.
+
+The relationship is therefore simultaneously powerful and unreliable.
+
+The target can change tomorrow.
+
+The source can misdescribe it.
+
+The reader can refuse to follow.
+
+The browser can block the destination.
+
+The domain can expire.
+
+Every later chapter in this book grows out of those weaknesses as much as the strengths.
+
+Search exists because the graph became too large.
+
+Link spam exists because search found value in the graph.
+
+Archives exist because autonomous targets disappear.
+
+Security checks exist because independent targets can be hostile.
+
+Walled gardens exist partly because tighter control can solve problems the loose Web leaves open.
+
+Deep links exist because users keep demanding precise addressability even inside those gardens.
+
+The Web did not win by eliminating tradeoffs.
+
+It won by choosing a set of tradeoffs large numbers of unrelated people could build on.
+
+The next question is what exactly they were building on.
+
+The answer begins with a name.
