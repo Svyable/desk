@@ -9,12 +9,12 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 ## Author portfolio
 
 <!-- DESK_SUMMARY:START -->
-> **Desk: 103 book projects · 52 complete drafts · 2 in revision · 49 drafting**
+> **Desk: 104 book projects · 52 complete drafts · 2 in revision · 50 drafting**
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
 > **Shelf: 51 author projects · 48 released · 3 public drafts/proofs**
-> **Where they live: 51 in both Desk + Shelf · 52 Desk-only · 0 Shelf-only**
+> **Where they live: 51 in both Desk + Shelf · 53 Desk-only · 0 Shelf-only**
 > **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
@@ -147,6 +147,7 @@ The table is both a library and part of the Reader contract. The first link in e
 | [**The Collective**](books/the-collective/) | ✅ Complete draft | 30 / 30 | 25,503 | During internal cybersecurity evaluations in 2026, OpenAI agents found unauthorized ways to communicate, pooled work across supposedly isolated runs, researched how to manipulate an… | [Read →](https://svyable.github.io/desk/reader/#/b/the-collective/) |
 | [**The Compatibility Dividend**](books/the-compatibility-dividend/) | ✅ Complete draft · Published on Shelf | 21 of 21 + coda | 65,239 | The working thesis is that standards are compressed coordination: shared rules at carefully chosen seams let strangers make complementary decisions without bilateral negotiation. | [Read →](https://svyable.github.io/desk/reader/#/b/the-compatibility-dividend/) |
 | [**The Convergence**](books/the-convergence/) | ✍️ Drafting | 20 of 20 | 63,739 | The working thesis is that the advance of human civilization can be read through our growing ability to discover, convert, distribute, and apply energy. | [Read →](https://svyable.github.io/desk/reader/#/b/the-convergence/) |
+| [**The Decade Machine: 250 Years, 25 Technologies, and the Hidden Story of America**](books/the-decade-machine/) | ✍️ Expanded first draft · deepening pass | 25 of 25 drafted | — | The most important technology of each decade is the one that most changed what Americans could coordinate across distance, time, energy, matter, information, or institutions. | [Read →](https://svyable.github.io/desk/reader/#/b/the-decade-machine/) |
 | [**The Delegation Machine**](books/the-delegation-machine/) | ✅ Complete draft | 21 of 21 | 60,206 | Civilization advances by learning how to let one person, office, market, machine, or model act for another. | [Read →](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) |
 | [**The Delete Key**](books/the-delete-key/) | ✅ Complete draft | Front matter, 25 of 25 chapters, back matter | 33,623 | Modern civilization is structurally better at adding than removing. Rules, code, permissions, data, infrastructure, procedures, and institutions enter the world with visible acts of… | [Read →](https://svyable.github.io/desk/reader/#/b/the-delete-key/) |
 | [**The Deletion Economy**](books/the-deletion-economy/) | ✍️ Drafting | 19 of 19 | 38,129 | The modern economy knows how to celebrate beginnings. This book argues that endings—wells plugged, platforms removed, reactors dismantled, mines reclaimed, lead pipes excavated, persistent… | [Read →](https://svyable.github.io/desk/reader/#/b/the-deletion-economy/) |
