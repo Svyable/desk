@@ -1,0 +1,56 @@
+name: Book publication gates
+
+on:
+  pull_request:
+    paths:
+      - "books/**"
+      - "catalog.json"
+      - "README.md"
+      - "llms.txt"
+      - "sitemap.xml"
+      - ".github/ISSUE_TEMPLATE/chapter-feedback.yml"
+      - "scripts/check-book-length.py"
+      - "scripts/check-desk.py"
+      - ".github/workflows/book-publication-gates.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  desk-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check Desk integrity
+        run: python3 scripts/check-desk.py
+
+  publication-length:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check publication-bound books
+        shell: bash
+        run: |
+          set -euo pipefail
+          git diff --name-only "origin/${{ github.base_ref }}...HEAD" \
+            | awk -F/ '/^books\/[^/]+\// {print $2}' \
+            | sort -u > /tmp/changed-books.txt
+
+          checked=0
+          while IFS= read -r slug; do
+            [[ -z "$slug" ]] && continue
+            readme="books/$slug/README.md"
+            [[ -f "$readme" ]] || continue
+
+            if grep -Eqi '^\| \*\*Status\*\* \| (Full first draft|Publication candidate|Complete draft)' "$readme"; then
+              echo "Running full-book length gate for $slug"
+              python3 scripts/check-book-length.py "$slug"
+              checked=$((checked + 1))
+            fi
+          done < /tmp/changed-books.txt
+
+          if [[ "$checked" -eq 0 ]]; then
+            echo "No changed publication-bound book requires the full-book length gate."
+          fi
