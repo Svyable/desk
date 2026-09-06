@@ -3,8 +3,8 @@
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |
-| **Status**    | Drafting |
-| **Chapters**  | 12 of 26 drafted |
+| **Status**    | Drafting · publication edit |
+| **Chapters**  | 26 of 26 drafted |
 
 ## Contents
 
@@ -21,18 +21,18 @@
 - [x] [Ch 10 — The Spy Mistress of Richmond](manuscript/ch10-the-spy-mistress-of-richmond.md)
 - [x] [Ch 11 — The Company Spy](manuscript/ch11-the-company-spy.md)
 - [x] [Ch 12 — America Invents a Permanent Spy Office](manuscript/ch12-america-invents-a-permanent-spy-office.md)
-- [ ] [Ch 13 — The Spy War with Spain](manuscript/ch13-the-spy-war-with-spain.md)
-- [ ] [Ch 14 — The Ruse at Palanan](manuscript/ch14-the-ruse-at-palanan.md)
-- [ ] [Ch 15 — The Telegram That Changed the War](manuscript/ch15-the-telegram-that-changed-the-war.md)
-- [ ] [Ch 16 — The Black Chamber](manuscript/ch16-the-black-chamber.md)
-- [ ] [Ch 17 — The Soviet Harvest](manuscript/ch17-the-soviet-harvest.md)
-- [ ] [Ch 18 — How Moscow Stole the Bomb](manuscript/ch18-how-moscow-stole-the-bomb.md)
-- [ ] [Ch 19 — The Messages Nobody Could Read Aloud](manuscript/ch19-the-messages-nobody-could-read-aloud.md)
-- [ ] [Ch 20 — Thirteen Days Seen from 70,000 Feet](manuscript/ch20-thirteen-days-seen-from-70000-feet.md)
-- [ ] [Ch 21 — The Ship That Pretended to Mine the Ocean](manuscript/ch21-the-ship-that-pretended-to-mine-the-ocean.md)
-- [ ] [Ch 22 — The Family That Sold the Navy](manuscript/ch22-the-family-that-sold-the-navy.md)
-- [ ] [Ch 23 — The Mole Who Killed the Sources](manuscript/ch23-the-mole-who-killed-the-sources.md)
-- [ ] [Ch 24 — The Spy Inside the FBI](manuscript/ch24-the-spy-inside-the-fbi.md)
-- [ ] [Ch 25 — The Database That Knew Everyone](manuscript/ch25-the-database-that-knew-everyone.md)
-- [ ] [Ch 26 — The Wire Inside the Wire](manuscript/ch26-the-wire-inside-the-wire.md)
-- [ ] [Back Matter](manuscript/back-matter.md)
+- [x] [Ch 13 — The Spy War with Spain](manuscript/ch13-the-spy-war-with-spain.md)
+- [x] [Ch 14 — The Ruse at Palanan](manuscript/ch14-the-ruse-at-palanan.md)
+- [x] [Ch 15 — The Telegram That Changed the War](manuscript/ch15-the-telegram-that-changed-the-war.md)
+- [x] [Ch 16 — The Black Chamber](manuscript/ch16-the-black-chamber.md)
+- [x] [Ch 17 — The Soviet Harvest](manuscript/ch17-the-soviet-harvest.md)
+- [x] [Ch 18 — How Moscow Stole the Bomb](manuscript/ch18-how-moscow-stole-the-bomb.md)
+- [x] [Ch 19 — The Messages Nobody Could Read Aloud](manuscript/ch19-the-messages-nobody-could-read-aloud.md)
+- [x] [Ch 20 — Thirteen Days Seen from 70,000 Feet](manuscript/ch20-thirteen-days-seen-from-70000-feet.md)
+- [x] [Ch 21 — The Ship That Pretended to Mine the Ocean](manuscript/ch21-the-ship-that-pretended-to-mine-the-ocean.md)
+- [x] [Ch 22 — The Family That Sold the Navy](manuscript/ch22-the-family-that-sold-the-navy.md)
+- [x] [Ch 23 — The Mole Who Killed the Sources](manuscript/ch23-the-mole-who-killed-the-sources.md)
+- [x] [Ch 24 — The Spy Inside the FBI](manuscript/ch24-the-spy-inside-the-fbi.md)
+- [x] [Ch 25 — The Database That Knew Everyone](manuscript/ch25-the-database-that-knew-everyone.md)
+- [x] [Ch 26 — The Wire Inside the Wire](manuscript/ch26-the-wire-inside-the-wire.md)
+- [x] [Back Matter](manuscript/back-matter.md)
