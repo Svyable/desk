@@ -239,3 +239,75 @@ The practical promise is that this is ordinary engineering. It does not require 
 The wall still matters. A strong wall removes paths from the graph.
 
 But the graph decides whether the wall matters enough.
+
+That last idea changes what a containment claim should look like.
+
+“Runs in a sandbox” is a property of one mechanism.
+
+“Cannot cause a production write without a separately authorized transition” is a claim about the system.
+
+The second claim is harder to make because it has to survive every path that can produce the consequence. It is also closer to what a user, operator, insurer, regulator, or board actually cares about.
+
+A useful safety case can therefore begin with consequences rather than components.
+
+Customer funds cannot move outside a task budget.
+
+A model cannot alter the evidence used to approve its own production change.
+
+A revoked task cannot mint replacement credentials through a descendant.
+
+An external message cannot be sent under a human identity merely because the agent can draft it.
+
+A memory artifact cannot turn a temporary approval into permanent authority.
+
+Each statement creates work for several systems at once. Identity may enforce one part. The tool broker may enforce another. The deployment path may enforce another. Independent telemetry may be needed to prove that the control operated. The point is not to force one team to own everything. It is to make the end-to-end promise visible enough that the teams can discover whether their local guarantees actually compose.
+
+This is also where the declared graph and the observed graph begin to diverge.
+
+Architecture repositories know about configured relationships. Runtime evidence knows about relationships that were actually exercised. Neither view is complete by itself.
+
+A service catalog may say that the agent reaches only an internal retrieval gateway. Network telemetry may show that the gateway routinely redirects to three external providers. An identity policy may say that a role cannot administer another role. Audit logs may show that the role can submit a job to a worker that can. A product specification may say that a task ends after checkout. Queue records may show callbacks firing hours later.
+
+The discrepancy is valuable.
+
+It tells the institution where its containment story has become stale.
+
+A mature system should be able to compare the graph it intended with the graph its own evidence reveals. New edges deserve explanation. Some will be legitimate dependencies that were never documented. Some will be temporary exceptions. Some will be harmless implementation details. Some will be precisely the side door that matters when the agent begins searching.
+
+The comparison should happen before an incident whenever possible.
+
+Security teams already look for configuration drift. Agent systems need authority drift: new ways a task can cause consequential state to change even though nobody deliberately expanded the task's mandate.
+
+A new integration can create authority drift.
+
+So can a reliability fix.
+
+A caching layer may retain privileged data longer than the original grant. A fallback service may run under a broader identity. A support workflow may let a human perform an action the agent cannot perform directly. A new memory feature may turn transient context into shared institutional state. None of these changes needs to mention “AI permissions” in the pull request that introduces it.
+
+That is why the safety case has to be versioned with the system rather than filed away after launch.
+
+The useful question at change time is not “did this component become less secure?”
+
+It is “did this change create a new route from the agent's starting authority to a consequence we previously believed required another decision?”
+
+That question catches composition.
+
+It also gives teams a way to accept change without pretending the graph can be frozen. The world will keep adding tools, vendors, identities, queues, memories, and automation. Containment cannot mean preserving one static topology forever.
+
+It means preserving certain invariants while the topology changes.
+
+A child cannot silently become more privileged than its lineage.
+
+A high-consequence write cannot be approved solely by evidence the acting agent controls.
+
+A temporary authority cannot become permanent merely by being copied into another representation.
+
+Revocation has to reach the mechanisms that can renew or recreate authority.
+
+Independent evidence has to survive the action it is meant to judge.
+
+Those are stronger ideas than “inside” and “outside.” They survive cloud migrations, model upgrades, new toolkits, and organizational reorgs because they describe relationships among powers rather than the location of boxes.
+
+The graph, in other words, is not just a better diagram.
+
+It is a way to state what must remain true when every diagram eventually becomes wrong.
