@@ -225,3 +225,103 @@ The expanding republic was growing too large to rely on a single scout's memory.
 It had not yet built the permanent machinery that would replace him.
 
 So in 1847, on the road to Mexico City, it rented one.
+
+The surviving documentary record lets us watch the rental begin.
+
+Hitchcock did not accept Domínguez as a trusted intelligence chief on introduction. He tested him.
+
+On June 5, 1847, Hitchcock recorded taking into service a Mexican he described as a celebrated captain of robbers who knew the bands operating in the region and knew the country. The first assignment was simple enough to measure: carry a letter through insecure territory to the American commander at Jalapa and bring the response back.
+
+Domínguez returned.
+
+The small fact is more instructive than the later legend.
+
+Recruitment did not begin with trust.
+
+It began with a task that could produce trust.
+
+Modern case officers call this validation in different forms. Give a prospective source a requirement. See whether access is real. Compare the result with information you already possess. Watch whether the source behaves as promised. Increase exposure only after performance earns it.
+
+Hitchcock was improvising the same logic.
+
+The network grew from Domínguez and a handful of men into something more organized. An Army historical account describes nearly a hundred men under him, paid twenty dollars a month, while other records and later histories give different figures at different points in the campaign. The uncertainty in the totals is itself a reminder that clandestine organizations do not always leave the neat personnel rosters later historians want.
+
+The company was not merely a set of eyes near Mexico City.
+
+It protected communication.
+
+Domínguez's men carried dispatches along the vulnerable road between Scott's army and Veracruz. They served as guides and scouts. They watched guerrilla activity. Some were released from local jails to enter American service. Their usefulness grew from precisely the social knowledge that made many American officers distrust them.
+
+They knew the people considered dangerous because some of them had been those people.
+
+That created an uncomfortable equation.
+
+The man most capable of predicting an ambush may be the man who understands how to organize one.
+
+The guide who knows every hiding place may know because he once used them against travelers.
+
+Intelligence services repeatedly recruit people whose qualifications are inseparable from the reasons respectable institutions would normally avoid them.
+
+The operational question becomes whether risk can be controlled more effectively than ignorance.
+
+Hitchcock believed it could.
+
+Not every American officer agreed with the moral bargain. Contemporary soldiers could regard Domínguez's men as criminals and traitors even while benefiting from their work. This hostility is useful evidence because it prevents the company from being romanticized as an integrated band of loyal auxiliaries.
+
+They were collaborators serving an occupying army whose own soldiers sometimes despised them for collaborating.
+
+That is a lonely category.
+
+The adversary understood the value of turning it back.
+
+Before the American army entered Mexico City, Santa Anna sent Domínguez an offer of pardon and inducements to abandon American service. Accounts preserved by Hitchcock describe Domínguez delivering the offer to his American superior rather than accepting it.
+
+A double-agent opportunity had appeared.
+
+Domínguez could have taken American money, accepted Mexican pardon, and manipulated both sides.
+
+The fact that he did not—at least as the surviving American record presents it—strengthened his standing with Hitchcock.
+
+But this is where source history demands caution again.
+
+Our strongest detailed narrative of the relationship comes partly through the American officer who recruited him and later advocated for recognition of his service. Hitchcock had reason to emphasize Domínguez's fidelity. That does not make the account false. It means the account has a position.
+
+Every handler writes a performance review of the source he chose.
+
+The source's success vindicates the handler's judgment.
+
+The archive can therefore preserve loyalty partly through the person most invested in believing it.
+
+Cross-checking matters.
+
+So does adversary perspective.
+
+Mexican descriptions of the company were understandably less admiring. To Mexicans resisting the invasion, Domínguez's men were not clever human-intelligence collectors. They were people helping a foreign army move, communicate, and suppress resistance inside Mexico.
+
+The same report can be called intelligence by the recipient and betrayal by the target.
+
+The company also solved a problem more modern than it first appears: rumor control.
+
+Hitchcock later wrote that Domínguez's reporting helped Scott assess repeated claims about Mexican troop movements, threats against Puebla, and attacks on the line to Veracruz. Some reports could be dismissed. Others required checking. The network gave Scott another channel against which rumor could be tested.
+
+This is intelligence as subtraction.
+
+The spy does not always reveal a hidden army.
+
+Sometimes he tells the commander that the hidden army everyone is panicking about is not there.
+
+That can be just as valuable.
+
+False warning consumes troops, time, ammunition, transport, and attention. An army that reacts to every rumor becomes controllable by rumor. Reliable local reporting helps prevent the adversary—or simple fear—from moving forces that do not need to move.
+
+The Mexican Spy Company therefore did more than collect secrets.
+
+It helped Scott decide which apparent secrets were noise.
+
+That is a harder contribution to dramatize than a stolen battle plan.
+
+It is closer to what intelligence usually does.
+
+The most mature collection service does not promise revelation every morning.
+
+It makes uncertainty narrower than it was the night before.
