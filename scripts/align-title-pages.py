@@ -94,7 +94,7 @@ def title_word(word: str, *, first: bool, after_break: bool, all_caps: bool) -> 
         return word
 
     upper_key = core.upper()
-    if upper_key in ACRONYMS:
+    if core in ACRONYMS or (all_caps and upper_key in ACRONYMS):
         rendered = upper_key
     elif all_caps:
         lower = core.lower()
