@@ -1,16 +1,18 @@
 # Release Review — Bookself: The Story of Getting Started
 
-## Decision — September 5, 2026
+## Decision — September 6, 2026
 
-**Remain blocked pending manuscript-length remediation.**
+**Remain blocked pending complete manuscript-length validation and any further length remediation it identifies.**
 
 The bounded factual, research, rights, matter, novelty, and editorial review remains clear. The canonical Desk project is a `Complete expanded draft` with 28 of 28 numbered chapters, front matter, back matter, a research brief, chapter-source map, source ledger, falsification notes, `RIGHTS.md`, and `rights.json`.
 
-The first mechanical gate has now produced a concrete failure on frozen Desk source `289afe4806c412c3fb43795afe13c59c7f3a1475`: `books/bookself/manuscript/ch14-the-unfinished-mind.md` contains **1,758 words** under the exact `scripts/check-book-length.py` token regex, below the repository floor of **3,000 words per numbered chapter**. The decoded file is 11,263 bytes and matches canonical blob `24a9aa9b2b9581d9e38c938f8b76c6da29d300b3`, so this is not an extraction or stale-source mismatch.
+The first mechanical gate previously produced a concrete failure on frozen Desk source `289afe4806c412c3fb43795afe13c59c7f3a1475`: `books/bookself/manuscript/ch14-the-unfinished-mind.md` contained **1,758 words** under the exact `scripts/check-book-length.py` token regex, below the repository floor of **3,000 words per numbered chapter**. The decoded file was 11,263 bytes and matched canonical blob `24a9aa9b2b9581d9e38c938f8b76c6da29d300b3`, so this was not an extraction or stale-source mismatch.
 
-Because one below-floor numbered chapter is sufficient for `healthy: false`, Bookself is not eligible for a first Shelf snapshot from this frozen source. Do not solve this in publication bookkeeping. The remediation is substantive Desk manuscript work: deepen below-floor chapters coherently, then rerun the complete length checker and require every numbered chapter to clear 3,000 words and the numbered-chapter total to clear 65,000 words. Only after that passes should `python3 scripts/check-desk.py` be treated as the final repository-integrity gate.
+That specific failure has now received bounded Desk remediation. Chapter 14 was deepened by **1,499 net words** under the same `\b[\w’'-]+\b` token regex, bringing the chapter from **1,758 to 3,257 words**. The added material extends the existing argument through types of commitment, provisional ending conditions, review dates, status ambiguity, portfolio crowding, rest, obligations to other people, and stopping traces. It introduces no new dated empirical claim, statistic, quotation, or source-dependent assertion and preserves the chapter's existing Zeigarnik/Leroy/planning evidence boundaries.
 
-No additional human-review gate is introduced. After substantive length remediation, re-read the changed prose against the factual/research boundaries below before restoring release clearance.
+Clearing this known chapter failure is not substituted for the complete repository checker. The next required step is to run the full `python3 scripts/check-book-length.py bookself` validation on the remediated frozen Desk source. Every numbered chapter must clear 3,000 words and the numbered-chapter total must clear 65,000 words. If the complete run identifies another below-floor chapter or total deficit, remediate that actual result rather than inferring readiness from Chapter 14 alone. Only after the full length check is healthy should `python3 scripts/check-desk.py` be treated as the final repository-integrity gate.
+
+No additional human-review gate is introduced. After substantive length remediation, re-read changed prose against the factual/research boundaries below before restoring release clearance.
 
 ## Package reviewed
 
@@ -43,13 +45,15 @@ The research brief and falsification notes already preserve the main counterweig
 
 No source in the ledger purports to prove the book’s broad synthesis. The manuscript correctly treats that synthesis as authorial argument assembled from narrower evidence.
 
+The September 6 Chapter 14 expansion remains within those boundaries. Its commitment/review-date/status material is authorial synthesis and ordinary examples, not a claim that a named psychological intervention has a measured universal effect. The existing research sentence remains cautious: a clear resumption plan does not magically erase attention residue, and the planning evidence is not upgraded into a general law.
+
 ## Editorial and novelty review
 
 The book’s strongest contribution is the synthesis that action can create identity-relevant evidence that intention alone cannot, while preserving the possibility that the evidence points toward continuation, revision, abandonment, or a different self. The metaphor should remain literal enough to understand and modest enough not to masquerade as science.
 
 The final section materially improves the publication boundary by addressing who can afford a first try, who institutions permit to be a beginner, and when beginnings create non-reversible obligations. Publication copy should preserve those constraints rather than flattening the book into generic “just start” advice.
 
-The original bounded review required no manuscript prose change for factual/editorial reasons. The newly demonstrated repository length failure now requires substantive depth work before release; that work must preserve these boundaries rather than padding mechanically.
+The Chapter 14 remediation adds depth rather than padding: it distinguishes trials from promises, shows how ambiguous status transfers uncertainty to other people, and develops endings as part of the book's identity-evidence argument. It retains the existing close and does not alter the book's architecture.
 
 ## Final checklist
 
@@ -62,7 +66,7 @@ The original bounded review required no manuscript prose change for factual/edit
 - [x] `RIGHTS.md` and `rights.json` are present and coherent.
 - [x] No unresolved factual, research, rights, matter, novelty, or editorial blocker was found in the reviewed prose.
 - [x] No volatile current-data claim in the reviewed evidence packet requires a separate first-release refresh.
-- [x] Reproduced the length-check tokenization on canonical Chapter 14 at frozen source `289afe4806c412c3fb43795afe13c59c7f3a1475`: 1,758 words; **fails** the 3,000-word chapter floor.
-- [ ] Deepen every below-floor numbered chapter on Desk without padding or weakening the evidence boundaries.
-- [ ] Rerun `python3 scripts/check-book-length.py bookself` on the remediated frozen Desk source and require `healthy: true`.
+- [x] Reproduced the original length-check tokenization on canonical Chapter 14: 1,758 words; failed the 3,000-word chapter floor.
+- [x] Remediated Chapter 14 with +1,499 net words under the same checker regex: **3,257 words**, clearing that specific floor.
+- [ ] Run the complete `python3 scripts/check-book-length.py bookself` on the remediated frozen Desk source and require `healthy: true`; remediate any additional concrete failures it identifies.
 - [ ] Run `python3 scripts/check-desk.py` on that same passing frozen Desk source and require a clean exit.
