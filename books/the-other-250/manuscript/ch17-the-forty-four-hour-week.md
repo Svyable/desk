@@ -166,13 +166,61 @@ But low-wage workers in weakly organized sectors would have had far less leverag
 
 National floors matter most where local bargaining is weakest.
 
+The statute also created a federal enforcement problem that is easy to underestimate after compliance becomes routine.
+
+A right to minimum pay is only as real as the ability to establish what happened during the workday. The government therefore needed investigators, records, definitions, complaint procedures, and remedies. Employers needed to know which workers were covered and what counted as compensable time. Workers needed a way to show that a violation had occurred.
+
+This transformed payroll from bookkeeping into evidence.
+
+A clock-in record could become proof of unpaid overtime. A job title could matter less than actual duties. A manager's instruction to finish a task after clocking out could become a legal event. Whether travel time, waiting time, training, preparation, or on-call periods counted as work could determine wages owed.
+
+The law put legal pressure on the margins of the workday.
+
+That pressure mattered because exploitation often hides in small units.
+
+Ten unpaid minutes before a shift does not look like a national economic crisis. Multiply it across five days, fifty weeks, thousands of workers, and years of employment and the amount becomes meaningful. Wage theft rarely needs a spectacular act. It can operate through rounding, off-the-clock work, misclassification, illegal deductions, or a worker's belief that complaining will cost the job.
+
+A national floor without enforcement would invite precisely that kind of quiet erosion.
+
+The FLSA therefore helped create a recurring American pattern: statutory rights followed by an administrative struggle over whether the rights reach the people least able to enforce them privately.
+
+That struggle is especially visible in the occupations originally left outside the bargain.
+
+Agricultural and domestic work were not random omissions. They were labor systems embedded in race, region, gender, and household power. Excluding them allowed a federal labor floor to coexist with economic arrangements inherited from slavery, segregation, and the undervaluation of women's work.
+
+Later expansion of coverage reduced some of the gaps without erasing the legacy.
+
+Farm labor still operates under different overtime and child-labor rules in federal law in important respects. Domestic work has moved in and out of regulatory attention through amendments, agency rules, litigation, and state law. Tipped work created another distinctive wage structure in which employers can, under specified conditions, count part of tips toward minimum-wage obligations.
+
+A floor can contain trapdoors.
+
+That is not an argument that the floor is meaningless.
+
+It is an argument that the politics of coverage are part of the policy, not a technical afterthought.
+
+Every exemption answers a distributive question: whose work is normal enough to deserve the baseline, and whose work will be treated as special?
+
+The answer changes bargaining power long after the congressional debate is forgotten.
+
+The forty-hour norm also escaped the statute's exact legal boundaries and became cultural infrastructure. Employers outside a particular overtime rule still organize schedules around familiar ideas of full-time work. Benefits eligibility, office hours, school schedules, commuting patterns, and household expectations grew around a society in which forty hours became a reference point.
+
+The reference point can be violated constantly and still remain powerful.
+
+Many salaried employees work longer. Multiple-job holders work more. Part-time workers may want more hours. Gig workers may have no fixed week at all. Professionals check messages at night. Remote work blurs the boundary between presence and availability.
+
+Yet “forty hours” remains the unit against which excess is perceived.
+
+That is how law can influence culture without dictating every outcome.
+
+It gives society a number around which expectations organize.
+
 The 1930s offer almost impossible competition for an under-appreciated selection. The Social Security Act, Wagner Act, banking reforms, SEC, rural electrification, FHA, and many other New Deal institutions transformed the country. The Depression itself dwarfs any one statute.
 
 The choice of FLSA is not a claim that it outranks Social Security.
 
 It is a claim about intimacy.
 
-Millions of Americans encounter the legacy of 1938 every time a payroll system distinguishes regular from overtime hours, every time a teenager's work is subject to age restrictions, every time a wage floor determines whether an offer is legal, and every time a dispute turns on whether someone is a covered employee.
+Millions of Americans encounter the legacy of 1938 every time a payroll system distinguishes regular from overtime hours, every time a teenager's work is subject to age restrictions, every time a wage floor determines whether an offer is legal, every time a dispute turns on whether someone is a covered employee, and every time a few invisible minutes at the edge of a shift acquire a dollar value.
 
 The law lives inside the week.
 
