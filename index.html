@@ -3,62 +3,68 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Svyable Desk — Working drafts</title>
-  <meta name="description" content="Books in the act of becoming books. Read working drafts from the Svyable Desk and released editions on Svyable Shelf.">
+  <title>Sven Hardy Benson’s Desk — Working drafts</title>
+  <meta name="description" content="All cataloged working drafts, complete manuscripts, revisions, and next editions by Sven Hardy Benson.">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Svyable Desk">
-  <meta property="og:title" content="Svyable Desk — Working drafts">
-  <meta property="og:description" content="Books in the act of becoming books.">
+  <meta property="og:site_name" content="Sven Hardy Benson’s Desk">
+  <meta property="og:title" content="Sven Hardy Benson’s Desk — Working drafts">
+  <meta property="og:description" content="Books in the act of becoming books: the complete working catalog by Sven Hardy Benson.">
   <meta property="og:url" content="https://svyable.github.io/desk/">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Svyable Desk — Working drafts">
-  <meta name="twitter:description" content="Books in the act of becoming books.">
+  <meta name="twitter:title" content="Sven Hardy Benson’s Desk">
+  <meta name="twitter:description" content="The complete working manuscript catalog by Sven Hardy Benson.">
   <link rel="canonical" href="https://svyable.github.io/desk/">
   <link rel="describedby" href="llms.txt">
   <style>
     :root { color-scheme: light dark; font-family: ui-serif, Georgia, Cambria, "Times New Roman", serif; }
     * { box-sizing: border-box; }
-    body { max-width: 64rem; margin: 0 auto; padding: clamp(2rem, 6vw, 5rem) 1.25rem 5rem; line-height: 1.6; }
+    body { max-width: 72rem; margin: 0 auto; padding: clamp(2rem, 6vw, 5rem) 1.25rem 5rem; line-height: 1.55; }
     header { margin-bottom: 3rem; }
-    h1 { margin: 0; font-size: clamp(2.5rem, 8vw, 5rem); line-height: .95; }
-    .lede { max-width: 44rem; font-size: 1.2rem; }
+    .eyebrow { opacity: .7; letter-spacing: .08em; text-transform: uppercase; font-size: .78rem; }
+    h1 { margin: 0; font-size: clamp(2.6rem, 8vw, 5.8rem); line-height: .95; }
+    .lede { max-width: 48rem; font-size: 1.18rem; }
     .actions { display: flex; flex-wrap: wrap; gap: .75rem; margin: 1.5rem 0; }
     .actions a { border: 1px solid currentColor; border-radius: 999px; padding: .55rem .9rem; text-decoration: none; }
     .meta { opacity: .72; }
-    .books { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: .85rem; }
-    .book { border-top: 1px solid color-mix(in srgb, currentColor 22%, transparent); padding: .9rem 0 1rem; }
+    .books { list-style: none; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(18rem, 1fr)); gap: .9rem 1.2rem; }
+    .book { border-top: 1px solid color-mix(in srgb, currentColor 22%, transparent); padding: .9rem 0 1.1rem; }
     .book strong { display: block; font-size: 1.08rem; }
-    .book-links { display: flex; gap: .8rem; font-size: .92rem; margin-top: .25rem; }
+    .status { display: block; margin-top: .15rem; font-size: .88rem; opacity: .72; }
+    .book-links { display: flex; gap: .8rem; font-size: .92rem; margin-top: .35rem; }
     .error { border: 1px solid currentColor; padding: 1rem; max-width: 44rem; }
     footer { margin-top: 3.5rem; padding-top: 1.25rem; border-top: 1px solid color-mix(in srgb, currentColor 22%, transparent); }
   </style>
 </head>
 <body>
   <header>
-    <p class="meta">Svyable / Desk</p>
+    <p class="eyebrow">Sven Hardy Benson / Desk</p>
     <h1>Books in the act<br>of becoming books.</h1>
-    <p class="lede">This is the working Desk: manuscripts, revisions, and complete drafts before deliberate release to the public Shelf.</p>
+    <p class="lede">This is Sven Hardy Benson’s complete working Desk: early drafts, complete manuscripts, active revisions, research, and next editions before deliberate release.</p>
     <nav class="actions" aria-label="Primary">
-      <a href="reader/"><strong>Open Desk Reader</strong></a>
-      <a href="https://svyable.github.io/shelf/reader/">Released editions</a>
-      <a href="README.md">How Desk works</a>
-      <a href="pages-health.html">Pages health</a>
+      <a href="reader/"><strong>Read the working Desk</strong></a>
+      <a href="books/">Browse book projects</a>
+      <a href="https://svyable.github.io/shelf/">Released editions</a>
+      <a href="README.md#the-books">Catalog source</a>
     </nav>
-    <p id="catalog-meta" class="meta">Loading the working catalog…</p>
+    <p id="catalog-meta" class="meta">Loading the complete working catalog…</p>
   </header>
 
   <main>
-    <h2>Working catalog</h2>
+    <h2>All working books</h2>
     <ul id="books" class="books" aria-live="polite"></ul>
     <noscript><p class="error">JavaScript is off. The complete catalog is available in <a href="README.md#the-books">README.md</a>.</p></noscript>
   </main>
 
   <footer>
-    <p><strong>Desk is not publication.</strong> A working draft becomes a released edition only when it is explicitly released to <a href="https://svyable.github.io/shelf/reader/">Svyable Shelf</a>.</p>
-    <p class="meta">For agents and crawlers: <a href="llms.txt">llms.txt</a> · <a href="sitemap.xml">sitemap.xml</a> · <a href="robots.txt">robots.txt</a> · <a href="AGENTS.md">AGENTS.md</a></p>
+    <p><strong>Desk is work in motion.</strong> A manuscript appears here because it is part of the working catalog; it becomes a released edition only through a deliberate Desk → Shelf release.</p>
+    <p class="meta"><a href="https://github.com/Svyable/desk/tree/main/books">Book project files</a> · <a href="llms.txt">Agent-readable map</a> · <a href="https://github.com/Svyable/bookself">Bookself structure</a></p>
   </footer>
 
   <script>
+    function plain(value) {
+      return value.replace(/\*\*/g, '').replace(/<[^>]+>/g, '').trim();
+    }
+
     function parseCatalog(markdown) {
       const marker = '## The books';
       const start = markdown.indexOf(marker);
@@ -70,14 +76,14 @@
 
       for (const line of section.split('\n')) {
         if (!line.startsWith('|')) continue;
-        const match = line.match(/^\|\s*\[(.*?)\]\(books\/([^/]+)\/\)\s*\|/);
+        const cells = line.split('|').slice(1, -1).map((cell) => cell.trim());
+        if (cells.length < 2) continue;
+        const match = cells[0].match(/\[(.*?)\]\(books\/([^/]+)\/\)/);
         if (!match) continue;
-        const title = match[1].replace(/^\*\*|\*\*$/g, '').trim();
-        const slug = match[2];
         books.push({
-          title,
-          slug,
-          readerUrl: `https://svyable.github.io/desk/reader/#/b/${slug}/`,
+          title: plain(match[1]),
+          slug: match[2],
+          status: plain(cells[1]),
         });
       }
       return books;
@@ -87,13 +93,13 @@
       const data = {
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
-        name: 'Svyable Desk',
+        name: 'Sven Hardy Benson’s Desk',
         url: 'https://svyable.github.io/desk/',
-        description: 'Working drafts from Svyable Desk.',
+        description: 'Complete working manuscript catalog by Sven Hardy Benson.',
         hasPart: books.map((book) => ({
-          '@type': 'Book',
+          '@type': 'CreativeWork',
           name: book.title,
-          url: `https://svyable.github.io/desk/books/${book.slug}/README.md`,
+          url: `https://svyable.github.io/desk/reader/#/b/${book.slug}/`,
         })),
       };
       const script = document.createElement('script');
@@ -117,26 +123,30 @@
           item.className = 'book';
 
           const title = document.createElement('strong');
-          const repoLink = document.createElement('a');
-          repoLink.href = `books/${book.slug}/`;
-          repoLink.textContent = book.title;
-          title.appendChild(repoLink);
+          const readTitle = document.createElement('a');
+          readTitle.href = `reader/#/b/${book.slug}/`;
+          readTitle.textContent = book.title;
+          title.appendChild(readTitle);
+
+          const status = document.createElement('span');
+          status.className = 'status';
+          status.textContent = book.status || 'Working manuscript';
 
           const links = document.createElement('div');
           links.className = 'book-links';
           const read = document.createElement('a');
-          read.href = book.readerUrl;
+          read.href = `reader/#/b/${book.slug}/`;
           read.textContent = 'Read draft';
           const files = document.createElement('a');
           files.href = `books/${book.slug}/`;
           files.textContent = 'Project files';
           links.append(read, files);
 
-          item.append(title, links);
+          item.append(title, status, links);
           fragment.appendChild(item);
         }
         list.replaceChildren(fragment);
-        meta.textContent = `${books.length} working book projects · cataloged from README.md`;
+        meta.textContent = `${books.length} working book projects · all cataloged Desk states shown`;
         addStructuredData(books);
       } catch (error) {
         list.innerHTML = `<li class="error">Could not load the catalog: ${error.message}. Open <a href="README.md#the-books">README.md</a> instead.</li>`;
