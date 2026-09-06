@@ -274,6 +274,98 @@ The ranking systems became institutions.
 
 Their incentives became part of publishing.
 
+The crucial move was a reuse of editorial side effects.
+
+Most authors did not create links in order to produce a ranking dataset. They linked because the target was useful, because a source deserved attribution, because a reader needed context, because another page was worth recommending, or because the structure of a site required navigation. Search arrived later and treated those locally meaningful choices as traces of something larger.
+
+That is why link analysis felt almost magical when it worked. The Web had accidentally been collecting judgments in a format machines could parse.
+
+Not explicit judgments.
+
+Not clean judgments.
+
+Side effects of publishing.
+
+The search engine became a second-order reader. It did not only read what pages said. It read what pages did to one another.
+
+This distinction helps explain why the graph contained information that ordinary full-text indexing missed. A page can describe itself in grand terms. The surrounding Web can ignore it. Another page can be terse, badly designed, and nevertheless sit at the center of a dense network of references created by people who actually use it.
+
+Text tells the engine about content.
+
+Topology tells the engine something about social placement.
+
+The placement is not truth. It is context at scale.
+
+The value of context depends on independence.
+
+Ten links from ten domains may look like ten outside judgments. They may be controlled by one company. One domain may host work written by hundreds of independent contributors. A university page may reflect an institution, one professor, one student, or an automated system. Domain boundaries are visible to crawlers. Human independence is not.
+
+This means graph ranking has always contained an ownership problem.
+
+How many genuinely separate decisions produced the observed structure?
+
+A search system wants to know because independent agreement is more informative than self-reference. A marketer wants to know because independent endorsement is harder to manufacture. A researcher wants to know because apparent consensus can collapse when several sources share one origin.
+
+The hyperlink exposes the edge but not the social independence behind the edge.
+
+That gap became a permanent target for ranking systems.
+
+It also makes the “vote” metaphor especially misleading. In an election, the procedure tries to define who gets a vote and how many. On the Web, edge creation has no equivalent franchise. One publisher can create millions of links. Another can create one. A large site-wide template can generate more edges than a small community produces in years.
+
+Search therefore had to infer something closer to weighted, contextual reputation than to counting ballots.
+
+PageRank is historically important because it gave one elegant formalization of that intuition. It should not be mistaken for a complete description of Google then, much less now. The 1998 paper itself described a broader search engine containing crawling, indexing, anchor-text handling, storage, ranking, and other components. Modern search systems have accumulated far more signals and defenses.
+
+The book does not need the mythology that one equation solved search.
+
+The more interesting fact is that hyperlink structure was important enough to justify reading the Web as a graph in the first place.
+
+Once search did that, publishers began writing for two audiences simultaneously.
+
+The first audience was human.
+
+The second was the machine that decided whether humans would ever arrive.
+
+This dual audience changed page architecture. Internal links could help readers move and help crawlers discover. Site structure could express editorial hierarchy and machine hierarchy at once. Anchor text could clarify prose and influence how a target was understood. Navigation menus became both interface and crawl graph.
+
+The site's relationship design became part of its distribution strategy.
+
+That is a significant shift from optimizing documents to optimizing neighborhoods.
+
+A publisher could no longer think only about what a page contained. It had to think about which pages pointed at it, which pages it pointed at, how authority moved through the site, whether important content was orphaned, and whether crawlers could reach the same resources humans could.
+
+The Web had become reflexive at the level of topology.
+
+This is where search optimization acquired its most legitimate form. A site can be difficult for a crawler for the same reasons it is difficult for a person: broken navigation, duplicate pages, unclear hierarchy, unstable addresses, inaccessible content. Improving the graph can genuinely improve the publication.
+
+The same incentives also create shortcuts. If relationships affect distribution, actors can try to manufacture relationships without improving the underlying resource.
+
+That is the transition to the next chapter.
+
+Before making it, one more change deserves attention because it is arriving now.
+
+Generative systems can create links as well as prose.
+
+The cost of authoring an edge is therefore falling again.
+
+A human writer historically had to decide to include a link, even if a template or CMS helped. Large-scale automation existed long before generative AI, but fluent synthetic pages make it cheaper to produce plausible surrounding context for automatically generated relations. A million edges can now look editorial without representing a million independent acts of editorial judgment.
+
+This weakens any reputation model that equates the appearance of human-like context with human independence.
+
+The old question—why does this link exist?—gets harder.
+
+Search systems will continue looking above the bare edge toward provenance, ownership, usage patterns, source history, corroboration, and other signals that are more expensive to synthesize convincingly at scale.
+
+The graph remains useful because independent relationships remain useful.
+
+The definition of independence gets more demanding.
+
+That is the deeper legacy of the moment the link became a vote. Search did not discover that links were votes.
+
+It discovered that relations have informational value beyond their immediate use.
+
+The moment an institution rewards that value, the institution changes the graph it is trying to interpret.
+
 That is why the moment the link became a vote leads directly to the moment the vote became a market.
 
 As soon as an edge could increase visibility, somebody had a reason to buy one.
