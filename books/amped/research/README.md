@@ -6,20 +6,20 @@
 
 The familiar version of the story is that artificial intelligence and cloud computing consume a lot of power. That is true but incomplete. The stronger argument this book tests is institutional:
 
-> Data centers are becoming a new kind of grid actor — industrial-scale loads with software economics, global balance sheets, unusually short deployment clocks, and at least some ability to choose where and when computation occurs. Their demand is forcing utilities, grid operators, regulators, generators, and communities to redesign how large loads are forecast, connected, priced, financed, and sometimes curtailed.
+> Data centers are becoming a new kind of grid actor — industrial-scale loads with software economics, global balance sheets, unusually short deployment clocks, and at least some ability to choose where and when computation occurs. Their demand is forcing utilities, grid operators, regulators, generators, suppliers, and communities to redesign how large loads are forecast, connected, priced, financed, equipped, and sometimes curtailed.
 
-The reversal matters. The data-center boom is usually presented as something happening *to* the electric grid. *Amped* asks how the boom may also be changing the grid's institutions and investment logic. A hyperscale campus can trigger substations, transmission lines, generation additions, long-term contracts, new customer classes, minimum-bill rules, collateral requirements, co-location arrangements, and experiments in flexible service. In some cases the customer is no longer merely buying electricity from an inherited system. It is helping determine what system gets built next.
+The reversal matters. The data-center boom is usually presented as something happening *to* the electric grid. *Amped* asks how the boom may also be changing the grid's institutions and investment logic. A hyperscale campus can trigger substations, transmission lines, generation additions, long-term contracts, equipment orders, workforce investment, new customer classes, minimum-bill rules, collateral requirements, co-location arrangements, and experiments in flexible service. In some cases the customer is no longer merely buying electricity from an inherited system. It is helping determine what system gets built next.
 
-That does not make data-center growth automatically beneficial. The same mechanism can create stranded assets, cost shifts, reliability stress, local land and water conflicts, fossil-generation growth, forecasting errors, and public exposure to private investment mistakes. The central empirical question is therefore not whether data centers are "good" or "bad" for the grid. It is whether a concentrated, capital-rich demand shock can accelerate useful grid investment without socializing the downside when forecasts or projects fail.
+That does not make data-center growth automatically beneficial. The same mechanism can create stranded assets, cost shifts, reliability stress, local land and water conflicts, fossil-generation growth, forecasting errors, equipment bottlenecks, and public exposure to private investment mistakes. The central empirical question is therefore not whether data centers are "good" or "bad" for the grid. It is whether a concentrated, capital-rich demand shock can accelerate useful grid investment without socializing the downside when forecasts or projects fail.
 
 ## Novelty discipline
 
-The component topics are not new. Researchers, regulators, utilities, grid operators, technology companies, communities, and journalists have written extensively about data-center energy use, AI electricity demand, large-load interconnection, transmission, nuclear power, natural gas, rate design, and data-center flexibility.
+The component topics are not new. Researchers, regulators, utilities, grid operators, technology companies, communities, equipment suppliers, and journalists have written extensively about data-center energy use, AI electricity demand, large-load interconnection, transmission, nuclear power, natural gas, rate design, data-center flexibility, grid equipment, and workforce constraints.
 
 The originality target is the synthesis:
 
 1. treat data centers as an emerging **institutional customer class**, not just an energy-consuming building type;
-2. follow the demand shock through **forecasting → connection → cost allocation → generation → transmission → flexibility → community bargaining** as one system;
+2. follow the demand shock through **forecasting → connection → cost allocation → generation → transmission → flexibility → equipment → community bargaining** as one system;
 3. examine the unusual combination of **industrial physical scale and software economic optionality**;
 4. ask whether demand itself can become a financing and planning mechanism for the next American grid; and
 5. preserve the downside case that the boom could overbuild infrastructure or shift costs onto people who did not create the load.
@@ -31,7 +31,7 @@ The book should not claim that no prior author has discussed any one of these id
 1. **Scale:** How large is U.S. data-center electricity demand today, and how wide is the credible range of future demand?
 2. **Concentration:** How much of projected growth is concentrated in a small number of utility zones, substations, and metropolitan clusters rather than spread evenly across the country?
 3. **Forecast quality:** How do planners distinguish credible projects from speculative requests, duplicates, phased projects, and loads that may never energize?
-4. **Speed mismatch:** How do data-center deployment timelines compare with generation, transmission, transformer, permitting, and interconnection timelines?
+4. **Speed mismatch:** How do data-center deployment timelines compare with generation, transmission, transformer, permitting, equipment, and interconnection timelines?
 5. **Cost causation:** Which grid costs are caused by a specific large-load customer, which benefit the wider system, and which are impossible to allocate cleanly?
 6. **Customer commitment:** Do minimum bills, long contract terms, deposits, collateral, and take-or-pay structures reduce the risk of stranded grid investment?
 7. **Co-location:** When a data center sits beside a generator, how much grid service does it still rely on and what should it pay for that service?
@@ -39,7 +39,8 @@ The book should not claim that no prior author has discussed any one of these id
 9. **Flexibility:** How much data-center demand can realistically be shifted, throttled, interrupted, geographically moved, or supported by onsite systems without violating latency, uptime, hardware, customer, or commercial constraints?
 10. **Reliability:** Can flexible large-load tariffs and operational controls turn some data centers from pure load into a reliability resource, or is that potential routinely overstated?
 11. **Community bargain:** What local benefits and costs accompany hyperscale development, and how durable are tax and employment benefits relative to infrastructure, land, water, noise, and transmission burdens?
-12. **Boom risk:** What happens if AI efficiency improves faster than expected, model economics disappoint, projects migrate, or announced campuses are canceled after grid investment has begun?
+12. **Supply chain:** Do transformer, switchgear, conductor, turbine, power-electronics, and skilled-labor constraints become the real deployment clock even when financing is abundant?
+13. **Boom risk:** What happens if AI efficiency improves faster than expected, model economics disappoint, projects migrate, or announced campuses are canceled after grid investment has begun?
 
 ## Strong counter-evidence
 
@@ -52,7 +53,8 @@ The book should change if the evidence changes.
 - New generation built for data centers can worsen emissions or fuel dependence if gas additions outrun zero-carbon supply.
 - Transmission built for a concentrated load can be useful to the broader grid, so assigning every dollar to the initiating customer can itself be inefficient.
 - Special large-load tariffs can protect residential customers but can also deter investment or create discriminatory treatment if designed badly.
-- If the AI boom slows materially, some generation and transmission projects may become stranded or may need to find other users.
+- Domestic grid-equipment policy can improve resilience but can also raise costs or preserve inefficient suppliers if treated as a blank check.
+- If the AI boom slows materially, some generation, transmission, equipment, and workforce investments may become stranded or may need to find other users.
 - Efficiency improvements can reduce energy per computation while total electricity use still rises; neither efficiency nor rebound should be assumed to dominate without evidence.
 - The public benefits of faster AI development are difficult to measure and should not be used as a blank check for private infrastructure costs.
 
@@ -68,7 +70,7 @@ Follow how PJM, ERCOT, utilities, and regulators vet large-load requests. Record
 
 ### III. Cost allocation and customer commitment
 
-Use Virginia SCC, Georgia PSC, FERC, and comparable state/utility proceedings to examine new customer classes, minimum-demand charges, contract length, collateral, exit risk, transmission cost responsibility, and consumer protection.
+Use Virginia SCC, Georgia PSC, FERC, and comparable state/utility proceedings to examine new customer classes, minimum-demand charges, contract length, collateral, exit risk, transmission cost responsibility, and consumer protection. Separate direct cost shifting from systemwide repricing caused by genuine scarcity.
 
 ### IV. Co-location and private power
 
@@ -80,7 +82,7 @@ Track actual commercial commitments and regulatory status for nuclear restarts, 
 
 ### VI. Transmission and equipment
 
-Use FERC Order No. 1920 and later proceedings, DOE transmission-needs work, Berkeley Lab interconnection research, grid-operator planning documents, and utility filings. Separate project need, approval, construction, and energization.
+Use FERC Order No. 1920 and later proceedings, DOE transmission-needs work, Berkeley Lab interconnection research, DOE grid-supply-chain material, grid-operator planning documents, and utility filings. Separate project need, approval, procurement, construction, and energization. Treat equipment and labor lead times as physical constraints, not footnotes.
 
 ### VII. Flexible compute
 
@@ -113,11 +115,12 @@ Compare data centers with electrochemical plants, aluminum smelters, defense fac
 | 13 — The Data Center Becomes a Grid Resource | Can interruptible or flexible service turn some large loads into reliability tools? |
 | 14 — Texas Batches the Boom | What does ERCOT's large-load process reveal about planning for a flood of speculative demand? |
 | 15 — The New Company Town | What bargain do host communities make when they trade land, water, infrastructure, and incentives for compute investment? |
-| 16 — The Power Price of Intelligence | How deeply does electricity economics enter the cost curve of AI and cloud computing? |
+| 16 — The Power Price of Intelligence | How do direct cost allocation and systemwide scarcity pricing differ as data-center demand grows? |
 | 17 — The Grid Becomes Industrial Policy | When does electricity infrastructure become part of technological and national economic strategy? |
-| 18 — The American Grid Gets Built Again | Can the demand shock accelerate transmission, generation, equipment, and planning reforms that were needed anyway? |
-| 19 — What If the Boom Is Wrong? | Who bears the cost if data-center forecasts overshoot realized demand? |
-| 20 — Amped | What durable grid institutions should remain even if the specific AI boom changes shape? |
+| 18 — The Transformer Is the Timeline | Which equipment and workforce bottlenecks determine whether money can become usable grid capacity? |
+| 19 — The American Grid Gets Built Again | Can the demand shock accelerate transmission, generation, equipment, and planning reforms that were needed anyway? |
+| 20 — What If the Boom Is Wrong? | Who bears the cost if data-center forecasts overshoot realized demand? |
+| 21 — Amped | What durable grid institutions should remain even if the specific AI boom changes shape? |
 
 ## Source discipline
 
