@@ -82,6 +82,38 @@ The phrase “common sense” survived even more thoroughly. It remains one of t
 
 Paine did not invent that human temptation. He demonstrated its political force at a moment when the stakes could hardly have been higher.
 
+The counterfactual is necessary because the Paine legend can become too clean.
+
+If *Common Sense* had never appeared, the colonies might still have declared independence in 1776. The war had already begun. British policy had hardened. Reconciliation was becoming harder to imagine. Colonial committees, conventions, newspapers, sermons, local instructions, military events, and political organizers were moving public argument toward separation. John Adams and other leaders did not need Paine to teach them that independence was an available destination.
+
+France’s strategic interests would still matter. British military decisions would still matter. The Continental Congress would still face the problem of governing a war without admitting what political entity was fighting it.
+
+The revolution does not depend on a pamphlet to exist.
+
+What changes without Paine is the efficiency of one particular rhetorical bridge.
+
+Independence loses a text that could travel across education levels and regions with unusual speed. Monarchy loses one of the period’s most accessible attacks. The argument for separation remains available, but it is less compressed into a mass-market object that a reader can hand to a neighbor and say: read this.
+
+That “hand it to a neighbor” quality is more important than the image of Paine persuading famous founders. Political elites already had complex theories. The pamphlet’s distinctive field was the wider public sphere where political identity was becoming collective.
+
+A revolution is not only a decision by delegates.
+
+It is a coordination problem among people who must fight, finance, supply, administer, obey, resist, and live inside the consequences of the decision. A formal declaration can move ahead of public belief; a viable revolution needs enough belief to sustain institutions after the announcement.
+
+*Common Sense* helped narrow the distance between elite decision and ordinary political language.
+
+Its attack on hereditary monarchy also carried a deeper afterlife than the immediate independence case. The new United States would spend generations constructing forms of inherited status without legal nobility: family prestige, wealth, race, property, education, social networks. Formal monarchy disappeared. Hierarchy did not.
+
+Paine’s rhetoric therefore became reusable whenever Americans wanted to describe entrenched privilege as an offense against ordinary reason.
+
+That reuse has limits. Every political faction can call its own preferences common sense. The phrase can clarify and bully. It can democratize argument by making theory accessible, and it can shut argument down by declaring disagreement irrational.
+
+The rhetorical technique contains both possibilities.
+
+This is part of the book’s importance because influence includes habits of political speech, not just conclusions. Paine did not merely help normalize independence. He modeled a style in which a radical proposal is presented as the position from which ordinary intelligence should begin.
+
+American political communication has never stopped using that move.
+
 There is an irony in choosing *Common Sense* as the first “book” in a history of books. It was a pamphlet, physically modest and meant for immediate argument. It did not need to wait for posterity to decide it was literature. It was useful before it was canonical.
 
 That distinction is central to this project. The important book of a decade is not necessarily the one later critics admire most. It is the one that entered the bloodstream of American life most consequentially.
