@@ -45,8 +45,6 @@ jobs:
               text = text.replace('Svyable books', 'Sven Hardy Benson’s books')
               path.write_text(text, encoding='utf-8')
 
-          # The local authoring workspace uses the author's public identity;
-          # repository ownership remains Svyable in technical URLs/config.
           path = Path('desk/authoring-role-policy.js')
           text = path.read_text(encoding='utf-8')
           text = text.replace('SVYABLE_DESK_IDENTITY', 'SVEN_DESK_IDENTITY')
@@ -63,7 +61,6 @@ jobs:
               text = text.replace(old, new)
           path.write_text(text, encoding='utf-8')
 
-          # Static Reader identity should match imprint.json, manifest and app icon.
           path = Path('reader/index.html')
           text = path.read_text(encoding='utf-8')
           text = text.replace('<meta name="apple-mobile-web-app-title" content="Desk Reader">', '<meta name="apple-mobile-web-app-title" content="Sven’s Desk">')
@@ -81,7 +78,6 @@ jobs:
           text = text.replace('<p class="library-lede">Books in the act of becoming books. Drafts, complete manuscripts, and the next edition all live here before deliberate release to Shelf.</p>', '<p class="library-lede">Every cataloged working manuscript lives here in motion: early drafts, complete drafts, revisions, and the next edition before deliberate release to Shelf.</p>')
           path.write_text(text, encoding='utf-8')
 
-          # Tests had drifted behind an already-correct manifest and app icon.
           path = Path('reader/js/desk-app-identity.test.mjs')
           text = path.read_text(encoding='utf-8')
           text = text.replace("assert.equal(manifest.name, 'Sven Hardy Benson’s Desk Reader');", "assert.equal(manifest.name, 'Sven Hardy Benson’s Desk');")
@@ -94,7 +90,6 @@ jobs:
           text = text.replace("assert.equal(manifest.name, 'Sven Hardy Benson’s Desk Reader');", "assert.equal(manifest.name, 'Sven Hardy Benson’s Desk');")
           path.write_text(text, encoding='utf-8')
 
-          # Correct the author guide's stale public/private description.
           path = Path('docs/author-guide.md')
           text = path.read_text(encoding='utf-8')
           old = '''This repository is the **private Desk** in a
@@ -116,7 +111,6 @@ jobs:
               raise SystemExit('Author guide visibility block not found')
           path.write_text(text.replace(old, new, 1), encoding='utf-8')
 
-          # Keep the README diagram readable after expanding both public names.
           path = Path('README.md')
           text = path.read_text(encoding='utf-8')
           text = text.replace('                  Sven Hardy Benson’s Desk                         Sven Hardy Benson’s Shelf', '             Sven Hardy Benson’s Desk              Sven Hardy Benson’s Shelf')
@@ -125,11 +119,21 @@ jobs:
 
       - name: Validate branded Desk surfaces
         run: |
-          python3 scripts/catalog.py >/tmp/catalog-audit.txt
+          echo '--- catalog audit ---'
+          if ! python3 scripts/catalog.py >/tmp/catalog-audit.txt; then
+            cat /tmp/catalog-audit.txt
+            exit 1
+          fi
+          echo 'catalog audit ok'
+          echo '--- authoring role policy ---'
           node desk/authoring-role-policy.test.mjs
+          echo '--- catalog contract ---'
           node desk/catalog-contract.test.mjs
+          echo '--- Desk app identity ---'
           node reader/js/desk-app-identity.test.mjs
+          echo '--- Desk PWA contract ---'
           node reader/js/desk-pwa-contract.test.mjs
+          echo '--- expected public strings ---'
           python3 - <<'PY'
           from pathlib import Path
           checks = {
@@ -143,6 +147,7 @@ jobs:
               for needle in needles:
                   if needle not in text:
                       raise SystemExit(f'{needle!r} missing from {name}')
+          print('public string checks ok')
           PY
           git diff --check
 
