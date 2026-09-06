@@ -265,3 +265,13 @@ Its larger significance is that it is forcing the American power system to relea
 For twenty years, slow demand allowed the country to postpone that lesson.
 
 Now the lesson has arrived in server racks.
+
+There is one further consequence of treating uncertainty as a contractual problem rather than an embarrassment in the forecast. It changes the cadence of planning. Instead of asking a utility commission to approve a forty-year asset against one heroic demand curve, planners can tie successive commitments to evidence that arrives over time: executed service agreements, deposits that become nonrefundable, land and equipment orders, construction milestones, energization dates, and actual meter data from earlier phases of a campus. Each step converts a little uncertainty into evidence.
+
+That does not eliminate the need to build ahead. A transformer ordered only after every server is installed is already late. Transmission cannot be permitted one month before a load arrives. But the sequence can be designed so that irreversible public commitments grow as the customer's own irreversible commitments grow. The developer still gets a path to power. The utility still plans ahead. The people already on the system are less likely to finance an option somebody else can abandon for free.
+
+This is a more mature response to a boom than either disbelief or surrender. It accepts that the load may be real without treating every announced megawatt as destiny. The forecast becomes a living ledger of commitments rather than a single number printed once and defended forever.
+
+The grid was built to balance electricity in real time.
+
+The data-center era is forcing it to balance belief in the future too.
