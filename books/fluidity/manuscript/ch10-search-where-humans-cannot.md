@@ -231,3 +231,85 @@ That is the hard part.
 Search where humans cannot.
 
 Filter where humans would.
+
+There is a hidden assumption in the phrase *filter where humans would* that needs to be challenged. Human filters are not automatically optimal. They are shaped by the examples we know, the techniques we were trained in, the papers our subfield values, and the kinds of arguments our notation makes easy to see.
+
+A machine search that merely automates human taste at greater scale may become a faster way to stay inside the same basin.
+
+The system therefore needs two classes of filters.
+
+Hard filters protect truth and relevance: scaling consistency, exact hypotheses, known counterexamples, numerical reproducibility, formal type correctness.
+
+Soft filters encode current taste: simplicity, resemblance to successful methods, interpretable geometry, tractable formalization cost, expert interest.
+
+Hard filters can kill a branch.
+
+Soft filters should usually rank rather than erase.
+
+This preserves a reservoir of unfashionable candidates. A strange representation may look ugly to current experts yet survive every hard test. A functional may have no known interpretation but exhibit a robust critical identity. A numerically discovered profile may violate the symmetries researchers usually impose without violating the equation.
+
+Those are exactly the candidates machine search is supposed to make visible.
+
+The architecture should therefore maintain an exploration budget for low-taste, high-survival ideas.
+
+This resembles novelty search in optimization: do not reward only immediate performance; reserve resources for candidates that occupy genuinely different regions of the search space. In mathematics, diversity can be measured through proof mechanisms, representations, hypothesis patterns, or geometric features rather than surface wording.
+
+A thousand paraphrases of the same Grönwall argument are one idea.
+
+A strange frequency-localized invariant with no precedent is another.
+
+The system should know the difference.
+
+This leads to the problem of search-space representation itself. If candidate observables are generated only from a fixed menu of norms and derivatives, the decisive object may be excluded before search begins. If initial data are parameterized only in a low-order Fourier basis, a multiscale singular mechanism may be invisible. If proof plans are constructed only from retrieved theorem templates, an argument requiring a new abstraction may never appear.
+
+Every search program should therefore expose its expressive assumptions.
+
+What can this generator represent?
+
+What can it not represent?
+
+Which symmetries are hard-coded?
+
+Which function spaces are available?
+
+Which transformations can be proposed?
+
+Which theorem schemas does the proof planner know?
+
+The negative space is part of the research report.
+
+When a search fails, we need to know whether the mathematical object was absent or merely inexpressible.
+
+This is where multiple generators become useful for more than redundancy. One can search in physical-space bases, another in Fourier space, another in wavelets, another in neural function representations, another in analytic ansätze. One proof generator can reason through energy estimates, another through contradiction and compactness, another through computer-assisted construction. Agreement among these systems is useful; disagreement about what they can even imagine is more interesting.
+
+A promising branch may appear only in one representation. The institution can then translate it into others and ask what becomes visible or lost.
+
+Translation is itself a search primitive.
+
+There is also a temporal dimension to search. Humans tend to explore one branch until enthusiasm fades or an obstruction appears. Machine systems can maintain long-lived dormant branches cheaply. A theorem proved two years later may suddenly activate an old candidate. A new formal library may make a previously unaffordable proof plan tractable. A model generation may rediscover an old idea with one changed hypothesis that now matters.
+
+The graph should support resurrection without amnesia.
+
+This is another reason failed branches need structured reasons for rejection. “Low priority in 2026” is not the same as “mathematically false.” A branch killed by compute cost can return when hardware changes. A branch killed by missing formal infrastructure can return when Mathlib grows. A branch killed by a genuine counterexample stays dead unless its statement changes.
+
+Search memory needs expiration semantics.
+
+The same discipline can be applied to literature. A theorem database should know the vintage of claims and whether newer work superseded, strengthened, or refuted them. AI systems are vulnerable to treating the literature as a timeless bag of sentences. Research is a versioned graph.
+
+For a fast-moving AI-mathematics book, that matters acutely. The capabilities described in September 2026 will age. The architecture should be written so model names can change without invalidating the logic. Search, counterexample generation, formal verification, rigorous numerics, independent reproduction—these are roles. Claude, Astra, AlphaProof, or future systems are current implementations.
+
+That separation is what makes the thesis durable enough for publication.
+
+The final machine-search advantage may be emotional rather than computational.
+
+Machines do not become embarrassed because an idea is weird. They do not protect a thesis because it belongs to their advisor. They do not avoid a parameter region because a respected person once called it uninteresting. They can be configured to pursue low-status possibilities without social cost.
+
+Of course the humans choosing objectives still bring institutions and biases with them. AI does not create neutral science.
+
+It can, however, make contrarian search cheaper.
+
+For a ninety-year-old problem, cheap contrarianism has value.
+
+The decisive route may be one that generations of excellent mathematicians reasonably declined to spend scarce life on.
+
+A machine can spend the life anyway.
