@@ -83,6 +83,7 @@ The author asked to continue toward publication on 2026-09-06. The objective rel
 - Manuscript tree on the frozen Desk source: `91e4697ccab60b1cafbecd443ffcd168c6e68074`.
 - Research tree on the frozen Desk source: `7e25d99837912f60e36c082deb586426ea0dd19c`.
 - Released Reader route: `https://svyable.github.io/shelf/reader/#/b/who-taught-america/`.
+
 ## Release rule
 
 The first edition is released from the named frozen Desk ref `release/who-taught-america-first-edition-2026-09-06`, source commit `1ea139b81bb4822f438c98942676d8b334a38a99`. Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.
