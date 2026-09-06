@@ -224,6 +224,94 @@ The problem is not that a machine touched the sentence.
 
 The problem is that the sentence may be signaling attention that was never spent.
 
+This makes provenance a contractual question before it becomes a moral one.
+
+If origin is irrelevant to the thing being purchased, demanding elaborate disclosure can become another form of ceremony. Nobody needs a provenance certificate for a routine spreadsheet formula. A customer who wants a refund does not benefit from learning whether the first three sentences of the support reply were drafted by a model.
+
+But when origin is part of the bargain, hiding it can change the product.
+
+Suppose a buyer pays for an original physical performance by a particular musician. A synthetic performance carrying the musician's name is not an equivalent substitute merely because the waveform is pleasing. Suppose a client retains a professional because the client wants that person's considered judgment. A memo produced elsewhere and signed unread is not the same service even if every sentence is correct. Suppose a family pays for a small class because they value sustained attention from a teacher. Replacing the teacher's contact with personalized automated messages may improve some learning outcomes and still alter what was sold.
+
+The relevant disclosure is therefore not a binary stamp reading HUMAN or AI.
+
+It is an account of which human property the transaction promises.
+
+Was there a particular person's final judgment?
+
+Was there physical presence?
+
+Was the performance live?
+
+Did a named professional accept responsibility?
+
+Did the maker actually produce the object, or merely choose among generated variants?
+
+Did someone spend scarce attention on this recipient?
+
+The answers can be mixed.
+
+Most valuable human work already is.
+
+A surgeon relies on machines. A musician relies on amplification and software. A carpenter uses power tools. A writer works inside an editor, search engine, spellchecker, and increasingly a set of generative aids. Human involvement has never meant tool absence.
+
+The interesting boundary is control and consequence.
+
+Who chose what counted as finished?
+
+Who could notice that the ordinary process did not fit this case?
+
+Who was exposed to the outcome?
+
+Who will remember what happened next?
+
+That last question is easy to overlook.
+
+Relationship goods have a future.
+
+The teacher who watches a student struggle today can change tomorrow's lesson. The doctor who makes a difficult call may see the patient again and learn whether the call was right. The adviser who recommends a strategy has to live through the next meeting if it fails. The friend who says the wrong thing remains your friend on Thursday.
+
+The interaction enters a continuing social ledger.
+
+That continuity can be valuable because it changes incentives. A person who expects to encounter the consequences later may behave differently from a producer who disappears after delivering the artifact. Reputation is one way markets formalize this. Friendship, professional duty, repeated business, and community membership are other ways.
+
+Artificial systems can participate in continuity. They can remember more than people do. They can maintain a record across years. An institution can make an automated service accountable through warranties, audits, escalation paths, and people who stand behind it.
+
+So continuity is not proof of human superiority either.
+
+The point is narrower: a human premium sometimes pays for mutual exposure rather than for production technique.
+
+Two people are spending something that cannot be copied infinitely.
+
+Attention goes one way.
+
+Vulnerability often goes both ways.
+
+The conversation can disappoint, surprise, obligate, embarrass, or change the future relationship. That is why a perfectly simulated exchange may not substitute for every real one even when it substitutes for many.
+
+Reciprocity is a property of the relationship, not the sentence.
+
+This is also where a human premium can become fraudulent in the other direction.
+
+A luxury market can turn visible inefficiency into a status signal and call it authenticity. A company can charge more because a person nominally touched the process even when the person added no judgment, care, accountability, or relationship. A restaurant can boast that something was handmade while using the label mainly to justify a price. A professional can insist on personal involvement in work that the client would happily automate if the professional's guild did not control access.
+
+Expensive is not the same as meaningful.
+
+A useful test is to ask what changes if the human step disappears.
+
+Does quality change?
+
+Does responsibility change?
+
+Does the relationship change?
+
+Does the event cease to be the event that was promised?
+
+Does a person lose a chance to exercise or receive attention that matters?
+
+If the answer is no, the premium may be defending an old production cost rather than a human good.
+
+If the answer is yes, then abundance has not made the human contribution obsolete. It has made the contribution easier to name.
+
 We have already encountered proof of effort earlier in the book. Cheap generation weakens effort as an automatic signal because the visible artifact no longer reveals how much work occurred behind it.
 
 The closing version of that argument is less about authentication than relationship.
