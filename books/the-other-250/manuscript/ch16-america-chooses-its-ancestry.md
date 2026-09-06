@@ -144,11 +144,69 @@ The law was explicitly designed to reduce and redirect immigration, and it did. 
 
 That is enough to make the statute a demographic hinge.
 
+There was another transformation inside the 1924 system that made the restriction more durable: the border became paperwork before it became a physical encounter.
+
+The modern image of immigration enforcement centers on the line itself—an airport booth, a port, a fence, a desert crossing, a checkpoint. But a numerical immigration regime cannot function only at the geographic boundary. It needs an administrative boundary that begins earlier.
+
+Who is the applicant?
+
+Which quota applies?
+
+Is a visa number available?
+
+What documents establish identity, nationality, family relationship, occupation, or eligibility?
+
+Which consular officer is authorized to approve the journey?
+
+A quota therefore creates a bureaucracy of classification.
+
+The exclusion can occur before the migrant ever buys a ticket.
+
+That shift matters because it changes what it means to be legally admissible. In the earlier era of mass European migration, many passengers arrived at American ports and were inspected there, with some excluded. Under the increasingly restrictive system of the 1920s, permission to embark became more tightly tied to visas issued abroad. The country was pushing part of its border outward into consulates and documents.
+
+That is a form of state capacity.
+
+The government did not merely announce that fewer people should come. It built a machinery capable of sorting people before arrival according to categories Congress had specified.
+
+The machinery also produced a new kind of political identity: the person whose presence violated a numerical or documentary rule rather than a traditional criminal prohibition.
+
+Unauthorized migration existed before national quotas, but numerical restriction expanded the circumstances in which ordinary labor migration could become illegal by operation of paperwork. A worker could be economically wanted, socially embedded, and legally barred at the same time.
+
+That contradiction became especially important along the Mexican border. Employers in agriculture, railroads, mining, and other sectors continued to demand labor. Mexican migration remained outside the European national-origins quota structure in the same way, but documentation, inspection, deportation, and border enforcement became increasingly consequential. The government could pursue restriction while employers pursued recruitment.
+
+The result was not a coherent closed system.
+
+It was a system in which legality and economic demand could point in opposite directions.
+
+That pattern would repeat for the rest of the century.
+
+The Depression made the contradiction harsher. As unemployment rose, federal, state, and local officials participated in repatriation and deportation campaigns that drove or pressured large numbers of people of Mexican origin out of the United States, including some U.S. citizens. The episode was not a direct statutory command of Johnson-Reed, and it should not be collapsed into the 1924 act. It does show how an enforcement apparatus and a political culture of restriction could be redirected when the economy turned.
+
+Institutions built for one definition of unwanted migration can be used under another.
+
+The quota system also changed political memory by creating a pause in mass European immigration long enough for earlier immigrant groups to be recast as the traditional American population. The children and grandchildren of people once described as alien, unassimilable, radical, Catholic, Jewish, or racially suspect became voters, veterans, homeowners, officials, and members of an expanding middle class.
+
+The line between “old stock” and “new immigrant” moved.
+
+Then, when the 1965 law reopened immigration on different principles, descendants of earlier immigrants could remember Ellis Island as a family origin story rather than as a national emergency.
+
+That change in memory matters because societies often romanticize yesterday's migration while fearing today's.
+
+The person whose grandparent arrived under suspicion can become the citizen who believes the old migration was fundamentally different from the new one.
+
+Law helped create the pause in which that transformation of memory occurred.
+
+This is the deeper reason the chapter belongs beside the 1965 immigration chapter later in the book. The two statutes are not merely opposites, restriction followed by liberalization. They demonstrate how immigration systems create path dependence.
+
+Johnson-Reed narrowed the set of people who could establish family and community networks in the United States for four decades. The 1965 law then gave family relationships a new importance in admissions. The families available to use that preference system were, in part, the product of the earlier restriction.
+
+One generation of law determines the starting conditions for the next.
+
 The 1920s contain other under-appreciated candidates with enormous claims: commercial radio, electrification, installment credit, zoning, aviation, the rise of chain retail, and the Federal Highway Act of 1921. The decade is also remembered for Prohibition, the Harlem Renaissance, the Scopes trial, and stock-market speculation.
 
 Johnson-Reed belongs near the center because it decided something more durable than the style of the decade.
 
-It decided which strangers would be permitted to become neighbors.
+It turned ancestry into allocation, allocation into bureaucracy, and bureaucracy into missing people.
 
 Forty-one years later, another Congress would choose differently.
 
