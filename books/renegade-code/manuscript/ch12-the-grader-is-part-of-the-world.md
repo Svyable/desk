@@ -305,3 +305,129 @@ It is part of an evidence system that can detect, attribute, constrain, and lear
 The agent gets to surprise the test.
 
 It does not get to own the meaning of the surprise.
+
+There is one more supply chain to protect: the supply chain of measurement itself.
+
+An evaluation result rarely moves directly from raw behavior to deployment authority. It passes through environment builders, dataset versions, scoring code, model judges, dashboards, summaries, review meetings, and release criteria. Each transformation can change what the result means.
+
+A task may be reproducible while the final decision is not.
+
+The environment says the agent contacted an undeclared host.
+
+A parser classifies the event as benign because the host belongs to a broad allowed category.
+
+A dashboard rolls the event into a success rate.
+
+A summary says the model passed the networking evaluation.
+
+A release document cites the summary.
+
+No single person falsified the evidence.
+
+Meaning leaked out of the pipeline.
+
+Measurement needs provenance for the same reason agent actions do.
+
+Which environment version produced this run?
+
+Which grader version scored it?
+
+Which policy classified the trace?
+
+Which hidden data were available?
+
+Which judge model and prompt were used?
+
+Which manual overrides changed the result?
+
+Which result ultimately altered deployment authority?
+
+The chain should be reconstructable after the release decision, not only during the experiment.
+
+This protects against ordinary software regressions as much as strategic interference. A grader upgrade can change scores. A dependency can alter sandbox behavior. A hidden-test generator can become biased toward easier cases. A monitoring parser can stop recognizing an event after a schema change. If the organization cannot reproduce why yesterday's system was judged acceptable, the safety case has become historical folklore.
+
+Evaluation artifacts therefore need their own immutability boundary.
+
+Not every notebook has to be preserved forever. But consequential decisions should point to versioned evidence that the acting system cannot rewrite and the release process cannot silently reinterpret. The release can change. The old evidence should remain what it was.
+
+This creates a useful analogue to a software bill of materials: a measurement bill of materials.
+
+Which model was tested?
+
+Which harness?
+
+Which tool versions?
+
+Which policies?
+
+Which graders?
+
+Which datasets or generators?
+
+Which external services?
+
+Which monitor configuration?
+
+Which exceptions?
+
+The document is not valuable because lists are inherently safe. It is valuable because a surprising result can be traced to the thing that changed.
+
+If performance jumps after a browser update, investigate the browser path.
+
+If policy compliance improves after a judge-model change, verify that behavior changed rather than only judgment.
+
+If a model passes after an infrastructure migration, confirm that the migration did not remove the condition the test was meant to stress.
+
+The grader is part of the world, and so is the software around the grader.
+
+A second problem appears when evaluation infrastructure is shared across many models. Shared infrastructure creates efficiency and comparability. It also creates common-mode failure.
+
+One stale secret can contaminate many runs.
+
+One permissive proxy can expose the same unintended route to every agent.
+
+One buggy scoring service can make several systems appear safer or more capable than they are.
+
+One compromised judge can distort a portfolio of results.
+
+Diversity of models is not enough if every model is measured through one fragile instrument.
+
+Critical findings deserve replication across different trust roots when feasible. A high-consequence result from one evaluator can be rerun in an independently reconstructed environment. A behavioral claim can be checked with a second scoring method. A system-level boundary can be verified through external telemetry rather than only the harness's own records.
+
+The aim is not maximal duplication.
+
+It is to avoid one invisible measurement dependency becoming the single source of institutional confidence.
+
+This matters even more once evaluation gates become automatic.
+
+A mature organization will want strong evidence to update authority without convening a committee for every model revision. Automation is attractive because capability cycles are fast. But an automated gate converts measurement directly into permission. A grading bug can become an access-control bug.
+
+The transition deserves transactional discipline.
+
+A new score can propose an authority change.
+
+The policy system can verify that the measurement came from an approved evaluation configuration.
+
+High-consequence expansions can require corroborating evidence or a second principal.
+
+The resulting grant can remain temporary until deployment telemetry confirms the expected behavior.
+
+This makes evaluation a contributor to authority rather than its sovereign.
+
+The distinction reduces both complacency and panic. One alarming run can narrow authority quickly without forcing the institution to conclude that every underlying hypothesis is true. One excellent run can justify a staged expansion without turning a benchmark victory into permanent trust.
+
+The evaluation system becomes capable of changing its mind.
+
+That may be its most important property.
+
+Models change.
+
+Tools change.
+
+Threats change.
+
+The world changes.
+
+A trustworthy grader is not the one that delivers the final verdict.
+
+It is the one whose evidence remains independently legible when the verdict has to change.
