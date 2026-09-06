@@ -48,6 +48,7 @@
 - [Chapter briefs and falsification notes](research/chapter-briefs.md)
 - [Source notes](research/source-notes.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release review](research/release-review.md)
 
 ## Thesis
 
