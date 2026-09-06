@@ -283,3 +283,125 @@ Then anywhere became somewhere work could reach.
 The office did not disappear.
 
 It learned the way to the bedroom.
+
+The phrase “work from anywhere” contains a hidden question: whose anywhere?
+
+For a professional with autonomy, it can mean choosing the place from which work happens. For a lower-power worker, it can mean the employer choosing more places in which work may legitimately appear. The same technology can expand control at the top of an organizational hierarchy and contract it at the bottom.
+
+This is why mobile work cannot be evaluated only by counting remote days or hours online. The distribution of discretion matters.
+
+Who decides when the message must be seen?
+
+Who can delay the response without penalty?
+
+Who controls the device?
+
+Who pays for it?
+
+Who can remove the work application?
+
+Who is truly on call?
+
+Who merely fears appearing unavailable?
+
+A company can call a schedule flexible while workers spend the day waiting for an app to reveal whether there is work. That is flexibility from the allocator’s point of view. The worker experiences uncertainty.
+
+The smartphone is excellent at transferring this kind of uncertainty because it can continuously update the terms.
+
+A shift becomes available.
+
+A route changes.
+
+A customer cancels.
+
+A surge begins.
+
+A task is reassigned.
+
+A rating arrives.
+
+A schedule moves.
+
+The worker’s pocket becomes the interface through which the labor market changes its mind.
+
+This is one reason the glass-face posture can conceal class differences. Two people may both stare at identical phones for eight hours. One is choosing entertainment between meetings. Another is monitoring the device because income depends on catching the next offer quickly. Screen time erases the distinction.
+
+So does the language of addiction.
+
+A worker can be behaviorally compelled to check a device because the economic system has attached money to checking. Calling that compulsion a personal disorder would misdescribe the source.
+
+The institution learned the reflex and rented it.
+
+This does not absolve companies of design choices or users of agency. It clarifies where leverage lies. If a delivery platform changes the timing of offers, the worker’s checking behavior may change without any psychotherapy. If an employer stops rewarding late-night responsiveness, the team’s phones may become quieter without any employee becoming more disciplined.
+
+Environment can outperform intention because environment supplies the cue.
+
+The pandemic years made this boundary problem more visible because large numbers of workers suddenly experienced home as office, classroom, meeting room, and family space at once. The smartphone was not the only or even primary machine for many of those workers; laptops carried much of the load. But the phone remained the continuity device. It delivered the message when the laptop closed. It authenticated the login. It carried the calendar into the kitchen. It told the worker that somebody was typing after the official day had ended.
+
+When physical boundaries disappeared, digital boundaries had to do more work.
+
+Many were not ready.
+
+Organizations learned that a distributed workforce needs explicit norms about response because architecture no longer supplies them. The elevator ride home had once created a small period in which the office could not easily follow. Remote work removed the elevator. The boundary had to become a policy, a manager behavior, a delayed-send setting, a calendar rule, or a shared expectation.
+
+That lesson will outlast any particular remote-work cycle.
+
+As work becomes more mediated by agents and automation, the same problem can intensify. An AI system may be able to summarize messages and reduce checking. It may also make sending work nearly free, increasing the number of requests humans receive. A manager can generate ten drafts in the time it once took to write one. A customer can contact every hour. An automated monitoring system can produce alerts continuously.
+
+When production becomes cheap, attention becomes the bottleneck.
+
+The smartphone taught the first version of this lesson. Email made sending easier than receiving. Chat made sending continuous. Mobile access made receiving portable. The cost fell on the person whose attention had to integrate the stream.
+
+The next generation of work software should treat human attention as a constrained operational resource rather than an infinitely elastic inbox.
+
+That means escalation rules.
+
+Real priorities.
+
+Quiet defaults.
+
+Batching.
+
+Clear on-call rotations.
+
+Channels that can end.
+
+Managers who do not make performative availability a promotion criterion.
+
+Systems that distinguish an event occurring from a human needing to know the event occurred now.
+
+This is not softness. It is queue design.
+
+Every organization already prioritizes scarce resources. It schedules machines, capital, rooms, inventory, specialists, and network capacity. Attention is stranger only because it lives inside employees and has historically been treated as free.
+
+The phone made the extraction visible.
+
+Every buzz is a tiny withdrawal from the day.
+
+Some withdrawals are worth it.
+
+The mature organization should know which ones.
+
+The right to disconnect is therefore less interesting as a slogan than as a systems problem. A worker cannot disconnect safely if the organization has no alternative emergency path. They cannot trust quiet hours if leaders routinely violate them. They cannot ignore the phone if scheduling and authentication remain mixed with optional chatter.
+
+To create real disconnection, institutions have to design continuity without constant individual vigilance.
+
+Hospitals know this because on-call systems are explicit.
+
+Airlines know this because safety-critical communication uses escalation.
+
+Infrastructure operators know this because alarms have severity levels.
+
+The ordinary office often routes everything through the same chat icon and relies on anxiety to sort it.
+
+That is not inevitable.
+
+Glass Face Syndrome at work weakens when the organization stops making every employee their own twenty-four-hour dispatcher.
+
+Flexibility can survive.
+
+Reachability can survive.
+
+Remote work can survive.
+
+The thing that should not survive is the assumption that because work can reach a pocket, the pocket belongs to work.
