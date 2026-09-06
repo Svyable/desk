@@ -1,5 +1,22 @@
 # Editorial Review
 
+## Mechanical validation update — September 6, 2026
+
+**Release remains blocked on the repository length gate.** This update does not alter the completed substantive factual/research clearance below.
+
+The current canonical Desk catalog reports **51,005 words across every Markdown file in `books/the-alliance-advantage/manuscript/`**. `scripts/catalog.py` and `scripts/check-book-length.py` use the same word regex, but the publication length checker applies its 65,000-word minimum to numbered `chNN-*` chapters only. Because the 51,005 catalog total also includes front matter, the prologue, and back matter, the numbered-chapter corpus is necessarily below 51,005 words and therefore below the 65,000-word release minimum.
+
+This creates a deterministic total-length blocker without relying on byte-size estimates or hosted CI. The numbered chapters need **at least 13,996 additional regex-counted words**, and the true required addition is larger because non-numbered matter contributes to the 51,005 catalog total. The exact per-chapter floor must also be verified: every numbered chapter must reach at least 3,000 words.
+
+Required remediation before Shelf publication:
+
+1. Substantively deepen the numbered chapters; do not pad prose merely to satisfy the checker.
+2. Re-run `python3 scripts/check-book-length.py the-alliance-advantage` on one frozen Desk source and require all 18 numbered chapters to be at least 3,000 words and the numbered-chapter corpus to be at least 65,000 words.
+3. Run `python3 scripts/check-desk.py` on that same frozen source and require a clean exit.
+4. If those mechanical/repository gates pass and no newer manuscript, research, rights, or review change introduces a blocker, proceed with the ordinary matched Desk/Shelf release transaction.
+
+Until then, **do not release**. This is a substantive depth remediation, not a mechanical metadata fix.
+
 ## Release decision — September 6, 2026
 
 **Release-cleared on substantive factual/research grounds, subject to the repository’s ordinary mechanical validation.** The manuscript is structurally complete at 18 of 18 numbered chapters plus prologue, with front matter, back matter, book-level rights metadata, a research brief, and a normalized source ledger.
@@ -97,7 +114,7 @@ This weakens any universal claim that networks inherently beat hierarchy on spee
 - **Implementation-evidence blocker from September 5:** closed.
 - **Chapters 7–18 claim-level blocker:** closed.
 - **Factual/research blocker:** none identified in the completed bounded pass.
-- **Mechanical release gate:** still required on one frozen Desk source.
+- **Mechanical release gate:** failed on total manuscript depth; exact per-chapter checker rerun remains required after substantive expansion.
 - **Shelf publication:** do not release until the mechanical/repository gates pass.
 
 No additional human-review gate is imposed. The remaining blockers are objective repository checks, not a request for vague further review.
