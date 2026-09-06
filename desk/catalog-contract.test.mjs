@@ -76,6 +76,17 @@ equal(draft.rights, 'All Rights Reserved');
 equal(draft.aiUse, 'AI training and generative use reserved');
 equal(draft.rightsFile, '[RIGHTS.md](RIGHTS.md)');
 
+const singularAuthor = parseBookReadme(`# Legacy Draft
+
+| | |
+|---|---|
+| **Author** | Sven Hardy Benson |
+| **Status** | Drafting |
+`, 'legacy-draft');
+
+equal(singularAuthor.authors, 'Sven Hardy Benson');
+equal(singularAuthor.authorsRaw, 'Sven Hardy Benson');
+
 const published = parseBookReadme(`# Released
 
 | **Status** | Published |

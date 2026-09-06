@@ -13,9 +13,9 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 <!-- DESK_SUMMARY:END -->
 
 <!-- SHELF_SUMMARY:START -->
-> **Shelf: 51 author projects · 48 released · 3 public drafts/proofs**
-> **Where they live: 51 in both Desk + Shelf · 54 Desk-only · 0 Shelf-only**
-> **Release review queue: 11 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
+> **Shelf: 52 author projects · 49 released · 3 public drafts/proofs**
+> **Where they live: 52 in both Desk + Shelf · 53 Desk-only · 0 Shelf-only**
+> **Release review queue: 10 complete drafts are Desk-only.** `Complete draft` means manuscript-complete, not automatically approved for release.
 
 | Public project | Desk state | Shelf state | Open |
 |---|---|---|---|
@@ -60,6 +60,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**The Long-Running Mind**](books/the-long-running-mind/) | ✅ First complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-long-running-mind/) |
 | [**The Mortality Discount**](books/the-mortality-discount/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-mortality-discount/) |
 | [**The Never Ending Intelligence**](books/the-never-ending-intelligence/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-never-ending-intelligence/) |
+| [**The Orphan Age**](books/the-orphan-age/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-orphan-age/) |
 | [**The Retry Generation**](books/the-retry-generation/) | ✍️ Expanded first draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-retry-generation/) |
 | [**The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt**](books/the-risk-pool/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/) |
 | [**The Unbounding**](books/the-unbounding/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/the-unbounding/) |
@@ -72,7 +73,7 @@ Desk is the working library for Svyable books: drafts, complete manuscripts, res
 | [**Useful Noise**](books/useful-noise/) | ✅ Complete draft | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/useful-noise/) |
 | [**Wild Speculation**](books/wild-speculation/) | ✅ Complete draft · Published on Shelf | ✅ Released | [Shelf →](https://svyable.github.io/shelf/reader/#/b/wild-speculation/) |
 
-**Desk-only complete drafts awaiting an explicit release decision:** [Bookself: The Story of Getting Started](books/bookself/), [Neuralase](books/neuralase/), [The Alliance Advantage](books/the-alliance-advantage/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Orphan Age](books/the-orphan-age/), [The Taiwan Threshold](books/the-taiwan-threshold/), [The Unobserved World](books/the-unobserved-world/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
+**Desk-only complete drafts awaiting an explicit release decision:** [Bookself: The Story of Getting Started](books/bookself/), [Neuralase](books/neuralase/), [The Alliance Advantage](books/the-alliance-advantage/), [The Half-Life of Now](books/the-half-life-of-now/), [The Last Human Channel](books/the-last-human-channel/), [The Longevity Moment](books/the-longevity-moment/), [The Taiwan Threshold](books/the-taiwan-threshold/), [The Unobserved World](books/the-unobserved-world/), [The Warning Problem](books/the-warning-problem/), [The World Won’t Choose Sides](books/the-world-wont-choose-sides/)
 <!-- SHELF_SUMMARY:END -->
 
 Some books here are only a chapter or two into existence. Others are complete manuscripts still being edited, tested, or reconsidered. That is intentional. **Desk shows the work in motion instead of pretending every book is at the same stage.**

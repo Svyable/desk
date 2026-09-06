@@ -1,4 +1,4 @@
-import { READER_PRESENTATION_PRESETS } from 'https://svyable.github.io/shelf/reader/js/presentation.js';
+import { READER_PRESENTATION_PRESETS } from './reader-presentation-contract.js';
 
 export const PUBLICATION_FORMATS = Object.freeze({
   book: Object.freeze({ label: 'Book', format: 'Book', pieceLabel: 'Chapter 1', filename: 'chapter-01.md' }),
