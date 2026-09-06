@@ -213,3 +213,97 @@ A narrowing corridor.
 The corridor is still dark at the end. We do not know whether smoothness or blowup is waiting there. We do know many doors that do not lead out.
 
 A good AI research institution should begin by locking those doors behind it.
+
+There is another way to measure the progress, and it is more useful than counting theorems. Ask how many kinds of hypothetical catastrophe remain compatible with everything already proved.
+
+The answer is not “anything can happen.” A future singularity has to thread a crowded needle. It must arise from smooth admissible data. It must avoid the conditions of every applicable continuation criterion. It must concentrate without contradicting partial regularity. It must respect the energy inequality. It must survive whatever geometric depletion is actually enforced by the equation. It must fit the domain and decay assumptions. If the argument is built from a self-similar scenario, it must avoid nonexistence theorems for excluded profile classes. If it appears as a limiting ancient solution, that object must evade the Liouville results already known in the relevant categories.
+
+This collection of necessary properties is itself an object worth computing.
+
+Call it the catastrophe specification.
+
+A traditional survey lists results one by one. An AI research system can intersect them. It can take each known theorem of the form “if X, then regular” and translate it into a necessary condition for blowup: “any blowup must violate X.” Do that across hundreds of results and the hypothetical singularity acquires a machine-readable profile.
+
+That profile can be searched numerically.
+
+Not to prove blowup, but to ask whether the constraints are mutually compatible in approximate flows. Can a high-resolution solution drive several dangerous norms simultaneously while retaining the geometry required to evade known criteria? Does a candidate profile that satisfies one necessary condition automatically trigger another criterion that restores regularity? Are some published criteria effectively redundant once expressed in the same variables? Are there combinations that leave only a surprisingly narrow corner of function space?
+
+This is the inverse use of regularity theory.
+
+Instead of asking each theorem how it proves smoothness, ask the entire literature what a singularity would have to look like.
+
+The same inversion works on the positive side.
+
+Take known global regimes: two dimensions, small data in critical settings, selected symmetries, perturbative neighborhoods, conditional regularity classes. Rather than filing them as separate successes, search for the structural feature they share that the general problem lacks. Is it suppression of one stretching geometry? A sign? A critical smallness condition? A dimension-dependent embedding? A monotone quantity? A missing interaction among scales?
+
+The danger is false unification. Models are excellent at inventing themes after the fact. A good system would demand that any proposed common mechanism survive formal comparison of the actual proofs. Which exact lemma changes when the dimension changes? Which estimate uses smallness? Which term vanishes under symmetry? Which constant ceases to close at the endpoint?
+
+This creates a comparative anatomy of proofs.
+
+For ninety years, analysts have produced bodies of argument adapted to different regimes. AI can dissect them at scale.
+
+The target is not a literary statement such as “all successful cases have more order.” It is a reusable mathematical fragment: this cancellation, this coercive estimate, this compactness mechanism, this exclusion of a frequency interaction. If the fragment can be isolated, the research program can ask whether the full three-dimensional equation contains a weaker version that has not yet been quantified correctly.
+
+This is where modern formalization becomes relevant even before the final theorem. A library containing global Leray–Hopf weak existence does more than certify a classical result. It makes one layer of the known theory executable. Formalizations of modern elliptic regularity show that difficult weak-solution arguments, iteration schemes, and Sobolev machinery can be represented in a proof assistant. Large machine-written formalizations of contemporary analysis suggest that the cost of building the surrounding library is falling.
+
+The first draft of this book treated “formalize the battlefield” as a proposed preparatory project.
+
+By publication preparation, part of that sentence has changed tense.
+
+The battlefield is being formalized now.
+
+That matters because a near miss becomes more valuable when its exact boundary is executable. A theorem can be queried by another proof. Its hypotheses can be compared mechanically. A stronger statement can fail at the checker rather than in a referee report six months later. An agent can ask whether two criteria compose and receive something harder than a plausible paragraph in return.
+
+The field is still far from a complete formal Navier–Stokes atlas. The point is not that the infrastructure problem has vanished. It is that the direction of travel is no longer hypothetical.
+
+There is also a more human reason to preserve the near misses carefully.
+
+Research communities forget asymmetrically. Published successes remain searchable. Failed programs often survive as warnings in talks, private notes, advisor lore, and the memories of people who were there. A new researcher can lose months rediscovering an obstruction that an expert regards as obvious but that was never written in a theorem-sized form.
+
+Machine research will amplify this problem unless failure is deliberately curated. A million generated proof attempts can create a million rediscoveries of the same dead idea.
+
+So a serious Navier–Stokes institution needs a negative library with standards as high as its positive library.
+
+A route is marked dead only when the mechanism of death is preserved.
+
+Not “critic rejected.”
+
+“Fails because the claimed critical estimate scales like this.”
+
+Not “numerics unstable.”
+
+“Candidate disappears under basis refinement because this high-frequency mode was under-resolved.”
+
+Not “known result.”
+
+“Equivalent to theorem X after these embeddings, with no weaker hypothesis gained.”
+
+Not “formalization failed.”
+
+“Requires an assumption stronger than the Clay initial-data class at this exact dependency.”
+
+A good graveyard contains proofs of death.
+
+Some graves will later reopen. A route that fails in one formulation may become useful after a new decomposition. An inequality false universally may hold in the dynamically accessible subset of flows. A supercritical quantity may become controllable when paired with geometry. Negative knowledge should therefore record scope with the same care as positive knowledge.
+
+This is another reason the phrase *near miss* is better than *failure*.
+
+A dead global proof can contain a living lemma. A failed blowup construction can reveal a stability mechanism. An endpoint obstruction can identify the exact scale at which a new idea is required. A formalization that does not close the theorem can expose a hidden equivalence nobody had bothered to state.
+
+The Riemann episode with Claude is an unusually clean contemporary example outside fluids. The famous target resisted. An adjacent mathematical result survived. The research value was not proportional to the headline value.
+
+Navier–Stokes may produce years of that kind of wreckage before it produces a resolution.
+
+That would not make the project unsuccessful.
+
+If the machine-readable atlas becomes richer, if the catastrophe specification narrows, if dead routes stop being rediscovered, if PDE formal libraries become reusable, if numerical candidates become easier to convert into rigorous obligations, then the institution has reduced the entropy of the problem.
+
+The remaining unknown may still be one impossible lemma.
+
+But one impossible lemma is a better scientific object than an undifferentiated famous mystery.
+
+That is what ninety years bought us.
+
+The AI era should not start by pretending the field has been waiting idle.
+
+It should start by cashing the accumulated constraints.
