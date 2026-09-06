@@ -14,7 +14,7 @@ A wound at one end of a fragment and a wound at the other can contain many of th
 
 Somewhere in the distributed state of the tissue, position matters.
 
-Research in planarians has shown that muscle cells do more than contract. They express positional control genes that help provide location-dependent information during regeneration. Other work has implicated biochemical and bioelectric signaling in the larger control of pattern. The details are active science, and the word “memory” can become dangerously loose here. Still, one fact is hard to avoid: rebuilding requires the current fragment to contain enough information about itself to produce different structures in different places.
+Research in planarians has shown that muscle cells do more than contract. They express positional control genes that help provide location-dependent information during regeneration. Distinct muscle fiber populations can have different instructive roles in establishing axes and organizing repair. Other work has implicated biochemical and bioelectric signaling in the larger control of pattern. The details are active science, and the word “memory” can become dangerously loose here. Still, one fact is hard to avoid: rebuilding requires the current fragment to contain enough information about itself to produce different structures in different places.
 
 The genome is necessary but not sufficient as an explanation at the scale we care about.
 
@@ -23,6 +23,42 @@ Nearly every cell in the animal carries essentially the same genome. DNA specifi
 The body is not reading a blueprint.
 
 It is running a conversation.
+
+The blueprint metaphor fails for another reason.
+
+A blueprint is static. Regeneration is conditional.
+
+The fragment that remains after injury is not a miniature untouched worm. It has new boundaries, altered proportions, wounds, missing organs, and cells that suddenly occupy positions they did not occupy before. The repair process therefore cannot be understood as merely continuing a prewritten sequence from the beginning. The organism has to respond to the particular damage it has suffered.
+
+That is where regeneration becomes relevant to this book.
+
+The interesting property is not growth. Tumors grow. Crystals grow. A scar grows into a wound. The interesting property is selective correction: different perturbations recruit different responses that tend to restore viable organization.
+
+This makes regeneration a better test of goal-like control than ordinary development. During development, a successful adult form could always be described as the only trajectory the system knows how to follow. Damage interrupts the trajectory. Remove different parts and the system must do different things.
+
+A headless fragment and a tailless fragment begin from different errors.
+
+They do not correct them with the same anatomy.
+
+The word *error* sounds as though somebody has compared the fragment with a picture of a normal worm. Nobody needs to have done so. Control theory gives us a less theatrical way to use the term. An error can be a measurable departure from a regulated state whose consequences feed back into the dynamics. A thermostat does not feel that a room is wrong at sixteen degrees. Its circuitry nevertheless responds to the difference between a measured state and a reference relation.
+
+Living pattern regulation is vastly more complicated, and the reference may be distributed rather than stored as one explicit variable. But the experimental logic can be similar.
+
+Perturb the form.
+
+Observe whether the response depends on the perturbation.
+
+Interfere with candidate signaling pathways.
+
+See whether the resulting anatomy changes in a specific way.
+
+Ask whether the system merely grows or actually corrects.
+
+Research on planarian head and organ scaling makes this distinction tangible. Manipulating membrane-voltage-related signaling can alter regenerated proportions rather than simply switching regeneration off. That matters because it separates the capacity to make tissue from the capacity to organize tissue at the right scale.
+
+A pile of replacement cells is not a repaired animal.
+
+Geometry is part of the function.
 
 That conversation becomes more provocative when behavior enters the story.
 
@@ -39,6 +75,18 @@ Where was that information?
 The experiment did not settle the question.
 
 It could involve persistent changes outside the brain, information in remaining nervous tissue, epigenetic or biochemical state, changes that influence how the regenerated brain is wired, or mechanisms not captured by those simple descriptions. Reproduction and interpretation matter. A dramatic claim about memory storage requires more than one intriguing paradigm.
+
+There is a broader methodological lesson in the uncertainty.
+
+A memory can be demonstrated behaviorally before its storage mechanism is known, but the uncertainty about mechanism should shrink the claim, not inflate it.
+
+What the experiment supports is a relationship between prior training and later relearning after regeneration. It does not by itself identify a molecule carrying the memory, prove that the original learned content was stored intact outside the brain, or show that all planarian memories survive regeneration.
+
+The difference between those statements is the difference between evidence and mythology.
+
+Science about unfamiliar cognition is unusually vulnerable to mythology because the result itself is so narratively attractive. A worm losing its head and keeping a memory sounds like a parable about the mind escaping the brain. The actual experiment is not a parable. It is a bounded observation with competing mechanisms.
+
+That is enough.
 
 But notice what scientific caution leaves intact.
 
@@ -63,6 +111,22 @@ After exposure to a pathogen or a vaccine, populations of B cells, T cells, plas
 We call this immunological memory without embarrassment.
 
 Nobody assumes that a memory B cell remembers being sick in the way a person remembers lying in bed. The term survives because it describes a functional relationship between past and future supported by physical state.
+
+The storage is also distributed.
+
+There is no single immune-memory vault. Different cell populations, antibody-producing cells, receptors, tissues, and signaling relationships contribute to a future response. The remembered fact is not represented as a sentence saying “this pathogen was here before.” It is embodied in changed populations and changed readiness.
+
+That difference matters because it breaks the intuition that memory needs one address.
+
+Computer metaphors trained us to ask where information is stored. Sometimes that is the right question. A file has an address. A memory register occupies physical hardware. A book sits on a shelf.
+
+Living systems often make the answer relational.
+
+A tissue’s state can depend on the distribution of cell types, molecular gradients, electrical connectivity, mechanical tension, and gene-expression states. Remove any one description and you may still not have located the “memory,” because the useful information exists in how several variables constrain one another.
+
+The same is true in ordinary human physiology. Muscle adaptation after training is not one memory object. Endocrine history can alter later responses without entering consciousness. The immune system can preserve consequences of exposure while the person has no episodic recollection of the event that created them.
+
+The body carries more past than the mind can report.
 
 This should teach us something about our vocabulary.
 
@@ -123,6 +187,24 @@ This is not proof of a mind distributed through flesh.
 It is evidence that control can be distributed through flesh.
 
 That distinction is the backbone of non-sapient intellect.
+
+There is a useful objection here.
+
+Perhaps “distributed control” is doing all the explanatory work, and “intellect” adds nothing.
+
+A developmental biologist can describe patterning with gradients, positional control genes, signaling pathways, voltage states, and mechanics. An immunologist can describe memory-cell populations. A control theorist can describe feedback. Why gather them beneath a new term?
+
+The objection should remain alive through the book because it forces the category to earn itself.
+
+The answer cannot be that the systems feel intelligent.
+
+It has to be that comparing them reveals a recurring architecture of evidence: stored state, perturbation-dependent correction, causal information pathways, multiple scales of coordination, and performance that cannot be read from the present input alone.
+
+If that architecture does not survive detailed comparison, the umbrella term should go away.
+
+If it does survive, then the comparison becomes useful precisely when we leave the familiar organisms behind.
+
+On another world, we may not know which structure is a nerve, whether a fluid is blood, whether heredity uses nucleic acids, or whether anatomy is organized into discrete organisms at all. A vocabulary tied too tightly to Earth’s parts can fail before a vocabulary tied to experimentally observable relationships does.
 
 The claim does not become stronger by making the system sound more human. It becomes stronger by showing exactly what the system can do without humanity hidden inside the explanation.
 
