@@ -291,3 +291,23 @@ The same network effect that makes a region valuable to the next data center can
 Economics pulls activity together.
 
 Physics eventually sends the bill.
+
+And once that bill becomes large enough, scarcity starts rewriting the cluster itself.
+
+The next important unit of competition may no longer be the individual site. It may be the **portfolio of regions** a hyperscaler can move among. A company with viable expansion options in Virginia, Texas, the Midwest, and the Mountain West can treat electrical scarcity differently from a developer whose business depends on one metropolitan market. It can shift the next campus before construction begins, even when the servers already operating in Virginia cannot move physically at all.
+
+That distinction matters for policymakers tempted to think every announced project must be won locally. A jurisdiction can offer tax incentives and streamlined permits and still lose the project because a transformer delivery date or transmission constraint dominates the economics. Conversely, a region with modest incentives but credible power delivery can become more attractive as electricity moves from a background input to a gating resource.
+
+This creates a new form of competition among grids. Utilities are not merely competing on cents per kilowatt-hour. They are competing on the credibility of a **power-delivery schedule**. Can the substation be energized when promised? Can generation be added without creating unacceptable reliability risk? Can a customer expand in phases? Can the utility distinguish a real expansion plan from a speculative reservation quickly enough that serious projects are not trapped behind unserious ones?
+
+Those questions turn reliability administration into economic development.
+
+They also create a healthy constraint on subsidy races. A tax abatement can change a spreadsheet. It cannot create thermal capacity on a transmission corridor. Political enthusiasm cannot accelerate a large transformer that has not been ordered. The harder electricity becomes to obtain, the more site selection is forced back toward measurable infrastructure rather than promotional promises.
+
+Northern Virginia therefore offers a second lesson beyond the dangers of concentration. Mature clusters eventually reveal which advantages are truly self-reinforcing and which were borrowed from spare infrastructure. Fiber density can compound. Skilled contractors can compound. Customer proximity can compound. Electrical headroom does not compound by itself. It has to be rebuilt.
+
+That is the moment a successful digital cluster becomes an infrastructure project.
+
+The cloud may still look weightless from the browser.
+
+Its next region is being chosen by steel, rights-of-way, substations, and time.
