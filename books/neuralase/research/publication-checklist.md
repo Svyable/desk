@@ -50,7 +50,7 @@ The author asked to continue toward publication on 2026-09-06. This authorizes f
 
 ## Gate 5 — Freeze and release transaction
 
-- [ ] Freeze a named Desk commit/ref for the first-edition candidate after this publication-prep change lands.
+- [x] Freeze the first-edition candidate under the named Desk ref `release/neuralase-first-edition-2026-09-06`.
 - [ ] Run `python3 scripts/check-book-length.py neuralase` on that frozen source and record the result.
 - [ ] Only after a passing result, prepare the Shelf snapshot using the same semantics as `scripts/release-book.sh neuralase ../shelf`.
 - [ ] Copy the committed Desk book snapshot to Shelf with byte-identical publication files except for the intended Shelf book-README status transformation to `Published` and Shelf catalog/discovery updates.
@@ -60,4 +60,4 @@ The author asked to continue toward publication on 2026-09-06. This authorizes f
 
 ## Release rule
 
-Publish only from a named frozen Desk commit that passes `python3 scripts/check-book-length.py neuralase`. Do not create an unmerged public Shelf proof branch merely to stage the manuscript before that gate is closed. Once released, Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.
+Publish only from the named frozen Desk ref `release/neuralase-first-edition-2026-09-06` after it passes `python3 scripts/check-book-length.py neuralase`. Do not create an unmerged public Shelf proof branch merely to stage the manuscript before that gate is closed. Once released, Shelf is the frozen public edition; later manuscript changes belong on Desk and require a new release transaction unless the author explicitly requests a live public hotfix.
