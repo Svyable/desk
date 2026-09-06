@@ -355,3 +355,115 @@ Not every year will be healthy.
 That was never a realistic promise.
 
 The humane goal is to make fewer years unusable simply because the world was designed for a body that never changes.
+
+There is one more reason the budget metaphor matters: budgets are about allocation under uncertainty, not only abundance.
+
+People tend to imagine healthspan as a stock they either possess or lose. The more difficult reality is that capacity can be conserved, spent, substituted, or protected differently depending on the structure around a person. A job with control over hours may consume less of the same body than a job with mandatory overtime. A neighborhood with nearby shops may require less driving. A home with a bedroom on the entry level may make one limitation less consequential. A family with enough money to purchase respite care may preserve both the caregiver’s health and the recipient’s independence longer.
+
+The same diagnosis can therefore create different amounts of usable life.
+
+This is where inequality enters healthspan before medicine does.
+
+Money can buy lower stairs, shorter commutes, better food, safer neighborhoods, physical therapy, dental care, hearing devices, time away from work, help with cleaning, taxis after driving becomes difficult, and paid assistance when a relative needs care. None of these purchases guarantees health. Together they change how much capacity must be spent to accomplish ordinary life.
+
+The wealthy can sometimes make the environment meet the body halfway.
+
+The poor are more often required to make the body meet the environment.
+
+That difference is easy to miss in a debate focused on biological aging because it does not appear in a laboratory pathway. It appears in the distance to the bus stop, the height of a bathtub edge, the number of paid sick days, the presence of an elevator, the possibility of moving to a less demanding job without losing insurance, and whether somebody else can cover a Tuesday afternoon appointment.
+
+These are not side issues to longevity.
+
+They determine how many years remain practically available.
+
+The concept of reserve helps here. A person may have enough physical or cognitive margin that a small decline changes nothing visible. Another may be operating close to the minimum demands of work and home already. The same loss of strength, hearing, balance, attention, or income can be absorbed by the first and destabilize the second.
+
+This is why average health improvements can coexist with persistent vulnerability. A population can become healthier while a subgroup remains one fall, one caregiving crisis, or one lost job away from losing independence. A national healthspan statistic cannot tell us how much margin people have between their capacity and the demands placed on them.
+
+That margin may be the most important uncounted variable in a long life.
+
+It also complicates the idea that technology will simply solve age-related limitations. Technology can lower demands dramatically. It can also create new ones. A telehealth visit removes travel and requires a device, connectivity, hearing, vision, account access, and comfort with an interface. A digital banking system removes a trip to a branch and creates dependence on passwords, fraud detection, and device security. Automated work can reduce lifting while increasing the cognitive burden of monitoring software or adapting to changing systems.
+
+Tools redistribute capacity requirements.
+
+They do not always reduce them.
+
+That is why good long-life design has to watch where the burden moves. A system that solves mobility by requiring digital fluency may widen access for one person and narrow it for another. A hearing aid that works beautifully but cannot be afforded is a theoretical extension of healthspan, not a practical one. A flexible job that exists only for workers with advanced credentials does little for the people whose bodies most need flexibility.
+
+The future can be more accessible overall and still leave new cliffs.
+
+This is also why “successful aging” can become an unfair phrase when it is allowed to imply that the person is responsible for the whole outcome. Exercise, sleep, vaccination, blood-pressure control, smoking cessation, nutrition, and preventive care can matter enormously. So can genetics, pollution, violence, occupational exposure, income, stress, access to treatment, disability, and chance.
+
+A culture that celebrates seventy-five-year-old marathon runners without qualification can motivate some people and quietly accuse others.
+
+The marathon is not the moral standard.
+
+Agency is a better one.
+
+Agency can include running a marathon. It can also include choosing one’s own clothes with assistance, staying in a familiar neighborhood, understanding a medical decision, continuing to make art with limited mobility, or having enough income to refuse work that has become damaging.
+
+Once healthspan is understood this way, the policy goal changes. It is no longer simply to move an average line to the right. It is to reduce the number of avoidable ways that declining capacity becomes exclusion.
+
+Some of that work is medical. Better prevention and treatment can postpone disease, reduce symptoms, restore function, and extend survival. Some of it is social insurance. Some of it is workplace redesign. Some is architecture. Some is transportation. Some is caregiving policy. Some is consumer protection for people whose cognitive or financial vulnerability increases. Some is ordinary courtesy designed into systems rather than left to personal generosity.
+
+The point is not that every institution becomes a health institution.
+
+It is that every institution consumes or preserves capacity.
+
+A form with tiny type consumes vision.
+
+A benefits process with six offices consumes executive function and time.
+
+A workplace without seating consumes physical endurance.
+
+A neighborhood without a safe crossing consumes mobility.
+
+A family policy that assumes unpaid care consumes the caregiver.
+
+When a society becomes older, these hidden demands stop being edge cases. More people encounter them, for longer.
+
+That can improve design for everyone. Curb cuts are the familiar example of an accommodation whose usefulness travels far beyond the group that first justified it. Captions help in noisy rooms. Flexible schedules help parents, caregivers, people with chronic illness, and workers managing ordinary life. Clearer forms help nearly everybody. A bench serves an older walker and a pregnant one. A less physically punishing warehouse helps the fifty-year-old and the twenty-five-year-old.
+
+Longevity can therefore make accessibility less specialized.
+
+The older population becomes large enough that designing for changing capacity stops looking like a niche obligation and starts looking like competent infrastructure.
+
+There is still a limit to what design can do.
+
+A handrail does not cure Parkinson’s disease. Better lighting does not reverse dementia. A flexible schedule does not eliminate severe pain. A good transit system cannot make every person independent. Some decline will require intimate care, medical treatment, financial support, and eventually decisions that no amount of environmental adaptation makes easy.
+
+The argument for design is not a denial of biology.
+
+It is a refusal to make biology do all the explanatory work.
+
+That distinction protects the book from two opposite fantasies. The first is biomedical triumphalism: science will extend healthy life so dramatically that social systems merely need to prepare for more vigorous older adults. The second is demographic fatalism: aging inevitably means dependency, so the only serious questions are how to finance pensions and care.
+
+Both are too narrow.
+
+The likely future contains vigorous people, disabled people, people with chronic conditions, people who recover, people whose capacity changes slowly, and people whose health changes overnight. It contains improvements in medicine and persistent inequality. It contains new assistive technologies and old buildings. It contains families with time and families without it.
+
+The system has to work across that range.
+
+This is why a long-life plan should be tested against more than the optimistic self. Imagine the version of the future in which health remains excellent. Then imagine the one in which a meaningful limitation arrives ten years earlier than expected. The difference between a resilient plan and a brittle one is not whether the bad future can be prevented. It is how much of life remains intact if it arrives.
+
+Can work change shape without income disappearing?
+
+Can the home remain usable?
+
+Can transportation survive the loss of driving?
+
+Can a spouse receive care without the other spouse becoming financially or physically destroyed?
+
+Can a person accept help without losing control over every other decision?
+
+Can the plan absorb years of partial capacity rather than only “healthy” and “disabled” states?
+
+These are healthspan questions even when no clinician is present.
+
+The answers determine whether the longer future feels like additional life or additional exposure.
+
+A society that learns to preserve agency under partial capacity may end up caring less about the exact boundary between healthy life and unhealthy life. That would be progress. The measure would remain useful for epidemiology and planning. It would become less tyrannical as a definition of what a worthwhile year is supposed to look like.
+
+The aim is not to maximize the count of perfect years.
+
+It is to make more imperfect years livable on their own terms.
