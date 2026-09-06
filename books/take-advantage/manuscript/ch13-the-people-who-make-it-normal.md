@@ -320,6 +320,98 @@ A society gets cheaper at living with a technology.
 
 The cost is paid in embarrassment, confusion, conflict and etiquette work before anybody calls it infrastructure.
 
+This social learning has a measurable commercial consequence even when nobody can price the etiquette directly.
+
+The first buyer of an unfamiliar product often carries explanation cost. She has to justify the purchase to a spouse, boss, colleague, customer or board. She has to answer questions the manufacturer did not answer. She has to explain what the thing is before explaining why it matters.
+
+Later buyers inherit vocabulary.
+
+The category acquires reviews, comparison criteria, norms and familiar reference points. A person buying a smartphone in 2007 had to decide what kind of device a smartphone was. A person buying one years later could compare battery life, camera quality and price because the category had already stabilized enough to make those dimensions meaningful.
+
+Normality reduces cognitive transaction costs.
+
+That reduction matters because most people do not want to conduct a philosophy seminar before every purchase.
+
+They want to know which option is dependable.
+
+The early adopter’s public awkwardness helps create the shorthand that makes later decisions cheaper.
+
+This is one reason category leaders sometimes lose even after doing valuable cultural work. A pioneering product teaches the public how to evaluate the category. Competitors arrive after the expensive explanatory period and compete on dimensions the pioneer helped establish.
+
+The pioneer paid for vocabulary.
+
+The market keeps the vocabulary.
+
+The same thing can happen to early users.
+
+They invest in teaching friends or coworkers what a capability is. Once the capability is normal, their explanatory advantage disappears. The social capital they earned by knowing the strange thing first gets competed away.
+
+What remains is competence, if they actually built any.
+
+That distinction separates status from durable advantage.
+
+A person who merely knew the name early loses the advantage quickly.
+
+A person who learned the underlying workflow, failure modes and judgment keeps something longer.
+
+This is why the healthiest path through social normalization is to convert attention into practice before attention becomes common.
+
+There is another social mechanism early adopters create: permission for error.
+
+When a technology is unfamiliar, every visible failure can look categorical. The first autonomous system makes a bad decision and observers conclude autonomous systems cannot work. The first virtual meeting freezes and the room concludes remote meetings are unserious. The first electric vehicle runs out of charge and critics treat the incident as proof of the drivetrain rather than one user’s planning problem.
+
+A mature technology receives more forgiving attribution.
+
+A gasoline car breaks down and nobody concludes internal combustion is impossible. An email goes missing and nobody declares digital messaging invalid. A spreadsheet contains an error and the category survives.
+
+Normality changes the denominator.
+
+Enough successful use exists that a failure becomes one failure rather than a referendum on the technology.
+
+Early adopters help create that denominator.
+
+They accumulate mundane success.
+
+This may be one of the least celebrated contributions to diffusion. The hundredth uneventful use can matter more than the first spectacular demonstration because it teaches society that the technology does not require a story every time.
+
+Reliability becomes boring in public before it becomes assumed in private.
+
+The opposite is also true. Early adopters can spend credibility.
+
+If enthusiasts overstate capability, hide failures or behave irresponsibly, they make later adopters pay a trust tax. The market has to overcome the reputation created by its own pioneers.
+
+This is another reason hype is not free.
+
+A false promise can recruit an early cohort and still make mainstream adoption harder if the cohort leaves behind disappointment.
+
+The social ledger remembers.
+
+Companies sometimes attempt to solve this by renaming categories after failed waves. The underlying capability returns under different language because the old language accumulated too much skepticism. The engineering may have improved, but the vocabulary itself carries debt.
+
+Early adopters participate in creating that debt when they treat every prototype as proof of a finished future.
+
+A more useful norm is provisional enthusiasm.
+
+This works; here is where it fails.
+
+This is promising; here is what would make me stop.
+
+This changed my work; it may not change yours.
+
+Such statements sound less viral than inevitability. They are better infrastructure for trust.
+
+A mature adoption culture does not require skepticism to disappear. It requires skepticism to become specific.
+
+Instead of “AI is fake” or “AI changes everything,” people ask which tasks, under which controls, at what cost, with what verification.
+
+Instead of “electric cars do not work,” they ask about charging access, winter range, towing, depreciation and repair.
+
+Specific criticism is a sign that a category has become legible enough to argue about precisely.
+
+That is progress.
+
+It means society has moved beyond judging the technology as a single object.
+
 The early adopter can gain from this process if she learns faster than the norm stabilizes.
 
 She becomes the person others ask.
