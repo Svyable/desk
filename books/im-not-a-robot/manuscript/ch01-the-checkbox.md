@@ -106,6 +106,82 @@ That arrangement has become ordinary far beyond CAPTCHA. Credit systems decide w
 
 The system does not know you the way your friend knows you. It does not need to. It needs a useful classification.
 
+That distinction carries a design obligation that the tiny checkbox hides.
+
+Every classifier has an error budget.
+
+Some bots will pass.
+
+Some people will fail.
+
+Those failures are not symmetrical from the point of view of the person at the door. A bot that slips through may impose cost on the site. A legitimate user who is repeatedly rejected experiences the system as a gate that has turned a statistical judgment into a practical fact.
+
+Try again.
+
+Use another browser.
+
+Disable the privacy tool.
+
+Prove more.
+
+The security problem has become the user’s biography for a few minutes.
+
+This matters because “human” in an operational system is never simply a natural category waiting to be discovered. It is partly a policy threshold. How much uncertainty will the service tolerate? How much friction will it impose? Which failure is more expensive? What alternate path exists for somebody the model cannot classify confidently?
+
+The checkbox looks binary because interfaces like binaries.
+
+The decision behind it is often probabilistic.
+
+That difference is the beginning of governance.
+
+A good gate does not merely have a clever detector. It has proportional friction, recovery when the detector is wrong, and enough humility not to treat a failed classification as a verdict about the person.
+
+This will become more important as automated agents perform legitimate work for people. The future visitor to a website may be software and still be authorized by a human. An agent may compare prices, schedule an appointment, file a form, negotiate a subscription, or purchase a ticket within limits a person set earlier.
+
+Is that a bot?
+
+Operationally, yes.
+
+Illegitimate?
+
+Not necessarily.
+
+The old human-versus-bot distinction starts to break from the other direction. A biological finger is no longer the only sign of legitimate human agency. What matters may be authorization, rate, purpose, disclosure, and accountability rather than whether a person personally moved the cursor.
+
+The website can therefore ask the wrong question even while using the familiar phrase.
+
+Are you human?
+
+The better question might be: is this action legitimately authorized, and by whom?
+
+That is less poetic.
+
+It is more useful.
+
+It also shows why security categories should not be promoted into theories of personhood. The operational problem itself evolves. At one moment the threat is automated form filling. At another it is stolen credentials. Later it may be autonomous software acting either abusively or entirely legitimately for a person.
+
+The same checkbox cannot carry all of those distinctions forever.
+
+A mature system will separate claims.
+
+Is a human present now?
+
+Is a human behind this agent?
+
+Was this action authorized?
+
+Is the rate abusive?
+
+Does this account have permission?
+
+Can the action be reversed?
+
+Those are different facts.
+
+Collapsing them into “human” produces unnecessary surveillance because the system begins collecting broad evidence of personhood to solve a narrower problem of authorization.
+
+The smallest useful proof is usually the better proof.
+
 This difference will matter later in the book when we get to the versions of ourselves other people and institutions use. For now, stay with the checkbox.
 
 There is a temptation to tell the CAPTCHA story as a parable of machine ascent. Humans used to be able to read things computers could not. Then computers caught up. Humans used to recognize visual scenes more reliably. Then machine vision improved. Eventually the tests had to rely on subtler signals. The machine advances. The human frontier shrinks.
