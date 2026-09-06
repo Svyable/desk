@@ -88,8 +88,58 @@ The alliance also changes the meaning of Saratoga. In a battlefield-centered his
 
 That is what a hinge looks like when the hinge crosses an ocean.
 
+The wider war deserves one more look because it explains what “international” really meant.
+
+France's entry did not merely add French units to an American order of battle. It forced Britain to rank interests that had previously been handled inside a more concentrated war. The British Empire was a commercial and territorial system. Its Caribbean sugar colonies were enormously valuable. Sea lanes mattered. Gibraltar mattered. India mattered. The home islands mattered. Once France, Spain, and eventually the Dutch Republic were in conflict with Britain, North America became one theater among several.
+
+That altered British decision-making even when no French soldier was present beside an American one.
+
+Spain's role illustrates the point. Spain did not sign the American alliance and had its own reasons to fear republican rebellion inside empires. It entered the war against Britain in 1779 because the European balance and its own territorial objectives made the conflict useful. Spanish forces under Bernardo de Gálvez attacked British positions along the Gulf Coast and lower Mississippi and later captured Pensacola. Those campaigns were not sentimental assistance to American liberty. They nevertheless complicated Britain's southern and western position.
+
+The Dutch entry did something similar at a different scale. Britain went to war with the Dutch Republic in 1780 amid disputes involving trade, neutrality, and support flowing toward Britain's enemies. Again, the result was not a tidy coalition assembled around the Declaration of Independence. It was a widening European struggle in which the American rebellion benefited from Britain's multiplying obligations.
+
+This is why the phrase “foreign assistance” can be misleadingly small.
+
+Assistance sounds as though an outside actor chose to help an American project while remaining outside the project. What happened after 1778 was larger. The strategic environment itself changed. Britain had to ask not merely how to defeat Washington but how to allocate naval and military power across an empire while facing other great powers.
+
+The Americans' advantage was partly the benefit of becoming one front in somebody else's war.
+
+That fact should not be embarrassing. It should make the founding more realistic.
+
+Small and newly declared states often survive by finding larger states whose interests temporarily align with theirs. Diplomacy is one of the technologies of survival. The founders understood this well enough to put the power to contract alliances into the Declaration's final claim of sovereignty.
+
+The later United States would repeatedly relearn the same lesson from the opposite position.
+
+In the twentieth century, American leaders would build alliances in Europe and Asia not because allies shared every interest or political habit but because coalitions changed the strategic arithmetic facing rivals. Bases, intelligence, finance, logistics, interoperability, markets, and diplomatic recognition can matter as much as battlefield valor.
+
+The founding alliance is an early American case of that logic.
+
+It also complicates the peace.
+
+By 1782, after Yorktown had transformed British politics and the prospects for continued war, American diplomats had to negotiate an independence settlement inside an alliance whose members did not have identical objectives. France had commitments to Spain. Spain had territorial goals, including interests along the Mississippi and a desire to recover Gibraltar. American claims to western land and navigation could conflict with other powers' preferences.
+
+The American commissioners ultimately negotiated preliminary peace terms directly with Britain rather than perfectly following the consultation expectations of the French alliance. France did not become an enemy as a result, but the episode revealed what had always been true: the partnership was based on overlapping interests, not merged sovereignty.
+
+That is the full life cycle of the hinge.
+
+First the United States needed another power badly enough to make an alliance.
+
+Then it needed enough independence to disagree with that ally about peace.
+
+The diplomatic achievement was not merely obtaining help. It was using help without becoming a client state permanently bound to another government's goals.
+
+That balance was difficult because the United States began the relationship from weakness. It needed money it could not easily raise, military supplies it could not reliably manufacture, naval capacity it did not possess, and recognition it could not award itself.
+
+Dependence is most politically uncomfortable when it is also strategically necessary.
+
+The later memory of self-reliance smooths over that discomfort. But the dependence is analytically useful because it reminds us that sovereignty is not the same as autonomy in every domain. A state can be politically independent and materially dependent on foreign credit, weapons, shipping, technology, markets, or allies.
+
+The newborn United States was sovereign in aspiration before it was self-sufficient in capability.
+
+France helped close part of that gap.
+
 The Revolution's best-known sentence begins with truths held to be self-evident. The survival of the polity that wrote it was not self-evident at all.
 
-In 1778, the war acquired a new balance of risk. Britain could no longer decide how much force to devote to America without asking what France might do elsewhere. The United States acquired recognition, commerce, material support, and eventually the naval partner it lacked. The conflict expanded, and expansion made British victory harder.
+In 1778, the war acquired a new balance of risk. Britain could no longer decide how much force to devote to America without asking what France might do elsewhere. The United States acquired recognition, commerce, material support, and eventually the naval partner it lacked. Spain and the Dutch Republic widened the conflict further for their own reasons. The rebellion became one theater in a global contest, and that expansion made British victory harder.
 
 A country that would later tell itself a story about standing alone survived its founding war in part because it did not.
