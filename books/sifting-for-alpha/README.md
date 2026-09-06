@@ -65,6 +65,7 @@ The manuscript deliberately distinguishes verified contest results, public platf
 ## Research
 
 - [Research brief, provenance, and fact-check queue](research/README.md)
+- [September 6 Q25 thirty-strategy audit](research/q25-2026-09-06-thirty-strategy-audit.md)
 - [Source ledger](research/source-ledger.csv)
 
 ## Rights
