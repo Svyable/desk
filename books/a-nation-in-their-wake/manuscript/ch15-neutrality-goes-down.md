@@ -279,3 +279,9 @@ The liner sank quickly.
 The political consequences accumulated slowly enough to be misremembered as instant.
 
 <!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
+
+The final selection test is memory. Americans remember *Lusitania* partly because a passenger liner gives the civilian cost of maritime strategy a name. Blockade statistics and submarine tonnage can become abstractions. A ship manifest restores particular lives, destinations, and families to the calculation.
+
+That mnemonic power has strategic consequences of its own. Democracies fight through public interpretation as well as military capability. A policy that repeatedly generates memorable civilian losses can change what neutral publics believe about the belligerent using it. The U-boat did not only attack shipping capacity. It attacked the political sustainability of German strategy among people Germany still needed to remain outside the war.
+
+<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->

@@ -329,3 +329,11 @@ The distinction matters whenever governments use force to signal resolve. A sign
 Otherwise the state may be paying real costs to reassure itself.
 
 <!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
+
+The incident also shows why endings are strategically dangerous. Institutions want a war to conclude at a recognizable moment, but adversaries, allies, crews, bases, intelligence networks, and political habits do not reset when a capital falls. The fall of Saigon ended one political order. It did not erase American forces from the region or American expectations about protecting citizens and shipping.
+
+*Mayaguez* arrived in that gap between formal ending and institutional afterlife.
+
+The lesson is broader than Southeast Asia. A state leaving a conflict needs an explicit theory for which commitments survive the exit. Otherwise the next small crisis can reactivate the old war's fears without the old war's strategy.
+
+<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->

@@ -349,3 +349,13 @@ None of that ceremony should obscure the operational requirement underneath it. 
 A successful system is responsible for the last mile even when the first 477,000 miles capture the imagination.
 
 <!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
+
+There is a final institutional elegance in the recovery. The Navy did not need the public to understand every layer for the layers to work. Sailors, swimmers, meteorologists, aviators, doctors, communications specialists, engineers, and NASA managers operated inside different professional languages while sharing one deadline: place three astronauts and one spacecraft safely inside the recovery system.
+
+That is coordination at its most mature. Success does not require one genius to understand the entire machine. It requires interfaces clear enough that specialists can trust the next specialist.
+
+Apollo's most famous photograph shows one human alone on another world. The recovery reveals the opposite truth.
+
+He came home through a crowd.
+
+<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->

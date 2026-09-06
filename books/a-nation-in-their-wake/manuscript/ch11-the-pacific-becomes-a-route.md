@@ -257,3 +257,9 @@ America wanted the route.
 It argued over the people who made the route a human one.
 
 <!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
+
+One last consequence of regular steamship traffic was demographic memory. A route creates communities at both ends. Letters, remittances, employers, family ties, and return voyages make later migration easier because the next traveler does not begin with the same uncertainty as the first. Restrictionists understood this intuitively even when they described immigration only as a current labor problem. They were trying to shape the future population by controlling the network in the present.
+
+That is why the liner is more than a carrier. Repetition turns movement into relationship. Once the relationship exists, exclusion requires a permanent administrative effort to interrupt something the transport economy continually makes easier.
+
+<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->

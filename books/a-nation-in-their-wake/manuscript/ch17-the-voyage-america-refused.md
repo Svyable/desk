@@ -309,3 +309,11 @@ The chapter earns its force by resisting both shortcuts. The United States did n
 History is often judged at that scale.
 
 <!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
+
+The voyage also exposes how much a country's reputation depends on decisions that look small compared with later wartime mobilization. The United States would soon spend sums and organize capacities almost beyond 1939 imagination. That contrast makes the refugee refusal harder, not because wartime resources were available in advance, but because it proves political systems can redefine what is administratively possible when priorities change.
+
+Capacity is partly hardware and money. It is also permission.
+
+The passengers aboard *St. Louis* encountered a powerful country whose rules defined their emergency as insufficient reason to alter the queue. The failure was not that America lacked a coastline large enough to receive them. It was that the political system did not convert danger into authority to act.
+
+<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->

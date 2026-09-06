@@ -359,3 +359,13 @@ Security therefore becomes risk management rather than absolute exclusion.
 How much openness can a system preserve while treating ordinary contact as a potential attack surface?
 
 <!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
+
+The ship's return to service is an important coda because it separates resilience from invulnerability. A resilient system is not one that cannot be hurt. It is one that can absorb damage, preserve life and function where possible, learn, repair, and return without pretending the vulnerability never existed.
+
+That is a more demanding standard than deterrence rhetoric often allows. Global power will always create contact points. The objective is not to eliminate contact. It is to understand which contacts can become catastrophic, build layers around them, and train people for the moment the layers fail anyway.
+
+*Cole* survived the blast.
+
+The harder task was making the institution remember why.
+
+<!-- PUB-AUGMENT-ROUND3-2026-09-06 -->
