@@ -208,9 +208,193 @@ The question is what it does with the inherited platform.
 
 Amazon turned public and private infrastructure into a new layer of private infrastructure.
 
-The strongest competitor for the 2010s is Apple.
+## Prime Changed the Unit of Competition
 
-The iPhone and App Store arguably changed everyday American life more visibly. Apple made the smartphone the central personal computer and reorganized software, media, photography, maps, payments, and communication around a device in the pocket.
+Before a membership program, each online order can feel like a separate decision.
+
+The customer evaluates the product, the price, the shipping charge, the delivery estimate, and whether buying now is worth the inconvenience. Prime changed the decision by moving part of the shipping cost into an earlier annual commitment.
+
+That altered behavior because sunk payments feel different from fresh payments.
+
+Once the membership existed, placing another order could feel incrementally free even when the household had already paid for the privilege. Amazon had changed the unit of competition from the transaction to the relationship.
+
+This is one of the most important shifts in modern consumer business.
+
+A transaction business has to win the customer every time.
+
+A subscription business tries to win the right to be considered first.
+
+The membership can then reduce comparison shopping because the customer begins from inside an ecosystem where delivery, payment details, purchase history, returns, and media benefits already work.
+
+Prime did not eliminate price sensitivity. It changed the friction surrounding it.
+
+The strategic prize was habit.
+
+Habit produces demand that is more predictable than isolated purchases. Predictable demand justifies more fulfillment infrastructure. Better infrastructure makes membership more valuable. The membership attracts more orders. The order volume improves the economics of the network.
+
+This is why Prime was not merely a loyalty program.
+
+It was a financing and demand-shaping mechanism for logistics scale.
+
+The customer paid for the privilege of becoming more likely to use the system.
+
+## Marketplace Turned Competitors Into Assortment
+
+Traditional retailers choose inventory, buy it, own it, and accept the risk that it will not sell.
+
+Marketplace changed that architecture.
+
+Third-party sellers could add selection without Amazon purchasing every unit. The retailer’s shelves became partly virtual, and the capital required to stock them could sit on somebody else’s balance sheet.
+
+This produced an extraordinary expansion in assortment.
+
+It also blurred the identity of the retailer.
+
+When a shopper buys through a marketplace, which company made the product? Which company sold it? Which company stored it? Which company delivered it? Which company handled the payment, ranking, return, or complaint?
+
+Amazon could occupy several of these roles simultaneously without occupying all of them.
+
+That is infrastructure power.
+
+The platform becomes the common layer through which heterogeneous businesses appear coherent to the customer.
+
+For sellers, the bargain could be transformative. A small manufacturer could reach millions of shoppers without building national retail distribution. A merchant could outsource fulfillment and gain the delivery promise associated with Prime.
+
+But the seller’s success could deepen dependence on the platform.
+
+Reviews, ranking, advertising, fulfillment eligibility, account standing, fees, and search placement all became operational concerns. A merchant could be independent in law and functionally embedded in Amazon’s rules.
+
+The old Sears catalog had allocated customer attention page by page.
+
+Amazon allocated it query by query, recommendation by recommendation, and increasingly auction by auction.
+
+The retailer had become a market designer.
+
+## AWS Changed the Startup Balance Sheet
+
+The importance of AWS is easiest to see by reconstructing the company it made unnecessary.
+
+A software startup once had to estimate future demand and buy servers accordingly. Buy too little and success could crash the service. Buy too much and scarce startup capital sat idle in a room. Someone had to configure networking, replace failing machines, manage storage, provision capacity, and maintain enough redundancy to survive problems.
+
+Cloud computing converted much of that fixed investment into a variable expense.
+
+Rent what you need.
+
+Add more when demand rises.
+
+Release capacity when demand falls.
+
+This reduced the penalty for being wrong about growth.
+
+That is a profound entrepreneurial effect.
+
+Startups fail frequently, and early forecasts are unreliable. An infrastructure model that lets a company delay capital commitments makes experimentation cheaper. The founder can spend more money on product and less on forecasting the size of a future server room.
+
+Large companies gained a different benefit. They could use cloud services to provision computing more quickly than internal procurement cycles sometimes allowed and shift some infrastructure responsibility to a specialist.
+
+The tradeoff was dependence.
+
+A cloud service accumulates data, configurations, identities, network design, proprietary services, and operational knowledge. Moving away can be expensive even if the raw virtual machine appears interchangeable.
+
+IBM had taught enterprises to live inside an architecture.
+
+AWS sold architecture by the hour.
+
+The billing model looked more flexible.
+
+The dependency could become just as deep.
+
+## The Warehouse Became a Computer With a Roof
+
+Amazon’s fulfillment centers are physical buildings, but their competitive advantage comes partly from treating the building as a computational system.
+
+Where should inventory sit?
+
+Which item should a worker pick next?
+
+Which box should contain the order?
+
+Which route should a package take?
+
+When should replenishment arrive?
+
+How much inventory should be positioned near a city before customers there have placed the orders?
+
+Each question can be converted into data, prediction, and optimization.
+
+The warehouse therefore became a place where software had physical consequences minute by minute.
+
+This is different from Walmart’s earlier information network in degree and immediacy. Walmart used transaction data to coordinate stores and distribution. Amazon increasingly used software to choreograph the fulfillment process itself at worker, shelf, package, and route level.
+
+Robotics intensified the logic.
+
+Automation did not make warehouses disappear. It changed the division of labor between machines and people. Robots could move shelving systems or goods. Software could sequence work. Humans still handled many tasks requiring perception, dexterity, exception management, maintenance, and judgment.
+
+The productivity system became inseparable from the monitoring system.
+
+A company that can measure the package at every step can often measure the worker touching it.
+
+That is why labor controversies around Amazon are not an unfortunate side story to the logistics achievement.
+
+They are generated by the same infrastructure.
+
+The promise of faster delivery creates pressure for tighter coordination. Tighter coordination creates more measurement. More measurement increases managerial control and can intensify work.
+
+Convenience at the door and discipline in the warehouse belong to the same causal chain.
+
+## The Public Network Carries the Private Promise
+
+Amazon’s logistics ambition also complicates the idea of private infrastructure.
+
+The company built fulfillment centers, delivery stations, aircraft operations, software systems, and contractor networks. Yet the final system remained intertwined with public roads, airports, addresses, zoning, postal infrastructure, traffic law, and municipal services.
+
+A package crossing the country may move through assets owned by Amazon, contractors, airlines, the Postal Service, state governments, local governments, and property owners in succession.
+
+The customer experiences one promise.
+
+The promise is fulfilled by a mosaic of institutions.
+
+This is a familiar pattern in the book.
+
+Sears used the Post Office and railroads to become national retail. Walmart used highways and containerized global trade to become a logistics network. Amazon inherited both systems and added private layers dense enough that the boundary between merchant and carrier became difficult to see.
+
+The historical lesson is not that government secretly deserves credit for Amazon.
+
+It is that infrastructure businesses are almost always built on inherited infrastructure.
+
+The private innovation is frequently the coordination layer that makes existing systems feel newly capable.
+
+## Why Amazon Over Apple
+
+The strongest competitor for the 2010s remains Apple.
+
+The iPhone was probably the decade’s most intimate corporate object. It reorganized photography, maps, music, messaging, news, payments, transportation, dating, work, entertainment, and attention around a computer carried all day. The App Store created a software economy whose consequences touched nearly every consumer industry.
+
+A persuasive version of this book could award Apple the decade.
+
+The reason Amazon still wins is breadth of institutional layer.
+
+Apple changed the interface between the person and the digital world.
+
+Amazon changed multiple interfaces between businesses and infrastructure.
+
+A retailer could become an Amazon seller.
+
+A startup could become an AWS customer.
+
+A household could become a Prime member.
+
+A manufacturer could become a fulfillment client.
+
+A publisher could become an advertiser.
+
+A developer could build on Amazon infrastructure without the end user ever knowing Amazon was involved.
+
+The company's influence was therefore unusually capable of disappearing underneath other companies' brands.
+
+That is the book’s test for infrastructure power.
+
+The more economically important Amazon became, the less necessary it was for the final customer to see Amazon at all.
 
 Facebook is another formidable competitor because social media changed politics, journalism, advertising, identity, and public discourse.
 
