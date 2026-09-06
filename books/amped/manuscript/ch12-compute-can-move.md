@@ -347,3 +347,33 @@ Once that becomes dependable, the planner is no longer forecasting only how much
 The planner is negotiating when the customer insists on consuming it.
 
 That is a different grid.
+
+There is a further distinction between **movable work** and **movable service**.
+
+A batch training task may be portable because nobody outside the company cares exactly where it runs. A customer-facing service can be portable only if the provider has already built enough redundancy that requests can be served elsewhere without violating latency, data-residency, privacy, availability, or contractual commitments. The electrical flexibility therefore depends on architecture created for reasons that have nothing to do with electricity.
+
+This matters because the grid should not assume software flexibility can be invented at the moment of crisis.
+
+Regional redundancy has to exist before the heat wave. Data has to be replicated before the constraint. Models and dependencies have to be deployable in the alternate region. Network capacity has to be available. Customer contracts have to permit the move. Engineers have to know how the system behaves when traffic shifts.
+
+Flexibility is partly a **preparedness asset**.
+
+A hyperscaler that designs services to fail over across regions for ordinary resilience may have valuable electrical optionality almost by accident. A company that operates every accelerator at maximum utilization in one region may have far less, even if the workload is theoretically delayable.
+
+This suggests that utilities should buy demonstrated response capability rather than infer flexibility from workload labels such as training or inference. A training cluster with no safe interruption procedure may be less useful than an inference platform with mature regional failover. The electrical category should be based on what the meter can actually do under contract.
+
+The same principle protects the customer. A utility should not ask for workload details it does not need. The company can keep its internal scheduler, data, models, and customer topology private while exposing a narrow electrical capability: this many megawatts can be reduced within this notice period for this duration, this many times per year.
+
+That is a service-level agreement between two complex systems.
+
+It also creates a new software metric: **megawatts of schedulability**.
+
+Cloud operators already measure spare capacity, failure domains, utilization, and latency. A power-constrained future can make schedulable electrical demand another dimension of infrastructure efficiency. The company may discover that a megawatt capable of moving away from a constrained region is worth more than a megawatt saved uniformly across every hour.
+
+That changes optimization priorities. The best scheduler is not necessarily the one that minimizes energy consumption. It may be the one that preserves enough temporal and geographic slack to avoid the most expensive grid hours and locations without harming the service.
+
+Slack usually looks inefficient until the system needs it.
+
+Then it becomes resilience.
+
+The data-center boom could make that familiar software lesson visible to the grid: unused flexibility is not wasted when it prevents the next physical bottleneck from becoming permanent infrastructure.
