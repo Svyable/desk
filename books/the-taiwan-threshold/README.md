@@ -11,7 +11,7 @@
 | **Chapters** | 18 of 18 + prologue |
 | **Edition** | First complete draft |
 | **Language** | English |
-| **Release Review** | Remains blocked; see [research/release-review.md](research/release-review.md) |
+| **Release Review** | Remains blocked; opening + Chapters 1–5 and late-book Chapters 15–18 reviewed; Chapters 6–14 remain before the stale field-edition marker can be retired; see [research/release-review.md](research/release-review.md) |
 
 The central thesis is that the most dangerous path to a Taiwan conflict is not necessarily a single decision to invade but a sequence of coercive moves below the traditional threshold of war, each individually survivable, that together make the next escalation easier and the off-ramp harder to see.
 
@@ -47,4 +47,5 @@ This Desk edition completes the 18-chapter argument as a first full manuscript w
 
 - [Research brief, chapter map, and falsification tests](research/README.md)
 - [Source ledger](research/source-ledger.csv)
+- [Release evidence pass — September 6, 2026](research/release-evidence-pass-2026-09-06.md)
 - [Release review](research/release-review.md)
