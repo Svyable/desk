@@ -1,0 +1,161 @@
+name: Apply Sven Desk public branding v2
+
+on:
+  push:
+    branches:
+      - brand-sven-desk-public-surfaces-v2
+
+permissions:
+  contents: write
+
+jobs:
+  brand:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: brand-sven-desk-public-surfaces-v2
+          fetch-depth: 1
+
+      - name: Align public Desk identity
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          brand_paths = [
+              'README.md',
+              'llms.txt',
+              'pages-health.html',
+              'reader/index.html',
+              'reader/js/desk-app-identity.test.mjs',
+              'reader/js/desk-pwa-contract.test.mjs',
+              'scripts/catalog.py',
+              'desk/authoring-role-policy.js',
+              'desk/authoring-role-policy.test.mjs',
+              'desk/catalog-contract.test.mjs',
+              'docs/author-guide.md',
+          ]
+
+          for name in brand_paths:
+              path = Path(name)
+              text = path.read_text(encoding='utf-8')
+              text = text.replace('Svyable Desk', 'Sven Hardy Benson’s Desk')
+              text = text.replace('Svyable Shelf', 'Sven Hardy Benson’s Shelf')
+              text = text.replace('Svyable books', 'Sven Hardy Benson’s books')
+              path.write_text(text, encoding='utf-8')
+
+          path = Path('desk/authoring-role-policy.js')
+          text = path.read_text(encoding='utf-8')
+          text = text.replace('SVYABLE_DESK_IDENTITY', 'SVEN_DESK_IDENTITY')
+          text = text.replace("owner: 'Svyable',\n  name: 'Sven Hardy Benson’s Desk',", "owner: 'Sven Hardy Benson',\n  name: 'Sven Hardy Benson’s Desk',")
+          path.write_text(text, encoding='utf-8')
+
+          path = Path('desk/authoring-role-policy.test.mjs')
+          text = path.read_text(encoding='utf-8')
+          for old, new in [
+              ("'Publishing Desk · Svyable'", "'Publishing Desk · Sven Hardy Benson'"),
+              ("'Svyable'", "'Sven Hardy Benson'"),
+              ("'Svyable home'", "'Sven Hardy Benson home'"),
+          ]:
+              text = text.replace(old, new)
+          path.write_text(text, encoding='utf-8')
+
+          path = Path('reader/index.html')
+          text = path.read_text(encoding='utf-8')
+          text = text.replace('<meta name="apple-mobile-web-app-title" content="Desk Reader">', '<meta name="apple-mobile-web-app-title" content="Sven’s Desk">')
+          text = text.replace('<title>Sven Hardy Benson’s Desk Reader</title>', '<title>Sven Hardy Benson’s Desk — Reader</title>')
+          text = text.replace('Read Sven Hardy Benson’s books while they are still being written: working drafts, revision history, and complete manuscripts in the Bookself Reader.', 'Read working drafts, revisions, and complete manuscripts by Sven Hardy Benson before deliberate release.')
+          text = text.replace('<meta property="og:title" content="Sven Hardy Benson’s Desk Reader">', '<meta property="og:title" content="Sven Hardy Benson’s Desk — Reader">')
+          text = text.replace('<meta name="twitter:title" content="Sven Hardy Benson’s Desk Reader">', '<meta name="twitter:title" content="Sven Hardy Benson’s Desk — Reader">')
+          if '<link rel="canonical" href="https://svyable.github.io/desk/reader/">' not in text:
+              anchor = '  <meta name="twitter:description" content="Books in the act of becoming books. Read working drafts and complete manuscripts from Sven Hardy Benson’s Desk.">\n'
+              if anchor not in text:
+                  raise SystemExit('Reader canonical insertion anchor not found')
+              text = text.replace(anchor, anchor + '  <link rel="canonical" href="https://svyable.github.io/desk/reader/">\n', 1)
+          text = text.replace('<button class="logo" id="logoBtn" type="button" title="Desk" aria-label="Desk">', '<button class="logo" id="logoBtn" type="button" title="Sven Hardy Benson’s Desk" aria-label="Sven Hardy Benson’s Desk">')
+          text = text.replace('<p class="library-kicker">Working manuscripts · Read like books</p>', '<p class="library-kicker">Working manuscripts by Sven Hardy Benson · Read like books</p>')
+          text = text.replace('<p class="library-lede">Books in the act of becoming books. Drafts, complete manuscripts, and the next edition all live here before deliberate release to Shelf.</p>', '<p class="library-lede">Every cataloged working manuscript lives here in motion: early drafts, complete drafts, revisions, and the next edition before deliberate release to Shelf.</p>')
+          path.write_text(text, encoding='utf-8')
+
+          path = Path('reader/js/desk-app-identity.test.mjs')
+          text = path.read_text(encoding='utf-8')
+          text = text.replace("assert.equal(manifest.name, 'Sven Hardy Benson’s Desk Reader');", "assert.equal(manifest.name, 'Sven Hardy Benson’s Desk');")
+          text = text.replace("assert.equal(manifest.short_name, 'Desk Reader');", "assert.equal(manifest.short_name, 'Desk');")
+          text = text.replace("/<title id=\"title\">Sven Hardy Benson’s Desk Reader<\\/title>/", "/<title id=\"title\">Sven Hardy Benson’s Desk<\\/title>/")
+          path.write_text(text, encoding='utf-8')
+
+          path = Path('reader/js/desk-pwa-contract.test.mjs')
+          text = path.read_text(encoding='utf-8')
+          text = text.replace("assert.equal(manifest.name, 'Sven Hardy Benson’s Desk Reader');", "assert.equal(manifest.name, 'Sven Hardy Benson’s Desk');")
+          path.write_text(text, encoding='utf-8')
+
+          path = Path('docs/author-guide.md')
+          text = path.read_text(encoding='utf-8')
+          old = '''This repository is the **private Desk** in a
+          [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
+          setup. The public shelf is [Svyable/shelf](https://github.com/Svyable/shelf).
+          This Sven Hardy Benson’s Desk also has an intentionally public working-draft Reader at
+          `https://svyable.github.io/desk/reader/`. That preview is public even though
+          the Git repository is private.
+          '''
+          new = '''This repository is **Sven Hardy Benson’s working Desk** in a
+          [Bookself](https://github.com/Svyable/bookself/blob/main/docs/bookself.md)
+          setup. Deliberately released editions live in
+          [Sven Hardy Benson’s Shelf](https://github.com/Svyable/shelf). The Desk
+          repository and its working-draft Reader at
+          `https://svyable.github.io/desk/reader/` are intentionally public. Presence
+          here means work in motion, not publication.
+          '''
+          if old not in text:
+              raise SystemExit('Author guide visibility block not found')
+          path.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          path = Path('README.md')
+          text = path.read_text(encoding='utf-8')
+          text = text.replace('                  Sven Hardy Benson’s Desk                         Sven Hardy Benson’s Shelf', '             Sven Hardy Benson’s Desk              Sven Hardy Benson’s Shelf')
+          path.write_text(text, encoding='utf-8')
+          PY
+
+      - name: Validate branded Desk surfaces
+        run: |
+          echo '--- catalog audit (informational; current main may have unrelated blockers) ---'
+          set +e
+          python3 scripts/catalog.py >/tmp/catalog-audit.txt
+          catalog_status=$?
+          set -e
+          tail -n 12 /tmp/catalog-audit.txt || true
+          echo "catalog audit exit: $catalog_status"
+          echo '--- authoring role policy ---'
+          node desk/authoring-role-policy.test.mjs
+          echo '--- catalog contract ---'
+          node desk/catalog-contract.test.mjs
+          echo '--- Desk app identity ---'
+          node reader/js/desk-app-identity.test.mjs
+          echo '--- Desk PWA contract ---'
+          node reader/js/desk-pwa-contract.test.mjs
+          echo '--- expected public strings ---'
+          python3 - <<'PY'
+          from pathlib import Path
+          checks = {
+              'README.md': ['# Sven Hardy Benson’s Desk', 'Working manuscript in Sven Hardy Benson’s Desk.', 'Sven Hardy Benson’s Shelf'],
+              'reader/index.html': ['<title>Sven Hardy Benson’s Desk — Reader</title>', '<link rel="canonical" href="https://svyable.github.io/desk/reader/">', '<h1>Sven Hardy Benson’s Desk</h1>'],
+              'llms.txt': ['# Sven Hardy Benson’s Desk', 'Sven Hardy Benson’s Shelf'],
+              'scripts/catalog.py': ['Working manuscript in Sven Hardy Benson’s Desk.'],
+          }
+          for name, needles in checks.items():
+              text = Path(name).read_text(encoding='utf-8')
+              for needle in needles:
+                  if needle not in text:
+                      raise SystemExit(f'{needle!r} missing from {name}')
+          print('public string checks ok')
+          PY
+          git diff --check
+
+      - name: Commit public Desk branding
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md llms.txt pages-health.html reader/index.html reader/js/desk-app-identity.test.mjs reader/js/desk-pwa-contract.test.mjs scripts/catalog.py desk/authoring-role-policy.js desk/authoring-role-policy.test.mjs desk/catalog-contract.test.mjs docs/author-guide.md
+          git commit -m "Use Sven Hardy Benson as the Desk public brand"
+          git push origin HEAD:brand-sven-desk-public-surfaces-v2
