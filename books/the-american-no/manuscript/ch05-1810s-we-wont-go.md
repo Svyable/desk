@@ -158,6 +158,42 @@ This is a form of protest success that rarely gets a statue. The policy may cont
 
 Movements often win first by making hypocrisy expensive.
 
+The meeting is even more interesting when the people at the front of the room are restored to the story as participants in uncertainty rather than monuments who already know the correct line. Forten had previously been sympathetic to Paul Cuffee’s voluntary emigration work. Allen and other prominent Black leaders had reasons to take African settlement seriously, including the brutal limits placed on Black life in the United States. At Bethel, leaders did not simply summon a crowd to ratify a conclusion they had already imposed.
+
+The crowd answered them.
+
+Accounts of the meeting describe the question being put to the assembled men and an overwhelming rejection of colonization. Forten’s later recollection stressed the absence of affirmative voices and the force of the opposition. That moment matters because it turns the meeting from elite advocacy into internal democracy. A movement constituency corrected some of its own most respected leaders.
+
+This is easy to miss in histories that need famous people to carry the plot. Leadership is often portrayed as the source of political insight and crowds as the mechanism for amplifying it. Bethel shows the reverse can happen. Leaders convene. The constituency decides. Good leaders update.
+
+That is not romantic populism. Crowds can be wrong, cruel, impulsive, or exclusionary. The important point is institutional: a community needs mechanisms through which leaders can discover that their assumptions are not shared.
+
+The American Colonization Society had its own version of the opposite problem. It contained powerful men discussing the future of free Black Americans while too often treating Black consent as secondary to white theories of race, slavery, and national order. The Bethel meeting supplied information the project could not honestly claim to lack afterward.
+
+This is why the protest belongs in a book about power rather than merely identity. The no imposed a constraint on representation. Anyone proposing colonization as a benevolent solution now faced a visible fact: a huge Black gathering in one of the country’s most important cities had publicly rejected the premise.
+
+The refusal did not stop the society from operating. It stopped the society from speaking uncontested in the name of its supposed beneficiaries.
+
+The distinction is profound. Political power often begins not with the ability to enact one’s preferred policy but with the ability to prevent someone else from claiming your consent.
+
+Labor unions do this when they insist management cannot speak for workers. Indigenous governments do it when they reject consultation as a substitute for consent. Disability movements do it when they challenge institutions that define quality of life without disabled people in the room. Patients do it when they demand standing in research and treatment policy. A constituency becomes politically real when it acquires the capacity to say: you do not get to represent us without us.
+
+Bethel is an early, unusually vivid American example.
+
+The meeting also helps separate voluntary emigration from colonization as a political program. Paul Cuffee had financed a voyage carrying Black emigrants to Sierra Leone in 1815. Some Black Americans would continue to explore African emigration for reasons of autonomy, safety, religion, commerce, or despair at American racism. Those decisions do not weaken the force of the 1817 refusal. They clarify it.
+
+The argument was not that no Black person could rationally choose Africa.
+
+The argument was that Black departure could not be presumed as the national solution to white prejudice.
+
+A free choice to leave is compatible with a claim to belong. A policy that treats leaving as the answer to someone else’s racism is not.
+
+That distinction gives the chapter a longer afterlife than the eventual fate of the Colonization Society. American institutions repeatedly encounter populations whose presence is described as the problem: free Black communities, Native nations on desired land, immigrant laborers, poor residents in redevelopment zones, unhoused people in public space. Policy can then become an exercise in moving the population rather than changing the structure around it.
+
+The political question is always the one Bethel made audible.
+
+Who gets to define removal as a remedy?
+
 The 1817 meeting also extends the book’s emerging theory of “the people.” Boston patriots called themselves the Body of the People while living in a society that excluded much of the population from formal politics. Shays’ Regulators claimed the people against state institutions. Whiskey rebels and federal officials each claimed to defend republican liberty. Gabriel’s conspiracy revealed a population governed as property rather than citizen.
 
 Philadelphia’s Black protesters did something distinct.
