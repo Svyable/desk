@@ -259,3 +259,105 @@ The next transformation was quieter.
 The tenants learned that they did not have to wait for us to visit.
 
 They could ring the bell.
+
+The App Store changed another relationship that matters for the psychology of ownership: the device you bought was no longer the device you would still own six months later.
+
+A physical object used to age mostly by wearing out. A camera might acquire scratches. A television might dim. A car might gain miles. A smartphone could gain whole categories of behavior while sitting on the same nightstand. New applications appeared. Existing applications changed interfaces. Services added messaging, stories, video, shopping, maps, live streams, short-form feeds, payments, groups, and recommendations. The hardware remained familiar while the behavioral environment mutated.
+
+This made consent unusually difficult to locate in time.
+
+A person might install an application for one purpose and years later find that the same icon had become a much larger social environment. The initial decision to enter was real, but it did not contain knowledge of every future feature. Software platforms could change the bargain after adoption because updates were part of normal maintenance.
+
+Again, this capacity was mostly beneficial. Security vulnerabilities need patches. Services improve. Accessibility features expand. Bugs get fixed. A phone that could not change would have become obsolete much faster.
+
+But an updateable object creates a different kind of autonomy problem from a fixed tool.
+
+You do not merely decide whether to buy it.
+
+You repeatedly inhabit what it becomes.
+
+The distinction is important because public arguments about manipulation often imagine a stable adversary: a product designed one way, encountered by a user with a fixed set of preferences. Mobile software is closer to an evolving relationship. The service observes behavior. The company changes the service. The user adapts. Competitors copy successful mechanics. Operating systems add controls. Developers find new routes around those controls. Social norms shift. What counts as ordinary use at year ten may not resemble year one.
+
+The marketplace therefore became a laboratory in which both sides learned.
+
+Users learned that a swipe could dismiss, refresh, match, purchase, navigate, or reveal.
+
+Developers learned which swipes continued.
+
+Users learned to expect free applications.
+
+Businesses learned to monetize attention, transactions, subscriptions, or data around the free entry point.
+
+Users learned that notifications could be useful.
+
+Developers learned that notifications could restore lapsed behavior.
+
+Users learned to mute some applications.
+
+Operating systems learned to summarize, prioritize, and schedule interruptions.
+
+The system kept renegotiating the boundary after the product was already culturally indispensable.
+
+This is one reason the phrase “dark pattern” can be helpful but incomplete. Some designs are plainly deceptive. Others are not dark at all. They are bright, cheerful, legible, and individually understandable. Their power comes from repetition rather than trickery.
+
+A streak counter does not have to lie.
+
+A badge does not have to deceive.
+
+A recommendation queue can accurately predict what you will enjoy.
+
+A reminder can tell the truth that a friend posted something.
+
+The ethical question is often not whether the interface contains false information. It is what objective the truthful interface serves and how many times per day it is allowed to ask.
+
+The App Store made those objectives plural.
+
+Apple could set platform rules, but it could not collapse the motives of a bank, game studio, social network, newspaper, dating service, retailer, hospital, airline, school, employer, and friend into one coherent theory of the user’s attention. Each service optimized its own local relationship.
+
+The user inherited the integration problem.
+
+This is easy to miss because the operating system creates visual order. Icons line up. Notification settings share a menu. Permissions use common prompts. The apparent unity belongs to the interface. The incentives underneath remain fragmented.
+
+Imagine a building in which every tenant is allowed to install a separate doorbell into one apartment.
+
+The landlord can set quiet hours.
+
+The resident can disconnect bells one by one.
+
+Each tenant can explain why its bell is useful.
+
+No tenant experiences the total number of rings.
+
+The resident does.
+
+The smartphone became that apartment.
+
+The App Store also produced an economic reason to make certain human states more legible. A physical bookstore knows what leaves the register. A mobile service can often know what was viewed, tapped, skipped, abandoned, returned to, purchased, shared, searched, or watched to completion. The granularity varies by product and privacy regime, and the industry has changed materially as operating systems and laws restricted some forms of tracking. The larger shift remains: interactive software can observe behavior at a resolution unavailable to most older consumer media.
+
+Observation improves service when the goal is aligned. A map learns the route. A music service improves recommendations. A language application identifies weak vocabulary. An accessibility tool learns preferences.
+
+Observation can also improve capture.
+
+The same behavioral traces can answer a different question: what keeps this person here?
+
+That question is not automatically sinister. A bad product that nobody wants to use does not become virtuous because it protects attention through failure. Designers should care whether people find value. But value and continuation are not identical, and the App Store era made continuation measurable enough that companies could accidentally substitute the proxy for the purpose.
+
+A messaging application exists to help messages happen. The measurable proxy may be opens.
+
+A news application exists to inform. The proxy may be sessions or minutes.
+
+A dating application exists, at least in the user’s mind, to help someone eventually stop dating strangers through the application. The proxy may reward continued swiping.
+
+A fitness application exists to help activity happen away from the screen. The proxy may reward checking the screen about activity.
+
+A successful marketplace contains businesses whose ideal user outcomes sometimes include leaving the marketplace.
+
+That tension would become central to the next decade of design.
+
+The phone had become a field on which every application could make its case. Push notifications gave the case a voice. Infinite feeds would remove the natural stopping point. Social metrics would make other people part of the reward. Personalized ranking would improve the timing and relevance of what appeared next.
+
+None of those layers needed the iPhone specifically. They spread across mobile computing. But the iPhone’s platform model gave the sequence a clean historical shape: first make the screen general, then open the screen to outsiders, then let outsiders learn when and why the owner returns.
+
+The door was more consequential than any one tenant.
+
+Once it existed, somebody was always going to knock.
