@@ -1,10 +1,37 @@
-/* Desk adaptation of Bookself reader/css/library-home.css (2026-09-04).
+/* Desk adaptation of Bookself reader/css/library-home.css (2026-09-06).
    Localized because Desk's lightweight Reader still consumes Shelf assets at runtime.
    Presentation only: Desk draft visibility and catalog behavior remain owned by app-loader. */
 :root {
   --desk-library-surface: color-mix(in srgb, var(--bg-elevated) 90%, transparent);
   --desk-library-line: color-mix(in srgb, var(--border) 74%, transparent);
 }
+
+/* Bookself #301 makes Theme + Settings canonical app-level controls. Shelf is
+   still on the #300 runtime override, so Desk owns the same presentation here
+   until Shelf catches up and this compatibility block can be deleted. */
+body[data-stage="library"] .app-header .header-right {
+  display:flex;
+  align-items:center;
+  gap:.08rem;
+}
+body[data-stage="library"] #bookmarkBtn,
+body[data-stage="library"] #searchBtn,
+body[data-stage="library"] #tocBtn,
+body[data-stage="library"] .reading-time { display:none; }
+body[data-stage="library"] #themeModeBtn,
+body[data-stage="library"] #settingsBtn { display:inline-flex; }
+body[data-stage="library"] #settingsBtn svg,
+body[data-stage="cover"] #settingsBtn svg,
+body[data-stage="read"] #settingsBtn svg,
+body[data-stage="end"] #settingsBtn svg { display:block !important; }
+body[data-stage="library"] #settingsBtn::before,
+body[data-stage="cover"] #settingsBtn::before,
+body[data-stage="read"] #settingsBtn::before,
+body[data-stage="end"] #settingsBtn::before {
+  content:none !important;
+  display:none !important;
+}
+
 body[data-stage="library"] .app-header { min-height:3.35rem; padding-block:.35rem; }
 body[data-stage="library"] .logo { width:2.55rem; height:2.55rem; min-width:2.55rem; min-height:2.55rem; border-radius:999px; }
 body[data-stage="library"] .library-view { padding-top:clamp(1.35rem,3vw,2.45rem); }
