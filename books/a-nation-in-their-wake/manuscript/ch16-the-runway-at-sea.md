@@ -32,6 +32,16 @@ It was turning a ship into an airfield that could move, launch, recover, fuel, a
 
 That required a new institution inside the old one.
 
+The Navy had already begun the transition with USS *Langley*, converted from the collier *Jupiter* and commissioned as the service's first aircraft carrier in 1922. *Langley* was indispensable as an experimental platform, but her limitations made the value of the larger converted battlecruisers clearer. A small carrier could teach the Navy how to operate aircraft at sea. *Lexington* and *Saratoga* allowed the Navy to ask what aviation looked like when it became a major fleet capability rather than an experiment attached to one converted ship.
+
+That difference is why *Langley* is the strongest runner-up for the decade and still loses the chapter.
+
+First is not always most consequential.
+
+*Langley* made carrier aviation possible to practice.
+
+*Lexington* made it possible to imagine scale.
+
 A carrier is not simply a ship with airplanes.
 
 It is an airport, weapons depot, maintenance complex, fuel system, command center, communications node, hotel, power plant, and floating piece of industrial logistics. Its striking power sits in machines that leave the hull and return. The ship's most important weapon can be hundreds of miles away.
@@ -44,7 +54,19 @@ Information became as important as armor.
 
 You had to find the other fleet before it found you.
 
-The 1920s were the period in which the United States Navy began learning that new geometry through practice.
+That created a different relationship between offense and defense. A battleship protects itself partly through armor and guns carried directly aboard. A carrier protects itself by finding threats early, launching fighters, maneuvering, operating with escorts, and keeping the enemy at distance. The ship's survival therefore depends on a larger formation and an information picture shared across ships and aircraft.
+
+The carrier makes the fleet more networked.
+
+A battleship can be formidable alone.
+
+A carrier becomes formidable through coordination.
+
+This difference helps explain why the new platform required doctrinal change rather than merely procurement. Buying a carrier without changing scouting, communications, command relationships, maintenance, pilot training, and fleet tactics would create an expensive deck rather than sea power.
+
+The United States Navy had to learn an organization, not a hull.
+
+The 1920s were the period in which that learning accelerated through practice.
 
 *Lexington* and *Saratoga* were unusually large and fast because they inherited battlecruiser hulls and machinery. Their size gave them substantial aircraft capacity and made them valuable experimental platforms. Fleet exercises during the interwar years allowed naval aviators and planners to test how carriers might scout, strike, defend, and operate with the rest of the fleet.
 
@@ -54,6 +76,22 @@ That function is easy to underrate because exercises do not count as history the
 
 The Navy used fleet problems to experiment with carrier operations, including mock attacks that challenged expectations about the vulnerability of bases and the possible reach of naval aviation. Some results pointed toward a future in which carriers could do more than scout for battleships.
 
+Exercises also revealed a problem peculiar to aviation: tempo.
+
+A carrier does not possess a fixed number of attacks merely because it possesses a fixed number of airplanes. Capability depends on how quickly aircraft can be fueled, armed, moved on deck, launched, recovered, inspected, repaired, and sent back out. A flight deck can become a traffic jam. A damaged airplane can block movement. Fueling and ordnance create hazards. Weather can stop operations even when the ship itself can maneuver.
+
+The carrier's real weapon is the sortie cycle.
+
+That cycle turns deck choreography into combat power.
+
+The public sees aircraft taking off.
+
+The institution has to master everything that happens between landings and launches.
+
+This made enlisted technical skill strategically central. Mechanics, ordnancemen, fuel handlers, signalmen, deck crews, radiomen, and many others became part of a chain where one mistake could damage aircraft, injure sailors, start a fire, or delay an entire strike.
+
+Naval aviation therefore changed the social organization of the ship as much as the geometry of combat.
+
 The institution did not convert instantly.
 
 Battleships remained central to naval doctrine and prestige. Many officers believed carriers would support the battle line rather than replace it. This was not stupidity. Early carrier aviation had real limitations. Aircraft range, payload, reliability, navigation, communications, and weather performance were far less capable than later systems. Flight operations were dangerous. Carriers were vulnerable if caught.
@@ -61,6 +99,20 @@ Battleships remained central to naval doctrine and prestige. Many officers belie
 Technology does not become dominant merely because a later historian knows it will.
 
 People in the 1920s had to allocate scarce budgets among systems with uncertain futures.
+
+The battleship advocates also had evidence on their side. Battleships were proven in war. Large naval guns could destroy ships and bombard shore targets. Armor offered survivability. Fleets already had doctrine, yards, training pipelines, and command structures built around surface combat.
+
+Carrier advocates were asking the Navy to believe in machines whose capabilities were improving rapidly enough that any current performance figure would soon be obsolete.
+
+This is one of the hardest procurement problems an institution can face.
+
+The old technology looks better in today's test.
+
+The new technology may own tomorrow's environment.
+
+How much current capability should be sacrificed to buy learning about a future that may not arrive as predicted?
+
+The answer cannot come from engineering alone because the uncertainty is strategic.
 
 That is what makes the interwar naval treaties so important. They changed the price of experimentation by constraining traditional capital-ship construction.
 
@@ -92,6 +144,14 @@ The carrier's weapons were replaceable in a way battleship guns were not.
 
 This helps explain why naval aviation could improve so rapidly in the interwar period. New aircraft designs could extend range, speed, payload, and mission capability without rebuilding the entire carrier.
 
+That adaptability also creates design tension. A carrier built for one generation of aircraft may encounter heavier, faster airplanes requiring stronger decks, more fuel, different maintenance spaces, improved arresting gear, larger elevators, or new launch systems. The host must have enough margin to absorb a future its designers cannot specify completely.
+
+Margin looks like excess at commissioning.
+
+Years later it becomes adaptability.
+
+This is another place where accounting and engineering can disagree. A platform optimized perfectly for today's mission may have less room to survive tomorrow's technology.
+
 The ship became an ecosystem.
 
 That word is overused in technology discussion, but here it earns its place. Carrier capability depends on pilots, deck crews, maintenance, aircraft manufacturers, fuel, munitions, training bases, doctrine, navigation, radio, weather information, escort ships, and replenishment.
@@ -119,6 +179,14 @@ The 1920s naval settlement therefore contained both stabilizing and destabilizin
 It slowed one arms race.
 
 It did not resolve the interests underneath it.
+
+The treaty regime also teaches a subtler lesson about measurement. Arms-control agreements have to count something. Tonnage, gun caliber, ship categories, basing, or numbers become proxies for military power because a treaty cannot limit an abstract concept like “threat.”
+
+Once power is translated into a measurable category, innovation begins outside the category's assumptions.
+
+Aircraft carriers were not invisible to treaty negotiators. They were regulated too. But their future military value was harder to estimate because the key variable was not merely hull tonnage. It was the improving capability of aircraft launched from the tonnage.
+
+A treaty can freeze steel more easily than it freezes learning.
 
 This is another reason *Lexington* is a more revealing choice than a passenger liner associated with the decade's consumer prosperity. The ship sits at the intersection of restraint and preparation.
 
@@ -179,6 +247,10 @@ Then the deadline arrives all at once.
 The 1920s gave American naval aviation a rare resource: time without combat.
 
 The Great Depression would squeeze budgets in the 1930s, and strategic conditions would deteriorate. Yet the institutional knowledge built around carriers continued growing.
+
+That knowledge had to compete with another kind of urgency as the world entered the next decade. Economic collapse consumed public attention. Authoritarian regimes expanded. Refugees sought routes out of Europe. The United States possessed enough state capacity to experiment with aircraft carriers and negotiate limits on fleets.
+
+Capacity alone did not decide what the country would do with people asking for refuge.
 
 The ship of the next decade in this book is not another warship.
 
