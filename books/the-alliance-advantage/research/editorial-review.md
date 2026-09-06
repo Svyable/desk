@@ -2,11 +2,65 @@
 
 ## Release decision — September 6, 2026
 
-**Remain blocked pending a bounded claim-level pass and mechanical validation.** The manuscript is structurally complete at 18 of 18 numbered chapters plus prologue, with front matter, back matter, book-level rights metadata, a research brief, and a normalized source ledger.
+**Release-cleared on substantive factual/research grounds, subject to the repository’s ordinary mechanical validation.** The manuscript is structurally complete at 18 of 18 numbered chapters plus prologue, with front matter, back matter, book-level rights metadata, a research brief, and a normalized source ledger.
 
-The implementation-evidence gaps identified on September 5 have now been materially remediated. The expanded packet adds current authoritative evidence for multinational munitions procurement and co-production, demonstrated AUKUS/Indo-Pacific interoperability and sustainment work, and a genuine centralized-national countercase. See `implementation-evidence-2026-09-06.md`.
+The implementation-evidence gaps identified on September 5 were materially remediated earlier on September 6. This follow-up completed the bounded Chapters 7–18 claim-level read against that expanded evidence set. No manuscript prose correction is required by the pass. One provenance gap was found and closed in the source ledger: Chapter 13’s statement that the United States finalized and refined the AUKUS ITAR exemption framework at the end of 2025 is supported by the Department of State’s December 30, 2025 final rule, which finalizes with changes the August 2024 interim rule and records operational use of the exemption by Authorized Users.
 
-This does not fabricate release clearance. The remaining substantive gate is narrower: Chapters 7–18 still need one claim-level read against the expanded evidence to identify any dated, quantitative, deployment, or comparative statement that requires correction or qualification. After that, the ordinary book-length and Desk integrity checks must pass on one frozen source.
+This does not fabricate mechanical clearance. Before any Shelf transaction, one frozen Desk source must still pass `python3 scripts/check-book-length.py the-alliance-advantage` and `python3 scripts/check-desk.py` under the repository’s current rules.
+
+## Claim-level pass completed: Chapters 7–18
+
+The pass re-read the logistics, munitions, standards, industrial-base, NATO digital, Indo-Pacific, AUKUS, innovation, sovereignty, network-risk, coalition-speed, and synthesis chapters against the current evidence packet.
+
+### Chapters 7–10 — logistics, munitions, standards, and industry
+
+These chapters are primarily mechanism arguments rather than claims that announced policy has already produced wartime capability. Their key boundaries remain intact:
+
+- aggregate inventories are not equated with usable or transferable military power;
+- production announcements and contracts are not described as delivered capacity;
+- commonality is explicitly allowed to create common-mode bottlenecks as well as scale;
+- national industrial capacity is preserved as a real countercase where sovereign control can outweigh network scale;
+- the manuscript distinguishes prototype, facility, contract, production capacity, sustained output, repair, and usable additional output rather than treating them as interchangeable milestones.
+
+NATO’s July 7, 2026 implementation reporting supports the bounded claim that allies are pursuing real multinational 155 mm interoperability, precision-strike cooperation, framework contracting, procurement coalitions, and co-production pathways. It does not establish that every such pathway has already delivered wartime-scale output, and the manuscript does not say that it has.
+
+### Chapter 11 — NATO’s digital turn
+
+The chapter explicitly says strategy documents prove intention rather than deployment and repeatedly treats exercise-tested interoperability, data lineage, identity, federation, degraded operation, and coalition debugging as capabilities that must be demonstrated rather than assumed.
+
+The current NATO 2026 digital strategy, implementation strategy, industry-cooperation strategy, and revised AI-strategy material support the policy direction used by the chapter. No sentence reviewed converts those strategy documents into a claim that the contemplated architecture is universally fielded or effective.
+
+### Chapter 12 — the Indo-Pacific network
+
+The chapter is careful to describe a topology of bilateral, minilateral, access, exercise, industrial, intelligence, and technology relationships rather than a single NATO-like alliance. Its claims about modular participation, political permissions, maritime awareness, layered sharing, maintenance, logistics, and selective alignment are framed as architecture and strategic conditions rather than as guarantees of participation in a future crisis.
+
+The 2026 RIMPAC and AUKUS exercise evidence provides current examples of real interoperability work without proving that every regional partner, base, or authority would be available in every contingency. That distinction remains intact.
+
+### Chapter 13 — AUKUS and the shared machine
+
+The substantive boundaries are strong: demonstrations are not treated as routine operational adoption; legal permission is separated from actual technical integration; common control systems are described as interoperability infrastructure rather than proof of universal fielding; and AUKUS is explicitly treated as a test rather than proof of the book’s thesis.
+
+The pass found one source-ledger provenance gap. The manuscript says the United States finalized and refined the trilateral ITAR-exemption framework at the end of 2025. The Department of State’s final rule scheduled for Federal Register publication on December 30, 2025 expressly finalizes, with changes, the August 20, 2024 interim rule; it also records more than 700 Australian and UK Authorized Users and industry use of the exemption over the preceding year. That primary source is now `alliance-016` in `source-ledger.csv`.
+
+The manuscript’s stronger operational examples remain bounded by the February 2026 Maritime Big Play, RIMPAC 26 subsea interoperability work, and completed U.S.-Australian submarine maintenance. None is generalized into a claim that all Pillar II capability is already deployed.
+
+### Chapters 14–16 — innovation, sovereignty, and network vulnerability
+
+These chapters keep the central counterarguments visible. A centralized state may scale a selected capability faster; interoperability can create lock-in; common standards can turn into supplier power; shared infrastructure can create common-mode cyber or model risk; and sovereign fallback can be strategically valuable even when it duplicates capacity.
+
+The manuscript therefore does not depend on a universal “networks always beat hierarchy” claim. Its actual thesis is conditional: network advantage appears only when distributed discovery and capacity can be converted across borders faster and more resiliently than the friction, dependence, and common-mode risk the network creates.
+
+### Chapter 17 — coalition speed
+
+The chapter explicitly separates political deliberation from execution latency. It does not argue that sovereign consent should be automated away. Its examples of data release, access, logistics, credentialing, and pre-negotiated authority are mechanism illustrations, not quantified claims about a particular alliance’s guaranteed crisis-response time.
+
+The Replicator evidence remains a useful countercase: centralized U.S. national direction can reduce coordination layers and accelerate acquisition/fielding. The manuscript does not claim Replicator proved a universal hierarchy advantage or that its later multiple-thousands target was achieved.
+
+### Chapter 18 — synthesis
+
+The concluding chapter preserves the conditional thesis rather than upgrading examples into proof. It repeatedly defines the alliance advantage as conversion across sovereignty: usable data, logistics, production, repair, standards, permissions, and diffusion. It also names hierarchy’s genuine advantages—speed of decision, aggressive standardization, resource direction, and lower internal transaction cost—and says network superiority has to be earned through search, resilience, legitimacy, industrial depth, geography, and routes around failure.
+
+No new empirical centerpiece appears in the synthesis that requires an independent late-book evidence lane.
 
 ## Evidence remediation completed
 
@@ -24,37 +78,26 @@ These are implementation and sustainment cases rather than policy promises. They
 
 ### Countercase: centralized national direction can be faster
 
-The U.S. Department of Defense Replicator initiative is now recorded as a bounded countercase. DoD reported in August 2024 that first units had completed new-equipment training with Replicator systems and that systems were operating in real time in multiple regions. The program used top-level national direction to align funding, acquisition pathways, commercial suppliers, services, and operators around a common fielding objective.
+The U.S. Department of Defense Replicator initiative remains a bounded countercase. DoD reported in August 2024 that first units had completed new-equipment training with Replicator systems and that systems were operating in real time in multiple regions. The program used top-level national direction to align funding, acquisition pathways, commercial suppliers, services, and operators around a common fielding objective.
 
 This weakens any universal claim that networks inherently beat hierarchy on speed. The checked sources do **not** establish that Replicator ultimately met its full multiple-thousands-by-August-2025 target, so the manuscript must not use that stronger claim without separate evidence.
 
-## Current claim boundaries for Chapters 7–18
+## Remaining mechanical conditions
 
-The next pass should preserve these distinctions:
-
-- strategy or announcement is not implementation;
-- a contract or co-production arrangement is not delivered capacity;
-- an exercise or trial demonstrates integration work, not wartime effectiveness;
-- completed maintenance in a partner country is stronger sustainment evidence than a future basing plan;
-- centralized national authority can reduce coordination layers and therefore serves as a real speed countercase;
-- the alliance advantage is conditional on usable interfaces, transfer authority, production, repair, logistics, and political consent.
-
-## Remaining concrete remediations
-
-1. Read Chapters 7–18 claim by claim against the expanded source set, with special attention to dated or quantitative claims and statements that imply fielded capability, production delivery, or comparative speed.
-2. Correct or narrow any claim that outruns the evidence. Preserve the Replicator countercase rather than presenting alliance networks as universally faster or superior.
-3. Run `python3 scripts/check-book-length.py the-alliance-advantage` on the resulting frozen Desk source and require a pass under the repository's applicable mechanical standard.
-4. Run `python3 scripts/check-desk.py` on that same source and require a clean exit.
-5. If those checks pass and the claim-level pass introduces no new research, rights, matter, or editorial blocker, update this artifact to release-cleared before creating a tandem Desk/Shelf publication transaction.
+1. Freeze the intended Desk source after this review bookkeeping lands.
+2. Run `python3 scripts/check-book-length.py the-alliance-advantage` on that frozen source and require a pass under the repository’s applicable mechanical standard.
+3. Run `python3 scripts/check-desk.py` on the same source and require a clean exit.
+4. If those checks pass and no newer manuscript/research/rights change introduces a blocker, the book is release-cleared for an ordinary tandem Desk/Shelf publication transaction. No additional factual or human-review gate is required by this artifact.
 
 ## Current boundaries
 
 - **Complete:** yes — 18 of 18 numbered chapters plus prologue, front matter, and back matter are checked in the canonical README.
 - **Rights:** yes — `RIGHTS.md` identifies Sven Hardy Benson as author and copyright owner under `bookself-arr-v1`.
-- **Research packet:** materially strengthened with implementation evidence and a countercase.
-- **Implementation-evidence blocker from September 5:** substantially closed.
-- **Factual/research blocker:** yes, but narrowed to the explicit Chapters 7–18 claim-level pass above.
-- **Mechanical release gate:** not yet evaluated for this candidate in this review.
-- **Shelf publication:** do not release until the claim-level and mechanical/repository gates pass on one frozen Desk SHA.
+- **Research packet:** yes — normalized ledger, implementation evidence, countercase, and completed Chapters 7–18 claim-level pass.
+- **Implementation-evidence blocker from September 5:** closed.
+- **Chapters 7–18 claim-level blocker:** closed.
+- **Factual/research blocker:** none identified in the completed bounded pass.
+- **Mechanical release gate:** still required on one frozen Desk source.
+- **Shelf publication:** do not release until the mechanical/repository gates pass.
 
-No additional human-review gate is imposed. The remaining blockers are objective and enumerated rather than a request for vague further review.
+No additional human-review gate is imposed. The remaining blockers are objective repository checks, not a request for vague further review.
