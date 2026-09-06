@@ -20,6 +20,28 @@ body[data-stage="library"] .reading-time { display:none; }
 body[data-stage="library"] #themeModeBtn,
 body[data-stage="library"] #settingsBtn { display:inline-flex; }
 
+/* Bookself #311 carries canonical README subtitles into library cards. Keep
+   the small presentation fallback local while Desk consumes shared Shelf CSS
+   through a long-lived base URL, so a refreshed app never exposes raw inline
+   subtitle text during a mixed-cache transition. */
+body[data-stage="library"] .volume.has-art .volume-subtitle {
+  text-shadow: 0 1px 8px #000c;
+}
+body[data-stage="library"] .volume-subtitle {
+  max-width: 100%;
+  margin-top: 0.45rem;
+  color: var(--text-secondary);
+  font-family: var(--font-accent);
+  font-size: 0.78rem;
+  font-style: italic;
+  letter-spacing: 0.02em;
+  line-height: 1.28;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
 body[data-stage="library"] .app-header { min-height:3.35rem; padding-block:.35rem; }
 body[data-stage="library"] .logo { width:2.55rem; height:2.55rem; min-width:2.55rem; min-height:2.55rem; border-radius:999px; }
 body[data-stage="library"] .library-view { padding-top:clamp(1.35rem,3vw,2.45rem); }
