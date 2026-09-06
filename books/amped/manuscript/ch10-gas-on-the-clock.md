@@ -273,3 +273,33 @@ The turbine can arrive on a schedule.
 The climate bill arrives over the life of the plant.
 
 The contract between those clocks is where the real decision sits.
+
+A bridge becomes more credible when its exit conditions are written before construction.
+
+That means the resource plan can specify not just when the gas plant enters service, but what evidence would justify running it less, repowering it, moving it into a reserve role, or retiring it early. Those conditions might include completion of transmission, arrival of contracted clean generation, storage duration becoming available at scale, verified flexible-load performance, or a sustained decline in the data-center forecast.
+
+This is different from promising that “technology will improve.”
+
+It creates observable triggers.
+
+A regulator can then ask whether the plant remains necessary under the conditions that actually arrived rather than allowing the original emergency to harden into permanent logic. A utility can recover prudent investment without assuming that capital recovery requires maximum utilization. A customer whose timetable drove the investment can be assigned part of the transition cost if the demand case weakens before the asset has earned back its value.
+
+The idea is a **retirement contract at birth**.
+
+Power systems rarely think this way because new assets are usually justified as solutions, not temporary states. But rapid technological change makes exit design part of entry design. A gas plant intended to bridge a data-center ramp should be evaluated for how gracefully it can become less important later.
+
+That includes technical characteristics. Can it cycle without excessive cost? Can it operate economically at lower capacity factors? Does the site have transmission value if the plant runs less? Could the connection later host storage or another generator? Is the pipeline commitment flexible, or does it create another fixed-cost asset that requires decades of throughput?
+
+The physical and contractual architecture determines whether the bridge can actually end.
+
+It also matters who owns the plant. A merchant generator under a long-term contract with a hyperscaler places different risks on the public than a regulated utility plant whose capital is recovered from captive customers. The same turbine can therefore be a different policy decision depending on its revenue model.
+
+This is where corporate urgency can be useful. If a technology company says the gas plant is necessary because its campus must open before cleaner firm resources can arrive, the company can help finance the bridge and the exit. That makes the claimed timetable economically testable rather than merely politically persuasive.
+
+The company is allowed to be impatient.
+
+The public should not have to make the impatience permanent for free.
+
+A good bridge leaves the system with more options at the far end than it had at the beginning.
+
+If it does not, it was never really a bridge.
