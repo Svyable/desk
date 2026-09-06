@@ -1,43 +1,39 @@
 # Release review — The Taiwan Threshold
 
 **Reviewed:** 2026-09-06  
-**Desk source under review:** `4a45ab0db697317bc5773f5d3162584159e769d6`  
-**Decision:** **Remain blocked — do not release to Shelf.**
+**Desk source under review before this focused pass:** `1f1b4dcc3e073dc9fe0dc1687b26a23d189cf19b`  
+**Decision:** **Release-cleared subject only to the ordinary mechanical Desk validation and publication steps.**
 
-## What is now established
+## What is established
 
 - The canonical README says `Complete draft`, with front matter, prologue, 18 numbered chapters, and back matter checked.
-- `RIGHTS.md` and `rights.json` are present.
-- The research brief and source ledger preserve the controlling distinctions between capability and intent, exercises and operations, and scenario analysis and observed events.
-- A September 6 release-evidence pass inspected the front matter, prologue, Chapters 1–5, and the completed late-book Chapters 15–18 against current authoritative evidence. Those sections are developed trade-manuscript prose rather than placeholders, and no factual manuscript correction was required in that tranche.
-- Current Taiwan MND activity reporting and current allied policy statements were added to the source ledger with explicit boundaries against treating recurring activity as proof of invasion intent or treating partner concern as an automatic contingency commitment.
+- `RIGHTS.md` and `rights.json` are present and internally consistent under `bookself-arr-v1`.
+- The research brief and source ledger preserve the controlling distinctions between capability and intent, exercises and operations, scenario analysis and observed events, and partner relevance and automatic commitment.
+- The September 6 opening/late-book release-evidence pass inspected the front matter, prologue, Chapters 1–5, and Chapters 15–18 against current authoritative evidence. No factual manuscript correction was required.
+- The September 6 Chapters 6–14 pass completed the remaining claim-level review across inspections, air/maritime pressure, undersea cables, cyber, finance, semiconductors, Japan, the Philippines, and Washington's classification problem. No factual manuscript correction was required in that tranche either.
+- Current Taiwan cable-resilience and cyber-resilience sources were added with explicit attribution boundaries; current semiconductor and alliance sources were rechecked without upgrading announcements, exercises, access, or policy statements into claims of completed capability or predetermined contingency decisions.
+- The old back-matter statement that the complete trade manuscript remained under development was therefore stale and has been replaced with a neutral Desk/Shelf edition note.
 
-See [release-evidence-pass-2026-09-06.md](release-evidence-pass-2026-09-06.md).
+See:
+- [release-evidence-pass-2026-09-06.md](release-evidence-pass-2026-09-06.md)
+- [release-evidence-pass-ch06-14-2026-09-06.md](release-evidence-pass-ch06-14-2026-09-06.md)
 
-## Controlling blocker: complete the claim-level pass before retiring the field-edition note
+## Full substantive decision
 
-The current `manuscript/back-matter.md` still says that the complete trade manuscript remains under development. The inspected opening and late-book chapters provide concrete evidence that this description is stale in at least part of the manuscript, but the repository should not delete the note based on metadata or a partial audit alone.
+The complete manuscript is **release-cleared on factual, research, rights, matter, novelty, and editorial grounds**.
 
-The remaining substantive gate is now precise: perform the same current-source claim-level review for **Chapters 6–14**, covering the inspection regime, air/maritime pressure, undersea cables, cyber activity and attribution, financial coercion, semiconductor dependencies, Japan, the Philippines, and Washington's classification/response problem.
+The book does not predict a date for war, treat every exercise or patrol as invasion preparation, convert cable incidents into automatic sabotage attribution, equate cyber access with executed effect, claim that announced semiconductor diversification has already replaced Taiwan's ecosystem, or treat Japanese/Philippine relevance as automatic operational commitment.
 
-For each chapter, preserve these boundaries:
+The manuscript's central claim remains bounded: cumulative coercive actions below the conventional threshold of war can alter operating conditions, expectations, and response choices even when no single act settles intent or legal classification.
 
-- capability is not intent;
-- exercise/training is not operational decision;
-- scenario analysis is not an observed event;
-- announced strategy or access is not proof of operational deployment or effectiveness;
-- partner relevance is not an automatic commitment to a Taiwan contingency;
-- commercial or infrastructure effects should not be upgraded into legal conclusions without appropriate authority.
+## Remaining mechanical gates
 
-If Chapters 6–14 are green, then re-evaluate the stale field-edition sentence and record a full substantive release decision from the remediated frozen Desk source.
+Before any Shelf transaction:
 
-## Mechanical gates after substantive review
+1. run the repository-conventional book-length validation applicable to `the-taiwan-threshold` against one frozen Desk source;
+2. run `python3 scripts/check-desk.py` and current catalog/discovery checks;
+3. if those pass, freeze that committed Desk source and prepare the linked Desk/Shelf publication pair from exactly that snapshot.
 
-If and only if the full factual/research pass is green:
+If any mechanical validation fails, do not release until the concrete failure is remediated on Desk.
 
-1. run the repository-conventional book-length validation applicable to this manuscript;
-2. run `python3 scripts/check-desk.py` and any current catalog/discovery checks;
-3. freeze one committed Desk source;
-4. prepare the linked Desk/Shelf publication pair from that exact snapshot.
-
-No additional human-review requirement is imposed. The remaining blocker is evidentiary completeness plus the ordinary repository mechanical checks.
+No additional human-review requirement is imposed. The remaining gates are objective repository mechanics only.
