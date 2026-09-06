@@ -261,3 +261,57 @@ Or the pressure released.
 Or the human to notice.
 
 The third language becomes real at the moment noticing changes what happens next.
+
+The horse also gives us a clean way to think about **misaligned expertise**.
+
+A highly experienced rider can be exquisitely skilled at one discipline and still misread an unfamiliar horse. A veterinarian can know equine physiology while missing the local signal a long-term caregiver notices. An owner can know an individual’s baseline and still misunderstand the medical significance of a change. A trainer can recognize learning history while overlooking pain.
+
+No one perspective owns the animal.
+
+This matters because third-language knowledge will often be distributed across people as well as species.
+
+The rider knows what a certain shift feels like under saddle.
+
+The groom knows what the horse normally does at breakfast.
+
+The veterinarian knows which changes fit a pain pattern.
+
+The farrier knows how the animal usually loads one limb.
+
+The horse knows what its own body permits, though it cannot explain that knowledge in our words.
+
+A good communicative system should allow these sources to correct one another.
+
+That is another reason first-person AI translation is risky. A synthetic sentence can collapse distributed evidence into one apparently authoritative animal statement. *My back hurts* sounds decisive. The underlying data may actually be: shortened stride under one rider, increased latency to saddle, altered muscle tension, and normal behavior at liberty.
+
+Those observations deserve integration, not theatrical certainty.
+
+The better tool might say: a familiar handling and movement pattern has changed across three contexts; pain is one plausible explanation; compare with veterinary examination and equipment fit.
+
+That sounds less magical.
+
+It respects the fact that the horse’s communication may be spread across body, task, history, and several human observers.
+
+This is what a third language becomes in professional settings: not merely a private code between two beings, but a disciplined way to keep the animal inside a network of interpretation.
+
+The danger is that networks dilute responsibility. Everyone notices a piece and assumes someone else will act.
+
+So the loop still needs an owner on the human side.
+
+Who changes the next move?
+
+Who pauses the session?
+
+Who calls the veterinarian?
+
+Who records that the horse’s usual signal no longer predicts the same outcome?
+
+Communication becomes operational only when somebody is accountable for receiving it.
+
+The bucket experiment is simple because the human can open the bucket immediately.
+
+Real animal care is harder because the receiver may be a team.
+
+The principle survives.
+
+Information has not completed its journey until it reaches a decision.
