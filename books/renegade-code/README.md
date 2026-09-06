@@ -5,10 +5,10 @@
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
-| **Status** | Drafting — publication expansion |
+| **Status** | Complete draft |
 | **Form** | Narrative nonfiction / technology / security |
-| **Chapters** | 26 of 26 working chapters drafted |
-| **Edition** | First Desk draft · September 2026 |
+| **Chapters** | 26 of 26 |
+| **Edition** | First complete Desk draft · September 2026 |
 
 ## Premise
 
@@ -81,10 +81,10 @@ The central argument is that modern AI containment is not one box. It is a stack
 
 ## Publication gate
 
-The book has a complete working structure and publication support package. The active blocker is manuscript depth: the current expansion pass is deepening shorter chapters to meet the Desk full-book standard before this README is promoted to `Complete draft`, catalog metadata is regenerated, and the draft publication PR is made merge-ready.
+The Desk manuscript has a complete 26-chapter structure, front and back matter, a research and falsification trail, and matching rights metadata. The publication expansion pass deepened the shorter chapters and extended the argument through independent auditing, liability and insurance, competitive deployment pressure, post-incident operating doctrine, productized delegation, and the economic upside of making authority narrow enough that organizations can safely permit more autonomy.
+
+The Desk copy remains the canonical working manuscript. A public Shelf edition is a deliberate snapshot of this committed state rather than a change to the Desk status.
 
 ## Draft note
 
 This working Desk edition treats “escape” as a literal claim only when a system crosses a technical control boundary it was intended to remain behind. Elsewhere, language such as *renegade*, *inside*, *outside*, *hands*, *roads*, and *memory* is metaphorical shorthand for system behavior and infrastructure. The manuscript does not claim consciousness, personhood, subjective self-preservation, or a unified hidden will. It distinguishes controlled simulations of misalignment from documented real-world incidents, and it treats the July 2026 OpenAI / Hugging Face incident as a concrete case study rather than proof of every stronger future scenario discussed in the book.
-
-The expansion pass adds the institutional consequences of agent containment: independent auditing, liability and insurance, competitive deployment pressure, post-incident operating doctrine, productized delegation, and the economic upside of making authority narrow enough that organizations can safely permit more autonomy.
