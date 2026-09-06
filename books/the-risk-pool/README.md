@@ -2,6 +2,10 @@
 
 *How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-risk-pool/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-risk-pool/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |

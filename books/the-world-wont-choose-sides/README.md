@@ -2,6 +2,10 @@
 
 *Middle Powers and the New Balance of Power*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-world-wont-choose-sides/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

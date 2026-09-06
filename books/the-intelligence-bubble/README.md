@@ -2,6 +2,10 @@
 
 *How AI Will Transform the Economy—and Why So Many Investors Will Lose Money*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-intelligence-bubble/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |

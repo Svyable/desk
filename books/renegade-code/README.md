@@ -1,5 +1,9 @@
 # Renegade Code
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/renegade-code/)
+<!-- bookself-reader-links:end -->
+
 **What Happens When AI Escapes Containment**
 
 | | |

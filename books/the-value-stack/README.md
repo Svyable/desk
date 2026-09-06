@@ -2,6 +2,10 @@
 
 *How value moves from matter to capability to access to trust to meaning—and why power returns to the bottom when scarcity changes*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-value-stack/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors** | Sven Hardy Benson |

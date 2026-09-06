@@ -1,5 +1,9 @@
 # The Delegation Machine
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-delegation-machine/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-delegation-machine/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |

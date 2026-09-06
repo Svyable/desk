@@ -1,5 +1,9 @@
 # Silent Cartel
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/silent-cartel/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/silent-cartel/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |

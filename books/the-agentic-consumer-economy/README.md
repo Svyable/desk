@@ -2,6 +2,10 @@
 
 *Digital Capitalism in the 2030s*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-agentic-consumer-economy/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/the-agentic-consumer-economy/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Authors**   | Sven Hardy Benson |

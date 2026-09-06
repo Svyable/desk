@@ -2,6 +2,10 @@
 
 *How Prediction Shrinks the Future by Erasing the Roads We Never Try*
 
+<!-- bookself-reader-links:start -->
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/the-unobserved-world/)
+<!-- bookself-reader-links:end -->
+
 | | |
 |---|---|
 | **Author** | Sven Hardy Benson |
