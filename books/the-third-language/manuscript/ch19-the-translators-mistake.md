@@ -355,3 +355,61 @@ If understanding reveals refusal, the human should not call the translator broke
 The first truly successful animal translator may not sound like a talking animal at all.
 
 It may sound like a quieter human.
+
+There is an engineering consequence to that line.
+
+Most AI products are evaluated by how often they produce useful output. An animal-communication system may also need an explicit **abstention rate**: how often it refuses to translate because the evidence does not support a stable interpretation.
+
+In ordinary consumer software, abstention can feel like failure. The camera saw the dog. The microphone heard the sound. The user expects an answer.
+
+But “I do not know” can be a capability.
+
+A model that abstains when an individual is outside its training distribution, when context is missing, when two interpretations are nearly tied, or when a signal has not been behaviorally validated is protecting the animal from invented certainty.
+
+This could become a publication standard for the field.
+
+Animal-communication systems should report not just accuracy on known classes but calibration, uncertainty, out-of-distribution behavior, population coverage, and the conditions under which the system declines to infer meaning.
+
+A model should also separate layers of claim.
+
+Detection: an acoustic or behavioral event occurred.
+
+Classification: the event resembles a learned category.
+
+Prediction: a receiver or outcome is likely.
+
+Function hypothesis: the event may serve a communicative role.
+
+Semantic rendering: a human-language description is offered.
+
+These are different achievements.
+
+The product interface will want to collapse them into one sentence because sentences are easier to use. The scientific record should refuse that collapse.
+
+Imagine a label on every translation showing where the claim came from.
+
+Observed repeatedly in this individual.
+
+Validated across unfamiliar individuals.
+
+Receiver response tested.
+
+Generated playback tested.
+
+Human-readable paraphrase only.
+
+No direct evidence for internal emotional state.
+
+Such provenance would make an animal translator less magical and more trustworthy.
+
+It would also educate users in a new kind of literacy: learning to distinguish what the animal did from what the machine inferred.
+
+That literacy may matter beyond animals. Humans increasingly live among systems that turn sensor data into fluent explanations. Cars diagnose themselves. health devices narrate sleep. financial tools explain markets. cameras classify emotion. Models make probabilistic inferences sound like observations.
+
+Animal communication is simply the case where the moral cost of confusing inference with testimony becomes impossible to ignore.
+
+The animal cannot correct the English sentence in English.
+
+So the interface must leave room for correction by behavior.
+
+That requirement may teach us to build better AI everywhere.
