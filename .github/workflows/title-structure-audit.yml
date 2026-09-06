@@ -1,0 +1,78 @@
+name: Audit book title structure
+
+on:
+  push:
+    branches:
+      - title-structure-audit
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: title-structure-audit
+      - name: Find title/subtitle candidates
+        run: |
+          python3 - <<'PY'
+          import re
+          from pathlib import Path
+
+          books = Path('books')
+          rows = []
+          for book in sorted(books.iterdir()):
+              if not book.is_dir() or book.name.startswith(('_', 'style-', '.')):
+                  continue
+              readme = book / 'README.md'
+              if not readme.is_file():
+                  continue
+              text = readme.read_text(encoding='utf-8')
+              title_match = re.search(r'^#\s+(.+?)\s*$', text, re.M)
+              if not title_match:
+                  continue
+              title = title_match.group(1).strip()
+              after = text[title_match.end():].splitlines()
+              subtitle = ''
+              for line in after:
+                  line = line.strip()
+                  if not line:
+                      continue
+                  if line.startswith('|') or line.startswith('## '):
+                      break
+                  m = re.fullmatch(r'\*([^*].*?)\*', line) or re.fullmatch(r'_([^_].*?)_', line)
+                  if m:
+                      subtitle = m.group(1).strip()
+                  break
+              words = len(re.findall(r"\b[\w’'-]+\b", title))
+              chars = len(title)
+              colon = ':' in title
+              if colon or chars >= 55 or words >= 9:
+                  front = book / 'manuscript' / 'front-matter.md'
+                  if not front.is_file():
+                      numbered = sorted((book / 'manuscript').glob('*front-matter*.md')) if (book / 'manuscript').is_dir() else []
+                      front = numbered[0] if numbered else None
+                  front_h1 = ''
+                  front_sub = ''
+                  if front and front.is_file():
+                      ft = front.read_text(encoding='utf-8')
+                      fm = re.search(r'^#\s+(.+?)\s*$', ft, re.M)
+                      front_h1 = fm.group(1).strip() if fm else ''
+                      if fm:
+                          for line in ft[fm.end():].splitlines():
+                              line = line.strip()
+                              if not line:
+                                  continue
+                              m = re.fullmatch(r'\*([^*].*?)\*', line) or re.fullmatch(r'_([^_].*?)_', line)
+                              if m:
+                                  front_sub = m.group(1).strip()
+                              break
+                  rows.append((book.name, chars, words, 'yes' if colon else 'no', title, subtitle, front_h1, front_sub))
+
+          print(f'candidates: {len(rows)}')
+          print('slug\tchars\twords\tcolon\tREADME title\tREADME subtitle\tfront H1\tfront subtitle')
+          for row in rows:
+              print('\t'.join(str(value).replace('\t',' ') for value in row))
+          PY
