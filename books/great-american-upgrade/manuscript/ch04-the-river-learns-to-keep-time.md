@@ -223,3 +223,31 @@ He did not invent the steamboat.
 He helped make a steamboat into a service.
 
 America would build much of its future on that difference.
+
+A service, however, is never only the vehicle. It is the network of promises around the vehicle.
+
+A scheduled steamboat needs places to land, fuel to burn, mechanics who can repair machinery, pilots who know the river, agents who sell passage, customers who trust departure times, and merchants who organize inventories around expected arrival. As traffic grows, towns invest around the route because the route appears durable. Warehouses move closer to docks. Inns and shops serve travelers. Connecting roads become more valuable. A reliable vessel therefore pulls infrastructure toward itself.
+
+That is why schedule matters more than speed alone. A boat that is occasionally fast is an achievement. A boat that arrives often enough for other businesses to make plans around it becomes an institution.
+
+The distinction would shape every later network industry. Railroads did not become powerful merely because locomotives were fast; they created timetables, stations, freight classifications, maintenance systems, and connecting lines. Airlines are not aircraft; they are slots, crews, airports, reservations, maintenance, air-traffic control, and schedules. Cloud computing is not a warehouse full of servers; it is a promise that capacity, identity, billing, networking, storage, and recovery will be available when another business builds on top of it.
+
+Infrastructure begins when someone else is willing to make a dependency out of your reliability.
+
+Fulton and Livingston’s legal privileges also show that the network was political from the start. Their New York steamboat rights gave the enterprise protection that competitors bitterly contested. The later struggle over steamboat monopolies would culminate in *Gibbons v. Ogden* in 1824, when the Supreme Court struck at New York’s attempt to control interstate steamboat traffic under its monopoly regime. That legal battle belongs chronologically to another decade, but it reveals the consequence of the 1807 success: once transportation becomes a network, control of access becomes economically important enough to fight over in constitutional law.
+
+A technology can therefore create the monopoly problem before it creates the antitrust vocabulary.
+
+This does not mean Fulton’s service succeeded only because government kept competitors away. The boat still had to work. But exclusive rights, capital, and political access helped shape who could exploit the new market. Technical merit and institutional advantage were intertwined.
+
+That pattern will return with telephone franchises, electric utilities, railroads, broadcast licenses, operating systems, app stores, and digital platforms. A network technology often begins by lowering friction for users and then raises a new question: who has the right to stand in the middle?
+
+The steamboat is the first winner in this book to make that question unavoidable at commercial scale.
+
+Its deeper counterfactual is therefore not whether steam navigation would have appeared without Fulton. It would have. Fitch, Rumsey, Symington, Evans, and others make that clear. The more interesting question is whether a different commercial and legal arrangement would have changed which routes were built first, how quickly competitors entered, and where profits accumulated.
+
+Invention history often imagines the technology first and the business model afterward. In practice they evolve together. A machine that can make money under one property regime may fail under another. A network that is profitable with exclusivity may require different economics under competition. A technology that looks “inevitable” in retrospect still arrives through particular contracts, privileges, lawsuits, and financing decisions.
+
+The river learned to keep time because a machine became dependable enough to sell a schedule.
+
+Then everyone else began organizing around the clock.
