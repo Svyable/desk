@@ -132,7 +132,69 @@ The Adams-Onís settlement did not abolish the borderlands.
 
 It changed who claimed authority over them.
 
-Onís’s importance is therefore larger than the transfer of Florida itself. He represents the moment when America’s foreign relations became inseparable from continental geometry.
+The five-million-dollar claims settlement deserves more attention because it shows that territorial diplomacy was also creditor diplomacy. The United States did not simply hand Spain a purchase price for Florida. Instead, the American government agreed to address claims by its own citizens against Spain up to a specified ceiling. That structure turned private grievances into part of an interstate bargain.
+
+Claims commissions and assumed claims can sound technical, but they reveal how governments convert scattered private losses into national leverage. Merchants, shipowners, and other citizens may have disputes with a foreign government that no individual can enforce effectively. When the state aggregates those claims, private property becomes foreign policy. The government can then settle, waive, assume, or exchange the claims as part of a larger agreement.
+
+The result is politically delicate because the state is bargaining with interests that belong to citizens as well as to itself.
+
+Onís therefore negotiated against more than American hunger for land. He negotiated against a portfolio of American grievances. Adams could trade settlement of those claims against territorial concessions and boundary recognition. The treaty knitted money, maps, sovereignty, and security into one instrument because diplomatic settlements often work by combining issues that cannot be solved separately.
+
+That bundling is one reason Onís’s mission lasted so long.
+
+A single disputed line can be hard enough. Here the negotiators faced Florida, Texas, Louisiana’s western boundary, claims, maritime grievances, cross-border violence, and the consequences of upheaval inside Spain’s empire. Movement on one issue changed the price of movement on another. A concession that looked tolerable in isolation could become unacceptable when placed beside the rest.
+
+Long negotiation is not necessarily failure.
+
+Sometimes it is the price of discovering the package both sides can defend at home.
+
+The domestic defense mattered for Spain as well as the United States. Onís was not free to redraw imperial territory according to his personal sense of realism. He represented a monarchy under enormous pressure, and his instructions reflected strategic priorities larger than Florida. Preserving Texas and a coherent line westward could matter more than retaining a peninsula Spain increasingly struggled to govern. The treaty makes more sense when viewed as triage rather than surrender.
+
+That perspective also complicates the later American belief that expansion was an expression of obvious continental destiny. From Madrid, the same movement looked like the steady erosion of imperial position under demographic pressure, unauthorized expeditions, disputed claims, and military incursions. Onís had to assume that every American argument about security might contain a territorial implication.
+
+He was not paranoid.
+
+The republic had already shown that ambiguity could work in its favor. American settlers could move before diplomats settled sovereignty. Private adventurers could create facts officials later had to manage. Military officers could cross disputed lines and force presidents to decide whether to repudiate them or exploit the resulting leverage. The borderlands allowed policy to advance through a mixture of official and unofficial action.
+
+This made American expansion harder to negotiate than a simple contest between two disciplined central governments.
+
+The United States could deny that every settler or filibuster represented federal policy while Spain still experienced the cumulative pressure as American. Onís’s problem resembles a recurring diplomatic difficulty: what responsibility does a government bear for private actors whose conduct advances national interests without formal authorization?
+
+The answer is rarely clean.
+
+States sometimes suppress such actors, sometimes tolerate them, and sometimes benefit from faits accomplis they would have hesitated to create openly. For the neighboring state, the ambiguity itself can be coercive because there is no single American decision to bargain against.
+
+Andrew Jackson intensified that problem. His Florida campaign gave Adams leverage while also exposing the administration to criticism that a general had exceeded lawful authority. Adams’s defense of Jackson’s actions has often been read as evidence of his expansionist realism. It was also an example of a secretary of state converting a potentially embarrassing military episode into a diplomatic argument about Spain’s inability to secure the frontier.
+
+Onís had to answer the argument without possessing the force needed to make Spanish control self-evident.
+
+The episode shows how domestic command-and-control failures can become international bargaining assets. That is not a comfortable principle, and it should not be turned into a strategy. A government that cannot restrain commanders risks wars it did not choose. In this case, however, Jackson’s intervention changed what each side believed about the cost of preserving the status quo.
+
+The treaty can therefore be read as an effort to regain control of escalation.
+
+A defined border and a transferred Florida reduced the number of places where local violence could pull two governments into another crisis. The agreement did not make the frontier peaceful, especially for Indigenous communities. It made one interstate relationship more legible.
+
+That distinction matters because diplomatic success is often partial by design.
+
+Adams and Onís could settle what the United States and Spain would claim against each other. They could not settle the sovereignty of Native nations by mutual assertion in any legitimate moral sense, even though their governments behaved as though they could. They could not settle slavery. They could not stop migration. They could not preserve the Spanish empire. They could not know that Mexico would soon inherit much of the line.
+
+They could reduce one category of uncertainty.
+
+The counterfactual makes the achievement clearer. Without a settlement, Florida would likely have remained a source of repeated American military and political pressure while disputes over the western Louisiana boundary continued. Each new incursion, uprising, filibuster, or claims dispute could have forced both governments to improvise under deteriorating conditions. A later agreement might have been more favorable to the United States as Spain weakened further, but the intervening risk of uncontrolled conflict would also have been greater.
+
+For Spain, waiting was not obviously free.
+
+For the United States, pressing every claim at once was not obviously wise either. Adams surrendered the immediate claim to Texas in order to secure Florida and a transcontinental boundary. Expansionists could call that restraint shortsighted. A negotiator could call it sequencing.
+
+History later rewarded the expansionists by putting Texas inside the United States anyway. That outcome should not be used to judge what Adams and Onís could responsibly know in 1819. Diplomatic bargains are made with present leverage and present risk, not with access to the next thirty years.
+
+This is one of the places hindsight most distorts the map.
+
+Because the United States eventually acquired Texas and reached the Pacific, every earlier boundary can look temporary. To the people negotiating it, temporary was not the same as meaningless. A border could determine which government collected duties, issued land titles, deployed soldiers, recognized claims, and negotiated with Native nations for years. Lives are lived inside interim arrangements.
+
+Onís’s line governed an interim that mattered.
+
+His importance is therefore larger than the transfer of Florida itself. He represents the moment when America’s foreign relations became inseparable from continental geometry.
 
 Gérard had brought recognition. Gardoqui had brought the Mississippi. Genêt had brought the problem of neutrality. Mellimelli had brought the consequences of maritime commerce beyond familiar Europe. Onís brought the map.
 
