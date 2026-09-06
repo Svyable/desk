@@ -483,3 +483,89 @@ The goal is to make the person’s intention more likely to survive contact with
 A good friction is almost invisible because it disappears when the user truly wants to proceed.
 
 It catches the thumb only when the thumb got there before the mind.
+
+There is a second reason friction deserves more respect: it can reveal preference.
+
+When every action costs almost nothing, behavior records impulse as readily as commitment. A user taps because the button was there. They open because a badge appeared. They accept because declining required another screen. The data then comes back to the company as evidence that people wanted the thing.
+
+A small cost can separate weak preference from strong preference.
+
+Economists have always understood this. A stated preference costs nothing. A revealed preference under some constraint can contain more information. Digital products often remove the constraint so thoroughly that weak curiosity and durable demand begin to look alike in engagement data.
+
+This matters for product design because metrics can become self-fulfilling.
+
+A feature prompts an easy action.
+
+The easy action raises engagement.
+
+The company concludes users value the feature.
+
+The feature receives more prominence.
+
+The next action becomes even easier.
+
+Without some friction, the system can mistake accessibility for desire.
+
+That is why an intentional extra step is not always hostile to the user. It can improve the truthfulness of the interface.
+
+Do you want to send this notification to ten thousand people?
+
+Do you want to publish this location publicly?
+
+Do you want to spend this much money?
+
+Do you want to continue after the limit you set?
+
+The confirmation is useful when the consequence is larger than the gesture that triggers it.
+
+The smartphone made tiny gestures capable of large actions.
+
+That power is one of its triumphs.
+
+It also creates a scale mismatch.
+
+A thumb movement measured in millimeters can move thousands of dollars, broadcast to millions, end a relationship, share a private image, summon a car, place a bet, or erase years of material. The physical action no longer communicates the social size of the consequence.
+
+Friction can restore scale.
+
+Not every large consequence needs a dramatic ritual, but some should feel larger than a tap.
+
+This principle extends beyond self-control into safety and dignity. The pause before forwarding intimate material. The review before publishing a child’s location. The warning before an irreversible deletion. The additional authentication before a risky transfer. These are not failures of elegant design. They are examples of the interface admitting that humans sometimes need a moment proportional to the action.
+
+There is a political version too.
+
+Public institutions often celebrate frictionless digital access because it lowers administrative cost. That can be good. Applying for a permit, renewing a document, paying a fee, or accessing benefits should not require unnecessary suffering.
+
+But administrative friction and protective friction are different.
+
+A citizen should not need twelve forms to prove eligibility for a basic service.
+
+A government should perhaps require more than one accidental tap before a person waives an important right.
+
+The mature digital state will know the difference.
+
+So will the mature smartphone.
+
+The language of friction should therefore stop meaning inefficiency by default.
+
+Some friction is waste.
+
+Some friction is consent.
+
+Some friction is memory.
+
+Some friction is safety.
+
+Some friction is a boundary between wanting and merely noticing.
+
+The hard part is not removing or adding it generally.
+
+The hard part is putting it in the right place.
+
+That requires judgment rather than a universal design slogan.
+
+The early smartphone era had a powerful slogan: make it seamless.
+
+The next era needs a more difficult one.
+
+Make the important things easy, the harmful mistakes harder, and the user’s prior intentions stronger than the nearest impulse.
