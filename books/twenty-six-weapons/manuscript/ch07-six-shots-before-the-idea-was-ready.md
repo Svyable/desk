@@ -219,3 +219,47 @@ That is the picture worth keeping.
 An inventor with a revolver that points toward the next century.
 
 A factory door that still closes.
+
+The failure becomes sharper when the government appears in the story as a skeptical customer rather than a shortsighted villain.
+
+Army evaluators had reasons to hesitate. Smithsonian research on early Colt arms notes that Ordnance officers were not convinced enough by the Paterson to create the sustained federal demand Colt needed. The design could be ingenious while still presenting a procurement officer with awkward questions. How durable was the mechanism? How quickly could an ordinary soldier learn it? How expensive would it be in quantity? What happened when something broke far from the factory? How much advantage did multiple shots actually buy relative to a simpler arm?
+
+Those questions are not evidence that the Army failed to understand history.
+
+They are what history looks like before the answer is known.
+
+The Paterson's strongest market was not a large federal standardization program. It was a patchwork: private buyers, small contracts, the Republic of Texas, and users whose specific circumstances made repeat fire unusually valuable. The NPS history of Coltsville estimates that the Paterson enterprise produced only several thousand firearms before collapsing. That is enough to create a technological lineage. It is not enough to make a stable industrial system.
+
+Scale did not follow novelty automatically.
+
+The Texas connection makes this especially clear. The Republic of Texas could buy revolvers for naval or ranger use without creating a national mass market. The Rangers could praise the weapon in particular fights without solving Colt's capital problem. Enthusiastic users are evidence of utility, not necessarily evidence of a viable factory.
+
+Modern technology companies rediscover this distinction constantly.
+
+A product can have devoted early adopters and still fail.
+
+Military startups can demonstrate an impressive prototype and still die between demonstrations and procurement programs. A government can say it likes a capability without buying enough units to sustain the supplier. A founder can be correct that a technology will eventually become standard and still run out of money years before the standard arrives.
+
+The Paterson is an unusually early American example because the later success became so enormous that the first collapse almost disappears beneath it.
+
+It should not.
+
+The collapse tells us what the mature Colt company had to become.
+
+It needed not only a better gun but a better production environment, a customer able to order at scale, a design adapted from field experience, and a manufacturing partner capable of bridging the gap while Colt rebuilt. The 1847 Walker order would provide those things in a combination the 1830s never managed.
+
+There is another uncomfortable reason the failure matters.
+
+A technology that does not scale cannot shape society as deeply as one that does.
+
+The Paterson may have changed particular fights. The later Colt system changed markets, labor, advertising, policing, military procurement, westward expansion, and the visual language of American violence because it could produce and sell far more weapons. Industrial success multiplies moral consequence along with economic consequence.
+
+The failed first factory therefore sits before a historical fork.
+
+Had the revolver remained expensive, fragile, and niche, it might have become a collector's curiosity attached to a few frontier episodes. Once the production and demand systems aligned, the same underlying idea became infrastructure for a culture.
+
+That is why this chapter should end before the comeback.
+
+Success makes the revolver familiar.
+
+Failure lets us see everything that familiarity required.
