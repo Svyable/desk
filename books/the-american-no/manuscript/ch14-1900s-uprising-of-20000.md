@@ -226,6 +226,56 @@ Police and courts mattered because enforcement shaped the picket line.
 
 A movement is an ecosystem of pressure.
 
+The Library of Congress account gives the scale enough definition to keep the mythology honest. The mass meeting at Cooper Union occurred on November 22, 1909. Lemlich spoke in Yiddish after a succession of male labor leaders. By the next day the walkout had spread into a strike that eventually affected more than three hundred and fifty garment factories and involved as many as thirty thousand workers.
+
+Those numbers matter because they show what the word general meant in practice. This was not one employer negotiating with one established local. The garment industry’s fragmented shop structure became the movement’s field. Every additional factory joining increased pressure on employers while increasing the union’s coordination burden.
+
+The strike therefore scaled in the opposite direction from Pullman. Pullman began with one company and spread through a national transportation network. The Uprising began in a fragmented industry and created scale by aggregating shops that had been useful to employers precisely because they were separate.
+
+Both tactics attack the architecture of the employer’s power.
+
+Pullman workers used network solidarity.
+
+Shirtwaist workers used aggregation.
+
+The settlements also deserve more specificity than the phrase “better conditions.” According to the Library of Congress, workers in many firms won a fifty-two-hour week, paid holidays, and an end to some charges for work-related materials, along with other wage and workplace concessions. The exact terms varied by shop, and the failure to secure comprehensive union recognition at major holdouts prevented the strike from becoming a total victory.
+
+That unevenness is politically important. A movement can win enough at hundreds of sites to change an industry while still fail on its most ambitious institutional demand.
+
+This is a different kind of success from a single law or court ruling. There was no one settlement document that transformed every shirtwaist shop. Change diffused through agreements, union growth, labor-market expectations, and the public visibility of working conditions.
+
+The labor movement often advances this way: not through one national switch, but through a new floor that competitors gradually find difficult to ignore.
+
+The strike’s cross-class alliance also deserves a harder look. The “mink brigade,” as wealthy women supporters were later nicknamed, helped bring bail money, press attention, and social status to picket lines. Their support made police mistreatment harder for some middle-class audiences to dismiss.
+
+But class difference did not disappear because women stood beside women.
+
+A wealthy ally could leave the picket line and return to a secure home. A garment worker could lose wages, face eviction, be blacklisted, assaulted, or arrested. The coalition’s members occupied the same sidewalk with very different exit options.
+
+That asymmetry is not a reason to reject allyship. It is a reason to understand what good allyship requires.
+
+The people with lower risk should spend their insulation rather than mistake it for equal sacrifice.
+
+The Women’s Trade Union League did some of that by supplying resources and public defense. It could not substitute for worker leadership because only workers could decide whether the terms were enough to return.
+
+The strongest runner-up for the 1900s is difficult because the decade produced major anti-monopoly, suffrage, racial-justice, and labor protest. One could choose the 1902 anthracite coal strike, where a national energy emergency pushed Theodore Roosevelt toward unprecedented presidential mediation. That event mattered enormously for the evolving federal role in labor conflict.
+
+The Uprising wins because it changes who the country can imagine as a labor actor. It does not merely force government to mediate a powerful male industrial workforce. It demonstrates that young immigrant women in a fragmented industry can create bargaining scale themselves.
+
+The chapter also creates an essential bridge from Seneca Falls to later women’s politics. Seneca Falls claimed formal political authority. Pawtucket proved women could exercise economic capacity before formal rights. The Uprising combines mass industrial power with public alliance-building at the moment suffrage is becoming increasingly national.
+
+The workers were not an illustration for the suffrage movement. Many were immigrants whose citizenship status and political priorities differed. Their significance is more direct.
+
+They made the proposition “women are political actors” too narrow.
+
+Women were also industrial actors capable of reorganizing an industry.
+
+That mattered when the Triangle fire arrived in 1911. The dead were not simply helpless victims whose suffering finally woke reformers. Workers in the same industry had already organized, struck, negotiated, and warned.
+
+The fire entered a political field they had helped build.
+
+That is a less sentimental history and a more accurate one.
+
 The Uprising of the 20,000 is the decade when that ecosystem becomes unmistakably female, immigrant, industrial, multilingual, and urban.
 
 The country had spent the nineteenth century learning that workers could stop production.
