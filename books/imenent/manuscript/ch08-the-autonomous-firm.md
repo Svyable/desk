@@ -514,6 +514,114 @@ It pays for redundant infrastructure even though one system is cheaper.
 
 Human re-entry capacity can be treated the same way.
 
+A particularly useful control would be to separate **continuity of ownership** from **continuity of operation** in board reporting.
+
+Boards already ask whether the company has enough cash, whether key executives can be replaced, whether cyber incidents can be recovered from, and whether suppliers are concentrated. An autonomous firm should add another question: which critical functions cease if the preferred machine operating layer is unavailable or untrusted?
+
+This creates a different map of the company.
+
+Not departments.
+
+Dependencies.
+
+The payment function may depend on one model only for exception analysis.
+
+Customer support may be almost fully machine-operated.
+
+Product deployment may depend on an agent for orchestration but retain human engineers who can restore service.
+
+Procurement may have no practical manual equivalent at current scale.
+
+The board can then see where legal control rests on operational fragility.
+
+This is more useful than one corporate number saying seventy percent of work is automated.
+
+Automation share does not reveal re-entry.
+
+A company can automate ninety percent of low-consequence work and remain highly recoverable.
+
+It can automate one small but central coordination function and become fragile.
+
+Centrality matters more than raw percentage.
+
+This leads to another concept: **organizational choke cognition**.
+
+Some cognitive functions sit at points through which many other functions must pass.
+
+Treasury coordination.
+
+Identity and authorization.
+
+Production deployment.
+
+Regulatory interpretation.
+
+Inventory allocation.
+
+Crisis coordination.
+
+A firm may retain humans everywhere else and become unable to operate if one of these machine-run cognitive chokepoints disappears.
+
+The company does not need to preserve human replicas of every automated role.
+
+It needs to understand which cognitive chokepoints require independent recovery paths.
+
+That can mean a second model.
+
+A human team.
+
+A simpler deterministic mode.
+
+A different vendor.
+
+A contractual contingency.
+
+A deliberately reduced business mode.
+
+The right fallback will vary.
+
+The key is knowing the chokepoint before the incident.
+
+Autonomous firms also create new questions about **corporate memory ownership**.
+
+If the machine operating layer learns the practical history of customers, suppliers, incidents, exceptions, and internal decisions, where does that memory live?
+
+Can the company export it?
+
+Can another system interpret it?
+
+Does the model provider control part of the context required to make it useful?
+
+Do deleted agents take tacit operating knowledge with them?
+
+Can a human read enough of the memory to challenge a decision?
+
+A firm that owns its database but cannot transfer the practical context in which the database is used may discover a new kind of vendor dependence.
+
+This matters because organizational memory is one of the things that lets an institution survive employee turnover.
+
+The corporation is artificial partly because records and routines outlive individuals.
+
+If those records and routines become inseparable from one machine layer, the autonomous firm becomes less institutionally immortal than it appears.
+
+It can outlive every employee and still become hostage to one operating stack.
+
+A robust autonomous firm should therefore treat machine memory as corporate state, not merely product convenience.
+
+Version it where appropriate.
+
+Separate durable institutional facts from one model's transient summaries.
+
+Make critical preferences and exceptions portable.
+
+Preserve the evidence behind important memories.
+
+Know what disappears if the agent is replaced.
+
+This is not a demand that every conversation become a permanent record. Privacy and minimization matter too.
+
+The firm needs a deliberate memory architecture rather than an accidental one.
+
 The strange thing about the autonomous firm is that its success may make the case for resilience harder.
 
 Every month the agents perform well is another month in which fallback looks wasteful.
@@ -521,6 +629,8 @@ Every month the agents perform well is another month in which fallback looks was
 Every expansion enabled by automation increases the scale humans would have to resume.
 
 Every year of machine-native staffing reduces the number of people who remember the earlier organization.
+
+Every layer of machine memory makes the firm easier to operate normally and potentially harder to reconstruct independently.
 
 The safer the normal operation feels, the more expensive abnormal readiness looks.
 
