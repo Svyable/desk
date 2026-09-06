@@ -174,6 +174,78 @@ That refusal can be read as prudence. It can also be read as limitation. The jud
 
 This book does not need to settle the philosophy to recognize the significance of the test.
 
+The financing of Kossuth’s cause makes the boundary between sympathy and policy even clearer. A revolutionary movement without a recognized state cannot rely on ordinary taxation, sovereign borrowing, or diplomatic channels. It has to find resources through exile networks, donations, sympathetic associations, publications, speaking tours, and private commitments. Public opinion becomes not merely moral atmosphere but infrastructure.
+
+Kossuth’s American tour therefore had a fundraising logic alongside its ideological one.
+
+Money raised from sympathizers could support political organization and the hope of renewed struggle. That made the trip more concrete than a lecture tour and less formal than state diplomacy. Americans who donated were exercising a private form of foreign policy without committing the federal government to war.
+
+This intermediate space is important.
+
+The choice is not always intervention or indifference. Citizens can send money, weapons, medical aid, volunteers, lobbying support, or publicity to foreign causes while their government remains formally neutral or limited. Governments can tolerate, regulate, discourage, or sometimes covertly encourage those private flows.
+
+Kossuth operated in that ambiguous zone before modern humanitarian organizations, political action networks, and digital crowdfunding made transnational mobilization ordinary.
+
+The ambiguity also created political risk. A foreign leader who raises money and organizes supporters can begin to look less like a guest and more like a participant in domestic politics. Opponents can accuse him of manipulating voters or exploiting hospitality. Supporters can pressure American politicians to prove their principles by moving closer to his program.
+
+Citizen Genêt had demonstrated the danger of trying to turn popular enthusiasm into unauthorized military action. Kossuth stayed on the political side of that line, but the comparison was available to anyone suspicious of foreign agitation.
+
+The difference between the two visitors shows how the republic’s tolerance had matured.
+
+Kossuth could make speeches across the country, criticize restraint, raise support, and try to change American policy without the government treating persuasion itself as an assault on sovereignty. The constitutional system had room for a foreign political campaign so long as the campaign did not claim governmental authority it did not possess.
+
+That is a significant democratic capacity.
+
+It is also vulnerable to money and celebrity.
+
+Kossuth’s mastery of American rhetoric gave him unusual leverage because he did not ask audiences to adopt a foreign moral vocabulary. He spoke in theirs. He invoked the Revolution, Washington, independence, and the obligations of a republic. That technique would become standard for visiting leaders. The most effective foreign speech in America often sounds partly American because it activates stories the audience already trusts.
+
+There is nothing inherently manipulative about that. Diplomacy is translation.
+
+The danger appears when analogy substitutes for evidence. Kossuth’s Hungary and Washington’s colonies were not politically identical. The Habsburg lands contained multiple national communities with competing claims. Russia’s intervention operated inside a European balance of power very different from France’s aid to the American Revolution. A policy justified by the emotional resemblance could have produced commitments far larger than the resemblance warranted.
+
+Americans were right to ask where the analogy stopped.
+
+They were less eager to ask where their own self-image stopped.
+
+The timing of the visit makes that avoidance stark. The Compromise of 1850 and Fugitive Slave Act were fresh political facts. Federal power was being used to capture people who had escaped slavery while audiences applauded a European exile for resisting imperial domination. Northern resistance to the Fugitive Slave Act was growing. Southern politicians were increasingly defensive of slavery as a constitutional right. The country’s most dangerous liberty question was not across the Atlantic.
+
+Kossuth had to navigate that domestic conflict carefully because taking a side could destroy the broad coalition he needed.
+
+That strategic restraint has moral costs. A foreign petitioner who needs support from both slave and free states has incentives not to make American slavery the test of American sincerity. His dependence on the audience limits how hard he can use the mirror he holds up to them.
+
+This is another recurring feature of visitor diplomacy.
+
+Foreign leaders often praise the host country more than a detached historian would because they need something. Even dissidents who admire American ideals may soften criticism of American practice if criticism would close doors. Hospitality creates leverage in both directions.
+
+Kossuth was not simply manipulating America.
+
+America was disciplining Kossuth through the structure of the support he sought.
+
+The domestic party system amplified that pressure. Whigs and Democrats could compete to claim sympathy for liberty while calculating the electoral consequences of any concrete commitment. Ethnic constituencies with memories of Europe mattered. Newspapers could turn a phrase into a partisan weapon. Kossuth’s reception therefore became part of the machinery by which foreign events entered national campaigning.
+
+That process would expand as immigration diversified American politics. Irish Americans, German Americans, Jewish Americans, Polish Americans, Cuban Americans, Armenian Americans, Ukrainian Americans, and many other communities would later connect domestic voting behavior to events in ancestral homelands. Foreign policy could not be quarantined from the electorate because the electorate contained the world.
+
+Kossuth’s visit arrived early enough to make the mechanism visible before it became normal.
+
+A further counterfactual clarifies why restraint prevailed. Suppose the United States had adopted Kossuth’s principle in a form strong enough to deter Russian or Habsburg intervention in Hungary. Deterrence would have required credible willingness to impose costs. Diplomatic protest alone had already failed. Economic sanctions in the modern sense were not a mature substitute for force. Naval or military commitments in Europe would have required capabilities, allies, logistics, and political endurance the United States had not organized around a Hungarian contingency.
+
+The policy would therefore have been easy to announce and hard to make credible.
+
+An unenforced doctrine can weaken a state more than silence if adversaries learn that its red lines are rhetorical. Kossuth was asking America not merely to care but to convert care into a credible instrument.
+
+His critics understood that credibility has a budget.
+
+The opposite counterfactual is less dramatic. Suppose Americans had refused him entry or denied him the extraordinary public platform because they knew they would not adopt his program. The United States would have avoided the appearance of hypocrisy, but it also would have narrowed its civic life. A democracy can listen to a foreign revolutionary without promising to fight his war. Hospitality need not equal alliance.
+
+That may be the most durable achievement of the episode.
+
+The country learned to separate the right of a foreign cause to make its case from the obligation of the government to adopt it.
+
+That separation is not morally satisfying to someone whose revolution has been crushed.
+
+It is politically necessary for a state that wants public debate without allowing every powerful appeal to become a security commitment.
+
 Other foreign dignitaries could claim the 1850s. Britain’s representatives remained central to disputes over Central America, maritime rights, and the coming Civil War. Diplomats from Mexico and the Caribbean interacted with an increasingly expansionist United States. European powers watched American filibustering and territorial ambition with alarm. The decade was full of external relationships that mattered.
 
 Kossuth wins because the visit became a nationwide referendum on an American self-image.
