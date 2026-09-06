@@ -112,6 +112,82 @@ That requirement will seem mundane to anyone who builds hardware. It is also whe
 
 Reliability is time made visible.
 
+The energy argument itself deserves more precision because “voltage control” can sound like a synonym for “free.”
+
+Charging a small capacitance to a voltage stores energy. If the voltage is later discharged conventionally, much of that energy is dissipated somewhere in the circuit. The advantage is that the active region does not necessarily need a sustained current flowing through a resistive path. But drivers have resistance, capacitance exists in wiring as well as in the ideal device, and leakage can turn a nominally field-driven mechanism back into continuous power loss.
+
+The device only saves energy if the whole electrical path does.
+
+This matters enormously at scale. A femtojoule-scale active event can sit behind a much larger interconnect capacitance. A voltage-controlled magnetic cell may be tiny while the line that selects it runs across an array. Charging and discharging that line for each operation can dominate.
+
+The lesson is identical to the spintronic chapter: local physics has to survive global wiring.
+
+Voltage control can still offer another advantage that current-generated magnetic fields struggle with: spatial selectivity.
+
+An electrode can address a nanoscale region directly. A current line producing magnetic field spreads that field through surrounding space. If a memory array needs one cell changed while neighbors remain untouched, local electric-field control can reduce the need to create a large magnetic field gradient at microscopic scale.
+
+This is a form of geometric compression.
+
+The source and target collapse onto the same interface. Instead of designing space between a remote coil and a magnetic region, the device engineer designs an interface a few atomic layers or nanometers across.
+
+The price is fabrication difficulty.
+
+At a mechanically coupled interface, strain transfer can be incomplete. A piezoelectric layer may expand in one direction while the magnetic layer is constrained by a substrate. Part of the desired deformation disappears into clamping. At an exchange-coupled interface, atomic roughness or intermixing can alter the interaction. At a charge-mediated interface, screening confines electric effects to very short distances.
+
+The shorter the control path, the more important the interface becomes.
+
+This is a general nanotechnology principle. Macroscopic components can tolerate imperfect surfaces because the bulk dominates. Thin films can be mostly interface. A one-nanometer damaged layer is negligible on a centimeter magnet and decisive in a device only a few nanometers thick.
+
+Manufacturing therefore needs metrology capable of seeing the layers that control the coupling.
+
+This is where electron microscopy, diffraction, surface analysis and nanoscale magnetic imaging become part of device development even if none appears in the final product. The factory has to measure what the customer will never see.
+
+There is also a difference between *tuning* a magnetic state and *switching* it.
+
+A voltage may shift magnetic anisotropy slightly without being strong enough to move the system into another persistent state. That small tunability can still be useful in oscillators, filters or assisted switching. One control input lowers an energy barrier; another, perhaps a smaller current or field, finishes the transition.
+
+Hybrid writing can beat pure writing.
+
+This is an important architectural option because the best control mechanism does not need to do the whole job. A voltage can reduce the current required for spin-torque switching. Strain can orient an easy axis before another stimulus selects the final state. A global magnetic bias can put the material near a sensitive operating point while local voltage chooses the active region.
+
+The value lies in how control responsibilities are divided.
+
+This is similar to a mechanical machine in which a spring carries static load while a motor supplies only incremental motion. The motor becomes smaller because the passive element handles what would otherwise be continuous effort.
+
+Magnetic systems can use bias fields the same way.
+
+A permanent magnet or shared coil can establish a baseline. Local magnetoelectric elements make small changes around it. The field infrastructure supplies common mode; the voltage interface supplies selectivity.
+
+This hybrid architecture could matter because generating a strong uniform field is often easier than generating many independent strong gradients. Local material tuning can convert a shared field into differentiated behavior.
+
+That pattern reaches beyond chips. A soft structure could contain regions whose magnetic susceptibility or anisotropy is changed electrically, allowing one global field to act differently across the body. Such systems remain research directions, but the control logic is powerful: move complexity from the field source into addressable material response.
+
+The field no longer has to carry every bit of spatial information.
+
+Sensing in the reverse direction has its own system challenge: noise.
+
+A magnetoelectric sensor can convert magnetic field into voltage through mechanical coupling, but mechanical structures resonate, temperature changes dimensions, acoustic vibration produces strain and electrodes pick up electrical interference. A sensor designed to detect a tiny magnetic signal may be excellent at detecting everything else too.
+
+Selectivity again becomes architecture.
+
+One approach is frequency. Design the mechanical resonance near the signal band and reject much of the rest. Another is differential sensing: use paired structures so common vibration cancels while magnetic response differs. Another is modulation: deliberately move the magnetic signal into a frequency range where the sensor is quieter.
+
+The conversion chain can be engineered in both directions.
+
+This makes magnetoelectric devices especially interesting for self-test. If one structure can act as both sensor and actuator under different drive conditions, a controller may inject a known electrical stimulus and verify the magnetic-mechanical response, or apply a known magnetic condition and verify the electrical output. Reciprocity can provide calibration pathways.
+
+The same bridge that carries the signal can reveal whether the bridge is intact.
+
+But reciprocity is rarely perfect. Loss, hysteresis and nonlinearities differ by direction. A self-test can verify some failure modes and miss others. Mature systems will need explicit fault models rather than assuming that bidirectional coupling means complete observability.
+
+The economic question is ultimately not “Is voltage better than current?”
+
+It is “Which control variable lets the entire stack become smaller, cooler, more selective or more reliable?”
+
+In a memory array, voltage may reduce write energy. In a reconfigurable microwave device, it may eliminate a bulky bias coil. In a sensor, mechanical-electrical conversion may bring the signal directly into electronics. In another application, a simple current loop may remain cheaper and more robust.
+
+Magnetecture is not committed to a winner. It is committed to accounting.
+
 This chapter began with energy because low-power switching is the most obvious magnetoelectric promise. It ends with a broader one.
 
 Voltage is the native control language of electronics. Magnetism is a rich physical state. If the boundary between them becomes cheap and local, magnetic behavior becomes much easier to integrate into ordinary systems.
