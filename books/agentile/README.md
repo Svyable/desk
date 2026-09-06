@@ -32,9 +32,9 @@ The complete first draft contains front matter, all 18 planned numbered chapters
 - [x] [Ch 12 — The Skill of Having Work Done](manuscript/ch12-the-skill-of-having-work-done.md)
 - [x] [Ch 13 — Wages Without Workers](manuscript/ch13-wages-without-workers.md)
 - [x] [Ch 14 — Who Owns the Agentile Force](manuscript/ch14-who-owns-the-agentile-force.md)
-- [x] [Ch 15 — The Verification Economy](manuscript/ch15-verification-economy.md)
+- [x] [Ch 15 — The Verification Economy](manuscript/ch15-the-verification-economy.md)
 - [x] [Ch 16 — Agents Among Agents](manuscript/ch16-agents-among-agents.md)
-- [x] [Ch 17 — The State Gets Agents Too](manuscript/ch17-state-gets-agents-too.md)
+- [x] [Ch 17 — The State Gets Agents Too](manuscript/ch17-the-state-gets-agents-too.md)
 - [x] [Ch 18 — A New Force](manuscript/ch18-a-new-force.md)
 - [x] [Back Matter](manuscript/back-matter.md)
 
