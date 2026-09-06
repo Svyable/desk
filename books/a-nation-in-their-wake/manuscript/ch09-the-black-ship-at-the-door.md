@@ -28,6 +28,14 @@ Perry arrived to change the terms.
 
 American whaling provides part of the practical context. By the mid-nineteenth century U.S. whalers ranged deep into the Pacific, creating demand for safe harbors, supplies, and assistance to shipwrecked crews. Commerce with China had also expanded dramatically since the *Empress of China*. The acquisition of California and the growth of Pacific ports after the Gold Rush made Asia feel strategically closer to the United States even though the ocean had not shrunk.
 
+The United States was also not the only foreign power pressing on Japan's controlled system. Russian, British, Dutch, and other Western interests existed around the same region. Japanese officials did not confront a binary choice between opening to America and preserving an untouched old order. They faced a wider strategic environment in which refusing one power could leave them exposed to another.
+
+That matters because coercion works partly through alternatives.
+
+A weaker state may sign an agreement not because the stronger state's demands are irresistible in isolation but because the surrounding options are worse. Delay may invite another fleet. Resistance may expose coastal weakness. Accepting one limited agreement may buy time to learn before negotiating the next.
+
+Japan's response therefore deserves to be understood as strategy under constraint rather than passive submission.
+
 Steam intensified the need for infrastructure.
 
 A sailing ship could draw propulsion from wind. A steam navy required fuel. Coal became a strategic commodity because a steamship without access to it lost the very independence from wind that made the technology valuable. Ports with coaling facilities became nodes in a network of mobility.
@@ -40,9 +48,39 @@ The same pattern will later appear with oil, aviation, nuclear maintenance, unde
 
 Perry's mission was an early steam-age version.
 
-He had prepared carefully. The United States had made earlier, unsuccessful attempts to establish relations with Japan. Perry approached with a larger and more intimidating force, rejected instructions to deal only through Nagasaki, and insisted on delivering the presidential letter to high-ranking representatives closer to Edo.
+The fuel question is more important than it first appears because it changes the moral geometry of technology. Steam is usually narrated as emancipation from nature. The ship no longer waits entirely on wind. It can move when the commander chooses.
+
+But control at the point of use requires dependence somewhere else.
+
+Coal has to be mined.
+
+It has to be transported.
+
+It has to be stored near the route.
+
+Workers have to load it.
+
+Governments or merchants have to permit access.
+
+A technology that makes the ship more autonomous can make the state more interested in foreign harbors.
+
+This is a recurring feature of modern power. More capable platforms require denser support systems. The machine looks independent because the network beneath it has become invisible.
+
+Perry had prepared carefully. The United States had made earlier, unsuccessful attempts to establish relations with Japan. Perry approached with a larger and more intimidating force, rejected instructions to deal only through Nagasaki, and insisted on delivering the presidential letter to high-ranking representatives closer to Edo.
 
 The demand was not an ultimatum in the narrow sense of an immediate deadline backed by a declared attack. The coercive setting was nevertheless obvious. The squadron had entered Japanese waters with modern warships and substantial armament. Perry used ceremony, controlled access, military display, and refusal to accept lower-level alternatives to communicate that the United States considered itself entitled to direct negotiation.
+
+Ceremony deserves to remain in the story because coercion is rarely conveyed by guns alone.
+
+Rank, procession, uniforms, gifts, salutes, controlled meetings, and the physical arrangement of negotiation all tell the receiving side what relationship the sender expects. Perry wanted his delegation to appear orderly, technologically sophisticated, and difficult to dismiss.
+
+Power was being staged before it was bargained.
+
+The Japanese side staged power too. Officials managed access, selected representatives, controlled spaces, gathered intelligence, translated documents, and tried to understand the Americans' intentions without conceding more than necessary.
+
+Diplomacy under inequality is still diplomacy.
+
+The weaker party can delay, narrow, reinterpret, learn, divide opponents, and use domestic procedure to change the pace.
 
 He left after delivering the letter and promised to return.
 
@@ -52,11 +90,31 @@ Japan had time to debate.
 
 The shogunate faced a problem for which no answer was costless. Refusing the Americans risked military confrontation. Accepting demands could undermine existing policy, political legitimacy, and the controlled structure of foreign relations. The appearance of technologically advanced foreign warships exposed weaknesses in Japanese coastal defense and intensified domestic arguments over how the country should respond to Western power.
 
+The months between Perry's visits converted spectacle into internal politics.
+
+Officials had to ask not simply whether the Americans were dangerous but what the encounter revealed about Japanese institutions. Coastal defenses could be improved. Foreign knowledge could be studied more aggressively. Political authority could be challenged by factions that regarded accommodation as weakness or resistance as suicidal.
+
+External pressure becomes domestic redistribution when it changes whose advice sounds credible.
+
+A military shock can raise the status of engineers, translators, reformers, or military specialists whose warnings had been easier to ignore before the shock.
+
+That is one reason technological demonstrations have effects larger than the machine on display.
+
 When Perry returned in 1854 with a larger force, negotiations produced the Convention of Kanagawa.
 
 The agreement opened Shimoda and Hakodate to American vessels for provisions and assistance, established protections for shipwrecked Americans, and created a basis for an American consular presence. It did not instantly create the full commercial relationship later treaties would impose. The opening occurred in stages.
 
 But the door had moved.
+
+The staging matters for historical accuracy because “Perry opened Japan” compresses a long process into one man's arrival. The phrase gives the American commander too much agency and Japan too little.
+
+Perry's expedition mattered enormously.
+
+So did what Japanese actors did with the pressure afterward.
+
+Later treaties, domestic political conflict, the fall of the Tokugawa shogunate, the Meiji Restoration, industrialization, and Japanese imperial expansion were not clauses hidden inside Fillmore's letter. They were choices, conflicts, adaptations, and responses made over years.
+
+A ship can initiate a new condition without determining its final outcome.
 
 For the United States, the mission was often celebrated as a diplomatic success and an extension of Pacific commerce. For Japan, Perry's arrival became one of the shocks that helped destabilize the Tokugawa political order and accelerate debates over military modernization, foreign knowledge, sovereignty, and national survival.
 
@@ -72,6 +130,8 @@ Power teaches.
 
 Sometimes the lesson is imitation.
 
+Sometimes the lesson is to build a different form of power before the teacher returns.
+
 A display intended to secure advantage can also educate the target about what capability looks like. The weaker state observes the machinery, organization, doctrine, and industrial base behind the threat. If it has enough internal capacity and political freedom to adapt, coercion can accelerate the development of a future competitor.
 
 The *Susquehanna* chapter therefore complicates triumphalist accounts of technological superiority.
@@ -85,6 +145,16 @@ The United States itself had learned this after confrontation with Britain. Brit
 The cycle is common in military history. One state innovates. Another is shocked. The shocked state copies, adapts, leapfrogs, or fails. The original advantage erodes.
 
 Technological leadership must be renewed because demonstration spreads knowledge.
+
+This is one reason the strongest alternative ship for the decade still loses to *Susquehanna*. A historian interested chiefly in American commercial speed might choose the clipper *Flying Cloud*, which became famous for rapid passages to California during the age when elegant sailing ships reached extraordinary performance before steam displaced them in much long-distance service.
+
+That would make a beautiful chapter about a technology reaching maturity just as another technology changes the market.
+
+*Susquehanna* reaches farther.
+
+The steam frigate does not merely demonstrate a technology.
+
+It demonstrates a change in who can impose the consequences of technology on another state.
 
 The political consequences of Perry's mission also show why ships can change societies they barely enter.
 
@@ -153,6 +223,22 @@ At home, the republic was becoming unable to resolve its foundational contradict
 Abroad, it was becoming powerful enough to coerce access from another sovereign government.
 
 Capacity was growing faster than cohesion.
+
+The contrast also prevents a common error in national history: treating domestic crisis as if the rest of the world stops while the country looks inward.
+
+American merchants still sailed.
+
+Whalers still crossed the Pacific.
+
+Diplomats still negotiated.
+
+The Navy still deployed.
+
+California still tied the republic to Asian commerce.
+
+A country can be disintegrating politically and expanding strategically at the same time.
+
+That combination is more dangerous than either condition alone because external capability can continue growing while domestic agreement over its legitimate use collapses.
 
 This would matter enormously after the Civil War. The industrial mobilization required to defeat the Confederacy would deepen federal administrative capacity and accelerate technologies that later supported American overseas power. The Navy would shift rapidly from wood toward iron and steam. A stronger national government would emerge from the conflict.
 
