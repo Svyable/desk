@@ -237,3 +237,69 @@ Sport needs a scene.
 History needs the structure behind it.
 
 Billie Jean King gave us both.
+
+The market-making point deserves to be carried further because it is one of the most common errors in arguments about women’s sports. Revenue at a given moment is often treated as a natural fact about demand, as though the audience emerged without scheduling, promotion, production quality, media placement, venue access, and decades of prior investment. But sports demand is path dependent. A league repeatedly placed on national television has a different chance to create stars than one shown irregularly. A child offered school competition develops differently from one told there is no team.
+
+King’s importance is partly that she recognized the loop early. Better professional conditions could keep elite women in the sport. A deeper field could create better matches. Better matches could attract attention. Attention could justify sponsorship. Sponsorship could finance a more stable tour. A stable tour could create careers young players could imagine joining.
+
+The institution was not merely distributing prize money. It was producing the future supply of athletes.
+
+This is why the relationship between Title IX and professional women’s sport matters even though King’s WTA work was not a Title IX program. Education policy changed the number of girls and young women with structured access to athletics. Professional institutions changed the value of staying in athletics long enough to become elite adults. The pipeline and the destination reinforced one another.
+
+The effects were not immediate and not uniform across sports. Women’s professional leagues have repeatedly formed, struggled, folded, and re-formed. Media coverage remained unequal. Compensation gaps persisted. But the 1970s established a different baseline: a woman athlete could argue not only for permission to play but for control over the economic institution in which she played.
+
+That is a major step in the book’s ownership arc.
+
+Austin Curtis could not own himself at the beginning of his career. Abe Hawkins could be nationally famous while enslaved. Jackie Robinson could enter a major league only under behavioral constraints designed to make integration survive. Ali asserted sovereignty over identity and conscience. King adds collective economic sovereignty: the players can create an organization rather than accept a tour designed entirely by others.
+
+The unit of power has changed from one body to a body of athletes.
+
+That shift is why the Original 9 matters so much. The risk of a breakaway is a reminder that institutions can be replaced if enough scarce talent coordinates. The players were not asking an existing authority to become nicer. They were testing whether the authority was necessary.
+
+Every sports labor negotiation contains a version of that question. What does the league own that players cannot reproduce? What do players own that the league cannot reproduce? Venues, brands, broadcast contracts, history, and capital matter. So does the fact that no championship exists without athletes. The balance between those assets determines bargaining power.
+
+King helped women players discover theirs.
+
+The challenger test for the 1970s is unusually brutal because Muhammad Ali’s competitive peak after exile produced the Fight of the Century, the upset of George Foreman in Zaire, and the Thrilla in Manila. Hank Aaron’s 715th home run in 1974 also forced the country to watch a Black player pass Babe Ruth’s most famous career record while Aaron endured racist threats. Kareem Abdul-Jabbar combined dominance with public intellectual independence and a name change that carried religious and cultural meaning.
+
+Any one of them could anchor a serious book about the decade.
+
+King still wins on institutional persistence. Ali’s fights altered culture and boxing mythology. Aaron altered baseball’s record book and the racial meaning attached to its most sacred number. Abdul-Jabbar altered basketball and public expectations of the thoughtful athlete. King helped create a durable governing body for women’s professional tennis and helped normalize equal prize money at a major tournament. The structure continued operating when she was no longer on court.
+
+That persistence is the tiebreaker.
+
+It also provides a useful measure for contemporary claims about athlete activism. A viral moment can matter. A statement can matter. A boycott can matter. But one of the strongest tests of impact is whether the action changes rules, money, ownership, representation, scheduling, or institutional capacity after attention moves elsewhere.
+
+King passed that test.
+
+The Battle of the Sexes may actually obscure this achievement because it flatters the public’s preferred model of change: one star, one villain, one night, one score. It is much easier to remember than meeting rooms, sponsorship negotiations, player coordination, travel calendars, and governance.
+
+But history is usually made in both places.
+
+The spectacle creates attention.
+
+The meeting decides where the attention goes.
+
+King was unusually good at both.
+
+There is another consequence worth naming. Once women’s tennis became commercially powerful enough to produce globally famous stars, those later players inherited negotiating leverage King’s generation had helped create. Chris Evert and Martina Navratilova expanded the market. Steffi Graf inherited it and enlarged it. Venus Williams later became central to the push for equal prize money at Wimbledon. Serena Williams became a global cultural and commercial force whose career made any claim that women’s tennis could not sustain superstar economics look increasingly absurd.
+
+Institution-building compounds.
+
+The later star does not owe every success to the pioneer, and the pioneer does not get credit for every later dollar. The causal claim is narrower: creating a durable professional structure changes the opportunity set into which future talent arrives.
+
+That is enough.
+
+King’s sexuality also shows why institutional power matters beyond prize money. When sponsors withdrew after she was outed, the commercial market reminded her that individual endorsement value could depend on conformity. A player organization and a sport with an established audience could not eliminate that punishment, but they created forms of legitimacy not reducible to a single company’s brand calculation.
+
+The athlete who owns only endorsements is powerful until the endorsers change their minds.
+
+The athlete who helps build institutions has another source of power.
+
+This is one of the reasons King’s story belongs in a 250-year history rather than only a history of women’s tennis. She marks a transformation in what sports labor can do with fame.
+
+The star can stop being the product for a moment and help design the market.
+
+That is more than a victory.
+
+It is authorship.
