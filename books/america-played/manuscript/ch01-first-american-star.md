@@ -115,3 +115,85 @@ That is why Austin Curtis gets three decades.
 The repetition is not a failure to find three names.
 
 It is the point.
+
+## The challenger test: why three decades can belong to one man
+
+A list of one athlete per decade creates a visual expectation before it creates a historical one. The eye wants twenty-six different faces. Repetition looks like a failure of imagination.
+
+That is precisely why Curtis has to remain.
+
+If I replaced him in the 1780s or 1790s with a thinner candidate merely to satisfy the design, the book would commit the same error it is trying to diagnose: confusing the neatness of the archive with the messiness of the past. The founding sporting world did not organize itself into ten-year award cycles. Careers crossed wars, legal regimes, migrations, and changes in status. The decade is our measuring device, not theirs.
+
+The strongest challenger to Curtis is therefore not one specific athlete. It is the argument that no person should be allowed to occupy three consecutive slots because the method should reward variety.
+
+That argument loses because variety is not one of the criteria.
+
+Competitive authority matters. Institutional meaning matters. Cultural reach matters. Downstream inheritance matters. And, in the earliest period, the ability of the surviving archive to connect those things matters because we cannot responsibly fill gaps with confidence we do not possess.
+
+Curtis gives us an unusually rare continuous record. North Carolina’s own historical interpretation now preserves the 1791 petition and emancipation act, including the claim that his wartime protection of Willie Jones’s horses was remembered as evidence of fidelity and service. The same state historical material describes the free Curtis as gaining wealth and national renown as a horse breeder and trainer. That does not prove he was the fastest rider in every race between 1770 and 1799. It proves something more relevant to this book: his sporting expertise remained socially legible across three different legal identities—enslaved athlete, Revolutionary-era horseman, free professional.
+
+The change in status lets us see what slavery had hidden.
+
+Before emancipation, economic value generated through Curtis’s knowledge could be appropriated within a property relationship. After emancipation, the knowledge did not vanish. The social system around the same expertise changed. That makes Curtis a kind of historical control case without pretending history is a laboratory.
+
+The horseman is continuous.
+
+The law is not.
+
+That distinction matters for the book’s long argument about ownership because it prevents a common intellectual shortcut. Later chapters will discuss reserve clauses, amateurism rules, promoters, league restrictions, salary caps, sponsor expectations, and other forms of control over athletes. None of them should be casually equated with slavery. The reason to begin with literal ownership is to make the differences sharper, not blur them.
+
+Slavery meant property in the person.
+
+A restrictive contract means something else.
+
+A sponsor clause means something else again.
+
+The continuity is the question—who captures value, who controls mobility, who decides how the body may be used—not the legal severity of the answer.
+
+Curtis establishes the most extreme starting point.
+
+He also changes how we should read later integration stories. If Black athletic expertise is present before national independence, then Black participation cannot be narrated primarily as an arrival into sports somebody else built. The nineteenth-century chapters will show Black jockeys shaping racing at its highest level. The twentieth-century chapters will show formal barriers in baseball, boxing, golf, and other sports. Those barriers are not proof that Black athletes were historically absent. Often they are proof that institutions became better at excluding people whose skill was already known.
+
+That reversal matters.
+
+It means some of American sports history is not a story of entry.
+
+It is a story of erasure followed by return.
+
+Curtis also gives us the first example of expertise surviving the sporting event. His value was not exhausted at the finish line. Training, breeding, animal judgment, stable management, and reputation could produce an afterlife for athletic knowledge. Modern sports industries treat this as ordinary. Retired players become coaches, executives, commentators, investors, academy founders, and owners. Knowledge migrates from body to institution.
+
+Curtis’s later horse career suggests an early version of that migration under radically different conditions.
+
+The athlete becomes more than the performance because the performance teaches something transferable.
+
+That is another reason his story deserves the space of three decades. If we chose one race and moved on, we would miss the transformation from exploited expertise to partially self-directed expertise. The legal change matters because the sporting knowledge remains.
+
+The archive still requires humility. We should not invent a complete win-loss record. We should not transform every later compliment into proof of nationwide celebrity at modern scale. We should not assume the emancipation petition captures Curtis’s own understanding of his life; it records how powerful men represented his case to lawmakers. The words of a petition are evidence and advocacy at once.
+
+That distinction will matter again throughout the book. Newspaper praise can be reporting and promotion. Hall of Fame language can preserve fact and celebrate legacy. Official records can certify results while omitting the social world around them.
+
+Every source has a job.
+
+The 1791 act can tell us Curtis was legally emancipated.
+
+It cannot tell us what freedom felt like.
+
+The racing record can tell us he was respected as a horseman.
+
+It cannot give us every race he rode.
+
+The later reputation can tell us his expertise endured.
+
+It cannot repair everything the archive failed to preserve while he was enslaved.
+
+That is enough.
+
+The first chapter therefore sets not only the book’s subject but its evidentiary rule. When the record is strong, say the strong thing. When the record is partial, preserve the partiality. When a legend improves the story but weakens the evidence, choose the evidence.
+
+America was already using sport to turn bodies into public meaning before the republic had a constitution.
+
+Austin Curtis was already showing the country that an athlete could be central to the spectacle and denied ownership of himself.
+
+Three decades later, his freedom made the contradiction easier to see.
+
+The book will spend the next two centuries watching athletes negotiate the distance between those two conditions.
