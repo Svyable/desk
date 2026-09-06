@@ -2,7 +2,7 @@
 
 The battle had been over for years when the rifleman began winning it again.
 
-In January 1815, outside New Orleans, Andrew Jackson's force defeated a British attack so decisively that the battle became one of the young republic's favorite military memories. The timing helped. The Treaty of Ghent had already been signed across the Atlantic, but news traveled slowly. The victory did not produce the peace treaty, yet it arrived in American public consciousness close enough to the treaty to feel like a triumphant final word.
+In January 1815, outside New Orleans, Andrew Jackson's force defeated a British attack so decisively that the battle became one of the young republic's favorite military memories. The timing helped. The Treaty of Ghent had already been signed across the Atlantic on December 24, 1814, but news traveled slowly. The victory did not produce the peace treaty, yet it arrived in American public consciousness close enough to the treaty to feel like a triumphant final word.
 
 The story grew cleaner as it traveled.
 
@@ -32,7 +32,9 @@ The smoothbore musket sacrificed individual accuracy for loading speed, ease of 
 
 At New Orleans, the tactical problem was larger than marksmanship.
 
-Jackson's force occupied a fortified line behind a canal. Artillery covered approaches. The terrain constrained the British. The attackers had to move across exposed ground under concentrated fire. Problems with ladders and fascines complicated efforts to cross American defenses. Command disruption and the death or wounding of senior British officers deepened the disaster.
+Jackson's force occupied a fortified line behind the Rodriguez Canal. Artillery covered the approaches. The terrain constrained the British. The attackers had to move across exposed ground under concentrated fire. Problems moving barges through Villeré's Canal delayed the intended attack on the west bank. Problems with ladders and fascines complicated efforts to cross American defenses. Command disruption and the death or wounding of senior British officers deepened the disaster.
+
+The British had artillery of their own. They spent the night before the attack repairing and positioning heavy pieces. On the foggy morning of January 8, their batteries and Congreve rockets opened as the infantry advanced. Jackson's batteries answered, while artillery on the west bank fired into the attacking columns from the flank. The National Park Service's detailed battlefield study describes a fight in which the geometry of batteries, entrenchments, waterways, fog, delay, and exposed formations mattered as much as the weapon carried by any one man.
 
 Rifle fire contributed.
 
@@ -54,11 +56,19 @@ The artillery made war look like organization.
 
 Nations usually prefer the explanation that praises character.
 
-The War of 1812 gave the United States plenty of evidence that organization mattered. The conflict began badly in several theaters. American attempts to invade Canada produced failures and embarrassments. Washington was burned in 1814. Militia performance varied widely. Naval victories and single-ship actions offered morale, but Britain remained the greater maritime power. American military institutions improved during the war because they had to.
+The War of 1812 gave the United States plenty of evidence that organization mattered. The conflict began badly in several theaters. American attempts to invade Canada produced failures and embarrassments. Detroit surrendered in 1812. Washington was burned in 1814. Militia performance varied widely. Naval victories and single-ship actions offered morale, but Britain remained the greater maritime power. American military institutions improved during the war because they had to.
 
 New Orleans arrived after those lessons and allowed memory to rearrange them.
 
 The battle did not need to represent the entire war. It could become the scene Americans wanted at the end: a victorious general, citizen soldiers, local volunteers, free Black men, Choctaw fighters, pirates associated with Jean Lafitte, regulars, artillerymen, and militia all folded into a broad defense of the city. The coalition inside Jackson's force was itself more complicated than the lone rifleman image.
+
+Two Louisiana battalions of free men of color served in the defense. Regular U.S. Army units stood in the line. Tennessee and Kentucky militia were present, but their experiences differed sharply. Sailors, Marines, local volunteers, Baratarian artillerymen, and Choctaw fighters contributed. The defensive system was socially as well as technically composite.
+
+That complexity presented a problem for political mythmaking.
+
+A coalition does not fit neatly into a campaign song.
+
+A rifleman does.
 
 The political afterlife was enormous.
 
@@ -71,6 +81,32 @@ A cannon needs a crew.
 A rifle can be held in a portrait.
 
 This is not a trivial distinction. Objects help politics become visual. George Washington had the sword. Naval heroes had ships. Jackson could be associated with the frontier marksman even though the battle he commanded depended on far more than frontier marksmanship.
+
+The transformation became explicit in the song “Hunters of Kentucky.” The National Park Service describes the ballad as an enormously successful Jackson campaign song in 1828. It told listeners that hardy, self-reliant Kentucky riflemen had overwhelmed battle-tested British regulars. That version fit a Democratic political identity built around the independent frontier citizen and hostility to institutions associated with hierarchy and privilege.
+
+The remarkable part is that Jackson himself knew better.
+
+After the battle, he complained bitterly about the Kentucky reinforcements who fled their position on the west bank. NPS notes the irony directly: Jackson benefited politically from a mythology celebrating the Kentucky militia while remaining one of its harshest critics for their actual performance.
+
+The commander remembered a failure.
+
+The candidate inherited a legend.
+
+That gap is more revealing than any argument over the exact effective range of a rifle.
+
+Political memory does not require the person at its center to have invented the myth. It requires the myth to become useful enough that correcting it costs more than accepting it. By 1828, “Hunters of Kentucky” was doing work no after-action report could do. It offered a theory of national power in musical form.
+
+America wins because Americans are different.
+
+They are free rather than drilled.
+
+They are marksmen rather than automatons.
+
+Their battlefield superiority flows from republican character rather than from the institutions that supply and organize them.
+
+The story is emotionally efficient.
+
+It is also strategically dangerous when believed literally.
 
 The long rifle also followed American expansion into darker territory.
 
@@ -92,7 +128,9 @@ New Orleans provided an early national stage for the type.
 
 The irony is that the battle itself is a poor demonstration of the type's sufficiency.
 
-The British did not advance into a fair contest of marksmen. They attacked a prepared position. American batteries fired canister and other projectiles into formations. Artillery crews could produce destruction no individual rifleman could match. The geometry favored the defense brutally.
+The British did not advance into a fair contest of marksmen. They attacked a prepared position. American batteries fired grape, canister, and other projectiles into formations. Artillery crews could produce destruction no individual rifleman could match. The geometry favored the defense brutally.
+
+NPS summarizes the result starkly: more than two thousand British troops were killed or wounded in the assault while American casualties were fewer than a hundred. A lopsided casualty ratio can tempt later generations to seek a single technological explanation. The terrain and defensive system make that unnecessary. The British walked into overlapping fire under conditions that amplified almost every American advantage.
 
 This does not reduce the skill of riflemen who fought there.
 
