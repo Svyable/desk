@@ -32,6 +32,42 @@ The brain was late.
 
 This does not make a bacterium a tiny person. It makes the person a late specialization of a much older problem.
 
+The chemotaxis mechanism helps because it is one of those cases where the word *memory* can be tied to a physical process rather than a mood.
+
+An *E. coli* cell alternates between relatively straight swimming runs and episodes that reorient its motion. If conditions are improving, the statistics of that motion change so that runs are extended in useful directions. The bacterium does not need to know which way “toward food” is before moving. It samples the chemical world while moving through it and biases later movement according to whether recent conditions have become better or worse.
+
+The comparison depends on receptor signaling and adaptation. Among the molecular changes involved is reversible methylation of chemoreceptors. That biochemical state evolves over time and changes receptor sensitivity. If stimulation persists, the signaling system adjusts toward baseline, allowing the cell to remain responsive to further changes rather than saturating permanently at the first attractive condition.
+
+This is a small memory with a job.
+
+It stores no picture of the environment. It preserves enough recent history to transform a spatial problem into a temporal one.
+
+Classic experiments made the temporal nature of the comparison visible by changing chemical stimulation over controlled intervals and observing the bacterium’s response. Mutants defective in the normal methylation and demethylation machinery lost normal adaptation and temporal comparison. The point was not simply that a wild-type bacterium moves toward attractants. The mechanism could be perturbed, and when the relevant state-changing machinery was disrupted, the behavior changed in ways predicted by the model.
+
+That causal leverage matters.
+
+A system looks far less mysterious when we can break one part of it and watch a specific capacity disappear.
+
+It also gives us a standard for the rest of this book. We should be more impressed by a claimed memory when researchers can identify a state variable, alter the machinery that maintains it, and change the later response. We should be less impressed when the evidence is merely that an organism behaved differently on Tuesday than it did on Monday.
+
+Difference is not memory by itself.
+
+The environment may have changed. The organism may be tired. A chemical may have accumulated. A motor system may be damaged. A response may simply decay. The scientific work lies in separating retained useful state from all the other ways time can matter.
+
+Bacterial chemotaxis survives this scrutiny unusually well because the circuit has been dissected for decades. The result is almost disappointing if one came looking for a mystical precursor to thought. There are receptors, enzymes, signaling proteins, molecular modifications, flagellar motors, and probabilities of motion.
+
+Good.
+
+Mechanism is the antidote to both romanticism and dismissal.
+
+The romantic version says the bacterium “remembers where the food is.” It does not.
+
+The dismissive version says the bacterium “just follows chemistry.” Of course it follows chemistry. So does a nervous system. The useful question is what the chemistry computes in the functional sense: which distinctions in the world are preserved long enough to alter what happens next?
+
+Here the answer is specific. Recent chemical history changes the cell’s future motion.
+
+That is enough.
+
 The distinction matters because nervous systems can seduce us into treating intelligence as a substance produced by a particular organ. A brain is so visibly associated with thought that it becomes tempting to imagine a bright line: before brains, mere chemistry; after brains, cognition.
 
 Biology rarely offers lines that clean.
@@ -76,6 +112,24 @@ A bent guardrail contains information about the car that struck it. Nobody calls
 
 That recruitment is expensive enough that evolution repeatedly builds machinery around it.
 
+Not all biological memory lives on the same timescale.
+
+The chemotaxis circuit remembers for seconds. Immune memory can persist much longer. Developmental state can survive many cell divisions. Nervous systems can preserve some changes for decades. Genetic evolution carries information across generations, although natural selection should not be confused with a remembering subject. The word *memory* covers these cases only because the mechanism and timescale are specified.
+
+Without that specification, memory becomes a compliment.
+
+With it, memory becomes a measurable relationship.
+
+The timescale matters because every adaptive system faces a matching problem. Remember too briefly and the signal vanishes before it can guide action. Remember too long and stale conditions contaminate the present. A bacterium in a turbulent chemical environment needs a different temporal window from an immune system preparing for a pathogen that may return months later.
+
+Even forgetting can be functional.
+
+This is another point where human intuitions can mislead. We often treat more memory as better memory. In control systems, old information has a cost. The world changes. A useful adaptive process has to retain history long enough to exploit it and release history when it becomes misleading.
+
+That tradeoff is intelligence-like in the narrow sense used here because the quality of response depends on how past state is weighted against new evidence.
+
+No consciousness is required to make the tradeoff real.
+
 Once we notice this, brains stop looking like the origin of memory and begin to look like an extraordinary expansion of it.
 
 The same shift applies to decision.
@@ -114,6 +168,28 @@ A bacterium can have one kind of memory without having a memory of childhood. A 
 
 Capabilities separate.
 
+They also recombine.
+
+That is the evolutionary point worth preserving.
+
+A nervous system did not have to invent from nothing the distinction between inside and outside, useful and harmful, stable and dangerous, recent and stale. Cells already lived by distinctions. What nervous systems added was a new architecture for integrating them across larger bodies, faster timescales, richer sensory channels, and eventually internal representations flexible enough to detach from the immediate world.
+
+The old machinery did not vanish when neurons arrived.
+
+Neurons remained cells. They still regulate ions, maintain membranes, consume energy, change molecular state, respond to chemical signals, and depend on non-neural cells and tissues. A brain is not intelligence replacing regulation. It is regulation reorganized into capacities that earlier life could not perform at the same scale.
+
+This matters because continuity and novelty are often presented as enemies.
+
+If cognition has deep roots, some readers fear, then human intelligence is being reduced to bacterial chemistry. If human sapience is genuinely novel, others fear, then simpler biological capacities cannot belong in the same conceptual history.
+
+Both conclusions are unnecessary.
+
+Flight has precursors without being identical to every earlier aerodynamic function. Language has precursors without being identical to animal calls. A new regime can be genuinely new while being built from older capacities.
+
+The brain was late and transformative.
+
+Those statements can both be true.
+
 This is more than a philosophical point because separability changes probability.
 
 If sapient technological civilization requires a long chain of evolutionary transitions, it may be rare even on worlds where life is common. If some forms of adaptive competence require far less, they could be correspondingly common. The universe might contain far more systems that sense and adjust than systems that contemplate and transmit.
@@ -141,6 +217,22 @@ This book therefore risks creating a category we cannot observe astronomically.
 That risk has to remain visible.
 
 A scientific concept earns its keep partly by changing what can be measured. If non-sapient intellect is only a poetic way to admire the cleverness of cells, then it belongs in an essay, not a search strategy. The later chapters will have to do harder work: identify possible signatures of history dependence and adaptive reconfiguration that are not simply synonyms for life.
+
+There is a second risk.
+
+Perhaps the category is scientifically unnecessary even on Earth.
+
+Microbiology already has chemotaxis. Immunology has immunological memory. Developmental biology has pattern regulation. Neuroscience has learning and memory. Control theory has feedback. Each field has sharper vocabulary than a general phrase such as *non-sapient intellect*.
+
+If the comparative category merely gathers precise mechanisms under an exciting label, it has failed.
+
+To justify itself, it has to reveal something that becomes easier to see across mechanisms: recurring control problems, recurring evidence standards, or recurring ways our brain-centered intuitions cause false negatives. The comparison must produce questions that the local vocabulary alone would not naturally ask.
+
+That is why the astronomical extension matters. Alien life, if it exists, will not arrive with our disciplinary labels attached. We may not know which molecules correspond to receptors, which structures count as cells, or whether familiar anatomical categories apply at all. A portable question such as “does prior state causally alter later adaptive response?” may travel farther than the word *neuron*.
+
+The mechanism will still matter.
+
+But the first detector may have to be functional.
 
 We are not there yet.
 
