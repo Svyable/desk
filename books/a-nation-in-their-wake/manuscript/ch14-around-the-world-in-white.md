@@ -46,6 +46,24 @@ A government can spend years building capital ships only to discover that a new 
 
 Technological competition imposes a depreciation schedule set partly by rivals.
 
+That depreciation did not make *Connecticut* useless. Obsolescence is rarely binary. A ship can be less capable than the newest design and still be dangerous, useful for training, diplomacy, deterrence, or war against opponents that do not possess the latest system. The political temptation is to treat “not cutting edge” as “worthless” when arguing for new appropriations and to treat “still useful” as “fully adequate” when arguing against them.
+
+Real fleets live in the uncomfortable middle.
+
+They are mixtures of generations.
+
+That mixture is economically unavoidable because capital ships last longer than technology cycles. Every navy has to decide how much advantage it is willing to surrender while extracting value from equipment already paid for. Replace too slowly and the fleet becomes irrelevant. Replace too quickly and the budget becomes a machine for converting usable ships into premature scrap.
+
+The correct answer changes with the rival, the mission, the industrial base, and the rate of technological change.
+
+The Great White Fleet sailed directly through that problem.
+
+The ships were old enough in concept for the next generation to be visible and new enough in practice to impress much of the world.
+
+That tension made the voyage a better demonstration of national capacity than a fleet consisting only of experimental prototypes would have been. The United States was not showing that it could build one extraordinary ship.
+
+It was showing that it could field a formation, crew it, sustain it, and move it.
+
 The world cruise gave the United States another kind of data: operational evidence.
 
 It is one thing to possess battleships in home waters. It is another to send them on a long deployment across multiple oceans while maintaining schedules, coal supply, repairs, crew health, navigation, communications, and discipline.
@@ -71,6 +89,28 @@ Roosevelt's fleet revealed the back end by stretching it around the planet.
 Long deployments are audits.
 
 They expose which assumptions work only near home.
+
+Coal also turned geography into strategy. A coal-burning fleet was free of wind and chained to fuel at the same time. The ability to steam on command created a demand for coaling stations, colliers, port access, and reliable contracts. A sailing fleet's energy arrived everywhere through weather. A steam fleet's energy had to be mined, bought, stored, transported, and loaded.
+
+Modernity added control and dependence together.
+
+That is the recurring bargain of infrastructure.
+
+The same relationship would later move from coal to oil. Oil offered advantages in energy density and handling, but it made petroleum supply strategic. Nuclear propulsion would give submarines and carriers extraordinary endurance between refuelings while shifting dependence toward specialized reactors, trained personnel, maintenance facilities, and a tightly controlled fuel cycle.
+
+Every technology that removes one constraint introduces another.
+
+The question is whether the institution sees the new dependency before an adversary does.
+
+For the Great White Fleet, the shortage of American colliers was not a theoretical problem. It was visible in the commercial arrangements supporting the voyage. That exposure fed later arguments about auxiliaries and naval logistics. A battle fleet without enough support vessels can be formidable near its own bases and fragile far from them.
+
+The same principle applies to merchant fleets. A country can produce enormous quantities of goods and discover during war that it lacks ships to move them. The Liberty-ship chapter will show the United States solving that problem on a wartime scale three decades later.
+
+The logistical lesson of *Connecticut* came earlier and under friendlier conditions.
+
+That makes it more valuable, not less.
+
+Peace gives institutions a chance to discover weaknesses without paying in blood.
 
 This makes the Great White Fleet more than a propaganda cruise. It was a systems test conducted in public. The Navy learned about fleet handling, maintenance, supply, and the practical requirements of operating a large force over great distances. Those lessons contributed to later planning and investment.
 
@@ -102,6 +142,32 @@ We are also here.
 
 The ambiguity is intentional.
 
+That ambiguity depended on audiences seeing the same object differently.
+
+American newspapers could describe national achievement.
+
+A host government could describe friendship.
+
+A rival naval staff could count guns, speed, coal consumption, formation discipline, and maintenance problems.
+
+A port merchant could see customers.
+
+A laborer loading coal could see work.
+
+A colonized population under another empire could see yet another white great power arriving in force.
+
+Power projection does not produce one message merely because the sender writes one speech.
+
+This is why strategic signaling is less controllable than the phrase suggests. The receiver decides what the signal means.
+
+A fleet meant to reassure an ally can frighten a rival. A deployment meant to deter can convince an adversary that war is coming. A ceremonial visit can look like prestige at home and intimidation abroad. The same ships carry all the readings simultaneously.
+
+Roosevelt was unusually comfortable with that ambiguity because he believed visible capability helped diplomacy. He did not need every government to admire American sea power.
+
+He needed them to include it in their calculations.
+
+That is a lower and more realistic bar.
+
 Roosevelt's foreign policy is often summarized through his preference for speaking softly while carrying a large stick. The Great White Fleet was the stick moving through other people's harbors with an invitation to dinner.
 
 The performance depended on domestic politics as much as foreign reaction.
@@ -128,6 +194,20 @@ Ships can wait offshore.
 
 That physical fact changes policy options.
 
+It also changes the politics of withdrawal.
+
+A force that has sailed into a region can be brought home without the imagery of retreating an army across hostile ground, but the departure is still visible to allies and rivals. Presence creates expectations. The longer a fleet is expected to appear, the more absence begins to communicate too.
+
+This is the hidden cost of global reach.
+
+Capability becomes commitment by repetition.
+
+The United States in the twentieth century would accumulate exactly those expectations: regular patrols, forward deployments, bases, alliance commitments, exercises, port calls, and guarantees whose value depended partly on everyone believing the ships would keep coming.
+
+The Great White Fleet was not the cause of that system.
+
+It was one of the first moments when Americans could see the scale of what maintaining such a system would require.
+
 *Connecticut* therefore represents the maturation of a capability first hinted at by *Vincennes*. The 1820s sloop carried American presence around the world. The 1900s battleship fleet carried an American system around the world.
 
 The scale had changed in every dimension.
@@ -149,6 +229,16 @@ Mobility multiplies inventory.
 The Panama Canal would open in 1914, just as Europe entered World War I.
 
 The timing could hardly have been more consequential.
+
+The canal also helps explain why naval power and commercial infrastructure cannot be separated cleanly. The same passage that shortened the movement of battleships transformed shipping costs and trade routes. Strategic investment produced commercial value; commercial traffic justified security attention.
+
+The canal became another interface where the military and economic maps overlapped.
+
+This overlap had been present since the beginning of the book. The *Empress of China* created commercial interests the Navy would later be asked to protect. *California* made the Isthmus of Panama strategically interesting before a canal existed. The Great White Fleet demonstrated exactly what the completed canal could save in time.
+
+America's maritime history is full of military arguments that become infrastructure and commercial infrastructure that becomes strategy.
+
+The categories keep trading places.
 
 The world the Great White Fleet toured as a spectacle of competitive peace was about to destroy itself on a scale the battleship enthusiasts had not fully imagined.
 
