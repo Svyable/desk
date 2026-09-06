@@ -315,3 +315,113 @@ An early market often sells the chance to help create the conditions under which
 The crowd is what holds the possibility together in the meantime.
 
 Then, if things go well, the crowd disappears into a market and everybody forgets how provisional the future once looked.
+
+There is a second transition inside the first one.
+
+The crowd does not simply become larger. It becomes differently composed.
+
+At the beginning, participants often know one another by handle, reputation or repeated appearance. Information travels socially. A newcomer asks a question and receives an answer from somebody who helped discover the answer last month. Trust attaches to people because institutions have not yet accumulated enough history to carry trust impersonally.
+
+As the market grows, personal trust is replaced by artifacts.
+
+Documentation.
+
+Ratings.
+
+Certifications.
+
+Benchmarks.
+
+Warranty terms.
+
+Reference architectures.
+
+Case studies.
+
+Professional credentials.
+
+These artifacts let strangers transact without joining the original community.
+
+That is a major economic transformation.
+
+The crowd’s knowledge becomes legible to outsiders.
+
+Legibility lowers the social cost of adoption.
+
+Imagine a procurement officer evaluating a new database in its first year. She finds forum threads, GitHub issues and a handful of enthusiastic developers. The information may be rich, but turning it into an institutional decision requires interpretation. Five years later she may find security certifications, migration consultants, training courses, performance studies, insurance familiarity and employees who used the system at previous companies.
+
+The technology has not merely improved.
+
+The evidence surrounding it has been packaged.
+
+Packaging evidence is market formation.
+
+Early adopters contribute to it by generating the raw material. Their failures become troubleshooting guides. Their deployments become case studies. Their job experience becomes résumés. Their integrations become templates. Their performance complaints become benchmark categories. Their arguments about terminology become the vocabulary later buyers inherit.
+
+The crowd is a refinery for uncertainty.
+
+It takes raw experiences and gradually turns them into forms institutions can use.
+
+This creates a way to distinguish a durable crowd from a speculative swarm.
+
+A durable crowd produces reusable artifacts.
+
+A speculative swarm mostly produces attention.
+
+Attention can still matter. It can recruit capital and users. But if the attention does not leave behind documentation, products, skills, standards, operating data, businesses or some other durable complement, the market has to keep recreating confidence from spectacle.
+
+That is expensive.
+
+It is also fragile.
+
+The crowd must remain excited for the future to feel alive.
+
+A durable market can survive boredom.
+
+That may be the cleanest sign of graduation.
+
+People stop talking about the technology every day and start depending on it.
+
+The public conversation gets quieter while the installed base gets larger.
+
+Specialist drama is replaced by ordinary invoices.
+
+The future moves from culture into operations.
+
+This is why the disappearance of enthusiasm is not always bearish.
+
+Sometimes hype declines because the thing failed.
+
+Sometimes hype declines because the thing became infrastructure.
+
+The distinction appears in what remains after attention leaves.
+
+Are customers renewing?
+
+Are workers being trained?
+
+Are suppliers competing?
+
+Are standards stable enough that nobody needs to debate them constantly?
+
+Are products being compared on ordinary dimensions such as price, service and reliability rather than on whether the category should exist?
+
+If so, the crowd may have completed its work.
+
+The strange technology has acquired institutions.
+
+There is a final implication for founders and adopters.
+
+Do not confuse the people who carried the technology through its pre-market period with the people who will dominate its mature market.
+
+The crowd may be essential and temporary.
+
+Early users may love configurability that later users never see. Community members may provide free support that a commercial customer would insist be staffed. The founder may be able to make product decisions in public conversation with a few hundred enthusiasts and later need boring governance to serve regulated industries.
+
+Loyalty to the first crowd can become a virtue or a trap depending on what is preserved.
+
+Preserve the values that made the community useful: curiosity, criticism, memory, openness to strange use.
+
+Do not preserve every accidental burden the community learned to tolerate.
+
+The market should inherit the crowd’s discoveries without requiring the next customer to join the cult.
