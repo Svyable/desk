@@ -285,3 +285,111 @@ That trust gave him the access to betray it.
 The security system was not defeated from outside.
 
 For years, it logged him in.
+
+The later Inspector General review makes that last sentence more literal than metaphorical.
+
+The Department of Justice OIG examined more than 368,000 pages of material and conducted more than 200 interviews in its review of the case. Its conclusion was harsher than the comforting belief that Hanssen had simply been too clever to catch.
+
+The FBI had offered too little deterrence.
+
+During most of Hanssen's career, according to the OIG, the Bureau did not use several basic personnel-security practices that later seemed indispensable. Counterintelligence polygraphs were not a routine feature of FBI security. Financial-disclosure review was inadequate. The single background reinvestigation Hanssen underwent during his career was not thorough enough to expose the danger. Supervisors and coworkers observed security violations and other troubling behavior, but most of it never became a durable institutional record.
+
+That last failure is easy to underestimate.
+
+Organizations do not remember what people notice.
+
+They remember what people record in systems somebody later knows to search.
+
+A colleague thinking, “Hanssen is strange with classified material,” is not counterintelligence. A documented incident linked to later incidents can become counterintelligence. The difference is bureaucratic persistence.
+
+The same institution that had spent a century learning to preserve information about adversaries had failed to preserve enough information about its own employee.
+
+There is a symmetry in that failure.
+
+ONI's founding lesson was that facts scattered in officers' trunks were not institutional knowledge.
+
+Hanssen's coworkers could notice behavior for years without those observations becoming an institutional picture.
+
+The intelligence service had built archives outward before it had built equivalent memory inward.
+
+The computer-security findings were even more direct.
+
+Hanssen did not merely benefit from having legitimate access to FBI systems. The OIG found serious weaknesses in the Automated Case Support system that made misuse difficult to detect and easy to rationalize. Hanssen conducted thousands of searches, including searches for his own name, address, and the sites he used for clandestine signals and dead drops. He searched for information about sensitive counterintelligence investigations—including, in effect, the investigation for the unidentified penetration he represented.
+
+The system had an audit capability.
+
+The capability was rarely used.
+
+This distinction belongs in every history of digital security.
+
+A control that exists in software but is not operationally reviewed is not the same thing as a control that protects the organization.
+
+Logs are potential evidence.
+
+Monitoring turns them into security.
+
+The OIG also found that FBI users often did not understand the ACS security features they already had. Access restrictions could be overridden by headquarters personnel. Sensitive information was sometimes placed into the system without appropriate protections. Some agents distrusted the system enough that they avoided putting especially sensitive material into it.
+
+The result was not one clean security model.
+
+It was a patchwork of formal controls, workarounds, habits, ignorance, and local judgment.
+
+Hanssen lived inside the patchwork.
+
+Document security was no better in some respects. The OIG found that he could remove large amounts of classified material from FBI offices, including highly sensitive originals, without a control environment strong enough to make the act reliably visible.
+
+The paper era and the digital era overlapped in the worst possible way.
+
+He could search broadly like a digital insider and carry documents out like an analog one.
+
+That overlap makes the timing of his arrest especially important. The FBI was not simply moving from paper to computers. It was moving from one set of risks to a combined set before it had mastered either.
+
+The OIG ultimately made twenty-one recommendations aimed at personnel security, document security, computer security, internal counterintelligence, and coordination. Among them was a recommendation that the FBI create a headquarters unit dedicated to determining whether the Bureau itself had been penetrated.
+
+The wording exposes the institutional blind spot.
+
+The FBI had long possessed a mission to find spies.
+
+It needed a unit whose explicit object could be the FBI.
+
+That is what mature counterintelligence eventually requires: the possibility that the defensive institution itself is part of the target environment.
+
+No badge places someone outside the threat model.
+
+No clearance does either.
+
+A clearance is a decision to extend trust under conditions, not a certificate of permanent loyalty.
+
+The Hanssen case changed the meaning of that distinction because his security violations were not hidden perfectly. They were dispersed.
+
+One person saw one thing.
+
+A system recorded another.
+
+A supervisor knew a third.
+
+Computer searches accumulated somewhere else.
+
+The organization lacked the mechanism—or the will—to make those fragments accuse the same man.
+
+This is why “connect the dots” is both necessary and dangerous language. Once a spy is known, every dot seems to point toward him. Before he is known, the same dots sit among millions of innocent irregularities.
+
+The real task is not connecting everything.
+
+It is building systems capable of escalating the right combinations while preserving room for innocent explanation.
+
+That problem would grow harder, not easier, as intelligence became data.
+
+The more events a system logs, the more normal anomalies it contains.
+
+The more information employees can legitimately search, the more difficult it becomes to distinguish broad professional curiosity from reconnaissance by a traitor.
+
+Hanssen belongs to the 2000s because he sits precisely at that threshold.
+
+His dead drop was beneath a bridge.
+
+His warning system was inside a database.
+
+The twentieth-century spy used the twenty-first century to protect himself.
+
+The next spy would not need the bridge.
