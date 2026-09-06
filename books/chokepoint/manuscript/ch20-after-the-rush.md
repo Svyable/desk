@@ -1,192 +1,156 @@
 # After the Rush
 
-The battery does not look like an ore body when it comes back.
+The battery does not look like an orebody when it comes back.
 
 It arrives dented, discharged, tagged, and inconvenient. Perhaps it spent twelve years under the floor of a car. It may have served a second life in stationary storage before somebody finally decided that the remaining capacity was no longer worth the trouble. By then the mine that supplied some of its lithium may have changed owners. The cobalt price may have doubled and halved. The cathode chemistry that once looked standard may have lost market share. The refinery that made its active material may still be running, or may have been replaced by one built during a frantic round of industrial policy.
 
-What matters now is that the material is no longer only a product. It is feedstock.
+What matters now is that the material is no longer only a product.
 
-That change is easy to romanticize. The phrase “urban mining” makes a spent battery sound like a convenient deposit sitting above ground, already extracted, waiting to be harvested without blasting rock or pumping brine. But the deposit is scattered among millions of objects. It has to be collected, transported, made safe, sorted, pre-treated, chemically recovered, purified, sold, and qualified for another production cycle. Each step requires equipment, capital, rules, customers, and know-how.
+It is feedstock.
 
-The mature mineral economy begins when enough of that machinery exists that the returned battery is not an exception.
+That change is easy to romanticize. `Urban mining` makes a spent battery sound like a convenient deposit sitting above ground, already extracted, waiting to be harvested without blasting rock or pumping brine.
+
+But the deposit is scattered among millions of objects. It has to be collected, transported, made safe, sorted, pre-treated, chemically recovered, purified, sold, and qualified for another production cycle. Each step requires equipment, capital, rules, customers, and know-how.
+
+The mature mineral economy begins when enough of that machinery exists that the returned battery is ordinary.
 
 It does not end mining.
 
-That distinction matters because every boom produces a fantasy of escape. In one version, new mines finally solve scarcity. In another, recycling eliminates the need for new mines. In another, substitution makes the difficult minerals irrelevant. In another, allied supply chains replace concentrated ones without raising costs. The first eighteen chapters of this book should make all four stories harder to believe in their pure form.
+Every boom creates an escape fantasy. New mines finally solve scarcity. Recycling eliminates new mines. Substitution makes difficult minerals irrelevant. Allied supply chains replace concentrated ones without raising costs.
 
-Mineral systems do not get solved. They acquire options.
+The preceding chapters point somewhere less tidy.
 
-The system on the other side of the current rush will still dig rock. It will also recover more metal from products that already exist, redesign some products around different materials, carry larger inventories in selected places, support duplicate processing capacity that looks inefficient in quiet years, and bargain more intensely over where value is captured. Some countries will still dominate particular stages. Some new chokepoints will appear precisely because an old one was removed.
+Mineral systems do not get solved.
 
-The useful measure of progress is not independence. It is how many credible routes remain when one route closes.
+They acquire options.
 
-Recycling is the clearest place to see the transition because it is both more important than skeptics sometimes admit and less magical than enthusiasts suggest.
+The system on the other side of the current rush will still dig rock. It will also recover more material from products already in use, redesign some products around different inputs, carry larger inventories in selected places, support duplicate processing capacity that looks inefficient in quiet years, and bargain harder over where value is captured.
 
-The International Energy Agency’s 2026 outlook estimated that average recycling rates across key energy minerals could rise from around 10 percent today to close to 20 percent by 2040 under current policy settings. Secondary supply could roughly double its contribution. In the longer battery cycle, improving collection could allow recycled batteries to supply roughly 20 to 30 percent of lithium, nickel, and cobalt demand by 2050, with better collection pushing the contribution higher and poor collection pulling it lower.
+Some countries will still dominate particular stages. New chokepoints will appear because old ones were removed.
 
-Those are large shares. They are not 100 percent.
+The useful measure of progress is not independence.
 
-The reason is partly arithmetic. A rapidly growing system consumes material faster than old products can return it. The first generations of electric vehicles and grid batteries are still mostly on the road or connected to the grid. Transmission lines and motors can last decades. Copper inside a building is unavailable to a recycler while the building is still standing. Even a perfect recovery process cannot recycle next year the metal that will remain useful for another twenty years.
+It is how many credible routes remain when one route closes.
+
+Recycling shows both the promise and the boundary. The International Energy Agency's 2026 outlook estimated that average recycling rates across key energy minerals could rise from around 10 percent today to close to 20 percent by 2040 under current policy settings. Over the longer battery cycle, improving collection could allow recycled batteries to supply roughly 20 to 30 percent of lithium, nickel, and cobalt demand by 2050, with better collection pushing the contribution higher and poor collection pulling it lower.
+
+Those are large shares.
+
+They are not 100 percent.
+
+A rapidly growing system consumes material faster than old products can return it. The first generations of electric vehicles and grid batteries are still mostly on the road or connected to the grid. Transmission lines and motors can last decades. Copper inside a building is unavailable while the building is still standing.
 
 Young industrial systems are hungry because most of their material is still in service.
 
 Older ones begin to own an above-ground resource.
 
-But “own” is too generous unless collection works. A copper cable abandoned in a building is not feedstock in any practical sense. A phone in a drawer is not a rare-earth reserve. A battery exported into a market with weak collection may never reach the recycler assumed by a national circularity target. Material can be dissipated in tiny quantities, contaminated, mixed into products that are difficult to disassemble, or simply worth less than the labor and energy required to recover it.
+But `own` is too generous unless collection and processing work. A phone in a drawer is not a rare-earth reserve. A battery exported into a market with weak collection may never reach the recycler assumed by a national circularity target.
 
-Circularity is therefore an industrial achievement, not a property of the periodic table.
+Circularity is an industrial achievement, not a property of the periodic table.
 
-Policy can make that achievement easier. The European Union’s Batteries Regulation is one example of a rule trying to create a durable market for recovered material. From 2031, covered batteries are scheduled to contain minimum shares of recovered cobalt, lithium, nickel, and lead, with higher requirements later for several of those materials. The precise percentages matter less here than the mechanism. A recycled-content mandate creates a customer for secondary material even when virgin commodity prices fall.
+And recycling can create a chokepoint of its own. The IEA reports China holding more than three-quarters of global battery pre-treatment capacity and about 90 percent of material-recovery capacity. A country can reduce dependence on newly mined lithium or cobalt while remaining dependent on another country to turn scrap into usable material.
 
-That is important because commodity cycles can destroy recycling economics just as they destroy mine economics. A recycler that looks strategically essential when lithium is expensive can look foolish after a wave of new supply cuts the virgin price. If the plant closes during every downturn, it is not much of a resilience asset.
+The geography changes.
 
-A mandate can help preserve capability through that cycle.
+The industrial logic does not.
 
-It cannot create feedstock that does not exist.
-
-This is the physical boundary beneath circular-economy policy. Regulators can require collection, improve product labeling, set recovery targets, create recycled-content demand, and penalize disposal. They cannot accelerate the aging of a ten-year-old battery without destroying useful value. A target that ignores the stock-and-flow constraint eventually collides with it.
-
-There is another complication. Recycling can create a chokepoint of its own.
-
-China currently holds more than three-quarters of global battery pre-treatment capacity and about 90 percent of material-recovery capacity, according to the IEA. Korea is the largest recovery player outside China. A country can therefore reduce its dependence on newly mined lithium or cobalt while remaining dependent on another country to turn its scrap into usable material.
-
-The geography changes. The industrial logic does not.
-
-Scale matters. Chemistry expertise matters. Equipment matters. Feedstock aggregation matters. Permitting matters. Customer qualification matters. The ability to survive a commodity downturn matters. These were the forces that concentrated refining in the first place. There is no reason to assume they disappear because the input happens to be waste.
+Scale matters. Chemistry expertise matters. Feedstock aggregation, permitting, equipment, customer qualification, and survival through commodity downturns matter. These are the same forces that concentrated primary processing.
 
 A mature mineral system treats recycling as another supply chain to diversify, not as an escape from supply chains.
 
-The same is true of substitution.
+Substitution works the same way.
 
-Chapter 16 followed lithium iron phosphate batteries as they reduced the cobalt and nickel intensity of a growing part of the electric-vehicle market. That was not a thought experiment. Engineers changed the material demand of an industry by changing the product. Other designs may reduce rare-earth use in motors, lower copper intensity where aluminum is acceptable, shrink battery packs, or move storage toward chemistries with different mineral requirements.
+LFP batteries reduced cobalt and nickel exposure in a large part of the battery market. Sodium-ion may reduce lithium exposure in some applications. Alternative motor architectures can reduce rare-earth use. Aluminum can replace copper in selected conductors.
 
-This is one reason chokepoints are not geological commandments.
+None makes material dependence vanish.
 
-Geology sets constraints. It does not determine the bill of materials for every machine forever.
-
-Yet substitution is not disappearance. LFP reduces some exposures while increasing the importance of others, including graphite and high-purity chemical inputs. Sodium-ion batteries can reduce reliance on lithium in some applications while creating different supply questions. Aluminum can substitute for copper in some conductors, but not without engineering consequences. Rare-earth-free motors can work well in some designs and poorly in others.
-
-The most interesting substitutions do not eliminate dependency. They turn one dependency into a more tolerable one.
+The most useful substitutions turn one dependency into a more tolerable one.
 
 That may be enough.
 
-A system is more resilient if a manufacturer facing a cobalt shock can choose a chemistry that uses less cobalt, even if the alternative requires more of something else. It is more resilient if a motor designer has two architectures rather than one. It is more resilient if the substitute can be produced in several regions, recycled more easily, or sourced from a market with more spare capacity.
+A manufacturer is more resilient if a cobalt shock can be answered by another chemistry, even if the chemistry needs more of something else. A motor designer is more resilient with two workable architectures rather than one. A grid planner is more resilient when more than one conductor choice is practical where engineering permits it.
 
-Resilience is often a portfolio of imperfect alternatives.
+Resilience is a portfolio of imperfect alternatives.
 
-Governments are beginning to build policy around that idea. The European Union’s Critical Raw Materials Act does not imagine a Europe that mines every strategic mineral it consumes. Its 2030 benchmarks aim for domestic capacity equal to at least 10 percent of annual consumption in extraction, 40 percent in processing, and 25 percent in recycling, while seeking to prevent any single third country from supplying more than 65 percent at a relevant processing stage for a strategic material.
+The same principle applies to geography.
 
-Those numbers describe diversification, not autarky.
+The European Union's Critical Raw Materials Act does not imagine a Europe that mines every strategic mineral it consumes. Its benchmarks aim for more extraction, processing, and recycling inside Europe while limiting extreme dependence on any single third country.
 
-The distinction is essential. Self-sufficiency sounds secure and is often economically absurd. Geology is uneven. Mines need water, power, infrastructure, skills, capital, and social permission. Processing benefits from scale. Trade allows countries to specialize where they have real advantages. Trying to duplicate every stage domestically can produce expensive plants that never become competitive and mines that survive only while subsidies remain politically fashionable.
+That is diversification, not autarky.
 
 A mature system still trades.
 
 It simply asks more often what happens if one trading relationship disappears.
 
-This is where the efficiency argument becomes uncomfortable.
+This is where efficiency becomes uncomfortable. For decades, global supply chains were rewarded for removing slack. Firms concentrated orders with the cheapest qualified supplier, reduced inventories, standardized components, and located processing where scale made it cheapest.
 
-For several decades, global supply chains were rewarded for removing slack. Firms concentrated orders with the cheapest qualified supplier, reduced inventories, standardized components, and located processing where scale and industrial ecosystems made it cheapest. These choices were not irrational. They helped lower the cost of electronics, batteries, motors, renewable-energy equipment, and countless ordinary products.
+Those choices were not irrational. They lowered costs.
 
-But efficiency measured in an uninterrupted world can hide fragility.
+They also made some systems thin.
 
-A second refinery may run below capacity. A strategic stockpile may sit untouched. A smaller supplier may charge more. A domestic processing plant may never beat the dominant incumbent on cost. All can look like mistakes until the primary route fails.
+A second refinery may run below capacity. A strategic stockpile may sit untouched. A smaller supplier may charge more. All can look like mistakes until the primary route fails.
 
-The difficult policy question is how much redundancy to buy.
+The hard question is how much redundancy to buy.
 
-There is no formula. Too little leaves the system brittle. Too much turns resilience into industrial patronage. A government can spend billions keeping a facility alive that has no customers, no qualified output, or no plausible path to competitiveness. Firms can label ordinary commercial problems as national-security risks. Politicians can subsidize mines in favorable districts and call the result strategy.
+There is no formula. Too little leaves the system brittle. Too much turns resilience into patronage.
 
-The word “critical” should not suspend arithmetic.
+The test is operational.
 
-The right test is operational.
-
-Can the second supplier actually deliver material at the specification and volume required? Can the refinery obtain reagents if the same disruption that removed the first supplier also affects its inputs? Can the recycler secure enough feedstock to run? Can the stockpile release material in the chemical form downstream users need? Can a substitute be manufactured at scale rather than demonstrated in a laboratory? Can the alternative route survive a period of low prices without disappearing?
+Can the second supplier actually deliver material at the required specification and volume? Can the refinery obtain reagents if the same disruption affects its inputs? Can the recycler secure feedstock? Can the stockpile release material in the chemical form downstream users need? Can the substitute be manufactured at scale rather than demonstrated in a laboratory? Can the alternative survive low prices long enough to be present when it is needed?
 
 A redundant route that shares the same hidden dependency is not redundant.
 
-This is why the next mineral economy will need better maps than the one we started with.
+That is why the next mineral economy needs better maps than the one this book began with.
 
-At the beginning of this book, a map of mines looked like a map of power. It was useful, but incomplete. The leverage often sat downstream: in separation, refining, precursor chemicals, cathodes, anodes, alloys, magnets, technical standards, financing, equipment, or customer qualification. The same will be true of recycling. The same will be true of substitutes.
+A map of mines is useful and incomplete. Leverage can sit in separation, refining, precursor chemicals, cathodes, anodes, alloys, magnets, equipment, technical standards, finance, ports, or customer qualification.
 
-A second mine can still feed the same refinery. Two refineries can still depend on one reagent. Three magnet plants can still depend on one source of separated rare earths. A stockpile can contain material that only one processor knows how to use.
+A second mine can still feed the same refinery. Two refineries can depend on one reagent. Three magnet plants can depend on one separator. A stockpile can contain material only one processor knows how to use.
 
-The chokepoint moves until somebody bothers to look for it again.
+The chokepoint moves until somebody bothers to look again.
 
-Producer countries will also have a larger claim on what maturity should mean.
+Producer countries have a larger claim on what maturity should mean too.
 
-The mineral race is often narrated from consuming capitals. Washington worries about access. Brussels worries about concentration. Tokyo and Seoul worry about industrial continuity. Beijing worries about security of inputs as well as the leverage created by processing dominance. But the ore is frequently extracted somewhere else, where the political question is not merely whether the world gets enough copper or lithium. It is whether the place hosting the mine gets anything durable in return.
+The mineral race is often narrated from consuming capitals. Washington worries about access. Brussels worries about concentration. Tokyo and Seoul worry about continuity. Beijing worries about its own inputs as well as the leverage created by processing dominance.
 
-In 2025, Latin American countries refined only about one-fifth of the key energy minerals they extracted on average, excluding lithium, according to the IEA. Expanding local refining could raise the value retained in the region while also diversifying global processing.
+But ore is frequently extracted somewhere else, where the political question is not merely whether the world gets enough copper or lithium.
 
-That sounds like a clean alignment of development and security. It is not automatic.
+It is whether the place hosting the mine gets anything durable in return.
 
-A refinery needs reliable and competitively priced power. It needs water, logistics, technology, skilled labor, environmental controls, financing, and enough throughput. Building one simply because ore is nearby can destroy value. Forcing every mine to process locally can turn an understandable development ambition into an expensive bottleneck.
+In 2025, Latin American countries refined only about one-fifth of the key energy minerals they extracted on average, excluding lithium, according to the IEA. More local processing could increase value retained in the region while diversifying global capacity.
 
-But the opposite assumption—that producer countries should remain exporters of low-value raw material while wealthy customers subsidize processing at home—is becoming politically harder to defend.
+That is not automatically good policy. A refinery needs competitive power, water, logistics, skills, environmental controls, financing, and throughput. Building one simply because ore is nearby can destroy value.
 
-The better bargain is specific to the place. Where downstream capacity can operate competitively, locating more of it near production can leave technical knowledge, infrastructure, tax capacity, supplier networks, and higher-value employment behind. Where it cannot, the rent from extraction can still be converted into other durable assets. Chapter 18’s balance-sheet question survives the rush: what remains after the ore leaves?
+But the opposite assumption—that producer countries should export low-value material while wealthy customers subsidize processing at home—is becoming harder to defend.
 
-A mature global system should have a better answer than a royalty cheque and a hole in the ground.
+The better bargain depends on the place. Where downstream industry can operate competitively, it can leave technical knowledge, infrastructure, tax capacity, suppliers, and higher-value employment behind. Where it cannot, extraction rents can still be converted into other durable assets.
+
+Chapter 18's question survives the rush.
+
+When the tonne of ore leaves, what remains?
 
 Environmental constraints survive too.
 
-Nothing about strategic urgency makes tailings less dangerous or water less scarce. If anything, the rush to diversify supply can create pressure to weaken review precisely when new mines are moving into more difficult deposits, lower grades, remote regions, or water-stressed landscapes. A country that escapes one geopolitical dependency by creating an unmanageable environmental liability has not become resilient. It has exchanged one vulnerability for another.
+Strategic urgency does not make tailings less dangerous or water less scarce. A country that escapes one geopolitical dependency by creating an unmanageable environmental liability has exchanged one vulnerability for another.
 
-This is why “faster permitting” is too simple a destination.
+Some permitting systems are genuinely slow and badly coordinated. Delay can destroy projects without improving outcomes. The answer is competent decision-making, not pretending consequences disappeared because the mineral acquired a strategic label.
 
-Some permitting systems are genuinely slow, repetitive, uncertain, and badly coordinated. Delay can destroy projects without improving environmental outcomes. But the answer is not to make consequences disappear from the decision. It is to make the decision process competent enough to distinguish a project that can manage its costs from one that merely promises to.
+This learning accumulates just as industrial capability does.
 
-The mineral economy after the rush will still contain conflict because extraction changes places.
-
-It will also contain more knowledge about those conflicts. Tailings standards improve after failures. Water systems are redesigned after scarcity becomes binding. Communities negotiate differently after watching neighboring projects. Governments learn, sometimes slowly, that closure liabilities do not vanish when ownership changes. Engineers discover that a process that was cheap under one environmental regime becomes expensive under another.
-
-This learning is another form of infrastructure.
-
-So is institutional memory.
-
-The first attempt to build a rare-earth separation plant outside the dominant ecosystem may be painfully expensive. The second benefits from people who worked on the first. A government that negotiates one lithium contract learns things it can use in the next. A manufacturer that qualifies a second supplier acquires procedures that make a third easier. A recycler that survives one generation of battery chemistry is better positioned for the next.
+The first rare-earth separator outside an incumbent ecosystem may be painfully expensive. The second benefits from people who worked on the first. A government that negotiates one lithium contract knows more during the next. A manufacturer that qualifies a second supplier acquires procedures that make a third easier. A recycler that survives one generation of battery chemistry is better positioned for the next.
 
 Industrial capability accumulates.
 
-That is how a chokepoint becomes less absolute even when the underlying geology does not change.
+Institutional memory does too.
 
-There is a temptation at the end of a book like this to announce a winner. China built the strongest refining position, so perhaps China wins. The United States and its allies are spending heavily on diversification, so perhaps they catch up. Producer countries are asserting more control, so perhaps leverage shifts toward the mine. Recycling grows, so perhaps the old map becomes irrelevant.
+That is how a chokepoint becomes less absolute even when geology does not change.
 
-None of these endings survives contact with the system.
+No actor gets a permanent ending. China's processing ecosystem is formidable, and that dominance gives customers a reason to diversify. Allied subsidies can build alternatives without guaranteeing that every subsidized plant survives. Producer countries can bargain harder while buyers substitute, recycle, wait, or finance another route. Recycling can diversify feedstock and concentrate processing at the same time.
 
-China’s processing ecosystem is formidable and difficult to reproduce, but dominance encourages customers to diversify. Allied subsidies can build capacity, but not all subsidized capacity will survive. Producer countries have leverage, but buyers can substitute, recycle, wait, or finance alternatives. Recycling will become more important, but it can itself concentrate. New technology can remove one mineral from a design and make another newly strategic.
+The map keeps moving because everyone on it reacts.
 
-There is no final map.
+The useful skill is noticing when it moves.
 
-That is not a failure of prediction. It is the nature of a system whose participants respond to pressure.
-
-The oil age never settled into a permanent arrangement either. New fields appeared. OPEC changed strategy. Efficiency improved. Shale altered supply. Wars and sanctions moved trade. Strategic reserves were built and released. Demand shifted geographically. The important skill was not memorizing one map of power. It was learning what to watch when the map moved.
-
-Critical minerals require the same habit with an added complication: the material can often be redesigned, recovered, or moved to a different stage of the chain.
-
-The most durable conclusion is therefore modest.
-
-Chokepoints are concentrations of capability, capital, infrastructure, policy, geology, and demand. Some begin in the crust. Many become powerful only because processing and manufacturing accumulate around them. They can last for decades. They can also weaken when a second route becomes credible.
-
-The second route is the recurring theme beneath nearly every response in this book.
-
-A second mine.
-
-A second refinery.
-
-A second chemistry.
-
-A second shipping route.
-
-A second source of finance.
-
-A second use for the material after the first product dies.
-
-Not every second route deserves to exist. Some are too expensive, too dirty, too small, too politically convenient, or dependent on the same hidden bottleneck. The point is not duplication for its own sake. It is optionality that works.
-
-That is what a mature mineral economy looks like from inside a disruption.
-
-The battery at the recycler is a small example. Its lithium does not know whether it came from Chile, Australia, Argentina, or somewhere else. Its nickel, if it contains nickel, does not remember a smelter. The material has already crossed the geopolitical map once. Now infrastructure determines whether it can cross again.
+The battery at the recycler is a small example. Its lithium does not remember whether it came from Chile, Australia, Argentina, or somewhere else. The material has already crossed the geopolitical map once. Now infrastructure determines whether it can cross again.
 
 If collection fails, it becomes waste.
 
@@ -194,18 +158,22 @@ If processing exists but is concentrated, it becomes another dependency.
 
 If recovery works and the material can re-enter production, it becomes one more route through the system.
 
-The difference is not geology. It is what people built around it.
+The difference is not geology.
 
-The rush for critical minerals will not end because the world finally has enough rock. There is already enough rock in the broad geological sense for many of the technologies people want to build. The difficulty has always been turning deposits into qualified material at the required speed, cost, environmental burden, political risk, and scale.
+It is what people built around it.
+
+The rush for critical minerals will not end because the world finally has enough rock. In the broad geological sense, many of the materials already exist in abundance.
+
+The difficulty has always been turning resources into qualified material at the required speed, cost, environmental burden, political risk, and scale.
 
 After the rush, those constraints remain.
 
 What can change is the number of ways through them.
 
-That is the useful measure to carry forward. When the next export restriction is announced, when the next mine slips by three years, when a battery chemistry takes unexpected market share, when a refinery closes, when a new recycling stream becomes large enough to matter, ask the same question.
+When the next export restriction is announced, when the next mine slips by three years, when a battery chemistry takes unexpected market share, when a refinery closes, or when a recycling stream becomes large enough to matter, the question is the same.
 
 Where is the leverage now?
 
-Then ask the harder one.
+Then the harder one.
 
 Is there another route?

@@ -40,7 +40,6 @@ function syncButtons(nav) {
     if (!button) continue;
     button.hidden = !visible(target);
   }
-
   const repo = $('repoOverview');
   nav.hidden = !repo || repo.hidden;
 }
@@ -76,9 +75,13 @@ function installStyles() {
   if (document.querySelector('link[data-workspace-nav]')) return;
   const link = document.createElement('link');
   link.rel = 'stylesheet';
-  link.href = new URL('./workspace-nav.css?v=1', import.meta.url).href;
+  link.href = new URL('./workspace-nav.css?v=2', import.meta.url).href;
   link.dataset.workspaceNav = 'true';
   document.head.appendChild(link);
+}
+
+function shortcutLabel() {
+  return /Mac|iPhone|iPad/.test(navigator.platform || '') ? '⌘K' : 'Ctrl K';
 }
 
 function installWorkspaceNav() {
@@ -95,10 +98,9 @@ function installWorkspaceNav() {
     <div class="workspace-map-scroll">
       ${SECTIONS.map((section) => `<button type="button" data-workspace-target="${section.id}">${section.label}</button>`).join('')}
     </div>
-    <button class="workspace-map-find" type="button" data-workspace-find>
-      <span>Find</span><kbd>⌘K</kbd>
+    <button class="workspace-map-find" type="button" data-workspace-find aria-label="Find manuscripts">
+      <span>Find</span><kbd>${shortcutLabel()}</kbd>
     </button>`;
-
   repo.insertAdjacentElement('afterend', nav);
 
   nav.addEventListener('click', (event) => {

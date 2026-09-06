@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the Svyable Desk book dashboard and audit Reader-facing manifests.
+"""Generate the Sven Hardy Benson’s Desk book dashboard and audit Reader-facing manifests.
 
 Local-first by design: this script reads repository files and, when available,
 a sibling Shelf checkout. It needs no network access or third-party packages.
@@ -104,7 +104,7 @@ def clean_summary(text: str, limit: int = 190) -> str:
     text = re.sub(r"[*_`]+", "", text)
     text = re.sub(r"\s+", " ", text).strip()
     if not text:
-        return "Working manuscript in Svyable Desk."
+        return "Working manuscript in Sven Hardy Benson’s Desk."
     sentence = re.split(r"(?<=[.!?])\s+", text, maxsplit=1)[0]
     candidate = sentence if 70 <= len(sentence) <= limit else text
     if len(candidate) <= limit:

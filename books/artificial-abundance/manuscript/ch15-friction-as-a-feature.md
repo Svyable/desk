@@ -242,6 +242,14 @@ A deployment system can stage a release to a small population before exposing ev
 
 A medication order can trigger an alert only when a dose exceeds a meaningful threshold rather than interrupting every routine prescription.
 
+But reversibility is not a property of the button alone.
+
+A bad draft can be restored from history and leave almost nothing behind. A mistaken public accusation can be deleted or retracted while continuing to circulate in screenshots, memories, search results, and decisions already made. An automated denial can have a formal appeal path and still be practically sticky if the affected person cannot discover the reason, reach anyone with authority, or survive the delay while the appeal moves.
+
+So an institution deciding how much friction to place before an action needs more than the question, Can we undo this? It needs to know whether the error is likely to be detected, whether the people affected can actually be restored, and whether restoration arrives while it can still matter. A technically reversible action with weak detection or weak recourse may deserve more resistance than its software architecture suggests.
+
+This is where an undo window becomes an institution rather than a feature. Someone has to notice the mistake. Someone has to be able to stop the downstream consequences. Someone has to own the work of restoration. If all three functions are missing, rollback is mostly a comforting word.
+
 The best friction is often selective.
 
 It does not slow the common safe case merely to prove seriousness.
@@ -251,6 +259,20 @@ It concentrates resistance where the cost of error rises.
 Artificial intelligence can make this selectivity better.
 
 The same systems that create risk can help identify which actions deserve review. A low-stakes draft can flow through. A high-dollar transfer can pause. A routine code change can be tested automatically. A change touching authentication can require another reviewer. A generic marketing image can be generated freely. A public health claim can require source verification.
+
+That sounds like a way to reduce the total burden of review, and often it is. It also changes the work left for the reviewer.
+
+Once routine cases pass automatically, the human queue is no longer a smaller sample of the old queue. It is a concentration of exceptions: ambiguous cases, novel cases, disagreements between signals, cases in which the classifier itself is least certain. Volume can fall while the average difficulty of what remains rises.
+
+This matters because organizations often staff the checkpoint as though fewer cases must mean proportionally less human capacity. The arithmetic looks efficient until the queue contains almost nothing easy. Then the people assigned to be the safety layer are given less time per case just as the cases require more investigation.
+
+A second signature is not useful because it is second. It is useful when the signer can inspect the relevant evidence, has enough time to understand the exception, and can stop the process without being punished for doing the job. An escalation channel that nobody staffs is decoration. A review period that expires into automatic approval can turn a nominal veto into approval by timeout.
+
+Friction needs capacity behind it.
+
+This is the practical connection to the judgment bottleneck. If automation routes only the hardest work to people, the retained human step should be designed around the hard work, not around the average case that automation removed. Otherwise the institution preserves the appearance of caution while eliminating the conditions under which caution could operate.
+
+Automation can help on this side too. It can gather evidence for the reviewer, test routine conditions, compare an action against policy, and make controls cheaper. There is no law requiring every increase in machine capability to create a proportional increase in human review. Sometimes the safer design is better automated review, especially where people are overloaded or inconsistent.
 
 The goal is not maximum friction.
 
@@ -273,6 +295,14 @@ A content-review process that takes weeks can silence speech at the moment it ma
 The protective checkpoint can become the hazard.
 
 That is why friction should be proportional to consequence, not to institutional anxiety.
+
+And consequence is not just magnitude. It also has an address.
+
+Suppose an organization chooses the threshold that determines which transactions receive extra scrutiny. The organization bears some fraud losses. The customer bears much of the delay created by false positives. Tightening the threshold can therefore look attractive to the organization even when the combined cost rises, because part of the new cost appears in somebody else's day rather than on the organization's ledger.
+
+The reverse can happen too. An institution can remove a checkpoint because speed improves its own economics while the downside of an error lands on customers, workers, neighbors, or the public. Friction and frictionlessness can both export costs.
+
+This is why a consequential action whose downside falls mostly on other people may deserve more resistance than a similarly expensive private mistake that is easy to reverse. The purpose is not to make every externality pass through a committee. It is to stop treating the actor's convenience as the full cost of acting.
 
 Abundant intelligence makes proportionality easier to imagine because systems can become more context-sensitive. Instead of one fixed process for every case, the organization can route different cases differently.
 
@@ -311,6 +341,12 @@ Who is exempt?
 Who gets the frictionless experience because the system trusts them by default?
 
 The answers reveal what the institution values.
+
+They also reveal whether the person experiencing the pause chose it.
+
+There is a category of friction that is neither a safety review nor an institutional barrier. People sometimes choose constraints because the constraint separates intention from execution. A cooling-off period, a spending limit, a scheduled rather than immediate message, or a rule requiring another night's sleep before a large personal decision can create room for a future self to disagree with a present impulse.
+
+That kind of commitment friction is easy to romanticize because it sounds wise. The important feature is not inconvenience. It is agency. A constraint a person meaningfully chooses for a defined purpose is different from a delay imposed by an institution that calls the delay good for them. The same number of hours can be a tool in one case and a burden in another.
 
 This is another reason not to romanticize slowness.
 
@@ -358,7 +394,7 @@ Not every pause.
 
 Not the old delays merely because they are old.
 
-The useful pause is the one that gives consequence time to become visible before action becomes irreversible.
+The useful pause is the one that changes risk, preserves meaningful reversibility, protects room for judgment, or gives a chosen commitment time to work. Its value comes from what can happen during the delay and who has the power to act, not from slowness itself.
 
 And once difficulty itself is no longer necessary for production, we will face a different temptation.
 

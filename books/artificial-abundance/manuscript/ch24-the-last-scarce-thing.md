@@ -248,6 +248,86 @@ So does building a company, caring for a parent, joining a community, writing a 
 
 Commitment is expensive because it closes doors.
 
+Economists have a useful language for the thing on the other side of commitment: option value.
+
+An option is valuable partly because it preserves the right to decide later. When uncertainty is high, waiting can be sensible. More information may arrive. The price may change. A better opportunity may appear. The option lets a person avoid an irreversible bet before the bet is necessary.
+
+Artificial abundance can increase option value everywhere.
+
+Before choosing a design, generate twenty more. Before accepting the plan, simulate five alternatives. Before hiring, search a larger pool. Before committing to a strategy, ask for another analysis. Before buying the ticket, compare every route. Before finishing the sentence, request another version.
+
+Much of this is beneficial.
+
+Cheap exploration is one of the great gifts of generative systems. People can test ideas that would once have been too expensive to examine. A small business can model several approaches before risking cash. A student can try several explanations before deciding that a subject is beyond them. A designer can explore a space before committing materials. A patient can prepare better questions before making a consequential choice with a professional.
+
+The danger begins when the cost of one more option falls faster than the cost of choosing among options.
+
+Then stopping starts to feel irrational.
+
+Why accept this draft when another costs a second?
+
+Why commit to this plan when the system can produce a stronger one?
+
+Why live with this configuration when personalization can keep refining it?
+
+The problem is not that another option exists.
+
+It is that abundance makes the counterfactual permanently visible.
+
+Every commitment acquires a ghost version that might have been better.
+
+The opportunity cost was always there. Choosing one job meant not choosing another. Marrying one person meant not marrying the set of people one might otherwise have met. Building one company meant not building several others. Reading one book meant not reading thousands.
+
+Artificial abundance does not create those foregone possibilities.
+
+It gives them excellent copy.
+
+The road not taken can now arrive with a business plan, a mood board, a financial model, a simulated conversation, and a personalized argument for why it was the road you should have taken.
+
+That can make ordinary opportunity cost psychologically louder even when nothing economic has changed.
+
+A person can spend a great deal of finite life evaluating lives that will never be lived.
+
+This is where commitment stops looking like a restriction and starts looking like production.
+
+Commitment produces things optionality cannot.
+
+A reputation requires repeated choices that become observable. A friendship requires enough returns that both people begin to predict the next one. Skill requires practice after the first burst of information has stopped being interesting. A company accumulates culture and operating knowledge because people remain long enough to experience consequences. A place becomes familiar because novelty is allowed to expire.
+
+These are assets built by closing some options.
+
+The return arrives through duration.
+
+Artificial abundance can help build them. It can reduce the administrative tax around practice, make a small team more capable, help friends coordinate, remove language barriers, preserve memories, and shorten the distance between intention and action.
+
+It can also keep interrupting the compounding process with better-looking alternatives.
+
+A system optimized to keep offering useful options does not need malicious intent to create this effect. It may simply be doing exactly what was requested: improving the menu.
+
+The user still needs a way to finish ordering.
+
+This changes the value of stopping rules.
+
+Earlier in the book, stopping rules appeared as a response to the cost of choosing among abundant outputs. At the end, the stakes are larger. A stopping rule is sometimes what converts generated possibility into a life.
+
+The deadline passes.
+
+The application is submitted.
+
+The design ships.
+
+The couple decides.
+
+The family moves.
+
+The book ends.
+
+Closure is not always optimal.
+
+It is simply necessary for many things to exist outside simulation.
+
+A person who refuses every irreversible decision can preserve extraordinary flexibility and still find that flexibility has consumed the years it was supposed to protect.
+
 Artificial abundance is exceptionally good at keeping doors open.
 
 It can generate another option just before the current one becomes uncomfortable.
@@ -327,6 +407,52 @@ Living collapses them.
 The collapse is not a defect.
 
 It is how a life acquires shape.
+
+There is another implication in the word finite.
+
+Time has a distribution.
+
+A wealthy person can buy back hours by hiring help, living close to work, paying for faster travel, outsourcing administration, or purchasing services that turn money into convenience. A person with less money may spend more of the day waiting, commuting, filling forms, comparing prices, repairing old equipment, arranging care, or navigating institutions that charge for their own complexity in hours instead of dollars.
+
+Artificial intelligence can reduce some of these taxes dramatically.
+
+That is one reason cheap cognitive assistance can matter even when it does not raise measured income. A form understood in five minutes instead of fifty returns forty-five minutes. A small business that can resolve a routine legal or technical question without a day of search gets a piece of the owner's life back. A person who can translate, schedule, compare, summarize, and prepare without hiring specialists gains practical capacity.
+
+But the distribution question remains.
+
+If the same systems also raise expected output, intensify monitoring, or move more administrative work onto individuals because assistance supposedly makes it easy, the time dividend can disappear.
+
+The unit of welfare is not the task saved.
+
+It is what happens to the hour.
+
+That question is difficult to answer in aggregate because hours are not interchangeable from the inside. An hour of unwanted paperwork and an hour with a dying parent occupy the same length on a clock and almost nothing else in common.
+
+Artificial abundance makes the exchange rate between them more visible.
+
+A capable system may eventually perform not only the paperwork but much of the choosing around it. It can triage, schedule, negotiate, filter, and recommend. That can be liberating. It also creates one last delegation problem.
+
+If the assistant decides what deserves the recovered time, who received the dividend?
+
+A person can outsource selection and still remain the owner of the consequences. The assistant can clear the calendar, but it cannot establish that the newly empty afternoon should belong to work, family, recovery, curiosity, exercise, another optimization project, or nothing at all unless the person has supplied some objective by which to choose.
+
+Even that objective may be learned from behavior.
+
+The system can infer what held attention before.
+
+That is not necessarily the same as what deserves attention next.
+
+Abundance therefore increases the value of deliberate non-optimization in a narrow sense: moments when a person refuses to ask which available use has the highest predicted return and simply inhabits a commitment already made.
+
+Not every dinner needs a better dinner.
+
+Not every walk needs a route improvement.
+
+Not every conversation needs a summary.
+
+Not every hour has to justify itself against every possible alternative.
+
+This is not an argument against measurement or assistance. It is an argument that optimization needs a boundary, because a life is not an infinite-horizon computation with a reset button.
 
 This is where artificial abundance may be most generous if we use it well.
 

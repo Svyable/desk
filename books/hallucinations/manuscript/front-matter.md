@@ -1,8 +1,10 @@
-# Hallucinations: How AI Leads Us Astray
+# Hallucinations
 
 *How AI Leads Us Astray*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 Draft edition, 2026
 

@@ -2,7 +2,9 @@
 
 *Why Networks Beat Empires in the AI Age*
 
-Sven Hardy Benson
+**Sven Hardy Benson**
+
+---
 
 First field edition candidate, September 2026.
 

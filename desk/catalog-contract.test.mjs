@@ -12,7 +12,7 @@ function equal(actual, expected) { assertions += 1; assert.equal(actual, expecte
 function deepEqual(actual, expected) { assertions += 1; assert.deepEqual(actual, expected); }
 function ok(value) { assertions += 1; assert.ok(value); }
 
-const portal = `# Svyable Desk
+const portal = `# Sven Hardy Benson’s Desk
 
 ## The books
 
@@ -75,6 +75,17 @@ equal(draft.contents[1].id, 'ch01-current');
 equal(draft.rights, 'All Rights Reserved');
 equal(draft.aiUse, 'AI training and generative use reserved');
 equal(draft.rightsFile, '[RIGHTS.md](RIGHTS.md)');
+
+const singularAuthor = parseBookReadme(`# Legacy Draft
+
+| | |
+|---|---|
+| **Author** | Sven Hardy Benson |
+| **Status** | Drafting |
+`, 'legacy-draft');
+
+equal(singularAuthor.authors, 'Sven Hardy Benson');
+equal(singularAuthor.authorsRaw, 'Sven Hardy Benson');
 
 const published = parseBookReadme(`# Released
 

@@ -46,8 +46,9 @@ The book treats “Fourth Industrial Revolution” as a hypothesis to test, not 
 - [Research brief and chapter architecture](research/README.md)
 - [Machine-readable source ledger](research/source-ledger.csv)
 - [Release review — 2026-09-04](research/release-review-2026-09-04.md)
+- [Release review — 2026-09-06](research/release-review-2026-09-06.md)
 
-This Desk copy remains the canonical working source for future revisions. The September 4, 2026 release review cleared the complete manuscript for a deliberate first-edition Shelf snapshot. The first Shelf edition is frozen from Desk commit `7dd47369223398b38a030d41aae6cc21a0b380c5`; later Desk changes remain working-edition changes unless separately released.
+This Desk copy remains the canonical working source for future revisions. The original first Shelf snapshot was frozen from Desk commit `7dd47369223398b38a030d41aae6cc21a0b380c5`. The September 6, 2026 updated public snapshot is frozen from reviewed Desk commit `4a7767ffd1a2dfac151f3b45621328c7b8e9c18c`; later Desk changes remain working-edition changes unless separately released.
 
 - [Open the working Desk preview](https://svyable.github.io/desk/reader/#/b/this-tech-is-different/)
 - [Open the released Shelf edition](https://svyable.github.io/shelf/reader/#/b/this-tech-is-different/)
