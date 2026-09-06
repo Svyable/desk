@@ -439,3 +439,77 @@ I hope we celebrate it.
 Then I hope someone asks the question that matters more than the sentence.
 
 What did the whale do when we answered?
+
+There is one more reason that question belongs at the end.
+
+It forces the future breakthrough to remain a beginning.
+
+A translation headline feels terminal. We decoded it. We know. The mystery yielded. But if the whale answers, the scientific object changes immediately. The signal we sent has become part of the whale’s social environment. The reply may not fit our predicted category. Another whale may respond. The group may alter spacing. The same synthesized signal may work differently the next day.
+
+The first validated translation would therefore create a new field rather than close one.
+
+We would need an ethics of participation, a science of repair, and institutions capable of governing who is allowed to broadcast what to whom.
+
+The problem would move from decipherment to diplomacy.
+
+That word is deliberately provocative. Diplomacy is a human institution involving recognized parties, interests, representation, negotiation, and authority. Animals do not become states because humans learn more about their signals.
+
+But the underlying shift is useful to imagine.
+
+Extraction asks: what information can we get?
+
+Diplomacy asks: what relationship follows from contact?
+
+A research team that can generate a biologically meaningful whale signal is no longer only observing. A company that can attract a wild animal acoustically is no longer only analyzing data. A farm system that detects refusal before handling is no longer only monitoring. A household device that gives a dog a reliable stop channel is no longer only entertaining.
+
+New information creates new responsibilities because it changes what humans can do.
+
+Publication of scientific findings has always had this property. Knowledge about migration can protect animals or help locate them. Knowledge about calls can support conservation or manipulation. Better individual recognition can support long-term study or surveillance.
+
+The third language makes dual use personal.
+
+Every decoder can become a transmitter.
+
+Every prediction can become an intervention.
+
+Every useful signal can become a lever.
+
+The moral quality of the technology will therefore depend partly on whether the animal retains room to reply in a way the human cannot pre-script.
+
+That is a surprisingly practical standard for “surprising the world.”
+
+The revolutionary moment is not that a machine makes an animal sound human.
+
+It is that humans build systems capable of being corrected by another species.
+
+That would be new at scale.
+
+Our institutions are very good at collecting information about animals. They count, tag, weigh, track, breed, classify, photograph, sequence, monitor, and model them. The next step is not merely a better sensor.
+
+It is an institution that can change because the animal did something.
+
+A ship slows because a communication corridor is active.
+
+A husbandry procedure pauses because participation deteriorated.
+
+A caregiver notices an individual-specific request earlier.
+
+A model abstains because the receiver has not validated the proposed meaning.
+
+A research team abandons a beautiful hypothesis because the animal answered differently.
+
+These are small forms of interspecies accountability.
+
+They are also the only kind of communication that can survive the central asymmetry of this book: humans will remain much more powerful than the animals whose signals we learn to read.
+
+Power does not make conversation impossible.
+
+It makes being influenceable the proof that the conversation was real.
+
+So the final ambition is not a universal animal dictionary.
+
+It is a world with more competent receivers.
+
+That world begins before any machine learns to translate a whale.
+
+It begins whenever the human waits for the next turn.
