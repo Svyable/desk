@@ -194,7 +194,7 @@ This is a powerful architecture because it does not require centralized memory o
 
 The architecture also changes responsibility.
 
-If nobody controls the whole process, harmful patterns can persist without a villain. A recommendation loop radicalizes content because each local optimization makes sense. A bureaucracy accumulates forms because each form solved a specific accountability problem. A city produces congestion because each driver chooses a reasonable route. A market bubbles because each participant responds to prices partly shaped by other participants.
+If nobody controls the whole process, harmful patterns can persist without a villain. A recommendation loop can amplify a harmful category because each local optimization makes sense. A bureaucracy accumulates forms because each form solved a specific accountability problem. A city produces congestion because each driver chooses a reasonable route. A market bubbles because each participant responds to prices partly shaped by other participants.
 
 Distributed causation frustrates moral storytelling.
 
@@ -205,6 +205,64 @@ Sometimes the trail is the actor-like thing.
 This does not absolve people. Designers choose feedback signals. Institutions choose whether records decay. Platforms choose ranking objectives. Regulators choose constraints. Individuals choose actions. But the emergent pattern may not match any participant's intention.
 
 That is the point.
+
+The origin of stigmergy is useful here because the word was coined to solve a very particular explanatory embarrassment. Social insects can produce elaborate collective structures even though no individual insect needs a complete architectural plan. The explanatory temptation is to smuggle the plan into the colony as a hidden coordinator. Stigmergy points in another direction: the partially completed structure changes what later workers encounter, and that changed environment alters what they do next.
+
+A wall under construction can become part of the instruction for building the wall.
+
+The completed pattern is not fully represented in advance inside one worker. Order grows through repeated interaction between local behavior and an environment that carries the residue of prior behavior.
+
+That distinction is easy to lose when we use human examples because humans can also talk, plan, imitate, and consciously coordinate. The insect case strips away some of those options. It shows that an environmental trace can do genuine organizational work rather than merely record what an intelligent agent already decided elsewhere.
+
+The concept also makes decay measurable in principle. A trace that evaporates quickly creates a short social memory. A durable trace creates a long one. Reinforcement can extend the effective lifetime. Competing traces can interfere. The collective pattern depends not only on how strongly agents respond but on how long the environment keeps the response-relevant state available.
+
+That gives us a vocabulary for digital systems that ordinary memory metaphors lack.
+
+A click stored forever is not equivalent to a scent that fades in minutes.
+
+A platform can decide to weight yesterday more than last year. A fraud model can retain a past event for a fixed period. A reputation system can make an old rating nearly permanent. A recommendation system can decay user history aggressively or let early interests shape years of subsequent exposure.
+
+These are design choices about the half-life of traces.
+
+The system's personality can emerge from them.
+
+A recommender with fast decay may feel exploratory and forgetful. One with slow decay may feel uncannily consistent and occasionally imprisoning. A scientific citation network has very slow decay; an old paper can continue routing attention decades later. A trending list has rapid decay by design. A credit file, criminal record, or professional reputation can have a much longer social half-life, with consequences serious enough that questions of correction and expiration become matters of justice rather than interface preference.
+
+Once memory is externalized, forgetting becomes governance.
+
+Who is allowed to erase the trail?
+
+Who can correct it?
+
+Who decides how much later actors should trust it?
+
+Can the person affected see what was written?
+
+Does the trace represent the original event, or the reaction to an earlier trace?
+
+These questions reveal another problem with high-fidelity stigmergy: traces can become recursive. A restaurant receives customers because of high ratings. Those customers leave more ratings. A paper receives attention because it has many citations. The attention creates more citations. A neighborhood receives police attention because prior records mark it as high activity; more observation can produce more recorded incidents. A platform surfaces a creator because the creator has engagement; exposure creates more engagement.
+
+The later trace is not independent evidence of the underlying thing.
+
+It is partly evidence of the earlier trace's influence.
+
+This is why counting can create confidence faster than knowledge. Ten thousand repetitions of a signal are less informative if the repetitions were generated by a system that was already routing attention toward the signal.
+
+A theory of collective memory needs to ask not only how much memory exists but how correlated its copies are.
+
+The same principle matters for contemporary claims of synchronicity and simultaneous discovery. Two people may encounter the same idea through separate-looking feeds that share ranking systems, data sources, or cultural inputs. They can sincerely report independent arrival while both followed invisible trails produced by others. Independence is no longer something we can infer from lack of direct contact.
+
+The environment has become a networked mediator.
+
+This is one reason rigorous tests of morphic resonance in humans will need more than separate rooms. They may need separate information ecologies. If a target pattern has leaked into a search index, a training corpus, a recommendation graph, or a shared software system, a later participant can be influenced without ever encountering the original experimenter or participant.
+
+The trace can move farther than the organism that left it.
+
+That is ordinary causation with extraordinary reach.
+
+The distinction between ordinary and extraordinary should therefore be based on mechanism, not on subjective distance. A trace crossing an ocean through a server remains local in the causal sense that information traveled through an identifiable chain. A proposed morphic influence is scientifically different because the chain is claimed not to require that transmission.
+
+The more powerful our trace infrastructure becomes, the more careful that distinction has to be.
 
 Morphic resonance imagines a field in which previous similar activity changes later activity. Stigmergy shows how field-like influence can emerge from local traces without a global field.
 
