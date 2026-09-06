@@ -94,6 +94,7 @@ The canonical title, author, drafting status, chapter count, and manuscript cont
 - [The Longevity Moment](https://svyable.github.io/desk/books/the-longevity-moment/README.md)
 - [The Measure of Good](https://svyable.github.io/desk/books/the-measure-of-good/README.md)
 - [The Mortality Discount](https://svyable.github.io/desk/books/the-mortality-discount/README.md)
+- [The Murder That Mattered Most](https://svyable.github.io/desk/books/the-murder-that-mattered-most/README.md)
 - [The Never Ending Intelligence](https://svyable.github.io/desk/books/the-never-ending-intelligence/README.md)
 - [The Orphan Age](https://svyable.github.io/desk/books/the-orphan-age/README.md)
 - [The Potentiality](https://svyable.github.io/desk/books/the-potentiality/README.md)
