@@ -208,6 +208,72 @@ Again, importance is cumulative.
 
 The murders joined a pile of facts a president could no longer treat as local exceptions.
 
+There is another reason to stay with the case before moving on.
+
+Moore’s Ford makes visible the difference between an investigation and a justice system.
+
+An investigation can be imported. Agents can arrive from Washington with instructions, notebooks, cars, laboratories, supervisors, and a chain of command insulated from the county courthouse. A justice system cannot be imported so easily. It requires witnesses who will testify, prosecutors who can frame charges, grand jurors who will indict, trial jurors who will evaluate evidence rather than defend a racial order, judges who will permit the law to operate, and a community willing to live with the result.
+
+That is why the large federal presence did not automatically solve the case.
+
+The Bureau could gather information in Walton County. It could not manufacture a social world in which that information became usable proof.
+
+The distinction helps explain the architecture of later civil-rights enforcement. The federal government did not simply need more detectives. It needed statutes defining federal offenses, courts willing to hear them, the capacity to protect witnesses, a Justice Department prepared to sustain unpopular prosecutions, and political officials willing to absorb the accusation that national power was intruding into local affairs.
+
+Each of those additions changed the balance between local autonomy and national citizenship.
+
+The constitutional argument was never trivial.
+
+American federalism really does divide power. Local juries really are an important democratic institution. State criminal law really does carry primary responsibility for ordinary murder. The danger appears when those virtues become shields for a local order that has decided in advance which citizens the law will protect.
+
+Moore’s Ford is useful precisely because the abstract argument and the human result can be held in the same frame.
+
+“Let Georgia handle murder” sounds like a normal allocation of authority.
+
+At Moore’s Ford, Georgia did not produce accountability.
+
+“Send the FBI” sounds like the obvious corrective.
+
+At Moore’s Ford, the FBI did not produce accountability either.
+
+The case therefore rejects the comforting idea that jurisdiction by itself is justice.
+
+A federal badge can overcome a county line. It cannot overcome every conspiracy of silence.
+
+That is also why the failure belongs in the history of voting.
+
+Lynching is usually remembered as murder, and it was murder. But racial terror was also a method for setting the price of political participation. The victim need not be killed at a polling place for the signal to reach the polling place. A Black veteran who returns with new expectations, a farmer who challenges an employer, a witness who accuses a white neighbor, a family that seeks legal redress—each can become an example through which other people calculate the cost of asserting citizenship.
+
+Fear has turnout effects even when nobody records them in an election ledger.
+
+The same is true of jury service, business ownership, labor bargaining, school challenges, and land disputes.
+
+That is what makes terror so efficient for a dominant order. One spectacular act can govern many later decisions that never become crimes at all.
+
+The counterfactual therefore needs one more turn.
+
+Imagine that the Moore’s Ford killers had been identified quickly, indicted by a local grand jury, convicted before a Georgia jury, and sentenced under ordinary state murder law. The federal constitutional structure would not have changed. There would have been no need to invent a new national offense to make the case legible. Local justice would have demonstrated that a Black veteran and three Black civilians could receive the same protection the law promised everyone else.
+
+That outcome would have been politically consequential too.
+
+It would have undercut the argument that only national power could answer racial terror. It might have given southern moderates evidence that state institutions could reform themselves. It would have told Black Georgians that a white mob no longer enjoyed automatic community immunity.
+
+The fact that this did not happen is part of why federal civil-rights authority grew morally persuasive.
+
+Government expands not only when national officials seek power.
+
+It expands when local institutions demonstrate that the old allocation of power cannot deliver the result citizens are entitled to expect.
+
+Moore’s Ford was such a demonstration.
+
+The murderers did not write an executive order, draft a civil-rights plank, or design a federal prosecution strategy. Their impunity helped create the argument for people who would.
+
+That is the institutional lesson the decade carried forward: rights are not protected because a government possesses the right words. They are protected when enough parts of the system can convert those words into consequences for people who violate them.
+
+At Moore’s Ford, the killers discovered the system could not.
+
+Washington discovered that failure was becoming its problem.
+
 That is the decade’s verdict.
 
 Moore’s Ford mattered most because the lynching of four Black Americans—including a veteran—exposed the failure of local justice after a war for democracy, triggered an enormous but unsuccessful federal investigation, and helped create the political environment in which the executive branch began assuming a more explicit national responsibility for civil rights.
