@@ -85,13 +85,13 @@ async function applyAuthoringBoundary(remoteInspection) {
     applyWorkspacePolicy(authoringRolePolicy({
       role: imprint.role,
       remoteInspection: false,
-      identity: { owner: imprint.owner, name: imprint.name },
+      identity: { owner: imprint.brandOwner || imprint.owner, name: imprint.name },
     }));
     if (imprint.role === 'shelf') hideAuthoringTools();
   } catch {
-    // The Svyable repository is itself a Desk. Keep the already-applied local
-    // policy if role metadata is temporarily unavailable rather than flashing
-    // generic platform controls back into view.
+    // This repository is itself a Desk. Keep the already-applied local policy
+    // if role metadata is temporarily unavailable rather than flashing generic
+    // platform controls back into view.
   }
 }
 
