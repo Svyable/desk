@@ -15,6 +15,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: brand-sven-desk-public-surfaces-v2
+          fetch-depth: 0
       - name: Validate identity boundaries
         run: |
           node desk/authoring-role-policy.test.mjs
