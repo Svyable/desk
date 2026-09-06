@@ -11,7 +11,7 @@
 | **Chapters** | 18 of 18 + prologue |
 | **Edition** | First complete draft |
 | **Language** | English |
-| **Release Review** | Substantive factual/research review complete; release-cleared subject only to mechanical validation in `research/editorial-review.md` |
+| **Release Review** | Substantive factual/research review complete; release blocked on the repository length gate documented in `research/editorial-review.md` |
 
 The central thesis is that alliances create durable power only when political promises become interoperable systems. In the AI age that means more than common weapons: data, models, clouds, identity, communications, logistics, standards, munitions, industrial capacity, permissions, testing, and the human ability to operate together under pressure.
 
