@@ -259,3 +259,59 @@ Same social fact.
 Someone else’s attention can become useful.
 
 Once an animal knows that, conversation has somewhere to land.
+
+There is another reason corvids matter to this book. They show how quickly human attempts to classify animal behavior can become part of the animal’s own social world.
+
+In the crow mask experiments, the important object was not the face in isolation. It was a face attached to a history of capture, release, alarm, and later encounters. Other crows could acquire information socially. A human research protocol became an event that birds remembered and transmitted.
+
+That is a useful warning for any future system that tries to communicate actively with wild animals.
+
+We will not enter a pristine channel.
+
+The device will acquire a reputation.
+
+A drone that repeatedly follows animals, a speaker that produces socially salient calls, a feeder associated with one sound, or a research boat that always appears before playback can become a learned object in the animals’ world. Once that happens, the experiment is no longer only about the signal. It is also about the history of the apparatus.
+
+Researchers already work hard to manage habituation, order effects, location effects, and individual history. AI will make it possible to generate much larger numbers of precisely controlled signals, but precision does not erase memory. An animal may learn the experiment faster than the experiment learns the animal.
+
+That possibility should delight us rather than frustrate us.
+
+A bird that changes strategy across trials is not contaminating the study. It is demonstrating that repeated interaction has consequences.
+
+The design must account for them.
+
+This becomes especially important in urban settings, where interspecies relationships are not pairwise. A crow may learn one person’s face and transmit information to other crows. Humans may discuss the birds, alter feeding behavior, install deterrents, or share stories that change how neighbors respond. Two cultures—human and corvid—can begin adapting around the same street corner.
+
+The third language can therefore exceed the pair without becoming universal.
+
+A building superintendent learns that crows gather when one resident feeds them. The resident learns that one particular call often precedes the arrival of others. The crows learn that the superintendent’s approach predicts interruption while the resident’s predicts food. New birds acquire parts of the pattern socially. New residents inherit stories about the birds.
+
+Nobody has designed a language.
+
+A local communicative ecology has formed.
+
+That phrase matters because the book’s private-dialect thesis should not trap us inside romance between one person and one animal. Shared codes can emerge wherever repeated cross-species interaction creates stable expectations. Farms, docks, parks, laboratories, zoos, neighborhoods, and wildlife tourism sites all produce them.
+
+Some are cooperative.
+
+Some are adversarial.
+
+A gull that learns which human movement precedes food theft and a human who learns how to protect lunch are still adapting to one another. A crow that recognizes a dangerous mask and a researcher who changes experimental procedure are inside a reciprocal history even if neither would call it friendship.
+
+Communication does not require affection.
+
+It requires consequence.
+
+This is useful because popular animal stories often divide relationships into bonding and conflict. The actual world is full of negotiated coexistence. Farmers and corvids, fishers and seabirds, city residents and pigeons, gardeners and squirrels, waste workers and gulls all learn from one another’s routines. The most durable cross-species systems may arise not from tenderness but from repeated practical problems.
+
+That broadens the research question.
+
+Instead of asking only whether an individual animal can understand a human gesture, ask whether human communities and animal populations develop local conventions around repeated encounters. Which cues become stable? Which spread socially? Which depend on particular people? Which persist after those people leave? Which lead to escalation and which reduce conflict?
+
+Corvids are ideal for this because they combine social learning, long memory, individual recognition, flexible behavior, and life in human-dominated environments.
+
+They do not merely point us toward objects.
+
+They point toward a scale of interspecies communication that is larger than the laboratory trial and smaller than a species-wide language.
+
+The neighborhood can have a dialect too.
