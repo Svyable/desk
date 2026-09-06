@@ -230,6 +230,142 @@ IBM did not invent the platform economy.
 
 System/360 made its logic unmistakable.
 
+## The Company Had to Cannibalize Itself
+
+The most revealing part of the System/360 decision is not that IBM took a large risk. Large companies take large risks constantly.
+
+The revealing part is what IBM risked destroying.
+
+A successful incumbent usually owns products that customers already understand, factories already optimized for them, sales teams already compensated to sell them, and managers whose status is tied to the old organization. The new product does not compete only with outside rivals. It competes with the internal political economy of the company that must launch it.
+
+System/360 threatened older IBM lines precisely because compatibility required the firm to stop treating each machine family as a protected island. One architecture meant that some specialized advantages of existing products would matter less. Customers who once had to make a large architectural choice could increasingly choose capacity inside a common family.
+
+IBM was asking divisions to surrender some local distinctiveness in exchange for a stronger whole.
+
+That is a corporate form of federalism.
+
+The center standardizes what must be common. Operating units differentiate what can remain local. Get the boundary wrong in one direction and the system fragments. Get it wrong in the other and every product becomes the same product wearing a different badge.
+
+General Motors had solved a related problem in the 1920s by coordinating distinct car divisions. IBM solved it at a deeper technical layer. The architecture itself became common while performance and configuration varied.
+
+This is why System/360 belongs in a history of companies rather than merely a history of computers. The machine family was also an answer to a management question: how can a corporation make its own products compatible when its own internal incentives reward incompatibility?
+
+The answer required senior management willing to destroy the value of some existing assets before competitors did it for them.
+
+That is one of the rarest forms of corporate courage because the loss is visible immediately and the replacement gain exists mostly in forecast.
+
+## The Customer Bought a Future
+
+A mainframe purchase was expensive enough that the buyer cared about more than today's benchmark.
+
+A bank, insurer, airline, manufacturer, university, or government agency had to ask what would happen after installation. Could the system expand? Would replacement parts exist? Would trained programmers be available? Would applications survive an upgrade? Would the vendor still support the architecture years later?
+
+IBM could answer these questions with a promise larger than any single machine.
+
+The company was selling continuity.
+
+That promise shifted part of technological risk from the customer to the vendor. A buyer no longer had to predict exactly which machine would be sufficient five years from now. The buyer could choose an architecture and expect IBM to provide a path through future capacity requirements.
+
+This was commercially powerful because institutions fear stranded investment.
+
+The cost of a computing system includes everything attached to it: applications, procedures, data formats, training, interfaces, physical facilities, documentation, vendor relationships, and the organizational habits that accumulate around use. A lower-priced rival may therefore be more expensive in practice if adopting it requires abandoning the surrounding investment.
+
+System/360 made IBM unusually good at selling against the total cost of change.
+
+Enterprise technology vendors still do this.
+
+A cloud provider sells not only processors and storage but the confidence that an application can grow without moving to another provider. An enterprise database sells not only queries but decades of stored procedures, administrators, and business logic. An office-software suite sells compatibility with files and workflows created years earlier.
+
+The customer buys a future in which prior decisions remain useful.
+
+That is one reason standards create such durable companies.
+
+## The Service Organization Was Part of the Machine
+
+IBM's advantage was never only the computer in the room.
+
+The company maintained a formidable sales and service organization capable of working closely with large customers. Representatives learned a customer's operations, helped specify systems, coordinated installation, arranged training, and remained present after the purchase. Field engineers could maintain equipment whose failure might stop payroll, reservations, or accounting.
+
+This human layer made the technology less frightening.
+
+A smaller competitor could offer a technically impressive machine and still lose if the buyer believed IBM would be more reliable when something went wrong at two in the morning.
+
+The phrase “nobody ever got fired for buying IBM” became a later cliché because it captured a real organizational incentive. A manager choosing infrastructure does not only maximize performance. The manager minimizes career risk.
+
+A safe vendor can charge for safety.
+
+This is a different kind of brand from Coca-Cola or Cadillac. Consumer brands reduce uncertainty about taste, identity, and quality. Enterprise brands reduce uncertainty about institutional failure.
+
+IBM's blue logo stood behind a promise that the company would still be there after the salesperson left.
+
+The service network therefore functioned like Singer's nineteenth-century repair organization at a much more complex scale. Singer reassured households that a machine could be maintained. IBM reassured institutions that a computing architecture could be lived with.
+
+The pattern survives in cloud support contracts, enterprise consultants, certified partner programs, account teams, and customer-success organizations. In complex technology, the product includes the people who help the customer survive the product.
+
+## What Computing Did to Clerical Work
+
+It is tempting to describe mainframe adoption as automation replacing clerks.
+
+The reality was more complicated.
+
+Computers eliminated or transformed some repetitive tasks while creating armies of programmers, operators, systems analysts, keypunch workers, administrators, technicians, and managers. They centralized certain forms of information processing while distributing terminals and reports across organizations. They made some decisions faster and created new queues around the people authorized to change the software.
+
+Automation did not remove bureaucracy.
+
+It changed bureaucracy's material.
+
+Paper rules became software rules.
+
+A form that once could be bent by a supervisor's pencil might become a validation constraint in code. An exception that a clerk could recognize informally might require a programmer to modify a system. Standardization made processing cheaper and sometimes made institutions less flexible at the edge.
+
+This is the beginning of a tension that will dominate later digital chapters.
+
+Software scales a decision because the decision can be encoded once and applied repeatedly. That is its power.
+
+It can also scale a mistake for exactly the same reason.
+
+IBM taught organizations to move important rules into machines before society had developed a mature language for algorithmic governance. The systems were not “artificial intelligence” in the modern sense. They did not need to be. A payroll rule executed across a national company already demonstrated the political significance of code.
+
+When software became part of the institution, changing the institution increasingly required changing software.
+
+## Why IBM, Not NASA?
+
+The 1960s are difficult because the decade's most dramatic technology story seems to belong to government.
+
+NASA put humans on the Moon. The Apollo program mobilized aerospace companies, universities, laboratories, semiconductors, software, materials, and federal spending at extraordinary scale. If the question were which organization best represents American technological ambition, NASA would overwhelm most corporations.
+
+But this book asks about the company that most changed the operating system of American economic life.
+
+IBM's change was less cinematic and more pervasive.
+
+The mainframe entered banks, insurers, airlines, factories, universities, and government agencies. It made computation a recurring operating expense rather than a one-time scientific spectacle. It created careers, vendor ecosystems, procurement habits, programming disciplines, and expectations about compatibility that would survive the specific machines.
+
+The moon landing demonstrated what concentrated national effort could accomplish.
+
+System/360 changed what ordinary large institutions expected to do every Monday morning.
+
+That is why IBM wins.
+
+## The Irony of Winning the Architecture
+
+IBM's victory contained the seed of a later reversal.
+
+The company had learned that compatibility could make a platform larger than any one machine. In the personal-computer era, IBM would help create another widely compatible architecture. This time, however, important layers of control would migrate to suppliers—especially Intel for processors and Microsoft for operating-system software.
+
+The company that had mastered architectural integration in the mainframe era would discover that an architecture can become so open that value escapes the original integrator.
+
+That does not make System/360 a strategic mistake.
+
+It makes the later history more interesting.
+
+Corporate capabilities do not transfer automatically between eras. A lesson can be remembered at the wrong layer. IBM knew compatibility mattered. The personal-computer question became who would own the most valuable compatibility standard.
+
+In the 1960s, IBM owned enough of the stack that compatibility reinforced IBM.
+
+In the 1980s, compatibility would reinforce an ecosystem in which other companies captured more of the strategic leverage.
+
+The difference between those outcomes is one of the central stories of modern business.
+
 The company of the 1960s was therefore not merely selling computers.
 
-It was teaching American institutions to live inside an architecture.
+It was teaching American institutions to live inside an architecture—and teaching the companies that followed that the most valuable machine may be the one customers can stop thinking about because the architecture promises to remain.
