@@ -371,3 +371,19 @@ That systems view remains essential to any serious account of migration. The sta
 The ship turned an invisible route into a national image.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+The detention story also deserves to remain connected to deterrence. Holding migrants for months or years does more than process individual claims. Governments may hope the treatment of the current group changes the calculations of future migrants and smugglers.
+
+That converts custody into communication.
+
+The ethical difficulty is that people in detention are not abstract messages. They have individual asylum claims, health needs, families, and legal rights. A policy designed to deter a future population can impose severe costs on people whose own cases may ultimately merit protection.
+
+This is where border administration becomes more than sorting. The state is choosing how much hardship it is willing to impose now in order to influence behavior elsewhere.
+
+*Golden Venture* made that choice visible because so many passengers arrived together and remained connected in public memory. Their common voyage encouraged the government and media to treat them as a group. The legal system still had to decide individual cases.
+
+Ships aggregate people physically.
+
+Law has to decide when to disaggregate them morally.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

@@ -249,3 +249,33 @@ The ocean remained wide.
 Neutrality had become narrow.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## The Passenger Liner Was Part of a Wartime Economy
+
+The controversy over *Lusitania*'s cargo has endured because it seems to offer a way to simplify moral responsibility. If the liner carried war-related material, some later arguments imply, then Germany's attack becomes less shocking. If it carried only harmless civilian goods, the ship appears more purely innocent.
+
+Industrial war does not permit that clean binary.
+
+Civilian economies sustain armies. Merchant ships carry food, copper, machinery, chemicals, clothing, ammunition, passengers, and mail in overlapping networks. Belligerents try to identify which flows matter enough to stop. Neutral states try to preserve rights of commerce without allowing every cargo to become a pretext for attack.
+
+That was the legal and strategic pressure around the liner.
+
+The relevant moral distinction is not whether the ship participated in a wartime economy. It plainly moved through one. The question is what methods a belligerent may use against a passenger vessel carrying civilians, including neutral citizens, and what warning or rescue obligations survive when a submarine's own vulnerability makes traditional procedures dangerous.
+
+Germany faced a real military problem. Surfacing to search a ship could expose a U-boat. Merchant vessels might be armed, flee, ram, or summon patrols. The submarine's tactical advantage was surprise.
+
+The solution Germany increasingly chose transferred operational risk from the submarine to civilians and neutral commerce.
+
+That transfer had strategic consequences.
+
+The United States' eventual entry into the war proves that military efficiency cannot be evaluated only at the level of the engagement. A commander can sink the target and a government can lose politically because the method changes who joins the conflict.
+
+The same principle appears elsewhere in American history: tactics create audiences beyond the immediate battlefield. Civilian casualties, neutral shipping, prisoners, images, and legal violations can change alliances and domestic opinion in ways no tonnage table captures.
+
+*Lusitania* belongs to the decade because it made that strategic externality legible to Americans two years before the declaration of war.
+
+The liner sank quickly.
+
+The political consequences accumulated slowly enough to be misremembered as instant.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

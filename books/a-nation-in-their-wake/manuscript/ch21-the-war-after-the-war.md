@@ -311,3 +311,21 @@ The warship is absent from the title because the merchant vessel created the tes
 A commercial ship with forty sailors aboard caused the national-security system to reveal itself under pressure.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## Credibility Is a Story Leaders Tell Themselves Too
+
+Policymakers often invoke credibility as if it were an asset held in a bank: fail to respond strongly here and adversaries everywhere will deduct from the balance. The *Mayaguez* crisis shows why that concept can become dangerous when it is not tied to a specific audience and prediction.
+
+Which adversary was supposed to learn what from the rescue? That the United States would protect merchant crews? That defeat in Vietnam had not reduced military capacity? That the Ford administration would use force quickly? Different audiences could draw different lessons from the same operation.
+
+The United States itself was one of the audiences.
+
+After years of war and the collapse of South Vietnam, leaders and citizens wanted evidence that the country could still act effectively. That domestic psychological need did not make the seizure unimportant. It could make some responses feel strategically necessary because of what they symbolized rather than what they accomplished.
+
+This is where the crew's release complicates the victory story. Military pressure may have influenced Cambodian decisions, but the sailors were being released through a process not caused by the assault on the island where Marines were fighting. The operation therefore produced an image of decisive rescue even though the causal path between the most dangerous combat and the hostages' freedom was weak.
+
+The distinction matters whenever governments use force to signal resolve. A signal is useful only if the action and the intended message are actually connected in the recipient's mind.
+
+Otherwise the state may be paying real costs to reassure itself.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

@@ -319,3 +319,21 @@ The deeper point is that industrial systems often look inexpensive because tail 
 *Exxon Valdez* made the hidden ledger visible.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## Preparedness Has to Be Demonstrable Before the Spill
+
+One of the durable changes after *Exxon Valdez* was the expectation that response planning should be more than a document proving compliance. A credible plan has to connect equipment, trained people, command authority, contractors, communications, and realistic assumptions about geography and weather.
+
+The distinction is obvious after a catastrophe and easy to lose before one.
+
+Preparedness assets are expensive when idle. Skimmers, booms, exercises, trained crews, redundant communications, and response contracts may produce no visible return for years. Managers therefore face constant incentives to treat a low-frequency emergency as a paperwork problem.
+
+The spill turned idle capacity into a public question. How quickly could equipment arrive? Was it appropriate to the conditions? Who had authority? What happened when the oil outran the planned response area? Could wildlife and shoreline impacts be reduced once crude had dispersed across a vast sound?
+
+Those questions changed the standard from “is there a plan?” toward “could this plan work at the scale of the claimed risk?”
+
+That is the same institutional test the book keeps encountering. A warship exists, but is it ready? A forecast exists, but does command use it? A bridge exists, but is its protection calibrated to the ships now passing beneath it?
+
+Infrastructure becomes trustworthy only when the backup system is as real as the front-end service.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

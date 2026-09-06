@@ -285,3 +285,11 @@ The strongest rival is *Chicago*, whose size and later service make her a more o
 That is a small event with a large shadow.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+The quieter institutional point is that peace is when a procurement system has the most freedom to forget. There is no enemy fleet imposing a daily deadline. Delays become tolerable. Skilled labor can migrate to other industries. A supplier can leave the business without an immediate casualty proving why it mattered.
+
+That is why *Dolphin* earns a chapter despite lacking battlefield drama. Her commissioning is evidence that the United States restarted a learning loop before war forced it to. The ship was modest; the restored habit of buying, inspecting, operating, and improving modern steel vessels was not.
+
+Read this way, the New Navy begins as a maintenance decision about national competence. A country preserves options by continuing to practice them before the crisis makes their value obvious.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

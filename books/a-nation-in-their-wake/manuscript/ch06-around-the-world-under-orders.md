@@ -217,3 +217,15 @@ The 1820s United States remained weak by later standards, yet weakness did not p
 The coastline would catch up later.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+The voyage also mattered because endurance creates a different kind of authority than arrival. A ship that can appear once is impressive. A service that can provision, repair, crew, and return vessels across years begins to look permanent. Permanence changes how merchants plan and how foreign officials interpret the flag.
+
+This is the quiet administrative edge of *Vincennes*. The United States was not simply sending a ship far away. It was teaching officers how to live inside distance: how to obtain water and food, negotiate port routines, keep discipline, maintain a wooden sailing vessel through multiple climates, and return reports that the next cruise could use.
+
+Those lessons do not produce monuments because they are diffuse. They produce a service that needs less reinvention each time it leaves home.
+
+The ship's later association with scientific exploration makes that accumulated competence visible. Surveying and specimen collection required different specialists, but they depended on the same basic state ability to send a platform, support it across oceans, preserve records, and bring knowledge home. The Navy was becoming an institution through which the federal government could do more than fight.
+
+It could observe the world repeatedly enough to remember it.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

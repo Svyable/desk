@@ -303,3 +303,19 @@ The war taught the United States that industrial policy is social infrastructure
 *Patrick Henry* is the first unit in that lesson.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+The shipbuilding achievement also depended on accepting that the “best” vessel in wartime might be the one that can be built, repaired, and replaced in quantity. Naval prestige usually rewards performance at the edge: more speed, more armor, more weapons, more range. Merchant logistics reward a different optimum.
+
+A cargo ship that arrives reliably with useful capacity can be strategically superior to a more elegant ship that takes too long to build.
+
+That principle shaped the Liberty program's tolerance for an older basic design. The emergency did not reward technological novelty for its own sake. It rewarded process innovation around a serviceable platform.
+
+This is an important distinction in industrial policy. Innovation can occur in the product, the process, or the organization. Liberty ships were not revolutionary because their cargo holds embodied a new theory of naval architecture. The revolution was in how a nation financed yards, divided work, prefabricated sections, welded hulls, trained labor, scheduled suppliers, and improved cycle time.
+
+The shipyard became a weapon because production itself became operational strategy.
+
+The lesson survives outside war. When demand outruns capacity, the constraint is rarely solved by designing the most sophisticated unit imaginable. It is solved by understanding which features are essential, which variation can be removed, where work can occur in parallel, and how quickly feedback can reach the next unit.
+
+*Patrick Henry* was important because she was first in a system built to make firsts irrelevant.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

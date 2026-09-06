@@ -339,3 +339,23 @@ Resilience is what remains after the sophisticated layer breaks.
 That is why *Cole* belongs to the decade. It reveals both sides of American global power at once: extraordinary reach and the unavoidable exposure created by maintaining that reach.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## The Attack Was Cheap Because the Target Was Valuable
+
+Asymmetric warfare is often described through cost ratios: a relatively inexpensive weapon damages an extraordinarily expensive platform. The comparison is real but incomplete.
+
+The destroyer was valuable precisely because it carried a concentration of capability. Radar, missiles, propulsion, communications, trained sailors, and command systems were packed into one hull so the United States could move power efficiently. Concentration creates value and a target at the same time.
+
+The attackers did not need to replicate the ship's technology. They needed to find a point where its defensive advantages were least relevant.
+
+That is a recurring problem in complex systems. Attackers choose the interface. Defenders have to protect many interfaces because they do not know which one will be selected. Every new security layer can also impose operational friction on the routine activity that makes the system useful.
+
+A destroyer could refuse every small craft, close every port interaction, and maximize distance from civilians only by becoming less capable of the global missions for which it exists.
+
+Security therefore becomes risk management rather than absolute exclusion.
+
+*Cole* is the decade's ship because it made that trade visible before the United States reorganized much of public life around the same problem after September 11. Airports, borders, buildings, financial systems, communications networks, and public events would all face versions of the question the destroyer faced in Aden:
+
+How much openness can a system preserve while treating ordinary contact as a potential attack surface?
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

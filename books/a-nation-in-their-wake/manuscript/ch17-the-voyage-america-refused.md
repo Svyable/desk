@@ -287,3 +287,25 @@ The passengers did not need America to predict the Holocaust in detail.
 They needed officials to believe the persecution already visible was serious enough to change procedure.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## Bureaucracy Can Produce a Moral Outcome Without a Moral Order
+
+One reason the *St. Louis* story remains difficult is that no single American order bears the full weight of refusal. Immigration law existed before the voyage. Consular officials operated rules. Congress had written quotas. The executive branch faced political constraints. Cuba controlled the immediate landing problem in Havana. Other countries also limited admissions.
+
+Responsibility was distributed.
+
+Distributed responsibility is not the same as no responsibility.
+
+Complex governments often produce consequential outcomes through many individually bounded decisions. Each official can point to another office, statute, or political actor. The aggregate result can therefore be morally larger than any single decision memo.
+
+That feature matters for modern humanitarian policy because emergencies routinely cross jurisdiction. Refugees encounter foreign ministries, consulates, border agencies, legislatures, courts, carriers, international organizations, and local governments. A system can have many people acting within their authority and still lack anyone empowered to solve the whole problem.
+
+The institutional design question is therefore whether some actor has clear authority to treat visible danger as an emergency rather than a queue-management problem.
+
+There is a second counterfactual worth preserving. Had the United States admitted the passengers, later memory might treat the voyage as evidence of American generosity while ignoring the much larger number of refugees still blocked by restrictive policy. One rescue can flatter a nation as easily as one refusal can condemn it.
+
+The chapter earns its force by resisting both shortcuts. The United States did not uniquely create the refugee crisis, and admitting one ship would not have solved it. The government did have enough capacity to make a different decision for the people directly in front of it.
+
+History is often judged at that scale.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

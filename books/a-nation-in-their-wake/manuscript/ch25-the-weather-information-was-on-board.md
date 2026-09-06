@@ -379,3 +379,21 @@ Safety margins are most valuable before they feel necessary.
 That is the lesson the ship carries into the next decade. *Dali* will lose propulsion near a bridge with almost no time to recover. *El Faro* had more time, more distance, and more weather information. The tragedy came from not converting those resources into sufficient margin while margin still existed.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## Experience Can Become a Hazard When It Hardens Into Confidence
+
+Experienced mariners survive many situations that look dangerous to outsiders. That experience is essential. It can also create a difficult calibration problem when a new storm, machinery condition, or information source does not behave like the previous ones.
+
+A captain who has safely managed heavy weather before possesses real evidence that judgment and ship can handle adversity. The danger is treating survival of earlier events as proof that the margin remains adequate in the current one.
+
+Organizations face the same problem. A route has been sailed for years. A ship has completed many voyages. A maintenance practice has not produced a casualty. Commercial schedules have usually been met. Absence of failure slowly becomes evidence of safety even when underlying margins are changing.
+
+*El Faro* makes that human tendency concrete because Hurricane Joaquin intensified and moved in ways that demanded continual revision of the mental model. Updated weather information mattered only if prior assumptions were willing to yield to it.
+
+That is the deeper reason the chapter is about information rather than weather alone. Data can challenge experience, but only if the organization creates room for the challenge to change the plan.
+
+The best safety culture is not one that distrusts experienced people.
+
+It is one that gives experience a disciplined way to admit when this voyage is different.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

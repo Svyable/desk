@@ -231,3 +231,29 @@ Goods were traffic to facilitate.
 Some people were traffic to stop.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## The Economics of Exclusion
+
+Anti-Chinese politics is sometimes narrated as if restriction defeated commerce. The relationship was more entangled. Employers could favor access to Chinese labor while white workers and political organizers demanded exclusion. Merchants could profit from Pacific trade while supporting or accommodating a legal regime that constrained the people moving through the same ports. Shipping companies could earn fares from passengers whose admissibility was becoming a federal controversy.
+
+The economy did not speak with one voice.
+
+That is important because “business interests” are often treated as a unified force for open borders. Businesses differ according to what they buy and sell. A railroad needing labor, a white craft worker protecting wages, a shipping line selling passage, a merchant serving Chinese customers, and a politician responding to voters can all have different preferences while participating in the same regional economy.
+
+Exclusion law reorganized those incentives rather than removing them.
+
+Documentation became valuable. Legal status determined which passengers could enter. Categories such as merchant, student, laborer, citizen, or family member became economically consequential. Brokers and lawyers gained roles in proving identity. Inspectors gained discretion. Carriers had reasons to understand which passengers would be accepted because inadmissible passengers created costs.
+
+A border therefore creates an industry around the border.
+
+The federal state expanded through that administrative work. Immigration officers, inspectors, detention facilities, courts, consular documents, and treaty interpretation became parts of a system whose original political energy was explicitly racial. Later immigration law would broaden beyond Chinese exclusion, but some institutional habits were built in this period: the assumption that entry is a federal permission, that categories may be policed at ports, and that carriers can be enlisted into enforcement.
+
+The strongest challenge to choosing *City of Peking* remains immediacy. The ship itself did not produce the Page Act or Chinese Exclusion Act, and another Pacific liner could illustrate much of the same system. The selection is representative rather than singular.
+
+That is acceptable here because representation is the point. The ship's size, American construction, transpacific schedule, and connection to Pacific Mail make it an unusually concentrated object through which to see the same network generating commerce and exclusion at once.
+
+America wanted the route.
+
+It argued over the people who made the route a human one.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

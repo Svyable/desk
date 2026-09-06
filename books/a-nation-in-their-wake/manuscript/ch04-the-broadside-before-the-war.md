@@ -199,3 +199,9 @@ The failure was productive in one narrow sense: it taught the republic that econ
 Those questions recur in sanctions policy two centuries later. *Chesapeake* belongs at their early American origin because the broadside exposed the same basic problem from another angle. Rights, weapons, laws, and markets all matter. None is self-enforcing.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+A final reason to prefer *Chesapeake* is that the episode separates deterrence from retaliation. A state buys readiness partly so an opponent decides not to test it. Once deterrence fails, leaders inherit a different problem: whether punishment now improves the underlying position or merely satisfies the politics of outrage. Jefferson did not lack anger after the attack. He lacked an attractive way to turn anger into advantage.
+
+That makes the affair a better beginning for the nineteenth-century American security state than a clean victory would be. Institutions are often built from the memory of moments when available tools were badly matched to the problem. The humiliating broadside did not settle maritime sovereignty. It clarified what sovereignty would keep costing.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

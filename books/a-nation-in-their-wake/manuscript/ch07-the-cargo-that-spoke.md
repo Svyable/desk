@@ -229,3 +229,13 @@ A legal system is not simply judges deciding principles. It is a supply chain fo
 *Amistad* belongs to the decade because the people aboard interrupted that supply chain and forced it to carry their account instead of only the account written about them.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+The case also exposes the asymmetry between a dramatic legal victory and the slow work of political abolition. A courtroom can resolve the status of a particular group because a judge has jurisdiction over a finite record. Slavery as a national institution was distributed across state law, property claims, labor systems, electoral power, federal compromises, and violence. No single favorable ruling could dissolve that structure.
+
+That is why the chapter should leave the reader with discomfort rather than triumph. The legal system proved capable of hearing evidence that these particular Africans had been kidnapped unlawfully. It remained capable of enforcing bondage against people whose enslavement fit American law.
+
+The distinction keeps *Amistad* from becoming a story about institutions naturally bending toward justice. Institutions bend when facts, law, organization, power, and people make them. The captives' revolt created the opportunity. Abolitionist networks built the case. Courts accepted the relevant factual and legal argument. Other enslaved people faced a system whose rules were written differently.
+
+A ship can reveal a principle without proving the country lives by it.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

@@ -329,3 +329,23 @@ The Moon landing looked singular.
 Its recovery was deliberately repeatable.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## An Ocean Recovery Was Also a Risk Budget
+
+Splashdown traded one set of engineering difficulties for another. A capsule did not need landing gear, wings, or a runway-compatible structure. The ocean provided an enormous landing area. But the choice created exposure to waves, weather, drift, flooding, sea state, delayed rescue, and the possibility that a spacecraft could land far from the expected point.
+
+NASA and the Navy managed the trade by making recovery a distributed system rather than a single ship waiting at one coordinate.
+
+Tracking, weather observations, aircraft, helicopters, swimmers, communications, medical staff, and alternate plans formed layers around the capsule. USS *Hornet* was the most visible layer because cameras were waiting there. The reliability came from the stack.
+
+The last-mile problem is especially interesting because Apollo's spacecraft had just traveled hundreds of thousands of miles through a trajectory calculated with extraordinary precision. Yet final recovery still depended on conditions as ordinary as cloud cover and sea state. The closer the mission came to home, the more terrestrial uncertainty returned.
+
+That is a useful correction to technological triumphalism. Advanced systems do not replace mundane environments. They eventually have to reenter them.
+
+The recovery also carried political theater. President Nixon's presence turned the carrier into a stage for national celebration and Cold War messaging. The quarantine window created an image almost perfectly suited to the age: scientific caution, presidential ceremony, naval hardware, and astronauts who had just crossed a boundary no humans had crossed before.
+
+None of that ceremony should obscure the operational requirement underneath it. Had the capsule been lost after splashdown or the crew injured through a failed recovery, the mission's meaning would have changed immediately.
+
+A successful system is responsible for the last mile even when the first 477,000 miles capture the imagination.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

@@ -229,3 +229,9 @@ The new technology does not remove dependency. It chooses a different dependency
 For a while, the future has to carry the past with it.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+There is one more reason the commercial failure belongs in the chapter. Later generations tend to preserve successful technologies as if adoption were evidence that the winning design had always been obvious. *Savannah* leaves the uncertainty intact. Investors could see smoke, machinery, lost cargo space, fuel expense, maintenance risk, and no guaranteed passenger demand. Skepticism was economically rational.
+
+The future won only after the economics changed enough that skepticism became more expensive than adoption. That is a better model of technological transition than the myth of visionaries versus fools. Most people wait because waiting is often sensible. History turns when enough complementary changes make waiting the greater risk.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->

@@ -219,3 +219,27 @@ The Gold Rush did not merely fill California.
 It pulled the country toward the infrastructure required to keep California attached.
 
 <!-- PUB-AUGMENT-2026-09-06 -->
+
+## The Port Was the First Government Many Arrivals Saw
+
+San Francisco's explosive growth makes it tempting to tell the Gold Rush as a story of weak government and private improvisation. The better account is that public and private systems were being invented on top of one another at emergency speed.
+
+Ships brought more than prospectors. They brought newspapers, postal matter, military stores, legal documents, food, building materials, manufactured goods, finance, and news about prices. A port arrival changed what the settlement knew and what it could buy. Before the telegraph and railroad tied California tightly to the East, a steamer was also an information technology.
+
+That matters because information delay is an economic cost. A merchant deciding what to ship to San Francisco had to guess what thousands of other merchants were sending. By the time cargo arrived, scarcity might have become glut. A miner's family in the East learned of illness, success, or death on a schedule controlled partly by transport. Officials made decisions with reports that could be months old.
+
+Regular steam service did not abolish the delay. It made the delay more predictable.
+
+Predictability is infrastructure.
+
+The Pacific Mail model also helps explain why government contracts matter most before a market becomes obviously profitable. A mail subsidy can support a route during the period when private demand is uncertain. Once migration and trade surge, the line may become commercially attractive on its own. Public money has then purchased an option: capacity exists before the emergency reveals how valuable it is.
+
+That option was fortunate in 1849. The Gold Rush arrived faster than a new transportation system could have been designed from scratch.
+
+The ship therefore belongs to a larger American pattern visible later in railroads, aviation, highways, telecommunications, and spaceflight. Government often does not build the final commercial system directly. It becomes the early customer, guarantor, land provider, regulator, or risk absorber that makes private investment possible sooner than ordinary demand would.
+
+The boundary between public infrastructure and private enterprise is not a line.
+
+It is a contract.
+
+<!-- PUB-AUGMENT-ROUND2-2026-09-06 -->
