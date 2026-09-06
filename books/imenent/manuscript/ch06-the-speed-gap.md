@@ -140,7 +140,7 @@ At nine in the morning, the human gives an objective.
 
 At noon, the agent has read documents, queried systems, communicated with counterparties, created artifacts, rejected alternatives, and updated its plan.
 
-The human receives: "I need approval to proceed."
+The human receives: “I need approval to proceed.”
 
 Proceed with what?
 
@@ -288,7 +288,7 @@ Sometimes delay harms people.
 
 A good book about control has to admit that.
 
-The answer cannot be "slow everything down until humans can watch."
+The answer cannot be “slow everything down until humans can watch.”
 
 The more useful question is where **human time must remain authoritative**.
 
@@ -334,7 +334,7 @@ The human is told to override but lacks a slower operating mode.
 
 The human is told to audit but receives machine-generated evidence too voluminous to inspect independently.
 
-The human remains "above" the machine in the org chart while becoming dependent on the machine for every meaningful view downward.
+The human remains “above” the machine in the org chart while becoming dependent on the machine for every meaningful view downward.
 
 This is how the veto can become ceremonial without anyone removing it.
 
@@ -442,6 +442,140 @@ This is a re-entry ramp.
 
 Without one, human control may depend on catching a machine that has no reason to stop running.
 
+There is another speed gap that begins before deployment.
+
+It is the gap between **organizational learning and technical change**.
+
+A model update can arrive in days.
+
+A security policy can be changed in hours.
+
+A tool can be connected in minutes.
+
+A human institution learns more slowly.
+
+Training takes time.
+
+Procurement takes time.
+
+Law takes time.
+
+Professional norms take time.
+
+Auditors need experience before they know what failure looks like.
+
+Managers need incidents before they understand where a workflow is brittle.
+
+This means a system can move through several technical generations before the surrounding institution has fully metabolized the first.
+
+The new model is more capable.
+
+The old controls remain.
+
+The organization inherits assumptions calibrated to weaker autonomy.
+
+This is **governance lag**.
+
+It should not be confused with mere regulatory slowness.
+
+Private companies experience it too.
+
+A product team adopts a new agent capability quickly because the performance gain is obvious. Security reviews catch up. Training catches up. Documentation catches up. Insurance catches up. Incident response catches up. Sometimes they do. Sometimes the next capability arrives first.
+
+The risk is cumulative.
+
+A permission model designed for agents that acted for minutes may remain in place when agents act for hours.
+
+A review process designed for ten daily actions remains in place when the system creates ten thousand.
+
+A human escalation rule remains nominally unchanged while the average context needed to understand an escalation grows beyond what one person can absorb.
+
+The institution is not asleep.
+
+It is being outpaced by its own adoption.
+
+This is why stable interfaces and standards can improve safety. They let organizational learning persist across technical generations. If authority, evidence, revocation, and recovery use durable structures, the model can improve without forcing governance to be reinvented each time.
+
+The counterpressure matters too.
+
+Standards can freeze bad assumptions.
+
+A rigid control built around today's agent behavior may become irrelevant tomorrow.
+
+The goal is not to freeze technology to human institutional speed.
+
+It is to separate fast-changing capability from slower-changing control primitives where possible.
+
+Identity.
+
+Scope.
+
+Evidence.
+
+Reversibility.
+
+Criticality.
+
+Escalation.
+
+These concepts survive model generations better than benchmark scores do.
+
+A second overlooked problem is **tempo capture**.
+
+Once leaders become accustomed to machine-speed information, their own decision expectations change.
+
+The board wants the analysis by tonight because the agent can produce it.
+
+The minister expects every policy option by morning.
+
+The customer expects immediate resolution.
+
+The manager expects a code change in minutes.
+
+The faster information arrives, the more delay begins to look like incompetence.
+
+This social pressure can eliminate the deliberate pause even when no competitor forces it.
+
+The machine changes the clock people use to judge one another.
+
+The result can be better service.
+
+It can also reduce the space for dissent, consultation, and verification.
+
+A junior analyst who asks for another day may appear slow beside an agent that already produced a polished answer.
+
+A doctor who wants to reconsider may appear inefficient beside a system that has ranked the likely options.
+
+A public official who wants further review may appear bureaucratic beside an automated process that can act now.
+
+Human slowness becomes culturally suspect.
+
+That is a governance problem because some uncertainty should consume time.
+
+A society that cannot distinguish avoidable delay from valuable delay will optimize away both.
+
+This suggests that re-entry requires **protected slow paths**.
+
+Some decisions should retain a route that is intentionally allowed to take longer without being penalized as failure.
+
+An appeal.
+
+A safety review.
+
+A contested medical judgment.
+
+A high-impact transaction.
+
+A policy exception.
+
+A security incident with ambiguous evidence.
+
+The slow path does not have to be the default.
+
+Its legitimacy has to survive the success of the fast path.
+
+This is how institutions preserve human time as a resource instead of treating it as a defect.
+
 The speed gap also changes politics.
 
 Democratic legitimacy is slow on purpose.
@@ -481,6 +615,28 @@ The same question returns.
 Can the human institution slow the system enough to govern it?
 
 If not, formal authority becomes a trailing indicator.
+
+This is why speed should be treated as an architectural property rather than an inevitable property of intelligence.
+
+An agent may be able to act instantly.
+
+The system can still require a cooling period for particular commitments.
+
+A model may generate a decision in seconds.
+
+The institution can still make some decisions effective only after notice.
+
+A machine economy may negotiate continuously.
+
+Critical infrastructure can still reserve the right to enter a lower-tempo operating mode.
+
+The clock is designed too.
+
+Not perfectly.
+
+Not everywhere.
+
+But often enough to matter.
 
 The speed gap is therefore not a story about impatient machines.
 
