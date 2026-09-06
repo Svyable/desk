@@ -184,6 +184,50 @@ The strike became part of a lineage of resistance that later organizers could us
 
 The railroad strike was the rehearsal America could not pretend not to see.
 
+The Library of Congress chronology makes the national sequence unusually visible. Workers in Martinsburg refused to let freight move, and the conflict traveled into Maryland, Pennsylvania, New York, and farther west as news and imitation spread. Hayes issued separate proclamations connected to West Virginia on July 18, Maryland on July 21, and Pennsylvania on July 23. The federal response itself had to follow the strike across jurisdictions.
+
+That is a sign of scale more concrete than the word nationwide.
+
+The federal government was not intervening once in one company dispute. It was repeatedly being asked to restore the functioning of a network whose private ownership crossed public boundaries. A corporation’s labor policy in one place had become a governance problem in several states.
+
+The crisis therefore anticipated a question the United States would face repeatedly as corporations grew beyond the effective reach of local politics: which level of government can bargain with an employer whose operational geography is larger than the town or state in which a strike begins?
+
+At first, the national government had a clearer answer for restoring trains than for mediating wages.
+
+The asymmetry shaped labor memory. Federal troops could appear quickly when tracks were blocked; federal protection for organizing rights would take generations to become durable, and even then would remain contested. The sequence helped workers conclude that industrial citizenship lagged behind industrial scale.
+
+The strike also arrived at an extraordinary political hinge. Reconstruction was ending. Hayes had taken office after the disputed election of 1876, and federal troops were being withdrawn from the former Confederacy as the national government retreated from enforcing Black civil and political rights in the South. Within months, federal force was being used decisively in northern labor conflict.
+
+The comparison should not be flattened into a slogan that troops were simply “moved from protecting Black rights to protecting capital”; the deployments, commands, and legal contexts differed. But the juxtaposition is historically revealing. State capacity is never just a quantity. It is a choice about where capacity is spent.
+
+A government can be strong in one domain and retreat in another.
+
+For people living through 1877, those choices helped define what national authority was for.
+
+The strike’s geographic spread also produced different local outcomes, which is another reason to resist a single heroic narrative. Pittsburgh experienced some of the worst bloodshed and destruction. Baltimore saw deadly clashes. Reading saw militia fire kill people. In St. Louis, a broader general strike briefly connected railroad workers with other trades and radical organizers. Chicago’s conflict had its own mix of workers, unemployed people, police, and militia.
+
+A national movement can therefore be one event analytically and many events experientially.
+
+The common mechanism was network interruption. The local politics determined how interruption escalated.
+
+This distinction becomes crucial later in the book, especially with decentralized protests such as Seattle, Ferguson, and 2020. National labels create coherence after the fact. Participants encounter local police, local employers, local mayors, local newspapers, local racial structures, and local tactical cultures.
+
+Scale does not erase place.
+
+The Great Strike’s defeat also deserves precision. The Library of Congress notes that the initial wage cuts were not rolled back as an immediate national concession. State and federal force restored rail operation, many participants were jailed, and companies continued anti-union efforts. If this book measured importance by negotiated gains, 1877 would be a strange winner.
+
+It wins because the strike changed what every side had to plan for next.
+
+Railroads and governments invested more seriously in mechanisms for containing unrest. Workers saw the weakness of spontaneous solidarity without durable organization. Political observers saw that economic grievance could cross state borders as quickly as commerce did. Later unions inherited both the possibility and the warning.
+
+This is protest as institutional education through defeat.
+
+The strongest runner-up for the decade is Susan B. Anthony’s 1872 act of voting in Rochester and the prosecution that followed. Her deliberate test of citizenship and suffrage was legally focused, symbolically powerful, and part of a broader movement of women attempting to vote. It would fit this book’s interest in people acting as political members before law fully recognized them.
+
+The railroad strike wins because it reveals a larger transformation in the country’s operating system. Industrial capitalism had become networked enough that a labor refusal could create a national emergency before a national labor institution existed to contain it.
+
+That mismatch—national capital, local labor law, improvised state response—would define the next half century.
+
 Its most lasting lesson was structural.
 
 Industrial systems concentrate dependency.
