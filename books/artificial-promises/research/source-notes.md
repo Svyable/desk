@@ -26,6 +26,15 @@ The SEC said Theranos and Holmes raised more than $700 million while making fals
 
 These sources are useful for the distinction between selling a future and representing present technological capability. The SEC records describe claims about products, technical milestones, production capacity, orders, hydrogen production, and financial outlook. Attribute findings and allegations precisely.
 
+## Chapter 5 — precision and anchoring
+
+- Chris Janiszewski and Dan Uy, **“Precision of the Anchor Influences the Amount of Adjustment,”** *Psychological Science* 19 (2008), 121–127. DOI: 10.1111/j.1467-9280.2008.02057.x.
+- David D. Loschelder, Malte Friese, Michael Schaerer, and Adam D. Galinsky, **“The Too-Much-Precision Effect: When and Why Precise Anchors Backfire With Experts,”** *Psychological Science* 27 (2016), 1573–1587. DOI: 10.1177/0956797616666074.
+
+Janiszewski and Uy found across five studies that people adjusted less from precise numerical anchors than rounded anchors. That supports a bounded claim that displayed precision can affect later numerical judgment; it does not establish that every precise forecast is more persuasive or that startup investors respond the same way.
+
+Loschelder and colleagues supply the stronger counterevidence. Across five negotiation experiments involving 1,320 experts and amateurs, increasing precision strengthened anchoring among amateurs but showed an inverted-U relationship among experts: excessive precision could backfire because experts inferred lower competence. The manuscript should therefore avoid the simple story that extra decimal places always create authority. Precision can anchor, but conspicuous pseudo-precision can also advertise that the speaker does not understand the uncertainty.
+
 ## Research still required
 
 Before drafting the relevant chapters, add primary or high-quality sources for:
