@@ -2,312 +2,294 @@
 
 Just after midnight on March 24, 1989, the tanker *Exxon Valdez* struck Bligh Reef in Prince William Sound, Alaska.
 
-The ship had left the Trans-Alaska Pipeline terminal at Valdez carrying crude oil south. Ice in the shipping lane led the tanker to maneuver outside the normal traffic corridor. The vessel did not turn back in time.
+The ship had left the Trans-Alaska Pipeline terminal at Valdez carrying crude oil south. Ice in the normal shipping lanes contributed to a route change. The vessel did not complete the turn needed to avoid the reef.
 
-Its hull opened on the reef.
+Its hull opened.
 
-Roughly eleven million gallons of crude oil spilled into the sound.
+More than eleven million gallons of crude oil spilled into Prince William Sound.
 
-The number was enormous, but numbers alone do not explain why *Exxon Valdez* belongs in a history of America told through ships.
+The Environmental Protection Agency would later describe the event as the largest oil spill in United States history at the time and a test of local, national, and industrial capacity on a scale the existing response system was not prepared to meet.
 
-The tanker mattered because its wake did not end when the oil stopped flowing.
+The number is so large that it can become an abstraction.
 
-It changed the law.
+The shoreline made it physical.
 
-It changed tanker design.
+Oil reached hundreds of miles of Alaska coast. Birds, sea otters, and other wildlife were coated and killed. Fisheries faced closures and uncertainty. Cleanup crews arrived in remote places accessible mainly by water or aircraft. Governments, Exxon, contractors, scientists, fishermen, Alaska Native communities, lawyers, and volunteers entered a disaster whose visible beginning was a ship on a reef and whose end could not be defined as neatly.
 
-It changed assumptions about who would pay for environmental catastrophe.
+That last part is why *Exxon Valdez* belongs to the 1980s.
 
-It changed the political meaning of oil transportation in a country that had spent decades building pipelines, terminals, supertankers, refineries, highways, and suburbs around cheap and abundant petroleum.
+The ship's importance did not end when the oil stopped escaping.
 
-And it revealed something Americans repeatedly forget about infrastructure: a system can appear efficient for years because its worst risks have not yet become visible.
+It moved into law, tanker design, corporate liability, environmental science, emergency planning, and public expectations about industrial risk.
 
-*Exxon Valdez* made them visible on hundreds of miles of shoreline.
+The spill changed the rules.
 
-## The Last Leg of a Continental Machine
+The tanker was not an isolated industrial object. It was one moving link inside a continental energy machine.
 
-The tanker was not an isolated industrial object.
+Oil produced on Alaska's North Slope traveled through the Trans-Alaska Pipeline System to the marine terminal at Valdez. Tankers loaded the crude and carried it toward refineries and markets farther south. The system connected Arctic extraction to fuel consumed thousands of miles away.
 
-It was a moving link in one of the largest energy systems in the United States.
+When the system worked, most Americans saw none of it.
 
-Oil from Alaska's North Slope traveled through the Trans-Alaska Pipeline System to the marine terminal at Valdez. From there, tankers carried crude to refineries and markets farther south. The arrangement transformed Arctic extraction into a national supply chain.
+They saw gasoline.
 
-That chain depended on extraordinary coordination.
+That invisibility is characteristic of mature infrastructure. The consumer experiences the final service while the physical chain that makes the service possible recedes into background. A gallon of fuel hides wells, pipelines, pumping stations, storage tanks, terminals, ships, navigation systems, ports, refineries, truck racks, tanker trucks, stations, finance, insurance, and regulation.
 
-Drilling fields, pumping stations, pipeline controls, terminals, tug operations, vessel crews, traffic systems, pilots, charts, weather forecasts, response plans, insurers, regulators, and corporate management all had to work together.
+The reef put the chain back into view.
 
-When the tanker grounded, public attention naturally focused on the bridge.
+Early public attention focused heavily on Captain Joseph Hazelwood. He had been drinking before the voyage and was not on the bridge when the ship grounded. He later faced criminal charges, was acquitted of the most serious ones, and was convicted of a misdemeanor negligent-discharge offense.
 
-Was the captain impaired? Why was he not present at the critical moment? Why did the third mate fail to complete the turn? Was the crew overworked? Were navigation procedures adequate?
+His behavior mattered.
 
-Those questions mattered.
+It did not explain the whole disaster.
 
-Captain Joseph Hazelwood had been drinking before the accident. He was later acquitted of the most serious criminal charges but convicted of a misdemeanor for negligent discharge of oil. Investigations also examined fatigue, staffing, traffic monitoring, and corporate and regulatory failures.
+Investigations examined crew fatigue, bridge management, staffing, navigation, vessel traffic oversight, response preparedness, corporate management, and regulatory systems. The questions widened because large accidents usually do.
 
-The larger historical lesson is that disasters produced by complex systems rarely belong to one person alone.
+A person makes an error.
 
-An individual can make an error.
+A system determines how much damage the error can do.
 
-A system determines whether the error becomes catastrophe.
+This distinction is essential to serious safety analysis. If an investigation ends with the person closest to the failure, organizations learn too little. Human error is common. Catastrophe requires conditions that allow ordinary or foreseeable errors to propagate.
 
-## The Response That Was Supposed to Exist
+The productive question is not only why someone was wrong.
 
-Oil transportation into Prince William Sound had always carried spill risk.
+It is why being wrong was allowed to become enormous.
 
-That risk was not unknown.
+The oil transportation system in Prince William Sound had contingency plans. Industry and government knew a spill was possible. Response equipment existed. The Alyeska Pipeline Service Company had responsibilities for preparedness in the region, and federal and state agencies had roles in oversight and emergency response.
 
-Plans existed. Equipment existed. Industry organizations existed. The Alyeska Pipeline Service Company had responsibility for spill-response preparedness around the terminal and sound. Federal and state agencies had regulatory roles. Exxon itself had emergency obligations.
+After the grounding, those assurances were measured against reality.
 
-Yet when the tanker grounded, the response proved badly inadequate to the scale and speed of the spill.
+Reality was less capable than the paperwork.
 
-Equipment was not immediately ready in the way public assurances had implied. Booms and skimmers could not simply erase oil spread across cold, complex water. Weather and geography complicated operations. Shoreline cleanup became laborious, expensive, and controversial.
+Equipment and personnel could not contain the spill at the speed implied by the scale of the release. Booms and skimmers were limited by logistics, sea conditions, geography, and readiness. Oil spread while the response mobilized. Once contamination reached extensive shoreline, cleanup became a long, labor-intensive effort whose methods produced controversies of their own.
 
-The gap between plan and performance became part of the scandal.
+The gap between a response plan and a response became part of the scandal.
 
-That gap is a recurring theme in infrastructure history.
+That gap recurs across infrastructure history because plans are cheap relative to operational readiness.
 
-Systems are often judged by written capacity before a disaster and by actual capacity afterward.
+A binder can list equipment.
 
-The two can differ radically.
+A database can list contractors.
 
-A contingency plan may satisfy a filing requirement.
+A regulation can require a drill.
 
-A catastrophe tests whether people, machines, command structures, contracts, and logistics can move fast enough in the real world.
+The accident asks different questions.
 
-*Exxon Valdez* showed that an oil-spill plan could exist on paper while practical response remained insufficient.
+Where is the equipment now?
 
-## A Coastline Becomes Evidence
+Can it be moved fast enough?
 
-The environmental damage was immediate and photogenic in the most terrible sense.
+Does it work under these conditions?
 
-Oil coated beaches. Birds and marine mammals died. Fisheries and subsistence communities faced contamination and uncertainty. Cleanup workers washed rocks, collected oiled wildlife, deployed absorbent materials, and tried to contain a substance that had already entered a vast marine environment.
+Who has authority?
 
-Prince William Sound made industrial risk visible at ecosystem scale.
+Who calls whom?
 
-The spill harmed wildlife and habitat across a region far larger than the reef itself. Exact estimates of animal mortality varied and remain debated, but the central fact did not: a single vessel casualty had produced ecological consequences that extended far beyond the ship and cargo owner.
+Are crews trained?
 
-That expanded the political question.
+Can the response scale beyond the scenario planners considered probable?
 
-Who bears the cost when infrastructure fails?
+Does anyone discover at midnight that the capacity described in the plan is unavailable in practice?
 
-The company?
+*Exxon Valdez* helped move oil-spill policy away from accepting preparedness as a written promise.
 
-The shipowner?
+The environmental damage made the consequences of that gap impossible to confine to maritime professionals.
 
-The insurer?
+Prince William Sound supported commercial fishing, subsistence practices, tourism, recreation, and a rich marine ecosystem. The spill reached communities whose relationship to the water was economic, cultural, and personal. Alaska Native communities in the region faced harm to subsistence resources and practices that ordinary damage calculations could not describe adequately.
 
-The federal government?
+This is where the economics of infrastructure failure become politically difficult.
 
-The state?
+The benefits and risks do not fall on the same people.
 
-Fishing communities?
-
-Indigenous communities?
-
-Future users of a damaged ecosystem?
-
-Environmental law is, among other things, a system for answering how much of an industrial cost may be pushed onto people and places that did not choose the risk.
-
-The *Exxon Valdez* spill forced Congress to answer again.
-
-## The Oil Pollution Act
-
-In 1990, Congress passed the Oil Pollution Act.
-
-The law did many things, but its broad purpose was clear: strengthen prevention, preparedness, liability, and response after major oil spills.
-
-It expanded federal authority to direct cleanup. It required vessel and facility operators to prepare response plans. It clarified and increased liability for removal costs and damages. It created or strengthened funding mechanisms intended to ensure that response did not depend entirely on whether a responsible party could or would pay immediately.
-
-And it accelerated a major change in tanker design.
-
-New tank vessels operating in U.S. waters would increasingly be required to use double hulls, while older single-hull tankers would be phased out under statutory timetables.
-
-A double hull is not magic.
-
-It cannot prevent every spill.
-
-But it adds a layer of separation between cargo tanks and the sea. In certain collisions and groundings, that extra structure can reduce the chance that a casualty opens directly into oil tanks.
-
-The regulatory philosophy was simple enough to draw.
-
-If one layer can fail, add another.
-
-The law changed the physical fleet.
-
-That is one reason *Exxon Valdez* belongs in this book.
-
-A ship struck a reef, and the architecture of later ships changed.
-
-## Liability as Design Pressure
-
-The law also changed incentives.
-
-Industrial safety is shaped not only by engineering rules but by who expects to pay after failure.
-
-If cleanup costs and environmental damages can be transferred to the public, firms have weaker financial reasons to invest in prevention. If law makes responsible parties bear more of the cost, liability becomes a design pressure.
-
-The Oil Pollution Act did not create unlimited corporate liability in every circumstance. It contained liability limits with exceptions, and litigation over oil spills has remained complicated. Nor did it eliminate government responsibility for readiness.
-
-But it moved the system toward a principle that now sounds obvious because the disaster helped make it obvious:
-
-The polluter should not be allowed to treat cleanup as someone else's problem.
-
-That principle had older roots in environmental regulation.
-
-*Exxon Valdez* made it operational for maritime oil at national scale.
-
-## A Corporate Name Becomes a Disaster Name
-
-There is another reason the ship mattered.
-
-Its name fused company and catastrophe.
-
-"Exxon Valdez" became a phrase Americans recognized even if they could not identify Prince William Sound on a map.
-
-That fusion had reputational consequences.
-
-Corporations spend enormous sums turning names into promises of reliability, competence, and trust. Industrial disasters reverse the process. A brand can become shorthand for failure.
-
-The ship therefore altered corporate risk management beyond tanker operations.
-
-Executives in many industries could see that a disaster was no longer only a technical event or insurance loss. It could become a national narrative about management, regulation, environmental responsibility, and corporate legitimacy.
-
-The growth of television news and increasingly sophisticated environmental advocacy amplified that lesson.
-
-The image of an oiled bird could travel farther than a balance-sheet explanation.
-
-## The Human Geography of the Spill
-
-The environmental story is incomplete without the people who depended on the sound.
-
-Commercial fishing communities faced closures, depressed catches, market uncertainty, and long legal battles. Alaska Native communities whose cultural and subsistence practices were bound to marine ecosystems confronted damage that could not be reduced cleanly to lost income.
-
-This is where monetary compensation reaches its limits.
-
-A legal system can estimate property loss, business interruption, cleanup expense, and certain categories of environmental damage.
-
-It struggles to price disruption to a way of life.
-
-The spill therefore widened an older American conflict over resource development.
-
-Who receives the benefits of extraction?
-
-Who lives near the transport corridor?
-
-Who absorbs the tail risk?
-
-Oil from the North Slope powered a national economy.
-
-The reef, beaches, fisheries, and communities of Alaska absorbed the immediate consequences when the system failed.
-
-That geographical mismatch is a recurring feature of infrastructure.
+Oil from Alaska served a national market. The immediate tail risk sat in specific communities and ecosystems along the transport corridor.
 
 Benefits disperse.
 
-Risks concentrate.
+Damage concentrates.
 
-## Science After Catastrophe
+A household in another state could consume fuel without ever knowing Bligh Reef existed. A fisherman in Prince William Sound could lose a season, income, confidence in future stocks, and a relationship to a place because a tanker carrying fuel for distant consumers missed a turn.
 
-The spill also became a long scientific experiment no one wanted.
+Infrastructure connects people who never meet.
 
-Researchers studied the persistence of oil, recovery of species, shoreline ecology, food webs, and the effectiveness or damage of cleanup methods. Some areas recovered faster than others. Some ecological effects persisted for years or decades. Debates continued over baseline conditions, causal attribution, and what exactly "recovery" should mean.
+Liability law decides how much of that connection becomes financial after failure.
 
-The scientific lesson was uncomfortable.
+Congress responded the next year with the Oil Pollution Act of 1990.
 
-Environmental systems do not follow the timelines of press conferences.
+The law did not emerge from an empty legal landscape. Federal statutes already addressed oil discharges, cleanup, and liability. Coastal states, environmental groups, industry, insurers, and regulators had debated stronger rules before 1989. Double-hull tanker requirements had advocates before *Exxon Valdez*.
 
-A cleanup can end administratively while ecological effects continue.
+The grounding changed political time.
 
-A settlement can be reached while uncertainty remains.
+A reform that could be delayed before the spill became harder to delay afterward.
 
-A species population can rebound in one measure while a community experiences lasting change in another.
+The Oil Pollution Act strengthened federal authority over response, required vessel and facility response planning, expanded liability for removal costs and damages, and created or reinforced funding mechanisms intended to ensure that cleanup would not depend entirely on immediate payment by the responsible party. It also established a timetable that moved tankers operating in U.S. waters toward double-hull construction.
 
-*Exxon Valdez* helped make long-term monitoring part of the public expectation after major spills.
+The change in hull architecture may be the most literal example in this book of a ship altering the ships that follow it.
 
-That expectation would matter again.
+A double hull places additional structure between the cargo tanks and the sea. It does not prevent every spill. Severe collisions and groundings can defeat more than one layer. But an additional barrier can keep certain accidents from opening directly into cargo.
 
-## The Road to Deepwater Horizon
+The regulatory idea is simple.
 
-Twenty-one years later, the *Deepwater Horizon* drilling rig exploded in the Gulf of Mexico, killing eleven workers and producing a vastly larger marine oil spill.
+Assume one layer can fail.
+
+Do not let the failure reach the environment immediately.
+
+This is engineering redundancy converted into law.
+
+The same principle appears throughout safety systems. Aircraft use multiple independent systems for critical functions. Bridges can be protected by fenders or dolphins designed to absorb vessel impact. Electrical systems use breakers and backup power. Chemical plants use containment. Data centers use redundant power and networks.
+
+Redundancy looks inefficient until the primary system fails.
+
+Then the supposedly idle layer becomes the whole point.
+
+The spill also changed liability incentives.
+
+Industrial safety is partly designed through price. If a company expects society to absorb most of the cost of a catastrophic failure, prevention can be underfunded even when everyone involved behaves rationally inside the financial rules. If law forces more of the expected cost back onto the responsible parties, insurance premiums, engineering decisions, maintenance budgets, training, routing, and corporate oversight can all change.
+
+Liability is therefore a safety technology implemented through money.
+
+It is imperfect.
+
+Damages can be difficult to measure. Liability limits can be contested. Litigation can take years. Companies can dispute causation. Some harms cannot be repaired by payment. Governments still have to maintain response capability because a private company cannot be assumed to coordinate every public consequence of its own disaster.
+
+But the principle hardened after 1989: the cost of oil transport includes the possibility that oil transport fails.
+
+The industry cannot price the voyage as if the reef belongs to someone else.
+
+The ship's name made that lesson unusually durable.
+
+“Exxon Valdez” fused corporate identity and catastrophe into one phrase. Exxon had spent years building a corporate brand intended to signal scale, competence, and reliability. The vessel converted the name into shorthand for environmental failure.
+
+That reputational damage mattered well beyond tanker operations.
+
+Executives in other industries could see that a technical casualty was no longer only an engineering problem or an insured loss. Television, environmental organizations, elected officials, and litigation could turn failure into a long-term challenge to corporate legitimacy.
+
+The public story of risk had changed.
+
+An oiled bird could communicate environmental consequence more effectively than a thousand pages of probability estimates.
+
+That creates its own dangers. Photogenic damage can receive more political attention than less visible harms of equal or greater scale. Good regulation cannot depend only on images that move viewers emotionally.
+
+Yet the image performs a necessary function when an industrial system has hidden its externalities successfully.
+
+It makes cost legible.
+
+The scientific aftermath extended the spill's importance for decades.
+
+Researchers studied oil persistence, shoreline ecology, wildlife populations, fisheries, food webs, cleanup methods, and community effects. Different parts of the ecosystem recovered at different rates. Some damage declined quickly; other effects persisted. Scientists and affected communities did not always agree on what “recovered” should mean.
+
+That disagreement is valuable.
+
+Administrative closure and ecological recovery operate on different clocks.
+
+A cleanup program can end.
+
+A court case can settle.
+
+A corporate report can move on.
+
+Oil can remain in protected shoreline sediments.
+
+A species can recover numerically while a community remembers lost years.
+
+A fishery can reopen while confidence in the ecosystem remains damaged.
+
+Environmental harm resists the neat ending organizations prefer.
+
+The cleanup itself taught another hard lesson. Aggressive methods can produce harm while trying to remove harm. High-pressure hot-water washing was used on some shoreline areas. It removed visible oil but could also damage organisms and habitats in the intertidal zone. The disaster therefore forced responders to confront a problem common to emergency intervention: the most visually satisfying action is not always the best long-term action.
+
+Cleaning is not the same as restoration.
+
+That distinction sounds obvious now because environmental response has absorbed decades of learning from events like this one.
+
+The spill also changed the relationship between local knowledge and national response. Fishermen, Indigenous residents, scientists, agency personnel, contractors, and corporate teams often possessed different kinds of useful information. A centralized emergency command can coordinate resources, but it can also discount knowledge that does not arrive through the formal hierarchy.
+
+Large disasters need authority.
+
+They also need listening.
+
+That balance is difficult because emergencies reward decisive command while complex ecosystems punish oversimplification.
+
+The Oil Pollution Act strengthened planning expectations partly so these relationships could be established before the emergency rather than improvised on contaminated beaches.
+
+Twenty-one years after *Exxon Valdez*, the *Deepwater Horizon* drilling rig exploded in the Gulf of Mexico. Eleven workers died and the resulting blowout released vastly more oil than the tanker grounding.
 
 The disasters were technologically different.
 
-One was a tanker grounding.
+One involved maritime transport.
 
-The other was a blowout at an offshore drilling operation.
+The other began in offshore drilling.
 
-But the earlier event had changed the legal and institutional environment in which the later one was handled. The Oil Pollution Act provided a central framework for liability and response. The vocabulary of responsible parties, removal costs, damages, contingency planning, and federal command had already been reshaped by *Exxon Valdez*.
+But the legal and institutional environment responding to *Deepwater Horizon* had been shaped substantially by the 1990 law enacted after *Exxon Valdez*. The vocabulary of responsible parties, removal costs, damages, contingency planning, and federal response had been hardened in the earlier crisis.
 
-That is what downstream importance looks like.
+This is what downstream importance looks like.
 
-A disaster writes procedures for the next disaster.
+A disaster writes part of the manual for the next disaster.
 
-Not perfectly.
+Not enough of it.
 
-Not completely.
+Never enough of it.
 
 But materially.
 
-## Why the Ship Wins the 1980s
+The 1980s offer formidable alternative ships. USS *Stark* was hit by Iraqi missiles in 1987, killing thirty-seven sailors and exposing the risks of Persian Gulf operations. The recommissioned battleships symbolized the Reagan administration's naval buildup. Nuclear submarines and ballistic-missile systems continued shaping deterrence. Cruise ships were helping build a mass tourism industry at sea. Container shipping expanded further into the national economy.
 
-The decade offers formidable competitors.
+*Exxon Valdez* wins because the consequences crossed domains.
 
-The battleship *New Jersey* returned to service as part of the Reagan naval buildup. The USS *Stark* was struck by Iraqi missiles in 1987, revealing the danger of Persian Gulf operations. The shuttle orbiter *Challenger*, though not a ship in the maritime sense, became a national symbol of technological failure. Cruise ships helped normalize mass tourism at sea. Container shipping continued to reorganize ports and supply chains.
+Environmental law changed.
 
-*Exxon Valdez* wins because it changed the rulebook governing an entire category of industrial risk.
+Tanker construction changed.
 
-Its influence traveled through statute, vessel design, cleanup planning, insurance, corporate governance, environmental science, and public expectations.
+Spill planning changed.
 
-The tanker did not merely carry oil.
+Liability changed.
 
-After the grounding, it carried precedent.
+Corporate risk management changed.
 
-## The Counterfactual
+Scientific expectations changed.
 
-Would Congress eventually have strengthened oil-spill law without *Exxon Valdez*?
+The vessel demonstrated that the petroleum economy extended all the way to a remote Alaskan reef whether distant consumers thought about the route or not.
 
-Probably.
+Its strongest counterfactual is not that no reform would have happened without it.
 
-Oil pollution was not a new problem. The United States already had federal statutes addressing discharges and cleanup. Double-hull tanker proposals predated 1989. Environmental organizations, coastal states, insurers, and maritime regulators had long argued over prevention and liability.
+Reform pressure already existed.
 
-The strongest version of the chapter is therefore not that one ship invented modern spill regulation.
+The better claim is that the spill broke a political equilibrium that had allowed risk to remain cheaper on paper than it proved to be in reality.
 
-It is that the grounding broke a political logjam.
+Catastrophes do this by changing the evidence available to everyone at once.
 
-A catastrophic, highly visible spill demonstrated that existing prevention and response systems were not credible enough. Congress acted the next year with legislation broad enough to reshape national practice.
+Before March 24, tanker-spill risk could be modeled, debated, insured, discounted, or postponed.
 
-The temporal link is unusually direct.
+Afterward there was a coastline.
 
-That makes the ship a hinge rather than merely a symbol.
+The physical evidence changed what inaction cost politically.
 
-## A Ship as Regulatory Event
+That is a recurring function of disasters in democracies. They turn a low-salience statistical risk into a high-salience constituency.
 
-Ships usually enter law through categories.
+Sometimes the resulting law overcorrects.
 
-Tanker.
+Sometimes it is symbolic.
 
-Passenger vessel.
+Sometimes the opportunity passes with little structural change.
 
-Warship.
+In this case, a ship on a reef changed the architecture of future ships and the financial architecture surrounding them.
 
-Container ship.
+That is unusually concrete consequence.
 
-Fishing vessel.
+The next decade's vessel will reveal a different kind of system failure.
 
-*Exxon Valdez* entered law as a proper noun.
+In June 1993, a rusting freighter called *Golden Venture* ran aground on the Rockaway Peninsula in New York with roughly three hundred Chinese migrants aboard. Ten people died trying to swim to shore.
 
-The name became a warning inside later debates about oil transportation. Its grounding was invoked whenever policymakers asked whether response systems were real, whether single hulls were sufficient, whether corporate liability was adequate, and whether environmental damage could be left to ordinary tort litigation after the fact.
+The ship was part of a transnational human-smuggling system whose customers had traveled for months and paid enormous sums for the chance to reach the United States.
 
-That is a strange kind of national influence for one hull.
+Where *Exxon Valdez* made an industrial externality visible, *Golden Venture* made a migration infrastructure visible.
 
-Most ships disappear into fleets.
+Oil had moved through a legal global network until the network failed.
 
-This one changed the fleet that followed.
+People had moved through an illegal global network because the legal routes available to them were too narrow or inaccessible.
 
-The spill made Americans see that the petroleum economy did not end at the gas pump. It had a maritime body: tank farms, ports, shipping lanes, crews, reefs, response vessels, coastlines, and laws.
+Both ships ask the same underlying question in different moral registers.
 
-When one part failed, the whole system became visible.
+What does America discover about a system only after the system washes onto shore?
 
-The wake stretched from Bligh Reef to Congress.
+*Exxon Valdez* wins the 1980s because its 1989 grounding transformed a regional industrial disaster into a national redesign of oil-spill liability, preparedness, and tanker construction.
 
-**Verdict:** *Exxon Valdez* wins the 1980s because its 1989 grounding transformed a regional industrial disaster into a national redesign of oil-spill liability, preparedness, and tanker construction. The vessel's greatest historical cargo was not the crude it lost. It was the regulatory architecture that followed.
+The vessel's most consequential cargo was the regulatory architecture that followed.
