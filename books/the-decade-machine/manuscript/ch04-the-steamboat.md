@@ -266,4 +266,28 @@ Once a physical constraint has a price, entrepreneurs and governments can begin 
 
 That argument is the beginning of infrastructure.
 
+A final measure of the change is what happened to information carried aboard the boat. Steam did not separate information from transportation—that would be the telegraph’s breakthrough—but it shortened and regularized the physical journey of mail, newspapers, commercial instructions, and personal correspondence along served routes.
+
+That made steamboats communication infrastructure as well as freight infrastructure.
+
+A merchant upriver receiving price information sooner could make a different decision about inventory. A newspaper arriving on a more regular schedule could tighten a town’s connection to distant politics. A traveler could carry contracts, orders, and news with more predictable transit time.
+
+The distinction between moving things and moving knowledge was beginning to strain before the telegraph finally broke it.
+
+This matters because technologies rarely arrive as isolated revolutions. The steamboat improved the old coupled system; the telegraph later replaced one part of that coupling with a faster channel. Progress often looks like layering rather than substitution.
+
+The steamboat would keep carrying mail after telegraph wires appeared.
+
+Railroads would carry both people and telegraph lines.
+
+Airplanes would later carry mail in a world already connected by telephone and radio.
+
+The faster information becomes, the more valuable reliable physical transport can become because decisions about goods happen sooner.
+
+Communication and transportation are complements even after they cease to be the same thing.
+
+The steamboat sits at the hinge just before that separation.
+
+It made the old world of embodied information much faster and more predictable, and in doing so helped create demand for an even more radical question: why should the message need the boat at all?
+
 **What would prove this choice wrong?** The steamboat loses if its commercial scale before 1815 proves too small to justify treating the capability threshold as more important than realized adoption. A strong case can be made that the integrated textile factory, expanding cotton system, or road network changed more actual production and employment during this interval. The steamboat also loses if its key effects should properly be assigned to 1816–1825, when western river service accelerated. I keep it here because 1807–1811 establishes the crucial break: powered commercial navigation became credible in both Atlantic and interior river contexts. The country had learned that current was no longer destiny, even if it would spend the next decades learning how dangerous and expensive that freedom could be.
