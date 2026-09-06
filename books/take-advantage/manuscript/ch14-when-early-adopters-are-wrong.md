@@ -394,7 +394,69 @@ A future that survives them has moved from advocacy toward institution.
 
 A future that fails them may still contain a valuable capability. It simply has not earned the architecture built around it.
 
-This is how to stay early without becoming gullible.
+Wrong futures also create a measurement problem for anyone studying adoption after the fact.
+
+The surviving systems leave rich records. The dead ones leave thinner archives, scattered communities and embarrassed participants. The result is survivorship bias built into technological memory. We can easily study the early users of systems that became enormous because the later system preserved their significance. The people who committed equal energy to dead platforms disappear from the sample.
+
+This distorts advice.
+
+We hear “I bought the first version and it changed my career” more often than “I bought the first version, spent eighteen months mastering it, and the company shut down.” Both are data about the strategy of being early.
+
+The second story may be more valuable because it reveals what the first story cannot: which parts of the return depended on the product surviving.
+
+A disciplined adopter should keep a private graveyard.
+
+Not as a collection of regrets.
+
+As a record of bets that did not work.
+
+What did I believe?
+
+What signal persuaded me?
+
+Which assumption failed?
+
+Which skill transferred anyway?
+
+What warning did I dismiss because everyone around me shared the same excitement?
+
+What would I do differently if a similar pattern appeared again?
+
+This record protects the mind from rewriting its own history around the winners.
+
+Organizations need the same discipline. A company that celebrates successful pilots and quietly forgets abandoned ones will become increasingly confident for the wrong reason. It sees a portfolio filtered by survival. The lessons that should improve selection disappear with the projects that generated them.
+
+The adoption ledger should preserve exits.
+
+This is also how you distinguish a healthy culture from a cult of innovation.
+
+Healthy cultures can name the things they stopped using and explain why.
+
+They can say a vendor was good but the switching risk was too high. They can say a capability mattered but the economics never crossed. They can say a technology was simply too early. They can say the experiment was wrong without needing the category to be fraudulent.
+
+That precision preserves curiosity.
+
+A culture that treats every stopped experiment as humiliation learns to hide stopping. A culture that treats every critic as a reactionary learns to hide contrary evidence. Both eventually become worse at early adoption because they cannot exit cleanly.
+
+The ability to leave is part of the ability to go first.
+
+There is a final asymmetry worth noticing.
+
+The wrong early adopter can still benefit society.
+
+Someone has to find the bad path.
+
+That does not mean society owes every failed technology a subsidy or every reckless adopter gratitude. It means distributed experimentation has option value when the failures are bounded and the learning can travel. Ten small experiments can be healthier than one institution committing the whole system to an unproven architecture.
+
+This is why reversibility appears again and again in the book.
+
+The goal is not to remove error from technological change.
+
+Error is unavoidable.
+
+The goal is to make wrong futures cheap enough to discover before they become expensive enough to defend.
+
+That is how to stay early without becoming gullible.
 
 Treat enthusiasm as fuel, not proof.
 
