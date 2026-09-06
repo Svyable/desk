@@ -258,6 +258,108 @@ A label can organize behavior so effectively that behavior begins supplying the 
 
 Again, this does not make identity unreal. Some stable traits and commitments matter deeply. The error is treating the explanation as if it were upstream from every action simply because it can be applied afterward.
 
+There is another function of reasons that introspection research can make us underrate.
+
+Reasons are not only reports about causes.
+
+They are also proposals for how an action should be understood.
+
+When a person says, “I left because the work had become unethical,” the sentence may be partly historical and partly normative. It identifies a cause, but it also says which feature of the event the person is willing to stand behind. The explanation enters the future. It creates a standard against which later actions can be judged.
+
+This is why changing your reason can change more than your autobiography.
+
+Suppose I first explain a resignation as ambition: I wanted a larger role. Later, after more reflection, I decide the deeper issue was that I no longer wanted to participate in a harmful practice. The new explanation does not merely redescribe the past. It may commit me to behaving differently when the same conflict appears again.
+
+A reason can become a rule.
+
+That is socially important because people often cannot inspect another person’s motives directly. We listen to explanations partly to predict what the person will do next.
+
+Why did you break the promise?
+
+If the answer is, “I forgot,” we expect one kind of repair.
+
+If the answer is, “I decided the promise no longer mattered,” we expect another.
+
+If the answer is, “I was afraid to tell you the truth,” the future obligation may include honesty under pressure.
+
+The explanation earns meaning by what it changes downstream.
+
+This gives us a way to distinguish two kinds of bad explanation that otherwise look similar.
+
+One is inaccurate self-knowledge.
+
+The person sincerely believes status did not matter when it did.
+
+The other is strategic excuse-making.
+
+The person chooses whichever explanation reduces immediate cost without accepting the implication of the explanation later.
+
+Both can produce fluent reasons.
+
+Only the second may involve ordinary deception.
+
+The difference matters because a culture that treats every mistaken self-explanation as a lie will make people defend the first story longer than they should. Admitting, “I think I was wrong about why I did that,” becomes dangerous if revision itself is treated as proof of bad faith.
+
+We need room for explanations to improve.
+
+Institutions need that room too.
+
+A company may discover that the rationale it gave for a policy does not survive evidence. A regulator may learn that a rule created an unintended burden. A model developer may discover that the explanation offered for a system’s performance was too simple. A team may realize that what it called a technical decision was partly a commercial one.
+
+The mature response is not to pretend the original rationale was never given.
+
+It is to preserve the history of revision.
+
+We believed X.
+
+Evidence Y changed the picture.
+
+We now believe Z.
+
+Here is what changes because of that.
+
+This is reason-giving as accountable revision rather than image management.
+
+Generative systems can either help or damage this practice.
+
+They can help by forcing a person to compare multiple explanations, surface counterevidence, reconstruct timelines, and ask what facts would distinguish one story from another.
+
+They can damage it by making a plausible rationale available instantly for whatever decision has already been made.
+
+The danger is not merely hallucination.
+
+It is justification on demand.
+
+An organization chooses the cheaper option and asks a model to produce a principled explanation.
+
+A manager dislikes a candidate and asks for a professional rationale.
+
+A person wants to send an angry message and asks the system to make the anger sound reasonable.
+
+The resulting language can be coherent, tactful, and detached from the actual process.
+
+The machine becomes a laundering service for motive.
+
+Again, people could do this before.
+
+The machine reduces the cost and increases the polish.
+
+That changes the discipline we need.
+
+Do not ask only, “Is this explanation plausible?”
+
+Ask, “What evidence would make this explanation less plausible?”
+
+Ask, “Was this reason present before the decision?”
+
+Ask, “Would we accept the same rule if it pointed toward the opposite outcome?”
+
+Ask, “What part of this account is observation, what part is inference, and what part is a commitment about the future?”
+
+These questions do not produce perfect access to causes.
+
+They make explanations more accountable to something outside their own fluency.
+
 One of the quietest forms of freedom is letting a reason become provisional.
 
 I think I did it because…
