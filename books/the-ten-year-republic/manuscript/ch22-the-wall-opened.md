@@ -94,6 +94,26 @@ Germany reunified on October 3, 1990.
 
 The Cold War order was disappearing through treaties rather than war.
 
+The diplomatic settlement mattered beyond Germany because it left behind questions that would become more contentious after the moment of celebration passed.
+
+What would happen to NATO if the alliance's original adversary disappeared?
+
+American and West German officials discussed the military status of the former East Germany and the terms under which a united Germany could remain inside NATO. Soviet leaders accepted reunification under conditions that would have seemed implausible only a year earlier. Later arguments would focus intensely on what Western officials did or did not imply in 1990 about NATO's future reach beyond Germany.
+
+The historical record contains statements made in a fast-moving negotiation, formal treaty terms, later policy changes, and competing memories. Treating the dispute as if one sentence settled the future of Eastern Europe would be as misleading as ignoring it.
+
+What matters for this chapter is the structural fact.
+
+The United States chose not to dissolve the alliance after its original strategic purpose changed.
+
+NATO survived victory.
+
+That was consequential because institutions that survive the problem they were built to solve begin searching for new purposes. In the 1990s NATO moved toward crisis management in the Balkans and developed relationships with former Warsaw Pact states. Later enlargement would bring many Central and Eastern European countries into the alliance, increasing their security connection to the United States while becoming a major source of grievance in Russian political narratives.
+
+The post-Cold War settlement was therefore not one finished settlement.
+
+It was a sequence of decisions whose costs and benefits appeared over decades.
+
 Then the Soviet Union itself began to fragment.
 
 National movements in the Baltic states and other republics pressed for sovereignty. Economic conditions worsened. Political authority weakened. In August 1991 hard-line Soviet officials attempted a coup against Gorbachev. The coup failed after public resistance and the refusal of parts of the security apparatus to impose decisive repression.
@@ -105,6 +125,20 @@ By the end of 1991, the Soviet Union dissolved into fifteen independent states.
 The American strategic environment changed more dramatically than any election could have produced.
 
 For decades, the United States had maintained nuclear forces, alliances, intelligence priorities, military deployments, foreign aid, industrial capacity, and political narratives around a bipolar world. Suddenly the bipolar world was gone.
+
+The dissolution also created an immediate nuclear problem.
+
+The Soviet arsenal and military infrastructure had been distributed across several republics. The United States now had to think not only about deterrence against one Soviet command structure but about nuclear weapons, fissile materials, scientists, command systems, and state capacity across a disintegrating federation.
+
+Arms-control policy shifted from limiting an adversary's arsenal to helping manage the security of weapons after political collapse.
+
+This was an unusual form of victory.
+
+The United States wanted the Soviet state weaker politically without wanting nuclear control weaker operationally.
+
+That tension produced cooperation that would have sounded paradoxical during much of the Cold War: American resources and technical assistance could serve U.S. security by helping former Soviet states secure or dismantle parts of the military system Washington had spent decades opposing.
+
+The end of rivalry created common interests hidden by rivalry.
 
 The Pentagon faced the “peace dividend.”
 
@@ -165,6 +199,18 @@ China was not yet a WTO member, but American policy was already moving toward ec
 The post-Cold War assumption was that markets and political liberalization might reinforce each other.
 
 That proposition would later be tested severely.
+
+The transformation inside Russia complicated the optimistic story almost immediately.
+
+Moving from a centrally planned economy to markets required decisions about prices, ownership, currency, public assets, debt, and social guarantees. Privatization and market reform created opportunities and severe dislocation. Some people acquired extraordinary wealth while many households experienced collapsing security, unpaid wages, inflation, or loss of status.
+
+American economists and officials participated in the broader international debate over reform, but Russia's transition was not a project Washington could control.
+
+That matters because later American narratives often treated the 1990s as a period in which Russia simply failed to become a liberal democracy after being offered the chance.
+
+The actual transition involved institutions hollowed by Soviet collapse, competing domestic political forces, concentrated new wealth, regional power, constitutional conflict, and arguments over the place of Russia in a European security order increasingly organized around institutions designed by the West.
+
+The peace created by Soviet collapse contained some of the premises of later tension.
 
 The strongest rival to the wall is the web because it changed the infrastructure through which all these political and economic processes would operate.
 
