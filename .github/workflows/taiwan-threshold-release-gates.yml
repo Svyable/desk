@@ -1,0 +1,26 @@
+name: Taiwan Threshold release gates
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out substantively cleared Taiwan Threshold source
+        uses: actions/checkout@v4
+        with:
+          ref: 2e716f684591c51f81c79a05faa4e3dfe31847e5
+      - name: Validate Taiwan Threshold chapter length
+        run: python3 scripts/check-book-length.py the-taiwan-threshold
+      - name: Check out current Desk main
+        uses: actions/checkout@v4
+        with:
+          ref: c207010f28e1a6aed80218c73f1f7adf59cfc8b9
+      - name: Validate current Desk integrity
+        run: python3 scripts/check-desk.py
