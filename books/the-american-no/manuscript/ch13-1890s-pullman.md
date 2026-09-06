@@ -232,7 +232,41 @@ It was nevertheless different.
 
 Pullman helped make the old model look unstable.
 
-That is why the decade’s most important protest begins in a company town and ends in constitutional law.
+The federal counterstrategy was more sophisticated than simply sending troops after trains stopped. Railroad managers organized too. The General Managers’ Association represented two dozen railroads with Chicago terminals and coordinated measures against the boycott. The National Park Service account preserves a particularly revealing tactic: managers could attach Pullman cars to trains carrying U.S. mail, making the union’s refusal to handle the sleeping cars collide with a federal function the government had an obvious obligation to protect.
+
+This is counter-chokepoint strategy.
+
+The union had discovered that Pullman cars were distributed through the rail network and could be isolated operationally. Management answered by tying the disputed cars to a public-service obligation. The tactic did not erase the workers’ grievance. It changed the legal and political category of the disruption.
+
+The lesson is larger than railroads. A powerful institution facing a boycott or blockade will try to bundle the contested activity with something the public values more. A platform can say a restriction protects safety. A company can argue a strike threatens hospitals or food supply. A government can connect protest control to emergency services. The movement then has to decide whether its leverage survives the bundle.
+
+In Pullman, the federal government also used the Sherman Antitrust Act—legislation associated in public imagination with constraining business combinations—as part of the legal attack on a labor combination. That irony is more than clever history. It shows how legal tools acquire meaning through use rather than title.
+
+A statute written for one concentration of economic power can be applied to another. The law sees combinations. Politics decides which combination looks dangerous.
+
+The racial boundary of the American Railway Union makes the union’s defeat more legible too. The National Park Service notes that ARU membership was open across railroad occupations but to white railroad employees. That exclusion was not incidental bookkeeping. It left Black railroad workers outside the organization at the moment the union needed the broadest possible control over rail labor.
+
+A union can build industrial scale and still leave a hole in its own map.
+
+The Pullman Company’s most famous Black employees—the sleeping-car porters—would later organize through the Brotherhood of Sleeping Car Porters under A. Philip Randolph. Their eventual success would change Black labor politics and feed directly into this book’s 1940s chapter, where Randolph uses the credible threat of a March on Washington to win federal action on defense-employment discrimination.
+
+That line from Pullman to Randolph is one of the book’s quieter continuities.
+
+The company that built a national luxury service also built a national Black workforce. White-led railway unionism failed to include that workforce adequately. Black workers created their own institution. Decades later, the leader of that institution would extract concessions from a president without the march taking place.
+
+Protest history compounds.
+
+The aftermath in the company town also gives the strike an institutional verdict beyond the boycott’s defeat. In 1898, the Illinois Supreme Court ordered the Pullman Company to divest nonindustrial holdings. The town was not simply abandoned because public opinion turned against paternalism; law eventually narrowed the company’s authority to own a civic environment as an adjunct to manufacturing.
+
+That result should not be overcredited to the strike alone. The litigation had its own legal basis and institutional path. But the strike made the model’s political problem impossible to ignore. A town advertised as benevolent industrial planning had become evidence that concentrated ownership of work and home could produce concentrated coercion.
+
+The strongest runner-up for the 1890s is the Homestead Strike of 1892. Homestead offered a more spectacular confrontation between organized steelworkers, Carnegie Steel, Pinkerton guards, and state militia. It ended in a devastating union defeat and became one of the era’s defining labor battles.
+
+Pullman wins because it moved farther through the constitutional system. A local wage-and-rent grievance became a national secondary boycott, an interstate-commerce crisis, a federal injunction, a troop deployment, a Supreme Court case, and a debate over corporate paternalism. It shows more layers of American power acting on one protest.
+
+That breadth gives the chapter its place.
+
+The decade’s most important protest begins in a company town and ends in constitutional law.
 
 It shows how a wage dispute can travel through a rail network into the White House and Supreme Court.
 
