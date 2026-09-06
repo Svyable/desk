@@ -195,3 +195,101 @@ Not when a company wants the headline.
 When the exact target has been met by an argument that can survive formal and human scrutiny under the rules of mathematics.
 
 The million dollars can wait.
+
+A publication-ready account also needs to distinguish *target equivalence* from ordinary theorem proving. Suppose the team chooses a Lean statement that it believes faithfully represents one of the Clay alternatives. The theorem prover can certify deductions from that statement. It cannot certify the historical and semantic claim that this is the same problem Fefferman wrote down unless that relationship has itself been formalized and reviewed.
+
+That should become its own project.
+
+Take the official formulation sentence by sentence. Encode the domains, regularity classes, decay assumptions, periodic alternatives, pressure relation, and the acceptable positive and negative outcomes. Then produce a human-readable correspondence table between each piece of the formal statement and the source text. Have independent analysts reconstruct the statement without seeing the first encoding. Compare the results. Where they differ, treat the difference as a mathematical issue, not a formatting dispute.
+
+This is specification engineering for a theorem.
+
+The idea may sound foreign only because mathematicians usually do it socially. A community agrees that several formulations are equivalent because experts know the standard transformations. A high-stakes AI project should turn the important equivalences into explicit lemmas.
+
+If the whole-space statement is translated into a pressure-free projected form, prove the equivalence under the relevant hypotheses.
+
+If the final argument uses vorticity rather than velocity, prove that the vorticity formulation reconstructs the required velocity solution.
+
+If a computer-assisted proof works in rescaled variables, prove that the rescaling maps the certified object back into the original Clay class.
+
+If the project chooses the periodic alternative, keep that choice visible rather than allowing prose to drift between torus and whole-space claims.
+
+Every transformation pays an equivalence tax.
+
+The tax is annoying and cheap compared with a false Millennium announcement.
+
+There is a second kind of target drift that is subtler: theorem inflation after the proof is complete.
+
+A machine may prove exactly what it was asked to prove. Then a press release, summary agent, executive presentation, or journalist compresses the statement into something stronger. “A new regularity criterion” becomes “progress toward smoothness.” “A computer-assisted singular profile in a related equation” becomes “AI finds fluid singularity.” “Formalized weak existence” becomes “Navier–Stokes proved in Lean.” None of these transformations requires a mathematical error in the original work.
+
+The publication pipeline therefore needs a comparator after the theorem as well as before it.
+
+Every outward-facing claim should link back to the strongest verified statement that supports it. If the words “solves Navier–Stokes” appear, the system should require a direct path to the formal Clay root. If the root is still open, the phrase fails automatically.
+
+This is anti-headline architecture.
+
+A company serious about scientific credibility should welcome it because the alternative becomes worse as machine research scales. Frontier systems will generate adjacent results constantly. The temptation to narrate every result through the famous problem will be enormous. A hard claim comparator protects the lab from its own incentives.
+
+The same architecture can improve peer review. A referee should not have to reverse-engineer what changed between the canonical problem and the submitted theorem. The paper can include a machine-generated but human-audited delta:
+
+These hypotheses are identical.
+
+This formulation is proved equivalent by Lemma A.
+
+This domain is one of the allowed Clay alternatives.
+
+This numerical certificate enters only in Proposition B.
+
+This axiom set is used by the formal proof.
+
+These claims remain outside the theorem.
+
+A reader can then spend attention on the genuinely new step.
+
+That is an important economic effect of formalization. It can reduce the amount of expert attention consumed by checking interfaces, leaving more attention for mathematical substance.
+
+Clay’s two-year and general-acceptance conditions matter differently in this setting. They are not proof rules. A theorem does not become logically valid by aging for two years. The interval is an institutional filter that gives the world time to attack, reconstruct, simplify, and absorb a proposed solution.
+
+Machine mathematics makes such a filter more valuable, not less.
+
+Imagine an AI-assisted proof arrives with millions of formal dependencies, numerical certificates, and a concise human paper. Day one can establish that the artifacts build. It cannot establish that every important semantic choice has been understood by independent experts. Other groups may find a cleaner proof. A hidden assumption may surface when someone ports the argument to another proof assistant. A numerical certificate may be reproduced using a different interval package. A theorem thought to be novel may connect to old literature in an unexpected way.
+
+Time is part of distributed verification.
+
+The future of famous-problem claims may therefore have three clocks.
+
+The machine clock: minutes or days to generate and check candidate mathematics.
+
+The referee clock: months to inspect, reproduce, and publish.
+
+The community clock: years for a result to become part of trusted mathematical knowledge.
+
+Confusing these clocks will produce endless false dawns.
+
+A company can move on the machine clock and still respect the community clock. The formal artifacts can be public immediately. The code can be reproducible. The proof can be attacked openly. The lab can state, with unusual precision, “our internal and external checkers accept this candidate; the mathematical community has not yet accepted it.”
+
+That sentence would be a sign of maturity, not weakness.
+
+The phrase *solution candidate* should mean something operational too. It should not be awarded because an internal team is excited. A branch reaches that status only after the root target comparator passes, all admitted axioms are listed, no unresolved `sorry`-like placeholders remain in the release cone, numerical components have rigorous certificates, and at least one checker independent of the generation environment accepts the formal artifact.
+
+Even then, candidate means candidate.
+
+Human mathematics retains the right to find that the formal root was encoded poorly, that a trusted computation was too broad, or that the proof’s claimed interpretation exceeds its exact statement.
+
+The architecture is deliberately asymmetric.
+
+The machine may propose success quickly.
+
+Success is allowed to become true slowly.
+
+This is the opposite of the incentive structure around a breaking-news headline. It is also much closer to how serious mathematics already works.
+
+The million-dollar prize makes the story easy to market because it supplies a finish line everyone understands.
+
+The real finish line is harder to draw.
+
+It is the point at which independent people who wanted the argument to fail can no longer make it fail, independent machines reproduce the formal core, the exact statement is accepted as the intended statement, and the result becomes ordinary enough that mathematicians begin using it rather than merely discussing whether it is correct.
+
+That is what solved means.
+
+Everything before it is progress.
