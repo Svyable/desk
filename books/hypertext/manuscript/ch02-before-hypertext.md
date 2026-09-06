@@ -177,3 +177,107 @@ After that, encountering one could bring back the other.
 The relation would persist.
 
 A footnote had become a mechanism.
+
+The prehistory becomes even clearer when we ask what a printed reference actually asks a reader to supply.
+
+It asks for memory.
+
+It asks for literacy in the reference system.
+
+It asks for access to the institution that can resolve the reference.
+
+It asks for time.
+
+A biblical cross-reference assumes that the reader knows how books, chapters, and verses are named and has access to a compatible edition. A legal citation assumes a professional culture capable of decoding reporter abbreviations, volumes, pages, courts, and procedural context. A scholarly citation assumes a library or database able to locate the work. A newspaper telling readers that a report is “available from the department” assumes they know how to contact the department.
+
+These systems were not failures. They were remarkably successful compression schemes. A few characters could identify an object inside a large institutional universe because readers shared conventions about how to resolve them.
+
+Hypertext took the resolution step and gave more of it to software.
+
+That transfer altered who could participate.
+
+A specialist citation system is powerful inside the community that knows it. A clickable reference can be useful to a newcomer who has no idea how the target is organized internally. The machine performs part of the cultural translation. The reader does not need to know which library shelf, server directory, or application state contains the destination.
+
+This does not make knowledge systems expertise-free. The reader still needs to judge whether the target matters. A legal citation still demands legal interpretation. A scientific paper still demands scientific literacy. But the navigation burden falls.
+
+That matters because friction is selective.
+
+Every extra step filters users. Some filters are intentional and valuable. A locked archive protects private records. A specialist notation can make expert communication efficient. Other filters are incidental. A source is technically public but so difficult to locate that only a determined researcher will ever inspect it.
+
+The hyperlink removes some incidental scarcity from reference.
+
+This is why its arrival changed not only access but expectations of accountability. Once the source can be made adjacent cheaply, a writer who refuses to provide the path looks different. The excuse “the reader can find it” becomes weaker when the author can supply a direct route at negligible cost.
+
+Print culture had already created norms around showing one's work. Hypertext raises the practical ceiling of those norms.
+
+The same point can be seen through indexes.
+
+An index is a remarkable map because it does not merely repeat the words in a book. A skilled indexer decides which concepts a future reader may search for, which synonyms should converge, which scattered passages belong together, and where a passing mention should not count. The index is interpretation encoded as navigation.
+
+Modern search often hides the human labor that an index makes visible. We type a phrase and receive ranked results as if relevance were a natural property of documents. It is not. Somebody or some system must decide which matches matter, which terms are equivalent, which sources deserve priority, and which structures should be ignored.
+
+The hyperlink did not eliminate that editorial layer. It moved some of it from the publisher into the network.
+
+A printed encyclopedia decides all of its internal cross-references before publication. The Web can acquire cross-references after publication because other authors create them. Search can then inspect those externally authored relations. The navigational structure becomes both more distributed and less coherent.
+
+That is the recurring trade.
+
+Central planning produces cleaner structure.
+
+Distributed linking produces more structure than any central planner could afford to create.
+
+The same trade appears in card catalogs and bibliographies. A library catalog creates a controlled description of holdings. A bibliography creates a curated set of intellectual relations. Both are limited by the institution that maintains them. The Web accepts lower descriptive consistency in exchange for allowing anyone to extend the graph.
+
+This is why it would be a mistake to describe hypertext as the replacement for libraries.
+
+The Web depends on the kinds of institutional discipline libraries pioneered. Persistent identifiers, authority control, metadata, versioning, archival preservation, and provenance all become more important once linking scales beyond what any reader can inspect personally.
+
+The history is not old order versus new order.
+
+It is old information disciplines reappearing inside a new cost structure.
+
+The Web made linking cheap enough that billions of weak references could exist. Institutions then had to invent ways to distinguish the references that deserved stronger guarantees.
+
+A casual blogroll link does not need the preservation apparatus of a Supreme Court citation.
+
+A link to a seasonal sale does not need the durability of a DOI.
+
+A link to a joke does not need an archival timestamp.
+
+A link in a scientific result may need all of those things and more.
+
+The thin hyperlink works because it does not force every edge to carry the cost of the most serious edge.
+
+Specialized systems thicken the relationship where consequence justifies it.
+
+This is a design pattern with roots in the printed world. Scholarship did not demand that every reference in human life follow a formal citation style. Law did not require every mention of a person to use a reporter system. Libraries did not insist that casual readers maintain authority files. Strong conventions appeared where communities needed durable coordination.
+
+Hypertext inherited that layered social architecture.
+
+The Web provided the general route.
+
+Communities built stronger promises above it.
+
+This layered view also explains why the simple claim that “print is linear, hypertext is nonlinear” misses so much. A well-indexed printed reference work can be radically nonlinear in use. A badly designed website can force a rigid sequence. A novel on the Web may still depend on page order. A printed dictionary invites arbitrary entry. Linearity is not a property assigned permanently by medium.
+
+The more revealing difference is who performs the transition and how much the transition costs.
+
+Print gives the reader a symbolic instruction and relies on surrounding human systems to complete it.
+
+Hypertext gives software enough of the instruction to participate.
+
+Once the machine participates, the reference can be reused by other machines.
+
+That is the threshold the older forms help us see.
+
+The footnote was already an edge.
+
+The index was already a navigation system.
+
+The bibliography was already a graph.
+
+The catalog was already an addressing layer.
+
+Hypertext did not abolish any of them.
+
+It took the old human habit of saying *see also* and made *also* something the machine could open.
