@@ -201,3 +201,69 @@ Jennison tried to make the old order physical again with force.
 Walker answered with law.
 
 For once, the new words held.
+
+## Three cases, two juries, one contradiction
+
+The neat version of Quock Walker becomes harder to sustain when the actual procedural sequence is restored.
+
+In 1781, Walker did not simply walk into the highest court and ask a judge to abolish slavery. His lawyers, Levi Lincoln and Caleb Strong, brought an assault-and-battery action against Jennison in the Worcester County Court of Common Pleas. Walker's claim included a practical argument rooted in promises that he would eventually be free. The jury did something more consequential than award damages for excessive treatment. It found that Walker was a free man and not Jennison's lawful slave, and awarded him fifty pounds.
+
+At the same court session, Jennison sued two Caldwell brothers for interfering with his claimed property by helping Walker leave him.
+
+And Jennison won.
+
+That second verdict matters because it prevents us from imagining that the new constitutional meaning arrived in one clean flash. One jury could recognize Walker as free while another could still award Jennison damages on a property-interference theory. The old and new legal orders occupied the same courthouse.
+
+Both sides appealed.
+
+Jennison then defaulted his own appeal by failing to present the required papers. The Caldwell brothers prevailed when their case reached the state high court. Meanwhile the criminal prosecution of Jennison for the beating continued separately and eventually came before the Supreme Judicial Court in 1783.
+
+This is what constitutional change looks like before textbooks compress it.
+
+Contradictory verdicts.
+
+Procedural defaults.
+
+Civil claims and criminal charges moving on different tracks.
+
+A new constitution entering litigation through lawyers who still have older, narrower arguments available.
+
+A principle becoming obvious only after institutions have repeated it enough that the old claim stops working.
+
+Chief Justice William Cushing's 1783 jury instruction is remembered because it connected the constitutional guarantee of freedom and equality directly to slavery's legal viability. The Massachusetts courts preserve the surviving record with an important caution of their own: there was no modern transcript of the proceeding. Cushing recorded his charge in his notebooks, and other judicial instructions from the case did not survive in the same way.
+
+Even a foundational constitutional moment arrives through an incomplete archive.
+
+That incompleteness is less troubling here than in the Denmark Vesey proceedings because the institutional structure and surviving records are different. The Quock Walker files include pleadings, verdicts, judgments, and the judge's recorded charge; the proceedings were not a secret tribunal built to suppress an alleged slave revolt. Still, the distinction between what survives and what happened should remain visible.
+
+It also reminds us that legal history overvalues written appellate opinions because written appellate opinions are easy to preserve and cite.
+
+Juries can change history without writing reasons.
+
+Trial judges can announce principles in charges rather than published opinions.
+
+Litigants can alter a legal order through repeated suits that never produce a single canonical document.
+
+The surviving paper trail favors certain forms of law over others.
+
+Quock Walker's importance therefore sits partly in a pattern rather than a citation.
+
+The Massachusetts courts note that freedom suits had already existed before 1780. Nearly thirty enslaved people had sued masters for freedom, often relying on particular legal defects: a promise of manumission, uncertainty about maternal status, or some other claim that did not require a court to say slavery itself was incompatible with the legal order. Elizabeth Freeman and Brom won their own important freedom action in 1781 after the new constitution took effect.
+
+Walker was not the first person to litigate freedom.
+
+He was part of a legal movement that made a broad constitutional proposition increasingly costly for slavery to survive.
+
+This distinction improves the story because it takes the solitary-hero mythology out of constitutional change. Walker's courage mattered. His lawyers mattered. The juries mattered. Cushing mattered. Black petitioners and freedom litigants who came before and beside him mattered. Shifting public opinion mattered. The state's economy and demographics mattered.
+
+A social institution can collapse because multiple supports fail at once.
+
+The court's role was to remove one of the most important supports: judicial enforcement of local ownership claims in human beings.
+
+The effect appears in what happened next as much as in what the judge said. Massachusetts's 1790 census recorded no enslaved people. Historians still dispute how much explanatory weight to place on the Walker cases, and that disagreement should survive in the chapter. The strongest defensible claim is not that one verdict flipped slavery off like a switch. It is that, after the cases, a Massachusetts claimant could no longer confidently expect state courts to enforce local slavery against constitutional language declaring freedom and equality.
+
+A property regime whose courts will not reliably recognize the property is already dying.
+
+That is a quieter abolition mechanism than emancipation by statute.
+
+It is no less consequential to the person who can walk away.
