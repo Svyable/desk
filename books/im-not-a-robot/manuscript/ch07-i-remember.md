@@ -252,6 +252,114 @@ There is no single source that gets to own the past without question.
 
 That includes the self.
 
+An archive introduces another kind of asymmetry that becomes important once machines can search it for us.
+
+The past is not evenly documented.
+
+There are years with thousands of photographs and years with twelve. Relationships lived mostly in person can leave fewer traces than relationships conducted by message. Work performed in instrumented software can become reconstructible minute by minute while care work, thinking, walking, waiting, listening, and private conversation barely register.
+
+The archive can therefore produce a false sense of proportion.
+
+What leaves data begins to look like what happened.
+
+What leaves little data begins to look like background.
+
+Imagine asking a personal model, “What occupied me most in 2028?” It may count calendar blocks, messages, files, purchases, locations, and searches. The answer could be computationally careful and existentially wrong.
+
+Perhaps what occupied you most was fear about a parent’s health, an argument you never wrote down, a decision you postponed for six months, or the private work of learning not to answer somebody’s cruelty with your own.
+
+Important events often have terrible telemetry.
+
+This problem matters in institutions too.
+
+An employee record remembers promotions, ratings, tickets, messages, and formal goals. It may not remember the afternoon a colleague quietly prevented a disaster. A medical chart remembers diagnoses, tests, prescriptions, and visits. It can fail to capture what the patient understood, feared, or could afford. A school record remembers grades and disciplinary events more reliably than curiosity.
+
+Records are selective before any model summarizes them.
+
+Artificial intelligence can make the selection less visible because synthesis feels like completion.
+
+A summary arrives in a paragraph rather than a stack of fragments. The missingness disappears into fluent prose.
+
+The system should be able to say what it does not know.
+
+That is not a small interface preference.
+
+A model of memory without a model of missingness can turn absence into false certainty.
+
+No messages about the conflict may mean the conflict did not matter.
+
+Or it may mean the conflict happened face to face.
+
+No purchase history for alcohol may mean a person does not drink.
+
+Or it may mean somebody else bought it.
+
+No record of contact may mean a relationship faded.
+
+Or it may mean the people lived together.
+
+The archive contains traces of a life, not the life itself.
+
+This is why source plurality matters when the stakes rise.
+
+A remembered event can be checked against a message, a photograph, another person, a document, a timestamp, or a physical fact. None automatically wins. The value comes from disagreement among imperfect sources.
+
+The photograph may prove who was in the room and mislead about what the moment meant.
+
+The message may preserve exact words and omit the conversation that preceded them.
+
+The other person may remember a motive you never had.
+
+You may remember the motive and misremember the sentence.
+
+Truth can require triangulation rather than a winner.
+
+Machines could help enormously here if they are designed as cross-examiners rather than oracles.
+
+Show me the contemporaneous record.
+
+Separate what I said then from what I say now.
+
+Mark which claims are inferred.
+
+Show me where the archive is silent.
+
+Find evidence that contradicts the story I keep telling.
+
+Do not silently merge my later interpretation into the earlier event.
+
+This is a much better use of personal memory systems than producing the definitive autobiography on demand.
+
+The definitive autobiography is precisely what no archive can supply.
+
+There is also a moral reason to resist perfect retrieval.
+
+Human relationships depend partly on selective relevance.
+
+A friend who remembers every error you have ever made is not necessarily a better friend. A partner who can summon a verbatim transcript of every old argument may become unbeatable and impossible to live with. A parent who preserves every childish declaration as evidence against an adult child has confused continuity with prosecution.
+
+Forgetting can be abused. So can remembering.
+
+Cheap retrieval changes the balance because a person no longer has to choose which old event is worth carrying in active memory. The system can carry everything and summon it at the first keyword.
+
+Then an argument about the dishes can become a semantic search across fifteen years of grievance.
+
+The archive always has another receipt.
+
+The ability to retrieve a fact does not settle whether the fact deserves jurisdiction over the present dispute.
+
+This is where memory connects to the book’s larger idea of revision under responsibility.
+
+Responsibility needs enough memory that the past cannot be rewritten whenever it becomes inconvenient.
+
+Revision needs enough forgetting, discounting, context, and mercy that the past does not become the only available instruction.
+
+Neither goal can be delegated to storage capacity.
+
+A system can preserve evidence.
+
+People and institutions still have to decide what the evidence is for.
+
 The phrase “I remember” can therefore be improved by one small addition.
 
 I remember it this way.
