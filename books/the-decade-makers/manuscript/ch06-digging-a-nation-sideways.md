@@ -28,6 +28,60 @@ It built the capacity to build infrastructure.
 
 That second-order effect is one reason large projects matter beyond their direct return.
 
+The Canal Commission also had to create something less photogenic than a lock but just as essential: a credible balance sheet.
+
+The canal was too large to finance as a collection of local improvements. Its value depended on continuity. A completed mile near Albany was useful, but the transformative return arrived only when hundreds of miles of route could be treated as one system. That meant spending enormous sums before the full revenue stream existed.
+
+New York answered by pairing borrowing with a dedicated Canal Fund.
+
+This was institutional engineering in financial form. The state issued debt, but it did not ask investors to rely only on a general promise that future legislators would somehow find money. Revenues were pledged to the canal system, including tolls and dedicated taxes. The financing architecture connected the political decision to build with a visible mechanism for servicing the obligation.
+
+That distinction mattered in an era when American public credit was still young.
+
+A government that can borrow cheaply acquires a form of time travel. It can use future revenues to build present infrastructure. But the trick works only if lenders believe the future government will honor the bargain.
+
+So the canal’s first great product was not freight.
+
+It was credibility.
+
+The state had to convince investors that the project was not merely a governor’s enthusiasm, that the taxes would be collected, that the bonds would be serviced, and that later legislatures would not casually abandon the arrangement. In effect, New York converted a transportation forecast into a security that investors were willing to hold.
+
+The numbers reveal the scale of the wager.
+
+A contemporary 1825 account by Cadwallader Colden, drawing on canal commissioners’ reports, put the expected canal debt at roughly $7.7 million when the system was completed. That was not a decorative public-works appropriation. It was a major fiscal commitment for a state government in the 1820s.
+
+Yet the canal began producing revenue before the entire route was finished.
+
+For the 1824 navigation season, when about 280 miles were open, reported toll collections reached roughly $350,000. The commissioners expected higher receipts after completion. In other words, the project began generating evidence for its own financing thesis while construction was still under way.
+
+That feedback loop changed the politics of risk.
+
+At the beginning, supporters had a model.
+
+Later, they had toll receipts.
+
+The state could show not merely that people admired the idea of an eastern route, but that shippers were paying to use it. Every boat through a lock was simultaneously freight and information.
+
+This is one reason the Erie Canal became a template rather than an isolated marvel.
+
+Public finance is easiest to imitate when the revenue mechanism can be seen.
+
+A toll is politically legible. Somebody uses the infrastructure; somebody pays; the payment helps maintain the system and service the debt. The full distribution of benefits was much wider than the toll booth could capture—land values rose, trade expanded, cities grew—but the canal still possessed a direct operating income stream.
+
+That made it unlike a monument funded solely from taxes.
+
+The canal had customers.
+
+It also had creditors.
+
+Those two groups forced a discipline that grand public projects can otherwise lack. Toll rates could not be purely symbolic if they had to help support debt. Maintenance could not be deferred indefinitely if a broken lock interrupted the revenue stream. Construction decisions affected not only political applause but the future capacity to pay.
+
+This did not eliminate patronage, error, or self-dealing. Large public works create opportunities for all three. Contracts can reward allies. Land speculation can enrich insiders. Forecasts can be manipulated. The Canal Commission’s importance does not rest on a fantasy of immaculate administration.
+
+Its achievement was that the network worked well enough for the institutional package to survive its imperfections.
+
+That is a higher bar than ceremonial success.
+
 When the canal opened, transportation costs between the interior and the Atlantic fell dramatically. Goods could move east more cheaply; manufactured products and migrants could move west. Buffalo grew as a lake terminus. New York City’s commercial advantage deepened. Towns along the route expanded. Agricultural patterns changed as distant markets became economically reachable.
 
 The canal made geography less absolute.
