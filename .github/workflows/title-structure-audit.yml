@@ -1,4 +1,4 @@
-name: Split clear inline subtitles
+name: Diagnose title split residual
 
 on:
   push:
@@ -6,17 +6,16 @@ on:
       - title-structure-audit
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  align:
-    if: github.actor != 'github-actions[bot]'
+  diagnose:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: title-structure-audit
-      - name: Split four clear title and subtitle pairs
+      - name: Apply proposed title splits in working tree
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -28,79 +27,28 @@ jobs:
                   raise SystemExit(f'expected text not found in {path}: {old!r}')
               p.write_text(text.replace(old, new, 1), encoding='utf-8')
 
-          # Bookself already names its subtitle later in the README; move it into the title stack.
-          replace_exact(
-              'books/bookself/README.md',
-              '# Bookself: The Story of Getting Started\n\n| | |',
-              '# Bookself\n\n*The Story of Getting Started*\n\n| | |',
-          )
-          replace_exact(
-              'books/bookself/README.md',
-              '\n*The Story of Getting Started*\n\nMost advice about beginning',
-              '\nMost advice about beginning',
-          )
-          replace_exact(
-              'books/bookself/manuscript/front-matter.md',
-              '# Bookself: The Story of Getting Started\n\n**Sven Hardy Benson**',
-              '# Bookself\n\n*The Story of Getting Started*\n\n**Sven Hardy Benson**',
-          )
-
-          # Hallucinations already repeats the post-colon phrase as its manuscript subtitle.
-          replace_exact(
-              'books/hallucinations/README.md',
-              '# Hallucinations: How AI Leads Us Astray\n\n| | |',
-              '# Hallucinations\n\n*How AI Leads Us Astray*\n\n| | |',
-          )
-          replace_exact(
-              'books/hallucinations/manuscript/front-matter.md',
-              '# Hallucinations: How AI Leads Us Astray\n\n*How AI Leads Us Astray*',
-              '# Hallucinations\n\n*How AI Leads Us Astray*',
-          )
-
-          # These two published titles have clearly descriptive post-colon clauses.
-          replace_exact(
-              'books/the-agentic-consumer-economy/README.md',
-              '# The Agentic Consumer Economy: Digital Capitalism in the 2030s\n\n| | |',
-              '# The Agentic Consumer Economy\n\n*Digital Capitalism in the 2030s*\n\n| | |',
-          )
-          replace_exact(
-              'books/the-agentic-consumer-economy/manuscript/front-matter.md',
-              '# The Agentic Consumer Economy: Digital Capitalism in the 2030s\n\n**Sven Hardy Benson**',
-              '# The Agentic Consumer Economy\n\n*Digital Capitalism in the 2030s*\n\n**Sven Hardy Benson**',
-          )
-          replace_exact(
-              'books/the-risk-pool/README.md',
-              '# The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt\n\n| | |',
-              '# The Risk Pool\n\n*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*\n\n| | |',
-          )
-          replace_exact(
-              'books/the-risk-pool/manuscript/front-matter.md',
-              '# The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt\n\n**Sven Hardy Benson**',
-              '# The Risk Pool\n\n*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*\n\n**Sven Hardy Benson**',
-          )
+          replacements = [
+            ('books/bookself/README.md', '# Bookself: The Story of Getting Started\n\n| | |', '# Bookself\n\n*The Story of Getting Started*\n\n| | |'),
+            ('books/bookself/README.md', '\n*The Story of Getting Started*\n\nMost advice about beginning', '\nMost advice about beginning'),
+            ('books/bookself/manuscript/front-matter.md', '# Bookself: The Story of Getting Started\n\n**Sven Hardy Benson**', '# Bookself\n\n*The Story of Getting Started*\n\n**Sven Hardy Benson**'),
+            ('books/hallucinations/README.md', '# Hallucinations: How AI Leads Us Astray\n\n| | |', '# Hallucinations\n\n*How AI Leads Us Astray*\n\n| | |'),
+            ('books/hallucinations/manuscript/front-matter.md', '# Hallucinations: How AI Leads Us Astray\n\n*How AI Leads Us Astray*', '# Hallucinations\n\n*How AI Leads Us Astray*'),
+            ('books/the-agentic-consumer-economy/README.md', '# The Agentic Consumer Economy: Digital Capitalism in the 2030s\n\n| | |', '# The Agentic Consumer Economy\n\n*Digital Capitalism in the 2030s*\n\n| | |'),
+            ('books/the-agentic-consumer-economy/manuscript/front-matter.md', '# The Agentic Consumer Economy: Digital Capitalism in the 2030s\n\n**Sven Hardy Benson**', '# The Agentic Consumer Economy\n\n*Digital Capitalism in the 2030s*\n\n**Sven Hardy Benson**'),
+            ('books/the-risk-pool/README.md', '# The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt\n\n| | |', '# The Risk Pool\n\n*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*\n\n| | |'),
+            ('books/the-risk-pool/manuscript/front-matter.md', '# The Risk Pool: How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt\n\n**Sven Hardy Benson**', '# The Risk Pool\n\n*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*\n\n**Sven Hardy Benson**'),
+          ]
+          for path, old, new in replacements:
+              replace_exact(path, old, new)
           PY
-      - name: Validate title structure
+      - name: Show residual normalizer diff
         run: |
+          cp -R books /tmp/books-before-normalizer
+          python3 scripts/align-title-pages.py --write
+          echo '--- files changed by normalizer after editorial split ---'
+          git diff --name-only
+          echo '--- complete working-tree diff ---'
+          git diff -- books/bookself books/hallucinations books/the-agentic-consumer-economy books/the-risk-pool
+          echo '--- post-normalizer contract ---'
           python3 scripts/align-title-pages.py --check
-          python3 - <<'PY'
-          from pathlib import Path
-          expectations = {
-              'books/bookself/README.md': ('# Bookself\n', '*The Story of Getting Started*'),
-              'books/hallucinations/README.md': ('# Hallucinations\n', '*How AI Leads Us Astray*'),
-              'books/the-agentic-consumer-economy/README.md': ('# The Agentic Consumer Economy\n', '*Digital Capitalism in the 2030s*'),
-              'books/the-risk-pool/README.md': ('# The Risk Pool\n', '*How Insurance Quietly Decides What Can Be Built, Bought, Borrowed, and Rebuilt*'),
-          }
-          for path, (title, subtitle) in expectations.items():
-              text = Path(path).read_text(encoding='utf-8')
-              assert text.startswith(title + '\n' + subtitle + '\n'), path
-          swarm = Path('books/the-swarm-agents-in-the-wild/README.md').read_text(encoding='utf-8')
-          assert swarm.startswith('# The Swarm: Agents in the Wild\n'), 'The Swarm title must remain intact'
-          PY
           git diff --check
-      - name: Commit editorial title splits
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add books/bookself books/hallucinations books/the-agentic-consumer-economy books/the-risk-pool
-          git commit -m "Separate four clear titles from their subtitles"
-          git push origin HEAD:title-structure-audit
