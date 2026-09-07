@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Author**    | Sven Hardy Benson |
-| **Status**    | Complete first draft |
+| **Status**    | Drafting |
 | **Chapters**  | 20 of 20 drafted + interlude |
 
 *The Global AI Takeover Threat*
