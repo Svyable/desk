@@ -531,3 +531,353 @@ The alliance advantage appears when the network closes the gap between discovery
 That gap is where promising prototypes go to die.
 
 It is also where alliance power is waiting to be built.
+
+## The innovation funnel
+
+An alliance innovation system should be able to say where every serious capability sits in a common funnel.
+
+**Problem validated.** Operators in at least one member agree that the problem is real enough to deserve resources.
+
+**Prototype validated.** The technical approach works in a controlled or national environment.
+
+**Operationally challenged.** The capability has been exposed to realistic failure conditions, adversarial pressure, or mission constraints.
+
+**Second-country tested.** Another ally has used or evaluated it in a materially different environment.
+
+**Interoperability qualified.** Interfaces, data, identity, security, and doctrine have been tested across national boundaries.
+
+**Procurement ready.** At least one repeatable path exists from evaluation to contract.
+
+**Multi-country fielded.** More than one ally operates the capability without bespoke reinvention.
+
+**Sustained.** Updates, maintenance, training, replacement parts, model changes, and vendor continuity have a credible lifecycle.
+
+**Retired or superseded.** The alliance has stopped paying for an option that no longer earns its place.
+
+The funnel matters because “successful pilot” is too easy a category.
+
+A prototype can succeed technically and fail at every later stage.
+
+The alliance should know where conversion actually stops.
+
+## Conversion ratios
+
+The network can then measure conversion ratios.
+
+How many validated prototypes become second-country tests?
+
+How many second-country tests become procurement?
+
+How many procurements become multi-country fielding?
+
+How many fielded systems remain usable through major updates?
+
+How many failures are retired promptly rather than kept alive by sponsorship?
+
+These ratios reveal the institution more clearly than the number of challenge events.
+
+A country can announce one hundred experiments and still have an innovation system with almost no strategic output.
+
+The relevant numerator is capability that survives translation.
+
+## The second-adoption service level
+
+The most revealing clock begins when one ally has already demonstrated value.
+
+How long until a second ally can use it?
+
+Call this the second-adoption service level.
+
+Break the clock into components.
+
+Export permission.
+
+Security review.
+
+Contracting.
+
+Data access.
+
+Integration.
+
+Testing.
+
+Training.
+
+Operational authority.
+
+The slowest component becomes the binding constraint.
+
+That constraint should be visible to ministers and acquisition leaders.
+
+Otherwise “innovation is slow” remains a slogan that no institution owns.
+
+A healthy network should see the second-adoption clock fall over time for similar capability classes.
+
+If it does not, reusable trust is not accumulating.
+
+## The reuse index
+
+Every evaluation should produce artifacts that can travel.
+
+Test results.
+
+Threat models.
+
+Security evidence.
+
+Interface specifications.
+
+Failure cases.
+
+Training material.
+
+Model cards or equivalent technical documentation where relevant.
+
+Contract clauses.
+
+Safety cases.
+
+Maintenance procedures.
+
+The reuse index asks what percentage of those artifacts the next adopter can actually inherit.
+
+A low reuse index means the network repeatedly pays for the same knowledge.
+
+A high reuse index does not mean blind acceptance.
+
+It means the second ally starts from the first ally’s evidence rather than from ignorance.
+
+This is the institutional equivalent of code reuse.
+
+## Diffusion debt
+
+When a useful technology cannot cross an allied boundary, the alliance accumulates diffusion debt.
+
+The first adopter gains capability.
+
+The rest of the network now knows the capability exists but cannot use it.
+
+Operational expectations rise faster than access.
+
+The gap becomes debt.
+
+Diffusion debt can come from export controls, classification, contracting, data restrictions, incompatible standards, intellectual-property rules, or simple lack of ownership for the transition.
+
+The debt has interest.
+
+The longer diffusion takes, the more likely the technology changes, the company fails, the requirement moves, or a competitor catches up.
+
+An alliance should track large pieces of diffusion debt explicitly.
+
+Which proven capability is trapped?
+
+Why?
+
+Who owns the blocker?
+
+What is the expiry risk?
+
+What would it cost to clear the debt?
+
+## Kill rights
+
+Innovation requires permission to stop.
+
+Every program should have a kill right attached to evidence.
+
+Who can recommend termination?
+
+What performance threshold triggers review?
+
+What security failure is disqualifying?
+
+What cost growth changes the value proposition?
+
+How long can a transition stall before the opportunity is considered lost?
+
+Can an operator report that the tool adds workload rather than reducing it?
+
+Can an ally’s negative test outweigh the prestige of the original sponsor?
+
+The kill right protects the portfolio.
+
+Without it, experimentation becomes accumulation.
+
+Each pilot creates a constituency.
+
+The network then spends more resources sustaining yesterday’s optimism than discovering tomorrow’s advantage.
+
+## Failure memory needs portability
+
+A shared failure corpus should travel at least as well as success stories.
+
+Suppose one ally discovers that a model’s confidence collapses under a particular sensor condition.
+
+Another finds that the same vendor’s maintenance burden makes deployment impractical.
+
+A third discovers that an interface fails under degraded communications.
+
+Those lessons should converge before a fourth country buys the same problem.
+
+The corpus needs context.
+
+Mission.
+
+Environment.
+
+Version.
+
+Configuration.
+
+Data conditions.
+
+Operator training.
+
+Observed failure.
+
+Mitigation.
+
+Residual risk.
+
+This turns failure into network capital.
+
+An alliance that cannot remember failure will pay repeatedly for local surprise.
+
+## Small allies need absorption capacity too
+
+The network can celebrate innovation from smaller members while still making diffusion effectively one-way.
+
+A small ally may produce a useful capability but lack the staff to support five foreign evaluations, negotiate multiple data-rights agreements, answer security questionnaires, and sustain international integration.
+
+The innovating node needs export capacity.
+
+Technical liaison support.
+
+Common documentation templates.
+
+Funding for foreign trials.
+
+Legal assistance.
+
+Translation of certification evidence.
+
+Access to alliance test environments.
+
+Otherwise the burden of being adopted can overwhelm the institution that created the innovation.
+
+The network should not merely discover edge innovation.
+
+It should help the edge survive success.
+
+## Innovation is a two-sided market
+
+Diffusion depends on both supply and demand.
+
+The supplier side asks whether the company or national program can scale.
+
+The adopter side asks whether militaries have budget, authority, integration staff, data, and an operational owner ready to receive the capability.
+
+A brilliant product can fail because nobody owns adoption.
+
+A ready customer can fail because the supplier cannot support multinational demand.
+
+The alliance should therefore pair innovations with named receiving organizations early.
+
+Who would operate this?
+
+Who would pay?
+
+Who would integrate it?
+
+Who would maintain it?
+
+Which mission outcome would improve?
+
+An orphan technology is not procurement ready no matter how impressive the demonstration.
+
+## The diffusion state machine
+
+Capabilities should move through governed states.
+
+**Local experiment.** No allied portability claim yet.
+
+**Candidate for diffusion.** Evidence is strong enough to justify another member’s attention.
+
+**Cross-border trial.** A second national environment tests the value and reveals translation costs.
+
+**Qualified network capability.** Shared baseline evidence exists; adoption requirements are known.
+
+**Scaling.** Multiple countries are integrating under reusable rules.
+
+**Network service.** The capability has routine multinational support, updates, and sustainment.
+
+**Degraded.** A vendor, security, performance, or political problem limits use.
+
+**Retiring.** Replacement or termination is planned.
+
+The state machine prevents announcements from getting ahead of maturity.
+
+A cross-border trial remains a trial.
+
+A legal exemption remains permission, not fielding.
+
+A strategy remains intention, not capability.
+
+The vocabulary itself protects analytical discipline.
+
+## Portfolio diversity versus fragmentation
+
+The alliance should maintain several bets where uncertainty is high.
+
+It should not preserve every bet forever.
+
+Portfolio diversity is valuable before selection.
+
+Fragmentation is costly after selection when many incompatible systems all need sustainment.
+
+The transition point matters.
+
+When should the alliance encourage competition?
+
+When should it converge on an interface?
+
+When should it converge on a smaller set of implementations?
+
+When should national variation remain because it creates failure diversity?
+
+There is no universal answer.
+
+But the choice should be explicit.
+
+Otherwise the network can drift into either premature monoculture or permanent pilot proliferation.
+
+## What would falsify the network-innovation thesis?
+
+The thesis is not that alliances always innovate better.
+
+It is that distributed search can outperform centralized direction when the network can select and diffuse useful results at falling marginal cost.
+
+That claim weakens if second-country adoption remains persistently slow despite common processes.
+
+It weakens if reusable certification creates unacceptable security or safety errors.
+
+It weakens if small-node innovations rarely survive scaling.
+
+It weakens if many-to-many experimentation produces fragmentation costs larger than the benefits of diversity.
+
+It weakens if centralized competitors consistently identify and field superior solutions faster across the same problem classes.
+
+Those are real tests.
+
+The alliance advantage is not the existence of many inventors.
+
+It is the performance of the diffusion system.
+
+The strategic unit is therefore not the prototype.
+
+It is the path from one useful discovery to routine capability in the hands of several sovereign partners.
+
+When that path gets shorter with every successful trip, the network is learning.
+
+When it does not, the alliance has innovation activity without innovation power.
