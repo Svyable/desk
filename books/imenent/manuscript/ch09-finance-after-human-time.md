@@ -288,6 +288,10 @@ This is the systemic version of shutdown versus re-entry.
 
 The more coupled the environment, the less meaningful a local off switch becomes without a coordinated degraded mode.
 
+A coordinated degraded mode would not have to be manual. It could still be heavily automated while narrowing what the system is allowed to do: lower position limits, fewer products, slower finality, stronger confirmations, reduced counterparty sets, or temporary restrictions on strategies whose behavior is difficult to reconstruct. The point is not to restore the trading floor. It is to move the system into a regime whose state remains legible and whose next actions are bounded enough for accountable institutions to regain a usable picture.
+
+That distinction changes what a successful pause means. A halt that merely stops new transactions while collateral calls, linked markets, settlement obligations, and automated risk responses continue elsewhere may create time in one layer by exporting instability to another. Re-entry is stronger when the surrounding institutions know which obligations continue, which clocks slow together, and which evidence remains authoritative while the system is operating below normal tempo.
+
 Finance has another lesson for agentic systems: **position matters more than intent.**
 
 A trader can create dangerous exposure without intending systemic harm.
