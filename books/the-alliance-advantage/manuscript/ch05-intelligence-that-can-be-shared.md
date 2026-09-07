@@ -102,7 +102,7 @@ If only the most senior officers can approve partner release, queues form and op
 
 Training cycles should include forced sharing failures.
 
-Deny a feed. Corrupt a marking. Insert a plausible forgery. Require a combined cell to produce a decision-quality product anyway. Forces that only ever train with clean allied intelligence will treat the first real friction as betrayal rather than as the normal environment. Hard training is a kindness to future operators.
+Deny a feed. Corrupt a marking. Insert a plausible forgery. Require a combined cell to produce a decision-quality product anyway. Forces that only ever train with clean allied intelligence will treat the first real friction as betrayal rather than as the normal environment.
 
 Budget lines must follow the same logic.
 
@@ -112,17 +112,9 @@ The chapter closes where it began, with a refusal to confuse possession and powe
 
 Possession of secrets is common among serious states. Power is the ability to turn some of those secrets into allied action while they still describe the world that exists. Intelligence that can be shared is the name of that turn. Without it, the network’s other digital ambitions lose their first subject matter. With it, alliances gain something empires also need and often mismanage: judgment that travels.
 
-The institutional design question that remains is where releasability authority should sit. If only the most senior officers can approve partner release, queues form and opportunities die. If junior officers can release without guidance, sources are endangered. The workable middle is pre-delegated playbooks for recurring product types, with rapid escalation paths for novel cases.
+An alliance that buys sensors without buying the people and pipes that make sensor output partner-usable is purchasing national prestige and coalition blindness in the same contract. The chapter closes where it began, with a refusal to confuse possession and power. Accuracy that arrives too late, or only inside a vault, does not defend an alliance. Accuracy that can be lawfully told to the people who must act is the product worth funding, training, and measuring.
 
-Training cycles should include forced sharing failures. Deny a feed. Corrupt a marking. Insert a plausible forgery. Require a combined cell to produce a decision-quality product anyway. Forces that only ever train with clean allied intelligence will treat the first real friction as betrayal rather than as the normal environment.
-
-Budget lines must follow the same logic. Tear-line writers, liaison billets, cross-domain engineering, and partner-focused analytic tools are often the first cuts because they do not photograph well beside ships and aircraft. They are also among the highest leverage spends for coalition effectiveness.
-
-Possession of secrets is common among serious states. Power is the ability to turn some of those secrets into allied action while they still describe the world that exists. Intelligence that can be shared is the name of that turn.
-
-Hard training is a kindness to future operators. An alliance that buys sensors without buying the people and pipes that make sensor output partner-usable is purchasing national prestige and coalition blindness in the same contract. The chapter closes where it began, with a refusal to confuse possession and power. Accuracy that arrives too late, or only inside a vault, does not defend an alliance. Accuracy that can be lawfully told to the people who must act is the product worth funding, training, and measuring.
-
-Hard training is a kindness to future operators. Treat releasability as equal to accuracy in production requirements. Secrets that cannot travel to the decision are inventory, not power.
+Treat releasability as equal to accuracy in production requirements. Secrets that cannot travel to the decision are inventory, not power.
 
 Pre-delegated releasability playbooks turn timed trust into muscle memory rather than heroism. Without them, every useful share becomes a novel legal event.
 
@@ -141,13 +133,3 @@ Metrics should track decision windows met with usable caveated product, not port
 Democratic oversight pathways sustain permission for the network; scandals after the fact destroy it.
 
 Treat releasability as a production requirement equal to accuracy. Accuracy that arrives too late or only inside a vault does not defend an alliance. Pre-delegated playbooks, forced sharing failures in training, and budget lines for liaison and tear-line craft are how timed trust becomes muscle memory. Possession of secrets is common; power is turning some of them into allied action while they still describe the world.
-
-The unromantic work continues: measure conversion, exercise friction, fund seams, warm factories, and keep sovereignty explicit without using it as an excuse for permanent isolation.  That discipline is how networks stay honest when vocabulary runs ahead of machinery. Capitals that keep score in communiqués will be surprised by capitals that keep score in crates moved, patches applied, and magazines filled under partner markings.  Surprise of that kind is avoidable; avoiding it is the point of this book’s mechanisms.
-
-Across the functional and regional chapters, the same conversion test recurs under different nouns. Data, models, intelligence, cloud, logistics, munitions, standards, industry, digital governance, regional lattices, dense technical clubs, innovation absorption, sovereignty bargains, vulnerability management, and coalition tempo are not separate agendas. They are faces of one question: can distributed capability be made usable in time without demanding a single throne? Capitals that answer only with vocabulary will field inventories. Capitals that answer with seams, stocks, and practiced authorities will field forces. The difference is the alliance advantage under test—and the only difference that matters when the plug must fit.
-
-Keep the falsifiers nearby while doing the work. Coordination can cost more than it returns. Standards can stifle. Dependence can coerce. Centralized foes can win tempo fights. Those possibilities are why measurement and counter-evidence belong inside alliance management rather than in opposing op-eds alone. A thesis that cannot state its own defeat conditions is not strategy; it is branding. This book’s mechanisms remain accountable to exercises, factories, and clocks.
-
-Finally, refuse the comfort of unfinished conversion. Announcing a backbone, a forum, or a production goal is the beginning of responsibility, not its discharge. The discharge looks like a credential that works, a shell that arrives, a model that can be refused or patched across a border, a port that clears under treaty authority, and a public that understands why some autonomy was traded for speed. Those are ordinary proofs. Ordinary proofs are how alliances become extraordinary under pressure.
-
-Keep score in what crosses borders under policy—credentials, crates, patches, and authorities—because that scoreboard is the only one adversaries cannot dismiss as theater.
