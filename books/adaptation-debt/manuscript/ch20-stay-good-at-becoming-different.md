@@ -762,15 +762,7 @@ Usually they were something less glamorous.
 
 The organization kept a door from being bricked shut.
 
-That may be the most realistic definition of adaptability available.
-
-Not permanent motion.
-
-Not disruption as identity.
-
-Not contempt for the installed world.
-
-The ability to become different without first having to become someone else entirely.
+That may be the most realistic definition of adaptability available: the ability to become different without first having to become someone else entirely.
 
 Success will keep leaving furniture behind.
 
