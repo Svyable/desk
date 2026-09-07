@@ -1,7 +1,7 @@
 # Renegade Code
 
 <!-- bookself-reader-links:start -->
-**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/renegade-code/)
+**Reader links:** [Working edition · Desk Reader](https://svyable.github.io/desk/reader/#/b/renegade-code/) · [Published edition · Shelf Reader](https://svyable.github.io/shelf/reader/#/b/renegade-code/)
 <!-- bookself-reader-links:end -->
 
 **What Happens When AI Escapes Containment**
@@ -13,6 +13,7 @@
 | **Form** | Narrative nonfiction / technology / security |
 | **Chapters** | 26 of 26 |
 | **Edition** | First complete Desk draft · September 2026 |
+| **Release Review** | First edition publication transaction · frozen Desk source `cba805b0301f78f591c67c5d7f8c303304da108c` · Shelf counterpart #244 |
 
 ## Premise
 
