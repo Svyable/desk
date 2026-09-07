@@ -173,3 +173,37 @@ Less than seventy feet separated uncertainty from proof.
 The distance from that proof to highways, suburbs, plastics, tankers, wars, smog, petrochemicals, oil shocks, pipelines, climate policy, and modern geopolitics was much farther.
 
 Americans spent the next century and a half building it.
+
+There is one more reason a modest well belongs in a story about national development: extraction industries do not simply discover resources. They teach institutions how to organize around resources.
+
+Once petroleum became worth finding, a chain of complementary commitments began to make sense. Investors financed drilling. Refiners designed facilities around expected crude supply. Carriers built routes around expected volume. Manufacturers designed equipment around expected fuels and lubricants. Governments learned to tax, regulate, and plan around the industry. Workers acquired specialized skills. Communities organized employment and public revenue around production. Each decision made the next one easier to justify.
+
+That is how a resource becomes a system.
+
+The important distinction is between availability and dependence. A country can possess a useful commodity without arranging large parts of its economy around it. Dependence arrives when many separate actors make durable choices that assume the commodity will remain cheap, obtainable, and compatible with the infrastructure they are building.
+
+Those choices can be individually sensible and collectively difficult to reverse.
+
+A refinery cannot instantly become a railroad. A pipeline cannot be moved like inventory on a shelf. A suburb built around driving cannot be rearranged whenever fuel prices change. A factory designed around one process may face real costs when inputs or regulations shift. The more capital that accumulates around a system, the more replacement competes not with an empty field but with machinery, habits, contracts, skills, land use, and institutions that already work together.
+
+This is path dependence without mysticism. The first well did not lock the United States into a predetermined petroleum future. It made one path more investable. Later wells, engines, roads, pipelines, refineries, businesses, and consumer choices thickened that path until changing direction became a problem of transition rather than invention.
+
+That distinction matters for understanding both the power and the difficulty of energy change.
+
+New energy systems do not need only a better molecule, machine, or price. They need enough complementary infrastructure to become reliable at the scale people expect. Incumbent systems possess an advantage that is easy to mistake for intrinsic superiority: they arrive bundled with maintenance crews, financing conventions, suppliers, standards, legal rules, trained workers, and customers who already know how to use them.
+
+The first petroleum boom had to build that bundle from almost nothing.
+
+Later competitors would have to compete with the bundle as well as the fuel.
+
+The same logic explains why redundancy and spare capacity can look wasteful during ordinary times yet valuable during disruption. A mature energy system is judged not only by what it costs on a normal day but by whether supply can be rerouted, repaired, stored, substituted, or restored when something fails. Resilience emerges from networks of alternatives, inventories, skills, and institutions that are expensive precisely because they are maintained before the emergency that proves their value.
+
+Petroleum eventually acquired those supporting layers because millions of decisions accumulated around repeated use.
+
+Drake's well deserves attention because it sits near the beginning of that accumulation. Its significance was not that one hole supplied a nation. It was that one credible success changed what thousands of other people believed was worth building.
+
+A resource boom starts with extraction.
+
+An industrial order starts when everyone else begins designing around it.
+
+That is also why transitions are politically difficult. Costs and benefits are attached to real places, firms, workers, and households before anyone debates the next system in the abstract. Existing infrastructure gives history a constituency.

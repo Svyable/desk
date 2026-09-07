@@ -68,9 +68,17 @@ The chapter is now deepened with **580 net words** under the exact checker token
 
 Because the Chapter 10 blob was unchanged from the literal September 6 checker source and the change is append-only, the exact baseline count plus the exact additive delta yields a current Chapter 10 count of **3,052 words**, clearing this specific floor by 52 words.
 
+### Chapter 9 — closed
+
+Chapter 9, `manuscript/ch09-sixty-nine-feet-down.md`, was **2,485 words**, **515 words below** the floor on the same literal baseline.
+
+The chapter is now deepened with **574 net words** under the exact checker token expression, `\b[\w’'-]+\b`. The addition stays inside the existing Drake-well-as-catalytic-proof argument, developing how a resource becomes a system through complementary capital, logistics, standards, skills, regulation, durable infrastructure, path dependence, and resilience. It adds no new quotation, dated statistic, named source, or volatile current factual claim.
+
+Because the Chapter 9 blob was unchanged from the literal September 6 checker source and the change is append-only, the exact baseline count plus the exact additive delta yields a current Chapter 9 count of **3,059 words**, clearing this specific floor by 59 words.
+
 ## Release effect
 
-These passes close **eight** of the 21 sub-3,000-word chapter defects recorded by the September 6 literal checker. **Thirteen numbered chapters remain below 3,000 words on that literal baseline** and require substantive deepening rather than padding.
+The passes recorded in this file close **nine** of the 21 sub-3,000-word chapter defects from the September 6 literal checker. Additional chapter-specific remediation artifacts on current Desk close Chapters 1, 2, 3, 4, 5, 7, and 13. Taken together, **16 of the 21 original defects are now closed** and **five known sub-floor chapters remain: Chapters 16, 17, 19, 20, and 21**.
 
 The chapter-only corpus was already **68,901 words**, above the 65,000-word book minimum, before these passes. The controlling mechanical debt is therefore the remaining per-chapter floors.
 
