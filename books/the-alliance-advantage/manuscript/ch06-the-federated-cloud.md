@@ -203,3 +203,9 @@ Tested workload exits turn portability clauses from fiction into measured strate
 Training clouds normalize federated identity before sharper missions demand it under fire.
 
 Federation is doors, keys, and revocation paths—not a single landlord. Fund the doors or buy isolation at cloud scale. Mission-network templates, continuous authorization, residency policy-as-code, tested exits, and mapped cable geography are how elastic compute becomes alliance infrastructure rather than enterprise fashion. Cloud without shells is a briefing; the material chapters insist shells and movement still decide whether digital advantage lives past week two.
+
+Reserved capacity under Article 5 conditions or equivalent regional crises should be stated in peacetime federation agreements. Silence is a latent quarrel. The quarrel deferred to wartime will be settled under television lights with incomplete facts. Write the clause. Exercise the clause. Fund the capacity the clause assumes.
+
+Purpose-limited observability among federated operators prevents reliability tooling from becoming mutual surveillance. Friends need privacy to remain friends. Friends also need enough shared telemetry to keep the backbone alive. The boundary is a design choice, not a mood.
+
+Training clouds that normalize federated identity before sharper missions demand it under fire remain cheap compared with improvisation. Normalize early. Fail early. Fix early. That sequence is how federation becomes habit rather than heroism.

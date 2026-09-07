@@ -133,3 +133,13 @@ Metrics should track decision windows met with usable caveated product, not port
 Democratic oversight pathways sustain permission for the network; scandals after the fact destroy it.
 
 Treat releasability as a production requirement equal to accuracy. Accuracy that arrives too late or only inside a vault does not defend an alliance. Pre-delegated playbooks, forced sharing failures in training, and budget lines for liaison and tear-line craft are how timed trust becomes muscle memory. Possession of secrets is common; power is turning some of them into allied action while they still describe the world.
+
+Liaison officers remain the human cross-domain solution when automated tear-lines stall. Capitals that cut liaison billets to protect platform budgets purchase blindness with a smile. Restore the billets. Train them for machine-generated assessment provenance, not only for classic HUMINT etiquette. Provenance questions are now routine staff work.
+
+Cascading product lines—from deep bilateral to sanitized multilateral—should be exercised as production drills, not invented during the first week of a widened mission. Drills reveal which caveats are load-bearing and which are habit. Habit caveats are how coalitions donate time to adversaries.
+
+Contractor tooling that cannot be cleared for partner use creates cleared governments staring at uncleared screens. Flow-down rules in contracts must name partner use cases early. Early naming is cheaper than late scandal or late paralysis.
+
+Democratic oversight pathways that can review sharing practices without demanding operationally impossible transparency will sustain permission. Pathways that appear only after scandal will freeze seams. Design oversight while trust still exists.
+
+The institutional design question remains where releasability authority should sit. Pre-delegated playbooks for recurring product types, with rapid escalation for novel cases, turn timed trust into muscle memory. Without them, every useful share becomes a novel legal event—and novel legal events are how opportunities die in queues.

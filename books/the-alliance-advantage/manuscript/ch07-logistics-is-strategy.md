@@ -73,3 +73,33 @@ Data standards for logistics objects—stock numbers, condition codes, hazardous
 Finally, leaders must be willing to hear shortage early. Punishment cultures that shoot messengers create false plenty until the moment of empty racks. An alliance advantage includes the political safety to report emptiness while there is still time to fill it.
 
 Logistics is strategy because strategy without arithmetic is theater. Arithmetic lives in warehouses, ports, permissions, seasons, and the careers that either prize logisticians or starve the field of talent. Move what you already own before announcing what you intend to buy. Movement is the first proof that a network exists outside the communiqué.
+
+Rail Baltica’s drive toward standard gauge through the Baltics, and dual-gauge investments such as Lithuania’s Palemonas military mobility hub, make logistics statecraft visible in steel and concrete. Gauge change is a tax on coalition speed. Paying to reduce the tax is alliance strategy even when the invoice is filed under transport policy. Capitals that treat gauge as a civilian curiosity will rediscover it as a wartime queue.
+
+Military mobility packages in Europe that update axle loads, train lengths, and border procedures are interoperability made of permits and engineering. They are also contested politics. Contested politics still beat silent neglect. Silent neglect leaves tunnels too low and bridges too weak while staffs draw elegant arrows across maps.
+
+Fuel resilience for bases and data centers now sits inside the same logistics story as diesel for trucks. A digital advantage that dies when the generator farm is empty was never an advantage. Diversified storage, protected pipelines, and priority restoration agreements are logistics as strategy for the cloud age as much as for the armored age.
+
+Medical logistics bind coalitions morally. Differing protocols that slow evacuation will be judged harshly by publics. Agree medical data seams and roles of care across borders before the first combined casualty. Publics may forgive many operational errors; they rarely forgive preventable abandonment of coalition wounded.
+
+Sealift and airlift assumptions that treat commercial markets as infinite background conditions are peacetime luxuries. Contract wartime lift risk in peacetime. Exercise it. The market will not volunteer to be a military service without preparation.
+
+Customs pre-clearance and trusted trader arrangements become operational art in crisis. Peacetime bureaucracy that cannot bend under treaty authority will measure alliance speed in stamps. Stamps as delay weapons favor the side that needs time more than tempo.
+
+Climate and season still govern mobility. Mud, ice, heat, and monsoon are multipliers on fuel burn and delivery windows. Allied plans that import another theater’s seasonal assumptions will strand forces with correct paperwork and wrong tires.
+
+Labeling and packaging standards for allied munitions and spare parts decide whether automated warehouses can handle partner stock. A barcode that means nothing to a partner’s system returns the coalition to clipboard tempo. Clipboard tempo is how industrial miracles die in yards.
+
+The human profession of logistics must be prized equal to the combat arms in alliance career systems. If talent avoids the field for lack of prestige, arithmetic will command the force later. Prestige is a logistics instrument. Use it.
+
+Alliance advantage in logistics is verified ability to move, fix, fuel, and clear across borders fast enough that distributed forces become one operational body. Fail that test and the network remains a map of friends. Pass it and the map becomes a machine. A map of friends is comforting. A machine of movement is deterring.
+
+Falsification remains available. If mass alone routinely beats sustainment quality, logistics centrality is overstated. If host-nation politics systematically blocks movement regardless of technical preparation, political risk dominates engineering. Those risks argue for redundancy and diplomacy, not for treating logistics as a back-office afterthought.
+
+The practical agenda is blunt. Map constrained seams. Fund visibility. Exercise release. Diversify routes. Harden nodes. Align medical and maintenance reciprocity. Contract wartime lift. Measure tonnage moved under realistic friction, not tonnage promised in peacetime briefings. Move what you already own before announcing what you intend to buy. Movement is the first proof that a network exists outside the communiqué.
+
+Consider a single armored brigade moving across allied territory under contested conditions. Every border is a negotiation. Every fuel point is a vulnerability. Every spare power pack is a question of title. Digital tracking that stops at the national boundary turns the brigade into a series of local problems rather than one operational object. Federation in logistics means the object remains visible and actionable under rules the politics can accept. Visibility without authority is tourism. Authority without trucks is theory. Both together are strategy.
+
+Logistics is strategy because strategy without arithmetic is theater. Arithmetic lives in warehouses, ports, permissions, seasons, and the careers that either prize logisticians or starve the field of talent. Communiques are cheap. Movement is the expensive proof that the network was real before it was needed.
+
+Fund visibility. Exercise release. Move what you own.
