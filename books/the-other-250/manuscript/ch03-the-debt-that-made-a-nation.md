@@ -149,3 +149,43 @@ A stack of Revolutionary obligations gave the new government a chance to convert
 America's fiscal union did not arrive with a flag-raising.
 
 It arrived as a decision about whose debt counted as national.
+
+The deeper effect of assumption was that it changed what failure would mean.
+
+Before a national fiscal system took hold, a state could mishandle its obligations and damage itself severely without necessarily discrediting every other American government at the same time. Once the federal government placed more obligations under one roof, the risks became more concentrated. That sounds like a weakness, and in one sense it was. A larger balance sheet creates larger consequences when confidence breaks. But concentration also creates an institution with stronger incentives to prevent the break. The Treasury could no longer treat public credit as an occasional wartime problem. Credit became a continuing responsibility.
+
+That shift matters because institutions are shaped by the problems they are expected to survive.
+
+A government that borrows once can improvise. A government that expects to borrow repeatedly has to cultivate habits. It has to keep records that other people trust, collect revenue with enough regularity to make promises believable, explain its obligations in terms investors can compare, and preserve some continuity when officeholders change. None of those requirements guarantees good policy. They do, however, create pressure for administrative competence that a looser arrangement can postpone.
+
+Assumption also changed the politics of time.
+
+States and citizens could argue about whether the new Constitution had transferred too much power in theory. Debt made the question practical. Interest came due on schedules. Securities were bought and sold before political disputes were settled. Revenue had to arrive even when legislators preferred another argument. Financial obligations forced the new government to behave across years rather than from crisis to crisis.
+
+That is one reason public credit can become more durable than the coalition that first creates it. A party may dislike the policies of its predecessor and still discover that repudiating obligations would impose costs on its own administration. Creditors do not lend only to a president, a secretary, or a congressional majority. They lend to an institution expected to outlast them. The more credible that expectation becomes, the more valuable the institution's promise becomes.
+
+There is a democratic complication inside that durability. Governments should be able to change policy after elections. Yet some promises are valuable precisely because elections do not erase them. The difficulty is deciding which commitments deserve continuity and which merely protect an old distribution of advantage. Hamilton's system did not solve that problem. It made it unavoidable.
+
+The same ambiguity appears in the relationship between national credit and national identity.
+
+It is easy, in retrospect, to imagine that Americans who had fought under a common cause naturally became participants in a common financial system. The politics of the 1790s show otherwise. People could value the Union and still distrust federal consolidation. They could support paying debts and disagree over whose debts should be socialized. They could believe that public credit mattered while objecting to the political class most likely to benefit from it.
+
+Financial union therefore did not follow automatically from emotional union.
+
+It had to be constructed through rules that redistributed risk and responsibility. Once constructed, it began teaching people to think nationally in a new register. A merchant considering a federal security, a taxpayer paying a federal levy, a state government negotiating a settlement, and a foreign lender evaluating American obligations were all being asked to treat the United States as more than a diplomatic label. They were being asked to assign money to its durability.
+
+Money is an unusually unforgiving form of belief.
+
+Patriotic language can survive contradiction for a long time. Credit is less patient. A borrower that repeatedly fails to honor commitments discovers quickly that ceremony cannot substitute for payment. The early Treasury therefore faced a test that was both mundane and profound: could the new constitutional order turn political authority into dependable fiscal behavior?
+
+Assumption raised the stakes of the answer.
+
+By taking on obligations that had once been dispersed, the federal government made its own performance more consequential. Success could enlarge its future room to act. Failure could damage confidence on a national scale. The policy did not merely give Washington more power. It gave Washington more to lose.
+
+That is another way institutions become real.
+
+They inherit responsibilities large enough that incompetence is no longer local.
+
+The bargain was therefore more than a transfer of liabilities. It was a transfer of exposure. Federal officials gained resources and credibility when the system worked, but they also accepted responsibility for maintaining a promise that crossed state lines and administrations. That responsibility could discipline policy without making policy neutral. It bound later leaders to reckon with decisions made before them, just as assumption bound the new republic to obligations inherited from the Revolution.
+
+A nation, in this sense, was becoming an entity capable of remembering financially.
