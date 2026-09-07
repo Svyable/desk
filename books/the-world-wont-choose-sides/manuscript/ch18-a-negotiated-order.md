@@ -40,6 +40,8 @@ The more important question is not only where a state belongs.
 
 It is what the state can bargain over while belonging there.
 
+## Bargaining capacity is the common variable
+
 Middle powers help produce this negotiated order because they control assets great powers need and because competing networks give them alternatives.
 
 India can cooperate with the United States on technology and security while preserving strategic traditions that resist formal alliance.
@@ -57,6 +59,32 @@ Other pivotal states matter when particular networks make their ports, markets, 
 The common feature is not neutrality.
 
 It is bargaining capacity.
+
+Bargaining capacity can be decomposed.
+
+Number of credible alternatives.
+
+Time required to switch.
+
+Domestic capacity to absorb switching cost.
+
+Value of the asset being bargained over.
+
+Substitutability of that asset to outside powers.
+
+Political legitimacy to say no.
+
+Ability to compartmentalize disagreement across domains.
+
+Ability to preserve relationships after refusing a request.
+
+These are the variables that determine whether selective alignment is real.
+
+A country with many nominal partners and no usable alternatives is not strategically autonomous.
+
+A country with fewer partners but credible exit options may be.
+
+## The Global South is not a strategy
 
 This is why the phrase Global South is often analytically weak.
 
@@ -97,6 +125,94 @@ Countries can remain connected in one domain while competing in another.
 That lowers some barriers to cooperation.
 
 It raises the cost of coordination.
+
+## Issue modularity has to be institutionalized
+
+Selective alignment survives only if institutions can keep one disagreement from automatically contaminating every other relationship.
+
+This requires domain firebreaks.
+
+A trade dispute should not automatically end maritime coordination.
+
+A sanctions disagreement should not automatically terminate public-health cooperation.
+
+A technology restriction should not automatically erase every diplomatic channel.
+
+A security disagreement should not automatically freeze commercial settlement unless leaders deliberately choose that coupling.
+
+The firebreaks will never be perfect.
+
+Some domains are genuinely connected.
+
+Technology can carry security implications.
+
+Finance can implement national-security policy.
+
+Ports can have commercial and military functions.
+
+The purpose is not artificial separation.
+
+It is deliberate coupling.
+
+Which disagreements should spread?
+
+Which should remain contained?
+
+Who decides?
+
+How quickly can a contained dispute be restored to ordinary rules after the crisis passes?
+
+An order is negotiable only when not every disagreement becomes total alignment pressure.
+
+## The order has an option market
+
+A middle power’s leverage depends partly on whether alternative networks are actually usable.
+
+A second infrastructure financier.
+
+A second arms supplier.
+
+A second payment route.
+
+A second cloud environment.
+
+A second political forum.
+
+A second security partner.
+
+A second export market.
+
+Each alternative has a price and a depth.
+
+Some are immediate.
+
+Some require years to activate.
+
+Some are symbolic.
+
+Some can carry only a fraction of the required volume.
+
+The negotiated order can therefore be imagined as an option market.
+
+States buy options before they know which crisis will make the option valuable.
+
+Redundant infrastructure is an option.
+
+Domestic industrial capacity is an option.
+
+A minilateral forum is an option.
+
+A nonexclusive standard is an option.
+
+A local-currency settlement arrangement is an option.
+
+A relationship with a rival of one’s main security partner is an option.
+
+The strategic question is not how many options exist on paper.
+
+It is how many can be exercised within the time and cost available when pressure arrives.
+
+## Optionality has carrying cost
 
 Selective alignment can encourage opportunism.
 
@@ -150,6 +266,50 @@ Export controls can affect industries far from the original dispute.
 
 When interdependence carries more political risk, governments buy optionality.
 
+## The autonomy balance sheet
+
+Optionality should be evaluated like a balance sheet rather than a slogan.
+
+Assets.
+
+Substitutable suppliers.
+
+Domestic technical competence.
+
+Foreign exchange flexibility.
+
+Political relationships that survive disagreement.
+
+Multiple diplomatic venues.
+
+Infrastructure with credible exit paths.
+
+Liabilities.
+
+Single-source dependencies.
+
+Irreplaceable security guarantees.
+
+Technology stacks with high switching costs.
+
+Debt or market exposure that constrains policy.
+
+Domestic coalitions tied to one external relationship.
+
+Permissions controlled by another state.
+
+Contingent liabilities matter too.
+
+A mixed technology stack may function in peace and become incompatible under sanctions.
+
+A diversified arms portfolio may become unsustainable when wartime logistics tighten.
+
+A payment alternative may exist but lack liquidity at crisis scale.
+
+The balance sheet becomes real only under stress.
+
+## Great powers compete over the quality of connection
+
 That optionality changes diplomacy.
 
 The state no longer asks only which partner offers the best price.
@@ -202,6 +362,40 @@ Which one makes participation increase a state’s agency rather than reduce it?
 
 That last question may become decisive.
 
+## Connection quality can be measured
+
+A relationship is not attractive only because its nominal benefits are large.
+
+It is attractive when those benefits remain usable under political stress.
+
+Delivery reliability.
+
+Permission latency.
+
+Policy predictability.
+
+Switching cost.
+
+Local capability created.
+
+Disagreement tolerance.
+
+Data and technology rights.
+
+Ability to operate in degraded mode.
+
+Speed of restoring ordinary relations after a dispute.
+
+These variables form a connection-quality profile.
+
+A great power may offer the most capable technology and lose the broader relationship because the political strings make the connection brittle.
+
+Another may offer a less capable system with better local control and win durable influence.
+
+The negotiated order is partly a competition over these profiles.
+
+## Networks that enlarge the nodes
+
 The strongest network is not always the one with the largest center.
 
 It may be the one that creates the greatest total value for the nodes.
@@ -237,6 +431,36 @@ The member can ask what it receives, what it contributes, what it risks, and wha
 This is harder to manage than simple discipline.
 
 It may be more durable because the relationship is repeatedly renewed through value.
+
+## Capability transfer is different from dependency transfer
+
+Network benefits become politically durable when they leave capability behind.
+
+Training that creates domestic expertise.
+
+Infrastructure that remains nationally usable.
+
+Technology transfer that expands engineering capacity.
+
+Standards participation that gives smaller states authorship rather than mere compliance.
+
+Financial arrangements that deepen local systems rather than only connect them to an external hub.
+
+Security cooperation that strengthens national forces rather than only foreign access.
+
+This is capability transfer.
+
+The opposite can happen too.
+
+A new system can provide short-term performance while increasing long-term dependency.
+
+The negotiated order will favor networks that can prove they enlarge the node rather than merely enlarge the center.
+
+That is one reason middle powers care so much about local production, data sovereignty, co-development, and institutional voice even when those demands appear inefficient to outside suppliers.
+
+They are bargaining for a future in which the relationship remains optional enough to be chosen again.
+
+## Institutions need layered participation
 
 Institutions will have to change accordingly.
 
@@ -300,6 +524,70 @@ Where is it merely inherited habit?
 
 These questions are becoming the constitutional questions of networked geopolitics.
 
+## Minilateral systems need exportable edges
+
+Smaller groups can move faster.
+
+Three states can align a technical standard more easily than thirty.
+
+Four can build a payment link more quickly than a global institution can reform itself.
+
+A regional group can rehearse maritime cooperation while universal institutions remain blocked.
+
+Minilateralism therefore fits the negotiated order.
+
+But it creates a danger of club fragmentation.
+
+The best small groups should build exportable edges.
+
+Interfaces others can adopt.
+
+Rules for later accession.
+
+Observer status.
+
+Compatible standards.
+
+Clear pathways for linking to broader institutions.
+
+A minilateral arrangement becomes order-building when its successful functions can scale beyond the founding members.
+
+It becomes another fragment when every new group creates a closed technical and political island.
+
+The test is not the number of clubs.
+
+It is the cost of moving among them.
+
+## Standards become bargaining surfaces
+
+Technical standards are especially important because they can convert political preference into long-lived infrastructure.
+
+A state may refuse formal bloc alignment and still become deeply embedded in one ecosystem through telecommunications, cloud architecture, payment protocols, identity standards, industrial software, or military data links.
+
+The negotiated order therefore needs standards that can accommodate trust differences without requiring complete system separation.
+
+Common interfaces.
+
+Multiple implementations.
+
+Clear security profiles.
+
+Portable data where possible.
+
+Transparent conformance rules.
+
+Exit paths.
+
+Version governance.
+
+Emergency exceptions.
+
+Standards that preserve some switching power make plural alignment more feasible.
+
+Standards that create irreversible lock-in can harden blocs below the diplomatic surface.
+
+## The order will remain transactional
+
 The negotiated order will also be more transactional than some diplomats prefer.
 
 That word is often used critically.
@@ -325,6 +613,38 @@ A portfolio asks: how many alternatives do I have?
 A relationship asks: how much value disappears if this connection breaks?
 
 Stable order emerges when both sides have something to lose.
+
+## Repeated bargains create institutional memory
+
+One transaction can be opportunistic.
+
+A hundred transactions create a record.
+
+Did the partner deliver?
+
+Did it reinterpret the bargain after domestic pressure?
+
+Did it exploit dependence when the other side was vulnerable?
+
+Did it preserve unrelated cooperation during disagreement?
+
+Did it respect exit clauses?
+
+Did it return to normal rules after emergency measures ended?
+
+This history becomes institutional memory.
+
+A negotiated order does not mean every question starts from zero.
+
+Repeated bargains create priors.
+
+Reliable partners need less verification.
+
+Unreliable partners pay a higher political risk premium.
+
+The order becomes partly self-enforcing through reputation.
+
+## Reliability matters more than rhetoric
 
 This is why reliability matters more than rhetoric.
 
@@ -366,6 +686,8 @@ More information does not eliminate politics.
 
 It makes the quality of political judgment more valuable.
 
+## Crisis reveals hidden coupling
+
 The hardest test remains crisis.
 
 Ordinary selective alignment can collapse when sanctions, military access, financial exposure, and technology controls couple together.
@@ -377,6 +699,124 @@ Some will try to narrow the choice.
 Some will discover that years of diversification bought more time than outsiders expected.
 
 Some will discover that their autonomy was mostly ceremonial.
+
+Crisis reveals the dependency graph that peacetime rhetoric hides.
+
+The cloud provider depends on a jurisdiction.
+
+The defense system depends on an update.
+
+The payment alternative depends on liquidity in a currency exposed to the same sanctions coalition.
+
+The neutral port depends on insurers who have already repriced the route.
+
+The diversified supplier depends on a component produced by the original supplier’s ally.
+
+This is why selective alignment needs stress tests before the crisis.
+
+## The negotiability stress test
+
+A state can test whether its autonomy is operational through a series of counterfactuals.
+
+Remove the preferred payment rail.
+
+Remove one arms supplier.
+
+Remove one cloud provider.
+
+Assume secondary sanctions pressure.
+
+Assume maritime insurance disruption.
+
+Assume one security partner demands exclusivity.
+
+Assume domestic elections make one compromise temporarily impossible.
+
+What choices remain?
+
+How quickly can they be activated?
+
+How much output do they preserve?
+
+Which alternative requires another state’s permission?
+
+Which option exists legally but not commercially?
+
+Which domain can remain separate from the dispute?
+
+A negotiated order is durable when enough actors retain more than one feasible path through these tests.
+
+If most paths collapse to one bloc under modest pressure, the thesis weakens.
+
+## Great-power tolerance is a system variable
+
+Middle-power optionality does not depend only on middle powers.
+
+It depends on whether great powers tolerate bounded disagreement.
+
+A security partner that treats every commercial relationship with a rival as betrayal reduces the space for selective alignment.
+
+A technology provider that requires broad political conformity as the price of access turns technical integration into bloc discipline.
+
+A financial power that repeatedly uses extraterritorial pressure creates incentives for alternatives.
+
+A rising power that converts infrastructure dependence into political demands does the same.
+
+Great powers therefore shape the negotiability of the order through their own tolerance functions.
+
+How much disagreement can a partnership survive?
+
+Which domains are genuinely nonnegotiable?
+
+Which are made nonnegotiable for convenience?
+
+Can a partner say no once without losing everything?
+
+Can a dispute be repaired?
+
+The great power that can tolerate a useful partner’s autonomy may build a wider network than the one that demands perfect alignment.
+
+## The order needs stopping rules
+
+Negotiation without stopping rules can become permanent uncertainty.
+
+Some functions require clarity.
+
+A defense guarantee must mean something.
+
+A payment must settle.
+
+A standard must define conformance.
+
+A contract must eventually bind.
+
+A crisis agreement needs a condition for stand-down.
+
+The negotiated order therefore cannot be pure flexibility.
+
+It needs moments when bargaining becomes commitment.
+
+The skill is deciding where rigidity creates value and where it merely creates lock-in.
+
+A useful architecture has fixed cores and negotiable edges.
+
+Core treaty obligations.
+
+Core technical safety rules.
+
+Core payment integrity.
+
+Core sovereignty protections.
+
+Around them: modular participation, differentiated access, conditional cooperation, and revisable bargains.
+
+Too much core produces blocs.
+
+Too much edge produces fragility.
+
+Order is the balance.
+
+## After crisis, the map rewrites itself
 
 After the crisis, the system will not simply reset.
 
@@ -414,13 +854,69 @@ The result is not the end of order.
 
 It is an order whose boundaries are continuously negotiated.
 
-That can be uncomfortable for states accustomed to permanent deference.
+## What would falsify the thesis
 
-It can be empowering for states that previously had to accept packages designed elsewhere.
+The negotiated-order thesis should fail if the world stops being meaningfully negotiable.
 
-It can also be dangerous if every bargain becomes short-term and every institution becomes optional.
+If most consequential middle powers become locked into comprehensive blocs across security, finance, technology, trade, and infrastructure, selective alignment would be a transitional phase rather than the durable pattern argued here.
 
-The task is therefore to build enough structure that flexibility does not become chaos.
+If alternative payment, technology, procurement, and diplomatic networks remain too shallow to change behavior under pressure, optionality would be more rhetorical than structural.
+
+If great-power coercion reliably forces alignment at low cost, diversification would lose strategic value.
+
+If mixed networks become so insecure or inefficient that governments choose exclusive stacks voluntarily, modularity would weaken.
+
+If minilateral proliferation produces fragmentation without usable interfaces, the system may become less negotiated and simply more disordered.
+
+If crisis after crisis causes states to consolidate dependencies into hard camps rather than diversify them, the map will become cleaner than this book predicts.
+
+These are observable possibilities.
+
+The thesis is not that the world must remain messy.
+
+It is that current incentives give many consequential states reason to preserve bargaining space.
+
+## The negotiability ledger
+
+The system-level question can be reduced to a practical ledger.
+
+How many consequential states retain credible alternatives in more than one strategic domain?
+
+How long does switching take?
+
+How much capability survives the switch?
+
+How many institutions allow layered participation?
+
+How costly is movement among overlapping clubs?
+
+How often can a state disagree in one domain without losing cooperation in others?
+
+How predictable are emergency restrictions and their removal?
+
+How much local capability do major networks leave behind?
+
+How often do minilateral arrangements produce reusable standards rather than closed islands?
+
+How much bargaining value survives a real crisis?
+
+How often do great powers tolerate bounded disagreement from useful partners?
+
+How much of the international system remains fixed core versus negotiable edge?
+
+No single number can answer these questions.
+
+The pattern across them can.
+
+## A negotiated order
+
+The future order will contain alliances, rivalries, coercion, hard boundaries, and moments of binary choice.
+
+Between them will be a large political market in which states negotiate the terms of participation.
+
+The task is not to celebrate messiness.
+
+It is to build enough institutional grammar that messiness remains governable.
 
 Rules still matter.
 
@@ -448,7 +944,7 @@ To make one network more reliable.
 
 To make one relationship preserve more agency.
 
-To make one partnership more difficult to replace.
+To make one partnership more difficult to replace because it creates value rather than merely dependence.
 
 That is a harder standard than bloc discipline.
 
@@ -458,13 +954,11 @@ They do not want to be outside the system.
 
 They want room inside it.
 
-The map will remain messy because the mess is not unfinished history.
+The map will remain messy if that room remains economically, technically, and politically usable.
 
-It is the bargaining surface of a world in which more states possess assets that others need and more networks give them partial alternatives.
+The mess is not necessarily unfinished history.
 
-The future order will contain alliances, rivalries, coercion, hard boundaries, and moments of binary choice.
-
-Between them will be a large political market in which states negotiate the terms of participation.
+It can be the bargaining surface of a world in which more states possess assets that others need and more networks give them partial alternatives.
 
 The great powers that thrive will be those that understand this market without mistaking every negotiation for disloyalty.
 
