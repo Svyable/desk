@@ -330,6 +330,442 @@ One that can sometimes observe what satellites cannot.
 
 Purpose.
 
+## The two-ledger rule
+
+China analysis should maintain two ledgers that are never silently merged.
+
+The first is the self-description ledger.
+
+It records Chinese official statements, public doctrine, declared principles, and official descriptions of capabilities or objectives.
+
+The second is the external-assessment ledger.
+
+It records observations and judgments made by outside governments, analysts, researchers, or intelligence organizations.
+
+A claim can appear in both ledgers.
+
+That does not make the sources interchangeable.
+
+For every important proposition, analysts should be able to answer:
+
+Who is claiming this?
+
+What can that source directly know?
+
+What incentives shape the claim?
+
+What observable evidence supports or contradicts it?
+
+What confidence belongs to the underlying observation versus the interpretation?
+
+This prevents a common analytical shortcut.
+
+An external assessment is cited once.
+
+Several paragraphs later it has become “Chinese doctrine.”
+
+Or an official Chinese statement is repeated until it becomes treated as proof of internal operational practice.
+
+Both errors erase the distinction that uncertainty requires.
+
+## Observation, inference, and projection
+
+A second discipline is to label the type of claim.
+
+**Observation.** Something publicly visible occurred or was officially stated.
+
+**Inference.** The observation is interpreted as evidence of an underlying capability, posture, or institutional change.
+
+**Projection.** The inferred capability is used to imagine behavior in a future crisis.
+
+These are different epistemic steps.
+
+A satellite launch can be observed.
+
+Its contribution to strategic warning may be inferred from public evidence.
+
+The exact way a political leadership would use the resulting information during a crisis is projection.
+
+Projection can be useful.
+
+Planning requires it.
+
+The mistake is writing all three steps in the same grammatical voice.
+
+A warning brief should preserve the ladder.
+
+The more consequential the projected behavior, the more visible the assumptions should become.
+
+## Confidence should have layers
+
+One confidence label is too coarse.
+
+An analyst may have high confidence that a sensor exists, moderate confidence about the mission it supports, and low confidence about the decision rule connected to it.
+
+Compressing those into “moderate confidence” hides the structure of uncertainty.
+
+A China-warning assessment should therefore separate at least four layers.
+
+**Capability confidence.** How well is the physical or technical capability observed?
+
+**Integration confidence.** How well is it known that the capability is connected to a particular command or warning workflow?
+
+**Doctrine confidence.** How well is the relationship between the capability and declared or inferred policy understood?
+
+**Crisis-behavior confidence.** How well can analysts predict what political leaders would actually do under pressure?
+
+The layers will often decline from top to bottom.
+
+That is not analytical weakness.
+
+It is the honest shape of the evidence.
+
+## Warning maturity is not one threshold
+
+Outside discussion often asks whether China “has” a launch-on-warning posture or does not.
+
+That binary can obscure a long institutional transition.
+
+A warning capability can mature across several dimensions at different rates.
+
+Sensors.
+
+Coverage.
+
+Data fusion.
+
+Communications.
+
+Decision procedures.
+
+Force readiness.
+
+Training.
+
+Political confidence in the system.
+
+Degraded-mode operation.
+
+Human challenge.
+
+The relevant question may therefore be not whether a category has been crossed once and for all, but which parts of a more responsive warning posture are mature enough to matter in a crisis.
+
+One can imagine a maturity ladder without claiming where China sits on it.
+
+**Detection capacity.** Sensors provide useful strategic warning information.
+
+**Integrated warning.** Multiple sources feed a recognized warning process.
+
+**Decision-ready warning.** Outputs can reach senior political authority in time to affect options.
+
+**Responsive-force integration.** Warning and force posture are connected tightly enough that pre-impact decisions could matter operationally.
+
+**Practiced crisis integration.** Procedures are sufficiently institutionalized that leaders and operators can use them under degraded, contested conditions.
+
+Open sources may provide uneven evidence for each stage.
+
+The ladder is a question set, not a declaration that a specific stage has been reached.
+
+## Survivability and launch pressure can coexist
+
+A crucial analytical mistake is to treat survivability and launch pressure as opposites.
+
+A modernization motivated by survivability can reduce pressure by making retaliation more secure.
+
+The same modernization can increase pressure if leaders become more confident in warning and more concerned that a first strike could eliminate forces or command links before retaliation.
+
+Both dynamics can coexist.
+
+The net effect depends on institutional design.
+
+How survivable are the forces without rapid action?
+
+How much confidence exists in warning?
+
+How resilient are communications?
+
+How much authority remains centralized?
+
+How much uncertainty can leaders tolerate before options close?
+
+The policy question is therefore not whether improved warning is stabilizing or destabilizing in the abstract.
+
+It is which pressure it reduces and which pressure it creates.
+
+## The sensor-to-politics chain
+
+Every strategic-warning system has a chain from physical event to political meaning.
+
+Event.
+
+Sensor.
+
+Track.
+
+Fusion.
+
+Assessment.
+
+Institutional review.
+
+Political briefing.
+
+Decision.
+
+For China, outside observers can see some parts of the chain much better than others.
+
+The architecture should be analyzed at each seam.
+
+Where can false information enter?
+
+Where can delay accumulate?
+
+Where can ambiguity be compressed?
+
+Where can a machine output acquire more authority than its evidence deserves?
+
+Where can organizational incentives filter bad news?
+
+Where does political doctrine constrain interpretation?
+
+Where can a second source challenge the first?
+
+The sensor-to-politics chain is useful because it prevents technical modernization from being treated as automatic political behavior.
+
+More capable sensors shorten one segment.
+
+They do not tell us what happens at every later segment.
+
+## A source-lineage ledger
+
+Machine-assisted analysis creates a special risk of circular corroboration.
+
+A U.S. official assessment is reported by researchers.
+
+The research is summarized in media.
+
+A model retrieves several versions and presents them as multiple independent sources.
+
+The underlying claim may still trace back to one assessment.
+
+China analysis therefore needs source lineage.
+
+For every major claim:
+
+What is the earliest identifiable source?
+
+Which later sources add independent evidence?
+
+Which merely repeat the original judgment?
+
+Which observations are primary?
+
+Which are interpretations?
+
+Which sources share institutional incentives?
+
+Which sources have access to information unavailable publicly?
+
+This is especially important when a conclusion becomes conventional wisdom.
+
+Repetition can create confidence without creating new evidence.
+
+## Signal half-life
+
+Warning evidence also ages.
+
+An official statement may remain relevant to declaratory doctrine for years.
+
+A deployment pattern may become stale in days.
+
+A technical observation may matter until the system is upgraded.
+
+An external assessment may describe a trajectory that needs fresh confirmation later.
+
+The ledger should therefore record signal half-life.
+
+When should a claim be treated as background rather than current evidence?
+
+What would refresh it?
+
+What would supersede it?
+
+Which old assumptions are being carried forward because they are still true, and which because they remain easy to retrieve?
+
+Machine memory makes this important.
+
+A model can surface a decade of alarming statements in seconds.
+
+The interface should force the analyst to ask which ones are alive now.
+
+## The challenge cell
+
+A warning system analyzing China should have a standing challenge function designed around projection risk.
+
+Its job is not to argue that danger is low.
+
+Its job is to expose where familiar nuclear concepts have been imported without enough evidence.
+
+If the dominant assessment says a more responsive posture is emerging, the challenge cell asks:
+
+Which evidence shows capability?
+
+Which shows integration?
+
+Which shows doctrine?
+
+Which shows crisis procedure?
+
+What Chinese official statements point in a different direction?
+
+What external observations challenge the self-description?
+
+What would a survivability-centered explanation predict?
+
+What would a more launch-ready explanation predict?
+
+Which future observations would discriminate between them?
+
+The point is to generate testable divergence.
+
+A challenge cell that merely says “we do not know” adds little.
+
+A useful challenge cell says exactly what evidence would move the argument.
+
+## Entanglement should be mapped before targeting
+
+Conventional-nuclear overlap becomes most dangerous when one side does not know what meaning the other side assigns to a node.
+
+A targeting process should therefore include an entanglement map.
+
+Does the system plausibly support strategic warning?
+
+Does it also support conventional operations?
+
+Would its loss reduce political confidence in warning?
+
+Could the target state interpret simultaneous attacks on several dual-use nodes as preparation for something larger?
+
+Does the attacker possess independent evidence that the function is separable?
+
+What communication could reduce misinterpretation without revealing sensitive targeting information?
+
+This does not make every dual-use system untouchable.
+
+It makes strategic meaning part of target consequence.
+
+The military value of the target is only one column.
+
+## Dialogue can be designed as a warning sensor
+
+Communication becomes more useful when it is attached to specific uncertainty.
+
+A crisis channel should not exist only for general reassurance.
+
+It should be capable of testing hypotheses.
+
+Was the missile event a test?
+
+Was the exercise scheduled to end at a known time?
+
+Is a disruption to a strategic communication system being investigated?
+
+Was an apparent maneuver authorized?
+
+Is a public statement current policy or commentary by a subordinate institution?
+
+A response can be deceptive.
+
+That does not make the question useless.
+
+The answer becomes evidence to compare against behavior.
+
+Silence becomes evidence too, though never conclusive by itself.
+
+The goal is not trust.
+
+It is an additional channel whose error mode differs from the sensor network.
+
+## Reciprocal model audits
+
+The most dangerous assumptions may not be about weapons.
+
+They may be assumptions about the other side’s assumptions.
+
+Washington may assume Beijing interprets a particular conventional operation as limited.
+
+Beijing may assume Washington knows a particular sensor is nuclear-relevant.
+
+Both may be wrong.
+
+Governments should therefore conduct reciprocal model audits internally.
+
+What do we believe the other side thinks our posture is?
+
+What evidence supports that belief?
+
+Which of our actions could contradict the model they may be using?
+
+Which of their actions are we interpreting through a model they have never accepted?
+
+Where would a crisis create the largest divergence between intended signal and expected interpretation?
+
+Track-two and official dialogue can help test some of these assumptions without resolving the larger strategic relationship.
+
+The purpose is not to agree on doctrine.
+
+It is to discover where models are dangerously non-overlapping.
+
+## A China warning state machine
+
+Because the evidence is layered, the warning assessment should resist one opaque risk score.
+
+A state machine can help.
+
+**Background modernization.** Capability developments and declaratory positions evolve without a specific crisis indicator.
+
+**Heightened strategic attention.** A crisis or unusual activity makes warning posture more relevant, but evidence of changed operational behavior remains limited.
+
+**Ambiguous responsiveness.** Several indicators suggest increased warning or force responsiveness, while alternative explanations remain credible.
+
+**Convergent concern.** Independent technical, organizational, and political observations point toward a materially different warning environment.
+
+**Acute warning pressure.** Events plausibly threaten warning integrity, command continuity, or retaliatory options in a way that could compress political time.
+
+**De-escalating uncertainty.** Triggering events recede, but assumptions about posture and intent still require review.
+
+Promotion should require independent evidence appropriate to the claim.
+
+A speech cannot by itself prove operational transition.
+
+A capability observation cannot by itself prove political intent.
+
+A U.S. external assessment should not be relabeled as Chinese doctrine.
+
+A Chinese declaratory statement should not be treated as direct observation of internal procedure.
+
+The state machine exists to protect those boundaries when the crisis makes compression tempting.
+
+## What would falsify the framework?
+
+This chapter argues that the safest way to analyze China’s warning system is through layered evidence, explicit source identity, maturity questions, institutional seams, challenge functions, entanglement mapping, and communication rather than projection from familiar nuclear models.
+
+That argument weakens if outside analysts repeatedly predict Chinese crisis behavior accurately from simple capability models without needing the additional institutional layers.
+
+It weakens if Chinese self-description and external assessments converge consistently enough that maintaining separate ledgers adds little analytical value.
+
+It weakens if source-lineage and confidence layering make warnings slower without improving calibration.
+
+It weakens if dialogue provides no discriminating information in repeated crises.
+
+It weakens if entanglement mapping cannot identify materially different escalation risks.
+
+Those are empirical tests.
+
+Disciplined uncertainty is not an excuse to avoid being wrong.
+
+It is a method for being wrong in visible, correctable ways.
+
 ## Designing around opacity
 
 China’s warning system will remain partly opaque.
@@ -342,10 +778,26 @@ It is how to prevent uncertainty from automatically favoring the most dangerous 
 
 That requires resilient sensors, independent confirmation, human challenge, careful targeting around entangled systems, notification where possible, and communication channels that can survive political hostility.
 
+It also requires analytical bookkeeping.
+
+Who said what.
+
+What was observed.
+
+What was inferred.
+
+What was projected.
+
+How old the evidence is.
+
+Which sources are genuinely independent.
+
+Where confidence falls as the claim moves from capability toward political behavior.
+
 The AI-age danger is not simply that China develops faster warning.
 
 It is that two nuclear powers become increasingly fast at interpreting one another while remaining too slow, too suspicious, or too disconnected to correct the interpretation.
 
 Two opaque systems can become mutually dangerous through assumption alone.
 
-The best warning architecture is the one that knows where its picture ends.
+The best warning architecture is the one that knows where its picture ends—and preserves enough structure around that edge that uncertainty remains something to investigate rather than a blank space automatically filled with the worst case.
