@@ -37,7 +37,11 @@ jobs:
           PY
       - name: Validate publication-side scope
         run: |
-          python3 scripts/catalog.py --check --shelf-root /tmp/shelf
+          cp README.md /tmp/desk-root-before.md
+          cp catalog.json /tmp/desk-catalog-before.json
+          python3 scripts/catalog.py --write --shelf-root /tmp/shelf
+          cmp README.md /tmp/desk-root-before.md
+          cmp catalog.json /tmp/desk-catalog-before.json
           BOOKSELF_SHELF_CATALOG=/tmp/shelf/catalog.json python3 scripts/sync-reader-links.py --check
           test ! -e .github/workflows/sync-reader-links.yml
           grep -F 'Published edition · Shelf Reader' books/renegade-code/README.md
