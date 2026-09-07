@@ -8,7 +8,7 @@
 | **Status** | Drafting |
 | **Drafting Source** | Sven Hardy Benson’s Desk |
 | **Publication Surface** | Sven Hardy Benson’s Shelf |
-| **Chapters** | 4 of 18 drafted + prologue |
+| **Chapters** | 5 of 18 drafted + prologue |
 | **Edition** | First field edition candidate |
 | **Language** | English |
 
@@ -26,7 +26,7 @@ The first field edition publishes the framework and opening case while the compl
 - [x] [Ch 2 — Gray Is a Strategy](manuscript/ch02-gray-is-a-strategy.md)
 - [x] [Ch 3 — The Geography of Ambiguity](manuscript/ch03-the-geography-of-ambiguity.md)
 - [x] [Ch 4 — The Exercise That Does Not End](manuscript/ch04-the-exercise-that-does-not-end.md)
-- [ ] [Ch 5 — Quarantine](manuscript/ch05-quarantine.md)
+- [x] [Ch 5 — Quarantine](manuscript/ch05-quarantine.md)
 - [ ] [Ch 6 — The Inspection Regime](manuscript/ch06-the-inspection-regime.md)
 - [ ] [Ch 7 — Air and Maritime Pressure](manuscript/ch07-air-and-maritime-pressure.md)
 - [ ] [Ch 8 — The Cables Under the Strait](manuscript/ch08-the-cables-under-the-strait.md)
