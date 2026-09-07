@@ -1,0 +1,20 @@
+name: Great American Upgrade release gate
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out Great American Upgrade publication candidate
+        uses: actions/checkout@v4
+        with:
+          ref: 89893464e379deb3ab7877b061abdf0ee86ec38f
+      - name: Validate Great American Upgrade chapter length
+        run: python3 scripts/check-book-length.py great-american-upgrade
