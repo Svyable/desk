@@ -145,3 +145,53 @@ The United States was being made not only by what Americans intended but by what
 The summer eventually returned.
 
 Some of the decisions made in its absence did not.
+
+A short shock can also expose which parts of an economy are carrying slack and which are already operating near a household's limit.
+
+That matters because resilience is often described after the fact as if it were a trait. In practice it is usually a collection of ordinary margins that become visible only when something goes wrong. A family with stored grain has time. A town with several transport routes has options. A merchant with credit can wait for supply from somewhere else. A farmer with more than one crop is less exposed to a single failure. None of these arrangements guarantees safety, and none needs to have been built with a volcanic eruption in mind.
+
+The margin is what matters.
+
+When margins are thin, the same physical event travels farther through social life. A lost crop becomes a missed payment. A missed payment changes whether seed can be bought for the next planting. A livestock sale made under pressure changes next year's productive capacity. A household member who leaves for work may become the beginning of a migration chain. The weather has already improved by the time some of those consequences become visible.
+
+This is one reason recovery can be mistaken for reversal.
+
+Temperatures can return to normal while balance sheets remain damaged. Food can become available again while debts accumulated during scarcity still have to be paid. A road opened during a crisis can keep carrying traffic. A relative who moved west can send back information that makes a second move easier. The physical disturbance ends on one schedule and the social consequences unwind on another.
+
+That distinction helps explain why a one-season event can matter without needing to dominate the national story.
+
+It also clarifies what infrastructure does. A canal, road, warehouse, credit network, or market does not prevent a frost. It changes the number of responses available after the frost occurs. The benefit can look unimpressive in an ordinary year because the system's value is partly the option not to depend on the nearest harvest, the nearest buyer, or the nearest source of feed.
+
+Options are easy to undervalue before they are needed because unused capacity resembles waste.
+
+A second road looks redundant until the first is blocked. A second supplier looks inefficient until the first fails. Stored food ties up money until a harvest disappears. Spare financial capacity earns less than a fully leveraged balance sheet until income stops. The same tension appears repeatedly in later American infrastructure: systems optimized only for normal conditions can become brittle precisely because normal conditions make redundancy look unnecessary.
+
+1816 offers an early version of that argument.
+
+The event did not create a national doctrine of resilience. It did not produce a single federal program designed around volcanic climate risk. Most responses were local, improvised, and constrained by the institutions already present. That is what makes the episode useful. It shows that adaptation begins with inherited capacity, not with an ideal system designed after the danger is known.
+
+People use what exists.
+
+A fishing community can lean harder on the water. A household with kin elsewhere can ask for help. A merchant connected to wider markets can search farther for supply. A farmer with access to credit can survive a bad season differently from one already carrying debt. A region with better transport can import food at a cost that an isolated region cannot.
+
+Those differences are not side details. They determine who experiences the same weather as inconvenience, hardship, or catastrophe.
+
+They also complicate the language of national recovery. An average harvest can recover while particular households do not. Prices can fall while a family that sold animals during the crisis has fewer assets. Migration can relieve pressure in one place by moving people into another political and ecological system. Adaptation solves problems and redistributes them.
+
+That is a recurring feature of American development.
+
+Westward movement gave some families another chance while extending settlement onto Indigenous lands and intensifying dispossession. New transport networks reduced local scarcity while tying regions more tightly to distant markets and their price movements. Commercial agriculture increased specialization and output while making some producers more dependent on cash income and credit. Resilience at one scale can create exposure at another.
+
+The Year Without a Summer therefore belongs in a history of systems, not simply a history of strange weather.
+
+The useful question is not whether Americans 'learned the lesson' of 1816. Historical societies rarely receive lessons in such tidy form. The useful question is what capacities became more valuable once instability exposed their absence: mobility, storage, market access, information, diversification, credit, and eventually better observation.
+
+None of those capacities removes uncertainty.
+
+They change what people can do while uncertainty remains.
+
+That is a quieter form of progress than conquering nature, and a more durable one. A society cannot guarantee that the atmosphere will behave. It can make a failed local harvest less likely to become a permanent household disaster. It can gather information faster. It can move food farther. It can preserve enough slack that a bad season does not force every decision at once.
+
+In 1816, much of that capacity was still thin.
+
+The cold made the thinness visible.
