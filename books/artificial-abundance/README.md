@@ -60,6 +60,10 @@ This is deliberately not another book about allocating intelligence, delegating 
 - [Chapters 13–16 — revision controls](research/ch13-16-revision-controls.md)
 - [Chapter 13 — attention fact check](research/ch13-attention-fact-check.md)
 - [Chapter 13 — fake-review attention tax](research/ch13-fake-review-attention-tax.md)
+- [Chapters 14–15 — human signal and friction controls](research/ch14-15-human-signal-friction-controls.md)
+- [Chapters 16–18 — difficulty, reality, and physical premium](research/ch16-18-difficulty-reality-physical-premium.md)
+- [Chapters 19–21 — meaning, agency, and institutions](research/ch19-21-meaning-agency-institutions.md)
+- [Chapters 22–24 — politics, human value, and ending](research/ch22-24-politics-human-ending.md)
 
 ## Rights
 
