@@ -308,6 +308,64 @@ They are about the relationship between language and power.
 
 Translation technology can reduce one of diplomacy’s oldest transaction costs. That is a real gain. More people can access more foreign material. Smaller states can process larger information environments. Negotiators can prepare faster. Public diplomacy can reach audiences in more languages. Alliances can coordinate across linguistic boundaries with less delay.
 
+There is a further complication that machine fluency can obscure.
+
+In a crisis, governments often speak in several languages at once.
+
+A statement may be released first in a domestic language for a parliament and public, then rendered into English for international audiences, then carried into a third language by local media. Each version can be accurate and still create a different political effect. The domestic version may need firmness. The international version may need reassurance. The third may need to avoid historical vocabulary that inflames a neighboring capital.
+
+Professional diplomats have long managed this by treating multilingual statements as political products rather than mechanical copies. The order of release, the choice of which language is authoritative, the decision to leave a phrase slightly awkward in one language so that another retains a carefully bargained nuance—these are instruments of statecraft. Machine translation can generate all three versions in seconds. That speed is useful for monitoring. It is hazardous if a government begins treating the cascade of versions as interchangeable.
+
+Crisis statements amplify the hazard because audiences do not wait for the careful version.
+
+A translated clip circulates before the official text. A model-generated subtitle hardens a provisional phrase into something that looks deliberate. A counterpart ministry may brief its leadership from the first fluent rendering rather than from the source. By the time linguists and lawyers reconcile the versions, military and market reactions may already have begun.
+
+This is one reason foreign ministries should treat high-consequence multilingual communication as a verification problem as well as a language problem.
+
+Which text is official?
+
+Which language controls if the versions diverge?
+
+Who approved the translation that entered the public record?
+
+Was the circulating clip generated from the official text, from a paraphrase, or from a synthetic imitation?
+
+The authentication stack from earlier chapters returns here in linguistic form. Provenance, identity, authority, intention, and credibility all attach to words that crossed a language boundary.
+
+Treaty practice already knew this.
+
+Where multiple language versions of an agreement are equally authentic, a discrepancy is not a style issue. It can become a dispute about obligations. Negotiators therefore spend disproportionate time on terms that seem ordinary to outsiders—sovereignty, consultation, self-defense, temporary, immediate, appropriate measures—because those words carry different legal and political histories in different systems. A model that maximizes readability can erase exactly the roughness that recorded a hard-won compromise.
+
+The counterclaim deserves weight.
+
+Better translation may reduce misunderstanding more than it creates false confidence. Many diplomatic failures have involved parties who literally could not read one another’s press, laws, or military statements quickly enough. Abundance of usable translation can shrink that lag. Small missions can cover more open sources. Headquarters can compare a host-government speech to earlier speeches without waiting for a specialist. Mediators can put working drafts in front of parties who do not share a language. Those are real improvements, and they should not be dismissed because fluency also creates risks.
+
+The useful distinction is between translation that expands the set of materials a government can examine and translation that silently settles meaning before judgment begins.
+
+The first widens the aperture.
+
+The second narrows it prematurely.
+
+Institutions can design for the first.
+
+They can require source retention, human review thresholds, version labeling, and explicit flags where a model resolved ambiguity. They can train officers to treat elegant renderings as hypotheses. They can keep professional interpreters in rooms where the cost of a wrong register is irreversible. They can use models as comparison engines that surface divergence rather than as invisible voices that erase it.
+
+Interpreter practice supplies another caution.
+
+In simultaneous interpretation, meaning is reconstructed under time pressure. The interpreter hears a fragment, anticipates structure, chooses a register, and commits to a sentence before the speaker has finished. Experienced practitioners develop habits for handling unfinished thoughts, corrections, and culturally loaded references. They also develop habits for saying, in effect, that a point was unclear. That admission is a form of intellectual honesty the machine voice does not naturally offer. A system optimized for continuous fluent output may fill gaps rather than mark them.
+
+Diplomatic history is full of moments when the admission of uncertainty mattered more than a smooth sentence.
+
+A negotiator who hears that a counterpart’s phrase has several possible readings can ask a clarifying question. A principal who receives a seamless machine rendering may never learn that the clarification was available. The technology’s competence becomes a kind of silence around ambiguity.
+
+Multilingual public diplomacy intensifies the same dynamic outside the closed room.
+
+A ministry can now generate localized posts, video captions, and talking points for dozens of audiences. The operational gain is obvious: reach expands, staffing constraints loosen, and messages can be adapted quickly after an event. The strategic cost appears when adaptation quietly becomes reinvention—when the version produced for one audience is no longer a translation of the authorized message but a parallel product whose relationship to the original is hard to reconstruct. Public diplomacy has always tailored tone. What changes with generative systems is the volume at which tailored versions can proliferate before anyone audits whether they still say the same thing.
+
+The audit is the scarce resource.
+
+None of this restores a world in which language barriers protected governments from information overload. That world is gone, and much of what disappeared deserved to disappear. What remains is a craft problem: how to keep political comprehension scarce and deliberate while linguistic access becomes cheap.
+
 The gain should not be confused with the abolition of interpretation.
 
 Diplomacy begins again after the sentence has been translated.
