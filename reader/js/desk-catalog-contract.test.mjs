@@ -29,6 +29,28 @@ check(() => assert.ok(!loader.includes('meta\\.published')));
 check(() => assert.doesNotMatch(loader, /window\.__IMPRINT\?\.role === 'desk'/));
 check(() => assert.doesNotMatch(loader, /Expected one shared Reader catalog gate/));
 
+const adapterStart = loader.indexOf('function skipDeskCatalogCoverProbe');
+const adapterEnd = loader.indexOf('\nfunction adaptReaderSource', adapterStart);
+check(() => assert.ok(adapterStart >= 0 && adapterEnd > adapterStart));
+const skipDeskCatalogCoverProbe = Function(
+  `${loader.slice(adapterStart, adapterEnd)}\nreturn skipDeskCatalogCoverProbe;`
+)();
+const sharedCatalogSample = `async function loadCatalog() {
+  const slug = 'sample';
+  const meta = {};
+  meta.cover = await firstExisting(
+        ['cover.png', 'cover.jpg', 'cover.webp', 'cover.jpeg'].map(
+          (name) => \`books/\${slug}/media/\${name}\`
+        )
+      );
+}
+async function loadBook(slug) {
+  const cover = await firstExisting(['cover.png']);
+}`;
+const adaptedCatalogSample = skipDeskCatalogCoverProbe(sharedCatalogSample);
+check(() => assert.match(adaptedCatalogSample, /meta\.cover = null;/));
+check(() => assert.match(adaptedCatalogSample, /async function loadBook[\s\S]*const cover = await firstExisting/));
+
 const compatibleSharedApp = `
 import { catalogEntryVisible } from './catalog.js';
 async function loadCatalog() {
@@ -45,4 +67,4 @@ const contract = /catalogEntryVisible\(\s*meta\s*,\s*window\.__IMPRINT\?\.role\s
 check(() => assert.match(compatibleSharedApp, contract));
 check(() => assert.doesNotMatch(incompatibleSharedApp, contract));
 
-console.log(`Desk shared catalog ownership contract: ${assertions}/15 assertions passed`);
+console.log(`Desk shared catalog ownership contract: ${assertions}/18 assertions passed`);
