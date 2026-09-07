@@ -112,11 +112,7 @@ The old business has targets grounded in years of operating history.
 
 The new business has a range and a lot of uncomfortable verbs: test, learn, discover, revise.
 
-Put both into the same scorecard and the mature business often wins before the meeting begins.
-
-This is not because the scorecard is rigged.
-
-It is because precision carries authority.
+Put both into the same scorecard and the mature business often wins before the meeting begins. Precision carries authority.
 
 A metric that has been measured for ten years feels more real than a question that has existed for ten weeks.
 
@@ -160,9 +156,7 @@ The metric is embedded in incentives.
 
 It has constituencies.
 
-It is not merely observing the organization.
-
-It is organizing it.
+The metric organizes the organization; it does not merely observe it.
 
 That is also why replacing a metric carelessly can be dangerous.
 
